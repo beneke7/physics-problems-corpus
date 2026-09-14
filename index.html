@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta
+			name="description"
+			content="Searchable metadata index for physics olympiad problems, with outbound source links."
+		/>
+		<title>Physics problem corpus</title>
+		<style>
+			:root {
+				color-scheme: dark;
+				--bg: #0d1117;
+				--panel: #161b22;
+				--panel-soft: #11161d;
+				--border: #30363d;
+				--text: #e6edf3;
+				--muted: #8b949e;
+				--accent: #79c0ff;
+				--accent-soft: #1f6feb33;
+			}
+
+			* { box-sizing: border-box; }
+			body {
+				margin: 0;
+				background: var(--bg);
+				color: var(--text);
+				font: 15px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+			}
+			a { color: var(--accent); }
+			main, header, footer { width: min(1180px, calc(100% - 32px)); margin: auto; }
+			header { padding: 56px 0 30px; }
+			.eyebrow { color: var(--muted); font: 12px/1.2 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .14em; text-transform: uppercase; }
+			h1 { max-width: 760px; margin: 10px 0; font-size: clamp(2rem, 5vw, 4rem); line-height: 1.03; letter-spacing: -.04em; }
+			.lede { max-width: 720px; margin: 0; color: var(--muted); font-size: 1.05rem; }
+			.toolbar { position: sticky; top: 0; z-index: 2; padding: 16px 0; background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(10px); }
+			input[type="search"], select, button { border: 1px solid var(--border); border-radius: 8px; background: var(--panel); color: var(--text); font: inherit; }
+			input[type="search"] { width: 100%; padding: 12px 14px; font-size: 1rem; }
+			input[type="search"]:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+			.filters { display: flex; flex-wrap: wrap; align-items: end; gap: 10px; margin-top: 10px; }
+			.filter { display: grid; gap: 4px; min-width: 180px; color: var(--muted); font-size: .82rem; }
+			select { min-height: 40px; padding: 8px 10px; }
+			.check { display: flex; align-items: center; gap: 8px; min-height: 40px; color: var(--muted); }
+			button { min-height: 40px; padding: 8px 13px; cursor: pointer; }
+			button:hover { border-color: var(--accent); }
+			.status { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; margin: 15px 0; color: var(--muted); }
+			#results { display: grid; gap: 12px; }
+			.record { padding: 18px; border: 1px solid var(--border); border-radius: 12px; background: var(--panel); }
+			.record-top { display: flex; flex-wrap: wrap; gap: 8px; color: var(--muted); font-size: .9rem; }
+			.source { color: var(--accent); font-weight: 650; }
+			.record h2 { margin: 5px 0 0; font-size: 1.15rem; line-height: 1.3; }
+			.attribution { margin: 4px 0 0; color: var(--muted); font-size: .9rem; }
+			.field { display: grid; gap: 5px; margin-top: 12px; }
+			.field-label { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; }
+			.tags { display: flex; flex-wrap: wrap; gap: 5px; }
+			.tag { padding: 2px 7px; border: 1px solid var(--border); border-radius: 999px; color: #c9d1d9; font-size: .8rem; }
+			.links { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 15px; }
+			.links a { text-underline-offset: 3px; }
+			.more { display: block; margin: 18px auto 0; }
+			.empty, .error { padding: 30px; border: 1px solid var(--border); border-radius: 12px; background: var(--panel-soft); color: var(--muted); text-align: center; }
+			.error { color: #ff7b72; }
+			footer { margin-top: 45px; padding: 20px 0 45px; border-top: 1px solid var(--border); color: var(--muted); }
+			footer p { max-width: 760px; }
+			.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+			@media (max-width: 600px) {
+				header { padding-top: 34px; }
+				main, header, footer { width: min(100% - 20px, 1180px); }
+				.filter { min-width: min(100%, 180px); flex: 1 1 180px; }
+				.record { padding: 14px; }
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<div class="eyebrow">Physics corpus / public metadata index</div>
+			<h1>Find the right physics problem.</h1>
+			<p class="lede">
+				Search competitions, years, topics, techniques, ideas, languages, and solution availability.
+				The records link outward to source and archive pages; this site does not host copyrighted problem content.
+			</p>
+		</header>
+
+		<main>
+			<section class="toolbar" aria-label="Catalogue filters">
+				<label class="sr-only" for="query">Search the corpus</label>
+				<input id="query" type="search" placeholder="Search source, problem, topic, technique, or idea…" autocomplete="off" />
+				<div class="filters">
+					<label class="filter">Competition<select id="source"><option value="all">All competitions</option></select></label>
+					<label class="filter">Topic<select id="topic"><option value="all">All topics</option></select></label>
+					<label class="filter">Language<select id="language"><option value="all">All languages</option></select></label>
+					<label class="check"><input id="solution" type="checkbox" /> Solution indexed</label>
+					<button id="reset" type="button">Reset</button>
+				</div>
+				<div class="status" aria-live="polite"><span id="count">Loading catalogue…</span><span id="updated"></span></div>
+			</section>
+
+			<section id="results" aria-live="polite"></section>
+			<button id="more" class="more" type="button" hidden>Show more</button>
+		</main>
+
+		<footer>
+			<p><strong>Metadata only.</strong> No problem statements, solutions, translations, scans, figures, or local files are published here. Outbound links lead to their respective source or archive pages and do not grant a reuse licence.</p>
+			<a href="catalog.json">Download the raw JSON catalogue</a> ·
+			<a href="https://github.com/beneke7/physics-problems-corpus">View the repository</a>
+		</footer>
+
+		<script>
+			const $ = (id) => document.getElementById(id);
+			const query = $("query");
+			const source = $("source");
+			const topic = $("topic");
+			const language = $("language");
+			const solution = $("solution");
+			const results = $("results");
+			const count = $("count");
+			const updated = $("updated");
+			const more = $("more");
+			let records = [];
+			let visibleLimit = 100;
+
+			const array = (value) => Array.isArray(value) ? value : [];
+			const text = (value) => value === null || value === undefined ? "" : String(value);
+			const number = (value) => typeof value === "number" ? value.toLocaleString() : text(value);
+			const make = (tag, className, value) => {
+				const node = document.createElement(tag);
+				if (className) node.className = className;
+				if (value !== undefined) node.textContent = value;
+				return node;
+			};
+			const searchable = (record) => [
+				record.id, record.source, record.source_name, record.year, record.problem, record.title,
+				record.language, record.difficulty, record.format, record.attribution,
+				...array(record.languages), ...array(record.topics), ...array(record.subtopics),
+				...array(record.math_tools), ...array(record.techniques), ...array(record.ideas)
+			].map(text).join(" ").toLowerCase();
+
+			function fill(select, values, label) {
+				select.replaceChildren(new Option(label, "all"));
+				values.forEach((value) => select.add(new Option(value.label, value.value)));
+			}
+
+			function addTags(parent, label, values, limit = 8) {
+				const shown = array(values).slice(0, limit);
+				if (!shown.length) return;
+				const field = make("div", "field");
+				field.append(make("span", "field-label", label));
+				const tags = make("div", "tags");
+				shown.forEach((value) => tags.append(make("span", "tag", value)));
+				field.append(tags);
+				parent.append(field);
+			}
+
+			function card(record) {
+				const article = make("article", "record");
+				const top = make("div", "record-top");
+				top.append(make("span", "source", record.source_name || record.source));
+				if (record.year) top.append(make("span", "", `· ${record.year}`));
+				if (record.problem) top.append(make("span", "", `· ${record.problem}`));
+				article.append(top);
+				article.append(make("h2", "", record.title || record.problem || record.id));
+				if (record.attribution) article.append(make("p", "attribution", record.attribution));
+				addTags(article, "Topics", record.topics);
+				addTags(article, "Subtopics", record.subtopics, 6);
+				addTags(article, "Techniques", record.techniques, 6);
+				addTags(article, "Ideas", record.ideas, 6);
+				addTags(article, "Math tools", record.math_tools, 6);
+
+				const facts = [];
+				if (array(record.languages).length) facts.push(`language: ${array(record.languages).join(" + ").toUpperCase()}`);
+				if (record.format) facts.push(record.format);
+				if (record.points !== null && record.points !== undefined) facts.push(`${record.points} pt`);
+				if (record.has_solution) facts.push(`solution indexed${record.solution_language ? ` (${record.solution_language})` : ""}`);
+				if (record.has_figure) facts.push("figure indexed");
+				if (facts.length) article.append(make("p", "attribution", facts.join(" · ")));
+
+				const links = make("div", "links");
+				array(record.links).forEach((link) => {
+					if (!link || typeof link.url !== "string" || !link.url.startsWith("https://")) return;
+					const anchor = make("a", "", link.label || "Open source");
+					anchor.href = link.url;
+					anchor.target = "_blank";
+					anchor.rel = "noopener noreferrer";
+					links.append(anchor);
+				});
+				if (links.childElementCount) article.append(links);
+				return article;
+			}
+
+			function render() {
+				const needle = query.value.trim().toLowerCase();
+				const filtered = records.filter((record) =>
+					(!needle || record.search.includes(needle)) &&
+					(source.value === "all" || record.source === source.value) &&
+					(topic.value === "all" || array(record.topics).includes(topic.value)) &&
+					(language.value === "all" || array(record.languages).includes(language.value)) &&
+					(!solution.checked || record.has_solution)
+				);
+				const shown = filtered.slice(0, visibleLimit);
+				count.textContent = `${filtered.length.toLocaleString()} matching records` + (filtered.length > shown.length ? ` · showing ${shown.length.toLocaleString()}` : "");
+				more.hidden = shown.length >= filtered.length;
+				more.textContent = `Show ${Math.min(100, filtered.length - shown.length).toLocaleString()} more`;
+				results.replaceChildren();
+				if (!shown.length) {
+					results.append(make("div", "empty", "No records match these filters."));
+					return;
+				}
+				const fragment = document.createDocumentFragment();
+				shown.forEach((record) => fragment.append(card(record)));
+				results.append(fragment);
+			}
+
+			function reset() {
+				query.value = "";
+				source.value = topic.value = language.value = "all";
+				solution.checked = false;
+				visibleLimit = 100;
+				render();
+			}
+
+			query.addEventListener("input", () => { visibleLimit = 100; render(); });
+			[source, topic, language, solution].forEach((control) => control.addEventListener("change", () => { visibleLimit = 100; render(); }));
+			$("reset").addEventListener("click", reset);
+			more.addEventListener("click", () => { visibleLimit += 100; render(); });
+
+			fetch("catalog.json")
+				.then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
+				.then((catalog) => {
+					records = array(catalog.records).map((record) => ({ ...record, search: searchable(record) }));
+					const sources = array(catalog.sources).map((item) => ({ value: item.id, label: `${item.name} (${number(item.count)})` }));
+					const topics = [...new Set(records.flatMap((record) => array(record.topics)))].sort().map((value) => ({ value, label: value }));
+					const languages = [...new Set(records.flatMap((record) => array(record.languages)))].sort().map((value) => ({ value, label: value.toUpperCase() }));
+					fill(source, sources, "All competitions");
+					fill(topic, topics, "All topics");
+					fill(language, languages, "All languages");
+					updated.textContent = catalog.generated_at ? `updated ${catalog.generated_at}` : "";
+					render();
+				})
+				.catch(() => {
+					count.textContent = "";
+					results.replaceChildren(make("div", "error", "The catalogue could not be loaded."));
+				});
+		</script>
+	</body>
+</html>
