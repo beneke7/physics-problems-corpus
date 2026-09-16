@@ -16,7 +16,7 @@
 				--border: #ccc;
 				--text: #222;
 				--muted: #666;
-				--accent: #00e;
+				--accent: #c00;
 			}
 
 			* { box-sizing: border-box; }
@@ -29,7 +29,7 @@
 			a { color: var(--accent); }
 			a:visited { color: #551a8b; }
 			main, header, footer { width: min(1100px, calc(100% - 28px)); margin: auto; }
-			.site-header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; padding: 18px 0 10px; border-bottom: 3px solid #f60; }
+			.site-header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; padding: 18px 0 10px; border-bottom: 3px solid var(--accent); }
 			.site-header h1 { margin: 0; font: 700 20px/1.2 Georgia, serif; }
 			.site-title { color: var(--text); text-decoration: none; }
 			.site-title:visited { color: var(--text); }
@@ -37,13 +37,13 @@
 			.toolbar { padding: 12px 0 16px; }
 			input[type="search"], select, button { border: 1px solid #aaa; border-radius: 2px; background: #fff; color: var(--text); font: inherit; }
 			input[type="search"] { width: 100%; padding: 8px; }
-			input[type="search"]:focus, select:focus, button:focus-visible { outline: 2px solid #f60; outline-offset: 1px; }
-			.filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); align-items: end; gap: 7px; margin-top: 7px; }
-			.filter { display: grid; gap: 2px; color: var(--muted); font-size: 11px; }
-			select { min-height: 31px; padding: 4px; }
+			input[type="search"]:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+			.filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 145px), 1fr)); align-items: end; gap: 7px; margin-top: 7px; }
+			.filter { display: grid; min-width: 0; gap: 2px; color: var(--muted); font-size: 11px; }
+			select { width: 100%; min-width: 0; min-height: 31px; padding: 4px; text-overflow: ellipsis; }
 			.check { display: flex; align-items: center; gap: 5px; min-height: 31px; color: var(--muted); font-size: 12px; }
 			button { min-height: 31px; padding: 4px 9px; cursor: pointer; }
-			button:hover { border-color: #f60; }
+			button:hover { border-color: var(--accent); }
 			.status { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px; margin: 8px 0 0; color: var(--muted); font-size: 12px; }
 			#results { border-top: 1px solid var(--border); }
 			.record { padding: 12px 0; border-bottom: 1px solid #ddd; }
@@ -67,6 +67,8 @@
 			@media (max-width: 600px) {
 				main, header, footer { width: min(100% - 20px, 1100px); }
 				.site-header { padding-top: 13px; }
+				.filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+				.filters .filter:first-child { grid-column: 1 / -1; }
 			}
 		</style>
 	</head>
@@ -119,7 +121,9 @@
 			const summary = $("summary");
 			const more = $("more");
 			let records = [];
-			let visibleLimit = 100;
+			const pageSize = 50;
+			let visibleLimit = pageSize;
+			let renderTimer;
 
 			const array = (value) => Array.isArray(value) ? value : [];
 			const text = (value) => value === null || value === undefined ? "" : String(value);
@@ -204,7 +208,7 @@
 				const shown = filtered.slice(0, visibleLimit);
 				count.textContent = `${filtered.length.toLocaleString()} matching records` + (filtered.length > shown.length ? ` · showing ${shown.length.toLocaleString()}` : "");
 				more.hidden = shown.length >= filtered.length;
-				more.textContent = `Show ${Math.min(100, filtered.length - shown.length).toLocaleString()} more`;
+				more.textContent = `Show ${Math.min(pageSize, filtered.length - shown.length).toLocaleString()} more`;
 				results.replaceChildren();
 				if (!shown.length) {
 					results.append(make("div", "empty", "No records match these filters."));
@@ -219,12 +223,17 @@
 				query.value = "";
 				source.value = topic.value = technique.value = idea.value = mathTool.value = language.value = "all";
 				solution.checked = false;
-				visibleLimit = 100;
+				visibleLimit = pageSize;
 				render();
 			}
 
-			query.addEventListener("input", () => { visibleLimit = 100; render(); });
-			[source, topic, technique, idea, mathTool, language, solution].forEach((control) => control.addEventListener("change", () => { visibleLimit = 100; render(); }));
+			function scheduleSearch() {
+				clearTimeout(renderTimer);
+				renderTimer = setTimeout(() => { visibleLimit = pageSize; render(); }, 100);
+			}
+
+			query.addEventListener("input", scheduleSearch);
+			[source, topic, technique, idea, mathTool, language, solution].forEach((control) => control.addEventListener("change", () => { visibleLimit = pageSize; render(); }));
 			$("reset").addEventListener("click", reset);
 			more.addEventListener("click", () => { visibleLimit += 100; render(); });
 
