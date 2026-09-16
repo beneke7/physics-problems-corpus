@@ -121,6 +121,7 @@
 			const summary = $("summary");
 			const more = $("more");
 			let records = [];
+			let ideaLabels = {};
 			const pageSize = 50;
 			let visibleLimit = pageSize;
 			let renderTimer;
@@ -134,11 +135,23 @@
 				if (value !== undefined) node.textContent = value;
 				return node;
 			};
+			const ideaLabel = (value) => ideaLabels[value] || value;
+			const kevinLabels = (record) => {
+				if (record.source !== "kevin-zhou") return null;
+				const parts = record.id.split("-");
+				if (parts.length < 4) return null;
+				const slug = parts.slice(2, -1).join("-");
+				return {
+					handout: record.handout || `${slug.slice(0, 1).toUpperCase()}${slug.slice(1)}`,
+					problem: record.problem || parts.at(-1).toUpperCase()
+				};
+			};
 			const searchable = (record) => [
-				record.id, record.source, record.source_name, record.year, record.problem, record.title,
+				record.id, record.source, record.source_name, record.year, record.problem, record.title, record.handout,
 				record.language, record.difficulty, record.format, record.attribution,
 				...array(record.languages), ...array(record.topics), ...array(record.subtopics),
-				...array(record.math_tools), ...array(record.techniques), ...array(record.ideas)
+				...array(record.math_tools), ...array(record.techniques), ...array(record.ideas),
+				...array(record.ideas).map(ideaLabel)
 			].map(text).join(" ").toLowerCase();
 
 			function fill(select, values, label) {
@@ -160,16 +173,21 @@
 			function card(record) {
 				const article = make("article", "record");
 				const top = make("div", "record-top");
+				const kevin = kevinLabels(record);
 				top.append(make("span", "source", record.source_name || record.source));
-				if (record.year) top.append(make("span", "", `· ${record.year}`));
-				if (record.problem) top.append(make("span", "", `· ${record.problem}`));
+				if (kevin) {
+					top.append(make("span", "", `· ${kevin.handout}`));
+				} else {
+					if (record.year) top.append(make("span", "", `· ${record.year}`));
+					if (record.problem) top.append(make("span", "", `· ${record.problem}`));
+				}
 				article.append(top);
-				article.append(make("h2", "", record.title || record.problem || record.id));
+				article.append(make("h2", "", kevin ? kevin.problem : record.title || record.problem || record.id));
 				if (record.attribution) article.append(make("p", "attribution", record.attribution));
 				addTags(article, "Topics", record.topics);
 				addTags(article, "Subtopics", record.subtopics, 6);
 				addTags(article, "Techniques", record.techniques, 6);
-				addTags(article, "Ideas", record.ideas, 6);
+				addTags(article, "Ideas", array(record.ideas).map(ideaLabel), 6);
 				addTags(article, "Math tools", record.math_tools, 6);
 
 				const facts = [];
@@ -240,11 +258,12 @@
 			fetch("catalog.json")
 				.then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
 				.then((catalog) => {
+					ideaLabels = catalog.idea_labels || {};
 					records = array(catalog.records).map((record) => ({ ...record, search: searchable(record) }));
 					const sources = array(catalog.sources).map((item) => ({ value: item.id, label: `${item.name} (${number(item.count)})` }));
 					const topics = [...new Set(records.flatMap((record) => array(record.topics)))].sort().map((value) => ({ value, label: value }));
 					const techniques = [...new Set(records.flatMap((record) => array(record.techniques)))].sort().map((value) => ({ value, label: value }));
-					const ideas = [...new Set(records.flatMap((record) => array(record.ideas)))].sort().map((value) => ({ value, label: value }));
+					const ideas = [...new Set(records.flatMap((record) => array(record.ideas)))].sort().map((value) => ({ value, label: ideaLabel(value) }));
 					const mathTools = [...new Set(records.flatMap((record) => array(record.math_tools)))].sort().map((value) => ({ value, label: value }));
 					const languages = [...new Set(records.flatMap((record) => array(record.languages)))].sort().map((value) => ({ value, label: value.toUpperCase() }));
 					fill(source, sources, "All competitions");
