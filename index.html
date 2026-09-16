@@ -33,7 +33,6 @@
 			.site-header h1 { margin: 0; font: 700 20px/1.2 Georgia, serif; }
 			.site-title { color: var(--text); text-decoration: none; }
 			.site-title:visited { color: var(--text); }
-			.summary { color: var(--muted); font-size: 12px; }
 			.toolbar { padding: 12px 0 16px; }
 			input[type="search"], select, button { border: 1px solid #aaa; border-radius: 2px; background: #fff; color: var(--text); font: inherit; }
 			input[type="search"] { width: 100%; padding: 8px; }
@@ -75,7 +74,6 @@
 	<body>
 		<header class="site-header">
 			<h1><a class="site-title" href="./">physics problem finder</a></h1>
-			<span id="summary" class="summary">loading catalogue…</span>
 		</header>
 
 		<main>
@@ -92,7 +90,7 @@
 					<label class="check"><input id="solution" type="checkbox" /> Solution indexed</label>
 					<button id="reset" type="button">Reset</button>
 				</div>
-				<div class="status" aria-live="polite"><span id="count">Loading catalogue…</span><span id="updated"></span></div>
+				<div class="status" aria-live="polite"><span id="count">Loading catalogue…</span></div>
 			</section>
 
 			<section id="results" aria-live="polite"></section>
@@ -117,8 +115,6 @@
 			const solution = $("solution");
 			const results = $("results");
 			const count = $("count");
-			const updated = $("updated");
-			const summary = $("summary");
 			const more = $("more");
 			let records = [];
 			let ideaLabels = {};
@@ -272,8 +268,6 @@
 					fill(idea, ideas, "All ideas");
 					fill(mathTool, mathTools, "All math tools");
 					fill(language, languages, "All languages");
-					summary.textContent = `${number(catalog.record_count || records.length)} records · metadata and links only`;
-					updated.textContent = catalog.generated_at ? `updated ${catalog.generated_at}` : "";
 					render();
 				})
 				.catch(() => {
