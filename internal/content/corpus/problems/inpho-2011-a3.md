@@ -14,12 +14,13 @@ format: scaffolded
 core_ideas: []
 estimated_time_min: 25
 points: null
-has_solution: false
+has_solution: true
 has_figure: true
 figure_files: [inpho-2011-a3-fig01.png]
 provenance_note: "phoXiv Mathpix Markdown: cache/phoxiv/inpho/2011.mmd; figures require local harvest"
 verification_status: pending
 
+solution_language: en
 ---
 
 3. A Carnot engine cycle is shown in the Fig. (2). The cycle runs between temperatures $T_{H}=\alpha T_{0}$ and $T_{L}=T_{0}(\alpha>1)$. Minimum and maximum volume at state 1 and state 3 are $V_{0}$ and $n V_{0}$ respectively. The cycle uses one mole of an ideal gas with $C_{P} / C_{V}=\gamma$. Here $C_{P}$ and $C_{V}$ are the specific heats at constant pressure and volume respectively. You must express all answers in terms of the given parameters $\left\{\alpha, n, T_{0}, V_{0}, \gamma\right\}$ and universal gas constant $R$.

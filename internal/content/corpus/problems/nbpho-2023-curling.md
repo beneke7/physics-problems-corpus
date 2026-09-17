@@ -15,8 +15,9 @@ has_figure: true
 figure_files: [nbpho-2023-curling-fig1.jpg]
 provenance_note: "NBPhO 2023, Problem 1, by Oskar Vallhagen. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **1. Curling (8 points)** — *Oskar Vallhagen.*

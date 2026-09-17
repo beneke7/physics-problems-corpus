@@ -5,11 +5,10 @@ kind: official_solution_document
 language: ru
 solution_type: official
 source_pdf: cache/phoxiv/rupho-x/2019/T7_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: []
 verification_status: flagged
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/rupho-x/2019/T7_S.pdf."
 ---
 
-A1 Найдите расстояние между глазом наблюдателя и нижней точкой параболоида, когда сосуд вращался. ??
-h
+A1 ??   Найдите расстояние h между глазом наблюдателя и нижней точкой параболоида, когда сосуд вращался.

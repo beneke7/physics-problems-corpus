@@ -5,691 +5,412 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/ipho/2002/T3_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [ipho-2002-t3]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2002/T3_S.pdf."
 ---
 
-III - 1
 SOLUTION T3 : . A Heavy Vehicle Moving on An Inclined Road
-To simplify the model we use the above figure with h1 = h+0.5 t
-Ro = R
-1. Calculation of the moment inertia of the cylinder
-Ri=0.8 Ro
-Mass of cylinder part : mcylinder =0.8 M
-Mass of each rod : mrod = 0.025 M
-θ
-l
-l
-h1III - 2
-pts 0.1 7 . 0 00533 . 0 8 656 . 0
-becomes each wheel of inertia moment The
-pts 0.5 00533 . 0 ) 64 . 0 ( 025 . 0
-3
-1
-3
-1
-3
-1
-pts 0.5 656 . 0 ) 64 . 0 1 ( ) 8 . 0 ( 5 . 0
-) ( 5 . 0 ) ( 5 . 0 2
-pts 0.4 ...
-2 2 2
-2 2 2 3
-0
-2
-rod
-2
-2 2
-2 2 4 4 3
-.
-2
-2
-rod1
-2
-.
-2 2
-MR MR x MR I
-MR R M R m R dr r dm r
-MR R M
-R R m R R dr r dm r
-dm r dm r dm r dm r I
-in rod in
-Rin
-i o cylinder i o
-Ro
-Ri shell cyl
-n rod shell cyl wholepart
-= + =
-= = = = =
-= + =
-+ = − = =
-+ + + = =
-∫ ∫
-∫ ∫
-∫ ∫ ∫ ∫
-λ λ
-πσ πσ
+
+
+                                       l
+
+
+                                                       l
+
+
+
+
+                                                                   h1
+
+
+                                                       θ
+
+
+
+ To simplify the model we use the above figure with h1 = h+0.5 t
+ Ro = R
+
+  1. Calculation of the moment inertia of the cylinder
+
+      Ri=0.8 Ro
+      Mass of cylinder part : mcylinder =0.8 M
+      Mass of each rod       : mrod = 0.025 M
+
+
+
+
+                                        III - 1
+                2                   2              2                      2
+I=            ∫ r dm = ∫ r dm + ∫ r dm + ... + ∫ r dm                                    0.4 pts
+        wholepart         cyl . shell       rod1                  rod n
+                          Ro
+       2            3             4     4                   2     2
+    ∫ r dm = 2πσ ∫ r dr = 0.5πσ( Ro − Ri ) = 0.5mcylinder (Ro + Ri )
+cyl . shell               Ri
+
+                    = 0.5(0.8 M ) R 2 (1 + 0.64) = 0.656 MR 2                            0.5 pts
+               Rin
+      2             2     1 3 1            2    1              2              2
+∫rodr   dm = λ  ∫0 r dr = 3 λRin = 3 mrod Rin = 3 0.025M (0.64R ) = 0.00533MR            0.5 pts
+
+The moment inertia of each wheel becomes
+I = 0.656MR 2 + 8 x 0.00533MR 2 = 0.7 MR 2                                                0.1 pts
+
+
+
 2. Force diagram and balance equations:
+
 To simplify the analysis we devide the system into three parts: frame (part1) which
 mainly can be treated as flat homogeneous plate, rear cylinders (two cylinders are treated
 collectively as part 2 of the system), and front cylinders (two front cylinders are treated
 collectively as part 3 of the system).
+
 Part 1 : Frame
-0.4 pts
+
+
+                N12
+                                        l
+
+
+      f12h                                                    l
+
+
+
+
+                                                                  N13
+                                  m1 g
+                                                       f13h
+
+                                                                              h1
+
+                                                                                       0.4 pts
 The balance equation related to the forces work to this parts are:
-l
-l
-h1
-N13
-m1g
-f13h
-f12h
-N12III - 3
-Required conditions:
-pts 0.2 (3) 0 N N
-that so zero, is O against on Then torsi
-pts 0.2 (2) cos
-axis vertical inthe force of Balance
-pts 0.2 (1) sin
-axis horizontal inthe force of Balance
-1 13 1 12 13 12
-13 12 1
-1 13 12 1
-= + + −
-+ =
-= − −
-h f h f l l
-N N g m
-a m f f g m
-h h
-h h
-θ
-θ
+
+
+
+
+                                                              III - 2
+ Required conditions:
+ Balance of force in the horizontal axis
+ m1 g sin θ − f 12 h − f 13 h= m1 a                              (1) 0.2 pts
+ Balance of force in the vertical axis
+ m1 g cos θ = N 12 + N13                                        (2) 0.2 pts
+ Then torsi on against O is zero, so that
+ N12 l − N13 l + f 12 h h1 + f 13 h h1 = 0                       (3) 0.2 pts
+
 Part two : Rear cylinder
-0.25 pts
-pts 0.15 (5) 0 cos N
-pts 0.15 (4) sin f
-: rear wheel in condition balance From
-21 2
-2 21h
-= − −
-= + −
-θ
-θ
-Mg N
-Ma Mg f
+
+
+                                              N2
+          f2
+
+
+                                              f21h
+
+                    N21
+                                Mg
+                                                                      0.25 pts
+
+From balance condition in rear wheel :
+f 21h − f 2 + Mg sin θ = Ma                                     (4)        0.15 pts
+N 2 − N 21 − Mg cos θ = 0                                      (5)         0.15 pts
+
 For pure rolling:
-(6) a f or 2 2
-2
-2 2
-R
-I
-R
-a
-I I R f
-=
-= = α
-Forrollingwithsliding:
-F2 = uk N2 (7)
-0.2 pts
+
+                                              a2
+                            f 2 R = Iα2 = I
+                                              R
+                                     I
+                          or f 2 =      a                            (6)
+                                     R2
+For rolling with sliding:
+
+                    F2 = uk N2                                 (7)
+
+
+                                                                           0.2 pts
+
 Part Three : Front Cylinder:
-f21h
-Mg
-N21
-f2
-N2III - 4
-0.25 pts
-pts 0.15 (9) 0 cos N
-pts 0.15 (8) sin f
-: l front whee inthe condition balance From
-31 3
-3 31h
-= − −
-= + −
-θ
-θ
-Mg N
-Ma Mg f
+
+
+
+
+                                                     III - 3
+                                       N3
+           f3
+
+
+                                       f31h
+
+                     N31
+                             Mg
+                                                                0.25 pts
+
+From balance condition in the front whee l :
+f 31h − f 3 + Mg sin θ = Ma                                                 (8)   0.15 pts
+N 3 − N 31 − Mg cos θ = 0                                                  (9)    0.15 pts
+
 For pure rolling:
-(10) a f or 2 3
-3
-3 3
-R
-I
-R
-a
-I I R f
-=
-= = α
-Forrollingwithsliding:
-F3 = uk N3 (11)
-0.2 pts
+
+
+                    a3
+f 3 R = Iα3 = I
+                    R
+            I
+or f 3 =      a                                                                      (10)
+           R2
+For rolling with sliding:
+
+                    F3 = uk N3                                                       (11)
+
+                                                                                  0.2 pts
 3. From equation (2), (5) and (9) we get
-m1 gcosθ = N2 – m2g cosθ+N3-m3g cosθ
-N2 + N3 = (m1+m2+m3)gcosθ=7Mgcosθ (12)
+
+    m1 gcosθ = N2 – m2 g cosθ+N3 -m3 g cosθ
+    N2 + N3 = (m1 +m2 +m3 )gcosθ=7Mgcosθ                                            (12)
+
 And from equation (3), (5) and (8) we get
-(N3-Mg cos θ)l – (N2-Mg cos θ) l=h1 (f2 +Ma-Mg sinθ+f3+Ma-Mg sinθ)
-(N3 – N2)= h1 (f2 +2Ma-2Mg sinθ+f3)/l
-Equations 12 and 13 are given 0.25 pts
+
+(N 3 -Mg cos θ) l – (N 2 -Mg cos θ) l=h1 (f2 +Ma-Mg sinθ+f3 +Ma-Mg sinθ)
+
+(N 3 – N2 )= h1 (f2 +2Ma-2Mg sinθ+f3 )/l
+
+                                  Equations 12 and 13 are given 0.25 pts
+
 CASE ALL CYLINDER IN PURE ROLLING
+
 From equation (4) and (6) we get
-f31h
-Mg
-N31
-f3
-N3III - 5
-f21h = (I/R2
-)a +Ma-Mg sinθ (14) 0.2 pts
+
+
+                                              III - 4
+   f21h = (I/R2 )a +Ma-Mg sinθ                                         (14)    0.2 pts
+
 From equation (8) and (10) we get
-f31h = (I/R2
-)a +Ma-Mg sinθ (15) 0.2 pts
+
+   f31h = (I/R2 )a +Ma-Mg sinθ                                         (15)    0.2 pts
+
 Then from eq. (1) , (14) and (15) we get
-5Mg sinθ - {(I/R2
-)a +Ma-Mg sinθ}-{(I/R2
-)a +Ma-Mg sinθ}= m1a
-7 Mg sinθ = (2I/R2
-+7M)a
-θ
-θ θ
-sin 833 . 0
-7 . 0
-2 7
-sin 7
-2 7
-sin 7
-2
-2
-2
-g
-R
-MR
-M
-Mg
-R
-I
-M
-Mg
-a =
-+
-=
-+
-= (16) 0.35 pts
-θ θ
-θ θ θ
-θ θ θ
-sin 41 . 0 cos Mg 3.5
-] sin sin 833 . 0 ) 7 . 0 [( 3.5Mgcos
-] sin sin 833 . 0 ) [( cos
-2
-7
-1
-1
-2
-1
-3
-Mg
-l
-h
-Mg g M M
-l
-h
-Mg g
-R
-I
-M
-l
-h
-g
-M
-N
-+ =
-− × + + =
-− × + + =
-θ θ
-θ
-θ
-θ
-θ θ θ
-sin 0.41 cos 3.5g
-] sin 2
-7 7 . 0
-sin 7
-) 7 . 0 [( - cos 3.5g
-] sin sin 833 . 0 ) [( cos
-2
-7
-1
-1
-2
-1
-2
-Mg
-l
-h
-Mg
-M M
-Mg
-M M
-l
-h
-Mg g M
-R
-I
-l
-h
-g
-M
-N
-− =
-−
-+
-+ =
-− × + − =
-0.2 pts
+
+5Mg sinθ - {(I/R2 )a +Ma-Mg sinθ}-{(I/R2 )a +Ma-Mg sinθ}= m1 a
+
+7 Mg sinθ = (2I/R2 +7M)a
+                  7 Mg sin θ   7 Mg sin θ
+             a=              =                = 0.833g sin θ            (16) 0.35 pts
+                           I       0 . 7 MR 2
+                 7M + 2 2 7M + 2
+                          R             R2
+
+      7M           h         I
+N3 =      g cos θ + 1 [( M + 2 ) × 0.833 g sin θ − Mg sin θ ]
+       2            l       R
+                   h
+    = 3.5Mgcos θ + 1 [( M + 0.7M ) × 0.833 g sin θ − Mg sin θ ]
+                    l
+                        h
+    = 3.5 Mg cosθ + 0.41 1 Mg sin θ
+                        l
+
+          7M          h     I
+N2 =         g cos θ − 1 [( 2 + M ) × 0.833g sin θ − Mg sin θ]
+           2          l R
+                         h1                 7 Mg sin θ
+    = 3.5g cos θ -          [( 0.7 M + M )             − 2 Mg sin θ]
+                         l                 0.7M + 7 M
+                       h
+    = 3.5g cos θ − 0.41 1 Mg sin θ
+                        l
+                                                                              0.2 pts
 The Conditions for pure rolling:
-3 2
-3
-3
-2 2
-2
-2
-3 3 2 2
-a
-R
-I
-and a
-R
-I
-and
-N N
-N f N f
-s s
-s s
-µ µ
-µ µ
-≤ ≤
-≤ ≤
-0.2 pts
-l
-h
-Mg
-l
-h
-g M
-s
-s
-s
-1
-1
-41 . 0 5831 . 0
-5 . 3
-tan
-) sin 0.41 cos (3.5Mg sin 833 . 0 7 . 0
-becomes equation left The
-µ
-µ
-θ
-θ θ µ θ
-+
-≤
-− ≤ ×III - 6
-l
-h
-mg
-l
-h
-g m
-s
-s
-s
-1
-1
-41 . 0 5831 . 0
-5 . 3
-tan
-) sin 0.41 cos (3.5mg sin 833 . 0 7 . 0
-becomes equation right the While
-µ
-µ
-θ
-θ θ µ θ
-−
-≤
-+ ≤ ×
-(17) 0.1 pts
+
+           f 2 ≤ µs N 2              and f 3 ≤ µs N 3
+           I2                              I3                                 0.2 pts
+                a ≤ µs N 2           and        a ≤ µs N 3
+           R 22                            R 23
+The left equation becomes
+                                             h
+0.7M × 0. 833g sin θ ≤ µ s (3.5Mg cosθ − 0.41 1 Mg sin θ )
+                                             l
+                3.5µ s
+tan θ ≤
+                             h1
+          0.5831+ 0.41µ s
+                              l
+
+
+                                                III - 5
+While the right equation becomes
+                                            h
+0.7m × 0.833g sin θ ≤ µ s (3.5mg cosθ + 0.41 1 mg sin θ )
+                                             l
+              3.5µ s
+tan θ ≤
+                         h
+        0.5831− 0.41µ s 1
+                          l
+                                                                                   (17)         0.1 pts
+
 CASE ALL CYLINDER SLIDING
-From eq. (4) f21h = Ma +ukN2 – Mgsinθ (18) 0.15 pts
-Fromeq. (8) f31h = Ma +ukN3 – Mgsinθ (19) 0.15 pts
+
+From eq. (4) f21h = Ma +uk N2 – Mgsinθ                        (18)                              0.15 pts
+From eq. (8) f31h = Ma +uk N3 – Mgsinθ                        (19)                              0.15 pts
 From eq. (18) and 19 :
-5Mg sinθ - (Ma + ukN2 – Mg sinθ)- (Ma + ukN3 – Mg sinθ)=m1a
-M
-N N
-g
-M
-N N Mg
-a k k k
-7
-) (
-sin
-7
-sin 7 3 2 3 2 +
-− =
-− −
-=
-µ
-θ
-µ µ θ
-(20) 0.2 pts
-θ cos 7 2 3 Mg N N = +
+  5Mg sinθ - (Ma + uk N2 – Mg sinθ)- (Ma + uk N3 – Mg sinθ)=m1 a
+
+        7 Mg sin θ − µk N 2 − µk N 3            µ (N + N3)
+   a=                                = g sin θ − k 2                               (20)         0.2 pts
+                    7M                             7M
+
+N 3 + N 2 = 7Mg cos θ
+
 From the above two equations we get :
-θ µ θ cos sin a g g k − = 0.25 pts
+                              a = g sin θ − µk g cos θ                                         0.25 pts
+
+
 The Conditions for complete sliding: are the opposite of that of pure rolling
-3 2
-3
-3
-2 2
-2
-2
-3 3 2 2
-' a
-R
-I
-and ' a
-R
-I
-' and '
-N N
-N f N f
-s s
-s s
-µ µ
-µ µ
-〉 〉
-〉 〉
-(21) 0.2 pts
-Where N2’ and N3’ is calculated in case all cylinder in pure rolling. 0.1 pts
-l
-h
-l
-h
-s
-s
-s
-s
-1 1
-41 . 0 5831 . 0
-5 . 3
-tan and
-41 . 0 5831 . 0
-5 . 3
-tan
-get Finally we
-µ
-µ
-θ
-µ
-µ
-θ
-−
-〉
-+
-〉
-0.2 pts
+
+         f 2 〉 µs N '2             and f 3 〉 µs N '3
+         I2                                I3                                 (21)            0.2 pts
+              a 〉 µs N '2          and          a 〉 µs N '3
+         R 22                              R 32
+
+Where N2 ’ and N3 ’ is calculated in case all cylinder in pure rolling.                   0.1 pts
+
+
+Finally weget
+               3. 5µ s                                                   3. 5µ s              0.2 pts
+tan θ 〉                              and                 tan θ 〉
+                        h                                                         h
+        0. 5831+ 0.41µ s 1                                         0.5831− 0.41µ s 1
+                         l                                                         l
 The left inequality finally become decisive.
+
+
 CASE ONE CYLINDER IN PURE ROLLING AND ANOTHER IN SLIDING
 CONDITION
-{ For example R3 (front cylinders) pure rolling while R2 (Rear cylinders) sliding}III - 7
-From equation (4) we get
-F21h = m2a+ ukN2-m2gsinθ (22) 0.15 pts
+
+{ For example R3 (front cylinders) pure rolling while R2 (Rear cylinders) sliding}
+
+
+                                                 III - 6
+From equation (4) we get
+
+   F21h = m2 a+ uk N2 -m2 g sinθ                          (22)           0.15 pts
+
 From equation (5) we get
-f31h = m3a+(I/R2
-)a -m3gsinθ (23) 0.15 pts
+
+   f31h = m3 a+(I/R2 )a -m3 g sinθ                        (23)           0.15 pts
+
 Then from eq. (1) , (22) and (23) we get
-m1gsinθ - { m2a+ukN2-m2gsinθ}-{m3a+(I/R2
-)a -m3gsinθ}= m1a
-m1 gsinθ + m2gsinθ + m3 sinθ- ukN2 = (I/R2
-+m3)a + m2 a + m1 a
-5Mg sinθ + Mg sinθ + Mg sinθ- ukN2 = (0.7M +M)a + Ma + 5Ma
-M
-g
-M
-Mg
-a
-7 . 7
-N
-sin 9091 . 0
-7 . 7
-N sin 7 2 k 2 k µ
-θ
-µ θ
-− =
-−
-= (24) 0.2 pts
-θ µ
-θ µ θ µ
-θ µ
-sin 4546 . 0 ) 65 . 0 1 (
-) sin 2 7 . 7 / 7 . 2 sin 9091 . 0 7 . 2 (
-) sin 2 2 (
-1
-2 3
-2 2
-1
-2 3
-2 2
-1
-2 3
-Mg
-l
-h
-N N
-Mg N g M N
-l
-h
-N N
-Mg Ma a
-R
-I
-N
-l
-h
-N N
-k
-k k
-k
-= + −
-− − × + = −
-− + + = −
-θ = + cos 7 2 3 Mg N N
+
+m1 g sinθ - { m2 a+uk N2 -m2 g sinθ}-{m3 a+(I/R2 )a -m3 g sinθ}= m1 a
+
+m1 g sinθ + m2 g sinθ + m3 sinθ- uk N2 = (I/R2 +m3 )a + m2 a + m1 a
+
+5Mg sinθ + Mg sinθ + Mg sinθ- uk N2 = (0.7M +M)a + Ma + 5Ma
+
+     7 Mg sin θ − µk N 2                  µN
+a=                       = 0.9091g sin θ − k 2                          (24)        0.2 pts
+           7.7M                           7.7 M
+
+             h1             I
+N3 − N2 =       ( µk N 2 + 2 a + 2Ma − 2Mg sin θ )
+              l            R
+             h
+N 3 − N 2 = 1 ( µk N 2 + 2.7 M × 0.9091g sin θ − 2.7 µk N 2 / 7.7 − 2 Mg sin θ )
+              l
+                        h
+N 3 − N 2 (1 + 0.65 µk 1 ) = 0.4546Mg sin θ
+                         l
+N 3 + N 2 = 7Mg cos θ
+
 Therefore we get
-l
-h
-Mg Mg
-Mg N
-l
-h
-Mg Mg
-N
-k
-k
-1
-3
-1
-2
-65 . 0 2
-sin 4546 . 0 cos 7
-cos 7
-65 . 0 2
-sin 4546 . 0 cos 7
-µ
-θ θ
-θ
-µ
-θ θ
-+
-−
-− =
-+
-−
-=
-(25) 0.3 pts
+
+      7Mg cos θ − 0.4546Mg sin θ
+N2 =
+                          h
+             2 + 0.65µk 1
+                           l                                               (25)      0.3 pts
+                   7 Mg cos θ − 0.4546Mg sin θ
+N 3 = 7Mg cosθ −
+                                        h
+                            2 + 0.65µk 1
+                                         l
 Then we can substitute the results above into equation (16) to get the following result
-l
-h
-g g
-g
-M
-g a
-k
-1
-k 2 k
-65 . 0 2
-sin 4546 . 0 cos 7
-7 . 7
-sin 9091 . 0
-7 . 7
-N
-sin 9091 . 0
-µ
-θ θ µ
-θ
-µ
-θ
-+
-−
-− = − = (26)
-0.2 ptsIII - 8
-The Conditions for this partial sliding is:
-3 2 2 2
-3 3 2 2
-a
-R
-I
-and a
-R
-I
-and
-N N
-N f N f
-s s
-s s
-′ 〉 ′ ≤
-′ 〉 ′ ≤
-µ µ
-µ µ
-(27) 0.25 pts
-where 2 N′ and 3 N′ are normal forces for pure rolling condition
+
+                      µk N 2                  µ 7 g cos θ − 0.4546 g sin θ
+a = 0.9091g sin θ −          = 0.9091g sin θ − k                                    (26)
+                      7.7M                    7.7                h
+                                                      2 + 0.65µk 1
+                                                                  l
+                                                                                           0.2 pts
+
+
+                                           III - 7
+The Conditions for this partial sliding is:
+       f 2 ≤ µs N 2′               and f 3 〉 µs N 3′
+           I                            I                                  (27)         0.25 pts
+             2
+               a ≤ µs N 2′        and 2 a 〉 µs N 3′
+          R                           R
+          where N ′2 and N 3′ are normal forces for pure rolling condition
+
+
 4. Assumed that after rolling d meter all cylinder start to sliding until reaching the end of
 incline road (total distant is s meter). Assummed that ηmeter is reached in t1 second.
-1
-1
-2
-1 1
-2
-1 1 1
-1 1 1 1 1 1
-2
-2
-1
-2
-1
-0
-a
-d
-t
-t a t a t v d
-t a t a at v v
-o
-o t
-=
-= + =
-= + = + =
-0.5 pts
-1 1 a vt =
-1
-2
-a
-d
-= θ θ sin 666 . 1 sin 833 . 0 2 2 1 dg g d da = = (28)
+
+v t1 = v o + at 1 = 0 + a1t 1 = a1 t1
+              1         1
+d = vo t 1 + a1 t 12 = a1 t12
+              2         2
+        2d
+t1 =
+         a1
+                                                                             0.5 pts
+             2d
+v t1 = a1       = 2da1 = 2 d 0.833 g sin θ = 1.666 dg sin θ                                     (28)
+             a1
+
 The angular velocity after rolling d meters is same for front and rear cylinders:
-θ ω sin 666 . 1
-1 1
-1 dg
-R R
-vt
-t = = (29)
-0.5 pts
+
+         vt 1 1
+ωt 1 =       =  1.666 dg sin θ                                                                  (29)
+          R R
+                                                                             0.5 pts
+
 Then the vehicle sliding untill the end of declining road. Assumed that the time needed
 by vehicle to move from d position to the end of the declining road is t2 second.
-) ( 2 sin 666 . 1
-) ( 2
-2
-1
-sin 666 . 1
-2
-2
-1 1 2
-2
-2
-2
-1 1
-2
-2
-2 2 2 1
-2 2 2 2 1 2
-d s a v v dg v
-a
-d s a v v
-t
-t a t v d s
-t a dg t a v v
-t t t
-t t
-t
-t t
-− + + − =
-− + + −
-=
-+ = −
-+ = + =
-θ
-θ
-(30) 0.4 pts
+
+v t 2 = v t1 + a 2 t 2 = 1.666 dg sin θ + a 2 t 2
+                     1
+s − d = vt 1 t 2 +     a 2 t 22
+                     2
+                                                                             (30)        0.4 pts
+       − v t 1 + vt21 + 2 a2 ( s − d )
+t2 =
+                      a2
+v t 2 = 1.666 dg sin θ − vt 1 + v t21 + 2a 2 ( s − d )
+
 Inserting vt1 and a2 from the previous results we get the final results.
-For the angular velocity, while sliding they receive torsion:III - 9
-) ( 2
-sin 666 . 1
-1
-2
-2
-2
-1 1
-2 1 2
-a
-d s a v v
-I
-NR
-dg
-R
-t
-I
-NR
-I
-NR
-t t k
-t t
-k
-k
-− + + −
-+ = + =
-= =
-=
-µ
-θ α ω ω
-µ τ
-α
-µ τ
-(31)
-0.6 pts
+
+For the angular velocity, while sliding they receive torsion:
+
+
+
+
+                                                    III - 8
+τ = µ k NR
+      τ µ k NR                                                                              (31)
+α =     =
+      I    I
+                                                            2
+                     1                   µ k NR − vt 1 + v t1 + 2 a 2 ( s − d )
+ω t2 = ω t1 + αt 2 =   1 .666 dg sin θ +
+                     R                       I                a2
+                                                                                  0.6 pts
+
+
+
+
+                                              III - 9

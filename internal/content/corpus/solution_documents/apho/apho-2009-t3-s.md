@@ -5,362 +5,197 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2009/T3_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: []
 verification_status: flagged
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2009/T3_S.pdf."
 ---
 
-Theoretical competition Solution: Question 3
-26 April 2009 Page 1 of 3
+Theoretical competition                                                                      Solution: Question 3
+
+26 April 2009                                                                                              Page 1 of 3
 -------------------------------------------------------------------------------------------------------------------------
-The Leidenfrost Phenomenon
-3.1) As given in the problem
-1 d dP
-v z
-dz dr η
-⎛ ⎞
-= ⋅ ⎜ ⎟
-⎝ ⎠
-…………… (i)
-Integrating (i) with respect to z , we get
-( ) 2 1
-2
-dP
-v z z C
-dr η
-⎛ ⎞
-= ⋅ + ⎜ ⎟
-⎝ ⎠
-…………… (ii) (0.5 point)
-3.2)
-2
-1
-0
-2 2 2
-b dP b
-v C
-dr η
-⎛ ⎞ ⎛ ⎞ ⎛ ⎞
-= = ⋅ + ⎜ ⎟ ⎜ ⎟ ⎜ ⎟
-⎝ ⎠ ⎝ ⎠ ⎝ ⎠
-…………… (iii)
-∴
-2
-8η
-= −
-b dP
-C
-dr
-(0.5 point)
-Note that C is not a real constant; its value depends on
-dP
-dr
-which is a function of r .
-3.3) Let Q be the volume rate of flow of the vapour through the cylindrical surface of 2 rb π .
-( ) 2 Q v z r z δ π δ = ⋅ where from (ii) and (iii): (0.3 point)
-( )
-2
-2 1
-2 4
-dP b
-v z z
-dr η
-⎡ ⎤ ⎛ ⎞
-= ⋅ − ⎜ ⎟ ⎢ ⎥
-⎝ ⎠ ⎣ ⎦
-…………… (iv)
-∴ ( )
-2 2 2
-2
-0 0
-2
-2 2
-4
-b b
-z z
-r dP b
-Q v z rdz z dz
-dr
-π
-π
-η = =
-⎡ ⎤ ⎛ ⎞
-= ⋅ = − ⎜ ⎟ ⎢ ⎥
-⎝ ⎠ ⎣ ⎦
-∫ ∫
-3
-6
-π
-η
-= −
-rb dP
-Q
-dr
-……………… (v) (0.7 point)Theoretical competition Solution: Question 3
-26 April 2009 Page 2 of 3
+
+                                           The Leidenfrost Phenomenon
+3.1)    As given in the problem
+
+                                    d      ⎛ 1 dP ⎞
+                                       v = ⎜      ⎟⋅ z                           …………… (i)
+                                    dz     ⎝ η dr ⎠
+
+         Integrating (i) with respect to z , we get
+
+                                   ⎛ 1 dP ⎞ 2
+                           v( z) = ⎜       ⎟⋅ z + C                              …………… (ii)                 (0.5 point)
+                                   ⎝ 2η dr ⎠
+
+
+                                      ⎛ 1 dP ⎞ ⎛ b ⎞
+                                                                  2
+                            ⎛b⎞
+3.2)                       v⎜ ⎟ = 0 = ⎜       ⎟⋅⎜ ⎟ + C                          …………… (iii)
+                            ⎝2⎠       ⎝ 2η dr ⎠ ⎝ 2 ⎠
+
+                                     b 2 dP
+        ∴                  C = −                                                                            (0.5 point)
+                                     8η dr
+
+                                                                            dP
+         Note that C is not a real constant; its value depends on              which is a function of r .
+                                                                            dr
+
+3.3) Let Q be the volume rate of flow of the vapour through the cylindrical surface of 2π rb .
+
+
+                  δ Q = v ( z ) ⋅ 2π rδ z where from (ii) and (iii):                                        (0.3 point)
+
+
+                            ⎛ 1 dP ⎞ ⎡ 2 b 2 ⎤
+                  v( z)   = ⎜       ⎟⋅ ⎢z − ⎥                           …………… (iv)
+                            ⎝ 2η dr ⎠ ⎣    4⎦
+
+                                       b                                    b
+                                       2
+                                                      ⎛ 2π r dP ⎞ ⎡ 2 b 2 ⎤ 2
+        ∴                  Q = 2 ∫ v ( z ) ⋅ 2π rdz = ⎜         ⎟ ∫ ⎢ z − ⎥dz
+                                z =0                  ⎝ η dr ⎠ z =0 ⎣    4⎦
+
+
+                                 π rb3 dP
+                           Q = −                                        ……………… (v)                          (0.7 point)
+                                  6η dr
+Theoretical competition                                                                      Solution: Question 3
+
+26 April 2009                                                                                              Page 2 of 3
 -------------------------------------------------------------------------------------------------------------------------
-3.4) The total rate of heat flow from the area 2
-r π of the hot surface to the drop is
-2
-r T
-b
-π Δ K
-. We
-assume that this heat goes into vaporizing the drop.
-Hence
-2
-r T
-Q
-b
-π
-ρ
-Δ
-= A
-K
-and using (v) we get
-4
-V
-6 dP T
-r
-dr b
-η
-ρ
-⎛ ⎞ Δ
-= − ⋅ ⎜ ⎟
-⎝ ⎠ A
-K
-………………… (vi) (0.4 point)
-This gives ( ) 2
-4
-V
-3η
-ρ
-⎛ ⎞ Δ
-= − ⋅ + ⎜ ⎟
-⎝ ⎠ A
-T
-P r r B
-b
-K
-(0.4 point)
-where B is an arbitrary constant whose value can be found by applying the boundary
-condition ( ) a P R P = , the atmospheric pressure.
-Hence 2
-a 4
-V
-3 T
-B P R
-b
-η
-ρ
-⎛ ⎞ Δ
-= + ⋅ ⎜ ⎟
-⎝ ⎠ A
-K
-…………… (vii) (0.4 point)
-and ( ) ( ) 2 2
-a 4
-V
-3 T
-P r P R r
-b
-η
-ρ
-⎛ ⎞ Δ
-= + ⋅ − ⎜ ⎟
-⎝ ⎠ A
-K
-…………… (viii) (0.8 point)
+                                                                                                      π r 2K ΔT
+3.4) The total rate of heat flow from the area π r of the hot surface to the drop is
+                                                              2
+                                                                                                                  . We
+                                                                                                           b
+       assume that this heat goes into vaporizing the drop.
+
+                                       π r 2KΔT
+       Hence            ρ QA =                        and using (v) we get
+                                            b
+
+                               dP    ⎛ 6η KΔT ⎞
+                                  = −⎜       4 ⎟
+                                                 ⋅r                       ………………… (vi)                      (0.4 point)
+                               dr    ⎝ ρ V Ab ⎠
+
+                                          ⎛ 3η KΔT ⎞ 2
+       This gives              P (r ) = − ⎜       4 ⎟
+                                                      ⋅r + B                                                (0.4 point)
+                                          ⎝ ρ V Ab ⎠
+
+       where B is an arbitrary constant whose value can be found by applying the boundary
+       condition P ( R ) = Pa , the atmospheric pressure.
+
+
+                                        ⎛ 3η KΔT ⎞ 2
+       Hence                   B = Pa + ⎜       4 ⎟
+                                                    ⋅R                    …………… (vii)                       (0.4 point)
+                                        ⎝ ρ V Ab ⎠
+
+                                              ⎛ 3η KΔT ⎞
+                                                      4 ⎟ (
+       and                     P ( r ) = Pa + ⎜          ⋅ R2 − r 2 )     …………… (viii)                      (0.8 point)
+                                              ⎝ ρ V Ab ⎠
+
 3.5) The net force due to pressure is in the upward direction and of magnitude
-( )
-4
-a 4
-V 0
-3
-2
-2
-R
-r
-TR
-f P r P rdr
-b
-πη
-π
-ρ =
-Δ
-= − = ⎡ ⎤ ⎣ ⎦ ∫ A
-K
-………(ix) (1.0 point)
-The weight of the drop is 3
-0
-2
-3
-π ρ R g, where 0 ρ is the density of liquid.
-∴
-4
-3
-0 4
-V
-2 3
-3 2
-πη
-π ρ
-ρ
-Δ
-=
-A
-TR
-R g
-b
-K
-1
-4
-0 V
-9
-4
-η
-ρ ρ
-⎛ ⎞ Δ
-= ⎜ ⎟
-⎝ ⎠ A
-R T
-b
-g
-K
-……………(x)Theoretical competition Solution: Question 3
-26 April 2009 Page 3 of 3
+
+                                                           3πη KΔTR 4
+                         R
+                   f = ∫ ⎡⎣ P ( r ) − Pa ⎤⎦ 2π rdr =                             ………(ix)                    (1.0 point)
+                        r =0
+                                                             2 ρ V Ab 4
+
+
+                                           2
+         The weight of the drop is           π R 3 ρ0 g , where ρ0 is the density of liquid.
+                                           3
+
+                  2             3πη KΔTR 4
+        ∴           π R3 ρ0 g =
+                  3               2 ρ V Ab 4
+
+                                           1
+                      ⎛ 9η KRΔT ⎞ 4
+                  b = ⎜              ⎟                                    ……………(x)
+                      ⎝ 4 ρ 0 ρ V Ag ⎠
+Theoretical competition                                                                      Solution: Question 3
+
+26 April 2009                                                                                              Page 3 of 3
 -------------------------------------------------------------------------------------------------------------------------
-Note that 0
-4
-V
-3 4
-3
-g T
-b R
-ρ η
-ρ
-Δ
-=
-A
-K
-……………(xi) (1.0 point)
+                            3η KΔT          4 ρ0 g
+         Note that                      =                               ……………(xi)                           (1.0 point)
+                             ρ V Ab 4
+                                            3 R
+
 3.6) Use equations (xi) and (viii) to obtain
-( ) ( ) 2 2 0
-a
-4
-3
-g
-P r P R r
-R
-ρ ⎛ ⎞
-= + ⋅ − ⎜ ⎟
-⎝ ⎠
-……………(xii)
-( ) 0 8
-3
-g d
-P r r
-dr R
-ρ ⎛ ⎞
-= − ⋅ ⎜ ⎟
-⎝ ⎠
-……………(xiii) (0.8 point)
-Then use (v) to calculate the total mass-rate of vaporization V Qρ at r R = :
-3
-3 0 V 0
-V V
-4 2 8
-12 3 9
-g gR b R
-Q R b
-R
-ρ πρ ρ π
-ρ ρ
-η η
-⎛ ⎞ ⎛ ⎞ ⎛ ⎞
-= = ⎜ ⎟ ⎜ ⎟ ⎜ ⎟
-⎝ ⎠ ⎝ ⎠ ⎝ ⎠
-3
-4
-V 0
-0 V
-4 9
-9 4
-πρ ρ η
-η ρ ρ
-⎛ ⎞ ⎛ ⎞ Δ
-= ⎜ ⎟ ⎜ ⎟
-⎝ ⎠⎝ ⎠ A
-gR R T
-g
-K
-( )
-1
-3 4 3 4 7 7
-V 0 4 4
-3
-4
-9
-g T
-R R
-π ρ ρ
-β
-η
-⎛ ⎞ Δ
-= ⋅ = ⎜ ⎟
-⎜ ⎟
-⎝ ⎠ A
-K
-…… (xiv) (1.2 points)
-3.7) The life-time ( ) τ of the drop, is to be found from
-7
-3 4
-0 V
-2
-3
-d
-R Q R
-dt
-π ρ ρ β
-⎛ ⎞
-= − = − ⎜ ⎟
-⎝ ⎠
-1
-4
-0 2
-d
-R R
-dt
-β
-πρ
-= −
-0 1
-4
-0 0
-2
-τ
-β
-πρ
-= − ∫ ∫ R
-R dR dt (1.0 point)
-( )
-1
-4 5 5 3 3
-0 0 4 4
-3 3
-V
-8 9 8
-5 5 4
-R R
-g T
-πρ ηρ
-τ
-β ρ
-⎛ ⎞
-= = ⋅ ⎜ ⎟
-⎜ ⎟ Δ ⎝ ⎠
-A
-K
-(1.0 point)
-*********************
+
+                                             ⎛ 4 ρ0 g ⎞
+                              P ( r ) = Pa + ⎜        ⎟⋅(R − r )
+                                                          2   2
+                                                                             ……………(xii)
+                                             ⎝3 R ⎠
+
+                              d             ⎛ 8 ρ0 g ⎞
+                                 P (r ) = − ⎜        ⎟⋅r                     ……………(xiii)                    (0.8 point)
+                              dr            ⎝3 R ⎠
+         Then use (v) to calculate the total mass-rate of vaporization Q ρ V at r = R :
+
+                                ⎛ 2π b3 R ⎞ ⎛ 8 ρ 0 g ⎞             ⎛ 4πρ V ρ 0 gR ⎞ 3
+                  QρV         = ⎜         ⎟⎜          ⎟ RρV       = ⎜              ⎟b
+                                ⎝ 12η ⎠ ⎝ 3 R ⎠                     ⎝    9η        ⎠
+                                                                   3
+                                ⎛ 4πρ V ρ 0 gR ⎞ ⎛ 9η KRΔT ⎞ 4
+                              = ⎜              ⎟⎜               ⎟
+                                ⎝    9η        ⎠ ⎝ 4 ρ 0 ρ V Ag ⎠
+                                                              1
+                                ⎛ 4π 4 K3 ρ V ρ0 g ( ΔT )3 ⎞ 4 7                7
+                              = ⎜                          ⎟ ⋅ R4          = β R4   …… (xiv)       (1.2 points)
+                                ⎜          9η A 3
+                                                           ⎟
+                                ⎝                          ⎠
+
+3.7) The life-time (τ ) of the drop, is to be found from
+
+                  d ⎛2        ⎞
+                                                                   7
+
+                     ⎜ π R ρ0 ⎟ = − QρV                 =   −βR
+                          3                                        4
+                  dt ⎝ 3      ⎠
+                      1
+                          d         β
+                  R4         R = −
+                          dt       2πρ 0
+                                       τ
+                  0       1
+                                           β
+                  ∫ R dR = − ∫ 2πρ dt
+                  R
+                          4
+
+                                       0       0
+                                                                                                   (1.0 point)
+
+                                                                       1
+
+                              8πρ0             8⎛     9ηρ A         ⎞
+                                       5                    3 3        4  5
+                  τ =              R   4
+                                           =     ⎜ 3        0
+                                                                    ⎟ ⋅ R 4
+                                                                                                   (1.0 point)
+                               5β                ⎜
+                                               5 ⎝ 4K ρ V g ( ΔT ) ⎠
+                                                                  3
+                                                                    ⎟
+
+
+
+
+                                                   *********************

@@ -14,12 +14,13 @@ format: scaffolded
 core_ideas: []
 estimated_time_min: 25
 points: null
-has_solution: false
+has_solution: true
 has_figure: true
 figure_files: [inpho-2011-a1-fig01.png]
 provenance_note: "phoXiv Mathpix Markdown: cache/phoxiv/inpho/2011.mmd; figures require local harvest"
 verification_status: pending
 
+solution_language: en
 ---
 
 1. A long wire of radius ' $a$ ' is carrying a direct current $I$. From its surface at point $A$, an electron of charge $-e(e>0)$ escapes with velocity $v_{0}$ perpendicular to this surface (see Fig.(1)). Ignore gravity.

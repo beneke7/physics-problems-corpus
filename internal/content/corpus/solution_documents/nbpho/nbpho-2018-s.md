@@ -5,1136 +5,353 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2018_S.pdf
-extraction_method: pdftotext-raw
-mapped_problems: [nbpho-2018-air-submarine, nbpho-2018-black-box, nbpho-2018-cube, nbpho-2018-fresnel-prism, nbpho-2018-gravitational-racing, nbpho-2018-lcr-circuit, nbpho-2018-magnetic-billiard, nbpho-2018-speed-camera, nbpho-2018-weather-forecast]
+extraction_method: pdftotext-layout
+mapped_problems: [nbpho-2018-air-submarine, nbpho-2018-black-box, nbpho-2018-cube, nbpho-2018-fresnel-prism, nbpho-2018-gravitational-racing, nbpho-2018-speed-camera]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/nbpho/2018_S.pdf."
 ---
 
-Nordic-Baltic Physics Olympiad 2018
-Solutions
-1. GRAVITATIONAL RACING
-i) (a)Sinceallthreebodies movealongthesame
-trajectory, they must be T
-3 away from each other
-at any moment of time. Thus, it takes T
-3 to get
-from O2 to O.
-(b) From symmetry, time taken to go from
-P to O must be T
-4 . Furthermore, it takes T
-3 to
-get from P2 to P and from O to O3. This means
-that it takes T
-3 + T
-3 + T
-4 = 11T
-12 to get from P2 to
-O3 or T − 11T
-12 = T
-12 to get from O3 to P2.
-ii) Since there are no external forces at play, the
-centre of mass of the three body system must
+Nordic-Baltic Physics Olympiad 2018                            simple way to ﬁnd the x-coordinates of P2 and                  v2,p = v3,p . The total energy at P is then                   where we can easily identify two frequency com-
+Solutions                                                      P3 and reconstruct their positions shown in blue
+                                                                                                                                           (               )(           )
+                                                                                                                                                                                            ponents f high = f 1 + f 0 and f low = f 1 − f 0 .
+                                                               in the ﬁgure.                                                        mv2p            1   Gm2        1
+                                                                                                                              E=            1+        −      2+           =                       iii) We can express f low = f 1 − f 0 = 2 f 0 v/ c and
+1. GRAVITATIONAL RACING                                             Let’s apply the conservation of angular mo-                    2       2 sin2 α       d     2 sin α                           calculate the speed of car as
+i) (a) Since all three bodies move along the same              mentum      at point   P  .  Due   to  symmetry,    the ve-                        Gm2
+                                                                                                                               = 6.68 mv2p − 4.49       .                                                                f low
+trajectory, they must be T3 away from each other locity vectors at P2 and P3 must intersect at the                                                  d                                                             v=           c = 30 m/s.
+                                                                                                                                                                                             (3)                         2  f0
+at any moment of time. Thus, it takes T3 to get x-axis. For the total angular momentum to be 0,
+from O2 to O .                                                 they must intersect at P . Therefore, P2 and P3 When a body is at P , the gravitational force is
+                                                               have tangents that pass through P . P2 and P3 equal to the centrifugal force. This means that 3. WEATHER FORECAST
+     (b) From symmetry, time taken to go from can then be reconstructed as shown in green in
+P to O must be T4 . Furthermore, it takes T3 to the ﬁgure.                                                                              mv2p        Gm2                        Gm2                i) The angle φ is equal to the latitude. This
+get from P2 to P and from O to O3 . This means                                                                                                = 2 2 cos α = 1.96 2 ,                              means that on the northern hemisphere the
+                                                                                                                                         Rp           d                          d
+that it takes T3 + T3 + T4 = 11  12
+                                   T
+                                      to get from     P 2 to                                                   P
+                                                                                                                                                                                                  Coriolis force vector is rotated 90◦ clockwise
+                                                                                                                2       O
+             11T      T
+O3 or T − 12 = 12 to get from O3 to P2 .                                        Q                           or
+                                                                                                                          3
+                                                                                                                                                                   v2p d 2                        from the velocity vector if both are drawn on
+                                                                            R               d
+                                                                               p
+                                                                                    α                                                            Gm = 0.510                .                 (4) the map. To maintain force balance, the Cori-
+ii) Since there are no external forces at play, the                                                                                                                 Rp
+                                                                                                                                                                                                  olis force needs to be directed opposite to the
+centre of mass of the three body system must                              O                                    P
+                                                                           2                                    3             Combining equations ??, ?? and ?? gives                             pressure gradient force, i.e. in the direction of
 stay in place and, due to symmetry, be located
-at O. Thus,⃗ r1+⃗ r2+⃗ r3 =0, where⃗ r1,⃗ r2 and⃗ r3
-are position vectors from O. Diﬀerentiating,
-⃗ v1 +⃗ v2 +⃗ v3 =0. (1)
-iii) The total angular momentum is conserved.
-Thus, we can ﬁnd the angular momentum at a
-moment of time that’s most convenient for us,
-suchastheconﬁgurationwhenoneofthebodies
-is at O. Due to symmetry,⃗ r2 =−⃗ r3 and⃗ v2 =⃗ v3.
-The total angular momentum is then
-J = m⃗ r1 ×⃗ v1 +m⃗ r2 ×⃗ v2 +m⃗ r3 ×⃗ v3 =
-= m(⃗ r2 ×⃗ v2 +⃗ r3 ×⃗ v3)= m(⃗ r2 ×⃗ v2 −⃗ r2 ×⃗ v2)=0.
-iv) Using equation ?? and the fact that⃗ v2 =⃗ v3,
-⃗ v1 +2⃗ v2 = 0 must hold. Thus, ⃗ v2 = 1
-2⃗ v1. Note
-that this can only happen when ⃗ v1, ⃗ v2 and ⃗ v3
-are parallel. Since the velocities of the bodies
+                                                                                                                                                                                                  increasing pressure. Thus the velocity needs to
+at O . Thus, ⃗r 1 +⃗r 2 +⃗r 3 = 0, where ⃗r 1 , ⃗r 2 and ⃗r 3                                                                                                           (                  )
+                                                                                                                                  3 v 2                        v2p d 2 5            4 . 49        be directed along the isobars. The forces should
+are position vectors from O . Diﬀerentiating,                  vi) The general idea is to apply energy conser-                        o           2
+                                                                                                                                        = 6.68v p + 0.510                        −           ,
+                                                               vation in both conﬁgurations and use the radius                     4                             R  p     2  r o      d           be directed counter-clockwise around the pres-
+                   ⃗
+                   v1 + ⃗v2 + ⃗v3 = 0.                   (1) of curvature at P to ﬁnd the value of Gm. From                                                                                       sure minimum, i.e. to the north in A and to the
+                                                                                                                              rearranging,                                                        southwest in B. The answer may also be accepted
+                                                               the ﬁgure, R p = 41.7, r 0 = 145.2, d = 242 and
+                                                                                                                                      √                                                           if the velocity has a small component towards
+iii) The total angular momentum is conserved. α = 11.6 deg (the units for distance are arbitrary, v                                      4
+                                                                                                                                            (
+                                                                                                                                                              d2 5
+                                                                                                                                                                    (
+                                                                                                                                                                                 4.49
+                                                                                                                                                                                        ))
+                                                                                                                                o                                                                 the pressure minimum, as long as this is much
+Thus, we can ﬁnd the angular momentum at a only the ratios carry any meaning).                                                     =         6.68 + 0.510                    −             = 2.8.
+                                                                                                                              vp         3                    R p 2r 0            d               smaller than the component along the isobars.
+moment of time that’s most convenient for us,                       The total energy at O is
+such as the conﬁguration when one of the bodies                                                                                                                                                   ii) In point A the isobars are approximately
+is at O . Due to symmetry, ⃗r 2 = −⃗r 3 and ⃗v2 = ⃗v3 .                 2         2           2
+                                                                    mv1,o mv2,o mv3,o Gm Gm Gm 2. SPEED CAMERA
+                                                                                                         2       2        2                                                                       straight, meaning that the velocity is constant
+The total angular momentum is then                            E=            +         +           −        −       −        .                                                                     and thus that all forces sum to zero. A small
+                                                                      2          2          2       r 12,o r 23,o r 31,o i) The Doppler shift formula has to be applied
+                                                                                                                                                                                                  slab of air with area A and thickness d z has the
+ J = m⃗r 1 ×⃗ v1 + m⃗r 2 ×⃗  v2 + m⃗r 3 ×⃗ v3 =
+                                                                                                                              twice. First, the observer on the approaching car mass dm = ρ A d z.
+                                                               We have v1,o = 2v2,o = 2v3,o = v o and r 12,o = sees both the incoming and reﬂected wave with
+= m(⃗r 2 ×⃗v2 +⃗r 3 ×⃗  v3 ) = m(⃗r 2 ×⃗ v2 −⃗r 2 ×⃗ v2 ) = 0. r 31,o = 1 r 23,o = r o . Thus,                                frequency f ′ = f 0 (1 + v/ c). Now, the observer at                     The force from the pressure diﬀerence d p
+                                                                         2
+                                                                                                                              the speed camera sees the reﬂected wave Dop-                        between    opposite sides in F p = A d p, such that
+iv) Using equation ?? and the fact that ⃗v2 = ⃗v3 ,                                   3 mv2o 5Gm2                                                        ′′     ′                              2  the  force  per mass is
+                                                                                E=              −          .           (2) pler shifted to f 1 = f = f (1+v/ c) = f 0 (1+v/ c) .
+⃗
+v1 + 2⃗v2 = 0 must hold. Thus, ⃗        v2 = 21⃗ v1 . Note                                4         2r o                      Finally, we can simplify:                                                                                   ¯      ¯
+that this can only happen when ⃗v1 , ⃗v2 and ⃗v3                                                                                                                                                               Fp           Ad p       1 ¯¯ d p ¯¯
+                                                                                                                                                                                                                    =−            =− ¯
+are parallel. Since the velocities of the bodies                    Total Energy at P is                                                 f 1 = f 0 (1 + v/ c)2 ≈ f 0 (1 + 2v/ c).                              dm         ρ Adz        ρ dz ¯
 are tangent to the trajectory at their locations,
-thetrajectoriesofthebodiesmusthavethesame
-slope at O, O2 and O3. This gives a convenient
-way of reconstructing the positions of O2 and
-O3 using a ruler as shown in the ﬁgure in red.
-v) We can use symmetry to deduce that r2,x =
-r3,x and r2,y =−r3,y. Additionally, r1,x +r2,x +
-r3,x = 0, so r2,x = r3,x = −1
-2 r1,x. This gives a
-simple way to ﬁnd the x-coordinates of P2 and
-P3 andreconstructtheirpositionsshowninblue
-in the ﬁgure.
-Let’s apply the conservation of angular mo-
-mentum at point P. Due to symmetry, the ve-
-locity vectors at P2 and P3 must intersect at the
-x-axis. For the total angular momentum to be 0,
-they must intersect at P. Therefore, P2 and P3
-have tangents that pass through P. P2 and P3
-can then be reconstructed as shown in green in
-the ﬁgure.
-O3
-O2
-P2
-P3
-d
-ro Q Rp
-α
-vi) The general idea is to apply energy conser-
-vation in both conﬁgurations and use the radius
-of curvature at P to ﬁnd the value of Gm. From
-the ﬁgure, Rp = 41.7, r0 = 145.2, d = 242 and
-α=11.6deg (the units for distance are arbitrary,
-only the ratios carry any meaning).
-The total energy at O is
-E=
-mv2
-1,o
-2
-+
-mv2
-2,o
-2
-+
-mv2
-3,o
-2
-−
-Gm2
-r12,o
-−
-Gm2
-r23,o
-−
-Gm2
-r31,o
-.
-We have v1,o = 2v2,o = 2v3,o = vo and r12,o =
-r31,o = 1
-2 r23,o = ro. Thus,
-E =
-3mv2
-o
-4
-−
-5Gm2
-2ro
-. (2)
-Total Energy at P is
-E=
-mv2
-1,p
-2
-+
-mv2
-2,p
-2
-+
-mv2
-3,p
-2
-−
-Gm2
-r12,p
-−
-Gm2
-r23,p
-−
-Gm2
-r31,p
-.
-Additionally, r12,p = r31,p = d and r23,p =
-2dsinα. Furthermore, applying equation ??
-on the y-axis, v1,p − v2,p sinα− v3,p sinα = 0.
-Thus, v1,p = vp =2v2,p sinα=2v3,p sinα since
-v2,p = v3,p. The total energy at P is then
-E =
-mv2
-p
-2
-(
-1+
-1
-2sin2
-α
-)
-−
-Gm2
-d
-(
-2+
-1
-2sinα
-)
-=
-=6.68mv2
-p −4.49
-Gm2
-d
-.
-(3)
-When a body is at P, the gravitational force is
-equal to the centrifugal force. This means that
-mv2
-p
-Rp
-=2
-Gm2
-d2
-cosα=1.96
-Gm2
-d2
-,
-Gm=0.510
-v2
-pd2
-Rp
-. (4)
-Combining equations ??, ?? and ?? gives
-3v2
-o
-4
-=6.68v2
-p +0.510
-v2
-pd2
-Rp
-(
-5
-2ro
-−
-4.49
-d
-)
-,
-rearranging,
-vo
-vp
-=
-√
-4
-3
-(
-6.68+0.510
-d2
-Rp
-(
-5
-2r0
-−
-4.49
-d
-))
-=2.8.
-2. SPEED CAMERA
-i) The Doppler shift formula has to be applied
-twice. First,theobserverontheapproachingcar
-sees both the incoming and reﬂected wave with
-frequency f′
-= f0(1+v/c). Now, the observer at
-the speed camera sees the reﬂected wave Dop-
-plershiftedto f1 = f′′
-= f′
-(1+v/c)= f0(1+v/c)2
-.
-Finally, we can simplify:
-f1 = f0(1+v/c)2
-≈ f0(1+2v/c).
-ii) Using the trigonometric identity given in
-the problem, we can express the product of two
-waves simply as a sum of waves
-cos(2πf1t)cos(2πf0t)=
-=
-1
-2
-cos[2π(f1 + f0)t]+
-1
-2
-cos[2π(f1 − f0)t],
-where we can easily identify two frequency com-
-ponents fhigh = f1 + f0 and flow = f1 − f0.
-iii) We can express flow = f1 − f0 = 2f0v/c and
-calculate the speed of car as
-v=
-flow
-2f0
-c =30m/s.
-3. WEATHER FORECAST
-i) The angle φ is equal to the latitude. This
-means that on the northern hemisphere the
-Coriolis force vector is rotated 90◦
-clockwise
-from the velocity vector if both are drawn on
-the map. To maintain force balance, the Cori-
-olis force needs to be directed opposite to the
-pressure gradient force, i.e. in the direction of
-increasing pressure. Thus the velocity needs to
-be directed along the isobars. The forces should
-be directed counter-clockwise around the pres-
-sure minimum, i.e. to the north in A and to the
-southwestinB.Theanswermayalsobeaccepted
-if the velocity has a small component towards
-the pressure minimum, as long as this is much
-smaller than the component along the isobars.
-ii) In point A the isobars are approximately
-straight, meaning that the velocity is constant
-and thus that all forces sum to zero. A small
-slab of air with area A and thickness dz has the
-mass dm=ρAdz.
-The force from the pressure diﬀerence dp
-between opposite sides in Fp = Adp, such that
-the force per mass is
-Fp
-dm
-=−
-Adp
-ρAdz
-=−
-1
-ρ
-¯
-¯
-¯
-¯
-dp
-dz
-¯
-¯
-¯
-¯
-The pressure gradient can be estimated by
-measuring the distance between a few nearby
-isobars in the map, and ρ ≈ 1 kgm−3
-. Force
-balance gives the equation
-2vΩsinφ=
-1
-ρ
-¯
-¯
-¯
-¯
-dp
-dz
-¯
-¯
-¯
-¯ =⇒ v=
-1
-2ρΩsinφ
-¯
-¯
-¯
-¯
-dp
-dz
-¯
-¯
-¯
-¯Using Ω = 7.27 × 10−5
-s−1
-, ϕ = 56◦
-,
-|dp/dz| ≈ 0.8/250 Pam−1
-= 0.0032 Pam−1
-we
-get the estimation v = 22 ms−1
-. Since the stu-
-dents are only asked for an estimation, a wide
-rangeofnumericalanswersareaccepted, aslong
-as the method is correct.
-iii) Now the isobars are curved, and from the
-map one can estimate the radius of curvature
-r ≈ 206 km. The diﬀerence of the pressure
-gradient force and the Coriolis force must equal
-the centripetal force:
-v2
-r
-=
-1
-ρ
-¯
-¯
-¯
-¯
-dp
-dz
-¯
-¯
-¯
-¯−2vΩsinφ
-Thisisasecondorderequationin v withpos-
+the trajectories of the bodies must have the same                                                                                                                                                      The pressure gradient can be estimated by
+                                                                   mv12,p mv22,p mv32,p Gm2 Gm2 Gm2 ii) Using the trigonometric identity given in
+slope at O , O2 and O3 . This gives a convenient E =                       +         +            −        −       −        .                                                                     measuring     the distance between a few nearby
+                                                                      2         2           2       r 12,p r 23,p r 31,p the problem, we can express the product of two isobars in the map, and ρ ≈ 1 kg m−3 . Force
+way of reconstructing the positions of O2 and                                                                                 waves simply as a sum of waves
+O3 using a ruler as shown in the ﬁgure in red.                                                                                                                                                    balance gives the equation
+                                                               Additionally, r 12,p = r 31,p = d and r 23,p =
+v) We can use symmetry to deduce that r 2,x = 2 d sin α. Furthermore, applying equation ??                                      cos(2π f 1 t) cos(2π f 0 t) =
+                                                                                                                                                                                                                      ¯      ¯                     ¯    ¯
+r 3,x and r 2,y = − r 3,y . Additionally, r 1,x + r 2,x + on the y-axis, v1,p − v2,p sin α − v3,p sin α = 0.                        1                             1
+                                                                                                                                = cos [2π( f 1 + f 0 ) t] + cos [2π( f 1 − f 0 ) t] ,                              1 ¯¯ d p ¯¯                1    ¯ dp ¯
+                                                                                                                                                                                                                                                   ¯    ¯
+                                                                                                                                                                                                    2 v Ω sin φ =              =⇒  v =
+                                                                                                                                                                                                                  ρ ¯ dz ¯             2ρ Ω sin φ ¯ d z ¯
+                                   1
+r 3,x = 0, so r 2,x = r 3,x = − 2 r 1,x . This gives a Thus, v1,p = v p = 2v2,p sin α = 2v3,p sin α since                           2                             2
+    Using Ω = 7.27 × 10−5 s−1 , ϕ = 56◦ ,                   the optical path diﬀerence between the neigh-         distance h between the prism and the sheet that     Since the ﬁrst solution corresponds to the case
+|d p/d z| ≈ 0.8/250 Pa m−1 = 0.0032 Pa m−1 we               bouring beams is ( n + j )λ. Hence, d φ j − d φ0 =    one stripe seen through the prism seems to be       when the collision doesn’t happen, the speed of
+get the estimation v = 22 m s−1 . Since the stu-            j λ so that φ j − φ0 = j λ/ d . Angle diﬀerence       exactly at the same position as the other stripe    the second ball must be v2 = v.
+dents are only asked for an estimation, a wide              φ j − φ0 results in the distance of bright spots at   seen beyond the edge of the prism. We measure       ii) The balls experience Lorentz force due to the
+range of numerical answers are accepted, as long            screen being equal to a j = (φ j −φ0 )L, where L is   the distance y between these two stripes on the     external magnetic ﬁeld. Since the Lorentz force
+as the method is correct.                                   the distance from the grating to the screen. So,      sheet. Then, the deﬂection angle of the prism is    is perpendicular to the line of motion and con-
+iii) Now the isobars are curved, and from the               we can measure the distance a j between such a        found as β = y/ h, so that                          stant in magnitude, the balls move along a circu-
+map one can estimate the radius of curvature                pair of bright spots on the screen which are sep-                                                         lar orbit. Equating the Lorentz force with cent-
+                                                                                                                                      β       y
+r ≈ 206 km. The diﬀerence of the pressure                   arated by j − 1 bright spots, and calculate the                    α=        =          .                                        2
+                                                                                                                                    n − 1 h( n − 1)                   rifugal force gives mvR = qvB. Thus, R = qB
+                                                                                                                                                                                                                    mv
+gradient force and the Coriolis force must equal            grating constant as
+                                                                                                                  For y = and h = we obtain α =                       and ω = Rv = qBm . This means that one of the
+the centripetal force:                                                               j λL
+                                                                                d=        .                                                                           charges moves along the orbit clockwise and the
+                                                                                      aj                          iii) Finally, we use that part of the sheet         other anticlockwise.
+                  ¯      ¯
+            v2 1 ¯¯ d p ¯¯                                                                                        where there are neighbouring cyan and magenta
+               = ¯         − 2vΩ sin φ                                                                                                                                    After each collision, one of the balls moves
+             r  ρ dz ¯                              In order to obtain better accuracy, it is neces-              stripes. We use a closely positioned pair of such
+                                                    sary to use as large as possible value of j (the              stripes, and look at it through the prism. De-      at speed v while the other one is at rest. The
+                                                                                                                                                                      moving ball travels a part of the full cyclotron
+     This is a second order equation in v with pos- largest such value that the both dots remain on               pending on the orientation of the prism the pair
+                                                    the screen). With L =, j =, and a 10 , we obtain              of stripes is either brought close to each other,   period (either clockwise or anticlockwise, de-
 itive solution
-v=−rΩsinφ+
-√
-(rΩsinφ)2 +
-r
-ρ
-¯
-¯
-¯
-¯
-dp
-dz
-¯
-¯
-¯
-¯
-With ϕ =60◦
-, |dp/dz|≈0.0034 Pam−1
-we
-get the estimation v = 14 ms−1
-. As a compar-
-ison, if we neglect the curvature of the isobars
-we get 22 ms−1
-.
-4. FRESNEL PRISM
-i) In order to ﬁnd the grating pitch, we set up a
-simple diﬀraction experiment: direct laser light
-through the grating to the screen; there will be
-a long series of bright spots which correspond
-to a series of main maxima; all angles are small,
-so we can apply small-angle approximation. As
-compared with a pair of beams exiting the grat-
-ingfromtwoneighbouringslitsperpendicularly,
-a pair of beams exiting at a small angle φ ob-
+                                                    d =.                                                          or, vice versa, moved apart. We use such orient-    pending on the charge) before making a head-
+                                                                                                                  ation for which the stripes are brought closer to   on collision with the ball at rest. The mo-
+                        √                        ¯      ¯                                                                                                             mentum is given over to the ﬁrst ball and the
+                                                                                                                  each other, and ﬁnd such a distance H between
+                                              r ¯¯ d p ¯¯                                                                                                             previously moving ball stays at rest and the mo-
+    v = − r Ω sin φ +       ( r Ω sin φ)2 +                                                                       the prism and the sheet for which the two stripes
+                                              ρ ¯ dz ¯                                                                                                                tion starts once again. During the subsequent
+                                                                                                                  overlap exactly (resulting in a seemingly yellow-
+                                                                                                                  ish stripe). We also measure the distance z         collisions, the balls start drifting in one direc-
+    With ϕ = 60◦ , |d p/d z| ≈ 0.0034 Pa m−1 we                                                                   between the stripes. Using our expression for       tion as can be seen in the ﬁgure.
+get the estimation v = 14 m s−1 . As a compar-                                                                    the deﬂection angle β = αn − 1, we obtain an ex-
+ison, if we neglect the curvature of the isobars ii) There are two ways of determining the prism                  pression for the change of the deﬂection angle
+                                                                                                                                                                                                       -q                 +q
+we get 22 m s−1 .                                  angle. First, one can use laser light and screen to            δβ = αδ n, where δ n denotes the diﬀerence of                               v         r     r
+                                                                                                                                                                                                          α
+4. FRESNEL PRISM                                   determine, to which distance x is the brightest                the refraction index for the cyan and magenta.
+                                                   spot on the screen (the zeroth main maximum)                   Therefore, δn = δβ/α. We can ﬁnd the change                                                             R
+i) In order to ﬁnd the grating pitch, we set up a shifted when the Fresnel prism is inserted into                 of the deﬂection angle from our measurement                                                         α
+                                                                                                                                                                                                                  α
+simple diﬀraction experiment: direct laser light the path of the beam at distance L from the                      data as δβ = z/H . So, δ n = z/(H α), and
+through the grating to the screen; there will be screen. It appears that the angle β by which the
+a long series of bright spots which correspond prism deﬂects the beam remains small, so that                                    dn      z
+                                                                                                                                   =            .
+to a series of main maxima; all angles are small, we can still use the small angle approximation:                               dλ H α(λm − λ c
+so we can apply small-angle approximation. As β = x/L. Simple geometrical optics calculation
+compared with a pair of beams exiting the grat- yields                                                            Using z = and H = we obtain ddλn =.
+ing from two neighbouring slits perpendicularly,                        β         x                               5. MAGNETIC BILLIARD
+a pair of beams exiting at a small angle φ ob-                   α=        =            .
+                                                                      n − 1 L( n − 1)                             i) After the ﬁrst collision, let the velocities of iii) The average velocity of the balls is equal to
 tains an additional optical path diﬀerence equal
-to dsinφ ≈ dφ, see ﬁgure. Suppose that angle
-φ0 corresponds to a main diﬀraction maximum
-of a certain order n so that the optical path dif-
-ference between the two beams is equal to an
-integer number n of wavelengths. Then, for the
-n+ j-th main maximum, observed at angle αj,
-the optical path diﬀerence between the neigh-
-bouring beams is (n+ j)λ. Hence, dφj −dφ0 =
-jλ so that φj −φ0 = jλ/d. Angle diﬀerence
-φj −φ0 results in the distance of bright spots at
-screenbeingequalto aj =(φj−φ0)L,where L is
-the distance from the grating to the screen. So,
-we can measure the distance aj between such a
-pair of bright spots on the screen which are sep-
-arated by j −1 bright spots, and calculate the
-grating constant as
-d =
-jλL
-aj
-.
-In order to obtain better accuracy, it is neces-
-sary to use as large as possible value of j (the
-largest such value that the both dots remain on
-the screen). With L =, j =, and a10, we obtain
-d =.
-ii) There are two ways of determining the prism
-angle. First, onecanuselaserlightandscreento
-determine, to which distance x is the brightest
-spot on the screen (the zeroth main maximum)
-shifted when the Fresnel prism is inserted into
-the path of the beam at distance L from the
-screen. It appears that the angle β by which the
-prism deﬂects the beam remains small, so that
-we can still use the small angle approximation:
-β = x/L. Simple geometrical optics calculation
-yields
-α=
-β
-n−1
-=
-x
-L(n−1)
-.
-For L = and x= we obtain α=
-An alternative approach is using the cyan
-stripes on the sheet. We look through the prism
-so that we can see stripes both through the
-prism, and bypassing the stream simultaneously.
-We ﬁnd such two neighbouring stripes and such
-distance h between the prism and the sheet that
-one stripe seen through the prism seems to be
-exactly at the same position as the other stripe
-seen beyond the edge of the prism. We measure
-the distance y between these two stripes on the
-sheet. Then, the deﬂection angle of the prism is
-found as β= y/h, so that
-α=
-β
-n−1
-=
-y
-h(n−1)
-.
-For y= and h= we obtain α=
-iii) Finally, we use that part of the sheet
-where there are neighbouring cyan and magenta
-stripes. We use a closely positioned pair of such
-stripes, and look at it through the prism. De-
-pending on the orientation of the prism the pair
-of stripes is either brought close to each other,
-or, vice versa, moved apart. We use such orient-
-ation for which the stripes are brought closer to
-each other, and ﬁnd such a distance H between
-theprismandthesheetforwhichthetwostripes
-overlap exactly (resulting in a seemingly yellow-
-ish stripe). We also measure the distance z
-between the stripes. Using our expression for
-the deﬂection angle β=αn−1, we obtain an ex-
-pression for the change of the deﬂection angle
-δβ = αδn, where δn denotes the diﬀerence of
-the refraction index for the cyan and magenta.
-Therefore, δn = δβ/α. We can ﬁnd the change
-of the deﬂection angle from our measurement
-data as δβ= z/H. So, δn= z/(Hα), and
-dn
-dλ
-=
-z
-Hα(λm −λc
-.
-Using z = and H = we obtain dn
-dλ
-=.
-5. MAGNETIC BILLIARD
-i) After the ﬁrst collision, let the velocities of
-the ﬁrst and second ball be v1 and v2 respect-
-ively. Applying the conservation of energy gives
-mv2
-2 =
-mv2
-1
-2 +
-mv2
-2
-2 or v2
-= v2
-1 + v2
-2. Conserva-
-tion of momentum yields mv = mv1 +mv2 or
-v= v1+v2. Combining the two equations gives
-v2
-= v2
-2+(v−v2)2
-= v2
-−2vv2+2v2
-2 and v2 =0;v.
-Since the ﬁrst solution corresponds to the case
-when the collision doesn’t happen, the speed of
-the second ball must be v2 = v.
-ii) The balls experience Lorentz force due to the
-external magnetic ﬁeld. Since the Lorentz force
-is perpendicular to the line of motion and con-
-stant in magnitude, the balls move along a circu-
-lar orbit. Equating the Lorentz force with cent-
-rifugal force gives mv2
-R = qvB. Thus, R = mv
-qB
-and ω = v
-R =
-qB
-m . This means that one of the
-charges moves along the orbit clockwise and the
-other anticlockwise.
-After each collision, one of the balls moves
-at speed v while the other one is at rest. The
-moving ball travels a part of the full cyclotron
-period (either clockwise or anticlockwise, de-
-pending on the charge) before making a head-
-on collision with the ball at rest. The mo-
-mentum is given over to the ﬁrst ball and the
-previously moving ball stays at rest and the mo-
-tion starts once again. During the subsequent
-collisions, the balls start drifting in one direc-
-tion as can be seen in the ﬁgure.
-α
-α
-R
-r r
-+q -q
-v
-α
-iii) The average velocity of the balls is equal to
-the average speed of the collision points. From
-the ﬁgure, it can be seen that the direction of
-the average velocity is π − α clockwise from
-the initial direction of the incoming ball, where
-α = arctan 2r
-R . The collision point moves by
-d = rcosα between two subsequent collisions.In between the two collisions, one of the balls
-moves 2π−2α along a cyclotron orbit. The time
-taken is then t = 2π−2α
-ω
-= 2m
-qB
-(
-π−arctan 2r
-R
-)
-and the average velocity is
-vavg =
-d
-t
-=
-rωcosα
-2(π−α)
-=
-vrR
-R
-p
-4r2 +R2 (π−α)
-=
-=
-v
-√
-4+ R2
-r2
-(
-π−arctan 2r
-R
-).
-iv) Let the velocities of the two balls at any mo-
-ment of time be⃗ v1 and⃗ v2. The velocity of the
-centre of mass is then ⃗ vCM = ⃗ v1+⃗ v2
-2 . The equa-
-tion of motion of the system is
-q⃗ v1 ×⃗ B−⃗ F +q⃗ v2 ×⃗ B+⃗ F = m˙ ⃗ v1 +m˙ ⃗ v2,
-where ⃗ F is the force between the two balls,
-either the elastic forces during a collision or the
-electrostatic forces. Then
-q(⃗ v1 +⃗ v2)×⃗ B = m
-d
-dt
-(⃗ v1 +⃗ v2),
-q⃗ vCM ×⃗ B = m
-d
-dt
-⃗ vCM.
-This means that the centre of mass of the sys-
-tem undergoes cyclotronic motion with a radius
-of R = mv
-qB . Because every collision point can
-only be located where the center of mass is, the
-collision points must also be limited to the same
-circle. Thus, the maximum distance between
-any two collisions is 2R = 2mv
-qB
-6. CUBE The cube gets pushed by the light
-reﬂecting against its surfaces. Since there is no
-partialreﬂection,lightcanonlyreﬂectinsidethe
-cube via total internal reﬂection.
-Let the cube’s faces be aligned to x-y-z axis
-and let the light enter from the face which is
-perpendicular to the z-axis.
-Before entering the cube, let the unit vec-
-tor directed along the motion of the light
-be ⃗ t = (tx,ty,tz), after entering the cube,
-⃗ r = (rx,ry,rz), before leaving the cube, ⃗ r′
-=
-(r′
-x,r′
-y,r′
-z) and after leaving the cube, ⃗ t′
-=
-(t′
-x,t′
-y,t′
-z). Every time the light bounces against
-one of the sides of the cube, the respective com-
-ponent of⃗ r gets ﬂipped.
-i) The laser beam is limited to propagate in a
-two-dimensional plane. Take ty = 0, ry = 0,
-r′
-y =0 and t′
-y =0.
-In time dt, the laser pointer generates light
-with total energy Pdt carrying momentum P
-c dt.
-In that time, the same amount of light enters
-the cube and exits it, only with diﬀerent dir-
-ection. Applying Newton’s III law, the cube
-mustattainamomentumofd⃗ p = P
-c dt(⃗ t−⃗ t′
-)and
-thus experiences a force of ⃗ F =
-d⃗ p
-dt = P
-c (⃗ t−⃗ t′
-) =
-P
-c
-√
-(tx −t′
-x)2 +(tz −t′
-z)2. This means that we
-wish to maximize the quantity (tx −t′
-x)2
-+(tz −
-t′
-z)2
-.
-Snell’s law can be written as nrx = tx and
-nr′
-x = t′
-x since tx and rx are the sines of angles
-of incidence and departure respectively.
-The laser beam can only reﬂect against the
-side that is perpendicular to the x-axis, beam
-path with internal reﬂection is shown inthe ﬁg-
-ure. Thus, r′
-z = rz and t′
-z = tz. Let’s investigate
-the reﬂectionagainst the x-face. The angle of in-
-cidence is cosα= rx. The condition for total in-
-ternal reﬂection is sinαn ≥ 1. Rearranging the
-terms yields cosα <
-√
-1− 1
-n2 or rx <
-√
-1− 1
-n2 .
-This means that tx <
-p
-n2 −1.
-θr
-θr θr
-α α
-The force is maximal when the laser beam
-bounces against the cube odd number of times.
-Then r′
-x = −rx and t′
-x − tx < 2
-p
-n2 −1. Thus,
-F = P
-c
-√
-(tx −t′
-x)2 +(tz −t′
-z)2 < 2P
-c (n2
-− 1).
-Note that t2
-x +t2
-z =1 so tx <1. This means that
-the force can’t be larger than 2P
-c . The maximal
-force is then
-F =
-{
-2P
-c
-p
-n2 −1, if n<
-p
-2
-2P
-c , otherwise
-ii) We proceed in a similar way as in the pre-
-vious part, the main diﬀerence being that the
-y-component doesn’t have to be 0.
-The act of entering the cube keeps the light
-moving in the same direction in the x-y plane.
-Thus, tx
-ty
-=
-rx
-ry
-. Snell’s law can be written
-as
-√
-t2
-x +t2
-y = n
-√
-r2
-x +r2
-y, since
-√
-t2
-x +t2
-y and
-√
-r2
-x +r2
-y are the sines of the angles of incidence
-and departure respectively. Combining these
-equations, we get rx =
-tx
-n , ry =
-ty
-n . Similarly,
-t′
-x = nr′
-x and t′
-y = nr′
-y.
-The act of reﬂecting against the sides of the
-cube doesn’t change the magnitude of rx and
-ry. Thus, t′
-z = tz. This means that the quant-
-ity (tx −t′
-x)2
-+(ty −t′
-y)2
-needs to be maximized
-and this happens when r′
-y = −ry and r′
-x = −rx
-so F =2P
-c
-√
-t2
-x +t2
-y =2nP
-c
-√
-r2
-x +r2
-y.
-Using the same argumentation as in the pre-
-vious subtask, the condition for a reﬂection to
-happen against the x-face is tx <
-p
-n2 −1. Sim-
-ilarly, ty <
-p
-n2 −1 must hold for the y-face.
-This means that r2
-x+r2
-y <2
-(
-1− 1
-n2
-)
-. On the
-otherhand, t2
-x+t2
-y+t2
-z =1 so t2
-x+t2
-y <1 and r2
-x+
-r2
-y < 1
-n2 . Thus, r2
-x +r2
-y < min
-(
-2
-(
-1− 1
-n2
-)
-, 1
-n2
-)
-=
-1
-n2 min
-(
-2
-(
-n2
-−1
-)
-,1
-)
-. The maximum force the
-cube can experience is then
-F =
-{
-2
-p
-2P
-c
-p
-n2 −1, if n<
-p
-3/2
-2P
-c , otherwise
-7. LCR-CIRCUIT
-i) Let us consider ﬁrst the upper branch of the
-circuit consisting of the capacitor C and resistor
-R2. There is the same current I1 through the
-both elements so that the complex voltage amp-
-litudes are I1/(iωC) and I1R2, respectively. Di-
-vision by imaginary unit rotates a vector in com-
-plex plane clock-wise by π/2, hence the voltage
-vector on resistor is rotated with respect to the
-voltage on the capacitor counter-clock-wise by
-π/2. Similar analysis leads us to the conclusion
-that the voltage on the inductor L1 is rotated
-with respect to the voltage on the resistor R0
-counter-clock-wise by π/2, and that the voltage
-on the resistor R1 is rotated with respect to the
-voltage on the inductor L0 clock-wise by π/2.
-The resulting phasor diagram is shown below.
-ii) From Thales theorem we can conclude that
-the points F, D, and E in the ﬁgure above lay
-on the circle drawn around the segment AB
-as a diameter. Hence, the voltage VAB which
-we want to know equals by modulus to the dia-
-meter AB of the circumcircle of the triangle
-FDE for which we know the side lengths. By
-making use of the two formulas for the sur-
-face area of a triangle, the Heron formula A = √
-p(p−a)(p−b)(p−c), with p = 1
-2(a+b+ c),
-and A = abc
-4R with R denoting the radius of the
-circumcircle, we conclude that the diameter of
-the circumcircle
-2R =
-abc
-2
-√
-p(p−a)(p−b)(p−c)
-.With a = 7V, b = 15V and c = 20V we obtain
-p =21V and VAB =2R =25V.
-8. AIR IN A SUBMARINE
-i) We are supposed to calculate the volume
-rate (in m3
-s ) at which the water ﬂows in. We
-know A = 10cm2
-. We apply Bernoulli’s equa-
-tion, where the initial point is in the sea and the
-ﬁnal point is in the hole:
-Pi +
-1
-2
-ρv2
-i
-| {z }
-=0
-= Pf +
-1
-2
-ρv2
-f (5)
+to d sin φ ≈ d φ, see ﬁgure. Suppose that angle For L = and x = we obtain α =                                     the ﬁrst and second ball be v1 and v2 respect- the average speed of the collision points. From
+φ0 corresponds to a main diﬀraction maximum            An alternative approach is using the cyan                  ively. Applying the conservation of energy gives the ﬁgure, it can be seen that the direction of
+                                                                                                                   mv2     mv12  mv22     2     2     2              the average velocity is π − α clockwise from
+of a certain order n so that the optical path dif- stripes on the sheet. We look through the prism                  2 = 2 + 2 or v = v1 + v2 . Conserva-
+ference between the two beams is equal to an so that we can see stripes both through the                          tion of momentum yields mv = mv1 + mv2 or the initial direction 2r
+                                                                                                                                                                                         of the incoming ball, where
+integer number n of wavelengths. Then, for the prism, and bypassing the stream simultaneously.                    v = v1 + v2 . Combining the two equations gives    α  =  arctan R  . The  collision point moves by
+n + j -th main maximum, observed at angle α j , We ﬁnd such two neighbouring stripes and such                       2    2        2    2             2
+                                                                                                                  v = v +(v − v2 ) = v −2vv2 +2v and v2 = 0; v.      d  = r cos α between  two  subsequent collisions.
+                                                                                                                        2                           2
+In between the two collisions, one of the balls (r ′x , r ′y , r ′z ) and after leaving the cube, ⃗t′ =                                                                               both elements so that the complex voltage amp-
+moves 2π − 2α along a cyclotron (orbit. The time) ( t′x , t′y , t′z ). Every time the light bounces against                         { Pp 2                       p                    litudes are I 1 /(iωC ) and I 1 R2 , respectively. Di-
+taken is then t = 2π−ω2α = 2qBm
+                                  π − arctan 2Rr  one of the sides of the cube, the respective com-                                  2   n − 1,            if n < 2                   vision by imaginary unit rotates a vector in com-
+                                                                                                                                 F = Pc
+and the average velocity is                       ponent of ⃗r gets ﬂipped.                                                          2c,                   otherwise                  plex plane clock-wise by π/2, hence the voltage
+                                                      i) The laser beam is limited to propagate in a                                                                                  vector on resistor is rotated with respect to the
+       d r ω cos α             vrR                                                                                       ii) We proceed in a similar way as in the pre-               voltage on the capacitor counter-clock-wise by
+ vavg =  =          = p                =              two-dimensional plane. Take t y = 0, r y = 0,
+       t 2 (π − α) R 4 r + R 2 (π − α)
+                             2                          ′                 ′                                              vious part, the main diﬀerence being that the                π/2. Similar analysis leads us to the conclusion
+                                                      r y = 0 and t y = 0.
+                  v                                                                                                      y-component doesn’t have to be 0.                            that the voltage on the inductor L 1 is rotated
+      =√        (              ).                           In time d t, the laser pointer generates light
+             R2                                                                                                                                                                       with respect to the voltage on the resistor R0
+         4 + r2 π − arctan 2Rr                        with total energy P d t carrying momentum Pc d t.
+                                                                                                                               The act of entering the cube keeps the light
+                                                                                                                         moving in the same direction in the x-y plane.               counter-clock-wise by π/2, and that the voltage
+                                                      In that time, the same amount of light enters                                                                                   on the resistor R1 is rotated with respect to the
+iv) Let the velocities of the two balls at any mo-                                                                       Thus, tt xy = rr xy . Snell’s law can be written
+                                                      the cube and exits it, only with diﬀerent dir-                          √                   √                       √           voltage on the inductor L 0 clock-wise by π/2.
+ment of time be ⃗v1 and ⃗v2 . The velocity of the     ection. Applying Newton’s III law, the cube as t2x + t2y = n r 2x + r 2y , since t2x + t2y and                                  The resulting phasor diagram is shown below.
+centre of mass is then ⃗vCM = ⃗v1 +2⃗v2 . The equa-   must attain a momentum of d⃗               p = Pc d t(⃗t−⃗t′ ) and √ 2
+                                                                                                                             r x + r 2y are the sines of the angles of incidence
+tion of motion of the system is                       thus experiences a force of F            ⃗ = d⃗p = P (⃗t −⃗t′ ) =
+                                                          √                                         dt      c            and departure respectively. Combining these
+                                                      P
+                                                             ( t x − t′x )2 + ( t z − t′z )2 . This means that we                                                         t
+   q⃗    ⃗−F
+    v1 × B ⃗ + q⃗    ⃗+F
+                v2 × B ⃗ = m⃗
+                            v˙ 1 + m⃗
+                                    v˙ 2 ,             c
+                                                                                                           ′ 2           equations, we get r x = tnx , r y = ny . Similarly,
+                                                      wish to maximize the quantity ( t x − t x ) + ( t z − ′
+                                                                                                                         t x = nr ′x and t′y = nr ′y .
+where F ⃗ is the force between the two balls,         t′z )2 .
+                                                                                                                               The act of reﬂecting against the sides of the
+either the elastic forces during a collision or the         Snell’s law can be written as nr x = t x and
+                                                                                                                         cube     doesn’t change the magnitude of r x and
+electrostatic forces. Then                            nr ′x = t′x since t x and r x are the sines of angles
+                                                                                                                         r y . Thus, t′z = t z . This means that the quant-
+                                                      of incidence and departure respectively.
+                        ⃗=m   d                                                                                          ity ( t x − t′x )2 + ( t y − t′y )2 needs to be maximized
+          q(⃗
+            v1 + ⃗
+                 v2 ) × B        (⃗
+                                  v1 + ⃗
+                                       v 2 ),
+                              dt                            The laser beam can only reﬂect against the and this happens when r ′y = − r y and r ′x = − r x
+                                                                                                                                        √                      √
+                                                      side that is perpendicular to the x-axis, beam
+                              d                                                                                          so F = 2 Pc t2x + t2y = 2n Pc r 2x + r 2y .
+             q⃗     ⃗=m
+              vCM × B            ⃗
+                                 vCM .                path with internal reﬂection is shown inthe ﬁg-
+                              dt                      ure. Thus, r ′z = r z and t′z = t z . Let’s investigate                  Using the same argumentation as in the pre-
+This means that the centre of mass of the sys-        the reﬂection against the x-face. The angle of in- vious subtask, the condition for p                              a reﬂection to
+tem undergoes cyclotronic motion with a radius        cidence is cos α = r x . The condition for total in-               happen      against    the  x-face    is t   <     n2 − 1. Sim-
+                                                                                                                                         p                          x
+of R = mvqB . Because every collision point can       ternal reﬂection is sin√αn ≥ 1. Rearranging                    the ilarly, t y < n − 1 must hold for the y-face.
+                                                                                                                                              2
+                                                                                                              √                                                                          ii) From Thales theorem we can conclude that
+only be located where the center of mass is, the                                                                                                                      (        )
+                                                      terms yields cos α < 1 − n12 or r x < 1 − n12 .                          This means that r x + r y < 2 1 − n2 . On the the points F , D , and E in the ﬁgure above lay
+                                                                                                                                                        2     2              1
+collision points must also be limited to the same                                     p
+                                                      This means that t x < n2 − 1.                                                                                                      on the circle drawn around the segment AB
+circle. Thus, the maximum distance between                                                                               other hand, t2x + t2y + t2z = 1 so t2x + t2y < 1 and r 2x +
+                             mv
+                                                                                                                                                                    ( (          )   )   as a diameter. Hence, the voltage VAB which
+any two collisions is 2R = 2qB                                      θr
+                                                                                                                         r 2y < n12 . Thus, r 2x + r 2y < min 2 1 − n12 , n12 = we want to know equals by modulus to the dia-
+                                                                                            θr            θr
+                                                                                                                          1
+                                                                                                                                    ( (           ) )
+6. CUBE The cube gets pushed by the light                                               α                      α
+                                                                                                                          n2
+                                                                                                                              min 2 n2 − 1 , 1 . The maximum force the meter AB of the circumcircle of the triangle
+reﬂecting against its surfaces. Since there is no                                                                        cube can experience is then                                     FDE for which we know the side lengths. By
+partial reﬂection, light can only reﬂect inside the                                                                                                                                      making use of the two formulas for the sur-
+cube via total internal reﬂection.                                                                                                                                                       face
+                                                                                                                                                                                         √ area of a triangle, the Heron formula               A=
+                                                                                                                                         { p Pp 2                           p                                                        1
+                                                            The force is maximal when the laser beam                                       2   2       n   −  1 ,   if  n <    3/2          p ( p − a )( p − b )( p − c ), with p =    ( a + b + c),
+   Let the cube’s faces be aligned to x-y-z axis                                                                                   F= P c                                                            abc
+                                                                                                                                                                                                                                     2
+and let the light enter from the face which is        bounces against the cube odd number                     of times.                    2 c ,                    otherwise            and   A  =  4R    with   R  denoting   the radius   of the
+                                                                                                   p
+perpendicular to the z-axis.                          Then r ′x √   = − r x and t′x − t x < 2 n2 − 1. Thus,                                                                              circumcircle, we conclude that the diameter of
+                                                      F = P ( t − t′ )2 + ( t − t′ )2 < 2P ( n2 − 1). 7. LCR-CIRCUIT
+                                                                                                                                                                                         the circumcircle
+     Before entering the cube, let the unit vec-                c     x   x     z    z      c
+                                                                    2   2
+ tor directed along the motion of the light Note that t x + t z = 1 so t x < 1. This means that                       i) Let us consider ﬁrst the upper branch of the
+                                                                                       2P
+ be ⃗t = ( t x , t y , t z ), after entering the cube, the force can’t be larger than c . The maximal                 circuit consisting of the capacitor C and resistor                                      abc
+                                                     ′                                                                                                                                          2R = √                          .
+⃗r = ( r x , r y , r z ), before leaving the cube, ⃗r = force is then                                                 R 2 . There is the same current I 1 through the                               2 p( p − a)( p − b)( p − c)
+With a = 7 V, b = 15 V and c = 20 V we obtain           iii) The work W done on the system (consist- where the last equality follows from eqn (??).                            Determining which of the two possible cir-
+p = 21 V and VAB = 2R = 25 V.                           ing of the whole submarine) by the surrounding From here one proceeds as already written cuits is inside the black box is trickier. One
+8. AIR IN A SUBMARINE                                   water is W = P c ∆V , where P c is the constant above.                                                           way to do it, is to notice that when we discon-
+                                                        pressure of the surrounding water. There is no 9. BLACK BOX By measuring current with nect “blue” and “black” we can get a small spark,
+i) We are supposed to calculate the volume heat exchange, so this work must be equal to the
+           3                                                                                                       with positive lead of multimeter connected to or feel a small pulse of current if we happen to
+rate (in ms ) at which the water ﬂows in. We change in internal energy of the system:                                                                                    touch the wires at that point. That is because
+                                                                                                                   “blue”
+know A = 10 cm2 . We apply Bernoulli’s equa-                                                                                                                             L ∂∂It = Ul – the current through the inductor
+tion, where the initial point is in the sea and the         W  =  ∆U   gas + ∆ U  water = c V n ∆ T + K turb  (10)      and   negative  lead  connected  to “black”      can’t change instantaneously and the voltage will
+ﬁnal point is in the hole:                                                                                              we get I 0 ≈ 95 mA.                              generated by the inductor enough for spark or
+                                                        where K turb is the quantity that we are after and                                                               high voltage pulse. Meanwhile if we have capa-
+                   1              1                     get:                                                            From this measurement alone, since we
+             P i + ρ v2i = P f + ρ v2f            (5)                                                                                                                    citor in parallel with inductor while disconnect-
+                                                                        K turb = P c ∆V − c V n∆T.            (11) made a circuit that continuously conducted cur- ing the circuit we wont get the eﬀect. By testing
+                  |2 {z }         2
+                                                                                                                   rent,
+                     =0                                 We need the value of n (NB. you can also ﬁgure                                                                   with “white” lead parallel with “black” or with
+                                                        it  out from    the  ideal  gas  law):                          we can deduce that the circuit inside the “blue” we can determine that no spark happens
 from which we get:
-vf =
-√
-2
-∆P
-ρ
-≈
-√
-2gh=76.72m/s. (6)
-Here vf is the speed at which the water ﬂows
-in. This we can insert into the equation for the
+                                                                                                                   black box has to be one of following:                 in latter case and the circuit in the black box is
+             √                                                                           m
+                 ∆P      √                                                         n  =                       (12)                                                       circuit B from the ﬁgure.
+                                                                                                                         white                        white
+       vf = 2         ≈ 2 gh = 76.72 m/s. (6)                                            M
+                  ρ                                                                                                  A                            B                      iv)
+                                                                               kg         3
+                                                        where m = 1.23 m3 · 10m = 12.3 kg and M =                                                                              By connecting voltmeter between “white”
+Here v f is the speed at which the water ﬂows                        kg                                                                                                  and     “black” or “white” and “blue” we can see
+in. This we can insert into the equation for the 0.02897 mol . Plugging in the values we get n ≈                                          blue                      blue
+                                                        424 mol. The ﬁnal temperature can be calcu-                                                                      the   voltage   decaying exponentially. That means
 volume rate:
-Q = Avf =0.153
-m3
-s
-≈150
-litres
-s
-. (7)
-ii) Atmospheric air consists mainly of diatomic
-nitrogen and oxygen gas. At the temperatures
-involved these molecules have f = 5 degrees of
-freedom: 3 translational and 2 rotational. The
-adiabatic constant γ is γ =(f +2)/f =7/5. One
-can also obtain this result from γ=(cV +R)/cV .
-For adiabatic compression we have
-piV
-γ
-i
-= pf V
-γ
-f
-. (8)
-The ﬁnal pressure is the pressure from the sea,
-which is approximately p0+ρgh=(105
-+1000·
-9.8·300)Pa≈3MPa. This gives
-Vf =Vi
-(
-pi
-pf
-)5
-7
-≈0.9m3
-(9)
-Note: The ﬁnal temperature is only about 2.6
-times the initial temperature, such that the vi-
-brational degrees of freedom of the molecules
-does not have to be considered.
-iii) The work W done on the system (consist-
-ing of the whole submarine) by the surrounding
-water is W = Pc∆V, where Pc is the constant
-pressure of the surrounding water. There is no
-heat exchange, so this work must be equal to the
-change in internal energy of the system:
-W =∆Ugas +∆Uwater = cV n∆T +Kturb (10)
-where Kturb is the quantity that we are after and
-get:
-Kturb = Pc∆V −cV n∆T. (11)
-We need the value of n (NB. you can also ﬁgure
-it out from the ideal gas law):
-n=
-m
-M
-(12)
-where m = 1.23
-kg
-m3 ·10m3
-= 12.3kg and M =
-0.02897
-kg
-mol. Plugging in the values we get n ≈
-424mol. The ﬁnal temperature can be calcu-
-lated from the initial temperature by using that
-p1−γ
-Tγ
-is conserved.
-By plugging in all the other values we get:
-Kturb ≈2.2×107
-J. (13)
-Alternative solution: Alternatively, one can
-look at the gas and the water (inside the submar-
-ine) as separate subsystems. The work done on
-the gas is equal to the change in internal energy
-of the gas:
-∫
-Pg dV = cV n∆T. (14)
-The work done on the water inside the submar-
-ine by the water outside the submarine is Pc∆V.
-The water inside the submarine also does work
-on the gas given by
-∫
-Pg dV. The change in in-
-ternal energy of the water in the submarine is
-then
-Kturb = Pc∆V −
-∫
-Pg dV = Pc∆V −cV n∆T
-(15)
-where the last equality follows from eqn (??).
-From here one proceeds as already written
-above.
-9. BLACK BOX By measuring current with
-with positive lead of multimeter connected to
-“blue”
-and negative lead connected to “black”
-we get I0 ≈95mA.
-From this measurement alone, since we
-made a circuit that continuously conducted cur-
-rent,
-we can deduce that the circuit inside the
-black box has to be one of following:
-A
-white
-black
-blue
-B
-white
-black
-blue
-Note that the order of the inductor and di-
-ode in series does not change anything.
-The actual measured current value varies a
-bit from one black box to another and also
-changes very slightly due battery voltage drop-
-ping and inductor heating up slightly.
-i)
-Measuring voltage between “blue” and
-“black” we determine the electromotive force of
-the battery U =9.5V.
-ii)
-We get the internal resistance of the in-
-ductor from Rl =U/I0 ≈100ohm. We can also
-get some hint to the magnitude of the induct-
-ance as we saw no exponential ramp up of cur-
-rent when measuring, meaning L/R ≪ t.
-iii)
-Determining which of the two possible cir-
-cuits is inside the black box is trickier. One
-way to do it, is to notice that when we discon-
-nect “blue” and “black” we can get a small spark,
-or feel a small pulse of current if we happen to
-touch the wires at that point. That is because
-L∂I
-∂t = Ul – the current through the inductor
-can’tchangeinstantaneouslyandthevoltagewill
-generated by the inductor enough for spark or
-high voltage pulse. Meanwhile if we have capa-
-citor in parallel with inductor while disconnect-
-ing the circuit we wont get the eﬀect. By testing
-with “white” lead parallel with “black” or with
-“blue” we can determine that no spark happens
-in latter case and the circuit in the black box is
-circuit B from the ﬁgure.
-iv)
-By connecting voltmeter between “white”
-and “black” or “white” and “blue” we can see
-the voltage decaying exponentially. That means
-indeed, that the capacitor is connected to the
-“white” wire and depending if the other lead is
-connected to “black” or “blue” we are charging
-thecapacitortonegativebatteryvoltagethrough
-voltmeter or discharging it through voltmeter
-and inductor and diode. We have to be careful
-not to touch both wires at the same time, since
-the resistance of good skin conductance is much
-smaller then the resistance of the voltmeter.
-We can measure the capacitance by measur-
-ing the exponent: for example by taking two
-voltage readings and measuring the time inter-
-val between the readings. C =
-ln
-U1
-U2
-τRm
-≈1uF.
-v)
-First we connect all three wires together.
-That means we have current running through
-inductor and the capacitor is charged to negat-
-ive of battery voltage. We connect voltmeter
-between “white” and “black”, so that we meas-
-ure the total of the capacitor and battery voltage.
-The reading is zero at the start since all black
-boxleadsareconnected. Nowwedisconnecttheinductor battery current loop by disconnecting
-“black” from other box leads and the multimeter
-reading will jump to Uc +U
-approx32V and starts to decay exponentially
+                                                        lated from the initial temperature by using that                                                                 indeed,     that  the capacitor is connected to the
+                           m3         litres               1−γ γ                                                                                                         “white”     wire and    depending if the other lead is
+                                                        p T is conserved.
+        Q = Av f = 0.153        ≈ 150        .    (7)                                                                                                                    connected      to  “black”   or “blue” we are charging
+                            s            s                   By plugging in all the other values we get:
+                                                                                                                         black                        black
+                                                                                                                                                                         the   capacitor   to  negative  battery voltage through
+ii) Atmospheric air consists mainly of diatomic                             K turb ≈ 2.2 × 10 J.7
+                                                                                                              (13)                                                       voltmeter     or   discharging     it through voltmeter
+nitrogen and oxygen gas. At the temperatures                                                                            Note that the order of the inductor and di-      and    inductor    and   diode.  We    have to be careful
+involved these molecules have f = 5 degrees of                                                                     ode in series does not change anything.               not   to  touch   both   wires  at  the same time, since
+freedom: 3 translational and 2 rotational. The Alternative solution: Alternatively, one can                                                                              the resistance of good skin conductance is much
+adiabatic constant γ is γ = ( f + 2)/ f = 7/5. One look at the gas and the water (inside the submar-                    The actual measured current value varies a smaller then the resistance of the voltmeter.
+can also obtain this result from γ = ( c V + R )/ c V . ine)  as  separate    subsystems.     The   work  done  on bit  from one black box to another and also
+                                                                                                                   changes     very slightly due battery voltage drop-         We can measure the capacitance by measur-
+For adiabatic compression we have                       the  gas  is  equal  to  the  change   in internal  energy
+                                                                                                                   ping and inductor heating up slightly.                ing    the exponent: for example by taking two
+                                                        of the gas:
+                        γ        γ                                                                                                                                       voltage readings and measuring the time inter-
+                  p i Vi = p f Vf .               (8)                      ∫                                       i)                                                                                               U
+                                                                                                                                                                                                                 ln U1
+                                                                              P g dV = c V n∆T.               (14)                                                       val between the readings. C = τR m2 ≈ 1 uF.
+The ﬁnal pressure is the pressure from the sea,                                                                         Measuring voltage between “blue” and
+                                           5
+which is approximately p 0 + ρ gh = (10 + 1000 ·                                                                   “black”   we determine the electromotive force of v)
+                                                        The work done on the water inside the submar- the battery U = 9.5 V.
+9.8 · 300)Pa ≈ 3 MPa. This gives                                                                                                                                               First we connect all three wires together.
+                                                        ine by the water outside the submarine is P c ∆V .
+                      (    )5                           The water inside the∫ submarine also does work             ii)                                                   That     means we have current running through
+                        pi 7           3                                                                                                                                 inductor     and the capacitor is charged to negat-
+             Vf = Vi          ≈ 0. 9 m            (9) on the gas given by P g dV . The change in in-                    We get the internal resistance of the in-
+                        pf
+                                                        ternal energy of the water in the submarine is ductor from R l = U / I 0 ≈ 100 ohm. We can also                  ive   of  battery    voltage. We connect voltmeter
+                                                                                                                   get some hint to the magnitude of the induct-         between      “white”    and “black”, so that we meas-
+Note: The ﬁnal temperature is only about 2.6 then                                                                                                                        ure   the  total of  the  capacitor and battery voltage.
+                                                                                ∫                                  ance as we saw no exponential ramp up of cur-
+times the initial temperature, such that the vi-                                                                                                                         The     reading   is  zero  at the start since all black
+brational degrees of freedom of the molecules              K turb = P c ∆V − P g dV = P c ∆V − c V n∆T             rent when measuring, meaning L/R ≪ t.
+                                                                                                                                                                         box leads are connected. Now we disconnect the
+does not have to be considered.                                                                               (15) iii)
+inductor battery current loop by disconnecting has reached zero.
+“black” from other box leads and the multimeter        We can get the upper and lower bounds for                                                                                   Rl
+reading will jump to U c + U                       the inductance value by considering two diﬀer-           U 2 C I 2 L U c2 C                                (U c + U ) ∗ C = I      ⇒ L ≈ 33.6 mH
+ap prox32 V and starts to decay exponentially ent cases.                                                          +      =       ⇒ L ≈ 130 mH                                      L
+                                                                                                              2       2      2
 as before. We can do this many times to get a
-maximum reading.
-After disconnecting the “black”, the current
-goes through LCR circuit formed by inductor
-and capacitor, but instead of oscillating it stops
-due to the diode when current through inductor
-has reached zero.
-We can get the upper and lower bounds for
-the inductance value by considering two diﬀer-
-ent cases.
-Upper bound we can get when we neglect
-the resistive losses. In that case all the energy
-at the end is in the capacitor. When we write
-down the energy balance we get:
-U2
-C
-2
-+
-I2
-L
-2
-=
-U2
-c C
-2
-⇒ L ≈130mH
-Lower bound we can get when we assume
-that most of the energy went to resistive losses,
-inthatcasetheinductorcurrentdecaysexponen-
-tially and we can write expression for the down
-the total charge:
-(Uc +U)∗C = I
-Rl
-L
-⇒ L ≈33.6mH
-The correct value for the inductor L ≈
-100mH is between those bounds and closer to
-the upper bound as we may guess since Uc >U.
-It is possible to get more accurate value by
-looking at it without the assumptions - as a
-damped harmonic oscillation.
+maximum reading.                                       Upper bound we can get when we neglect                                                                The correct value for the inductor L ≈
+                                                   the resistive losses. In that case all the energy      Lower bound we can get when we assume          100 mH is between those bounds and closer to
+    After disconnecting the “black”, the current at the end is in the capacitor. When we write                                                           the upper bound as we may guess since U c > U .
+                                                                                                     that most of the energy went to resistive losses,
+goes through LCR circuit formed by inductor down the energy balance we get:
+and capacitor, but instead of oscillating it stops                                                   in that case the inductor current decays exponen-       It is possible to get more accurate value by
+due to the diode when current through inductor                                                       tially and we can write expression for the down     looking at it without the assumptions - as a
+                                                                                                     the total charge:                                   damped harmonic oscillation.

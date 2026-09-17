@@ -15,8 +15,9 @@ has_figure: false
 figure_files: []
 provenance_note: "NBPhO 2023, Problem 4, by Jaan Kalda and Eero Uustalu. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **4. BLACK BOX (12 points)** — *Jaan Kalda, Eero Uustalu.*

@@ -70,14 +70,13 @@
 				<label class="filter">Language<select id="language"><option value="all">All languages</option></select></label>
 				<label class="check"><input id="solution" type="checkbox"> Solution indexed</label>
 				<button id="reset" type="button">Reset</button>
-				<button id="reset" type="button">Reset</button>
 			</div>
 			<p id="status" aria-live="polite">Loading catalogue…</p>
 		</section>
 		<section id="results" aria-live="polite"></section>
 		<button id="more" type="button" hidden>Show more</button>
 		<footer>
-			<p><strong>Internal convenience copy.</strong> Links expose Markdown and selected archive metadata from this public repository. Figures are not mirrored here: the referenced source images total about 535 MiB. Do not treat this static key as a licence or a security boundary.</p>
+			<p><strong>Internal archive copy.</strong> Markdown files and locally available figures are linked from each record.</p>
 		</footer>
 	</main>
 
@@ -129,9 +128,10 @@
 			article.append(top, make("h2", "", k ? k.problem : record.title || record.problem || record.id));
 			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
 			const links = make("div", "links"), local = manifest[record.id] || {};
+			const view = make("a", "", "view"); view.href = `view.html?id=${encodeURIComponent(record.id)}`; links.append(view);
 			[[local.problem, "problem MD"], [local.en, "EN MD"], [local.hu, "HU MD"], [local.solution, "solution MD"]].forEach(([path, label]) => { if (path) { const a = make("a", "", label); a.href = path; links.append(a); } });
 			array(local.solution_documents).forEach((path, i) => { const a = make("a", "", `official document${i ? ` ${i + 1}` : ""}`); a.href = path; links.append(a); });
-			if (local.figure_count) links.append(make("span", "muted", `${local.figure_count} figure metadata entr${local.figure_count === 1 ? "y" : "ies"}; files not mirrored`));
+			if (local.figures && local.figures.length) links.append(make("span", "muted", `${local.figures.length} figure${local.figures.length === 1 ? "" : "s"} in viewer`));
 			if (links.childElementCount) article.append(links); return article;
 		}
 		function searchable(r) { return [r.id,r.source,r.source_name,r.year,r.problem,r.title,r.handout,r.language,r.difficulty,r.format,...array(r.languages),...array(r.topics),...array(r.subtopics),...array(r.math_tools),...array(r.techniques),...array(r.ideas),...array(r.ideas).map((v) => ideaLabels[v] || v)].map(text).join(" ").toLowerCase(); }

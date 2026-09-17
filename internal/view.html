@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex,nofollow">
+	<title>physics problem finder · record</title>
+	<style>
+		:root { --bg:#fff; --text:#222; --muted:#666; --line:#ccc; --red:#c00; }
+		* { box-sizing:border-box; }
+		body { margin:0; color:var(--text); background:var(--bg); font:14px/1.5 Verdana,Geneva,sans-serif; }
+		main, #gate { width:min(980px,calc(100% - 28px)); margin:auto; }
+		a { color:var(--red); }
+		a:visited { color:#551a8b; }
+		h1 { margin:0; font:700 20px/1.2 Georgia,serif; }
+		header { display:flex; justify-content:space-between; align-items:baseline; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
+		#gate { max-width:600px; padding-top:22vh; }
+		#gate h1 { margin-bottom:12px; }
+		form { display:flex; gap:7px; }
+		input, select, button { min-height:32px; border:1px solid #aaa; border-radius:2px; background:#fff; color:var(--text); font:inherit; }
+		input { min-width:0; padding:7px; }
+		form input { flex:1; }
+		button { padding:5px 10px; cursor:pointer; }
+		button:hover, button:focus-visible, input:focus-visible, select:focus-visible { outline:2px solid var(--red); outline-offset:1px; }
+		.muted, #status { color:var(--muted); }
+		#gate-message { font-size:12px; }
+		.meta { color:var(--muted); font-size:13px; }
+		.toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); }
+		.toolbar select { min-width:180px; }
+		#download-md, #download-package { border-color:var(--red); color:var(--red); text-decoration:none; }
+		#document-content { padding:18px 0 28px; font-family:Georgia,'Times New Roman',serif; font-size:17px; }
+		#document-content h1, #document-content h2, #document-content h3 { margin:1.2em 0 .35em; }
+		#document-content h1 { font-size:28px; } #document-content h2 { font-size:23px; } #document-content h3 { font-size:19px; }
+		#document-content p { margin:.7em 0; }
+		#document-content img { display:block; max-width:100%; height:auto; margin:14px 0; }
+		#document-content pre { overflow:auto; padding:10px; background:#f5f5f5; font:14px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace; }
+		#document-content code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }
+		#document-content blockquote { margin-left:0; padding-left:14px; border-left:3px solid var(--line); color:#555; }
+		#figures { border-top:1px solid var(--line); padding:14px 0; }
+		#figures h2 { margin:0 0 10px; font:700 16px Georgia,serif; }
+		.figure { margin:12px 0 20px; }
+		.figure img { display:block; max-width:100%; max-height:600px; height:auto; }
+		.figure a { font-size:12px; }
+		.error { padding:24px 0; color:#900; }
+		footer { margin-top:20px; padding:14px 0 35px; border-top:1px solid var(--line); color:var(--muted); font-size:12px; }
+		@media (max-width:600px) { main,#gate,footer { width:calc(100% - 20px); } form { flex-wrap:wrap; } form input,form button { flex:1 1 100%; } .toolbar>* { flex:1 1 100%; } #document-content { font-size:16px; } }
+	</style>
+</head>
+<body>
+	<section id="gate">
+		<h1>physics problem finder · internal</h1>
+		<p>Enter the shared key to open the record.</p>
+		<form id="unlock"><input id="key" type="password" autocomplete="current-password" placeholder="Shared key"><button>Open record</button></form>
+		<p id="gate-message" class="muted" aria-live="polite"></p>
+	</section>
+
+	<main id="app" hidden>
+		<header><h1>physics problem finder</h1><a href="./">back to finder</a></header>
+		<p id="meta" class="meta">Loading record…</p>
+		<div class="toolbar">
+			<label>Document <select id="document"></select></label>
+			<a id="download-md" href="#" download hidden>Download plain MD</a>
+			<button id="download-package" type="button" hidden>Download MD + figures</button>
+			<span id="status" aria-live="polite"></span>
+		</div>
+		<article id="document-content"></article>
+		<section id="figures" hidden><h2>Figures</h2><div id="figure-list"></div></section>
+		<footer>Plain downloads remove YAML metadata. A package is a standard `.tar.gz` containing the rendered document source and locally mirrored figures.</footer>
+	</main>
+
+	<script src="vendor/marked.umd.js"></script>
+	<script>
+		const $ = (id) => document.getElementById(id);
+		const KEY_HASH = "9bc33fdb9f533d2c8161fa9c72f59f4811a834cb71c1f936a5df4d6d2c321bd9";
+		const params = new URLSearchParams(location.search), recordId = params.get("id");
+		const array = (v) => Array.isArray(v) ? v : [];
+		const text = (v) => v === null || v === undefined ? "" : String(v);
+		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {}, packageBody = "", downloadUrl;
+
+		async function digest(value) {
+			const bytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value));
+			return [...new Uint8Array(bytes)].map((b) => b.toString(16).padStart(2, "0")).join("");
+		}
+		async function unlock(event) {
+			event.preventDefault();
+			try {
+				if (await digest($("key").value) !== KEY_HASH) throw new Error("wrong key");
+				sessionStorage.setItem("physics-corpus-internal", "1"); $("gate").hidden = true; $("app").hidden = false; load();
+			} catch (_) { $("gate-message").textContent = "That key did not match."; }
+		}
+		function stripFrontmatter(value) { return value.replace(/^---\n[\s\S]*?\n---\n?/, ""); }
+		function basename(value) { return decodeURIComponent(value.split(/[?#]/)[0].split("/").pop() || ""); }
+		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Solution"; return `Official document ${Number(key.slice(3)) + 1}`; }
+		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
+		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
+		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
+		function localizeImages(body, info, forPackage = false) {
+			return body.replace(/(!\[[^\]]*\]\()([^)]*)(\))/g, (whole, start, src, end) => {
+				const local = figurePath(src, info); if (local === src) return whole;
+				return `${start}${forPackage ? packageFigurePath(local) : local}${end}`;
+			});
+		}
+		function setDownload(body, name) {
+			if (downloadUrl) URL.revokeObjectURL(downloadUrl); downloadUrl = URL.createObjectURL(new Blob([body], {type:"text/markdown;charset=utf-8"}));
+			const link = $("download-md"); link.href = downloadUrl; link.download = `${name}.md`; link.hidden = false;
+		}
+		function renderFigures(info, seen) {
+			const box = $("figures"), list = $("figure-list"); list.replaceChildren(); const paths = array(info.figures).filter((path) => !seen.has(path));
+			if (!paths.length) { box.hidden = true; return; } box.hidden = false;
+			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)); img.src = path; img.loading = "lazy"; img.decoding = "async"; link.href = path; link.download = basename(path); figure.append(img, link); list.append(figure); });
+		}
+		function renderBody(body, info) {
+			currentBody = stripFrontmatter(body); packageBody = localizeImages(currentBody, info, true); const content = $("document-content"); content.innerHTML = marked.parse(currentBody, {gfm:true, breaks:false, html:false});
+			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, info); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
+			renderFigures(info, seen); setDownload(currentBody, recordId + "-" + $("document").value); const count = array(info.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
+		}
+		function tarHeader(name, size) {
+			const h = new Uint8Array(512), enc = new TextEncoder(); const put = (at, width, value) => h.set(enc.encode(value).slice(0,width), at); const oct = (value, width) => value.toString(8).padStart(width - 1, "0") + "\0";
+			put(0,100,name); put(100,8,"0000644\0"); put(108,8,"0000000\0"); put(116,8,"0000000\0"); put(124,12,oct(size,12)); put(136,12,oct(Math.floor(Date.now()/1000),12)); h.fill(32,148,156); h[156]=48; put(257,6,"ustar\0"); put(263,2,"00");
+			const sum=h.reduce((a,b)=>a+b,0); put(148,8,`${sum.toString(8).padStart(6,"0")}\0 `); return h;
+		}
+		async function downloadPackage() {
+			const button=$("download-package"); button.disabled=true; $("status").textContent="Preparing download…";
+			try {
+				const files=[{name:`${recordId}.md`,bytes:new TextEncoder().encode(packageBody)}];
+				for (const path of array(currentInfo.figures)) { const response=await fetch(path); if (!response.ok) throw new Error(path); files.push({name:packageFigurePath(path),bytes:new Uint8Array(await response.arrayBuffer())}); }
+				const chunks=[]; files.forEach(({name,bytes}) => { chunks.push(tarHeader(name,bytes.length),bytes,new Uint8Array((512-bytes.length%512)%512)); }); chunks.push(new Uint8Array(1024));
+				const blob=await new Response(new Blob(chunks).stream().pipeThrough(new CompressionStream("gzip"))).blob(), url=URL.createObjectURL(blob), link=document.createElement("a"); link.href=url; link.download=`${recordId}-${$("document").value}.tar.gz`; link.click(); setTimeout(() => URL.revokeObjectURL(url),1000); $("status").textContent="Download ready.";
+			} catch (_) { $("status").textContent="Package failed; use the plain MD and figure links separately."; } finally { button.disabled=false; }
+		}
+		async function showDocument(key) {
+			const path=options.find((item) => item.key === key)?.path; if (!path) return; currentInfo=manifest.documents[path] || {};
+			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo); history.replaceState(null,"",`view.html?id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
+		}
+		async function load() {
+			try {
+				[catalog,manifest]=await Promise.all([fetch("../catalog.json").then((r)=>r.json()),fetch("manifest.json").then((r)=>r.json())]); record=array(catalog.records).find((item)=>item.id===recordId); if (!record) throw new Error();
+				$("meta").textContent=`${record.source_name || record.source}${record.year ? ` · ${record.year}` : ""} · ${record.title || record.problem || record.id}`;
+				const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
+				const select=$("document"); select.replaceChildren(...options.map((item)=>new Option(labelFor(item.key,item.path),item.key))); const wanted=params.get("doc"); select.value=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key; if (!select.value) throw new Error(); showDocument(select.value);
+			} catch (_) { $("meta").textContent=""; $("document-content").append(make("div","error","The record could not be loaded.")); }
+		}
+		$("unlock").addEventListener("submit",unlock); $("document").addEventListener("change",(event)=>showDocument(event.target.value)); $("download-package").addEventListener("click",downloadPackage);
+		if (sessionStorage.getItem("physics-corpus-internal") === "1") { $("gate").hidden=true; $("app").hidden=false; load(); }
+	</script>
+</body>
+</html>

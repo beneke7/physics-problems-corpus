@@ -5,45 +5,107 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2011/T1_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2011-t1]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2011/T1_S.pdf."
 ---
 
-Page 1 of 2
 Theoretical Question 1: The Shockley-James Paradox
-SOLUTION
+                                                     SOLUTION
+
 a. The magnetic field created by the large loop at its center is:
-Since , this is the field throughout the area of the small loop. Therefore, the flux through the small loop is given
+
+
+
+
+Since          , this is the field throughout the area of the small loop. Therefore, the flux through the small loop is given
 by:
+
+
+
+
 The mutual inductance is then given by:
-b. Since , we have:
+
+
+
+
+b. Since                    , we have:
+
+
+
+
 Taking the derivative with respect to time, this becomes:
-̇
+
+                                                                       ̇
+
+
 c. The EMF is work per unit charge, while the electric field is force per unit charge. Therefore:
-̇
+
+                                                                           ̇
+
+
 d. The electric field from part (c) leads to a force:
-̇
-Integrating over (and disregarding the sign), we get the impulse:
+
+                                                                               ̇
+
+
+Integrating over      (and disregarding the sign), we get the impulse:
+
+
+
+
 e. The current can be written as:
-where is the charge carriers’ velocity. We therefore have:Page 2 of 2
-The momentum is then given by:
-√
-( ( ) )
-where is the Lorentz factor associated with .
+
+
+
+where      is the charge carriers’ velocity. We therefore have:
+
+
+                                                         Page 1 of 2
+The momentum is then given by:
+
+
+                                                                       (       (       ) )
+                                                 √
+
+where    is the Lorentz factor associated with .
+
 f. The hidden momentum is due to the charge carriers in the two vertical sides of the loop. Let be the mass of the
-charge carriers, let be their charge, and let be the potential energy difference for a charge carrier
+charge carriers, let be their charge, and let                be the potential energy difference for a charge carrier
 between the two sides. Denote the longitudinal densities and velocities of the charges in the two sides by , ,
 and . Let and be the appropriate Lorentz factors. From the constant value of the current, we have:
+
+
+
 Energy conservation for the charge carriers passing from one side to the other reads:
-( )
+
+                                                   (        )
+
 The total momentum now reads:
-( ) ( )
-Note that all the microscopic quantities , , and have dropped out.
-g) In part (d), the magnetic moment is , and we get:
-In part (f), the magnetic moment is , and we get:
+
+
+                                           (                       )       (       )
+
+Note that all the microscopic quantities   , ,     and    have dropped out.
+
+g) In part (d), the magnetic moment is             , and we get:
+
+
+
+
+In part (f), the magnetic moment is         , and we get:
+
+
+
+
 We see that the results are identical.
-h) The answer is (A)+(C). (A) is true because between the near side and the far side of the loop vanishes. (B)
+
+h) The answer is (A)+(C). (A) is true because      between the near side and the far side of the loop vanishes. (B)
 cannot be true, because the back-reaction of the induced charges on the external charge is a higher-order effect; for
 instance, it involves higher powers of . Then the conservation of center-of-mass velocity requires that (C) is true.
+
+
+
+
+                                                         Page 2 of 2

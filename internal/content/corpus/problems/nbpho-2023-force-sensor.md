@@ -15,8 +15,9 @@ has_figure: true
 figure_files: [nbpho-2023-force-sensor-fig1.jpg, nbpho-2023-force-sensor-fig2.jpg]
 provenance_note: "NBPhO 2023, Problem 5, by Päivo Simson. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **5. Force sensor (5 points)** — *Päivo Simson.*

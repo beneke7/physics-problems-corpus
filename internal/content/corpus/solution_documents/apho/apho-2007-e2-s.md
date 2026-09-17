@@ -5,99 +5,154 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2007/E2_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2007-e2]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2007/E2_S.pdf."
 ---
 
-1
 Solution of EX2
+
 Measurement of liquid electric conductivity
-1Graph the experimental circuit diagram for scaling the sensor of liquid
-conductivity and the connection of the circuit.
+    1  Graph the experimental circuit diagram for scaling the sensor of liquid
+          conductivity and the connection of the circuit.
+                                          
+
+
+
+
+                                                                     
+
+2. Measure          for different standard resistors. Record the data in the Table
+
+           designed by yourself.
 
+    
+
+                                      Ω
+                                     
+                                        
+                                             
+                                               
+                                            
+                                          
+                                              
+                                           
+                                           
+                                            
+                                          
+                                             
+                                           
+                                            
+                                             
+                                           
+                                          
+                                           
+
+                                                                                 1
+                                                
+                                                    
+                                                  
+                                                  
+                                                  
+                                                  
+                                                 
+                                                 
+                                                 
+                                                  
+
+
+
+3-1.    Take the ratio of         as ordinate; take the reciprocal of the resistance R
+
+
+       of the standard resistor , (     ), as abscissa. Graph the curve of           
+
+       versus        .
+
+
+
+
+                                                                            
+
+3-2 Graph the linear region of the curve of           versus        and use the graphic
+
+method     to get the slope B of the straight line and its relative uncertainty.
+
+
+
+
+                                                                                        2
+                                                                               
+                                                                     2
+                  B=0.434   , u(B)=0.009    , u(B)/B=0.21, (u(B)/B) =0.00044 
+          
+
+           Remark: u(B) may be calculated by using several methods. As long as it is
+           calculated, the resulting values closing to the correct value are recognized to
+           be correct.
+
+
+
+    4.   With the give length L   mm and diameter of the liquid cylinder
+
+         d  mmcalculate            and its relative uncertainty.
+                                                
+                                                                  (S/mm)
+
+                                                                         
+                                                                     
+
+
+     5. Measure the conductivity of the liquid in the container and write the result.
+         With the given experimental apparatus measure the conductivity of the liquid,
+         the formulae for calculating the liquid conductivity and its relative uncertainty
+         are:
+
+                                                      (S/mm)                 
+
+
+
+                                                                                         3
+                                                                    
+
+                                                   
+
+    Repeat the measurement of               for six times. The resulting data suggested are
+    listed in the Table below
 
-2. Measure for different standard resistors. Record the data in the Table
-designed by yourself.
-
-
- 
-Ω
- 
-       
-        
-         
-          
-       
-          
-        
-        
-        
-       
-         
-         
-         
-        
-        
-       
-       2
-      
-        
-        
-        
-       
-        
-        
-       
-       
-         
-3-1. Take the ratio of   as ordinate; take the reciprocal of the resistance R
-of the standard resistor , ( ), as abscissa. Graph the curve of  
-versus .
- 
-3-2 Graph the linear region of the curve of  versus and use the graphic
-method to get the slope B of the straight line and its relative uncertainty.3
-
-B=0.434 , u(B)=0.009 , u(B)/B=0.21, (u(B)/B)2
-=0.00044 
- 
-Remark: u(B) may be calculated by using several methods. As long as it is
-calculated, the resulting values closing to the correct value are recognized to
-be correct.
-4. With the give length L   mm and diameter of the liquid cylinder
-d  mmcalculate and its relative uncertainty.
-
-(S/mm)
-
-
-5. Measure the conductivity of the liquid in the container and write the result.
-With the given experimental apparatus measure the conductivity of the liquid,
-the formulae for calculating the liquid conductivity and its relative uncertainty
-are:
-(S/mm) 4
-
-
-Repeat the measurement of for six times. The resulting data suggested are
-listed in the Table below
-
-  
-    
-  
-  
-  
-   
-   
-
- (S/mm)
-  
-
- 
- (S/mm)
-Therefore the measured conductivity of the liquid is:
- 
-
-Remark: The above experimental data are obtained with a homogeneous solution
-after stirring, and the solute is salt (NaCl, 100mL), while the solvent is water
-(700mL,10.1o
-C).
+                                                 
+                                                 
+                                                   
+                                                   
+                                                   
+                                                  
+                                                  
+
+                                                              
+                                                                 (S/mm)
+
+
+                                                                               
+
+
+                                                                         
+
+
+                                                        
+
+
+                                                      (S/mm)
+
+
+    Therefore the measured conductivity of the liquid is: 
+                                                                    
+    
+    Remark: The above experimental data are obtained with a homogeneous solution
+    after stirring, and the solute is salt (NaCl, 100mL), while the solvent is water
+    (700mL,10.1oC).
+
+
+
+
+                                                                                          4

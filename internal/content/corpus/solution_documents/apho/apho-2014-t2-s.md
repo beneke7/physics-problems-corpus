@@ -5,120 +5,234 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2014/T2_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2014-t2]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2014/T2_S.pdf."
 ---
 
-Page 1 of 6
 Question 2
+
 The two-slit electron interference experiment was first performed by Möllenstedt et al, Merli-
 Missiroli and Pozzi in 1974 and Tonomura et al in 1989. In the two-slit electron interference
 experiment, a monochromatic electron point source emits particles at S that first passes
 through an electron “biprism” before impinging on an observational plane; S1 and S2 are
 virtual sources at distance d. In the diagram, the filament is pointing into the page. Note that
 it is a very thin filament (not drawn to scale in the diagram).
+
+
+
+
 The electron “biprism” consists of a grounded cylindrical wire mesh with a fine filament F at
 the center. The distance between the source and the “biprism” is ℓ, and the distance between
-the distance between the “biprism” and the screen is L.Page 2 of 6
-(a) (2 points) Taking the center of the circular cross section of the filament as the
-origin O, find the electric potential at any point (x,z) very near the filament in
-terms of Va, a and b where Va is the electric potential of the surface of the
-filament, a is the radius of the filament and b is the distance between the center of
-the filament and the cylindrical wire mesh. (Ignore mirror charges.)
-Writing out |E| = ( )
-(1 point)
-Note that
-( ) (= 0 at the mesh)
-Also at the edge of the filament, Va = ( ) , so
-Giving together
-( )
-( )
-( )
-where √
-(1 point for final expression)Page 3 of 6
-(b) (4 points) An incoming electron plane wave with wave vector kz is deflected by
-the “biprism” due to the x-component of the force exerted on the electron.
-Determine kx the x-component of the wave vector due to the “biprism” in terms of
-the electron charge, e, vz, Va, kz, a and b, where e and vz are the charge and the
-z-component of the velocity of the electrons (kx kz). Note that ⃗ where
-h is the Planck constant.
-∫ ( )(
-( )
-)
-∫
-( )
-There are several ways to work out the solution:
-A charge in an electric field will experience a force and hence a change in
-momentum. Note that potential energy of the electron (charge = ) is
-( ) Using impulse acting on the electron due to the electric field,
-(2 points)
-(2 points for final expression)
-The alternative solution is to write down the equations of motion for the
-electrons (2 points) and determine the deflection of the electron as it passes
-through the “biprism”:
-Since ,
-(2 points for final expression)Page 4 of 6
-(c) Before the point S, the electrons are emitted from a field emission tip and
-accelerated through a potential V0. Determine the wavelength of the electron in
-terms of the (rest) mass m, charge – and V0,
-(i) (2 points) assuming relativistic effects can be ignored.
-(ii) (3 points) taking relativistic effects into consideration.
-( ) ( )
-( ) ( )
-( ) ( )
-( )
-√ ( )
-( )
-Consider
-√
-√
-Equating the kinetic energy to eV0 (1 point)
-(1 point for final expression)Page 5 of 6
-(d) In Tonomura et al experiment,
-vz = c/2,
-Va = 10 V,
-V0 = 50 kV,
-a = 0.5 Pm,
-b = 5 mm,
-ℓ = 25 cm,
-L = 1.5 m,
-h = 6.6 x 10-34
-Js,
-electron charge, = 1.6 x 10-19
-C,
-mass of electron, m = 9.1 x 10-31
-kg,
-and the speed of light in vacuo, c = 3 x 108
-ms-1
-(i) (2 points) calculate the value of kx ,
-(ii) (2 points) determine the fringe separation of the interference pattern on
-the screen,
-(iii) (1 point) If the electron wave is a spherical wave instead of a plane wave, is
-the fringe spacing larger, the same or smaller than the fringe spacing
-calculated in (ii)?
-Previous equation:
-Plugging the relevant numbers into the equation gives:
-(1 point for plugging the correct values)
-(1 point for final expression)
-( )
-Fringe separation is given by
-Larger. (1 point for the correct answer)Page 6 of 6
-(iv) (2 points) In part (c), determine the percentage error in the wavelength of
-the electron using non-relativistic approximation.
-(v) (2 points) Calculate the distance d between the apparent double slits.
-( )
-( )
-The double slit formula is given by
-where m is the order and y is the distance for maximum intensity
-from the central fringe.
-In this case, since the fringe spacing is 907Å,
-√
-√
-√ ( )
-( )
-Non-relativistic:
-Relativistic:
-Percentage error:
-or 2.4 percent.
+the distance between the “biprism” and the screen is L.
+
+                                                                                   Page 1 of 6
+(a)   (2 points) Taking the center of the circular cross section of the filament as the
+      origin O, find the electric potential at any point (x,z) very near the filament in
+      terms of Va, a and b where Va is the electric potential of the surface of the
+      filament, a is the radius of the filament and b is the distance between the center of
+      the filament and the cylindrical wire mesh. (Ignore mirror charges.)
+
+
+       Writing out |E| =                     ( )
+
+                                                       (1 point)
+
+       Note that
+
+                                  ( )                  (= 0 at the mesh)
+
+       Also at the edge of the filament, Va = (          ) , so
+
+
+
+
+       Giving together
+                                             (     )
+                                ( )                    where       √
+                                             (     )
+
+
+       (1 point for final expression)
+
+
+
+
+                                                                              Page 2 of 6
+(b)   (4 points) An incoming electron plane wave with wave vector kz is deflected by
+      the “biprism” due to the x-component of the force exerted on the electron.
+      Determine kx the x-component of the wave vector due to the “biprism” in terms of
+      the electron charge, e, vz, Va, kz, a and b, where e and vz are the charge and the
+      z-component of the velocity of the electrons (kx       kz). Note that ⃗       where
+      h is the Planck constant.
+
+ There are several ways to work out the solution:
+       A charge in an electric field will experience a force and hence a change in
+       momentum. Note that potential energy of the electron (charge =        ) is
+             ( ) Using impulse acting on the electron due to the electric field,
+       (2 points)
+
+                                                         (       )
+                                  ∫ (        )(                      )
+
+                                    ∫
+                                         (           )
+
+
+
+
+                                                         (2 points for final expression)
+
+
+       The alternative solution is to write down the equations of motion for the
+       electrons (2 points) and determine the deflection of the electron as it passes
+       through the “biprism”:
+
+
+
+
+             Since                 ,
+
+
+
+
+                                                         (2 points for final expression)
+
+
+
+
+                                                                                Page 3 of 6
+(c)   Before the point S, the electrons are emitted from a field emission tip and
+      accelerated through a potential V0. Determine the wavelength of the electron in
+      terms of the (rest) mass m, charge – and V0,
+      (i) (2 points) assuming relativistic effects can be ignored.
+
+        Equating the kinetic energy to eV0 (1 point)
+
+                                         √
+
+
+                                         √
+        (1 point for final expression)
+
+
+      (ii)   (3 points) taking relativistic effects into consideration.
+
+        Consider
+
+                                     (       )   (       )
+
+                                     (       )   (       )
+
+                                     (                       )       (    )
+
+                                                     (               )
+
+
+                                     √               (               )
+
+
+        (                                                        )
+
+
+
+
+                                                                              Page 4 of 6
+(d)   In Tonomura et al experiment,
+                vz     = c/2,
+                Va     = 10 V,
+                V0     = 50 kV,
+                a      = 0.5 Pm,
+                b      = 5 mm,
+                ℓ      = 25 cm,
+                L      = 1.5 m,
+                h      = 6.6 x 10-34 Js,
+                electron charge,     = 1.6 x 10-19 C,
+                mass of electron, m = 9.1 x 10-31 kg,
+                and the speed of light in vacuo, c = 3 x 108 ms-1
+
+      (i)    (2 points) calculate the value of kx ,
+
+        Previous equation:
+
+
+
+
+        Plugging the relevant numbers into the equation gives:
+                                      (1 point for plugging the correct values)
+
+
+
+
+                                      (1 point for final expression)
+
+
+      (ii)   (2 points) determine the fringe separation of the interference pattern on
+             the screen,
+
+
+        Fringe separation is given by
+
+
+        (                                             )
+
+
+
+      (iii) (1 point) If the electron wave is a spherical wave instead of a plane wave, is
+            the fringe spacing larger, the same or smaller than the fringe spacing
+            calculated in (ii)?
+
+        Larger. (1 point for the correct answer)
+
+
+                                                                                  Page 5 of 6
+    (iv) (2 points) In part (c), determine the percentage error in the wavelength of
+         the electron using non-relativistic approximation.
+
+     Non-relativistic:
+
+                                 √
+
+
+                                 √
+
+     Relativistic:
+
+
+
+                                 √           (             )
+
+
+     Percentage error:
+
+
+
+
+                                  or 2.4 percent.
+
+
+(                                                                           )
+
+
+
+    (v)   (2 points) Calculate the distance d between the apparent double slits.
+
+     The double slit formula is given by
+                                     (      )
+
+
+     where m is the order and y is the distance for maximum intensity
+     from the central fringe.
+
+     In this case, since the fringe spacing is 907Å,
+
+
+
+
+     (                                       )
+
+
+
+
+                                                                           Page 6 of 6

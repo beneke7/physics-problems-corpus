@@ -5,698 +5,744 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/ipho/2008/E1_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [ipho-2008-e1]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2008/E1_S.pdf."
 ---
 
 39th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-Solution
-Task 1
+                                              Experimental Problem / Solution
+
+
+
+                                                  Solution
+
+                                                    Task 1
 1.
-1.1. 25±1 o
-0 T = C
-( ) samp 0 V T =573.9 mV
-With different experiment sets, may differ from the above value within ±40 mV. samp V
+
+     1.1.      T0 = 25±1 oC
+
+               Vsamp (T0 ) = 573.9 mV
+
+With different experiment sets, Vsamp may differ from the above value within ±40 mV.
+
 Note for error estimation:
-V δ V δ and are calculated using the specs of the multimeter: ±0.5% reading digit +2
+δ V and δ V are calculated using the specs of the multimeter: ±0.5% reading digit +2
 on the last digit. Example: if V = 500mV, the error δV = 500×0.5% + 0.2 = 2.7 mV ≈ 3
 mV.
-( ) 0 574 3 mV samp V T = ± Thus, .
-( ) 0 samp V T All values of within 505÷585 mV are acceptable.
-1.2. Formula for temperature calculation:
-samp samp 0 0 ( ) ( ) V V T T T α = − − From Eq (1):
-( ) o
-samp 50 C V = 523.9 mV
-( ) o
-samp 70 C V = 483.9 mV
-( ) o
-samp 80 C V = 463.9 mV
-( ) ( ) samp samp 0 0 V V T T T δ δ δ = + − α Error calculation:
-Example: = 495.2 mV , then samp V samp 2 7 0 03 50 25 3 45mV 3 5mV . . ( ) . . V δ = + × − = ≈
+
+Thus, Vsamp (T0 ) = 574 ± 3 mV .
+
+
+All values of Vsamp (T0 ) within 505÷585 mV are acceptable.
+
+     1.2. Formula for temperature calculation:
+
+From Eq (1): Vsamp = Vsamp (T0 ) − α (T − T0 )
+
+
+                (         )
+            Vsamp 50o C = 523.9 mV
+
+                (
+            Vsamp 70o C   ) = 483.9 mV
+                (         )
+            Vsamp 80o C = 463.9 mV
+
+Error calculation: δ Vsamp = δ Vsamp (T0 ) + (T − T0 ) δα
+
+Example: Vsamp = 495.2 mV , then                  δ Vsamp = 2.7 + 0.03 × (50 − 25) = 3.45 mV ≈ 3.5 mV
+
 Thus:
-( ) o
-samp 50 C V = 524±4 mV
-( ) o
-samp 70 C V = 484±4 mV
-139th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-( ) o
-samp 80 C V = 464±5 mV
-The same rule for acceptable range of as in 1.1 is applied. samp V
+
+                (         )
+            Vsamp 50o C = 524±4 mV
+
+                (
+            Vsamp 70o C   ) = 484±4 mV
+
+                                                                                                        1
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                           Experimental Problem / Solution
+
+
+
+                 (     )
+             Vsamp 80o C = 464±5 mV
+
+The same rule for acceptable range of Vsamp as in 1.1 is applied.
+
+
 2.
-2.1. Data of cooling-down process without sample:
-t (s) V ΔV (mV) (±0.2mV) (mV) (±3mV) samp
-0 492 -0.4
-10 493 -0.5
-20 493 -0.5
-30 494 -0.6
-40 495 -0.7
-50 496 -0.7
-60 497 -0.8
-70 497 -0.8
-80 498 -0.9
-90 499 -1.0
-100 500 -1.0
-110 500 -1.1
-120 501 -1.1
-130 502 -1.2
-140 503 -1.2
-150 503 -1.3
-160 504 -1.3
-170 504 -1.4
-180 505 -1.5
-190 506 -1.6
-200 507 -1.6
-210 507 -1.7
-220 508 -1.7
-230 508 -1.8
-240 509 -1.8
-250 509 -1.8
-260 510 -1.9
-270 511 -1.9
-239th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-280 512 -1.9
-290 512 -2.0
-300 513 -2.0
-310 514 -2.1
-320 515 -2.1
-330 515 -2.1
-340 516 -2.1
-350 516 -2.2
-360 517 -2.2
-370 518 -2.3
-380 518 -2.3
-390 519 -2.3
-400 520 -2.4
-410 520 -2.4
-420 521 -2.5
-430 521 -2.5
-440 522 -2.5
-450 523 -2.6
-460 523 -2.6
+     2.1. Data of cooling-down process without sample:
+
+
+     t (s)      Vsamp (mV) (±3mV)           ΔV (mV) (±0.2mV)
+      0                492                           -0.4
+     10                493                           -0.5
+     20                493                           -0.5
+     30                494                           -0.6
+     40                495                           -0.7
+     50                496                           -0.7
+     60                497                           -0.8
+     70                497                           -0.8
+     80                498                           -0.9
+     90                499                           -1.0
+     100               500                           -1.0
+     110               500                           -1.1
+     120               501                           -1.1
+     130               502                           -1.2
+     140               503                           -1.2
+     150               503                           -1.3
+     160               504                           -1.3
+     170               504                           -1.4
+     180               505                           -1.5
+     190               506                           -1.6
+     200               507                           -1.6
+     210               507                           -1.7
+     220               508                           -1.7
+     230               508                           -1.8
+     240               509                           -1.8
+     250               509                           -1.8
+     260               510                           -1.9
+     270               511                           -1.9
+
+
+                                                                                          2
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                         Experimental Problem / Solution
+
+
+     280                512                         -1.9
+     290                512                         -2.0
+     300                513                         -2.0
+     310                514                         -2.1
+     320                515                         -2.1
+     330                515                         -2.1
+     340                516                         -2.1
+     350                516                         -2.2
+     360                517                         -2.2
+     370                518                         -2.3
+     380                518                         -2.3
+     390                519                         -2.3
+     400                520                         -2.4
+     410                520                         -2.4
+     420                521                         -2.5
+     430                521                         -2.5
+     440                522                         -2.5
+     450                523                         -2.6
+     460                523                         -2.6
 The acceptable range of ΔV is ±40 mV. There is no fixed rule for the change in ΔV with
-(this depends on the positions of the dishes on the plate, etc.) T
-2.2.
-Graph 1
-490
-500
-510
-520
-530
-0 100 200 300 400 500
-t [s]
-V samp
-[mV]
-339th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-The correct graph should not have any abrupt changes of the slope.
-2.3.
-Graph 2
--3
--2
--1
-0
-490 500 510 520 530
-Vsamp
-[mV]
-Δ V[mV]
-The correct graph should not have any abrupt changes of the slope.
+T (this depends on the positions of the dishes on the plate, etc.)
+
+      2.2.
+                                                  Graph 1
+              530
+
+
+
+
+              520
+
+
+
+
+  Vsamp[mV]   510
+
+
+
+
+              500
+
+
+
+
+              490
+                    0      100              200              300             400        500
+
+                                                    t [s]
+                                                                                              3
+                            39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                            Experimental Problem / Solution
+
+
+     The correct graph should not have any abrupt changes of the slope.
+
+     2.3.
+                                                  Graph 2
+              0
+
+
+
+
+              -1
+
+
+
+
+     ΔV[mV]
+
+              -2
+
+
+
+
+              -3
+               490                500                  510                  520            530
+
+                                                   Vsamp[mV]
+
+     The correct graph should not have any abrupt changes of the slope.
+
 3.
-3.1. Dish with substance
-t (s) V ΔV (mV) (±0.2mV) (mV) (±3mV) samp
-0 492 -4.6
-10 493 -4.6
-20 493 -4.6
-30 494 -4.6
-40 495 -4.6
-50 496 -4.6
-60 497 -4.6
-70 497 -4.5
-80 498 -4.5
-90 499 -4.5
-100 500 -4.5
-110 500 -4.5
-120 501 -4.5
-439th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-130 502 -4.6
-140 503 -4.6
-150 503 -5.1
-160 503 -5.6
-170 503 -6.2
-180 503 -6.5
-190 504 -6.6
-200 505 -6.5
-210 506 -6.4
-220 507 -6.3
-230 507 -6.1
-240 508 -5.9
-250 509 -5.7
-260 510 -5.5
-270 511 -5.3
-280 512 -5.1
-290 512 -5.0
-300 513 -4.9
-310 514 -4.8
-320 515 -4.7
-330 515 -4.7
-340 516 -4.6
-350 516 -4.6
-360 517 -4.5
-370 518 -4.5
-380 518 -4.4
-390 519 -4.4
-400 520 -4.4
-410 520 -4.4
-420 521 -4.4
-430 521 -4.3
-440 522 -4.3
-450 523 -4.3
-460 523 -4.3
-539th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-3.2.
-Graph 3
-490
-500
-510
-520
-530
-0 100 200 300 400 500
-t [s]
-[mV] samp
-V
-The correct Graph 3 should contain a short plateau as marked by the arrow in the
+     3.1. Dish with substance
+     t (s)           Vsamp (mV) (±3mV)         ΔV (mV) (±0.2mV)
+       0                   492                          -4.6
+      10                   493                          -4.6
+      20                   493                          -4.6
+      30                   494                          -4.6
+      40                   495                          -4.6
+      50                   496                          -4.6
+      60                   497                          -4.6
+      70                   497                          -4.5
+      80                   498                          -4.5
+      90                   499                          -4.5
+     100                   500                          -4.5
+     110                   500                          -4.5
+     120                   501                          -4.5
+
+
+                                                                                                 4
+      39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                      Experimental Problem / Solution
+
+
+130   502                         -4.6
+140   503                         -4.6
+150   503                         -5.1
+160   503                         -5.6
+170   503                         -6.2
+180   503                         -6.5
+190   504                         -6.6
+200   505                         -6.5
+210   506                         -6.4
+220   507                         -6.3
+230   507                         -6.1
+240   508                         -5.9
+250   509                         -5.7
+260   510                         -5.5
+270   511                         -5.3
+280   512                         -5.1
+290   512                         -5.0
+300   513                         -4.9
+310   514                         -4.8
+320   515                         -4.7
+330   515                         -4.7
+340   516                         -4.6
+350   516                         -4.6
+360   517                         -4.5
+370   518                         -4.5
+380   518                         -4.4
+390   519                         -4.4
+400   520                         -4.4
+410   520                         -4.4
+420   521                         -4.4
+430   521                         -4.3
+440   522                         -4.3
+450   523                         -4.3
+460   523                         -4.3
+
+
+
+
+                                                                     5
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                        Experimental Problem / Solution
+
+
+        3.2.
+                                                Graph 3
+              530
+
+
+
+
+              520
+
+
+
+
+ Vsamp[mV]    510
+
+
+
+
+              500
+
+
+
+
+              490
+                    0    100              200               300              400        500
+
+                                                   t [s]
+
+
+   The correct Graph 3 should contain a short plateau as marked by the arrow in the
 above figure.
-3.3.
-Graph 4
--7
--6
--5
--4
-490 500 510 520 530
-Vsamp
-[mV]
-Δ V[mV]
-639th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-The correct Graph 4 should have an abrupt change in ΔV, as shown by the arrow in
+
+        3.3.
+                                                 Graph 4
+               -4
+
+
+
+
+               -5
+
+
+
+
+     ΔV[mV]
+
+               -6
+
+
+
+
+               -7
+                490            500                 510                 520             530
+
+                                                Vsamp[mV]
+
+
+                                                                                              6
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                        Experimental Problem / Solution
+
+
+    The correct Graph 4 should have an abrupt change in ΔV, as shown by the arrow in
 the above figure.
 Note: when the dish contains the substance, values of ΔV may change compared to those
 without the substance.
+
 4.
-4.1. is shown in Graph 3. Value = (503±3) mV. From that, = 60.5 o
-s V s V s T C can
+
+     4.1. Vs is shown in Graph 3. Value Vs = (503±3) mV. From that, Ts = 60.5 oC can
+
 be deduced.
-4.2. is shown in Graph 4. Value = (503±3) mV. From that, = 60.5 o
-s V s V s T C can
+
+     4.2. Vs is shown in Graph 4. Value Vs = (503±3) mV. From that, Ts = 60.5 oC can
+
 be deduced.
-4.3. Error calculations, using root mean square method:
-0
-0
-( ) ( ) s
-s
-V T V T
-T T T
-α 0 A
-−
-= + = + Error of : s T , in which A is an intermediate
+
+     4.3. Error calculations, using root mean square method:
+
+
+                                    V (T0 ) − V (Ts )
+     Error of    Ts :   Ts = T0 +                       = T0 + A , in which A is an intermediate
+                                              α
 variable.
-( ) ( )
-2
-0 = + s T T A δ δ δ
-2
-Therefore error of can be written as s T , in which d… is
+
+                                                                (δ T0 ) + (δ A) , in which d… is
+                                                                       2         2
+     Therefore error of Ts can be written as δ Ts =
+
 the error.
-Error for A is calculated separately:
-[ ]
-2 2
-0 0
-0
-( ) ( ) ( ) ( )
-( ) ( )
-s s
-s
-V T V T V T V T
-A
-V T V T
-δ δα
-δ
-α α
-⎧ ⎫ − − ⎪ ⎪ ⎛ ⎞
-= + ⎨ ⎬ ⎜ ⎟
-− ⎝ ⎠ ⎪ ⎪ ⎩ ⎭
+    Error for A is calculated separately:
+
+    V (T0 ) − V (Ts ) ⎧⎪ δ [V (T0 ) − V (Ts )] ⎫⎪ ⎛ δα ⎞
+                                                    2    2
+
+δA=                    ⎨                        ⎬ +⎜   ⎟
+           α           ⎪⎩ V (T0 ) − V (Ts ) ⎪⎭ ⎝ α ⎠
 in which we have:
-[ ] [ ] [ ]
-2 2
-0 0 ( ) ( ) ( ) ( ) s s V T V T V T V T δ δ − = + δ
-Errors of other variables in this experiment:
-dT =1o
-C 0
-( ) 0 V T δ = 3 mV, read on the multimeter.
-da = 0.03 mV/o
-C
-dV(Ts)ª 3 mV
+
+     δ [V (T0 ) − V (Ts )] =   [δ V (T0 )] + [δ V (Ts )]
+                                          2               2
+
+
+
+     Errors of other variables in this experiment:
+        dT0=1oC
+
+         δ V (T0 ) = 3 mV, read on the multimeter.
+
+       da = 0.03 mV/oC
+       dV(Ts)ª 3 mV
 From the above constituent errors we have:
-[ ] 0 4 24 ( ) ( ) . s V T V T mV δ − ≈
-739th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-2.1 C A δ ≈ °
-Finally, the error of is: 2 5 C . s T δ ≈ ° s T
-Hence, the final result is: =60±2.5 o
-s T C
+
+     δ [V (T0 ) − V (Ts )] ≈ 4.24 mV
+
+
+
+                                                                                              7
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                        Experimental Problem / Solution
+
+
+    δ A ≈ 2.1°C
+Finally, the error of    Ts is: δ Ts ≈ 2.5°C
+
+Hence, the final result is: Ts =60±2.5 oC
+
+
 Note: if the student uses any other reasonable error calculation method that leads to
 approximately the same result, it is also accepted.
-839th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-Task 2
+
+
+
+
+                                                                                       8
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                        Experimental Problem / Solution
+
+
+
+                                               Task 2
 1.
-1.1. ±1 C 0 26 T = o
+
+     1.1. T0 = 26 ±1oC
+
 2.
-2.1. Measured data with the lamp off
-t (s) ΔV(T ) (mV) (±0.2mV) 0
-0 19.0
-10 19.0
-20 19.0
-30 19.0
-40 19.0
-50 18.9
-60 18.9
-70 18.9
-80 18.9
-90 18.9
-100 19.0
-110 19.0
-120 19.0
-Values of ΔV(T0) can be different from one experiment set to another. The acceptable
+     2.1. Measured data with the lamp off
+ t (s)         ΔV(T0) (mV) (±0.2mV)
+          0                             19.0
+         10                             19.0
+         20                             19.0
+         30                             19.0
+         40                             19.0
+         50                             18.9
+         60                             18.9
+         70                             18.9
+         80                             18.9
+         90                             18.9
+         100                            19.0
+         110                            19.0
+         120                            19.0
+
+
+    Values of ΔV(T0) can be different from one experiment set to another. The acceptable
 values lie in between -40÷+40 mV.
-2.2. Measured data with the lamp on
-t (s) ΔV (mV) (±0.2mV)
-0 19.5
-10 21.9
-20 23.8
-30 25.5
-40 26.9
-50 28.0
-60 29.0
-70 29.9
-80 30.7
-90 31.4
-939th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-100 32.0
-110 32.4
-120 32.9
-When illuminated (by the lamp) values of ΔV may change 10 ÷ 20 mV compared to
+
+     2.2. Measured data with the lamp on
+ t (s)         ΔV (mV) (±0.2mV)
+          0                      19.5
+         10                      21.9
+         20                      23.8
+         30                      25.5
+         40                      26.9
+         50                      28.0
+         60                      29.0
+         70                      29.9
+         80                      30.7
+         90                      31.4
+
+
+                                                                                      9
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                        Experimental Problem / Solution
+
+
+         100                     32.0
+         110                     32.4
+         120                     32.9
+
+
+    When illuminated (by the lamp) values of ΔV may change 10 ÷ 20 mV compared to
 the initial situation (lamp off).
+
 2.3. Measured data after turning the lamp off
-t (s) ΔV (mV) (±0.2mV)
-0 23.2
-10 22.4
-20 21.6
-30 21.0
-40 20.5
-50 20.1
-60 19.6
-70 19.3
-80 18.9
-90 18.6
-100 18.4
-110 18.2
-120 17.9
+
+
+ t (s)         ΔV (mV) (±0.2mV)
+          0                      23.2
+         10                      22.4
+         20                      21.6
+         30                      21.0
+         40                      20.5
+         50                      20.1
+         60                      19.6
+         70                      19.3
+         80                      18.9
+         90                      18.6
+         100                     18.4
+         110                     18.2
+         120                     17.9
+
+
 3. Plotting graph 5 and calculating k
-( ) ( ) 0 ln y V T V ⎡ ⎤ = Δ −Δ ⎣ ⎦ 3.1. x t = t ;
+
+    3.1. x = t ; y = ln ⎡⎣ ΔV (T0 ) − ΔV ( t ) ⎤⎦
+
 Note: other reasonable ways of writing expressions for x and y that also leads to a linear
 relationship using ln are also accepted.
-3.2. Graph 5
-1039th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-11
-0
-4
-8
-12
-0 0.15 0.30 0.45 0.60 0.75
-y = +19.7x, r
-2
-=0.994
-1-exp(-k*t/C)
-Graph 6
-0
-4
-8
-12
-0 0.15 0.30 0.45 0.60 0.75
-y = +19.7x, r
-2
-=0.994
-1-exp(-k*t/C)
-Graph 6
-ΔV(T 0 )-ΔV(t)]
-0
-4
-8
-12
-0 0.15 0.30 0.45 0.60 0.75
-y = +19.7x, r
-2
-=0.994
-1-exp(-k*t/C)
-Graph 6
-0
-4
-8
-12
-0 0.15 0.30 0.45 0.60 0.75
-y = +19.7x, r
-2
-=0.994
-1-exp(-k*t/C)
-Graph 6
-ΔV(T 0 )-ΔV(t)]
-0.6
-1.0
-1.4
-1.8
-2.2
-0 30 60 90 120
-y = -0.0109x +1.95, max dev:0.0335, r
-2
-=0.998
-t (s)
-0.6
-1.0
-1.4
-1.8
-2.2
-0 30 60 90 120
-y = -0.0109x +1.95, max dev:0.0335, r
-2
-=0.998
-t (s)
-ln[ΔV(T 0 )-ΔV(t)]
-Graph 5
-0.6
-1.0
-1.4
-1.8
-2.2
-0 30 60 90 120
-y = -0.0109x +1.95, max dev:0.0335, r
-2
-=0.998
-t (s)
-0.6
-1.0
-1.4
-1.8
-2.2
-0 30 60 90 120
-y = -0.0109x +1.95, max dev:0.0335, r
-2
-=0.998
-t (s)
-ln[ΔV(T 0 )-ΔV(t)]
-Graph 5
-3.3. Calculating k:
-k
-C
-Note: Error of lated in 5.5. Students are not asked to give error of
-= 0.0109 s-1
-and C = 0.69 J/K, thus: k = 7.52×10-3
-W/K
-k will be calcu k in this
-. Plotting Graph 6 and calculating E
-4.1.
-step. The acceptable value of k lies in between 6×10-3
-÷ 9×10-3
-W/K depending on the
+
+    3.2. Graph 5
+
+
+
+
+                                                                                       10
+                                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                                          Experimental Problem / Solution
+
+
+
+                                                                 Graph 5
+                             2.2                                                     2
+                                      y = -0.0109x +1.95, max dev:0.0335, r =0.998
+
+
+                             1.8
+
+
+
+          ln[ΔV(T0)-ΔV(t)]   1.4
+
+
+
+                             1.0
+
+
+
+                             0.6
+                                0                    30               60                 90             120
+                                                                     t (s)
+                        k
+   3.3. Calculating k:     = 0.0109 s-1 and C = 0.69 J/K, thus: k = 7.52×10-3 W/K
+                        C
+Note: Error of k will be calculated in 5.5. Students are not asked to give error of k in this
+step. The acceptable value of k lies in between 6×10-3 ÷ 9×10-3 W/K depending on the
 experiment set.
-4
-1 exp
-kt − ⎡ ⎤ ⎛ ⎞
-x
-C
-= − ⎜ ⎟ ⎢ ⎥
-⎝ ⎠ ⎣ ⎦
-; ( ) ( ) 0 y V T V t = Δ −Δ
-4.2.
-Graph 6 should39th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-12
+
+
+4. Plotting Graph 6 and calculating E
+
+                        ⎡        ⎛ − kt ⎞ ⎤
+   4.1.             x = ⎢1 − exp ⎜      ⎟ ⎥ ; y = ΔV (T0 ) − ΔV ( t )
+                        ⎣        ⎝  C   ⎠⎦
+   4.2.
+                                                                    Graph 6
+                             12                      2
+                                      y = +19.7x, r =0.994
+
+
+
+
+          ΔV(T0)-ΔV(t)]
+                              8
+
+
+
+
+                              4
+
+
+
+   Graph                                                                                                      6 should
+                              0
+                                  0           0.15           0.30             0.45            0.60      0.75
+                                                               1-exp(-k*t/C)
+                                                                                                                    11
+                      39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                      Experimental Problem / Solution
+
+
 be substantially linear, with the slope in between 15÷25 mV, depending on the
 experiment set.
-4.3. From the slope of Graph 6 and the area of the detector orifice we obtain
-E = 140 W/m2
-. The area of the detector orifice is
-4 2
-with error: det
-det
-5%
-R
-R
-δ
-= 2 3 2
-det det 13 10 5 30 10 m S R π π − −
-= = × × = × ( ) .
-Error of E will be calculated in 5.5. Students are not asked to give error of E in this
-step. The acceptable value of E lies in between 120 ÷ 160 W/m2
-, depending on the
+
+     4.3. From the slope of Graph 6 and the area of the detector orifice we obtain
+E       =     140     W/m2.        The       area      of      the      detector      orifice   is
+
+                                                                          δ Rdet
+Sdet = π Rdet 2 = π × (13 × 10−3 )2 = 5.30 × 10−4 m 2 with error:                  = 5%
+                                                                           Rdet
+
+    Error of E will be calculated in 5.5. Students are not asked to give error of E in this
+step. The acceptable value of E lies in between 120 ÷ 160 W/m2, depending on the
 experiment set.
+
 5.
-5.1. Circuit diagram:
-mA
-mV
-Solar cell
-5.2. Measurements of V and I
-V (mV) (±0.3÷3mV) I (mA) (±0.05÷0.1mA) P (mW)
-18.6 ±0.3 11.7 0.21
-33.5 11.7 0.39
-150 11.5 1.72
-157 11.6 1.82
-182 ±1 11.4 2.08
-2 7 11.2 3.00 6
-40 2 9.23 3.70 2 ±
-448 6.70 3.02
-459 5.91 2.74
-468 5.07 2.37
-473 ±3 4.63 2.20
-480 3.81 1.86
-485 3.24 1.5739th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-13
-0
-1
-2
-3
-4
-2.5 5.0 7.5 10.0 12.5
-I [mA]
-W]
-487 3.12 1.54
-489 3.13 1.55
-P [m
-5.3.
-Graph 7
-5.4. Pmax = 3.7±0.2 m
-e acceptable valu max lies in between 3÷4.5 ent
-s
-xpression for t ciency
-2
-19 24mm 10 m −
-= × ×
-Then
-W
-e of P Th mW, depending on the experim
-et.
-5.5. E he effi
-2 6
-S 450 = cell
-max
-max
-cell
-0 058
-P
-E S
-η = =
-×
-.
-lculation: Error ca
-2 2 2
-max cell
-⎛ ⎞
-max max
-max cell
-P S E
-P E S
-δ δ δ
-δη η
-⎛ ⎞ ⎛ ⎞
-= + + ⎜ ⎟ ⎜ ⎟ ⎜ ⎟
-⎝ ⎠ ⎝ ⎠ ⎝ ⎠
-, in which Scell is the area of the
+     5.1. Circuit diagram:
+
+
+
+ Solar cell                                    mA
+                              mV
+
+
+
+
+     5.2. Measurements of V and I
+ V (mV) (±0.3÷3mV)       I (mA) (±0.05÷0.1mA)                P (mW)
+ 18.6 ±0.3               11.7                                0.21
+ 33.5                    11.7                                0.39
+ 150                     11.5                                1.72
+ 157                     11.6                                1.82
+ 182 ±1                  11.4                                2.08
+ 267                     11.2                                3.00
+ 402 ±2                  9.23                                3.70
+ 448                     6.70                                3.02
+ 459                     5.91                                2.74
+ 468                     5.07                                2.37
+ 473 ±3                  4.63                                2.20
+ 480                     3.81                                1.86
+ 485                     3.24                                1.57
+
+
+                                                                                                12
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                           Experimental Problem / Solution
+
+
+ 487                          3.12                                1.54
+ 489                          3.13                                1.55
+
+
+       5.3.
+                                                   Graph 7
+
+            4
+
+
+
+
+            3
+
+
+
+
+   P [mW]
+            2
+
+
+
+
+            1
+
+
+
+
+            0
+             2.5                5.0                  7.5                 10.0             12.5
+
+                                                   I [mA]
+       5.4. Pmax = 3.7±0.2 mW
+       The acceptable value of Pmax lies in between 3÷4.5 mW, depending on the experiment
+set.
+       5.5. Expression for the efficiency
+
+       Scell = 19 × 24 mm 2 = 450 × 10−6 m 2
+
+                         Pmax
+       Then η max =               = 0.058
+                        E × Scell
+
+       Error calculation:
+                                      2        2              2
+                         ⎛ δ Pmax ⎞ ⎛ δ E ⎞ ⎛ δ Scell ⎞
+       δηmax = ηmax      ⎜        ⎟ +⎜    ⎟ +⎜        ⎟ , in which Scell is the area of the
+                         ⎝ max ⎠
+                            P        ⎝ E  ⎠  ⎝ cell ⎠
+                                               S
 solar cell.
-max
-max
-P
-P
-δ
-is estimated from Graph 7, typical value ª 6 %39th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-cell
-cell
-S
-S
-δ
-: error from the millimeter measurement (with the ruler), typical value ª %
-E is calculated from averaging the ratio (using Graph 6):
-5
-2
-0 d
-1
-V T V t E R
-B
-k k
-t
-C
-et π α Δ −Δ
-= =
-⎛ ⎞
-− − ⎜ ⎟
-⎝ ⎠
-( ) ( )
-exp
+
+
+       δ Pmax
+                   is estimated from Graph 7, typical value ª 6 %
+        Pmax
+
+
+                                                                                                 13
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                            Experimental Problem / Solution
+
+
+
+    δ Scell
+              : error from the millimeter measurement (with the ruler), typical value ª 5 %
+     Scell
+
+   E is calculated from averaging the ratio (using Graph 6):
+
+       ΔV (T0 ) − ΔV (t ) Eπ Rdet 2α
+    B=                   =
+               ⎛ k ⎞         k
+       1 − exp ⎜ − t ⎟
+               ⎝ C ⎠
 in which B is an intermediate variable, Rdet is the radius of the detector orifice.
-2
-kB
-E
-R π α
-=
-det
+
+            kB
+    E=
+         π Rdet 2α
+
 Calculation of error of E:
-2 2 2
-4
-R E k B
-2
-R
-δ δ
-E k B
-δ δ δα
-α
-⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞
-= + + + ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟
-⎠ ⎝ ⎠ ⎝ ⎠
-det
-det
-is
-⎝ ⎠ ⎝ ⎠ ⎝
-k calculated from the regression of:
-0
-⎛ ⎞
-Δ = Δ − ⎜ ⎟
-⎝ ⎠
-( )exp
-k
-T T t
-C
-, hence 0 Δ = Δ − ln ln ( )
-k
-T T
-C
-t
-set then
+                         2              2              2           2
+    ⎛δE ⎞   ⎛δk ⎞ ⎛δB ⎞     ⎛ δ Rdet ⎞ ⎛ δα ⎞
+    ⎜   ⎟ = ⎜ ⎟ ⎜+    ⎟ + 4 ⎜        ⎟ +⎜   ⎟
+    ⎝ E ⎠   ⎝ k ⎠ ⎝ B ⎠     ⎝ Rdet ⎠ ⎝ α ⎠
+k is calculated from the regression of:
+
+                   ⎛ k ⎞                              k
+    ΔT = ΔT (0)exp ⎜ − t ⎟ , hence ln ΔT = ln ΔT (0) − t
+                   ⎝ C ⎠                              C
+
+We set k / C = m then k = mC
 From the regression, we can calculate the error of m:
-= / k C m = k mC We
-2 1 0 2
-m
-r
-m
-δ
-≈ − ≈ ( ) . %
-2 2
-k m C
-k m C
-δ δ δ ⎛ ⎞ ⎛ ⎞
-= + ⎜ ⎟ ⎜ ⎟
-⎝ ⎠ ⎝ ⎠
+    δm
+         ≈ 2(1 − r ) ≈ 0.2%
+     m
+                     2              2
+    δk   ⎛ δm ⎞ ⎛ δC ⎞
+       = ⎜    ⎟ +⎜   ⎟
+     k   ⎝ m ⎠ ⎝ C ⎠
 We derive the expression for the error of ηmax:
-2 2 2 2 2 2
-max cell
-max max
-max cell
-4
-P S R B m C
-P S B R m C
-δ δ δ
-2
-δ δ δ δα
-δη η
-α
-⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞ ⎛ ⎞
-= + + + + + + ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟ ⎜ ⎟
-⎝ ⎠ ⎝ ⎠ ⎝ ⎠ ⎝ ⎠ ⎝ ⎠ ⎝ ⎠ ⎝ ⎠
-det
-det
-Typical values for max η and other constituent errors:
-0 058 max . η ≈
-5 = max
-max P
-%
-P δ
-; 0 6
-B
-B
-δ
-≈ . % ; 0 2
-m
-m
-δ
-≈ . % ; cell
-cell
-5%
-S
-S δ
-5 ≈ det
-det
-%
-R
-R
-δ
-≈ ; ;
-1439th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-3 ≈ %
-C
-C
-δ
-; 3%
-k
-k
-δ
-≈ 10 5 . %
-E
-E
-δ
-≈ 1 5
-δα
-α
-≈ . % ; ;
+                              2              2         2                  2          2            2        2
+                 ⎛ δ Pmax ⎞ ⎛ δ Scell ⎞ ⎛ δ B ⎞     ⎛ δ R ⎞ ⎛ δ m ⎞ ⎛ δ C ⎞ ⎛ δα ⎞
+δηmax = η max    ⎜        ⎟ +⎜        ⎟ +⎜    ⎟ + 4 ⎜ det ⎟ + ⎜   ⎟ +⎜    ⎟ +⎜   ⎟
+                 ⎝ Pmax ⎠ ⎝ Scell ⎠ ⎝ B ⎠           ⎝ Rdet ⎠ ⎝ m ⎠ ⎝ C ⎠ ⎝ α ⎠
+
+Typical values for η max and other constituent errors:
+   ηmax ≈ 0.058
+
+    δ Pmax                   δB                  δm                    δ Scell            δ Rdet
+              = 5% ;              ≈ 0 . 6% ;          ≈ 0 .2 % ;                 ≈ 5% ;               ≈ 5% ;
+     Pmax                    B                   m                      Scell              Rdet
+
+
+
+                                                                                                          14
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                                         Experimental Problem / Solution
+
+
+      δC            δk            δE                 δα
+           ≈ 3% ;        ≈ 3% ;        ≈ 10.5% ;        ≈ 1. 5%
+       C            k              E                 α
 Finally:
-δ max
-12.7%
-max
-η
-η
-= ; 0 0074 max . δη ≈
+
+      δηmax
+            = 12.7% ; δηmax ≈ 0.0074
+      ηmax
+
 and
-( ) 5 8 0 8 max % . . η = ±
-ote: if the student uses any other reasonable error me od that leads to approximately
+
+      ηmax = ( 5.8 ± 0.8 ) %
+
+
+Note: if the student uses any other reasonable error method that leads to approximately
 the same result, it is also accepted.
-N th
-1539th International Physics Olympiad - Hanoi - Vietnam - 2008
-Experimental Problem / Solution
-16
+
+
+
+
+                                                                                        15
+39th International Physics Olympiad - Hanoi - Vietnam - 2008
+                Experimental Problem / Solution
+
+
+
+
+                                                               16

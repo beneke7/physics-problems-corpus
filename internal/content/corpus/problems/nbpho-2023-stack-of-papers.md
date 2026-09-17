@@ -15,8 +15,9 @@ has_figure: false
 figure_files: []
 provenance_note: "NBPhO 2023, Problem 7, by Taavet Kalda and Jaan Kalda. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **7. A stack of papers (8 points)** — *Taavet Kalda and Jaan Kalda.*

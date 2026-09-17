@@ -14,12 +14,13 @@ format: scaffolded
 core_ideas: []
 estimated_time_min: 25
 points: null
-has_solution: false
+has_solution: true
 has_figure: true
 figure_files: [inpho-2011-a6-fig01.png]
 provenance_note: "phoXiv Mathpix Markdown: cache/phoxiv/inpho/2011.mmd; figures require local harvest"
 verification_status: pending
 
+solution_language: en
 ---
 
 6. Two blocks, say $B$ and $C$, each of mass $m$ are connected by a light spring of force constant $k$ and natural length $L$. The whole system is resting on a frictionless table such that $x_{B}=0$ and $x_{C}=L$, where $x_{B}$ and $x_{C}$ are the coordinates of the blocks $B$ and $C$ respectively. Another block (named $A$ ) of mass $M$, which is travelling at speed $V_{0}$ collides head-on with the block $B$ at an instant $t=0$ (see Fig. (3)).

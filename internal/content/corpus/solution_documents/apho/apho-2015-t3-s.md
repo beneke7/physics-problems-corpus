@@ -5,804 +5,544 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2015/T3_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2015-t3]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2015/T3_S.pdf."
 ---
 
 Solution for Question 3
-Page 1 of 10
-Figure 1 shows a Fabry-Perot (F-P) etalon, in which air pressure is tunable. The F-P etalon
+
+
+     Figure 1 shows a Fabry-Perot (F-P) etalon, in which air pressure is tunable. The F-P etalon
 consists of two glass plates with high-reflectivity inner surfaces. The two plates form a cavity in
 which light can be reflected back and forth. The outer surfaces of the plates are generally not
 parallel to the inner ones and do not affect the back-and-forth reflection. The air density in the
 etalon can be controlled. Light from a Sodium lamp is collimated by the lens L1 and then passes
-through the F-P etalon. The transmitivity of the etalon is given by
-) 2 / ( sin 1
-1
-2
-G F
-T
-
-, where
-2
-1
-4
-R
-R
-F
-
-, R is the reflectivity of the inner surfaces,
-O
-T S
-G
-cos 4 nt
-is the phase shift of two
+
+through the F-P etalon. The transmitivity of the etalon is given by T                      1           , where
+                                                                                   1  F sin 2 (G / 2)
+
+      4 R , R is the reflectivity of the inner surfaces,             4Snt cosT
+F                                                        G                            is the phase shift of two
+     1 R
+          2
+                                                                           O
+
 neighboring rays, n is the refractive index of the gas, t is the spacing of inner surfaces, T is the
 incident angle, and O is the light wavelength.
-T
-N
-S
-B
-t
-n
-L1
-L2
-F1 F-P Etalon Na Lamp
-Microscope
-Gas in
-to vacuum pump
-Pin valve
-Fringes
-Figure 1
-The Sodium lamp emits D1 ( nm 6 . 589 O ) and D2 (589nm) spectral lines and is located
+
+                                                           Gas in
+                                             Pin valve
+
+                                                                    t o vacuum pump
+
+
+                                                   n
+                                                                                           Microscope
+
+
+               N
+
+           B
+
+               S
+                                                                                 Fringes
+                                                       T
+                                                                      L2
+                                                   t
+
+            Na Lamp         L1     F1         F-P Etalon
+
+
+                                               Figure 1
+
+     The Sodium lamp emits D1 ( O 589.6nm ) and D2 ( 589nm ) spectral lines and is located
 in a tunable uniform magnetic field. For simplicity, an optical filter F1 is assumed to only allow
 the D1 line to pass through. The D1 line is then collimated to the F-P etalon by the lens L1.
 Circular interference fringes will be present on the focal plane of the lens L2 with a focal length
 f=30cm. Different fringes have the different incident angle T . A microscope is used to observe
 the fringes. We take the reflectivity R= 90% and the inner-surface spacing t=1cm.
-Some useful constants : s J h  u 34
-10 626 . 6 , C e 19
-10 6 . 1 
-u , kg me
-31
-10 1 . 9 
-u , 1 8
-10 0 . 3 
-u ms c .Solution for Question 3
-Page 2 of 10
-（a） （3points） The D1 line ( nm 6 . 589 O ) is collimated to the F-P etalon. For the vacuum
-case (n=1.0), please calculate (i) interference orders i m , (ii) incidence angle i T and (iii)
-diameter i D for the first three （i=1， 2， 3） fringes from the center of the ring patterns on the focal
+
+Some useful constants : h   6.626 u 1034 J  s , e 1.6 u 1019 C , me     9.1 u 10 31 kg , c   3.0 u 108 ms 1 .
+
+
+
+
+                                                                                                        Page 1 of 10
+                                                Solution for Question 3
+（a） （3points） The D1 line ( O                    589.6nm ) is collimated to the F-P etalon. For the vacuum
+
+case (n=1.0), please calculate (i) interference orders mi , (ii) incidence angle T i and (iii)
+
+diameter Di for the first three（i=1，2，3）fringes from the center of the ring patterns on the focal
+
 plane.
-Solution：
-The transmittivity of the F-P etalon is given by：
-2
-sin 1
-1
-2 G
-F
-T
-
-For bright fringes, we have
-1 T i.e. 0
-2
-sin2 G
-S
-G
-m
-2
-O T m ntcos 2
-For n=1.0，t=1cm， nm 6 . 589 O ，thus:
-3 . 33921 2
-cos i i
-i
-m
-nt
-m
-O
-T (a1)（1 point if Eqs. (a2-a3) are not correct.）
-Because of 1 cos d T ，so the orders of the first three fringes are:
-1 2 3 33921, 33920, 33919 m m m (a2)（1 point）
-The incident angles of the first three fringes are：
-0 0 0
-1 2 3 0.241 , 0.502 , 0.667 T T T (a3)（1 point）
-The fringe diameter is given by：
-i i i f f D T T 2 tan 2 | (a4)（0.5 point if Eq(a5) is not correct.）
-For the focal length f=30cm，thus:
-mm D mm D mm D 99 . 6 , 26 . 5 , 52 . 2 3 2 1 (a5)（1 point）Solution for Question 3
-Page 3 of 10
-（b） （3 points）As shown in Fig. 2, the width H of the spectral line is defined as the full width
+
+   Solution：
+   The transmittivity of the F-P etalon is given by：
+                                1
+                     T
+                                        G
+                          1  F sin 2
+                                        2
+   For bright fringes, we have
+                                            G
+                     T    1 i.e. sin 2          0
+                                            2
+                     G
+                          mS
+                     2
+                     2nt cosT
+                      mO
+   For n=1.0，t=1cm， O 589.6nm ，thus:
+
+                     mi          mi
+     cos T i                                                  (a1)（1 point if Eqs. (a2-a3) are not correct.）
+                    2nt O      33921.3
+   Because of cosT d 1 ，so the orders of the first three fringes are:
+
+               m1    33921, m2          33920, m3     33919          (a2)（1 point）
+
+   The incident angles of the first three fringes are：
+
+                         T1 0.2410 ,T 2         0.5020 ,T3    0.6670      (a3)（1 point）
+
+   The fringe diameter is given by：
+
+                         Di    2 f tan T i | 2 fT i                (a4)（0.5 point if Eq(a5) is not correct.）
+
+   For the focal length f=30cm，thus:
+
+                          D1    2.52mm, D2          5.26mm, D3       6.99mm (a5)（1 point）
+
+
+
+
+                                                                                                Page 2 of 10
+                                             Solution for Question 3
+（b）（3 points） As shown in Fig. 2, the width H of the spectral line is defined as the full width
 of half maximum (FWHM) of light transmitivity T regarding the phase shift G . The resolution of
-the F-P etalon is defined as follows: for two wavelengths O and O O '  , when the central
-phase difference G ' of both spectral lines is larger than H , they are thought to be resolvable;
-then the etalon resolution is / O O ' when G H ' . For the vacuum case, the D1 line
-( nm 6 . 589 O ), and because of the incident angle 0 | T , take 0 . 1 cos | T , please calculate：
+the F-P etalon is defined as follows: for two wavelengths O and O  'O , when the central
+phase difference 'G of both spectral lines is larger than H , they are thought to be resolvable;
+then the etalon resolution is O / 'O when 'G H . For the vacuum case, the D1 line
+( O 589.6nm ), and because of the incident angle T | 0 , take cosT | 1.0 , please calculate：
 （i）the width H of the spectral line.
-（ii）the resolution O O ' of the etalon.
-H
-G
-T
-1
-0.5
-O O+'O
-2mS
-Figure 2
-Solution：
-The half maximum occurs at：
-2
-2
-H
-S G r m (b1)（0.2 point if Eq.(b3) is wrong.）
-Given that 5 . 0 T ，thus：
-1
-2
-sin2 G
-F (b2)（0.2 point if Eq.(b3) is wrong.）
-e) 12.03degre (or rad 21 . 0
-9 . 0
-) 9 . 0 1 ( 2 ) 1 ( 2 4  
-R
-R
-F
-H (b3)（1 point）
-The phase shift G is given by:
-O
-T S
-G
-cos 4 nt
-For a small O ' , thus：
-O
-O
-T S
-G '  ' 2
-cos 4 nt
-（b4） (1 point if Eq. (b5) is wrong.）
-For H G ' and 589.6nm O ，we get：
-6
-9
-2
-10 01 . 1
-10 6 . 589
-0 . 1 360 10 0 . 1 0 . 1 14 . 3 cos
-u
-u
-u u u u u
-' 
-
-O
-T S
-O
-O F nt
-(b5) (2 points）
-（1.5 point if the final value of Eq. (b5) is wrong.）Solution for Question 3
-Page 4 of 10
-（c） （1 point）As shown in Fig. 1, the initial air pressure is zero. By slowly tuning the pin valve,
+
+（ii）the resolution O 'O of the etalon.
+
+                               T
+
+
+                                                    O       O+'O
+                          1
+
+
+
+
+                                                        H
+                         0.5
+
+
+
+
+                                                                                 G
+                                                    2mS
+
+                                                        Figure 2
+
+
+   Solution：
+   The half maximum occurs at：
+                                   H
+               G     2mS r             (b1)（0.2 point if Eq.(b3) is wrong.）
+                                   2
+   Given that T        0.5 ，thus：
+                           G
+                   F sin 2   1 (b2)（0.2 point if Eq.(b3) is wrong.）
+                           2
+           4       2(1  R)            2(1  0.9)
+    H                                                   0.21 rad (or 12.03degree) (b3)（1 point）
+           F           R                   0 .9
+   The phase shift G is given by:
+                         4Snt cosT
+                G
+                               O
+   For a small 'O , thus：
+                               4Snt cosT
+                    'G       'O （b4） (1 point if Eq. (b5) is wrong.）
+                        O2
+   For 'G      H and O 589.6nm ，we get：
+    O      Snt F cosT              3.14 u 1.0 u 1.0 u 10 2 u 360 u 1.0
+                                                                          1.01u106 (b5) (2 points）
+    'O         O                               589.6 u 10 9
+        （1.5 point if the final value of Eq. (b5) is wrong.）                               Page 3 of 10
+                                       Solution for Question 3
+（c）（1 point） As shown in Fig. 1, the initial air pressure is zero. By slowly tuning the pin valve,
 air is gradually injected into the F-P etalon and finally the air pressure reaches the standard
 atmospheric pressure. On the same time, ten new fringes are observed to produce from the center
 of the ring patterns on the focal plane. Based on this phenomenon, calculate the refractive index of
-air air n at the standard atmospheric pressure.
-Solution：
-From Question (a), we know that the order of the 1st fringe near the center of ring patterns is m=33921
-at the vacuum case (n=1.0). When the air pressure reaches the standard atmospheric pressure, the order
-of the 1st fringe becomes m+10, so we have:
-10 33931
-1.00029
-2 33921
-air
-m
-n
-t O
-
-. (c1)（1 point）
-（0.2 point for appearing the term of (m+10) when the final value of Eq.(c1) is wrong.
-Or
-0.8 point for the correct final expression (including other correct forms) without the correct
-value.）Solution for Question 3
-Page 5 of 10
+
+air nair at the standard atmospheric pressure.
+
+
+   Solution：
+   From Question (a), we know that the order of the 1st fringe near the center of ring patterns is m=33921
+   at the vacuum case (n=1.0). When the air pressure reaches the standard atmospheric pressure, the order
+   of the 1st fringe becomes m+10, so we have:
+
+           m  10    33931
+    nair                   1.00029 . (c1)（1 point）
+           2t O      33921
+   （0.2 point for appearing the term of (m+10) when the final value of Eq.(c1) is wrong.
+     Or
+     0.8 point for the correct final expression (including other correct forms) without the correct
+   value.）
+
+
+
+
+                                                                                        Page 4 of 10
+                                                 Solution for Question 3
 （d） (2 points) Energy levels splitting of Sodium atoms occurs when they are placed in a
-magnetic field. This is called as the Zeeman effect. The energy shift given by B g m E B k j P ' ，
-where the quantum number mj can be J， J-1， …， -J+1， -J， J is the total angular quantum number,
-gk is the Landé factor,
-e
-B
-m
-he
-S
-P
-4
-is Bohr magneton，h is the Plank constant，e is the electron
-charge， e m is the electron mass, B is the magnetic field.As shown in Fig. 3, the D1 spectral line is
-emitted when Sodium atoms jump from the energy level 2
-P1/2 down to 2
-S1/2. We have
-1
-2
-J for
-both 2
-P1/2 and 2
-S1/2 . Therefore, in the magnetic field, each energy level will be split into two levels.
-We define the energy gap of two splitting levels as 'E1 for 2
-P1/2 and 'E2 for 2
-S1/2 respectively ('E1
+
+magnetic field. This is called as the Zeeman effect. The energy shift given by 'E                m j gk PB B ，
+where the quantum number mj can be J，J-1，…，-J+1，-J，J is the total angular quantum number,
+
+                                he
+gk is the Landé factor, P B         is Bohr magneton，h is the Plank constant，e is the electron
+                               4Sme
+
+charge，me is the electron mass, B is the magnetic field. As shown in Fig. 3, the D1 spectral line is
+
+                                                                                                       1
+emitted when Sodium atoms jump from the energy level 2P1/2 down to 2S1/2. We have J                      for
+                                                                                                       2
+both 2P1/2 and 2S1/2 . Therefore, in the magnetic field, each energy level will be split into two levels.
+We define the energy gap of two splitting levels as 'E1 for 2P1/2 and 'E2 for 2S1/2 respectively ('E1
 <'E2). As a result, the D1 line is split into 4 spectral lines (a, b, c, and d), as showed in Fig. 3.
 Please write down the expression of the frequency (Q ) of four lines a, b, c, and d.
-mj
-1/2
--1/2
-1/2
--1/2
-2
-P1/2
-2
-S1/2
-589.6nm
-a b
-c d
-'E1
-'E2
-Figure 3
+
+                                                                             mj
+                               2
+                                P 1 /2                                       1/2
+                                                                            -1 /2   'E 1
+
+
+
+
+                                     58 9.6 nm
+
+
+
+
+                                                                             1/2
+                                                               a b
+                               2
+                                S 1 /2                                              'E 2
+                                                                            -1/2
+                                                                     c d
+
+                                                         Figure 3
+
+
 Solution：
-The frequency of D1 line (2
-P1/2 to 2
-S1/2) is given by： 0 / c Q O nm 6 . 589 O
+
+The frequency of D1 line (2P1/2 to 2S1/2) is given by：Q 0             c/O O           589.6nm
+
 When magnetic field B is applied，the frequency of the line a,b,c,d are expressed as:
-1) 2
-P1/2 (mj=-1/2) → 2
-S1/2 (mj =1/2): frequency of (a）)： 2 1 0
-2
-1
-E E
-h
-a '  '  Q Q ； （0.5 point）
-2) 2
-P1/2 (mj=1/2) → 2
-S1/2 (mj=1/2): frequency of（b） ： 1 2 0
-2
-1
-E E
-h
-b '  '  Q Q ； （0.5 point）
-3) 2
-P1/2 (mj=-1/2) → 2
-S1/2 (mj=-1/2): frequency of（c） ： 1 2 0
-2
-1
-E E
-h
-c '  '  Q Q ； （0.5 point）
-4) 2
-P1/2 (mj=1/2) → 2
-S1/2 (mj=-1/2): frequency of（d） ： 2 1 0
-2
-1
-E E
-h
-d '  '  Q Q ； （0.5 point）
+                                                                                      1
+1) 2P1/2 (mj=-1/2) → 2S1/2 (mj =1/2): frequency of (a）)：Q a                 Q0          'E1  'E2 ；（0.5 point）
+                                                                                      2h
+                                                                                1
+                                                  ：Q b
+2) 2P1/2 (mj=1/2) → 2S1/2 (mj=1/2): frequency of（b）                        Q0      'E2  'E1 ；（0.5 point）
+                                                                               2h
+                                                                                  1
+3) 2P1/2 (mj=-1/2) → 2S1/2 (mj=-1/2): frequency of（c）：Q c                  Q0       'E2  'E1 ；（0.5 point）
+                                                                                 2h
+                                                                                 1
+                                                   ：Q d
+4) 2P1/2 (mj=1/2) → 2S1/2 (mj=-1/2): frequency of（d）                       Q0       'E1  'E2 ；（0.5 point）
+                                                                                2h
 （The results maybe have other correct forms.
-But, 0.4 point for each result without the coefficient of 2 / 1 .）Solution for Question 3
-Page 6 of 10
+But, 0.4 point for each result without the coefficient of 1 / 2 .）
+                                                                                                   Page 5 of 10
+                                                 Solution for Question 3
 (e) (3 points) As shown in Fig. 4, when the magnetic field is turned on, each fringe of the D1 line
 will split into four sub-fringes (1, 2, 3, and 4). The diameter of the four sub-fringes near the center
-is measured as 1 D ， 2 D ， 3 D ， and 4 D . Please give the expression of the splitting energy gap 'E1
-of 2
-P1/2 and 'E2 of 2
-S1/2.
-m m-1
-1 3
-2 4
-m m-1
-B=0
-1
-2
-3
-4
-Bz 0
-D1
-D3
-D2
-D4
-Figure 4
-Solution：
-2
-1 cos , 1
-2
-m
-m m
-T
-T T   ， (e1)（0.2point if Eq. (e4) is wrong.）
-O T m nt m cos 2 ，
-nt
-m m
-2 2
-1
-2
-O T
- ， (e2)（0.2point if Eq. (e4) is wrong.）
-'
-, m m T T O O O o '  o ，
-nt
-m m
-2 2
-1
-2 '
-O O T ' 
- ，
-nt
-m m m
-2 2
-2 ' 2
-O T T ' 
-(e3)（0.2point if Eq. (e4) is wrong.）
-m m D fT 2 ，
-O
-O O ' ' 
-nt
-m
-f
-D D m m
-2 8 2
-2 ' 2
-2
-2 ' 2
-8f
-D D m m 
-' O O (e4)（1 point）
-The lines a, b, c, and d correspond to sub-fringe 1, 2, 3, and 4. From Question (d), we have.
-The wavelength difference of the spectral line a and b is given by:
-2
-2
-1
-2
-2
-1
-8f
-D D 
-' O OSolution for Question 3
-Page 7 of 10
-1 ( ) b a E h Q Q '  , 2 ( ) d b E h Q Q ' 
-or c d h E Q Q  ' 1 , a c h E Q Q  ' 2 (e5)
+
+is measured as D1 ，D2 ，D3 ，and D4 . Please give the expression of the splitting energy gap 'E1
+
+of 2P1/2 and 'E2 of 2S1/2.
+                                          m-1              m                      m     m-1
+
+                                                                                                  B=0
+
+
+
+
+                                                                     D4
+                                                                     D2
+                                                           3 1                1    3
+
+                                                                                                  Bz0
+
+                                                       4       2                  2 4
+                                                                      D1
+                                                                      D3
+
+                                                                   Figure 4
+
+
+                                                T m2
+  Solution： T m  1, cosT m              1           ，                            (e1)（0.2point if Eq. (e4) is wrong.）
+                                                 2
+
+                                                       T m2          mO
+                  2nt cos T m          mO ， 1                           ， (e2)（0.2point if Eq. (e4) is wrong.）
+                                                           2         2nt
+
+           O o O  'O ,T m o T m' ，
+
+                T m'2      m O  'O
+          1                        ，
+                 2            2nt
+
+           T m2  T m'2      m'O
+                                                                                  (e3)（0.2point if Eq. (e4) is wrong.）
+                2            2nt
+
+                                  Dm2  Dm' 2          m'O             'O
+           2 fT m         Dm ，
+                                    8f 2               2nt                O
+
+                          Dm2  Dm'2
+           'O        O                                                            (e4)（1 point）
+                            8f 2
+
+  The lines a, b, c, and d correspond to sub-fringe 1, 2, 3, and 4. From Question (d), we have.
+
+  The wavelength difference of the spectral line a and b is given by:
+
+              D22  D12
+   'O1    O
+                8f 2                                                                                             Page 6 of 10
+                                               Solution for Question 3
+
+
+'E1     h(Q b Q a ) , 'E2            h(Q d Q b )
+
+or 'E1       h Q d  Q c , 'E2            h Q c Q a          (e5)
+
 （0.5 point for each subequation in Eq (e5) if Eqs. (e6) and (e7) are totally wrong.）
+
 The wavelength difference of the spectral line a and b is given by:
-2
-2
-1
-2
-2
-1
-8f
-D D 
-' O O
+
+            D22  D12
+'O1    O
+              8f 2
+
 Then we obtain
-2
-2
-1
-2
-2
-2
-2
-1
-2
-2
-1 1
-8 8 f
-D D hc
-f
-D D hc
-h E
-
-x
-
-x  ' '
-O O
-Q
-（or 2
-2
-3
-2
-4
-2
-2
-3
-2
-4
-1 1
-8 8 f
-D D hc
-f
-D D hc
-h E
-
-x
-
-x  ' '
-O O
-Q ） (e6)（1 point）
+
+                        hc       D22  D12     hc        D22  D12
+'E1     h'Q 1               x                       x
+                        O          8f 2         O          8f 2
+
+                                 D42  D32
+                                 hc                      hc  D42  D32
+（or 'E1         h'Q 1         x                           x           ） (e6)（1 point）
+                              O    8f 2                  O     8f 2
+
 Similarly, for 'E2，we get
-2
-2
-2
-2
-4
-2
-8f
-D D 
-' O O
-2
-2
-2
-2
-4
-2
-2
-2
-2
-4
-2 2
-8 8 f
-D D hc
-f
-D D hc
-h E
-
-x
-
-x  ' '
-O O
-Q
-（or 2
-2
-1
-2
-3
-2
-2
-1
-2
-3
-1 1
-8 8 f
-D D hc
-f
-D D hc
-h E
-
-x
-
-x  ' '
-O O
-Q ） (e7)（1 point）
-(Eqs (e6 and e7) have other correct forms which should be in terms of 1 D ， 2 D ， 3 D ，and 4 D )
-(2.5 points for the final expressions only with the incorrect coefficients. )Solution for Question 3
-Page 8 of 10
-（f）（3 points） For the magnetic field B=0.1T， the diameter of four sub-fringes is measured as：
-mm D 88 . 3 1 ， mm D 05 . 4 2 ， mm D 35 . 4 3 ，and mm D 51 . 4 4 . Please calculate the
-Landé factor gk1 of 2
-P1/2 andgk2 of 2
-S1/2.
-Solution：
-Given that B=0.1T，so we have:
-eV
-m
-heB
-B
-e
-B
-6
-31
-34
-10 79 . 5
-10 1 . 9 14 . 3 4
-1 . 0 10 626 . 6
-4
-
-
-
-u
-u u u
-u u
-S
-P (f1)（0.2point if Eq. (f4) is wrong.）
-2
-2
-1
-2
-2
-1 1
-8f
-D D hc
-B g E b k
-
-x '
-O
-P ； (f2)
-（or, 2
-2
-3
-2
-4
-1 1
-8f
-D D hc
-B g E b k
-
-x '
-O
-P ） （0.5point if Eq. (f4) is wrong.）
-For the D1 spectral line， nm 6 . 589 O ，so we can get:
-eV
-hc
-11 . 2
-10 6 . 1 10 896 . 5
-10 3 10 626 . 6
-19 7
-8 34
-u u u
-u u u
- 
-
-O
-， (f3)（0.2point if Eq. (f4) is wrong.）
-thus：
-68 . 0
-3 . 0 3 . 0 8
-10 88 . 3 10 05 . 4
-10 79 . 5
-11 . 2
-8 10 79 . 5
-11 . 2
-2 3 2 3
-6 2
-2
-1
-2
-2
-6 1
-u u
-u  u
-x
-u
-
-x
-u
- 
- 
-f
-D D
-gk
-；
-（1.5 points）
-（or 72 . 0
-3 . 0 3 . 0 8
-10 35 . 4 10 51 . 4
-10 79 . 5
-11 . 2
-8 10 79 . 5
-11 . 2
-2 3 2 3
-6 2
-2
-3
-2
-4
-6 1
-u u
-u  u
-x
-u
-
-x
-u
- 
- 
-f
-D D
-gk
-）
-Similarly, we get:
-99 . 1
-3 . 0 3 . 0 8
-10 05 . 4 10 51 . 4
-10 79 . 5
-11 . 2
-8 10 79 . 5
-11 . 2
-2 3 2 3
-6 2
-2
-2
-2
-4
-6 2
-u u
-u  u
-x
-u
-
-x
-u
- 
- 
-f
-D D
-gk
-（1.5 points）
-（or 95 . 1
-3 . 0 3 . 0 8
-10 88 . 3 10 35 . 4
-10 79 . 5
-11 . 2
-8 10 79 . 5
-11 . 2
-2 3 2 3
-6 2
-2
-1
-2
-3
-6 2
-u u
-u  u
-x
-u
-
-x
-u
- 
- 
-f
-D D
-gk
-）
-(2 points for the correct final expressions if the final values are wrong.)
-（*Comment：the theory value of 1 k g and 2 k g is 2/3 and 2）Solution for Question 3
-Page 9 of 10
+
+            D42  D22
+'O2     O
+              8f 2
+
+                            D42  D22
+                             hc                          hc   D42  D22
+'E2        h'Q 2         x                                 x
+                         O    8f 2                        O     8f 2
+
+                                 D32  D12
+                                 hc                      hc  D32  D12
+（or 'E1         h'Q 1         x                           x           ） (e7)（1 point）
+                              O    8f 2                  O     8f 2
+
+(Eqs (e6 and e7) have other correct forms which should be in terms of D1 ， D2 ， D3 ，and D4 )
+
+(2.5 points for the final expressions only with the incorrect coefficients. )
+
+
+
+
+                                                                                         Page 7 of 10
+                                                Solution for Question 3
+（f）（3 points）For the magnetic field B=0.1T，the diameter of four sub-fringes is measured as：
+
+    D1     3.88mm ，D2             4.05mm ，D3           4.35mm ，and D4                 4.51mm . Please calculate the
+
+   Landé factor gk1 of 2P1/2 and gk2 of 2S1/2.
+
+
+
+ Solution：
+  Given that B=0.1T，so we have:
+
+              heB        6.626 u 1034 u 0.1
+   PB B                                                5.79 u 10 6 eV (f1)（0.2point if Eq. (f4) is wrong.）
+             4Sme       4 u 3.14 u 9.1 u 10 31
+
+                        hc       D22  D12
+  'E1      g k 1P b B        x             ； (f2)
+                        O          8f 2
+
+                                     hc        D42  D32
+         （or, 'E1       g k 1P b B         x             ）（0.5point if Eq. (f4) is wrong.）
+                                      O          8f 2
+ For the D1 spectral line， O          589.6nm ，so we can get:
+
+           hc       6.626 u 1034 u 3 u 108
+                                                        2.11eV ， (f3)（0.2point if Eq. (f4) is wrong.）
+            O      5.896 u 10 7 u 1.6 u 1019
+          thus：
+                                                                          2                     2
+             2.11       D2  D2              2.11        4.05 u 10 3  3.88 u 10 3
+  g k1              6
+                       x 2 2 1                      6
+                                                       x                                             0.68 ；
+          5.79 u 10      8f               5.79 u 10              8 u 0.3 u 0.3
+                                                                                                                  （1.5 points）
+                                                                                  2                      2
+                   2.11        D42  D32            2.11        4.51 u 10 3  4.35 u 10 3
+ （or g k1                    x                                x                                               0.72 ）
+                5.79 u 10 6     8f 2            5.79 u 10 6           8 u 0.3 u 0.3
+
+
+ Similarly, we get:
+                                                                      2                     2
+             2.11       D2  D2           2.11        4.51 u 10 3  4.05 u 10 3
+  gk 2              6
+                       x 4 2 2                   6
+                                                    x                                               1.99 （1.5 points）
+          5.79 u 10      8f            5.79 u 10              8 u 0.3 u 0.3
+
+                                                                              2                      2
+                    2.11        D32  D12          2.11        4.35 u 10 3  3.88 u 10 3
+ （or g k 2                    x                              x                                               1.95 ）
+                 5.79 u 10 6     8f 2          5.79 u 10 6           8 u 0.3 u 0.3
+
+            (2 points for the correct final expressions if the final values are wrong.)
+
+
+            （*Comment：the theory value of g k 1 and g k 2 is 2/3 and 2）
+
+
+
+                                                                                                                Page 8 of 10
+                                                 Solution for Question 3
 （g） (2 points) The magnetic field on the sun can be determined by measuring the Zeeman effect
 of the Sodium D1 line on some special regions of the sun. One observes that, in the four split lines,
 the wavelength difference between the shortest and longest wavelength is 0.012nm by a solar
 spectrograph. What is the magnetic field B in this region of the sun?
-Solution：
-We have 1 1 k B E g B P ' and 2 2 k B E g B P ' ;
-The line a has the longest wavelength and the line d has the shortest wavelength line. The energy
-difference of the line a and d is
-B g g E E E B k k P 2 1 2 1  '  ' ' . (g1)（0.5point if Eq. (g3) is wrong.） ）
-2 2
-O
-O
-O
-O
-Q
-' '
- '
-c c
-(g2)（0.5 point）
-h
-B g g B k k P
-Q 2 1 
-' （g3） （0.5 point）
-e
-B
-m
-he
-S
-P
-4
-So the magnetic field B is given by:
-Gauss
-T
-T
-e g g
-c m
-B
-k k
-e
-1 . 2772
-2772 . 0
-10 6 . 1 67 . 2 10 6 . 589
-10 3 10 012 . 0 10 1 . 9 14 . 3 4
-4
-19 2 9
-8 9 31
-2 1
-2
-u u u u
-u u u u u u u
-
-'
- 
- 
-O
-O S
-(g4)（1 point）
-（0.5 point if the first line in Eq (g4) is correct.）Solution for Question 3
-Page 10 of 10
-(h)（3 points） A Light- Emitting Diode (LED) source with a central wavelength nm 650 O
-and spectral width nm 20 'O is normally incident ( 0 T ) into the F-P etalon shown in Fig. 1.
+
+
+
+ Solution：
+
+ We have 'E1           g k1P B B and 'E2            gk 2 PB B ;
+
+ The line a has the longest wavelength and the line d has the shortest wavelength line. The energy
+
+ difference of the line a and d is
+
+                 'E      'E1  'E2             g k1  g k 2 P B B . (g1)（0.5point if Eq. (g3) is wrong.））
+
+                             c'O          c'O
+                 'Q                                                 (g2)（0.5 point）
+                             O    2
+                                          O2
+                          g k1  g k 2 P B B
+                 'Q                                                 （g3）（0.5 point）
+                                 h
+                           he
+                  PB
+                          4Sme
+ So the magnetic field B is given by:
+                4Sme 'Oc
+        B
+              O2 g k1  g k 2 e
+            4 u 3.14 u 9.1 u 10 31 u 0.012 u 10 9 u 3 u 108
+                                      2
+                                                                T
+                  589.6 u 10 9 u 2.67 u 1.6 u 10 19
+                                                                     (g4)（1 point）
+
+            0.2772T
+            2772.1Gauss
+        （0.5 point if the first line in Eq (g4) is correct.）
+
+
+
+
+                                                                                                  Page 9 of 10
+                                             Solution for Question 3
+(h)（3 points） A Light- Emitting Diode (LED) source with a central wavelength O 650nm
+and spectral width 'O 20nm is normally incident ( T 0 ) into the F-P etalon shown in Fig. 1.
 For the vacuum case, find (i) the number of lines in transmitted spectrum and (ii) the frequency
-width Q ' of each line？
-Solution：
-The wavelength of transmitted spectral lines is given by:
-m m nt O 2 (h1)（0.5 point if Eq. (h2) is wrong.）
-m
-m
-c
-O
-Q
-nt
-mc
-m
-2
-Q
-Hz
-nt
-c
-m
-10
-10 5 . 1
-2
-u 'Q (h2)（1 point）
-The frequency width of the input LED is：
-Hz
-c
-s
-13
-2 9
-9 8
-2
-10 42 . 1
-10 650
-10 20 10 3
-u
-u
-u u u
-'
- '
-
-
-O
-O
-Q
-(h3)
-（0.5point if the first line in Eq. (h3) is correct.）
-So we have the number of transmitted spectral line：
-946
-10 5 . 1
-10 42 . 1
-10
-13
-u
-u
-'
-'
-m
-s
-N
-Q
-Q
-(h4)（1 point）
-（0.5point if the first line in Eq. (h4) is correct.）
-The spectral width of transmitted spectral line is
-F nt S
-O
-O
-2
-' , then we have
-Hz
-F nt
-c
-8
-3
-8
-10 0 . 5
-360 10 10 0 . 1 14 . 3
-10 3
-u
-u u u u
-u
-'
-
-S
-Q
-(h5)（1 point）
-（0.5point if the first line in Eq. (h5) is correct.）
+width 'Q of each line？
+
+
+ Solution：
+ The wavelength of transmitted spectral lines is given by:
+
+          2nt     mOm          (h1)（0.5 point if Eq. (h2) is wrong.）
+
+                  c
+          Qm
+                  Om
+               mc
+          Qm
+               2nt
+                  c
+          'Q m                  1.5 u 1010 Hz     (h2)（1 point）
+                2nt
+ The frequency width of the input LED is：
+                          c'O
+          'Q s     
+                          O2                                   (h3)
+              3 u 10 u 20 u 10
+                      8               9
+
+                               2
+                                           1.42 u 1013 Hz
+                  650 u 10  9
+      （0.5point if the first line in Eq. (h3) is correct.）
+
+ So we have the number of transmitted spectral line：
+                 'Q s
+          N
+                 'Q m                               (h4)（1 point）
+              1.42 u 10   13
+
+                                946
+              1.5 u 1010
+      （0.5point if the first line in Eq. (h4) is correct.）
+
+
+                                                                      O2
+ The spectral width of transmitted spectral line is 'O                     , then we have
+                                                                Snt F
+
+                  c
+         'Q
+              Snt F                                               (h5)（1 point）
+                       3 u 108
+                                                   5.0 u 108 Hz
+           3.14 u 1.0 u 10 u 10  3 u 360
+      （0.5point if the first line in Eq. (h5) is correct.）
+
+
+
+                                                                                            Page 10 of 10

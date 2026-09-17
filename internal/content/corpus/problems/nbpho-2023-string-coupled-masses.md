@@ -15,8 +15,9 @@ has_figure: true
 figure_files: [nbpho-2023-string-coupled-masses-fig1.jpg]
 provenance_note: "NBPhO 2023, Problem 6, by Aleksi Kononen. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **6. String-coupled masses (5 points)** — *Aleksi Kononen.*

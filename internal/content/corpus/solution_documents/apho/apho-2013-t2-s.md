@@ -5,1182 +5,653 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2013/T2_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2013-t2]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2013/T2_S.pdf."
 ---
 
 Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-Part A. Single accelerated particle
-1. The equation of motion is given by
-F =
-d
-dt
-( mv) (1)
-=
-mc ˙
-(1 2)
-3
-2
-F = 3
-ma, (2)
-where = 1 p
-1 2
-and = v
-c. So the acceleration is given by
-a =
-F
-3m
-. (3)
-2. Eq.(3) can be rewritten as
-c
-d
-dt
-=
-F
-3m
-Z
-0
-d
-(1 2)
-3
-2
-=
-F
-mc
-Z t
-0
-dt
-p
-1 2
-=
-Ft
-mc
-(4)
-=
-Ft
-mc q
-1 + Ft
-mc
-2
-. (5)
-3. Using Eq.(5), we get
-Z x
-0
-dx =
-Z t
-0
-Ftdt
-m
-q
-1 + Ft
-mc
-2
-x =
-mc2
-F
-0
-@
-s
-1 +
-✓
-Ft
-mc
-◆2
-1
-1
-A. (6)
-4. Consider the following systems, a frame S’ is moving with respect to another frame S, with
-velocity u in the x direction. If a particle is moving in the S’ frame with velocity v0 also in x
-direction, then the particle velocity in the S frame is given by
-v =
-u + v0
-1 + uv0
-c2
-. (7)
-Relativistic Correction on GPS Satelitte Page 1 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-If the particles velocity changes with respect to the S’ frame, then the velocity in the S frame
-is also change according to
-dv =
-dv0
-1 + uv0
-c2
-u + v0
-1 + uv0
-c2
-2
-udv0
-c2
-dv =
-1
-2
-dv0
-1 + uv0
-c2
-2 . (8)
-The time in the S’ frame is t0, so the time in the S frame is given by
-t =
-✓
-t0
-+
-ux0
-c2
-◆
-, (9)
-so the time change in the S’ frame will give a time change in the S frame as follow
-dt = dt0
-✓
-1 +
-uv0
-c2
-◆
-. (10)
-The acceleration in the S frame is given by
-a =
-dv
-dt
-=
-a0
-3
-1
-1 + uv0
-c2
-3 . (11)
-If the S’ frame is the proper frame, then by definition the velocity v0 = 0. Substitute this to
-the last equation, we get
-a =
-a0
-3
-. (12)
-Combining Eq.(3) and Eq.(12), we get
-a0
-=
-F
-m
-⌘ g. (13)
-5. Eq.(3) can also be rewritten as
-c
-d
-d⌧
-=
-g
-3
-(14)
-Z
-0
-d
-1 2
-=
-g
-c
-Z ⌧
-0
-d⌧
-ln
-1
-p
-1 2
-+ p
-1 2
-!
-=
-g⌧
-c
-(15)
-s
-1 +
-1
-= e
-g⌧
-c
-⇣
-e
-g⌧
-c + e
-g⌧
-c
-⌘
-= e
-g⌧
-c e
-g⌧
-c
-= tanh
-g⌧
-c
-. (16)
-Relativistic Correction on GPS Satelitte Page 2 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-6. The time dilation relation is
-dt = d⌧. (17)
-From eq.(16), we have
-=
-1
-p
-1 2
-= cosh
-g⌧
-c
-. (18)
-Combining this equations, we get
-Z t
-0
-dt =
-Z ⌧
-0
-d⌧ cosh
-g⌧
-c
-t =
-c
-g
-sinh
-g⌧
-c
-. (19)
-Part B. Flight Time
-1. When the clock in the origin time is equal to t0, it emits a signal that contain the information
-of its time. This signal will arrive at the particle at time t, while the particle position is at
-x(t). We have
-c(t t0) = x(t) (20)
-t t0 =
-c
-g
-0
-@
-s
-1 +
-✓
-gt
-c
-◆2
-1
-1
-A
-t =
-t0
-2
-2 gt0
-c
-1 gt0
-c
-. (21)
-When the information arrive at the particle, the particle’s clock has a reading according to
-eq.(19). So we get
-c
-g
-sinh
-g⌧
-c
-=
-t0
-2
-2 gt0
-c
-1 gt0
-c
-0 =
-1
-2
-✓
-gt0
-c
-◆2
-gt0
-c
-⇣
-1 + sinh
-g⌧
-c
-⌘
-+ sinh
-g⌧
-c
-gt0
-c
-= 1 + sinh
-g⌧
-c
-± cosh
-g⌧
-c
-. (22)
-Using initial condition t = 0 when ⌧ = 0, we choose the negative sign
-gt0
-c
-= 1 + sinh
-g⌧
-c
-cosh
-g⌧
-c
-t0 =
-c
-g
-⇣
-1 e
-g⌧
-c
-⌘
-. (23)
-As ⌧ ! 1, t0 = c
-g. So the clock reading will freeze at this value.
-Relativistic Correction on GPS Satelitte Page 3 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-2. When the particles clock has a reading ⌧0, its position is given by eq.(6), and the time t0 is
-given by eq.(19). Combining this two equation, we get
-x =
-c2
-g
-✓r
-1 + sinh2 g⌧0
-c
-1
-◆
-. (24)
-The particle’s clock reading is then sent to the observer at the origin. The total time needed
-for the information to arrive is given by
-t =
-c
-g
-sinh
-g⌧0
-c
-+
-x
-c
-(25)
-=
-c
-g
-⇣
-sinh
-g⌧0
-c
-+ cosh
-g⌧0
-c
-1
-⌘
-t =
-c
-g
-⇣
-e
-g⌧0
-c 1
-⌘
-(26)
-⌧0 =
-c
-g
-ln
-✓
-gt
-c
-+ 1
-◆
-. (27)
-The time will not freeze.
-Part C. Minkowski Diagram
-1. The figure below show the setting of the problem.
-The line AB represents the stick with proper length equal L in the S frame.
-The length AB is equal to
-q
-1 2
-1+ 2 L in the S’ frame.
-The stick length in the S’ frame is represented by the line AC
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-3. The!position!of!the!particle!is!given!by!eq.!(5).!!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!!
-x#
-ct#
-x’#
-ct’#
-!!
-!!
-A!
-B!
-C!
-Figure 1: Minkowski Diagram
-AC =
-AB
-cos✓
-=
-p
-1 2L. (28)
-2. The position of the particle is given by eq.(6).
-Relativistic Correction on GPS Satelitte Page 4 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-!
-!" !
-!!
-!
-!!
-! !
-!!
-!
-!!
-!′!
-!"′!
-Figure 2: Minkowski Diagram
-Part D. Two Accelerated Particles
-1. ⌧B = ⌧A.
-2. From the diagram, we have
-tan✓ = =
-ct2 ct1
-x2 x1
-. (29)
-Using eq.(6), and eq.(19) along with the initial condition, we get
-x1 =
-c2
-g
-⇣
-cosh
-g⌧1
-c
-1
-⌘
-, (30)
-x2 =
-c2
-g
-⇣
-cosh
-g⌧2
-c
-1
-⌘
-+ L. (31)
-Using eq.(16), eq.(19), eq.(30) and eq.(31), we obtain
-tanh
-g⌧1
-c
-=
-c
-⇣
-c
-g sinh g⌧2
-c
-c
-g sinh g⌧1
-c
-⌘
-L + c2
-g cosh g⌧2
-c 1 c2
-g cosh g⌧1
-c 1
-=
-sinh g⌧2
-c sinh g⌧1
-c
-gL
-c2 + cosh g⌧2
-c cosh g⌧1
-c
-gL
-c2
-sinh
-g⌧1
-c
-= sinh
-g⌧2
-c
-cosh
-g⌧1
-c
-cosh
-g⌧2
-c
-sinh
-g⌧1
-c
-gL
-c2
-sinh
-g⌧1
-c
-= sinh
-g
-c
-(⌧2 ⌧1). (32)
-So C1 = gL
-c2 .
-Relativistic Correction on GPS Satelitte Page 5 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-! =
-sinh
-gτ2
-c
-−sinh
-gτ1
-c
-gL
-c2
-+cosh
-gτ2
-c
-−cosh
-gτ1
-c
-gL
-c2
-sinh
-gτ1
-c
-= sinh
-gτ2
-c
-cosh
-gτ1
-c
-−cosh
-gτ2
-c
-sinh
-gτ1
-c
-!!
-Using!identity!relation,!the!last!equation!is!simply!to!
-!
-gL
-c2
-sinh
-gτ1
-c
-= sinh
-g
-c
-τ2 −τ1 ( )!! (15)!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-3. From!the!length!contraction,!we!have!
-!
-L'=
-x2 − x1
-γ1
-d ′ L
-dτ1
-=
-dx2
-dτ2
-dτ2
-dτ1
-−
-dx1
-dτ1
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟
-1
-γ1
-−
-x2 − x1
-γ1
-2
-dγ1
-dτ1
-!!
-x1! x2!
-t1!
-t2!
-!!
-!!
-!!
-Figure 3: Minkowski Diagram for two particles
-3. From the length contraction, we have
-L0
-=
-x2 x1
-1
-(33)
-dL0
-d⌧1
-=
-✓
-dx2
-d⌧2
-d⌧2
-d⌧1
-dx1
-d⌧1
-◆
-1
-1
-x2 x1
-2
-1
-d 1
-d⌧1
-. (34)
-Take derivative of eq.(30), eq.(31) and eq.(32), we get
-dx1
-d⌧1
-= csinh
-g⌧1
-c
-, (35)
-dx2
-d⌧2
-= csinh
-g⌧2
-c
-, (36)
-gL
-c2
-cosh
-g⌧1
-c
-= cosh
-g
-c
-(⌧2 ⌧1)
-✓
-d⌧2
-d⌧1
-1
-◆
-. (37)
-The last equation can be rearrange to get
-d⌧2
-d⌧1
-=
-gL
-c2 cosh g⌧1
-c
-cosh g
-c (⌧2 ⌧1)
-+ 1. (38)
-Relativistic Correction on GPS Satelitte Page 6 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-From eq.(29), we have
-x2 x1 =
-c(t2 t1)
-1
-=
-c
-tanh g⌧1
-c
-✓
-c
-g
-sinh
-g⌧2
-c
-c
-g
-sinh
-g⌧1
-c
-◆
-. (39)
-Combining all these equations, we get
-dL1
-d⌧1
-= csinh
-g⌧2
-c
-gL
-c2 cosh g⌧1
-c
-cosh g
-c (⌧2 ⌧1)
-+ csinh
-g⌧2
-c
-csinh
-g⌧1
-c
-!
-1
-cosh g⌧1
-c
-c2
-g
-⇣
-sinh
-g⌧2
-c
-sinh
-g⌧1
-c
-⌘ 1
-tanh g⌧1
-c
-1
-cosh2 g⌧1
-c
-g
-c
-sinh
-g⌧1
-c
-dL1
-d⌧1
-=
-gL
-c
-sinh g⌧2
-c
-cosh g
-c (⌧2 ⌧1)
-. (40)
-So C2 = gL
-c .
-Part E. Uniformly Accelerated Frame
-1. Distance from a certain point xp according to the particle’s frame is
-L0
-=
-x xp
-(41)
-L0
-=
-c2
-g1
-cosh g1⌧
-c 1 xp
-cosh g1⌧
-c
-L0
-=
-c2
-g1
-c2
-g1
-+ xp
-cosh g1⌧
-c
-. (42)
-For L0 equal constant, we need xp = c2
-g1
-.
-2. First method: If the distance in the S’ frame is constant = L, then in the S frame the length
-is
-Ls = L
-s
-1 + 2
-1 2
-. (43)
-So the position of the second particle is
-x2 = x1 + Ls cos✓ (44)
-=
-c2
-g1
-0
-@
-s
-1 +
-✓
-g1t1
-c
-◆2
-1
-1
-A + L
-s
-1 +
-✓
-g1t1
-c
-◆
-x2 =
-✓
-c2
-g1
-+ L
-◆s
-1 +
-✓
-g1t1
-c
-◆2
-c2
-g1
-. (45)
-Relativistic Correction on GPS Satelitte Page 7 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-! !
-! x2 =
-c2
-g1
-+ L
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟ 1+
-g1t1
-c
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟
-2
-−
-c2
-g1
-!! (17)!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-the!time!of!the!second!particle!is!
-!
-ct2 = ct1 + LS sinθ
-= ct1 +
-L
-g1t1
-c
-1+
-g1t1
-c
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟
-2
-⎛
-⎝
-⎜
-⎜
-⎜
-⎜
-⎞
-⎠
-⎟
-⎟
-⎟
-⎟
-1
-1+
-g1t1
-c
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟
-2
-⎛
-⎝
-⎜
-⎜
-⎜
-⎜
-⎞
-⎠
-⎟
-⎟
-⎟
-⎟
-!!
-! ct2 = ct1 1+
-g1L
-c2
-⎛
-⎝ ⎜
-⎞
-⎠ ⎟ !! (18)!
-Substitute!eq.(18)!to!eq.(17)!to!get!
-!!
-L"
-!
-x1! x2!
-t1!
-t2!
-!
-Figure 4: Minkowski Diagram for two particles
-The time of the second particle is
-ct2 = ct1 + Ls sin✓ (46)
-= ct1 + L
-s
-1 + 2
-1 2
-p
-1 + 2
-ct2 = t1
-✓
-c +
-g1L
-c
-◆
-. (47)
-Substitute eq.(47) to eq.(45) to get
-x2 =
-✓
-c2
-g1
-+ L
-◆
-v
-u
-u
-t1 +
-g1
-c
-t2
-1 + g1L
-c2
-!2
-c2
-g1
-x2 =
-✓
-c2
-g1
-+ L
-◆
-v
-u
-u
-t1 +
-g1
-1 + g1L
-c2
-t2
-c
-!2
-c2
-g1
-. (48)
-From the last equation, we can identify
-g2 ⌘
-g1
-1 + g1L
-c2
-. (49)
-Relativistic Correction on GPS Satelitte Page 8 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-As for confirmation, we can subsitute this relation to the second particle position to get
-x2 =
-c2
-g2
-s
-1 +
-✓
-g2t2
-c
-◆2
-c2
-g1
-. (50)
-Second method: In this method, we will choose g2 such that the special point like the one
-descirbe in the question 1 is exactly the same as the similar point for the proper acceleration
-g1.
-For first particle, we have xp1g1 = c2
-For second particle, we have (L + xp1)g2 = c2
-Combining this two equations, we get
-g2 =
-c2
-L + c2
-g1
-g2 =
-g1
-1 + g1L
-c2
-. (51)
-3. The relation between the time in the two particles is given by eq.(47)
-t2 = t1
-✓
-1 +
-g1L
-c2
-◆
-c2
-g2
-sinh
-g2⌧2
-c
-=
-c2
-g1
-sinh
-g1⌧1
-c
-✓
-1 +
-g1L
-c2
-◆
-sinh
-g2⌧2
-c
-= sinh
-g1⌧1
-c
-g2⌧2 = g1⌧1 (52)
-d⌧2
-d⌧1
-=
-g1
-g2
-= 1 +
-g1L
-c2
-. (53)
-Part F. Correction for GPS
-1. From Newtons Law
-GMm
-r2
-= m!2
-r (54)
-r =
-✓
-gR2T2
-4⇡2
-◆1
-3
-(55)
-r = 2.66 ⇥ 107
-m.
-The velocity is given by
-v = !r =
-✓
-2⇡gR2
-T
-◆1
-3
-(56)
-= 3.87 ⇥ 103
-m/s.
-Relativistic Correction on GPS Satelitte Page 9 of 10Theoretical 2: Solution
-Relativistic Correction on GPS Satelitte
-2. The general relativity e↵ect is
-d⌧g
-dt
-= 1 +
-U
-mc2
-(57)
-d⌧g
-dt
-= 1 +
-gR2
-c2
-R r
-Rr
-. (58)
-After one day, the di↵erence is
-⌧g =
-gR2
-c2
-R r
-Rr
-T (59)
-= 4.55 ⇥ 10 5
-s.
-The special relativity e↵ect is
-d⌧s
-dt
-=
-r
-1
-v2
-c2
-(60)
-=
-v
-u
-u
-t1
-✓
-2⇡gR2
-T
-◆2
-3
-!
-1
-c2
-⇡ 1
-1
-2
-✓
-2⇡gR2
-T
-◆2
-3
-!
-1
-c2
-. (61)
-After one day, the di↵erence is
-⌧s =
-1
-2
-✓
-2⇡gR2
-T
-◆2
-3
-!
-1
-c2
-T (62)
-= 7.18 ⇥ 10 6
-s.
-The satelite’s clock is faster with total ⌧ = ⌧g + ⌧s = 3.83 ⇥ 10 5s.
-3. L = c ⌧ = 1.15 ⇥ 104m = 11.5km.
-Relativistic Correction on GPS Satelitte Page 10 of 10
+                                   Relativistic Correction on GPS Satelitte
+
+   Part A. Single accelerated particle
+
+ 1. The equation of motion is given by
+                                                            d
+                                                   F =         ( mv)                               (1)
+                                                            dt
+                                                               mc ˙
+                                                       =                 3
+                                                            (1         2) 2
+                                                             3
+                                                   F =           ma,                               (2)
+
+    where   =p1      2
+                         and   = vc . So the acceleration is given by
+                 1
+
+                                                                 F
+                                                       a=        3m
+                                                                    .                              (3)
+
+
+ 2. Eq.(3) can be rewritten as
+
+                                                      d      F
+                                                       c  = 3
+                                                      dt      m
+                                        Z                      Z t
+                                                   d        F
+                                                        3 =        dt
+                                            0   (1   2) 2   mc 0
+                                                            Ft
+                                                 p        =                                        (4)
+                                                   1    2   mc
+                                                                              Ft
+                                                             = q mc      .                         (5)
+                                                                    Ft 2
+                                                                1 + mc
+
+ 3. Using Eq.(5), we get
+                                  Z x            Z t
+                                                     F tdt
+                                        dx =       q
+                                    0           0 m 1 + Ft 2
+                                                           mc
+                                                   0s                               1
+                                                           ✓    ◆
+                                               mc2 @         Ft 2
+                                            x=       1+                            1A .            (6)
+                                                F            mc
+
+
+ 4. Consider the following systems, a frame S’ is moving with respect to another frame S, with
+    velocity u in the x direction. If a particle is moving in the S’ frame with velocity v 0 also in x
+    direction, then the particle velocity in the S frame is given by
+
+                                                            u + v0
+                                                       v=          0 .                             (7)
+                                                            1 + uv
+                                                                c2
+
+
+
+
+Relativistic Correction on GPS Satelitte                                                  Page 1 of 10
+                                    Theoretical 2: Solution
+                                    Relativistic Correction on GPS Satelitte
+
+    If the particles velocity changes with respect to the S’ frame, then the velocity in the S frame
+    is also change according to
+                                               dv 0                  u + v0        udv 0
+                                      dv =           0                         2
+                                             1 + uvc2            1+     uv 0        c2
+                                                                        c2
+                                             1        dv 0
+                                      dv =    2              0   2.                                 (8)
+                                                   1 + uv
+                                                       c2
+
+    The time in the S’ frame is t0 , so the time in the S frame is given by
+                                                  ✓         ◆
+                                                        ux0
+                                             t=     t0 + 2 ,                                        (9)
+                                                         c
+    so the time change in the S’ frame will give a time change in the S frame as follow
+                                                   ✓         ◆
+                                                 0      uv 0
+                                        dt = dt 1 + 2 .                                            (10)
+                                                         c
+    The acceleration in the S frame is given by
+                                                  dv   a0    1
+                                         a=          = 3         0 3
+                                                                     .                             (11)
+                                                  dt      1 + uv
+                                                               c2
+
+    If the S’ frame is the proper frame, then by definition the velocity v 0 = 0. Substitute this to
+    the last equation, we get
+                                                    a0
+                                               a = 3.                                           (12)
+
+    Combining Eq.(3) and Eq.(12), we get
+                                                          F
+                                                   a0 =     ⌘ g.                                   (13)
+                                                          m
+ 5. Eq.(3) can also be rewritten as
+                                                           d       g
+                                                                 c
+                                                                = 3                                (14)
+                                                            d⌧
+                                                   Z                 Z
+                                                         d        g ⌧
+                                                              2
+                                                                =       d⌧
+                                                     0 1          c 0
+                                                              !
+                                         1                        g⌧
+                               ln   p           +p              =                                  (15)
+                                     1        2       1    2       c
+                                                      s
+                                                        1+         g⌧
+                                                                =ec
+                                                        1
+                                                ⇣ g⌧       g⌧
+                                                              ⌘    g⌧      g⌧
+                                                 e c +e c =e c          e c
+                                                                       g⌧
+                                                                = tanh .                           (16)
+                                                                        c
+
+
+Relativistic Correction on GPS Satelitte                                                   Page 2 of 10
+                                    Theoretical 2: Solution
+                                    Relativistic Correction on GPS Satelitte
+
+ 6. The time dilation relation is
+                                                    dt = d⌧.                                    (17)
+    From eq.(16), we have
+                                                     1                      g⌧
+                                             =p                    = cosh      .                (18)
+                                               1              2              c
+    Combining this equations, we get
+                                            Z t          Z ⌧
+                                                                            g⌧
+                                                  dt =            d⌧ cosh
+                                              0           0                  c
+                                                      c    g⌧
+                                                   t = sinh .                                   (19)
+                                                      g     c
+
+   Part B. Flight Time
+
+ 1. When the clock in the origin time is equal to t0 , it emits a signal that contain the information
+    of its time. This signal will arrive at the particle at time t, while the particle position is at
+    x(t). We have
+
+                                    c(t     t0 ) = x(t)                                         (20)
+                                                     0s                            1
+                                                           ✓ ◆2
+                                                   c@       gt
+                                          t t0 =        1+                         1A
+                                                   g        c
+                                                                  gt0
+                                                 t0 2              c
+                                              t=                  gt0 .                         (21)
+                                                 21                c
+
+    When the information arrive at the particle, the particle’s clock has a reading according to
+    eq.(19). So we get
+                                             gt0
+                         c      g⌧    t0 2    c
+                           sinh     =
+                         g       c     2 1 gtc0
+                                        ✓    ◆
+                                      1 gt0 2 gt0 ⇣               g⌧ ⌘        g⌧
+                                   0=                    1 + sinh      + sinh
+                                      2    c         c             c           c
+                                gt0             g⌧        g⌧
+                                    = 1 + sinh     ± cosh .                                     (22)
+                                 c               c         c
+    Using initial condition t = 0 when ⌧ = 0, we choose the negative sign
+                                          gt0            g⌧          g⌧
+                                              = 1 + sinh        cosh
+                                           c              c           c
+                                                c⇣         g⌧
+                                                              ⌘
+                                           t0 =    1 e c .                                      (23)
+                                                g
+    As ⌧ ! 1, t0 = gc . So the clock reading will freeze at this value.
+
+
+
+Relativistic Correction on GPS Satelitte                                                Page 3 of 10
+                                       Theoretical 2: Solution
+                                       Relativistic Correction on GPS Satelitte
+
+ 2. When the particles clock has a reading ⌧0 , its position is given by eq.(6), and the time t0 is
+    given by eq.(19). Combining this two equation, we get
+                                          ✓r                     ◆
+                                       c2              2 g⌧0
+                                  x=          1 + sinh          1 .                           (24)
+                                       g                  c
+
+    The particle’s clock reading is then sent to the observer at the origin. The total time needed
+    for the information to arrive is given by
+                                             c       g⌧0 x
+                                         t=    sinh        +                                        (25)
+                                             g         c      c
+                                             c⇣        g⌧0          g⌧0                 ⌘
+                                           =     sinh        + cosh                 1
+                                             g           c           c
+                                             c ⇣ g⌧0        ⌘
+                                         t=      e c       1                                        (26)
+                                             g
+                                                  ✓          ◆
+                                             c      gt
+                                        ⌧0 = ln          +1 .                                       (27)
+                                             g       c
+
+    The time will not freeze.
+
+    Part C. Minkowski Diagram
+
+ 1. The figure below show the setting of the problem.
+    The line AB represents theq
+                              stick with proper length equal L in the S frame.
+                                              2
+    The length AB is equal to 11+ 2 L in the S’ frame.
+    The stick length in the S’ frame is represented by the line AC
+
+              !                         ct#                 ct’#
+              !
+              !
+              !
+              !                                                               x’#
+              !                                                    C!
+              !
+              !                                   !!
+              !
+              !                                        !!                x#
+              !                          A!
+                                                                    B!
+              !
+                3. The!position!of!the!particle!is!given!by!eq.!(5).!!
+              !                         Figure 1: Minkowski Diagram
+              !
+              !                              !!
+                                                        AB       p
+              !                                 AC =         = 1       2 L.                         (28)
+              !                                        cos ✓
+              !
+ 2. The  position of the particle is given by eq.(6).
+              !
+              !
+              !
+              !
+Relativistic !Correction on GPS Satelitte                                                   Page 4 of 10
+                                !
+              !
+              !
+                                      Theoretical 2: Solution
+                                  Relativistic Correction on GPS Satelitte
+
+                                !!                   !"′!
+                            !" ! !!                                                   !′!
+                                !
+
+
+
+
+                                                                                         !!
+                                                                                      ! ! !!
+                                                                                         !
+
+
+                                                                                                     !
+                                      Figure 2: Minkowski Diagram
+
+   Part D. Two Accelerated Particles
+ 1. ⌧B = ⌧A .
+ 2. From the diagram, we have
+                                                                 ct2    ct1
+                                           tan ✓ =          =               .                                    (29)
+                                                                  x2    x1
+    Using eq.(6), and eq.(19) along with the initial condition, we get
+                                             c2 ⇣       g⌧1             ⌘
+                                        x1 =       cosh                1 ,                                       (30)
+                                             g           c
+                                             c 2 ⇣      g⌧2             ⌘
+                                        x2 =       cosh                1 + L.                                    (31)
+                                             g           c
+    Using eq.(16), eq.(19), eq.(30) and eq.(31), we obtain
+                                                 ⇣                                          ⌘
+                                                   c     g⌧2                c     g⌧1
+                                 g⌧1           c   g sinh c                 g sinh c
+                           tanh      =       2                                  c2
+                                  c    L + c cosh g⌧2 1
+                                                 g              c               g    cosh g⌧c1   1
+                                               sinh g⌧c2        sinh g⌧c1
+                                       = gL
+                                         + cosh g⌧c2 cosh g⌧c1
+                                          c2
+                        gL      g⌧1        g⌧2      g⌧1        g⌧2      g⌧1
+                           sinh     = sinh     cosh     cosh       sinh
+                        c2       c           c       c          c        c
+                        gL      g⌧1        g
+                           sinh     = sinh (⌧2 ⌧1 ) .                                                            (32)
+                        c2       c         c
+    So C1 = gL
+            c2
+               .
+
+
+Relativistic Correction on GPS Satelitte                                                                 Page 5 of 10
+                                                 gτ 2         gτ
+                                                  sinh− sinh 1
+           !                         =            c            c                   !!
+                                        gL          gτ 2         gτ 1
+                                            + cosh        − cosh
+                                        c2            c           c
+                        gL      gτ           gτ          gτ         gτ         gτ
+                          2
+                            sinh 1 = sinh 2 cosh 1 − cosh 2 sinh 1
+                        c        c            c           c           c         c
+                                 Theoretical                2:   Solution
+           Using!identity!relation,!the!last!equation!is!simply!to!
+                                       gL
+                                 Relativistic   gτ           g
+           !                             2
+                                           sinh 1 = Correction
+                                                        sinh (τ 2 − τ 1 ) !! on GPS Satelitte
+                                                                                          (15)!
+                                       c         c           c
+      !
+      !                                      !!
+      !
+      !
+      !
+      !
+      !
+      !
+      !                      t2!
+      !
+      !
+      !
+                             t1!                    !!
+      !
+      !
+      !
+      !
+      !
+      !                                                                                           !!
+      !
+                                           x1!                               x2!
+      !
+          !
+      3.  From!the!length!contraction,!we!have!
+                        Figure  3: Minkowski Diagram for two particles
+                                         x −x
+                                   L' = 2 1
+ 3. From the length contraction, we haveγ 1
+          !                                                                       !!
+                               d 0 L ′ x2⎛ dxx1 dτ      dx  ⎞  1    x   − x  dγ
+                              L ==             2    2
+                                                      −   1
+                                                                  −   2    1    1                              (33)
+                               d0 τ 1 ✓ ⎜⎝ d1τ 2 dτ 1 dτ◆1 ⎟⎠ γ 1     γ 12 dτ 1
+                                   dL        dx2 d⌧2     dx1      1          x2        x1 d 1
+                                       =                                           2          .                (34)
+                                   d⌧1       d⌧2 d⌧1     d⌧1      1                1      d⌧1
+
+    Take derivative of eq.(30), eq.(31) and eq.(32), we get
+                                            dx1           g⌧1
+                                                = c sinh      ,                                                (35)
+                                            d⌧1            c
+                                            dx2           g⌧2
+                                                = c sinh      ,                                                (36)
+                                            d⌧2            c
+                                                                             ✓             ◆
+                                   gL       g⌧1         g                        d⌧2
+                                     2
+                                       cosh     = cosh (⌧2            ⌧1 )                1 .                  (37)
+                                   c         c          c                        d⌧1
+
+    The last equation can be rearrange to get
+                                                     gL
+                                             d⌧2      c2
+                                                         cosh g⌧c1
+                                                 =                  + 1.                                       (38)
+                                             d⌧1   cosh gc (⌧2 ⌧1 )
+
+
+Relativistic Correction on GPS Satelitte                                                               Page 6 of 10
+                                     Theoretical 2: Solution
+                                    Relativistic Correction on GPS Satelitte
+
+    From eq.(29), we have
+                                                                      ✓                             ◆
+                                   c(t2       t1 )        c               c      g⌧2   c      g⌧1
+                       x2   x1 =                     =                      sinh         sinh           .           (39)
+                                          1            tanh g⌧c1          g       c    g       c
+
+    Combining all these equations, we get
+                                           gL       g⌧
+                                                                                   !
+                   dL1              g⌧2 c2 cosh c1                 g⌧2         g⌧1       1
+                       =    c sinh                        + c sinh     c sinh
+                   d⌧1               c cosh gc (⌧2 ⌧1 )             c           c    cosh g⌧c1
+                                c2 ⇣      g⌧2          g⌧1 ⌘    1      1      g      g⌧1
+                                     sinh        sinh             g⌧1  2  g⌧1   sinh
+                                g          c            c tanh c cosh c c             c
+                   dL1   gL     sinh g⌧c2
+                       =                     .                                                                      (40)
+                   d⌧1    c cosh gc (⌧2 ⌧1 )
+
+    So C2 = gL
+             c .
+
+   Part E. Uniformly Accelerated Frame
+
+ 1. Distance from a certain point xp according to the particle’s frame is
+                                                     x       xp
+                                          L0 =                                                                      (41)
+                                                      c2
+                                              0       g1     cosh g1c⌧        1   xp
+                                          L =
+                                                                  cosh g1c⌧
+                                                                c2
+                                              c2
+                                              0                 g1 + xp
+                                          L =                            .                                          (42)
+                                              g1               cosh g1c⌧
+
+                                                      c2
+    For L0 equal constant, we need xp =               g1 .
+
+ 2. First method: If the distance in the S’ frame is constant = L, then in the S frame the length
+    is                                          s
+                                                   1+ 2
+                                         Ls = L          2
+                                                           .                                 (43)
+                                                   1
+
+    So the position of the second particle is
+
+                            x2 = x1 + Ls cos ✓                                                                      (44)
+                                    0s                        1    s
+                                  2
+                                            ✓         ◆2                ✓        ◆
+                                 c @           g 1 t1                     g 1 t1
+                               =        1+                   1A + L 1 +
+                                 g1              c                          c
+                                 ✓ 2      ◆s         ✓       ◆
+                                   c                   g 1 t1 2 c 2
+                            x2 =      +L       1+                    .                                              (45)
+                                   g1                    c        g1
+
+
+
+Relativistic Correction on GPS Satelitte                                                                    Page 7 of 10
+      !                                                !
+                                      Theoretical
+                                        ⎛c   2
+                                              ⎞    ⎛ g t ⎞2: cSolution
+                                                              2       2
+
+      !                            x2 = ⎜ + L ⎟ 1+ ⎜ 1 1 ⎟ − !!           (17)!
+                                        ⎝ g1  ⎠
+                                      Relativistic ⎝ c   ⎠
+                                                     Correction
+                                                             g1   on GPS Satelitte
+ !
+ !
+ !                                               !
+ !
+ !
+ !
+ !
+ !                          t2!
+ !
+ !                                                          L"
+ !
+ !                           t1!                      !!
+ !
+ !
+ !
+ !
+ !
+ !                                                                                         !
+ !                                     x1!                                    x2!
+      !
+      the!time!of!the!second!particle!is!
+                          Figure 4: Minkowski Diagram for two particles
+                                 ct 2 = ct1 + LS sin θ
+     The time of the second particle is       ⎛                     ⎞
+                                              ⎜         g1t1        ⎟
+                                     ct2 = ct⎜1 L+ Ls sinc✓         ⎟                                    (46)
+                                              ⎜      s            2 ⎟
+
+                                              ⎜1 + L1+ ⎛⎜1 +1 1 ⎞⎟ p
+                                                           gt 2
+                                                                    ⎟
+      !                                  =  ct
+                                              ⎝         ⎝1 c ⎠2 ⎠ 1!! + 2
+                                      = ct1 + ✓            ◆
+                                                ⎛    g1 L          ⎞
+                                     ct2 = t1 ⎜ c +           . ⎟                                        (47)
+                                                       c1
+                                                ⎜                  ⎟
+                                                ⎜                2 ⎟
+                                                ⎜ 1+ ⎛⎜ 1 1 ⎞⎟ ⎟
+     Substitute eq.(47) to eq.(45) to get                 gt
+                                                ⎝v    ⎝ c ⎠ ⎠          !
+                                  ✓ 2       ◆u    u                   2
+                                     c        ⎛
+                                              t  g   L g⎞1 t2                       c2
+      !                      x2 = ct +=Lct 1+   1+
+                                                        ⎟ !!                                   (18)!
+                                                   1
+                                             1⎜                 g1 L
+                                     g1 2     ⎝   c 2 ⎠c 1 + c2                     g1
+                                              v                      !2
+      Substitute!eq.(18)!to!eq.(17)!to!get!
+                                  ✓ 2       ◆uu
+                                     c        t             g 1 t2                  c2
+                             x2 =       +L      1+                                     .                 (48)
+                                     g1                1 + gc12L c                  g1
+
+     From the last equation, we can identify
+                                                                 g1
+                                                     g2 ⌘                 .                              (49)
+                                                            1 + gc12L
+
+
+Relativistic Correction on GPS Satelitte                                                         Page 8 of 10
+                                   Theoretical 2: Solution
+                                   Relativistic Correction on GPS Satelitte
+
+    As for confirmation, we can subsitute this relation to the second particle position to get
+                                              s    ✓        ◆
+                                          c 2         g 2 t2 2 c 2
+                                    x2 =       1+                  .                           (50)
+                                          g2            c       g1
+
+    Second method: In this method, we will choose g2 such that the special point like the one
+    descirbe in the question 1 is exactly the same as the similar point for the proper acceleration
+    g1 .
+    For first particle, we have xp1 g1 = c2
+    For second particle, we have (L + xp1 )g2 = c2
+    Combining this two equations, we get
+                                                         c2
+                                              g2 =            2
+                                                     L + gc1
+                                                       g1
+                                              g2 =                .                           (51)
+                                                     1 + gc12L
+
+ 3. The relation between the time in the two particles is given by eq.(47)
+                                                     ✓              ◆
+                                                             g1 L
+                                            t2 = t1 1 + 2
+                                                               c
+                                 2                 2
+                                                                    ✓        ◆
+                               c        g 2 ⌧2   c           g 1 ⌧1     g1 L
+                                   sinh        =      sinh            1+ 2
+                               g2          c     g1             c        c
+                                        g 2 ⌧2          g 1 ⌧1
+                                   sinh        = sinh
+                                           c               c
+                                        g 2 ⌧2 = g 1 ⌧1                                       (52)
+                                         d⌧2     g1              g1 L
+                                               =      =1+ 2 .                                 (53)
+                                         d⌧1     g2               c
+
+   Part F. Correction for GPS
+ 1. From Newtons Law
+                                          GM m
+                                               = m! 2 r                                       (54)
+                                           r2
+                                                 ✓ 2 2 ◆ 13
+                                                  gR T
+                                              r=                                              (55)
+                                                   4⇡ 2
+                                                r = 2.66 ⇥ 107 m.
+    The velocity is given by
+                                                     ✓                ◆ 13
+                                                         2⇡gR2
+                                          v = !r =                                            (56)
+                                                           T
+                                            = 3.87 ⇥ 103 m/s.
+
+
+
+Relativistic Correction on GPS Satelitte                                              Page 9 of 10
+                                        Theoretical 2: Solution
+                                     Relativistic Correction on GPS Satelitte
+
+ 2. The general relativity e↵ect is
+                                            d⌧g        U
+                                                =1+                                                     (57)
+                                            dt      mc2
+                                            d⌧g     gR2 R r
+                                                =1+ 2       .                                           (58)
+                                            dt       c   Rr
+      After one day, the di↵erence is
+
+                                                        gR2 R r
+                                                ⌧g =                 T                                  (59)
+                                                         c2 Rr
+                                                      = 4.55 ⇥ 10 5 s.
+
+      The special relativity e↵ect is
+                                              r
+                                        d⌧s                v2
+                                            = 1                                                         (60)
+                                        dt    v            c2
+                                              u
+                                              u              ✓             ◆2 !
+                                                                   2⇡gR2     3      1
+                                            = t1
+                                                                     T              c2
+                                                               ✓           ◆ 23 !
+                                                       1           2⇡gR2            1
+                                           ⇡1                                          .                (61)
+                                                       2             T              c2
+
+      After one day, the di↵erence is
+                                                           ✓           ◆ 23 !
+                                                  1            2⇡gR2            1
+                                         ⌧s =                                      T                    (62)
+                                                  2              T              c2
+                                           =      7.18 ⇥ 10 6 s.
+
+      The satelite’s clock is faster with total       ⌧=        ⌧g +     ⌧s = 3.83 ⇥ 10 5 s.
+
+ 3.     L = c ⌧ = 1.15 ⇥ 104 m = 11.5km.
+
+
+
+
+Relativistic Correction on GPS Satelitte                                                       Page 10 of 10

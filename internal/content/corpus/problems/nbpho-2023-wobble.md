@@ -15,8 +15,9 @@ has_figure: true
 figure_files: [nbpho-2023-wobble-fig1.jpg, nbpho-2023-wobble-fig2.jpg]
 provenance_note: "NBPhO 2023, Problem 3, by Taavet Kalda. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
 verification_status: pending
-has_solution: false
+has_solution: true
 
+solution_language: en
 ---
 
 **3. Wobble (8 points)** — *Taavet Kalda.*

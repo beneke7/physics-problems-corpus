@@ -5,7 +5,7 @@ kind: official_solution_document
 language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2017/E1_S.pdf
-extraction_method: pdftotext-raw
+extraction_method: pdftotext-layout
 mapped_problems: [apho-2017-e1]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2017/E1_S.pdf."
@@ -14,10 +14,6 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 Solution	
   
 	
-  
-	
-   	
-   1	
   
 Part	
   A	
@@ -29,54 +25,57 @@ A1.
   grating	
   formula	
   
+
 	
-  ℎsin𝜑 = 𝑚𝜆  ,	
+  ℎ sin 𝜑 = 𝑚𝜆  ,	
   where	
   𝑚 = 1,	
   thus	
   
-ℎsin𝜑 = 𝜆	
-   (1s)	
+
+                                                                     ℎ sin 𝜑 = 𝜆	
+                                               (1s)	
   
 	
   
+
 A2.	
   	
   
-𝜑,  !
+
+                                                                          𝜑,   ! 	
+                            𝜃,   ! 	
+  
+                                                                 35	
+                                   61,5	
+  
+                                                                 36	
+                                   55,5	
+  
+                                                                 37	
+                                   49,5	
+  
+                                                                 38	
+                                   45	
+  
+                                                                 39	
+                                   39	
+  
+                                                                 40	
+                                   35	
+  
+                                                                 41	
+                                   31,5	
+  
+                                                                 42	
+                                   25	
+  
+                                                                 43	
+                                   18,5	
+  
 	
-   𝜃,  !
-	
   
-35	
-   61,5	
-  
-36	
-   55,5	
-  
-37	
-   49,5	
-  
-38	
-   45	
-  
-39	
-   39	
-  
-40	
-   35	
-  
-41	
-   31,5	
-  
-42	
-   25	
-  
-43	
-   18,5	
-  
-	
-  
+
 A3.	
   Using	
   Bragg-­‐Snell	
@@ -86,11 +85,11 @@ A3.
   the	
   task:	
   
-2𝐷 𝑛! − sin! 𝜃 = 𝑚𝜆	
+
+                                                           2𝐷 𝑛! − sin! 𝜃 = 𝑚𝜆	
+                                                 (2s)	
   
 	
-  
-(2s)	
   
 	
   and	
@@ -98,28 +97,22 @@ A3.
   we	
   get	
   
-2𝐷 𝑛! − sin! 𝜃 = ℎsin𝜑	
+
+                                                               2𝐷 𝑛! − sin! 𝜃 = ℎ sin 𝜑	
   
-𝑛!
-− sin!
-𝜃 =
-ℎ
-2𝐷
-!
-sin!
-𝜑	
+
+                                                                                                          ℎ !
+                                                             𝑛! − sin! 𝜃 =                                    sin! 𝜑	
   
-sin!
-𝜃 = 𝑛!
-−
-ℎ
-2𝐷
-!
-sin!
-𝜑	
-   (3s)	
+                                                                                                         2𝐷
+                                                                                    ℎ !
+                                                       sin! 𝜃 = 𝑛! −                    sin! 𝜑	
+                                 (3s)	
   
-𝑛 = 𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡,	
+                                                                                   2𝐷
+                                                                𝑛=             𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡,	
+  
+                                                                                                                                 (4s)	
   
 where	
   intercept	
@@ -128,12 +121,10 @@ where
   from	
   Fig.1	
   
-(4s)	
+                                                                                        ℎ
+                                                                 𝐷=                                           ,	
   
-𝐷 =
-ℎ
-2 𝑆𝑙𝑜𝑝𝑒
-,	
+                                                                             2          𝑆𝑙𝑜𝑝𝑒                                    (5s)	
   
 where	
   slope	
@@ -142,41 +133,62 @@ where
   from	
   Fig.1	
   
-(5s)	
-  
 	
   
+
 	
   
-	
-  	
-   	
-   Solution	
-  
+
 	
   
+
+
+
+
 	
-   	
-   2	
-  
-0,30 0,35 0,40 0,45 0,50
-0,0
-0,2
-0,4
-0,6
-0,8
-sin 2
-θ
-sin2
-ϕ
-Value Standard Error
-Intercept 2,35022 0,05236
-Slope -4,86099 0,13127
-	
-  
-Fig.	
+                                                                                          	
   1	
   
+                	
+                                                                    	
+                                                       Solution	
+  
+	
+  
+
+
+
+
+                       0,8
+
+
+
+
+                       0,6
+
+
+
+            sin2θ
+                       0,4
+
+
+                                         Value            Standard Error
+                       0,2   Intercept    2,35022               0,05236
+                             Slope       -4,86099               0,13127
+
+
+
+
+                       0,0
+                          0,30                 0,35                     0,40                    0,45                     0,50
+
+                                                                      sin2ϕ
+                                                                                                                                      	
+  
+                                                                               Fig.	
+  1	
+  
+
 A4.	
   Taking	
   slope	
@@ -193,10 +205,13 @@ A4.
   we	
   get:	
   
-𝑛! = 1.53	
+
+                                                                           𝑛! = 1.53	
   
-𝐷! = 227  𝑛𝑚	
+
+                                                                        𝐷! = 227  𝑛𝑚	
   
+
 Part	
   B	
   
@@ -219,35 +234,59 @@ B1.
   wavelength	
   𝜆 = 650  𝑛𝑚	
   
+
 	
-   	
-  	
-   	
-   Solution	
+                                                 	
+  
+
+
+
+
+	
+                                                                                 	
+  2	
+  
+                        	
+                                                          	
+                                        Solution	
   
 	
-  
-	
-   	
-   3	
   
 B2-­‐B3.	
   
-0 5 10 15 20 25 30 35 40 45 50 55 60 65
-0
-100
-200
-300
-Transmittance, µA
-Incidence angle θ, deg
-Δθ
-	
+
+
+
+                                300
+
+
+
+
+            Transmittance, µA
+                                200
+
+
+
+
+                                                                       Δθ
+                                100
+
+
+
+
+                                 0
+                                      0   5   10   15   20   25   30   35    40              45   50   55   60   65
+
+                                                        Incidence angle θ, deg
+                                                                                                                       	
   
-Fig.	
+                                                                             Fig.	
   2	
   
+
 	
   
+
 B4.	
   From	
   the	
@@ -257,22 +296,23 @@ B4.
   find	
   minimum	
   at	
-  𝜃! = 37!
-	
+  𝜃! = 37! 	
   with	
   width	
   of	
-  Δ𝜃! = 14!
-	
+  Δ𝜃! = 14! 	
   
+
 B5.	
   Using	
   (2s)	
   we	
   get	
   
-2𝐷 𝑛! − sin! 𝜃! = 𝑚𝜆;	
+
+                                                                  2𝐷 𝑛! − sin! 𝜃! = 𝑚𝜆;	
   
+
 For	
   the	
   normal	
@@ -281,16 +321,15 @@ For
   can	
   write	
   
-2𝐷𝑛 = 𝑚𝜆!;	
+
+                                                                        2𝐷𝑛 = 𝑚𝜆! ;	
   
-𝜆! =
-𝜆𝑛
-𝑛! − sin! 𝜃!
-= 707  𝑛𝑚.	
+                                                                       𝜆𝑛
+                                                        𝜆! =                               = 707  𝑛𝑚.	
+  
+                                                                  𝑛! − sin! 𝜃!                                                    (6s)	
   
 	
-  
-(6s)	
   
 B6.	
   Using	
@@ -298,40 +337,42 @@ B6.
   we	
   determine	
   
+
 	
-  𝜃!"# = 27!
-⇒ 𝜆!"# = 683  𝑛𝑚	
+  𝜃!"# = 27! ⇒ 𝜆!"# = 683  𝑛𝑚	
   
+
 	
-  𝜃!"# = 41!
-⇒ 𝜆!"# = 719  𝑛𝑚	
+  𝜃!"# = 41! ⇒ 𝜆!"# = 719  𝑛𝑚	
   
+
 	
   Δ𝜆 = 𝜆!"# − 𝜆!"# = 36  𝑛𝑚	
   
-Δ𝑛 =
-𝜋
-2
-𝑛
-Δ𝜆
-𝜆
-= 0.12	
+                                                                            𝜋 Δ𝜆
+                                                                    Δ𝑛 =     𝑛   = 0.12	
+  
+                                                                            2 𝜆
+	
+  
+
+	
+  
+
+
+	
+                                                                               	
+  3	
+  
+                    	
+                                                                        	
+                         Solution	
   
 	
   
 	
-  	
-   	
-   Solution	
   
-	
-  
-	
-   	
-   4	
-  
-	
-  
+
 B7.	
   	
   Minimum	
@@ -341,46 +382,67 @@ B7.
   sample	
   is	
   at	
-  𝜃! = 51!
-.	
+  𝜃! = 51! .	
   
-0 5 10 15 20 25 30 35 40 45 50 55 60 65 70
-0
-100
-200
-300
-Transmittance
-Incidence angle θ, deg
-dry
-wet
-Sample X
-	
+
+
+                                                                      Sample X
+                                                                                                            dry
+                                                                                                            wet
+                             300
+
+
+
+
+             Transmittance
+                             200
+
+
+
+
+                             100
+
+
+
+
+                              0
+
+
+
+                                   0   5   10 15 20 25 30 35 40 45 50 55 60 65 70
+
+                                                          Incidence angle θ, deg
+                                                                                                                  	
   
-Fig.	
+                                                                                       Fig.	
   3	
   
+
 	
   
+
 B8.	
   	
   Using	
   (2s)	
   for	
-  𝑛!"#	
+  𝑛!"# 	
   and	
-  𝑛!"#	
+  𝑛!"# 	
   one	
   can	
   obtain	
   
-2𝐷 𝑛!"#
-!
-− sin! 𝜃! = 𝜆	
+
+                                                                         !
+                                                                     2𝐷 𝑛!"# − sin! 𝜃! = 𝜆	
   
-2𝐷 𝑛!"#
-!
-− sin! 𝜃! = 𝜆	
+
+
+                                                                         !
+                                                                     2𝐷 𝑛!"# − sin! 𝜃! = 𝜆	
   
+
 Using	
   (4)	
   and	
@@ -391,23 +453,18 @@ Using
   we	
   determine	
   
-7
-9
-𝑝 = 𝑛!"#
-!
-− 𝑛!"#
-!
-= sin!
-𝜃! − sin!
-𝜃!	
+                                                        7      !      !
+                                                          𝑝 = 𝑛!"# − 𝑛!"# = sin! 𝜃! − sin! 𝜃! 	
   
-𝑝 = 0.31	
+                                                        9
+                                                                                  𝑝 = 0.31	
   
-𝑛!!" =
-𝑛! − 𝑝
-1 − 𝑝
-= 1.72	
+
+                                                                                       𝑛! − 𝑝
+                                                                    𝑛!!" =                    = 1.72	
   
+                                                                                       1−𝑝
+
 B9.Taking	
   	
   𝛥𝑛 = 0.12	
@@ -416,51 +473,44 @@ B9.Taking
   we	
   get	
   
-𝑛! = 𝑛 +
-Δ𝑛
-2
-= 1.59	
-  	
-   	
-   Solution	
+                                                                                            Δ𝑛
+                                                                        𝑛! = 𝑛 +               = 1.59	
+  
+                                                                                             2
+
+
+	
+                                                                                         	
+  4	
+  
+                	
+                                                                      	
+                                         Solution	
   
 	
   
-	
-   	
-   5	
+                                                                                      Δ𝑛
+                                                                       𝑛! = 𝑛 −          = 1.47	
   
-𝑛! = 𝑛 −
-Δ𝑛
-2
-= 1.47	
-  
+                                                                                       2
 	
   
+
 Equation	
   (4)	
   yields	
   
-𝑝! =
-𝑛!!"
-!
-− 𝑛!
-!
-𝑛!!"
-!
-− 1
-= 0.22	
+                                                                              !
+                                                                             𝑛!!" − 𝑛!!
+                                                                      𝑝! =     !        = 0.22	
   
-𝑝! =
-𝑛!!"
-!
-− 𝑛!
-!
-𝑛!!"
-!
-− 1
-= 0.41	
+                                                                             𝑛!!" −1
+                                                                              !
+                                                                             𝑛!!" − 𝑛!!
+                                                                      𝑝! =     !        = 0.41	
   
+                                                                             𝑛!!" −1
+
 Part	
   C	
   
@@ -477,93 +527,150 @@ C1.
   minima	
   at	
   angles	
-  𝜑! = 43∘
-,𝜑! = 35∘
-,  𝜑! =
-29∘
-  ,	
+  𝜑! = 43∘ , 𝜑! = 35∘ ,   𝜑! =
+                         !"                    !"                     !"
+29∘   ,	
   therefore	
-  𝜆!
-!"
-= 682  𝑛𝑚,𝜆!
-!"
-= 574  𝑛𝑚,𝜆!
-!"
-= 485  𝑛𝑚.	
+  𝜆! = 682  𝑛𝑚, 𝜆! = 574  𝑛𝑚, 𝜆! = 485  𝑛𝑚.	
   
+
 C2.	
   	
   
-0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
-0
-1
-2
-3
-Incidence angle θ, deg
-Transmittance
-Red laser Sample Y
-	
+
+
+                                                                    Sample Y                          Red laser
+
+
+
+                                       3
+
+
+
+
+                       Transmittance
+                                       2
+
+
+
+
+                                       1
+
+
+
+
+                                       0
+                                           0   5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+
+                                                                 Incidence angle θ, deg
+                                                                                                                          	
   
-Fig.	
+                                                                                 Fig.	
   4	
   
+
 	
-   	
-  	
-   	
-   Solution	
+                                                        	
+  
+
+
+
+
+	
+                                                                                   	
+  5	
+  
+                           	
+                                                       	
+                                          Solution	
   
 	
-  
-	
-   	
-   6	
   
 C3.	
   
+
+
+                                                                Sample Y                     Green laser
+
+
+                                         200
+
+
+
+
+                     Transmittance, µA
+                                         150
+
+
+
+
+                                         100
+
+
+
+
+                                         50
+
+
+
+
+                                          0
+                                               0   5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+
+                                                                Incidence angle θ, deg
 	
+                                                                                                                       	
   
-0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
-0
-50
-100
-150
-200
-Transmittance, µA
-Incidence angle θ, deg
-Green laser Sample Y
-	
-  
-Fig.	
+                                                                             Fig.	
   5	
   
+
 C4.	
   	
   
-0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
-0
-500
-1000
-1500
-Transmittance
-Incidence angle θ, der
-Blue laser Sample Y
-	
-  	
-   	
-   Solution	
+
+
+                                                                    Sample Y                         Blue laser
+                                  1500
+
+
+
+
+                                  1000
+
+
+
+
+              Transmittance
+                                    500
+
+
+
+
+                                          0
+                                               0   5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90
+
+                                                                Incidence angle θ, der
+                                                                                                                  	
   
+
 	
-  
-	
-   	
-   7	
-  
-Fig.	
+                                                                               	
   6	
   
+              	
+                                                                    	
+                                       Solution	
+  
 	
   
+                                                                             Fig.	
+  6	
+  
+
+	
+  
+
 C5.	
   Using	
   (6s),	
@@ -575,85 +682,97 @@ C5.
   an	
   arbitrary	
   order	
-  𝑚!
-= 𝑚 + 𝑐𝑜𝑛𝑠𝑡  
-𝜆! =
-𝜆𝑛
-𝑛! − sin! 𝜃!
+  𝑚 ! = 𝑚 + 𝑐𝑜𝑛𝑠𝑡  
+                                                                             𝜆𝑛
+                                                            𝜆! =                          	
+  
+                                                                      𝑛! − sin! 𝜃!
+
 	
   
-	
+
+                                                      𝜆, 𝑛𝑚	
+         𝜃,   𝑑𝑒𝑔	
+             𝜆! ,   𝑛𝑚	
+     m’	
   
-𝜆,𝑛𝑚	
-   𝜃,  𝑑𝑒𝑔	
-   𝜆!,  𝑛𝑚	
-   m’	
-  
-659	
-   21	
+                                                     659	
+            21	
   	
-   678	
+               678	
   	
-   1	
+       1	
   
-530	
-   34	
-   569	
-   2	
+                                                     530	
+            34	
+                   569	
+           2	
   
-400	
-   57	
-   478	
-   3	
+                                                     400	
+            57	
+                   478	
+           3	
   
-400	
-   30	
-   423	
-   4	
+                                                     400	
+            30	
+                   423	
+           4	
   
 	
   
+                                                          !
 C6.	
   According	
   to	
   (2s)	
   dependence	
-  𝑚′
-!
-!
-	
+  𝑚′            	
   should	
   be	
   linear:	
   
-2𝐷𝑛 = 𝑚!
-− 𝑐𝑜𝑛𝑠𝑡 𝜆	
+                                                          !
+
+                                                              2𝐷𝑛 = 𝑚 ! − 𝑐𝑜𝑛𝑠𝑡 𝜆	
   
-𝑚!
-=
-2𝐷𝑛
-𝜆
-+ 𝑐𝑜𝑛𝑠𝑡	
+                                                                            2𝐷𝑛
+                                                                 𝑚! =           + 𝑐𝑜𝑛𝑠𝑡	
   
-0,0014 0,0016 0,0018 0,0020 0,0022 0,0024
-1
-2
-3
-4
-m'
-1/λ, nm-1
-Value Standard Error
-Intercept -3,92698 0,14776
-Slope 3343,2861 75,72663
-Sample Y
-	
+                                                                             𝜆
+
+                                                         Sample Y
+
+                     4                Value       Standard Error
+                         Intercept       -3,92698        0,14776
+                         Slope          3343,2861               75,72663
+
+
+                     3
+
+
+
+             m'
+
+                     2
+
+
+
+
+                     1
+
+
+                     0,0014      0,0016          0,0018           0,0020                   0,0022        0,0024
+                                                                       -1
+                                                          1/λ, nm
+                                                                                                                      	
   
-Fig.	
+                                                                             Fig.	
   7	
   
-𝑚 = 𝑚!
-− 𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡,	
+
+                                                              𝑚 = 𝑚 ! − 𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡,	
   
+
 where	
   intercept	
   is	
@@ -661,32 +780,36 @@ where
   from	
   Fig.7	
   
-𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡 ≃ −4	
+
+                                                                   𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡 ≃ −4	
   
-𝜆,  𝑛𝑚	
-   m	
-  	
-   	
-   Solution	
+
+                                                                       𝜆,   𝑛𝑚	
+             m	
+  
+
+	
+                                                                               	
+  7	
+  
+                	
+                                                                              	
+                                                                       Solution	
   
 	
   
-	
-   	
-   8	
-  
-677	
+                                                                               677	
   	
-   5	
+                   5	
   
-568	
-   6	
+                                                                               568	
+                       6	
   
-479	
-   7	
+                                                                               479	
+                       7	
   
-423	
-   8	
+                                                                               423	
+                       8	
   
 	
   
@@ -695,11 +818,10 @@ where
 С7.	
   	
   
-𝐷! =
-𝑆𝑙𝑜𝑝𝑒
-2𝑛
-	
+                                                                                                𝑆𝑙𝑜𝑝𝑒
+                                                                                  𝐷! =                	
   
+                                                                                                 2𝑛
 where	
   slope	
   is	
@@ -708,11 +830,13 @@ where
   Fig.	
   7	
   
-𝐷! = 1080  𝑛𝑚	
+
+                                                                            𝐷! = 1080  𝑛𝑚	
   
+
 C8.	
   Let	
-  𝐼!	
+  𝐼! 	
   be	
   the	
   half-­‐sum	
@@ -729,37 +853,38 @@ C8.
   the	
   minimum,	
   and	
-  𝐼!	
+  𝐼! 	
   be	
   
+                                                                              !
 intensity	
   in	
   the	
   minimum.	
   Transmittance	
-  𝑡 =
-!!
-!!
-.	
+  𝑡 = ! .	
   
-𝜆,  𝑛𝑚	
-   t	
+                                                                              !!
+
+                                                                            𝜆,   𝑛𝑚	
+                    t	
   
-677	
+                                                                            677	
   	
-   0.42	
+                    0.42	
   
-568	
-   0.29	
+                                                                            568	
+                        0.29	
   
-479	
-   0.22	
+                                                                            479	
+                        0.22	
   
-423	
-   0.63	
+                                                                            423	
+                        0.63	
   
 	
   
+
 Part	
   D	
   
@@ -772,47 +897,43 @@ D1.
   6	
   maximums:	
   
-𝜆!,  𝑛𝑚	
+
+                                                                                     𝜆! ,   𝑛𝑚	
   
-808	
+                                                                                     808	
   
-696	
+                                                                                     696	
   
-611	
+                                                                                     611	
   
-499	
+                                                                                     499	
   
-462	
+                                                                                     462	
   
-402	
+                                                                                     402	
   
+                                                                  !
 D2.	
   According	
   to	
   (2s)	
   dependence	
-  𝑚′
-!
-!
-	
+  𝑚′                    	
   should	
   be	
   linear:	
   
-2𝐷𝑛 = 𝑚!
-− 𝑐𝑜𝑛𝑠𝑡 𝜆	
+                                                                  !
+
+                                                                      2𝐷𝑛 = 𝑚 ! − 𝑐𝑜𝑛𝑠𝑡 𝜆	
   
-𝑚!
-=
-2𝐷𝑛
-𝜆
-+ 𝑐𝑜𝑛𝑠𝑡	
+                                                                                     2𝐷𝑛
+                                                                         𝑚! =            + 𝑐𝑜𝑛𝑠𝑡	
   
+                                                                                      𝜆
+                              !
 Dependence	
-  𝑚′
-!
-!
-  will	
+  𝑚′                    will	
   be	
   linear	
   if	
@@ -824,88 +945,104 @@ Dependence
   minimums	
   (see	
   fig.8).	
-  	
-   	
-   Solution	
   
+                              !
+
+
+
+
 	
-  
-	
-   	
-   9	
-  
-0,0010 0,0015 0,0020 0,0025
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-m'
-1/λ, nm-1
-Value Standard Error
-Intercept -6,03651 0,23187
-Slope 5587,2903 123,57751
-Sample Z
-	
-  
-Fig.	
+                                                                                           	
   8	
   
+               	
+                                                              	
+                                Solution	
+  
 	
   
-𝑚 = 𝑚!
-− 𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡	
+
+                                                              Sample Z
+                           9
+
+                           8             Value      Standard Error
+                               Intercept   -6,03651      0,23187
+                           7   Slope           5587,2903        123,57751
+
+                           6
+
+                           5
+                      m'
+                           4
+
+                           3
+
+                           2
+
+                           1
+
+                           0
+                           0,0010                 0,0015             0,0020                      0,0025
+
+                                                           1/λ, nm-1
+                                                                                                          	
   
+                                                                       Fig.	
+  8	
+  
+
+	
+  
+
+                                                           𝑚 = 𝑚 ! − 𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡	
+  
+
 From	
   fig.	
   8	
   𝐼𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡 = −6.	
   
-𝑚 = 𝑚!
-+ 6	
+
+                                                                  𝑚 = 𝑚 ! + 6	
   
-𝜆!,  𝑛𝑚	
-   𝑚′	
-   𝑚	
+
+                                                            𝜆! ,   𝑛𝑚	
+       𝑚′	
+       𝑚	
   
-808	
-   1	
-   7	
+                                                            808	
+             1	
+       7	
   
-696	
-   2	
-   8	
+                                                            696	
+             2	
+       8	
   
-611	
-   3	
-   9	
+                                                            611	
+             3	
+       9	
   
-499	
-   5	
-   11	
+                                                            499	
+             5	
+       11	
   
-462	
-   6	
-   12	
+                                                            462	
+             6	
+       12	
   
-402	
-   8	
-   14	
+                                                            402	
+             8	
+       14	
   
 	
   
+
 D3.	
   
-𝐷! =
-𝑆𝑙𝑜𝑝𝑒
-2𝑛
-,	
+                                                                             𝑆𝑙𝑜𝑝𝑒
+                                                                  𝐷! =             ,	
   
+                                                                              2𝑛
 where	
   slope	
   is	
@@ -914,26 +1051,25 @@ where
   Fig.	
   8	
   
-𝐷! = 1802  𝑛𝑚	
+
+                                                                𝐷! = 1802  𝑛𝑚	
   
+
 D4.	
   
-𝑚 =
-𝑆𝑙𝑜𝑝𝑒
-𝜆
-⇒ 𝜆 =
-𝑆𝑙𝑜𝑝𝑒
-𝑚
+                                                                𝑆𝑙𝑜𝑝𝑒     𝑆𝑙𝑜𝑝𝑒
+                                                           𝑚=         ⇒𝜆=       	
+  
+                                                                  𝜆         𝑚
 	
-  	
-   	
-   Solution	
+                                                                          	
+  9	
+  
+                	
+                                                                	
+                                                                   Solution	
   
 	
-  
-	
-   	
-   10	
   
 Missed	
   minimums	
@@ -944,22 +1080,26 @@ Missed
   and	
   13:	
   
+
+                                                                                    
+	
+  
+
+	
+  
+
+                                                                        𝑚	
+      𝜆!   𝑛𝑚	
+  
+                                                                       10	
+      559	
+  
+                                                                       13	
+      430	
   
 	
   
-	
-  
-𝑚	
-   𝜆!  𝑛𝑚	
-  
-10	
-   559	
-  
-13	
-   430	
-  
-	
-  
+
 Part	
   E	
   
@@ -990,6 +1130,7 @@ E1.
   is	
   n-­‐6.	
   
+
 E2.	
   For	
   the	
@@ -1000,10 +1141,19 @@ E2.
   𝑚 = 13	
   are	
   missing,	
-  𝑚 = 8,9,11,12	
+  𝑚 = 8, 9, 11, 12	
   are	
   not.	
   So,	
   it	
   is	
-  hi5-­‐5.
+  hi5-­‐5.	
+  
+
+
+
+
+	
+                                                                               	
+  
+                                                                                10
