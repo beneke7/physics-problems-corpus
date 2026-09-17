@@ -1,0 +1,80 @@
+---
+id: solution-document-ipho-2016-e2-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2016/E2_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2016-e2]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2016/E2_S.pdf."
+---
+
+Problem 2 : Solution – Jumping Beads - a model for phase transitions and instabilities (10 points)
+Part A. Critical driving amplitude (3.3 points)
+A1 (1.2 pts)
+Total number of seeds: N0 = 50.
+Number of readings: n = 6.
+AD, [V] N1 N̄1 = 1
+n⌃n
+i=1Ni
+1 N̄2 = N0 N̄1 =
+q
+⌃n
+i=1(Ni N̄)2
+n 1 SE = p
+n
+1.00 1 5 2 1 2 2 2.2 47.8 1.5 0.6
+1.05 1 0 2 3 1 2 1.5 48.5 1.1 0.5
+1.10 4 4 1 7 3 5 4.0 46.0 2.0 0.8
+1.15 26 5 18 7 18 7 13.5 36.5 8.4 3.4
+1.20 13 16 27 12 17 13 16.4 33.7 5.6 2.3
+1.25 26 28 22 22 14 23 22.5 27.5 4.8 2.0
+1.30 27 24 8 22 22 21 20.7 29.3 6.6 2.7
+1.40 22 18 17 23 23 25 21.4 28.7 3.2 1.3
+1.50 19 27 27 24 19 21 22.8 27.2 3.7 1.5
+1.60 27 15 23 23 23 30 23.5 26.5 5.1 2.1
+Plot the data in the graph A2.
+A2 (1.1 pts)
+Error bars represent either standard deviation ( ) or standard error (SE).
+A3 (1.0 pts)
+AD,crit = (1.25 ± 0.05) V
+1Part B. Calibration (3.2 points)
+B1 (0.5 pts)
+B2 (0.8 pts)
+AD [V] 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1
+A [mm] 1.0 1.5 2.0 2.2 2.6 3.0 3.2 3.4 4.0 4.1 4.2 4.5 4.8 5.0 5.0 5.1 5.1 5.2 5.2
+Instrumental error ±0.5 mm.
+B3 (1.0 pts)
+B4 (0.8 pts)
+A = k0 + k1 ⇥ AD,
+where:
+k0 = 0.2 [mm], k1 = 3.1 [mm/V]
+B5 (0.1 pts)
+Acrit = (4.4 ± 0.1) mm
+2Part C. Critical exponent (3.5 points)
+C1 (1.1 pts)
+AD, [V] A, [mm] |N1 N2
+N1+N2
+| |A2 A2
+0|
+1.00 3.5 0.91 6.8
+1.05 3.6 0.94 5.7
+1.10 3.8 0.84 4.6
+1.15 3.9 0.46 3.5
+1.20 4.1 0.35 2.2
+1.25 4.2 0.10 1.0
+1.30 4.4 0.17 0.3
+1.40 4.7 0.15
+1.50 5.0 0.09
+1.60 5.3 0.06
+Plot the data in the graph C2.
+C2 (1.0 pts)
+C3 (1.4 pts)
+y = a · xb, where x = |A2 A2
+0|, y = |N1 N2
+N1+N2
+|.
+Critical exponent b = 0.6 ± 0.2.
+3

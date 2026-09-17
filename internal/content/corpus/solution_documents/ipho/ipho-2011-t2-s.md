@@ -1,0 +1,570 @@
+---
+id: solution-document-ipho-2011-t2-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2011/T2_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2011-t2]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2011/T2_S.pdf."
+---
+
+Theoretical Competition: Solution
+Question 2 Page 1 of 7
+1
+2. SOLUTION
+2.1. The bubble is surrounded by air.
+Cutting the sphere in half and using the projected area to balance the forces
+give
+  2 2
+0 0 0
+0
+2 2
+4
+i a
+i a
+P R P R R
+P P
+R
+   
+
+ 
+ 
+… (1)
+The pressure and density are related by the ideal gas law:
+or
+RT
+PV nRT P
+M
+
+  , where M = the molar mass of air. … (2)
+Apply the ideal gas law to the air inside and outside the bubble, we get
+,
+i i i
+a a a
+M
+T P
+R
+M
+T P
+R
+
+
+
+
+0
+4
+1 i i i
+a a a a
+T P
+T P R P
+ 
+
+ 
+    
+ 
+… (3)
+, , i i i P T 
+O
+0 R , , a a a P T 
+, s t Theoretical Competition: Solution
+Question 2 Page 2 of 7
+2
+2.2. Using 1
+0.025Nm ,  
+ 0 1.0 cm R  and 5 2
+1.013 10 Nm a P 
+  , the numerical value
+of the ratio is
+0
+4
+1 1 0.0001 i i
+a a a
+T
+T R P
+ 
+
+    … (4)
+(The effect of the surface tension is very small.)
+2.3. Let W = total weight of the bubble, F = buoyant force due to air around the
+bubble
+ 
+2 3
+0 0
+2 3
+0 0
+0
+mass of film+mass of air
+4
+4
+3
+4 4
+4 1
+3
+s i
+a a
+s
+i a
+W g
+R t R g
+T
+R tg R g
+T R P
+   
+ 
+  
+
+ 
+   
+ 
+ 
+    
+ 
+… (5)
+The buoyant force due to air around the bubble is
+3
+0
+4
+3
+a B R g    … (6)
+If the bubble floats in still air,
+3 2 3
+0 0 0
+0
+4 4 4
+4 1
+3 3
+a a
+a s
+i a
+B W
+T
+R g R tg R g
+T R P
+ 
+    
+
+ 
+    
+ 
+… (7)
+Rearranging to give
+0
+0 0
+4
+1
+3
+307.1 K
+a a
+i
+a s a
+R T
+T
+R t R P
+ 
+ 
+ 
+      
+
+… (8)
+The air inside must be about 7.1 C  warmer.Theoretical Competition: Solution
+Question 2 Page 3 of 7
+3
+2.4. Ignore the radius change  Radius remains 0 1.0 cm R 
+(The radius actually decreases by 0.8% when the temperature decreases
+from 307.1 K to 300 K. The film itself also becomes slightly thicker.)
+The drag force from Stokes’ Law is 0 6 F R u   … (9)
+If the bubble floats in the updraught,
+2 3 3
+0 0 0 0
+4 4
+6 4
+3 3
+s i a
+F W B
+R u R t R g R g       
+ 
+ 
+    
+ 
+… (10)
+When the bubble is in thermal equilibrium i a T T  .
+2 3 3
+0 0 0 0
+0
+4 4 4
+6 4 1
+3 3
+s a a
+a
+R u R t R g R g
+R P
+
+      
+   
+       
+   
+Rearranging to give
+2
+0
+0 0
+4 4
+3 4
+6 6
+a
+a s
+R g
+R P R tg
+u
+
+
+
+ 
+ 
+ 
+    … (11)
+2.5. The numerical value is 0.36 m/s u  .
+The 2nd
+term is about 3 orders of magnitude lower than the 1st
+term.
+From now on, ignore the surface tension terms.
+2.6. When the bubble is electrified, the electrical repulsion will cause the bubble
+to expand in size and thereby raise the buoyant force.
+The force/area is (e-field on the surface × charge/area)
+There are two alternatives to calculate the electric field ON the surface of
+the soap film.Theoretical Competition: Solution
+Question 2 Page 4 of 7
+4
+A. From Gauss’s Law
+Consider a very thin pill box on the soap surface.
+E= electric field on the film surface that results from all other parts of the
+soap film, excluding the surface inside the pill box itself.
+q E = total field just outside the pill box = 2
+0 1 0 4
+q
+R
+
+ 
+
+= E+ electric field from surface charge 
+= E E 
+Using Gauss’s Law on the pill box, we have
+0 2
+E
+
+
+ perpendicular to the film
+as a result of symmetry.
+Therefore, 2
+0 0 0 0 1
+1
+2 2 2 4
+q
+q
+E E E
+R
+
+  
+    
+      … (12)
+B. From direct integration
+O
+, i a i P T   
+1 R
+, , a a a P T 
+q
+E
+o
+chargeq
+R
+
+R
+2
+2 sin .
+4
+q
+q R R
+R
+   
+
+ 
+ 
+ 
+A OTheoretical Competition: Solution
+Question 2 Page 5 of 7
+5
+To find the magnitude of the electrical repulsion we must first find the electric
+field intensity E at a point on (not outside) the surface itself.
+Field at A in the direction OA is
+    2 2 2
+1 1 1
+2
+0 0
+1
+4 2 sin 4 1
+sin cos
+4 2 2 2 2
+2 sin
+2
+A
+q R R q R
+E
+R
+      
+ 
+  
+ 
+   
+   
+ 
+ 
+    2 2 180
+1 1
+0 0 0
+4 4
+cos
+2 2 2 2
+A
+q R q R
+E d
+
+
+   
+ 
+
+
+ 
+   
+ 
+ … (13)
+The repulsive force per unit area of the surface of bubble is
+ 
+2 2
+1
+2
+1 0
+4
+4 2
+q R q
+E
+R
+
+ 
+ 
+  
+ 
+… (14)
+Let i P and i  be the new pressure and density when the bubble is electrified.
+This electric repulsive force will augment the gaseous pressure i P.
+i Pis related to the original i P through the gas law.
+3 3
+1 0
+4 4
+3 3
+i i P R P R    
+3 3
+0 0
+1 1
+i i a
+R R
+P P P
+R R
+   
+      
+   
+… (15)
+In the last equation, the surface tension term has been ignored.
+From balancing the forces on the half-sphere projected area, we have (again
+ignoring the surface tension term)
+ 
+ 
+2 2
+1
+0
+2 3 2
+1 0
+1 0
+4
+2
+4
+2
+i a
+a a
+q R
+P P
+q R R
+P P
+R
+
+
+
+
+ 
+ 
+   
+ 
+… (16)Theoretical Competition: Solution
+Question 2 Page 6 of 7
+6
+Rearranging to get
+4
+2
+1 1
+2 4
+0 0 0 0
+0
+32 a
+R R q
+R R R P  
+   
+      
+   
+… (17)
+Note that (17) yields 1
+0
+1
+R
+R
+ when 0 q , as expected.
+2.7. Approximate solution for 1 R when
+2
+2 4
+0 0
+1
+32 a
+q
+R P  
+
+Write 1 0 0 , R R R R R    
+Therefore,
+4
+1 1
+0 0 0 0
+1 , 1 4
+R R R R
+R R R R
+   
+     
+ 
+… (18)
+Eq. (17) gives:
+2
+2 3
+0 0 96 a
+q
+R
+R P  
+  … (19)
+2 2
+1 0 0 2 3 2 4
+0 0 0 0
+1
+96 96 a a
+q q
+R R R
+R P R P    
+ 
+     
+ 
+… (20)
+2.8. The bubble will float if
+3 2 3
+1 0 0
+4 4
+4
+3 3
+a s i
+B W
+R g R tg R g      
+
+ 
+… (21)
+Initially, for 0 i a i a T T        and 1 0
+0
+1
+R
+R R
+R
+  
+   
+ Theoretical Competition: Solution
+Question 2 Page 7 of 7
+7
+ 
+3
+3 2 3
+0 0 0
+0
+2
+0
+2
+2
+0 2
+0 0
+2 3
+2 0 0
+4 4
+1 4
+3 3
+4
+3 4
+3
+4 3
+4
+3 96
+96
+a s a
+a s
+a s
+a
+s a
+a
+R
+R g R tg R g
+R
+R g R tg
+q
+g R tg
+R P
+R t P
+q
+     
+   
+   
+ 
+  
+
+  
+    
+ 
+ 
+
+
+… (22)
+9
+256 10 C 256 q 
+   nC
+Note that if the surface tension term is retained, we get
+2 2 4
+0 0
+1 0
+0
+96
+1
+2 4
+1
+3
+a
+a
+q R P
+R R
+R P
+ 
+
+ 
+ 
+ 
+       
+              

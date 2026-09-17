@@ -1,0 +1,32 @@
+---
+id: nbpho-2023-surface-tension
+source: nbpho
+native_id: "2023 P9 Surface tension"
+year: 2023
+language: en
+translated: false
+topic: [optics, experimental-skills, measurement]
+subtopic: [surface-tension, optics, lens-formula, water-properties]
+math_tools: [geometry-trigonometry, calculus]
+format: experimental
+points: 10
+core_ideas: [kalda-mechanics-idea39]
+has_figure: false
+figure_files: []
+provenance_note: "NBPhO 2023, Problem 9, by Jaan Kalda and Eero Uustalu. Extracted from born-digital PDF (cache/phoxiv/nbpho/2023.pdf) via Mathpix OCR."
+verification_status: pending
+has_solution: false
+
+---
+
+**9. Surface tension (10 points)** — *Jaan Kalda, Eero Uustalu.*
+
+**Tools:** a syringe, a small glass plate, a support for holding the glass plate horizontally at an adjustable height, a cup with water (coefficient of refraction of water $n_{w}=1.33$), a caliper, a sheet of graph paper. Your working room has ceiling lights at an approximate height of 3 m. The glass plate holder is a short piece of plastic pipe with a nut; put the glass plate on top of the nut and turn the nut to adjust the height. By turning the nut, one can change the holder height only by the thickness of the nut; there are also spare nuts that can be stacked to increase the total height of the pipe-nuts system, and a cap that fits into the pipe - use it if there is a need to make the distance between the glass plate and the surface beneath it smaller than the height of the pipe. **NB!** Hold the glass plate only from its matte part and do not touch the glossy (transparent) part as fingerprints will affect the value of the contact angle. If you accidentally do touch, ask organisers to clean the glass surface.
+
+**i)** *(3 points)* Put a small drop of water onto the glass plate; this will form a plano-convex lens. Determine the focal length of this lens and measure its diameter.
+
+**ii)** *(2 points)* Calculate the curvature radius of the water surface and the water-glass contact angle $\alpha$. The contact angle is defined as the angle under which the water surface (the air-water interface) meets the surface of the glass plate.
+
+**iii)** *(3 points)* Now increase the amount of water on the glass plate so that it covers a big part of the glass plate so that its top surface becomes almost flat. Determine the thickness of the water layer.
+
+**iv)** *(2 points)* Calculate the surface tension of water $\sigma$. **Hint:** a given amount of water takes a shape which minimises its total potential energy. Use reasonable approximations. Keep in mind that the glass-water interface makes also a certain contribution $U_{gw}$ to the full surface energy, the magnitude of which is related to the contact angle: $U_{gw}=-\sigma \cos \alpha A$, where $A$ denotes the surface area of the glass-water interface.

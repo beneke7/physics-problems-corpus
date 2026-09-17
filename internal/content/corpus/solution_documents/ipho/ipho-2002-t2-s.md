@@ -1,0 +1,758 @@
+---
+id: solution-document-ipho-2002-t2-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2002/T2_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2002-t2]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2002/T2_S.pdf."
+---
+
+II- 1
+THEORETICAL COMPETITION
+Tuesday, July 23rd
+, 2002
+Solution II: Sensing Electrical Signals
+1. When a point current source Is is in infinite isotropic medium, the current
+density vector at a distance rfrom the point is
+r
+r
+I
+j s r r
+3
+4π
+=
+[+1.5 pts] (without vector notation, -0.5 pts)
+2. Assuming that the resistivities of the
+prey body and that of the surrounding
+seawater are the same, implying the
+eliminationoftheboundarysurrounding
+the prey, the two spheres seem to be in
+infiniteisotropic medium with the
+resistivityofρ. When a small sphere
+producescurrentatarate Is, the current
+flux density at a distance r from the
+sphere's center is also
+r
+r
+I
+j s r r
+3
+4π
+=
+Theseawaterresistivityis ρ, therefore the field strength atr is
+( ) r
+r
+I
+j r E s r r r r
+3
+4π
+ρ
+ρ = = [+0.2 pts]
+In the model, we have two small spheres. One is at positive voltage relative to the
+other therefore currentIs flowsfromthepositivelychargedspheretothenegatively
+charged sphere. They are separated by ls. The field strength at P(0,y) is:
+2
+s l
+x − = 0 = x
+P
+y
++ −
+2
+s l
+x + =
+preyII- 2
+( )
+( ) pts] 1.0 [ y ls for
+4
+2
+4
+2
+2
+1
+2
+2
+1
+4
+pts] 0.8 [
+3
+2
+3
+2
+2
+2
+3
+2
+2 2
+3
+2
+2
++ << − ≈
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ 
+
+
+
+
+
+−
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+− −
+
+
+
+
+
+
+
+
++ 
+
+
+
+
+
++ 
+
+
+
+
+
++ −
+
+
+
+
+
+
+
+
++ 
+
+
+
+
+
+=
++ + = − +
+i
+y
+l I
+E
+y
+l
+i l I
+yj i
+l
+y
+l
+yj i
+l
+y
+l
+I
+E E E
+s s
+p
+s
+s s
+s
+s
+s
+s
+s
+p
+π
+ρ
+π
+ρ
+π
+ρ
+r
+r r r
+3. The field strength along the axis between the two source spheres is:
+( ) ( ) i
+l
+x
+l
+x
+I
+x E
+s s
+s
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+−
+= 2 2
+2
+1
+2
+1
+4π
+ρ r
+[+0.5 pts]
+The voltage difference to produce the given current Is is
+( ) ( )( )
+( )
+pts] 0.5 [ . for
+2
+2
+2 4
+2 2 2
+4
+2 2
+1
+2 2
+1
+1 2
+1
+2 2
+1
+2 2
+1
+1 2
+1
+4
+pts] 0.5 [ .
+2
+1
+2
+1
+4
+. 2 2
+2
+2
++ >> ≈ ∆ =
+ 
+
+
+ 
+
+
+−
+−
+=  
+
+
+ 
+
+
+−
+− −
+=  
+
+
+ 
+
+
+−
+− =
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
++ + −
+−
+
+
+
+
+
+
++ −
++ −
++
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+− + −
+−
+
+
+
+
+
+
+− −
++ −
+=
++ −
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+−
+− = − = − = ∆ = ∫ ∫
+
+
+
+
+
+
+−
+
+
+
+
+
+
++ −
+− +
+s s
+s
+s
+s
+s s
+s s
+s
+s
+s s s
+s s s s
+s s s
+s
+s
+s
+s s
+s
+s s
+s
+s s
+s
+s
+s
+s s
+s
+r
+l
+r
+l
+s
+r l
+r
+I
+V V
+r l
+r l
+r
+I
+r r l
+r r l I
+r l r
+I
+l
+r
+l l
+r
+l l
+r
+l l
+r
+l
+I
+idx i
+l
+x
+l
+x
+I
+x d x E V V V V
+s
+s
+s
+s
+π
+ρ
+π
+ρ
+π
+ρ
+π
+ρ
+π
+ρ
+π
+ρ r rII- 3
+Theresistance between the two source spheres is:
+s s
+s
+s
+r I
+V
+R
+π
+ρ
+2
+= =
+[+0.5 pts]
+The power produced by the source is:
+s
+s
+s s
+r
+I
+V I P
+π
+ρ
+2
+2
+= =
+[+0.5 pts]
+4. V is the voltage difference between the
+detector’s spheres due to the electric
+field induced bytheprey, Rm is the inner
+resistanceduetothesurroundingsea
+water.Vd and Rd are respectively the
+voltage difference between the detecting
+spheres and the resistance of the
+detectingelementwithinthepredator
+andid is the current flowing in the closed
+circuit.
+. Analog to the resistance between the two
+source spheres, the resistance of the
+mediumwithresistivityρ between the
+detector spheres, each having a radius of
+rd is:
+d
+m
+r
+R
+π
+ρ
+2
+=
+[+0.5 pts]
+Since ld is much smaller than y,the
+electric field strength between the
+detector spheres can be assumed to be
+constant, that is:
+3
+4 y
+l I
+E s s
+π
+ρ
+= [+0.2 pts]
+Therefore, the voltage difference present in the medium between the detector spheres
+is:
+3
+4 y
+l l I
+El V d s s
+d
+π
+ρ
+= = [+0.3 pts]
+d R
+m R
+V d V
++
+−
+d i
+s l
+0 = x
+y
++ −
+d l
+d R predator
+preyII- 4
+The voltage difference across the detector spheres is:
+d
+d
+d d s s
+m d
+d
+d
+r
+R
+R
+y
+l l I
+R R
+R
+V V
+π
+ρ π
+ρ
+2
+4 3
++
+=
++
+=
+[+0.5 pts]
+The power transferred from the source to the detector is:
+2
+2
+3
+2
+4
+ 
+
+
+ 
+
+
++
+ 
+
+
+ 
+
+
+=
++
+= =
+d
+d
+d d s s
+d
+m d
+d d d
+r
+R
+R
+y
+l l I
+V
+R R
+V
+V i P
+π
+ρ π
+ρ
+[+0.5 pts]
+5. Pd ismaximumwhen
+( )
+maximum is
+2
+2 2
+m d
+d
+d
+d
+d
+t
+R R
+R
+r
+R
+R
+R
++
+=
+ 
+
+
+ 
+
+
++
+=
+π
+ρ
+[+0.5 pts]
+Therefore,
+( ) ( )
+( )
+( )
+pts] 0.5 [
+2
+0 2
+pts] 0.5 [ 0
+2 1
+4
+2
++ = =
+= − +
++ =
++
++ − +
+=
+d
+m
+optimum
+d
+d m d
+m d
+m d d m d
+d
+t
+r
+R R
+R R R
+R R
+R R R R R
+dR
+dR
+π
+ρ
+Themaximumpoweris:
+( )
+6
+2 2
+3
+max
+32 2 4 y
+r l l I r
+y
+l l I
+P d d s s d d s s imum
+d
+π
+ρ
+ρ
+π
+π
+ρ
+=  
+
+
+ 
+
+
+=
+[+0.5 pts]

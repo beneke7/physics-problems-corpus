@@ -1,0 +1,621 @@
+---
+id: solution-document-bpho-r1-2010-s
+source: bpho-r1
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/bpho-r1/2010_S.pdf
+extraction_method: cached-mmd
+mapped_problems: [bpho-r1-2010-1-q1, bpho-r1-2010-2-q8]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/bpho-r1/2010_S.pdf."
+---
+
+## Q1 2011 BPLO Perce 2
+
+(a)
+
+$$
+\begin{aligned}
+\therefore P V & =n R T \\
+(10) V & =n R(288) \\
+P V & =\frac{1}{2} n R(273+65) \\
+P & =\frac{1}{2} \frac{n R}{V}(338) \\
+& =\frac{1}{2}\left(\frac{10}{288}\right)(338) \\
+P & =5 \cdot 87 \text { aturophers (1) }
+\end{aligned}
+$$
+
+(b)
+
+$$
+\begin{aligned}
+R_{A B} & =\left(\frac{1}{R}+\frac{1}{R_{2}}\right)+R_{3} \\
+\therefore R_{1} & =\frac{R_{1} R_{2}}{R_{1}}+R_{3} \\
+R_{1}\left(R_{1}+R_{2}\right) & =R_{1} R_{2}+R_{3}\left(R_{1}+R_{2}\right) \\
+R_{1}^{2} & =R_{3}\left(R_{1}+R_{2}\right) \\
+R_{3} & =\frac{R_{1}^{2}}{R_{1}+R_{2}}
+\end{aligned}
+$$
+
+(c) An electricfreld him sis alme that at every print along it the taingent is parallel to the field vector at that point.
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-01.jpg?height=133&width=1765&top_left_y=1556&top_left_x=241) 2
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-01.jpg?height=703&width=722&top_left_y=1616&top_left_x=761)
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-01.jpg?height=374&width=547&top_left_y=1639&top_left_x=1529)
+(d) Thin is the equal to the teasion cu'the cable at the support. If To the tus sin and Mrs the maw of its cable the equilibriwe of the cable neg
+(i)
+
+$$
+\begin{aligned}
+2 T \operatorname{sun} 30 & =M g- \\
+2 T\left(\frac{1}{2}\right) & =100(9.51) \\
+T & =951 N) \text { at } 30^{\circ} \text { to hogmental }(1+1)=2
+\end{aligned}
+$$
+
+Q1
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-02.jpg?height=141&width=1987&top_left_y=146&top_left_x=62) Rovolowing howyrotaly for on holf of the cable
+
+$$
+\begin{aligned}
+T_{000} 30 & =T_{0} \\
+T_{0} & =981\left(\frac{\sqrt{3}}{2}\right) \\
+T_{0} & =850 \mathrm{~N}
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-02.jpg?height=151&width=1194&top_left_y=691&top_left_x=233)
+speed of spot.
+
+$$
+\begin{aligned}
+& -\frac{34 \times 60}{2 \pi} \\
+= & \frac{10}{24 \times 60} 10^{-3} \text { cans/mm } \\
+= & 43-6 \mathrm{cms} / \mathrm{min}
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-02.jpg?height=99&width=876&top_left_y=957&top_left_x=321)
+(sive fill waiths for dist $=10 \tan \theta \mathrm{~m}$ )
+(i) Imagein marrov 20.0 m frow ble in calung
+
+Speed of spot s twice that wircur to (i) $=8.73 \mathrm{cms} / \mathrm{min} 1$
+(b)
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-02.jpg?height=130&width=1197&top_left_y=1412&top_left_x=251)
+
+$$
+\frac{1}{2}+\frac{1}{2}=1
+$$
+
+(ii) 10 protons
+
+22 mentrons
+19 electrons
+(g) bondetion for constructure interference, as there is amoddotion plase change of it at air-glars aunface.
+
+$$
+\begin{array}{cl}
+26 \mu=\left(n+\frac{1}{2}\right) \lambda \\
+2(1.52)\left(0.42 \times 10^{-6}\right) & =\left(n+\frac{1}{2}\right) \lambda \\
+n=1 \text { grues } & \lambda_{1}=851 \mathrm{~mm} \\
+n=2 \text { grats } & \lambda_{2}=511 \mathrm{~mm} \\
+n=3 \text { greates } & \lambda_{3}=365 \mathrm{~mm}
+\end{array}
+$$
+
+(b)io Wavelength, 1 , wiric length of chard $=2.4 \mathrm{~m}$
+
+Mass per inst lingth $m=\frac{0.13}{102}=0.1083 \mathrm{~kg} \mathrm{~m}^{-1}$
+Tensceri wi chood $F=50 \mathrm{~g}=50(9.81) \mathrm{N}$
+
+Foxequency of quean by
+
+$$
+\begin{aligned}
+& f \lambda=\sqrt{\frac{F}{m}}=\sqrt{\frac{50(9.881)}{0.1083}} \\
+& f=\frac{1}{2.4} \sqrt{\frac{50(9.81)}{0.1083}} \\
+& f=28 \mathrm{~Hz}
+\end{aligned}
+$$
+
+Penod
+
+$$
+T=\frac{1}{28}=0.0365
+$$
+
+(ii) Aupletude, A, and wax, velocity varelated by
+
+$$
+\begin{aligned}
+V & =A \omega \\
+A & =\frac{v}{2 \pi f} \\
+& =\frac{15}{2 \pi(2.8)} \\
+A & =8.5 \mathrm{~cm}
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-03.jpg?height=91&width=1236&top_left_y=1043&top_left_x=243&polygon=318,1,314,4,310,4,310,12,306,16,302,12,291,12,287,8,287,4,283,4,283,12,279,16,275,16,271,12,263,12,255,4,251,4,251,12,247,16,220,16,212,24,79,24,75,28,71,28,67,24,59,24,55,28,20,28,16,32,12,32,8,36,8,44,4,48,4,59,0,63,0,83,4,87,4,91,1232,91,1236,87,1236,4,1232,1,1224,1,1224,20,1212,32,1177,32,1173,28,1142,28,1138,24,1091,24,1087,28,1075,28,1071,24,1059,24,1056,28,1052,28,1048,24,899,24,895,28,891,28,887,24,871,24,867,28,852,28,848,24,844,24,840,28,828,28,824,24,801,24,797,20,777,20,773,24,769,20,757,20,753,24,738,24,734,20,710,20,695,4,691,4,691,12,683,20,679,20,675,24,671,20,667,20,663,16,667,12,671,12,671,8,667,4,659,4,659,16,655,20,636,20,632,24,585,24,581,28,577,24,561,24,557,28,546,28,542,24,424,24,420,20,412,20,408,24,396,24,393,20,385,20,381,24,357,24,353,20,338,20,334,16,334,12,330,8,330,4,322,4)
+-
+(iii) Penvel $T_{0}=2 \pi \sqrt{\frac{l}{q}}=2 \pi \sqrt{\frac{1.2}{9.81}}$
+
+$$
+T_{0}=2 \times 2 \mathrm{~s}
+$$
+
+(vi) $\quad \frac{T}{T}=0.16$
+
+Ascumption protified as To $\gg T$
+(i) Energy consurestion
+
+$$
+\frac{1}{2} M u^{2}=\frac{1}{2} M r^{2}+\frac{1}{2} M \omega^{2}
+$$
+
+Momentom conservation
+$M u=M r+m \omega$
+
+## Plove
+
+From (1)
+
+$$
+\begin{aligned}
+M\left(u^{2}-v^{2}\right) & =m w^{2} \\
+M(u-v)(u+v) & =m w^{2} \\
+M(u-v) & =m w^{2}
+\end{aligned}
+$$
+
+From (2)
+
+Subg (4) mita (3)
+
+$$
+a+r=w
+$$
+
+(i) Varication Aeternative method in place of Proof."
+
+If $u+v=w$, ithem from 2
+
+$$
+(u-v)=\frac{m}{M} \omega
+$$
+
+Now letas determine if this is consestent with (1)
+Frome (1)
+
+$$
+\begin{array}{ll}
+1 & u^{2}-v^{2}=\frac{m}{M} w^{2} \\
+(S)+(b) & n+s \quad o f(z) q u i s \\
+\left(u^{2}-v^{2}\right) & =(u+v)(u-v)=\frac{m}{M} w^{2}
+\end{array}
+$$
+
+However RNS of (7) also grees this veralt, $\frac{m}{m} w^{2}$.
+Thus wife assumption $u \pm v=w$ the epuations for evergy and nomentoun conservation are consolecut.
+(ii) $R=\frac{\pi V}{U}$
+
+Sub ${ }^{9}$ (6)
+
+$$
+R=\frac{m \omega}{M u}
+$$
+
+(iii) Sends, $v=i v-u$ into (6) $\frac{2 u-w}{2 u}$
+
+$$
+\begin{aligned}
+2 u-w & =\frac{m}{m} \omega \\
+2 u & =\left(\frac{M+m}{M}\right) w
+\end{aligned}
+$$
+
+Sab into (8)
+
+$$
+R=\frac{2 m}{m+m}
+$$
+
+ij) Verng notation in the diagram.
+Resolving wertically forcity forces on one of the backs
+
+$$
+\operatorname{Tos} \theta=m g=5.00 \times 10^{-3}(9.81)
+$$
+
+Resoloung hagentally for forces on one ball
+
+$$
+\begin{aligned}
+T \sin \theta & =\frac{q}{4 \pi \varepsilon_{0}\left(2 \sin ^{2} \theta\right)^{2}} \\
+& =\frac{\left(100 \times 10^{-6}\right)^{2}}{4 \pi(8.85) \times 10^{-12}(2 \ln \theta \theta)^{2}}
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-04.jpg?height=562&width=416&top_left_y=2071&top_left_x=1628)
+diay
+
+2 1
+(j) Dividing Ob by (1) a do sebstatuting $l=1.00 \mathrm{~m}$
+
+$$
+\begin{aligned}
+\operatorname{tec} \theta \sin ^{2} \theta & =\left(1.00 \times 10^{-6}\right)^{2} \\
+& =4 \pi\left(8.85 \times 10^{-12}\right) 4\left(5.00 \times 10^{-3}\right)(9.81) \\
+& =0.0459
+\end{aligned}
+$$
+
+Subshotuting $\theta=\frac{1}{2}\left(4100^{\circ}\right)=20 \cdot 5^{\circ} \quad$ LITS $=$ RHS They $\theta=20.5^{\circ}$ is a solution
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-05.jpg?height=240&width=162&top_left_y=478&top_left_x=1867)
+
+Q( ) (k) Presure of nutrogen geo
+Volume of geo
+
+$$
+\begin{aligned}
+& =(7509-62.2)=13.7 \text { cons of Ifg } 1 \\
+& =0.080 A \\
+& =0.080 \pi\left(\frac{0.0065}{2}\right)^{2} \text { An-co of corsect }
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-05.jpg?height=115&width=1535&top_left_y=1043&top_left_x=337)
+
+$$
+\begin{aligned}
+& \left(\frac{13-7}{100}\right) \rho g(g+137) 10^{-2} \pi\left(\frac{0.0065}{2}\right)^{2}=n R(273+15) 2 \\
+& g \text { densify } \pi / 18 \\
+& \left(1.37 \times 10^{-1}\right)\left(1.35 \times 10^{4}\right)(9.81)\left(210710^{-2} \pi\left(\frac{-0.0065}{2}\right)^{2}=n R(273+1\right. \\
+& =n R(280) \\
+& \left(1.37 \times 10^{-1}\right)\left(1.85 \times 10^{17}\right)(9.81)(21.7 \times 10 \pi)\left(\frac{0.0065}{2}\right)^{2}=288(8.31) n
+\end{aligned}
+$$
+
+Than gower
+
+$$
+\begin{aligned}
+n & =5046 \times 10^{-5} \\
+\text { Than of nitrogen } & =14 \mathrm{~m} \cdot \mathrm{~g} \\
+& =7.6 \times 10^{-4} \mathrm{~g}
+\end{aligned}
+$$
+
+(l) Frarey $=\frac{1}{2} C(2 E)^{2}=2 C E^{2}$
+(i) Energyased = change x potentral
+
+$$
+=(2 C E) \times(2 E)=4 C E^{2}
+$$
+
+$$
+\begin{aligned}
+\text { Euergy lost } & =4 C E^{2}-2 C E^{2} \\
+& =2 C E^{2}
+\end{aligned}
+$$
+
+(iil) corrocurre in Two Staces
+Totah work gone in lst Stace $=\triangle Q(E)$
+
+$$
+=(C E)(E)=C E^{2}
+$$
+
+"
+(i)(iii) For sumdstrage
+
+$$
+\begin{aligned}
+\text { Work dre } & =(\Delta Q)(2 E) \\
+& =(C E)(2 E) \\
+& =2 C E^{2}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\text { Toral wark done } & =C E^{2}+2 C E^{2}=3 C E^{2} \\
+\text { Than energyllont } & =3 C E^{2}-2 C E^{2} \\
+& =C E^{2}
+\end{aligned}
+$$
+
+Twars less aneryou lost by chargung witwo stages
+(III) Frequenceis geven by
+
+$$
+\begin{aligned}
+f_{1} & =\frac{1}{2 \pi} \sqrt{\frac{k}{m_{1}}} & \gamma_{2} & =\frac{1}{2 \pi} \sqrt{\frac{k}{m_{2}}} \\
+& =\frac{1}{2 \pi} \sqrt{\frac{39 \cdot 48}{0.90}} & & =\frac{1}{2 \pi} \sqrt{\frac{39 \cdot 48}{1 \cdot 10}} \\
+& =1.054 \mathrm{~Hz} & & =0.953 \mathrm{~Hz}
+\end{aligned}
+$$
+
+Beet frequency $=10.054-0.953=0.10 \mathrm{~Hz}$
+Beat percod $T_{1}=\frac{1}{0.10}=10 \mathrm{~s}$
+(ni) Let $n$ be its muber of complete resolection, thes equature heal generated to work done:
+
+$$
+\begin{aligned}
+(0.4)\left(0.35 \times 10^{3}\right) 5 & =20(0.25) n \\
+n & =140
+\end{aligned}
+$$
+
+(8) Atropheric persure $=$ weeflt of atmerfere clave a square mets
+
+$$
+\begin{aligned}
+1.01 \times 10^{5} & =1.23 t g \\
+t & =\frac{1.01 \times 10^{5}}{1.23(9.81)} \\
+t & =8.37 \times 10^{3} \mathrm{~m}
+\end{aligned}
+$$
+
+$t=$ hucfl 10 of atu $t=$ hoof $t$ of otm
+(a) (1) The protoelectree effectoceus whin a ploter of frequancy ff, and energy off, mitracts with au electron in a nutol, iffer am alkali mebel, giving up its evergytteth (1) chotion. If the electem has suffecient avergy to overcome the potential ban-cer of the metal, which gar a metal with work function $\varphi$ is eq, it will 'excape' fram the mebal. Thers photows, of eight arem, incidantan a metal, with affroffrecte frequences, can expel electrons
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-07.jpg?height=134&width=1559&top_left_y=765&top_left_x=329)
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-07.jpg?height=146&width=1047&top_left_y=817&top_left_x=765) to expelpelectron from the metal, with $v$, the electrons welocity, bening greater than zero. If however
+
+$$
+\text { eep }>h f
+$$
+
+no electrons are emitted. The critical frequency is fo, where $h f_{0}=$ exp.
+(ii) Lousewation of evergy dequires, for an electron,
+
+$$
+\frac{1}{2} m_{e} v^{2}=-k f-e \phi=e V_{s} \text { stepping potcention }^{2}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-07.jpg?height=123&width=1676&top_left_y=1710&top_left_x=227) The elector can, according to the wave theory, absorb any quantity of GMR. Whin it has absorbed sifficient it avicametia potentrail barnier eq, it will-escape fremithe metal. This is pasible for all incident frequencies. Note that in the quantiven theory only one photon can interact with one electron. Thus of 1 to no
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-07.jpg?height=99&width=1739&top_left_y=2259&top_left_x=329)
+(iv)
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-07.jpg?height=476&width=1017&top_left_y=2322&top_left_x=761)
+(a) (v) $\operatorname{Fran}$ (ii) $e \quad \frac{1}{2} m_{e} v^{2}=f f-e g$
+
+As $f=\frac{c}{\lambda}$, thesi becomes.
+
+$$
+\frac{1}{2} m_{e} v^{2}=\frac{h c}{\lambda}-e \phi
+$$
+
+Ploting $v^{2}$ against $\left(\frac{1}{\lambda}\right)$ gwe a straight lune gradient
+
+$$
+\begin{aligned}
+& \left(\frac{2 h e}{w_{e}}\right) \\
+& \left(-\frac{2 e p}{w_{e}}\right)
+\end{aligned}
+$$
+
+and intercept
+on the $v^{2}$-axis, or ( $\frac{e p}{h c}$ ) on the $\left(\frac{1}{\lambda}\right)$ axis. Hence determite $\varphi$
+$\sigma^{\cdot} \cdot$
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-08.jpg?height=1566&width=1645&top_left_y=1059&top_left_x=384)
+(b) Plot a graph of $V_{s}$ against of.
+
+$$
+e v_{s}=h f-e q
+$$
+
+MARKS
+Grappe correctly drawn, producung a straight line In tems of threskold frequency $f_{0}$, (1) groes
+
+$$
+\begin{aligned}
+e V_{3} & =h f-h \cdot 10 \\
+V_{3} & =\left(\frac{h}{e}\right)^{f} f-\left(\frac{h}{e}\right) f_{0}
+\end{aligned}
+$$
+
+is Gradient ( $\frac{h}{e}$ ) and $f=$ fo when $v_{s}=0$ (Attso $v_{s}=\frac{h}{e}$ fo whent
+$f_{0}=(4.4 \pm 0.1) 10^{14} \mathrm{~Hz}$
+borrect value
+Equor ostriciate
+Corsount $\frac{\Delta V s}{\Delta t}=(4.0 \pm 0.1) 10^{15} \mathrm{Vs}$ bowect value
+$h=e \frac{\Delta s}{\Delta f}=6.4 \times 10^{-34} \mathrm{Js}$.
+learrect value
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-10.jpg?height=1506&width=1841&top_left_y=517&top_left_x=68)
+(a) If $r_{0}$ epeed an ontint then tor cercular motion
+
+$$
+\begin{aligned}
+\frac{w v_{0}^{2}}{\left(R_{E}+l\right)} & =\frac{G M_{E} \sim M}{\left(R_{E}+l\right)^{2}} \\
+v_{0}^{2} & =\frac{G_{E} M_{E}}{\left(R_{E}+l\right)}
+\end{aligned}
+$$
+
+K.E. in arbit $T$ gever by
+
+$$
+T=\frac{1}{2} m v_{0}^{2}
+$$
+
+Total energy in ordit
+
+$$
+\begin{aligned}
+E_{0} & =\frac{1}{2} m V_{0}^{2}-\frac{G M_{E m}}{\left(R_{E}+l\right)} \\
+& =-\frac{1}{2} \frac{G M_{E m}}{\left(R_{E}+l\right)}
+\end{aligned}
+$$
+
+fram (1)
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-11.jpg?height=154&width=70&top_left_y=855&top_left_x=1962)
+
+ON IMPACT ENGRGY $E_{I}$ Given BY
+
+$$
+\begin{aligned}
+& E_{I}=\frac{1}{2} m V^{2}-\frac{G M E M}{R_{E}} \\
+& E_{I}=\frac{1}{2} m\left(2 \times 10^{3}\right)^{2}-\frac{G M}{R_{E}}
+\end{aligned}
+$$
+
+Encigy absarbed $E_{R}$
+
+$$
+\begin{aligned}
+E_{A} & =E_{0}-E_{I} \\
+& \left.=-\frac{1}{2} \frac{G M E_{\text {m }}}{\left(R_{E}+l\right)}-\left(\frac{1}{2} m\left(2 \times 10^{3}\right)^{2}-\frac{G M E_{\text {M }}}{R_{E}}\right)\right)^{2} \\
+& =-\frac{G M E_{M}}{2}\left[\frac{1}{R_{E} l}-\frac{1}{R_{E}}\right]-\frac{1}{2} m\left(2 \times 10^{3}\right)^{2} \\
+& =\frac{\left(6.67 \times 10^{-11}\right)\left(5.97 \times 10^{-4}\right)(500)}{2}\left[\frac{-10^{-7}}{0.743}+\frac{2 \times 10^{-7}}{0.683}\right]-\frac{500}{2}\left(2 \times 10^{3}\right. \\
+E_{A} & =1047 \times 10^{10} \mathrm{~J}
+\end{aligned}
+$$
+
+P8 (b) The muiminim initral veltaciby is thest suffeceint for the nosket to reach the point $z$, where its Euth's altrach it egared that of the Mook's altraction so that smperquently it is prolled by the Moon's grawitational faver, which well be greater than that of the Ealfh, towards the Moon- leadung to a erash landwing. Hence of $Z$ thespeed is zero. Atz
+(i)
+
+$$
+\begin{aligned}
+\frac{C M E M R}{d I_{E}^{2}} & =\frac{C M M M R}{\left(R_{E M}-d E\right)^{2}} \\
+\frac{R_{E M}-d_{E}}{d E} & =\left(\frac{M_{M}}{M_{R}}\right)^{\frac{1}{2}} \\
+& =0.111 \\
+1.111 d_{E} & =R_{E M}=3.83 \times 10^{8} \\
+\frac{d E}{} & =3.45 \times 10^{8} \mathrm{~m}
+\end{aligned}
+$$
+
+Q8 (b) (ii) bonservation of energy initially and of $z$ gives,
+
+$$
+\begin{aligned}
+& \frac{1}{2} M_{R} V^{2}-G M_{R} M_{B}\left(\frac{1}{R_{E}}\right)-G M_{R} M_{M}\left(\frac{1}{R_{B A}-R_{E}}\right) \\
+& =-G M_{R}\left[\frac{M_{E}}{d_{E}}+\left(\frac{M_{M}}{R_{E M}-d_{E}}\right)\right] \\
+& v^{2}=2 G M_{E}\left[\frac{1}{R_{E}}-\frac{1}{d E}\right]-2 G M_{M}\left[\frac{1}{R_{E M}-d E}-\frac{1}{R_{E M}-R_{E}}\right] \\
+& =2\left(6.67 \times 10^{-11}\right)\left(5.97 \times 10^{24}\right)\left[\frac{11}{6.38 \times 10^{6}} \cdots \frac{1 \times 1}{3.45 \times 10^{8}}\right] \\
+& -2\left(6.67 \times 10^{-11}\right)\left(7.35 \times 10^{22}\right)\left[\frac{1}{3 \cdot 84 \times 10^{8} \div 3 \div 45 \times 10^{8}} \cdots \frac{1}{31.34 \times 10^{8}-6.38 \times 10^{6}}\right] \\
+& =2\left(6.67 \times 10^{-11}\right)\left\{\left(5.47 \times 10^{24}\right)\left(1.56 \times 10^{-7}-2.90 \times 10^{-9}\right)\right. \\
+& \left.-\left(7.35 \times 10^{22}\right)\left(2.56 \times 10^{-8} \cdots 2.65 \times 10^{-9}\right)\right\} \\
+& =1.334 \times 10^{-100}\left\{\left(5.97 \times 10^{-24}\right)\left(1.53 \times 10^{-7}\right)-\left(7.35 \times 10^{22}\right)\left(2.29 \times 10^{-8}\right)\right\} \\
+& =1.334 \times 10^{-110}\left\{9.13 \times 10^{17}-1.68 \times 10^{15}\right\} \\
+& =1.334 \times 10^{-10}\left(9.11 \times 10^{17}\right)=1.22 \times 10^{8} \\
+& r=1.1 \times 10^{4} \mathrm{~ms}^{-1}
+\end{aligned}
+$$
+
+(a) banditor for radioactive equalibruire
+
+$$
+\begin{aligned}
+& \lambda_{0}=\frac{\ln 2}{1.4 \times 10^{17}} \quad \lambda_{\text {Ra }}=\frac{\ln 2}{501 \times 10^{10}} \\
+& A_{v}=1.0 \times 10^{23} \\
+& N_{R a}=N_{L j} \frac{5.1 \times 10^{10}}{1.4 \times 10^{17}} \\
+& =10^{23} \cdot \frac{51}{1: 4} 10^{-7} \\
+& N_{R}=3.6 \times 10^{16}
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-13.jpg?height=397&width=92&top_left_y=455&top_left_x=1788)
+
+$$
+\frac{1}{3}
+$$
+
+99 (b)
+(1) Number enitied through a sohd augle of sublemoled by the corea of $A=4.0 \times 10^{-4} \mathrm{~m}^{2}$ is $60 / \mathrm{min}$ Consequarty total eurted daborare of surface \& sp
+
+$$
+\begin{aligned}
+& N=4 \pi(2.0)^{2}(60)=240 \pi\left(10^{-45}\right) / \mathrm{mmin} \\
+& 4.0 \times 10^{-4} \\
+& N=7.5 \times 10^{6} \text { permin }
+\end{aligned}
+$$
+
+(ii) No emitted throngh area $A$ at $1.8 \mathrm{~m} \quad N_{1-8}=\frac{k A}{(1.8)^{2}}$ where $k$ is eve (cons) But nuber dileded is soure as at $2.0 \mathrm{~mL}, N_{2 \cdot 0}=\frac{k A}{(2 \cdot 0)^{2}}$ Thesis member absorbed by pheet
+
+$$
+\begin{aligned}
+100 \times \frac{\frac{k A}{(1.8)^{2}}-\frac{k A}{(2.0)^{2}}}{\frac{k A}{(1.8)^{2}}} & =100\left(1-\left(\frac{1.8}{2.0}\right)^{2}\right) \\
+& =100(1-0.81) \\
+& =19 \%
+\end{aligned}
+$$
+
+O(b) (11) Alternatwely:
+If 60 photons observed at 1.8 m when absocher persent, total number obsenwed if "spherecil" absortas present, taking info account all dareckons is
+
+$$
+N^{\prime}=\frac{4 \pi(1.8)^{2} 60}{4 \times 10^{-4}}=6.11 \times 10^{6}
+$$
+
+Turs \% of \% rays absorbed
+
+$$
+100 \times \frac{N-N^{\prime}}{N}=100 \times \frac{7.5-6.1}{7.5}=19 \%
+$$
+
+$$
+\left\{\begin{array}{l}
+2 \\
+1
+\end{array}\right\}
+$$
+
+(c)
+
+$$
+\begin{aligned}
+N & =N_{0} e^{-\lambda t} \\
+N_{1}=\frac{d N}{d t} & =N_{0} \lambda e^{-\lambda t} \\
+\lambda & =\frac{\ln 2}{5600} y^{-1} \text { yeets } \\
+\lambda & =1.24 \times 10^{-4} \text { years } \\
+N_{0} & =6.02 \times 10^{23}\left(\frac{4}{12}\right) \frac{1.25}{10^{12}} \\
+& =2.51 \times 10^{11} \\
+\therefore \lambda N_{0} & =1.24 \times 10^{-4}\left(2.51 \times 10^{11}\right) y^{-1} \\
+\therefore & =\frac{1.24(2.51) 10^{-1}}{365 \times 24 \times 60} \mathrm{~min}^{-1} \\
+\lambda N_{0} & =5.92 \times 10
+\end{aligned}
+$$
+
+89
+(e) Substruturg $N=-20$, inte (1), where Ta ithe age wiglars,
+
+$$
+\begin{aligned}
+20 & =59.21 \exp \left(-1.24 \times 10^{-4} T_{a}\right) \\
+& =\exp \left(-1.24 \times 10^{-4} T_{a}\right) \\
+\ln \left(\frac{20}{59.3}\right) & =-1.24 \times 10^{-4} T_{a} \\
+\ln (0.338) & =-1.24 \times 10^{-4} T_{a} \\
+T_{a} & =8.74 \times 10^{3} \text { years }
+\end{aligned}
+$$
+
+![](https://cdn.mathpix.com/cropped/218e0c15-3208-4de4-9cf0-5a5c3b0586bf-15.jpg?height=195&width=135&top_left_y=335&top_left_x=1849)
+
+9
+(11) EITHE USE CACCULUS OR SUBSTITUTE INTO ORIGINAL EGN.
+
+From (1)
+
+$$
+\begin{aligned}
+\Delta \dot{N} & =\mp\left(N_{0} \lambda\right) \Delta e^{-\lambda t} \Delta t \\
+& =\lambda N \Delta t \\
+\Delta t & = \pm \frac{\Delta N}{\Delta N} \\
+& =\frac{(0.4)}{1.24 \times 10^{-4}(20)} \text { years } \\
+\Delta t & = \pm 1.6 \times 10^{2} \text { years }
+\end{aligned}
+$$
+
+## ALTERNATIVELY
+
+SUB. IN ORIG. EQUN + O.H and ATa given
+
+$$
+\begin{aligned}
+20.0+0.4 & =5901 \exp \left(-1.24\left(T_{a}+\Delta T_{a}\right) 10^{-4}\right. \\
+20.4 & =5901 \exp \left(-1.24\left(8.74 \times 10^{3}+\Delta T a\right) 10^{-4}\right) \\
+T_{a}+\Delta T_{a} & =\ln \left(3.45 \times 10^{-1}\right) \\
+\Delta T_{a} & =1.24 \times 10^{-4} \\
+& =858 \times 10^{3} \text { years } \quad \text { as } T_{a}=8.74
+\end{aligned}
+$$

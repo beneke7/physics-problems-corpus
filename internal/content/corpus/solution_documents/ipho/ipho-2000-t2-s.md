@@ -1,0 +1,60 @@
+---
+id: solution-document-ipho-2000-t2-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2000/T2_S.pdf
+extraction_method: cached-mmd
+mapped_problems: [ipho-2000-t2]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2000/T2_S.pdf."
+---
+
+## Question Two ~ Solution
+
+(a) Focusing occurs for one "cyclotron" orbit of the electron.
+
+Angular velocity $\omega=$ e $B / \mathrm{m}$; so time for one orbit $T=2 \pi \mathrm{~m} /$ e $B$
+Speed of electron $u=(2 \mathrm{e} V / \mathrm{m})^{1 / 2}$
+Distance travelled $D=T u \cos \beta \approx T u=\left(2^{3 / 2} \pi / B\right)(V \mathrm{~m} / \mathrm{e})^{1 / 2}$
+Thus charge to mass ratio $=\mathrm{e} / \mathrm{m}=8 \mathrm{~V} \times(\pi / B D)^{2}$
+(b) Consider condition (ii) - Force due to electric field acts upwards
+
+In region A force due magnetic field acts upwards as well, electron hits upper plate and does not reach the film.
+
+In region B , force due magnetic field acts downwards, and if force is equal and opposite to the electrostatic force, there will be no unbalanced force, and electron will emerge from plates to expose film.
+
+Piece was taken from region $B$.
+(c) We require forces to balance. Electric force given by e $V / t$, magnitude of magnetic force given by e $u B \sin \phi$, with $u$ the speed of the electron.
+
+For these to balance we require $u=V / t B|\sin \phi|$
+
+Maximum $u$ corresponds to minimum $\phi$ - at $23^{\circ}$
+Therefore $u=2.687 \times 10^{8} \mathrm{~m} / \mathrm{s}=0.896 \mathrm{c}$.
+Relativistic $\gamma\left(1-v^{2} / c^{2}\right)^{-1 / 2}=2.255$, so kinetic energy of electron $=(\gamma-1) \mathrm{mc}^{2}=641 \mathrm{keV}$.
+(d) After emerging from region between plates, electrons experience force due to magnetic field only. We approximate this by a vertical force, because angle of electron to horizontal remains small.
+
+Acceleration caused by this force $a=B \mathrm{e} u \sin \phi / \gamma \mathrm{m}$
+Initial horizontal speed is $u$, therefore time taken to reach the film after emerging from the region between the plates $t=s / u$.
+
+Change in vertical displacement during this time $=y / 2=1 / 2 a(s / u)^{2}$
+$y=B \mathrm{e} s^{2} \sin \phi / \gamma \mathrm{m} u$
+From part (f), for electron to have emerged from plate, we also know $u=V / t B|\sin \phi|$.
+
+Therefore we eliminate $u$ to obtain:
+
+$$
+y^{2}=(\mathrm{e} B s \sin \phi / \mathrm{m})^{2}\left\{(B s t \sin \phi / V)^{2}-(s / \mathrm{c})^{2}\right\}
+$$
+
+and we plot VERTICAL $(y / B s \sin \phi)^{2}$
+
+$$
+\text { HORIZONTAL } \quad(B s t \sin \phi / V)^{2}
+$$
+
+Therefore we have a gradient $(e / m)^{2}$
+and a vertical-axis intercept $\quad-(\mathrm{e} s / \mathrm{mc})^{2}$
+The intercept is read as $-537.7(\mathrm{C} \mathrm{s} / \mathrm{kg})^{2}$, giving $\mathrm{e} / \mathrm{m}=1.70 \times 10^{11} \mathrm{C} / \mathrm{kg}$
+The gradient is read as $2.826 \times 10^{22}(\mathrm{C} / \mathrm{kg})^{2}$, giving $\mathrm{e} / \mathrm{m}=1.68 \times 10^{11} \mathrm{C} / \mathrm{kg}$.

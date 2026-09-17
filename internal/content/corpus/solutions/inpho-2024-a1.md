@@ -1,0 +1,16 @@
+---
+id: inpho-2024-a1
+source: inpho
+language: en
+solution_language: en
+translated: false
+problem: inpho-2024-a1
+solution_type: official
+source_document: solution-document-inpho-2024-s
+source_pdf: cache/phoxiv/inpho/2024_S.pdf
+figure_files: []
+provenance_note: "Source-provided solution section from cache/phoxiv/inpho/2024_S.pdf."
+---
+
+1. A complete ray diagram using the given ﬁgure. You may use the one already provided
+on the answersheet or draw a fresh one.

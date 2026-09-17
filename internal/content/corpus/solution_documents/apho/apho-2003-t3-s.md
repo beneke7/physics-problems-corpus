@@ -1,0 +1,164 @@
+---
+id: solution-document-apho-2003-t3-s
+source: apho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/apho/2003/T3_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [apho-2003-t3]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2003/T3_S.pdf."
+---
+
+Solution and Marking Scheme
+Theory
+III. Plasma Lens
+a) Consider cylindrical Gaussian surface of radius r and length Aabout the
+central axis.
+From Gauss’s law
+) inside charge (
+1
+2
+0 ε
+π = A r E (0.5 points)
+) (
+1 2
+0
+A r ne π
+ε
+− =
+0 2ε
+ner
+Er − = (0.5 point)
+b) From Ampere’s law,
+2
+0nerv
+B
+µ
+θ − = (2 points)
+c) The net Lorentz force is
+r
+c
+v r ne
+r
+rv ne r ne
+F ˆ 1
+2
+ˆ
+2 2 2
+2
+0
+2 2 2
+0
+0
+2
+ 
+
+
+ 
+
+
+− =  
+
+
+ 
+
+
+− =
+ε
+µ
+ε
+G
+where
+0 0
+1
+µ ε
+= c (1 point)
+d) 0 → r F as c v → , this implies the electric force and magnetic force cancel
+each other out. (1 point)
+e) The stationary plasma particles have 0 = v , hence r r eE F ′ ′ ± =
+where
+o
+o
+o
+r
+r e n
+r
+neR
+E
+ε ε 2 2
+2
+′
++
+′
+− = ′
+for positive ion
+o
+o
+o
+r
+r e n
+r
+R ne
+F
+ε ε 2 2
+2 2 2
+′
++
+′
+− = ′
+for electron
+o
+o
+o
+r
+r e n
+r
+R ne
+F
+ε ε 2 2
+2 2 2
+′
+−
+′
+= ′
+and there is no cancellation from the magnetic force.
+As a result the plasma electrons will be blown out, and the ions are pulled in.
+(2 points)
+f) The net force on the electron beam in plasma medium is given by,
+r
+r e n
+r
+c
+v r ne
+F ˆ
+2
+ˆ 1
+2 0
+2
+0
+2
+2
+0
+2
+ε ε
+−  
+
+
+ 
+
+
+− =
+G
+(2 points)
+in the limit v Æ c, r
+r e n
+F ˆ
+2 0
+2
+0
+ε
+− ≈
+G
+(1 point)

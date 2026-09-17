@@ -1,0 +1,25 @@
+---
+id: aupho-2012-q3
+source: aupho
+language: en
+solution_language: en
+translated: false
+problem: aupho-2012-q3
+solution_type: official
+source_document: solution-document-aupho-2012-s
+source_pdf: cache/phoxiv/aupho/2012_S.pdf
+figure_files: []
+provenance_note: "Source-provided solution section from cache/phoxiv/aupho/2012_S.pdf."
+---
+
+Question 3
+Lachlan exerts a constant horizontal force on a heavy lounge chair that is in the wrong place. As a result,
+the chair moves across a horizontal floor at a constant speed v0. The constant horizontal force applied by
+Lachlan:
+a. has the same magnitude as the weight of the chair.
+b. is greater than the weight of the chair.
+c. has the same magnitude as the total force which resists the motion of the chair.
+d. is greater than the total force which resists the motion of the chair.
+e. is greater than either the weight of the chair or the total force which resists its motion.
+Solution: c. — As the chair moves at a constant speed the nett force on the chair is zero and the force
+applied by Lachlan must be equal in magnitude to the resistive force.

@@ -1,0 +1,619 @@
+---
+id: solution-document-ipho-2005-t1-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2005/T1_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2005-t1]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2005/T1_S.pdf."
+---
+
+36th
+International Physics Olympiad. Salamanca (España) 2005
+Th 1 Solution Page 1 of 5
+R.S.E.F.
+Th1 AN ILL FATED SATELLITE
+SOLUTION
+1.1 and 1.2
+⎪
+⎪
+⎪
+⎩
+⎪ ⎪
+⎪
+⎨
+⎧
+⋅ = ⇒ =
+⋅ = ⇒
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+=
+⇒
+⎪
+⎪
+⎪
+⎪
+⎭
+⎪
+⎪
+⎪
+⎪
+⎬
+⎫
+=
+=
+=
+m/s 10 07 3
+m 10 22 4
+4 2
+3
+0
+0
+0
+7
+0
+3 1
+2
+2
+0
+2
+0
+2
+0
+0
+0
+0
+2
+0
+2
+0
+. v
+r
+g
+R v
+. r
+T R g
+r
+R
+GM
+g
+T
+r
+v
+r
+v
+m
+r
+m M
+G
+T
+/
+T
+T
+T
+T
+π π
+1.3
+⇒ = = 0 2
+0
+2
+0 0 0 v m
+v
+R g
+v m r L T
+0
+2
+0
+v
+R g m
+L T
+=
+⇒ − = − = − =
+2
+0
+2
+0
+0
+2
+2
+0
+0
+2
+0 0
+2
+1
+2
+1
+2
+1
+mv mv
+r
+m R g
+mv
+r
+m M
+G mv E T T 2
+0 0
+2
+1
+mv E − =
+2.1
+The value of the semi-latus-rectum l is obtained taking into account that the orbital angular momentum is the same
+in both orbits. That is
+⇒ = = = = 0 2
+0
+2
+2 2 2
+0
+4 2 2
+2
+2
+0 1
+r
+v
+R g
+m R g v
+R g m
+m M G
+L
+l T
+T
+T
+T
+0 r l =
+The eccentricity value is
+3 2 2
+2
+0 2 2
+1
+m M G
+L E
+T
++ = ε
+where E is the new satellite mechanical energy
+( ) 2
+0
+2
+0
+2
+0
+2 2
+0
+2
+1
+2
+1
+2
+1
+2
+1
+mv v m E v m
+r
+m M
+G v v m E T
+− ∆ = + ∆ = − ∆ + =
+that is
+( ) 1
+2
+1
+1
+2
+1 2 2
+0 2
+0
+2
+2
+0 − =
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+− = β
+∆
+mv
+v
+v
+mv E
+Combining both, one gets β ε =
+This is an elliptical trajectory because 1 < = β ε .36th
+International Physics Olympiad. Salamanca (España) 2005
+Th 1 Solution Page 2 of 5
+R.S.E.F.
+2.2
+The initial and final orbits cross at P, where the satellite engine fired instantaneously (see Figure 4). At this point
+( ) ⇒
+−
+= = =
+α β
+α θ
+cos 1
+0
+0
+r
+r r
+2
+π
+α =
+2.3
+From the trajectory expression one immediately obtains that
+the maximum and minimum values of r correspond to 0 = θ and
+π θ = respectively (see Figure 4). Hence, they are given by
+ε −
+=
+1
+l
+rmax
+ε +
+=
+1
+l
+rmin
+that is
+β −
+=
+1
+0
+max
+r
+r and
+β +
+=
+1
+0
+min
+r
+r
+For 4 / 1 = β , one gets
+m 10 38 3 m; 10 63 5 7 7
+⋅ = ⋅ = . r . r min max
+The distances max r and min r can also be obtained from mechanical energy and angular momentum conservation,
+taking into account that r
+r
+and v
+r
+are orthogonal at apogee and at perigee
+( )
+r v m
+v
+mgR
+L
+r
+m gR
+mv mv E
+T
+T
+= =
+− = − =
+0
+2
+0
+2
+2 2 2
+0
+2
+1
+1
+2
+1
+β
+What remains of them, after eliminating v, is a second-degree equation whose solutions are max r and min r .
+2.4
+By the Third Kepler Law, the period T in the new orbit satisfies that
+3
+0
+2
+0
+3
+2
+r
+T
+a
+T
+=
+where a, the semi-major axis of the ellipse, is given by
+2
+0
+1 2 β −
+=
++
+=
+r r r
+a min max
+Therefore
+( ) 2 / 3 2
+0 1
+−
+− = β T T
+For β = 1/4 h 4 26
+16
+15
+2 3
+0 . T T
+/
+= ⎟
+⎠
+⎞
+⎜
+⎝
+⎛
+=
+−
+2
+π
+α =
+min r max r
+v
+r
+∆
+0 v
+r
+P
+0 r
+Figure 436th
+International Physics Olympiad. Salamanca (España) 2005
+Th 1 Solution Page 3 of 5
+R.S.E.F.
+3.1
+Only if the satellite follows an open trajectory it can escape from the Earth gravity attraction. Then, the orbit
+eccentricity has to be equal or larger than one. The minimum boost corresponds to a parabolic trajectory, with ε = 1
+β ε = ⇒ 1 = esc β
+This can also be obtained by using that the total satellite energy has to be zero to reach infinity (Ep = 0) without
+residual velocity (Ek = 0)
+( ) 0 1
+2
+1 2 2
+0 = − = esc mv E β ⇒ 1 = esc β
+This also arises from ∞ = T or from ∞ = max r .
+3.2
+Due to 1 = = esc β ε , the polar parabola equation is
+θ cos 1−
+=
+l
+r
+where the semi-latus-rectum continues to be 0 r l = . The minimum Earth - satellite distance corresponds to π θ = , where
+2
+0 r
+rmin = ′
+This also arises from energy conservation (for E = 0) and from the equality between the angular momenta (L0) at the
+initial point P and at maximum approximation, where r
+r
+and v
+r
+are orthogonal.
+4.1
+If the satellite escapes to infinity with residual velocity ∞ v , by energy conservation
+( ) 2 2 2
+0
+2
+1
+1
+2
+1
+∞ = − = mv mv E β ⇒
+( ) 2 / 1 2
+0 1 − = ∞ β v v
+4.2
+As 1 = > = esc β β ε the satellite trajectory will be a hyperbola.
+The satellite angular momentum is the same at P than at the point
+where its residual velocity is ∞ v (Figure 5), thus
+b v m r v m ∞ = 0 0
+So
+⇒ =
+∞ v
+v
+r b 0
+0 ( ) 2 / 1 2
+0 1
+−
+− = β r b
+φ
+v ∆
+0 v
+∞ v
+Asymptote
+Asymptote
+b
+Figure 5
+asym θ
+asym θ
+asym θ
+0 r
+P36th
+International Physics Olympiad. Salamanca (España) 2005
+Th 1 Solution Page 4 of 5
+R.S.E.F.
+4.3
+The angle between each asymptote and the hyperbola axis is that appearing in its polar equation in the limit ∞ → r .
+This is the angle for which the equation denominator vanishes
+⇒ = − 0 cos 1 asym θ β ⎟ ⎟
+⎠
+⎞
+⎜ ⎜
+⎝
+⎛
+= −
+β
+θ
+1
+cos 1
+asym
+According to Figure 5
+⇒ + = asym θ
+π
+φ
+2 ⎟ ⎟
+⎠
+⎞
+⎜ ⎜
+⎝
+⎛
++ = −
+β
+π
+φ
+1
+cos
+2
+1
+For
+2
+3
+2
+3
+= = esc β β , one gets rad 41 2 138 . º = = φ36th
+International Physics Olympiad. Salamanca (España) 2005
+Th 1 Solution Page 5 of 5
+R.S.E.F.
+Th 1 ANSWER SHEET
+Question Basic formulas and
+ideas used
+Analytical results Numerical results Marking
+guideline
+1.1
+m 10 22 . 4 7
+0 ⋅ = r 0.3
+1.2
+2
+0
+0
+0
+0
+2
+0
+2
+0
+2
+T
+T
+T
+R
+GM
+g
+T
+r
+v
+r
+v
+m
+r
+m M
+G
+=
+=
+=
+π
+0
+0
+r
+g
+R v T = m/s 10 07 . 3 3
+0 ⋅ = v 0.3 + 0.1
+1.3
+r
+Mm
+G mv E
+v r m L
+− =
+× =
+2
+2
+1
+r r r
+0
+2
+0
+v
+mgR
+L T
+=
+2
+0 0
+2
+1
+mv E − =
+0.4
+0.4
+2.1 0 r l =
+β ε =
+0.4
+0.5
+2.2
+Hint on the conical curves
+2
+π
+α = 1.0
+2.3
+Results of 2.1, or
+conservation of E and L
+β
+β
++
+=
+−
+=
+1
+1
+0
+0
+r
+r
+r
+r
+min
+max
+m 10 38 . 3
+m 10 63 . 5
+7
+min
+7
+max
+⋅ =
+⋅ =
+r
+r
+1.0 + 0.2
+2.4 Third Kepler's Law ( ) 2 / 3 2
+0 1
+−
+− = β T T h 4 . 26 = T 0.5 + 0.2
+3.1 ε = 1, E = 0, T = ∞ or
+rmax = ∞
+1 = esc β 0.5
+3.2 ε = 1 and results of 2.1
+2
+0 r
+rmin = ′ 1.0
+4.1 Conservation of E ( ) 2 / 1 2
+0 1 − = ∞ β v v 1.0
+4.2 Conservation of L ( ) 2 / 1 2
+0 1
+−
+− = β r b 1.0
+4.3 Hint on the conical curves
+⎟ ⎟
+⎠
+⎞
+⎜ ⎜
+⎝
+⎛
++ = −
+β
+π
+φ
+1
+cos
+2
+1 rad 41 . 2 º 138 = = φ 1.0 + 0.2

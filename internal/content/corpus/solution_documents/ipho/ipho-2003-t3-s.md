@@ -1,0 +1,628 @@
+---
+id: solution-document-ipho-2003-t3-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2003/T3_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2003-t3]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2003/T3_S.pdf."
+---
+
+27
+Solution toTheoretical Question 3
+Part A
+Neutrino Mass and Neutron Decay
+(a) Let ) , ( 2
+e e q c E c
+K
+, ) , ( 2
+p p q c E c
+K
+, and ) , ( 2
+v v q c E c
+K
+be the energy-momentum 4-vectors of the
+electron, the proton, and the anti-neutrino, respectively, in the rest frame of the neutron.
+Notice that ν ν q q q E E E p e p e
+K K K
+, , , , , are all in units of mass. The proton and the anti-neutrino
+may be considered as forming a system of total rest mass c M , total energy c E c2
+, and
+total momentum c q c
+G
+. Thus, we have
+v p c E E E + = , v p c q q q
+K K K
++ = , 2 2 2
+c c c q E M − = (A1)
+Note that the magnitude of the vector c q
+K
+is denoted as qc. The same convention also
+applies to all other vectors.
+Since energy and momentum are conserved in the neutron decay, we have
+n e c m E E = + (A2)
+e c q q
+K K
+− = (A3)
+When squared, the last equation leads to the following equality
+2 2 2 2
+e e e c m E q q − = = (A4)
+From Eq. (A4) and the third equality of Eq. (A1), we obtain
+2 2 2 2
+e e c c m E M E − = − (A5)
+With its second and third terms moved to the other side of the equality, Eq. (A5) may be
+divided by Eq. (A2) to give
+) (
+1 2 2
+e c
+n
+e c m M
+m
+E E − = − (A6)
+As a system of coupled linear equations, Eqs. (A2) and (A6) may be solved to give
+) (
+2
+1 2 2 2
+c e n
+n
+c M m m
+m
+E + − = (A7)
+) (
+2
+1 2 2 2
+c e n
+n
+e M m m
+m
+E − + = (A8)
+Using Eq. (A8), the last equality in Eq. (A4) may be rewritten as
+) )( )( )( (
+2
+1
+) 2 ( ) (
+2
+1 2 2 2 2 2
+c e n c e n c e n c e n
+n
+e n c e n
+n
+e
+M m m M m m M m m M m m
+m
+m m M m m
+m
+q
+− − + − − + + + =
+− − + =
+(A9)
+Eq. (A8) shows that a maximum of e E corresponds to a minimum of 2
+c M . Now the
+rest mass c M is the total energy of the proton and anti-neutrino pair in their center of
+mass (or momentum) frame so that it achieves the minimum28
+( ) v p c m m M M + = = min
+(A10)
+when the proton and the anti-neutrino are both at rest in the center of mass frame. Hence,
+from Eqs. (A8) and (A10), the maximum energy of the electron E = c2
+Ee is
+[ ] MeV 29 . 1 MeV 292569 . 1 ) (
+2
+2 2 2
+2
+max ≈ ≈ + − + = v p e n
+n
+m m m m
+m
+c
+E (A11)
+When Eq. (A10) holds, the proton and the anti-neutrino move with the same velocity vm
+of the center of mass and we have
+v p c m m M c
+e
+E E c
+c
+E E p
+p
+E E v
+v m
+E
+q
+E
+q
+E
+q
+E
+q
+c
+v
++ = = = =
+= = = =
+max max max
+(A12)
+where the last equality follows from Eq. (A3). By Eqs. (A7) and (A9), the last expression
+in Eq. (A12) may be used to obtain the speed of the anti-neutrino when E = Emax. Thus,
+with M = mp+mv, we have
+00127 . 0 00126538 . 0
+) )( )( )( (
+2 2 2
+≈ ≈
++ −
+− − + − − + + +
+=
+M m m
+M m m M m m M m m M m m
+c
+v
+e n
+e n e n e n e n m
+(A13)
+------------------------------------------------------------------------------------------------------
+[Alternative Solution]
+Assume that, in the rest frame of the neutron, the electron comes out with momentum
+e q c
+K
+and energy c2
+Ee, the proton with p q c
+K
+and p E c2
+, and the anti-neutrino with v q c
+K
+and
+v E c2
+. With the magnitude of vector α q
+K
+denoted by the symbol qα, we have
+2 2 2
+p p p q m E + = , 2 2 2
+v v v q m E + = , 2 2 2
+e e e q m E + = (1A)
+Conservation of energy and momentum in the neutron decay leads to
+e n v p E m E E − = + (2A)
+e v p q q q
+K K K
+− = + (3A)
+When squared, the last two equations lead to
+2 2 2
+) ( 2 e n v p v p E m E E E E − = + + (4A)
+2 2 2 2 2
+2 e e e v p v p m E q q q q q − = = ⋅ + +
+K K
+(5A)
+Subtracting Eq. (5A) from Eq. (4A) and making use of Eq. (1A) then gives
+e n e n v p v p v p E m m m q q E E m m 2 ) ( 2 2 2 2 2
+− + = ⋅ − + +
+K K
+(6A)
+or, equivalently,29
+) ( 2 2 2 2 2 2
+v p v p v p e n e n q q E E m m m m E m
+K K
+⋅ − − − − + = (7A)
+If θ is the angle between p q
+K
+and v q
+K
+, we have v p v p v p q q q q q q ≤ = ⋅ θ cos
+K K
+so that Eq. (7A)
+leads to the relation
+) ( 2 2 2 2 2 2
+v p v p v p e n e n q q E E m m m m E m − − − − + ≤ (8A)
+Note that the equality in Eq. (8A) holds only if θ = 0, i.e., the energy of the electron c2
+Ee takes
+on its maximum value only when the anti-neutrino and the proton move in the same direction.
+Let the speeds of the proton and the anti-neutrino in the rest frame of the neutron be
+p cβ and v cβ , respectively. We then have p p p E q β = and v v v E q β = . As shown in Fig.
+A1, we introduce the angle φv ( 2 / 0 π φ < ≤ v ) for the antineutrino by
+v v v m q φ tan = , v v v v v m q m E φ sec 2 2
+= + = , v v v v E q φ β sin / = = (9A)
+Similarly, for the proton, we write, with 2 / 0 π φ < ≤ p ,
+p p p m q φ tan = , p p p p p m q m E φ sec 2 2
+= + = , p p p p E q φ β sin / = = (10A)
+Eq. (8A) may then be expressed as
+−
+− − − + ≤
+v p
+v p
+v p v p e n e n m m m m m m E m
+φ φ
+φ φ
+cos cos
+sin sin 1
+2 2 2 2 2 2
+(11A)
+The factor in parentheses at the end of the last equation may be expressed as
+1 1
+cos cos
+) cos( 1
+1
+cos cos
+cos cos sin sin 1
+cos cos
+sin sin 1
+≥ +
+− −
+= +
+− −
+=
+−
+v p
+v p
+v p
+v p v p
+v p
+v p
+φ φ
+φ φ
+φ φ
+φ φ φ φ
+φ φ
+φ φ
+(12A)
+and clearly assumes its minimum possible value of 1 when φp = φv, i.e., when the
+anti-neutrino and the proton move with the same velocity so that βp = βv. Thus, it follows
+from Eq. (11A) that the maximum value of Ee is
+[ ] 2 2 2
+2 2 2 2
+max
+) (
+2
+1
+) 2 (
+2
+1
+) (
+v p e n
+n
+v p v p e n
+n
+e
+m m m m
+m
+m m m m m m
+m
+E
++ − + =
+− − − + =
+(13A)
+and the maximum energy of the electron E = c2
+Ee is
+MeV 29 . 1 MeV 292569 . 1 ) ( max
+2
+max ≈ ≈ = e E c E (14A)
+Ev
+mv
+qv
+φv
+FigureA130
+When the anti-neutrino and the proton move with the same velocity, we have, from Eqs.
+(9A), (10A), (2A) ,(3A), and (1A), the result
+e n
+e e
+e n
+e
+v p
+v p
+v
+v
+p
+p
+p v
+E m
+m E
+E m
+q
+E E
+q q
+E
+q
+E
+q
+−
+−
+=
+−
+=
++
++
+= = = =
+2 2
+β β (15A)
+Substituting the result of Eq. (13A) into the last equation, the speed vm of the anti-neutrino
+when the electron attains its maximum value Emax is, with M = mp+mv, given by
+00127 . 0 00126538 . 0
+) )( )( )( (
+) ( 2
+4 ) (
+) (
+) (
+) (
+2 2 2
+2 2 2 2
+2 2 2 2 2 2
+max
+2 2
+max
+max
+≈ ≈
++ −
+− − + − − + + +
+=
+− + −
+− − +
+=
+−
+−
+= =
+M m m
+M m m M m m M m m M m m
+M m m m
+m m M m m
+E m
+m E
+c
+v
+e n
+e n e n e n e n
+e n n
+e n e n
+e n
+e e
+E v
+m
+e
+β
+(16A)
+------------------------------------------------------------------------------------------------------
+Part B
+Light Levitation
+(b) Refer to Fig. B1. Refraction of light at the spherical surface obeys Snell’s law and leads to
+t i n θ θ sin sin = (B1)
+Neglecting terms of the order (δ/R)3
+or higher in sine functions, Eq. (B1) becomes
+t i n θ θ ≈ (B2)
+For the triangle ∆FAC in Fig. B1, we have
+i i i i t n n θ θ θ θ θ β ) 1 ( − = − ≈ − = (B3)
+Let 0 f be the frequency of the incident light. If p n
+is the number of photons incident on the plane surface per
+unit area per unit time, then the total number of photons
+incident on the plane surface per unit time is 2
+πδ p n . The
+total power P of photons incident on the plane surface is
+) )( ( 0
+2
+hf npπδ , with h being Planck’s constant. Hence,
+0
+2
+hf
+P
+np
+πδ
+= (B4)
+The number of photons incident on an annular disk of
+inner radius r and outer radius r +dr on the plane surface
+per unit time is ) 2 ( rdr np π , where i i R R r θ θ ≈ = tan .
+Therefore,
+i i p p d R n rdr n θ θ π π ) 2 ( ) 2 ( 2
+≈ (B5)
+The z-component of the momentum carried away per unit time by these photons when
+F
+β
+A
+δ
+θt
+θi
+θi
+C
+Fig. B1
+z
+n31
+refracted at the spherical surface is
+i i i p
+i i p
+o
+p z
+d
+n
+R
+c
+hf
+n
+d R
+c
+hf
+n rdr
+c
+hf
+n dF
+θ θ θ π
+θ θ
+β
+π β π
+−
+− ≈
+− ≈ =
+3
+2
+2 0
+2
+2 0
+2
+) 1 (
+) 2 (
+2
+1 ) 2 ( cos ) 2 (
+(B6)
+so that the z-component of the total momentum carried away per unit time is
+−
+− =
+−
+− = ∫
+2
+2
+2 0 2
+0
+3
+2
+0 2
+4
+) 1 (
+1
+2
+) 1 (
+2
+im im p
+i i i p z
+n
+c
+hf
+n R
+d
+n
+c
+hf
+n R F
+im
+θ θ π
+θ θ θ π
+θ
+(B7)
+where im im
+R
+θ
+δ
+θ ≈ = tan . Therefore, by the result of Eq. (B5), we have
+−
+− =
+−
+− = 2
+2 2
+2
+2 2
+2
+2
+0
+0
+2
+2
+4
+) 1 (
+1
+4
+) 1 (
+1
+R
+n
+c
+P
+R
+n
+R c
+hf
+hf
+P R
+Fz
+δ δ δ
+πδ
+π
+(B8)
+The force of optical levitation is equal to the sum of the z-components of the forces exerted
+by the incident and refracted lights on the glass hemisphere and is given by
+c
+P
+R
+n
+R
+n
+c
+P
+c
+P
+F
+c
+P
+z 2
+2 2
+2
+2 2
+4
+) 1 (
+4
+) 1 (
+1 ) (
+δ δ −
+=
+−
+− − = − + (B9)
+Equating this to the weight mg of the glass hemisphere, we obtain the minimum laser
+power required to levitate the hemisphere as
+2 2
+2
+) 1 (
+4
+δ −
+=
+n
+mgcR
+P (B10)32
+Marking Scheme
+Theoretical Question 3
+Neutrino Mass and Neutron Decay
+Total
+Scores
+Sub
+Scores
+Marking Scheme forAnswers to the Problem
+Part A
+4.0 pts.
+(a)
+4.0
+The maximum energy of the electron and the corresponding speed of the
+anti-neutrino.
+¾ 0.5 use energy-momentum conservation and can convert it into
+equations.
+¾ 0.5 obtain an expression for e E that allows the determination of its
+maximum value.
+¾ (0.5+0.2) for concluding that proton and anti-neutrino must move
+with the same velocity when e E is maximum. (0.2 for the same
+direction)
+¾ 0.6 for establishing the minimum value of ) ( v p v p q q E E
+G G
+⋅ − to be
+v pm m or a conclusion equivalent to it.
+¾ (0.5+0.1) for expression and value of Emax.
+¾ 0.5 for concluding ) /( 2 2
+e n e e v E m m E − − = β .
+¾ (0.5+0.1) for expression and value of vm/c.
+Light Levitation
+Part B
+4.0 pts
+(b)
+4.0
+Laser power needed to balance the weight of the glass hemisphere.
+¾ 0.3 for law of refraction t i n θ θ sin sin = .
+¾ 0.3 for making the linear approximation t i n θ θ ≈ .
+¾ 0.4 for relation between angles of deviation and incidence.
+¾ 0.3 for photon energy ε = hν.
+¾ 0.3 for photon momentum p = ε /c.
+¾ 0.3 for momentum of incident photons per unit time = P/c.
+¾ 0.6 for momentum of photons refracted per unit time as a function of
+the angle of incidence.
+¾ 0.4 for total momentum of photons refracted per unit time =
+[1-(n-1)2
+δ2
+/(4R2
+)]P/c.
+¾ 0.4 for force of levitation = sum of forces exerted by incident and
+refracted photons.
+¾ 0.4 for force of levitation = (n-1)2
+δ2
+P/(4cR2
+).
+¾ 0.3 for the needed laser power P = 4mgcR2
+/(n-1)2
+δ2
+.

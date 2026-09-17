@@ -1,0 +1,17 @@
+---
+id: komal-P5476
+source: komal
+language: hu
+translated: false
+problem: komal-P5476
+figure_files: []
+provenance_note: "KöMaL official solution (Hungarian)"
+---
+
+**Megoldás**
+. A megoldás során a széleffektusoktól mindig eltekintünk. Ismeretes (a Gauss-tétel alapján belátható), hogy amennyiben két párhuzamos, egymáshoz közel fekvő, sík fémlemez egyikének $+Q$, másikának $-Q$ töltést adunk, akkor az ellentétes előjelű töltések a lemezek belső oldalán helyezkednek el, és a lemezek közötti térben $E=\frac{1}{\varepsilon_0}\frac{Q}{A}$ nagyságú, homogén, a lemezekre merőleges irányú elektromos teret eredményeznek, ahol $\varepsilon_0=\frac{1}{4\pi k}$ a vákuum dielektromos állandója (permittivitása), $A$ a lemezek területe, továbbá $k$ a Coulomb-törvényben szereplő állandó. 
+ A megoldásban kihasználjuk, hogy elektrosztatikus esetben a fémek belsejében a térerősség nulla, így a lemezek szemben lévő belső felületein ugyanakkora nagyságú pozitív és ugyanakkora negatív töltéseknek kell egymással ,,szembenézniük''. Ha összetoljuk a lemezeket, akkor a belső felületeken lévő töltések kioltják egymást, és csak a külső felületeken marad töltés, mindkét oldalon ugyanannyi, mégpedig a rendszer teljes eredő töltésének fele-fele. Ha újra széthúzzuk a lemezeket, akkor a belső felületeken nem marad töltés, viszont amennyiben a belső felületekre $+q$ és $-q$ töltéseket helyezünk, akkor ez nem befolyásolja a külső felületeken lévő töltéseket. 
+ A fentiek alapján már gyorsan eljuthatunk a megoldásig. Az $a)$ esetben az össztöltés $Q+2Q+3Q=6Q$, vagyis a két szélső lemez mindegyikének külső oldalán $+3Q$ töltés helyezkedik el. Ha a $+Q$ töltést a bal oldali lemezre juttattuk, és a rendszert összerakva ennek külső oldalára $+3Q$ töltés kerül, akkor a lemez belső oldalának $-2Q$ töltésűnek kell lenni. Eszerint a középső lemez bal oldalára $+2Q$ jut, és a bal oldali térrészben a térerősség balra mutat, nagysága pedig $E=\frac{1}{\varepsilon_0}\frac{2Q}{A}$. A középső lemez jobb oldálára ezek után már nem jut töltés, ott a térerősség 0. Ez egybevág azzal, hogy a jobb oldali lemez $3Q$ töltése teljes mértékben a külső felületre kerül. 
+ A $b)$ esetben az össztöltés $Q-2Q+3Q=2Q$, vagyis a két szélső lemez mindegyikének külső oldalán $+Q$ töltés helyezkedik el. Ilyenkor a bal oldali lemez belső felületére nem jut töltés, a bal oldali térrészben lesz a térerősség 0. A középső lemez teljes $-2Q$ töltése a jobb oldalára kerül, és így a jobb oldali térrészben $E=\frac{1}{\varepsilon_0}\frac{2Q}{A}$ nagyságú térerősség lesz, ami az $a)$ esettel megegyezően balra mutat. 
+ Megállapíthatjuk tehát, hogy az $a)$ és a $b)$ esetben a lemezek közötti térrészekben a térerősség szinte ugyanolyan lesz, a különbség csak annyi, hogy az $a)$ esetben a bal oldali térrészben lesz elektromos mező, a jobb oldaliban nem, míg a $b)$ esetben csak a jobb oldaliban lesz elektromos tér (nagyság és irány szerint ugyanakkora, mint az $a)$ esetben). A két eset között a külső térben van különbség, mert az $a)$ esetben a lemezeken kívüli tér háromszor akkora, mint a $b)$ esetben. 
+ Megjegyzés: A feladatot a szuperpozíciós elv és a töltésmegmaradás segítségével is megoldhatjuk. Egy $Q/A$ felületi töltéssűrűségű síklap mindkét oldalán $E=\frac{1}{\varepsilon_0}\frac{Q}{2A}$ nagyságú és ellentétes irányú a térerősség. Az egyes síkokon lévő töltések által keltett elektromos tereknek úgy kell szuperponálódniuk, hogy a fémlemezek belsejében nulla térerősséget eredményezzenek.

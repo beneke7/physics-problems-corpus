@@ -1,0 +1,286 @@
+---
+id: usapho-2008-b2
+source: usapho
+language: en
+solution_language: en
+translated: false
+problem: usapho-2008-b2
+solution_type: official
+source_document: solution-document-usapho-2008-s
+source_pdf: cache/phoxiv/usapho/2008_S.pdf
+figure_files: []
+provenance_note: "Source-provided solution section from cache/phoxiv/usapho/2008_S.pdf."
+---
+
+Question B2
+Consider a parallel plate capacitor with the plates vertical. The plates of the capacitor are rigidly supported
+in place. The distance between the plates is d. The plates have height h and area A 
+ d2
+. Assume
+throughout this problem that the force of air resistance may be neglected; however, the force of gravity
+cannot be neglected. Neglect any edge effects as well as any magnetic effects.
+h
+d/2
+h/2
+L
+h
+d
+Rigid Support String
+a. A small metal ball with a mass M and a charge q is suspended from a string of length L that is tied
+to a rigid support. When the capacitor is not charged, the metal ball is located at the center of the
+capacitor— at a distance d/2 from both plates and at a height h/2 above the bottom edge of the plates.
+If instead a constant potential difference V0 is applied across the plates, the string will make an angle
+θ0 to the vertical when the metal ball is in equilibrium.
+i. Determine θ0 in terms of the given quantities and fundamental constants.
+ii. The metal ball is then lifted until it makes an angle θ to the vertical where θ is only slightly
+greater than θ0. The metal ball is then released from rest. Show that the resulting motion is
+simple harmonic motion and find the period of the oscillations in terms of the given quantities
+and fundamental constants.
+Copyright ©2008 American Association of Physics Teachers
+2008 Semifinal Exam Part B 14
+iii. When the ball is at rest in the equilibrium position θ0, the string is cut. What is the maximum
+value for V0 so that the ball will not hit one of the plates before exiting? Express your answer in
+terms of the given quantities and fundamental constants.
+b. Suppose instead that the ball of mass M and charge q is released from rest at a point halfway between
+the plates at a time t = 0. Now, an AC potential difference V (t) = V0 sinωt is also placed across the
+capacitor. The ball may hit one of the plates before it falls (under the influence of gravity) out of the
+region between the plates. If V0 is sufficiently large, this will only occur for some range of angular
+frequencies ωmin < ω < ωmax. You may assume that ωmin 
+
+p
+g/h and ωmax 
+
+p
+g/h. Making these
+assumptions, find expressions for ωmin and ωmax in terms of the given quantities and/or fundamental
+constants.
+c. Assume that the region between the plates is not quite a vacuum, but instead humid air with a uniform
+resistivity ρ. Ignore any effects because of the motion of the ball, and assume that the humid air doesn’t
+change the capacitance of the original system.
+i. Determine the resistance between the plates.
+ii. If the plates are originally charged to a constant potential source V0, and then the potential is
+removed, how much time is required for the potential difference between the plates to decrease to
+a value of V0/e, where lne = 1?
+iii. If the plates are instead connected to an AC potential source so that the potential difference
+across the plates is V0 sinωt, determine the amplitude I0 of the alternating current through the
+potential source.
+Solution
+a. i. The electric field between the plates is E = V0/d. In equilibrium, the horizontal and vertical
+components of the tension balance the electrostatic and gravitational forces. Consequently,
+tanθ0 =
+qV0
+Mgd
+.
+ii. The simplest way to see this is to note that the electric field, for the purpose of this metal ball
+alone, acts like an effective extra horizontal contribution to the gravitational field. The system
+is thus a simple pendulum experiencing tilted gravity, which we know performs simple harmonic
+motion for small amplitudes. Then
+T = 2π
+s
+L
+geff
+= 2π
+s
+L
+p
+g2 + (qV0/Md)2
+= 2π
+s
+Lcosθ0
+g
+.
+iii. Upon cutting the string the ball will move in a straight line, tangent to the angle the string
+originally made. So it will leave the region between the plates a distance
+x1 = (L + h/2)tanθ0
+away from the center line. Setting this equal to d/2 and solving for V0 gives
+V0 =
+Mgd2
+(2L + h)q
+.
+b. The ball will experience an oscillating force in the x direction of
+FE =
+V0
+d
+sinωt.
+Copyright ©2008 American Association of Physics Teachers
+2008 Semifinal Exam Part B 15
+Hence, the x component of the acceleration will be
+ax =
+qV0
+Md
+sinωt.
+The ball is released from rest, so this can be directly integrated to give the x component of the velocity,
+vx =
+qV0
+Mdω
+(1 − cosωt).
+This can be integrated again to find the position relative to the center, which we will define as x = 0,
+x =
+qV0
+Mdω
+
+t −
+1
+ω
+sinωt
+
+.
+The ball hits one of the plates if this value exceeds d/2 while it is still in the region between the plates.
+It exits this region when t =
+p
+h/g.
+For ωmin, we may perform a small angle approximation,
+sinωt ≈ ωt −
+1
+6
+ω3
+t3
+yielding
+Md2
+ω
+2qV0
+=
+1
+6
+ω2
+t3
+⇒ ωmin =
+3Md2
+qV0
+p
+g3/h3.
+As for ωmax, we may neglect the (sinωt)/ω term entirely, for
+Md2
+ω
+2qV0
+= t ⇒ ωmax =
+2qV0
+Md2
+p
+h/g.
+At higher frequencies the ball will miss, falling out of the plates before it hits either side.
+c. i. The resistance between the plates is given by
+R = ρd/h2
+.
+ii. This is an RC circuit, with characteristic time
+τ = RC = ρ
+d
+h2
+0h2
+d = ρ0.
+iii. The AC circuit is effectively a capacitor in parallel with a resistor. The current through each is
+ninety degrees out of phase, so if the magnitudes of the current through the capacitor IC and the
+resistor IR are known, then
+I0 =
+q
+I2
+C + I2
+R.
+Since the devices are in parallel, the potential drop across either are equal. We have
+IR = V0/R, IC = V0/|ZC| = ωCV0.
+Then
+I0 = V0
+r
+1
+R2
++ ω2C2 =
+V0
+R
+p
+1 + (ωRC)2 =
+V0h2
+ρd
+p
+1 + (ωρ0)2.
+Copyright ©2008 American Association of Physics Teachers
+2008 Semifinal Exam Part B 16
+STOP: Do Not Continue to Part C
+If there is still time remaining for Part B, you should review your work for
+Part B, but do not continue to Part C until instructed by your exam
+supervisor. You may not return to Part A
+Copyright ©2008 American Association of Physics Teachers
+2008 Semifinal Exam Part C 17
+Optical Society of America Bonus Question
+Researchers have a developed a lens made of liquid. The spherical lens consists of a droplet of transparent
+liquid resting on a electrically controllable surface. When the voltage of the surface is changed, the droplet
+itself changes shape; it either tries to “ball-up” more strongly or it becomes flatter. Figure 1 is a sketch of
+the liquid lens and several parameters that describe it, including the thickness of the lens (t), the radius
+of curvature of the top surface (R) and the contact angle (θ), which represents the angle between the flat
+surface beneath the droplet and the tangent to the curved surface at the point of contact.
+R R
+t
+θ
+a. When a certain voltage is applied, both the contact angle and lens thickness increase (and the lens
+becomes more curved). In this case, is the liquid attracted or repelled by the surface?
+b. Express the contact angle as a function of R and t.
+c. The total volume of the liquid lens is an important parameter because as the liquid lens changes shape,
+its volume is conserved. Calculate the volume of the lens as a function of R and t.
+d. Use your result to part (b) to eliminate the variable t from your expression for the volume and find
+V (R,θ).
+e. By changing the voltage on the control surface, the contact angle, θ, can be changed, which in turn
+changes the focal length of the lens, f. The lensmaker’s formula can be used to calculate the focal
+length and is given by
+1
+f
+= (nliquid − nair)
+
+1
+R1
+−
+1
+R2
+
+,
+where nliquid and nair are the refractive indices of the liquid in the lens and air around it, and R1 and
+R2 are the radii of curvature of the two surfaces of the lens. In figure 1, R1 is the curved face and R2
+is the flat face. Use the lensmaker’s formula to calculate the focal length of the lens in terms of the
+total volume of the liquid, the contact angle, and the relevant refractive indices.
+Sidenote: liquid lenses are interesting because they are electrically controllable, variable focus lenses
+that can be very compact. People are working on putting them into cell phone cameras for ultra-
+compact zoom lenses. For more information on this type of liquid lens, see T. Krupenkin, S. Yang,
+and P. Mach, “Tunable liquid microlens,” Appl. Phys. Lett. 82, 316-318 (2003).
+Solution
+a. Because the center of mass of the liquid rises, it is repelled by the surface.
+b. The angle θ is also the angle between the vertical and the radii drawn above, so cosθ = 1 − t/R.
+c. Let z be the vertical distance from the top of the surface. Then
+V =
+Z t
+0
+πr2
+dz =
+Z t
+0
+π(2Rz − z2
+)dz = π(Rt2
+− t3
+/3).
+Copyright ©2008 American Association of Physics Teachers
+2008 Semifinal Exam Part C 18
+d. By rearranging, we have t/R = 1 − cosθ. Thus,
+V =
+πR3
+3
+(t/R)2
+(3 − t/R) =
+πR3
+3
+(1 − cosθ)2
+(2 + cosθ) =
+πR3
+3
+(cos3
+θ − 3cosθ + 2).
+e. The radius of curvature of the flat face is R2 = ∞, and R1 = R, so
+f =
+R
+nliquid − nair
+=
+1
+nliquid − nair
+
+3V
+π(cos3 θ − 3cosθ + 2)
+1/3
+.
+This matches equation (3) of the cited paper.
+Copyright ©2008 American Association of Physics Teachers

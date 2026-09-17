@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex,nofollow">
+	<title>physics problem finder · internal</title>
+	<style>
+		:root { --bg:#fff; --text:#222; --muted:#666; --line:#ccc; --red:#c00; }
+		* { box-sizing:border-box; }
+		body { margin:0; color:var(--text); background:var(--bg); font:14px/1.45 Verdana,Geneva,sans-serif; }
+		main, #gate { width:min(1100px,calc(100% - 28px)); margin:auto; }
+		a { color:var(--red); }
+		a:visited { color:#551a8b; }
+		h1 { margin:0; font:700 20px/1.2 Georgia,serif; }
+		header { display:flex; justify-content:space-between; align-items:baseline; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
+		#gate { max-width:600px; padding-top:22vh; }
+		#gate h1 { margin-bottom:12px; }
+		form { display:flex; gap:7px; }
+		input, select, button { min-height:32px; border:1px solid #aaa; border-radius:2px; background:#fff; color:var(--text); font:inherit; }
+		input { min-width:0; padding:7px; }
+		input[type=search] { width:100%; }
+		form input { flex:1; }
+		button { padding:5px 10px; cursor:pointer; }
+		button:hover, button:focus-visible, input:focus-visible, select:focus-visible { outline:2px solid var(--red); outline-offset:1px; }
+		.muted, #status { color:var(--muted); }
+		#gate .muted { font-size:12px; }
+		.toolbar { padding:12px 0 16px; }
+		.filters { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,145px),1fr)); gap:7px; margin-top:7px; }
+		.filter { display:grid; gap:2px; color:var(--muted); font-size:11px; }
+		select { width:100%; min-width:0; padding:4px; text-overflow:ellipsis; }
+		.check { display:flex; align-items:center; gap:5px; color:var(--muted); font-size:12px; }
+		#results { border-top:1px solid var(--line); }
+		.record { padding:12px 0; border-bottom:1px solid #ddd; }
+		.record-top { display:flex; flex-wrap:wrap; gap:7px; color:var(--muted); font-size:12px; }
+		.source { color:#555; font-weight:700; }
+		.record h2 { margin:2px 0 0; font:18px/1.3 Georgia,serif; }
+		.field { margin-top:5px; }
+		.field-label { display:inline-block; margin-right:7px; color:var(--muted); font-size:11px; }
+		.tag { color:#555; font-size:12px; }
+		.tag + .tag::before { content:", "; }
+		.links { display:flex; flex-wrap:wrap; gap:0 10px; margin-top:6px; font-size:12px; }
+		.links a + a::before { content:"·"; margin-right:10px; color:var(--muted); }
+		#more { display:block; margin:14px auto; }
+		.empty, .error { padding:24px 0; color:var(--muted); text-align:center; }
+		.error { color:#900; }
+		footer { margin:30px auto 0; padding:14px 0 35px; border-top:1px solid var(--line); color:var(--muted); font-size:12px; }
+		@media (max-width:600px) { main,#gate,footer { width:calc(100% - 20px); } .filters { grid-template-columns:repeat(2,minmax(0,1fr)); } .filters .filter:first-child { grid-column:1/-1; } form { flex-wrap:wrap; } form input, form button { flex:1 1 100%; } }
+	</style>
+</head>
+<body>
+	<section id="gate">
+		<h1>physics problem finder · internal</h1>
+		<p>Enter the shared key to open the local archive links.</p>
+		<form id="unlock"><input id="key" type="password" autocomplete="current-password" placeholder="Shared key"><button>Open archive</button></form>
+		<p id="gate-message" class="muted">This is a casual UI gate, not real access control: the GitHub Pages files remain publicly downloadable.</p>
+	</section>
+
+	<main id="app" hidden>
+		<header><h1>physics problem finder</h1><a href="../">public metadata index</a></header>
+		<section class="toolbar">
+			<input id="query" type="search" placeholder="Search source, problem, topic, technique, idea, or math tool…" autocomplete="off">
+			<div class="filters">
+				<label class="filter">Competition<select id="source"><option value="all">All competitions</option></select></label>
+				<label class="filter">Year<select id="year"><option value="all">All years</option></select></label>
+				<label class="filter">Topic<select id="topic"><option value="all">All topics</option></select></label>
+				<label class="filter">Technique<select id="technique"><option value="all">All techniques</option></select></label>
+				<label class="filter">Idea<select id="idea"><option value="all">All ideas</option></select></label>
+				<label class="filter">Math tool<select id="math"><option value="all">All math tools</option></select></label>
+				<label class="filter">Language<select id="language"><option value="all">All languages</option></select></label>
+				<label class="check"><input id="solution" type="checkbox"> Solution indexed</label>
+				<button id="reset" type="button">Reset</button>
+				<button id="reset" type="button">Reset</button>
+			</div>
+			<p id="status" aria-live="polite">Loading catalogue…</p>
+		</section>
+		<section id="results" aria-live="polite"></section>
+		<button id="more" type="button" hidden>Show more</button>
+		<footer>
+			<p><strong>Internal convenience copy.</strong> Links expose Markdown and selected archive metadata from this public repository. Figures are not mirrored here: the referenced source images total about 535 MiB. Do not treat this static key as a licence or a security boundary.</p>
+		</footer>
+	</main>
+
+	<script>
+		const $ = (id) => document.getElementById(id);
+		const KEY_HASH = "9bc33fdb9f533d2c8161fa9c72f59f4811a834cb71c1f936a5df4d6d2c321bd9";
+		const array = (v) => Array.isArray(v) ? v : [];
+		const text = (v) => v === null || v === undefined ? "" : String(v);
+		const pageSize = 50;
+		let records = [], manifest = {}, ideaLabels = {}, visibleLimit = pageSize, timer;
+
+		async function digest(value) {
+			const bytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value));
+			return [...new Uint8Array(bytes)].map((b) => b.toString(16).padStart(2, "0")).join("");
+		}
+		async function unlock(event) {
+			event.preventDefault();
+			try {
+				if (await digest($("key").value) !== KEY_HASH) throw new Error("wrong key");
+				sessionStorage.setItem("physics-corpus-internal", "1");
+				$("gate").hidden = true; $("app").hidden = false; load();
+			} catch (_) { $("gate-message").textContent = "That key did not match."; }
+		}
+		function optionValues(field) {
+			const values = field === "year" ? records.map((r) => text(r[field])) : records.flatMap((r) => array(r[field]));
+			return [...new Set(values.filter(Boolean))].sort((a, b) => String(a).localeCompare(String(b), undefined, { numeric:true }));
+		}
+		function fill(id, values, labels = {}) {
+			const select = $(id); const first = select.options[0].textContent;
+			select.replaceChildren(new Option(first, "all"));
+			values.forEach((value) => select.add(new Option(labels[value] || value, value)));
+		}
+		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
+		function addTags(parent, label, values, limit = 7) {
+			const shown = array(values).slice(0, limit); if (!shown.length) return;
+			const field = make("div", "field"); field.append(make("span", "field-label", label));
+			shown.forEach((v) => field.append(make("span", "tag", ideaLabels[v] || v))); parent.append(field);
+		}
+		function kevin(record) {
+			if (record.source !== "kevin-zhou") return null;
+			const parts = record.id.split("-"); if (parts.length < 4) return null;
+			const slug = parts.slice(2, -1).join("-");
+			return { handout: record.handout || slug.replace(/(^|-)([a-z])/g, (_, a, b) => a + b.toUpperCase()), problem: record.problem || parts.at(-1).toUpperCase() };
+		}
+		function card(record) {
+			const article = make("article", "record"), top = make("div", "record-top"), k = kevin(record);
+			top.append(make("span", "source", record.source_name || record.source));
+			if (k) top.append(make("span", "", `· ${k.handout}`)); else { if (record.year) top.append(make("span", "", `· ${record.year}`)); if (record.problem) top.append(make("span", "", `· ${record.problem}`)); }
+			article.append(top, make("h2", "", k ? k.problem : record.title || record.problem || record.id));
+			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
+			const links = make("div", "links"), local = manifest[record.id] || {};
+			[[local.problem, "problem MD"], [local.en, "EN MD"], [local.hu, "HU MD"], [local.solution, "solution MD"]].forEach(([path, label]) => { if (path) { const a = make("a", "", label); a.href = path; links.append(a); } });
+			array(local.solution_documents).forEach((path, i) => { const a = make("a", "", `official document${i ? ` ${i + 1}` : ""}`); a.href = path; links.append(a); });
+			if (local.figure_count) links.append(make("span", "muted", `${local.figure_count} figure metadata entr${local.figure_count === 1 ? "y" : "ies"}; files not mirrored`));
+			if (links.childElementCount) article.append(links); return article;
+		}
+		function searchable(r) { return [r.id,r.source,r.source_name,r.year,r.problem,r.title,r.handout,r.language,r.difficulty,r.format,...array(r.languages),...array(r.topics),...array(r.subtopics),...array(r.math_tools),...array(r.techniques),...array(r.ideas),...array(r.ideas).map((v) => ideaLabels[v] || v)].map(text).join(" ").toLowerCase(); }
+		function render() {
+			const needle = $("query").value.trim().toLowerCase(), filtered = records.filter((r) => (!needle || r.search.includes(needle)) && ($("source").value === "all" || r.source === $("source").value) && ($("year").value === "all" || text(r.year) === $("year").value) && ($("topic").value === "all" || array(r.topics).includes($("topic").value)) && ($("technique").value === "all" || array(r.techniques).includes($("technique").value)) && ($("idea").value === "all" || array(r.ideas).includes($("idea").value)) && ($("math").value === "all" || array(r.math_tools).includes($("math").value)) && ($("language").value === "all" || array(r.languages).includes($("language").value)) && (!$('solution').checked || r.has_solution));
+			const shown = filtered.slice(0, visibleLimit); $("status").textContent = `${filtered.length.toLocaleString()} matching records` + (shown.length < filtered.length ? ` · showing ${shown.length.toLocaleString()}` : ""); $("more").hidden = shown.length >= filtered.length; $("more").textContent = "Show more";
+			const result = $("results"); result.replaceChildren(); if (!shown.length) { result.append(make("div", "empty", "No records match these filters.")); return; } const fragment = document.createDocumentFragment(); shown.forEach((r) => fragment.append(card(r))); result.append(fragment);
+		}
+		function reset() { $("query").value = ""; ["source","year","topic","technique","idea","math","language"].forEach((id) => $(id).value = "all"); $("solution").checked = false; visibleLimit = pageSize; render(); }
+		function schedule() { clearTimeout(timer); timer = setTimeout(() => { visibleLimit = pageSize; render(); }, 100); }
+		async function load() {
+			try {
+				const [catalog, local] = await Promise.all([fetch("../catalog.json").then((r) => r.json()), fetch("manifest.json").then((r) => r.json())]);
+				ideaLabels = catalog.idea_labels || {}; manifest = local.records || {}; records = array(catalog.records).map((r) => ({ ...r, search: searchable(r) }));
+				fill("source", array(catalog.sources).map((s) => s.id), Object.fromEntries(array(catalog.sources).map((s) => [s.id, `${s.name} (${s.count})`]))); fill("year", optionValues("year")); fill("topic", optionValues("topics")); fill("technique", optionValues("techniques")); fill("idea", optionValues("ideas"), ideaLabels); fill("math", optionValues("math_tools")); fill("language", optionValues("languages"), Object.fromEntries(optionValues("languages").map((v) => [v, v.toUpperCase()]))); render();
+			} catch (_) { $("status").textContent = ""; $("results").append(make("div", "error", "The internal catalogue could not be loaded.")); }
+		}
+		$("unlock").addEventListener("submit", unlock); $("query").addEventListener("input", schedule); ["source","year","topic","technique","idea","math","language","solution"].forEach((id) => $(id).addEventListener("change", () => { visibleLimit = pageSize; render(); })); $("reset").addEventListener("click", reset); $("more").addEventListener("click", () => { visibleLimit += 100; render(); });
+		if (sessionStorage.getItem("physics-corpus-internal") === "1") { $("gate").hidden = true; $("app").hidden = false; load(); }
+	</script>
+</body>
+</html>

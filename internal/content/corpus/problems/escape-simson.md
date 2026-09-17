@@ -1,0 +1,54 @@
+---
+id: escape-simson
+source: nbpho
+native_id: "2022 P1 ESCAPE"
+year: 2022
+language: en
+translated: false
+links_hu: escape-simson
+topic: [mechanics]
+subtopic: [dynamics, trajectory-optimization]
+math_tools: [calculus, geometry-trigonometry]
+format: open-ended
+points: 8
+core_ideas: [kalda-kinematics-idea34]
+has_figure: true
+figure_files: []
+provenance_note: "NBPhO 2022 (Nordic-Baltic Physics Olympiad), Problem 1, by Päivo Simson. Transcribed from owner-provided images."
+verification_status: pending
+---
+
+**1. ESCAPE (8 points)** — *Päivo Simson.*
+
+During a nuclear weapon test, a bomb is dropped from an airplane at an altitude
+of $H = 9\ \mathrm{km}$ and is set to detonate at $h = 500\ \mathrm{m}$ above the
+ground. The air drag acting on the bomb during the fall is negligible. Immediately
+after releasing the bomb, the plane starts to escape the explosion. The crew is
+protected from radiation burst by a protective screen, but the plane is vulnerable
+to the shockwave and needs to be as far as possible from the detonation point.
+
+**i)** *(1 point)* The maximum speed of the airplane for a straight level flight
+(constant altitude) is $v_0$. What is the maximum diving angle so that the speed
+does not exceed the speed of sound $c$? The mass of the airplane is $m$, the air
+drag force is $F_d = kv^2$, and the gravitational acceleration is $g$.
+
+For simplicity, assume from now on that the airplane stays at a constant altitude,
+flies at a constant speed $v = 190\ \mathrm{m/s}$, and all air maneuvers are limited
+by the maximum allowed lift-to-weight ratio $n = 2.5$. The gravitational
+acceleration $g = 9.81\ \mathrm{m/s^2}$.
+
+**ii)** *(1 point)* After releasing the bomb, how much time does the airplane have
+before the radiation burst from the bomb hits it?
+
+**iii)** *(1 point)* What is the smallest possible curvature radius $R$ of the
+plane's trajectory and the corresponding bank angle $\alpha$ (cf figure) of the plane?
+
+**iv)** *(3 points)* Suggest a trajectory for the fastest escape. Calculate all the
+parameters that define the shape of the trajectory and its position relative to the
+detonation point.
+
+**v)** *(2 points)* Based on the suggested trajectory, how far is the airplane from
+the detonation point when the shockwave hits it? It is estimated that the safe
+distance is 25 km. Is the plane able to escape the explosion? Assume that the
+average traveling speed of the shock wave is $u = 350\ \mathrm{m/s}$. For this part,
+if needed, you can use justified approximations to simplify the algebra.

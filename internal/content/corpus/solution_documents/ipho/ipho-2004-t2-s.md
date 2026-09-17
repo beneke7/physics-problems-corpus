@@ -1,0 +1,340 @@
+---
+id: solution-document-ipho-2004-t2-s
+source: ipho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/ipho/2004/T2_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [ipho-2004-t2]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/ipho/2004/T2_S.pdf."
+---
+
+Theoretical Question 2 / Solutions Page 1/6
+Theoretical Question 2: Rising Balloon
+1. Answers
+(a)
+P P
+P
+ng M F A B
+∆ +
+=
+(b) = γ
+0
+0 0
+P
+g z ρ
+= 5.5
+(c) = ∆P − 7
+0
+1 1 4
+λ λ
+κ
+r
+RT
+2 3 4 5
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+(d) a=0.110
+(e) f z =11 km, f λ =2.1.Theoretical Question 2 / Solutions Page 2/6
+2. Solutions
+[Part A]
+(a) [1.5 points]
+Using the ideal gas equation of state, the volume of the helium gas of n moles at
+pressure P P ∆ + and temperature T is
+) /( P P nRT V ∆ + = (a1)
+while the volume of ' n moles of air gas at pressure P and temperature T is
+P RT n V / ' = . (a2)
+Thus the balloon displaces
+P P
+P
+n n
+∆ +
+= ' moles of air whose weight is g n MA ' .
+This displaced air weight is the buoyant force, i.e.,
+P P
+P
+ng M F A B
+∆ +
+= . (a3)
+(Partial credits for subtracting the gas weight.)
+(b) [2 points]
+The pressure difference arising from a height difference of z is gz ρ − when the air
+density ρ is a constant. When it varies as a function of the height, we have
+g
+T
+P
+P
+T
+g
+dz
+dP
+0
+0 0 ρ
+ρ − = − = (b1)
+where the ideal gas law P T / ρ = constant is used. Inserting Eq. (2.1) and
+0 0 / 1 / z z T T − = on both sides of Eq. (b1), and comparing the two, one gets
+52 . 5
+10 01 . 1
+8 . 9 10 9 . 4 16 . 1
+5
+4
+0
+0 0
+=
+×
+× × ×
+= =
+P
+g z ρ
+γ . (b2)
+The required numerical value is 5.5.
+[Part B]
+(c) [2 points]
+The work needed to increase the radius from r to dr r + under the pressure
+difference P ∆ is
+Pdr r dW ∆ = 2
+4π , (c1)
+while the increase of the elastic energy for the same change of r isTheoretical Question 2 / Solutions Page 3/6
+dr
+r
+r
+r RT dr
+dr
+dU
+dW ) 4 4 ( 4 5
+6
+0
+− = = πκ . (c2)
+Equating the two expressions of dW , one gets
+)
+1
+( 4 7
+6
+0
+r
+r
+r
+RT P − = ∆ κ = − 7
+0
+1 1 4
+λ λ
+κ
+r
+RT
+. (c3)
+This is the required answer.
+The graph as a function of λ (>1) increases sharply initially, has a maximum at λ =71/6
+=1.38, and decreases as 1 −
+λ for largeλ . The plot of ) / 4 /( 0 r RT P κ ∆ is given below.
+2 3 4 5
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+(d) [1.5 points]
+From the ideal gas law,
+0 0 0 0 RT n V P = (d1)
+where 0 V is the unstretched volume.
+At volume 0
+3
+V V λ = containing n moles, the ideal gas law applied to the gas inside
+at 0 T T = gives the inside pressure in P as
+0 3
+0
+0 in / P
+n
+n
+V nRT P
+λ
+= = . (d2)
+On the other hand, the result of (c) at 0 T T = gives
+in P = 0 7 7
+0
+0
+0 0 ))
+1 1
+( 1 ( )
+1 1
+(
+4
+P a
+r
+RT
+P P P
+λ λ λ λ
+κ
+− + = − + = ∆ + . (d3)
+Equating (d2) and (d3) to solve for a,Theoretical Question 2 / Solutions Page 4/6
+7 1
+3
+0 1 ) /(
+− −
+−
+−
+=
+λ λ
+λ n n
+a . (d5)
+Inserting 0 /n n =3.6 and λ =1.5 here, a=0.110.
+[Part C]
+(e) [3 points]
+The buoyant force derived in problem (a) should balance the total mass of T M =1.12 kg.
+Thus, from Eq. (a3), at the weight balance,
+P P
+P
+∆ +
+=
+n M
+M
+A
+T
+. (e1)
+On the other hand, applying again the ideal gas law to the helium gas inside of volume
+0
+3 3
+0
+3 3
+3
+4
+3
+4
+V r r V λ π λ π = = = , for arbitrary ambient P and T , one has
+0 0
+0
+0
+3
+) (
+n
+n
+T
+T
+P
+V
+nRT
+P P = = ∆ + λ (e2)
+for n moles of helium. Eqs. (c3), (e1), and (e2) determine the three unknowns P ,
+P ∆ , and λ as a function of T and other parameters. Using Eq. (e2) in Eq. (e1), one
+has an alternative condition for the weight balance as
+0
+T 3 0
+0 n M
+M
+T
+T
+P
+P
+A
+= λ . (e3)
+Next using (c3) for P ∆ in (e2), one has
+0 0
+0
+6 2
+0
+3
+) 1 (
+4
+n
+n
+T
+T
+P
+r
+RT
+P = − + −
+λ λ
+κ
+λ
+or, rearranging it,
+) 1 ( 6 2
+0
+3 0
+0
+−
+− − = λ λ λ a
+n
+n
+T
+T
+P
+P
+, (e4)
+where the definition of a has been used again.
+Equating the right hand sides of Eqs. (e3) and (e4), one has the equation for λ as
+) 1 ( 6 2 −
+−λ λ = ) (
+1 T
+0 A M
+M
+n
+an
+− =4.54. (e5)
+The solution for λ can be obtained by
+54 . 4 ) 54 . 4 1 /( 54 . 4 3 2
+≈ − ≈ −
+λ : ≅ f λ 2.13. (e6)Theoretical Question 2 / Solutions Page 5/6
+To find the height, replace ) / /( ) / ( 0 0 T T P P on the left hand side of Eq. (e3) as a
+function of the height given in (b) as
+0
+T 3 1
+0
+3 0
+0
+) / 1 (
+n M
+M
+z z
+T
+T
+P
+P
+A
+f f = − = −
+λ λ γ
+=3.10 . (e7)
+Solution of Eq. (e7) for f z with f λ =2.13 and 1 − γ =4.5 is
+f z = 49 ( ) 5 . 4 / 1 3
+) 13 . 2 / 10 . 3 ( 1− × = 10.9 (km). (e8)
+The required answers are = f λ 2.1, and = f z 11 km.Theoretical Question 2 / Solutions Page 6/6
+3. Mark Distribution
+No.
+Total
+Pt.
+Partial
+Pt.
+Contents
+0.5 Archimedes’principle
+0.5 Ideal gas law applied correctly
+(a) 1.5
+0.5 Correct answer (partial credits 0.3 for subtracting He weight)
+0.8 Relation of pressure difference to air density
+0.5 Application of ideal gas law to convert the density into pressure
+0.5 Correct formula for γ
+(b) 2.0
+0.2 Correct number in answer
+0.7 Relation of mechanical work to elastic energy change
+0.3 Relation of pressure to force
+0.5 Correct answer in formula
+(c) 2.0
+0.5 Correct sketch of the curve
+0.3 Use of ideal gas law for the increased pressure inside
+0.4 Expression of inside pressure in terms of a at the given conditions
+0.5 Formula or correct expression for a
+(d) 1.5
+0.3 Correct answer
+0.3 Use of force balance as one condition to determine unknowns
+0.3 Ideal gas law applied to the gas as an independent condition to determine
+unknowns
+0.5 The condition to determine f λ numerically
+0.7 Correct answer for f λ
+0.5 The relation of f z versus f λ
+(e) 3.0
+0.7 Correct answer for f z
+Total 10

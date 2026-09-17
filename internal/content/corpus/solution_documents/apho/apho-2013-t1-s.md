@@ -1,0 +1,404 @@
+---
+id: solution-document-apho-2013-t1-s
+source: apho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/apho/2013/T1_S.pdf
+extraction_method: pdftotext-raw
+mapped_problems: [apho-2013-t1]
+verification_status: pending
+provenance_note: "Source-provided solution document; preserved from cache/phoxiv/apho/2013/T1_S.pdf."
+---
+
+Theoretical 1: Solution
+Conductors in Conducting Liquid
+1. Using Gauss law I
+E · dA =
+q
+✏0
+. (1)
+From symetry we know that the electric field only has radial component. Choose a cylinder
+(with a line charge as the axis) as the Gaussian surface, we obtain
+E.2⇡rl =
+l
+✏0
+.
+Simplify to obtain
+E = r̂
+2⇡✏0r
+. (2)
+2. The potential is given by
+V =
+Z r
+ref
+E · dl
+=
+Z r
+ref
+E.dr
+V =
+2⇡✏0
+lnr + K, (3)
+so f(r) = 2⇡✏0
+lnr. where K is a constant.
+3. The potential from both line charges is a superposition of both potential
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+−!!
+r1! r2!
+$b! b!
+x$
+y$
+Figure 1: System with two line charges
+V =
+2⇡✏0
+lnr1 +
+2⇡✏0
+lnr2 (4)
+=
+2⇡✏0
+ln
+p
+(b x)2 + y2
+p
+(b + x)2 + y2
+V =
+4⇡✏0
+ln
+(b x)2 + y2
+(b + x)2 + y2
+. (5)
+Conductors in Conducting Liquid Page 1 of 6Theoretical 1: Solution
+Conductors in Conducting Liquid
+We can rearrange eq.(5) in to:
+✓
+x
+✓
+1 +
+1
+◆◆2
++ y2
+= b2
+✓
+1 +
+1
+◆2
+1
+!
+(6)
+where = exp 4⇡✏0V
+. For an arbitrary potential V , Eq. (6) is an equation of circle.
+Figure 2: The equipotential surfaces with b = 1, for = 12.35 (left) and = 1
+12.35 (right)
+4. From eq.(5) and eq.(6), we see that for any arbitrary potential V , the equipotential surfaces
+of these two equal but opposite lines charge, are cylindrical surfaces. From this observation,
+we can choose the specific position for each line charge in both cylinders so that the surface of
+each cylinder is an equipotential surface.
+Consider the following figure !
+!!
+−!!
+R"
+r2!
+r1!
+l2!
+l1!
+!!
+Figure 3: Two line charges with its equipotential surfaces
+We would like to find a cylindrical equipotential surface enclose one line charge, let say the
+(if we could find the surface, by symmetry, we surely can find the identical one that enclose
+the line ). The potential is given by
+V =
+2⇡✏0
+lnr1 +
+2⇡✏0
+lnr2
+=
+4⇡✏0
+ln(l2
+1 + R2
+2l1Rcos ) +
+4⇡✏0
+ln(l2
+2 + R2
+2l2Rcos ). (7)
+Conductors in Conducting Liquid Page 2 of 6Theoretical 1: Solution
+Conductors in Conducting Liquid
+Since the surface of the cylinder has to be the equipotential surface, so the potential should
+not depend on , i.e. @V
+@ = 0.
+4⇡✏0
+2l1Rsin
+l2
+1 + R2 2l1Rcos
++
+4⇡✏0
+2l2Rsin
+l2
+2 + R2 2l2Rcos
+= 0 (8)
+l1
+l2
+1 + R2 2l1Rcos
+=
+l2
+l2
+2 + R2 2l2Rcos
+l2
+1l2 + R2
+l2 2l1l2Rcos = l1l2
+2 + R2
+l1 2l1l2Rcos
+l1l2(l1 l2) = R2
+(l1 l2)
+l1l2 = R2
+. (9)
+From the data in the problem, we have
+l1 + l2 = 10a, (10)
+l1l2 = 9a2
+. (11)
+Solve this quadratic equation to get
+l1 = 5a ± 4a. (12)
+However, since l1 > l2, we have
+l1 = 9a, (13)
+l2 = a. (14)
+Using this results on eq.(5), we have
+V =
+4⇡✏0
+ln
+(4a x)2 + y2
+(4a + x)2 + y2
+. (15)
+This is the potential in all region except inside both cylinders. For cylinders at x = 5a, the
+potential is constant and equal to
+V (x = 2a,y = 0) =
+4⇡✏0
+ln
+(4a + 2a)2 + 02
+(4a 2a)2 + 02
+=
+2⇡✏0
+ln3. (16)
+For cylinders at x = 5a, the potential is constant and equal to
+V (x = 2a,y = 0) =
+4⇡✏0
+ln
+(4a 2a)2 + 02
+(4a + 2a)2 + 02
+=
+2⇡✏0
+ln3. (17)
+The potential di↵erence between both cylinders are
+V =
+⇡✏0
+ln3 ⌘ V0. (18)
+Conductors in Conducting Liquid Page 3 of 6Theoretical 1: Solution
+Conductors in Conducting Liquid
+Substituting this results in the potential equation, the potential outside the two cylinders are:
+V =
+V0
+4ln3
+ln
+(4a x)2 + y2
+(4a + x)2 + y2
+. (19)
+And the potential inside the cylinders are:
+The potential inside the cylinder centered at (x = 5a,y = 0) is V = V0/2.
+The potential inside the cylinder centered at (x = 5a,y = 0) is V = V0/2.
+5. From eq.(18), we have
+V0 =
+q
+l⇡✏0
+ln3, (20)
+so we get
+C =
+q
+V0
+=
+l⇡✏0
+ln3
+(21)
+6. The electric field produces by both cylinders are
+Ex =
+V0
+2ln3
+✓
+4a + x
+(4a + x)2 + y2
++
+4a x
+(4a x)2 + y2
+◆
+. (22)
+Ey =
+V0
+2ln3
+✓
+y
+(4a + x)2 + y2
+y
+(4a x)2 + y2
+◆
+. (23)
+The volume current density is given by
+J = E (24)
+To calculate the total current, we may choose to calculate the current that flow through the
+x = 0 plane. On this plane, there is no current in the y direction. The total current is given by
+I =
+Z
+J · dA (25)
+=
+Z
+Exldy
+= l
+8aV0
+2ln3
+Z 1
+1
+dy
+(4a)2 + y2
+I =
+V0⇡ l
+ln3
+(26)
+7. The resistance is given by
+R =
+V0
+I
+=
+ln3
+⇡ l
+(27)
+and therefore
+RC =
+✏0
+(28)
+Conductors in Conducting Liquid Page 4 of 6Theoretical 1: Solution
+Conductors in Conducting Liquid
+8. Since the system has a high symmetry, we may use Ampere’s law. The magnetic field should
+not have any z dependence, since the current has no z dependence.
+Figure 4 shows the current density J flow from one cylinder to the other cylinder. Choose an
+Ampere loop on a constant x plane in a symmetrical way, so that the first path is pointing in
+the positive z direction with constant y coordinate, the second path is pointing to the negative
+y direction with constant z coordinate. The third path is pointing to the negative z direction,
+but with constant y coordinate. The fourth path is pointing in the positive y direction with
+constant z coordinate.
+Having this path, we need to calculate the current that flow through the loop
+I =
+Z
+J · dA
+=
+Z
+Jxldy
+=
+V0 l
+2ln3
+Z y
+y
+✓
+4a + x
+(4a + x)2 + y2
++
+4a x
+(4a x)2 + y2
+◆
+dy
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+≈!
+J"
+x$
+z$
+1!
+2!
+3!
+4!
+Figure 4: The Ampere loop
+I =
+V0 l
+ln3
+✓
+arctan
+y
+4a + x
++ arctan
+y
+4a x
+◆
+(29)
+Using the Ampere’s law
+I
+B · dl = µ0I (30)
+2Bzl =
+µ0V0 l
+ln3
+✓
+arctan
+y
+4a + x
++ arctan
+y
+4a x
+◆
+Bz = µ0
+V0
+2ln3
+✓
+arctan
+y
+4a + x
++ arctan
+y
+4a x
+◆
+(31)
+Conductors in Conducting Liquid Page 5 of 6Theoretical 1: Solution
+Conductors in Conducting Liquid
+therefore
+B = ẑ
+µ0V0
+2ln3
+✓
+arctan
+y
+4a + x
++ arctan
+y
+4a x
+◆
+(32)
+Conductors in Conducting Liquid Page 6 of 6
