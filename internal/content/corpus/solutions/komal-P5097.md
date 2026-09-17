@@ -22,5 +22,5 @@ A\cos\omega t\cdot \left[\sqrt{2}+2\cos\Delta\varphi\right]$
  Ekkora fáziskülönbség a direkt nyalábtól (a nulladrendű elhajlási maximumtól) mérve olyan $\alpha$ szögben alakul ki, amelyre 
  $\frac{d\sin\alpha}{\lambda}=\frac{\Delta\varphi}{2\pi}=\pm \frac{3}{8},$ 
  vagyis amely az ernyőn a nulladrendű maximumtól 
- $h=L\tg\alpha\approx L\sin\alpha=\frac{3}{8}\frac{\lambda L}{d}$ 
+ $h=L\tan\alpha\approx L\sin\alpha=\frac{3}{8}\frac{\lambda L}{d}$ 
  távol található.

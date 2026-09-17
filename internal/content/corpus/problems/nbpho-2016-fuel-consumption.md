@@ -12,8 +12,8 @@ format: open-ended
 points: 5
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2016 (Nordic-Baltic Physics Olympiad), Problem 1, by Jaan Kalda. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2016.pdf). Graph extraction from PDF pending."
+figure_files: [nbpho-2016-fuel-consumption-fig1.png]
+provenance_note: "NBPhO 2016 (Nordic-Baltic Physics Olympiad), Problem 1, by Jaan Kalda. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2016.pdf). Statement graph harvested from the source PDF."
 verification_status: pending
 links_hu: "nbpho-2016-fuel-consumption"
 has_solution: true
@@ -22,5 +22,7 @@ techniques: [graphical-reduction, conservation-laws]
 ---
 
 **1. FUEL CONSUMPTION (5 points)** — *Jaan Kalda.*
+
+![Fuel consumption as a function of time](../../sources/nbpho/figures/nbpho-2016-fuel-consumption-fig1.png)
 
 The given graph (a larger copy is on an extra sheet) shows a car's fuel consumption as a function of time. It is known that the car started moving from a horizontal road segment with initial acceleration $a_{0}=5 \mathrm{~m} / \mathrm{s}^{2}$. At time $t_{1}=11 \mathrm{~s}$, the road was horizontal and the driver switched on the cruise control for constant speed $v_{0}=90 \mathrm{~km} / \mathrm{h}$. Shortly afterwards, the car started moving up a hill. How high was the highest point on the road over that hill, relative to the height at $t_{1}$ ? Assume that the efficiency of the car was constant at all times. Remark: between seconds 2 and 10, there might have been ascents and/or descents on the road.

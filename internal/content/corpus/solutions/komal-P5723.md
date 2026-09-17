@@ -29,7 +29,7 @@ K\frac{\ell}{2}\sin\alpha-F\frac{\ell}{2}\cos\alpha=\Theta\beta=\left(\frac{1}{1
 $$\begin{gather*}
 a_y=\frac{\ell}{2}\beta\sin\alpha,\\
 a_x=\frac{\ell}{2}\beta\cos\alpha,\\
-\frac{a_y}{a_x}=\tg\alpha.
+\frac{a_y}{a_x}=\tan\alpha.
 \end{gather*}$$
  Ezekből az egyenletekből megkaphatjuk a tömegközéppont gyorsulásának vízszintes és függőleges összetevőjét: 
 $$\begin{gather*}

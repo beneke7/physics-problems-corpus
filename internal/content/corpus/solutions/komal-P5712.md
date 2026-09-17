@@ -18,7 +18,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  vagyis $r=\sqrt{3}t=k/\sqrt{3}$, tehát $k=3t$. Ezt a leképezési törvénybe helyettesítve ez az eredmény adódik: 
  $\frac{1}{t}+\frac{1}{3t}=\frac{1}{f},\qquad\textrm{azaz}\qquad t=\frac{4}{3}f=40\,\mathrm{cm}.$ 
 
- Megjegyzés. Ugyanezt a $\tg 60^\circ=\sqrt{3}$ és $\tg 30^\circ=1/\sqrt{3}$ szögfüggvény-értékekből is megkaphattuk volna. 
+ Megjegyzés. Ugyanezt a $\tan 60^\circ=\sqrt{3}$ és $\tan 30^\circ=1/\sqrt{3}$ szögfüggvény-értékekből is megkaphattuk volna. 
 
  Ha $t<f$, akkor a szentjánosbogár látszólagos (virtuális) képe jön létre a lencsének a bogár felé eső oldalán, a lencsétől $\vert k\vert=-k$ távolságban $(k<0)$, amikor a fényforrás éppen áthalad az optikai tengelyen. 
 

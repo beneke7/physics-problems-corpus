@@ -11,9 +11,9 @@ subtopic: [phase-transition, saturated-vapor, condensation, heat-conduction, tem
 format: open-ended
 math_tools: [algebra]
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "English translation of Eötvös Competition 2011, Problem 2; translated from the Hungarian source statement (cache/phoxiv/eotvos/2011_S.pdf, statement-only extraction)."
+provenance_note: "English translation of Eötvös Competition 2011, Problem 2; translated from the Hungarian source statement (cache/phoxiv/eotvos/2011_S.pdf, statement-only extraction). The problem statement contains no figure; source-page diagrams belong to the official solution."
 verification_status: pending
 ---
 

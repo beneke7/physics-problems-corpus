@@ -10,7 +10,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
 **Megoldás.**
  Bíborszínű fényfolt olyan helyen jöhet létre az ernyőn, ahol mindkét összetevőre (valamilyen rendű) elhajlási maximum található. Az optikai tengely mentén ez nyilván teljesül (nulladrendű elhajlás). Ha ettől 40 cm távol, vagyis 
- $\tg\alpha\approx \sin\alpha=\frac{20~\rm cm}{200~\rm cm}=0{,}1$ 
+ $\tan\alpha\approx \sin\alpha=\frac{20~\rm cm}{200~\rm cm}=0{,}1$ 
  szögnél is teljesül, hogy 
  $d\sin\alpha=0{,}1\,d=n_1\lambda_1=n_2\lambda_2,$ 
  (ahol $n_1$ és $n_2$ egész számok), akkor ott is mindkét hullámhosszra erősítést, vagyis bíborszínű fényfoltot látunk. Ezek szerint 

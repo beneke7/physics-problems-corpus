@@ -13,7 +13,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  1. ábra 
 
- A súrlódva lecsúszó test gyorsulása az $\arctg\mu<\alpha\le 90^\circ$ hajlásszögű lejtőn 
+ A súrlódva lecsúszó test gyorsulása az $\arctan\mu<\alpha\le 90^\circ$ hajlásszögű lejtőn 
  $(1)$ $a(\alpha)=g(\sin\alpha-\mu\cos\alpha),$ 
  így az adott $t$ idő alatt 
  $s(\alpha)=\frac{a(\alpha)}{2}t^2=\frac{g}{2}t^2(\sin\alpha-\mu\cos\alpha)$ 
@@ -37,18 +37,18 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $R=\frac{h}{2}\sqrt{1+\mu^2},$ 
  középpontjának koordinátái pedig 
  $x_0=-\frac{\mu h}{2 }; \qquad y_0=-\frac{ h}{2 }.$ 
- Mivel a fenti számolás csak a $90^\circ\ge \alpha>\arctg \mu$ hajlásszögű lejtőkre érvényes, a kérdéses pontok a 2. ábrán látható körnek csak a zölden jelölt részén helyezkednek el. Amennyiben $\alpha<-\arctg \mu$ (vagyis a $P$ ponttól induló lejtő bal felé lejt), a kérdéses pontok a zöld körívnek az $y$ tengelyre vett tükörképén helyezkednek el. Ha pedig 
- $\vert\alpha\vert\le\arctg \mu,$ 
+ Mivel a fenti számolás csak a $90^\circ\ge \alpha>\arctan \mu$ hajlásszögű lejtőkre érvényes, a kérdéses pontok a 2. ábrán látható körnek csak a zölden jelölt részén helyezkednek el. Amennyiben $\alpha<-\arctan \mu$ (vagyis a $P$ ponttól induló lejtő bal felé lejt), a kérdéses pontok a zöld körívnek az $y$ tengelyre vett tükörképén helyezkednek el. Ha pedig 
+ $\vert\alpha\vert\le\arctan \mu,$ 
  a test el se indul a lejtőn, folyamatosan (tehát $t$ idő elteltével is) a $P$ pontban marad. 
 
 **II. megoldás**
 . Egy $\alpha$ hajlásszögű, $\mu$ súrlódási együtthatóval jellemezhető lejtőre helyezett test akkor indul el (akkor tud gyorsulni), ha 
- $\tg\alpha > \mu,$ 
+ $\tan\alpha > \mu,$ 
  vagyis ha 
- $\alpha >\arctg\mu\equiv\varepsilon.$ 
+ $\alpha >\arctan\mu\equiv\varepsilon.$ 
  Az $\varepsilon$ szöget – érthető okokból – súrlódási határszögnek nevezik. 
  Az $\alpha$ hajlásszögű lejtőn mozgó test gyorsulása 
- $a=g(\sin\alpha-\tg \varepsilon \cos\alpha)=
+ $a=g(\sin\alpha-\tan \varepsilon \cos\alpha)=
 \frac{g}{\cos\varepsilon}(\sin\alpha\cos\varepsilon-\cos\alpha\sin\varepsilon)=\frac{g}{\cos\varepsilon}\sin(\alpha-\varepsilon).$ 
  Ez az összefüggés azt mutatja, hogy a súrlódásos lejtőn csúszó test mozgása éppen olyan, mintha $g'=\cfrac{g}{\cos\varepsilon}$ nehézségi gyorsulás mellett egy súrlódásmentes lejtőn mozogna a test, amelynek hajlásszöge $\varepsilon$-nal kisebb, mint a tényleges $\alpha$ hajlásszög. Ez utóbbi szögeltérést úgy is értelmezhetjük, hogy a $\boldsymbol g'$ nehézségi gyorsulás nem függőlegesen lefelé mutató, hanem a függőlegessel $\varepsilon$ szöget bezáró, a lejtő síkjának normálvektorához közelebb álló vektor ( 3. ábra ). 
 
@@ -63,7 +63,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $s=\dfrac{g't^2}{2}\sin(\alpha-\varepsilon)=
 \cfrac{h}{\cos\varepsilon}\sin(\alpha-\varepsilon)$ 
  utat tesz meg, és így a $\boldsymbol g'$ irányú, $h'$ átmérőjű Thalesz-kör zölden jelölt részének pontjaiba kerülhet ( 4. ábra ). A kör középpontja a $P$ pont alatt $h/2$ mélységben és a $P$-n átmenő függőleges egyenestől 
- $\frac{h'}{2}\sin \varepsilon=\frac {h}{2\cos\varepsilon}\sin\varepsilon=\frac{h}{2}\tg\varepsilon=\frac{h}{2}\mu$ 
+ $\frac{h'}{2}\sin \varepsilon=\frac {h}{2\cos\varepsilon}\sin\varepsilon=\frac{h}{2}\tan\varepsilon=\frac{h}{2}\mu$ 
  távolságra található, összhangban az I. megoldás eredményével.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5480-sol-fig1.gif)

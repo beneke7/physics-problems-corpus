@@ -13,12 +13,14 @@ format: open-ended
 points: 7
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2024 (Északi-Balti Fizika Olimpia), 1. feladat, szerzők Päivo Simson és Jaan Kalda. Mathpix OCR a cache/phoxiv/nbpho/2024.pdf fájlból. Ábra kinyerése PDF-ből függőben van."
+figure_files: [nbpho-2024-four-charges-fig1.png]
+provenance_note: "NBPhO 2024 (Északi-Balti Fizika Olimpia), 1. feladat, szerzők Päivo Simson és Jaan Kalda. Mathpix OCR a cache/phoxiv/nbpho/2024.pdf fájlból. A feladat ábráját a forrás-PDF-ből nyertük ki."
 verification_status: pending
 ---
 
 **1. Négy töltés (7 pont)** — *Päivo Simson, Jaan Kalda.*
+
+![A négy töltés kezdeti elrendezése](../../sources/nbpho/figures/nbpho-2024-four-charges-fig1.png)
 
 Négy azonos részecske kezdetben egy négyzet sarkain helyezkedik el, az alábbi ábra szerint. Az összes részecskének ugyanaz a töltése ($q$), tömege ($m$) és az inicális sebesség nagysága ($v_{0}$) egyenlő. Az inicális sebességek irányát az ábra mutatja. Feltételezhetjük, hogy $v \ll c$ és elhanyagoljuk a gravitációt.
 

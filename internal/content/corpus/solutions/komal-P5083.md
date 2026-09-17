@@ -15,10 +15,10 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $mg\sin\alpha\sin\beta=\mu mg\cos\alpha,$ 
  $mg\sin\alpha\cos\beta=QvB. $ 
  A fenti egyenletek négyzetösszegéből 
- $v=\frac{mg\cos\alpha}{QB}\sqrt{\tg^2\alpha-\mu^2},$ 
+ $v=\frac{mg\cos\alpha}{QB}\sqrt{\tan^2\alpha-\mu^2},$ 
  az egyenletek arányából pedig 
- $\tg\beta=\frac{\mu}{\sqrt{\tg^2\alpha-\mu^2}}$ 
+ $\tan\beta=\frac{\mu}{\sqrt{\tan^2\alpha-\mu^2}}$ 
  következik. 
- A fenti képletek csak $\mu<\tg\alpha$ esetben érvényesek. Amennyiben $\mu>\tg\alpha$, a korong nem jön mozgásba, illetve ha meglökjük, hamarosan megáll, tehát az állandósult sebessége nulla lesz.
+ A fenti képletek csak $\mu<\tan\alpha$ esetben érvényesek. Amennyiben $\mu>\tan\alpha$, a korong nem jön mozgásba, illetve ha meglökjük, hamarosan megáll, tehát az állandósult sebessége nulla lesz.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5083-sol-fig1.gif)

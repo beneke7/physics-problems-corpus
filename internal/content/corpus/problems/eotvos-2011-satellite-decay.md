@@ -10,9 +10,9 @@ subtopic: [drag-force, orbital-decay, circular-orbits, satellite-dynamics, gravi
 format: open-ended
 math_tools: [calculus, algebra, dimensional-analysis]
 core_ideas: [kalda-mechanics-idea46]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2011, Problem 1. Mathpix OCR of cache/phoxiv/eotvos/2011_S.pdf (statement-only extraction; full PDF contains solutions). Figure present in source PDF page 2 but not yet extracted to local path."
+provenance_note: "Eötvös Competition 2011, Problem 1. Mathpix OCR of cache/phoxiv/eotvos/2011_S.pdf (statement-only extraction; full PDF contains solutions). The problem statement contains no figure; the source-page diagram belongs to the official solution."
 verification_status: pending
 links_en: eotvos-2011-satellite-decay
 has_solution: true

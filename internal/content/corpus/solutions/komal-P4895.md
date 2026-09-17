@@ -22,6 +22,6 @@ $
  Hasonló megfontolásokkal adódik, hogy a másik rúd által kifejtett erő 
  $F_2=\gamma\frac{mM}{\ell^2}\cdot \frac16.$ 
  Ezek szerint az eredő gravitációs erő iránya a hosszabb rúd felé mutató egyenessel 
- $\alpha=\arctg\frac14\approx 14^\circ-\text{os} $ 
+ $\alpha=\arctan\frac14\approx 14^\circ-\text{os} $ 
  szöget zár be, és az eredő erő nagysága 
  $F=\sqrt{F_1^2+F_2^2}=\gamma\frac{\sqrt{17}mM}{6\ell^2}.$

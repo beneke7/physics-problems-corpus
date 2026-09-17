@@ -24,13 +24,13 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A pontszerű test rezgőmozgásának dinamikai feltételét a húrt feszítő $F$ erő függőleges komponenséből származó eredő erő biztosítja: 
  $-2F\sin\alpha=Ma,$ 
  ahol $\sin\alpha$ kis kitérések esetén közelíthető a húr érintőjének meredekségével az $x=L$ helyen: 
- $\sin \alpha\approx\tg \alpha =\left.\frac{\partial y}{\partial x}\right\vert_{x=L}=Ak\cos(kL)\cos(\omega t).$ 
+ $\sin \alpha\approx\tan \alpha =\left.\frac{\partial y}{\partial x}\right\vert_{x=L}=Ak\cos(kL)\cos(\omega t).$ 
  Az utóbbi három összefüggés felhasználásával a következőt kapjuk: 
  $2FAk\cos(kL)=MA\omega^2\sin(kL).$ 
  Használjuk fel a húrt feszítő erő és a fázissebesség között fennálló $c=\sqrt{F/\mu}$ összefüggést, valamint a feladatban megadott $M=2\mu L$ tömegértéket! Egyszerűsítés és rendezés után kapjuk a 
- $c^2k=L\omega^2\tg(kL)$ 
+ $c^2k=L\omega^2\tan(kL)$ 
  egyenletet, ami az $\omega=ck$ formula segítségével elegáns alakba írható: 
- $kL\tg(kL)=1.$ 
+ $kL\tan(kL)=1.$ 
  Ennek a transzcendens egyenletnek a gyökei határozzák meg a lehetséges $k$ hullámszámokat és az annak megfelelő sajátfrekvenciákat. A gyökök numerikusan (pl. zsebszámológéppel) vagy számítógéppel kereshetők meg, az első három pozitív megoldás: 
  $kL=0{,}860\quad 3{,}426\quad 6{,}437\quad\ldots$ 
  A megfelelő frekvenciák a hullámszám lehetséges értékeinek ismeretében így számolhatók: 

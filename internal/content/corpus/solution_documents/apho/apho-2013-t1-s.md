@@ -258,7 +258,7 @@ Conductors in Conducting Liquid                                                 
          !
          !                                                                z$
          !
-         !                               2!                                    x$
+         !                               2!                                    x\$
          !
          !                      !
          !                                              ≈!

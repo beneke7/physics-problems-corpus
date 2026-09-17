@@ -17,11 +17,11 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $n\sin(\alpha-30^\circ)=\sin\alpha.$ 
  Bontsuk szét a két szög különbségének szinuszát: 
  $n(\sin\alpha\cos30^\circ-\cos\alpha\sin30^\circ)=\sin\alpha.$ 
- Az egyenletet $\cos\alpha$-val elosztva egyetlen ismeretlen marad: $\tg\alpha$. Írjuk be még a $\sin30^\circ=\tfrac{1}{2}$ és $\cos30^\circ=\tfrac{\sqrt{3}}{2}$ ismert értékeket, és a törésmutatót. 
- $1{,}5\cdot\left(\frac{\sqrt{3}}{2}\tg\alpha-\frac{1}{2}\right)=\tg\alpha$ 
- Ebből kifejezve először az ismeretlen $\tg\alpha$-t, majd pedig magát $\alpha$-t: 
- $\tg\alpha=\frac{3}{3\sqrt3-4}=2{,}508,$ 
- $\alpha=\arctg 2{,}508=68{,}3^\circ.$ 
+ Az egyenletet $\cos\alpha$-val elosztva egyetlen ismeretlen marad: $\tan\alpha$. Írjuk be még a $\sin30^\circ=\tfrac{1}{2}$ és $\cos30^\circ=\tfrac{\sqrt{3}}{2}$ ismert értékeket, és a törésmutatót. 
+ $1{,}5\cdot\left(\frac{\sqrt{3}}{2}\tan\alpha-\frac{1}{2}\right)=\tan\alpha$ 
+ Ebből kifejezve először az ismeretlen $\tan\alpha$-t, majd pedig magát $\alpha$-t: 
+ $\tan\alpha=\frac{3}{3\sqrt3-4}=2{,}508,$ 
+ $\alpha=\arctan 2{,}508=68{,}3^\circ.$ 
 
  b) Tetszőleges beesési szög esetén a Snellius–Descartes törvény: 
  $n\sin(\alpha-\delta)=\sin\alpha$ 

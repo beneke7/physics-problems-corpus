@@ -19,13 +19,13 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az abroncs tömege és a tehetetlenségi nyomatéka is elhanyagolhatóan kicsi, emiatt a rá ható erők eredőjének és a forgatónyomatékok eredőjének is nullának kell lennie. (Ezek a feltételek – jóllehet az abroncs gyorsul – megegyeznek a statikus egyensúly feltételeivel.) Az abroncs középpontjára vonatkoztatva csak a két súrlódási erőnek van forgatónyomatéka, és azok eredője akkor lesz nulla, ha 
  $(2)$ $S=S'.$ 
  Azt is mondhatjuk, hogy az abroncsra az $A$ pontban ható erők eredőjének hatásvonala át kell hogy menjen a $B$ ponton (hogy arra vonatkoztatva ne legyen forgatónyomatéka), és hasonlóan a $B$ pontban ható erők eredője $A$ felé kell hogy mutasson. Az egyenlő szárú $ABC$ háromszög egyik külső szöge $\varphi$, és ez megegyezik a két (egyforma nagyságú) belső szög összegével. Így tehát fennáll 
- $(3)$ $\frac{S}{N}=\frac{S'}{N'}=\tg\frac{\varphi}{2}, $ 
+ $(3)$ $\frac{S}{N}=\frac{S'}{N'}=\tan\frac{\varphi}{2}, $ 
  és ebből (2) miatt 
  $(4)$ $N=N'.$ 
  is következik. A tiszta gördülés és a kis test csúszásmentes mozgásának (1) feltétele szerint 
- $(5)$ $\mu_0\ge \tg\frac{\varphi}{2}.$ 
+ $(5)$ $\mu_0\ge \tan\frac{\varphi}{2}.$ 
  Ennek a feltételnek a kis test lerepülését jellemző $\varphi_0$ szögig mindvégig fenn kell állnia, vagyis teljesülnie kell a 
- $(6)$ $\mu_0\ge \tg\frac{\varphi_0}{2}$ 
+ $(6)$ $\mu_0\ge \tan\frac{\varphi_0}{2}$ 
  egyenlőtlenségnek. 
  Legyen az abroncs középpontjának sebessége és gyorsulása $\varphi$ szögelfordulás után $v(\varphi)$ és $a(\varphi)$. A kis test sebessége két részből tevődik össze: a $C$ pont $v$ nagyságú vízszintes sebességéből és a körmozgás ugyancsak $v$ nagyságú, de érintő irányú (a vízszintessel $-\varphi$ szöget bezáró) kerületi sebességből ( 2. ábra ). 
  2. ábra 
@@ -33,15 +33,15 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az energiamegmaradás törvénye szerint 
  $mgR(1-\cos\varphi)=\frac{m}{2}(v+v\cos\varphi)^2+\frac{m}{2}(-v\sin\varphi)^2=\frac{mv^2}{2}(2+2\cos\varphi),$ 
  tehát 
- $(7)$ $v^2=Rg\frac{1-\cos\varphi}{1+\cos\varphi}=Rg\,\tg^2\frac{\varphi}{2}.$ 
+ $(7)$ $v^2=Rg\frac{1-\cos\varphi}{1+\cos\varphi}=Rg\,\tan^2\frac{\varphi}{2}.$ 
  Mindaddig, amíg a kis test le nem repül az abroncsról, a két test egyetlen merev testnek tekinthető, amelynek az össztömege $m$, tömegközéppontja a kis test $A$ pontja, és a tömegközépppontjára vonatkoztatott tehetetlenségi nyomatéka elhanyagolhatóan kicsi, vagyis nullának tekinthető. Erre a merev testre csak három külső erő hat: $\boldsymbol
 N'$, $\boldsymbol S'$ és $m\boldsymbol g$. A tömegközéppont gyorsulása három tagból áll: az abroncs $C$ középpontjának vízszintes irányú és $a$ nagyságú ,,transzlációs gyorsulásából'', a $C$ pont körüli gyorsuló körmozgás ugyancsak $a$ nagyságú, de érintő irányú kerületi gyorsulásából, és végül a körmozgás centripetális gyorsulásából, ami $AC$ irányú és 
- $a_{\rm cp}=\frac{v^2}{R}=g\,\tg^2\frac{\varphi}{2}$ 
+ $a_{\rm cp}=\frac{v^2}{R}=g\,\tan^2\frac{\varphi}{2}$ 
  nagyságú ( 3. ábra ). 
  3. ábra 
  A Newton-egyenletek: 
- $(8)$ $N=m(g-g\,\tg^2\frac{\varphi}{2}\cos\varphi-a\sin\varphi) \qquad \text{(függőleges irányú mozgás egyenlete)},$ 
- $(9)$ $S=m(a+a\cos\varphi-g\,\tg^2\frac{\varphi}{2}\sin\varphi) \qquad \text{(vízszintes irányú mozgás egyenlete)},$ 
+ $(8)$ $N=m(g-g\,\tan^2\frac{\varphi}{2}\cos\varphi-a\sin\varphi) \qquad \text{(függőleges irányú mozgás egyenlete)},$ 
+ $(9)$ $S=m(a+a\cos\varphi-g\,\tan^2\frac{\varphi}{2}\sin\varphi) \qquad \text{(vízszintes irányú mozgás egyenlete)},$ 
  $(10)$ $SR(1+\cos\varphi)-NR\sin\varphi=0 \qquad \text{(a forgás mozgásegyenlete)}.$ 
 
  ( Megjegyzés: A (10) egyenlet megegyezik a korábban már megkapott (3)-mal.) 
@@ -51,8 +51,8 @@ N'$, $\boldsymbol S'$ és $m\boldsymbol g$. A tömegközéppont gyorsulása hár
  $(12)$ $S=mg\frac{\sin\varphi \cos\varphi}{1+\cos\varphi},$ 
  $(13)$ $a=\frac{\sin\varphi}{(1+\cos\varphi)}\,g.$ 
  $a)$ (11)-ből következik, hogy a kis test $\varphi_0=\frac{\pi}{2}$ szögnél válik el az abroncstól, és ekkor vízszintes irányban is, és függőleges irányban is 
- $v_0= \sqrt{Rg}\tg\frac{\pi}{4}=\sqrt{Rg}$ 
- sebessége van. A csúszásmentes mozgás feltétele az, hogy a tapadási súrlódási együttható legalább $\mu_0^\text{min}=\tg\frac{\varphi_0}{2}=1$ legyen. 
+ $v_0= \sqrt{Rg}\tan\frac{\pi}{4}=\sqrt{Rg}$ 
+ sebessége van. A csúszásmentes mozgás feltétele az, hogy a tapadási súrlódási együttható legalább $\mu_0^\text{min}=\tan\frac{\varphi_0}{2}=1$ legyen. 
  A további mozgás során a kis test $R$ magasságból, $v_0$ kezdősebességű szabadeséssel mozog. A talajra érkezés idejére 
  $\frac{g}{2}t^2+v_0t=R$ 
  érvényes, ahonnan $t_0=(\sqrt3-1)\frac{R}{g}$. Ennyi idő alatt a lerepülő test az abroncstól való elválás helyétől vízszintes irányban $v_0t_0=(\sqrt3-1)R,$ az indulás $O$ pontjától összesen 

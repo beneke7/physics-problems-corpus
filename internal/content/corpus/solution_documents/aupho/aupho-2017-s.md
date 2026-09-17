@@ -138,7 +138,7 @@ covered by a single layer of coins. Approximately how much money was raised?
 
 Solution: b. We can estimate that the diameter of a 5c coin is 2 cm. This gives us a radius of 1 cm, which
 is 300 times smaller than the radius of the large circle. As area scales as the square of the length, this
-means that no more than (300)2 coins fit in the circle. The value of these coins is $4,500. While there
+means that no more than (300)2 coins fit in the circle. The value of these coins is 4,500 dollars. While there
 will be some empty space it will not be more than half empty so this gives us a good order of magnitude
 estimate.
                                            Page 3 of 22

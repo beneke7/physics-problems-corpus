@@ -49,7 +49,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az erő nagysága 
  $F=\sqrt{F^2_\text{fel}+F^2_\text{be}}=8{,}58\cdot 10^{-3}~\rm N,$ 
  a vízszintessel bezárt szöge 
- $\alpha=\arctg\dfrac{F_\text{fel}}{F_\text{be}} =62{,}2^\circ. $ 
+ $\alpha=\arctan\dfrac{F_\text{fel}}{F_\text{be}} =62{,}2^\circ. $ 
 
 **II. megoldás**
 . Az olajbogyó sebességét és gyorsulását a tehetetlenségi erők (a Coriolis erő és a centrifugális erő) elkerülésével is kiszámíthatjuk, ha mindvégig a talajhoz képest álló inerciarendszerben számolunk. 

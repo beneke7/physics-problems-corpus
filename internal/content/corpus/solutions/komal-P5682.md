@@ -10,7 +10,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
 **Megoldás.**
  A folyadék felszíne mindenhol merőleges a nehézségi erő és a forgó rendszerben érzékelt centrifugális erő eredőjére. Az 1. ábráról leolvasható, hogy az érintő meredeksége: 
- $(1)$ $\tg\alpha=\frac{\omega^2r}{g}.$ 
+ $(1)$ $\tan\alpha=\frac{\omega^2r}{g}.$ 
 
  1. ábra 
 
@@ -26,16 +26,16 @@ provenance_note: "KöMaL official solution (Hungarian)"
  2. ábra 
 
  Az 2. ábráról leolvashatóan a görbe érintője az $FPP'$ egyenlőszárú háromszög szimmetriatengelye, így az $FP'$ szakasz merőleges rá. Ezért a merőlegesállású szögek miatt: 
- $\tg\alpha=\frac{r}{p}.$ 
+ $\tan\alpha=\frac{r}{p}.$ 
  Ezek alapján (1) felhasználásával: 
  $$\begin{gather*}
-p=\frac{r}{\tg\alpha}=\frac{g}{\omega^2},\\
+p=\frac{r}{\tan\alpha}=\frac{g}{\omega^2},\\
 h=\frac{1}{2p}r^2=\frac{\omega^2}{2g}r^2,
 \end{gather*}$$
  a (2) kifejezéssel összhangban. 
 
  2. A $h(r)$ függvény meredeksége (1) alapján: 
- $\frac{\mathrm{d}h}{\mathrm{d}r}=\tg\alpha=\frac{\omega^2r}{g}.$ 
+ $\frac{\mathrm{d}h}{\mathrm{d}r}=\tan\alpha=\frac{\omega^2r}{g}.$ 
  Ebből 
  $\mathrm{d}h=\frac{\omega^2}{g}r\,\mathrm{d}r,$ 
  és ezt integrálva 

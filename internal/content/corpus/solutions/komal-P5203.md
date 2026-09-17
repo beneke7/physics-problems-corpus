@@ -15,11 +15,11 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A Snellius–Descartes-törvény általánosított alakja szerint a rétegenként állandó, de a rétegekre merőleges irányban folytonosan változó törésmutató esetén is érvényes az 
  $(2)$ $n(z)\cdot \cos\varphi=K=\text{állandó}$ 
  összefüggés, amelyben $\varphi$ a görbe érintőjének az $x$ tengellyel bezárt szöge. Ennek a szögnek a tangense a görbe – helyről helyre változó – meredekségével, vagyis az $n(z)$ függvény deriváltjával egyezik meg. Ez a meredekség (a deriválás szabályaiból, vagy egy analógia, a harmonikus rezgőmozgás ismert út- és sebességfüggvényének vizsgálatából adódóan) 
- $\tg\varphi=-Ak\sin(kx), $ 
+ $\tan\varphi=-Ak\sin(kx), $ 
  ami (1) szerint így is írható: 
- $(3)$ $\tg\varphi=-k\sqrt{A^2-z^2}.$ 
+ $(3)$ $\tan\varphi=-k\sqrt{A^2-z^2}.$ 
  Mivel 
- $(4)$ $\cos\varphi=\frac{1}{\sqrt{1+\tg^2\varphi}},$ 
+ $(4)$ $\cos\varphi=\frac{1}{\sqrt{1+\tan^2\varphi}},$ 
  a törési törvény (2) összefüggése (3) és (4) felhasználásával így alakul: 
  $n(z)=K\sqrt{1+k^2(A^2-z^2)}.$ 
  Mivel $n(x=A)=n_0$ és $n(x=0)=n_1$, a $K$ és $k$ állandókat meghatározhatjuk: 

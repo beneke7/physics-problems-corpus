@@ -25,8 +25,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  3. ábra 
 
- A $PAB$ derékszögű háromszögből leolvashatjuk, hogy $AP=2\ell \tg\beta$, a $PAT$ derékszögű háromszögből pedig azt, hogy $AP=\frac{\ell}{ \tg\alpha}$. Ezek szerint 
- $\tg\beta=\frac{1}{2\tg\alpha}=\frac{1}{2\tg18^\circ}=1{,}539 \qquad \Rightarrow \qquad \beta=56{,}98^\circ\approx 57^\circ.$ 
+ A $PAB$ derékszögű háromszögből leolvashatjuk, hogy $AP=2\ell \tan\beta$, a $PAT$ derékszögű háromszögből pedig azt, hogy $AP=\frac{\ell}{ \tan\alpha}$. Ezek szerint 
+ $\tan\beta=\frac{1}{2\tan\alpha}=\frac{1}{2\tan18^\circ}=1{,}539 \qquad \Rightarrow \qquad \beta=56{,}98^\circ\approx 57^\circ.$ 
  A talicska rúdjainak végénél összesen kifejtett $\boldsymbol F$ erőnek a függőlegessel bezárt szöge 
  $\varphi=90^\circ-(\alpha+\beta)=15{,}02^\circ\approx 15^\circ.$ 
  Felírhatjuk meg a $PSR$ háromszögre a szinusztételt: 

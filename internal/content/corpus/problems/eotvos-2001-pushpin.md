@@ -11,9 +11,9 @@ subtopic: [rigid-body-dynamics, equilibrium, oscillations, inclined-surfaces, fo
 format: open-ended
 math_tools: [differential-equations, geometry-trigonometry, vector-calculus]
 core_ideas: [kalda-mechanics-idea19]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2001, Problem 3. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2001_S.pdf). Problem author: Radnai Gyula. Figure extraction from PDF pending."
+provenance_note: "Eötvös Competition 2001, Problem 3. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2001_S.pdf). Problem author: Radnai Gyula. The problem statement contains no figure; the source-page diagram belongs to the official solution."
 verification_status: flagged
 has_solution: true
 solution_language: hu

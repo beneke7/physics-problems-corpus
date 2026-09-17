@@ -67,7 +67,7 @@ Most of the few remaining experiments are about:
 
 Both of these topics are covered in T2. Most of the time, the experimental equipment doesn't require any particular knowledge to use, but for circuits and optics, some experience is helpful.
 
-**[3] Problem 3.** A multimeter is the most complicated piece of equipment that ever shows up on Olympiad labs. Get a cheap multimeter; there are many suitable options for less than $20 online. By reading the manual and experimenting, teach yourself what every setting on the multimeter does, and how to read the display. Test your knowledge by performing a variety of measurements on cheap circuit components, such as batteries, resistors, capacitors, and diodes. Be careful not to burn out the ammeter.
+**[3] Problem 3.** A multimeter is the most complicated piece of equipment that ever shows up on Olympiad labs. Get a cheap multimeter; there are many suitable options for less than 20 dollars online. By reading the manual and experimenting, teach yourself what every setting on the multimeter does, and how to read the display. Test your knowledge by performing a variety of measurements on cheap circuit components, such as batteries, resistors, capacitors, and diodes. Be careful not to burn out the ammeter.
 
 **[3] Problem 4.** Using a stopwatch, mass, and light string, carry out the classic experiment to measure $g$ with a pendulum, mentioned in the preliminary problem set. (Some common sources of error are discussed in M4, and some additional advice is given in the following section.) The bare minimum is 10% precision. If you do it well, you should be able to identify effects due to the finite size of the mass, and the correction to the period due to finite amplitude, discussed in P1.
 

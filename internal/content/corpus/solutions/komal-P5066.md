@@ -23,11 +23,11 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $z(x)=kx^2$ 
  alakban adható meg, ahol $k$ egy (most még ismeretlen) állandó. A parabola ismert tulajdonsága, hogy az érintőjének meredeksége kétszer nagyobb, mint az adott pont és a parabola csúcspontja közötti szelő meredeksége. Ezt differenciálszámítással láthatjuk be, vagy egy ismert mechanikai analógiát felhasználva (az egyenletesen gyorsuló mozgás pillanatnyi sebességének és átlagsebességének összehasonlításából) kaphatjuk meg. 
  A fenti egyenlettel megadott parabola meredeksége tehát 
- $\tg(90^\circ-\alpha)=\ctg\alpha=\frac{kx^2}{2x}=2kx=2\sqrt{kz}.$ 
+ $\tan(90^\circ-\alpha)=\cot\alpha=\frac{kx^2}{2x}=2kx=2\sqrt{kz}.$ 
  Másrészt 
- $\sin\alpha=\frac{1}{1+\ctg^2\alpha},$ 
+ $\sin\alpha=\frac{1}{1+\cot^2\alpha},$ 
  tehát 
- $n(z)\cdot \frac{1}{1+\ctg^2\alpha}=n_0, \qquad n(z)=n_0 \sqrt{1+4kz}.$ 
+ $n(z)\cdot \frac{1}{1+\cot^2\alpha}=n_0, \qquad n(z)=n_0 \sqrt{1+4kz}.$ 
  Ha $z=h$, akkor $n=\sqrt{2}n_0,$ ahonnan 
  $n_0 \sqrt{1+4kh}=\sqrt{2}n_0,\qquad 1+4kh=2,\qquad k=\frac{1}{4h}.$ 
  A keresett összefüggés tehát 

@@ -21,24 +21,24 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $(3)$ $S=\mu N.$ 
  A (1) és (2) egyenletek jobb oldalát (3)-ba helyettesítve, majd abból $F$-et kifejezve kapjuk, hogy $F$ mint $\varphi$ függvénye: 
  $(4)$ $F(\varphi)=\frac{\mu\cos\alpha-\sin\alpha}{\cos\varphi+\mu \sin\varphi}\,G.$ 
- A számlálóban lévő kifejezés pozitív (hiszen a test ,,magától'' nem csúszik le a lejtőn, tehát $\mu>\tg\alpha$). Ennek megfelelően $F$ akkor a legkisebb, amikor a nevező a legnagyobb értéket veszi fel. 
+ A számlálóban lévő kifejezés pozitív (hiszen a test ,,magától'' nem csúszik le a lejtőn, tehát $\mu>\tan\alpha$). Ennek megfelelően $F$ akkor a legkisebb, amikor a nevező a legnagyobb értéket veszi fel. 
  A maximum helyét háromféle módszerrel is meg lehet határozni: 
 
  a) Differenciálszámítással. 
  $\frac{\mathrm{d}}{\mathrm{d}\varphi}(\cos\varphi+\mu\sin\varphi)=-\sin\varphi+\mu\cos\varphi=0,$ 
- vagyis $\tg\varphi=\mu$, és a maximum nagysága 
+ vagyis $\tan\varphi=\mu$, és a maximum nagysága 
  $\frac{1}{\sqrt{1+\mu^2}}+\mu\frac{\mu}{\sqrt{1+\mu^2}}=\sqrt{1+\mu^2}.$ 
- b) Geometriai megfontolással. Ha egy $\mu$ és $1$ oldalélű téglalapot függőleges helyzetben vízszintes síklapra állítunk, majd az egyik csúcsa körül a saját síkjában $\varphi$ szöggel elforgatjuk, az átlósan szemközti csúcsa éppen olyan magasra kerül, mint (4) nevezője ( 2. ábra ). Ez a magasság akkor a legnagyobb, amikor a kérdéses átló éppen függőleges, vagyis $\tg\varphi=\mu,$ és a maximális érték az átló hossza, vagyis$\sqrt{1+\mu^2}.$ 
+ b) Geometriai megfontolással. Ha egy $\mu$ és $1$ oldalélű téglalapot függőleges helyzetben vízszintes síklapra állítunk, majd az egyik csúcsa körül a saját síkjában $\varphi$ szöggel elforgatjuk, az átlósan szemközti csúcsa éppen olyan magasra kerül, mint (4) nevezője ( 2. ábra ). Ez a magasság akkor a legnagyobb, amikor a kérdéses átló éppen függőleges, vagyis $\tan\varphi=\mu,$ és a maximális érték az átló hossza, vagyis$\sqrt{1+\mu^2}.$ 
 
  2. ábra 
 
  Ezek szerint (4) jobb oldalának legkisebb értéke 
  $F_0=\left(\frac{\mu\cos\alpha}{\sqrt{1+\mu^2}}-\frac{\sin\alpha}{\sqrt{1+\mu^2}}\right)G.$ 
- A test tehát akkor mozdítható meg a lejtőn a legkönnyebben, ha $F_0$-nál bármilyen kicsivel nagyobb erőt fejtünk ki rá a lejtő esésvonalának lefelé tartó részével $\arctg\mu$ szöget bezáró irányban, ferdén felfelé. 
+ A test tehát akkor mozdítható meg a lejtőn a legkönnyebben, ha $F_0$-nál bármilyen kicsivel nagyobb erőt fejtünk ki rá a lejtő esésvonalának lefelé tartó részével $\arctan\mu$ szöget bezáró irányban, ferdén felfelé. 
 
- c) Trigonometriai átalakításokkal. A súrlódási együtthatót sok esetben érdemes felírni $\mu=\tg\varepsilon$ alakban, ahol $\varepsilon=\arctg\mu$ az ún. súrlódási határszög . Mivel a test külső erőhatás nélkül nem csúszik le a lejtőn, fennáll $\mu>\tg\alpha$, azaz $\varepsilon>\alpha$. Ezzel a jelöléssel (4) ilyen alakot ölt: 
- $F(\varphi)=\frac{\tg\varepsilon\cos\alpha-\sin\alpha}{\cos\varphi+\tg\varepsilon\sin\varphi}G=\frac{\sin\varepsilon\cos\alpha-\cos\varepsilon\sin\alpha}{\cos\varepsilon\cos\varphi+\sin\varepsilon\sin\varphi}\,G=\frac{\sin(\varepsilon-\alpha)}{\cos(\varepsilon-\varphi)}\,G.$ 
- Ennek minimuma a nevező maximumánál, vagyis $\varphi=\varepsilon$, azaz $\tg\varphi=\mu$ értéknél van, és a maximum nagysága 
+ c) Trigonometriai átalakításokkal. A súrlódási együtthatót sok esetben érdemes felírni $\mu=\tan\varepsilon$ alakban, ahol $\varepsilon=\arctan\mu$ az ún. súrlódási határszög . Mivel a test külső erőhatás nélkül nem csúszik le a lejtőn, fennáll $\mu>\tan\alpha$, azaz $\varepsilon>\alpha$. Ezzel a jelöléssel (4) ilyen alakot ölt: 
+ $F(\varphi)=\frac{\tan\varepsilon\cos\alpha-\sin\alpha}{\cos\varphi+\tan\varepsilon\sin\varphi}G=\frac{\sin\varepsilon\cos\alpha-\cos\varepsilon\sin\alpha}{\cos\varepsilon\cos\varphi+\sin\varepsilon\sin\varphi}\,G=\frac{\sin(\varepsilon-\alpha)}{\cos(\varepsilon-\varphi)}\,G.$ 
+ Ennek minimuma a nevező maximumánál, vagyis $\varphi=\varepsilon$, azaz $\tan\varphi=\mu$ értéknél van, és a maximum nagysága 
  $F_0=\sin(\varepsilon-\alpha)\,G=(\sin\varepsilon\cos\alpha-\cos\varepsilon\sin\alpha)\,G=\left(\frac{\mu\cos\alpha}{\sqrt{1+\mu^2}}-\frac{\sin\alpha}{\sqrt{1+\mu^2}}\right)G.$ 
 
 **II. megoldás.**
@@ -70,7 +70,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $F_0=\frac{\mu\cos\alpha-\sin\alpha }{\sqrt{1+\mu^2}}\,G.$ 
 
 **III. megoldás.**
- A II. megoldás jelöléseit használva az egyensúly $\vert\boldsymbol{S}\vert\le\mu\vert\boldsymbol{N}\vert$ feltétele úgy is megfogalmazható, hogy a test mindaddig mozdulatlan marad, ameddig a test helyétől felmérve a lejtő által kifejtett teljes kényszererő $\boldsymbol{K}=\boldsymbol{N}+\boldsymbol{S}$ vektorának végpontja egy olyan körkúp belsejébe vagy annak palástjára esik, amelynek szimmetriatengelye merőleges a lejtő síkjára, és a félnyílásszöge a súrlódás $\varepsilon=\arctg\mu$ határszöge ( 4. ábra ). 
+ A II. megoldás jelöléseit használva az egyensúly $\vert\boldsymbol{S}\vert\le\mu\vert\boldsymbol{N}\vert$ feltétele úgy is megfogalmazható, hogy a test mindaddig mozdulatlan marad, ameddig a test helyétől felmérve a lejtő által kifejtett teljes kényszererő $\boldsymbol{K}=\boldsymbol{N}+\boldsymbol{S}$ vektorának végpontja egy olyan körkúp belsejébe vagy annak palástjára esik, amelynek szimmetriatengelye merőleges a lejtő síkjára, és a félnyílásszöge a súrlódás $\varepsilon=\arctan\mu$ határszöge ( 4. ábra ). 
 
  4. ábra 
 

@@ -138,7 +138,7 @@ mgH
 2πε0Umaxrmax
 ,
 ∴ Umax =
-$
+\$
 Hσd
 2ε0rmax
 = 6

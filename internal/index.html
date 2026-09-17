@@ -129,8 +129,8 @@
 			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
 			const links = make("div", "links"), local = manifest[record.id] || {};
 			const view = make("a", "", "view"); view.href = `view.html?id=${encodeURIComponent(record.id)}`; links.append(view);
-			[[local.problem, "problem MD"], [local.en, "EN MD"], [local.hu, "HU MD"], [local.solution, "solution MD"]].forEach(([path, label]) => { if (path) { const a = make("a", "", label); a.href = path; links.append(a); } });
-			array(local.solution_documents).forEach((path, i) => { const a = make("a", "", `official document${i ? ` ${i + 1}` : ""}`); a.href = path; links.append(a); });
+			[[local.problem, "problem MD"], [local.en, "EN MD"], [local.hu, "HU MD"], [local.solution, "canonical solution MD"]].forEach(([path, label]) => { if (path) { const a = make("a", "", label); a.href = path; links.append(a); } });
+			array(local.solution_documents).forEach((path, i) => { const a = make("a", "", `source transcription${i ? ` ${i + 1}` : ""}`); a.href = path; links.append(a); });
 			if (local.figures && local.figures.length) links.append(make("span", "muted", `${local.figures.length} figure${local.figures.length === 1 ? "" : "s"} in viewer`));
 			if (links.childElementCount) article.append(links); return article;
 		}

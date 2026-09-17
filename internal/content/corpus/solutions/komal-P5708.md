@@ -54,7 +54,7 @@ F_y=mg+K_2=\frac{81}{38}mg,
  amiből a keresett kényszererő nagysága: 
  $F=\sqrt{F_x^2+F_y^2}=\frac{\sqrt{35^2+81^2}}{38}\,mg\approx 2{,}32\cdot mg,$ 
  a függőlegessel bezárt szöge pedig: 
- $\varphi=\arctg\frac{F_x}{F_y}=\arctg\frac{35}{81}\approx 23{,}4^\circ.$ 
+ $\varphi=\arctan\frac{F_x}{F_y}=\arctan\frac{35}{81}\approx 23{,}4^\circ.$ 
 
 **II. megoldás.**
  A testek gyorsulását a munkatétellel is meghatározhatjuk. Az elengedés után $t$ idővel a testek 2. ábrán jelölt elmozdulása, sebessége és szögsebessége: 

@@ -11,9 +11,9 @@ subtopic: [electromagnetic-induction, faraday, superconductivity, magnetic-dipol
 format: open-ended
 math_tools: [calculus-differential, algebra, trigonometry]
 core_ideas: [kalda-circuits-idea43]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2006, Problem 3. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. Figure referenced in text (labeled '3. ábra' in original) but could not be extracted from PDF."
+provenance_note: "Eötvös Competition 2006, Problem 3. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. The problem statement contains no figure; diagrams in the source document belong to the official solution."
 verification_status: pending
 has_solution: true
 solution_language: hu
@@ -27,4 +27,3 @@ Négyzet alakú, rövidre zárt lapos tekercs anyaga szupravezetó (ellenállás
 Kezdetben a tekercs függốlegesen, labilis egyensúlyi helyzetben áll a földi nehézségi erốtérben. Ezután egy olyan homogén mágneses mezót alkalmazunk, hogy a tekercsre ható B mágneses indukció vektor nagysága állandó, iránya függőleges legyen. Ekkor a tekercsben nem folyik áram.
 
 Ezután a tekercs felsó végét kicsiny $v_{0}$ sebességgel meglökjük. Körbefordul-e a tekercs, vagy ha nem, akkor milyen határok között fog mozogni?
-

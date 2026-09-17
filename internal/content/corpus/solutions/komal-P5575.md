@@ -42,7 +42,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A felületi töltéssűrűség eltűnésének feltétele (behelyettesítés és 2-vel való osztás után): 
  $3p^2r^2\cos^2\alpha=p^2r^2,$ 
  azaz $\cos\alpha=\frac{1}{\sqrt3}$. Innen a kérdéses távolság 
- $R=h\tg\alpha=\sqrt{2}\,h,$ 
+ $R=h\tan\alpha=\sqrt{2}\,h,$ 
  vagyis a fémfelület töltéssűrűsége egy $R$ sugarú kör mentén válik zérussá. 
 
 **III. megoldás.**
@@ -54,7 +54,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az egyes dipóluskomponensek nagysága $p\cos\alpha$ és $p\sin\alpha$, és a $P$ pont mindegyik dipól-összetevőtől ugyanakkora $r$ távolságban van. Ennek megfelelően az eredő elektromos térerősség a fémlemez $P$ pontjánál – a szuperpozíció-elvnek megfelelően – a négy járulék összege 
  $2\lambda\cos^2\alpha-\lambda\sin^2\alpha+2\lambda\cos^2\alpha-\lambda\sin^2\alpha=0.$ 
  (A $\lambda$ állandó a fentebb említett $k$ konstans elektrosztatikus megfelelőjének és a mindegyik dipól-összetevőre ugyanakkora $p/r^3$ tényezőnek a szorzata.) A nulla töltéssűrűségű helyeket tehát a $4\cos^2\alpha=2\sin^2\alpha$ egyenlet jellemzi, ahonnan 
- $\tg\alpha=\sqrt2,\qquad\text{és így}\qquad R=\sqrt2\,h.$
+ $\tan\alpha=\sqrt2,\qquad\text{és így}\qquad R=\sqrt2\,h.$
 
 ![solution figure](../../raw_html/komal_figures/komal-P5575-sol-fig1.gif)
 

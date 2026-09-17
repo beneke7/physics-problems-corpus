@@ -26,5 +26,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $2\beta=180^\circ-2\alpha,\qquad \text{vagyis}\qquad
 \alpha+\beta=90^\circ.$ 
  Ezt (1)-be visszahelyettesítve 
- $\tg \alpha=2,\qquad \alpha=63{,}4^\circ,\qquad \beta=26{,}6^\circ$ 
+ $\tan \alpha=2,\qquad \alpha=63{,}4^\circ,\qquad \beta=26{,}6^\circ$ 
  eredmény adódik.

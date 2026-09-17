@@ -14,14 +14,14 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ennek alapján meg tudjuk határozni az ismeretlen $r$ és $\varphi$ változókat: 
  $\varphi=\frac{\ell}{2r},$ 
  illetve 
- $\tg\varphi=\frac{R}{r}.$ 
+ $\tan\varphi=\frac{R}{r}.$ 
  Ez az egyenletrendszer $\varphi$-re a 
- $\varphi=\frac{\ell}{2R}\tg\varphi$ 
+ $\varphi=\frac{\ell}{2R}\tan\varphi$ 
  egyenletet adja, aminek a numerikus megoldása $\ell=R(=1\,\mathrm{km})$ esetén $\varphi=1{,}166$ radián (ez $66{,}78^\circ$). 
  Megjegyzés. Az ilyen típusú egyenletek megoldására lapunk 2025. novemberi számában található egy igen egyszerű algoritmus ( Egy egyszerű egyenletmegoldó eljárás ). Az ott leírtaknak megfelelően az egyenletünk 
- $\varphi=\arctg 2\varphi$ 
+ $\varphi=\arctan 2\varphi$ 
  alakjából érdemes kiindulni. A 
- $\varphi_{n+1}=\arctg 2\varphi_n$ 
+ $\varphi_{n+1}=\arctan 2\varphi_n$ 
  képzési szabállyal generált sorozat elemei bármilyen pozitív számmal indítva nagyon gyorsan megközelítik a megoldás értékét. 
  A kerítés ívének a sugara $r=0{,}429\,\mathrm{km}$. 
  A levágott rész területe két körszelet területéből tevődik össze, az egyik sugara és központi szöge $r$ és $2\varphi$, a másiknak ugyanezek az adatai $R$ és $\pi-2\varphi$, így 

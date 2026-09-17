@@ -22,6 +22,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A csuklóban ébredő erő nagysága: 
  $\sqrt{F_x^2+F_y^2}=8{,}28\,\mathrm{kN},$ 
  és ez az erő a terhelés felé hajlik, a függőlegessel bezárt szöge: 
- $\arctg\left({\frac{F_x}{F_y}}\right)=43{,}9^\circ.$
+ $\arctan\left({\frac{F_x}{F_y}}\right)=43{,}9^\circ.$
 
 ![solution figure](../../raw_html/komal_figures/komal-P5663-sol-fig1.gif)

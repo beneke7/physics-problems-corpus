@@ -39,7 +39,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A pénzérmék csak akkor mozoghatnak a fentebb leírt módon, ha $S\le \mu N$, ellenkező esetben a pénzérme megcsúszik a rúdon, illetve ha $N\ge 0$, ellenkező esetben a pénz elválik a rúdtól, lerepül róla. 
  $a)$ Az indulás pillanatában $\varphi=0$, tehát $S=0$ és $N=m_0g\left(1-\frac{3x}{2L}\right).$ Ezek szerint egyik pénz sem csúszik el a rúdon, viszont azok, amelyekre $x>\tfrac{2}{3}L\approx 67$ cm, vagyis a 70, 80, 90 és 100 centiméteres jelekhez tett 5 forintosok eltávolodnak a rúdtól, lerepülnek arról. 
  $b)$ A $\varphi=10^\circ$-os helyzetben azok a pénzek nem csúsznak meg, amelyekre 
- $\frac{S}{N}=\tg10^\circ\,\frac{2L+6x}{2L-3x}\le 0{,}5;$ 
+ $\frac{S}{N}=\tan10^\circ\,\frac{2L+6x}{2L-3x}\le 0{,}5;$ 
  azaz $x\le 0{,}25$ m. Tehát csak a forgástengelynél, illetve a 10 és a 20 cm-es jeleknél elhelyezett 5 forintosok maradhatnak a rúdon eddig az elfordulásig, a többiek már korábban megcsúsztak a méterrúdon.
 
 ![solution figure](../../raw_html/komal_figures/komal-P4954-sol-fig1.gif)

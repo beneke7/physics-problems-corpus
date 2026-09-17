@@ -11,9 +11,9 @@ math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 points: 7
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "NBPhO 2012 (Északi-Balti Fizika Olimpia), 7. feladat, "Emelés árammal". Az ábra az eredeti PDF-ben volt referenciálva; helyi kinyerésének megállapítása függőben maradt átfogó PDF-megjelenítési és -elemzési után."
+provenance_note: "NBPhO 2012 (Északi-Balti Fizika Olimpia), 7. feladat, \"Emelés árammal\". A gyorsítótárazott Mathpix-forrás ehhez a feladathoz nem tartalmaz ábrát."
 links_en: nbpho-2012-lifting-by-current
 verification_status: pending
 ---
@@ -27,5 +27,3 @@ ii. (2 pont) Mekkora a maximális magasság, amelyre a terhelést így fel lehet
 iii. (2 pont) Írjátok fel azt az egyenletet, amely segítségével meghatározható az emelési magasság $\Delta h$!
 
 iv. (1 pont) Mekkora áramra van szükség az $\Delta h_{0}=l\left(1-\frac{3}{\pi}\right)$ magasságig való emeléshez?
-
-![ábra](../../sources/nbpho/figures/nbpho-2012-lifting-by-current-fig1.jpg)

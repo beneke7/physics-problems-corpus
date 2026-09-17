@@ -35,15 +35,15 @@ provenance_note: "KöMaL official solution (Hungarian)"
  tehát 
  $d=\sqrt{\left(\frac{L}{2}\right)^2+LH}-\frac{L}{2}.$ 
  Az elugrás $\varphi$ szögének tangense a parabola érintőjének meredeksége az $x=-d$ helyen: 
- $\tg\varphi=1-\frac{2x}{L}=1+\frac{2d}{L}=\sqrt{1+\frac{4H}{L}}.$ 
+ $\tan\varphi=1-\frac{2x}{L}=1+\frac{2d}{L}=\sqrt{1+\frac{4H}{L}}.$ 
 
  Megjegyzések. 1. A parabola érintőjének meredekségét tetszőleges pontban differenciálszámítással, vagy egy jól ismert fizikai jelenséggel, az egyenes vonalú, egyenletesen gyorsuló mozgással való analógia kihasználásával kaphatjuk meg. Ha az $y(x)$ függvényben $x$-et $t$-vel helyettesítjük (ahol $t$ az időt jelenti), akkor az $y(t)=t-(t^2/L)$ összefüggést kapjuk. Összehasonlítva ezt az $y$ tengely menti egyenletesen gyorsuló mozgás $y(t)=v_0t+\frac{a}{2}t^2$ kifejezésével, látjuk, hogy a kezdősebesség $v_0=1$, a gyorsulás pedig: $a=2/L.$ Az eredeti, $y(x)$ parabolapályája érintőjének meredeksége az $y(t)$ mozgás pillanatnyi sebességével egyezik meg, vagyis 
- $\tg\varphi=v_0+at=1-\frac2{L}x=1+\frac{2d}{L}.$ 
+ $\tan\varphi=v_0+at=1-\frac2{L}x=1+\frac{2d}{L}.$ 
  2. A szöcske elugrásának $\varphi$ szögét a ferde hajítás távolságát megadó képlet segítségével is ki lehet számítani: 
  $L+2d=\frac{u^2}{g}\sin(2\varphi),$ 
  amiből $u$ és $d$ behelyettesítése után kapjuk, hogy 
  $\sin(2\varphi)=\frac{\sqrt{(L/2)^2+HL}}{H+L/2}.$ 
- Ahogy arról a $\sin(2\varphi)=\frac{2\, {\tg} \varphi}{1+{ {\tg}}^2\varphi}$ összefüggés segítségével meggyőződhetünk, ez ugyanazt a $\varphi$ szöget adja, mint a fentebb kiszámított. 
+ Ahogy arról a $\sin(2\varphi)=\frac{2\, {\tan} \varphi}{1+{ {\tan}}^2\varphi}$ összefüggés segítségével meggyőződhetünk, ez ugyanazt a $\varphi$ szöget adja, mint a fentebb kiszámított. 
 
  A parabola fókuszpontját legkönnyebben optikai megfontolásokkal kaphatjuk meg. Tudjuk, hogy a parabola alakú tükör a szimmetriatengellyel párhuzamos fénysugarakat az $F$ fókuszpont felé veri vissza. A szöcske optimális pályagörbéje esetén a gerenda szélénél haladó, függőleges fénysugár a $45^\circ$-os beesési szög miatt $45^\circ$-os szögben, tehát vízszintes irányban verődik vissza. Ezek szerint az $F$ fókuszpont éppen a gerenda felső lapján, annak közepénél található ( 3. ábra ). 
 

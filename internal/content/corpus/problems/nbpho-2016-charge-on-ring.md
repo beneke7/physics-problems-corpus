@@ -12,8 +12,8 @@ format: open-ended
 points: 7
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2016 (Nordic-Baltic Physics Olympiad), Problem 6 (Second Round), by Andreas Isacsson. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2016.pdf). Figure extraction from PDF pending."
+figure_files: [nbpho-2016-charge-on-ring-fig1.png]
+provenance_note: "NBPhO 2016 (Nordic-Baltic Physics Olympiad), Problem 6 (Second Round), by Andreas Isacsson. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2016.pdf). Statement figure harvested from the source PDF."
 verification_status: pending
 links_hu: "nbpho-2016-charge-on-ring"
 has_solution: true
@@ -22,6 +22,8 @@ techniques: [conservation-laws, stability-analysis]
 ---
 
 **6. CHARGE ON A RING (7 points)** — *Andreas Isacsson.*
+
+![Charge on a ring](../../sources/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
 
 A pointlike particle with mass $m$ and charge $q$ is free to slide without friction along a fixed horizontal circular ring with radius $r$. In the plane of the ring, another charge $Q$ is placed in a fixed position, at a distance $d$ from the center of the ring, with $d<r$ (see figure).
 

@@ -281,7 +281,7 @@ C.2   Analyze the data, draw a proper plot and calculate the Curie Total:2.5
                                                                             0.6 right value of Tc
       Let y=0, then we can get the Curie temperature                        (0.6:160~180)
                                                                             (0.3:150~160,180~190)
-                                    Tc   174$ C
+                                    $T_c = 174^\circ\mathrm{C}$
                                                                             0 otherwise.
 
       Alternative method: extent the straight line to intercept with the x Note: other reasonable

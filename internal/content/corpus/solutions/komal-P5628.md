@@ -14,20 +14,20 @@ provenance_note: "KöMaL official solution (Hungarian)"
  1. ábra 
 
  A ceruzára merőleges cérnaszál által kifejtett $F$ erő hatásvonala és a függőleges irányú nehézségi erő hatásvonala a $P$ pontban metszi egymást, tehát egyiküknek sincs forgatónyomatéka erre a pontra vonatkoztatva. A ceruzára a radíros végénél hat még az asztallap valamekkora $K$ erővel, aminek hatásvonala ugyancsak áthalad a $P$ ponton, csak így teljesül a forgatónyomatékok egyensúlyának feltétele. 
- Jelöljük a $\boldsymbol{K}$ erő hatásvonalának a függőlegessel bezárt szögét $\varepsilon$-nal. A ceruza akkor nem csúszik meg az asztallapon, ha a tapadó súrlódás együtthatója legalább $\tg\varepsilon$. 
+ Jelöljük a $\boldsymbol{K}$ erő hatásvonalának a függőlegessel bezárt szögét $\varepsilon$-nal. A ceruza akkor nem csúszik meg az asztallapon, ha a tapadó súrlódás együtthatója legalább $\tan\varepsilon$. 
 
- Megjegyzés. A $\boldsymbol{K}$ erő függőleges komponensét $N$ nyomóerőnek, a vízszintes komponensét $S$ súrlódási erőnek szokták nevezni. Mivel $N=K\cos\varepsilon$ és $S=K\sin\varepsilon$, a tapadási súrlódás $S\le\mu N$ feltétele valóban $\tg\varepsilon\le\mu$ esetén teljesül. 
+ Megjegyzés. A $\boldsymbol{K}$ erő függőleges komponensét $N$ nyomóerőnek, a vízszintes komponensét $S$ súrlódási erőnek szokták nevezni. Mivel $N=K\cos\varepsilon$ és $S=K\sin\varepsilon$, a tapadási súrlódás $S\le\mu N$ feltétele valóban $\tan\varepsilon\le\mu$ esetén teljesül. 
 
  Az 1. ábráról leolvasható, hogy 
  $AP=\frac{\ell}{2}\sin\varphi,$ 
  $AB=\frac{\ell}{2\cos\varphi},$ 
  $OB=\frac{\ell}{2}\cos\varphi,$ 
  tehát 
- $\tg\varepsilon=\frac{AP}{AB+OB}=\frac{\sin\varphi\,\cos\varphi}{1+\cos^2\varphi}\equiv f(\varphi).$ 
+ $\tan\varepsilon=\frac{AP}{AB+OB}=\frac{\sin\varphi\,\cos\varphi}{1+\cos^2\varphi}\equiv f(\varphi).$ 
  a) Adott $\varphi$ szögnél a ceruza egyensúlyának feltétele: $\mu\ge f(\varphi)$. Mivel $\varphi_1=15^\circ$-nál $f(\varphi_1)\approx 0{,}13$, legalább ekkora tapadási súrlódási együttható szükséges a radír és az asztallap között, hogy a ceruza ne csússzon meg. 
 
  b) Ha a ceruzát függőleges helyzetéből a cérnaszálnál fogva lassan engedjük megdőlni, a radír elcsúszása akkor kerülhető el, ha minden $0\le\varphi\le 90^\circ$ szögnél teljesül a $\mu\ge f(\varphi)$ feltétel. Ha az $f(\varphi)$ függvény a legnagyobb értékét valamekkora $\varphi_0$ szögnél veszi fel és $f(\varphi_0)=f_\mathrm{max}$, akkor a ceruza csúszásmentes eldönthetőségének feltétele: $\mu\ge f_\mathrm{max}$. 
- Határozzuk meg $f(\varphi)$ legnagyobb értékét! Bevezetve az $x=\tg\varphi$ jelölést, $f(\varphi)$ helyett vizsgálhatjuk az 
+ Határozzuk meg $f(\varphi)$ legnagyobb értékét! Bevezetve az $x=\tan\varphi$ jelölést, $f(\varphi)$ helyett vizsgálhatjuk az 
  $f(x)=\frac{x}{2+x^2}$ 
  kifejezést, kereshetjük ennek legnagyobb értékét, vagy ami ezzel egyenértékű, kereshetjük 
  $\frac{1}{f(x)}=\frac{2}{x}+x$ 

@@ -10,9 +10,9 @@ subtopic: [phase-transition, saturated-vapor, condensation, heat-conduction, tem
 format: open-ended
 math_tools: [algebra]
 core_ideas: [kalda-thermo-idea7]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2011, Problem 2. Mathpix OCR of cache/phoxiv/eotvos/2011_S.pdf (statement-only extraction; full PDF contains solutions). Figures present in source PDF pages 3-4 but not yet extracted to local path."
+provenance_note: "Eötvös Competition 2011, Problem 2. Mathpix OCR of cache/phoxiv/eotvos/2011_S.pdf (statement-only extraction; full PDF contains solutions). The problem statement contains no figure; source-page diagrams belong to the official solution."
 verification_status: pending
 links_en: eotvos-2011-water-vapor
 has_solution: true

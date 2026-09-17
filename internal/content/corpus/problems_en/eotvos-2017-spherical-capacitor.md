@@ -11,8 +11,8 @@ format: open-ended
 math_tools: [algebra, calculus, geometry]
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "English translation of Eötvös Competition 2017, Problem 2; translated from Hungarian source statement (cache/phoxiv/eotvos/2017.pdf)."
+figure_files: [eotvos-2017-spherical-capacitor-fig1.png]
+provenance_note: "English translation of Eötvös Competition 2017, Problem 2; translated from Hungarian source statement (cache/phoxiv/eotvos/2017.pdf). Statement figure harvested from the source PDF."
 verification_status: pending
 links_hu: eotvos-2017-spherical-capacitor
 ---
@@ -20,5 +20,7 @@ links_hu: eotvos-2017-spherical-capacitor
 **2. Spherical capacitor and moving charge**
 
 A spherical capacitor has armatures with radii $R$ and $3R$. The spheres are short-circuited and the larger sphere is grounded. A point charge $Q$ is moved at constant velocity $v$ radially outward between the two metal spheres.
+
+![The spherical capacitor](../../sources/eotvos/figures/eotvos-2017-spherical-capacitor-fig1.png)
 
 What is the current flowing in the wire connecting the spheres when the moving charge is exactly "halfway", at distance $2R$ from the center of the spheres? (Disregard the electrostatic field of the short-circuiting wire!)

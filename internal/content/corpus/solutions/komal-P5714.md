@@ -20,7 +20,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  b) $Q=0$ esetén nyilván csak egyetlen stabil egyensúlyi helyzet van a $\varphi=0$ szögnél. Lényegében ugyanez a helyzet, ha $Q\ne 0$, de kicsi $(Q\ll Q_0)$. Ilyenkor az egyensúlyi helyzet egy kicsit eltolódik a rögzített fémgömb irányába, de máshol nem alakulhat ki erőegyensúly, a nehézségi erő minden más helyzetben ,,legyőzi'' a Coulomb-erőt. 
  Nagyon nagy ($Q\gg Q_0$) töltés esetén a Coulomb-erő mellett a nehézségi erő alig játszik szerepet, így csak a töltések legkisebb távolságának megfelelő 
- $\varphi_1=\arctg\frac{1}{2}\approx 26{,}6^\circ$ 
+ $\varphi_1=\arctan\frac{1}{2}\approx 26{,}6^\circ$ 
  szögkitérés közelében lehet az inga egyensúlyban. 
  Ha az $Q$ töltés $Q_0$-hoz képest se nem nagyon kicsi, se nem nagyon nagy, akkor várhatóan két stabil helyzete is lehet az ingának. Az egyik $\varphi$ viszonylag kis értékeiénél, ahol a távoli töltések között ható Coulomb-erő kicsi, illetve a $\varphi_1$ szög közelében, ahol a töltések kis távolsága miatt az elektrosztatikus erő sokkal erősebb, mint a nehézségi erő. A két stabil egyensúlyi állapotot egy instabil helyzet választja el, amin a rendszer ,,magától'' csak akkor tud átlépni, ha $Q$-t nagyon nagyra növeljük, vagy ha nagyon kicsire csökkentjük. A $Q$ töltés változtatásának ,,irányától'' függően a rendszer különböző módon viselkedik, vagyis a hiszterézise van. 
 
@@ -41,12 +41,12 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $\left|\boldsymbol{F}_\textrm{Coulomb}\right|=\frac{1}{4\pi\varepsilon_0}\,\frac{qQ}{d^2},$ 
  melynek érintő irányú komponense 
  $F_1(\varphi)=\left|\boldsymbol{F}_\textrm{Coulomb}\right|\,\cos\alpha=\frac{\ell}{8\pi\varepsilon_0}\,\frac{qQ}{d^3}(\cos\varphi-2\sin\varphi).$ 
- (Látható, hogy $\varphi=\varphi_1=\arctg\tfrac{1}{2}$ szögkitérésnél $F_1=0$.) 
+ (Látható, hogy $\varphi=\varphi_1=\arctan\tfrac{1}{2}$ szögkitérésnél $F_1=0$.) 
  A nehézségi erő érintő irányú összetevője – mint az az ingamozgás összefüggéseiből ismert – $F_2=mg\sin\varphi.$ 
  Az egyensúly feltétele $F_1=F_2$, azaz 
  $\frac{\ell}{8\pi\varepsilon_0}\,\frac{qQ(\cos\varphi-2\sin\varphi)}{(\ell/2)^3(9-4\sin\varphi-8\cos\varphi)^{3/2}}=mg\sin\alpha.$ 
  Ez az összefüggés (1) ismeretében így is felírható: 
- $(2)$ $\frac{Q}{Q_0}=\frac{(9-4\sin\varphi-8\cos\varphi)^{3/2}}{\ctg\varphi-2}.$ 
+ $(2)$ $\frac{Q}{Q_0}=\frac{(9-4\sin\varphi-8\cos\varphi)^{3/2}}{\cot\varphi-2}.$ 
 
  Megjegyzés. A fenti egyenlethez más úton, az energiaviszonyok vizsgálatán keresztül is eljuthatunk. A rendszer teljes (gravitációs és elektrosztatikus) energiája $\varphi$ függvényében 
  $E(\varphi)=mg\ell(1-\cos{\varphi))-\frac{1}{4\pi\varepsilon_0}\frac{qQ}{d}}=mg\ell\left[1-\cos\varphi-\frac{Q}{2Q_0}\frac{1}{\sqrt{9-4\sin\varphi-8\cos\varphi}}\right].$ 
@@ -63,7 +63,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  3. ábra 
 
- Az ábráról leolvashatjuk, hogy ha a $Q/Q_0$ töltésértékez nulláról fokozatosan növeljük, akkor a rendszer stabil állapotok sorozatán keresztül eljut az $A$ pontig (piros görbe), de ott megszűnik a kisebb $\varphi$ értékhez tartozó stabil állapot, emiatt a rendszer ,,átugrik'' a másik stabil állapotába, az $A'$ pontba. A töltést tovább növelve a kitérés szöge tart az aszimptotikus $\varphi_1=\arctg\frac{1}{2}=0{,}46\,\textrm{radián}$ értékhez. 
+ Az ábráról leolvashatjuk, hogy ha a $Q/Q_0$ töltésértékez nulláról fokozatosan növeljük, akkor a rendszer stabil állapotok sorozatán keresztül eljut az $A$ pontig (piros görbe), de ott megszűnik a kisebb $\varphi$ értékhez tartozó stabil állapot, emiatt a rendszer ,,átugrik'' a másik stabil állapotába, az $A'$ pontba. A töltést tovább növelve a kitérés szöge tart az aszimptotikus $\varphi_1=\arctan\frac{1}{2}=0{,}46\,\textrm{radián}$ értékhez. 
  Ha a $Q$ töltést nagy értékektől fokozatosan csökkentjük, a rendszer a kék görbe menti állapotokat veszi fel. A $B$ pontban hirtelen átkerül a $B'$ állapotba, majd a nullához közelítő töltésre az egyensúlyi szögkitérés nullához tart. A hiszterézisgörbe jellegzetes pontjainak koordinátáit (amelyeket a grafikonról olvashatunk le, vagy numerikus számítással határozhatunk meg) a 3. ábrán feltüntettük.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5714-sol-fig1.png)

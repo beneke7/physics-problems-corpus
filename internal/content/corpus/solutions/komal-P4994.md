@@ -24,6 +24,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $S=\frac{\sin\alpha}{3\sin^2\alpha+2\cos^2\alpha}mg=\frac{2}{9}mg,$ 
  $N=\frac{2\cos\alpha}{3\sin^2\alpha+2\cos^2\alpha}mg=\frac{4}{\sqrt{27}}mg.$ 
  A csúszásmentes gördülés feltétele: 
- $\mu\ge \frac{S}{N}= \frac{1}{2}\tg\alpha=\frac{1}{\sqrt{12}}\approx 0{,}29.$
+ $\mu\ge \frac{S}{N}= \frac{1}{2}\tan\alpha=\frac{1}{\sqrt{12}}\approx 0{,}29.$
 
 ![solution figure](../../raw_html/komal_figures/komal-P4994-sol-fig1.gif)

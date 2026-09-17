@@ -36,7 +36,6 @@ The condition for the relative velocity to be perpendicular to the distance vect
 - Correct expression for the speed of the other electron (0.3 pts)
 
 ii) (1 point) The class of solutions we found in the previous part does not cover the case where the two trajectories intersect. However, the previous part assumed that $\alpha \neq 0$. Hence, for the trajectories to intersect, we need $\alpha=0$ and $u=v$. In other words, $\vec{u}=\vec{v}$. This leaves us complete freedom in the locations of the centres of the two trajectories, as long as they intersect. A sketch of a potential trajectory is shown below
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p6.png)
 
 ## Grading:
 

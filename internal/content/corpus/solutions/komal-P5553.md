@@ -18,4 +18,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $b)$ a kérdéses $\varphi$ szög dimenziótlan, így nem függhet $r$-től, csak az ugyancsak dimenziótlan $\beta t^2$-től. 
 
  A részletesebb számítás szerint 
- $\vert\boldsymbol{a}\vert=r\beta\sqrt{1+\left(\beta t^2\right)^2}\qquad\textrm{és}\qquad\ctg\varphi=\beta t^2.$
+ $\vert\boldsymbol{a}\vert=r\beta\sqrt{1+\left(\beta t^2\right)^2}\qquad\textrm{és}\qquad\cot\varphi=\beta t^2.$

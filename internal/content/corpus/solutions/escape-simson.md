@@ -60,7 +60,6 @@ $$
 - Correct formula for $t$ (0.3 pts)
 - Correct numerical answer (0.2 pts)
 iii) The forces acting perpendicular to the plane's trajectory during a turn are shown in the figure below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p1.png)
 Here
 
 $$
@@ -98,7 +97,6 @@ $$
 - Correct numerical value for $R$ (0.1 pts)
 - Correct numerical value for $\alpha$ (0.1 pts)
 iv) As the problem text states, the air resistance acting on the bomb can be neglected. This means that the bomb's horizontal speed is always the same as the speed of the plane, $v=190 \mathrm{~m} / \mathrm{s}$. If the airplane keeps travelling straight after releasing the bomb, it will end up directly above the detonation point by the time the bomb explodes, leaving only the distance $H-h=8.5 \mathrm{~km}$ between the bomb and the airplane. Hypothetically, the best way to get as much distance between the bomb and the airplane would be if the plane turned around instantly and kept flying straight after that. This is clearly not possible, but it gives us the clue that the plane should start turning immediately after releasing the bomb, and the turn should be as sharp as possible, leaving us with the previously found curvature radius $R=1.6 \mathrm{~km}$. After the turn, it should fly straight so that the detonation point is directly behind it. The geometric construction of this trajectory is shown in the figure below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p1.png)
 
 In the figure, $d$ is the horizontal distance the bomb travels before detonation,
 
@@ -123,7 +121,6 @@ $$
 - Correct formula for $\beta$ (0.5 pts)
 - Correct numerical value for $\beta$ (0.2 pts)
 v) Solution 1. Let $D$ be the distance from the detonation point to the airplane at the moment when the shockwave hits it, and let $z=H-h=8500 \mathrm{~m}$. We can divide the horizontal distance from the detonation point to the plane into three parts as shown in the figure below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p1.png)
 
 In the figure, $s$ is the distance the plane files straight after the turn and before the bomb detonates,
 

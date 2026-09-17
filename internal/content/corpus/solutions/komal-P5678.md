@@ -160,7 +160,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  ahol 
  $(18)$ $A_1=\frac{a}{\omega^2}\left(\cos\omega\tau-1\right)\qquad\textrm{és}\qquad A_2=\frac{a}{\omega^2}\sin\omega\tau.$ 
  Két (különböző fázisú) harmonikus rezgés összege is harmonikus rezgőmozgás. Kérdés: Mekkora az amplitúdója, vagyis a legnagyobb értéke az $x(t)$ függvénynek? Erre pl. a rezgőmozgás ismert sebességképletének felírásával kaphatunk választ. $x(t)$ legnagyobb értékénél a változási sebessége nulla: 
- $\dot{x}(t)=-A_1\omega\sin\omega t+A_2\omega\cos\omega t=0,\qquad\textrm{azaz}\qquad\tg\omega t=\frac{A_2}{A_1}.$ 
+ $\dot{x}(t)=-A_1\omega\sin\omega t+A_2\omega\cos\omega t=0,\qquad\textrm{azaz}\qquad\tan\omega t=\frac{A_2}{A_1}.$ 
  Ezt (17)-be helyettesítve kapjuk, hogy 
  $x_\mathrm{max}=\sqrt{A_1^2+A_2^2}.$ 
 

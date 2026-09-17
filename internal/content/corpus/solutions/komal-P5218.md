@@ -51,7 +51,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ezt (2)-be visszahelyettesítve 
  $(4)$ $x^2=\frac{1}{3} \left(\frac23r_0\right)^2$ 
  adódik. (3)-t (4)-gyel elosztva az 
- $\frac{y^2}{x^2}=\tg^2\varphi=2, \qquad \tg\varphi=\pm \sqrt{2},\quad \varphi=\pm 54{,}7^\circ \quad\text{vagy}\quad \varphi=\pm 125{,}3^\circ.$ 
+ $\frac{y^2}{x^2}=\tan^2\varphi=2, \qquad \tan\varphi=\pm \sqrt{2},\quad \varphi=\pm 54{,}7^\circ \quad\text{vagy}\quad \varphi=\pm 125{,}3^\circ.$ 
  Ezeknek a szögeknek az $r=\tfrac{2}{3}r_0=2~$m-es távolság felel meg. A megfelelő derékszögű koordináták: 
  $x= \pm \frac{2}{3\sqrt{3}}r_0\approx \pm1{,}15~{\rm m}\quad \text{és}\quad
  y=\pm \frac{2\sqrt{2}} {3\sqrt{3}}r_0\approx \pm1{,}63~\rm m. $ 

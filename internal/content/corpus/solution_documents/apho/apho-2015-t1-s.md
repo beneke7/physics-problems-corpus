@@ -159,7 +159,7 @@ electrons by random potential, as well as the electron spin.
  close. Therefore, the electrons optimize their distribution in such a way that
  their average distance increases from f1 l0 to f2 l0 (f1 < f2 ). One expect the
  Coulomb energy gain per electron is proportional to
-                                              $         %
+                                              \$         %
                  e2               e2            1   1         e2
                             −                 =   −
             4πε0 εr (f1 l0 ) 4πε0 εr (f2 l0 )   f1 f2       4πε0 εr l0

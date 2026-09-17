@@ -77,28 +77,25 @@ about the centre. Thus if M is the cylinder mass
 θ
 G
 M
-I0 = Ma2
-/2
-$
-=
-) a
-0
-r2
-dm =
-) a
-0
-r2
-.2Mrdr/a
-%
-The next step is to find the moment of inertia of the rod about its middle,
-Irod =
-) a
-−a
-(Mdx/2a).x2
-= [Mx3
-/6a]a
-−a = Ma2
-/3 .
+$$
+I_{0}=\frac{Ma^{2}}{2}=\int_{0}^{a}r^{2}\,\mathrm{d}m
+=\int_{0}^{a}r^{2}\frac{2Mr}{a^{2}}\,\mathrm{d}r
+=\frac{Ma^{2}}{2}.
+$$
+
+The moment of inertia of the rod about its middle is
+
+$$
+I_{\mathrm{rod}}=\int_{-a}^{a}\frac{M}{2a}x^{2}\,\mathrm{d}x
+=\frac{Ma^{2}}{3}.
+$$
+
+Using the parallel-axis theorem, the moment of inertia of the buoy (cylinder plus rod) about the metacentre is
+
+$$
+I_{M}=\frac{Ma^{2}}{2}+\left[\frac{Ma^{2}}{3}+M(2a)^{2}\right]
+=\frac{29Ma^{2}}{6}.
+$$
 Finally, use the parallel axis theorem to find the moment of inertia of the buoy (cylinder + rod)
 about the metacentre M,
 IM = Ma2
@@ -193,22 +190,15 @@ pzr =
 Er/c =
 (p − upcosθi/c) + u(−pcosθi + up/c)/c
 1 − u2/c2
-Simplifying these expressions, the energy-momentum of the reflected photon in the original frame
-is
-Pr =
-$
-psinθi,0,
-p(−cosθi + 2u/c − u2
-cosθi/c2
-)
-1 − u2/c2
-,
-p(1 − 2ucosθi/c + u2
-/c2
-)
-1 − u2/c2
-%
-.
+Simplifying these expressions, the energy-momentum of the reflected photon in the original frame is
+
+$$
+\mathbf{P}_{r}=\left(
+p\sin\theta_{i},\,0,\,
+\frac{p\left(-\cos\theta_{i}+2u/c-u^{2}\cos\theta_{i}/c^{2}\right)}{1-u^{2}/c^{2}},\,
+\frac{p\left(1-2u\cos\theta_{i}/c+u^{2}/c^{2}\right)}{1-u^{2}/c^{2}}
+\right).
+$$
 Hence the angle of reflection θr is given by
 tanθr = −
 pxr
@@ -257,92 +247,52 @@ b secθ
 Hereafter define θi = θ. Provided that b/cosθ < a the laser light will reflect oﬀ the mirror, so
 cosθ > b/a is needed for photon energy-momentum to be imparted to the mirror. Let us then
 define a critical angle α via cosα = b/a.
-The change in the normal component ∆p∥ of the momentum of a single photon is
-∆L =
-∆p∥b
-cosθ
-=
-b
-cosθ
-!
-pcosθ −
-p(−cosθ + 2u/c − u2
-cosθ/c2
-)
-1 + u2/c2
-"
-,
-∆L =
-bp(2cosθ − 2u/c)
-cosθ(1 + u2/c2)
-=
-2bp(1 − usecθ/c)
-(1 + u2/c2)
-≃ 2bp(1 − usecθ/c) .
-Since ucosθ = ωb, ∆L ≃ 2bp(1 − ωbsec2
-θ/c) per photon. Suppose N photons strike every second
-(and |θ| is less than the critical angle α). Then in time dt we have Ndt photons. But dt = dθ/ω,
-so in this time we have,
-dL = N
-dθ
-ω
-× 2bp
-$
-ωb
-c
-sec2
-θ
-%
-Thus the change in ∆L per revolution is
-dL
-dn
-= 2 ×
-2bpN
-ω
-) a
-−a
-(1 − ωbsec2
-θ/c)dθ
-where n refers to the number of revolutions. So
-dL
-dn
-≃
-8bpN
-ω
-$
-α −
-ωb
-c
-tanα
-%
-=
-8bP
-ωc
-$
-α −
-ωb
-c
-tanα
-%
-,
-since each photon has energy pc and laser power equals P = Npc.
-Clearly ωb ≪ c always, so dL/dn ≃ 8bPα/ωc; thus
-dL
-dt
-=
-dL
-dn
-dn
-dt
-=
-ω
-2π
-dL
-dn
-=
-4bPα
-πc
-.
+The change in the normal component $\Delta p_{\parallel}$ of the momentum of a single photon is
+
+$$
+\Delta L=\frac{b}{\cos\theta}\left[p\cos\theta
+-p\frac{-\cos\theta+2u/c-u^{2}\cos\theta/c^{2}}{1+u^{2}/c^{2}}\right]
+=\frac{bp(2\cos\theta-2u/c)}{\cos\theta(1+u^{2}/c^{2})}
+\simeq 2bp\left(1-\frac{u\sec\theta}{c}\right).
+$$
+
+Since $u\cos\theta=\omega b$, this becomes
+
+$$
+\Delta L\simeq 2bp\left(1-\frac{\omega b\sec^{2}\theta}{c}\right).
+$$
+
+per photon. Suppose $N$ photons strike every second, with $|\theta|$ less than the critical angle $\alpha$. During a time $\mathrm{d}t=\mathrm{d}\theta/\omega$,
+
+$$
+\mathrm{d}L=N\frac{\mathrm{d}\theta}{\omega}\,2bp\left(1-\frac{\omega b\sec^{2}\theta}{c}\right).
+$$
+
+The change in $\Delta L$ per revolution is therefore
+
+$$
+\frac{\mathrm{d}L}{\mathrm{d}n}
+=2\frac{2bpN}{\omega}\int_{-\alpha}^{\alpha}
+\left(1-\frac{\omega b\sec^{2}\theta}{c}\right)\,\mathrm{d}\theta
+$$
+
+and hence
+
+$$
+\frac{\mathrm{d}L}{\mathrm{d}n}\simeq
+\frac{8bpN}{\omega}\left(\alpha-\frac{\omega b}{c}\tan\alpha\right)
+=\frac{8bP}{\omega c}\left(\alpha-\frac{\omega b}{c}\tan\alpha\right),
+$$
+
+where $n$ is the number of revolutions, each photon has energy $pc$, and the laser power is $P=Npc$.
+Since $\omega b\ll c$,
+
+$$
+\frac{\mathrm{d}L}{\mathrm{d}n}\simeq\frac{8bP\alpha}{\omega c},
+\qquad
+\frac{\mathrm{d}L}{\mathrm{d}t}=\frac{\omega}{2\pi}\frac{\mathrm{d}L}{\mathrm{d}n}
+=\frac{4bP\alpha}{\pi c}.
+$$
 (c)
 Therefore if I is the moment of inertia of the mirror about its axis of rotation,
 I

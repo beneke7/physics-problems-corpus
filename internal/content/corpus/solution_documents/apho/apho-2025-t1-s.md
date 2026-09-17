@@ -104,7 +104,7 @@ Using the relation |z| ↗ dSE this simplifies to:
  Calculating the gz at arbitrary z correctly       0.2       lar size dφ located at angle φ with respect to point P
                                                              is given by law of cosines:
  Approximate form of gz for |z| ↗ dSE              0.1
- Indicating correct direction in the figure        0.2                        $
+ Indicating correct direction in the figure        0.2                        \$
  Total for Task B.1.                               1.0                    s = d2SE + r2 → 2dSE r cos φ.
 
     B.2. Solution I: Using Gauss’s theorem. The ra-          The gravitational potential at point P due to the

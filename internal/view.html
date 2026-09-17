@@ -44,6 +44,7 @@
 		#document-content pre { overflow:auto; padding:10px; background:#f5f5f5; font:14px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace; }
 		#document-content code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }
 		#document-content blockquote { margin-left:0; padding-left:14px; border-left:3px solid var(--line); color:#555; }
+		#document-note { margin:-4px 0 12px; color:#900; font-size:12px; }
 		#figures { max-width:820px; margin:0 auto; border-top:1px solid var(--line); padding:14px 0; }
 		#figures h2 { margin:0 0 10px; font:700 16px Georgia,serif; }
 		.figure { margin:12px 0 20px; }
@@ -70,6 +71,7 @@
 			<button id="download-package" type="button" hidden>Download MD + figures</button>
 			<span id="status" aria-live="polite"></span>
 		</div>
+		<p id="document-note" hidden>Source transcription: raw PDF/OCR extraction; formatting and equations may be corrupted.</p>
 		<article id="document-content"></article>
 		<section id="figures" hidden><h2>Figures</h2><div id="figure-list"></div></section>
 	</main>
@@ -101,7 +103,7 @@
 		}
 		function stripFrontmatter(value) { return value.replace(/^---\n[\s\S]*?\n---\n?/, ""); }
 		function basename(value) { return decodeURIComponent(value.split(/[?#]/)[0].split("/").pop() || ""); }
-		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Solution"; return `Official document ${Number(key.slice(3)) + 1}`; }
+		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Canonical solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
 		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
 		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
 		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
@@ -110,6 +112,30 @@
 				const local = figurePath(src, info); if (local === src) return whole;
 				return `${start}${forPackage ? packageFigurePath(local) : local}${end}`;
 			});
+		}
+		function escapeHtml(value) { return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;"); }
+		function renderMarkdown(value) {
+			const math = [], token = () => `MATHJAXTOKEN${math.length - 1}`;
+			let body = "", i = 0;
+			while (i < value.length) {
+				if (value[i] === "`") {
+					const run = value.slice(i).match(/^`+/)[0], end = value.indexOf(run, i + run.length);
+					if (end >= 0) { body += value.slice(i, end + run.length); i = end + run.length; continue; }
+				}
+				if ((value.startsWith("```", i) || value.startsWith("~~~", i)) && (i === 0 || value[i - 1] === "\n")) {
+					const fence = value[i] === "`" ? "```" : "~~~", end = value.indexOf(`\n${fence}`, i + fence.length);
+					if (end >= 0) { const lineEnd = value.indexOf("\n", end + 1); const stop = lineEnd < 0 ? value.length : lineEnd + 1; body += value.slice(i, stop); i = stop; continue; }
+				}
+				const escaped = i > 0 && value[i - 1] === "\\";
+				let close = -1, length = 0;
+				if (!escaped && (value.startsWith("\\(", i) || value.startsWith("\\[", i))) {
+					const delimiter = value.startsWith("\\(", i) ? "\\)" : "\\]"; close = value.indexOf(delimiter, i + 2); length = 2;
+				} else if (!escaped && value.startsWith("$$", i)) { close = value.indexOf("$$", i + 2); length = 2; }
+				else if (!escaped && value[i] === "$" && value[i + 1] !== "$") { close = value.indexOf("$", i + 1); while (close > 0 && value[close - 1] === "\\") close = value.indexOf("$", close + 1); length = 1; }
+				if (close > i + length) { math.push(value.slice(i, close + length)); body += token(); i = close + length; continue; }
+				body += value[i++];
+			}
+			return marked.parse(body, {gfm:true, breaks:false, html:false}).replace(/MATHJAXTOKEN(\d+)/g, (_, index) => escapeHtml(math[Number(index)]));
 		}
 		function setDownload(body, name) {
 			if (downloadUrl) URL.revokeObjectURL(downloadUrl); downloadUrl = URL.createObjectURL(new Blob([body], {type:"text/markdown;charset=utf-8"}));
@@ -120,8 +146,8 @@
 			if (!paths.length) { box.hidden = true; return; } box.hidden = false;
 			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)); img.src = path; img.loading = "lazy"; img.decoding = "async"; link.href = path; link.download = basename(path); figure.append(img, link); list.append(figure); });
 		}
-		function renderBody(body, info) {
-			currentBody = stripFrontmatter(body); packageBody = localizeImages(currentBody, info, true); const content = $("document-content"); content.innerHTML = marked.parse(currentBody, {gfm:true, breaks:false, html:false}); typeset(content);
+		function renderBody(body, info, renderMath = true) {
+			currentBody = stripFrontmatter(body); packageBody = localizeImages(currentBody, info, true); const content = $("document-content"); content.innerHTML = renderMarkdown(currentBody); if (renderMath) typeset(content);
 			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, info); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
 			renderFigures(info, seen); setDownload(currentBody, recordId + "-" + $("document").value); const count = array(info.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
 		}
@@ -141,7 +167,8 @@
 		}
 		async function showDocument(key) {
 			const path=options.find((item) => item.key === key)?.path; if (!path) return; currentInfo=manifest.documents[path] || {};
-			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo); history.replaceState(null,"",`view.html?id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
+			const source = key.startsWith("doc"); $("document-note").hidden = !source;
+			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo,!source); history.replaceState(null,"",`view.html?id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
 		}
 		async function load() {
 			try {

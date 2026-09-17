@@ -74,7 +74,6 @@ $$
 $$
 
 We can proceed exactly the same way for the case of the car backing up at the other, yet unknown, critical angle $\alpha_{2}$, illustrated below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p5.png)
 
 We proceed to write down the equilibrium condition the same way as before, by expressing the distance of the intersection point from the surface in two different ways:
 

@@ -13,12 +13,14 @@ format: open-ended
 points: 7
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2016 (Északi-Balti Fizika Olimpia), 6. feladat (Második forduló), szerző Andreas Isacsson. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2016.pdf). Ábra kinyerése PDF-ből függőben van."
+figure_files: [nbpho-2016-charge-on-ring-fig1.png]
+provenance_note: "NBPhO 2016 (Északi-Balti Fizika Olimpia), 6. feladat (Második forduló), szerző Andreas Isacsson. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2016.pdf). A feladat ábráját a forrás-PDF-ből nyertük ki."
 verification_status: pending
 ---
 
 **6. TÖLTÉS A GYŰRŰN (7 pont)** — *Andreas Isacsson.*
+
+![A töltés a gyűrűn](../../sources/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
 
 Az $m$ tömegű és $q$ töltésű pontszerű részecske súrlódásmentesen csúszhat egy $r$ sugarú rögzített vízszintes körgyűrűn. A gyűrű síkjában egy másik $Q$ töltés helyezkedik el rögzített helyen, a gyűrű középpontjától $d$ távolságra, ahol $d<r$ (lásd az ábrát).
 

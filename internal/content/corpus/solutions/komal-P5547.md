@@ -21,9 +21,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  2. ábra 
 
  A bevezető gondolatmenet szerint a golyóra ható súlyerő és felhajtóerő eredője ezzel párhuzamos, de ellentétes irányú. Ezen kívül a forgó rendszerben nyugalomban lévő fagolyóra csak a fonálerő hat, így egyensúly csak akkor lehet ha az eredő súlyerő (és így a $\boldsymbol{g}'$ nehézségi gyorsulás) párhuzamos a fonállal. Ez alapján 
- $\frac{\omega^2r}{g}=\tg30^\circ,$ 
+ $\frac{\omega^2r}{g}=\tan30^\circ,$ 
  és a keresett szögsebesség 
- $\omega=\sqrt{\frac{g\tg30^\circ}{r}}=10{,}6\,\mathrm{\frac{1}{s}}.$ 
+ $\omega=\sqrt{\frac{g\tan30^\circ}{r}}=10{,}6\,\mathrm{\frac{1}{s}}.$ 
 
 **II. megoldás.**
  Inerciarendszerben a fagolyóra az $m\boldsymbol{g}$ nehézségi erő, a víz által kifejtett $\boldsymbol{F}_\mathrm{f}$ felhajtóerő és a $\boldsymbol{K}$ kötélerő hat, ezek eredője tartja körpályán: 

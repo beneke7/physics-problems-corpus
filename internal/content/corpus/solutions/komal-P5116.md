@@ -11,11 +11,13 @@ provenance_note: "KöMaL official solution (Hungarian)"
 **I. megoldás.**
  Jelöljük a gömbhéjak belső sugarát $R_1$-gyel és $R_2$-vel, kezdeti töltésüket $Q_1$-gyel és $Q_2$-vel. (Esetünkben $R_1=R$, $R_2=3R$, $Q_1=2Q$, $Q_2=Q$, de a megoldást általános esetre is megadjuk.) 
  A két (egymástól távol lévő) gömbhéjon belül és azon kívül is az elektromos mező ugyanolyan, mint egy-egy ponttöltés (vagy kicsiny, gömbszimmetrikusan eloszló töltés) Coulomb-féle elektrosztatikus erőtere. A különbség ,,mindössze'' annyi, hogy a vezető gömbhéj elektromos megosztása miatt annak $d$ vastagságú ,,belsejében'' az elektromos térerősség nulla. A $Q_1$ töltés körül például ilyen az elektromos mező: 
- $E(r) =\begin{cases} \frac{1}{4\pi\varepsilon_0}\,\frac{Q_1}{r^2},
- & \text{ha $\displaystyle 0<r<R_1$}; \\
- 0, & \text{ha $R_1<r<R_1+d;$}\\
- \frac{1}{4\pi\varepsilon_0}\,\frac{Q_1}{r^2},&\text{ha $r>R_1+d;$}
- \end{cases}$ 
+$$
+E(r)=\begin{cases}
+\dfrac{1}{4\pi\varepsilon_0}\,\dfrac{Q_1}{r^2}, & \text{ha }0<r<R_1,\\
+0, & \text{ha }R_1<r<R_1+d,\\
+\dfrac{1}{4\pi\varepsilon_0}\,\dfrac{Q_1}{r^2}, & \text{ha }r>R_1+d.
+\end{cases}
+$$
  ahol $r$ a $Q_1$ töltéstől mért távolság. 
  Hasonló elektromos mező alakul ki a másik töltés körül is, csak ott $Q_1$ helyébe $Q_2$ kerül, a gömbhéj sugara $R_2$, és $r$ a $Q_2$ töltéstől mért távolság. Ha a két gömbhéj elegendően messze van egymástól, a két erőtér ,,nem zavarja'' egymást, az eredő tér a kettő szuperpozíciója lesz. 
  Számítsuk ki az egész elrendezés elektrosztatikus energiáját az eredeti, majd a töltések felcserélése utáni esetben. A töltéscsere során végzett munka legalább annyi kell legyen, amennyi az elektrosztatikus energia megváltozása (növekedése). 

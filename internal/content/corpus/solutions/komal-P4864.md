@@ -16,6 +16,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
  távolságra jut el. Ha ez a $d$ távolság két különböző elhajítási szögre ($\alpha_1$-re és $\alpha_2$-re) is ugyanakkora, akkor 
  $\sin(2\alpha_1)=\sin(2\alpha_2), \qquad \text{vagyis}\qquad \alpha_2=90^\circ-\alpha_1.$ 
  A mozgásidők aránya: 
- $n=\frac{t_1}{t_2}=\frac{\sin\alpha_1}{\sin\alpha_2}=\frac{\sin\alpha_1}{\sin(90^\circ-\alpha_1)}=\tg\alpha_1.$ 
+ $n=\frac{t_1}{t_2}=\frac{\sin\alpha_1}{\sin\alpha_2}=\frac{\sin\alpha_1}{\sin(90^\circ-\alpha_1)}=\tan\alpha_1.$ 
  Ezek szerint az elhajítások szöge 
- $\alpha_1=\arctg n\qquad \text{és} \qquad \alpha_2=90^\circ-\alpha_1=\arctg \frac{1}{n}.$
+ $\alpha_1=\arctan n\qquad \text{és} \qquad \alpha_2=90^\circ-\alpha_1=\arctan \frac{1}{n}.$

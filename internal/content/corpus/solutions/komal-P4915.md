@@ -32,10 +32,10 @@ $
  ahonnan 
  $v_1=\sqrt{\frac{\gamma M}{R}},$ 
  ami $\omega=\sqrt{\gamma M/R^3}$ segítségével $v_1=R\omega$ alakban is felírható. Eszerint 
- $\frac{x(t_1)}{v(t_1)}= \frac{A\sin(\omega t_1)}{A\omega\cos(\omega t_1)}=\frac{1}{\omega}\tg(\omega t_1)=
+ $\frac{x(t_1)}{v(t_1)}= \frac{A\sin(\omega t_1)}{A\omega\cos(\omega t_1)}=\frac{1}{\omega}\tan(\omega t_1)=
 \frac{R}{R\omega},
 $ 
- vagyis $\tg(\omega t_1)=1,$ azaz $t_1=\pi/(4\omega).$ A lövedék tehát 
+ vagyis $\tan(\omega t_1)=1,$ azaz $t_1=\pi/(4\omega).$ A lövedék tehát 
  $T_1=2t_1= \frac{\pi}{2\omega}=\frac{T_0}{4}=1400~{\rm s}=0{,}39~\text{óra}
 $ 
  idő alatt repül keresztül a titán kisbolygón. 

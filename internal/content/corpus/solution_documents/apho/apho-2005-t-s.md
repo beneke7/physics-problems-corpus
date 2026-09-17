@@ -1066,7 +1066,7 @@ From the triangles aeo and afo we have                                       and
                                                          d
                                             !                            !
                                                              v t   t!
-                                                              "###!####$
+                                                              "###!####\$
 
                                            Figure 3.4.
 

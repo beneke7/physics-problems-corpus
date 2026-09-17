@@ -11,9 +11,9 @@ subtopic: [heat-transfer, phase-transition, thermal-equilibrium, thermal-conduct
 format: open-ended
 math_tools: [calculus, algebra]
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "English translation of Eötvös Competition 2006, Problem 1. Translated from Hungarian source statement (cache/phoxiv/eotvos/2006_S.pdf)."
+provenance_note: "English translation of Eötvös Competition 2006, Problem 1. Translated from Hungarian source statement (cache/phoxiv/eotvos/2006_S.pdf). The problem statement contains no figure; diagrams in the source document belong to the official solution."
 verification_status: pending
 ---
 
@@ -26,4 +26,3 @@ In physics club, the following problem comes up from a problem book:
 The students research in various books. Tóni thinks that ice floats on water, so the liquid water must be at the bottom. Réka thinks water must be in the middle because it contacts hot vapor. Bea, while searching for data, discovers that in some tables—apparently due to a typo—the thermal conductivity of gases is listed as greater than that of water or ice. However, according to other tables and books, the thermal conductivity of gases is many times smaller. (Bea agrees that this makes more sense.)
 
 **Help them find the correct answer to the question in the problem!**
-

@@ -78,7 +78,7 @@ produced by hot objects, and its absorption by other objects.
 Both of these topics are covered in T2. Most of the time, the experimental equipment doesn’t
 require any particular knowledge to use, but for circuits and optics, some experience is helpful.
 [3] Problem 3. A multimeter is the most complicated piece of equipment that ever shows up on
-Olympiad labs. Get a cheap multimeter; there are many suitable options for less than $20 online.
+Olympiad labs. Get a cheap multimeter; there are many suitable options for less than 20 dollars online.
 By reading the manual and experimenting, teach yourself what every setting on the multimeter
 does, and how to read the display. Test your knowledge by performing a variety of measurements
 on cheap circuit components, such as batteries, resistors, capacitors, and diodes. Be careful not to

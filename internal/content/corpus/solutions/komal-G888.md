@@ -19,30 +19,30 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A kérdéses szögsebességeket megkapjuk, ha a második egyenletből $N$-et beírjuk az elsőbe: 
  $\omega=\sqrt{\frac{g(\cos\vartheta\mp\mu\sin\vartheta)}{R(\sin\vartheta\pm\mu\cos\vartheta)}}.$ 
  Behelyettesítés után azt kapjuk, hogy $\omega_\mathrm{min}=1{,}42\,\mathrm{s}^{-1}$ (ekkor a számlálóban a $-$ előjelet, a nevezőben a $+$ előjelet használtuk), illetve $\omega_\mathrm{max}=2,62\,\mathrm{s}^{-1}$ (fordított előjelhasználattal). 
- b) Ha a henger áll, akkor $\omega=0$, ami azt jelenti, hogy az emberek akkor nem csúsznak le. ha olyan nagy a súrlódás, hogy $\mu>\frac{1}{\tg\vartheta}=1{,}73.$ (Vigyázat! A függőlegestől mérjük a $\vartheta$ szöget.) 
- c) A szögsebesség kifejezésében a nevező nem lehet nulla, sőt negatív sem lehet. Ha formálisan ez jön ki, vagyis $\mu\geq\tg\vartheta =0{,}577$, akkor a test annyira ráfeszül a ferde síkra, hogy akármilyen nagy $\omega$ esetén sem csúszik felfelé. 
+ b) Ha a henger áll, akkor $\omega=0$, ami azt jelenti, hogy az emberek akkor nem csúsznak le. ha olyan nagy a súrlódás, hogy $\mu>\frac{1}{\tan\vartheta}=1{,}73.$ (Vigyázat! A függőlegestől mérjük a $\vartheta$ szöget.) 
+ c) A szögsebesség kifejezésében a nevező nem lehet nulla, sőt negatív sem lehet. Ha formálisan ez jön ki, vagyis $\mu\geq\tan\vartheta =0{,}577$, akkor a test annyira ráfeszül a ferde síkra, hogy akármilyen nagy $\omega$ esetén sem csúszik felfelé. 
 
 **II. megoldás.**
  Egy test akkor nem csúszik meg, ha a nyomóerő és a tapadó súrlódási erő eredője egyensúlyt tud tartani a testre ható többi erő eredőjével. Mivel $S\leq\mu N$, a két erő eredője legfeljebb 
- $\varepsilon=\arctg\frac{S_\mathrm{max}}{N}=\arctg\mu$ 
+ $\varepsilon=\arctan\frac{S_\mathrm{max}}{N}=\arctan\mu$ 
  szöget zárhat be a felület normálisával (a felületre merőleges iránnyal). Esetünkben a testre a nyomóerőn és a súrlódási erőn kívül csak a nehézségi erő és a forgó rendszerben fellépő centrifugális erő hat. Mindkét erő arányos a test tömegével, így a két erő eredőjének irányát a függőlegesen lefelé mutató $g$ és a vízszintesen, sugárirányban kifelé mutató $a_\mathrm{cf}=\omega^2R$ gyorsulásvektorok $a$ eredőjének iránya határozza meg. 
  A feladatunk esetében ez azt jelenti, hogy a két gyorsulásvektor eredője a vízszintessel $\vartheta-\varepsilon\leq\alpha\leq\vartheta+\varepsilon$ szöget zárhat be ( 2. ábra ). 
 
  2. ábra 
 
- Az ábráról az is látszik, hogy $\ctg\alpha=\omega^2\tfrac{R}{g}$. Ezután az egyes kérdésekre a válaszok: 
+ Az ábráról az is látszik, hogy $\cot\alpha=\omega^2\tfrac{R}{g}$. Ezután az egyes kérdésekre a válaszok: 
 
- a) A súrlódási együttható $\mu=0{,}25$, ebből $\varepsilon=\arctg\mu\approx 14^\circ$, $\vartheta-\varepsilon\approx 16^\circ$, $\vartheta+\varepsilon\approx 44^\circ$. A szögsebesség-tartományt keressük: 
- $\omega=\sqrt{\frac{g}{R}\ctg\alpha},$ 
+ a) A súrlódási együttható $\mu=0{,}25$, ebből $\varepsilon=\arctan\mu\approx 14^\circ$, $\vartheta-\varepsilon\approx 16^\circ$, $\vartheta+\varepsilon\approx 44^\circ$. A szögsebesség-tartományt keressük: 
+ $\omega=\sqrt{\frac{g}{R}\cot\alpha},$ 
  ahol $\vartheta-\varepsilon\leq\alpha\leq\vartheta+\varepsilon$. A minimális szögsebességhez a maximális $\alpha$ szög tartozik (és fordítva), így: 
 $$\begin{gather*}
-\omega_\mathrm{min}=\sqrt{\frac{g}{R}\ctg(\vartheta+\varepsilon)}\approx 1{,}42\,\mathrm{s^{-1}},\\
-\omega_\mathrm{max}=\sqrt{\frac{g}{R}\ctg(\vartheta-\varepsilon)}\approx 2{,}62\,\mathrm{s^{-1}}.
+\omega_\mathrm{min}=\sqrt{\frac{g}{R}\cot(\vartheta+\varepsilon)}\approx 1{,}42\,\mathrm{s^{-1}},\\
+\omega_\mathrm{max}=\sqrt{\frac{g}{R}\cot(\vartheta-\varepsilon)}\approx 2{,}62\,\mathrm{s^{-1}}.
 \end{gather*}$$
 
- b) $\omega=0$ esetében az eredő gyorsulás függőleges (csak a nehézségi erő hat), így teljesülnie kell a $\vartheta+\varepsilon\geq 90^\circ$ egyenlőtlenségnek. Ebből $\varepsilon\geq 60^\circ$ és így $\mu\geq\tg 60^\circ\approx 1{,}73$ szükséges. 
+ b) $\omega=0$ esetében az eredő gyorsulás függőleges (csak a nehézségi erő hat), így teljesülnie kell a $\vartheta+\varepsilon\geq 90^\circ$ egyenlőtlenségnek. Ebből $\varepsilon\geq 60^\circ$ és így $\mu\geq\tan 60^\circ\approx 1{,}73$ szükséges. 
 
- c) Nagyon nagy szögsebesség esetében az eredő gyorsulás közel vízszintes, így a $\varepsilon\geq\vartheta$ egyenlőtlenségnek kell teljesülnie, amiből $\varepsilon\geq 30^\circ$ és így $\mu\geq\tg 30^\circ\approx 0{,}57$ szükséges.
+ c) Nagyon nagy szögsebesség esetében az eredő gyorsulás közel vízszintes, így a $\varepsilon\geq\vartheta$ egyenlőtlenségnek kell teljesülnie, amiből $\varepsilon\geq 30^\circ$ és így $\mu\geq\tan 30^\circ\approx 0{,}57$ szükséges.
 
 ![solution figure](../../raw_html/komal_figures/komal-G888-sol-fig1.gif)
 

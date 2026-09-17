@@ -11,9 +11,9 @@ subtopic: [drag-force, orbital-decay, circular-orbits, satellite-dynamics, gravi
 format: open-ended
 math_tools: [calculus, algebra, dimensional-analysis]
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "English translation of Eötvös Competition 2011, Problem 1; translated from the Hungarian source statement (cache/phoxiv/eotvos/2011_S.pdf, statement-only extraction)."
+provenance_note: "English translation of Eötvös Competition 2011, Problem 1; translated from the Hungarian source statement (cache/phoxiv/eotvos/2011_S.pdf, statement-only extraction). The problem statement contains no figure; the source-page diagram belongs to the official solution."
 verification_status: pending
 ---
 

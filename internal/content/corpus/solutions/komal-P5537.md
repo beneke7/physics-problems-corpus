@@ -22,7 +22,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  és így 
  $\lambda=\cos\alpha\approx 0{,}87.$ 
  A mozgás ezen szakaszának hossza 
- $s_1=R\,\ctg\alpha\approx 34{,}6\,\mathrm{m}.$ 
+ $s_1=R\,\cot\alpha\approx 34{,}6\,\mathrm{m}.$ 
  II. A mozgás második szakaszában (a $CB$ köríven) a test gyorsulása az érintőirányú gyorsulásból és a sugárirányú (centripetális) gyorsulásból tevődik össze. Az érintőleges gyorsulás és a nehézségi gyorsulás érintőirányú komponense megegyezik, ezek különbsége tehát nulla. A sugárirányú gyorsulás nagysága $v^2/R$, ahol $v$ a test pillanatnyi sebessége. A nehézségi gyorsulás sugárirányú komponense a centripetális gyorsulással ellentétes irányú és $g\cos\varphi$ nagyságú, ahol $\varphi$ ($\alpha>\varphi>0)$ a test pillanatnyi helyzetéhez tartozó sugárnak a függőlegessel bezárt szöge. Ennek megfelelően 
  $\lambda=\frac{v^2}{Rg}+\cos\varphi.$ 
  A sebességet az energiamegmaradás törvényét alkalmazva kapjuk meg: 
@@ -32,7 +32,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A körív hossza: 
  $s_2=R\alpha=R\frac{\pi}{6}\approx 10{,}5\,\mathrm{m}.$ 
  Közvetlenül a $B$ pont elhagyása után $\lambda\approx 2{,}6$, a $C$ pont elérése előtti pillanatban pedig $\lambda=3{,}00.$ A megtett $s$ út és $\varphi$ közötti kapcsolat: 
- $\varphi=\ctg\alpha+\alpha-\frac{s}{R}.$ 
+ $\varphi=\cot\alpha+\alpha-\frac{s}{R}.$ 
  III. A mozgás harmadik, fékezéses szakaszában a gyorsulás vízszintes irányú és $a=\frac{R}{\ell}g=\frac{1}{2}g$ nagyságú. Ennek megfelelően 
  $\lambda=\frac{\sqrt{5}}{2}\approx 1{,}12.$ 
  A mozgás ezen szakaszának hossza $s_3=40\,\mathrm{m}$, a teljes út pedig $s_1+s_2+s_3\approx 85\,\mathrm{m}.$ 

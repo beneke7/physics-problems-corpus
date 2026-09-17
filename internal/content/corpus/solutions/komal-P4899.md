@@ -42,5 +42,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A fémgolyó homogén (elektromos + gravitációs) erőtérben mozog, emiatt a gyorsulása állandó. A gyorsulás vektora 
  $g'= \sqrt{ g^2+a^2 }=12{,}3~\frac{\rm m}{\rm s^2}$ 
  nagyságú, és az irányának a függőlegessel bezárt szöge 
- $\alpha=\arctg\frac{a}{g}=37{,}3^\circ.$ 
+ $\alpha=\arctan\frac{a}{g}=37{,}3^\circ.$ 
  A golyó mozgása egy elforgatott koordináta-rendszerben $g'$ nehézségi gyorsulású ,,gravitációs'' erőtérben végbemenő, $v_0$ nagyságú és $\alpha$ hajlásszögű kezdősebességgel induló ferde hajításként is tárgyalható. Az így kapott eredmények (ha azokat ,,visszaforgatjuk'' az eredeti koordináta-rendszerbe) megegyeznek az I. megoldás eredményeivel.

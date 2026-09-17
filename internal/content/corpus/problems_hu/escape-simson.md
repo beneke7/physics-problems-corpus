@@ -13,12 +13,14 @@ format: open-ended
 points: 8
 core_ideas: [kalda-kinematics-idea34]
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2022 (Északi-Balti Fizika Olimpia), 1. feladat, szerző Päivo Simson. A tulajdonos képeiről átírva."
+figure_files: [nbpho-2022-escape-fig1.png]
+provenance_note: "NBPhO 2022 (Északi-Balti Fizika Olimpia), 1. feladat, szerző Päivo Simson. A tulajdonos képeiről átírva. A feladat ábráját a forrás-PDF 1. oldaláról 300 dpi felbontásban vágtuk ki; a kivágáson nem végeztünk OCR-t."
 verification_status: pending
 ---
 
 **1. MENEKÜLÉS (8 pont)** — *Päivo Simson.*
+
+![A bedöntési szög és a menekülési manőver](../../sources/nbpho/figures/nbpho-2022-escape-fig1.png)
 
 Egy nukleáris fegyverkísérlet során egy bombát $H = 9\ \mathrm{km}$ magasságban
 egy repülőgépről ledobnak, és úgy állítják be, hogy a talaj felett

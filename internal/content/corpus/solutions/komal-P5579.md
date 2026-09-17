@@ -32,7 +32,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az 1/a ábra azt a síkmetszetet mutatja, amely merőleges az $S_\pm$ síkokra, a szélességi körökre, és magába foglalja a Föld forgástengelyét (tehát nem a fentiekben definiált $x$-$z$ sík!), míg az 1/b ábra a $\varphi$ szélességi kört tartalmazó, (az 1/a ábra síkjára) merőleges metszet látható. (Az ábra torz különösen az $S_\pm$ síkok $d$ távolságát illetően, ez ugyanis minden más távolságnál lényegesen kisebb, arányos ábrán nem lehetne a két síkot megkülönböztetni.) Ezekről leolvasható, hogy az $S_\pm$ síkok a $\varphi$ szélességhez tartozó síkot két egymástól 
  $d'=\frac{d}{\sin\alpha}$ 
  távolságban futó, a középponttól 
- $m=\frac{M}{\tg\alpha}\pm\frac{d'}{2}\simeq\frac{M}{\tg\alpha}$ 
+ $m=\frac{M}{\tan\alpha}\pm\frac{d'}{2}\simeq\frac{M}{\tan\alpha}$ 
  távolságra lévő párhuzamos egyenesben metszik, ahol 
  $M=R\sin\varphi.$ 
  Látható az is, hogy a kérdéses szélességi körnek jó esetben két, 
@@ -40,9 +40,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  hosszúságú szakasza esik a két sík közé, ahol 
  $\cos\beta=\frac{m}{r}.$ 
  Az eddigieket összegezve tehát a $\varphi$-vel jellemzett szélességi körnek két, egyenként 
- $s=\frac{R\Delta\eta}{\sqrt{\sin^2{\alpha}-{\tg}^2\varphi\cos^2\alpha}}$ 
+ $s=\frac{R\Delta\eta}{\sqrt{\sin^2{\alpha}-{\tan}^2\varphi\cos^2\alpha}}$ 
  hosszúságú darabja (íve) esik az $S_\pm$ síkok közé, ezek felelnek meg a napfelkeltének és a napnyugtának. A szélességi kör egyes pontjai ezeken 
- $\Delta t=\frac{s}{v}=\frac{T\Delta\eta}{2\pi\cos\varphi\sqrt{\sin^2\alpha-\tg^2\varphi\cos^2\alpha}}=
+ $\Delta t=\frac{s}{v}=\frac{T\Delta\eta}{2\pi\cos\varphi\sqrt{\sin^2\alpha-\tan^2\varphi\cos^2\alpha}}=
 \frac{T\Delta\eta}{2\pi}\frac{1}{\sqrt{\cos^2\varphi-\sin^2\theta\cos^2\psi}}=\frac{T\Delta\eta}{2\pi}\frac{1}{\sqrt{\cos^2\varphi-\sin^2\phi}}$ 
  idő alatt haladnak végig. 
 
@@ -56,13 +56,13 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $m-\frac{d'}{2}<r<m+\frac{d'}{2}.$ 
  Ilyenkor a napfelkelte és a napnyugta összeér, nem megengedhető a $d'$ elhanyagolása az $m$ mellett, és a pontos ívhosszal kellene számolni. A számításaink során a $\varphi$ változásával nem foglalkoztunk. Ez a változás a pólusokhoz nem túl közel egy napfelkelte alatt nagyságrendileg akkora pontatlanságot visz be az eredménybe, mint a ,,valódi nap'' (a Nap két delelése közti idő) és a forgás periódusa közötti különbség elhanyagolása. Végül megjegyezzük, a sarkok közvetlen közelében a napkelte és napnyugta időtartamát már jelentős részben befolyásolja a $\psi$ változási üteme: azt, hogy a nap-éj egyenlőség idején egy ilyen pont mennyi ideig van a napkelte-napnyugta sávban, attól is függ, hogy maga a pólus mennyi idő alatt halad át ezen a sávon. 
  Mint azt fentebb már említettük, a Nap emelkedésének az $\varepsilon$ szögét a horizont forgása határozza meg: a napfelkelte $\Delta t$ időtartama alatt a Nap $\Delta\eta$ szöget emelkedik, a horizont pedig $\Delta t\omega\sin\varphi$ szöggel elfordul. Ebből következően 
- $\varepsilon=\arctg\left(\frac{\Delta\eta}{\Delta t\omega\sin\varphi}\right)=\arctg\left(\frac{\sqrt{\cos^2\varphi-\sin^2\theta\cos^2\psi}}{\sin\varphi}\right)=\arctg\left(\frac{\sqrt{\cos^2\varphi-\sin^2\phi}}{\sin\varphi}\right)=\arccos\left(\frac{\sin\varphi}{\cos\phi}\right).$ 
+ $\varepsilon=\arctan\left(\frac{\Delta\eta}{\Delta t\omega\sin\varphi}\right)=\arctan\left(\frac{\sqrt{\cos^2\varphi-\sin^2\theta\cos^2\psi}}{\sin\varphi}\right)=\arctan\left(\frac{\sqrt{\cos^2\varphi-\sin^2\phi}}{\sin\varphi}\right)=\arccos\left(\frac{\sin\varphi}{\cos\phi}\right).$ 
  Néhány egyszerű térgeometriai megfontolás segítségével a napkelte helye (iránya) is meghatározható. Ehhez tekintsük a vizsgált ponthoz tartozó horizontális síkot! 
 
  2. ábra 
 
  A 2/a ábrán (ami ugyanazt a nézetet mutatja, mint az 1/a ábra , ezért az ott szereplő mennyiségek itt nincsenek újra jelölve), $P$ a vizsgált pont pozíciója akkor, amikor a napfelkelte éppen a felénél tart, és $E$ az a pont, ahol a Föld forgástengelye a $P$ horizontális síkját döfi. Mivel az $OPE\sphericalangle$ szög derékszög, $\overline{OE}=f=R/\sin\varphi$. Az $E$ pontból a Nap felé irányuló egyenes benne fekszik a $P$ horizontális síkjában, és a $P$-n átmenő, a Nap irányára merőleges síkot $K$-ban döfi. $E$ és $K$ az ábra síkjában van, de $P$ $h=\sqrt{r^2-m^2}$ távolságra kiemelkedik abból. A 2/b ábra a Nap felől nézve mutatja a helyzetet, ezen az $E$ és $K$ pontok fedésben vannak. Definíció szerint $P$-től $E$ északra van, így az ábrán bejelölt (de nem az ábra síkjába illeszkedő) $KEP\sphericalangle=\vartheta$ szög a napfelkelte pozícióját adja a déli iránytól mérve. Mivel 
- $\overline{EP}=k=R\,\ctg\varphi\,,\qquad{\textrm{és}}\qquad\overline{EK}=l=f\cos\alpha=R\frac{\cos\psi\sin\theta}{\sin\varphi},$ 
+ $\overline{EP}=k=R\,\cot\varphi\,,\qquad{\textrm{és}}\qquad\overline{EK}=l=f\cos\alpha=R\frac{\cos\psi\sin\theta}{\sin\varphi},$ 
  $\vartheta=\arccos\left(\frac{l}{k}\right)=\arccos\left(\frac{\sin\theta\cos\psi}{\cos\varphi}\right)=\arccos\left(-\frac{\sin\phi}{\cos\varphi}\right).$ 
 
 **II. megoldás.**
@@ -96,10 +96,10 @@ provenance_note: "KöMaL official solution (Hungarian)"
 $$\begin{align*}
 \boldsymbol{r}_\mathrm{h}\boldsymbol{n} &=0,\\
 \cos\varphi\cos\tau_\mathrm{h}\cos\phi+\sin\varphi\sin\phi &=0,\\
-\cos\tau_\mathrm{h} &=-\tg\varphi\tg\phi.\tag{3}
+\cos\tau_\mathrm{h} &=-\tan\varphi\tan\phi.\tag{3}
 \end{align*}$$
  Ez a kifejezés nem mindig ad megoldást $\tau_\mathrm{h}$-ra, hiszen (a sarkok közelében) lehet, hogy a Nap nem is kel fel, vagy le sem nyugszik az adott napon. Amennyiben van megoldása, akkor 
- $t_{1,2}=\mp\tfrac{24^\mathrm{h}}{2\pi}\arccos(-\tg\varphi\tg\phi)$ 
+ $t_{1,2}=\mp\tfrac{24^\mathrm{h}}{2\pi}\arccos(-\tan\varphi\tan\phi)$ 
  adja meg a Nap keltének, illetve nyugtának időpontját a deleléshez viszonyítva. 
 
  Megjegyzés. A napkelte és napnyugta tényleges időpontját a delelés időpontja határozza meg. Ez utóbbi egyrészt függ a választott időzónától és az adott hely és az időzóna középvonala közötti szögkülönbségtől, másrészt a fentebb említett P. 3118. feladatban is vizsgált időegyenlettől (amely körülbelül $\pm15$ perc ingadozást okoz). Az időzónától való eltérés Budapesten (E19$^\circ$ és CET időzóna) $+4^\circ$, ami 16 perc ,,sietést'' okoz, míg Helsinkiben (E25$^\circ$ és EET időzóna) $-5^\circ$, ami 20 perc ,,késést'' eredményez. A két hatás miatt Budapesten a delelés időpontja a téli időszámítás idején $11^\mathrm{h}\,28'$ és $11^\mathrm{h}\,58'$ között, a nyári időszámítás idején pedig $12^\mathrm{h}\,28'$ és $12^\mathrm{h}\,50'$ között, míg Helsinkiben a téli időszámítás idején $12^\mathrm{h}\,03'$ és $12^\mathrm{h}\,34'$ között, a nyári időszámítás idején pedig $13^\mathrm{h}\,04$ és $13^\mathrm{h}\,24'$ között változik. 
@@ -122,7 +122,7 @@ $$\begin{align*}
 $$\begin{align*}
 \Delta\eta\approx\sin\Delta\eta&=\cos\varphi\cos(\tau_\mathrm{h}-\Delta\tau)\cos\phi+\sin\varphi\sin\phi=\\
 &=\cos\varphi\cos\phi(\cos\tau_\mathrm{h}+\sin\tau_\mathrm{h}\,\Delta\tau)+\sin\varphi\sin\phi=\\
-&=-\cos\varphi\cos\phi\tg\varphi\tg\phi+\cos\varphi\cos\phi\sin\tau_\mathrm{h}\,\Delta\tau+\sin\varphi\sin\phi=\\
+&=-\cos\varphi\cos\phi\tan\varphi\tan\phi+\cos\varphi\cos\phi\sin\tau_\mathrm{h}\,\Delta\tau+\sin\varphi\sin\phi=\\
 &=\cos\varphi\cos\phi\sin\tau_\mathrm{h}\,\Delta\tau.
 \end{align*}$$
  Ha $\tau_\mathrm{h}$-t (3)-ból kifejezzük és behelyettesítjük, majd a kifejezést tovább alakítjuk: 
@@ -219,7 +219,7 @@ $$\begin{align*}
  3. Az oldalakra vonatkozó gömbi koszinusztétel alapján: 
  $\cos(180^\circ-\vartheta)=\cos\varphi\cos(90^\circ-\phi)+\sin\varphi\sin(90^\circ-\phi)\cos(180^\circ-\tau_\mathrm{h}),$ 
  amiből az előbbi eredményt is felhasználva 
- $\cos\tau_\mathrm{h}=\frac{\cos\vartheta+\cos\varphi\sin\phi}{\sin\varphi\cos\phi}=\frac{-\frac{\sin\phi}{\cos\varphi}+\cos\varphi\sin\phi}{\sin\varphi\cos\phi}=-\tg\varphi\tg\phi,$ 
+ $\cos\tau_\mathrm{h}=\frac{\cos\vartheta+\cos\varphi\sin\phi}{\sin\varphi\cos\phi}=\frac{-\frac{\sin\phi}{\cos\varphi}+\cos\varphi\sin\phi}{\sin\varphi\cos\phi}=-\tan\varphi\tan\phi,$ 
  a (3) kifejezéssel megegyezően.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5579-sol-fig1.gif)

@@ -26,13 +26,13 @@ F_\mathrm{n}=ma_0\sin\alpha+mg\cos\alpha,
  $t=\sqrt{\frac{2s}{a}}\approx 1{,}86\,\mathrm{s}$ 
  idő alatt teszi meg. 
 
- Megjegyzés. a test csak akkor indul el felfelé a lejtőn, ha $a=a_0\cos\alpha-g\sin\alpha>0$, amiből az $a_0>g\tg\alpha$ feltétel adódik. $30^\circ$-os lejtő esetében ez $a_0>5{,}66\,\mathrm{m/s^2}$ feltételt jelent. 
+ Megjegyzés. a test csak akkor indul el felfelé a lejtőn, ha $a=a_0\cos\alpha-g\sin\alpha>0$, amiből az $a_0>g\tan\alpha$ feltétel adódik. $30^\circ$-os lejtő esetében ez $a_0>5{,}66\,\mathrm{m/s^2}$ feltételt jelent. 
 
 **II. megoldás.**
  A lejtővel együtt gyorsuló vonatkoztatási rendszerben minden testre hat az $mg$ nehézségi erő és az $ma_0$ nagyságú tehetetlenségi erő is, így a testek azt ,,érzik'' mintha $\boldsymbol{g}'=\boldsymbol{g}+\boldsymbol{a}_0$ nehézségi gyorsulás lenne. A $\boldsymbol{g}'$ nagysága: 
  $g'=\sqrt{g^2+a_0^2}\approx 12{,}05\,\mathrm{m/s^2},$ 
  iránya pedig 
- $\gamma=\arctg\frac{a_0}{g}\approx 35{,}5^\circ$ 
+ $\gamma=\arctan\frac{a_0}{g}\approx 35{,}5^\circ$ 
  szöget zár be a függőlegessel ( 2/a ábra ). Ebben az erőtérben a test úgy mozog, mintha egy $\beta=\gamma-\alpha\approx 5{,}5^\circ$ hajlásszögű lejtőn csúszna le $g'$ nehézségi gyorsulás mellett ( 2/b ábra ). 
 
  2. ábra 
@@ -56,7 +56,7 @@ ma_y=F_\mathrm{n}\cos\alpha-mg\tag{2},
  Másrészt az ábráról leolvasható, hogy a test és a lejtő elmozdulásvektorának különbsége egyenlő a lejtő aljától a tetejéig mutató vektorral: 
  $\boldsymbol{s}_\textrm{test}-\boldsymbol{s}_\textrm{lejtő}=\boldsymbol{s}.$ 
  A test és a lejtő elmozdulásvektora is arányos a gyorsulásvektorukkal (hiszen ugyanannyi ideig és egyenes vonalban, zérus kezdősebességről egyenletesen gyorsulva mozog mindkettő), így ebből a gyorsulásokra adódó feltétel: 
- $(3)$ $\frac{a_y}{a_0-a_x}=\tg\alpha.$ 
+ $(3)$ $\frac{a_y}{a_0-a_x}=\tan\alpha.$ 
  Az (1), (2) és (3) egyenletekből álló egyenletrendszert megoldva: 
  $a_y=a_0\sin\alpha\cos\alpha-g\sin^2\alpha\approx 0{,}58\,\mathrm{m/s^2}.$ 
  A testnek $h=1\,\mathrm{m}$ magasra kell feljutnia, ehhez 

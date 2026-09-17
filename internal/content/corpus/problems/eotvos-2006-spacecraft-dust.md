@@ -11,9 +11,9 @@ subtopic: [momentum-conservation, impulse-momentum, mass-variation, relative-mot
 format: open-ended
 math_tools: [calculus-integral, calculus-differential, algebra]
 core_ideas: [kalda-mechanics-idea72]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2006, Problem 2. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. Figure referenced in text (labeled '2. ábra' in original) but could not be extracted from PDF."
+provenance_note: "Eötvös Competition 2006, Problem 2. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. The problem statement contains no figure; diagrams in the source document belong to the official solution."
 verification_status: pending
 has_solution: true
 solution_language: hu
@@ -27,4 +27,3 @@ Egy bolygóközi pályán mozgó ứrszonda, pályájának bizonyos részén, eg
 Hány százalékkal nốtt meg a porfelhốn való áthaladás ideje ahhoz képest, amennyi idő alatt a porfelhő fékező hatása nélkül tette volna meg a szonda ugyanezt az utat?
 
 (A porfelhốt állandó súrúségứ, határozott szélű objektumnak tekinthetjük.)
-

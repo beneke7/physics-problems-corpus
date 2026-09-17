@@ -20,7 +20,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $F=\frac{1}{\cos\alpha+2\sin\alpha}mg$ 
  kifejezés adódik. Ennek legkisebb értéke a nevező maximumához tartozik. Belátható (egy 1 és 2 oldalélű, $\alpha$ szögben megbillentett téglalap legmagasabb pontjának megkeresésével, vagy trigonometrikus átalakításokkal, esetleg differenciálszámítással), hogy 
  $\cos\alpha+2\sin\alpha\le \sqrt{5},$ 
- és a szélsőérték $\tg\alpha=2$, vagyis $\alpha\approx63^\circ$ szöghöz tartozik. 
+ és a szélsőérték $\tan\alpha=2$, vagyis $\alpha\approx63^\circ$ szöghöz tartozik. 
  A jégkockát tehát a súlyának $1/\sqrt{5}$ részével, annak kb. 45%-ával lehet felborítani.
 
 ![solution figure](../../raw_html/komal_figures/komal-P4964-sol-fig1.gif)

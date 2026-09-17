@@ -53,11 +53,11 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Megjegyzés. Elképzelhető lenne, hogy a középső korong a második ütközés után még egyszer ütközik a legnagyobb méretű koronggal. Ez azonban a jelen esetben nem következik be, hiszen a $\boldsymbol{w}-\boldsymbol{v}$ relatív sebességvektor és a korongok középpontját összekötő $\overrightarrow{PQ}=(\sqrt{24};-1)$ vektor skalárszorzata pozitív, vagyis ezen két korong középpontjai a második ütközés után távolodnak egymástól. 
 
  A legnagyobb korong az eredeti mozgásirányához képes 
- $\alpha_3=\arctg\frac{v_y}{v_x}=16{,}3^\circ$ 
+ $\alpha_3=\arctan\frac{v_y}{v_x}=16{,}3^\circ$ 
  szögben ,,balra'' (az óramutató járásával ellentétesen) térül el, a középső korong elmozdulásának iránya 
- $\alpha_2=\arctg\frac{\vert w_y\vert}{w_x}=6{,}3^\circ,$ 
+ $\alpha_2=\arctan\frac{\vert w_y\vert}{w_x}=6{,}3^\circ,$ 
  míg a legkisebb korong 
- $\alpha_2=\arctg\frac{\vert z_y\vert}{z_x}=-19{,}5^\circ$ 
+ $\alpha_2=\arctan\frac{\vert z_y\vert}{z_x}=-19{,}5^\circ$ 
  szögben ,,jobbra'' (az óramutató járásával megegyező irányba) térül el. 
  Az asztallapon csúszó korongok az asztallal való súrlódásuk miatt ugyanolyan ütemben ($a=-\mu g$ ,,gyorsulással'') egyenletesen lassulva mozognak, a megállásukig megtett útjuk a kezdősebességük négyzetével arányos. Mivel 
  $v^2:w^2:z^2=0{,}18:0{,}68:4{,}62\approx 5\,\mathrm{cm}:19\,\mathrm{cm}:128\,\mathrm{cm},$ 

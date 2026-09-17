@@ -16,7 +16,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Az $A$ és a $B$ pont éppen sem nem közeledik, sem nem távolodik egymástól, tehát a sebességük $AB$-vel párhuzamos komponense egyenlő: 
  $v_1\cos\alpha=v_2\sin\alpha,$ 
  azaz 
- $\tg\alpha=\frac{v_1}{v_2}.$ 
+ $\tan\alpha=\frac{v_1}{v_2}.$ 
  Ennek megfelelően 
  $d_1=d_0\cos\alpha=d_0\frac{v_2}{\sqrt{v_1^2+v_2^2}}\qquad\textrm{és}\qquad d_2=d_0\sin\alpha=d_0\frac{v_1}{\sqrt{v_1^2+v_2^2}}.$ 
  Természetesen az is lehetséges, hogy az eddigi feltételezésünkkel szemben a $v_1$ sebességű motor hagyta már el a kereszteződést, és a $v_2$ sebességű az, amelyik csak közeledik hozzá, ahogy azt az 1. ábra b) része mutatja, de a kérdéses távolságok ebben az esetben is ugyanakkorák. 

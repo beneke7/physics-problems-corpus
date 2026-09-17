@@ -11,9 +11,9 @@ subtopic: [electromagnetic-induction, faraday, superconductivity, magnetic-dipol
 format: open-ended
 math_tools: [calculus-differential, algebra, trigonometry]
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "English translation of Eötvös Competition 2006, Problem 3. Translated from Hungarian source statement (cache/phoxiv/eotvos/2006_S.pdf)."
+provenance_note: "English translation of Eötvös Competition 2006, Problem 3. Translated from Hungarian source statement (cache/phoxiv/eotvos/2006_S.pdf). The problem statement contains no figure; diagrams in the source document belong to the official solution."
 verification_status: pending
 ---
 
@@ -24,4 +24,3 @@ A short-circuited flat square coil is made of superconducting material (negligib
 Initially, the coil stands vertically in a labile equilibrium position in the Earth's gravitational field. Then we apply a uniform magnetic field such that the magnitude of the magnetic induction vector $B$ acting on the coil is constant and its direction is vertical. In this initial state, no current flows in the coil.
 
 Next, we give the top end of the coil a small push with velocity $v_0$. Will the coil rotate completely around, or if not, within what range will it oscillate?
-

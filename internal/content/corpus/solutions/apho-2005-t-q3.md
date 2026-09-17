@@ -142,7 +142,7 @@ By substituting Equations (14), (16), (17), and (18) into Equation (15) we obtai
 (19)
 t!
 !
-t v t! "###!####$
+t v t! "###!####\$
 %&
 %
 '

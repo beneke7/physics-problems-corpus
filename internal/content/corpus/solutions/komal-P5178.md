@@ -15,7 +15,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  továbbá 
  $(2)$ $\frac{v_y}{v_x}=\rm tg\,\alpha=\frac{1}{\sqrt{3}}.$ 
  Fejezzük ki $v_x$-et a (2) összefüggésből $v_y$ segítségével, és helyettesítsük azt (1)-be, majd számítsuk ki (ismertnek tekintett $E$ mellett) a lövedék függőleges irányú kezdősebességét: 
- $v_x=\frac{v_y}{\tg\alpha}=\sqrt{3}v_y,$ 
+ $v_x=\frac{v_y}{\tan\alpha}=\sqrt{3}v_y,$ 
  $v_y=\sqrt{\frac{E}{2m}}.$ 
  A lövedék emelkedési magassága (a ferde hajítás összefüggései szerint): 
  $h_1=\frac{v_y^2}{2g}=\frac{E}{4mg}.$ 
@@ -25,7 +25,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $(4)$ $\frac{v_y}{2 v_x}=\rm tg\,\alpha=\frac{1}{\sqrt{3}}.$ 
  (Felhasználtuk, hogy a visszalökődő kiskocsihoz viszonyítva a lövedék vízszintes irányú sebessége $v_x+u=2v_x$.) 
  Fejezzük ki most is $v_x$-et a (4) összefüggésből $v_y$ segítségével, és helyettesítsük azt (3)-ba, majd számítsuk ki (ismertnek tekintett $E$ mellett) a lövedék függőleges irányú kezdősebességét: 
- $v_x=\frac{v_y}{2\tg\alpha}=\frac{\sqrt{3}}{2}v_y,$ 
+ $v_x=\frac{v_y}{2\tan\alpha}=\frac{\sqrt{3}}{2}v_y,$ 
  $v_y=\sqrt{\frac{4E}{5m}}.$ 
  A lövedék emelkedési magassága most 
  $h_2=\frac{2E}{5mg},$ 

@@ -18,7 +18,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  illetve 
  $(3)$ $mg-N\cos\alpha=ma_2.$ 
  A téglatest mindvégig a lejtőn marad, ennek feltétele: 
- $(4)$ $a_2=\left(a_1+A\right)\tg\alpha.$ 
+ $(4)$ $a_2=\left(a_1+A\right)\tan\alpha.$ 
  Az (1)-(4) egyenletrendszer megoldása: 
  $A=\frac{m\sin\alpha\cos\alpha}{m\sin^2\alpha+M}\,g=1{,}89~
 \frac{\rm m}{s^2},$ 

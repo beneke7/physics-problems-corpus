@@ -18,9 +18,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A függőlegesen lelógó rész súlya $\gamma X$, és ezt a kötéldarabot függőlegesen felfelé a kötél többi része $F_3$ erővel húzza. Az erők egyensúlyának feltétele: 
  $(2)$ $F_3=\gamma X.$ 
  Mivel $H\ll L$, a két szög és a kötél felezőpontja majdnem egy egyenesbe esik, így a rájuk illeszkedő görbe jó közelítéssel parabola . A kötél érintőjének meredeksége a szög közvetlen közelében 
- $\tg\alpha=\frac{F_2}{F_1},$ 
+ $\tan\alpha=\frac{F_2}{F_1},$ 
  ami a parabola ismert tulajdonsága szerint 
- $\tg\alpha=\frac{4H}{L}.$ 
+ $\tan\alpha=\frac{4H}{L}.$ 
  Fennáll tehát, hogy 
  $(3)$ $\frac{F_2}{F_1}=\frac{4H}{L}\ll 1,$ 
  és így 

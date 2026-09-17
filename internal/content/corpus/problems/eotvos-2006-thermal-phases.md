@@ -11,9 +11,9 @@ subtopic: [heat-transfer, phase-transition, thermal-equilibrium, thermal-conduct
 format: open-ended
 math_tools: [calculus, algebra]
 core_ideas: [kalda-thermo-idea18]
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "Eötvös Competition 2006, Problem 1. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. Figure referenced in text (labeled '1. ábra' in original) but could not be extracted from PDF."
+provenance_note: "Eötvös Competition 2006, Problem 1. Mathpix OCR of the combined official document (cache/phoxiv/eotvos/2006_S.pdf) containing problem statements and solutions. The problem statement contains no figure; diagrams in the source document belong to the official solution."
 verification_status: pending
 has_solution: true
 solution_language: hu
@@ -29,4 +29,3 @@ Fizika szakkörön egy példatárból az alábbi feladat kerül elő:
 A nebulók különbözö könyvekben kutakodnak. Tóni szerint a jég úszik a vízen, a folyékony víznek tehát alul kell lennie. Réka szerint középen kell lennie a víznek, hiszen forró gőzzel érintkezik. Bea, miközben adatokat keres, felfedezi, hogy a gázok hốvezetóképessége néhány táblázatban - feltehető̃en elírás folytán - nagyobbnak van feltüntetve a víz vagy a jég hốvezetố képességénél, más táblázatok és könyvek szerint azonban a gázok hốvezetố képessége sokszorosan kisebb. (Bea szerint is így logikus.)
 
 **Segítsünk nekik megtalálni a helyes választ a feladat kérdésére!**
-

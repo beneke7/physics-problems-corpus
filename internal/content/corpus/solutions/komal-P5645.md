@@ -25,5 +25,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $a_\mathrm{t}=\frac{v_\mathrm{max}^2-v_0^2}{2\pi r}\approx 0{,}5\,\mathrm{\frac{m}{s^2}}.$ 
 
  c) Jó közelítéssel feltételezhetjük, hogy a motoros bedőlése egyensúlyi állapotokon keresztül történik. Így a motor kerekének talajjal érintkező pontjára (a motorral együtt mozgó rendszerben) a nehézségi erő forgatónyomatéka egyensúlyt tart a centrifugális erő nyomatékával. Ennek a két erőnek az eredője átmegy a talajjal érintkező ponton, amiből már következik, hogy 
- ${\varphi}=\arctg\left(\frac{a_\mathrm{cf}}{g}\right)=\arctg\left(\frac{\frac{v^2}{r}}{g}\right)=\arctg\left(\frac{(v_0+a_\mathrm{t}t)^2}{rg}\right).$ 
+ ${\varphi}=\arctan\left(\frac{a_\mathrm{cf}}{g}\right)=\arctan\left(\frac{\frac{v^2}{r}}{g}\right)=\arctan\left(\frac{(v_0+a_\mathrm{t}t)^2}{rg}\right).$ 
  Behelyettesítéssel kapjuk, hogy a motoros kezdeti bedőlése $14^\circ$-os, míg a félkör végén a maximális bedőlése $30^\circ$-os. (Kiszámíthatjuk azt is, hogy a motoros a félkört 10 s alatt teszi meg, illetve észrevehetjük, hogy a bedőlés szöge nem függ attól, hogy milyen magasan van a motor-motoros rendszer tömegközéppontja, továbbá a számításaink során nem volt szükségünk a rendszer tömegének ismeretére.)

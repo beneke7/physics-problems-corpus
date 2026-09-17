@@ -9,8 +9,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- Belátjuk, hogy a folyadék felszíne (amikor a folyadék a konténerhez képest már nem mozog) egy olyan sík, amelyik $\alpha=\arctg(a_0/g)$ szöget zár be a vízszintessel. A folyadék felszínének közelében a folyadék egy kicsiny darabkájára a környező folyadék csak a felszínre merőleges $F$ erőt képes kifejteni. (Ha nem így lenne, akkor a kérdéses anyagdarabka a felület érintősíkjában elmozdulna a folyadék többi részéhet képest.) Az 1. ábráról leolvasható, hogy egy $m$ tömegű ,,folyadékdarabka'' mozgásegyenle a felület esésvonalának irányában 
- $mg\sin\alpha=ma_0\cos\alpha,\qquad \text{tehát}\qquad \tg\alpha=\frac{a_0}{g}.$ 
+ Belátjuk, hogy a folyadék felszíne (amikor a folyadék a konténerhez képest már nem mozog) egy olyan sík, amelyik $\alpha=\arctan(a_0/g)$ szöget zár be a vízszintessel. A folyadék felszínének közelében a folyadék egy kicsiny darabkájára a környező folyadék csak a felszínre merőleges $F$ erőt képes kifejteni. (Ha nem így lenne, akkor a kérdéses anyagdarabka a felület érintősíkjában elmozdulna a folyadék többi részéhet képest.) Az 1. ábráról leolvasható, hogy egy $m$ tömegű ,,folyadékdarabka'' mozgásegyenle a felület esésvonalának irányában 
+ $mg\sin\alpha=ma_0\cos\alpha,\qquad \text{tehát}\qquad \tan\alpha=\frac{a_0}{g}.$ 
  1. ábra 
  A gyorsulás következtében a konténer elején a folyadék magassága 
  $h_1=\frac{h}{2}-\frac{\ell}{2}\,\frac{a_0}{g}$ 

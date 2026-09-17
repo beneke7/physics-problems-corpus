@@ -22,5 +22,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
  vagyis 
  $H_\text{min}=\frac{L}{\sqrt{1+\frac{k}{v_1}}}=\frac{2000~\rm m}{\sqrt{6}}\approx 816~\rm m.$ 
  $c)$ Az optimális menetidejű mozgás siklási szöge: 
- $\alpha=\arctg\frac{H_\text{min}}{L}=22{,}2^\circ.$ 
+ $\alpha=\arctan\frac{H_\text{min}}{L}=22{,}2^\circ.$ 
  Kiszámíthatjuk még, hogy a vándorsólyom a leírt mozgás során 6,8 percig emelkedik, a siklásának ideje 9,5 perc, a siklás sebessége pedig kb. 3,8 m/s.

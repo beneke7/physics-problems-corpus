@@ -21,4 +21,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $a)$ A lövedék két darabja ugyanannyi idő múlva esik vissza a talajra, mint amennyi idő eltelt a kilövés és a szétrobbanás között, és a távolságuk a talajon 
  $d=v_1t= 1324~\rm m.$ 
  $b)$ Az $m_2$ tömegű darab szabadon esik és $v_y$ nagyságú sebességgel csapódik a talajba. 
- Az $m_1$ tömegű rész $\boldsymbol u$ becsapódási sebességének függőleges komponense $u_y=-v_y,$ a vízszintes komponens $u_x=v_1$, nagysága kb. 173 m/s és $\beta=\arctg \dfrac{u_y}{u_x}=-30^\circ$-os szöget zár be a vízszintessel.
+ Az $m_1$ tömegű rész $\boldsymbol u$ becsapódási sebességének függőleges komponense $u_y=-v_y,$ a vízszintes komponens $u_x=v_1$, nagysága kb. 173 m/s és $\beta=\arctan \dfrac{u_y}{u_x}=-30^\circ$-os szöget zár be a vízszintessel.

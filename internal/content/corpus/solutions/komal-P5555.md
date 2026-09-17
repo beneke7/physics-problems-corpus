@@ -42,9 +42,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $d=\frac{u^2}{v^2}\cdot \text{5 cm}=26{,}5\,\mathrm{cm}$ 
  út megtétele után áll meg. 
  A nagy korong az eredeti mozgásirányához képes 
- $\alpha=\arctg\frac{v_y}{v_x}=11{,}1^\circ$ 
+ $\alpha=\arctan\frac{v_y}{v_x}=11{,}1^\circ$ 
  szögben ,,balra'' térül el, a kis korong elmozdulásának iránya pedig ,,jobbra'' 
- $\beta=\arctg\frac{\vert u_y\vert}{u_x}=\varphi=19{,}5^\circ$ 
+ $\beta=\arctan\frac{\vert u_y\vert}{u_x}=\varphi=19{,}5^\circ$ 
  a nagyobb korong kezdeti mozgásirányához viszonyítva.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5555-sol-fig1.png)

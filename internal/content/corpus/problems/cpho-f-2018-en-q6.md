@@ -42,8 +42,7 @@ Figure 6.2
 ![](cpho-f-2018-en-q6-fig03.png)
 Figure 6.3: A spherical NIM.
 
-[^0]\begin{itemize}
-\item[(3)] ( 12 points). Suppose that medium 1 is air, i.e. $n_{1} \approx 1$, and $n_{2}$ can either take positive or negative values. We place a thin convex lens of focal length $f=1.5 R$ in front of the spherical interface such that its optical axis passes through $C$, one focal point is inside the NIM, and the distance between $O$ and the centre of the lens $O^{\prime}$ is $d$. A beam of light rays all parallel to the axis is incident upon the lens. For each set of parameters in Table 6.1, obtain the distance between $O$ and the point at which all light rays converge. Also draw a figure illustrating the path of the light rays in case 4.
+(3) (12 points). Suppose that medium 1 is air, i.e. $n_{1} \approx 1$, and $n_{2}$ can either take positive or negative values. We place a thin convex lens of focal length $f=1.5 R$ in front of the spherical interface such that its optical axis passes through $C$, one focal point is inside the NIM, and the distance between $O$ and the centre of the lens $O^{\prime}$ is $d$. A beam of light rays all parallel to the axis is incident upon the lens. For each set of parameters in Table 6.1, obtain the distance between $O$ and the point at which all light rays converge. Also draw a figure illustrating the path of the light rays in case 4.
 
 | Case | $n_{2}$ | $d$ |
 | :--- | :--- | :--- |

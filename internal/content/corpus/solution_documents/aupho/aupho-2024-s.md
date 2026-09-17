@@ -41,14 +41,14 @@ Section A: Digging Disaster (18 marks)
  Total                                                                          2.0
 
     6. Solution: 46 seconds. (2 marks)
-    7. Solution: Tradie’s wage per second is $100/60/60 = $0.027 per second. For 45 seconds this is
-        $1.28. Electricity cost = $0.44/kWh ×13900/0.1J/3600000J/kWh=$0.017. This is 1.3% of the
+    7. Solution: Tradie’s wage per second is AUD 100/60/60 = AUD 0.027 per second. For 45 seconds this is
+        AUD 1.28. Electricity cost = AUD 0.44/kWh ×13900/0.1J/3600000J/kWh=AUD 0.017. This is 1.3% of the
         wage. However it is not possible to call out a tradie for just 45 seconds, they would need to
         drive to the location (potentially a call out fee), get the equipment from the ute and ensure
         safety measures are in place. So the electricity cost would be negligible compared to the cost
         of the tradie.
- Cost for Tradie - $1.28                                                           +1.0
- Electricity Cost - $0.017                                                         +1.0
+ Cost for Tradie - AUD 1.28                                                           +1.0
+ Electricity Cost - AUD 0.017                                                         +1.0
  Realising that there are other much more important factors when                   +1.0
  determining the cost and comparison o the two amounts.
 

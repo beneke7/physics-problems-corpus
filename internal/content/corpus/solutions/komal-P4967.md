@@ -10,7 +10,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
 **Megoldás.**
  $a)$ A $q$ töltésű ingatestre $E$ nagyságú elektromos térben $qE$ nagyságú, kezdetben vízszintes irányű elektrosztatikus erő hat. Ez akkor téríti ki $\alpha$ szögben az $mg$ súlyú ingát, ha 
- $\frac{qE}{mg}=\tg\alpha=\frac{1}{\sqrt{3}}.$ 
+ $\frac{qE}{mg}=\tan\alpha=\frac{1}{\sqrt{3}}.$ 
  A megdöntött kondenzátor esetében az erőegyensúly feltétele: 
  $mg\sin\beta=qE,$ 
  vagyis 

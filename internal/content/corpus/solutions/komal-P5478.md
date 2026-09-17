@@ -19,7 +19,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  1. ábra 
 
- A domború oldal felől a tengellyel párhuzamosan érkező sugarak útja a lencsében független a sík oldal felőli határoló közegtől, csak a kilépés szöge függ attól ( 1. ábra ). A vákuumra (levegőre) vonatkoztatott törésmutatókat értelemszerűen $n_{\rm ü}$-vel és $n_{\rm v}$-vel jelölve, és kihasználva, hogy az üveg vízre vonatkoztatott törésmutatója $n_{\rm üveg}/n_{\rm víz}$, a 2. ábrán jelölt szögekre (amelyek elég kicsinyek ahhoz, hogy az $x\approx \sin x\approx \tg x$ közelítést alkalmazzuk), az 
+ A domború oldal felől a tengellyel párhuzamosan érkező sugarak útja a lencsében független a sík oldal felőli határoló közegtől, csak a kilépés szöge függ attól ( 1. ábra ). A vákuumra (levegőre) vonatkoztatott törésmutatókat értelemszerűen $n_{\rm ü}$-vel és $n_{\rm v}$-vel jelölve, és kihasználva, hogy az üveg vízre vonatkoztatott törésmutatója $n_{\rm üveg}/n_{\rm víz}$, a 2. ábrán jelölt szögekre (amelyek elég kicsinyek ahhoz, hogy az $x\approx \sin x\approx \tan x$ közelítést alkalmazzuk), az 
  $\frac{\alpha}{\gamma}=n_{\rm üveg},\qquad\textrm{illetve}\qquad\frac{\beta}{\gamma}=\frac{n_{\rm üveg}}{n_{\rm víz}}
  $ 
  összefüggéseket írhatjuk fel. 

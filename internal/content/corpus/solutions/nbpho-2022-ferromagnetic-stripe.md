@@ -68,7 +68,6 @@ Up to the third data point in the range $8 \mathrm{~cm} \leq x<35 \mathrm{~cm}$,
 Up to the third data point in the range $35 \mathrm{~cm} \leq x<67 \mathrm{~cm}$, for each one $\quad \mathbf{0 . 3 ~ p t s}$. Subtract 0.1 pts from the score of each data point if the offset voltage and the Earth's field are not subtracted.
 
 If no units, but the units can be guessed: subtract 0.1 for missing voltage units, 0.1 for missing distance units, and 0.1 for missing magnetic field units.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p4.png)
 
 For correct plotting: 0.5 pts.
 Missing units on graph: subtract 0.1 pts for each. Graph fills less than one third of the graph area: subtract 0.1 pts.

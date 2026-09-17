@@ -416,7 +416,7 @@ pendulum and perform the measurements to minimize these sources of error?
 procedure and show your data. Estimate as many of the sources of experimental error identified
 in part (a) as you can, and using them, give a value of g with a reasonable uncertainty.
 13Kevin Zhou Physics Olympiad Handouts
-(c) If you had $1,000 and a week to do plenty of measurements, how would you go about it?
+(c) If you had 1,000 dollars and a week to do plenty of measurements, how would you go about it?
 How precise a result do you think you could get? What would be the dominant sources of
 uncertainty remaining?
 [2] Problem 45. Blackbody radiation is an electromagnetic phenomenon, so the radiation intensity

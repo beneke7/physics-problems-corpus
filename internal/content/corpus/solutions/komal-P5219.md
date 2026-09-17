@@ -13,7 +13,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ahogy közeledünk a kúthoz, $t$ idő elteltével az oszloptól mért távolságunk (SI egységekben) $100-t$, A gém közepétől (az oszlop tetejétől) mért távolságunk $t$ idővel a rétre lépésünk után 
  $d(t)=\sqrt{(100-t)^2+(4-1{,}65)^2}.$ 
  A gém teljes látószögét $2\varphi(t)$-vel jelölve felírhatjuk, hogy 
- $(1)$ $\tg\varphi(t)=\frac{ \ell }{d(t)}=\frac{4{,}0}{\sqrt{(100-t)^2+ 5{,}52}}.$ 
+ $(1)$ $\tan\varphi(t)=\frac{ \ell }{d(t)}=\frac{4{,}0}{\sqrt{(100-t)^2+ 5{,}52}}.$ 
  Mindaddig, amíg nem érünk a kút közvetlen közelébe (mondjuk a $0\le t \le 80~{\rm s}$ időintervallumban) a látószög így számolható: 
  $2\varphi\approx\frac{8}{100-t}~\text{radián}=\frac{4{,}6^\circ}{1-0{,}01\,t},$ 
  de $t\approx 10$ s-nál már a pontosabb (1) összefüggést kell alkalmaznunk. A gém legnagyobb látószöge (amikor éppen az oszlopnál vagyunk): $2\varphi_\text{max}\approx120^\circ.$ 

@@ -9,20 +9,20 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **I. megoldás.**
- A megcsúszás határán a nyomóerő és a súrlódási erő eredője a felület normálisával $\varepsilon$ szöget zár be, ez a megcsúszás határszöge. Mivel a súrlódási erő nagysága ekkor éppen a nyomóerő nagyságának $\mu$-szöröse, és a két erő merőleges egymásra, $\tg\varepsilon=\mu$. 
+ A megcsúszás határán a nyomóerő és a súrlódási erő eredője a felület normálisával $\varepsilon$ szöget zár be, ez a megcsúszás határszöge. Mivel a súrlódási erő nagysága ekkor éppen a nyomóerő nagyságának $\mu$-szöröse, és a két erő merőleges egymásra, $\tan\varepsilon=\mu$. 
 
  a) A könyvre a nehézségi erő és a rajztábla felülete által kifejtett kényszererő hat ( 1. ábra ). A két erő csak akkor lehet egyensúlyban, ha irányuk (és nagyságuk) megegyezik. Ez alapján: 
- $\alpha=\varepsilon=\arctg\mu.$ 
+ $\alpha=\varepsilon=\arctan\mu.$ 
 
  1. ábra 
 
  b) A könyvre most is csak a nehézségi erő és a kényszererő hat (amelynek a nagysága természetesen nem egyezik meg az a) részben szereplővel: akkorának kell lennie, hogy a lejtőre (rajztáblára) merőleges komponense kiegyenlítse a nehézségi erő lejtőre merőleges komponensét). Ezek eredőjének a felülettel párhuzamosnak kell lennie: ez az eredő erő hozza létre a könyv keresett lejtőirányú gyorsulását. A 2. ábrán berajzoltuk a könyvre ható erőket és ezek eredőjét is: ez utóbbi végpontját a kényszererő hatásvonala metszi ki a lejtővel párhuzamos egyenesből. Bejelöltünk szögeket, és megrajzoltunk néhány egyenest: látható, hogy az alul keletkező kis háromszög egyenlőszárú, és így a vízszintes szára is $ma$ hosszúságú. Ezután már az ábráról leolvashatjuk: 
- $ma=mg\tg\alpha\qquad\Rightarrow\qquad a=g\tg\alpha=\mu g.$ 
+ $ma=mg\tan\alpha\qquad\Rightarrow\qquad a=g\tan\alpha=\mu g.$ 
 
  2. ábra 
 
  c) A mozgást vizsgáljuk a lejtővel együtt gyorsuló vonatkoztatási rendszerben. Legyen a lejtő minimális gyorsulása $a_0$. Ekkor egy vízszintes, $ma_0$ nagyságú tehetetlenségi erő hatását is figyelembe kell venni (amely a lejtő gyorsulásával ellentétes irányba mutat). Az erőnek akkorának kell lennie, hogy kiegyenlítse a nehézségi erő és a kényszererő eredőjét. A legkisebb ilyen gyorsulást keressük, ezért a kényszererő most is az eddigi, ,,éppen nem csúszik meg lefele'' határhelyzetben van. A 3. ábrán láthatjuk, hogy a kényszererő hatásvonala kimetszi az $ma_0$ erő végpontját (és egyben meghatározza $K_3$ nagyságát is, de arra a feladat megoldásához nincs szükségünk). Az ábráról közvetlenül leolvasható a lejtő keresett legkisebb gyorsulása: 
- $ma_0=mg\tg\alpha\qquad\Rightarrow\qquad a_0=g\tg\alpha=\mu g.$ 
+ $ma_0=mg\tan\alpha\qquad\Rightarrow\qquad a_0=g\tan\alpha=\mu g.$ 
 
  3. ábra 
 
@@ -36,7 +36,7 @@ mg\sin\alpha=S,\\
 S=\mu N.
 \end{gather*}$$
  $S$ kifejezését a harmadik egyenletből a másodikba behelyettesítve, majd az első két egyenletet egymással elosztva: 
- $\tg\alpha=\mu\qquad\Rightarrow\qquad\alpha=\arctg\mu.$ 
+ $\tan\alpha=\mu\qquad\Rightarrow\qquad\alpha=\arctan\mu.$ 
 
  b) A könyvre ismét három erő hat, ezek hatására a lejtővel párhuzamosan gyorsulni fog. Felírva a lejtőre merőleges komponensek egyensúlyát, a lejtővel párhuzamos mozgásegyenletet és a csúszási súrlódás összefüggését: 
 $$\begin{gather*}
@@ -46,10 +46,10 @@ S=\mu N.
 \end{gather*}$$
  A harmadik egyenletből $S$, majd az első egyenletből $N$ kifejezését beírva a második egyenletbe, és rendezve: 
  $a=(\sin 2\alpha-\mu\cos 2\alpha)g.$ 
- A trigonometrikus kifejezések átalakítása, ahol felhasználjuk a $\tg\alpha=\mu$ összefüggést is: 
+ A trigonometrikus kifejezések átalakítása, ahol felhasználjuk a $\tan\alpha=\mu$ összefüggést is: 
 $$\begin{gather*}
-\sin 2\alpha=2\sin\alpha\cos\alpha=2\,\sqrt{\frac{\tg^2\alpha}{1+\tg^2\alpha}}\,\sqrt{\frac{1}{1+\tg^2\alpha}}=\frac{2\tg\alpha}{1+\tg^2\alpha}=\frac{2\mu}{1+\mu^2},\\
-\cos 2\alpha=\cos^2\alpha-\sin^2\alpha=\frac{1}{1+\tg^2\alpha}-\frac{\tg^2\alpha}{1+\tg^2\alpha}=\frac{1-\tg^2\alpha}{1+\tg^2\alpha}=\frac{1-\mu^2}{1+\mu^2}.
+\sin 2\alpha=2\sin\alpha\cos\alpha=2\,\sqrt{\frac{\tan^2\alpha}{1+\tan^2\alpha}}\,\sqrt{\frac{1}{1+\tan^2\alpha}}=\frac{2\tan\alpha}{1+\tan^2\alpha}=\frac{2\mu}{1+\mu^2},\\
+\cos 2\alpha=\cos^2\alpha-\sin^2\alpha=\frac{1}{1+\tan^2\alpha}-\frac{\tan^2\alpha}{1+\tan^2\alpha}=\frac{1-\tan^2\alpha}{1+\tan^2\alpha}=\frac{1-\mu^2}{1+\mu^2}.
 \end{gather*}$$
  Ezeket behelyettesítve a keresett gyorsulás: 
  $a=\left(\frac{2\mu}{1+\mu^2}-\mu\frac{1-\mu^2}{1+\mu^2}\right)g=\mu g.$ 

@@ -12,7 +12,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A forró talaj közvetlen közelében a levegő erősen felmelegszik, sűrűsége egy kicsit lecsökken, és emiatt az $n_1$ törésmutatója is kisebb lesz, mint a fényképezőgép magasságában érvényes $n_2$ törésmutató. A csillogó ,,víztócsa'' széle a teljes visszaverődés határszögének felel meg: 
  $\sin\alpha=\frac{n_1}{n_2}.$ 
  A megadott számadatok szerint 
- $\tg\alpha=\frac{180~\rm m}{1{,}8~\rm m}, \qquad \alpha=89{,}43^\circ.$ 
+ $\tan\alpha=\frac{180~\rm m}{1{,}8~\rm m}, \qquad \alpha=89{,}43^\circ.$ 
  Ezek szerint 
  $\frac{n_1}{n_2}=0{,}99995, \quad \text{vagyis} \quad n_1=0{,}99995\, n_2.$ 
  A törésmutatók különbsége 

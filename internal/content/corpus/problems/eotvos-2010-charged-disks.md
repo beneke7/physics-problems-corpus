@@ -11,8 +11,8 @@ format: open-ended
 math_tools: [geometry-trigonometry, algebra, method-of-images]
 core_ideas: [kalda-circuits-idea12]
 has_figure: true
-figure_files: []
-provenance_note: "Eötvös Competition 2010, Problem 3. Extracted from combined official document cache/phoxiv/eotvos/2010_S.pdf (statement-only extraction, solutions and commentary excluded). Note: Figures referenced but not yet extracted from source PDF."
+figure_files: [eotvos-2010-charged-disks-fig1.png]
+provenance_note: "Eötvös Competition 2010, Problem 3. Extracted from combined official document cache/phoxiv/eotvos/2010_S.pdf (statement-only extraction, solutions and commentary excluded). Statement figure harvested from the source PDF."
 verification_status: pending
 links_en: eotvos-2010-charged-disks
 has_solution: true
@@ -27,6 +27,8 @@ Két egyforma, mondjuk 5 cm átmérőjű, vékony lemezből készült fémkorong
 Fizika szakkörön az elektromos árnyékolás a téma. A két korongot nézve Beának az az ötlete támad, hogy ha az A és B korong közé óvatosan (ügyelve, hogy egyikhez se érjen hozzá) egy ugyanolyan, de elektromosan semleges $C$ fémkorongot eresztünk be szigetelő fonálon a b) ábrának megfelelően, akkor az „leárnyékolja" mindkét eredeti korongnak a másikra gyakorolt hatását, ezért mind az $A$-ra, mind a $B$-re ható erő gyakorlatilag nullára csökken.
 
 Gabi figyelmeztet rá, hogy az elektromos mező nagyobb tartományra terjedhet ki, mint a töltött testek mérete, ezért Bea ötletét úgy módosítja, hogy a $C$ korong átmérője legyen pl. 25 cm, ahogy a c) ábrán látható. (Az ábra nem méretarányos.) Gabi szerint csak ekkor csökken elhanyagolható értékre az $A$-ra, illetve $B$-re ható elektromos erő.
+
+![A három korongos elrendezés](../../sources/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
 
 a) Mit tapasztalnánk, ha Bea ötletét követve $A$ és $B$ közé velük egyenlő méretű, semleges $C$ fémkorongot engednénk, majd megmérnénk az $A$-ra, illetve $B$-re ható erőt?
 

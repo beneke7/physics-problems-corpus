@@ -25,7 +25,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $b)$ A kiindulási helyére visszaérkező test vízszintes sebessége $v_1$, függőleges sebessége pedig $R$ magasságból történő szabadesés sebessége, vagyis 
  $v_2=\sqrt{2g'R}.$ 
  A test sebességvektora tehát 
- $\arctg\frac{v_2}{v_1}=\arctg 2=63{,}4^\circ $ 
+ $\arctan\frac{v_2}{v_1}=\arctan 2=63{,}4^\circ $ 
  nagyságú szöget zár be a vízszintessel. 
  $c)$ A kiindulási helyre való visszaérkezéskor a sebesség nagysága: 
  $v_3=\sqrt{v_1^2+v_2^2}=\sqrt{\frac52g'R}=7{,}36~\frac{\rm m}{\rm s},$ 

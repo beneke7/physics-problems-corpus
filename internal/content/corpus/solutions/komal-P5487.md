@@ -18,8 +18,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
  vagyis 
  $\sin(\alpha-45^\circ)\equiv \frac1{\sqrt2}(\sin\alpha-\cos\alpha)=\frac{\sin \alpha}{n},$ 
  amiből 
- $n=\frac{\sqrt2}{1-\ctg\alpha}
+ $n=\frac{\sqrt2}{1-\cot\alpha}
 $ 
- következik. Mivel $\alpha$ hegyesszög (vagy legfeljebb derékszög), $\ctg\alpha\ge 0$, és így $n\ge\sqrt2$.
+ következik. Mivel $\alpha$ hegyesszög (vagy legfeljebb derékszög), $\cot\alpha\ge 0$, és így $n\ge\sqrt2$.
 
 ![solution figure](../../raw_html/komal_figures/komal-P5487-sol-fig1.gif)

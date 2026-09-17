@@ -15,7 +15,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  a lőtávolság pedig 
  $x_0=\frac{2v_0^2}{g}\sin\alpha\,\cos\alpha.$ 
  Ez a két távolság akkor egyezik meg, ha 
- $\tg\alpha=4, \qquad \text{vagyis} \qquad \alpha\approx76^\circ.$ 
+ $\tan\alpha=4, \qquad \text{vagyis} \qquad \alpha\approx76^\circ.$ 
 
  $b)$ Ha $v_0=10$ m/s, akkor 
  $x_0=y_0=\frac{8}{17} \frac{v_0^2}{g}\approx 4{,}8\ \rm m.$ 
@@ -34,7 +34,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  Megjegyzés. A görbületi sugarakat differenciálszámítás felhasználásával ,,mechanikusan'' (fizikai megfontolások nélkül) is meghatározhatjuk. 
  A lövedék pályájának egyenlete 
- $y=x\tg\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2,$ 
+ $y=x\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2,$ 
  vagyis $\alpha$ ismert értéke mellett 
  $y=4x-\frac{17}{2}\frac{g}{v_0^2}x^2.$ 
  A pálya tetőpontjához $x_1=\frac{4}{17}\frac{v_0^2}{g}$, a kilövés helyéhez pedig $x_2=0$ koordináta tartozik. 

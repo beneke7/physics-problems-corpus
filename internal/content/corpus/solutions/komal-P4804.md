@@ -20,8 +20,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $a)$ Az egyenletrendszer megoldása: 
  $F(\alpha)=\frac{\mu mg}{\cos\alpha-\mu\sin\alpha},\quad S(\alpha)=\frac{\mu mg\cos\alpha}{\cos\alpha-\mu\sin\alpha},
 \quad N(\alpha)=\frac{mg\cos\alpha}{\cos\alpha-\mu\sin\alpha}.$ 
- $b)$ A feladatban leírt mozgás biztosan nem jöhet létre, ha $\tg\alpha\ge1/\mu$, vagyis $\alpha\ge \alpha_1=81{,}4^\circ,$ hiszen ha a fokozatosan növekvő $\alpha$ szög ehhez az értékhez közelít, az $F$ erő (és vele együtt $N$ és $S$ is) minden határon túl növekszik; a zsineg tehát előbb-utóbb elszakad. 
+ $b)$ A feladatban leírt mozgás biztosan nem jöhet létre, ha $\tan\alpha\ge1/\mu$, vagyis $\alpha\ge \alpha_1=81{,}4^\circ,$ hiszen ha a fokozatosan növekvő $\alpha$ szög ehhez az értékhez közelít, az $F$ erő (és vele együtt $N$ és $S$ is) minden határon túl növekszik; a zsineg tehát előbb-utóbb elszakad. 
  A téglatest egyenletes mozgása azonban már hamarabb is megszűnhet: ha a test felborul. Ez akkor következik be, amikor $x$ eléri a kritikus $\ell/2$ értéket. A forgatónyomatékra vonatkozó egyenlet szerint ez egy akkora $\alpha_2$ szögnél következik be, amelyre 
- $\tg\alpha_2=\frac1\mu-\frac{2h}{\ell}=5{,}4\approx 79{,}5^\circ.$ 
+ $\tan\alpha_2=\frac1\mu-\frac{2h}{\ell}=5{,}4\approx 79{,}5^\circ.$ 
  Amikor $\alpha$ eléri ezt a szöget, a test felborul. 
  Általában (a test méretarányaitól és tömegétől függetlenül) igaz, hogy $\alpha_2<\alpha_1$, tehát $\alpha$ növekedtével a test még a ,,megszorulása'' előtt felborul.

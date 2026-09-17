@@ -30,27 +30,25 @@ center is compressed into the center. Moreover, while the ball
 has not yet shrunk much, the field strength on its surface does
 not change much either. The acceleration of the outermost
 layer stays approximately constant. Thus,
-t ≈
-%
-2(r0 − r2)
-g
+Thus
+
+$$
+t \approx \sqrt{\frac{2(r_{0}-r_{2})}{g}},
+$$
+
 where
-g ≈
-Gm
-r2
-0
-,
-∴ t ≈
-$
-2r2
-0(r0 − r2)
-Gm
-=
-$
-0.1r3
-0
-Gm
-.
+
+$$
+g \approx \frac{Gm}{r_{0}^{2}},
+$$
+
+so
+
+$$
+t \approx \sqrt{\frac{2r_{0}^{2}(r_{0}-r_{2})}{Gm}}
+=\sqrt{\frac{0.1r_{0}^{3}}{Gm}}.
+$$
+
 iii. (2.5 pts) Gravitationally the outer layer of the ball is in-
 fluenced by the rest just as the rest were compressed into a
 point mass. Therefore we have Keplerian motion: the fall of
@@ -60,58 +58,30 @@ at the ends of the line; one focus is at the center of the ball (by
 Kepler’s 1st
 law) and the other one is at r0, see figure (instead
 of a degenerate ellipse, a strongly elliptical ellipse is depicted).
-The period of the orbit is determined by the longer semiaxis of
-the ellipse (by Kepler’s 3rd
-law). The longer semiaxis is r0/2
-and we are interested in half a period. Thus, the answer is
-equal to the halfperiod of a circular orbit of radius r0/2:
-!
-2π
-2tr→0
-"2
-r0
-2
-=
-Gm
-(r0/2)2
-=⇒ tr→0 = π
-$
-r3
-0
-8Gm
-.
-Alternatively, one may write the energy conservation law
-ṙ2
-2 − Gm
-r = E (that in turn is obtainable from Newton’s
-II law r̈ = −Gm
-r2 ) with E = −Gm
-r0
-, separate the variables
-(dr
-dt = −
-#
-2E + 2Gm
-r ) and write the integral t = −
-' dr √
-2E+2Gm
-r
-.
-This integral is probably not calculable during the limitted
-time given during the Olympiad, but a possible approach can
-be sketched as follows. Substituting
-#
-2E + 2Gm
-r = ξ and
-√
-2E = υ, one gets
-t∞
-4Gm
-=
-( ∞
-0
-dξ
-(υ2 − ξ2)
+The period of the orbit is determined by the longer semimajor axis of
+the ellipse (by Kepler's third law). The longer semimajor axis is $r_{0}/2$,
+and we are interested in half a period. Thus,
+
+$$
+2t_{r\to0}=2\pi\sqrt{\frac{(r_{0}/2)^{3}}{Gm}}
+\quad\Longrightarrow\quad
+t_{r\to0}=\pi\sqrt{\frac{r_{0}^{3}}{8Gm}}.
+$$
+
+Alternatively, the energy-conservation law can be written as
+
+$$
+\frac{\dot r^{2}}{2}-\frac{Gm}{r}=E,\qquad E=-\frac{Gm}{r_{0}}.
+$$
+
+Separating variables gives
+
+$$
+\frac{\mathrm{d}r}{\mathrm{d}t}=-\sqrt{2E+\frac{2Gm}{r}},\qquad
+t=-\int\frac{\mathrm{d}r}{\sqrt{2E+2Gm/r}}.
+$$
+
+Evaluating this integral gives the same result as the Kepler-law argument.
 2
 =
 1
@@ -331,40 +301,35 @@ Problem T3. Protostar formation (9 points)
 i. (0.8 pts)
 n = 8
 ii. (1 pt)
-t2 ≈
-!
-0.1r3
-0
-Gm
+
+$$
+t_{2}\approx\sqrt{\frac{0.1r_{0}^{3}}{Gm}}.
+$$
+
 iii. (2.5 pts)
-tr→0 = π
-!
-r3
-0
-8Gm
+
+$$
+t_{r\to0}=\pi\sqrt{\frac{r_{0}^{3}}{8Gm}}.
+$$
 iv. (1.7 pts)
-Q =
-3mRT0
-µ
-ln
-r0
-r3
+
+$$
+Q=\frac{3mRT_{0}}{\mu}\ln\left(\frac{r_{0}}{r_{3}}\right).
+$$
+
 v. (1 pt)
-T(r) = T0
-$r3
-r
-%3γ−3
+
+$$
+T(r)=T_{0}\left(\frac{r_{3}}{r}\right)^{3\gamma-3}.
+$$
+
 vi. (2 pts)
-r4 ≈ r3
-&
-RT0r3
-µmG
-' 1
-3γ−4
-T4 ≈ T0
-&
-RT0r3
-µmG
-'3γ−3
-4−3γ
+
+$$
+r_{4}\approx r_{3}\left(\frac{RT_{0}r_{3}}{\mu mG}\right)^{1/(3\gamma-4)},
+$$
+
+$$
+T_{4}\approx T_{0}\left(\frac{RT_{0}r_{3}}{\mu mG}\right)^{(4-3\gamma)/(3\gamma-4)}.
+$$
 — page 5 of 5 —

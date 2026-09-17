@@ -692,7 +692,7 @@ Acceleration due to gravity at sea level g = 9.8 m s−1
 
 Thus in each breath, the number of atoms which were once in Galileo’s lungs is
 
-                                         N $ = pN
+                                         N \$ = pN
                                             = 1.2 × 106
 
 

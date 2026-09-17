@@ -11,9 +11,9 @@ math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 points: 7
 core_ideas: []
-has_figure: true
+has_figure: false
 figure_files: []
-provenance_note: "NBPhO 2012 (Nordic-Baltic Physics Olympiad), Problem 7, \"Lifting by current\". Figure referenced in original PDF; local extraction remains pending after comprehensive PDF rendering and analysis."
+provenance_note: "NBPhO 2012 (Nordic-Baltic Physics Olympiad), Problem 7, \"Lifting by current\". The cached Mathpix source contains no figure for this problem."
 verification_status: pending
 links_hu: nbpho-2012-lifting-by-current
 has_solution: true

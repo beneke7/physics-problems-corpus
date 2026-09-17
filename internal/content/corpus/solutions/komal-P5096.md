@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **I. megoldás.**
- Jelöljük az üveggömb sugarát $R$-rel, a törésmutatóját $n$-nel, a körlap sugarát $r$-rel, a körlap távolságát a gömb középpontjától pedig $t$-vel. A kép akkor lesz éles, ha csak az optikai tengelyhez közeli fénysugarakra korlátozódunk; ezt a gömbre eső többi fénysugár letakarásával, vagyis egy fényrekesz alkalmazásával lehet elérni ( 1. ábra ). A fénysugár útját jellemző kicsiny szögekre érvényesnek tekintjük a $\sin\alpha\approx \tg\alpha\approx \alpha$ és a $\cos\alpha\approx 1$ közelítést. 
+ Jelöljük az üveggömb sugarát $R$-rel, a törésmutatóját $n$-nel, a körlap sugarát $r$-rel, a körlap távolságát a gömb középpontjától pedig $t$-vel. A kép akkor lesz éles, ha csak az optikai tengelyhez közeli fénysugarakra korlátozódunk; ezt a gömbre eső többi fénysugár letakarásával, vagyis egy fényrekesz alkalmazásával lehet elérni ( 1. ábra ). A fénysugár útját jellemző kicsiny szögekre érvényesnek tekintjük a $\sin\alpha\approx \tan\alpha\approx \alpha$ és a $\cos\alpha\approx 1$ közelítést. 
  Első lépésben a létrejövő kép helyét fogjuk meghatározni, ehhez elegendó, ha a tárgy középpontjából kiinduló (és az optikai tengelyhez közel haladó) fénysugarak útját követjük. Képalkotásról akkor beszélhetünk, ha a tárgy középpontjából $\alpha$ szögben kiinduló fénysugár az optikai tengelyt olyan (a gömb középpontjától mért) $k$ távolságban metszi, amely távolság nem függ $\alpha$-tól. 
 
  1. ábra 

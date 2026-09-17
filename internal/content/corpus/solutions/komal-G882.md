@@ -19,7 +19,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Megjegyzés. Szögfüggvények, illetve Pitagorasz-tétel segítségével is megkaphatjuk a kérdéses adatokat: 
  $$\begin{gather*}
 T_1=\frac{40\,\mathrm{N}}{\cos{35^{\circ}}}=48{,}83\,\mathrm{N}\qquad\Rightarrow\qquad\frac{\Delta T_1}{T_1}=3{,}5\cdot 10^{-3}=0{,}35\%,\\
-T_2=40\,\mathrm{N}\cdot\tg{35^{\circ}}=28{,}01\,\mathrm{N}\qquad\Rightarrow\qquad\frac{\Delta T_2}{T_2}=3\cdot 10^{-4}=0{,}03\%,\\
+T_2=40\,\mathrm{N}\cdot\tan{35^{\circ}}=28{,}01\,\mathrm{N}\qquad\Rightarrow\qquad\frac{\Delta T_2}{T_2}=3\cdot 10^{-4}=0{,}03\%,\\
 T_3=\sqrt{T_2^2+(50\,\mathrm{N})^2}=57{,}31\,\mathrm{N}\qquad\Rightarrow\qquad\frac{\Delta T_3}{T_3}=5{,}4\cdot 10^{-3}=0{,}54\%,\\
 \sin{\vartheta}=\frac{T_2}{T_3}=0{,}4887\qquad\Rightarrow\qquad\vartheta=29{,}26\,^\circ\qquad\Rightarrow\qquad\frac{\Delta\vartheta}{\vartheta}=8{,}3\cdot 10^{-3}=0{,}83\%.
 \end{gather*}$$

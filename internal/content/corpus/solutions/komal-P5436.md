@@ -36,9 +36,9 @@ $
  $(1)$ $d_{\rm min}\sin\alpha=v_At_0-d_A,$ 
  $(2)$ $d_{\rm min}\cos\alpha=d_B-v_Bt_0,$ 
  ahol 
- $v=\vert \boldsymbol v\vert=\sqrt{v_A^2+v_B^2}\qquad\text{és}\qquad \tg\alpha=\frac{v_B}{v_A}.$ 
+ $v=\vert \boldsymbol v\vert=\sqrt{v_A^2+v_B^2}\qquad\text{és}\qquad \tan\alpha=\frac{v_B}{v_A}.$ 
  (1)-et (2)-vel elosztva kapjuk, hogy 
- $\tg\alpha=\frac{v_B}{v_A}=\frac{v_At_0-d_A}{d_B-v_Bt_0},$ 
+ $\tan\alpha=\frac{v_B}{v_A}=\frac{v_At_0-d_A}{d_B-v_Bt_0},$ 
  azaz 
  $v_Bd_B-v_B^2t_0=v_A^2t_0-v_Ad_A,$ 
  tehát 

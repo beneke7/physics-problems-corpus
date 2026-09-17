@@ -236,7 +236,7 @@ The
 1
 β
 -intercept is
-$
+\$
 Rc2
 GM
 %

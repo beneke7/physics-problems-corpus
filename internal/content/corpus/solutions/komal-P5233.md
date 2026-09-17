@@ -31,9 +31,9 @@ $
  A béka akkor éri el a levelet, ha $x=s$ esetén $y=h$, vagyis 
  $(3)
 $ $-\frac{g}{2v_{0}^2\cos^2\alpha}\; s^2+s \mathop{\rm tg} \alpha=h,$ 
- ami $v_0^2$-t az $E$ energiával kifejezve és az $1/\cos^2\alpha=1+\tg^2\alpha$ azonosságot felhasználva így is felírható: 
- $(4)$ $\tg^2\alpha-\frac{4E}{mgs}\, \tg\alpha+\left(1+\frac{4Eh}{mgs^2}\right)=0.$ 
- Tekintsük úgy, mintha $E$-t ismernénk, és $\alpha$-t szeretnénk meghatározni. A fenti, $\tg\alpha$-ra nézve másodfokú egyenletnek akkor van (valós) megoldása, ha a diszkrimináns nem negatív: 
+ ami $v_0^2$-t az $E$ energiával kifejezve és az $1/\cos^2\alpha=1+\tan^2\alpha$ azonosságot felhasználva így is felírható: 
+ $(4)$ $\tan^2\alpha-\frac{4E}{mgs}\, \tan\alpha+\left(1+\frac{4Eh}{mgs^2}\right)=0.$ 
+ Tekintsük úgy, mintha $E$-t ismernénk, és $\alpha$-t szeretnénk meghatározni. A fenti, $\tan\alpha$-ra nézve másodfokú egyenletnek akkor van (valós) megoldása, ha a diszkrimináns nem negatív: 
  $\left(\frac{4E}{mgs}\right)^2-4\left(1+\frac{4Eh}{mgs^2}\right)\ge 0,$ 
  vagyis 
  $(5)$ $E^2 -mgh\,E-\left(\frac{mgs}{2}\right)^2\ge0.$ 
@@ -44,7 +44,7 @@ $ $-\frac{g}{2v_{0}^2\cos^2\alpha}\; s^2+s \mathop{\rm tg} \alpha=h,$
  $(6)$ $W\ge \frac{mg}{2}\left(h+\sqrt{h^2+s^2}\right).$ 
  Az elugrás $v_0$ sebességének megkisebb értéke: $v_0=\sqrt{\frac{2E}m}=\sqrt{g(\sqrt{s^2+h^2}+h)}$. 
  A legkisebb $W$ munkának megfelelő elugrási szögre a (6) egyenlőtlenség határesetének megfelelő $E=W$ energiát (4)-be helyettesítve a 
- $(7)$ $\tg\alpha=\frac{h+ \sqrt{h^2+s^2}}{s}$ 
+ $(7)$ $\tan\alpha=\frac{h+ \sqrt{h^2+s^2}}{s}$ 
  összefüggés adódik. 
 
 **II. megoldás.**
@@ -53,7 +53,7 @@ $ $-\frac{g}{2v_{0}^2\cos^2\alpha}\; s^2+s \mathop{\rm tg} \alpha=h,$
  Az $E$ energia legkisebb értékét (8) jobb oldalának maximuma határozza meg. Ez háromféle módszerrel is megkapható: 
  $(i)$ Trigonometrikus és algebrai átalakításokkal : 
  $(9)$ $s\sin(2\alpha)-h\cos(2\alpha)=\sqrt{ h^2+ s^2}\sin(2\alpha-\beta),$ 
- ahol $\tg\beta=\frac{h}{s}.$ (8) jobb oldala nyilván akkor maximális, ha 
+ ahol $\tan\beta=\frac{h}{s}.$ (8) jobb oldala nyilván akkor maximális, ha 
  $(10)$ $\sin(2\alpha-\beta)=1, \qquad \text{azaz}\qquad
  \alpha=45^\circ +\frac{\beta}{2}.$ 
  Ekkor 
@@ -74,7 +74,7 @@ $ $-\frac{g}{2v_{0}^2\cos^2\alpha}\; s^2+s \mathop{\rm tg} \alpha=h,$
  $(iii)$ Differenciálszámítással : (7) jobb oldalának deriváltja a szélsőérték (lokális maximum) $\alpha=\alpha_0$ helyén eltűnik: 
  $2s\cos(2\alpha_0)+2h\sin(2\alpha_0)=0,$ 
  vagyis 
- $\tg(2\alpha_0)=-\frac{s}{h} \qquad (0\leq2\alpha_0\leq 180^\circ),
+ $\tan(2\alpha_0)=-\frac{s}{h} \qquad (0\leq2\alpha_0\leq 180^\circ),
 $ 
  és 
  $s\sin(2\alpha)-h\cos(2\alpha)\le s\sin(2\alpha_0)-h\cos(2\alpha_0)=\sqrt{h^2+s^2},$ 

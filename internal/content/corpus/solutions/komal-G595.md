@@ -9,4 +9,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- ${\tg}\,\alpha=\frac{a}{g}=0{,}01; \qquad \alpha= 0{,}58^\circ$.
+ ${\tan}\,\alpha=\frac{a}{g}=0{,}01; \qquad \alpha= 0{,}58^\circ$.

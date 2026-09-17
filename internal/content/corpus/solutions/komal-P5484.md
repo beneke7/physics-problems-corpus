@@ -21,9 +21,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  A körfolyamat hatásfokának kiszámításához szükségünk van a felvett hő nagyságára, valamint a gáz által egy-egy ciklusban végzett munkára. Ez utóbbi a kör területe: 
  $W'=3{,}14.$ 
  Hőfelvétel az $A$ és $B$ állapotok között történik, ezen az íven egyre nagyobb $K$ értékekhez tartozó adiabatákat metsz el a kör. Az ábráról (annak kinagyított változatáról) leolvashatjuk az $A$ és $B$ pont koordinátáit, és ezekből kiszámíthatjuk az ábrán jelölt szögeket: 
- $\alpha=\arctg \frac{2{,}00-1{,}54}{2{,}00-1{,}11}=27{,}3^\circ=0{,}48\ \rm rad,$ 
+ $\alpha=\arctan \frac{2{,}00-1{,}54}{2{,}00-1{,}11}=27{,}3^\circ=0{,}48\ \rm rad,$ 
  illetve 
- $\beta=\arctg \frac{ 0{,}79}{ 0{,}61}=52{,}3^\circ
+ $\beta=\arctan \frac{ 0{,}79}{ 0{,}61}=52{,}3^\circ
 =0{,}91\ \rm rad.$ 
  A folyamat során a gáz által felvett hő az I. főtétel szerint 
  $Q_\text{fel}=W'(A\rightarrow B)+\Delta E,$ 

@@ -19,7 +19,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $\sin^3\varphi=\lambda\,\cos\varphi$ 
  alakban is felírhatjuk, ahol 
  $\lambda=\frac{kQ^2}{\sqrt{3}mgL^2}=1{,}27.$ 
- A fenti egyenlet $x=\tg\varphi$ helyettesítéssel harmadfokú egyenletté alakítható: 
+ A fenti egyenlet $x=\tan\varphi$ helyettesítéssel harmadfokú egyenletté alakítható: 
  $x^2-1{,}27x^2-1{,}27=0,$ 
  amelynek egyetlen valós gyöke $x=1{,}704$, azaz 
  $\varphi=59{,}6^\circ\approx 60^\circ.$ 

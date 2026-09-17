@@ -750,7 +750,7 @@ C.3.8. 𝐻𝑐 = 7.7 N
 
 
 If the candidates assumed a constant pressure 𝑃𝑖 for the gaseous $0 during its expansion, they would
-find a work done by $0 on the cork equal to: 𝑃𝑖 (𝜋ℓ0 𝑑2 /4) = 3 J instead of 2.56 + and finally 𝐻𝑐 = 12 N. The
+find a work done by \$0 on the cork equal to: 𝑃𝑖 (𝜋ℓ0 𝑑2 /4) = 3 J instead of 2.56 + and finally 𝐻𝑐 = 12 N. The
 difference is not negligible!
 
 

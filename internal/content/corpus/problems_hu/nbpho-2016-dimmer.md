@@ -13,8 +13,8 @@ format: open-ended
 points: 9
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2016 (Északi-Balti Fizika Olimpia), 4. feladat, szerző Siim Ainsaar. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2016.pdf). Ábrák kinyerése PDF-ből függőben van."
+figure_files: [nbpho-2016-dimmer-fig1.png, nbpho-2016-dimmer-fig2.png, nbpho-2016-dimmer-fig3.png]
+provenance_note: "NBPhO 2016 (Északi-Balti Fizika Olimpia), 4. feladat, szerző Siim Ainsaar. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2016.pdf). A feladat ábráit a forrás-PDF-ből nyertük ki."
 verification_status: pending
 ---
 
@@ -22,13 +22,19 @@ verification_status: pending
 
 A fénytörés szabályozására szolgáló fényerőszabályozó egy reosztátból, egy kondenzátorból, egy diacból és egy triacból áll, az alábbi kapcsolásban csatlakoztatva.
 
+![A fényerőszabályozó kapcsolása](../../sources/nbpho/figures/nbpho-2016-dimmer-fig1.png)
+
 A diac egy olyan alkatrész, amelynek viselkedését a fent látható feszültség-áram-karakterisztika határozza meg. A triac viszont egy áramvezérelt kapcsolóként gondolható el—nézd meg az alábbi ekvivalens sémát.
+
+![A triac ekvivalens kapcsolása](../../sources/nbpho/figures/nbpho-2016-dimmer-fig2.png)
 
 A $K_{t}$ kapcsoló nyitott marad, amíg a triacon átfolyó áram az $I_{t}$ küszöb alatti marad; becsukódik, amikor a küszöb áram (bármely irányban) alkalmazva van, és nyitva marad, amíg áram folyik a $K_{t}$ kapcsolón keresztül (a kapu áram nem számít, amíg a kapcsoló újra megnyílik).
 
 **i)** *(3 pont)* Feltételezzük, hogy az $R_{t}$ ellenállás elég nagy ahhoz, hogy a diacon átfolyó töltés elhanyagolható. Legyen a szinuszos tápfeszültség maximális értéke $U$ és frekvenciája $f$; az reosztát ellenállása $R$ és a kondenzátor kapacitása $C$. Határozd meg a kondenzátor $U_{C}$ maximális feszültségét és $\varphi$ fáziseltolódást a tápfeszültséghez képest.
 
 **ii)** *(2 pont)* Milyen egyenlőtlenségnek kell teljesülnie a diac karakterisztikus feszültségei $U_{b}$ és $U_{d}$, a triac küszöb árama $I_{t}$ és kapufelületi ellenállása $R_{t}$ között annak érdekében, hogy amikor a diac elkezd vezetni (amíg a kondenzátor feszültsége nő), a triac is azonnal vezetni kezdjen? Feltételezheted, hogy $I_{b}<I_{t}$ és hogy a diac feszültsége az $I_{t}$ áram mellett $U_{d}$.
+
+![A lámpa feszültsége](../../sources/nbpho/figures/nbpho-2016-dimmer-fig3.png)
 
 **iii)** *(2 pont)* A lámpa $U_{l}$ feszültsége az alábbi grafikonnak felel meg. Feltételezzük, hogy az i) rész feltételei és a ii) rész egyenlőtlensége érvényesülnek. Határozd meg a $t_{0}$ időtartamot, amelyben a lámpa feszültsége nulla.
 

@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- Írjuk le a lövedékek mozgását egy olyan koordináta-rendszerből, amelynek origója az $A$ ágyúnál van, és az $x$ tengelye vízszintes. A két ágyút összekötő egyenes a vízszintessel $\alpha=\arctg\frac{600}{800}\approx 37^\circ$-os szöget zár be, és az $y$ tengely függőlegesen felfelé mutat. 
+ Írjuk le a lövedékek mozgását egy olyan koordináta-rendszerből, amelynek origója az $A$ ágyúnál van, és az $x$ tengelye vízszintes. A két ágyút összekötő egyenes a vízszintessel $\alpha=\arctan\frac{600}{800}\approx 37^\circ$-os szöget zár be, és az $y$ tengely függőlegesen felfelé mutat. 
  A lövedékek koordinátái $t$ idővel a kilövésük után: 
  $x_1=\frac{4}{5} \left(40~\frac{\rm m}{\rm s}\right)t,\qquad y_1=\frac{3}{5} \left(40~\frac{\rm m}{\rm s}\right)t-\frac{g}{2}t^2,$ 
  $x_2=800~{\rm m}-\frac{4}{5} \left(60~\frac{\rm m}{\rm s}\right)t,\qquad y_2=600~{\rm m}-\frac{3}{5} \left(60~\frac{\rm m}{\rm s}\right)t-\frac{g}{2}t^2.$ 

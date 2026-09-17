@@ -14,7 +14,7 @@ t_0$. Az árnyékok akkor találkoznak, ha teljesül
  $A\cos\left(\omega t+\varphi\right)= A\cos\omega t.$ 
  (Az időmérés kezdőpontjaként a később indított inga elengedésének pillanatát választjuk.) A fenti egyenlet átalakítása után kapjuk, hogy 
  $\left(\cos\varphi-1\right)\cos\omega t=\sin\omega t \sin\varphi,$ 
- $\tg\omega t=\frac{\cos\varphi-1}{\sin\varphi}=-\tg\frac{\varphi}{2}.$ 
+ $\tan\omega t=\frac{\cos\varphi-1}{\sin\varphi}=-\tan\frac{\varphi}{2}.$ 
  Ennek legkisebb $t>0$ megoldása: 
  $\omega t=\pi-\frac{\varphi}{2},$ 
  Ez az összefüggés így is felírható: 

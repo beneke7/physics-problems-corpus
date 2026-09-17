@@ -40,22 +40,22 @@ provenance_note: "KöMaL official solution (Hungarian)"
  2. ábra 
 
  Ha a vízszintes egyenesre illeszkedő, a forgásponttól $k$ távolságban található $S$ pontból szemléljük a pálca másik $(Q)$ végpontját, azt a vízszinteshez képest 
- $\alpha=\arctg\frac{\sin\varphi}{k-\cos\varphi}\equiv \arctg f(\varphi)$ 
+ $\alpha=\arctan\frac{\sin\varphi}{k-\cos\varphi}\equiv \arctan f(\varphi)$ 
  szögben látjuk. Az $\alpha$ hegyesszög legnagyobb értéke $f(\varphi)$ maximális értékét is megadja: 
- $(\tg\alpha)_\text{max}=f_\text{max},$ 
+ $(\tan\alpha)_\text{max}=f_\text{max},$ 
  és a maximum helyét is meghatározza: 
  $f\left(\varphi_0\right)= f_\text{max}.$ 
  Mivel a pálca forgatása közben a $Q$ pont egy körív mentén mozog, $\alpha$ legnagyobb értékét akkor kapjuk, amikor $ST$ érinti ezt a kört, vagyis a $PTS$ háromszög derékszögű. Innen következik, hogy 
  $(5)$ $\cos\varphi_0=\frac{1}{k},$ 
  továbbá 
- $f_\text{max}=\tg\alpha_0=\frac{1}{\sqrt{k^2-1}}.$ 
+ $f_\text{max}=\tan\alpha_0=\frac{1}{\sqrt{k^2-1}}.$ 
  A hullámvasút kocsija tehát akkor tud csúszásmentesen végighaladni a függőleges síkú körpályán, ha 
  $(6)$ $\mu>\frac{1}{\sqrt{k^2-1}},$ 
  illetve ennek megfordítása, 
  $k=\frac{v_0^2}{Rg}>\sqrt{\frac{1}{\mu^2}+1}$ 
  teljesül. 
 
- II. (trigonometriai) módszer. A meg nem csúszás (3) feltétele az $\varepsilon$ súrlódási határszög ($\mu=\tg\varepsilon$) bevezetésével így írható fel: 
+ II. (trigonometriai) módszer. A meg nem csúszás (3) feltétele az $\varepsilon$ súrlódási határszög ($\mu=\tan\varepsilon$) bevezetésével így írható fel: 
  $\frac{\sin\varepsilon}{\cos\varepsilon}>\frac{\sin\varphi}{k-\cos\varphi},$ 
  vagyis 
  $k\sin\varepsilon >\sin\varphi\cos\varepsilon+\cos\varphi\sin\varepsilon, $ 
@@ -64,7 +64,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ez az egyenlőtlenség biztosan teljesül, ha 
  $(8)$ $\sin\varepsilon>\frac{1}{k},$ 
  azaz 
- $\mu=\tg\varepsilon=\frac{1}{\sqrt{\frac{1}{\sin^2\varepsilon}-1}}>\frac{1}{\sqrt{k^2-1}}. $ 
+ $\mu=\tan\varepsilon=\frac{1}{\sqrt{\frac{1}{\sin^2\varepsilon}-1}}>\frac{1}{\sqrt{k^2-1}}. $ 
  Ez éppen a (6) egyenlőtlenség. 
  Amennyiben (6) éppen nem teljesül (vagyis $\sin\varepsilon\approx (1/k)$), akkor $\varphi=\varphi_0\approx 90^\circ-\varepsilon$ szögnél a kocsi megcsúszik, hiszen itt válik a (7) egyenlőtlenség élessé. A megcsúszás helyét így is megadhatjuk: 
  $\cos\varphi_0=\sin\varepsilon\approx \frac{1}{k},$ 

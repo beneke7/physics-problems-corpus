@@ -18,4 +18,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Innen a lejtő magassága: 
  $h=\frac{1000~\rm J}{20~{\rm kg}\cdot 9{,}81~\rm N/kg}\approx 5~\rm m.$ 
 
- Megjegyzés. Érdekes, hogy az eredmény nem függ sem a lejtő hajlásszögétől, sem a súrlódási együtthatótól, viszont ez a két mennyiség nem független egymástól. Megmutatható, hogy közöttük fennáll a következő összefüggés: $\mu = 2 \tg \alpha$.
+ Megjegyzés. Érdekes, hogy az eredmény nem függ sem a lejtő hajlásszögétől, sem a súrlódási együtthatótól, viszont ez a két mennyiség nem független egymástól. Megmutatható, hogy közöttük fennáll a következő összefüggés: $\mu = 2 \tan \alpha$.

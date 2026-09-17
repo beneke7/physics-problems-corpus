@@ -74,7 +74,6 @@ $$
 We start by using the caliper to measure the base diameter $2 R \approx 25.1 \mathrm{~mm}$. (0.2 pts)
 
 We make the following measurements for $a$ :
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p9.png)
 
 1 measurement (0.3/0.5 pts)
 1 measurement (0.3/0.5 pts) 2 measurements (0.4/0.5 pts) 2 measurements (0.4/0.5 pts) 3 or more measurements (0.5/0.5 pts) 3 or more measurements (0.5/0.5 pts)
@@ -82,7 +81,6 @@ We make the following measurements for $a$ :
 This yields $a=22.2(3) \mathrm{mm}$ such that $d=$
 Tabulated measurements of the apparent 12.0(7) mm. width are shown below
 
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p9.png)
 3 or more measurements (0.3 pts) with units (0.2 pts)
 
 Averaging, $d^{\prime}=18.5(4) \mathrm{mm}$ average value of $d$ with errors (0.25 pts)
@@ -90,6 +88,5 @@ and so $n_{o}=1.54$ with an associated error of $\Delta n_{o}=0.09$. value withi
 v) (3 points)We repeat what we did by part iii: we mark a point $A$ on the cylinder, turn the cylinder until the point $A$, as seen through the cylinder, is barely seen through the outer part, and just disappearing behind the interface between the inner and outer parts, and make marking $B$ at that point on the front surface were the image of $A$ is seen, cf. the figure below. Then we continue turning the cylinder until point $A$ appears again, now at point $C$ and is seen through the inner region of the cylinder. The corresponding ray undergoes refraction at 90-degree incidence angle at point $M$, hence $\cos \gamma=n_{o} / n_{c}$, see the figure.
 
 It can be seen that $\angle B O C=2 \gamma$. We can measure the distance between the markings $|B C| \approx 5.3 \mathrm{~mm}$ using the caliper. Then we can express $\sin \gamma=|B C| / 2 R \approx 0.211$. Finally, $n_{c}=n_{o}/\cos\gamma=n_{o}/\sqrt{1-\sin^{2}\gamma}\approx1.58$.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p9.png)
 
 Idea of this method (0.8 pts) Formula for relating $|B C|$ to $\gamma$ ( $\mathbf{0 . 8}$ pts) Measuring $|B C|$ (0.4 pts) Formula for relating $n_{c}$ to $\gamma$ ( $\mathbf{0 . 4}$ pts) Obtaining final result for $n_{c}$ which is from 1\% to 4\% bigger than $n_{o}$ (0.6 pts)

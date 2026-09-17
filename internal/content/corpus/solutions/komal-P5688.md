@@ -28,7 +28,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ezek szerint a helyvektor derékszögű koordinátái: 
  $x(t)=v_0t\cos\alpha,\qquad\textrm{valamint}\qquad y(t)=v_0t\sin\alpha-\frac{g}{2}t^2,$ 
  vagyis a pályagörbe egyenlete 
- $y(x)=x\,\tg\alpha-\frac{g}{2v_0^2\cos^2\alpha}\,x^2.$ 
+ $y(x)=x\,\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}\,x^2.$ 
  Innen – teljes négyzetté alakítás után – kapjuk, hogy a lefelé nyíló parabola paramétere 
  $p=\frac{v_0^2\cos^2\alpha}{g}.$
 

@@ -9,4 +9,4 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4071. Newton észrevette, hogy ha nem a gömbtükörtől, hanem egy másik vonatkoztatási ponttól mérjük a t $^{*}$ tárgy- és a k $^{*}$ képtávolságot, akkor a leképezési törvény a következő elegáns alakot ölti: t $^{*}$$^{.}$ k $^{*}$= f $^{2}$. Mit választott Newton vonatkoztatási pontnak?
+P. 4071. Newton észrevette, hogy ha nem a gömbtükörtől, hanem egy másik vonatkoztatási ponttól mérjük a $t^{*}$ tárgy- és a $k^{*}$ képtávolságot, akkor a leképezési törvény a következő elegáns alakot ölti: $t^{*} \cdot k^{*}=f^{2}$. Mit választott Newton vonatkoztatási pontnak?

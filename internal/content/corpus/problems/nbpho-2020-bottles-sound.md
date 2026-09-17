@@ -13,8 +13,8 @@ format: experimental
 points: 8
 core_ideas: [kalda-waveoptics-idea1]
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2020 (Nordic-Baltic Physics Olympiad), Problem 5, by Jaan Kalda and Eero Uustalu. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2020.pdf). Figure references noted in problem text but source figures not found in PDF; local extraction remains pending."
+figure_files: [nbpho-2020-bottles-sound-fig1.png, nbpho-2020-bottles-sound-fig2.png]
+provenance_note: "NBPhO 2020 (Nordic-Baltic Physics Olympiad), Problem 5, by Jaan Kalda and Eero Uustalu. Mathpix OCR of born-digital PDF (cache/phoxiv/nbpho/2020.pdf). Statement figures harvested from the source PDF."
 verification_status: pending
 has_solution: true
 solution_language: en
@@ -32,3 +32,7 @@ If you blow near the bottle's mouth, a whistling sound can be generated: a gentl
 **ii)** *(1 point)* Either based on theoretical consideration or on the data analysis, suggest a functional dependence of $f$ on $V$.
 
 **iii)** *(3 points)* Test the validity of your suggestion for this dependence graphically, and determine the parameters of it. Error analysis is not required.
+
+![Bottle-sound measurement graph 1](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
+
+![Bottle-sound measurement graph 2](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)

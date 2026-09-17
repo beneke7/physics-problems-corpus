@@ -49,7 +49,7 @@ Qu 1.
     through telescopes. Nearby stars similar to the Sun are 10 pc away (3 x 1017 m) so
                                                                 × !
                                                                        10%& rad. Whereas
-                                                               "× #$
+                                                               "× #\$
       that there angular diameter subtended at the eye is
                                                                          ×   '
       planets (Venus for example has an angular width of typically .(× ## 10%( rad)

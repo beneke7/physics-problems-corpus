@@ -12,8 +12,8 @@ format: open-ended
 math_tools: [geometry-trigonometry, algebra, method-of-images]
 core_ideas: []
 has_figure: true
-figure_files: []
-provenance_note: "English translation of Eötvös Competition 2010, Problem 3; translated from Hungarian source statement (cache/phoxiv/eotvos/2010_S.pdf)."
+figure_files: [eotvos-2010-charged-disks-fig1.png]
+provenance_note: "English translation of Eötvös Competition 2010, Problem 3; translated from Hungarian source statement (cache/phoxiv/eotvos/2010_S.pdf). Statement figure harvested from the source PDF."
 verification_status: pending
 ---
 
@@ -24,6 +24,8 @@ Two identical thin-metal disks ($A$ and $B$), say 5 cm in diameter, hang from in
 In physics club, the topic is electromagnetic shielding. Looking at the two disks, Bea gets the idea that if we carefully lower (taking care not to touch either) an identical but electrically neutral metal disk $C$ between disks A and B on an insulating thread as shown in figure b), it will "shield" the effect of each original disk on the other, so the force on both A and B would drop to essentially zero.
 
 Gabi points out that the electric field extends over a larger region than the size of the charged objects, so she modifies Bea's idea by making the diameter of disk $C$ be, say, 25 cm, as shown in figure c). (The figure is not to scale.) According to Gabi, only then does the electric force on A and B drop to negligible values.
+
+![The three-disk arrangement](../../sources/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
 
 a) What would we observe if we followed Bea's idea and placed a neutral metal disk $C$ of the same size as A and B between them, and then measured the force on A and B?
 

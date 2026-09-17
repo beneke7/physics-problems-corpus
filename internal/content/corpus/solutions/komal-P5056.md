@@ -31,6 +31,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $mg(h+x_0+A)=\frac{1}{2}D(x_0+A)^2$ 
  törvényéből is kiszámíthatjuk. 
  A $t_0$ időtartam a 
- $\tg (\omega t_0)=\frac{v_0}{x_0\omega}\approx 4{,}05$ 
+ $\tan (\omega t_0)=\frac{v_0}{x_0\omega}\approx 4{,}05$ 
  egyenlet alapján kb. $0{,}09~\rm s$, és az ütközés ideje (vagyis az az időtartam, amíg a rugó összenyomott állapotban van) 
  $\Delta t=T-2t_0=0{,}26~\rm s.$

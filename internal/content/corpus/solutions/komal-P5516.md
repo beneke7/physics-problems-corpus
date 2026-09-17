@@ -67,11 +67,11 @@ provenance_note: "KöMaL official solution (Hungarian)"
  Ha $\mu\ge \frac15$, a labda tömegközéppontjának teljes sebessége az ütközés után 
  $v=\frac{\sqrt{29}}{5}v_0\approx 1{,}08\,v_0$ 
  nagyságú, és az irányának a a vízszintessel bezárt szöge 
- $\alpha=\arctg\frac25\approx 68{,}2^\circ.$ 
+ $\alpha=\arctan\frac25\approx 68{,}2^\circ.$ 
  Ha viszont $\mu\le\frac15$, akkor 
  $v=\sqrt{1+4\mu^2}\cdot v_0\le 1{,}08\,v_0$ 
  és 
- $\alpha=\arctg\frac1{2\mu}\ge\arctg\frac52\approx 68{,}2^\circ.$
+ $\alpha=\arctan\frac1{2\mu}\ge\arctan\frac52\approx 68{,}2^\circ.$
 
 ![solution figure](../../raw_html/komal_figures/komal-P5516-sol-fig1.png)
 

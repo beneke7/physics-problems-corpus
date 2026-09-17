@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ Tekintsünk egy távoli csillagról érkező párhuzamos sugárnyalábot, ami az optikai tengellyel $\alpha$ szöget zár be ( 1. ábra ). (Az ábra az áttekinthetőség kedvéért erősen torzított, a valóságban $\alpha\ll1$ radián.) A nyaláb az objektívtől $f_1$ távol lévő fókuszsík $F$ pontjában fókuszálódik, az optikai tengelytől $f_1\alpha$ távolságban. (Kis szögekre $\tg\alpha\approx \alpha$.) 
+ $a)$ Tekintsünk egy távoli csillagról érkező párhuzamos sugárnyalábot, ami az optikai tengellyel $\alpha$ szöget zár be ( 1. ábra ). (Az ábra az áttekinthetőség kedvéért erősen torzított, a valóságban $\alpha\ll1$ radián.) A nyaláb az objektívtől $f_1$ távol lévő fókuszsík $F$ pontjában fókuszálódik, az optikai tengelytől $f_1\alpha$ távolságban. (Kis szögekre $\tan\alpha\approx \alpha$.) 
 
  1. ábra 
 

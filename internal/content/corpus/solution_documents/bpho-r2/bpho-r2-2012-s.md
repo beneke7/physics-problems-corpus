@@ -99,7 +99,7 @@ BPO 2012 Round 2
                                  2 " 1.6 " 10$%& '
                               = (                  = 5.9 " 10- //
                           
-                                  9.1 " 10$% *+
+                                  9.1 " 10\$% *+
 
 
 (ii)    The electric field is uniform between the plates, so if the electron travels half the

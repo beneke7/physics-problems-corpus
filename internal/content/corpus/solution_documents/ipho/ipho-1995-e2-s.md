@@ -78,7 +78,7 @@ in making observations.
      Any figure for transmission between 75% and 85% is acceptable.
 
   ii. Calculation of the transmission through the tank, using
-                                                          #             $2
+                                                          #             \$2
                                                               n1 − n2
                                         T =1−R=1−
                                                               n1 + n2

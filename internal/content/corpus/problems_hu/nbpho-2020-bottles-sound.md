@@ -13,8 +13,8 @@ format: experimental
 points: 8
 core_ideas: [kalda-waveoptics-idea1]
 has_figure: true
-figure_files: []
-provenance_note: "NBPhO 2020 (Északi-Balti Fizika Olimpia), 5. feladat, szerzők Jaan Kalda és Eero Uustalu. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2020.pdf). Az ábrahivatkozások a szöveggel együtt szerepelnek, de a forrásábrák a PDF-ben nem találhatók; helyi kinyerés függőben van."
+figure_files: [nbpho-2020-bottles-sound-fig1.png, nbpho-2020-bottles-sound-fig2.png]
+provenance_note: "NBPhO 2020 (Északi-Balti Fizika Olimpia), 5. feladat, szerzők Jaan Kalda és Eero Uustalu. Mathpix OCR born-digital PDF-ből (cache/phoxiv/nbpho/2020.pdf). A feladat ábráit a forrás-PDF-ből nyertük ki."
 verification_status: pending
 ---
 
@@ -29,3 +29,7 @@ Ha a palack nyílása közelében fújol, pfetyegő hang keletkezhet: egy lágy 
 **ii)** *(1 pont)* Vagy elméleti megfontolások alapján, vagy az adatok elemzésén keresztül javasolj egy funkcionális összefüggést az $f$ és a $V$ között!
 
 **iii)** *(3 pont)* Grafikus módszerrel teszteld az általad javasolt összefüggés helyességét, és határozd meg az annak paraméterei! Hiba-analízis nem szükséges.
+
+![A palackhang mérési grafikonja 1](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
+
+![A palackhang mérési grafikonja 2](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)

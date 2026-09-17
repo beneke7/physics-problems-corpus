@@ -22,9 +22,9 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $(4)$ $vt\cos\alpha=r\sin\alpha,$ 
  $(5)$ $vt\sin\alpha-\frac{g}{2}t^2=-r\cos\alpha.$ 
  (4)-ből az időt kifejezve és (5)-be helyettesítve 
- $\frac{2v^2}{rg\cos\alpha}=\tg^2\alpha$ 
+ $\frac{2v^2}{rg\cos\alpha}=\tan^2\alpha$ 
  adódik, amiből (2) felhasználásával 
- $\tg\alpha=\sqrt{2}, \qquad \text{vagyis} \qquad \alpha\approx 54{,}7^\circ$ 
+ $\tan\alpha=\sqrt{2}, \qquad \text{vagyis} \qquad \alpha\approx 54{,}7^\circ$ 
  következik. A keresett hosszúságarány (3) szerint 
  $\frac{r}{\ell}=2\left(2-\sqrt3\right)\approx 0{,}54.$
 

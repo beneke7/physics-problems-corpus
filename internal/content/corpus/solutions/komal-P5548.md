@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- Jelöljük az általunk a mágnesre kifejtett $\boldsymbol F$ erőnek a függőlegessel bezárt szögét $\alpha$-val, a mágnes és a fémlemez közötti vonzóerőt $N$-nel, a súrlódási együtthatót pedig $\mu$-vel. (Érdemes használni a súrlódási határszög fogalmát is a $\mu=\tg\varepsilon$ definíciónak megfelelően.) 
+ Jelöljük az általunk a mágnesre kifejtett $\boldsymbol F$ erőnek a függőlegessel bezárt szögét $\alpha$-val, a mágnes és a fémlemez közötti vonzóerőt $N$-nel, a súrlódási együtthatót pedig $\mu$-vel. (Érdemes használni a súrlódási határszög fogalmát is a $\mu=\tan\varepsilon$ definíciónak megfelelően.) 
  Ha a mágnes éppen megindul felfelé ( 1. ábra ), akkor a fémlemez által kifejtett $\boldsymbol{K}$ kényszererő függőlegesen lefelé mutató komponense (a súrlódási erő) a vízszintes erőkomponens (a nyomóerő) $\mu$-szöröse, az erőegyensúly feltétele tehát 
  $\mu(N-F\sin\alpha)+G=F\cos\alpha,$ 
  vagyis 
@@ -21,7 +21,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  Megjegyzés. $\cos\alpha+\mu\sin\alpha$ szélsőértékét differenciálszámítással is megkaphatjuk: 
  $(\cos\alpha+\mu\sin\alpha)'=-\sin\alpha+\mu\cos\alpha=0,$ 
- vagyis $\mu=\tg\varepsilon=\tg\alpha,$ azaz $\alpha=\varepsilon,$ és a maximum nagysága 
+ vagyis $\mu=\tan\varepsilon=\tan\alpha,$ azaz $\alpha=\varepsilon,$ és a maximum nagysága 
  $(\cos\alpha+\mu\sin\alpha)_\text{max.}=\cos\varepsilon+\frac{\sin^2\varepsilon}{\cos\varepsilon}=\frac{1}{\cos\varepsilon}.$ 
 
  $\qquad\qquad$ 1. ábra $\qquad\qquad\qquad\qquad\qquad$ 2. ábra 
@@ -52,7 +52,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $F_1-F_2=2G\cos\varepsilon,$ 
  vagyis 
  $\varepsilon=\arccos\frac{F_1-F_2}{2G}=\arccos\frac{0{,}20-0{,}05 }{2\cdot0{,}10}=\arccos 0{,}75=41{,}4^\circ,$ 
- $\mu=\tg 41{,}4^\circ=0{,}88\approx 0{,}9.$ 
+ $\mu=\tan 41{,}4^\circ=0{,}88\approx 0{,}9.$ 
  $b)$ (2) és (4) összegéből kapjuk: 
  $N=\frac{F_1+F_2}{2\sin\varepsilon}\approx 0{,}19\,\mathrm{N}.$
 

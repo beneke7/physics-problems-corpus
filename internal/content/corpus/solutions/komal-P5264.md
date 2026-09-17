@@ -14,27 +14,27 @@ provenance_note: "KöMaL official solution (Hungarian)"
  – a pálya sugara: $r=60$; 
  – az autó sebessége $t$ idő elteltével $v=a_1t=6t$; 
  – az autó centripetális gyorsulása: $a_2=\frac{v^2}{r}=0{,}6\,t^2$. Az autó gyorsulásvektora a kör érintőjével 
- $\alpha(t)=\arctg\frac{a_2}{a_1}=\arctg(0{,}1\,t^2)$ 
+ $\alpha(t)=\arctan\frac{a_2}{a_1}=\arctan(0{,}1\,t^2)$ 
  szöget zár be. Ennek a szögnek az egységnyi időre vonatkozó megváltozása a keresett 
  $\omega(t)= \frac{\Delta\alpha}{\Delta t}
 $ 
  szögsebesség. 
- Számítsuk ki, hogy mennyit változik $\tg\alpha$ egy kicsiny $\Delta t$ idő alatt, ha eközben az $\alpha$ szög $\Delta\alpha$-val nagyobb lesz. Mivel $\tg\alpha=0{,}1\,t^2$, fennáll, hogy 
- $\tg(\alpha+\Delta\alpha)-\tg\alpha=0{,}1 (t+\Delta t)^2-0{,}1
+ Számítsuk ki, hogy mennyit változik $\tan\alpha$ egy kicsiny $\Delta t$ idő alatt, ha eközben az $\alpha$ szög $\Delta\alpha$-val nagyobb lesz. Mivel $\tan\alpha=0{,}1\,t^2$, fennáll, hogy 
+ $\tan(\alpha+\Delta\alpha)-\tan\alpha=0{,}1 (t+\Delta t)^2-0{,}1
 t^2.$ 
  Kicsiny változások esetén érvényes 
- $\tg(\Delta\alpha)\approx \Delta\alpha\qquad \text{és}\qquad \Delta t\ll
+ $\tan(\Delta\alpha)\approx \Delta\alpha\qquad \text{és}\qquad \Delta t\ll
 t.$ 
  Trigonometriai és algebrai átalakítások után kapjuk, hogy ebben a közelítésben 
- $\frac{\tg\alpha+\Delta\alpha}{1-\Delta\alpha\cdot \tg\alpha}-\tg\alpha=0{,}2t\,\Delta
+ $\frac{\tan\alpha+\Delta\alpha}{1-\Delta\alpha\cdot \tan\alpha}-\tan\alpha=0{,}2t\,\Delta
 t+0{,}1(\Delta t)^2,$ 
  azaz 
- $\Delta\alpha\left(1+\tg^2\alpha\right)=\Delta
-t(0{,}2t+0{,}1t\,\Delta t)(1-\Delta\alpha\,\tg\alpha).$ 
+ $\Delta\alpha\left(1+\tan^2\alpha\right)=\Delta
+t(0{,}2t+0{,}1t\,\Delta t)(1-\Delta\alpha\,\tan\alpha).$ 
  Innen kapjuk, hogy a keresett szögsebesség: 
  $\omega(t)\approx \frac{\Delta\alpha}{\Delta t}=
-\frac{0{,}2\,t+0{,}1\Delta t}{1+\tg^2\alpha}
-(1-\Delta\alpha\cdot\tg\alpha) =\frac{0{,}2\,t}{1+0{,}01\,t^4}.$ 
+\frac{0{,}2\,t+0{,}1\Delta t}{1+\tan^2\alpha}
+(1-\Delta\alpha\cdot\tan\alpha) =\frac{0{,}2\,t}{1+0{,}01\,t^4}.$ 
  Ha ábrázoljuk az $\omega(t)$ függvényt, a grafikonról leolvashatjuk, hogy a szögsebességnek $t=2{,}4$ s közelében maximuma van, és hogy a szögsebesség legnagyobb értéke $\omega_\text{max}=0{,}36\, \rm s^{-1}$. 
 
  Megjegytés. $\omega(t)$ szélsőértékét deriválással is meghatározhatjuk: A differenciálhányados $t_0=\sqrt[4]{100/3} \approx 2{,}4\ {\rm s}$ idő elteltével lesz nulla, és $\omega_\text{max}=\omega(t_0)\approx 0{,}36\,\rm s^{-1}$. 
@@ -87,10 +87,10 @@ t(0{,}2t+0{,}1t\,\Delta t)(1-\Delta\alpha\,\tg\alpha).$
  ${1{,}2}\cdot\frac{1}{\sqrt{1+0{,}01\,t_0^4}}=2\cdot\frac{0{,}12\,t_0^3}{\sqrt{1+0{,}01\,t_0^4}}\cdot\frac{0{,}2\,t_0 }{\ 1+0{,}01\,t_0^4} .$ 
  Innen 
  $0{,}04\,t_0^4=1+0{,}01\,t_0^4,\qquad \text{azaz}\qquad 
- t_0=\root 4 \of {\frac{1}{0{,03}}}\approx 2{,}4\ \rm [s],
+ t_0=\sqrt[4]{\frac{1}{0{,03}}}\approx 2{,}4\ \rm [s],
 $ 
  a szögesbesség legnagyobb értéke pedig 
- $\omega_\text{max}=\omega(t_0)=\frac{3}{20}\root 4 \of {\frac{100}{3}}\approx 0{,}36\ \left[\rm s^{-1}\right].$
+ $\omega_\text{max}=\omega(t_0)=\frac{3}{20}\sqrt[4]{\frac{100}{3}}\approx 0{,}36\ \left[\rm s^{-1}\right].$
 
 ![solution figure](../../raw_html/komal_figures/komal-P5264-sol-fig1.png)
 

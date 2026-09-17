@@ -37,15 +37,15 @@ provenance_note: "KöMaL official solution (Hungarian)"
  $(3')$ $N=mg\cos\alpha\,\cos\varphi. $ 
  Ezeket (5)-be helyettesítve kapjuk, hogy 
  $(5')$ $\frac{v}{R\omega}= 
- \frac{\tg\alpha}{\sin\varphi}.$ 
+ \frac{\tan\alpha}{\sin\varphi}.$ 
  (1'), (2') és (3')-t (4)-be helyettesítve, majd mindkét oldalt négyzetre emelve 
  $\sin^2\alpha+\cos^2\alpha\,\sin^2\varphi=\mu^2 \cos^2\alpha\,(1-\sin^2\varphi),$ 
  amiből 
- $\tg^2\alpha+\sin^2\varphi=\mu^2-\mu^2\sin^2\varphi,$ 
+ $\tan^2\alpha+\sin^2\varphi=\mu^2-\mu^2\sin^2\varphi,$ 
  azaz 
- $\sin\varphi=\sqrt{\frac{\mu^2-\tg^2\alpha}{1+\mu^2}}$ 
+ $\sin\varphi=\sqrt{\frac{\mu^2-\tan^2\alpha}{1+\mu^2}}$ 
  adódik. Ezt (5')-be írva megkapjuk az egyenletes mozgás sebességét: 
- $v=R\omega\cdot \tg\alpha\sqrt{\frac{1+\mu^2}{\mu^2-\tg^2\alpha}}.$
+ $v=R\omega\cdot \tan\alpha\sqrt{\frac{1+\mu^2}{\mu^2-\tan^2\alpha}}.$
 
 ![solution figure](../../raw_html/komal_figures/komal-P5435-sol-fig1.gif)
 

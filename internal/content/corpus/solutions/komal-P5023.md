@@ -9,4 +9,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $\mu=\frac{15}{16}\tg 25^\circ=0{,}44.$
+ $\mu=\frac{15}{16}\tan 25^\circ=0{,}44.$
