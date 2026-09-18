@@ -44,8 +44,7 @@
 		#more { display:block; margin:14px auto; }
 		.empty, .error { padding:24px 0; color:var(--muted); text-align:center; }
 		.error { color:#900; }
-		footer { margin:30px auto 0; padding:14px 0 35px; border-top:1px solid var(--line); color:var(--muted); font-size:12px; }
-		@media (max-width:600px) { main,#gate,footer { width:calc(100% - 20px); } .filters { grid-template-columns:repeat(2,minmax(0,1fr)); } .filters .filter:first-child { grid-column:1/-1; } form { flex-wrap:wrap; } form input, form button { flex:1 1 100%; } }
+		@media (max-width:600px) { main,#gate { width:calc(100% - 20px); } .filters { grid-template-columns:repeat(2,minmax(0,1fr)); } .filters .filter:first-child { grid-column:1/-1; } form { flex-wrap:wrap; } form input, form button { flex:1 1 100%; } }
 	</style>
 </head>
 <body>
@@ -75,9 +74,6 @@
 		</section>
 		<section id="results" aria-live="polite"></section>
 		<button id="more" type="button" hidden>Show more</button>
-		<footer>
-			<p><strong>Internal archive copy.</strong> Markdown files and locally available figures are linked from each record.</p>
-		</footer>
 	</main>
 
 	<script>
