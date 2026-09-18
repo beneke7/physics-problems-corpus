@@ -85,6 +85,7 @@
 		const array = (v) => Array.isArray(v) ? v : [];
 		const text = (v) => v === null || v === undefined ? "" : String(v);
 		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {}, packageBody = "", downloadUrl;
+		const RAW_FIGURE_BASE = "https://raw.githubusercontent.com/beneke7/physics-problems-corpus/master/";
 		function typeset(node) {
 			const run = () => {
 				if (!window.MathJax?.typesetPromise) return;
@@ -113,6 +114,7 @@
 		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Canonical solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
 		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
 		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
+		function assetUrl(path) { return path.startsWith("content/figures/solution-ocr/") ? RAW_FIGURE_BASE + "internal/" + path : path; }
 		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
 		function documentFigures(body, info) {
 			const paths = array(info.figures).filter((path) => !/^https?:\/\//i.test(path));
@@ -125,7 +127,7 @@
 		function localizeImages(body, info, forPackage = false) {
 			return body.replace(/(!\[[^\]]*\]\()([^)]*)(\))/g, (whole, start, src, end) => {
 				const local = figurePath(src, info); if (local === src) return whole;
-				return `${start}${forPackage ? packageFigurePath(local) : local}${end}`;
+				return `${start}${forPackage ? packageFigurePath(local) : assetUrl(local)}${end}`;
 			});
 		}
 		function escapeHtml(value) { return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;"); }
@@ -171,11 +173,11 @@
 		function renderFigures(info, seen) {
 			const box = $("figures"), list = $("figure-list"); list.replaceChildren(); const paths = array(info.figures).filter((path) => !seen.has(path));
 			if (!paths.length) { box.hidden = true; return; } box.hidden = false;
-			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)); img.src = path; img.loading = "lazy"; img.decoding = "async"; link.href = path; link.download = basename(path); figure.append(img, link); list.append(figure); });
+			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)), asset = assetUrl(path); img.src = asset; img.loading = "lazy"; img.decoding = "async"; link.href = asset; link.download = basename(path); figure.append(img, link); list.append(figure); });
 		}
 		function renderBody(body, info, renderMath = true) {
 			currentBody = cleanDisplay(stripFrontmatter(body)); currentInfo = {...info, figures: documentFigures(currentBody, info)}; packageBody = localizeImages(currentBody, currentInfo, true); const content = $("document-content"); content.innerHTML = renderMarkdown(currentBody); if (renderMath && hasMath(currentBody)) typeset(content);
-			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, currentInfo); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
+			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, currentInfo); if (local !== original) { img.src = assetUrl(local); seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
 			renderFigures(currentInfo, seen); setDownload(currentBody, (record?.id || "solution-ocr") + "-" + $("document").value); const count = array(currentInfo.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
 		}
 		function tarHeader(name, size) {
@@ -187,7 +189,7 @@
 			const button=$("download-package"); button.disabled=true; $("status").textContent="Preparing download…";
 			try {
 				const files=[{name:`${recordId}.md`,bytes:new TextEncoder().encode(packageBody)}];
-				for (const path of array(currentInfo.figures)) { const response=await fetch(path); if (!response.ok) throw new Error(path); files.push({name:packageFigurePath(path),bytes:new Uint8Array(await response.arrayBuffer())}); }
+				for (const path of array(currentInfo.figures)) { const response=await fetch(assetUrl(path)); if (!response.ok) throw new Error(path); files.push({name:packageFigurePath(path),bytes:new Uint8Array(await response.arrayBuffer())}); }
 				const chunks=[]; files.forEach(({name,bytes}) => { chunks.push(tarHeader(name,bytes.length),bytes,new Uint8Array((512-bytes.length%512)%512)); }); chunks.push(new Uint8Array(1024));
 				const blob=await new Response(new Blob(chunks).stream().pipeThrough(new CompressionStream("gzip"))).blob(), url=URL.createObjectURL(blob), link=document.createElement("a"); link.href=url; link.download=`${recordId}-${$("document").value}.tar.gz`; link.click(); setTimeout(() => URL.revokeObjectURL(url),1000); $("status").textContent="Download ready.";
 			} catch (_) { $("status").textContent="Package failed; use the plain MD and figure links separately."; } finally { button.disabled=false; }

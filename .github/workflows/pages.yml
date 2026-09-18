@@ -23,9 +23,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Prepare Pages bundle
+        run: |
+          mkdir _pages
+          rsync -a --exclude='.git/' --exclude='_pages/' --exclude='internal/content/figures/solution-ocr/' ./ _pages/
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
