@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2025_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2025-birds, nbpho-2025-black-box, nbpho-2025-charged-rod, nbpho-2025-evaporation, nbpho-2025-flying-dumbbell, nbpho-2025-hot-plate, nbpho-2025-nuclear-reactors, nbpho-2025-phase-spiral, nbpho-2025-throwing]
+mapped_problems: []
 verification_status: promoted
-provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
+provenance_note: "Full-booklet archive; canonical display uses problem-specific slices. Grading material retained for reference."
 ---
 ## Nordic-Baltic Physics Olympiad 2025
 

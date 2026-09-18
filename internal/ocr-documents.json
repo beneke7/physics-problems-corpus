@@ -8098,27 +8098,152 @@
     "canonical_solution": true
   },
   {
+    "id": "solution-ocr-nbpho-2025-birds-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · birds",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-birds-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-birds"
+    ],
+    "figure_count": 0,
+    "characters": 1211,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-black-box-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · black box",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-black-box-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-black-box"
+    ],
+    "figure_count": 2,
+    "characters": 4370,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-charged-rod-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · charged rod",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-charged-rod-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-charged-rod"
+    ],
+    "figure_count": 0,
+    "characters": 4222,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-evaporation-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · evaporation",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-evaporation-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-evaporation"
+    ],
+    "figure_count": 1,
+    "characters": 5200,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-flying-dumbbell-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · flying dumbbell",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-flying-dumbbell-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-flying-dumbbell"
+    ],
+    "figure_count": 1,
+    "characters": 4735,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-hot-plate-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · hot plate",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-hot-plate-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-hot-plate"
+    ],
+    "figure_count": 4,
+    "characters": 11845,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-nuclear-reactors-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · nuclear reactors",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-nuclear-reactors-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-nuclear-reactors"
+    ],
+    "figure_count": 0,
+    "characters": 4679,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-phase-spiral-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · phase spiral",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-phase-spiral-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-phase-spiral"
+    ],
+    "figure_count": 0,
+    "characters": 5499,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
+    "id": "solution-ocr-nbpho-2025-throwing-s",
+    "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · throwing",
+    "source": "nbpho",
+    "source_name": "Nordic-Baltic Physics Olympiad",
+    "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
+    "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-throwing-s-mathpix.md",
+    "mapped_problems": [
+      "nbpho-2025-throwing"
+    ],
+    "figure_count": 1,
+    "characters": 8295,
+    "verification_status": "promoted",
+    "canonical_solution": true
+  },
+  {
     "id": "solution-ocr-nbpho-2025-s",
     "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf",
     "source": "nbpho",
     "source_name": "Nordic-Baltic Physics Olympiad",
     "source_pdf": "cache/phoxiv/nbpho/2025_S.pdf",
     "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
-    "mapped_problems": [
-      "nbpho-2025-birds",
-      "nbpho-2025-black-box",
-      "nbpho-2025-charged-rod",
-      "nbpho-2025-evaporation",
-      "nbpho-2025-flying-dumbbell",
-      "nbpho-2025-hot-plate",
-      "nbpho-2025-nuclear-reactors",
-      "nbpho-2025-phase-spiral",
-      "nbpho-2025-throwing"
-    ],
+    "mapped_problems": [],
     "figure_count": 9,
     "characters": 71673,
     "verification_status": "promoted",
-    "canonical_solution": true
+    "canonical_solution": false
   },
   {
     "id": "solution-ocr-rupho-w-2021-e1-s",

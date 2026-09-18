@@ -35493,14 +35493,14 @@
     "nbpho-2025-flying-dumbbell": {
       "problem": "content/corpus/problems/nbpho-2025-flying-dumbbell.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-flying-dumbbell.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-flying-dumbbell-s-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
     },
     "nbpho-2025-evaporation": {
       "problem": "content/corpus/problems/nbpho-2025-evaporation.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-evaporation.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-evaporation-s-mathpix.md",
       "solution_documents": [],
       "figures": [
         "content/figures/nbpho/figures/nbpho-2025-evaporation-fig1.jpg",
@@ -35511,21 +35511,21 @@
     "nbpho-2025-nuclear-reactors": {
       "problem": "content/corpus/problems/nbpho-2025-nuclear-reactors.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-nuclear-reactors.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-nuclear-reactors-s-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
     },
     "nbpho-2025-black-box": {
       "problem": "content/corpus/problems/nbpho-2025-black-box.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-black-box.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-black-box-s-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
     },
     "nbpho-2025-throwing": {
       "problem": "content/corpus/problems/nbpho-2025-throwing.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-throwing.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-throwing-s-mathpix.md",
       "solution_documents": [],
       "figures": [
         "content/figures/nbpho/figures/nbpho-2025-throwing-fig1.jpg"
@@ -35535,21 +35535,21 @@
     "nbpho-2025-birds": {
       "problem": "content/corpus/problems/nbpho-2025-birds.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-birds.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-birds-s-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
     },
     "nbpho-2025-charged-rod": {
       "problem": "content/corpus/problems/nbpho-2025-charged-rod.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-charged-rod.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-charged-rod-s-mathpix.md",
       "figure_count": 0,
       "solution_documents": []
     },
     "nbpho-2025-phase-spiral": {
       "problem": "content/corpus/problems/nbpho-2025-phase-spiral.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-phase-spiral.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-phase-spiral-s-mathpix.md",
       "solution_documents": [],
       "figures": [
         "content/figures/nbpho/figures/nbpho-2025-phase-spiral-fig1.jpg"
@@ -35559,7 +35559,7 @@
     "nbpho-2025-hot-plate": {
       "problem": "content/corpus/problems/nbpho-2025-hot-plate.md",
       "hu": "content/corpus/problems_hu/nbpho-2025-hot-plate.md",
-      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
+      "solution": "content/corpus/solution_ocr/nbpho/nbpho-2025-hot-plate-s-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
     },
@@ -72719,6 +72719,74 @@
       "verification_status": "promoted",
       "canonical_solution": true
     },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-birds-s-mathpix.md": {
+      "figures": [],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · birds",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-black-box-s-mathpix.md": {
+      "figures": [
+        "content/figures/solution-ocr/55c0e60cb53944ad42a62fe3.jpg",
+        "content/figures/solution-ocr/8b46fa5357622b3339d1b336.jpg"
+      ],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · black box",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-charged-rod-s-mathpix.md": {
+      "figures": [],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · charged rod",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-evaporation-s-mathpix.md": {
+      "figures": [
+        "content/figures/solution-ocr/5f653150f142f79f1daa38f1.jpg"
+      ],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · evaporation",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-flying-dumbbell-s-mathpix.md": {
+      "figures": [
+        "content/figures/solution-ocr/cf54b60c1399cf5711144962.jpg"
+      ],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · flying dumbbell",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-hot-plate-s-mathpix.md": {
+      "figures": [
+        "content/figures/solution-ocr/06448562621b544b3457148f.jpg",
+        "content/figures/solution-ocr/0ebc0d1005560dd147591375.jpg",
+        "content/figures/solution-ocr/5b341b2e8bf85e6a39240f05.jpg",
+        "content/figures/solution-ocr/a6bce86b39d2761a4b17b685.jpg"
+      ],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · hot plate",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-nuclear-reactors-s-mathpix.md": {
+      "figures": [],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · nuclear reactors",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-phase-spiral-s-mathpix.md": {
+      "figures": [],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · phase spiral",
+      "verification_status": "promoted",
+      "canonical_solution": true
+    },
     "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md": {
       "figures": [
         "content/figures/solution-ocr/06448562621b544b3457148f.jpg",
@@ -72733,6 +72801,15 @@
       ],
       "source": "nbpho",
       "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf",
+      "verification_status": "promoted",
+      "canonical_solution": false
+    },
+    "content/corpus/solution_ocr/nbpho/nbpho-2025-throwing-s-mathpix.md": {
+      "figures": [
+        "content/figures/solution-ocr/3853959a3a9e80f426e51150.jpg"
+      ],
+      "source": "nbpho",
+      "title": "Nordic-Baltic Physics Olympiad · 2025_S.pdf · throwing",
       "verification_status": "promoted",
       "canonical_solution": true
     },
@@ -78019,12 +78096,12 @@
       ]
     }
   },
-  "markdown_file_count": 16103,
-  "markdown_bytes": 75691393,
+  "markdown_file_count": 16112,
+  "markdown_bytes": 75748037,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 23138,
-    "referenced_bytes": 1116932581,
+    "referenced_file_count": 23146,
+    "referenced_bytes": 1116917135,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }
