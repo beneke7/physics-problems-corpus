@@ -111,10 +111,10 @@
 		function stripFrontmatter(value) { return value.replace(/^---\n[\s\S]*?\n---\n?/, ""); }
 		function cleanDisplay(value) { return value.replace(/\r\n?/g, "\n").replace(/\f/g, "\n\n").replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f\ufffd]/g, " "); }
 		function basename(value) { return decodeURIComponent(value.split(/[?#]/)[0].split("/").pop() || ""); }
-		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Canonical solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
+		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian problem"; if (key === "solution") return "Canonical solution"; if (key === "solution_hu") return "Hungarian solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
 		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
 		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
-		function assetUrl(path) { return path.startsWith("content/figures/solution-ocr/") ? RAW_FIGURE_BASE + "internal/" + path : path; }
+		function assetUrl(path) { return path.startsWith("content/figures/solution-ocr/") ? RAW_FIGURE_BASE + "internal/" + path : new URL(path, location.href).href; }
 		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
 		function documentFigures(body, info) {
 			const paths = array(info.figures).filter((path) => !/^https?:\/\//i.test(path));
@@ -195,7 +195,7 @@
 			} catch (_) { $("status").textContent="Package failed; use the plain MD and figure links separately."; } finally { button.disabled=false; }
 		}
 		async function showDocument(key) {
-			const path=options.find((item) => item.key === key)?.path; if (!path) return; currentInfo=manifest.documents[path] || {};
+			const path=options.find((item) => item.key === key)?.path; if (!path) return; currentInfo={...(manifest.records[recordId] || {}), ...(manifest.documents[path] || {})};
 			const source = key.startsWith("doc"); $("document-note").hidden = !source;
 			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo,!source); const query = standalonePath ? `path=${encodeURIComponent(standalonePath)}&doc=${encodeURIComponent(key)}` : `id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`; history.replaceState(null,"",`view.html?${query}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
 		}
@@ -209,7 +209,7 @@
 					options = [{key:"doc0", path:standalonePath}];
 				} else {
 					record=array(catalog.records).find((item)=>item.id===recordId); if (!record) throw new Error();
-					const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
+					const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution","solution_hu"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
 				}
 				$("meta").textContent=`${record.source_name || record.source}${record.year ? ` · ${record.year}` : ""} · ${record.title || record.problem || record.id}`;
 				const select=$("document"); select.replaceChildren(...options.map((item)=>new Option(labelFor(item.key,item.path),item.key))); const wanted=params.get("doc"); select.value=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key; if (!select.value) throw new Error(); showDocument(select.value);

@@ -1,5 +1,5 @@
 {
-  "record_count": 6035,
+  "record_count": 5920,
   "records": {
     "200ppp-P001": {
       "problem": "content/corpus/problems/200ppp-P001.md",
@@ -10262,9 +10262,17 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2021-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2021-t1-fig02.png",
-        "content/figures/ipho/figures/ipho-2021-t1-fig03.png"
+        "content/figures/ipho/figures/ipho-2021-t1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p731-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p732-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p733-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p745-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 9,
+      "hu": "content/corpus/problems_hu/ipho-2021-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2021-t1.md"
     },
     "ipho-2021-t2": {
       "problem": "content/corpus/problems/ipho-2021-t2.md",
@@ -10273,9 +10281,21 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2021-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2021-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2021-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2021-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p735-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p736-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p737-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p749-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p750-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p752-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p754-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p755-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 13,
+      "hu": "content/corpus/problems_hu/ipho-2021-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2021-t2.md"
     },
     "ipho-2021-t3": {
       "problem": "content/corpus/problems/ipho-2021-t3.md",
@@ -10283,9 +10303,15 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2021-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2021-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2021-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p738-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p741-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2021-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2021-t3.md"
     },
     "ipho-2020-e1": {
       "problem": "content/corpus/problems/ipho-2020-e1.md",
@@ -10385,9 +10411,13 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2019-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2019-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2019-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p703-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p704-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-2019-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2019-t1.md"
     },
     "ipho-2019-t2": {
       "problem": "content/corpus/problems/ipho-2019-t2.md",
@@ -10398,9 +10428,20 @@
         "content/figures/ipho/figures/ipho-2019-t2-fig02.png",
         "content/figures/ipho/figures/ipho-2019-t2-fig03.png",
         "content/figures/ipho/figures/ipho-2019-t2-fig04.png",
-        "content/figures/ipho/figures/ipho-2019-t2-fig05.png"
+        "content/figures/ipho/figures/ipho-2019-t2-fig05.png",
+        "content/figures/ipho/figures/IPhO_konyv-p706-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p707-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p709-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p711-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p721-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p722-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p723-f1.png"
       ],
-      "figure_count": 5
+      "figure_count": 14,
+      "hu": "content/corpus/problems_hu/ipho-2019-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2019-t2.md"
     },
     "ipho-2019-t3": {
       "problem": "content/corpus/problems/ipho-2019-t3.md",
@@ -10411,9 +10452,14 @@
         "content/figures/ipho/figures/ipho-2019-t3-fig02.png",
         "content/figures/ipho/figures/ipho-2019-t3-fig04.png",
         "content/figures/ipho/figures/ipho-2019-t3-fig06.png",
-        "content/figures/ipho/figures/ipho-2019-t3-fig07.png"
+        "content/figures/ipho/figures/ipho-2019-t3-fig07.png",
+        "content/figures/ipho/figures/IPhO_konyv-p712-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p713-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p714-f1.png"
       ],
-      "figure_count": 5
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-2019-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2019-t3.md"
     },
     "ipho-2018-e1": {
       "problem": "content/corpus/problems/ipho-2018-e1.md",
@@ -10462,9 +10508,13 @@
       "solution": "content/corpus/solution_ocr/ipho/ipho-2018-t1-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2018-t1-fig01.png"
+        "content/figures/ipho/figures/ipho-2018-t1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p679-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p682-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2018-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2018-t1.md"
     },
     "ipho-2018-t2": {
       "problem": "content/corpus/problems/ipho-2018-t2.md",
@@ -10473,9 +10523,13 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2018-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2018-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2018-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2018-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p684-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p685-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2018-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2018-t2.md"
     },
     "ipho-2018-t3": {
       "problem": "content/corpus/problems/ipho-2018-t3.md",
@@ -10484,9 +10538,14 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2018-t3-fig01.png",
         "content/figures/ipho/figures/ipho-2018-t3-fig02.png",
-        "content/figures/ipho/figures/ipho-2018-t3-fig03.png"
+        "content/figures/ipho/figures/ipho-2018-t3-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p687-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2018-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2018-t3.md"
     },
     "ipho-2017-2017-eg0": {
       "problem": "content/corpus/problems/ipho-2017-2017-eg0.md",
@@ -10532,9 +10591,15 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2017-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2017-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2017-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p653-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p664-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p665-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p667-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2017-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2017-t1.md"
     },
     "ipho-2017-t2": {
       "problem": "content/corpus/problems/ipho-2017-t2.md",
@@ -10545,18 +10610,32 @@
         "content/figures/ipho/figures/ipho-2017-t2-fig02.png",
         "content/figures/ipho/figures/ipho-2017-t2-fig03.png",
         "content/figures/ipho/figures/ipho-2017-t2-fig04.png",
-        "content/figures/ipho/figures/ipho-2017-t2-fig05.png"
+        "content/figures/ipho/figures/ipho-2017-t2-fig05.png",
+        "content/figures/ipho/figures/IPhO_konyv-p654-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p656-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p657-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p658-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p669-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f2.png"
       ],
-      "figure_count": 5
+      "figure_count": 14,
+      "hu": "content/corpus/problems_hu/ipho-2017-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2017-t2.md"
     },
     "ipho-2017-t3": {
       "problem": "content/corpus/problems/ipho-2017-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2017-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2017-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2017-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p659-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-2017-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2017-t3.md"
     },
     "ipho-2016-e1": {
       "problem": "content/corpus/problems/ipho-2016-e1.md",
@@ -10597,9 +10676,20 @@
         "content/figures/ipho/figures/ipho-2016-t1-fig02.png",
         "content/figures/ipho/figures/ipho-2016-t1-fig03.png",
         "content/figures/ipho/figures/ipho-2016-t1-fig07.png",
-        "content/figures/ipho/figures/ipho-2016-t1-fig11.png"
+        "content/figures/ipho/figures/ipho-2016-t1-fig11.png",
+        "content/figures/ipho/figures/IPhO_konyv-p625-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p625-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p627-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p629-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p637-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p640-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p641-f1.png"
       ],
-      "figure_count": 5
+      "figure_count": 14,
+      "hu": "content/corpus/problems_hu/ipho-2016-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2016-t1.md"
     },
     "ipho-2016-t2": {
       "problem": "content/corpus/problems/ipho-2016-t2.md",
@@ -10609,9 +10699,20 @@
         "content/figures/ipho/figures/ipho-2016-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2016-t2-fig03.png",
         "content/figures/ipho/figures/ipho-2016-t2-fig06.png",
-        "content/figures/ipho/figures/ipho-2016-t2-fig07.png"
+        "content/figures/ipho/figures/ipho-2016-t2-fig07.png",
+        "content/figures/ipho/figures/IPhO_konyv-p629-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p631-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p632-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p643-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p644-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f2.png"
       ],
-      "figure_count": 4
+      "figure_count": 13,
+      "hu": "content/corpus/problems_hu/ipho-2016-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2016-t2.md"
     },
     "ipho-2016-t3": {
       "problem": "content/corpus/problems/ipho-2016-t3.md",
@@ -10622,9 +10723,15 @@
         "content/figures/ipho/figures/ipho-2016-t3-fig04.png",
         "content/figures/ipho/figures/ipho-2016-t3-fig05.png",
         "content/figures/ipho/figures/ipho-2016-t3-fig08.png",
-        "content/figures/ipho/figures/ipho-2016-t3-fig09.png"
+        "content/figures/ipho/figures/ipho-2016-t3-fig09.png",
+        "content/figures/ipho/figures/IPhO_konyv-p634-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p635-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p636-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p650-f1.png"
       ],
-      "figure_count": 5
+      "figure_count": 9,
+      "hu": "content/corpus/problems_hu/ipho-2016-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2016-t3.md"
     },
     "ipho-2015-e1": {
       "problem": "content/corpus/problems/ipho-2015-e1.md",
@@ -10673,7 +10780,13 @@
       "problem": "content/corpus/problems/ipho-2015-t1.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2015-t1-s-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-2015-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2015-t1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p603-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p614-f1.png"
+      ]
     },
     "ipho-2015-t2": {
       "problem": "content/corpus/problems/ipho-2015-t2.md",
@@ -10684,9 +10797,18 @@
         "content/figures/ipho/figures/ipho-2015-t2-fig02.png",
         "content/figures/ipho/figures/ipho-2015-t2-fig03.png",
         "content/figures/ipho/figures/ipho-2015-t2-fig04.png",
-        "content/figures/ipho/figures/ipho-2015-t2-fig05.png"
+        "content/figures/ipho/figures/ipho-2015-t2-fig05.png",
+        "content/figures/ipho/figures/IPhO_konyv-p606-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p608-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p609-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p619-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p619-f2.png"
       ],
-      "figure_count": 5
+      "figure_count": 12,
+      "hu": "content/corpus/problems_hu/ipho-2015-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2015-t2.md"
     },
     "ipho-2015-t3": {
       "problem": "content/corpus/problems/ipho-2015-t3.md",
@@ -10694,9 +10816,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2015-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2015-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2015-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p610-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p612-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p621-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2015-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2015-t3.md"
     },
     "ipho-2014-e1": {
       "problem": "content/corpus/problems/ipho-2014-e1.md",
@@ -10730,9 +10857,16 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2014-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2014-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2014-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p581-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p581-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p582-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p589-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p593-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-2014-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2014-t1.md"
     },
     "ipho-2014-t2": {
       "problem": "content/corpus/problems/ipho-2014-t2.md",
@@ -10741,18 +10875,26 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2014-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2014-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2014-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2014-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p583-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p583-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p585-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2014-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2014-t2.md"
     },
     "ipho-2014-t3": {
       "problem": "content/corpus/problems/ipho-2014-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2014-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2014-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2014-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p588-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-2014-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2014-t3.md"
     },
     "ipho-2013-e1": {
       "problem": "content/corpus/problems/ipho-2013-e1.md",
@@ -10794,18 +10936,28 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2013-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2013-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2013-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p553-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p566-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p566-f2.png"
       ],
-      "figure_count": 2
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-2013-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2013-t1.md"
     },
     "ipho-2013-t2": {
       "problem": "content/corpus/problems/ipho-2013-t2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2013-t2-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2013-t2-fig01.png"
+        "content/figures/ipho/figures/ipho-2013-t2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p558-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-2013-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2013-t2.md"
     },
     "ipho-2013-t3": {
       "problem": "content/corpus/problems/ipho-2013-t3.md",
@@ -10813,9 +10965,15 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2013-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2013-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2013-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p562-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p565-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p578-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p579-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2013-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2013-t3.md"
     },
     "ipho-2012-t-q1": {
       "problem": "content/corpus/problems/ipho-2012-t-q1.md",
@@ -10872,9 +11030,17 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2012-t-qt1-fig01.png",
-        "content/figures/ipho/figures/ipho-2012-t-qt1-fig02.png"
+        "content/figures/ipho/figures/ipho-2012-t-qt1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p535-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p536-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p537-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p542-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p543-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p545-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-2012-t-qt1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2012-t-qt1.md"
     },
     "ipho-2012-t-qt2": {
       "problem": "content/corpus/problems/ipho-2012-t-qt2.md",
@@ -10882,15 +11048,25 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2012-t-qt2-fig01.png",
-        "content/figures/ipho/figures/ipho-2012-t-qt2-fig02.png"
+        "content/figures/ipho/figures/ipho-2012-t-qt2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p538-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p538-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p539-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2012-t-qt2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2012-t-qt2.md"
     },
     "ipho-2012-t-qt3": {
       "problem": "content/corpus/problems/ipho-2012-t-qt3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2012-t-s-qt3-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/ipho-2012-t-qt3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2012-t-qt3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p550-f1.png"
+      ]
     },
     "ipho-2011-e1": {
       "problem": "content/corpus/problems/ipho-2011-e1.md",
@@ -10923,15 +11099,25 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2011-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2011-t1-fig02.png",
-        "content/figures/ipho/figures/ipho-2011-t1-fig03.png"
+        "content/figures/ipho/figures/ipho-2011-t1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p521-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p526-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p527-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-2011-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2011-t1.md"
     },
     "ipho-2011-t2": {
       "problem": "content/corpus/problems/ipho-2011-t2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2011-t2-s-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-2011-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2011-t2.md",
+      "figures": []
     },
     "ipho-2011-t3": {
       "problem": "content/corpus/problems/ipho-2011-t3.md",
@@ -10939,9 +11125,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2011-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2011-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2011-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p524-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p525-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p532-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2011-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2011-t3.md"
     },
     "ipho-2010-e1": {
       "problem": "content/corpus/problems/ipho-2010-e1.md",
@@ -10973,9 +11164,18 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2010-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2010-t1-fig02.png",
-        "content/figures/ipho/figures/ipho-2010-t1-fig03.png"
+        "content/figures/ipho/figures/ipho-2010-t1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p499-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p499-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p508-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 10,
+      "hu": "content/corpus/problems_hu/ipho-2010-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2010-t1.md"
     },
     "ipho-2010-t2": {
       "problem": "content/corpus/problems/ipho-2010-t2.md",
@@ -10983,9 +11183,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2010-t2-fig01.png",
-        "content/figures/ipho/figures/ipho-2010-t2-fig02.png"
+        "content/figures/ipho/figures/ipho-2010-t2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p502-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p502-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p503-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2010-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2010-t2.md"
     },
     "ipho-2010-t3": {
       "problem": "content/corpus/problems/ipho-2010-t3.md",
@@ -10994,9 +11199,16 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2010-t3-fig01.png",
         "content/figures/ipho/figures/ipho-2010-t3-fig02.png",
-        "content/figures/ipho/figures/ipho-2010-t3-fig03.png"
+        "content/figures/ipho/figures/ipho-2010-t3-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p504-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p506-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p507-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-2010-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2010-t3.md"
     },
     "ipho-2009-e1": {
       "problem": "content/corpus/problems/ipho-2009-e1.md",
@@ -11035,9 +11247,17 @@
         "content/figures/ipho/figures/ipho-2009-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2009-t1-fig02.png",
         "content/figures/ipho/figures/ipho-2009-t1-fig03.png",
-        "content/figures/ipho/figures/ipho-2009-t1-fig04.png"
+        "content/figures/ipho/figures/ipho-2009-t1-fig04.png",
+        "content/figures/ipho/figures/IPhO_konyv-p477-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p479-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p480-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p491-f1.png"
       ],
-      "figure_count": 4
+      "figure_count": 10,
+      "hu": "content/corpus/problems_hu/ipho-2009-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2009-t1.md"
     },
     "ipho-2009-t2": {
       "problem": "content/corpus/problems/ipho-2009-t2.md",
@@ -11046,19 +11266,29 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2009-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2009-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2009-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2009-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p482-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p482-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p485-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2009-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2009-t2.md"
     },
     "ipho-2009-t3": {
       "problem": "content/corpus/problems/ipho-2009-t3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-2009-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2009-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2009-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p485-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p486-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p487-f1.png"
       ],
-      "figure_count": 2,
+      "figure_count": 5,
       "solution": "content/corpus/solution_ocr/ipho/ipho-2009-t3-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-2009-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2009-t3.md"
     },
     "ipho-2008-e1": {
       "problem": "content/corpus/problems/ipho-2008-e1.md",
@@ -11085,27 +11315,47 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2008-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2008-t1-fig02.png",
-        "content/figures/ipho/figures/ipho-2008-t1-fig03.png"
+        "content/figures/ipho/figures/ipho-2008-t1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p451-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p452-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p453-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p463-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p465-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p466-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 9,
+      "hu": "content/corpus/problems_hu/ipho-2008-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2008-t1.md"
     },
     "ipho-2008-t2": {
       "problem": "content/corpus/problems/ipho-2008-t2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2008-t2-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2008-t2-fig01.png"
+        "content/figures/ipho/figures/ipho-2008-t2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p455-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p456-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p467-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f2.png"
       ],
-      "figure_count": 1
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2008-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2008-t2.md"
     },
     "ipho-2008-t3": {
       "problem": "content/corpus/problems/ipho-2008-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2008-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2008-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2008-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p462-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p474-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p476-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-2008-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2008-t3.md"
     },
     "ipho-2007-e1": {
       "problem": "content/corpus/problems/ipho-2007-e1.md",
@@ -11123,7 +11373,14 @@
       "problem": "content/corpus/problems/ipho-2007-t1.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2007-t1-s-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2007-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2007-t1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p433-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p435-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p443-f1.png"
+      ]
     },
     "ipho-2007-t2": {
       "problem": "content/corpus/problems/ipho-2007-t2.md",
@@ -11131,9 +11388,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2007-t2-fig01.png",
-        "content/figures/ipho/figures/ipho-2007-t2-fig02.png"
+        "content/figures/ipho/figures/ipho-2007-t2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p436-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p437-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p445-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2007-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2007-t2.md"
     },
     "ipho-2007-t3": {
       "problem": "content/corpus/problems/ipho-2007-t3.md",
@@ -11143,7 +11405,9 @@
       ],
       "figure_count": 2,
       "solution": "content/corpus/solution_ocr/ipho/ipho-2007-t3-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-2007-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2007-t3.md"
     },
     "ipho-2006-e1": {
       "problem": "content/corpus/problems/ipho-2006-e1.md",
@@ -11171,27 +11435,41 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2006-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2006-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2006-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p417-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p417-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p418-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p423-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2006-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2006-t1.md"
     },
     "ipho-2006-t2": {
       "problem": "content/corpus/problems/ipho-2006-t2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2006-t2-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2006-t2-fig01.png"
+        "content/figures/ipho/figures/ipho-2006-t2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p419-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p426-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2006-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2006-t2.md"
     },
     "ipho-2006-t3": {
       "problem": "content/corpus/problems/ipho-2006-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2006-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2006-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2006-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p420-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p422-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2006-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2006-t3.md"
     },
     "ipho-2005-e1": {
       "problem": "content/corpus/problems/ipho-2005-e1.md",
@@ -11214,9 +11492,15 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2005-t1-fig01.png",
         "content/figures/ipho/figures/ipho-2005-t1-fig02.png",
-        "content/figures/ipho/figures/ipho-2005-t1-fig03.png"
+        "content/figures/ipho/figures/ipho-2005-t1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p401-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p402-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-2005-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2005-t1.md"
     },
     "ipho-2005-t2": {
       "problem": "content/corpus/problems/ipho-2005-t2.md",
@@ -11225,18 +11509,29 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2005-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2005-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2005-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2005-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p404-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p405-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p406-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p414-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-2005-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2005-t2.md"
     },
     "ipho-2005-t3": {
       "problem": "content/corpus/problems/ipho-2005-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2005-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2005-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2005-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p407-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p408-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p415-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-2005-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2005-t3.md"
     },
     "ipho-2004-e1": {
       "problem": "content/corpus/problems/ipho-2004-e1.md",
@@ -11261,24 +11556,39 @@
       "solution": "content/corpus/solution_ocr/ipho/ipho-2004-t1-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2004-t1-fig01.png"
+        "content/figures/ipho/figures/ipho-2004-t1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p383-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p383-f2.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2004-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2004-t1.md"
     },
     "ipho-2004-t2": {
       "problem": "content/corpus/problems/ipho-2004-t2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2004-t2-s-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-2004-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2004-t2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p393-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p394-f1.png"
+      ]
     },
     "ipho-2004-t3": {
       "problem": "content/corpus/problems/ipho-2004-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2004-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2004-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2004-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p385-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p386-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p397-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-2004-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2004-t3.md"
     },
     "ipho-2003-e1": {
       "problem": "content/corpus/problems/ipho-2003-e1.md",
@@ -11305,9 +11615,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2003-t1-fig01.png",
-        "content/figures/ipho/figures/ipho-2003-t1-fig02.png"
+        "content/figures/ipho/figures/ipho-2003-t1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p365-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p366-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p374-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2003-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2003-t1.md"
     },
     "ipho-2003-t2": {
       "problem": "content/corpus/problems/ipho-2003-t2.md",
@@ -11318,18 +11633,29 @@
         "content/figures/ipho/figures/ipho-2003-t2-fig02.png",
         "content/figures/ipho/figures/ipho-2003-t2-fig03.png",
         "content/figures/ipho/figures/ipho-2003-t2-fig04.png",
-        "content/figures/ipho/figures/ipho-2003-t2-fig05.png"
+        "content/figures/ipho/figures/ipho-2003-t2-fig05.png",
+        "content/figures/ipho/figures/IPhO_konyv-p367-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p369-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p377-f1.png"
       ],
-      "figure_count": 5
+      "figure_count": 10,
+      "hu": "content/corpus/problems_hu/ipho-2003-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2003-t2.md"
     },
     "ipho-2003-t3": {
       "problem": "content/corpus/problems/ipho-2003-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-2003-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2003-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-2003-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p371-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p381-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-2003-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2003-t3.md"
     },
     "ipho-2002-e1": {
       "problem": "content/corpus/problems/ipho-2002-e1.md",
@@ -11351,9 +11677,14 @@
       "solution": "content/corpus/solution_ocr/ipho/ipho-2002-t1-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-2002-t1-fig01.png"
+        "content/figures/ipho/figures/ipho-2002-t1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p351-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p352-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p356-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-2002-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2002-t1.md"
     },
     "ipho-2002-t2": {
       "problem": "content/corpus/problems/ipho-2002-t2.md",
@@ -11361,9 +11692,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2002-t2-fig01.png",
-        "content/figures/ipho/figures/ipho-2002-t2-fig02.png"
+        "content/figures/ipho/figures/ipho-2002-t2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p352-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p353-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p357-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-2002-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2002-t2.md"
     },
     "ipho-2002-t3": {
       "problem": "content/corpus/problems/ipho-2002-t3.md",
@@ -11371,9 +11707,15 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-2002-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-2002-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-2002-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p354-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p354-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p361-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p361-f2.png"
       ],
-      "figure_count": 2
+      "figure_count": 6,
+      "hu": "content/corpus/problems_hu/ipho-2002-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2002-t3.md"
     },
     "ipho-2001-2001-e": {
       "problem": "content/corpus/problems/ipho-2001-2001-e.md",
@@ -11392,30 +11734,48 @@
         "content/figures/ipho/figures/ipho-2001-t-q1-fig01.png",
         "content/figures/ipho/figures/ipho-2001-t-q1-fig02.png",
         "content/figures/ipho/figures/ipho-2001-t-q1-fig03.png",
-        "content/figures/ipho/figures/ipho-2001-t-q1-fig04.png"
+        "content/figures/ipho/figures/ipho-2001-t-q1-fig04.png",
+        "content/figures/ipho/figures/IPhO_konyv-p337-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p338-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p343-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p345-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p346-f1.png"
       ],
-      "figure_count": 4,
+      "figure_count": 13,
       "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-q1-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-2001-t-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2001-t-q1.md"
     },
     "ipho-2001-t-q2": {
       "problem": "content/corpus/problems/ipho-2001-t-q2.md",
       "figures": [
         "content/figures/ipho/figures/ipho-2001-t-q2-fig01.png",
-        "content/figures/ipho/figures/ipho-2001-t-q2-fig02.png"
+        "content/figures/ipho/figures/ipho-2001-t-q2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p340-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p340-f2.png"
       ],
-      "figure_count": 2,
+      "figure_count": 4,
       "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-q2-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-2001-t-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2001-t-q2.md"
     },
     "ipho-2001-t-q3": {
       "problem": "content/corpus/problems/ipho-2001-t-q3.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-2001-t-q3-fig01.png"
+        "content/figures/ipho/figures/ipho-2001-t-q3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p341-f1.png"
       ],
-      "figure_count": 1,
+      "figure_count": 2,
       "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-q3-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-2001-t-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2001-t-q3.md"
     },
     "ipho-2000-t2": {
       "problem": "content/corpus/problems/ipho-2000-t2.md",
@@ -11424,9 +11784,16 @@
       "figures": [
         "content/figures/ipho/figures/ipho-2000-t2-fig01.png",
         "content/figures/ipho/figures/ipho-2000-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-2000-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-2000-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p318-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-2000-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-2000-t2.md"
     },
     "ipho-1999-e1": {
       "problem": "content/corpus/problems/ipho-1999-e1.md",
@@ -11445,7 +11812,10 @@
       "problem": "content/corpus/problems/ipho-1999-t1.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1999-t1-s-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-1999-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1999-t1.md",
+      "figures": []
     },
     "ipho-1999-t2": {
       "problem": "content/corpus/problems/ipho-1999-t2.md",
@@ -11453,9 +11823,12 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-1999-t2-fig01.png",
-        "content/figures/ipho/figures/ipho-1999-t2-fig02.png"
+        "content/figures/ipho/figures/ipho-1999-t2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p308-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1999-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1999-t2.md"
     },
     "ipho-1999-t3": {
       "problem": "content/corpus/problems/ipho-1999-t3.md",
@@ -11463,9 +11836,14 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-1999-t3-fig01.png",
-        "content/figures/ipho/figures/ipho-1999-t3-fig02.png"
+        "content/figures/ipho/figures/ipho-1999-t3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p310-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p311-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p315-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1999-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1999-t3.md"
     },
     "ipho-1998-1998-e": {
       "problem": "content/corpus/problems/ipho-1998-1998-e.md",
@@ -11530,23 +11908,42 @@
         "content/figures/ipho/figures/ipho-1996-t-q1-fig01.png",
         "content/figures/ipho/figures/ipho-1996-t-q1-fig02.png",
         "content/figures/ipho/figures/ipho-1996-t-q1-fig03.png",
-        "content/figures/ipho/figures/ipho-1996-t-q1-fig04.png"
+        "content/figures/ipho/figures/ipho-1996-t-q1-fig04.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p271-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f2.png"
       ],
-      "figure_count": 4
+      "figure_count": 12,
+      "hu": "content/corpus/problems_hu/ipho-1996-t-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1996-t-q1.md"
     },
     "ipho-1996-t-q2": {
       "problem": "content/corpus/problems/ipho-1996-t-q2.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1996-t-q2-fig01.png"
+        "content/figures/ipho/figures/ipho-1996-t-q2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p269-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p269-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p274-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-1996-t-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1996-t-q2.md"
     },
     "ipho-1996-t-q3": {
       "problem": "content/corpus/problems/ipho-1996-t-q3.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1996-t-q3-fig01.png"
+        "content/figures/ipho/figures/ipho-1996-t-q3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p270-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p276-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1996-t-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1996-t-q3.md"
     },
     "ipho-1995-e1": {
       "problem": "content/corpus/problems/ipho-1995-e1.md",
@@ -11564,7 +11961,13 @@
       "problem": "content/corpus/problems/ipho-1995-t-q1.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1995-t-s-q1-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1995-t-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1995-t-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p255-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p260-f1.png"
+      ]
     },
     "ipho-1995-t-q2": {
       "problem": "content/corpus/problems/ipho-1995-t-q2.md",
@@ -11572,9 +11975,17 @@
       "solution_documents": [],
       "figures": [
         "content/figures/ipho/figures/ipho-1995-t-q2-fig01.png",
-        "content/figures/ipho/figures/ipho-1995-t-q2-fig02.png"
+        "content/figures/ipho/figures/ipho-1995-t-q2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p256-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p257-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p262-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p262-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p263-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p264-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-1995-t-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1995-t-q2.md"
     },
     "ipho-1995-t-q3": {
       "problem": "content/corpus/problems/ipho-1995-t-q3.md",
@@ -11586,9 +11997,14 @@
         "content/figures/ipho/figures/ipho-1995-t-q3-fig03.png",
         "content/figures/ipho/figures/ipho-1995-t-q3-fig04.png",
         "content/figures/ipho/figures/ipho-1995-t-q3-fig05.png",
-        "content/figures/ipho/figures/ipho-1995-t-q3-fig06.png"
+        "content/figures/ipho/figures/ipho-1995-t-q3-fig06.png",
+        "content/figures/ipho/figures/IPhO_konyv-p258-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p258-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p259-f1.png"
       ],
-      "figure_count": 6
+      "figure_count": 9,
+      "hu": "content/corpus/problems_hu/ipho-1995-t-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1995-t-q3.md"
     },
     "ipho-1994": {
       "problem": "content/corpus/problems/ipho-1994.md",
@@ -11599,9 +12015,18 @@
       "figures": [
         "content/figures/ipho/figures/ipho-1993-q1-fig01.png",
         "content/figures/ipho/figures/ipho-1993-q1-fig02.png",
-        "content/figures/ipho/figures/ipho-1993-q1-fig03.png"
+        "content/figures/ipho/figures/ipho-1993-q1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p227-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p227-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p228-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p232-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p233-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 10,
+      "hu": "content/corpus/problems_hu/ipho-1993-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1993-q1.md"
     },
     "ipho-1993-q1-2": {
       "problem": "content/corpus/problems/ipho-1993-q1-2.md",
@@ -11634,9 +12059,16 @@
         "content/figures/ipho/figures/ipho-1993-q2-fig09.png",
         "content/figures/ipho/figures/ipho-1993-q2-fig10.png",
         "content/figures/ipho/figures/ipho-1993-q2-fig11.png",
-        "content/figures/ipho/figures/ipho-1993-q2-fig12.png"
+        "content/figures/ipho/figures/ipho-1993-q2-fig12.png",
+        "content/figures/ipho/figures/IPhO_konyv-p229-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p229-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p230-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p235-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p236-f1.png"
       ],
-      "figure_count": 10
+      "figure_count": 15,
+      "hu": "content/corpus/problems_hu/ipho-1993-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1993-q2.md"
     },
     "ipho-1993-q2-5": {
       "problem": "content/corpus/problems/ipho-1993-q2-5.md",
@@ -11659,9 +12091,15 @@
       "solution": "content/corpus/solution_ocr/ipho/ipho-1992-t1-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-1992-t1-fig01.png"
+        "content/figures/ipho/figures/ipho-1992-t1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p209-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p209-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p215-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p216-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1992-t1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1992-t1.md"
     },
     "ipho-1992-t2": {
       "problem": "content/corpus/problems/ipho-1992-t2.md",
@@ -11670,64 +12108,108 @@
       "figures": [
         "content/figures/ipho/figures/ipho-1992-t2-fig01.png",
         "content/figures/ipho/figures/ipho-1992-t2-fig02.png",
-        "content/figures/ipho/figures/ipho-1992-t2-fig03.png"
+        "content/figures/ipho/figures/ipho-1992-t2-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p211-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p222-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p222-f2.png"
       ],
-      "figure_count": 3
+      "figure_count": 8,
+      "hu": "content/corpus/problems_hu/ipho-1992-t2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1992-t2.md"
     },
     "ipho-1992-t3": {
       "problem": "content/corpus/problems/ipho-1992-t3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1992-t3-s-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-1992-t3-fig01.png"
+        "content/figures/ipho/figures/ipho-1992-t3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p213-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1992-t3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1992-t3.md"
     },
     "ipho-1991-q1": {
       "problem": "content/corpus/problems/ipho-1991-q1.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1991-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1991-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p195-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p199-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p201-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-1991-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1991-q1.md"
     },
     "ipho-1991-q2": {
       "problem": "content/corpus/problems/ipho-1991-q2.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1991-q2-fig01.png"
+        "content/figures/ipho/figures/ipho-1991-q2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p195-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p196-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p203-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p203-f2.png"
       ],
-      "figure_count": 1
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1991-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1991-q2.md"
     },
     "ipho-1991-q3": {
       "problem": "content/corpus/problems/ipho-1991-q3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1991-q3-fig01.png",
         "content/figures/ipho/figures/ipho-1991-q3-fig02.png",
-        "content/figures/ipho/figures/ipho-1991-q3-fig03.png"
+        "content/figures/ipho/figures/ipho-1991-q3-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p197-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p197-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p198-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p205-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-1991-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1991-q3.md"
     },
     "ipho-1990-q1": {
       "problem": "content/corpus/problems/ipho-1990-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1990-q1-fig01.png",
         "content/figures/ipho/figures/ipho-1990-q1-fig02.png",
-        "content/figures/ipho/figures/ipho-1990-q1-fig03.png"
+        "content/figures/ipho/figures/ipho-1990-q1-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p181-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p181-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p186-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p187-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 9,
+      "hu": "content/corpus/problems_hu/ipho-1990-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1990-q1.md"
     },
     "ipho-1990-q2": {
       "problem": "content/corpus/problems/ipho-1990-q2.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1990-q2-fig01.png"
+        "content/figures/ipho/figures/ipho-1990-q2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p183-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p189-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1990-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1990-q2.md"
     },
     "ipho-1990-q3": {
       "problem": "content/corpus/problems/ipho-1990-q3.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1990-q3-fig01.png"
+        "content/figures/ipho/figures/ipho-1990-q3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p184-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p191-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1990-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1990-q3.md"
     },
     "ipho-1990-q4": {
       "problem": "content/corpus/problems/ipho-1990-q4.md",
@@ -11749,9 +12231,12 @@
       "problem": "content/corpus/problems/ipho-1989-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1989-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1989-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1989-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p176-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1989-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1989-q1.md"
     },
     "ipho-1988": {
       "problem": "content/corpus/problems/ipho-1988.md",
@@ -11774,33 +12259,63 @@
     "ipho-1986-t-q1": {
       "problem": "content/corpus/problems/ipho-1986-t-q1.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1986-t-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1986-t-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p137-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p142-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p142-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f2.png"
       ],
-      "figure_count": 1,
+      "figure_count": 6,
       "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-q1-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-1986-t-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1986-t-q1.md"
     },
     "ipho-1986-t-q2": {
       "problem": "content/corpus/problems/ipho-1986-t-q2.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1986-t-q2-fig01.png"
+        "content/figures/ipho/figures/ipho-1986-t-q2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p138-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p139-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p144-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p145-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p146-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f2.png"
       ],
-      "figure_count": 1,
+      "figure_count": 8,
       "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-q2-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-1986-t-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1986-t-q2.md"
     },
     "ipho-1986-t-q3": {
       "problem": "content/corpus/problems/ipho-1986-t-q3.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1986-t-q3-fig01.png"
+        "content/figures/ipho/figures/ipho-1986-t-q3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p140-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f2.png"
       ],
-      "figure_count": 1,
+      "figure_count": 7,
       "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-q3-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "hu": "content/corpus/problems_hu/ipho-1986-t-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1986-t-q3.md"
     },
     "ipho-1985-q1": {
       "problem": "content/corpus/problems/ipho-1985-q1.md",
-      "figure_count": 0
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1985-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1985-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p129-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p130-f1.png"
+      ]
     },
     "ipho-1985-q1-4": {
       "problem": "content/corpus/problems/ipho-1985-q1-4.md",
@@ -11811,7 +12326,14 @@
     },
     "ipho-1985-q2": {
       "problem": "content/corpus/problems/ipho-1985-q2.md",
-      "figure_count": 0
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1985-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1985-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p131-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p132-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p133-f1.png"
+      ]
     },
     "ipho-1985-q2-5": {
       "problem": "content/corpus/problems/ipho-1985-q2-5.md",
@@ -11826,9 +12348,12 @@
       "figures": [
         "content/figures/ipho/figures/ipho-1985-q3-fig01.png",
         "content/figures/ipho/figures/ipho-1985-q3-fig02.png",
-        "content/figures/ipho/figures/ipho-1985-q3-fig03.png"
+        "content/figures/ipho/figures/ipho-1985-q3-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p134-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-1985-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1985-q3.md"
     },
     "ipho-1985-q3-6": {
       "problem": "content/corpus/problems/ipho-1985-q3-6.md",
@@ -11847,17 +12372,27 @@
     "ipho-1984-q1": {
       "problem": "content/corpus/problems/ipho-1984-q1.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1984-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1984-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p117-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p120-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p120-f2.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-1984-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1984-q1.md"
     },
     "ipho-1984-q2": {
       "problem": "content/corpus/problems/ipho-1984-q2.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1984-q2-fig01.png",
-        "content/figures/ipho/figures/ipho-1984-q2-fig02.png"
+        "content/figures/ipho/figures/ipho-1984-q2-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p117-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p118-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p122-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1984-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1984-q2.md"
     },
     "ipho-1983": {
       "problem": "content/corpus/problems/ipho-1983.md",
@@ -11879,7 +12414,14 @@
     },
     "ipho-1982-q1": {
       "problem": "content/corpus/problems/ipho-1982-q1.md",
-      "figure_count": 0
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1982-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1982-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p97-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p97-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p99-f1.png"
+      ]
     },
     "ipho-1981-1981-e": {
       "problem": "content/corpus/problems/ipho-1981-1981-e.md",
@@ -11893,45 +12435,79 @@
       "problem": "content/corpus/problems/ipho-1979-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1979-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1979-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1979-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p81-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p82-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p83-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1979-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1979-q1.md"
     },
     "ipho-1979-q2": {
       "problem": "content/corpus/problems/ipho-1979-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-1979-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1979-q2.md",
+      "figures": []
     },
     "ipho-1979-q3": {
       "problem": "content/corpus/problems/ipho-1979-q3.md",
-      "figure_count": 0
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1979-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1979-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p85-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p86-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p88-f1.png"
+      ]
     },
     "ipho-1977-q1": {
       "problem": "content/corpus/problems/ipho-1977-q1.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1977-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1977-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p75-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1977-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1977-q1.md"
     },
     "ipho-1977-q2": {
       "problem": "content/corpus/problems/ipho-1977-q2.md",
-      "figure_count": 0
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/ipho-1977-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1977-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p77-f1.png"
+      ]
     },
     "ipho-1977-q3": {
       "problem": "content/corpus/problems/ipho-1977-q3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1977-q3-fig01.png",
         "content/figures/ipho/figures/ipho-1977-q3-fig02.png",
-        "content/figures/ipho/figures/ipho-1977-q3-fig03.png"
+        "content/figures/ipho/figures/ipho-1977-q3-fig03.png",
+        "content/figures/ipho/figures/IPhO_konyv-p75-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p76-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p79-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p80-f1.png"
       ],
-      "figure_count": 3
+      "figure_count": 7,
+      "hu": "content/corpus/problems_hu/ipho-1977-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1977-q3.md"
     },
     "ipho-1976-q1": {
       "problem": "content/corpus/problems/ipho-1976-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1976-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1976-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1976-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p67-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p68-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p69-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1976-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1976-q1.md"
     },
     "ipho-1975": {
       "problem": "content/corpus/problems/ipho-1975.md",
@@ -11942,110 +12518,180 @@
     },
     "ipho-1974-q1": {
       "problem": "content/corpus/problems/ipho-1974-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-1974-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1974-q1.md",
+      "figures": []
     },
     "ipho-1972-q1": {
       "problem": "content/corpus/problems/ipho-1972-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-1972-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1972-q1.md",
+      "figures": []
     },
     "ipho-1971-q1": {
       "problem": "content/corpus/problems/ipho-1971-q1.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1971-s-q1-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-1971-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1971-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p31-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p33-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1971-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1971-q1.md"
     },
     "ipho-1971-q2": {
       "problem": "content/corpus/problems/ipho-1971-q2.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1971-s-q2-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/ipho-1971-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1971-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p31-f2.png"
+      ]
     },
     "ipho-1971-q3": {
       "problem": "content/corpus/problems/ipho-1971-q3.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1971-s-q3-mathpix.md",
       "solution_documents": [],
       "figures": [
-        "content/figures/ipho/figures/ipho-1971-q3-fig01.png"
+        "content/figures/ipho/figures/ipho-1971-q3-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p32-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p36-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p37-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 4,
+      "hu": "content/corpus/problems_hu/ipho-1971-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1971-q3.md"
     },
     "ipho-1971-q4": {
       "problem": "content/corpus/problems/ipho-1971-q4.md",
       "solution": "content/corpus/solution_ocr/ipho/ipho-1971-s-q4-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1971-q4.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1971-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p37-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p38-f1.png"
+      ]
     },
     "ipho-1970-q1": {
       "problem": "content/corpus/problems/ipho-1970-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1970-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1970-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1970-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p25-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1970-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1970-q1.md"
     },
     "ipho-1970-q2": {
       "problem": "content/corpus/problems/ipho-1970-q2.md",
-      "figure_count": 0
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/ipho-1970-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1970-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p25-f2.png"
+      ]
     },
     "ipho-1970-q3": {
       "problem": "content/corpus/problems/ipho-1970-q3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1970-q3-fig01.png",
-        "content/figures/ipho/figures/ipho-1970-q3-fig02.png"
+        "content/figures/ipho/figures/ipho-1970-q3-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p26-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1970-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1970-q3.md"
     },
     "ipho-1970-q4": {
       "problem": "content/corpus/problems/ipho-1970-q4.md",
-      "figure_count": 0
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/ipho-1970-q4.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1970-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p29-f1.png"
+      ]
     },
     "ipho-1969-q1": {
       "problem": "content/corpus/problems/ipho-1969-q1.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1969-q1-fig01.png"
+        "content/figures/ipho/figures/ipho-1969-q1-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p19-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1969-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1969-q1.md"
     },
     "ipho-1969-q2": {
       "problem": "content/corpus/problems/ipho-1969-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "hu": "content/corpus/problems_hu/ipho-1969-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1969-q2.md",
+      "figures": []
     },
     "ipho-1969-q3": {
       "problem": "content/corpus/problems/ipho-1969-q3.md",
-      "figure_count": 0
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1969-q3.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1969-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p19-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p20-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p23-f1.png"
+      ]
     },
     "ipho-1969-q4": {
       "problem": "content/corpus/problems/ipho-1969-q4.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1969-q4-fig01.png"
+        "content/figures/ipho/figures/ipho-1969-q4-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p20-f2.png"
       ],
-      "figure_count": 1
+      "figure_count": 2,
+      "hu": "content/corpus/problems_hu/ipho-1969-q4.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1969-q4.md"
     },
     "ipho-1968-q1": {
       "problem": "content/corpus/problems/ipho-1968-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1968-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1968-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1968-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p13-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p14-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p16-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 5,
+      "hu": "content/corpus/problems_hu/ipho-1968-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1968-q1.md"
     },
     "ipho-1967-q1": {
       "problem": "content/corpus/problems/ipho-1967-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1967-q1-fig01.png",
-        "content/figures/ipho/figures/ipho-1967-q1-fig02.png"
+        "content/figures/ipho/figures/ipho-1967-q1-fig02.png",
+        "content/figures/ipho/figures/IPhO_konyv-p7-f1.png"
       ],
-      "figure_count": 2
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1967-q1.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1967-q1.md"
     },
     "ipho-1967-q2": {
       "problem": "content/corpus/problems/ipho-1967-q2.md",
       "figures": [
-        "content/figures/ipho/figures/ipho-1967-q2-fig01.png"
+        "content/figures/ipho/figures/ipho-1967-q2-fig01.png",
+        "content/figures/ipho/figures/IPhO_konyv-p7-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p9-f1.png"
       ],
-      "figure_count": 1
+      "figure_count": 3,
+      "hu": "content/corpus/problems_hu/ipho-1967-q2.md",
+      "solution_hu": "content/corpus/solutions_hu/ipho-1967-q2.md"
     },
     "izho-2026-2026-e": {
       "problem": "content/corpus/problems/izho-2026-2026-e.md",
@@ -43688,23 +44334,6 @@
       ],
       "figure_count": 2
     },
-    "ipho-book-1967-q1": {
-      "problem": "content/corpus/problems/ipho-book-1967-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1967-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p7-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1967-q2": {
-      "problem": "content/corpus/problems/ipho-book-1967-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1967-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p7-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p9-f1.png"
-      ],
-      "figure_count": 2
-    },
     "ipho-book-1967-q3": {
       "problem": "content/corpus/problems/ipho-book-1967-q3.md",
       "solution": "content/corpus/solutions/ipho-book-1967-q3.md",
@@ -43713,16 +44342,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p9-f2.png"
       ],
       "figure_count": 2
-    },
-    "ipho-book-1968-q1": {
-      "problem": "content/corpus/problems/ipho-book-1968-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1968-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p13-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p14-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p16-f1.png"
-      ],
-      "figure_count": 3
     },
     "ipho-book-1968-q2": {
       "problem": "content/corpus/problems/ipho-book-1968-q2.md",
@@ -43737,110 +44356,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p17-f1.png"
       ],
       "figure_count": 2
-    },
-    "ipho-book-1969-q1": {
-      "problem": "content/corpus/problems/ipho-book-1969-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1969-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p19-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1969-q2": {
-      "problem": "content/corpus/problems/ipho-book-1969-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1969-q2.md",
-      "figure_count": 0
-    },
-    "ipho-book-1969-q3": {
-      "problem": "content/corpus/problems/ipho-book-1969-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1969-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p19-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p20-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p23-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1969-q4": {
-      "problem": "content/corpus/problems/ipho-book-1969-q4.md",
-      "solution": "content/corpus/solutions/ipho-book-1969-q4.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p20-f2.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1970-q1": {
-      "problem": "content/corpus/problems/ipho-book-1970-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1970-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p25-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1970-q2": {
-      "problem": "content/corpus/problems/ipho-book-1970-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1970-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p25-f2.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1970-q3": {
-      "problem": "content/corpus/problems/ipho-book-1970-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1970-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p26-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1970-q4": {
-      "problem": "content/corpus/problems/ipho-book-1970-q4.md",
-      "solution": "content/corpus/solutions/ipho-book-1970-q4.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p29-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1971-q1": {
-      "problem": "content/corpus/problems/ipho-book-1971-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1971-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p31-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p33-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1971-q2": {
-      "problem": "content/corpus/problems/ipho-book-1971-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1971-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p31-f2.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1971-q3": {
-      "problem": "content/corpus/problems/ipho-book-1971-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1971-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p32-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p36-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p37-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1971-q4": {
-      "problem": "content/corpus/problems/ipho-book-1971-q4.md",
-      "solution": "content/corpus/solutions/ipho-book-1971-q4.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p37-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p38-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1972-q1": {
-      "problem": "content/corpus/problems/ipho-book-1972-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1972-q1.md",
-      "figure_count": 0
     },
     "ipho-book-1972-q2": {
       "problem": "content/corpus/problems/ipho-book-1972-q2.md",
@@ -43866,11 +44381,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p51-f1.png"
       ],
       "figure_count": 5
-    },
-    "ipho-book-1974-q1": {
-      "problem": "content/corpus/problems/ipho-book-1974-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1974-q1.md",
-      "figure_count": 0
     },
     "ipho-book-1974-q2": {
       "problem": "content/corpus/problems/ipho-book-1974-q2.md",
@@ -43923,16 +44433,6 @@
       ],
       "figure_count": 5
     },
-    "ipho-book-1976-q1": {
-      "problem": "content/corpus/problems/ipho-book-1976-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1976-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p67-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p68-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p69-f1.png"
-      ],
-      "figure_count": 3
-    },
     "ipho-book-1976-q2": {
       "problem": "content/corpus/problems/ipho-book-1976-q2.md",
       "solution": "content/corpus/solutions/ipho-book-1976-q2.md",
@@ -43948,58 +44448,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p71-f1.png",
         "content/figures/ipho/figures/IPhO_konyv-p72-f1.png",
         "content/figures/ipho/figures/IPhO_konyv-p73-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1977-q1": {
-      "problem": "content/corpus/problems/ipho-book-1977-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1977-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p75-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1977-q2": {
-      "problem": "content/corpus/problems/ipho-book-1977-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1977-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p77-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1977-q3": {
-      "problem": "content/corpus/problems/ipho-book-1977-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1977-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p75-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p76-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p79-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p80-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-1979-q1": {
-      "problem": "content/corpus/problems/ipho-book-1979-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1979-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p81-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p82-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p83-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1979-q2": {
-      "problem": "content/corpus/problems/ipho-book-1979-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1979-q2.md",
-      "figure_count": 0
-    },
-    "ipho-book-1979-q3": {
-      "problem": "content/corpus/problems/ipho-book-1979-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1979-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p85-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p86-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p88-f1.png"
       ],
       "figure_count": 3
     },
@@ -44028,16 +44476,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p93-f1.png"
       ],
       "figure_count": 1
-    },
-    "ipho-book-1982-q1": {
-      "problem": "content/corpus/problems/ipho-book-1982-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1982-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p97-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p97-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p99-f1.png"
-      ],
-      "figure_count": 3
     },
     "ipho-book-1982-q2": {
       "problem": "content/corpus/problems/ipho-book-1982-q2.md",
@@ -44102,26 +44540,6 @@
       ],
       "figure_count": 1
     },
-    "ipho-book-1984-q1": {
-      "problem": "content/corpus/problems/ipho-book-1984-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1984-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p117-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p120-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p120-f2.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1984-q2": {
-      "problem": "content/corpus/problems/ipho-book-1984-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1984-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p117-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p118-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p122-f1.png"
-      ],
-      "figure_count": 3
-    },
     "ipho-book-1984-q3": {
       "problem": "content/corpus/problems/ipho-book-1984-q3.md",
       "solution": "content/corpus/solutions/ipho-book-1984-q3.md",
@@ -44131,72 +44549,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p124-f1.png"
       ],
       "figure_count": 3
-    },
-    "ipho-book-1985-q1": {
-      "problem": "content/corpus/problems/ipho-book-1985-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1985-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p129-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p130-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1985-q2": {
-      "problem": "content/corpus/problems/ipho-book-1985-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1985-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p131-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p132-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p133-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1985-q3": {
-      "problem": "content/corpus/problems/ipho-book-1985-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1985-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p134-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1986-q1": {
-      "problem": "content/corpus/problems/ipho-book-1986-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1986-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p137-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p142-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p142-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p143-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p143-f2.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-1986-q2": {
-      "problem": "content/corpus/problems/ipho-book-1986-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1986-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p138-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p139-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p144-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p145-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p146-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p147-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p147-f2.png"
-      ],
-      "figure_count": 7
-    },
-    "ipho-book-1986-q3": {
-      "problem": "content/corpus/problems/ipho-book-1986-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1986-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p140-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p149-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p149-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p149-f3.png",
-        "content/figures/ipho/figures/IPhO_konyv-p150-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p150-f2.png"
-      ],
-      "figure_count": 6
     },
     "ipho-book-1987-q1": {
       "problem": "content/corpus/problems/ipho-book-1987-q1.md",
@@ -44256,14 +44608,6 @@
       ],
       "figure_count": 2
     },
-    "ipho-book-1989-q1": {
-      "problem": "content/corpus/problems/ipho-book-1989-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1989-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p176-f1.png"
-      ],
-      "figure_count": 1
-    },
     "ipho-book-1989-q2": {
       "problem": "content/corpus/problems/ipho-book-1989-q2.md",
       "solution": "content/corpus/solutions/ipho-book-1989-q2.md",
@@ -44273,127 +44617,6 @@
       "problem": "content/corpus/problems/ipho-book-1989-q3.md",
       "solution": "content/corpus/solutions/ipho-book-1989-q3.md",
       "figure_count": 0
-    },
-    "ipho-book-1990-q1": {
-      "problem": "content/corpus/problems/ipho-book-1990-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1990-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p181-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p181-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p182-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p182-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p186-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p187-f1.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-1990-q2": {
-      "problem": "content/corpus/problems/ipho-book-1990-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1990-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p183-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p189-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1990-q3": {
-      "problem": "content/corpus/problems/ipho-book-1990-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1990-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p184-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p191-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1991-q1": {
-      "problem": "content/corpus/problems/ipho-book-1991-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1991-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p195-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p199-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p201-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1991-q2": {
-      "problem": "content/corpus/problems/ipho-book-1991-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1991-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p195-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p196-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p203-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p203-f2.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-1991-q3": {
-      "problem": "content/corpus/problems/ipho-book-1991-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1991-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p197-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p197-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p198-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p205-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-1992-q1": {
-      "problem": "content/corpus/problems/ipho-book-1992-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1992-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p209-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p209-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p215-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p216-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-1992-q2": {
-      "problem": "content/corpus/problems/ipho-book-1992-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1992-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p211-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p212-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p212-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p222-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p222-f2.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-1992-q3": {
-      "problem": "content/corpus/problems/ipho-book-1992-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1992-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p212-f3.png",
-        "content/figures/ipho/figures/IPhO_konyv-p213-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1993-q1": {
-      "problem": "content/corpus/problems/ipho-book-1993-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1993-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p227-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p227-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p228-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p232-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p233-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p234-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p234-f2.png"
-      ],
-      "figure_count": 7
-    },
-    "ipho-book-1993-q2": {
-      "problem": "content/corpus/problems/ipho-book-1993-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1993-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p229-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p229-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p230-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p235-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p236-f1.png"
-      ],
-      "figure_count": 5
     },
     "ipho-book-1993-q3": {
       "problem": "content/corpus/problems/ipho-book-1993-q3.md",
@@ -44440,72 +44663,6 @@
       "figures": [
         "content/figures/ipho/figures/IPhO_konyv-p246-f1.png",
         "content/figures/ipho/figures/IPhO_konyv-p253-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1995-q1": {
-      "problem": "content/corpus/problems/ipho-book-1995-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1995-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p255-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p260-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-1995-q2": {
-      "problem": "content/corpus/problems/ipho-book-1995-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1995-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p256-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p257-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p262-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p262-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p263-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p264-f1.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-1995-q3": {
-      "problem": "content/corpus/problems/ipho-book-1995-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1995-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p258-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p258-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p259-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1996-q1": {
-      "problem": "content/corpus/problems/ipho-book-1996-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1996-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p267-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p267-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p267-f3.png",
-        "content/figures/ipho/figures/IPhO_konyv-p268-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p268-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p271-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p272-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p272-f2.png"
-      ],
-      "figure_count": 8
-    },
-    "ipho-book-1996-q2": {
-      "problem": "content/corpus/problems/ipho-book-1996-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1996-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p269-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p269-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p274-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-1996-q3": {
-      "problem": "content/corpus/problems/ipho-book-1996-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1996-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p270-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p276-f1.png"
       ],
       "figure_count": 2
     },
@@ -44569,29 +44726,6 @@
       ],
       "figure_count": 5
     },
-    "ipho-book-1999-q1": {
-      "problem": "content/corpus/problems/ipho-book-1999-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-1999-q1.md",
-      "figure_count": 0
-    },
-    "ipho-book-1999-q2": {
-      "problem": "content/corpus/problems/ipho-book-1999-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-1999-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p308-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-1999-q3": {
-      "problem": "content/corpus/problems/ipho-book-1999-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-1999-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p310-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p311-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p315-f1.png"
-      ],
-      "figure_count": 3
-    },
     "ipho-book-2000-q1": {
       "problem": "content/corpus/problems/ipho-book-2000-q1.md",
       "solution": "content/corpus/solutions/ipho-book-2000-q1.md",
@@ -44601,18 +44735,6 @@
       ],
       "figure_count": 2
     },
-    "ipho-book-2000-q2": {
-      "problem": "content/corpus/problems/ipho-book-2000-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2000-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p318-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p319-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p319-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p320-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p320-f2.png"
-      ],
-      "figure_count": 5
-    },
     "ipho-book-2000-q3": {
       "problem": "content/corpus/problems/ipho-book-2000-q3.md",
       "solution": "content/corpus/solutions/ipho-book-2000-q3.md",
@@ -44621,653 +44743,6 @@
         "content/figures/ipho/figures/IPhO_konyv-p334-f1.png"
       ],
       "figure_count": 2
-    },
-    "ipho-book-2001-q1": {
-      "problem": "content/corpus/problems/ipho-book-2001-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2001-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p337-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p338-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p339-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p339-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p343-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p344-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p344-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p345-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p346-f1.png"
-      ],
-      "figure_count": 9
-    },
-    "ipho-book-2001-q2": {
-      "problem": "content/corpus/problems/ipho-book-2001-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2001-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p340-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p340-f2.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2001-q3": {
-      "problem": "content/corpus/problems/ipho-book-2001-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2001-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p341-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-2002-q1": {
-      "problem": "content/corpus/problems/ipho-book-2002-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2002-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p351-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p352-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p356-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2002-q2": {
-      "problem": "content/corpus/problems/ipho-book-2002-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2002-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p352-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p353-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p357-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2002-q3": {
-      "problem": "content/corpus/problems/ipho-book-2002-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2002-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p354-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p354-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p361-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p361-f2.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2003-q1": {
-      "problem": "content/corpus/problems/ipho-book-2003-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2003-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p365-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p366-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p374-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2003-q2": {
-      "problem": "content/corpus/problems/ipho-book-2003-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2003-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p367-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p368-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p368-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p369-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p377-f1.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2003-q3": {
-      "problem": "content/corpus/problems/ipho-book-2003-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2003-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p371-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p381-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2004-q1": {
-      "problem": "content/corpus/problems/ipho-book-2004-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2004-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p383-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p383-f2.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2004-q2": {
-      "problem": "content/corpus/problems/ipho-book-2004-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2004-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p393-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p394-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2004-q3": {
-      "problem": "content/corpus/problems/ipho-book-2004-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2004-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p385-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p386-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p397-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2005-q1": {
-      "problem": "content/corpus/problems/ipho-book-2005-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2005-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p401-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p402-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p403-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p403-f2.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2005-q2": {
-      "problem": "content/corpus/problems/ipho-book-2005-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2005-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p404-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p405-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p406-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p414-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2005-q3": {
-      "problem": "content/corpus/problems/ipho-book-2005-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2005-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p407-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p408-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p415-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2006-q1": {
-      "problem": "content/corpus/problems/ipho-book-2006-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2006-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p417-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p417-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p418-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p423-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2006-q2": {
-      "problem": "content/corpus/problems/ipho-book-2006-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2006-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p419-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p426-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2006-q3": {
-      "problem": "content/corpus/problems/ipho-book-2006-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2006-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p420-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p422-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2007-q1": {
-      "problem": "content/corpus/problems/ipho-book-2007-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2007-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p433-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p435-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p443-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2007-q2": {
-      "problem": "content/corpus/problems/ipho-book-2007-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2007-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p436-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p437-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p445-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2007-q3": {
-      "problem": "content/corpus/problems/ipho-book-2007-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2007-q3.md",
-      "figure_count": 0
-    },
-    "ipho-book-2008-q1": {
-      "problem": "content/corpus/problems/ipho-book-2008-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2008-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p451-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p452-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p453-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p463-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p465-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p466-f1.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-2008-q2": {
-      "problem": "content/corpus/problems/ipho-book-2008-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2008-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p455-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p456-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p467-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p468-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p468-f2.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2008-q3": {
-      "problem": "content/corpus/problems/ipho-book-2008-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2008-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p462-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p474-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p476-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2009-q1": {
-      "problem": "content/corpus/problems/ipho-book-2009-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2009-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p477-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p478-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p478-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p479-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p480-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p491-f1.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-2009-q2": {
-      "problem": "content/corpus/problems/ipho-book-2009-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2009-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p482-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p482-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p485-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2009-q3": {
-      "problem": "content/corpus/problems/ipho-book-2009-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2009-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p485-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p486-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p487-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2010-q1": {
-      "problem": "content/corpus/problems/ipho-book-2010-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2010-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p499-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p499-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p500-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p500-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p508-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p509-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p509-f2.png"
-      ],
-      "figure_count": 7
-    },
-    "ipho-book-2010-q2": {
-      "problem": "content/corpus/problems/ipho-book-2010-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2010-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p502-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p502-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p503-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2010-q3": {
-      "problem": "content/corpus/problems/ipho-book-2010-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2010-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p504-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p505-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p505-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p506-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p507-f1.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2011-q1": {
-      "problem": "content/corpus/problems/ipho-book-2011-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2011-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p521-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p522-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p522-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p526-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p527-f1.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2011-q2": {
-      "problem": "content/corpus/problems/ipho-book-2011-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2011-q2.md",
-      "figure_count": 0
-    },
-    "ipho-book-2011-q3": {
-      "problem": "content/corpus/problems/ipho-book-2011-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2011-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p524-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p525-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p532-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2012-q1": {
-      "problem": "content/corpus/problems/ipho-book-2012-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2012-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p535-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p536-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p537-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p542-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p543-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p545-f1.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-2012-q2": {
-      "problem": "content/corpus/problems/ipho-book-2012-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2012-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p538-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p538-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p539-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2012-q3": {
-      "problem": "content/corpus/problems/ipho-book-2012-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2012-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p550-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-2013-q1": {
-      "problem": "content/corpus/problems/ipho-book-2013-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2013-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p553-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p556-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p556-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p566-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p566-f2.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2013-q2": {
-      "problem": "content/corpus/problems/ipho-book-2013-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2013-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p558-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-2013-q3": {
-      "problem": "content/corpus/problems/ipho-book-2013-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2013-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p562-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p565-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p578-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p579-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2014-q1": {
-      "problem": "content/corpus/problems/ipho-book-2014-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2014-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p581-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p581-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p582-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p589-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p593-f1.png"
-      ],
-      "figure_count": 5
-    },
-    "ipho-book-2014-q2": {
-      "problem": "content/corpus/problems/ipho-book-2014-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2014-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p583-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p583-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p585-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2014-q3": {
-      "problem": "content/corpus/problems/ipho-book-2014-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2014-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p588-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-2015-q1": {
-      "problem": "content/corpus/problems/ipho-book-2015-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2015-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p603-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p614-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2015-q2": {
-      "problem": "content/corpus/problems/ipho-book-2015-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2015-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p606-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p607-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p607-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p608-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p609-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p619-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p619-f2.png"
-      ],
-      "figure_count": 7
-    },
-    "ipho-book-2015-q3": {
-      "problem": "content/corpus/problems/ipho-book-2015-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2015-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p610-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p612-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p621-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2016-q1": {
-      "problem": "content/corpus/problems/ipho-book-2016-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2016-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p625-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p625-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p626-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p626-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p627-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p629-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p637-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p640-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p641-f1.png"
-      ],
-      "figure_count": 9
-    },
-    "ipho-book-2016-q2": {
-      "problem": "content/corpus/problems/ipho-book-2016-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2016-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p629-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p630-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p630-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p631-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p632-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p643-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p644-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p647-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p647-f2.png"
-      ],
-      "figure_count": 9
-    },
-    "ipho-book-2016-q3": {
-      "problem": "content/corpus/problems/ipho-book-2016-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2016-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p634-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p635-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p636-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p650-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2017-q1": {
-      "problem": "content/corpus/problems/ipho-book-2017-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2017-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p653-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p664-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p665-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p667-f1.png"
-      ],
-      "figure_count": 4
-    },
-    "ipho-book-2017-q2": {
-      "problem": "content/corpus/problems/ipho-book-2017-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2017-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p654-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p655-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p655-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p656-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p657-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p658-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p669-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p670-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p670-f2.png"
-      ],
-      "figure_count": 9
-    },
-    "ipho-book-2017-q3": {
-      "problem": "content/corpus/problems/ipho-book-2017-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2017-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p659-f1.png"
-      ],
-      "figure_count": 1
-    },
-    "ipho-book-2018-q1": {
-      "problem": "content/corpus/problems/ipho-book-2018-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2018-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p679-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p682-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2018-q2": {
-      "problem": "content/corpus/problems/ipho-book-2018-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2018-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p684-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p685-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2018-q3": {
-      "problem": "content/corpus/problems/ipho-book-2018-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2018-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p687-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p688-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p688-f2.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2019-q1": {
-      "problem": "content/corpus/problems/ipho-book-2019-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2019-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p703-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p704-f1.png"
-      ],
-      "figure_count": 2
-    },
-    "ipho-book-2019-q2": {
-      "problem": "content/corpus/problems/ipho-book-2019-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2019-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p706-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p707-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p708-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p708-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p709-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p711-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p721-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p722-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p723-f1.png"
-      ],
-      "figure_count": 9
-    },
-    "ipho-book-2019-q3": {
-      "problem": "content/corpus/problems/ipho-book-2019-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2019-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p712-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p713-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p714-f1.png"
-      ],
-      "figure_count": 3
-    },
-    "ipho-book-2021-q1": {
-      "problem": "content/corpus/problems/ipho-book-2021-q1.md",
-      "solution": "content/corpus/solutions/ipho-book-2021-q1.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p731-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p732-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p733-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p745-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p747-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p747-f2.png"
-      ],
-      "figure_count": 6
-    },
-    "ipho-book-2021-q2": {
-      "problem": "content/corpus/problems/ipho-book-2021-q2.md",
-      "solution": "content/corpus/solutions/ipho-book-2021-q2.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p735-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p736-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p737-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p749-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p750-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p752-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p753-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p753-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p754-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p755-f1.png"
-      ],
-      "figure_count": 10
-    },
-    "ipho-book-2021-q3": {
-      "problem": "content/corpus/problems/ipho-book-2021-q3.md",
-      "solution": "content/corpus/solutions/ipho-book-2021-q3.md",
-      "figures": [
-        "content/figures/ipho/figures/IPhO_konyv-p738-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p739-f1.png",
-        "content/figures/ipho/figures/IPhO_konyv-p739-f2.png",
-        "content/figures/ipho/figures/IPhO_konyv-p741-f1.png"
-      ],
-      "figure_count": 4
     },
     "kunfalvi-2022-official-1-f1": {
       "problem": "content/corpus/problems/kunfalvi-2022-official-1-f1.md",
@@ -86518,10 +85993,1317 @@
       "figures": [
         "content/figures/physicscup/figures/physicscup-2025-p5-sol-1.png"
       ]
+    },
+    "content/corpus/problems_hu/ipho-1967-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p7-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1967-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1967-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p7-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1967-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p9-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1968-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p13-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1968-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p14-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p16-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1969-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p19-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1969-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1969-q2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1969-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1969-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1969-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p19-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p20-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1969-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p23-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1969-q3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1969-q4.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p20-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1969-q4.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1970-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p25-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1970-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1970-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p25-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1970-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1970-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1970-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p26-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1970-q3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1970-q4.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1970-q4.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p29-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1970-q4.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1971-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p31-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1971-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p33-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1971-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p31-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1971-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1971-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1971-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p32-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1971-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p36-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p37-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1971-q4.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1971-q4.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p37-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p38-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1971-q4.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1972-q1.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1972-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1972-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1974-q1.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1974-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1974-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1976-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p67-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1976-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p68-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p69-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1977-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p75-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1977-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1977-q2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1977-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p77-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1977-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1977-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p75-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p76-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1977-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p79-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p80-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1979-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p81-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1979-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p82-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p83-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1979-q2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1979-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1979-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1979-q3.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1979-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p85-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p86-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p88-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1979-q3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1982-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p97-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p97-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1982-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p99-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1982-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1984-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p117-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1984-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p120-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p120-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1984-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p117-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p118-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1984-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p122-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1985-q1.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1985-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p129-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p130-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1985-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1985-q2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1985-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p131-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p132-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p133-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1985-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1985-q3.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1985-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p134-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1986-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p137-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1986-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p142-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p142-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1986-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p138-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p139-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1986-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p144-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p145-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p146-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1986-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p140-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1986-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p149-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1989-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p176-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1989-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1990-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p181-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p181-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1990-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p186-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p187-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1990-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p183-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1990-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p189-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1990-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p184-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1990-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p191-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1991-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p195-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1991-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p199-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p201-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1991-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p195-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p196-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1991-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p203-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p203-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1991-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p197-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p197-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p198-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1991-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p205-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1992-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p209-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p209-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1992-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p215-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p216-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1992-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p211-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1992-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p222-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p222-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1992-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p212-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p213-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1992-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1993-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p227-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p227-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p228-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1993-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p232-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p233-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1993-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p229-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p229-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p230-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1993-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p235-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p236-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1995-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p255-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1995-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p260-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-1995-t-q1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1995-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p256-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p257-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1995-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p262-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p262-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p263-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p264-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1995-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p258-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p258-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p259-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1995-t-q3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1996-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p267-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1996-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p271-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1996-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p269-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p269-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1996-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p274-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1996-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p270-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1996-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p276-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-1999-t1.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-1999-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-1999-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1999-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p308-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1999-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-1999-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p310-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p311-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-1999-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p315-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2000-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p318-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2000-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2001-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p337-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p338-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2001-t-q1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p343-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p345-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p346-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2001-t-q2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p340-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p340-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2001-t-q2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2001-t-q3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p341-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2001-t-q3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2002-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p351-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p352-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2002-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p356-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2002-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p352-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p353-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2002-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p357-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2002-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p354-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p354-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2002-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p361-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p361-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2003-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p365-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p366-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2003-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p374-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2003-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p367-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p369-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2003-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p377-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2003-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p371-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2003-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p381-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2004-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p383-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p383-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2004-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2004-t2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-2004-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p393-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p394-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-2004-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2004-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p385-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p386-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2004-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p397-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2005-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p401-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p402-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2005-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2005-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p404-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p405-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p406-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2005-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p414-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2005-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p407-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p408-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2005-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p415-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2006-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p417-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p417-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p418-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2006-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p423-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2006-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p419-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2006-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p426-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2006-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p420-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p422-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2006-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2007-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p433-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p435-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2007-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p443-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-2007-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2007-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p436-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p437-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2007-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p445-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2007-t3.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-2007-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2008-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p451-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p452-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p453-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2008-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p463-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p465-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p466-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2008-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p455-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p456-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2008-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p467-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2008-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p462-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2008-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p474-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p476-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2009-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p477-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p479-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p480-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2009-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p491-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2009-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p482-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p482-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p485-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2009-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2009-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p485-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p486-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p487-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2009-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2010-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p499-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p499-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2010-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p508-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2010-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p502-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p502-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p503-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2010-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2010-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p504-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p506-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p507-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2010-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2011-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p521-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2011-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p526-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p527-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2011-t2.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-2011-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems/ipho-2011-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2011-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p524-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p525-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2011-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p532-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2012-t-qt1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p535-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p536-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p537-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2012-t-qt1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p542-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p543-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p545-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2012-t-qt2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p538-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p538-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p539-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2012-t-qt2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2012-t-qt3.md": {
+      "figures": []
+    },
+    "content/corpus/solutions_hu/ipho-2012-t-qt3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p550-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-2012-t-qt3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2013-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p553-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2013-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p566-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p566-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2013-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p558-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2013-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2013-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p562-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p565-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2013-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p578-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p579-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2014-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p581-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p581-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p582-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2014-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p589-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p593-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2014-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p583-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p583-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p585-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2014-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2014-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p588-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2014-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2015-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p603-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2015-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p614-f1.png"
+      ]
+    },
+    "content/corpus/problems/ipho-2015-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2015-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p606-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p608-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p609-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2015-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p619-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p619-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2015-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p610-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p612-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2015-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p621-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2016-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p625-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p625-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p627-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p629-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2016-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p637-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p640-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p641-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2016-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p629-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p631-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p632-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2016-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p643-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p644-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2016-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p634-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p635-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p636-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2016-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p650-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2017-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p653-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2017-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p664-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p665-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p667-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2017-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p654-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p656-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p657-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p658-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2017-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p669-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2017-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p659-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2017-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2018-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p679-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p682-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2018-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2018-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p684-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p685-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2018-t2.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2018-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p687-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f2.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2018-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2019-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p703-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p704-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2019-t1.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2019-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p706-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p707-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p709-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p711-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2019-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p721-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p722-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p723-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2019-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p712-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p713-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p714-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2019-t3.md": {
+      "figures": []
+    },
+    "content/corpus/problems_hu/ipho-2021-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p731-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p732-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p733-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2021-t1.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p745-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f2.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2021-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p735-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p736-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p737-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2021-t2.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p749-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p750-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p752-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p754-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p755-f1.png"
+      ]
+    },
+    "content/corpus/problems_hu/ipho-2021-t3.md": {
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p738-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p741-f1.png"
+      ]
+    },
+    "content/corpus/solutions_hu/ipho-2021-t3.md": {
+      "figures": []
     }
   },
   "markdown_file_count": 17006,
-  "markdown_bytes": 80809524,
+  "markdown_bytes": 80878605,
   "figure_policy": {
     "mirrored": true,
     "referenced_file_count": 23861,
