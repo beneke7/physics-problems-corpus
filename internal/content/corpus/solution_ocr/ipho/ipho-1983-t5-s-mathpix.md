@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/ipho/1983/T5_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [ipho-1983]
+verification_status: promoted
+canonical_solution: false
+provenance_note: "Mathpix PDF API Markdown conversion; linked as an auxiliary solution without manual proofreading."
 ---
 ## IPhO's LOGO - Problem V
 

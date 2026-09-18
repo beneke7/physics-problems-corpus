@@ -478,10 +478,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2008/T3_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2008-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2008-t3"
+    ],
     "figure_count": 0,
     "characters": 3879,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2009-e1-s",
@@ -490,10 +494,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2009/E1_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2009-e1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2009-e-q1"
+    ],
     "figure_count": 2,
     "characters": 4727,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "individual APhO solution numbering"
   },
   {
     "id": "solution-ocr-apho-2009-e2-s",
@@ -502,10 +510,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2009/E2_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2009-e2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2009-e-q2"
+    ],
     "figure_count": 0,
     "characters": 4220,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "individual APhO solution numbering"
   },
   {
     "id": "solution-ocr-apho-2009-t1-s",
@@ -514,10 +526,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2009/T1_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2009-t1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2009-t-q1"
+    ],
     "figure_count": 4,
     "characters": 13066,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "individual APhO solution numbering"
   },
   {
     "id": "solution-ocr-apho-2009-t2-s",
@@ -526,10 +542,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2009/T2_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2009-t2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2009-t-q2"
+    ],
     "figure_count": 2,
     "characters": 3011,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "individual APhO solution numbering"
   },
   {
     "id": "solution-ocr-apho-2009-t3-s",
@@ -538,10 +558,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2009/T3_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2009-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2009-t-q3"
+    ],
     "figure_count": 0,
     "characters": 5962,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "individual APhO solution numbering"
   },
   {
     "id": "solution-ocr-apho-2010-e1-s",
@@ -835,10 +859,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2014/E1_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2014-e1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2014-e1"
+    ],
     "figure_count": 10,
     "characters": 29065,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2014-t1-s",
@@ -892,10 +920,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2015/E1_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2015-e1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2015-e1"
+    ],
     "figure_count": 5,
     "characters": 20999,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2015-t1-s",
@@ -964,10 +996,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2016/E2_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2016-e2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2016-e2"
+    ],
     "figure_count": 3,
     "characters": 17706,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2016-t1-s",
@@ -976,10 +1012,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2016/T1_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2016-t1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2016-t1"
+    ],
     "figure_count": 2,
     "characters": 29669,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2016-t2-s",
@@ -988,10 +1028,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2016/T2_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2016-t2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2016-t2"
+    ],
     "figure_count": 0,
     "characters": 9143,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2016-t3-s",
@@ -1000,10 +1044,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2016/T3_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2016-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2016-t3"
+    ],
     "figure_count": 0,
     "characters": 13977,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2017-e1-s",
@@ -1432,10 +1480,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2024_E_S.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2024-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2024-2024-e"
+    ],
     "figure_count": 13,
     "characters": 17826,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-apho-2024-t-s",
@@ -1521,10 +1573,14 @@
     "source_name": "Asian Physics Olympiad",
     "source_pdf": "cache/phoxiv/apho/2025/T3_S_H.pdf",
     "path": "content/corpus/solution_ocr/apho/apho-2025-t3-s-h-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "apho-2025-t3"
+    ],
     "figure_count": 3,
     "characters": 7636,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2007-s",
@@ -1563,10 +1619,27 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2008_S_A.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2008-q1",
+      "aupho-2008-q11",
+      "aupho-2008-q12",
+      "aupho-2008-q13",
+      "aupho-2008-q14",
+      "aupho-2008-q15",
+      "aupho-2008-q16",
+      "aupho-2008-q2",
+      "aupho-2008-q3",
+      "aupho-2008-q4",
+      "aupho-2008-q6",
+      "aupho-2008-q7",
+      "aupho-2008-q8",
+      "aupho-2008-q9"
+    ],
     "figure_count": 9,
     "characters": 11537,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2008-s-b",
@@ -1575,10 +1648,27 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2008_S_B.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2008-q1",
+      "aupho-2008-q11",
+      "aupho-2008-q12",
+      "aupho-2008-q13",
+      "aupho-2008-q14",
+      "aupho-2008-q15",
+      "aupho-2008-q16",
+      "aupho-2008-q2",
+      "aupho-2008-q3",
+      "aupho-2008-q4",
+      "aupho-2008-q6",
+      "aupho-2008-q7",
+      "aupho-2008-q8",
+      "aupho-2008-q9"
+    ],
     "figure_count": 9,
     "characters": 6483,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2009-s",
@@ -1867,10 +1957,33 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2020_S.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2020-q1",
+      "aupho-2020-q10",
+      "aupho-2020-q11",
+      "aupho-2020-q12",
+      "aupho-2020-q13",
+      "aupho-2020-q14",
+      "aupho-2020-q15",
+      "aupho-2020-q16",
+      "aupho-2020-q17",
+      "aupho-2020-q18",
+      "aupho-2020-q19",
+      "aupho-2020-q2",
+      "aupho-2020-q20",
+      "aupho-2020-q3",
+      "aupho-2020-q4",
+      "aupho-2020-q5",
+      "aupho-2020-q6",
+      "aupho-2020-q7",
+      "aupho-2020-q8",
+      "aupho-2020-q9"
+    ],
     "figure_count": 3,
     "characters": 5546,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2021-s",
@@ -1879,10 +1992,23 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2021_S.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2021-q1",
+      "aupho-2021-q10",
+      "aupho-2021-q2",
+      "aupho-2021-q3",
+      "aupho-2021-q4",
+      "aupho-2021-q5",
+      "aupho-2021-q6",
+      "aupho-2021-q7",
+      "aupho-2021-q8",
+      "aupho-2021-q9"
+    ],
     "figure_count": 1,
     "characters": 12326,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2022-s",
@@ -1891,10 +2017,16 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2022_S.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2022-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2022-q1",
+      "aupho-2022-q2",
+      "aupho-2022-q3"
+    ],
     "figure_count": 0,
     "characters": 7672,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2023-s",
@@ -1903,10 +2035,61 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2023_S.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2023-q1",
+      "aupho-2023-q1-23",
+      "aupho-2023-q1-34",
+      "aupho-2023-q1-44",
+      "aupho-2023-q1-5",
+      "aupho-2023-q10",
+      "aupho-2023-q10-32",
+      "aupho-2023-q10-43",
+      "aupho-2023-q11",
+      "aupho-2023-q11-33",
+      "aupho-2023-q12",
+      "aupho-2023-q13",
+      "aupho-2023-q14",
+      "aupho-2023-q15",
+      "aupho-2023-q16",
+      "aupho-2023-q17",
+      "aupho-2023-q18",
+      "aupho-2023-q2",
+      "aupho-2023-q2-24",
+      "aupho-2023-q2-35",
+      "aupho-2023-q2-45",
+      "aupho-2023-q2-6",
+      "aupho-2023-q3",
+      "aupho-2023-q3-25",
+      "aupho-2023-q3-36",
+      "aupho-2023-q3-46",
+      "aupho-2023-q3-7",
+      "aupho-2023-q4",
+      "aupho-2023-q4-26",
+      "aupho-2023-q4-37",
+      "aupho-2023-q4-47",
+      "aupho-2023-q4-8",
+      "aupho-2023-q5",
+      "aupho-2023-q5-27",
+      "aupho-2023-q5-38",
+      "aupho-2023-q5-48",
+      "aupho-2023-q6",
+      "aupho-2023-q6-28",
+      "aupho-2023-q6-39",
+      "aupho-2023-q7",
+      "aupho-2023-q7-29",
+      "aupho-2023-q7-40",
+      "aupho-2023-q8",
+      "aupho-2023-q8-30",
+      "aupho-2023-q8-41",
+      "aupho-2023-q9",
+      "aupho-2023-q9-31",
+      "aupho-2023-q9-42"
+    ],
     "figure_count": 8,
     "characters": 25955,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-aupho-2024-s",
@@ -1915,10 +2098,43 @@
     "source_name": "Australian Physics Olympiad",
     "source_pdf": "cache/phoxiv/aupho/2024_S.pdf",
     "path": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "aupho-2024-q1",
+      "aupho-2024-q1-16",
+      "aupho-2024-q1-24",
+      "aupho-2024-q1-25",
+      "aupho-2024-q1-8",
+      "aupho-2024-q2",
+      "aupho-2024-q2-17",
+      "aupho-2024-q2-26",
+      "aupho-2024-q2-9",
+      "aupho-2024-q3",
+      "aupho-2024-q3-10",
+      "aupho-2024-q3-18",
+      "aupho-2024-q3-27",
+      "aupho-2024-q4",
+      "aupho-2024-q4-11",
+      "aupho-2024-q4-19",
+      "aupho-2024-q4-28",
+      "aupho-2024-q5",
+      "aupho-2024-q5-12",
+      "aupho-2024-q5-20",
+      "aupho-2024-q5-29",
+      "aupho-2024-q6",
+      "aupho-2024-q6-13",
+      "aupho-2024-q6-21",
+      "aupho-2024-q6-30",
+      "aupho-2024-q7",
+      "aupho-2024-q7-14",
+      "aupho-2024-q7-22",
+      "aupho-2024-q8",
+      "aupho-2024-q8-23"
+    ],
     "figure_count": 11,
     "characters": 21923,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-bpho-r1-2001-s",
@@ -3495,10 +3711,69 @@
     "source_name": "Indian National Physics Olympiad",
     "source_pdf": "cache/phoxiv/inpho/2009_S.pdf",
     "path": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "inpho-2009-a1",
+      "inpho-2009-a1-38",
+      "inpho-2009-a10",
+      "inpho-2009-a10-47",
+      "inpho-2009-a11",
+      "inpho-2009-a11-48",
+      "inpho-2009-a12",
+      "inpho-2009-a12-49",
+      "inpho-2009-a13",
+      "inpho-2009-a13-50",
+      "inpho-2009-a14",
+      "inpho-2009-a14-51",
+      "inpho-2009-a15",
+      "inpho-2009-a15-52",
+      "inpho-2009-a16",
+      "inpho-2009-a16-53",
+      "inpho-2009-a17",
+      "inpho-2009-a18",
+      "inpho-2009-a18-55",
+      "inpho-2009-a19",
+      "inpho-2009-a19-56",
+      "inpho-2009-a2",
+      "inpho-2009-a2-39",
+      "inpho-2009-a20",
+      "inpho-2009-a20-57",
+      "inpho-2009-a21",
+      "inpho-2009-a22",
+      "inpho-2009-a23",
+      "inpho-2009-a24",
+      "inpho-2009-a25",
+      "inpho-2009-a26",
+      "inpho-2009-a27",
+      "inpho-2009-a28",
+      "inpho-2009-a29",
+      "inpho-2009-a3",
+      "inpho-2009-a3-40",
+      "inpho-2009-a30",
+      "inpho-2009-a31",
+      "inpho-2009-a32",
+      "inpho-2009-a33",
+      "inpho-2009-a34",
+      "inpho-2009-a35",
+      "inpho-2009-a36",
+      "inpho-2009-a37",
+      "inpho-2009-a38",
+      "inpho-2009-a4",
+      "inpho-2009-a4-41",
+      "inpho-2009-a5",
+      "inpho-2009-a5-42",
+      "inpho-2009-a6",
+      "inpho-2009-a6-43",
+      "inpho-2009-a7",
+      "inpho-2009-a7-44",
+      "inpho-2009-a8",
+      "inpho-2009-a9",
+      "inpho-2009-c1-10"
+    ],
     "figure_count": 2,
     "characters": 3443,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-inpho-2010-s",
@@ -3546,10 +3821,20 @@
     "source_name": "Indian National Physics Olympiad",
     "source_pdf": "cache/phoxiv/inpho/2011_S2.pdf",
     "path": "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "inpho-2011-a1",
+      "inpho-2011-a2",
+      "inpho-2011-a3",
+      "inpho-2011-a4-6",
+      "inpho-2011-a5-7",
+      "inpho-2011-a6",
+      "inpho-2011-a7"
+    ],
     "figure_count": 11,
     "characters": 26701,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "INPhO author solution booklet"
   },
   {
     "id": "solution-ocr-inpho-2012-s",
@@ -3577,10 +3862,18 @@
     "source_name": "Indian National Physics Olympiad",
     "source_pdf": "cache/phoxiv/inpho/2012_S2.pdf",
     "path": "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "inpho-2012-a1",
+      "inpho-2012-a2",
+      "inpho-2012-a3",
+      "inpho-2012-a4-6",
+      "inpho-2012-a5-7"
+    ],
     "figure_count": 0,
     "characters": 14394,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "INPhO author solution booklet"
   },
   {
     "id": "solution-ocr-inpho-2013-s",
@@ -3733,10 +4026,18 @@
     "source_name": "Indian National Physics Olympiad",
     "source_pdf": "cache/phoxiv/inpho/2021_S.pdf",
     "path": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "inpho-2021-a1",
+      "inpho-2021-a2",
+      "inpho-2021-a3",
+      "inpho-2021-a4",
+      "inpho-2021-a5"
+    ],
     "figure_count": 6,
     "characters": 26501,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-inpho-2022-s",
@@ -3842,10 +4143,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1983/T1_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1983-t1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1983"
+    ],
     "figure_count": 11,
     "characters": 34476,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "IPhO 1983 auxiliary part-solution"
   },
   {
     "id": "solution-ocr-ipho-1983-t2-s",
@@ -3854,10 +4159,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1983/T2_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1983-t2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1983"
+    ],
     "figure_count": 4,
     "characters": 24367,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "IPhO 1983 auxiliary part-solution"
   },
   {
     "id": "solution-ocr-ipho-1983-t3-s",
@@ -3866,10 +4175,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1983/T3_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1983-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1983"
+    ],
     "figure_count": 4,
     "characters": 7207,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "IPhO 1983 auxiliary part-solution"
   },
   {
     "id": "solution-ocr-ipho-1983-t4-s",
@@ -3878,10 +4191,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1983/T4_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1983-t4-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1983"
+    ],
     "figure_count": 4,
     "characters": 13427,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "IPhO 1983 auxiliary part-solution"
   },
   {
     "id": "solution-ocr-ipho-1983-t5-s",
@@ -3890,10 +4207,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1983/T5_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1983-t5-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1983"
+    ],
     "figure_count": 3,
     "characters": 2597,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": false,
+    "link_reason": "IPhO 1983 auxiliary part-solution"
   },
   {
     "id": "solution-ocr-ipho-1986-e-s",
@@ -3902,10 +4223,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1986_E_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1986-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1986-1986-e"
+    ],
     "figure_count": 5,
     "characters": 5691,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-1986-t-s",
@@ -3914,10 +4239,16 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1986_T_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1986-t-q1",
+      "ipho-1986-t-q2",
+      "ipho-1986-t-q3"
+    ],
     "figure_count": 16,
     "characters": 15595,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-1992-t1-s",
@@ -4018,10 +4349,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/1997_T_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-1997-t-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-1997-1997-t"
+    ],
     "figure_count": 2,
     "characters": 18289,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-1999-e1-s",
@@ -4129,10 +4464,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2001_E_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2001-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2001-2001-e"
+    ],
     "figure_count": 2,
     "characters": 12517,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2001-t-s",
@@ -4141,10 +4480,16 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2001_T_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2001-t-q1",
+      "ipho-2001-t-q2",
+      "ipho-2001-t-q3"
+    ],
     "figure_count": 3,
     "characters": 14003,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2002-e1-s",
@@ -4513,10 +4858,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2007/T3_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2007-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2007-t3"
+    ],
     "figure_count": 1,
     "characters": 4688,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2008-e1-s",
@@ -4585,10 +4934,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2009/E1_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2009-e1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2009-e1"
+    ],
     "figure_count": 3,
     "characters": 11059,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2009-e2-s",
@@ -4597,10 +4950,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2009/E2_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2009-e2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2009-e2"
+    ],
     "figure_count": 7,
     "characters": 10699,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2009-t1-s",
@@ -4639,10 +4996,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2009/T3_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2009-t3-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2009-t3"
+    ],
     "figure_count": 0,
     "characters": 6224,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2010-e1-s",
@@ -5046,10 +5407,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2016/E1_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2016-e1-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2016-e1"
+    ],
     "figure_count": 7,
     "characters": 4793,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2016-e2-s",
@@ -5133,10 +5498,14 @@
     "source_name": "International Physics Olympiad",
     "source_pdf": "cache/phoxiv/ipho/2017/E2_S.pdf",
     "path": "content/corpus/solution_ocr/ipho/ipho-2017-e2-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "ipho-2017-e2"
+    ],
     "figure_count": 3,
     "characters": 15404,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-ipho-2017-t1-s",
@@ -5737,10 +6106,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2012_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2012-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2012-2012-e"
+    ],
     "figure_count": 8,
     "characters": 18707,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2012-t-s",
@@ -5783,10 +6156,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2014_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2014-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2014-2014-e"
+    ],
     "figure_count": 6,
     "characters": 9779,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2014-t-s",
@@ -5812,10 +6189,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2015_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2015-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2015-2015-e"
+    ],
     "figure_count": 6,
     "characters": 14258,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2015-t-s",
@@ -5841,10 +6222,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2016_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2016-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2016-2016-e"
+    ],
     "figure_count": 5,
     "characters": 4453,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2016-t-s",
@@ -5870,10 +6255,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2017_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2017-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2017-2017-e"
+    ],
     "figure_count": 7,
     "characters": 14033,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2017-t-s",
@@ -5928,10 +6317,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2019_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2019-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2019-2019-e"
+    ],
     "figure_count": 5,
     "characters": 13114,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2019-t-s",
@@ -5957,10 +6350,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2020_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2020-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2020-2020-e"
+    ],
     "figure_count": 8,
     "characters": 12044,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2020-t-s",
@@ -5986,10 +6383,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2021_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2021-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2021-2021-e"
+    ],
     "figure_count": 2,
     "characters": 22259,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2021-t-s",
@@ -6015,10 +6416,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2022_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2022-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2022-2022-e"
+    ],
     "figure_count": 6,
     "characters": 25581,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2022-t-s",
@@ -6044,10 +6449,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2023_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2023-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2023-2023-e"
+    ],
     "figure_count": 12,
     "characters": 51991,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2023-t-s",
@@ -6100,10 +6509,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2025_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2025-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2025-2025-e"
+    ],
     "figure_count": 5,
     "characters": 12146,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2025-t-s",
@@ -6129,10 +6542,14 @@
     "source_name": "International Zhautykov Olympiad",
     "source_pdf": "cache/phoxiv/izho/2026_E_S.pdf",
     "path": "content/corpus/solution_ocr/izho/izho-2026-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "izho-2026-2026-e"
+    ],
     "figure_count": 9,
     "characters": 23866,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-izho-2026-t-s",
@@ -9990,10 +10407,17 @@
     "source_name": "Singapore IPhO/APhO TST",
     "source_pdf": "cache/phoxiv/spot/2017_S.pdf",
     "path": "content/corpus/solution_ocr/spot/spot-2017-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "spot-2017-q5-7",
+      "spot-2017-q6",
+      "spot-2017-q7",
+      "spot-2017-q8-10"
+    ],
     "figure_count": 0,
     "characters": 12769,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-spot-2018-s",
@@ -10002,10 +10426,19 @@
     "source_name": "Singapore IPhO/APhO TST",
     "source_pdf": "cache/phoxiv/spot/2018_S.pdf",
     "path": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "spot-2018-q2",
+      "spot-2018-q3",
+      "spot-2018-q4",
+      "spot-2018-q5",
+      "spot-2018-q6",
+      "spot-2018-q7"
+    ],
     "figure_count": 1,
     "characters": 11639,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-spot-2019-s",
@@ -10056,10 +10489,21 @@
     "source_name": "Singapore IPhO/APhO TST",
     "source_pdf": "cache/phoxiv/spot/2023_S.pdf",
     "path": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "spot-2023-q1",
+      "spot-2023-q2",
+      "spot-2023-q3",
+      "spot-2023-q4",
+      "spot-2023-q5",
+      "spot-2023-q6",
+      "spot-2023-q7",
+      "spot-2023-q8"
+    ],
     "figure_count": 5,
     "characters": 47369,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-spot-2024-s",
@@ -10470,10 +10914,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2014_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2014-a1",
+      "usapho-2014-a2",
+      "usapho-2014-a3",
+      "usapho-2014-a4",
+      "usapho-2014-b1",
+      "usapho-2014-b2"
+    ],
     "figure_count": 17,
     "characters": 38643,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2015-s",
@@ -10482,10 +10935,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2015_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2015-a1",
+      "usapho-2015-a2",
+      "usapho-2015-a3",
+      "usapho-2015-a4",
+      "usapho-2015-b1",
+      "usapho-2015-b2"
+    ],
     "figure_count": 16,
     "characters": 35925,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2016-s",
@@ -10494,10 +10956,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2016_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2016-a1",
+      "usapho-2016-a2",
+      "usapho-2016-a3",
+      "usapho-2016-a4",
+      "usapho-2016-b1",
+      "usapho-2016-b2"
+    ],
     "figure_count": 13,
     "characters": 36216,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2017-s",
@@ -10506,10 +10977,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2017_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2017-a1",
+      "usapho-2017-a2",
+      "usapho-2017-a3",
+      "usapho-2017-a4",
+      "usapho-2017-b1",
+      "usapho-2017-b2"
+    ],
     "figure_count": 13,
     "characters": 46103,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2018-s",
@@ -10518,10 +10998,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2018_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2018-a1",
+      "usapho-2018-a2",
+      "usapho-2018-a3",
+      "usapho-2018-b1",
+      "usapho-2018-b2",
+      "usapho-2018-b3"
+    ],
     "figure_count": 11,
     "characters": 32062,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2019-s",
@@ -10530,10 +11019,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2019_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2019-a1",
+      "usapho-2019-a2",
+      "usapho-2019-a3",
+      "usapho-2019-b1",
+      "usapho-2019-b2",
+      "usapho-2019-b3"
+    ],
     "figure_count": 10,
     "characters": 41978,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2020-s",
@@ -10582,10 +11080,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2022_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2022-a1",
+      "usapho-2022-a2",
+      "usapho-2022-a3",
+      "usapho-2022-b1",
+      "usapho-2022-b2",
+      "usapho-2022-b3"
+    ],
     "figure_count": 7,
     "characters": 40684,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2023-s",
@@ -10594,10 +11101,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2023_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2023-a1",
+      "usapho-2023-a2",
+      "usapho-2023-a3",
+      "usapho-2023-b1",
+      "usapho-2023-b2",
+      "usapho-2023-b3"
+    ],
     "figure_count": 8,
     "characters": 45979,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2024-s",
@@ -10606,10 +11122,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2024_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2024-a1",
+      "usapho-2024-a2",
+      "usapho-2024-a3",
+      "usapho-2024-b1",
+      "usapho-2024-b2",
+      "usapho-2024-b3"
+    ],
     "figure_count": 4,
     "characters": 42645,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usapho-2025-s",
@@ -10618,10 +11143,19 @@
     "source_name": "USA Physics Olympiad",
     "source_pdf": "cache/phoxiv/usapho/2025_S.pdf",
     "path": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usapho-2025-qa1",
+      "usapho-2025-qa2",
+      "usapho-2025-qa3",
+      "usapho-2025-qb1",
+      "usapho-2025-qb2",
+      "usapho-2025-qb3"
+    ],
     "figure_count": 6,
     "characters": 41731,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usatst-2021-t-s",
@@ -10630,10 +11164,16 @@
     "source_name": "USA Team Selection Test",
     "source_pdf": "cache/phoxiv/usatst/2021_T_S.pdf",
     "path": "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usatst-2021-q1",
+      "usatst-2021-q2",
+      "usatst-2021-q3"
+    ],
     "figure_count": 7,
     "characters": 36648,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usatst-2022-e-s",
@@ -10642,10 +11182,17 @@
     "source_name": "USA Team Selection Test",
     "source_pdf": "cache/phoxiv/usatst/2022_E_S.pdf",
     "path": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usatst-2022-q1",
+      "usatst-2022-q2",
+      "usatst-2022-q4",
+      "usatst-2022-q4-3"
+    ],
     "figure_count": 3,
     "characters": 16743,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   },
   {
     "id": "solution-ocr-usatst-2022-t-s",
@@ -10654,9 +11201,21 @@
     "source_name": "USA Team Selection Test",
     "source_pdf": "cache/phoxiv/usatst/2022_T_S.pdf",
     "path": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
-    "mapped_problems": [],
+    "mapped_problems": [
+      "usatst-2022-q1-6",
+      "usatst-2022-q1-9",
+      "usatst-2022-q2-10",
+      "usatst-2022-q2-7",
+      "usatst-2022-q3",
+      "usatst-2022-q3-11",
+      "usatst-2022-q3-8",
+      "usatst-2022-q4-12",
+      "usatst-2022-q5"
+    ],
     "figure_count": 8,
     "characters": 34043,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true,
+    "link_reason": "source-document match"
   }
 ]

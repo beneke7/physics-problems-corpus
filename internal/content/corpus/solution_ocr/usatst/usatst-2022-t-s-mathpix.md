@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/usatst/2022_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [usatst-2022-q1-6, usatst-2022-q1-9, usatst-2022-q2-10, usatst-2022-q2-7, usatst-2022-q3, usatst-2022-q3-11, usatst-2022-q3-8, usatst-2022-q4-12, usatst-2022-q5]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ![](../../../figures/solution-ocr/56b5ecbc28354b4a9008e980.jpg)
 

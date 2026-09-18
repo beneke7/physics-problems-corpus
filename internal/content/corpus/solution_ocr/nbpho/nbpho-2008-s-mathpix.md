@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2008_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2008-dumbbell, nbpho-2008-electron, nbpho-2008-fire, nbpho-2008-magnetic-field, nbpho-2008-microcalorimeter, nbpho-2008-tractor]
+mapped_problems: [nbpho-2008-asteroid, nbpho-2008-ball, nbpho-2008-dumbbell, nbpho-2008-electron, nbpho-2008-fire, nbpho-2008-glass-plate, nbpho-2008-magnetic-field, nbpho-2008-microcalorimeter, nbpho-2008-rectifier, nbpho-2008-tractor]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

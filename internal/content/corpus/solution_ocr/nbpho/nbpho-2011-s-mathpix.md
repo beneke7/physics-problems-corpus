@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2011_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2011-capacitor, nbpho-2011-charged-cylinder, nbpho-2011-plutonium-decay, nbpho-2011-spool, nbpho-2011-violin-string]
+mapped_problems: [nbpho-2011-black-box, nbpho-2011-capacitor, nbpho-2011-charged-cylinder, nbpho-2011-coefficient-of-refraction, nbpho-2011-heat-sink, nbpho-2011-plutonium-decay, nbpho-2011-spool, nbpho-2011-vacuum-bulb, nbpho-2011-violin-string]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

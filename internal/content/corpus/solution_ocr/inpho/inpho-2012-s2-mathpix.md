@@ -3,12 +3,13 @@ id: solution-ocr-inpho-2012-s2
 source: inpho
 kind: official_solution_document
 language: en
-solution_type: official
+solution_type: author
 source_pdf: cache/phoxiv/inpho/2012_S2.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [inpho-2012-a1, inpho-2012-a2, inpho-2012-a3, inpho-2012-a4-6, inpho-2012-a5-7]
+verification_status: promoted
+canonical_solution: false
+provenance_note: "Mathpix PDF API Markdown conversion; linked as an auxiliary solution without manual proofreading."
 ---
 # 2012 INPhO Solutions
 

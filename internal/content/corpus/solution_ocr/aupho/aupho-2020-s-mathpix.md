@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2020_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [aupho-2020-q1, aupho-2020-q10, aupho-2020-q11, aupho-2020-q12, aupho-2020-q13, aupho-2020-q14, aupho-2020-q15, aupho-2020-q16, aupho-2020-q17, aupho-2020-q18, aupho-2020-q19, aupho-2020-q2, aupho-2020-q20, aupho-2020-q3, aupho-2020-q4, aupho-2020-q5, aupho-2020-q6, aupho-2020-q7, aupho-2020-q8, aupho-2020-q9]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2020 AUSTRALIAN SCIENCE OLYMPIAD EXAM
 PHYSICS_ANSWERS

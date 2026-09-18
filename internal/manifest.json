@@ -1316,7 +1316,9 @@
     "apho-2025-t3": {
       "problem": "content/corpus/problems/apho-2025-t3.md",
       "solution": "content/corpus/solution_ocr/apho/apho-2025-t3-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/apho/apho-2025-t3-s-h-mathpix.md"
+      ],
       "figures": [
         "content/figures/apho/figures/apho-2025-t3-fig01.png",
         "content/figures/apho/figures/apho-2025-t3-fig02.png",
@@ -1350,7 +1352,9 @@
         "content/figures/apho/figures/apho-2024-2024-e-fig19.png",
         "content/figures/apho/figures/apho-2024-2024-e-fig20.png"
       ],
-      "figure_count": 20
+      "figure_count": 20,
+      "solution": "content/corpus/solution_ocr/apho/apho-2024-e-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2024-t-q1": {
       "problem": "content/corpus/problems/apho-2024-t-q1.md",
@@ -1796,7 +1800,9 @@
         "content/figures/apho/figures/apho-2016-e2-fig14.png",
         "content/figures/apho/figures/apho-2016-e2-fig15.png"
       ],
-      "figure_count": 15
+      "figure_count": 15,
+      "solution": "content/corpus/solution_ocr/apho/apho-2016-e2-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2016-t1": {
       "problem": "content/corpus/problems/apho-2016-t1.md",
@@ -1806,7 +1812,9 @@
         "content/figures/apho/figures/apho-2016-t1-fig03.png",
         "content/figures/apho/figures/apho-2016-t1-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/apho/apho-2016-t1-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2016-t2": {
       "problem": "content/corpus/problems/apho-2016-t2.md",
@@ -1814,7 +1822,9 @@
         "content/figures/apho/figures/apho-2016-t2-fig01.png",
         "content/figures/apho/figures/apho-2016-t2-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/apho/apho-2016-t2-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2016-t3": {
       "problem": "content/corpus/problems/apho-2016-t3.md",
@@ -1824,7 +1834,9 @@
         "content/figures/apho/figures/apho-2016-t3-fig03.png",
         "content/figures/apho/figures/apho-2016-t3-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/apho/apho-2016-t3-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2015-e1": {
       "problem": "content/corpus/problems/apho-2015-e1.md",
@@ -1846,7 +1858,9 @@
         "content/figures/apho/figures/apho-2015-e1-fig15.png",
         "content/figures/apho/figures/apho-2015-e1-fig16.png"
       ],
-      "figure_count": 16
+      "figure_count": 16,
+      "solution": "content/corpus/solution_ocr/apho/apho-2015-e1-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2015-t1": {
       "problem": "content/corpus/problems/apho-2015-t1.md",
@@ -1898,7 +1912,9 @@
         "content/figures/apho/figures/apho-2014-e1-fig07.png",
         "content/figures/apho/figures/apho-2014-e1-fig08.png"
       ],
-      "figure_count": 8
+      "figure_count": 8,
+      "solution": "content/corpus/solution_ocr/apho/apho-2014-e1-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2014-t1": {
       "problem": "content/corpus/problems/apho-2014-t1.md",
@@ -2188,7 +2204,9 @@
         "content/figures/apho/figures/apho-2009-e-q1-fig02.png",
         "content/figures/apho/figures/apho-2009-e-q1-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/apho/apho-2009-e1-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2009-e-q2": {
       "problem": "content/corpus/problems/apho-2009-e-q2.md",
@@ -2200,21 +2218,27 @@
         "content/figures/apho/figures/apho-2009-e-q2-fig05.png",
         "content/figures/apho/figures/apho-2009-e-q2-fig06.png"
       ],
-      "figure_count": 6
+      "figure_count": 6,
+      "solution": "content/corpus/solution_ocr/apho/apho-2009-e2-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2009-t-q1": {
       "problem": "content/corpus/problems/apho-2009-t-q1.md",
       "figures": [
         "content/figures/apho/figures/apho-2009-t-q1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/apho/apho-2009-t1-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2009-t-q2": {
       "problem": "content/corpus/problems/apho-2009-t-q2.md",
       "figures": [
         "content/figures/apho/figures/apho-2009-t-q2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/apho/apho-2009-t2-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2009-t-q3": {
       "problem": "content/corpus/problems/apho-2009-t-q3.md",
@@ -2222,7 +2246,9 @@
         "content/figures/apho/figures/apho-2009-t-q3-fig01.png",
         "content/figures/apho/figures/apho-2009-t-q3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/apho/apho-2009-t3-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2008-e1": {
       "problem": "content/corpus/problems/apho-2008-e1.md",
@@ -2269,7 +2295,9 @@
         "content/figures/apho/figures/apho-2008-t3-fig02.png",
         "content/figures/apho/figures/apho-2008-t3-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/apho/apho-2008-t3-s-mathpix.md",
+      "solution_documents": []
     },
     "apho-2007-e1": {
       "problem": "content/corpus/problems/apho-2007-e1.md",
@@ -2631,11 +2659,15 @@
     },
     "aupho-2024-q1": {
       "problem": "content/corpus/problems/aupho-2024-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q1-16": {
       "problem": "content/corpus/problems/aupho-2024-q1-16.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q1-24": {
       "problem": "content/corpus/problems/aupho-2024-q1-24.md",
@@ -2644,7 +2676,9 @@
         "content/figures/aupho/figures/aupho-2024-q1-24-fig02.png",
         "content/figures/aupho/figures/aupho-2024-q1-24-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q1-25": {
       "problem": "content/corpus/problems/aupho-2024-q1-25.md",
@@ -2653,19 +2687,27 @@
         "content/figures/aupho/figures/aupho-2024-q1-25-fig02.png",
         "content/figures/aupho/figures/aupho-2024-q1-25-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q1-8": {
       "problem": "content/corpus/problems/aupho-2024-q1-8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q2": {
       "problem": "content/corpus/problems/aupho-2024-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q2-17": {
       "problem": "content/corpus/problems/aupho-2024-q2-17.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q2-26": {
       "problem": "content/corpus/problems/aupho-2024-q2-26.md",
@@ -2673,93 +2715,135 @@
         "content/figures/aupho/figures/aupho-2024-q2-26-fig01.png",
         "content/figures/aupho/figures/aupho-2024-q2-26-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q2-9": {
       "problem": "content/corpus/problems/aupho-2024-q2-9.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q3": {
       "problem": "content/corpus/problems/aupho-2024-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q3-10": {
       "problem": "content/corpus/problems/aupho-2024-q3-10.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q3-18": {
       "problem": "content/corpus/problems/aupho-2024-q3-18.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q3-27": {
       "problem": "content/corpus/problems/aupho-2024-q3-27.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q4": {
       "problem": "content/corpus/problems/aupho-2024-q4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q4-11": {
       "problem": "content/corpus/problems/aupho-2024-q4-11.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q4-19": {
       "problem": "content/corpus/problems/aupho-2024-q4-19.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q4-28": {
       "problem": "content/corpus/problems/aupho-2024-q4-28.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2024-q4-28-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q5": {
       "problem": "content/corpus/problems/aupho-2024-q5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q6": {
       "problem": "content/corpus/problems/aupho-2024-q6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q5-12": {
       "problem": "content/corpus/problems/aupho-2024-q5-12.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q5-20": {
       "problem": "content/corpus/problems/aupho-2024-q5-20.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q5-29": {
       "problem": "content/corpus/problems/aupho-2024-q5-29.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q6-13": {
       "problem": "content/corpus/problems/aupho-2024-q6-13.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q6-21": {
       "problem": "content/corpus/problems/aupho-2024-q6-21.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q6-30": {
       "problem": "content/corpus/problems/aupho-2024-q6-30.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q7": {
       "problem": "content/corpus/problems/aupho-2024-q7.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2024-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q7-14": {
       "problem": "content/corpus/problems/aupho-2024-q7-14.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q7-22": {
       "problem": "content/corpus/problems/aupho-2024-q7-22.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q8": {
       "problem": "content/corpus/problems/aupho-2024-q8.md",
@@ -2767,7 +2851,9 @@
         "content/figures/aupho/figures/aupho-2024-q8-fig01.png",
         "content/figures/aupho/figures/aupho-2024-q8-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2024-q8-23": {
       "problem": "content/corpus/problems/aupho-2024-q8-23.md",
@@ -2775,26 +2861,36 @@
         "content/figures/aupho/figures/aupho-2024-q8-23-fig01.png",
         "content/figures/aupho/figures/aupho-2024-q8-23-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q1": {
       "problem": "content/corpus/problems/aupho-2023-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q1-23": {
       "problem": "content/corpus/problems/aupho-2023-q1-23.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q1-34": {
       "problem": "content/corpus/problems/aupho-2023-q1-34.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q1-44": {
       "problem": "content/corpus/problems/aupho-2023-q1-44.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q1-44-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q1-5": {
       "problem": "content/corpus/problems/aupho-2023-q1-5.md",
@@ -2802,18 +2898,24 @@
         "content/figures/aupho/figures/aupho-2023-q1-5-fig01.png",
         "content/figures/aupho/figures/aupho-2023-q1-5-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q10": {
       "problem": "content/corpus/problems/aupho-2023-q10.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q10-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q10-32": {
       "problem": "content/corpus/problems/aupho-2023-q10-32.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q10-43": {
       "problem": "content/corpus/problems/aupho-2023-q10-43.md",
@@ -2821,7 +2923,9 @@
         "content/figures/aupho/figures/aupho-2023-q10-43-fig01.png",
         "content/figures/aupho/figures/aupho-2023-q10-43-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q11": {
       "problem": "content/corpus/problems/aupho-2023-q11.md",
@@ -2830,7 +2934,9 @@
         "content/figures/aupho/figures/aupho-2023-q11-fig02.png",
         "content/figures/aupho/figures/aupho-2023-q11-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q11-33": {
       "problem": "content/corpus/problems/aupho-2023-q11-33.md",
@@ -2852,34 +2958,48 @@
         "content/figures/aupho/figures/aupho-2023-q11-33-fig15.png",
         "content/figures/aupho/figures/aupho-2023-q11-33-fig16.png"
       ],
-      "figure_count": 16
+      "figure_count": 16,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q12": {
       "problem": "content/corpus/problems/aupho-2023-q12.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q13": {
       "problem": "content/corpus/problems/aupho-2023-q13.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q14": {
       "problem": "content/corpus/problems/aupho-2023-q14.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q14-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q15": {
       "problem": "content/corpus/problems/aupho-2023-q15.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q16": {
       "problem": "content/corpus/problems/aupho-2023-q16.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q17": {
       "problem": "content/corpus/problems/aupho-2023-q17.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q18": {
       "problem": "content/corpus/problems/aupho-2023-q18.md",
@@ -2888,64 +3008,90 @@
         "content/figures/aupho/figures/aupho-2023-q18-fig02.png",
         "content/figures/aupho/figures/aupho-2023-q18-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q2": {
       "problem": "content/corpus/problems/aupho-2023-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q2-24": {
       "problem": "content/corpus/problems/aupho-2023-q2-24.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q2-35": {
       "problem": "content/corpus/problems/aupho-2023-q2-35.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q2-35-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q2-45": {
       "problem": "content/corpus/problems/aupho-2023-q2-45.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q2-45-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q2-6": {
       "problem": "content/corpus/problems/aupho-2023-q2-6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q3": {
       "problem": "content/corpus/problems/aupho-2023-q3.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q3-25": {
       "problem": "content/corpus/problems/aupho-2023-q3-25.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q3-36": {
       "problem": "content/corpus/problems/aupho-2023-q3-36.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q3-46": {
       "problem": "content/corpus/problems/aupho-2023-q3-46.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q3-7": {
       "problem": "content/corpus/problems/aupho-2023-q3-7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q4-26": {
       "problem": "content/corpus/problems/aupho-2023-q4-26.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q5-27": {
       "problem": "content/corpus/problems/aupho-2023-q5-27.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q4": {
       "problem": "content/corpus/problems/aupho-2023-q4.md",
@@ -2955,116 +3101,162 @@
         "content/figures/aupho/figures/aupho-2023-q4-fig03.png",
         "content/figures/aupho/figures/aupho-2023-q4-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q4-37": {
       "problem": "content/corpus/problems/aupho-2023-q4-37.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q4-47": {
       "problem": "content/corpus/problems/aupho-2023-q4-47.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q4-8": {
       "problem": "content/corpus/problems/aupho-2023-q4-8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q5": {
       "problem": "content/corpus/problems/aupho-2023-q5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q5-38": {
       "problem": "content/corpus/problems/aupho-2023-q5-38.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q5-48": {
       "problem": "content/corpus/problems/aupho-2023-q5-48.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q5-48-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q6": {
       "problem": "content/corpus/problems/aupho-2023-q6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q6-28": {
       "problem": "content/corpus/problems/aupho-2023-q6-28.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q6-28-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q6-39": {
       "problem": "content/corpus/problems/aupho-2023-q6-39.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q7": {
       "problem": "content/corpus/problems/aupho-2023-q7.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q7-29": {
       "problem": "content/corpus/problems/aupho-2023-q7-29.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q7-40": {
       "problem": "content/corpus/problems/aupho-2023-q7-40.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q8": {
       "problem": "content/corpus/problems/aupho-2023-q8.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q8-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q8-30": {
       "problem": "content/corpus/problems/aupho-2023-q8-30.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q8-30-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q8-41": {
       "problem": "content/corpus/problems/aupho-2023-q8-41.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q9": {
       "problem": "content/corpus/problems/aupho-2023-q9.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q9-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q9-31": {
       "problem": "content/corpus/problems/aupho-2023-q9-31.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2023-q9-31-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2023-q9-42": {
       "problem": "content/corpus/problems/aupho-2023-q9-42.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2022-q1": {
       "problem": "content/corpus/problems/aupho-2022-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2022-q2": {
       "problem": "content/corpus/problems/aupho-2022-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2022-q3": {
       "problem": "content/corpus/problems/aupho-2022-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q1": {
       "problem": "content/corpus/problems/aupho-2021-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q10": {
       "problem": "content/corpus/problems/aupho-2021-q10.md",
@@ -3084,82 +3276,114 @@
         "content/figures/aupho/figures/aupho-2021-q10-fig13.png",
         "content/figures/aupho/figures/aupho-2021-q10-fig14.png"
       ],
-      "figure_count": 14
+      "figure_count": 14,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q2": {
       "problem": "content/corpus/problems/aupho-2021-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q3": {
       "problem": "content/corpus/problems/aupho-2021-q3.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2021-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q4": {
       "problem": "content/corpus/problems/aupho-2021-q4.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2021-q4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q5": {
       "problem": "content/corpus/problems/aupho-2021-q5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q6": {
       "problem": "content/corpus/problems/aupho-2021-q6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q7": {
       "problem": "content/corpus/problems/aupho-2021-q7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q8": {
       "problem": "content/corpus/problems/aupho-2021-q8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2021-q9": {
       "problem": "content/corpus/problems/aupho-2021-q9.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q1": {
       "problem": "content/corpus/problems/aupho-2020-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q10": {
       "problem": "content/corpus/problems/aupho-2020-q10.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2020-q10-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q11": {
       "problem": "content/corpus/problems/aupho-2020-q11.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q12": {
       "problem": "content/corpus/problems/aupho-2020-q12.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q13": {
       "problem": "content/corpus/problems/aupho-2020-q13.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q14": {
       "problem": "content/corpus/problems/aupho-2020-q14.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2020-q14-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q15": {
       "problem": "content/corpus/problems/aupho-2020-q15.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2020-q15-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q16": {
       "problem": "content/corpus/problems/aupho-2020-q16.md",
@@ -3167,7 +3391,9 @@
         "content/figures/aupho/figures/aupho-2020-q16-fig01.png",
         "content/figures/aupho/figures/aupho-2020-q16-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q17": {
       "problem": "content/corpus/problems/aupho-2020-q17.md",
@@ -3175,53 +3401,75 @@
         "content/figures/aupho/figures/aupho-2020-q17-fig01.png",
         "content/figures/aupho/figures/aupho-2020-q17-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q18": {
       "problem": "content/corpus/problems/aupho-2020-q18.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2020-q18-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q19": {
       "problem": "content/corpus/problems/aupho-2020-q19.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q2": {
       "problem": "content/corpus/problems/aupho-2020-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q20": {
       "problem": "content/corpus/problems/aupho-2020-q20.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q3": {
       "problem": "content/corpus/problems/aupho-2020-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q4": {
       "problem": "content/corpus/problems/aupho-2020-q4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q5": {
       "problem": "content/corpus/problems/aupho-2020-q5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q6": {
       "problem": "content/corpus/problems/aupho-2020-q6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q7": {
       "problem": "content/corpus/problems/aupho-2020-q7.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2020-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q8": {
       "problem": "content/corpus/problems/aupho-2020-q8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2020-q9": {
       "problem": "content/corpus/problems/aupho-2020-q9.md",
@@ -3232,7 +3480,9 @@
         "content/figures/aupho/figures/aupho-2020-q9-fig04.png",
         "content/figures/aupho/figures/aupho-2020-q9-fig05.png"
       ],
-      "figure_count": 5
+      "figure_count": 5,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2020-s-mathpix.md",
+      "solution_documents": []
     },
     "aupho-2019-q1": {
       "problem": "content/corpus/problems/aupho-2019-q1.md",
@@ -4276,74 +4526,130 @@
     },
     "aupho-2008-q1": {
       "problem": "content/corpus/problems/aupho-2008-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q11": {
       "problem": "content/corpus/problems/aupho-2008-q11.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q12": {
       "problem": "content/corpus/problems/aupho-2008-q12.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q13": {
       "problem": "content/corpus/problems/aupho-2008-q13.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2008-q13-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q14": {
       "problem": "content/corpus/problems/aupho-2008-q14.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2008-q14-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q15": {
       "problem": "content/corpus/problems/aupho-2008-q15.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q16": {
       "problem": "content/corpus/problems/aupho-2008-q16.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2008-q16-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q2": {
       "problem": "content/corpus/problems/aupho-2008-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q3": {
       "problem": "content/corpus/problems/aupho-2008-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q4": {
       "problem": "content/corpus/problems/aupho-2008-q4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q6": {
       "problem": "content/corpus/problems/aupho-2008-q6.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2008-q6-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q7": {
       "problem": "content/corpus/problems/aupho-2008-q7.md",
       "figures": [
         "content/figures/aupho/figures/aupho-2008-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q8": {
       "problem": "content/corpus/problems/aupho-2008-q8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2008-q9": {
       "problem": "content/corpus/problems/aupho-2008-q9.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/aupho/aupho-2008-s-a-mathpix.md",
+      "solution_documents": [
+        "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md"
+      ]
     },
     "aupho-2007-q1": {
       "problem": "content/corpus/problems/aupho-2007-q1.md",
@@ -8454,26 +8760,36 @@
       "figures": [
         "content/figures/inpho/figures/inpho-2021-a1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2021-a2": {
       "problem": "content/corpus/problems/inpho-2021-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2021-a3": {
       "problem": "content/corpus/problems/inpho-2021-a3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2021-a4": {
       "problem": "content/corpus/problems/inpho-2021-a4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2021-a5": {
       "problem": "content/corpus/problems/inpho-2021-a5.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2021-a5-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2021-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2020-a1": {
       "problem": "content/corpus/problems/inpho-2020-a1.md",
@@ -8853,7 +9169,9 @@
     "inpho-2012-a1": {
       "problem": "content/corpus/problems/inpho-2012-a1.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md"
+      ],
       "figures": [
         "content/figures/inpho/figures/inpho-2012-a1-fig01.png",
         "content/figures/inpho/figures/inpho-2012-a1-fig02.png"
@@ -8863,31 +9181,41 @@
     "inpho-2012-a2": {
       "problem": "content/corpus/problems/inpho-2012-a2.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2012-a3": {
       "problem": "content/corpus/problems/inpho-2012-a3.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2012-a4-6": {
       "problem": "content/corpus/problems/inpho-2012-a4-6.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2012-a5-7": {
       "problem": "content/corpus/problems/inpho-2012-a5-7.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2012-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2011-a1": {
       "problem": "content/corpus/problems/inpho-2011-a1.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figures": [
         "content/figures/inpho/figures/inpho-2011-a1-fig01.png"
       ],
@@ -8898,12 +9226,17 @@
       "figures": [
         "content/figures/inpho/figures/inpho-2011-a2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ]
     },
     "inpho-2011-a3": {
       "problem": "content/corpus/problems/inpho-2011-a3.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figures": [
         "content/figures/inpho/figures/inpho-2011-a3-fig01.png"
       ],
@@ -8912,19 +9245,25 @@
     "inpho-2011-a4-6": {
       "problem": "content/corpus/problems/inpho-2011-a4-6.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2011-a5-7": {
       "problem": "content/corpus/problems/inpho-2011-a5-7.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2011-a6": {
       "problem": "content/corpus/problems/inpho-2011-a6.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figures": [
         "content/figures/inpho/figures/inpho-2011-a6-fig01.png"
       ],
@@ -8933,7 +9272,9 @@
     "inpho-2011-a7": {
       "problem": "content/corpus/problems/inpho-2011-a7.md",
       "solution": "content/corpus/solution_ocr/inpho/inpho-2011-s-mathpix.md",
-      "solution_documents": [],
+      "solution_documents": [
+        "content/corpus/solution_ocr/inpho/inpho-2011-s2-mathpix.md"
+      ],
       "figure_count": 0
     },
     "inpho-2010-a1": {
@@ -9105,29 +9446,39 @@
     },
     "inpho-2009-a1": {
       "problem": "content/corpus/problems/inpho-2009-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a1-38": {
       "problem": "content/corpus/problems/inpho-2009-a1-38.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a1-38-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a10": {
       "problem": "content/corpus/problems/inpho-2009-a10.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a10-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a10-47": {
       "problem": "content/corpus/problems/inpho-2009-a10-47.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a11": {
       "problem": "content/corpus/problems/inpho-2009-a11.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a11-48": {
       "problem": "content/corpus/problems/inpho-2009-a11-48.md",
@@ -9135,29 +9486,39 @@
         "content/figures/inpho/figures/inpho-2009-a11-48-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a11-48-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a12": {
       "problem": "content/corpus/problems/inpho-2009-a12.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a12-49": {
       "problem": "content/corpus/problems/inpho-2009-a12-49.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a13": {
       "problem": "content/corpus/problems/inpho-2009-a13.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a13-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a13-50": {
       "problem": "content/corpus/problems/inpho-2009-a13-50.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a13-50-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a14": {
       "problem": "content/corpus/problems/inpho-2009-a14.md",
@@ -9165,7 +9526,9 @@
         "content/figures/inpho/figures/inpho-2009-a14-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a14-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a14-51": {
       "problem": "content/corpus/problems/inpho-2009-a14-51.md",
@@ -9173,32 +9536,42 @@
         "content/figures/inpho/figures/inpho-2009-a14-51-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a14-51-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a15": {
       "problem": "content/corpus/problems/inpho-2009-a15.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a15-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a15-52": {
       "problem": "content/corpus/problems/inpho-2009-a15-52.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a15-52-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a16": {
       "problem": "content/corpus/problems/inpho-2009-a16.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a16-53": {
       "problem": "content/corpus/problems/inpho-2009-a16-53.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a16-53-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a17": {
       "problem": "content/corpus/problems/inpho-2009-a17.md",
@@ -9207,25 +9580,33 @@
         "content/figures/inpho/figures/inpho-2009-a17-fig02.png",
         "content/figures/inpho/figures/inpho-2009-a17-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a18": {
       "problem": "content/corpus/problems/inpho-2009-a18.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a18-55": {
       "problem": "content/corpus/problems/inpho-2009-a18-55.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a18-55-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a19": {
       "problem": "content/corpus/problems/inpho-2009-a19.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a19-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a19-56": {
       "problem": "content/corpus/problems/inpho-2009-a19-56.md",
@@ -9233,146 +9614,198 @@
         "content/figures/inpho/figures/inpho-2009-a19-56-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a19-56-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a2": {
       "problem": "content/corpus/problems/inpho-2009-a2.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a2-39": {
       "problem": "content/corpus/problems/inpho-2009-a2-39.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a2-39-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a20": {
       "problem": "content/corpus/problems/inpho-2009-a20.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a20-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a20-57": {
       "problem": "content/corpus/problems/inpho-2009-a20-57.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a20-57-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a21": {
       "problem": "content/corpus/problems/inpho-2009-a21.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a21-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a22": {
       "problem": "content/corpus/problems/inpho-2009-a22.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a22-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a23": {
       "problem": "content/corpus/problems/inpho-2009-a23.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a23-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a24": {
       "problem": "content/corpus/problems/inpho-2009-a24.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a25": {
       "problem": "content/corpus/problems/inpho-2009-a25.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a26": {
       "problem": "content/corpus/problems/inpho-2009-a26.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a27": {
       "problem": "content/corpus/problems/inpho-2009-a27.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a28": {
       "problem": "content/corpus/problems/inpho-2009-a28.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a28-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a29": {
       "problem": "content/corpus/problems/inpho-2009-a29.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a3": {
       "problem": "content/corpus/problems/inpho-2009-a3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a3-40": {
       "problem": "content/corpus/problems/inpho-2009-a3-40.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a3-40-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a30": {
       "problem": "content/corpus/problems/inpho-2009-a30.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a30-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a31": {
       "problem": "content/corpus/problems/inpho-2009-a31.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a32": {
       "problem": "content/corpus/problems/inpho-2009-a32.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a33": {
       "problem": "content/corpus/problems/inpho-2009-a33.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a33-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a34": {
       "problem": "content/corpus/problems/inpho-2009-a34.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a35": {
       "problem": "content/corpus/problems/inpho-2009-a35.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a36": {
       "problem": "content/corpus/problems/inpho-2009-a36.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a37": {
       "problem": "content/corpus/problems/inpho-2009-a37.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a37-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a38": {
       "problem": "content/corpus/problems/inpho-2009-a38.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a4": {
       "problem": "content/corpus/problems/inpho-2009-a4.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a4-41": {
       "problem": "content/corpus/problems/inpho-2009-a4-41.md",
@@ -9382,22 +9815,30 @@
         "content/figures/inpho/figures/inpho-2009-a4-41-fig03.png",
         "content/figures/inpho/figures/inpho-2009-a4-41-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a5": {
       "problem": "content/corpus/problems/inpho-2009-a5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a5-42": {
       "problem": "content/corpus/problems/inpho-2009-a5-42.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a6": {
       "problem": "content/corpus/problems/inpho-2009-a6.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a6-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a6-43": {
       "problem": "content/corpus/problems/inpho-2009-a6-43.md",
@@ -9405,11 +9846,15 @@
         "content/figures/inpho/figures/inpho-2009-a6-43-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a6-43-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a7": {
       "problem": "content/corpus/problems/inpho-2009-a7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a7-44": {
       "problem": "content/corpus/problems/inpho-2009-a7-44.md",
@@ -9417,22 +9862,30 @@
         "content/figures/inpho/figures/inpho-2009-a6-43-fig01.png",
         "content/figures/inpho/figures/inpho-2009-a6-43-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a8": {
       "problem": "content/corpus/problems/inpho-2009-a8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-a9": {
       "problem": "content/corpus/problems/inpho-2009-a9.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2009-c1-10": {
       "problem": "content/corpus/problems/inpho-2009-c1-10.md",
       "figures": [
         "content/figures/inpho/figures/inpho-2009-a20-57-fig02.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/inpho/inpho-2009-s-mathpix.md",
+      "solution_documents": []
     },
     "inpho-2008-a1": {
       "problem": "content/corpus/problems/inpho-2008-a1.md",
@@ -10069,7 +10522,9 @@
         "content/figures/ipho/figures/ipho-2017-e2-fig10.png",
         "content/figures/ipho/figures/ipho-2017-e2-fig11.png"
       ],
-      "figure_count": 11
+      "figure_count": 11,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2017-e2-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2017-t1": {
       "problem": "content/corpus/problems/ipho-2017-t1.md",
@@ -10115,7 +10570,9 @@
         "content/figures/ipho/figures/ipho-2016-e1-fig11.png",
         "content/figures/ipho/figures/ipho-2016-e1-fig13.png"
       ],
-      "figure_count": 8
+      "figure_count": 8,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2016-e1-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2016-e1-c": {
       "problem": "content/corpus/problems/ipho-2016-e1-c.md",
@@ -10549,7 +11006,9 @@
         "content/figures/ipho/figures/ipho-2009-e1-fig03.png",
         "content/figures/ipho/figures/ipho-2009-e1-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2009-e1-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2009-e2": {
       "problem": "content/corpus/problems/ipho-2009-e2.md",
@@ -10564,7 +11023,9 @@
         "content/figures/ipho/figures/ipho-2009-e2-fig08.png",
         "content/figures/ipho/figures/ipho-2009-e2-fig09.png"
       ],
-      "figure_count": 9
+      "figure_count": 9,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2009-e2-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2009-t1": {
       "problem": "content/corpus/problems/ipho-2009-t1.md",
@@ -10595,7 +11056,9 @@
         "content/figures/ipho/figures/ipho-2009-t3-fig01.png",
         "content/figures/ipho/figures/ipho-2009-t3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2009-t3-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2008-e1": {
       "problem": "content/corpus/problems/ipho-2008-e1.md",
@@ -10678,7 +11141,9 @@
         "content/figures/ipho/figures/ipho-2007-t3-fig01.png",
         "content/figures/ipho/figures/ipho-2007-t3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2007-t3-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2006-e1": {
       "problem": "content/corpus/problems/ipho-2006-e1.md",
@@ -10917,7 +11382,9 @@
         "content/figures/ipho/figures/ipho-2001-2001-e-fig02.png",
         "content/figures/ipho/figures/ipho-2001-2001-e-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2001-e-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2001-t-q1": {
       "problem": "content/corpus/problems/ipho-2001-t-q1.md",
@@ -10927,7 +11394,9 @@
         "content/figures/ipho/figures/ipho-2001-t-q1-fig03.png",
         "content/figures/ipho/figures/ipho-2001-t-q1-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2001-t-q2": {
       "problem": "content/corpus/problems/ipho-2001-t-q2.md",
@@ -10935,14 +11404,18 @@
         "content/figures/ipho/figures/ipho-2001-t-q2-fig01.png",
         "content/figures/ipho/figures/ipho-2001-t-q2-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2001-t-q3": {
       "problem": "content/corpus/problems/ipho-2001-t-q3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-2001-t-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-2001-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-2000-t2": {
       "problem": "content/corpus/problems/ipho-2000-t2.md",
@@ -11020,7 +11493,9 @@
         "content/figures/ipho/figures/ipho-1997-1997-t-fig03.png",
         "content/figures/ipho/figures/ipho-1997-1997-t-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-1997-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-1996-1996-e": {
       "problem": "content/corpus/problems/ipho-1996-1996-e.md",
@@ -11292,28 +11767,36 @@
         "content/figures/ipho/figures/ipho-1986-1986-e-fig01.png",
         "content/figures/ipho/figures/ipho-1986-1986-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-1986-e-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-1986-t-q1": {
       "problem": "content/corpus/problems/ipho-1986-t-q1.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1986-t-q1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-1986-t-q2": {
       "problem": "content/corpus/problems/ipho-1986-t-q2.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1986-t-q2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-1986-t-q3": {
       "problem": "content/corpus/problems/ipho-1986-t-q3.md",
       "figures": [
         "content/figures/ipho/figures/ipho-1986-t-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/ipho/ipho-1986-t-s-mathpix.md",
+      "solution_documents": []
     },
     "ipho-1985-q1": {
       "problem": "content/corpus/problems/ipho-1985-q1.md",
@@ -11385,7 +11868,14 @@
         "content/figures/ipho/figures/ipho-1983-fig04.png",
         "content/figures/ipho/figures/ipho-1983-fig05.png"
       ],
-      "figure_count": 5
+      "figure_count": 5,
+      "solution_documents": [
+        "content/corpus/solution_ocr/ipho/ipho-1983-t1-s-mathpix.md",
+        "content/corpus/solution_ocr/ipho/ipho-1983-t2-s-mathpix.md",
+        "content/corpus/solution_ocr/ipho/ipho-1983-t3-s-mathpix.md",
+        "content/corpus/solution_ocr/ipho/ipho-1983-t4-s-mathpix.md",
+        "content/corpus/solution_ocr/ipho/ipho-1983-t5-s-mathpix.md"
+      ]
     },
     "ipho-1982-q1": {
       "problem": "content/corpus/problems/ipho-1982-q1.md",
@@ -11563,7 +12053,9 @@
         "content/figures/izho/figures/izho-2026-2026-e-fig01.png",
         "content/figures/izho/figures/izho-2026-2026-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/izho/izho-2026-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2026-t-q1": {
       "problem": "content/corpus/problems/izho-2026-t-q1.md",
@@ -11611,7 +12103,9 @@
         "content/figures/izho/figures/izho-2025-2025-e-fig09.png",
         "content/figures/izho/figures/izho-2025-2025-e-fig10.png"
       ],
-      "figure_count": 10
+      "figure_count": 10,
+      "solution": "content/corpus/solution_ocr/izho/izho-2025-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2025-t-q1": {
       "problem": "content/corpus/problems/izho-2025-t-q1.md",
@@ -11670,7 +12164,9 @@
         "content/figures/izho/figures/izho-2023-2023-e-fig01.png",
         "content/figures/izho/figures/izho-2023-2023-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/izho/izho-2023-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2023-t-q1": {
       "problem": "content/corpus/problems/izho-2023-t-q1.md",
@@ -11701,7 +12197,9 @@
         "content/figures/izho/figures/izho-2022-2022-e-fig01.png",
         "content/figures/izho/figures/izho-2022-2022-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/izho/izho-2022-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2022-t-q1": {
       "problem": "content/corpus/problems/izho-2022-t-q1.md",
@@ -11738,7 +12236,9 @@
         "content/figures/izho/figures/izho-2021-2021-e-fig01.png",
         "content/figures/izho/figures/izho-2021-2021-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/izho/izho-2021-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2021-t-q1": {
       "problem": "content/corpus/problems/izho-2021-t-q1.md",
@@ -11779,7 +12279,9 @@
         "content/figures/izho/figures/izho-2020-2020-e-fig02.png",
         "content/figures/izho/figures/izho-2020-2020-e-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/izho/izho-2020-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2020-t-q1": {
       "problem": "content/corpus/problems/izho-2020-t-q1.md",
@@ -11815,7 +12317,9 @@
         "content/figures/izho/figures/izho-2019-2019-e-fig05.png",
         "content/figures/izho/figures/izho-2019-2019-e-fig06.png"
       ],
-      "figure_count": 6
+      "figure_count": 6,
+      "solution": "content/corpus/solution_ocr/izho/izho-2019-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2019-t-q1": {
       "problem": "content/corpus/problems/izho-2019-t-q1.md",
@@ -11892,7 +12396,9 @@
         "content/figures/izho/figures/izho-2017-2017-e-fig01.png",
         "content/figures/izho/figures/izho-2017-2017-e-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/izho/izho-2017-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2017-t-q1": {
       "problem": "content/corpus/problems/izho-2017-t-q1.md",
@@ -11925,7 +12431,9 @@
     },
     "izho-2016-2016-e": {
       "problem": "content/corpus/problems/izho-2016-2016-e.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/izho/izho-2016-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2016-t-q1": {
       "problem": "content/corpus/problems/izho-2016-t-q1.md",
@@ -11963,7 +12471,9 @@
       "figures": [
         "content/figures/izho/figures/izho-2015-2015-e-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/izho/izho-2015-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2015-t-q1": {
       "problem": "content/corpus/problems/izho-2015-t-q1.md",
@@ -12004,7 +12514,9 @@
         "content/figures/izho/figures/izho-2014-2014-e-fig02.png",
         "content/figures/izho/figures/izho-2014-2014-e-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/izho/izho-2014-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2014-t-q1": {
       "problem": "content/corpus/problems/izho-2014-t-q1.md",
@@ -12066,7 +12578,9 @@
         "content/figures/izho/figures/izho-2012-2012-e-fig03.png",
         "content/figures/izho/figures/izho-2012-2012-e-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/izho/izho-2012-e-s-mathpix.md",
+      "solution_documents": []
     },
     "izho-2012-t-q1": {
       "problem": "content/corpus/problems/izho-2012-t-q1.md",
@@ -37303,47 +37817,63 @@
     },
     "spot-2023-q1": {
       "problem": "content/corpus/problems/spot-2023-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q2": {
       "problem": "content/corpus/problems/spot-2023-q2.md",
       "figures": [
         "content/figures/spot/figures/spot-2023-q1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q3": {
       "problem": "content/corpus/problems/spot-2023-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q4": {
       "problem": "content/corpus/problems/spot-2023-q4.md",
       "figures": [
         "content/figures/spot/figures/spot-2023-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q5": {
       "problem": "content/corpus/problems/spot-2023-q5.md",
       "figures": [
         "content/figures/spot/figures/spot-2023-q4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q6": {
       "problem": "content/corpus/problems/spot-2023-q6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q7": {
       "problem": "content/corpus/problems/spot-2023-q7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2023-q8": {
       "problem": "content/corpus/problems/spot-2023-q8.md",
       "figures": [
         "content/figures/spot/figures/spot-2023-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2022-q1": {
       "problem": "content/corpus/problems/spot-2022-q1.md",
@@ -37533,33 +38063,45 @@
       "figures": [
         "content/figures/spot/figures/spot-2018-q2-fig1.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2018-q3": {
       "problem": "content/corpus/problems/spot-2018-q3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2018-q4": {
       "problem": "content/corpus/problems/spot-2018-q4.md",
       "figures": [
         "content/figures/spot/figures/spot-2018-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2018-q5": {
       "problem": "content/corpus/problems/spot-2018-q5.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2018-q6": {
       "problem": "content/corpus/problems/spot-2018-q6.md",
       "figures": [
         "content/figures/spot/figures/spot-2018-q4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2018-q7": {
       "problem": "content/corpus/problems/spot-2018-q7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2017-q1": {
       "problem": "content/corpus/problems/spot-2017-q1.md",
@@ -37592,25 +38134,33 @@
       "figures": [
         "content/figures/spot/figures/spot-2017-q5-7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2017-q6": {
       "problem": "content/corpus/problems/spot-2017-q6.md",
       "figures": [
         "content/figures/spot/figures/spot-2017-q6-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2017-q7": {
       "problem": "content/corpus/problems/spot-2017-q7.md",
       "figures": [
         "content/figures/spot/figures/spot-2017-q7-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/spot/spot-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "spot-2017-q8-10": {
       "problem": "content/corpus/problems/spot-2017-q8-10.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/spot/spot-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "spho-2024-q2": {
       "problem": "content/corpus/problems/spho-2024-q2.md",
@@ -38488,60 +39038,84 @@
       "figures": [
         "content/figures/usapho/figures/usapho-2025-qa1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2025-qa2": {
       "problem": "content/corpus/problems/usapho-2025-qa2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2025-qa3": {
       "problem": "content/corpus/problems/usapho-2025-qa3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2025-qb1": {
       "problem": "content/corpus/problems/usapho-2025-qb1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2025-qb1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2025-qb2": {
       "problem": "content/corpus/problems/usapho-2025-qb2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2025-qb3": {
       "problem": "content/corpus/problems/usapho-2025-qb3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-a1": {
       "problem": "content/corpus/problems/usapho-2024-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-a2": {
       "problem": "content/corpus/problems/usapho-2024-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-a3": {
       "problem": "content/corpus/problems/usapho-2024-a3.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2024-a3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-b1": {
       "problem": "content/corpus/problems/usapho-2024-b1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-b2": {
       "problem": "content/corpus/problems/usapho-2024-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2024-b3": {
       "problem": "content/corpus/problems/usapho-2024-b3.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2024-b3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-a1": {
       "problem": "content/corpus/problems/usapho-2023-a1.md",
@@ -38550,11 +39124,15 @@
         "content/figures/usapho/figures/usapho-2023-a1-fig02.png",
         "content/figures/usapho/figures/usapho-2023-a1-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-a2": {
       "problem": "content/corpus/problems/usapho-2023-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-a3": {
       "problem": "content/corpus/problems/usapho-2023-a3.md",
@@ -38562,22 +39140,30 @@
         "content/figures/usapho/figures/usapho-2023-a3-fig01.png",
         "content/figures/usapho/figures/usapho-2023-a3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-b1": {
       "problem": "content/corpus/problems/usapho-2023-b1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2023-b1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-b2": {
       "problem": "content/corpus/problems/usapho-2023-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2023-b3": {
       "problem": "content/corpus/problems/usapho-2023-b3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-a1": {
       "problem": "content/corpus/problems/usapho-2022-a1.md",
@@ -38585,11 +39171,15 @@
         "content/figures/usapho/figures/usapho-2022-a1-fig01.png",
         "content/figures/usapho/figures/usapho-2022-a1-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-a2": {
       "problem": "content/corpus/problems/usapho-2022-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-a3": {
       "problem": "content/corpus/problems/usapho-2022-a3.md",
@@ -38597,19 +39187,27 @@
         "content/figures/usapho/figures/usapho-2022-a3-fig01.png",
         "content/figures/usapho/figures/usapho-2022-a3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-b1": {
       "problem": "content/corpus/problems/usapho-2022-b1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-b2": {
       "problem": "content/corpus/problems/usapho-2022-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2022-b3": {
       "problem": "content/corpus/problems/usapho-2022-b3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2021-a1": {
       "problem": "content/corpus/problems/usapho-2021-a1.md",
@@ -38714,29 +39312,39 @@
     },
     "usapho-2019-a1": {
       "problem": "content/corpus/problems/usapho-2019-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2019-a2": {
       "problem": "content/corpus/problems/usapho-2019-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2019-a3": {
       "problem": "content/corpus/problems/usapho-2019-a3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2019-b1": {
       "problem": "content/corpus/problems/usapho-2019-b1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2019-b1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2019-b2": {
       "problem": "content/corpus/problems/usapho-2019-b2.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2019-b2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2019-b3": {
       "problem": "content/corpus/problems/usapho-2019-b3.md",
@@ -38745,11 +39353,15 @@
         "content/figures/usapho/figures/usapho-2019-b3-fig02.png",
         "content/figures/usapho/figures/usapho-2019-b3-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-a1": {
       "problem": "content/corpus/problems/usapho-2018-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-a2": {
       "problem": "content/corpus/problems/usapho-2018-a2.md",
@@ -38758,37 +39370,51 @@
         "content/figures/usapho/figures/usapho-2018-a2-fig02.png",
         "content/figures/usapho/figures/usapho-2018-a2-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-a3": {
       "problem": "content/corpus/problems/usapho-2018-a3.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2018-a3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-b1": {
       "problem": "content/corpus/problems/usapho-2018-b1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-b2": {
       "problem": "content/corpus/problems/usapho-2018-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2018-b3": {
       "problem": "content/corpus/problems/usapho-2018-b3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-a1": {
       "problem": "content/corpus/problems/usapho-2017-a1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2017-a1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-a2": {
       "problem": "content/corpus/problems/usapho-2017-a2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-a3": {
       "problem": "content/corpus/problems/usapho-2017-a3.md",
@@ -38796,11 +39422,15 @@
         "content/figures/usapho/figures/usapho-2017-a3-fig01.png",
         "content/figures/usapho/figures/usapho-2017-a3-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-a4": {
       "problem": "content/corpus/problems/usapho-2017-a4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-b1": {
       "problem": "content/corpus/problems/usapho-2017-b1.md",
@@ -38809,7 +39439,9 @@
         "content/figures/usapho/figures/usapho-2017-b1-fig02.png",
         "content/figures/usapho/figures/usapho-2017-b1-fig03.png"
       ],
-      "figure_count": 3
+      "figure_count": 3,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2017-b2": {
       "problem": "content/corpus/problems/usapho-2017-b2.md",
@@ -38819,14 +39451,18 @@
         "content/figures/usapho/figures/usapho-2017-b2-fig03.png",
         "content/figures/usapho/figures/usapho-2017-b2-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-a1": {
       "problem": "content/corpus/problems/usapho-2016-a1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2016-a1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-a2": {
       "problem": "content/corpus/problems/usapho-2016-a2.md",
@@ -38836,30 +39472,42 @@
         "content/figures/usapho/figures/usapho-2016-a2-fig03.png",
         "content/figures/usapho/figures/usapho-2016-a2-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-a3": {
       "problem": "content/corpus/problems/usapho-2016-a3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-a4": {
       "problem": "content/corpus/problems/usapho-2016-a4.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-b1": {
       "problem": "content/corpus/problems/usapho-2016-b1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2016-b1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2016-b2": {
       "problem": "content/corpus/problems/usapho-2016-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-a1": {
       "problem": "content/corpus/problems/usapho-2015-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-a2": {
       "problem": "content/corpus/problems/usapho-2015-a2.md",
@@ -38867,28 +39515,36 @@
         "content/figures/usapho/figures/usapho-2015-a2-fig01.png",
         "content/figures/usapho/figures/usapho-2015-a2-fig02.png"
       ],
-      "figure_count": 2
+      "figure_count": 2,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-a3": {
       "problem": "content/corpus/problems/usapho-2015-a3.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2015-a3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-a4": {
       "problem": "content/corpus/problems/usapho-2015-a4.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2015-a4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-b1": {
       "problem": "content/corpus/problems/usapho-2015-b1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2015-b1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2015-b2": {
       "problem": "content/corpus/problems/usapho-2015-b2.md",
@@ -38899,40 +39555,54 @@
         "content/figures/usapho/figures/usapho-2015-b2-fig04.png",
         "content/figures/usapho/figures/usapho-2015-b2-fig05.png"
       ],
-      "figure_count": 5
+      "figure_count": 5,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-a1": {
       "problem": "content/corpus/problems/usapho-2014-a1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-a2": {
       "problem": "content/corpus/problems/usapho-2014-a2.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2014-a2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-a3": {
       "problem": "content/corpus/problems/usapho-2014-a3.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-a4": {
       "problem": "content/corpus/problems/usapho-2014-a4.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2014-a4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-b1": {
       "problem": "content/corpus/problems/usapho-2014-b1.md",
       "figures": [
         "content/figures/usapho/figures/usapho-2014-b1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2014-b2": {
       "problem": "content/corpus/problems/usapho-2014-b2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
+      "solution_documents": []
     },
     "usapho-2013-a1": {
       "problem": "content/corpus/problems/usapho-2013-a1.md",
@@ -39730,84 +40400,114 @@
     },
     "usatst-2022-q1": {
       "problem": "content/corpus/problems/usatst-2022-q1.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q1-6": {
       "problem": "content/corpus/problems/usatst-2022-q1-6.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q1-9": {
       "problem": "content/corpus/problems/usatst-2022-q1-9.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q2": {
       "problem": "content/corpus/problems/usatst-2022-q2.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q2-10": {
       "problem": "content/corpus/problems/usatst-2022-q2-10.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q2-7": {
       "problem": "content/corpus/problems/usatst-2022-q2-7.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q3": {
       "problem": "content/corpus/problems/usatst-2022-q3.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2022-q3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q3-11": {
       "problem": "content/corpus/problems/usatst-2022-q3-11.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q3-8": {
       "problem": "content/corpus/problems/usatst-2022-q3-8.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q4": {
       "problem": "content/corpus/problems/usatst-2022-q4.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2022-q4-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q4-12": {
       "problem": "content/corpus/problems/usatst-2022-q4-12.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2022-q4-12-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q4-3": {
       "problem": "content/corpus/problems/usatst-2022-q4-3.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2022-q4-3-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2022-q5": {
       "problem": "content/corpus/problems/usatst-2022-q5.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2022-q5-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2021-q1": {
       "problem": "content/corpus/problems/usatst-2021-q1.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2021-q1-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2021-q2": {
       "problem": "content/corpus/problems/usatst-2021-q2.md",
       "figures": [
         "content/figures/usatst/figures/usatst-2021-q2-fig01.png"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md",
+      "solution_documents": []
     },
     "usatst-2021-q3": {
       "problem": "content/corpus/problems/usatst-2021-q3.md",
@@ -39817,7 +40517,9 @@
         "content/figures/usatst/figures/usatst-2021-q3-fig03.png",
         "content/figures/usatst/figures/usatst-2021-q3-fig04.png"
       ],
-      "figure_count": 4
+      "figure_count": 4,
+      "solution": "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md",
+      "solution_documents": []
     },
     "333plus-F001": {
       "problem": "content/corpus/problems/333plus-F001.md",
@@ -65054,7 +65756,11 @@
       "figures": [],
       "source": "apho",
       "title": "Asian Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2008-t3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2009-e1-s-mathpix.md": {
       "figures": [
@@ -65063,13 +65769,21 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · E1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2009-e-q1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2009-e2-s-mathpix.md": {
       "figures": [],
       "source": "apho",
       "title": "Asian Physics Olympiad · E2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2009-e-q2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2009-t1-s-mathpix.md": {
       "figures": [
@@ -65080,7 +65794,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · T1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2009-t-q1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2009-t2-s-mathpix.md": {
       "figures": [
@@ -65089,13 +65807,21 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · T2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2009-t-q2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2009-t3-s-mathpix.md": {
       "figures": [],
       "source": "apho",
       "title": "Asian Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2009-t-q3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2010-e1-s-mathpix.md": {
       "figures": [
@@ -65341,7 +66067,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · E1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2014-e1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2014-t1-s-mathpix.md": {
       "figures": [
@@ -65389,7 +66119,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · E1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2015-e1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2015-t1-s-mathpix.md": {
       "figures": [
@@ -65442,7 +66176,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · E2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2016-e2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2016-t1-s-mathpix.md": {
       "figures": [
@@ -65451,19 +66189,31 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · T1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2016-t1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2016-t2-s-mathpix.md": {
       "figures": [],
       "source": "apho",
       "title": "Asian Physics Olympiad · T2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2016-t2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2016-t3-s-mathpix.md": {
       "figures": [],
       "source": "apho",
       "title": "Asian Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2016-t3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2017-e1-s-mathpix.md": {
       "figures": [
@@ -65881,7 +66631,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · 2024_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2024-2024-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/apho/apho-2024-t-s-mathpix.md": {
       "figures": [
@@ -65958,7 +66712,11 @@
       ],
       "source": "apho",
       "title": "Asian Physics Olympiad · T3_S_H.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "apho-2025-t3"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/apho/apho-2025-t3-s-mathpix.md": {
       "figures": [
@@ -66002,7 +66760,24 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2008_S_A.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2008-q1",
+        "aupho-2008-q11",
+        "aupho-2008-q12",
+        "aupho-2008-q13",
+        "aupho-2008-q14",
+        "aupho-2008-q15",
+        "aupho-2008-q16",
+        "aupho-2008-q2",
+        "aupho-2008-q3",
+        "aupho-2008-q4",
+        "aupho-2008-q6",
+        "aupho-2008-q7",
+        "aupho-2008-q8",
+        "aupho-2008-q9"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/aupho/aupho-2008-s-b-mathpix.md": {
       "figures": [
@@ -66018,7 +66793,24 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2008_S_B.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2008-q1",
+        "aupho-2008-q11",
+        "aupho-2008-q12",
+        "aupho-2008-q13",
+        "aupho-2008-q14",
+        "aupho-2008-q15",
+        "aupho-2008-q16",
+        "aupho-2008-q2",
+        "aupho-2008-q3",
+        "aupho-2008-q4",
+        "aupho-2008-q6",
+        "aupho-2008-q7",
+        "aupho-2008-q8",
+        "aupho-2008-q9"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/aupho/aupho-2009-s-mathpix.md": {
       "figures": [
@@ -66264,7 +67056,30 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2020_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2020-q1",
+        "aupho-2020-q10",
+        "aupho-2020-q11",
+        "aupho-2020-q12",
+        "aupho-2020-q13",
+        "aupho-2020-q14",
+        "aupho-2020-q15",
+        "aupho-2020-q16",
+        "aupho-2020-q17",
+        "aupho-2020-q18",
+        "aupho-2020-q19",
+        "aupho-2020-q2",
+        "aupho-2020-q20",
+        "aupho-2020-q3",
+        "aupho-2020-q4",
+        "aupho-2020-q5",
+        "aupho-2020-q6",
+        "aupho-2020-q7",
+        "aupho-2020-q8",
+        "aupho-2020-q9"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/aupho/aupho-2021-s-mathpix.md": {
       "figures": [
@@ -66272,13 +67087,32 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2021_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2021-q1",
+        "aupho-2021-q10",
+        "aupho-2021-q2",
+        "aupho-2021-q3",
+        "aupho-2021-q4",
+        "aupho-2021-q5",
+        "aupho-2021-q6",
+        "aupho-2021-q7",
+        "aupho-2021-q8",
+        "aupho-2021-q9"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/aupho/aupho-2022-s-mathpix.md": {
       "figures": [],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2022_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2022-q1",
+        "aupho-2022-q2",
+        "aupho-2022-q3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md": {
       "figures": [
@@ -66293,7 +67127,58 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2023_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2023-q1",
+        "aupho-2023-q1-23",
+        "aupho-2023-q1-34",
+        "aupho-2023-q1-44",
+        "aupho-2023-q1-5",
+        "aupho-2023-q10",
+        "aupho-2023-q10-32",
+        "aupho-2023-q10-43",
+        "aupho-2023-q11",
+        "aupho-2023-q11-33",
+        "aupho-2023-q12",
+        "aupho-2023-q13",
+        "aupho-2023-q14",
+        "aupho-2023-q15",
+        "aupho-2023-q16",
+        "aupho-2023-q17",
+        "aupho-2023-q18",
+        "aupho-2023-q2",
+        "aupho-2023-q2-24",
+        "aupho-2023-q2-35",
+        "aupho-2023-q2-45",
+        "aupho-2023-q2-6",
+        "aupho-2023-q3",
+        "aupho-2023-q3-25",
+        "aupho-2023-q3-36",
+        "aupho-2023-q3-46",
+        "aupho-2023-q3-7",
+        "aupho-2023-q4",
+        "aupho-2023-q4-26",
+        "aupho-2023-q4-37",
+        "aupho-2023-q4-47",
+        "aupho-2023-q4-8",
+        "aupho-2023-q5",
+        "aupho-2023-q5-27",
+        "aupho-2023-q5-38",
+        "aupho-2023-q5-48",
+        "aupho-2023-q6",
+        "aupho-2023-q6-28",
+        "aupho-2023-q6-39",
+        "aupho-2023-q7",
+        "aupho-2023-q7-29",
+        "aupho-2023-q7-40",
+        "aupho-2023-q8",
+        "aupho-2023-q8-30",
+        "aupho-2023-q8-41",
+        "aupho-2023-q9",
+        "aupho-2023-q9-31",
+        "aupho-2023-q9-42"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/aupho/aupho-2024-s-mathpix.md": {
       "figures": [
@@ -66311,7 +67196,40 @@
       ],
       "source": "aupho",
       "title": "Australian Physics Olympiad · 2024_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "aupho-2024-q1",
+        "aupho-2024-q1-16",
+        "aupho-2024-q1-24",
+        "aupho-2024-q1-25",
+        "aupho-2024-q1-8",
+        "aupho-2024-q2",
+        "aupho-2024-q2-17",
+        "aupho-2024-q2-26",
+        "aupho-2024-q2-9",
+        "aupho-2024-q3",
+        "aupho-2024-q3-10",
+        "aupho-2024-q3-18",
+        "aupho-2024-q3-27",
+        "aupho-2024-q4",
+        "aupho-2024-q4-11",
+        "aupho-2024-q4-19",
+        "aupho-2024-q4-28",
+        "aupho-2024-q5",
+        "aupho-2024-q5-12",
+        "aupho-2024-q5-20",
+        "aupho-2024-q5-29",
+        "aupho-2024-q6",
+        "aupho-2024-q6-13",
+        "aupho-2024-q6-21",
+        "aupho-2024-q6-30",
+        "aupho-2024-q7",
+        "aupho-2024-q7-14",
+        "aupho-2024-q7-22",
+        "aupho-2024-q8",
+        "aupho-2024-q8-23"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/bpho-r1/bpho-r1-2001-s-mathpix.md": {
       "figures": [
@@ -68205,7 +69123,66 @@
       ],
       "source": "inpho",
       "title": "Indian National Physics Olympiad · 2009_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "inpho-2009-a1",
+        "inpho-2009-a1-38",
+        "inpho-2009-a10",
+        "inpho-2009-a10-47",
+        "inpho-2009-a11",
+        "inpho-2009-a11-48",
+        "inpho-2009-a12",
+        "inpho-2009-a12-49",
+        "inpho-2009-a13",
+        "inpho-2009-a13-50",
+        "inpho-2009-a14",
+        "inpho-2009-a14-51",
+        "inpho-2009-a15",
+        "inpho-2009-a15-52",
+        "inpho-2009-a16",
+        "inpho-2009-a16-53",
+        "inpho-2009-a17",
+        "inpho-2009-a18",
+        "inpho-2009-a18-55",
+        "inpho-2009-a19",
+        "inpho-2009-a19-56",
+        "inpho-2009-a2",
+        "inpho-2009-a2-39",
+        "inpho-2009-a20",
+        "inpho-2009-a20-57",
+        "inpho-2009-a21",
+        "inpho-2009-a22",
+        "inpho-2009-a23",
+        "inpho-2009-a24",
+        "inpho-2009-a25",
+        "inpho-2009-a26",
+        "inpho-2009-a27",
+        "inpho-2009-a28",
+        "inpho-2009-a29",
+        "inpho-2009-a3",
+        "inpho-2009-a3-40",
+        "inpho-2009-a30",
+        "inpho-2009-a31",
+        "inpho-2009-a32",
+        "inpho-2009-a33",
+        "inpho-2009-a34",
+        "inpho-2009-a35",
+        "inpho-2009-a36",
+        "inpho-2009-a37",
+        "inpho-2009-a38",
+        "inpho-2009-a4",
+        "inpho-2009-a4-41",
+        "inpho-2009-a5",
+        "inpho-2009-a5-42",
+        "inpho-2009-a6",
+        "inpho-2009-a6-43",
+        "inpho-2009-a7",
+        "inpho-2009-a7-44",
+        "inpho-2009-a8",
+        "inpho-2009-a9",
+        "inpho-2009-c1-10"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/inpho/inpho-2010-s-mathpix.md": {
       "figures": [
@@ -68247,7 +69224,17 @@
       ],
       "source": "inpho",
       "title": "Indian National Physics Olympiad · 2011_S2.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "inpho-2011-a1",
+        "inpho-2011-a2",
+        "inpho-2011-a3",
+        "inpho-2011-a4-6",
+        "inpho-2011-a5-7",
+        "inpho-2011-a6",
+        "inpho-2011-a7"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/inpho/inpho-2012-s-mathpix.md": {
       "figures": [
@@ -68265,7 +69252,15 @@
       "figures": [],
       "source": "inpho",
       "title": "Indian National Physics Olympiad · 2012_S2.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "inpho-2012-a1",
+        "inpho-2012-a2",
+        "inpho-2012-a3",
+        "inpho-2012-a4-6",
+        "inpho-2012-a5-7"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/inpho/inpho-2013-s-mathpix.md": {
       "figures": [
@@ -68457,7 +69452,15 @@
       ],
       "source": "inpho",
       "title": "Indian National Physics Olympiad · 2021_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "inpho-2021-a1",
+        "inpho-2021-a2",
+        "inpho-2021-a3",
+        "inpho-2021-a4",
+        "inpho-2021-a5"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/inpho/inpho-2022-s-mathpix.md": {
       "figures": [
@@ -68606,7 +69609,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1983"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/ipho/ipho-1983-t2-s-mathpix.md": {
       "figures": [
@@ -68617,7 +69624,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1983"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/ipho/ipho-1983-t3-s-mathpix.md": {
       "figures": [
@@ -68628,7 +69639,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1983"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/ipho/ipho-1983-t4-s-mathpix.md": {
       "figures": [
@@ -68639,7 +69654,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T4_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1983"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/ipho/ipho-1983-t5-s-mathpix.md": {
       "figures": [
@@ -68649,7 +69668,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T5_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1983"
+      ],
+      "canonical_solution": false
     },
     "content/corpus/solution_ocr/ipho/ipho-1986-e-s-mathpix.md": {
       "figures": [
@@ -68661,7 +69684,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · 1986_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1986-1986-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-1986-t-s-mathpix.md": {
       "figures": [
@@ -68684,7 +69711,13 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · 1986_T_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1986-t-q1",
+        "ipho-1986-t-q2",
+        "ipho-1986-t-q3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-1992-t1-s-mathpix.md": {
       "figures": [
@@ -68770,7 +69803,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · 1997_T_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-1997-1997-t"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-1999-e1-s-mathpix.md": {
       "figures": [
@@ -68841,7 +69878,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · 2001_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2001-2001-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2001-t-s-mathpix.md": {
       "figures": [
@@ -68851,7 +69892,13 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · 2001_T_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2001-t-q1",
+        "ipho-2001-t-q2",
+        "ipho-2001-t-q3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2002-e1-s-mathpix.md": {
       "figures": [
@@ -69120,7 +70167,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2007-t3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2008-e1-s-mathpix.md": {
       "figures": [
@@ -69179,7 +70230,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · E1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2009-e1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2009-e2-s-mathpix.md": {
       "figures": [
@@ -69193,7 +70248,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · E2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2009-e2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2009-t1-s-mathpix.md": {
       "figures": [],
@@ -69213,7 +70272,11 @@
       "figures": [],
       "source": "ipho",
       "title": "International Physics Olympiad · T3_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2009-t3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2010-e1-s-mathpix.md": {
       "figures": [],
@@ -69528,7 +70591,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · E1_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2016-e1"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2016-e2-s-mathpix.md": {
       "figures": [
@@ -69588,7 +70655,11 @@
       ],
       "source": "ipho",
       "title": "International Physics Olympiad · E2_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "ipho-2017-e2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/ipho/ipho-2017-t1-s-mathpix.md": {
       "figures": [
@@ -70112,7 +71183,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2012_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2012-2012-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2012-t-s-mathpix.md": {
       "figures": [
@@ -70150,7 +71225,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2014_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2014-2014-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2014-t-s-mathpix.md": {
       "figures": [
@@ -70178,7 +71257,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2015_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2015-2015-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2015-t-s-mathpix.md": {
       "figures": [
@@ -70204,7 +71287,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2016_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2016-2016-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2016-t-s-mathpix.md": {
       "figures": [
@@ -70231,7 +71318,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2017_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2017-2017-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2017-t-s-mathpix.md": {
       "figures": [
@@ -70289,7 +71380,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2019_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2019-2019-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2019-t-s-mathpix.md": {
       "figures": [
@@ -70316,7 +71411,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2020_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2020-2020-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2020-t-s-mathpix.md": {
       "figures": [
@@ -70340,7 +71439,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2021_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2021-2021-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2021-t-s-mathpix.md": {
       "figures": [
@@ -70364,7 +71467,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2022_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2022-2022-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2022-t-s-mathpix.md": {
       "figures": [
@@ -70398,7 +71505,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2023_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2023-2023-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2023-t-s-mathpix.md": {
       "figures": [
@@ -70493,7 +71604,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2025_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2025-2025-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2025-t-s-mathpix.md": {
       "figures": [
@@ -70528,7 +71643,11 @@
       ],
       "source": "izho",
       "title": "International Zhautykov Olympiad · 2026_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "izho-2026-2026-e"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/izho/izho-2026-t-s-mathpix.md": {
       "figures": [
@@ -73314,7 +74433,14 @@
       "figures": [],
       "source": "spot",
       "title": "Singapore IPhO/APhO TST · 2017_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "spot-2017-q5-7",
+        "spot-2017-q6",
+        "spot-2017-q7",
+        "spot-2017-q8-10"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/spot/spot-2018-s-mathpix.md": {
       "figures": [
@@ -73322,7 +74448,16 @@
       ],
       "source": "spot",
       "title": "Singapore IPhO/APhO TST · 2018_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "spot-2018-q2",
+        "spot-2018-q3",
+        "spot-2018-q4",
+        "spot-2018-q5",
+        "spot-2018-q6",
+        "spot-2018-q7"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/spot/spot-2019-s-mathpix.md": {
       "figures": [],
@@ -73360,7 +74495,18 @@
       ],
       "source": "spot",
       "title": "Singapore IPhO/APhO TST · 2023_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "spot-2023-q1",
+        "spot-2023-q2",
+        "spot-2023-q3",
+        "spot-2023-q4",
+        "spot-2023-q5",
+        "spot-2023-q6",
+        "spot-2023-q7",
+        "spot-2023-q8"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/spot/spot-2024-s-mathpix.md": {
       "figures": [
@@ -73690,7 +74836,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2014_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2014-a1",
+        "usapho-2014-a2",
+        "usapho-2014-a3",
+        "usapho-2014-a4",
+        "usapho-2014-b1",
+        "usapho-2014-b2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2015-s-mathpix.md": {
       "figures": [
@@ -73713,7 +74868,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2015_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2015-a1",
+        "usapho-2015-a2",
+        "usapho-2015-a3",
+        "usapho-2015-a4",
+        "usapho-2015-b1",
+        "usapho-2015-b2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2016-s-mathpix.md": {
       "figures": [
@@ -73733,7 +74897,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2016_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2016-a1",
+        "usapho-2016-a2",
+        "usapho-2016-a3",
+        "usapho-2016-a4",
+        "usapho-2016-b1",
+        "usapho-2016-b2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md": {
       "figures": [
@@ -73753,7 +74926,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2017_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2017-a1",
+        "usapho-2017-a2",
+        "usapho-2017-a3",
+        "usapho-2017-a4",
+        "usapho-2017-b1",
+        "usapho-2017-b2"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2018-s-mathpix.md": {
       "figures": [
@@ -73771,7 +74953,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2018_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2018-a1",
+        "usapho-2018-a2",
+        "usapho-2018-a3",
+        "usapho-2018-b1",
+        "usapho-2018-b2",
+        "usapho-2018-b3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md": {
       "figures": [
@@ -73788,7 +74979,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2019_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2019-a1",
+        "usapho-2019-a2",
+        "usapho-2019-a3",
+        "usapho-2019-b1",
+        "usapho-2019-b2",
+        "usapho-2019-b3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2020-s-mathpix.md": {
       "figures": [
@@ -73837,7 +75037,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2022_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2022-a1",
+        "usapho-2022-a2",
+        "usapho-2022-a3",
+        "usapho-2022-b1",
+        "usapho-2022-b2",
+        "usapho-2022-b3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2023-s-mathpix.md": {
       "figures": [
@@ -73852,7 +75061,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2023_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2023-a1",
+        "usapho-2023-a2",
+        "usapho-2023-a3",
+        "usapho-2023-b1",
+        "usapho-2023-b2",
+        "usapho-2023-b3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2024-s-mathpix.md": {
       "figures": [
@@ -73863,7 +75081,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2024_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2024-a1",
+        "usapho-2024-a2",
+        "usapho-2024-a3",
+        "usapho-2024-b1",
+        "usapho-2024-b2",
+        "usapho-2024-b3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usapho/usapho-2025-s-mathpix.md": {
       "figures": [
@@ -73876,7 +75103,16 @@
       ],
       "source": "usapho",
       "title": "USA Physics Olympiad · 2025_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usapho-2025-qa1",
+        "usapho-2025-qa2",
+        "usapho-2025-qa3",
+        "usapho-2025-qb1",
+        "usapho-2025-qb2",
+        "usapho-2025-qb3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md": {
       "figures": [
@@ -73890,7 +75126,13 @@
       ],
       "source": "usatst",
       "title": "USA Team Selection Test · 2021_T_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usatst-2021-q1",
+        "usatst-2021-q2",
+        "usatst-2021-q3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md": {
       "figures": [
@@ -73900,7 +75142,14 @@
       ],
       "source": "usatst",
       "title": "USA Team Selection Test · 2022_E_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usatst-2022-q1",
+        "usatst-2022-q2",
+        "usatst-2022-q4",
+        "usatst-2022-q4-3"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solution_ocr/usatst/usatst-2022-t-s-mathpix.md": {
       "figures": [
@@ -73915,7 +75164,19 @@
       ],
       "source": "usatst",
       "title": "USA Team Selection Test · 2022_T_S.pdf",
-      "verification_status": "pending"
+      "verification_status": "promoted",
+      "mapped_problems": [
+        "usatst-2022-q1-6",
+        "usatst-2022-q1-9",
+        "usatst-2022-q2-10",
+        "usatst-2022-q2-7",
+        "usatst-2022-q3",
+        "usatst-2022-q3-11",
+        "usatst-2022-q3-8",
+        "usatst-2022-q4-12",
+        "usatst-2022-q5"
+      ],
+      "canonical_solution": true
     },
     "content/corpus/solutions/200ppp-P001.md": {
       "figures": [
@@ -76758,12 +78019,12 @@
       ]
     }
   },
-  "markdown_file_count": 16058,
-  "markdown_bytes": 72937711,
+  "markdown_file_count": 16103,
+  "markdown_bytes": 75691393,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 23192,
-    "referenced_bytes": 1108434686,
+    "referenced_file_count": 23138,
+    "referenced_bytes": 1116932581,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }

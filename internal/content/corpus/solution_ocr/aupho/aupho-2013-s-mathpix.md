@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2013_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
+mapped_problems: [aupho-2013-q1, aupho-2013-q10, aupho-2013-q11, aupho-2013-q12, aupho-2013-q13, aupho-2013-q14, aupho-2013-q2, aupho-2013-q3, aupho-2013-q4, aupho-2013-q5, aupho-2013-q6, aupho-2013-q7, aupho-2013-q8, aupho-2013-q9]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

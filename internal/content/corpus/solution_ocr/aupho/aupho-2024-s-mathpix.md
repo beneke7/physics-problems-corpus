@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [aupho-2024-q1, aupho-2024-q1-16, aupho-2024-q1-24, aupho-2024-q1-25, aupho-2024-q1-8, aupho-2024-q2, aupho-2024-q2-17, aupho-2024-q2-26, aupho-2024-q2-9, aupho-2024-q3, aupho-2024-q3-10, aupho-2024-q3-18, aupho-2024-q3-27, aupho-2024-q4, aupho-2024-q4-11, aupho-2024-q4-19, aupho-2024-q4-28, aupho-2024-q5, aupho-2024-q5-12, aupho-2024-q5-20, aupho-2024-q5-29, aupho-2024-q6, aupho-2024-q6-13, aupho-2024-q6-21, aupho-2024-q6-30, aupho-2024-q7, aupho-2024-q7-14, aupho-2024-q7-22, aupho-2024-q8, aupho-2024-q8-23]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## 2024 AUSTRALIAN SCIENCE OLYMPIAD EXAM PHYSICS_ANSWERS
 

@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/spot/2023_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [spot-2023-q1, spot-2023-q2, spot-2023-q3, spot-2023-q4, spot-2023-q5, spot-2023-q6, spot-2023-q7, spot-2023-q8]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Sp <br> Singapore Physics Olympiad Training
 

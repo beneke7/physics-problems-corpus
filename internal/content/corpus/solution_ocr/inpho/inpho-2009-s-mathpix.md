@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/inpho/2009_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [inpho-2009-a1, inpho-2009-a1-38, inpho-2009-a10, inpho-2009-a10-47, inpho-2009-a11, inpho-2009-a11-48, inpho-2009-a12, inpho-2009-a12-49, inpho-2009-a13, inpho-2009-a13-50, inpho-2009-a14, inpho-2009-a14-51, inpho-2009-a15, inpho-2009-a15-52, inpho-2009-a16, inpho-2009-a16-53, inpho-2009-a17, inpho-2009-a18, inpho-2009-a18-55, inpho-2009-a19, inpho-2009-a19-56, inpho-2009-a2, inpho-2009-a2-39, inpho-2009-a20, inpho-2009-a20-57, inpho-2009-a21, inpho-2009-a22, inpho-2009-a23, inpho-2009-a24, inpho-2009-a25, inpho-2009-a26, inpho-2009-a27, inpho-2009-a28, inpho-2009-a29, inpho-2009-a3, inpho-2009-a3-40, inpho-2009-a30, inpho-2009-a31, inpho-2009-a32, inpho-2009-a33, inpho-2009-a34, inpho-2009-a35, inpho-2009-a36, inpho-2009-a37, inpho-2009-a38, inpho-2009-a4, inpho-2009-a4-41, inpho-2009-a5, inpho-2009-a5-42, inpho-2009-a6, inpho-2009-a6-43, inpho-2009-a7, inpho-2009-a7-44, inpho-2009-a8, inpho-2009-a9, inpho-2009-c1-10]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Name: $\_\_\_\_$ Roll No.P09 $\_\_\_\_$
 

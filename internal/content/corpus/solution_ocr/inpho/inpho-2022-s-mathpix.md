@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/inpho/2022_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
+mapped_problems: [inpho-2022-a1, inpho-2022-a2, inpho-2022-a3, inpho-2022-a4, inpho-2022-a5]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

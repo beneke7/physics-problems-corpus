@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2008_S_A.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [aupho-2008-q1, aupho-2008-q11, aupho-2008-q12, aupho-2008-q13, aupho-2008-q14, aupho-2008-q15, aupho-2008-q16, aupho-2008-q2, aupho-2008-q3, aupho-2008-q4, aupho-2008-q6, aupho-2008-q7, aupho-2008-q8, aupho-2008-q9]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Section A (Multiple Choice)
 

@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/spot/2025_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
+mapped_problems: [spot-2025-q1, spot-2025-q2, spot-2025-q3, spot-2025-q4, spot-2025-q5, spot-2025-q6, spot-2025-q7, spot-2025-q8, spot-2025-q9]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

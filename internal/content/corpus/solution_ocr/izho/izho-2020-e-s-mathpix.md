@@ -6,9 +6,10 @@ language: ru
 solution_type: official
 source_pdf: cache/phoxiv/izho/2020_E_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [izho-2020-2020-e]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## SOLUTION TO THE EXPERIMENTAL COMPETITION Maxwell's disk (15,0 points)
 

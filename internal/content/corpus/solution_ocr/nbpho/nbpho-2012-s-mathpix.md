@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2012_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2012-asteroid, nbpho-2012-bars-and-rod, nbpho-2012-elastic-collision, nbpho-2012-power-lines, nbpho-2012-rlc-circuit, nbpho-2012-thermodynamic-cycle, nbpho-2012-uranium-decay]
+mapped_problems: [nbpho-2012-asteroid, nbpho-2012-bars-and-rod, nbpho-2012-black-box, nbpho-2012-diffraction-grating, nbpho-2012-elastic-collision, nbpho-2012-lifting-by-current, nbpho-2012-power-lines, nbpho-2012-rlc-circuit, nbpho-2012-thermodynamic-cycle, nbpho-2012-uranium-decay]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

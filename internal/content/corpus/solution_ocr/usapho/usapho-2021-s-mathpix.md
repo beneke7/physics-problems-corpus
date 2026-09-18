@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/usapho/2021_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
+mapped_problems: [usapho-2021-a1, usapho-2021-a2, usapho-2021-a3, usapho-2021-b1, usapho-2021-b2, usapho-2021-b3]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

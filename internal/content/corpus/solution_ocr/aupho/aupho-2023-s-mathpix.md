@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2023_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [aupho-2023-q1, aupho-2023-q1-23, aupho-2023-q1-34, aupho-2023-q1-44, aupho-2023-q1-5, aupho-2023-q10, aupho-2023-q10-32, aupho-2023-q10-43, aupho-2023-q11, aupho-2023-q11-33, aupho-2023-q12, aupho-2023-q13, aupho-2023-q14, aupho-2023-q15, aupho-2023-q16, aupho-2023-q17, aupho-2023-q18, aupho-2023-q2, aupho-2023-q2-24, aupho-2023-q2-35, aupho-2023-q2-45, aupho-2023-q2-6, aupho-2023-q3, aupho-2023-q3-25, aupho-2023-q3-36, aupho-2023-q3-46, aupho-2023-q3-7, aupho-2023-q4, aupho-2023-q4-26, aupho-2023-q4-37, aupho-2023-q4-47, aupho-2023-q4-8, aupho-2023-q5, aupho-2023-q5-27, aupho-2023-q5-38, aupho-2023-q5-48, aupho-2023-q6, aupho-2023-q6-28, aupho-2023-q6-39, aupho-2023-q7, aupho-2023-q7-29, aupho-2023-q7-40, aupho-2023-q8, aupho-2023-q8-30, aupho-2023-q8-41, aupho-2023-q9, aupho-2023-q9-31, aupho-2023-q9-42]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## 2023 AUSTRALIAN SCIENCE OLYMPIAD EXAM PHYSICS_ANSWERS
 

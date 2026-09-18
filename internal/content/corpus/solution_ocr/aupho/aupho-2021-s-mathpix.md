@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2021_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [aupho-2021-q1, aupho-2021-q10, aupho-2021-q2, aupho-2021-q3, aupho-2021-q4, aupho-2021-q5, aupho-2021-q6, aupho-2021-q7, aupho-2021-q8, aupho-2021-q9]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2021 AUSTRALIAN SCIENCE OLYMPIAD EXAM
 PHYSICS_ANSWERS

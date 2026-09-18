@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/usapho/2025_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [usapho-2025-qa1, usapho-2025-qa2, usapho-2025-qa3, usapho-2025-qb1, usapho-2025-qb2, usapho-2025-qb3]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ![](../../../figures/solution-ocr/e5a4e5c5c0239aef1165e04d.jpg)
 

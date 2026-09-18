@@ -6,7 +6,7 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2019-dominoes, nbpho-2019-four-resistors, nbpho-2019-roller, nbpho-2019-satellite]
+mapped_problems: [nbpho-2019-brachistochrone, nbpho-2019-dominoes, nbpho-2019-four-resistors, nbpho-2019-motion-in-magnetic-field, nbpho-2019-retroreflective-film, nbpho-2019-roller, nbpho-2019-satellite, nbpho-2019-self-gravitating-gas]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---

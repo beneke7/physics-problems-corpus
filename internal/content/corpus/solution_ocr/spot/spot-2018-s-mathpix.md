@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/spot/2018_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [spot-2018-q2, spot-2018-q3, spot-2018-q4, spot-2018-q5, spot-2018-q6, spot-2018-q7]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Singapore Physics Olympiad Training (SPOT) - Examiner's report for 2018 selection test
 

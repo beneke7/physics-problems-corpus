@@ -6,9 +6,10 @@ language: ru
 solution_type: official
 source_pdf: cache/phoxiv/izho/2016_E_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+mapped_problems: [izho-2016-2016-e]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## SOLUTION FOR THE EXPERIMENTAL COMPETITION Coal tablet (15.0 points) <br> Part 1. Ohm's law ( $\mathbf { 7 . 0 }$ points)
 
