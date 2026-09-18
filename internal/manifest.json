@@ -76742,7 +76742,6 @@
         "content/figures/solution-ocr/1a5444dcf98768f0b3016c4a.jpg",
         "content/figures/solution-ocr/1b2c6fc105447ac587af30dc.jpg",
         "content/figures/solution-ocr/254f401bbf4f5af50add5d32.jpg",
-        "content/figures/solution-ocr/874674033c885de08887c774.jpg",
         "content/figures/solution-ocr/8e3f902b7d71fc0ed70c7420.jpg",
         "content/figures/solution-ocr/aeed5b34eb74278ab8799b5f.jpg"
       ],
@@ -76773,7 +76772,6 @@
     },
     "content/corpus/solution_ocr/izho/izho-2022-t-s-q3-mathpix.md": {
       "figures": [
-        "content/figures/solution-ocr/874674033c885de08887c774.jpg",
         "content/figures/solution-ocr/8e3f902b7d71fc0ed70c7420.jpg",
         "content/figures/solution-ocr/aeed5b34eb74278ab8799b5f.jpg"
       ],
@@ -90916,8 +90914,8 @@
   "markdown_bytes": 83453111,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 24148,
-    "referenced_bytes": 1112100954,
+    "referenced_file_count": 24147,
+    "referenced_bytes": 1112099753,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }

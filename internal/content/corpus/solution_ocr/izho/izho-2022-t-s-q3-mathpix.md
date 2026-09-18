@@ -455,7 +455,7 @@ $$
 |  | Formula (27): $( c + V ) d V = - 2 G M _ { S } \frac { d r } { r ^ { 2 } }$ | 0.2 |  |
 
 
-|  | Formula (28): $c V _ { 0 } + \frac { 1 } { 2 } V _ { 0 } ^ { 2 } = 2 G M _ { S } \left( \frac { 1 } { R _ { 0 } } - \frac { 1 } { R } \right)$ | 0.2 | ![](../../../figures/solution-ocr/874674033c885de08887c774.jpg) |
+|  | Formula (28): $c V _ { 0 } + \frac { 1 } { 2 } V _ { 0 } ^ { 2 } = 2 G M _ { S } \left( \frac { 1 } { R _ { 0 } } - \frac { 1 } { R } \right)$ | 0.2 |  |
 | :--- | :--- | :--- | :--- |
 |  | Formula (29): $R = \frac { R _ { 0 } } { 1 - \frac { \left( c V _ { 0 } + 1 / 2 V _ { 0 } ^ { 2 } \right) R _ { 0 } } { 2 G M _ { S } } }$ | 0.2 |  |
 |  | Formula (30): $G M _ { S } = V _ { E } ^ { 2 } r _ { E }$ | 0.2 |  |
