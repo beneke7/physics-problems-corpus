@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex,nofollow">
+	<title>physics problem finder · OCR documents</title>
+	<style>
+		:root { --bg:#fff; --text:#222; --muted:#666; --line:#ccc; --red:#c00; }
+		* { box-sizing:border-box; }
+		body { margin:0; color:var(--text); background:var(--bg); font:14px/1.45 Verdana,Geneva,sans-serif; }
+		main,#gate { width:min(1100px,calc(100% - 28px)); margin:auto; }
+		a { color:var(--red); } a:visited { color:#551a8b; }
+		h1 { margin:0; font:700 20px/1.2 Georgia,serif; }
+		header { display:flex; justify-content:space-between; align-items:baseline; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
+		#gate { max-width:600px; padding-top:22vh; } #gate h1 { margin-bottom:12px; }
+		form { display:flex; gap:7px; } input,select,button { min-height:32px; border:1px solid #aaa; border-radius:2px; background:#fff; color:var(--text); font:inherit; } input { min-width:0; padding:7px; } form input { flex:1; } button { padding:5px 10px; cursor:pointer; }
+		button:hover,button:focus-visible,input:focus-visible,select:focus-visible { outline:2px solid var(--red); outline-offset:1px; }
+		.muted,#status { color:var(--muted); } #gate .muted { font-size:12px; }
+		.toolbar { display:flex; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); } #query { flex:1; }
+		.entry { display:flex; justify-content:space-between; gap:12px; padding:10px 0; border-bottom:1px solid #ddd; } .entry p { margin:2px 0 0; color:var(--muted); font-size:12px; } .entry a { white-space:nowrap; }
+		@media (max-width:600px) { main,#gate { width:calc(100% - 20px); } form,.toolbar { flex-wrap:wrap; } form input,form button,#query,#source { flex:1 1 100%; } .entry { display:block; } .entry a { display:inline-block; margin-top:5px; } }
+	</style>
+</head>
+<body>
+	<section id="gate"><h1>physics problem finder · internal</h1><p>Enter the shared key to open the OCR archive.</p><form id="unlock"><input id="key" type="password" autocomplete="current-password" placeholder="Shared key"><button>Open archive</button></form><p id="gate-message" class="muted" aria-live="polite"></p></section>
+	<main id="app" hidden><header><h1>Mathpix solution OCR</h1><a href="./">back to finder</a></header><div class="toolbar"><input id="query" type="search" placeholder="Search source or filename…" autocomplete="off"><select id="source"><option value="all">All competitions</option></select></div><p id="status" class="muted">Loading…</p><section id="results"></section></main>
+	<script>
+		const $=id=>document.getElementById(id), KEY_HASH="9bc33fdb9f533d2c8161fa9c72f59f4811a834cb71c1f936a5df4d6d2c321bd9"; let docs=[];
+		async function digest(value){const bytes=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(value));return [...new Uint8Array(bytes)].map(b=>b.toString(16).padStart(2,"0")).join("")}
+		async function unlock(event){event.preventDefault();try{if(await digest($("key").value)!==KEY_HASH)throw 0;sessionStorage.setItem("physics-corpus-internal","1");$("gate").hidden=true;$("app").hidden=false;load()}catch(_){$("gate-message").textContent="That key did not match."}}
+		function render(){const q=$("query").value.trim().toLowerCase(), source=$("source").value, rows=docs.filter(d=>(source==="all"||d.source===source)&&(!q||`${d.source} ${d.source_name} ${d.source_pdf}`.toLowerCase().includes(q)));$("status").textContent=`${rows.length.toLocaleString()} OCR documents`;$("results").replaceChildren(...rows.map(d=>{const article=document.createElement("article");article.className="entry";const text=document.createElement("div"),link=document.createElement("a");link.textContent="open";link.href=`view.html?path=${encodeURIComponent(d.path)}`;text.innerHTML="";const title=document.createElement("strong");title.textContent=d.title;const meta=document.createElement("p");meta.textContent=`${d.source_pdf} · ${d.characters.toLocaleString()} characters · ${d.figure_count} figures${d.mapped_problems.length?` · ${d.mapped_problems.length} linked records`:" · standalone"}`;text.append(title,meta);article.append(text,link);return article}))}
+		async function load(){docs=await fetch("ocr-documents.json").then(r=>r.json());const values=[...new Set(docs.map(d=>d.source))].sort();$("source").append(...values.map(v=>new Option(docs.find(d=>d.source===v).source_name,v)));render()}
+		$("unlock").addEventListener("submit",unlock);$("query").addEventListener("input",render);$("source").addEventListener("change",render);if(sessionStorage.getItem("physics-corpus-internal")==="1"){$("gate").hidden=true;$("app").hidden=false;load()}
+	</script>
+</body>
+</html>

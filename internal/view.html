@@ -81,7 +81,7 @@
 	<script>
 		const $ = (id) => document.getElementById(id);
 		const KEY_HASH = "9bc33fdb9f533d2c8161fa9c72f59f4811a834cb71c1f936a5df4d6d2c321bd9";
-		const params = new URLSearchParams(location.search), recordId = params.get("id");
+		const params = new URLSearchParams(location.search), recordId = params.get("id"), standalonePath = params.get("path");
 		const array = (v) => Array.isArray(v) ? v : [];
 		const text = (v) => v === null || v === undefined ? "" : String(v);
 		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {}, packageBody = "", downloadUrl;
@@ -176,7 +176,7 @@
 		function renderBody(body, info, renderMath = true) {
 			currentBody = cleanDisplay(stripFrontmatter(body)); currentInfo = {...info, figures: documentFigures(currentBody, info)}; packageBody = localizeImages(currentBody, currentInfo, true); const content = $("document-content"); content.innerHTML = renderMarkdown(currentBody); if (renderMath && hasMath(currentBody)) typeset(content);
 			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, currentInfo); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
-			renderFigures(currentInfo, seen); setDownload(currentBody, recordId + "-" + $("document").value); const count = array(currentInfo.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
+			renderFigures(currentInfo, seen); setDownload(currentBody, (record?.id || "solution-ocr") + "-" + $("document").value); const count = array(currentInfo.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
 		}
 		function tarHeader(name, size) {
 			const h = new Uint8Array(512), enc = new TextEncoder(); const put = (at, width, value) => h.set(enc.encode(value).slice(0,width), at); const oct = (value, width) => value.toString(8).padStart(width - 1, "0") + "\0";
@@ -195,13 +195,21 @@
 		async function showDocument(key) {
 			const path=options.find((item) => item.key === key)?.path; if (!path) return; currentInfo=manifest.documents[path] || {};
 			const source = key.startsWith("doc"); $("document-note").hidden = !source;
-			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo,!source); history.replaceState(null,"",`view.html?id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
+			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo,!source); const query = standalonePath ? `path=${encodeURIComponent(standalonePath)}&doc=${encodeURIComponent(key)}` : `id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`; history.replaceState(null,"",`view.html?${query}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
 		}
 		async function load() {
 			try {
-				[catalog,manifest]=await Promise.all([fetch("../catalog.json").then((r)=>r.json()),fetch("manifest.json").then((r)=>r.json())]); record=array(catalog.records).find((item)=>item.id===recordId); if (!record) throw new Error();
+				[catalog,manifest]=await Promise.all([fetch("../catalog.json").then((r)=>r.json()),fetch("manifest.json").then((r)=>r.json())]);
+				if (standalonePath) {
+					if (!standalonePath.startsWith("content/corpus/solution_ocr/")) throw new Error();
+					const info = manifest.documents[standalonePath]; if (!info) throw new Error();
+					record = {id: info.id || standalonePath, source_name: info.source_name || info.source || "Mathpix solution OCR", title: info.title || basename(standalonePath)};
+					options = [{key:"doc0", path:standalonePath}];
+				} else {
+					record=array(catalog.records).find((item)=>item.id===recordId); if (!record) throw new Error();
+					const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
+				}
 				$("meta").textContent=`${record.source_name || record.source}${record.year ? ` · ${record.year}` : ""} · ${record.title || record.problem || record.id}`;
-				const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
 				const select=$("document"); select.replaceChildren(...options.map((item)=>new Option(labelFor(item.key,item.path),item.key))); const wanted=params.get("doc"); select.value=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key; if (!select.value) throw new Error(); showDocument(select.value);
 			} catch (_) { $("meta").textContent=""; $("document-content").append(make("div","error","The record could not be loaded.")); }
 		}
