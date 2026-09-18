@@ -5,11 +5,13 @@ native_id: "F1"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [gravitation, mechanics]
+subtopic: [gravitation, orbits, angular-momentum, energy-conservation, relative-motion]
+math_tools: [algebra, geometry-trigonometry, vectors]
+format: scaffolded
+difficulty_norm: 4
 core_ideas: []
+estimated_time_min: 35
 points: null
 has_solution: false
 has_figure: true

@@ -106,6 +106,7 @@
 		<script>
 			const $ = (id) => document.getElementById(id);
 			const query = $("query");
+			const initialQuery = new URLSearchParams(location.search).get("q") || "";
 			const source = $("source");
 			const topic = $("topic");
 			const technique = $("technique");
@@ -121,6 +122,7 @@
 			const pageSize = 50;
 			let visibleLimit = pageSize;
 			let renderTimer;
+			query.value = initialQuery;
 
 			const array = (value) => Array.isArray(value) ? value : [];
 			const text = (value) => value === null || value === undefined ? "" : String(value);
@@ -144,7 +146,7 @@
 			};
 			const searchable = (record) => [
 				record.id, record.source, record.source_name, record.year, record.problem, record.title, record.handout,
-				record.language, record.difficulty, record.format, record.attribution,
+				record.language, record.difficulty, record.format, record.attribution, record.collection, record.counterpart_id,
 				...array(record.languages), ...array(record.topics), ...array(record.subtopics),
 				...array(record.math_tools), ...array(record.techniques), ...array(record.ideas),
 				...array(record.ideas).map(ideaLabel)
@@ -178,6 +180,7 @@
 					if (record.problem) top.append(make("span", "", `· ${record.problem}`));
 				}
 				article.append(top);
+				if (record.collection) article.append(make("p", "attribution", record.collection));
 				article.append(make("h2", "", kevin ? kevin.problem : record.title || record.problem || record.id));
 				if (record.attribution) article.append(make("p", "attribution", record.attribution));
 				addTags(article, "Topics", record.topics);
@@ -203,6 +206,13 @@
 					anchor.rel = "noopener noreferrer";
 					links.append(anchor);
 				});
+				if (record.counterpart_id) {
+					const anchor = make("a", "", record.language === "hu" ? `English counterpart: ${record.counterpart_id}` : `Hungarian book counterpart: ${record.counterpart_id}`);
+					anchor.href = `?q=${encodeURIComponent(record.counterpart_id)}`;
+					links.append(anchor);
+				} else if (record.counterpart_status === "no-English-record") {
+					links.append(make("span", "", "No English counterpart indexed"));
+				}
 				if (links.childElementCount) article.append(links);
 				return article;
 			}

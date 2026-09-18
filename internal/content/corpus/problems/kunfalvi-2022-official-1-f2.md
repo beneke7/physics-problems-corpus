@@ -5,11 +5,13 @@ native_id: "F2"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [mechanics]
+subtopic: [rotational-dynamics, moment-of-inertia, torque, tension, force-balance]
+math_tools: [algebra]
+format: numerical
+difficulty_norm: 2
 core_ideas: []
+estimated_time_min: 15
 points: null
 has_solution: false
 has_figure: true

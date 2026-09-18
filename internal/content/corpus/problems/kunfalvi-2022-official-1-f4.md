@@ -5,11 +5,13 @@ native_id: "F4"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [relativity, quantum-physics]
+subtopic: [collisions, momentum, relativistic-energy-momentum, photon-energy]
+math_tools: [algebra, geometry-trigonometry]
+format: scaffolded
+difficulty_norm: 4
 core_ideas: []
+estimated_time_min: 25
 points: null
 has_solution: false
 has_figure: false
