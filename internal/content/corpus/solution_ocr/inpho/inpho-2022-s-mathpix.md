@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/inpho/2022_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Indian Olympiad Qualifier in Physics (IOQP) 2021-2022
 

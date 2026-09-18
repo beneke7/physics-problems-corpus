@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/spot/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Sp <br> Singapore Physics Olympiad Training
 

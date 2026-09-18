@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/spot/2025_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: []
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ![](../../../figures/solution-ocr/b06b984d6275ba06e08ab821.jpg)
 
