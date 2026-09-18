@@ -6,9 +6,9 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/inpho/2021_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [inpho-2021-a1, inpho-2021-a2, inpho-2021-a3, inpho-2021-a4, inpho-2021-a5]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Indian Olympiad Qualifier in Physics (IOQP) 2020-2021

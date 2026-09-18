@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/eupho/2025_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eupho-2025-T1, eupho-2025-T2, eupho-2025-T3]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## T1: Sunny (10 pts)
 

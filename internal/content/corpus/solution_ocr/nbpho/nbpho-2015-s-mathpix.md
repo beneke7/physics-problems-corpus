@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2015_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2015-annihilation, nbpho-2015-bouncy-ball, nbpho-2015-electric-field, nbpho-2015-gear-shift, nbpho-2015-holographic-lens, nbpho-2015-radiator, nbpho-2015-solenoids, nbpho-2015-star-wars, nbpho-2015-two-balls, nbpho-2015-vapour-pressure]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ![](../../../figures/solution-ocr/536839cf4f667c7172c9b6fa.jpg)
 

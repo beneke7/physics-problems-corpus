@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [aupho-2019-q1, aupho-2019-q10, aupho-2019-q11, aupho-2019-q12, aupho-2019-q13, aupho-2019-q14, aupho-2019-q2, aupho-2019-q3, aupho-2019-q4, aupho-2019-q5, aupho-2019-q6, aupho-2019-q7, aupho-2019-q8, aupho-2019-q9]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## SECTION A: MULTIPLE CHOICE USE THE ANSWER SHEET PROVIDED
 

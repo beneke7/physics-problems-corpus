@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2018_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2018-air-submarine, nbpho-2018-black-box, nbpho-2018-cube, nbpho-2018-fresnel-prism, nbpho-2018-gravitational-racing, nbpho-2018-lcr-circuit, nbpho-2018-magnetic-billiard, nbpho-2018-speed-camera, nbpho-2018-weather-forecast]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Nordic-Baltic Physics Olympiad 2018 Solutions
 

@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2004_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2004-coat-rack, eotvos-2004-electrons-magnetic-field, eotvos-2004-test-tube]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 2004. október 15-én rendezte meg az Eötvös Loránd Fizikai Társulat az azévi Eötvös-versenyt. Budapesten 76, Pécsen 15, Szegeden, Veszprémben és Szekszárdon 10-10, Debrecenben 9, Győrben 6, Miskolcon 5, Békéscsabán, Egerben, Kecskeméten, Nagykanizsán, Nyíregyházán és Sopronban 3-3, Székesfehérváron 2, összesen tehát 161 dolgozatot adtak be a versenyen részt vett - idén érettségizett, illetve középiskolás - diákok. Közülük 1 volt külföldi (szlovákiai) állampolgár, ő Győrben versenyzett.
 

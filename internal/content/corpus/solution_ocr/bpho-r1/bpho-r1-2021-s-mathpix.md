@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/bpho-r1/2021_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [bpho-r1-2021-2-q2, bpho-r1-2021-2-q3, bpho-r1-2021-2-q5]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## BPhO Round 1 Marking- 2021
 

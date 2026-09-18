@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2001_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2001-pushpin, eotvos-2001-rotating-sand, eotvos-2001-separated-spheres]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 2001. október 19-én rendezte meg az Eötvös Loránd Fizikai Társulat (ELFT) immár 85 éves múltra visszatekintő, hagyományos őszi fizikai tanulóversenyét, az Eötvös-versenyt.
 

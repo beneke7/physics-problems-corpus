@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2016_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2016-black-box, nbpho-2016-candy-wrapper, nbpho-2016-charge-on-ring, nbpho-2016-deflection-on-falling, nbpho-2016-dimmer, nbpho-2016-fuel-consumption, nbpho-2016-glass-plate, nbpho-2016-helium, nbpho-2016-music, nbpho-2016-oscillations]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Nordic-Baltic Olympiad 2016 Solutions
 

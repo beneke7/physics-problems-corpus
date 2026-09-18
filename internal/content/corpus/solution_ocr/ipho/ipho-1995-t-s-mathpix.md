@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/ipho/1995_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [ipho-1995-t-q1, ipho-1995-t-q2, ipho-1995-t-q3]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Solutions to Theoretical Question 1
 

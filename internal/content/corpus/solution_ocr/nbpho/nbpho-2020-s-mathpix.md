@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2020_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2020-bottles-sound, nbpho-2020-conical-room, nbpho-2020-drone, nbpho-2020-phases-of-water, nbpho-2020-tunnel-diode]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 1. Phases of water (6 points) - Solution by Johan Runeson, grading schemes by Johan Runeson and Adam Warnerbring.
 i) (1.5 points) We approximate the volume difference by the volume of the gas and use the ideal gas law: $V _ { g } - V _ { l } \approx V _ { g } = \frac { n R T } { m p } = \frac { R T } { \mu p }$. Then it follows from the law of Clausius-Clapeyron that

@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2010_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2010-ball-on-wall, nbpho-2010-black-box, nbpho-2010-charges-in-b-field, nbpho-2010-charges-in-e-field, nbpho-2010-elastic-thread, nbpho-2010-ice-rally, nbpho-2010-power-supply, nbpho-2010-satellite, nbpho-2010-sprinkler, nbpho-2010-thermos-bottle, nbpho-2010-tyrannosaur]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Estonian-Finnish Olympiad - 2010
 

@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2009_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2009-cylindrical-mirror, eotvos-2009-rolling-ball-sphere, eotvos-2009-superconductor-flux]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 2009. október 16-án délután 3 órai kezdettel került sor a háború utáni 61. Eötvös-versenyre Budapesten és 15 vidéki városban. Budapesten 50 , vidéken összesen 43 dolgozatot adtak be a versenyzők. Egerben, Sopronban és Székesfehérváron sajnos egyetlen diák sem indult a versenyen, de Békéscsabán, Kecskeméten, Nyíregyházán és Szombathelyen is csupán 1-1 dolgozat született. A vidéki egyetemi városok közül Pécsett 8, Szegeden és Miskolcon 6-6, Debrecenben 4, Veszprémben 3, Győrben pedig 2 versenyző adott be dolgozatot. Közülük összesen hatan voltak egyetemisták, míg Budapestról a versenyzők mintegy fele érettségizett 2009-ben, 22-en a BME elsóéves hallgatói voltak.
 

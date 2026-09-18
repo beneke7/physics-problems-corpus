@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2004_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2004-experiment, nbpho-2004-fourth-order-ellipse, nbpho-2004-loop-of-wire, nbpho-2004-magnets, nbpho-2004-passive-air-cooling, nbpho-2004-planets, nbpho-2004-rubber-fiber, nbpho-2004-tilt-shift-lens, nbpho-2004-transparent-film]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## I. Rubber fiber (12 pts)
 

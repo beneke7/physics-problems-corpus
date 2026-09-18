@@ -6,9 +6,10 @@ language: ru
 solution_type: official
 source_pdf: cache/phoxiv/izho/2016_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [izho-2016-t-q1, izho-2016-t-q2, izho-2016-t-q3]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## SOLUTIONS TO THE PROBLEMS OF THE THEORETICAL COMPETITION <br> Attention <br> Problem 1 (10.0 points) <br> Problem 1A (4.0 points)
 

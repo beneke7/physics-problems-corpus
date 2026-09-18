@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2014_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2014-dc-dc-converter, nbpho-2014-magnets, nbpho-2014-mirror-interference, nbpho-2014-plancks-constant, nbpho-2014-running-on-ice, nbpho-2014-spin-system, nbpho-2014-superballs, nbpho-2014-thermal-acceleration, nbpho-2014-waste-project, nbpho-2014-youngs-modulus-of-rubber]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## 1. DC-DC converter
 

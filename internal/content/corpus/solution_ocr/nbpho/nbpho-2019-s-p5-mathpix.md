@@ -1,0 +1,19 @@
+---
+id: solution-ocr-nbpho-2019-s-p5
+source: nbpho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/nbpho/2019_S.pdf
+extraction_method: mathpix-pdf-api-md
+mapped_problems: [nbpho-2019-brachistochrone]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
+---
+5. Brachistochrone (10 points) - Rūdolf Treilis.
+i) (2 points) The ball that moves on the orange curve is under an effective acceleration $a _ { \text {eff } } = \frac { H } { \sqrt { H ^ { 2 } + L ^ { 2 } } } g$, so $\frac { a _ { \text {eff } } t _ { o } ^ { 2 } } { 2 } = \sqrt { H ^ { 2 } + L ^ { 2 } }$ and $t _ { o } = \sqrt { \frac { 2 \left( H ^ { 2 } + L ^ { 2 } \right) } { g H } }$. The ball that moves on the blue curve initially falls for a time $t _ { 1 } =$ $\sqrt { 2 H / g }$ and then moves with a velocity $v =$ $\sqrt { 2 g H }$ for the remainder, hence $t _ { 2 } = \frac { L } { \sqrt { 2 g H } }$ and the total time is $t _ { b } = t _ { 1 } + t _ { 2 } = \frac { 2 H + L } { \sqrt { 2 g H } }$ . The equation $t _ { o } = t _ { b }$ can be solved to give $\frac { L } { H } = \frac { 4 } { 3 }$
+ii) (2 points) To understand this point one needs to apply Fermat's principle, which states that light always takes the path of locally least time between two points. Since the speed of the ball will vary based on height, this is reinterpreted as a height-variable index of refraction. From energy conservation it is know that $\frac { m v ( y ) ^ { 2 } } { 2 } = m g y$, hence $v ( y ) =$ $\sqrt { 2 g y }$ and $n ( y ) = \frac { v ( H ) } { v ( y ) } = \sqrt { \frac { H } { y } }$.
+iii) (2 points) From Snell's law we know that $n ( y ) \sin \theta =$ const. $= C$, so we need to express $\frac { d y } { d x } = \cot \theta$ in terms of $\sin \theta$ (notice that derivative is the cotangent is this case, because of the way how the angle is defined in optics). Use the result that $1 + \cot ^ { 2 } \theta =$ $\frac { 1 } { \sin ^ { 2 } \theta } = \frac { n ( y ) ^ { 2 } } { C ^ { 2 } }$, hence $\frac { d y } { d x } = \sqrt { A n ( y ) ^ { 2 } - 1 }$ with $A = \frac { 1 } { C ^ { 2 } }$
+iv) (2 points) We know that $\frac { d y } { d x } ( y = 0 ) =$ 0 (from the grazing condition), so find $n ( 0 ) = n _ { 0 }$ and $\frac { d y } { d x } ( y = 0 ) = \sqrt { A n _ { 0 } ^ { 2 } - 1 }$ hence $A = \frac { 1 } { n _ { 0 } ^ { 2 } }$. This in turn gives us $\frac { d y } { d x } = \sqrt { ( 1 + \alpha y ) ^ { 2 } - 1 }$, so $\frac { d y } { d x } ( y = h ) =$ $\sqrt { 2 \alpha h + \alpha ^ { 2 } h ^ { 2 } }$, hence $d = \frac { h } { d y / d x ( y = h ) } =$ $\frac { h } { \sqrt { 2 \alpha h + \alpha ^ { 2 } h ^ { 2 } } }$.
+v) (2 points) In this case there is a trivial cycloid linking the points $A$ and $B$ that also satisfies the initial condition $v _ { A } = 0$. Choose a wheel with radius $R = \frac { H } { 2 } = \frac { L } { \pi }$, so that the wheel completes exactly half a revolution between points $A$ and $B$. We want to find the functional dependence of the angular velocity on the roll angle $\omega ( \theta )$ such that the point at the top is at the same position as the point mass for all time. We can find the components of the velocity $v _ { y } = R \omega ( \theta ) \sin \theta$ and $v _ { x } = R \omega ( \theta ) [ 1 - \cos \theta ]$, hence $v ^ { 2 } =$ $2 R ^ { 2 } \omega ( \theta ) ^ { 2 } [ 1 - \cos \theta ] = 2 g R [ 1 - \cos \theta ]$, where the last equality comes from energy conservation of the ball. Hence we can conclude that the angular velocity is constant $\omega ^ { 2 } =$ $\frac { \pi ^ { 2 } } { t _ { \text {min } } ^ { 2 } } = \frac { g } { R }$ and $t _ { \text {min } } = \pi \sqrt { \frac { R } { g } } = \pi \sqrt { \frac { H } { 2 g } }$.

@@ -1,0 +1,70 @@
+---
+id: solution-ocr-aupho-2012-s-q12
+source: aupho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/aupho/2012_S.pdf
+extraction_method: mathpix-pdf-api-md
+mapped_problems: [aupho-2012-q12]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
+---
+Question 12
+Helicopters are useful machines which, amongst other things, facilitate the transport of pumpkins across difficult terrain. Consider a small helicopter hovering at some height above a large field of pumpkins.
+
+a) Draw a free body diagram showing the forces acting on the helicopter.
+Solution: A free body diagram of the small helicopter hovering above a large field of pumpkins is shown below.
+![](../../../figures/solution-ocr/f50be0d1fc7e5d8e880deb2a.jpg)
+As the helicopter is hovering there is no horizontal thrust or air resistance.
+b) What is the force that acts against gravity to keep the helicopter in the air, and what exerts this force on the helicopter?
+Solution: A force called lift acts against gravity to keep the helicopter in the air. As the blades pass through the air they exert a downwards force on it and by Newton's third law this air exerts a reaction force of equal magnitude upwards on the helicopter blades. This is the lift force.
+
+The power required for the helicopter to hover is equal to the downward force applied to the air by the helicopter blades times the mean velocity, $v$, of the downward moving column of air beneath its rotor blades.
+
+c) Find an expression for the rate, $R$, at which air flows past the blades (mass per unit time) in terms of the air velocity, $v$, air density, $\rho$, and the area swept out by the blades $A$.
+Solution: The volume of air that flows past the blades in time $t$ is Avt. Divide by $t$ to find the volume rate and multiply by $\rho$ to find the mass rate,
+$$
+R = A \rho v .
+$$
+.
+d) Show that the force exerted by the helicopter blades on the air is $F = A \rho v ^ { 2 }$.
+Solution:The force that the air exerts on the helicopter blades has the same magnitude as the force that the blades on the air. This is equal to the rate at which the air gains momentum. Momentum is mass times velocity. Assuming the air is initially stationary, the rate at which momentum is imparted is equal to the mass rate of air flow over the blades times the final velocity of the air. This gives
+$$
+F = R v = A \rho v ^ { 2 } .
+$$
+e) A company specialising in airlifting pumpkins owns a helicopter that can hover if its engine produces mechanical power $P$. Market research shows that some clients want more pumpkins airlifted at once, and the boss realises that a larger helicopter would be a good business investment. The pumpkin airlift company builds a helicopter that is 1.5 times as large in every
+
+linear dimension as their original helicopter. Using the results from the previous parts, what mechanical power $P ^ { \prime }$, in terms of $P$, is required for this larger helicopter to hover?
+Solution: If the new helicopter is 1.5 times as long in every linear dimension, its mass $m ^ { \prime } = 1.5 ^ { 3 } m$. The weight and therefore the lift required are both proportional to mass so increase by $1.5 ^ { 3 }$ also. Area is proportional to length squared so the new area of the blades $A ^ { \prime } = 1.5 ^ { 2 } A$. The velocity of the air pushed down by the helicopter blades is found using the answer to part d) to be
+
+$$
+v = \sqrt { F / A \rho } .
+$$
+
+As $\rho$ is unchanged the new velocity
+
+$$
+v ^ { \prime } = \sqrt { 1.5 ^ { 3 } / 1.5 ^ { 2 } } v = 1.5 ^ { 1 / 2 } v .
+$$
+
+The power $P = F v$, so for the new helicopter
+
+$$
+\begin{aligned}
+P ^ { \prime } & = F ^ { \prime } v ^ { \prime } \\
+& = 1.5 ^ { 3 } F 1.5 ^ { \frac { 1 } { 2 } } v \\
+& = 1.5 ^ { 3.5 } P \\
+& = 4.1 P
+\end{aligned}
+$$
+
+Marker's comments:
+
+a) The two most common errors in responses to this question were including horizontal forces and including elements in the diagram other than forces acting on the helicopter.
+b) Students' explanations were often unclear.
+Some students did not understand that action-reaction pairs of forces do not act on the same body.
+c) Many students used dimensional analysis which gives the same answer but does not allow them to verify that the numerical constant is 1.
+d) Again, students' explanations were often unclear. Also some students used dimensional analysis, which provides a check but does not prove the validity of the relationship.
+e) The velocity of the air changes with the scale of the helicopter but most students missed this effect. Many students also had difficulty calculating the change in other variables such as area and mass of the larger helicopter.

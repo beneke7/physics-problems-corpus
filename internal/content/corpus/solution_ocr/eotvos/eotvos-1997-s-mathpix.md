@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/1997_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-1997-electron-magnetic-deflection, eotvos-1997-falling-chain, eotvos-1997-lunar-eclipse]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 1. Magyarországon 1997. szeptember 16-án este holdfogyatkozást lehetett megfigyelni. Negyed 10-tốl negyed 11-ig tartott a teljes holdfogyatkozás, vagyis ekkor tartózkodott a Hold teljes egészében a Föld teljes árnyékában.
 a) A holdfogyatkozás általában hosszabb ideig tart, mint a napfogyatkozás. Miért?

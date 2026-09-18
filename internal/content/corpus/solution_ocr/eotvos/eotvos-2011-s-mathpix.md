@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2011_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2011-satellite-decay, eotvos-2011-toroid-transformer, eotvos-2011-water-vapor]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Beszámoló a 2011. évi Eötvös-versenyről <br> Radnai Gyula
 

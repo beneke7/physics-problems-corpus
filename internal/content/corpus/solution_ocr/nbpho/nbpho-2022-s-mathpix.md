@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2022_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [escape-simson, nbpho-2022-ac-filter, nbpho-2022-brightness-of-planets, nbpho-2022-electrons-magnetic-field, nbpho-2022-ferromagnetic-stripe, nbpho-2022-gas, nbpho-2022-life-hacks, nbpho-2022-magnet-in-glass, nbpho-2022-rocket]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## NBPHO-2022 Solutions
 

@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/1996_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-1996-charged-water, eotvos-1996-gas-heating, eotvos-1996-grasshopper-jump]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 1996 október 25-én rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos őszi tanulóversenyét, az Eötvös versenyt. Budapesten kívül 14 vidéki városban zajlott egyidőben a verseny, amelyen az 1996-ban érettségizettek és középiskolai tanulók vehettek részt. Indulhattak Magyarországon tanuló külföldi diákok és külföldön tanuló magyar, illetve magyar anyanyelvú diákok is. Minden magukkal hozott segédeszközt - tankönyveket, jegyzeteket, zsebszámoló-gépet - szabadon használhattak. Összesen 300 perc állt rendelkezésre a Versenybizottság által kitüzött három feladat megoldására.
 

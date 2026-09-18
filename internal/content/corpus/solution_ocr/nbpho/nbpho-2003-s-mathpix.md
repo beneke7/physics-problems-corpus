@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2003_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2003-charged-particle, nbpho-2003-experiment, nbpho-2003-gravitation, nbpho-2003-heat-flux, nbpho-2003-telescope, nbpho-2003-tunnel-diode, nbpho-2003-vibration, nbpho-2003-volleyball]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Solutions
 

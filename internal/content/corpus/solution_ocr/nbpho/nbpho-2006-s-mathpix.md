@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2006_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2006-car, nbpho-2006-drying, nbpho-2006-electric-experiment, nbpho-2006-empty-bag, nbpho-2006-mass-spectrometer, nbpho-2006-optics-experiment, nbpho-2006-photography, nbpho-2006-sucking]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## I. Drying
 

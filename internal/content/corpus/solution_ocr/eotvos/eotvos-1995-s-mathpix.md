@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/1995_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-1995-conveyor-belt-disk, eotvos-1995-laser-slit-diffraction, eotvos-1995-superconductor-rings]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 1995. október 20-án az országban 15 városban megtartott Eötvös versenyre az alábbi feladatokat túzte ki a Versenybizottság (elnök: Radnai Gyula, tagok: Károlyházy Frigyes, Gnädig Péter):
 1996. feladat. Egy négyzet alakú, $l = 3 \mathrm {~m}$ széles kísérletező asztal felszíne sík, $d = 1 \mathrm {~m}$ szélességü középső sávját azonban állandó $v = 3 \mathrm {~m} / \mathrm { s }$ sebességgel mozgó (végtelenített) gumiszalag képezi, amely pontosan illeszkedik az asztallap nyugvó felszínéhez. Az asztal egyik szélének közepére (az 1. ábrán látható $A$ pontra) egy kicsi, lapos korongot fektetünk, és megütjük úgy, hogy $u = 4 \mathrm {~m} / \mathrm { s }$ sebességgel kezdjen csúszni (merőlegesen) a szalag felé. Az asztallap álló része és a korong közötti súrlódás elhanyagolható, a gumiszalag és a korong közötti súrlódási tényező $\mu = 0,5$.

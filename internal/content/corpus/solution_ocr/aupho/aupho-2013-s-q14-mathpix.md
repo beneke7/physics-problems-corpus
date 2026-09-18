@@ -1,0 +1,114 @@
+---
+id: solution-ocr-aupho-2013-s-q14
+source: aupho
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/aupho/2013_S.pdf
+extraction_method: mathpix-pdf-api-md
+mapped_problems: [aupho-2013-q14]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
+---
+Question 14
+Suggested Time: 40 min
+Friction is the force between surfaces that acts to prevent their relative motion. It acts along the plane of the surface. The part of the contact force which acts perpendicular to the plane of the surface is the normal force. Static friction, present when two bodies are at rest relative to each other, takes any value necessary to balance other forces up to a maximum given by
+
+$$
+\mathbf { F } = \mu \mathbf { N } ,
+$$
+
+where $\mu$ is the coefficient of static friction.
+Friction can be used to make eating pineapple an exciting experience. Consider a large cube of pineapple sitting on a chopping board. One end of the board is on the edge of the bench, and the other end is raised, so that the board is inclined at an angle $\theta$ to the bench.
+
+a) Draw a free body diagram showing the forces acting on the pineapple.
+Solution:
+![](../../../figures/solution-ocr/b34b79324749875882f1c3ca.jpg)
+Marker's comments:
+Students often included things other than forces in their diagrams. They also did not always label the forces in the diagram or indicate where on the body the force acted.
+b) The board is gradually tilted up until the cube of pineapple begins to slide inexorably toward the waiting mouth at bottom of ramp. Show that $\mu = \tan \theta$.
+Solution:
+Resolve to the force due to gravity into components along and perpendicular to the ramp, i.e. into the $x$ and $y$ directions shown in the diagram above. In combination with Newton's second law, the condition that there is no acceleration perpendicular to the ramp gives
+$$
+N = m g \cos \theta .
+$$
+In the direction along the ramp at the angle where the pineapple is about to slip the nett force is still zero but the frictional force takes its maximum value. Hence,
+$$
+m g \sin \theta = \mu N .
+$$
+Solving for the frictional coefficient gives
+$$
+\mu = \frac { \sin \theta } { \cos \theta } = \tan \theta
+$$
+
+as required.
+Marker's comments:
+Students needed to give more explanation of their reasoning in this part.
+Students often incorrectly applied Newton's third law.
+
+Cubes of pineapple are, regrettably, perishable goods, and we apologise that we were unable to ship one to you for the purposes of this examination. Therefore, the next part of this question will use the (admittedly poor) substitutes of paper and pencil. When you draw on paper with a lead pencil, you coat the paper with a graphite mixture.
+
+c) The coefficients of static friction differ between different pairs of surfaces. Using the ideas presented above and the theory you have derived, devise and perform an experiment to find the difference between A) the coefficient of static friction between paper and paper and B) the coefficient of static friction between paper and graphite mixture.
+
+Equipment: You may tear out the next three leaves of this question book to use as equipment. Some suggested folds are marked to help you create some useful apparatus, but the choice of what to do with your paper is up to you. Along with the paper of these three pages, you may also use the lead pencil which you brought into this exam, and a ruler. Remember to be safe when using any equipment - make sure you don't injure yourself or other people (or your pencil or ruler).
+
+What is required: Write out the method that you are going to use in detail and justify why you have chosen it, along with any modifications you make along the way. State your results, and any processing you do of them, and evaluate your answers.
+
+Important: the credit in this question is primarily for your method, how you would calculate the results, and your observations of what works and doesn't as you try your experiment. The numeric answers are a small part, and you should not be concerned if you are unable to get them - we are interested in your thought processes, designs and observations.
+
+As a final note, although this be in lieu of a pineapple-based experiment, do not attempt to eat any of your equipment.
+
+Solution: No solution is given as there are many variations with no clear preferred solution. Students solutions were required to have the elements requested in the question.
+
+Marker's comments:
+Students who constructed some apparatus and performed an experiment obtained a range of results, with many discussing quite interesting sources of error and modifications to their methods. Some students managed to extract quite good values for the coefficients. Common problems with this question were not attempting an experiment, attempting to find coefficients of friction between various different objects and paper, and rolling pieces of pencil lead down the paper instead of coating the paper with a layer of pencil and then using another piece of paper.
+
+Credit was given for the method, discussions, and analysis of results, including an estimate of uncertainty. As long as the coefficients were remotely plausible the results did not have to be accurate to score the marks.
+
+
+This work of ours is done: there are no questions more.
+Your work has just begun: enjoy it, we implore!
+
+The remaining pages in this booklet are for use as equipment for Q14.
+
+
+This page may be torn out and used as equipment.
+A4 paper is 297 mm long by 210 mm wide.
+
+Page 18 of 23
+2013 Australian Science Olympiad Exam - Physics Solutions
+© Australian Science Innovations 2013 ABN 81731558309
+
+
+This page may be torn out and used as equipment.
+A4 paper is 297 mm long by 210 mm wide.
+
+
+This page may be torn out and used as equipment.
+A4 paper is 297 mm long by 210 mm wide.
+
+Page 20 of 23
+2013 Australian Science Olympiad Exam - Physics Solutions
+© Australian Science Innovations 2013 ABN 81731558309
+
+
+This page may be torn out and used as equipment.
+A4 paper is 297 mm long by 210 mm wide.
+
+Page 21 of 23
+2013 Australian Science Olympiad Exam - Physics Solutions
+© Australian Science Innovations 2013 ABN 81731558309
+
+
+This page may be torn out and used as equipment.
+A4 paper is 297 mm long by 210 mm wide.
+
+Page 22 of 23
+2013 Australian Science Olympiad Exam - Physics Solutions
+© Australian Science Innovations 2013 ABN 81731558309
+
+
+## Integrity of Competition
+
+If there is evidence of collusion or other academic dishonesty, students will be disqualified. Markers' decisions are final.

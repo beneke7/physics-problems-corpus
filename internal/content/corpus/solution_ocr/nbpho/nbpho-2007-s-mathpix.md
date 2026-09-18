@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2007_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2007-coefficient-friction, nbpho-2007-laser, nbpho-2007-mars, nbpho-2007-pendulum, nbpho-2007-rotating-disk, nbpho-2007-temporal-focusing, nbpho-2007-truck, nbpho-2007-wire]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## I. Wire (7 pts)
 

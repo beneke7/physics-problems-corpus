@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2007_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2007-autotransformer-induction, eotvos-2007-glass-plates-water-capillary, eotvos-2007-lens-mirror-equivalence]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 2007. október 26-án délután 3-tól este 8-ig zajlott az 1949-es felújítása óta immár ötvenkilencedik Országos Eötvös Loránd Fizikaverseny, népszerú nevén Eötvös-verseny. Az ország 15 városában várták a verseny helyi szervezői azokat a diákokat, akik vagy még középiskolások voltak ebben a tanévben, vagy 2007-ben fejezték be középiskolai tanulmányaikat. (Nem csak magyar állampolgárságú, hanem külföldi diákok is indulhatnak az Eötvös-versenyen, akik magyar nyelven tanulják/tanulták a fizikát Magyarországon, vagy valamelyik környező országban.) A feladatokat a Versenybizottság állítja össze, ennek elnöke Radnai Gyula, tagjai Gnädig Péter, Honyek Gyula és Károlyházy Frigyes. Megoldási idő 300 perc; a megoldáshoz bármilyen írott vagy nyomtatott könyv, füzet felhasználható, amit a diák magával hoz a versenyre. Saját zsebszámológépét is használhatja, de természetesen a verseny ideje alatt nem használhat mobiltelefont. A beérkezett dolgozatokat a Versenybizottság bírálja el, dönt a díjakról, dicséretekről.
 

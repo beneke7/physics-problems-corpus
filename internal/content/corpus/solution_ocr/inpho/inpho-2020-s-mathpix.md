@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/inpho/2020_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [inpho-2020-a1, inpho-2020-a3, inpho-2020-a4-7, inpho-2020-a5-8]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Solutions of Indian National Physics Olympiad - 2020
 

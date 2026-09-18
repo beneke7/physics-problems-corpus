@@ -1,0 +1,53 @@
+---
+id: solution-ocr-bpho-r2-2013-s-q1
+source: bpho-r2
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: cache/phoxiv/bpho-r2/2013_S.pdf
+extraction_method: mathpix-pdf-api-md
+mapped_problems: [bpho-r2-2013-q1]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
+---
+Q1
+
+(i) $x _ { B } = 2 L$
+(ii) $\quad x _ { A } = 2 \sqrt { L ^ { 2 } + \left( \frac { v t _ { A } } { 2 } \right) ^ { 2 } } = \sqrt { 4 L ^ { 2 } + \left( v t _ { A } \right) ^ { 2 } }$
+(iii) $t _ { B } = 2 L / c$
+(iv) $t _ { A } = \frac { x _ { A } } { c }$
+$$
+\begin{gathered}
+t _ { A } ^ { 2 } = \frac { 1 } { c ^ { 2 } } \left( 4 L ^ { 2 } + v t _ { A } ^ { 2 } \right) \\
+t _ { A } ^ { 2 } \left( 1 - v ^ { 2 } / c ^ { 2 } \right) = \frac { 4 L ^ { 2 } } { c ^ { 2 } } \\
+t _ { A } = \frac { 2 L / c } { \sqrt { 1 - v ^ { 2 } / c ^ { 2 } } } \\
+t _ { A } = \frac { t _ { B } } { \sqrt { 1 - v ^ { 2 } / c ^ { 2 } } }
+\end{gathered}
+$$
+
+This is the famous relativistic time-dilation formula. It says that an event that observer B experiences as taking a time $\mathrm { t } _ { \mathrm { B } }$ will be experienced by observer A to take a different time, $\mathrm { t } _ { \mathrm { A } }$, which is longer than $\mathrm { t } _ { \mathrm { B } }$ by a factor depending on the speed of B relative to A.
+
+
+## Copper wire bit of Q1
+
+Free-electron density: $\rho _ { e } = \rho _ { \text {atoms } } = \frac { \rho _ { C u } } { M _ { u ( C u ) } } N _ { A }$
+where $\mathrm { M } _ { \mathrm { u } ( \mathrm { Cu } ) }$ is the atomic mass of copper, $\rho _ { \mathrm { Cu } }$ is the density of copper, and $\mathrm { N } _ { \mathrm { A } }$ is Avogadro's constant.
+
+$$
+\begin{aligned}
+& \text { current } = I = \frac { \text { coulombs } } { \text { second } } = \frac { \text { electrons } } { \text { second } } \times \frac { \text { coulombs } } { \text { electron } } \\
+& I = \frac { \text { volume swept out by current } } { \text { second } } \times \frac { \text { electrons } } { \text { unit volume } } \times \frac { \text { coulombs } } { \text { electron } } \\
+& I = \pi r _ { \text {wire } } ^ { 2 } v _ { e } \times \rho _ { e } \times q _ { e }
+\end{aligned}
+$$
+
+So: $\quad v _ { e } = \frac { I } { \left( \pi r _ { \text {wire } } ^ { 2 } \rho _ { e } q _ { e } \right) } \cong \frac { 1 } { 40,000 } I$
+
+Force between wires: In each wire there are electrons and positively-charged ions (the atoms that have "lost" electrons). Each electron and ion in the wires attracts or repels the electrons and ions in the other wire. If a current is flowing then the electrons are moving with respect to the ions. This means that, from the electrons' frame of reference, the ions (and, therefore, the wires) are moving.
+
+As we saw in the first part of the question, this means that the electrons in wire A will "see" the length of a line-segment of wire B as having a different, shorter, length than it would have if they were at rest relative to one another. This means that the linear positive charge density, due to the presence of the ions, appears greater to the electrons. The electrons therefore experience an attractive force toward the other wire due to the resulting Coulomb interaction, and there is a net force between the two wires. Since the drift velocity of the conduction electrons is very small, the Coulomb attraction is also very small, due to the $v ^ { 2 } / c ^ { 2 }$ term.
+
+Transforming into the ion frame, the Coulomb force becomes the magnetic force. Hence we see that special relativity provides the link between electrodynamics and magnetostatics.
+
+An in-depth argument, with full derivations, is available online at http://rs20.mine.nu/w/2012/08/how-do-magnets-work-magnetism-electrostatics-relativity/

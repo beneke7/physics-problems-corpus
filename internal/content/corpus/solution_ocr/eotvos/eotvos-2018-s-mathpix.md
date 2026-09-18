@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2018_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2018-charged-cylinder-solenoid, eotvos-2018-gas-mixture-heating, eotvos-2018-rotating-bubble]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Beszámoló a 2018. évi Eötvös-versenyröl
 

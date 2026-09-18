@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/inpho/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [inpho-2024-a1, inpho-2024-a1-3, inpho-2024-a2, inpho-2024-a2-4, inpho-2024-a3, inpho-2024-a4, inpho-2024-a5, inpho-2024-a6]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 # Indian National Physics Olympiad (INPhO)-2024 <br> HOMI BHABHA CENTRE FOR SCIENCE EDUCATION <br> Tata Institute of Fundamental Research <br> V. N. Purav Marg, Mankhurd, Mumbai, 400088
 

@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/gpho/2016_experiment_solutions.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [gpho-2016-e1, gpho-2016-e2]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Problem E1. Rolling cylinder (points)
 

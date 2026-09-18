@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/aupho/2015_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [aupho-2015-q1, aupho-2015-q10, aupho-2015-q11, aupho-2015-q12, aupho-2015-q13, aupho-2015-q14, aupho-2015-q2, aupho-2015-q3, aupho-2015-q4, aupho-2015-q5, aupho-2015-q6, aupho-2015-q7, aupho-2015-q8, aupho-2015-q9]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 Time Allowed:
 Reading Time: 10 minutes

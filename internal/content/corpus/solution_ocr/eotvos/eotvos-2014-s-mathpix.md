@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2014_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2014-boiling-water-pressure, eotvos-2014-carpet-unrolling, eotvos-2014-magnetic-sphere-current]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 # BESZÁMOLÓ A 2014. ÉVI EÖTVÖS-VERSENYRŐL
 

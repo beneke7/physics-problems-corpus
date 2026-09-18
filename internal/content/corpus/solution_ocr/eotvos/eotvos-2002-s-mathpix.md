@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2002_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2002-gymnast-rings, eotvos-2002-rotating-flask]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 2002. október 18-án rendezte meg az Eötvös Loránd Fizikai Társulat Budapesten és 14 vidéki városban az ezévi Eötvös-versenyt. A versenyen 169 magyar, 1 szlovák és 1 román állampolgárságú versenyző adott be dolgozatot, nevezetesen Budapesten 64, Szegeden 19, Pécsett 17, Debrecenben és Szekszárdon 10-10, Veszprémben 9, Nagykanizsán és Sopronban 8-8, Békéscsabán 7, Egerben 5, Győrött 5, Miskolcon 4, Székesfehérváron 3, Nyíregyházán és Szombathelyen pedig 1-1 dolgozat született. A versenyzők 92\%-a gimnazista volt; az érettségizett versenyzők valamennyien budapesti egyetemeken (BMGE, ELTE) tanulnak. Ismertetjük a feladatokat, s azok helyes megoldását.
 2003. Szeretnénk megbecsülni, hogy mekkora eró feszíti a gyúrữn edzó tornász karjait pályájának legalsó pontján, ha kézenállásból óriáskörbe lendül. A következö egyszerü modellt alkalmazzuk: igen hosszú, nyújthatatlan kötél végére l hosszúságú, $m$ tömegữ homogén rudat erósítünk, és az $1 . a$ ábrán látható helyzetbốl elengedjük. Számítsuk ki, hogy mekkora eró feszíti a kötelet az 1.b ábrán látható pillanatban! (A kötél tömegét hanyagoljuk el!)

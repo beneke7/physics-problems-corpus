@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/spot/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [spot-2019-q1, spot-2019-q2, spot-2019-q3, spot-2019-q4, spot-2019-q5, spot-2019-q6]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 # Singapore Physics Olympiad Training (SPOT) - Marker's report for 2019 selection test
 

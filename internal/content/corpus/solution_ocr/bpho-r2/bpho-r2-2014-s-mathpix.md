@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/bpho-r2/2014_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [bpho-r2-2014-q1, bpho-r2-2014-q3, bpho-r2-2014-q4, bpho-r2-2014-q5, bpho-r2-2014-q6]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Solutions: BPhO Round 2 January 2014
 

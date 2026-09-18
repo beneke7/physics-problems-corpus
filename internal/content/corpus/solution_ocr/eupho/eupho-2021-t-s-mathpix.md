@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/eupho/2021_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eupho-2021-T1, eupho-2021-T2, eupho-2021-T3]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## T1: A Leak
 

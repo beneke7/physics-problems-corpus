@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/apho/2005_E_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [apho-2005-e-q1, apho-2005-e-q2]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## 1. SHAPES DETERMINATION BY REFLECTION <br> SUGGESTED SOLUTION
 

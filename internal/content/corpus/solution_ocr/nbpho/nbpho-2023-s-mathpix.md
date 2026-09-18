@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2023_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2023-black-box, nbpho-2023-curling, nbpho-2023-force-sensor, nbpho-2023-nitrogen-explosion, nbpho-2023-stack-of-papers, nbpho-2023-string-coupled-masses, nbpho-2023-wobble]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Nordic-Baltic Physics Olympiad 2023
 

@@ -6,9 +6,9 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/usapho/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [usapho-2019-a1, usapho-2019-a2, usapho-2019-a3, usapho-2019-b1, usapho-2019-b2, usapho-2019-b3]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ![](../../../figures/solution-ocr/10401bfed35a8c6646d914d0.jpg)

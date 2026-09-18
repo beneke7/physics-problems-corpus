@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/usapho/2010_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [usapho-2010-a1, usapho-2010-a2, usapho-2010-a3, usapho-2010-a4, usapho-2010-b1, usapho-2010-b2]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ![](../../../figures/solution-ocr/7419210849ef4777c8964640.jpg)
 

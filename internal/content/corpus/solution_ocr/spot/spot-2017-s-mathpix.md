@@ -6,9 +6,9 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/spot/2017_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [spot-2017-q5-7, spot-2017-q6, spot-2017-q7, spot-2017-q8-10]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Examiner's Report for 2017 selection test

@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2012_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2012-glass-rod, eotvos-2012-rolling-ball, eotvos-2012-toroidal-coils]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Beszámoló a 2012. évi Eötvös-versenyről
 

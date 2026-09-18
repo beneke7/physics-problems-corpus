@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-2024-balloon-elastic, eotvos-2024-lens-system, eotvos-2024-rotating-tube]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Beszámoló a 2024. évi Eötvös-versenyröl
 

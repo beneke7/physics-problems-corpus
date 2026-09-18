@@ -6,9 +6,10 @@ language: hu
 solution_type: official
 source_pdf: cache/phoxiv/eotvos/1999_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [eotvos-1999-evaporating-liquids, eotvos-1999-falling-magnet, eotvos-1999-fighter-plane-sound]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 1999. október 15-én rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos őszi tanulóversenyét, az Eötvösversenyt, melyen 156 hazai, 3 szlovákiai és 1 romániai versenyző indult. Az első feladatot 15 versenyző tudta hibátlanul megoldani, a másodikat 40 , a harmadikra azonban csupán egy tökéletes megoldás érkezett. Részben jó megoldás elég sok volt.
 

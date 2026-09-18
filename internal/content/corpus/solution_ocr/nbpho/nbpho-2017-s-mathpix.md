@@ -6,9 +6,10 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/nbpho/2017_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [nbpho-2017-beams, nbpho-2017-black-box, nbpho-2017-comet, nbpho-2017-dragon, nbpho-2017-gravitational-waves, nbpho-2017-loop, nbpho-2017-resistors-capacitors, nbpho-2017-spacecraft-pressure, nbpho-2017-virtual-mass, nbpho-2017-zener]
+mapped_problems: []
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
+canonical_solution: false
 ---
 ## Nordic-Baltic Physics Olympiad 2017 Solutions
 

@@ -6,9 +6,9 @@ language: en
 solution_type: official
 source_pdf: cache/phoxiv/ipho/2001_T_S.pdf
 extraction_method: mathpix-pdf-api-md
-mapped_problems: [ipho-2001-t-q1, ipho-2001-t-q2, ipho-2001-t-q3]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Solution
