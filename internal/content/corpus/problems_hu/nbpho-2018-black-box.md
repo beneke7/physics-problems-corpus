@@ -12,8 +12,8 @@ math_tools: [series-complex, geometry-trigonometry, algebra]
 format: experimental
 points: 11
 core_ideas: [kalda-circuits-idea1, kalda-circuits-idea33]
-has_figure: true
-figure_files: [nbpho-2018-black-box-fig1.jpg, nbpho-2018-black-box-fig2.jpg]
+has_figure: false
+figure_files: []
 provenance_note: "NBPhO 2018 (Északi-Balti Fizika Olimpia), 9. feladat, szerzők: Jaan Kalda és Mihkel Heidelberg. Born-digital PDF-ből kinyerve (cache/phoxiv/nbpho/2018.pdf) Mathpix OCR-rel. Megjegyzés: az eredeti dokumentumban '?? 1pont' van feltüntetve, de az alkérdések összesen 11 pontot adnak."
 verification_status: pending
 ---
@@ -23,10 +23,6 @@ verification_status: pending
 **Eszközök:** Fekete doboz, multimèter, stopóra.
 
 A fekete doboznak három vezetékcsatlakozója van: "kék", "fekete" és "fehér", és a belsejében csillag konfigurációban a következő elemek találhatók: egy akkumulátor, egy kondenzátor, egy tekercs és egy dióda sorozatba kapcsolva. A diódát "ideálisnak" tekintheted — az egyik irányban tökéletesen vezeti az áramot, a másik irányban nem. Az akkumulátor és a kondenzátor belső ellenállásátt elhanyagolhatónak tekintsd, de a tekercs jelentős belső ellenállással rendelkezik. A multimèter belső ellenállása a feszültség mérésénél $R_{m} = 10\ \mathrm{M\Omega}$ és másodpercenként új érték jelenik meg $t = 0{,}4\ \mathrm{s}$ után.
-
-![figure](../../figures/nbpho/figures/nbpho-2018-black-box-fig1.jpg)
-
-![figure](../../figures/nbpho/figures/nbpho-2018-black-box-fig2.jpg)
 
 **i)** *(3 pont)* Rajzold meg a fekete dobozban található elektromos áramkört. Indokold meg a megoldásodat a mérésekkel.
 

@@ -13,7 +13,7 @@ format: experimental
 points: 12
 core_ideas: [kalda-waveoptics-idea2]
 has_figure: true
-figure_files: [nbpho-2018-fresnel-prism-fig1.jpg]
+figure_files: [nbpho-2018-fresnel-prism-fig1.jpg, nbpho-2018-fresnel-prism-fig2.jpg]
 provenance_note: "NBPhO 2018 (Nordic-Baltic Physics Olympiad), Problem 4, by Eero Uustalu and Jaan Kalda. Extracted from born-digital PDF (cache/phoxiv/nbpho/2018.pdf) via Mathpix OCR."
 verification_status: pending
 has_solution: true
@@ -28,6 +28,8 @@ techniques: [smart-coordinates, limiting-and-special-cases]
 Fresnel prism is a transparent sheet with a periodic array of stripes; cross-section of such a sheet is shown in figure. The refraction index of the material from which the sheet is made $n = 1.47$.
 
 ![figure](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
+
+![Stripe sheet](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig2.jpg)
 
 **i)** *(4 points)* Determine the pitch $d$ of the Fresnel prism (see figure for the definition of the pitch).
 

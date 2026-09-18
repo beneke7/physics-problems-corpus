@@ -13,7 +13,7 @@ format: experimental
 points: 12
 core_ideas: [kalda-waveoptics-idea2]
 has_figure: true
-figure_files: [nbpho-2018-fresnel-prism-fig1.jpg]
+figure_files: [nbpho-2018-fresnel-prism-fig1.jpg, nbpho-2018-fresnel-prism-fig2.jpg]
 provenance_note: "NBPhO 2018 (Északi-Balti Fizika Olimpia), 4. feladat, szerzők: Eero Uustalu és Jaan Kalda. Born-digital PDF-ből kinyerve (cache/phoxiv/nbpho/2018.pdf) Mathpix OCR-rel."
 verification_status: pending
 ---
@@ -25,6 +25,8 @@ verification_status: pending
 A Fresnel-prizma egy átlátszó lap, amelyen periodikus csíkok sora található; az ilyen lap keresztmetszete az ábrán látható. Az anyag törésmutatója, amelyből a lap készült, $n = 1{,}47$.
 
 ![figure](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
+
+![Csíkokat tartalmazó lap](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig2.jpg)
 
 **i)** *(4 pont)* Határozd meg a Fresnel-prizma osztástávját, $d$-t (az ábra megmutatja az osztástáv definícióját).
 
