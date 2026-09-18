@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/usapho/1997_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [usapho-1997-a1, usapho-1997-a2, usapho-1997-a3, usapho-1997-a4, usapho-1997-b1, usapho-1997-b2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 (a) The modes are![](../../../figures/solution-ocr/38d23e3c9fcd1499bfa1ee91.jpg)
 (b) $$

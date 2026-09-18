@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2024-four-charges, nbpho-2024-kitchen-physics, nbpho-2024-oklo-reactor, nbpho-2024-sticky-ball, nbpho-2024-string-pendulum, nbpho-2024-totality]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Nordic-Baltic Physics Olympiad 2024
 

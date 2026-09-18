@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/inpho/2014_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [inpho-2014-a1, inpho-2014-a2, inpho-2014-a3, inpho-2014-a4, inpho-2014-a5, inpho-2014-a6]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Indian National Physics Olympiad - 2014 QUESTION PAPER \& SOLUTIONS
 

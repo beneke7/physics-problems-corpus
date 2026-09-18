@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2008_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2008-dumbbell, nbpho-2008-electron, nbpho-2008-fire, nbpho-2008-magnetic-field, nbpho-2008-microcalorimeter, nbpho-2008-tractor]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 1. Dumbbell (6 points)
 1) During the first collision, we can neglect the effect of the spring, because during the collision time, the balls almost don't move, hence the spring doesn't deform. Two absolutely elastic identic balls exchange velocity during a central collision. So, the first ball will remain at rest, and the second one will obtain the velocity $v$. So, the velocity of the centre of mass of the dumbbell is $v / 2$.

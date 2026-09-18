@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/apho/2022/T3_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [apho-2022-t3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 General Grading Guidelines
 When student's solutions are correct and s/he also show how solutions were obtained, the stduent gets full credit. The scheme oulined below is helpful if the student's answers are partially correct. Attention will be paid to the detailed solution so, if the final answer is correct but it is obtained by incorrect method(s) then no credit will be given. Alternative solutions may exist and will be given due credit.

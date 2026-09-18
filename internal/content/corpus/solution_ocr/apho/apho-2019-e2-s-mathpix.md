@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/apho/2019/E2_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [apho-2019-e2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 These quantitative values obtained depend strongly on the depth and other properties of the fluid, including how much oil has evaporated. The values mentioned in here correspond to the fluid as used at the APhO in Adelaide in May 2019.
 Qualitative aspects of the solutions apply, even where values vary.

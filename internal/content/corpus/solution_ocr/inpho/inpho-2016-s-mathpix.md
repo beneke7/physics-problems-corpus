@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/inpho/2016_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [inpho-2016-a1, inpho-2016-a2, inpho-2016-a3, inpho-2016-a4-7, inpho-2016-a5-8]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Indian National Physics Olympiad - 2016
 

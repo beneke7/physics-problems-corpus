@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/inpho/2018_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [inpho-2018-a1, inpho-2018-a2, inpho-2018-a3, inpho-2018-a4-7, inpho-2018-a5-8, inpho-2018-a6, inpho-2018-a7]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Solutions of Indian National Physics Olympiad - 2018
 

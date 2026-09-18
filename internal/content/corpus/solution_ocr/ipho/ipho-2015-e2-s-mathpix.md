@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/2015/E2_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-2015-e2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Diffraction due to surface tension waves on water ${ } ^ { \mathbf { 1 } }$
 Part C: Measurement of angle, $\boldsymbol { \theta }$

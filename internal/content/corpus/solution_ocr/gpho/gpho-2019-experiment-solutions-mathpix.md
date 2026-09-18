@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/gpho/2019_experiment_solutions.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [gpho-2019-e1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # The $\mathbf { 3 } ^ { \text {rd } }$ Gulf Physics Olympiad - Experimental Competition Solutions
 

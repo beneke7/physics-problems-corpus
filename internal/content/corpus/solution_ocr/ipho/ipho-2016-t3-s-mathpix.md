@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/2016/T3_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-2016-t3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Problem 3 : Solution/marking scheme - Large Hadron Collider (10 points)
 

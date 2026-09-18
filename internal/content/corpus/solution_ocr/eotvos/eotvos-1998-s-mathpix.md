@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/1998_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-1998-curvature-variometer, eotvos-1998-perfume-evaporation, eotvos-1998-solenoid-induction]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 1998. október 16-án rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos őszi tanulóversenyét, az Eötvösversenyt. Ismertetjük a feladatokat, mindegyik feladat helyes megoldását, majd a verseny végeredményét.
 1999. Eötvös Loránd görbületi variométerében egy vékony torziós szálra középen felfüggesztett könnyü rúd végein két test helyezkedik el azonos magasságban. (l. az 1. ábrát.)

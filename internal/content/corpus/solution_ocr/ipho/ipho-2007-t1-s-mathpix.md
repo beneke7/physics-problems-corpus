@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/2007/T1_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-2007-t1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 1.1) One may use any reasonable equation to obtain the dimension of the questioned quantities.
 I) The Planck relation is $h v = E \quad \Rightarrow \quad [ h ] [ v ] = [ E ] \quad \Rightarrow \quad [ h ] = [ E ] [ v ] ^ { - 1 } = M L ^ { 2 } T ^ { - 1 }$ (0.2)

@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r2/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r2-2019-q1, bpho-r2-2019-q2, bpho-r2-2019-q3, bpho-r2-2019-q4]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 This is a guide adds not the find versuir for notion shory the
 

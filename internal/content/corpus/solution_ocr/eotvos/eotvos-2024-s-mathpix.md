@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2024_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2024-balloon-elastic, eotvos-2024-lens-system, eotvos-2024-rotating-tube]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Beszámoló a 2024. évi Eötvös-versenyröl
 

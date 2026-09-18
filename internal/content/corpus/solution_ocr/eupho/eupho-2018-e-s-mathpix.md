@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eupho/2018_E_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eupho-2018-E1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Part A.
 Turn the $C O _ { 2 }$ sensor on. It takes 2-3 minutes for the sensor self-calibration, after that the measurement starts.

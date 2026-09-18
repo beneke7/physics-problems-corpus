@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2019-dominoes, nbpho-2019-four-resistors, nbpho-2019-roller, nbpho-2019-satellite]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Nordic-Baltic PhO 2019 - solutions
 

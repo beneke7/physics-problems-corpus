@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/usapho/2007_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [usapho-2007-a1, usapho-2007-a2, usapho-2007-a3, usapho-2007-a4, usapho-2007-b1, usapho-2007-b2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ![](../../../figures/solution-ocr/45b94968f1feabbd2ba1d7c1.jpg)
 

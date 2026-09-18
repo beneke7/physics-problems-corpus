@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2013_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2013-flexible-wire, eotvos-2013-optical-grating, eotvos-2013-rolling-cylinders]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2013. október 18-án délután 3 órai kezdettel rendezte meg az Eötvös Loránd Fizikai Társulat 65. Eötvös-versenyét. A versenyen részt vehetett bárki, aki 2013-ban fejezte be középiskolai tanulmányait, vagy ebben az évben is középiskolába járt. Az öt óra (300 perc) megoldási idő alatt a versenyzők bármely magukkal hozott írott vagy nyomtatott segédeszközt használhattak a feladatok megoldásához, zsebszámológépen kívül azonban minden más elektronikus segédeszköz használata tilos volt.
 

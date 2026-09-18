@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2000_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2000-chain-on-cylinder, eotvos-2000-optical-grating, eotvos-2000-water-boiling-test-tube]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2000. október 20-án rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos őszi tanulóversenyét, az Eötvösversenyt. Összesen 167 versenyző adott be dolgozatot, közöttük egy vietnami és egy román állampolgár, mindketten az ELTE elsóéves fizikus hallgatói.
 

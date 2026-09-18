@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r2/2023_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r2-2023-q1, bpho-r2-2023-q2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Question 1
 

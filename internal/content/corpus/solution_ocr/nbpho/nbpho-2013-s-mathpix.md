@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2013_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2013-burning-with-a-lens, nbpho-2013-cellphone-camera, nbpho-2013-friction-of-a-string, nbpho-2013-glass-cylinder, nbpho-2013-magnetic-dipoles, nbpho-2013-mission-to-mars, nbpho-2013-prism, nbpho-2013-resistive-heating, nbpho-2013-sphere-and-cylinder, nbpho-2013-zener-diode]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Estonian-Finnish Olympiad 2013 Solutions
 

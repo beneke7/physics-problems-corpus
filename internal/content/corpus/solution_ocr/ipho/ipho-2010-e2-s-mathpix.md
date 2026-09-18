@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/2010/E2_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-2010-e2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Solution - Exp. Problem 2
 

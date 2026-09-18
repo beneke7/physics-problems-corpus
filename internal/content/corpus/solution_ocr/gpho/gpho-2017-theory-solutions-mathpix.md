@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/gpho/2017_theory_solutions.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [gpho-2017-t1, gpho-2017-t2, gpho-2017-t3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Problem T1. Main sequence stars (11 points) Part A. Lifetime of Sun (3 points)
 

@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r1/2016_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r1-2016-1-q1, bpho-r1-2016-2-q2, bpho-r1-2016-2-q3, bpho-r1-2016-2-q4, bpho-r1-2016-2-q5, bpho-r1-2016-2-q6, bpho-r1-2016-2-q7]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2017 BPLO Rownd I Solutions
 ![](../../../figures/solution-ocr/3fcd563510878560ad2e5955.jpg)

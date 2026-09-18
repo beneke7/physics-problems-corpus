@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2010_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2010-bicycle-chain, eotvos-2010-charged-disks, eotvos-2010-gas-mixture]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2010. október 15-én délután 3 órai kezdettel rendezte meg az Eötvös Loránd Fizikai Társulat a háború utáni 62. Eötvös-versenyét. Budapesten 30 , vidéken 52 dolgozatot adtak be a versenyzők, akik között $1 - 1$ román, szlovák, illetve ukrán állampolgár is volt. Utóbbiak az ELTE, illetve a BME elsóéves hallgatóiként indultak a versenyen.
 

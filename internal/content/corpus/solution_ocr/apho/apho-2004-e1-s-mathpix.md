@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/apho/2004/E1_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [apho-2004-e1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Solution of Experimental Problem No. 1 Hall effect and magnetoresistivity effect
 

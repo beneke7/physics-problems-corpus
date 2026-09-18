@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/apho/2015/T1_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [apho-2015-t1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Question 1
 The fractional quantum Hall effect (FQHE) was discovered by D. C. Tsui and H. Stormer at Bell Labs in 1981. In the experiment electrons were confined in two dimensions on the GaAs side by the interface potential of a GaAs/AlGaAs heterojunction fabricated by A. C. Gossard (here we neglect the thickness of the two-dimensional electron layer). A strong uniform magnetic field $B$ was applied perpendicular to the two-dimensional electron system. As illustrated in Figure 1, when a current $I$ was passing through the sample, the voltage $V _ { H }$ across the current path exhibited an unexpected quantized plateau (corresponding to a Hall resistance $R _ { H } = 3 h / e ^ { 2 }$ ) at sufficiently low temperatures. The appearance of the plateau would imply the presence of fractionally charged quasiparticles in the system, which we analyze below. For simplicity, we neglect the scattering of the electrons by random potential, as well as the electron spin.

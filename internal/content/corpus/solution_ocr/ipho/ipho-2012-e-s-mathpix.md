@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/2012_E_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-2012-e-qe1, ipho-2012-e-qe1-2, ipho-2012-e-qe2, ipho-2012-e-qe2-4]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Problem E1. The magnetic permeability of water (10 points)
 

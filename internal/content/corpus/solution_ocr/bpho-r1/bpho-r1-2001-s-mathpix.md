@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r1/2001_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r1-2001-q1, bpho-r1-2001-q4, bpho-r1-2001-q5, bpho-r1-2001-q6]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## SOLUTIONS TO BPLO 2002 PAPER 2
 

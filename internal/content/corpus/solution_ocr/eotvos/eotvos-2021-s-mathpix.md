@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2021_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2021-beach-ball, eotvos-2021-compressed-gas, eotvos-2021-superconductor-ring]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Beszámoló a 2021. évi Eötvös-versenyről
 

@@ -12,7 +12,8 @@
     ],
     "figure_count": 1,
     "characters": 17182,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2000-t-s",
@@ -27,7 +28,8 @@
     ],
     "figure_count": 2,
     "characters": 14451,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2001-e1-s",
@@ -41,7 +43,8 @@
     ],
     "figure_count": 10,
     "characters": 10706,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2001-t1-s",
@@ -55,7 +58,8 @@
     ],
     "figure_count": 1,
     "characters": 10778,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2001-t2-s",
@@ -69,7 +73,8 @@
     ],
     "figure_count": 0,
     "characters": 8723,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2001-t3-s",
@@ -83,7 +88,8 @@
     ],
     "figure_count": 2,
     "characters": 5881,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2002-e2-s",
@@ -97,7 +103,8 @@
     ],
     "figure_count": 3,
     "characters": 4148,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2002-t-s",
@@ -113,7 +120,8 @@
     ],
     "figure_count": 4,
     "characters": 23969,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2003-e1-s",
@@ -127,7 +135,8 @@
     ],
     "figure_count": 3,
     "characters": 7321,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2003-e2-s",
@@ -141,7 +150,8 @@
     ],
     "figure_count": 2,
     "characters": 5218,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2003-t1-s",
@@ -155,7 +165,8 @@
     ],
     "figure_count": 1,
     "characters": 3285,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2003-t2-s",
@@ -169,7 +180,8 @@
     ],
     "figure_count": 1,
     "characters": 4398,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2003-t3-s",
@@ -183,7 +195,8 @@
     ],
     "figure_count": 0,
     "characters": 2406,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2004-e1-s",
@@ -197,7 +210,8 @@
     ],
     "figure_count": 2,
     "characters": 5452,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2004-e2-s",
@@ -211,7 +225,8 @@
     ],
     "figure_count": 2,
     "characters": 2762,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2004-t1-s",
@@ -225,7 +240,8 @@
     ],
     "figure_count": 0,
     "characters": 2378,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2004-t2-s",
@@ -239,7 +255,8 @@
     ],
     "figure_count": 2,
     "characters": 12347,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2004-t3-s",
@@ -253,7 +270,8 @@
     ],
     "figure_count": 2,
     "characters": 9113,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2005-e-s",
@@ -268,7 +286,8 @@
     ],
     "figure_count": 11,
     "characters": 18377,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2005-t-s",
@@ -284,7 +303,8 @@
     ],
     "figure_count": 11,
     "characters": 39928,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2006-e1-s",
@@ -298,7 +318,8 @@
     ],
     "figure_count": 3,
     "characters": 15832,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2006-t1-s",
@@ -312,7 +333,8 @@
     ],
     "figure_count": 0,
     "characters": 5031,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2006-t2-s",
@@ -326,7 +348,8 @@
     ],
     "figure_count": 5,
     "characters": 9002,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2006-t3-s",
@@ -340,7 +363,8 @@
     ],
     "figure_count": 0,
     "characters": 10820,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2007-e1-s",
@@ -354,7 +378,8 @@
     ],
     "figure_count": 2,
     "characters": 9086,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2007-e2-s",
@@ -368,7 +393,8 @@
     ],
     "figure_count": 3,
     "characters": 4761,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2007-t1-s",
@@ -382,7 +408,8 @@
     ],
     "figure_count": 2,
     "characters": 8283,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2007-t2-s",
@@ -396,7 +423,8 @@
     ],
     "figure_count": 4,
     "characters": 9487,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2007-t3-s",
@@ -410,7 +438,8 @@
     ],
     "figure_count": 4,
     "characters": 17325,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2008-t1-s",
@@ -424,7 +453,8 @@
     ],
     "figure_count": 3,
     "characters": 11624,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2008-t2-s",
@@ -438,7 +468,8 @@
     ],
     "figure_count": 0,
     "characters": 9244,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2008-t3-s",
@@ -524,7 +555,8 @@
     ],
     "figure_count": 8,
     "characters": 8041,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2010-e2-s",
@@ -538,7 +570,8 @@
     ],
     "figure_count": 4,
     "characters": 13022,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2010-t1-s",
@@ -552,7 +585,8 @@
     ],
     "figure_count": 9,
     "characters": 19083,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2010-t2-s",
@@ -566,7 +600,8 @@
     ],
     "figure_count": 2,
     "characters": 18272,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2010-t3-s",
@@ -580,7 +615,8 @@
     ],
     "figure_count": 1,
     "characters": 19943,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2011-e1-s",
@@ -594,7 +630,8 @@
     ],
     "figure_count": 2,
     "characters": 27750,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2011-e2-s",
@@ -608,7 +645,8 @@
     ],
     "figure_count": 11,
     "characters": 31211,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2011-t1-s",
@@ -622,7 +660,8 @@
     ],
     "figure_count": 0,
     "characters": 3735,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2011-t2-s",
@@ -636,7 +675,8 @@
     ],
     "figure_count": 3,
     "characters": 7926,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2011-t3-s",
@@ -650,7 +690,8 @@
     ],
     "figure_count": 3,
     "characters": 6636,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2012-e1-s",
@@ -664,7 +705,8 @@
     ],
     "figure_count": 10,
     "characters": 9207,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2012-e2-s",
@@ -678,7 +720,8 @@
     ],
     "figure_count": 3,
     "characters": 10717,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2012-t1-s",
@@ -692,7 +735,8 @@
     ],
     "figure_count": 0,
     "characters": 5973,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2012-t2-s",
@@ -706,7 +750,8 @@
     ],
     "figure_count": 0,
     "characters": 4532,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2012-t3-s",
@@ -720,7 +765,8 @@
     ],
     "figure_count": 1,
     "characters": 6812,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2013-e1-s",
@@ -734,7 +780,8 @@
     ],
     "figure_count": 13,
     "characters": 14490,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2013-t1-s",
@@ -748,7 +795,8 @@
     ],
     "figure_count": 4,
     "characters": 10357,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2013-t2-s",
@@ -762,7 +810,8 @@
     ],
     "figure_count": 4,
     "characters": 19133,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2013-t3-s",
@@ -776,7 +825,8 @@
     ],
     "figure_count": 2,
     "characters": 10671,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2014-e1-s",
@@ -802,7 +852,8 @@
     ],
     "figure_count": 7,
     "characters": 14197,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2014-t2-s",
@@ -816,7 +867,8 @@
     ],
     "figure_count": 1,
     "characters": 8822,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2014-t3-s",
@@ -830,7 +882,8 @@
     ],
     "figure_count": 4,
     "characters": 12842,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2015-e1-s",
@@ -856,7 +909,8 @@
     ],
     "figure_count": 1,
     "characters": 15601,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2015-t2-s",
@@ -870,7 +924,8 @@
     ],
     "figure_count": 2,
     "characters": 15356,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2015-t3-s",
@@ -884,7 +939,8 @@
     ],
     "figure_count": 4,
     "characters": 21231,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2016-e1-s",
@@ -898,7 +954,8 @@
     ],
     "figure_count": 4,
     "characters": 22952,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2016-e2-s",
@@ -960,7 +1017,8 @@
     ],
     "figure_count": 8,
     "characters": 7107,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2017-t1-s",
@@ -974,7 +1032,8 @@
     ],
     "figure_count": 9,
     "characters": 13210,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2017-t2-s",
@@ -988,7 +1047,8 @@
     ],
     "figure_count": 2,
     "characters": 12122,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2017-t3-s",
@@ -1002,7 +1062,8 @@
     ],
     "figure_count": 6,
     "characters": 22135,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2018-e1-s",
@@ -1016,7 +1077,8 @@
     ],
     "figure_count": 13,
     "characters": 13723,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2018-t1-s",
@@ -1030,7 +1092,8 @@
     ],
     "figure_count": 0,
     "characters": 13076,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2018-t2-s",
@@ -1044,7 +1107,8 @@
     ],
     "figure_count": 3,
     "characters": 11476,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2018-t3-s",
@@ -1058,7 +1122,8 @@
     ],
     "figure_count": 1,
     "characters": 15932,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2019-e1-s",
@@ -1072,7 +1137,8 @@
     ],
     "figure_count": 4,
     "characters": 9243,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2019-e2-s",
@@ -1086,7 +1152,8 @@
     ],
     "figure_count": 18,
     "characters": 8412,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2019-t1-s",
@@ -1100,7 +1167,8 @@
     ],
     "figure_count": 0,
     "characters": 15879,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2019-t2-s",
@@ -1114,7 +1182,8 @@
     ],
     "figure_count": 1,
     "characters": 18143,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2019-t3-s",
@@ -1128,7 +1197,8 @@
     ],
     "figure_count": 5,
     "characters": 12258,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2021-e1-s",
@@ -1142,7 +1212,8 @@
     ],
     "figure_count": 3,
     "characters": 9754,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2021-e2-s",
@@ -1156,7 +1227,8 @@
     ],
     "figure_count": 28,
     "characters": 15005,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2021-t1-s",
@@ -1170,7 +1242,8 @@
     ],
     "figure_count": 4,
     "characters": 21942,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2021-t2-s",
@@ -1184,7 +1257,8 @@
     ],
     "figure_count": 2,
     "characters": 41457,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2021-t3-s",
@@ -1198,7 +1272,8 @@
     ],
     "figure_count": 2,
     "characters": 18782,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2022-e1-s",
@@ -1212,7 +1287,8 @@
     ],
     "figure_count": 8,
     "characters": 11526,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2022-e2-s",
@@ -1226,7 +1302,8 @@
     ],
     "figure_count": 15,
     "characters": 15969,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2022-t1-s",
@@ -1240,7 +1317,8 @@
     ],
     "figure_count": 2,
     "characters": 13510,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2022-t2-s",
@@ -1254,7 +1332,8 @@
     ],
     "figure_count": 6,
     "characters": 14812,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2022-t3-s",
@@ -1268,7 +1347,8 @@
     ],
     "figure_count": 2,
     "characters": 12278,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2023-e1-s",
@@ -1282,7 +1362,8 @@
     ],
     "figure_count": 18,
     "characters": 19922,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2023-e2-s",
@@ -1296,7 +1377,8 @@
     ],
     "figure_count": 8,
     "characters": 9837,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2023-t1-s",
@@ -1310,7 +1392,8 @@
     ],
     "figure_count": 5,
     "characters": 24224,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2023-t2-s",
@@ -1324,7 +1407,8 @@
     ],
     "figure_count": 1,
     "characters": 33496,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2023-t3-s",
@@ -1338,7 +1422,8 @@
     ],
     "figure_count": 2,
     "characters": 24862,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2024-e-s",
@@ -1365,7 +1450,8 @@
     ],
     "figure_count": 4,
     "characters": 27020,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2025-e1-s",
@@ -1379,7 +1465,8 @@
     ],
     "figure_count": 20,
     "characters": 38097,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2025-t1-s",
@@ -1393,7 +1480,8 @@
     ],
     "figure_count": 6,
     "characters": 19061,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2025-t2-s",
@@ -1407,7 +1495,8 @@
     ],
     "figure_count": 5,
     "characters": 20719,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2025-t3-s",
@@ -1421,7 +1510,8 @@
     ],
     "figure_count": 3,
     "characters": 22130,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-apho-2025-t3-s-h",
@@ -1462,7 +1552,8 @@
     ],
     "figure_count": 9,
     "characters": 50912,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2008-s-a",
@@ -1514,7 +1605,8 @@
     ],
     "figure_count": 8,
     "characters": 44193,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2010-s",
@@ -1541,7 +1633,8 @@
     ],
     "figure_count": 14,
     "characters": 36408,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2011-s",
@@ -1568,7 +1661,8 @@
     ],
     "figure_count": 9,
     "characters": 26118,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2012-s",
@@ -1619,7 +1713,8 @@
     ],
     "figure_count": 15,
     "characters": 28091,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2015-s",
@@ -1658,7 +1753,8 @@
     ],
     "figure_count": 15,
     "characters": 39424,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2017-s",
@@ -1684,7 +1780,8 @@
     ],
     "figure_count": 15,
     "characters": 38819,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2019-s",
@@ -1711,7 +1808,8 @@
     ],
     "figure_count": 42,
     "characters": 36248,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-aupho-2020-s",
@@ -1788,7 +1886,8 @@
     ],
     "figure_count": 21,
     "characters": 18943,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2002-s",
@@ -1811,7 +1910,8 @@
     ],
     "figure_count": 23,
     "characters": 30235,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2003-s",
@@ -1827,7 +1927,8 @@
     ],
     "figure_count": 18,
     "characters": 27822,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2004-s",
@@ -1849,7 +1950,8 @@
     ],
     "figure_count": 37,
     "characters": 31009,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2005-s",
@@ -1868,7 +1970,8 @@
     ],
     "figure_count": 30,
     "characters": 31184,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2006-s",
@@ -1884,7 +1987,8 @@
     ],
     "figure_count": 14,
     "characters": 25413,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2007-s",
@@ -1905,7 +2009,8 @@
     ],
     "figure_count": 9,
     "characters": 30797,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2008-s",
@@ -1924,7 +2029,8 @@
     ],
     "figure_count": 12,
     "characters": 26571,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2009-s",
@@ -1942,7 +2048,8 @@
     ],
     "figure_count": 26,
     "characters": 37577,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2010-s",
@@ -1957,7 +2064,8 @@
     ],
     "figure_count": 7,
     "characters": 20737,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2011-s",
@@ -1978,7 +2086,8 @@
     ],
     "figure_count": 28,
     "characters": 37073,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2012-s",
@@ -1998,7 +2107,8 @@
     ],
     "figure_count": 26,
     "characters": 31197,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2013-s",
@@ -2017,7 +2127,8 @@
     ],
     "figure_count": 27,
     "characters": 29481,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2014-s",
@@ -2036,7 +2147,8 @@
     ],
     "figure_count": 21,
     "characters": 40286,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2015-s",
@@ -2053,7 +2165,8 @@
     ],
     "figure_count": 18,
     "characters": 29827,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2016-s",
@@ -2073,7 +2186,8 @@
     ],
     "figure_count": 25,
     "characters": 38988,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2017-s",
@@ -2092,7 +2206,8 @@
     ],
     "figure_count": 37,
     "characters": 52872,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2018-s",
@@ -2111,7 +2226,8 @@
     ],
     "figure_count": 45,
     "characters": 58085,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2019-s",
@@ -2129,7 +2245,8 @@
     ],
     "figure_count": 28,
     "characters": 51923,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2020-s",
@@ -2147,7 +2264,8 @@
     ],
     "figure_count": 42,
     "characters": 52973,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2021-s",
@@ -2163,7 +2281,8 @@
     ],
     "figure_count": 53,
     "characters": 45221,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2022-s",
@@ -2180,7 +2299,8 @@
     ],
     "figure_count": 17,
     "characters": 45204,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2023-s",
@@ -2198,7 +2318,8 @@
     ],
     "figure_count": 19,
     "characters": 56558,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2024-1-s",
@@ -2212,7 +2333,8 @@
     ],
     "figure_count": 9,
     "characters": 24527,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r1-2024-2-s",
@@ -2229,7 +2351,8 @@
     ],
     "figure_count": 7,
     "characters": 37613,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2012-s",
@@ -2243,7 +2366,8 @@
     ],
     "figure_count": 1,
     "characters": 4150,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2013-s",
@@ -2260,7 +2384,8 @@
     ],
     "figure_count": 1,
     "characters": 14374,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2014-s",
@@ -2278,7 +2403,8 @@
     ],
     "figure_count": 3,
     "characters": 10907,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2016-s",
@@ -2295,7 +2421,8 @@
     ],
     "figure_count": 18,
     "characters": 18223,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2017-s",
@@ -2312,7 +2439,8 @@
     ],
     "figure_count": 50,
     "characters": 74849,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2018-s",
@@ -2330,7 +2458,8 @@
     ],
     "figure_count": 25,
     "characters": 24258,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2019-s",
@@ -2347,7 +2476,8 @@
     ],
     "figure_count": 12,
     "characters": 36623,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-bpho-r2-2023-s",
@@ -2362,7 +2492,8 @@
     ],
     "figure_count": 6,
     "characters": 15694,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-cpho-f-2020-s",
@@ -2390,7 +2521,8 @@
     ],
     "figure_count": 7,
     "characters": 25336,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-1995-s",
@@ -2406,7 +2538,8 @@
     ],
     "figure_count": 4,
     "characters": 16616,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-1996-s",
@@ -2422,7 +2555,8 @@
     ],
     "figure_count": 2,
     "characters": 17840,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-1997-s",
@@ -2438,7 +2572,8 @@
     ],
     "figure_count": 5,
     "characters": 26019,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-1998-s",
@@ -2454,7 +2589,8 @@
     ],
     "figure_count": 3,
     "characters": 24538,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-1999-s",
@@ -2470,7 +2606,8 @@
     ],
     "figure_count": 4,
     "characters": 16939,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2000-s",
@@ -2486,7 +2623,8 @@
     ],
     "figure_count": 3,
     "characters": 18855,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2001-s",
@@ -2502,7 +2640,8 @@
     ],
     "figure_count": 12,
     "characters": 23716,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2002-s",
@@ -2517,7 +2656,8 @@
     ],
     "figure_count": 13,
     "characters": 23501,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2003-s",
@@ -2533,7 +2673,8 @@
     ],
     "figure_count": 11,
     "characters": 18550,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2004-s",
@@ -2549,7 +2690,8 @@
     ],
     "figure_count": 12,
     "characters": 30937,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2005-s",
@@ -2565,7 +2707,8 @@
     ],
     "figure_count": 14,
     "characters": 23257,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2006-s",
@@ -2581,7 +2724,8 @@
     ],
     "figure_count": 3,
     "characters": 24473,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2007-s",
@@ -2597,7 +2741,8 @@
     ],
     "figure_count": 12,
     "characters": 24492,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2008-s",
@@ -2613,7 +2758,8 @@
     ],
     "figure_count": 5,
     "characters": 18904,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2009-s",
@@ -2629,7 +2775,8 @@
     ],
     "figure_count": 7,
     "characters": 25400,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2010-s",
@@ -2645,7 +2792,8 @@
     ],
     "figure_count": 5,
     "characters": 19823,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2011-s",
@@ -2661,7 +2809,8 @@
     ],
     "figure_count": 4,
     "characters": 23869,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2012-s",
@@ -2677,7 +2826,8 @@
     ],
     "figure_count": 8,
     "characters": 23016,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2013-s",
@@ -2693,7 +2843,8 @@
     ],
     "figure_count": 7,
     "characters": 24662,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2014-s",
@@ -2709,7 +2860,8 @@
     ],
     "figure_count": 13,
     "characters": 21277,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2015-s",
@@ -2725,7 +2877,8 @@
     ],
     "figure_count": 13,
     "characters": 27806,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2016-s",
@@ -2741,7 +2894,8 @@
     ],
     "figure_count": 12,
     "characters": 20961,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2017-s",
@@ -2757,7 +2911,8 @@
     ],
     "figure_count": 8,
     "characters": 21736,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2018-s",
@@ -2773,7 +2928,8 @@
     ],
     "figure_count": 9,
     "characters": 20994,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2019-s",
@@ -2789,7 +2945,8 @@
     ],
     "figure_count": 10,
     "characters": 21772,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2020-s",
@@ -2805,7 +2962,8 @@
     ],
     "figure_count": 4,
     "characters": 16112,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2021-s",
@@ -2821,7 +2979,8 @@
     ],
     "figure_count": 5,
     "characters": 19056,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2022-s",
@@ -2837,7 +2996,8 @@
     ],
     "figure_count": 17,
     "characters": 31555,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2023-s",
@@ -2853,7 +3013,8 @@
     ],
     "figure_count": 12,
     "characters": 22747,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eotvos-2024-s",
@@ -2869,7 +3030,8 @@
     ],
     "figure_count": 15,
     "characters": 31444,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2017-e-s",
@@ -2883,7 +3045,8 @@
     ],
     "figure_count": 5,
     "characters": 14037,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2017-t-s",
@@ -2899,7 +3062,8 @@
     ],
     "figure_count": 1,
     "characters": 15553,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2018-e-s",
@@ -2913,7 +3077,8 @@
     ],
     "figure_count": 8,
     "characters": 13591,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2018-t-s",
@@ -2929,7 +3094,8 @@
     ],
     "figure_count": 0,
     "characters": 8357,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2019-t-s",
@@ -2945,7 +3111,8 @@
     ],
     "figure_count": 2,
     "characters": 16971,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2020-e-s",
@@ -2960,7 +3127,8 @@
     ],
     "figure_count": 5,
     "characters": 40487,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2020-t-s",
@@ -2976,7 +3144,8 @@
     ],
     "figure_count": 4,
     "characters": 56885,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2021-e-s",
@@ -2991,7 +3160,8 @@
     ],
     "figure_count": 5,
     "characters": 28892,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2021-t-s",
@@ -3007,7 +3177,8 @@
     ],
     "figure_count": 5,
     "characters": 23550,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2022-e-s",
@@ -3021,7 +3192,8 @@
     ],
     "figure_count": 7,
     "characters": 37715,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2022-t-s",
@@ -3037,7 +3209,8 @@
     ],
     "figure_count": 7,
     "characters": 36705,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2023-e-s",
@@ -3052,7 +3225,8 @@
     ],
     "figure_count": 16,
     "characters": 44804,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2023-t-s",
@@ -3068,7 +3242,8 @@
     ],
     "figure_count": 22,
     "characters": 63199,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2024-e-s",
@@ -3082,7 +3257,8 @@
     ],
     "figure_count": 12,
     "characters": 46880,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2024-t-s",
@@ -3098,7 +3274,8 @@
     ],
     "figure_count": 16,
     "characters": 58012,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2025-e-s",
@@ -3113,7 +3290,8 @@
     ],
     "figure_count": 23,
     "characters": 50012,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-eupho-2025-t-s",
@@ -3129,7 +3307,8 @@
     ],
     "figure_count": 12,
     "characters": 33630,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2016-experiment-solutions",
@@ -3144,7 +3323,8 @@
     ],
     "figure_count": 7,
     "characters": 21643,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2016-theory-solutions",
@@ -3160,7 +3340,8 @@
     ],
     "figure_count": 1,
     "characters": 27036,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2017-experiment-solutions",
@@ -3174,7 +3355,8 @@
     ],
     "figure_count": 5,
     "characters": 13006,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2017-theory-solutions",
@@ -3190,7 +3372,8 @@
     ],
     "figure_count": 1,
     "characters": 24025,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2019-experiment-solutions",
@@ -3204,7 +3387,8 @@
     ],
     "figure_count": 5,
     "characters": 20884,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2019-theory-solutions",
@@ -3220,7 +3404,8 @@
     ],
     "figure_count": 12,
     "characters": 37283,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2022-experiment-solutions",
@@ -3234,7 +3419,8 @@
     ],
     "figure_count": 3,
     "characters": 16005,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-gpho-2022-theory-solutions",
@@ -3250,7 +3436,8 @@
     ],
     "figure_count": 1,
     "characters": 30410,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2009-s",
@@ -3280,7 +3467,8 @@
     ],
     "figure_count": 3,
     "characters": 3922,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2011-s",
@@ -3299,7 +3487,8 @@
     ],
     "figure_count": 5,
     "characters": 5390,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2012-s",
@@ -3317,7 +3506,8 @@
     ],
     "figure_count": 4,
     "characters": 3957,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2013-s",
@@ -3337,7 +3527,8 @@
     ],
     "figure_count": 5,
     "characters": 3745,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2014-s",
@@ -3356,7 +3547,8 @@
     ],
     "figure_count": 11,
     "characters": 18147,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2015-s",
@@ -3386,7 +3578,8 @@
     ],
     "figure_count": 11,
     "characters": 21324,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2017-s",
@@ -3418,7 +3611,8 @@
     ],
     "figure_count": 16,
     "characters": 32847,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2019-s",
@@ -3438,7 +3632,8 @@
     ],
     "figure_count": 14,
     "characters": 33074,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2020-s",
@@ -3455,7 +3650,8 @@
     ],
     "figure_count": 19,
     "characters": 31782,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2021-s",
@@ -3497,7 +3693,8 @@
     ],
     "figure_count": 14,
     "characters": 35537,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-inpho-2024-s",
@@ -3527,7 +3724,8 @@
     ],
     "figure_count": 24,
     "characters": 37415,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1971-s",
@@ -3544,7 +3742,8 @@
     ],
     "figure_count": 13,
     "characters": 14680,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1983-t1-s",
@@ -3642,7 +3841,8 @@
     ],
     "figure_count": 2,
     "characters": 41737,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1992-t2-s",
@@ -3656,7 +3856,8 @@
     ],
     "figure_count": 6,
     "characters": 21104,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1992-t3-s",
@@ -3670,7 +3871,8 @@
     ],
     "figure_count": 1,
     "characters": 8397,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1995-e1-s",
@@ -3684,7 +3886,8 @@
     ],
     "figure_count": 2,
     "characters": 4532,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1995-e2-s",
@@ -3698,7 +3901,8 @@
     ],
     "figure_count": 5,
     "characters": 9070,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1995-t-s",
@@ -3714,7 +3918,8 @@
     ],
     "figure_count": 13,
     "characters": 27243,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1997-t-s",
@@ -3740,7 +3945,8 @@
     ],
     "figure_count": 5,
     "characters": 11563,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1999-t1-s",
@@ -3754,7 +3960,8 @@
     ],
     "figure_count": 0,
     "characters": 5503,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1999-t2-s",
@@ -3768,7 +3975,8 @@
     ],
     "figure_count": 2,
     "characters": 8298,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-1999-t3-s",
@@ -3782,7 +3990,8 @@
     ],
     "figure_count": 0,
     "characters": 10409,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2000-t1-s",
@@ -3808,7 +4017,8 @@
     ],
     "figure_count": 0,
     "characters": 3089,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2000-t3-s",
@@ -3858,7 +4068,8 @@
     ],
     "figure_count": 4,
     "characters": 8064,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2002-e2-s",
@@ -3872,7 +4083,8 @@
     ],
     "figure_count": 4,
     "characters": 3323,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2002-t1-s",
@@ -3886,7 +4098,8 @@
     ],
     "figure_count": 3,
     "characters": 4447,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2002-t2-s",
@@ -3900,7 +4113,8 @@
     ],
     "figure_count": 2,
     "characters": 7660,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2002-t3-s",
@@ -3914,7 +4128,8 @@
     ],
     "figure_count": 5,
     "characters": 16557,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2003-e1-s",
@@ -3928,7 +4143,8 @@
     ],
     "figure_count": 6,
     "characters": 22000,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2003-t1-s",
@@ -3942,7 +4158,8 @@
     ],
     "figure_count": 8,
     "characters": 18534,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2003-t2-s",
@@ -3956,7 +4173,8 @@
     ],
     "figure_count": 2,
     "characters": 13750,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2003-t3-s",
@@ -3970,7 +4188,8 @@
     ],
     "figure_count": 2,
     "characters": 17607,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2004-e1-s",
@@ -3984,7 +4203,8 @@
     ],
     "figure_count": 3,
     "characters": 21419,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2004-t1-s",
@@ -3998,7 +4218,8 @@
     ],
     "figure_count": 3,
     "characters": 24050,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2004-t2-s",
@@ -4012,7 +4233,8 @@
     ],
     "figure_count": 2,
     "characters": 8711,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2004-t3-s",
@@ -4026,7 +4248,8 @@
     ],
     "figure_count": 0,
     "characters": 9340,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2005-e1-s",
@@ -4040,7 +4263,8 @@
     ],
     "figure_count": 9,
     "characters": 13093,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2005-t1-s",
@@ -4054,7 +4278,8 @@
     ],
     "figure_count": 2,
     "characters": 9595,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2005-t2-s",
@@ -4068,7 +4293,8 @@
     ],
     "figure_count": 1,
     "characters": 6636,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2005-t3-s",
@@ -4082,7 +4308,8 @@
     ],
     "figure_count": 0,
     "characters": 5776,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2006-e1-s",
@@ -4096,7 +4323,8 @@
     ],
     "figure_count": 13,
     "characters": 21360,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2006-t1-s",
@@ -4110,7 +4338,8 @@
     ],
     "figure_count": 0,
     "characters": 3354,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2006-t2-s",
@@ -4124,7 +4353,8 @@
     ],
     "figure_count": 1,
     "characters": 6598,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2006-t3-s",
@@ -4138,7 +4368,8 @@
     ],
     "figure_count": 0,
     "characters": 8137,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2007-e1-s",
@@ -4152,7 +4383,8 @@
     ],
     "figure_count": 5,
     "characters": 11878,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2007-t1-s",
@@ -4166,7 +4398,8 @@
     ],
     "figure_count": 0,
     "characters": 9975,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2007-t2-s",
@@ -4180,7 +4413,8 @@
     ],
     "figure_count": 0,
     "characters": 8511,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2007-t3-s",
@@ -4206,7 +4440,8 @@
     ],
     "figure_count": 8,
     "characters": 15754,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2008-t1-s",
@@ -4220,7 +4455,8 @@
     ],
     "figure_count": 4,
     "characters": 13155,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2008-t2-s",
@@ -4234,7 +4470,8 @@
     ],
     "figure_count": 2,
     "characters": 10959,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2008-t3-s",
@@ -4248,7 +4485,8 @@
     ],
     "figure_count": 3,
     "characters": 15945,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2009-e1-s",
@@ -4286,7 +4524,8 @@
     ],
     "figure_count": 0,
     "characters": 7513,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2009-t2-s",
@@ -4300,7 +4539,8 @@
     ],
     "figure_count": 0,
     "characters": 12606,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2009-t3-s",
@@ -4326,7 +4566,8 @@
     ],
     "figure_count": 0,
     "characters": 2528,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2010-e2-s",
@@ -4340,7 +4581,8 @@
     ],
     "figure_count": 13,
     "characters": 2879,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2010-t1-s",
@@ -4354,7 +4596,8 @@
     ],
     "figure_count": 3,
     "characters": 13143,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2010-t2-s",
@@ -4368,7 +4611,8 @@
     ],
     "figure_count": 0,
     "characters": 7303,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2010-t3-s",
@@ -4382,7 +4626,8 @@
     ],
     "figure_count": 0,
     "characters": 26044,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2011-e1-s",
@@ -4396,7 +4641,8 @@
     ],
     "figure_count": 8,
     "characters": 6718,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2011-e2-s",
@@ -4410,7 +4656,8 @@
     ],
     "figure_count": 3,
     "characters": 10262,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2011-t1-s",
@@ -4424,7 +4671,8 @@
     ],
     "figure_count": 3,
     "characters": 15090,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2011-t2-s",
@@ -4438,7 +4686,8 @@
     ],
     "figure_count": 3,
     "characters": 10721,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2011-t3-s",
@@ -4452,7 +4701,8 @@
     ],
     "figure_count": 0,
     "characters": 5368,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2012-e-s",
@@ -4469,7 +4719,8 @@
     ],
     "figure_count": 4,
     "characters": 11419,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2012-t-s",
@@ -4485,7 +4736,8 @@
     ],
     "figure_count": 3,
     "characters": 29667,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2013-e1-s",
@@ -4499,7 +4751,8 @@
     ],
     "figure_count": 4,
     "characters": 9406,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2013-e2-s",
@@ -4513,7 +4766,8 @@
     ],
     "figure_count": 17,
     "characters": 11178,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2013-t1-s",
@@ -4527,7 +4781,8 @@
     ],
     "figure_count": 1,
     "characters": 11072,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2013-t2-s",
@@ -4541,7 +4796,8 @@
     ],
     "figure_count": 0,
     "characters": 12372,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2013-t3-s",
@@ -4555,7 +4811,8 @@
     ],
     "figure_count": 2,
     "characters": 15523,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2014-e1-s",
@@ -4569,7 +4826,8 @@
     ],
     "figure_count": 17,
     "characters": 18424,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2014-t1-s",
@@ -4583,7 +4841,8 @@
     ],
     "figure_count": 3,
     "characters": 14367,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2014-t2-s",
@@ -4597,7 +4856,8 @@
     ],
     "figure_count": 0,
     "characters": 11684,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2014-t3-s",
@@ -4611,7 +4871,8 @@
     ],
     "figure_count": 0,
     "characters": 8824,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2015-e1-s",
@@ -4625,7 +4886,8 @@
     ],
     "figure_count": 2,
     "characters": 5204,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2015-e2-s",
@@ -4639,7 +4901,8 @@
     ],
     "figure_count": 4,
     "characters": 6422,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2015-t1-s",
@@ -4653,7 +4916,8 @@
     ],
     "figure_count": 1,
     "characters": 18835,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2015-t2-s",
@@ -4667,7 +4931,8 @@
     ],
     "figure_count": 7,
     "characters": 17314,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2015-t3-s",
@@ -4681,7 +4946,8 @@
     ],
     "figure_count": 2,
     "characters": 26494,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2016-e1-s",
@@ -4707,7 +4973,8 @@
     ],
     "figure_count": 2,
     "characters": 3446,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2016-t1-s",
@@ -4721,7 +4988,8 @@
     ],
     "figure_count": 5,
     "characters": 18905,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2016-t2-s",
@@ -4735,7 +5003,8 @@
     ],
     "figure_count": 3,
     "characters": 10556,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2016-t3-s",
@@ -4749,7 +5018,8 @@
     ],
     "figure_count": 0,
     "characters": 23599,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2017-e1-s",
@@ -4763,7 +5033,8 @@
     ],
     "figure_count": 1,
     "characters": 16038,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2017-e2-s",
@@ -4789,7 +5060,8 @@
     ],
     "figure_count": 2,
     "characters": 18493,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2017-t2-s",
@@ -4803,7 +5075,8 @@
     ],
     "figure_count": 2,
     "characters": 9812,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2017-t3-s",
@@ -4817,7 +5090,8 @@
     ],
     "figure_count": 0,
     "characters": 11315,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2018-e1-s",
@@ -4831,7 +5105,8 @@
     ],
     "figure_count": 15,
     "characters": 13402,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2018-e2-s",
@@ -4845,7 +5120,8 @@
     ],
     "figure_count": 10,
     "characters": 14031,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2018-t1-s",
@@ -4859,7 +5135,8 @@
     ],
     "figure_count": 2,
     "characters": 6907,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2018-t2-s",
@@ -4873,7 +5150,8 @@
     ],
     "figure_count": 0,
     "characters": 8392,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2018-t3-s",
@@ -4887,7 +5165,8 @@
     ],
     "figure_count": 3,
     "characters": 7526,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2019-e1-s",
@@ -4902,7 +5181,8 @@
     ],
     "figure_count": 13,
     "characters": 14486,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2019-e2-s",
@@ -4916,7 +5196,8 @@
     ],
     "figure_count": 4,
     "characters": 9237,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2019-t1-s",
@@ -4930,7 +5211,8 @@
     ],
     "figure_count": 0,
     "characters": 11855,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2019-t2-s",
@@ -4944,7 +5226,8 @@
     ],
     "figure_count": 3,
     "characters": 12047,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2019-t3-s",
@@ -4958,7 +5241,8 @@
     ],
     "figure_count": 0,
     "characters": 8079,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2021-e1-s",
@@ -4972,7 +5256,8 @@
     ],
     "figure_count": 3,
     "characters": 5075,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2021-e2-s",
@@ -4986,7 +5271,8 @@
     ],
     "figure_count": 4,
     "characters": 6172,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2021-t1-s",
@@ -5000,7 +5286,8 @@
     ],
     "figure_count": 3,
     "characters": 12134,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2021-t2-s",
@@ -5014,7 +5301,8 @@
     ],
     "figure_count": 6,
     "characters": 18519,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2021-t3-s",
@@ -5028,7 +5316,8 @@
     ],
     "figure_count": 0,
     "characters": 11458,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2022-e-s",
@@ -5043,7 +5332,8 @@
     ],
     "figure_count": 10,
     "characters": 38885,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2022-t-s",
@@ -5059,7 +5349,8 @@
     ],
     "figure_count": 15,
     "characters": 119583,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2023-e1-s",
@@ -5073,7 +5364,8 @@
     ],
     "figure_count": 8,
     "characters": 6198,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2023-e2-s",
@@ -5087,7 +5379,8 @@
     ],
     "figure_count": 2,
     "characters": 7089,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2023-t1-s",
@@ -5101,7 +5394,8 @@
     ],
     "figure_count": 1,
     "characters": 17175,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2023-t2-s",
@@ -5115,7 +5409,8 @@
     ],
     "figure_count": 0,
     "characters": 16124,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2023-t3-s",
@@ -5129,7 +5424,8 @@
     ],
     "figure_count": 4,
     "characters": 10976,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2024-e1-s",
@@ -5143,7 +5439,8 @@
     ],
     "figure_count": 7,
     "characters": 6771,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2024-e2-s",
@@ -5157,7 +5454,8 @@
     ],
     "figure_count": 2,
     "characters": 9598,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2024-t1-s",
@@ -5171,7 +5469,8 @@
     ],
     "figure_count": 0,
     "characters": 23695,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2024-t2-s",
@@ -5185,7 +5484,8 @@
     ],
     "figure_count": 1,
     "characters": 14194,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2024-t3-s",
@@ -5199,7 +5499,8 @@
     ],
     "figure_count": 1,
     "characters": 15657,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2025-e1-s",
@@ -5213,7 +5514,8 @@
     ],
     "figure_count": 14,
     "characters": 30602,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2025-e2-s",
@@ -5227,7 +5529,8 @@
     ],
     "figure_count": 16,
     "characters": 20762,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2025-t1-s",
@@ -5241,7 +5544,8 @@
     ],
     "figure_count": 9,
     "characters": 36131,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2025-t2-s",
@@ -5255,7 +5559,8 @@
     ],
     "figure_count": 17,
     "characters": 39731,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-ipho-2025-t3-s",
@@ -5269,7 +5574,8 @@
     ],
     "figure_count": 6,
     "characters": 36937,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2010-e-s",
@@ -5283,7 +5589,8 @@
     ],
     "figure_count": 4,
     "characters": 7318,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2010-t-s",
@@ -5298,7 +5605,8 @@
     ],
     "figure_count": 7,
     "characters": 16216,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2011-e-s",
@@ -5312,7 +5620,8 @@
     ],
     "figure_count": 5,
     "characters": 5434,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2011-t-s",
@@ -5326,7 +5635,8 @@
     ],
     "figure_count": 5,
     "characters": 22549,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2012-e-s",
@@ -5354,7 +5664,8 @@
     ],
     "figure_count": 2,
     "characters": 23894,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2013-t-s",
@@ -5370,7 +5681,8 @@
     ],
     "figure_count": 7,
     "characters": 23045,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2014-e-s",
@@ -5398,7 +5710,8 @@
     ],
     "figure_count": 7,
     "characters": 22951,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2015-e-s",
@@ -5426,7 +5739,8 @@
     ],
     "figure_count": 6,
     "characters": 32718,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2016-e-s",
@@ -5454,7 +5768,8 @@
     ],
     "figure_count": 5,
     "characters": 23000,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2017-e-s",
@@ -5482,7 +5797,8 @@
     ],
     "figure_count": 13,
     "characters": 42049,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2018-e-s",
@@ -5510,7 +5826,8 @@
     ],
     "figure_count": 8,
     "characters": 43770,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2019-e-s",
@@ -5538,7 +5855,8 @@
     ],
     "figure_count": 4,
     "characters": 38200,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2020-e-s",
@@ -5566,7 +5884,8 @@
     ],
     "figure_count": 7,
     "characters": 42126,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2021-e-s",
@@ -5594,7 +5913,8 @@
     ],
     "figure_count": 3,
     "characters": 49692,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2022-e-s",
@@ -5622,7 +5942,8 @@
     ],
     "figure_count": 7,
     "characters": 42612,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2023-e-s",
@@ -5649,7 +5970,8 @@
     ],
     "figure_count": 11,
     "characters": 49705,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2024-e-s",
@@ -5676,7 +5998,8 @@
     ],
     "figure_count": 29,
     "characters": 130231,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2025-e-s",
@@ -5704,7 +6027,8 @@
     ],
     "figure_count": 11,
     "characters": 35817,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-izho-2026-e-s",
@@ -5732,7 +6056,8 @@
     ],
     "figure_count": 4,
     "characters": 36611,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2003-s",
@@ -5752,7 +6077,8 @@
     ],
     "figure_count": 8,
     "characters": 13855,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2004-s",
@@ -5772,7 +6098,8 @@
     ],
     "figure_count": 3,
     "characters": 15428,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2005-s",
@@ -5792,7 +6119,8 @@
     ],
     "figure_count": 2,
     "characters": 21850,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2006-s",
@@ -5811,7 +6139,8 @@
     ],
     "figure_count": 5,
     "characters": 14864,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2007-s",
@@ -5831,7 +6160,8 @@
     ],
     "figure_count": 1,
     "characters": 15182,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2008-s",
@@ -5850,7 +6180,8 @@
     ],
     "figure_count": 4,
     "characters": 15515,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2009-s",
@@ -5869,7 +6200,8 @@
     ],
     "figure_count": 0,
     "characters": 15165,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2010-s",
@@ -5891,7 +6223,8 @@
     ],
     "figure_count": 7,
     "characters": 25077,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2011-s",
@@ -5909,7 +6242,8 @@
     ],
     "figure_count": 3,
     "characters": 24411,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2012-s",
@@ -5929,7 +6263,8 @@
     ],
     "figure_count": 2,
     "characters": 21552,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2013-s",
@@ -5952,7 +6287,8 @@
     ],
     "figure_count": 5,
     "characters": 23711,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2014-s",
@@ -5975,7 +6311,8 @@
     ],
     "figure_count": 2,
     "characters": 21186,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2015-s",
@@ -5994,7 +6331,8 @@
     ],
     "figure_count": 3,
     "characters": 21081,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2016-s",
@@ -6012,7 +6350,8 @@
     ],
     "figure_count": 4,
     "characters": 28928,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2017-s",
@@ -6029,7 +6368,8 @@
     ],
     "figure_count": 9,
     "characters": 29407,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2018-s",
@@ -6048,7 +6388,8 @@
     ],
     "figure_count": 5,
     "characters": 33373,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2019-s",
@@ -6065,7 +6406,8 @@
     ],
     "figure_count": 2,
     "characters": 27000,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2020-s",
@@ -6082,7 +6424,8 @@
     ],
     "figure_count": 9,
     "characters": 36901,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2021-s",
@@ -6099,7 +6442,8 @@
     ],
     "figure_count": 6,
     "characters": 48945,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2022-s",
@@ -6121,7 +6465,8 @@
     ],
     "figure_count": 20,
     "characters": 64097,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2023-s",
@@ -6141,7 +6486,8 @@
     ],
     "figure_count": 10,
     "characters": 58729,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2024-s",
@@ -6160,7 +6506,8 @@
     ],
     "figure_count": 9,
     "characters": 60011,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-nbpho-2025-s",
@@ -6181,7 +6528,8 @@
     ],
     "figure_count": 9,
     "characters": 71673,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-rupho-w-2021-e1-s",
@@ -8504,7 +8852,8 @@
     ],
     "figure_count": 0,
     "characters": 12089,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-spot-2022-s",
@@ -8574,7 +8923,8 @@
     ],
     "figure_count": 17,
     "characters": 90786,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-1997-s",
@@ -8593,7 +8943,8 @@
     ],
     "figure_count": 16,
     "characters": 18284,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-1998-s",
@@ -8611,7 +8962,8 @@
     ],
     "figure_count": 11,
     "characters": 14217,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-1999-s",
@@ -8630,7 +8982,8 @@
     ],
     "figure_count": 6,
     "characters": 18198,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2000-s",
@@ -8647,7 +9000,8 @@
     ],
     "figure_count": 5,
     "characters": 24316,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2001-s",
@@ -8666,7 +9020,8 @@
     ],
     "figure_count": 1,
     "characters": 22468,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2002-s",
@@ -8684,7 +9039,8 @@
     ],
     "figure_count": 2,
     "characters": 21878,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2003-s",
@@ -8703,7 +9059,8 @@
     ],
     "figure_count": 4,
     "characters": 21523,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2004-s",
@@ -8722,7 +9079,8 @@
     ],
     "figure_count": 2,
     "characters": 22913,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2005-s",
@@ -8740,7 +9098,8 @@
     ],
     "figure_count": 3,
     "characters": 28568,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2006-s",
@@ -8757,7 +9116,8 @@
     ],
     "figure_count": 1,
     "characters": 22006,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2007-s",
@@ -8776,7 +9136,8 @@
     ],
     "figure_count": 1,
     "characters": 16091,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2008-s",
@@ -8795,7 +9156,8 @@
     ],
     "figure_count": 18,
     "characters": 36203,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2009-s",
@@ -8814,7 +9176,8 @@
     ],
     "figure_count": 9,
     "characters": 23779,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2010-s",
@@ -8833,7 +9196,8 @@
     ],
     "figure_count": 4,
     "characters": 26789,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2011-s",
@@ -8852,7 +9216,8 @@
     ],
     "figure_count": 5,
     "characters": 30768,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2012-s",
@@ -8871,7 +9236,8 @@
     ],
     "figure_count": 4,
     "characters": 28686,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2013-s",
@@ -8890,7 +9256,8 @@
     ],
     "figure_count": 8,
     "characters": 34556,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2014-s",
@@ -8981,7 +9348,8 @@
     ],
     "figure_count": 8,
     "characters": 39361,
-    "verification_status": "pending"
+    "verification_status": "promoted",
+    "canonical_solution": true
   },
   {
     "id": "solution-ocr-usapho-2021-s",

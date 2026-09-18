@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r2/2018_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r2-2018-q1, bpho-r2-2018-q2, bpho-r2-2018-q3, bpho-r2-2018-q4, bpho-r2-2018-q5]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## BPLO Round 22018
 

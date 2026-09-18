@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2005_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2005-string-breaking-test, eotvos-2005-transformer-circuit, eotvos-2005-triangular-lattice-diffraction]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2005. október 14-én délután az ország 16 városában rendezte meg az Eötvös Loránd Fizikai Társulat azévi Eötvösversenyét. Budapesten 50, Pécsett 12, Debrecenben és Szegeden 7-7, Miskolcon 6, Kecskeméten 5, Veszprémben és Székesfehérváron 4-4, Gyórött 1 hazai és 3 külföldi, Egerben, Szekszárdon és Szombathelyen 3-3, Békéscsabán, Nagykanizsán és Sopronban 1-1 versenyzó adott be dolgozatot. Nyíregyházán sajnos egyetlen fóiskolai vagy középiskolai diák se jelent meg a verseny színhelyén. Összesen 108 hazai és 4 külföldi versenyző dolgozatát kellett értékelnie a versenybizottságnak (elnök: Radnai Gyula, tagok: Gnädig Péter, Honyek Gyula és Károlyházy Frigyes).
 

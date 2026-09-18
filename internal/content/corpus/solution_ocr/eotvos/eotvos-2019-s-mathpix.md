@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2019_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2019-piston-heat-transfer, eotvos-2019-rope-waves, eotvos-2019-wire-cube-magnetic]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Beszámoló a 2019. évi Eötvös-versenyről
 

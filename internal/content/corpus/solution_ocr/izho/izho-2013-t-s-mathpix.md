@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/izho/2013_T_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [izho-2013-t-q1, izho-2013-t-q2, izho-2013-t-q3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## SOLUTIONS TO THE PROBLEMS OF THE THEORETICAL COMPETITION
 

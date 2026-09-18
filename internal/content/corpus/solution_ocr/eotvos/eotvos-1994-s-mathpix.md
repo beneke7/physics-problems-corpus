@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/1994_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-1994-charged-pendulum, eotvos-1994-diving-bell, eotvos-1994-superfluid-plug]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 1994-ben nemcsak a Lapok, hanem az Eötvös verseny is centenáriumot ünnepelt: éppen 100 évvel ezelőtt, 1894-ben indította útjára a Tanulóversenyt a Mathematikai és Physikai Társulat. Ezzel akarták - és sikerült - emlékezetessé tenni azt a tényt, hogy a társulat elnöke, Báró Eötvös Loránd 1894 nyarán Magyarország kultuszminisztere lett.
 

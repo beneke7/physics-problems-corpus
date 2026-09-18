@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2006_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2006-spacecraft-dust, eotvos-2006-superconductor-loop, eotvos-2006-thermal-phases]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2006. október 20-án rendezte az Eötvös Loránd Fizikai Társulat azévi Eötvös-versenyét. Budapesten 50, Pécsett 19, Debrecenben 13, Nyíregyházán és Sopronban 4-4, Békéscsabán, Egerben, Miskolcon, Nagykanizsán, Szegeden és Szombathelyen 3-3, Győrött, Szekszárdon és Székesfehérváron 2-2 dolgozatot adtak be a versenyzők. Összesen 114 dolgozatot bírált el a feladatokat kitúző Versenybizottság (Radnai Gyula elnök, Gnädig Péter, Honyek Gyula és Károlyházy Frigyes). A legtöbb versenyzó idén is a Fazekas Mihály Fővárosi Gyakorló Gimnáziumból jött, de elég sok 12. osztályos versenyző érkezett az ELTE Apáczai Csere János Gyakorlógimnáziumából is. Vidékről a legtöbb versenyzőt kiállító gimnázium a Debreceni Egyetem Kossuth Lajos Gyakorló Gimnáziuma volt. Két versenyzó érkezett külföldről, a révkomáromi Selye János magyar tannyelvú gimnáziumból, ók Győrött írták meg dolgozatukat.
 

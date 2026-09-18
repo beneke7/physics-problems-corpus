@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/bpho-r1/2009_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [bpho-r1-2009-1-q1, bpho-r1-2009-2-q5, bpho-r1-2009-2-q6, bpho-r1-2009-2-q8, bpho-r1-2009-2-q9]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Please note that this mark scheme is a final draft version. It contains several small errors that were corrected during the marking process.
 

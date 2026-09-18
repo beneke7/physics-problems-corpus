@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/apho/2018/T1_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [apho-2018-t1]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Theory Q1 <br> Optical trap of neutral atoms (12 points), <br> Solution and Marking Scheme
 

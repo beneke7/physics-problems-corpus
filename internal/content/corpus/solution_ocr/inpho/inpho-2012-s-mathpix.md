@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/inpho/2012_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [inpho-2012-a1, inpho-2012-a2, inpho-2012-a3, inpho-2012-a4-6, inpho-2012-a5-7]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Indian National Physics Olympiad - 2012 Solutions
 

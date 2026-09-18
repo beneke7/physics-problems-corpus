@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/gpho/2022_theory_solutions.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [gpho-2022-t1, gpho-2022-t2, gpho-2022-t3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Problem T1. Dark Matter (10 points) Part A. Rotation curves (5.5 points)
 

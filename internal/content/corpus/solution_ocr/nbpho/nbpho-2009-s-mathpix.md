@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2009_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2009-boat, nbpho-2009-magnetic-pulse, nbpho-2009-nanoclock, nbpho-2009-pencil, nbpho-2009-soap-film, nbpho-2009-spring]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Estonian-Finnish Olympiad - 2009
 

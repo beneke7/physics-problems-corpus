@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/aupho/2009_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [aupho-2009-q1, aupho-2009-q10, aupho-2009-q11, aupho-2009-q12, aupho-2009-q13, aupho-2009-q14, aupho-2009-q15, aupho-2009-q2, aupho-2009-q3, aupho-2009-q4, aupho-2009-q5, aupho-2009-q6, aupho-2009-q7, aupho-2009-q8, aupho-2009-q9]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Time Allowed: 135 minutes
 Hint: It's a good idea to read through the paper first!

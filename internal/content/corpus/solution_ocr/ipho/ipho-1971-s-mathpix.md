@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/ipho/1971_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [ipho-1971-q1, ipho-1971-q2, ipho-1971-q3, ipho-1971-q4]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 # Solutions to the problems of the 5-th International Physics Olympiad, 1971, Sofia, Bulgaria
 

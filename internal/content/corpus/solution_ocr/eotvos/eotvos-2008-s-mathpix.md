@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2008_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2008-charged-spheres, eotvos-2008-circus-artist, eotvos-2008-three-bodies-cooling]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 Vermes Miklós „Az Eötvös-versenyek feladatai 1959-1988” c. könyvében írja: „A háború utáni versenyek 1949-ben indultak meg újra, és azóta Eötvös-verseny néven rendezik meg minden ősszel." Minthogy azóta is minden évben sikerült megtartani a versenyt, 2008-ban volt a háború utáni 60. Eötvös-verseny.
 

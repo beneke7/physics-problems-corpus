@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eotvos/2003_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eotvos-2003-parallel-conductors, eotvos-2003-thin-walled-cylinder, eotvos-2003-water-droplet]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 2003. október 17-én rendezte meg az Eötvös Loránd Fizikai Társulat Budapesten és 15 vidéki városban az 1949-es felújítása óta 55. Eötvös-versenyt. Új színfoltot jelentett Kecskemét belépése a versenybe. Sáró Péter, a Katona József Gimnázium és Számítástechnikai Szakközépiskola igazgatóhelyettese szervezésében 9 tanuló jelent meg és adott be itt dolgozatot. A többi vidéki helyszín (zárójelben a versenyt szervező tanár neve és a versenyzők száma) a következő volt:
 

@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/gpho/2016_theory_solutions.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [gpho-2016-t1, gpho-2016-t2, gpho-2016-t3]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Problem T1. Stabilizing unstable states (11 points)
 

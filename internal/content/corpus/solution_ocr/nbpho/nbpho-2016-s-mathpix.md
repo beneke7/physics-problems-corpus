@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2016_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2016-dimmer, nbpho-2016-fuel-consumption, nbpho-2016-glass-plate, nbpho-2016-helium, nbpho-2016-oscillations]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## Nordic-Baltic Olympiad 2016 Solutions
 

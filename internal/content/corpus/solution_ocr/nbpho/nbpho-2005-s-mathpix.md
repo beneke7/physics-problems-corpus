@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/nbpho/2005_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [nbpho-2005-anemometer, nbpho-2005-ballistic-rocket, nbpho-2005-heat-exchange, nbpho-2005-magnetic-break, nbpho-2005-mechano-electrical-oscillator, nbpho-2005-rock-climber, nbpho-2005-water-pump]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## I. Rock Climber
 

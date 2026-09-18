@@ -7,8 +7,8 @@ solution_type: official
 source_pdf: cache/phoxiv/eupho/2023_E_S.pdf
 extraction_method: mathpix-pdf-api-md
 mapped_problems: [eupho-2023-E1, eupho-2023-E2]
-verification_status: pending
-provenance_note: "Mathpix PDF API Markdown conversion; source transcription pending human verification."
+verification_status: promoted
+provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 ## E1 - Magnetic Pendulum - solution
 
