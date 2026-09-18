@@ -1,0 +1,75 @@
+---
+id: ipho-book-2009-q3
+problem: ipho-book-2009-q3
+source: ipho
+language: hu
+solution_language: hu
+solution_type: official
+source_pdf: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf"
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+---
+
+## Megoldás 3
+
+3.1.1. Akkor közelíti meg a két proton egymást $d_{\mathrm{c}}$ távolságra, ha mozgási energiájuk összege megegyezik a $d_{\mathrm{c}}$ távolsághoz tartozó elektromos potenciális energiával. A mozgási energiák az ekvipartíció-tételből határozhatók meg. Tehát
+\[
+2 \cdot \frac{m_{\mathrm{p}} v_{\mathrm{rms}}^{2}}{2}=2 \cdot \frac{3}{2} k T_{\mathrm{c}}=\frac{q^{2}}{4 \pi \varepsilon_{0} d_{\mathrm{c}}}, \quad \text { így } \quad T_{\mathrm{c}}=\frac{q^{2}}{12 \pi \varepsilon_{0} d_{\mathrm{c}} k}=5,5 \cdot 10^{9} \mathrm{~K} .
+\]
+3.2.1.-3.2.4. A megadott, hidrosztatikai egyensúlyt leíró egyenletben elvégezve a javasolt helyettesítéseket, a központi nyomásra azt kapjuk, hogy $P_{\mathrm{c}}=\frac{G M \rho_{\mathrm{c}}}{R}$. Ugyanakkor az ideális gáztörvény szerint
+\[
+P_{\mathrm{c}}=\frac{N k T_{\mathrm{c}}}{V}=\frac{2 \rho_{\mathrm{c}} k T_{\mathrm{c}}}{m_{\mathrm{p}}},
+\]
+ahol felhasználtuk, hogy $N=\frac{2 M}{m_{\mathrm{p}}}$, hiszen a protonok adják lényegében a csillag teljes tömegét, de az elektronok is hozzájárulnak a nyomáshoz. A két egyenletből megkapható a keresett központi hőmérséklet:
+\[
+T_{\mathrm{c}}=\frac{G M m_{\mathrm{p}}}{2 k R} .
+\]
+Innen az $M / R$ arány $T_{\mathrm{c}}$ 3.1.1.-ben megkapott értékével számolva:
+\[
+\frac{M}{R}=\frac{2 k T_{\mathrm{c}}}{G m_{\mathrm{p}}}=1,4 \cdot 10^{24} \frac{\mathrm{~kg}}{\mathrm{~m}} .
+\]
+A Nap esetén ugyanez az arány $\frac{M_{\mathrm{N}}}{R_{\mathrm{N}}}=2,9 \cdot 10^{21} \frac{\mathrm{~kg}}{\mathrm{~m}}$, ami három nagyságrenddel kisebb, mint az előző elmélet jóslata.
+3.3.1.-3.3.3. A megoldás hasonló a 3.1.1. részéhez. A következó egyenleteket írhatjuk fel:
+\[
+\begin{array}{ll}
+\text { ekvipartíció-tétel: } & \frac{1}{2} m_{\mathrm{p}} v_{\mathrm{rms}}^{2}=\frac{3}{2} k T_{\mathrm{c}}, \\
+\text { mechanikai energiamegmaradás: } & m_{\mathrm{p}} v_{\mathrm{rms}}^{2}=\frac{q^{2}}{4 \pi \varepsilon_{0} d_{\mathrm{c}}}, \\
+\text { de Broglie-hullámhossz: } & d_{\mathrm{c}}=\frac{\lambda_{\mathrm{p}}}{\sqrt{2}}=\frac{h}{\sqrt{2} m_{\mathrm{p}} v_{\mathrm{rms}}} .
+\end{array}
+\]
+Az egyenletrendszer egyszerúen megoldható $T_{\mathrm{c}}$-re:
+\[
+T_{\mathrm{c}}=\frac{q^{4} m_{\mathrm{p}}}{24 \pi^{2} \varepsilon_{0}^{2} k h^{2}}=9,7 \cdot 10^{6} \mathrm{~K}
+\]
+A (09-11) összefüggés felhasználásával ehhez a hőmérséklethez tartozó $M / R$ arány értéke $2,4 \cdot 10^{21} \frac{\mathrm{~kg}}{\mathrm{~m}}$, ami már közel azonos a Nap esetén a megfigyelésekből számolt értékkel.
+3.4.1. Felhasználva a (09-11) és (09-12) formulákat,
+\[
+\frac{M}{R}=\frac{q^{4}}{12 \pi^{2} \varepsilon_{0}^{2} G h^{2}},
+\]
+ami valóban kizárólag univerzális fizikai állandóktól függ.
+3.5.1.-3.5.2. Az elektronok száma megegyezik a protonok számával, ami $\frac{M}{m_{\mathrm{p}}}$, tehát
+\[
+n_{\mathrm{e}}=\frac{M}{m_{\mathrm{p}} V}=\frac{3 M}{4 \pi R^{3} m_{\mathrm{p}}} .
+\]
+
+Ez azt jelenti, hogy a szomszédos elektronok közötti tipikus távolság $d_{\mathrm{e}}=n_{\mathrm{e}}^{-\frac{1}{3}}$. (Számolhatunk úgy, mintha az elektronok egy szabályos, $d_{\mathrm{e}}$ rácsállandójú köbös rácsban helyezkednének el a csillag belsejében.)
+3.5.3.-3.5.5. A legkisebb sugarat kicsit hosszadalmas, de egyszerú számolással kaphatjuk meg. Induljunk ki a $d_{\mathrm{e}} \geq \frac{\lambda_{\mathrm{e}}}{2^{1 / 2}}=\frac{h}{2^{1 / 2} m_{\mathrm{e}} v_{\mathrm{e}}}$ egyenlőtlenségből, ahol $v_{\mathrm{e}}$ az elektronok termikus sebességét jelöli. Az ekvipartíció-tétel alapján $v_{\mathrm{e}}=\sqrt{\frac{3 k T_{\mathrm{c}}}{m_{\mathrm{e}}}}$, a $d_{\mathrm{e}}$ tipikus távolságot kifejezhetjük a (09-14) egyenletben felírt elektronsúrúséggel, az $M$ tömeget beírhatjuk a (09-13) egyenletből, és a $T_{\mathrm{c}}$ hőmérsékletet megadja a (09-12) formula. Ezeket a behelyettesítéseket mind elvégezve, rendezés után a következő egyenlőtlenséget kapjuk a csillag sugarára:
+\[
+R \geq \frac{\varepsilon_{0}^{1 / 2} h^{2}}{2^{1 / 2} q m_{\mathrm{e}}^{3 / 4} m_{\mathrm{p}}^{5 / 4} G^{1 / 2}}=6,9 \cdot 10^{7} \mathrm{~m}=0,10 R_{\mathrm{N}} .
+\]
+Ezután a minimális tömeget a (09-13) egyenletből kaphatjuk meg:
+\[
+M \geq 1,7 \cdot 10^{29} \mathrm{~kg}=0,09 M_{\mathrm{N}} .
+\]
+3.6.1. Két ütköző héliumatommag együttes $m_{\mathrm{He}} v_{\mathrm{He}}^{2}$ mozgási energiája megegyezik a $d_{\mathrm{c}}=\frac{\lambda_{\mathrm{He}}}{\sqrt{2}}=\frac{h}{\sqrt{2} m_{\mathrm{He}} v_{\mathrm{He}}}$ távolsághoz tartozó $\frac{4 q^{2}}{4 \pi \varepsilon_{0} d_{\mathrm{c}}}$ potenciális energiával, ahonnan a héliumatommagok termikus sebessége
+\[
+v_{\mathrm{He}}=\frac{\sqrt{2} q^{2}}{\pi \varepsilon_{0} h}=2,0 \cdot 10^{6} \frac{\mathrm{~m}}{\mathrm{~s}} .
+\]
+Ezután a hőmérséklet az ekvipartíció-tételből számolható ki:
+\[
+T_{\mathrm{He}}=\frac{m_{\mathrm{He}} v_{\mathrm{He}}^{2}}{3 k}=6,5 \cdot 10^{8} \mathrm{~K} .
+\]
+Ez az érték nagyságrendileg egyezik a pontosabb csillagmodellek eredményével.
+
+\title{

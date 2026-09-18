@@ -1,0 +1,203 @@
+---
+id: ipho-book-2021-q3
+problem: ipho-book-2021-q3
+source: ipho
+language: hu
+solution_language: hu
+solution_type: official
+source_pdf: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf"
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+---
+
+## Megoldás 3
+
+3.A.1. A legkisebb energiájú állapotban a részecske de Broglie-hullámhossza a potenciálgödör $L$ szélességének a kétszerese, azaz $\lambda_{\mathrm{dB}}=2 L$. A részecske impuzusa $p=h / \lambda_{\mathrm{dB}}=h /(2 L)$. Tehát az energiája
+\[
+E_{\min }=\frac{p^{2}}{2 m}=\frac{h^{2}}{8 m L^{2}} .
+\]
+3.A.2. A potenciálgödör szélessége a részecske félhullámhosszának egész számú többszöröse lehet: $L=n \cdot \lambda_{\mathrm{dB}}^{(n)} / 2$, vagyis a részecske impulzusa
+\[
+p_{n}=\frac{h}{\lambda_{\mathrm{dB}}^{(n)}}=n \cdot \frac{h}{2 L},
+\]
+így a lehetséges energiaértékek:
+\[
+E_{n}=\frac{p_{n}^{2}}{2 m}=n^{2} \cdot \frac{h^{2}}{8 m L^{2}} .
+\]
+3.A.3. Az átmenet során kibocsátott foton energiája
+\[
+\Delta E=E_{2}-E_{1}=\frac{h c}{\lambda_{21}},
+\]
+ahonnan a foton hullámhossza
+\[
+\lambda_{21}=\frac{8 m c L^{2}}{3 h} .
+\]
+3.B.1. A Pauli-féle kizárási elvnek megfelelően egy energiaszintre két elektron kerülhet ellentétes spinnel. Tehát alapállapotban a 10 elektron az első 5 szintet foglalja el. Vagyis ha egy, az 5. szinten lévó elektron elnyel egy megfelelő hullámhosszúságú fotont, akkor az elektron az üres 6. energiaszintre kerül. Ezen gerjesztett állapot eléréséhez szükséges a legkisebb energia, azaz ekkor kapjuk meg a lehetséges legnagyobb hullámhosszúságú fotont:
+\[
+\lambda_{\mathrm{Cy} 5}=\frac{h c}{\Delta E_{65}}=\frac{8 m_{\mathrm{e}} c L^{2}}{h} \cdot \frac{1}{6^{2}-5^{2}}=\frac{10,5^{2} \cdot 8}{11} \frac{m_{\mathrm{e}} c l^{2}}{h} \approx 650 \mathrm{~nm} .
+\]
+Az eredmény nagyon jó egyezésben van a Cy5 abszorpciós spektrumában mért csúcspozícióval.
+3.B.2. A Cy3 molekulánál hasonló a helyzet, de most 8 elektront kell elhelyezni egy $L=8,5 \ell$ szélességú potenciálgödörben, azaz az $E_{4} \rightarrow E_{5}$ átmenetnek megfeleló foton hullámhosszát kell megadnunk:
+\[
+\lambda_{\mathrm{Cy} 3}=\frac{h c}{\Delta E_{54}}=\frac{8 m_{\mathrm{e}} c L^{2}}{h} \cdot \frac{1}{5^{2}-4^{2}}=\frac{8,5^{2} \cdot 8}{9} \frac{m_{\mathrm{e}} c \ell^{2}}{h} \approx 520 \mathrm{~nm} .
+\]
+Tehát a Cy3 molekula abszorpciós csúcsa a Cy5 molekuláéhoz képest $\Delta \lambda \approx$ $\approx 130 \mathrm{~nm}$-rel tolódik el a kék tartomány felé. A kísérleti érték $\lambda_{\text {Cy } 3}^{\text {exp. }}=548 \mathrm{~nm}$, azaz ez a modell elfogadhatóan leírja ezen festékmolekulák általános tulajdonságait.
+3.B.3. A feladat szövege szerint
+\[
+K \sim \varepsilon_{0}^{\alpha} h^{\beta} \lambda^{\gamma} d^{\delta} .
+\]
+A egyes SI-mértékegységek:
+\[
+\left[\varepsilon_{0}\right]=\frac{\mathrm{A}^{2} \mathrm{~s}^{4}}{\mathrm{~kg} \cdot \mathrm{~m}^{3}}, \quad[h]=\frac{\mathrm{kg} \cdot \mathrm{~m}^{2}}{\mathrm{~s}}, \quad[\lambda]=\mathrm{m}, \quad[d]=\mathrm{A} \cdot \mathrm{~s} \cdot \mathrm{~m}, \quad[K]=\mathrm{s}^{-1} .
+\]
+Vagyis a kitevőkre vonatkozó egyenletek:
+\[
+\begin{gathered}
+\mathrm{A}: 2 \alpha+\delta=0, \\
+\mathrm{~kg}:-\alpha+\beta=0, \\
+\mathrm{~m}:-3 \alpha+2 \beta+\gamma+\delta=0, \\
+\mathrm{~s}: 4 \alpha-\beta+\delta=-1 .
+\end{gathered}
+\]
+Az egyenletrendszert megoldva: $\alpha=\beta=-1, \gamma=-3$ és $\delta=2$, tehát a keresett összefüggés:
+\[
+K=\frac{16 \pi^{3}}{3} \frac{d^{2}}{\varepsilon_{0} h \lambda^{3}} .
+\]
+3.B.4. A 3.B.2. és az előző rész ereményét felhasználva:
+\[
+\tau_{\mathrm{Cy} 5}=\frac{1}{K}=\frac{3}{16 \pi^{3}} \frac{\varepsilon_{0} h}{2,4^{2} e^{2} \ell^{2}} \lambda_{\mathrm{Cy} 5} \approx 3,3 \mathrm{~ns} .
+\]
+3.C.1. A gázrészecskék négyzetes átlagsebessége az ekvipartíció tétel alapján $\sqrt{\overline{v^{2}}}=\sqrt{3 k_{\mathrm{B}} T / m}$, amivel a részecske impulzusa
+\[
+p=m \sqrt{\overline{v^{2}}}=\sqrt{3 m k_{\mathrm{B}} T},
+\]
+és a de Broglie-hullámhossza
+\[
+\lambda_{\mathrm{dB}}=\frac{h}{p}=\frac{h}{\sqrt{3 m k_{\mathrm{B}} T}} .
+\]
+3.C.2. Ha gondolatban $N$ darab részecskét teszünk egy $V$ térfogatú kockába egymástól azonos $\ell$ távolságra, akkor a kocka egy éle mentén $\sqrt[3]{N}$ darab részecske helyezkedik el, azaz a kocka élhosszúsága $\sqrt[3]{N} \ell$. Ezzel kifejezve a kocka térfogatát: $V=N \ell^{3}$, ahonnan a tipikus távolság $(n=N / V)$ :
+\[
+\ell=n^{-1 / 3} .
+\]
+
+Ezt a távolságot a de Broglie-hullámhosszal azonosítva, a kritkus hőmérsékletet az előző rész eredményével kifejezhetjük:
+\[
+T_{\mathrm{c}}=\frac{h^{2}}{3 m k_{\mathrm{B}} \lambda_{\mathrm{dB}}^{2}}=\frac{h^{2} n^{2 / 3}}{3 m k_{\mathrm{B}}} .
+\]
+3.C.3. Az előzó feladat eredménye szerint
+\[
+n_{\mathrm{c}}=\frac{\left(3 m k_{\mathrm{B}} T_{\mathrm{c}}\right)^{3 / 2}}{h^{3}} \approx 1,6 \cdot 10^{18} \frac{1}{\mathrm{~m}^{3}} .
+\]
+Az ideális gáz állapotegyenletével a részecskeszám-súrúség
+\[
+n_{0}=\frac{p_{0}}{k_{\mathrm{B}} T_{0}} \approx 1,5 \cdot 10^{7} \frac{1}{\mathrm{~m}^{3}},
+\]
+ami sok nagyságrenddel kisebb, mint a kritkus részecskeszám-súrúség.
+3.D.1. Adjuk össze a három térerősségvektort. Mivel a hullámok $z$ irányban polarizáltak, csak $z$ irányú komponens van:
+\[
+E_{z}(\boldsymbol{r}, t)=E_{0} \sum_{i=1}^{3} \cos \left(\boldsymbol{k}_{i} \boldsymbol{r}-\omega t\right) .
+\]
+Négyzetre emelve
+\[
+E_{z}^{2}(\boldsymbol{r}, t)=E_{0}^{2} \sum_{i, j=1}^{3} \cos \left(\boldsymbol{k}_{i} \boldsymbol{r}-\omega t\right) \cdot \cos \left(\boldsymbol{k}_{j} \boldsymbol{r}-\omega t\right) .
+\]
+
+Felhasználva, hogy $\cos \alpha \cdot \cos \beta=[\cos (\alpha+\beta)+\cos (\alpha-\beta)] / 2$ :
+\[
+E_{z}^{2}(\boldsymbol{r}, t)=\frac{E_{0}^{2}}{2} \sum_{i, j=1}^{3}\left[\cos \left(\left(\boldsymbol{k}_{i}+\boldsymbol{k}_{j}\right) \boldsymbol{r}-2 \omega t\right)+\cos \left(\left(\boldsymbol{k}_{i}-\boldsymbol{k}_{j}\right) \boldsymbol{r}\right)\right] .
+\]
+Időátlagban az $\omega t$-t tartalmazó tag nulla, így
+\[
+\left\langle E_{z}^{2}(\boldsymbol{r}, t)\right\rangle=\frac{E_{0}^{2}}{2} \sum_{i, j=1}^{3} \cos \left[\left(\boldsymbol{k}_{i}-\boldsymbol{k}_{j}\right) \boldsymbol{r}\right] .
+\]
+Ennek az összegnek összesen 9 tagja van. Ha $i=j$, akkor koszinusz argumentuma nulla, így ezen három tag összege 3, ha $i \neq j$, akkor mivel $\cos \alpha=\cos (-\alpha)$, a 6 tag közül csak 3 darab különböző. Tehát
+\[
+\left\langle E_{z}^{2}(\boldsymbol{r}, t)\right\rangle=E_{0}^{2}\left[\frac{3}{2}+\sum_{i=1}^{3} \cos \left(\boldsymbol{b}_{i} \boldsymbol{r}\right)\right],
+\]
+ahol $\boldsymbol{b}_{1}=\boldsymbol{k}_{2}-\boldsymbol{k}_{3}, \boldsymbol{b}_{2}=\boldsymbol{k}_{3}-\boldsymbol{k}_{1}$ és $\boldsymbol{b}_{3}=\boldsymbol{k}_{1}-\boldsymbol{k}_{2}$ (ezeket reciprokrácsvektoroknak nevezik). A potenciál
+\[
+V(\boldsymbol{r})=-\alpha E_{0}^{2}\left[\frac{3}{2}+\sum_{i=1}^{3} \cos \left(\boldsymbol{b}_{i} \boldsymbol{r}\right)\right] .
+\]
+3.D.2. Tekintsük például az origó (a három nyaláb találkozási helye) körüli 60°-os forgatást (óramutató járásával ellentétesen). Mivel $\boldsymbol{k}_{1}, \boldsymbol{k}_{2}$ és $\boldsymbol{k}_{3}$ egymással 120°-os szöget alkot, így a forgatás hatására a
+\[
+\begin{aligned}
+& \boldsymbol{k}_{1} \rightarrow-\boldsymbol{k}_{3}, \\
+& \boldsymbol{k}_{2} \rightarrow-\boldsymbol{k}_{1}, \\
+& \boldsymbol{k}_{3} \rightarrow-\boldsymbol{k}_{2}
+\end{aligned}
+\]
+transzformáció jön létre (lásd a 431, a) ábrát). A potenciál (21-09) kifejezésében szereplő $\boldsymbol{b}_{i}$ vektorok a
+\[
+\begin{aligned}
+& \boldsymbol{b}_{1}=\boldsymbol{k}_{2}-\boldsymbol{k}_{3} \rightarrow-\boldsymbol{k}_{1}-\left(-\boldsymbol{k}_{2}\right)=\boldsymbol{k}_{2}-\boldsymbol{k}_{1}=-\boldsymbol{b}_{3}, \\
+& \boldsymbol{b}_{2}=\boldsymbol{k}_{3}-\boldsymbol{k}_{1} \rightarrow-\boldsymbol{k}_{2}-\left(-\boldsymbol{k}_{3}\right)=\boldsymbol{k}_{3}-\boldsymbol{k}_{2}=-\boldsymbol{b}_{1}, \\
+& \boldsymbol{b}_{3}=\boldsymbol{k}_{1}-\boldsymbol{k}_{2} \rightarrow-\boldsymbol{k}_{3}-\left(-\boldsymbol{k}_{1}\right)=\boldsymbol{k}_{1}-\boldsymbol{k}_{3}=-\boldsymbol{b}_{2}
+\end{aligned}
+\]
+szerint transzformálódnak. Az így kapott $\boldsymbol{b}_{i}$ vektorokkal a $\cos \left(\boldsymbol{b}_{i} \boldsymbol{r}\right)$ tagok összege a transzformáció előtti értékükkel egyeznek meg, azaz a potenciál értéke nem változik meg, máshogy mondva a potenciál invariáns az origó körüli 60°-os forgatásra.
+3.D.3. Legyen $\boldsymbol{r}=(x, y)$. A hullámszámvektorok
+\[
+\begin{gathered}
+\boldsymbol{k}_{1}=k(1,0), \\
+\boldsymbol{k}_{2}=k\left(-\cos 60^{\circ}, \sin 60^{\circ}\right), \\
+\boldsymbol{k}_{3}=k\left(-\cos 60^{\circ},-\sin 60^{\circ}\right) .
+\end{gathered}
+\]
+
+Ezekkel a potenciál (21-09) alapján
+\[
+\begin{aligned}
+V(x, y)= & -\alpha E_{0}^{2}\left[\frac{3}{2}+\cos (k y \sqrt{3})+\right. \\
+& \left.+\cos \left(\frac{3 k x}{2}+\frac{k y \sqrt{3}}{2}\right)+\cos \left(\frac{3 k x}{2}-\frac{k y \sqrt{3}}{2}\right)\right] .
+\end{aligned}
+\]
+Tehát
+\[
+V_{X}(x)=-\alpha E_{0}^{2}\left[\frac{5}{2}+2 \cos \left(\frac{3 k x}{2}\right)\right] .
+\]
+Ennek a kifejezésnek minimuma vagy maximuma ott van, ahol a koszinuszos kifejezés értéke rendre 1 , illetve -1 . Azaz a minimumhelyek
+\[
+x_{\min }=\frac{4 \pi}{3 k} \cdot n, \quad(n=0,1,2, \ldots),
+\]
+a maximumhelyek pedig
+\[
+x_{\max }=\frac{2 \pi}{3 k}+\frac{4 \pi}{3 k} \cdot n, \quad(n=0,1,2, \ldots) .
+\]
+
+Az $y$ tengely mentén
+\[
+V_{Y}(y)=-\alpha E_{0}^{2}\left[\frac{3}{2}+\cos (k y \sqrt{3})+2 \cos \left(\frac{k y \sqrt{3}}{2}\right)\right] .
+\]
+A kifejezés lehetséges szélsőértékhelyeit a
+\[
+\sin (k y \sqrt{3})+\sin \left(\frac{k y \sqrt{3}}{2}\right)=0
+\]
+egyenlet határozza meg. A $\sin 2 \alpha=2 \sin \alpha \cos \alpha$ azonosság segítségével átalakítva az egyenletet
+\[
+\sin \left(\frac{k y \sqrt{3}}{2}\right)\left[1+2 \cos \left(\frac{k y \sqrt{3}}{2}\right)\right]=0 .
+\]
+Ez akkor teljesül, ha
+\[
+\begin{aligned}
+& -y_{1}=\frac{4 \pi}{k \sqrt{3}} \cdot n,(n=0,1,2, \ldots), \text { ami minimum }, \\
+& -y_{2}=\frac{2 \pi}{k \sqrt{3}}+\frac{4 \pi}{k \sqrt{3}} \cdot n,(n=0,1,2, \ldots), \text { ami minimum }, \\
+& -y_{3}=\frac{4 \pi}{k 3 \sqrt{3}}+\frac{4 \pi}{k \sqrt{3}} \cdot n,(n=0,1,2, \ldots), \text { ami maximum }, \\
+& -y_{4}=\frac{8 \pi}{k 3 \sqrt{3}}+\frac{4 \pi}{k \sqrt{3}} \cdot n,(n=0,1,2, \ldots), \text { ami maximum. }
+\end{aligned}
+\]
+3.D.4. Látható, hogy az origó minimumhely. Két, az origóhoz legközelebbi minimum a $( \pm 4 \pi /(3 k), 0)$. A hatfogású szimmetria miatt, ezek közül bármelyikből indulva, az origó körüli 60°-os forgatással is minimumhelyre jutunk, melyek az origótól ugyanúgy rácsállandónyi, $a=4 \pi /(3 k)$ távolságra vannak, tehát a
+\[
+\begin{array}{cc}
+\left(\frac{2 \pi}{3 k}, \frac{2 \pi}{k \sqrt{3}}\right), & \left(-\frac{2 \pi}{3 k}, \frac{2 \pi}{k \sqrt{3}}\right) \\
+\left(-\frac{2 \pi}{3 k},-\frac{2 \pi}{k \sqrt{3}}\right), & \left(\frac{2 \pi}{3 k},-\frac{2 \pi}{k \sqrt{3}}\right)
+\end{array}
+\]
+helyek is minimumhelyek. Mivel $\lambda_{\text {las }}=2 \pi / k$, így
+\[
+a=\frac{2}{3} \lambda_{\mathrm{las}} .
+\]
+3.D.5. Az atom törzselektronjai az egyetlen, magas $n$ fókvantumszámú állapotban lévő elektronon kívül leárnyékolják az atommag elektromos terét, így lényegében egy, a hidrogénatom körül $r$ sugarú körpályán keringő elektron problémáját tekinthetjük. Az elektronra ható vonzóeró $F=e^{2} /\left(4 \pi \varepsilon_{0} r^{2}\right)=m_{\mathrm{e}} a_{\mathrm{cp}}$, centripetális gyorsulása $a_{\mathrm{cp}}=v^{2} / r$, pálya-impulzusmomentuma $m_{\mathrm{e}} v r=n \hbar$, valamint $r \approx \lambda_{\text {las }}$. Ezekből
+\[
+n=\frac{e}{\hbar} \sqrt{\frac{m_{\mathrm{e}} \lambda_{\mathrm{las}}}{4 \pi \varepsilon_{0}}} \approx 85 .
+\]

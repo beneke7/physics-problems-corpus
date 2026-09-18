@@ -1,5 +1,5 @@
 {
-  "record_count": 5505,
+  "record_count": 6035,
   "records": {
     "200ppp-P001": {
       "problem": "content/corpus/problems/200ppp-P001.md",
@@ -40535,6 +40535,4790 @@
         "content/figures/usatst/figures/usatst-2021-q3-fig04.png"
       ],
       "figure_count": 4
+    },
+    "333plus-F001": {
+      "problem": "content/corpus/problems/333plus-F001.md",
+      "solution": "content/corpus/solutions/333plus-F001.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p165-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F002": {
+      "problem": "content/corpus/problems/333plus-F002.md",
+      "solution": "content/corpus/solutions/333plus-F002.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p166-f1.png",
+        "content/figures/333plus/figures/333+-p167-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F003": {
+      "problem": "content/corpus/problems/333plus-F003.md",
+      "solution": "content/corpus/solutions/333plus-F003.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p168-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F004": {
+      "problem": "content/corpus/problems/333plus-F004.md",
+      "solution": "content/corpus/solutions/333plus-F004.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p168-f2.png",
+        "content/figures/333plus/figures/333+-p168-f3.png",
+        "content/figures/333plus/figures/333+-p169-f1.png",
+        "content/figures/333plus/figures/333+-p170-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F005": {
+      "problem": "content/corpus/problems/333plus-F005.md",
+      "solution": "content/corpus/solutions/333plus-F005.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p170-f2.png",
+        "content/figures/333plus/figures/333+-p171-f1.png",
+        "content/figures/333plus/figures/333+-p171-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F006": {
+      "problem": "content/corpus/problems/333plus-F006.md",
+      "solution": "content/corpus/solutions/333plus-F006.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p171-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F007": {
+      "problem": "content/corpus/problems/333plus-F007.md",
+      "solution": "content/corpus/solutions/333plus-F007.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p172-f1.png",
+        "content/figures/333plus/figures/333+-p173-f1.png",
+        "content/figures/333plus/figures/333+-p173-f2.png",
+        "content/figures/333plus/figures/333+-p173-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F008": {
+      "problem": "content/corpus/problems/333plus-F008.md",
+      "solution": "content/corpus/solutions/333plus-F008.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p174-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F009": {
+      "problem": "content/corpus/problems/333plus-F009.md",
+      "solution": "content/corpus/solutions/333plus-F009.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p175-f1.png",
+        "content/figures/333plus/figures/333+-p177-f1.png",
+        "content/figures/333plus/figures/333+-p177-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F010": {
+      "problem": "content/corpus/problems/333plus-F010.md",
+      "solution": "content/corpus/solutions/333plus-F010.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p178-f1.png",
+        "content/figures/333plus/figures/333+-p178-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F011": {
+      "problem": "content/corpus/problems/333plus-F011.md",
+      "solution": "content/corpus/solutions/333plus-F011.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p17-f1.png",
+        "content/figures/333plus/figures/333+-p179-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F012": {
+      "problem": "content/corpus/problems/333plus-F012.md",
+      "solution": "content/corpus/solutions/333plus-F012.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p180-f1.png",
+        "content/figures/333plus/figures/333+-p180-f2.png",
+        "content/figures/333plus/figures/333+-p181-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F013": {
+      "problem": "content/corpus/problems/333plus-F013.md",
+      "solution": "content/corpus/solutions/333plus-F013.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p182-f1.png",
+        "content/figures/333plus/figures/333+-p182-f2.png",
+        "content/figures/333plus/figures/333+-p182-f3.png",
+        "content/figures/333plus/figures/333+-p182-f4.png",
+        "content/figures/333plus/figures/333+-p184-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F014": {
+      "problem": "content/corpus/problems/333plus-F014.md",
+      "solution": "content/corpus/solutions/333plus-F014.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p185-f1.png",
+        "content/figures/333plus/figures/333+-p185-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F015": {
+      "problem": "content/corpus/problems/333plus-F015.md",
+      "solution": "content/corpus/solutions/333plus-F015.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p185-f3.png",
+        "content/figures/333plus/figures/333+-p186-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F016": {
+      "problem": "content/corpus/problems/333plus-F016.md",
+      "solution": "content/corpus/solutions/333plus-F016.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p17-f2.png",
+        "content/figures/333plus/figures/333+-p186-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F017": {
+      "problem": "content/corpus/problems/333plus-F017.md",
+      "solution": "content/corpus/solutions/333plus-F017.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p18-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F018": {
+      "problem": "content/corpus/problems/333plus-F018.md",
+      "solution": "content/corpus/solutions/333plus-F018.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p18-f2.png",
+        "content/figures/333plus/figures/333+-p187-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F019": {
+      "problem": "content/corpus/problems/333plus-F019.md",
+      "solution": "content/corpus/solutions/333plus-F019.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p188-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F020": {
+      "problem": "content/corpus/problems/333plus-F020.md",
+      "solution": "content/corpus/solutions/333plus-F020.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p189-f1.png",
+        "content/figures/333plus/figures/333+-p189-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F021": {
+      "problem": "content/corpus/problems/333plus-F021.md",
+      "solution": "content/corpus/solutions/333plus-F021.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p189-f3.png",
+        "content/figures/333plus/figures/333+-p190-f1.png",
+        "content/figures/333plus/figures/333+-p191-f1.png",
+        "content/figures/333plus/figures/333+-p192-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F022": {
+      "problem": "content/corpus/problems/333plus-F022.md",
+      "solution": "content/corpus/solutions/333plus-F022.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p193-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F023": {
+      "problem": "content/corpus/problems/333plus-F023.md",
+      "solution": "content/corpus/solutions/333plus-F023.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p19-f1.png",
+        "content/figures/333plus/figures/333+-p194-f1.png",
+        "content/figures/333plus/figures/333+-p195-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F024": {
+      "problem": "content/corpus/problems/333plus-F024.md",
+      "solution": "content/corpus/solutions/333plus-F024.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p196-f1.png",
+        "content/figures/333plus/figures/333+-p197-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F025": {
+      "problem": "content/corpus/problems/333plus-F025.md",
+      "solution": "content/corpus/solutions/333plus-F025.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p19-f2.png",
+        "content/figures/333plus/figures/333+-p198-f1.png",
+        "content/figures/333plus/figures/333+-p199-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F026": {
+      "problem": "content/corpus/problems/333plus-F026.md",
+      "solution": "content/corpus/solutions/333plus-F026.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p201-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F027": {
+      "problem": "content/corpus/problems/333plus-F027.md",
+      "solution": "content/corpus/solutions/333plus-F027.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p203-f1.png",
+        "content/figures/333plus/figures/333+-p203-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F028": {
+      "problem": "content/corpus/problems/333plus-F028.md",
+      "solution": "content/corpus/solutions/333plus-F028.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p204-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F029": {
+      "problem": "content/corpus/problems/333plus-F029.md",
+      "solution": "content/corpus/solutions/333plus-F029.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p204-f2.png",
+        "content/figures/333plus/figures/333+-p205-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F030": {
+      "problem": "content/corpus/problems/333plus-F030.md",
+      "solution": "content/corpus/solutions/333plus-F030.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p20-f1.png",
+        "content/figures/333plus/figures/333+-p21-f1.png",
+        "content/figures/333plus/figures/333+-p115-f1.png",
+        "content/figures/333plus/figures/333+-p206-f1.png",
+        "content/figures/333plus/figures/333+-p208-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F031": {
+      "problem": "content/corpus/problems/333plus-F031.md",
+      "solution": "content/corpus/solutions/333plus-F031.md",
+      "figure_count": 0
+    },
+    "333plus-F032": {
+      "problem": "content/corpus/problems/333plus-F032.md",
+      "solution": "content/corpus/solutions/333plus-F032.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p21-f2.png",
+        "content/figures/333plus/figures/333+-p208-f2.png",
+        "content/figures/333plus/figures/333+-p208-f3.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F033": {
+      "problem": "content/corpus/problems/333plus-F033.md",
+      "solution": "content/corpus/solutions/333plus-F033.md",
+      "figure_count": 0
+    },
+    "333plus-F034": {
+      "problem": "content/corpus/problems/333plus-F034.md",
+      "solution": "content/corpus/solutions/333plus-F034.md",
+      "figure_count": 0
+    },
+    "333plus-F035": {
+      "problem": "content/corpus/problems/333plus-F035.md",
+      "solution": "content/corpus/solutions/333plus-F035.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p22-f1.png",
+        "content/figures/333plus/figures/333+-p22-f2.png",
+        "content/figures/333plus/figures/333+-p212-f1.png",
+        "content/figures/333plus/figures/333+-p212-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F036": {
+      "problem": "content/corpus/problems/333plus-F036.md",
+      "solution": "content/corpus/solutions/333plus-F036.md",
+      "figure_count": 0
+    },
+    "333plus-F037": {
+      "problem": "content/corpus/problems/333plus-F037.md",
+      "solution": "content/corpus/solutions/333plus-F037.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p22-f3.png",
+        "content/figures/333plus/figures/333+-p214-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F038": {
+      "problem": "content/corpus/problems/333plus-F038.md",
+      "solution": "content/corpus/solutions/333plus-F038.md",
+      "figure_count": 0
+    },
+    "333plus-F039": {
+      "problem": "content/corpus/problems/333plus-F039.md",
+      "solution": "content/corpus/solutions/333plus-F039.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p23-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F040": {
+      "problem": "content/corpus/problems/333plus-F040.md",
+      "solution": "content/corpus/solutions/333plus-F040.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p217-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F041": {
+      "problem": "content/corpus/problems/333plus-F041.md",
+      "solution": "content/corpus/solutions/333plus-F041.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p23-f2.png",
+        "content/figures/333plus/figures/333+-p218-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F042": {
+      "problem": "content/corpus/problems/333plus-F042.md",
+      "solution": "content/corpus/solutions/333plus-F042.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p220-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F043": {
+      "problem": "content/corpus/problems/333plus-F043.md",
+      "solution": "content/corpus/solutions/333plus-F043.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p24-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F044": {
+      "problem": "content/corpus/problems/333plus-F044.md",
+      "solution": "content/corpus/solutions/333plus-F044.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p24-f2.png",
+        "content/figures/333plus/figures/333+-p221-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F045": {
+      "problem": "content/corpus/problems/333plus-F045.md",
+      "solution": "content/corpus/solutions/333plus-F045.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p222-f1.png",
+        "content/figures/333plus/figures/333+-p223-f1.png",
+        "content/figures/333plus/figures/333+-p223-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F046": {
+      "problem": "content/corpus/problems/333plus-F046.md",
+      "solution": "content/corpus/solutions/333plus-F046.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p25-f1.png",
+        "content/figures/333plus/figures/333+-p25-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F047": {
+      "problem": "content/corpus/problems/333plus-F047.md",
+      "solution": "content/corpus/solutions/333plus-F047.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p225-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F048": {
+      "problem": "content/corpus/problems/333plus-F048.md",
+      "solution": "content/corpus/solutions/333plus-F048.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p25-f3.png",
+        "content/figures/333plus/figures/333+-p227-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F049": {
+      "problem": "content/corpus/problems/333plus-F049.md",
+      "solution": "content/corpus/solutions/333plus-F049.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p25-f4.png",
+        "content/figures/333plus/figures/333+-p228-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F050": {
+      "problem": "content/corpus/problems/333plus-F050.md",
+      "solution": "content/corpus/solutions/333plus-F050.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p26-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F051": {
+      "problem": "content/corpus/problems/333plus-F051.md",
+      "solution": "content/corpus/solutions/333plus-F051.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p26-f2.png",
+        "content/figures/333plus/figures/333+-p230-f1.png",
+        "content/figures/333plus/figures/333+-p230-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F052": {
+      "problem": "content/corpus/problems/333plus-F052.md",
+      "solution": "content/corpus/solutions/333plus-F052.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p26-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F053": {
+      "problem": "content/corpus/problems/333plus-F053.md",
+      "solution": "content/corpus/solutions/333plus-F053.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p27-f1.png",
+        "content/figures/333plus/figures/333+-p28-f1.png",
+        "content/figures/333plus/figures/333+-p118-f1.png",
+        "content/figures/333plus/figures/333+-p232-f1.png",
+        "content/figures/333plus/figures/333+-p233-f1.png",
+        "content/figures/333plus/figures/333+-p234-f1.png",
+        "content/figures/333plus/figures/333+-p236-f1.png"
+      ],
+      "figure_count": 7
+    },
+    "333plus-F054": {
+      "problem": "content/corpus/problems/333plus-F054.md",
+      "solution": "content/corpus/solutions/333plus-F054.md",
+      "figure_count": 0
+    },
+    "333plus-F055": {
+      "problem": "content/corpus/problems/333plus-F055.md",
+      "solution": "content/corpus/solutions/333plus-F055.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p28-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F056": {
+      "problem": "content/corpus/problems/333plus-F056.md",
+      "solution": "content/corpus/solutions/333plus-F056.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p28-f3.png",
+        "content/figures/333plus/figures/333+-p28-f4.png",
+        "content/figures/333plus/figures/333+-p238-f1.png",
+        "content/figures/333plus/figures/333+-p238-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F057": {
+      "problem": "content/corpus/problems/333plus-F057.md",
+      "solution": "content/corpus/solutions/333plus-F057.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p29-f1.png",
+        "content/figures/333plus/figures/333+-p239-f1.png",
+        "content/figures/333plus/figures/333+-p240-f1.png",
+        "content/figures/333plus/figures/333+-p240-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F058": {
+      "problem": "content/corpus/problems/333plus-F058.md",
+      "solution": "content/corpus/solutions/333plus-F058.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p240-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F059": {
+      "problem": "content/corpus/problems/333plus-F059.md",
+      "solution": "content/corpus/solutions/333plus-F059.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p242-f1.png",
+        "content/figures/333plus/figures/333+-p243-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F060": {
+      "problem": "content/corpus/problems/333plus-F060.md",
+      "solution": "content/corpus/solutions/333plus-F060.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p244-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F061": {
+      "problem": "content/corpus/problems/333plus-F061.md",
+      "solution": "content/corpus/solutions/333plus-F061.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p246-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F062": {
+      "problem": "content/corpus/problems/333plus-F062.md",
+      "solution": "content/corpus/solutions/333plus-F062.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p248-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F063": {
+      "problem": "content/corpus/problems/333plus-F063.md",
+      "solution": "content/corpus/solutions/333plus-F063.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p30-f1.png",
+        "content/figures/333plus/figures/333+-p249-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F064": {
+      "problem": "content/corpus/problems/333plus-F064.md",
+      "solution": "content/corpus/solutions/333plus-F064.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p30-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F065": {
+      "problem": "content/corpus/problems/333plus-F065.md",
+      "solution": "content/corpus/solutions/333plus-F065.md",
+      "figure_count": 0
+    },
+    "333plus-F066": {
+      "problem": "content/corpus/problems/333plus-F066.md",
+      "solution": "content/corpus/solutions/333plus-F066.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p31-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F067": {
+      "problem": "content/corpus/problems/333plus-F067.md",
+      "solution": "content/corpus/solutions/333plus-F067.md",
+      "figure_count": 0
+    },
+    "333plus-F068": {
+      "problem": "content/corpus/problems/333plus-F068.md",
+      "solution": "content/corpus/solutions/333plus-F068.md",
+      "figure_count": 0
+    },
+    "333plus-F069": {
+      "problem": "content/corpus/problems/333plus-F069.md",
+      "solution": "content/corpus/solutions/333plus-F069.md",
+      "figure_count": 0
+    },
+    "333plus-F070": {
+      "problem": "content/corpus/problems/333plus-F070.md",
+      "solution": "content/corpus/solutions/333plus-F070.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p258-f1.png",
+        "content/figures/333plus/figures/333+-p258-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F071": {
+      "problem": "content/corpus/problems/333plus-F071.md",
+      "solution": "content/corpus/solutions/333plus-F071.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p32-f1.png",
+        "content/figures/333plus/figures/333+-p32-f2.png",
+        "content/figures/333plus/figures/333+-p259-f1.png",
+        "content/figures/333plus/figures/333+-p260-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F072": {
+      "problem": "content/corpus/problems/333plus-F072.md",
+      "solution": "content/corpus/solutions/333plus-F072.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p260-f2.png",
+        "content/figures/333plus/figures/333+-p261-f1.png",
+        "content/figures/333plus/figures/333+-p262-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F073": {
+      "problem": "content/corpus/problems/333plus-F073.md",
+      "solution": "content/corpus/solutions/333plus-F073.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p32-f3.png",
+        "content/figures/333plus/figures/333+-p264-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F074": {
+      "problem": "content/corpus/problems/333plus-F074.md",
+      "solution": "content/corpus/solutions/333plus-F074.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p268-f1.png",
+        "content/figures/333plus/figures/333+-p269-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F075": {
+      "problem": "content/corpus/problems/333plus-F075.md",
+      "solution": "content/corpus/solutions/333plus-F075.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p34-f1.png",
+        "content/figures/333plus/figures/333+-p121-f1.png",
+        "content/figures/333plus/figures/333+-p271-f1.png",
+        "content/figures/333plus/figures/333+-p274-f1.png",
+        "content/figures/333plus/figures/333+-p275-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F076": {
+      "problem": "content/corpus/problems/333plus-F076.md",
+      "solution": "content/corpus/solutions/333plus-F076.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p34-f2.png",
+        "content/figures/333plus/figures/333+-p34-f3.png",
+        "content/figures/333plus/figures/333+-p275-f2.png",
+        "content/figures/333plus/figures/333+-p275-f3.png",
+        "content/figures/333plus/figures/333+-p275-f4.png",
+        "content/figures/333plus/figures/333+-p276-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F077": {
+      "problem": "content/corpus/problems/333plus-F077.md",
+      "solution": "content/corpus/solutions/333plus-F077.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p276-f2.png",
+        "content/figures/333plus/figures/333+-p277-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F078": {
+      "problem": "content/corpus/problems/333plus-F078.md",
+      "solution": "content/corpus/solutions/333plus-F078.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p34-f4.png",
+        "content/figures/333plus/figures/333+-p278-f1.png",
+        "content/figures/333plus/figures/333+-p279-f1.png",
+        "content/figures/333plus/figures/333+-p279-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F079": {
+      "problem": "content/corpus/problems/333plus-F079.md",
+      "solution": "content/corpus/solutions/333plus-F079.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p35-f1.png",
+        "content/figures/333plus/figures/333+-p280-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F080": {
+      "problem": "content/corpus/problems/333plus-F080.md",
+      "solution": "content/corpus/solutions/333plus-F080.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p35-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F081": {
+      "problem": "content/corpus/problems/333plus-F081.md",
+      "solution": "content/corpus/solutions/333plus-F081.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p35-f3.png",
+        "content/figures/333plus/figures/333+-p282-f1.png",
+        "content/figures/333plus/figures/333+-p282-f2.png",
+        "content/figures/333plus/figures/333+-p282-f3.png",
+        "content/figures/333plus/figures/333+-p282-f4.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F082": {
+      "problem": "content/corpus/problems/333plus-F082.md",
+      "solution": "content/corpus/solutions/333plus-F082.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p36-f1.png",
+        "content/figures/333plus/figures/333+-p36-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F083": {
+      "problem": "content/corpus/problems/333plus-F083.md",
+      "solution": "content/corpus/solutions/333plus-F083.md",
+      "figure_count": 0
+    },
+    "333plus-F084": {
+      "problem": "content/corpus/problems/333plus-F084.md",
+      "solution": "content/corpus/solutions/333plus-F084.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p36-f3.png",
+        "content/figures/333plus/figures/333+-p37-f1.png",
+        "content/figures/333plus/figures/333+-p123-f1.png",
+        "content/figures/333plus/figures/333+-p288-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F085": {
+      "problem": "content/corpus/problems/333plus-F085.md",
+      "solution": "content/corpus/solutions/333plus-F085.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p37-f2.png",
+        "content/figures/333plus/figures/333+-p37-f3.png",
+        "content/figures/333plus/figures/333+-p290-f1.png",
+        "content/figures/333plus/figures/333+-p290-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F086": {
+      "problem": "content/corpus/problems/333plus-F086.md",
+      "solution": "content/corpus/solutions/333plus-F086.md",
+      "figure_count": 0
+    },
+    "333plus-F087": {
+      "problem": "content/corpus/problems/333plus-F087.md",
+      "solution": "content/corpus/solutions/333plus-F087.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p291-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F088": {
+      "problem": "content/corpus/problems/333plus-F088.md",
+      "solution": "content/corpus/solutions/333plus-F088.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p293-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F089": {
+      "problem": "content/corpus/problems/333plus-F089.md",
+      "solution": "content/corpus/solutions/333plus-F089.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p37-f4.png",
+        "content/figures/333plus/figures/333+-p294-f1.png",
+        "content/figures/333plus/figures/333+-p295-f1.png",
+        "content/figures/333plus/figures/333+-p295-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F090": {
+      "problem": "content/corpus/problems/333plus-F090.md",
+      "solution": "content/corpus/solutions/333plus-F090.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p38-f1.png",
+        "content/figures/333plus/figures/333+-p38-f2.png",
+        "content/figures/333plus/figures/333+-p296-f1.png",
+        "content/figures/333plus/figures/333+-p297-f1.png",
+        "content/figures/333plus/figures/333+-p297-f2.png",
+        "content/figures/333plus/figures/333+-p297-f3.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F091": {
+      "problem": "content/corpus/problems/333plus-F091.md",
+      "solution": "content/corpus/solutions/333plus-F091.md",
+      "figure_count": 0
+    },
+    "333plus-F092": {
+      "problem": "content/corpus/problems/333plus-F092.md",
+      "solution": "content/corpus/solutions/333plus-F092.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p38-f3.png",
+        "content/figures/333plus/figures/333+-p299-f1.png",
+        "content/figures/333plus/figures/333+-p299-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F093": {
+      "problem": "content/corpus/problems/333plus-F093.md",
+      "solution": "content/corpus/solutions/333plus-F093.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p39-f1.png",
+        "content/figures/333plus/figures/333+-p300-f1.png",
+        "content/figures/333plus/figures/333+-p301-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F094": {
+      "problem": "content/corpus/problems/333plus-F094.md",
+      "solution": "content/corpus/solutions/333plus-F094.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p301-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F095": {
+      "problem": "content/corpus/problems/333plus-F095.md",
+      "solution": "content/corpus/solutions/333plus-F095.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p39-f2.png",
+        "content/figures/333plus/figures/333+-p303-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F096": {
+      "problem": "content/corpus/problems/333plus-F096.md",
+      "solution": "content/corpus/solutions/333plus-F096.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p39-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F097": {
+      "problem": "content/corpus/problems/333plus-F097.md",
+      "solution": "content/corpus/solutions/333plus-F097.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p305-f1.png",
+        "content/figures/333plus/figures/333+-p306-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F098": {
+      "problem": "content/corpus/problems/333plus-F098.md",
+      "solution": "content/corpus/solutions/333plus-F098.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p40-f1.png",
+        "content/figures/333plus/figures/333+-p307-f1.png",
+        "content/figures/333plus/figures/333+-p308-f1.png",
+        "content/figures/333plus/figures/333+-p309-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F099": {
+      "problem": "content/corpus/problems/333plus-F099.md",
+      "solution": "content/corpus/solutions/333plus-F099.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p40-f2.png",
+        "content/figures/333plus/figures/333+-p309-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F100": {
+      "problem": "content/corpus/problems/333plus-F100.md",
+      "solution": "content/corpus/solutions/333plus-F100.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p310-f1.png",
+        "content/figures/333plus/figures/333+-p311-f1.png",
+        "content/figures/333plus/figures/333+-p311-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F101": {
+      "problem": "content/corpus/problems/333plus-F101.md",
+      "solution": "content/corpus/solutions/333plus-F101.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p313-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F102": {
+      "problem": "content/corpus/problems/333plus-F102.md",
+      "solution": "content/corpus/solutions/333plus-F102.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p41-f1.png",
+        "content/figures/333plus/figures/333+-p315-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F103": {
+      "problem": "content/corpus/problems/333plus-F103.md",
+      "solution": "content/corpus/solutions/333plus-F103.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p42-f1.png",
+        "content/figures/333plus/figures/333+-p316-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F104": {
+      "problem": "content/corpus/problems/333plus-F104.md",
+      "solution": "content/corpus/solutions/333plus-F104.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p42-f2.png",
+        "content/figures/333plus/figures/333+-p316-f2.png",
+        "content/figures/333plus/figures/333+-p319-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F105": {
+      "problem": "content/corpus/problems/333plus-F105.md",
+      "solution": "content/corpus/solutions/333plus-F105.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p42-f3.png",
+        "content/figures/333plus/figures/333+-p319-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F106": {
+      "problem": "content/corpus/problems/333plus-F106.md",
+      "solution": "content/corpus/solutions/333plus-F106.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p321-f1.png",
+        "content/figures/333plus/figures/333+-p322-f1.png",
+        "content/figures/333plus/figures/333+-p323-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F107": {
+      "problem": "content/corpus/problems/333plus-F107.md",
+      "solution": "content/corpus/solutions/333plus-F107.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p44-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F108": {
+      "problem": "content/corpus/problems/333plus-F108.md",
+      "solution": "content/corpus/solutions/333plus-F108.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p326-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F109": {
+      "problem": "content/corpus/problems/333plus-F109.md",
+      "solution": "content/corpus/solutions/333plus-F109.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p44-f2.png",
+        "content/figures/333plus/figures/333+-p327-f1.png",
+        "content/figures/333plus/figures/333+-p328-f1.png",
+        "content/figures/333plus/figures/333+-p328-f2.png",
+        "content/figures/333plus/figures/333+-p328-f3.png",
+        "content/figures/333plus/figures/333+-p328-f4.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F110": {
+      "problem": "content/corpus/problems/333plus-F110.md",
+      "solution": "content/corpus/solutions/333plus-F110.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p45-f1.png",
+        "content/figures/333plus/figures/333+-p330-f1.png",
+        "content/figures/333plus/figures/333+-p331-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F111": {
+      "problem": "content/corpus/problems/333plus-F111.md",
+      "solution": "content/corpus/solutions/333plus-F111.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p333-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F112": {
+      "problem": "content/corpus/problems/333plus-F112.md",
+      "solution": "content/corpus/solutions/333plus-F112.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p335-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F113": {
+      "problem": "content/corpus/problems/333plus-F113.md",
+      "solution": "content/corpus/solutions/333plus-F113.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p45-f2.png",
+        "content/figures/333plus/figures/333+-p45-f3.png",
+        "content/figures/333plus/figures/333+-p336-f1.png",
+        "content/figures/333plus/figures/333+-p336-f2.png",
+        "content/figures/333plus/figures/333+-p337-f1.png",
+        "content/figures/333plus/figures/333+-p337-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F114": {
+      "problem": "content/corpus/problems/333plus-F114.md",
+      "solution": "content/corpus/solutions/333plus-F114.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p338-f1.png",
+        "content/figures/333plus/figures/333+-p339-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F115": {
+      "problem": "content/corpus/problems/333plus-F115.md",
+      "solution": "content/corpus/solutions/333plus-F115.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p46-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F116": {
+      "problem": "content/corpus/problems/333plus-F116.md",
+      "solution": "content/corpus/solutions/333plus-F116.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p341-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F117": {
+      "problem": "content/corpus/problems/333plus-F117.md",
+      "solution": "content/corpus/solutions/333plus-F117.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p46-f2.png",
+        "content/figures/333plus/figures/333+-p46-f3.png",
+        "content/figures/333plus/figures/333+-p47-f1.png",
+        "content/figures/333plus/figures/333+-p128-f1.png",
+        "content/figures/333plus/figures/333+-p341-f2.png",
+        "content/figures/333plus/figures/333+-p341-f3.png",
+        "content/figures/333plus/figures/333+-p342-f1.png",
+        "content/figures/333plus/figures/333+-p343-f1.png",
+        "content/figures/333plus/figures/333+-p344-f1.png",
+        "content/figures/333plus/figures/333+-p345-f1.png"
+      ],
+      "figure_count": 10
+    },
+    "333plus-F118": {
+      "problem": "content/corpus/problems/333plus-F118.md",
+      "solution": "content/corpus/solutions/333plus-F118.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p47-f2.png",
+        "content/figures/333plus/figures/333+-p345-f2.png",
+        "content/figures/333plus/figures/333+-p345-f3.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F119": {
+      "problem": "content/corpus/problems/333plus-F119.md",
+      "solution": "content/corpus/solutions/333plus-F119.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p346-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F120": {
+      "problem": "content/corpus/problems/333plus-F120.md",
+      "solution": "content/corpus/solutions/333plus-F120.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p47-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F121": {
+      "problem": "content/corpus/problems/333plus-F121.md",
+      "solution": "content/corpus/solutions/333plus-F121.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p348-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F122": {
+      "problem": "content/corpus/problems/333plus-F122.md",
+      "solution": "content/corpus/solutions/333plus-F122.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p349-f1.png",
+        "content/figures/333plus/figures/333+-p349-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F123": {
+      "problem": "content/corpus/problems/333plus-F123.md",
+      "solution": "content/corpus/solutions/333plus-F123.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p350-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F124": {
+      "problem": "content/corpus/problems/333plus-F124.md",
+      "solution": "content/corpus/solutions/333plus-F124.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p351-f1.png",
+        "content/figures/333plus/figures/333+-p351-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F125": {
+      "problem": "content/corpus/problems/333plus-F125.md",
+      "solution": "content/corpus/solutions/333plus-F125.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p48-f1.png",
+        "content/figures/333plus/figures/333+-p48-f2.png",
+        "content/figures/333plus/figures/333+-p351-f3.png",
+        "content/figures/333plus/figures/333+-p352-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F126": {
+      "problem": "content/corpus/problems/333plus-F126.md",
+      "solution": "content/corpus/solutions/333plus-F126.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p352-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F127": {
+      "problem": "content/corpus/problems/333plus-F127.md",
+      "solution": "content/corpus/solutions/333plus-F127.md",
+      "figure_count": 0
+    },
+    "333plus-F128": {
+      "problem": "content/corpus/problems/333plus-F128.md",
+      "solution": "content/corpus/solutions/333plus-F128.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p48-f3.png",
+        "content/figures/333plus/figures/333+-p354-f1.png",
+        "content/figures/333plus/figures/333+-p355-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F129": {
+      "problem": "content/corpus/problems/333plus-F129.md",
+      "solution": "content/corpus/solutions/333plus-F129.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p49-f1.png",
+        "content/figures/333plus/figures/333+-p356-f1.png",
+        "content/figures/333plus/figures/333+-p356-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F130": {
+      "problem": "content/corpus/problems/333plus-F130.md",
+      "solution": "content/corpus/solutions/333plus-F130.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p49-f2.png",
+        "content/figures/333plus/figures/333+-p357-f1.png",
+        "content/figures/333plus/figures/333+-p357-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F131": {
+      "problem": "content/corpus/problems/333plus-F131.md",
+      "solution": "content/corpus/solutions/333plus-F131.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p358-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F132": {
+      "problem": "content/corpus/problems/333plus-F132.md",
+      "solution": "content/corpus/solutions/333plus-F132.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p359-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F133": {
+      "problem": "content/corpus/problems/333plus-F133.md",
+      "solution": "content/corpus/solutions/333plus-F133.md",
+      "figure_count": 0
+    },
+    "333plus-F134": {
+      "problem": "content/corpus/problems/333plus-F134.md",
+      "solution": "content/corpus/solutions/333plus-F134.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p50-f1.png",
+        "content/figures/333plus/figures/333+-p130-f1.png",
+        "content/figures/333plus/figures/333+-p360-f1.png",
+        "content/figures/333plus/figures/333+-p362-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F135": {
+      "problem": "content/corpus/problems/333plus-F135.md",
+      "solution": "content/corpus/solutions/333plus-F135.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p362-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F136": {
+      "problem": "content/corpus/problems/333plus-F136.md",
+      "solution": "content/corpus/solutions/333plus-F136.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p50-f2.png",
+        "content/figures/333plus/figures/333+-p50-f3.png",
+        "content/figures/333plus/figures/333+-p50-f4.png",
+        "content/figures/333plus/figures/333+-p362-f3.png",
+        "content/figures/333plus/figures/333+-p362-f4.png",
+        "content/figures/333plus/figures/333+-p363-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F137": {
+      "problem": "content/corpus/problems/333plus-F137.md",
+      "solution": "content/corpus/solutions/333plus-F137.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p50-f5.png",
+        "content/figures/333plus/figures/333+-p364-f1.png",
+        "content/figures/333plus/figures/333+-p364-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F138": {
+      "problem": "content/corpus/problems/333plus-F138.md",
+      "solution": "content/corpus/solutions/333plus-F138.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p365-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F139": {
+      "problem": "content/corpus/problems/333plus-F139.md",
+      "solution": "content/corpus/solutions/333plus-F139.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p366-f1.png",
+        "content/figures/333plus/figures/333+-p366-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F140": {
+      "problem": "content/corpus/problems/333plus-F140.md",
+      "solution": "content/corpus/solutions/333plus-F140.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p51-f1.png",
+        "content/figures/333plus/figures/333+-p367-f1.png",
+        "content/figures/333plus/figures/333+-p368-f1.png",
+        "content/figures/333plus/figures/333+-p368-f2.png",
+        "content/figures/333plus/figures/333+-p369-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F141": {
+      "problem": "content/corpus/problems/333plus-F141.md",
+      "solution": "content/corpus/solutions/333plus-F141.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p51-f2.png",
+        "content/figures/333plus/figures/333+-p370-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F142": {
+      "problem": "content/corpus/problems/333plus-F142.md",
+      "solution": "content/corpus/solutions/333plus-F142.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p52-f1.png",
+        "content/figures/333plus/figures/333+-p371-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F143": {
+      "problem": "content/corpus/problems/333plus-F143.md",
+      "solution": "content/corpus/solutions/333plus-F143.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p52-f2.png",
+        "content/figures/333plus/figures/333+-p372-f1.png",
+        "content/figures/333plus/figures/333+-p372-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F144": {
+      "problem": "content/corpus/problems/333plus-F144.md",
+      "solution": "content/corpus/solutions/333plus-F144.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p52-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F145": {
+      "problem": "content/corpus/problems/333plus-F145.md",
+      "solution": "content/corpus/solutions/333plus-F145.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p53-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F146": {
+      "problem": "content/corpus/problems/333plus-F146.md",
+      "solution": "content/corpus/solutions/333plus-F146.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p53-f2.png",
+        "content/figures/333plus/figures/333+-p375-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F147": {
+      "problem": "content/corpus/problems/333plus-F147.md",
+      "solution": "content/corpus/solutions/333plus-F147.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p53-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F148": {
+      "problem": "content/corpus/problems/333plus-F148.md",
+      "solution": "content/corpus/solutions/333plus-F148.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p54-f1.png",
+        "content/figures/333plus/figures/333+-p379-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F149": {
+      "problem": "content/corpus/problems/333plus-F149.md",
+      "solution": "content/corpus/solutions/333plus-F149.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p54-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F150": {
+      "problem": "content/corpus/problems/333plus-F150.md",
+      "solution": "content/corpus/solutions/333plus-F150.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p55-f1.png",
+        "content/figures/333plus/figures/333+-p381-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F151": {
+      "problem": "content/corpus/problems/333plus-F151.md",
+      "solution": "content/corpus/solutions/333plus-F151.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p55-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F152": {
+      "problem": "content/corpus/problems/333plus-F152.md",
+      "solution": "content/corpus/solutions/333plus-F152.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p56-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F153": {
+      "problem": "content/corpus/problems/333plus-F153.md",
+      "solution": "content/corpus/solutions/333plus-F153.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p57-f1.png",
+        "content/figures/333plus/figures/333+-p384-f1.png",
+        "content/figures/333plus/figures/333+-p384-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F154": {
+      "problem": "content/corpus/problems/333plus-F154.md",
+      "solution": "content/corpus/solutions/333plus-F154.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p57-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F155": {
+      "problem": "content/corpus/problems/333plus-F155.md",
+      "solution": "content/corpus/solutions/333plus-F155.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p57-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F156": {
+      "problem": "content/corpus/problems/333plus-F156.md",
+      "solution": "content/corpus/solutions/333plus-F156.md",
+      "figure_count": 0
+    },
+    "333plus-F157": {
+      "problem": "content/corpus/problems/333plus-F157.md",
+      "solution": "content/corpus/solutions/333plus-F157.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p387-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F158": {
+      "problem": "content/corpus/problems/333plus-F158.md",
+      "solution": "content/corpus/solutions/333plus-F158.md",
+      "figure_count": 0
+    },
+    "333plus-F159": {
+      "problem": "content/corpus/problems/333plus-F159.md",
+      "solution": "content/corpus/solutions/333plus-F159.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p58-f1.png",
+        "content/figures/333plus/figures/333+-p388-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F160": {
+      "problem": "content/corpus/problems/333plus-F160.md",
+      "solution": "content/corpus/solutions/333plus-F160.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p58-f2.png",
+        "content/figures/333plus/figures/333+-p389-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F161": {
+      "problem": "content/corpus/problems/333plus-F161.md",
+      "solution": "content/corpus/solutions/333plus-F161.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p58-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F162": {
+      "problem": "content/corpus/problems/333plus-F162.md",
+      "solution": "content/corpus/solutions/333plus-F162.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p391-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F163": {
+      "problem": "content/corpus/problems/333plus-F163.md",
+      "solution": "content/corpus/solutions/333plus-F163.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p59-f1.png",
+        "content/figures/333plus/figures/333+-p392-f1.png",
+        "content/figures/333plus/figures/333+-p392-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F164": {
+      "problem": "content/corpus/problems/333plus-F164.md",
+      "solution": "content/corpus/solutions/333plus-F164.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p59-f2.png",
+        "content/figures/333plus/figures/333+-p393-f1.png",
+        "content/figures/333plus/figures/333+-p394-f1.png",
+        "content/figures/333plus/figures/333+-p394-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F165": {
+      "problem": "content/corpus/problems/333plus-F165.md",
+      "solution": "content/corpus/solutions/333plus-F165.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p60-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F166": {
+      "problem": "content/corpus/problems/333plus-F166.md",
+      "solution": "content/corpus/solutions/333plus-F166.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p60-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F167": {
+      "problem": "content/corpus/problems/333plus-F167.md",
+      "solution": "content/corpus/solutions/333plus-F167.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p396-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F168": {
+      "problem": "content/corpus/problems/333plus-F168.md",
+      "solution": "content/corpus/solutions/333plus-F168.md",
+      "figure_count": 0
+    },
+    "333plus-F169": {
+      "problem": "content/corpus/problems/333plus-F169.md",
+      "solution": "content/corpus/solutions/333plus-F169.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p60-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F170": {
+      "problem": "content/corpus/problems/333plus-F170.md",
+      "solution": "content/corpus/solutions/333plus-F170.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p61-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F171": {
+      "problem": "content/corpus/problems/333plus-F171.md",
+      "solution": "content/corpus/solutions/333plus-F171.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p61-f2.png",
+        "content/figures/333plus/figures/333+-p61-f3.png",
+        "content/figures/333plus/figures/333+-p62-f1.png",
+        "content/figures/333plus/figures/333+-p135-f1.png",
+        "content/figures/333plus/figures/333+-p400-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F172": {
+      "problem": "content/corpus/problems/333plus-F172.md",
+      "solution": "content/corpus/solutions/333plus-F172.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p62-f2.png",
+        "content/figures/333plus/figures/333+-p403-f1.png",
+        "content/figures/333plus/figures/333+-p403-f2.png",
+        "content/figures/333plus/figures/333+-p403-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F173": {
+      "problem": "content/corpus/problems/333plus-F173.md",
+      "solution": "content/corpus/solutions/333plus-F173.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p403-f4.png",
+        "content/figures/333plus/figures/333+-p404-f1.png",
+        "content/figures/333plus/figures/333+-p404-f2.png",
+        "content/figures/333plus/figures/333+-p404-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F174": {
+      "problem": "content/corpus/problems/333plus-F174.md",
+      "solution": "content/corpus/solutions/333plus-F174.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p405-f1.png",
+        "content/figures/333plus/figures/333+-p405-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F175": {
+      "problem": "content/corpus/problems/333plus-F175.md",
+      "solution": "content/corpus/solutions/333plus-F175.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p406-f1.png",
+        "content/figures/333plus/figures/333+-p406-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F176": {
+      "problem": "content/corpus/problems/333plus-F176.md",
+      "solution": "content/corpus/solutions/333plus-F176.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p62-f3.png",
+        "content/figures/333plus/figures/333+-p407-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F177": {
+      "problem": "content/corpus/problems/333plus-F177.md",
+      "solution": "content/corpus/solutions/333plus-F177.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p408-f1.png",
+        "content/figures/333plus/figures/333+-p409-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F178": {
+      "problem": "content/corpus/problems/333plus-F178.md",
+      "solution": "content/corpus/solutions/333plus-F178.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p63-f1.png",
+        "content/figures/333plus/figures/333+-p410-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F179": {
+      "problem": "content/corpus/problems/333plus-F179.md",
+      "solution": "content/corpus/solutions/333plus-F179.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p411-f1.png",
+        "content/figures/333plus/figures/333+-p411-f2.png",
+        "content/figures/333plus/figures/333+-p411-f3.png",
+        "content/figures/333plus/figures/333+-p411-f4.png",
+        "content/figures/333plus/figures/333+-p411-f5.png",
+        "content/figures/333plus/figures/333+-p411-f6.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F180": {
+      "problem": "content/corpus/problems/333plus-F180.md",
+      "solution": "content/corpus/solutions/333plus-F180.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p412-f1.png",
+        "content/figures/333plus/figures/333+-p413-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F181": {
+      "problem": "content/corpus/problems/333plus-F181.md",
+      "solution": "content/corpus/solutions/333plus-F181.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p414-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F182": {
+      "problem": "content/corpus/problems/333plus-F182.md",
+      "solution": "content/corpus/solutions/333plus-F182.md",
+      "figure_count": 0
+    },
+    "333plus-F183": {
+      "problem": "content/corpus/problems/333plus-F183.md",
+      "solution": "content/corpus/solutions/333plus-F183.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p64-f1.png",
+        "content/figures/333plus/figures/333+-p137-f1.png",
+        "content/figures/333plus/figures/333+-p417-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F184": {
+      "problem": "content/corpus/problems/333plus-F184.md",
+      "solution": "content/corpus/solutions/333plus-F184.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p64-f2.png",
+        "content/figures/333plus/figures/333+-p64-f3.png",
+        "content/figures/333plus/figures/333+-p417-f2.png",
+        "content/figures/333plus/figures/333+-p418-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F185": {
+      "problem": "content/corpus/problems/333plus-F185.md",
+      "solution": "content/corpus/solutions/333plus-F185.md",
+      "figure_count": 0
+    },
+    "333plus-F186": {
+      "problem": "content/corpus/problems/333plus-F186.md",
+      "solution": "content/corpus/solutions/333plus-F186.md",
+      "figure_count": 0
+    },
+    "333plus-F187": {
+      "problem": "content/corpus/problems/333plus-F187.md",
+      "solution": "content/corpus/solutions/333plus-F187.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p65-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F188": {
+      "problem": "content/corpus/problems/333plus-F188.md",
+      "solution": "content/corpus/solutions/333plus-F188.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p423-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F189": {
+      "problem": "content/corpus/problems/333plus-F189.md",
+      "solution": "content/corpus/solutions/333plus-F189.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p65-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F190": {
+      "problem": "content/corpus/problems/333plus-F190.md",
+      "solution": "content/corpus/solutions/333plus-F190.md",
+      "figure_count": 0
+    },
+    "333plus-F191": {
+      "problem": "content/corpus/problems/333plus-F191.md",
+      "solution": "content/corpus/solutions/333plus-F191.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p426-f1.png",
+        "content/figures/333plus/figures/333+-p427-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F192": {
+      "problem": "content/corpus/problems/333plus-F192.md",
+      "solution": "content/corpus/solutions/333plus-F192.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p66-f1.png",
+        "content/figures/333plus/figures/333+-p66-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F193": {
+      "problem": "content/corpus/problems/333plus-F193.md",
+      "solution": "content/corpus/solutions/333plus-F193.md",
+      "figure_count": 0
+    },
+    "333plus-F194": {
+      "problem": "content/corpus/problems/333plus-F194.md",
+      "solution": "content/corpus/solutions/333plus-F194.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p433-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F195": {
+      "problem": "content/corpus/problems/333plus-F195.md",
+      "solution": "content/corpus/solutions/333plus-F195.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p434-f1.png",
+        "content/figures/333plus/figures/333+-p434-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F196": {
+      "problem": "content/corpus/problems/333plus-F196.md",
+      "solution": "content/corpus/solutions/333plus-F196.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p435-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F197": {
+      "problem": "content/corpus/problems/333plus-F197.md",
+      "solution": "content/corpus/solutions/333plus-F197.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p67-f1.png",
+        "content/figures/333plus/figures/333+-p138-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F198": {
+      "problem": "content/corpus/problems/333plus-F198.md",
+      "solution": "content/corpus/solutions/333plus-F198.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p437-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F199": {
+      "problem": "content/corpus/problems/333plus-F199.md",
+      "solution": "content/corpus/solutions/333plus-F199.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p438-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F200": {
+      "problem": "content/corpus/problems/333plus-F200.md",
+      "solution": "content/corpus/solutions/333plus-F200.md",
+      "figure_count": 0
+    },
+    "333plus-F201": {
+      "problem": "content/corpus/problems/333plus-F201.md",
+      "solution": "content/corpus/solutions/333plus-F201.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p67-f2.png",
+        "content/figures/333plus/figures/333+-p441-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F202": {
+      "problem": "content/corpus/problems/333plus-F202.md",
+      "solution": "content/corpus/solutions/333plus-F202.md",
+      "figure_count": 0
+    },
+    "333plus-F203": {
+      "problem": "content/corpus/problems/333plus-F203.md",
+      "solution": "content/corpus/solutions/333plus-F203.md",
+      "figure_count": 0
+    },
+    "333plus-F204": {
+      "problem": "content/corpus/problems/333plus-F204.md",
+      "solution": "content/corpus/solutions/333plus-F204.md",
+      "figure_count": 0
+    },
+    "333plus-F205": {
+      "problem": "content/corpus/problems/333plus-F205.md",
+      "solution": "content/corpus/solutions/333plus-F205.md",
+      "figure_count": 0
+    },
+    "333plus-F206": {
+      "problem": "content/corpus/problems/333plus-F206.md",
+      "solution": "content/corpus/solutions/333plus-F206.md",
+      "figure_count": 0
+    },
+    "333plus-F207": {
+      "problem": "content/corpus/problems/333plus-F207.md",
+      "solution": "content/corpus/solutions/333plus-F207.md",
+      "figure_count": 0
+    },
+    "333plus-F208": {
+      "problem": "content/corpus/problems/333plus-F208.md",
+      "solution": "content/corpus/solutions/333plus-F208.md",
+      "figure_count": 0
+    },
+    "333plus-F209": {
+      "problem": "content/corpus/problems/333plus-F209.md",
+      "solution": "content/corpus/solutions/333plus-F209.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p446-f1.png",
+        "content/figures/333plus/figures/333+-p446-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F210": {
+      "problem": "content/corpus/problems/333plus-F210.md",
+      "solution": "content/corpus/solutions/333plus-F210.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p448-f1.png",
+        "content/figures/333plus/figures/333+-p448-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F211": {
+      "problem": "content/corpus/problems/333plus-F211.md",
+      "solution": "content/corpus/solutions/333plus-F211.md",
+      "figure_count": 0
+    },
+    "333plus-F212": {
+      "problem": "content/corpus/problems/333plus-F212.md",
+      "solution": "content/corpus/solutions/333plus-F212.md",
+      "figure_count": 0
+    },
+    "333plus-F213": {
+      "problem": "content/corpus/problems/333plus-F213.md",
+      "solution": "content/corpus/solutions/333plus-F213.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p69-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F214": {
+      "problem": "content/corpus/problems/333plus-F214.md",
+      "solution": "content/corpus/solutions/333plus-F214.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p70-f1.png",
+        "content/figures/333plus/figures/333+-p70-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F215": {
+      "problem": "content/corpus/problems/333plus-F215.md",
+      "solution": "content/corpus/solutions/333plus-F215.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p71-f1.png",
+        "content/figures/333plus/figures/333+-p142-f1.png",
+        "content/figures/333plus/figures/333+-p452-f1.png",
+        "content/figures/333plus/figures/333+-p452-f2.png",
+        "content/figures/333plus/figures/333+-p452-f3.png",
+        "content/figures/333plus/figures/333+-p452-f4.png",
+        "content/figures/333plus/figures/333+-p452-f5.png",
+        "content/figures/333plus/figures/333+-p452-f6.png",
+        "content/figures/333plus/figures/333+-p453-f1.png"
+      ],
+      "figure_count": 9
+    },
+    "333plus-F216": {
+      "problem": "content/corpus/problems/333plus-F216.md",
+      "solution": "content/corpus/solutions/333plus-F216.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p71-f2.png",
+        "content/figures/333plus/figures/333+-p453-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F217": {
+      "problem": "content/corpus/problems/333plus-F217.md",
+      "solution": "content/corpus/solutions/333plus-F217.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p71-f3.png",
+        "content/figures/333plus/figures/333+-p454-f1.png",
+        "content/figures/333plus/figures/333+-p455-f1.png",
+        "content/figures/333plus/figures/333+-p456-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F218": {
+      "problem": "content/corpus/problems/333plus-F218.md",
+      "solution": "content/corpus/solutions/333plus-F218.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p457-f1.png",
+        "content/figures/333plus/figures/333+-p458-f1.png",
+        "content/figures/333plus/figures/333+-p459-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F219": {
+      "problem": "content/corpus/problems/333plus-F219.md",
+      "solution": "content/corpus/solutions/333plus-F219.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p71-f4.png",
+        "content/figures/333plus/figures/333+-p460-f1.png",
+        "content/figures/333plus/figures/333+-p460-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F220": {
+      "problem": "content/corpus/problems/333plus-F220.md",
+      "solution": "content/corpus/solutions/333plus-F220.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p461-f1.png",
+        "content/figures/333plus/figures/333+-p462-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F221": {
+      "problem": "content/corpus/problems/333plus-F221.md",
+      "solution": "content/corpus/solutions/333plus-F221.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p463-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F222": {
+      "problem": "content/corpus/problems/333plus-F222.md",
+      "solution": "content/corpus/solutions/333plus-F222.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p464-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F223": {
+      "problem": "content/corpus/problems/333plus-F223.md",
+      "solution": "content/corpus/solutions/333plus-F223.md",
+      "figure_count": 0
+    },
+    "333plus-F224": {
+      "problem": "content/corpus/problems/333plus-F224.md",
+      "solution": "content/corpus/solutions/333plus-F224.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p465-f1.png",
+        "content/figures/333plus/figures/333+-p465-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F225": {
+      "problem": "content/corpus/problems/333plus-F225.md",
+      "solution": "content/corpus/solutions/333plus-F225.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p466-f1.png",
+        "content/figures/333plus/figures/333+-p466-f2.png",
+        "content/figures/333plus/figures/333+-p467-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F226": {
+      "problem": "content/corpus/problems/333plus-F226.md",
+      "solution": "content/corpus/solutions/333plus-F226.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p72-f1.png",
+        "content/figures/333plus/figures/333+-p468-f1.png",
+        "content/figures/333plus/figures/333+-p469-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F227": {
+      "problem": "content/corpus/problems/333plus-F227.md",
+      "solution": "content/corpus/solutions/333plus-F227.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p470-f1.png",
+        "content/figures/333plus/figures/333+-p471-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F228": {
+      "problem": "content/corpus/problems/333plus-F228.md",
+      "solution": "content/corpus/solutions/333plus-F228.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p472-f1.png",
+        "content/figures/333plus/figures/333+-p473-f1.png",
+        "content/figures/333plus/figures/333+-p473-f2.png",
+        "content/figures/333plus/figures/333+-p473-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F229": {
+      "problem": "content/corpus/problems/333plus-F229.md",
+      "solution": "content/corpus/solutions/333plus-F229.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p73-f1.png",
+        "content/figures/333plus/figures/333+-p474-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F230": {
+      "problem": "content/corpus/problems/333plus-F230.md",
+      "solution": "content/corpus/solutions/333plus-F230.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p475-f1.png",
+        "content/figures/333plus/figures/333+-p476-f1.png",
+        "content/figures/333plus/figures/333+-p476-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F231": {
+      "problem": "content/corpus/problems/333plus-F231.md",
+      "solution": "content/corpus/solutions/333plus-F231.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p73-f2.png",
+        "content/figures/333plus/figures/333+-p477-f1.png",
+        "content/figures/333plus/figures/333+-p478-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F232": {
+      "problem": "content/corpus/problems/333plus-F232.md",
+      "solution": "content/corpus/solutions/333plus-F232.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p74-f1.png",
+        "content/figures/333plus/figures/333+-p479-f1.png",
+        "content/figures/333plus/figures/333+-p479-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F233": {
+      "problem": "content/corpus/problems/333plus-F233.md",
+      "solution": "content/corpus/solutions/333plus-F233.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p74-f2.png",
+        "content/figures/333plus/figures/333+-p480-f1.png",
+        "content/figures/333plus/figures/333+-p481-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F234": {
+      "problem": "content/corpus/problems/333plus-F234.md",
+      "solution": "content/corpus/solutions/333plus-F234.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p75-f1.png",
+        "content/figures/333plus/figures/333+-p145-f1.png",
+        "content/figures/333plus/figures/333+-p482-f1.png",
+        "content/figures/333plus/figures/333+-p483-f1.png",
+        "content/figures/333plus/figures/333+-p483-f2.png",
+        "content/figures/333plus/figures/333+-p484-f1.png",
+        "content/figures/333plus/figures/333+-p484-f2.png"
+      ],
+      "figure_count": 7
+    },
+    "333plus-F235": {
+      "problem": "content/corpus/problems/333plus-F235.md",
+      "solution": "content/corpus/solutions/333plus-F235.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p75-f2.png",
+        "content/figures/333plus/figures/333+-p486-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F236": {
+      "problem": "content/corpus/problems/333plus-F236.md",
+      "solution": "content/corpus/solutions/333plus-F236.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p487-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F237": {
+      "problem": "content/corpus/problems/333plus-F237.md",
+      "solution": "content/corpus/solutions/333plus-F237.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p75-f3.png",
+        "content/figures/333plus/figures/333+-p488-f1.png",
+        "content/figures/333plus/figures/333+-p489-f1.png",
+        "content/figures/333plus/figures/333+-p489-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F238": {
+      "problem": "content/corpus/problems/333plus-F238.md",
+      "solution": "content/corpus/solutions/333plus-F238.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p490-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F239": {
+      "problem": "content/corpus/problems/333plus-F239.md",
+      "solution": "content/corpus/solutions/333plus-F239.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p76-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F240": {
+      "problem": "content/corpus/problems/333plus-F240.md",
+      "solution": "content/corpus/solutions/333plus-F240.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p76-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F241": {
+      "problem": "content/corpus/problems/333plus-F241.md",
+      "solution": "content/corpus/solutions/333plus-F241.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p76-f3.png",
+        "content/figures/333plus/figures/333+-p493-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F242": {
+      "problem": "content/corpus/problems/333plus-F242.md",
+      "solution": "content/corpus/solutions/333plus-F242.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p77-f1.png",
+        "content/figures/333plus/figures/333+-p494-f1.png",
+        "content/figures/333plus/figures/333+-p494-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F243": {
+      "problem": "content/corpus/problems/333plus-F243.md",
+      "solution": "content/corpus/solutions/333plus-F243.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p495-f1.png",
+        "content/figures/333plus/figures/333+-p495-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F244": {
+      "problem": "content/corpus/problems/333plus-F244.md",
+      "solution": "content/corpus/solutions/333plus-F244.md",
+      "figure_count": 0
+    },
+    "333plus-F245": {
+      "problem": "content/corpus/problems/333plus-F245.md",
+      "solution": "content/corpus/solutions/333plus-F245.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p496-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F246": {
+      "problem": "content/corpus/problems/333plus-F246.md",
+      "solution": "content/corpus/solutions/333plus-F246.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p77-f2.png",
+        "content/figures/333plus/figures/333+-p498-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F247": {
+      "problem": "content/corpus/problems/333plus-F247.md",
+      "solution": "content/corpus/solutions/333plus-F247.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p499-f1.png",
+        "content/figures/333plus/figures/333+-p500-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F248": {
+      "problem": "content/corpus/problems/333plus-F248.md",
+      "solution": "content/corpus/solutions/333plus-F248.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p78-f1.png",
+        "content/figures/333plus/figures/333+-p501-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F249": {
+      "problem": "content/corpus/problems/333plus-F249.md",
+      "solution": "content/corpus/solutions/333plus-F249.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p501-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F250": {
+      "problem": "content/corpus/problems/333plus-F250.md",
+      "solution": "content/corpus/solutions/333plus-F250.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p78-f2.png",
+        "content/figures/333plus/figures/333+-p146-f1.png",
+        "content/figures/333plus/figures/333+-p502-f1.png",
+        "content/figures/333plus/figures/333+-p503-f1.png",
+        "content/figures/333plus/figures/333+-p504-f1.png",
+        "content/figures/333plus/figures/333+-p504-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F251": {
+      "problem": "content/corpus/problems/333plus-F251.md",
+      "solution": "content/corpus/solutions/333plus-F251.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p505-f1.png",
+        "content/figures/333plus/figures/333+-p506-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F252": {
+      "problem": "content/corpus/problems/333plus-F252.md",
+      "solution": "content/corpus/solutions/333plus-F252.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p79-f1.png",
+        "content/figures/333plus/figures/333+-p79-f2.png",
+        "content/figures/333plus/figures/333+-p507-f1.png",
+        "content/figures/333plus/figures/333+-p509-f1.png",
+        "content/figures/333plus/figures/333+-p510-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F253": {
+      "problem": "content/corpus/problems/333plus-F253.md",
+      "solution": "content/corpus/solutions/333plus-F253.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p148-f1.png",
+        "content/figures/333plus/figures/333+-p510-f2.png",
+        "content/figures/333plus/figures/333+-p512-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F254": {
+      "problem": "content/corpus/problems/333plus-F254.md",
+      "solution": "content/corpus/solutions/333plus-F254.md",
+      "figure_count": 0
+    },
+    "333plus-F255": {
+      "problem": "content/corpus/problems/333plus-F255.md",
+      "solution": "content/corpus/solutions/333plus-F255.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p80-f1.png",
+        "content/figures/333plus/figures/333+-p80-f2.png",
+        "content/figures/333plus/figures/333+-p512-f2.png",
+        "content/figures/333plus/figures/333+-p512-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F256": {
+      "problem": "content/corpus/problems/333plus-F256.md",
+      "solution": "content/corpus/solutions/333plus-F256.md",
+      "figure_count": 0
+    },
+    "333plus-F257": {
+      "problem": "content/corpus/problems/333plus-F257.md",
+      "solution": "content/corpus/solutions/333plus-F257.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p80-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F258": {
+      "problem": "content/corpus/problems/333plus-F258.md",
+      "solution": "content/corpus/solutions/333plus-F258.md",
+      "figure_count": 0
+    },
+    "333plus-F259": {
+      "problem": "content/corpus/problems/333plus-F259.md",
+      "solution": "content/corpus/solutions/333plus-F259.md",
+      "figure_count": 0
+    },
+    "333plus-F260": {
+      "problem": "content/corpus/problems/333plus-F260.md",
+      "solution": "content/corpus/solutions/333plus-F260.md",
+      "figure_count": 0
+    },
+    "333plus-F261": {
+      "problem": "content/corpus/problems/333plus-F261.md",
+      "solution": "content/corpus/solutions/333plus-F261.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p516-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F262": {
+      "problem": "content/corpus/problems/333plus-F262.md",
+      "solution": "content/corpus/solutions/333plus-F262.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p81-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F263": {
+      "problem": "content/corpus/problems/333plus-F263.md",
+      "solution": "content/corpus/solutions/333plus-F263.md",
+      "figure_count": 0
+    },
+    "333plus-F264": {
+      "problem": "content/corpus/problems/333plus-F264.md",
+      "solution": "content/corpus/solutions/333plus-F264.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p519-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F265": {
+      "problem": "content/corpus/problems/333plus-F265.md",
+      "solution": "content/corpus/solutions/333plus-F265.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p520-f1.png",
+        "content/figures/333plus/figures/333+-p520-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F266": {
+      "problem": "content/corpus/problems/333plus-F266.md",
+      "solution": "content/corpus/solutions/333plus-F266.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p81-f2.png",
+        "content/figures/333plus/figures/333+-p521-f1.png",
+        "content/figures/333plus/figures/333+-p522-f1.png",
+        "content/figures/333plus/figures/333+-p522-f2.png",
+        "content/figures/333plus/figures/333+-p523-f1.png",
+        "content/figures/333plus/figures/333+-p523-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F267": {
+      "problem": "content/corpus/problems/333plus-F267.md",
+      "solution": "content/corpus/solutions/333plus-F267.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p82-f1.png",
+        "content/figures/333plus/figures/333+-p524-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F268": {
+      "problem": "content/corpus/problems/333plus-F268.md",
+      "solution": "content/corpus/solutions/333plus-F268.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p82-f2.png",
+        "content/figures/333plus/figures/333+-p525-f1.png",
+        "content/figures/333plus/figures/333+-p525-f2.png",
+        "content/figures/333plus/figures/333+-p526-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F269": {
+      "problem": "content/corpus/problems/333plus-F269.md",
+      "solution": "content/corpus/solutions/333plus-F269.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p82-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F270": {
+      "problem": "content/corpus/problems/333plus-F270.md",
+      "solution": "content/corpus/solutions/333plus-F270.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p529-f1.png",
+        "content/figures/333plus/figures/333+-p529-f2.png",
+        "content/figures/333plus/figures/333+-p530-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F271": {
+      "problem": "content/corpus/problems/333plus-F271.md",
+      "solution": "content/corpus/solutions/333plus-F271.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p83-f1.png",
+        "content/figures/333plus/figures/333+-p83-f2.png",
+        "content/figures/333plus/figures/333+-p532-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F272": {
+      "problem": "content/corpus/problems/333plus-F272.md",
+      "solution": "content/corpus/solutions/333plus-F272.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p83-f3.png",
+        "content/figures/333plus/figures/333+-p534-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F273": {
+      "problem": "content/corpus/problems/333plus-F273.md",
+      "solution": "content/corpus/solutions/333plus-F273.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p84-f1.png",
+        "content/figures/333plus/figures/333+-p536-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F274": {
+      "problem": "content/corpus/problems/333plus-F274.md",
+      "solution": "content/corpus/solutions/333plus-F274.md",
+      "figure_count": 0
+    },
+    "333plus-F275": {
+      "problem": "content/corpus/problems/333plus-F275.md",
+      "solution": "content/corpus/solutions/333plus-F275.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p84-f2.png",
+        "content/figures/333plus/figures/333+-p537-f1.png",
+        "content/figures/333plus/figures/333+-p537-f2.png",
+        "content/figures/333plus/figures/333+-p537-f3.png",
+        "content/figures/333plus/figures/333+-p537-f4.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F276": {
+      "problem": "content/corpus/problems/333plus-F276.md",
+      "solution": "content/corpus/solutions/333plus-F276.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p150-f1.png",
+        "content/figures/333plus/figures/333+-p538-f1.png",
+        "content/figures/333plus/figures/333+-p539-f1.png",
+        "content/figures/333plus/figures/333+-p540-f1.png",
+        "content/figures/333plus/figures/333+-p541-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F277": {
+      "problem": "content/corpus/problems/333plus-F277.md",
+      "solution": "content/corpus/solutions/333plus-F277.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p85-f1.png",
+        "content/figures/333plus/figures/333+-p152-f1.png",
+        "content/figures/333plus/figures/333+-p542-f1.png",
+        "content/figures/333plus/figures/333+-p543-f1.png",
+        "content/figures/333plus/figures/333+-p544-f1.png",
+        "content/figures/333plus/figures/333+-p544-f2.png",
+        "content/figures/333plus/figures/333+-p544-f3.png"
+      ],
+      "figure_count": 7
+    },
+    "333plus-F278": {
+      "problem": "content/corpus/problems/333plus-F278.md",
+      "solution": "content/corpus/solutions/333plus-F278.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p85-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F279": {
+      "problem": "content/corpus/problems/333plus-F279.md",
+      "solution": "content/corpus/solutions/333plus-F279.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p85-f3.png",
+        "content/figures/333plus/figures/333+-p546-f1.png",
+        "content/figures/333plus/figures/333+-p547-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F280": {
+      "problem": "content/corpus/problems/333plus-F280.md",
+      "solution": "content/corpus/solutions/333plus-F280.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p86-f1.png",
+        "content/figures/333plus/figures/333+-p548-f1.png",
+        "content/figures/333plus/figures/333+-p549-f1.png",
+        "content/figures/333plus/figures/333+-p549-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F281": {
+      "problem": "content/corpus/problems/333plus-F281.md",
+      "solution": "content/corpus/solutions/333plus-F281.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p86-f2.png",
+        "content/figures/333plus/figures/333+-p550-f1.png",
+        "content/figures/333plus/figures/333+-p551-f1.png",
+        "content/figures/333plus/figures/333+-p551-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F282": {
+      "problem": "content/corpus/problems/333plus-F282.md",
+      "solution": "content/corpus/solutions/333plus-F282.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p86-f3.png",
+        "content/figures/333plus/figures/333+-p553-f1.png",
+        "content/figures/333plus/figures/333+-p554-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F283": {
+      "problem": "content/corpus/problems/333plus-F283.md",
+      "solution": "content/corpus/solutions/333plus-F283.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p87-f1.png",
+        "content/figures/333plus/figures/333+-p555-f1.png",
+        "content/figures/333plus/figures/333+-p556-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F284": {
+      "problem": "content/corpus/problems/333plus-F284.md",
+      "solution": "content/corpus/solutions/333plus-F284.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p87-f2.png",
+        "content/figures/333plus/figures/333+-p153-f1.png",
+        "content/figures/333plus/figures/333+-p556-f2.png",
+        "content/figures/333plus/figures/333+-p557-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F285": {
+      "problem": "content/corpus/problems/333plus-F285.md",
+      "solution": "content/corpus/solutions/333plus-F285.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p558-f1.png",
+        "content/figures/333plus/figures/333+-p559-f1.png",
+        "content/figures/333plus/figures/333+-p560-f1.png",
+        "content/figures/333plus/figures/333+-p561-f1.png",
+        "content/figures/333plus/figures/333+-p562-f1.png",
+        "content/figures/333plus/figures/333+-p562-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F286": {
+      "problem": "content/corpus/problems/333plus-F286.md",
+      "solution": "content/corpus/solutions/333plus-F286.md",
+      "figure_count": 0
+    },
+    "333plus-F287": {
+      "problem": "content/corpus/problems/333plus-F287.md",
+      "solution": "content/corpus/solutions/333plus-F287.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p87-f3.png",
+        "content/figures/333plus/figures/333+-p563-f1.png",
+        "content/figures/333plus/figures/333+-p564-f1.png",
+        "content/figures/333plus/figures/333+-p564-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F288": {
+      "problem": "content/corpus/problems/333plus-F288.md",
+      "solution": "content/corpus/solutions/333plus-F288.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p88-f1.png",
+        "content/figures/333plus/figures/333+-p564-f3.png",
+        "content/figures/333plus/figures/333+-p565-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F289": {
+      "problem": "content/corpus/problems/333plus-F289.md",
+      "solution": "content/corpus/solutions/333plus-F289.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p567-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F290": {
+      "problem": "content/corpus/problems/333plus-F290.md",
+      "solution": "content/corpus/solutions/333plus-F290.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p88-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F291": {
+      "problem": "content/corpus/problems/333plus-F291.md",
+      "solution": "content/corpus/solutions/333plus-F291.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p570-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F292": {
+      "problem": "content/corpus/problems/333plus-F292.md",
+      "solution": "content/corpus/solutions/333plus-F292.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p572-f1.png",
+        "content/figures/333plus/figures/333+-p572-f2.png",
+        "content/figures/333plus/figures/333+-p573-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F293": {
+      "problem": "content/corpus/problems/333plus-F293.md",
+      "solution": "content/corpus/solutions/333plus-F293.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p89-f1.png",
+        "content/figures/333plus/figures/333+-p575-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F294": {
+      "problem": "content/corpus/problems/333plus-F294.md",
+      "solution": "content/corpus/solutions/333plus-F294.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p89-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F295": {
+      "problem": "content/corpus/problems/333plus-F295.md",
+      "solution": "content/corpus/solutions/333plus-F295.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p577-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F296": {
+      "problem": "content/corpus/problems/333plus-F296.md",
+      "solution": "content/corpus/solutions/333plus-F296.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p578-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F297": {
+      "problem": "content/corpus/problems/333plus-F297.md",
+      "solution": "content/corpus/solutions/333plus-F297.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p579-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F298": {
+      "problem": "content/corpus/problems/333plus-F298.md",
+      "solution": "content/corpus/solutions/333plus-F298.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p91-f1.png",
+        "content/figures/333plus/figures/333+-p155-f1.png",
+        "content/figures/333plus/figures/333+-p581-f1.png",
+        "content/figures/333plus/figures/333+-p584-f1.png",
+        "content/figures/333plus/figures/333+-p585-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F299": {
+      "problem": "content/corpus/problems/333plus-F299.md",
+      "solution": "content/corpus/solutions/333plus-F299.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p91-f2.png",
+        "content/figures/333plus/figures/333+-p585-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F300": {
+      "problem": "content/corpus/problems/333plus-F300.md",
+      "solution": "content/corpus/solutions/333plus-F300.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p91-f3.png",
+        "content/figures/333plus/figures/333+-p585-f3.png",
+        "content/figures/333plus/figures/333+-p585-f4.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F301": {
+      "problem": "content/corpus/problems/333plus-F301.md",
+      "solution": "content/corpus/solutions/333plus-F301.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p586-f1.png",
+        "content/figures/333plus/figures/333+-p586-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F302": {
+      "problem": "content/corpus/problems/333plus-F302.md",
+      "solution": "content/corpus/solutions/333plus-F302.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p92-f1.png",
+        "content/figures/333plus/figures/333+-p587-f1.png",
+        "content/figures/333plus/figures/333+-p587-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F303": {
+      "problem": "content/corpus/problems/333plus-F303.md",
+      "solution": "content/corpus/solutions/333plus-F303.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p92-f2.png",
+        "content/figures/333plus/figures/333+-p589-f1.png",
+        "content/figures/333plus/figures/333+-p589-f2.png",
+        "content/figures/333plus/figures/333+-p590-f1.png",
+        "content/figures/333plus/figures/333+-p590-f2.png",
+        "content/figures/333plus/figures/333+-p590-f3.png",
+        "content/figures/333plus/figures/333+-p590-f4.png",
+        "content/figures/333plus/figures/333+-p590-f5.png",
+        "content/figures/333plus/figures/333+-p590-f6.png"
+      ],
+      "figure_count": 9
+    },
+    "333plus-F304": {
+      "problem": "content/corpus/problems/333plus-F304.md",
+      "solution": "content/corpus/solutions/333plus-F304.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p92-f3.png",
+        "content/figures/333plus/figures/333+-p591-f1.png",
+        "content/figures/333plus/figures/333+-p592-f1.png",
+        "content/figures/333plus/figures/333+-p592-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F305": {
+      "problem": "content/corpus/problems/333plus-F305.md",
+      "solution": "content/corpus/solutions/333plus-F305.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p92-f4.png",
+        "content/figures/333plus/figures/333+-p596-f1.png",
+        "content/figures/333plus/figures/333+-p596-f2.png",
+        "content/figures/333plus/figures/333+-p596-f3.png",
+        "content/figures/333plus/figures/333+-p597-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F306": {
+      "problem": "content/corpus/problems/333plus-F306.md",
+      "solution": "content/corpus/solutions/333plus-F306.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p93-f1.png",
+        "content/figures/333plus/figures/333+-p598-f1.png",
+        "content/figures/333plus/figures/333+-p598-f2.png",
+        "content/figures/333plus/figures/333+-p598-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F307": {
+      "problem": "content/corpus/problems/333plus-F307.md",
+      "solution": "content/corpus/solutions/333plus-F307.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p598-f4.png",
+        "content/figures/333plus/figures/333+-p598-f5.png",
+        "content/figures/333plus/figures/333+-p599-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F308": {
+      "problem": "content/corpus/problems/333plus-F308.md",
+      "solution": "content/corpus/solutions/333plus-F308.md",
+      "figure_count": 0
+    },
+    "333plus-F309": {
+      "problem": "content/corpus/problems/333plus-F309.md",
+      "solution": "content/corpus/solutions/333plus-F309.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p600-f1.png",
+        "content/figures/333plus/figures/333+-p600-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F310": {
+      "problem": "content/corpus/problems/333plus-F310.md",
+      "solution": "content/corpus/solutions/333plus-F310.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p93-f2.png",
+        "content/figures/333plus/figures/333+-p602-f1.png",
+        "content/figures/333plus/figures/333+-p602-f2.png",
+        "content/figures/333plus/figures/333+-p603-f1.png",
+        "content/figures/333plus/figures/333+-p604-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F311": {
+      "problem": "content/corpus/problems/333plus-F311.md",
+      "solution": "content/corpus/solutions/333plus-F311.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p94-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F312": {
+      "problem": "content/corpus/problems/333plus-F312.md",
+      "solution": "content/corpus/solutions/333plus-F312.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p94-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F313": {
+      "problem": "content/corpus/problems/333plus-F313.md",
+      "solution": "content/corpus/solutions/333plus-F313.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p607-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F314": {
+      "problem": "content/corpus/problems/333plus-F314.md",
+      "solution": "content/corpus/solutions/333plus-F314.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p95-f1.png",
+        "content/figures/333plus/figures/333+-p608-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F315": {
+      "problem": "content/corpus/problems/333plus-F315.md",
+      "solution": "content/corpus/solutions/333plus-F315.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p95-f2.png",
+        "content/figures/333plus/figures/333+-p610-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F316": {
+      "problem": "content/corpus/problems/333plus-F316.md",
+      "solution": "content/corpus/solutions/333plus-F316.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p95-f3.png",
+        "content/figures/333plus/figures/333+-p611-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F317": {
+      "problem": "content/corpus/problems/333plus-F317.md",
+      "solution": "content/corpus/solutions/333plus-F317.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p96-f1.png",
+        "content/figures/333plus/figures/333+-p613-f1.png",
+        "content/figures/333plus/figures/333+-p614-f1.png",
+        "content/figures/333plus/figures/333+-p615-f1.png",
+        "content/figures/333plus/figures/333+-p616-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "333plus-F318": {
+      "problem": "content/corpus/problems/333plus-F318.md",
+      "solution": "content/corpus/solutions/333plus-F318.md",
+      "figure_count": 0
+    },
+    "333plus-F319": {
+      "problem": "content/corpus/problems/333plus-F319.md",
+      "solution": "content/corpus/solutions/333plus-F319.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p96-f2.png",
+        "content/figures/333plus/figures/333+-p97-f1.png",
+        "content/figures/333plus/figures/333+-p618-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F320": {
+      "problem": "content/corpus/problems/333plus-F320.md",
+      "solution": "content/corpus/solutions/333plus-F320.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p97-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F321": {
+      "problem": "content/corpus/problems/333plus-F321.md",
+      "solution": "content/corpus/solutions/333plus-F321.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p97-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F322": {
+      "problem": "content/corpus/problems/333plus-F322.md",
+      "solution": "content/corpus/solutions/333plus-F322.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p98-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F323": {
+      "problem": "content/corpus/problems/333plus-F323.md",
+      "solution": "content/corpus/solutions/333plus-F323.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p98-f2.png",
+        "content/figures/333plus/figures/333+-p624-f1.png",
+        "content/figures/333plus/figures/333+-p624-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F324": {
+      "problem": "content/corpus/problems/333plus-F324.md",
+      "solution": "content/corpus/solutions/333plus-F324.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p98-f3.png",
+        "content/figures/333plus/figures/333+-p625-f1.png",
+        "content/figures/333plus/figures/333+-p625-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F325": {
+      "problem": "content/corpus/problems/333plus-F325.md",
+      "solution": "content/corpus/solutions/333plus-F325.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p99-f1.png",
+        "content/figures/333plus/figures/333+-p99-f2.png",
+        "content/figures/333plus/figures/333+-p626-f1.png",
+        "content/figures/333plus/figures/333+-p626-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F326": {
+      "problem": "content/corpus/problems/333plus-F326.md",
+      "solution": "content/corpus/solutions/333plus-F326.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p627-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F327": {
+      "problem": "content/corpus/problems/333plus-F327.md",
+      "solution": "content/corpus/solutions/333plus-F327.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p99-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F328": {
+      "problem": "content/corpus/problems/333plus-F328.md",
+      "solution": "content/corpus/solutions/333plus-F328.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p100-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F329": {
+      "problem": "content/corpus/problems/333plus-F329.md",
+      "solution": "content/corpus/solutions/333plus-F329.md",
+      "figure_count": 0
+    },
+    "333plus-F330": {
+      "problem": "content/corpus/problems/333plus-F330.md",
+      "solution": "content/corpus/solutions/333plus-F330.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p100-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F331": {
+      "problem": "content/corpus/problems/333plus-F331.md",
+      "solution": "content/corpus/solutions/333plus-F331.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p101-f1.png",
+        "content/figures/333plus/figures/333+-p633-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F332": {
+      "problem": "content/corpus/problems/333plus-F332.md",
+      "solution": "content/corpus/solutions/333plus-F332.md",
+      "figure_count": 0
+    },
+    "333plus-F333": {
+      "problem": "content/corpus/problems/333plus-F333.md",
+      "solution": "content/corpus/solutions/333plus-F333.md",
+      "figure_count": 0
+    },
+    "333plus-F334": {
+      "problem": "content/corpus/problems/333plus-F334.md",
+      "solution": "content/corpus/solutions/333plus-F334.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p101-f2.png",
+        "content/figures/333plus/figures/333+-p101-f3.png",
+        "content/figures/333plus/figures/333+-p101-f4.png",
+        "content/figures/333plus/figures/333+-p636-f1.png",
+        "content/figures/333plus/figures/333+-p636-f2.png",
+        "content/figures/333plus/figures/333+-p636-f3.png"
+      ],
+      "figure_count": 6
+    },
+    "333plus-F335": {
+      "problem": "content/corpus/problems/333plus-F335.md",
+      "solution": "content/corpus/solutions/333plus-F335.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p637-f1.png",
+        "content/figures/333plus/figures/333+-p638-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F336": {
+      "problem": "content/corpus/problems/333plus-F336.md",
+      "solution": "content/corpus/solutions/333plus-F336.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p102-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F337": {
+      "problem": "content/corpus/problems/333plus-F337.md",
+      "solution": "content/corpus/solutions/333plus-F337.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p102-f2.png",
+        "content/figures/333plus/figures/333+-p641-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F338": {
+      "problem": "content/corpus/problems/333plus-F338.md",
+      "solution": "content/corpus/solutions/333plus-F338.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p103-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F339": {
+      "problem": "content/corpus/problems/333plus-F339.md",
+      "solution": "content/corpus/solutions/333plus-F339.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p103-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F340": {
+      "problem": "content/corpus/problems/333plus-F340.md",
+      "solution": "content/corpus/solutions/333plus-F340.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p646-f1.png",
+        "content/figures/333plus/figures/333+-p646-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F341": {
+      "problem": "content/corpus/problems/333plus-F341.md",
+      "solution": "content/corpus/solutions/333plus-F341.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p104-f1.png",
+        "content/figures/333plus/figures/333+-p647-f1.png",
+        "content/figures/333plus/figures/333+-p648-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F342": {
+      "problem": "content/corpus/problems/333plus-F342.md",
+      "solution": "content/corpus/solutions/333plus-F342.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p104-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F343": {
+      "problem": "content/corpus/problems/333plus-F343.md",
+      "solution": "content/corpus/solutions/333plus-F343.md",
+      "figure_count": 0
+    },
+    "333plus-F344": {
+      "problem": "content/corpus/problems/333plus-F344.md",
+      "solution": "content/corpus/solutions/333plus-F344.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p652-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F345": {
+      "problem": "content/corpus/problems/333plus-F345.md",
+      "solution": "content/corpus/solutions/333plus-F345.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p653-f1.png",
+        "content/figures/333plus/figures/333+-p653-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F346": {
+      "problem": "content/corpus/problems/333plus-F346.md",
+      "solution": "content/corpus/solutions/333plus-F346.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p654-f1.png",
+        "content/figures/333plus/figures/333+-p654-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F347": {
+      "problem": "content/corpus/problems/333plus-F347.md",
+      "solution": "content/corpus/solutions/333plus-F347.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p105-f1.png",
+        "content/figures/333plus/figures/333+-p656-f1.png",
+        "content/figures/333plus/figures/333+-p657-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "333plus-F348": {
+      "problem": "content/corpus/problems/333plus-F348.md",
+      "solution": "content/corpus/solutions/333plus-F348.md",
+      "figure_count": 0
+    },
+    "333plus-F349": {
+      "problem": "content/corpus/problems/333plus-F349.md",
+      "solution": "content/corpus/solutions/333plus-F349.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p106-f1.png",
+        "content/figures/333plus/figures/333+-p659-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F350": {
+      "problem": "content/corpus/problems/333plus-F350.md",
+      "solution": "content/corpus/solutions/333plus-F350.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p106-f2.png",
+        "content/figures/333plus/figures/333+-p107-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "333plus-F351": {
+      "problem": "content/corpus/problems/333plus-F351.md",
+      "solution": "content/corpus/solutions/333plus-F351.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p107-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F352": {
+      "problem": "content/corpus/problems/333plus-F352.md",
+      "solution": "content/corpus/solutions/333plus-F352.md",
+      "figure_count": 0
+    },
+    "333plus-F353": {
+      "problem": "content/corpus/problems/333plus-F353.md",
+      "solution": "content/corpus/solutions/333plus-F353.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p107-f3.png",
+        "content/figures/333plus/figures/333+-p663-f1.png",
+        "content/figures/333plus/figures/333+-p663-f2.png",
+        "content/figures/333plus/figures/333+-p663-f3.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F354": {
+      "problem": "content/corpus/problems/333plus-F354.md",
+      "solution": "content/corpus/solutions/333plus-F354.md",
+      "figure_count": 0
+    },
+    "333plus-F355": {
+      "problem": "content/corpus/problems/333plus-F355.md",
+      "solution": "content/corpus/solutions/333plus-F355.md",
+      "figure_count": 0
+    },
+    "333plus-F356": {
+      "problem": "content/corpus/problems/333plus-F356.md",
+      "solution": "content/corpus/solutions/333plus-F356.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p108-f1.png",
+        "content/figures/333plus/figures/333+-p667-f2.png",
+        "content/figures/333plus/figures/333+-p668-f1.png",
+        "content/figures/333plus/figures/333+-p668-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "333plus-F357": {
+      "problem": "content/corpus/problems/333plus-F357.md",
+      "solution": "content/corpus/solutions/333plus-F357.md",
+      "figure_count": 0
+    },
+    "333plus-F358": {
+      "problem": "content/corpus/problems/333plus-F358.md",
+      "solution": "content/corpus/solutions/333plus-F358.md",
+      "figure_count": 0
+    },
+    "333plus-F359": {
+      "problem": "content/corpus/problems/333plus-F359.md",
+      "solution": "content/corpus/solutions/333plus-F359.md",
+      "figure_count": 0
+    },
+    "333plus-F360": {
+      "problem": "content/corpus/problems/333plus-F360.md",
+      "solution": "content/corpus/solutions/333plus-F360.md",
+      "figure_count": 0
+    },
+    "333plus-F361": {
+      "problem": "content/corpus/problems/333plus-F361.md",
+      "solution": "content/corpus/solutions/333plus-F361.md",
+      "figure_count": 0
+    },
+    "333plus-F362": {
+      "problem": "content/corpus/problems/333plus-F362.md",
+      "solution": "content/corpus/solutions/333plus-F362.md",
+      "figure_count": 0
+    },
+    "333plus-F363": {
+      "problem": "content/corpus/problems/333plus-F363.md",
+      "solution": "content/corpus/solutions/333plus-F363.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p109-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "333plus-F364": {
+      "problem": "content/corpus/problems/333plus-F364.md",
+      "solution": "content/corpus/solutions/333plus-F364.md",
+      "figure_count": 0
+    },
+    "333plus-F365": {
+      "problem": "content/corpus/problems/333plus-F365.md",
+      "solution": "content/corpus/solutions/333plus-F365.md",
+      "figures": [
+        "content/figures/333plus/figures/333+-p109-f2.png",
+        "content/figures/333plus/figures/333+-p677-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1967-q1": {
+      "problem": "content/corpus/problems/ipho-book-1967-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1967-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p7-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1967-q2": {
+      "problem": "content/corpus/problems/ipho-book-1967-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1967-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p7-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p9-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1967-q3": {
+      "problem": "content/corpus/problems/ipho-book-1967-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1967-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p8-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p9-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1968-q1": {
+      "problem": "content/corpus/problems/ipho-book-1968-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1968-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p13-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p14-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p16-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1968-q2": {
+      "problem": "content/corpus/problems/ipho-book-1968-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1968-q2.md",
+      "figure_count": 0
+    },
+    "ipho-book-1968-q3": {
+      "problem": "content/corpus/problems/ipho-book-1968-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1968-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p13-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p17-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1969-q1": {
+      "problem": "content/corpus/problems/ipho-book-1969-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1969-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p19-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1969-q2": {
+      "problem": "content/corpus/problems/ipho-book-1969-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1969-q2.md",
+      "figure_count": 0
+    },
+    "ipho-book-1969-q3": {
+      "problem": "content/corpus/problems/ipho-book-1969-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1969-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p19-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p20-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p23-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1969-q4": {
+      "problem": "content/corpus/problems/ipho-book-1969-q4.md",
+      "solution": "content/corpus/solutions/ipho-book-1969-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p20-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1970-q1": {
+      "problem": "content/corpus/problems/ipho-book-1970-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1970-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p25-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1970-q2": {
+      "problem": "content/corpus/problems/ipho-book-1970-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1970-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p25-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1970-q3": {
+      "problem": "content/corpus/problems/ipho-book-1970-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1970-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p26-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1970-q4": {
+      "problem": "content/corpus/problems/ipho-book-1970-q4.md",
+      "solution": "content/corpus/solutions/ipho-book-1970-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p29-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1971-q1": {
+      "problem": "content/corpus/problems/ipho-book-1971-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1971-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p31-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p33-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1971-q2": {
+      "problem": "content/corpus/problems/ipho-book-1971-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1971-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p31-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1971-q3": {
+      "problem": "content/corpus/problems/ipho-book-1971-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1971-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p32-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p36-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p37-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1971-q4": {
+      "problem": "content/corpus/problems/ipho-book-1971-q4.md",
+      "solution": "content/corpus/solutions/ipho-book-1971-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p37-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p38-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1972-q1": {
+      "problem": "content/corpus/problems/ipho-book-1972-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1972-q1.md",
+      "figure_count": 0
+    },
+    "ipho-book-1972-q2": {
+      "problem": "content/corpus/problems/ipho-book-1972-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1972-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p41-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1972-q3": {
+      "problem": "content/corpus/problems/ipho-book-1972-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1972-q3.md",
+      "figure_count": 0
+    },
+    "ipho-book-1972-q4": {
+      "problem": "content/corpus/problems/ipho-book-1972-q4.md",
+      "solution": "content/corpus/solutions/ipho-book-1972-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p42-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p42-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p49-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p50-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p51-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1974-q1": {
+      "problem": "content/corpus/problems/ipho-book-1974-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1974-q1.md",
+      "figure_count": 0
+    },
+    "ipho-book-1974-q2": {
+      "problem": "content/corpus/problems/ipho-book-1974-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1974-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p53-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p55-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p56-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p57-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1974-q3": {
+      "problem": "content/corpus/problems/ipho-book-1974-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1974-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p58-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1975-q1": {
+      "problem": "content/corpus/problems/ipho-book-1975-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1975-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p59-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p60-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p61-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p61-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1975-q2": {
+      "problem": "content/corpus/problems/ipho-book-1975-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1975-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p62-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p63-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1975-q3": {
+      "problem": "content/corpus/problems/ipho-book-1975-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1975-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p59-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p65-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p66-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p66-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p66-f3.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1976-q1": {
+      "problem": "content/corpus/problems/ipho-book-1976-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1976-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p67-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p68-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p69-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1976-q2": {
+      "problem": "content/corpus/problems/ipho-book-1976-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1976-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p67-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1976-q3": {
+      "problem": "content/corpus/problems/ipho-book-1976-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1976-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p71-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p72-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p73-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1977-q1": {
+      "problem": "content/corpus/problems/ipho-book-1977-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1977-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p75-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1977-q2": {
+      "problem": "content/corpus/problems/ipho-book-1977-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1977-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p77-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1977-q3": {
+      "problem": "content/corpus/problems/ipho-book-1977-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1977-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p75-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p76-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p79-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p80-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1979-q1": {
+      "problem": "content/corpus/problems/ipho-book-1979-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1979-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p81-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p82-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p83-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1979-q2": {
+      "problem": "content/corpus/problems/ipho-book-1979-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1979-q2.md",
+      "figure_count": 0
+    },
+    "ipho-book-1979-q3": {
+      "problem": "content/corpus/problems/ipho-book-1979-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1979-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p85-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p86-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p88-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1981-q1": {
+      "problem": "content/corpus/problems/ipho-book-1981-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1981-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p89-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p90-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1981-q2": {
+      "problem": "content/corpus/problems/ipho-book-1981-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1981-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p92-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p92-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1981-q3": {
+      "problem": "content/corpus/problems/ipho-book-1981-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1981-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p93-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1982-q1": {
+      "problem": "content/corpus/problems/ipho-book-1982-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1982-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p97-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p97-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p99-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1982-q2": {
+      "problem": "content/corpus/problems/ipho-book-1982-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1982-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p98-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p98-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p98-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p100-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1982-q3": {
+      "problem": "content/corpus/problems/ipho-book-1982-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1982-q3.md",
+      "figure_count": 0
+    },
+    "ipho-book-1983-q1": {
+      "problem": "content/corpus/problems/ipho-book-1983-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1983-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p103-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p103-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p106-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p107-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1983-q2": {
+      "problem": "content/corpus/problems/ipho-book-1983-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1983-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p103-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p104-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p111-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1983-q3": {
+      "problem": "content/corpus/problems/ipho-book-1983-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1983-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p104-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p113-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p113-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1983-q4": {
+      "problem": "content/corpus/problems/ipho-book-1983-q4.md",
+      "solution": "content/corpus/solutions/ipho-book-1983-q4.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p114-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1983-q5": {
+      "problem": "content/corpus/problems/ipho-book-1983-q5.md",
+      "solution": "content/corpus/solutions/ipho-book-1983-q5.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p105-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1984-q1": {
+      "problem": "content/corpus/problems/ipho-book-1984-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1984-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p117-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p120-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p120-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1984-q2": {
+      "problem": "content/corpus/problems/ipho-book-1984-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1984-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p117-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p118-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p122-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1984-q3": {
+      "problem": "content/corpus/problems/ipho-book-1984-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1984-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p119-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p119-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p124-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1985-q1": {
+      "problem": "content/corpus/problems/ipho-book-1985-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1985-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p129-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p130-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1985-q2": {
+      "problem": "content/corpus/problems/ipho-book-1985-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1985-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p131-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p132-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p133-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1985-q3": {
+      "problem": "content/corpus/problems/ipho-book-1985-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1985-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p134-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1986-q1": {
+      "problem": "content/corpus/problems/ipho-book-1986-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1986-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p137-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p142-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p142-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p143-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1986-q2": {
+      "problem": "content/corpus/problems/ipho-book-1986-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1986-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p138-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p139-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p144-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p145-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p146-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p147-f2.png"
+      ],
+      "figure_count": 7
+    },
+    "ipho-book-1986-q3": {
+      "problem": "content/corpus/problems/ipho-book-1986-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1986-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p140-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p149-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p150-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-1987-q1": {
+      "problem": "content/corpus/problems/ipho-book-1987-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1987-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p151-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p151-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1987-q2": {
+      "problem": "content/corpus/problems/ipho-book-1987-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1987-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p152-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p156-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p157-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1987-q3": {
+      "problem": "content/corpus/problems/ipho-book-1987-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1987-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p153-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p158-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p159-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1988-q1": {
+      "problem": "content/corpus/problems/ipho-book-1988-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1988-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p163-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p164-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p168-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p169-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1988-q2": {
+      "problem": "content/corpus/problems/ipho-book-1988-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1988-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p164-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p165-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1988-q3": {
+      "problem": "content/corpus/problems/ipho-book-1988-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1988-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p165-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p166-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1989-q1": {
+      "problem": "content/corpus/problems/ipho-book-1989-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1989-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p176-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1989-q2": {
+      "problem": "content/corpus/problems/ipho-book-1989-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1989-q2.md",
+      "figure_count": 0
+    },
+    "ipho-book-1989-q3": {
+      "problem": "content/corpus/problems/ipho-book-1989-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1989-q3.md",
+      "figure_count": 0
+    },
+    "ipho-book-1990-q1": {
+      "problem": "content/corpus/problems/ipho-book-1990-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1990-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p181-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p181-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p182-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p186-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p187-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-1990-q2": {
+      "problem": "content/corpus/problems/ipho-book-1990-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1990-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p183-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p189-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1990-q3": {
+      "problem": "content/corpus/problems/ipho-book-1990-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1990-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p184-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p191-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1991-q1": {
+      "problem": "content/corpus/problems/ipho-book-1991-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1991-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p195-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p199-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p201-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1991-q2": {
+      "problem": "content/corpus/problems/ipho-book-1991-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1991-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p195-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p196-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p203-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p203-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1991-q3": {
+      "problem": "content/corpus/problems/ipho-book-1991-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1991-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p197-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p197-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p198-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p205-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1992-q1": {
+      "problem": "content/corpus/problems/ipho-book-1992-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1992-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p209-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p209-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p215-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p216-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-1992-q2": {
+      "problem": "content/corpus/problems/ipho-book-1992-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1992-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p211-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p212-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p222-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p222-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1992-q3": {
+      "problem": "content/corpus/problems/ipho-book-1992-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1992-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p212-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p213-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1993-q1": {
+      "problem": "content/corpus/problems/ipho-book-1993-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1993-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p227-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p227-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p228-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p232-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p233-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p234-f2.png"
+      ],
+      "figure_count": 7
+    },
+    "ipho-book-1993-q2": {
+      "problem": "content/corpus/problems/ipho-book-1993-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1993-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p229-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p229-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p230-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p235-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p236-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1993-q3": {
+      "problem": "content/corpus/problems/ipho-book-1993-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1993-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p230-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p237-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p238-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p239-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p240-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p240-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-1994-q1": {
+      "problem": "content/corpus/problems/ipho-book-1994-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1994-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p247-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p247-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p248-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p248-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p249-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1994-q2": {
+      "problem": "content/corpus/problems/ipho-book-1994-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1994-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p244-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p245-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p245-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p250-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p250-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p251-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p252-f1.png"
+      ],
+      "figure_count": 7
+    },
+    "ipho-book-1994-q3": {
+      "problem": "content/corpus/problems/ipho-book-1994-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1994-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p246-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p253-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1995-q1": {
+      "problem": "content/corpus/problems/ipho-book-1995-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1995-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p255-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p260-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1995-q2": {
+      "problem": "content/corpus/problems/ipho-book-1995-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1995-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p256-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p257-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p262-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p262-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p263-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p264-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-1995-q3": {
+      "problem": "content/corpus/problems/ipho-book-1995-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1995-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p258-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p258-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p259-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1996-q1": {
+      "problem": "content/corpus/problems/ipho-book-1996-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1996-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p267-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p267-f3.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p268-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p271-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p272-f2.png"
+      ],
+      "figure_count": 8
+    },
+    "ipho-book-1996-q2": {
+      "problem": "content/corpus/problems/ipho-book-1996-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1996-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p269-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p269-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p274-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1996-q3": {
+      "problem": "content/corpus/problems/ipho-book-1996-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1996-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p270-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p276-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-1997-q1": {
+      "problem": "content/corpus/problems/ipho-book-1997-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1997-q1.md",
+      "figure_count": 0
+    },
+    "ipho-book-1997-q2": {
+      "problem": "content/corpus/problems/ipho-book-1997-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1997-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p280-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1997-q3": {
+      "problem": "content/corpus/problems/ipho-book-1997-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1997-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p281-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p282-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p289-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-1998-q1": {
+      "problem": "content/corpus/problems/ipho-book-1998-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1998-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p291-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p291-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p298-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p298-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p299-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1998-q2": {
+      "problem": "content/corpus/problems/ipho-book-1998-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1998-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p292-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p293-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p294-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p294-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p301-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p301-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-1998-q3": {
+      "problem": "content/corpus/problems/ipho-book-1998-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1998-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p296-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p303-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p304-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p305-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p305-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-1999-q1": {
+      "problem": "content/corpus/problems/ipho-book-1999-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-1999-q1.md",
+      "figure_count": 0
+    },
+    "ipho-book-1999-q2": {
+      "problem": "content/corpus/problems/ipho-book-1999-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-1999-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p308-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-1999-q3": {
+      "problem": "content/corpus/problems/ipho-book-1999-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-1999-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p310-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p311-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p315-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2000-q1": {
+      "problem": "content/corpus/problems/ipho-book-2000-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2000-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p324-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p325-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2000-q2": {
+      "problem": "content/corpus/problems/ipho-book-2000-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2000-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p318-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p319-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p320-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2000-q3": {
+      "problem": "content/corpus/problems/ipho-book-2000-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2000-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p322-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p334-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2001-q1": {
+      "problem": "content/corpus/problems/ipho-book-2001-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2001-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p337-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p338-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p339-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p343-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p344-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p345-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p346-f1.png"
+      ],
+      "figure_count": 9
+    },
+    "ipho-book-2001-q2": {
+      "problem": "content/corpus/problems/ipho-book-2001-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2001-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p340-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p340-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2001-q3": {
+      "problem": "content/corpus/problems/ipho-book-2001-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2001-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p341-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-2002-q1": {
+      "problem": "content/corpus/problems/ipho-book-2002-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2002-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p351-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p352-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p356-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2002-q2": {
+      "problem": "content/corpus/problems/ipho-book-2002-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2002-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p352-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p353-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p357-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2002-q3": {
+      "problem": "content/corpus/problems/ipho-book-2002-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2002-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p354-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p354-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p361-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p361-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2003-q1": {
+      "problem": "content/corpus/problems/ipho-book-2003-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2003-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p365-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p366-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p374-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2003-q2": {
+      "problem": "content/corpus/problems/ipho-book-2003-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2003-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p367-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p368-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p369-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p377-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2003-q3": {
+      "problem": "content/corpus/problems/ipho-book-2003-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2003-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p371-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p381-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2004-q1": {
+      "problem": "content/corpus/problems/ipho-book-2004-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2004-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p383-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p383-f2.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2004-q2": {
+      "problem": "content/corpus/problems/ipho-book-2004-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2004-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p393-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p394-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2004-q3": {
+      "problem": "content/corpus/problems/ipho-book-2004-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2004-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p385-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p386-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p397-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2005-q1": {
+      "problem": "content/corpus/problems/ipho-book-2005-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2005-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p401-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p402-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p403-f2.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2005-q2": {
+      "problem": "content/corpus/problems/ipho-book-2005-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2005-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p404-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p405-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p406-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p414-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2005-q3": {
+      "problem": "content/corpus/problems/ipho-book-2005-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2005-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p407-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p408-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p415-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2006-q1": {
+      "problem": "content/corpus/problems/ipho-book-2006-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2006-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p417-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p417-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p418-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p423-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2006-q2": {
+      "problem": "content/corpus/problems/ipho-book-2006-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2006-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p419-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p426-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2006-q3": {
+      "problem": "content/corpus/problems/ipho-book-2006-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2006-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p420-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p422-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2007-q1": {
+      "problem": "content/corpus/problems/ipho-book-2007-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2007-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p433-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p435-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p443-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2007-q2": {
+      "problem": "content/corpus/problems/ipho-book-2007-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2007-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p436-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p437-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p445-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2007-q3": {
+      "problem": "content/corpus/problems/ipho-book-2007-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2007-q3.md",
+      "figure_count": 0
+    },
+    "ipho-book-2008-q1": {
+      "problem": "content/corpus/problems/ipho-book-2008-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2008-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p451-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p452-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p453-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p463-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p465-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p466-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-2008-q2": {
+      "problem": "content/corpus/problems/ipho-book-2008-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2008-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p455-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p456-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p467-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p468-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2008-q3": {
+      "problem": "content/corpus/problems/ipho-book-2008-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2008-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p462-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p474-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p476-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2009-q1": {
+      "problem": "content/corpus/problems/ipho-book-2009-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2009-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p477-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p478-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p479-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p480-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p491-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-2009-q2": {
+      "problem": "content/corpus/problems/ipho-book-2009-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2009-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p482-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p482-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p485-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2009-q3": {
+      "problem": "content/corpus/problems/ipho-book-2009-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2009-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p485-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p486-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p487-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2010-q1": {
+      "problem": "content/corpus/problems/ipho-book-2010-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2010-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p499-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p499-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p500-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p508-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p509-f2.png"
+      ],
+      "figure_count": 7
+    },
+    "ipho-book-2010-q2": {
+      "problem": "content/corpus/problems/ipho-book-2010-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2010-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p502-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p502-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p503-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2010-q3": {
+      "problem": "content/corpus/problems/ipho-book-2010-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2010-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p504-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p505-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p506-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p507-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2011-q1": {
+      "problem": "content/corpus/problems/ipho-book-2011-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2011-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p521-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p522-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p526-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p527-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2011-q2": {
+      "problem": "content/corpus/problems/ipho-book-2011-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2011-q2.md",
+      "figure_count": 0
+    },
+    "ipho-book-2011-q3": {
+      "problem": "content/corpus/problems/ipho-book-2011-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2011-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p524-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p525-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p532-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2012-q1": {
+      "problem": "content/corpus/problems/ipho-book-2012-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2012-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p535-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p536-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p537-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p542-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p543-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p545-f1.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-2012-q2": {
+      "problem": "content/corpus/problems/ipho-book-2012-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2012-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p538-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p538-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p539-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2012-q3": {
+      "problem": "content/corpus/problems/ipho-book-2012-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2012-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p550-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-2013-q1": {
+      "problem": "content/corpus/problems/ipho-book-2013-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2013-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p553-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p556-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p566-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p566-f2.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2013-q2": {
+      "problem": "content/corpus/problems/ipho-book-2013-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2013-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p558-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-2013-q3": {
+      "problem": "content/corpus/problems/ipho-book-2013-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2013-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p562-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p565-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p578-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p579-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2014-q1": {
+      "problem": "content/corpus/problems/ipho-book-2014-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2014-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p581-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p581-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p582-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p589-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p593-f1.png"
+      ],
+      "figure_count": 5
+    },
+    "ipho-book-2014-q2": {
+      "problem": "content/corpus/problems/ipho-book-2014-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2014-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p583-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p583-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p585-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2014-q3": {
+      "problem": "content/corpus/problems/ipho-book-2014-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2014-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p588-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-2015-q1": {
+      "problem": "content/corpus/problems/ipho-book-2015-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2015-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p603-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p614-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2015-q2": {
+      "problem": "content/corpus/problems/ipho-book-2015-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2015-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p606-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p607-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p608-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p609-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p619-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p619-f2.png"
+      ],
+      "figure_count": 7
+    },
+    "ipho-book-2015-q3": {
+      "problem": "content/corpus/problems/ipho-book-2015-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2015-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p610-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p612-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p621-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2016-q1": {
+      "problem": "content/corpus/problems/ipho-book-2016-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2016-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p625-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p625-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p626-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p627-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p629-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p637-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p640-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p641-f1.png"
+      ],
+      "figure_count": 9
+    },
+    "ipho-book-2016-q2": {
+      "problem": "content/corpus/problems/ipho-book-2016-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2016-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p629-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p630-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p631-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p632-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p643-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p644-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p647-f2.png"
+      ],
+      "figure_count": 9
+    },
+    "ipho-book-2016-q3": {
+      "problem": "content/corpus/problems/ipho-book-2016-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2016-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p634-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p635-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p636-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p650-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2017-q1": {
+      "problem": "content/corpus/problems/ipho-book-2017-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2017-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p653-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p664-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p665-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p667-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "ipho-book-2017-q2": {
+      "problem": "content/corpus/problems/ipho-book-2017-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2017-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p654-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p655-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p656-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p657-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p658-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p669-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p670-f2.png"
+      ],
+      "figure_count": 9
+    },
+    "ipho-book-2017-q3": {
+      "problem": "content/corpus/problems/ipho-book-2017-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2017-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p659-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "ipho-book-2018-q1": {
+      "problem": "content/corpus/problems/ipho-book-2018-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2018-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p679-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p682-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2018-q2": {
+      "problem": "content/corpus/problems/ipho-book-2018-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2018-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p684-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p685-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2018-q3": {
+      "problem": "content/corpus/problems/ipho-book-2018-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2018-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p687-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p688-f2.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2019-q1": {
+      "problem": "content/corpus/problems/ipho-book-2019-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2019-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p703-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p704-f1.png"
+      ],
+      "figure_count": 2
+    },
+    "ipho-book-2019-q2": {
+      "problem": "content/corpus/problems/ipho-book-2019-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2019-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p706-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p707-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p708-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p709-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p711-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p721-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p722-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p723-f1.png"
+      ],
+      "figure_count": 9
+    },
+    "ipho-book-2019-q3": {
+      "problem": "content/corpus/problems/ipho-book-2019-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2019-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p712-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p713-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p714-f1.png"
+      ],
+      "figure_count": 3
+    },
+    "ipho-book-2021-q1": {
+      "problem": "content/corpus/problems/ipho-book-2021-q1.md",
+      "solution": "content/corpus/solutions/ipho-book-2021-q1.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p731-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p732-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p733-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p745-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p747-f2.png"
+      ],
+      "figure_count": 6
+    },
+    "ipho-book-2021-q2": {
+      "problem": "content/corpus/problems/ipho-book-2021-q2.md",
+      "solution": "content/corpus/solutions/ipho-book-2021-q2.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p735-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p736-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p737-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p749-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p750-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p752-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p753-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p754-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p755-f1.png"
+      ],
+      "figure_count": 10
+    },
+    "ipho-book-2021-q3": {
+      "problem": "content/corpus/problems/ipho-book-2021-q3.md",
+      "solution": "content/corpus/solutions/ipho-book-2021-q3.md",
+      "figures": [
+        "content/figures/ipho/figures/IPhO_konyv-p738-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f1.png",
+        "content/figures/ipho/figures/IPhO_konyv-p739-f2.png",
+        "content/figures/ipho/figures/IPhO_konyv-p741-f1.png"
+      ],
+      "figure_count": 4
+    },
+    "kunfalvi-2022-official-1-f1": {
+      "problem": "content/corpus/problems/kunfalvi-2022-official-1-f1.md",
+      "figures": [
+        "content/figures/kunfalvi/figures/Kunfalvi_2022-p1-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "kunfalvi-2022-official-1-f2": {
+      "problem": "content/corpus/problems/kunfalvi-2022-official-1-f2.md",
+      "figures": [
+        "content/figures/kunfalvi/figures/Kunfalvi_2022-p1-f2.png"
+      ],
+      "figure_count": 1
+    },
+    "kunfalvi-2022-official-1-f3": {
+      "problem": "content/corpus/problems/kunfalvi-2022-official-1-f3.md",
+      "figures": [
+        "content/figures/kunfalvi/figures/Kunfalvi_2022-p1-f3.png"
+      ],
+      "figure_count": 1
+    },
+    "kunfalvi-2022-official-1-f4": {
+      "problem": "content/corpus/problems/kunfalvi-2022-official-1-f4.md",
+      "figure_count": 0
+    },
+    "kunfalvi-2022-villam-2-v3": {
+      "problem": "content/corpus/problems/kunfalvi-2022-villam-2-v3.md",
+      "figures": [
+        "content/figures/kunfalvi/figures/villamverseny_2-p1-f1.png"
+      ],
+      "figure_count": 1
+    },
+    "kunfalvi-2022-villam-2-v4": {
+      "problem": "content/corpus/problems/kunfalvi-2022-villam-2-v4.md",
+      "figure_count": 0
     }
   },
   "documents": {
@@ -71894,12 +76678,12 @@
       ]
     }
   },
-  "markdown_file_count": 15004,
-  "markdown_bytes": 69464190,
+  "markdown_file_count": 16058,
+  "markdown_bytes": 72937711,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 22296,
-    "referenced_bytes": 1027158709,
+    "referenced_file_count": 23192,
+    "referenced_bytes": 1108434686,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }

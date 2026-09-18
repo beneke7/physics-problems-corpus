@@ -1,0 +1,106 @@
+---
+id: ipho-book-2010-q2
+problem: ipho-book-2010-q2
+source: ipho
+language: hu
+solution_language: hu
+solution_type: official
+source_pdf: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf"
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+---
+
+## Megoldás 2
+
+2.1.1. Jelölje $p(z)$ a külső légnyomást $z$ magasságban. Jó közelítéssel:
+\[
+p(z)=p(0)-\varrho_{\text {levegög }} g z,
+\]
+ahol $p(0)$ a talajszinti légnyomás. A kéményben áramló füstre alkalmazhatjuk a Bernoulli-törvényt:
+\[
+\frac{1}{2} \varrho_{\text {füst }} v(z)^{2}+\varrho_{\text {füst }} g z+p_{\text {füst }}(z)=\text { állandó }
+\]
+ahol $p_{\text {füst }}(z)$ a füst nyomása $z$ magasságban, $\varrho_{\text {füst }}$ a füst súrúsége, és $v(z)$ jelöli a füst sebességét. (Felhasználtuk azt a közelítést, hogy a füst súrúsége nem változik a kéményben.)
+
+A Bernoulli-törvény segítségével két pontot hasonlítunk össze; a talajszinten lévő kazánt (ahol a füst jó közelítéssel még nem mozog) és a kémény tetőpontját. A kémény akkor múködik, ha a felső nyílásában a nyomás nagyobb (vagy egyenlő), mint a (10-3) külső légnyomás. Minimális kéménymagasságnál az egyenlőség teljesül:
+\[
+\frac{1}{2} \varrho_{\text {füst }} v(h)^{2}+\varrho_{\text {füst }} g h+p(0)-\varrho_{\text {levegög }} g h=p(0),
+\]
+amiből kiszámíthatjuk a füst sebességét:
+\[
+v(h)=\sqrt{2 g h\left(\frac{\varrho_{\text {levegö }}}{\varrho_{\text {füst }}}-1\right)} .
+\]
+
+A kémény akkor múködik hatékonyan, ha a kazánból származó összes égéstermék kijut a légkörbe a kémény tetején, vagyis
+\[
+A v(h) \geq B
+\]
+A (10-4) és (10-5) kifejezések összevetésével a kémény magasságára a következő feltételt kapjuk:
+\[
+h \geq \frac{B^{2}}{A^{2}} \frac{1}{2 g} \frac{1}{\frac{\varrho_{\text {levegö }}}{\varrho_{\text {füst }}}-1} .
+\]
+A kazánban a füstöt ideális gázként kezeljük, melynek nyomása a talajszinti $p(0)$ légnyomás. Így a levegő és a füst súrúsége között a következő összefüggés írható fel:
+\[
+\frac{\varrho_{\text {levegő }}}{\varrho_{\text {füst }}}=\frac{T_{\text {füst }}}{T_{\text {levegö }}},
+\]
+melynek segítségével megkaphatjuk a kémény minimális magasságát:
+\[
+h \geq \frac{B^{2}}{A^{2}} \frac{1}{2 g} \frac{T_{\text {levegö }}}{T_{\text {füst }}-T_{\text {levegö }}}=\frac{B^{2}}{A^{2}} \frac{1}{2 g} \frac{T_{\text {levegö }}}{\Delta T}=h_{\min } .
+\]
+2.1.2. A (10-7) összefüggés alapján:
+\[
+\frac{h_{\text {meleg }}}{h_{\text {hideg }}}=\frac{\frac{T_{\text {meleg }}}{T_{\text {füst }}-T_{\text {meleg }}}}{\frac{T_{\text {hideg }}}{T_{\text {füst }}-T_{\text {hideg }}}} \Longrightarrow h_{\text {meleg }} \approx 145 \mathrm{~m} .
+\]
+2.1.3. A (10-4) és a (10-6) összefüggések alapján láthatjuk, hogy a kéményben a füst sebessége ( $h$ a kémény magassága):
+\[
+v(h)=\sqrt{2 g h\left(\frac{\varrho_{\text {levegö }}}{\varrho_{\text {füst }}}-1\right)}=\sqrt{2 g h\left(\frac{T_{\text {füst }}}{T_{\text {levegö }}}-1\right)}=\sqrt{2 g h \cdot \frac{\Delta T}{T_{\text {levegör }}}} .
+\]
+Mivel abban a közelítésben dolgozunk, ahol a füst súrúsége állandó, a kontinuitási egyenlet ( $A v=$ állandó) következménye az, hogy az állandó keresztmetszetú kéményben állandó a füst áramlási sebessége. Minimális kéménymagasság esetén ez az állandó sebesség: $v=B / A$. Vegyük észre, hogy a kazánban a füst még gyakorlatilag áll, majd a kéménybe történő belépéskor egy rövid szakaszon a füstgázok állandó értékre gyorsulnak fel.
+2.1.4. A Bernoulli-egyenletet alkalmazzuk a kémény tetejére és egy tetszőleges, $z$ magasságú pontra. Kihasználjuk, hogy a füstsebesség állandó:
+\[
+p(h)+\frac{1}{2} \varrho_{\text {füst }} v^{2}+\varrho_{\text {füst }} g h=p(z)+\frac{1}{2} \varrho_{\text {füst }} v^{2}+\varrho_{\text {füst }} g z .
+\]
+Használjuk fel a (10-3) egyenletet $p(h)$ kifejezésére, és fejezzük ki a kérdéses nyomást:
+\[
+p(z)=p(0)-\left(\varrho_{\text {levegö }}-\varrho_{\text {füst }}\right) g h-\varrho_{\text {füst }} g z .
+\]
+Láthatjuk, hogy a talajszinten $(z=0)$ a kéményben a nyomás kisebb a külső légnyomásnál, vagyis amikor a füst a kazánból a kéménybe jut, akkor nemcsak a sebessége változik (növekszik), a nyomása is ugrásszerúen lecsökken.
+2.2.1.-2.2.2. A kémény által $\Delta t$ idő alatt kibocsátott forró levegő mozgási energiája így írható fel a (10-8) összefüggés segítségével:
+\[
+E_{\mathrm{mozg}}=\frac{1}{2}\left(A v \Delta t \varrho_{\mathrm{forró}}\right) v^{2}=\left(A v \Delta t \varrho_{\mathrm{forró}}\right) g h \frac{\Delta T}{T_{\mathrm{levego}}} .
+\]
+Jelöljük a kémény léghozamát $w$-vel, ami megmutatja a kéményen másodpercenként áthaladó levegő tömegét ( $w=\frac{\Delta m}{\Delta t}=A v \varrho_{\text {forró }}$ ). A kémény teljesítménye így fejezhetó ki $w$-vel:
+\[
+P_{\text {hasznos }}=w g h \frac{\Delta T}{T_{\text {levegö }}} .
+\]
+A napsugárzás által leadott teljesítmény a $G$ napállandótól és az $S$ felülettől függ:
+\[
+P_{\text {sugárzás }}=G S=w c \Delta T,
+\]
+ahol $c$ a levegő fajhője. Így a napkémény maximális elméleti hatásfoka:
+\[
+\eta=\frac{P_{\text {hasznos }}}{P_{\text {sugárzás }}}=\frac{g h}{c T_{\text {levegöo }}} .
+\]
+Látható, hogy a hatásfok a kémény magasságától lineárisan függ.
+2.3.1. A hatásfok:
+\[
+\eta=\frac{g h}{c T_{\text {levegö }}} \approx 0,64 \% .
+\]
+2.3.2. A napkémény teljesítménye:
+\[
+P=\eta G S=\eta G r^{2} \pi \approx 45 \mathrm{~kW} .
+\]
+2.3.3. Ha napi nyolc óra napsütést tételezünk fel, akkor az előállított energia 360 kWh.
+2.4.1. Fejezzük ki a $w$ léghozamot a (10-8) és a (10-9) összefüggésekkel:
+\[
+\begin{aligned}
+w=A v \varrho_{\text {forró }}= & A \sqrt{2 g h \frac{\Delta T}{T_{\text {levegő }}}} \varrho_{\text {forró }}, \\
+w & =\frac{G S}{c \Delta T},
+\end{aligned}
+\]
+amiből kifejezhetjük a $\Delta T$ hőmérsékletugrást:
+\[
+\Delta T=\left(\frac{G^{2} S^{2} T_{\text {levegöō }}}{A^{2} c^{2} \varrho_{\text {forró }}^{2} 2 g h}\right)^{1 / 3} \approx 9,1 \mathrm{~K} .
+\]
+2.4.2. A (10-10) összefüggés alapján $w \approx 770 \mathrm{~kg} / \mathrm{s}$.

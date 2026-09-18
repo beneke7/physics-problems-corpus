@@ -1,0 +1,138 @@
+---
+id: ipho-book-2004-q1
+problem: ipho-book-2004-q1
+source: ipho
+language: hu
+solution_language: hu
+solution_type: official
+source_pdf: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf"
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+---
+
+## Megoldás 1
+
+a) Az $R$ sugarú, egymástól $d(d \ll R)$ távolságra levő kondenzátorlemezek között ható elektrosztatikus erőt két lényegesen különböző módon is
+kiszámolhatjuk a kondenzátorra kapcsolt $V$ feszültség ismeretében:
+(i) Az egyik, például az alsó lemezre ható eró megegyezik a lemezen tárolt $Q$ töltésnek és a másik, felső lemez által keltett $E^{\prime}$ elektromos térerősségnek a szorzatával. A kondenzátoron belüli térerősség $E=\frac{V}{d}=2 E^{\prime}$, hiszen mindkét kondenzátorlemez azonos $E^{\prime}$ járulékot ad belül a térhez. Az egyes kondenzátorlemezek $Q$ töltése a kondenzátorlemezt körülvevő hengerfelületre felírt Gauss-törvényből kapható meg: $Q=2 E^{\prime} \varepsilon_{0} R^{2} \pi$. Ezek alapján az alsó lemezre ható elektrosztatikus vonzóerő:
+\[
+F=E^{\prime} Q=\varepsilon_{0} \frac{V^{2} R^{2} \pi}{2 d^{2}} .
+\]
+(ii) A lemezek között ható erót megkaphatjuk energetikai megfontolások segítségével is. Tegyük föl, hogy a lemezeket a köztük ható $F$ eró ellenében kicsiny $\Delta d$ távolsággal eltávolítjuk egymástól. Minthogy a kondenzátor állandó $V$ feszültségre van kapcsolva, és $C=\varepsilon_{0} \frac{R^{2} \pi}{d}$ kapacitása megváltozik, töltése is megváltozik, mégpedig
+\[
+\Delta Q=V \Delta C=\varepsilon_{0} V R^{2} \pi\left(\frac{1}{d+\Delta d}-\frac{1}{d}\right) \approx-\varepsilon_{0} V R^{2} \pi \frac{\Delta d}{d^{2}}
+\]
+értékkel. (A negatív előjel töltéscsökkenést jelez, és felhasználtuk, hogy kis $x$-re $(1+x)^{n} \approx 1+n x$.)
+
+A kondenzátorlemezek eltávolításakor végzett kicsiny $\Delta W=F \cdot \Delta d$ munka kétféle energiaváltozást fedez. Egyrészt a kondenzátor energiája $\Delta E_{\text {kond. }}=\frac{1}{2} V \cdot \Delta Q$ értékkel változik meg, hiszen változik a rajta tárolt töltés. Másrészt a telep energiája $\Delta E_{\text {telep }}=-V \cdot \Delta Q$ értékkel változik meg, hiszen az egymáshoz képest $V$ potenciálkülönbségú kapcsok között $\Delta Q$ töltés vándorol át. (Ha $\Delta Q>0$, azaz a telep tölti a kondenzátort, akkor energiája csökken, ez indokolja a negatív előjelet.) Tehát a folyamatra a következő formában írható föel az energiamegmaradás tétele:
+\[
+\Delta W=F \cdot \Delta d=\Delta E_{\mathrm{kond}}+\Delta E_{\mathrm{telep}}=-\frac{1}{2} V \cdot \Delta Q=\varepsilon_{0} V^{2} R^{2} \pi \frac{\Delta d}{2 d^{2}},
+\]
+ahonnan közvetlenül adódik az előző pontban kapott eredmény.
+Felhívjuk a figyelmet arra az érdekes tényre, hogy annak ellenére, hogy a kondenzátorlemezek távolításakor munkát végeztünk, a kondenzátor energiája csökkent, mégpedig pont a végzett munkával megegyező értékkel, $\Delta W=-\Delta E_{\text {kond }}$. Ezzel szemben a telep energiája $\Delta E_{\text {telep }}=2 \Delta W$ értékkel nőtt, hiszen a kondenzátor „töltötte” a telepet.
+b) A kondenzátor alsó fegyverzetén fekvő $r$ sugarú kis korong $q$ töltése például a Gauss-törvény segítségével kapható meg. Írjuk föl a tételt egy olyan hengerfelületre, amely körbeveszi a kis korongot: $q=\varepsilon_{0} E r^{2} \pi=\varepsilon_{0} \frac{r^{2} \pi}{d} V$, ahonnan a keresett paraméter:
+\[
+\chi=\varepsilon_{0} \frac{r^{2} \pi}{d} .
+\]
+
+Kicsit szellemesebben, egyszerúbben is megkaphatjuk a keresett töltést, ha észrevesszük, hogy a fegyverzet teljes $Q$ töltésének éppen a kis korong területére eső $\frac{r^{2}}{R^{2}}$ hányada adja meg $q$-t.
+$c)$ A kis korong akkor emelkedik föl a fegyverzetről, ha a rá ható $q E^{\prime}$ elektrosztatikus erő megegyezik, vagy nagyobb, mint a lefelé mutató $m g$ nehézségi erő. Hangsúlyozzuk, hogy az alsó fegyverzeten fekvő korongra ható elektrosztatikus erốt csupán a felső fegyverzet által keltett $E^{\prime}=\frac{E}{2}=\frac{V}{2 d}$ térből kell kiszámolnunk, hiszen az alsó fegyverzet nem fejt ki (függőleges irányú) elektrosztatikus erőt a kis korongra hiszen rajta fekszik. Így a $V_{\mathrm{k}}$ küszöbfeszültségre az $m g=q E^{\prime}=\frac{\chi V_{\mathrm{k}}^{2}}{2 d}$ egyenletből a
+\[
+V_{\mathrm{k}}=\sqrt{\frac{2 m g d}{\chi}}
+\]
+érték adódik.
+d) Kövessük nyomon a kis korong mozgását, sebességének változását mozgásának egy periódusa alatt. Jelölje a korong sebességének nagyságát az alsó (1-es index), ill. felső (2-es index) fegyverzetnél közvetlenül az ütközés előtt és után rendre $v_{1 \mathrm{e}}$ és $v_{1 \mathrm{u}}$, ill. $v_{2 \mathrm{e}}$ és $v_{2 \mathrm{u}}$.
+
+Az ütközési szám definíciója szerint
+\[
+v_{1 \mathrm{u}}=\eta v_{1 \mathrm{e}}, \quad v_{2 \mathrm{u}}=\eta v_{2 \mathrm{e}} .
+\]
+A két ütközés közötti felfelé, illetve lefelé való mozgásra felírhatjuk a mechanikai energiamegmaradás tételét (vagy a munkatételt). A nehézségi eró munkájából adódó potenciális energiaváltozás $\pm m g d$, míg az elektromos tér munkája $q V=\chi V^{2,18}$. A nehézségi erő munkája negatív a fölfelé történő mozgásnál, és pozitív a lefelé való mozgásnál. Ezzel szemben a Coulomb-erő munkája mindkét esetben pozitív, hiszen az alsó fegyverzeten $-q$ töltésűre feltöltött korong a felső fegyverzeten leadja töltését, és $q$ töltésú lesz. Ezek figyelembevételével a mozgás két szakaszára a mechanikai energiamegmaradás törvénye
+\[
+\text { felfelé: } \quad \frac{1}{2} m v_{2 \mathrm{e}}^{2}=\frac{1}{2} m v_{1 \mathrm{u}}^{2}+\chi V^{2}-m g d,
+\]
+\[
+\text { lefelé: } \quad \frac{1}{2} m v_{1 \mathrm{e}}^{2}=\frac{1}{2} m v_{2 \mathrm{u}}^{2}+\chi V^{2}+m g d .
+\]
+A (04-3), (04-4) és (04-5) egyenletek felhasználásával rendre kifejezhetjük a $v_{2 \mathrm{e}}$,
+
+\footnotetext{
+${ }^{18}$ A korong mozgása során a lemezek töltéssűrúsége folyamatosan átrendeződik, töltése megváltozik, miközben a lemezek közötti feszültség $V$ marad (a rendszer kapacitása megváltozik). A munkatételbe ezt is bele kell venni, viszont a korong kicsinysége miatt feltesszük, hogy ez elhanyagolható.
+
+$v_{2 \mathrm{u}}$ és $v_{1 \mathrm{e}}$ sebességeket a $v_{1 \mathrm{u}}$ sebességgel:
+\[
+\begin{aligned}
+& v_{2 \mathrm{e}}^{2}=v_{1 \mathrm{u}}^{2}+\frac{2 \chi V^{2}}{m}-2 g d, \\
+& v_{2 \mathrm{u}}^{2}=\eta^{2} v_{2 \mathrm{e}}^{2}=\eta^{2}\left(v_{1 \mathrm{u}}^{2}+\frac{2 \chi V^{2}}{m}-2 g d\right), \\
+& v_{1 \mathrm{e}}^{2}=v_{2 \mathrm{u}}^{2}+\frac{2 \chi V^{2}}{m}+2 g d=\eta^{2} v_{1 \mathrm{u}}^{2}+\left(1+\eta^{2}\right) \frac{2 \chi V^{2}}{m}+\left(1-\eta^{2}\right) 2 g d .
+\end{aligned}
+\]
+Felhasználva (04-3) első összefüggését, a (04-8) egyenletből az állandósult mozgás $v_{1 \mathrm{u}}=v_{\mathrm{s}}$ sebességére a következőt kapjuk:
+\[
+\left(1-\eta^{4}\right) v_{\mathrm{s}}^{2}=\eta^{2}\left[\left(1+\eta^{2}\right) \frac{2 \chi V^{2}}{m}+\left(1-\eta^{2}\right) 2 g d\right] .
+\]
+Az egyenlet megoldása
+\[
+v_{\mathrm{s}}^{2}=\frac{2 \chi \eta^{2}}{m\left(1-\eta^{2}\right)} V^{2}+\frac{2 g d \eta^{2}}{1+\eta^{2}},
+\]
+ahonnan a keresett $\alpha$ és $\beta$ együttható értéke:
+\[
+\alpha=\frac{2 \chi \eta^{2}}{m\left(1-\eta^{2}\right)} \quad \text { és } \quad \beta=\frac{2 g d \eta^{2}}{1+\eta^{2}} .
+\]
+$e$ ) Ha teljesül a $q V \gg m g d$ feltétel, akkor a kondenzátorlemezek között mozgó korongra ható elektrosztatikus eró jóval nagyobb, mint a nehézségi erő, így ez utóbbit elhanyagoljuk. Ekkor a korong mozgása szimmetrikus; az emelkedés és a süllyedés is egyenletesen gyorsuló mozgás, és a két mozgás csak irányában különbözik. Az előző részben a sebességekre kapott (04-6)-(04-8) kifejezések egyszerúsödnek, ha $g=0$. Ezekből és a (04-4) egyenlettel
+\[
+v_{1 \mathrm{u}}=v_{2 \mathrm{u}}=\sqrt{\alpha} V, \quad v_{1 \mathrm{e}}=v_{2 \mathrm{e}}=\frac{1}{\eta} v_{1 \mathrm{u}}=\frac{\sqrt{\alpha}}{\eta} V .
+\]
+(A $v_{1 \mathrm{u}}=v_{2 \mathrm{u}}$ és a $v_{1 \mathrm{e}}=v_{2 \mathrm{e}}$ egyenlőségek már a mozgás szimmetriájából is következnek.)
+
+A kis korong mozgásának egyik - például az emelkedési - félperiódusában $d$ utat tesz meg egyenletesen gyorsulva $v_{1 \mathrm{u}}$-ról $v_{2 \mathrm{e}}$ sebességre, így a félperiódus ideje
+\[
+t=\frac{2 d}{v_{1 \mathrm{u}}+v_{2 \mathrm{e}}}=\frac{2 d \eta}{\sqrt{\alpha}(1+\eta) V} .
+\]
+Az átszállított töltés $q=\chi V$, tehát az állandósult állapot elérése után a kis korong által szállított áram átlagos értéke $I=q / t$, ahonnan a keresett $\gamma$ együttható:
+\[
+\gamma=\frac{\chi \sqrt{\alpha}(1+\eta)}{2 d \eta}=\sqrt{\frac{\chi^{3}(1+\eta)}{2 m d^{2}(1-\eta)}} .
+\]
+f) Ebben a részfeladatban újra figyelembe kell vennünk a nehézségi erő hatását, hiszen kis feszültségértékeknél $q V \ngtr m g d$. A feszültséget csökkentve az áram akkor szűnik meg, amikor a korong sebessége olyan kicsinnyé válik, hogy az már nem emelkedik fel a felsó fegyverzetig. A $V_{\mathrm{c}}$ kritikus feszültség mellett a korong éppen $v_{2 \mathrm{e}}=0$ sebességgel éri el a felsó lapot. A (04-6) és (04-9) összefüggéseket felhasználva a
+\[
+0=\frac{2 \chi \eta^{2}}{m\left(1-\eta^{2}\right)} V_{\mathrm{c}}^{2}+\frac{2 g d \eta^{2}}{1+\eta^{2}}+\frac{2 \chi}{m} V_{\mathrm{c}}^{2}-2 g d
+\]
+egyenletet kapjuk a kritikus feszültségre, melynek megoldása:
+\[
+V_{\mathrm{c}}=\sqrt{\frac{m g d\left(1-\eta^{2}\right)}{\chi\left(1+\eta^{2}\right)}}=V_{\mathrm{k}} \sqrt{\frac{1-\eta^{2}}{2\left(1+\eta^{2}\right)}} .
+\]
+Az $I_{\mathrm{c}}$ kritikus áram mellett a kis korong éppen eléri a felsó fegyverzetet, azaz $v_{2 \mathrm{e}}=v_{2 \mathrm{u}}=0$, és lezajlik a töltéscsere - hiszen folyik áram -, tehát a korongra ható Coulomb-eró iránya, és így az eredő erő nagysága is megváltozik a felső holtponton. A kritikus áram mellett (04-9) és (04-10), majd (04-3) felhasználásával a $v_{1 \mathrm{u}}$ és $v_{1 \mathrm{e}}$ sebességekre azt kapjuk, hogy
+\[
+v_{1 \mathrm{u}, \mathrm{c}}=2 \eta \sqrt{\frac{g d}{1+\eta^{2}}}, \quad v_{1 \mathrm{e}, \mathrm{c}}=\frac{v_{1 \mathrm{u}, \mathrm{c}}}{\eta}=2 \sqrt{\frac{g d}{1+\eta^{2}}} .
+\]
+A korong nulla vég-, ill. kezdősebességú egyenletesen lassuló, ill. gyorsuló mozgást végez az emelkedési, ill. süllyedési szakaszon, azonban e két mozgás időtartama nem azonos. A (04-11) sebességek ismeretében az emelkedés, ill. a süllyedés időtartama
+\[
+t_{\uparrow}=\frac{2 d}{v_{1 \mathrm{u}, \mathrm{c}}}=\frac{1}{\eta} \sqrt{\frac{d\left(1+\eta^{2}\right)}{g}}, \quad t_{\downarrow}=\frac{2 d}{v_{1 \mathrm{e}, \mathrm{c}}}=\sqrt{\frac{d\left(1+\eta^{2}\right)}{g}},
+\]
+és egy teljes periódus alatt átszállított töltés $2 \chi V_{c}$, tehát a kritikus áram:
+\[
+I_{\mathrm{c}}=\frac{2 \chi V_{\mathrm{c}}}{t_{\uparrow}+t_{\downarrow}}=\frac{2 \eta g}{1+\eta^{2}} \sqrt{m \chi \frac{1-\eta}{1+\eta}} .
+\]
+Minthogy $0<\eta<1$, a (04-10) egyenletből látszik, hogy a stacionárius mozgás fenntartásához szükséges $V_{\mathrm{c}}$ feszültség kisebb, mint a korong felemeléséhez szükséges $V_{\mathrm{k}}$ feszültség. Tehát ha lassan emeljük a feszültséget (tehát adott $V$ feszültségnél mindig kialakul az állandósult állapot), az áram nulla marad, amíg $V<V_{\mathrm{k}}$. Ezután a korong elkezd pattogni a lemezek között a feszültséggel növekvó áramot létrehozva. Ezután, ha a feszültéget elkezdjük lassan csökkenteni egy bizonyos $V>V_{\mathrm{k}}$ feszültségről, akkor az áram csökken. Ha eléri a $V_{\mathrm{c}}$ értéket, és ha a korong az alsó lemezre kerül, akkor ott is marad, tehát az áram nulla lesz, és nulla is marad a feszültség további csökkentésével. Tehát az áram-feszültség karakterisztikának hiszterézise van.
+
+Tudjuk, hogy nagyobb feszültségek esetén $I \sim V^{2}$, azonban kisebb feszültségekre ez nem teljesen érvényes (de látni fogjuk, hogy az általános függvény nagyon közel van hozzá). Bár a feladat nem kérdezte (vázlatos ábra), mégis adjuk meg az általános $I(V)$ függvényt. Felfelé, illetve lefelé menet a gyorsulások (mozgás közben a korong már a teljes $E$ teret érzi):
+\[
+\begin{aligned}
+& a_{\uparrow}=\frac{q V}{m d}-g=\frac{v_{2 \mathrm{e}}-v_{1 \mathrm{u}}}{t_{\uparrow}}, \\
+& a_{\downarrow}=\frac{q V}{m d}+g=\frac{v_{1 \mathrm{e}}-v_{2 \mathrm{u}}}{t_{\downarrow}} .
+\end{aligned}
+\]
+Felhasználva, hogy $v_{1 \mathrm{u}}=v_{\mathrm{s}}=\sqrt{\alpha V^{2}+\beta}$, valamint a (04-3) és a (04-6) egyenleteket:
+\[
+\begin{aligned}
+v_{1 \mathrm{e}} & =\frac{1}{\eta} \sqrt{\alpha V^{2}+\beta}, \\
+v_{2 \mathrm{e}} & =\frac{1}{\eta} \sqrt{\alpha V^{2}-\beta}, \\
+v_{2 \mathrm{u}} & =\sqrt{\alpha V^{2}-\beta}
+\end{aligned}
+\]
+adódik. Ezeket beírva a gyorsulások kifejezéseibe, az emelkedési és süllyedési idők kifejezhetők. Az átlagos áram:
+\[
+I(V)=\frac{2 q}{t_{\uparrow}+t_{\downarrow}}=\frac{2 \chi V}{\frac{\frac{1}{\eta} \sqrt{\alpha V^{2}-\beta}-\sqrt{\alpha V^{2}+\beta}}{a_{\uparrow}}+\frac{\frac{1}{\eta} \sqrt{\alpha V^{2}+\beta}-\sqrt{\alpha V^{2}-\beta}}{a_{\downarrow}}} .
+\]
+Ha $g=0$, azaz $\beta=0$, akkor a két gyorsulás is, és a kétirányú mozgás ideje is azonos, és az áram arányos a feszültség négyzetével. Átalakítással megmutatható, hogy az utóbbi kettőre ugyanazt az eredményt kapjuk, mint az $e$ ) részben. A 269. ábra vázlatosan mutatja a rendszer karakterisztikáját és a hiszterézist. A szaggatott parabola az $I=\gamma V^{2}$ függvényt jelöli.

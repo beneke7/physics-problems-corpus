@@ -1,0 +1,66 @@
+---
+id: ipho-book-2007-q3
+source: ipho
+native_id: "IPhO 2007, 3. feladat."
+year: 2007
+language: hu
+translated: false
+topic: [pending]
+subtopic: []
+math_tools: []
+format: scaffolded
+core_ideas: []
+points: null
+has_solution: true
+has_figure: false
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+links_en: "ipho-2007-t3"
+---
+
+## Feladat 3
+
+Hawking-sugárzás
+Bárhol is találkozunk a fizikában egy egyenlőséggel, az egyenlet mindkét oldala ugyanolyan típusú, azaz ugyanolyan dimenziójú. Például nem lehetséges, hogy az egyenlet jobb oldala hosszúságnak felel meg, míg a bal oldalon álló mennyiség időintervallumnak. Ezt a tényt felhasználva időnként (számfaktoroktól eltekintve) fizikai összefüggéseket állapíthatunk meg a probléma analitikus megoldása nélkül. Például, ha azt kérdezzük, hogy a $h$ magasságból elengedett test mennyi idő alatt esik le az állandónak tekinthető $g$ gravitációs gyorsulás hatására, akkor úgy érvelhetünk, hogy egy időintervallumot reprezentáló mennyiséget kell felépítenünk $g$ és $h$ segítségével, és ennek egyetlen módja ez: $T=a(h / g)^{1 / 2}$. Vegyük észre, hogy ez a megoldás tartalmaz egy dimenzió nélküli, nem meghatározott a együtthatót, melyet ezzel a módszerrel nem lehet megkapni. Ez az együttható egy ilyen szám lehet: $1,1 / 2, \sqrt{3}, \pi$ vagy bármilyen más valós szám. Fizikai összefüggéseknek ilyen módszerrel történő levezetését dimenzióanalízisnek nevezzük. Dimenzióanalíziskor a dimenzió nélküli együtthatók nem fontosak, és ezért nem szükséges leírni ezeket. Szerencsére a legtöbb fizikai probléma esetén ezek az együtthatók nagyságrendileg 1 körüli számok, és elhagyásuk nem változtatja meg a fizikai mennyiségek számértékének nagyságrendjét. Ennek megfelelően a fenti probléma esetén a dimenzióanalízis módszerével ezt az eredményt kapjuk: $T=(h / g)^{1 / 2}$.
+
+Általánosságban egy fizikai mennyiség dimenziója felírható négy alapmennyiség dimenziójával: M (tömeg), L (hosszúság), T (idő), és K (hőmérséklet). Egy tetszőleges $x$ mennyiség dimenzióját így jelöljük: $[x]$. Példaként megmutatjuk, hogy a $v$ sebesség, az $E_{\mathrm{k}}$ mozgási energia és a $C_{V}$ hőkapacitás dimenziója így írható fel: $[v]=\mathrm{LT}^{-1},\left[E_{\mathrm{k}}\right]=\mathrm{ML}^{2} \mathrm{~T}^{-2},\left[C_{V}\right]=\mathrm{ML}^{2} \mathrm{~T}^{-2} \mathrm{~K}^{-1}$.
+
+\section*{Alapvetớ állandók és a dimenzióanalízis kapcsolata}
+3.1.1. Határozzuk meg az alapvetó állandók, azaz a $h$ Planck-állandó, a $c$ fénysebesség, a $G$ egyetemes gravitációs állandó és a $k_{\mathrm{B}}$ Boltzmann-állandó dimenzióját a hosszúság, a tömeg, az idő és a hőmérséklet dimenziója segítségével!
+
+A Stefan-Boltzmann-törvény szerint a feketetest által kisugárzott intenzitás (vagyis az egységnyi felület által egységnyi idő alatt kisugárzott energia) így adható meg: $\sigma \theta^{4}$, ahol $\sigma$ a Stefan-Boltzmann-állandó és $\theta$ a feketetest abszolút hőmérséklete.
+3.1.2. Határozzuk meg a Stefan-Boltzmann-álladó dimenzióját a hosszúság, a tömeg, az idő és a hőmérséklet dimenziója segítségével!
+
+A Stefan-Boltzmann-állandó nem alapvetó állandó, és így felírható az alapvető állandók segítségével, azaz ilyen módon: $\sigma=a h^{\alpha} c^{\beta} G^{\gamma} k_{\mathrm{B}}^{\delta}$. Ebben az összefüggés-
+ben $a$ egy 1 nagyságrendű, dimenzió nélküli paraméter. Amint ezt az előzőekben említettük, $a$ pontos értéke a mi szempontunkból érdektelen, ezért egyszerúen vegyük 1-nek.
+3.1.3. Határozzuk meg $\alpha, \beta, \gamma$ és $\delta$ értékét dimenzióanalízissel!
+
+A fekete lyukak fizikája
+Ebben a részben dimenzióanalízis segítségével megpróbáljuk meghatározni a fekete lyukak néhány tulajdonságát. Egy bizonyos fizikai elméletnek megfelelően, amit „no hair” („haja nincs”) elméletnek hívunk, a fekete lyukak összes jellemzője, amelyekkel ebben a feladatban foglalkozunk, kizárólag csak a fekete lyukak tömegétől függ. Egy fekete lyuk egyik jellemzője az eseményhorizontjának a területe. Durván azt mondhatjuk, hogy az eseményhorizont a fekete lyuk határa. Ezen a határon belül a gravitáció olyan erós, hogy az ezzel határolt tartományt még a fény sem képes elhagyni.
+
+Szeretnénk kapcsolatot találni egy fekete lyuk $m$ tömege és az eseményhorizont $A$ területe között. Ez a terület a fekete lyuk tömegétől, a fénysebességtől és az egyetemes gravitációs állandótól függ. A 3.1.3. alkérdés mintájára ezt írhatjuk fel: $A=G^{\alpha} c^{\beta} m^{\gamma}$.
+3.2.1. Dimenzióanalízis segítségével határozzuk meg $\alpha, \beta$ és $\gamma$ értékét!
+
+A 3.2.1. alkérdés eredménye világosan megmutatja, hogy egy fekete lyuk eseményhorizontjának a területe a lyuk tömegével növekszik. Klasszikus leírás szerint semmi sem jön ki a fekete lyukból, és ezért akármilyen fizikai folyamat is történik, az eseményhorizont területe csak növekedhet. A termodinamika második főtételével analógiába állítva ezt, Jacob Bekenstein azt javasolta, hogy érdemes bevezetni a fekete lyukak $S$ entrópiáját, amit tekintsünk arányosnak a lyuk eseményhorizontjának területével, azaz $S=\eta A$. Más érvelések megerősítették ezt a felvetést.
+3.2.2. Az entrópia termodinamikai definíciója $(\mathrm{d} S=\mathrm{d} Q / \theta)$ alapján határozzuk meg az entrópia dimenzióját! $\mathrm{d} Q$ a hőközlés mértéke és $\theta$ a rendszer abszolút hőmérséklete.
+3.2.3. Ugyanúgy, mint a 3.1.3. alkérdésben, fejezzük ki a dimenzióval rendelkező $\eta$ állandót mint az alapvető́ fizikai állandók $\left(h, c, G\right.$, és $\left.k_{\mathrm{B}}\right)$ függvényét!
+
+A továbbiakban ne használjuk a dimenzióanalízis módszerét, azonban felhasználhatjuk az eddigi alkérdésekre kapott eredményeket.
+3.3. Hawking-sugárzás
+
+Félkvantummechanikai tárgyalással Stephen Hawking úgy érvelt, hogy - a klasszikus tárgyalással ellentétben - a fekete lyukak a feketetest-sugárzáshoz hasonlóan sugárzást bocsáthatnak ki. Úgy sugároznak, mint egy adott hőmérsékletú feketetest, ezt a hőmérsékletet Hawking-hőmérsékletnek nevezzük.
+3.3.1. Az $E=m c^{2}$ összefüggést felhasználva, ami megadja egy fekete lyuk energiáját a tömegével kifejezve, továbbá a termodinamika törvényei alapján, fejezzük ki egy fekete lyuk $\theta_{\mathrm{H}}$ Hawking-hőmérsékletét tömegének és az alapvető fizikai állandóknak a segítségével! Tételezzük fel, hogy a fekete lyuk nem végez munkát a környezetén.
+3.3.2. Egy környezetétől elszigetelt fekete lyuk a Hawking-sugárzás következtében változtatja a tömegét. A Stefan-Boltzmann-törvény felhasználásával határozzuk meg, hogyan függ a fekete lyuk tömegének időbeli változási sebessége (deriváltja) a $\theta_{\mathrm{H}}$ Hawking-hőmérséklettől, és fejezzük ki ezt a deriváltat a fekete lyuk tömege, valamint az alapvetó fizikai állandók segítségével!
+3.3.3. Határozzuk meg azt a $t^{*}$ időt, ami ahhoz szükséges, hogy egy, a környezetétől teljesen elszigetelt, $m$ tömegú fekete lyuk teljesen „elpárologjon”, azaz teljesen elveszítse tömegét!
+
+A termodinamika nézőpontjából a fekete lyukak különleges viselkedésekre képesek. Például egy fekete lyuk hőkapacitása negatív.
+3.3.4. Határozzuk meg egy $m$ tömegú fekete lyuk hőkapacitását!
+3.4. A fekete lyukak és a kozmikus háttérsugárzás
+
+Tekintsünk egy olyan fekete lyukat, ami ki van téve a kozmikus háttérsugárzásnak. A kozmikus háttérsugárzás egy olyan $\theta_{\mathrm{B}}$ hőmérsékletú feketetest sugárzás, ami kitölti az egész világmindenséget. Ezért egy $A$ teljes felületú test egységnyi idő alatt $\sigma A \theta_{\mathrm{B}}^{4}$ energiát kap. Ennek megfelelően egy fekete lyuk egyrészt energiát veszít a Hawking-sugárzás következtében, másrészt energiát nyer a kozmikus háttérsugárzásból.
+3.4.1. Határozzuk meg a fekete lyuk tömegének időbeli változási sebességét a fekete lyuk tömege, a kozmikus háttérsugárzás hőmérséklete és az alapvető fizikai állandók segítségével!
+3.4.2. Bizonyos $m^{*}$ tömeg esetén ez a derivált eltúnik. Határozzuk meg ezt az $m^{*}$ tömeget, és fejezzük ki $\theta_{\mathrm{B}}$ és az alapvető fizikai állandók segítségével!
+3.4.3. Használjuk fel a 3.4.2. alkérdésre adott választ, fejezzük ki belőle $\theta_{\mathrm{B}}$ értékét, és helyettesítsük be a 3.4.1. részben kapott kifejezésbe. Határozzuk meg a fekete lyuk tömegének időbeli változási sebességét $m, m^{*}$ és az alapvető fizikai állandók segítségével!
+3.4.4. Határozzuk meg egy fekete lyuk Hawking-hőmérsékletét, amikor a lyuk termikus egyensúlyban van a kozmikus háttérsugárzással!
+3.4.5. Ez az egyensúly stabil vagy instabil? Miért? (A választ indokoljuk.)

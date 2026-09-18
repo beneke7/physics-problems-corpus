@@ -1,0 +1,22 @@
+---
+id: ipho-book-1970-q2
+problem: ipho-book-1970-q2
+source: ipho
+language: hu
+solution_language: hu
+solution_type: official
+source_pdf: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf"
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+---
+
+## Megoldás 2
+
+Jelentsék a fekete gömbök a nátriumionokat, a fehér gömbök a kloridionokat. A nátriumionokból egyet találunk középen és 12 darabot az éleken. Ezekből a kocka belsejében csak negyedrész foglal helyet, tehát az elemi kockában levő nátriumionok száma $1+12 / 4=4$. A kloridionokból 6 foglal helyet az oldallapokon, ezek fele tartozik az elemi cellába és 8 van a csúcsokon, amelyekből csak nyolcadrész van az elemi cellában, tehát a kloridionok száma $6 / 2+8 / 8=4$. Ugyanerre az eredményre jutottunk volna, ha az elemi cella közepén kloridion lett volna.
+
+Jelöljük a hidrogénatom tömegét $m$-mel. Ekkor jó közelítéssel egy nátriumion tömege $23 m$, egy kloridion tömege pedig $35,5 m$. Az elemi cella tömegét osztva a térfogatával kapjuk a súrúséget:
+\[
+\frac{4 \cdot 23 m+4 \cdot 35,5 m}{\left(5,6 \cdot 10^{-8} \mathrm{~cm}\right)^{3}}=2,22 \mathrm{~g} / \mathrm{cm}^{3}
+\]
+Innen $m=1,67 \cdot 10^{-24}$ gramm.

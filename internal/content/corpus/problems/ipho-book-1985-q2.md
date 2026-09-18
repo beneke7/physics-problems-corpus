@@ -1,0 +1,30 @@
+---
+id: ipho-book-1985-q2
+source: ipho
+native_id: "IPhO 1985, 2. feladat."
+year: 1985
+language: hu
+translated: false
+topic: [pending]
+subtopic: []
+math_tools: []
+format: scaffolded
+core_ideas: []
+points: null
+has_solution: true
+has_figure: false
+figure_files: []
+provenance_note: "kkk/Korábbi kunfalvi anyagok 2/IPhO_konyv.pdf; Mathpix OCR"
+verification_status: pending
+links_en: "ipho-1985-q2"
+---
+
+## Feladat 2
+
+Egy $a, b$ és $c$ oldalélú $(a \gg b \gg c)$, téglatest alakú rúd InSb (indium-antimonid) félvezető anyagból készült. A rúdban $I$ erősségú áram folyik a téglatest $a$ élével párhuzamos irányban. A rúd a $c$ élével párhuzamos irányú, $B$ indukciójú külső mágneses térben van. Az $I$ áram által keltett mágneses tér elhanyagolható. Az áramot elektronok szállítják. Ha csak elektromos tér van jelen egy félvezetőben, akkor az elektronok átlagsebessége $v=\mu E$, ahol $\mu$ az elektronok mozgékonysága. Ha mágneses tér is jelen van, akkor a teljes elektromos tér iránya már nem párhuzamos az elektromos áram irányával. Ezt a jelenséget Hall-effektusnak nevezik.
+a) Határozzuk meg a rúdban a teljes elektromos tér nagyságát és irányát, amikor a rúdban a fent leírt áram folyik!
+b) Határozzuk meg a feszültségkülönbséget a rúd felületén lévő azon két pont között, amelyeket összekötő egyenes párhuzamos a $b$ oldallal!
+$c)$ Fejezzük ki a $b$ ) részbeli feszültségkülönbség egyenfeszültség részét, ha az áramerősség és a mágneses indukció a következőképp változik: $I=I_{0} \sin \omega t, B=$ $B_{0} \sin (\omega t+\varphi)!$
+d) Tervezzünk olyan elektromos áramkört, amely a $c$ ) részben kapott eredményt felhasználva méri egy váltóáramú elektromos készülék teljesítményfelvételét! Magyarázzuk meg a tervezett áramkör múködését!
+
+Adatok: Az InSb-ben egy elektron mozgékonysága $\mu=7,8 \mathrm{~m}^{2} /(\mathrm{Vs})$, az elektronsúrúség $n=2,5 \cdot 10^{22} \mathrm{~m}^{-3}$. Továbbá $I=1,0 \mathrm{~A}, B=0,10 \mathrm{~T}, b=1,0 \mathrm{~cm}$, $c=1,0 \mathrm{~mm}$, az elemi töltés $e=1,6 \cdot 10^{-19} \mathrm{C}$.
