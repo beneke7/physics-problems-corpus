@@ -12,8 +12,8 @@ format: open-ended
 math_tools: [calculus, algebra, geometry-trigonometry, differential-equations]
 core_ideas: []
 has_figure: true
-figure_files: [eotvos-2018-charged-cylinder-solenoid-fig1.ppm]
-provenance_note: "English translation of Eötvös Competition 2018, Problem 3; translated from the Hungarian source statement (cache/phoxiv/eotvos/2018.pdf); figure extracted from the PDF using pdfimages."
+figure_files: [eotvos-2018-charged-cylinder-solenoid-fig1.png]
+provenance_note: "English translation of Eötvös Competition 2018, Problem 3; figure re-harvested from the Mathpix bounding box for cache/phoxiv/eotvos/2018.pdf."
 verification_status: pending
 ---
 
@@ -21,7 +21,7 @@ verification_status: pending
 
 A long solenoid has a fixed, horizontal axis, with a circular cross-section of radius $R$. Inside the solenoid is a solid cylinder of radius $r$ made of (non-magnetic) insulating material. The insulating cylinder is positively charged, with a uniform volume distribution. A current of rapidly increasing strength is applied to the solenoid uniformly over time, in the direction shown in the figure.
 
-![Solenoid cross-section diagram](../../figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.ppm)
+![Solenoid cross-section diagram](../../figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png)
 
 In what direction does the insulating cylinder start rolling? How does the response depend on the ratio $r/R$? At what ratio $r/R$ will the charged cylinder remain at rest?
 

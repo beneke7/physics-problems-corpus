@@ -7631,7 +7631,10 @@
       "en": "content/corpus/problems_en/eotvos-2024-rotating-tube.md",
       "solution": "content/corpus/solution_ocr/eotvos/eotvos-2024-s-p2-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2024-rotating-tube-fig1.jpg"
+      ]
     },
     "eotvos-2024-lens-system": {
       "problem": "content/corpus/problems/eotvos-2024-lens-system.md",
@@ -7740,7 +7743,10 @@
       "en": "content/corpus/problems_en/eotvos-2020-diode-capacitor.md",
       "solution": "content/corpus/solution_ocr/eotvos/eotvos-2020-s-p3-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2020-diode-capacitor-fig1.jpg"
+      ]
     },
     "eotvos-2019-piston-heat-transfer": {
       "problem": "content/corpus/problems/eotvos-2019-piston-heat-transfer.md",
@@ -7784,7 +7790,7 @@
       "solution_documents": [],
       "figure_count": 1,
       "figures": [
-        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.ppm"
+        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png"
       ]
     },
     "eotvos-2017-coin-table": {
@@ -48336,7 +48342,7 @@
     },
     "content/corpus/problems/eotvos-2018-charged-cylinder-solenoid.md": {
       "figures": [
-        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.ppm"
+        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png"
       ]
     },
     "content/corpus/problems/eotvos-2020-cart-pendulum.md": {
@@ -57813,7 +57819,7 @@
     },
     "content/corpus/problems_en/eotvos-2018-charged-cylinder-solenoid.md": {
       "figures": [
-        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.ppm"
+        "content/figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png"
       ]
     },
     "content/corpus/problems_en/eotvos-2020-cart-pendulum.md": {
@@ -87300,10 +87306,30 @@
     },
     "content/corpus/solutions_hu/ipho-2021-t3.md": {
       "figures": []
+    },
+    "content/corpus/problems/eotvos-2020-diode-capacitor.md": {
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2020-diode-capacitor-fig1.jpg"
+      ]
+    },
+    "content/corpus/problems_en/eotvos-2020-diode-capacitor.md": {
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2020-diode-capacitor-fig1.jpg"
+      ]
+    },
+    "content/corpus/problems/eotvos-2024-rotating-tube.md": {
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2024-rotating-tube-fig1.jpg"
+      ]
+    },
+    "content/corpus/problems_en/eotvos-2024-rotating-tube.md": {
+      "figures": [
+        "content/figures/eotvos/figures/eotvos-2024-rotating-tube-fig1.jpg"
+      ]
     }
   },
   "markdown_file_count": 17006,
-  "markdown_bytes": 80878605,
+  "markdown_bytes": 80879017,
   "figure_policy": {
     "mirrored": true,
     "referenced_file_count": 23861,

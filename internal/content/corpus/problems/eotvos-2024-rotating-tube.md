@@ -10,9 +10,9 @@ subtopic: [electromagnetic-induction, faraday, lorentz-force, rotation, magnetic
 format: open-ended
 math_tools: [calculus-differential, algebra, vector-calculus]
 core_ideas: []
-has_figure: false
-figure_files: []
-provenance_note: "Eötvös Competition 2024, Problem 2. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2024.pdf)."
+has_figure: true
+figure_files: [eotvos-2024-rotating-tube-fig1.jpg]
+provenance_note: "Eötvös Competition 2024, Problem 2. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2024.pdf); figure re-harvested from the Mathpix bounding box."
 verification_status: pending
 links_en: eotvos-2024-rotating-tube
 has_solution: true
@@ -27,3 +27,5 @@ A súlytalanság állapotában egy $R$ sugarú, $L \gg R$ hosszúságú és $d \
 a) Vázoljuk fel a cső kiterített palástjáról készült rajzon a csőben kialakuló áramvonalakat!
 
 b) Írjuk le a cső mozgását az idő függvényében!
+
+![figure](../../figures/eotvos/figures/eotvos-2024-rotating-tube-fig1.jpg)

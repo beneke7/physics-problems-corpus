@@ -10,9 +10,9 @@ subtopic: [ac-circuits, capacitors, diodes, rectification, charging]
 format: open-ended
 math_tools: [calculus, exponential-functions, periodic-functions]
 core_ideas: [kalda-circuits-idea28, kalda-circuits-idea29]
-has_figure: false
-figure_files: []
-provenance_note: "Eötvös Competition 2020, Problem 3. Mathpix OCR of problem statement PDF (cache/phoxiv/eotvos/2020.pdf). Figure referenced in problem statement (circuit diagram) could not be extracted from PDF; Mathpix CDN image URL not accessible."
+has_figure: true
+figure_files: [eotvos-2020-diode-capacitor-fig1.jpg]
+provenance_note: "Eötvös Competition 2020, Problem 3. Mathpix OCR of problem statement PDF (cache/phoxiv/eotvos/2020.pdf); circuit diagram re-harvested from the Mathpix bounding box."
 verification_status: pending
 links_en: eotvos-2020-diode-capacitor
 has_solution: true
@@ -24,3 +24,5 @@ techniques: [conservation-laws, limiting-and-special-cases]
 
 a) Mekkora maximális feszültségre töltődik fel a kondenzátor?
 b) A kondenzátor töltetlen állapotától számítva körülbelül mennyi idő után éri el a kondenzátor feszültsége a maximális érték felét?
+
+![figure](../../figures/eotvos/figures/eotvos-2020-diode-capacitor-fig1.jpg)

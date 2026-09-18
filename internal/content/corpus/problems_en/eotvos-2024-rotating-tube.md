@@ -11,9 +11,9 @@ subtopic: [electromagnetic-induction, faraday, lorentz-force, rotation, magnetic
 format: open-ended
 math_tools: [calculus-differential, algebra, vector-calculus]
 core_ideas: []
-has_figure: false
-figure_files: []
-provenance_note: "English translation of Eötvös Competition 2024, Problem 2; translated from the Hungarian source statement (cache/phoxiv/eotvos/2024.pdf)."
+has_figure: true
+figure_files: [eotvos-2024-rotating-tube-fig1.jpg]
+provenance_note: "English translation of Eötvös Competition 2024, Problem 2; figure re-harvested from the Mathpix bounding box for cache/phoxiv/eotvos/2024.pdf."
 verification_status: pending
 ---
 
@@ -24,3 +24,5 @@ In a state of weightlessness, an aluminum tube of radius $R$, length $L \gg R$, 
 a) Sketch the current streamlines that develop in the tube on a diagram of the tube's unrolled surface!
 
 b) Describe the tube's motion as a function of time!
+
+![figure](../../figures/eotvos/figures/eotvos-2024-rotating-tube-fig1.jpg)

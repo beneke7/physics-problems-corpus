@@ -12,8 +12,8 @@ format: open-ended
 math_tools: [calculus, algebra, geometry-trigonometry, differential-equations]
 core_ideas: [kalda-mechanics-idea62]
 has_figure: true
-figure_files: [eotvos-2018-charged-cylinder-solenoid-fig1.ppm]
-provenance_note: "Eötvös Competition 2018, Problem 3. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2018.pdf); figure extracted from the PDF using pdfimages."
+figure_files: [eotvos-2018-charged-cylinder-solenoid-fig1.png]
+provenance_note: "Eötvös Competition 2018, Problem 3. Mathpix OCR of the born-digital source PDF (cache/phoxiv/eotvos/2018.pdf); figure re-harvested from the Mathpix bounding box."
 verification_status: pending
 has_solution: true
 solution_language: hu
@@ -24,7 +24,7 @@ techniques: [superposition, differential-element]
 
 Egy rögzített, vízszintes tengelyú, légmagos, hosszú szolenoid keresztmetszete $R$ sugarú kör. A tekercs belsejében egy (nem-mágneses) szigetelő anyagból készült, $r$ sugarú tömör henger helyezkedik el. A szigetelő henger pozitívan töltött, egyenletes térfogati eloszlásban. A szolenoidba időben egyenletesen, gyorsan növekvő erősségú áramot vezetünk az ábrán látható körüljárás szerint.
 
-![Solenoid cross-section diagram](../../figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.ppm)
+![Solenoid cross-section diagram](../../figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png)
 
 Milyen irányban indul el a szigetelő henger? Hogyan függ a válasz az $r / R$ aránytól? Mekkora $r / R$ arány esetén marad a töltött henger nyugalomban?
 

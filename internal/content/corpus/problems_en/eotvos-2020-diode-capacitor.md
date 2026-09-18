@@ -11,9 +11,9 @@ subtopic: [ac-circuits, capacitors, diodes, rectification, charging]
 format: open-ended
 math_tools: [calculus, exponential-functions, periodic-functions]
 core_ideas: []
-has_figure: false
-figure_files: []
-provenance_note: "English translation of Eötvös Competition 2020, Problem P3; translated from Hungarian source statement (cache/phoxiv/eotvos/2020.pdf)."
+has_figure: true
+figure_files: [eotvos-2020-diode-capacitor-fig1.jpg]
+provenance_note: "English translation of Eötvös Competition 2020, Problem P3; circuit diagram re-harvested from the Mathpix bounding box for cache/phoxiv/eotvos/2020.pdf."
 verification_status: pending
 ---
 
@@ -23,3 +23,5 @@ A circuit is constructed from an ideal diode, two resistors of $R=2 \mathrm{~k}\
 
 a) What is the maximum voltage to which the capacitor charges?
 b) Approximately how much time elapses from the initial uncharged state until the capacitor voltage reaches half of its maximum value?
+
+![figure](../../figures/eotvos/figures/eotvos-2020-diode-capacitor-fig1.jpg)
