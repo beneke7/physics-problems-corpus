@@ -5,11 +5,13 @@ native_id: "V4"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [optics, electromagnetism]
+subtopic: [thin-films, reflection, interference, refraction, em-waves]
+math_tools: [algebra, geometry-trigonometry]
+format: numerical
+difficulty_norm: 3
 core_ideas: []
+estimated_time_min: 20
 points: 20
 has_solution: false
 has_figure: false

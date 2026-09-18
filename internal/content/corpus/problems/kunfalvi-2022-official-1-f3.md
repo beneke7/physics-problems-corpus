@@ -5,11 +5,13 @@ native_id: "F3"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [electromagnetism, oscillations-and-waves]
+subtopic: [diodes, dc-circuits, capacitance, inductance, resonance, energy-conservation]
+math_tools: [algebra, differential-equations, periodic-functions]
+format: scaffolded
+difficulty_norm: 4
 core_ideas: []
+estimated_time_min: 30
 points: null
 has_solution: false
 has_figure: true

@@ -5,11 +5,13 @@ native_id: "V3"
 year: 2022
 language: hu
 translated: false
-topic: [pending]
-subtopic: []
-math_tools: []
-format: open-ended
+topic: [optics, oscillations-and-waves]
+subtopic: [diffraction, diffraction-grating, interference, wave-optics]
+math_tools: [algebra, geometry-trigonometry, recurrence-relations]
+format: scaffolded
+difficulty_norm: 5
 core_ideas: []
+estimated_time_min: 45
 points: 20
 has_solution: false
 has_figure: true
