@@ -638,7 +638,7 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
 
 a. Assuming the dome is charged to 500 kV, determine the strength of the electric field at the surface of the dome.
 
-\section*{Solution}
+## Solution
 The electric potential is given by
 $$
 V = \frac { q } { 4 \pi \epsilon _ { 0 } a }

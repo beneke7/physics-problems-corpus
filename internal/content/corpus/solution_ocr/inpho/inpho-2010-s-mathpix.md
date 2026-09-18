@@ -31,7 +31,8 @@ Figure 1:
 Figure 2:
 
 2.
-(a) $$
+(a)
+$$
 \begin{array} { l l }
 P _ { 1 } = \frac { 243 } { 32 } P _ { 0 } \quad ; \quad P _ { 2 } = \frac { 243 } { 32 } P _ { 0 } \quad ; \quad P _ { 3 } = \frac { 243 } { 32 } P _ { 0 } \\
 V _ { 1 } = \frac { 65 } { 27 } V _ { 0 } \quad ; \quad V _ { 2 } = \frac { 8 } { 27 } V _ { 0 } \quad ; \quad V _ { 3 } = \frac { 8 } { 27 } V _ { 0 } \\
@@ -56,7 +57,8 @@ Figure 3:
 $$
 = 0 \quad \text { for } r > R
 $$
-(e) $$
+(e)
+$$
 \begin{aligned}
 E & = \frac { \mu _ { 0 } Q R ^ { 2 } \alpha ^ { \prime } } { 4 \pi l r } & & \text { for } r \geq R \\
 & = \frac { \mu _ { 0 } Q r \alpha ^ { \prime } } { 4 \pi l } & & \text { for } r < R

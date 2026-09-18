@@ -216,7 +216,8 @@ $$
 [4]
 
 (i) bonseder the flow of heat from the copper strip through the insulating sheets. Heat, H, produced by current I, per unit length, is given by
-(1) $$
+(1)
+$$
 \begin{equation*}
 H = I ^ { 2 } R = I ^ { 2 } a ( 1 + b \theta ) \tag{A}
 \end{equation*}
@@ -244,7 +245,8 @@ I _ { c } & = \sqrt { \frac { 2 k \omega } { b a t } }
 \end{align*}
 $$
 \}
-(iii) $$
+(iii)
+$$
 \begin{align*}
 I _ { c } & = \sqrt { \frac { 2 \left( 1.30 \times 10 ^ { - 1 } \right) \left( 5.00 \times 10 ^ { - 3 } \right) } { \left( 4.3 \times 10 ^ { - 3 } \right) \left( 2.2 \times 10 ^ { - 2 } \right) \left( 1 \times 10 ^ { - 3 } \right) } }  \tag{1}\\
 & = 120 \mathrm {~A} \tag{1}
@@ -505,7 +507,8 @@ $$
 i _ { 2,6 } = \frac { 200 } { 6 + \left( \frac { 1 } { 2 } + \frac { 1 } { 4 } \right) ^ { - 1 } } = \frac { 2 \cdot 0 } { 6 + 4 / 3 } = \frac { 6 } { 22 } = \frac { 3 } { 11 } \mathrm { amps }
 $$
 $\therefore i _ { 1 } , b = - \frac { 4 } { 6 } \left( \frac { 6 } { 22 } \right) = - \frac { 2 } { 11 }$ amps
-(ii) $$
+(ii)
+$$
 i _ { 1,2 } = \frac { 6 \cdot 0 } { 2 + \left( \frac { 1 } { 4 } + \frac { 1 } { 6 } \right) ^ { - 1 } } = \frac { 6 \cdot 0 } { 2 + ( 5 / 12 ) ^ { - 1 } } = \frac { 5 ( 6 ) } { 22 } = \frac { 15 } { 11 } \mathrm { amps }
 $$
 $\therefore i _ { 2,2 } = - \frac { 4 } { 10 } \left( \frac { 15 } { 11 } \right) = - \frac { 6 } { 11 }$ amps

@@ -110,7 +110,8 @@ $$
 
 $$
 \ell ^ { 2 } = \frac { R m } { \rho d }
-$$ $\square$
+$$
+$\square$
 
 Therefore
 
@@ -146,7 +147,8 @@ Then
 
 $$
 \ell = \frac { 2 R } { \sqrt { n ^ { 2 } - 1 } } = \frac { 4 } { \sqrt { 1.46 ^ { 2 } - 1 } } = 3.5 ( 3 ) \mathrm { cm }
-$$ $\square$
+$$
+$\square$
 
 
 i) Beam of photons.
@@ -275,7 +277,8 @@ Area of copper and steel tubes
 
 $$
 \sum _ { i = 1 } ^ { 3 } A _ { i } = \pi \times 5.36 \times 10 ^ { - 4 } \mathrm {~m} ^ { 2 } \quad \sum _ { i = 1 } ^ { 3 } A _ { i } = \pi \times 1.34 \times 10 ^ { - 4 } \mathrm {~m} ^ { 2 }
-$$ $\square$
+$$
+$\square$
 
 And $\Sigma E _ { i } A _ { i } = \left( 200 \times 10 ^ { 9 } \times \pi \times 2.06 \times 10 ^ { - 4 } \right) + \left( 110 \times 10 ^ { 9 } \times 3.3 \times 10 ^ { - 4 } \right)$
 
@@ -294,7 +297,8 @@ $$
 & = 6.2 \times \frac { 2 \times 5.36 \times 10 ^ { - 4 } \times 0.30 } { 7.75 } \\
 & = 1.29 \times 10 ^ { - 4 } \mathrm {~m} \quad 5.16 \times 10 ^ { - 4 } \mathrm {~m}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 
 Stress in copper tubes $= E _ { \text {copper } } \frac { \delta \ell } { \ell } = 110 \times 10 ^ { 9 } \times \frac { 1.29 \times 10 ^ { - 4 } } { 0.3 } = 4.7 \times 10 ^ { 7 } \mathrm {~Pa}$
 
@@ -306,7 +310,8 @@ Total load $= \left( E _ { s } A _ { s } + E _ { c } A _ { c } \right) \times \f
 
 $$
 = 6.4 \times 10 ^ { 7 } \times \pi \times 5.36 \times 10 ^ { - 4 } \times \frac { \delta \ell } { \ell } = 1 \times 10 ^ { 5 } \mathrm {~N}
-$$ $\square$
+$$
+$\square$
 
 (5 marks)
 o) Standing wave on a wire.
@@ -332,7 +337,8 @@ $$
 E _ { \text {total } } & = \frac { 1 } { 2 } M _ { \text {wire } } A ^ { 2 } \omega ^ { 2 } \\
 & = 0.5 \times 6 \times 10 ^ { - 3 } \times \left( 1.8 \times 10 ^ { - 2 } \right) ^ { 2 } \times 4 \pi ^ { 2 } \times 118.6 ^ { 2 } = 0.54 \mathrm {~J}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (5 marks)
 
 p) Maximum power.
@@ -537,7 +543,8 @@ $$
 & = \frac { 1 } { 2 } 2.4 \times 2.29 \times 10 ^ { - 5 } \\
 & = 2.7 \times 10 ^ { - 5 } \mathrm {~m}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 
 
 ## Qu 2
@@ -623,7 +630,8 @@ $$
 & I _ { \text {leakage } } = \frac { V } { R } = \frac { 320 \times 10 ^ { 3 } } { 7.1 \times 10 ^ { 7 } } = 4.52 \times 10 ^ { - 3 } = 4.5 \mathrm {~mA} \\
 & \text { Loss } = I ^ { 2 } R = \left( 4.52 \times 10 ^ { - 3 } \right) ^ { 2 } \times 7.07 \times 10 ^ { 7 } = 1400 \mathrm {~W}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 Fractional loss $= \frac { 1400 } { 800 \times 10 ^ { 6 } } = 1.8 \times 10 ^ { - 6 } = 2 \times 10 ^ { - 4 } \%$
 (iii) • We expect a small temperature difference so we can do an approximate calculation for the thermal conduction though a cylindrical surface.
 Heat conductivity $P _ { \text {heat loss } } = \frac { k A \Delta T } { \Delta r } A =$ area heat transferred $= 2 \pi r _ { \text {average } } L$
@@ -643,7 +651,8 @@ $$
 & = a + b ( A + B \cos \omega t ) + c ( A + B \cos \omega t ) ^ { 2 } \\
 & = a + b A + b B \cos \omega t + c \left( A ^ { 2 } + 2 A B \cos \omega t + B ^ { 2 } \cos ^ { 2 } \omega t \right)
 \end{aligned}
-$$ $\square$
+$$
+$\square$
         - Use double angle trig identity $\cos ^ { 2 } \theta = \frac { 1 } { 2 } ( 1 + \cos 2 \theta )$ to give a term with $\cos ( 2 \omega t )$ :
 $$
 \begin{aligned}
@@ -670,7 +679,8 @@ $$
 
 $$
 I _ { \max } = I _ { 0 } + \frac { c B ^ { 2 } } { 2 } + ( b B + 2 c A B ) + \frac { c B ^ { 2 } } { 2 } = I _ { 0 } + A _ { 1 } + 2 A _ { 2 }
-$$ $\square$
+$$
+$\square$
 
 $$
 \begin{aligned}
@@ -690,7 +700,8 @@ So
 
 $$
 \frac { A _ { 2 } } { A _ { 1 } } = \frac { 1 } { 2 } ( \chi - 1 )
-$$ $\square$
+$$
+$\square$
 
 
 ## Qu 3.
@@ -807,7 +818,8 @@ $$
 & \ln \left( \frac { P ( h ) } { P _ { 0 } } \right) = \frac { M g } { R \alpha } \ln \left( \frac { T _ { 0 } - \alpha h } { T _ { 0 } } \right) \\
 & P ( h ) = P _ { 0 } \left( \frac { T _ { 0 } - \alpha h } { T _ { 0 } } \right) ^ { \frac { M g } { R \alpha } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 (5 marks)
 
@@ -818,12 +830,14 @@ $$
 & P ( 3000 ) = 1.01 \times 10 ^ { 5 } \left( \frac { 288 - 0.00976 \times 3000 } { 288 } \right) ^ { \frac { 0.0299 \times 9.81 } { 8.314 \times 0.00976 } } \\
 & P ( 3000 ) = 1.01 \times 10 ^ { 5 } \left( \frac { 259 } { 288 } \right) ^ { 3.51 } = 7.0 \times 10 ^ { 4 } \mathrm {~Pa}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (2 marks)
 (iii) • Pressure inside balloon: $\frac { P _ { 1 } V _ { 1 } } { T _ { 1 } } = \frac { P _ { 2 } V _ { 2 } } { T _ { 2 } }$
 $$
 \frac { 1.01 \times 10 ^ { 5 } \times V _ { 1 } } { 288 } = \frac { P _ { 2 } \times 1.3 \times V _ { 1 } } { 259 } \text { gives } P _ { 2 } = 70 \mathrm { kPa }
-$$ $\square$
+$$
+$\square$
 OR
 If the temperature of the hydrogen remains at 288 K then the pressure is given by $1.01 \times 10 ^ { 5 } \times V _ { 1 } = P _ { 2 } \times 1.3 V _ { 1 }$ and $P _ { 2 } = 78 \mathrm { kPa }$
     - Stress is given by the (pressure) × (area of cross section) ÷ (circumferential area of material)
@@ -884,7 +898,8 @@ $$
 & \frac { v _ { P } ^ { 2 } } { R _ { \mathrm { M } _ { \mathrm { o } } } ^ { 2 } } \left( R _ { \mathrm { M } _ { \mathrm { o } } } - R _ { \mathrm { E } _ { \mathrm { o } } } \right) \left( R _ { \mathrm { M } _ { \mathrm { o } } } + R _ { \mathrm { E } _ { \mathrm { o } } } \right) = 2 G M _ { s } \frac { \left( R _ { \mathrm { M } _ { \mathrm { o } } } - R _ { \mathrm { E } _ { \mathrm { o } } } \right) } { R _ { \mathrm { M } _ { \mathrm { o } } } R _ { \mathrm { E } _ { \mathrm { o } } } } \\
 & v _ { P } = \sqrt { \frac { 2 G M _ { s } } { \left( R _ { \mathrm { M } _ { \mathrm { o } } } + R _ { \mathrm { E } _ { \mathrm { o } } } \right) } \frac { R _ { \mathrm { M } _ { \mathrm { o } } } } { R _ { \mathrm { E } _ { \mathrm { o } } } } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 and
 $$
@@ -893,7 +908,8 @@ $$
 Earth's circular orbital speed is given by
 $$
 \frac { v _ { \mathrm { E } } ^ { 2 } } { R _ { \mathrm { E } _ { \mathrm { o } } } } = \frac { G M _ { s } } { R _ { \mathrm { E } } ^ { 2 } } \quad \rightarrow \quad v _ { \mathrm { E } _ { \mathrm { o } } } = \sqrt { \frac { G M _ { s } } { R _ { \mathrm { E } _ { \mathrm { o } } } } }
-$$ $\square$
+$$
+$\square$
 and Mars's orbital speed is
 $$
 v _ { \mathrm { M } } = \sqrt { \frac { G M _ { s } } { R _ { \mathrm { M } _ { \mathrm { o } } } } } \quad \text { (one mark for either) }
@@ -906,14 +922,16 @@ $$
 & v _ { P } = 32.6 = 33 \mathrm {~km} \mathrm {~s} ^ { - 1 } \\
 & v _ { \mathrm { E } } = 29.7 = 30 \mathrm {~km} \mathrm {~s} ^ { - 1 }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
     - In the section below, there is a mark for the graph as before, and a mark for the method to calculate the thrust.
 ![](../../../figures/solution-ocr/4dfc463d2d1ddedb8b94fb04.jpg)
 
 (viii) • Diagram $\square$
 
 
-- $$
+-
+$$
 d v = a d t = \frac { F } { m } d t
 $$
 $m = m _ { 0 } - k t \quad$ with $\quad k = \frac { \delta m } { t }$
@@ -958,11 +976,13 @@ $$
 & \left. 30 ^ { 2 } + 2 \times 780 \times 5370 + 6370 ^ { 2 } \right) \\
 & \mathrm { m }
 \end{aligned}
-$$ $\square$
+$$
+$\square$
     (ii) For $R = 2350 \mathrm {~km}$ the intensity is
 $$
 I \approx \frac { 200 } { \pi R ^ { 2 } } = 1.2 \times 10 ^ { - 11 } \mathrm { Wm } ^ { - 2 }
-$$ $\square$
+$$
+$\square$
     (iii) Some realistic derivation of the form, in a time $\Delta t$ there are $f _ { \mathrm { s } } \Delta t$ wavelengths emitted from a receding source which are received by a stationary observer.
 These wavelengths are covering a distance $( c + v ) \Delta t$
 The length of one of these wavelengths, $\lambda _ { \mathrm { o } } = \frac { ( c + v ) \Delta t } { f _ { \mathrm { s } } \Delta t }$
@@ -1079,14 +1099,16 @@ $2 x y + x ^ { 2 } - 1 = 0$ $\square$
 then
 $$
 \frac { i _ { 1 } } { i _ { 2 } } = 1 + \frac { i _ { 3 } } { i _ { 2 } }
-$$ $\square$
+$$
+$\square$
 So then
 $$
 \begin{aligned}
 \frac { i _ { 1 } } { i _ { 2 } } & = 1 + \frac { i _ { 3 } } { i _ { 2 } } = 1 + \frac { V } { y R } / \frac { V } { x R + R } \\
 & = 1 + \frac { x + 1 } { y } = \frac { ( x + y + 1 ) } { y }
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (iii) • $P _ { \text {input } }$ is power delivered by the cell $\left( = E i _ { 1 } - i _ { 1 } ^ { 2 } R \right)$
 but this is equal to the power dissipated in all the resistors. $\square$
     - Hence the required quantity is $\frac { i _ { 1 } ^ { 2 } x R + i _ { 2 } ^ { 2 } ( x + 1 ) R + i _ { 3 } ^ { 2 } y R } { i _ { 2 } ^ { 2 } R }$ □
@@ -1113,7 +1135,8 @@ $$
 & = \frac { ( x + 1 ) ^ { 2 } } { ( 1 - x ) } \left( \frac { x + ( 1 - x ) } { ( 1 - x ) } \right) \\
 & = \frac { ( 1 + x ) ^ { 2 } } { ( 1 - x ) ^ { 2 } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 f) (i) The resistance between the two hemispheres is $R = \frac { \rho \delta r } { 2 \pi r ^ { 2 } }$
 

@@ -64,7 +64,8 @@ $$
 Z _ { 0 } = \sqrt { L _ { x } / C _ { x } } \tag{A.10}
 \end{equation*}
 $$
-    ii. $$
+    ii.
+$$
 \begin{equation*}
 Z _ { 0 } = \sqrt { L _ { x } / C _ { x } } = \frac { \ln ( b / a ) } { 2 \pi } \sqrt { \frac { \mu _ { \mathrm { r } } \mu _ { 0 } } { \varepsilon _ { \mathrm { r } } \varepsilon _ { 0 } } } = \ln ( b / a ) \sqrt { \frac { \mu _ { \mathrm { r } } } { \varepsilon _ { \mathrm { r } } } } \times 59.96 \Omega \tag{A.11}
 \end{equation*}

@@ -374,7 +374,8 @@ So net force on man, mass $m$, is $4 m g$ (ie T-mg) Thes the greatest aceleratio
 
 Q4
 
-a) $$
+a)
+$$
 \text { (i) } \begin{array} { r l r l }
 \text { Marig the usual notation } & N & = N _ { 0 } e ^ { - \lambda t } \\
 \text { For the half life } \tau , & \frac { N _ { 0 } } { 2 } & = N _ { 0 } e ^ { - \lambda \tau } \\

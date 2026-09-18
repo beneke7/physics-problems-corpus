@@ -378,19 +378,19 @@ For $r < b$, the field is just that of a point charge at the origin, by the shel
 Incidentally, one can find the field for $r < a$ exactly using the method of image charges: for $r < a$, the shielding charges on the inner surface produce the exact same field as a single point charge would. The location of this "image" charge can be found by inverting the original point charge about the circle $r = a$.
 iii. Determine the electric potential at $x = a$.
 
-\section*{Solution}
+## Solution
 By the same logic as in part (a),
 $$
 V ( a ) = \frac { q } { 4 \pi \epsilon _ { 0 } b } .
 $$
 iv. Sketch a graph for the electric potential along the $x$ axis on the answer sheet provided.
 
-\section*{Solution}
+## Solution
 Again, the potential is proportional to $1 / r$ outside $r = b$, and is constant between $r = a$ and $r = b$. The potential inside is more complicated, diverging at $x = 2 a / 3$.
 ![](../../../figures/solution-ocr/4d2c5ca0d6b5628c2b9e8d4e.jpg)
 v. Sketch a figure showing the electric field lines (if any) inside, within, and outside the conducting shell on the answer sheet provided. You should show at least eight field lines in any distinct region that has a non-zero field.
 
-\section*{Solution}
+## Solution
 The field should be spherically symmetric outside the shell, zero within the shell, and nonuniform inside. The field lines should terminate perpendicular to the conductor.
 
 ![](../../../figures/solution-ocr/523f8cad8d3f9f74adb4be13.jpg)

@@ -566,7 +566,7 @@ the graph for finding $\epsilon _ { \text {max } }$ is used by including the poi
 - Final numerical value. If the value lies in range 4-7 (depends on the material, even 311 may be ok) 0.1 pts.
 ii) (7 points)
 
-\section*{Theoretical considerations.}
+## Theoretical considerations.
 
 We can assume the material has uniform thickness. Knowing that $\sigma = \frac { F } { A } , V =$ const, and that any force applied to the strip affects all directions perpendicular to the applied force equally, then at any time for the same strip
 $$
@@ -589,9 +589,7 @@ The 7 mm wide initially 80 mm long test strip broke at length 522 mm. Therefore 
 
 And the graph, $\frac { \sigma } { \sigma _ { \text {max } } }$ for the $\boldsymbol { Y }$ axis and $\boldsymbol { \epsilon }$ for the $X$ axis.
 
-\begin{figure}
 ![](../../../figures/solution-ocr/4fa8509742f2c4f83db7ba39.jpg)
-\end{figure}
 
 We make two identical elongated triangles from the longest piece of material available. We mark the triangles with evenly spaced perpendicular lines. (The lines are perpendicular to the central symmetry line of the elongated triangle.)
 ![](../../../figures/solution-ocr/212c2bd7b9e1ee07f8527f44.jpg)

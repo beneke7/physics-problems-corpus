@@ -12,7 +12,8 @@ provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical dis
 ---
 2011 BPLO Percer 2
 
-(a) $$
+(a)
+$$
 \begin{aligned}
 \therefore P V & = m R T \\
 ( 10 ) V & = m R ( 288 ) \\
@@ -33,7 +34,8 @@ $$
 (c) An electricfied lime is almi that at every print alongit the tangent is parallel to the field vector at that prient. (give l math for saying it is the path that a clased pother we led bate)
 ![](../../../figures/solution-ocr/ff74fc6449ca0f55f2b30712.jpg)
 (d) The is the equal to the tension withe cable at its support. If Tio the thesia and ve are man of its cable the equilariture of the cable requ
-(i) $$
+(i)
+$$
 \begin{aligned}
 2 T \sin 30 & = M g \\
 2 T \left( \frac { 1 } { 2 } \right) & = 100 ( 9.81 )

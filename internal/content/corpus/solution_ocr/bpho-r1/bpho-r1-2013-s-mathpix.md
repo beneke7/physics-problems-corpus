@@ -576,7 +576,8 @@ $$
 E = 2 R i _ { 2 } + i _ { 1 } R \quad \text { i } \quad E = \frac { 1 } { 2 } i _ { 2 } R = \frac { 9 } { 3 } i _ { 1 } R 2 \tag{2}
 \end{equation*}
 $$
-(d) $$
+(d)
+$$
 R _ { P S } = \frac { 2 R i _ { 2 } + R i _ { 1 } } { \left( i _ { 1 } + i _ { 2 } \right) } \frac { \text { i valtage acress } p T S } { \text { aureationtering at } P }
 $$
 $R _ { p s } = \frac { 7 } { 5 } R$
@@ -700,7 +701,8 @@ x & = \frac { 2 a \pm \sqrt { 4 a ^ { 2 } + 4 \cdot 3 a } } { 6 } \\
 $$
 Thus three are two roots to the quadratic equation $a$ onk $- \frac { 1 } { 3 } a$,
 $\left( - \frac { 1 } { 3 } a \right)$ comesponds to a non-zero electric feld where the electric field vectors from A a do add The orther solution $x = a$ comespondet on suigle pointe where these is zro electric feeld
-(c) $$
+(c)
+$$
 \frac { 4 Q } { 4 \pi \varepsilon _ { 0 } C _ { A } } - \frac { Q } { 4 \pi \varepsilon _ { B } r _ { B } } = \text { constant } = e \text { say } \frac { 4 } { r _ { B } } = c ^ { i } \text { whe c'a constant }
 $$
 Deference values of the constant poduce different surfaces

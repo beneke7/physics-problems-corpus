@@ -806,7 +806,7 @@
       "apho-2010-t3"
     ],
     "figure_count": 1,
-    "characters": 19943,
+    "characters": 19911,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -956,7 +956,7 @@
       "apho-2012-t3"
     ],
     "figure_count": 1,
-    "characters": 6812,
+    "characters": 6813,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -1031,7 +1031,7 @@
       "apho-2014-e1"
     ],
     "figure_count": 10,
-    "characters": 29065,
+    "characters": 29067,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -1153,7 +1153,7 @@
       "apho-2016-e1"
     ],
     "figure_count": 4,
-    "characters": 22952,
+    "characters": 22956,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -1787,7 +1787,7 @@
       "apho-2025-t3"
     ],
     "figure_count": 3,
-    "characters": 7636,
+    "characters": 7635,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match"
@@ -4658,7 +4658,7 @@
     "path": "content/corpus/solution_ocr/bpho-r1/bpho-r1-2014-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 21,
-    "characters": 40286,
+    "characters": 40287,
     "verification_status": "promoted",
     "canonical_solution": false,
     "archive_only": true
@@ -4674,7 +4674,7 @@
       "bpho-r1-2014-1-q1"
     ],
     "figure_count": 6,
-    "characters": 15063,
+    "characters": 15064,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -7978,7 +7978,7 @@
       "eupho-2022-E1"
     ],
     "figure_count": 7,
-    "characters": 37715,
+    "characters": 37707,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -9421,7 +9421,7 @@
     "path": "content/corpus/solution_ocr/inpho/inpho-2018-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 16,
-    "characters": 32847,
+    "characters": 32756,
     "verification_status": "promoted",
     "canonical_solution": false,
     "archive_only": true
@@ -11662,7 +11662,7 @@
       "ipho-2015-e2"
     ],
     "figure_count": 4,
-    "characters": 6422,
+    "characters": 6441,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -11813,7 +11813,7 @@
       "ipho-2017-e2"
     ],
     "figure_count": 3,
-    "characters": 15404,
+    "characters": 15406,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -23459,7 +23459,7 @@
     "path": "content/corpus/solution_ocr/nbpho/nbpho-2021-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 6,
-    "characters": 48945,
+    "characters": 48909,
     "verification_status": "promoted",
     "canonical_solution": false,
     "archive_only": true
@@ -24085,7 +24085,7 @@
     "path": "content/corpus/solution_ocr/nbpho/nbpho-2025-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 9,
-    "characters": 71673,
+    "characters": 71665,
     "verification_status": "promoted",
     "canonical_solution": false
   },
@@ -27001,7 +27001,7 @@
     "path": "content/corpus/solution_ocr/spot/spot-2025-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 21,
-    "characters": 66265,
+    "characters": 66237,
     "verification_status": "promoted",
     "canonical_solution": false,
     "archive_only": true
@@ -27017,7 +27017,7 @@
       "spot-2025-q1"
     ],
     "figure_count": 3,
-    "characters": 3066,
+    "characters": 3038,
     "verification_status": "promoted",
     "canonical_solution": true
   },
@@ -28648,7 +28648,7 @@
       "usapho-2014-a4"
     ],
     "figure_count": 6,
-    "characters": 5606,
+    "characters": 5582,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -28694,7 +28694,7 @@
     "path": "content/corpus/solution_ocr/usapho/usapho-2014-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 17,
-    "characters": 38643,
+    "characters": 38619,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match",
@@ -29013,7 +29013,7 @@
       "usapho-2017-b2"
     ],
     "figure_count": 4,
-    "characters": 8380,
+    "characters": 8372,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -29027,7 +29027,7 @@
     "path": "content/corpus/solution_ocr/usapho/usapho-2017-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 13,
-    "characters": 46103,
+    "characters": 46095,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match",
@@ -29219,7 +29219,7 @@
       "usapho-2019-b2"
     ],
     "figure_count": 2,
-    "characters": 5245,
+    "characters": 5229,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -29249,7 +29249,7 @@
     "path": "content/corpus/solution_ocr/usapho/usapho-2019-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 10,
-    "characters": 41978,
+    "characters": 41962,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match",
@@ -29522,7 +29522,7 @@
       "usapho-2022-b1"
     ],
     "figure_count": 1,
-    "characters": 4341,
+    "characters": 4333,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -29568,7 +29568,7 @@
     "path": "content/corpus/solution_ocr/usapho/usapho-2022-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 7,
-    "characters": 40684,
+    "characters": 40676,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match",
@@ -29916,7 +29916,7 @@
     "path": "content/corpus/solution_ocr/usatst/usatst-2021-t-s-mathpix.md",
     "mapped_problems": [],
     "figure_count": 7,
-    "characters": 36648,
+    "characters": 36632,
     "verification_status": "promoted",
     "canonical_solution": false,
     "link_reason": "source-document match",
@@ -29949,7 +29949,7 @@
       "usatst-2021-q2"
     ],
     "figure_count": 1,
-    "characters": 15713,
+    "characters": 15705,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -29965,7 +29965,7 @@
       "usatst-2021-q3"
     ],
     "figure_count": 4,
-    "characters": 10507,
+    "characters": 10499,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"
@@ -30008,7 +30008,7 @@
       "usatst-2022-q5"
     ],
     "figure_count": 8,
-    "characters": 34043,
+    "characters": 33988,
     "verification_status": "promoted",
     "canonical_solution": true,
     "link_reason": "source-document match"

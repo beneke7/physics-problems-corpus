@@ -10,7 +10,8 @@ mapped_problems: [apho-2012-t3]
 verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
-III. 1. [1.0 mark] Let the phase difference between two rays making an angle $\theta$ with $z$ direction be $\delta$. Clearly$$
+III. 1. [1.0 mark] Let the phase difference between two rays making an angle $\theta$ with $z$ direction be $\delta$. Clearly
+$$
 \begin{equation*}
 \delta = \omega \Delta t = \omega d \sin \theta / c \tag{1}
 \end{equation*}

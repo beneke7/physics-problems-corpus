@@ -166,7 +166,8 @@ $$
 $$
 
 
-e） $$
+e）
+$$
 \text { Patantial } \begin{aligned}
 V _ { A } & = \left( \frac { \frac { 1 } { 2 } } { a } + \frac { \frac { 1 } { 2 } } { a } + \frac { 1 } { \sqrt { 2 a } } \right) \left( \frac { 1 } { 4 \pi \varepsilon _ { a } } \right) \\
 & = \frac { Q } { 4 \pi \varepsilon _ { a } a } \left( 2 + \frac { \sqrt { 2 } } { 2 } \right)
@@ -233,7 +234,8 @@ Q2
 a） （i）Separation remainis constant equal to $l 1$ Both bass have same velocity $v = \sqrt { } 2 g h 1$
 （ii） $V _ { B } = \sqrt { 2 g h }$
 Remaining energy $E _ { R } = \frac { 1 } { 2 } M r _ { B } ^ { 2 } + M g l = M g ( h + l )$
-（iii） $$
+（iii）
+$$
 \begin{aligned}
 E & = 2 \left( \frac { 1 } { 2 } k x _ { c } ^ { 2 } \right) + M _ { g } \left( l - x _ { c } \right) \\
 & = k x _ { c } ^ { 2 } + M _ { g } \left( l - x _ { c } \right)
@@ -613,7 +615,8 @@ d） （i）If saduis seduced concervation of angular momentom vequeries the fre
 
 （ii） Deve to ufractare index of medium，different frequences world arrare at different turis． For non－disperswe meduin all frequencis arrive at same thise．Allematwely if refractive midex of medein changes arrwall turies for different frequencees alters． This can be measured by a surtable apparatios
 
-（ii） $$
+（ii）
+$$
 \begin{aligned}
 h _ { \nu } = \frac { h _ { c } } { \lambda } & = ( - 3.40 + 13.60 ) ^ { \prime } = 10.20 \mathrm { er } \\
 \lambda & = \frac { 1 } { h _ { c } } ( 10.20 ) \mathrm { e } \mathrm {~m} \\

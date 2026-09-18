@@ -13,7 +13,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 ---
 B2. a. Using ₹ to represent a unit vector in the $z$-direction, $\dot { B } = \mu _ { 0 } n \vec { \varepsilon }$ for $r < b$. (It is not necessary to derive this result from Ampere's Law )
 
-b. $$
+b.
+$$
 u _ { s } = \frac { 1 } { 2 \mu _ { u } } B ^ { 2 } = \frac { \mu _ { 0 } n ^ { 2 } t ^ { 2 } } { 2 } .
 $$
 It is also possible to derive this result from
@@ -48,7 +49,8 @@ Letting $\hat { r }$ represent a unit vector in the $r$-direction, Gauss's Law f
 $$
 \vec { E } = + \frac { Q } { 2 \pi \varepsilon _ { 11 } h r } \hat { r } .
 $$
-d. $$
+d.
+$$
 u _ { F } = \frac { 1 } { 7 } \varepsilon _ { n } E ^ { 2 } = \frac { Q ^ { 2 } } { 8 \pi ^ { 2 } \varepsilon _ { n } h ^ { 2 } r ^ { 2 } } .
 $$
 c. Use Faradays Law to find the induced electric freld at the location of each charged cylinder.

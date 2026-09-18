@@ -77,7 +77,8 @@ Reflection from its surface of the Eurth or Vanations in deriction of reflecting
 
 (e)
 
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 & x = 2.00 , T = 200 \mathrm {~K} , V = 6.00 \times 10 ^ { - 3 } \mathrm {~m} ^ { 3 } . \\
 & p = \frac { m R T } { V - m b } - \frac { n ^ { 2 } a } { V ^ { 2 } } = \frac { ( 2.00 ) ( 8.31 . ) ( 200 ) } { 6.00 \times 10 ^ { - 3 } - 2.00 \left( 3.9 \times 10 ^ { - 5 } \right) } - \frac { ( 2.00 ) ^ { 2 } ( 0.14 ) } { ( 6.00 ) ^ { 2 } \left( 10 ^ { - 6 } \right) }
@@ -197,7 +198,8 @@ $$
 $$
 2
 (iii) Loss in $K E = \frac { 1 } { 2 } ( 60 ) ( 12 ) ^ { 2 } = 4.32 \times 10 ^ { 3 } \mathrm {~J}$ 2
-(iv) $$
+(iv)
+$$
 \begin{aligned}
 \text { Mass of ice melted } & = \frac { 4.32 \times 10 ^ { 3 } } { 330 \times 10 ^ { 3 } } \mathrm {~kg} \\
 & = 1.31 \times 10 ^ { - 2 } \mathrm {~kg}
@@ -321,7 +323,8 @@ $$
 h = 334 t _ { 2 } = 334 ( 1.19 ) = 397 \pm 3 \mathrm {~m} \quad \frac { 1 } { 10 }
 $$
 
-c) $$
+c)
+$$
 \begin{aligned}
 & t _ { 1 } + t _ { 2 } = 10.2 \\
 & h = \frac { 1 } { 2 } g t _ { 1 } ^ { 2 } \\

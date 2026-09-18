@@ -183,7 +183,7 @@ $$
 
 E2 Graph: correct shape $U \quad 0.2$ minimum for $\alpha \in \left[ 35 ^ { \circ } , 45 ^ { \circ } \right] \quad 0.2$ $\delta \in \left[ 20 ^ { \circ } ; 24 ^ { \circ } \right] \quad 0.2$
 E3
-$( 0.2 )$$\quad$ halo $\Leftrightarrow \begin{array} { l l } \delta = \delta _ { \text {min } } & 0.1 \\ \delta = 21.8 ^ { \circ } & 0.1 \end{array} \quad \binom { \text { no } } { \text { need } }$
+$( 0.2 ) \quad$ halo $\Leftrightarrow \begin{array} { l l } \delta = \delta _ { \text {min } } & 0.1 \\ \delta = 21.8 ^ { \circ } & 0.1 \end{array} \quad \binom { \text { no } } { \text { need } }$
 Propagating errors
 numerical factor
 

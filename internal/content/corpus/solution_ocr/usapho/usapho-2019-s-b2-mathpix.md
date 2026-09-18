@@ -47,7 +47,7 @@ The angle Earth makes with MAR-Kappa is the angular shift it makes in the night 
 
 d. What is the radius of MAR-Kappa?
 
-\section*{Solution}
+## Solution
 The luminosity (total power given off by the star) is given by
 $$
 4 \pi D ^ { 2 } I = L = 4 \pi \left( 1.9 \times 10 ^ { 17 } \mathrm {~m} \right) ^ { 2 } \cdot \left( 1.12 \times 10 ^ { - 8 } \mathrm {~W} / \mathrm { m } ^ { 2 } \right) = 5.1 \times 10 ^ { 27 } \mathrm {~W} ,
@@ -58,7 +58,7 @@ Over the course of some time, you observe that the star's intensity periodically
 
 e. Estimate the exoplanet's radius, assuming that it is much closer to the star than to the Earth.
 
-\section*{Solution}
+## Solution
 The planet is sufficiently close to the star that we can just take the ratio of areas. Then, $R _ { p } ^ { 2 } / R _ { s } ^ { 2 } = 10 ^ { - 5 }$, so $R _ { p } = 10 ^ { - 2.5 } R _ { s } = 4.1 \times 10 ^ { 6 } \mathrm {~m}$.
 f. Assume the exoplanet is a blackbody with uniform temperature in a circular orbit around the star. What must $t$ be so that the planet has a temperature of 250 K? (If this were true, and the planet had an appropriate atmosphere, the temperature would increase enough to support life.) Copyright ©2019 American Association of Physics Teachers
 

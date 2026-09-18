@@ -517,13 +517,15 @@ $$
 
 The solutions of these inequalities are the following relations:
 
-a) $$
+a)
+$$
 \begin{equation*}
 \eta _ { 2 } > 1 , \tag{19}
 \end{equation*}
 $$
 that is, to fulfill this condition, the second ball must catch up with the first one;;
-b) $$
+b)
+$$
 \begin{equation*}
 \eta _ { 2 } < - \frac { 1 } { \mu } , \tag{20}
 \end{equation*}

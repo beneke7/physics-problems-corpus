@@ -26,7 +26,8 @@ v ( z ) = \left( \frac { 1 } { 2 \eta } \frac { d P } { d r } \right) \cdot z ^ 
 \end{equation*}
 $$
 (0.5 point)
-3.2) $$
+3.2)
+$$
 \begin{array} { l l }
 & v \left( \frac { b } { 2 } \right) = 0 = \left( \frac { 1 } { 2 \eta } \frac { d P } { d r } \right) \cdot \left( \frac { b } { 2 } \right) ^ { 2 } + C  \tag{. \(\ldots \ldots \ldots \ldots .\).}\\
 \therefore & C = - \frac { b ^ { 2 } } { 8 \eta } \frac { d P } { d r }

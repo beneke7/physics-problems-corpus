@@ -12,7 +12,8 @@ canonical_solution: true
 provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
 ---
 2.
-(a) $$
+(a)
+$$
 \begin{array} { l l }
 P _ { 1 } = \frac { 243 } { 32 } P _ { 0 } \quad ; \quad P _ { 2 } = \frac { 243 } { 32 } P _ { 0 } \quad ; \quad P _ { 3 } = \frac { 243 } { 32 } P _ { 0 } \\
 V _ { 1 } = \frac { 65 } { 27 } V _ { 0 } \quad ; \quad V _ { 2 } = \frac { 8 } { 27 } V _ { 0 } \quad ; \quad V _ { 3 } = \frac { 8 } { 27 } V _ { 0 } \\

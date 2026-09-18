@@ -28,14 +28,16 @@ NII
 $$
 \frac { M v ^ { 2 } } { r } = m g
 $$
-(b) $$
+(b)
+$$
 \begin{aligned}
 & \frac { M v ^ { 2 } } { r } = \frac { G M M _ { g } } { r ^ { 2 } } \\
 & \left( \frac { 2 \pi r } { T } \right) ^ { 2 } \frac { 1 } { r } = \frac { G M _ { g } } { r ^ { 2 } } \\
 & T ^ { 2 } = \frac { 4 \pi ^ { 2 } } { G M _ { g } } \cdot r ^ { 3 }
 \end{aligned}
 $$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 M _ { g } & = \frac { 4 \pi ^ { 2 } \cdot r ^ { 3 } } { G T ^ { 2 } } \\
 & = \frac { 4 \pi ^ { 2 } \times \left( 3 \times 10 ^ { 4 } \times 9 \cdot 46 \times 10 ^ { 15 } \right) ^ { 3 } } { 6 \cdot 67 \times 10 ^ { - 11 } \times \left( 200 \times 10 ^ { 6 } \times 3 \cdot 1 / 6 \times 10 ^ { 7 } \right) ^ { 2 } }

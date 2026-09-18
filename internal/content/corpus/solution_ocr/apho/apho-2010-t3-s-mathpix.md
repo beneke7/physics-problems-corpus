@@ -380,35 +380,35 @@ $$
 [^0]:    *An equation marked with an asterisk gives key answers to the problem.
     According to the de Broglie relation $p = h / \lambda \propto 1 / R$, the non-relativistic kinetic energy $E _ { \mathrm { k } }$ is inversely proportional to $R ^ { 2 }$, i.e.
 
-    $$
+$$
     \begin{equation*}
     E _ { \mathrm { k } } = \frac { p ^ { 2 } } { 2 m } = \frac { \text { const. } } { R ^ { 2 } } . \tag{a-3}
     \end{equation*}
-    $$
+$$
 
     By the work- energy theorem, we have
 
-    $$
+$$
     \begin{equation*}
     - P _ { \mathrm { e } } d V = d E _ { \mathrm { k } } = ( - 2 ) \frac { \text { const. } } { R ^ { 3 } } d R = - \frac { 2 } { R } E _ { \mathrm { k } } d R \tag{a-4}
     \end{equation*}
-    $$
+$$
 
     Thus,
 
-    $$
+$$
     \begin{equation*}
     - P _ { e } \left( 4 \pi R ^ { 2 } d R \right) = - \frac { 2 } { R } E _ { \mathrm { k } } d R \tag{a-5}
     \end{equation*}
-    $$
+$$
 
     or
 
-    $$
+$$
     \begin{equation*}
     P _ { \mathrm { e } } = \frac { 1 } { 2 \pi R ^ { 3 } } E _ { \mathrm { k } } \tag{a-6}
     \end{equation*}
-    $$
+$$
 
     [Alternative]
     The state of an electron confined in the bubble corresponds to standing waves which vanish on the interface. According to Part B of Question 1, these are equivalent to the superposition of two travelling waves moving in opposite directions and continually being reflected at the interface. They give rise to pressure on the interface and the relation

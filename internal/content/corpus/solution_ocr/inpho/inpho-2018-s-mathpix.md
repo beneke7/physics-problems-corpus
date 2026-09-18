@@ -15,11 +15,6 @@ canonical_solution: false
 
 Date: 28 January 2018
 Roll Number: 18 18 8 - - - |  |  |
-| :--- | :--- | - - - \begin{tabular} { | l | l | }
-
-\hline \& <br>
-\hline
-\end{tabular} □
 
 Time : 09:00-12:00 (3 hours) Maximum Marks: 75
 

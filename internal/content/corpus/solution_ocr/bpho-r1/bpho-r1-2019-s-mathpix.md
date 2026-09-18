@@ -52,7 +52,8 @@ $$
 \end{aligned}
 $$
 [margisted, direction]
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 S _ { v } & = u t - \frac { 1 } { 2 } g t ^ { 2 } \\
 & = u \sin 8 \cdot t - \frac { 1 } { 2 } g t ^ { 2 } \\
@@ -102,7 +103,8 @@ $$
 $$
 \frac { 3 \times 10 ^ { - 8 } } { 1 . e .0 .3 \times 10 ^ { - 7 } } \leqslant M \leqslant 9 \leqslant 9 \times 10 ^ { - 7 } \frac { \mathrm {~kg} } { \mathrm {~kg} }
 $$
-(d) $$
+(d)
+$$
 \begin{array} { l l }
 { [ a ] \text { is } } & \frac { m } { s ^ { 2 } } \\
 { [ b ] \text { is } } & \frac { k g } { s ^ { 2 } }
@@ -111,7 +113,8 @@ $$
 $$
 \text { cross sestional wran of strout is } A , b _ { \text {lyth } } , l \text {.. }
 $$
-(e) $$
+(e)
+$$
 \begin{aligned}
 & R _ { A l } = \frac { \rho _ { A l } \cdot l } { 6 A } \\
 & R _ { S } = \frac { \rho _ { S } \cdot l } { A }
@@ -785,7 +788,8 @@ $$
 & = 1.91 \times 10 ^ { 9 } \rho _ { \text {crenerse. } }
 \end{align*}
 $$
-(Vi) $$
+(Vi)
+$$
 \begin{aligned}
 & \therefore P _ { \text {conerste } } = \frac { 9.54 \times 10 ^ { 11 } } { \frac { 1 } { 2 } 2700 \times 60 ^ { 2 } \times 9.81 \times 40 } \\
 & = 500 \mathrm {~kg} / \mathrm { m }
@@ -814,7 +818,8 @@ z _ { 1 } - z _ { 1 } \frac { A _ { r } } { A _ { i } } = z _ { 2 } \frac { A _ 
 \end{gathered}
 $$
 ✓ for derivation Chightme fromenes. we frol requit etc.
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 \frac { A _ { t } } { A _ { i } } & = 1 + \frac { A _ { i } } { A _ { i } } \\
 & = \frac { z _ { 1 } + z _ { 2 } + z _ { 1 } - z _ { 2 } } { \left( z _ { 1 } + z _ { 2 } \right) } \\

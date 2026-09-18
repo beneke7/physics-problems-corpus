@@ -13,7 +13,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 ---
 Q9
 
-(a) $$
+(a)
+$$
 E = - \frac { 13 \cdot 6 } { m ^ { 2 } } \mathrm { eV }
 $$
 For Formsition from $x = 3$ to $x = 1 \quad \Delta E$ given by

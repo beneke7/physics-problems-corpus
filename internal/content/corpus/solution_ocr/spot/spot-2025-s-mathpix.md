@@ -42,9 +42,7 @@ Solution: No. All three trajectories are identical in the frame of the river bec
 Solution: As discussed before, we know that the trajectory of the ball in the rest frame of the water is identical. Thus, we also know that the horizontal displacement of the ball in all 3 cases is the same with respect to the water. The problem can be solved by considering the displacement of the starting position and that of the ball separately, in the frame of the moving water. The direction of the horizontal displacement of the ball is dependent on the direction of the velocity of the boat in the frame of the water.
 ![](../../../figures/solution-ocr/3bace1c990c6fcd168fc21c5.jpg)
 
-\begin{figure}
 ![](../../../figures/solution-ocr/fcd6ed9b3ace80e8d2fe1fdd.jpg)
-\end{figure}
 The red arrow shows the unknown displacement $l$ of the ball in the frame of the water while the blue arrow shows the displacement of the starting position defined in the lab frame, $u t$. Note that in case 3, $u t$ and $c$ are not perpendicular because
 
 the ball undergoes drag after it enters the river. We are able to form the following relationships:

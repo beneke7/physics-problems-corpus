@@ -14,7 +14,8 @@ provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical dis
 
 Q1
 
-(a) $$
+(a)
+$$
 \begin{aligned}
 \text { Intial energy } & = \frac { 1 } { 2 } m v _ { \text {initial } } ^ { 2 } = \frac { 1 } { 2 } ( 0.167 ) ( 25.0 ) ^ { 2 } \\
 \text { Final energy } & = m g h \\
@@ -44,7 +45,8 @@ D = 10 ^ { 3 } ( 917 ) \frac { 16.50 } { 2.50 } \\
 D = 6052 \mathrm {~km}
 \end{gathered}
 $$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 & T = 6052 / 800 \mathrm { hrs } . \\
 & T = 7 \mathrm { hrs } 34 \mathrm { mins }
@@ -95,7 +97,8 @@ $$
 \text { (i) } \lambda = \frac { \lambda } { \gamma } = \frac { 3.00 \times 10 ^ { 8 } } { 2 \times 10 ^ { 10 } } = 0.015 \mathrm {~m} = 1.5 \mathrm {~cm}
 $$
 
-(ii) $$
+(ii)
+$$
 E = \left( 2.5 \times 10 ^ { 4 } \right) 10 ^ { - 9 } = 2.5 \times 10 ^ { - 5 } \mathrm {~J}
 $$
 ![](../../../figures/solution-ocr/4cc85ebf51f76a41bbed33c2.jpg)
@@ -106,7 +109,8 @@ U & = \frac { E } { \pi R ^ { 2 } l } \quad \text { where lis length of puble } 
 & = \frac { 2.5 \times 10 ^ { - 5 } } { \pi ( 0.06 ) ^ { 2 } ( 0.30 ) } = 7.37 \times 10 ^ { - 3 } \mathrm { Jm } ^ { - 3 } \text { i }
 \end{aligned}
 $$
-(vi) $$
+(vi)
+$$
 P = \frac { 1 } { c } U = \frac { 7.37 \times 10 ^ { - 3 } } { 3 \times 10 ^ { 8 } } = 2.46 \times 10 ^ { - 11 } \mathrm { Jsm } ^ { - 4 }
 $$
 (h)
@@ -290,7 +294,8 @@ bomporing $\theta$ and 3
 $$
 \left( r _ { 1 } + r _ { 2 } + r _ { 3 } \right) = 13
 $$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 R _ { A B } & = r _ { 4 } + r _ { 5 } + \frac { r _ { 3 } \left( r _ { 1 } + r _ { 2 } + r _ { 3 } - r _ { 3 } \right) } { \left( r _ { 1 } + r _ { 2 } + r _ { 3 } \right) } \\
 & = r _ { 4 } + r _ { 5 } + \frac { r _ { 3 } \left( 13 - r _ { 3 } \right) } { 13 } \\
@@ -630,7 +635,8 @@ p V ( 2 - y ) = n R T _ { f } \tag{2}
 \end{gather*}
 $$
 
-(ii) $$
+(ii)
+$$
 \begin{align*}
 & W = p y V  \tag{3}\\
 & H = \frac { 3 } { 2 } \operatorname { Rm } \left( T _ { f } - T \right) \tag{3}
@@ -774,7 +780,8 @@ $$
 
 $Q .77$
 
-(b) $$
+(b)
+$$
 \text { (1) } \begin{aligned}
 N & = ( 1.4 \pm 0.7 ) 10 ^ { 4 } . \\
 \therefore \quad N _ { A } & = N - N _ { B } \\
@@ -782,7 +789,8 @@ N & = ( 1.4 \pm 0.7 ) 10 ^ { 4 } . \\
 \end{aligned}
 $$
 $- 0.169 / 2$
-(ii) $$
+(ii)
+$$
 \begin{array} { r l }
 7000 & = \frac { 3 } { 5 } ( 1.1 \pm 0.7 ) 10 ^ { 4 } e ^ { - \lambda _ { A } / 2 } + \frac { 11 } { 100 } 3.09 \times 10 ^ { 3 } \\
 & = \frac { 3 } { 5 } ( 1.1 \pm .7 ) 10 ^ { 4 } e ^ { - \lambda _ { A } / 2 } \\
@@ -817,7 +825,8 @@ v \cos \theta & = \frac { E } { B } = \frac { 10 ^ { 5 } } { 0.010 } = 10 ^ { 7 
 \end{aligned}
 $$
 Thus a $\beta$ particle travelling at angle $\theta$ sociefy this equation.
-(v) $$
+(v)
+$$
 v = \frac { 10 ^ { \pi } } { \cos \theta } \quad \operatorname { tran } ( \mathrm { iv } )
 $$
 So as $\theta = 0 \rightarrow 90 ^ { \circ } , \quad v = 10 ^ { \top } \rightarrow \infty \mathrm { ms } ^ { - 1 }$ However $V _ { \text {max } } = 7.25 \times 10 ^ { \top } \mathrm { ms } ^ { - 1 }$ from (iii) Consequently the range of $\mathrm { V } = 10 ^ { 7 } \rightarrow 7.25 \times 10 ^ { 7 } \mathrm {~ms} ^ { - 1 }$

@@ -53,7 +53,8 @@ $$
 ![](../../../figures/solution-ocr/39d7f1500193454553f0c5e1.jpg)
 
 （c） Total nimitames goen by
-（1） $$
+（1）
+$$
 \begin{aligned}
 & R _ { T } = 2 R + \left( \frac { 1 } { R } + \frac { 1 } { R } + \frac { 1 } { R } \right) ^ { - 1 } \\
 & R _ { T } = \frac { 7 } { 3 } R .

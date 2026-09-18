@@ -13,7 +13,8 @@ provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical dis
 ---
 ## A Self-excited Magnetic Dynamo
 
-2.1) $$
+2.1)
+$$
 \begin{equation*}
 L \frac { d } { d t } \dot { i } + R i = \mathcal { E } \tag{i}
 \end{equation*}

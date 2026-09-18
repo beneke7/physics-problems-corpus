@@ -60,7 +60,8 @@ q ^ { 1 }  \tag{1}\\
 \end{array} \right\} \rightarrow x
 $$
 
-(b) $$
+(b)
+$$
 \begin{aligned}
 S _ { 0 } & = 2 L \sin \theta _ { 0 } \\
 S ^ { \prime } & = 2 L \sin \left( \theta _ { 0 } + d \right) \\
@@ -148,7 +149,8 @@ $$
 \text { he } < 0
 \end{array}
 $$
-(d) $$
+(d)
+$$
 e V _ { \text {stop } } = 13.6 \mathrm { eV } \Rightarrow V _ { \text {stop } } = 13.6 V _ { \text {olth } }
 $$
 
@@ -278,7 +280,8 @@ z = \frac { L ^ { 2 } \left( \frac { 1 } { \beta } + 1 \right) } { 2 m r _ { 1 }
 \end{gathered}
 $$
 
-(b) $$
+(b)
+$$
 \begin{aligned}
 & E _ { \text {final } } + h f = E _ { \text {initial } } 0 \quad \begin{array} { l }
 \text { "mitial" and } \\

@@ -54,7 +54,8 @@ or, to recover $\mathrm { v } _ { 0 }$ the pump must supply an additional pressu
 
 ## Part 3c
 
-1. $$
+1.
+$$
 \begin{equation*}
 u = \frac { c } { n } \quad u ^ { \prime } = \frac { \frac { c } { n } + v } { 1 + \frac { c } { n } \frac { v } { c ^ { 2 } } } = \frac { \frac { c } { n } + v } { 1 + \frac { v } { c n } } \tag{0.5pts}
 \end{equation*}

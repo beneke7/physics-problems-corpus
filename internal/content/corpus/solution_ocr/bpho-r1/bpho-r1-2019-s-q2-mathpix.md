@@ -91,7 +91,8 @@ $$
 & = 1.91 \times 10 ^ { 9 } \rho _ { \text {crenerse. } }
 \end{align*}
 $$
-(Vi) $$
+(Vi)
+$$
 \begin{aligned}
 & \therefore P _ { \text {conerste } } = \frac { 9.54 \times 10 ^ { 11 } } { \frac { 1 } { 2 } 2700 \times 60 ^ { 2 } \times 9.81 \times 40 } \\
 & = 500 \mathrm {~kg} / \mathrm { m }
@@ -120,7 +121,8 @@ z _ { 1 } - z _ { 1 } \frac { A _ { r } } { A _ { i } } = z _ { 2 } \frac { A _ 
 \end{gathered}
 $$
 ✓ for derivation Chightme fromenes. we frol requit etc.
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 \frac { A _ { t } } { A _ { i } } & = 1 + \frac { A _ { i } } { A _ { i } } \\
 & = \frac { z _ { 1 } + z _ { 2 } + z _ { 1 } - z _ { 2 } } { \left( z _ { 1 } + z _ { 2 } \right) } \\

@@ -110,7 +110,8 @@ $$
 
 $$
 \ell ^ { 2 } = \frac { R m } { \rho d }
-$$ $\square$
+$$
+$\square$
 
 Therefore
 
@@ -146,7 +147,8 @@ Then
 
 $$
 \ell = \frac { 2 R } { \sqrt { n ^ { 2 } - 1 } } = \frac { 4 } { \sqrt { 1.46 ^ { 2 } - 1 } } = 3.5 ( 3 ) \mathrm { cm }
-$$ $\square$
+$$
+$\square$
 
 
 i) Beam of photons.
@@ -275,7 +277,8 @@ Area of copper and steel tubes
 
 $$
 \sum _ { i = 1 } ^ { 3 } A _ { i } = \pi \times 5.36 \times 10 ^ { - 4 } \mathrm {~m} ^ { 2 } \quad \sum _ { i = 1 } ^ { 3 } A _ { i } = \pi \times 1.34 \times 10 ^ { - 4 } \mathrm {~m} ^ { 2 }
-$$ $\square$
+$$
+$\square$
 
 And $\Sigma E _ { i } A _ { i } = \left( 200 \times 10 ^ { 9 } \times \pi \times 2.06 \times 10 ^ { - 4 } \right) + \left( 110 \times 10 ^ { 9 } \times 3.3 \times 10 ^ { - 4 } \right)$
 
@@ -294,7 +297,8 @@ $$
 & = 6.2 \times \frac { 2 \times 5.36 \times 10 ^ { - 4 } \times 0.30 } { 7.75 } \\
 & = 1.29 \times 10 ^ { - 4 } \mathrm {~m} \quad 5.16 \times 10 ^ { - 4 } \mathrm {~m}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 
 Stress in copper tubes $= E _ { \text {copper } } \frac { \delta \ell } { \ell } = 110 \times 10 ^ { 9 } \times \frac { 1.29 \times 10 ^ { - 4 } } { 0.3 } = 4.7 \times 10 ^ { 7 } \mathrm {~Pa}$
 
@@ -306,7 +310,8 @@ Total load $= \left( E _ { s } A _ { s } + E _ { c } A _ { c } \right) \times \f
 
 $$
 = 6.4 \times 10 ^ { 7 } \times \pi \times 5.36 \times 10 ^ { - 4 } \times \frac { \delta \ell } { \ell } = 1 \times 10 ^ { 5 } \mathrm {~N}
-$$ $\square$
+$$
+$\square$
 
 (5 marks)
 o) Standing wave on a wire.
@@ -332,7 +337,8 @@ $$
 E _ { \text {total } } & = \frac { 1 } { 2 } M _ { \text {wire } } A ^ { 2 } \omega ^ { 2 } \\
 & = 0.5 \times 6 \times 10 ^ { - 3 } \times \left( 1.8 \times 10 ^ { - 2 } \right) ^ { 2 } \times 4 \pi ^ { 2 } \times 118.6 ^ { 2 } = 0.54 \mathrm {~J}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (5 marks)
 
 p) Maximum power.
@@ -537,4 +543,5 @@ $$
 & = \frac { 1 } { 2 } 2.4 \times 2.29 \times 10 ^ { - 5 } \\
 & = 2.7 \times 10 ^ { - 5 } \mathrm {~m}
 \end{aligned}
-$$ $\square$
+$$
+$\square$

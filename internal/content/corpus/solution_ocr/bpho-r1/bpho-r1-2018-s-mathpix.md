@@ -73,7 +73,8 @@ $$
 Argle wrong, lose a mart of used correctly.
 
 
-(c) $$
+(c)
+$$
 \text { (i) } \begin{aligned}
 & \frac { d s } { d t } = 6 t ^ { 2 } - 18 t + 12 \\
 & \dot { s } = 0 \Rightarrow \quad t _ { 0 } ^ { 2 } - 3 t _ { 0 } + 2 = 0 \\
@@ -83,13 +84,15 @@ $$
 
 Page 2
 
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \frac { d ^ { 2 } s } { d t ^ { 2 } } & = 12 t - 18 \\
 \quad s & = 0 \Rightarrow \quad t _ { a = 0 } = \frac { 3 } { 2 } = 1.5 \mathrm {~s}
 \end{aligned}
 $$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 \dot { S } \text { at } t & = \frac { 3 } { 2 } s \\
 \dot { S } _ { a = 0 } = V & = 6 \left( \frac { 3 } { 2 } \right) ^ { 2 } - 18 \frac { 3 } { 2 } + 12 \\
@@ -1714,13 +1717,15 @@ $$
 
 ![](../../../figures/solution-ocr/8b97042d51b44c52905d730d.jpg)
 
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 & V _ { i } = \frac { 1 } { 4 \pi \varepsilon _ { 0 } } \cdot \frac { Q } { 0.1 } \\
 & V _ { 0 } = \frac { 1 } { 4 \pi \varepsilon _ { 0 } } - \frac { Q } { 0.15 }
 \end{aligned}
 $$
-(iv) $$
+(iv)
+$$
 \begin{aligned}
 V _ { i } - V _ { 0 } = 120 V & = \frac { 1 } { 4 \pi \varepsilon _ { 0 } } \cdot Q \left( \frac { 1 } { 0.1 } - \frac { ( - 1 ) } { 0.15 } \right) \\
 120 & = 8.94 \times 10 ^ { 9 } \cdot Q \left( \frac { 0.25 } { 0.015 } \right) \\

@@ -241,7 +241,8 @@ Solution. This is the first 2/3 of APhO 2011, problem 1. The answers are:
 2. $\mathcal { E } _ { 2 } = \pi \mu _ { 0 } r ^ { 2 } \dot { I } _ { 1 } / ( 2 R )$
 3. $E = \mu _ { 0 } r ^ { 2 } \dot { I } _ { 1 } / \left( 4 R ^ { 2 } \right)$
 4. $\Delta p = \mu _ { 0 } r ^ { 2 } I Q / \left( 4 R ^ { 2 } \right)$
-5. $$
+5.
+$$
 p = \frac { m I \ell } { q } \left( 1 - \left( \frac { I } { n A q c } \right) ^ { 2 } \right) ^ { - 1 / 2 }
 $$
 6. The momenta of the top and bottom sides cancel by symmetry. The left and right sides have a potential difference $\Delta U = k Q q \ell / R ^ { 2 }$, and carry the same current $I = q \lambda _ { 1 } v _ { 1 } = q \lambda _ { 2 } v _ { 2 }$. Energy conservation gives $\left( \gamma _ { 2 } - \gamma _ { 1 } \right) m c ^ { 2 } = \Delta U$. The total momentum is

@@ -65,6 +65,7 @@ Table D1
 | 11 | 160 | 1.545 | 0.386 | 0.00386 |
 
 
+\[\begin{gathered}
 \omega ^ { 2 } = \frac { \sigma } { \rho } k ^ { q } \\
 f ^ { 2 } = \frac { 1 } { 4 \pi ^ { 2 } } \frac { \sigma } { \rho } \left( \frac { 2 \pi } { \lambda } \frac { \sin \theta } { L } \right) ^ { q } \left( x _ { 1 } \right) ^ { q } \\
 \ln f = \frac { 1 } { 2 } \ln \left[ \frac { 1 } { 4 \pi ^ { 2 } } \frac { \sigma } { \rho } \left( \frac { 2 \pi } { \lambda } \frac { \sin \theta } { L } \right) ^ { q } \right] + \frac { q } { 2 } \ln x _ { 1 }

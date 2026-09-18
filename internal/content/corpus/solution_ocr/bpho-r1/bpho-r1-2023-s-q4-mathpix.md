@@ -52,7 +52,8 @@ $$
 & \frac { v _ { P } ^ { 2 } } { R _ { \mathrm { M } _ { \mathrm { o } } } ^ { 2 } } \left( R _ { \mathrm { M } _ { \mathrm { o } } } - R _ { \mathrm { E } _ { \mathrm { o } } } \right) \left( R _ { \mathrm { M } _ { \mathrm { o } } } + R _ { \mathrm { E } _ { \mathrm { o } } } \right) = 2 G M _ { s } \frac { \left( R _ { \mathrm { M } _ { \mathrm { o } } } - R _ { \mathrm { E } _ { \mathrm { o } } } \right) } { R _ { \mathrm { M } _ { \mathrm { o } } } R _ { \mathrm { E } _ { \mathrm { o } } } } \\
 & v _ { P } = \sqrt { \frac { 2 G M _ { s } } { \left( R _ { \mathrm { M } _ { \mathrm { o } } } + R _ { \mathrm { E } _ { \mathrm { o } } } \right) } \frac { R _ { \mathrm { M } _ { \mathrm { o } } } } { R _ { \mathrm { E } _ { \mathrm { o } } } } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 and
 $$
@@ -61,7 +62,8 @@ $$
 Earth's circular orbital speed is given by
 $$
 \frac { v _ { \mathrm { E } } ^ { 2 } } { R _ { \mathrm { E } _ { \mathrm { o } } } } = \frac { G M _ { s } } { R _ { \mathrm { E } } ^ { 2 } } \quad \rightarrow \quad v _ { \mathrm { E } _ { \mathrm { o } } } = \sqrt { \frac { G M _ { s } } { R _ { \mathrm { E } _ { \mathrm { o } } } } }
-$$ $\square$
+$$
+$\square$
 and Mars's orbital speed is
 $$
 v _ { \mathrm { M } } = \sqrt { \frac { G M _ { s } } { R _ { \mathrm { M } _ { \mathrm { o } } } } } \quad \text { (one mark for either) }
@@ -74,14 +76,16 @@ $$
 & v _ { P } = 32.6 = 33 \mathrm {~km} \mathrm {~s} ^ { - 1 } \\
 & v _ { \mathrm { E } } = 29.7 = 30 \mathrm {~km} \mathrm {~s} ^ { - 1 }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
     - In the section below, there is a mark for the graph as before, and a mark for the method to calculate the thrust.
 ![](../../../figures/solution-ocr/4dfc463d2d1ddedb8b94fb04.jpg)
 
 (viii) • Diagram $\square$
 
 
-- $$
+-
+$$
 d v = a d t = \frac { F } { m } d t
 $$
 $m = m _ { 0 } - k t \quad$ with $\quad k = \frac { \delta m } { t }$
@@ -126,11 +130,13 @@ $$
 & \left. 30 ^ { 2 } + 2 \times 780 \times 5370 + 6370 ^ { 2 } \right) \\
 & \mathrm { m }
 \end{aligned}
-$$ $\square$
+$$
+$\square$
     (ii) For $R = 2350 \mathrm {~km}$ the intensity is
 $$
 I \approx \frac { 200 } { \pi R ^ { 2 } } = 1.2 \times 10 ^ { - 11 } \mathrm { Wm } ^ { - 2 }
-$$ $\square$
+$$
+$\square$
     (iii) Some realistic derivation of the form, in a time $\Delta t$ there are $f _ { \mathrm { s } } \Delta t$ wavelengths emitted from a receding source which are received by a stationary observer.
 These wavelengths are covering a distance $( c + v ) \Delta t$
 The length of one of these wavelengths, $\lambda _ { \mathrm { o } } = \frac { ( c + v ) \Delta t } { f _ { \mathrm { s } } \Delta t }$

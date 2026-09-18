@@ -82,7 +82,8 @@ But they cannot obtain the gain as $V _ { \text {in } }$ is missing. So you will
 In the China paper, the correction was made: $V _ { \text {out } } = A _ { 0 } \left( V _ { \text {in } } - v \right)$
 
 
-i. $$
+i.
+$$
 i = \frac { V _ { \text {out } } } { R _ { 1 } + R _ { 2 } } \text { and } i = \frac { v } { R _ { 2 } }
 $$
 [2]
@@ -117,7 +118,8 @@ i = \frac { V _ { \text {in } } } { R _ { \text {in } } } \\
 0 - V _ { \text {out } } = \frac { Q } { C } \tag{2}
 \end{gather*}
 $$
-    ii. $$
+    ii.
+$$
 - \frac { d V _ { \mathrm { out } } } { d t } = \frac { 1 } { C } \frac { d Q } { d t }
 $$
 so that

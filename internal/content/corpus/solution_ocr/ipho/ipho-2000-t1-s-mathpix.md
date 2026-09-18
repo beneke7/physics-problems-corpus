@@ -148,7 +148,8 @@ $$
 
 ## C Radioactivity and age of the Earth
 
-(a) $$
+(a)
+$$
 \begin{array} { l l }
 N = N _ { 0 } \mathrm { e } ^ { i } \quad & N _ { 0 } = \text { original number } \\
 n = N _ { 0 } \left( 1 - \mathrm { e } ^ { \langle \lambda } \right) &

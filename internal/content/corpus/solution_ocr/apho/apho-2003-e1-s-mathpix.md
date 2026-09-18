@@ -14,12 +14,14 @@ provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical dis
 
 ## I. Determination of Capacitance
 
-a) $$
+a)
+$$
 \begin{equation*}
 \bar { P } = I ^ { 2 } R = \frac { \frac { 1 } { 2 } \mathcal { E } _ { 0 } { } ^ { 2 } } { R ^ { 2 } + \left( \frac { 1 } { \omega C } \right) ^ { 2 } } R \tag{1.0point}
 \end{equation*}
 $$
-b) $$
+b)
+$$
 \begin{equation*}
 \frac { d } { d R } \bar { P } = 0 \tag{0.3point}
 \end{equation*}

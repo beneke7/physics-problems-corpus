@@ -237,15 +237,19 @@ The setup consists of two identical metal disks D and D' of radius $b$ mounted o
 
 Solution. This is the first 2/3 of IPhO 2005, problem 2, and it's partly a test of your ability to read real setups. The answers are:
 
-1. $$
+1.
+$$
 \mathcal { E } = N \pi a ^ { 2 } B _ { 0 } \omega \sin ( \omega t ) , \quad \langle P \rangle = \frac { 1 } { 2 } \frac { \left( N \pi a ^ { 2 } B _ { 0 } \omega \right) ^ { 2 } } { R }
 $$
-2. $$
+2.
+$$
 R = \frac { \mu _ { 0 } N ^ { 2 } \pi a \omega } { 4 \tan \theta }
 $$
-3. $$
+3.
+$$
 \mathcal { E } = \frac { \mu _ { 0 } b ^ { 2 } \omega I N } { 2 a }
 $$
-4. $$
+4.
+$$
 R = \frac { \mu _ { 0 } b ^ { 2 } \omega N } { 2 a }
 $$

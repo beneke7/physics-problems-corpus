@@ -532,13 +532,10 @@ The only way to get the dimensions to match is $\alpha = 1 , \beta = - 5$, and $
 $$
 P = k \frac { G } { c ^ { 5 } } \left( \frac { d ^ { 3 } I } { d t ^ { 3 } } \right) ^ { 2 } .
 $$
-\begin{itemize}
-
-
 (b)For two black holes circularly orbiting each other in the $x y$ plane, with center of mass at the origin, find the moment of inertia $I _ { y } ( t )$ about the $y$-axis in terms of $M _ { 1 } , M _ { 2 } , R$, and the angular frequency $\omega$, defining the origin of time so that $I _ { y } ( 0 ) = 0$.
 
 
-\item[] [^0]\end{itemize}
+[^0]
 
 
 ## Solution
@@ -671,7 +668,7 @@ Graph downloaded from LIGO Open Science Center, operated by California Institute
 
 i. Estimate the maximum gravitational wave frequency, and thereby estimate the total mass $M$, giving your answer as a multiple of the solar mass $M _ { \odot }$.
 
-\section*{Solution}
+## Solution
 By looking at the period starting near $t = 0.42 \mathrm {~s}$, we estimate a maximum gravitational wave frequency 150 Hz. By part 4(b), this implies a maximum orbital frequency 75 Hz. From part 2(c) we have
 $$
 M = \frac { \sqrt { 2 } c ^ { 3 } } { 8 \pi G f _ { \max } } = 150 M _ { \odot } .
@@ -685,7 +682,7 @@ Copyright ©2022 American Association of Physics Teachers
 order of magnitude, but it's still far off because our expression for the maximum orbital frequency is itself a rough approximation. It's possible to extract $M$ from the final stages of the merger, but it requires something more sophisticated than what we've done.
 ii. Estimate the chirp mass $M _ { c }$, giving your answer as a multiple of the solar mass $M _ { \odot }$.
 
-\section*{Solution}
+## Solution
 Solving the result of part 4(a) for $M _ { c }$ and reexpressing the result in terms of $f _ { g }$ gives
 $$
 M _ { c } = \frac { c ^ { 3 } } { G } \left( \frac { 5 } { 96 \pi ^ { 8 / 3 } } f _ { g } ^ { - 11 / 3 } \frac { d f _ { g } } { d t } \right) ^ { 3 / 5 } .

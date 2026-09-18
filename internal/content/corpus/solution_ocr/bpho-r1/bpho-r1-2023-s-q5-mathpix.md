@@ -98,14 +98,16 @@ $2 x y + x ^ { 2 } - 1 = 0$ $\square$
 then
 $$
 \frac { i _ { 1 } } { i _ { 2 } } = 1 + \frac { i _ { 3 } } { i _ { 2 } }
-$$ $\square$
+$$
+$\square$
 So then
 $$
 \begin{aligned}
 \frac { i _ { 1 } } { i _ { 2 } } & = 1 + \frac { i _ { 3 } } { i _ { 2 } } = 1 + \frac { V } { y R } / \frac { V } { x R + R } \\
 & = 1 + \frac { x + 1 } { y } = \frac { ( x + y + 1 ) } { y }
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (iii) • $P _ { \text {input } }$ is power delivered by the cell $\left( = E i _ { 1 } - i _ { 1 } ^ { 2 } R \right)$
 but this is equal to the power dissipated in all the resistors. $\square$
     - Hence the required quantity is $\frac { i _ { 1 } ^ { 2 } x R + i _ { 2 } ^ { 2 } ( x + 1 ) R + i _ { 3 } ^ { 2 } y R } { i _ { 2 } ^ { 2 } R }$ □
@@ -132,7 +134,8 @@ $$
 & = \frac { ( x + 1 ) ^ { 2 } } { ( 1 - x ) } \left( \frac { x + ( 1 - x ) } { ( 1 - x ) } \right) \\
 & = \frac { ( 1 + x ) ^ { 2 } } { ( 1 - x ) ^ { 2 } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 f) (i) The resistance between the two hemispheres is $R = \frac { \rho \delta r } { 2 \pi r ^ { 2 } }$
 

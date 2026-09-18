@@ -537,7 +537,7 @@ Note: according the official solution, the answer does not depend on how much of
 - Justified numerical answer (4) 0.3 pts
 - A final solution that does not depend on fixing any unknown parameters 2 pts
 
-\section*{7. Charged rod (6 points) - Solution by Jaan} Kalda, grading schemes by....
+## 7. Charged rod (6 points) - Solution by Jaan Kalda, grading schemes by....
 i) (2 points) Notice that all particles with the same charge-to-mass ratio orbit in a homogeneous magnetic field $B$ with the same frequency $\omega _ { B } = \frac { B q } { m }$; the orbit is a circle of radius $r = \frac { v } { \omega _ { B } }$. Indeed, the Lorentz force must provide the centripetal acceleration, hence $B q v = m v \omega _ { B } \Rightarrow \omega _ { B } = \frac { B q } { m }$.
 Since the mass-to-charge ratio is the same
 

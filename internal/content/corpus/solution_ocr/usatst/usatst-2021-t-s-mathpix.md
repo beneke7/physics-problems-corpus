@@ -277,7 +277,7 @@ $$
 $$
 (c) The energy density of the axion field is $m ^ { 2 } a _ { 0 } ^ { 2 } / \left( 2 \hbar ^ { 3 } c \right)$. Find the axion field amplitude $a _ { 0 }$.
 
-\section*{Solution}
+## Solution
 The dark matter density comes from the mass-energy of the axion field, so
 $$
 \rho c ^ { 2 } = \frac { m ^ { 2 } a _ { 0 } ^ { 2 } } { 2 \hbar ^ { 3 } c } , \quad a _ { 0 } = \sqrt { \frac { 2 \rho \hbar ^ { 3 } c ^ { 3 } } { m ^ { 2 } } } .
@@ -606,7 +606,7 @@ Experiments in the 20th century revealed that in many materials, the Hall resist
 ![](../../../figures/solution-ocr/fd8c8ce9d3d46632886e328c.jpg)
     (a) If the electrons all have the same speed, what is the angular momentum of each electron?
 
-\section*{Solution}
+## Solution
 The current is $I = q _ { e } n _ { V } a A _ { w }$, where $v$ is the speed of each electron. Then the angular momentum is
 $$
 m _ { e } v R \hat { \mathbf { z } } = \frac { I m _ { e } R } { q _ { e } n _ { V } A _ { w } } \hat { \mathbf { z } } .

@@ -66,7 +66,8 @@ $$
 
 with the current directions and magnitudes in terms of I shown in the above diagram.
 
-b. $$
+b.
+$$
 \begin{gathered}
 P = \sum I ^ { 2 } R = R \left\{ ( 6 I ) ^ { 2 } + 2 ( 3 I ) ^ { 2 } + 2 ( 2 I ) ^ { 2 } + 4 ( I ) ^ { 2 } \right\} \\
 P = I ^ { 2 } R ( 36 + 18 + 8 + 4 ) = 66 I ^ { 2 } R \\

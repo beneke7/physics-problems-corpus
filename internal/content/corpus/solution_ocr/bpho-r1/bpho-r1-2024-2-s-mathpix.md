@@ -102,7 +102,8 @@ c) (i) $I _ { r } = \frac { V } { r } \quad$ and $I _ { C } = \frac { \mathrm { 
 At steady state, there is no change on $Q _ { \text {capacitor } }$, so $\frac { \mathrm { d } Q } { \mathrm {~d} t } = 0$ and then $\frac { Q _ { \mathrm { ss } } } { C } = I _ { 0 } r$
 $$
 Q _ { \mathrm { ss } } = I _ { 0 } r C
-$$ $\square$
+$$
+$\square$
 and the energy stored $= \frac { Q _ { \mathrm { ss } } ^ { 2 } } { 2 C } = \frac { 1 } { 2 } I _ { 0 } ^ { 2 } r ^ { 2 } C$ $\square$
 (ii) Power incident - power lost = rate of increase of energy,
 $$
@@ -219,7 +220,8 @@ Then $P = \rho _ { \mathrm { T } } \cdot A _ { 8 } \cdot \left( \frac { m _ { \m
 
 d) (i) - $F _ { 8 } = \sqrt { D ^ { 2 } + W ^ { 2 } }$
 ![](../../../figures/solution-ocr/76a227e0a5422d1bf86e2528.jpg)
-    (ii) $$
+    (ii)
+$$
 D = \sqrt { F _ { 8 } ^ { 2 } - W ^ { 2 } } = \sqrt { \left( \rho _ { \mathrm { T } } \cdot A _ { 8 } \cdot v _ { \mathrm { tip } } ^ { 2 } \right) ^ { 2 } - \left( m _ { \mathrm { D } } \cdot g _ { \mathrm { T } } \right) ^ { 2 } }
 $$
 Hence
@@ -230,7 +232,8 @@ So
 $$
 v _ { \text {air } } ^ { 4 } = v _ { \text {tip } } ^ { 4 } - \frac { m _ { \mathrm { D } } ^ { 2 } \cdot g _ { \mathrm { T } } ^ { 2 } } { \rho _ { \mathrm { T } } ^ { 2 } \cdot A _ { 8 } ^ { 2 } }
 $$
-    (iii) $$
+    (iii)
+$$
 \begin{aligned}
 & = r ^ { 4 } \cdot ( 2 \pi ) ^ { 4 } \cdot f ^ { 4 } - \frac { m _ { \mathrm { D } } ^ { 2 } \cdot g _ { \mathrm { T } } ^ { 2 } } { \rho _ { \mathrm { T } } ^ { 2 } \cdot A _ { 8 } ^ { 2 } } \\
 & = 0.68 ^ { 4 } \cdot ( 2 \pi ) ^ { 4 } \cdot \left( \frac { 500 } { 60 } \right) ^ { 4 } - \frac { 420 ^ { 2 } \times 1.35 ^ { 2 } } { 5.35 ^ { 2 } \times \left( 8 \cdot \pi \cdot 0.68 ^ { 2 } \right) ^ { 2 } } \\

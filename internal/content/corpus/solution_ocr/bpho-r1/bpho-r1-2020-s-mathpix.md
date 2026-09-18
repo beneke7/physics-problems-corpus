@@ -453,7 +453,8 @@ $$
 
 pertor engine
 
-(n) $$
+(n)
+$$
 \begin{aligned}
 \text { Consumption ate } & = \frac { 5.3 } { 100 } \frac { \mathrm { l } } { \mathrm {~km} } \text { at } 100 \mathrm {~km} / \mathrm { h } \\
 & = \frac { 5.3 } { 100 } \times 100 \frac { \mathrm { l } } { \mathrm {~km} } \cdot \frac { \mathrm { ta } } { \mathrm {~h} } = 5.3 \frac { \mathrm { l } } { \mathrm {~h} } \checkmark \\
@@ -604,7 +605,8 @@ $$
 (a) (i) $\frac { h c } { \lambda } = W + k E , \frac { h c } { \lambda } = W + \frac { 1 } { 2 } m v ^ { 2 }$
 
 (ii) $I = 0.1 p A \rightarrow \frac { N } { t } = \frac { 0.1 \times 10 ^ { - 12 } } { 1.6 \times 10 ^ { - 19 } } = 625,0005 ^ { - 1 }$.
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 W & = \frac { h _ { c } } { \lambda } - e V \\
 & = \frac { 6.63 \times 10 ^ { - 34 } \times 3 \times 10 ^ { 8 } } { 280 \times 10 ^ { - 9 } } - 0.82 \times 1.6 \times 10 ^ { - 19 } \\
@@ -612,7 +614,8 @@ W & = \frac { h _ { c } } { \lambda } - e V \\
 & =
 \end{aligned}
 $$
-(iv) $$
+(iv)
+$$
 \begin{aligned}
 \frac { 1 } { 2 } m v ^ { 2 } & = e V _ { \text {staping } } \\
 v = \sqrt { \frac { 2 e V _ { s } } { m } } & = \sqrt { \frac { 2 \times 1 \cdot 6 \times 10 ^ { - 19 } \times 0.82 } { 9 \% 1 \times 10 ^ { - 31 } } } \\
@@ -654,7 +657,8 @@ $$
 $$
 Souteger value is $n = 12$ since $n = 11$ would not be sufficient.
 (ii) So $P _ { \text {at } } = \frac { 1.2 \times 10 ^ { - 3 } } { 4.5 ^ { 12 } } = 1.74 \times 10 ^ { - 11 } \mathrm {~W}$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 \frac { N } { t } = \frac { P _ { - 1 } } { L f } & = \frac { P _ { - 1 } } { L ^ { \prime } d } \\
 & = \frac { 1.74 \times 10 ^ { - 11 } \times 585 \times 10 ^ { - 9 } } { 6.63 \times 10 ^ { - 34 } \times 3 \times 10 ^ { 8 } } \\
@@ -725,7 +729,8 @@ N _ { e } & = \frac { 220 \times 6.4 \times 10 ^ { - 12 } } { 1.6 \times 10 ^ { 
 & = 8.8 \times 10 ^ { 9 }
 \end{aligned}
 $$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \text { Adtirty } = \frac { \Delta N } { \Delta t } & = \frac { 8.8 \times 10 ^ { 9 } } { 85 } \\
 & = 1.04 \times 10 ^ { 8 } \text { B } \cdot \left( 5 ^ { - 1 } \right)
@@ -1193,14 +1198,16 @@ NII
 $$
 \frac { M v ^ { 2 } } { r } = m g
 $$
-(b) $$
+(b)
+$$
 \begin{aligned}
 & \frac { M v ^ { 2 } } { r } = \frac { G M M _ { g } } { r ^ { 2 } } \\
 & \left( \frac { 2 \pi r } { T } \right) ^ { 2 } \frac { 1 } { r } = \frac { G M _ { g } } { r ^ { 2 } } \\
 & T ^ { 2 } = \frac { 4 \pi ^ { 2 } } { G M _ { g } } \cdot r ^ { 3 }
 \end{aligned}
 $$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 M _ { g } & = \frac { 4 \pi ^ { 2 } \cdot r ^ { 3 } } { G T ^ { 2 } } \\
 & = \frac { 4 \pi ^ { 2 } \times \left( 3 \times 10 ^ { 4 } \times 9 \cdot 46 \times 10 ^ { 15 } \right) ^ { 3 } } { 6 \cdot 67 \times 10 ^ { - 11 } \times \left( 200 \times 10 ^ { 6 } \times 3 \cdot 1 / 6 \times 10 ^ { 7 } \right) ^ { 2 } }
@@ -1478,7 +1485,8 @@ $$
 $$
 
 
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \sin \delta _ { n } & = \frac { n \times 6.63 \times 10 ^ { - 34 } } { 0.564 \times 10 ^ { - 9 } \sqrt { 2 \times 9.11 \times 10 ^ { - 31 } \times 1.6 \times 10 ^ { - 19 } \times 100 } } \\
 & = n \times 0.218 \\

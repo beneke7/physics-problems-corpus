@@ -22,7 +22,8 @@ Giving $\phi = 28.13 ^ { \circ }$ and $\alpha = 90 - 28.13 ^ { \circ } = 61.57 ^
 Critical angle, $\theta$, geven by
 $$
 \frac { \sin 90 ^ { \circ } } { \sin \theta _ { c } } = 1.5 \quad \text { ie } \theta _ { e } = 41.81 ^ { \circ }
-$$So the ray is totally internally reflected-adinginitem at the two horyiontal glass faces
+$$
+So the ray is totally internally reflected-adinginitem at the two horyiontal glass faces
 As $\hat { S T X } = \phi < 45 ^ { \circ }$ the ray cannot be incident on the verticed face PB
 (ii) 3
 * Give marks if students determine that ray undergoes total internal reflection.

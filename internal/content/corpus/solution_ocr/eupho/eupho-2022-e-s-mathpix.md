@@ -418,11 +418,13 @@ and analogously for other slope definitions.
 
 #### Abstract
 
-Albedo For the white plate, only a part of the incident flux is absorbed, so we replace $j$ by $j ( 1 - a )$ if $a$ is the albedo: $$
+Albedo For the white plate, only a part of the incident flux is absorbed, so we replace $j$ by $j ( 1 - a )$ if $a$ is the albedo:
+$$
 \begin{equation*} j = ( 1 - a ) \frac { P } { C r ^ { 2 } } . \tag{22} \end{equation*}
-$$ As a consequence, any slope measured for both plates will be in the ratio $( 1 - a )$ to each other. This can be expressed as a fraction of trend slopes, ratio of temperature differences, or similar.
+$$
+As a consequence, any slope measured for both plates will be in the ratio $( 1 - a )$ to each other. This can be expressed as a fraction of trend slopes, ratio of temperature differences, or similar.
 
-\section*{Experiment}
+## Experiment
 
 The radiant flux density can be varied in two main ways, or a combination of both: by changing the distance, or by changing the current through the light bulb. Both methods are acceptable, but varying the current also changes the spectrum and the efficiency of the light bulb, so it may produce biased and nonlinear results. The students should know that varying a single parameter is the correct procedure.
 

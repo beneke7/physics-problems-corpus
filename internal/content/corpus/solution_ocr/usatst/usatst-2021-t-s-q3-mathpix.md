@@ -97,7 +97,7 @@ Experiments in the 20th century revealed that in many materials, the Hall resist
 ![](../../../figures/solution-ocr/fd8c8ce9d3d46632886e328c.jpg)
     (a) If the electrons all have the same speed, what is the angular momentum of each electron?
 
-\section*{Solution}
+## Solution
 The current is $I = q _ { e } n _ { V } a A _ { w }$, where $v$ is the speed of each electron. Then the angular momentum is
 $$
 m _ { e } v R \hat { \mathbf { z } } = \frac { I m _ { e } R } { q _ { e } n _ { V } A _ { w } } \hat { \mathbf { z } } .

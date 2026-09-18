@@ -14,7 +14,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 5. (a) $m \frac { d \vec { v } } { d t } = - e ( \vec { E } + \vec { v } \times \vec { B } ) - \frac { m \vec { v } } { \tau }$
     (b) $\omega _ { c } = e B / m = 10 ^ { 12 } \mathrm { rad } \cdot \mathrm { s } ^ { - 1 }$
     (c) $\sigma _ { 0 } = n e ^ { 2 } \tau / m = 5.8 \times 10 ^ { 7 }$ (ohm⋅ m) ${ } ^ { - 1 }$
-    (d) $$
+    (d)
+$$
 \begin{aligned}
 \sigma _ { x y } & = - \frac { \sigma _ { 0 } \tau \omega _ { c } } { 1 + \omega _ { c } ^ { 2 } \tau ^ { 2 } } ; & & \sigma _ { x z } = 0 \\
 \sigma _ { y y } & = \frac { \sigma _ { 0 } } { 1 + \omega _ { c } ^ { 2 } \tau ^ { 2 } } ; & & \sigma _ { y z } = 0 \\

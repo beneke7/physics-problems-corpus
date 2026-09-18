@@ -102,7 +102,8 @@ $$
 $$
 
 
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \sin \delta _ { n } & = \frac { n \times 6.63 \times 10 ^ { - 34 } } { 0.564 \times 10 ^ { - 9 } \sqrt { 2 \times 9.11 \times 10 ^ { - 31 } \times 1.6 \times 10 ^ { - 19 } \times 100 } } \\
 & = n \times 0.218 \\

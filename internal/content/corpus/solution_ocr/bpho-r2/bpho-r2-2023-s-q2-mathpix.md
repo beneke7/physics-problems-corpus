@@ -67,7 +67,8 @@ $$
 This is a suitable value. No mark for a comment of this sort - it is to make sure you look at your answer. [3]
 
 
-(v) $$
+(v)
+$$
 E = - \frac { 1 } { 2 } \frac { 1 } { 4 \pi \epsilon _ { 0 } } \frac { e ^ { 2 } } { r }
 $$
 and substituting for $r$
@@ -233,7 +234,8 @@ lenting
 
 $$
 \frac { d V } { d t } = - A \sqrt { \frac { k T } { \sim } }
-$$ $\square$
+$$
+$\square$
 
 (f) $\ln 1 \mathrm { kw } , \mathrm { s } , \quad v = 0.95 \times 2.0 \times 10 ^ { - 2 } = 1.9 \times 10 ^ { - 2 } \mathrm {~m} ^ { 3 } \Rightarrow \Delta v = - 1.0 \times 10 ^ { - 3 } \mathrm {~m} ^ { 3 }$
 

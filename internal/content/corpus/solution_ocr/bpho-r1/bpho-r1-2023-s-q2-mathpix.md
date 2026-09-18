@@ -94,7 +94,8 @@ $$
 & I _ { \text {leakage } } = \frac { V } { R } = \frac { 320 \times 10 ^ { 3 } } { 7.1 \times 10 ^ { 7 } } = 4.52 \times 10 ^ { - 3 } = 4.5 \mathrm {~mA} \\
 & \text { Loss } = I ^ { 2 } R = \left( 4.52 \times 10 ^ { - 3 } \right) ^ { 2 } \times 7.07 \times 10 ^ { 7 } = 1400 \mathrm {~W}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 Fractional loss $= \frac { 1400 } { 800 \times 10 ^ { 6 } } = 1.8 \times 10 ^ { - 6 } = 2 \times 10 ^ { - 4 } \%$
 (iii) • We expect a small temperature difference so we can do an approximate calculation for the thermal conduction though a cylindrical surface.
 Heat conductivity $P _ { \text {heat loss } } = \frac { k A \Delta T } { \Delta r } A =$ area heat transferred $= 2 \pi r _ { \text {average } } L$
@@ -114,7 +115,8 @@ $$
 & = a + b ( A + B \cos \omega t ) + c ( A + B \cos \omega t ) ^ { 2 } \\
 & = a + b A + b B \cos \omega t + c \left( A ^ { 2 } + 2 A B \cos \omega t + B ^ { 2 } \cos ^ { 2 } \omega t \right)
 \end{aligned}
-$$ $\square$
+$$
+$\square$
         - Use double angle trig identity $\cos ^ { 2 } \theta = \frac { 1 } { 2 } ( 1 + \cos 2 \theta )$ to give a term with $\cos ( 2 \omega t )$ :
 $$
 \begin{aligned}
@@ -141,7 +143,8 @@ $$
 
 $$
 I _ { \max } = I _ { 0 } + \frac { c B ^ { 2 } } { 2 } + ( b B + 2 c A B ) + \frac { c B ^ { 2 } } { 2 } = I _ { 0 } + A _ { 1 } + 2 A _ { 2 }
-$$ $\square$
+$$
+$\square$
 
 $$
 \begin{aligned}
@@ -161,4 +164,5 @@ So
 
 $$
 \frac { A _ { 2 } } { A _ { 1 } } = \frac { 1 } { 2 } ( \chi - 1 )
-$$ $\square$
+$$
+$\square$

@@ -15,7 +15,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 
 (i) $Q _ { 1 } = Q _ { 2 }$
 (ii) $V _ { 1 } = \frac { Q _ { 1 } } { C _ { 1 } } \quad V _ { 2 } = \frac { Q _ { 2 } } { C _ { 2 } }$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 E & = V _ { 1 } + V _ { 2 } = Q _ { 1 } \left( \frac { 1 } { C _ { 1 } } + \frac { 1 } { C _ { 2 } } \right) \\
 & = \frac { Q _ { 1 } } { C } \\
@@ -82,7 +83,8 @@ $$
 \end{align*}
 $$
 (ii) ZERO - no flux cut
-(iii) $$
+(iii)
+$$
 \begin{align*}
 & E = \frac { \left( 3 \times 10 ^ { - 5 } \right) ( 8 ) ( 720 ) 10 ^ { 3 } } { 60 \times 60 }  \tag{1}\\
 & E = 48 \mathrm { mV }
@@ -106,14 +108,16 @@ Q6
 
 (i) $\quad V = \frac { 1 } { 2 } B \omega \left( \frac { h } { 2 } \right) ^ { 2 } = \frac { 1 } { 8 } B \omega L ^ { 2 }$
 (ii) ZERO
-(iii) $$
+(iii)
+$$
 \begin{align*}
 & \frac { 1 } { 2 } B w ( L - x ) ^ { 2 } - \frac { 1 } { 2 } x ^ { 2 } B w  \tag{1+1}\\
 & = \frac { 1 } { 2 } B w L ( L - 2 x )
 \end{align*}
 $$
 
-(i) $$
+(i)
+$$
 \begin{aligned}
 T & = k R ^ { \alpha } \\
 \ln T & = \alpha \ln R + \ln k

@@ -54,10 +54,12 @@ A solid homogeneous metal ball of radius $R$ is dropped with its lowest point a 
 
 Solution. This is half of IPhO 1991, problem 1. The answers are:
 
-1. $$
+1.
+$$
 \omega = \frac { 7 } { 2 } \frac { \mu } { R } \sqrt { 2 g h } ( 1 + \sqrt { \alpha } )
 $$
-2. $$
+2.
+$$
 \Delta x = 4 \mu h ( \alpha + \sqrt { \alpha } )
 $$
 
@@ -152,10 +154,12 @@ Now suppose that the second solenoid is moved a distance $x$ to the right along 
 
 Solution. This is a modification of NBPhO 2015, problem 9. The answers are:
 
-1. $$
+1.
+$$
 U _ { 0 } = \mu _ { 0 } n ^ { 2 } I ^ { 2 } L \left( \frac { 3 } { 2 } A _ { 2 } + \frac { 1 } { 2 } A _ { 1 } \right)
 $$
-2. $$
+2.
+$$
 U = U _ { 0 } - \mu _ { 0 } n ^ { 2 } I ^ { 2 } | x | A _ { 2 }
 $$
 3. The signs of these emfs act to increase the current, and their magnitudes are

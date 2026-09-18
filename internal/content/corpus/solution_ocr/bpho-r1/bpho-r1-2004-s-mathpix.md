@@ -88,7 +88,8 @@ v ^ { 2 } = u ^ { 2 } & - 2 a s ^ { \prime } \\
 a & = 4.00 \times 10 ^ { 4 } \mathrm {~ms} ^ { - 2 }
 \end{aligned}
 $$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 & v = u + a t ^ { \prime } \\
 & 310 = 4.00 \times 10 ^ { 4 } t \\
@@ -412,7 +413,8 @@ $$
 & v _ { x y } = \sqrt { u ^ { 2 } + v ^ { 2 } }
 \end{aligned}
 $$
-(ii) $$
+(ii)
+$$
 \frac { z = w t } { m v _ { x y } ^ { 2 } 1 }
 $$
 (iii)
@@ -422,7 +424,8 @@ $$
 & r = \frac { m \sqrt { u ^ { 2 } + v ^ { 2 } } } { B Q }
 \end{aligned}
 $$
-c) $$
+c)
+$$
 \text { (i) } \begin{aligned}
 T = \frac { 2 \pi } { \omega } & = \frac { 2 \pi r } { V _ { x y } } \\
 \therefore T & = \frac { 2 \pi m } { B Q } \quad 1

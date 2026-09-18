@@ -110,7 +110,8 @@ I _ { 1 } = a ^ { 2 } \frac { 1 } { \frac { 3 \pi ^ { 2 } } { 2 n } } = \frac { 
 $$
 Adjacent zero intensity occurs for $\beta = \pi \rho \pm \frac { \pi } { N }$ i.e. $\delta = \pm \frac { \pi } { N }$
 For phase differences much greater than $\delta , \quad \mathrm { I } = \mathrm { a } ^ { 2 } \left( \frac { \sin N \beta } { \sin \beta } \right) = a ^ { 2 }$.
-(vi) $$
+(vi)
+$$
 \begin{aligned}
 & \beta = n \pi \text { for a principle maximum } \\
 & \text { i.e. } \frac { \pi } { \lambda } d \sin \theta = n \pi \quad n = 0 , \pm 1 , \pm 2 \ldots \ldots \ldots . . \\

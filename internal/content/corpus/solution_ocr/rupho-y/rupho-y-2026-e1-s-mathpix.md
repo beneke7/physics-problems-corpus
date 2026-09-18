@@ -83,7 +83,8 @@ $$
 
 Решим два квадратных неравенства
 
-1. $$
+1.
+$$
 \begin{array} { r }
 \cos q > 1 \\
 - \frac { C _ { 1 } + C _ { 2 } } { C _ { 1 } C _ { 2 } } \cdot \frac { 1 } { \omega ^ { 2 } L } + \frac { 1 } { 2 C _ { 1 } C _ { 2 } } \cdot \left( \frac { 1 } { \omega ^ { 2 } L } \right) ^ { 2 } > 0 \\
@@ -125,7 +126,8 @@ $$
 ![](../../../figures/solution-ocr/5e4ce50144cd36fd160faad4.jpg)
 Введем обозначения соответствующие координатам $x$ точке пересечения построенного графика с прямыми $\cos q = 1 , \cos q = 1$. В точке пересечения графика с $\cos q = 1 , \omega = \omega _ { 1 }$. В точке пересечения графика с $\cos q = - 1 , \omega = \omega _ { 2 }$ и $\omega = \omega _ { 3 }$. Составим и решим квадратные уравнения относительно $\frac { 1 } { \omega ^ { 2 } L }$
 
-1. $$
+1.
+$$
 \begin{aligned}
 \cos q & = 1 \\
 - \frac { C _ { 1 } + C _ { 2 } } { C _ { 1 } C _ { 2 } } \cdot \frac { 1 } { \omega ^ { 2 } L } + \frac { 1 } { 2 C _ { 1 } C _ { 2 } } \cdot \left( \frac { 1 } { \omega ^ { 2 } L } \right) ^ { 2 } & = 0 \\
@@ -133,7 +135,8 @@ $$
 \frac { 1 } { \omega ^ { 2 } L } = 2 \left( C _ { 1 } + C _ { 2 } \right) \text { или } \frac { 1 } { \omega ^ { 2 } L } & = 0
 \end{aligned}
 $$
-2. $$
+2.
+$$
 \begin{array} { r }
 \cos q = - 1 \\
 2 - \frac { C _ { 1 } + C _ { 2 } } { C _ { 1 } C _ { 2 } } \cdot \frac { 1 } { \omega ^ { 2 } L } + \frac { 1 } { 2 C _ { 1 } C _ { 2 } } \cdot \left( \frac { 1 } { \omega ^ { 2 } L } \right) ^ { 2 } = 0 \\

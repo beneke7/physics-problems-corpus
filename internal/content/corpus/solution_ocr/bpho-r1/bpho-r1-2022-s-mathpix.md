@@ -1199,7 +1199,8 @@ Either one of two stars accepted
 (1 mark)
 (a) Total: 5 marks
 
-b) $$
+b)
+$$
 p _ { \mathrm { rad } } = \frac { L } { 4 \pi r ^ { 2 } c } = \frac { 1.47 \times 10 ^ { 5 } \times 3.85 \times 10 ^ { 2 } 6 } { 4 \pi \times \left( 2.61 \times 10 ^ { 16 } \right) ^ { 2 } \times 3 \times 10 ^ { 8 } } = 2.21 \times 10 ^ { - 11 } \mathrm {~Pa}
 $$
 

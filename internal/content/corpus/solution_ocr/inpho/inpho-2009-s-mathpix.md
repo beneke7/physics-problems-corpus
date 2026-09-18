@@ -70,32 +70,40 @@ Name: $\_\_\_\_$ Roll No.P09 $\_\_\_\_$
 
 Equivalent solutions may exist.
 
-1. $$
+1.
+$$
 \frac { P } { P _ { 0 } } + \frac { V } { V _ { 0 } } = 1 \left( \text { valid for } V < V _ { 0 } , P < P _ { 0 } \right)
 $$
-2. $$
+2.
+$$
 T = \frac { P _ { 0 } V } { R } \left( 1 - \frac { V } { V _ { 0 } } \right)
 $$
-3. $$
+3.
+$$
 \frac { d V } { d T } = \frac { R V _ { 0 } } { P _ { 0 } \left( V _ { 0 } - 2 V \right) }
 $$
-4. $$
+4.
+$$
 T _ { \max } = \frac { P _ { 0 } V _ { 0 } } { 4 R }
 $$
 5. ![](../../../figures/solution-ocr/c323bbed25a85b5d35878713.jpg)
-6. $$
+6.
+$$
 C _ { V } = \frac { R } { \gamma - 1 }
 $$
 
 Name: $\_\_\_\_$ Roll No.P09 $\_\_\_\_$
 
-7. $$
+7.
+$$
 C = \frac { R } { \gamma - 1 } + \frac { \left( V _ { 0 } - V \right) R } { \left( V _ { 0 } - 2 V \right) }
 $$
-8. $$
+8.
+$$
 \gamma = \frac { 3 } { 2 }
 $$
-9. $$
+9.
+$$
 C = R \frac { \left( 3 - \frac { 5 V } { V _ { 0 } } \right) } { \left( 1 - \frac { 2 V } { V _ { 0 } } \right) }
 $$
 10. ![](../../../figures/solution-ocr/86991a9677a4889f0d3527be.jpg)

@@ -18,7 +18,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 $$
 = 0 \quad \text { for } r > R
 $$
-(e) $$
+(e)
+$$
 \begin{aligned}
 E & = \frac { \mu _ { 0 } Q R ^ { 2 } \alpha ^ { \prime } } { 4 \pi l r } & & \text { for } r \geq R \\
 & = \frac { \mu _ { 0 } Q r \alpha ^ { \prime } } { 4 \pi l } & & \text { for } r < R

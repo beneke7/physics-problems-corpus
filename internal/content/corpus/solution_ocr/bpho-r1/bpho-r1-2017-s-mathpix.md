@@ -270,7 +270,8 @@ $a = \pm 5$. But tippointive of $a = + 5$
 $V _ { \text {MB } } = 5$ it 4 J , will $t = 1.5 \mathrm {~h}$
 
 
-(g) $$
+(g)
+$$
 \rightarrow 60 ^ { \circ } \mathrm { C } \rightarrow 11 , \rightarrow 38 ^ { \circ } \mathrm { C }
 $$
 For water:
@@ -298,7 +299,8 @@ Require, $92400 = m \left( 2.26 \times 10 ^ { 6 } + 4200 ( 100 + 82 ) \right)$
 
 ![](../../../figures/solution-ocr/3fbdf4d86642351436340068.jpg)
 
-(h) $$
+(h)
+$$
 \left[ \begin{array} { c c }
 \varepsilon & r \\
 R & \square

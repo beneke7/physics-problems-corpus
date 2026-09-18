@@ -296,14 +296,16 @@ $$
 | 462 | 6 | 12 |
 | 402 | 8 | 14 |
 
-D3. $$
+D3.
+$$
 D _ { Z } = \frac { \text { Slope } } { 2 n } ,
 $$
 where slope is taken from Fig. 8
 $$
 D _ { Z } = 1802 \mathrm {~nm}
 $$
-D4. $$
+D4.
+$$
 m = \frac { \text { Slope } } { \lambda } \Rightarrow \lambda = \frac { \text { Slope } } { m }
 $$
 

@@ -59,19 +59,22 @@ $$
 or
 
 
-1.3 $$
+1.3
+$$
 \Delta N _ { \mathrm { opt } } = 2 \frac { g M ^ { 2 } } { h ^ { 2 } } a ^ { 2 } \lambda _ { 0 } \tan \theta \sin \phi .
 $$
 
 A more compact way of writing this is
 
-1.4 $$
+1.4
+$$
 \Delta N _ { \mathrm { opt } } = \frac { \lambda _ { 0 } A } { V } \sin \phi ,
 $$
 
 where
 
-1.4 $$
+1.4
+$$
 V = 0.1597 \times 10 ^ { - 13 } \mathrm {~m} ^ { 3 } = 0.1597 \mathrm {~nm} \mathrm {~cm} ^ { 2 }
 $$
 
@@ -84,18 +87,21 @@ $$
 
 which tell us that
 
-1.5 $$
+1.5
+$$
 \sharp \text { of cycles } = \frac { 2 \lambda _ { 0 } A } { V } .
 $$
 
 Experimental data For $a = 3.6 \mathrm {~cm}$ and $\theta = 22.1 ^ { \circ }$ we have $A = 10.53 \mathrm {~cm} ^ { 2 }$, so that
 
-1.6 $$
+1.6
+$$
 \lambda _ { 0 } = \frac { 19 \times 0.1597 } { 2 \times 10.53 } \mathrm {~nm} = 0.1441 \mathrm {~nm} .
 $$
 
 And 30 full cycles for $\lambda _ { 0 } = 0.2 \mathrm {~nm}$ correspond to an area
 
-1.7 $$
+1.7
+$$
 A = \frac { 30 \times 0.1597 } { 2 \times 0.2 } \mathrm {~cm} ^ { 2 } = 11.98 \mathrm {~cm} ^ { 2 } .
 $$

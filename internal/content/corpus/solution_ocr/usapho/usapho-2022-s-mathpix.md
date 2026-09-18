@@ -463,7 +463,7 @@ $$
 
 b. What is the percentage change in $V _ { m }$ at these temperatures if one accounts for $B ( T )$ ?
 
-\section*{Solution}
+## Solution
 The fractional change in volume is
 $$
 \frac { \Delta V _ { m } } { V _ { m } } \approx \frac { B ( T ) } { V _ { m } } \approx \begin{cases} - 1.9 \% & T = 100 \mathrm {~K} \\ - 0.02 \% & T = 300 \mathrm {~K} \\ 0.04 \% & T = 600 \mathrm {~K} \end{cases}

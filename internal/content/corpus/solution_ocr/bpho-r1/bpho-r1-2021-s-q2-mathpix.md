@@ -135,7 +135,8 @@ $$
 $$
 (ii) Paf so the ratio is construct.
 (no other nelerat factor).
-(iii) $$
+(iii)
+$$
 \begin{array} { l l }
 v = \sqrt { \frac { K P } { P } } & \text { add } P V = n R T \\
 & \text { also } M _ { \mu } = \frac { [ \log ] } { [ m ] } = \frac { M } { n } = \rho \frac { V } { n } \Rightarrow \frac { n } { V } = \frac { f } { F _ { \mu } }

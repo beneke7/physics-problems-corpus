@@ -275,7 +275,8 @@ Drawng Correct arrows
 $$
 \frac { F _ { + } } { F _ { - } } = - 1
 $$
-(iv) $$
+(iv)
+$$
 \begin{gather*}
 C = \frac { \varepsilon ^ { 2 } A } { 2 }  \tag{A}\\
 \text { Thus energy } E = \frac { Q ^ { 2 } x } { 2 \varepsilon _ { 0 } A }
@@ -383,7 +384,8 @@ Maximum $\theta$ is $39.6 ^ { \circ }$
 $\angle E O B = 180 - ( 90 - \theta ) - 75 = 90 + \theta - 75 = 15 + \theta$
 $\angle B O S = 90 - \angle E O B = 75 - \theta$
 $\angle B O C = 2 ( 75 - \theta ) = 150 - 2 \theta$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \angle H C O & = 360 - 90 - ( 90 + \theta ) - \angle B O C \\
 & = 180 - \theta - ( 150 - 2 \theta ) \\
@@ -495,7 +497,8 @@ $$
 & x _ { 1 } = \frac { g } { \omega ^ { 2 } } \tag{2}
 \end{align*}
 $$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 V & = \frac { 1 } { 2 } k \left( x + x _ { 1 } \right) ^ { 2 } - M g x \\
 & = \frac { 1 } { 2 } M \omega ^ { 2 } \left( x + x _ { 1 } \right) ^ { 2 } - M g x \\
@@ -790,7 +793,8 @@ $$
 \text { ie } \quad 4.2 \times 10 ^ { - 3 } \%
 $$
 
-c) $$
+c)
+$$
 \begin{equation*}
 N = N _ { 0 } e ^ { - \lambda t } \tag{A}
 \end{equation*}

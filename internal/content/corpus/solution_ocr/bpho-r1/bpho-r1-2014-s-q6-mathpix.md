@@ -66,14 +66,16 @@ Other validexamples axe acceptable.
 
 QI (a) (i) $g = 9.8 \pm 1.0 \mathrm {~ms} ^ { - 2 }$ (Encr relatively large completared or this value)
 
-(ii) $$
+(ii)
+$$
 \text { Root meen square } \left. \begin{array} { r l }
 l _ { \text {RMS } } & = \sqrt { \frac { 1 } { 2 } \left[ ( 920 ) ^ { 2 } + ( 65.0 ) ^ { 2 } \right] } \mathrm { m } \\
 & \left. = \frac { 1 } { \sqrt { 2 } ( 91.01 \mathrm {~m} } \right) \\
 l _ { \text {AMS } } & = 68.6 .6 \mathrm {~m}
 \end{array} \right\}
 $$
-(b) $$
+(b)
+$$
 \begin{aligned}
 T = 2 \pi \sqrt { \frac { l } { g } } \quad \text { and } g & = \\
 \frac { \Delta g } { g } & = 2 \frac { \Delta T } { T } + \frac { \Delta l } { l } \\

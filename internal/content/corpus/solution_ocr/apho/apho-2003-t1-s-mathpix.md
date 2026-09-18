@@ -28,7 +28,8 @@ $$
 (2 points)
 c) $\quad \lim _ { R _ { 1 } \rightarrow \infty } u _ { 1 } = \sqrt { 2 } u _ { 0 }$ (1 point)
 d) $\quad u _ { 2 } = u _ { 1 } \frac { R _ { 0 } } { R _ { 1 } } = u _ { 0 } \frac { \sqrt { 2 } R _ { 0 } } { \sqrt { R _ { 1 } \left( R _ { 1 } + R _ { 0 } \right) } }$ (1 point)
-e) $$
+e)
+$$
 \begin{aligned}
 u _ { 3 } & = \sqrt { \frac { G M } { R _ { 1 } } } = \sqrt { \frac { G M } { R _ { 0 } } } \sqrt { \frac { R _ { 0 } } { R _ { 1 } } } = u _ { 0 } \sqrt { \frac { R _ { 0 } } { R _ { 1 } } } \\
 & = \sqrt { \frac { R _ { 0 } } { R _ { 1 } } } \sqrt { \frac { R _ { 1 } \left( R _ { 1 } + R _ { 0 } \right) } { \sqrt { 2 } R _ { 0 } } } u _ { 2 } \\

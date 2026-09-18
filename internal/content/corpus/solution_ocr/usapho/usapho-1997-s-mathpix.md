@@ -11,10 +11,12 @@ verification_status: promoted
 provenance_note: "Mathpix PDF API Markdown conversion; promoted to canonical display without manual proofreading."
 ---
 (a) The modes are![](../../../figures/solution-ocr/38d23e3c9fcd1499bfa1ee91.jpg)
-(b) $$
+(b)
+$$
 n _ { 0 } = \frac { 2 L f _ { n _ { 0 } } } { c } = \frac { 2 ( 1.5 \mathrm {~m} ) \left( 5 \times 10 ^ { 14 } / \mathrm { s } \right) } { 3 \times 10 ^ { 8 } \mathrm {~m} / \mathrm { s } } = 5 \times 10 ^ { 6 }
 $$
-(c) $$
+(c)
+$$
 \begin{aligned}
 & f _ { n _ { 0 } } \pm \Delta f = \left( n _ { 0 } \pm \Delta n \right) \frac { c } { 2 L } \\
 & f _ { n _ { 0 } } \pm \Delta f = \frac { n f } { 2 L } \pm \frac { c } { 2 L } \Delta n \\
@@ -292,7 +294,8 @@ $$
 \end{aligned}
 $$
 ![](../../../figures/solution-ocr/713cc09ef9f6fdf6e253c00d.jpg)
-(n) $$
+(n)
+$$
 \begin{aligned}
 \vec { F } & = q ( \vec { E } + \vec { V } \times \vec { B } ) \\
 & = - e \left[ - \frac { n _ { 0 } e r } { 2 \varepsilon _ { 0 } } \hat { r } + r \omega B _ { 0 } \hat { r } \right] \\
@@ -334,7 +337,8 @@ w _ { p } ^ { 2 } & \leq \frac { 1 } { 2 } w _ { c } ^ { 2 } \\
 n _ { 0 } & \leq \frac { B _ { 0 } ^ { 2 } \varepsilon _ { 0 } } { 2 m } \quad \text { so } \left( n _ { 0 } \right) _ { \text {max } } = \frac { B _ { 0 } ^ { 2 } \varepsilon _ { 0 } } { 2 m }
 \end{aligned}
 $$
-(e) $$
+(e)
+$$
 \begin{aligned}
 \left( n _ { 0 } \right) _ { \text {max } } & = \frac { B _ { 0 } ^ { 2 } \varepsilon _ { 0 } } { 2 m } \quad \text { use } \mu _ { 0 } \varepsilon _ { 0 } = \frac { 1 } { c ^ { 2 } } \\
 & = \frac { B _ { 0 } ^ { 2 } } { 2 m \left( \mu _ { 0 } c ^ { 2 } \right) } \\
@@ -344,7 +348,8 @@ $$
 
 opppy somperes haw,
 
-(e) $$
+(e)
+$$
 \oint _ { c } \vec { B } \cdot d \vec { l } = \mu _ { 0 } I _ { s }
 $$
 where $G =$ boundary of $S$

@@ -181,7 +181,8 @@ $$
 m ^ { * } = \frac { c ^ { 3 } h } { 2 G k _ { B } } \frac { 1 } { \theta _ { B } } \tag{0.2}
 \end{equation*}
 $$
-4.3) $$
+4.3)
+$$
 \begin{equation*}
 \theta _ { B } = \frac { c ^ { 3 } h } { 2 G k _ { B } } \frac { 1 } { m ^ { * } } \quad \Rightarrow \quad \frac { d m } { d t } = - \frac { h c ^ { 4 } } { 16 G ^ { 2 } } \frac { 1 } { m ^ { 2 } } \left( 1 - \frac { m ^ { 4 } } { m ^ { * 4 } } \right) \tag{0.2}
 \end{equation*}

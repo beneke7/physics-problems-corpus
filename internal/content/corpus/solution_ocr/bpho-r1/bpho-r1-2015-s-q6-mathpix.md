@@ -483,7 +483,8 @@ y _ { e } & = \frac { e v _ { 2 } s ^ { 2 } } { 2 m _ { e } d v _ { 0 } ^ { 2 } 
 \end{aligned}
 $$
 
-(b) $$
+(b)
+$$
 \begin{aligned}
 T & = V _ { 0 } ^ { S } \\
 & = s \sqrt { \frac { m e } { 2 e V _ { 1 } } }
@@ -595,7 +596,8 @@ $$
 $$
 
 
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 & P V = n R T \\
 & \frac { P V } { P _ { 0 } V _ { 0 } } = \frac { n R T } { P _ { 0 } V _ { 0 } }
@@ -625,7 +627,8 @@ $$
 T _ { R } = \frac { 9 } { 4 }
 $$
 
-(c) $$
+(c)
+$$
 \begin{equation*}
 \frac { 5 } { 2 } \Delta T _ { R } = S _ { R } \Delta T _ { R } - P _ { R } \Delta V _ { R } . \tag{s}
 \end{equation*}

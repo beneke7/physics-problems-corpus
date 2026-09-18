@@ -125,7 +125,8 @@ $$
 & \ln \left( \frac { P ( h ) } { P _ { 0 } } \right) = \frac { M g } { R \alpha } \ln \left( \frac { T _ { 0 } - \alpha h } { T _ { 0 } } \right) \\
 & P ( h ) = P _ { 0 } \left( \frac { T _ { 0 } - \alpha h } { T _ { 0 } } \right) ^ { \frac { M g } { R \alpha } }
 \end{aligned}
-$$ $\square$ $\square$
+$$
+$\square$ $\square$
 
 (5 marks)
 
@@ -136,12 +137,14 @@ $$
 & P ( 3000 ) = 1.01 \times 10 ^ { 5 } \left( \frac { 288 - 0.00976 \times 3000 } { 288 } \right) ^ { \frac { 0.0299 \times 9.81 } { 8.314 \times 0.00976 } } \\
 & P ( 3000 ) = 1.01 \times 10 ^ { 5 } \left( \frac { 259 } { 288 } \right) ^ { 3.51 } = 7.0 \times 10 ^ { 4 } \mathrm {~Pa}
 \end{aligned}
-$$ $\square$
+$$
+$\square$
 (2 marks)
 (iii) • Pressure inside balloon: $\frac { P _ { 1 } V _ { 1 } } { T _ { 1 } } = \frac { P _ { 2 } V _ { 2 } } { T _ { 2 } }$
 $$
 \frac { 1.01 \times 10 ^ { 5 } \times V _ { 1 } } { 288 } = \frac { P _ { 2 } \times 1.3 \times V _ { 1 } } { 259 } \text { gives } P _ { 2 } = 70 \mathrm { kPa }
-$$ $\square$
+$$
+$\square$
 OR
 If the temperature of the hydrogen remains at 288 K then the pressure is given by $1.01 \times 10 ^ { 5 } \times V _ { 1 } = P _ { 2 } \times 1.3 V _ { 1 }$ and $P _ { 2 } = 78 \mathrm { kPa }$
     - Stress is given by the (pressure) × (area of cross section) ÷ (circumferential area of material)

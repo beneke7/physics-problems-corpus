@@ -450,7 +450,8 @@ $$
 
 Q2 (a) pd around the circuit gries
 
-(i) $$
+(i)
+$$
 \begin{aligned}
 ( 24.00 - 12.6 ) & = 11.44 = 5 ( R + 1.16 ) \\
 R & = \frac { 11.4 } { 5 } - 1.10 \\

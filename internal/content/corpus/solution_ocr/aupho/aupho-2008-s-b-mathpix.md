@@ -56,7 +56,8 @@ The power dissipated by the resistor is $P = I V$. The time taken to boil the ke
 $$
 t = \frac { c m _ { \mathrm { H } _ { 2 } \mathrm { O } } \Delta T } { I V } = 28 \mathrm {~s} .
 $$
-    (b) $$
+    (b)
+$$
 R = \frac { I } { V } = 24 \Omega
 $$
     (c) Assuming that heat is not lost to surroundings and that the densities $( \rho )$ and heat capacities $( c )$ of hot chocolate and milk are equal,
@@ -79,13 +80,15 @@ Figure 6: This figure shows the electric field due to the charge on the negative
 
 (c)![](../../../figures/solution-ocr/defb693cef9ecb54340b7fbb.jpg)
 Figure 7: This figure shows the total electric field.
-(d) $$
+(d)
+$$
 \begin{aligned}
 & I R = \frac { q } { C } \\
 & I = q \frac { R } { C }
 \end{aligned}
 $$
-(e) $$
+(e)
+$$
 I = \frac { \Delta q } { \Delta t }
 $$
 Want $\Delta q = q$.

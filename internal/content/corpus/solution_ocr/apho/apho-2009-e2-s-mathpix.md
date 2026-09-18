@@ -42,7 +42,8 @@ $$
 
 Section II
 
-a) $$
+a)
+$$
 T _ { \mathrm { y } } = 2 \pi \sqrt { \frac { \ell } { g } \cdot \frac { I _ { \mathrm { y } } } { M a ^ { 2 } } }
 $$
 (vi)

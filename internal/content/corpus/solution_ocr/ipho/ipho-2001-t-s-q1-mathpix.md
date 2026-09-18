@@ -13,7 +13,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 ---
 Part 1a
 
-a. $$
+a.
+$$
 \begin{equation*}
 v _ { r e t } = \sqrt { v _ { 0 } ^ { 2 } - 2 ( e / m ) v } = 1.956 \times 10 ^ { 6 } \mathrm {~m} / \mathrm { s } \tag{0.5pts}
 \end{equation*}

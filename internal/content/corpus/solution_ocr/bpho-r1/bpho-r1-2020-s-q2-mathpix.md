@@ -16,7 +16,8 @@ provenance_note: "Mathpix booklet slice; canonical display excludes explicit gra
 (a) (i) $\frac { h c } { \lambda } = W + k E , \frac { h c } { \lambda } = W + \frac { 1 } { 2 } m v ^ { 2 }$
 
 (ii) $I = 0.1 p A \rightarrow \frac { N } { t } = \frac { 0.1 \times 10 ^ { - 12 } } { 1.6 \times 10 ^ { - 19 } } = 625,0005 ^ { - 1 }$.
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 W & = \frac { h _ { c } } { \lambda } - e V \\
 & = \frac { 6.63 \times 10 ^ { - 34 } \times 3 \times 10 ^ { 8 } } { 280 \times 10 ^ { - 9 } } - 0.82 \times 1.6 \times 10 ^ { - 19 } \\
@@ -24,7 +25,8 @@ W & = \frac { h _ { c } } { \lambda } - e V \\
 & =
 \end{aligned}
 $$
-(iv) $$
+(iv)
+$$
 \begin{aligned}
 \frac { 1 } { 2 } m v ^ { 2 } & = e V _ { \text {staping } } \\
 v = \sqrt { \frac { 2 e V _ { s } } { m } } & = \sqrt { \frac { 2 \times 1 \cdot 6 \times 10 ^ { - 19 } \times 0.82 } { 9 \% 1 \times 10 ^ { - 31 } } } \\
@@ -66,7 +68,8 @@ $$
 $$
 Souteger value is $n = 12$ since $n = 11$ would not be sufficient.
 (ii) So $P _ { \text {at } } = \frac { 1.2 \times 10 ^ { - 3 } } { 4.5 ^ { 12 } } = 1.74 \times 10 ^ { - 11 } \mathrm {~W}$
-(iii) $$
+(iii)
+$$
 \begin{aligned}
 \frac { N } { t } = \frac { P _ { - 1 } } { L f } & = \frac { P _ { - 1 } } { L ^ { \prime } d } \\
 & = \frac { 1.74 \times 10 ^ { - 11 } \times 585 \times 10 ^ { - 9 } } { 6.63 \times 10 ^ { - 34 } \times 3 \times 10 ^ { 8 } } \\
@@ -137,7 +140,8 @@ N _ { e } & = \frac { 220 \times 6.4 \times 10 ^ { - 12 } } { 1.6 \times 10 ^ { 
 & = 8.8 \times 10 ^ { 9 }
 \end{aligned}
 $$
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 \text { Adtirty } = \frac { \Delta N } { \Delta t } & = \frac { 8.8 \times 10 ^ { 9 } } { 85 } \\
 & = 1.04 \times 10 ^ { 8 } \text { B } \cdot \left( 5 ^ { - 1 } \right)

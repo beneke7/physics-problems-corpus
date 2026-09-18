@@ -13,7 +13,8 @@ canonical_solution: false
 ---
 (a)
 
-(i) $$
+(i)
+$$
 \therefore \quad \begin{aligned}
 E & = \left( R _ { 0 } + R \right) \alpha I _ { 0 } \\
 I _ { 0 } R _ { 0 } & = \left( R _ { 0 } + R \right) \alpha I _ { 0 } \\
@@ -24,7 +25,8 @@ $$
 
 Range of $\alpha : \quad 0 \leq \alpha \leq 1 \quad \& \quad \infty \geqslant R \geqslant 0$
 
-(ii) $$
+(ii)
+$$
 \begin{aligned}
 & E = \alpha I _ { 0 } \left( \frac { 1 } { R } + \frac { 1 } { R _ { 0 } } \right) ^ { - 1 } \\
 & I _ { 0 } R _ { 0 } = \alpha I _ { 0 } \left( \frac { R R _ { 0 } } { R + R _ { 0 } } \right) ^ { - 1 } \\
@@ -72,7 +74,8 @@ Giving $\phi = 28.13 ^ { \circ }$ and $\alpha = 90 - 28.13 ^ { \circ } = 61.57 ^
 Critical angle, $\theta$, geven by
 $$
 \frac { \sin 90 ^ { \circ } } { \sin \theta _ { c } } = 1.5 \quad \text { ie } \theta _ { e } = 41.81 ^ { \circ }
-$$So the ray is totally internally reflected-adinginitem at the two horyiontal glass faces
+$$
+So the ray is totally internally reflected-adinginitem at the two horyiontal glass faces
 As $\hat { S T X } = \phi < 45 ^ { \circ }$ the ray cannot be incident on the verticed face PB
 (ii) 3
 * Give marks if students determine that ray undergoes total internal reflection.
@@ -834,14 +837,16 @@ Other validexamples axe acceptable.
 
 QI (a) (i) $g = 9.8 \pm 1.0 \mathrm {~ms} ^ { - 2 }$ (Encr relatively large completared or this value)
 
-(ii) $$
+(ii)
+$$
 \text { Root meen square } \left. \begin{array} { r l }
 l _ { \text {RMS } } & = \sqrt { \frac { 1 } { 2 } \left[ ( 920 ) ^ { 2 } + ( 65.0 ) ^ { 2 } \right] } \mathrm { m } \\
 & \left. = \frac { 1 } { \sqrt { 2 } ( 91.01 \mathrm {~m} } \right) \\
 l _ { \text {AMS } } & = 68.6 .6 \mathrm {~m}
 \end{array} \right\}
 $$
-(b) $$
+(b)
+$$
 \begin{aligned}
 T = 2 \pi \sqrt { \frac { l } { g } } \quad \text { and } g & = \\
 \frac { \Delta g } { g } & = 2 \frac { \Delta T } { T } + \frac { \Delta l } { l } \\
@@ -1045,7 +1050,8 @@ Energy conserved
 
 Q9
 
-(a) $$
+(a)
+$$
 E = - \frac { 13 \cdot 6 } { m ^ { 2 } } \mathrm { eV }
 $$
 For Formsition from $x = 3$ to $x = 1 \quad \Delta E$ given by

@@ -69,7 +69,7 @@ $$
 $$
 (c) The energy density of the axion field is $m ^ { 2 } a _ { 0 } ^ { 2 } / \left( 2 \hbar ^ { 3 } c \right)$. Find the axion field amplitude $a _ { 0 }$.
 
-\section*{Solution}
+## Solution
 The dark matter density comes from the mass-energy of the axion field, so
 $$
 \rho c ^ { 2 } = \frac { m ^ { 2 } a _ { 0 } ^ { 2 } } { 2 \hbar ^ { 3 } c } , \quad a _ { 0 } = \sqrt { \frac { 2 \rho \hbar ^ { 3 } c ^ { 3 } } { m ^ { 2 } } } .
