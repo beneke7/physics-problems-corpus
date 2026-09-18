@@ -33,7 +33,6 @@ this, note that by the usual kinetic theory argument, the pressure of each parti
 This result isn’t often mentioned in textbooks, though, because in the relativistic case we usually
 consider a fixed chemical potential, not a fixed particle number. (Another way to see this is to note
 that ∂F/∂V |T doesn’t depend on the dispersion relation, as the spatial integral in Z is trivial.)
-75 3. Statistical Mechanics
 
 
 3.5     Bose–Einstein Statistics
@@ -47,7 +46,7 @@ Integrating out position and momentum angle, we have
                                                     (2π)3
 
 Changing variables to energy using dk = (dk/dE)dE, for a nonrelativistic particle we find
-                                                          3/2
+                                                            3/2
                                             V         2m
                                      g(E) = 2                      E 1/2 .
                                            4π         ℏ2
@@ -88,7 +87,6 @@ Now we consider photons in blackbody radiation.
                                      ∂β        π c            0           eβℏω − 1
       where the integrand is the Planck distribution. Taking the high T limit then recovers the
       Rayleigh–Jeans law, from equipartition.
-76 3. Statistical Mechanics
 
 
   • Now, to evaluate the integral, note that it has dimensions ω 4 , so it must produce 1/(βℏ)4 . Then
@@ -136,7 +134,6 @@ ically, note that A is the conjugate momentum to E and the energy is
 where we worked in Coulomb gauge. This is then formally identical to a harmonic oscillator. The
 reason that E and B are in phase, rather than the usual 90◦ out of phase, is that B is a derivative
 of the true canonical variable A.
-77 3. Statistical Mechanics
 
 
 Note. Historically, Planck was the first to suggest that energy could be transferred between matter

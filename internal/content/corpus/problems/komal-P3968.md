@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-The tap in the garden was closed at 8 o'clock in the evening, but unfortunately it was closed inappropriately. The water flowing out of it forms a downward narrowing beam as shown in the figure. The beam of water has a circular cross-section, the diameter of the circle is 6 mm at one point and 4 cm below it is only 3.4 mm. How much water was wasted if the tap is closed properly at 8 o'clock next morning. (The viscosity of the flowing water can be neglected.) 
+The tap in the garden was closed at 8 o'clock in the evening, but unfortunately it was closed inappropriately. The water flowing out of it forms a downward narrowing beam as shown in the figure. The beam of water has a circular cross-section, the diameter of the circle is 6 mm at one point and 4 cm below it is only 3.4 mm. How much water was wasted if the tap is closed properly at 8 o'clock next morning. (The viscosity of the flowing water can be neglected.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3968-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3968-fig1.gif)

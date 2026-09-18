@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202302"
 verification_status: pending
 ---
 
-Fill several tubes having different diameter with rice. Measure the pressure as a function of height at the bottom of the rice column for each tube. Plot your results on a graph. 
+Fill several tubes having different diameter with rice. Measure the pressure as a function of height at the bottom of the rice column for each tube. Plot your results on a graph.
  (6 pont)

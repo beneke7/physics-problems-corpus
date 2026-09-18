@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        4
-   Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                              Physics Olympiad Handouts
 
 
     (a) Tegyük fel, hogy a légkör mechanikai egyensúlyban lévő, állandó T hőmérsékletű ideális gáz, amelynek gázmolekulái
@@ -60,5 +62,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
    mivel a szennyező anyagok nem tudnak eltávozni. A légkör fizikájáról bővebben
 
 
-                 01m
+                 01m
    lásd Blundell 37. fejezetét.

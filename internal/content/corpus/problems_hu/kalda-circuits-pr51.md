@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi végtelen lánc $A$ és $B$ kapcsa közötti ellenállását. Az ellenállások az ábra szerintiek, és minden egymást követő láncszemnél kétszeresükre nőnek.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr51-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr51-fig1.jpg)

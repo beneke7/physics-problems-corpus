@@ -41,5 +41,5 @@ Let a source provide a constant voltage with a small portion of alternating volt
 6. [ $\mathbf{0 . 5}$ points] What is the phase difference $\varphi$ between the voltage oscillations across the capacitor and the resistor?
 7. [4.0 points] Find the dependence of the electric current in the circuit $I(t)$ as a function of time.
 8. [0.5 points] Find the voltage across the capacitor $U_{C}(t)$ as a function of time.
-![](izho-2016-t-q3-fig01.png)
-![](izho-2016-t-q3-fig02.png)
+![](../../figures/izho/figures/izho-2016-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2016-t-q3-fig02.png)

@@ -67,7 +67,8 @@ Theoretical 3: Solution
 
 
 Physics of Spin                                                                       Page 1 of 5
-                                     Theoretical 3: Solution
+
+                                     Theoretical 3: Solution
                                     Physics of Spin
 
  2. The new precession frequency as viewed on the rotating frame S 0 is
@@ -121,7 +122,8 @@ Physics of Spin                                                                 
 
 
 Physics of Spin                                                                                           Page 2 of 5
-                                 Theoretical 3: Solution
+
+                                 Theoretical 3: Solution
                                  Physics of Spin
 
  2. Since the angle ↵ that µ makes with Be↵ stays constant and µ is initially oriented along the z
@@ -164,7 +166,8 @@ Physics of Spin                                                                 
 
 
 Physics of Spin                                                                       Page 3 of 5
-                                  Theoretical 3: Solution
+
+                                  Theoretical 3: Solution
                                   Physics of Spin
 
     we obtain the results (! = !0 )
@@ -211,7 +214,8 @@ Physics of Spin                                                                 
 
 
 Physics of Spin                                                                          Page 4 of 5
-                                  Theoretical 3: Solution
+
+                                  Theoretical 3: Solution
                                   Physics of Spin
 
     So, the width of the beams is growing linearly in time. Meanwhile, the two beams are separating

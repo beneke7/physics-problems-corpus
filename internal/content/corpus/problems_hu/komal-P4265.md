@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4265. Egy 200 m hosszú, 10 m/s sebességgel haladó gépkocsi menetoszlop végéről egy motoros küldönc indul 20 m/s sebességgel az oszlop elejére. 
- $a)$ Hány másodperc alatt ér előre? 
- $b)$ Mennyi idő alatt ér vissza? 
+P. 4265. Egy 200 m hosszú, 10 m/s sebességgel haladó gépkocsi menetoszlop végéről egy motoros küldönc indul 20 m/s sebességgel az oszlop elejére.
+ $a)$ Hány másodperc alatt ér előre?
+ $b)$ Mennyi idő alatt ér vissza?
  Tarján Imre verseny, Szolnok

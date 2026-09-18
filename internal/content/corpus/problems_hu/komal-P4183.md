@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4183. Mióta bomlik a 214-es tömegszámú radioaktív ólomizotóp, ha a felezési ideje 26,8 perc, és az atomok eredeti számának már csak 1 ezreléke van meg? 
+P. 4183. Mióta bomlik a 214-es tömegszámú radioaktív ólomizotóp, ha a felezési ideje 26,8 perc, és az atomok eredeti számának már csak 1 ezreléke van meg?
  Lánczos Kornél verseny, Székesfehérvár

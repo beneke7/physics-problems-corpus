@@ -49,7 +49,9 @@ Example 8
        in the reduced system. In this system, there is a single tömeg µ = (1/m + 1/m)−1 = m/2 in
 
                                                        11
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
        a circular orbit of radius R, experiencing the same erő Gm2 /R2 , so
                                                            r

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-The electric field strength at a distance $R$ from a uniformly charged, thin, very long, straight filament is well known. Compare this field strength with the electric field strength at the centre of a bent filament, having a shape of a semicircle of radius $R$. The filaments have the same properties and the same linear charge density. 
+The electric field strength at a distance $R$ from a uniformly charged, thin, very long, straight filament is well known. Compare this field strength with the electric field strength at the centre of a bent filament, having a shape of a semicircle of radius $R$. The filaments have the same properties and the same linear charge density.
  (5 pont)

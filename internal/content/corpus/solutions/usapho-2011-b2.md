@@ -86,12 +86,12 @@ z
 Using this to eliminate v in the energy conservation equation, we find a quadratic in z,
 z2
 −
-
+
 v0
 2
 2g
 + z0
-
+
 z +
 v0
 2
@@ -139,28 +139,28 @@ mv2
 The velocity v is given by
 v2
 =
-
+
 dr
 dt
-2
+ 2
 +
-
+
 dz
 dt
-2
+ 2
 .
 Because z is small, dz
-dt 
+dt
  dr
 dt , and we conclude that
 E =
 1
 2
 m
-
+
 dr
 dt
-2
+ 2
 + mgkr2
 .
 By conservation of energy,

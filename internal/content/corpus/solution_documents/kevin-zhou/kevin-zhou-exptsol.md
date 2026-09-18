@@ -49,7 +49,9 @@ well between tasks, so if any of this describes you, you don’t need to worry. 
 skills at all, you still don’t need to worry, as there’s little you can do about it!
 [1] Problem 1. To gauge your timing skills, get a stopwatch and try to stop it at 5.00 seconds a few
 times, as accurately as possible. Reliably staying within 100ms is decent, and 50ms is great.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 1
 For manual instruments like rulers, the expected accuracy of your measurement is half of the
 minimum division of the scale. A typical ruler has centimeter marks with millimeter divisions,
@@ -88,7 +90,9 @@ g with a pendulum, mentioned in the preliminary problem set. (Some common source
 discussed in M4, and some additional advice is given in the following section.) The bare minimum
 is 10% precision. If you do it well, you should be able to identify effects due to the finite size of the
 mass, and the correction to the period due to finite amplitude, discussed in P1.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 [5] Problem 5. Get a laser pointer, a double slit, a diffraction grating, some polarizers, and a small
 block of clear plastic or glass. With this simple equipment, you can do a basic version of almost
 every kind of measurement that appears in optics labs. (You’ll need a ruler and protractor, and
@@ -123,7 +127,9 @@ the pendulum’s motion starts to die down, but stop before it becomes hard to s
 • To make sure N can be sufficiently high, you should release the pendulum with a
 significant amplitude, but not so high that corrections to the small angle approximation
 will matter, at the accuracy to which you’re working.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 • To accurately time periods, you should start your stopwatch only once the pendulum is
 stably swinging, not at the moment you release it.
 • You should start and stop the stopwatch at the moment the pendulum passes by a fixed
@@ -160,7 +166,9 @@ intensity of the red light given off by the bulb in a given direction, at a give
 Solution. Obviously, you have to fix the locations of the bulb and light meter, put the filter between
 them, and point the light meter directly at the bulb. But some other things impact the accuracy of
 the result.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 • Of course, you should first turn off all of the other lights that you can, and keep them off.
 • You should ensure the result isn’t affected by reflections. The best way to do this would be to
 put the bulb and light meter underneath a black box. If one isn’t available, the next best thing
@@ -171,7 +179,7 @@ is the difference of what you measure with the light bulb on, and this backgroun
 the filter is next to the bulb, it might partially scatter the bulb’s light, throwing off the angular
 distribution. Also, if the filter is covering the light meter, then it will also filter out non-red
 background light. This significantly lowers the background, allowing a more precise result.
-[2] Problem 7.  ^ 1 0AuPhO 2012, problem 14. Another question about practical measurements.
+[2] Problem 7.   ^ 1 0AuPhO 2012, problem 14. Another question about practical measurements.
 Now for some brief advice for more subtle experiments.
 Idea 2
 In trickier experiments, it might not be obvious how to perform a measurement. Sometimes,
@@ -196,7 +204,9 @@ on what works best). It’s hard to say more about this process without getting 
 examples, but doing simulation labs is a fantastic way to practice it, since it’s essentially
 those labs’ only source of difficulty. A variety of good simulation labs are listed at the end of
 this problem set.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 4 Analyzing Data
 Idea 3
 The zeroth step of data analysis is to neatly organize your work.
@@ -233,7 +243,9 @@ won’t get much better, or when it’s not reasonable in the time given.
 To gauge how much time is reasonable, note that a 5 hour experimental exam contains 20
 points, so 1 point should take 15 minutes. Usually, you’ll spend a bit less than half your time
 collecting data. (But in some experiments, you’ll have to collect data “passively”, waiting
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 several minutes for each data point. In these cases, you should collect data for most of the
 time, doing your thinking and data analysis while waiting.)
 To plot a completely generic line, it’s reasonable to take 5 to 8 data points. But there are
@@ -267,7 +279,9 @@ It should be noted that not all data analysis requires drawing lines. Sometimes 
 take the same data point several times and average the results. In addition, sometimes you
 may have to sketch more general curves through data points, such as resonance curves, and
 eyeball minima, maxima, or transition points.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 If you’re unusually scrupulous, you might object to the point about outliers above:
 isn’t throwing out data a kind of scientific fraud? Well, in social science it’s a huge
@@ -288,7 +302,7 @@ rubrics generally demand you take the number of data points that gets you the mo
 result in the time available. Real data points make your answer more accurate, while fake
 data points don’t. So if the rubric wants at least 7, and you take 2 and fake 10 more, then
 the most likely result is that your final answer will be outside the window that gets credit.
-[2] Problem 8.  Y 1 0AuPhO 2016, problem 14. A simple question about plotting data. You’ll also
+[2] Problem 8.   Y 1 0AuPhO 2016, problem 14. A simple question about plotting data. You’ll also
 need the accompanying answer sheets.
 Idea 6
 Generally, students do too much formal error analysis, and not enough informal error analysis.
@@ -307,7 +321,9 @@ resulting range of slopes and intercepts gives the uncertainty on those paramete
 • Most errors can be assigned by rules of thumb. As discussed above, for a ruler you should
 take ∆x = 0.5mm. If a voltmeter stably shows 16.2V, you should take ∆V = 0.05V. If
 a voltmeter is fluctuating between 0.73V and 0.77V, you should take ∆V = 0.02V.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 The reason the requirements are so loose is that there’s not a widespread agreement on
 what an error bar even means, at the high school level. To a statistician, it should mean
 a standard deviation. But at the introductory level, it often is construed to mean “the
@@ -323,13 +339,13 @@ accurate. If you think you need to do extremely precise measurements, of lengths
 than 0.5mm or of voltages on the mV scale, or it’s hard to see the physical effect because of
 an enormous spread in your data points, then there’s probably a better way.
 5 Simulation Labs
-[5] Problem 9.  @ 1 0USA Experiment Team Selection Test 2022. This was designed to be a warmup
+[5] Problem 9.   @ 1 0USA Experiment Team Selection Test 2022. This was designed to be a warmup
 for the other simulation labs, and should be done first. It’s very clean and simple, illustrates many
 of the principles discussed above, and comes with detailed solutions worth reading.
-[5] Problem 10.  @ 1 0EuPhO 2020. (If you’re using a Mac, you’ll have to run “chmod +x” in the
+[5] Problem 10.   @ 1 0EuPhO 2020. (If you’re using a Mac, you’ll have to run “chmod +x” in the
 terminal to get these files to work.)
-[5] Problem 11.  @ 1 0EuPhO 2021.
-[5] Problem 12.  @ 1 0IPhO 2022.
+[5] Problem 11.   @ 1 0EuPhO 2021.
+[5] Problem 12.   @ 1 0IPhO 2022.
 If you want more practice, there are a few more simulation labs from the COVID era. If you want
 to try any of them, I recommend APhO 2022. As for the others, IPhO 2020 was designed to be a
 physical lab, and switched over to a simulation lab at the last minute. APhO 2021 is also awkwardly

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202204"
 verification_status: pending
 ---
 
-Measure the refractive index of cooking oil. 
+Measure the refractive index of cooking oil.
  (6 pont)

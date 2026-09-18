@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201502"
 verification_status: pending
 ---
 
-An object slides down frictionlessly from the top of a fixed straight slope of base 30 cm. At least how long does it take for the object to slide down? 
+An object slides down frictionlessly from the top of a fixed straight slope of base 30 cm. At least how long does it take for the object to slide down?
  (4 pont)

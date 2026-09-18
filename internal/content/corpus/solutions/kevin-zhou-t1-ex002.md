@@ -23,13 +23,13 @@ The tricky thing about this problem is that the pressures in the two compartment
 this is possible because the external agent is holding the piston. Instead, the temperatures
 are made equal by heat conduction. The work done by the agent is
 dW = −pA dVA − pB dVB = −RT
-
+
 dVA
 VA
 +
 dVB
 VB
-
+
 .
 On the other hand, this is also equal to the increase in energy,
 dW = dU =

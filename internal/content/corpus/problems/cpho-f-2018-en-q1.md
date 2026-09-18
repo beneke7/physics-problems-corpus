@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 1 (35 points). Refer to Figure 1.1. A solid hemisphere of radius $R$ and mass $M$ lies at rest upon a smooth tabletop. A smaller solid sphere of uniform density, mass $m$, and radius $r$ rests upon the apex of the hemisphere. At some instant, the sphere is given a small perturbation and begins to move along the surface of the hemisphere. In the course of the sphere's motion, its position with respect to the hemisphere is described by the angle $\theta$, where $\theta$ is the angle between the vertical and the line joining the centres of each body. We are given the moment of inertia of the sphere $\frac{2}{5} m r^{2}$ about its axis of symmetry, the coefficient of kinetic friction $\mu$ between the sphere and hemisphere, the assumption that the maximum static friction is equal to the kinetic friction, and the gravitational acceleration $g$.
 
-![](cpho-f-2018-en-q1-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2018-en-q1-fig01.png)
 Figure 1.1: A sphere rolling down a hemisphere.
 
 (1) ( 15 points). The sphere rolls without slipping for a while after it begins to move. When $\theta=\theta_{1}$, find the magnitudes of the hemisphere's velocity $V_{M}\left(\theta_{1}\right)$ and its acceleration $a_{M}\left(\theta_{1}\right)$ during this motion.

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-Astronauts set off to explore the distant universe. Their spacecraft is launched from the Earth and travels at a speed of $3/5\,c$. The controllers on Earth send a part of the cargo $T$ time after the launch of the spacecraft in another rocket travelling at a speed of $4/5\,c$. 
- a) What is the speed of the rocket in the coordinate system of the astronauts? 
- b) How much time elapses between the launch and the arrival of the rocket, carrying the cargo, in the reference frame of the ground controllers and in the reference frame of the astronauts? The time required to accelerate the rocket and the spacecraft is negligible with respect to $T$. 
+Astronauts set off to explore the distant universe. Their spacecraft is launched from the Earth and travels at a speed of $3/5\,c$. The controllers on Earth send a part of the cargo $T$ time after the launch of the spacecraft in another rocket travelling at a speed of $4/5\,c$.
+ a) What is the speed of the rocket in the coordinate system of the astronauts?
+ b) How much time elapses between the launch and the arrival of the rocket, carrying the cargo, in the reference frame of the ground controllers and in the reference frame of the astronauts? The time required to accelerate the rocket and the spacecraft is negligible with respect to $T$.
  (5 pont)

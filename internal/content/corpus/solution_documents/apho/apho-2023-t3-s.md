@@ -59,7 +59,8 @@ at the minimum is easily found to be
                                Rc = R0            ≈ 60 µm,                        (7)
                                            2σ
                                               1
-2                                TSOGTGEREL GANTUMUR
+
+2                                TSOGTGEREL GANTUMUR
 
 and the corresponding pressure is
                                               ( R0 )3
@@ -114,7 +115,8 @@ pressure pv and the partial air pressure q, as
                                                     ( R0 )3γ
                                p = pv + q = pv + q0           ,                    (18)
                                                        R
-                               CAVITATION: A POSSIBLE SOLUTION                                     3
+
+                               CAVITATION: A POSSIBLE SOLUTION                                     3
 
 we have
                                  3          2σ q0 R03γ
@@ -174,7 +176,8 @@ Taking into account that
                                        ∞ − pv + 2σ/R0 ≈ 10 Pa,                                  (29)
 we conclude that the rebound radius is
                                             R ≈ 0.4 µm.                                         (30)
-4                                 TSOGTGEREL GANTUMUR
+
+4                                 TSOGTGEREL GANTUMUR
 
 B4. If there is no gas other than water vapour present in a bubble, the bubble completely
 collapses in finite time. Determine the characteristic exponent α in
@@ -227,7 +230,8 @@ where f is the frequency, and c is the speed of sound. The parameters p0 , A, an
 constants, whose meanings may readily be deduced from the equation. Find the average
 force exerted upon the bubble. The bubble is situated at the origin of the xyz coordinate
 system, and its size is much smaller than the wavelength of the sound.
-                              CAVITATION: A POSSIBLE SOLUTION                               5
+
+                              CAVITATION: A POSSIBLE SOLUTION                               5
 
 Solution. Small oscillation of the bubble is described by
                                                         ( 2πf )
@@ -280,7 +284,8 @@ of radii r and r + ∆r with ∆r small. The rate of change of air mass in this 
                                       dm              ∂u
                                            = 4πr2 ∆r ,                                   (53)
                                        dt             ∂t
-6                               TSOGTGEREL GANTUMUR
+
+6                               TSOGTGEREL GANTUMUR
 
 
 
@@ -325,7 +330,8 @@ with                       {
                              v(r, 0) = r(ui − qH) for r > R,
                                                                                  (59)
                              v(R, τ ) = 0          for τ > 0.
-                           CAVITATION: A POSSIBLE SOLUTION                              7
+
+                           CAVITATION: A POSSIBLE SOLUTION                              7
 
 We can go further by introducing
                       ξ =r−R        and      w(ξ, τ ) = v(R + ξ, τ ),               (60)
@@ -388,7 +394,8 @@ Since ui − p∞ H = 0, we have
                                                       2
                              −2σκHdt = δ0 R2 dR + εRdR,                              (73)
                                                       3
-8                                  TSOGTGEREL GANTUMUR
+
+8                                  TSOGTGEREL GANTUMUR
 
 and a direct integration yields
                                              δ0 R03 4εR02

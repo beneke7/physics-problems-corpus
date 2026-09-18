@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201009"
 verification_status: pending
 ---
 
-The pulling force that an electric engine can exert when its speed is 57.6 km/h is 310 kN. The voltage is 3.6 kV, and the current in all the eight electric motors is 230 A. Determine the efficiency of the engine. 
+The pulling force that an electric engine can exert when its speed is 57.6 km/h is 310 kN. The voltage is 3.6 kV, and the current in all the eight electric motors is 230 A. Determine the efficiency of the engine.
  (3 pont)

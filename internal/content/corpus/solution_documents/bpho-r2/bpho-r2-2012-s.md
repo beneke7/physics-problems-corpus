@@ -19,7 +19,7 @@ BPO 2012 Round 2
 
    (i)   From Kepler’s 3rd law we know that the period of a planet’s elliptical orbit around
          the Sun, P, and the semimajor axis of that orbit, a, are related by
-                                                  ∝ 
+                                                    ∝
          Since aVenus and aEarth are different, their periods are different. This means that
          the position of Venus relative to Earth changes with time:
 
@@ -34,21 +34,25 @@ BPO 2012 Round 2
 
          The changes in shape are due to the different angles of incidence for sunlight to
          be reflected off Venus towards the Earth at different points in its orbit.
-(ii)   The naked eye does not have sufficient angular resolution to resolve Venus’s
+
+
+(ii)   The naked eye does not have sufficient angular resolution to resolve Venus’s
        shape. The angular resolution of the naked eye is approximately one arcminute,
        which is also the approximate angular size of Venus as viewed from Earth, so the
        naked eye perceives Venus as a bright point object in the size. The sensitivity of
        the eye to changes in brightness is, however, sufficient to perceive the changes
        in brightness due to different amounts of reflected sunlight reaching the Earth as
        Venus changes its position relative to us.
-(iv)   If there are no leaks, the mass of water entering the hose from the tap in unit
+
+
+(iv)   If there are no leaks, the mass of water entering the hose from the tap in unit
        time must be the same as the mass of water leaving the hose at the other end in
        unit time.
 
-       Mass of water entering hose in unit time:  =                          
+       Mass of water entering hose in unit time:    =
 
 
-       Mass of water leaving hose in unit time:  =                   
+       Mass of water leaving hose in unit time:      =
 
 
        where ρ is the density of water, Ain and Aout are the cross-sectional areas of the
@@ -57,33 +61,35 @@ BPO 2012 Round 2
 
        Since min = mout, we get
 
-                                           =                    
-                                                              
-                                                      
-                                                              
+                                              =
+
+
+
 
 
        Assuming that the cross-sectional area of the hose is constant throughout its
        length, the only way that vout can be different from vin is if Aout is altered by
        partially blocking it:
-                                        =     −    
+                                           =      −
 
 
-       where Athumb is the area blocked by the thumb   ≤                         .
+       where Athumb is the area blocked by the thumb         ≤                           .
 
        This means that
 
 
-                                       =                                
-                                                              
-                                              
-                                                         −       
+                                          =
+
+
+                                                          −
 
 
        Since Athumb > 0, vout > vin
 
        QED
-1(b)
+
+
+1(b)
 
 
 
@@ -92,22 +98,22 @@ BPO 2012 Round 2
         Equating this to kinetic energy gives:
 
                                      1
-                                         = 1.6 " 10$%& '
-                                     2  
+                                           = 1.6 " 10$%& '
+                                     2
 
 
                                  2 " 1.6 " 10$%& '
-                              = (                  = 5.9 " 10- //
-                          
-                                  9.1 " 10\$% *+
+                              = (                  = 5.9 " 10-  //
+
+                                  9.1 " 10\$ % *+
 
 
 (ii)    The electric field is uniform between the plates, so if the electron travels half the
         distance it acquires half as much energy from the field. The velocity can be
         calculated easily:
 
-                             %/ =         = 4.2 " 10- //
-                                     
+                             %/  =         = 4.2 " 10-  //
+
 
                                      √2
 

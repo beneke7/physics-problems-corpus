@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Two balls, kicked at different angles but with the same initial speed, land at the same distance. The ball with the higher trajectory flew twice as long as the other. What is the relationship between the peak heights of the two trajectories? At what angles were the balls kicked? 
+Two balls, kicked at different angles but with the same initial speed, land at the same distance. The ball with the higher trajectory flew twice as long as the other. What is the relationship between the peak heights of the two trajectories? At what angles were the balls kicked?
  (4 pont)

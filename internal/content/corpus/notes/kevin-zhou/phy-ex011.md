@@ -30,7 +30,6 @@ Example. The Hamiltonian for a nonrelativistic particle in an electromagnetic fi
 where p = mṙ + eA is the canonical momentum. We see that the Hamiltonian is numerically
 unchanged by the addition of a magnetic field, reflecting the fact that magnetic fields do no work,
 but the time evolution is affected, since the canonical momentum is different.
-17 1. Classical Mechanics
 
 
    For a relativistic particle, we may carry out the same procedure for S1 , where the Lagrangian is
@@ -70,7 +69,7 @@ Hamiltonian mechanics leads to some nice theoretical results.
                                               ∂pi                    ∂qi
     Then the Jacobian matrix is
                                I + (∂ 2 H/∂pi ∂qj )dt (∂ 2 H/∂pi ∂pj )dt
-                                                                         
+
                        J=                                                   .
                                 −(∂ 2 H/∂qi ∂qj )dt I − (∂ 2 H/∂qi ∂pj )dt
 
@@ -87,7 +86,6 @@ Hamiltonian mechanics leads to some nice theoretical results.
 
   • Liouville’s theorem holds even if energy isn’t conserved, as in the case of an external field. It
     fails in the presence of dissipation, where there isn’t a Hamiltonian description at all.
-18 1. Classical Mechanics
 
 
  • Poincare recurrence states that for a system with bounded phase space, given an initial point
@@ -142,7 +140,6 @@ The formalism of Poisson brackets is closely analogous to quantum mechanics.
 
       so the space of functions with the Poisson bracket is a Lie algebra. As a result, Lie brackets of
       conserved quantities are also conserved, so conserved quantities form a Lie subalgebra.
-19 1. Classical Mechanics
 
 
   • The Poisson brackets of position and momentum are always

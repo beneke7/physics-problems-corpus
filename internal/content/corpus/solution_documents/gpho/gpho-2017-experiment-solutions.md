@@ -47,7 +47,9 @@ d = dfig /100 = 0.195 ± 0.010 mm.      [0.5 p for the value and 0.5 p for the u
 
 
                                                         — page 1 of 10 —
-Part B. Resistivity (3 points)
+
+
+Part B. Resistivity (3 points)
 
 Draw measurement circuit(s):
 The string should be heated as little as possible, thus we should use as big a resistor as possible to limit the current. The
@@ -92,7 +94,9 @@ calculation]
 
 
                                                          — page 2 of 10 —
-Part C. String oscillations (3 points)
+
+
+Part C. String oscillations (3 points)
 
 Draw measurement circuit(s):
 The circuit consists in a Hz-meter connected between S+ and S−.
@@ -128,7 +132,9 @@ coefficient a2a
 
 
                                                       — page 3 of 10 —
-Graph: f versus l
+
+
+Graph: f versus l
 
     f(Hz)
          360
@@ -176,7 +182,9 @@ differing at least 1.5 times, 0.5 p for calculating the lengths, 0.5 p for plott
 
 
                                                                 — page 4 of 10 —
-Part D. Young modulus of the string (4.5 points)
+
+
+Part D. Young modulus of the string (4.5 points)
 Suitable axes for finding Young modulus from graph expressed by known quantities:
 In the fundamental mode of oscillations there is exactly one half of a wavelength on the string (the ends are fixed and the
 middle has the maximum amplitude). We can relate the wavelength to the wave’s speed by v = λf = 2bf , where b is the
@@ -206,7 +214,9 @@ It is most convenient just to add a column of f 2 to the table in part C.
 
 
                                                         — page 5 of 10 —
-Graph: y versus x
+
+
+Graph: y versus x
 
 
 
@@ -259,7 +269,9 @@ Young modulus E and its uncertainty:
                                                    slope    b   l0    A
 [If only slope error is taken into account, 0.5 p for the uncertainty]
                                                           — page 6 of 10 —
-Part E. Heated string (3 points)
+
+
+Part E. Heated string (3 points)
 Draw measurement circuit(s):
 We tensioned the string by 10 turns of the screw to ensure the frequencies stay high enough. Then we connect a resistor (R1 )
 and an ammeter (in the 10 A range) between A and B and alternate with the smaller multimeter between measuring the
@@ -289,7 +301,9 @@ T0 = 23.0 ◦ C.
 
 
                                                       — page 7 of 10 —
-Graph: f versus T
+
+
+Graph: f versus T
 
 
 
@@ -340,7 +354,9 @@ the plot]
 
 
                                                      — page 8 of 10 —
-Part F. Thermal expansion of the string (4.5 points)
+
+
+Part F. Thermal expansion of the string (4.5 points)
 
 Suitable axes for finding coefficient of linear heat expansion α from graph expressed by known quantities:
 The coefficient of linear heat expansion describes the changes in the untensioned length of the string. l00 [1 + α(T − T0 )] =
@@ -381,7 +397,9 @@ Calculated data for the graph (you don’t have to fill the entire table):
 
 
                                                         — page 9 of 10 —
-Graph: y versus x
+
+
+Graph: y versus x
 
 
 

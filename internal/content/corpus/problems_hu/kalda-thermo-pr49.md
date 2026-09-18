@@ -25,4 +25,4 @@ c) Határozzunk meg kapcsolatot a csőben áramló levegő $v$ sebessége és a 
 d) Fejezzük ki a $P$ disszipációs teljesítményt a levegő áramlási sebességével $v$, a kiáramló levegő $T$ hőmérsékletével és $\rho$ sűrűségével (a kapcsolat a fent definiált paramétereket is tartalmazhatja).
 e) Mekkora a kiáramló levegő $T$ hőmérséklete? A számításokban felhasználhatjuk a $T-T_{0} \ll T_{0}$ közelítést.
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr49-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr49-fig1.jpg)

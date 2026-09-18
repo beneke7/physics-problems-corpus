@@ -49,10 +49,10 @@ In 2018, the Nobel Prize in physics was awarded to A. Ashkin for the creation of
 To create a force acting on the particle in the transverse direction of the beam, the left half of the lens $L$ is covered by a diaphragm (see figure 3.2 below).
 3.8 Calculate the force acting on the microparticle in the transverse direction of the beam.
 
-![](izho-2022-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2022-t-q3-fig01.png)
 Figure 3.1
 
-![](izho-2022-t-q3-fig02.png)
+![](../../figures/izho/figures/izho-2022-t-q3-fig02.png)
 Figure 3.2
 
 Mathematical hints for the theoretical problems

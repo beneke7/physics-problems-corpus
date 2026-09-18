@@ -38,7 +38,7 @@ vezetőképességet a hőáram (wattban mérve) és az egységnyi felület hány
 definiáljuk, feltételezve, hogy a hőmérsékletesés $1^{\circ} \mathrm{C}$ minden 1 m
 hosszra. A mikrokaloriméter (a Ti-korongokkal együtt) hőkapacitása $C$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2008-microcalorimeter-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2008-microcalorimeter-fig1.png)
 
 1) Határozd meg a mikrokaloriméter és a wafer közötti $R$ termikus ellenállást
 (vagyis a hőmérsékletkülönbség és a hőáram arányát).

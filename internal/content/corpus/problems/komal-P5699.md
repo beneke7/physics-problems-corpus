@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-An artificial moon orbits the Earth in the same direction as the Earth's rotation, in the plane of the equator, at a constant height above the surface of the Earth, which is of 4 times the radius of the Earth. 
- a)  What is the period of the artificial satellite? 
- b)  How many days does it take for the artificial satellite to pass over a selected point on the equator? 
+An artificial moon orbits the Earth in the same direction as the Earth's rotation, in the plane of the equator, at a constant height above the surface of the Earth, which is of 4 times the radius of the Earth.
+ a)  What is the period of the artificial satellite?
+ b)  How many days does it take for the artificial satellite to pass over a selected point on the equator?
  (4 pont)

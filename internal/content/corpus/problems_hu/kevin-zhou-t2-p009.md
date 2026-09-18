@@ -41,7 +41,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           meg, mivel ez csak az entrópiaváltozásokat tudja meghatározni.
 
                                                       7
-    Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
 
 
      (d) Vizsgáljuk most azt az esetet, amikor az ideális gázt vákuumba engedjük szabadon tágulni,
@@ -56,6 +58,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
 
-                        01W
+                        01W
            a jobb oldalnak függetlennek kell lennie n-től. Ennek felhasználásával határozzuk meg
            f (n)-et.

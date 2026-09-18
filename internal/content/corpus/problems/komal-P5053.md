@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, limiting-and-special-cases]
 ---
 
-Determine the total luminosity of a star whose surface temperature is 7500 K, and whose diameter is 2.5 times bigger than that of the Sun. The surface temperature of the Sun is 5800 K, and express the luminosity of the star in terms of the luminosity of the Sun (which is considered to be 1). 
+Determine the total luminosity of a star whose surface temperature is 7500 K, and whose diameter is 2.5 times bigger than that of the Sun. The surface temperature of the Sun is 5800 K, and express the luminosity of the star in terms of the luminosity of the Sun (which is considered to be 1).
  (4 pont)

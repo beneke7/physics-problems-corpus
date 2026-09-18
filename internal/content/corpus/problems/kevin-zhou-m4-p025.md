@@ -35,4 +35,6 @@ Consider a pendulum whose length adiabatically changes from L to L/2.
          in the length of the pendulum, and Einstein said yes. Reproduce Einstein’s analysis.
 
                                                      17
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts

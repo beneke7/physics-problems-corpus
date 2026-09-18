@@ -18,7 +18,7 @@ $$
 hence $\omega_{0}=1 / \sqrt{L C_{0}}$.
 Grading: Concluding that the impedance of the lower branch must be zero: 0.8 pts; expressing this impedance: 1 pt; finding the final answer: 0.2 pts.
 ii) (3 points) Let us draw a phasor for this circuit. As compared with $\omega=\omega_{0}$, the ratio of the impedances on the inductor and on a capacitor is increased four-fold. For the lower branch, these two impedances were equal previously, hence now the impedance of the inductor is four times bigger than the impedance of the capacitor; the same applies to the corresponding voltages: $V_{L}=4 V_{C 0}$. The two voltage vectors are antiparallel and must add up to the input voltage $V_{0}$, hence $V_{L}-V_{C 0}=$ $V_{0}$, hence $V_{C 0}=V_{0} / 3$ and $V_{L}=\frac{4}{3} V_{0}$. The voltage vectors on $C_{1}$ and $R$ are perpendicular to each other and must add up also to the input voltage $V_{0}$, hence these three voltage vectors form a right triangle. According to the Thales theorem, the right angle must lie on a circle, with the input voltage being a diameter of this circle. This is depicted in the figure below where the voltage vectors are color-couded as follows: output - black; capacitor $C_{1}$ - cyan; capacitor $C_{0}$ - blue; inductor - red; resistor - green. Radius of the circle is shown in purple.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p3.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p3.png)
 From this figure, it becomes obvious that the phase shift $\varphi$ is maximal when
 the output voltage vector is tangent to the circle, hence
 

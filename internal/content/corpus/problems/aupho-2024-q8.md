@@ -32,7 +32,7 @@ This question uses concepts from waves and motion. If you have studied waves bef
 One aspect of these diagrams which is correct and useful for this question is that they show points of no movement (nodes) at the ends of the strings. This must be true for the ends of a violin string because they are held in place at these points.
 However, the sinusoidal shape can be misleading because it indicates that there is only one pure musical note. In reality there could be many different notes at the same time resulting in very different shapes.
 Below is a diagram of a violin. Take note of the location of the nut and the bridge, between which the string can vibrate. The bow moves the string transversely in the section between the bridge and the start of the fingerboard.
-![](aupho-2024-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2024-q8-fig01.png)
 The following information may be useful.
 A violin consists of four strings, each of different thickness and tension. They are held still on one end and connected to the (tuning) pegs on the other. Turning the pegs allows the tension in each of the strings to be adjusted independently. A violin is played by sliding the bow on the string between the bridge and the fingerboard.
 
@@ -44,7 +44,7 @@ Sound is a vibration of particles in some medium (such as air). To produce sound
 Placing a finger along the string shortens the effective length of the string that can oscillate to produce different pitches/frequencies. Ignore the change in tension due to pressing down on the string.
 
 A bowed violin string oscillates rather strangely. The bow alternates between 'sticking' to the string and allowing it to 'slip'. Below is a graph showing the velocity of the string at the point of contact with the bow over time.
-![](aupho-2024-q8-fig02.png)
+![](../../figures/aupho/figures/aupho-2024-q8-fig02.png)
 The period T (in seconds) is the time taken between two consecutive occurrences of a repeating event (like a vibration on a string). It is related to the frequency f (in Hertz) by the formula:
 
 $$

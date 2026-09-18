@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, choose-reference-frame]
 ---
 
-What is the least force with which an ice cube sliding on ice can be turned over? (Friction is negligible.) 
+What is the least force with which an ice cube sliding on ice can be turned over? (Friction is negligible.)
  (5 pont)

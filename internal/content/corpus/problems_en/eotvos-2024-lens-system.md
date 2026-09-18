@@ -21,7 +21,7 @@ verification_status: pending
 
 In a tube, we have symmetrically placed two converging lenses with focal lengths $f_{1}=50 \mathrm{~cm}$ and two with focal lengths $f_{2}=10 \mathrm{~cm}$ as shown in the diagram on the left. We have been able to adjust the lenses such that when we look through the optical system, objects appear to us exactly as they would if we were looking through an empty tube.
 
-![figure](sources/eotvos/figures/eotvos-2024-lens-setup-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2024-lens-setup-fig1.jpg)
 
 a) What are the distances $d$ and $s$ between the lenses?
 

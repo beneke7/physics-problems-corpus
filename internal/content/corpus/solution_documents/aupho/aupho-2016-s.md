@@ -46,7 +46,9 @@ MARKS
                                        Page 1 of 22
                2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations ABN 81731558309
-                            SECTION A: MULTIPLE CHOICE
+
+
+                            SECTION A: MULTIPLE CHOICE
                           USE THE ANSWER SHEET PROVIDED
 
 
@@ -85,7 +87,9 @@ Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
                                                 Page 2 of 22
                         2016 Australian Science Olympiads Exam – Physics Solutions
                          c Australian Science Innovations 2016 ABN 81731558309
-Question 3
+
+
+Question 3
 “Slice” is the name given to the angular deviation from the straight-through direction that a golfer
 produces when they hit a golf ball off the tee. David derives the following formula for his slice:
                                                   (1 − P)
@@ -126,7 +130,9 @@ direction.
                                            Page 3 of 22
                    2016 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2016 ABN 81731558309
-Question 5
+
+
+Question 5
 The Earth and the Moon both exert gravitational forces on objects in their vicinity. Imagine a line joining
 the Earth to the Moon, and extending to either side, as shown below (not to scale). Consider placing an
 object along this line. Where along this line is the net gravitational force on the object due to the Earth
@@ -177,7 +183,9 @@ and index laws can be used to simplify this to give the expression in response d
                                            Page 4 of 22
                    2016 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2016 ABN 81731558309
-Question 7
+
+
+Question 7
                                                                                                          y
 A ball is held at a height H above a floor, as sketched in the diagram on the
                                                                                                          H
@@ -214,7 +222,9 @@ remains constant as energy is conserved.
                                            Page 5 of 22
                    2016 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2016 ABN 81731558309
-Question 8
+
+
+Question 8
 Some students are doing an experiment to calculate the spring constant of a particular spring. As part of
 this experiment, they suspend an object from the spring, pull it downwards, and let it go. The object then
 oscillates up and down, with a period of about 2 seconds. The students use a stopwatch to measure the
@@ -242,7 +252,9 @@ period can be increased further.
                                           Page 6 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
- Question 9
+
+
+ Question 9
  A roller-coaster car is full of water, and is moving at constant velocity along a frictionless horizontal
  track. Someone removes a plug in the bottom of the floor, allowing the water to drain out. Ignoring air
  resistance, as the water drains out the car will:
@@ -279,7 +291,9 @@ Question 10
                                             Page 7 of 22
                     2016 Australian Science Olympiads Exam – Physics Solutions
                      c Australian Science Innovations 2016 ABN 81731558309
-                    SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                    SECTION B: WRITTEN ANSWER QUESTIONS
                       USE THE ANSWER BOOKLET PROVIDED
 Note: Suggested times are given for Section B as a general guide only. You may take more or less time on
 any question – everyone is different.
@@ -308,7 +322,7 @@ any question – everyone is different.
                                               = 640 hours .
 
            The energy saved by turning 60 computers off when not in use is
-                                                                                      
+
                                                          days      hours         hours
                             Es = 130 W × 60 × 365             × 24         − 640
                                                          year       day           year
@@ -332,11 +346,13 @@ any question – everyone is different.
                                                Page 8 of 22
                        2016 Australian Science Olympiads Exam – Physics Solutions
                         c Australian Science Innovations 2016 ABN 81731558309
-c) Estimate the energy efficiency of the conversion of sunlight into sugarcane.
+
+
+c) Estimate the energy efficiency of the conversion of sunlight into sugarcane.
    Solution: The mass of sugar required to give 100% of the recommended daily energy intake is
    around 0.23 kg/0.45 = 0.51 kg or 0.31 kg/0.65 = 0.48 kg. Hence, the energy obtained from
    growing 1 m2 of sugar cane is
-                                                                           
+
                                      kg      8.7 MJ               MJ
                        Esc = 9.2 2 ×                × 0.15 + 19.2    × 0.30
                                     m        0.5 kg               kg
@@ -383,7 +399,9 @@ d) “Kilogram per kilogram humans produce more heat than the Sun.” Is this cl
                                        Page 9 of 22
                2016 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2016 ABN 81731558309
-Typical Australian Adult:
+
+
+Typical Australian Adult:
  Typical adult mass  65 kg
  Typical adult height    1.7 m
 
@@ -419,7 +437,9 @@ Solar System Data
                                            Page 10 of 22
                     2016 Australian Science Olympiads Exam – Physics Solutions
                      c Australian Science Innovations 2016 ABN 81731558309
-Question 12
+
+
+Question 12
  Suggested Time: 25 min
 Angus the accountant decides to change careers and starts a bicycle building business. To make his
 bicycles stand out he builds them with square wheels, making sure that both wheels can sit with a side
@@ -467,13 +487,15 @@ Angus rides his first bicycle proudly out of his shed turning his pedals at a co
                                            Page 11 of 22
                     2016 Australian Science Olympiads Exam – Physics Solutions
                      c Australian Science Innovations 2016 ABN 81731558309
-   b) Calculate the ratio of the length of the path followed by the centre of mass to the distance travelled
+
+
+   b) Calculate the ratio of the length of the path followed by the centre of mass to the distance travelled
       along the road.
       Solution: The bike wheels are rotating about the corners and the centre of the wheel is fixed
       distance from the corner so it follows the arc of a circle. If the length of the side of the wheel is s,
       then the centre is a distance
-                                                  s
-                                                        s 2  s 2 
+                                                  s
+                                                         s  2   s  2
                                           d =                 +
                                                          2         2
                                                     s
@@ -515,7 +537,9 @@ from the bike. The bike then has constant energy.
                                          Page 12 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
-After watching Sam ride the bicycle Angus realises the error of his ways, and decides to construct a
+
+
+After watching Sam ride the bicycle Angus realises the error of his ways, and decides to construct a
 racetrack specifically for his square bicycles.
 
    d) Draw a side view of the racetrack’s surface shape to ensure the smoothest ride on one of the
@@ -541,7 +565,9 @@ racetrack specifically for his square bicycles.
                                          Page 13 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
-Question 13
+
+
+Question 13
  Suggested Time: 25 min
 Having missed the boat for Rio 2016, Emily and Joshua are determined to qualify instead for the Winter
 Olympics in 2018, to be held in PyeongChang, South Korea.
@@ -594,7 +620,9 @@ has magnitude FP . Emily has a mass m.
                                          Page 14 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
-         a sine function in the expression. Some students resolved the skis into components rather
+
+
+         a sine function in the expression. Some students resolved the skis into components rather
          than forces.
 b) Draw all the forces as vectors acting on Emily as she ploughs downhill on the diagram on p. 6 of
    the answer booklet. Include the combined effect of the ploughing forces as a single vector.
@@ -619,7 +647,7 @@ c) At what angle α between the skis will Emily continue down the hill at a cons
                                            sin    =            .
                                                 2      2FP
    Inverting the sine function then gives the angle between the skis required for Emily to move at a
-   constant speed                                             
+   constant speed
                                                       mg sin θ
                                        α = 2 arcsin               .
                                                         2FP
@@ -632,7 +660,9 @@ c) At what angle α between the skis will Emily continue down the hill at a cons
                                       Page 15 of 22
                2016 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2016 ABN 81731558309
-Joshua thinks he might have a go at the slalom event so has been practising sharp turns.
+
+
+Joshua thinks he might have a go at the slalom event so has been practising sharp turns.
 
    d) Joshua is skiing down the slope with his skis pointing downhill and suddenly turns his skis so that
       they are pointing across the slope.
@@ -674,7 +704,9 @@ c) At what angle α between the skis will Emily continue down the hill at a cons
                                               Page 16 of 22
                        2016 Australian Science Olympiads Exam – Physics Solutions
                         c Australian Science Innovations 2016 ABN 81731558309
-e) Joshua decides to practice a different turn. He skis down the same hill and then suddenly turns his
+
+
+e) Joshua decides to practice a different turn. He skis down the same hill and then suddenly turns his
    skis by 45◦ and then keeps them pointing in the same direction. Draw a diagram of his path on
    p. 7 of the answer booklet. Please point out any important features of the path.
    Solution:
@@ -715,7 +747,9 @@ c) At what angle α between the skis will Emily continue down the hill at a cons
                                            Page 17 of 22
                     2016 Australian Science Olympiads Exam – Physics Solutions
                      c Australian Science Innovations 2016 ABN 81731558309
-Question 14
+
+
+Question 14
  Suggested Time: 25 min
 Metronomes are tools sometimes used by musicians to help make their tempo more consistent when
 playing a piece of music. The tempo is the number of beats per minute. The metronome pictured below
@@ -729,7 +763,9 @@ the weight aligns with the marking for the desired tempo.
                                          Page 18 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
-a) Explain how you could use the image above to determine y, which is the distance from the top of
+
+
+a) Explain how you could use the image above to determine y, which is the distance from the top of
    the vertical arm to the top of the sliding weight, for any given tempo setting of the metronome.
    Solution:
    With the metronome set to 138 beats per minute the top of the weight is aligned with the 138
@@ -767,7 +803,9 @@ b) Use this method to complete the table of tempos and distances y on p. 8 of th
                                         Page 19 of 22
                  2016 Australian Science Olympiads Exam – Physics Solutions
                   c Australian Science Innovations 2016 ABN 81731558309
-c) A graph of y versus tempo has been plotted on p. 9 of the answer booklet. However, one or two of
+
+
+c) A graph of y versus tempo has been plotted on p. 9 of the answer booklet. However, one or two of
    the points are not plotted correctly.
 
          (i) Complete the graph by adding any necessary labels and markings.
@@ -837,7 +875,9 @@ d) Calculate the slope of the graph and explain what information this gives abou
                                          Page 20 of 22
                   2016 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2016 ABN 81731558309
-   Markers’ Comments:
+
+
+   Markers’ Comments:
    When calculating the slope it is important to pick two points from the line of best fit, not two data
    points, otherwise there is not value in drawing the line of best fit. When calculating the slope it is
    important to also calculate the units for the slope, which are the units of the rise divided by the
@@ -881,7 +921,9 @@ f) The graphed data points do not lie exactly on the line of best fit. Suggest t
                                       Page 21 of 22
                2016 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2016 ABN 81731558309
-                             Integrity of Competition
+
+
+                             Integrity of Competition
 If there is evidence of collusion or other academic dishonesty, students will be
                    disqualified. Markers’ decisions are final.
 

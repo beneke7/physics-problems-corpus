@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [model-reduction, superposition, scaling-and-dimensional-analysis]
 ---
 
-How much do the bulbs glow if they are connected in series to a voltage supply of 230 V? The voltage and power ratings of the bulbs are the following: 
- $a)$ one bulb rated as 230 V, 25 W and another rated as 230 V, 100 W; 
- $b)$ one of them is rated as 110 V, 25 W and the other as 110 V, 100W; 
- $c)$ one of them is rated as 110 V, 25 W and the other as 230 V, 100 W; 
- $d)$ one of them is rated as 230 V, 25 W and the other is rated as 110 V, 100 W? 
+How much do the bulbs glow if they are connected in series to a voltage supply of 230 V? The voltage and power ratings of the bulbs are the following:
+ $a)$ one bulb rated as 230 V, 25 W and another rated as 230 V, 100 W;
+ $b)$ one of them is rated as 110 V, 25 W and the other as 110 V, 100W;
+ $c)$ one of them is rated as 110 V, 25 W and the other as 230 V, 100 W;
+ $d)$ one of them is rated as 230 V, 25 W and the other is rated as 110 V, 100 W?
  (4 pont)

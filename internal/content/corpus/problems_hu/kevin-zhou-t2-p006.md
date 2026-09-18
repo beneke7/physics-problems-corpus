@@ -33,7 +33,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          Carnot-körfolyamat reverzibilis, vagyis egy teljes Carnot-körfolyamat után
 
                                                       6
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
           a Világegyetem entrópiája változatlan.

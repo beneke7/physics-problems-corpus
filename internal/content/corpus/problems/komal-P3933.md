@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-A wheel, which has five spokes, turns 1200 in every minute. It is illuminated by a fluorescent lamp operated from a mains electricity supply. What is its apparent number of turns? 
+A wheel, which has five spokes, turns 1200 in every minute. It is illuminated by a fluorescent lamp operated from a mains electricity supply. What is its apparent number of turns?
  (3 pont)

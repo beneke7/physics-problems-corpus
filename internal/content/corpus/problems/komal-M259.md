@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: pending
 ---
 
-Prepare sodium chloride solutions of various mass percentages and immerse different metal electrodes in them (Fe, Cu, Al etc.). Measure the initial electromotive forces and their temporal variations. 
+Prepare sodium chloride solutions of various mass percentages and immerse different metal electrodes in them (Fe, Cu, Al etc.). Measure the initial electromotive forces and their temporal variations.
 
  (6 pont)

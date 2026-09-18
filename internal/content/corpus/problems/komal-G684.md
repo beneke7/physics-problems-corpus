@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, limiting-and-special-cases]
 ---
 
-A plane – from cartographic purposes – flies at a constant speed for quite a long time above the equator, at some small height. The operators at the ground observe that the plane passes its starting position at every 48-th hour. How much time elapses between the sunset and the sunrise on the plane if the plane flies 
- $a)$ towards the east, 
- $b)$ towards the west? 
- (From time to time the plane is filled with fuel in the air.) 
+A plane – from cartographic purposes – flies at a constant speed for quite a long time above the equator, at some small height. The operators at the ground observe that the plane passes its starting position at every 48-th hour. How much time elapses between the sunset and the sunrise on the plane if the plane flies
+ $a)$ towards the east,
+ $b)$ towards the west?
+ (From time to time the plane is filled with fuel in the air.)
  (4 pont)

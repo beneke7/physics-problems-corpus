@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201011"
 verification_status: pending
 ---
 
-A man carries a beam on his shoulder. The centre of mass of the beam is not above his shoulder, thus he places his arm onto the beam in order to balance it. Someone states that the force which is exerted on his shoulder is greater than the weight of the beam. Is he right? 
+A man carries a beam on his shoulder. The centre of mass of the beam is not above his shoulder, thus he places his arm onto the beam in order to balance it. Someone states that the force which is exerted on his shoulder is greater than the weight of the beam. Is he right?
  (3 pont)

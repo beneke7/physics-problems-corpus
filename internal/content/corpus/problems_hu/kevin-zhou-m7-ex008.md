@@ -37,7 +37,7 @@ JEE 2020
                          A0 v = (A0 − At )vf ,   Pf + ρvf2 = P0 + ρv 2
                                                      2           2
   which gives a nyomás drop of
-                                                                     
+
                                        1                   1
                             Pf − P0 = − ρv 2                        −1 .
                                        2             (1 − At /A0 )2
@@ -46,4 +46,6 @@ JEE 2020
   is much slower than the speed of sound. We’ll treat fluid flow with changing sűrűség in T3.
 
                                                  9
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts

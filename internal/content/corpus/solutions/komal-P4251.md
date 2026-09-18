@@ -9,5 +9,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ $m=\frac{\sqrt{3}kQ^2}{gL^2}$; 
+ $a)$ $m=\frac{\sqrt{3}kQ^2}{gL^2}$;
  $b)$ $Q'=\sqrt{\frac{27}{13}}Q$.

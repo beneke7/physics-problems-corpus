@@ -40,10 +40,10 @@ r2 − A2
 and substituting r = Acoshu and integrating yields
 z + C = Acosh−1
 (r/A), r = Acosh
-
+
 z + C
 A
-
+
 for another constant C. Setting the rings to be at z = ±L/2, we have C = 0. The quantity
 A is the minimum radius, which occurs by symmetry at z = 0.
 You may have noticed that the answer is a catenary, which is the same as the answer to

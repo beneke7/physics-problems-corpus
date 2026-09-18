@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-The simple circuit shown in the figure , was built from five alike capacitors of capacitance $C$, and an ideal battery of electromotive force $U$. 
+The simple circuit shown in the figure , was built from five alike capacitors of capacitance $C$, and an ideal battery of electromotive force $U$.
 
- a)  How much charge accumulates on the plates of the middle capacitor? 
- b)  How does this value change if we replace one of the capacitors with another capacitor of capacitance $nC$? 
+ a)  How much charge accumulates on the plates of the middle capacitor?
+ b)  How does this value change if we replace one of the capacitors with another capacitor of capacitance $nC$?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5711-fig1.png)
+![figure](../../figures/komal/figures/komal-P5711-fig1.png)

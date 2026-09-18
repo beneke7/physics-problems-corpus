@@ -30,7 +30,7 @@ Feltehetjük, hogy $|U(t)| \ll U_{0}$. A különböző időpontokban induló ele
 a $D$ szondánál kell összegyűjteni (fókuszálni), amely a $C$ hézagtól $b$
 távolságra található. A berendezés elemzéséhez válaszolj a következő kérdésekre!
 
-![ábra](../../sources/nbpho/figures/nbpho-2007-temporal-focusing-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2007-temporal-focusing-fig1.jpg)
 
 1) Ha $U(t) \equiv 0$, mennyi idő szükséges az elektronoknak ahhoz, hogy a $B$
 hézagtól a $D$ szondáig eljussanak?

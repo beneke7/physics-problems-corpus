@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-What is the colour of the sky in the daytime on the Moon? Observed from the Moon what is the colour of the Earth and of the Mars? 
+What is the colour of the sky in the daytime on the Moon? Observed from the Moon what is the colour of the Earth and of the Mars?
  (3 pont)

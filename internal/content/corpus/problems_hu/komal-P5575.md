@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5575. Nagy méretű, földelt fémlap felett $h$ magasságban egy kicsiny elektromos dipólust helyezünk el. Mindezt úgy tesszük, hogy annak $\boldsymbol{p}$ dipólmomentuma az ábrán látott módon felfelé mutasson. 
+P. 5575. Nagy méretű, földelt fémlap felett $h$ magasságban egy kicsiny elektromos dipólust helyezünk el. Mindezt úgy tesszük, hogy annak $\boldsymbol{p}$ dipólmomentuma az ábrán látott módon felfelé mutasson.
 
  Határozzuk meg a fémlapon azon pontok helyét, ahol a felületi töltéssűrűség zérus!
 
-![figure](../../raw_html/komal_figures/komal-P5575-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5575-fig1.gif)

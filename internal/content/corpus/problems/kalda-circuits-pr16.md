@@ -19,4 +19,4 @@ verification_status: pending
 
 [IPhO-1967 ${ }^{16}$ ] Determine the resistance of the infinite periodic circuit
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr16-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr16-fig1.jpg)

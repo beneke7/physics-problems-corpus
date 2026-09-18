@@ -32,7 +32,7 @@ u = v0
 whatearlier, thetwotractorshadbeenatthecrossroadsimul-
 taneously. Now,thetractorswouldbeatthesamedistancefrom
 thecrossroad,i.e.forthecurrentpositionofthesecondtractor
-C, |OC| = |AO| = v0t (this is how we 
+C, |OC| = |AO| = v0t (this is how we
 nd the point C). Its
 smoketrailcanbefoundasaline,paralleltoitssmoketrailat
 itsactualpositionB. Suchameetingofthetractorswouldhave

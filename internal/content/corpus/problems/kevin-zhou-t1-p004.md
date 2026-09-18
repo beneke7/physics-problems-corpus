@@ -50,7 +50,9 @@ solution_language: en
 
 
                                                     3
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
     maximum and minimum volumes of the cylinder. Draw the cycle on a P V diagram and find its

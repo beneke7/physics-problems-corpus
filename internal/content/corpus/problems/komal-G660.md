@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, differential-element]
 ---
 
-One end of an initially 2 m long horizontal elastic band is tied to a wall, and a snail is moving along it at a speed of 1 m/h. The snail starts from the wall, and the band is stretched by 1 m from the end of the band at the end of each hour. How much time elapses until the snail reaches the end of the band? 
+One end of an initially 2 m long horizontal elastic band is tied to a wall, and a snail is moving along it at a speed of 1 m/h. The snail starts from the wall, and the band is stretched by 1 m from the end of the band at the end of each hour. How much time elapses until the snail reaches the end of the band?
  (4 pont)

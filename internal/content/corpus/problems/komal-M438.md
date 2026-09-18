@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-Stand up a given number of dominoes along a straight line equidistant from each other and knock the first domino. How much time will it take for the last domino to fall? How does this time depend on the distance between the dominoes? 
+Stand up a given number of dominoes along a straight line equidistant from each other and knock the first domino. How much time will it take for the last domino to fall? How does this time depend on the distance between the dominoes?
  (6 pont)

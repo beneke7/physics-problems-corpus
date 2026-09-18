@@ -30,8 +30,8 @@ Hold your pencil horizontally by its tip. To keep it still, you will have to exe
 a. Consider a rod of length $\ell$ and mass per length $\lambda$. What is the bending moment you must exert to hold the rod horizontally at its end?
 
 Just as each piece of a string exerts a tension on neighboring pieces in equilibrium, each piece of a solid rod also exerts a bending moment on its neighbors. For thin rods under heavy loads, this bending moment can be the limiting factor that causes them to break.
-![](usapho-2022-a1-fig01.png)
-![](usapho-2022-a1-fig02.png)
+![](../../figures/usapho/figures/usapho-2022-a1-fig01.png)
+![](../../figures/usapho/figures/usapho-2022-a1-fig02.png)
 Suppose a rod is supported at both ends, so that it forms a bridge, as shown at left above. Assume the supports are simple, so that they only provide an upward force, and no bending moment. In equilibrium, a bending moment will appear throughout the rod. The magnitude of the maximum bending moment the rod can exert at any point without breaking is $M_{0}$, and the length of the rod is $\ell$. The bridge is loaded uniformly, with a mass per length of $\lambda$ (including its own mass).
 
 b. Find the maximum possible value of $\lambda$ before the bridge collapses.

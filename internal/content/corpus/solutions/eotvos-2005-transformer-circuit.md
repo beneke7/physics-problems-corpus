@@ -25,7 +25,7 @@ Melyik a helyes válasz?
 Megoldás. Ezt a feladatot is többféleképpen lehet megoldani. Eljuthatunk a helyes válaszhoz okoskodással, ana-
 lógiák felhasználásával, úgy, ahogy például az el®z® feladat megoldásának bemutatásakor jártunk el. Most más utat
 választunk: bemutatjuk a lehet® legrövidebb utat, ahogy a megoldást megkaphatjuk.
-Ismert  szakkönyvekben, példatárakban megtalálható, így az Eötvös-versenyen szabadon felhasználható  a transz-
+Ismert   szakkönyvekben, példatárakban megtalálható, így az Eötvös-versenyen szabadon felhasználható   a transz-
 formátor helyettesít® kap solása, ami a 12. ábrán látható.
 12. ábra
 Els® közelítésben tekintsünk el attól, hogy az izzók ellenállása függ a rajtuk áthaladó áramtól (erre még vissza-
@@ -81,7 +81,7 @@ U2
 R
 ,
 nin s nagyon messze attól a teljesítményt®l, amellyel ez az izzó a hálózati feszültségen világítana.
-Ha most 
+Ha most
 gyelembe vesszük azt a tényt, hogy ala sonyabb feszültségen (tehát ala sonyabb h®mérsékleten) az izzó
 ellenállása is kisebb, azt mondhatjuk, hogy a primer ágban lev® izzók ténylegesen nagyobb teljesítménnyel világítanak,
 mint amit most kiszámítottunk.
@@ -120,15 +120,15 @@ A verseny ünnepélyes eredményhirdetésére és a díjkiosztásra 2005. novemb
 Mogyoródi József termében.
 Bevezetésként a versenybizottság elnöke emlékezett vissza az 50 évvel ezel®tti és a 25 évvel ezel®tti versenyre.
 Írásvetít®n kivetítette az 50 évvel korábbi feladatokat, valamint az akkori nyertesek egy-egy KöMaL feladatra adott
-egykori megoldását. A feladatokat Kárteszi Feren , illetve Prékopa András t¶zte ki (akkor még nem volt 
+egykori megoldását. A feladatokat Kárteszi Feren , illetve Prékopa András t¶zte ki (akkor még nem volt
 zika rovat
 a KöMaL-ban). Aki a versenyt megnyerte, Bártfai Pál matematikus, ma a Kürs hák-verseny zs¶rijének oszlopos
 tagja. Elfogadta meghívásunkat, személyesen ( saládosan!) megjelent az eredményhirdetésen, és néhány mondatban
 felelevenítette emlékeit. Nem sak a versenyr®l beszélt, hanem a felkészülésr®l is, Vermes tanár úr szakkörér®l, melynek
-oly sokat köszönhetett 
+oly sokat köszönhetett
 zikából. Utána az elnök az 50 évvel ezel®tti második helyezett, az Egyesült Államokban él®
-Gutai László 
-zikus levelét olvasta fel.  is megemlékezett egykori tanáráról, Varga Zoltánról, aki ®t Újpesten tanította.
+Gutai László
+zikus levelét olvasta fel.   is megemlékezett egykori tanáráról, Varga Zoltánról, aki ®t Újpesten tanította.
 A 25 évvel ezel®tti Eötvös-verseny nyertesek közül Szalontai Zoltán és Umann Gábor jelent meg, mindketten a KöMaL
 szorgalmas feladatmegoldói voltak, négy éven át jelent meg fényképük a legjobb megoldók között. Ezeket a képeket
 egymás mellé vetítve láthatták most a megjelentek.
@@ -145,7 +145,7 @@ Dani nyert a versenyen.
 A versenybizottság döntése értelmében hárman kaptak II. díjat és vele 14 ezer forint jutalmat, ketten III. díjat és
 vele 12 ezer forint jutalmat, valamint hat versenyz®t részesített a zs¶ri di séretben:
 II. díjasok: Halász Gábor, az ELTE Radnóti Miklós Gyakorló Gimnáziumának 12. osztályos tanulója, Honyek
-Gyula tanítványa; Kómár Péter, az ELTE 
+Gyula tanítványa; Kómár Péter, az ELTE
 zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnázium-
 ban érettségizett mint Dvorák Ce ília tanítványa és Szolnoki Lénárd, a Debre eni Református Kollégium Dó zy
 Gimnáziumának 10. osztályos tanulója, Tófalusi Péter tanítványa.
@@ -156,7 +156,7 @@ Di séretet kapott Farkas Ádám László, a miskol i Földes Feren Gimnázium 1
 Feren tanítványa; Feren zy Máté, a BME mérnök-
 zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló
 Gimnáziumban érettségizett mint Dvorák Ce ília tanítványa; Németh Balázs, a székesfehérvári Tóparti Gimnázium
-11. osztályos tanulója, Tóthné Rohovszky Katalin tanítványa; Pálinkás András, az ELTE 
+11. osztályos tanulója, Tóthné Rohovszky Katalin tanítványa; Pálinkás András, az ELTE
 zikus hallgatója, aki
 a budapesti Piarista Gimnáziumban érettségizett mint Futó Béla tanítványa; Paulin Roland, a Fazekas Mihály
 F®városi Gyakorló Gimnázium 12. osztályos tanulója, Horváth Gábor tanítványa és Végh Sándor, a Debre eni
@@ -166,6 +166,6 @@ erre a élra felajánlott könyvek közül válogathattak.
 Végül Patkós András akadémikus elevenítette fel az Eötvös-versennyel kap solatos régebbi és legújabb emlékeit,
 benyomásait (lásd a hátsó bels® borítón középen jobbra). Utána közös fényképezkedés következett, melyen az 50 és a
 25 évvel ezel®tti nyertes fogta közre az idei els® díjast, s egy jó hangulatú baráti beszélgetésben folytatódott az egymást
-eddig java részt sak hírb®l ismer® meghívottak társalgása. A Ramasoft Rt. jóvoltából üdít® és 
+eddig java részt sak hírb®l ismer® meghívottak társalgása. A Ramasoft Rt. jóvoltából üdít® és
 nom szendvi sek is
 jutottak a végig ott maradóknak.

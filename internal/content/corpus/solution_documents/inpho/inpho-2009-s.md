@@ -61,7 +61,9 @@ Name:                                      Roll No.P09
             HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                    Tata Institute of Fundamental Research
                V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-                       Answer sheet INPhO -2009
+
+
+                       Answer sheet INPhO -2009
 Name:                                         Roll No.P09
 
                                   PART - B
@@ -97,7 +99,9 @@ Name:                                         Roll No.P09
         E     HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                      Tata Institute of Fundamental Research
                  V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-                                  Answer sheet INPhO -2009
+
+
+                                  Answer sheet INPhO -2009
 Name:                                                      Roll No.P09
 
                                                PART - C
@@ -112,7 +116,7 @@ Name:                                                      Roll No.P09
                                     P   V
                                       +   = 1 ( valid for V < V0 , P < P0 )
                                     P0 V0
-          2.                                                    
+          2.
                                                    P0 V       V
                                                T =         1−
                                                     R         V0
@@ -159,7 +163,9 @@ Name:                                                      Roll No.P09
                        HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                               Tata Institute of Fundamental Research
                           V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-                                     Answer sheet INPhO -2009
+
+
+                                     Answer sheet INPhO -2009
 Name:                                                               Roll No.P09
 
          7.
@@ -176,11 +182,11 @@ Name:                                                               Roll No.P09
                                                                 3
                                                            γ=
                                                                 2
-         9.                                                 
+         9.
                                                           5V
                                                        3−
                                                           V0
-                                                 C = R      
+                                                 C = R
                                                           2V
                                                        1−
                                                           V0

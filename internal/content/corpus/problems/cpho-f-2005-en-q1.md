@@ -23,7 +23,7 @@ verification_status: pending
 
 As shown in the figure, a thin beam of light falls from the air onto the upper face of a transparent plane-parallel plate at an angle $i$, passes through it and exits into the air from below the plate after refraction. The beam consists of two monochromatic waves 1 and 2 of different frequencies. The refractive index of the plate at these frequencies is $n_1$ and $n_2$, respectively, and it is known that $n_1 > n_2$.
 
-![Beam of two monochromatic waves incident on a plane-parallel plate at angle $i$](../../sources/cpho-f/figures/cpho-f-2005-en-q1-fig1.png)
+![Beam of two monochromatic waves incident on a plane-parallel plate at angle $i$](../../figures/cpho-f/figures/cpho-f-2005-en-q1-fig1.png)
 
 (a) Analyze in general terms which of the two frequencies of light will pass through the plate faster in various possible cases.
 

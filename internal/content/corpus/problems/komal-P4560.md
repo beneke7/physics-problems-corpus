@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-Bones of Woolly Mammuth were found in North-America. The activity C-14 originated from the youngest bones is 21% of that of in a living animal today. How many years ago did the Woolly Mammuth become extinct in North-America? 
+Bones of Woolly Mammuth were found in North-America. The activity C-14 originated from the youngest bones is 21% of that of in a living animal today. How many years ago did the Woolly Mammuth become extinct in North-America?
  (4 pont)

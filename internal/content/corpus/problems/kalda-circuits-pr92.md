@@ -23,4 +23,4 @@ When sine waves propagate in an infinite LC-grid (see the figure below) the phas
 (c) State under what conditions the propagation velocity of the waves is almost independent of $\omega$. Determine the velocity in this case.
 (d) Suggest a simple mechanical model which is an analogue to the above circuit and derive equations which establish the validity of your model.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr92-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr92-fig1.jpg)

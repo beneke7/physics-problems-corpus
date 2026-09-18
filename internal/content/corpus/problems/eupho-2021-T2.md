@@ -25,7 +25,7 @@ verification_status: pending
 
 One end of a thread is tied into a loop of length $L > 2\pi R$, and a cylinder of radius $R$ is put through the loop. The coefficient of friction between the thread and the cylinder is $\mu$. The free end of the thread is being pulled parallel to the axis of the cylinder (as shown by arrow in the photo below) while keeping the cylinder at rest. If the length of the loop is longer than a critical value, $L > L_0$, the loop can slide along the cylinder without changing its shape, otherwise the friction "locks" it into a place and increasing the pulling force would eventually just break the thread. Find this critical value $L_0$. The weight of the thread is to be neglected; the thread will not twist when being pulled.
 
-![figure](../../sources/eupho/figures/eupho-2021-T2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2021-T2-1.png)
 
 It might be useful to know that
 

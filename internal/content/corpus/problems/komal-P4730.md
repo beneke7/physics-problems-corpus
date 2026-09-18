@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-The terminal voltages across the voltage supplies connected as shown in the figure are constant. The voltage across the capacitor $C$ is $1.8\,U_0$. If the terminals of the voltage supply $U_0$ is swapped over then the voltage across the capacitor decreases to $1.4\,U_0$. Determine the ratios of $r/R$ and of $u_0/U_0$. 
+The terminal voltages across the voltage supplies connected as shown in the figure are constant. The voltage across the capacitor $C$ is $1.8\,U_0$. If the terminals of the voltage supply $U_0$ is swapped over then the voltage across the capacitor decreases to $1.4\,U_0$. Determine the ratios of $r/R$ and of $u_0/U_0$.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4730-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4730-fig1.gif)

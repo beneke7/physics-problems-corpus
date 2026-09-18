@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-Anyone who has (or has had) a wristwatch has almost certainly experienced that when the Sun shines through the window, the glass of the watch can be used as a mirror to project an amusing, bouncing spot of light onto the wall, the ceiling, the floor, or even into the eyes of your friend. What does the shape of the light spot depend on, the shape of the glass or the shape of the Sun? 
+Anyone who has (or has had) a wristwatch has almost certainly experienced that when the Sun shines through the window, the glass of the watch can be used as a mirror to project an amusing, bouncing spot of light onto the wall, the ceiling, the floor, or even into the eyes of your friend. What does the shape of the light spot depend on, the shape of the glass or the shape of the Sun?
  (4 pont)

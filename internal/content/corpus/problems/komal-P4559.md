@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-A pen dosimeter, which contains 5 cm$^{3}$ air at standard conditions, and which has a capacitance of 1 pF, is charged to 1000 V, initially. What is the absorbed doze, if after the exposure, the voltage drops to 900 V? The average ionization-energy of air is 6.88 aJ and its density is 1.3 kg/m$^{3}$. 
+A pen dosimeter, which contains 5 cm$^{3}$ air at standard conditions, and which has a capacitance of 1 pF, is charged to 1000 V, initially. What is the absorbed doze, if after the exposure, the voltage drops to 900 V? The average ionization-energy of air is 6.88 aJ and its density is 1.3 kg/m$^{3}$.
  (4 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 What is the minimum initial velocity that has to be given to a stone in order to throw it across a sloped roof? The roof has width $b$, its two edges have heights $a$ and $c$.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr21-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr21-fig1.jpg)

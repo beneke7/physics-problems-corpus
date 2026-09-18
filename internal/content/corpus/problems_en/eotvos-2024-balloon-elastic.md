@@ -23,6 +23,6 @@ The elastic behavior of a balloon can be characterized by the elastic energy of 
 
 We connect an initially deflated balloon to one outlet of a T-shaped distributor connected to a compressor, and we attach a thin glass tube water manometer to the other outlet as shown in the figure. The water occupies a 20 cm long section of the tube. After starting the compressor, we observe that the fluid levels move slowly by 5 cm from their original positions, while the balloon's
 
-![figure](sources/eotvos/figures/eotvos-2024-balloon-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2024-balloon-fig1.jpg)
 
 diameter increases by 5%. What will happen next?

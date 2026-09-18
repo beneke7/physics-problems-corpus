@@ -31,7 +31,7 @@ V_{1}=0.0118 \mathrm{~m}^{3} & V_{2}=0.0157 \mathrm{~m}^{3}
 \end{aligned}
 $$
 (15) a. Find the work done by the gas during each process $\left(W_{1->2}, W_{2->3}\right.$, and $\left.W_{3->1}\right)$.
-![](usapho-2003-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2003-a4-fig01.png)
 (10) b. What is the efficiency of this cycle?
 
 ## 2003 Semi-Final Exam Part B

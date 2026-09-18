@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201404"
 verification_status: pending
 ---
 
-An object is left to move along a horizontal surface, on which friction is not negligible. At one moment its kinetic energy is 900 J, and 2 s later it is only 400 J, while the object covers a distance of $\ell$. 
- $a)$ By what factor will the further distance until the object stops be greater than the distance $\ell$? 
- $b)$ How long does it take to cover this distance? 
+An object is left to move along a horizontal surface, on which friction is not negligible. At one moment its kinetic energy is 900 J, and 2 s later it is only 400 J, while the object covers a distance of $\ell$.
+ $a)$ By what factor will the further distance until the object stops be greater than the distance $\ell$?
+ $b)$ How long does it take to cover this distance?
  (4 pont)

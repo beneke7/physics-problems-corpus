@@ -63,7 +63,8 @@ Oscillation of the electron cloud:
 
 authors of this problem. The contributions of the Academic Committee, Academic Development Group, and the International
 Board are gratefully acknowledged.
-Solutions
+
+Solutions
 
 
                                                                                     A3-2 Oﬃcial (English)
@@ -123,7 +124,8 @@ Board are gratefully acknowledged.
                                               𝜔0 =                                                    (7)
                                                         √4𝜋𝜖0 𝑚𝑟3
                                                                                                     [0.1]
-Solutions
+
+Solutions
 
 
                                                                                                    A3-3       Oﬃcial (English)
@@ -172,7 +174,8 @@ Power radiated:
                                                               𝜖0 𝑐
 
                                                                                                                         [0.4]
-Solutions
+
+Solutions
 
 
                                                                                     A3-4     Oﬃcial (English)
@@ -232,7 +235,8 @@ Attenuation of the Intensity 𝐼(𝑥) :
                                                                   [points are for numerical calculation 0.3]
 
 Height 𝐻 ′ of the Mountains as seen by an observer :
-Solutions
+
+Solutions
 
 
                                                                                       A3-5Oﬃcial (English)
@@ -287,7 +291,8 @@ Height 𝐻 ′ of the Mountains as seen by an observer :
   are given credit.
   The numerical values are 𝐻 ′ = 6096 m for Mt Kanchenjunga and 𝐻 ′ = 4534 m for Mt Everest.
                                                                                        [0.5]
-Solutions
+
+Solutions
 
 
                                                                                        A3-6       Oﬃcial (English)
@@ -342,7 +347,8 @@ Attenuation length 𝐿𝑝 due to aerosol pollution :
 
 
 Relative intensity and Visibility of Mt. Kanchenjunga and Mt. Everest :
-Solutions
+
+Solutions
 
 
                                                                                 A3-7      Oﬃcial (English)

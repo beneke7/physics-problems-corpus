@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202304"
 verification_status: pending
 ---
 
-Hold a bar magnet close to a relatively large sheet of iron perpendicular to the sheet. Measure the magnetic force exerted on the bar magnet as a function of the distance from the metal plate. 
+Hold a bar magnet close to a relatively large sheet of iron perpendicular to the sheet. Measure the magnetic force exerted on the bar magnet as a function of the distance from the metal plate.
  (6 pont)

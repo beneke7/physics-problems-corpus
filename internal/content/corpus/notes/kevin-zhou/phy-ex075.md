@@ -31,7 +31,7 @@ a set with exactly one branch, we can show
 To find µ, note that we may write the second variation as
 
                                                m d2
-                                Z                          
+                                Z
                                                            2
                           δS = dτ δx(τ ) −              +ω      δx(τ )
                                                2 dτ 2
@@ -57,6 +57,5 @@ has a small quartic perturbation. In that case the Euclidean action can be expan
 in that additional term, which yields a diagrammatic expansion for the full partition function in
 terms of correlation functions for the unperturbed oscillator. For further discussion, see the notes
 on Quantum Field Theory.
-165 6. Path Integrals
 
 

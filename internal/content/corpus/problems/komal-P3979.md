@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [superposition, auxiliary-unknowns]
 ---
 
-Two pointlike charges of charge Q and -4 Q are fixed at a distance of  L . 
- a ) At which point will the electric field be zero. 
- b ) At which point will the net potential be zero? 
+Two pointlike charges of charge Q and -4 Q are fixed at a distance of  L .
+ a ) At which point will the electric field be zero.
+ b ) At which point will the net potential be zero?
  (5 pont)

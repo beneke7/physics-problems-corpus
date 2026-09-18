@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 644. Az ábrán látható kapcsolásban négy egyforma villanykörtét kötöttünk a telepre. Melyik világít legerősebben? Rakjuk sorba az izzókat fényerejük szerint!
 
-![figure](../../raw_html/komal_figures/komal-G644-fig1.gif)
+![figure](../../figures/komal/figures/komal-G644-fig1.gif)

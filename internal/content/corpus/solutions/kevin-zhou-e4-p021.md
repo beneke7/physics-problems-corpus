@@ -34,14 +34,14 @@ we found earlier.)
 F′
 = q(E + (u − v) × (B − v × E/c2
 )) = F + q
-
+
 −v × B +
 v × v × E
 c2
 −
 u × v × E
 c2
-
+
 .
 The extra terms are all second order in v/c.
 We can now find a frame where there’s no magnetic field, by letting B − v × E/c2 = 0. In

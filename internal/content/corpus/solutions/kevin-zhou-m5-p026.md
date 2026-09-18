@@ -50,13 +50,13 @@ x2
 .
 Combining these equations, we find
 Ic
-
+
 1
 x1
 −
 1
 x2
-
+
 = m(x2 − x1).
 Since x1 ̸= x2, we can divide by x2 − x1 and find Ic = mx1x2. Thus,
 I1
@@ -99,9 +99,9 @@ Kater’s pendulum will always work if the pivot points are both on the same sid
 of mass, as then we automatically have x1 ̸= x2. For pivots with the center of mass in between,
 we need to ensure that x1 ̸= x2, which means the object can’t be perfectly symmetric. In
 practice, people address this by just putting an extra weight on one end of the rod.
-[3] Problem 27.  W 1 0USAPhO 1999, problem A4.
-[3] Problem 28.  m 1 0USAPhO 2011, problem B2.
-[3] Problem 29.  m 1 0USAPhO 2002, problem B1. An unusually tricky early USAPhO problem.
+[3] Problem 27.   W 1 0USAPhO 1999, problem A4.
+[3] Problem 28.   m 1 0USAPhO 2011, problem B2.
+[3] Problem 29.   m 1 0USAPhO 2002, problem B1. An unusually tricky early USAPhO problem.
 [4] Problem 30 (IPhO 1982). A coat hanger can perform small oscillations in the plane of the figure
 about the three equilibrium figures shown.
 42cm
@@ -279,9 +279,9 @@ p
 20/23 after each
 collision. But there are two collisions per oscillation, so after n oscillations, the amplitude is
 θn = θ0
-
+
 20
 23
-n
+ n
 .
 26

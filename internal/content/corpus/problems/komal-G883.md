@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-The circuit shown in the figure contains a battery of internal resistance $R_\mathrm{b}$ and of electromotive force of $U_0$, and four resistors each of resistance $R$. $U_0=4.5~\mathrm{V}$, $R_\mathrm{b}=3\,\Omega$, $R=10\,\Omega$. 
+The circuit shown in the figure contains a battery of internal resistance $R_\mathrm{b}$ and of electromotive force of $U_0$, and four resistors each of resistance $R$. $U_0=4.5~\mathrm{V}$, $R_\mathrm{b}=3\,\Omega$, $R=10\,\Omega$.
 
- a)  What is the power of the resistor marked with the arrow? 
- b)  What is the voltage $U_{AB}$? 
+ a)  What is the power of the resistor marked with the arrow?
+ b)  What is the voltage $U_{AB}$?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G883-fig1.png)
+![figure](../../figures/komal/figures/komal-G883-fig1.png)

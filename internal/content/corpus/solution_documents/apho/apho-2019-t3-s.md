@@ -43,7 +43,7 @@ Useful products:
                                                                                                       (3)
 
 Note (given in question):
-                                                                  
+
                                            ∂A                   ∂A
                                                         =                 +ω×A                        (4)
                                            ∂t       K           ∂t    e
@@ -59,7 +59,8 @@ Time derivatives:
 
 
                                                                 1
-Solutions: Tippe Top
+
+Solutions: Tippe Top
 
 1. (1.0 marks)
 
@@ -118,7 +119,8 @@ Time derivatives:
   To show this, take time derivative of contact condition in XY Z or xyz frame (note: either is suitable, as
 
                                                        2
-  we only need the ẑ component, and ẑ = Ẑ).
+
+  we only need the ẑ component, and ẑ = Ẑ).
 
   Contact condition:
 
@@ -130,7 +132,7 @@ Time derivatives:
   Note we only care about the z-component, and (ω × ẑ) · ẑ = 0. Then, using 11, 1, and 5,
 
                                            vA · ẑ = (ṡ + ω × a) · ẑ
-                                                                      
+
                                                    = ṡ + αRω × 3̂ · ẑ
                                                                    !
                                                                d3̂
@@ -170,16 +172,16 @@ Time derivatives:
 
                     ṡ = vA − ω × a
                        = vA − (θ̇ 2̂ + φ̇ẑ + ψ̇ 3̂) × (αR3̂ − Rẑ)
-                                                                                 
+
                        = vx x̂ + vy ŷ − θ̇αR1̂ − θ̇Rẑ + φ̇αRẑ × 3̂ − ψ̇R3̂ × ẑ
-                                                                            
+
                        = vx + θ̇R(1 − α cos θ) x̂ + vy − R sin θ(αφ̇ + ψ̇) ŷ + θ̇αR sin θẑ
 
   using 2. Thus
            1h                                             i
      ET =    I1 (φ̇2 sin2 θ + θ̇2 ) + I3 (ψ̇ + φ̇ cos θ)2
-           2                                                                
-           m                             2                 2
+           2
+           m                               2                   2
                                                                    2 2 2   2
          +      vx + θ̇R(1 − α cos θ) + vy − R sin θ(αφ̇ + ψ̇) + θ̇ α R sin θ + mgR(1 − α cos θ)
            2
@@ -188,7 +190,8 @@ Time derivatives:
 
 
                                                         3
-6. (0.4 marks)
+
+6. (0.4 marks)
 
   From 10,
                                          dL        X
@@ -260,14 +263,15 @@ Time derivatives:
 
 
                                                              4
- 9. (0.5 marks)
+
+ 9. (0.5 marks)
 
    From 15,
-                                                               
+
                                  L = Iω = I1 −φ̇ sin θ1̂ + θ̇ 2̂ + I3 (ψ̇ + φ̇ cos θ)3̂   (17)
 
    Taking cross product with 3̂:
-                                                                          
+
                                              L × 3̂ = I1 φ̇ sin θ2̂ + θ̇1̂
                                                     = I1 (ω × 3̂)                         (18)
 

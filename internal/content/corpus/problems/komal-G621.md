@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-The pressure of air at a height of 1 km is 899 hPa and its temperature is $8.6~{}^\circ$C. At a height of 10 km the pressure is only 265 hPa, and the temperature is $-37.2~{}^\circ$C. 
- $a)$ By what factor is the density of air smaller at the height of 10 km than that of at the height of 1 km? 
- $b)$ By what factor is acceleration due to gravity smaller at the height of 10 km than that of at the height of 1 km? 
+The pressure of air at a height of 1 km is 899 hPa and its temperature is $8.6~{}^\circ$C. At a height of 10 km the pressure is only 265 hPa, and the temperature is $-37.2~{}^\circ$C.
+ $a)$ By what factor is the density of air smaller at the height of 10 km than that of at the height of 1 km?
+ $b)$ By what factor is acceleration due to gravity smaller at the height of 10 km than that of at the height of 1 km?
  (3 pont)

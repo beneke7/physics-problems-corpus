@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-A coin is observed from a distance of 22 cm. 
- a ) What is the distance between the observer's eye and the image of the coin if a 5-dioptre lens is placed 10 cm away from the eye of the observer. 
- b ) By what factor is the image of the coin observed through the lens and formed on the retina is greater than the image formed on the retina when the lens is not used. 
- c ) Where should the lens be placed if we want the greatest image on the retina? 
+A coin is observed from a distance of 22 cm.
+ a ) What is the distance between the observer's eye and the image of the coin if a 5-dioptre lens is placed 10 cm away from the eye of the observer.
+ b ) By what factor is the image of the coin observed through the lens and formed on the retina is greater than the image formed on the retina when the lens is not used.
+ c ) Where should the lens be placed if we want the greatest image on the retina?
  (5 pont)

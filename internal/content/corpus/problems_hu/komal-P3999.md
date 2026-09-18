@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3999. Hogyan keletkezik a zúzmara és az ónos eső? 
+P. 3999. Hogyan keletkezik a zúzmara és az ónos eső?
  Hatvani István fizikaverseny, Debrecen

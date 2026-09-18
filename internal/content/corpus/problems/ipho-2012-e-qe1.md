@@ -46,4 +46,4 @@ WARNINGS:
 ◇ Do not put magnetic materials close to the magnet!
 ◇ Turn off the laser when not used, batteries drain in 1 h!
 
-![](ipho-2012-e-qe1-fig01.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe1-fig01.png)

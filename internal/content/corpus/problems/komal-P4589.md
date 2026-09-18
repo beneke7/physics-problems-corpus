@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201312"
 verification_status: pending
 ---
 
-Estimate the distance between the H$_{2}$O molecules 
- a ) in water at a temperature of 0 $^\circ$C; 
- b ) in ice at a temperature of 0 $^\circ$C; 
- c ) in air at a temperature of 0 $^\circ$C, if the humidity is 100%. 
+Estimate the distance between the H$_{2}$O molecules
+ a ) in water at a temperature of 0 $^\circ$C;
+ b ) in ice at a temperature of 0 $^\circ$C;
+ c ) in air at a temperature of 0 $^\circ$C, if the humidity is 100%.
  (4 pont)

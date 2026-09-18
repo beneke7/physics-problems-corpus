@@ -55,7 +55,9 @@ solution_language: en
          be given by the integrand; this yields Planck’s law for blackbody radiation.)
 
                                                      13
-    Kevin Zhou                                                                      Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                      Physics Olympiad Handouts
 
      (d) [A] Using an appropriate substitution, show that U is a dimensionful constant times the
           dimensionless integral              Z ∞

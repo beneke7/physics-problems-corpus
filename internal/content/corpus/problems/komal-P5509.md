@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, choose-reference-frame, differential-element]
 ---
 
-A small rubber bullet was fired with a toy rifle, from a point close to the horizontal ground, such that the greatest height that the bullet reached was equal to the horizontal range of its path. 
- $a)$ At what angle, measured from the horizontal, was the bullet fired? 
- $b)$ What are these distances if the initial speed of the bullet was 10 m/s? 
- $c)$ What is the radius of curvature of the trajectory at the moment right after the launch and at the highest point of the trajectory? 
- (Neglect air resistance.) 
+A small rubber bullet was fired with a toy rifle, from a point close to the horizontal ground, such that the greatest height that the bullet reached was equal to the horizontal range of its path.
+ $a)$ At what angle, measured from the horizontal, was the bullet fired?
+ $b)$ What are these distances if the initial speed of the bullet was 10 m/s?
+ $c)$ What is the radius of curvature of the trajectory at the moment right after the launch and at the highest point of the trajectory?
+ (Neglect air resistance.)
  (5 pont)

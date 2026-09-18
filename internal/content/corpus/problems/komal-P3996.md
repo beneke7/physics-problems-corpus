@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-A courier runs from the end of an 80 m long marching troop to its front, and then it runs back to the end with the same speed. During this the marching troop covers a distance of 150 m. Calculate the distance covered by the courier. 
+A courier runs from the end of an 80 m long marching troop to its front, and then it runs back to the end with the same speed. During this the marching troop covers a distance of 150 m. Calculate the distance covered by the courier.
  (4 pont)

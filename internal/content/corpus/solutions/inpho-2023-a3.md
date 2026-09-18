@@ -73,11 +73,11 @@ dQ =
 dQ
 dV
 =
-
+
 −4aV +
 5b
 2
-
+
 (3.12)
 In the process, heat is taken and volume is also increasing. hence
 dQ
@@ -107,11 +107,11 @@ Z VB
 VA
 (−aV + b)dV (3.17)
 =
-
+
 −aV 2
 2
 + bV
-5b/8a
+ 5b/8a
 b/2a
 (3.18)
 Substituting the limits, we get,

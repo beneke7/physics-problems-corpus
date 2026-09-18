@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201211"
 verification_status: pending
 ---
 
-A small incandescent lamp, rated at 2 W/20 V, is to be operated with the aid of a 100-ohm variable resistor and a voltage supply of voltage 40 V. How can this be done? 
+A small incandescent lamp, rated at 2 W/20 V, is to be operated with the aid of a 100-ohm variable resistor and a voltage supply of voltage 40 V. How can this be done?
  (4 pont)

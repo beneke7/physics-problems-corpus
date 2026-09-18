@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5001. Reggelente mindig ugyanabban az órában megfigyelhetjük, hogy a Vénusz egyre közelebb kerül a Naphoz. 
+P. 5001. Reggelente mindig ugyanabban az órában megfigyelhetjük, hogy a Vénusz egyre közelebb kerül a Naphoz.
  Vajon a Nap ,,előtt'' vagy pedig a Nap ,,mögött'' fog a Vénusz elhaladni?

@@ -72,7 +72,9 @@ lapra merôlegesen beesô fénysugár                        1
 
 
 A FIZIKA TANÍTÁSA                                                                                                      29
-ja, tanára Knapp Ottó; III. díjat kapott Egyedi Péter, a       Tapadás esetén a kényszererô és a súrlódási erô
+
+
+ja, tanára Knapp Ottó; III. díjat kapott Egyedi Péter, a       Tapadás esetén a kényszererô és a súrlódási erô
 pécsi Leôwey Klára Gimnázium IV. osztályos tanulója,        között az |F | ≤ μN egyenlôtlenség áll fenn, míg csú-
 tanára Csikós Istvánné, Maróti Miklós, a szegedi Rad-       szásnál |F | = μN. A hasáb gyorsulása akkor a lehetô
 nóti Miklós Gimnázium IV. osztályos tanulója, tanára        legnagyobb, ha a hasáb csúszik, és a hasáb deszkához
@@ -140,7 +142,9 @@ lásd a 2. ábrát.
 
 
 30                                                                                                      FIZIKAI SZEMLE 2016 / 1
- Aw
+
+
+ Aw
                                                                 bessége eléri a vdrift értéket) rövid. Részletesebb szá-
                    t–                        t–                 molással megmutatható, hogy ez az idôtartam
                                                                                                  Aω
@@ -212,7 +216,9 @@ Megjegyzés                                                         A rajzon áb
 elsô, átmeneti szakasza (amely alatt a hasáb átlagse-           ján:
 
 A FIZIKA TANÍTÁSA                                                                                                    31
-                       1  1 1                               hasonló háromszögek segítségével kifejezhetô a len-
+
+
+                       1  1 1                               hasonló háromszögek segítségével kifejezhetô a len-
                          = − ,                              cse és a fényképezôgép l távolsága:
                        f  t k
 ahol f a keresett fókusztávolság (a látszólagos képtá-                                  td
@@ -283,7 +289,9 @@ menete a következô.                                         N2 = 200 menetszá
 „külsô” átmérô alapján                           7. ábra    kercsre kapcsolt (ideálisnak tekinthetô) voltmérô?
 
 32                                                                                                      FIZIKAI SZEMLE 2016 / 1
-                                                              pos tekercs közel van a hosszú tekercshez, így B kö-
+
+
+                                                              pos tekercs közel van a hosszú tekercshez, így B kö-
                                                               zel merôleges a felületére. A lapos tekercsen áthaladó
                                                               teljes (mindkét forrásból származó) fluxus emiatt:
 
@@ -357,7 +365,9 @@ mágneses indukciót hoz létre (mert a Φ fluxus egy l /2                      
 sugarú gömb felületén oszlik el egyenletesen). A la-                                                   2            2⎝ l ⎠
 
 A FIZIKA TANÍTÁSA                                                                                                           33
-                                     Dl
+
+
+                                     Dl
                                                B1                           μ 0 dI 2 r π                     r                             μ 0 r 2 dI
                                                                  B (h ) =                                                         =                            .
                                                                              4 π r2 h2              r2               h2                      2
@@ -448,7 +458,9 @@ riatengely mentén, a kör síkjától h távolságra köny-             Egy fel
 nyen felírhatjuk a Biot–Savart-törvény segítségével:          diszkusszióért harmadik díjat nyert Balogh Menyhért,
 
 34                                                                                                                        FIZIKAI SZEMLE 2016 / 1
-                                                                                           mezôvásárhelyi Bethlen Gá-
+
+
+                                                                                           mezôvásárhelyi Bethlen Gá-
                                                                                            bor Református Gimnázium
                                                                                            11. osztályos tanulója, Laka-
                                                                                            tos-Tóth István és Nagy Tibor

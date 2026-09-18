@@ -24,7 +24,7 @@ az egyik alumíniumból készült, tömör, egyenes henger, a másik rézből k�
 egyenletes falvastagságú cső. A testeket kemény, jól tapadó lejtőre helyezzük úgy,
 hogy tengelyük vízszintes legyen.
 
-![ábra](../../sources/eotvos/figures/eotvos-2013-rolling-cylinders-fig1.png)
+![ábra](../../figures/eotvos/figures/eotvos-2013-rolling-cylinders-fig1.png)
 
 **a)** Milyen magasból kell elengednünk az egyes testeket, hogy $1\ \mathrm{m/s}$
 haladási sebességgel érjék el a lejtő alját?

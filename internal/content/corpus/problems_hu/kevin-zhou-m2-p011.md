@@ -23,7 +23,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 ---
 
 6
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
 
      (b) Most tegyük fel, hogy a test vékony, homogén rúd. Mekkora a legkisebb erő, amely a test bármilyen mozgását megindítja, ha az

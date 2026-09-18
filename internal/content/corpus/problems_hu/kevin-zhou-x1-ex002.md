@@ -45,7 +45,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     Part (b) gives a simple example of how energy levels “split” in the presence of interactions.
 
                                                       7
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
   Example 2
 
@@ -69,7 +71,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   space, with a volume of (πℏ/L)3 for each state. The surface E = E0 corresponds to a sphere
             √
   of radius 2mE0 . Therefore the number of states with energy at most E0 is approximately
-                                                           −3
+                                                               −3
                                        1 4            3/2       πℏ
                                   N=         π(2mE0 )                .
                                        8 3                      L
@@ -86,7 +88,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   as large, the states now occupy eight octants instead of one. Then the overall density of
   states is still the same, and the number of states with energy at most E0 is approximately
                                                            2πℏ −3
-                                                             
+
                                          4          3/2
                                   N=       π(2mE0 )
                                          3                  L
@@ -100,4 +102,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   which is why the result is now called the Rayleigh–Jeans law.
 
                                                     8
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts

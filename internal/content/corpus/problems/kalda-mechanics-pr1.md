@@ -19,4 +19,4 @@ verification_status: pending
 
 An end of a light wire rod is bent into a hoop of radius $r$. The straight part of the rod has length $l$; a ball of mass $M$ is attached to the other end of the rod. The pendulum thus formed is hung by the hoop onto a revolving shaft. The coefficient of friction between the shaft and the hoop is $\mu$. Find the equilibrium angle between the rod and the vertical.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr1-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr1-fig1.jpg)

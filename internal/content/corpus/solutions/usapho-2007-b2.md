@@ -17,7 +17,7 @@ a. Magnetic Moments
 i. From Coulomb’s Law,
 F =
 e2
-4π0R2
+4π 0R2
 (B2-1)
 ii. For circular motion,
 F =
@@ -29,12 +29,12 @@ The force is provided by the Coulomb force, so
 meRω2
 0 =
 e2
-4π0R2
+4π 0R2
 , (B2-3)
 ω0 =
 s
 e2
-4π0meR3
+4π 0meR3
 (B2-4)
 iii. From the law of Biot and Savart,
 ~ Be =
@@ -83,7 +83,7 @@ modifies previous central force problem to give
 meRω2
 =
 e2
-4π0R2
+4π 0R2
 ± eRω0B0, (B2-12)
 where the positive sign corresponds to anticlockwise motion, the negative to clockwise
 motion.
@@ -129,23 +129,23 @@ B0πR2
 . (B2-19)
 iv. The change in kinetic energy is given by
 ∆K = ∆
-
+
 1
 2
 meω2
 R2
-
+
 , (B2-20)
 = meR2
 ω ∆ω, (B2-21)
 ≈ meR2
 ω0 ∆ω, (B2-22)
 = meω0R2
-
+
 ±
 eB0
 2me
-
+
 , (B2-23)
 = eE. (B2-24)
 Copyright c 2007 American Association of Physics Teachers
@@ -153,10 +153,10 @@ Copyright c 2007 American Association of Physics Teachers
 v. ∆M = Nδm, where N is the number of atoms, and ∆m the change in magnetic moment
 in each. The change is
 ∆m = ∆
-
+
 eω0R
 2
-
+
 . (B2-25)
 =
 eR

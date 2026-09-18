@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-A 10 cm high aluminium cone is raised slowly out of an aquarium, by means of a thread attached to the apex of the cone. The shape of the aquarium is a rectangular box, and the diameter of the cone is also 10 cm. Initially the base of the cone lies on the bottom of the aquarium, and the cone is totally submerged into the water. The volume of the aquarium is much greater than that of the cone. 
- Plot the graph of the tension in the thread as a function of the displacement of the cone. 
+A 10 cm high aluminium cone is raised slowly out of an aquarium, by means of a thread attached to the apex of the cone. The shape of the aquarium is a rectangular box, and the diameter of the cone is also 10 cm. Initially the base of the cone lies on the bottom of the aquarium, and the cone is totally submerged into the water. The volume of the aquarium is much greater than that of the cone.
+ Plot the graph of the tension in the thread as a function of the displacement of the cone.
  (4 pont)

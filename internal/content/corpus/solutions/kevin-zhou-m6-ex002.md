@@ -84,11 +84,11 @@ mv2
 2
 mṙ2
 +
-
+
 V (r) +
 L2
 2mr2
-
+
 .
 4
 Kevin Zhou Physics Olympiad Handouts
@@ -96,11 +96,11 @@ By setting the time derivative of this expression to zero, we find
 mr̈ = −
 d
 dr
-
+
 V (r) +
 L2
 2mr2
-
+
 .
 Therefore, if we are interested in r(t) alone, we can find it by treating the problem as
 one-dimensional, where the particle moves in the “effective potential” V (r) + L2/2mr2. The
@@ -183,10 +183,10 @@ L2
 (−2)r−3
 0 + kβrk−1
 0 = 0, r0 =
-
+
 L2
 mkβ
- 1
+  1
 k+2
 .
 (b) For small |r − r0|, Taylor expanding gives
@@ -203,11 +203,11 @@ eff(r0)/m. Thus, we must compute V ′′
 eff(r0). We straightforwardly have
 V ′′
 eff(r) = r−4
-
+
 3L2
 m
 + k(k − 1)βrk+2
-
+
 ,
 so V ′′
 eff(r0) = 1

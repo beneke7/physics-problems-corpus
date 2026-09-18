@@ -44,7 +44,7 @@ The aim of this work is to study the motion of bodies in a viscous medium.
 
 In this experiment use the following installation. The glass tube is glued to the tip of the syringe. Tube with a syringe is attached to the ruler with an adhesive tape. Using the syringe you can fill up the tube with the gel. This setup can be fixed to the tripod vertically, either with the tube pointing upward or downward. Inside the tube you can place metal or wooden rods, the motion of which you will explore.
 
-![Apparatus: glass tube glued to a syringe, attached to a ruler with glue tape; working range marked on the tube](../../sources/izho/figures/izho-2010-e-q1-fig1.png)
+![Apparatus: glass tube glued to a syringe, attached to a ruler with glue tape; working range marked on the tube](../../figures/izho/figures/izho-2010-e-q1-fig1.png)
 
 For successful completion of the experiment, strictly follow the instructions below:
 

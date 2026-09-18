@@ -20,4 +20,4 @@ verification_status: pending
 
 Kezdetben: az alábbi áramkörben az $S$ kapcsoló nyitva van; a $2C$ kapacitású kondenzátor töltése $q_{0}$; a $C$ kapacitású kondenzátor töltetlen; az $L$, illetve $2L$ induktivitású tekercsekben pedig nem folyik áram. A kondenzátor kisülni kezd, és abban a pillanatban, amikor a tekercsekben folyó áram eléri maximumát, az $S$ kapcsolót azonnal bezárjuk. Határozzuk meg az $S$ kapcsolón ezt követően átfolyó maximális $I_{\text {max }}$ áramot.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr103-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr103-fig1.jpg)

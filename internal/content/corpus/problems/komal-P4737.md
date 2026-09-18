@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201505"
 verification_status: pending
 ---
 
-A light ray is incident on one of the faces of a glass prism perpendicularly to it. The angle of refraction of the light ray on another face of the prism is $45^\circ$. What is the apex angle of the prism if the speed of light in this glass prism is 240000 km/s? 
+A light ray is incident on one of the faces of a glass prism perpendicularly to it. The angle of refraction of the light ray on another face of the prism is $45^\circ$. What is the apex angle of the prism if the speed of light in this glass prism is 240000 km/s?
  (3 pont)

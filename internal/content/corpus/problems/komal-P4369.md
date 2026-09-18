@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-A pointlike light-source is moving parallel to the principal axis of a converging lens of focal length  f at a distance of f /4 from the principal axis. How far is the light-source from the lens at that moment when its speed is equal to the speed of the image of the light-source? 
+A pointlike light-source is moving parallel to the principal axis of a converging lens of focal length  f at a distance of f /4 from the principal axis. How far is the light-source from the lens at that moment when its speed is equal to the speed of the image of the light-source?
  (6 pont)

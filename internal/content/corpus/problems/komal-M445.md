@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202512"
 verification_status: pending
 ---
 
-Measure the space-filling properties of a given granular material (e.g. rice, barley, etc.). To what extent does this depend on the preparation of the system (e.g., compaction, shaking, etc.)? 
+Measure the space-filling properties of a given granular material (e.g. rice, barley, etc.). To what extent does this depend on the preparation of the system (e.g., compaction, shaking, etc.)?
  (6 pont)

@@ -22,7 +22,7 @@ verification_status: pending
 
 Az erőmérő egy rugalmas gerendából készül, amely $L$ hosszúságú munkaterülettel és $h$ magassággal rendelkezik, és amely négy azonos elektromos ellenállású $l \ll L$ hosszúságú vezetékből épül fel, ahogy az alábbi ábrán látható. Amikor az erő $F$ kifejtődik a gerenda végén, hajlítja a gerendát és nyújtja az felső vezetékeket és tömöríti az alsóakat, amely az elektromos ellenállás megváltozásához vezet. A Wheatstone híd módszerét alkalmazva ezek a változások voltmérő-leolvasássá alakíthatók, amely az erő $F$ méréseit teszi lehetővé.
 
-![Erőmérő beállítása](sources/nbpho/figures/nbpho-2023-force-sensor-fig1.jpg)
+![Erőmérő beállítása](../../figures/nbpho/figures/nbpho-2023-force-sensor-fig1.jpg)
 
 A következőkben feltételezzük, hogy a gerenda eltérése nagyon kicsi.
 
@@ -32,4 +32,4 @@ A következőkben feltételezzük, hogy a gerenda eltérése nagyon kicsi.
 
 **iii)** *(2 pont)* Az ellenállások az alábbi ábrán látható Wheatstone híd konfigurációban vannak elrendezve, ahol $U$ az ismert akkumulátor feszültsége. Határozza meg a mért feszültség $V$ és az erő $F$ közötti kapcsolatot.
 
-![Wheatstone híd áramkör](sources/nbpho/figures/nbpho-2023-force-sensor-fig2.jpg)
+![Wheatstone híd áramkör](../../figures/nbpho/figures/nbpho-2023-force-sensor-fig2.jpg)

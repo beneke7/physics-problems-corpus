@@ -67,13 +67,13 @@ distributed only makes sense for s ≪ h.
 A complete and rather complicated analysis would show that the lowest resonant angular
 frequency is
 ω = c min 1.841
-
+
 1
 b2
 +
 2.912
 h2
-1/2
+ 1/2
 ,
 2.405
 b
@@ -385,7 +385,7 @@ the sinusoid, but the overall integral is still positive, so α continues to inc
 state is when α = 1 and the current flows all the time. At this point, IL = V0/R = 1A.
 [3] Problem 26. NBPhO 2008, problem 6.
 [3] Problem 27. NBPhO 2013, problem 8. A circuit with a nice mechanical analogy.
-[3] Problem 28.  Y 1 0IPhO 2001, problem 1c.
-[3] Problem 29.  ^ 1 0USAPhO 2018, problem A2.
+[3] Problem 28.   Y 1 0IPhO 2001, problem 1c.
+[3] Problem 29.   ^ 1 0USAPhO 2018, problem A2.
 [4] Problem 30. @ 1 0EuPhO 2022, problem 2.
 29

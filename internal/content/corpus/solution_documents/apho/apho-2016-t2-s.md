@@ -67,7 +67,8 @@ Part                                              Model Answer                  
                                    𝜌r (𝑡) = 𝜌r (𝑡0 ) ( 𝑎(𝑡)0 ) (0.5 points)
 
        [Remarks: It is acceptable if the student just write 𝝆𝐫 ∝ 𝟏/𝒂𝟒 .]
-                                            Marking Scheme – T2
+
+                                            Marking Scheme – T2
                                                                                            Page 2 of 4
 
 
@@ -121,7 +122,8 @@ D   The 1st law of thermodynamics is                                            
 
     [Remarks: 0.5 point for relating variation and time derivative no matter in which step it is
     being used.]
-                                              Marking Scheme – T2
+
+                                              Marking Scheme – T2
                                                                                             Page 3 of 4
 
 
@@ -179,7 +181,8 @@ F   The kinetic energy and gravitational energy of the shell adds up to a consta
                                                      = − 3𝑐 2 𝐺𝑚𝜌𝑟p , (2 points)
 
     where 𝑚 is mass of shell.
-                                             Marking Scheme – T2
+
+                                             Marking Scheme – T2
                                                                                              Page 4 of 4
 
                                              𝑟p = 𝑎(𝑡)𝑟, (1 point)

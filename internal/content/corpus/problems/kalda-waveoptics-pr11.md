@@ -22,4 +22,4 @@ Anemometer is a device measuring flow rate of a gas or a fluid. Let us look the 
 (ii) Let the oscillation frequency of the photometer signal be $\nu=50 \mathrm{kHz}$. How large is the fluid's speed $v$ ? What can be said about the direction of the fluid flow?
 (iii) Let us consider a situation, when the wavelengths of the plane waves differ by $\delta \lambda=4,4 \mathrm{fm}\left(1 \mathrm{fm}=10^{-15} \mathrm{~m}\right)$. What is the frequency of signal oscillations now (fluid's speed is the same as in previous section)? Is it possible to determine the flow direction with such a device?
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr11-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr11-fig1.jpg)

@@ -44,7 +44,7 @@ evaluate u1 · u2 in any frame. Suppose we work in the frame of the first partic
 uµ
 1 = (1,0), uµ
 2 =
-
+
 1
 √
 1 − v2
@@ -52,7 +52,7 @@ uµ
 v
 √
 1 − v2
-
+
 .
 20
 Kevin Zhou Physics Olympiad Handouts

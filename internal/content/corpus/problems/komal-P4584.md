@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201312"
 verification_status: pending
 ---
 
-Hansel and Gretel have a dream, that they will get married in space. At the end of the ceremony they float next to each other in the space station, but they cannot reach each other, because there is a distance of 10 cm between them. How long do they have to wait until they can reach each other due to gravity? How can they decrease this time? (Estimate the necessary data.) 
+Hansel and Gretel have a dream, that they will get married in space. At the end of the ceremony they float next to each other in the space station, but they cannot reach each other, because there is a distance of 10 cm between them. How long do they have to wait until they can reach each other due to gravity? How can they decrease this time? (Estimate the necessary data.)
  (4 pont)

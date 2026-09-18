@@ -19,4 +19,4 @@ verification_status: pending
 
 Consider a so-called Maxwell's bridge shown in figure below, which is used for measuring the inductance $L$ and the ohmic resistance $R$ of an inductor. To that end, the other parameters are adjusted so that the voltage reading will be zero. Assuming that such a state has been achieved, express $L$ and $R$ in terms of $R_{1}, R_{2}, R_{C}$ and $C$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr94-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr94-fig1.jpg)

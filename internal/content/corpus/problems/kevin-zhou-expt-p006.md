@@ -27,5 +27,5 @@ solution_language: en
     a light meter which measures the total light intensity on it. How can you accurately measure the
 
 
-                  01^
+                  01^
     intensity of the red light given off by the bulb in a given direction, at a given distance?

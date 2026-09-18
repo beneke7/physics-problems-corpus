@@ -18,7 +18,7 @@ Suppose you are given a problem and you don't know how to really solve it; howev
 
 To begin with, let us consider the simplest and most classical problem on electrical images (the Problem 1): suppose there is an infinite conducting plane $z=0$ and at $z=a$ , there is charge $q$ . Find (a) the charge surface density of the induced charges $\sigma$ at $x=y=z=0$ ; (b) the interaction force between the plane and the charge; (c) the net charge induced at the conductor surface $Q =\int \sigma(x,y)dxdy$ .
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-1.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-1.jpg)
 
 Intuitively, it is quite clear that the problem is well-defined, ie. it should have a unique solution. Let us analyse it in mathematical details. First, the electrostatic field is everywhere potential ( $\oint \vec E\cdot d\vec r =0$ , or equivalently, $\vec\nabla\times \vec E=0$ ; just skip what is written in braces if you don't understand it) and second, in the half-space $z>0$ , except for the point $\vec r =(0,0,a)$ , it is source-free ( $\oint \vec E\cdot d\vec S =0$ , or equivalently, $\vec\nabla\cdot \vec E =0$ ). These two conditions form a closed set of differential equations (in partial derivatives; more specifically, owing to the first condition, the electric field can be expressed via an electrostatic potential, $\vec E = \vec\nabla \phi$ , due to the second condtition, $\vec \nabla ^2 \phi =0$ ). Now, in order to have a unique solution, we need appropriate boundary conditions (which correspond to initial conditions for ordinary differential equations) at the boundary of that region of space where we need to find the field (this region is marked with grey in the Fig.). In the case of our problem, the boundary consists of three parts: (a) the conductor surface $z=0$ , where $\phi=\mbox{Const}$ ; (b) the point occupied by the charge $\vec r =(0,0,a)$ , around which $\oint \vec E\cdot d\vec S = \frac 1{4\pi\varepsilon_0} q$ ; (c) infinitely remote region $|\vec r| =\infty ,$ where $\phi=0$ . Comparing (a) and (c) we can conclude that at the conductor surface, $\phi = 0$ .
 
@@ -30,7 +30,7 @@ Now, if we look back at our problem, it is easy to see that everything is fine: 
 
 For the first problem, the task is easy: it is just enough to place one virtual charge $-q$ at $\vec r =(0,0,-a)$ (blue in Fig.) to ensure that when superimposed to the field of the real charge $q$ at $\vec r =(0,0,a)$ , the resultant potential is zero at the entire surface of the conductor [since we keep a charge at $\vec r =(0,0,a),$ (red in Fig.), the boundary condition at that point is satisfied, too]. Note that in reality, there is no charge at $\vec r =(0,0,-a)$ : all the real charge is induced at the surface of the conductor, only the field in the region $z>0$ is as if there were a charge $-q$ at $\vec r =(0,0,-a)$ . To sum up, at $z<0$, the electric field $\vec E=0$   (we knew it from the very beginning!), and at $z>0$ , the electric field is such as if  there were a charge $-q$ at $z=-a$ .
 
-In order to calculate the net charge induced at the surface of the conductor [question (c)], let us consider the flux of electric field through a very large sphere of diverging radius, centred around the charge (in Fig, orange circle $\Gamma_1$ ). In the region $z>0$ , the field is that of a dipole (the pair of red and blue charges in Fig), hence $|vec E|$ vanishes as $1/r^3$ . Meanwhile, the surface area of the sphere grows as $r^2$ ; therefore, the field flux is $\propto 1/x$ , ie. becomes zero for an infinite sphere (here $\propto$ means "proportional to"). According to the Gauss law, this means that the sum of real charges inside the sphere is zero, which means that the net charge on the conductor surface must be equal to $Q=-q$ , to compensate the charge at  $\vec r =(0,0,a)$ . So, the real induced charge is equal to the image charge at $\vec r =(0,0,-a)$ . This is a universal result (consequence of the Gauss law): the sum of image charges inside a conductor with a given potential equals to the net charge induced on the surface of that conductor.
+In order to calculate the net charge induced at the surface of the conductor [question (c)], let us consider the flux of electric field through a very large sphere of diverging radius, centred around the charge (in Fig, orange circle $\Gamma_1$ ). In the region $z>0$ , the field is that of a dipole (the pair of red and blue charges in Fig), hence $|\vec E|$ vanishes as $1/r^3$ . Meanwhile, the surface area of the sphere grows as $r^2$ ; therefore, the field flux is $\propto 1/x$ , ie. becomes zero for an infinite sphere (here $\propto$ means "proportional to"). According to the Gauss law, this means that the sum of real charges inside the sphere is zero, which means that the net charge on the conductor surface must be equal to $Q=-q$ , to compensate the charge at  $\vec r =(0,0,a)$ . So, the real induced charge is equal to the image charge at $\vec r =(0,0,-a)$ . This is a universal result (consequence of the Gauss law): the sum of image charges inside a conductor with a given potential equals to the net charge induced on the surface of that conductor.
 
 In order to answer the question (a), we consider a small cylindrical surface of a cross-section area $S$ and a negligible height, which is positioned at $\vec r=0$ , coaxial with the real and virtual charges (in Fig, green rectangle $\Gamma_2$ ). The electric field flux through that cylinder includes only the flux through that bottom of it which is turned towards the real charge (the side surfaces are small and the other bottom is inside the conductor, where $\vec E=0$ ): $ES=\frac 1{4\pi\varepsilon_0}\sigma S$ . Note that $\sigma S$ stands for the charge inside the cylinder, and $E=\frac q{2\pi\varepsilon_0a^2}$ is the field at $\vec r=(0,0,+0)$ , ie. the superposition of the fields of the real and virtual charges. So, we finally obtain $\sigma =-2q/a^2$ (we have prefixed '–' to reflect the fact that the induced surface charge is of opposite sign.
 
@@ -38,9 +38,9 @@ Finally, to answer the question (b), let us note that the electrostatic force ac
 
 Now it is becomes also clear, why the method is called the method of electrical images: plane conductor surfaces work as mirrors: we need to put virtual charges in the position of those optical images of the real charges which would appear, if the conductor surfaces were mirrors. This is valid not only for a single infinite conductor surface, but also for configurations depicted in Figures below.
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-2.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-2.jpg)
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-3.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-3.jpg)
 
 However, the analogy is not perfect, and does not work rigorously in the case of curved surfaces. It appears that in the case of spherical surfaces, the situation is actually better than in the case of geometrical optics when the images are not perfect points, due to spherical abberations; this will be discussed in next paragraphs.
 
@@ -50,11 +50,11 @@ $\displaystyle k\frac q{a}-k\frac Q{b}=0.$
 
 In order to prove that this, indeed, the case, let us note that the green and orange triangles (in Fig. below) have one common angle, ie. the position of the image charge can be chosen so that the green and orange triangles will be similar to each other. This will happen if the ratios of the respective sides of the green and orange triangles are equal, ie. if $\frac LR=\frac Rd \Rightarrow d=R^2/L$ . Furthermore, due to the similarity of the triangles, $\frac ab=\frac LR$ ; combining this with the condition $k\frac q{a}=k\frac Q{b}$ results in $\frac Qq=\frac ba =\frac RL \Rightarrow Q=q\frac RL$ . Since these values of $d$ and $Q$ are independent of $a$ and $b$ , the green and orange triangles remain similar (with the same similarity ratio $\frac RL$ ), and  the condition $k\frac q{a}=k\frac Q{b}$ remains satisfied for any point on the sphere. This means that indeed, with an image charge $Q=-q\frac rL$ , which is placed at the distance $d=\frac {R^2}L$ from the centre of the sphere towards the external charge, all the boundary conditions are satisfied, ie. this configuration of charges produces the actual  electric field outside the sphere. Also, we can conclude that the net charge induced on the surface of the grounded sphere equals to $Q=-q\frac RL$ .
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-4.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-4.jpg)
 
 Now we can easily solve a problem of reversed geometry (Problem 3): suppose there is a charge $q$ inside a hollow conducting charge-less sphere of radius $R$ ; we ask, what is the interaction force between the charge and the sphere, and what is the electric potential of the sphere.
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-5.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-5.jpg)
 
 For the inside region of the sphere, the boundary conditions are: (a) constant potential at the spere; (b) charge $q$ at the given point. It is easy to see that these conditions can be satisfied with the charge placement from the previous problem, only the real and image charges swap the places. So, we need to put an image charge $-Q$ at the distance $L=R^2/d$ from the centre of the sphere, with $Q=q\frac Rd$ . So, the interaction force is $F=kq^2Rd/(R^2-d^2)^2$ .
 
@@ -62,7 +62,7 @@ For the outside region of the sphere, the boundary conditions are: (a) constant 
 
 As a Problem 4, let us consider the interaction of an isolated electrically neutral conducting sphere with a point charge $q$ at distance $L$ from the centre of the sphere. The only difference from the Problem 2 is that the sphere is electrically neutral and isolated. From the solution of Problem 2 we know that putting image charge $-Q=-qR/L$ at distance $d=R^2/L$ from the centre of the sphere yields a zero potential for any point on the sphere. Now we can add more image charges inside the sphere, but we need to keep the sphere surface equipotential. The only place we can put an image charge and satisfy this condition, is the centre of the sphere. On the other hand, the net charge of the sphere is the sum of image charges; we already have the first image charge $-Q$ , hence, if we put a second image charge $+Q$ into the centre of the sphere, this condition will be satisfied, too!
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-6.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-6.jpg)
 
 Next, let us determine the surface charge density for a conducting cylinder, placed into a homogeneous electric field $E$ , which is perpendicular to the axis of the cylinder, also to used as the $z$ -axis (Problem 5). If there were a sphere instead of the cylinder, it could be studied as a limit case of Problem 4, when the point charge is at an infinite distance $L$ , with charge equal to $q=EL^2/k$ . In 2D geometry, however, point image charges (actually, homogeneously charged wires) are no good, because then the potential is a logarithmic function of the distance, and for the system of two parallel wires, there are no equipotential surfaces with the shape of a cylinder.
 
@@ -74,9 +74,7 @@ Here we have used vector notation to express the fact that the electric field is
 
 $\displaystyle \vec E=\frac \rho {2\varepsilon_0}(\vec r_1-\vec r_2) = \frac \rho {2\varepsilon_0}\vec a$ .
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-5-7.jpg)
-
-.
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-5-7.jpg)
 
 The result is a constant vector, which means that the electric field inside the region of overlap is homogeneous. Now it becomes also clear, how to obtain the solution to the Problem 5: we take $r = R$ , and let $a\to 0$ and $\rho \to \infty$ in such a way that the product of the two will remain constant,
 

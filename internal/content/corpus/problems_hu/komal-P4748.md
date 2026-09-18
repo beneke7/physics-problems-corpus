@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4748. Elképzelhető-e, hogy a soproni Károly-kilátó tetejéről leejtett fagylaltgömb már a talajra érkezése előtt teljesen felolvad? 
+P. 4748. Elképzelhető-e, hogy a soproni Károly-kilátó tetejéről leejtett fagylaltgömb már a talajra érkezése előtt teljesen felolvad?
  Vermes Miklós fizikaverseny, Sopron

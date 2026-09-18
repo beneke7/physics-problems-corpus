@@ -53,7 +53,9 @@ when ω ≪ pkB/mkt. Does this hold for audible sound in air, where kt ≈ 25mW/
 Solution. (a) By definition, we have k = −dF/dx, where F is the force experienced by a piston
 at the end of the cylinder as it moves a distance x. But we also have F = Ap and dV = Adx,
 and combining these gives the result.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Plugging the result of part (a) in, we have
 v2
 = −A2 dp
@@ -121,7 +123,9 @@ Remark
 Phase shifts upon reflection for sound waves can be a bit tricky. Recall from W1 that a hard
 boundary for a transverse string wave y(x,t) sets y to zero. As a result, upon reflection, y
 flips sign, but vy = ∂y/∂t stays the same.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 When a sound wave hits a hard wall, the wall sets the displacement ξ(x,t) to zero. Then
 upon reflection, the displacement flips sign, while the pressure variation δP(x,t) ∝ ∂ξ/∂x
 stays the same. In standing waves, a hard wall is thus a node for ξ and an antinode for δP.
@@ -159,7 +163,9 @@ vl =
 r
 kL2
 m
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 where k and m are the spring constant and mass. The transverse wave speed is
 vt =
 s
@@ -205,7 +211,9 @@ In my former college at Oxford, there is a long staircase that is said to “qua
 claps at it. What is the explanation of this phenomenon?
 Solution
 A diagram of the staircase is given below, courtesy of Felix Flicker, fellow of New College.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 The key is that each clap reflects off a stair individually. When the echoes arrive back at the
 listener, they arrive quickly enough to be heard as a pitch.
 The width and height of the steps are w = 30cm and h = 16cm. Suppose one claps at a
@@ -228,9 +236,9 @@ w2 + h2
 = 500Hz.
 Hence the quack consists of a pitch that starts high and then falls slightly lower as it fades
 away. For further discussion, see the article How the Mound got its Quack.
-[3] Problem 4.  m 1 0USAPhO 1998, problem B1. (The official solution has a qualitatively incorrect
+[3] Problem 4.   m 1 0USAPhO 1998, problem B1. (The official solution has a qualitatively incorrect
 answer for the final part of the problem; see Stefan Ivanov’s errata for the correct answer.)
-[3] Problem 5.  W 1 0USAPhO 2016, problem A1.
+[3] Problem 5.   W 1 0USAPhO 2016, problem A1.
 [2] Problem 6. Some problems about sound waves in everyday life.
 (a) Get a coffee cup with a handle and tap on the rim with a spoon. You will hear two distinct
 pitches, e.g. if you tap directly above the handle, or 45◦ away from this point. Investigate
@@ -242,7 +250,9 @@ different because the radius is nonzero. Is the wavelength actually longer or sh
 Solution. (a) You should find that the pitch can be slightly lower or higher, and that it’s lower
 if you tap directly above the handle, or 90◦, 180◦, or 270◦ away from it. See this nice video
 for the explanation.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 The basic idea is that the dominant vibrational mode deforms the circular rim into an ellipse,
 whose major and minor axes swap places during the oscillation. There are two possible
 “polarizations” for this deformation. In one of them, the handle is on a major/minor axis, so
@@ -280,7 +290,9 @@ on the screen look like now?
 (d) On an unrelated note, suppose we wish to rotate the polarization of linearly polarized light by
 using N ≫ 1 intermediate polarizers. What’s the best way to do this, and what’s the fraction
 of light that passes through the stack?
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) It’s just an ordinary double slit interference pattern. Since the light goes through
 the slits with the same polarization at each moment, it shows up at the screen with the same
 polarization at each moment. Then the amplitudes directly add, yielding interference effects.
@@ -316,33 +328,35 @@ popular science articles, people often say this experiment proves that quantum m
 (d) For a small misalignment, the fraction of intensity lost goes up quadratically with the mismatch
 in angle, so we should have the polarizers uniformly spaced by angle θ/N. Then each filter
 multiplies the intensity by cos2(θ/N) ≈ 1 − θ2/N2, so the overall intensity is multiplied by
-
+
 1 −
 θ2
 N2
-N
+ N
 ≈ exp
-
+
 −
 θ2
 N
-
+
 .
 In the limit N → ∞, no intensity is lost. So in principle you can rotate polarization this way,
 though it’s better to just use a half-wave plate, which will be described below.
 Idea 3
 For a plane wave propagating along the z-axis with general polarization, it’s useful to write
 E(z,t) = Re
-
+
 E0 ei(kz−ωt)
-
+
 where E0 is a complex two-component vector, describing both its amplitude and polarization.
 For example, if E0 = E0 x̂, the light wave is horizontally polarized, if E0 = iE0 x̂, it’s
 horizontally polarized with a phase shifted by π/2, if E0 = E0 ŷ it’s vertically polarized, and
 if E0 = E0 (x̂ + ŷ)/
 √
 2 it’s diagonally polarized.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 When linear polarizations are combined with a relative phase, the result is circular (or more
 generally, elliptical) polarization. For example, when E0 = E0(x̂ + iŷ)/
 √
@@ -400,7 +414,9 @@ find what it does to any polarization of light by superposition.
 [2] Problem 8 (MPPP 127). A birefringent material is placed between two orthogonal polarizers. The
 material has thickness d, and has an index of refraction of n1 for light linearly polarized along the
 axis e, and n2 for light polarized about an orthogonal axis.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 If the system is illuminated with light of wavelength λ, give a value for d and orientation of e that
 maximizes the transmitted light.
 Solution. We want to turn vertical polarization into horizontal polarization. Note that the hori-
@@ -435,7 +451,9 @@ the intensity of light, so if the intensity is reduced, it’s either a polarize
 distinguish between the latter two, you can check if the output is linearly polarized, by applying a
 polarizer. (For example, there should be an orientation of the polarizer where the output light is
 blocked entirely.)
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 To distinguish between a quarter-wave and half-wave plate, one could use a polarizer to send in
 linearly polarized light. A half-wave plate transforms linearly polarized light into linearly polarized
 light, with possibly a different polarization axis. That means that the output must be linearly
@@ -478,10 +496,12 @@ polarization, then gets blocked by the horizontal polarizing filter.
 absorbs energy, which increases its entropy. The entropy gained by the isolator, ∆S = ∆Q/T,
 overwhelms the decrease in entropy from organizing photons only on one side of the isolator.
 (Then you might ask, what about the limit T → ∞? But in that case, we must also account
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 for the blackbody radiation emitted by both sides of the isolator, so we don’t really have a
 functional isolator at all.)
-[4] Problem 13.  T 1 0IZhO 2021, problem 3. A problem on the propagation of light through a
+[4] Problem 13.   T 1 0IZhO 2021, problem 3. A problem on the propagation of light through a
 waveguide, unifying material from E7 and W1.
 3 Water Waves
 Water waves are the most familiar examples of waves in everyday life, but you won’t find them
@@ -519,7 +539,9 @@ That is, we have
 For a sinusoidal wave, a derivative with respect to x gives a factor of k and a derivative
 with respect to t gives a factor of ω. So we have Dkv ∼ ωh, and since vw = ω/k, we have
 v ∼ vwh/D ≪ vw.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Consider the horizontal forces on the fixed piece of water that, at some moment, is between
 x and x+dx. This water has atmospheric pressure at its upper surface, so the net horizontal
 force on it due to hydrostatic pressure is
@@ -528,7 +550,7 @@ F =
 2
 ρgℓ (D + h(x))2
 − (D + h(x + dx))2
-
+
 ≈ −ρgDℓ
 ∂h
 ∂x
@@ -541,13 +563,13 @@ dt
 dv
 dt
 = ρℓDdx
-
+
 ∂v
 ∂t
 + v
 ∂v
 ∂x
-
+
 .
 In the second step, we used the idea of the “convective derivative”. That is, the chunk of
 water originally at x at time t will move to x′ = x + v(x,t)dt after a time dt, at which point
@@ -596,7 +618,9 @@ Dh2
 .
 Thus, when D is halved, h increases by a factor of 21/4. This is known as Green’s law.
 Eventually, h becomes comparable to D and our expressions break down.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Textbooks commonly say that liquids can’t support transverse waves, because they don’t
 support shear stresses. But the waves considered in problem 14 are clearly transverse. This
@@ -627,9 +651,11 @@ change in speed is balanced by a change in gravitational potential energy. That 
 2
 (v + aω)2
 − (v − aω)2
-
+
 = 2ga
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 which implies v = g/ω. (Note that this argument only works for sufficiently small wave
 amplitudes, a < v/ω.)
 (b) The thought experiment in this problem considers an ideal plane wave, so it’s computing the
@@ -674,7 +700,9 @@ Solution. (a) It’s the phase velocity. Recall from E8 that Snell’s law is de
 plane wave incident on an interface, and demanding that the wave is appropriately continuous.
 This only depends on the plane wave’s ω and k, which are related by the phase velocity.
 (b) It gets wider because the beam bends towards the normal, as you check by drawing a sketch.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Example 4
 Let the index of refraction at height h above the Earth’s surface be n(h). In terms of n(0)
 and the Earth’s radius R, what should dn/dh be at the surface so that light rays orbit in
@@ -685,11 +713,11 @@ at a small angle θ to the horizontal, experiencing index of refraction n. Over 
 distance L, it goes up by a height Lθ. At this point, it will have a different angle θ′ to the
 horizontal, and experience index of refraction n + Lθdn/dh. Snell’s law says
 ncosθ =
-
+
 n + Lθ
 dn
 dh
-
+
 cosθ′
 and expanding to lowest order in the small angles θ and θ′ gives
 n
@@ -732,7 +760,9 @@ image will appear above the horizon. This is called a “superior” mirage.
 • When dn/dh > 0, light rays bend up. Then a distant object at the horizon will appear
 below the horizon, forming an “inferior” mirage. This also applies to the sky near the
 horizon, producing the illusion of water on the ground sometimes seen in deserts.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 In air, the refractive index is close to 1, and n − 1 ∝ ρ ∝ P/T, where ρ is the air density
 and the second step used the ideal gas law. Usually we have dρ/dh < 0, since dP/dh < 0 in
 hydrostatic equilibrium, but it depends on the value of dT/dh.
@@ -752,12 +782,12 @@ the pressure gradient, so that dn/dh > 0 and inferior mirages can occur.
 Proponents of the flat Earth hypothesis claim that the Earth only seems curved due to
 atmospheric refraction. But they have it backwards: in almost all conditions dn/dh < 0,
 which makes the Earth look less curved than it actually is.
-[4] Problem 17.  T 1 0IPhO 1995, problem 2. Refraction in the presence of a linearly varying wave
+[4] Problem 17.   T 1 0IPhO 1995, problem 2. Refraction in the presence of a linearly varying wave
 speed. (This is a classic setup with a neat solution, also featured in IPhO 1974, problem 2.)
 [3] Problem 18. INPhO 2019, problem 1. Another exercise on refraction, with an uglier solution.
-[3] Problem 19.  ^ 1 0USAPhO 2025, problem B2. A problem on shock wave wavefronts.
-[3] Problem 20.  h 1 0IPhO 2003, problem 3B. An exercise on refraction and radiation pressure.
-[4] Problem 21.  T 1 0IPhO 1993, problem 2. Another exercise on the same theme.
+[3] Problem 19.   ^ 1 0USAPhO 2025, problem B2. A problem on shock wave wavefronts.
+[3] Problem 20.   h 1 0IPhO 2003, problem 3B. An exercise on refraction and radiation pressure.
+[4] Problem 21.   T 1 0IPhO 1993, problem 2. Another exercise on the same theme.
 5 Ray Tracing
 Idea 5
 A pointlike object emits light rays in all directions. When those light rays subsequently
@@ -768,7 +798,9 @@ the paths of selected rays from the object and looking for intersections.
 [2] Problem 22. A pinhole camera is a simplified camera with no lens. It simply consists of a box
 with a small hole (the “aperture”). An image of the outside appears on the inside of the box (the
 “screen”), opposite the hole.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Explain how the pinhole camera works by ray tracing.
 (b) What are the disadvantages of having a larger or smaller aperture?
 (c) Assuming the object being photographed is very bright, estimate the optimal aperture size
@@ -801,10 +833,12 @@ The next three problems will exercise your intuition with real-world examples.
 [3] Problem 25. AuPhO 2019, problem 12. You’ll also need the accompanying answer sheets.
 [2] Problem 26 (NBPhO 2024). This photo shows the reflection of a red heart in a conical mirror.
 The photo was taken from far above the mirror. In degrees, what is the mirror’s apex angle?
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solution to problem 6(i). The answer is 70◦, and any answer within 5◦ is
 acceptable.
-[3] Problem 27.  ^ 1 0IZhO 2020, problem 1.3. A test of your intuition for 3D ray tracing.
+[3] Problem 27.   ^ 1 0IZhO 2020, problem 1.3. A test of your intuition for 3D ray tracing.
 Solution. You can check the official solutions as usual. But note that, as pointed out by Stefan
 Ivanov here, the official solution gets the thicknesses of the borders wrong. In the first part, the
 thickness of the border of the triangle should be 2r1 = 2mm. In the second part, the thickness of
@@ -830,7 +864,9 @@ approximately parallel.
 each other, so that the focus of each one is at the vertex of the other.
 (a) When an object is placed at the bottom vertex, a real image appears at the top vertex. Why?
 (b) How is the image oriented relative to the object?
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 The real image made by this setup is very convincing. There’s a Michelin starred restaurant that
 uses it in a course: when you reach for what looks like the food, your hand just passes through air.
 Solution. (a) Rays departing from the bottom vertex reflect off the top mirror and end up going
@@ -853,7 +889,7 @@ R1 and R2 and thickness d, is
 1
 f
 = (n − 1)
-
+
 1
 R1
 −
@@ -862,7 +898,7 @@ R2
 +
 (n − 1)d
 nR1R2
-
+
 and can be derived by computing the bending of the light ray at each interface.
 Example 5
 An object is placed a distance o behind a thin converging lens with focal length f.
@@ -876,7 +912,9 @@ o
 , θ2 ≈
 y
 i
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 but their sum is the deflection y/f, from which we conclude
 1
 o
@@ -911,15 +949,17 @@ way up and down while adjusting their focus. This is fixed by standing back.
 tracing shows that you can get a complete image of the candle, since there are always rays
 that pass through the bottom half of the lens. Instead, by blocking half the lens, the image
 gets half as bright.
-[3] Problem 30.  ^ 1 0USAPhO 2024, problem A3. A series of optics exercises relevant for real cameras.
-[3] Problem 31.  ^ 1 0USAPhO 2026, problem A1. This question is straightforward, but assumes you
+[3] Problem 30.   ^ 1 0USAPhO 2024, problem A3. A series of optics exercises relevant for real cameras.
+[3] Problem 31.   ^ 1 0USAPhO 2026, problem A1. This question is straightforward, but assumes you
 know the definition P = 1/f of optical power (expressed in “diopters”, which just means m−1).
 Idea 8: Fermat’s Principle
 For fixed starting and ending points, light always takes the path of least time. This implies
 that if light from point P is all focused at point P′, then all the relevant paths from P to
 P′ take the same time. This principle is completely equivalent to the laws of reflection and
 refraction above, but may be more useful in certain situations.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 32. Parallel light rays coming in along the +x̂ direction enter a lens of index of refraction
 n, whose left edge is at x = 0 and whose right edge is described by the function x(y). If all the light
 beams are to be focused at x = f, as shown at left below, what kind of curve does x(y) have to be?

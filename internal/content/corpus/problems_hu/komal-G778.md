@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 778. Az ábra pocsolyán áthaladó biciklikerekek vizes nyomának egy részletét mutatja a száraz aszfalton. Balról jobbra vagy jobbról balra mozgott a bicikli? Melyik az első kerekének a nyoma, és melyik a hátsóé?
 
-![figure](../../raw_html/komal_figures/komal-G778-fig1.gif)
+![figure](../../figures/komal/figures/komal-G778-fig1.gif)

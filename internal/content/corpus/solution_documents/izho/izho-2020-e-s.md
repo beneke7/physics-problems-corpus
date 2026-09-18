@@ -71,7 +71,9 @@ Table 1.                                                                 Fig. 1
                                        x(t ) = v0 t +      .                                                (4)
                                                        2
        Various methods can be used for linearization, but the following is preferred:
-XVI International Zhautykov Olimpiad/Experimental Competition                                                     Page 2/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                                                     Page 2/7
                                                         x       a
                                                           = v0 + t .                                                   (5)
                                                         t       2
@@ -129,7 +131,9 @@ corresponding results are shown in Table 2.
        Figure 3 shows the graphs of the dependences                      on time t which are used to calculate the
                                                                        t
 experimental values of the accelerations.
-XVI International Zhautykov Olimpiad/Experimental Competition                                                                       Page 3/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                                                                       Page 3/7
 
                                                                  Fig.3
 
@@ -193,7 +197,9 @@ Part 2. Moving down
 2.1 In this case, the travel time is small, therefore, measurements should be carried out for each coordinate
 repeatedly. Table 4 lists the results of the time measurements needed for the disc to travel distance x ,
 averaged over 3 measurements. Fig. 5 demonstrates a graph of the obtained dependence.
-XVI International Zhautykov Olimpiad/Experimental Competition                                                          Page 4/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                                                          Page 4/7
 
 Table 4.                                                                                   Fig. 5
 
@@ -268,7 +274,9 @@ Part 3. Moving up
 untwisted, the threads attached to the Maxwell disk are twisted. It is also
 obvious that the threads with the load should be wound on a part of the stick
 with a larger radius.
-XVI International Zhautykov Olimpiad/Experimental Competition                                      Page 5/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                                      Page 5/7
 
 3.2 In this case, the beginning of the motion of the disk axis is easily recorded, so you can simply measure
 the rise time to a fixed height and calculate the acceleration according to the formula:
@@ -328,7 +336,9 @@ Part 1. Rolling down                                                            
           - linearization x(t 2 ) ;                                                             (0.1)
           - acceleration calculation by 2-3 points;
           Graph of the linearized dependence                                       0.3
-XVI International Zhautykov Olimpiad/Experimental Competition                             Page 6/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                             Page 6/7
         (marked only if corresponding data have been marked):
         - axes are named and ticked;                                                   0,1
         - all data points are in the graph;                                            0,1
@@ -382,7 +392,9 @@ Part 2. Moving down                                                            4
  2.3 Correct formula for the acceleration is derived;                         0.4      0,2
         Numerical value is correctly evaluated;                                        0.2
 Part 3. Moving up                                                             3
-XVI International Zhautykov Olimpiad/Experimental Competition                        Page 7/7
+
+
+XVI International Zhautykov Olimpiad/Experimental Competition                        Page 7/7
 
  3.1   Correct schematic figure for wounding the threads (threads are on         1
        one side of the stick);

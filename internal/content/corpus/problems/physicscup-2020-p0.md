@@ -27,7 +27,7 @@ Anyone is welcome to submit the solution of this problem. Best solutions will be
 The resistivity of thin homogeneous isotropic electrically conducting sheets is usually characterized by the sheet resistance, here denoted as $\rho$, which is the resistance between the opposing ends of a square-shaped sheet.
 
  Consider a very wide sheet of sheet resistance   $\rho$ . Two small electrodes are
- put on the sheet at points   $A$  and   $B$ , a distance   $s\equiv |AB|$  apart. The resistance between these electrodes is measured to be    $R_1$. The sheet is then cut to become a circle of  radius    $r$    centered at a point    $O$  so that    $\angle AOB=\theta$    and    $|OA|=|OB|<r$. Denoting the new resistance between the two electrodes by      $R_2$ , find the resistance change  $\Delta \equiv R_2-R_1$ . 
+ put on the sheet at points   $A$  and   $B$ , a distance   $s\equiv |AB|$  apart. The resistance between these electrodes is measured to be    $R_1$. The sheet is then cut to become a circle of  radius    $r$    centered at a point    $O$  so that    $\angle AOB=\theta$    and    $|OA|=|OB|<r$. Denoting the new resistance between the two electrodes by      $R_2$ , find the resistance change  $\Delta \equiv R_2-R_1$ .
 
 Translation into Chinese
 

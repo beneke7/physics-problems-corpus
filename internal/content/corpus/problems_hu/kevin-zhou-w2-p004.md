@@ -42,7 +42,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        starting from the images, rather than having to go all the way back to the original objects.
 
                                                        3
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
   For real images, there’s a very simple way to see why this works. For instance, consider the
   setup below, where an object o is focused with a lens to an image i.
@@ -71,7 +73,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   Assuming that α ≪ 1, find the wavelength λ of the light.
 
                                                  4
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
        Solution
        This is actually just a double slit interference problem! Each mirror produces a (virtual)

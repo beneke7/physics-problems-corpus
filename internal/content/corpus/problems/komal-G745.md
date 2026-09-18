@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-In what states of matter does the material of a candle appear when the candle burns? 
+In what states of matter does the material of a candle appear when the candle burns?
  (3 pont)

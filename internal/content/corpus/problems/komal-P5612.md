@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-A $1000~\mathrm{J}$ thermal energy is transferred to a sample of nitrogen gas, which expands at a constant temperature of $25~^\circ\mathrm{C}$. Then the gas further expands adiabatically such that the gas cools to a temperature of $0~^\circ\mathrm{C}$. The same final state could have been reached, if the gas had first expanded adiabatically and then isothermally. In this case, how much heat would have to be transferred to the gas during the isothermal process? 
+A $1000~\mathrm{J}$ thermal energy is transferred to a sample of nitrogen gas, which expands at a constant temperature of $25~^\circ\mathrm{C}$. Then the gas further expands adiabatically such that the gas cools to a temperature of $0~^\circ\mathrm{C}$. The same final state could have been reached, if the gas had first expanded adiabatically and then isothermally. In this case, how much heat would have to be transferred to the gas during the isothermal process?
  (4 pont)

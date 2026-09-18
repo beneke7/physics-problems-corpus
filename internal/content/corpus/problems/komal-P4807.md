@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201602"
 verification_status: pending
 ---
 
-How many molecules are there in one litre of water, if the temperature of water is 
- $a)$ $0~^\circ$C; $\,\,\,b)$ $100~^\circ$C? 
+How many molecules are there in one litre of water, if the temperature of water is
+ $a)$ $0~^\circ$C; $\,\,\,b)$ $100~^\circ$C?
  (3 pont)

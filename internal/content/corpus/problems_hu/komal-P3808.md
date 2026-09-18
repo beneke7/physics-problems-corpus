@@ -9,10 +9,10 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3808. Egy merev falú, tökéletesen hőszigetelő tartályban 300 K hőmérsékletű nitrogéngáz van. A tartály kezdetben sebességgel mozog, majd 
+P. 3808. Egy merev falú, tökéletesen hőszigetelő tartályban 300 K hőmérsékletű nitrogéngáz van. A tartály kezdetben sebességgel mozog, majd
 
- a ) hirtelen, 
+ a ) hirtelen,
 
- b ) bizonyos idő alatt egyenletesen lassulva megáll. 
+ b ) bizonyos idő alatt egyenletesen lassulva megáll.
 
  Megváltozik-e a gáz hőmérséklete, és ha igen, hogyan?

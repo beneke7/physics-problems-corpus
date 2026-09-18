@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, graphical-reduction]
 ---
 
-In cloudy weather, measurements are taken with a light meter pointed towards the sky. We find that, due to the scattering of light by the clouds, the incident power per unit area is approximately $I_0$, regardless of the orientation of the light meter. On top of an opaque thin-walled spherical shell of radius $R$, there is a small hole of radius $r$ (much larger than the wavelength of visible light). The inner side of the wall of the spherical shell is coated with soot. Give the intensity of illumination on the inner surface of the shell, which is placed in the open air. 
+In cloudy weather, measurements are taken with a light meter pointed towards the sky. We find that, due to the scattering of light by the clouds, the incident power per unit area is approximately $I_0$, regardless of the orientation of the light meter. On top of an opaque thin-walled spherical shell of radius $R$, there is a small hole of radius $r$ (much larger than the wavelength of visible light). The inner side of the wall of the spherical shell is coated with soot. Give the intensity of illumination on the inner surface of the shell, which is placed in the open air.
  (6 pont)

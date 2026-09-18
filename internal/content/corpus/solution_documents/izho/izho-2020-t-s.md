@@ -21,14 +21,14 @@ XVI International Zhautykov Olympiad/Theoretical Competition                    
                                         Problem 1.1 (4.0 points)
        The oscillation period of a mathematical pendulum is determined by the formula
                                 𝑙𝑙
-               𝑇𝑇 = 2𝜋𝜋�𝑔𝑔,                                                                            (1)
+               𝑇𝑇 = 2𝜋𝜋 𝑔𝑔,                                                                            (1)
 where 𝑔𝑔 stands for the acceleration of gravity at a given time of day.
         The difference in the periods of oscillation of the pendulum at midday and midnight is due to
 the influence of the Sun: gravitational attraction and centrifugal force due to the Earth’s motion
 around the Sun. Using formula (1) for the period of pendulum oscillation the relative change in the
 periods can be represented as
                        𝑇𝑇 −𝑇𝑇        𝑔𝑔
-               𝜀𝜀 = 2𝑇𝑇 1 = �𝑔𝑔1 − 1,                                                                  (2)
+               𝜀𝜀 = 2𝑇𝑇 1 =  𝑔𝑔1 − 1,                                                                  (2)
                           1           2
 
 where 𝑔𝑔1 , 𝑔𝑔2 denotes the acceleration of gravity at midday and midnight, respectively.
@@ -60,16 +60,18 @@ around the Sun in the following form
                    2
        Given this relation, the acceleration difference is represented as
                                                             𝑟𝑟     −2          𝑟𝑟   −2
-               ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔22 𝑟𝑟2 �2 − �1 − 𝑟𝑟1 �               − �1 + 𝑟𝑟1 � �.                (6)
+               ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔22 𝑟𝑟2  2 −  1 − 𝑟𝑟1                 −  1 + 𝑟𝑟1    .                (6)
                                                              2                  2
        Note that in this case, in order to obtain a nonzero result in the power series expansions, it is
 necessary to keep the second order terms, i.e. (1 + x ) ≈ 1 − 2 x + 3 x 2 , such that:
                                                        −2
-XVI International Zhautykov Olympiad/Theoretical Competition                                                   Page 2/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                                   Page 2/13
 
 
                                                             𝑟𝑟     2
-                ∆𝑔𝑔 = −6𝜔𝜔22 𝑟𝑟2 �𝑟𝑟1 � .                                                                             (7)
+                ∆𝑔𝑔 = −6𝜔𝜔22 𝑟𝑟2  𝑟𝑟1   .                                                                             (7)
                                                                2
         Thus, the relative change in the periods of oscillations due to the influence of the Sun is equal
                      ∆𝑔𝑔   ∆𝑔𝑔
@@ -77,15 +79,15 @@ necessary to keep the second order terms, i.e. (1 + x ) ≈ 1 − 2 x + 3 x 2 , 
                              2                 0
 so that the final relation is derived as
                                   𝜔𝜔 2 𝑟𝑟          𝑟𝑟          2
-                𝜀𝜀 = −3 𝑔𝑔2 2 �𝑟𝑟1 � ≈ −3,3 ∙ 10−12 .                                                                 (9)
+                𝜀𝜀 = −3 𝑔𝑔2 2  𝑟𝑟1   ≈ −3,3 ∙ 10−12 .                                                                 (9)
                                          0            2
 
 
                                                                         Content                                Points
                                     𝑙𝑙
-Formula (1): 𝑇𝑇 = 2𝜋𝜋�𝑔𝑔                                                                                        0,2
+Formula (1): 𝑇𝑇 = 2𝜋𝜋 𝑔𝑔                                                                                        0,2
                        𝑇𝑇 −𝑇𝑇                      𝑔𝑔
-Formula (2): 𝜀𝜀 = 2𝑇𝑇 1 = �𝑔𝑔1 − 1                                                                              0,2
+Formula (2): 𝜀𝜀 = 2𝑇𝑇 1 =  𝑔𝑔1 − 1                                                                              0,2
                           1                             2
 
 Earth’s gravity is accounted for                                                                                0,2
@@ -102,16 +104,16 @@ Formula (4): 𝑔𝑔2 = 𝑔𝑔0 − 𝜔𝜔12 𝑟𝑟1 + 𝐺𝐺 (𝑟𝑟
 Formula (5): 𝐺𝐺 𝑟𝑟 2 = 𝜔𝜔22 𝑟𝑟2                                                                                 0,3
                    2
                                                                                     𝑟𝑟   −2          𝑟𝑟   −2
-Formula (6): ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔22 𝑟𝑟2 �2 − �1 − 𝑟𝑟1 �                                       − �1 + 𝑟𝑟1 � �    0,3
+Formula (6): ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔22 𝑟𝑟2  2 −  1 − 𝑟𝑟1                                         −  1 + 𝑟𝑟1        0,3
                                                                                      2                2
                                                           𝑟𝑟       2
-Formula (7): ∆𝑔𝑔 = −6𝜔𝜔22 𝑟𝑟2 �𝑟𝑟1 �                                                                            0,4
+Formula (7): ∆𝑔𝑔 = −6𝜔𝜔22 𝑟𝑟2  𝑟𝑟1                                                                              0,4
                                                             2
                        ∆𝑔𝑔               ∆𝑔𝑔                                                                    0,3
 Formula (8): 𝜀𝜀 ≈ 2𝑔𝑔 ≈ 2𝑔𝑔
                           2                  0
                                  𝜔𝜔 2 𝑟𝑟         𝑟𝑟         2
-Formula (9): 𝜀𝜀 = −3 𝑔𝑔2 2 �𝑟𝑟1 �                                                                               0,3
+Formula (9): 𝜀𝜀 = −3 𝑔𝑔2 2  𝑟𝑟1                                                                                 0,3
                                      0             2
 Numerical value in formula (9): 𝜀𝜀 ≈ −3,3 ∙ 10−12                                                               0,4
 Total                                                                                                           4,0
@@ -135,7 +137,9 @@ expression
                 𝑈𝑈 = 𝐼𝐼𝐼𝐼,                                                                         (5)
 in which the voltage across the conductor is expressed in terms of the field strength 𝐸𝐸 in the form
                 𝑈𝑈 = 𝐸𝐸𝐸𝐸.                                                                         (6)
-XVI International Zhautykov Olympiad/Theoretical Competition                              Page 3/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                              Page 3/13
 
 
         Hence, equation (5), taking into account (2), (3) and (6), is written in the following
@@ -169,7 +173,7 @@ where 𝑄𝑄 symbolizes the total charge inside the conductive substance.
 Then, the average charge density in the conducting substance is obtained as
                        𝑄𝑄           12𝜋𝜋𝜀𝜀0 𝑤𝑤 𝑏𝑏 4 −𝑎𝑎4
                 𝜌𝜌𝑄𝑄 = 𝑉𝑉 =             𝐼𝐼
-                                                   �𝑏𝑏3 −𝑎𝑎3 �.                                  (14)
+                                                    𝑏𝑏3 −𝑎𝑎3  .                                  (14)
 
                                                            Content                        Points
                        2
@@ -199,10 +203,12 @@ Formula (12): 𝐸𝐸(𝑏𝑏)4𝜋𝜋𝑏𝑏 2 − 𝐸𝐸(𝑎𝑎)4𝜋�
                       4                      4
 Formula (13): 𝑉𝑉 = 3 𝜋𝜋𝑏𝑏 3 − 3 𝜋𝜋𝑎𝑎3                                                      0,2
                           12𝜋𝜋𝜀𝜀0 𝑤𝑤         𝑏𝑏 4 −𝑎𝑎4                                     0,3
-Formula (14): 𝜌𝜌𝑄𝑄 =                    �𝑏𝑏3 −𝑎𝑎3�
+Formula (14): 𝜌𝜌𝑄𝑄 =                     𝑏𝑏3 −𝑎𝑎3
                                𝐼𝐼
 Total                                                                                      3,0
-XVI International Zhautykov Olympiad/Theoretical Competition                               Page 4/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                               Page 4/13
 
 
                                      Problem 1.3 (3.0 points)
@@ -245,7 +251,9 @@ of the image with the width of the semi-illuminated strip
 (border) approximately equal to ∆𝑟𝑟 = 2𝑟𝑟2 = 0.2 𝑚𝑚𝑚𝑚.
 Further, it should be noted that the real source creates a shadow on the screen in the form of the same
 five-pointed star and of the same size! However, this shadow is not inverted. Therefore, only part of
-XVI International Zhautykov Olympiad/Theoretical Competition                               Page 5/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                               Page 5/13
 
 
 the bright star is closed, as shown in the figure. Thus, only five irregular quadrangles remain
@@ -297,7 +305,9 @@ the work sought is obtained as
                                    𝑅𝑅𝑇𝑇
              𝐴𝐴 = 𝑃𝑃(𝑣𝑣2 − 𝑣𝑣1 ) ≈ 𝜇𝜇 𝑏𝑏.                                                       (3)
                                       𝑤𝑤
-XVI International Zhautykov Olympiad/Theoretical Competition                                   Page 6/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                   Page 6/13
 
 
        Thus, the ratio of work to the total heat of evaporation at 𝑇𝑇 = 373 К is determined by the
@@ -318,14 +328,14 @@ and the rest of the heat goes to the increase of the internal energy of the syst
        Subtracting equation (7) from equation (6), we obtain for the change in the molar heat of
 evaporation
                                                                                   С
-              𝜇𝜇𝑤𝑤 ∆𝑟𝑟 = ∆𝑈𝑈2 – ∆𝑈𝑈1 + 𝑅𝑅∆𝑇𝑇 = С𝑃𝑃 ∆𝑇𝑇 − 𝜇𝜇𝑤𝑤 𝑐𝑐𝑤𝑤 ∆𝑇𝑇 = 𝜇𝜇𝑤𝑤 �𝜇𝜇𝑃𝑃 − 𝑐𝑐𝑤𝑤 � ∆𝑇𝑇, (8)
+              𝜇𝜇𝑤𝑤 ∆𝑟𝑟 = ∆𝑈𝑈2 – ∆𝑈𝑈1 + 𝑅𝑅∆𝑇𝑇 = С𝑃𝑃 ∆𝑇𝑇 − 𝜇𝜇𝑤𝑤 𝑐𝑐𝑤𝑤 ∆𝑇𝑇 = 𝜇𝜇𝑤𝑤  𝜇𝜇𝑃𝑃 − 𝑐𝑐𝑤𝑤   ∆𝑇𝑇, (8)
                                                                                     𝑤𝑤
 where ∆𝑇𝑇 = 𝑇𝑇 − 𝑇𝑇𝑏𝑏 and ∆𝑟𝑟 = 𝑟𝑟(𝑇𝑇) − 𝑟𝑟𝑤𝑤 .
        Given that for water vapor, the molar heat capacity at constant pressure is
                𝐶𝐶𝑃𝑃 = 4𝑅𝑅,                                                                          (9)
 we obtain the specific heat of water evaporation
                                        4𝑅𝑅
-               𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 − �𝑐𝑐𝑤𝑤 − 𝜇𝜇 � (𝑇𝑇 − 𝑇𝑇𝑏𝑏 ) = 2447 𝐽𝐽/𝑔𝑔.                              (10)
+               𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 −  𝑐𝑐𝑤𝑤 − 𝜇𝜇   (𝑇𝑇 − 𝑇𝑇𝑏𝑏 ) = 2447 𝐽𝐽/𝑔𝑔.                              (10)
                                                               𝑤𝑤
 It is interesting to note that the heat of evaporation is increased by ∆𝑟𝑟/𝑟𝑟𝑤𝑤 ≈ 8 %.
                                                   The Clausius–Clapeyron relation
@@ -342,7 +352,7 @@ or
                                     .                                              (12)
       Integrating this expression at 𝑟𝑟 = 𝑟𝑟𝑤𝑤 = 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 gives rise to
                                               𝜇𝜇 𝑟𝑟       1        1
-               𝑃𝑃 = 𝑃𝑃0 exp � 𝑤𝑤𝑅𝑅 𝑤𝑤 �𝑇𝑇 – 𝑇𝑇��.                                                   (13)
+               𝑃𝑃 = 𝑃𝑃0 exp   𝑤𝑤𝑅𝑅 𝑤𝑤  𝑇𝑇 – 𝑇𝑇  .                                                   (13)
                                                           𝑏𝑏
 
 2.4 As it follows from equation (13) the explicit dependence of the boiling point of water on external
@@ -353,9 +363,9 @@ pressure has the form
                           𝜇𝜇𝑤𝑤 𝑟𝑟𝑤𝑤       𝑃𝑃0
        According to the barometric formula for an isothermal atmosphere, we have
                             𝜇𝜇 𝑔𝑔ℎ
-             𝑃𝑃 = 𝑃𝑃0 exp �− 𝑎𝑎𝑎𝑎𝑎𝑎
+             𝑃𝑃 = 𝑃𝑃0 exp  − 𝑎𝑎𝑎𝑎𝑎𝑎
                               𝑅𝑅𝑇𝑇
-                                    �.                                                              (15)
+                                     .                                                              (15)
                                                       0
       Substituting this expression into formula (14), we obtain the dependence of the boiling
 temperature on height and the numerical value of the boiling temperature of water at the altitude of
@@ -368,7 +378,7 @@ temperature on height and the numerical value of the boiling temperature of wate
                 𝑑𝑑𝑑𝑑     𝑟𝑟𝑤𝑤
                 𝑑𝑑𝑑𝑑
                      =   1    1 .                                                                   (17)
-                      𝑇𝑇0 �        −          �
+                      𝑇𝑇0          −
                             𝜌𝜌𝑤𝑤       𝜌𝜌𝑖𝑖
             Therefore, we obtain that in order to lower the melting temperature of ice by 10С, the pressure
 should be increased by
@@ -377,7 +387,9 @@ should be increased by
 so that the pressure should be equal to 𝑃𝑃 = 140 𝑎𝑎𝑎𝑎𝑎𝑎.
 2.6 In order for ice crystals to break when walking, and not to melt under the influence of pressure
 𝑃𝑃𝑐𝑐𝑐𝑐 , the outdoor temperature should be lower than
-XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 7/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 7/13
 
 
                                 𝑃𝑃
@@ -443,7 +455,9 @@ derived as
 fluoroketone 𝑃𝑃 and the saturated vapor pressure of water 𝑃𝑃𝑤𝑤 at this temperature should equal the
 external atmospheric pressure, i.e.
               𝑃𝑃0 = 𝑃𝑃(𝑡𝑡𝑥𝑥 ) + 𝑃𝑃𝑤𝑤 (𝑡𝑡𝑥𝑥 ).                                                 (32)
-XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 8/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 8/13
 
 
        Thus, the saturated vapor pressure of fluoroketone at the border boiling point decreases by the
@@ -463,7 +477,7 @@ of fluoroketone reads as
        Since α𝑓𝑓 /αw ≈ 6,30, the decrease in pressure and, correspondingly, in the boiling point are
 both small relative to the same values for fluoroketone, therefore, we can use the linear
 approximation near t f
-               𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥 ) = α𝑓𝑓 Δ𝑇𝑇 = 𝑃𝑃w (𝑡𝑡𝑥𝑥 ) = 𝑃𝑃w �𝑡𝑡𝑓𝑓 �– αw Δ𝑇𝑇,                 (36)
+               𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥 ) = α𝑓𝑓 Δ𝑇𝑇 = 𝑃𝑃w (𝑡𝑡𝑥𝑥 ) = 𝑃𝑃w  𝑡𝑡𝑓𝑓  – αw Δ𝑇𝑇,                 (36)
 where Δ𝑇𝑇 = 𝑇𝑇𝑓𝑓 − 𝑇𝑇𝑥𝑥 , wherefrom the lowering of the boiling point is found as
                         𝑃𝑃w (t𝑓𝑓 )
                Δ𝑇𝑇 =                    .                                                                (37)
@@ -489,7 +503,7 @@ For reference: the experimental value is 𝑡𝑡𝑥𝑥 = (46 ± 1) ℃.
           Formula (9): 𝐶𝐶𝑃𝑃 = 4𝑅𝑅                                                             0,2
   2.2                                                 4𝑅𝑅
                                                                                                           1,0
-          Formula (10): 𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 − �𝑐𝑐𝑤𝑤 − � (𝑇𝑇 − 𝑇𝑇𝑏𝑏 )                                0,2
+          Formula (10): 𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 −  𝑐𝑐𝑤𝑤 −   (𝑇𝑇 − 𝑇𝑇𝑏𝑏 )                                0,2
                                                                                    𝜇𝜇𝑤𝑤
           Numerical value in formula (10): 2447 𝐽𝐽/𝑔𝑔                                         0,2
                           𝑑𝑑𝑑𝑑          𝑟𝑟              𝜇𝜇𝑤𝑤 𝑟𝑟𝑤𝑤
@@ -497,14 +511,14 @@ For reference: the experimental value is 𝑡𝑡𝑥𝑥 = (46 ± 1) ℃.
                                                          𝑅𝑅𝑇𝑇 2
   2.3                                                                                                     0,4
                                                              𝜇𝜇 𝑟𝑟               1        1
-          Formula (13): 𝑃𝑃 = 𝑃𝑃0 exp � 𝑤𝑤𝑅𝑅 𝑤𝑤 �𝑇𝑇 – 𝑇𝑇��                                     0,2
+          Formula (13): 𝑃𝑃 = 𝑃𝑃0 exp   𝑤𝑤𝑅𝑅 𝑤𝑤  𝑇𝑇 – 𝑇𝑇                                       0,2
                                                                                    𝑏𝑏
                                                 𝑇𝑇𝑏𝑏
           Formula (14): 𝑇𝑇 =                  𝑅𝑅𝑇𝑇𝑏𝑏     𝑃𝑃                                   0,2
                                       1−              ln
                                              𝜇𝜇𝑤𝑤 𝑟𝑟𝑤𝑤 𝑃𝑃0
                                                                   𝜇𝜇         𝑔𝑔ℎ
-          Formula (15): 𝑃𝑃 = 𝑃𝑃0 exp �− 𝑎𝑎𝑎𝑎𝑎𝑎 �                                              0,4
+          Formula (15): 𝑃𝑃 = 𝑃𝑃0 exp  − 𝑎𝑎𝑎𝑎𝑎𝑎                                                0,4
   2.4                                    𝑅𝑅𝑇𝑇                                0                            1,0
                                                 𝑇𝑇𝑏𝑏
           Formula (16): 𝑇𝑇 =                 𝑇𝑇 𝜇𝜇    𝑔𝑔ℎ                                     0,2
@@ -513,9 +527,11 @@ For reference: the experimental value is 𝑡𝑡𝑥𝑥 = (46 ± 1) ℃.
           Numerical value in formula (16): 76,6 ℃                                             0,2
                           𝑑𝑑𝑑𝑑                   𝑞𝑞𝑖𝑖
   2.5     Formula (17): 𝑑𝑑𝑑𝑑 =                 1    1                                         0,2         0,6
-                                        𝑇𝑇0 �     − �
+                                        𝑇𝑇0       −
                                               𝜌𝜌𝑤𝑤 𝜌𝜌𝑖𝑖
-XVI International Zhautykov Olympiad/Theoretical Competition                                 Page 9/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                 Page 9/13
 
 
                                    𝑑𝑑𝑑𝑑
@@ -558,7 +574,7 @@ For reference: the experimental value is 𝑡𝑡𝑥𝑥 = (46 ± 1) ℃.
                                                                 𝑅𝑅𝑇𝑇𝑓𝑓2
           Estimation: α𝑓𝑓 /αw ≈ 6,30                                                      0,3
  2.10                                                                                                2,2
-          Formula (36): 𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥 ) = α𝑓𝑓 Δ𝑇𝑇 = 𝑃𝑃w (𝑡𝑡𝑥𝑥 ) = 𝑃𝑃w �𝑡𝑡𝑓𝑓 �– αw Δ𝑇𝑇     0,3
+          Formula (36): 𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥 ) = α𝑓𝑓 Δ𝑇𝑇 = 𝑃𝑃w (𝑡𝑡𝑥𝑥 ) = 𝑃𝑃w  𝑡𝑡𝑓𝑓  – αw Δ𝑇𝑇     0,3
                                          𝑃𝑃w (t )
           Formula (37): Δ𝑇𝑇 = (α + α𝑓𝑓 )                                                  0,4
                                           𝑓𝑓       w
@@ -580,7 +596,9 @@ where the Lorentz force is written as
 and the linear speed of ring rotation
                 𝑣𝑣𝑟𝑟𝑟𝑟𝑟𝑟 = 𝜔𝜔𝜔𝜔.                                                                     (3)
        Thus, the equation of motion of the ring center of mass is finally derived as
-XVI International Zhautykov Olympiad/Theoretical Competition                                Page 10/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                Page 10/13
 
 
                   𝑑𝑑𝑑𝑑
@@ -641,7 +659,9 @@ with the ring length
                         𝑑𝑑𝑑𝑑
                 ℇ = 𝑑𝑑𝑑𝑑 = 𝐵𝐵𝐵𝐵𝐵𝐵,                                                                  (21)
 which, according to Ohm's law, leads to the appearance of the induction current of strength
-XVI International Zhautykov Olympiad/Theoretical Competition                                                                  Page 11/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                                                  Page 11/13
 
 
                 ℇ = 𝐼𝐼𝐼𝐼,                                                                       (22)
@@ -661,7 +681,7 @@ with the initial condition
                 𝐼𝐼(0) = 0.                                                                      (26)
        The solution to equation (25) when (26) is satisfied is the function
                            𝑚𝑚𝑚𝑚                                2𝜋𝜋𝜋𝜋𝜋𝜋𝐵𝐵2
-               𝐼𝐼(𝑡𝑡) = 2𝜋𝜋𝜋𝜋𝜋𝜋 �1 − exp �−                                 𝑡𝑡��.                                                   (27)
+               𝐼𝐼(𝑡𝑡) = 2𝜋𝜋𝜋𝜋𝜋𝜋  1 − exp  −                                 𝑡𝑡  .                                                   (27)
                                                                  𝑚𝑚𝑚𝑚
 Whence,
                         𝑚𝑚𝑚𝑚
@@ -689,7 +709,7 @@ and (21) taken into account, we finally obtain the steady-state acceleration
                                 𝑔𝑔
                𝑎𝑎0 =       𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠
                                                .                                                  (34)
-                        �1+                      �
+                         1+
                                       𝑚𝑚𝑚𝑚
 3.7 Differentiating (31) with (21) and (33) taken into account, we obtain
                      𝑑𝑑𝑑𝑑   𝐼𝐼      𝑑𝑑𝑑𝑑
@@ -697,34 +717,36 @@ and (21) taken into account, we finally obtain the steady-state acceleration
         Dividing this equation by the equation of motion (18) and substituting (19), we obtain the
 differential equation for the current in the ring
                  𝑑𝑑𝑑𝑑                        1       𝐵𝐵2 𝐿𝐿2
-                𝑅𝑅 𝑑𝑑𝑑𝑑 = 𝑔𝑔𝑔𝑔𝑔𝑔 − �𝐶𝐶 + 𝑚𝑚 � 𝐼𝐼                                                                                    (36)
+                𝑅𝑅 𝑑𝑑𝑑𝑑 = 𝑔𝑔𝑔𝑔𝑔𝑔 −  𝐶𝐶 + 𝑚𝑚   𝐼𝐼                                                                                    (36)
 with the initial condition
                 𝐼𝐼(0) = 0.                                                                                                          (37)
        The solution of equation (36) with (37) is the function
                                 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0 𝑠𝑠𝑠𝑠                                     𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠        𝛿𝛿
                𝐼𝐼(𝑡𝑡) =         𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠
-                                                         �1 − exp �− �1 +                  𝑚𝑚𝑚𝑚
-                                                                                                          � 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀 𝑡𝑡��.         (38)
-                          𝛿𝛿�1+                     �                                                               0
+                                                          1 − exp  −  1 +                  𝑚𝑚𝑚𝑚
+                                                                                                            2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀 𝑡𝑡  .         (38)
+                          𝛿𝛿 1+                                                                                     0
                                       𝑚𝑚𝑚𝑚
 Hence,
                               2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0 𝑠𝑠𝑠𝑠
                𝐴𝐴2 =            𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠
                                                      ,                                                                              (39)
-                        𝛿𝛿�1+                       �
+                        𝛿𝛿 1+
                                       𝑚𝑚𝑚𝑚
-XVI International Zhautykov Olympiad/Theoretical Competition                       Page 12/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                       Page 12/13
 
 
                            2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0 𝑠𝑠𝑠𝑠
               𝐵𝐵2 = −           𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠
                                                              ,                               (40)
-                        𝛿𝛿�1+                       �
+                        𝛿𝛿 1+
                                       𝑚𝑚𝑚𝑚
                                     2          2
                                   𝐵𝐵 (2𝜋𝜋𝜋𝜋) 𝜀𝜀0 𝑠𝑠                    𝛿𝛿
-              𝛾𝛾2 = − �1 +                  𝑚𝑚𝑚𝑚
-                                                                 � 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀 .               (41)
+              𝛾𝛾2 = −  1 +                  𝑚𝑚𝑚𝑚
+                                                                   2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀 .               (41)
                                                                              0
 
 
@@ -787,27 +809,29 @@ Hence,
   3.6    Formula (32): 𝐶𝐶 = 𝛿𝛿                                                    0,2         1,0
                                     𝑑𝑑𝑑𝑑
          Formula (33): 𝐼𝐼 = 𝑑𝑑𝑑𝑑                                                  0,2
-XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 13/13
+
+
+XVI International Zhautykov Olympiad/Theoretical Competition                                    Page 13/13
 
 
                                                     𝑔𝑔
          Formula (34): 𝑎𝑎0 =               𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠                                 0,3
-                                       �1+                     �
+                                        1+
                                                  𝑚𝑚𝑚𝑚
                                     𝑑𝑑𝑑𝑑      𝐼𝐼          𝑑𝑑𝑑𝑑
          Equation (35): 𝐵𝐵𝐵𝐵 𝑑𝑑𝑑𝑑 = 𝐶𝐶 + 𝑅𝑅 𝑑𝑑𝑑𝑑                                               0,5
                              𝑑𝑑𝑑𝑑                          1          𝐵𝐵2 𝐿𝐿2
-  3.7    Equation (36): 𝑅𝑅 𝑑𝑑𝑑𝑑 = 𝑔𝑔𝑔𝑔𝑔𝑔 − �𝐶𝐶 + 𝑚𝑚 � 𝐼𝐼                                       0,5
+  3.7    Equation (36): 𝑅𝑅 𝑑𝑑𝑑𝑑 = 𝑔𝑔𝑔𝑔𝑔𝑔 −  𝐶𝐶 + 𝑚𝑚   𝐼𝐼                                       0,5
          Condition (37): 𝐼𝐼(0) = 0                                                             0,1
                                              2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0 𝑠𝑠𝑠𝑠
          Formula (39): 𝐴𝐴2 =                   𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠                             0,3     2,0
-                                       𝛿𝛿�1+                       �
+                                       𝛿𝛿 1+
                                                      𝑚𝑚𝑚𝑚
                                                    2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0 𝑠𝑠𝑠𝑠
          Formula (40): 𝐵𝐵2 = −                       𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠                       0,3
-                                           𝛿𝛿�1+                         �
+                                           𝛿𝛿 1+
                                                            𝑚𝑚𝑚𝑚
                                                        𝐵𝐵2 (2𝜋𝜋𝜋𝜋)2 𝜀𝜀0 𝑠𝑠         𝛿𝛿
-         Formula (41): 𝛾𝛾2 = − �1 +                                          � 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀       0,3
+         Formula (41): 𝛾𝛾2 = −  1 +                                            2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀       0,3
                                                                𝑚𝑚𝑚𝑚                        0
 Total                                                                                                  10,0

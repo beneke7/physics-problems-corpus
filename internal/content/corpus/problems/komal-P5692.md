@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, graphical-reduction, limiting-and-special-cases]
 ---
 
-A given quantity of monatomic ideal gas is quasi-statically taken from its initial state of pressure $p_0$ and volume $V_0$ to its final state of pressure $p_0$ and volume $2V_0$. The process is chosen so that the temperature of the gas never decreases and the gas never releases heat. 
- a) What is the minimum amount of heat that can be transferred to the gas? 
- b) What is the maximum amount of heat that can be transferred to the gas? 
+A given quantity of monatomic ideal gas is quasi-statically taken from its initial state of pressure $p_0$ and volume $V_0$ to its final state of pressure $p_0$ and volume $2V_0$. The process is chosen so that the temperature of the gas never decreases and the gas never releases heat.
+ a) What is the minimum amount of heat that can be transferred to the gas?
+ b) What is the maximum amount of heat that can be transferred to the gas?
  (5 pont)

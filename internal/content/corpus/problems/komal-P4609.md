@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-Both ends of a horizontal thin tube are closed. There is a mercury thread of length h at the middle of the tube. The length of the air columns in both parts is  , and the pressure of both air columns is equal to the gauge pressure of a mercury column of height  H . The tube is placed to a tumble dryer, the symmetry axis of which is vertical, and the tumble drier is started to spin. 
+Both ends of a horizontal thin tube are closed. There is a mercury thread of length h at the middle of the tube. The length of the air columns in both parts is  , and the pressure of both air columns is equal to the gauge pressure of a mercury column of height  H . The tube is placed to a tumble dryer, the symmetry axis of which is vertical, and the tumble drier is started to spin.
 
- Give the displacement of the mercury thread as a function of the angular speed  , if the temperature is constant. 
+ Give the displacement of the mercury thread as a function of the angular speed  , if the temperature is constant.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4609-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4609-fig1.gif)

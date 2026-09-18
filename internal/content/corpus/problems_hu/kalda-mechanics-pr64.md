@@ -20,4 +20,4 @@ verification_status: pending
 
 Két sima ($\mu=0$), ék alakú, azonos $\alpha$ dőlésszögű lejtős felületet úgy helyezünk el, hogy oldalaik párhuzamosak, lejtőik egymás felé néznek, és közöttük kis rés marad (lásd az ábrát). A felületeken egy hengert és egy ék alakú testet helyezünk el; a testek egymásnak támaszkodnak, és a test egyik oldala vízszintes. Tömegük rendre $m$, illetve $M$. Mekkora gyorsulással mozog a henger és a test? Határozzuk meg a közöttük fellépő reakcióerőt.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr64-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr64-fig1.jpg)

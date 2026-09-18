@@ -65,7 +65,9 @@ A1 Consider the following fission reaction of a stationary 235 U after it absorb
     Joseph Amal Nathan (BARC) and Vijay A. Singh (ex-National Coordinator, Science Olympiads) were the
 principal authors of this problem. The contributions of the Academic Committee, Academic Development Group
 and the International Board are gratefully acknowledged.
-                    Theoretical Task 3 (T-3) : Solutions                                  2 of 9
+
+
+                    Theoretical Task 3 (T-3) : Solutions                                  2 of 9
 
     Estimate ∆E (in MeV) the total fission energy released. The nuclear masses are: m(235 U)
     = 235.044 u; m(94 Zr) = 93.9063 u; m(140 Ce) = 139.905 u; m(1 n) = 1.00867 u and 1 u =
@@ -120,7 +122,9 @@ A3 Assume that the neutron flux φ = 2.000 × 1018 m−2 s−1 on the fuel is un
         = 166.96 MeV
         = 2.675 × 10−11 J
      The total cross-section per unit volume is N × σf . Thus the heat produced per unit
-                    Theoretical Task 3 (T-3) : Solutions                                  3 of 9
+
+
+                    Theoretical Task 3 (T-3) : Solutions                                  3 of 9
 
 
      volume per unit time Q is
@@ -172,7 +176,9 @@ A5 The desired temperature of the coolant is 5.770 ×102 K. Estimate the upper l
 
      Note: The Tarapur 3 & 4 NR in Western India has a fuel pin radius of 6.090 × 10−3
      m.
-                        Theoretical Task 3 (T-3) : Solutions                                            4 of 9
+
+
+                        Theoretical Task 3 (T-3) : Solutions                                            4 of 9
 
 B. The Moderator
 Consider the two dimensional elastic collision between a neutron of mass 1 u and a moderator
@@ -238,7 +244,9 @@ B2 Obtain v and V , the speeds of the neutron and the moderator atom in the CM f
                                                1              1 2   1     1
           v = AV                and              (vb − vm )2 + Avm = v 2 + AV 2 .(→ [0.2 + 0.2])
                                                2              2     2     2
-                    Theoretical Task 3 (T-3) : Solutions                                         5 of 9
+
+
+                    Theoretical Task 3 (T-3) : Solutions                                         5 of 9
 
 
 
@@ -304,12 +312,14 @@ B4 Assume that the above expression holds for D2 O molecule. Calculate the maxim
      on ie., Ea will be minimum for the scattering angle θ = π.
 
      So Ea = Emin = αEb .
-                                                                           
+
                                                                  Eb −Emin
      For D2 O, α = 0.819 and maximum fractional loss                 Eb
                                                                                 = 1 − α = 0.181. [Ac-
      ceptable Range (0.170 to 0.190)]
-                      Theoretical Task 3 (T-3) : Solutions                                    6 of 9
+
+
+                      Theoretical Task 3 (T-3) : Solutions                                    6 of 9
 
 C. The Nuclear Reactor
 To operate the NR at any constant neutron flux Ψ (steady state), the leakage of neutrons has to
@@ -318,7 +328,7 @@ be compensated by an excess production
                                                    i    in the reactor. For a reactor in cylindrical
                                        2         2
 geometry the leakage rate is k1 2.405    + Hπ
-                                              
+
                                   R
                                                      Ψ and the excess production rate is k2 Ψ. The
 constants k1 and k2 depend on the material properties of the NR.
@@ -330,26 +340,26 @@ C1 Consider a NR with k1 = 1.021×10−2 m and k2 = 8.787×10−3 m−1 . Noting
        Solution: R = 3.175 m, H = 5.866 m.
 
        Detailed solution: For constant volume V = πR2 H,
-                                    "       2   #
+                                    "         2     #
                                  d     2.405      π 2
                                                +       = 0,
                                 dH       R        H
 
                               d 2.4052 πH  π2   2.4052 π    π2
-                                             
+
                                           + 2 =          − 2 3 = 0,
                              dH     V      H       V        H
 
 
                2.405 2      π 2
-                             
+
        gives     R
                        =2   H
                                 .
 
        For steady state,
-                                     "           2                #
-                                          2.405             π 2
+                                     "             2                #
+                                          2.405              π  2
                       1.021 × 10−2                     +                Ψ = 8.787 × 10−3 Ψ.
                                             R               H
 
@@ -360,8 +370,8 @@ C1 Consider a NR with k1 = 1.021×10−2 m and k2 = 8.787×10−3 m−1 . Noting
 
 
 
-       Alternative Non-Calculus Method       to Optimize
-                                                    2  
+       Alternative Non-Calculus Method        to Optimize
+                                                     2
                                              2.405          π 2
        Minimisation of the expression                  +        , for a fixed volume V =
                                                R           H
@@ -383,7 +393,9 @@ C1 Consider a NR with k1 = 1.021×10−2 m and k2 = 8.787×10−3 m−1 . Noting
                                                                            3 2.405 π
                                          ≥             ×           × 2 =              .
                           3                     2V          2V      H          4V 2
-                    Theoretical Task 3 (T-3) : Solutions                                     7 of 9
+
+
+                    Theoretical Task 3 (T-3) : Solutions                                     7 of 9
 
 
      The RHS is a constant. The LHS is always greater or equal to this constant im-
@@ -393,13 +405,13 @@ C1 Consider a NR with k1 = 1.021×10−2 m and k2 = 8.787×10−3 m−1 . Noting
                                                                                2V
                        2
      π2
-                    
-               2.405          π 2
+
+               2.405           π  2
           ⇒              = 2        .
      H2          R            H
      For steady state,
-                                    "           2                #
-                                         2.405             π 2
+                                    "             2                #
+                                         2.405              π  2
                      1.021 × 10−2                     +                Ψ = 8.787 × 10−3 Ψ.
                                            R               H
 
@@ -445,7 +457,9 @@ C2 The fuel channels are in a square arrangement (Fig-III) with nearest neighbou
      Note 1: (Not part of grading) The total volume of the fuel is 387 × (π × 0.036172 ×
      5.866) = 9.332 m3 . If the reactor works at 12.5 % efficieny then using the result of
      a-(iii) we have that the power output of the reactor is 9.332 × 4.917 × 108 × 0.125 =
-                     Theoretical Task 3 (T-3) : Solutions                                  8 of 9
+
+
+                     Theoretical Task 3 (T-3) : Solutions                                  8 of 9
 
 
        573 MW.
@@ -507,7 +521,9 @@ and for va cos θL from eq(5) and simplifying gives
                                  va2   Ea   A2 + 2A cos θ + 1
                                      =    =                   .
                                  vb2   Eb       (A + 1)2
-                        Theoretical Task 3 (T-3) : Solutions                                     9 of 9
+
+
+                        Theoretical Task 3 (T-3) : Solutions                                     9 of 9
 
                         Ea    A2 + 1       2A             1
             G(α, θ) =      =         2

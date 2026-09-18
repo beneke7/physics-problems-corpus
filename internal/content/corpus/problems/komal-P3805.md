@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200505"
 verification_status: pending
 ---
 
-A small ball hanging on a thread revolves in a vertical plane. At the uppermost point of its path its velocity is . The force stretching the thread is three times as much in the lowermost point than in the uppermost one. 
+A small ball hanging on a thread revolves in a vertical plane. At the uppermost point of its path its velocity is . The force stretching the thread is three times as much in the lowermost point than in the uppermost one.
 
- a ) How long is the thread? 
+ a ) How long is the thread?
 
- b ) What is the highest velocity of the ball? 
+ b ) What is the highest velocity of the ball?
 
  (4 pont)

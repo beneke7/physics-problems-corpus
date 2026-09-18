@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, strategic-heuristics]
 ---
 
-A sample of nitrogen gas was taken through an isochoric process, during which some heat was transferred to it. Then the gas was immediately compressed adiabatically so that the work done by the environment on the gas was equal to the heat transferred during the isochoric process. Finally, the gas was heated in an isobaric process until the mechanical work done by the gas became equal to the heat transferred in the isochoric process. During the three processes, what was the change in the temperature of the nitrogen if the temperature of the gas increased by $80~{}^\circ\mathrm{C}$ in the isochoric process? 
+A sample of nitrogen gas was taken through an isochoric process, during which some heat was transferred to it. Then the gas was immediately compressed adiabatically so that the work done by the environment on the gas was equal to the heat transferred during the isochoric process. Finally, the gas was heated in an isobaric process until the mechanical work done by the gas became equal to the heat transferred in the isochoric process. During the three processes, what was the change in the temperature of the nitrogen if the temperature of the gas increased by $80~{}^\circ\mathrm{C}$ in the isochoric process?
  (4 pont)

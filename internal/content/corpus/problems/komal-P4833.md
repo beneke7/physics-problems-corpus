@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201604"
 verification_status: pending
 ---
 
-During a road repair an old water pipe was found. How can it be decided whether the pipe is used or not without cutting the pipe, and if it is still used how can be the direction of the water flow determined? 
+During a road repair an old water pipe was found. How can it be decided whether the pipe is used or not without cutting the pipe, and if it is still used how can be the direction of the water flow determined?
  (3 pont)

@@ -40,7 +40,6 @@ but in general there is a physically observable effect.
 Note. There are many ways to justify the phases. In the path integral formulation, we sum over
 all classical paths with phase eiS/ℏ . The dominant contribution comes from the two classical paths,
 so we can ignore all others; the phase shift for each path is just ei∆S/ℏ .
-143 5. Fundamentals of Quantum Mechanics
 
 
     Alternatively, we can use the adiabatic theorem. Suppose that we have a well-localized, slowly-

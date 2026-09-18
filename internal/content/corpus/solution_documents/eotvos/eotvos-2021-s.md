@@ -59,7 +59,9 @@ i                                                                               
 
 
     i                                                                                                                     i
-    i                                                                                                                           i
+
+
+    i                                                                                                                           i
 
         2022.2.6 – 19:38 – 106. oldal – 42. lap                                                        KöMaL, 2022. február
 i                                                                                                                                   i
@@ -98,8 +100,8 @@ i                                                                               
                                              2
                 Ugyanezt az eredményt az (1)-ben szereplő kicsiny változások összegzésével (integ-
                 rálással) is megkaphatjuk:
-                                     0 /2
-                                     V                  T1
+                                      0 /2
+                                     V                   T1
                                              1                1                    T1
                                                dV + 4           dT = − ln 2 + 4 ln    = 0,
                                              V                T                    T0
@@ -127,7 +129,9 @@ i                                                                               
 
 
     i                                                                                                                           i
-    i                                                                                                                           i
+
+
+    i                                                                                                                           i
 
         2022.2.6 – 19:38 – 107. oldal – 43. lap                                                        KöMaL, 2022. február
 i                                                                                                                                   i
@@ -147,7 +151,7 @@ i                                                                               
                      A vizsgált folyamatban nincs hőcsere a rendszer és a környezete között, to-
                 vábbá (a dugattyú lassú mozgatása esetén) a folyamat reverzibilis, ı́gy a rendszer
                 entrópiája változatlan marad:
-                                                                                        
+
                             fHe         T1         V0 /2      fO2        T1            V0
                                  nR ln     + nR ln        +        nR ln    + nR ln           = 0,
                              2          T0          V0          2        T0            V0
@@ -165,8 +169,8 @@ i                                                                               
                 entrópia, a dugattyú hirtelen elmozdı́tása után a két gáz végül (a hőmérséklet kiegyenlı́-
                 tődése után) jobban felmelegszik, mint a feladatban szereplő lassú összenyomásnál.
 
-                      2. feladat. Egy henger alakú,  hosszúságú és R   sugarú, légmagos szolenoid
-                meneteinek száma N . A tekercs belsejébe egy r  R sugarú, a szolenoid szimmetria-
+                      2. feladat. Egy henger alakú,   hosszúságú és R     sugarú, légmagos szolenoid
+                meneteinek száma N . A tekercs belsejébe egy r   R sugarú, a szolenoid szimmetria-
                 tengelyére merőleges sı́kú, L induktivitású szupravezető gyűrűt helyezünk (a gyűrű
                 és a szolenoid középpontja egybeesik).
                      a) Növekszik vagy csökken a szolenoid induktivitása a gyűrű behelyezése követ-
@@ -191,7 +195,9 @@ i                                                                               
 
 
     i                                                                                                                           i
-    i                                                                                                                        i
+
+
+    i                                                                                                                        i
 
         2022.2.6 – 19:38 – 108. oldal – 44. lap                                                     KöMaL, 2022. február
 i                                                                                                                                i
@@ -219,14 +225,14 @@ i                                                                               
                 feladat.) M értékét a feladatban megadott geometriára könnyen kiszámolhatjuk.
                 Az I erősségű árammal átjárt szolenoidban a homogén mágneses tér indukcióvek-
                                       μ NI
-                torának nagysága 0 . Mivel a gyűrű sı́kja merőleges a mágneses tér irányára,
+                torának nagysága 0  . Mivel a gyűrű sı́kja merőleges a mágneses tér irányára,
                                                            μ0 N I 2
-                a gyűrűn áthaladó mágneses ﬂuxus        
+                a gyűrűn áthaladó mágneses ﬂuxus
                                                                  r π. Innen kiolvashatjuk a kölcsönös in-
                 dukciós együttható értékét:
                                                               μ0 N 2
                                                        M=         r π.
-                                                               
+
                       A gyűrű ﬂuxusa nem változik meg, ha a szolenoid áramát nulláról I-re növel-
                 jük, ı́gy Φgyűrű = 0, ahonnan a gyűrűben folyó áram értéke
                                                                  MI
@@ -237,7 +243,7 @@ i                                                                               
                                                  Φszolenoid = L0 · I + M · i,
 
                 ahol L0 a szolenoid öninduktivitása. Behelyettesı́tve a gyűrű áramát, a következőt
-                kapjuk:                                              
+                kapjuk:
                                                                  M2
                                             Φszolenoid = L0 −           I.
                                                                   L
@@ -246,7 +252,7 @@ i                                                                               
                 tivitása, mely
                                                           M2      μ2 N 2 r 4 π 2
                                                ΔL0 ≡           = 0 2
-                                                            L         L
+                                                            L          L
                 értékkel kisebb, mint a gyűrű nélküli szolenoid öninduktivitása.
 
 
@@ -259,7 +265,9 @@ i                                                                               
 
 
     i                                                                                                                        i
-    i                                                                                                                     i
+
+
+    i                                                                                                                     i
 
         2022.2.6 – 19:38 – 109. oldal – 45. lap                                                  KöMaL, 2022. február
 i                                                                                                                             i
@@ -311,7 +319,7 @@ i                                                                               
                 hajlékony”, a gyűrt felületen olyan alakot vesz fel, hogy a belső és a külső nyomás
                 mindenhol azonos legyen. A labdán belül mindenhol azonos a légnyomás (a levegő
                 csekély aerosztatikus nyomását elhanyagoljuk), a vı́z nyomása viszont a mélységgel
-                változik (p = p0 + gh), ı́gy a labda aljának is vı́zszintes sı́klapnak kell lennie
+                változik (p = p0 +  gh), ı́gy a labda aljának is vı́zszintes sı́klapnak kell lennie
                 (3. ábra).
                       A labda alakja tehát egy vı́zszintes sı́klapokkal határolt gömböv.
 
@@ -323,7 +331,9 @@ i                                                                               
 
 
     i                                                                                                                     i
-    i                                                                                                                       i
+
+
+    i                                                                                                                       i
 
         2022.2.6 – 19:38 – 110. oldal – 46. lap                                                    KöMaL, 2022. február
 i                                                                                                                               i
@@ -355,17 +365,17 @@ i                                                                               
                      I. megoldás. Az erőegyensúly alapján: a lapra kifejtett nyomóerő megegyezik
                 a labdára ható felhajtóerővel.
                                                                   2r3 π
-                                                  (p − p0 )r12 π =      g,
+                                                  (p − p0 )r12 π =       g,
                                                                     3
                 ahol p a labdában lévő nyomás, p0 a külső légnyomás, r1 a gömböv felső lapjának
-                sugara,  pedig a vı́z sűrűsége.
+                sugara,   pedig a vı́z sűrűsége.
                     Ahogy a 3. ábrán is látható, a labda belsejében a levegő nyomása a külső lég-
                 nyomás és a h magasságú vı́zoszlop hidrosztatikai nyomásának összegével egyenlő:
-                                           p = p0 + gh = p0 + g(h1 + h2 ).
+                                           p = p0 +  gh = p0 +  g(h1 + h2 ).
                 Ezt beı́rva az előző egyenletbe, és kihasználva, hogy r12 = r2 − h21 , megkapjuk a ﬁ-
                 zikai feltételt:
-                                                                     2r3 π
-                                           g(h1 + h2 ) r2 − h21 π =         g,
+                                                                       2r3 π
+                                            g(h1 + h2 ) r2 − h21 π =          g,
                                                                          3
 
                 110                                          Középiskolai Matematikai és Fizikai Lapok, 2022/2
@@ -377,7 +387,9 @@ i                                                                               
 
 
     i                                                                                                                       i
-    i                                                                                                                     i
+
+
+    i                                                                                                                     i
 
         2022.2.6 – 19:38 – 111. oldal – 47. lap                                                  KöMaL, 2022. február
 i                                                                                                                             i
@@ -386,7 +398,7 @@ i                                                                               
                 amelyet a korábban bevezetett dimenziótlan változókkal ismét áttekinthetőbb alak-
                 ra hozhatunk:
 
-                                                                      2
+                                                                        2
                 (4)                                 (x1 + x2 ) 1 − x21 = .
                                                                         3
 
@@ -412,12 +424,12 @@ i                                                                               
                     A gömböv tömegközéppontjának távolsága a laptól (a gömböv tömegközép-
                 pontjának helye képletgyűjteményekből kikereshető, vagy integrálással könnyen
                 meghatározható):
-                                                                        
+
                                                3 h22 − h21     3 h42 − h41
                                           d=                 −               ,
                                                     4r             8r3
                 a korábbi módon dimenziótlanı́tva
-                                                                          
+
                                               d  3 x22 − x21     3 x42 − x41
                                             δ= =               −               .
                                               r        4               8
@@ -442,7 +454,9 @@ i                                                                               
 
 
     i                                                                                                                     i
-    i                                                                                                                        i
+
+
+    i                                                                                                                        i
 
         2022.2.6 – 19:38 – 112. oldal – 48. lap                                                     KöMaL, 2022. február
 i                                                                                                                                i

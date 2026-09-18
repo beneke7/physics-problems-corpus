@@ -24,9 +24,9 @@ verification_status: pending
 
 A fekete doboznak három vezetékcsatlakozója van: "kék", "fekete" és "fehér", és a belsejében csillag konfigurációban a következő elemek találhatók: egy akkumulátor, egy kondenzátor, egy tekercs és egy dióda sorozatba kapcsolva. A diódát "ideálisnak" tekintheted — az egyik irányban tökéletesen vezeti az áramot, a másik irányban nem. Az akkumulátor és a kondenzátor belső ellenállásátt elhanyagolhatónak tekintsd, de a tekercs jelentős belső ellenállással rendelkezik. A multimèter belső ellenállása a feszültség mérésénél $R_{m} = 10\ \mathrm{M\Omega}$ és másodpercenként új érték jelenik meg $t = 0{,}4\ \mathrm{s}$ után.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-black-box-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-black-box-fig1.jpg)
 
-![figure](../../sources/nbpho/figures/nbpho-2018-black-box-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-black-box-fig2.jpg)
 
 **i)** *(3 pont)* Rajzold meg a fekete dobozban található elektromos áramkört. Indokold meg a megoldásodat a mérésekkel.
 

@@ -95,4 +95,4 @@ which is why thin rods usually break by snapping, not by shearing or pulling apa
 fixed maximum σn, we conclude the maximum length scales as ℓ ∼
 √
 d.
-[3] Problem 34.  ^ 1 0USAPhO 2022, problem A1. A practical bending moment problem.
+[3] Problem 34.   ^ 1 0USAPhO 2022, problem A1. A practical bending moment problem.

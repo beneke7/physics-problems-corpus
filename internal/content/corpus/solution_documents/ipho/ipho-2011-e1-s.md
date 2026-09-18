@@ -69,7 +69,9 @@ and              CS =                     =               = 17.9 pF             
 
 
                                                                                                                   1
-                                  Experimental Competition:            14 July 2011
+
+
+                                  Experimental Competition:            14 July 2011
                                                 Question 1                 Page 2 of 7
 
 
@@ -107,7 +109,9 @@ PATTERN III: The expected graph of C versus the position
 
 
                                                                                     2
-                                     Experimental Competition:           14 July 2011
+
+
+                                     Experimental Competition:           14 July 2011
                                                    Question 1                  Page 3 of 7
 
  By measuring f andC versus x (the distance moved between the two plates,) the data and
@@ -149,7 +153,9 @@ the graphs are shown below.
 
 
                                                                                           3
-                                 Experimental Competition:     14 July 2011
+
+
+                                 Experimental Competition:     14 July 2011
                                                Question 1        Page 4 of 7
 
 
@@ -204,7 +210,9 @@ the graphs are shown below.
 
 
                                                                                4
-                                         Experimental Competition:                  14 July 2011
+
+
+                                         Experimental Competition:                  14 July 2011
                                                        Question 1                      Page 5 of 7
 
 
@@ -259,7 +267,9 @@ and       A          5 10 3 m     b mm          10 3 m2
 
 
                                                                                                         5
-                                     Experimental Competition:                 14 July 2011
+
+
+                                     Experimental Competition:                 14 July 2011
                                                    Question 1                     Page 6 of 7
 
                              C d
@@ -298,7 +308,9 @@ around this range.
 
 
                                                                                               6
-                                     Experimental Competition:                 14 July 2011
+
+
+                                     Experimental Competition:                 14 July 2011
                                                    Question 1                    Page 7 of 7
 
 

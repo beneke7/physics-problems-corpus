@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-The Sun has a radius of 1.4 million km and is making one complete rotation in approximately 25.4 days about its axis, which is approximately perpendicular to the plane of the orbit of the Earth. Consequently one part of the Sun is moving away from us whilst the other is approaching us, which leads to the broadening of the spectral lines due to the Doppler effect. 
- What is the value of this broadening in nm for a spectral line of wavelength approximately 550 nm? 
+The Sun has a radius of 1.4 million km and is making one complete rotation in approximately 25.4 days about its axis, which is approximately perpendicular to the plane of the orbit of the Earth. Consequently one part of the Sun is moving away from us whilst the other is approaching us, which leads to the broadening of the spectral lines due to the Doppler effect.
+ What is the value of this broadening in nm for a spectral line of wavelength approximately 550 nm?
  (4 pont)

@@ -22,11 +22,11 @@ verification_status: pending
 
 Az alagút dióda U-I görbéje az alábbi ábrán látható, (a) görbe. A feladat egyes részében egy idealizált (b) modellgörbét használunk.
 
-![ábra](../../sources/nbpho/figures/nbpho-2020-tunnel-diode-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2020-tunnel-diode-fig1.jpg)
 
 **i)** *(1 pont)* A dióda U-I görbéjének méréséhez azt egy változtatható feszültségforrással (az elektromotoros erő $\mathscr{E}$ 0V-tól 1V-ig változtatható) sorba kötött áramkörbe helyezzük, lásd az (a) kapcsolást. Az ampermérő belső ellenállása $r=2 \Omega$; az alkalmazott feszültség $\mathscr{E}=50 \mathrm{mV}$. Mekkora a dióda feszültsége $V_{i}$ és az árama $I_{i}$? Használd a dióda valódi U-I görbéjét!
 
-![ábra](../../sources/nbpho/figures/nbpho-2020-tunnel-diode-fig2.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2020-tunnel-diode-fig2.jpg)
 
 **ii)** *(1 pont)* Most vizsgáljuk meg a vezetékek önindukciójának hatását. Ennek az induktivitásnak a figyelembevételéhez az áramkört a (b) kapcsolás szerint kell módosítani; legyen $L=500 \mathrm{nH}$. A $K$ kapcsoló addig marad nyitva, amíg a feszültséget $\mathscr{E}=250 \mathrm{mV}$-ra nem állítjuk, majd bezárjuk. Mennyi idő alatt éri el az áram az $I_{1}=20 \mathrm{~mA}$ értéket? A továbbiakban (másként nem jelezve) hanyagoljuk el az akkumulátor és az ampermérő belső ellenállásait (legyen $r=0$ ), és használjuk az idealizált dióda U-I görbéjét!
 

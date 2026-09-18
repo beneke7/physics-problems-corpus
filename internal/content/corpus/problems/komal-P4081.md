@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A neutral and a charged capacitor which have the same capacitance are connected in parallel. 
- a ) To what fraction of the original energy does the total energy of the system decrease, after connecting the condensers? 
- b ) What happens to the ``lost energy''? 
- c ) What is the correct answer to the previous question if all the conductors are superconductors. 
+A neutral and a charged capacitor which have the same capacitance are connected in parallel.
+ a ) To what fraction of the original energy does the total energy of the system decrease, after connecting the condensers?
+ b ) What happens to the ``lost energy''?
+ c ) What is the correct answer to the previous question if all the conductors are superconductors.
  (5 pont)

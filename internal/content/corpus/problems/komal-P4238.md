@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A thin-walled plexy cylinder of mass M and of radius R can rotate freely without friction about its horizontal axis. Inside there is a solid rubber cylinder of mass  m and of radius  r . What is the period of the motion of the system when the rubber cylinder is displaced a little from its equilibrium position? It can be assumed that the rubber cylinder rolls without sliding inside the plexy one. 
+A thin-walled plexy cylinder of mass M and of radius R can rotate freely without friction about its horizontal axis. Inside there is a solid rubber cylinder of mass  m and of radius  r . What is the period of the motion of the system when the rubber cylinder is displaced a little from its equilibrium position? It can be assumed that the rubber cylinder rolls without sliding inside the plexy one.
  (5 pont)

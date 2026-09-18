@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Positively charged pions are unstable particles with a (rest) mass of $M=139.57\tfrac{\mathrm{MeV}}{c^2}$. Their decay most often results in a muon of mass $m=105.66\,\tfrac{\mathrm{MeV}}{c^2}$ and a neutrino of mass zero (or negligibly small). One of the decays produced a muon with negligibly small momentum, which can be considered stationary. What was the kinetic energy and speed of the pion before the decay? 
+Positively charged pions are unstable particles with a (rest) mass of $M=139.57\tfrac{\mathrm{MeV}}{c^2}$. Their decay most often results in a muon of mass $m=105.66\,\tfrac{\mathrm{MeV}}{c^2}$ and a neutrino of mass zero (or negligibly small). One of the decays produced a muon with negligibly small momentum, which can be considered stationary. What was the kinetic energy and speed of the pion before the decay?
  (5 pont)

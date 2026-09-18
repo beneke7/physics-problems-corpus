@@ -9,6 +9,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldásvázlat.**
- A Nap irányába, vagy azzal ellentétesen (illetve $-$ ha a Napba zuhanást el akarjuk kerülni $-$ ezekhez nagyon közeli irányokba). 
- $b)$ A Nap irányára merőlegesen. 
+ A Nap irányába, vagy azzal ellentétesen (illetve $-$ ha a Napba zuhanást el akarjuk kerülni $-$ ezekhez nagyon közeli irányokba).
+ $b)$ A Nap irányára merőlegesen.
  $c)$ 8/7.

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-If the Earth was a uniform density sphere of radius $R$, which of the graphs shown below would be the correct sketch of the gravitational force as a function of the distance measured from the centre of the Earth? 
+If the Earth was a uniform density sphere of radius $R$, which of the graphs shown below would be the correct sketch of the gravitational force as a function of the distance measured from the centre of the Earth?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G640-fig1.gif)
+![figure](../../figures/komal/figures/komal-G640-fig1.gif)

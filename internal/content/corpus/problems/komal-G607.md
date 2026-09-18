@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [model-reduction]
 ---
 
-Calculate the equivalent resistance of the circuit shown in the figure across points $A$ and $B$, and across the points $C$ and $D$. 
+Calculate the equivalent resistance of the circuit shown in the figure across points $A$ and $B$, and across the points $C$ and $D$.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G607-fig1.gif)
+![figure](../../figures/komal/figures/komal-G607-fig1.gif)

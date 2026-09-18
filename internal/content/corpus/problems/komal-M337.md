@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201312"
 verification_status: pending
 ---
 
-Measuring the speed of a falling soap bubble, estimate the width of its wall. 
+Measuring the speed of a falling soap bubble, estimate the width of its wall.
  (6 pont)

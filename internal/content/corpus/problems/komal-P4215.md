@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201001"
 verification_status: pending
 ---
 
-A body is attached to a vertically hung soft spring. The body is released and the time during which the body reaches the lowest point of its path is measured. How many times does this time more than the time while an object, which falls freely without any initial speed, covers the same distance? 
+A body is attached to a vertically hung soft spring. The body is released and the time during which the body reaches the lowest point of its path is measured. How many times does this time more than the time while an object, which falls freely without any initial speed, covers the same distance?
  (4 pont)

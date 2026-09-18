@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A heavy object is projected upward at an initial speed of $v_0$. What should the initial speed of another object projected upward $\Delta t$ time later be in order that the two objects meet while the first one 
- $a)$ is still ascending; 
- $b)$ is at the highest point; 
- $c)$ is descending? 
- $d)$ What should the initial speed of the second object be in order that the descending first object meets the second one while the second one is ascending, is stationary, or is descending? 
- Data: $v_0=5.0$ m/s, $\Delta t=0.3$ s. (Air drag is negligible.) 
+A heavy object is projected upward at an initial speed of $v_0$. What should the initial speed of another object projected upward $\Delta t$ time later be in order that the two objects meet while the first one
+ $a)$ is still ascending;
+ $b)$ is at the highest point;
+ $c)$ is descending?
+ $d)$ What should the initial speed of the second object be in order that the descending first object meets the second one while the second one is ascending, is stationary, or is descending?
+ Data: $v_0=5.0$ m/s, $\Delta t=0.3$ s. (Air drag is negligible.)
  (4 pont)

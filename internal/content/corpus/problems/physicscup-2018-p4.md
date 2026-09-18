@@ -23,6 +23,6 @@ verification_status: unverified
 
 A V-shaped vessel is made from two plates of width $l$ and length $L \gg l$ which are connected via a frictionless hinge at its bottom. The vessel is fixed to a ceiling using light ropes of length $l$ as shown in figure. The vessel is filled almost up to the rim with water of density $\rho$, and is subject to the homogeneous gravity field $g$. The top surface of the water is covered with a weightless thin telescopic plate which cannot be bent, but can be freely extended, and its edges can move frictionlessly up and down along the surfaces of the inclined plates (denoted with a red line in the figure). The purpose of this telescopic plate is to keep the top surface flat during oscillations. The mass of the ropes and plates is negligible. Find the angle between the plates, and the circular frequency of the lowest-frequency mirror-symmetric oscillation mode of this system (evaluate the numerical prefactor of your expression with the precision of four significant digits). Neglect any water motion perpendicular to the plane of the figure.
 
-![figure](../../sources/physicscup/figures/physicscup-2018-p4-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2018-p4-1.png)
 
 *Physics Cup 2018 Problem 4 by Jaan Kalda. Transcribed faithfully from the born-digital LaTeX source.*

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-In the case of a special potato cannon, the initial velocity of a potato fired at an angle of $\alpha$, measured from the horizontal is $v_0=(20~\text{m}/\text{s})\cdot\cos\alpha$. The drag force exerted on the projectile can be neglected. How far can you shoot with this potato gun on the horizontal ground? 
+In the case of a special potato cannon, the initial velocity of a potato fired at an angle of $\alpha$, measured from the horizontal is $v_0=(20~\text{m}/\text{s})\cdot\cos\alpha$. The drag force exerted on the projectile can be neglected. How far can you shoot with this potato gun on the horizontal ground?
  (4 pont)

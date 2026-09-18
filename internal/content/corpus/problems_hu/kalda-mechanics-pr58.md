@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $\alpha$ csúcsszögű ék vízszintes padlón fekszik. A mennyezeten sima falú lyuk van. Egy rudat szorosan átdugtunk a lyukon; a rúd súrlódásmentesen fel-le mozoghat, tengelye pedig függőleges. A rúd az éknek támaszkodik; az egyetlen súrlódási hely az ék és a rúd érintkezési pontja, ahol a súrlódási együttható $\mu$. Mely $\mu$ értékek mellett lehetséges az éket a rúd mögött átnyomni pusztán egy elég nagy vízszintes erő alkalmazásával?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr58-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr58-fig1.jpg)

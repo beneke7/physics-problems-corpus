@@ -25,7 +25,7 @@ techniques: [extremization, choose-reference-frame]
 
 Consider points $A$ and $B$ separated by height $H$ in the vertical direction and distance $L$ in the horizontal direction, placed in a gravitational field $g$ as shown in the figure below. A point mass can slide along a rail of fixed shape frictionlessly (including taking 90°-turns) from $A$ to $B$. The brachistochrone curve is the curve minimizing the total travel time.
 
-![figure 1](../../sources/nbpho/figures/nbpho-2019-brachistochrone-fig1.jpg)
+![figure 1](../../figures/nbpho/figures/nbpho-2019-brachistochrone-fig1.jpg)
 
 **i)** *(2 points)* Calculate the total travel time for the "maximal speed" and "shortest path" trajectories. Find the ratio $\frac{L}{H}$ for which the two are equal.
 
@@ -33,7 +33,7 @@ Consider points $A$ and $B$ separated by height $H$ in the vertical direction an
 
 **iii)** *(2 points)* Show that the path of a light ray traveling in a medium with a variable refractive index $n(x, y) \equiv n(y)$ satisfies the differential equation $\frac{\mathrm{d} y}{\mathrm{~d} x}=\sqrt{C \cdot n(y)^{2}-1}$, where $C$ is a constant determined by boundary conditions.
 
-![figure 2](../../sources/nbpho/figures/nbpho-2019-brachistochrone-fig2.jpg)
+![figure 2](../../figures/nbpho/figures/nbpho-2019-brachistochrone-fig2.jpg)
 
 **iv)** *(2 points)* The obtained equation can explain mirages, which occur when the index of refraction increases with height. Consider a light ray coming from the sky that grazes the surface of the Earth $(y=0)$ and hits the eye of an observer at height $h$ (for this task choose the y-axis in the opposite direction bottom of the page to top). If the refractive index varies as $n(y)=n_{0}(1+\alpha y)$ with $n_{0}$ and $\alpha$ constant, find an expression for the apparent distance that the ray of light is emanating from $d$.
 

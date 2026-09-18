@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4497. Egyik végén zárt üvegcső =100 cm hosszú. Függőlegesen tartjuk, és nyitott végével lefelé, magasságának feléig higanyba mártjuk. Mennyire emelkedik fel a csőben a higany? A légköri nyomás H =75 Hgcm. 
+P. 4497. Egyik végén zárt üvegcső =100 cm hosszú. Függőlegesen tartjuk, és nyitott végével lefelé, magasságának feléig higanyba mártjuk. Mennyire emelkedik fel a csőben a higany? A légköri nyomás H =75 Hgcm.
  Strasser V. Benő (1884-1966) feladata

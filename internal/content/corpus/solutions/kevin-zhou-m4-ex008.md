@@ -126,14 +126,14 @@ for an integer 0 ≤ n < N. Plugging this in, each equation of motion gives
 )
 which is equivalent to
 ω = 2ω0 sin
-
+
 ϕ
 2
-
+
 = 2ω0 sin
-πn
+ πn
 N
-
+
 .
 For n = 0,...,N − 1, these are the normal mode angular frequencies.
 As an aside, for N ≫ 1 we can visualize the normal modes as waves propagating around the
@@ -188,18 +188,18 @@ dt
 ∂θi
 .
 Using the results of part (a), write these equations in the form
-
+
 ¨ θ1
 ¨ θ2
-
+
 = −
 g
 ℓ
 A
-
+
 θ1
 θ2
-
+
 where A is a 2 × 2 matrix. This is a generalization of θ̈ = −gθ/ℓ for a single pendulum.
 (c) Find the normal modes and their angular frequencies, using the general method in section 4.5
 of Morin.
@@ -244,10 +244,10 @@ g
 θ2.
 Solving the system, we find
 A =
-
+
 2 −1
 −2 2
-
+
 straightforwardly.
 27
 Kevin Zhou Physics Olympiad Handouts
@@ -258,17 +258,17 @@ which implies λ = 2 ±
 √
 2. The normal mode amplitudes are
 high frequency :
-
+
 1
 −
 √
 2
-
+
 , low frequency :
-
+
 1 √
 2
-
+
 and the angular frequencies are ω2
 ± = (g/ℓ)(2 ±
 √

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns, exploit-symmetry]
 ---
 
-A thin uniform ring of mass $M$ has a charge $+Q$ distributed uniformly on it. It is at rest in empty space with no force acting on it. A particle of mass $m$ and charge $+q$ is projected towards the ring along its axis from infinity with a speed $v_0$, the minimum speed required by the particle to pass through the ring. The particle passes through the ring to move to an infinite distance from it in the opposite side. 
- $(i)$ What is the minimum speed of the particle during its entire motion? 
- $(ii)$ What is the maximum speed of the ring during the entire event? 
- $(iii)$ What are the final speeds of the particle and the ring at the end of the event? 
- [Neglect any loss of energy by the system due to radiation.] 
+A thin uniform ring of mass $M$ has a charge $+Q$ distributed uniformly on it. It is at rest in empty space with no force acting on it. A particle of mass $m$ and charge $+q$ is projected towards the ring along its axis from infinity with a speed $v_0$, the minimum speed required by the particle to pass through the ring. The particle passes through the ring to move to an infinite distance from it in the opposite side.
+ $(i)$ What is the minimum speed of the particle during its entire motion?
+ $(ii)$ What is the maximum speed of the ring during the entire event?
+ $(iii)$ What are the final speeds of the particle and the ring at the end of the event?
+ [Neglect any loss of energy by the system due to radiation.]
  (4 pont)

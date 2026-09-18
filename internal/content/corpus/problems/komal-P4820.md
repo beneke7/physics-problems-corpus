@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201603"
 verification_status: pending
 ---
 
-The length of a metal wire of known resistivity can be measured with an accuracy of 0.1%, whilst its width can be measured with the accuracy of 2%. At what accuracy can 
- $a)$ the volume and 
- $b)$ the resistance of the wire be calculated? 
+The length of a metal wire of known resistivity can be measured with an accuracy of 0.1%, whilst its width can be measured with the accuracy of 2%. At what accuracy can
+ $a)$ the volume and
+ $b)$ the resistance of the wire be calculated?
  (3 pont)

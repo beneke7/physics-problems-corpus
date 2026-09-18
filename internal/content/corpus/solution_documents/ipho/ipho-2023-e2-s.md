@@ -69,7 +69,9 @@ Part A. Measurement System Setup (2.3 points)
 
 
   𝜑∥ = 0°     (𝜑∥ = 𝜑⟂ + 90° or 𝜑⟂ − 90°)
-Experiment
+
+
+Experiment
 
 
                                                A2-2
@@ -98,7 +100,9 @@ Part A. Measurement System Setup (2.3 points)
 
 
  𝐼∥ = 0.160 V    (𝐼∥ ≥ 0.100 V)
-Experiment
+
+
+Experiment
 
 
                                                                       A2-3         English
@@ -148,7 +152,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
                  22       -22.5     504.3    94        8        102        0.922
 
                  21.5      -22      508.3    97       19        116        0.836
-Experiment
+
+
+Experiment
 
 
                                                                      A2-4         English
@@ -197,7 +203,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
                 12.5      -13      573.7    146       6        152        0.961
 
                 12       -12.5     576.9    138      10        148        0.932
-Experiment
+
+
+Experiment
 
 
                                                                      A2-5         English
@@ -246,7 +254,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
                  3       -3.5      627.3    10       63         73        0.137
 
                 2.5       -3       629.7    12       57         69        0.174
-Experiment
+
+
+Experiment
 
 
                                                                      A2-6         English
@@ -295,7 +305,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
                 -13.5     13       678.9    20        2         22        0.909
 
                 -15.5     15       681.4    18        3         21        0.857
-Experiment
+
+
+Experiment
 
 
                                                              A2-7           English
@@ -341,7 +353,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
 
 
  Δ𝜆FWHM = 25 nm       (Δ𝜆FWHM ≤ 40 nm)
-Experiment
+
+
+Experiment
 
 
                                                          A2-8         English
@@ -376,7 +390,9 @@ Part B. Measurement of transmitted light intensities (4.7 points)
                (*" ((" (&" ($" '"" '*" '(" '&" '$" &"" &*" &(" &&" &$" %""
 
                                    0123435678+l95/
-Experiment
+
+
+Experiment
 
 
                                                                          A2-9

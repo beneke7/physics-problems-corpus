@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-Spherical raindrops of diameter 2 mm are floating in a cloud. At what speed does the air of density 1 kg/m${}^3$ flow upwards in the cloud? (Air drag is proportional to the square of the speed.) 
+Spherical raindrops of diameter 2 mm are floating in a cloud. At what speed does the air of density 1 kg/m${}^3$ flow upwards in the cloud? (Air drag is proportional to the square of the speed.)
  (4 pont)

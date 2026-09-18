@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction, limiting-and-special-cases]
 ---
 
-In the infinite circuit shown in the figure , each resistor has resistance $R$, each capacitor has capacitance $C$, and each inductor has inductance $L$. Determine how the current in the circuit varies as a function of time if an alternating voltage supply $U_{A,B}=U_\mathrm{max}\sin\omega t$ is connected across points $A$ and $B$. 
+In the infinite circuit shown in the figure , each resistor has resistance $R$, each capacitor has capacitance $C$, and each inductor has inductance $L$. Determine how the current in the circuit varies as a function of time if an alternating voltage supply $U_{A,B}=U_\mathrm{max}\sin\omega t$ is connected across points $A$ and $B$.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5728-fig1.png)
+![figure](../../figures/komal/figures/komal-P5728-fig1.png)

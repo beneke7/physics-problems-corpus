@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201812"
 verification_status: pending
 ---
 
-An old hair dryer has two switches. If the first switch is turned on then the hair dryer blows cold air. When the second switch is also turned on, then hot air is blown. When only the second switch is on, then neither the fan, nor the heating element are working. Draw a circuit diagram of the hair dryer. 
+An old hair dryer has two switches. If the first switch is turned on then the hair dryer blows cold air. When the second switch is also turned on, then hot air is blown. When only the second switch is on, then neither the fan, nor the heating element are working. Draw a circuit diagram of the hair dryer.
  (4 pont)

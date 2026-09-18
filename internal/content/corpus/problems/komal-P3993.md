@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: flagged
 ---
 
-Pour some soda water or soft drink to a glass and drop some raisins into it. 
- Observe what happens in the next few minutes. 
- Explain your observation. 
+Pour some soda water or soft drink to a glass and drop some raisins into it.
+ Observe what happens in the next few minutes.
+ Explain your observation.
  (3 pont)

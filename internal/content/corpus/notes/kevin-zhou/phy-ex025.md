@@ -35,7 +35,7 @@ same logic as the previous example. In indices, the second term gives
                        Z                             Z
                   F = dr J(r) × (r · ∇ )B(r ) = dr ϵijk Ji rℓ ∂ℓ′ Bj (r′ ) êk .
                                          ′     ′
-                                                                          
+
 
 
 Now we focus on the terms in parentheses. We assume the curl of B vanishes, which holds in almost
@@ -46,7 +46,7 @@ there we additionally take the Hodge dual. This means that we can swap the indic
                       Z                                    Z
                         dr ϵijk Ji rℓ ∂j Bℓ (r ) êk = −∇ × dr (r · B(r′ ))J(r).
                                        ′      ′          ′
-                                                
+
 
 
 Now the integral is identical to our magnetic dipole integral from above, with a constant vector of
@@ -77,7 +77,6 @@ where F is the Lorentz force on a charge q, we have
                                              E =−
                                                   dt
 where Φ is the flux through a surface with boundary C.
-35 2. Electromagnetism
 
 
   • For conducting loops, the resulting emf will create a current that creates a field that opposes
@@ -125,13 +124,12 @@ where Φ is the flux through a surface with boundary C.
 Finally, we return to Ampere’s law,
                                             ∇ × B = µ0 J.
 As noted earlier, this forces ∇ · J = 0, so it must fail in general. The true equation is
-                                                               
+
                                                              ∂E
                                       ∇ × B = µ0 J + ϵ0
                                                              ∂t
 so that taking the divergence now gives the full continuity equation. We see a changing electric field
 behaves like a current; it is called displacement current. This leads to propagating wave solutions.
-36 2. Electromagnetism
 
 
   • In vacuum, we have
@@ -153,7 +151,7 @@ behaves like a current; it is called displacement current. This leads to propaga
       using the correspondence ∇ ∼ ik. In particular, E0 = cB0 .
 
   • The rate of change of the field energy is
-             Z                          Z                                        
+             Z                            Z
                                 1               1                       1
         U̇ = dx ϵ0 E · Ė + B · Ḃ = dx            E · (∇ × B) − E · J − B · (∇ × E) .
                                µ0               µ0                      µ0
@@ -187,7 +185,6 @@ Note. Conservation of charge is specified by the continuity equation
 For example, transforming an initially stationary charge distribution gives
 
                                          ρ′ = γρ0 ,     J′ = −γρv.
-37 2. Electromagnetism
 
 
 Though the charge density is not invariant, the total charge is. To see this, note that

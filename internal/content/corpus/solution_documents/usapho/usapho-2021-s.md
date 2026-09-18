@@ -59,7 +59,9 @@ JiaJia Dong, Mark Eichenlaub, Abijith Krishnan, Kye W. Shi, Brian Skinner, Mike 
 
 
                     Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                      Part A                                              2
+
+
+2021 USAPhO                                      Part A                                              2
 
 
 
@@ -112,7 +114,9 @@ c. Find the time t0 when the box stops for the first time.
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                      Part A                                              3
+
+
+2021 USAPhO                                      Part A                                              3
 
 
 
@@ -126,7 +130,7 @@ c. Find the time t0 when the box stops for the first time.
                                          tan      =−           .
                                                2         v0
      Using a basic property of the tangent function,
-                                                
+
                                               ωt     (1 − r)sω
                                      tan π −       =           .
                                               2          v0
@@ -136,7 +140,7 @@ c. Find the time t0 when the box stops for the first time.
                                        2π − 2α                   (1 − r)sω
                                 t0 =           ,    α = tan−1              .
                                           ω                          v0
-                                                 
+
      Note that we cancelled a factor of sin ωt/2 , which has a zero at t = 2π/ω. However, this
      is a larger time than the one we just found, so it is irrelevant.
      Another way to arrive at the answer is to rewrite the original condition as
@@ -169,7 +173,9 @@ d. For what values of r will the spring always be at least as long as its rest l
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                      Part A                                                 4
+
+
+2021 USAPhO                                      Part A                                                 4
 
 
 
@@ -185,7 +191,7 @@ d. For what values of r will the spring always be at least as long as its rest l
                                               v0 + ((1 − r)sω)2
 
      Plugging this in and simplifying gives the answer,
-                                                               2 !
+                                                                 2 !
                                             1              v0
                                          r≥       1+                   .
                                             2              sω
@@ -216,14 +222,16 @@ e. After the box stops, how long will it stay at rest before starting to move ag
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                   Part A                                              5
+
+
+2021 USAPhO                                   Part A                                              5
 
 
 
 Question A2
 Flashlight
 Alice the Mad Scientist, travelling in her flying car at height h above the ground, shoots a beam of
-muons at the ground. Bob, observing from the ground at distance R  h from Alice’s car, decides
+muons at the ground. Bob, observing from the ground at distance R   h from Alice’s car, decides
 to check some facts about special relativity. Assume the muons travel extremely close to the speed
 of light in Alice’s frame.
 
@@ -269,7 +277,9 @@ a. Alice’s car flies at horizontal speed v = βc. Alice shoots her muon beam s
 Alice’s velocity v is directed an angle θ away from Bob. For the rest of the problem, you may
 additionally express your answers in terms of θ.
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                   Part A                                                  6
+
+
+2021 USAPhO                                   Part A                                                  6
 
 
 
@@ -324,7 +334,9 @@ d. Suppose Alice is carrying a radio transmitter set to frequency f . To what fr
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                Part A                                                 7
+
+
+2021 USAPhO                                Part A                                                 7
 
 
 
@@ -335,7 +347,9 @@ d. Suppose Alice is carrying a radio transmitter set to frequency f . To what fr
 
 
                 Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                     Part A                                               8
+
+
+2021 USAPhO                                     Part A                                               8
 
 
 
@@ -393,7 +407,9 @@ a. If no point on the sphere’s surface can travel faster than the speed of lig
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                    Part A                                                 9
+
+
+2021 USAPhO                                    Part A                                                 9
 
 
 
@@ -428,7 +444,7 @@ c. Assuming the radius is the value you found in part (b), how much energy is st
    field of the electron? Express your answer in terms of E0 = mc2 and the fine structure constant,
                                                  q2       1
                                           α=           ≈     .
-                                               4π0 ~c   137
+                                               4π 0 ~c   137
 
 
                                               Solution
@@ -439,10 +455,10 @@ c. Assuming the radius is the value you found in part (b), how much energy is st
                                                       i
 
      where Vi is the electric potential at qi . In this case, the total charge is q, and all of the
-     charge is at potential q/4π0 R, so
+     charge is at potential q/4π 0 R, so
                                                       q2
                                              UE =          .
-                                                    8π0 R
+                                                    8π 0 R
      Using the result of part (b),
                                                  1
                                             UE = αE0 .
@@ -452,11 +468,13 @@ c. Assuming the radius is the value you found in part (b), how much energy is st
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                         Part A                                          10
+
+
+2021 USAPhO                                         Part A                                          10
 
 
 
-     depend only on q, 0 , and R, then you could derive UE ∼ αE0 , for partial credit.)
+     depend only on q,  0 , and R, then you could derive UE ∼ αE0 , for partial credit.)
 
 
 d. Roughly estimate the total energy stored in the magnetic field of the electron, in terms of E0 and
@@ -467,7 +485,7 @@ d. Roughly estimate the total energy stored in the magnetic field of the electro
      Following the hint, we can estimate
 
                                                 B2
-                                                                      
+
                                                                 4 3
                                             UB ∼ 0                πR
                                                 2µ0             3
@@ -479,17 +497,17 @@ d. Roughly estimate the total energy stored in the magnetic field of the electro
                                              B0 ∼            ∼       .
                                                          R      R2
      Thus, we have
-                                                   2
+                                                    2
                                                                 µ0 q 2 c2   µ0 mc3 q 2
-                                       
+
                                   1        µ0 qc
                              UB ∼                       R3 ∼              ∼            .
                                   µ0        R2                     R            ~
-     To get this in terms of the fine structure constant, we use c2 = 1/µ0 0 , giving
+     To get this in terms of the fine structure constant, we use c2 = 1/µ0  0 , giving
 
                                                            q2
                                         UB ∼ mc2                ∼ αE0 .
-                                                          0 ~c
+                                                           0 ~c
      An even faster way to get this result is to note that in general, the energy stored in magnetic
      fields tends to be a factor of order (v/c)2 smaller than the energy stored in electric fields,
      where v is the speed of the charge. In this problem the charge is all moving relativistically,
@@ -499,7 +517,7 @@ d. Roughly estimate the total energy stored in the magnetic field of the electro
 e. How does your estimate for the total energy in the electric and magnetic fields compare to E0 ?
 
                                                    Solution
-     Both UE and UB are much smaller than E0 , by a factor of α  1. Thus, this classical
+     Both UE and UB are much smaller than E0 , by a factor of α   1. Thus, this classical
      model cannot explain the origin of the electron’s rest energy.
      There were many attempts to make classical models of the electron in the early 20th century,
      but they all ran into difficulties like this one. For more on this subject, see chapter II-28 of
@@ -513,7 +531,9 @@ for partial credit.
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                     Part B                                              1
+
+
+2021 USAPhO                                     Part B                                              1
 
 
 
@@ -522,11 +542,11 @@ Question B1
 Disk Jockey
 A disk of uniform mass density, mass M , and radius R sits at rest on a frictionless floor. The disk
 is attached to the floor by a frictionless pivot at its center, which keeps the center of the disk in
-place, but allows the disk to rotate freely. An ant of mass m  M is initially standing on the edge
+place, but allows the disk to rotate freely. An ant of mass m   M is initially standing on the edge
 of the disk; you may give your answers to leading order in m/M .
 
 a. The ant walks an angular displacement θ along the edge of the disk. Then it walks radially
-   inward by a distance h  R, tangentially through an angular displacement −θ, then back to its
+   inward by a distance h   R, tangentially through an angular displacement −θ, then back to its
    starting point on the disk. Assume the ant walks with constant speed v.
 
                                                                  h
@@ -560,14 +580,16 @@ a. The ant walks an angular displacement θ along the edge of the disk. Then it 
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                    Part B                                                   2
+
+
+2021 USAPhO                                    Part B                                                   2
 
 
 
      which means the disk rotates through an angle
 
                                                                        h 2
-                                                                        
+
                                  2mv(R − h) θ(R − h)   2mθ
                             φ2 =       2
                                                      =              1−     .
@@ -576,7 +598,7 @@ a. The ant walks an angular displacement θ along the edge of the disk. Then it 
      The net rotation is
                                                          !
                                                    h 2
-                                                    
+
                                       2mθ                    4m hθ
                             φ1 + φ2 =           1−     −1 ≈−       .
                                        M           R         M R
@@ -617,7 +639,9 @@ b. Now suppose the ant walks with speed v along a circle of radius r, tangent to
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                     Part B                                            3
+
+
+2021 USAPhO                                     Part B                                            3
 
 
 
@@ -629,17 +653,17 @@ b. Now suppose the ant walks with speed v along a circle of radius r, tangent to
 
                |v × r| = vr cos2 θ + vr sin2 θ + v(R − r) cos θ = vr + v(R − r) cos θ.
 
-   Thus, we have                                              
+   Thus, we have
                                       L = mv r + (R − r) cos θ .
    Plugging this into the time integral above,
                                  Z
-                                    2mv                       
+                                    2mv
                              φ=            r + (R − r) cos θ(t)   dt .
                                     M R2
 
    Changing this to an integral over θ using dθ = v dt/r,
                             Z 2π
-                                   2mr                             4m πr2
+                                   2mr                                4m πr2
                        φ=             2
                                          r + (R − r) cos θ(t)    dθ =        .
                              0     MR                                 M R2
@@ -677,7 +701,9 @@ b. Now suppose the ant walks with speed v along a circle of radius r, tangent to
 
 
                  Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                Part B                                               4
+
+
+2021 USAPhO                                Part B                                               4
 
 
 
@@ -692,7 +718,9 @@ b. Now suppose the ant walks with speed v along a circle of radius r, tangent to
 
 
                 Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                   Part B                                                 5
+
+
+2021 USAPhO                                   Part B                                                 5
 
 
 
@@ -744,7 +772,9 @@ a. It’s winter and you want to keep warm. The temperature is T0 = 263 K outsid
       from 300 K to 2000 K. On the graph, sketch curves corresponding to gain G = 2, 5, and 12.
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                    Part B                                                6
+
+
+2021 USAPhO                                    Part B                                                6
 
 
 
@@ -783,7 +813,7 @@ b. When the air at the bottom of a container is heated, it becomes less dense th
    You may neglect any heat transfer and friction between the parcel of air and the surrounding air,
    and assume that the temperature difference is not too large. In addition, you may assume the
    height h is small enough so that the pressure P0 and density ρ0 of the surrounding air are very
-   nearly constant throughout the container. More precisely, assume that ρ0 gh/P0  ∆T /T0  1.
+   nearly constant throughout the container. More precisely, assume that ρ0 gh/P0   ∆T /T0   1.
    Express your answers in terms of P0 , g, h, ∆T , and T0 .
 
    i. As a parcel of air moves upward, it accelerates. Find a rough estimate for the average speed
@@ -799,7 +829,9 @@ b. When the air at the bottom of a container is heated, it becomes less dense th
 
 
                        Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                  Part B                                                 7
+
+
+2021 USAPhO                                  Part B                                                 7
 
 
 
@@ -809,7 +841,7 @@ b. When the air at the bottom of a container is heated, it becomes less dense th
                                                         T0
        Note that because dP/dz = −ρg in hydrostatic equilibrium, the pressure of the sur-
        rounding air varies between the bottom and top of the container, by a fractional amount
-       of order ρ0 gh/P0 . But since we assumed ρ0 gh/P0  ∆T /T0 , we can neglect this effect.
+       of order ρ0 gh/P0 . But since we assumed ρ0 gh/P0   ∆T /T0 , we can neglect this effect.
 
   ii. In the steady state, warm parcels of air are continuously moving upward from the bottom, and
       cold parcels of air are continuously moving downward from the top. Find a rough estimate
@@ -823,7 +855,7 @@ b. When the air at the bottom of a container is heated, it becomes less dense th
        where V is the volume of the parcel. The net volume of warm air transported upward
        per unit time is of order Av0 , where A is the cross-sectional area of the box. Thus, the
        average power per area is roughly
-                                                                 3/2
+                                                                   3/2
                                           ∆T     p           ∆T
                                     P0 v0    ∼ P0 gh                     .
                                           T0                 T0
@@ -835,7 +867,9 @@ b. When the air at the bottom of a container is heated, it becomes less dense th
 
 
                  Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                    Part B                                                   8
+
+
+2021 USAPhO                                    Part B                                                   8
 
 
 
@@ -888,7 +922,9 @@ a. The number and nature of the equilibrium points on the hemisphere depends on 
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                    Part B                                               9
+
+
+2021 USAPhO                                    Part B                                               9
 
 
 
@@ -896,7 +932,7 @@ a. The number and nature of the equilibrium points on the hemisphere depends on 
                                                                    2mg
                                mg sin π/2 = k1 R(π/2) =⇒ k1 =          .
                                                                     πR
-     The second critical point is given by the balancing of the two forces for θ  1, so we
+     The second critical point is given by the balancing of the two forces for θ   1, so we
      compute
                              mg sin θ ≈ mgθ = k2 Rθ =⇒ k2 = mg/R.
      We thus get the following table:
@@ -937,7 +973,9 @@ b. At t = 0, the mass is given a speed v along a line of constant latitude θ = 
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                       Part B                                             10
+
+
+2021 USAPhO                                       Part B                                             10
 
 
 
@@ -988,11 +1026,13 @@ b. At t = 0, the mass is given a speed v along a line of constant latitude θ = 
         force. Thus, we accepted both mg cos θ0 − mv 2 /R and −mv 2 /R.
 
 
-c. A cylinder of radius r  Rθ0 is placed on top of the sphere. Suppose the mass is launched at an
+c. A cylinder of radius r   Rθ0 is placed on top of the sphere. Suppose the mass is launched at an
    angle α away from the direction of the spring’s displacement with kinetic energy K, as shown.
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                  Part B                                                11
+
+
+2021 USAPhO                                  Part B                                                11
 
 
 
@@ -1028,7 +1068,7 @@ c. A cylinder of radius r  Rθ0 is placed on top of the sphere. Suppose the mas
                                                               v sin α(R sin θ)
                         mur = mv sin α(R sin θ) =⇒ u =                         .
                                                                       r
-    Because r  R, at the point of closest approach, the energy of the system is roughly
+    Because r   R, at the point of closest approach, the energy of the system is roughly
                                                                                       !
                   1                 1 mv 2 sin2 αR2 sin2 θ              α 2 R2 sin2 θ
            mgR + mu2 ≈ mgR +                               ≈ mgR + K                    .
@@ -1045,7 +1085,9 @@ c. A cylinder of radius r  Rθ0 is placed on top of the sphere. Suppose the mas
 
 
                  Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO                                Part B                                             12
+
+
+2021 USAPhO                                Part B                                             12
 
 
 

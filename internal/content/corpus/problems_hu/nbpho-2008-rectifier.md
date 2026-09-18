@@ -27,7 +27,7 @@ továbbiakban a dióda U-I karakterisztikáját az ábrán látható
 görbével közelítjük. A terhelésen folyó áram relatív változásának ki kell elégítenie
 a $\Delta I / I<1 \%$ feltételt.
 
-![ábra](../../sources/nbpho/figures/nbpho-2008-rectifier-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2008-rectifier-fig1.png)
 
 1) Határozd meg a dióda átlagos teljesítménydisszipációját egy ilyen kapcsolás
 üzemi állapotában.

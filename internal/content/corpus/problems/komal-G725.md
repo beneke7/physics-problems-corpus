@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-The winding road in Bükk Mountains, which connects the cities Eger and Miskolc is approximately 50 km long. On a summer Sunday morning the traffic was heavy in both directions. Cars in both directions travelled at an average speed of 35 km/h, the oncoming cars passed each other on an average of one minute. Estimate the number of cars on the road at the same time (travelling in both directions). 
+The winding road in Bükk Mountains, which connects the cities Eger and Miskolc is approximately 50 km long. On a summer Sunday morning the traffic was heavy in both directions. Cars in both directions travelled at an average speed of 35 km/h, the oncoming cars passed each other on an average of one minute. Estimate the number of cars on the road at the same time (travelling in both directions).
  (3 pont)

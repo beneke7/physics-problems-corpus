@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $A$ golyó egy $\alpha$ szögű éken fekszik. A golyót egy nyújthatatlan fonalhoz is kötöttük, amelynek másik végét a függőleges fal $B$ pontjához erősítettük (lásd az ábrát). Milyen pályát ír le a golyó? Mekkora a gyorsulása, ha az ék gyorsulása $a$?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr38-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr38-fig1.jpg)

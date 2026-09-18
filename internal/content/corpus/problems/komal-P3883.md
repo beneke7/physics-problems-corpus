@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-During the fission neutrons are ejected with an initial speed of 2$^{.}$10$^{7}$ m/s. We would like to slow down these neutrons in heavy water to a speed of 10$^{3}$ m/s. At least how many collisions must occur? 
+During the fission neutrons are ejected with an initial speed of 2$^{.}$10$^{7}$ m/s. We would like to slow down these neutrons in heavy water to a speed of 10$^{3}$ m/s. At least how many collisions must occur?
  (4 pont)

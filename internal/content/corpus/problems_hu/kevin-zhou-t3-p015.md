@@ -68,4 +68,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     értelemben, hogy hasonló modellek széles körére is érvényesek.
 
                                                         12
-    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény

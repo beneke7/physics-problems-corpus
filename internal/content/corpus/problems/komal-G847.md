@@ -22,13 +22,13 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-A resistor of resistance $R_1=1~\text{M}\Omega$ is connected in parallel with another resistor $R_2$, and then gradually more resistors $R_3, R_4, \ldots R_n$ are connected in parallel. In each step, the values of the equivalent resistance of the resistors are given as follows: 
+A resistor of resistance $R_1=1~\text{M}\Omega$ is connected in parallel with another resistor $R_2$, and then gradually more resistors $R_3, R_4, \ldots R_n$ are connected in parallel. In each step, the values of the equivalent resistance of the resistors are given as follows:
 
- $a)$ $\frac{1}{2}~\text{M}\Omega$, $\frac{1}{3}~\text{M}\Omega$, $\frac{1}{4}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{n}$; 
+ $a)$ $\frac{1}{2}~\text{M}\Omega$, $\frac{1}{3}~\text{M}\Omega$, $\frac{1}{4}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{n}$;
 
- $b)$ $\frac{1}{2}~\text{M}\Omega$, $\frac{1}{4}~\text{M}\Omega$, $\frac{1}{8}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{2^n}$; 
+ $b)$ $\frac{1}{2}~\text{M}\Omega$, $\frac{1}{4}~\text{M}\Omega$, $\frac{1}{8}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{2^n}$;
 
- $c)$ $\frac{1}{1\cdot2}~\text{M}\Omega$, $\frac{1}{1\cdot2\cdot3}~\text{M}\Omega$, $\frac{1}{1\cdot2\cdot3\cdot4}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{n!}$. 
+ $c)$ $\frac{1}{1\cdot2}~\text{M}\Omega$, $\frac{1}{1\cdot2\cdot3}~\text{M}\Omega$, $\frac{1}{1\cdot2\cdot3\cdot4}~\text{M}\Omega$, $\ldots$, $\frac{R_1}{n!}$.
 
- In each case, what are the resistances of the resistors $R_2,R_3,~\ldots,R_n$? 
+ In each case, what are the resistances of the resistors $R_2,R_3,~\ldots,R_n$?
  (4 pont)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A 25 cm-long simple pendulum is hanging vertically inside a small car which is at rest. The mass of the bob is 2 grams, its charge is 5$^{.}$10$^{-8}$ coulomb. The vehicle is in uniform electric field, and then it will travel in this field. The electric field points vertically upward and its magnitude is 400 kN/C. The vehicle is started at an acceleration of 4.5 m/s$^{2}$. Air resistance is negligible. 
- a ) Find the maximum speed of the bob with respect to the vehicle. 
- b ) What must the strength of the cord be in order not to be broken during the motion. 
+A 25 cm-long simple pendulum is hanging vertically inside a small car which is at rest. The mass of the bob is 2 grams, its charge is 5$^{.}$10$^{-8}$ coulomb. The vehicle is in uniform electric field, and then it will travel in this field. The electric field points vertically upward and its magnitude is 400 kN/C. The vehicle is started at an acceleration of 4.5 m/s$^{2}$. Air resistance is negligible.
+ a ) Find the maximum speed of the bob with respect to the vehicle.
+ b ) What must the strength of the cord be in order not to be broken during the motion.
  (5 pont)

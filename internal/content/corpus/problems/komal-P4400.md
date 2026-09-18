@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-William Ramsay a British chemist observed that the one of the optical spectral lines of the gas which was liberated from the mineral cleveite, containing uranium, is the same as the line in the spectrum of the Sun. Which gas did Ramsay find? How did this gas originate from the mineral? 
+William Ramsay a British chemist observed that the one of the optical spectral lines of the gas which was liberated from the mineral cleveite, containing uranium, is the same as the line in the spectrum of the Sun. Which gas did Ramsay find? How did this gas originate from the mineral?
  (3 pont)

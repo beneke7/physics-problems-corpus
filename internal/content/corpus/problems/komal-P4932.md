@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-The figure shows the cyclical processes of a heat engine which is operated with a certain amount of ideal, noble gas. Both of the cyclical processes $ABCA$ and $CDEC$ consist of isothermal isobaric and isochoric processes. What is the ratio of the two efficiencies? 
+The figure shows the cyclical processes of a heat engine which is operated with a certain amount of ideal, noble gas. Both of the cyclical processes $ABCA$ and $CDEC$ consist of isothermal isobaric and isochoric processes. What is the ratio of the two efficiencies?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4932-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4932-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201311"
 verification_status: pending
 ---
 
-There is a glowing filament 30 cm from a 5-dioptre converging lens, whilst on the other side of the lens, on the same principal axis, 50 cm away from the lens there is a -2 dioptre diverging lens. Where should the screen be placed if we would like to find the image of the filament? What is the size of the image of the 2-cm long filament? 
+There is a glowing filament 30 cm from a 5-dioptre converging lens, whilst on the other side of the lens, on the same principal axis, 50 cm away from the lens there is a -2 dioptre diverging lens. Where should the screen be placed if we would like to find the image of the filament? What is the size of the image of the 2-cm long filament?
  (4 pont)

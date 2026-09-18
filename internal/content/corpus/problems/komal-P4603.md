@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-Calculate the equivalent resistance of the resistor chain shown in the figure between the points a ) A and B ; b ) A and C the resistor chain is infinite in both directions and each resistor has a resistance of R . 
+Calculate the equivalent resistance of the resistor chain shown in the figure between the points a ) A and B ; b ) A and C the resistor chain is infinite in both directions and each resistor has a resistance of R .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4603-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4603-fig1.gif)

@@ -41,6 +41,6 @@ w2 + h2
 = 500Hz.
 Hence the quack consists of a pitch that starts high and then falls slightly lower as it fades
 away. For further discussion, see the article How the Mound got its Quack.
-[3] Problem 4.  m 1 0USAPhO 1998, problem B1. (The official solution has a qualitatively incorrect
+[3] Problem 4.   m 1 0USAPhO 1998, problem B1. (The official solution has a qualitatively incorrect
 answer for the final part of the problem; see Stefan Ivanov’s errata for the correct answer.)
-[3] Problem 5.  W 1 0USAPhO 2016, problem A1.
+[3] Problem 5.   W 1 0USAPhO 2016, problem A1.

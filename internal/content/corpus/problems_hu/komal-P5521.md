@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5521. Egy főzőlapon 12 egyforma ellenálláshuzal található, amelyek az  ábrán látható módon kapcsolódnak egymáshoz. 
+P. 5521. Egy főzőlapon 12 egyforma ellenálláshuzal található, amelyek az  ábrán látható módon kapcsolódnak egymáshoz.
 
  Milyen a főzőlap hőteljesítményének százalékos megoszlása az egyes huzalok között, ha az $A$ és $B$ pontok közé feszültséget kapcsolunk?
 
-![figure](../../raw_html/komal_figures/komal-P5521-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5521-fig1.gif)

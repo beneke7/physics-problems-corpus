@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-We have four identical $1.5~\mathrm{V}$ AA batteries. Two and two are connected in series, and then these series pairs are connected in parallel and a load of resistance $R=10~\Omega$ is connected to the battery system. The internal resistance of each battery is $r=1~\Omega$. 
+We have four identical $1.5~\mathrm{V}$ AA batteries. Two and two are connected in series, and then these series pairs are connected in parallel and a load of resistance $R=10~\Omega$ is connected to the battery system. The internal resistance of each battery is $r=1~\Omega$.
 
- $a)$ Draw the schematic figure of the circuit. 
+ $a)$ Draw the schematic figure of the circuit.
 
- $b)$ What is the current through the load? 
+ $b)$ What is the current through the load?
 
- $c)$ Investigate the changes that occur if first two and two batteries are connected in parallel an then these parallel battery systems are connected in series. 
+ $c)$ Investigate the changes that occur if first two and two batteries are connected in parallel an then these parallel battery systems are connected in series.
  (3 pont)

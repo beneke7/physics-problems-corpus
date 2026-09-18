@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-Newspaper news on March 20, 2021: ``The vast majority of space debris revolve around the Earth at low orbits, i.e. from an altitude of 800 km up to 2000 km, at a speed of 28 \, 000 km/h.'' 
- $a)$ At what altitude can a piece of space debris orbit at a speed of 28 \, 000 km/h? 
- $b)$ At what speed can a piece of space debris orbit at an altitude between 800 to 2000 kilometres? 
+Newspaper news on March 20, 2021: ``The vast majority of space debris revolve around the Earth at low orbits, i.e. from an altitude of 800 km up to 2000 km, at a speed of 28 \, 000 km/h.''
+ $a)$ At what altitude can a piece of space debris orbit at a speed of 28 \, 000 km/h?
+ $b)$ At what speed can a piece of space debris orbit at an altitude between 800 to 2000 kilometres?
  (4 pont)

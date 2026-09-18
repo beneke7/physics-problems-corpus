@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-J. F. Jolly (1809-1884), a Munich teacher of physics, measured with his very sensitive self-made balance that at a depth of 5.3 m the weight of a body is greater by one and a half millionth than that on the surface. How can that be reconciled with Newton's gravitational law? 
+J. F. Jolly (1809-1884), a Munich teacher of physics, measured with his very sensitive self-made balance that at a depth of 5.3 m the weight of a body is greater by one and a half millionth than that on the surface. How can that be reconciled with Newton's gravitational law?
 
  (5 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-Four alike bulbs are connected as shown in the figure to a battery. Which one is the brightest? List them in the order of their luminous power. 
+Four alike bulbs are connected as shown in the figure to a battery. Which one is the brightest? List them in the order of their luminous power.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G644-fig1.gif)
+![figure](../../figures/komal/figures/komal-G644-fig1.gif)

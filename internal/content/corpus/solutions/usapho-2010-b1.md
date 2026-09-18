@@ -13,11 +13,11 @@ provenance_note: "Source-provided solution section from cache/phoxiv/usapho/2010
 ---
 
 Question B1
-A thin plank of mass M and length L rotates about a pivot at its center. A block of mass m 
+A thin plank of mass M and length L rotates about a pivot at its center. A block of mass m
  M
 slides on the top of the plank. The system moves without friction. Initially, the plank makes an
 angle θ0 with the horizontal, the block is at the upper end of the plank, and the system is at rest.
-Throughout the problem you may assume that θ 
+Throughout the problem you may assume that θ
  1, and that the physical dimensions of the
 block are much, much smaller than the length of the plank.
 x
@@ -48,7 +48,7 @@ I
 x.
 Copyright c 2010 American Association of Physics Teachers
 2010 Semifinal Exam Part B 10
-We may neglect the rotational inertia of the block, since m 
+We may neglect the rotational inertia of the block, since m
  M. Next, the linear acceleration
 of the block is
 a = −g sinθ ≈ −gθ.
@@ -100,10 +100,10 @@ T =
 One can trivially simplify to get an explicit expression for T, though this isn’t necessary.
 c. The centripetal acceleration is
 ac = x
-
+
 dθ
 dt
-2
+ 2
 = xθ2
 0ω2
 sin2

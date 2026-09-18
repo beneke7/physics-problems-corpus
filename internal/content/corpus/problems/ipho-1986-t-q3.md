@@ -26,7 +26,7 @@ Q3
 Three particles, each of mass $m$, are in equilibrium and joined by unstretched massless springs, each with Hooke's Law spring constant $k$. They are constrained to move in a circular path as indicated in Figure 3.1.
 
 Figure 3.1
-![](ipho-1986-t-q3-fig01.png)
+![](../../figures/ipho/figures/ipho-1986-t-q3-fig01.png)
 
 (i) If each mass is displaced from equilibrium by small displacements $u_{1}, u_{2}$ and $u_{3}$ respectively, write down the equation of motion for each mass.
 (ii) Verify that the system has simple harmonic solutions of the form

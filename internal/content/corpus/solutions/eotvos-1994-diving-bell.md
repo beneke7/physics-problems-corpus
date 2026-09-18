@@ -26,7 +26,7 @@ nyomásnak kereken háromszorosa);
 | ezután a megfelel® nyomású gázt át kell nyomni a búvárharang alá, a víz helyére.
 Mindezt az 1. ábrán vázoltuk.
 Úgy t¶nik, hogy a dugattyút nyomó er® munkáját kell meghatározni. Ez azonban nagyobb, mint a kompresszor által
-végzett munka, mert besegít a küls® légnyomás is. Így a kompresszor által végzett munka a 2. ábrán bevonalkázott
+végzett munka, mert  besegít  a küls® légnyomás is. Így a kompresszor által végzett munka a 2. ábrán bevonalkázott
 területtel lesz egyenl®: a dugattyú által végzett összes munkából le kell vonni a légköri nyomás által végzett p0V0
 munkát.
 Az izotermikus tágulási munka kiszámítási formája megtalálható a függvénytáblázatban:
@@ -93,12 +93,12 @@ ekkor a nyomása elérné a 3p0 értéket, s sak az átnyomási munkát kellene 
 200 kJ is elég lenne? Ez már ravaszabb gondolat, de azt lehet ellene felhozni, hogy a feladatban szó se volt arról,
 hogy a hajón még egy megfelel® h¶t®berendezés is m¶ködik, amelyet felhasználhatunk a probléma megoldásához. De
 tegyük fel, hogy megengednénk a h¶t®gép használatát, akkor viszont azt a munkát is illene számításba venni, amivel
-a h¶t®gépet | pl. a h¶t®gép kompresszorát | m¶ködtetni kell. Nem lenne nehéz megmutatni, hogy ismét rá
-zetünk:
+a h¶t®gépet | pl. a h¶t®gép kompresszorát | m¶ködtetni kell. Nem lenne nehéz megmutatni, hogy ismét  rá
+zetünk :
 összesen több munkát kell végeznünk.
 3. Úgy is ki lehet számítani a kompresszor által végzett munkát, hogy elképzeljük: a kezdetben 3 m3
 -nyi leveg®t
-egy zsákba zárjuk, és a zsákot lassan lehúzzuk 10 m-nyire a víz alá. Mivel x méter mélységben az izotermikusan
+egy  zsákba  zárjuk, és a zsákot lassan lehúzzuk 10 m-nyire a víz alá. Mivel x méter mélységben az izotermikusan
 összenyomott gázra F(x) = 3 · 104
 · (1 + x/10)−1
 felhajtóer® hat, a lehúzás során végzett munka (SI-egységrendszerben

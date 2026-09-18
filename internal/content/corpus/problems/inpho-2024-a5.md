@@ -26,7 +26,7 @@ techniques: [conservation-laws, differential-element]
 ## 5. Thermal Tussle
 
 Consider a horizontal insulated cylindrical tube of very large length. Two identical insulated pistons, each of mass $M=0.2 \mathrm{~kg}$ are fitted within the tube separated by a length $L_{0}=1 \mathrm{~m}$. The space between the two pistons is filled with one mole of (ideal) helium gas, initially at temperature $T_{0}=300 \mathrm{~K}$. The external pressure, everywhere outside the pistons and tube, is zero.
-![](inpho-2024-a5-fig01.png)
+![](../../figures/inpho/figures/inpho-2024-a5-fig01.png)
 Initially, the pistons are held in place by an external mechanism. At time $t=0$, the mechanism is released and the pistons move without friction and the process is quasistatic initially. Assume that the gas behaves ideally throughout. Let $C_{p}$ and $C_{v}$ be the specific heats of the gas at constant pressure and volume respectively. Also, $\gamma=C_{p} / C_{v}=5 / 3$.
 
 (a) [ $\mathbf{6}$ marks] Determine the velocity $\left(v_{p}\right)$ of each piston in terms of the gas temperature $T$ and other relevant variables. At what temperature $\left(T_{c}\right)$, is the process no longer quasistatic? Calculate $T_{c}$.

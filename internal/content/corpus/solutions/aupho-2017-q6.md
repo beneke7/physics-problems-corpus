@@ -29,18 +29,18 @@ c. A straight line, parallel to the x-axis.
 d. A parabolic curve, with a minimum at x = 0.
 e. A parabolic curve, with a maximum at x = 0.
 Solution: a. The relationship given can be rearranged to be L2 =
-
+
 1
 2f
-2
+ 2
 T
 µ . This shows that the
 relationship between L2
 and T is linear with a positive slope, as the coefficient of T,
-
+
 1
 2f
-2
+ 2
 1
 µ , is positive.
 As there is no constant term the line is expected to pass through the origin.

@@ -12,8 +12,8 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 ---
 
 2006. október 20-án rendezte az Eötvös Loránd Fizikai Társulat azévi Eötvös-versenyét. Budapesten 50, Pé sett
-19, Debre enben 13, Nyíregyházán és Sopronban 44, Békés sabán, Egerben, Miskol on, Nagykanizsán, Szegeden és
-Szombathelyen 33, Gy®rött, Szekszárdon és Székesfehérváron 22 dolgozatot adtak be a versenyz®k. Összesen 114
+19, Debre enben 13, Nyíregyházán és Sopronban 4 4, Békés sabán, Egerben, Miskol on, Nagykanizsán, Szegeden és
+Szombathelyen 3 3, Gy®rött, Szekszárdon és Székesfehérváron 2 2 dolgozatot adtak be a versenyz®k. Összesen 114
 dolgozatot bírált el a feladatokat kit¶z® Versenybizottság (Radnai Gyula elnök, Gnädig Péter, Honyek Gyula és
 Károlyházy Frigyes ). A legtöbb versenyz® idén is a Fazekas Mihály F®városi Gyakorló Gimnáziumból jött, de elég
 sok 12. osztályos versenyz® érkezett az ELTE Apá zai Csere János Gyakorlógimnáziumából is. Vidékr®l a legtöbb
@@ -22,14 +22,14 @@ külföldr®l, a révkomáromi Selye János magyar tannyelv¶ gimnáziumból, ®
      Ismertetjük a feladatokat és a feladatok helyes megoldását.
 
      1. Fizika szakkörön egy példatárból az alábbi feladat kerül el®:
-     Egy függ®legesen álló, henger alakú edényt kb. fele magasságáig megtöltünk vízzel, majd lezárjuk. Az alap- és
+      Egy függ®legesen álló, henger alakú edényt kb. fele magasságáig megtöltünk vízzel, majd lezárjuk. Az alap- és
                                                                     ◦
 fed®lap jó h®vezet®, a henger oldalfala h®szigetel®. Az alaplapot −10 C-ra h¶tjük, a fed®lapot 110 ◦ C-ra melegítjük, s
 a továbbiakban ezen a h®mérsékleten tartjuk. Hosszú id® elteltével hogyan oszlanak meg magasság szerint a különböz®
-halmazállapotok az edényben?
+halmazállapotok az edényben?
      A nebulók különböz® könyvekben kutakodnak. Tóni szerint a jég úszik a vízen, a folyékony víznek tehát alul kell
 lennie. Réka szerint középen kell lennie a víznek, hiszen forró g®zzel érintkezik. Bea, miközben adatokat keres, felfedezi,
-hogy a gázok h®vezet®képessége néhány táblázatban  feltehet®en elírás folytán  nagyobbnak van feltüntetve a víz vagy
+hogy a gázok h®vezet®képessége néhány táblázatban   feltehet®en elírás folytán   nagyobbnak van feltüntetve a víz vagy
 a jég h®vezet® képességénél, más táblázatok és könyvek szerint azonban a gázok h®vezet® képessége sokszorosan kisebb.
 (Bea szerint is így logikus.)
      Segítsünk nekik megtalálni a helyes választ a feladat kérdésére!
@@ -41,13 +41,13 @@ tenek) a következ®:
                                                     ∆t        ∆x
 Itt Φ jelenti a h®áramot, vagyis az A keresztmetszeten a T h®mérséklet növekedésének irányában másodper enként
 áthaladó rendezetlen energiát. Minthogy ez az energia mindig a magasabb h®mérséklet¶ helyr®l halad az ala sonyabb
-h®mérséklet¶ hely felé, ezért negatív az arányossági tényez®. A fenti összefüggéssel deniált pozitív λ mennyiséget
+h®mérséklet¶ hely felé, ezért negatív az arányossági tényez®. A fenti összefüggéssel de niált pozitív λ mennyiséget
                                                                                J
 nevezik h®vezetési együtthatónak, ennek mértékegysége SI rendszerben              .
                                                                               mKs
-     A h®vezetési együttható jellemzi a h®vezet® képességet, ez az, ami néhány táblázatban  feltehet®en elírás foly-
-tán  hibásan szerepel. A helyes értékek (lásd például a Nemzeti Tankönyvkiadó Négyjegy¶ függvénytáblázatok,
-összefüggések és adatok 2005-ös 2., javított kiadásának 216., 214. és 212. oldalát) a következ®k:
+     A h®vezetési együttható jellemzi a h®vezet® képességet, ez az, ami néhány táblázatban   feltehet®en elírás foly-
+tán   hibásan szerepel. A helyes értékek (lásd például a Nemzeti Tankönyvkiadó  Négyjegy¶ függvénytáblázatok,
+összefüggések és adatok  2005-ös 2., javított kiadásának 216., 214. és 212. oldalát) a következ®k:
 
                                                                                     J
                                       vízg®zre (18
@@ -80,7 +80,7 @@ rossz h®vezetésén alapul.)
 réteg helyezkedik el, vagyis a két réteg közös határának h®mérséklete sokkal közelebb van a h®vezet® réteg alsó
 h®mérsékletéhez, mint a h®szigetel® réteg fels® h®mérsékletéhez. Jelen esetben, a h®vezetési tényez®k konkrét adatait
                    ◦
-gyelembe véve −6    C körüli h®mérséklet alakul ki a két réteg határán.
+ gyelembe véve −6    C körüli h®mérséklet alakul ki a két réteg határán.
                                 ◦                ◦
    Van olyan víz, ami alul −10 C-os, felül −6 C-os? A víz túlh¶thet®, az igaz, de a túlh¶tött vízben aligha ma-
 radhat fenn ilyen h®mérsékletkülönbség, mert ez bels® áramlást indít, s e túlh¶tött víz pillanatok alatt kifagy: ilyen
@@ -91,13 +91,15 @@ leveg® és egy kevés vízg®z keveréke, víz pedig egyáltalán nem lesz a he
 −9    C körül stabilizálódik.
    Van ilyen ala sony h®mérséklet¶ vízg®z? Van. Tekintsük a H2 O (p, T ) diagramját! Az 1. ábrán feltüntettük azt
                                                                                                                 5
-az A állapotot, amely a jégg®z határfelületén alakul ki. A telített vízg®z nyomása itt mintegy 300 Pa, ami a 10 Pa
+az A állapotot, amely a jég g®z határfelületén alakul ki. A telített vízg®z nyomása itt mintegy 300 Pa, ami a 10 Pa
 körüli nyomású leveg®höz képest nagyon ki si, ezért lesz olyan kevés vízg®z a jég fölötti leveg®ben. (H -val a H2 O
 hármaspontját jelöltük. Az ábra nem méretarányos.)
-                                                                  1. ábra
 
 
-   2. Egy bolygóközi pályán mozgó ¶rszonda, pályájának bizonyos részén, egy ott elhelyezked® kozmikus porfelh®n
+                                                                  1. ábra
+
+
+   2. Egy bolygóközi pályán mozgó ¶rszonda, pályájának bizonyos részén, egy ott elhelyezked® kozmikus  porfelh®n
 haladt át. Mindazon porszem sék, amelyeknek nekiütközött, ráragadtak a szondára. Mire a szonda kiért a porfelh®b®l,
 tömege 2%-kal megn®tt.
    Hány százalékkal n®tt meg a porfelh®n való áthaladás ideje ahhoz képest, amennyi id® alatt a porfelh® fékez® hatása
@@ -141,7 +143,7 @@ id® a számtani középb®l számolható:
 
 
                                                                                              ̺A l2
-                                                                           X
+                                                                             X
                                        X          1       1    m0 + ̺A l                 l
                                T =         ∆t =              +                   ∆x =      +         .
                                                   2       v0     m0 v0                  v0   m0 v0 2
@@ -152,7 +154,9 @@ Ezt a kifejezést kissé átalakíthatjuk:
                                        T =      +         =    +        = (1 + 0,01),
                                              v0   m0 v0 2   v0    v0 2   v0
                                        T = 1,01 T0.
-   Most kapott eredményünk szerint az áthaladási id® 1%-kal lett nagyobb. Általánosítva azt mondhatjuk, hogy ha
+
+
+   Most kapott eredményünk szerint az áthaladási id® 1%-kal lett nagyobb. Általánosítva azt mondhatjuk, hogy ha
 a szonda tömege p%-kal megn®tt, akkor az áthaladási id® p/2 %-kal lett nagyobb, függetlenül attól, hogy p értéke
 mekkora. Csak az a gondolatmenet fogadható el e feladat teljes érték¶ megoldásának, amib®l ez is következik; más
 megfontolások (melyek p ki siny értékénél numerikusan jó eredményt szolgáltatnak, de általánosságban nem m¶ködnek)
@@ -174,12 +178,12 @@ az alaptörvénye, amely merev testeknek rögzített tengely körüli forgásár
 
 vagyis a test Θ tehetetlenségi nyomatékának és β szöggyorsulásának szorzata a testre ható er®k forgatónyomatékainak
 összegével egyenl®.
-   A feladat szempontjából lényegtelen, hogy a lapos teker s hány menetes, ezért a továbbiakban azt egy keretnek
+   A feladat szempontjából lényegtelen, hogy a  lapos teker s  hány menetes, ezért a továbbiakban azt egy keretnek
 (1 menetes teker snek) tekintjük (3. ábra ). Az ábrán felrajzoltuk azokat az er®ket, amelyek akkor hatnak a keretre,
 amikor az már α szögben kilendült eredeti függ®leges helyzetéb®l. Az oldalakra ható mg nehézségi er® tovább akarja
 forgatni a keretet, a fels® oldalra ható BIl er® vízszintes irányú (a többi oldalon ható mágneses er®knek nin s for-
 gatónyomatéka, így ezekkel nem kell tör®dnünk). Mivel a keretben folyó áram az elektromágneses induk ió miatt lép
-fel, ezért  Lenz törvénye szerint  a fels® oldalon ható er® visszafelé akarja forgatni a keretet. A hozzá tartozó er®kar
+fel, ezért   Lenz törvénye szerint   a fels® oldalon ható er® visszafelé akarja forgatni a keretet. A hozzá tartozó er®kar
 l cos α nagyságú, tehát:
                                                           l
                                       Θβ = mgl sin α + 2mg sin α − BIl · l cos α.
@@ -204,17 +208,19 @@ A másik ok az, hogy az L induktivitású teker sben változik az áram, ezért 
                                                                  ∆I
                                                        U2 = −L      .
                                                                  ∆t
-A kett® el®jeles összege adja IR-et a lassan változó áramokra is igaz Kir hho-féle huroktörvény szerint. Mivel a
+A kett® el®jeles összege adja IR-et a lassan változó áramokra is igaz Kir hho -féle huroktörvény szerint. Mivel a
 teker s anyaga most szupravezet®, ezért R = 0, tehát
 
                                                      ∆s           ∆I
                                                 Bl      cos α − L    = 0.
                                                      ∆t           ∆t
 Ha ebb®l akarjuk I -t kifejezni, akkor (∆s    = l∆α behelyettesítése után) integrálnunk kell az egyenletet. Ennek a
-matematikai m¶veletnek a megkerülésével is eljuthatunk azonban a helyes összefüggéshez, ha azt vesszük gyelembe,
-                     2
-hogy a keret A = l       nagyságú keresztmetszetén áthaladó teljes uxus (amely a küls® mágneses tért®l származó uxus
-és az öninduk iós uxus összege) állandó kell maradjon:
+matematikai m¶veletnek a megkerülésével is eljuthatunk azonban a helyes összefüggéshez, ha azt vesszük  gyelembe,
+
+
+                     2
+hogy a keret A = l       nagyságú keresztmetszetén áthaladó teljes  uxus (amely a küls® mágneses tért®l származó  uxus
+és az öninduk iós  uxus összege) állandó kell maradjon:
 
 
                                                  BA sin α − LI = állandó.
@@ -225,7 +231,7 @@ I -t:
                                                          I=       · sin α.
                                                                L
 B , l és L adott állandók, I tehát sin α-val arányos mennyiség. Erre a felismerésre még szükségünk lesz, de miel®tt
-diszkutálni kezdjük a feladatot, gondoljuk át, milyen zikai törvényt, összefüggést használhatunk még fel a megoldás
+diszkutálni kezdjük a feladatot, gondoljuk át, milyen  zikai törvényt, összefüggést használhatunk még fel a megoldás
 során!
     Szükségünk lehet energetikai meggondolásra. Írjuk fel a munkatételt (a kinetikai energia tételét)! Eszerint
 
@@ -237,7 +243,7 @@ vagyis
                                Θω 2 − Θω02 = mgl(1 − cos α) + 2mg (1 − cos α) − LI 2 .
                              2       2                            2              2
 (A jobb oldalon az utolsó tag az öninduk ióból származó Uind. = −L · ∆I/∆t feszültség Uind. I∆t munkavégzését fejezi
-ki.) A fenti összefüggéshez energiatételként is eljuthatunk, amely szerint
+ki.) A fenti összefüggéshez  energiatételként  is eljuthatunk, amely szerint
 
                                       X                               X                   X
                                           E = állandó,    vagyis            Ekezdeti =        Eα ,
@@ -258,27 +264,27 @@ Behelyettesítve I kifejezését a dinamikai egyenletbe:
 
 
                                                          B 2 l4             B 2 l4
-                                                                                        
+
                                        Θβ = 2mglα −             α=−                − 2mgl α.
                                                           L                  L
                                                                                            2
 Látjuk, hogy a β szöggyorsulás az α szögkitéréssel arányosnak adódik. Tudjuk, hogy a β = −Ω α típusú összefüg-
 gés harmonikus rezgésre vezet, mégpedig olyanra, aminek Ω a körfrekven iája, vagyis a feltételezett esetben olyan
                                                                                           2π           5 2
-harmonikus rezg® lengésbe kezd a teker s, amelynek periódusideje T                  =      lesz. Θ =   ml behelyettesítése után
+harmonikus rezg®  lengésbe  kezd a teker s, amelynek periódusideje T                  =      lesz. Θ =   ml behelyettesítése után
                                                                                           Ω            3
 kapjuk:
                                                            s
                                                                        5
                                                   T = 2π            B 2 l2 g
-                                                                                 .
+                                                                                  .
                                                                3    mL − 2 l
 
 A kilendülés maximális szöge:
                                                                 v0   v0 T
                                                     αmax =         =      .
                                                                 Ωl   2πl
-    A periódusid®re kapott kifejezést gyelmesen megvizsgálva felvet®dik a kérdés: nem állhat ott a gyökjel alatt negatív
+    A periódusid®re kapott kifejezést  gyelmesen megvizsgálva felvet®dik a kérdés: nem állhat ott a gyökjel alatt negatív
                           2 2
                            B l       g
 szám? Mi van akkor, ha           < 2 ? Elég gyenge mágneses tér, ki siny B esetén ez bizonyára el®fordulhat! Visszatérve
@@ -297,7 +303,9 @@ energia. (Persze még kisugárzódhat, ez további meggondolásokat igényel . .
                                           1       1                        1
                                             Θω 2 = Θω02 + 2mgl(1 − cos α) − LI 2 .
                                           2       2                        2
-Keressük a megálláshoz, ω = 0-hoz tartozó α szöget:
+
+
+Keressük a megálláshoz, ω = 0-hoz tartozó α szöget:
 
                                                   1                         1
                                              0=     Θω02 + 2mgl(1 − cos α) − LI 2 .
@@ -334,14 +342,14 @@ Mindez, átfordítva a feladat paramétereire, a következ® feltételekhez veze
                                                         B 2 l2   g
                                                                ≥2 ,
                                                         mL        l
-                                                          r        22       
+                                                          r         22
                                                         1 3         B l    g
                                           v0 ≤ v0 max =        mL       −2     .
                                                         B 5         mL     L
 
 Ezek teljesülése esetén áll meg valahol a teker s. A megállási szög koszinuszára kapjuk:
 
-                                                              s       2
+                                                              s         2
                                                2mgL               2mgL      5mL 2
                                      cos αmax = 2 3 +           1− 2 3    −        v .
                                                 B l                B l      3B 2 l4 0
@@ -362,27 +370,29 @@ közösségi oldal listáján el lehetett érni.
       Bevezetésként a versenybizottság elnöke bemutatta Bártfai Pál 51 évvel ezel®tt kapott értesítését az akkori Eötvös-
 verseny megnyerésér®l, majd ismertette a 25 évvel ezel®tti verseny díjazottjait. Kiderült, hogy jelent®s részük ma
 külföldi egyetemeken, illetve kutatóintézetekben dolgozik, ezért nem lehettek itt. Az 50 évvel ezel®tti Eötvös-verseny
-díjazottjai viszont majdnem mind el tudtak jönni. k azok, akik kalandvágyból itthon maradtak  jegyezte meg valaki,
+díjazottjai viszont majdnem mind el tudtak jönni.  k azok, akik kalandvágyból itthon maradtak   jegyezte meg valaki,
 amikor kiderült, hogy 1956. október 20-án volt az akkori verseny. Egy héttel kés®bb lett volna a Kürs hák-verseny,
 az már elmaradt. Mint ahogy elmaradt az Eötvös-verseny akkori ünnepélyes eredményhirdetése is. Ezt pótlandó,
 kaptak most, Gyulai Zoltán és Vermes Miklós aláírásával, a Társulat és a Versenybizottság mai elnöke által hitelesített
 okleveleket.
       A résztvev®k derültsége kísérte Patkós Andrásnak, a Társulat mai elnökének bejelentését, amikor szólította Csiszár
-Imrét, a budapesti Pet® Gimnázium érettségizett tanulóját, hogy vegye át az 1956-os Eötvös-verseny megnyerését
+Imrét, a budapesti Pet®  Gimnázium érettségizett tanulóját, hogy vegye át az 1956-os Eötvös-verseny megnyerését
 tanusító oklevelet. Nagy taps kísérte, amikor a két akadémikus kezet fogott egymással. A jelenetet a Magyar Televízió
 forgató soportja is megörökítette. A második díjas Rázga Tamás, akkori villamosmérnök hallgató és a harmadik
-Geszti Tamás, akkori zikus hallgató is átvehette oklevelét, és mindhárman felidézték emlékeiket az 50 évvel ezel®tti
-eseményekr®l. S®t, miután kivetítve látták az akkori feladatokat, Geszti Tamásnak még az is eszébe jutott, ahogy
+Geszti Tamás, akkori  zikus hallgató is átvehette oklevelét, és mindhárman felidézték emlékeiket az 50 évvel ezel®tti
+
+
+eseményekr®l. S®t, miután kivetítve látták az akkori feladatokat, Geszti Tamásnak még az is eszébe jutott, ahogy
 otthon rájött az egyik feladat egyszer¶ megoldására. A verseny után, persze.
       Ekkor már mindenki türelmetlenül várta az idei feladatok megoldását, s a verseny eredményének kihirdetését, az
 ünnepélyes díjkiosztást. A feladatok megoldását a Versenybizottság elnöke ismertette, a díjakat a Társulat elnöke adta
 át.
-      A 2006. évi Eötvös-verseny els® díját kapta a vele járó Eötvös-verseny éremmel Halász Gábor, az ELTE zika
+      A 2006. évi Eötvös-verseny els® díját kapta a vele járó Eötvös-verseny éremmel Halász Gábor, az ELTE  zika
 szakos hallgatója, aki az ELTE Radnóti Miklós Gyakorló Gimnáziumában érettségizett Honyek Gyula tanítványaként.
       Második díjat kapott Kon zer József, aki a szlovákiai Révkomáromban m¶köd® magyar tannyelv¶ Selye János
 Gimnázium utolsó éves tanulója, Hevesi Anikó és Szabó Endre tanítványa; Kónya Gábor, a Fazekas Mihály F®városi
 Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítványa; Meszéna Balázs, ugyan sak a Fazekas Mihály
-F®városi Gyakorló Gimnázium 12. évf. tanulója, Taká s Lajos tanítványa, és Szé henyi Gábor, az ELTE zika szakos
+F®városi Gyakorló Gimnázium 12. évf. tanulója, Taká s Lajos tanítványa, és Szé henyi Gábor, az ELTE  zika szakos
 hallgatója, aki a szolnoki Verseghy Feren    Gimnáziumban érettségizett Pé si István tanítványaként.
       Harmadik díjat kapott Hasznos László, a szolnoki Varga Katalin Gimnázium 12. évf. tanulója, Balogh Béla
 tanítványa; K®rösi Márton, a békés sabai Szent-Györgyi Albert Gimnázium 12. évf. tanulója, Varga István tanítvá-
@@ -403,13 +413,13 @@ III. díjjal 10 000, a di séretekkel 8000 forint értékben. Ezeket részben az
 nyozók (Gutai László professzor, USA; Indotek Zrt., Budapest) biztosították. A díjazott és di séretet nyert diákok
 tanárai a Typotex, a Vin e, az Akkord és a Nemzeti Tankönyvkiadó által felajánlott könyvekb®l válogathattak. Utána
 a Versenybizottság elnöke ismertette azokat a válaszokat, melyeket az elmúlt húsz évben az Eötvös-versenyen díjazott
-versenyz®k adtak az alábbi körkérdésre: Érdemes ma zikusnak, matematikusnak, mérnöknek, tanárnak készülni az
-egyetemen? A válaszok általában pozitívak voltak, ezeket egészítette ki Geerth András szóban, a helyszínen. A BME
+versenyz®k adtak az alábbi körkérdésre:  Érdemes ma  zikusnak, matematikusnak, mérnöknek, tanárnak készülni az
+egyetemen?  A válaszok általában pozitívak voltak, ezeket egészítette ki Ge erth András szóban, a helyszínen. A BME
 oktatója elmondta, hogy épp most készül állást változtatni, pénzügyi területen próbálja ki képességeit, itt szeretné
 hasznosítani a M¶egyetemen szerzett tudását.
       A régi és mai Eötvös-verseny nyertesek végül közös fényképezésen vettek részt. Diákok és tanárok vidám beszél-
 getéssel oldották a még meglév® feszültséget, ismerkedtek egymással, ki serélték élményeiket. Mindehhez a Ramasoft
-Zrt. biztosított üdít®t, pogá sát, nom szendvi seket.
-      Általános volt a vélemény, hogy kellemes három órát töltött együtt a zikát szeret®k társasága. Néhány nap múlva
-az MTV Válaszd a tudást! m¶sora tíz per es adásban számolt be az eseményr®l, melyért Montskó Éva és Gyenes
+Zrt. biztosított üdít®t, pogá sát,  nom szendvi seket.
+      Általános volt a vélemény, hogy kellemes három órát töltött együtt a  zikát szeret®k társasága. Néhány nap múlva
+az MTV  Válaszd a tudást!  m¶sora tíz per es adásban számolt be az eseményr®l, melyért Montskó Éva és Gyenes
 Károly szerkeszt®ket illeti köszönet.

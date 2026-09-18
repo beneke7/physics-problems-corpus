@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202503"
 verification_status: pending
 ---
 
-Measure the emf and the internal resistance of an AA battery. How do these values change during the discharge of the battery? 
+Measure the emf and the internal resistance of an AA battery. How do these values change during the discharge of the battery?
  (6 pont)

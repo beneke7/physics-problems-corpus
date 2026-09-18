@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-In a sports hall, handball players practice starting by running parallel to the wall of the room to catch a ball thrown against the wall. One of the players runs 3 meters from the wall at a constant speed of 5 m/s. At least at what speed with respect to the hall does he or she have to throw the ball in order to catch it at the height of the throw? Consider the collision of the ball with the wall to be perfectly elastic. 
+In a sports hall, handball players practice starting by running parallel to the wall of the room to catch a ball thrown against the wall. One of the players runs 3 meters from the wall at a constant speed of 5 m/s. At least at what speed with respect to the hall does he or she have to throw the ball in order to catch it at the height of the throw? Consider the collision of the ball with the wall to be perfectly elastic.
  (5 pont)

@@ -36,7 +36,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           length while maintaining a constant shape, if its speed satisfies v = T /µ.
 
                                                         2
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
 In the popular “string shooter” toy, a loop of string is shot through spinning wheels with high speed
 v. As a result, the string seems to levitate in the air while maintaining a constant shape. This is
@@ -72,7 +74,9 @@ moves in the clockwise direction.
    a sinusoidal wave we would have y(x, t) = y0 ei(kx−ωt) .
 
                                                   3
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
        Remark
        Physicists almost universally use k and ω rather than λ, f , and T . A nice way of thinking of

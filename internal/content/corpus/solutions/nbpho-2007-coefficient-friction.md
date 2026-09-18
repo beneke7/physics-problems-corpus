@@ -37,12 +37,12 @@ for the brick:
 mg
 µ + 1
 sinβ + Mg sinβ = µ2g
-
+
 M cosβ +
 µm
 µ + 1
 sinβ
-
+
 .
 This equation can be simplified to
 m

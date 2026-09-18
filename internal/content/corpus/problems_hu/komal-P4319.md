@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4319. Szappanhártya-kísérletben az L  hosszúságú, eredetileg félkör alakú fonalat a közepén ható F  nagyságú erővel lehet két félkörré deformálni. Számítsuk ki a felületi feszültséget!
 
-![figure](../../raw_html/komal_figures/komal-P4319-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4319-fig1.gif)

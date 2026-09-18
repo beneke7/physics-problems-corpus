@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction, extremization]
 ---
 
-Improperly positioned loads can tip over the fork-lift trunk. Therefore a so-called load capacity chart is attached to the truck (see the figure ). Using the chart determine the horizontal distance from the heel of the fork to the axle of the front wheel of the truck, and the horizontal distance between the heel of the fork and the centre of mass of the truck of mass 1200 kg. 
+Improperly positioned loads can tip over the fork-lift trunk. Therefore a so-called load capacity chart is attached to the truck (see the figure ). Using the chart determine the horizontal distance from the heel of the fork to the axle of the front wheel of the truck, and the horizontal distance between the heel of the fork and the centre of mass of the truck of mass 1200 kg.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G739-fig1.gif)
+![figure](../../figures/komal/figures/komal-G739-fig1.gif)

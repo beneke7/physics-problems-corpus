@@ -19,4 +19,4 @@ verification_status: pending
 
 Estimate the resolving power of a Fabri-Perot interferometer as a spectral filter, and find its spectral transmittance as a function of wavelength. This interferometer consists of two semi-transparent and semi-reflecting parallel surfaces with a very high reflectivity $R$ (this gives the fraction of light energy which is reflected - as compared with the incident beam's energy), which are separated by a distance $a$.
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr7-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr7-fig1.jpg)

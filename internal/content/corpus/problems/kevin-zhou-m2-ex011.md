@@ -44,16 +44,16 @@ There are many ways to solve this problem, but I’ll give one that reliably wor
    the j th spring is displaced downward by a distance
                                           N
                                                                    j2
-                                                                        
+
                                           X           mg
                                   ∆yj =         ∆Li =            1− 2
                                                       2k           N
                                           i=j
 
    downward from its position in the absence of gravity. The center of mass displacement is
-                         N         N            Z N
+                         N         N             Z N
                                          j2
-                                            
+
                        1 X       1 X           1                    2
                 ∆ycm =     ∆yj ∝       1− 2 = 3      N 2 − j 2 dj =
                        N         N       N    N 0                   3
@@ -66,7 +66,9 @@ There are many ways to solve this problem, but I’ll give one that reliably wor
 
 
                                                     17
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 

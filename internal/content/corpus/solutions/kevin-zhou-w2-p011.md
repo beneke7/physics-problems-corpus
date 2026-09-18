@@ -193,22 +193,22 @@ r′
 1 =
 λD
 d
-
+
 1,−
 1
 √
 3
-
+
 , r′
 2 =
 λD
 d
-
+
 0,
 2
 √
 3
-
+
 .
 In otherwords, the diffraction maxima also form a triangulargrid, but the side lengthis (2/
 √

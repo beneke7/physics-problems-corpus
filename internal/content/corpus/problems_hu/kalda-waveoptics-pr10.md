@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy vastag üveglemezt vékony, átlátszó filmmel vonunk be. A rendszer áteresztési spektrumát a grafikon mutatja (a fény merőlegesen esik a lemezre). A film törésmutatója $n\approx1.3$. Mekkora a film $d$ vastagsága?
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr10-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr10-fig1.jpg)

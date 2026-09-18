@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A hemisphere of mass  M and of radius  R can slide on the horizontal tabletop without friction. A small object of mass m slides down from the top of the hemisphere without friction. 
+A hemisphere of mass  M and of radius  R can slide on the horizontal tabletop without friction. A small object of mass m slides down from the top of the hemisphere without friction.
 
- a ) To what speed will the hemisphere be accelerated? 
- b ) With what speed and where will the small object reach the table? 
+ a ) To what speed will the hemisphere be accelerated?
+ b ) With what speed and where will the small object reach the table?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3992-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3992-fig1.gif)

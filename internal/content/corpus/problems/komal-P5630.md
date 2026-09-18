@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A gas mixture contains 7 g nitrogen and 20 g argon. What is the specific heat of the gas mixture at constant volume and constant pressure? 
+A gas mixture contains 7 g nitrogen and 20 g argon. What is the specific heat of the gas mixture at constant volume and constant pressure?
  (4 pont)

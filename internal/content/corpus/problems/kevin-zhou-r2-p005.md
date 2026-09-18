@@ -23,5 +23,5 @@ provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overla
 solution_language: en
 ---
 
-01W
+01W
     frequency of ω. What was the photon’s angular frequency in the rest frame of the decaying particle?

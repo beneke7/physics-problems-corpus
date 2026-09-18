@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200802"
 verification_status: pending
 ---
 
-A ball of weight 2 N can be kept under the water with a force of 8 N. What percent of the volume of the ball is not in the water when the ball is floating on the surface of water? 
+A ball of weight 2 N can be kept under the water with a force of 8 N. What percent of the volume of the ball is not in the water when the ball is floating on the surface of water?
  (3 pont)

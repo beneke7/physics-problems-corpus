@@ -28,9 +28,9 @@ Egy idő után a mozgó gyöngyökből álló „lökéshullám” jobbra fog te
           felgyorsított gyöngy átlagos sebessége?
 
 
-                     01^
+                     01^
     Ha nehéz elképzelni a jelenséget, próbáljuk meg felrajzolni valamennyi tömeg x(t) időbeli helyzetét.
 
 
 
-                     01m
+                     01m

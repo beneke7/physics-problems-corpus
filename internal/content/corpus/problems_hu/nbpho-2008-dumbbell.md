@@ -27,7 +27,7 @@ nyugszik (minden súrlódási erő elhanyagolható). Egy harmadik, a súlyzó k�
 azonos golyó koaxiálisan, balról $v$ sebességgel közeledik a súlyzóhoz (lásd az
 ábrát). Egy negyedik, azonos golyó koaxiálisan a súlyzótól jobbra nyugszik.
 
-![ábra](../../sources/nbpho/figures/nbpho-2008-dumbbell-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2008-dumbbell-fig1.png)
 
 1) Határozd meg a súlyzó tömegközéppontjának sebességét, miután a balról érkező golyó
 nekiütközött.

@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201512"
 verification_status: flagged
 ---
 
-A wedge of mass $m_1$, and a cube of mass $m_2$ on the horizontal face of the wedge are sliding down along an inclined plane of angle of elevation of $\alpha=30^\circ$ at the same acceleration. The coefficient of friction between the wedge and the inclined plane is 0.1. 
- What is the minimum value of the frictional coefficient between the wedge and the cube, if the cube does not slip on the wedge? 
+A wedge of mass $m_1$, and a cube of mass $m_2$ on the horizontal face of the wedge are sliding down along an inclined plane of angle of elevation of $\alpha=30^\circ$ at the same acceleration. The coefficient of friction between the wedge and the inclined plane is 0.1.
+ What is the minimum value of the frictional coefficient between the wedge and the cube, if the cube does not slip on the wedge?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4783-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4783-fig1.gif)

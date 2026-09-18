@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-In two – seemingly alike – electric kettles the heating wire is bent into the shape of a regular hexagon. In one of the kettles the heating element was connected as shown in figure  $a)$, whilst in the other the heating element was connected as shown in figure  $b)$. In which kettle will the water start to boil sooner? 
+In two – seemingly alike – electric kettles the heating wire is bent into the shape of a regular hexagon. In one of the kettles the heating element was connected as shown in figure  $a)$, whilst in the other the heating element was connected as shown in figure  $b)$. In which kettle will the water start to boil sooner?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G647-fig1.gif)
+![figure](../../figures/komal/figures/komal-G647-fig1.gif)

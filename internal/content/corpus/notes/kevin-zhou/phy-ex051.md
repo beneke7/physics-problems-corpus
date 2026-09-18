@@ -25,7 +25,7 @@ Example. Potential flow past a sphere. Consider an asymptotically uniform flow w
 which encounters a sphere of radius r at the origin. Using standard techniques for solving Laplace’s
 equation, the solution is
                                                           a3
-                                                            
+
                                      Ψ = U r cos θ 1 + 3
                                                          2r
 where θ is the angle from ẑ. By Bernoulli’s theorem, the change in pressure is ∆p = ρ0 v 2 /2, and a
@@ -35,7 +35,6 @@ straightforward computation gives
                                       ∆p = ρ0 U 2
                                           2            4
 on the surface of the sphere. The net force on the sphere vanishes; there is no drag force.
-112 4. Continuum Mechanics
 
 
 Note. D’Alembert’s paradox is the fact that the drag force generally vanishes in steady potential
@@ -95,7 +94,6 @@ which vanishes if the tensor is Lie transported along the velocity field. For a 
                                    D̃u   ∂u
                                        =    + (v · ∇)u − (u · ∇)v.
                                    D̃t   ∂t
-113 4. Continuum Mechanics
 
 
 Starting from the equation of motion for the vorticity and using the product rule for the curl, we can
@@ -147,7 +145,6 @@ finite, so we must begin with a treatment of sound waves.
                                                   ρ0        µ
 
       where µ is the molar mass. The isothermal sound velocity is recovered for γ = 1.
-114 4. Continuum Mechanics
 
 
  • If we let the density variation be
@@ -204,7 +201,6 @@ Next, we consider steady compressible flow.
                                         w = cp T,     cp =
                                                              γ−1 µ
     where µ is the molar mass.
-115 4. Continuum Mechanics
 
 
   • In general, an object moving through an ideal fluid has a stagnation point in front of it, where
@@ -222,7 +218,7 @@ Next, we consider steady compressible flow.
                                              T       2
     where M is the Mach number of the flow at the initial point. Assuming the flow is isentropic,
     p ∝ ργ , which implies
-                                 γ/(γ−1)               1/(γ−1)
+                                   γ/(γ−1)                 1/(γ−1)
                            p       T              ρ        T
                               =               ,      =               .
                            p0     T0              ρ0      T0
@@ -236,7 +232,7 @@ Next, we consider steady compressible flow.
                                             T0    γ−1
     which can be combined with our previous result to yield the local temperature in terms of the
     sonic point temperature,
-                                                            −1
+                                                              −1
                                  T           γ−1      2
                                     = 1+           (M − 1)        .
                                  T1          γ+1

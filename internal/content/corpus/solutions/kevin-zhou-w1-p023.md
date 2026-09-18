@@ -49,7 +49,7 @@ eikL
 1 + α2
 + α4
 + ...
-
+
 =
 t2eikL
 1 − r2e2ikL
@@ -59,7 +59,7 @@ eikL
 α + α3
 + α5
 + ...
-
+
 = r +
 rt2e2ikL
 1 − r2e2ikL
@@ -113,7 +113,7 @@ eikL
 − |r|) + (|r|5
 − |r|3
 ) + ...
-
+
 .
 So for the first ∆t, the reflected amplitude has magnitude |r|, and for the next ∆t, it has
 magnitude |r|3, and so on. Then we have
@@ -131,7 +131,7 @@ PL
 where we used |t| ≪ 1.
 (f) Every time ∆t, the reflected pulse weakens by a factor of |r|4, where 1 − |r|4 ≈ 2|t|2. Then
 the timescale of decay is roughly T ∼ ∆t/|t|2 ∼ L/(|t|2c).
-[3] Problem 24.  W 1 0USAPhO 2004, problem A3.
+[3] Problem 24.   W 1 0USAPhO 2004, problem A3.
 [3] Problem 25 (Kalda). In fiber optics, devices called equal ratio splitters are often used; these are
 devices where two optical fibers are brought into such a contact so that if an electromagnetic wave
 is propagating in one fiber, it splits into two equal amplitude waves traveling in each of the fibers.

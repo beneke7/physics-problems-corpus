@@ -40,17 +40,17 @@ plus the bound charge, indeed generates the claimed electric field.
 The divergence of P is zero everywhere besides the origin, where negative bound charge piles
 up to cancel some of the charge q. The charge at the origin is thus
 q − qb = q
-
+
 1 −
 χe
 κ
-
+
 = q
-
+
 1 −
 κ − 1
 κ
-
+
 =
 q
 κ

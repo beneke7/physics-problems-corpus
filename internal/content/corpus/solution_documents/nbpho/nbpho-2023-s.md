@@ -95,7 +95,9 @@ sion for vs and simplifying gives               directional components of the ac
                      √                          at θ and π − θ cancel pairwise out. The pro‐                                  1                                                 µmgωr2
               vhit = v02 − 2µgs.                jection of the friction force acting on our arc               Ff′ x ≈ Ff′ (1 − δ 2 cos2 θ).                             τ =−           .
                                                                                                                               2                                                   2vs
-   The second way is to write                   Ff x . Thus, the sliding speed vs has the same   • Correctly solving for d (0.3 pts)              Since we know the final pressure p2 , we can
+
+
+   The second way is to write                   Ff x . Thus, the sliding speed vs has the same   • Correctly solving for d (0.3 pts)              Since we know the final pressure p2 , we can
                                                 time dependenca as in part i). The equation      • Correct answer d = 1.5 mm (0.3 pts)            simply read the corresponding temperature
       τ ′ = Ff′ r sin (θ − φ)                   above can then be separated as                   ii) (1.5 points) The sphere will explode when    of the diagram:
         = Ff′ r(sin θ cos φ − cos θ sin φ)          ∫ ωhit          ∫ thit                       the pressure difference p2 − pa is such that          p2 = 1.1 · 106 Pa =⇒ T2 = 106 K.
@@ -171,7 +173,9 @@ where the moment of inertia is I ≈ 2 mR . As Grading:
 the correction to Ff x is only of second order • Archimedes’ principle (0.3 pts)            changes, as we have in our problem, then so plastic. The average temperature of nitrogen
 in δ, to the first, leading order approxima‐ • Correct volumes of liquid nitrogen, plastic, does the boiling point, following exactly the is Tn = (T1 + T2 )/2 = 91.7 K, and the av‐
 tion, we may neglect the effect of rotation on   and displaced water (0.6 pts)              phase transition line on the phase diagram. erage temperature difference between water
-and nitrogen is Tw − Tn = 201.5 K. The heat           In the figure, we find the centre of cir‐            The planet’s mass can be inferred from      • Finding aB (0.5 pts)
+
+
+and nitrogen is Tw − Tn = 201.5 K. The heat           In the figure, we find the centre of cir‐            The planet’s mass can be inferred from      • Finding aB (0.5 pts)
 flux through the plastic is                       cular motion of the star from the centre of           the property that planet and star rotate       • Finding mB (0.5 pts)
                                                   the envelope (by for example using a ruler            around their common centre of mass:            iv) (2 points) The equations describing the
                         Tw − Tn                   to find the diameter and then the centre‐             M xA = mA aA . Hence,
@@ -256,7 +260,9 @@ the sum of two circular motions with radius’ is                               
 xA and xB with different angular frequencies                       4π 2 a3A                             with bigger orbits.                             • Finding mA (0.4 pts)
 ωA and ωB .                                                M   =             = 4.4 × 1030 kg.           Grading:                                        • Finding mB (0.5 pts)
                                                                     GTA2
-                                                  34.5 s.                                                                                obtain long enough relaxation times with an       parallel — excluded by (I); (b) all in series —
+
+
+                                                  34.5 s.                                                                                obtain long enough relaxation times with an       parallel — excluded by (I); (b) all in series —
                                                   8
                                                                                                                                          inductor. Indeed, already the internal res‐       excluded by (II); (c) three elements in paral‐
                                                                                                                                          istance of the ammeter is around a hundred        lel, all together in series with the fourth ele‐
@@ -331,7 +337,9 @@ discard the rightmost data points as there,       principle, one should consider
 the voltage changes are small, so the relat‐      tion where there is an inductor instead of                                             hence, the voltage would remain constant.
 ive errors are big), As a result we obtain τ1 =   the capacitor; however, it can be excluded
                                                   by various ways. First, it is not realistic to                                             Topologically, there are options (a) all in
-                                                  remains unchanged, Ui = ER1 /(R1 + R2 ), so            after the recharging has begun; either
+
+
+                                                  remains unchanged, Ui = ER1 /(R1 + R2 ), so            after the recharging has begun; either
                                                   we can again check if everything fits: we ob‐          resistance of one of the resistors can be
                                                   tained R1 /(R1 + R2 ) = 0.347, and Ui /E =             found or the equation for both resistors
                                                   0.340; this is a fit within the uncertainties.         can be written (1 pts)
@@ -387,7 +395,9 @@ asymptotic ammeter reading is If = E/(R1 +             resistances or resistance
 R2 ) = 339 μA; based on that we can calculate       – Otherwise, when the capacitor is dis‐
 R1 = E/I0 = 3.23 kΩ and R2 = (If /E − R1 =             charged RC = 0 in the first moments
 6.08 kΩ. The expression for the initial voltage
-NORDıC‐BALTıC PHYſıCſ OLYMPıAD 2023              Grading:                                             • Correct total resistance of the Wheatstone        so that
+
+
+NORDıC‐BALTıC PHYſıCſ OLYMPıAD 2023              Grading:                                             • Correct total resistance of the Wheatstone        so that
                                                                                                         circuit (0.5 pts)                                                  √           √
                                                  • Correct moment equation EI/r = F L/2 at                                                                          ω2 =    |ÿ/y| = ω1 1 + cos θ.
 5. FORCE ſENſOR (5 points) — Solution by            the center of the beam (0.6 pts)                  • Assumes that the resistance of the Volt‐
@@ -473,7 +483,9 @@ have                                                            F  =         .  
                        F Llh                                                                                          gy 1 + cos θ                                  T′ + T
                 ∆l =         .              Grading:                                                           ÿ = −                                      ω2 =                = ω1 1 + cos θ.
                         4EI                                                                                             r sin θ                                         mr
-                         √
+
+
+                         √
 (The result shows k ≤ 2, i.e. the assump‐                                                       Grading:                                             pass x′ = 0 at t = ∆t, and reach x′ = −L/2
 tion holds.) Grading:                                                                           • switching to the reference frame of the            at t = 2∆t. Therefore, t1 = 2∆t and the min‐
 • Force equation, either along y or full vector                                                    bottom‐most sheet (0.4 pts)                       imal distance between the paper pack and
@@ -563,7 +575,9 @@ eration of the pack drops from u/(gµ) to ertheless, conservation of energy stil
                                                                       =
                                                                              2
                                                                                 .            Now, from the form of x′ , it’s clear that it will      Grading:
-• Initially both charges move with the same    mass (it is nonlinear because the amplitude       i) (3 points) The focal length can be found by  • The result should be around R = 5.3 mm,
+
+
+• Initially both charges move with the same    mass (it is nonlinear because the amplitude       i) (3 points) The focal length can be found by  • The result should be around R = 5.3 mm,
   acceleration (0.2 pts)                       is not small). The speed of the ball at t = T     adjusting the height of the plate holder; ad‐      but should later give accurate α value.
 • When A escapes the field region A moves      can be found from the energy conservation         just the height so as to achieve a sharp im‐       (0.5 pts)
   with constant speed, B moves with higher     law. At t = 0, the speed is zero so that the      age of the ceiling lights at the screen (either • Correct idea for determining the water‐
@@ -651,7 +665,9 @@ there is a force of inertia equal to Fi = • Derivation of l (0.4 pts)         
 −ma1 = −qE/2. Hence, both balls perform                                                            the Lensmaker’s equation. Other methods          water. A < 13.5 cm2 (0.5 pts)
 non‐linear oscillations around the centre of 9. SURFACE TENſıON (10 points) — Solution             (for example using direct thickness meas‐ • Correct formula to determine thickness of
                                                  by Jaan Kalda, grading schemes by ....            urement) only gives max 0.3 pts. (0.5 pts)
-  the water layer. (0.5 pts)                       visibility.                                   dU /dt = 0, resulting in                      expression for total potential energy.
+
+
+  the water layer. (0.5 pts)                       visibility.                                   dU /dt = 0, resulting in                      expression for total potential energy.
 • The result should be around t = 1.57 mm.       iv) (2 points)Total potential energy of the wa‐                                               (0.4 pts)
   Give max points for t = 1.45 mm−1.70 mm.                                                                        ρgh2                       • Potention energy is shown in the expres‐
   (0.5 pts)                                      ter is U = σA(1 − cos α) + 2 V ρgt. If we plug

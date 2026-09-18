@@ -25,7 +25,7 @@ verification_status: pending
 
 现令圆筒绕其中心轴线非常缓慢地转动，使 A 逐渐升高。
 1．矩形物转过多大角度后，它开始与圆筒之间不再能保持相对静止？
-![](cpho-f-2006-q2-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2006-q2-fig01.png)
 答： $\_\_\_\_$（只要求写出数值，
 
 不要求写出推导过程）

@@ -9,6 +9,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ 37,6 N/m. 
- $b)$ 0,55 s. 
+ $a)$ 37,6 N/m.
+ $b)$ 0,55 s.
  $c)$ Kb. 43 cm.

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction, stability-analysis]
 ---
 
-Using an ideal battery with an electromotive force of $U_0=4~\mathrm{V}$, a load with a resistance of $R=0.5~\Omega$, a switch and two düristors (D), we construct the circuit shown in figure a . A düristor is a circuit element consisting of an ideal coil with inductance $L=1~\mathrm{H}$ and a non-linear resistor of resistance $r$, which are connected in series. The $U_r(I_\mathrm{D})$ characteristics of the resistor is shown in  figure b . a) In the stationary (that is, constant in time) case, what are the currents in the sub-branches? 
+Using an ideal battery with an electromotive force of $U_0=4~\mathrm{V}$, a load with a resistance of $R=0.5~\Omega$, a switch and two düristors (D), we construct the circuit shown in figure a . A düristor is a circuit element consisting of an ideal coil with inductance $L=1~\mathrm{H}$ and a non-linear resistor of resistance $r$, which are connected in series. The $U_r(I_\mathrm{D})$ characteristics of the resistor is shown in  figure b . a) In the stationary (that is, constant in time) case, what are the currents in the sub-branches?
 
  Hint: See problem
 
-![figure](../../raw_html/komal_figures/komal-P5615-fig1.png)
+![figure](../../figures/komal/figures/komal-P5615-fig1.png)

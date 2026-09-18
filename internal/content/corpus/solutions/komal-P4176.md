@@ -9,5 +9,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ 10 m/s, 
+ $a)$ 10 m/s,
  $b)$ 25 s.

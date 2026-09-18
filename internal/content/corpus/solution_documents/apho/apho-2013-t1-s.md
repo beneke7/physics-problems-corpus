@@ -72,7 +72,8 @@ Conductors in    !
                  !
                  !
                  !
-                                     Theoretical 1: Solution
+
+                                     Theoretical 1: Solution
                                      Conductors in Conducting Liquid
 
     We can rearrange eq.(5) in to:
@@ -118,7 +119,8 @@ Conductors in    !
 
 
 Conductors in Conducting Liquid                                                                          Page 2 of 6
-                                    Theoretical 1: Solution
+
+                                    Theoretical 1: Solution
                                     Conductors in Conducting Liquid
 
    Since the surface of the cylinder has to be the equipotential surface, so the potential should
@@ -174,7 +176,8 @@ Conductors in Conducting Liquid                                                 
 
 
 Conductors in Conducting Liquid                                                                         Page 3 of 6
-                                  Theoretical 1: Solution
+
+                                  Theoretical 1: Solution
                                  Conductors in Conducting Liquid
 
    Substituting this results in the potential equation, the potential outside the two cylinders are:
@@ -235,7 +238,8 @@ Conductors in Conducting Liquid                                                 
 
 
 Conductors in Conducting Liquid                                                         Page 4 of 6
-                                    Theoretical 1: Solution
+
+                                    Theoretical 1: Solution
                                     Conductors in Conducting Liquid
 
  8. Since the system has a high symmetry, we may use Ampere’s law. The magnetic field should
@@ -290,7 +294,8 @@ Conductors in Conducting Liquid                                                 
 
 
 Conductors in Conducting Liquid                                                        Page 5 of 6
-                                  Theoretical 1: Solution
+
+                                  Theoretical 1: Solution
                               Conductors in Conducting Liquid
 
    therefore

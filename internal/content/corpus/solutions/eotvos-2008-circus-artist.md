@@ -23,11 +23,11 @@ b) A rúd fele magasságánál az artista ki sit kibillen és a rúddal együtt 
 T periódusideje? (A rúd alsó vége nem tud elmozdulni, de a rúd szabadon elfordulhat az alsó végpontja körül.)
 (Balogh Péter)
 Megoldás. Azoknak a versenyz®knek sikerült jól megoldaniuk ezt a feladatot, akik elég bátrak voltak, és már
-kezdetben 
-gyelembe vették, hogy elegend® az artista ki siny kibillenését vizsgálni. k azután nem tévedtek el a
+kezdetben
+gyelembe vették, hogy elegend® az artista ki siny kibillenését vizsgálni.  k azután nem tévedtek el a
 tetsz®leges szögekre érvényes, bonyolult összefüggések erdejében.
 A 2. ábrán a hosszakat, a 3. ábrán az er®ket ábrázoltuk az α szöggel kibillent rúd esetében. Ekkor a kötélnek a
-függ®legessel bezárt szöge β. Ha 
+függ®legessel bezárt szöge β. Ha
 gyelembe vesszük, hogy ki siny szögekr®l van szó, jó közelítéssel írhatjuk:
 β ≈
 α
@@ -42,11 +42,11 @@ M1 = mg
 2
 sinα + mgxsinα ≈
 ≈ mg
-
+
 ℓ
 2
 + x
-
+
 α,
 a visszahúzó kötéler® forgatónyomatékának nagysága pedig
 M2 = Fℓsin(α + β) ≈ Fℓ(α + β) ≈ Fℓ
@@ -60,11 +60,11 @@ Fℓ
 3
 2
 α > mg
-
+
 ℓ
 2
 + x
-
+
 α.
 Ha eltekintünk a kötél ki siny, további megnyúlásától, F továbbra is jó közelítéssel mg nagyságú marad. (F ki siny
 megváltozását az ugyan sak ki siny α-val szorozva másodrend¶en ki siny tagot kapunk, amit elhanyagolunk.) Ezt
@@ -73,11 +73,11 @@ mgℓ
 3
 2
 α > mg
-
+
 ℓ
 2
 + x
-
+
 α,
 3
 2
@@ -88,7 +88,7 @@ mgℓ
 x < ℓ.
 Tehát az artista felmászhat egészen a rúd tetejéig, amíg sak x < ℓ teljesül. Ezzel válaszoltunk az a) kérdésre, most
 foglalkozzunk a b)-vel.
-Tekintsük a 4. ábrát, amelyen már 
+Tekintsük a 4. ábrát, amelyen már
 gyelembe vettük a β ≈
 α
 2
@@ -104,11 +104,11 @@ M = M2 − M1 = Fℓ
 ℓ
 2
 α = ℓα
-
+
 3
 2
 F − mg
-
+
 =
 =
 1
@@ -123,10 +123,10 @@ tehetetlenségi nyomatéka (a rúd legalsó pontjára vonatkoztatva):
 3
 mℓ2
 + m
-
+
 ℓ
 2
-2
+ 2
 =
 7
 12

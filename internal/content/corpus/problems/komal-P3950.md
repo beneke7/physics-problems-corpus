@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: flagged
 ---
 
-A sample of nitrogen gas was taken through the cyclic process shown in the figure. By what factor is the energy released by the gas in the isochoric process is greater than the work done by the gas in the isobaric process? 
+A sample of nitrogen gas was taken through the cyclic process shown in the figure. By what factor is the energy released by the gas in the isochoric process is greater than the work done by the gas in the isobaric process?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3950-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3950-fig1.gif)

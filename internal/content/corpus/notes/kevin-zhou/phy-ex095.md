@@ -51,7 +51,6 @@ to expect it to be. Another bad feature of this language is that it suggests tha
 suddenly jumps at some random time, while in reality the coefficient of |2⟩ smoothly goes up. That
 language is used because the perturbation series integrals involve H1 evaluated at particular times –
 but we smoothly integrate over all those possible times.
-259 11. Time Dependent Perturbation Theory
 
 
 Note. Parametric driving is more subtle than ordinary driving, because it is also resonant when

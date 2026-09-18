@@ -36,7 +36,7 @@ overwhelms the decrease in entropy from organizing photons only on one side of t
 Kevin Zhou Physics Olympiad Handouts
 for the blackbody radiation emitted by both sides of the isolator, so we don’t really have a
 functional isolator at all.)
-[4] Problem 13.  T 1 0IZhO 2021, problem 3. A problem on the propagation of light through a
+[4] Problem 13.   T 1 0IZhO 2021, problem 3. A problem on the propagation of light through a
 waveguide, unifying material from E7 and W1.
 3 Water Waves
 Water waves are the most familiar examples of waves in everyday life, but you won’t find them

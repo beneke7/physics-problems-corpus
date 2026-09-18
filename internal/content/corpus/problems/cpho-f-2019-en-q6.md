@@ -31,7 +31,7 @@ The following parameters are given: the radius of the Earth is 6370 km, the grav
     (3) We obtain the measurements $d=1$ inch and $L=8$ feet. ${ }^{3}$ Find the value of $\Phi$.
 2. On rare occasions (such as on 6 June 2012), Earth, Venus, and the Sun nearly lie on the same line (i.e. are collinear). If we observe the Sun at these times, Venus appears as a small black spot moving slowly across the solar disc. This is known as a transit of Venus, and a schematic is shown in Figure 6.1. The British astronomer Edmond Halley once suggested in 1716 that the angular diameter and the distance between the Sun and the Earth could be measured by collecting data from observations of the transit of Venus around the world at the same time. We are given that Earth and Venus orbit the Sun in the same direction with periods $T_{\oplus}=365.256$ days and $T_{\bar{q}}=224.701$ days respectively, that the inclination between the two orbital planes is small, and that Earth's rotation can be neglected.
     (a) Suppose that both Earth and Venus orbit the Sun in circular orbits. Find the ratio $r_{\mathrm{VE}}$ of the Sun-Venus distance $S_{\odot \ell}$ to the Sun-Earth distance $S_{\odot \oplus}$.
-[^1]![](cpho-f-2019-en-q6-fig01.png)
+[^1]![](../../figures/cpho-f/figures/cpho-f-2019-en-q6-fig01.png)
 Figure 6.1: Transit of Venus on 6 June 2012. Translation (in order from left to right): Ingress, exterior, 6:10:10; Ingress, interior, 6:27:51; Greatest transit; Egress, interior, 12:31:57; Egress, exterior, 12:49:31.
 
 (b) On 6 June 2012, the transit of Venus is observed somewhere on Earth, with the key phases of the transit marked on Figure 6.1. The shadow of Venus traces out a chord of the solar disc. Find the ratio between the length of this chord $D_{\mathrm{P}}$ and the Sun-Earth distance $S_{\odot \oplus}$. Find also the angular diameter $\Phi$ of the solar disc, given the distance $h_{\mathrm{P}}=5 D / 16$ of the chord from its centre.
@@ -42,7 +42,7 @@ Figure 6.1: Transit of Venus on 6 June 2012. Translation (in order from left to 
 (2) the ratio between the total energy consumption of all seven (7) billion people on Earth and the total solar energy, assuming that each person consumes the energy equivalent of three (3) metric tonnes of coal, and that 1 kg of coal produces 4 kWh of energy; ${ }^{4}$
 (3) the total energy emitted by the Sun per unit time; and
 (4) an estimate of the surface temperature of the Sun.
-[^2]![](cpho-f-2019-en-q6-fig02.png)
+[^2]![](../../figures/cpho-f/figures/cpho-f-2019-en-q6-fig02.png)
 Figure 6.2: A method measuring the Sun-Earth distance. Translation (left to right): Earth, Venus, Sun.
 
 4. (1) Obtain the solar mass and the average solar density.
@@ -67,7 +67,7 @@ In the above reactions, the positrons will be annihilated, while the neutrinos w
 (4) How much mass is lost by the Sun per unit time due to radiation?
 6. The probability $P$ of a fusion reaction is related to the plasma temperature $T$, and the probability also increases with the particle number density $n$. The relationship is given by $P=n R(T)$, where $R(T)$ is the rate of reaction. Figure 6.3 shows the relationship between the rate of reaction and the plasma temperature, for each of the three reactions given previously. The core is a spherical region whose boundary is concentric with the solar surface and whose radius is 1/4 the solar radius. Obtain an estimate for the lower limit of the solar core temperature.
 
-![](cpho-f-2019-en-q6-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2019-en-q6-fig03.png)
 Figure 6.3: A graph of the rate of reaction $R$ against the plasma temperature $T$.
 7. Obtain an estimate of the maximum possible energy a single neutrino can carry away. Hence, obtain an estimate for the maximum relative error of the energy consumption estimate in 5.1, due to neglecting the neutrino energy loss.
 8. We know from the previous tasks that the solar mass will decrease over time, which will affect the period and radius of Earth's orbit around the Sun. Obtain:

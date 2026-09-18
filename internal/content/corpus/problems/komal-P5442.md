@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-A nucleus, which was initially at rest, was accelerated though a potential difference of 20 kV, and then it enters into a uniform magnetic field of induction 1.0 T. The magnetic induction is perpendicular to the velocity of the nucleus. The magnetic field is separated from the force-free region by a plane perpendicular to the particle's direction of travel. The particle leaves the magnetic field after $3.3\cdot 10^{-8}~\mathrm{s}$. Which nucleus is it? 
+A nucleus, which was initially at rest, was accelerated though a potential difference of 20 kV, and then it enters into a uniform magnetic field of induction 1.0 T. The magnetic induction is perpendicular to the velocity of the nucleus. The magnetic field is separated from the force-free region by a plane perpendicular to the particle's direction of travel. The particle leaves the magnetic field after $3.3\cdot 10^{-8}~\mathrm{s}$. Which nucleus is it?
  (4 pont)

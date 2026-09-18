@@ -20,7 +20,7 @@ verification_status: pending
 
 **1. ESCAPE (8 points)** — *Päivo Simson.*
 
-![Bank angle and escape maneuver](../../sources/nbpho/figures/nbpho-2022-escape-fig1.png)
+![Bank angle and escape maneuver](../../../../../sources/nbpho/figures/nbpho-2022-escape-fig1.png)
 
 During a nuclear weapon test, a bomb is dropped from an airplane at an altitude
 of $H = 9\ \mathrm{km}$ and is set to detonate at $h = 500\ \mathrm{m}$ above the

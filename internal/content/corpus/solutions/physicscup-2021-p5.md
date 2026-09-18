@@ -16,7 +16,7 @@ figure_files: [physicscup-2021-p5-sol-1.png]
 ## Solution
 *Student solution by Nikita Semenin (MIPT), transcribed faithfully from the LaTeX source. The competition published no official solution. Notation: $E$ = main-frequency amplitude, $\mathcal E$ = double-frequency amplitude; subscript $1$ = first semicircle $A\!\to\!B\!\to\!C$, subscript $2$ = second semicircle $C\!\to\!\dots\!\to\!A$; a tilde marks amplitudes arriving at the coupling $C$ (see Figure 1).*
 
-![Figure 1: the ring resonator. Main-frequency amplitudes E and double-frequency amplitudes 𝓔 at the couplings A (bottom) and C (top); input E₀ at O, outputs E and 𝓔 at D.](../../sources/physicscup/figures/physicscup-2021-p5-sol-1.png)
+![Figure 1: the ring resonator. Main-frequency amplitudes E and double-frequency amplitudes 𝓔 at the couplings A (bottom) and C (top); input E₀ at O, outputs E and 𝓔 at D.](../../../../../sources/physicscup/figures/physicscup-2021-p5-sol-1.png)
 
 Work in the steady state, where the amplitude at each point is constant in time for both harmonics.
 

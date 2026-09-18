@@ -19,4 +19,4 @@ verification_status: pending
 
 A thick glass plate is coated by a thin transparent film. The transmission spectrum of the system is depicted in graph (light falls normal to the plate). The refractive index of the film $n \approx 1.3$. What is the thickness of the film $d$ ?
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr10-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr10-fig1.jpg)

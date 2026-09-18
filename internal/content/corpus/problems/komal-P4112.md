@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200811"
 verification_status: pending
 ---
 
-A particle of charge Q and of negligible initial speed is accelerated through a potential difference of  U . The particle reaches a region of uniform magnetic field of induction  B , where it undergoes circular motion. What is the magnetic momentum of the ``circular current''? 
+A particle of charge Q and of negligible initial speed is accelerated through a potential difference of  U . The particle reaches a region of uniform magnetic field of induction  B , where it undergoes circular motion. What is the magnetic momentum of the ``circular current''?
  (4 pont)

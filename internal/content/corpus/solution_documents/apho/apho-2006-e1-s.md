@@ -54,7 +54,8 @@ is closely satisfied. Since (1.3) have the difference in the numerator, best res
 obtained when m1 is chosen to be close to m.
 1b) [1.5 points] The following table shows the T1 ,--the temperature of hot water as it
     cools down, as a function of time t in the 450С - 650С temperature range:
-7th Asian Physics Olympiad                         Experimental Competition /Solutions   Page2/12
+
+7th Asian Physics Olympiad                         Experimental Competition /Solutions   Page2/12
 
                        N     T1, 0C   t, min.sec    t, min          ln(T1-Tr)
                        1      65        0.00          0,0              3,72
@@ -90,7 +91,8 @@ obtained when m1 is chosen to be close to m.
                        N     T1, 0C   t, min.sec    t, min          ln(T1-Tr)
                        1      65        0.00          0,0              3,72
                        2      64        0.18          0,3              3,69
-7th Asian Physics Olympiad                Experimental Competition /Solutions   Page3/12
+
+7th Asian Physics Olympiad                Experimental Competition /Solutions   Page3/12
 
                        3     63   0.46       0,8              3,67
                        4     62   1.32       1,5              3,64
@@ -114,7 +116,8 @@ obtained when m1 is chosen to be close to m.
 
       The mass of aluminum cylinder is т = (69±1) g, the mass of water is т2 =
       (27±1) g, and the room temperature is Tr= (23,4±0,2)0C )
-7th Asian Physics Olympiad                                      Experimental Competition /Solutions   Page4/12
+
+7th Asian Physics Olympiad                                      Experimental Competition /Solutions   Page4/12
 
 The graphs T1 (t ) and T2 (t ) are shown below:
 
@@ -161,7 +164,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
                                                                         C
       The graphs ln [T1 (t ) − Tr ] and ln [T2 (t ) − Tr ] appear to be approximately linear and
       are shown below:
-7th Asian Physics Olympiad                                            Experimental Competition /Solutions   Page5/12
+
+7th Asian Physics Olympiad                                            Experimental Competition /Solutions   Page5/12
 
 
 
@@ -214,7 +218,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
       ∆c Al = c Al ⎜⎜ 1          +      +             ⎟⎟ = 0.90 ⋅ ⎜⎜         +      +              ⎟⎟ =
                     ⎝ 1m − Km 2     m     K m1 − Km 2 ⎠            ⎝ 17 .7 g   69 g   17.7 g 1.196  ⎠
       = 0.90 ⋅ 0.2 = 0.18 kJ/(kg ⋅ K ).
-7th Asian Physics Olympiad                         Experimental Competition /Solutions   Page6/12
+
+7th Asian Physics Olympiad                         Experimental Competition /Solutions   Page6/12
 
 
                                               Part 2
@@ -249,7 +254,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
                       23     244       6.54             6,9             75
                       24     239       7.09             7,1             80
                       25     234       7.25             7,4             85
-7th Asian Physics Olympiad                                          Experimental Competition /Solutions   Page7/12
+
+7th Asian Physics Olympiad                                          Experimental Competition /Solutions   Page7/12
 
                        26             229           7.40                7,7              90
                        27             224           7.48                7,8              95
@@ -297,7 +303,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
 
                                   0    1    2   3   4   5   6   7   8    9    10 11 12 13 14 15
                                                                 t, min
-7th Asian Physics Olympiad                                        Experimental Competition /Solutions       Page8/12
+
+7th Asian Physics Olympiad                                        Experimental Competition /Solutions       Page8/12
 
 2с) [3.0 points] Applying the ordinary least squares method to graph 2b), we can
     determine nitrogen’s evaporation rates k1 and k2, before the immersion of
@@ -344,7 +351,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
 
 
                                                c Al (arb.units ) = 4.5 arb.units
-7th Asian Physics Olympiad                                        Experimental Competition /Solutions   Page9/12
+
+7th Asian Physics Olympiad                                        Experimental Competition /Solutions   Page9/12
 
       Consequently the coefficient of conversion of specific heat from arbitrary units
       to absolute units, β , is
@@ -391,7 +399,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
                                           ⎛ ∆c   ∆N ∆mNAl ∆m ⎞
                                   ∆λ = λ ⎜⎜ Al +    + Al +    ⎟ = 60 J/g
                                           ⎝ c Al  N  mN    m ⎟⎠
-7th Asian Physics Olympiad                             Experimental Competition /Solutions      Page10/12
+
+7th Asian Physics Olympiad                             Experimental Competition /Solutions      Page10/12
 
 
 
@@ -445,7 +454,8 @@ The graphs T1 (t ) and T2 (t ) are shown below:
                              0.5            t1 and t2 consistent with the graph mN (t ) .
                              0.8   Subtraction of heat losses to environment to determine m NAl
                              1.0               m NAl within 10% of the correct value
-7th Asian Physics Olympiad                           Experimental Competition /Solutions   Page11/12
+
+7th Asian Physics Olympiad                           Experimental Competition /Solutions   Page11/12
 
                              0.2                      Estimation of errors
   d)        0.5              0.5            The value of β consistent with the Part 1.

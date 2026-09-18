@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates, conservation-laws]
 ---
 
-One end of a 16 cm-long and a 30 cm-long pieces of rope are attached to the ceiling at a distance of 34 cm. The other ends of the ropes are attached to a small object of mass 17 grams. 
- $a)$ Calculate the tensions in the ropes. 
- $b)$ The shorter rope is burnt. What is the tension in the other rope when it is vertical? 
+One end of a 16 cm-long and a 30 cm-long pieces of rope are attached to the ceiling at a distance of 34 cm. The other ends of the ropes are attached to a small object of mass 17 grams.
+ $a)$ Calculate the tensions in the ropes.
+ $b)$ The shorter rope is burnt. What is the tension in the other rope when it is vertical?
  (4 pont)

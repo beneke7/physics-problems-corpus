@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, extremization]
 ---
 
-A spherical gas container gets so warm in a hot summer day from morning to noon, such that its volume at noon differs by 0.6% from its volume in the morning. By what percent did the surface area of the container change? 
+A spherical gas container gets so warm in a hot summer day from morning to noon, such that its volume at noon differs by 0.6% from its volume in the morning. By what percent did the surface area of the container change?
  (3 pont)

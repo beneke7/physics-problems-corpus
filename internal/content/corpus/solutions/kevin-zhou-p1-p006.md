@@ -43,13 +43,13 @@ du.
 To get rid of the pesky linear term in the exponent, we note that
 −v2
 = −
-
+
 u −
 b
 2
 √
 a
-2
+ 2
 = −u2
 +
 b

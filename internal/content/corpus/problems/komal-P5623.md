@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-At what constant speed should a spacecraft travel to a distant star if the astronauts are to age the same number of years as the distance to the star in light years? 
+At what constant speed should a spacecraft travel to a distant star if the astronauts are to age the same number of years as the distance to the star in light years?
  (4 pont)

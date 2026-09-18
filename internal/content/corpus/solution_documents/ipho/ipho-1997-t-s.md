@@ -46,7 +46,9 @@ Scaling
 
 
                                                 1
-Method 1 using angular momentum quantization:
+
+
+Method 1 using angular momentum quantization:
 
 The de Broglie wavelength of the particle is:
                                               h
@@ -97,7 +99,9 @@ where A, α, β, γ1, γ2 and δ are dimensionless constants. The dimensional eq
 
 
                                           2
-                         [ D] = [ M ]α + β −δ [ D]2α − 3δ [Q]γ 1 +γ 2 + 2δ [T ]2δ −α
+
+
+                         [ D] = [ M ]α + β −δ [ D]2α − 3δ [Q]γ 1 +γ 2 + 2δ [T ]2δ −α
 
 where [D] are distance dimensions, [M] are mass dimensions, [Q] are charge
 dimensions and [T] are time dimensions.
@@ -132,7 +136,9 @@ The radius of the muonic hydrogen atom is given by:
 
 
                                                    3
-(c) If the solar power output is P and the radius of the earth’s orbit is R, then T is given
+
+
+(c) If the solar power output is P and the radius of the earth’s orbit is R, then T is given
     by equating incoming and outgoing radiation:
 
                                           P
@@ -155,7 +161,9 @@ The radius of the muonic hydrogen atom is given by:
 
 
                                                    4
-(d) Ideal gas equation for N molecules: pV = NkT. Two identical volumes of gas at the
+
+
+(d) Ideal gas equation for N molecules: pV = NkT. Two identical volumes of gas at the
 same pressure and temperature contain the same number of molecules; therefore the
 density of each is proportional to the mean molecular mass of the gas therein.
 
@@ -199,7 +207,9 @@ For a mass M’ of moist air:
 
 
                                                 5
-(e) The mechanical power P required for a helicopter to hover equals the downward
+
+
+(e) The mechanical power P required for a helicopter to hover equals the downward
 thrust T of the rotor blades (equal to its weight W ) times the mean velocity v of the
 downward moving column of air beneath its rotor blades:
 
@@ -227,7 +237,9 @@ Hence the power required for a half-scale helicopter is P ′ = 0.0884 P .
 
 
                                               6
-Theory Question No.1: Mark Distribution
+
+
+Theory Question No.1: Mark Distribution
 
 Smallest fractional mark allowed: 0.25
 
@@ -264,7 +276,9 @@ Marks allowed for errors consistently propagated only if physically reasonable.
 
 
                                              7
-Theory Question 2: Solution:
+
+
+Theory Question 2: Solution:
 
 Nuclear Masses and Stability
 
@@ -312,7 +326,9 @@ on Z.
 
 
                                              8
-                                          4a a        A           1
+
+
+                                          4a a        A           1
                          Z max =       −1/ 3        =
                                    2a c A + 8a a / A 2         a A3
                                                                       2
@@ -361,7 +377,9 @@ differences with the energy requirements for each would-be decay process.
 
 
                                                 9
-                                                        Nuclear Masses for A=128
+
+
+                                                        Nuclear Masses for A=128
                                 498
 
 
@@ -418,7 +436,9 @@ Nucleus/Process                              β − - decay         β + - decay
 
 
                                                                          10
-Theory Question No.2: Mark Distribution
+
+
+Theory Question No.2: Mark Distribution
 
 Smallest fractional mark allowed: 0.25
 
@@ -444,7 +464,9 @@ Marks allowed for errors consistently propagated only if physically reasonable.
 
 
                                              11
-Theory Question 3: Solution
+
+
+Theory Question 3: Solution
 
 Solar-Powered Aircraft
 
@@ -488,7 +510,9 @@ Solar-Powered Aircraft
 
 
                                                    12
-(b) The power required to keep the aircraft flying straight and level is given by:
+
+
+(b) The power required to keep the aircraft flying straight and level is given by:
 
                                          P = D v = ( D1 + D2 )v
 
@@ -541,7 +565,9 @@ Solar-Powered Aircraft
 
 
                                                     13
-                                      f 1 (4 Mg )            π 3 2 f 2( Mg )
+
+
+                                      f 1 (4 Mg )            π 3 2 f 2( Mg )
                                                       2                         2
                       π
            P = Dv =       ρv l
@@ -570,7 +596,9 @@ Flight velocity for minimum power:
 
 
                                                  14
-    (c) The graph of power vs. velocity is as follows:
+
+
+    (c) The graph of power vs. velocity is as follows:
 
 
 
@@ -608,7 +636,9 @@ Substitute for v0 :
 
 
                                                           15
-(d) Equate this to available power, Pavail = IS = Pmin :
+
+
+(d) Equate this to available power, Pavail = IS = Pmin :
 
                                                                          1
 
@@ -643,7 +673,9 @@ The numerical answers are:
 
 
                                                  16
-Theory Question No.3: Mark Distribution
+
+
+Theory Question No.3: Mark Distribution
 
 Smallest fractional mark allowed: 0.25
 

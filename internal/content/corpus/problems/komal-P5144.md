@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, extremization]
 ---
 
-A rod is fixed perpendicularly to the surface of an inclined plane of angle of elevation $\alpha$. The end of the thread of a simple pendulum of length $\ell$ is attached to the top of the rod. The angle between the thread of the pendulum and the surface of the slope is $\beta$. 
+A rod is fixed perpendicularly to the surface of an inclined plane of angle of elevation $\alpha$. The end of the thread of a simple pendulum of length $\ell$ is attached to the top of the rod. The angle between the thread of the pendulum and the surface of the slope is $\beta$.
 
- What is the period of the pendulum when it swings with small amplitude, if $\alpha+\beta < 90^\circ$, and friction is negligible? 
+ What is the period of the pendulum when it swings with small amplitude, if $\alpha+\beta < 90^\circ$, and friction is negligible?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5144-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5144-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-Find the mass of that steel wire, which stores elastic potential energy of 10 J when it is expanded. The tensile strength of steal is 900 MPa. Its Young modulus is 210 GPa. 
+Find the mass of that steel wire, which stores elastic potential energy of 10 J when it is expanded. The tensile strength of steal is 900 MPa. Its Young modulus is 210 GPa.
  (4 pont)

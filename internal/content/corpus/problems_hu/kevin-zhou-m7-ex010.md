@@ -41,7 +41,9 @@ Example 10
   it reached atmospheric nyomás again. Ha you look back carefully at the above examples,
 
                                                 10
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
       you’ll see this is always the case: air can only be at a dhaferent nyomás ha it’s confined
       away from the atmogömb at large (e.g. in a train tunnel or a whirly tube), or ha it’s

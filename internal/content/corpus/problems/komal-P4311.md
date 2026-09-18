@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201101"
 verification_status: pending
 ---
 
-Consider a classroom at a temperature of 25 $^\circ$C in which the air pressure is the normal atmospheric pressure. Estimate the distance (in nm) between a ) two nearby Oxygen molecules; b ) two nearby Nitrogen molecules. 
+Consider a classroom at a temperature of 25 $^\circ$C in which the air pressure is the normal atmospheric pressure. Estimate the distance (in nm) between a ) two nearby Oxygen molecules; b ) two nearby Nitrogen molecules.
  (4 pont)

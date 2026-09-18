@@ -19,7 +19,7 @@ $$\vec{F}_- = (-q)\vec{v}_- \times \vec{B} = (-q)(\vec{v} - \vec{\omega}\times\v
 
 where $\vec{r}$ is a vector from the center of mass to the position of the positive charge.
 
-![figure](../../sources/eupho/figures/eupho-2022-T3-sol-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T3-sol-1.png)
 
 ### Part (a): Uniform linear motion
 
@@ -120,7 +120,7 @@ $$\vec{L}_O + \frac{q\vec{B}}{2}\left(R_+^2 - R_-^2\right) = \text{const},$$
 
 where $\vec{R} = \frac{1}{2}(\vec{R}_+ + \vec{R}_-)$ is the position of center of mass. We also used the fact that $q(\vec{R}_+ - \vec{R}_-) = 2q\vec{r} = \vec{p}$.
 
-![figure](../../sources/eupho/figures/eupho-2022-T3-sol-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T3-sol-2.png)
 
 Initially, centre of mass coincides with origin ($\vec{R}_0 = 0$):
 

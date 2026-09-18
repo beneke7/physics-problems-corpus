@@ -26,4 +26,4 @@ Két kis $m$ tömegű test van összekapcsolva és súlytalanul stringgel felaka
 
 **ii)** *(3 pont)* Keresse meg $\omega_{2}$, a szögsebességet az ellentétes fázisú oszcillációkhoz (amelyek alatt az oszcillációs fázisai mindkét testnek mindig ellentétesek), $\omega_{1}$ függvényében.
 
-![Stringgel összekapcsolt tömegek beállítása](sources/nbpho/figures/nbpho-2023-string-coupled-masses-fig1.jpg)
+![Stringgel összekapcsolt tömegek beállítása](../../figures/nbpho/figures/nbpho-2023-string-coupled-masses-fig1.jpg)

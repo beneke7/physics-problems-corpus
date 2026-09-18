@@ -60,7 +60,9 @@ following can be obtained:
          6.    Final answer for α                                                       0,5
                Total                                                                    5,0
                                    Problem 1.В Assistant Vapor
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                  Page 2/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                  Page 2/10
 
 
 
@@ -115,7 +117,9 @@ sought is located at the
 distance DF = OD − OF =           − 0,24 mm = 0,91mm . The
                                 3
 same point is located at a distance
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 3/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 3/10
 
 
           3
@@ -161,7 +165,9 @@ pole. Therefore, the drawing should look like this
 
 2. Whentheframe is removedfromtheuniformmagneticfield,the induced emf can be found from the
 Faraday law
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 4/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 4/10
 
 
 
@@ -219,7 +225,9 @@ speed should be a continuous function of time, so the time dependence is written
                  B 2 a 2 + m (t − t0 ),            t  t0
 
 The corresponding graph is plotted as
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                 Page 5/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                 Page 5/10
 
 
 
@@ -272,7 +280,9 @@ Thus,the equation of motion is written as
         m 2 =F−               x.                                                               (17)
             dt            L
 Expression (17) isan equation ofsimpleharmonicoscillationswith the frequency
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions             Page 6/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions             Page 6/10
 
 
                   Ba
@@ -337,7 +347,9 @@ Solving (27) and (28) together, we obtain
                B 2 a 3 − mv 0 R
          I0 =                   .                                                        (29)
                      aBL
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions      Page 7/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions      Page 7/10
 
 
 
@@ -388,7 +400,9 @@ Solving (27) and (28) together, we obtain
         Graphof I (t ) : correct value of amplitude                      0.2
     9   Ohm’s Law (25)                                                   0.2
         Eq of motion (26)                                                0.2
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 8/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 8/10
 
 
          Eq (27)                                                                       0.7        2.0
@@ -444,7 +458,9 @@ energies.Takingintoaccountequation (5) wecanwritethetotalenergyofelectronin the 
         E=            −          =−         .                                              (9)
                2        4 0 r     8 0 r
 Substituting the possible values of the orbit radii ofthe electron (7), we immediately obtain
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions                         Page 9/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions                         Page 9/10
 
 
                          me e4
@@ -505,7 +521,9 @@ Thus, the total number of revolutions is equal to
     3     Eq (6)                                                                             0.5          0.5
     4     Eq (7)                                                                             0.5          0.5
     5     Correct numerical value of r1                                                      0.5          0.5
-IX International Zhautykov Olympiad/Theoretical Competition/Solutions    Page 10/10
+
+
+IX International Zhautykov Olympiad/Theoretical Competition/Solutions    Page 10/10
 
 
   6      Eq (9)                                                         0.5      1.0

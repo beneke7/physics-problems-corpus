@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-There are several radioactive isotopes that can both undergo positive beta decay and electron capture (both of which produce the same nuclide). Which has a higher decay energy and by how much? 
+There are several radioactive isotopes that can both undergo positive beta decay and electron capture (both of which produce the same nuclide). Which has a higher decay energy and by how much?
  (4 pont)

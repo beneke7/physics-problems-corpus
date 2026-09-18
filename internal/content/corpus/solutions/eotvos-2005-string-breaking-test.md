@@ -14,8 +14,8 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2005
 
 1. Két rögzített, egymástól l = 2 m távolságra lev® sigán er®s, de nem nyúlékony fonalat vezetünk át, és a végeire
 egy-egy M = 1 kg tömeg¶ testet er®sítünk az 1.(a) ábra szerint. (A fonal néhányszor 10 N terhelést bír ki szakadás
-nélkül. A sigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 11
-méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor A és B között kiegyenesedik. Ha
+nélkül. A sigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 1 1
+méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor A és B között  kiegyenesedik . Ha
 azonban úgy engedjük el, hogy el®bb egy ugyan sak 1 kg tömeg¶ testet er®sítünk a fonal közepéhez, akkor a fonal a
 továbbiakban nem szakad el.
 1. ábra
@@ -29,9 +29,9 @@ sebességr®l, amire addigi mozgásuk (szabadesés) során felgyorsultak. (Itt �
 1
 2
 l = 1 m.) Ha a
-fékezést pillanatszer¶nek gondolnánk, vagyis a fékezés ideje ∆t → 0 lenne, akkor a testek gyorsulása és a fonalat
+fékezést  pillanatszer¶nek  gondolnánk, vagyis a fékezés ideje ∆t → 0 lenne, akkor a testek gyorsulása és a fonalat
 feszít® F er® is minden határon túl n®ne, ezért elpattanna a fonal.
-A valóságban természetesen még a nem nyúlékony fonal sem abszolút nyújthatatlan, hanem egy ki sit deformál-
+A valóságban természetesen még a  nem nyúlékony  fonal sem abszolút nyújthatatlan, hanem egy ki sit deformál-
 ható. Ehhez az alakváltozáshoz egy ki siny, de véges ∆t id® szükséges, így a testek gyorsulása és ezzel együtt a fonalat
 feszít® er® ha nem is végtelenné, de nagyon naggyá válik. Mivel a fonal nem bír ki nagy er®t, elszakad.
 b) Ábrázoljuk a folyamat három jellemz® állapotát! A 2.(a) ábrán a kezd®állapotot tüntettük fel, megjelölve közben
@@ -58,13 +58,13 @@ q
 2g 2 −
 √
 3
-
+
 h > 0. Tehát valóban emelkedik még
 a középs® test. Meddig emelkedik? Ezt is kiszámíthatjuk, ha a 2.(b) és a 2.(c) állapotot hasonlítjuk össze energetikailag:
 2Mg
 p
 h2 + y2 − h
-
+
 + Mgy =
 1
 2
@@ -126,13 +126,13 @@ h
 ,
 azaz
 Ffonal = Mg
-
+
 1 + 2 2 −
 √
 3
-
+
 = 1,536Mg ≈ 15 N.
-Így már érthet®, miért nem szakad el ebben a helyzetben a néhányszor 10 N terhelést kibíró fonal.
+Így már érthet®, miért nem szakad el ebben a helyzetben a  néhányszor 10 N terhelést kibíró  fonal.
 Érdemes fel
 gyelni arra, hogy a széls® testek kétszer is emelkednek és kétszer is süllyednek egy-egy periódus során,
 hiszen a 2. ábrán feltüntetett mindhárom állapotban éppen állnak. Süllyedésük az id® függvényében nagyjából a

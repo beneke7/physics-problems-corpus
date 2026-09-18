@@ -20,4 +20,4 @@ verification_status: pending
 
 Két, $R=10 \mathrm{~cm}$ sugarú, koaxiális gyűrűt egymástól $L$ távolságra helyezünk el. A két gyűrűt az ábrán látható módon szappanhártya köti össze. De-
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr27-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr27-fig1.jpg)

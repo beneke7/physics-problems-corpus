@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200610"
 verification_status: pending
 ---
 
-At which point should the right triangle of sides 3 dm, 4 dm and 5 dm, be suspended if its hypotenuse is vertical. The triangle is made of a piece of thin wire. 
+At which point should the right triangle of sides 3 dm, 4 dm and 5 dm, be suspended if its hypotenuse is vertical. The triangle is made of a piece of thin wire.
  (4 pont)

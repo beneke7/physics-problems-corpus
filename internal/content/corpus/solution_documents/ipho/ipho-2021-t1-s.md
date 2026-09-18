@@ -35,7 +35,7 @@ the force due to new fluid is 𝐹 1 = oil2 · ℎ0𝑤 and the force due to wat
                                                                                           2 · ℎ𝑤 .
     Combining all the equation above, we get
                                                           𝜌 0𝑔ℎ 2𝑤
-                                                       
+
                                                𝜌0
                                         𝐹𝑥 =         −1            .
                                                𝜌 oil          2
@@ -44,22 +44,24 @@ This force acts on the right plate to the right.
 A.2 (0.6 points)
 Consider a rectangular mass element of the crust. Since relation 𝑙 (𝑇 ) = 𝑙 1 [1 − 𝑘𝑙 (𝑇1 − 𝑇 ) /(𝑇1 − 𝑇0 )]
 holds for all three dimensions of the solid, its volume 𝑉 satisfies
-                                                             3
+                                                               3
                                                       𝑇1 − 𝑇
                                       𝑉 = 𝑉1 1 − 𝑘𝑙              ,
                                                       𝑇1 − 𝑇0
 where 𝑉1 is the volume at 𝑇 = 𝑇1 . If the mass of the element is 𝑚, density is then
-                                                        −3                      −3
+                                                          −3                        −3
                               𝑚 𝑚               𝑇1 − 𝑇                    𝑇1 − 𝑇
                      𝜌 (𝑇 ) =  =         1 − 𝑘𝑙              = 𝜌 1 1 − 𝑘𝑙              .
                               𝑉 𝑉1              𝑇1 − 𝑇0                   𝑇1 − 𝑇0
-Since 𝑘𝑙  1, this can be approximated as
-                                                                  
+Since 𝑘𝑙   1, this can be approximated as
+
                                                            𝑇1 − 𝑇
                                       𝜌 (𝑇 ) ≈ 𝜌 1 1 + 3𝑘𝑙           ,
                                                            𝑇1 − 𝑇0
 so that 𝑘 = 3𝑘𝑙 .
-                                                                                                   S1-2
+
+
+                                                                                                   S1-2
                                Theoretical Question 1 – Solution                                   ENGLISH
 
 
@@ -90,7 +92,7 @@ From all the equations above and by using the density formula given in the probl
                                         ℎ                     𝑇1 − 𝑇0
 
 from where we straightforwardly obtain
-                                                        
+
                                                2      𝜌0
                                             𝐷=     1−      ℎ.
                                                𝑘      𝜌1
@@ -111,7 +113,9 @@ The equations above can be combined into
                        ∫ ℎ+𝐷                           ∫ ℎ
                  𝐹 =𝐿        (𝑝 (0, 0) + 𝜌 1𝑔𝑧) d𝑧 − 𝐿     (𝑝 (∞, 0) + 𝜌 0𝑔𝑧) d𝑧.
                            0                                      0
-                                                                                             S1-3
+
+
+                                                                                             S1-3
                               Theoretical Question 1 – Solution                             ENGLISH
 
 
@@ -120,7 +124,7 @@ After a straightforward integration and using 𝑝 (0, 0) = 𝑝 (∞, 0),
                                                       (ℎ + 𝐷) 2        ℎ2
                               𝐹 = 𝐿𝑝 (0, 0) 𝐷 + 𝐿𝜌 1𝑔           − 𝐿𝜌 0𝑔 .
                                                           2            2
-Since 𝑘  1, and 𝐷 ∝ 𝑘 −1 , the term with 𝐷 2 ∝ 𝑘 −2 is of the leading order, hence, after substituting
+Since 𝑘   1, and 𝐷 ∝ 𝑘 −1 , the term with 𝐷 2 ∝ 𝑘 −2 is of the leading order, hence, after substituting
 the result of A.3, the required answer is
 
                                               2𝑔𝐿ℎ 2 (𝜌 1 − 𝜌 0 ) 2
@@ -166,7 +170,9 @@ of thermal conductivity gives that 𝜅 Δ𝑇   𝑄
                                                     𝑐𝜌 1 𝐷 2
                                               𝜏∼             .
                                                       𝜅
-                                                                                                 S1-4
+
+
+                                                                                                 S1-4
                                 Theoretical Question 1 – Solution                               ENGLISH
 
 
@@ -180,18 +186,18 @@ described by the Snell’s law of refraction
 
 where the refractive index is
                                                      𝑐      𝑐
-                                       𝑛 (𝑧) =          =       
+                                       𝑛 (𝑧) =          =
                                                    𝑣 (𝑧) 𝑣 1 + 𝑧
                                                                0          𝑧0
 
 and 𝑐 denotes the seismic wave speed in a material with refractive index 𝑛 = 1. From the two
-equations above we have                   
+equations above we have
                                         𝑧
                                  𝑣0 1 +      sin 𝜃 0 = 𝑣 0 sin 𝜃 .
                                         𝑧0
 
 Method 1.      Since this describes an arc of a circle, we have that at 𝜃 = 𝜋2 , 𝑧 = 𝑅 − 𝑅 sin 𝜃 0 (Fig. 2),
-giving                                                    
+giving
                                              𝑅 − 𝑅 sin 𝜃 0
                                           1+                 sin 𝜃 0 = 1,
                                                  𝑧0
@@ -207,10 +213,12 @@ i.e. 𝐴 = 2𝑧 0 and 𝑏 = 1.
 
 
                                                     Figure 2
-                                                                                                  S1-5
+
+
+                                                                                                  S1-5
                                Theoretical Question 1 – Solution                                 ENGLISH
 
-                                                    
+
 Method 2.      Implicitly differentiating 𝑣 0 1 + 𝑧𝑧0 sin 𝜃 0 = 𝑣 0 sin 𝜃 gives
 
                                             d𝑧
@@ -252,17 +260,19 @@ On the other hand, the energy carried by rays that arrive at [𝑥, 𝑥 + d𝑥
 Using the result of question B.1,
 
                                                                     𝑏 𝐴2 + 𝑥 2
-                                                                               
-                       d𝑥        𝐴𝑏                    2       
+
+                       d𝑥        𝐴𝑏                    2
                             =− 2          = −𝐴𝑏 1 + cot (𝑏𝜃 0 ) = −              .
                        d𝜃 0   sin (𝑏𝜃 0 )                              𝐴
 Hence,
                                                 𝐸𝐴         2𝐸𝑧 0
                                   𝜀 (𝑥) =        2   2
-                                                       =              .
+                                                       =               .
                                             𝜋𝑏 (𝐴 + 𝑥 ) 𝜋 4𝑧 02 + 𝑥 2
 This function is plotted in Fig. 3.
-                                                                                                    S1-6
+
+
+                                                                                                    S1-6
                                  Theoretical Question 1 – Solution                                 ENGLISH
 
 
@@ -272,7 +282,7 @@ This function is plotted in Fig. 3.
 
 
 B.3 (2.0 points)
-                                                   
+
 Define 𝑥 − = 𝑥 1 𝜃 0 − 𝛿𝜃2 0 and 𝑥 + = 𝑥 1 𝜃 0 + 𝛿𝜃2 0 . To the leading order in 𝛿𝜃 0 , 𝑥 − ≈ 𝑥 + ≈ 𝑥 1 (𝜃 0 ).
 With each reflection of the signal, the horizontal distance between the points where the edges of
 the signal reflect increases by |𝑥 + − 𝑥 − | = 𝑥 − − 𝑥 + . When moving along the positive 𝑥-axis, these
@@ -285,11 +295,11 @@ where the approximate sign tends to equality as 𝛿𝜃 0 → 0.
   The position where the zones start to overlap is at 𝑥 max = 𝑁 𝑥 1 (𝜃 0 ). Therefore,
 
                                                            𝑥 1 (𝜃 0 ) 2
-                                    𝑥 max =                                  .
+                                    𝑥 max =                                      .
                                               𝑥 1 𝜃 0 − 𝛿𝜃2 0 − 𝑥 1 𝜃 0 + 𝛿𝜃2 0
 
-Since 𝛿𝜃 0  𝜃 0 , we can approximate
-                                                 
+Since 𝛿𝜃 0   𝜃 0 , we can approximate
+
                              𝛿𝜃 0              𝛿𝜃 0      d𝑥 1 (𝜃 0 )           𝐴𝑏
                     𝑥1 𝜃 0 −        − 𝑥1 𝜃 0 +        ≈−             𝛿𝜃 0 =    2
                                                                                         𝛿𝜃 0 .

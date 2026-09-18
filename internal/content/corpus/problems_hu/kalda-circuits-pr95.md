@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkörrel egy feszültségjel fázisa állítható. Mutassuk meg, hogy ha a kimeneti áram elhanyagolhatóan kicsi, akkor a kimeneti feszültség amplitúdója megegyezik a bemeneti kapcsokon mérhetővel, de a fázisa eltér. Határozzuk meg a fáziseltolást.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr95-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr95-fig1.jpg)

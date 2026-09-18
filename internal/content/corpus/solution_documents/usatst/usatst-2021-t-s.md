@@ -54,7 +54,9 @@ JiaJia Dong, Mark Eichenlaub, Abijith Krishnan, Kye W. Shi, Brian Skinner, Mike 
 
 
                     Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                             2
+
+
+2021 USAPhO+                                                                                             2
 
 
 
@@ -108,7 +110,9 @@ planet called Orb.
 
 
                     Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                             3
+
+
+2021 USAPhO+                                                                                             3
 
 
 
@@ -166,7 +170,9 @@ smaller than the surface area of Orb (i.e., you can neglect the curvature of Orb
      landing?
 
                     Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                    4
+
+
+2021 USAPhO+                                                                                    4
 
 
 
@@ -218,7 +224,9 @@ smaller than the surface area of Orb (i.e., you can neglect the curvature of Orb
 
 
                  Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                       5
+
+
+2021 USAPhO+                                                                                       5
 
 
 
@@ -270,7 +278,9 @@ smaller than the surface area of Orb (i.e., you can neglect the curvature of Orb
 
 
                 Copyright ©2021 American Association of Physics Teachers
-                                                                     N
+
+
+                                                                     N
                                                                                                                           2021 USAPhO+
 
                                                                                     Rubinstead    Boltzmannburg
@@ -300,7 +310,9 @@ Copyright ©2021 American Association of Physics Teachers
 
 
                                                                                                                           6
-2021 USAPhO+                                                                                         7
+
+
+2021 USAPhO+                                                                                         7
 
 
 
@@ -327,7 +339,7 @@ can search for axion dark matter using systems which are resonantly driven by th
 
 You do not have to provide numeric answers unless asked. When asked to “estimate”, you may drop
 constants of order one. The numeric values provided below are from standard references where ~,
-c, µ0 , and 0 are set to one; to get correct numeric results, you must restore these factors yourself.
+c, µ0 , and  0 are set to one; to get correct numeric results, you must restore these factors yourself.
 
 1. First, we will describe some physical properties of the axion field.
 
@@ -354,7 +366,9 @@ c, µ0 , and 0 are set to one; to get correct numeric results, you must restore
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                         8
+
+
+2021 USAPhO+                                                                                         8
 
 
 
@@ -410,7 +424,9 @@ c, µ0 , and 0 are set to one; to get correct numeric results, you must restore
      Numerically estimate ∆ω/ω to show that it is reasonable to neglect this effect.
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                               9
+
+
+2021 USAPhO+                                                                                               9
 
 
 
@@ -435,7 +451,7 @@ c, µ0 , and 0 are set to one; to get correct numeric results, you must restore
 
 
     The ABRACADABRA1 experiment, currently taking data at MIT, is a toroidal solenoid with
-inner and outer radius Rin and Rout and height h. You may assume h  Rout for simplicity. A
+inner and outer radius Rin and Rout and height h. You may assume h   Rout for simplicity. A
 superconducting wire carrying current I wraps N times around the toroid, where N is high enough
 to neglect the discreteness of the wires. A circular pickup loop with radius slightly less than Rin is
 placed at the center of the toroid.
@@ -451,7 +467,9 @@ placed at the center of the toroid.
       aka, A Broadband/Resonant Approach to Cosmic Axion Detection with an Amplifying B-field Ring Apparatus.
 
                       Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                        10
+
+
+2021 USAPhO+                                                                                        10
 
 
 
@@ -484,19 +502,19 @@ placed at the center of the toroid.
                                     J = g ȧB = ga0 Bmax          ω cos(ωt)θ̂.
                                                                r
        The resulting field is like that of an array of concentric solenoids, where we may neglect
-       fringe fields because h  Rout . Therefore, the axion-produced field Bax inside the pickup
+       fringe fields because h   Rout . Therefore, the axion-produced field Bax inside the pickup
        loop is uniform. For simplicity, we define
 
                                                J0 = ga0 Bmax ω.
 
        Then using Ampere’s law, we have
                                       Z
-                                        Rin                             
+                                        Rin
                   Bax = µ0 J0 cos(ωt)       dr = µ0 J0 Rin log Rout /Rin cos(ωt).
                                          r
        The magnetic flux is then
                                   2                3
-                                                                   
+
                            ΦB = πRin Bax = πµ0 J0 Rin log Rout /Rin cos(ωt).
 
 
@@ -508,7 +526,9 @@ placed at the center of the toroid.
 
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                    11
+
+
+2021 USAPhO+                                                                                    11
 
 
 
@@ -544,32 +564,34 @@ placed at the center of the toroid.
 
                                               Solution
        First, we have to restore the dimensions of g. Notice that since current g ȧB has the
-       same units as displacement current 0 Ė, the quantities ga and (E/B)0 must have the
+       same units as displacement current  0 Ė, the quantities ga and (E/B) 0 must have the
        same dimensions, and furthermore E/B has dimensions of speed.
        Now, in 1(c) we found that a has dimensions of energy times velocity, while the value
        of g given here has dimensions of inverse energy. Thus, the combination ga only has
-       dimensions of speed, which means a factor of 0 was left out. In other words, if we
-       denote the value given above as g 0 , the true value of g is 0 g 0 .
+       dimensions of speed, which means a factor of  0 was left out. In other words, if we
+       denote the value given above as g 0 , the true value of g is  0 g 0 .
        To avoid mistakes, it’s best to group terms in the long expression for Φ0 , so that each
        piece has simple units and a reasonable magnitude. We have
-                                                         
+
                                                      Rout
                                         2
-                              Φ0 = (πRin B0 ) log            Rin µ0 0 g 0 a0 ω
+                              Φ0 = (πRin B0 ) log            Rin µ0  0 g 0 a0 ω
                                                       Rin
 
 
 
 
                  Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                          12
+
+
+2021 USAPhO+                                                                                          12
 
 
 
-        and using c2 = 1/µ0 0 gives
+        and using c2 = 1/µ0  0 gives
 
                                                                     ωRin g 0 a0
-                                                               
+
                                        2                 Rout
                                Φ0 = (πRin B0 ) log
                                                          Rin         c      c
@@ -620,7 +642,9 @@ The main source of noise is thermal noise, which causes fluctuations in the curr
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                         13
+
+
+2021 USAPhO+                                                                                         13
 
 
 
@@ -633,7 +657,7 @@ The main source of noise is thermal noise, which causes fluctuations in the curr
                                                     tc ∼     .
                                                            R
 
- (d) Suppose the experiment runs for a total time te  tc . Roughly estimate the average amplitude
+ (d) Suppose the experiment runs for a total time te   tc . Roughly estimate the average amplitude
      of the noise current over this period of time.
 
                                                Solution
@@ -670,7 +694,9 @@ The main source of noise is thermal noise, which causes fluctuations in the curr
 
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                     14
+
+
+2021 USAPhO+                                                                                     14
 
 
 
@@ -728,14 +754,16 @@ answers. We will begin by investigating the implications of the classical Hall e
 
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                             15
+
+
+2021 USAPhO+                                                                                             15
 
 
 
        As requested, we compute the magnitude and direction:
 
                                          qe2 nV E
-                                                                                                
+
                                                                                            Bqe
                                 |J| = p              ,          θ = − arctan                         .
                                        γ 2 + B 2 qe2                                        γ
@@ -790,7 +818,9 @@ answers. We will begin by investigating the implications of the classical Hall e
 
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                     16
+
+
+2021 USAPhO+                                                                                     16
 
 
 
@@ -847,7 +877,9 @@ next parts are independent of the first part of the problem.)
                                                          dt
 
                    Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                 17
+
+
+2021 USAPhO+                                                                                 17
 
 
 
@@ -906,7 +938,9 @@ next parts are independent of the first part of the problem.)
 
 
                     Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                       18
+
+
+2021 USAPhO+                                                                                       18
 
 
 
@@ -961,7 +995,9 @@ next parts are independent of the first part of the problem.)
 
 
                   Copyright ©2021 American Association of Physics Teachers
-2021 USAPhO+                                                                                    19
+
+
+2021 USAPhO+                                                                                    19
 
 
 

@@ -34,7 +34,9 @@ Kalda 82
        Find the maximum possible power that can be extracted.
 
                                                      16
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
          Solution
          Let vt be the speed of the edge of the turbine. In time dt, the amount of mass of water that

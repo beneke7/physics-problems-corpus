@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201604"
 verification_status: pending
 ---
 
-A solenoid is made by winding tightly (in one layer) a piece of enamelled wire of resistivity $\varrho$, and of radius $r\ll R$ around an insulating cylinder of length $\ell$ and of radius $R\ll \ell$. The solenoid is connected to a voltage supply of voltage $U$ . To what power of the radius $r$ are the following quantities proportional? 
- $a)$ The current in the wire; 
- $b)$ the self-inductance of the solenoid; 
- $c)$ the magnitude of the magnetic induction at the geometric centre of the solenoid. 
+A solenoid is made by winding tightly (in one layer) a piece of enamelled wire of resistivity $\varrho$, and of radius $r\ll R$ around an insulating cylinder of length $\ell$ and of radius $R\ll \ell$. The solenoid is connected to a voltage supply of voltage $U$ . To what power of the radius $r$ are the following quantities proportional?
+ $a)$ The current in the wire;
+ $b)$ the self-inductance of the solenoid;
+ $c)$ the magnitude of the magnetic induction at the geometric centre of the solenoid.
  (4 pont)

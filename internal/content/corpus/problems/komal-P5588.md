@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, differential-element]
 ---
 
-A thin insulating ring of radius $R$, uniformly charged with ${+Q}$, is placed in a horizontal plane. Along the diameter of the fixed ring (e.g. along a stretched fishing line), a point-like body with a charge ${+q}$ and mass $m$ can move frictionlessly. The point-like body is slightly displaced from its equilibrium position. What is the period of the small oscillations that occur? 
+A thin insulating ring of radius $R$, uniformly charged with ${+Q}$, is placed in a horizontal plane. Along the diameter of the fixed ring (e.g. along a stretched fishing line), a point-like body with a charge ${+q}$ and mass $m$ can move frictionlessly. The point-like body is slightly displaced from its equilibrium position. What is the period of the small oscillations that occur?
  (6 pont)

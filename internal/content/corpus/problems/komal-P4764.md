@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry, conservation-laws]
 ---
 
-The resistance of each resistor shown in the figure is the same $R$ . By what percent will the dissipated power at resistor (1) change if switch K is turned on to create a short circuit through the resistor (2)? 
+The resistance of each resistor shown in the figure is the same $R$ . By what percent will the dissipated power at resistor (1) change if switch K is turned on to create a short circuit through the resistor (2)?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4764-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4764-fig1.gif)

@@ -54,7 +54,8 @@ Question 3
              Notes:
 
                  • y and r̃E need not be identified, but may be useful in a later part.
-          • rE should be perpendicular to the projected light path, but in our astro-
+
+          • rE should be perpendicular to the projected light path, but in our astro-
             nomical system, it makes no difference if it is perpendicular to the source-
             observer line since qE is small. Accept answers that have rE perpendicular
             to the source-observer line.
@@ -106,7 +107,8 @@ Question 3
 
 
                                        Page 2
-      is smaller than rE2 .
+
+      is smaller than rE2 .
 
                                         Lens rE1
                    Source
@@ -159,7 +161,8 @@ Question 3
 
 
                                        Page 3
-(e) (1 point) Using the formula for light deflection, write down an expression for the
+
+(e) (1 point) Using the formula for light deflection, write down an expression for the
     Schwarzschild radius of a lensing object in the case where the source, lens and ob-
     server is in a straight line.
 
@@ -212,7 +215,8 @@ Question 3
 
 
                                         Page 4
-      which suggests that a or qE or both should be small.
+
+      which suggests that a or qE or both should be small.
       Based on the geometry of the setup and what we have already established (a
       small), we then have the following cases:
 
@@ -266,7 +270,8 @@ Question 3
 
 
                                          Page 5
-(h) (2 points) Suppose we have an event where a lensing object of 6.0⇥1030 kg (3.0 solar
+
+(h) (2 points) Suppose we have an event where a lensing object of 6.0⇥1030 kg (3.0 solar
     masses), 2.6⇥1018 m away from earth passes in front of a star 9.2⇥1018 m away from
     earth. This happens such that the ideal configuration occurs during the event. What is
     the angular Einstein radius qE (as seen from earth) during this event when the source,

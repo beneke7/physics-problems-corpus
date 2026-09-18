@@ -35,13 +35,13 @@ techniques: [stability-analysis, graphical-reduction]
 
 1.2 Plot in the same graph the relative elongations of the rubber cord as a function of the gravity force of hanging weights at loading and unloading processes.
 
-![Fig. 1: rubber cord hanging vertically with weights attached, length $L$ marked](../../sources/izho/figures/izho-2011-e-q1-fig1.png)
+![Fig. 1: rubber cord hanging vertically with weights attached, length $L$ marked](../../figures/izho/figures/izho-2011-e-q1-fig1.png)
 
 ## Part 2. Equilibrium (7.5 points)
 
 Place the ruler near the vertical wall of the column as shown in Fig. 2. Attach the rubber cord to the top of the ruler with the pins provided. Attach the other end of the cord to the column with the pins. The cord length $l_0$ in the unstrained state should be about 8 cm. The distance from the lower edge of the ruler to the top of the vertical column of the stand (see Fig. 2) is equal to the ruler length. Tie a thread to the top of the ruler so that the weights could be hanged on.
 
-![Fig. 2: wooden stand with vertical column; ruler leaning against it, held by a rubber cord of length $l$ attached with pins; weights hanging from the ruler top](../../sources/izho/figures/izho-2011-e-q1-fig2.png)
+![Fig. 2: wooden stand with vertical column; ruler leaning against it, held by a rubber cord of length $l$ attached with pins; weights hanging from the ruler top](../../figures/izho/figures/izho-2011-e-q1-fig2.png)
 
 ***Attention!** You will have to measure the length of the cord $l$ with different number of hanging weights.*
 
@@ -75,7 +75,7 @@ If the lower edge of the ruler is shifted away from the vertical column (see Fig
 
 We can show (but you do not need to do that!) that for the small displacement $\delta$ of the lower edge of the ruler, the equilibrium condition (1) is approximately described by the following formula:
 
-![Fig. 3: ruler with its lower edge displaced by $\delta$ from the vertical column; cord of length $l$, elastic force $\vec{F}$ along the cord, weight force $m\vec{g}$](../../sources/izho/figures/izho-2011-e-q1-fig3.png)
+![Fig. 3: ruler with its lower edge displaced by $\delta$ from the vertical column; cord of length $l$, elastic force $\vec{F}$ along the cord, weight force $m\vec{g}$](../../figures/izho/figures/izho-2011-e-q1-fig3.png)
 
 $$
 F(l) = mg\frac{l-\delta}{a}. \tag{2}

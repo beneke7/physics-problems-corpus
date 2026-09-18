@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-The electric field at sea level is approximately 100 V/m, and the height of ionosphere is 10 km. The average magnetic induction of the Earth at sea level is $10^{-5}$ T, and its value is approximately indirectly proportional to the cube of the distance measured from the centre of the Earth. Estimate the order of the ratio of the magnetostatic and electrostatic energy around the Earth. 
+The electric field at sea level is approximately 100 V/m, and the height of ionosphere is 10 km. The average magnetic induction of the Earth at sea level is $10^{-5}$ T, and its value is approximately indirectly proportional to the cube of the distance measured from the centre of the Earth. Estimate the order of the ratio of the magnetostatic and electrostatic energy around the Earth.
  (5 pont)

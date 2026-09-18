@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-A regular icosahedron is made of wires of the same length and of the same resistance of $R$. 
- $a)$ What is the equivalent resistance between two vertices which are opposite to each other? 
- $b)$ What is the dissipated power at each resistor when a voltage of $U$ is applied across these two opposite vertices? 
+A regular icosahedron is made of wires of the same length and of the same resistance of $R$.
+ $a)$ What is the equivalent resistance between two vertices which are opposite to each other?
+ $b)$ What is the dissipated power at each resistor when a voltage of $U$ is applied across these two opposite vertices?
  (4 pont)

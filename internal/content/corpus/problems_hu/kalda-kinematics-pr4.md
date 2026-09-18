@@ -20,4 +20,4 @@ verification_status: pending
 
 Az állandó emelkedési sebességgel felszálló léggömbök segítségével különböző magasságokban vizsgálhatjuk a szél sebességét. Egy ilyen léggömb megfigyeléséből kaptuk a magassági szög időfüggését ábrázoló grafikont. A léggömböt a megfigyelési ponttól $L=1 \mathrm{~km}$ távolságban bocsátották fel, és úgy látszott, hogy közvetlenül függőlegesen emelkedik. Tudva, hogy a talaj közelében a szél sebessége nulla volt, határozzuk meg a léggömb magasságát a felbocsátást követő $t=7$ percben, valamint a szél sebességét ezen a magasságon.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr4-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr4-fig1.jpg)

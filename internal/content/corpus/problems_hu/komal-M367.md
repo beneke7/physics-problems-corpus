@@ -11,4 +11,4 @@ verification_status: pending
 
 M. 367. Készítsünk hengeres jégpálcákat (pl. mélyhűtőben fagyasztott vízből, lezárt végű műanyagcső segítségével)! A két végén alátámasztott pálcát a közepénél fokozatosan terheljük meg annyira, hogy eltörjön. Adjuk meg a töréshez szükséges erőt több, különböző hosszúságú és átmérőjű jégpálcára!
 
-![figure](../../raw_html/komal_figures/komal-M367-fig1.gif)
+![figure](../../figures/komal/figures/komal-M367-fig1.gif)

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An initially stationary, charged, pointlike object can move along a horizontal surface, without friction. Not far from the object there is a long vertical solenoid. The current in thee solenoid is uniformly increased from zero to a given value, and then it is decreased also uniformly to zero again. At the end of this process to which direction will the charged object move with respect to the point  P , shown in the figure? 
+An initially stationary, charged, pointlike object can move along a horizontal surface, without friction. Not far from the object there is a long vertical solenoid. The current in thee solenoid is uniformly increased from zero to a given value, and then it is decreased also uniformly to zero again. At the end of this process to which direction will the charged object move with respect to the point  P , shown in the figure?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4294-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4294-fig1.gif)

@@ -19,4 +19,4 @@ verification_status: pending
 
 The main components of a car engine are: a cylinder, a piston which moves inside it, and a valve for letting gases in and out of the cylinder.
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr45-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr45-fig1.jpg)

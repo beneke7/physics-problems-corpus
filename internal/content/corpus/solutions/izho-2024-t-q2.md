@@ -36,7 +36,7 @@ one of the bodies, for example for the first, in the form
 𝑅𝑅0
 2 , (5)
 which, taking into account equation (3), gives
-𝜔𝜔0 = �𝐺𝐺
+𝜔𝜔0 =  𝐺𝐺
 𝑚𝑚1+𝑚𝑚2
 𝑅𝑅0
 3 . (6)
@@ -125,22 +125,22 @@ coordinate of the Lagrange point 𝐿𝐿3 is found as
 𝐹𝐹 ⃗ = 𝐺𝐺
 𝑚𝑚0𝑚𝑚1
 𝑅𝑅0
-3 𝑟𝑟1 ���⃗ + 𝐺𝐺
+3 𝑟𝑟1    ⃗ + 𝐺𝐺
 𝑚𝑚0𝑚𝑚2
 𝑅𝑅0
-3 𝑟𝑟2 ���⃗. (17)
+3 𝑟𝑟2    ⃗. (17)
 The expression on the right hand side of formula (17) is expressed
 through the radius vector of the center of mass
-𝑚𝑚1𝑟𝑟1 ���⃗ + 𝑚𝑚2𝑟𝑟2 ���⃗ = (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶 ���⃗, (18)
+𝑚𝑚1𝑟𝑟1    ⃗ + 𝑚𝑚2𝑟𝑟2    ⃗ = (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶    ⃗, (18)
 then the equation of Newton’s second law for this body in projection onto the
-direction of the vector 𝑟𝑟𝐶𝐶 ���⃗ has the form:
+direction of the vector 𝑟𝑟𝐶𝐶    ⃗ has the form:
 𝑚𝑚0𝜔𝜔2
 𝑟𝑟𝐶𝐶 = 𝐺𝐺
 𝑚𝑚0
 𝑅𝑅0
 3 (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶. (19)
 From this equation it follows that the angular velocity of the body 𝑚𝑚0 is equal to
-𝜔𝜔 = �𝐺𝐺
+𝜔𝜔 =  𝐺𝐺
 𝑚𝑚1+𝑚𝑚2
 𝑅𝑅0
 3 = 𝜔𝜔0, (20)
@@ -172,7 +172,7 @@ Since𝑧𝑧,𝜇𝜇 ≪ 1, wecan usetheexpansion
 (1−𝑧𝑧)2 ≈ 1 + 2𝑧𝑧 andinthiscaseequation(22)issignificantly
 simplified and its solution is obtained as 𝑧𝑧 = (𝜇𝜇/3)1/3
 , that is, the required distance is equal to
-𝑙𝑙𝑆𝑆 = 𝑅𝑅0�
+𝑙𝑙𝑆𝑆 = 𝑅𝑅0
 𝑀𝑀2
 3𝑀𝑀1
 3
@@ -187,7 +187,7 @@ XX International Zhautykov Olympiad/Theoretical Competition с. 8/14
 𝜇𝜇
 𝑧𝑧2, (24)
 i.e. the space telescope is located at the same distance from the Earth (only on the other side):
-𝑙𝑙𝑊𝑊 = 𝑅𝑅0�
+𝑙𝑙𝑊𝑊 = 𝑅𝑅0
 𝑀𝑀2
 3𝑀𝑀1
 3
@@ -200,10 +200,10 @@ the centers of groups of Trojan asteroids are located at the lateral Lagrange po
 from Jupiter to these points is equal to the distance from Jupiter tothe Sun. The mass of Jupiter is significantly
 less than the mass of the Sun, so the distance between them is almost equal to the radius of Jupiter's orbit,
 which can be found using Kepler's third law
-𝑙𝑙𝐽𝐽 = 𝑅𝑅0 �
+𝑙𝑙𝐽𝐽 = 𝑅𝑅0
 𝑇𝑇𝐽𝐽
 𝑇𝑇0
-�
+
 2/3
 = 7.82 ∙ 108
 km, (26)
@@ -232,7 +232,7 @@ Formula (5): 𝑚𝑚1𝜔𝜔0
 2
 0.1
 0.2
-Formula (6): 𝜔𝜔0 = �𝐺𝐺
+Formula (6): 𝜔𝜔0 =  𝐺𝐺
 𝑚𝑚1+𝑚𝑚2
 𝑅𝑅0
 3
@@ -276,19 +276,19 @@ For each point:
 Formula (17): 𝐹𝐹 ⃗ = 𝐺𝐺
 𝑚𝑚0𝑚𝑚1
 𝑅𝑅0
-3 𝑟𝑟1 ���⃗ + 𝐺𝐺
+3 𝑟𝑟1    ⃗ + 𝐺𝐺
 𝑚𝑚0𝑚𝑚2
 𝑅𝑅0
-3 𝑟𝑟2 ���⃗ 0.2
+3 𝑟𝑟2    ⃗ 0.2
 1.0
-Formula (18): 𝑚𝑚1𝑟𝑟1 ���⃗ + 𝑚𝑚2𝑟𝑟2 ���⃗ = (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶 ���⃗ 0.2
+Formula (18): 𝑚𝑚1𝑟𝑟1    ⃗ + 𝑚𝑚2𝑟𝑟2    ⃗ = (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶    ⃗ 0.2
 Formula (19): 𝑚𝑚0𝜔𝜔2
 𝑟𝑟𝐶𝐶 = 𝐺𝐺
 𝑚𝑚0
 𝑅𝑅0
 3 (𝑚𝑚1 + 𝑚𝑚2)𝑟𝑟𝐶𝐶
 0.3
-Formula (20): 𝜔𝜔 = �𝐺𝐺
+Formula (20): 𝜔𝜔 =  𝐺𝐺
 𝑚𝑚1+𝑚𝑚2
 𝑅𝑅0
 3 = 𝜔𝜔0
@@ -302,7 +302,7 @@ Exact equation (22): 1 − 𝜇𝜇 − 𝑧𝑧 =
 𝜇𝜇
 𝑧𝑧2
 0.2
-Formula (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0�
+Formula (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0
 𝑀𝑀2
 3𝑀𝑀1
 3 0.7
@@ -316,17 +316,17 @@ Formula (24): 1 + 𝑧𝑧 =
 𝜇𝜇
 𝑧𝑧2
 0.2
-1.4 Formula (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0�
+1.4 Formula (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0
 𝑀𝑀2
 3𝑀𝑀1
 3 0.7
 Numerical value in formula (25): 𝑙𝑙𝑊𝑊 = 1.50 ∙ 106
 km. 0.5
 2.10
-Formula (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0 �
+Formula (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0
 𝑇𝑇𝐽𝐽
 𝑇𝑇0
-�
+
 2/3 1.0
 1.4
 Numerical value in formula (26): 𝑙𝑙𝐽𝐽 = 7.82 ∙ 108

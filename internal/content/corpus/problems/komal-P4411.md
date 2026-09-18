@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201201"
 verification_status: pending
 ---
 
-In a sample initially there are equal number of atoms of two radioactive isotopes  A and  B . Three days later there are 3 times as much nucleides of isotope  A than of isotope  B , the halflife of which is 1.5 days. What is the half-life of isotope  A ? 
+In a sample initially there are equal number of atoms of two radioactive isotopes  A and  B . Three days later there are 3 times as much nucleides of isotope  A than of isotope  B , the halflife of which is 1.5 days. What is the half-life of isotope  A ?
  (4 pont)

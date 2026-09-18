@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5697. Egy tűzijáték során ugyanarról a helyről, ugyanakkora kezdősebességgel mindenféle irányban lövedékeket lőnek ki, amelyek a pályájuk tetőpontjánál erős fényfelvillanást hoznak létre. Milyen felület mentén helyezkednek el a felvillanó pontok? 
+P. 5697. Egy tűzijáték során ugyanarról a helyről, ugyanakkora kezdősebességgel mindenféle irányban lövedékeket lőnek ki, amelyek a pályájuk tetőpontjánál erős fényfelvillanást hoznak létre. Milyen felület mentén helyezkednek el a felvillanó pontok?
  A légellenállást hanyagoljuk el.

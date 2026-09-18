@@ -28,13 +28,13 @@ q2
 4πϵ0
 X
 k=1,3,...
-
+
 1
 (kd − 2∆z)2
 −
 1
 (kd + 2∆z)2
-
+
 ≈
 q2
 4πϵ0
@@ -68,7 +68,7 @@ q2 ∆z
 4πϵ0d3
 .
 This force is relevant in measurements involving the oscillation frequencies of trapped ions.
-[3] Problem 5.  ^ 1 0IZhO 2022, problem 1.3. A three-dimensional electrostatics problem.
+[3] Problem 5.   ^ 1 0IZhO 2022, problem 1.3. A three-dimensional electrostatics problem.
 Solution. See the official solutions as usual. However, due to some algebraic errors, the final result
 is off by a factor of π, as pointed out in Stefan Ivanov’s errata. Referring to their rubric, the first 5
 formulas are right, but in going to formula 6, they drop the cosβ factor inside dq. Starting from
@@ -99,7 +99,7 @@ Q =
 2ϵ0mg
 σ
 .
-[5] Problem 6.  T 1 0IPhO 2012, problem 2. A challenging electrostatics and fluids problem; some
+[5] Problem 6.   T 1 0IPhO 2012, problem 2. A challenging electrostatics and fluids problem; some
 prior exposure to surface tension is helpful. (For more about the kinds of bubbles encountered in
 this problem, see section 5.9 of Physics of Continuous Matter by Lautrup.)
 2 Charges in Fields
@@ -168,22 +168,22 @@ r
 d
 ϵ0mA
 (Q − q/2).
-[3] Problem 9.  W 1 0USAPhO 2017, problem A3. A real-world application of magnetism, with great
+[3] Problem 9.   W 1 0USAPhO 2017, problem A3. A real-world application of magnetism, with great
 historical importance. For much more on the mechanism illustrated in this question, see this article.
-[3] Problem 10.  ^ 1 0USAPhO 2023, problem A2.
+[3] Problem 10.   ^ 1 0USAPhO 2023, problem A2.
 4
 Kevin Zhou Physics Olympiad Handouts
 [3] Problem 11. NBPhO 2010, problem 1. A contrived, but nice problem involving particles in fields.
 Solution. See the official solutions as usual. However, they have some typos. For part (ii), there
 should be a 2π on the right-hand side of the final answer. For part (iii), s + 2x is the displacement
 of the red ball after the blue ball enters the field, so the final inequality should be L > s + 2x.
-[3] Problem 12.  m 1 0APhO 2003, problem 3. A short problem on a “plasma lens”.
+[3] Problem 12.   m 1 0APhO 2003, problem 3. A short problem on a “plasma lens”.
 [4] Problem 13. APhO 2005, problem 2B. An elegant, tricky problem on focusing with magnetic
 fields. I recommend using Kai Wen Teo’s modified version.
 Solution. See Kai Wen Teo’s solution here.
 [4] Problem 14. @ 1 0IPhO 2011, problem 3. A problem on the interactions of charges and atoms.
-[3] Problem 15.  m 1 0USAPhO 2017, problem B2. A series of short calculations for a real-world setup.
-[5] Problem 16.  h 1 0IPhO 2021, problem 2. A comprehensive problem on E1 through E4.
+[3] Problem 15.   m 1 0USAPhO 2017, problem B2. A series of short calculations for a real-world setup.
+[5] Problem 16.   h 1 0IPhO 2021, problem 2. A comprehensive problem on E1 through E4.
 Remark
 You should almost never use a rotating frame to describe electromagnetic fields. Not only will
 you run into a more subtle version of the problems with field transformations, as described
@@ -289,7 +289,7 @@ B = µ0nI =
 2πµ0nmr2α
 eR
 .
-[5] Problem 19.  h 1 0EuPhO 2023, problem 3. A neat and rather difficult question, in a setup where
+[5] Problem 19.   h 1 0EuPhO 2023, problem 3. A neat and rather difficult question, in a setup where
 an eddy current can be computed exactly.
 3 Induction
 [3] Problem 20 (IPhO 2000). A thin copper wire of radius r and resistivity ρ is bent into a circular
@@ -298,11 +298,11 @@ rotating with angular frequency ω. The horizontal component of the local magnet
 is B. Neglecting any self-induction effects and assuming that B is small, find the time required for
 the angular frequency to halve. This is an example of “induction braking”.
 Solution. See the official solutions for IPhO 2000, problem 1.
-[3] Problem 21.  ^ 1 0USAPhO 2024, problem A1. How wires form a real LC circuit.
-[5] Problem 22.  T 1 0IZhO 2020, problem 3. A nice problem on electromagnetism and mechanics.
+[3] Problem 21.   ^ 1 0USAPhO 2024, problem A1. How wires form a real LC circuit.
+[5] Problem 22.   T 1 0IZhO 2020, problem 3. A nice problem on electromagnetism and mechanics.
 [5] Problem 23. APhO 2021, problem 3. A challenging problem on time-dependent image charges.
 4 Circuits
-[3] Problem 24.  W 1 0USAPhO 2007, problem A4.
+[3] Problem 24.   W 1 0USAPhO 2007, problem A4.
 [3] Problem 25. NBPhO 2009, problem 8. A review problem for RC and RL circuits.
 7
 Kevin Zhou Physics Olympiad Handouts
@@ -337,9 +337,9 @@ Solving the differential equation yields
 I =
 2E
 R
-
+
 1 − e−tR/5L
-
+
 ,
 dI
 dt

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, scaling-and-dimensional-analysis]
 ---
 
-According to the Bohr model, at what fraction of the speed of light does the electron move in the ground state of the hydrogen atom? 
+According to the Bohr model, at what fraction of the speed of light does the electron move in the ground state of the hydrogen atom?
  (4 pont)

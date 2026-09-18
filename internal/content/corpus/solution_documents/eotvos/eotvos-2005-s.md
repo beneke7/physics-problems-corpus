@@ -12,17 +12,17 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 ---
 
 2005. október 14-én délután az ország 16 városában rendezte meg az Eötvös Loránd Fizikai Társulat azévi Eötvös-
-versenyét. Budapesten 50, Pé sett 12, Debre enben és Szegeden 77, Miskol on 6, Ke skeméten 5, Veszprémben és
-Székesfehérváron 44, Gy®rött 1 hazai és 3 külföldi, Egerben, Szekszárdon és Szombathelyen 33, Békés sabán, Nagy-
-kanizsán és Sopronban 11 versenyz® adott be dolgozatot. Nyíregyházán sajnos egyetlen f®iskolai vagy középiskolai
+versenyét. Budapesten 50, Pé sett 12, Debre enben és Szegeden 7 7, Miskol on 6, Ke skeméten 5, Veszprémben és
+Székesfehérváron 4 4, Gy®rött 1 hazai és 3 külföldi, Egerben, Szekszárdon és Szombathelyen 3 3, Békés sabán, Nagy-
+kanizsán és Sopronban 1 1 versenyz® adott be dolgozatot. Nyíregyházán sajnos egyetlen f®iskolai vagy középiskolai
 diák se jelent meg a verseny színhelyén. Összesen 108 hazai és 4 külföldi versenyz® dolgozatát kellett értékelnie a
 versenybizottságnak (elnök: Radnai Gyula, tagok: Gnädig Péter, Honyek Gyula és Károlyházy Frigyes).
    Ismertetjük a feladatokat és a feladatok helyes megoldását.
 
    1. Két rögzített, egymástól l = 2 m távolságra lev®   sigán er®s, de nem nyúlékony fonalat vezetünk át, és a végeire
 egy-egy M = 1 kg tömeg¶ testet er®sítünk az 1.(a) ábra szerint. (A fonal néhányszor 10 N terhelést bír ki szakadás
-nélkül. A   sigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 11
-méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor A és B között kiegyenesedik. Ha
+nélkül. A   sigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 1 1
+méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor A és B között  kiegyenesedik . Ha
 azonban úgy engedjük el, hogy el®bb egy ugyan sak 1 kg tömeg¶ testet er®sítünk a fonal közepéhez, akkor a fonal a
 továbbiakban nem szakad el.
 
@@ -41,9 +41,9 @@ húzó testek már állnak. Rendkívül rövid id® alatt kell megállniuk, lef�
                                                                                                  1
 sebességr®l, amire addigi mozgásuk (szabadesés) során felgyorsultak. (Itt és a továbbiakban h =    l = 1 m.) Ha a
                                                                                                  2
-fékezést pillanatszer¶nek gondolnánk, vagyis a fékezés ideje ∆t → 0 lenne, akkor a testek gyorsulása és a fonalat
+fékezést  pillanatszer¶nek  gondolnánk, vagyis a fékezés ideje ∆t → 0 lenne, akkor a testek gyorsulása és a fonalat
 feszít® F er® is minden határon túl n®ne, ezért elpattanna a fonal.
-   A valóságban természetesen még a nem nyúlékony fonal sem abszolút nyújthatatlan, hanem egy ki sit deformál-
+   A valóságban természetesen még a  nem nyúlékony  fonal sem abszolút nyújthatatlan, hanem egy ki sit deformál-
 ható. Ehhez az alakváltozáshoz egy ki siny, de véges ∆t id® szükséges, így a testek gyorsulása és ezzel együtt a fonalat
 feszít® er® ha nem is végtelenné, de nagyon naggyá válik. Mivel a fonal nem bír ki nagy er®t, elszakad.
 
@@ -66,12 +66,14 @@ jelzett folyamatra! A széls® testek h utat süllyednek, a középs® h    3 ut
                                                      √          1
                                           M gh − M gh 3 + M gh = M v 2 .
                                                                 2
-Felhasználtuk, hogy a 2.(b) helyzetben a széls® testek egy pillanatra megállnak, ezért  sak a középs® testnek lehet ekkor
-                                                                      q         √ 
+
+
+Felhasználtuk, hogy a 2.(b) helyzetben a széls® testek egy pillanatra megállnak, ezért  sak a középs® testnek lehet ekkor
+                                                                      q         √
 mozgási energiája. A felírt egyenletb®l a középs® test sebessége: v =  2g 2 − 3 h > 0. Tehát valóban emelkedik még
 a középs® test. Meddig emelkedik? Ezt is kiszámíthatjuk, ha a 2.(b) és a 2.(c) állapotot hasonlítjuk össze energetikailag:
 
-                                                p                    1
+                                                p                     1
                                          2M g    h2 + y 2 − h + M gy = M v 2 .
                                                                       2
 Ez y -ra nézve másodfokú egyenletté alakítható, melynek megoldásai: y1 = −1,73 h és y2 = +0,22 h. (Az els® gyök
@@ -126,17 +128,19 @@ bal oldali test is ugyanekkora nagyságú, függ®legesen felfelé irányuló gy
                                                   Ffonal − M g = M          ,
                                                                          h
 azaz
-                                                        √ 
+                                                         √
                                    Ffonal = M g 1 + 2 2 − 3 = 1,536 M g ≈ 15 N.
-Így már érthet®, miért nem szakad el ebben a helyzetben a néhányszor 10 N terhelést kibíró fonal.
-   Érdemes felgyelni arra, hogy a széls® testek kétszer is emelkednek és kétszer is süllyednek egy-egy periódus során,
+Így már érthet®, miért nem szakad el ebben a helyzetben a  néhányszor 10 N terhelést kibíró  fonal.
+   Érdemes fel gyelni arra, hogy a széls® testek kétszer is emelkednek és kétszer is süllyednek egy-egy periódus során,
 hiszen a 2. ábrán feltüntetett mindhárom állapotban éppen állnak. Süllyedésük az id® függvényében nagyjából a
 4. ábrán vázolt módon történik.
-                                                          4. ábra
+
+
+                                                          4. ábra
 
 
 
-   2. Egy átlátszatlan lapon ki siny lyukak vannak az 5. ábrán látható háromszög-rá s elrendezésben. A lapot mono-
+   2. Egy átlátszatlan lapon ki siny lyukak vannak az 5. ábrán látható  háromszög-rá s  elrendezésben. A lapot mono-
 kromatikus, λ hullámhosszúságú lézerfénnyel világítjuk meg mer®legesen. A rá sállandó d = 100 λ.
 
 
@@ -146,13 +150,13 @@ kromatikus, λ hullámhosszúságú lézerfénnyel világítjuk meg mer®legesen
 
 
    Ábrázoljuk vázlatosan (a méretek, valamint a vízszintes és a függ®leges irányok bejelölésével), hogy milyen elhajlási
-képet gyelhetünk meg a rá stól 3 m távolságra elhelyezett erny®n!
+képet  gyelhetünk meg a rá stól 3 m távolságra elhelyezett erny®n!
 
    Megoldás. Elevenítsük fel azokat az ismereteket, amelyek a síkbeli optikai rá son (párhuzamos, egymástól egyenl®
-távolságra lév® rések rendszerén) áthaladó monokromatikus fény dirak iójára vonatkoznak! Világítsuk meg az optikai
+távolságra lév® rések rendszerén) áthaladó monokromatikus fény di rak iójára vonatkoznak! Világítsuk meg az optikai
 rá sot a síkjára mer®leges, keskeny lézersugárral. A rá   sal párhuzamosan elhelyezett erny®n ekkor közelít®leg egyenl®
 távolságra elhelyezked® fényes foltokat látunk. Jelöljük D -vel a rá sállandót, λ-val a hullámhosszat. Az intenzitás
-menetét az elhajlási (dirak iós) szög szinuszának függvényében a 6. ábra mutatja.
+menetét az elhajlási (di rak iós) szög szinuszának függvényében a 6. ábra mutatja.
 
 
 
@@ -161,7 +165,7 @@ menetét az elhajlási (dirak iós) szög szinuszának függvényében a 6. áb
 
 
    Az ábrán látható intenzitáseloszlást jól alátámasztja az a középiskolában tanult közelítés, amely szerint a rá s
-rései olyan keskenyek, hogy egy-egy résen belül, az onnan kiinduló elemi hullámok azonos fázisban vannak (Huygens
+rései olyan keskenyek, hogy egy-egy résen belül, az onnan kiinduló elemi hullámok azonos fázisban vannak (Huygens
 Fresnel-elv). Ugyanakkor két egymás melletti résb®l induló elemi hullámok er®sítésének feltétele:
 
 
@@ -171,7 +175,9 @@ Fresnel-elv). Ugyanakkor két egymás melletti résb®l induló elemi hullámok 
 
 
                                                           7. ábra
-   Ha az erny® S távolságra van az optikai rá stól (7. ábra ), akkor az els® f®maximum távolsága a           entrumtól
+
+
+   Ha az erny® S távolságra van az optikai rá stól (7. ábra ), akkor az els® f®maximum távolsága a           entrumtól
 
 
                                                                          λ
@@ -185,7 +191,7 @@ Fresnel-elv). Ugyanakkor két egymás melletti résb®l induló elemi hullámok 
 (Itt kihasználtuk, hogy λ ≪ d miatt αk ≪ 1, és így sin αk ≈ αk .)
    Térjünk rá a feladatban szerepl® háromszögrá sra! Mivel a háromszögrá s síkjára mer®legesen érkezik a fény, ezért
 minden egyes lyukból azonos fázisú elemi hullámok indulnak ki. Ezek a rá sra mer®leges irányban tovább haladva
-biztosan er®sítik egymást, útkülönbség nélkül, α = 0 irányban jelölik ki a keletkez® dirak iós kép         entrumát az elég
+biztosan er®sítik egymást, útkülönbség nélkül, α = 0 irányban jelölik ki a keletkez® di rak iós kép         entrumát az elég
 távol lév® erny®n.
    Hol lesz ehhez a   entrumhoz legközelebb újra egy er®sítési hely az erny®n? Milyen irányban?
    Válasszuk ki valamelyik ki siny lyukat. Gondolatban húzzunk ezen a lyukon át egy olyan egyenest, amelyik átmegy
@@ -217,14 +223,14 @@ induló hullámokra is. Tehát ebben az irányban az összes lyukon átjöv® f�
                                                  λ   2 λ    √
                                         s1 = S     = √ S = 2 3 cm ≈ 3,4 cm.
                                                  D    3 d
-Hat ilyen pont lesz az erny®n, amelyek egy  a entrum körüli  szabályos hatszög sú sait jelölik ki. Ez azért van így,
+Hat ilyen pont lesz az erny®n, amelyek egy   a entrum körüli   szabályos hatszög sú sait jelölik ki. Ez azért van így,
                                 ◦
-mert három, egymással 120120 -os szöget bezáró egyenes-sereget (lyuksor-sereget) jelölhetünk ki a háromszögrá son.
+mert három, egymással 120 120 -os szöget bezáró egyenes-sereget (lyuksor-sereget) jelölhetünk ki a háromszögrá son.
    Azt is észrevehetjük, hogy olyan helyen is lesz az erny®n er®sítés, melynek távolsága a entrumtól 2s1 , 3s1 , . . . , hiszen
 ekkor az egymás melletti lyuksorokból érkez® hullámok 2λ, 3λ, . . . útkülönbséggel találkoznak az erny®n. Ezek szerint
 a rá son felvett mindegyik egyenes-sereg az erny®n egy pontsorozatot eredményez. Ha a rá son elképzelt lyuksorok pl.
 vízszintes egyenesek mentén helyezkednek el, akkor az erny®n keletkez® pontsorozat egy függ®leges egyenesre illeszkedik.
-   Hatágú  sillag lesz tehát a kép? Nem egészen, bár ezek a most elképzelt pontok mind megjelennek az erny®n,
+   Hatágú   sillag  lesz tehát a kép? Nem egészen, bár ezek a most elképzelt pontok mind megjelennek az erny®n,
 de nem   sak ezek jelennek meg! Képzeljük el például a háromszögrá son azt az egyenes- (lyuksor)-sereget, amelyet a
 9. ábra bal oldalán látunk.
 
@@ -232,7 +238,9 @@ de nem   sak ezek jelennek meg! Képzeljük el például a háromszögrá son az
 
 
                                                            9. ábra
-            d
+
+
+            d
    Ez egy     rá sállandójú optikai rá snak felel meg, ezért az erny®n a megfelel® er®sítési helyek
             2
                                                            λ
@@ -241,11 +249,11 @@ de nem   sak ezek jelennek meg! Képzeljük el például a háromszögrá son az
 
 távolságra követik egymást. Most is igaz, hogy minél s¶r¶bb optikai rá sba rendez®dve képzeljük el a lyukakat, annál
 messzebb kerülnek egymástól a megfelel® er®sítési helyek az erny®n.
-   Meg lehet mutatni, hogy a háromszögrá s képe az erny®n ugyan sak szabályos háromszögrá s lesz, mert köl sö-
+   Meg lehet mutatni, hogy a háromszögrá s  képe  az erny®n ugyan sak szabályos háromszögrá s lesz, mert köl sö-
 nösen egyértelm¶en egymáshoz rendelhet® a lyukakra illeszthet® egyenessereg és az erny®n megjelen®, interferen ia
 eredményezte ponthalmaz. (Ennek belátásához legközelebb Varjas Dániel jutott el, aki díjnyertes dolgozatában a kü-
 lönböz® módon felvehet® elemi    ellák területének egyenl®ségét használta ki.) Mégis lesz valami eltérés a lyukak alkotta
-háromszögrá s és a dirak iós pontok alkotta háromszögrá s között (a pontok távolságában mutatkozó eltérésen kí-
+háromszögrá s és a di rak iós pontok alkotta háromszögrá s között (a pontok távolságában mutatkozó eltérésen kí-
                              ◦                                              ◦
 vül is): az egyik pontrá s 90 -os elforgatottja a másiknak. (Most akár 30 -os elforgatottat is mondhatnánk, de egy
                                                ◦
@@ -266,9 +274,9 @@ rá sot egymásra fektetünk. A feltétel
 be. Az így keletkez® lyukak ugyan nem kör, hanem hatszög alakúak lesznek, de ha a rések szélessége sokkal kisebb
                                                                                                                 ◦
 a rá sállandónál, akkor ennek nin s jelent®sége. S®t! Ha elhagyjuk a harmadik rá sot, és supán két, egymással 60 -
-os szöget bezáró rá s dirak iós képét vizsgáljuk, ez is ugyanaz lesz, mint az el®bbiek. Ebben az esetben ugyanis a
+os szöget bezáró rá s di rak iós képét vizsgáljuk, ez is ugyanaz lesz, mint az el®bbiek. Ebben az esetben ugyanis a
 lyukak ugyan rombusz alakúak, de ugyanabban a szabályos háromszögrá sban rendez®dnek el, tehát jó közelítésben
-ugyanazt a dirak iós képet eredményezik. Az eredményhirdetéskor Komlósi István egyetemi hallgató mutatta be ezt
+ugyanazt a di rak iós képet eredményezik. Az eredményhirdetéskor Komlósi István egyetemi hallgató mutatta be ezt
 a kísérletet.
 
    3. Egy jó min®ség¶ transzformátor szekunder teker sének menetszáma háromszorosa a primer teker sének. Ezt a
@@ -291,9 +299,11 @@ teker s fojtóteker sként hat.
    Megoldás. Ezt a feladatot is többféleképpen lehet megoldani. Eljuthatunk a helyes válaszhoz okoskodással, ana-
 lógiák felhasználásával, úgy, ahogy például az el®z® feladat megoldásának bemutatásakor jártunk el. Most más utat
 választunk: bemutatjuk a lehet® legrövidebb utat, ahogy a megoldást megkaphatjuk.
-   Ismert  szakkönyvekben, példatárakban megtalálható, így az Eötvös-versenyen szabadon felhasználható  a transz-
+   Ismert   szakkönyvekben, példatárakban megtalálható, így az Eötvös-versenyen szabadon felhasználható   a transz-
 formátor helyettesít® kap solása, ami a 12. ábrán látható.
-                                                             12. ábra
+
+
+                                                             12. ábra
 
 
    Els® közelítésben tekintsünk el attól, hogy az izzók ellenállása függ a rajtuk áthaladó áramtól (erre még vissza-
@@ -329,7 +339,7 @@ sítménye:
                                                      =         = 0,85    ,
                                                  R     169 R          R
 nin s nagyon messze attól a teljesítményt®l, amellyel ez az izzó a hálózati feszültségen világítana.
-   Ha most gyelembe vesszük azt a tényt, hogy ala sonyabb feszültségen (tehát ala sonyabb h®mérsékleten) az izzó
+   Ha most  gyelembe vesszük azt a tényt, hogy ala sonyabb feszültségen (tehát ala sonyabb h®mérsékleten) az izzó
 ellenállása is kisebb, azt mondhatjuk, hogy a primer ágban lev® izzók ténylegesen nagyobb teljesítménnyel világítanak,
 mint amit most kiszámítottunk.
    Bátran állíthatjuk, hogy mindegyik izzó t¶rhet®en ég, vagyis az a) válasz a helyes.
@@ -366,17 +376,19 @@ A helyettesít® kap solásban jωL1 és R        váltóáramú ellenállások 
 
 
 Éppen ez az, amit be akartunk bizonyítani.
-                                              A verseny eredménye
+
+
+                                              A verseny eredménye
    A verseny ünnepélyes eredményhirdetésére és a díjkiosztásra 2005. november 25-én délután került sor az ELTE
 Mogyoródi József termében.
    Bevezetésként a versenybizottság elnöke emlékezett vissza az 50 évvel ezel®tti és a 25 évvel ezel®tti versenyre.
 Írásvetít®n kivetítette az 50 évvel korábbi feladatokat, valamint az akkori nyertesek egy-egy KöMaL feladatra adott
-egykori megoldását. A feladatokat Kárteszi Feren , illetve Prékopa András t¶zte ki (akkor még nem volt zika rovat
+egykori megoldását. A feladatokat Kárteszi Feren , illetve Prékopa András t¶zte ki (akkor még nem volt  zika rovat
 a KöMaL-ban). Aki a versenyt megnyerte, Bártfai Pál matematikus, ma a Kürs hák-verseny zs¶rijének oszlopos
 tagja. Elfogadta meghívásunkat, személyesen ( saládosan!) megjelent az eredményhirdetésen, és néhány mondatban
 felelevenítette emlékeit. Nem   sak a versenyr®l beszélt, hanem a felkészülésr®l is, Vermes tanár úr szakkörér®l, melynek
-oly sokat köszönhetett zikából. Utána az elnök az 50 évvel ezel®tti második helyezett, az Egyesült Államokban él®
-Gutai László zikus levelét olvasta fel.  is megemlékezett egykori tanáráról, Varga Zoltánról, aki ®t Újpesten tanította.
+oly sokat köszönhetett  zikából. Utána az elnök az 50 évvel ezel®tti második helyezett, az Egyesült Államokban él®
+Gutai László  zikus levelét olvasta fel.   is megemlékezett egykori tanáráról, Varga Zoltánról, aki ®t Újpesten tanította.
 A 25 évvel ezel®tti Eötvös-verseny nyertesek közül Szalontai Zoltán és Umann Gábor jelent meg, mindketten a KöMaL
 szorgalmas feladatmegoldói voltak, négy éven át jelent meg fényképük a legjobb megoldók között. Ezeket a képeket
 egymás mellé vetítve láthatták most a megjelentek.
@@ -384,7 +396,7 @@ egymás mellé vetítve láthatták most a megjelentek.
 is: az els®t Honyek Gyula, a másodikat és a harmadikat Gnädig Péter mutatta be.
    Következtek az ünnepélyes eredményhirdetés legizgalmasabb pillanatai: az elnök Patkós András akadémikust, az
 Eötvös Loránd Fizikai Társulat elnökét kérte fel a díjak és az oklevelek átadására.
-   I. díjat, a vele járó Eötvös-verseny érmet és 20 ezer forintos jutalmat kapta Varjas Dániel, a BME mérnök-zikus
+   I. díjat, a vele járó Eötvös-verseny érmet és 20 ezer forintos jutalmat kapta Varjas Dániel, a BME mérnök- zikus
 hallgatója, aki a dunaújvárosi Szé henyi István Gimnáziumban érettségizett mint Kispál István tanítványa. Varjas
 Dániel tavaly is els® díjat kapott az Eötvös-versenyen, így hát ® az els® az országban, aki két Eötvös-verseny éremmel
 is rendelkezik. Nehéz volt megmondani, hogy ®, vagy Kispál tanár úr hatódott-e meg jobban, amikor kiderült, hogy
@@ -392,16 +404,16 @@ Dani nyert a versenyen.
    A versenybizottság döntése értelmében hárman kaptak II. díjat és vele 14 ezer forint jutalmat, ketten III. díjat és
 vele 12 ezer forint jutalmat, valamint hat versenyz®t részesített a zs¶ri di séretben:
    II. díjasok: Halász Gábor, az ELTE Radnóti Miklós Gyakorló Gimnáziumának 12. osztályos tanulója, Honyek
-Gyula tanítványa; Kómár Péter, az ELTE zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnázium-
+Gyula tanítványa; Kómár Péter, az ELTE  zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnázium-
 ban érettségizett mint Dvorák Ce ília tanítványa és Szolnoki Lénárd, a Debre eni Református Kollégium Dó zy
 Gimnáziumának 10. osztályos tanulója, Tófalusi Péter tanítványa.
    III. díjasok: Kónya Gábor, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. osztályos tanulója, Horváth
 Gábor tanítványa és Szé henyi Gábor, a szolnoki Verseghy Feren           Gimnázium 12. osztályos tanulója, Pé si István
 tanítványa.
    Di séretet kapott Farkas Ádám László, a miskol i Földes Feren         Gimnázium 11. osztályos tanulója, Zámborszky
-Feren    tanítványa; Feren zy Máté, a BME mérnök-zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló
+Feren    tanítványa; Feren zy Máté, a BME mérnök- zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló
 Gimnáziumban érettségizett mint Dvorák Ce ília tanítványa; Németh Balázs, a székesfehérvári Tóparti Gimnázium
-11. osztályos tanulója, Tóthné Rohovszky Katalin tanítványa; Pálinkás András, az ELTE zikus hallgatója, aki
+11. osztályos tanulója, Tóthné Rohovszky Katalin tanítványa; Pálinkás András, az ELTE  zikus hallgatója, aki
 a budapesti Piarista Gimnáziumban érettségizett mint Futó Béla tanítványa; Paulin Roland, a Fazekas Mihály
 F®városi Gyakorló Gimnázium 12. osztályos tanulója, Horváth Gábor tanítványa és Végh Sándor, a Debre eni
 Egyetem Kossuth Lajos Gimnáziumának 12. osztályos tanulója, Kirs h Éva és Szegedi Ervin             tanítványa.
@@ -410,5 +422,5 @@ erre a   élra felajánlott könyvek közül válogathattak.
    Végül Patkós András akadémikus elevenítette fel az Eötvös-versennyel kap solatos régebbi és legújabb emlékeit,
 benyomásait (lásd a hátsó bels® borítón középen jobbra). Utána közös fényképezkedés következett, melyen az 50 és a
 25 évvel ezel®tti nyertes fogta közre az idei els® díjast, s egy jó hangulatú baráti beszélgetésben folytatódott az egymást
-eddig java részt   sak hírb®l ismer® meghívottak társalgása. A Ramasoft Rt. jóvoltából üdít® és nom szendvi sek is
+eddig java részt   sak hírb®l ismer® meghívottak társalgása. A Ramasoft Rt. jóvoltából üdít® és  nom szendvi sek is
 jutottak a végig ott maradóknak.

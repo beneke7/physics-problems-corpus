@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, cross-domain-analogy]
 ---
 
-The sequence of images shows the stages of a water droplet falling from a dripping tap. Describe what is happening in each picture. (See the attached figure. ) 
+The sequence of images shows the stages of a water droplet falling from a dripping tap. Describe what is happening in each picture. (See the attached figure. )
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G827-fig1.gif)
+![figure](../../figures/komal/figures/komal-G827-fig1.gif)

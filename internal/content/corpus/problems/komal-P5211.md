@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-At what speed should a small object, being at rest at the starting point of a horizontal straight track of length $2L$, be pushed in order that after sliding along the vertical semicircular path of radius $R$ at the end of the straight track it hit the midpoint of the horizontal track? 
+At what speed should a small object, being at rest at the starting point of a horizontal straight track of length $2L$, be pushed in order that after sliding along the vertical semicircular path of radius $R$ at the end of the straight track it hit the midpoint of the horizontal track?
 
- The coefficient of kinetic friction along the horizontal track is $\mu$, the circular track is frictionless. 
- Data: $L=2$ m; $R=0.5$ m; $\mu=0.4$. 
+ The coefficient of kinetic friction along the horizontal track is $\mu$, the circular track is frictionless.
+ Data: $L=2$ m; $R=0.5$ m; $\mu=0.4$.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5211-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5211-fig1.gif)

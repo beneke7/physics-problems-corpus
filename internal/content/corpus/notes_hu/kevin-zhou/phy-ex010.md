@@ -50,7 +50,6 @@ Megjegyzés. A térbeli rendszer bonyolultabb, mert a szimmetrikus pörgettyűre
 érvényesek. Az egyetlen kényszerünk, hogy L · ω állandó; ez azt jelenti, hogy ω-nak az L-re merőleges
 invariábilisnak nevezett síkban kell feküdnie. A tehetetlenségi ellipszoidot a pörgettyűbe ágyazott absztrakt
 objektumként képzeljük el.
-16 1. Klasszikus mechanika
 
 
 Mivel L = ∂T /∂ ω, L merőleges a tehetetlenségi ellipszoidra, amiből következik, hogy az invariábilis

@@ -23,7 +23,9 @@ The 3rd Gulf Physics Olympiad — Theoretical Competition Solutions
 
 
                            — page 1 of 11 —
-                          PROBLEM 1
+
+
+                          PROBLEM 1
                                                                                            GPhO
                                                                                            Muscat 2019
                                                                                                          0g
@@ -68,7 +70,7 @@ the time taken to reach the highest point is                        The volume o
                                                                     The volume of the spherical part is equal to the difference of a
 v. (0.5 pts) The altitude of the airplane at its highest point cylinder with height and radius equalling to r, and a half-sphere
 can be expressed using the equation for uniform acceleration: of radius r. That corresponds to a volume of
-                                                          (0.2 pts)                                        
+                                                          (0.2 pts)
                                                                                     1 4                   2      1
                                                                         V2 = πr3 − · πr3 = πr3 1 −            = πr3 .     (0.2 pts)
                         gt20        v02 sin α02                                     2 3                   3      3
@@ -94,7 +96,9 @@ Part B. Glass of water in weightlessness (3 points)                 angle of con
 i. (1 pt) The reason why the water retains its shape is due be 0◦ and the glass is filled slowly. This means that while
 to surface tension holding it back. In general, when you have filling the glass, the surface of the water will slowly “invert”
                                                            — page 2 of 11 —
-                            PROBLEM 1
+
+
+                            PROBLEM 1
                                                                                                        GPhO
                                                                                                        Muscat 2019
                                                                                                                       0g
@@ -168,15 +172,17 @@ Solving (1) and (2) yields                                               bullet.
                                          down the force balance (0.3 pts)                    =−     =           −     .               (0.2 pts)
                                                                                      mbullet     2a       2        R0
                                                                  — page 3 of 11 —
-                                PROBLEM 1
+
+
+                                PROBLEM 1
                                                                                                         GPhO
                                                                                                         Muscat 2019
                                                                                                                        0g
 Therefore,                                                                so
-                                               
+
                                                2 −1                                                        −3/2
                   R0             R0 (v0 + u)                                                            2
-                                                                                                                                                −3/2
+                                                                                                                                                  −3/2
              a=            1−                         .       (0.1 pts)                1 − R02GM
                                                                                               (v0 +u)
                                                                                                                                   R0 (v0 + u)2
@@ -192,13 +198,13 @@ From Kepler’s III law,                                                        
                                     =       ,                 (0.2 pts)
                                  a3   GM⊕                                 T (u = 0) = T0 to T (u = um ) = 1.41T0 .                (0.1 pts)
 hence                                                                     By inspection, it is easy to see that choosing the speed such
-                                                −3/2                    that T = 43 T0 would guarantee the smallest number of orbital
+                                                  −3/2                    that T = 43 T0 would guarantee the smallest number of orbital
              2π                   R0 (v0 + u)2
         T =p                   1−                         .   (0.2 pts)   period before the collision. Then the collision would happen
             GM⊕                     2GM⊕
                                                                           after four orbital periods of the spaceship (three for the bullet).
 We can simplify this by noting that                                       In other words, the smallest possible travel time until hitting
-                                        −3/2                            the spaceship is
+                                          −3/2                            the spaceship is
                       2π          R0 v02
              T0 = p           1−               ,
                       GM⊕        2GM⊕                                                              T = 4T0 = 96 days.                       (0.3 pts)
@@ -207,7 +213,9 @@ We can simplify this by noting that                                       In oth
 
 
                                                                 — page 4 of 11 —
-                         PROBLEM 2
+
+
+                         PROBLEM 2
                                                                                               GPhO
                                                                                               Muscat 2019
 
@@ -262,7 +270,9 @@ the figure
 
 
                                                          — page 5 of 11 —
-                        PROBLEM 2
+
+
+                        PROBLEM 2
                                                                                           GPhO
                                                                                           Muscat 2019
 
@@ -340,7 +350,9 @@ With the electron (muon) cloud, only the charge that is inside
 a sphere of radius d contributes to the electromagnetic force.
 This can be verified using Gauss’ theorem on the said sphere.                        W = cV N kB Tm ,                    (0.2 pts)
                                                        — page 6 of 11 —
-                             PROBLEM 2
+
+
+                             PROBLEM 2
                                                                                                       GPhO
                                                                                                       Muscat 2019
 
@@ -364,8 +376,8 @@ To find rm , we combine adiabatic law and ideal gas law to                      
                                                                                                             u2
 obtain V γ−1 T = const. This gives V ∝ T −1/(γ−1) and since                   From the conservation of momentum, one can write
 r(V ) ∝ V 1/3 , we get
-                         3(γ−1)
-                              1                    3(γ−1)
+                           3(γ−1)
+                              1                      3(γ−1)
                                                         1                                             4πr2 pe = Ṁ u,                (0.3 pts)
                     T0                       4p0
        rm = r                       =r                        .   (0.1 pts)
@@ -379,7 +391,9 @@ iv. (1.5 pts) To get an estimate of the induced pressure, we                    
 
 
                                                                     — page 7 of 11 —
-                          PROBLEM 3
+
+
+                          PROBLEM 3
                                                                                               GPhO
                                                                                               Muscat 2019
 
@@ -466,7 +480,9 @@ The speed cancels out and we can express the acceleration as
 The acceleration is indeed propotional to the displacement, x.                            K=      (M1 + M2 )R2 ω 2 .          (0.2 pts)
                                                                                                 5
                                                            — page 8 of 11 —
-                         PROBLEM 3
+
+
+                         PROBLEM 3
                                                                                            GPhO
                                                                                            Muscat 2019
 
@@ -532,7 +548,9 @@ balance for a small piece of the interface.
 
 
                                                         — page 9 of 11 —
-                       PROBLEM 3
+
+
+                       PROBLEM 3
                                                                                              GPhO
                                                                                              Muscat 2019
 
@@ -604,7 +622,9 @@ us consider the situation given below:                                          
                                                                               2π                2π
                                                                                                                          (0.8 pts)
                                                       — page 10 of 11 —
-PROBLEM 3
+
+
+PROBLEM 3
                                 GPhO
                                 Muscat 2019
 

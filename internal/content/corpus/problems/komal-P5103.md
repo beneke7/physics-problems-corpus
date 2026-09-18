@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws, differential-element]
 ---
 
-A slinky of mass $m$ is suspended at one of its ends, due to its own weight it is extended to a length of $L$. Then one end of the slinky is held at a height of $H$ above a horizontal tabletop $(H<L)$, so the slinky is not extended totally. What are the forces which are exerted at the suspension and at the support? (The unstretched length of the slinky is negligible with respect to $H$.) 
+A slinky of mass $m$ is suspended at one of its ends, due to its own weight it is extended to a length of $L$. Then one end of the slinky is held at a height of $H$ above a horizontal tabletop $(H<L)$, so the slinky is not extended totally. What are the forces which are exerted at the suspension and at the support? (The unstretched length of the slinky is negligible with respect to $H$.)
  (5 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-The mass of each pulley in the pulley system shown in the figure is 1 kg. What is the magnitude of the force $F$ with which the monkey in the cage can be kept in equilibrium? The total mass of the monkey and the cage is 9 kg. 
+The mass of each pulley in the pulley system shown in the figure is 1 kg. What is the magnitude of the force $F$ with which the monkey in the cage can be kept in equilibrium? The total mass of the monkey and the cage is 9 kg.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G641-fig1.gif)
+![figure](../../figures/komal/figures/komal-G641-fig1.gif)

@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5135. Vízszintes talajon álló autóba beszálló, $G=840$ N súlyú vezető tömegközéppontja az  ábrán látható $A$ pontba kerül. (A méreteket az ábra jobb oldali része felülnézetből, méretarányosan mutatja. Az $A$ pont a kerekek által meghatározott téglalapban a bal első és a jobb hátsó kereket összekötő átló első harmadolópontja.) Mennyivel nő meg az egyes kerekekre ható nyomóerő a vezető nélküli esethez képest? A kerekek rugói egyformák, és követik a Hooke-törvényt.
 
-![figure](../../raw_html/komal_figures/komal-P5135-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5135-fig1.gif)

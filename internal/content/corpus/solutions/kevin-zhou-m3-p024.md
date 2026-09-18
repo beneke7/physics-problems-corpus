@@ -62,7 +62,7 @@ ṙ.
 Kevin Zhou Physics Olympiad Handouts
 We see that Mg = Ṁv + Mv̇, so Newton’s second law is
 Mg = M
-
+
 3ṙ
 r
 4ρ
@@ -71,7 +71,7 @@ ṙ +
 4ρ
 λ
 r̈
-
+
 and writing everything in terms of r gives
 rgλ/ρ = 12ṙ2
 + 4rr̈.

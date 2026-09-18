@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, conservation-laws]
 ---
 
-A small bead can move frictionlessly on a helix-shaped piece of wire. The symmetry axis of the helix is vertical, its radius is 10 cm, and its pitch is 20 cm. The bead is released at one point of the path. What will its acceleration be after descending 1 complete turn? 
+A small bead can move frictionlessly on a helix-shaped piece of wire. The symmetry axis of the helix is vertical, its radius is 10 cm, and its pitch is 20 cm. The bead is released at one point of the path. What will its acceleration be after descending 1 complete turn?
  (5 pont)

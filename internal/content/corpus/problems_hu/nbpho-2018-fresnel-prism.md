@@ -24,7 +24,7 @@ verification_status: pending
 
 A Fresnel-prizma egy átlátszó lap, amelyen periodikus csíkok sora található; az ilyen lap keresztmetszete az ábrán látható. Az anyag törésmutatója, amelyből a lap készült, $n = 1{,}47$.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
 
 **i)** *(4 pont)* Határozd meg a Fresnel-prizma osztástávját, $d$-t (az ábra megmutatja az osztástáv definícióját).
 

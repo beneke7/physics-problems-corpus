@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 Example. An explicit calculation of Landau diamagnetism. When the electrons are constrained
 to the xy plane, they occupy Landau levels with
-                                             
+
                                             1              eB
                                 E = n+          ℏωc , ωc =
                                             2              m
@@ -36,7 +36,7 @@ Allowing the electrons to move in the third dimension gives an energy contributi
 the grand partition function is
                                     ∞
                                       2L2 B                      βℏ2 kz2
-                          Z                                                            
+                          Z
                      L              X
              log Z =          dkz                log 1 + z exp −         − βℏωc (n + 1/2)
                      2π                   Φ0                      2m
@@ -46,12 +46,12 @@ where we added a factor of 2 to account for the spin sum, and converted the kz m
 into an integral. Now we apply the Euler summation formula with the choice
 
                                                        βℏ2 kz2
-                                 Z                               
+                                 Z
                          h(x) = dkz log 1 + exp −              + βx .
                                                         2m
 
 Then our grand partition function becomes
-                     ∞                                     Z ∞                                 
+                     ∞                                      Z ∞
                VB X                        VB                                       ℏωc dh
        log Z =      h(µ − ℏωc (n + 1/2)) =                        h(µ − ℏωc x) dx −        + ... .
                πΦ0                         πΦ0                0                      24 dµ
@@ -78,7 +78,6 @@ are extremely large. Any reasonable cutoff gives a reasonable result. For infini
 probability of occupancy really is the correct answer, because once the electron moves a significant
 distance from the atom, it has little chance of ever coming back: a random walk in three dimensions
 will likely never return to its starting point.
-87 3. Statistical Mechanics
 
 
 3.7     Kinetic Theory
@@ -88,7 +87,7 @@ to equilibrium. We begin with a heuristic introduction.
 
  • We will need the fact that in equilibrium, the velocities of the particles in a gas obey the
    Maxwell–Boltzmann distribution
-                                                3/2
+                                                  3/2
                                             m              2
                                 f (v) =               e−mv /2kB T .
                                           2πkB T
@@ -116,7 +115,7 @@ to equilibrium. We begin with a heuristic introduction.
  • Zooming out, we can roughly think of each gas molecule as performing a random walk with
    step size ℓ and time interval τ . For motion in one dimension starting at x = 0, the probability
    of being at position x = mℓ after time t = N τ is
-                                              r                   r
+                                                r                   r
                                         N              2    2          2τ −x2 τ /2ℓ2 t
                    P (x, t) = 2−N                ≈       e−m /2N =        e
                                     (N − m)/2         πN               πt
@@ -134,7 +133,6 @@ to equilibrium. We begin with a heuristic introduction.
                                                     ⟨r2 ⟩ =      t.
                                                               τ
       This can also be computed concretely by considering a random walk on a cubic lattice.
-88 3. Statistical Mechanics
 
 
  • For many particles diffusing independently, their density is described by the diffusion equation,
@@ -183,11 +181,10 @@ Using this basic setup, we can talk about transport properties.
                                                  ∆z = ℓ cos θ.
 
     Putting it all together, the momentum transferred per unit time per unit area is
-                      Z                               Z                    3/2
+                      Z                               Z                      3/2
                F                               dux                   m                   2
                  =n       dv vz f (v)∆px = mnℓ            dv                       ve−mv /2kB T cos2 θ.
                A                                dz                 2πkB T
-89 3. Statistical Mechanics
 
 
  • Now, the integral is essentially computing ⟨v⟩ up to the factor of cos2 θ. Working in spherical
@@ -241,7 +238,6 @@ Hence combining these equations, we have
                                dt      dz                  mn
 which is a diffusion equation for momentum. We first introduced diffusion for number density, but
 diffusion smooths away inhomogeneities in any conserved quantity.
-90 3. Statistical Mechanics
 
 
 Now we will consider kinetic theory proper, by deriving the Boltzmann equation.
@@ -296,7 +292,6 @@ Now we will consider kinetic theory proper, by deriving the Boltzmann equation.
    derivative rather than a convective derivative.
 
 We now introduce the BBGKY hierarchy.
-91 3. Statistical Mechanics
 
 
  • We define the one-particle distribution function by integrating over all but one particle,
@@ -343,7 +338,7 @@ We now introduce the BBGKY hierarchy.
  • The first two terms simply reflect the dynamics of free “streaming” particles, while the final
    term includes collisions. Hence we can write this result as
                                                                p2
-                                                  
+
                           ∂f1                  ∂f1
                               = {H1 , f1 } +           , H1 =     + V (r).
                            ∂t                  ∂t coll         2m
@@ -352,19 +347,18 @@ We now introduce the BBGKY hierarchy.
 
  • The collision integral cannot be written in terms of f1 alone, which is not surprising, as it
    represents collisions between two particles. We introduce the n-particle distribution functions
-                                                                       Z
+                                                                         Z
                                                                        N
                          fn (r1 , . . . , rn , p1 , . . . , pn , t) =      dVn f (ri , pi , t).
                                                                        n
 
     Next, we note that all N − 1 terms in the collision integral are identical, so
-                           Z
+                               Z
                                         ∂U (r − r2 ) ∂f                ∂U (r − r2 ) ∂f2
                                                             Z
                 ∂f1          N
                          =          dV1              ·    = dr2 dp2                ·    .
                 ∂t coll      2              ∂r         ∂p                   ∂r       ∂p
-92 3. Statistical Mechanics
 
 
  • The same logic may be repeated recursively to find the time evolution of fn . We find
@@ -377,7 +371,7 @@ We now introduce the BBGKY hierarchy.
                                                 i=1
 
     where the n-body Hamiltonian is
-                                         n  2                    
+                                         n   2
                                          X  p        i
                                                                          X
                                   Hn =                   + V (ri ) +            U (ri − rj ).
@@ -404,10 +398,10 @@ the lower fn , allowing us to apply approximations.
     where ω describes the dynamics of the collision, and depends on the interaction potential.
 
  • As a result, the collision integral can be written as
-                 Z
+                   Z
        ∂f1
                  = dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 )f2 (r, r, p′1 , p′2 ) − ω(p, p2 |p′1 , p′2 )f2 (r, r, p, p2 )
-                                                                                                                   
+
         ∂t coll
 
     where the two terms account for scattering into and out of momentum p. In a proper derivation
@@ -427,7 +421,6 @@ the lower fn , allowing us to apply approximations.
      – Time reversal symmetry implies that
 
                                       ω(p, p2 |p′1 , p′2 ) = ω(−p′1 , −p′2 | − p, −p2 ).
-93 3. Statistical Mechanics
 
 
      – Parity symmetry flips the momenta without swapping incoming and outgoing, so
@@ -439,10 +432,10 @@ the lower fn , allowing us to apply approximations.
                                           ω(p, p2 |p′1 , p′2 ) = ω(p′1 , p′2 |p, p2 ).
 
  • Applying this final property simplifies the collision integral to
-                        Z
+                          Z
              ∂f1
                         = dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 ) f2 (r, r, p′1 , p′2 ) − f2 (r, r, p, p2 ) .
-                                                                                                      
+
               ∂t coll
 
     At this point, we use the assumption of molecular chaos,
@@ -462,7 +455,7 @@ the lower fn , allowing us to apply approximations.
                          Z
        ∂f1
            = {H1 , f1 } + dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 ) f1 (r, p′1 )f1 (r, p′2 ) − f1 (r, p)f1 (r, p2 ) .
-                                                                                                            
+
        ∂t
     It is quite difficult to solve, being a nonlinear integro-differential equation.
 
@@ -485,7 +478,6 @@ Next, we investigate equilibrium distributions for the Boltzmann equation.
 
  • Note that β, µ, and u can all be functions of position. Such a solution is said to be in local
    equilibrium, and we used them in our heuristic calculations in the previous section.
-94 3. Statistical Mechanics
 
 
  • For simplicity, set V (r) = 0. Then the streaming term also vanishes if β, µ, and u are all
@@ -509,7 +501,6 @@ Next, we investigate equilibrium distributions for the Boltzmann equation.
 
    When we set this to β(µ−E +u·p), we recover the Bose–Einstein and Fermi–Dirac distributions
    with chemical potential µ, temperature 1/β, and drift velocity u.
-95 4. Continuum Mechanics
 
 
 4      Continuum Mechanics
@@ -533,7 +524,7 @@ Continuum mechanics is the continuum limit of kinetic theory.
                                                           √      is vmol . Then the typical fluctuation
       in the center of mass speed of N molecules is vmol / N . If we are considering a bulk flow of
       average velocity v, and we want v to be defined up to fractional precision ϵ, then
-                                                    v 2/3
+                                                     v  2/3
                                                       mol
                                             L≳ℓ
                                                       ϵv
@@ -565,7 +556,6 @@ We begin with basic fluid statics.
 
       where summation notation is used. Below, we will predominantly use index-free notation, so
       that the above equation would be written as dF = σ · dS.
-96 4. Continuum Mechanics
 
 
  • In a static fluid, there are no shear stresses, so σij is diagonal. Furthermore, σij must be diagonal

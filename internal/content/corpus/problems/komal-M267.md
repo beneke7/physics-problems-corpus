@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200602"
 verification_status: pending
 ---
 
-Place a cuboid-shaped, soft, dry sponge to a horizontal tabletop, such that its greatest face is on the table. Put a sheet of cardboard to the top of the sponge and load it gradually. How does the compression of the sponge depend on the load? Then gradually cease the loading. What can be observed? Repeat the experiment with sponge-balls. 
+Place a cuboid-shaped, soft, dry sponge to a horizontal tabletop, such that its greatest face is on the table. Put a sheet of cardboard to the top of the sponge and load it gradually. How does the compression of the sponge depend on the load? Then gradually cease the loading. What can be observed? Repeat the experiment with sponge-balls.
  (6 pont)

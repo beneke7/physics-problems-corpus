@@ -26,11 +26,11 @@ verification_status: pending
 
 You are given a flat semi-transparent foil with a micro-pattern printed on its surface that is invisible to the naked eye. The pattern consists of a large number of identical sinusoids with amplitude $A$, running horizontally with spatial period $\Lambda$, and vertically shifted by distance $d$ relative to each other, as schematically shown in Fig. 1. Under a microscope, one can see that the printed pattern is composed of strictly horizontal line segments, each vertically displaced from its neighbours by a constant pitch $s$, as shown in Fig. 2.
 
-![figure](../../sources/eupho/figures/eupho-2025-E2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-E2-1.png)
 
 *Fig. 1: Pattern (not to scale)*
 
-![figure](../../sources/eupho/figures/eupho-2025-E2-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-E2-2.png)
 
 *Fig. 2: Pattern as seen under microscope*
 

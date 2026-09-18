@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201409"
 verification_status: pending
 ---
 
-Measure the damping of a pendulum, which has a 50 g bob suspended ``bifilarly'' by two threads. The pendulum is released from the horizontal. Measure and plot the period of the pendulum, and the angle of its maximum displacement as a function of the number of swings. 
+Measure the damping of a pendulum, which has a 50 g bob suspended ``bifilarly'' by two threads. The pendulum is released from the horizontal. Measure and plot the period of the pendulum, and the angle of its maximum displacement as a function of the number of swings.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M343-fig1.gif)
+![figure](../../figures/komal/figures/komal-M343-fig1.gif)

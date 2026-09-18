@@ -9,5 +9,5 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás:**
- $a)$ 76,4%-kal csökken a negyedik detektor által mért intenzitás. 
+ $a)$ 76,4%-kal csökken a negyedik detektor által mért intenzitás.
  $b)$ Rendre 8, 10 és 12 centiméter.

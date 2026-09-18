@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-Measure the spring constant of the toy called jumping frog. One cane make the frog jump such that the sucker is pressed against the bottom disc, in the direction of the axis of the spring. (If the jumping frog is not available, one can make experiments with a retractable ballpoint pen.) 
+Measure the spring constant of the toy called jumping frog. One cane make the frog jump such that the sucker is pressed against the bottom disc, in the direction of the axis of the spring. (If the jumping frog is not available, one can make experiments with a retractable ballpoint pen.)
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M352-fig1.gif)
+![figure](../../figures/komal/figures/komal-M352-fig1.gif)

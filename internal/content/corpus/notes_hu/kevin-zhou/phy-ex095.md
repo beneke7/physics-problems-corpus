@@ -48,7 +48,6 @@ meg, de semmi okunk nincs arra számítani, hogy megmaradjon. Ennek a nyelvezetn
 a rendszer állapota valamely véletlen időpontban hirtelen ugrik, holott |2⟩ együtthatója valójában folyamatosan nő.
 Ezt a megfogalmazást az motiválja, hogy a perturbációs sor integráljaiban H1 bizonyos időpontokban vett értékei szerepelnek;
 mi azonban mindezeken a lehetséges időpontokon folytonosan integrálunk.
-259 11. Időfüggő perturbációelmélet
 
 Megjegyzés. A parametrikus gerjesztés finomabb, mint a közönséges gerjesztés, mert ωd = nω0 esetén is rezonáns, de a fenti
 HT -ben ez a hatás láthatatlannak tűnik, mivel HT nagyon hasonlít a közönséges gerjesztéséhez. Mi történik? A probléma az,

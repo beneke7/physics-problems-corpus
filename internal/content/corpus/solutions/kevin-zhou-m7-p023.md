@@ -127,7 +127,7 @@ and thus P = (8/27)ρAv3
 i . If the windmill were not running, the rate at which wind energy
 flows through it is (ρAvi)v2
 i /2, which means the maximum fraction harvested is 16/27.
-[5] Problem 25.  T 1 0GPhO 2017, problem 2. A very tricky composite fluids/mechanics problem.
+[5] Problem 25.   T 1 0GPhO 2017, problem 2. A very tricky composite fluids/mechanics problem.
 5 Wet Water
 So far we’ve mostly ignored viscosity and turbulence, an unrealistic limit that some refer to as “dry
 water”. Now we’ll consider some problems involving real, wet water.

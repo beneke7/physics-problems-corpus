@@ -79,7 +79,8 @@ Tasks           Description                            Marks
          34.5       426           0.824
          34.0       422           0.829
          33.5       419           0.834
-                                 Marking scheme for E2
+
+                                 Marking scheme for E2
                                                                                Page 2 of 11
 
              33.0                   417                    0.839
@@ -147,7 +148,8 @@ Reflection intensity against incident angle taken from θ ~ 4o to 60o in 0.5o
 intervals on one (LHS) side of the angular scale. The independent
 variable cos 𝜃 should be added to Table E2_1. (The Ti-coated etalon
 used is #15.)
-             Marking scheme for E2
+
+             Marking scheme for E2
                                                          Page 3 of 11
 
 2                                    TOTAL = 1.0 points
@@ -216,7 +218,8 @@ used is #15.)
     -33.0      425           0.839
     -32.5      427           0.843
     -32.0      428           0.848
-                                Marking scheme for E2
+
+                                Marking scheme for E2
                                                                             Page 4 of 11
 
             -31.5                  430                  0.853
@@ -281,7 +284,8 @@ Reflection intensity against incident angle taken from θ ~ -4o to -60o in
 0.5o intervals on the (RHS) other side of the angular scale. The
 independent variable cos 𝜃 should be added to Table E2_2. (The Ti-
 coated etalon used is #15.)
-                                  Marking scheme for E2
+
+                                  Marking scheme for E2
                                                                                                 Page 5 of 11
 
 3                                                                          TOTAL = 0.9 points
@@ -313,7 +317,8 @@ coated etalon used is #15.)
     Graphs E2_1 and E2_2 show the relationship between the intensity and
     |θ| for the positive (LHS) and negative (RHS) incident angles
     respectively. The peak numbers are also labeled for all graphs.
-                                     Marking scheme for E2
+
+                                     Marking scheme for E2
                                                                                                        Page 6 of 11
 
 4   Refer to Graphs E2_1 and E2_2.                                                 TOTAL = 0.2 points
@@ -359,7 +364,8 @@ coated etalon used is #15.)
                                                                                    0.2 points for working out the
                                                                                    numbers of X() in Tables E2_1
                                                                                    and E2_2
-                                    Marking scheme for E2
+
+                                    Marking scheme for E2
                                                                                                      Page 7 of 11
 
 
@@ -414,7 +420,8 @@ coated etalon used is #15.)
     Peak number vs. 𝐜𝐨𝐬 𝜽average
 
     The slope is 12.0
-                                Marking scheme for E2
+
+                                Marking scheme for E2
                                                                            Page 8 of 11
 
 The y-intercept is -5.45
@@ -439,7 +446,8 @@ shown in Graph E2_3a and Graph E2_3b i.e.
 
 
                             Graph E2_3b
-                                        Marking scheme for E2
+
+                                        Marking scheme for E2
                                                                                                           Page 9 of 11
 
 9    Refer to Graph E2_3                                                             TOTAL = 0.4 points
@@ -493,7 +501,8 @@ shown in Graph E2_3a and Graph E2_3b i.e.
      2 0).
 
      Refer to Table E2_3 for m.
-                                       Marking scheme for E2
+
+                                       Marking scheme for E2
                                                                                                          Page 10 of 11
 
 11   Refer to Graph E2_3:                                                           Total = 1.4 points
@@ -538,7 +547,8 @@ shown in Graph E2_3a and Graph E2_3b i.e.
      Eq. (4a).
 
      A mis-alignment of angle  between the laser beam and the angular scale
-                                 Marking scheme for E2
+
+                                 Marking scheme for E2
                                                                             Page 11 of 11
 
 corresponds to a correction of  for the incident angle  taken directly

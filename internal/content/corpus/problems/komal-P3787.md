@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: flagged
 ---
 
-We lean a cubic shaped box against the wall as shown in the figure so that it just does not roll over. The box is filled with water exactly to its half and a wooden ball is floating on the water surface. The ball is started from the wall and is approaching the other edge. What will happen? 
+We lean a cubic shaped box against the wall as shown in the figure so that it just does not roll over. The box is filled with water exactly to its half and a wooden ball is floating on the water surface. The ball is started from the wall and is approaching the other edge. What will happen?
 
  (4 pont)

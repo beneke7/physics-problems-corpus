@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201603"
 verification_status: pending
 ---
 
-What should the angle between two forces be in order that their sum is equal to the 
- $a)$ root-mean-square value of the magnitudes of the forces; 
- $b)$ harmonic mean of the forces? 
- Under what conditions will these angles be minimal, and what are these minimum values? 
+What should the angle between two forces be in order that their sum is equal to the
+ $a)$ root-mean-square value of the magnitudes of the forces;
+ $b)$ harmonic mean of the forces?
+ Under what conditions will these angles be minimal, and what are these minimum values?
  (4 pont)

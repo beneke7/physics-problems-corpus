@@ -59,7 +59,9 @@ Idea 2
 For a cyclic process that takes in heat Qin from a hot reservoir at temperature TH and outputs
 heat Qout to a cold reservoir at temperature TC, the work done is W = Qin − Qout. The
 efficiency η = W/Qin is maximized by the Carnot engine, for which η = 1 − TC/TH.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The study of thermodynamics arose from efforts in the early 19th century to understand
 the efficiency of steam engines. However, Carnot’s ideal reversible engine doesn’t resemble
@@ -121,12 +123,14 @@ in the adiabatic steps, which means Qin/TH = Qout/TC. The derivation then contin
 in part (a). (Of course, what we’ve done here is essentially just deriving the expression for
 the entropy, up to constants, without explicitly calling it that. This will be explored in more
 detail in T2.)
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The most common mistake students make in this problem set is forgetting to account for the
 work done by the atmosphere.
-[3] Problem 2.  W 1 0USAPhO 2009, problem A4.
-[3] Problem 3.  W 1 0USAPhO 2011, problem A1.
+[3] Problem 2.   W 1 0USAPhO 2009, problem A4.
+[3] Problem 3.   W 1 0USAPhO 2011, problem A1.
 If you want further practice, see USAPhO 1998 A1, 2008 A2, and 2010 A3. This kind of routine
 question should be easy. Some competitions try to make them harder by making the cycles more
 complicated (some truly crazy ones have been considered in the literature), but this is contrived
@@ -153,20 +157,22 @@ The tricky thing about this problem is that the pressures in the two compartment
 this is possible because the external agent is holding the piston. Instead, the temperatures
 are made equal by heat conduction. The work done by the agent is
 dW = −pA dVA − pB dVB = −RT
-
+
 dVA
 VA
 +
 dVB
 VB
-
+
 .
 On the other hand, this is also equal to the increase in energy,
 dW = dU =
 3
 2
 nRdT = 3RdT.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Combining the two gives a differential equation,
 3
 Z
@@ -225,7 +231,9 @@ decrease. The second half of the fourth step, and the first step, do no net work
 to pull in fresh air.
 This tells us what’s going on, but where are the heat reservoirs? The heating step occurs when
 the fuel is burned, so the burnt fuel itself is effectively the hot reservoir. The gas is cooled by letting
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 it leave and replacing it with new gas, so in some sense the atmosphere is the cold reservoir. But
 unlike the other examples of heat engines above, we use a different set of gas every cycle.
 The PV diagram is shown below.
@@ -280,17 +288,19 @@ for an adiabatic process, we find
 dP
 P
 =
-
+
 1 −
 2
 3η
-
+
 dV
 V
 which implies
 P ∝ V (2/3η)−1
 .
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 In other words, this is like an adiabatic process, but with a different effective value of γ. Using the
 given initial and final conditions, we have η = 4/3, so that P ∝ V −1/2. Thus, the gas does work
 W =
@@ -300,10 +310,10 @@ P dV =
 Z 4V0
 V0
 P0
-
+
 V0
 V
-1/2
+ 1/2
 dV = 2P0V0 = 2 × 105
 J.
 This problem might look contrived, but “polytropic” processes where PV β is constant, for a general
@@ -313,7 +323,7 @@ adiabatic process. Instead, engineers parametrize this by allowing β to be gene
 its value. As a simple concrete example, if the chamber containing the gas also contains some dirt,
 in thermal equilibrium of the gas, that dirt contributes to the system’s heat capacities CV and CP .
 It therefore shifts the effective value of γ away from its ideal gas value.
-[3] Problem 6.  ^ 1 0USAPhO 2018, problem A3. A simple model for how a vacuum pump works.
+[3] Problem 6.   ^ 1 0USAPhO 2018, problem A3. A simple model for how a vacuum pump works.
 2 Dynamic Ideal Gases
 Idea 3
 Problems involving ideal gases can be mechanics questions. For example, the first law of
@@ -340,7 +350,9 @@ P
 mgeff
 kBT
 dr
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 which integrates to give
 P(r = 0)
 P(r = R0)
@@ -389,7 +401,9 @@ T
 dP
 P
 (1 − 1/γ).
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Since the motion of the parcels of air is slow, hydrostatic equilibrium remains approximately
 true. Using the equation derived in part (a) gives
 dT
@@ -447,10 +461,10 @@ P(0)
 hAdP
 !
 = β
-Z H
+ Z H
 0
 ρghAdh
-
+
 = βEgrav
 where we used the fact that dP = −ρg dh in mechanical equilibrium.
 Thus, we conclude that
@@ -465,7 +479,9 @@ By the way, this result is actually a corollary of the virial theorem, which we 
 virial theorem states that for particles interacting by a power law potential V ∝ rn in long-
 term mechanical equilibrium, we have ⟨K⟩ = n
 2 ⟨V ⟩ on average. In this case, the particles are
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 the gas molecules and the Earth, which interact with n = 1, so that we expect ⟨V ⟩/⟨K⟩ = 2.
 Here, ⟨V ⟩ corresponds to what we’ve called Egrav, but we need to be careful with ⟨K⟩. The
 proof of the virial theorem doesn’t account for the energy of any degrees of freedom that aren’t
@@ -474,7 +490,7 @@ the horizontal translational degrees of freedom. We should therefore single out 
 translational kinetic energy, ⟨K⟩ = Ekin(R/2CV ), giving the expected result. (We also should
 add on the vertical kinetic energy of the Earth, but this is negligible.) Thus, you could also
 have solved this problem in one step using the virial theorem, which illustrates its power.
-[3] Problem 8.  m 1 0USAPhO 1997, problem B2.
+[3] Problem 8.   m 1 0USAPhO 1997, problem B2.
 Remark
 A Foehn is a hot, dry wind that comes down from a mountain range. This occurs in three
 steps. First, warm air rises adiabatically up the opposite side of the mountain range. As the
@@ -502,7 +518,9 @@ A thermally insulated chamber contains a vacuum; it is connected to the outside 
 valve. The valve is opened until the air inside the chamber reaches atmospheric pressure, then
 closed. The temperature of the air outside the chamber is T0. Treating the air as diatomic,
 what is the temperature T of the air inside the chamber?
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Let the chamber have a volume V , and let the atmospheric pressure be p0. As our system,
 consider the set of all air that eventually makes it inside the chamber, and suppose this air
@@ -555,7 +573,9 @@ nRT, Ef =
 2
 nRT′
 .
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Since the piston always pushes against a pressure P, it does work P(V − V ′), so by the first law of
 thermodynamics,
 P(V − V ′
@@ -600,16 +620,16 @@ PV γ
 = Px(V − Ax)γ
 so
 Px = P
-
+
 V
 V − Ax
-γ
+ γ
 ≈ P
-
+
 1 + γ
 Ax
 V
-
+
 .
 Thus, the force on the mass is
 F = −(Px − P)A ≈ −Pγ
@@ -625,7 +645,9 @@ r
 γPA2
 mV
 .
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (b) First, we’ve treated the gas as always having the pressure of a static ideal gas. That means
 the piston needs to move slowly enough for the gas to have time to adjust to this pressure,
 i.e. the piston should always be moving much slower than the speed of sound in the gas. This
@@ -665,13 +687,13 @@ which means we have
 mgd + PatmAd =
 3
 2
-
+
 Patm +
 mg
 A
-
+
 (V − Ad) − PV
-
+
 .
 Solving for d, we have
 d =
@@ -681,7 +703,9 @@ mgV
 A(mg + PatmA)
 .
 Interestingly, this approaches only 3/5 of the total height when mg goes to infinity.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 The assumption that all the energy released goes into the gas is a bit artificial, and just used
 to make the problem tractable. As the piston bounces up and down, it creates sound waves
 in the gas. These eventually dissipate into ordinary thermal energy, i.e. random motion of
@@ -734,14 +758,16 @@ A
 ϵ0E2
 2H2
 .
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Of course, we also have V1 = Ah, V2 = AH, p1 = p, and force balance in the initial state implies
 mgh = p1V1. Carefully plugging all of this in and writing everything in terms of H/h and the small
 ratio ϵ0E2/h2p yields the result
-
+
 H
 h
-2
+ 2
 −
 H
 h
@@ -783,11 +809,11 @@ temperature, but dT/dx is already proportional to ∆T, and we only want effects
 in ∆T, so we can treat κ as approximately constant. Then dT/dx is constant, as desired.
 Explicitly, if we put the left end of the tank at x = 0, then
 T(x) ≈ T0 +
-
+
 1 −
 x
 L
-
+
 ∆T.
 (b) For the system to be in mechanical equilibrium, the pressure must be uniform. By the ideal
 gas law, the density obeys ρ ∝ P/T, which implies that, to first order in ∆T, ρ is also a linear
@@ -796,13 +822,13 @@ that the total mass of gas remains m. We thus have
 ρ(x) ≈
 m
 πR2L
-
+
 1 +
 ∆T
 T0
 x − L/2
 L
-
+
 .
 (c) Relative to the left wall, the center of mass of the gas is at
 xcm =
@@ -816,23 +842,25 @@ dx =
 L
 Z L
 0
-
+
 1 +
 ∆T
 T0
 x − L/2
 L
-
+
 xdx = L
-
+
 1
 2
 +
 ∆T
 12T0
-
+
 .
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Thus it was displaced to a distance ∆x = L∆T/(12T0) to the right with respect to the carriage.
 Since there’s no net force on the system, the center of mass of the entire system must have
 stayed stationary. Thus the displacement of the carriage D satisfies
@@ -841,10 +869,10 @@ Solving for D yields
 D = −L
 m
 M + m
-
+
 ∆T
 12T0
-
+
 ≈ −L
 m
 M
@@ -880,7 +908,9 @@ proportional to e−E/kBT . Specifically:
 • For quantum systems, where the energy levels are discrete, the probability of being in a
 state n with energy En is proportional to e−En/kBT .
 • For a single classical particle, the state is instead specified by (x,p), the position and the
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 momentum, and the probability density in this space, called phase space, is proportional
 to e−E(x,p)/kBT .
 It isn’t possible to derive the Boltzmann distribution from anything we’ve already covered,
@@ -940,7 +970,9 @@ can transfer a substantial amount of energy to it in collisions. This energy nee
 for in E(x,p), and ultimately gives the same answer after a more complicated calculation. This is
 another example of the principle that when energy matters, you should almost always work in the
 frame of the most massive object in the problem.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 16. Some basic computations for ideal gases.
 (a) For an ideal gas in a box, show that the probability distribution of speeds obeys
 p(v) ∝ v2
@@ -981,7 +1013,7 @@ R∞
 0
 1
 2mv2
-
+
 v2e−mv2/2kBT dv
 R∞
 0 v2e−mv2/2kBT dv
@@ -1015,7 +1047,9 @@ Statistical mechanics implies that the velocity distribution in an ideal gas is
 p(v) ∝ e−mv2/2kBT
 which is a three-dimensional Gaussian. This result was first derived by Maxwell, long before
 statistical mechanics was understood, using an ingenious argument.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Suppose the ideal gas is inside a rectangular box, so that collisions with its left and right sides
 determine vx, the front and back sides determine vy, and the top and bottom sides determine
 vz. The distributions of velocities in each direction should therefore be independent, and
@@ -1066,7 +1100,9 @@ Furthermore, by energy conservation we have v2
 2 . Then the above equation
 can only be satisfied if f is an exponential, f(x) ∝ e−αx, which again gives p(v) ∝ e−αv2
 .
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 6: Equipartition Theorem
 Suppose some degree of freedom in phase space contributes to the energy by a power law,
 E ∝ pn
@@ -1111,7 +1147,9 @@ e−n2E0/kBT
 P∞
 m=1 e−m2E0/kBT
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Therefore, the average value of the energy is
 ⟨E⟩ =
 ∞ X
@@ -1198,7 +1236,9 @@ Then the fraction is just 1, so
 Evidently, every degree of freedom where the energy is linear in the momentum contributes
 energy kBT. This is just as we expect by the equipartition theorem, since there’s one degree
 of freedom with n = 1.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The reasoning is very similar, but now
 f(p) ∝ e−|p|c/kBT
 .
@@ -1268,7 +1308,9 @@ Combining these results, we conclude
 e−E0/kBT
 1 − e−E0/kBT
 E0.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Note that if kBT ≫ E0, then e−E0/kBT ≈ 1 − E0/kBT, so plugging into the formula, we get
 that ⟨E⟩ ≈ kBT, as desired.
 (c) For low temperatures, we have e−E0/kBT ≪ 1, which gives ⟨E⟩ ≈ E0e−E0/kBT .
@@ -1320,7 +1362,9 @@ e−En/kBT
 Such a cutoff corresponds to only allowing atomic orbitals that fit in a typical room, which is
 reasonable, and using this value of Z gives reasonable results, as would any sufficiently high
 but finite cutoff. For more on this point, see this paper.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (c) It’s the same issue as in part (b). As k → 0, the states of the harmonic oscillator get larger
 and larger in spatial extent. At some point, they become so large that other effects, such
 as the boundaries of the room or collisions with other molecules, come into play. Then the
@@ -1376,7 +1420,9 @@ Here’s a more subtle puzzle. In our analysis of the isothermal atmosphere, we 
 the distribution of speeds is the same everywhere. But if you look at any one particle, it
 will clearly pick up speed as it falls down. How is this self-consistent? Wouldn’t this tend to
 increase the temperature at lower heights?
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Again, it’s easiest to think about this situation in the limit of a very thin gas, where collisions
 are rare. Indeed, each particle that starts at the top of the atmosphere will pick up a lot
 of speed as it falls down. But why are there any particles at the top at all? Because at
@@ -1433,7 +1479,9 @@ basically works because they just transfer their momentum to another molecule. A
 the molecules are moving freely most of the time, the answer above is approximately right.
 In T2, we’ll see how an attractive interaction lowers the pressure. In T3, we’ll see that when
 the gas gets very dense, this leads to a dramatic effect: the gas condenses into a liquid.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 21. Use kinetic theory to find the pressure of a photon gas (i.e. an ideal gas of massless
 particles, which satisfy E = pc) in terms of its total internal energy U and volume V . Use this
 result to find γ for a photon gas, where γ is defined so that PV γ is constant in an adiabatic process.
@@ -1510,7 +1558,9 @@ RT
 .
 We have implicitly assumed that the glass is long enough that the molecules get into thermal
 equilibrium with the glass before they leave it. For a short glass, the answer would instead
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 depend on the typical speeds of molecules at the moment they sublimate.
 Example 9
 A container of volume V is filled with a gas of uniform temperature T, and placed in a
@@ -1548,7 +1598,9 @@ from an initial difference in densities.
 relative concentration of the latter is 0.7%. Uranium is enriched by a multi-stage process, where
 at each stage, evaporated UF6 is led through a porous wall. The porous wall is a thin film with
 microscopic holes, much smaller than the mean free path of the molecules, but larger than the
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 dimension of the molecules. How many stages are needed to increase the 235U content to 1.4%?
 The molar mass of fluoride is 19g/mol.
 Solution. Say the two different versions of UF6 have molecular masses M1,M2. The key idea is
@@ -1592,7 +1644,9 @@ Ti by equipartition. Therefore, n1 = n0/2, and the ideal gas law says
 p ∝ nT, so p1 = 2p0.
 If you think the step where we asserted ni⟨vi⟩ matched on both sides was not rigorous enough,
 here’s a more formal derivation. (The result of this derivation will also be used in T2.)
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 Lemma. Given a box with an (ideal) gas of particle mass m, temperature T, and number density
 n (number of particles per unit volume), the number of particles leaving a small hole of area A per
 unit time is
@@ -1610,12 +1664,12 @@ A ≪ λ.
 Proof. Let f(v) be the distribution of velocities of the particles. What this means is that the
 probability that a particle has velocity in [vx,vx + dvx] × [vy,vy + dvy] × [vz,vz + dvz] is
 f
-q
+ q
 v2
 x + v2
 y + v2
 z
-
+
 dvxdvydvz.
 Set up spherical coordinates with origin at the hole. We will now count the number of particles that
 hit the hole in a time dt using a funny double counting argument, where we start by counting the
@@ -1674,7 +1728,9 @@ would work just as well for a relativistic particle, or even photons, as we’ll
 sparse gas. Two parallel plates are at a distance L from each other. The space between the plates is
 filled with a gas of density ρ, with molecule of mass m. Assume that the gas density is low enough
 to neglect collisions between gas molecules, and that all radiation effects can be neglected.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Suppose the two plates are held at temperatures T + ∆T and T, where ∆T ≪ T. Assume
 that when gas molecules bounce from a plate, they instantly obtain the plate’s temperature.
 Estimate the heat flux per area P/A (in units of W/m2) between the plates. (This determines
@@ -1738,7 +1794,9 @@ m
 Notice that the result of this problem depends explicitly on the molecular mass m. This is
 very important, because in the early days of kinetic theory, the quantity m canceled out of
 almost every calculation. This led people to believe that atoms were unobservable in principle;
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 they were just a fictitious calculational tool used to approximate continuous matter. One of
 Einstein’s most famous discoveries was showing that macroscopically observable properties of
 Brownian motion did depend on m, hence giving a way to indirectly observe the reality of
@@ -1802,10 +1860,10 @@ and the steps are independent. Then the standard deviation of the displacement a
 quadrature, as covered in P2. The typical time to hit is when we get a standard deviation of
 order L,
 thit ∼
-
+
 L
 d
-2
+ 2
 d
 v
 ∼
@@ -1815,7 +1873,7 @@ r
 m
 kBT
 .
-[5] Problem 25.  h 1 0EuPhO 2017, problem 2. A nice problem using many of the above ideas.
+[5] Problem 25.   h 1 0EuPhO 2017, problem 2. A nice problem using many of the above ideas.
 Example 10
 A box of mass M contains an ideal gas consisting of many particles, with total mass Mg.
 Find ⟨V 2
@@ -1826,7 +1884,9 @@ keep track of the detailed collision dynamics. First, note that if each gas mole
 m, then each one has ⟨v2
 x⟩ = kBT/m by equipartition. Now there are two simple arguments
 that give different answers.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 1. If we apply equipartition of energy to the box itself, we get ⟨V 2
 x ⟩ = kBT/M.
 2. The total momentum of the box and gas together is zero, so
@@ -1879,7 +1939,9 @@ Mg + M
 , vx,rel = Vx − vx.
 These two new variables are independent, because the momentum conservation constraint
 just says the former is always equal to zero. Thus, we can safely apply equipartition of energy
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 to vrel. Recalling the reduced mass idea from M6, we have
 E ⊃
 1
@@ -1897,10 +1959,10 @@ kBT
 and by momentum conservation we conclude
 ⟨V 2
 x ⟩ =
-
+
 Mg
 M + Mg
-2
+ 2
 ⟨v2
 x,rel⟩ =
 kBT

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200604"
 verification_status: flagged
 ---
 
-Find the conditions for the system shown in the figure to be in equilibrium. 
+Find the conditions for the system shown in the figure to be in equilibrium.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3885-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3885-fig1.gif)

@@ -61,7 +61,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                       Cover Sheet                                           2
+
+
+2010 Semifinal Exam                       Cover Sheet                                           2
 
 
 
@@ -98,7 +100,7 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
      2010.
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                               G = 6.67 × 10−11 N · m2 /kg2
-     k = 1/4π0 = 8.99 × 109 N · m2 /C2         km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 109 N · m2 /C2         km = µ0 /4π = 10−7 T · m/A
                     8
      c = 3.00 × 10 m/s                          kB = 1.38 × 10−23 J/K
                        23
@@ -106,11 +108,13 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
                      −8
      σ = 5.67 × 10 J/(s · m · K )2   4          e = 1.602 × 10−19 C
      1eV = 1.602 × 10     −19 J                 h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1              cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1              cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                            Part A                                               3
+
+
+2010 Semifinal Exam                            Part A                                               3
 
 
 
@@ -167,7 +171,9 @@ acceleration of α. The coefficient of static friction between the object and th
 
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                              Part A                                              4
+
+
+2010 Semifinal Exam                              Part A                                              4
 
 
 
@@ -187,27 +193,27 @@ and Gauss’s law, the electric field in the material of the shell is
 
                                                  1 q0 − Q(t)
                                         E=                   .
-                                                4π0   r2
+                                                4π 0   r2
 This will cause a current density
 
                                            E     1 q0 − Q(t)
                                      J=      =
-                                           ρ   4π0 ρ  r2
+                                           ρ   4π 0 ρ  r2
 at a radius r, and therefore a net current of
 
                                                        q0 − Q(t)
                                       I = (4πr2 )J =             .
-                                                          0 ρ
+                                                           0 ρ
 
 Since I = dQ/dt, we may separate and integrate for
-                                                                       
+
                                dQ      dt                         q0             t
                                     =           ⇒    log                    =
-                             q0 − Q   0 ρ                     q0 − Q           0 ρ
+                             q0 − Q    0 ρ                     q0 − Q            0 ρ
 
 where we used the initial condition Q(0) = 0 to set the integration constant. Solving for Q(t) gives
 
-                                       Q(t) = q0 (1 − e−t/0 ρ ).
+                                       Q(t) = q0 (1 − e−t/ 0 ρ ).
 
 
 
@@ -224,7 +230,9 @@ useful information: Cp = 72 R, Cv = 52 R, 1 atm = 1.01 × 105 Pa.
 
   a. Draw a P-V diagram of the whole process.
                    Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                              Part A                                              5
+
+
+2010 Semifinal Exam                              Part A                                              5
 
 
 
@@ -249,7 +257,7 @@ useful information: Cp = 72 R, Cv = 52 R, 1 atm = 1.01 × 105 Pa.
 
   c. During an adiabatic process, P V γ is conserved. Combining this with the ideal gas law, T V γ−1
      is conserved. Therefore, the temperature after process B is
-                                                               γ−1
+                                                                 γ−1
                                                            V1
                                             T2 = T0
                                                            V
@@ -266,7 +274,7 @@ useful information: Cp = 72 R, Cv = 52 R, 1 atm = 1.01 × 105 Pa.
         V = 15.0 L = 15.0 L ·         ·      · 6    = 0.0150 m3 ,              V1 = V0 = 0.0123 m3
                                   1L    1 mL 10 cm3                                4
      and plugging in gives
-                                                               2
+                                                                 2
                                                       0.0123     5
                                      T2 = 298 K                      = 275 K
                                                       0.0150
@@ -284,7 +292,9 @@ chain. The chain begins with the following reactions:
                                    p + X1 → X3 + γ (5.49 MeV)                                 (A4-2)
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                            Part A                                             6
+
+
+2010 Semifinal Exam                            Part A                                             6
 
 
 
@@ -341,7 +351,9 @@ where z is the energy released in step A4-6.
      X7 is an electron neutrino.
 
                    Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                          Part A                                              7
+
+
+2010 Semifinal Exam                          Part A                                              7
 
 
 
@@ -377,7 +389,9 @@ where z is the energy released in step A4-6.
 
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                       Part A                             8
+
+
+2010 Semifinal Exam                       Part A                             8
 
 
 
@@ -393,16 +407,18 @@ If there is still time remaining for Part A, you should review your work for
 
 
                  Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                                Part B                                          9
+
+
+2010 Semifinal Exam                                Part B                                          9
 
 
 
 Part B
 Question B1
-A thin plank of mass M and length L rotates about a pivot at its center. A block of mass m  M
+A thin plank of mass M and length L rotates about a pivot at its center. A block of mass m   M
 slides on the top of the plank. The system moves without friction. Initially, the plank makes an
 angle θ0 with the horizontal, the block is at the upper end of the plank, and the system is at rest.
-Throughout the problem you may assume that θ  1, and that the physical dimensions of the
+Throughout the problem you may assume that θ   1, and that the physical dimensions of the
 block are much, much smaller than the length of the plank.
 
                                       L/2
@@ -444,12 +460,14 @@ of the block is negligible compared with the linear acceleration of the block up
                                                             I
 
                    Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                                 Part B                                           10
+
+
+2010 Semifinal Exam                                 Part B                                           10
 
 
 
 
-     We may neglect the rotational inertia of the block, since m  M . Next, the linear acceleration
+     We may neglect the rotational inertia of the block, since m   M . Next, the linear acceleration
      of the block is
                                           a = −g sin θ ≈ −gθ.
      It looks like we’ve derived two copies of the simple harmonic oscillator equation. However,
@@ -483,7 +501,7 @@ of the block is negligible compared with the linear acceleration of the block up
      One can trivially simplify to get an explicit expression for T , though this isn’t necessary.
 
   c. The centripetal acceleration is
-                                                        2
+                                                          2
                                                     dθ
                                        ac = x                 = xθ02 ω 2 sin2 ωt.
                                                     dt
@@ -500,7 +518,9 @@ of the block is negligible compared with the linear acceleration of the block up
 
 
                    Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                            Part B                                               11
+
+
+2010 Semifinal Exam                            Part B                                               11
 
 
 
@@ -535,7 +555,7 @@ These three parts can be answered independently.
         i. What is the smallest mass needed to break the fuse?
        ii. How fast is the mass moving when the fuse breaks?
 
-  b. A fuse is composed of a cylindrical wire with length L and radius r  L. The resistivity
+  b. A fuse is composed of a cylindrical wire with length L and radius r   L. The resistivity
      (not resistance!) of the fuse is small, and given by ρf . Assume that a uniform current I flows
      through the fuse. Write your answers below in terms of L, r, ρf , I, and any fundamental
      constants.
@@ -556,7 +576,9 @@ These three parts can be answered independently.
      ρf = 120 nΩ · m, and If = 5 A is the desired breaking current, what should be the radius of
      the wire r?
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                           Part B                                              12
+
+
+2010 Semifinal Exam                           Part B                                              12
 
 
 
@@ -614,7 +636,9 @@ These three parts can be answered independently.
           and it points along the circumference.
 
                   Copyright c 2010 American Association of Physics Teachers
-2010 Semifinal Exam                             Part B                                         13
+
+
+2010 Semifinal Exam                             Part B                                         13
 
 
 

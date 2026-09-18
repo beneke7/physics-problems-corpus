@@ -17,7 +17,7 @@ A h®mérsékletet állandó értéken tartva a gázelegyet lassan összenyomjuk
 változik a térfogat függvényében, ahol V1 = 15 dm3
 és p1 = 56,3 kPa.
 2. ábra
-a) Milyen 
+a) Milyen
 zikai jelenségek rejlenek az izotermán látható fur sa töréspontok mögött?
 b) Mennyi nitrogén és mennyi oxigén van a tartályban?
 (Honyek Gyula)
@@ -44,7 +44,7 @@ V1
 .
 Az oxigén egyel®re ismeretlen p0 telítési nyomását abból számíthatjuk ki, hogy a nitrogén még a V1 → V2 össze-
 nyomás közben is gáz maradt. Elhanyagolva a seppfolyós oxigén térfogatát a tartályban, valamint a nitrogéngázt
-továbbra is ideális gáznak tekintve felírhatjuk rá a BoyleMariotte-törvényt:
+továbbra is ideális gáznak tekintve felírhatjuk rá a Boyle Mariotte-törvényt:
 (p1 − p0)V1 = (p2 − p0)V2.
 Ebb®l az oxigén telítési nyomása p0 =
 2

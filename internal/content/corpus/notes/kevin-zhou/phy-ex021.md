@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 
 Example. The electric dipole has
-                                                               
+
                                           Q         1    1
                                       ϕ=              −             .
                                          4πϵ0       r |r + d|
@@ -33,7 +33,7 @@ To approximate this, we use the Taylor expansion
                                               n
                                                    n!
 which can be understood by expanding in components with d · ∇ = di ∂i . Then
-                                                
+
                                    Q           1      Q d·r
                              ϕ≈         −d · ∇     =          .
                                  4πϵ0          r     4πϵ0 r3
@@ -50,7 +50,6 @@ charge distribution
                                      ϕ(r) =           dr′
                                              4πϵ0          |r − r′ |
 and approximating the integrand with Taylor series gives the multipole expansion.
-30 2. Electromagnetism
 
 
 Note. Electromagnetic field energy. The energy needed to assemble a set of particles is

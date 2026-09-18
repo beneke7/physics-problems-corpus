@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy hőszigetelt hengerben egy dugattyú súrlódásmentesen mozoghat fel és le. A hengert egy szabadon mozgó, súlytalan, lassan hővezető fal két rekeszre osztja, lásd az ábrát. Kez-
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr41-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr41-fig1.jpg)

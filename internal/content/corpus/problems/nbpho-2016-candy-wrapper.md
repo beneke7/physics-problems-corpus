@@ -23,8 +23,8 @@ techniques: [graphical-reduction, scaling-and-dimensional-analysis]
 
 **5. CANDY WRAPPER (6 points)** — *Eero Uustalu.*
 
-Measure the thickness $d$ of the candy wrapper, estimate the uncertainty. 
+Measure the thickness $d$ of the candy wrapper, estimate the uncertainty.
 
-**Equipment:** Candy, two hexagonal pencils, rubber bands, green $\lambda=532 \mathrm{~nm}$ laser, measuring tape, screen, stand. 
+**Equipment:** Candy, two hexagonal pencils, rubber bands, green $\lambda=532 \mathrm{~nm}$ laser, measuring tape, screen, stand.
 
 **Warning:** do not look into the laser beam and do not direct it to the eyes of others!

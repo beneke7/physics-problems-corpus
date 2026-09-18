@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element, limiting-and-special-cases]
 ---
 
-There is some air in a 1-metre long horizontal cylinder-shaped container. The container is moved horizontally parallel to its symmetry axis at a constant acceleration, whilst the temperature of the inside air is kept at a constant value of $T=273$ K. At what acceleration $a_0$ would the pressure of the air at the front of the container be 
- $a)$ 0.1% smaller than that at the back of the container; 
- $b)$ half of the value of pressure at the back of the container? 
- Hint: if the temperature is constant, the density of air in the atmosphere of the Earth would change according to the barometric formula: $\varrho(h)= \varrho_0{\rm e}^{-\frac{Mgh}{RT}}$, where $M$ is the average molar mass of air. 
+There is some air in a 1-metre long horizontal cylinder-shaped container. The container is moved horizontally parallel to its symmetry axis at a constant acceleration, whilst the temperature of the inside air is kept at a constant value of $T=273$ K. At what acceleration $a_0$ would the pressure of the air at the front of the container be
+ $a)$ 0.1% smaller than that at the back of the container;
+ $b)$ half of the value of pressure at the back of the container?
+ Hint: if the temperature is constant, the density of air in the atmosphere of the Earth would change according to the barometric formula: $\varrho(h)= \varrho_0{\rm e}^{-\frac{Mgh}{RT}}$, where $M$ is the average molar mass of air.
  (5 pont)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4465. Miért ,,látható'' hidegben a lehelet? 
+P. 4465. Miért ,,látható'' hidegben a lehelet?
  Lánczos Kornél fizikaverseny, Székesfehérvár

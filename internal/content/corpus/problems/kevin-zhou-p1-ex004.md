@@ -28,9 +28,9 @@ Example 4
        The wavefunction ψ(x, y, z) of the electron in a hydrogen atom obeys the Schrodinger equation
 
                                 ℏ2
-                                     2
+                                      2
                                                ∂2     ∂2          e2
-                                                          
+
                                        ∂
                              −              +      +        ψ −        ψ = Eψ.
                                 2m ∂x2 ∂y 2 ∂z 2                4πϵ0 r

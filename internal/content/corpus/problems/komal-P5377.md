@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, stability-analysis]
 ---
 
-Three point-like objects, each having an electric charge of $q$, are fixed at the vertices of an equilateral triangle. Another point-like object of charge $Q$ is placed to the centroid of the triangle. What should the charge $Q$ of this fourth object be in order that even if the fixation of the objects is ceased all of the charged objects remain at rest? 
+Three point-like objects, each having an electric charge of $q$, are fixed at the vertices of an equilateral triangle. Another point-like object of charge $Q$ is placed to the centroid of the triangle. What should the charge $Q$ of this fourth object be in order that even if the fixation of the objects is ceased all of the charged objects remain at rest?
  (4 pont)

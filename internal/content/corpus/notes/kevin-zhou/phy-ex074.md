@@ -25,12 +25,11 @@ Example. Path integrals in quantum statistical mechanics. Since the density matr
 we would like to compute the matrix elements of e−βH . This is formally identical to what we’ve
 done before if we set t = −iℏβ. Substituting this in, we have
                                                                                                    
-                             N/2 Z                            N −1                  2          
+                               N/2 Z                            N −1                   2
                            m                                  η X      m(x j+1 − x j )
   ⟨x|e−βH |x0 ⟩ = lim                 dx1 . . . dxN −1 exp −                            + V (xj ) 
                   N →∞ 2πℏη                                   ℏ             2η 2
                                                                       j=0
-164 6. Path Integrals
 
 
 where we have defined η = ℏβ/N , and ϵ = −iη. The relative sign between the kinetic and potential
@@ -38,7 +37,7 @@ terms has changed, so we have an integral for the Hamiltonian instead, and the i
 damped rather than oscillatory. Taking the continuum limit, the partition function is
 
                                                         1 βℏ
-                                 Z      Z                Z         
+                                 Z      Z                 Z
                           Z = C dx0       Dx(u) exp −          H du
                                                         ℏ 0
 
@@ -47,7 +46,7 @@ that the temperature is high, so βℏ is small. Then the particle can’t move 
 short ‘time’ u = βℏ, so we can approximate the potential as constant,
                                                                  ! r
                                              1 βℏ m dx 2
-            Z                Z                 Z                             Z
+            Z                Z                 Z                               Z
                    −βV (x0 )                                              m
      Z ≈ C dx0 e               Dx(u) exp −                     du =               dx0 e−βV (x0 )
                                              ℏ 0 2 du                   2πβℏ2

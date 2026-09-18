@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-How long does an object take to fall into the Sun from a distance of 50 AU from the Sun, if it starts without initial speed? How long does it take to cover half of the distance? 
+How long does an object take to fall into the Sun from a distance of 50 AU from the Sun, if it starts without initial speed? How long does it take to cover half of the distance?
  (5 pont)

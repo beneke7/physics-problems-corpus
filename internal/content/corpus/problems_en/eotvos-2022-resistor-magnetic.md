@@ -21,4 +21,4 @@ links_hu: eotvos-2022-resistor-magnetic
 
 We construct circular hoops of radius $r$ and $2r$ from uniform-diameter resistor wire and place them coaxially in the same plane. The hoops are connected at two locations by radial "spokes" made from the same resistor wire, as shown in the figure. A current of strength $I$ is fed into the arrangement at point $A$ (radially) and removed at point $B$ (also radially). What is the magnitude of the magnetic induction vector at the center $O$ of the hoops?
 
-![](sources/eotvos/figures/eotvos-2022-resistor-magnetic-fig1.jpg)
+![](../../figures/eotvos/figures/eotvos-2022-resistor-magnetic-fig1.jpg)

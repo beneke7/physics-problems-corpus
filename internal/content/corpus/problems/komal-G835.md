@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A driver is driving at the foot of a hill at $60~\mathrm{km/h}$ when he switches to neutral gear. When he reaches the top of the hill, the speedometer of the car reads $40~\mathrm{km/h}$. Neglect drag and friction losses. 
- $a)$ What would be the speed of the car at the top of the hill if it had reached the bottom of the hill at $70~\mathrm{km/h}$? 
- $b)$ What should the minimum speed of the car at the bottom of the hill be in order to reach the top without without using the engine? 
+A driver is driving at the foot of a hill at $60~\mathrm{km/h}$ when he switches to neutral gear. When he reaches the top of the hill, the speedometer of the car reads $40~\mathrm{km/h}$. Neglect drag and friction losses.
+ $a)$ What would be the speed of the car at the top of the hill if it had reached the bottom of the hill at $70~\mathrm{km/h}$?
+ $b)$ What should the minimum speed of the car at the bottom of the hill be in order to reach the top without without using the engine?
  (4 pont)

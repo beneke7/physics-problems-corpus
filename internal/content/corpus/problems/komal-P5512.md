@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-A certain amount of water is heated from $20\;{}^\circ$C to $40\;{}^\circ$C using an 800 W immersion heater. We expect to heat the water in 210 seconds, but instead we find that it takes 230 seconds. Determine the heat capacity of the vessel. (Ignore other heat losses.) 
+A certain amount of water is heated from $20\;{}^\circ$C to $40\;{}^\circ$C using an 800 W immersion heater. We expect to heat the water in 210 seconds, but instead we find that it takes 230 seconds. Determine the heat capacity of the vessel. (Ignore other heat losses.)
  (3 pont)

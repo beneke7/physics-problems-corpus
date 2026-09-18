@@ -70,7 +70,8 @@ Theory Q2
 
 
                                                Page 1
-                                          d        1    r                                    0.25
+
+                                          d        1    r                                    0.25
                                               GM   2  3   0
                                           dr         r RG 
          which yields r  RG                                                                    0.25
@@ -127,7 +128,8 @@ Theory Q2
 
 
                                                   Page 2
-2.6                d2    3a                                                                  0.25
+
+2.6                d2    3a                                                                  0.25
 0.5pt   Volume                 contains 18 carbon
                    4       2
         atoms, therefore the density of the
@@ -185,7 +187,8 @@ Theory Q2
 
 
                                                   Page 3
-                          R 2  2 R 3  R 3 2 R 3   R  h 3  
+
+                          R 2  2 R 3  R 3 2 R 3   R  h 3  
               AS LC exp           G          G        G   C
                                                                 
                            2 L R
@@ -249,7 +252,8 @@ Theory Q2
 
 
                                                Page 4
-       1                2  GM S m 1 2 GM S m                                                  0.1
+
+       1                2  GM S m 1 2 GM S m                                                  0.1
           m  vE  v1             mv2 
        2                     RE      2          r2
                                     GMm

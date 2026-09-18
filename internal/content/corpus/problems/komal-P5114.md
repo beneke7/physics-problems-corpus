@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-Ending at the rim of the table there is a slope of angle of elevation of $\alpha$, from which a uniform density rectangular block of length $\ell$ and of height $d$ is sliding down. By what length does the block move further from the end of the table until it tilts, if 
+Ending at the rim of the table there is a slope of angle of elevation of $\alpha$, from which a uniform density rectangular block of length $\ell$ and of height $d$ is sliding down. By what length does the block move further from the end of the table until it tilts, if
 
- $a)$ friction between the slope and the block is negligible; 
- $b)$ the coefficient of kinetic friction between the slope and the block is $\mu$ ($0<\mu<\tan\alpha$, and $\mu d<\ell$)? 
+ $a)$ friction between the slope and the block is negligible;
+ $b)$ the coefficient of kinetic friction between the slope and the block is $\mu$ ($0<\mu<\tan\alpha$, and $\mu d<\ell$)?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5114-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5114-fig1.gif)

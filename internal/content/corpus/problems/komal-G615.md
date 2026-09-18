@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-A container, filled with water halfway, is sliding down (with some acceleration) along a long enough slope of angle of elevation of $30^\circ$. What is the angle between the surface of the water and the plane of the slope, if friction is negligible? 
+A container, filled with water halfway, is sliding down (with some acceleration) along a long enough slope of angle of elevation of $30^\circ$. What is the angle between the surface of the water and the plane of the slope, if friction is negligible?
  (3 pont)

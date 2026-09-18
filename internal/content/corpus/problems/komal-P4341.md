@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element, model-reduction]
 ---
 
-A long slope of angle of elevation is made of solid rubber cylinders which can easily revolve about their fixed axles. The rollers, which have mass of  m and radius  R , are close to each other, but they do not touch each other. To what maximum speed can a crate of mass  M be accelerated? (The coefficient of friction between the crate and the rollers is big enough.) 
+A long slope of angle of elevation is made of solid rubber cylinders which can easily revolve about their fixed axles. The rollers, which have mass of  m and radius  R , are close to each other, but they do not touch each other. To what maximum speed can a crate of mass  M be accelerated? (The coefficient of friction between the crate and the rollers is big enough.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4341-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4341-fig1.gif)

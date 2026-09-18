@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-The density of salt water is $1025~\mathrm{kg}/\mathrm{m}^3$, while that of fresh water is $1000~\mathrm{kg}/\mathrm{m}^3$. 
- a) How does the buoyant force exerted on a ship change when the ship leaves the river mouth and sails out into the open sea? 
- b) Calculate how many kilograms of salt are contained in $1~\mathrm{m}^3$ of seawater, given that the density of sea salt is $2200~\mathrm{kg}/\mathrm{m}^3$. Assume that mixing salt and water does not cause any change in volume. 
+The density of salt water is $1025~\mathrm{kg}/\mathrm{m}^3$, while that of fresh water is $1000~\mathrm{kg}/\mathrm{m}^3$.
+ a) How does the buoyant force exerted on a ship change when the ship leaves the river mouth and sails out into the open sea?
+ b) Calculate how many kilograms of salt are contained in $1~\mathrm{m}^3$ of seawater, given that the density of sea salt is $2200~\mathrm{kg}/\mathrm{m}^3$. Assume that mixing salt and water does not cause any change in volume.
  (3 pont)

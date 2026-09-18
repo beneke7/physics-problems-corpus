@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4017. 2 R külső átmérőjű, ismeretlen falvastagságú csövet függesztettünk fel két hosszúságú fonállal az ábra szerint. Ha a csövet kis kitérésű torziós lengésbe hozzuk, T lengésidőt mérhetünk. Mennyi a cső falának vastagsága?
 
-![figure](../../raw_html/komal_figures/komal-P4017-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4017-fig1.gif)

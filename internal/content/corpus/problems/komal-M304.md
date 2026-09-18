@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201003"
 verification_status: pending
 ---
 
-Measure the maximum force that can be exerted on an egg along its longer axis, and along the direction perpendicular to this axis, without breaking the egg. How much does the the egg become indented until the moment of break? 
+Measure the maximum force that can be exerted on an egg along its longer axis, and along the direction perpendicular to this axis, without breaking the egg. How much does the the egg become indented until the moment of break?
  (6 pont)

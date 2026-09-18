@@ -48,7 +48,9 @@ MARKS
                              2011 Physics NQE Solutions
                c
                ! Australian Science Innovations 2011 ABN 81731558309
-                          SECTION A: MULTIPLE CHOICE
+
+
+                          SECTION A: MULTIPLE CHOICE
                         USE THE ANSWER SHEET PROVIDED
 
 
@@ -99,7 +101,9 @@ Solution: (d) — µ0 = 1/(ε0 c2 ) so its SI units must be N C−2 s2 or kg m C
                             2011 Physics National Qualifying Examination
                        c
                        ! Australian Science Innovations 2011 ABN 81731558309
-Question 3
+
+
+Question 3
 
 
 
@@ -156,7 +160,9 @@ Solution: (a) — the forces are an action-reaction pair.
                         2011 Physics National Qualifying Examination
                    c
                    ! Australian Science Innovations 2011 ABN 81731558309
-Question 5
+
+
+Question 5
 A chunky tree frog jumps from a tree in an attempt to catch a small, speedy fly. Both are in mid–air and
 have the same kinetic energy. Which of the following statements is true?
 
@@ -201,7 +207,9 @@ object with greater m and momentum is conserved in the collision.
                          2011 Physics National Qualifying Examination
                     c
                     ! Australian Science Innovations 2011 ABN 81731558309
-Question 7
+
+
+Question 7
 A spherical drop of mercury with charge 8Q splits into eight identical spherical droplets, each with the
 same charge and radius. The electrostatic potential energy of a conducting sphere of radius r and charge
 q is q2 /8πε0 r, where ε0 is a constant. After the droplets are separated far apart so that they no longer
@@ -244,7 +252,9 @@ with almost constant acceleration.
                          2011 Physics National Qualifying Examination
                     c
                     ! Australian Science Innovations 2011 ABN 81731558309
- Question 9
+
+
+ Question 9
  A spirit level contains a bubble in a liquid. The level is suddenly jerked forward. Relative to the spirit
  level and liquid, the bubble moves
 
@@ -296,7 +306,9 @@ Question 10
                            2011 Physics National Qualifying Examination
                       c
                       ! Australian Science Innovations 2011 ABN 81731558309
-                    SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                    SECTION B: WRITTEN ANSWER QUESTIONS
                       USE THE ANSWER BOOKLET PROVIDED
 
    Question 11
@@ -354,7 +366,9 @@ diagram of the block
                              2011 Physics National Qualifying Examination
                         c
                         ! Australian Science Innovations 2011 ABN 81731558309
-   potential energy is the sum of the elastic and gravitational potential energies,
+
+
+   potential energy is the sum of the elastic and gravitational potential energies,
 
                            U   = Us +Ug
                                        1 2                (mg sin θ )2
@@ -411,7 +425,9 @@ d) Find the difference in position along the slope between successive points whe
                      2011 Physics National Qualifying Examination
                 c
                 ! Australian Science Innovations 2011 ABN 81731558309
-Let c2 be the next stationary point and note c2 > 0. Similarly, equating the potential energy
+
+
+Let c2 be the next stationary point and note c2 > 0. Similarly, equating the potential energy
 difference with the work done by friction gives c1 + c2 = −p. Adding these two relationships
 gives
 
@@ -434,7 +450,9 @@ satisfies n < 4µ mg
                   2011 Physics National Qualifying Examination
              c
              ! Australian Science Innovations 2011 ABN 81731558309
-Question 12
+
+
+Question 12
  An empty tin can has radius r = 50 ± 1 mm, height h = 150 ± 1 mm and wall, base and lid of uniform
  thickness which lies within the range s = 0.10 ± 0.01 mm. Wound around its circumference is a string,
  which is attached to a winch. The can is placed on a slope at angle θ to the horizontal so that the string
@@ -483,7 +501,9 @@ satisfies n < 4µ mg
                           2011 Physics National Qualifying Examination
                      c
                      ! Australian Science Innovations 2011 ABN 81731558309
-   The uncertainty in the mass of the tin can is
+
+
+   The uncertainty in the mass of the tin can is
                                               !                 "
                                                  Δr Δ(h + r) Δs
                                     Δm =           +              m
@@ -540,7 +560,9 @@ c) Find I and θ in terms of the slope and y-intercept of the graph you suggeste
                       2011 Physics National Qualifying Examination
                  c
                  ! Australian Science Innovations 2011 ABN 81731558309
-Substituting this result into the equation for the intercept and rearranging then gives
+
+
+Substituting this result into the equation for the intercept and rearranging then gives
                                                  !              "
                                                      4π nt rw b
                                      θ = arcsin −                 .
@@ -553,7 +575,9 @@ c) Find I and θ in terms of the slope and y-intercept of the graph you suggeste
                   2011 Physics National Qualifying Examination
              c
              ! Australian Science Innovations 2011 ABN 81731558309
-Question 13
+
+
+Question 13
  Pressure is the force per unit area exerted uniformly in all directions by a small volume of fluid on its
  surrounds.
 
@@ -595,7 +619,9 @@ c) Find I and θ in terms of the slope and y-intercept of the graph you suggeste
                            2011 Physics National Qualifying Examination
                       c
                       ! Australian Science Innovations 2011 ABN 81731558309
-             For the conical vessel, we note that pressure is a local force, and so must be independent of
+
+
+             For the conical vessel, we note that pressure is a local force, and so must be independent of
              conditions far away. Hence altering the shape of the flasks walls while keeping local
              conditions constant will not change the pressure locally, and so F = (ρ gh + Pa)π r2 also
              holds for this flask.
@@ -631,7 +657,9 @@ Acceleration due to gravity at sea level g = 9.8 m s−1
                         2011 Physics National Qualifying Examination
                    c
                    ! Australian Science Innovations 2011 ABN 81731558309
-Question 14
+
+
+Question 14
  Argon atoms are special because they stay in the atmosphere for a very long time. They are not recycled
  like oxygen and nitrogen. The aim of this problem is to estimate how many of the argon atoms in each of
  your breaths were once in Galileo Galilei’s lungs.
@@ -684,7 +712,9 @@ Acceleration due to gravity at sea level g = 9.8 m s−1
                          2011 Physics National Qualifying Examination
                     c
                     ! Australian Science Innovations 2011 ABN 81731558309
-Solution: The fraction of argon in the atmosphere that has passed through Galileo is thus
+
+
+Solution: The fraction of argon in the atmosphere that has passed through Galileo is thus
                                             NGal
                                          p=
                                             Natm

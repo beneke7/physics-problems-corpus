@@ -25,7 +25,7 @@ techniques: []
 
 Question 4
 A large truck breaks down on the freeway and receives a push to the nearest exit by a small car as shown below.
-![](aupho-2014-q4-fig01.png)
+![](../../figures/aupho/figures/aupho-2014-q4-fig01.png)
 While the car, still pushing the truck, is speeding up to get to cruising speed
 
 a. the amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car.

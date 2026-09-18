@@ -25,7 +25,7 @@ techniques: [limiting-and-special-cases, graphical-reduction]
 
 Tunnel diode is a semiconductor device, similar to the ordinary diode, the voltage–current characteristic of which is given in the attached graph. The circuit below describes a simple amplifier. The resistance $R=10 \Omega$, battery voltage $\mathcal{E}=0,25 \mathrm{~V}$.
 
-![figure](../../sources/nbpho/figures/2003-p1-f2.png)
+![figure](../../figures/nbpho/figures/2003-p1-f2.png)
 
 1) Find the current in the circuit, if $U_{\text {in }}+\mathcal{E}=$ 0,08 V.
 
@@ -35,4 +35,4 @@ Tunnel diode is a semiconductor device, similar to the ordinary diode, the volta
 
 4) The input signal is given in the graph below. Sketch the output signal as a function of time.
 
-![figure](../../sources/nbpho/figures/2003-p1-f3.png)
+![figure](../../figures/nbpho/figures/2003-p1-f3.png)

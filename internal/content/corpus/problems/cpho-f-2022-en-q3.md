@@ -26,7 +26,7 @@ verification_status: pending
 A thin homogeneous rigid wheel with radius $R$ and mass $M$ rolls without slipping along the horizontal plane $x y$, forming an angle $\theta(t)$ with the vertical. As shown in the figure, the plane of the wheel intersects xy along a straight line forming an angle $\phi(t)$ with the $x$ axis. We denote the coordinates of the point of contact of the wheel with the surface as $(x(t), y(t), 0)$. The free fall acceleration is $g$.
 
 The functions $x(t), y(t), \theta(t)$ and $\phi(t)$, with which we will describe the movement of the wheel, are not completely independent.
-![](cpho-f-2022-en-q3-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-en-q3-fig01.png)
 
 1. Find a kinematic relationship between these functions. The answer can include both the functions themselves and their time derivatives.
 

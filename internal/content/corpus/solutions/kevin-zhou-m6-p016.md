@@ -190,18 +190,18 @@ vr =
 s
 v2
 0
-
+
 1 −
 1
 x2
-
+
 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 .
 (c) A gravitational slingshot is simply an elastic collision, so as we saw in M3, the best frame to
 use is the center of mass frame, which in this case is effectively the planet’s frame. In this
@@ -244,18 +244,18 @@ v2
 x2
 + v2
 0
-
+
 1 −
 1
 x2
-
+
 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 −
 2
 x
@@ -271,11 +271,11 @@ x
 2) = v2
 0 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 −
 2v0vE
 x3/2

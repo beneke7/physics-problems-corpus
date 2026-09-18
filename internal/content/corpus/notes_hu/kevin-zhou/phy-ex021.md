@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 
 Példa. Az elektromos dipólus potenciálja
-                                                               
+
                                           Q         1    1
                                       ϕ=              −             .
                                          4πϵ0       r |r + d|
@@ -33,7 +33,7 @@ Ennek közelítéséhez a Taylor-kifejtést használjuk:
                                               n
                                                    n!
 ami komponensenként úgy érthető meg, hogy d · ∇ = di ∂i . Ekkor
-                                                
+
                                    Q           1      Q d·r
                              ϕ≈         −d · ∇     =          .
                                  4πϵ0          r     4πϵ0 r3
@@ -50,7 +50,6 @@ töltéseloszlásra
                                      ϕ(r) =           dr′
                                              4πϵ0          |r − r′ |
 az integrandus Taylor-sorral való közelítése a multipólus-kifejtést adja.
-30 2. Elektromágnesség
 
 
 Megjegyzés. Az elektromágneses tér energiája. Egy részecskerendszer összeállításához szükséges energia

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry, auxiliary-unknowns]
 ---
 
-Three alike metal plates of area $A$ are placed parallel to each other. The distance between the plates is small compared to the size of the plates. 
- $a)$ What is the electric field strength between the plates if the charge of the plate on the left is $+Q$, the charge of the middle plate is $+2Q$ and that of the right plate is $+3Q$? 
- $b)$ What is the electric field strength between the plates if the charge of the plate on the left is $+Q$, the charge of the middle plate is $-2Q$ and that of the right plate is $+3Q$? 
+Three alike metal plates of area $A$ are placed parallel to each other. The distance between the plates is small compared to the size of the plates.
+ $a)$ What is the electric field strength between the plates if the charge of the plate on the left is $+Q$, the charge of the middle plate is $+2Q$ and that of the right plate is $+3Q$?
+ $b)$ What is the electric field strength between the plates if the charge of the plate on the left is $+Q$, the charge of the middle plate is $-2Q$ and that of the right plate is $+3Q$?
  (4 pont)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: pending
 ---
 
-There is an iron load of mass 10 kg at the end of one of the arms of a balance and at the end of the other arm there is a wooden load of mass also 10 kg. Which end of the lever will tilt downward? To which arm and what size of iron weight must be hanged onto the scale in order to balance it? 
- (The density of iron is 7800 kg/m$^{3}$, the density of wood is 600 kg/m$^{3}$ and the density of air is 1,3 kg/m$^{3}$.) 
+There is an iron load of mass 10 kg at the end of one of the arms of a balance and at the end of the other arm there is a wooden load of mass also 10 kg. Which end of the lever will tilt downward? To which arm and what size of iron weight must be hanged onto the scale in order to balance it?
+ (The density of iron is 7800 kg/m$^{3}$, the density of wood is 600 kg/m$^{3}$ and the density of air is 1,3 kg/m$^{3}$.)
  (3 pont)

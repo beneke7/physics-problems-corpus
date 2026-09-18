@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A ping pong ball rests on a horizontal ping pong racket. The racket is moved in the horizontal direction so that it undergoes simple harmonic motion. The initial velocity is zero, the amplitude is $A$ and the angular frequency is $\omega$. Give the displacement of the ball's centre as a function of time. What is the length of the trail left by the ball on the racket if the ball's surface was covered with graphite? (Assume that the ball does not leave the surface of the racquet and does not slide on it.) 
+A ping pong ball rests on a horizontal ping pong racket. The racket is moved in the horizontal direction so that it undergoes simple harmonic motion. The initial velocity is zero, the amplitude is $A$ and the angular frequency is $\omega$. Give the displacement of the ball's centre as a function of time. What is the length of the trail left by the ball on the racket if the ball's surface was covered with graphite? (Assume that the ball does not leave the surface of the racquet and does not slide on it.)
  (5 pont)

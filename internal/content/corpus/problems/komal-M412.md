@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202203"
 verification_status: pending
 ---
 
-Place several muffin cupcake paper cases into each other and carry out drop experiments. Measure how the terminal speed of the cases depends on the number of cases. Determine the drag coefficient of the cases. 
+Place several muffin cupcake paper cases into each other and carry out drop experiments. Measure how the terminal speed of the cases depends on the number of cases. Determine the drag coefficient of the cases.
  (6 pont)

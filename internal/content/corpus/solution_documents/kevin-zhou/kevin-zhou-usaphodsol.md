@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 In this problem you will analyze the longitudinal motion of a linear molecule, i.e. the motion along
@@ -61,13 +63,13 @@ has to stay stationary, vB = −2mAvA/mB. This yields
 ω =
 s
 k
-
+
 1
 mA
 +
 2
 mB
-
+
 .
 Question A2
 Consider a long cylindrical capacitor whose surfaces are concentric cylinders of radius rin and rout.
@@ -94,7 +96,9 @@ V ∝ rin log(rout/rin) ∝ xlog(1/x), x = rin/rout.
 Setting the derivative to zero,
 log(1/x) − 1 = 0
 which implies x = 1/e, or rin = rout/e.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Question A3
 An electron with kinetic energy 1MeV travels along the z-axis and collides with a positron at rest.
 The particles annihilate, producing a pair of photons with equal energies. The rest mass of an
@@ -127,7 +131,9 @@ the combined mass. After 24 minutes, no more liquid remains in the beaker. The m
 are shown below.
 Plots of the temperature as a function of time, and the rate of change of temperature as a function
 of temperature are given below.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 1. Explain why the second graph has a sharp increase, then a gradual decrease, then a sharp
 decrease.
 2. The specific heat capacity of liquid X is known to be 2.19kJkg−1 K−1. Using this information
@@ -139,7 +145,9 @@ answers are:
 1. First, the hot plate needs to warm up. Once it fully warms up, it can start heating the liquid.
 As the liquid gets hotter, it starts to lose more heat to its environment, so its rate of heating
 decreases. Finally, the liquid starts to boil, which happens at constant temperature.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 2. We need to account for the fact that the liquid will always be losing heat to its environment,
 so we should look at dT/dt just before it starts boiling. Referring to the second graph, it is
 9◦C/min. Looking between minutes 12 and 13, we have
@@ -155,7 +163,9 @@ and extrapolating it to 160◦C. This will give an answer lower by about 10%, an
 good enough for the purposes of this question.
 3. We plot the mass versus time, in the regime where the liquid has started to boil, to get a
 boiling rate of 26g/min. This implies L = 183kJ/kg. Again, anything within 5% is fine.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 In this problem we discuss a simple model for how a bow drives a violin string. Model the string as
@@ -214,7 +224,9 @@ k2
 mu2
 k
 .
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 5. We need to have (xs − ∆x)/u ≪
 p
 m/k, which implies
@@ -238,7 +250,9 @@ maintaining the coil in motion. Neglect the coil’s self-inductance.
 with B0. Compute the resistance R of the coil in terms of this angle and the other parameters
 of the system.
 To avoid the rotating coil, Lorenz devised an alternative method.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 The setup consists of two identical metal disks D and D’ of radius b mounted on the conducting
 shaft SS’. A motor rotates the set at an adjustable angular velocity ω. Two identical coils C and
 C’, of radius a with N turns each, surround the disks. They are connected so that the current I

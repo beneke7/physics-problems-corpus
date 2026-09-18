@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202310"
 verification_status: pending
 ---
 
-Measure as accurately as possible the density of the material of a footed glass or any other type of drinking glass. 
+Measure as accurately as possible the density of the material of a footed glass or any other type of drinking glass.
  (6 pont)

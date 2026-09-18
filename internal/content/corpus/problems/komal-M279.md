@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: pending
 ---
 
-On windy days the overhead tram wires can easily begin to swing. The period of the oscillation depends on how much the wires sag. Model the wire with a single chain of the given length, which swings. Measure for small amplitudes how the period depends on the sag of the chain. 
+On windy days the overhead tram wires can easily begin to swing. The period of the oscillation depends on how much the wires sag. Model the wire with a single chain of the given length, which swings. Measure for small amplitudes how the period depends on the sag of the chain.
  (6 pont)

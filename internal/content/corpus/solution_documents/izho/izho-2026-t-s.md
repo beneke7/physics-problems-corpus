@@ -77,7 +77,9 @@ whose positive root equals to
                     𝑚
  Formula (7): 𝑝 =       (𝐿 − 𝑥)𝑣                                                                       0.2
                     𝐿
-XXII International Zhautykov Olympiad/Theoretical Competition                                           p. 2/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                           p. 2/11
 
               𝑑𝑝         𝑚          𝑚
  Formula (8): 𝑑𝑡 = − 𝐿 𝑣 2 + 𝐿 (𝐿 − 𝑥)𝑎                                                           0.2
@@ -139,7 +141,9 @@ Here 𝜏0 = 𝐶(𝑅 + 𝑟).
                     𝜏0
               𝐶 = 𝑅+𝑟   = 400 𝜇F.                                                                      (15)
        The amount of heat released by the resistor is determined by the Joule-Lenz law and is equal to
-XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 3/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 3/11
 
                              ∞               𝐼 2 𝑟 2 𝑅𝜏0
                𝑄 = ∫0 𝐼𝑐2 𝑅𝑑𝑡 = 0                          = 12 mJ.                                       (16)
@@ -209,7 +213,9 @@ convex surface is 𝑅/2, the focal length of the system is
                      2
 and the image itself is located at a distance from the observer
               𝑎2 = 𝐿 + 𝐹2 .                                                                               (6)
-XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 4/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 4/11
 
        The linear size of the image of the lantern at focus is equal to
                𝑙2 = 𝜑0 𝐹2 ,                                                                               (7)
@@ -276,7 +282,9 @@ therefore, the total work is
                𝐴0 = 𝑃0 𝑉0 (𝜂 + 𝛾−1 ) − 𝑃𝐴 𝑉0 = 1.25 ∙ 103 J.                                              (10)
 2.5 The working volume reaches its maximum value over half a revolution of the flywheel; therefore, the
 average rate of change of the volume is
-XXII International Zhautykov Olympiad/Theoretical Competition                                            p. 5/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                            p. 5/11
 
                      0   𝑉          𝑉𝜔
                𝑣 = 𝜋/𝜔 = 0𝜋 .                                                                             (11)
@@ -344,7 +352,9 @@ load:
                           𝐴
               𝑀0𝑚𝑎𝑥 = 2𝜋0 = 230 N ∙ m.                                                                    (26)
 2.14 A schematic plot of the corresponding dependence is shown in the figure below.
-XXII International Zhautykov Olympiad/Theoretical Competition                                      p. 6/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                      p. 6/11
 
 
 
@@ -373,7 +383,9 @@ centrifugal force:
               𝜔 = √ 𝛽𝑙 (2𝜋𝑀 − 1).                                                                  (30)
                                   0
 2.18 A schematic plot of the corresponding dependence is shown in the figure below.
-XXII International Zhautykov Olympiad/Theoretical Competition                    p. 7/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                    p. 7/11
 
                                                             Content     Points
                          𝛾
@@ -456,7 +468,9 @@ centrifugal force:
          maximum torque is pointed                                    0.1
          monotonic increase when the torque goes to zero              0.2
   2.15   Formula (27): 𝑚𝑔𝑙 sin 𝜃 = 𝑚𝜔2 𝑙 2 sin 𝜃 cos 𝜃                0.2         1.0
-XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 8/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                             p. 8/11
 
                                                 𝑔
           Formula (28): cos 𝜃 = 1,          𝜔<√                                                 0.4
@@ -518,7 +532,9 @@ and magnetic moment is obtained as
         The angular momentum of an electron moving along a circular trajectory with velocity 𝑣 is equal to
                 𝐿 = 𝑚𝑒 𝑣𝑅,                                                                                 (12)
 from where, taking into account the expression for the period of revolution
-XXII International Zhautykov Olympiad/Theoretical Competition                                          p. 9/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                          p. 9/11
 
                      2𝜋𝑅
                𝑇=             ,                                                                         (13)
@@ -586,7 +602,9 @@ which, taking into account (23), gives rise to
                𝑑𝑡
        Using the initial condition 𝑛(0) = 𝑛0 , we obtain the solution of equation (29) in the form
                𝑛(𝑡) = 𝑛0 exp(−2𝑘𝑡).                                                                (30)
-XXII International Zhautykov Olympiad/Theoretical Competition                                               p. 10/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition                                               p. 10/11
 
 It is interesting to note that under the influence of an external source of an alternating field, the difference in
 the number of atoms at the two levels drops to zero over time.
@@ -655,7 +673,9 @@ field; this is the so-called saturation mode.
                                    eℏ
   3.5     Formula (15): 𝐴 = 𝑔𝑠 𝐵0 2𝑚                                                             0.2          1.0
                                             𝑒
-XXII International Zhautykov Olympiad/Theoretical Competition         p. 11/11
+
+
+XXII International Zhautykov Olympiad/Theoretical Competition         p. 11/11
 
          Formula (16): 𝐸 = ℏ𝜔                                   0.2
          Formula (17): 𝐸 = 𝐴                                    0.2

@@ -27,7 +27,7 @@ techniques: [graphical-reduction, scaling-and-dimensional-analysis]
 
 During her summer vacation, Dheera decides to carry out a smartphone based experiment. She utilizes a smartphone's frequency sensor that can measure the frequency of the audio signal it receives. She takes a long cylindrical tube closed at one end. This tube has a length of $L=30.0 \mathrm{~cm}$ and an inner diameter of $d=2.45 \mathrm{~cm}$. Dheera starts filling the tube with water, which is dripping from a tap at a constant rate $Q$ (measured in milliliters per second (mL/s)).
 Dheera positions her smartphone near the open end of the tube to measure the frequency of the sound emitted as water fills the tube. An app on the phone captures a range of frequencies in the recorded audio at any given time. At randomly chosen values of time $t$, one of the frequencies at that time is shown in the following table.
-![](inpho-2024-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2024-a6-fig01.png)
 
 | Time $t(\mathrm{~s})$ | Frequency $f(\mathrm{~Hz})$ | Time $t(\mathrm{~s})$ | Frequency $f(\mathrm{~Hz})$ |
 | :--- | :--- | :--- | :--- |

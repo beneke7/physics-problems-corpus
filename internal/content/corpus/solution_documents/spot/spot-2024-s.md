@@ -46,7 +46,9 @@ g. No books or documents relevant to the test may be brought into the examinatio
 
 
                                     Page 1 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 Declaration
 
@@ -74,7 +76,9 @@ Name and signature:
 
 
                                          Page 2 of 34
-                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 1. A thin uniform ring of mass m falls onto a rough floor. The initial velocity of the centre
    of mass is v0 , at an angle θ clockwise from the upwards vertical when it contacts the floor
@@ -124,7 +128,9 @@ Name and signature:
 
 
                                          Page 3 of 34
-                                             Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
     Therefore,
@@ -165,7 +171,9 @@ Name and signature:
 
 
                                     Page 4 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 2. Two square plates of side length L, constructed from an ideal conducting material, are
    separated by an air gap of h. Both plates are parallel to and have the same projection
@@ -183,7 +191,9 @@ Name and signature:
 
 
                                          Page 5 of 34
-                                                             Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                             Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -192,7 +202,7 @@ Solution:
  We may calculate the electromotive force ϵ across the
  rod, where σ is the charge density on each plate:
 
-                                        
+
                                     σ
                       ϵ=       vB −          h
                                     ϵ0                                           M0.5        Correct equation
@@ -202,7 +212,7 @@ Solution:
                    dt = L2 :
 
 
-                                  
+
                   dσ             σ   h
                      =      vB −                                                 M0.5        Correct equation
                   dt             ϵ0 RL2
@@ -214,7 +224,7 @@ Solution:
 
 
                               σ Bh2
-                               
+
                 dv
                    = g − vB −                                                    M0.5        Correct equation
                 dt            ϵ0 mR
@@ -224,7 +234,7 @@ Solution:
 
 
 
-                                             
+
                           mR        dv
              σ = ϵ0                    − g + vB                                  M0.5        Correct equation
                           Bh2       dt
@@ -236,7 +246,7 @@ Solution:
                                                                                  M0.5        Attempt at substitu-
                                                                                              tion made
 
-        mϵ0 R d2 v          m  dv    mg
+        mϵ0 R d2 v           m   dv    mg
             2    2
                    + ϵ0 B +   2
                                     =                                            M0.5        Correct equation
@@ -252,7 +262,7 @@ Solution:
 
 
                  mgϵ20 B 2 L4 R
-                                                                                
+
                                                  −     h
                                                      mL2 ϵ0 R
                                                               (m+ϵ0 B 2 hL2 )t                m
@@ -266,7 +276,9 @@ constant value. (No credit should be given for answers which cite formulae witho
 
 
                                                  Page 6 of 34
-                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 3. Consider a magnetic monopole at the origin emitting a magnetic field B(r) = rµ3 r. The
    monopole is fixed. An electron of charge e = −1.6 × 10−19 C and mass m is at position
@@ -290,7 +302,9 @@ constant value. (No credit should be given for answers which cite formulae witho
 
 
                                           Page 7 of 34
-                                                        Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                        Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -334,7 +348,7 @@ Solution:
                                                                            or equivalent
                  dL  eµ
                     = 3 ṙr2 − r(r · ṙ)
-                                         
+
                  dt  r
  Now for
                                      r
@@ -342,7 +356,7 @@ Solution:
                                      r                              M1     Full expression for dS
                                                                                                dt
                                                                            or equivalent
-                                               
+
                 dS               ṙ r(r · ṙ)
                    = −eµ           −
                 dt               r    r3
@@ -354,7 +368,9 @@ Solution:
                                                           Total:     4
 
                                             Page 8 of 34
-                                                   Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                   Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -392,7 +408,9 @@ Solution:
 
 
                                           Page 9 of 34
-                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 4. A mass is attached to the end of a massless rod of length l, which is then raised to near-
    vertical then released. Let the angle between the rod and the vertical be ϵ ≪ 1.
@@ -407,7 +425,9 @@ Solution:
 
 
                                        Page 10 of 34
-                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -422,10 +442,10 @@ Solution:
  0) = ϵ, θ̇(t = 0) = 0, we obtain
                                                                      Equation solved
              ϵ Ωt
-                                            r 
+                                             r
                                               g               M1     correctly, correct
                        −Ωt
-                           
+
        θ=       e +e         = ϵ cosh Ωt Ω =                         expression obtained
              2                                l
 
@@ -470,7 +490,9 @@ Solution:
 
 
                                           Page 11 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 5. The 1997 Nobel Prize in Physics was awarded to Steven Chu, Claude Cohen-Tannoudji and
    William D. Phillips for development of methods to cool and trap atoms with laser light.
@@ -527,7 +549,9 @@ Solution:
 
 
                                         Page 12 of 34
-                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
  (f) Calculate the net force F on an atom moving with velocity v. Express your answer in      [3]
      terms of quantities defined earlier. Furthermore, show that in the low-velocity limit
@@ -584,11 +608,13 @@ tum equals the square root of the number of steps times the step size:
 
 
                                       Page 13 of 34
-                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
   Squaring both equations and adding,
-                                                                 q        2
+                                                                  q         2
                          x20 [(ω 2 − ω0 )2 cos ϕ + γ 2 ω 2 ] =        E0        .
                                                                   m
   Therefore,
@@ -640,7 +666,7 @@ c. The rate at which photons are absorbed is the power absorbed divided by the
                                                                             λ =
    hω
    2π = ℏω, thus the rate at which photons are absorbed is
-                                 2                
+                                  2
                                    q     γ       2    1
                             R=          2    2
                                                E0 ·     .
@@ -658,7 +684,9 @@ c. The rate at which photons are absorbed is the power absorbed divided by the
 
 
                                    Page 14 of 34
-                                            Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
   Mark scheme:
@@ -677,11 +705,11 @@ e. The Doppler effect causes the particle to see the field oscillating with angu
                                   ω =ω           .
                                             c+v
    Performing binomial expansion, we have
-                      v 1/2       v            v −1/2         v
+                       v  1/2       v             v  −1/2         v
                     1−        ≈1− ,           1+          ≈1− .
                        c           2c             c              2c
   Multiplying the two quantities together,
-                                v             vω
+                                 v              vω
                     ω′ = ω 1 −        ⇒ δωD = −    = −kv.
                                  c               c
   Mark scheme:
@@ -715,12 +743,12 @@ f. The forces from the + and − beams can be written as
                                      =
                                        γ 2 + 4∆2 ∓ 8∆kv
                                                    γ2
-                                     =                           
+                                     =
                                        (γ 2 + 4∆2 ) 1 ∓ γ 28∆kv
                                                             +4∆ 2
 
                                               2
-                                                                   
+
                                             γ             8∆kv
                                      ≈ 2           1 ±                .
                                        γ + 4∆2         γ 2 + 4∆2
@@ -728,7 +756,9 @@ f. The forces from the + and − beams can be written as
 
 
                                Page 15 of 34
-                                          Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                          Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
   Thus,
@@ -755,7 +785,7 @@ g. For small v,
   1 – Correct final answer
 h. First we compute dE
                     dt due to cooling.
-                                
+
                 dE     d 1     2       dv                  2α
                     =       mv = mv       = F v = −αv 2 = − E.
                 dt     dt 2            dt                  m
@@ -778,7 +808,7 @@ h. First we compute dE
               dt due to cooling and solving for E
   1 – Applying equipartition theorem
   1 – Correct equilibrium temperature
-i. Note that                                             
+i. Note that
                               ℏγ         γ     2(−∆)               ℏγ
                          T =                 +                 ≥      .
                              2kB       2(−∆)     γ                 kB
@@ -792,7 +822,9 @@ i. Note that                                             
 
 
                                 Page 16 of 34
-                                         Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                         Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 For a comprehensive discussion, see: Gould, P. (1997). Laser cooling of atoms to the
@@ -803,7 +835,9 @@ Doppler limit. American Journal of Physics, 65(11), 1120–1123. https://doi.org
 
 
                                  Page 17 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 6. An electron is confined to move along the circumference of a thin ring with radius r.
    (a) Find the allowed values of its kinetic energy, giving your answer in terms of the electron   [2]
@@ -823,9 +857,9 @@ Doppler limit. American Journal of Physics, 65(11), 1120–1123. https://doi.org
 
    (b) By considering the energy contribution from the current of the moving charge, show           [2]
        that the total energy of the system (up to an additive constant) is given by
-                                                                    2
+                                                                     2
                                         p2
-                                                       
+
                                                 1             eΦ
                                      E = eff =             p+
                                         2m     2m             2πr
@@ -862,7 +896,9 @@ Doppler limit. American Journal of Physics, 65(11), 1120–1123. https://doi.org
 
 
                                         Page 18 of 34
-                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -916,13 +952,15 @@ Solution:
  field, thereby increasing the stored magnetic energy.
 
              p2                         eΦ 2
-                                           
+
                   eΦ     1                                  A0.5    Correct answer
  Thus, E =      +    p=              p+       + const.
              2m 2πmr    2m              2πr
                                                 Total:       2.0
                                         Page 19 of 34
-                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -936,17 +974,17 @@ Solution:
 
  Applying the same condition 2πr = nλ as part (a), the
  quantised momentum is now
-                                                         M0.4    Correct equation
+                                                           M0.4    Correct equation
                  nh − eΦ     h       1
             p=            =       n−
                    2πr      2πr      2
  The kinetic energy and current are then given by
 
                    p2    h2      1 2
-                                  
+
              KE =     = 2 2 n−
                    2m  8π mr     2
-                                    
+
                   ep      eh       1
             I=−       =− 2 2 n−
                 2πmr    4π mr      2
@@ -967,7 +1005,9 @@ Solution:
 
 
                                         Page 20 of 34
-                                                     Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                     Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -986,11 +1026,11 @@ Solution:
  The sign in peff changes between the top and bottom
  paths (clockwise and anticlockwise respectively). This
  gives a phase difference between both paths of
-                                                  
+
                    2πpeff        2π           eΦ
            ϕtop =         Ltop =    Ltop p −
                      h            h          Lloop
-                                                  
+
                    2πpeff        2π           eΦ
            ϕbot =         Lbot =    Lbot p +
                      h            h          Lloop
@@ -1005,11 +1045,11 @@ Solution:
  the bottom slit obtains a relative phase shift of +π,           M1     that the bottom slit
  which translates the diffraction pattern down by half a                has additional phase
  period.                                                                +π and hence y = 0 is
-                                                                      a minima
+                                                                        a minima
                                   1
                    d sin θ = n −      λ
                                   2
-                                         
+
                               hL        1
                   ymaxima ≈        n−
                              mvd        2
@@ -1034,7 +1074,9 @@ Solution:
 
 
                                              Page 21 of 34
-                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 7. A straw with its bottom end covered is placed in a large tank of water such that its
  bottom end is H below the surface of the water. At t = 0 the barrier (dashed) vanishes.
@@ -1076,7 +1118,9 @@ Solution:
 
 
                                       Page 22 of 34
-                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1126,7 +1170,9 @@ Solution:
 
 
                                        Page 23 of 34
-                                                      Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                      Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1170,7 +1216,9 @@ Solution:
 
 
                                               Page 24 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 8. A cyclic process with one mole of an ideal polyatomic gas appears as a circle on the pressure-
    volume (P − V ) diagram. Coordinates of the circle centre are (P0 ,V0 ), the diameter along
@@ -1192,7 +1240,9 @@ Solution:
 
 
                                         Page 25 of 34
-                                                    Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                    Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1249,7 +1299,9 @@ Solution:
 
 
                                             Page 26 of 34
-                                                     Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                     Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1301,7 +1353,9 @@ Solution:
 
 
                                              Page 27 of 34
-                                                         Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                         Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1319,7 +1373,7 @@ gradients, we have:
 Hence, our first equation equating gradients (in dimensionless coordinates) is            =    .
                                                                                    P − P0   V
 With the final constraint that the point lies on the circle,
-                                           2                   2
+                                             2                     2
                                    P − P0                V − V0
                                                  +                     =1
                                     ∆P                    ∆V
@@ -1332,7 +1386,9 @@ With the final constraint that the point lies on the circle,
 
 
                                         Page 28 of 34
-                                                   Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                   Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 9. From special relativity, it is known that energy and mass are equivalent and interchangeable.
    Some of the results of general relativity can be obtained by treating the gravitational mass
@@ -1346,11 +1402,11 @@ With the final constraint that the point lies on the circle,
         contracted with respect to an observer at infinity, and determine the speed v at which
         a non-accelerating frame would experience the same effect.
    To account for these effects, under weak gravity r ≫ GM
-                                                                
+
                                                             c2
                                                                   , the usual invariant proper time
    interval can be modified to
-                                                                            
+
                        2          2GM       2    1         2GM         2    2 2
                      dτ = 1 −             dt − 2       1+            dr + r dθ
                                    rc2          c           rc2
@@ -1371,7 +1427,7 @@ With the final constraint that the point lies on the circle,
 
                                             c2
                                      E2 =       m2 c2 + α2 p2r + r2 p2θ
-                                                                        
+
                                             α 2
 
 
@@ -1403,7 +1459,9 @@ With the final constraint that the point lies on the circle,
 
 
                                          Page 29 of 34
-                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                               Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1419,7 +1477,7 @@ Solution:
                      GM mg                                 M1 0.5   Correct   equation    of
             E = hf −         = hf0                                  COE
                         r
-                         −1
+                           −1
             f        GM            GM
                = 1−    2
                               ≈1+
@@ -1438,13 +1496,13 @@ Solution:
                ′
                  = −
           p0 p        c2 ∞ r′2
-                             
+
                p           GM         GM
                  = exp            ≈1+
               p0           rc2        rc2
-          
+
                GM
-                                                                   Correct answer [−0.5
+                                                                    Correct answer [−0.5
  Thus, f = 1 +       f0 .                                   A1
                                                                     if approximation for
                rc2
@@ -1455,7 +1513,9 @@ Solution:
 
 
                                       Page 30 of 34
-                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1491,7 +1551,9 @@ Solution:
 
 
                                          Page 31 of 34
-                                                       Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                       Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1517,7 +1579,7 @@ Solution:
 
                 c2                                                A0.5    Correct answer
  Hence, E 2 =       m2 c2 + α2 p2r + r2 p2θ .
-                                           
+
                 α 2
 
                                                          Total:    2.0
@@ -1536,7 +1598,7 @@ Solution:
  Rearranging the expression in part (d),
 
                                 γu2 m2 b2 u2
-                                          
+
               2GM                                                         Recognizing energy ex-
    p2r + 1 −           m  2 2
                            c  +                = const             M1
@@ -1559,7 +1621,9 @@ Solution:
                                                          Total:    2.0
 
                                                Page 32 of 34
-                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 
@@ -1586,7 +1650,7 @@ Solution:
  Resolving the force into the y-direction,
 
                            3GM mb2 u2
-                                          
+
              GM m                                x
   Fy = −            +                        √
             x2 + b2 (c2 − u2 )(x2 + b2 )2      x + b2
@@ -1595,24 +1659,24 @@ Solution:
 
  hence the impulse in the vertical direction is                M1    Correct expression
           GM mb ∞                               3b2 u2
-                  Z                                            
+                  Z
                                 1
  ∆py = −                          2 3/2
                                         + 2                       dx
             γu u            2
                    −∞ (x + b )           (c − u2 )(x2 + b2 )5/2
           GM m ∞                         3u2
-                 Z                                       
+                 Z
                               1                    1
      =−                               +                      dξ
            γu bu −∞ (ξ 2 + 1)3/2 c2 − u2 (ξ 2 + 1)5/2
                           2u2
-                                 
+
           2GM m
      =−             1+ 2
            γu bu        c − u2
                           u2
-                             
+
           2GM m
      =−           γu 1 + 2
              bu            c
@@ -1620,7 +1684,7 @@ Solution:
  of deflection is given by
                                                                A1     Correct answer
                                      u2
-                                       
+
                  py   2GM
               ϕ=    =              1+ 2
                  px    bu2           c
@@ -1645,7 +1709,9 @@ Solution:
 
 
                                         Page 33 of 34
-        Wednesday, 13 March 2024, 1:00pm – 5:00pm
+
+
+        Wednesday, 13 March 2024, 1:00pm – 5:00pm
 
 
 

@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, differential-element]
 ---
 
-A piston of mass $m=2~{\rm kg}$ confines an air column of height $\ell=30~{\rm cm}$ in a cylinder of cross section $A=10~{\rm cm}^2$. Both values of the internal and the external pressure are $p_0=10^5$ Pa. The cylinder can be rotated about a vertical axle. In the stationary position the middle of the piston is at a distance of $r=0.5$ m from the axle. 
+A piston of mass $m=2~{\rm kg}$ confines an air column of height $\ell=30~{\rm cm}$ in a cylinder of cross section $A=10~{\rm cm}^2$. Both values of the internal and the external pressure are $p_0=10^5$ Pa. The cylinder can be rotated about a vertical axle. In the stationary position the middle of the piston is at a distance of $r=0.5$ m from the axle.
 
  $a)$ By what factor will the density of the gas increase if the cylinder is rotated with an angular speed of $\omega=3~{\rm
-s}^{-1}$. 
- $b)$ During the rotation, to what value should the external pressure be changed in order that the piston moves back to its original position? The temperature remains constant all the time. 
+s}^{-1}$.
+ $b)$ During the rotation, to what value should the external pressure be changed in order that the piston moves back to its original position? The temperature remains constant all the time.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4811-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4811-fig1.gif)

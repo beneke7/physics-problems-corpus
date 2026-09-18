@@ -25,7 +25,7 @@ techniques: [graphical-reduction, limiting-and-special-cases]
 
 The car accelerates on a slippery ground so that the wheels are always at the limit of slipping (e.g. via using an electronic traction control). Such an acceleration would result in the velocity vs time graph as given in the Figure.
 
-![figure](../../sources/nbpho/figures/nbpho-2010-ice-rally-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2010-ice-rally-fig1.jpg)
 
 **i)** *(2 pt)* What is the coefficient of friction, assuming a four-wheel drive?
 

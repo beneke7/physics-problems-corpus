@@ -60,7 +60,9 @@ Example 1
     oscillator.
 
                                                    1
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
        Idea 1
        We may factor the wave equation as a difference of squares,

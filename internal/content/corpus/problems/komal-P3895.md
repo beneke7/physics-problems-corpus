@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: pending
 ---
 
-First the image of a right-handed screw is projected to an obscure glass screen. a ) Will this image be right or left-handed? b ) If the image is observed from the other side of the glass screen what kind of screw do you see? 
+First the image of a right-handed screw is projected to an obscure glass screen. a ) Will this image be right or left-handed? b ) If the image is observed from the other side of the glass screen what kind of screw do you see?
  (3 pont)

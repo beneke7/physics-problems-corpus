@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-A point-like charge undergoes uniform circular motion around another fixed, point-like charge of opposite charge. Find the potential energy of the moving charge in terms of its kinetic energy. Calculate the ratio of the total energy and the kinetic energy. 
+A point-like charge undergoes uniform circular motion around another fixed, point-like charge of opposite charge. Find the potential energy of the moving charge in terms of its kinetic energy. Calculate the ratio of the total energy and the kinetic energy.
  (4 pont)

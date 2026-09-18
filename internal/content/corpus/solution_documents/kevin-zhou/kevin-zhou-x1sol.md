@@ -59,7 +59,9 @@ v
 (n + 1/2).
 Thus, ωn = 2πfn = πv
 L (n + 1/2), as desired.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 The reason our principle above doesn’t give the right answer is that a wave picks up an extra phase
 shift π when it reflects off a fixed end, so we really should have written
 I
@@ -136,21 +138,21 @@ Z gLµ/F
 = 2ωn
 p
 F/µ/g
-
+
 gLµ/F −
 1
 4
 (gLµ/F)2
-
+
 = 2ωnL
 p
 µ/F
-
+
 1 −
 1
 4
 (gLµ/F)
-
+
 .
 We therefore conclude
 ωn =
@@ -158,14 +160,16 @@ We therefore conclude
 p
 F/µ
 L
-
+
 1 +
 1
 4
 (gLµ/F)
-
+
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 If you want the exact solution, you’ll have to solve the wave equation with an h-dependent
 wave speed. This can be done with mathematical methods taught in university courses, outside
 the scope of the Olympiad syllabus, and the answer will be in terms of special functions.
@@ -202,11 +206,11 @@ Since energy is related to frequency, these standing waves are also states of de
 In the semiclassical limit, the standing waves must satisfy
 I
 pdx = (2πn + α)ℏ =
-
+
 n +
 α
 2π
-
+
 h.
 The extra phase α depends on how the particle gets reflected at the endpoints of its motion.
 Remark
@@ -217,7 +221,9 @@ change the system parameters quickly, the integral is not preserved, but that’
 change causes transitions from one energy level to another (i.e. to waves with different n).
 [2] Problem 3. Consider a one-dimensional box of length L, with hard walls. We can think of these
 hard walls as a potential V (x) that is zero inside the box and infinite outside the box. It can be
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 shown that each of these “hard” boundaries contributes π to α, so in this problem we have α = 2π,
 which is equivalent to just taking α = 0.
 (a) Find the energy levels of a particle of mass m.
@@ -235,11 +241,11 @@ particle’s energy E to above it. It can be shown that each of these “soft”
 π/2 to α, so that for this potential we can take α = π.
 Show that the energy levels are
 En = ℏω0
-
+
 n +
 1
 2
-
+
 , ω0 =
 r
 k
@@ -267,15 +273,17 @@ mω2
 p
 k/m(n + 1/2) = ℏω0(n + 1/2)
 as desired. Note that this solution makes sense for n ≥ 0.
-[3] Problem 5.  W 1 0USAPhO 2015, problem A1. (The use of the WKB approximation in this problem
+[3] Problem 5.   W 1 0USAPhO 2015, problem A1. (The use of the WKB approximation in this problem
 is technically incorrect: the problem takes α = π when it actually should take α = 3π/2. Often,
 people will apply the WKB approximation in a sloppy way because they’re only after rough estimates
 at small n, or the limiting behavior at n ≫ 1. In the previous problems, we treated α properly
 because doing so will give the exact correct answer in those cases.)
-[5] Problem 6.  T 1 0IPhO 2006, problem 1. This is a neat problem which illustrates the effect of a
+[5] Problem 6.   T 1 0IPhO 2006, problem 1. This is a neat problem which illustrates the effect of a
 gravitational field on quantum particles, as well as the basics of interferometry, a subject developed
 further in W2. Give this a try even if it looks tough; only the ideas introduced above are needed!
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3: Bohr Quantization
 In general, pdx may be replaced by any generalized momentum/position pair. For example,
 I
@@ -322,7 +330,9 @@ in front is called the Rydberg, and is equal to 13.6eV.
 [1] Problem 7. Find the energy levels of positronium, a bound state of a positron and electron.
 Solution. You can do this through an explicit analysis very similar to the example. On the other
 hand, we can also use the idea of reduced mass introduced in M6. The reduced mass of positronium
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 is m/2, so replacing m with m/2 in the example’s answer gives
 E = −
 me4
@@ -360,11 +370,13 @@ mL2 .
 (b) The point here is that after just a π rotation, the system is back in its original state, because
 the particles are identical. Thus, Lz · π = nh, or Lz = 2nℏ, or E = 4n2ℏ2
 mL2 .
-[3] Problem 10.  h 1 0INPhO 2020, problem 3. A problem on the Bohr model for multi-electron atoms.
+[3] Problem 10.   h 1 0INPhO 2020, problem 3. A problem on the Bohr model for multi-electron atoms.
 In part (c), you should apply Bohr quantization to each electron individually. This isn’t obvious
 from the question statement, but it’s the right thing to do because the two electrons orbit the
 nucleus with opposite spins, and hence occupy independent quantum states.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 11. INPhO 2016, problem 6.
 Remark
 In popular science, people sometimes speak of “quantizing” a system as similar to making
@@ -395,11 +407,11 @@ p
 1 − (mc2/E)2 ≈
 E
 c
-
+
 1 −
 m2c4
 2E2
-
+
 by the binomial theorem. Using the de Broglie relation, we have
 k1 − k2 =
 p1 − p2
@@ -423,16 +435,18 @@ k1 − k2
 Remarkably, even though the masses are so small and the energy so high, the oscillation
 wavelength turns out to be a macroscopically reasonable length.
 2 Higher Dimensions
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 4
 For a system with more than one degree of freedom, the WKB quantization condition holds
 for each individually, I
 pi dxi =
-
+
 ni +
 αi
 2π
-
+
 h.
 In this case, there can be multiple quantum states with a given energy, in which case we say
 that energy level is degenerate; the number of states with that energy is called the degeneracy.
@@ -498,7 +512,9 @@ D2
 x2
 − 1 = (C − |D|)π
 valid for |D| ≤ C. How does your answer compare to that of part (a)?
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Let ω =
 p
 k/m. As always, each direction contributes energy ℏω(n + 1/2), so the
@@ -599,7 +615,9 @@ E = ℏω(2nr + |nθ| + 1).
 The result is identical to that of part (a). The lowest energy level is E = ℏω, corresponding
 to (nr,nθ) = (0,0). The next is E = 2ℏω, corresponding to (nr,nθ) = (0,±1). The next is
 E = 3ℏω, corresponding to (nr,nθ) = (1,0) or (0,±2), and so on.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Sommerfeld applied an analysis like that of part (b) of problem 14 to the Bohr model,
 yielding the semiclassical orbits which are ellipses with the nucleus at the focus. (In fact, if
@@ -642,7 +660,9 @@ idea 2 would change, leading to different energy levels! If K is the kinetic ene
 using position variables xi, then the momenta should be defined as pi = ∂K/∂ẋi.)
 (c) Your answer should not make sense for large k′. Physically, what is going on?
 Part (b) gives a simple example of how energy levels “split” in the presence of interactions.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) This is just two copies of an ordinary harmonic oscillator, so En,m = ℏω(n+m+1)
 for n,m ≥ 0. The lowest energy has one corresponding state (n = m = 0), the next one has
 two ((n,m) = (1,0) or (0,1)), the next has three, and so on.
@@ -718,37 +738,37 @@ En,m =
 ℏ
 √
 m
-
+
 (n + 1/2)
 √
 k + k′ + (m + 1/2)
 √
 k − k′
-
+
 .
 This can be written a bit more simply by Taylor expanding, which gives
 En,m ≈ ℏω
-
+
 n
-
+
 1 +
 k′
 2k
-
+
 + m
-
+
 1 −
 k′
 2k
-
+
 + 1
-
+
 = ℏω
-
+
 (n + m + 1) + (n − m)
 k′
 2k
-
+
 .
 In other words, an energy level that contains N states splits into N separate, closely spaced
 energy levels. This behavior is ubiquitous in quantum mechanics. This trick of turning
@@ -762,7 +782,9 @@ discrete energy levels.
 Example 2
 A nonrelativistic particle of mass m is in a cubical box with side length L and hard walls.
 Find the approximate number of quantum states with energy at most E0, where E0 is large.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Using the same reasoning as in previous problems, we apply “hard wall” boundary conditions,
 requiring the wavefunction to go to zero at the boundary. Thus, the wavefunction is
@@ -789,14 +811,14 @@ of radius
 N =
 1
 8
-
+
 4
 3
 π(2mE0)3/2
-
+
 πℏ
 L
-−3
+ −3
 .
 Now let’s solve the problem a slightly different way: suppose the box has periodic boundary
 conditions, so that the right side is identified with the left side, and so on. In this case, the
@@ -812,14 +834,14 @@ volume of (2πℏ/L)3 for each state. That is, while the volume around each stat
 as large, the states now occupy eight octants instead of one. Then the overall density of
 states is still the same, and the number of states with energy at most E0 is approximately
 N =
-
+
 4
 3
 π(2mE0)3/2
-
+
 2πℏ
 L
-−3
+ −3
 which matches the result for hard walls. The point of this computation is to show that
 when we care about the statistical properties of many states, the boundary conditions won’t
 matter. In practice, you’ll see both kinds of boundary conditions quite often.
@@ -828,7 +850,9 @@ In his original derivation of blackbody radiation, Lord Rayleigh used “hard wa
 conditions but also allowed negative ni, leading to a factor of 8 error. Jeans corrected it,
 which is why the result is now called the Rayleigh–Jeans law.
 [4] Problem 16. @ 1 0Do the following JPhO problem. This pedagogical problem introduces the WKB
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 approximation and phase space, reviewing everything covered above, and applies it to “clusters” of
 atoms. You can skip sections I and III, which are covered elsewhere on this problem set.
 Solution. See the official solutions here.
@@ -868,7 +892,9 @@ system can violate energy conservation by an amount ∆E”. This is wrong, beca
 systems always conserve energy; systems that naively seem to violate energy conservation
 simply didn’t have a well-defined energy in their initial state to begin with. However, thinking
 this way will usually get you the right answers, essentially because of dimensional analysis.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Example 3
 Consider once again a particle of mass m attached to a one-dimensional spring, with natural
 angular frequency ω. Use the uncertainty principle to estimate the minimum possible energy
@@ -924,7 +950,9 @@ px
 λ
 a
 .
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Therefore, using basic geometry, the size of the pattern on the screen is
 ∆y ∼ D∆θ ∼
 Dλ
@@ -979,7 +1007,9 @@ of each helium atom on the same order as the separation between atoms.
 (a) Superfluid helium has density ρ and a helium atom has mass m. Estimate the temperature T
 at which helium becomes a superfluid. This is closely related to, but not quite the same thing
 as Bose–Einstein condensation, a phase transition that bosons undergo at low temperatures.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Numerically evaluate T, using ρ ∼ 100kg/m3 and m ∼ 7 × 10−27 kg.
 Solution. (a) The energy is of order kBT, so the momentum is of order p ∼
 √
@@ -1039,7 +1069,9 @@ P =
 π2ℏ2
 md5
 which is the same order of magnitude as in part (a).
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Earlier, we found that for a two-dimensional box,
 E =
 π2ℏ2
@@ -1072,7 +1104,7 @@ md5
 .
 As expected, this coincides with the answer to (b), since both ultimately originate from the
 same approximation.
-[3] Problem 21.  ^ 1 0USAPhO 2018, problem B2.
+[3] Problem 21.   ^ 1 0USAPhO 2018, problem B2.
 [3] Problem 22. Classically, an electron orbiting a proton with angular frequency ωo emits radiation
 with angular frequency ωc = ωo, as covered in E7. On the other hand, quantum mechanically
 the energy levels are discrete, and using the de Broglie relation ∆E = ℏω indicates the angular
@@ -1110,23 +1142,25 @@ e2
 4πℏϵ0
 1
 2
-
+
 1
 rn−1
 −
 1
 rn
-
+
 .
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Thinking of n as a large number, we can approximate
-
+
 1
 rn−1
 −
 1
 rn
-
+
 =
 rn − rn−1
 rn−1rn
@@ -1187,7 +1221,9 @@ where one corner of the box lies at the origin and the box is aligned with the x
 simplicity, we will treat the electric field as a scalar, even though it actually has direction.
 (a) The electric field must be zero everywhere at the sides of the box. What condition does this
 impose on the ki?
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Show that for a typical box at room temperature, L ∼ 1m and T ∼ 300K, the quantity kBT
 is much greater than ℏω0, where ω0 is the lowest nonzero mode angular frequency. Therefore,
 for the rest of the problem, you may approximate kBT ≫ ℏω0.
@@ -1227,28 +1263,28 @@ n) with an energy per photon of at most Emax is thus
 N(Emax) =
 1
 8
-
+
 4
 3
 πn3
 max
-
+
 =
 1
 6π2
-
+
 EL
 ℏc
-3
+ 3
 .
 In this case, the requested answer is
 N(kBT) =
 1
 6π2
-
+
 kBTL
 ℏc
-3
+ 3
 .
 Note that this is different from the official USAPhO solution, because they also allowed
 negative values for the ni. This is incorrect, because flipping the sign of one of the ni gives
@@ -1265,10 +1301,10 @@ dE
 dE =
 1
 6π2
-
+
 L
 ℏc
-3 Z kBT
+ 3 Z kBT
 0
 E(3E2
 )dE =
@@ -1277,7 +1313,9 @@ E(3E2
 (kBT)4L3
 ℏ3c3
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 25. The final result of the problem above is correct dimensionally, but has incorrect
 numerical factors because of the crude approximations made. In this problem we’ll do a more
 careful analysis to get the right result. This question is self-contained, but background from T1
@@ -1347,7 +1385,9 @@ eE/kBT /(eE/kBT − 1)
 eE/kBT − 1
 ,
 as desired.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (b) ⟨n⟩ as a function of E looks like this:
 ⟨n⟩
 kBT
@@ -1366,10 +1406,10 @@ Z
 ⟨n⟩E dN =
 1
 2π2
-
+
 L
 ℏc
-3 Z ∞
+ 3 Z ∞
 0
 ⟨n⟩E3
 dE.
@@ -1390,11 +1430,11 @@ L3ℏ
 π2c3
 Z ∞
 0
-
+
 kBT
 ℏ
 dx
-
+
 (kBTx/ℏ)3
 ex − 1
 =
@@ -1431,7 +1471,9 @@ n=0
 x3
 e−(n+1)x
 dx.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 We can reindex this since the only instance of n is n + 1, so we can start the summation at
 n = 1. Since we can integrate this term by term, we can change the order of the integral and
 summation, then integrate by parts to get
@@ -1449,30 +1491,30 @@ Z ∞
 0
 (3x2
 dx)
-
+
 e−nx
 n
-
+
 =
 ∞ X
 n=1
 Z ∞
 0
 (6xdx)
-
+
 e−nx
 n2
-
+
 =
 ∞ X
 n=1
 Z ∞
 0
 (6dx)
-
+
 e−nx
 n3
-
+
 =
 ∞ X
 n=1
@@ -1487,7 +1529,7 @@ B
 L3
 T4
 .
-[5] Problem 26.  h 1 0APhO 2002, problem 1. This useful problem covers the other common example
+[5] Problem 26.   h 1 0APhO 2002, problem 1. This useful problem covers the other common example
 of a quantized bosonic field. In the above problems, we quantized the electromagnetic field to get
 photons. Here, we quantize a displacement field to get phonons.
 Solution. See the official solutions. But they’re badly formatted, so I’ll also list the answers here.
@@ -1524,7 +1566,9 @@ energy state, the second occupy the second-lowest energy state, and so on. (Acco
 interactions makes the problem much more complicated, because it means the energy of a
 state depends on whether other states are occupied. However, you can explain a surprising
 amount while completely neglecting interactions.)
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Example 6: Tremaine–Gunn Bound
 Suppose all of the dark matter in the galaxy is composed of a single kind of fermionic particle,
 of mass m. The escape velocity of the galaxy is of order vesc ∼ 10−3c, and the dark matter
@@ -1546,11 +1590,11 @@ escL3
 ℏ3
 which yields the bound
 m ≳
-
+
 ρℏ3
 v3
 esc
-1/4
+ 1/4
 ∼ 10eV/c2
 .
 A few decades ago, neutrinos were leading dark matter candidates, since they are light
@@ -1580,7 +1624,9 @@ e−(E−µ)/kBT
 1
 1 + e(E−µ)/kBT
 .
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The graphs are shown below, for zero and nonzero µ.
 1
 2
@@ -1605,10 +1651,10 @@ of the quantum states up to energy µ = EF , where EF is called the Fermi energy
 EF =
 h2
 2me
-
+
 3N
 8πV
-2/3
+ 2/3
 where me is the mass of the electron. Be careful to account for the fact that an electron’s
 spin can have two possible values.
 (b) A sodium crystal has one conduction electron per atom. (The rest of the electrons are bound
@@ -1632,20 +1678,22 @@ N =
 8
 3
 π(2meEF )3/2
-
+
 2πℏ
 L
-−3
+ −3
 .
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Solving for EF gives the answer,
 EF =
 h2
 2me
-
+
 3N
 8πV
-2/3
+ 2/3
 .
 (b) If NA is Avogadro’s number, then the mass of each atom is ma = M/NA, which gives an
 atom number density of ρ/ma. Since there’s one conduction electron per atom, we have
@@ -1696,12 +1744,12 @@ the radius nmax of the sphere obeys
 N =
 1
 8
-
+
 4
 3
 πn3
 max
-
+
 which tells us that
 nmax =
 3
@@ -1709,7 +1757,9 @@ r
 6N
 π
 .
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 The total pressure can be found by summing over all the lattice points within this eighth of a
 sphere. Since N is large, this sum can be approximated as an integral,
 P =
@@ -1726,10 +1776,10 @@ n4
 dn =
 π3ℏ2
 30md5
-
+
 6N
 π
-5/3
+ 5/3
 ∼
 ℏ2n5/3
 m
@@ -1779,7 +1829,9 @@ quantization, each quantum in mode m will have energy mℏω. Thus, putting in q
 reach total energy Nℏω is the same as building a partition of N out of integers m. For
 example, 4 = 1 + 1 + 1 + 1 corresponds to putting 4 quanta in the fundamental mode, while
 4 = 4 corresponds to putting 1 quantum in the fourth harmonic.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (b) By borrowing some results from previous problems, we have
 N =
 X
@@ -1797,10 +1849,10 @@ the denominator in a Taylor series and integrating term by term gives
 N ≈
 π2
 6
-
+
 kT
 ℏω
-2
+ 2
 .
 (c) Using the definition of temperature,
 T =
@@ -1860,7 +1912,9 @@ n = E0
 ∞ X
 n=1
 n = ∞
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 which is rather unhelpful. This result is off for two reasons. First, even when there aren’t
 any pins, the string still has standing waves, and these waves also have a naively infinite
 energy density. When we move the pins a bit, we change both the zero point energy outside
@@ -1925,7 +1979,9 @@ E = Eplate − Evac = −
 1
 12
 E0.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Differentiating gives the force,
 F = −
 πℏv

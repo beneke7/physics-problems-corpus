@@ -20,4 +20,4 @@ verification_status: pending
 
 Nyolc, $V=4 \mathrm{~V}$ névleges feszültségű és $I=0.25 \mathrm{~A}$ névleges áramú azonos lámpát kapcsolunk telepre egy ellenálláson keresztül, az ábrán látható módon. Az ellenállást úgy választottuk meg, hogy a lámpák névleges üzemállapotban működjenek (névleges feszültséggel és árammal). Az egyik lámpa kiég (a lámpát lényegében eltávolítjuk). Hányszorosára változik a lámpák által összesen disszipált teljesítmény? (Az ellenálláson disszipálódó teljesítményt nem kell figyelembe venni.) Hanyagoljuk el a lámpák ellenállásának hőmérsékletfüggését.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr41-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr41-fig1.jpg)

@@ -50,7 +50,9 @@ amelynek a vége egy nagyon vékony rúdhoz van erősítve. A golyót úgy hají
 
 
                                                         15
-    Kevin Zhou                                                            Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                            Fizikaolimpiai feladatgyűjtemény
 
 
        11. példa

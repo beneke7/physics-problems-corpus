@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-A car travels at a constant speed along a long, straight road. 
- Consider a point on the rim of the wheel of the car. Investigate the whether 
- $a)$ the average speed of this point is greater, smaller or equal to the speed of the car; 
- $b)$ the magnitude of the average velocity of this point is greater, smaller or equal to the speed of the car. 
+A car travels at a constant speed along a long, straight road.
+ Consider a point on the rim of the wheel of the car. Investigate the whether
+ $a)$ the average speed of this point is greater, smaller or equal to the speed of the car;
+ $b)$ the magnitude of the average velocity of this point is greater, smaller or equal to the speed of the car.
  (4 pont)

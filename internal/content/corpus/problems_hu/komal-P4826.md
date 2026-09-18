@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4826. Síkkondenzátor párhuzamos lemezeinek $Q_1={2\cdot10^{-5}}$ C, illetve $Q_2=5\cdot10^{-5}$ C töltést adtunk, majd a lemezek közé, azokkal párhuzamosan, a lemezek területével megegyező alapterületű töltetlen fémhasábot toltunk. Mekkora töltés található a fémhasáb bal és jobb oldali felületén?
 
-![figure](../../raw_html/komal_figures/komal-P4826-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4826-fig1.gif)

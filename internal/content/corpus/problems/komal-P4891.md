@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-Uniform electric and magnetic fields are generated in vacuum: $E=7\cdot 10^6$ N/C, $B=0.02~\rm Vs/m^2$. Is it possible that an electron undergoes uniform straight line motion in some direction? 
+Uniform electric and magnetic fields are generated in vacuum: $E=7\cdot 10^6$ N/C, $B=0.02~\rm Vs/m^2$. Is it possible that an electron undergoes uniform straight line motion in some direction?
  (4 pont)

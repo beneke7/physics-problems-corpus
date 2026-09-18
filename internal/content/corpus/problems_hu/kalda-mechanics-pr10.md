@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $l$ hosszú rudat egy $h<l$ magasságú mennyezethez csuklózunk. Alatta egy deszkát húzunk a padlón. A rúdnak az a szerepe, hogy a deszka egyik irányú mozgását megakadályozza, a másik irányú mozgását viszont lehetővé tegye. Milyen feltételnek kell teljesülnie ahhoz, hogy ezt a feladatot ellássa? A deszka és a rúd közötti súrlódási együttható $\mu_{1}$, a deszka és a padló közötti pedig $\mu_{2}$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr10-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr10-fig1.jpg)

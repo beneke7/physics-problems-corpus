@@ -19,4 +19,4 @@ verification_status: pending
 
 A slippery cylinder with radius $R$ has been tilted to make an angle $\alpha$ between its axis and the horizontal. A string with length $L$ has been attached to the highest point $P$ of some cross-section of the cylinder, the other end of it is tied to a weight with mass $m$. The string takes its equilibrium position, how long ( $l$ ) is the part not touching the cylinder? The weight is shifted from its equilibrium position in such a way that the shift vector is parallel to the vertical plane including the cylinder's axis; what is the period of small oscillations?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr22-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr22-fig1.jpg)

@@ -24,6 +24,6 @@ verification_status: pending
 ## Question A1
 
 A pair of wedges are located on a horizontal surface. The coefficient of friction (both sliding and static) between the wedges is $\mu$, the coefficient of friction between the bottom wedge B and the horizontal surface is $\mu$, and the angle of the wedge is $\theta$. The mass of the top wedge A is $m$, and the mass of the bottom wedge B is $M=2 m$. A horizontal force $F$ directed to the left is applied to the bottom wedge as shown in the figure.
-![](usapho-2017-a1-fig01.png)
+![](../../figures/usapho/figures/usapho-2017-a1-fig01.png)
 
 Determine the range of values for $F$ so that the the top wedge does not slip on the bottom wedge. Express your answer(s) in terms of any or all of $m, g, \theta$, and $\mu$.

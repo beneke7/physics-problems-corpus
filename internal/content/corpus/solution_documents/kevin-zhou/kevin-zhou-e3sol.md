@@ -41,7 +41,9 @@ The three Kirchhoff’s loop rule equations are
 4I3R − 2I1R − I2R = 0.
 Adding the last two equations shows that
 I1 = I2 + I3
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 and plugging this back in shows that 3I2 = 2I3, so we have
 I2 =
 2
@@ -54,14 +56,14 @@ Since the answer to the question is just I1, we can now plug this back into the 
 V
 R
 = 3I1 − I2 − 2I3 =
-
+
 3 −
 2
 5
 −
 6
 5
-
+
 I1 =
 7
 5
@@ -95,7 +97,9 @@ parallel with a resistor Req. (An ideal current source makes a fixed current flo
 just like a battery creates a fixed voltage across it.) This is known as Norton’s theorem.
 Since these functions are inverses of each other, you can see that the Req’s in both equations
 above are the same (both are equal to the ordinary equivalent resistance), and Veq = −IeqReq.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Example 2
 Consider some batteries connected in parallel, with emfs Ei and internal resistances Ri. What
 is the Thevenin equivalent of this circuit?
@@ -143,7 +147,9 @@ even worse: the equations would be contradictory, with no solution at all! In re
 avoided because all batteries have some internal resistance. Adding such a resistance to each
 battery, no matter how small, resolves the problem and gives a unique solution.
 [2] Problem 1 (Purcell 4.12). Consider the circuit below.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 E
 R
 E
@@ -178,7 +184,9 @@ E − 2RI2 + RI1 = 0
 −E − RI3 = 0
 Solving these equations gives I1 = E/3R, I2 = 2E/3R, and I3 = −E/R. The current through
 the wire is now I2 − I3 = 5E/3R. Thus, Reff = (5E/8)/(5E/3R) = 3R/8.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 2 (Wang). A circuit containing batteries and resistors has two terminals. When an ideal
 ammeter is connected between them, the reading is I1. When a resistor R is connected between
 them, the current through the resistor is I2, in the same direction. What would be the reading V
@@ -201,7 +209,7 @@ I2 − I1
 .
 Note that your answer may differ by a harmless sign, which ultimately depends on your sign
 conventions for I1 and I2 (i.e. which terminal is A and which terminal is B).
-[3] Problem 3.  W 1 0USAPhO 2015, problem A2.
+[3] Problem 3.   W 1 0USAPhO 2015, problem A2.
 Now we give a few problems on current flow through continuous objects. Fundamentally, all one
 needs for these problems is the definition J = σE, and superposition.
 Example 3
@@ -236,7 +244,9 @@ E(r) =
 V
 b − a
 r̂.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 To find the charge density, it’s quickest to use Gauss’s law in differential form in cylindrical
 coordinates. We use the form of the divergence derived in E1, giving
 ρ = ϵ0 ∇ · E =
@@ -288,7 +298,9 @@ buried in the ground, where the current passes through the Earth itself. Assume 
 are spheres of radius r, separated by a horizontal distance L ≫ r, and suppose both objects are
 buried a depth much greater than L in the ground. If the Earth has uniform resistivity ρ, find the
 approximate resistance between the terminals. (Hint: consider the superposition principle.)
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. We can consider one object at a time, and then use superposition to find the combined
 effect of both. Suppose that current I comes out from one of the objects. Placing this object at the
 origin, we have
@@ -351,7 +363,9 @@ I0
 (1 − 1/
 √
 2).
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Similarly, for the case where the current is coming out of B, we have
 VD − VC =
 I0
@@ -389,7 +403,9 @@ Solution. This problem is a harder than the previous one because it’s harder t
 configuration that satisfies the boundary conditions, i.e. that the current density at the edges of the
 plate is parallel to the plate. The key is that we can use the following “image current” configuration
 to automatically satisfy the original problem’s boundary conditions, but on an infinite plate.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 We have a new current source and sink respectively at the reflections of A and B in O. The
 current sources and sinks all have magnitude 2I, rather than I, because only half of the currents at
 A and B actually enter and exit the physical plate, shaded in gray.
@@ -444,7 +460,9 @@ the next part.)
 (d) By combining all of these results, prove Rayleigh’s monotonicity law.
 (e) We can use Rayleigh’s monotonicity law to prove some mathematical results. Consider the
 resistor network shown below, where the variables label the resistances.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 a b
 b a
 P
@@ -501,7 +519,9 @@ through the circuit. By the definition of power, the power put in by the battery
 since any current going through the circuit must go through the battery. By conservation of
 energy, the power dissipated in the circuit is equal to the power put in by the battery. So the
 power dissipated is P = IV = V 2/R.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Put a battery of voltage V across the points we are considering. By part (c) Rayleigh’s
 monotonicity law is equivalent to the statement that, if we increase any of the Rij, the total
 power P dissipated in the resistor network goes down.
@@ -517,13 +537,13 @@ a + b
 .
 After closing the switch, the resistance is
 Rf = 2
-
+
 1
 a
 +
 1
 b
-−1
+ −1
 =
 2ab
 a + b
@@ -558,7 +578,9 @@ more roads can slow down traffic, even when the total number of cars stays the s
 Physics Team coach has argued that allowing more team strategies can make a basketball
 team score less. For more on this subject, see the paper Paradoxical behaviour of mechanical
 and electrical networks or this video.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Circuit questions can get absurdly hard, but at some point they start being more about
 mathematical tricks than physics. As a result, I haven’t included any such problems here;
@@ -592,7 +614,9 @@ Using this, we can straightforwardly label the voltages everywhere on the outer 
 27V 26V 25.8V
 7V
 10V 0V 1.8V
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 To finish the problem, we need to know the voltage V0 of the central node, so we need
 one more equation. That equation is charge conservation. We note that the central part
 of the circuit, containing the inner plates of the three capacitors, begins uncharged and is
@@ -604,7 +628,7 @@ through a capacitor!) Suppressing units, this means
 V
 from which we read off the answer,
 Q = CV = 0.132C.
-[3] Problem 9.  W 1 0USAPhO 1997, problem A3.
+[3] Problem 9.   W 1 0USAPhO 1997, problem A3.
 [3] Problem 10 (Purcell 4.18). Consider the two RC circuits below.
 Q = Q0
 C
@@ -647,7 +671,9 @@ Q0
 (e−t/RC
 − e−t/3RC
 ).
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 We want to maximize |Q2|, so setting the derivative to zero gives t = 3
 2RC log(3), so
 |Q2|max =
@@ -656,7 +682,7 @@ Q0
 √
 3
 .
-[3] Problem 11.  W 1 0USAPhO 2004, problem A1.
+[3] Problem 11.   W 1 0USAPhO 2004, problem A1.
 [3] Problem 12 (Kalda). Three identical capacitors are placed in series and charged with a battery
 of emf E. Once they are fully charged, the battery is removed, and simultaneously two resistors are
 connected as shown.
@@ -705,7 +731,9 @@ so τ = C
 R1R2 + R1R3 + R2R3
 R2 + R3
 .
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 14 (MPPP 175/176). A metal sphere of radius R has charge Q and hangs on an insulating
 cord. It slowly loses charge because air has a conductivity σ. In all cases, neglect any magnetic or
 radiation effects.
@@ -769,12 +797,14 @@ so the charge decreases exponentially with timescale ϵ0/σ, completely independ
 shape. (Of course, the sphere is still special, because with the sphere we are guaranteed there
 are no magnetism or radiation effects (why?). For a general shape, we have to assume these
 effects are negligible, which may or may not be true depending on the value of σ.)
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The relevant timescale is ϵ0/σ. Thus we find t ∼ 102 s for air, t ∼ 10−9 s for water, and
 t ∼ 10−19 s for copper. The last timescale is astoundingly small, and it implies that there is
 approximately no charge density within a metal in just about any circumstance.
-[5] Problem 15.  h 1 0IPhO 1993, problem 1. A really neat question with real-world relevance.
-[5] Problem 16.  h 1 0IPhO 2007, problem “orange”. A combination of mechanics and RC circuits.
+[5] Problem 15.   h 1 0IPhO 1993, problem 1. A really neat question with real-world relevance.
+[5] Problem 16.   h 1 0IPhO 2007, problem “orange”. A combination of mechanics and RC circuits.
 3 Computing Magnetic Fields
 Idea 4
 The Biot–Savart law is
@@ -817,7 +847,9 @@ B(r) =
 (3(m · r̂)r̂ − m).
 As with the electric dipole field, you don’t need to memorize this, but you should remember
 that it’s proportional to the dipole moment, falls off as 1/r3, and be able to sketch it.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 You should have already seen basic examples of using the Biot–Savart law in Halliday and Resnick,
 such as the field of a circular ring of current on its axis. We’ll start with some problems that are
 similarly straightforward, but more technically complex.
@@ -887,7 +919,9 @@ m =
 πωσR4
 ẑ.
 (c) The field is as shown below.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 The key feature is that the field lines of the dipole outside and the uniform field inside match
 up perfectly, so that every field line forms a closed loop; this is Gauss’s law for magnetism.
 (d) We’ve already seen this setup in E1. It’s easy to show by the shell theorem that the electric
@@ -939,7 +973,9 @@ Z π
 x − cosθ
 (1 + x2 − 2xcosθ)3/2
 dθ.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Now, it’s not immediately obvious to what order in x we should expand in. If we already know the
 answer is proportional to 1/r3, then we can see the answer must be first order in x. But if we didn’t
 know that, we could expand to zeroth order, giving
@@ -1011,13 +1047,13 @@ Next, the segments parallel to ŷ contribute a total of
 B2 =
 µ0I
 4π
-
+
 a
 (r − a/2)2
 −
 a
 (r + a/2)2
-
+
 =
 µ0I
 4π
@@ -1025,8 +1061,10 @@ a
 r3
 where we work to the same accuracy as for B1. Adding the two contributions and using m = Ia2
 gives the desired result. If you forget to count B1, you’ll get an answer that is two times too big.
-[3] Problem 20.  W 1 0USAPhO 2012, problem A3.
-19Kevin Zhou Physics Olympiad Handouts
+[3] Problem 20.   W 1 0USAPhO 2012, problem A3.
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 7: Magnetic Monopoles
 Far away from the center of the dipole, the magnetic field of a magnetic dipole has the same
 form as the electric field of an electric dipole. Therefore, we can often replace a magnetic
@@ -1038,7 +1076,7 @@ actually exist in magnets, and applying this analogy will give the wrong fields 
 dipole, as you saw in problem 17 and will see another way in problem 21. However, if we
 only care about the field outside the magnet, the analogy works, and it’s often the fastest
 way to solve problems. We’ll return to this idea in greater depth in E8.
-[3] Problem 21.  m 1 0USAPhO 2015, problem B2. A key problem which illustrates idea 7.
+[3] Problem 21.   m 1 0USAPhO 2015, problem B2. A key problem which illustrates idea 7.
 We now give a few arguments for computing fields using symmetry.
 Example 5: PPP 31
 An electrically charged conducting sphere “pulses” radially, i.e. its radius changes periodically
@@ -1061,7 +1099,9 @@ does not flip Br while the latter does, so we must have Br = 0.
 Now, by rotational symmetry, the tangential component Bϕ must be uniform. But then
 Ampere’s law on any circular loop gives Bϕ(2πr) = 0, so we must have Bϕ = 0 as well.
 The only thing left to consider is Bz. By applying Ampere’s law to small vertical rectangles, we
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 see that Bz is constant unless that rectangle crosses the surface of the solenoid. Furthermore,
 Bz must be zero far from the solenoid, so it must be zero everywhere outside the solenoid.
 Now, for a rectangle of height h that does cross the surface, Ampere’s law gives
@@ -1090,7 +1130,9 @@ where all the magnetic flux comes neatly out the ends of the solenoids, in strai
 reality, the field sprays out almost spherically symmetrically from the end, with only half
 the flux actually going out through the end face, while the rest exits downward through the
 sides. (You will show this more directly with a slick argument in problem 23.)
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 We can also be more quantitative. Suppose the solenoid is vertical and centered at z = 0.
 Then the field at a radius r from the solenoid axis, at z = 0, is
 B(r) = µ0nIẑ ×
@@ -1135,7 +1177,9 @@ B(r) =
 µ0NI
 2πr
 .
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Note that the twisting of the wire adds an effective small current in the tangential direction.
 This looks like a current loop, so, e.g. it produces a magnetic field pointing vertically through
 the toroid’s hole. We can remove it by using a bunch of current loops instead of a single
@@ -1162,7 +1206,9 @@ the end of the coil at a radius r1 =
 Solution. (a) Let B1 and B2 be the fields at these points, respectively. Note that B1 is close to
 the ideal value µ0nI, but smaller because the solenoid is not infinite. Now glue two of these
 solenoids together end-to-end, and consider the field at the center of this new, bigger solenoid.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 By superposition, it is 2B2, but also, it is close to µ0nI, and it is slightly closer to µ0nI than
 B1 is, since the combined solenoid is longer. Therefore, B2 is slightly more than half of B1.
 (b) Let G′ be the reflection of G in the axis. Say the field line GH comes out at an angle θ. Then,
@@ -1211,7 +1257,9 @@ tostatic field is ∇ · B = 0, which for such two-dimensional setups is ∂xBx 
 when we rotate by 90◦, we define an electric field by Ex = By and Ey = −Bx, which implies
 ∂xEy −∂yEx = 0. But in such a two-dimensional setup, this is equivalent to ∇×E = 0, which
 is the condition to have a valid electrostatic field.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The field lines of B are always parallel to B. Now, this artificial E is always perpendicular to
 B, and equipotentials are always perpendicular to E, so the equipotentials follow the magnetic
 field lines.
@@ -1245,7 +1293,9 @@ I, IAC = IAD = ICB = IDB =
 1
 4
 I.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 The field at O due to the current along AD is directed along the vector
 − − →
 CB. Similarly, the magnetic
@@ -1271,6 +1321,6 @@ CD +
 − − →
 CD = 0
 so there is no field at O.
-[5] Problem 27.  h 1 0APhO 2013, problem 1. A neat question on a cylindrical RC circuit that uses
+[5] Problem 27.   h 1 0APhO 2013, problem 1. A neat question on a cylindrical RC circuit that uses
 many of the techniques we’ve covered so far.
 26

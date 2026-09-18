@@ -19,4 +19,4 @@ verification_status: pending
 
 A heavy box is being pulled using two tractors. One of these has velocity $v_{1}$, the other $v_{2}$, the angle between velocities is $\alpha$. What is the velocity of the box, if we assume that the ropes are parallel to velocity vectors?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr47-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr47-fig1.jpg)

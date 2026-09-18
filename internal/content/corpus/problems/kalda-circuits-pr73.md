@@ -19,4 +19,4 @@ verification_status: pending
 
 Capacitor of capacitance $C$ and resistor of resistance $R$ are connected in series, and rectangular voltage pulses (see figure) are applied to the leads of the system. Find the average power which dissipates on the resistors assuming (a) that $T \gg R C$; (b) that $T \ll R C$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr73-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr73-fig1.jpg)

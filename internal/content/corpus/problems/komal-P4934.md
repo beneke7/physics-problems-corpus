@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-A 2-metre long straight current carrying wire radiates energy to its environment at a rate of 10 J per second, whilst its temperature remains the same. 
- $a)$ What is the electric field strength in the wire, if the diameter of the wire is 4 mm, and the magnitude of the magnetic flux density at the surface of the wire is 0.002 Vs/m${}^2$? 
- $b)$ What type of material may the wire be made of? 
+A 2-metre long straight current carrying wire radiates energy to its environment at a rate of 10 J per second, whilst its temperature remains the same.
+ $a)$ What is the electric field strength in the wire, if the diameter of the wire is 4 mm, and the magnitude of the magnetic flux density at the surface of the wire is 0.002 Vs/m${}^2$?
+ $b)$ What type of material may the wire be made of?
  (4 pont)

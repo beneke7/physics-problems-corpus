@@ -25,7 +25,7 @@ techniques: [differential-element, graphical-reduction]
 
 Theoretical Question 1 (vibrations of a linear crystal lattice)
 A very large number N of movable identical point particles $(N \gg 1)$, each with mass $m$, are set in a straight chain with $N+1$ identical massless springs, each with stiffness (spring constant) $S$, linking them to each other and the ends attached to two additional immovable particles. See figure. This chain will serve as a model of the vibration modes of a onedimensional crystal. When the chain is set in motion, the longitudinal vibrations of the chain can be looked upon as a superposition of simple oscillations (called modes) each with its own characteristic mode frequency.
-![](apho-2002-t-q1-fig01.png)
+![](../../figures/apho/figures/apho-2002-t-q1-fig01.png)
 (a) Write down the equation of motion of the $n^{\text {th }}$ particle. [0.7 marks]
 (b) To attempt to solve the equation of motion of part (a) use the trial solution
 

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [exploit-symmetry, superposition]
 ---
 
-There are two big, same size, uncharged metal sheets in the same plane, lying parallel and very close to each other. The sheets are connected through a piece of wire, and then a pointlike charge Q is placed next to them as shown in the figure. What will the amount of charge on each metal sheet be? 
+There are two big, same size, uncharged metal sheets in the same plane, lying parallel and very close to each other. The sheets are connected through a piece of wire, and then a pointlike charge Q is placed next to them as shown in the figure. What will the amount of charge on each metal sheet be?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4604-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4604-fig1.gif)

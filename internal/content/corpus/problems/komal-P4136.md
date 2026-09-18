@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: flagged
 ---
 
-The power in the resistor R $_{2}$ shown in the figure is 250 W. What are the resistances of the resistors R $_{1}$ and R $_{2}$? What is the reading on the third meter? What is the voltage across the power supply? 
+The power in the resistor R $_{2}$ shown in the figure is 250 W. What are the resistances of the resistors R $_{1}$ and R $_{2}$? What is the reading on the third meter? What is the voltage across the power supply?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4136-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4136-fig1.gif)

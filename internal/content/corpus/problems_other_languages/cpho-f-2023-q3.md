@@ -23,13 +23,13 @@ verification_status: pending
 
 三、（40 分）卢瑟福 $\alpha$ 粒子散射实验揭示了原子的核式结构。利用粒子散射实验可确定材料靶原子的种类、浓度及其深度分布等信息。典型的实验装置示意图如图3a所示，一束 $\alpha$ 粒子入射到待测材料靶（例如金箔）上，测量不同角度 $\theta$ 方向上散射 $\alpha$ 粒子的数目。
 
-![](cpho-f-2023-q3-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig01.png)
 图3a
 
-![](cpho-f-2023-q3-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig02.png)
 图3b
 
-![](cpho-f-2023-q3-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig03.png)
 图3c
 
 （1）$\alpha$ 粒子可以通过放射性元素的衰变获得。静止的 ${ }_{84}^{210} \mathrm{Po}$（针）衰变到 Pb （铅），同时放出动能为5．31 MeV 的 $\alpha$ 粒子。试写出此衰变过程的反应式，并计算衰变末态粒子的总动能（单位取 MeV，保留两位有效数字）。
@@ -85,7 +85,7 @@ $$
 【解法一】
 如解题图3a，质量为 $M$ 、带正电荷 $Z e$（ $e$ 是基本电荷）的原子核 A 位于原点，而质量为 $m$ 、能量为 $E$ 、电荷为 $+2 e$ 的 $\alpha$ 粒子以速度 $v_{0}$ 入射，瞄准距离为 $b$ ；由于 $\alpha$ 粒子受到原子核库仑斥力 $\boldsymbol{F}$ 的作用改变方向，以偏转角 $\theta$ 射出。在散射过程中，由于电子的质量远小于 $\alpha$粒子的质量，忽略核外电子与 $\alpha$ 粒子的作用；由于靶原子的质量通常远大于 $\alpha$ 粒子的质量，近似认为原子核静止不动。
 
-![](cpho-f-2023-q3-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig04.png)
 解题图3a
 
 $\alpha$ 粒子与原子核的散射为弹性过程，散射后 $\alpha$ 粒子在无穷远处的速率仍为 $v_{0}$ 。因此，散射后无穷远处的 $\alpha$ 粒子在垂直方向的速度为：
@@ -279,7 +279,7 @@ $$
 \boldsymbol{B}_{\text {末 }}=m v_{0} L(-\sin \theta \hat{\boldsymbol{x}}+\cos \theta \hat{\boldsymbol{y}})+m \beta(\cos \theta \hat{\boldsymbol{x}}+\sin \theta \hat{\boldsymbol{y}})
 $$
 
-![](cpho-f-2023-q3-fig05.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig05.png)
 其中
 
 $$
@@ -329,7 +329,7 @@ $$ $\square$
 
 （3）由（12）式可知，$b$ 和 $\theta$ 之间存在一一对应关系。考虑瞄准距离在 $b$ 到 $b+\mathrm{d} b$ 之间的 $\alpha$ 粒子，经散射后它们从 $\theta$ 到 $\theta+\mathrm{d} \theta$ 之间的角度射出。因此，凡通过以 $b$ 为内半径、以 $b+\mathrm{d} b$ 为外半径的环形面积 $\mathrm{d} \sigma$ 的 $\alpha$ 粒子，必定散射到角度在 $\theta$ 到 $\theta+\mathrm{d} \theta$ 之间的一个空心圆锥体内，如解题图3b所示。
 
-![](cpho-f-2023-q3-fig06.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig06.png)
 解题图3b
 
 环形面积 $\mathrm{d} \sigma$ 为
@@ -395,7 +395,7 @@ $$
 
 实验方案如解题图3c所示：从 $\alpha$ 粒子源出射的一束 $\alpha$ 粒子经静磁场偏转 $90^{\circ}$ 射到靶粒子上，散射角为 $180^{\circ}$ 的粒子射出后经静磁场偏转 $90^{\circ}$ 进入 $\alpha$ 粒子探测器加以测量。（22）
 
-![](cpho-f-2023-q3-fig07.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q3-fig07.png)
 磁场偏转区
 
 解题图3c

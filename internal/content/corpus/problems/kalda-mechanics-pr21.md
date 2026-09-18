@@ -19,4 +19,4 @@ verification_status: pending
 
 A hexagonal pencil lies on a slope with inclination angle $\alpha$; the angle between the pencil's axis and the line of intersection of the slope and the horizontal is $\varphi$. Under what condition will the pencil not roll down?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr21-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr21-fig1.jpg)

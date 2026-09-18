@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 A mass, which is free to move on a horizontal frictionless plane, is attached to one end of a massless
@@ -75,7 +77,7 @@ v
 .
 Solving for v gives
 v =
-
+
 1
 v0
 −
@@ -83,7 +85,7 @@ tr
 R
 √
 R2 − r2
-−1
+ −1
 .
 Of course, this expression eventually blows up, which indicates that it’ll break down before
 that point, e.g. because the string will snap.
@@ -98,7 +100,9 @@ r
 r′
 v0.
 Separating and integrating gives tf = R2/(2v0r).
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Question A2
 A point source S emits coherent light of wavelength λ isotropically in all directions; thus, the
 wavefronts are concentric spheres. The waves reflect from a mirror placed at a distance ℓ = Nλ
@@ -149,7 +153,9 @@ dr
 1
 rcosθ
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Separating and integrating gives
 Z π/2
 0
@@ -206,7 +212,9 @@ This is an interesting result, because you’ve probably heard that µ0 can be d
 the force between current-carrying wires. Yet for a completely reasonable value of the resistance,
 the electric force between the wires, due to the surface charges they have to carry (discussed briefly
 in E2), can be just as big! To avoid this effect, we need R to be as low as possible.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 A pencil is placed vertically on a table with its point downward. It is then released and begins
@@ -223,10 +231,10 @@ within one significant digit, and indicate the direction it slips.
 Solution. This is problem 61 from 200 Puzzling Physics Problems. The answers are:
 1. Using energy conservation and considering the vertical acceleration of the center of mass,
 N =
-
+
 3cosθ − 1
 2
-2
+ 2
 mg
 2. By considering the horizontal acceleration of the center of mass,
 f =
@@ -263,7 +271,9 @@ The slipping is to the left.
 This is a classic problem which has been studied in several papers (e.g. see here). For general
 coefficients of friction and initial angles, you can get rather complicated behavior. For example, it
 is possible for the pencil tip to start sliding one way, stop, and then start sliding the other way.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Question B2
 For a fairly simple system of charges proposed by W. Shockley and R. P. James in 1967, understand-
 ing the conservation of linear momentum requires careful relativistic analysis. If a point charge is
@@ -298,7 +308,9 @@ there is a point charge Q, as shown.
 R
 ℓ
 Q
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 The loop carries current I. We will model the current loop as a neutral tube, as in part 5.
 The charge carrierss can move freely along the loop, colliding elastically with the walls and
 making elastic right turns at the corners. Neglect all interactions among the charge carrierss.
@@ -320,10 +332,10 @@ p =
 mIℓ
 q
 1 −
-
+
 I
 nAqc
-2
+ 2
 !−1/2
 6. The momenta of the top and bottom sides cancel by symmetry. The left and right sides have
 a potential difference ∆U = kQqℓ/R2, and carry the same current I = qλ1v1 = qλ2v2. Energy

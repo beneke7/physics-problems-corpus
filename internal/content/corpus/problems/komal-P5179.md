@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A hockey puck of mass $m$ is sliding at a speed of $v_1$, and then it bounces back elastically and perpendicularly from an ice hockey stick which was moved at a constant speed of $u$. 
- $a)$ After bouncing back, what is the speed $v_2$ of the puck? 
- $b)$ What should the speed of the stick be in order that after the collision the puck stop? 
+A hockey puck of mass $m$ is sliding at a speed of $v_1$, and then it bounces back elastically and perpendicularly from an ice hockey stick which was moved at a constant speed of $u$.
+ $a)$ After bouncing back, what is the speed $v_2$ of the puck?
+ $b)$ What should the speed of the stick be in order that after the collision the puck stop?
  (4 pont)

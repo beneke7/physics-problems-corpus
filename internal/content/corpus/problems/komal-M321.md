@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201202"
 verification_status: pending
 ---
 
-Measure the torsional stiffness of the parts of a skewer of different lengths such as 10, 15 and 20 cm (torsional stiffness is the ratio of applied torsion moment to angle of twist) a ) with torsional swings, b ) with static method. 
+Measure the torsional stiffness of the parts of a skewer of different lengths such as 10, 15 and 20 cm (torsional stiffness is the ratio of applied torsion moment to angle of twist) a ) with torsional swings, b ) with static method.
  (6 pont)

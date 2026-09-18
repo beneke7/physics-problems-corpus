@@ -62,7 +62,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                       Cover Sheet                                           2
+
+
+2009 Semifinal Exam                       Cover Sheet                                           2
 
 
 
@@ -99,7 +101,7 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
      2009.
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                               G = 6.67 × 10−11 N · m2 /kg2
-     k = 1/4π0 = 8.99 × 109 N · m2 /C2         km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 109 N · m2 /C2         km = µ0 /4π = 10−7 T · m/A
                     8
      c = 3.00 × 10 m/s                          kB = 1.38 × 10−23 J/K
                        23
@@ -107,17 +109,19 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
                      −8
      σ = 5.67 × 10 J/(s · m · K )2   4          e = 1.602 × 10−19 C
      1eV = 1.602 × 10     −19 J                 h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1              cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1              cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                   Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                             Part A                                           3
+
+
+2009 Semifinal Exam                             Part A                                           3
 
 
 
 Part A
 Question A1
-A hollow cylinder has length l, radius r, and thickness d, where l  r  d, and is made of a
+A hollow cylinder has length l, radius r, and thickness d, where l   r   d, and is made of a
 material with resistivity ρ. A time-varying current I flows through the cylinder in the tangential
 direction. Assume the current is always uniformly distributed along the length of the cylinder. The
 cylinder is fixed so that it cannot move; assume that there are no externally generated magnetic
@@ -170,7 +174,9 @@ fields during the time considered for the problems below.
 
 
                   Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                              Part A                                              4
+
+
+2009 Semifinal Exam                              Part A                                              4
 
 
 
@@ -226,7 +232,9 @@ the beta particles emitted by each isotope, and both isotopes decay into stable 
 
 
                    Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                                          Part A                                                                                5
+
+
+2009 Semifinal Exam                                          Part A                                                                                5
 
 
 
@@ -238,7 +246,7 @@ the beta particles emitted by each isotope, and both isotopes decay into stable 
                                           dN     NS,0 −t/tS NP,0 −t/tP
                                  A(t) ∝ −     ∝       2      +       2    .
                                            dt     tS              tP
-     We know that tS  tP , which implies that after a long time, decays of 35 S will dominate,
+     We know that tS   tP , which implies that after a long time, decays of 35 S will dominate,
      since by then almost all the 32 P has decayed away. On the other hand, the decay rate of 35 S
      is suppressed by a factor of tS , which means that at early times, decays of 32 P dominate.
      Therefore, we can find the individual half-lives by fitting a single decaying exponential to the
@@ -287,11 +295,13 @@ the beta particles emitted by each isotope, and both isotopes decay into stable 
 
 Question A3
 Two stars, each of mass M and separated by a distance d, orbit about their center of mass. A
-planetoid of mass m (m  M ) moves along the axis of this system perpendicular to the orbital
+planetoid of mass m (m   M ) moves along the axis of this system perpendicular to the orbital
 plane.
 
                            Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                                           Part A                                  6
+
+
+2009 Semifinal Exam                                           Part A                                  6
 
 
 
@@ -336,7 +346,7 @@ net force is
                                            R +z      R + z2
                                                       2
 
-This expression is exact, but if z  d we have
+This expression is exact, but if z   d we have
                                                                  GmM
                                                           F ≈2       z
                                                                   R3
@@ -357,7 +367,9 @@ which gives the answer,
 
 
                         Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                               Part A                                          7
+
+
+2009 Semifinal Exam                               Part A                                          7
 
 
 
@@ -404,23 +416,25 @@ varied.
      Since P V γ is constant during adiabatic expansion,
 
                                                      P0 1/γ
-                                                        
+
                                           Vf = V0
                                                     Patm
      where γ = Cp /Cv . Plugging this in, we have
-                                                                                       
+
                       5       7                                  5            7 2/7 5/7
                 Emax = P0 V0 − Patm Vf + Patm V0 =                 P0 + Patm − Patm P0    V0 .
                       2       2                                  2            2
 
                    Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                          Part A                         8
+
+
+2009 Semifinal Exam                          Part A                         8
 
 
 
 
   b. The length of the tube is simply
-                                                                5/7
+                                                                  5/7
                                            Vf   V0         P0
                                         L=    =                         .
                                            A    A         Patm
@@ -429,7 +443,9 @@ varied.
 
 
                  Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                     Part A                             9
+
+
+2009 Semifinal Exam                     Part A                             9
 
 
 
@@ -445,7 +461,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                 Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                            Part B                                               10
+
+
+2009 Semifinal Exam                            Part B                                               10
 
 
 
@@ -491,7 +509,9 @@ frame of the bowling ball; in this frame, the golf ball is traveling downwards a
 
 
                    Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                                Part B                                            11
+
+
+2009 Semifinal Exam                                Part B                                            11
 
 
 
@@ -516,13 +536,13 @@ and therefore the range is
 Combining with our previous result,
 
                                                        8v0 2
-                                                                                      
+
                      2                                                               1
                   l = (2v0 sin 2α)(2v0 cos 2α + v0 ) =       sin 2α         cos 2α +     .
                      g                                  g                            2
 
 For convenience we set β = 2α. Inserting the expression for v0 ,
-                                                                            
+
                                   1           dl                     1        2
             l = 16h sin β cos β +       ⇒        = 16h cos β cos β +     − sin β
                                   2           dβ                     2
@@ -543,7 +563,7 @@ Taking the positive root,
                                     33 − 1                        p
                       cos β =              = 0.593,     sin β =    1 − cos2 β = 0.805.
                                      8
-So at maximum,                                              
+So at maximum,
                                                            1
                                  l = 16h · 0.805 · 0.593 +     = 14.08 h
                                                            2
@@ -554,7 +574,9 @@ which occurs at
 
 
                    Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                           Part B                                                12
+
+
+2009 Semifinal Exam                           Part B                                                12
 
 
 
@@ -576,16 +598,16 @@ shown in the diagram.
      from each other. Using this convention, write an exact expression for the potential energy of
      this arrangement in terms of q, d, r, and fundamental constants.
 
-  b. Assume that d  r. Give an approximation of your expression for the potential energy
+  b. Assume that d   r. Give an approximation of your expression for the potential energy
      to lowest order in d. Rewrite this approximation in terms of only p, r, and fundamental
      constants.
 
    c. What is the force (magnitude and direction) exerted on one dipole by the other? Continue
-      to make the assumption that d  r, and again express your result in terms of only p, r, and
+      to make the assumption that d   r, and again express your result in terms of only p, r, and
       fundamental constants.
 
   d. What is the electric field near dipole B produced by dipole A? Continue to make the assump-
-     tion that d  r and express your result in terms of only p, r, and fundamental constants.
+     tion that d   r and express your result in terms of only p, r, and fundamental constants.
 
 
 
@@ -594,22 +616,24 @@ shown in the diagram.
 
                                                        q2
                                                  −
-                                                      4π0 d
+                                                      4π 0 d
      There are two +q/−q pairs separated by a distance r, each having potential energy
 
                                                        q2
                                                  −
-                                                      4π0 r
+                                                      4π 0 r
                                                                               √
      There are a +q/+q pair and a −q/−q pair separated by a distance              r2 + d2 , each having
      potential energy
                                              q2
                                             √
-                                       4π0 r2 + d2
+                                       4π 0 r2 + d2
 
 
                    Copyright ©2009 American Association of Physics Teachers
-2009 Semifinal Exam                              Part B                                         13
+
+
+2009 Semifinal Exam                              Part B                                         13
 
 
 
@@ -618,25 +642,25 @@ shown in the diagram.
      dependent on r. Thus the given zero convention will include only the latter two terms,
 
                                          q2
-                                                              
+
                                                  2       2
                                    U=          − +√              .
-                                        4π0     r     r2 + d2
+                                        4π 0     r     r2 + d2
 
   b. Rearranging the result above, we have
                                                                       
                                           2q 2            1
                                     U=            q                − 1 .
-                                         4π0 r               d 2
-                                                                
+                                         4π 0 r               d 2
+
                                                        1+     r
 
      Using the binomial approximation (1 + x)n ≈ 1 + nx,
                                                   !
                             2q 2       1 d 2              q 2 d2       p2
-                                          
+
                       U≈           1−          −1 =−             = −         .
-                           4π0 r      2 r               4π0 r3     4π0 r3
+                           4π 0 r      2 r               4π 0 r3     4π 0 r3
 
   c. We can infer by symmetry that the force must point along the line separating the dipoles.
      Since the potential energy decreases with decreasing distance, the force is attractive. Its
@@ -644,7 +668,7 @@ shown in the diagram.
 
                                                   dU        p2
                                         F =−         = −3
-                                                  dr      4π0 r4
+                                                  dr      4π 0 r4
      with the negative sign confirming that the force is attractive.
      One can also use an approach analogous to the previous one, i.e. write down the force exactly
      and use a binomial approximation as above. One must take care to account for the fact that
@@ -652,15 +676,15 @@ shown in the diagram.
      opposite-signed charges.
 
   d. The electric field near dipole B produced by dipole A is directed approximately downward.
-     Its magnitude is exactly                                 
+     Its magnitude is exactly
                                           q       2           d
                                     E=         2       2
                                                          sin      .
-                                         4π0 r + (d/2)       2r
-     Using d  r and the small angle approximation sin θ ≈ θ, we have
+                                         4π 0 r + (d/2)       2r
+     Using d   r and the small angle approximation sin θ ≈ θ, we have
                                                         p
                                                  E≈
-                                                      4π0 r3
+                                                      4π 0 r3
      where we neglected all higher-order terms in d/r.
      Note that at this level of accuracy, the force on dipole B would be exactly zero. In order to
      extend this calculation to get the answer to part c, we would have to account for the fact

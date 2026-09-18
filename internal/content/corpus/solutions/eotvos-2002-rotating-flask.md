@@ -21,11 +21,11 @@ egyensúly áll be.
 Rajzoljuk fel vázlatosan, hogyan helyezkedik el ekkor a víz a lombikban!
 () (Károlyházy Frigyes)
 Megoldás. A feladat els® ránézésre me hanikai problémának látszik. Ki fog derülni, hogy legalább ennyire ter-
-modinamikai feladat is; az egyensúly, ami kell®en hosszú id® után beáll, termodinamikai egyensúly lesz. A példa
+modinamikai feladat is; az egyensúly, ami  kell®en hosszú id® után  beáll, termodinamikai egyensúly lesz. A példa
 termodinamikai jellegére utal a lombik falának h®mérsékletér®l szóló mondat is.
 5. ábra
 Az egyenletes forgásba hozott folyadék felszíne a földi homogén nehézségi er®térben forgásparaboloid. Ennek sík-
-metszetét mutatja az 5. ábra. A megforgatott parabola egyenlete az ábrán felvett koordináta-rendszerben
+metszetét mutatja az 5. ábra. A  megforgatott parabola  egyenlete az ábrán felvett koordináta-rendszerben
 y =
 ω2
 2g
@@ -44,9 +44,9 @@ g
 ,
 amib®l [minthogy y(0) = 0℄ a megadott formula következik.
 2. Úgy is megkaphatjuk a felület egyenletét, hogy felismerjük: egy m tömeg¶ folyadékdarabkára ható entrifugális
-er® kifejezése hasonló a Hooke-törvényben szerepl® rugóer® képletéhez, de a rugóállandó negatív, D = −mω2
+er® kifejezése hasonló a Hooke-törvényben szerepl® rugóer® képletéhez, de a  rugóállandó  negatív, D = −mω2
 . Ennek
-megfelel®en a  entrifugális poten iális energia −mω2
+megfelel®en a   entrifugális poten iális energia  −mω2
 x2
 /2, amihez hozzáadva a gravitá iós helyzeti energiát a teljes
 poten iális energiára
@@ -58,13 +58,13 @@ x2
 adódik. A folyadék szabad felszínén a teljes poten iális energia mindenhol ugyanakkora kell legyen, ami a megadott
 parabola egyenletéhez vezet.
 3. Az összefüggés levezetését a feladat nem kívánta meg. Mivel az Eötvös-versenyen bármilyen könyv használható
-a megoldáshoz, egyszer¶en ki lehetett írni a megfelel® képletet például Budó: Kísérleti 
+a megoldáshoz, egyszer¶en ki lehetett írni a megfelel® képletet például Budó: Kísérleti
 zika, I. kötetének megfelel®
 fejezetéb®l.
 Megvizsgálva a feladat konkrét adatait könnyen belátható, hogy a forgó folyadék felülete felveszi a forgásparaboloid
 alakot anélkül, hogy a folyadék széle a lombik nyakában egészen a gömbig felemelkedne. Felmerülhet azonban egy kérdés
- és ez volt a kul s a feladat helyes megoldásához , hogy ha gondolatban meghosszabítanánk ezt a forgásparaboloidot
-egészen a gömbig, vajon nem vágna-e bele a gömbbe? Mert ha igen, akkor ott a gömbben, a forgásparaboloid alatt
+  és ez volt a kul s a feladat helyes megoldásához  , hogy ha gondolatban meghosszabítanánk ezt a forgásparaboloidot
+egészen a gömbig, vajon nem  vágna-e bele  a gömbbe? Mert ha igen, akkor ott a gömbben, a forgásparaboloid alatt
 is lehetne víz!
 Vegyünk ismét egy, a forgástengelyen átmen® síkmetszetet! Határozzuk meg annak a parabolának a legmélyebb
 pontját, amely érinti a gömblombik síkmetszeteként adódó kört! Legyen ez a pont h-val mélyebben, mint a kör közép-
@@ -111,23 +111,23 @@ volt víznél, amennyi a gömbben, egy körbefutó keskeny sávban a paraboloid 
 De hogyan került oda a víz? Voltak versenyz®k, akik arra tippeltek, hogy a gömblombik felpörgetésekor talán
 odafre senhetett a víz. Ez a feltevés nin s híjával az iskolai szertárakban található forgatógépekkel szerzett érdekes
 tapasztalatoknak. Mégsem ez a probléma megoldása, hanem az, hogy a lombikban a s® nyakánál elpárolgó vízg®z egy
-része sapódik ki  megfelel® helyen  a lombik falára. Ennek a termodinamikai folyamatnak a hajtóereje pedig éppen
+része sapódik ki   megfelel® helyen   a lombik falára. Ennek a termodinamikai folyamatnak a hajtóereje pedig éppen
 az az i i-pi i nyomáskülönbség, ami a lombikban fellép a nehézségi er® és a forgás együttes hatása miatt. Egy-egy
 forgásparaboloid mentén a víz a forgó koordináta-rendszerb®l nézve egyensúlyban van, hiszen éppen ez a feltétel hatá-
 rozza meg a felület alakját. Különböz® forgásparaboloidokat összehasonlítva viszont a magasabban elhelyezked® felület
 mentén nagyobb egy bizonyos vízmennyiség energiája, mint az ala sonyabban lev® felületnél. Egyensúlyi állapotban
 a víz felszíne ugyanazon paraboloidon kell elhelyezkedjen a lombik nyakában és a gömbben is, ha nem így lenne, a
-párolgás és le sapódás folyamata megkeresné az ala sonyabb összenergiájú állapotot.
+párolgás és le sapódás folyamata  megkeresné  az ala sonyabb összenergiájú állapotot.
 7. ábra
 Végeredményben tehát a 7. ábrán látható vázlatos rajz (helyes indoklással) a feladat megoldása.
-Megjegyzések. 1. A paraboloid helyzetének pontos meghatározása nem volt feladat  középiskolai matematikával ez
+Megjegyzések. 1. A paraboloid helyzetének pontos meghatározása nem volt feladat   középiskolai matematikával ez
 nehéz is lett volna.
 2. Béky Ben e budapesti versenyz® eljutott annak felismeréséhez, hogy lehet víz a lombik falán, de nem hitte el,
-hogy ez meg is valósulhat. Ugyanúgy nem  írta , mint ahogy egy, az asztalon álló pohár vízb®l sem mászik ki a víz
-az asztalra, hiába lenne ott kisebb az energiája. Nos, az érdekes az, hogy a víz onnan is kimászhat, még a tökéletes
+hogy ez meg is valósulhat.  Ugyanúgy nem   írta  , mint ahogy egy, az asztalon álló pohár vízb®l sem mászik ki a víz
+az asztalra, hiába lenne ott kisebb az energiája.  Nos, az érdekes az, hogy a víz onnan is kimászhat, még a tökéletes
 h®mérsékleti egyensúly esetén is, éppen a meglév® pi iny barometrikus nyomáskülönbség miatt, ami a pohárban lev®
 víz felszíne és az asztal (vagy még inkább a padló) szintje között fennáll. Letakarva egy üvegharanggal az asztalon álló
-pohár vizet, el is végezhet® a kísérlet. Csak kissé soká kell várni! (Üvegharang nélkül is kimászik a víz a pohárból,
+pohár vizet, el is végezhet® a kísérlet. Csak kissé soká kell várni! (Üvegharang nélkül is  kimászik  a víz a pohárból,
 de a szoba nagy légtere miatt sehol sem sapódik le, hanem telítetlen g®z formájában a leveg®ben marad.)
 3. Két szigetel® félgömbhéjat (például két fél pingponglabdát) egymás közvetlen közelében helyezünk el a 8.a ábra
 szerint, kon entrikusan. Az egyikre Q, a másikra q töltést viszünk fel, egyenletesen.
@@ -135,8 +135,8 @@ szerint, kon entrikusan. Az egyikre Q, a másikra q töltést viszünk fel, egye
 a) Mekkora er®t fejt ki egymásra e két test?
 b) Megváltozik-e az eredmény, ha az egyik félgömbhéj sak fele akkora sugarú? () (Gagik Grigorjan
 [Örményország℄ feladata nyomán)
-Megoldás. Ha nem tudsz megoldani egy feladatot, sinálj bel®le magadnak egy könnyebbet  taná solja Pólya
-György (18881985) A gondolkodás iskolája . könyvében. Tegyük ezt most mi is, mindaddig, amíg sak egy olyan
+Megoldás.  Ha nem tudsz megoldani egy feladatot, sinálj bel®le magadnak egy könnyebbet    taná solja Pólya
+György (1888 1985)  A gondolkodás iskolája  . könyvében. Tegyük ezt most mi is, mindaddig, amíg sak egy olyan
 feladatig jutunk, amit már meg tudunk oldani. Innen visszafejtve a gondolatsort, talán kaphatunk ötleteket a nehezebb
 feladatok megoldásához.
 Foglalkozzunk el®ször az a) kérdéssel! Mi lenne, ha mindkét félgömbhéjon ugyanakkora, (Q,Q) töltés lenne? Mi
@@ -194,7 +194,7 @@ p =
 2
 σE.
 Egy elektromosan töltött felület adott nagyságú darabkájára ható er®t a felület nagysága, töltéss¶r¶sége és a felület
-közvetlen közelében mérhet® elektromos térer®sség egyértelm¶en meghatározza. Ez az elektrosztatikus nyomás tehát
+közvetlen közelében mérhet® elektromos térer®sség egyértelm¶en meghatározza. Ez az elektrosztatikus  nyomás  tehát
 nem sak a síkkondenzátor, hanem a töltött félgömbhéj esetében is a fentebb kiszámított p-vel (az energias¶r¶séggel)
 egyezik meg.
 A félgömbhéjra ható ered® er® ugyanakkora, mint a félgömbhéjat gondolatban lezáró körlapra ható er® lenne p
@@ -234,8 +234,8 @@ feladatban. Megjegyezzük, hogy a kérdéses pontok nem esnek egybe a homogén t
 középpontjaival, mint azt több versenyz® tévesen állította. Az eltérésnek az az oka, hogy sak a homogén gravitá iós
 er®tér hatása helyettesíthet® a tömegközéppontba képzelt testre ható er®vel, a Coulomb-féle er®tér pedig inhomogén!
 A b) kérdés megoldásához ismét idézzük fel Pólya György taná sát! A kérdéses aszimmetrikus elrendezés helyett
-tekintsünk egy szimmetrikusat, amit feltehet®leg egyszer¶bb lesz kezelnünk. Egészítsük ki a b) elrendezést a tükörké-
-pével (9. ábra)! Írjuk fel a bal oldali két félgömbhéj által a jobb oldali két félgömbhéjra kifejtett ered® er®t! Ez négy
+tekintsünk egy szimmetrikusat, amit feltehet®leg egyszer¶bb lesz kezelnünk. Egészítsük ki a b) elrendezést a  tükörké-
+pével  (9. ábra)! Írjuk fel a bal oldali két félgömbhéj által a jobb oldali két félgömbhéjra kifejtett ered® er®t! Ez négy
 er®b®l tehet® össze:
 F = FQ→Q + Fq→q + FQ→q + Fq→Q
 Az összeg két utolsó tagja egyenl® egymással, és mindegyikük éppen az az Fb er®, amit keresünk! Ha tehát ki tudjuk
@@ -277,7 +277,7 @@ E3 =
 2q + 2Q
 R2
 .
-A fenti kifejezések segítségével  az a) kérdésnél alkalmazott gondolatmenetet követve  F-et a következ® módon
+A fenti kifejezések segítségével   az a) kérdésnél alkalmazott gondolatmenetet követve   F-et a következ® módon
 számíthatjuk ki:
 F =
 1
@@ -318,15 +318,15 @@ Az eredmény meglep®, hiszen független r-t®l, így a b) esetben is ugyanakkor
 számolás után meg is érdemeltünk egy kellemes meglepetést.)
 Megjegyzés. A b) kérdést megválaszoló versenyz®k több kiváló ötlettel is éltek. Nagy Márton (Budapest) gondolatban
 körülvette a 11.a ábrán látható elrendezést (amelyen az egyszer¶ség kedvéért sak a kisebb félgömbhéjra ható er®t
-tüntettük fel) egy R-nél hajszálnyival nagyobb sugarú, −2Q töltés¶ gömbhéjjal (11.b ábra). Így a félgömbhéjak
+tüntettük fel) egy R-nél  hajszálnyival  nagyobb sugarú, −2Q töltés¶ gömbhéjjal (11.b ábra). Így a félgömbhéjak
 között ható er®t nem változtatta meg, hiszen az egyenletesen töltött gömbhéj térer®ssége belül nulla. Ez az elrendezés
 nyilván egyenérték¶ a 11.c ábrán láthatóval, amib®l −Q el®jelét megváltoztatva a 11.d ábrán feltüntetetthez jutunk.
 Tükrözzük ezt az elrendezést a félgömbhéjak képzeletbeli határsíkjára (11.e ábra). Azt kaptuk, hogy a Q töltés¶
-(egyenletes töltés¶) félgömbhéj ugyanakkora er®t fejt ki egy benne lév® másik, q töltés¶ félgömbhéjra, mint amekkorát
-egy bel®le kilógó q töltés¶ félgömbhéjra. Ezek szerint egy 2q töltés¶ gömbre a nagy félgömbhéj 2F er®t fejtene ki, q
+(egyenletes töltés¶) félgömbhéj ugyanakkora er®t fejt ki egy  benne lév®  másik, q töltés¶ félgömbhéjra, mint amekkorát
+egy  bel®le kilógó  q töltés¶ félgömbhéjra. Ezek szerint egy 2q töltés¶ gömbre a nagy félgömbhéj 2F er®t fejtene ki, q
 össztöltés¶ gömbre pedig ennek felét, F-et (11.f ábra).
 11. ábra
-Most már sak a hatásellenhatás törvényét kell alkalmaznunk: a q töltés¶ gömb (amelynek elektromos tere a
+Most már sak a hatás ellenhatás törvényét kell alkalmaznunk: a q töltés¶ gömb (amelynek elektromos tere a
 gömbön kívül egy ponttöltés terével is helyettesíthet®, tehát nem függ r-t®l!) a Q töltés¶ félgömbhéjra éppen a keresett
 F nagyságú er®t fejti ki (11.g ábra). A végeredmény a Coulomb-törvény és a gáznyomásos hasonlat alkalmazásával
 adódik:
@@ -345,8 +345,8 @@ Q
 Qq
 R2
 .
-Még tovább ment a feladat általánosításában Csóka Endre (Debre en), aki  a fentiekhez hasonló tükrözéses
-módszerrel  megmutatta, hogy a félgömbhéjak között ható F er® nagysága akkor is a fent kiszámított érték, ha a
+Még tovább ment a feladat általánosításában Csóka Endre (Debre en), aki   a fentiekhez hasonló  tükrözéses
+módszerrel    megmutatta, hogy a félgömbhéjak között ható F er® nagysága akkor is a fent kiszámított érték, ha a
 két félgömb szimmetriatengelye tetsz®leges α szöget zár be egymással. Az er® nagysága a töltések szorzatán kívül sak
 a nagyobb félgömbhéj sugarától függ, iránya pedig a nagyobb félgömb szimmetriatengelyével párhuzamos, jóllehet a
 hatásvonala általában nem megy át a félgömbhéjak közös középpontján (12.a ábra). Ez az eredmény is meglep®, hiszen
@@ -355,11 +355,11 @@ ugrásszer¶en változik, attól függ®en, hogy melyik sugár is a nagyobb (12.
 12. ábra
 Az ünnepélyes eredményhirdetésre és díjkiosztásra 2002. november 29-én került sor az ELTE TTK lágymányosi
 (északi) épületének 0.83-as tantermében. Itt a Versenybizottság elnöke el®ször megemlékezett a 100 évvel ezel®tti
-Eötvös-verseny akkori nyertesér®l, K®nig Dénes (18841944) matematikusról, majd bemutatta a hallgatóságnak Zanati
+Eötvös-verseny akkori nyertesér®l, K®nig Dénes (1884 1944) matematikusról, majd bemutatta a hallgatóságnak Zanati
 Tibort, aki 50 évvel ezel®tt nyert díjat az Eötvös-versenyen. Ezután ismertette a feladatok helyes megoldását, majd
 felkérte Gyulai József akadémikust, az Eötvös Loránd Fizikai Társulat elnökét, hogy adja át a díjakat.
 A Versenybizottság (Radnai Gyula elnök, Károlyházy Frigyes és Gnädig Péter) döntése alapján
-I. díjat nyert és 15 ezer Ft jutalmat kapott Nagy Márton, az ELTE 
+I. díjat nyert és 15 ezer Ft jutalmat kapott Nagy Márton, az ELTE
 zikus hallgatója, aki a budapesti Piarista
 Gimnáziumban érettségizett, mint Futó Béla tanítványa.
 II. díjat nyert és 10-10 ezer Ft jutalmat kapott Béky Ben e, a BMGE mérnök-
@@ -375,7 +375,7 @@ Kiemelt di séretet kapott Balogh László, a Fazekas Mihály F®városi Gyakorl
 Horváth Gábor tanítványa.
 Di séretet kaptak a következ®k: Geresdi Attila, a BMGE mérnök-
 zikus hallgatója, aki a pé si Árpád fejedelem
-Gimnáziumban érettségizett Kotek László tanítványaként, Hamar Gerg®, az ELTE 
+Gimnáziumban érettségizett Kotek László tanítványaként, Hamar Gerg®, az ELTE
 zikus hallgatója, aki a dom-
 bóvár Illyés Gyula Gimnáziumban érettségizett mint Freller Miklós tanítványa, Pápai Tivadar, a BMGE m¶szaki
 informatikus hallgatója, aki a bar si Dráva Völgye Középiskolában érettségizett mint Horváth Feren és Kotek László
@@ -386,5 +386,5 @@ A verseny valamennyi díjazott és di séretben részesült versenyz®je a Nemze
 könyvutalványt kapott, az ünnepélyes díjkiosztáson megjelent tanáraik pedig a M¶szaki Kiadó, a Nemzeti Tankönyv-
 kiadó és a Typotex Kiadó ajándékkönyveib®l válogathattak.
 A program befejeztével a még ott maradt tanárok és diákok kihasználhatták az alkalmat, hogy egymással s a ko-
-rábbi Eötvös-versenyek jelenlev® nyerteseivel elbeszélgessenek, s újra megtekintsék a Csollány-feladathoz kap solódó
+rábbi Eötvös-versenyek jelenlev® nyerteseivel elbeszélgessenek, s újra megtekintsék a  Csollány-feladathoz  kap solódó
 demonstrá iós kísérleteket.

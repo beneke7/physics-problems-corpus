@@ -22,6 +22,6 @@ verification_status: unverified
 ---
 A homogeneous ring lays horizontally on two identical parallel rails. The first rail moves parallel to itself, with a constant speed $v$; the second rail is at rest. The angular distance between the ring-rail contact points, as seen from the centre of the ring, is $2\alpha$ for the first rail, and $2\beta$ for the second rail, see figure. Assuming that $\alpha \ll 1$ and $\beta = \pi/3$, find the speed of the centre of the ring.
 
-![figure](../../sources/physicscup/figures/physicscup-wopho2013-p2-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-wopho2013-p2-1.png)
 
 *Physics Cup / WoPhO 2013 Problem 2 ("Problem 7") by Jaan Kalda. Statement transcribed faithfully from the born-digital source; the source PDF also contains hints and an official solution (not ingested here).*

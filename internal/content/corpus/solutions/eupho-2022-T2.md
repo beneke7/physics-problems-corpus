@@ -40,7 +40,7 @@ $$\frac{T_{\max} - T_0}{T_{\min} - T_0} = \frac{R_2 I_1^2}{R_1 I_2^2} = \frac{R_
 
 The qualitative dependence $T(t)$ (and the corresponding resistance $R(t)$) is sketched below: $T$ rises slowly while $R = R_1$, jumps up at the transition, then falls while $R = R_2$, and so on.
 
-![figure](../../sources/eupho/figures/eupho-2022-T2-sol-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T2-sol-1.png)
 
 *Fig. 2*
 

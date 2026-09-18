@@ -24,4 +24,4 @@ Egy vastag üveglemezt vékony, átlátszó réteggel vonunk be. A rendszer áte
 spektruma az ábrán látható (a fény merőlegesen esik a lemezre). A réteg törésmutatója
 $n \approx 1.3$. Mekkora a réteg $d$ vastagsága?
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-transparent-film-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-transparent-film-fig1.png)

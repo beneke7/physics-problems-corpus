@@ -42,7 +42,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
            (r2 /2) d3 (r2 )/dt3 . You will have to switch variables to x and y and then switch back; for
            these purposes it’s useful to use the results of part (a), and the definition r2 = x2 + y 2 .)
      (d) Define ψ(t) = r(t)3 . In parts (b) and (c), we have shown that the differential equation
-                                                          
+
                                               d         du
                                                    ψ(t)      = −γu
                                               dt        dt

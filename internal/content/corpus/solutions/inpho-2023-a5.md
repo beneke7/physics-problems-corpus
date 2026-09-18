@@ -337,11 +337,11 @@ M
 −
 1
 3R
-
+
 h +
 2t
 3
-
+
 (5.11)
 A graph of 1/M vs 1/3R will be linear. The graph is plotted on the next page. For the
 obtained data set

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [differential-element]
 ---
 
-At the centre of a solenoid of diameter $d=4.4$ cm, of length $\ell=1$ m and of $N=1000$ number of turns, there is a thick, circular, conducting coaxial ring. The ring has a radius of $r=2.5$ cm, and its resistance is $R=10^{-4}~\Omega$. The $50$ A current in the solenoid is changed to $-50$ A in 1 second. 
+At the centre of a solenoid of diameter $d=4.4$ cm, of length $\ell=1$ m and of $N=1000$ number of turns, there is a thick, circular, conducting coaxial ring. The ring has a radius of $r=2.5$ cm, and its resistance is $R=10^{-4}~\Omega$. The $50$ A current in the solenoid is changed to $-50$ A in 1 second.
 
- $a)$ What is the magnitude of the magnetic induction at the centre of the ring when the current in the solenoid is zero? 
- $b)$ What is this value $\Delta t=0.001$ s before and after the above described moment? 
+ $a)$ What is the magnitude of the magnetic induction at the centre of the ring when the current in the solenoid is zero?
+ $b)$ What is this value $\Delta t=0.001$ s before and after the above described moment?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4880-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4880-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-An object can be hanged to a 5-m long wire of diameter 2 mm, and the wire does not break. However, if the object is displaced a bit and begins to swing, the wire breaks. Why? If another piece of wire having the same length and material but wider diameter is used, the speed of the swinging object can even be 7 m/s. Calculate the least diameter of this wider wire. 
+An object can be hanged to a 5-m long wire of diameter 2 mm, and the wire does not break. However, if the object is displaced a bit and begins to swing, the wire breaks. Why? If another piece of wire having the same length and material but wider diameter is used, the speed of the swinging object can even be 7 m/s. Calculate the least diameter of this wider wire.
  (4 pont)

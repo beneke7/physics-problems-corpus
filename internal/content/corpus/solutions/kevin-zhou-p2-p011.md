@@ -22,29 +22,29 @@ Solution. From the projectile range equation d = v2 sin(2θ)/g, we get
 1
 2
 arcsin
-
+
 dg
 v2
-
+
 = 18.03◦
 .
 Now write sin(2θ) = gd/v2. By the results of problem 10, the uncertainty of the right-hand side is
 dg
 v2
-s
+s
 ∆d
 d
-2
+ 2
 +
-
+
 ∆g
 g
-2
+ 2
 +
-
+
 2∆v
 v
-2
+ 2
 = 0.0248.
 The uncertainty of the left-hand side is 2cos(2θ)∆θ by the tangent line approximation, so we have
 ∆θ = 0.015 rad = 0.9◦. Thus, the final result should be written as

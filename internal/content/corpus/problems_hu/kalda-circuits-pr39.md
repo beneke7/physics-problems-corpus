@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az $A$ kapocs potenciálját. (Ne feledjük, hogy a földpotenciált mindig $0$-nak tekintjük.)
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr39-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr39-fig1.jpg)

@@ -28,7 +28,7 @@ verification_status: flagged
 
 2. Early this century a model of the earth was proposed in which it was assumed to be a sphere of radius $R$ consisting of a homogeneous isotropic solid mantle down to radius $R_{c}$. The core region within radius $R_{c}$ contained a liquid. Figure 2.1
 
-![](ipho-1986-t-q2-fig01.png)
+![](../../figures/ipho/figures/ipho-1986-t-q2-fig01.png)
 Figure 2.1
 
 The velocities of longitudinal and transverse seismic waves P and S waves respectively, are constant, $V_{P}$, and $V_{\mathrm{S}}$ within the mantle. In the core, longitudinal waves have a constant velocity $V_{C P},<V_{P}$, and transverse waves are not propagated.

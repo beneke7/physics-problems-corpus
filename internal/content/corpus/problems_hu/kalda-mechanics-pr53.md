@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy vízsugár $v$ sebességgel érkezik egy vályú aljára, majd kisebb, balra és jobbra tartó vízsugarakra válik szét. Határozzuk meg mindkét kilépő sugár sebességét, ha a beérkező sugár a vályúhoz és a kilépő sugarak eredőjéhez képest $\alpha$ szögben érkezett. Mekkora az egységnyi idő alatt a két kifolyó sugár által elszállított vízmennyiségek aránya?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr53-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr53-fig1.jpg)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: pending
 ---
 
-Can a reference frame be chosen in a way that only either the magnetic or the electric field of an electron beam of constant velocity can be detected? 
+Can a reference frame be chosen in a way that only either the magnetic or the electric field of an electron beam of constant velocity can be detected?
 
  (4 pont)

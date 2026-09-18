@@ -52,7 +52,6 @@ We now continue discussing the Stark effect in hydrogen.
 
     More generally, the polarizability could be a tensor, ⟨di ⟩ = αij Fj + O(F 2 ). We can convert the
     polarizability of an atom to a dielectric constant of a gas using the Clausius-Mossotti formula.
-207 9. Time Independent Perturbation Theory
 
 
  • Next, we can compute the energy shift of the ground state to second order, i.e. the quadratic
@@ -106,7 +105,6 @@ We now continue discussing the Stark effect in hydrogen.
 Next we consider fine structure, which concerns the effects of relativity and spin. These appear at
 the same order, namely (v/c)2 , so they must be treated together. They may also be derived in a
 unified way from the Dirac equation, though we do not do this here.
-208 9. Time Independent Perturbation Theory
 
 
  • There are three new terms: the relativistic kinetic energy correction, the Darwin term, and the
@@ -161,7 +159,6 @@ unified way from the Dirac equation, though we do not do this here.
                       HRKE = −     p ,    HD =      ∇ V,     HSO =            L·S
                                  8                8                   2 r dr
    and it is clear the terms are all of the same order.
-209 9. Time Independent Perturbation Theory
 
 
  • We can specialize further to one-electron atoms, where
@@ -218,7 +215,6 @@ Now we proceed to computing the energy shifts.
     Since HRKE is a scalar operator, by the Wigner–Eckart theorem we have
 
                              ⟨nℓmℓ |HRKE |nℓm′ℓ ⟩ = δmℓ m′ℓ ⟨nℓ0|HRKE |nℓ0⟩.
-210 9. Time Independent Perturbation Theory
 
 
  • Now, applying Clebsch–Gordan coefficients, and the above results,
@@ -242,7 +238,7 @@ Now we proceed to computing the energy shifts.
    since we know how to calculate the expectation values of H0 and V ,
 
                                                                 Z2
-                                                       
+
                                                         1
                               ⟨H0 ⟩ = En , ⟨V ⟩ = −Z        =− 2
                                                         r       n
@@ -252,13 +248,13 @@ Now we proceed to computing the energy shifts.
  • The difficult part is calculating ⟨V 2 ⟩, which requires special function techniques, giving
 
                                                           Z2
-                                            
+
                                               1
                                                   =
                                              r2      n3 (ℓ + 1/2)
 
    which gives a total energy shift of
-                                                                                       
+
                                                                    1        3    n
                         ⟨nℓjmj |HRKE |nℓjmj ⟩ = (Zα)2 (−En )                  −             .
                                                                    n2       4 ℓ + 1/2
@@ -284,7 +280,6 @@ Now we proceed to computing the energy shifts.
             ⟨nℓjmj |HSO |nℓjmj ⟩ =       (j(j + 1) − ℓ(ℓ + 1) − s(s + 1))⟨nℓjmj | 3 |nℓjmj ⟩
                                       4                                          r
    where j = ℓ ± 1/2.
-211 9. Time Independent Perturbation Theory
 
 
  • By the same reasoning as above, the final factor can be written as
@@ -294,7 +289,7 @@ Now we proceed to computing the energy shifts.
    and special function techniques give
 
                                                    Z3
-                                    
+
                                       1
                                         =                      .
                                      r3   n3 ℓ(ℓ + 1/2)(ℓ + 1)
@@ -305,7 +300,7 @@ Now we proceed to computing the energy shifts.
 
  • The spin-orbit and Darwin terms both have special cases for ℓ = 0, contributing or not con-
    tributing respectively, but combine into something simple. The total result is
-                                                                  
+
                                             2      1 3         n
                                ∆EFS = (Zα) (−En ) 2      −           .
                                                    n    4 j + 1/2
@@ -313,7 +308,7 @@ Now we proceed to computing the energy shifts.
    Remarkably, the answer only depends directly on n and j, so the energy levels are
 
                                    Z2        (Zα)2 3
-                                                               
+
                                                              n
                           Enj = − 2 1 −                −             .
                                    2n          n2    4 j + 1/2
@@ -337,7 +332,6 @@ We now make some comments about this result.
 
  • Some energy levels are shown below, with the fine structure exaggerated for clarity. This
    diagram uses spectroscopic notation nℓj , where ℓ = s, p, d, f, . . ..
-212 9. Time Independent Perturbation Theory
 
 
 
@@ -367,7 +361,7 @@ We now make some comments about this result.
     in j. By a similar analysis,
 
                                        α2
-                                                                            
+
                                                                         1 dV
                              ∆ESO =       (j(j + 1) − ℓ(ℓ + 1) − 3/4)          .
                                         4                               r dr
@@ -377,7 +371,6 @@ We now make some comments about this result.
 
 Note. The Lamb shift is just an additional smearing like the Darwin term, which is due to interaction
 with vacuum fluctuations. Consider an atom in a large cubical box of side length L. The modes of
-213 9. Time Independent Perturbation Theory
 
 
 the quantum electromagnetic field perpetually have vacuum energy ℏωk , where ωk is their frequency.
@@ -392,7 +385,7 @@ a characteristic time τ ∼ 1/ωk , over which the displacement of the particle
                                                      m        mωk2
 
 Since the fluctuations of these modes are independent, the mean square fluctuation is
-                  X e2 |Ek |2                                        3
+                  X e2 |Ek |2                                          3
                                  e2 ℏ X           e2 ℏ                                e2
                                                              Z                              Z
             2                             1                          L     1                  dk
@@ -435,7 +428,6 @@ That is, the electron thinks it turns by a larger amount than it does in the lab
                                            θ′ − θ          v2
                                                   ≈ γ − 1 ≈ 2.
                                               θ            2c
-214 9. Time Independent Perturbation Theory
 
 
 If the electron moves uniformly in the lab frame, then the “extra” precession is
@@ -486,7 +478,6 @@ Next, we consider the Zeeman effect, involving atoms in magnetic fields.
       q = −1. In Gaussian units, since magnetic fields have the same units as electric ones, one can
       get them from the SI result by “dividing by c”, accounting for the factor of α in the orbital
       piece. This also makes it clear that the spin and orbital pieces both contribute at O(α).
-215 9. Time Independent Perturbation Theory
 
 
  • We take the magnetic field and vector potential to be
@@ -537,7 +528,6 @@ the term T3 will become important.
 
     because J 2 contains L · S, which in turn contains Lx Sx + Ly Sy . Thus, the Zeeman effect prefers
     the uncoupled basis.
-216 9. Time Independent Perturbation Theory
 
 
  • In the uncoupled basis, the perturbation is already diagonal, so we just read off
@@ -584,7 +574,6 @@ the term T3 will become important.
  • Thus, the energy shifts are
 
                       ∆E = ⟨nℓmℓ ms |f (r)L · S|nℓmℓ ms ⟩ = mℓ ms ⟨nℓmℓ |f (r)|nℓmℓ ⟩
-217 9. Time Independent Perturbation Theory
 
 
    and for hydrogen we have
@@ -617,7 +606,7 @@ Now we consider the weak field case, where HFS dominates.
    and using
                                                 1 2
                                                   J + S 2 − L2 .
-                                                              
+
                                         S·J=
                                                 2
    This gives the result
@@ -640,7 +629,6 @@ Now we consider the weak field case, where HFS dominates.
  • For stronger magnetic fields, we would have to calculate the second-order effect, which does
    involve mixing between subspaces of different ℓ. For the n = 2 energy levels this isn’t too
    difficult, as only pairs of states are mixed, so one can easily calculate the exact answer.
-218 9. Time Independent Perturbation Theory
 
 
 9.5     Hyperfine Structure
@@ -665,7 +653,7 @@ magnetic dipole and electric quadrupole fields.
 Next, we expand the Hamiltonian.
 
  • We take the field and vector potential to be those of a physical dipole,
-                                                                             
+
                                    4π         1                    8π         T
                   A(r) = (µ × r)      δ(r) + 3 , B(r) = µ ·           δ(r)I + 5 .
                                     3         r                     3        r
@@ -677,7 +665,7 @@ Next, we expand the Hamiltonian.
  • The Hamiltonian is similar to that of the Zeeman effect,
 
                                       A 2
-                                       
+
                               1                                  1
                            H=      p+     + V (r) + HFS + HLamb + S · B.
                               2       c                          c
@@ -695,7 +683,6 @@ Next, we expand the Hamiltonian.
                                           H1 = (p · A + S · B).
                                               c
       However, it will be more difficult to evaluate these orbital and spin terms.
-219 9. Time Independent Perturbation Theory
 
 
  • The orbital term is proportional to
@@ -704,7 +691,7 @@ Next, we expand the Hamiltonian.
 
     where one can check there are no ordering issues. Similarly, there are no ordering issues in the
     spin term, since S and I act on separate spaces. Hence we arrive at
-                                                                                    
+
                                  4π        1                   8π               I·T ·S
              H1,orb = k(I · L)      δ(r) + 3 , H1,spin = k        δ(r)(I · S) +           .
                                   3       r                     3                 r5
@@ -752,7 +739,6 @@ Now we calculate the energy shifts.
                                        k
                             ∆E =            ⟨nℓjf mf |(I · J)(J · G)|nℓjf mf ⟩.
                                    j(j + 1)
-220 9. Time Independent Perturbation Theory
 
 
  • The first term may be simplified by noting that
@@ -778,7 +764,7 @@ Now we calculate the energy shifts.
                                                         r3
 
  • Therefore, the energy shift becomes
-                                                                                       
+
                                f (f + 1) − j(j + 1) − i(i + 1)                  1
                         ∆E = k                                 ℓ(ℓ + 1)                     .
                                           2j(j + 1)                             r3
@@ -797,7 +783,7 @@ Now we calculate the energy shifts.
                                         ∆E =      k⟨δ(r)(I · S)⟩.
                                                 3
    Since F = I + S when L = 0, we have
-                                                                               
+
                                   1                     1                   3
                            I · S = (F 2 − I 2 − S 2 ) =         f (f + 1) −         .
                                   2                     2                   2
@@ -811,7 +797,6 @@ Now we calculate the energy shifts.
    ground state and f = 1 is three-fold degenerate; these correspond to antiparallel and parallel
    nuclear and electronic spins. The frequency difference is about 1.42 GHz, which corresponds to
    a 21 cm wavelength.
-221 9. Time Independent Perturbation Theory
 
 
  • The 2s1/2 and 2p1/2 states each split similarly; the hyperfine splitting within these levels is
@@ -862,7 +847,6 @@ The hydrogen energy levels themselves are of order α2 mc2 .
 still α2 , but the Lamb shift enters at the same order, since there is a tree-level diagram where
 the electron and positron annihilate and reappear; the Lamb shift for hydrogen is loop-level. The
 hyperfine splitting also enters at order α2 , so one must account for all of these effects at once.
-222 9. Time Independent Perturbation Theory
 
 
 9.6     The Variational Method
@@ -921,7 +905,6 @@ We now introduce the variational method.
       However, this just tells us that |ψ⟩ is an eigenvector of the Hamiltonian restricted to our
       variational subspace, with eigenvalue β. Our upper bound on the ground state energy is just
       the lowest eigenvalue of this restricted Hamiltonian, which is intuitive.
-223 9. Time Independent Perturbation Theory
 
 
  • This sort of procedure is extremely common when computing ground state energies numerically,

@@ -27,7 +27,6 @@ Példa. A legtöbb esetben az energia és az entrópia kiterjedt mennyiség. Ez 
 
 λ = 1-nél deriválva azt kapjuk, hogy
                                          E = T S − pV + µN.
-62 3. Statisztikus mechanika
 
 
 A teljes differenciál felvétele után a Gibbs–Duhem-egyenletet kapjuk:
@@ -49,7 +48,6 @@ Ettől a ponttól kezdve újrakezdjük a termodinamikát. Az egyszerűség kedv�
                                                  η=      .
                                                       QH
       A Carnot-körfolyamat felépítéséből adódóan reverzibilis. A második főtétel szerint ezért egyetlen körfolyamatnak sem lehet nagyobb hatásfoka.
-63 3. Statisztikus mechanika
 
 
  • Két Carnot-körfolyamat összekapcsolásával a következő feltételt kapjuk:

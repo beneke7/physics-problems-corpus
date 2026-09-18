@@ -52,7 +52,9 @@ resistor 𝑅0 , in which the current strength is calculated as:
                     0
        The voltage on the external circuit is also measured directly as 𝑈.
 2.2 The measurement results are shown in Table 2 and in the graph in Fig. 2.
-XXI International Zhautykov Olimpiad/Experimental Competition                                             с. 2/6
+
+
+XXI International Zhautykov Olimpiad/Experimental Competition                                             с. 2/6
 
 Table 2.
 
@@ -100,7 +102,9 @@ Table 3.
    -251       631        -30,5     434       -236        52,8
                                    406       -191        49,4
                                    386       -153        47,0
-XXI International Zhautykov Olimpiad/Experimental Competition                                             с. 3/6
+
+
+XXI International Zhautykov Olimpiad/Experimental Competition                                             с. 3/6
 
 
 
@@ -135,7 +139,9 @@ Table 4
     -69       548         -8,4
     -29       524         -3,5
     16        493          1,9
-XXI International Zhautykov Olimpiad/Experimental Competition                                                 с. 4/6
+
+
+XXI International Zhautykov Olimpiad/Experimental Competition                                                 с. 4/6
 
      48        471       5,8
      84        442       10,2
@@ -171,7 +177,9 @@ which also almost coincides with the values obtained in section 4.1.
      Part                                 Content                                       Total         Points
              Part 1. Characteristics of the galvanic cell “Camelion”.                    3,0
       1.1    Resistance measurements 0,1х5=0.5                                           0,5            0,5
-XXI International Zhautykov Olimpiad/Experimental Competition                                     с. 5/6
+
+
+XXI International Zhautykov Olimpiad/Experimental Competition                                     с. 5/6
 
            allowable error ±0,2 Ohm
      1.2   Voltages are measured 0,1х5=0.5                                        0,5       0,5
@@ -226,7 +234,9 @@ which also almost coincides with the values obtained in section 4.1.
            connection;                                                                      0,2
            - two branches with opposite signs of currents and voltages are
            obtained;                                                                        0,4
-XXI International Zhautykov Olimpiad/Experimental Competition                                     с. 6/6
+
+
+XXI International Zhautykov Olimpiad/Experimental Competition                                     с. 6/6
 
             - each branch has 8 or more points (5-7);                                    2х0,4(0,2)
             - the range of current change on each branch is not less than 50

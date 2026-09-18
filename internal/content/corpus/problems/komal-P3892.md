@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200604"
 verification_status: pending
 ---
 
-A diffraction grating is illuminated perpendicularly to its plane by light of wavelength 680 nm. The grating spacing is 5$^{.}$10$^{-6}$ m. 
- a ) How many diffraction maxima can be observed on a screen which is parallel to the plane of the diffraction grating. 
- b ) What is the angle between the incident beam and the direction of the furthest reinforcement? 
+A diffraction grating is illuminated perpendicularly to its plane by light of wavelength 680 nm. The grating spacing is 5$^{.}$10$^{-6}$ m.
+ a ) How many diffraction maxima can be observed on a screen which is parallel to the plane of the diffraction grating.
+ b ) What is the angle between the incident beam and the direction of the furthest reinforcement?
  (4 pont)

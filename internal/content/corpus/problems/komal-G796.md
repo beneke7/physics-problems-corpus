@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [smart-coordinates, graphical-reduction]
 ---
 
-An ozone generator produces 5 g of ozone per hour by corona discharge and delivers it by a fan to the surface, which is to be disinfected. 
- $a)$ How many ozone molecules are produced in one hour? 
- $b)$ The manual recommends 30 minutes to disinfect a surface of area $28~\mathrm{m}^2$. The air is clean and dust-free, so the generated ozone will only decompose on the surface. Estimate the number of ozone molecules per bacterium on a surface area of 10 square microns. 
+An ozone generator produces 5 g of ozone per hour by corona discharge and delivers it by a fan to the surface, which is to be disinfected.
+ $a)$ How many ozone molecules are produced in one hour?
+ $b)$ The manual recommends 30 minutes to disinfect a surface of area $28~\mathrm{m}^2$. The air is clean and dust-free, so the generated ozone will only decompose on the surface. Estimate the number of ozone molecules per bacterium on a surface area of 10 square microns.
  (4 pont)

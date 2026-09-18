@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-Using simple equipment, how can you measure the mass of an object which is greater than 120 kg, with a scale which can measure maximum 120 kg? 
+Using simple equipment, how can you measure the mass of an object which is greater than 120 kg, with a scale which can measure maximum 120 kg?
  (3 pont)

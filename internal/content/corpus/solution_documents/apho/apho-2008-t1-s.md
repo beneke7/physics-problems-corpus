@@ -57,7 +57,8 @@ For                      and              :
 
 
                                                    1
-                      Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
+
+                      Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
 
 
 
@@ -102,7 +103,8 @@ For AB with radius ~1mm we calculate
 
 
                                                2
-                     Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
+
+                     Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
 
 
 S6. Consider collapsing VB during time piece       (Fig.4). Let's estimate the characteristic
@@ -145,7 +147,8 @@ S7. Obviously, the physical nature of MAB is the same as for VB. Then,
 
 
                                                  3
-                      Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
+
+                      Theoretical Solution 1, 9th Asian Physics Olympiad (Mongolia)
 
 
 S8. A bubble detached from the bottom is hoisted under the influence of Archimedes force.
@@ -191,7 +194,8 @@ Then, we estimate the dissipative force
 
 
                                                 4
-                       Theoretical Problem 1, 9th Asian Physics Olympiad (Mongolia)
+
+                       Theoretical Problem 1, 9th Asian Physics Olympiad (Mongolia)
 
 
 
@@ -218,7 +222,8 @@ law.
 
 
                                                5
-                         Theoretical Problem 1, 9th Asian Physics Olympiad
+
+                         Theoretical Problem 1, 9th Asian Physics Olympiad
 (Mongolia)
 
 [Marking Scheme]          Tea Ceremony and Physics of Bubbles

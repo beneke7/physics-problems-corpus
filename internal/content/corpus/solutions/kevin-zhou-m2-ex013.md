@@ -39,10 +39,10 @@ dx
 − (2kℓ cosθ)dx = 0
 in equilibrium. This immediately gives
 θ = cos−1
-
+
 P
 4kℓ
-
+
 .
 The reason this is so easy is that we don’t have to care about the tension forces within the rods,
 or the forces from the pivot or ground, because none of these forces perform virtual work on the

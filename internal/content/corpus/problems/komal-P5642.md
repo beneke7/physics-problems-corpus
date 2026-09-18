@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-As early as 1679, Newton suggested that the rotation of the Earth could be proved by a mechanical experiment such that the eastward deflection of a small ball in free fall is measured. Hooke, who was secretary of the Royal Society in Newton's time and also an excellent experimenter, made such measurements in 1680. In a sufficiently wealthy and ambitious equatorial country, the experiment, which was proposed almost 350 years ago, was to be repeated by modern equipment. The plan is to drop tiny steel balls onto a wax plate in a 200 m high vertical tube, from which air was sucked out (in a vacuum tower). Determine the magnitude of the deflection by calculating 
- a)  in an inertial frame of reference, 
- b)  in the coordinate system rotating (accelerating) with the Earth. 
+As early as 1679, Newton suggested that the rotation of the Earth could be proved by a mechanical experiment such that the eastward deflection of a small ball in free fall is measured. Hooke, who was secretary of the Royal Society in Newton's time and also an excellent experimenter, made such measurements in 1680. In a sufficiently wealthy and ambitious equatorial country, the experiment, which was proposed almost 350 years ago, was to be repeated by modern equipment. The plan is to drop tiny steel balls onto a wax plate in a 200 m high vertical tube, from which air was sucked out (in a vacuum tower). Determine the magnitude of the deflection by calculating
+ a)  in an inertial frame of reference,
+ b)  in the coordinate system rotating (accelerating) with the Earth.
  (6 pont)

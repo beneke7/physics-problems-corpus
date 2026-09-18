@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4649. Távcsövünkkel a teleholdat nézzük. Eközben valaki tréfából eltakarja a távcső objektívjének a felét. Milyen változást látunk a távcső adta képen? 
+P. 4649. Távcsövünkkel a teleholdat nézzük. Eközben valaki tréfából eltakarja a távcső objektívjének a felét. Milyen változást látunk a távcső adta képen?
  Csillagász szakkörök országos versenye, Dunaújváros

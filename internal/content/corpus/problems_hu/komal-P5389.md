@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5389. Egy (pontszerűnek tekinthető) légy repül állandó $v$ sebességgel az $f$ fókusztávolságú lencse optikai tengelyével párhuzamosan, attól $d$ távolságra. Legalább mekkora nagyságú a légy és a légy képének relatív sebessége? 
+P. 5389. Egy (pontszerűnek tekinthető) légy repül állandó $v$ sebességgel az $f$ fókusztávolságú lencse optikai tengelyével párhuzamosan, attól $d$ távolságra. Legalább mekkora nagyságú a légy és a légy képének relatív sebessége?
  Észtországi versenyfeladat nyomán

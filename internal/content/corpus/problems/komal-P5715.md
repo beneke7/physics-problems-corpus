@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-At rest, the string of a simple pendulum is vertical, and its bob almost reaches the ground. The length of the string is $\ell$. The pendulum is displaced horizontally and released. When the angle between the string of the pendulum and the vertical is $\alpha$, the string is suddenly burned. At what angle $\alpha$ does the bob fly farthest from its equilibrium position, and what is this distance? (The air drag can be neglected.) 
+At rest, the string of a simple pendulum is vertical, and its bob almost reaches the ground. The length of the string is $\ell$. The pendulum is displaced horizontally and released. When the angle between the string of the pendulum and the vertical is $\alpha$, the string is suddenly burned. At what angle $\alpha$ does the bob fly farthest from its equilibrium position, and what is this distance? (The air drag can be neglected.)
  (5 pont)

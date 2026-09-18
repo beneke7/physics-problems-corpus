@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns, smart-coordinates]
 ---
 
-An object of mass  m can move without friction along the horizontal axis of  X . With a thread of length  L another object of mass  m is connected to it. This object can move only along the vertical axis  Y . Initially this object is at the origin of the axes, and the other is at a distance of  L on the X axis. Than the objects are left to move. To what speeds will the object accelerates due to the gravitational force? What types of motion do they undergo? 
+An object of mass  m can move without friction along the horizontal axis of  X . With a thread of length  L another object of mass  m is connected to it. This object can move only along the vertical axis  Y . Initially this object is at the origin of the axes, and the other is at a distance of  L on the X axis. Than the objects are left to move. To what speeds will the object accelerates due to the gravitational force? What types of motion do they undergo?
  (5 pont)

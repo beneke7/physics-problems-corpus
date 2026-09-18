@@ -50,7 +50,9 @@ c) Diagram with forces marked:
 
 
                                                1
-Resolving moments about A:
+
+
+Resolving moments about A:
 
                                                              2
                                        mgh sin(θ) = mv r h cos(θ)
@@ -69,11 +71,11 @@ d) If TE = 2TI , then ωE = 12 ωI
 
                                               2 2
                                             ωE r = ω2 r3
-                                               E  23 I I       2
+                                                E   23 I I       2
                                       ∴ rE = rI ωωEI    = rI × 2 3
                                                          2
-                                        2 a = ω r
-                                                        2
+                                         2 a = ω r
+                                                         2
                               → aE = ωE × rrEI = 22 × 2− 3 = 2.52
                                 aI   ωI
 
@@ -93,9 +95,9 @@ e)Momentum conservation:
 Energy conservation:
 
 
-                                         m1 u2 = m1 v12 + m2v22        
+                                         m1 u2 = m1 v12 + m2 v22
                                    = m1 v1 (v1 + v2 ) = m1 v12 1 + vv21
-                                                             
+
                                           ∴ u2 = v12 1 + vv21
 
                                                                                      (1 mark)
@@ -116,17 +118,19 @@ There largest value of m
 
 
                                                      2
-f ) Resolving when the object travels up the slope:
 
 
-                                       −mau = Fd + mg sinα
+f ) Resolving when the object travels up the slope:
+
+
+                                       −mau = Fd + mg sin α
                                        ∴ v 2 = 2 Fmd + g sin α s
 
 Similarly for going down the slope we get:
 
                                         v2
                                                 − Fmd + g sin α s
-                                                               
+
                                         4 =2
 
                                                                                               (3 marks)
@@ -135,7 +139,7 @@ Dividing the two equations to eliminate v:
 
 
                                  4 = Fmd + g sin α / g sin α − Fmd
-                                                                  
+
 
                                   4mg sin α − 4Fd = Fd + mg sin α
                                 3mg sin α = 5Fd = 5µN = 5µmg cos α
@@ -154,19 +158,19 @@ walls is:
 
 g) ii)
                                   F2 = ρgh + 2ρ × g h2 A = 2ρghA
-                                                      
+
 
 
                                                                                                (1 mark)
 
 g) iii)
                                   Fn = (p1 + p2 + ... + nρg h2 )A
-                               = ρgh(1 + 2 + 3 + ... + n − 1 + n2 )A
+                               = ρgh(1 + 2 + 3 + ... + n − 1 + n 2 )A
                         = ρghA(1 + 2 + 3 + ... + n − n2 ) = ρghA Σnk=1 k − n2
-                                                                              
+
                                                                     2
                                 = ρghA n2 (n + 1) − n2 = ρghA n2
-                                                        
+
 
 
                                                                                               (2 marks)
@@ -180,7 +184,9 @@ h) i) Thrust = ∆(mv)
 
 
                                                    3
-h) ii)
+
+
+h) ii)
                                             T − mg = ma
                                                  T
                                              a= m  −g
@@ -250,7 +256,9 @@ Applying the sine rule on the small triangle to find θ:
 
 
                                                    4
-                                           Figure 2: 1.j
+
+
+                                           Figure 2: 1.j
 
                                             sin 28
                                                c   = sin
@@ -292,14 +300,16 @@ k) b will have units of volume, so [b] = m3 . The exponent must be dimensionless
 Expanding the exponent:
 
                                                          a
-                                                               
+
                                    p(V − b) ≈ nRT 1 − nRT  V
                                                        a
                                        pV − pb = nRT − V
 
 
                                                     5
-Equating terms given the ideal gas law pv = nRT :
+
+
+Equating terms given the ideal gas law pv = nRT :
 
 
                                    pV = nRTc = ab Tc = nrb
@@ -329,21 +339,23 @@ Now resolving moments by the contact point:
 
 
                                   N1 sin θL = mg cos θ L − 2l
-                                                                
+
 
                                                                              (1 mark)
 
 Dividing to eliminate N1 :
 
                                                 1       l
-                                                            
+
                                      tan θL = tan θ L− 2
                                              2        l
                                        → tan θ = 1 − 2L
 
 
                                                6
-                                       l
+
+
+                                       l
 But, L = 2r cos θ, so tan2 θ = 1 − 4r cos θ
 
 
@@ -411,7 +423,9 @@ n) b) Now with S closed:
 
 
                                                        7
-                                                              2
+
+
+                                                              2
 o) Given P = kR2 T 4 and T λmax = k ′ , then P = k ′′ R
                                                       λ4
 
@@ -482,7 +496,9 @@ the time period of the ”bouncing” motion:
 
 
                                                          8
-                                             q
+
+
+                                             q
 r) A pendulum clock has a period of T = 2π gl . Let the correct period (1 second) be T , so the wrong
 pendulum period is T + ∆T . In 24 hours, N T = 24 × 3600, where N is the number of 1 second pe-
 riods in a day. Therefore, for the wrong period N (T +∆T ) = 24×3600+600, so N ∆T = 600. Hence:
@@ -497,7 +513,7 @@ Now binomially expanding the time period:
                                            q
                                               l     δl 0.5
                                                            ≈ T + T 12 δll
-                                                       
+
                              T + ∆T = 2π      g 1+ l
                                      ∴ δll = 2 ∆T    1
                                                 T = 72 = 1.4%
@@ -528,7 +544,9 @@ t) Diagram with rays:
 
 
                                                   9
-Let ϕ → 90◦ , so sin ϕ = 1 = 1.4 sin ϕr . Therefore ϕr = 45.6◦ .
+
+
+Let ϕ → 90◦ , so sin ϕ = 1 = 1.4 sin ϕr . Therefore ϕr = 45.6◦ .
 
 
                                                                                    (1 mark)
@@ -566,7 +584,9 @@ Now resolving the forces vertically and horizontally:
 
 
                                                    10
-                                                                                                  (2 marks)
+
+
+                                                                                                  (2 marks)
                                       qQ         θ          θ
 Now, dividing the first equation by 4πϵ 0r
                                            2 cos 2 = QE cos 2 we get:
@@ -593,13 +613,13 @@ Making the substitutions s = sin θ2 , c = cos θ2 and t = tan θ2 , and observi
                                               QE = s + c(1−t
                                                            2t
                                                                 )
-                                                         2
-                                                            
+                                                          2
+
                                              = 2st + c − sc /2t
-                                           2         2
-                                                        
+                                            2         2
+
                                         = 2 sc + c − sc /2t
-                                                    2
+                                                      2
                                             2           +c2 )c
                                      = c + sc /2t = (s 2sc       1
                                                                = 2s
@@ -617,22 +637,22 @@ From the diagram, we have 2l = sin θ2 , so r3 = kqQl
 
 
                                                                                                    (1 mark)
-                                                                  
+
 So now we have W D = mgh + kqQ
                             r
                                         kqQ
                                = mg h + mgr . From the diagram, h = l(1 − cos θ) =
 2l sin2 θ2 .Bringing this together we get:
 
-                                                                2
-                                                                    
+                                                                 2
+
                                        W D = mg 2l sin2 θ2 + rl
                                        = mg 2l sin2 θ2 + 4l sin2 θ2
-                                                                    
+
                                                                            2
                                           = 6mgl sin2 θ2 = 6mgr
-                                                    2 2 2
-                                                            4l
+                                                     2 2 2
+                                                             4l
                                                              1
                                                              3
                                               3 mgk q Q
@@ -658,13 +678,15 @@ v) Applying Kirchoff’s 2nd Law:
 
 
                                                           11
-Now integrating to find V (t):
+
+
+Now integrating to find V (t):
 
                                         Rt ′    RV
                                       1
                                              = − V0 dV ′ A + VB
-                                                                
-                                     C 0 dt               
+
+                                     C 0 dt
                                     t            V            V
                                     c = AV0 1 − V0 − B ln V0
 
@@ -693,7 +715,7 @@ is the kinetic energy of the Thorium nucleus.
                         Momentum conservation: pT = pα in the rest frame.
                                             p2             p2
                                   k = kα + 2mTT = kα + 2mαT
-                                                               
+
                                k = kα + 2m α kα
                                           2mT   = k α   1 +  mα
                                                              mT
@@ -721,7 +743,9 @@ a) i)
 
 
                                                    12
-                                                                       (1 mark) Both points required
+
+
+                                                                       (1 mark) Both points required
 
 a) ii) Taking moments about a ’O’:
 
@@ -761,7 +785,9 @@ Taking moments about the pivot point:
 
 
                                                   13
-                                           Figure 7: 2.b.ii
+
+
+                                           Figure 7: 2.b.ii
 
 
 b) ii)
@@ -774,7 +800,7 @@ First the distances BD = LAB sin α and DE = LBC
 
                                        µLAB gLAB sin α
                                 = µLBC g LBC
-                                                              
+
                                           2 sin β − LAB sin α
                               L2AB       L2BC
                                 2 sin α = 2 sin β − LAB LBC sin α
@@ -799,12 +825,14 @@ b) iii) Using Archimedes Principle with d as the submerged distance:
                                       2 − 2 =
                                                L
                                                   − 12 Lρ w
-                                             2        ρl
+                                              2         ρl
                                         = L2 1 − ρρwl
 
 
                                                  14
-                                                                                          (1 mark)
+
+
+                                                                                          (1 mark)
                                                                             (b) iii) Total: 1 mark
 
 b) iv) First calculate the centre of mass:
@@ -859,7 +887,9 @@ OR use both masses:
 
 
                                                   15
-                                             Figure 8: 2.c.i
+
+
+                                             Figure 8: 2.c.i
 
                                         3.92 +2×2.02 −1.42 −2×0.72
                                                3.92 +2×1.42 .0
@@ -887,13 +917,15 @@ After it falls, the centre of mass is a below the pulley.
                                                                                            (2 marks)
                                                                                (d) i) Total: 3 marks
                                         L1 2
-                                          
+
 d) ii) Using Pythagoras, L2 = L22 −     2    , which gives the length of the pendulum.
 
 
 
                                                    16
-                                          Figure 9: 2.d.i
+
+
+                                          Figure 9: 2.d.i
 
 
                                                                                       (1 mark)
@@ -929,7 +961,9 @@ d) iii) i) Taking moments about A and resolving the forces vertically:
 
 
                                                 17
-                                         Moments: F x = mgR l
+
+
+                                         Moments: F x = mgR l
                                         Forces: F = mgL + mgR
 
                                                                                               (1 mark)
@@ -947,7 +981,7 @@ d) iii) i) Taking moments about A and resolving the forces vertically:
 
 d) iii) ii)
                                    g(x) = gL + gR −g       g    x
-                                                                         
+
                                                   l
                                                      L
                                                        x = 10   l + 10
@@ -959,7 +993,7 @@ d) iii) ii)
                                  g x + 1.1l = 0.5l(1 + g + 1.1)
                                                      ′
                                     Substituting gg = 0.1 xl + 1.1
-                                    2
+                                     2
                               0.1 xl + xl + 1.1 = 1.05 + 0.05 xl + 0.5
 
                                                                                               (1 mark)
@@ -991,7 +1025,9 @@ a) ii)
 
 
                                                    18
-                                            Figure 11: 3.a.i
+
+
+                                            Figure 11: 3.a.i
 
 
 a) iii)
@@ -1023,7 +1059,7 @@ b) Diagram with h, θ and x labelled:
                                                    sin 2θ    2 sin θ cos θ
                                                        2θ = 1−2
                                          x       1        1
-                                                                 sin2 θ
+                                                                  sin2 θ
                                          h =  √
                                                 1−s2 2s
                                                             − s
@@ -1033,7 +1069,9 @@ Using the substitution s = sin θ = 2a , for n = 1:
 
 
                                                      19
-                                            Figure 13: 3.b
+
+
+                                            Figure 13: 3.b
 
                                                      2a2
                                             x   λ qλ2 −1
@@ -1064,7 +1102,7 @@ c) i)
 c) ii) For a radial field between two hemispheres, Vin = k Q
                                                            Rin . There is the same charge on both
                                                             in
-                                     
+
 hemispheres, so ∆V = kQ R1in − Rout 1
                                         .
 
@@ -1072,7 +1110,9 @@ hemispheres, so ∆V = kQ R1in − Rout 1
 
 
                                                   20
-c) iii) At R = 0.5(R1 + R2 ):
+
+
+c) iii) At R = 0.5(R1 + R2 ):
 
 
                                             E = (Rin4kQ
@@ -1142,7 +1182,9 @@ d) ii)
 
 
                                                      21
-                                          Figure 15: 3.d.ii
+
+
+                                          Figure 15: 3.d.ii
 
 
 
@@ -1180,7 +1222,9 @@ f ) i)
 
 
                                                  22
-                                           Figure 16: 3.f.i
+
+
+                                           Figure 16: 3.f.i
 
                                                      a
                                            cos θ1 = BC
@@ -1203,9 +1247,9 @@ f ) ii) Layer 2 introduces no extra path different.        At the top, the optiv
 Finally, the optical path difference between G and H is:
 
                                       µ1 2a
-                                      cos θ1 − 
+                                      cos θ1 −
                                                2µ1 a tan θ1 sin θ1
-                                                                 
+
                                                             2
                                       = 2aµ1 cos1θ1 − sin     θ1
                                                           cos θ1
@@ -1229,7 +1273,9 @@ Mass of Xe-131: mion = 131 × 1.67 × 10−27 = 2.19 × 1025 kg
 
 
                                                   23
-a) ii) Rate of mass loss: ∆m
+
+
+a) ii) Rate of mass loss: ∆m
                           ∆t =
                                Imion
                                  e   = 4.81 × 10−6 kgs−1
@@ -1259,7 +1305,7 @@ b)i)
 b) ii) Assuming the same density:
 
                                        164 3
-                                           
+
                               MDimo = 780    × Msys = 5.15 × 109 kg
                               MDidy = Msys − MDimo = 5.51 × 1011 kg
 
@@ -1286,7 +1332,9 @@ c) ii) Assuming a circular orbit:
 
 
                                                24
-Before the collision:
+
+
+Before the collision:
 
                                         q
                                             GMDidy
@@ -1353,7 +1401,9 @@ d)
 
 
                                                    25
-                                                                                              (1 mark)
+
+
+                                                                                              (1 mark)
 
                                ∴ ∆vreal = vorig − vreal = 2.733mms−1
 
@@ -1390,7 +1440,7 @@ a) ii)
                                      2.46×10−18           = 2.30 × 1049 photon s−1
 
                                                                                               (1 mark)
-                                                   1
+                                                    1
                                                 3N 3 − 3
                                                          2
                                          rs = 4πα     nH
@@ -1412,7 +1462,9 @@ b)
 
 
                                                      26
-                                                                                                     (1 mark)
+
+
+                                                                                                     (1 mark)
                                                                   2 2
                                                              1.81kB Tneb
                                           Mcollapse =          1   3
@@ -1480,7 +1532,9 @@ For the white dwarf:
 
 
                                                         27
-                                                              30                 −3
+
+
+                                                              30                 −3
                                  Msun             3×1.99×10                 9
                          ρav = 4 πR 3          = 4π×(6.37×106 )3 = 1.84 × 10 kgm
                                  3     Earth
@@ -1547,7 +1601,9 @@ e) The nuclear fusion energy associated with each neutrino:
 
 
                                                         28
-                          Ev = 13.1 × 106 × 1.6 × 10−19 = 2.1 × 10−12 J
+
+
+                          Ev = 13.1 × 106 × 1.6 × 10−19 = 2.1 × 10−12 J
 Using the given solar luminosity, the number of reactions happening in the Sun every second is:
 
                                                        26

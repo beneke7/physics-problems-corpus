@@ -28,4 +28,4 @@ Two small masses $m$ are connected and hung between walls by weightless strings 
 
 **ii)** *(3 points)* Find $\omega_{2}$, the angular frequency of anti-phase oscillations (by which the oscillation phases of the both masses are always opposite), in terms of $\omega_{1}$.
 
-![String-coupled masses setup](sources/nbpho/figures/nbpho-2023-string-coupled-masses-fig1.jpg)
+![String-coupled masses setup](../../figures/nbpho/figures/nbpho-2023-string-coupled-masses-fig1.jpg)

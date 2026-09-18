@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-One end of a spring with a spring constant $D$ is attached to the ceiling of a lift, and the other end is attached to a body with mass of $m$. Initially, the body is at rest. Suddenly the lift starts to move upwards with a constant acceleration of $a$, and after a time $\tau$ the acceleration ceases, and the lift continues to move at a constant speed. What is the amplitude of the subsequent motion of the body? 
+One end of a spring with a spring constant $D$ is attached to the ceiling of a lift, and the other end is attached to a body with mass of $m$. Initially, the body is at rest. Suddenly the lift starts to move upwards with a constant acceleration of $a$, and after a time $\tau$ the acceleration ceases, and the lift continues to move at a constant speed. What is the amplitude of the subsequent motion of the body?
  (6 pont)

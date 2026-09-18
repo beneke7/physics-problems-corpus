@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 Példa. Egy mól ideális gáz entrópiája. Adott:
 
-                                                            
+
                          ∂S            ∂S           CV        ∂p
                  dS =          dT +            dV =    dT +        dV.
                          ∂T V          ∂V T          T        ∂T V

@@ -20,4 +20,4 @@ verification_status: pending
 
 Adott egy végtelen méhsejtrács; a rács élei vezetékből készülnek, és minden él ellenállása $R$. Egy $B$ csúcs két szomszédos csúcsát jelölje $A$ és $C$. Határozzuk meg az $A$ és $C$ csúcs közötti ellenállást.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr46-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr46-fig1.jpg)

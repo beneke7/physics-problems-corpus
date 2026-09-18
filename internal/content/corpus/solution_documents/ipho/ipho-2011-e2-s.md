@@ -55,7 +55,9 @@ xCM is determined by balancing the tubing and object.
 
 
                                                                                                   1
-                                      MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                      MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                              Experimental Competition:          14 July 2011
                                                            Question 2               Page 2 of 9
 
@@ -112,7 +114,9 @@ The value of g is from equation (7): g                               ……�
 
 
                                                                                                  2
-                                  MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                  MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                             Experimental Competition:            14 July 2011
                                                           Question 2                  Page 3 of 9
 
@@ -149,7 +153,9 @@ from which g can be calculated.
 
 
                                                                                                   3
-                                MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                          Experimental Competition:            14 July 2011
                                                        Question 2                Page 4 of 9
 
@@ -186,7 +192,9 @@ Notes: at xCM  R  15.1,16.1 cm, times for 10 cycles.
 
 
                                                                                              4
-                                     MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                     MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                                Experimental Competition:         14 July 2011
                                                              Question 2            Page 5 of 9
 
@@ -245,7 +253,9 @@ From equation (4):        I CM
 
 
                                                                                                5
-                                          MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                          MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                                   Experimental Competition:      14 July 2011
                                                                 Question 2           Page 6 of 9
 
@@ -306,7 +316,9 @@ Now, we use rmax  r  r  75.46  2.5  77.96 . The corresponding 
 
 
                                                                                                   6
-                                   MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                   MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                            Experimental Competition:                14 July 2011
                                                          Question 2                     Page 7 of 9
 
@@ -340,7 +352,9 @@ Note that              ~ 0.04 . So, we still ignore the error propagation due to
 
 
                                                                                                    7
-                                MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                        Experimental Competition:             14 July 2011
                                                      Question 2                     Page 8 of 9
 
@@ -397,7 +411,9 @@ From graph: Rmin  8.9  0.2 cm and Tmin  0.846  0.005 s
 
 
                                                                                                   8
-                                     MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
+
+
+                                     MODIFIED Q2_EXPERIMENT_SOLUTION_14JULY.DOCX
                                             Experimental Competition:             14 July 2011
                                                           Question 2                  Page 9 of 9
 

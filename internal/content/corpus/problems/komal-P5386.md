@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-There is a small ball of charge $Q=5.55~\mu$C fixed at the bottom of a 2 m long trough made of some insulating material. The trough makes an angle of elevation of $\alpha=30^\circ$ with the horizontal. From the top of the trough another small ball of mass $m=100$ g with charge $q=10~\mu$C is released from rest. How far does this ball can move if it rolls without slipping? (The charge of the ball does not change during its motion.) 
+There is a small ball of charge $Q=5.55~\mu$C fixed at the bottom of a 2 m long trough made of some insulating material. The trough makes an angle of elevation of $\alpha=30^\circ$ with the horizontal. From the top of the trough another small ball of mass $m=100$ g with charge $q=10~\mu$C is released from rest. How far does this ball can move if it rolls without slipping? (The charge of the ball does not change during its motion.)
  (3 pont)

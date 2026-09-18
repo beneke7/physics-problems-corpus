@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-An inflated balloon is attached to the open end of a liquid-column manometer. The difference in the level of petroleum in the two arms of the manometer is 72 cm. How many mm would the difference in level be if the manometer contained mercury? What is the gauge pressure (excess pressure) in the balloon? 
+An inflated balloon is attached to the open end of a liquid-column manometer. The difference in the level of petroleum in the two arms of the manometer is 72 cm. How many mm would the difference in level be if the manometer contained mercury? What is the gauge pressure (excess pressure) in the balloon?
  (3 pont)

@@ -14,8 +14,8 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2003
 
 3. Egy szabadon kering® ¶rhajó kabinjának belsejében mozdulatlanul lebeg egy kb. 4 cm átmér®j¶ vízgolyó és a
 közelében egy kb. 8 cm hosszúságú, vékony, kör keresztmetszet¶, legömbölyített vég¶ üvegpál a. A pál a egyik végét
-egészen 
-noman érintkezésbe hozzuk a víz seppel. Vázolja fel, milyen alakot vesz fel a víz!
+egészen
+noman érintkezésbe hozzuk a  víz seppel . Vázolja fel, milyen alakot vesz fel a víz!
 (Károlyházy Frigyes)
 Megoldás. A kiindulási helyzetben (6. ábra) a vízgolyó közelében lebeg az üvegpál a.
 6. ábra
@@ -24,9 +24,9 @@ Megoldás. A kiindulási helyzetben (6. ábra) a vízgolyó közelében lebeg az
 9. ábra
 10. ábra
 11. ábra
-A folyamat akkor kezd®dik, amikor a pál a egyik végét egészen 
+A folyamat akkor kezd®dik, amikor a pál a egyik végét egészen
 noman érintkezésbe hozzuk a víz seppel (7. ábra).
-A víz nedvesíti az üveget, kissé ráfolyik a pál a legömbölyített végére (8. ábra). Itt azonban a folyamat nem állhat
+A víz nedvesíti az üveget, kissé  ráfolyik  a pál a legömbölyített végére (8. ábra). Itt azonban a folyamat nem állhat
 le, mert az üvegpál ára ható er®k ered®je nem nulla. Igaz ugyan, hogy az R sugarú víz sepp belsejében a nyomás
 egy ki sit nagyobb, mint a küls® légnyomás (∆p = 2α/R), és ez r2
 π∆p er®vel tolná kifelé az r sugarú pál át, de
@@ -42,7 +42,7 @@ minél kisebb lenni. Tekintettel arra, hogy a pál a vékony, a üveg teljesfel�
 képest. A rendszer egyensúlyát tehát a legkisebb vízfelszín követelménye határozza meg, ez pedig (adott térfogatú víz
 esetén) a gömb alaknál teljesül.
 A végállapotban tehát a vízgolyó majdnem pontosan gömb alakú, az üvegpál a ennek a gömbnek egyik átmér®je
-mentén helyezkedik el, és mindkét végét kidugja a vízb®l.
+mentén helyezkedik el, és mindkét végét  kidugja  a vízb®l.
 Az ünnepélyes eredményhirdetésre 2003. november 21-én került sor az ELTE lágymányosi déli épületének Mogyoródi
 József tantermében, ott, ahol a budapesti versenyz®k a dolgozatokat is írták.
 El®ször a Versenybizottság elnöke emlékezett meg a nemrég elhunyt Teller Edér®l, és bemutatta azokat a felada-
@@ -53,7 +53,7 @@ Azután az 50 évvel ezel®tti Eötvös-verseny feladatainak bemutatása követk
 nyertesr®l, Zawadowski Alfréd akadémikusról. (Sajnos ® nem tudott eleget tenni a díjkiosztásra szóló meghívásnak,
 mert külföldön tartózkodott. Talán majd a következ®re eljön, amire újra meg fogjuk hívni, mert 1954-ben is díjazott
 volt az Eötvös-versenyen.) Ami az 1953-as feladatokat illeti, azok se voltak nehezebbek az 1925-ös feladatoknál. Ezen
-se sodálkozhatunk, akkor még nem is volt 
+se sodálkozhatunk, akkor még nem is volt
 zika rovata az újra indított Középiskolai Matematikai Lapoknak.
 A bevezet® visszaemlékezések után következett a 2003. évi Eötvös-verseny feladatok és ezek helyes megoldásainak
 bemutatása. Az els® két feladat Radnai Gyula által adott megoldását Gnädig Péter egészítette ki érdekes megjegy-

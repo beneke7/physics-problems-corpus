@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4978. Az ionrakéta hajtóművében pozitív töltésű nehézionokat gyorsítanak fel, ezek áramlanak ki a fúvókán keresztül, ettől gyorsul fel a rakéta. Ugyanekkor elektrongyorsítót is beszerelnek az ionrakétába, erre miért van szükség? 
+P. 4978. Az ionrakéta hajtóművében pozitív töltésű nehézionokat gyorsítanak fel, ezek áramlanak ki a fúvókán keresztül, ettől gyorsul fel a rakéta. Ugyanekkor elektrongyorsítót is beszerelnek az ionrakétába, erre miért van szükség?
  Némedi István (1932–1998) feladata

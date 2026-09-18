@@ -11,7 +11,7 @@ verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/izho/2023_T_S.pdf."
 ---
 
-# SOLUTIONS TO THE PROBLEMS OF THE THEORETICAL COMPETITION 
+# SOLUTIONS TO THE PROBLEMS OF THE THEORETICAL COMPETITION
 
 ## Attention. Points in grading are not divided! <br> Problem 1 (10.0 points) <br> Problem 1.1 (3.0 points)
 

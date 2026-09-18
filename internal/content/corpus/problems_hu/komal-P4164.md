@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4164. Mi az oka annak, hogy ujjunk hegyére állítva egy pálcát, könnyebben tudjuk egyensúlyozni (függőleges helyzetben megtartani) a hosszabbat, mint a rövidebbet? 
+P. 4164. Mi az oka annak, hogy ujjunk hegyére állítva egy pálcát, könnyebben tudjuk egyensúlyozni (függőleges helyzetben megtartani) a hosszabbat, mint a rövidebbet?
  Turán Pál (1910-1976) feladata

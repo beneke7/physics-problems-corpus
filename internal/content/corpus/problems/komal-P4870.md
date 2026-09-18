@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, extremization]
 ---
 
-At a remote place of space, there are two lead balls of equal size. The gravitational force between them is the same as the electrostatic attractive force exerted between them. The potential difference between the two balls is 5 kV. What is the size of the balls if their net charge is zero? 
+At a remote place of space, there are two lead balls of equal size. The gravitational force between them is the same as the electrostatic attractive force exerted between them. The potential difference between the two balls is 5 kV. What is the size of the balls if their net charge is zero?
  (4 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-The flat surface of a half-cylinder glass of refractive index $n$ is tin coated. The half-cylinder is illuminated horizontally with a laser beam as shown in the figure. At what value of $\alpha$ will the emerging light beam be exactly vertical? What should the minimum value of $n$ be for such a beam path to be possible? 
+The flat surface of a half-cylinder glass of refractive index $n$ is tin coated. The half-cylinder is illuminated horizontally with a laser beam as shown in the figure. At what value of $\alpha$ will the emerging light beam be exactly vertical? What should the minimum value of $n$ be for such a beam path to be possible?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5487-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5487-fig1.gif)

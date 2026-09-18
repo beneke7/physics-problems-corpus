@@ -54,7 +54,8 @@ If 𝑣0 /𝑐 ≪ 1, we have
     Note that the negative sign in Eqs. (a4) and (a5) follows from the fact that the
 direction of propagation is opposite to the positive direction for 𝑥 axis (and velocity).
 Otherwise the sign should be positive. Note also that for a compressional wave
-(∆𝑃s > 0), the velocity imparted to the fluid particle is in the direction of propagation,
+
+(∆𝑃s > 0), the velocity imparted to the fluid particle is in the direction of propagation,
 while for an extensional wave (∆𝑃s < 0), the velocity imparted is in the opposite
 direction of propagation.
     Eqs. (a2) and (a4) can be combined to give
@@ -99,7 +100,8 @@ and 𝐵 = 2.2 × 109 Pa, we have
 so that Δ𝑃s is nearly 59 times the standard pressure.
      Note that 𝑣0 /𝑐~10−3 so that the use of approximate formulas (a5) and (a10) is
 justified when solving tasks in this problem.
-Part B. A Model for the Flow-Control Valve
+
+Part B. A Model for the Flow-Control Valve
 (B.1) (1.0 pt) Excess pressure at valve inlet
 
 
@@ -146,7 +148,8 @@ Part C. Water-Hammer Effect due to Fast Closure of Flow-Control Valve
 (C.1) (0.6 pt) Pressure 𝑃0 and velocity 𝑣0 when the valve is fully open
 Ans:
      According to Bernoulli’s theorem and the definition of 𝑃ℎ , we have
-                   1             1
+
+                   1             1
                     𝜌 𝑣 2 + 𝑃0 = 2𝜌0 𝑣c2 + 𝑃a = 0 + 𝑃a + 𝜌0 𝑔ℎ = 𝑃ℎ
                    2 0 0
                                                                                     (d1)
@@ -191,7 +194,8 @@ Ahead of the front of the reflected wave, conditions are unchanged and the parti
 velocity is still 𝑣1 = 0 and the fluid pressure is still 𝑃1 = 𝑃0 + Δ𝑃s , but behind the
 wave front the particle velocity now becomes 𝑣1r = −(𝑣0 − 𝑔ℎ/𝑐) and the
 pressure becomes
-                                                        𝑔ℎ
+
+                                                        𝑔ℎ
                𝑃1 + ∆𝑃1′ = (𝑃0 + 𝜌0 𝑐𝑣0 ) − 𝜌0 𝑐 (𝑣0 −     ) = 𝑃0 + 𝜌0 𝑔ℎ      (e4)
                                                          𝑐
 Therefore, just moment before 𝑡 = 𝜏 = 2𝐿/𝑐 when the front of the reflected wave
@@ -237,7 +241,8 @@ fluid in the entire pipe has pressure
                    𝑃2 − (𝑃2 − 𝑃0 ) = 𝑃0
 and velocity
                    𝑣2′ = 𝑣2 + (𝑣2 − 𝑣1′ )
-(3) Partial closing 𝑛 = 3
+
+(3) Partial closing 𝑛 = 3
      Immediately after partial closing 𝑛 = 3, valve pressure changes from 𝑃0 to 𝑃3 ,
 causing flow velocity to change from 𝑣2′ to 𝑣3 . The pressure and velocity changes are
 given by Eq. (a5):
@@ -287,7 +292,8 @@ which can be solved readily using the formula
                       𝑐                    𝑘𝑛
      If both ∆𝑃𝑛−1 /(𝜌𝑐 2 ) and (𝑣𝑛−1 /𝑐) are known, Eq. (f11) may be used to
 compute 𝑣𝑛 /𝑐 and then find ∆𝑃𝑛 /(𝜌𝑐 2 ) by using Eq. (f8). Therefore, Eq. (f7) may
-be solved iteratively starting with 𝑛 = 1 until 𝑛 = 3. For 𝑛 = 4, we know 𝑣𝑛 = 0, so
+
+be solved iteratively starting with 𝑛 = 1 until 𝑛 = 3. For 𝑛 = 4, we know 𝑣𝑛 = 0, so
 Eq. (f7) may be used directly to find ∆𝑃𝑛 .
      Note that, from Eq. (f8), ∆𝑃𝑛−1 is a quadratic function of 𝑣𝑛−1 , so that if 𝑣𝑛−1
 is known, then 𝑣𝑛 may be computed using Eq. (f11) and then ∆𝑃𝑛 may again be
@@ -337,9 +343,11 @@ shown in the following graph.
  1              0.40          0.631       97.1               3.6               5.8                0.62               10 %
  2              0.30          0.622       318.               2.5               3.8                 1.0               17 %
  3              0.20          0.616      1646.               1.1               1.7                 1.1               18 %
-4   0.00                     0.0           0.0              0.64   11 %
+
+4   0.00                     0.0           0.0              0.64   11 %
            𝜌0 𝑐 = 1.50 × 106 kg m−2 s −1         𝑣0 = 4.0 m/s
------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
 
 Appendix
 (The following table and graph are for reference only, not part of the task.)

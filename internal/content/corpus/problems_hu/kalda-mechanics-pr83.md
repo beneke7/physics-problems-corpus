@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy sík deszka a függőlegessel $\alpha$ szöget zár be. Egyik vége a vízben, a másik a vízen kívül van. A deszka a normálisához képest $v$ sebességgel mozog. Mekkora sebességgel áramlik a víz a deszka mentén felfelé?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr83-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr83-fig1.jpg)

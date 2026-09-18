@@ -14,8 +14,8 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 1996 október 25-én rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos ®szi tanulóversenyét, az Eötvös
 versenyt. Budapesten kívül 14 vidéki városban zajlott egyid®ben a verseny, amelyen az 1996-ban érettségizettek és
 középiskolai tanulók vehettek részt. Indulhattak Magyarországon tanuló külföldi diákok és külföldön tanuló magyar,
-illetve magyar anyanyelv¶ diákok is. Minden magukkal hozott segédeszközt  tankönyveket, jegyzeteket, zsebszámoló-
-gépet  szabadon használhattak. Összesen 300 per            állt rendelkezésre a Versenybizottság által kit¶zött három feladat
+illetve magyar anyanyelv¶ diákok is. Minden magukkal hozott segédeszközt   tankönyveket, jegyzeteket, zsebszámoló-
+gépet   szabadon használhattak. Összesen 300 per            állt rendelkezésre a Versenybizottság által kit¶zött három feladat
 megoldására.
     Ismertetjük a feladatokat, a feladat helyes megoldását, majd a verseny végeredményét.
 
@@ -57,7 +57,7 @@ Most írjuk fel az energiatételt az A és a C pont között:
                                              1       1
                                                mv 2 = mv32 + mg(R + R cos γ)
                                              2 1     2
-Ebb®l                                                                                                    
+Ebb®l
                                                      gR                                              1
                 v12 = v32 + 2gR(1 + cos γ), v12 =         + 2gR(1 + cos γ), v12 = 2gR 1 + cos γ +           .
                                                     cos γ                                         2 cos γ
@@ -82,14 +82,16 @@ negatív, ami azért igaz, mert cos γ nem negatív, ami viszont 0 ≤ γ ≤ 90
 cos γ +           legkisebb értéke tehát  2, ezt γ = 45◦ -nál veszi fel. Azt a meglep® eredményt kaptuk tehát, hogy
           2 cos γ
 az optimális pálya a legfels® pontjában nem érinti a fatörzset, hanem fölé emelkedik. A szö ske helyzeti energiája a
-legmagasabb pontban nagyobb ugyan, mint az  éppen át súszik esetben, de a mozgási energiája  s az összenergiája
-is  kisebb! Az eredeti kérdésre a helyes válasz tehát:
+legmagasabb pontban nagyobb ugyan, mint az   éppen át súszik  esetben, de a mozgási energiája   s az összenergiája
+is   kisebb! Az eredeti kérdésre a helyes válasz tehát:
 
-                                                        r      √       m
+                                                        r       √        m
                                             v1min =      2gR 1 + 2 ≈ 2, 2 .
                                                                          s
-   Az érdekesség kedvéért kiszámíthatjuk α és β megfelel® értékeit is ebben az esetben:
-                                                                 π
+
+
+   Az érdekesség kedvéért kiszámíthatjuk α és β megfelel® értékeit is ebben az esetben:
+                                                                    π
                                                3π
                                    α = 67, 5 =  ◦
                                                     ,    β = 60◦ =       ;
@@ -110,7 +112,7 @@ mindenütt ugyanannyi. (A nehézségi er®térben szükségképpen fellép® fü
 erre utal, hogy a feladat szövegében szerepel a mindenütt egyenl® nyomás konkrét értéke.)
    A végállapot már nem egyensúlyi állapot. A nyomás ugyan most is ugyanannyi mindenütt az edényben, a h®mérsék-
 let azonban nem: lentr®l felfelé 270 K-t®l 330 K-ig n®. A beállt végállapotban szeren sére a h®mérséklet bármely helyen
-id®ben már nem változik. Az ilyen  nem egyensúlyi  állapotot nevezik sta ionárius állapotnak, amelyre azonban még
+id®ben már nem változik. Az ilyen   nem egyensúlyi   állapotot nevezik sta ionárius állapotnak, amelyre azonban még
 fennáll az egyensúlyi állapotra bevezetett
                                                                f
                                                         E=       pV
@@ -124,7 +126,7 @@ fennáll az egyensúlyi állapotra bevezetett
    Feltételezhetjük, hogy a sta ionárius végállapot is mintegy egyensúlyi állapotban lév® vízszintes rétegekb®l tev®dik
 össze. Egy-egy ilyen rétegen belül a h®mérséklet állandó; a magasabban lév® réteg h®mérséklete feladatunk esetében
 mindig nagyobb lesz.
-   Elfogadható (plauzibilis) feltevésnek látszik, hogy a rétegek h®mérséklete a magasság lineáris függvénye. (Ez akkor
+   Elfogadható ( plauzibilis ) feltevésnek látszik, hogy a rétegek h®mérséklete a magasság lineáris függvénye. (Ez akkor
 igaz, ha a gáz h®vezet®képessége nem függ a h®mérséklett®l. A tapasztalat szerint a vizsgált h®mérséklettartományban
 ez jó közelítéssel teljesül.) Ezt felhasználva válaszolhatunk az a) kérdésre.
                                                                                                             h
@@ -132,13 +134,13 @@ ez jó közelítéssel teljesül.) Ezt felhasználva válaszolhatunk az a) kérd
                                                                                                             2
 vannak! A fels® rétegben a h®mérséklet nagyobb, mint az alsóban, ezért itt kevesebb része ske hozza létre ugyanazt a
 nyomást, mint alul.
-                                                           
+
                                   pA∆x            pA∆x
                        ∆Nfent =          ∆Nlent =                 Tfent > Tlent ⇒ ∆Nfent < ∆Nlent
                                   kTfent          kTlent
    Az edény fele magasságában egyezik meg a h®mérséklet a kiindulási, egyensúlyi állapotbeli h®mérséklettel. Azt
 mondhatjuk, hogy az edény fels® felében a gáz felmelegedett, az alsóban leh¶lt. De az el®bb beláttuk, hogy a fels®
-rétegekben mindig kevesebb gázmolekula van, mint a megfelel® alsó rétegekben  így azt is mondhatjuk, hogy több
+rétegekben mindig kevesebb gázmolekula van, mint a megfelel® alsó rétegekben   így azt is mondhatjuk, hogy több
 gáz h¶lt el, mint amennyi felmelegedett!
                                                                                                       f
    Így arra a következtetésre jutottunk, hogy az egész gáz bels® energiája      sökkent. Mivel E =      pV a sta ionárius
@@ -147,9 +149,9 @@ végállapotban is fennáll, a kisebb E -hez kisebb p-nek kell tartoznia (f és 
  sökkent.
    b) Be süljük meg, mennyivel tolódott el a gáz tömegközéppontja!
    A be slést úgy végezzük, hogy a gázt egyenl® vastagságú, vízszintes rétegekre osztjuk fel. Feltesszük, hogy egy-
-egy rétegen belül egyensúly van, a réteg h®mérséklete állandó. A felosztást nomítva kaphatunk egyre pontosabb
+egy rétegen belül egyensúly van, a réteg h®mérséklete állandó. A felosztást  nomítva kaphatunk egyre pontosabb
 be sléseket.
-   Példaképpen nézzük az els®, durva be slést, amikor      supán két rétegre osztjuk fel a hengert: legyen az edény alsó
+   Példaképpen nézzük az els®, durva be slést, amikor      supán két  rétegre  osztjuk fel a hengert: legyen az edény alsó
 felében 285 K, a fels® felében 315 K a h®mérséklet. A két rétegben lev® tömegek aránya:
 
                                mfent   285   7, 5 cm − ∆h
@@ -160,7 +162,9 @@ felében 285 K, a fels® felében 315 K a h®mérséklet. A két rétegben lev®
    Harmadik közelítésben osszuk öt egyenl® vastag rétegre a hengert; az egyes rétegek h®mérséklete fentr®l lefelé
 legyen: 330 K, 315 K, 300 K, 285 K, 270 K. Ebben az esetben valamivel hosszabb számolás után ∆h = 0, 60               m-t
 kapunk.
-   Meddig folytassuk ezt? Be slésnek már az els®nek kapott 0, 4           m is elfogadható. A pontos eredmény (amelynek
+
+
+   Meddig folytassuk ezt? Be slésnek már az els®nek kapott 0, 4           m is elfogadható. A pontos eredmény (amelynek
 meghatározását nem kérte a feladat!) integrálszámítással kapható, értéke ∆h = 0, 5       m.
 
     3. Szigetel® fonálon függ®, 1 m átmér®j¶ m¶anyag golyó felszínén 10         C töltés helyezkedik el egyenletesen. A
@@ -172,7 +176,7 @@ s¶r¶ségét vehetjük 1000 kg/m3 -nek.)
    Megoldás. A sós víz elektromosan jól vezet® folyadék (elektrolit). Mind a pozitív, mind a negatív töltéshordozók
 (ionok) könnyen elmozdulnak benne. A közeled®, feltöltött golyó hatására az általa vonzott, vele ellentétes töltés¶
 ionok igyekeznek a golyó felé elmozdulni, míg a golyóval azonos töltés¶ ionok a taszító er® hatására ellenkez® irányban
-mozdulnak el. Ezáltal megsz¶nik a folyadék térfogati semlegessége úgy, hogy
+mozdulnak el. Ezáltal megsz¶nik a folyadék  térfogati semlegessége  úgy, hogy
    1. az ered® elektromos tér er®vonalai a golyó és a folyadék közötti térben mer®legesen futnak be a folyadék felszínére;
    2. a folyadék belsejében a felszín alatti tartományokban zérus lesz az ered® térer®sség.
    Természetesen ekkor a golyó a vele ellentétes töltés¶ folyadékfelszínt magához akarja vonzani, fel akarja emelni.
@@ -181,8 +185,8 @@ Feladatunkban a felületi feszültség szerepét elhanyagolhatjuk, így a folyad
 amíg a felületegységre ható elektrosztatikus emel® er® egyenl® nem lesz a felemelkedett folyadékréteg hidrosztatikai
 nyomásával.
    Nem tudjuk, hogy milyen lesz pontosan a kialakuló folyadékfelület alakja. Biztos, hogy kevéssé tér el a síkfelülett®l,
-erre utal a feladat szövege is (pi it megemelkedik)  tehát a leveg®ben kialakuló ered® elektromos tér meghatározásá-
-hoz alkalmazhatjuk a (sík) tükörtöltés módszerét. Másrészt elegend® lesz gyelmünket egyetlen pontra, a felemelked®
+erre utal a feladat szövege is ( pi it  megemelkedik)   tehát a leveg®ben kialakuló ered® elektromos tér meghatározásá-
+hoz alkalmazhatjuk a (sík) tükörtöltés módszerét. Másrészt elegend® lesz  gyelmünket egyetlen pontra, a felemelked®
 folyadékfelület legfels® P pontjára kon entrálni; ennek emelkedése az, amit ki kell számítanunk.
    A   2. ábrán P -vel jelölt pontban a Q töltést®l származó térer®sség
                                                             1     Q
@@ -220,7 +224,7 @@ pontbeli h emelkedésb®l származó hidrosztatikai nyomással:
 
                                                       h ≈ 0, 29 mm.
 
-   Ez az érték valóban pi i a golyó sugarához, illetve a vízt®l mért távolságához képest, jogos volt a síktükör-töltés
+   Ez az érték valóban  pi i  a golyó sugarához, illetve a vízt®l mért távolságához képest, jogos volt a síktükör-töltés
 közelítés. (Hasonlóképp jogos volt a golyó töltését a    középpontjába helyezett ponttöltéssel helyettesíteni: m¶anyag
 golyóról lévén szó, a víz felszínén kialakuló töltéss¶r¶ség vonzása nem tudja átrendezni, megváltoztatni a szigete-
 l®re felvitt egyenletes töltéseloszlást. Azt is be lehet látni, hogy a víz megemelkedéséb®l adódó görbületi nyomás a
@@ -230,17 +234,19 @@ hidrosztatikai nyomásnál sokkal kisebb, a felületi feszültség szerepét teh
 
 
    A verseny végeredménye
-   Els® díjat nyert
-   Kuru z Zoltán, az ELTE zikus hallgatója, aki Szolnokon, a Varga Katalin Gimnáziumban érettségizett, mint
+
+
+   Els® díjat nyert
+   Kuru z Zoltán, az ELTE  zikus hallgatója, aki Szolnokon, a Varga Katalin Gimnáziumban érettségizett, mint
 Vin ze Gábor tanítványa.
-   Második díjat nyertek egyenl® (24.) helyezésben:
-   Biró Domokos Botond a Kolozsvári M¶szaki Egyetem számításte hnikaautomatizálás szakos hallgatója, aki
+   Második díjat nyertek egyenl® (2 4.) helyezésben:
+   Biró Domokos Botond a Kolozsvári M¶szaki Egyetem számításte hnika automatizálás szakos hallgatója, aki
 Marosvásárhelyen, a Bolyai Farkas Elméleti Lí eumban érettségizett, mint                             Bíró Tibor tanítványa;
-   Tóth Gábor Zsolt, az ELTE zikus hallgatója, aki Budapesten, az Árpád Gimnáziumban érettségizett, mint
+   Tóth Gábor Zsolt, az ELTE  zikus hallgatója, aki Budapesten, az Árpád Gimnáziumban érettségizett, mint
 Vankó Péter tanítványa;
-   Varga Tamás, az ELTE zikus hallgatója, aki Révkomáromban, a Selye János Gimnáziumban érettségizett, mint
+   Varga Tamás, az ELTE  zikus hallgatója, aki Révkomáromban, a Selye János Gimnáziumban érettségizett, mint
 Szabó Endre tanítványa.
-   Harmadik díjat nyertek egyenl® (510.) helyezésben:
+   Harmadik díjat nyertek egyenl® (5 10.) helyezésben:
    Gröller Ákos, az ELTE matematikus hallgatója, aki Budapesten, a Fazekas Mihály F®városi Gyakorló Gimnázi-
 umban érettségizett, mint   Horváth Gábor tanítványa;
    Ho hsteiger Ákos, a szekszárdi Garay János Gimnázium IV. osztályos tanulója,                                Pesti Gyula tanítványa;
@@ -256,26 +262,26 @@ tanítványa;
 
 
 B., Nagy Z., Nagy Sz., Nyakas P.
-   Di séretben részesültek egyenl® (1115.) helyezésben:
+   Di séretben részesültek egyenl® (11 15.) helyezésben:
    Kálmán Barnabás, a BME m¶szaki informatika szakos hallgatója, aki Budapesten, az ELTE Apá zai Csere
-János Gyakorló Gimnáziumában érettségizett, mint                Flórik György tanítványa; Nagy Szilvia, a BME mérnökzikus
+János Gyakorló Gimnáziumában érettségizett, mint                Flórik György tanítványa; Nagy Szilvia, a BME mérnök  zikus
 hallgatója, aki Gy®rben, a Révai Miklós Gimnáziumban érettségizett, mint                  Kolozsváry Ern®né és Székely László
-tanítványa; Nagy Zoltán, a JATE zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumában
+tanítványa; Nagy Zoltán, a JATE  zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumában
                   Homolya Ern® tanítványa; Nyakas Péter, a zalaegerszegi Zrínyi Miklós Gimnázium IV. osztályos
 érettségizett, mint
 tanulója,Vadvári Tibor tanítványa; Wagner Róbert, a pannonhalmi Ben és Gimnázium IV. osztályos tanulója,
 Hirka Antal és Rábai László tanítványa.
    Az ünnepélyes eredményhirdetésre 1996. november 29-én került sor. Itt nem sak a feladatok helyes megoldásával
-ismerkedhettek meg a megjelent diákok és tanárok, de egy lézer fényének felhasználásával meggyelhették a sós víz
+ismerkedhettek meg a megjelent diákok és tanárok, de egy lézer fényének felhasználásával meg gyelhették a sós víz
 felszínének pi i felemelkedését is.
    Megemlékeztünk a 100 évvel ezel®tti Eötvös-verseny nyerteseir®l:                            Visnya Aladárról és Zemplén Gy®z®r®l . A díjak
 átadására a Versenybizottság két volt Eötvös verseny nyertest kért fel;                         Bakos Tibor éppen 70 évvel ezel®tt, 1926-ban
-ismételte meg Teller Ede el®z® évi bravúrját: zikából is és matematikából is megnyerte az I. díjat a Társulat ®szi tanu-
-lóversenyén, és ugyanez sikerült 1940-ben   Homann Tibornak is. Az Eötvös Társulaton kívül a Nemzeti Tankönyvkiadó
+ismételte meg Teller Ede el®z® évi bravúrját:  zikából is és matematikából is megnyerte az I. díjat a Társulat ®szi tanu-
+lóversenyén, és ugyanez sikerült 1940-ben   Ho mann Tibornak is. Az Eötvös Társulaton kívül a Nemzeti Tankönyvkiadó
 is hozzájárult a nyertesek jutalmazásához. A diákokat felkészít® tanárok három meghívott kiadó ajándékkönyveib®l
 válogattak: a   Nemzeti Tankönyvkiadó , a Calibra és a Talentum legújabb ismeretterjeszt® és tankönyveit hozták el az
 eredményhirdetésre.
-   Két régi verseny-nyertes,    Homann Tibor és Bakos Tibor , valamint a versenybizottság elnöke (e                             ikk szerz®je)
+   Két régi verseny-nyertes,    Ho mann Tibor és Bakos Tibor , valamint a versenybizottság elnöke (e                             ikk szerz®je)
 gratulál az idei gy®ztesnek,   Kuru z Zoltánnak
    A   Duna Televízió most már harmadik éve saját híradójában tudósítja határainkon inneni és túli néz®it az ünnepi
 eseményr®l. Köszönet érte!
@@ -296,7 +302,9 @@ eseményr®l. Köszönet érte!
 
                                                                      r
                                                            3r                    P
-Q
+
+
+Q
 
 
 

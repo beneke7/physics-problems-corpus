@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-Objects of mass $m$ are attached to the ends of a thread wound through a standing pulley. Below one of the objects another object of mass $m_1$ is hung by means of a thread of length $\ell$, so the object of mass $m_1$ will be at a height of $h$, measured from the ground. After releasing the system, how much time elapses between the instants when the two objects hit the ground? 
- Data: $m=2$ kg, $m_1=1$ kg, $\ell=2$ m, $h=3$ m. 
+Objects of mass $m$ are attached to the ends of a thread wound through a standing pulley. Below one of the objects another object of mass $m_1$ is hung by means of a thread of length $\ell$, so the object of mass $m_1$ will be at a height of $h$, measured from the ground. After releasing the system, how much time elapses between the instants when the two objects hit the ground?
+ Data: $m=2$ kg, $m_1=1$ kg, $\ell=2$ m, $h=3$ m.
  (3 pont)

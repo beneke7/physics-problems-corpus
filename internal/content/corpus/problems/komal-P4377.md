@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201110"
 verification_status: pending
 ---
 
-A real coil was connected to an ohmic resistor of resistance 600  in series. The voltages across the coil and the resistor are 200 V and 100 V, respectively. What are the inductance and the resistance of the coil if the root-mean-square value of the voltage supply is 230 V and its frequency is 50 Hz. 
+A real coil was connected to an ohmic resistor of resistance 600  in series. The voltages across the coil and the resistor are 200 V and 100 V, respectively. What are the inductance and the resistance of the coil if the root-mean-square value of the voltage supply is 230 V and its frequency is 50 Hz.
  (4 pont)

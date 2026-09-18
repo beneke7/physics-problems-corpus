@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Példa. A Landau-féle diamágnesség explicit kiszámítása. Ha az elektronok az xy síkra vannak korlátozva, Landau-szinteket foglalnak el:
-                                             
+
                                             1              eB
                                 E = n+          ℏωc , ωc =
                                             2              m
@@ -34,7 +34,7 @@ a degeneráció pedig
 Ha az elektronok a harmadik dimenzióban is mozoghatnak, ehhez ℏ2 kz2 /2m energiájárulék adódik. Ekkor a nagykanonikus partíciós függvény
                                     ∞
                                       2L2 B                      βℏ2 kz2
-                          Z                                                            
+                          Z
                      L              X
              log Z =          dkz                log 1 + z exp −         − βℏωc (n + 1/2)
                      2π                   Φ0                      2m
@@ -43,12 +43,12 @@ Ha az elektronok a harmadik dimenzióban is mozoghatnak, ehhez ℏ2 kz2 /2m ener
 ahol a spin szerinti összegzés miatt 2-es tényezőt adtunk hozzá, és a kz szerinti lendületösszeget integrállá alakítottuk. Most az Euler-összegzési formulát alkalmazzuk a következő választással:
 
                                                        βℏ2 kz2
-                                 Z                               
+                                 Z
                          h(x) = dkz log 1 + exp −              + βx .
                                                         2m
 
 Ekkor nagykanonikus partíciós függvényünk:
-                     ∞                                     Z ∞                                 
+                     ∞                                      Z ∞
                VB X                        VB                                       ℏωc dh
        log Z =      h(µ − ℏωc (n + 1/2)) =                        h(µ − ℏωc x) dx −        + ... .
                πΦ0                         πΦ0                0                      24 dµ
@@ -64,14 +64,13 @@ ahol szokás szerint µB = |e|ℏ/2mc. Mivel a paramágneses hatás háromszor n
 
 Megjegyzés. Tekintsük a hidrogénatomot, amelynek energiaszintjei En = −E0 /n2 . A partíciós függvény divergál, ezért formálisan minden állapot foglaltságának valószínűsége nulla! A helyzet még rosszabb, ha a nem kötött állapotokat is figyelembe vesszük.
    A megoldás az, hogy hiányzik egy térbeli levágás; az n szerinti összeg rendkívül nagy állapotokat is tartalmaz. Bármely ésszerű levágás ésszerű eredményt ad. Végtelen térfogatban a nulla foglaltsági valószínűség valóban helyes válasz, mert amikor az elektron az atomtól jelentős távolságra kerül, kicsi az esélye, hogy valaha visszatér: egy háromdimenziós véletlen bolyongás valószínűleg soha nem tér vissza a kiindulópontjához.
-87 3. Statisztikus mechanika
 
 
 3.7     Kinetikai elmélet
 Eddig csak termikus egyensúlyban lévő rendszereket vizsgáltunk. A kinetikai elmélet makroszkopikusan sok részecske mikroszkopikus dinamikáját tanulmányozza, és ennek segítségével fogjuk vizsgálni az egyensúly megközelítését. Heurisztikus bevezetésként kezdjük.
 
  • Szükségünk lesz arra a tényre, hogy egyensúlyban a gáz részecskéinek sebessége Maxwell–Boltzmann-eloszlást követ:
-                                                3/2
+                                                  3/2
                                             m              2
                                 f (v) =               e−mv /2kB T .
                                           2πkB T
@@ -94,7 +93,7 @@ Eddig csak termikus egyensúlyban lévő rendszereket vizsgáltunk. A kinetikai 
       mivel a Maxwell–Boltzmann-eloszlás izotróp, és az utolsó lépésben az energia ekvipartícióját használtuk.
 
  • Nagyobb léptékben nagyjából úgy képzelhetjük, hogy minden gázmolekula ℓ lépéshosszúságú és τ időközű véletlen bolyongást végez. Az x = 0-ból induló, egydimenziós mozgásnál annak valószínűsége, hogy a részecske t = N τ idő elteltével az x = mℓ helyen van:
-                                              r                   r
+                                                r                   r
                                         N              2    2          2τ −x2 τ /2ℓ2 t
                    P (x, t) = 2−N                ≈       e−m /2N =        e
                                     (N − m)/2         πN               πt
@@ -110,7 +109,6 @@ Eddig csak termikus egyensúlyban lévő rendszereket vizsgáltunk. A kinetikai 
                                                     ⟨r2 ⟩ =      t.
                                                               τ
       Ezt konkrétan egy köbös rácson végzett véletlen bolyongás vizsgálatával is kiszámíthatjuk.
-88 3. Statisztikus mechanika
 
 
  • A függetlenül diffundáló részecskék sűrűségét a diffúziós egyenlet írja le:
@@ -147,11 +145,10 @@ Ezzel az alappal tárgyalhatjuk a transzporttulajdonságokat.
     Ha a részecske θ szöget zár be a függőlegessel, akkor
                                                  ∆z = ℓ cos θ.
     Mindezt összerakva az egységnyi idő és egységnyi felület alatt átadott lendület
-                      Z                               Z                    3/2
+                      Z                               Z                      3/2
                F                               dux                   m                   2
                  =n       dv vz f (v)∆px = mnℓ            dv                       ve−mv /2kB T cos2 θ.
                A                                dz                 2πkB T
-89 3. Statisztikus mechanika
 
 
  • Az integrál lényegében a ⟨v⟩ mennyiséget számítja ki, a cos2 θ tényezőtől eltekintve. Gömbi koordinátákban az egyetlen különbség a θ-integrál lenne:
@@ -197,7 +194,6 @@ Ezeket az egyenleteket kombinálva
                                   = −η 2 = −η∇2 ux = −        ∇ P
                                dt      dz                  mn
 adódik, ami a lendület diffúziós egyenlete. A diffúziót először a részecskesűrűségre vezettük be, de a diffúzió bármely megmaradó mennyiség inhomogenitásait kisimítja.
-90 3. Statisztikus mechanika
 
 
 Most a kinetikai elmélet tulajdonképpeni tárgyalására térünk át a Boltzmann-egyenlet levezetésével.
@@ -243,7 +239,6 @@ Hamilton-operátorral. A fázistér 6N dimenziós, és a rendszer konfiguráció
    ahol a harmadik lépésben parciálisan integráltunk. Ez látszólag hasonló a fenti eredményhez, de nem ugyanaz; például a bal oldali derivált közönséges derivált, nem konvektív derivált.
 
 Most bevezetjük a BBGKY-hierarchiát.
-91 3. Statisztikus mechanika
 
 
  • Az egy részecskére vonatkozó eloszlásfüggvényt úgy definiáljuk, hogy minden más részecskére integrálunk:
@@ -283,25 +278,24 @@ Most bevezetjük a BBGKY-hierarchiát.
 
  • Az első két tag egyszerűen a szabad „sodródó” részecskék dinamikáját írja le, míg az utolsó tag az ütközéseket tartalmazza. Ezért ezt így írhatjuk:
                                                                p2
-                                                  
+
                           ∂f1                  ∂f1
                               = {H1 , f1 } +           , H1 =     + V (r).
                            ∂t                  ∂t coll         2m
    A második tagot ütközési integrálnak nevezzük.
 
  • Az ütközési integrál nem írható fel csak f1 segítségével, ami nem meglepő, hiszen két részecske ütközéseit írja le. Bevezetjük az n-részecske-eloszlásfüggvényeket:
-                                                                       Z
+                                                                         Z
                                                                        N
                          fn (r1 , . . . , rn , p1 , . . . , pn , t) =      dVn f (ri , pi , t).
                                                                        n
    Ezután vegyük észre, hogy az ütközési integrál mind az N − 1 tagja azonos, ezért
-                           Z
+                               Z
                                         ∂U (r − r2 ) ∂f                ∂U (r − r2 ) ∂f2
                                                             Z
                 ∂f1          N
                          =          dV1              ·    = dr2 dp2                ·    .
                 ∂t coll      2              ∂r         ∂p                   ∂r       ∂p
-92 3. Statisztikus mechanika
 
 
  • Ugyanez az érvelés rekurzívan ismételhető fn időfejlődésének meghatározásához. Azt kapjuk, hogy
@@ -313,7 +307,7 @@ Most bevezetjük a BBGKY-hierarchiát.
                           ∂t                                                     ∂ri        ∂pi
                                                 i=1
 ahol az n-részecskés Hamilton-operátor
-                                         n  2                    
+                                         n   2
                                          X  p        i
                                                                          X
                                   Hn =                   + V (ri ) +            U (ri − rj ).
@@ -333,10 +327,10 @@ A BBGKY-hierarchia haszna, hogy az alacsonyabb rendű fn -ekben elkülöníti a 
 ahol ω az ütközés dinamikáját írja le, és a kölcsönhatási potenciáltól függ.
 
  • Ennek eredményeként az ütközési integrál:
-                 Z
+                   Z
        ∂f1
                  = dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 )f2 (r, r, p′1 , p′2 ) − ω(p, p2 |p′1 , p′2 )f2 (r, r, p, p2 )
-                                                                                                                   
+
         ∂t coll
 ahol a két tag a p lendületbe való, illetve az onnan kifelé irányuló szóródást veszi figyelembe. A Boltzmann-egyenlet megfelelő levezetésében ide úgy jutnánk, hogy a BBGKY-hierarchiára explicit módon közelítéseket alkalmazunk.
 
@@ -350,7 +344,6 @@ ahol a két tag a p lendületbe való, illetve az onnan kifelé irányuló szór
      – Az időtükrözési szimmetria szerint
                                       ω(p, p2 |p′1 , p′2 ) = ω(−p′1 , −p′2 | − p, −p2 ).
 
-93 3. Statisztikus mechanika
 
 
      – A paritásszimmetria a bejövő és kimenő lendületek felcserélése nélkül fordítja meg a lendületeket:
@@ -360,10 +353,10 @@ ahol a két tag a p lendületbe való, illetve az onnan kifelé irányuló szór
                                           ω(p, p2 |p′1 , p′2 ) = ω(p′1 , p′2 |p, p2 ).
 
  • Az utolsó tulajdonság alkalmazása az ütközési integrált erre egyszerűsíti:
-                        Z
+                          Z
              ∂f1
                         = dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 ) f2 (r, r, p′1 , p′2 ) − f2 (r, r, p, p2 ) .
-                                                                                                      
+
               ∂t coll
 
     Ekkor a molekuláris káosz feltevését használjuk:
@@ -376,7 +369,7 @@ ahol a két tag a p lendületbe való, illetve az onnan kifelé irányuló szór
                          Z
        ∂f1
            = {H1 , f1 } + dp2 dp′1 dp′2 ω(p′1 , p′2 |p, p2 ) f1 (r, p′1 )f1 (r, p′2 ) − f1 (r, p)f1 (r, p2 ) .
-                                                                                                            
+
        ∂t
     Ezt nehéz megoldani, mivel nemlineáris integráldifferenciálegyenlet.
 
@@ -392,7 +385,6 @@ Ezután a Boltzmann-egyenlet egyensúlyi eloszlásait vizsgáljuk.
 
  • Vegyük észre, hogy β, µ és u mind lehetnek helyfüggők. Az ilyen megoldást lokális egyensúlynak nevezzük; az előző szakasz heurisztikus számításaiban is ezt használtuk.
 
-94 3. Statisztikus mechanika
 
 
  • Az egyszerűség kedvéért tegyük V (r) = 0-ra. Ekkor a sodródási tag is eltűnik, ha β, µ és u mind konstans. Ha u nulla, szokásos egyensúlyi gázunk van; a nem nulla u lehetősége a lendületmegmaradás következménye. Hasonlóképpen a sodródási tag akkor is eltűnik, ha u ∝ r × p, a perdületmegmaradás miatt; ez forgó egyensúlyi megoldást ad.
@@ -407,7 +399,6 @@ Ezután a Boltzmann-egyenlet egyensúlyi eloszlásait vizsgáljuk.
                                        log              conserved in collisions.
                                              1 ± f1 (p)
    Ha ezt β(µ−E +u·p)-vel azonosítjuk, visszakapjuk a Bose–Einstein- és Fermi–Dirac-eloszlást µ kémiai potenciállal, 1/β hőmérséklettel és u sodródási sebességgel.
-95 4. Folytonos közegek mechanikája
 
 
 4      Folytonos közegek mechanikája
@@ -423,7 +414,7 @@ A folytonos közegek mechanikája a kinetikai elmélet kontinuumhatárátmenete.
       ilyen léptékeken ∆ρ/ρ ∼ 1/ N ∼ (L/ℓ)3/2 . Ezért ha azt akarjuk, hogy ρ meghatározása ϵ relatív pontosságú legyen, L ≳ ℓ/ϵ2/3 szükséges.
 
     • Másik példaként tegyük fel, hogy a molekulák tipikus sebessége vmol . Ekkor N molekula tömegközéppont-sebességének tipikus ingadozása vmol / N . Ha egy v átlagsebességű makroszkopikus áramlást tekintünk, és azt akarjuk, hogy v meghatározása ϵ relatív pontosságú legyen, akkor
-                                                    v 2/3
+                                                     v  2/3
                                                       mol
                                             L≳ℓ
                                                       ϵv
@@ -446,7 +437,6 @@ A folyadékok nyugalmi mechanikájának alapjaival kezdünk.
                                                  dFi = σij dSj
 
       ahol összegzési konvenciót használunk. Az alábbiakban többnyire indexmentes jelölést alkalmazunk, így a fenti egyenlet dF = σ · dS alakban írható.
-96 4. Folytonos közegek mechanikája
 
 
  • Nyugalomban lévő folyadékban nincsenek nyírófeszültségek, ezért σij diagonális. Továbbá σij -nek minden vonatkoztatási rendszerben diagonálisnak kell lennie, ami csak akkor lehetséges, ha az egységmátrixszal arányos. Ezért nyugalomban lévő folyadékokban egyszerűen izotrop nyomás van:

@@ -63,7 +63,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
         “stretch tuning” is significant and adds up to about an entire semitone across the piano!
 
                                                      6
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
   Remark: Beam Theory
 
@@ -113,7 +115,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                          volume                       volume
 
                                                   7
-   Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                             Physics Olympiad Handouts
 
       Solving for the deflection gives
                                                     ρgℓ4

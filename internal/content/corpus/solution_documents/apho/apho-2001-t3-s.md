@@ -57,7 +57,8 @@ APHO II   2001    Theoretical Question 3                                      p.
 
 
                                                   1
- APHO II   2001   Theoretical Question 3                                        p. 2 / 4
+
+ APHO II   2001   Theoretical Question 3                                        p. 2 / 4
 
 
  [Solution] (continued)              Theoretical Question 3
@@ -75,7 +76,7 @@ APHO II   2001    Theoretical Question 3                                      p.
 
                                Fig. 3d
 
-                                                         
+
 
 
                                                         surface
@@ -104,7 +105,8 @@ APHO II   2001    Theoretical Question 3                                      p.
 
 
                                                    2
-APHO II   2001   Theoretical Question 3                                         p. 3 / 4
+
+APHO II   2001   Theoretical Question 3                                         p. 3 / 4
 
 
 
@@ -131,11 +133,11 @@ APHO II   2001    Theoretical Question 3                                      p.
 
 
                                                                                     (4)
-     
 
 
 
-     From the plot of            versus Tone obtains the slope
+
+     From the plot of            versus T one obtains the slope
 
 
                                                                                     (5)
@@ -155,7 +157,8 @@ APHO II   2001    Theoretical Question 3                                      p.
 
 
                                                     3
-APHO II    2001   Theoretical Question 3                                           p. 4 / 4
+
+APHO II    2001   Theoretical Question 3                                           p. 4 / 4
 
 
 [Solution] (continued)               Theoretical Question 3
@@ -170,7 +173,7 @@ APHO II   2001    Theoretical Question 3                                      p.
 
                                               (new)                           Answer (a)
 
-     From                                          ,   one finally obtains
+     From                                           ,   one finally obtains
 
 
                                                                           (new)

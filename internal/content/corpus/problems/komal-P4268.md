@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201009"
 verification_status: pending
 ---
 
-A physics teacher often went to skate to a nearby frozen lake. Once he could reduce his speed to one third of its original value along 16 m skidding, and then it took him 1 more second to stop. How much distance did he cover during the braking. On another day he had the same initial speed and suddenly he noticed a crevasse in the ice 20 m in front of him. At what distance from the crevasse could he stop, if his reaction time is 0.1 s, and he used his familiar braking technique. 
+A physics teacher often went to skate to a nearby frozen lake. Once he could reduce his speed to one third of its original value along 16 m skidding, and then it took him 1 more second to stop. How much distance did he cover during the braking. On another day he had the same initial speed and suddenly he noticed a crevasse in the ice 20 m in front of him. At what distance from the crevasse could he stop, if his reaction time is 0.1 s, and he used his familiar braking technique.
  (4 pont)

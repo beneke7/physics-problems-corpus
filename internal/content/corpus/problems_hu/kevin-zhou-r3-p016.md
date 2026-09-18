@@ -29,7 +29,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     diamágnességhez vezet. Sok
 
                                                       11
-    Kevin Zhou                                                                Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                Fizikaolimpiai feladatgyűjtemény
 
 
     tankönyv a klasszikus elektronokra ható erők vizsgálatával próbálja ezt megindokolni, de az ilyen

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-The principal axis of a school telescope is pointing exactly towards the centre of the Moon at full moon. The image of the Moon in the stationary telescope, which is in the school yard, totally fills the field of view. How much time elapses between the appearance and the disappearance of the full moon? 
+The principal axis of a school telescope is pointing exactly towards the centre of the Moon at full moon. The image of the Moon in the stationary telescope, which is in the school yard, totally fills the field of view. How much time elapses between the appearance and the disappearance of the full moon?
  (3 pont)

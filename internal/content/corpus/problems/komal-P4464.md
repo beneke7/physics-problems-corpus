@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, model-reduction]
 ---
 
-A certain type of alpha -radiation can penetrate to a depth of 4 cm to a sample of air at a pressure of 10$^{5}$ Pa. To what depth would it penetrate into a sample of less dense air at a pressure of 10$^{3}$ Pa? (The -particle -- being a ``heavy'' particle -- hardly changes its direction while it interacts with the atoms, so its path is approximately a straight line.) 
+A certain type of alpha -radiation can penetrate to a depth of 4 cm to a sample of air at a pressure of 10$^{5}$ Pa. To what depth would it penetrate into a sample of less dense air at a pressure of 10$^{3}$ Pa? (The -particle -- being a ``heavy'' particle -- hardly changes its direction while it interacts with the atoms, so its path is approximately a straight line.)
  (5 pont)

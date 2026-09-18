@@ -34,7 +34,9 @@ solution_language: en
          didn’t know that, or didn’t want to set up those equations. Remarkably, it turns out that
 
                                                       6
-Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                     Physics Olympiad Handouts
 
 
      you can derive the exact same results by simply treating the voltages Vi as free to vary, and
@@ -87,7 +89,9 @@ solution_language: en
 
 
                                                        7
-Kevin Zhou                                                                      Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                      Physics Olympiad Handouts
 
 
     Remark

@@ -42,13 +42,13 @@ dn+1
 ∆x,
 because ∆d = −∆x. Therefore
 ∆F =
-
+
 kn
 dn+1
 −
 mg
 l
-
+
 ∆x.
 At the limit case of the loss of stability (which
 is described by this problem) ∆F = 0. Thus we

@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4081. Feltöltött kondenzátorhoz kapcsoljunk párhuzamosan egy ugyanakkora kapacitású, de töltetlen kondenzátort! 
- a ) Hányad részére csökken a rendszer összenergiája az összekapcsolás után? 
- b ) Mi történik az energia ,,elvesző'' részével? 
+P. 4081. Feltöltött kondenzátorhoz kapcsoljunk párhuzamosan egy ugyanakkora kapacitású, de töltetlen kondenzátort!
+ a ) Hányad részére csökken a rendszer összenergiája az összekapcsolás után?
+ b ) Mi történik az energia ,,elvesző'' részével?
  c ) Mi a helyes válasz az előző kérdésre, ha a kísérletben szereplő valamennyi vezető szupravezető?

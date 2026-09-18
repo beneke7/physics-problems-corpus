@@ -58,7 +58,9 @@ summarized as follows
                R200   47  5Ohm R400   40  3Ohm
                       1                        1
                       a                        a
-XII International Zhautykov Olimpiad/Experimental Competition                           Page 2/4
+
+
+XII International Zhautykov Olimpiad/Experimental Competition                           Page 2/4
 
 
                        Part 2. Mechanical stress and resistance (5.0 points)
@@ -79,7 +81,9 @@ Table 2.
 
        It is seen from the graph above that the dependence is actually inversely proportional. Thus,
 the conductivity is approximately proportional to the mass of weights.
-XII International Zhautykov Olimpiad/Experimental Competition                              Page 3/4
+
+
+XII International Zhautykov Olimpiad/Experimental Competition                              Page 3/4
 
 
                                 Part 3. Designing scales (3.0 points)
@@ -96,7 +100,9 @@ Table 3.
      400        180
      500        195
      600        210
-XII International Zhautykov Olimpiad/Experimental Competition                    Page 4/4
+
+
+XII International Zhautykov Olimpiad/Experimental Competition                    Page 4/4
 
 
                                            Grading scheme

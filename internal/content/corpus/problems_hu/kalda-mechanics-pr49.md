@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy „rugós súlyzó” két, egyenként $m$ tömegű, $k$ merevségű rugóval összekötött golyóból áll. Két ilyen súlyzó egymás felé csúszik, mindkettő sebessége $v_{0}$. Egy adott pillanatban a köztük lévő távolság $L$ (lásd az ábrát). Mennyi idő múlva lesz a távolság ismét $L$? Az ütközések tökéletesen rugalmasak.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr49-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr49-fig1.jpg)

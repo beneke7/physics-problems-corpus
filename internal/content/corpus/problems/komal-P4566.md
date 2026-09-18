@@ -22,7 +22,7 @@ verification_status: flagged
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A model car of mass m =12 kg travels on a horizontal rough surface along a circular path of radius R =5 m. It starts from rest and for a while it has a constant tangential acceleration of a $_{0}$=2 m/s$^{2}$, and when its acceleration reaches the value of , then it continues its motion along the circular path at constant speed. 
- a ) Measured from the starting instant, when will the car reach the point at which it started? 
- b ) What is the maximum of the static frictional force? 
+A model car of mass m =12 kg travels on a horizontal rough surface along a circular path of radius R =5 m. It starts from rest and for a while it has a constant tangential acceleration of a $_{0}$=2 m/s$^{2}$, and when its acceleration reaches the value of , then it continues its motion along the circular path at constant speed.
+ a ) Measured from the starting instant, when will the car reach the point at which it started?
+ b ) What is the maximum of the static frictional force?
  (5 pont)

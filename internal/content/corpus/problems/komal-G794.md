@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates]
 ---
 
-The cross-section of a U-shaped tube is $1.5~\mathrm{cm}^2$. The tube is filled with mercury such that there is high enough mercury in both arms of the tube. 0.1 dl of water is poured on the mercury in one arm of the tube. In which arm and by what distance will the surface of the liquid be higher? 
+The cross-section of a U-shaped tube is $1.5~\mathrm{cm}^2$. The tube is filled with mercury such that there is high enough mercury in both arms of the tube. 0.1 dl of water is poured on the mercury in one arm of the tube. In which arm and by what distance will the surface of the liquid be higher?
  (4 pont)

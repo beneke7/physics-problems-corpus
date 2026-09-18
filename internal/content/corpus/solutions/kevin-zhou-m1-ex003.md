@@ -70,9 +70,9 @@ p
 r2 − a2/4
 !2
 +
-v
+ v
 2
-2
+ 2
 =
 v
 2
@@ -166,7 +166,7 @@ see Physics Cup 2022, problem 2, and for an explanation of the general theory, s
 chosen so that three snails never meet at once, and no two of the velocities are equal. Since time
 t = −∞, five of the 4
 2
-
+
 possible encounters have already occurred. Must the sixth also occur?
 Solution. It’s a bit tricky to visualize what’s going on in the plane; instead think about what’s
 going on in spacetime. The spacetime here is three-dimensional, and the paths of the snails are

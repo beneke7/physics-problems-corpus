@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201305"
 verification_status: pending
 ---
 
-The temperature of air in a small flask, which is covered by soot, is measured with a thermometer. Place the flask next to a filament lamp, rated at a high power, and measure how the temperature depends on the distance from the lamp. 
+The temperature of air in a small flask, which is covered by soot, is measured with a thermometer. Place the flask next to a filament lamp, rated at a high power, and measure how the temperature depends on the distance from the lamp.
  (6 pont)

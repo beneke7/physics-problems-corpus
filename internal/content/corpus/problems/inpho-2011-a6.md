@@ -29,7 +29,7 @@ $$
 [3+2+2+3=10]
 $$
 
-![](inpho-2011-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2011-a6-fig01.png)
 Figure 3:
 
 

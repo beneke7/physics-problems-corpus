@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A laser emits light impulses of wavelength 580 nm and of energy 20 J, which last for 0.5 ms. This light is aimed perpendicularly at a sheet made of caesium, and is focused to a circle of diameter 12 mm. 90% of the light is absorbed and 10% is reflected. 
- a ) How many photons hit the metal sheet during one impulse? 
- b ) Find the pressure of light. 
- c ) Find the maximum of the speed of the electrons which are ejected by the caesium sheet. 
+A laser emits light impulses of wavelength 580 nm and of energy 20 J, which last for 0.5 ms. This light is aimed perpendicularly at a sheet made of caesium, and is focused to a circle of diameter 12 mm. 90% of the light is absorbed and 10% is reflected.
+ a ) How many photons hit the metal sheet during one impulse?
+ b ) Find the pressure of light.
+ c ) Find the maximum of the speed of the electrons which are ejected by the caesium sheet.
  (5 pont)

@@ -20,4 +20,4 @@ verification_status: pending
 
 Két táblát egymásra merőlegesen helyeztünk el. Érintkezési vonaluk vízszintes, egyikük (A) pedig $\alpha$ szöget zár be a vízszintessel. Egy rugalmas golyót $a$ távolságra engedünk el az $A$ síktól, és $b$ távolságra a $B$ faltól. Átlagosan hányszor pattan a golyó a $B$ falról minden egyes, az $A$ falról történő pattanásra? Az ütközések tökéletesen rugalmasak.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr45-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr45-fig1.jpg)

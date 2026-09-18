@@ -25,7 +25,7 @@ Two results, proven in the appendices, are used:
 
 Consider the velocity circle (Figure 1) and draw, from the common base $P$ of the velocity vectors, two perpendicular lines $PM$ and $PN$ depicting two orthogonal velocities $\vec v_1$ and $\vec v_2$. We seek the orientation that maximizes $PM/PN$, equivalently that minimizes $PN/PM = \tan\beta$ (with $\beta$ the angle at $M$). This ratio is smallest when the arc $NTS$ is smallest. That occurs in the symmetric case $\angle NPT = \angle SPT = 45^\circ$: rotating the lines from this state (say anti-clockwise) increases one arc ($TS$) more than it decreases the other ($TN$), because the point on that side ($S$) is then farther from $P$, and a given angle subtends a larger arc when the distance is larger. Symmetry also gives $NP = PS$ here.
 
-![Figure 1: The construction of the maximum ratio between perpendicular velocity vectors (lines PN and PM). O is the centre of the circle, H the foot of the perpendicular from O to chord MS.](../../sources/physicscup/figures/physicscup-2021-p2-sol-1.png)
+![Figure 1: The construction of the maximum ratio between perpendicular velocity vectors (lines PN and PM). O is the centre of the circle, H the foot of the perpendicular from O to chord MS.](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-1.png)
 
 Now decrease the distance $OP$. The arc $NTS$ grows, so the (maximal) ratio of the two velocities decreases. At the smallest possible eccentricity the required ratio $2$ is just attained, i.e. $\tan\beta = \tfrac12$, so $PM = 2PN = 2PS$. Since $M$, $P$, $S$ are collinear, $MS = PM + PS = 3\,PS$, hence $PS = \tfrac13 MS$.
 
@@ -48,9 +48,9 @@ Take two points on the orbit separated by a small angle $d\theta$ as seen from t
 $$ d\vec v = \frac{GMm}{r^2}\,\hat r\,\frac{dt}{m} \;\propto\; \frac{dt}{r^2} \;\propto\; d\theta, $$
 so $|d\vec v|$ is the same for each equal-$d\theta$ sector. Moreover the force direction (hence the direction of $d\vec v$) rotates by $d\theta$ from one sector to the next. Placing all velocity vectors with a common base, the successive *change* vectors $d\vec v$ form a regular polygon (Figure 3); as $d\theta\to 0$ the polygon becomes a circle. $\qquad\blacksquare$
 
-![Figure 2: splitting the trajectory into sectors of angle dθ as seen from the Sun; the velocity-change vector between neighbours has the same magnitude but is rotated by dθ.](../../sources/physicscup/figures/physicscup-2021-p2-sol-2.png)
+![Figure 2: splitting the trajectory into sectors of angle dθ as seen from the Sun; the velocity-change vector between neighbours has the same magnitude but is rotated by dθ.](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-2.png)
 
-![Figure 3: with common bases, the velocity-change vectors are equal in magnitude and each rotated by dθ from its neighbour, so they form a regular polygon — a circle as dθ → 0.](../../sources/physicscup/figures/physicscup-2021-p2-sol-3.png)
+![Figure 3: with common bases, the velocity-change vectors are equal in magnitude and each rotated by dθ from its neighbour, so they form a regular polygon — a circle as dθ → 0.](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-3.png)
 
 ### Appendix B — similarity of the ellipses
 
@@ -58,13 +58,13 @@ Rotate the velocity vectors (and the whole circle) by $90^\circ$ anti-clockwise.
 $$ OB + BP = OB + BA = OA = R, $$
 constant for every such $B$. Hence all points $B$ lie on an ellipse with foci $O$ and $P$, and its semi-major axis obeys $2a = OB + PB = R$.
 
-![Figure 4: each velocity vector defines a point B on an ellipse with foci O, P and semi-major axis 2a = R.](../../sources/physicscup/figures/physicscup-2021-p2-sol-4.png)
+![Figure 4: each velocity vector defines a point B on an ellipse with foci O, P and semi-major axis 2a = R.](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-4.png)
 
 To show this velocity-ellipse is similar to the trajectory ellipse, start where the shortest velocity vector touches it; after the $90^\circ$ rotation that vector is parallel to the trajectory velocity at the corresponding point (Figure 5). Call this direction $\theta = 0$. Advancing $\theta$ by $d\theta$ (Figure 6), the velocities again coincide: as in Appendix A, a sector $d\theta$ on the trajectory corresponds to an arc $d\theta$ on the velocity circle, and since $\theta$ is measured from the focus (= the circle's centre) the velocity turns by exactly that amount. Repeating around the orbit, the tangents of the two ellipses agree at every $\theta$, so they are the same up to a scale factor.
 
-![Figure 5: the velocity vectors of the two ellipses coincide at the starting point (the circle's vector inverted to match orientation).](../../sources/physicscup/figures/physicscup-2021-p2-sol-5.png)
+![Figure 5: the velocity vectors of the two ellipses coincide at the starting point (the circle's vector inverted to match orientation).](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-5.png)
 
-![Figure 6: advancing dθ from the start, the velocities at corresponding points of the two ellipses remain equal.](../../sources/physicscup/figures/physicscup-2021-p2-sol-6.png)
+![Figure 6: advancing dθ from the start, the velocities at corresponding points of the two ellipses remain equal.](../../../../../sources/physicscup/figures/physicscup-2021-p2-sol-6.png)
 
 Finally, a scale factor does not change eccentricity: if $a = c\,a'$ relates the semi-major axes and $d' = 2a'e'$, $d = 2ae$ the focal separations, then $d = c\,d' = 2c a' e' = 2a e'$, forcing $e = e'$.
 

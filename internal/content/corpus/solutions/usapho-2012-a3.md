@@ -17,9 +17,9 @@ This problem inspired by the 2008 Guangdong Province Physics Olympiad
 Two infinitely long concentric hollow cylinders have radii a and 4a. Both cylinders are insulators;
 the inner cylinder has a uniformly distributed charge per length of +λ; the outer cylinder has a
 uniformly distributed charge per length of −λ.
-An infinitely long dielectric cylinder with permittivity  = κ0, where κ is the dielectric constant,
+An infinitely long dielectric cylinder with permittivity   = κ 0, where κ is the dielectric constant,
 has a inner radius 2a and outer radius 3a is also concentric with the insulating cylinders. The
-dielectric cylinder is rotating about its axis with an angular velocity ω 
+dielectric cylinder is rotating about its axis with an angular velocity ω
  c/a, where c is the speed
 of light. Assume that the permeability of the dielectric cylinder and the space between the cylinders
 is that of free space, µ0.
@@ -31,19 +31,19 @@ electric field is radial, so Gauss’s Law states that
 I
 E · dA =
 qin
-0
+ 0
 ⇒ 2πrEl =
 λinl
-0
+ 0
 where λin is the linear charge density enclosed in the cylinder, so
 E =
 λin
-2πr0
+2πr 0
 r̂.
 The field due to the hollow cylinders alone is therefore
 Eapplied =
 λ
-2πr0
+2πr 0
 r̂ ×
 
  
@@ -54,7 +54,7 @@ r̂ ×
 However, the field within the dielectric is reduced by a factor κ, so that in total
 E =
 λ
-2πr0
+2πr 0
 r̂ ×
 
       
@@ -79,11 +79,11 @@ a function of radius,
 0 r > 4a.
 Defining
 λi =
-
+
 1 −
 1
 κ
-
+
 λ
 we conclude that a charge density −λi exists on the inner surface of the dielectric, a charge
 density λi exists on the outer surface, and there is no charge on the interior.

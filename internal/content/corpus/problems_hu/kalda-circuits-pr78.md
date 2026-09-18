@@ -23,6 +23,6 @@ verification_status: pending
 (b) Ezután a kapcsolót periodikusan ki- és bekapcsoljuk; minden alkalommal $\tau_{c}$ ideig zárva, majd szintén $\tau_{c}$ ideig nyitva tartjuk. Határozzuk meg a kimeneti áram időátlagát.
 (c) Most az (a) áramkört a (b) áramkörrel helyettesítjük; a kapcsolót a (b) részben leírt módon kapcsoljuk ki és be. Mekkora lesz az $R$ terhelés feszültsége, amikor a stacionárius üzemállapot kialakult? Feltehetjük, hogy $\tau_{c}\ll RC$, vagyis a terhelésen (és a kondenzátoron) mérhető feszültségváltozás az egész periódus alatt elhanyagolható (a kondenzátor töltésének nincs ideje jelentősen megváltozni).
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr78-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr78-fig1.jpg)
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr78-fig2.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr78-fig2.jpg)

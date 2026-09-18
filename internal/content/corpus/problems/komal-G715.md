@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-A circuit consists of three resistors and a battery as shown in the figure. 
+A circuit consists of three resistors and a battery as shown in the figure.
 
- $a)$ What is the current flowing through each resistor and the voltage across them? 
- $b)$ How do these values change if we connect a lot of (``infinitely many'') $1~\mathrm{k}\Omega$ resistors in parallel to the two resistors, already connected in parallel? 
- $c)$ What will the currents through the original three resistors and voltages across them be, if we connect a lot of (``infinitely many'') $1~\mathrm{k}\Omega$ resistors in series with the $5~\mathrm{k}\Omega$ resistor? 
+ $a)$ What is the current flowing through each resistor and the voltage across them?
+ $b)$ How do these values change if we connect a lot of (``infinitely many'') $1~\mathrm{k}\Omega$ resistors in parallel to the two resistors, already connected in parallel?
+ $c)$ What will the currents through the original three resistors and voltages across them be, if we connect a lot of (``infinitely many'') $1~\mathrm{k}\Omega$ resistors in series with the $5~\mathrm{k}\Omega$ resistor?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G715-fig1.gif)
+![figure](../../figures/komal/figures/komal-G715-fig1.gif)

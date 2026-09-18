@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The angular momentum of the interstellar cloud of mass $M$, consisting of cosmic dust and gases, is $N$. Due to the internal gravitational effects the total material of the cloud forms two small spheres, thus a binary star system is created. 
- $a)$ What is the period $T_\text{star}$ of the binary star revolving about its centre of mass, if the paths of the stars are circular and the masses of the stars are $m_1$ and $m_2$? ($m_1+m_2=M$ and $m_1\le m_2$.) 
- $b)$ What can the distance between the stars be? 
- $c)$ If the distance between the two stars is not exactly constant, but varies with a small amplitude, what may the period of this variation be? 
+The angular momentum of the interstellar cloud of mass $M$, consisting of cosmic dust and gases, is $N$. Due to the internal gravitational effects the total material of the cloud forms two small spheres, thus a binary star system is created.
+ $a)$ What is the period $T_\text{star}$ of the binary star revolving about its centre of mass, if the paths of the stars are circular and the masses of the stars are $m_1$ and $m_2$? ($m_1+m_2=M$ and $m_1\le m_2$.)
+ $b)$ What can the distance between the stars be?
+ $c)$ If the distance between the two stars is not exactly constant, but varies with a small amplitude, what may the period of this variation be?
  (6 pont)

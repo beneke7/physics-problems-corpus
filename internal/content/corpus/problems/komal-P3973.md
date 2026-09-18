@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200704"
 verification_status: pending
 ---
 
-Because of the hot weather air-condition was on for about 3 hours every day in July. The rate of energy absorbed from the room is 1800 W, the device is operated from a voltage of 230 V such that the useful rate of energy of the device is 240% of the rate of energy drown from the power supply. How much does the monthly bill increased if the price of 1 kWh energy is 36 Ft. 
+Because of the hot weather air-condition was on for about 3 hours every day in July. The rate of energy absorbed from the room is 1800 W, the device is operated from a voltage of 230 V such that the useful rate of energy of the device is 240% of the rate of energy drown from the power supply. How much does the monthly bill increased if the price of 1 kWh energy is 36 Ft.
  (3 pont)

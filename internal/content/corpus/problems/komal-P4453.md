@@ -22,7 +22,7 @@ verification_status: flagged
 techniques: [scaling-and-dimensional-analysis, auxiliary-unknowns]
 ---
 
-The density of the energy of the electric field inside a straight cylinder shaped metal rod is constant, its magnitude is  J/m$^{3}$; the density of the energy of the magnetic field inside the rod at a distance of r =2 cm from the symmetry axis of the rod is  J/m$^{3}$. 
- a ) What is the resistivity of the material of the rod? 
- b ) What kind of metal was the rod made of? 
+The density of the energy of the electric field inside a straight cylinder shaped metal rod is constant, its magnitude is  J/m$^{3}$; the density of the energy of the magnetic field inside the rod at a distance of r =2 cm from the symmetry axis of the rod is  J/m$^{3}$.
+ a ) What is the resistivity of the material of the rod?
+ b ) What kind of metal was the rod made of?
  (5 pont)

@@ -25,7 +25,9 @@ Task 2.1 b) Experimental setup for IO . (0.5 points)
 
 
 2.1                                                      1.0
-            Experimental setup for measurement of mica birefringence
+
+
+            Experimental setup for measurement of mica birefringence
 
 
 Task 2.2 The scale for angles.
@@ -48,7 +50,9 @@ Tasks 2.3 Measuring IP and IO .Use additional sheets if necessary.
            10.8                           42.3                       4.9
            14.4                           38.2                       9.0
            18.0                           33.9                       12.5
-21.6   27.7   17.9
+
+
+21.6   27.7   17.9
 25.2   23.4   22.0
 28.8   17.8   27.0
 32.4   12.5   31.7
@@ -70,7 +74,9 @@ Tasks 2.3 Measuring IP and IO .Use additional sheets if necessary.
 90.0   47.8   0.2
 93.6   47.0   0.4
 97.2   45.7   2.0
-               Parallel IP and perpendicular IO intensities vs angle θ .
+
+
+               Parallel IP and perpendicular IO intensities vs angle θ .
 
 
 
@@ -81,7 +87,9 @@ Tasks 2.3 Measuring IP and IO .Use additional sheets if necessary.
 
 
 Task 2.4 Finding an appropriate zero for θ .
-2.4 a) Graphical analysis                                                        1.0
+
+
+2.4 a) Graphical analysis                                                        1.0
 
     The value for the shift is δθ = −1.0 degrees .
 
@@ -114,8 +122,12 @@ Task 2.4 Finding an appropriate zero for θ .
                  2a
 
     Therefore, δθ = −0.7 degrees.
-Task 2.5 Choosing the appropriate variables.
-2.5 Equation (2.4) for the perpendicular intensity is                          0.5
+
+
+Task 2.5 Choosing the appropriate variables.
+
+
+2.5 Equation (2.4) for the perpendicular intensity is                          0.5
              1
     IO (θ ) = (1− cos∆φ )sin 2 (2θ )
              2
@@ -141,7 +153,9 @@ Task 2.6 Statistical analysis and the phase difference.
 2.6 To perform the statistical analysis, we shall then use                     1.0
 
      y = IO (θ ) and x = sin 2 (2θ ) .
-                         π
+
+
+                         π
      Since for θ : 0 →    , x : 0 → 1, we use only 12 pairs of data points to
                         4
      cover this range, as given in Table II.
@@ -184,7 +198,9 @@ Task 2.6 Statistical analysis and the phase difference.
      b ± ∆b = −0.010 ± 0.008
 
      The formulas for this analysis are:
-           N                    N           N
+
+
+           N                    N           N
        N ∑ x n y n −∑ x n ∑ y n′
 m=         n =1             n =1           n ′=1
                             ∆
@@ -230,7 +246,9 @@ The uncertainty is calculated as
 with N = 12 in this example.
 
 Include the accompanying plot or plots.
-2.6 Calculate the value of the phase ∆φ in radians in the interval [0, π ].   0.5
+
+
+2.6 Calculate the value of the phase ∆φ in radians in the interval [0, π ].   0.5
                          1
     From the slope m = (1 − cos ∆φ ), one finds
                          2
@@ -239,7 +257,9 @@ Include the accompanying plot or plots.
      Write down the formulas for the calculation of the uncertainty.
 
      We see that,
-            ∂m          1                                        2 ∆m
+
+
+            ∂m          1                                        2 ∆m
      ∆m =       ∆(∆φ ) = sin(∆φ )∆(∆φ ) , therefore, ∆ (∆φ ) =          .
             ∂∆φ         2                                      sin(∆φ )
 
@@ -289,7 +309,9 @@ Task 2.7 Calculating the birefringence n1 − n 2 .
                                  2                 2                  2
 
                    λ               L               2πL 
-Since the data may appear somewhat disperse and/or the errors in the
+
+
+Since the data may appear somewhat disperse and/or the errors in the
 intensities may be large, a graphical analysis may be performed.
 
 In the accompanying plot, it is exemplified a simple graphical analysis:
@@ -306,7 +328,11 @@ One now finds,
 n1 − n 2 ± ∆ n1 − n 2 = (3.94 ± 0.45) ×10−3 .
 
 A larger (more realistic) error.
- Comparison of experimental data (normalized intensities IP and IO ) with fitting
+
+
+
+
+ Comparison of experimental data (normalized intensities IP and IO ) with fitting
 (equations (2.3) and (2.4)) using the calculated value of the phase difference ∆φ .
 
 

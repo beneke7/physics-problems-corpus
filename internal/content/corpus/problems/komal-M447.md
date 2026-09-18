@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 202602"
 verification_status: pending
 ---
 
-Measure the spring constant of a loose coil spring using weights of different masses comparable to the mass of the spring, 
- a)  using a static method, 
- b)  using a dynamic method (by studying vibrations). 
- Compare the results obtained using the two methods and try to explain any differences. 
+Measure the spring constant of a loose coil spring using weights of different masses comparable to the mass of the spring,
+ a)  using a static method,
+ b)  using a dynamic method (by studying vibrations).
+ Compare the results obtained using the two methods and try to explain any differences.
  (6 pont)

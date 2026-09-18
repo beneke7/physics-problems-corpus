@@ -59,7 +59,6 @@ Ezután áttérünk a mágneses terek analóg állításaira. Már a kiindulásn
                                     µ0
     Ez éppen Umech ellentettje.
 
-52 2. Folytonos közegek mechanikája
 
  • A két eredmény összhangjának belátásához megmutatható, hogy a dipólus áramának fenntartásához szükséges munka U1 = µ1 · B2. Így U1 + Umech = 0, ami azt tükrözi, hogy a mágneses terek nem végeznek munkát. Hasonlóan, a külső tér fenntartásához szükséges munka U2 = µ2 · B1 = µ1 · B2 a kölcsönösség miatt. Ezért
                                        U12 = Umech + U1 + U2
@@ -92,7 +91,6 @@ Most bevezetjük a mágnesezettséget és a mágnesezőteret.
  • Az Ampère-törvényben szereplő mágneses teret az összes áram kelti,
                                       ∇ × B = µ0 (Jfree + Jbound ).
 
-53 2. Folytonos közegek mechanikája
 
     A H mágnesezőteret úgy definiáljuk, hogy azt csak a szabad áram keltse:
                                            1
@@ -141,7 +139,7 @@ Most a Maxwell-egyenleteket vizsgáljuk anyag jelenlétében.
                                                    Jp =
                                                           ∂t
     a kötött Jb áram mellett. Ezért az Ampère-törvény bonyolultabb alakot ölt:
-                                                           
+
                                                         ∂P            ∂E
                            ∇ × B = µ0 J f + ∇ × M +           + µ0 ϵ0    .
                                                          ∂t           ∂t
@@ -178,7 +176,6 @@ Most a Maxwell-egyenleteket vizsgáljuk anyag jelenlétében.
                                      ∂t                          ϵ
     ami azt tükrözi, hogy a töltés a vezető határaira vándorol.
 
-55 2. Elektromágnesség
 
  • Miután az összes szabad töltés lecsengett, az egyetlen új tag az µσE tag az Ampère-törvényben. Ha a szokásos módon, az Ampère- és Faraday-törvény rotációját véve próbáljuk levezetni a hullámegyenletet, akkor
                                      ∂2E      ∂E                 ∂2B      ∂B

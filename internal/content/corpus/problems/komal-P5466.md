@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-On a damp spring morning, the temperature is $1\;{}^\circ$C and the relative humidity is 80%. In a room the temperature is $20\;{}^\circ$C, and the relative humidity is 40%. Does the humidity in the room increase or decrease when the room is ventilated? 
+On a damp spring morning, the temperature is $1\;{}^\circ$C and the relative humidity is 80%. In a room the temperature is $20\;{}^\circ$C, and the relative humidity is 40%. Does the humidity in the room increase or decrease when the room is ventilated?
  (4 pont)

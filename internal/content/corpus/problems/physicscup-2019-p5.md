@@ -25,6 +25,6 @@ Consider a check-board-like reflective diffraction grating a cross-section of wh
 $$z = 20\lambda_0\left\lfloor\frac{x}{20\lambda_0}\right\rfloor + \lambda_0\left\lfloor\frac{y}{20\lambda_0}\right\rfloor,$$
 where $\lambda_0 = 500\ \text{nm}$, $\lfloor a\rfloor$ denotes the floor function (real number $a$ is rounded down to the nearest integer), and $|x|, |y| < 5000\lambda_0$ (thus, the size of the grating is $5\ \text{mm} \times 5\ \text{mm}$). The side surfaces (vertical edges in the figure below) of the “stairs” are black and absorb all the incident light. A parallel beam of white light containing all the wavelengths from $\lambda_1 = 400\ \text{nm}$ to $\lambda_2 = 700\ \text{nm}$ propagates parallel to the $z$-axis and falls onto the grating. The reflected beam is focused with a lens onto a screen perpendicular to the beam at $z = 50\ \text{cm}$. Sketch qualitatively the pattern which can be seen on the screen and show the approximate dimensions of the pattern. For each wavelength, mark only the main diffraction maximum (the brightest spot).
 
-![figure](../../sources/physicscup/figures/physicscup-2019-p5-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2019-p5-1.png)
 
 *Physics Cup TalTech 2019 Problem 5 by Jaan Kalda. Transcribed faithfully from the born-digital LaTeX source.*

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, smart-coordinates, conservation-laws]
 ---
 
-A boy takes a boat across a river to the pier directly opposite, then immediately turns around and rows back to the starting point. The river is 288 m wide, the water flows at a speed of 1 m/s, and the speed of the boat relative to the water is 2.6 m/s. The boy also tries that he rows upstream 288 m and then rows back to the starting point. Calculate the times for the two movements of the boat. 
+A boy takes a boat across a river to the pier directly opposite, then immediately turns around and rows back to the starting point. The river is 288 m wide, the water flows at a speed of 1 m/s, and the speed of the boat relative to the water is 2.6 m/s. The boy also tries that he rows upstream 288 m and then rows back to the starting point. Calculate the times for the two movements of the boat.
  (4 pont)

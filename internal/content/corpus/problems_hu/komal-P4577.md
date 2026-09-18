@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4577. Mekkora az ábrán látható végtelen ellenálláslánc eredő ellenállása az A és B  pont között? Ábrázoljuk az eredő ellenállás q -függését grafikusan!
 
-![figure](../../raw_html/komal_figures/komal-P4577-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4577-fig1.gif)

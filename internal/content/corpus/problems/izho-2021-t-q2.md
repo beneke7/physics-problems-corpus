@@ -29,10 +29,10 @@ Plasma, considered a fourth state of matter, is an ionized gas containing electr
 
 In numerical calculations, consider the following known: Boltzmann's constant $k_{B}=1.38 \cdot 10^{-23} J / K$, the vacuum permittivity $\varepsilon_{0}=8,85 \cdot 10^{-12} \mathrm{~F} / \mathrm{m}$.
 
-![](izho-2021-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2021-t-q2-fig01.png)
 Figure 2.1. Two-dimensional projection of a onecomponent plasma model with cubic cells.
 
-![](izho-2021-t-q2-fig02.png)
+![](../../figures/izho/figures/izho-2021-t-q2-fig02.png)
 Figure 2.2. Two-dimensional projection of a onecomponent plasma model with spherical cells.
 
 2.1 Calculate the smallest distance $a$ between neighboring nuclei.
@@ -53,7 +53,7 @@ The plasma state of matter is a promising working body for the controlled nuclea
 2.8 Calculate the Coulomb barrier lowering for the fusion of two deuterium nuclei cells under given conditions.
 
 The expression for the internal energy of a one-component plasma in the vell model in 2.7 above is interesting in that it explicitly depends on the volume, which is characteristic for nonideal systems. Let a thermodynamic state of the system, whose composition remains unchanged, be depicted by a dot on the pressure $(P)$ - volume $(V)$ diagram. In this diagram consider a process consisting of two isotherms $A B$ and $C D$, as well as two adiabats $B C$ and $A D$. Variations in volumes, temperatures and pressures in this process may be considered so small that the quadrilateral $A B C D$ can be assumed a
-![](izho-2021-t-q2-fig03.png)
+![](../../figures/izho/figures/izho-2021-t-q2-fig03.png)
 parallelogram.
 2.9 Using the above cycle, express the derivative $(\partial U / \partial V)_{T}$ of the internal energy with respect to volume at a fixed temperature in terms of the derivative $(\partial P / \partial T)_{V}$ of the pressure with respect to temperature at a fixed volume as well as the temperature $T$ and pressure $P$ of the system.
 2.10 The pressure $P$ of a one-component plasma, containing $N$ spherical cells in the volume $V$, has the form

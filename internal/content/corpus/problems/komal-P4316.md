@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201102"
 verification_status: pending
 ---
 
-Two filament bulbs rated at 6 V; 0.5 A and at 4 V; 0.4 A are to be operated from a 12 V rechargeable battery. The bulbs should be operating at their ratings. Plan a possible circuit using the appropriate resistors. How much energy is lost? 
+Two filament bulbs rated at 6 V; 0.5 A and at 4 V; 0.4 A are to be operated from a 12 V rechargeable battery. The bulbs should be operating at their ratings. Plan a possible circuit using the appropriate resistors. How much energy is lost?
  (4 pont)

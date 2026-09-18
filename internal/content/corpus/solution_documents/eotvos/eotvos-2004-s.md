@@ -12,9 +12,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 ---
 
 2004. október 15-én rendezte meg az Eötvös Loránd Fizikai Társulat az azévi Eötvös-versenyt. Budapesten 76,
-Pé sen 15, Szegeden, Veszprémben és Szekszárdon 1010, Debre enben 9, Gy®rben 6, Miskol on 5, Békés sabán, Eger-
-ben, Ke skeméten, Nagykanizsán, Nyíregyházán és Sopronban 33, Székesfehérváron 2, összesen tehát 161 dolgozatot
-adtak be a versenyen részt vett  idén érettségizett, illetve középiskolás  diákok. Közülük 1 volt külföldi (szlovákiai)
+Pé sen 15, Szegeden, Veszprémben és Szekszárdon 10 10, Debre enben 9, Gy®rben 6, Miskol on 5, Békés sabán, Eger-
+ben, Ke skeméten, Nagykanizsán, Nyíregyházán és Sopronban 3 3, Székesfehérváron 2, összesen tehát 161 dolgozatot
+adtak be a versenyen részt vett   idén érettségizett, illetve középiskolás   diákok. Közülük 1 volt külföldi (szlovákiai)
 állampolgár, ® Gy®rben versenyzett.
    Ismertetjük a feladatokat és a feladatok helyes megoldását.
 
@@ -37,11 +37,11 @@ A szál hosszának megváltozása (megnyúlása) elhanyagolható a szál alakjá
    Célszer¶ lesz a két fémszál alakváltozását úgy összehasonlítani, hogy köl sönösen egyértelm¶en megfeleltetjük
 egymásnak a két szál pontjait. A megfeleltetett pontokban fellép® deformá iókat (elhajlásokat) hasonlítjuk össze,
 majd megvizsgáljuk, hogy ezek a deformá iók milyen mértékben járulnak hozzá a végpontok lesüllyedéséhez.
-   Képzeljük  modellezzük  a rugalmas fémszálat nagyon kis szemekb®l álló lán nak, ahol az egyes (merev) lán sze-
+   Képzeljük   modellezzük   a rugalmas fémszálat nagyon kis szemekb®l álló lán nak, ahol az egyes (merev) lán sze-
 meket pi iny spirálrugók kap solják egymáshoz. A lán      (melynek saját súlyát elhanyagoljuk) terheletlen állapotában
 pontosan negyedkört formál.
    Írjuk fel, hogy mekkora forgatónyomatékot gyakorol a teher függ®leges irányú G súlya a fémszálnak ϕ szöggel
-jellemzett helyén az ottani spirálrugóra (2. ábra )! (Ezen rugó elfordulása nyomán kialakuló visszatérít® nyomaték
+jellemzett helyén az ottani  spirálrugóra  (2. ábra )! (Ezen rugó elfordulása nyomán kialakuló visszatérít® nyomaték
 fogja majd G-nek azon a helyen fellép® forgatónyomatékát kiegyenlíteni, kompenzálni.)
    Amint az az ábráról is leolvasható, ugyanazon ϕ szöghöz tartozó pontokban az M forgatónyomaték az a) esetben
                                                                                                                π
@@ -66,7 +66,9 @@ spirálrugó   savarodna el), ez a végpontnak mekkora függ®leges elmozdulás�
                                                                 ′                                  ′
 az Mb forgatónyomatékkal arányos. Mondhatjuk, hogy az AA szakasz hossza annyiszorosa a BB szakasz hosszának,
 ahányszorosa az Ma nyomaték nagysága az Mb nagyságának.
-                                                        3. ábra
+
+
+                                                        3. ábra
 
 
    Vegyük észre azt is, hogy az    AA′ irány közelebb áll a függ®legeshez, mint a BB ′ irány! Egyszer¶ geometriai
@@ -92,13 +94,13 @@ szál végpontjának lesüllyedése.
 
    Megjegyzések. 1. Energetikai megfontolásokkal és integrálszámítással numerikusan is meg tudjuk határozni a kétféle
 lesüllyedés arányát, jóllehet a versenyen ez nem volt feladat.
-   Ha a fogas végére  óvatosan növelve a terhelést  maximálisan G nagyságú er®t fejtünk ki, és ennek hatására a
+   Ha a fogas végére   óvatosan növelve a terhelést   maximálisan G nagyságú er®t fejtünk ki, és ennek hatására a
                                                        1                        1
 végpont ∆h-val mélyebbre kerül, akkor összesen W =       G∆h munkát végzünk. (Az -es faktor onnan származik, hogy
                                                        2                        2
 az er® átlagértéke a maximális érték fele.) Ez a munkavégzés a ki sit meghajlított szálban tárolt rugalmas energiával
 egyenl®, ami a szál egyes darabkáiban tárolt energiák összegeként számítható. Egy-egy darabka rugalmas energiája
- a megfeszített egyenes rugó energiaképletének analógiájára  a darabka hosszával és a végein ható forgatónyomaték
+  a megfeszített egyenes rugó energiaképletének analógiájára   a darabka hosszával és a végein ható forgatónyomaték
 négyzetével arányos. Ezek szerint a kétféle ruhafogas energiaviszonyait összevetve:
 
                              R 2             R π/2 2                 1 π
@@ -135,7 +137,9 @@ elgörbül (hiszen a vízszintes szár a sarokpontnál forgatónyomatékot fejt 
 elmozdulását eredményezi. A b) esetben viszont a függ®leges szár alakja gyakorlatilag változatlan marad, mindössze
 elfordul (a vízszintes szár lehajlása miatt); ez az elfordulás azonban a B végpont majdnem pontosan vízszintes irányú
 elmozdulását hozza létre, tehát nem járul hozzá annak függ®leges irányú lesüllyedéséhez.
-   Látható, hogy ebben a durva modellben az a) esetbeli végpont lesüllyedése kb. kétszerese a b) esetének, és sejthet®,
+
+
+   Látható, hogy ebben a durva modellben az a) esetbeli végpont lesüllyedése kb. kétszerese a b) esetének, és sejthet®,
 hogy az eredeti, negyedkörív alakú szálakhoz visszatérve a lehajlások arányának számértéke ugyan más lesz, de az
 egyenl®tlenség iránya nem változik meg.
 
@@ -192,7 +196,7 @@ A kezd®állapotra felírt állapotegyenlettel összehasonlítva megállapíthat
                                                                        N0
                                                               Nlev =      ,
                                                                        2
-vagyis a leveg® fele a melegítés során kibugyborékolt a kém s®b®l.
+vagyis a leveg® fele a melegítés során  kibugyborékolt  a kém s®b®l.
    A melegítés végén így
                                                                        N0
                                                           plev V =        kT,
@@ -204,14 +208,16 @@ volt az érvényes állapotegyenlet. Ezekb®l
                                                                    =
                                                                p0    2 T0
 következik.
-   A vízg®z nyomására tehát kétféle összefüggést tudtunk felírni. Egyrészt a már említett pg®z       = f (T ) g®ztenzió
+
+
+   A vízg®z nyomására tehát kétféle összefüggést tudtunk felírni. Egyrészt a már említett pg®z       = f (T ) g®ztenzió
 függvényt, másrészt a mostani folyamatra érvényes
 
                                                                           T
                                             pg®z = p0 − plev = p0 − p0
                                                                          2T0
 összefüggést. A melegítés során elért végh®mérséklet így az alábbi egyenletb®l határozható meg:
-                                                            
+
                                                           T
                                                 p0 · 1 −       = f (T ).
                                                          2T0
@@ -226,11 +232,11 @@ h®mérséklet (foknyi pontossággal) 347 K, azaz 74     C.
 
 
 
-   Megjegyzések. 1. A megoldás során alkalmazott jogos elhanyagolások miatt az interpolá iót nem érdemes  nem is
-szabad  több tizedesjegy pontossággal végezni.
-   2. A magyar iskolákból jött versenyz®knek kézenfekv® volt, hogy a Négyjegy¶-ben vagy a Budó könyvben
-található táblázatokat használják. Az f (T ) tenziógörbe bizonyos közelítésben elméleti úton, az ún. ClausiusClapeyron-
-egyenlet felhasználásával is meghatározható, de mivel a hazai középiskolákban ez nem része a zika tananyagnak, nem
+   Megjegyzések. 1. A megoldás során alkalmazott jogos elhanyagolások miatt az interpolá iót nem érdemes   nem is
+szabad   több tizedesjegy  pontossággal  végezni.
+   2. A magyar iskolákból jött versenyz®knek kézenfekv® volt, hogy a  Négyjegy¶ -ben vagy a  Budó  könyvben
+található táblázatokat használják. Az f (T ) tenziógörbe bizonyos közelítésben elméleti úton, az ún. Clausius Clapeyron-
+egyenlet felhasználásával is meghatározható, de mivel a hazai középiskolákban ez nem része a  zika tananyagnak, nem
 számítottunk ilyen közelít® megoldásra. Mégis adódott egy: Szlovákiából. Természetesen a Bizottság ezt a megoldást
 is elfogadta.
 
@@ -262,10 +268,12 @@ nagyságú Lorentz-er® és
                                                              e2
                                                       FCb = k 2
                                                              d
-Coulomb-er® hat. Az el®bbi (megfelel® irányú mozgás esetén) mindig a másik elektron felé mutató er®, az utóbbi
+
+
+Coulomb-er® hat. Az el®bbi (megfelel® irányú mozgás esetén) mindig a másik elektron felé mutató er®, az utóbbi
 azonban mindig taszító er®.
 
-      Megjegyzés. Elvben gyelembe kellene még vennünk a mozgó elektronok által keltett (pl. a BiotSavart-törvényb®l
+      Megjegyzés. Elvben  gyelembe kellene még vennünk a mozgó elektronok által keltett (pl. a Biot Savart-törvényb®l
 számolható) mágneses teret, és az ebb®l származó
 
 
@@ -275,14 +283,14 @@ számolható) mágneses teret, és az ebb®l származó
 mágneses er®hatást is (c a fénysebesség). Ez az er® azonban egy klasszikusan (nemrelativisztikusan) mozgó része skére
 v ≪ c miatt elhanyagolható a Coulomb-er® mellett, tehát nem kell számolnunk vele.
                      X
-   A mozgásegyenlet     F = ma, vagyis az irányokat is gyelembe véve:
+   A mozgásegyenlet     F = ma, vagyis az irányokat is  gyelembe véve:
 
                                                                    e2     v2
-                                                            evB − k 2 = m d  .
+                                                            evB − k 2 = m d   .
                                                                    d       2
 
 Ez a kiszámítandó v sebességre nézve másodfokú egyenlet, melynek megoldásai:
-                                                                          s              2
+                                                                          s                2
                                                            edB                 edB                 ke2
                                                       v=       ±                               −       .
                                                            4m                  4m                  2md
@@ -292,14 +300,14 @@ feltételt:                                                                     
                                                                                   3    km
                                                                     d≥2·                  .
                                                                                        B2
-(Ezért szerepelt a feladat szövegében az a kitétel, hogy a két elektron elég messze van egymástól, nem pedig azért,
-hogy elhanyagoljuk a köztük fellép® Coulomb-er®t  ahogyan ezt a versenyen néhányan tették.)
+(Ezért szerepelt a feladat szövegében az a kitétel, hogy a két elektron  elég messze  van egymástól, nem pedig azért,
+hogy elhanyagoljuk a köztük fellép® Coulomb-er®t   ahogyan ezt a versenyen néhányan tették.)
 
       b) Ha    sak az egyik elektront lökjük meg, a mozgás bonyolultabb lesz, még abban a spe iális esetben is, amikor a
-távolságuk  a feladat kérdésének megfelel®en  mindvégig ugyanakkora, d nagyságú marad. (Egyáltalán nem nyilván-
+távolságuk   a feladat kérdésének megfelel®en   mindvégig ugyanakkora, d nagyságú marad. (Egyáltalán nem nyilván-
 való, hogy ilyen mozgás kialakulhat; néhány versenyz® éppen a feladat megoldhatatlanságát próbálta bebizonyítani.)
-      Közel jutunk a megoldáshoz, ha el®ször a feltett  segít®  kérdésre (Milyen pályán mozog ekkor a rendszer
-tömegközéppontja? ) keressük a választ. Írjuk fel  vektorosan, a szokásos jelöléseket használva  az elektronok moz-
+      Közel jutunk a megoldáshoz, ha el®ször a feltett   segít®   kérdésre ( Milyen pályán mozog ekkor a rendszer
+tömegközéppontja?  ) keressük a választ. Írjuk fel   vektorosan, a szokásos jelöléseket használva   az elektronok moz-
 gásegyenleteit!
 
 
@@ -329,26 +337,28 @@ gásegyenleteit!
 Annak érdekében, hogy ezek a mennyiségek megjelenjenek a képleteinkben, adjuk össze a két elektron mozgásegyen-
 letét!
                                                       a
-                                                   m( 1 +      a 2 ) = 0 − e(v 1 + v 2) × B ,
+                                                   m( 1 +      a 2 ) = 0 − e (v 1 + v 2) × B  ,
 amib®l
                                                                a
                                                            m tkp = −e( tkp ×          v        B)
 következik. (Látható, hogy a Coulomb-köl sönhatás kiesett a tömegközéppont mozgásegyenletéb®l.)
       Nagyon fontos felismeréshez jutottunk: a két elektronból álló rendszer tömegközéppontja úgy mozog, mint egyetlen
 elektron a     B   induk iójú mágneses térben! Az pedig körpályán mozog, egyenletesen.
-      A tömegközéppont tehát egyenletes körmozgást végez, miközben körülötte kalimpál a két elektron. A tömegkö-
+      A tömegközéppont tehát egyenletes körmozgást végez, miközben körülötte  kalimpál  a két elektron. A tömegkö-
 zéppont mozgásának szögsebessége
                                                                         atkp  e
                                                           ωtkp =             = B = ωc .
                                                                         vtkp  m
-(Ezt az értéket a zikusok       iklotronfrekven iának nevezik, mert adott er®sség¶ mágneses térben  pl. egy része ske-
-gyorsító      iklotronban  éppen ekkora körfrekven iával keringenek a része skék.)
+(Ezt az értéket a  zikusok       iklotronfrekven iának nevezik, mert adott er®sség¶ mágneses térben   pl. egy része ske-
+gyorsító      iklotronban   éppen ekkora körfrekven iával keringenek a része skék.)
       A tömegközéppont körpályájának sugara
 
                                                                           vtkp   vtkp
                                                                Rtkp =          =      .
                                                                           ωtkp    ωc
-      Vajon hogyan mozognak az elektronok a tömegközéppont körül? Nyilván ennek a kérdésnek a megválaszolása vezet
+
+
+      Vajon hogyan mozognak az elektronok a tömegközéppont körül? Nyilván ennek a kérdésnek a megválaszolása vezet
 el a feladat hátralev® részének megoldásához. Írjuk fel az 1-es elektron helyvektorát               r1 = r         +   R   alakban, vagyis je-
                                                                              R
                                                                                                              tkp
@@ -362,7 +372,7 @@ Ezen vektor id®beli változására úgy kaphatunk egyenletet, hogy képezzük a
 
 
 
-                                     a      a 2) = 2k |r 1 −e r 2|3 (r 1 − r 2) − e(v 1 − v 2) × B .
+                                     a      a 2) = 2k |r 1 −e r 2|3 (r 1 − r 2) − e (v 1 − v 2) × B  .
                                                               2
 (3)                                m( 1 −
 
@@ -380,7 +390,7 @@ Ezekkel a jelölésekkel a (3) egyenlet ilyen alakot ölt:
 (4)                                              m
 
       Ez az egyenlet lényegében ugyanolyan, mint ami a feladat els® részére (az álló tömegközéppont esetére) kapott
-mozgásegyenlet, tehát  alkalmas kezd®sebesség esetén  ennek is lehet egyenletes körmozgásos megoldása. Valóban,
+mozgásegyenlet, tehát   alkalmas kezd®sebesség esetén   ennek is lehet egyenletes körmozgásos megoldása. Valóban,
 ha az     R(t)   vektor nagysága id®ben állandó R érték, és az iránya ω szögsebességgel forog körbe, akkor az egyenletes
 forgómozgás ismert képletei szerint      A = −ω 2 és R V B R
                                                          × = ωB , s így (4) szerint a tömegközéppont körül kering®
@@ -429,7 +439,9 @@ Ugyanekkor a tömegközéppont keringésére fennáll
                                                v0                                            R
                                                   = Rtkp ωc ,          vagyis     Rtkp =       .
                                                2                                             2
-   Ezek szerint a tömegközéppont feleakkora sugarú körpályán kering, mint körülötte az elektronok. Másrészt a
+
+
+   Ezek szerint a tömegközéppont feleakkora sugarú körpályán kering, mint körülötte az elektronok. Másrészt a
 tömegközéppont keringési ideje is fele akkora, mint a hozzá képest mozgó elektronoké.
    Ábrázoljuk vázlatosan a része skék pályáját! A 8. ábrán a szemléletesség kedvéért (szaggatott vonallal) beraj-
 zoltuk a tömegközéppont pályáját is. Miközben a meglökött elektron α szöggel elfordul a tömegközéppont körül, a
@@ -444,7 +456,7 @@ tömegközéppont 2α szöggel fordul el saját, feleakkora sugarú körpályáj
          2π
    T =      id® alatt a tömegközéppont egy teljes kört tesz meg; a két elektron azonban     sak egy-egy félkört fut be
          ωc
-körülötte  éppen helyet   serélnek! Ekkor, tehát
+körülötte   éppen helyet   serélnek! Ekkor, tehát
                                                           2π
                                                       T = e
                                                           mB
@@ -470,15 +482,17 @@ programmal be is mutatta az ünnepélyes eredményhirdetésen (10. ábra ).
                                                       10. ábra
 
 
-   2. A versenyben szerepl® feladatot inspiráló kutatási terület új fejezetet nyitott a modern szilárdtestzikában. Ha
-például a félvezet®knél fellép® Hall-eektust nagyon ala sony h®mérsékleten vizsgáljuk, a klasszikus elektronmodell
-helyett a kvantumzika törvényeivel tudjuk    sak leírni az elektronok fura viselkedését. A mérések szerint az ellenál-
-lás er®s mágneses térben nem folytonosan, hanem ugrásszer¶en (kvantumosan) változik. Ez az ellenállás-kvantum
-kifejezhet® univerzális mikrozikai állandókkal (elemi töltés, Plan k-állandó). Az 1985-ben Klaus von Klitzing német
-zikusnak ítélt Nobel-díj is a kvantumos Hall-eektus kutatásában elért eredmények fontosságát jelezte. Három  az
-USA-ban dolgozó  zikus, Robert Laughlin, Daniel Tsui és Horst Störmer pedig azért kapott Nobel-díjat 1998-ban,
-mert felismerték, hogy er®s mágneses térben az egymással is köl sönható elektronok olyan része skét képesek alkotni,
-amelynek töltése az elemi töltés tört része!
+   2. A versenyben szerepl® feladatot inspiráló kutatási terület új fejezetet nyitott a modern szilárdtest zikában. Ha
+például a félvezet®knél fellép® Hall-e ektust nagyon ala sony h®mérsékleten vizsgáljuk, a klasszikus elektronmodell
+helyett a kvantum zika törvényeivel tudjuk    sak leírni az elektronok fura viselkedését. A mérések szerint az ellenál-
+lás er®s mágneses térben nem folytonosan, hanem ugrásszer¶en (kvantumosan) változik. Ez az  ellenállás-kvantum
+
+
+kifejezhet® univerzális mikro zikai állandókkal (elemi töltés, Plan k-állandó). Az 1985-ben Klaus von Klitzing német
+ zikusnak ítélt Nobel-díj is a kvantumos Hall-e ektus kutatásában elért eredmények fontosságát jelezte. Három   az
+USA-ban dolgozó    zikus, Robert Laughlin, Daniel Tsui és Horst Störmer pedig azért kapott Nobel-díjat 1998-ban,
+mert felismerték, hogy er®s mágneses térben az egymással is köl sönható elektronok olyan  része skét  képesek alkotni,
+amelynek töltése az  elemi töltés  tört része!
 
 
 
@@ -491,30 +505,30 @@ könyvutalványt kapott Sáfár Simon, a BMGE villamosmérnök hallgatója, aki 
 érettségizett mint Péter László tanítványa, valamint Varjas Dániel, a dunaújvárosi Szé henyi István Gimnázium 12.
 évfolyamú tanulója, Kispál István tanítványa.
    II. díjat, s vele 10 ezer forintos pénzjutalmat és 5 ezer forint érték¶ könyvutalványt kapott Rakyta Péter, az
-ELTE zikus hallgatója, aki a szlovákiai Rév-Komárom magyar tannyelv¶ Selye János Gimnáziumában érettségizett
+ELTE  zikus hallgatója, aki a szlovákiai Rév-Komárom magyar tannyelv¶ Selye János Gimnáziumában érettségizett
 mint Szabó Endre tanítványa.
    III. díjat, s vele 5 ezer forintos pénzjutalmat és 5 ezer forint érték¶ könyvutalványt kapott Németh András, az
-ELTE zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor
+ELTE  zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor
 tanítványa; Pálinkás András, a budapesti Piarista Gimnázium 12. évfolyamú tanulója, Futó Béla tanítványa és
 Szabó Attila, a BMGE villamosmérnök hallgatója, aki a veszprémi Lovassy László Gimnáziumban érettségizett mint
 Varga Vin e tanítványa.
-   Kiemelt di séretet kapott Mezei Márk, az ELTE zikus hallgatója, aki az ELTE Radnóti Miklós Gyakorló
+   Kiemelt di séretet kapott Mezei Márk, az ELTE  zikus hallgatója, aki az ELTE Radnóti Miklós Gyakorló
 Gimnáziumban érettségizett mint Rá z Mihály tanítványa.
    Di séretet kapott Halász Gábor, az ELTE Radnóti Miklós Gyakorló Gimnáziumának 11. évfolyamú tanulója, Ho-
 nyek Gyula tanítványa; Kiss Péter, az ELTE Apá zai Csere János Gyakorló Gimnáziumának 12. évfolyamú tanulója,
 Zsigri Feren   tanítványa; Kómár Péter, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évfolyamú tanulója,
 Dvorák Ce ília tanítványa; Rá z Béla András, az ELTE matematikus hallgatója, aki a Fazekas Mihály F®városi
-Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa és Vigh Máté, az ELTE zikus hallgatója,
+Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa és Vigh Máté, az ELTE  zikus hallgatója,
 aki a pé si Babits Mihály Gyakorló Gimnáziumban érettségizett mint Kon z Károly és Kotek László tanítványa.
    Mind a hat di séretes versenyz® megkapta Hraskó Péter Relativitáselmélet     . könyvét, a Typotex Kiadó kiadványát.
    Az ünnepélyes eredményhirdetés 2004. november 19-én volt az ELTE lágymányosi épületének konferen iatermében.
 Meghívót kaptak erre az 50 és a 25 évvel ezel®tti Eötvös-versenyen díjazott versenyz®k is.
-   1954-ben még nem volt a Középiskolai Matematikai Lapoknak zika rovata, viszont a matematika feladatok megol-
+   1954-ben még nem volt a Középiskolai Matematikai Lapoknak  zika rovata, viszont a matematika feladatok megol-
 dásában mindhárom kés®bbi nyertes jeleskedett. Közülük választottunk ki egyet-egyet, valamint egykori fényképeiket,
 amik megjelentek a Lapokban, így mutattuk be az 50 évvel ezel®tti nyerteseket. Néhány mondattal ®k maguk is üd-
 vözölték a mai nyerteseket, és saját életpályájukról is ejtettek pár szót. Vigassy József gépészmérnökként végzett és
 az atomenergetika elkötelezett tudósa lett; Siklósi Péter vegyészmérnökként végzett, és az alumíniumiparban vívott
-ki nemzetközi elismerést; Zawadowski Alfréd zikusként végzett, a szilárdtestzika ugyan sak nemzetközileg elismert
+ki nemzetközi elismerést; Zawadowski Alfréd  zikusként végzett, a szilárdtest zika ugyan sak nemzetközileg elismert
 tudósa lett, akadémikus.
    A 25 évvel ezel®tt, 1979-ben díjazott versenyz®k nevében Csordás András szólalt meg, felidézve néhány régi emlékét,
 köztük a Mikola-verseny megindításához kap solódókat is.

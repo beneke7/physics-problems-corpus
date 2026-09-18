@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-A force of constant magnitude $F$ is exerted on an initially stationary body of mass $m$ on a horizontal surface for time $t$. The body then stops after time $t'$ due to the frictional force. How much distance does the body cover? 
+A force of constant magnitude $F$ is exerted on an initially stationary body of mass $m$ on a horizontal surface for time $t$. The body then stops after time $t'$ due to the frictional force. How much distance does the body cover?
  (4 pont)

@@ -35,7 +35,7 @@ h®mérséklet-különbség esetén a dugattyún id®egységenként átáramló 
 
 
    Megoldás. a) Amint a feladat szövege is mutatja, a kezdeti értékeket nulla indexszel, a bal oldali részt egyes, és
-a jobb oldali részt kettes indexszel jelöljük. A végs® állapot mennyiségeit a v index mutatja. Az 1. ábra a folyamatot
+a jobb oldali részt kettes indexszel jelöljük. A végs® állapot mennyiségeit a  v  index mutatja. Az 1. ábra a folyamatot
 és az állapotjelz®k értékeit foglalja össze.
 
 
@@ -82,7 +82,9 @@ Gay-Lussa    els® törvényéb®l
                                                V1v =     V0      és          V2v =     V0 .
                                                        3                              3
   1 Részletek a verseny honlap ján: http://eik.bme.hu/~vanko/fizika/eotvos.htm
-   b) Most térjünk rá a folyamat vizsgálatára. A bal oldali rész leh¶l, a jobb oldali melegszik, azaz a bal oldal ∆t id®
+
+
+   b) Most térjünk rá a folyamat vizsgálatára. A bal oldali rész leh¶l, a jobb oldali melegszik, azaz a bal oldal ∆t id®
 alatt bekövetkez® ki siny ∆T1 h®mérséklet-változása negatív, míg a jobb oldalra ∆T2 > 0. A folyamat izobár, ezért
 a bal és jobb oldal egyenlete:
 
@@ -94,14 +96,14 @@ a bal és jobb oldal egyenlete:
                        f +2      dT1                                       f +2       dT2
                             n1 R     = α(T2 − T1 ),        illetve              2n1 R     = α(T1 − T2 )
                          2        dt                                         2         dt
-dieren iálegyenleteknek felelnek meg. Ezekb®l kifejezve a dT1 /dt és dT2 /dt hányadosokat, valamint bevezetve a ∆T =
+di eren iálegyenleteknek felelnek meg. Ezekb®l kifejezve a dT1 /dt és dT2 /dt hányadosokat, valamint bevezetve a ∆T =
 T1 − T2 h®mérséklet-különbséget
 
                                  d∆T        3α                               d(T1 + 2T2 )
                                      =−             ∆T               és                  = 0.
                                   dt    (f + 2)n1 R                               dt
 
-A második egyenletben a dieren iálandó mennyiség nem változik, és kezdeti értékét ismerjük, tehát
+A második egyenletben a di eren iálandó mennyiség nem változik, és kezdeti értékét ismerjük, tehát
 
 
                                                       T1 + 2T2 = 4T0 .
@@ -112,7 +114,7 @@ Az els® egyenletben található állandó a h®átadási folyamat le sengési e
                                                  λ=               =        .
                                                       (f + 2)n1 R   5p0 V0
 
-   A fentihez hasonló dieren iálegyenlet a tudományokban számos helyen el®fordul. Ezek közül a legismertebb a ra-
+   A fentihez hasonló di eren iálegyenlet a tudományokban számos helyen el®fordul. Ezek közül a legismertebb a ra-
 dioaktív bomlás, amelynek a megoldása a λ állandóval le seng® exponen iális függvény. Mivel ismerjük ennek a függ-
 vénynek a kezdeti értékét, ennélfogva
                                                        ∆T = T0 e−λt ,
@@ -125,7 +127,7 @@ vénynek a kezdeti értékét, ennélfogva
                                             2     1                           4     1
                                  V1 (t) =     V0 + V0 e−λt ,     V2 (t) =       V0 − V0 e−λt .
                                             3     3                           3     3
-   Ezeket a függvényeket a 2. ábra grakonjain is bemutatjuk, ahol a h®mérsékletet T0 , a térfogatot V0 , az id®t pedig
+   Ezeket a függvényeket a 2. ábra gra konjain is bemutatjuk, ahol a h®mérsékletet T0 , a térfogatot V0 , az id®t pedig
 1/λ egységekben mértük.
 
 
@@ -144,7 +146,9 @@ zár be? (cos α + cos β + cos γ = 1.)
 
 
                                                                                                             ( Vigh Máté)
-   Megoldás. Képzeljük el egy pillanatra, hogy a mágneses térnek               sak az x irányú, id®ben
+
+
+   Megoldás. Képzeljük el egy pillanatra, hogy a mágneses térnek               sak az x irányú, id®ben
 
                                                     Bx (t) = Bx,0 (1 − t/τ )
 szerint változó komponense létezik, a másik két komponens pedig zérus! Ekkor a szimmetria miatt a 3. ábra bal szélén
@@ -154,7 +158,7 @@ vényb®l lehet meghatározni:
                                         Uind = −            −→          4RIx = a2        ,
                                                     dt                               τ
                                                                                     2
-ahol felhasználtuk, hogy a mágneses tér irányára mer®leges lapokon átmen®, kezdeti a Bx,0 nagyságú uxus τ id®
+ahol felhasználtuk, hogy a mágneses tér irányára mer®leges lapokon átmen®, kezdeti a Bx,0 nagyságú  uxus τ id®
 alatt   sökken nullára.
 
 
@@ -194,7 +198,7 @@ disszipálódó RI   teljesítmények összege:
 Ha a zárójeleket felbontjuk, az (Ix + Iy ) + (Ix − Iy ) = 2Ix + 2Iy összefüggés miatt a teljesítmény az alábbi alakra
 egyszer¶södik:
                                                     P = 8R Ix2 + Iy2 + Iz2 .
-                                                                          
+
 
 A keletkez® Joule-h®t az el®bb kiszámított teljesítmény és a τ id® szorzataként számolhatjuk. Az Ix , Iy , Iz áramer®s-
 ségekre korábban levezetett eredmények felhasználásával kapjuk a következ®t:
@@ -205,7 +209,9 @@ ségekre korábban levezetett eredmények felhasználásával kapjuk a következ
                                                     2R         τ            2R τ
 Azt az érdekes eredményt kaptuk, hogy a Joule-h® független a mágneses tér irányától,                supán annak nagyságától függ.
 A feladatban megadott α, β és γ szögekre tehát nem is volt szükség!
-   3. Egy nagyon hosszú kötelet vízszintes helyzetben, a súlyánál sokkal nagyobb      F0 er®vel megfeszítünk. A kötél
+
+
+   3. Egy nagyon hosszú kötelet vízszintes helyzetben, a súlyánál sokkal nagyobb      F0 er®vel megfeszítünk. A kötél
 a pozitív x tengelyen helyezkedik el, egyik vége pedig az origóban van.
     a) Ha a kötél origóban lév® végét A amplitúdójú, f frekven iájú harmonikus rezg®mozgással az x tengelyre mer®leges,
 vízszintes y irányban mozgatjuk, a kötélben transzverzális hullámok jönnek létre, amelyek (a kötél hosszegységre es®
@@ -234,13 +240,13 @@ tásával nulla lehet.
                                        x                                      c
 a kitérés akkora, mint az origóban        id®vel korábban volt. Ez alapján a keresett hullámfüggvény:
                                        c
-                                                                                       
-                                                  h        x i                  2πf
+
+                                                  h         x  i                  2πf
                                   y(x, t) = A sin 2πf t −        = A sin 2πf t −       x .
                                                             c                       c
 
    b) A kötél alakját egy rögzített t = t1 pillanatban az
-                                                                                 
+
                                                                              2πf
                                        y(x) = y(x, t = t1 ) = A sin 2πf t1 −     x
                                                                               c
@@ -249,7 +255,7 @@ egyváltozós függvény adja meg, ahol 2πf t1 egy konstans.
    Bármely x pontban a kötél x tengellyel bezárt szögének tangense éppen ennek a függvénynek a meredeksége, amit
 legegyszer¶bben (az x változó szerinti) deriválással határozhatunk meg:
 
-                                                                                   
+
                                                       dy      2πf              2πf
                                    tg α(x, t = t1 ) =    = −A     cos 2πf t1 −     x .
                                                       dx       c                c
@@ -257,7 +263,7 @@ legegyszer¶bben (az x változó szerinti) deriválással határozhatunk meg:
    A kötél alakja azonban változik az id®vel, így egy adott ponton a meredekség (és az α szög is) az id® függvénye
 lesz. Az origóban (az x = 0 helyen) a kötél iránytangense eszerint:
 
-                                                                         
+
                                                      2πf             2πf        2πf
                        tg α(t) = tg α(x = 0, t) = −A     cos 2πf t −     0 = −A     cos(2πf t).
                                                       c               c          c
@@ -274,7 +280,9 @@ végének (y -irányú) sebessége (5. ábra ).
 
 
                                                               5. ábra
-   Az y -irányú er® (felhasználva, hogy α ≪ 1):
+
+
+   Az y -irányú er® (felhasználva, hogy α ≪ 1):
 
 
                                                                           2πf
@@ -300,19 +308,19 @@ A pillanatnyi teljesítmény ezek alapján:
 
 
                                           2
-   A keresett átlagos teljesítmény  a cos (2πf t) függvény 6. ábráról leolvasható, jól ismert átlagértéke alapján 
+   A keresett átlagos teljesítmény   a cos (2πf t) függvény 6. ábráról leolvasható, jól ismert átlagértéke alapján
 a maximális teljesítmény fele:
                                                      Pmax   2π 2 f 2 A2 F0
                                                P =        =                .
                                                       2            c
    c) Ebben a részben az origó felé érkezik egy hullám. Ennek hullámfüggvénye az ellenkez® irányú terjedés miatt:
-                                                                       
+
                                                                    2πf
                                          y← (x, t) = A sin 2πf t +     x .
                                                                     c
 
    A visszaver®d® hullám ismét a pozitív irányban halad:
-                                                                       
+
                                                                  2πf
                                        y→ (x, t) = B sin 2πf t −     x+ϕ ,
                                                                   c
@@ -334,19 +342,21 @@ kell lennie:
                                            F0 sin α − γvy ≈ F0      −γ    = 0.
                                                                  dx    dt
    A hullámfüggvény és a deriváltak:
-                                                                                     
+
                                                        2πf                      2πf
                          y = y← + y→ = A sin 2πf t +       x + B sin 2πf t −        x+ϕ ,
                                                         c                        c
-                                                                                   
+
                         dy   2πf                2πf       2πf               2πf
                            =     A cos 2πf t +      x −       B cos 2πf t −      x+ϕ ,
                         dx    c                   c        c                  c
-                                                                                  
+
                         dy                     2πf                         2πf
                            = 2πf A cos 2πf t +      x + 2πf B cos 2πf t −       x+ϕ .
                         dt                       c                          c
-      Ezeket behelyettesítve az er®egyensúly képletébe, és rendezve:
+
+
+      Ezeket behelyettesítve az er®egyensúly képletébe, és rendezve:
 
                                                      dy           dy
                                                    F0        =γ          ,
@@ -372,35 +382,35 @@ egyenlet alapján:
       Ha γ → 0 (a kötél vége teljesen szabadon mozog), akkor B = A, azaz a hullám szintén azonos amplitúdóval, de
 most azonos fázisban ver®dik vissza.
       B = 0-t akkor kapunk, ha γ = F0 /c, ilyenkor tehát egyáltalán nin s visszaver®dés.
-    Megjegyzés. A b) és c) kérdésekre válaszolhatunk energetikai megfontolásokkal is. Ehhez a hullám  mozgási és rugalmas
-helyzeti energiából származó  energias¶r¶ségét kell meghatározni.
+    Megjegyzés. A b) és c) kérdésekre válaszolhatunk energetikai megfontolásokkal is. Ehhez a hullám   mozgási és rugalmas
+helyzeti energiából származó   energias¶r¶ségét kell meghatározni.
                                                               ∗
       Az ünnepélyes eredményhirdetésre és díjkiosztásra 2019. november 22-én délután került sor az ELTE TTK Konfe-
 ren iatermében. Jelen volt a 70 évvel ezel®tti, háború utáni els® Eötvös-verseny gy®ztese, Holi s László, aki pár szóban
 visszaemlékezett erre a versenyre. Meghívást kaptak az 50 és 25 évvel ezel®tti Eötvös-verseny nyertesei is. Az 50 év-
 vel ezel®tti díjazottak közül Láz József volt jelen, a 25 évvel ezel®tti díjazottak közül pedig Horváth Péter, Ková s
-Krisztián, Tóth Gábor Zsolt és Varga Dezs® jött el  ®k pár mondatban beszéltek a pályafutásukról.
+Krisztián, Tóth Gábor Zsolt és Varga Dezs® jött el   ®k pár mondatban beszéltek a pályafutásukról.
       Ezután következett a 2019. évi verseny feladatainak és megoldásainak bemutatása. Az 1. feladat megoldását Ti hy
 Géza, a 2. feladatét Vigh Máté, a 3. feladatét Vankó Péter ismertette.
       Az esemény végén került sor az eredményhirdetésre. A díjakat Sólyom Jen®, az Eötvös Loránd Fizikai Társulat
 elnöke adta át.
-      Mindhárom feladat helyes megoldásáért I. díjban részesült Elek Péter, a BME zika BS . szakos hallgatója,
+      Mindhárom feladat helyes megoldásáért I. díjban részesült Elek Péter, a BME  zika BS . szakos hallgatója,
 a Debre eni Református Kollégium Dó zy Gimnáziumának érettségizett tanulója, Tófalusi Péter tanítványa.
       Két feladat hibátlan megoldásáért, illetve mindhárom feladat kisebb hibákkal való megoldásáért II. díjban részesült
 Bokor Endre, a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium 11. osztályos tanulója, S hramek
 Anikó tanítványa, Fajszi Bul sú, a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium 12. osztályos
-tanulója, Horváth Gábor tanítványa, valamint Fitos Ben e, a BME zika BS . szakos hallgatója, a Budapesti Németh
+tanulója, Horváth Gábor tanítványa, valamint Fitos Ben e, a BME  zika BS . szakos hallgatója, a Budapesti Németh
 László Gimnázium érettségizett tanulója, Szászvári Irén és Dégen Csaba tanítványa.
-      Két feladat lényegében helyes megoldásáért III. díjban részesült Csépányi István, a BME zika BS . szakos
+      Két feladat lényegében helyes megoldásáért III. díjban részesült Csépányi István, a BME  zika BS . szakos
 hallgatója, az Egri Szilágyi Erzsébet Gimnázium érettségizett tanulója, Szabó Miklós tanítványa, Máth Benedek
-Huba, a BME zika BS . szakos hallgatója, a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium
+Huba, a BME  zika BS . szakos hallgatója, a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium
 érettségizett tanulója, Horváth Gábor és Nagy Piroska Mária tanítványa, Olosz Adél, a BME épít®mérnöki BS .
 szakos hallgatója, a PTE Gyakorló Általános Iskola és Gimnázium érettségizett tanulója, Kon z Károly tanítványa,
-valamint Svastits Domonkos, a BME zika BS . szakos hallgatója, a budapesti Piarista Gimnázium érettségizett
+valamint Svastits Domonkos, a BME  zika BS . szakos hallgatója, a budapesti Piarista Gimnázium érettségizett
 tanulója, Chikán Éva tanítványa.
-      Egy feladat hibátlan megoldásáért di séretben részesült Kondákor Márk, a BME zika BS . szakos hallgatója,
+      Egy feladat hibátlan megoldásáért di séretben részesült Kondákor Márk, a BME  zika BS . szakos hallgatója,
 a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium érettségizett tanulója, Horváth Gábor és Nagy
-Piroska Mária tanítványa, Magyar Róbert Attila, a BME zika BS . szakos hallgatója, az Egri Dobó István Gim-
+Piroska Mária tanítványa, Magyar Róbert Attila, a BME  zika BS . szakos hallgatója, az Egri Dobó István Gim-
 názium érettségizett tanulója, Hóbor Sándor tanítványa, valamint Pá sonyi Péter, a Zalaegerszegi Zrínyi Miklós
 Gimnázium 12. osztályos tanulója, Pálovi s Róbert tanítványa.
       Az els® díjjal a verseny plakettjén kívül az NKFI Hivatal által nyújtott támogatásból 70 ezer, a második díjjal

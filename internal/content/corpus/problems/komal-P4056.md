@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200803"
 verification_status: pending
 ---
 
-An object of mass m is projected vertically up with a speed of v $_{0}$. At the same moment another object of mass  M , which is initially above the projected one, is dropped from a height of  h . The two pointlike objects collide totally inelastically, and they stick to each other. 
- With what speed will they hit the ground? 
- (Data: m =1.25 kg, v $_{0}$=19 m/s, M =2 kg, h =20 m.) 
+An object of mass m is projected vertically up with a speed of v $_{0}$. At the same moment another object of mass  M , which is initially above the projected one, is dropped from a height of  h . The two pointlike objects collide totally inelastically, and they stick to each other.
+ With what speed will they hit the ground?
+ (Data: m =1.25 kg, v $_{0}$=19 m/s, M =2 kg, h =20 m.)
  (4 pont)

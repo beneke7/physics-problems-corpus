@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates, choose-reference-frame]
 ---
 
-A rod of length L =35 cm, and of negligible mass is held at an unstable equilibrium on a horizontal frictionless plane. Small balls of mass m =0.2 kg are attached to the ends of the rod. At a certain instant the rod is released. a ) What are values of the kinetic energy of the balls when the ball initially at the top hits the ground? b ) What are the velocities (both magnitude and direction) of the balls when the angle between the rod and the vertical is 60$^\circ$? 
+A rod of length L =35 cm, and of negligible mass is held at an unstable equilibrium on a horizontal frictionless plane. Small balls of mass m =0.2 kg are attached to the ends of the rod. At a certain instant the rod is released. a ) What are values of the kinetic energy of the balls when the ball initially at the top hits the ground? b ) What are the velocities (both magnitude and direction) of the balls when the angle between the rod and the vertical is 60$^\circ$?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4351-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4351-fig1.gif)

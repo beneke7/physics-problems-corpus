@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 An empty tin can has radius r = 50 ± 1mm, height h = 150 ± 1mm, and a wall, base, and top
@@ -79,27 +81,29 @@ t2
 = −g sinθ +
 τ
 rw
-
+
 r2
 I
 +
 1
 m
-
+
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Therefore, we can plot 4πntrw/t2 versus τ, while varying both nt and τ. The slope a and
 intercept b of this line are then
 a =
 1
 rw
-
+
 r2
 I
 +
 1
 m
-
+
 , b = −g sinθ
 from which we can extract the desired parameters as
 θ = −sin−1
@@ -133,7 +137,9 @@ q2v2
 .
 You could also derive this result from dimensional analysis. For a derivation from first
 principles, see application 14.5 of Zangwill.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Question A3
 A particle of mass m and charge q is in a homogeneous magnetic field Bẑ. The system is situated
 in between two parallel electrodes, which can be used to create a homogeneous electric field Ex̂.
@@ -155,7 +161,9 @@ the x and y axes.
 3. For the answer in momentum space, see the figure for the official solution to part 5. This case
 isn’t fundamentally different from having a constant electric field, so the trajectory in real
 space is a cycloid, as you’ve found in E4.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 This question consists of several independent parts. Each of them asks for an estimate of an order
@@ -193,7 +201,9 @@ each of them has radius r = 4µm and length L = 1mm and operates under a pressur
 difference ∆p = 1kPa.
 (a) How many capillary vessels are in the human body?
 (b) How large is the velocity v with which blood is flowing through a capillary vessel?
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 3. At the bottom of a 1000m high skyscraper, the outside temperature is Tbot = 30◦ C. The
 objective is to estimate the outside temperature Ttop at the top. Consider a thin slab of air
 (ideal nitrogen gas with adiabatic coefficient γ = 7/5) rising slowly to height z where the
@@ -227,7 +237,9 @@ dE
 dT
 where E is the average energy of each electron.
 1. What is the value of cV in classical physics?
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Experimentally it has been found that cV is very different from the classical expectation. This
 is because the electrons obey quantum statistics rather than classical statistics. In the quantum
 theory, the number of states dS for the conduction electrons within an energy range dE is

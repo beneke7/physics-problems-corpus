@@ -99,7 +99,7 @@ r
 görbületi nyomás!) Nem kaphattak helyes eredményt.
 2. Sokan a felemelkedett vízmennyiség súlyát tették egyenl®vé a felületi feszültségb®l származó, felfelé húzó er®vel.
 Ez azért hibás, mert a ferde, nem függ®leges üveglemezek által kifejtett nyomóer®nek is van függ®leges összetev®je, amit
-az er®egyensúlynál 
+az er®egyensúlynál
 gyelembe kellene venni. A probléma hasonló ahhoz, ami a jól ismert hidrosztatikai paradoxonnál
 jelentkezik.
 3. Néhányan energetikailag próbálták megoldani a feladatot úgy, hogy a felemelkedett víz helyzeti energiáját tették

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3823. Miért nem látjuk sötétebbnek a tőlünk 6 méterre lévő almát, mint a 2 méterre lévőt? A messzebb lévő almáról kevesebb fény jut a szemünkbe, vagy nem? 
+P. 3823. Miért nem látjuk sötétebbnek a tőlünk 6 méterre lévő almát, mint a 2 méterre lévőt? A messzebb lévő almáról kevesebb fény jut a szemünkbe, vagy nem?
  Öveges József fizikaverseny, Tata

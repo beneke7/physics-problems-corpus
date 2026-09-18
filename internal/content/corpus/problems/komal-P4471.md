@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201210"
 verification_status: pending
 ---
 
-Two batteries of voltage 3 V is connected in parallel. Their internal resistances are 3  , and 2  . Then an external resistor of resistance 10  is connected to the batteries. What will the terminal voltage and the current through the batteries be? 
+Two batteries of voltage 3 V is connected in parallel. Their internal resistances are 3  , and 2  . Then an external resistor of resistance 10  is connected to the batteries. What will the terminal voltage and the current through the batteries be?
  (4 pont)

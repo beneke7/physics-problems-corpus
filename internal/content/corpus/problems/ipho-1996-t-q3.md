@@ -43,7 +43,7 @@ a) The moon and the earth rotate with angular velocity $\omega$ about their comm
 Determine the numerical value of $\omega$. (2 points)
 
 We now use a frame of reference that is co-rotating with the moon and the center of the earth around $C$. In this frame of reference the shape of the liquid surface of the earth is static.
-![](ipho-1996-t-q3-fig01.png)
+![](../../figures/ipho/figures/ipho-1996-t-q3-fig01.png)
 
 In the plane $P$ through $C$ and orthogonal to the axis of rotation the position of a point mass on the liquid surface of the earth can be described by polar coordinates $r, \varphi$ as shown in the figure. Here $r$ is the distance from the centre of the earth.
 
@@ -73,7 +73,7 @@ $$
 valid for $a$ much less than unity.
 In this analysis make simplifying approximations whenever they are reasonable. (5 points)
 
-# $27{ }^{\text {th }}$ INTERNATIONAL PHYSICS OLYMPIAD OSLO, NORWAY 
+# $27{ }^{\text {th }}$ INTERNATIONAL PHYSICS OLYMPIAD OSLO, NORWAY
 
 THEORETICAL COMPETITION
 JULY 21996

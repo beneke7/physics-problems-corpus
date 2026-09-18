@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy fonalat csigán vetünk át, végeire két azonos tömegű testet erősítünk. Kezdetben a két test azonos magasságban van. Az egyiknek pillanatszerűen kis vízszintes $v$ sebességet adunk. A két test közül melyik jut magasabbra a további mozgás során? A csiga tömege elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr33-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr33-fig1.jpg)

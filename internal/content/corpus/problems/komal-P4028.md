@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, scaling-and-dimensional-analysis]
 ---
 
-The bore diameter (inner diameter of the cylinder) of an older-type four-cylinder, four-stroke automobil engine is 92 mm. The piston stroke length is also 92 mm. The average gauge pressure in the cylinder during power stroke is 5.6$^{.}$10$^{5}$ Pa. The number of revolution of the main axle is 4500 rev/min. Calculate the ``theoretical'' power of the engine. 
+The bore diameter (inner diameter of the cylinder) of an older-type four-cylinder, four-stroke automobil engine is 92 mm. The piston stroke length is also 92 mm. The average gauge pressure in the cylinder during power stroke is 5.6$^{.}$10$^{5}$ Pa. The number of revolution of the main axle is 4500 rev/min. Calculate the ``theoretical'' power of the engine.
  (5 pont)

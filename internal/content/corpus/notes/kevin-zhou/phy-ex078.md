@@ -45,7 +45,6 @@ that the adjoint action of the Lie algebra so(3) on itself is the cross product.
 Note. Noncommutativity in the Lie group reflects a nontrivial Lie bracket. The first manifestation
 of this is the fact that
                              etg eth e−tg e−th = 1 + t2 [g, h] + . . .
-168 7. Angular Momentum
 
 
 This tells us that a nonzero Lie bracket causes the corresponding group elements to not commute;
@@ -95,7 +94,6 @@ Next we consider quantum spin, focusing on the case of spin 1/2.
                                               [Ji , Jj ] = iℏϵijk Jk .
 
       This can be shown directly by considering the commutator of infinitesimal rotations.
-169 7. Angular Momentum
 
 
  • The operators J generate rotations, the factor of i makes them Hermitian, and the factor of
@@ -103,7 +101,7 @@ Next we consider quantum spin, focusing on the case of spin 1/2.
    momentum operator of the system.
 
  • With this definition, near-identity rotations take the form
-                                                                                 
+
                                     i                                     i
                      U (n̂, θ) = 1 − θn̂ · J + . . . ,   U (n̂, θ) = exp − θn̂ · J .
                                     ℏ                                     ℏ
@@ -151,11 +149,10 @@ Next we consider quantum spin, focusing on the case of spin 1/2.
                                     U = x0 + ix · σ,       x2i = 1
 
    so SU (2) is topologically S 3 . The xi are called the Cayley-Klein parameters.
-170 7. Angular Momentum
 
 
 Note. Euler angle decomposition also works for spinor rotations, with
-                                                                                   −iθ/2       
+                                                                                        −iθ/2
                cos θ/2   −i sin θ/2                 cos θ/2 − sin θ/2                  e        0
  U (x̂, θ) =                         , U (ŷ, θ) =                      , U (ẑ, θ) =                 .
               −i sin θ/2  cos θ/2                    sin θ/2 cos θ/2                     0    eiθ/2

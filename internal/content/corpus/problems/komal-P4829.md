@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns, extremization]
 ---
 
-Two stars of different masses $m_1$ and $m_2$ are moving in the gravitational field of each other, while there are no other forces exerted on them. At a certain moment the distance between them is $d_0$, and their velocities (magnitude and direction) are such, as if they revolve about their common centre of mass at an angular speed of $\omega_0$. 
- $a)$ What is the maximum value of $\omega_0$ if $d_0$ is the greatest distance between the two stars, and what is the minimum value of $\omega_0$ if $d_0$ is the least distance between the two stars? 
- $b)$ What is the value of $\omega$ if the gravitational field cannot keep the system together? 
- $c)$ What is the period when gravitation keeps the system together? 
+Two stars of different masses $m_1$ and $m_2$ are moving in the gravitational field of each other, while there are no other forces exerted on them. At a certain moment the distance between them is $d_0$, and their velocities (magnitude and direction) are such, as if they revolve about their common centre of mass at an angular speed of $\omega_0$.
+ $a)$ What is the maximum value of $\omega_0$ if $d_0$ is the greatest distance between the two stars, and what is the minimum value of $\omega_0$ if $d_0$ is the least distance between the two stars?
+ $b)$ What is the value of $\omega$ if the gravitational field cannot keep the system together?
+ $c)$ What is the period when gravitation keeps the system together?
  (6 pont)

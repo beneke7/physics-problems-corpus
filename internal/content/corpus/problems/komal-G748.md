@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A 20-cm long upside down test-tube, whose bottom part is filled with water and whose top part contains air (a Cartesian diver), is placed into a tall graduated cylinder, filled with water. The top of the test-tube is a bit above the level of the water in the cylinder. The top of the graduated cylinder is covered with a sheet of rubber, and then this rubber sheet is pressed down such that the pressure inside the test-tube increases by 5 kPa. At this moment the ``diver'' starts to move downwards. 
+A 20-cm long upside down test-tube, whose bottom part is filled with water and whose top part contains air (a Cartesian diver), is placed into a tall graduated cylinder, filled with water. The top of the test-tube is a bit above the level of the water in the cylinder. The top of the graduated cylinder is covered with a sheet of rubber, and then this rubber sheet is pressed down such that the pressure inside the test-tube increases by 5 kPa. At this moment the ``diver'' starts to move downwards.
 
- $a)$ What was the height of the air in the test-tube when the ``diver'' started to sink? 
- $b)$ What is the minimum height of the graduated cylinder, if the ``diver'' stays at the bottom of the cylinder even if the rubber sheet is taken away from the top of the cylinder? 
+ $a)$ What was the height of the air in the test-tube when the ``diver'' started to sink?
+ $b)$ What is the minimum height of the graduated cylinder, if the ``diver'' stays at the bottom of the cylinder even if the rubber sheet is taken away from the top of the cylinder?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G748-fig1.gif)
+![figure](../../figures/komal/figures/komal-G748-fig1.gif)

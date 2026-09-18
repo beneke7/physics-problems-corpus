@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5395. Egy éve, 2021 márciusában megérkezett az első hangüzenet a Perseverance marsjárótól ( go.nasa.gov/3ly2OE4 ). Mekkora lehet a hangsebesség a Mars légkörében? 
+P. 5395. Egy éve, 2021 márciusában megérkezett az első hangüzenet a Perseverance marsjárótól ( go.nasa.gov/3ly2OE4 ). Mekkora lehet a hangsebesség a Mars légkörében?
  Újsághír alapján

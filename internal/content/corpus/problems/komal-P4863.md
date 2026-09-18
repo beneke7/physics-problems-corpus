@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, smart-coordinates]
 ---
 
-The density of electric charge on the surface of a plastic sphere of diameter 10 cm is $10~\mu{\rm C/m}^2$. The sphere is rotated about one of its diameter at a number of revolutions of 10 s${}^{-1}$. Determine both the direction and the magnitude of the magnetic induction at the centre of the sphere. 
+The density of electric charge on the surface of a plastic sphere of diameter 10 cm is $10~\mu{\rm C/m}^2$. The sphere is rotated about one of its diameter at a number of revolutions of 10 s${}^{-1}$. Determine both the direction and the magnitude of the magnetic induction at the centre of the sphere.
  (6 pont)

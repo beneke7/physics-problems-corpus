@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201402"
 verification_status: pending
 ---
 
-A uniform, 1-metre long uninsulated resistance wire, the cross section of which is everywhere constant, is connected to a power supply, the terminal voltage of which is stabilized. One terminal of a resistor, whose resistance is the same as the resistance wire is connected to the end of the resistance wire, whilst the other terminal is moved along the resistance wire. 
- Where is the pointer of the moving terminal, when the power dissipated on the resistor is one-quarterth of the maximum power dissipated at the resistor? 
+A uniform, 1-metre long uninsulated resistance wire, the cross section of which is everywhere constant, is connected to a power supply, the terminal voltage of which is stabilized. One terminal of a resistor, whose resistance is the same as the resistance wire is connected to the end of the resistance wire, whilst the other terminal is moved along the resistance wire.
+ Where is the pointer of the moving terminal, when the power dissipated on the resistor is one-quarterth of the maximum power dissipated at the resistor?
  (4 pont)

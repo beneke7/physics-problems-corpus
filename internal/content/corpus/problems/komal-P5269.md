@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, differential-element, auxiliary-unknowns]
 ---
 
-What frequency sinusoidal AC supply is to be connected to the assembled elements shown in the figure in order that the arrangement have infinite resistance? 
+What frequency sinusoidal AC supply is to be connected to the assembled elements shown in the figure in order that the arrangement have infinite resistance?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5269-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5269-fig1.gif)

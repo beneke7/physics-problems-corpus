@@ -24,4 +24,4 @@ Határozzuk meg az ábrán látható áramkör időállandóját (vagyis a konde
 (c) Határozzuk meg a szükséges $C$ kapacitást.
 (d) Határozzuk meg a diódán disszipálódó átlagos teljesítményt a váltakozó bemeneti feszültség első periódusát közvetlenül követő
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr74-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr74-fig1.jpg)

@@ -59,7 +59,9 @@ Instructions
 
 Please note that alternate/equivalent methods and diﬀerent way of expressing
     ﬁnal solutions may exist. A correct method will be suitably awarded.
-Page 2      Code 65                       Questions               Last six digits of Roll No.:
+
+
+Page 2      Code 65                       Questions               Last six digits of Roll No.:
 
 1. The ammeter-voltmeter method is widely used for measuring electrical resistances in the physics
    laboratory. In this method, the resistance R is always derived from the readings V and I from a
@@ -120,7 +122,9 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
 
             1. We use the conﬁguration shown below. When the switch is in position 1, ammeter
                and voltmeter are in parallel and we calculate RA = V /I.
-Page 3     Code 65                        Questions
+
+
+Page 3     Code 65                        Questions
 
 
 
@@ -137,7 +141,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
 2. [8 marks] Prof. Saha gave the following problem to four students.
   In this problem work done by a system on its surroundings is taken as positive. A non-ideal gas
   follows the Van der Waals equation of state
-                                             
+
                                          n2 a
                                       P + 2 (V − nb) = nRT
                                          V
@@ -155,7 +159,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                  (Ti − Tf ) + n a(Vf − Vi )
                                 2           −1      (c) W  =        (Ti − Tf ) + n2 a(Vfα−1 − Viα−1 )
   (a) W =                                                     α − 1            "
-            α−1                                                                               α−1 #
+            α−1                                                                                 α−1 #
              nR                                                nR                     V   − nb
                  (Tf − Ti ) + n2 a(Vf−1 − Vi−1 )
                                                                                         f
@@ -178,7 +182,9 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
 
     (b) For adiabatic expansion, Tf < Ti and Vf > Vi . Therefore, in this case W < 0, which is
         incorrect.
-Page 4      Code 65                       Questions            Last six digits of Roll No.:
+
+
+Page 4      Code 65                       Questions            Last six digits of Roll No.:
 
 
     (c) From Van der Waals equation, a/V has dimensions of energy. So aV α−1 cannot have
@@ -201,7 +207,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                       mv 2    2e2
                                            =                                                    (3.1)
                                        r     4πϵ0 r2
-                                                             1/2
+                                                               1/2
                                               v          2           e
                                          f=       =                                             (3.2)
                                              2πr       4πϵ0 m      2πr3/2
@@ -240,7 +246,9 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                        −Ė(r) = −K                                       (3.6)
                                                   (4πϵ0 )2 ϵ0 c3 m2 r4
          Here negative sign indicates that the energy of the electron is decreasing. Combining
-Page 5       Code 65                           Questions
+
+
+Page 5       Code 65                           Questions
 
 
           Eqs. (3.4) and (3.6)
@@ -295,7 +303,9 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                         =⇒        =     = k(say)
                                               f1    f3
                                =⇒ d12 = kf1 and d23 = kf3
-Page 6      Code 65                         Questions                 Last six digits of Roll No.:
+
+
+Page 6      Code 65                         Questions                 Last six digits of Roll No.:
 
 
      From the lens equation for lens L2 ,
@@ -361,7 +371,9 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
 
 
          Given, ω = angular speed of rotation; ⃗u = velocity of throwing
-Page 7     Code 65                       Questions
+
+
+Page 7     Code 65                       Questions
 
 
          θ = Projection angle with respect to horizontal
@@ -397,22 +409,22 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                                   cos2 α
                                =⇒ ϕ = tan−1 (tan α + α sec2 α)                                  (5.4)
          Squaring eqs. (5.1), (5.2), (5.3) and adding,
-                                         
-                                      Rω 2  4                                              gα 2
+
+                                      Rω 2   4                                                gα  2
            u2 cos2 θ + u2 sin2 θ =            cos α + sin2 α cos2 α + α2 + 2α sin α cos α +
                                        α                                                      ω
-                                         2                                     
-                                      Rω  2                                   gα 2
+                                           2
+                                      Rω   2                                    gα 2
                         =⇒ u2 =               cos α + 2α sin α cos α + α2 +                     (5.5)
                                        α                                        ω
                                   "                                                  #1/2
-                                     gα 2  Rω 2                                
+                                      gα  2   Rω  2
                       =⇒ u =                +          cos2 α + 2α sin α cos α + α2             (5.6)
                                       ω          α
 
          From (5.3) and (5.6),
                               "                                                #−1/2 
-                           gα     gα 2  Rω 2                              
+                           gα      gα  2   Rω  2
                θ = sin−1               +         cos2 α + 2α sin α cos α + α2                 (5.7)
                            ω       ω        α
 
@@ -431,11 +443,13 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                                                       √
                                   f (α) = tan α + α sec2 α = tan 60° = 3
          This equation cannot be solved analytically. We use trial values of α to ﬁnd the solution
-Page 8     Code 65                            Questions              Last six digits of Roll No.:
+
+
+Page 8     Code 65                            Questions              Last six digits of Roll No.:
 
 
          by interpolation.
-                                                        
+
                                              1   π   2 2            √
                                   f (π/6) = √ +      √     = 1.275 < 3
                                               3 6      3
@@ -468,7 +482,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
          This is a special case of the above, where α = . Using the above results,
                                                        4
                                       "                               #
-                                         gπ 2  4Rω 2  1 π π 2  1/2
+                                          gπ  2   4Rω  2   1 π π 2   1/2
                                 uD =           +            + +                                     (5.8)
                                           4ω        π      2 4    16
 
@@ -479,41 +493,43 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
 
          Solution:
          This can be determined by ﬁnding the minimum of uD , or equivalently, u2D . From (5.8),
-                                        gπ 2  4Rω 2  1 π π 2 
+                                         gπ  2   4Rω  2   1 π π 2
                                   2
                                  uD =         +            + +
                                          4ω         π     2 4     16
-                                                                          
+
                          d(u2D )               (gπ)2 32R2 ωm 1 π π 2
                       ∴             = 0 =⇒ −      3
                                                      +           + +         =0
                           dω ωm                 8ωm     π2      2 4     16
                                                               g2π4
                                                   4
-                                              =⇒ ωm =                    
+                                              =⇒ ωm =
                                                            2
                                                               1 π π2
                                                       256R      + +
                                                               2 4      16
-                                                                     −1/4 r
+                                                                       −1/4 r
                                                        π 1 π π2               g
                                               =⇒ ωm =        + +
                                                        4 2 4       16         R
          Also,
-                                                              
+
                               d2 (u2D )   3(gπ)2 32R2 1 π π 2
                                         =       +       + +      > 0.
                                dω 2 ωm       4
                                            8ωm    π2   2 4  16
          implying u2D is minimum at ω = ωm .
-                                                        1/2                       1/2
+                                                          1/2                         1/2
                                               1 π π2                       1 π π2
                              ∴ u2m = gR        + +              + gR        + +
                                               2 4  16                      2 4  16
-Page 9     Code 65                      Questions
 
 
-                                                          1/4
+Page 9     Code 65                      Questions
+
+
+                                                            1/4
                                                  1 π π2           p
                                   =⇒ um =         + +              2gR
                                                  2 4  16
@@ -523,7 +539,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                                     λ
                                              u2D = 2 + µω 2
                                                     ω
-                     gπ 2           2                 
+                      gπ  2             2
                                       4R       1 π π2
          where λ =          > 0, µ =             + +         > 0.
                        4               π       2 4      16
@@ -532,7 +548,7 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                      u2D =        − ω µ + 2 λµ.
                                                ω
          The ﬁrst term can be made zero by the choice of
-                                                      1/4
+                                                        1/4
                                                        λ
                                             ω = ωm =
                                                        µ
@@ -566,22 +582,24 @@ Please note that alternate/equivalent methods and diﬀerent way of expressing
                                   tan ϕ =    =⇒ ϕ = tan−1 = 57.52◦
                                            2                2
          Squaring eqs. (5.10) and (5.9), and adding,
-                                                       
+
                                     2    2          4
                                    u cos θ = gR 2 + 1
                                                     π
-                                               2         1/2
+                                                2          1/2
                                          p     π      4              p
                                =⇒ u = gR           + 2 +1      = 1.97 gR                  (5.12)
                                                 4     π
          Using eqs. (5.11) and (5.12),
-                                           −1/2
+                                             −1/2
                                π π2    4
                        sin θ =       + 2 +1       =⇒ θ = sin−1 (0.80) = 52.96◦
                                2 4     π
 
 
                      **** END OF THE QUESTION PAPER ****
-Page 10   Code 65          Questions    Last six digits of Roll No.:
+
+
+Page 10   Code 65          Questions    Last six digits of Roll No.:
 
      Space for rough work — will NOT be submitted for evaluation

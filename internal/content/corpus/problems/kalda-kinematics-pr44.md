@@ -19,4 +19,4 @@ verification_status: pending
 
 A heavy disk of radius $R$ is rolling downwards, unwinding two strings in the process. The strings are attached to the ceiling and always remain under tension during the motion. What was the magnitude of velocity of the disk's centre when its angular velocity was $\omega$ and the angle between the strings was $\alpha$ ?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr44-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr44-fig1.jpg)

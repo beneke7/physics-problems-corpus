@@ -30,7 +30,6 @@ Példa. Egy nemrelativisztikus, elektromágneses térben mozgó részecske Hamil
 ahol p = mṙ + eA a kanonikus impulzus. Látható, hogy a Hamilton-függvény számértéke
 mágneses tér hozzáadásakor változatlan marad, ami azt tükrözi, hogy a mágneses terek nem végeznek munkát,
 az időfejlődést azonban befolyásolja, mivel a kanonikus impulzus különböző.
-17 1. Klasszikus mechanika
 
 
    Relativisztikus részecskénél ugyanezt az eljárást alkalmazhatjuk S1-re, ahol a Lagrange-függvényt
@@ -70,7 +69,7 @@ A Hamilton-mechanika néhány szép elméleti eredményhez vezet.
                                               ∂pi                    ∂qi
     Ekkor a Jacobi-mátrix
                                I + (∂ 2 H/∂pi ∂qj )dt (∂ 2 H/∂pi ∂pj )dt
-                                                                         
+
                        J=                                                   .
                                 −(∂ 2 H/∂qi ∂qj )dt I − (∂ 2 H/∂qi ∂pj )dt
 
@@ -87,7 +86,6 @@ A Hamilton-mechanika néhány szép elméleti eredményhez vezet.
 
   • Liouville tétele akkor is érvényes, ha az energia nem marad meg, például külső tér esetén. A tétel
     disszipáció jelenlétében nem érvényes, mert ilyenkor egyáltalán nincs Hamilton-féle leírás.
-18 1. Klasszikus mechanika
 
 
  • A Poincaré-féle visszatérési tétel szerint korlátos fázisterű rendszerben egy kezdeti pontból
@@ -142,7 +140,6 @@ A Poisson-zárójelek formalizmusa szorosan analóg a kvantummechanikával.
 
       így a Poisson-zárójellel ellátott függvények tere Lie-algebra. Ennek következtében a
       megmaradó mennyiségek Lie-zárójelei is megmaradnak, tehát a megmaradó mennyiségek Lie-részalgebrát alkotnak.
-19 1. Klasszikus mechanika
 
 
   • A hely és az impulzus Poisson-zárójelei mindig

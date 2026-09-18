@@ -36,7 +36,7 @@ Most formálisan bevezetjük a Bose–Einstein-eloszlást. Az egyszerűség kedv
   • Tekintsünk egy olyan részecskekonfigurációt, amelyben ni részecske van az i állapotban, és
                                                                                 P
     i ni = N . A Maxwell–Boltzmann-eloszlásban a részecskéket megkülönböztethetőnek tekintjük, majd a végén elosztunk N !-lal, ezért ennek a konfigurációnak a valószínűsége arányos
-                                                   
+
                                     1 N        N − n1          Y 1
                                                         ··· =          .
                                     N ! n1       n2               ni !
@@ -47,7 +47,6 @@ Most formálisan bevezetjük a Bose–Einstein-eloszlást. Az egyszerűség kedv
   • Amíg minden ni nulla vagy egy (a klasszikus határátmenet), a két módszer megegyezik. Ha azonban diszkrét kvantumállapotokat vezetünk be, az N !-lal való egyszerű osztás többé nem „visz át minket a megkülönböztethető részecskéktől a megkülönböztethetetlenekhez”. Azok az állapotok, amelyekben egyes energiaszintek többszörösen foglaltak, nem kapnak elegendő súlyt.
 
   • Hasonlóképpen, a Fermi–Dirac-eloszlás is megegyezik a klasszikus eredménnyel, amíg ⟨ni ⟩ ≪ 1.
-78 3. Statisztikus mechanika
 
 
  • Másképpen fogalmazva a klasszikus esetben azt képzeljük, hogy minden részecskére festhetünk címkét; a végén N !-lal osztunk, mert a címkék önkényesek. Ez azonban tökéletlen közelítése a valódi megkülönböztethetetlenségnek, mert amikor két részecske ugyanabba az állapotba kerül, el kell veszítenünk a címkék nyomon követését!
@@ -97,17 +96,16 @@ Most formálisan bevezetjük a Bose–Einstein-eloszlást. Az egyszerűség kedv
                                   N    z         z
                                     = 3 1 + √ + ···
                                   V    λ        2 2
-79 3. Statisztikus mechanika
 
 
     Annak belátásához, hogy z ≪ 1 magas hőmérsékleti kifejtést jelent, vegyük észre, hogy itt z ∼ λ3 ∼ T −3/2 . Ezután hasonlóan kifejtjük az energiát:
-                                                           
+
                                    E     3z        z
                                       = 3      1 + √ + ··· .
                                    V    2λ β      4 2
     E két egyenletet összevetve az ideális gáz törvényének első korrekciója:
                                                       λ3 N
-                                                                
+
                                 pV = N kB T 1 − √           + ... .
                                                      4 2V
     A nyomás kisebb; ennek fizikai szemlélete az, hogy a bozonok „szeretnek összetömörülni”, mivel hiányoznak az 1/nr ! súlyok, amelyekkel a klasszikus gáz rendelkezik.
@@ -152,7 +150,6 @@ Stirling-közelítést használva az entrópia:
                                 X
              S = kB log Ω = kB     (Ns + Ms ) log(Ns + Ms ) − Ns log Ns − Ms log Ms .
                                     s
-80 3. Statisztikus mechanika
 
 
 Másrészt tudjuk, hogy dS = dU/T − (µ/T )dN , ahol
@@ -175,9 +172,9 @@ Most ezeket az eredményeket használjuk a Bose–Einstein-kondenzáció vizsgá
                                                  =
                                                V     λ3
     a g3/2 (z) mennyiségnek növekednie kell, ahogy λ3 nő. Tudjuk azonban, hogy g3/2 (z) maximális értéke g3/2 (1) = ζ(3/2), ezért ez a kritikus hőmérséklet alatt lehetetlen:
-                                                                   2/3
+                                                                    2/3
                                                2πℏ2
-                                                      
+
                                                             n
                                         Tc =
                                                kB m       ζ(3/2)
@@ -191,7 +188,6 @@ Most ezeket az eredményeket használjuk a Bose–Einstein-kondenzáció vizsgá
     T < Tc esetén z nagyon közel kerül az egyhez (z ∼ 1 − 1/N ), és a második tag pótolja az elsőt. T → 0 esetén minden részecske az alapállapotban ül.
 
   • Azt mondjuk, hogy T < Tc esetén a rendszer Bose–Einstein-kondenzátumot (BEC) alkot. Mivel egy BEC-ben a nem kondenzált részecskék száma rögzített hőmérsékleten független a sűrűségtől, a BEC állapotegyenlete sem függ a sűrűségtől.
-81 3. Statisztikus mechanika
 
 
   • A fázisátmenet viselkedésének explicit megfigyeléséhez vegyük észre, hogy z → 1 esetén megmutatható:
@@ -199,7 +195,7 @@ Most ezeket az eredményeket használjuk a Bose–Einstein-kondenzáció vizsgá
                                    g3/2 (z) ≈ ζ(3/2) + A 1 − z + . . . .
 
 A Tc definícióját alkalmazva:
-                                   3/2
+                                     3/2
                                      T          √     1 1
                                             −1∼A 1−z−       .
                                     Tc                N 1−z
@@ -233,7 +229,6 @@ Megjegyzés. Hogyan kondenzálódhatnak a bozonikus atomok ugyanabba az állapot
                                       c† ∼      φ(k) a†k b†−k
                                            V
                                                 k
-82 3. Statisztikus mechanika
 
 
 ahol φ(k) az 1s állapot impulzustérbeli hullámfüggvénye, az a†k és b†k operátorok pedig egy k impulzusú protont és elektront keltenek. A kizárási elv miatt a†k és b†k négyzete egyaránt nulla, de c† négyzete nem az. Egy atomnak az állapothoz való hozzáadása után:
@@ -251,7 +246,6 @@ Most a fermionokra térünk át, amelyek Fermi–Dirac-statisztikát követnek.
                                 Zr = 1 + e−β(Er −µ)           ⟨nr ⟩ =                   .
                                                                         eβ(Er −µ) + 1
       Az nr -re kapott kifejezést Fermi–Dirac-eloszlásnak nevezzük; csak egy előjelben tér el a Bose–Einstein-eloszlástól. Mivel itt nincsenek konvergenciaproblémák, µ pozitív is lehet.
-83 3. Statisztikus mechanika
 
 
   • Az N , E és pV kifejezése szinte azonos a Bose-gáz esetével, ismét csak néhány előjelben tér el. A korábbiakhoz hasonlóan pV = (2/3)E. A további mínuszjelek magas hőmérsékleten a klasszikus gáz nyomásához képest elsőrendű nyomásnövekedést okoznak.
@@ -271,7 +265,6 @@ Most a fermionokra térünk át, amelyek Fermi–Dirac-statisztikát követnek.
                 β        β                                                 0                       5
 
       Ezt a zérus hőmérsékleti nyomást degenerációs nyomásnak nevezzük.
-84 3. Statisztikus mechanika
 
 
   • Ezután vizsgáljuk a részecskeszám- és energiasűrűséget nulla hőmérséklet közelében:
@@ -310,14 +303,13 @@ ami a gn függvények fermionos megfelelője. Ekkor
                                 N  gs               E   3 gs
                                   = 3 f3/2 (z),       =      kB T f5/2 (z)
                                 V  λ                V   2 λ3
-85 3. Statisztikus mechanika
 
 
 ahol g(E) alakját behelyettesítettük, gs pedig a spinállapotok száma. Az fn (z) függvényt nagy z esetén szeretnénk kifejteni. Végtelen z-nél az integrandusok egyszerűen xn−1 θ(βµ − x) alakúak, ezért az integrál (βµ)n /n.
     Nagy z esetén az integrandusok még mindig közelítőleg lépcsőfüggvényt tartalmaznak. Ekkor célszerű a lépcsőfüggvénytől való eltérést két részre bontással leválasztani:
-                                 Z βµ                         Z ∞
+                                 Z βµ                          Z ∞
                                                                              xn−1
-                                              
+
                                           n−1           1
                    Γ(n)fn (z) =       dx x      1−              +     dx              .
                                   0                 1 + ze−x       βµ     z −1 ex + 1
@@ -338,18 +330,18 @@ Ez az integrál az e−η nevező mértani sorként való kifejtésével számí
                             P                     P
 
                                      (log z)n     π 2 n(n − 1)
-                                                                   
+
                             fn (z) =           1+              + ··· .
                                      Γ(n + 1)     6 (log z)2
 
 A Taylor-kifejtés további tagjait megtartva szisztematikus kifejtést kapunk 1/ log z = 1/βµ szerint.
   A kifejtést az N/V kifejezésére alkalmazva azonnal azt kapjuk, hogy
-                                                             2
+                                                               2
                                                        kB T
                                           ∆N ∼
                                                         µ
 ami azt mutatja, hogy N állandó értéken tartásához
-                                                             2
+                                                               2
                                                        kB T
                                            ∆µ ∼
                                                         EF

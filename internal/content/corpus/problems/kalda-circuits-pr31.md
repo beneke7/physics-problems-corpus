@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the current through the diode in the circuit given below; for the diode, use the $I(V)$ dependence from the problem 24.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr31-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr31-fig1.jpg)

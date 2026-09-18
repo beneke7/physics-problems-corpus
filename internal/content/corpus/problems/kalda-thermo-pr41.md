@@ -19,4 +19,4 @@ verification_status: pending
 
 In a thermally isolated cylinder, a piston can move without friction up and down. The cylinder is divided into two compartments by a freely moving weightless wall which conducts slowly heat, see figure. Ini-
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr41-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr41-fig1.jpg)

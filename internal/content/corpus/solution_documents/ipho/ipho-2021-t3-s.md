@@ -62,7 +62,9 @@ electron from the occupied 𝐸 5 to the unoccupied 𝐸 6 energy state:
                                                 ℎ𝑐
                                                    = 𝐸 6 − 𝐸 5,
                                                 𝜆
-                                                                                                      S3-2
+
+
+                                                                                                      S3-2
                                 Theoretical Question 3 – Solution                                     ENGLISH
 
 
@@ -114,7 +116,9 @@ from Eq. 3:
                                    𝜏Cy5 =                𝜆 3 ≈ 3.3 ns.
                                           16𝜋 2.42𝑙 2𝑒 2
                                               3
-                                                                                                  S3-3
+
+
+                                                                                                  S3-3
                                      Theoretical Question 3 – Solution                            ENGLISH
 
 
@@ -144,7 +148,7 @@ Part D.      Three-beam optical lattices (5.0 points)
 D.1 (1.4 points)
 We sum the three electric fields (𝑧 components)
                                                              3
-                                                            ∑︁                    
+                                                            ∑︁
                                           𝐸 (®
                                              𝑟 , 𝑡) = 𝐸 0         cos 𝑘®𝑖 · 𝑟® − 𝜔𝑡 ,                   (4)
                                                             𝑖=1
@@ -152,32 +156,34 @@ We sum the three electric fields (𝑧 components)
 and square the result
 
                                      ∑︁ 3
-                                      3 ∑︁                                      
+                                      3 ∑︁
                 𝐸 2 (®
                      𝑟 , 𝑡) = 𝐸 02             cos 𝑘®𝑖 · 𝑟® − 𝜔𝑡 cos 𝑘®𝑗 · 𝑟® − 𝜔𝑡
                                      𝑖=1 𝑗=1
                                      3 ∑︁
                                         3 n
                                                                                                         (5)
-                               𝐸 02 ∑︁             h         i        h                  io
+                               𝐸 02 ∑︁             h           i        h                    io
                            =                    cos 𝑘®𝑖 − 𝑘®𝑗 · 𝑟® + cos 𝑘®𝑖 + 𝑘®𝑗 · 𝑟® − 2𝜔𝑡 .
                                2 𝑖=1 𝑗=1
 
 Time averaging gives
                                                        𝐸 02 3
                                                            ∑︁ 3
-                                                              ∑︁    h         i
+                                                              ∑︁    h           i
                                      ⟨𝐸 2 (®
                                            𝑟 , 𝑡)⟩ =             cos 𝑘®𝑖 − 𝑘®𝑗 · 𝑟® ,                   (6)
                                                        2 𝑖=1 𝑗=1
-                                                                                                        S3-4
+
+
+                                                                                                        S3-4
                                    Theoretical Question 3 – Solution                                   ENGLISH
 
 
 we analyse the 9 terms and simplify to
                                                                3
                                                                                 !
-                                                            3 ∑︁             
+                                                            3 ∑︁
                                      ⟨𝐸 2 (®
                                            𝑟 , 𝑡)⟩ = 𝐸 02    +    cos 𝑏®𝑗 · 𝑟® .                               (7)
                                                             2 𝑗=1
@@ -195,12 +201,12 @@ Argument: Observe that rotation by 60◦ maps the three vectors 𝑏®1,2,3 into
 D.3 (1.2 points)
 We find
                                (
-                                           √              √ !             √ !)
+                                            √               √ !             √ !)
                                    3                  3𝑘𝑥 𝑘𝑦 3        3𝑘𝑥 𝑘𝑦 3
            𝑉 (𝑥, 𝑦) = −𝛼𝐸 02         + cos 𝑘𝑦 3 + cos    +      + cos    −       ,                             (8)
                                    2                   2    2          2    2
 
-and deduce                                                                    
+and deduce
                                                                  5         3𝑘𝑥
                                         𝑉𝑋 (𝑥) = −𝛼𝐸 02            + 2 cos       .                             (9)
                                                                  2          2
@@ -209,7 +215,7 @@ multiples of Δ𝑥 = 4𝜋/(3𝑘). In the midpoint between any two minima, e.g
 the function 𝑉𝑋 (𝑥) has its maxima.
     Concerning the behaviour along the 𝑦 axis, we have
                                                                      √
-                                                          
+
                                    2 3
                       𝑉𝑌 (𝑦) = −𝛼𝐸 0     + cos 2𝜑 + 2 cos 𝜑 ,    𝜑 = 3𝑘𝑦/2.                    (10)
                                        2
@@ -226,7 +232,9 @@ Looking for the extrema, we find the equation
                                                                      4𝜋
    ◦ 𝜑 = 2𝜋/3 and 𝜑 = 4𝜋/3 (corresponding to 𝑦 =                     √   and 𝑦 = √8𝜋 , respectively) are maxima.
                                                                     3 3𝑘         3 3𝑘
-                                                                                               S3-5
+
+
+                                                                                               S3-5
                                Theoretical Question 3 – Solution                              ENGLISH
 
 

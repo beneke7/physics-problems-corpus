@@ -27,4 +27,4 @@ Vízszintes tengelyű, rögzített hengerre egy vékony, hajlékony, $m$ tömeg�
 a) Mekkora gyorsulással indul el a lánc, ha szabadon engedjük?
 b) Mekkora a láncot feszítő erő legnagyobb értéke az elengedés utáni pillanatban?
 
-![](sources/eotvos/figures/eotvos-2022-chain-cylinder-fig1.jpg)
+![](../../figures/eotvos/figures/eotvos-2022-chain-cylinder-fig1.jpg)

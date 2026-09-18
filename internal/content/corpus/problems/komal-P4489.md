@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: flagged
 ---
 
-The same problem was P.4477 in November. 
+The same problem was P.4477 in November.
  (4 pont)

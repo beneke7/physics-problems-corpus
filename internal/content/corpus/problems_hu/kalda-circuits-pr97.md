@@ -20,4 +20,4 @@ verification_status: pending
 
 Az áramkör két azonos induktivitásból, két azonos ellenállásból és két azonos kondenzátorból áll, lásd az ábrát. Az alkalmazott feszültség $U_{0}=10 \mathrm{~V}$; az alsó induktivitáson mérhető feszültség 10 V, továbbá a $D$ és $E$ kapcsok között is 10 V a feszültség. Határozzuk meg a $B$ és $D$ kapcsok közötti feszültséget.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr97-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr97-fig1.jpg)

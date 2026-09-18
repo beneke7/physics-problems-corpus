@@ -20,4 +20,4 @@ verification_status: pending
 
 Két repülőgép azonos magasságban, rendre $v_{1}= 800 \mathrm{~km} / \mathrm{h}$ és $v_{2}=600 \mathrm{~km} / \mathrm{h}$ sebességgel repül. A gépek közelednek egymáshoz; egy adott pillanatban a pályáik merőlegesek egymásra, és mindkét gép $a=20 \mathrm{~km}$ távolságra van a pályák metszéspontjától. Határozzuk meg a gépek közötti repülés közbeni legkisebb távolságot, feltéve, hogy sebességük állandó marad.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr2-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr2-fig1.jpg)

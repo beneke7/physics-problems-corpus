@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, extremization]
 ---
 
-We have three resistors of resistance values 1 ohm, 2 ohms and 3 ohms, each rated at 1 watt. The three resistors are connected in all possible ways, such that some current flows through all of them in each connection. 
- $a)$ Between what values does the maximum allowed total power of the circuits vary? 
- $b)$ In which connection will the maximum allowed total dissipated power be exactly 2 watts? 
+We have three resistors of resistance values 1 ohm, 2 ohms and 3 ohms, each rated at 1 watt. The three resistors are connected in all possible ways, such that some current flows through all of them in each connection.
+ $a)$ Between what values does the maximum allowed total power of the circuits vary?
+ $b)$ In which connection will the maximum allowed total dissipated power be exactly 2 watts?
  (4 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-A body is hanging on a spring attached to the ceiling of an elevator. Suddenly the lift starts moving and then it moves with a constant upward speed. How does the elongation of the spring change? 
+A body is hanging on a spring attached to the ceiling of an elevator. Suddenly the lift starts moving and then it moves with a constant upward speed. How does the elongation of the spring change?
  (4 pont)

@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4093. A fénymalom (radiométer) mindegyik lapátjának egyik oldala fényes, tükröző, a másik viszont feketére kormozott. A négy lapátból álló kerék függőleges tengely körül tud forogni az üveggömbben, rendkívül kis nyomású gáztérben. Miért és merre forog a lapátkerék, ha megvilágítjuk? 
+P. 4093. A fénymalom (radiométer) mindegyik lapátjának egyik oldala fényes, tükröző, a másik viszont feketére kormozott. A négy lapátból álló kerék függőleges tengely körül tud forogni az üveggömbben, rendkívül kis nyomású gáztérben. Miért és merre forog a lapátkerék, ha megvilágítjuk?
 
  Károly Ireneusz fizikaverseny, Budapest
 
-![figure](../../raw_html/komal_figures/komal-P4093-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4093-fig1.gif)

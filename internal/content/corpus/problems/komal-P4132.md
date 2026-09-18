@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-What is the amplitude of the electric field of the light emitted by a He-Ne laser whose power is 10 mW? The cross section of the beam is 1 cm$^{2}$. 
+What is the amplitude of the electric field of the light emitted by a He-Ne laser whose power is 10 mW? The cross section of the beam is 1 cm$^{2}$.
  (5 pont)

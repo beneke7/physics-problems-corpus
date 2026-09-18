@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 200809"
 verification_status: pending
 ---
 
-A black box has two leads. If a zero-centre ammeter and a rechargeable battery of 6 V voltage, whose internal resistance is negligible, are connected to the leads as shown in the figure, the ammeter reads 1 A. If the terminals of the battery are swapped, and connected again into he circuit, then the measured current is 0.5 A. 
- What is in the box? 
+A black box has two leads. If a zero-centre ammeter and a rechargeable battery of 6 V voltage, whose internal resistance is negligible, are connected to the leads as shown in the figure, the ammeter reads 1 A. If the terminals of the battery are swapped, and connected again into he circuit, then the measured current is 0.5 A.
+ What is in the box?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4086-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4086-fig1.gif)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: pending
 ---
 
-In a movie we see that the hero jumps off a bridge into a small boat proceeding with a constant velocity. The horizontal velocity of the boat does not change when the hero jumps in it. Is this a trick picture or could it be a real jump? 
+In a movie we see that the hero jumps off a bridge into a small boat proceeding with a constant velocity. The horizontal velocity of the boat does not change when the hero jumps in it. Is this a trick picture or could it be a real jump?
 
  (3 pont)

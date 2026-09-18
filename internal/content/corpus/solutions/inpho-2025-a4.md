@@ -219,7 +219,7 @@ Page 17 INPhO 2025 Questions
 B =
 µ0
 4π
-
+
 −
 m
 (R + w)2
@@ -232,47 +232,47 @@ R2
 +
 m
 (R − w)2
-
+
 B =
 µ0m
 4πR2
-
+
 −
-
+
 1 +
 w
 R
-−2
+ −2
 +
-
+
 1 −
 w
 R
-−2
-
+ −2
+
 We can use the approximation w
 R ≪ 1 and simplify the expression up to the third
 order term in w/R:
 B ≈ −
 µ0m
 4πR2
-
+
 1 −
 2w
 R
 +
 3w2
 R2
-
+
 −
-
+
 1 +
 2w
 R
 +
 3w2
 R2
-
+
 (4.1)
 B = 4
 µ0P′
@@ -289,7 +289,7 @@ the magnetic ﬁeld at P due to the individual poles can be written as:
 B =
 µ0
 4π
-
+
 −
 m
 (R + w)2
@@ -302,47 +302,47 @@ R2
 −
 m
 (R − w)2
-
+
 B =
 µ0m
 4πR2
-
+
 −
-
+
 1 +
 w
 R
-−2
+ −2
 + 2 −
-
+
 1 −
 w
 R
-−2
-
+ −2
+
 Keeping only up to the (w/R)3 terms:
 B =
 µ0m
 4πR2
-
+
 −
-
+
 1 −
 2w
 R
 +
 3w2
 R2
-
+
 + 2 −
-
+
 1 +
 2w
 R
 +
 3w2
 R2
-
+
 (4.3)
 B = −6
 µ0P′w
@@ -364,16 +364,16 @@ set.
 Solution: Linearizing the data for M2:
 If we take the logarithm of Eqs. (4.2) and (4.4), we obtain:
 ln|B| = 3lnR + ln
-
+
 4P′µ0
 4π
-
+
 , (4.5)
 ln|B| = 4lnR + ln
-
+
 6P′wµ0
 4π
-
+
 . (4.6)
 Thus, a plot of ln|B| vs. lnR will be linear, and the slope of this plot will indicate
 whether the dataset corresponds to M1 or M2.
@@ -393,10 +393,10 @@ The graph is plotted on the Pg. 19.
 The slope of the graph = 4.08.
 Which indicates that the dataset corresponds to M2.
 The intercept of the graph is ln
-
+
 6P′wµ0
 4π
-
+
 = 18.74 ⇒ P′
 = 1.21A · m2
 .

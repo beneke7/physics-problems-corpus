@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Three small balls are placed along a straight line, such that initially they do not move, and the distance between two neighbouring balls is $d$. The masses and the charges of the balls are $m$, $2m$, $5m$ and $q$, $q$, $2q$, respectively. 
- $a)$ What is the distance between the balls, and what is their velocity when a very short time of $t_0$ elapses after the balls start to move? 
- $b)$ What is the speed of the balls after a long enough time? 
- (Apart from the electrostatic forces any other forces can be neglected.) 
+Three small balls are placed along a straight line, such that initially they do not move, and the distance between two neighbouring balls is $d$. The masses and the charges of the balls are $m$, $2m$, $5m$ and $q$, $q$, $2q$, respectively.
+ $a)$ What is the distance between the balls, and what is their velocity when a very short time of $t_0$ elapses after the balls start to move?
+ $b)$ What is the speed of the balls after a long enough time?
+ (Apart from the electrostatic forces any other forces can be neglected.)
  (5 pont)

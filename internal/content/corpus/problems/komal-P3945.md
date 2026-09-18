@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-Find the elongation of that spring which pulls a cart of mass M with a constant force, and the mathematical pendulum which is attached to the cart makes an angle of with the vertical. The mass of the bob on the pendulum is m and the spring constant is D . Friction and the mass of the spring are negligible. 
+Find the elongation of that spring which pulls a cart of mass M with a constant force, and the mathematical pendulum which is attached to the cart makes an angle of with the vertical. The mass of the bob on the pendulum is m and the spring constant is D . Friction and the mass of the spring are negligible.
  (4 pont)

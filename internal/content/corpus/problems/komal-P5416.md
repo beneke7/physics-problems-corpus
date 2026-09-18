@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-There are five electrons in a region of length 1.1 nm with respect to which the width and thickness of the region is negligibly small. The potential energy in this region is zero, and outside it is very big. We can neglect the interaction of the electrons with each other. 
- $a)$ What is the minimum energy required to excite the electrons in the system? 
- $b)$ What is the wavelength of the electromagnetic wave that can produce this excitation? Where is this electromagnetic wave in the spectrum? 
+There are five electrons in a region of length 1.1 nm with respect to which the width and thickness of the region is negligibly small. The potential energy in this region is zero, and outside it is very big. We can neglect the interaction of the electrons with each other.
+ $a)$ What is the minimum energy required to excite the electrons in the system?
+ $b)$ What is the wavelength of the electromagnetic wave that can produce this excitation? Where is this electromagnetic wave in the spectrum?
  (5 pont)

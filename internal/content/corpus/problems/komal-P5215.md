@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-The base of a warehouse is a square, and its walls are built from bricks of width 40 cm. $\frac34$ of the surface of the wall is covered with 10 cm-thick heat insulating material, whilst $\frac14$ of the surface of the wall is covered with 20 cm-thick heat insulating material. The thermal conductivity of brick is ten times as big as that of the heat insulating material. If the walls of the warehouse were covered uniformly with a layer of insulating material of thickness $d$, the two types of insulation would result in the same effect in terms of heat propagation. What is the value of $d$? 
+The base of a warehouse is a square, and its walls are built from bricks of width 40 cm. $\frac34$ of the surface of the wall is covered with 10 cm-thick heat insulating material, whilst $\frac14$ of the surface of the wall is covered with 20 cm-thick heat insulating material. The thermal conductivity of brick is ten times as big as that of the heat insulating material. If the walls of the warehouse were covered uniformly with a layer of insulating material of thickness $d$, the two types of insulation would result in the same effect in terms of heat propagation. What is the value of $d$?
  (4 pont)

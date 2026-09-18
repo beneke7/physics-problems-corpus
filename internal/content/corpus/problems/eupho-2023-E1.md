@@ -71,7 +71,7 @@ $$\omega_\mathrm{mag}^2 = \frac{6\mu_0}{I\pi} \cdot j_1 \cdot j_2 \cdot \frac{\e
 
 where $\mu_0 = 4\pi \cdot 10^{-7}\,\mathrm{N/A^2}$ is the permeability of vacuum, $I$ is the moment of inertia of the magnetic pendulum around the axis of rotation, $j_1$ is the combined magnetic moment of the pendulum magnets, $j_2$ is the magnetic moment of each external dipole, and $\ell$ is the distance of the pendulum magnet to the rotation axis. For the relative strength of the dipole moments you may assume $j_2 = 2.4 \cdot j_1$. Local gravity is $g = 9.81\,\mathrm{m/s^2}$.
 
-![figure](../../sources/eupho/figures/eupho-2023-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2023-E1-1.png)
 
 *Figure 1: Frequency shifting using external dipole magnets (top view). $d$ denotes the distance between magnet centers. Note that the orientation of the external magnets may be reversed.*
 

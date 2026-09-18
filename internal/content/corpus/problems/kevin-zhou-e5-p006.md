@@ -45,5 +45,5 @@ A wheel of radius R and moment of inertia J consisting of a large number of thin
 
 
 
-                   01T
+                   01T
     This setup is an example of a homopolar motor.

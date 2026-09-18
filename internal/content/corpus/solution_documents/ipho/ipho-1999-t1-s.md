@@ -67,7 +67,9 @@ Problem 1 – Solution                                                          
 
 5.   The potential energy change is equal to the mechanical work made against the plate weight,
      therefore the efficiency η of the energy transformation is
-     Problem 1 – Solution                                                                              Page 2
+
+
+     Problem 1 – Solution                                                                              Page 2
      mg∆s                     1
           =                                   = 2.8 ⋅ 10 −3 ≈ 0.3%
       Q                       2
@@ -83,7 +85,9 @@ Problem 1 – Solution                                                          
                p0                        cp       cV + R       R
      T3 = T2               , where γ =        =          = 1+    = 1.399 . Finally T3 = 321 K = 48°C
                p                         cV         cV        cV
-Problem 3 – Solution                                                                           Page 3
+
+
+Problem 3 – Solution                                                                           Page 3
 
 
 Grading guidelines

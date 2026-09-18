@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Protons of kinetic energy 5.00 MeV are scattered totally elastically on the nuclei of an unknown element of negligible speed. The protons are deflected by 90$^\circ$ and their kinetic energy is 4.23 MeV. 
- a ) What is the mass of the nuclei and what kind of chemical element's nuclei are they? 
- b ) What is the direction of the motion of these nuclei with respect to the direction of the motion of the incident protons? 
+Protons of kinetic energy 5.00 MeV are scattered totally elastically on the nuclei of an unknown element of negligible speed. The protons are deflected by 90$^\circ$ and their kinetic energy is 4.23 MeV.
+ a ) What is the mass of the nuclei and what kind of chemical element's nuclei are they?
+ b ) What is the direction of the motion of these nuclei with respect to the direction of the motion of the incident protons?
  (5 pont)

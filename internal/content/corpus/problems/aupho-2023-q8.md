@@ -23,4 +23,4 @@ verification_status: pending
 ---
 
 8. Sketch and justify the intensity vs time graphs for the pulse received by the radar for two identical small patches of hail and rain each located 50km from the radar. Take time=0 as the time when the pulse is emitted from the radar, and plot the intensities received by the radar for each case separately but on the same graph rather than a superposition of the pulses. (3 marks)
-![](aupho-2023-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2023-q8-fig01.png)

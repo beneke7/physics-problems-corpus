@@ -25,7 +25,7 @@ techniques: [conservation-laws, exploit-symmetry]
 
 **i)** *(2 points)* The photo below shows a self-anamorphic drawing - a red heart in green background. The reflection of the red heart in the conical mirror is a reduced green heart. What is the apex angle of the conical mirror? You can take measurements from the photo. The distance where the photo was taken was much larger than the diameter of the red heart.
 
-![figure](../../sources/nbpho/figures/nbpho-2024-cones-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2024-cones-fig1.jpg)
 
 Photo by Erik Mahieu, cf. https://community.wolfram.com/groups/-/m/t/2027565.
 

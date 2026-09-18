@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200803"
 verification_status: pending
 ---
 
-Measure the vacuum which is made by a vacuum-cleaner. 
+Measure the vacuum which is made by a vacuum-cleaner.
  (6 pont)

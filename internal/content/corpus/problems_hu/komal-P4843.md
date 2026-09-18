@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4843. Egy függőleges síktükör függőleges tengely körül percenként 300-as fordulatszámmal egyenletesen forog. A tükörre vízszintes lézerfény esik. 
+P. 4843. Egy függőleges síktükör függőleges tengely körül percenként 300-as fordulatszámmal egyenletesen forog. A tükörre vízszintes lézerfény esik.
  Mekkora a tükörről visszaverődő fénysugár szögsebessége?

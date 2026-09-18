@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-It is often seen in crossroads where there is a traffic light that when the light shows green the front of a starting car rises up a bit. And also when the light goes red the back of a stopping car rises a bit. What is the explanation for these phenomena? 
+It is often seen in crossroads where there is a traffic light that when the light shows green the front of a starting car rises up a bit. And also when the light goes red the back of a stopping car rises a bit. What is the explanation for these phenomena?
  (3 pont)

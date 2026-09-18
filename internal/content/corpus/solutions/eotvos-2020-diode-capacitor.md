@@ -27,11 +27,11 @@ R
 R2 = R. Jól ismert, hogy ha egy töltetlen, C kapa itású kondenzátorból és egy R ellenállásból álló soros RC kap so-
 lásra U0 feszültséget kap solunk, akkor a kondenzátor feszültsége az
 U(t) = U0
-
+
 1 − e−
 t
 τ
-
+
 függvény szerint változik, ahol az id®állandó τ = RC.
 Vegyük észre, hogy a mi esetünkben az (egyik) id®állandó τ = RC = 0,2 s (a másik ennek fele), a négyszögjel
 periódusideje pedig T =
@@ -47,9 +47,9 @@ R
 I1(t), amib®l I1(t) =
 2
 R
-
+
 U0 − UC(t)
-
+
 .
 Egy fél periódus alatt ez az áram I1(t)
 T
@@ -65,23 +65,23 @@ T
 =
 T
 RC
-
+
 U0 − UC(t)
-
+
 =
 T
 τ
-
+
 U0 − UC(t)
-
+
 .
 A másik fél periódusban (amikor a dióda lezár, és sak az egyik ellenálláson folyhat áram)
 −U0 − UC = R2I2(t) = RI2(t), amib®l I2(t) =
 1
 R
-
+
 − U0 − UC(t)
-
+
 ,
 és a fél periódus alatt a kondenzátor feszültségének megváltozása
 ∆UC(t) =
@@ -93,31 +93,31 @@ T
 =
 T
 2RC
-
+
 − U0 − UC(t)
-
+
 =
 T
 2τ
-
+
 − U0 − UC(t)
-
+
 .
 Egy teljes periódus alatt a feszültség teljes megváltozása a két fél periódus alatti változás összege:
 ∆UC(t) =
 T
 2τ
-
+
 U0 − 3UC(t)
-
+
 =
 3T
 2τ
-
+
 U0
 3
 − UC(t)
-
+
 .
 A kondenzátor feszültsége akkor nem n® tovább, ha ∆UC(t) = 0, azaz ha UC(t) =
 U0
@@ -133,32 +133,32 @@ tölt®dések és kisülések kis ingadozása nem is látszik. Egy olyan folyama
 lényegében folyamatosan n® a kezdeti UC(0) = 0 értékt®l az UC(∞) értékig.
 Az utolsó egyenletünk alapján
 d
-
+
 UC(∞) − UC(t)
-
+
 dt
 ≈
 ∆
-
+
 UC(∞) − UC(t)
-
+
 T
 = −
 3
 2τ
-
+
 UC(∞) − UC(t)
-
+
 .
-Ez pedig egy ugyanolyan dieren iálegyenlet, mint amely leírja egy kondenzátor feltölt®dését (és amely jól ismert
+Ez pedig egy ugyanolyan di eren iálegyenlet, mint amely leírja egy kondenzátor feltölt®dését (és amely jól ismert
 a radioaktív bomlástörvényb®l is), megoldása:
-
+
 UC(∞) − UC(t)
-
+
 =
-
+
 UC(∞) − UC(0)
-
+
 e−
 3t
 2τ ,
@@ -189,7 +189,7 @@ A második és a harmadik feladat ki sit hiányos megoldásáért harmadik díja
 
 zika BS szakos hallgatója, aki a Ke skeméti Katona József Gimnáziumban érettségizett Sáróné Jéga-Szabó Irén
 tanítványaként.
-Az els® feladat hibátlan megoldásáért di séretet kapott Fekete Dezs® Domonkos, a BME 
+Az els® feladat hibátlan megoldásáért di séretet kapott Fekete Dezs® Domonkos, a BME
 zika BS szakos hall-
 gatója, aki a Ke skeméti Katona József Gimnáziumban érettségizett Sáróné Jéga-Szabó Irén tanítványaként, Selmi
 Bálint, a Pé si Le®wey Klára Gimnázium 12. osztályos tanulója, Simon Péter, Kotek László és Pálfalvi László tanít-

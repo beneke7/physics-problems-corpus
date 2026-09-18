@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, stability-analysis, smart-coordinates]
 ---
 
-Both ends of a thread are attached to the top two vertices of a rectangular picture of sides $A$ and $B$, and then the picture is hung to a peg. What should the least length of the thread be in order that the picture remain in a stable symmetric position? Friction between the peg and the thread is negligible, and the centre of mass of the picture coincides with the geometric centre of the rectangle. 
+Both ends of a thread are attached to the top two vertices of a rectangular picture of sides $A$ and $B$, and then the picture is hung to a peg. What should the least length of the thread be in order that the picture remain in a stable symmetric position? Friction between the peg and the thread is negligible, and the centre of mass of the picture coincides with the geometric centre of the rectangle.
  (5 pont)

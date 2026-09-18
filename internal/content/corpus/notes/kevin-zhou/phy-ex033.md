@@ -27,7 +27,6 @@ Example. In most cases, the energy and entropy are extensive. This implies that
 
 Differentiating at λ = 1, we find
                                          E = T S − pV + µN.
-62 3. Statistical Mechanics
 
 
 Taking the total differential, we have the Gibbs–Duhem equation,
@@ -72,7 +71,6 @@ thermodynamic variables are pressure, volume, and temperature.
                                                       QH
       By construction, the Carnot cycle is reversible. Then by the Second Law, no cycle can have
       greater efficiency.
-63 3. Statistical Mechanics
 
 
  • By composing two Carnot cycles, we have the constraint
@@ -128,6 +126,5 @@ For example, in the process of free expansion, the volume and entropy change, ev
 no heat or work. Now, for a reversible process the First Law gives dE = T dS − p dV . Since both
 sides are state functions, this must be true for all processes, though the individual terms will no
 longer describe heat or work! We’ll ignore this subtlety below and think of all changes as reversible.
-64 3. Statistical Mechanics
 
 

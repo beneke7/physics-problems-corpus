@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $m$ tömegű, $R$ sugarú üreges henger vízszintes felületen áll, sima sík vége mindenütt érintkezik a felülettel. Egy fonalat csavarunk köré, szabad végét pedig a fonallal párhuzamosan $v$ sebességgel húzzuk. Határozzuk meg a henger sebességét. Vizsgáljuk meg a következő két esetet: (a) a felület és a henger közötti súrlódás mindenütt nulla, kivéve egy, a henger sugaránál sokkal vékonyabb, a fonallal párhuzamos egyenes sávot, ahol a súrlódási együttható $\mu$, és a sáv távolsága a fonaltól $a<2 R$ (az ábra felülnézetet mutat); (b) a súrlódási együttható mindenütt $\mu$. Útmutatás: egy merev test bármely síkbeli mozgása tekinthető egy pillanatnyi forgástengely körüli forgásnak, azaz a test bármely pontjának sebességvektora ugyanaz, mintha a pillanatnyi középpont volna a valódi forgástengely.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr8-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr8-fig1.jpg)

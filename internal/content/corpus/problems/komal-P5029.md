@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-An iron cube is placed to the top of an aluminium cube having the same mass as the iron cube. 
- $a)$ What is the average density of the gained metal object? 
- $b)$ By what amount measured in $\rm g/dm^3$ does the average density of the object change if its temperature is increased by $15~{}^\circ$C? 
+An iron cube is placed to the top of an aluminium cube having the same mass as the iron cube.
+ $a)$ What is the average density of the gained metal object?
+ $b)$ By what amount measured in $\rm g/dm^3$ does the average density of the object change if its temperature is increased by $15~{}^\circ$C?
  (4 pont)

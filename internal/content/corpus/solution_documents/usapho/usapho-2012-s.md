@@ -62,7 +62,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                       Cover Sheet                                           2
+
+
+2012 Semifinal Exam                       Cover Sheet                                           2
 
 
 
@@ -102,18 +104,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                            G = 6.67 × 10−11 N · m2 /kg2
                              9
-     k = 1/4π0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                      kB = 1.38 × 10−23 J/K
                      23
      NA = 6.02 × 10 (mol)     −1             R = NA kB = 8.31 J/(mol · K)
      σ = 5.67 × 10−8 J/(s · m2 · K4 )        e = 1.602 × 10−19 C
      1eV = 1.602 × 10−19 J                   h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
+     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
                  1 3
-     sin θ ≈ θ − 6 θ for |θ|  1             cos θ ≈ 1 − 21 θ2 for |θ|  1
+     sin θ ≈ θ − 6 θ for |θ|   1             cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                                Part A                                        3
+
+
+2012 Semifinal Exam                                Part A                                        3
 
 
 
@@ -144,7 +148,7 @@ that each have a mass of αM .
   a. Let K, p, and v be the kinetic energy, momentum, and velocity of each P meson.
 
         i. We apply energy conservation,
-                                                                                   
+
                                                                                1
                                     2
                                  M c = 2(K + αM c )   2
@@ -172,7 +176,9 @@ that each have a mass of αM .
                                                     v = c 1 − 4α2 .
 
                     Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                         Part A                                              4
+
+
+2012 Semifinal Exam                         Part A                                              4
 
 
 
@@ -205,7 +211,9 @@ that each have a mass of αM .
 
 
                  Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                             Part A                                           5
+
+
+2012 Semifinal Exam                             Part A                                           5
 
 
 
@@ -251,13 +259,15 @@ specific heat at constant volume Cv by the ratio γ = Cp /Cv .
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                            Part A                                              6
+
+
+2012 Semifinal Exam                            Part A                                              6
 
 
 
 
   b. For an adiabatic process, the quantity
-                                                       γ
+                                                         γ
                                                     T
                                         PV γ                 = P 1−γ T γ
                                                    PV
@@ -276,7 +286,9 @@ specific heat at constant volume Cv by the ratio γ = Cp /Cv .
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                              Part A                                                  7
+
+
+2012 Semifinal Exam                              Part A                                                  7
 
 
 
@@ -285,9 +297,9 @@ This problem inspired by the 2008 Guangdong Province Physics Olympiad
      Two infinitely long concentric hollow cylinders have radii a and 4a. Both cylinders are insulators;
 the inner cylinder has a uniformly distributed charge per length of +λ; the outer cylinder has a
 uniformly distributed charge per length of −λ.
-     An infinitely long dielectric cylinder with permittivity  = κ0 , where κ is the dielectric constant,
+     An infinitely long dielectric cylinder with permittivity   = κ 0 , where κ is the dielectric constant,
 has a inner radius 2a and outer radius 3a is also concentric with the insulating cylinders. The
-dielectric cylinder is rotating about its axis with an angular velocity ω  c/a, where c is the speed
+dielectric cylinder is rotating about its axis with an angular velocity ω   c/a, where c is the speed
 of light. Assume that the permeability of the dielectric cylinder and the space between the cylinders
 is that of free space, µ0 .
 
@@ -304,17 +316,17 @@ is that of free space, µ0 .
                                      I
                                                  qin                  λin l
                                        E · dA =          ⇒ 2πrEl =
-                                                  0                   0
+                                                   0                    0
       where λin is the linear charge density enclosed in the cylinder, so
                                                          λin
                                                  E=          r̂.
-                                                       2πr0
+                                                       2πr 0
       The field due to the hollow cylinders alone is therefore
                                                            
                                                   λ        0 r < a
                                                            
                                      Eapplied =       r̂ × 1 a < r < 4a
-                                                2πr0      
+                                                2πr 0      
                                                              0 r > 4a.
                                                            
 
@@ -329,7 +341,7 @@ is that of free space, µ0 .
                                                     
                                            λ
                                    E=          r̂ × 1/κ 2a < r < 3a
-                                        2πr0       
+                                        2πr 0       
                                                      1     3 < r < 4a
                                                     
                                                     
@@ -341,7 +353,9 @@ is that of free space, µ0 .
 
 
                     Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                           Part A                                               8
+
+
+2012 Semifinal Exam                           Part A                                               8
 
 
 
@@ -366,7 +380,7 @@ is that of free space, µ0 .
                                               0     r > 4a.
                                             
 
-     Defining                                                
+     Defining
                                                           1
                                             λi =       1−         λ
                                                           κ
@@ -404,7 +418,9 @@ is that of free space, µ0 .
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                           Part A                                               9
+
+
+2012 Semifinal Exam                           Part A                                               9
 
 
 
@@ -458,7 +474,9 @@ The masses interact only through universal gravitation.
                                      2        l                   v02 l
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                              Part A                                         10
+
+
+2012 Semifinal Exam                              Part A                                         10
 
 
 
@@ -488,7 +506,7 @@ The masses interact only through universal gravitation.
                                         v02 −      = v02 2 −    .
                                                  l      d     d
      Defining the parameter α = Gm/v02 l, this simplifies to
-                                            2     
+                                              2
                                             d       d
                                    (1 − α)      +α     − 1 = 0.
                                             l       l
@@ -508,7 +526,9 @@ The masses interact only through universal gravitation.
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                       Part A                             11
+
+
+2012 Semifinal Exam                       Part A                             11
 
 
 
@@ -524,7 +544,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                  Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                            Part B                                               12
+
+
+2012 Semifinal Exam                            Part B                                               12
 
 
 
@@ -579,7 +601,9 @@ for some appropriate functions f1 and f2 .
 
 
                    Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                           Part B                                            13
+
+
+2012 Semifinal Exam                           Part B                                            13
 
 
 
@@ -613,7 +637,9 @@ for some appropriate functions f1 and f2 .
 
 
                      Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                              Part B                                              14
+
+
+2012 Semifinal Exam                              Part B                                              14
 
 
 
@@ -632,7 +658,7 @@ and be subject to a force (in the absence of electric fields)
 nonmagnetic, insulating, frictionless U-shaped track. At the bottom of the track is a wire loop
 whose radius b is much smaller than the width of the “U” of the track. The section of track near
 the loop can thus be approximated as a long straight line. The wire that makes up the loop has
-radius a  b and resistivity ρ. The monopole is released from rest a height H above the bottom of
+radius a   b and resistivity ρ. The monopole is released from rest a height H above the bottom of
 the track.
    Ignore the self-inductance of the loop, and assume that the monopole passes through the loop
 many times before coming to a rest.
@@ -670,7 +696,9 @@ or the integral                           Z π
 
 
                    Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                           Part B                                              15
+
+
+2012 Semifinal Exam                           Part B                                              15
 
 
 
@@ -695,7 +723,7 @@ or the integral                           Z π
                                                    b           x
                                         sin θ0 = , cos θ0 =
                                                    r           r
-     which gives                                                 
+     which gives
                                             µ 0 qm          x
                                      ΦB =            1− √           .
                                                2          b2 + x2
@@ -736,7 +764,9 @@ or the integral                           Z π
 
 
                   Copyright c 2012 American Association of Physics Teachers
-2012 Semifinal Exam                               Part B                                        16
+
+
+2012 Semifinal Exam                               Part B                                        16
 
 
 
@@ -749,7 +779,7 @@ or the integral                           Z π
                                  ∆v = −              sin4 θ dθ = −           .
                                          4bmR 0                    32 bmR
 
-     Finally, we need to find R. Since a  b, the loop is approximately a long cylindrical wire, so
+     Finally, we need to find R. Since a   b, the loop is approximately a long cylindrical wire, so
                                                             2πb
                                                    R=ρ
                                                             πa2
@@ -766,15 +796,15 @@ or the integral                           Z π
      If we had kept the integral above over dx, we would instead have to use the first provided
      integral. Incidentally, these integrals aren’t too hard to derive. The first is related to the
      second by u-substitution; for the second, note that
-                                                                   4
+                                                                    4
                                                           e − e−iθ
-                                    Z π              Z π  iθ
+                                    Z π              Z π   iθ
                                             4
                                           sin θ dθ =                  dθ.
                                      0                0       2i
 
      All of the terms in the expansion integrate to zero, by periodicity, except for the constant
-     term. Then the integral is             Z π
+     term. Then the integral is               Z π
                                          1 4              3π
                                                     dθ =
                                          16 2 0            8

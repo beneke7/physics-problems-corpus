@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, smart-coordinates]
 ---
 
-Three rectangular blocks are pulled along a horizontal sheet, with a constant force $F$, as shown in the figure. The blocks are moving along a straight line all the time, and their instantaneous velocity is $v_0$. How does the tension in the threads connecting the blocks depend on the value of the coefficient of kinetic friction $\mu$ between the blocks and the sheet? 
+Three rectangular blocks are pulled along a horizontal sheet, with a constant force $F$, as shown in the figure. The blocks are moving along a straight line all the time, and their instantaneous velocity is $v_0$. How does the tension in the threads connecting the blocks depend on the value of the coefficient of kinetic friction $\mu$ between the blocks and the sheet?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G811-fig1.gif)
+![figure](../../figures/komal/figures/komal-G811-fig1.gif)

@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-Glue two battens, which are made of different material, but which have the same size and rectangular cross-section, along their greatest faces. Examine the bending deformation of the battens if the plane of the glued surfaces is 
- a ) horizontal, 
- b ) vertical. 
+Glue two battens, which are made of different material, but which have the same size and rectangular cross-section, along their greatest faces. Examine the bending deformation of the battens if the plane of the glued surfaces is
+ a ) horizontal,
+ b ) vertical.
  (6 pont)

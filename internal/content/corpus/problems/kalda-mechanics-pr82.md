@@ -19,4 +19,4 @@ verification_status: pending
 
 A water turbine consists of a large number of paddles that could be considered as light flat boards with length $l$, that are at one end attached to a rotating axis. The paddles' free ends are positioned on the surface of an imaginary cylinder that is coaxial with the turbine's axis. A stream of water with velocity $v$ and flow rate $\mu(\mathrm{kg} / \mathrm{s})$ is directed on the turbine in such a way that it hits the paddles near the perimeter of the turbine. Find the maximum possible usable power that could be extracted with such a turbine; assume the number of paddles to be large enough so that none of the water parcels can escape without hitting a paddle.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr82-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr82-fig1.jpg)

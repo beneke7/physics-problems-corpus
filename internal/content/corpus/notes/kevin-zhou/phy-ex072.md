@@ -37,7 +37,7 @@ The second-order change in action would be the integral of m(δ ẋ)2 /2 which i
 µ = 0. Putting everything together gives
 
                                                         i m(x − x0 )2
-                                          r                          
+                                          r
                                              m
                            K(x, x0 , t) =         exp
                                             2πiℏt       ℏ     2t

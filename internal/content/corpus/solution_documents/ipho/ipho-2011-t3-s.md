@@ -69,7 +69,9 @@ The force acting on the ion is
 
 The “-’’ sign implies that this force is attractive and Q 2 implies that the force is attractive regardless
 of the sign of Q .
-                                                             Theoretical Competition:          Solution
+
+
+                                                             Theoretical Competition:          Solution
                                                                        Question 3             Page 2 of 3
 
                                                                
@@ -130,7 +132,9 @@ Hence,
                 rmin             1  1  2 2 2 4  2
                                2        4  0 mv0 b 
                                                              ………………………………….....(12)
-                                                        Theoretical Competition:        Solution
+
+
+                                                        Theoretical Competition:        Solution
                                                                      Question 3       Page 3 of 3
 
 5. A spiral trajectory occurs when (16) is imaginary (because there is no minimum distance of

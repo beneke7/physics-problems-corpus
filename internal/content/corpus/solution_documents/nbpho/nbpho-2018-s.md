@@ -104,7 +104,9 @@ r 3,x and r 2,y = − r 3,y . Additionally, r 1,x + r 2,x + on the y-axis, v1,p 
                                                                                                                                                                                                                   ρ ¯ dz ¯             2ρ Ω sin φ ¯ d z ¯
                                    1
 r 3,x = 0, so r 2,x = r 3,x = − 2 r 1,x . This gives a Thus, v1,p = v p = 2v2,p sin α = 2v3,p sin α since                           2                             2
-    Using Ω = 7.27 × 10−5 s−1 , ϕ = 56◦ ,                   the optical path diﬀerence between the neigh-         distance h between the prism and the sheet that     Since the ﬁrst solution corresponds to the case
+
+
+    Using Ω = 7.27 × 10−5 s−1 , ϕ = 56◦ ,                   the optical path diﬀerence between the neigh-         distance h between the prism and the sheet that     Since the ﬁrst solution corresponds to the case
 |d p/d z| ≈ 0.8/250 Pa m−1 = 0.0032 Pa m−1 we               bouring beams is ( n + j )λ. Hence, d φ j − d φ0 =    one stripe seen through the prism seems to be       when the collision doesn’t happen, the speed of
 get the estimation v = 22 m s−1 . Since the stu-            j λ so that φ j − φ0 = j λ/ d . Angle diﬀerence       exactly at the same position as the other stripe    the second ball must be v2 = v.
 dents are only asked for an estimation, a wide              φ j − φ0 results in the distance of bright spots at   seen beyond the edge of the prism. We measure       ii) The balls experience Lorentz force due to the
@@ -170,7 +172,9 @@ integer number n of wavelengths. Then, for the prism, and bypassing the stream s
 n + j -th main maximum, observed at angle α j , We ﬁnd such two neighbouring stripes and such                       2    2        2    2             2
                                                                                                                   v = v +(v − v2 ) = v −2vv2 +2v and v2 = 0; v.      d  = r cos α between  two  subsequent collisions.
                                                                                                                         2                           2
-In between the two collisions, one of the balls (r ′x , r ′y , r ′z ) and after leaving the cube, ⃗t′ =                                                                               both elements so that the complex voltage amp-
+
+
+In between the two collisions, one of the balls (r ′x , r ′y , r ′z ) and after leaving the cube, ⃗t′ =                                                                               both elements so that the complex voltage amp-
 moves 2π − 2α along a cyclotron (orbit. The time) ( t′x , t′y , t′z ). Every time the light bounces against                         { Pp 2                       p                    litudes are I 1 /(iωC ) and I 1 R2 , respectively. Di-
 taken is then t = 2π−ω2α = 2qBm
                                   π − arctan 2Rr  one of the sides of the cube, the respective com-                                  2   n − 1,            if n < 2                   vision by imaginary unit rotates a vector in com-
@@ -269,7 +273,9 @@ perpendicular to the z-axis.                          Then r ′x √   = − r 
  be ⃗t = ( t x , t y , t z ), after entering the cube, the force can’t be larger than c . The maximal                 circuit consisting of the capacitor C and resistor                                      abc
                                                      ′                                                                                                                                          2R = √                          .
 ⃗r = ( r x , r y , r z ), before leaving the cube, ⃗r = force is then                                                 R 2 . There is the same current I 1 through the                               2 p( p − a)( p − b)( p − c)
-With a = 7 V, b = 15 V and c = 20 V we obtain           iii) The work W done on the system (consist- where the last equality follows from eqn (??).                            Determining which of the two possible cir-
+
+
+With a = 7 V, b = 15 V and c = 20 V we obtain           iii) The work W done on the system (consist- where the last equality follows from eqn (??).                            Determining which of the two possible cir-
 p = 21 V and VAB = 2R = 25 V.                           ing of the whole submarine) by the surrounding From here one proceeds as already written cuits is inside the black box is trickier. One
 8. AIR IN A SUBMARINE                                   water is W = P c ∆V , where P c is the constant above.                                                           way to do it, is to notice that when we discon-
                                                         pressure of the surrounding water. There is no 9. BLACK BOX By measuring current with nect “blue” and “black” we can get a small spark,
@@ -341,7 +347,9 @@ times the initial temperature, such that the vi-                                
 brational degrees of freedom of the molecules              K turb = P c ∆V − P g dV = P c ∆V − c V n∆T             rent when measuring, meaning L/R ≪ t.
                                                                                                                                                                          box leads are connected. Now we disconnect the
 does not have to be considered.                                                                               (15) iii)
-inductor battery current loop by disconnecting has reached zero.
+
+
+inductor battery current loop by disconnecting has reached zero.
 “black” from other box leads and the multimeter        We can get the upper and lower bounds for                                                                                   Rl
 reading will jump to U c + U                       the inductance value by considering two diﬀer-           U 2 C I 2 L U c2 C                                (U c + U ) ∗ C = I      ⇒ L ≈ 33.6 mH
 ap prox32 V and starts to decay exponentially ent cases.                                                          +      =       ⇒ L ≈ 130 mH                                      L

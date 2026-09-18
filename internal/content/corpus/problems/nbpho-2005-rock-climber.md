@@ -27,5 +27,5 @@ A rock climber of mass $m=80 \mathrm{~kg}$ ascends along a vertical rock. For se
 
 1) Assume that the distance between the climber and the last carabiner is $L$ (see Figure). If the climber happens to fall, the distance between the highest carabiner and the climber will reach a maximal value $l$ (afterwards, the elasticity of the rope starts lifting the climber). Which inequality should be satisfied for $l$ ? (1.5 pts)
 2) Find the maximal safe length $L$ between the climber and the last carabiner (upon reaching of which he has to anchor a next carabiner; 4.5 pts).
-![figure](../../sources/nbpho/figures/nbpho-2005-rock-climber-fig1.jpg)
-![figure](../../sources/nbpho/figures/nbpho-2005-rock-climber-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2005-rock-climber-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2005-rock-climber-fig2.jpg)

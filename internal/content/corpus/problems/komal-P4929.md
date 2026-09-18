@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A rigid rod of length $3L$, and of negligible mass, shown in the figure can rotate in the vertical plane about a fixed horizontal axle, which is at a distance of $L$ from the left end of the rod. To the ends of the rod small objects of masses $m$ and $2m$ are attached, and then at a certain moment the rod is released from its horizontal position. 
+A rigid rod of length $3L$, and of negligible mass, shown in the figure can rotate in the vertical plane about a fixed horizontal axle, which is at a distance of $L$ from the left end of the rod. To the ends of the rod small objects of masses $m$ and $2m$ are attached, and then at a certain moment the rod is released from its horizontal position.
 
- $a)$ Determine the speeds of the objects when the rod is vertical. 
- $b)$ At this moment what is the force exerted by the rod on the axle? 
- $c)$ What is the acceleration of the objects at the moment right after the rod was released? 
+ $a)$ Determine the speeds of the objects when the rod is vertical.
+ $b)$ At this moment what is the force exerted by the rod on the axle?
+ $c)$ What is the acceleration of the objects at the moment right after the rod was released?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4929-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4929-fig1.gif)

@@ -19,4 +19,4 @@ verification_status: pending
 
 What is the minimum force needed to dislodge a block of mass $m$ resting on an inclined plane of slope angle $\alpha$, if the coefficient of friction is $\mu$ ? Investigate the cases when $a$ ) $\alpha=0$; b) $0<\alpha<\arctan \mu$.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr4-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr4-fig1.jpg)

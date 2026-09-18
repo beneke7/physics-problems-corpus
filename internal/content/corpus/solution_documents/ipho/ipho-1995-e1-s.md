@@ -57,7 +57,9 @@ the data points and noting the change in the value of the intercept.
                         5             4.06   4.34 4.09 4.12 4.25         4.13    4.13
 
                                          Table 1: Sample data set
-                                              10
+
+
+                                              10
 
 
 
@@ -119,7 +121,9 @@ S.Steel                                            1.31     1.32 1.38 1.44 1.31 
 
 
                                                           ρ′ = (1.1 ± 0.2) × 103 kg.m−3
-Detailed mark allocation
+
+
+Detailed mark allocation
 Section I
 Reasonable range of data points with a scatter of ∼ 0.1 s         [2]
 Check that the cylinders have reached their terminal velocity

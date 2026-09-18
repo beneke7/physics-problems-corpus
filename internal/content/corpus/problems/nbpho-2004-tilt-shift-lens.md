@@ -31,7 +31,7 @@ represent lines algebraically, e.g. $y=ax+b$. Make use of the thin-lens formula
 $f^{-1}=x^{-1}-x^{\prime -1}$ ($x>0$; $x$ and $x'$ are the $x$-coordinates of a
 point and its image, respectively) (2 points).
 
-![figure](../../sources/nbpho/figures/nbpho-2004-tilt-shift-lens-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-tilt-shift-lens-fig1.png)
 
 **2)** In figure (a), draw the image of the given line and indicate which parts of
 the image are virtual and which are real (2 points).
@@ -45,4 +45,4 @@ image of its distant edge, together with the image plane, are depicted in figure
 (b). Reconstruct the position of the lens, the focal length of which is provided
 as a scale (2 points).
 
-![figure](../../sources/nbpho/figures/nbpho-2004-tilt-shift-lens-fig2.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-tilt-shift-lens-fig2.png)

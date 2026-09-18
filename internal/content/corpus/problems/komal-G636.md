@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-How far may the city Miskolc be from the road sign in which the following warning is written: ``You cannot even save 8 minutes till Miskolc. Is it worth it?'' (The speed limit for the highways in Hungary is 130 km/h.) 
+How far may the city Miskolc be from the road sign in which the following warning is written: ``You cannot even save 8 minutes till Miskolc. Is it worth it?'' (The speed limit for the highways in Hungary is 130 km/h.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G636-fig1.gif)
+![figure](../../figures/komal/figures/komal-G636-fig1.gif)

@@ -19,4 +19,4 @@ verification_status: pending
 
 A ball $A$ lies on a wedge with angle $\alpha$. It is also tied to an unstretchable string, the other end of which is attached to a vertical wall at point $B$ (see the figure). What will be the trajectory of the ball? What is its acceleration if the acceleration of the wedge is $a$ ?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr38-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr38-fig1.jpg)

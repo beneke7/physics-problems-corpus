@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-Peter wears glasses with a power of $-4$ dioptres and can see objects that are at least 25 cm away clearly. How far away can Peter see objects clearly when he takes off his glasses? 
+Peter wears glasses with a power of $-4$ dioptres and can see objects that are at least 25 cm away clearly. How far away can Peter see objects clearly when he takes off his glasses?
  (4 pont)

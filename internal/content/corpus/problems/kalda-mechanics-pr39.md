@@ -19,4 +19,4 @@ verification_status: pending
 
 The given figure has been produced off a stroboscopic photograph and it depicts the collision of two balls of equal diameters but different masses. The arrow notes the direction of motion of one of the balls before the impact. Find the ratio of the masses of the two balls and show what the direction of motion for the second ball was before the impact.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr39-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr39-fig1.jpg)

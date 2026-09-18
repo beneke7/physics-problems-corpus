@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4330. Vékony, L =2 m hosszúságú, m  tömegű pálca áll függőlegesen egy vízszintes, súrlódásmentes síkon. Az alsó ( A ) végpontjával érintkezve mellette nyugszik egy ugyancsak m  tömegű, pontszerű test. A pálca kidől labilis egyensúlyi helyzetéből úgy, hogy a pálca és a kis test pályája végig egy közös síkban marad. Maximálisan mekkora sebességre tesz szert a kis test?
 
-![figure](../../raw_html/komal_figures/komal-P4330-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4330-fig1.gif)

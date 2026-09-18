@@ -41,7 +41,9 @@ Secretariado          Sociedade Portuguesa de F
 
 
                                               v1.4
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                             Sociedade Portuguesa de Física
                                              Experiment
@@ -90,7 +92,9 @@ A.2
 
                                𝑅            122.25        125.35         125.40
                                𝜎𝑅           0.05          0.07           0.07
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                              Sociedade Portuguesa de Física
                                               Experiment
@@ -112,9 +116,9 @@ A.3
                                                        𝑤𝑡
             For a thin film of square shape, 𝑙 = 𝑤, thus
 
-                                                     𝑙  𝜌
-                                            𝑅=𝜌         = = 𝑅 .
-                                                    𝑡
+                                                     𝑙   𝜌
+                                            𝑅=𝜌         = = 𝑅  .
+                                                    𝑡
                                                      𝑤   𝑡
 
 
@@ -125,7 +129,7 @@ A.4
 
 
                                                                                                              Confidential
-The weighted average value (weighed by 1/𝜎2 ) of the sheet resistance is 𝑅 = 123.94 ± 0.04 Ω and 𝜌 = 𝑅 𝑡.
+The weighted average value (weighed by 1/𝜎2 ) of the sheet resistance is 𝑅 = 123.94 ± 0.04 Ω and 𝜌 = 𝑅  𝑡.
 
     A.4     𝑅 = 123.94 ± 0.04 Ω                                                                    0.4pt
             𝜌 = 2.5 ± 0.1 × 10−3 Ω m.
@@ -135,10 +139,10 @@ The weighted average value (weighed by 1/𝜎2 ) of the sheet resistance is 𝑅
 
 A.5
 
-    A.5     For a rectangular thin film 𝑅 = 𝑅 𝑤𝑙 , thus                                           0.5pt
+    A.5     For a rectangular thin film 𝑅 = 𝑅  𝑤𝑙 , thus                                           0.5pt
 
 
-            𝑅1 = 𝑅2 = 𝑅 (1 + 1/0.9 + 1/0.8 + 1/0.7 + 1/0.6 + 1/0.5 + 1/0.4 + 1/0.3) = 14.2897𝑅
+            𝑅1 = 𝑅2 = 𝑅  (1 + 1/0.9 + 1/0.8 + 1/0.7 + 1/0.6 + 1/0.5 + 1/0.4 + 1/0.3) = 14.2897𝑅
 
             Measured values:
 
@@ -149,7 +153,9 @@ A.5
 
             Comparison with the theoretical value: the average value is compatible, within
             the assigned error bar, with the theoretical value.
-                       Secretariado
+
+
+                       Secretariado
                        IPhO 2018
                                           Sociedade Portuguesa de Física
                                            Experiment
@@ -204,7 +210,9 @@ A.6
                                  N              188             1719
 
                                  W              0               1793
-                          Secretariado
+
+
+                          Secretariado
                           IPhO 2018
                                           Sociedade Portuguesa de Física
                                              Experiment
@@ -250,7 +258,9 @@ Part B. Characteristic Curves of the JFET transistor (4.5 points)
 B.1
 
       B.1   𝐼DS = 11.84±0.01 mA                                                                    0.2pt
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                                     Sociedade Portuguesa de Física
                                                      Experiment
@@ -330,7 +340,9 @@ Note that in terms of 𝜂 = 1/(1 + 𝑅𝑦 ), the factor 𝑓 can be written a
                                                             (𝑅𝑥 + 𝑅𝑦 )𝜂
                                                      𝑓=
                                                              𝑅𝑥 + 𝑅𝑦 𝜂
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                               Sociedade Portuguesa de Física
                                                Experiment
@@ -375,7 +387,9 @@ B.4
                 M     2,510         0,443         0,379          6,45           0,065         0,177
                 N     2,770         0,724         0,630          9,43           0,094         0,261
                 W     3,000         3,000         2,881          11,87          0,119         1,000
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                                Sociedade Portuguesa de Física
                                                 Experiment
@@ -424,7 +438,9 @@ cont.
                M      2.510         0.572          0.520          5.15           0.052         0.228
                N      2.770         0.907          0.850          5.77           0.058         0.328
                W      3.000         3.000          2.939          6.09           0.061         1.000
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                                Sociedade Portuguesa de Física
                                                 Experiment
@@ -473,7 +489,9 @@ cont.
                M      2.510         1.004          0.994          0.92           0.009         0.400
                N      2.770         1.451          1.441          0.94           0.009         0.524
                W      3.000         3.000          2.990          0.96           0.010         1.000
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                               Sociedade Portuguesa de Física
                                                Experiment
@@ -522,7 +540,9 @@ cont.
                M      2.510         -1.325        -1.325         0.00           0.000         -0.528
                N      2.770         -3.675        -3.675         0.00           0.000         -1.327
                W      3.000         3.000         3.000          0.00           0.000         1.000
-                                      Secretariado
+
+
+                                      Secretariado
                                       IPhO 2018
                                                       Sociedade Portuguesa de Física
                                                        Experiment
@@ -585,7 +605,9 @@ and will be ignored.
                                                             0                             0
 The solid line in the plot is the result of a fit to 𝑅DS = 𝑅DS (1 − 𝑉GS /𝑉P ), that gave 𝑅DS = 52(2) Ω, 𝑉P =
 −1.18(1) V.
-                         Secretariado
+
+
+                         Secretariado
                          IPhO 2018
                                                Sociedade Portuguesa de Física
                                                 Experiment
@@ -639,7 +661,9 @@ B.6                                                                             
                0
                     -1                  -0.8              -0.6               -0.4              -0.2     0
                                                                   VGS/V
-                                     Secretariado
+
+
+                                     Secretariado
                                      IPhO 2018
                                                            Sociedade Portuguesa de Física
                                                             Experiment
@@ -704,7 +728,9 @@ From
                                                        𝐼DS = 𝐼DSS (1 − 𝑉GS /𝑉P )2
 a plot of √𝐼DS as function of 𝑉GS should yield a straight line with slope 𝑎 = −√𝐼DS /𝑉P that intercepts the
 𝑥−axis at 𝑉P .
-                                                   Secretariado
+
+
+                                                   Secretariado
                                                    IPhO 2018
                                                                       Sociedade Portuguesa de Física
                                                                         Experiment
@@ -771,7 +797,9 @@ B.9
 The transcondutance is the slope of the transfer curve at a given point. From the transfer plot, we
 draw the tangent at the point with abscissa −0.50 V and read the slope from the graph, obtaining 𝑔 =
 10.8(1) m −1 .
-                                       Secretariado
+
+
+                                       Secretariado
                                        IPhO 2018
                                                           Sociedade Portuguesa de Física
                                                            Experiment
@@ -835,7 +863,9 @@ a value that agrees with that obtained using the graphical method.
 
     B.9              𝑔measured = 10.8(1) m −1                                                                      0.4pt
                      𝑔model = 10.8 m −1
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                             Sociedade Portuguesa de Física
                                                 Experiment
@@ -886,7 +916,9 @@ that corresponds to the charge of the second capacitor with a larger time consta
 A least squares fit to a 𝐴(1 − exp(−𝑡/𝜏1 )) + 𝐵(1 − exp(−𝑡/𝜏2 )) is also depicted, showing that the data can
 be well fitted by this model. The shorter time constant is 𝜏1 = 43(8) s, the longer time constant, 𝜏2 is
 roughly 20 times larger.
-                                        Secretariado
+
+
+                                        Secretariado
                                         IPhO 2018
                                                              Sociedade Portuguesa de Física
                                                               Experiment
@@ -941,7 +973,9 @@ plot of log(𝐴 − 𝐼DS  ) should be a straight line of slope −1/𝜏1 . T
 the short 𝜏1 component, can be easily estimated from the above plot.
 The slope of the line is 𝑚 = −0.023(1), from which we get 𝜏1 = 44(3) s. The error bar is underestimated,
 as it does not take into account the error in the subtraction of the 𝜏2 component.
-                                     Secretariado
+
+
+                                     Secretariado
                                      IPhO 2018
                                                           Sociedade Portuguesa de Física
                                                            Experiment
@@ -1019,7 +1053,9 @@ C.2                                                                             
 
 
       𝜏1 = 44(3) s.
-                                    Secretariado
+
+
+                                    Secretariado
                                     IPhO 2018
                                                     Sociedade Portuguesa de Física
                                                         Experiment

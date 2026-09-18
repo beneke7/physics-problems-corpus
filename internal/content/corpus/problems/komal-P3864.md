@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200602"
 verification_status: pending
 ---
 
-It takes a certain time for a cylinder to slide down without slipping on an inclined plane with friction. Using energy methods decide whether the cylinder would slide down during shorter or longer time if there was no friction. 
+It takes a certain time for a cylinder to slide down without slipping on an inclined plane with friction. Using energy methods decide whether the cylinder would slide down during shorter or longer time if there was no friction.
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-There is a mixture of helium and hydrogen gas in a cylinder, sealed by an easily moveable piston. The mass of the mixture is $180~\text{g}$. At constant pressure. $156~\text{kJ}$ thermal energy is added to the gas. This causes the gas mixture to do $56~\text{kJ}$ of work. How many grams of hydrogen were in the cylinder? What is the temperature change of the gas mixture? 
+There is a mixture of helium and hydrogen gas in a cylinder, sealed by an easily moveable piston. The mass of the mixture is $180~\text{g}$. At constant pressure. $156~\text{kJ}$ thermal energy is added to the gas. This causes the gas mixture to do $56~\text{kJ}$ of work. How many grams of hydrogen were in the cylinder? What is the temperature change of the gas mixture?
  (4 pont)

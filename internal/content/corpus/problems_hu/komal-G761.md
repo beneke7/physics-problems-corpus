@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 761. Hogyan írták a HÁTULJA szót a KöMaL felirat hátuljára: szokásos módon vagy tükörírással?
 
-![figure](../../raw_html/komal_figures/komal-G761-fig1.gif)
+![figure](../../figures/komal/figures/komal-G761-fig1.gif)

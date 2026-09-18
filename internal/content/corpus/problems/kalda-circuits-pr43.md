@@ -19,4 +19,4 @@ verification_status: pending
 
 Four ammeters with identical internal resistances $r$ and a resistor of resistance $R$ are connected to a current source as shown in figure. It is known that the reading of the ammeter $A_{1}$ is $I_{1}=3 \mathrm{~A}$ and the reading of the ammeter $A_{2}$ is $I_{2}=5 \mathrm{~A}$. Determine the ratio of the resistances $R / r$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr43-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr43-fig1.jpg)

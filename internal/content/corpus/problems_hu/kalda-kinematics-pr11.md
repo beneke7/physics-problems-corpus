@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy csónak gyorsulása a sebességétől függ az ábrán látható módon. A csónak kezdeti sebessége $v_{0}=4 \mathrm{~m} / \mathrm{s}$. Mekkora a megtett teljes út addig, amíg a csónak majdnem nyugalomba kerül?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr11-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr11-fig1.jpg)

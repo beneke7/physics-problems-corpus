@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 
 Példa. A Gauss-hullámcsomag egyik példája
-                                     1/4 −ax2 /(1+2iℏat/m)
+                                       1/4 −ax2 /(1+2iℏat/m)
                                      2a     e
                           ψ(x, t) =           p
                                       π         1 + 2iℏat/m
@@ -56,7 +56,6 @@ adódik, ami állandó, mivel az impulzuseloszlás állandó. Ezért általában
 függvénye, továbbá V ′′ (t) > 0, így minden hullámcsomag végül szétterül. Van néhány kiút: a koherens
 állapotok megfelelő potenciál hatására nem terülnek szét, a nem szétterülő hullámcsomagok pedig úgy
 kerülik meg a fenti érvet, hogy varianciájuk végtelen.
-135 5. A kvantummechanika alapjai
 
    Ez az érv a Heisenberg-kép egyik erősségét is megmutatja: ideális, ha főként egyszerű operátorok
 várható értékei érdekelnek. Ha viszont a teljes hullámfüggvény érdekel, az ekvivalens információt

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201003"
 verification_status: pending
 ---
 
-The distance between the cars in a long queue of cars is 15 m and the average length of a car is 5 m. The speed of the car-queue is 72 km/h. How long does it take after an accident to develop a 10 km-long car-queue consisting of standing cars if the distance of the cars is 3 m? 
+The distance between the cars in a long queue of cars is 15 m and the average length of a car is 5 m. The speed of the car-queue is 72 km/h. How long does it take after an accident to develop a 10 km-long car-queue consisting of standing cars if the distance of the cars is 3 m?
  (4 pont)

@@ -17,7 +17,7 @@ The wavefunction ψ(x,y,z) of the electron in a hydrogen atom obeys the Schrodin
 −
 ℏ2
 2m
-
+
 ∂2
 ∂x2
 +
@@ -26,7 +26,7 @@ The wavefunction ψ(x,y,z) of the electron in a hydrogen atom obeys the Schrodin
 +
 ∂2
 ∂z2
-
+
 ψ −
 e2
 4πϵ0r

@@ -25,7 +25,7 @@ Example. In the case of a time-independent Hamiltonian, we will replace the argu
 with one argument, t for the time difference. For example, for a free particle in three dimensions,
 
                                                           i m(x − x′ )2
-                                           m 3/2                     
+                                            m  3/2
                                   ′
                           K0 (x, x , t) =           exp
                                            2πiℏt          ℏ     2t
@@ -34,7 +34,6 @@ as we found in the section on path integrals.
 
 Next, we turn to energy-dependent Green’s functions, which are essentially the Fourier transforms
 of time-dependent ones.
-271 12. Scattering
 
 
  • We consider the inhomogeneous time-dependent Schrodinger equation,
@@ -93,7 +92,6 @@ Next, we carefully define energy-dependent Green’s operators.
 
     where all functions of operators are defined by power series. Then Ĝ+ (E) would be a Green’s
     operator if we could neglect the upper limit of integration.
-272 12. Scattering
 
 
  • The problem above is due to the fact that the Schrodinger equation has no damping, so
@@ -156,7 +154,6 @@ Next, we carefully define energy-dependent Green’s operators.
 
    where now z = E − iϵ. It is defined in the lower-half plane and limits to Ĝ− (E) for ϵ → 0,
    where the limit is well defined if E is not equal to any of the En .
-273 12. Scattering
 
 
  • In the water wave analogy, we have ‘antidamping’, and energy is continually absorbed by the
@@ -171,14 +168,14 @@ Next, we carefully define energy-dependent Green’s operators.
 With the above water wave intuition, we can understand the Green’s operators analytically.
 
  • Define the difference of the Green’s operators by
-                                                                                                    
+
               ˆ
                         h                           i                        1            1
               ∆(E) = lim Ĝ+ (E + iϵ) − Ĝ− (E − iϵ) = lim                         −                     .
                       ϵ→0                                         ϵ→0   E + iϵ − H   E − iϵ − H
 
  • This limit is easier to understand in terms of ordinary numbers,
-                                              
+
                           1             1                  −2iϵ
                lim               −               = lim                 = −2πiδ(x − x0 ).
                ϵ→0 x − x0 + iϵ     x − x0 − iϵ     ϵ→0 (x − x0 )2 + ϵ2

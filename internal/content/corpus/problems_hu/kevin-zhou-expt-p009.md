@@ -22,14 +22,16 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Hungarian translation of a candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 ---
 
-[5] 9. feladat.     01@   Az USA 2022-es kísérleti csapatválogató tesztje. Ezt bemelegítésnek szánták
+[5] 9. feladat.     01@    Az USA 2022-es kísérleti csapatválogató tesztje. Ezt bemelegítésnek szánták
 
                                                       8
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
 
     a többi szimulációs laborfeladat előtt kell elvégezni. Nagyon letisztult és egyszerű, számos
 
 
-                      01@
+                      01@
     fent tárgyalt elvet szemléltet, és részletes, elolvasásra érdemes megoldások tartoznak hozzá.

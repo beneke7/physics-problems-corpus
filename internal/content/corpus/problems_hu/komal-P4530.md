@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4530. Egy T =2 cm magas tárgyról egy gyűjtőlencse K =4 cm magasságú, fordított állású képet alkot. Szerkesztéssel határozzuk meg a lencse fókusztávolságát! 
+P. 4530. Egy T =2 cm magas tárgyról egy gyűjtőlencse K =4 cm magasságú, fordított állású képet alkot. Szerkesztéssel határozzuk meg a lencse fókusztávolságát!
  Szegedi Ervin (1956-2006) feladata

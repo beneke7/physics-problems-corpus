@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5519. Dionüszosz vízszintes talajon elhelyezett egymás tetején $2$ egyforma, $h$ magasságú, egyenes henger alakú, borral közel teletöltött hordót. Héraklész tizenharmadik próbájaként azt a feladatot kapja, hogy fúrjon a hordók falára merőlegesen egy-egy lyukat az alsó, illetve a felső hordóba, az adott hordó aljától mért ugyanakkora $xh$ magasságban. 
+P. 5519. Dionüszosz vízszintes talajon elhelyezett egymás tetején $2$ egyforma, $h$ magasságú, egyenes henger alakú, borral közel teletöltött hordót. Héraklész tizenharmadik próbájaként azt a feladatot kapja, hogy fúrjon a hordók falára merőlegesen egy-egy lyukat az alsó, illetve a felső hordóba, az adott hordó aljától mért ugyanakkora $xh$ magasságban.
 
- Hogyan válassza meg Héraklész a dimenziótlan $x$ arányszám értékét, hogy a borsugarak földet érési pontjai a lehető legmesszebb kerüljenek egymástól? 
+ Hogyan válassza meg Héraklész a dimenziótlan $x$ arányszám értékét, hogy a borsugarak földet érési pontjai a lehető legmesszebb kerüljenek egymástól?
  Dürer-verseny feladata nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5519-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5519-fig1.gif)

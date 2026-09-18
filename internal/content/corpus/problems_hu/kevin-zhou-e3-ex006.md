@@ -30,7 +30,9 @@ Példa 6
 
 
                                                       12
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 
   Megoldás
@@ -59,7 +61,9 @@ Példa 6
 
 
                                                  13
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 
@@ -86,7 +90,9 @@ Példa 6
 
 
                                                 14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

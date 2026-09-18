@@ -27,9 +27,9 @@ You are given the following tools: a retroreflective film an enlarged bottom vie
 
 While the top surface of the film is flat, the bottom surface is a periodic array of slanted triangular faces. Six such faces are shown enlarged in the second figure; the faces 1, 3 and 5 are perpendicular to each other and form a corner of a cube, and the faces 2, 4 and 6 are also perpendicular to each other. On the right of the second figure, a crosssection of the film is shown. The film's material between the slanted faces and the flat surface form microprisms. The refracting angles of these microprisms are denoted by $\alpha_{i}, i=1,2, \ldots 6$ (the index numbers correspond to those of the faces). Among the angles $\alpha_{i}$, some may be equal to each other.
 
-![figure 1](../../sources/nbpho/figures/nbpho-2019-retroreflective-film-fig1.jpg)
+![figure 1](../../figures/nbpho/figures/nbpho-2019-retroreflective-film-fig1.jpg)
 
-![figure 2](../../sources/nbpho/figures/nbpho-2019-retroreflective-film-fig2.jpg)
+![figure 2](../../figures/nbpho/figures/nbpho-2019-retroreflective-film-fig2.jpg)
 
 When light falls onto the flat surface close to perpendicular incidence, it undergoes total internal reflections on the slanted faces, and as a result, its direction of propagation is rotated by 180°. However, the microprisms can also serve as prisms diverting a light beam by an angle $\beta$. The angle $\beta$ depends on the angle of incidence, and on the prism angle $\alpha=\alpha_{i}$. Let $\beta_{i}$ denote the minimal deflection angle for a fixed prism angle $\alpha_{i}$.
 

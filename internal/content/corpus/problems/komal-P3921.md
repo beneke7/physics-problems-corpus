@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-An electron revolves along circular path in uniform magnetic field of 1 T. Find the radius of the circle. The kinetic energy of the electron is a ) 5.1 keV, b ) 510 keV, c ) 51 MeV. 
+An electron revolves along circular path in uniform magnetic field of 1 T. Find the radius of the circle. The kinetic energy of the electron is a ) 5.1 keV, b ) 510 keV, c ) 51 MeV.
  (5 pont)

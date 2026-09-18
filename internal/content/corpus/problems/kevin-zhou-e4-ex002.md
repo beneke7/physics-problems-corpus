@@ -35,7 +35,7 @@ Example 2
                                         Pbatt = IV = V        =V2    .
                                                            dt     dt
         On the other hand, the rate of change of the energy stored in the capacitor is
-                                                        
+
                                              d 1       2    1 dC
                                      Pcap =        CV      = V2     .
                                             dt 2            2    dt

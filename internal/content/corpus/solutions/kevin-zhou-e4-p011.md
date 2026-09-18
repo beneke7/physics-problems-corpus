@@ -50,8 +50,8 @@ Kevin Zhou Physics Olympiad Handouts
 (b) Every step in the solution to part (a) still works with relativity accounted for (the change of
 p = mv to p = γmv doesn’t matter, because we never used p = mv), so the answer is the
 same: we just flip the currents.
-[5] Problem 12.  h 1 0IPhO 2000, problem 2. A solid question on the Lorentz force with real-world
+[5] Problem 12.   h 1 0IPhO 2000, problem 2. A solid question on the Lorentz force with real-world
 relevance. Requires a little relativity, namely the expressions for relativistic momentum/energy.
-[4] Problem 13.  T 1 0IPhO 1996, problem 2. An elegant problem on particles in a magnetic field.
+[4] Problem 13.   T 1 0IPhO 1996, problem 2. An elegant problem on particles in a magnetic field.
 (There’s a deeper principle behind the solution to this problem; see R3 for more discussion.)
 3 Magnetic Moments

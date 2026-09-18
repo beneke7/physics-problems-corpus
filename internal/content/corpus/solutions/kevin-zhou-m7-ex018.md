@@ -127,13 +127,13 @@ these circles are tangent to the two glass plates, which mean they have radius o
 addition, the surface of the water has radius of curvature D/2 in the orthogonal direction. Thus,
 by the Young–Laplace equation,
 ∆P = γ
-
+
 2
 D
 −
 2
 d
-
+
 ≈ −
 2γ
 d

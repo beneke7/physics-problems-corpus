@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, extremization]
 ---
 
-We would like to go from point $B$ to point $A$, which points are both in a forest. In any direction among the trees we can walk at a speed of $u$. There is however exactly one straight road through the forest along which it is easy to go, at a speed of $ku$, $k>1$. Point $A$ is on this road, but point $B$ is not, and the angle between the road and the line segment $AB$ is $\alpha$. How should we walk in order to reach point $A$ from $B$ in the shortest time? 
+We would like to go from point $B$ to point $A$, which points are both in a forest. In any direction among the trees we can walk at a speed of $u$. There is however exactly one straight road through the forest along which it is easy to go, at a speed of $ku$, $k>1$. Point $A$ is on this road, but point $B$ is not, and the angle between the road and the line segment $AB$ is $\alpha$. How should we walk in order to reach point $A$ from $B$ in the shortest time?
  (5 pont)

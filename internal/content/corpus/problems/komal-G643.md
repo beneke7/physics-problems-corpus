@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A bowl of water is placed on one of the plates of a beam scale, which is balanced. One of our fingers is immersed into the water, such that the bowl is not touched. Will the scale remain balanced or not, if $a)$ not a drop of water flows out of the bowl; $b)$ the bowl was full to the brim, and the water flows off the plate of the scale? 
+A bowl of water is placed on one of the plates of a beam scale, which is balanced. One of our fingers is immersed into the water, such that the bowl is not touched. Will the scale remain balanced or not, if $a)$ not a drop of water flows out of the bowl; $b)$ the bowl was full to the brim, and the water flows off the plate of the scale?
  (3 pont)

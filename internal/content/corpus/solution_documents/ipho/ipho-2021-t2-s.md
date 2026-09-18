@@ -30,13 +30,13 @@ A.2 (0.4 points)
 Using an expansion in powers of 𝑧 we obtain:
 
                                                                          𝑧2
-                                                                           
+
                            𝑞       1        𝑞        1         𝑞
                    Φ(𝑧) =      √         =                 ≈          1− 2 .
                           4𝜋𝜀 0 𝑅 2 + 𝑧 2 4𝜋𝜀 0𝑅             4𝜋𝜀 0𝑅     2𝑅
                                                  √︃
                                                        𝑧 2
-                                                        
+
                                                    1+ 𝑅
 
 A.3 (0.2 points)
@@ -57,7 +57,9 @@ The equation of motion for an electron is
                                                    𝑞𝑒
                                          𝜔=               .
                                                 4𝜋𝑚𝜀 0𝑅 3
-                                                                                          S2-2
+
+
+                                                                                          S2-2
                               Theoretical Question 2 – Solution                           ENGLISH
 
 
@@ -89,9 +91,9 @@ Electrostatic potential created by ring element d𝜙 at the point B:
                                                                1 + 𝑅𝑟 2 − 2 𝑅𝑟 cos 𝜙
 
 Using the expansion given in the formulation of the problem for 𝜀 = −1/2 we have:
-                               "                                         2#
+                               "                                          2#
                                     1 𝑟2                3 𝑟2
-                                                        
+
                          𝜆 d𝜙                𝑟                    𝑟
                    dΦ ≈          1−       − 2 cos 𝜙 +         − 2 cos 𝜙      .
                          4𝜋𝜀 0      2 𝑅2     𝑅          8 𝑅2      𝑅
@@ -99,25 +101,27 @@ Using the expansion given in the formulation of the problem for 𝜀 = −1/2 we
 Ignoring the terms of the order 𝑟 3 and 𝑟 4 we get:
 
                                                     𝑟2 3
-                                                                 
+
                                  𝜆 d𝜙        𝑟              2    1
                           dΦ ≈           1 + cos 𝜙 + 2   cos 𝜙 −      .
                                  4𝜋𝜀 0       𝑅      𝑅 2          2
 
 Integrating over all angles we finally obtain:
-                                   ˆ 2𝜋 
+                                   ˆ 2𝜋
                                                      𝑟2 3
-                                                                   
+
                                 𝜆              𝑟                  1
                       Φ(𝑟 ) =             1 + cos 𝜙 + 2      2
                                                           cos 𝜙 −      d𝜙 .
                               4𝜋𝜀 0 0         𝑅      𝑅 2          2
-                                                                                            S2-3
+
+
+                                                                                            S2-3
                              Theoretical Question 2 – Solution                             ENGLISH
 
 
                                                              𝑟2
-                                                               
+
                                                    𝑞
                                          Φ(𝑟 ) =          1+ 2 .
                                                  4𝜋𝜀 0𝑅     4𝑅
@@ -137,7 +141,7 @@ of the ring. In part A we analyzed the potential along the 𝑧-axis, while in t
 potential along the radius 𝑟 . For any 𝑧 ≪ 𝑅 and 𝑟 ≪ 𝑅 the potential has an expression:
 
                                                           𝑧2
-                                                            
+
                                                𝑞
                                   Φ(𝑧, 𝑟 ) =          1 − 2 + 𝑞𝛽𝑟 2 .
                                              4𝜋𝜀 0𝑅      2𝑅
@@ -160,7 +164,9 @@ The second integral is:             ˆ
 The first integral is:          ˆ
                                       E® · d𝑆® = 4𝜋𝑟𝑧E𝑟 (𝑧, 𝑟 ) = −8𝜋𝑞𝛽𝑟 2𝑧.
                                side
-                                                                                             S2-4
+
+
+                                                                                             S2-4
                               Theoretical Question 2 – Solution                             ENGLISH
 
 
@@ -212,7 +218,9 @@ be focused) in the same spot. Thus,
                                                     𝐸
                                            𝑓 =−        .
                                                   𝑒𝑞𝑑𝛽
-                                                                                              S2-5
+
+
+                                                                                              S2-5
                               Theoretical Question 2 – Solution                              ENGLISH
 
 
@@ -258,7 +266,9 @@ From the previous answer we obtain:
                                              1 1   𝑒𝑞𝛽𝑑
                                               + =−      .
                                              𝑏 𝑐     𝐸
-                                                                                             S2-6
+
+
+                                                                                             S2-6
                                Theoretical Question 2 – Solution                            ENGLISH
 
 
@@ -296,18 +306,20 @@ is then given by an integral:
                                                         √︁                             √︁
                                                                                           1 + 𝑦2
 Using the integral provided in the description of the problem we get:
-                                                                      √︄   2
-                        𝑞          √︁        𝛼𝑅/𝑎     𝑞         𝛼𝑅       𝛼𝑅 ª
+                                                                      √︄     2
+                        𝑞           √︁         𝛼𝑅/𝑎     𝑞         𝛼𝑅       𝛼𝑅 ª
                Φ1 = 2        ln 𝑦 + 1 + 𝑦  2        = 2      ln ­    + 1+
                                                                 ©
                                                                                ®.
                      4𝜋 𝜀 0𝑅                   0     4𝜋 𝜀 0𝑅       𝑎        𝑎
                                                                 «              ¬
-As 𝛼𝑅 ≫ 𝑎,                                                  
+As 𝛼𝑅 ≫ 𝑎,
                                               𝑞          2𝛼𝑅
                                         Φ1 ≈ 2      ln         .
                                             4𝜋 𝜀 0𝑅       𝑎
-                                                                                                       S2-7
+
+
+                                                                                                       S2-7
                                  Theoretical Question 2 – Solution                                     ENGLISH
 
 
@@ -324,7 +336,7 @@ derive the distance between points K and L of Figure 5:
 The contribution Φ2 can then be written as an integral:
 
                       ˆ 𝜋                        ˆ 𝜋                     ˆ 𝜋d 𝜙                ˆ 𝜋/2
-                                                                              
+
             𝑞 1               d𝜙         𝑞              d𝜙       𝑞             2       𝑞                d𝜒
     Φ2 = 2                           =   2
                                                              =   2
@@ -339,28 +351,30 @@ The contribution Φ2 can then be written as an integral:
 Using the integral from the formulation of the problem, we calculate:
                   ˆ 𝜋/2
                                            cos 𝜒 + 1 𝜋/2
-                                                                                 
+
                              d𝜒                                  cos 𝛼/2 + 1         4
                                   = − ln                  = ln                 ≈ ln
                       𝛼/2   sin 𝜒            sin 𝜒    𝛼/2          sin 𝛼/2           𝛼
 
-for 𝛼 ≪ 1. Therefore                                       
+for 𝛼 ≪ 1. Therefore
                                                  𝑞         4
                                            Φ2 ≈ 2      ln     .
                                                4𝜋 𝜀 0𝑅     𝛼
    The total potential and capacitance. The total potential is the sum of Φ1 and Φ2 :
-                                                                            
+
                                 𝑞          2𝛼𝑅      𝑞         4       𝑞         8𝑅
                Φ = Φ1 + Φ2 = 2        ln         + 2      ln     = 2        ln     .
                               4𝜋 𝜀 0𝑅       𝑎     4𝜋 𝜀 0𝑅     𝛼     4𝜋 𝜀 0𝑅      𝑎
 𝛼 drops out from the expression. From here we obtain the capacitance 𝐶 = 𝑞/Φ :
 
                                                         4𝜋 2𝜀 0𝑅
-                                                  𝐶=           .
+                                                  𝐶=            .
                                                         ln 8𝑅𝑎
 
 𝐶 → 0 as 𝑎 → 0.
-                                                                                                             S2-8
+
+
+                                                                                                             S2-8
                                 Theoretical Question 2 – Solution                                            ENGLISH
 
 
@@ -372,12 +386,12 @@ the resistor is 𝑅0𝐼 (𝑡) = 𝑅0 d𝑞/d𝑡 . Therefore for time − 2�
                                                           + 𝑅0    = 𝑉0 .
                                                       𝐶        d𝑡
 Integrating this equation and keeping in mind that 𝑞(𝑡) = 0 at 𝑡 = −𝑑/(2𝑣), we get:
-                                                             
+
                                                   − 𝑑    − 𝑡
                                  𝑞(𝑡) = 𝐶𝑉0 1 − e 2𝑣𝑅0𝐶 e 𝑅0𝐶 .
 
 The charge attains the largest absolute value at 𝑡 = 𝑑/(2𝑣). The value of the charge at this time is:
-                                                             
+
                                                       − 𝑣𝑅𝑑 𝐶
                                       𝑞 0 = 𝐶𝑉0 1 − e     0     .
 
@@ -385,7 +399,7 @@ The charge attains the largest absolute value at 𝑡 = 𝑑/(2𝑣). The value 
                                                       𝑞(𝑡)      d𝑞
                                                            + 𝑅0    = 0.
                                                        𝐶        d𝑡
-From here:                                                                                    
+From here:
                                            − 𝑅 𝑡 𝐶 + 2𝑣𝑅𝑑                𝑑
                                                                                     − 2𝑣𝑅𝑑 𝐶           𝑡
                             𝑞(𝑡) = 𝑞 0 e       0        0𝐶   = 𝐶𝑉0 e   2𝑣𝑅0𝐶   −e        0         e− 𝑅𝐶 .
@@ -393,12 +407,12 @@ Therefore, we obtain:
                               
                               
                                0                                              for 𝑡 < − 2𝑣𝑑 ;
-                                                         
+                              
                               
                                          − 2𝑣𝑅𝑑 𝐶 − 𝑅 𝑡 𝐶
                         𝑞(𝑡) = 𝐶𝑉0 1 − e        0 e   0                        for − 2𝑣𝑑 < 𝑡 < 2𝑣𝑑 ;
-                                  𝑑               𝑑
-                                                            𝑡
+                                   𝑑               𝑑
+                                                             𝑡
                               𝐶𝑉0 e 2𝑣𝑅0𝐶 − e− 2𝑣𝑅0𝐶 e− 𝑅0𝐶
                               
                               
@@ -411,7 +425,9 @@ of charge on time is shown in Figure 6.
 
 
                           Figure 6: Charge on the ring as a function of time.
-                                                                                                                 S2-9
+
+
+                                                                                                                 S2-9
                                    Theoretical Question 2 – Solution                                           ENGLISH
 
 
@@ -435,13 +451,13 @@ In this case the acquired vertical velocity is
                                                                                                       ´ 𝑑/(2𝑣)
 We can use the derived equations for 𝑞(𝑡) and find the integrals. The integral                            −𝑑/(2𝑣) 𝑞(𝑡) d𝑡 is
 (using the notation 𝑑/𝑣 = 𝑡 0 , 𝑅0𝐶 = 𝜏, 𝐶𝑉0 = 𝑄 0 ):
-                ˆ 𝑡0 /2                    ˆ 𝑡0 /2                                    h           i
+                ˆ 𝑡0 /2                    ˆ 𝑡0 /2                                       h           i
                                                                  𝑡0    𝑡
                             𝑞(𝑡) d𝑡 =                 𝑄 0 1 − e− 2𝜏 e− 𝜏 d𝑡 = 𝑄 0 𝑡 0 − 𝜏 1 − e−𝑡0 /𝜏 .
                   −𝑡 0 /2                   −𝑡 0 /2
             ´∞
 The integral 𝑑/(2𝑣) 𝑞(𝑡) d𝑡 is
-                                 ˆ ∞           𝑡0           𝑡           h           i
+                                 ˆ ∞            𝑡0            𝑡           h           i
                                                          𝑡0
                                            𝑄 0 e 2𝜏 − e− 2𝜏 e− 𝜏 d𝑡 = 𝑄 0𝜏 1 − e−𝑡0 /𝜏 .
                                   𝑡 0 /2

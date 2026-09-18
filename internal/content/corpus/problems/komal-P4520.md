@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201303"
 verification_status: flagged
 ---
 
-The bodies arranged as shown in the figure are at rest; m $_{1}$=1 kg, =30$^\circ$. The rope attached to the body of mass  m $_{1}$ is horizontal. 
- a ) Determine the magnitude of  m $_{2}$. 
- b ) Suppose that the rope which fixes the body of mass  m $_{1}$ brakes. What is the acceleration of the bodies when they begin to move? 
+The bodies arranged as shown in the figure are at rest; m $_{1}$=1 kg, =30$^\circ$. The rope attached to the body of mass  m $_{1}$ is horizontal.
+ a ) Determine the magnitude of  m $_{2}$.
+ b ) Suppose that the rope which fixes the body of mass  m $_{1}$ brakes. What is the acceleration of the bodies when they begin to move?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4520-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4520-fig1.gif)

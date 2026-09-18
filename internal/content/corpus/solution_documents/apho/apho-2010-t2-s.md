@@ -24,25 +24,25 @@ Theoretical Competition
 (a) At the point 𝑥𝑥 on the axis, the magnetic field due to the current 𝐼𝐼 passing through the turns
     located in the interval (𝑠𝑠, 𝑠𝑠 + 𝑑𝑑𝑑𝑑) is (see Fig. A1)
                           𝜇𝜇             𝐼𝐼(𝜋𝜋𝜋𝜋)            (𝐷𝐷/2)           𝑑𝑑𝑑𝑑
-                    �⃗ = ( 0 )
-                  𝑑𝑑𝐵𝐵                                   ∙                  ∙      𝑥𝑥�       (a-1)
-                          4𝜋𝜋 (𝐷𝐷/2)2 + (𝑠𝑠 − 𝑥𝑥)2 �(𝐷𝐷/2)2 + (𝑠𝑠 − 𝑥𝑥)2 𝑎𝑎
-                                                                                     �⃗ (𝑥𝑥) =
+                     ⃗ = ( 0 )
+                  𝑑𝑑𝐵𝐵                                   ∙                  ∙      𝑥𝑥        (a-1)
+                          4𝜋𝜋 (𝐷𝐷/2)2 + (𝑠𝑠 − 𝑥𝑥)2  (𝐷𝐷/2)2 + (𝑠𝑠 − 𝑥𝑥)2 𝑎𝑎
+                                                                                      ⃗ (𝑥𝑥) =
     which, when summed over all turns of the coil, leads to the total magnetic field 𝐵𝐵
-    𝐵𝐵(𝑥𝑥)𝑥𝑥� with
+    𝐵𝐵(𝑥𝑥)𝑥𝑥  with
                                    ℓ/2
                    𝜇𝜇0 𝐼𝐼 𝐷𝐷 2           𝑑𝑑𝑑𝑑
-          𝐵𝐵(𝑥𝑥) =       ( ) �
+          𝐵𝐵(𝑥𝑥) =       ( )
                    2𝑎𝑎 2       [(𝐷𝐷/2)2 + (𝑠𝑠 − 𝑥𝑥)2 ]3/2
                                  −ℓ/2
                                     ℓ/2−𝑥𝑥
                     𝜇𝜇0 𝐼𝐼 𝐷𝐷 2                      𝑑𝑑𝑑𝑑
-                  =       ( )        �
+                  =       ( )
                     2𝑎𝑎 2                    [(𝐷𝐷/2)2 + 𝑠𝑠 2 ]3/2
                                   −ℓ/2−𝑥𝑥
                       𝜇𝜇0 𝐼𝐼    (ℓ/2) − 𝑥𝑥               (ℓ/2) + 𝑥𝑥
-                  =          �                    +                         �                                  (a-2)*
-                      2𝑎𝑎 �(𝐷𝐷/2)2 + [(ℓ/2) − 𝑥𝑥]2 �(𝐷𝐷/2)2 + [(ℓ/2) + 𝑥𝑥]2
+                  =                               +                                                            (a-2)*
+                      2𝑎𝑎  (𝐷𝐷/2)2 + [(ℓ/2) − 𝑥𝑥]2  (𝐷𝐷/2)2 + [(ℓ/2) + 𝑥𝑥]2
 
                                                                  no. of turns in 𝑑𝑑𝑑𝑑 is 𝑑𝑑𝑑𝑑/𝑎𝑎
                                      1
@@ -59,15 +59,16 @@ Theoretical Competition
 
                                     𝜇𝜇0 𝐼𝐼   2(ℓ/2)         𝜇𝜇0 𝐼𝐼   1
                           𝐵𝐵(0) =                         =                                                    (b-1)
-                                    2𝑎𝑎 �(𝐷𝐷/2)2 + (ℓ/2)2    𝑎𝑎 �1 + (𝐷𝐷/ℓ)2
+                                    2𝑎𝑎  (𝐷𝐷/2)2 + (ℓ/2)2    𝑎𝑎  1 + (𝐷𝐷/ℓ)2
 
     If 𝐵𝐵(0) is 10.0 T, then the current 𝐼𝐼 must be equal to
                                  𝑎𝑎
-                     𝐼𝐼0 = 𝐵𝐵(0) �1 + (𝐷𝐷/ℓ)2 = 1.7794 × 104 A ≅ 1.8 × 104 A                                   (b-2)*
+                     𝐼𝐼0 = 𝐵𝐵(0)  1 + (𝐷𝐷/ℓ)2 = 1.7794 × 104 A ≅ 1.8 × 104 A                                   (b-2)*
                                 𝜇𝜇0
 ----------------------------------------------------------------------------------------------------------------
 *An equation marked with an asterisk gives key answers to the problem.
-                                                                                     Question Number 2
+
+                                                                                     Question Number 2
 Theoretical Competition
 
 25 April 2010                                                                                         Page 2 of 6
@@ -75,26 +76,26 @@ Theoretical Competition
                           __________________________________________________________________________________________
 
                                 Part B. The Upper Limit of Current
-(c) For an infinitely long coil with ℓ → ∞ and 𝑏𝑏 ≪ 𝐷𝐷, the magnetic field 𝐵𝐵    �⃗ acting on the
+(c) For an infinitely long coil with ℓ → ∞ and 𝑏𝑏 ≪ 𝐷𝐷, the magnetic field 𝐵𝐵     ⃗ acting on the
     current is the average of the fields inside and outside of the coil. The field outside is zero
     and the field inside is the same as that at O, i.e. 𝐵𝐵(0) in Eq. (b-1) with ℓ → ∞. Thus we
     have
                                            1        𝜇𝜇 𝐼𝐼      𝜇𝜇 𝐼𝐼
-                             �⃗ = 𝐵𝐵� 𝑥𝑥� = (0 + 0 )𝑥𝑥� = 0 𝑥𝑥�,
+                              ⃗ = 𝐵𝐵  𝑥𝑥  = (0 + 0 )𝑥𝑥  = 0 𝑥𝑥 ,
                              𝐵𝐵                                                           (c-1)
                                            2         𝑎𝑎        2𝑎𝑎
     and the outward normal force on the wire segment of length ∆𝑠𝑠 is
                                                         𝜇𝜇0 𝐼𝐼       ∆𝐹𝐹n 𝜇𝜇0 2
-                             ∆𝐹𝐹n = 𝐼𝐼𝐵𝐵� ∆𝑠𝑠 = 𝐼𝐼∆𝑠𝑠 � � or             =     𝐼𝐼 .      (c-2)*
+                             ∆𝐹𝐹n = 𝐼𝐼𝐵𝐵  ∆𝑠𝑠 = 𝐼𝐼∆𝑠𝑠     or             =     𝐼𝐼 .      (c-2)*
                                                          2𝑎𝑎         ∆𝑠𝑠   2𝑎𝑎
     As can be seen from Fig. A2, the resultant of the pair of tension forces at the ends of the
     segment ∆𝑠𝑠 is given by
                                         ∆𝜃𝜃                        2∆𝑠𝑠
-                                −2𝐹𝐹t sin (  ) ≅ −𝐹𝐹t ∆𝜃𝜃 = −𝐹𝐹t �      �.                 (c-3)
+                                −2𝐹𝐹t sin (  ) ≅ −𝐹𝐹t ∆𝜃𝜃 = −𝐹𝐹t         .                 (c-3)
                                          2                          𝐷𝐷′
     This must be in equilibrium with the normal force ∆𝐹𝐹n so that, by using Eq. (c-2), we have
                                         2∆𝑠𝑠              𝐷𝐷′ ∆𝐹𝐹n      𝜇𝜇0 2
-                           ∆𝐹𝐹n = 𝐹𝐹t �       � or 𝐹𝐹t = �         �=       𝐼𝐼 𝐷𝐷′ .      (c-4)*
+                           ∆𝐹𝐹n = 𝐹𝐹t           or 𝐹𝐹t =            =       𝐼𝐼 𝐷𝐷′ .      (c-4)*
                                          𝐷𝐷′               2 ∆𝑠𝑠        4𝑎𝑎
 
                                                       ∆𝐹𝐹n
@@ -118,13 +119,14 @@ Theoretical Competition
                                   𝜋𝜋𝜋𝜋          𝐷𝐷
     From the last two equations, the current 𝐼𝐼b at which the turn will break is
                            𝑏𝑏𝑏𝑏b              𝑏𝑏𝑏𝑏b
-                𝐼𝐼b = 2𝑎𝑎�        = 2𝑎𝑎�               = 1.737 × 104 A ≅ 1.7 × 104 A,                        (d-3)
+                𝐼𝐼b = 2𝑎𝑎         = 2𝑎𝑎                = 1.737 × 104 A ≅ 1.7 × 104 A,                        (d-3)
                           𝜇𝜇0 𝐷𝐷′        𝜇𝜇0 (1.60 𝐷𝐷)
     and the magnitude of the magnetic field at the center O, i.e. Eq. (b-1) with ℓ → ∞, is
                                 𝜇𝜇0 𝐼𝐼b     𝜇𝜇0 𝑏𝑏𝑏𝑏b
-                        𝐵𝐵b =           = 2�          = 10.914 T = 1.1 × 101 T,                            (d-4)*
+                        𝐵𝐵b =           = 2           = 10.914 T = 1.1 × 101 T,                            (d-4)*
                                   𝑎𝑎           𝐷𝐷′
-                                                                                 Question Number 2
+
+                                                                                 Question Number 2
 Theoretical Competition
 
 25 April 2010                                                                                         Page 3 of 6
@@ -138,13 +140,13 @@ Theoretical Competition
                                       𝑎𝑎𝑎𝑎 (2.0 × 10−3 )(5.0 × 10−3 )
    The power density is given by
                                  𝐼𝐼 2
-                 𝜌𝜌e 𝐽𝐽2 = 𝜌𝜌e � � = 1.720 × 1010 W/m3 ≅ 1.7 × 1010 W/m3 .                                  (e-2)*
+                 𝜌𝜌e 𝐽𝐽2 = 𝜌𝜌e     = 1.720 × 1010 W/m3 ≅ 1.7 × 1010 W/m3 .                                  (e-2)*
                                 𝑎𝑎𝑎𝑎
  (ALTERNATIVE)
     The volume 𝜏𝜏 and resistance 𝑅𝑅 (appearing also in Problem (h)) of the current-carrying
     wire for a coil of length ℓ are given by
                                       𝐷𝐷 + 𝑏𝑏 2   𝐷𝐷 − 𝑏𝑏 2
-                            𝜏𝜏 = 𝜋𝜋 ��       � −�        � � ℓ = 𝜋𝜋𝜋𝜋𝜋𝜋ℓ = 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁,                       (e-3)
+                            𝜏𝜏 = 𝜋𝜋            −             ℓ = 𝜋𝜋𝜋𝜋𝜋𝜋ℓ = 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁,                       (e-3)
                                          2           2
                                 𝑁𝑁𝑁𝑁𝑁𝑁      𝜋𝜋𝜋𝜋ℓ
                            𝑅𝑅 = 𝜌𝜌e    = 𝜌𝜌e 2 = 1.9453 × 10−2 Ω ≅ 1.9 × 10−2 Ω.                             (e-4)
@@ -157,17 +159,17 @@ Theoretical Competition
                          𝜏𝜏 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 ℓ𝜋𝜋𝜋𝜋𝜋𝜋
     Note that, by Eqs. (e-3) to (e-5), the expression for power density may also be written as
                           𝑃𝑃 𝐼𝐼 2 𝑅𝑅     𝐼𝐼 2    𝜋𝜋𝜋𝜋ℓ          𝐼𝐼 2
-                             =       =        𝜌𝜌        = 𝜌𝜌e � � = 𝜌𝜌e 𝐽𝐽2 .                               (e-7)*
+                             =       =        𝜌𝜌        = 𝜌𝜌e     = 𝜌𝜌e 𝐽𝐽2 .                               (e-7)*
                           𝜏𝜏    𝜏𝜏     ℓ𝜋𝜋𝜋𝜋𝜋𝜋 e 𝑎𝑎2 𝑏𝑏        𝑎𝑎𝑎𝑎
     This is identical to that obtained in Eq. (e-2).
 
 (f) The time rate of temperature increase of the coil is
                                        𝜌𝜌e 𝐽𝐽2    𝜌𝜌e      𝐼𝐼 2
-                            𝑇𝑇̇ =              =         � � .                                               (f-1)
+                            𝑇𝑇̇ =              =             .                                               (f-1)
                                       𝜌𝜌𝑚𝑚 𝑐𝑐𝑝𝑝 𝜌𝜌𝑚𝑚 𝑐𝑐𝑝𝑝 𝑎𝑎𝑎𝑎
     At 𝑇𝑇 = 293 K and 𝐼𝐼 = 10.0 kA, we have
                                  𝜌𝜌e      𝐼𝐼 2  𝜌𝜌e 𝐽𝐽2
-                       𝑇𝑇̇ =            � � =            = 4.975 × 103 K/s ≅ 5.0 × 103 K/s.                 (f-2)*
+                       𝑇𝑇̇ =                =            = 4.975 × 103 K/s ≅ 5.0 × 103 K/s.                 (f-2)*
                                𝜌𝜌𝑚𝑚 𝑐𝑐𝑝𝑝 𝑎𝑎𝑎𝑎  𝜌𝜌𝑚𝑚 𝑐𝑐𝑝𝑝
  (ALTERNATIVE)
    The heat capacity of the coil is
@@ -176,7 +178,8 @@ Theoretical Competition
                             𝐼𝐼 2 𝑅𝑅
                       𝑇𝑇̇ =         = 4.975 × 103 K/s ≅ 5.0 × 103 K/s.                                      (f-4)*
                             𝑀𝑀𝑐𝑐𝑝𝑝
-                                                                                 Question Number 2
+
+                                                                                 Question Number 2
 Theoretical Competition
 
 25 April 2010                                                                                         Page 4 of 6
@@ -186,11 +189,11 @@ Theoretical Competition
                                    Part D. A Pulsed-Field Magnet
 (g) The magnetic flux 𝜙𝜙𝐵𝐵 through each turn is, in the limit ℓ → ∞, given by
                                             𝐷𝐷 2 𝜇𝜇0 𝐼𝐼 𝐷𝐷 2
-                     𝜙𝜙𝐵𝐵 = { lim 𝐵𝐵(0)}𝜋𝜋 � � =        𝜋𝜋 � � .                                             (g-1)
+                     𝜙𝜙𝐵𝐵 = { lim 𝐵𝐵(0)}𝜋𝜋     =        𝜋𝜋     .                                             (g-1)
                              ℓ→∞            2        𝑎𝑎     2
     The inductance 𝐿𝐿 of the coil is
               𝑁𝑁𝜙𝜙𝐵𝐵 𝑁𝑁𝜇𝜇0 𝐷𝐷 2 ℓ𝜇𝜇0
-         𝐿𝐿 =       =       𝜋𝜋 � � = 2 𝜋𝜋𝐷𝐷2 = 1.0659 × 10−4 H ≅ 1.1 × 10−4 H.                              (g-2)*
+         𝐿𝐿 =       =       𝜋𝜋     = 2 𝜋𝜋𝐷𝐷2 = 1.0659 × 10−4 H ≅ 1.1 × 10−4 H.                              (g-2)*
                 𝐼𝐼       𝑎𝑎     2        4𝑎𝑎
     The resistance 𝑅𝑅 of the coil is the same as given in Eq. (e-4). Thus
                                  𝜋𝜋𝜋𝜋𝜋𝜋         𝜋𝜋𝜋𝜋ℓ
@@ -203,10 +206,10 @@ Theoretical Competition
                                            𝑑𝑑𝑑𝑑           𝐶𝐶
     In this question, we are given
                     𝐶𝐶𝑉𝑉0 −𝛼𝛼𝛼𝛼                            𝜃𝜃0      𝐶𝐶𝑉𝑉0 −𝛼𝛼(𝑡𝑡+𝜃𝜃0 )           𝜃𝜃0
-          𝑄𝑄(𝑡𝑡) =         𝑒𝑒   sin(𝜔𝜔𝜔𝜔 + 𝜃𝜃0 ) = �𝑒𝑒 𝛼𝛼 ( 𝜔𝜔 ) �         𝑒𝑒     𝜔𝜔 sin 𝜔𝜔(𝑡𝑡 +     ),    (1)
+          𝑄𝑄(𝑡𝑡) =         𝑒𝑒   sin(𝜔𝜔𝜔𝜔 + 𝜃𝜃0 ) =  𝑒𝑒 𝛼𝛼 ( 𝜔𝜔 )           𝑒𝑒     𝜔𝜔 sin 𝜔𝜔(𝑡𝑡 +     ),    (1)
                    sin 𝜃𝜃0                                         sin 𝜃𝜃0                       𝜔𝜔
                                                  𝑑𝑑𝑑𝑑       −𝛼𝛼      𝐶𝐶𝑉𝑉0 −𝛼𝛼𝛼𝛼
-                                      𝐼𝐼(𝑡𝑡) =        = �(        )�       𝑒𝑒    sin 𝜔𝜔𝜔𝜔 ,                    (2)
+                                      𝐼𝐼(𝑡𝑡) =        =  (        )        𝑒𝑒    sin 𝜔𝜔𝜔𝜔 ,                    (2)
                                                  𝑑𝑑𝑑𝑑      cos 𝜃𝜃0 sin 𝜃𝜃0
                                                          𝜔𝜔
                                              tan 𝜃𝜃0 =      .                                                  (3)
@@ -215,12 +218,12 @@ Theoretical Competition
     obtained from 𝑄𝑄(𝑡𝑡) by changing the latter’s time variable 𝑡𝑡 to (𝑡𝑡 − 𝜃𝜃0 /𝜔𝜔) or, equivalently,
     changing (𝑡𝑡 + 𝜃𝜃0 /𝜔𝜔) to 𝑡𝑡, and then multiplying its amplitude constant by a factor
                                                     𝜃𝜃0   −𝛼𝛼
-                                            �𝑒𝑒 −𝛼𝛼 𝜔𝜔 (         )�.
+                                             𝑒𝑒 −𝛼𝛼 𝜔𝜔 (         ) .
                                                          cos 𝜃𝜃0
     Since 𝐼𝐼(𝑡𝑡) in Eq. (2) has the same form as 𝑄𝑄(𝑡𝑡) in Eq. (1), we may apply the same rule
     again to obtain its derivative 𝑑𝑑𝐼𝐼/𝑑𝑑𝑑𝑑 as
                       𝑑𝑑𝑑𝑑           𝜃𝜃0   −𝛼𝛼           −𝛼𝛼     𝐶𝐶𝑉𝑉0              𝜃𝜃0              𝜃𝜃0
-                           = �𝑒𝑒 −𝛼𝛼 𝜔𝜔 (         )� �(        )        � 𝑒𝑒 −𝛼𝛼(𝑡𝑡− 𝜔𝜔 ) sin 𝜔𝜔(𝑡𝑡 − )
+                           =  𝑒𝑒 −𝛼𝛼 𝜔𝜔 (         )   (        )          𝑒𝑒 −𝛼𝛼(𝑡𝑡− 𝜔𝜔 ) sin 𝜔𝜔(𝑡𝑡 − )
                       𝑑𝑑𝑑𝑑                cos 𝜃𝜃0       cos 𝜃𝜃0 sin 𝜃𝜃0                              𝜔𝜔
                                   𝛼𝛼 2 𝐶𝐶𝑉𝑉0 −𝛼𝛼𝛼𝛼
                            =(          )        𝑒𝑒 sin(𝜔𝜔𝜔𝜔 − 𝜃𝜃0 )                                          (h-2)
@@ -228,9 +231,10 @@ Theoretical Competition
     Making use of Formula 2 given in Appendix, we may express the left side of Eq. (h-1) as a
     linear combination of cos 𝜔𝜔𝜔𝜔 and sin 𝜔𝜔𝜔𝜔 so that
                𝑑𝑑𝑑𝑑       𝑄𝑄      𝐶𝐶𝑉𝑉0
-             𝐿𝐿 + 𝑅𝑅𝑅𝑅 + = �            � 𝑒𝑒 −𝛼𝛼𝛼𝛼 (𝐴𝐴 cos 𝜃𝜃0 sin 𝜔𝜔𝜔𝜔 + 𝐵𝐵 sin 𝜃𝜃0 cos 𝜔𝜔𝜔𝜔) = 0,          (h-3)
+             𝐿𝐿 + 𝑅𝑅𝑅𝑅 + =                𝑒𝑒 −𝛼𝛼𝛼𝛼 (𝐴𝐴 cos 𝜃𝜃0 sin 𝜔𝜔𝜔𝜔 + 𝐵𝐵 sin 𝜃𝜃0 cos 𝜔𝜔𝜔𝜔) = 0,          (h-3)
                𝑑𝑑𝑑𝑑       𝐶𝐶    sin 𝜃𝜃0
-                                                                                  Question Number 2
+
+                                                                                  Question Number 2
 Theoretical Competition
 
 25 April 2010                                                                                         Page 5 of 6
@@ -265,7 +269,7 @@ Theoretical Competition
              𝜔𝜔2 = 𝜔𝜔0 2 − 𝛼𝛼 2 =        − ( )2 with           𝜔𝜔0 =           = 9.7 × 102 rad/s,          (h-9)*
                                     𝐿𝐿𝐿𝐿    2𝐿𝐿                        √𝐿𝐿𝐿𝐿
     and we obtain
-                𝜔𝜔 = �𝜔𝜔0 2 − 𝛼𝛼 2 = 9.6428 × 102 rad/s ≅ 9.6 × 102 rad/s.          (h-10)*
+                𝜔𝜔 =  𝜔𝜔0 2 − 𝛼𝛼 2 = 9.6428 × 102 rad/s ≅ 9.6 × 102 rad/s.          (h-10)*
 (i) From Eq. (h-2), the maximum value of |𝐼𝐼(𝑡𝑡)| appears at 𝑑𝑑𝑑𝑑/𝑑𝑑𝑑𝑑 = 0 when the time is
                                     𝜃𝜃0
                              𝑡𝑡m = .                                                   (i-1)
@@ -287,7 +291,8 @@ Theoretical Competition
                                  𝐼𝐼b 𝛼𝛼 𝜃𝜃0
                         𝑉𝑉0b =       𝑒𝑒 𝜔𝜔 cos 𝜃𝜃0 = 2.0623 × 103 V ≅ 2.1 × 103 V.                (i-5)*
                                 𝛼𝛼𝛼𝛼
-                                                                                 Question Number 2
+
+                                                                                 Question Number 2
 Theoretical Competition
 
 25 April 2010                                                                                         Page 6 of 6
@@ -302,12 +307,12 @@ Theoretical Competition
     From 𝑡𝑡 = 0 to 𝑡𝑡 = 𝑡𝑡m , the energy supplied by the capacitor bank to the circuit, in the form
     of Joule heat and magnetic energy in the field of the coil, is
                              1                           1                   2𝛼𝛼
-                       𝐸𝐸𝐶𝐶 = 𝐶𝐶�𝑉𝑉0b 2 − [𝑉𝑉(𝑡𝑡m )]2 � = 𝐶𝐶𝑉𝑉0b 2 �1 − 4𝑒𝑒 − 𝜔𝜔 𝜃𝜃0 cos2 𝜃𝜃0 � .             (j-2)
+                       𝐸𝐸𝐶𝐶 = 𝐶𝐶 𝑉𝑉0b 2 − [𝑉𝑉(𝑡𝑡m )]2   = 𝐶𝐶𝑉𝑉0b 2  1 − 4𝑒𝑒 − 𝜔𝜔 𝜃𝜃0 cos2 𝜃𝜃0   .             (j-2)
                              2                           2
     By the law of conservation of energy, this entire amount of energy is eventually turned
     into heat in the coil and we have
                     1                   2𝛼𝛼
-        ∆𝐸𝐸 = 𝐸𝐸𝐶𝐶 = 𝐶𝐶𝑉𝑉0b 2 �1 − 4𝑒𝑒 − 𝜔𝜔 𝜃𝜃0 cos 2 𝜃𝜃0 � = 2.0694 × 104 J ≅ 2.1 × 104 J. (j-3)*
+        ∆𝐸𝐸 = 𝐸𝐸𝐶𝐶 = 𝐶𝐶𝑉𝑉0b 2  1 − 4𝑒𝑒 − 𝜔𝜔 𝜃𝜃0 cos 2 𝜃𝜃0   = 2.0694 × 104 J ≅ 2.1 × 104 J. (j-3)*
                     2
     If the heat capacity (as computed in Eq. (f-3) remains about the same as that at 𝑇𝑇 = 293 K,
     then the temperature increase ∆𝑇𝑇 is

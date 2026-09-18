@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-Let us unplug a tungsten filament bedside lamp, which was on for a long time and measure the resistance of the cooling filament as a function of the elapsed time. How long does it take the resistance to decrease to half of the value of the resistance of the filament at the operating temperature. 
+Let us unplug a tungsten filament bedside lamp, which was on for a long time and measure the resistance of the cooling filament as a function of the elapsed time. How long does it take the resistance to decrease to half of the value of the resistance of the filament at the operating temperature.
  (6 pont)

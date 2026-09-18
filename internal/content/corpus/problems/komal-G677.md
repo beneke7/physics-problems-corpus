@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, graphical-reduction]
 ---
 
-We are walking at a steady rate, one step in a second. Each step is 0.5 m long. The rule is the following: one step forward, two steps backwards, then three steps forward, four steps backwards, five steps forward, six steps backwards and so on. 
- $a)$ Where are we after one minute? 
- $b)$ What is our average speed? 
- $c)$ What is our average velocity? 
+We are walking at a steady rate, one step in a second. Each step is 0.5 m long. The rule is the following: one step forward, two steps backwards, then three steps forward, four steps backwards, five steps forward, six steps backwards and so on.
+ $a)$ Where are we after one minute?
+ $b)$ What is our average speed?
+ $c)$ What is our average velocity?
  (3 pont)

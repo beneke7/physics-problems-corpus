@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A fruit falls from the top of a 12 m tree, hits a small branch at a height of 8 m, and although it loses 30% of its speed, it can continue falling because it breaks the branch. At what speed does it land? (The fruit is heavy and small.) 
+A fruit falls from the top of a 12 m tree, hits a small branch at a height of 8 m, and although it loses 30% of its speed, it can continue falling because it breaks the branch. At what speed does it land? (The fruit is heavy and small.)
  (3 pont)

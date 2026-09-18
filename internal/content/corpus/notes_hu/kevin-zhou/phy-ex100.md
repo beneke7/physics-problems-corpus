@@ -40,7 +40,7 @@ Vegyük észre, hogy Φ a kútban végzett oszcilláció hatása, ezért a köt�
                                           Φ(En ) = 2π(n + 1/2)
 
 teljesül. Az r < r0 tartományban exponenciálisan lecsengő megoldásból kiindulva a kapcsolási formulák a következőt adják:
-                                                                              Z r
+                                                                                Z r
                   1       K     Φ    i −K      Φ iS(r)/ℏ−iπ/4
         u(r) = p        2e cos + e         sin     e            + c.c., S(r) =      p(r) dr
                   p(r)          2    2         2                                 r2
@@ -71,7 +71,6 @@ bomló részecskék keletkezésének fizikai modellje.
 12.3    Green-függvények
 Ebben a szakaszban néhány formális definíciót adunk, amelyeket a következő szakaszban használunk. Elektromágnesességből vett
 heurisztikus példával kezdünk.
-269 12. Szórás
 
  • Sematikusan Maxwell-egyenleteink □A = J alakúak. A hozzájuk tartozó homogén egyenlet □Ah = 0, a nemhomogén egyenlet
    általános megoldása pedig
@@ -104,7 +103,7 @@ heurisztikus példával kezdünk.
 Most bevezetjük a Schrödinger-egyenlet időfüggő Green-függvényeit.
 
  • A nemhomogén, időfüggő Schrödinger-egyenlet
-                                          
+
                                   ∂
                                 iℏ − H(t) ψ(x, t) = S(x, t).
                                   ∂t
@@ -118,7 +117,6 @@ Most bevezetjük a Schrödinger-egyenlet időfüggő Green-függvényeit.
 
     Ez nem Green-függvény, mivel a homogén Schrödinger-egyenletet elégíti ki; ehelyett a hatásokat terjeszti előre és hátra
     az időben.
-270 12. Szórás
 
   • A kimenő (vagy retardált) időfüggő Green-függvény
 

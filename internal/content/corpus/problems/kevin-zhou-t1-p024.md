@@ -37,7 +37,9 @@ solution_language: en
           plate is still, and mv∥2 ≪ kB T . Assume that when gas molecules bounce from a plate, they
 
                                                       16
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
 
          obtain that plate’s transverse speed. Estimate the force per area F/A on each plate. (This
@@ -60,5 +62,5 @@ solution_language: en
          the facts about variance in P2.)
 
 
-                   01h
+                   01h
    For a clear discussion of the ideas of this problem, see sections 7.3 and 7.4 of The Art of Insight.

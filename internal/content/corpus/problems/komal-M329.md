@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201301"
 verification_status: pending
 ---
 
-Discharge a pencil-sized battery (AA) or rechargeable battery of the same size through a resistor of constant resistance. Measure how much charge flow through the resistor, and how much energy is delivered by the battery. 
+Discharge a pencil-sized battery (AA) or rechargeable battery of the same size through a resistor of constant resistance. Measure how much charge flow through the resistor, and how much energy is delivered by the battery.
  (6 pont)

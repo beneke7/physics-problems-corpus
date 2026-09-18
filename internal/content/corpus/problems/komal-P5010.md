@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, limiting-and-special-cases]
 ---
 
-In a cyclotron the frequency of the voltage used to accelerate protons is 10 MHz. What is the necessary frequency when deuteron, singly ionised helium or doubly ionised helium atoms are accelerated? 
+In a cyclotron the frequency of the voltage used to accelerate protons is 10 MHz. What is the necessary frequency when deuteron, singly ionised helium or doubly ionised helium atoms are accelerated?
  (4 pont)

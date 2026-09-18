@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws]
 ---
 
-A board of mass $M$ was fixed symmetrically as shown in the figure. The masses of the fixed pulleys and the ropes, as well as friction in the shaft are negligible. (The objects of mass $m$ are not glued to the board of mass $M$.) At what $m/M$ ratio will the system be in equilibrium? 
+A board of mass $M$ was fixed symmetrically as shown in the figure. The masses of the fixed pulleys and the ropes, as well as friction in the shaft are negligible. (The objects of mass $m$ are not glued to the board of mass $M$.) At what $m/M$ ratio will the system be in equilibrium?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5046-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5046-fig1.gif)

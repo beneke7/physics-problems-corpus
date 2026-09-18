@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-There is a piece of chalk at rest on a horizontal blackboard. The blackboard is suddenly pushed such that it gains a horizontal velocity of $v_0$, then it collides with a wall after a time of $T$ and it suddenly stops. How long is the track of the chalk on the board if the coefficient of friction between the chalk and the board is $\mu$? 
+There is a piece of chalk at rest on a horizontal blackboard. The blackboard is suddenly pushed such that it gains a horizontal velocity of $v_0$, then it collides with a wall after a time of $T$ and it suddenly stops. How long is the track of the chalk on the board if the coefficient of friction between the chalk and the board is $\mu$?
  (5 pont)

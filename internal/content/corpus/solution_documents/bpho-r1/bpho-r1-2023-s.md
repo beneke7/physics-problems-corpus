@@ -64,7 +64,9 @@ c) Helen & Robert cycling.
 
 
                                                 3
-d) Plank on wall.
+
+
+d) Plank on wall.
 
 
       •
@@ -96,11 +98,11 @@ e) Time & ratios for a falling object.
           So,         =
                   sp     (T − 1)2 − (T − 2)2
                       sℓ         T
-                                       2 + 2T − 1
-                                     2 − T
+                                          2 + 2T − 1
+                                     2 − T
           Hence          = 2                   2 + 4T − 4
                      sp     T
-                             − 2T + 1 − T   
+                               − 2T + 1 − T
                       2T − 1      3
           So that              =
                       2T − 3      2
@@ -126,7 +128,9 @@ e) Time & ratios for a falling object.
 
 
                                                  4
-f) Two wires from a horizontal rod.
+
+
+f) Two wires from a horizontal rod.
 
       • The weight is symmetrically supported by the two wires.
         Resolving vertically, 2T cos θ = mg
@@ -200,7 +204,9 @@ h) The ray of light has to enter the glass and it follows a symmetric path.
 
 
                                                  5
-i) Beam of photons.
+
+
+i) Beam of photons.
               ∆p      1 ∆E       Power
       • F =       =          =                                                                      !
               ∆t      c ∆t          c
@@ -237,7 +243,7 @@ j) neutron time of flight.
                          thl             880
                                                                 −x
           The exponent is small so an approximation
-                                                          e ≈1−x
+                                                            e ≈1−x
                                                       is used,
                                                        N
           So that for Ndecays = N0 − N = N0 1 −
@@ -264,7 +270,9 @@ k) Road & cylinder.
 
 
                                                 6
-                      r        1
+
+
+                      r        1
      •      tan 2θ =      =
                      2r        2
                        2. 12      4
@@ -311,7 +319,7 @@ l) Mass on a sliding wedge..
                                           sin θ
                                                           M a1
        Then,                                mg cos θ −           = ma1 sin θ
-                                                          sin θ    
+                                                           sin θ
                                                     M
        Thus                       mg cos θ = a1           + m sin θ
                                                    sin θ
@@ -332,7 +340,9 @@ l) Mass on a sliding wedge..
 
 
                                               7
-m) Two ships.
+
+
+m) Two ships.
 
       • Diagram                                                                                  !
 
@@ -385,7 +395,7 @@ n) Concentric cylinders.
                                             Fi     (E1 A1 + E2 A2 + E3 A3 ) δℓ
           Now the applied stress = P3i=1        =                             .                    !
                                         i=1 A i        (A 1 + A 2 + A 3 )       ℓ
-                                        
+
                                     ΣFi        ΣA1
           Hence            δℓ =            ×         ×ℓ
                                    ΣAi       ΣEi Ai
@@ -401,7 +411,9 @@ n) Concentric cylinders.
                    = π × 2.06 × 10−4 m2                  A2 = π × 0.516 × 10−4 m2
 
                                                 8
-        Area P
+
+
+        Area P
              of copper and steel tubes
                3
                                                                                                !
@@ -433,7 +445,7 @@ n) Concentric cylinders.
                                                = 6.4 × 10 × π × 5.36 × 10 ×          = 1 × 105 N
                                                                                   ℓ
                                                                        1.29 × 10−4
-                                                                                   
+
                                                     9
                    = (200 × 2.06 + 110 × 3.3) × 10 × π × 10 ×   −4
                                                                            0.30
@@ -483,7 +495,9 @@ o) Standing wave on a wire.
 
 
                                                9
-p) Maximum power.
+
+
+p) Maximum power.
 
       • Currents I, I1 , I2 through the cell, R1 and R2
 
@@ -496,7 +510,7 @@ o) Standing wave on a wire.
 
         and       I1 + I2 = I
 
-        So    I2 R2 = (I − I2 )R
+        So    I2 R2 = (I  − I2 )R
                                  1
                          R2
                   I2 =       +1 =I
@@ -515,10 +529,10 @@ o) Standing wave on a wire.
                                    P2   ε R1         R2
                                          1 [rR1 + R2 (r + R1 )]2
                                       = 2 2
-                                       ε R1        R2
+                                       ε R1         R2
                                                2 2
                                               r R1 R22 (r + R1 )2 2rR1 R2 (r + R1 )
-                                                                                    
+
                                          1
                                       = 2 2        +                +
                                        ε R1 R2            R2            R2
@@ -555,7 +569,9 @@ q) Capacitor circuit.
 
 
                                                 10
-        Eliminate V3 using (3)
+
+
+        Eliminate V3 using (3)
                         E1 C3 + E2 C3 − V2 C3 − V2 C3 = 2V1 C1 + 2V2 C2
 
         tidying           C3 (E1 + E2 ) = V1 (2C1 + C3 ) + V2 (2C2 + C3 )
@@ -565,10 +581,10 @@ q) Capacitor circuit.
 
         So            C3 (E1 + E2 ) = (E1 − E2 )(2C1 + C3 ) + V2 (2C1 + 2C2 + 2C3 )
 
-        then       E1
-                    C3 + E2 C3 = E1 C1 − E2 2C1 + 
-                                                    E1
-                                                      C3 − E2 C3 + 2V2 .ΣCi )
+        then       E1
+                     C 3 + E2 C3 = E1 C1 − E2 2C1 +
+                                                    E1
+                                                      C 3 − E2 C3 + 2V2 .ΣCi )
 
 
         Divide through by 2          E2 C3 = E1 C1 − E2 C1 + V2 ΣCi
@@ -611,7 +627,7 @@ r) Floating rod.
                            a.T = (a − x2 ). 43 ρA g
                                                   2
         With                      x=a
-                           a.T = 43 ρA a2 g                    
+                           a.T = 43 ρA a2 g
                                                         T
                                   2
                            T = 3 ρAg          or           =3 1
@@ -622,7 +638,9 @@ r) Floating rod.
 
 
                                                 11
-s) Two balls above a beaker of water.   • By Archimedes we can equate forces on the string.
+
+
+s) Two balls above a beaker of water.   • By Archimedes we can equate forces on the string.
                                           f is the fraction of the volume of A submerged
        • Two forces on each ball
          and a tension in the string    •                  T = mB g − ρVB g
@@ -680,7 +698,9 @@ t) Wooden pole.
 
 
                                                    12
-  There are two approaches to determining the slack length. Numerically and by algebraic
+
+
+  There are two approaches to determining the slack length. Numerically and by algebraic
   approximations.
   The mark for an order of magnitude result.
 • numerical      p                            √
@@ -692,7 +712,7 @@ t) Wooden pole.
               = t − h2 + b2 = h2 + (b + r − x)2 − h2 + b2
   Using the binomial approximation:
                       1 b+r−x 2             1 b 2
-                                            
+
               =h(1 +                    −1−
                       2      h              2 h
                  1
@@ -720,7 +740,9 @@ t) Wooden pole.
 
 
                                          13
-Qu 2
+
+
+Qu 2
 
 a)       • Kinetic energy of wind transferred to turbine
            Ek = 21 mv 2                                                                        !
@@ -787,7 +809,9 @@ b)     (i) ρA1 v1
 
 
                                                          14
-                                   ρL   1.68 × 10−8 × 265 × 103
+
+
+                                   ρL   1.68 × 10−8 × 265 × 103
 c)    (i)    • Resistance: R =        =                         = 2.93 = 2.9 Ω                      !
                                    A           π × 0.0222
              • Power Dissipated P = I 2 R
@@ -855,7 +879,9 @@ d)    (i) work function for mercury was not given in question - give mark for an
 
 
                                                    15
-              cB 2
+
+
+              cB 2
           +        cos 2ωt
                2
                                                       cB 2
@@ -873,9 +899,9 @@ d)    (i) work function for mercury was not given in question - give mark for an
                         cB 2                  cB  2
            Imax = I0 +       + (bB + 2cAB) +        = I0 + A1 + 2A2                 !
                          2                      2
-                       cB2                  cB2
-           Imin = I0 +  − (bB + 2cAB) −  = I0 − A1
-                       2                    2
+                       cB 2                  cB 2
+           Imin = I0 +   − (bB + 2cAB) −   = I0 − A1
+                        2                     2
            Imax − I0 = A1 + 2A2
            I0 − Imin = A1
                            2A2
@@ -890,7 +916,9 @@ d)    (i) work function for mercury was not given in question - give mark for an
 
 
                                    16
-Qu 3.
+
+
+Qu 3.
 
 a)     • Force down = weight + weight of hot air
                   = 200g + ρhot V g                                                           !
@@ -947,7 +975,9 @@ c)   (i)      • Assuming ideal gas n =
 
 
                                                     17
-                     66.5 g m−2      66.5 × 10−5 m
+
+
+                     66.5 g m−2      66.5 × 10−5 m
              tsilk =              =                = 5.115 × 10−5 m                               !
                      1.30 g cm−3          1.30
              So thickness of rubber = 4.3 × 10−4 − 0.5115 × 10−4 m = 3.79 × 10−4 m                !
@@ -1000,7 +1030,9 @@ e)   (i)   • ∆p = ρg∆h
 
 
                                                 18
-        • The differential form includes a − sign since as z increases P decreases.
+
+
+        • The differential form includes a − sign since as z increases P decreases.
                                        pM
           Then       dp = −ρgdz = −         gdh
                                        RT
@@ -1013,11 +1045,11 @@ e)   (i)   • ∆p = ρg∆h
                    1                  Mg
                      dp =      −             dh                                                        ✓
             P0     p        0    R(T0 − αh)
-                                          
+
                P (h)      Mg         T0 − αh
           ln            =       ln
                  P0        Rα           T0
-                                   M g
+                                     M g
                          T0 − αh Rα
           P (h) = P0                                                                                   !
                             T0
@@ -1026,12 +1058,12 @@ e)   (i)   • ∆p = ρg∆h
 (ii)    • Get temperature from T = T0 − αh = 288 − (0.00976 × 3000) = 258.7 = 259 K !
 
         • Substitute values into the equation derived:
-                                                            0.0299 × 9.81
+                                                              0.0299 × 9.81
                                      288 −  0.00976 ×  3000  8.314 × 0.00976
           P (3000) = 1.01 × 105
                                                288
                                      259 3.51
-                                        
+
           P (3000) = 1.01 × 10   5              = 7.0 × 104 Pa                                         !
                                      288
                                                                                                  (2 marks)
@@ -1050,16 +1082,16 @@ e)   (i)   • ∆p = ρg∆h
           material)
              P2 × πr2      P2 r
           =             =                                                                     !
-              2πrδr        2δr          1/3
+              2πrδr        2δr            1/3
               0.70 × 105 × [4.49 × 1.3          ]
           =                                         = 4 × 108 Pa                                       !
                    2 × 0.43 × 10−3
                                stress
         • Young’s Modulus E =
                                strain
-                                                                            1
+                                                                             1
                                                   ℓ′   r′              V′
-                                                                   
+
         • In the surface of the balloon, strain =    =    =                  3 = 1.3 13 = 1.09
                                                   ℓo   ro              Vo
           δℓ     ℓ′ − ℓo
@@ -1073,7 +1105,9 @@ e)   (i)   • ∆p = ρg∆h
 
 
                                             19
-Qu 4.
+
+
+Qu 4.
 
                                                      GM
 a)    (i)     • Gravitational field strength: gE =    2
@@ -1138,7 +1172,7 @@ a)    (i)     • Gravitational field strength: gE =    2
                                     1   2
                                     2 mvP − R    = 21 mvA                                            !
                                              Eo              RMo
-              • Rearrange for vP2             
+              • Rearrange for vP2
                  2     2              1     1
                 vP = vA + 2GMs           −
                                     RMo    REo
@@ -1161,7 +1195,9 @@ a)    (i)     • Gravitational field strength: gE =    2
 
 
                                                      20
-                                     r
+
+
+                                     r
                                            2GMs       REo
            and                vA =
                                          (RMo + REo ) RMo
@@ -1206,17 +1242,17 @@ a)    (i)     • Gravitational field strength: gE =    2
                                                            F
                                                  dv =           dt
                                             v         0 m0 − kt
-                                                                
+
                                                     F         kt
                                          v0 − v = − ln 1 −
                                                     k         m0
-                                                                
+
                                                   Ft         δm
                                           ∆v = −      ln 1 −
                                                   δm         m0
                                                                       Mark for method above !
            The    ∆v = vM − vA    = 24.2 − 21.6 = 2.6 km s−1
-                                                       
+
                           F × 27 × 60              400
            2.6 × 103 = −                  ln 1 −
                                 400                1350
@@ -1228,7 +1264,9 @@ a)    (i)     • Gravitational field strength: gE =    2
 
 
                                                21
-b)
+
+
+b)
 
 
 
@@ -1281,7 +1319,9 @@ a)    (i)     • Gravitational field strength: gE =    2
 
 
                                                   22
-vrecession = v cos θ
+
+
+vrecession = v cos θ
              r            6370       6370
 cos θ =           =                =
           (r + h)    (6370 + 780)    7150
@@ -1302,7 +1342,9 @@ The Doppler frequency shift will be ∆f =     =                      = ±36 kHz
 
 
                                    23
-Qu 5.
+
+
+Qu 5.
 
 a)
 
@@ -1371,7 +1413,9 @@ b) The filament has a transverse wave with a node in the middle and four loops
 
 
                                                 24
-        I
+
+
+        I
 c) J =    and P = I 2 R
        A
                            ρℓ
@@ -1405,16 +1449,16 @@ e) Given that the maximum power converted in the cell is when the external resis
                         +x=1
            (x + y + 1)
            then     xy + y + x(x + y + 1) = x + y + 1
-           which gives      xy + y + x2 + x
-                                            + xy = x
-                                                     + y + 1
+           which gives      xy + y  + x2 + x
+                                             + xy = x
+                                                      + y  + 1
            x(2y + x) = 1
            2xy + x2 − 1 = 0                                                                        !
 
     (ii) Kirchhoff I for currents at a node i1 = i2 + i3
                                             i1       i3
          then                                   =1+                                                !
-                                            i2       i2    
+                                            i2       i2
                                              i1       i3 V    V
          So then                                =1+ =1+
                                              i2       i2 yR xR + R
@@ -1438,21 +1482,23 @@ e) Given that the maximum power converted in the cell is when the external resis
                using the previous results for and       =
                                              i2      i2       y
                Now it is algebra and using the relation between x and y in part (i)
-                                               2
+                                                2
                            x 1 − x2
-                             
+
                Pinput                                           2x
                         = 2              +x+1 +x+1+                  (x + 1)2
                 Pload      y      2x                          1 − x2
 
                                                    25
-                                            2
+
+
+                                             2
                   x 1 − x2 + 2x2 + 2x
-                     
+
                                                             (1 + x)
                = 2                             + x + 1 + 2x
                  y             2x                           (1 − x)
-                      2             2           2     2
+                       2              2           2     2
                   x x + 2x + 1             (1 − x + 2x + 2x)
                = 2                      +
                  y          2x                    (1 − x)
@@ -1460,23 +1506,23 @@ e) Given that the maximum power converted in the cell is when the external resis
                = 2            +
                  y     4x2        (1 − x)
                              (x + 1)2
-                                                 
+
                          2                   1
                = (x + 1)           2
                                        +
-                            4xy 2 2(1 − x)           
+                             4xy 2 2(1 − x)
                          2   (x + 1) 4x          1
                = (x + 1)                   +
                              4x(1 − x2 )2 (1 − x)
-                 (x + 1)2            +1)2 x
-                                                   
-                                ((x
-                                        
-               =                              +1
-                  (1 − x) (1 − x)    (1
-                                        + x)2
+                 (x + 1)2            + 1)2 x
+
+                                ( (x
+
+               =                               +1
+                  (1 − x) (1 − x)     (1
+                                        +  x)2
                  (x + 1)2 x + (1 − x)
-                                          
+
                =
                   (1 − x)       (1 − x)
                  (1 + x)2
@@ -1503,10 +1549,10 @@ f)    (i) The resistance between the two hemispheres is R =                     
                                                                                                        !
 
                                                             ρ 1 rlarge
-                                                                
+
                                       Rlarge − Rs = ∆R = −
                                                            2π r rs
-                                                               
+
                                                    ρ   1     1
                                             ∆R =         −
                                                   2π rs rlarge

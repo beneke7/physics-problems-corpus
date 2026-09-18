@@ -52,7 +52,9 @@ nyugalomban van, és három erő hat rá. Mutassuk meg, hogy két dimenzióban e
 
 
                                                            3
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts
 
 
   2. példa
@@ -94,7 +96,9 @@ nyugalomban van, és három erő hat rá. Mutassuk meg, hogy két dimenzióban e
 
 
                                                 4
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        3. példa: Povey 5.6

@@ -58,9 +58,9 @@ x2
 /ω2
 .
 Thus, a plot of x2 vs. v2 has y-intercept A2 and slope −1/ω2.
-[3] Problem 24.  W 1 0USAPhO 2012, problem A2. (This one requires basic thermodynamics.)
-[3] Problem 25.  W 1 0USAPhO 2011, problem A2.
-[3] Problem 26.  c 1 0INPhO 2018, problem 7. (This one requires basic fluid dynamics.)
+[3] Problem 24.   W 1 0USAPhO 2012, problem A2. (This one requires basic thermodynamics.)
+[3] Problem 25.   W 1 0USAPhO 2011, problem A2.
+[3] Problem 26.   c 1 0INPhO 2018, problem 7. (This one requires basic fluid dynamics.)
 [3] Problem 27 (USAPhO 2024). An experimentalist drives a series RLC circuit with a sinusoidal
 voltage V (t) = V0 cosωt. In E6, you will learn how to show that the voltage across the capacitor,
 in the steady state, oscillates with amplitude

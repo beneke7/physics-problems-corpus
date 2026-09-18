@@ -212,7 +212,7 @@ $$
 
 在 $D 、 \sigma 、 \varepsilon 、 T$ 给定后，$\kappa \equiv \frac{\sigma e D}{2 \varepsilon k T}$ 是一个确定的常量。在本题所考虑的情形下，$\sigma$ 很小，甚至等于0；而当 $\sigma=0$ 时，上述超越方程显然有解 $\theta=0$ 。物理的解应是连续的，不能跨越奇点。因此，所考虑的超越方程的物理区域是 $0 \leq \theta<\frac{\pi}{2}$ 。由解题图4a可知，在所考虑的超越方程在物理区域 $0 \leq \theta<\frac{\pi}{2}$ 中有且只有一个根 $\theta$（事实上，由于 $\theta$ 和 $\tan \theta$ 在区域 $0 \leq \theta<\frac{\pi}{2}$ 中都是 $\theta$ 的单调函数，两者的乘积 $\kappa(\theta)$ 也是 $\theta$ 的单调函数），这正好符合静电唯一性定理。确定 $\theta$ 后，有
 
-![](cpho-f-2021-q4-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q4-fig01.png)
 解题图4a
 
 $$

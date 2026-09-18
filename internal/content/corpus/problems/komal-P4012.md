@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200710"
 verification_status: pending
 ---
 
-A plane mirror is placed 25 cm away from a concave spherical mirror perpendicularly to the principal axis of the concave mirror. Where should we place a candle if the images of the flames formed by the two mirrors are at the same distances from the object? The radius of then concave mirror is 40 cm. 
+A plane mirror is placed 25 cm away from a concave spherical mirror perpendicularly to the principal axis of the concave mirror. Where should we place a candle if the images of the flames formed by the two mirrors are at the same distances from the object? The radius of then concave mirror is 40 cm.
  (4 pont)

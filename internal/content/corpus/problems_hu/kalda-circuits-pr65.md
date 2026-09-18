@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkör kapcsolóját nyitva tartjuk; egy adott pillanatban bezárjuk. (a) Mekkora az ampermérő kijelzése közvetlenül a kapcsoló bezárása után? (b) A kapcsolót addig tartjuk zárva, amíg egyensúlyi állapot alakul ki; mekkora ekkor az ampermérő kijelzése? (c) Ezután ismét kinyitjuk a kapcsolót; mekkora az ampermérő kijelzése közvetlenül a nyitás után?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr65-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr65-fig1.jpg)

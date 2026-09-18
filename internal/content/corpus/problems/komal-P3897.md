@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: flagged
 ---
 
-The figure shows two protons which start to move at the same moment with an initial speed of v . Find the smallest distance between the two protons. Data: v =10$^{6}$ m/s, d =10$^{-9}$ m, =30$^\circ$. 
+The figure shows two protons which start to move at the same moment with an initial speed of v . Find the smallest distance between the two protons. Data: v =10$^{6}$ m/s, d =10$^{-9}$ m, =30$^\circ$.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3897-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3897-fig1.gif)

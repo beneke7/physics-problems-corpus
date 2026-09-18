@@ -43,7 +43,8 @@ Tasks                                                                           
                𝒉                         5.50 cm
 
                𝜽                          20.1°
-                                        Marking Scheme of E1
+
+                                        Marking Scheme of E1
                                                                                                         Page 2 of 14
                                  Part B: Diffraction patterns from Sample 2
 
@@ -67,7 +68,8 @@ Tasks                                                                           
                                                                         B1.4
                                                                         0.2 points for the correct sketch of the
                                                                         diffraction pattern for 𝜙 = 90°
-                                       Marking Scheme of E1
+
+                                       Marking Scheme of E1
                                                                                                        Page 3 of 14
                                 Part C: Diffraction patterns from Sample 3
 
@@ -91,7 +93,8 @@ Tasks                                                                           
                                                                        C1.4
                                                                        0.2 points for the correct sketch of the
                                                                        diffraction pattern for 𝜙 = 90°
-                                                Marking Scheme of E1
+
+                                                Marking Scheme of E1
                                                                                                             Page 4 of 14
                        Part D: Theory behind the reflected diffraction patterns from Sample 3
 
@@ -135,7 +138,8 @@ Tasks                                                                           
            𝑩                2𝑚𝜆 cos 𝜃
 
            C                  −𝑚2 𝜆2
-                                              Marking Scheme of E1
+
+                                              Marking Scheme of E1
                                                                                                               Page 5 of 14
 
 D2   By solving this quadratic equation and using the measured 𝒚               TOTAL = 1.8 points
@@ -197,7 +201,8 @@ D2   By solving this quadratic equation and using the measured 𝒚             
                                          2𝐴
 
      Using the values of 𝐴, 𝐵 and 𝐶 from the table above, the values
-                                      Marking Scheme of E1
+
+                                      Marking Scheme of E1
                                                                       Page 6 of 14
 
 of 𝑎1 and 𝑎2 can be calculated for each order 𝑚 as shown in the
@@ -258,7 +263,8 @@ following form:
 
 
 and then solve for the grating constant 𝑎 accordingly.
-                                           Marking Scheme of E1
+
+                                           Marking Scheme of E1
                                                                                                             Page 7 of 14
 
  D3     Calculate the mean for the grating constant a in meters to TOTAL = 0.8 points
@@ -308,7 +314,8 @@ Tasks                                                                           
         cm. Enter your results in the corresponding table in the E1
         answer sheet.                                                  0.6 points for filling in the correct values
                                                                        of 𝑦-coordinate in the table.
-                                   Marking Scheme of E1
+
+                                   Marking Scheme of E1
                                                                  Page 8 of 14
 Detailed marking allocation of Task E1 is as follows:
 
@@ -351,7 +358,8 @@ Solution:
                       3.0                 8.0
 
                       3.5                 8.3
-                                               Marking Scheme of E1
+
+                                               Marking Scheme of E1
                                                                                                     Page 9 of 14
 
 E2   Based on Eq. (1) given in Task (D), construct a linear equation
@@ -407,7 +415,8 @@ E2   Based on Eq. (1) given in Task (D), construct a linear equation
         2.5       7.7        15    0.939                    16.005
         3.0       8.0        15    0.939                    16.210
         3.5       8.3        15    0.939                    16.430
-                                          Marking Scheme of E1
+
+                                          Marking Scheme of E1
                                                                                                            Page 10 of 14
         We can then make a plot of M vs x as shown below:
 
@@ -446,7 +455,8 @@ Tasks                                                                           
                                                                             F1.4
                                                                             0.2 points for the correct sketch of
                                                                             𝜙 = 90°
-                  Marking Scheme of E1
+
+                  Marking Scheme of E1
                                          Page 11 of 14
 
 Solution:
@@ -458,7 +468,8 @@ Solution:
 
 
   #5        #5
-                                        Marking Scheme of E1
+
+                                        Marking Scheme of E1
                                                                                                          Page 12 of 14
 
 F2   With this understanding, estimate the spacing 𝒃 in meters of TOTAL = 1.6 points
@@ -509,7 +520,8 @@ F2   With this understanding, estimate the spacing 𝒃 in meters of TOTAL = 1.6
 
      Again, we take the only valid solution of 𝑏 (See the solution of
      Task (D3) for detailed explanations) as
-                                           Marking Scheme of E1
+
+                                           Marking Scheme of E1
                                                                                                        Page 13 of 14
 
                                    −𝐵 + √𝐵2 − 4𝐴𝐶
@@ -566,7 +578,8 @@ Tasks                                                                           
                                      𝑥= ∗
                                            𝑎
                                                                           G1.5
-                                  Marking Scheme of E1
+
+                                  Marking Scheme of E1
                                                                                               Page 14 of 14
 
 where 𝑎∗ is the lattice plane spacing of the periodic atomic lattice 0.3 points for the correct value of 𝑎∗

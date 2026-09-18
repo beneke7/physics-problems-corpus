@@ -46,7 +46,6 @@ Classically, q 2 p2 and p2 q 2 are the same phase space function, but their quan
 where we’ve used the commutator identity [A, BC] = B[A, C] + [A, B]C. There are many distinct
 “ordering prescriptions”. One particularly nice one is Weyl ordering, discussed further in the notes
  on Optics, which essentially symmetrizes the ordering of q and p.
-129 5. Fundamentals of Quantum Mechanics
 
 
    But even if you fix an ordering prescription, it’s still impossible to canonically quantize all
@@ -99,11 +98,10 @@ We now cover some facts about one-dimensional wave mechanics.
                                                                         dW
                                               ϕψ ′′ − ψϕ′′ = 0 =
                                                                         dx
-130 5. Fundamentals of Quantum Mechanics
 
 
    where W is the Wronskian of the solutions,
-                                                                    
+
                                                               ϕ ψ
                                    W = ϕψ ′ − ψϕ′ = det                .
                                                               ϕ′ ψ ′
@@ -155,7 +153,6 @@ We now cover some facts about one-dimensional wave mechanics.
                    ′                  ′                2m
                  ψm  (x2 )ψn (x2 ) − ψm (x1 )ψn (x1 ) = 2 (En − Em )      ψm ψn dx.
                                                         ℏ             x1
-131 5. Fundamentals of Quantum Mechanics
 
 
     If ψn (x) had no nodes between x1 and x2 , then the two sides would have to have opposite

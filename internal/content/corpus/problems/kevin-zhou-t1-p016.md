@@ -48,7 +48,9 @@ solution_language: en
 
 
                                                       9
-Kevin Zhou                                                                       Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                       Physics Olympiad Handouts
 
 
 
@@ -105,7 +107,9 @@ solution_language: en
 
 
                                                        10
-Kevin Zhou                                                           Physics Olympiad Handouts
+
+
+Kevin Zhou                                                           Physics Olympiad Handouts
 
 
   Idea 6: Equipartition Theorem
@@ -164,7 +168,9 @@ solution_language: en
 
 
                                                11
-   Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
 

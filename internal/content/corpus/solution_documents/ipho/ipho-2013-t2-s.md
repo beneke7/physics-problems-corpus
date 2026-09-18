@@ -56,7 +56,9 @@ The spherical silver nanoparticle in an external constant electric field
 
 
                                                  Page 1 of 3
-                             Plasmonic Steam Generator                                                          T2
+
+
+                             Plasmonic Steam Generator                                                          T2
 
                              .
        Charge displaced through the       -plane is the total charge of electrons in the cylinder of
@@ -105,7 +107,9 @@ The silver nanoparticle illuminated with light at the plasmon frequency
 
 
                                                   Page 2 of 3
-                              Plasmonic Steam Generator                                                               T2
+
+
+                              Plasmonic Steam Generator                                                               T2
 
      〈 〉                  〈   〉   ( ) 〈       〉.
 

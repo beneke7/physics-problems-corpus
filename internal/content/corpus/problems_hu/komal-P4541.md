@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4541. Mekkora az Egyenlítőn merőlegesen a földbe szúrt, 1 m magas bot árnyéka 
- a ) június 21-én délben; 
+P. 4541. Mekkora az Egyenlítőn merőlegesen a földbe szúrt, 1 m magas bot árnyéka
+ a ) június 21-én délben;
  b ) június 21-én, a delelés után 2 órával?

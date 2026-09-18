@@ -19,4 +19,4 @@ verification_status: pending
 
 The drawing below depicts octahedron made from wire; the number near to each edge shows the resistance of the corresponding wire in ohms. The resistance of the wires connecting the ammeters are negligibly small. Find the readings of the ammeters.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr37-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr37-fig1.jpg)

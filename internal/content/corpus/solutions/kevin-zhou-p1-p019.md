@@ -37,10 +37,10 @@ x2
 ).
 The first two terms agree with the usual form of the binomial theorem. For the third term,
 note that the coefficient should be
-
+
 1/2
 2
-
+
 =
 (1/2)(−1/2)
 2

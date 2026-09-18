@@ -44,7 +44,9 @@ Current error : ±0.1 mA; Voltage error : ±0.01 V
 
 
                                                   14
- b. Plotting (0.3 pts.): Proper sizes of scales, and units for abscissa and ordinate that bear
+
+
+ b. Plotting (0.3 pts.): Proper sizes of scales, and units for abscissa and ordinate that bear
     relation to the accuracy and range of the experiment.
  c. Curve (0.9 pts.): Proper data and adequate line shape
   ‧ As shown in Fig. A-1. Start ~0 → Threshold → Linear → Saturate.
@@ -99,7 +101,9 @@ Light Intensity (V)
 
 
                                                         15
- Question A-(2) ( Total 3.5 points)
+
+
+ Question A-(2) ( Total 3.5 points)
  Estimate the maximum current Im with uncertainty in the linear region of the J - I. Mark
  the linear region on the J - I curve figure by using arrows (↓) and determine the threshold
  current Ith with detailed error analysis.
@@ -126,7 +130,9 @@ d. Adequate value of Ith with error (1.0 pts.)
 
 
                                                  16
-         32
+
+
+         32
 
 
          31           y error bar
@@ -160,7 +166,9 @@ I (mA)   27
 
 
                                                  17
-Appendix：
+
+
+Appendix：
 ◎A1-1
 ● Least-Square Method：
 I = mJ +b → b = Ith
@@ -219,7 +227,9 @@ b=
 
 
                                                    18
-       Σ( y − y ( x ))
+
+
+       Σ( y − y ( x ))
                     2
                          0.0268
 σy =                   =        = 0.049
@@ -260,7 +270,9 @@ Ith(std.) = 0.18
 
 
                                                 19
- Part B: Optical Properties of Nematic Liquid Crystal
+
+
+ Part B: Optical Properties of Nematic Liquid Crystal
           Electro-optical switching characteristic of 90o TN LC cell
 
 
@@ -310,17 +322,19 @@ a. Proper data table marked with variables and units. (0.3 pts)
 
 
                                               20
-b. Properly choose the size of scales and units for abscissa and ordinate that bears the
+
+
+b. Properly choose the size of scales and units for abscissa and ordinate that bears the
    relation to the accuracy and range of the experiment. (0.3 pts)
 c. Correct measurement of the light intensity (J) as a function of the applied voltage (Vrms)
    and adequate J - Vrms curve plot.
-                        The intensity of the transmission light is smaller than 0.05 Volts in the normally
+                         The intensity of the transmission light is smaller than 0.05 Volts in the normally
                          black mode. (0.4 pts)
-                        There is a small optical bounce before the external applied voltage reaches the
+                         There is a small optical bounce before the external applied voltage reaches the
                          critical voltage. (0.8 pts)
-                        The intensity of the transmission light increases rapidly and abruptly when the
+                         The intensity of the transmission light increases rapidly and abruptly when the
                          external applied voltage exceeds the critical voltage. (0.4 pts)
-                        The intensity of the transmission light displays the plateau behavior as the external
+                         The intensity of the transmission light displays the plateau behavior as the external
                          applied voltage exceeds 3.0 Volts. (0.4 pts)
 
                                1.5
@@ -349,16 +363,18 @@ c. Correct measurement of the light intensity (J) as a function of the applied v
                                                      Applied Voltage (Volts)
 
 d. Adequate value of γ with error.
-      Find the maximum value of the light intensity in the region of the applied voltage
+       Find the maximum value of the light intensity in the region of the applied voltage
                          between 3.0 and 7.2 Volts (0.6 pts)
-                        Determine the value of 90 % of the maximum light intensity. Obtain the value of the
+                         Determine the value of 90 % of the maximum light intensity. Obtain the value of the
                          applied voltage V90 by interpolation. (0.6 pts)
 
 
                                                                  21
-    Determine the value of 10 % of the maximum light intensity. Obtain the value of the
+
+
+     Determine the value of 10 % of the maximum light intensity. Obtain the value of the
      applied voltageV10 by interpolation. (0.6 pts)
-    Correct γ ± ∆γ value, (0.42 ~ 0.44) ± 0.02. (0.4+0.2 pts)
+     Correct γ ± ∆γ value, (0.42 ~ 0.44) ± 0.02. (0.4+0.2 pts)
 
 
 Question B-(2) (Total 2.5 points)
@@ -366,11 +382,11 @@ Determine the critical voltage Vc of this NB 90o TN LC cell.       Show explicit
 graph how you determine the value Vc.
 
  a. Adequate value of VC with error, VC ± ∆VC.
-       Make the expanded scale plot and take more data points in the region of VC.
+        Make the expanded scale plot and take more data points in the region of VC.
         (0.8 pts)
-       Determine the value of VC when the intensity of the transmission light increases
+        Determine the value of VC when the intensity of the transmission light increases
         rapidly and abruptly. (0.7 pts)
-         Correct VC ± ∆VC value, (1.20 ~ 1.50) ± 0.01 Volts. (0.8+0.2 pts)
+          Correct VC ± ∆VC value, (1.20 ~ 1.50) ± 0.01 Volts. (0.8+0.2 pts)
 
 
 
@@ -399,7 +415,9 @@ graph how you determine the value Vc.
 
 
                                                     22
-Part C: Optical Properties of Nematic Liquid Crystal :
+
+
+Part C: Optical Properties of Nematic Liquid Crystal :
         Electro-optical switching characteristic of parallel aligned LC cell
 
 
@@ -411,11 +429,11 @@ graph how you determine the value Vc.
 
 
  a. Adequate value of δ and ∆n with error.
-       Take and average the values of T‖. (0.3 pts)
-       Take and average the values of T⊥. (0.3 pts)
-       Determine the value of order m. (0.9 pts)
-        Correct δ value, 15.7 ~ 18.2. (0.5 pts)
-        Correct ∆n value, 0.20 ~ 0.24 (0.5 pts)
+        Take and average the values of T‖. (0.3 pts)
+        Take and average the values of T⊥. (0.3 pts)
+        Determine the value of order m. (0.9 pts)
+         Correct δ value, 15.7 ~ 18.2. (0.5 pts)
+         Correct ∆n value, 0.20 ~ 0.24 (0.5 pts)
                    0.31 + 0.31 + 0.31
          T// =                        = 0.31 ± 0.01 Volts
                            3
@@ -443,7 +461,9 @@ graph how you determine the value Vc.
 
 
                                                    23
- Question C-(2) (Total 3.0 points)
+
+
+ Question C-(2) (Total 3.0 points)
  Measure, tabulate, and plot the electro-optical switching curve for T‖ of this parallel
   aligned LC cell in the θ = 45o configuration.
 
@@ -494,13 +514,15 @@ Applied voltage Light intensity Applied voltage Light intensity Applied voltage 
      1.98            1.40            3.30            0.01
 
                                               24
-       b. Properly choose the size of scales and units for abscissa and ordinate that bears the
+
+
+       b. Properly choose the size of scales and units for abscissa and ordinate that bears the
           relation to the accuracy and range of the experiment. (0.3 pts)
        c. Correct measurement of the T‖ as a function of the applied voltage (Vrms) and
           adequate T‖-Vrms curve plot.
-                         Three minima and two sharp maxima. (1.5 pts)
-                         Maxima values within 15% from each other. (0.5 pts)
-                         Minima are less than the values of 0.1 Volts. (0.4 pts)
+                          Three minima and two sharp maxima. (1.5 pts)
+                          Maxima values within 15% from each other. (0.5 pts)
+                          Minima are less than the values of 0.1 Volts. (0.4 pts)
 
 
 
@@ -530,16 +552,18 @@ Light Intensity (Volts)
 
 
                                                                25
-Question C-(3) (Total 2.0 points)
+
+
+Question C-(3) (Total 2.0 points)
 From the electro-optical switching data, find the value of the external applied voltage Vπ.
 
 
 
 a. Adequate value of Vπ with error.
-     Make the expanded scale plot and take more data points in the region of Vπ. (0.3 pts)
-     Indicate the correct minimum of Vπ. (0.8 pts)
-     Obtain the value of Vπ by interpolation or rounding. (0.5 pts)
-     Correct Vπ value : (3.2 ~ 3.5) ± 0.01 Volts. (0.2+0.2 pts)
+      Make the expanded scale plot and take more data points in the region of Vπ. (0.3 pts)
+      Indicate the correct minimum of Vπ. (0.8 pts)
+      Obtain the value of Vπ by interpolation or rounding. (0.5 pts)
+      Correct Vπ value : (3.2 ~ 3.5) ± 0.01 Volts. (0.2+0.2 pts)
 
 
 
@@ -567,7 +591,9 @@ Light Intensity (Volts)
 
 
                                                  26
-                              Marking Scheme
+
+
+                              Marking Scheme
 
 Part A: Optical Properties of Laser Diode
  No.                                   Contents                                    Sub Total
@@ -601,30 +627,32 @@ B-(1) Measure, tabulate, and plot the electro-optical switching curve (J vs.    
        that bears the relation to the accuracy and range of the experiment.
   c    Correct measurement of the light intensity (J) as a function of the
        applied voltage (Vrms) and adequate J - Vrms curve plot.
-          The intensity of the transmission light reaches zero value in the 0.4
+           The intensity of the transmission light reaches zero value in the 0.4
            normally black mode.
-          There is a small optical bounce before the external applied voltage 0.8
+           There is a small optical bounce before the external applied voltage 0.8
            reaches the critical voltage.
-          The intensity of the transmission light increases rapidly and 0.4
+           The intensity of the transmission light increases rapidly and 0.4
 
 
                                               27
-          abruptly when the external applied voltage exceeds the critical
+
+
+          abruptly when the external applied voltage exceeds the critical
           voltage.
-         The intensity of the transmission light displays the plateau 0.4
+          The intensity of the transmission light displays the plateau 0.4
           behavior as the external applied voltage exceeds 3.0 Volts.
   d   Adequate value of γ with error, γ ± ∆γ.
-         Correctly analyzing the maximum light intensity.                         0.6
-         Correctly analyzing the value of V90.                                    0.6
-         Correctly analyzing the value of V10.                                    0.6
-         Correct γ ± ∆γ value, (0.42 ~ 0.44) ± 0.02.                              0.6
+          Correctly analyzing the maximum light intensity.                         0.6
+          Correctly analyzing the value of V90.                                    0.6
+          Correctly analyzing the value of V10.                                    0.6
+          Correct γ ± ∆γ value, (0.42 ~ 0.44) ± 0.02.                              0.6
 B-(2) Determine the critical voltage Vc of this NB 90o TN LC cell.                       2.5 pts.
       Show explicitly with graph how you determine the value Vc.
       Adequate value of VC with error, VC ± ∆ VC.
-         Make the expanded scale plot and take more data points in the 0.8
+          Make the expanded scale plot and take more data points in the 0.8
           region of VC.
-         Correctly analyzing the value of VC.                                     0.7
-         Correct VC ± ∆ VC value, (1.2 ~ 1.5) ± 0.01 Volts.                       1.0
+          Correctly analyzing the value of VC.                                     0.7
+          Correct VC ± ∆ VC value, (1.2 ~ 1.5) ± 0.01 Volts.                       1.0
 
 
 
@@ -639,11 +667,11 @@ C-(1) Assume that the wavelength of laser light 650 nm, LC layer thickness      
       Δn of this LC cell at V=0.
 
       Adequate value of δ and ∆n with error.
-       Correctly analyzing the values of T‖.                                      0.3
-       Correctly analyzing the values of T⊥.                                      0.3
-         Correctly determining the value of order m.                              0.9
-         Correct δ value, 17.7 ~ 18.2.                                            0.5
-         Correct ∆n value, 0.23 ~ 0.25.                                           0.5
+        Correctly analyzing the values of T‖.                                      0.3
+        Correctly analyzing the values of T⊥.                                      0.3
+          Correctly determining the value of order m.                              0.9
+          Correct δ value, 17.7 ~ 18.2.                                            0.5
+          Correct ∆n value, 0.23 ~ 0.25.                                           0.5
 C-(2) Measure, tabulate, and plot the electro-optical switching curve for T              3.0 pts.
       of this parallel aligned LC cell in the θ = 45o configuration.
   a   Proper data table marked with variables and units.                           0.3
@@ -651,20 +679,22 @@ C-(2) Measure, tabulate, and plot the electro-optical switching curve for T     
 
 
                                               28
-      that bears the relation to the accuracy and range of the experiment.
+
+
+      that bears the relation to the accuracy and range of the experiment.
  c    Correct measurement of the T‖ as a function of the applied voltage
       (Vrms) and adequate T‖-Vrms curve plot.
-         Three minima and two sharp maxima.                                    1.5
-         Maxima values within 15 % from each other.                            0.5
-         Minima are less than the values of 0.1 Volts.                         0.4
+          Three minima and two sharp maxima.                                    1.5
+          Maxima values within 15 % from each other.                            0.5
+          Minima are less than the values of 0.1 Volts.                         0.4
 C-(3) From the electro-optical switching data, find the value of the external         2.0 pts.
       applied voltage Vπ
       Adequate value of Vπ with error.
-         Make the expanded scale plot and take more data points in the 0.3
+          Make the expanded scale plot and take more data points in the 0.3
           region of Vπ.
-         Indicate the correct minimum of Vπ.                                   0.8
-         Correctly analyzing the value of Vπ.                                  0.5
-         Correct Vπ± ∆ Vπvalue, (3.2 ~ 3.5 ) ± 0.1 Volts.                      0.4
+          Indicate the correct minimum of Vπ.                                   0.8
+          Correctly analyzing the value of Vπ.                                  0.5
+          Correct Vπ± ∆ Vπvalue, (3.2 ~ 3.5 ) ± 0.1 Volts.                      0.4
 
 
 

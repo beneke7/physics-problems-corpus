@@ -22,13 +22,13 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, limiting-and-special-cases]
 ---
 
-Threads are attached to two small balls of masses $m$ and $M=3m$ such that the other ends of the threads are fixed at the same height, as it is shown in the figure on the left. The centres of the balls are then at a depth of $L$ below the suspension. Then the ball with the smaller mass is raised such that the thread attached to it becomes horizontal ( right figure ), and then this ball is released. The two balls collide head-on and totally elastically. 
+Threads are attached to two small balls of masses $m$ and $M=3m$ such that the other ends of the threads are fixed at the same height, as it is shown in the figure on the left. The centres of the balls are then at a depth of $L$ below the suspension. Then the ball with the smaller mass is raised such that the thread attached to it becomes horizontal ( right figure ), and then this ball is released. The two balls collide head-on and totally elastically.
 
- $a)$ Right before the collision what is the total force exerted on the suspension by the two threads? 
- $b)$ What is this total force right after the collision? 
- $c)$ Between the first and the second collisions of the balls what is the greatest angle enclosed by the two threads? 
- $d)$ In the case of $c)$ what is the direction and the magnitude of the total force exerted by the threads on the suspension? 
- $e)$ What is the angle enclosed by the threads and the vertical when the second collision occurs? 
+ $a)$ Right before the collision what is the total force exerted on the suspension by the two threads?
+ $b)$ What is this total force right after the collision?
+ $c)$ Between the first and the second collisions of the balls what is the greatest angle enclosed by the two threads?
+ $d)$ In the case of $c)$ what is the direction and the magnitude of the total force exerted by the threads on the suspension?
+ $e)$ What is the angle enclosed by the threads and the vertical when the second collision occurs?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5393-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5393-fig1.gif)

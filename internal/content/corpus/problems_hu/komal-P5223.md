@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5223. Vízszintes asztallapon az  ábrán látható módon elhelyeztünk négy egyforma, egyenként 30 N súlyú golyót egy keretben, amely egy szabályos háromszög alapú hasáb. Mekkora erők hatnak az egyes érintkezési pontokban, ha a háromszög oldala 15 cm, a golyók átmérője pedig 5 cm? (A súrlódástól eltekinthetünk.)
 
-![figure](../../raw_html/komal_figures/komal-P5223-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5223-fig1.gif)

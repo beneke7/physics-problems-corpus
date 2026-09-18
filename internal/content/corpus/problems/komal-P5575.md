@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [model-reduction, differential-element]
 ---
 
-A small electric dipole is placed above a large grounded metal plate at a height of $h$. This is done in such a way that its dipole moment $\boldsymbol{p}$ points upwards as shown in the figure. 
+A small electric dipole is placed above a large grounded metal plate at a height of $h$. This is done in such a way that its dipole moment $\boldsymbol{p}$ points upwards as shown in the figure.
 
- Determine the positions of the points on the metal sheet where the surface charge density is zero. 
+ Determine the positions of the points on the metal sheet where the surface charge density is zero.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5575-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5575-fig1.gif)

@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4652. Nyolc darab, egyenként $100~\Omega$-os fogyasztóból álló hálózatban az $A$ és $B$ pont között 50 V feszültséget mérünk. 
+P. 4652. Nyolc darab, egyenként $100~\Omega$-os fogyasztóból álló hálózatban az $A$ és $B$ pont között 50 V feszültséget mérünk.
 
- Mekkora teljesítményt vesz fel ez a fogyasztókör a telepből? 
+ Mekkora teljesítményt vesz fel ez a fogyasztókör a telepből?
  Mátrai Tibor fizikaverseny, Eger
 
-![figure](../../raw_html/komal_figures/komal-P4652-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4652-fig1.gif)

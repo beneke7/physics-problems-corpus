@@ -26,7 +26,9 @@ Ha a kereket nyugalomból elengedjük, lefelé esik úgy, hogy az azt tartó hú
 
 
                                                         3
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
 
      (a) Határozzuk meg az esés közbeni közelítő gyorsulást.

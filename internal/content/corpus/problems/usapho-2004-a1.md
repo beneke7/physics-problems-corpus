@@ -29,4 +29,4 @@ A1. The capacitors in the circuit diagrammed to the right are initially uncharge
 After a very long time, the capacitors are fully charged.
 (5) b. What is the current in each resistor at this time?
 (10) c. What is the charge on each capacitor?
-![](usapho-2004-a1-fig01.png)
+![](../../figures/usapho/figures/usapho-2004-a1-fig01.png)

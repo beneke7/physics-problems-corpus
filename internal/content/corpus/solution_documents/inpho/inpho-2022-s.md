@@ -45,7 +45,9 @@ Instructions                                               Roll No.:
 
   6. Please submit the Answer Booklet at the end of the examination. You may retain the
      Question Paper.
-Page 2      Code 65                          Questions             Last six digits of Roll No.:
+
+
+Page 2      Code 65                          Questions             Last six digits of Roll No.:
 
 1. A block of mass m = 0.1 kg is attached to a spring (one end ﬁxed to the wall) with spring constant
    k = 50 N m−1 . The block slides on a rough horizontal table along the x-axis. Assume that both
@@ -110,7 +112,9 @@ Instructions                                               Roll No.:
                                                xj = (−1) (1 − 2αj)x0
                                                          j
                                                                                                   (1.6)
-Page 3        Code 65                          Questions
+
+
+Page 3        Code 65                          Questions
 
 
            The block will come to rest permanently at xn when
@@ -169,7 +173,9 @@ Instructions                                               Roll No.:
 
    (d) [2 marks] Qualitatively plot the displacement x from the unstretched position vs the time
        t.
-Page 4        Code 65                            Questions                    Last six digits of Roll No.:
+
+
+Page 4        Code 65                            Questions                    Last six digits of Roll No.:
 
 
          Solution: Equations of motion are
@@ -232,7 +238,9 @@ Instructions                                               Roll No.:
                       −0.1
                               0   0.2   0.4    0.6     0.8     1       1.2   1.4
                                                      t (s)
-Page 5      Code 65                      Questions
+
+
+Page 5      Code 65                      Questions
 
 
 
@@ -283,7 +291,9 @@ Instructions                                               Roll No.:
    (a) [3 marks] What are the quantities represented by the axes of the graph? Also state the
        respective units in which they are expressed. In the detailed answer sheet, justify your
        answer.
-Page 6     Code 65                       Questions            Last six digits of Roll No.:
+
+
+Page 6     Code 65                       Questions            Last six digits of Roll No.:
 
 
          Solution: It is clear that this graph is on a log-log scale. Physical quantities which are
@@ -325,7 +335,9 @@ Instructions                                               Roll No.:
          0.4. This we have already found in the previous part.
          From (x2 , y2 ), E ≈ 26 kt TNT.
          The yield of the Trinity test was oﬃcially estimated as 21 kt TNT.
-Page 7      Code 65                       Questions
+
+
+Page 7      Code 65                       Questions
 
 3. Consider an air ﬁlled spherical balloon comprised of elastic material of surface tension γ =
    500 kg/s2 . The pressure outside the balloon is the atmospheric pressure (Patm = 101 kPa) and the
@@ -393,8 +405,12 @@ Instructions                                               Roll No.:
                                           7A     γ
     For the given values, Eq. (3.9) gives t = 8.02 s and Eq. (3.10) yields 11.22 s. Both Eqs. (3.9)
     and (3.10) and accordingly the calculated values are considered correct.
-Page 8   Code 65   Questions   Last six digits of Roll No.:
-Page 9        Code 65                       Questions
+
+
+Page 8   Code 65   Questions   Last six digits of Roll No.:
+
+
+Page 9        Code 65                       Questions
 
 4. A student performed an experiment to determine the acceleration due to gravity (g) using a simple
    pendulum which has a spherical bob of diameter d hung with a long string. She varied the length
@@ -454,7 +470,9 @@ Instructions                                               Roll No.:
                                      4π 2
     suspension point, the slope a =       , and the intercept b = 0.
                                        g
-Page 10     Code 65                      Questions            Last six digits of Roll No.:
+
+
+Page 10     Code 65                      Questions            Last six digits of Roll No.:
 
 
     If the size of the bob is not included in the measurement of l, one should still get a linear
@@ -467,7 +485,9 @@ Instructions                                               Roll No.:
     Note that an overestimation of T by ∆T , say, would have caused the slope of the graph, and
     hence the derived g, to change since T 2 would have been modiﬁed by a term proportional to
     T itself.
-Page 11      Code 65                         Questions
+
+
+Page 11      Code 65                         Questions
 
 5. [12 marks] A circuit consists of an emf source and ﬁve resistors with unknown resistances. When
    an ideal ammeter is connected between points 1 and 2, its reading is IA . If instead a resistor R
@@ -521,7 +541,9 @@ Instructions                                               Roll No.:
                                                        IA IR
                                               V12 =           R
                                                       IA − IR
-Page 12   Code 65          Questions   Last six digits of Roll No.:
+
+
+Page 12   Code 65          Questions   Last six digits of Roll No.:
 
 
 

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-The energy dissipated by a specific type of elementary particle while it is moving in some solid is proportional to the distance covered by the particle, and finally it stops somewhere. Particles with an initial speed of $v_0=10^7$ m/s penetrate into some lighter material to a depth of $s_1=3$ cm, whereas they penetrate into some more dense material to a depth of $s_2=2$ cm. At what depth can these particles, with the same initial speed, go into the lighter material after passing through a $d=1.5$ cm thick layer of the more dense material? 
+The energy dissipated by a specific type of elementary particle while it is moving in some solid is proportional to the distance covered by the particle, and finally it stops somewhere. Particles with an initial speed of $v_0=10^7$ m/s penetrate into some lighter material to a depth of $s_1=3$ cm, whereas they penetrate into some more dense material to a depth of $s_2=2$ cm. At what depth can these particles, with the same initial speed, go into the lighter material after passing through a $d=1.5$ cm thick layer of the more dense material?
  (4 pont)

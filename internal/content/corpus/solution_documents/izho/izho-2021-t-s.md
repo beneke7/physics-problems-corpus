@@ -67,7 +67,9 @@ In reality, the motion of the system is represented by the addition of harmonic 
                                            Content                                              Points
  Formula (1): F = −my                                                                            0.3
  Formula (2): mx = −kx + mg − my                                                                 0.3
-XVII International Zhautykov Olympiad/Theoretical Competition                                         с. 2/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                         с. 2/16
 
  Formula (3):  sly = −2  sgy + kx                                                             0.3
                     mg
@@ -139,7 +141,9 @@ line with the plate. It is subject to the surface tension force equal to
                 F = 2 l ,                                                                          (6)
 as well as the force due to the pressure of the liquid column
                 Fp = pS ,                                                                           (7)
-XVII International Zhautykov Olympiad/Theoretical Competition                                        с. 3/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                        с. 3/16
 
 where the average pressure ia found as
                     1
@@ -192,7 +196,9 @@ the mass of the weight is finally derived as
 remains equal to zero. At the same time, since the resistance of the connecting wires is very small, the
 capacitors C1 and C 2 are almost instantly charged up to charges q10 and q20 respectively, whereas the
 capacitor C3 remains uncharged
-XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 4/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 4/16
 
                 q30 = 0 ,                                                                                 (1)
 since it can only be charged through the coil. Note that Joule heat is generated in the connecting wires.
@@ -249,7 +255,9 @@ which provides the maximum currect
         Finding the minimum voltage U min across the capacitor C 2 is a slightly more difficult task that has a
 rather simple solution. It is obvious that harmonic oscillations occur in the system, at which the potential
 energy is constantly transformed into kinetic energy and backwards. For the presented electrical circuit, the
-XVII International Zhautykov Olympiad/Theoretical Competition                                                  с. 5/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                                  с. 5/16
 
 role of the kinetic energy is played by the energy of the coil. Therefore, when the current through the coil is
 zero, then the system is in its large deviation from equilibrium, while the voltage across the capacitor C 2 is
@@ -305,7 +313,9 @@ ultimately obtained as
  Formula (18): U min =                              U0
                           (C1 + C2 )(C1 + C2 + C3 )
  Total                                                                                                  3.0
-XVII International Zhautykov Olympiad/Theoretical Competition                                         с. 6/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                         с. 6/16
 
             Problem 2. Thermodynamics of one-component plasma (10.0 points)
 2.1 The smallest distance between neighboring deuterium nuclei coincides with the edge of the cube, and
@@ -372,7 +382,9 @@ which finally yields
 2.5 The second term on the right-hand side of expression (12) determines the strength of the electric field
 created by the uniform charge distribution; therefore, the equation of motion of the nucleus projected onto
 the radial direction has the form
-XVII International Zhautykov Olympiad/Theoretical Competition                                          с. 7/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                          с. 7/16
 
                      e
                mr =      r,                                                                             (15)
@@ -440,7 +452,9 @@ and hence the internal energy of N cells has the form
                        9e 2
                2 = −        .                                                                          (27)
                       20 0
-XVII International Zhautykov Olympiad/Theoretical Competition                                          с. 8/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                          с. 8/16
 
 2.8 In the absence of the neutralizing backgrounds of two nuclei, their fusion corresponds to the bare
 Coulomb barrier. The presence of neutralizing backgrounds leads to a decrease in the Coulomb barrier,
@@ -497,7 +511,9 @@ whose solution takes the form
 where C (V ) refers to some constant, which, in principle, can depend on the volume of the system.
        In the absence of interaction between the nuclei, the pressure of the system should be reduced to the
 pressure of an ideal gas
-XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 9/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 9/16
 
                                       NkBT
                P(T ,V ) |e→0 =             ,                                                            (40)
@@ -566,7 +582,9 @@ electronic component and is definitely positive.
                                                        5e                                    0.2
          Formula (14):  (a / 4) −  (a / 2) =
                                                     16 0 a
-XVII International Zhautykov Olympiad/Theoretical Competition                  с. 10/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                  с. 10/16
 
          Numerical value in formula (14):  (a / 4) −  (a / 2) = 211V   0.2
                              e                                          0.2
@@ -625,7 +643,9 @@ electronic component and is definitely positive.
          Formula (34): U B − U A =      (VB − VA )
                                     V T
          Formula (35): Q = U B − U A + P(VB − VA )                       0.2
-XVII International Zhautykov Olympiad/Theoretical Competition                                       с. 11/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                       с. 11/16
 
                            A TAB − TCD                                                    0.2
           Formula (36):      =
@@ -685,7 +705,9 @@ constant phase. This surface satisfies the equation
 3.3 The surfaceof the constant phase at a fixed time instant satisfies the equation
                    
                k  r = const ,                                                                       (8)
-XVII International Zhautykov Olympiad/Theoretical Competition                                        с. 12/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                        с. 12/16
 
 and this is a family of planes perpendicular to the wave vector.
 
@@ -741,7 +763,9 @@ and it is finally obtained that
                       
                vp =       = c,                                                                        (21)
                       k
-XVII International Zhautykov Olympiad/Theoretical Competition                                       с. 13/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                       с. 13/16
 
                       
                   vg =      = c = vp ,                                                              (22)
@@ -798,7 +822,9 @@ formula
 
                                                               k0 1 −  m 
                                                                       2a 
-XVII International Zhautykov Olympiad/Theoretical Competition                                            с. 14/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                            с. 14/16
 
                                                                                                          
           Finally, using formulas relating frequencies, wavelengths and the speed of light in a vacuum        =c,
@@ -867,7 +893,9 @@ can be found from the condition
                    − = ,                                                                                (42)
                 v2 v1
 which leads to the final answer
-XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 15/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                           с. 15/16
 
                                                 c
                 X=               =                                 1,4c .                              (43)
@@ -937,7 +965,9 @@ which yields the inequality
                             
          Formula (22): vg =    = c = vp                                                      0.2
                             k
-XVII International Zhautykov Olympiad/Theoretical Competition                                     с. 16/16
+
+
+XVII International Zhautykov Olympiad/Theoretical Competition                                     с. 16/16
 
                                     
  3.11    Formula (24): k y = m                                                              0.2     0.2

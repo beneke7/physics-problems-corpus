@@ -9,10 +9,10 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 579. Az ábrán látható kapcsolást állítottuk össze. 
+G. 579. Az ábrán látható kapcsolást állítottuk össze.
 
- $a)$ Mekkora az $R_2$ és $R_3$ ellenállás? 
- $b)$ Mennyit mutat a 3-as számú műszer? 
+ $a)$ Mekkora az $R_2$ és $R_3$ ellenállás?
+ $b)$ Mennyit mutat a 3-as számú műszer?
  $c)$ Mekkora az áramforrás feszültsége és a leadott teljesítménye?
 
-![figure](../../raw_html/komal_figures/komal-G579-fig1.gif)
+![figure](../../figures/komal/figures/komal-G579-fig1.gif)

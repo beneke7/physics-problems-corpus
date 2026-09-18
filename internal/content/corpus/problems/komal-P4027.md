@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-The volume of a balloon, filled loosely with Helium, increases if it is taken to a warm room from a cold street. Somebody stated that if we measure the increase of the upthrust exerted on the balloon, we can estimate the heat absorbed by the balloon. Is he right? 
+The volume of a balloon, filled loosely with Helium, increases if it is taken to a warm room from a cold street. Somebody stated that if we measure the increase of the upthrust exerted on the balloon, we can estimate the heat absorbed by the balloon. Is he right?
  (4 pont)

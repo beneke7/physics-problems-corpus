@@ -25,7 +25,7 @@ techniques: [conservation-laws]
 
 Question 6
 Two blocks are connected as shown. Block 1 has mass 5 kg and is on a frictionless, horizontal surface. Block 2 has mass 8 kg and is attached to block 1 by a rope with negligible mass, passing over a frictionless pulley. What is the acceleration of block 2?
-![](aupho-2013-q6-fig01.png)
+![](../../figures/aupho/figures/aupho-2013-q6-fig01.png)
 
 a. $15.9 \mathrm{~m} \mathrm{~s}^{-2}$
 b. $9.8 \mathrm{~m} \mathrm{~s}^{-2}$

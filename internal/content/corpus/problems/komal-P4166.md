@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-A clever astronaut rotates a necklace in the spaceship, such that it has a circular shape, and turns twice in each second. Calculate the tension in the necklace. The mass of the necklace is 3 grams, and the radius of the circle is 7 cm. 
+A clever astronaut rotates a necklace in the spaceship, such that it has a circular shape, and turns twice in each second. Calculate the tension in the necklace. The mass of the necklace is 3 grams, and the radius of the circle is 7 cm.
  (4 pont)

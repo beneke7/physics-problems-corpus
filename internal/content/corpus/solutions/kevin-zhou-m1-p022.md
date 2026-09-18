@@ -96,7 +96,7 @@ bcosα
 When this ratio is a rational number, the ball eventually returns to its starting point. If it isn’t, it
 never does; instead it eventually explores all of the space permitted by energy conservation, i.e. it
 eventually passes arbitrarily close to any point in the rectangle 0 ≤ x ≤ b and 0 ≤ y ≤ a.
-[2] Problem 25.  W 1 0USAPhO 2004, problem A4.
+[2] Problem 25.   W 1 0USAPhO 2004, problem A4.
 [3] Problem 26 (NBPhO 2010). A sprinkler can be modeled as a small hemisphere on the ground.
 Water shoots out from the hemisphere in all directions, with speed v perpendicular to the hemisphere.
 (a) Find the total surface area of ground watered by the sprinkler.
@@ -115,4 +115,4 @@ emerges from quantum mechanics: classically things follow the trajectory of leas
 because it’s a caustic of the quantum sum over all trajectories. So if you continue in physics,
 you’ll see this beautiful little idea over and over again, in richer and richer settings! For an
 Olympiad problem that gives a bit more detail about caustics in optics, see here.
-[3] Problem 27.  ^ 1 0USAPhO 2023, problem A1. A neat exercise on collisions and projectile motion.
+[3] Problem 27.   ^ 1 0USAPhO 2023, problem A1. A neat exercise on collisions and projectile motion.

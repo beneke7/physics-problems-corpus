@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A simple pendulum of length $\ell$ and of mass $m$ is attached to an easily rolling trolley of mass $M$. The system is placed on a horizontal plane, and it is at rest initially. Then the trolley is given a slight push. After how much time will the speed of the trolley be the same again? 
+A simple pendulum of length $\ell$ and of mass $m$ is attached to an easily rolling trolley of mass $M$. The system is placed on a horizontal plane, and it is at rest initially. Then the trolley is given a slight push. After how much time will the speed of the trolley be the same again?
  (5 pont)

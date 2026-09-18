@@ -26,16 +26,16 @@ becomesequal to the change of the potential energy:
 E = mg(2L + x),
 where x = l − L. Energy absorbed by the rope is given by
 E =
-
+
 σ(ε)dx =
-
+
 σ(ε)(L + H)dε = (L + H)
-
+
 σ(ε)dε.
 We know that the maximal value is ε = 0.315, which makes it possible
 to calculate the integral numerically, as the area under the graph.
 S(ε) =
- 0.31
+  0.31
 0
 σ(ε)dε ≈ 564.8N
 Thus,

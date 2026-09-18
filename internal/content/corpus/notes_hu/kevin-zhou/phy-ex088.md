@@ -28,7 +28,7 @@ Példa. Kvartikus potenciál. Kényelmes egységekben legyen
                                                       dx2
 Az alapállapot energiája numerikusan E0 ≈ 1.06-nak adódik. Variációs becsléshez normált Gauss-függvényeket
 próbálhatunk, mivel ezeknek nagyjából megfelelő az alakjuk és a szimmetriájuk:
-                                                      α 1/4            2
+                                                       α  1/4            2
                                        ψ(x, α) =                e−αx /2 .
                                                       π
 Az energia várható értéke
@@ -43,15 +43,14 @@ A minimum α∗ = 3 3 helyen van, ekkor
 
 adódik, ami meglehetősen jó becslés. Az első gerjesztett állapot energiája E1 ≈ 3.80. Ezt páratlan
 próbafüggvénnyel becsülhetjük, például
-                                                           1/4
+                                                            1/4
                                                      4α3
-                                                 
+
                                                                              2
                                    ψ(x, α) =                      xe−αx /2
                                                       π
 
 amelyre a becslés E(α∗ ) = 3.85.
-224 9. Időfüggetlen perturbációelmélet
 
 Megjegyzés. Kötött állapotok különböző dimenziókban. Kötött állapotok létezésének bizonyításához a
 variációs elv szerint elegendő olyan állapotot felmutatni, amelyre ⟨H⟩ < 0.
@@ -70,7 +69,6 @@ s-hullámú kötött állapotból alacsonyabb ⟨H⟩-jú variációs hullámfü
 eredmény mindig túlbecsüli az alapállapot energiáját. Ez pusztán perturbációelmélettel szigorúan nem
 indokolható, de a variációs elvből szigorúan következik, mert az elsőrendű eredmény éppen a perturbálatlan
 alapállapot |0⟩ energiavárható értéke.
-225 10. Atomfizika
 
 10     Atomfizika
 10.1    Azonos részecskék
@@ -120,7 +118,6 @@ vizsgálunk. Kezdésként az azonos részecskékre vonatkozó könyvelési szab�
  • Ez a szimmetrizálási posztulátum. Nemrelativisztikus kvantummechanikában ez egyszerűen kísérleti
    eredmény, amint alább látni fogjuk. Relativisztikus kvantumtérelméletben a spin–statisztika-tétel egyszerű
    fizikai feltevésekből következik.
-226 10. Atomfizika
 
  • A térelmélet másodkvantált formalizmusában egyáltalán nincs szükség szimmetrizálásra vagy antiszimmetrizálásra;
    a Fock-tér már csak a fizikai állapotokat tartalmazza. A szimmetrizálási posztulátum az elsőkvantált
@@ -160,7 +157,7 @@ Most néhány molekulapéldával szemléltetjük mindezt.
  • Sok molekula kis energiájú szintjei közelítőleg
 
                                         ℓ(ℓ + 1)ℏ2
-                                                            
+
                                                            1
                                  Enℓ =             + n+        ℏω
                                             2I             2
@@ -172,7 +169,6 @@ Most néhány molekulapéldával szemléltetjük mindezt.
    hasonló, azzal a döntő különbséggel, hogy ezt a kiválasztási szabályt soha nem látjuk sérülni.
    A spektroszkópia szerint a 12 C2 összes páratlan ℓ-ű állapota hiányzik, amit termodinamikai mérések is
    megerősítenek.
-227 10. Atomfizika
 
  • Továbbá a szintek nem hiányoznak, ha az atommagok különböző izotópok, jóllehet az azonos részecskék
    fogalma nélkül a magok tömegének különbsége túl kicsi volna ahhoz, hogy bármit befolyásoljon. Az ilyen
@@ -223,7 +219,6 @@ mágneses tér ezért
                                                µ0 qv
                                          B ∼ 2 ∼ 0.1 T.
                                                 a0
-228 10. Atomfizika
 
 Az ütközés τ ∼ a0 /v ideig tart. Az ebből származó klasszikus spinprecesszió
 
@@ -271,7 +266,6 @@ Most a héliumot és a héliumszerű atomokat vizsgáljuk.
  • Így a H2-höz hasonló érveléssel parahéliumot kapunk (szingulett spin, pályacsere alatt páros) és
    ortohéliumot (triplett spin, pályacsere alatt páratlan). A parahélium és az ortohélium annyira eltérően
    viselkedik, és olyan lassan alakulnak át egymásba, hogy egykor külön anyagfajtáknak gondolták őket.
-229 10. Atomfizika
 
  • A H2-höz képest az a fő különbség, hogy a térbeli hullámfüggvényt sokkal nehezebb megtalálni, mivel
    ez nem centrális erőtérbeli probléma: az elektronok mind az atommaggal, mind egymással kölcsönhatnak.
@@ -314,7 +308,6 @@ Most néhány kísérleti adatot vizsgálunk.
    hogy H− csak egy hidrogénatomhoz gyengén kötött elektron. Csak egyetlen kötött állapot van, az 11 S.
 
  • A parahélium és az ortohélium kötött állapotai az alábbiakban láthatók.
-230 10. Atomfizika
 
 
     Ezeket az értékeket egyszerűsített Hamilton-operátorunk numerikus megoldásával kaptuk, és nem tartalmazzák
@@ -333,7 +326,7 @@ Most perturbatívan vizsgáljuk a spektrumot.
    perturbálatlan Hamilton-operátor kétrészecske-sajátfüggvényei ezért
 
                                                                                 Z2 1
-                                                                                         
+
                                          (0)                          (0)              1
               H0 |n1 ℓ1 m1 n2 ℓ2 m2 ⟩ = En1 n2 |n1 ℓ1 m1 n2 ℓ2 m2 ⟩, En1 n2 = −      +
                                                                                 2 n21 n22
@@ -352,7 +345,6 @@ Most perturbatívan vizsgáljuk a spektrumot.
  • Az energiaszintek alacsonyabbak a valódiaknál, mert az elektronok taszítják egymást. Azt is megjegyezzük,
    hogy a „kettősen gerjesztett” állapotok, amelyekre n1, n2 ̸= 1, a kontinuumban vannak. A perturbáció
    bekapcsolásakor keverednek a kontinuumállapotokkal, így többé nem kötött állapotok.
-231 10. Atomfizika
 
  • A kettősen gerjesztett állapotok azonban rezonanciaként értelmezhetők. A rezonancia olyan állapot, amely
    közelítőleg energiasajátállapot, de amplitúdója idővel „elszivárog” a kontinuumállapotokba. Például amikor
@@ -376,7 +368,7 @@ Most perturbatívan vizsgáljuk a spektrumot.
  • Most a valódi kötött állapotokra összpontosítunk, amelyek legfeljebb egyszeresen gerjesztettek. Ezeket
    egyetlen n szám jellemzi,
                                                 Z2
-                                                            
+
                                         (0)               1
                                       E1n = −        1+ 2
                                                  2       n
@@ -401,12 +393,11 @@ Most kiszámítjuk a perturbáció hatását.
     és megegyezik két 1s-elektron elektrosztatikus taszításából származó várható energiával.
 
  • Az alapállapot hidrogénszerű pályája
-                                                            1/2
+                                                             1/2
                                                        Z3
-                                                   
+
                                       ψ100 (x) =                   e−Zr .
                                                        π
-232 10. Atomfizika
 
     Az 1/r12 tényező kifejthető:
 
@@ -467,12 +458,11 @@ Most kiszámítjuk a gerjesztett állapotok elsőrendű energiaeltolódását.
                                               ∆EN L± = ⟨N LM ±|H1 |N LM ±⟩
 
     ahol M-től nincs függés, mert H1 skalároperátor.
-233 10. Atomfizika
 
  • A |N LM ±⟩ definícióját kifejtve négy tagot kapunk:
                  1
       ∆EN L± =     ⟨100 nℓm|H1 |100 nℓm⟩ + ⟨nℓm 100|H1 |nℓm 100⟩
-                 2                                                                        
+                 2
                                          ± (⟨100 nℓm|H1 |nℓm 100⟩ + |nℓm 100⟩H1 |100 nℓm⟩) .
     Az első két tag egyenlő, ahogy az utolsó kettő is, ezért
                                                      1                                  1
@@ -518,10 +508,9 @@ nem teljesít túl jól. A variációs elvvel kissé jobb eredményt kaphatunk.
                                       Ψ(x1 , x2 ) = e e−Ze (r1 +r2 )
                                                     π
     ahol Ze variációs paraméter.
-234 10. Atomfizika
 
  • H várható értékének kiszámításához így írjuk fel:
-                         2         2                             
+                          2           2
                           p1 Ze         p 2 Ze                  1   1      1
                    H=        −      +      −       + (Ze − Z)     +     +     .
                           2    r1        2    r2                r1 r2     r12
@@ -571,7 +560,6 @@ Ebben a szakaszban a több elektront tartalmazó atomok durva modelljét, a Thom
                                   E=              =                V     .
                                          10mπ 2         10mπ 2
     adódik. A levezetés közvetlen, ha nem felejtjük el az elektronspin miatt bevezetendő 2-es tényezőt.
-235 10. Atomfizika
 
  • Szokás szerint a nyomás az energia deriváltja:
 
@@ -626,7 +614,6 @@ Ebben a szakaszban a több elektront tartalmazó atomok durva modelljét, a Thom
    kinetikus energia pedig csökken.
 
  • A potenciál viselkedése az elektronok N számától függ.
-236 10. Atomfizika
 
      – Ha N > Z, negatív iont kapunk. Ilyen atomok nem írhatók le a Thomas–Fermi-modellel, mert ∇P mindig
        kifelé mutat, egy bizonyos sugáron túl pedig az elektrosztatikus erő is kifelé kezd mutatni, így a
@@ -668,7 +655,6 @@ Most explicit módon megoldjuk a modellt.
 
  • Ha a kezdeti meredekség negatívabbá válik, a sűrűség véges sugárnál éri el a zérust; ez meghatározott
    sugarú pozitív ionnak felel meg.
-237 10. Atomfizika
 
  • Ha a kezdeti meredekség kevésbé negatív, a sűrűség soha nem esik zérusra. Ehelyett kézzel levághatjuk
    egy sugárnál, és kijelenthetjük, hogy ezen kívül a sűrűség zérus; fizikailag ez külső nyomás alkalmazását
@@ -687,7 +673,7 @@ A Hartree–Fock-módszer variációs módszer atomok, molekulák, szilárd anya
 problémáinak közelítő megoldására. Az egyszerűbb Hartree-módszerrel kezdjük.
 
  • Tekintsünk N elektront és Z töltésű atommagot tartalmazó atomot, az alap-Hamilton-operátorral:
-                                    N  2           
+                                    N   2
                                     X  p   i   Z            X 1
                                H=            −          +               ≡ H1 + H2 .
                                            2   ri                 rij
@@ -717,7 +703,6 @@ problémáinak közelítő megoldására. Az egyszerűbb Hartree-módszerrel kez
                                                         P
     projekcióval vetíthetünk. Az ilyen projektorokat a csoportelméletről szóló jegyzetekben részletesebben
     vizsgáljuk.
-238 10. Atomfizika
 
 Most leírjuk Hartree próbafüggvényét.
 
@@ -742,7 +727,7 @@ Most leírjuk Hartree próbafüggvényét.
                                                                                      2     ri
                                                 λ=i=1
    ahol a többi bra és ket a normálás miatt kiesik. Explicit alakban
-                                                  Z            2       
+                                                  Z             2
                                      X                         p      Z
                      ⟨ΦH |H1 |ΦH ⟩ =     Iλ , Iλ = dr u∗λ (r)      −       uλ (r).
                                                                 2     r
@@ -775,12 +760,11 @@ Most leírjuk Hartree próbafüggvényét.
                                  F [ΦH ] = E[ΦH ] −      ϵλ (⟨λ|λ⟩ − 1)
                                                               λ
    minimalizáljuk.
-239 10. Atomfizika
 
  • A funkcionális derivált δF/δuλ (r) eltűnéséből a Hartree-egyenletek
 
                                                                               |uµ (r)|2
-               2                                                    XZ
+                2                                                     XZ
                 p     Z
                    −      uλ (r) + Vλ (r)uλ (r) = ϵλ uλ (r), Vλ (r) =     dr′            .
                     2    r                                                        |r − r′ |
@@ -831,7 +815,6 @@ Ezután Fock Hartree-féle hullámfüggvényhez adott finomítását vizsgáljuk
                        |Φ⟩ = N ! A|ΦH ⟩ = √       ..      ..   ..       ..    .
                                             N!     .       .       .     .
                                                |1⟩(N ) |2⟩(N ) . . . |N ⟩(N )
-240 10. Atomfizika
 
    A hullámfüggvény felírásának ezt a második módját Slater-determinánsnak nevezzük; kifejtése a szokásos
    determinánshoz hasonló, csak a skaláris szorzást tenzorszorzás váltja fel. A gondolat többi része ugyanaz:
@@ -883,7 +866,6 @@ Ezután Fock Hartree-féle hullámfüggvényhez adott finomítását vizsgáljuk
    Héliumhoz hasonlóan megmutatható, hogy a csereintegrálok pozitívak. Mivel negatív előjellel járulnak
    hozzá, csökkentik az energiális funkcionált, megerősítve, hogy a Hartree–Fock-elmélet jobb becslést ad
    az alapállapot energiájára, mint a Hartree-elmélet.
-241 10. Atomfizika
 
  • Ismét a héliumhoz hasonlóan ez a csökkentés csak azonos irányú spineknél hat, mivel ez a térbeli
    hullámfüggvény antiszimmetriájának felel meg. Ez Hund első szabályához vezet: az elektronok igyekeznek
@@ -911,7 +893,7 @@ Végül minimalizáljuk a Hartree–Fock-energiát.
    ortogonalitást automatikusan megkapjuk.
 
  • A funkcionális derivált elvégzésével a Hartree–Fock-egyenletek
-                  2                               Z
+                   2                                Z
                    p     Z
                       −      uλ (r) + Vd (r)uλ (r) − dr′ Vex (r, r′ )uλ (r′ ) = ϵλ uλ (r)
                     2    r
@@ -943,7 +925,6 @@ Végül minimalizáljuk a Hartree–Fock-energiát.
 
  • A Hartree–Fock-elmélet fő hátránya a nemlokális potenciál numerikus kezelése; sok okos eljárás létezik
    ennek egyszerűsítésére.
-242 10. Atomfizika
 
  • A Hartree–Fock-egyenletet uλ (r)∗-gal megszorozva és integrálva
                                         X
@@ -988,7 +969,7 @@ Végül minimalizáljuk a Hartree–Fock-energiát.
 Most a Hartree–Fock-elméletet atomszerkezetre alkalmazzuk, végig szögátlagolást feltételezve.
 
  • A Hartree–Fock-módszer variációs ansatzot ad az alap-Hamilton-operátor alapállapotára:
-                                       X  p2 Z  X 1
+                                       X   p2 Z   X 1
                                                i
                                   H=             −      +          .
                                               2    ri          rij
@@ -999,14 +980,13 @@ Most a Hartree–Fock-elméletet atomszerkezetre alkalmazzuk, végig szögátlag
                                                                        2  r
     egyenlet megoldásai. Numerikusan egy Hartree–Fock-megoldást teljesen meghatároz az Rnℓ (r) és ϵnℓ,
     mivel ezekből a potenciálok kikövetkeztethetők.
-243 10. Atomfizika
 
  • A Hartree–Fock-elmélet pontos alapállapotot ad a Hamilton-operátor úgynevezett centrális térközelítésére:
                         X
                                          H0 =     h(ri , pi ).
                                                       i
    Ezt a perturbálatlan Hamilton-operátornak, a hibát pedig perturbációnak tekinthetjük:
-                                              X 1      X                 
+                                              X 1      X
                         H = H0 + H1 , H1 =           −     V d,i − V ex,i .
                                                  rij
                                                       i<j            i
@@ -1037,7 +1017,7 @@ Most a Hartree–Fock-elméletet atomszerkezetre alkalmazzuk, végig szögátlag
 
  • A legkönnyebb atomok alapállapotában legfeljebb egy pálya részben betöltött. Ha ezen n elektron van,
    akkor a degeneráció
-                                                      
+
                                              2(2ℓ + 1)
                                                         .
                                                  n
@@ -1054,7 +1034,6 @@ Most a Hartree–Fock-elméletet atomszerkezetre alkalmazzuk, végig szögátlag
    ahol                                     X                       X
                                       ML =        mℓi ,       MS =           msi .
                                               i                          i
-244 10. Atomfizika
 
     Az összegek minden elektronra kiterjednek, de csak a be nem töltött pályákra kell kiterjeszteni őket,
     mivel a betöltött pályák nem járulnak hozzá.

@@ -156,10 +156,10 @@ dϕ
 dr
 From the above ﬁgure, the ray arriving at r (with θ1 = 0) must bend by an angle
 θ2 = sin−1
-
+
 r √
 f2+r2
-
+
 . Thus,
 n2r
 p

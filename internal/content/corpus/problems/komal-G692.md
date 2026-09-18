@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Mountaineers, when they are climbing mountains, make drinking water from fresh snow. They warm up 4 dl water to $80\,{}^\circ$C, and then they put 5 snowballs of diameter 8 cm, and of temperature $0\,{}^\circ$C into it. They gain water at a temperature of $16\,{}^\circ$C. What is the density of the snowball? 
+Mountaineers, when they are climbing mountains, make drinking water from fresh snow. They warm up 4 dl water to $80\,{}^\circ$C, and then they put 5 snowballs of diameter 8 cm, and of temperature $0\,{}^\circ$C into it. They gain water at a temperature of $16\,{}^\circ$C. What is the density of the snowball?
  (4 pont)

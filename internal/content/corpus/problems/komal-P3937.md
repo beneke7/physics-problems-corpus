@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, extremization]
 ---
 
-Two wagons of masses m $_{1}$ and m $_{2}$ are moving towards each other along a horizontal path. Their speeds are v $_{1}$ and v $_{2}$ respectively. a ) What is their common velocity after they are hitched? b ) What is the maximum compression of each buffer if the spring constant of all the four buffers are the same  D ? c ) If the sum of the masses of the two wagons is constant at what ratio of the masses will the maximum compression be the greatest? 
+Two wagons of masses m $_{1}$ and m $_{2}$ are moving towards each other along a horizontal path. Their speeds are v $_{1}$ and v $_{2}$ respectively. a ) What is their common velocity after they are hitched? b ) What is the maximum compression of each buffer if the spring constant of all the four buffers are the same  D ? c ) If the sum of the masses of the two wagons is constant at what ratio of the masses will the maximum compression be the greatest?
  (5 pont)

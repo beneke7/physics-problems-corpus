@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis]
 ---
 
-A toy model crane can lift up to 60 toy concrete beams without breaking the rope. All the linear dimensions of the real crane, as well as the real concrete beams, are 30 times larger than those of the toy model, but the physical properties of the materials are the same. How many real concrete beams can the real crane lift? 
+A toy model crane can lift up to 60 toy concrete beams without breaking the rope. All the linear dimensions of the real crane, as well as the real concrete beams, are 30 times larger than those of the toy model, but the physical properties of the materials are the same. How many real concrete beams can the real crane lift?
  (4 pont)

@@ -41,4 +41,3 @@ három dimenzióra általánosítani. Ekkor
                        2               2                     2
 Ez tetszőleges ω(t) esetén is működik; a második tag ekkor a Coriolis- és az Euler-erőt is megadja,
 az utolsó tag pedig a centrifugális erőt.
-8   1. Klasszikus mechanika

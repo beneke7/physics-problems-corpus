@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-Water flows out through a tap at the bottom of a vertical cylindrical container, open at its top. The water level in the cylinder decreases at a certain speed. How does this speed change? If half of the water flows out in time $T$, how long will it take to empty the full container? 
+Water flows out through a tap at the bottom of a vertical cylindrical container, open at its top. The water level in the cylinder decreases at a certain speed. How does this speed change? If half of the water flows out in time $T$, how long will it take to empty the full container?
  (5 pont)

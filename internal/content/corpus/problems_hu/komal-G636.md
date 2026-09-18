@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 636. Vajon Miskolctól milyen messze helyezték el az autópálya mellett a  képen látható táblát?
 
-![figure](../../raw_html/komal_figures/komal-G636-fig1.gif)
+![figure](../../figures/komal/figures/komal-G636-fig1.gif)

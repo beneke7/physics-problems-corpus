@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3997. A mozgócsigára függesztett, h =0,2 m magasságban lévő test tömege négyszerese a talajon rögzített test tömegének. Egy adott pillanatban a talajon levő test rögzítését megszüntetjük. 
+P. 3997. A mozgócsigára függesztett, h =0,2 m magasságban lévő test tömege négyszerese a talajon rögzített test tömegének. Egy adott pillanatban a talajon levő test rögzítését megszüntetjük.
 
- Milyen magasra emelkedik fel ez a test? (A csigák tömege és a fonál tömege elhanyagolható.) 
+ Milyen magasra emelkedik fel ez a test? (A csigák tömege és a fonál tömege elhanyagolható.)
  Párkányi László fizikaverseny, Pécs
 
-![figure](../../raw_html/komal_figures/komal-P3997-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3997-fig1.gif)

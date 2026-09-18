@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy, differential-element]
 ---
 
-The gasbag of an airship of volume $31\,900$ m${}^3$ is filled with hydrogen and is staying at rest in air. The values of the temperature and the pressure of the ambient dry air are the same as those of the hydrogen in the gasbag: the temperature is $20\;{}^\circ$C and the pressure is 95.3 kPa. 
- $a)$ Calculate the buoyant force of the air. 
- $b)$ What would the value of the buoyant force be if the ambient air had 70% relative humidity, at the same pressure and at the same temperature? 
+The gasbag of an airship of volume $31\,900$ m${}^3$ is filled with hydrogen and is staying at rest in air. The values of the temperature and the pressure of the ambient dry air are the same as those of the hydrogen in the gasbag: the temperature is $20\;{}^\circ$C and the pressure is 95.3 kPa.
+ $a)$ Calculate the buoyant force of the air.
+ $b)$ What would the value of the buoyant force be if the ambient air had 70% relative humidity, at the same pressure and at the same temperature?
  (4 pont)

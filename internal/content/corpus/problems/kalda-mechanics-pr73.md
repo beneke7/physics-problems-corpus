@@ -19,4 +19,4 @@ verification_status: pending
 
 A block of mass $m$ lies on a slippery horizontal surface. On top of it lies another block of mass $m$, and on top of that - another block of mass $m$. A thread that connects the first and the third block has been extended around a weightless pulley. The threads are horizontal and the pulley is being pulled by a force $F$. What is the acceleration of the second block? The coefficient of friction between the blocks is $\mu$.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr73-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr73-fig1.jpg)

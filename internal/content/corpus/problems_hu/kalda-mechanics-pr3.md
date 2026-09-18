@@ -20,4 +20,4 @@ verification_status: pending
 
 Három azonos rudat csuklókkal kapcsolunk össze; a két szélső rudat az $A$ és $B$ pontban a mennyezethez csuklózzuk. E pontok távolsága egy rúd hosszának kétszerese. Egy $m$ tömegű súlyt akasztunk a $C$ csuklóra. Legalább mekkora erővel kell a $D$ csuklóra hatni ahhoz, hogy a rendszert a $C D$ rúd vízszintes helyzetében nyugalomban tartsuk?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr3-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr3-fig1.jpg)

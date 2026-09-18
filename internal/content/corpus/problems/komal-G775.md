@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-In a thermally insulated flask of negligible heat capacity, there is 1 kg very cold crushed ice, to which 1 kg hot water of temperature $100\;{}^\circ$C is poured. What was the temperature of the ice originally if finally there are 2 litres of water at a temperature of $0\;{}^\circ$C in the flask? 
+In a thermally insulated flask of negligible heat capacity, there is 1 kg very cold crushed ice, to which 1 kg hot water of temperature $100\;{}^\circ$C is poured. What was the temperature of the ice originally if finally there are 2 litres of water at a temperature of $0\;{}^\circ$C in the flask?
  (3 pont)

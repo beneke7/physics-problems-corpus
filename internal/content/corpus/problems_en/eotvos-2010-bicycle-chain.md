@@ -21,7 +21,7 @@ verification_status: pending
 
 We fix a gear wheel's axis horizontally and place a bicycle chain on it as shown in figure $1/a)$, then slowly begin to rotate the gear about its axis. What shape does the chain take when the gear is already rotating rapidly at constant angular velocity?
 
-![The configurations in figures 1/a) and 1/b)](../../sources/eotvos/figures/eotvos-2010-bicycle-chain-fig1.png)
+![The configurations in figures 1/a) and 1/b)](../../figures/eotvos/figures/eotvos-2010-bicycle-chain-fig1.png)
 
 Marci thinks that the chain's shape and position remain the same as before; the only change is that the chain links spin around along the original shape. Karcsi doesn't believe this; he thinks that due to rotation, the chain becomes rounded and approximately circular as shown in figure $1/b)$. Who is right, Marci or Karcsi? (Prove one of the statements, or at least show that the other statement cannot be true!)
 

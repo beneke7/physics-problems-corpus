@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200702"
 verification_status: pending
 ---
 
-Estimate the number of electrons which pass the cross section of the ring on the finger of the fan while he or she is waving on a rock-concert. 
+Estimate the number of electrons which pass the cross section of the ring on the finger of the fan while he or she is waving on a rock-concert.
  (4 pont)

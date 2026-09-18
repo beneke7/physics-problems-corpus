@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-Suppose that there is $+Q$ charge on the surface of the Earth, and also $+Q$ charge on the surface of the Moon, in both cases the charges are distributed evenly. 
- a) Calculate how much charge $Q$ would be needed so that the electrostatic repulsion balances the gravitational attraction between the Earth and the Moon. 
- b) Assuming that the distance between the Moon and the Earth is halved, how would the magnitude of the charge $Q$ balancing gravitational attraction change? 
+Suppose that there is $+Q$ charge on the surface of the Earth, and also $+Q$ charge on the surface of the Moon, in both cases the charges are distributed evenly.
+ a) Calculate how much charge $Q$ would be needed so that the electrostatic repulsion balances the gravitational attraction between the Earth and the Moon.
+ b) Assuming that the distance between the Moon and the Earth is halved, how would the magnitude of the charge $Q$ balancing gravitational attraction change?
  (3 pont)

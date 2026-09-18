@@ -114,7 +114,9 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
                             0            0
 
       (c) ∆E =11.5 eV (±0.15 eV acceptable)
-         dv             
+
+
+         dv             
                    + v B
                              mv           
 5. (a) m = e E         −                  × −
@@ -206,7 +208,9 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
 
 
                                                              Page 2
-                                                    N                   N
+
+
+                                                    N                   N
 
 
 
@@ -308,7 +312,9 @@ diagram for the block C . Here FC = k (L (xC xB )).       −       −
 
 
                                                               Page 3
-                                         E
+
+
+                                         E
 u(x)
 
 

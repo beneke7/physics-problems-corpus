@@ -36,14 +36,13 @@ These two terms are skew-Hermitian and Hermitian, so their expectation values ar
 real, respectively. Then we have
                                                1
                           ⟨∆A2 ⟩⟨∆B 2 ⟩ ≥        |⟨[A, B]⟩|2 + |⟨{∆A, ∆B}⟩|2 .
-                                                                            
+
                                                4
 Ignoring the second term gives
                                                 1
                                       σA σB ≥ |⟨[A, B]⟩|
                                                 2
 where σX is the standard deviation. This is the uncertainty principle.
-127 5. Fundamentals of Quantum Mechanics
 
 
 5.2     Wave Mechanics
@@ -97,7 +96,6 @@ We now review position and momentum operators for particles on a line.
 
       Hence we may define a momentum space wavefunction, and the commutation relation immedi-
       ately yields the Heisenberg uncertainty principle σx σp ≥ ℏ2 .
-128 5. Fundamentals of Quantum Mechanics
 
 
   • We can relate the |x⟩ and |p⟩ bases by noting that

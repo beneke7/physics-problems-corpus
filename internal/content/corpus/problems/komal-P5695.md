@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, strategic-heuristics]
 ---
 
-We illuminate a vacuum photocell with a caesium cathode using a constant-power light beam with a wavelength of 420 nm. The graph shows the intensity $I$ of the photocell's photocurrent as a function of the voltage $U$ between the anode and cathode. 
+We illuminate a vacuum photocell with a caesium cathode using a constant-power light beam with a wavelength of 420 nm. The graph shows the intensity $I$ of the photocell's photocurrent as a function of the voltage $U$ between the anode and cathode.
 
- a) What is the work function of caesium? 
- b) What is the minimum power of the light beam that reaches the cathode of the photocell? 
+ a) What is the work function of caesium?
+ b) What is the minimum power of the light beam that reaches the cathode of the photocell?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5695-fig1.png)
+![figure](../../figures/komal/figures/komal-P5695-fig1.png)

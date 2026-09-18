@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-The edges of an aluminium block are $a=20$ cm, $b=30$ cm and $c=40$ cm long. The density of aluminium is $\varrho=2700~\rm kg/m^3$. What is the pressure exerted by the block on the horizontal ground? 
+The edges of an aluminium block are $a=20$ cm, $b=30$ cm and $c=40$ cm long. The density of aluminium is $\varrho=2700~\rm kg/m^3$. What is the pressure exerted by the block on the horizontal ground?
  (3 pont)

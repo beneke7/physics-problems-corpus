@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-What can be observed if the handle of a resonating tuning fork 
- $a)$ touches the tabletop, or 
- $b)$ is emerged into water? 
- Explain the observations. 
+What can be observed if the handle of a resonating tuning fork
+ $a)$ touches the tabletop, or
+ $b)$ is emerged into water?
+ Explain the observations.
  (4 pont)

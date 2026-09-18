@@ -24,7 +24,7 @@ verification_status: pending
 ## Question A4
 
 A positive point charge $q$ is located inside a neutral hollow spherical conducting shell. The shell has inner radius $a$ and outer radius $b ; b-a$ is not negligible. The shell is centered on the origin.
-![](usapho-2014-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2014-a4-fig01.png)
 
 a. Assume that the point charge $q$ is located at the origin in the very center of the shell.
     i. Determine the magnitude of the electric field outside the conducting shell at $x=b$.

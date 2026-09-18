@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A point-like mass $m$ is attached to one end of a negligible-mass rod of length $\ell$. The other end is fixed to a hinge about which the system can be rotated. At which angle $\alpha$ will the centripetal acceleration of the object at the end of the rod be the same as the tangential component of the acceleration of the object if the system was released from the vertical, unstable position of the rod? 
- Does the object pull or push the rod at this instant? (Neglect friction.) 
+A point-like mass $m$ is attached to one end of a negligible-mass rod of length $\ell$. The other end is fixed to a hinge about which the system can be rotated. At which angle $\alpha$ will the centripetal acceleration of the object at the end of the rod be the same as the tangential component of the acceleration of the object if the system was released from the vertical, unstable position of the rod?
+ Does the object pull or push the rod at this instant? (Neglect friction.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4908-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4908-fig1.gif)

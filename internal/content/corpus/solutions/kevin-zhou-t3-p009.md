@@ -48,12 +48,12 @@ which gives
 P(T) = P0e
 − L
 nR
-
+
 1
 T
 − 1
 T0
-
+
 ∝ e−L/nRT
 .
 (b) The latent heat per molecule is now
@@ -91,20 +91,20 @@ dT
 T
 which gives
 P(T) = P0
-
+
 T
 T0
-
+
 e
 −
 E0
 kB
-
+
 1
 T
 − 1
 T0
-
+
 .
 In other words, compared to part (a) where we neglected the P ∆V contribution, there is now
 an additional linear temperature dependence.
@@ -154,11 +154,11 @@ T
 = 1 +
 ∆T
 T
-
+
 L
 RT
 − 1
-
+
 .
 In other words, while the pressure and temperature of the vapor both certainly go up, whether
 the number of moles goes up or down depends on the specific substance! However, most
@@ -184,7 +184,7 @@ This process completes once all the vapor is condensed, which is roughly when th
 volume has halved again. After this point, we again have ordinary isothermal compression,
 of the nitrogen gas alone.
 [3] Problem 10. NBPhO 2016, day 2, problem 2. A problem on phase transitions with data analysis.
-[3] Problem 11.  ^ 1 0USAPhO 2015, problem A4. A heat engine with phase transitions.
+[3] Problem 11.   ^ 1 0USAPhO 2015, problem A4. A heat engine with phase transitions.
 In practice, water on Earth is more subtle because there are three substances at play: liquid water,
 water vapor, and the rest of the atmosphere.
 Idea 4: Humidity
@@ -304,11 +304,11 @@ denotes a decimal point.)
 In this section we’ll illustrate some of the ideas needed to analyze phase transitions in general.
 Idea 5
 A nonideal gas can be described by the van der Waals equation of state,
-
+
 P +
 an2
 V 2
-
+
 (V − nb) = nRT.
 You derived the pressure correction in T1 assuming weak attractive intermolecular forces;
 the modification of the volume accounts for the fact that the molecules can’t overlap each
@@ -329,16 +329,16 @@ above it; this is called Maxwell’s equal area rule.
 There is a critical isotherm marked in bold above. Above this temperature, there is no
 liquid-gas phase transition at all; instead we just have one phase, called a supercritical fluid.
 Specifically, this is the temperature of the first isotherm that no longer has a local minimum
-in pressure, which means 
+in pressure, which means
 ∂P
 ∂V
-
+
 T
 =
-
+
 ∂2P
 ∂V 2
-
+
 T
 = 0
 at the critical temperature T = Tc. As you will see in problem 14, this occurs at

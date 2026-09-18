@@ -24,4 +24,4 @@ c) Find a relationship between the air flow velocity in the pipe $v$ and outflow
 d) Express the power dissipation $P$ in terms of the air flow velocity $v$, the outflowing air temperature $T$, and density $\rho$ (the relationship may contain also the parameters defined above).
 e) What is the temperature $T$ of the outflowing air? In your calculations, you may use approximation $T-T_{0} \ll T_{0}$.
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr49-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr49-fig1.jpg)

@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     wave whose electric field has amplitude A hits the mirror from either side, there is a transmitted
 
                                                       15
-    Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                     Physics Olympiad Handouts
 
     wave of amplitude tA and a reflected wave of amplitude rA. Here, t and r are generally complex
     numbers, with their phase determining the phase shift of the transmitted or reflected wave. Assume

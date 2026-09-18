@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-An open-top, thermally insulated tank contains water at a temperature of $60~{}^\circ\mathrm{C}$. A tap above the tank is opened and water at $0~{}^\circ\mathrm{C}$ flows from it into the container at a constant rate. After 5 minutes, the temperature of the well-mixed water in the container is $40~{}^\circ\mathrm{C}$. 
- a) What will the temperature of the water in the tank be after another 5 minutes? 
- b) We let the water flow into the tank for an hour. Determine the temperature as a function of time, and plot the temperature versus time graph. 
+An open-top, thermally insulated tank contains water at a temperature of $60~{}^\circ\mathrm{C}$. A tap above the tank is opened and water at $0~{}^\circ\mathrm{C}$ flows from it into the container at a constant rate. After 5 minutes, the temperature of the well-mixed water in the container is $40~{}^\circ\mathrm{C}$.
+ a) What will the temperature of the water in the tank be after another 5 minutes?
+ b) We let the water flow into the tank for an hour. Determine the temperature as a function of time, and plot the temperature versus time graph.
  (4 pont)

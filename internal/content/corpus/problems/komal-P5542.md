@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [superposition, model-reduction]
 ---
 
-From a resistor of resistance $R$, a coil of inductance $L$, a capacitor of capacitance $C$ and a generator with voltage $U(t)=U_0\sin(\omega t)$ we build the simple circuit shown in the figure. 
+From a resistor of resistance $R$, a coil of inductance $L$, a capacitor of capacitance $C$ and a generator with voltage $U(t)=U_0\sin(\omega t)$ we build the simple circuit shown in the figure.
 
- $a)$ What is the amplitude of the current flowing through the resistor? 
- $b)$ How should we choose the angular frequency $\omega$ in order that no current should flow through the resistor? 
+ $a)$ What is the amplitude of the current flowing through the resistor?
+ $b)$ How should we choose the angular frequency $\omega$ in order that no current should flow through the resistor?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5542-fig1.png)
+![figure](../../figures/komal/figures/komal-P5542-fig1.png)

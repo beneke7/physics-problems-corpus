@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws, limiting-and-special-cases]
 ---
 
-The water of a lake in winter becomes colder and colder. Finally it freezes, and the width of the ice is getting thicker. Supposing that the air temperature is $-20~{}^\circ$C, sketch the graph of the temperature at a certain moment as the function of the depth measured from the top of the ice cover down to the bottom of the lake. 
+The water of a lake in winter becomes colder and colder. Finally it freezes, and the width of the ice is getting thicker. Supposing that the air temperature is $-20~{}^\circ$C, sketch the graph of the temperature at a certain moment as the function of the depth measured from the top of the ice cover down to the bottom of the lake.
  (4 pont)

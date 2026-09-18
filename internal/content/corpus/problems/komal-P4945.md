@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-During the decay of a free stationary neutron three particles are born: a proton, an electron and an anti-neutrino. The energy of the electron can be any value within a certain range (the energy spectrum is continuous). It may occur that during a decay an electron of negligibly small kinetic energy is produced. What is the speed of the arousing proton in this case? (The rest mass of anti-neutrino can be considered zero.) 
+During the decay of a free stationary neutron three particles are born: a proton, an electron and an anti-neutrino. The energy of the electron can be any value within a certain range (the energy spectrum is continuous). It may occur that during a decay an electron of negligibly small kinetic energy is produced. What is the speed of the arousing proton in this case? (The rest mass of anti-neutrino can be considered zero.)
  (5 pont)

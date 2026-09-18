@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: pending
 ---
 
-The intensity of light scattered by the molecules of the atmosphere depends on some power of the wavelength. The intensity of light of wavelength 650 nm is one-quarter of the intensity of the light of wavelength 460 nm, -- this is why we observe that the sky is blue. What is the colour of that light for which it is true that when it scatters its intensity is half of the intensity of the scattered blue light of wavelength 460 nm? 
+The intensity of light scattered by the molecules of the atmosphere depends on some power of the wavelength. The intensity of light of wavelength 650 nm is one-quarter of the intensity of the light of wavelength 460 nm, -- this is why we observe that the sky is blue. What is the colour of that light for which it is true that when it scatters its intensity is half of the intensity of the scattered blue light of wavelength 460 nm?
  (4 pont)

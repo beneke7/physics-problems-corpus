@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: pending
 ---
 
-Andrew claims that a plummet, or a pebble hanging at the end of a thread, everywhere points toward the centre of the Earth. According to Bertie, this never happens, the plummet, wherever it is, does not exactly point towards the centre of the Earth. Who is right? 
+Andrew claims that a plummet, or a pebble hanging at the end of a thread, everywhere points toward the centre of the Earth. According to Bertie, this never happens, the plummet, wherever it is, does not exactly point towards the centre of the Earth. Who is right?
  (3 pont)

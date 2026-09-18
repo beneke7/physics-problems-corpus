@@ -25,24 +25,24 @@ u(r) =
 
 
 0 r < d
-−
-
+−
+
 d
 r
-6
+ 6
 r ≥ d
-where d 
+where d
  V 1/3 is the minimum allowed distance between two atoms. Assume the gas is
 uniformly distributed within the container, what is the average potential energy of this atom?
 Write your answer in terms of a0 =
-2πd3
+2πd3
 3
 , N, and V .
 Solution
 The density of the gas is given by N/V . In a spherical shell of radius r and thickness ∆r,
 there are (4πr2∆r)N/V atoms. The potential energy is given by
 ∆U = −(4πr2
-∆r)N/V d6
+∆r)N/V  d6
 /r6
 .
 Then, the total potential energy is given by
@@ -50,7 +50,7 @@ U =
 Z ∞
 d
 −(4πr2
-dr)N/V d6
+dr)N/V  d6
 /r6
 = −2a0
 N/V.

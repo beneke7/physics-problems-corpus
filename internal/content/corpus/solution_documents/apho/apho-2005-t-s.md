@@ -48,7 +48,8 @@ R = 8.314 JK-1mol-1. For mono-atomic gas (Helium) use Laplace constant γ = 5/3.
 
 
                                             1/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                  Questions and Solutions             FINAL VERSION
 
@@ -88,7 +89,8 @@ The change of the gravitational potential energy
 
 
                                            2/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                 Questions and Solutions   FINAL VERSION
 
@@ -129,7 +131,8 @@ Let s = V/V0, so the above equation becomes
 
 
                                           3/30
-                          THEORETICAL COMPETITION
+
+                          THEORETICAL COMPETITION
 
                                 Questions and Solutions                 FINAL VERSION
 
@@ -149,7 +152,8 @@ Therefore                                     or V2 = 1.30V0=3.31 m3.
 
 
                                             4/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                   Questions and Solutions           FINAL VERSION
 
@@ -189,7 +193,8 @@ Numerically f = 0.114 Hz.
 
 
                                             5/30
-                          THEORETICAL COMPETITION
+
+                          THEORETICAL COMPETITION
 
                                   Questions and Solutions   FINAL VERSION
 
@@ -238,7 +243,8 @@ Numerically f = 0.114 Hz.
 
 
                                            6/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                  Questions and Solutions                FINAL VERSION
 
@@ -282,7 +288,8 @@ transitions) can also be regarded as occurring instantaneously.
 
 
                                             7/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                 Questions and Solutions               FINAL VERSION
 
@@ -324,7 +331,8 @@ Solution 1 (5 points)
 
 
                                           8/30
-                    THEORETICAL COMPETITION
+
+                    THEORETICAL COMPETITION
 
                            Questions and Solutions            FINAL VERSION
 
@@ -346,7 +354,8 @@ For            then with              one gets
 
 
                                     9/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                  Questions and Solutions                FINAL VERSION
 
@@ -386,7 +395,8 @@ From equation (7) and (8) we have,
 
 
                                            10/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                  Questions and Solutions                FINAL VERSION
 
@@ -427,7 +437,8 @@ two.
 
 
                                             11/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                   Questions and Solutions        FINAL VERSION
 
@@ -473,7 +484,8 @@ two.
                0.25 n = 5
 Note: Propagation errors will not be considered here.
                                           12/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                  Questions and Solutions               FINAL VERSION
 
@@ -516,7 +528,8 @@ complete turn. Use the following data:
                                     Figure 2.1
 
                                            13/30
-                             THEORETICAL COMPETITION
+
+                             THEORETICAL COMPETITION
 
                                   Questions and Solutions                 FINAL VERSION
 
@@ -563,7 +576,8 @@ Numerically
                                 i = 6.75 A.
 
                                               14/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                   Questions and Solutions   FINAL VERSION
 
@@ -598,7 +612,8 @@ Note: Propagation errors will not be considered.
 
 
                                           15/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                   Questions and Solutions                FINAL VERSION
 
@@ -640,7 +655,8 @@ that |Bx|= B|z|/b where z=0 is the mid plane of the gap, explicitly:
 
 
                                               16/30
-                              THEORETICAL COMPETITION
+
+                              THEORETICAL COMPETITION
 
                                     Questions and Solutions           FINAL VERSION
 
@@ -684,7 +700,8 @@ it enters the uniform field.
 
 
                                                  17/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                   Questions and Solutions             FINAL VERSION
 
@@ -726,7 +743,8 @@ Therefore,
                                                                                       (6)
 
                                               18/30
-                             THEORETICAL COMPETITION
+
+                             THEORETICAL COMPETITION
 
                                    Questions and Solutions                 FINAL VERSION
 
@@ -760,7 +778,8 @@ From the geometry in figure 4, we can get the focal length by the following rela
 
 
                                              19/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                   Questions and Solutions      FINAL VERSION
 
@@ -799,7 +818,8 @@ Note: No propagation error will be considered here.
 
 
                                           20/30
-                             THEORETICAL COMPETITION
+
+                             THEORETICAL COMPETITION
 
                                   Questions and Solutions                       FINAL VERSION
 
@@ -841,7 +861,8 @@ Question 3 LIGHT DEFLECTION BY A MOVING MIRROR
 
 
                                               21/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                 Questions and Solutions                       FINAL VERSION
 
@@ -884,7 +905,8 @@ in percentage of .
 
 
                                             22/30
-                        THEORETICAL COMPETITION
+
+                        THEORETICAL COMPETITION
 
                               Questions and Solutions               FINAL VERSION
 
@@ -912,7 +934,8 @@ equation (1).
 
 
                                        23/30
-                            THEORETICAL COMPETITION
+
+                            THEORETICAL COMPETITION
 
                                   Questions and Solutions               FINAL VERSION
 
@@ -960,7 +983,8 @@ is
 
 
                                              24/30
-                          THEORETICAL COMPETITION
+
+                          THEORETICAL COMPETITION
 
                                   Questions and Solutions           FINAL VERSION
 
@@ -1002,7 +1026,8 @@ Thus
 
 
                                           25/30
-                           THEORETICAL COMPETITION
+
+                           THEORETICAL COMPETITION
 
                                  Questions and Solutions              FINAL VERSION
 
@@ -1036,7 +1061,8 @@ and
 
 
                                            26/30
-                          THEORETICAL COMPETITION
+
+                          THEORETICAL COMPETITION
 
                                Questions and Solutions                             FINAL VERSION
 
@@ -1083,7 +1109,8 @@ From the triangles aeo and afo we have                                       and
 
 
                                            27/30
-                       THEORETICAL COMPETITION
+
+                       THEORETICAL COMPETITION
 
                             Questions and Solutions   FINAL VERSION
 
@@ -1103,7 +1130,8 @@ or
 
 
                                      28/30
-                         THEORETICAL COMPETITION
+
+                         THEORETICAL COMPETITION
 
                                  Questions and Solutions            FINAL VERSION
 
@@ -1144,7 +1172,8 @@ Relativistic Mirror
 
 
                                          29/30
-                         THEORETICAL COMPETITION
+
+                         THEORETICAL COMPETITION
 
                                 Questions and Solutions          FINAL VERSION
 

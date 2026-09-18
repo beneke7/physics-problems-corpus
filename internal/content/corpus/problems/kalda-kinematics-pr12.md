@@ -19,4 +19,4 @@ verification_status: pending
 
 Two smooth slides lie within the same vertical plane and make angles $\alpha$ to the horizontal (see the figure). At some moment, two small balls are released from points A and B and they start sliding down. It took time $t_{1}$ for the first ball that started from point A to reach the ground; for the second one the time of descent was $t_{2}$. At what time was distance between the balls the smallest?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr12-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr12-fig1.jpg)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis]
 ---
 
-With a special laser light impulses of an average wavelength of 600 nm are generated each of which lasts for 5$^{.}$10$^{-15}$ seconds. Find the uncertainty of the wavelength of these photons. 
+With a special laser light impulses of an average wavelength of 600 nm are generated each of which lasts for 5$^{.}$10$^{-15}$ seconds. Find the uncertainty of the wavelength of these photons.
  (5 pont)

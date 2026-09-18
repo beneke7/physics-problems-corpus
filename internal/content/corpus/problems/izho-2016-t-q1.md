@@ -34,10 +34,10 @@ A homogeneous planet of radius $R$ has no atmosphere and does not rotate. A ston
 ## Problem 1B (3.0 points)
 
 One mole of an ideal monatomic gas performs a process whose chart in $V T$ coordinates completely lies on a straight line. Find the heat capacity of the gas at the point $A$, equidistant from the points of intersection of the process line with the coordinate axes.
-![](izho-2016-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2016-t-q1-fig01.png)
 
 ## Problem 1C (3.0 points)
 
-![](izho-2016-t-q1-fig02.png)
+![](../../figures/izho/figures/izho-2016-t-q1-fig02.png)
 
 Two spheres with the radii $r$ and $R(r<R)$ lwith the common center divide the space into three domains. The interior of the small sphere is uniformly charged with the volume charge density $-\rho$, the domain in between the spheres is uniformly charged with the volume charge density $+\rho$, and there is no charge outside the larger sphere. Find the ratio of the radii $R / r$, at which the potential in the center of the symmetry of the system is equal to the potential at infinity.

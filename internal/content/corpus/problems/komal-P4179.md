@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: pending
 ---
 
-Determine the ratio of the specific heat capacity of the mixture of 20 g Helium and 8 g Hydrogen at constant pressure to the specific heat capacity of the same gas at constant volume. 
+Determine the ratio of the specific heat capacity of the mixture of 20 g Helium and 8 g Hydrogen at constant pressure to the specific heat capacity of the same gas at constant volume.
  (4 pont)

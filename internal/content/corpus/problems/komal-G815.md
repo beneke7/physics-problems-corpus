@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element, extremization]
 ---
 
-A lead ball of mass 2 g, and of density $11\,300$ $\frac{\textrm{kg}}{\textrm{m}^3}$ was frozen into a 100 g, $0\;{}^\circ$C piece of ice of density 920 $\frac{\textrm{kg}}{\textrm{m}^3}$. The ice was put into water of temperature $0\;{}^\circ$C. Due to the room temperature air around the ice-water system, 5 g of ice to melts in every minute. How long will it take for the ice to start sinking? 
+A lead ball of mass 2 g, and of density $11\,300$ $\frac{\textrm{kg}}{\textrm{m}^3}$ was frozen into a 100 g, $0\;{}^\circ$C piece of ice of density 920 $\frac{\textrm{kg}}{\textrm{m}^3}$. The ice was put into water of temperature $0\;{}^\circ$C. Due to the room temperature air around the ice-water system, 5 g of ice to melts in every minute. How long will it take for the ice to start sinking?
  (4 pont)

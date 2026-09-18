@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-A coil is connected to an alternating emf of voltage 24 V and of frequency 50 Hz. The reading on the ammeter connected to the coil in series is 10 mA. If a 1  F capacitor is connected to the coil in series the ammeter shows 10 mA again. 
- What would be the reading on the ammeter if the coil was connected to a 24 V dc voltage supply? 
+A coil is connected to an alternating emf of voltage 24 V and of frequency 50 Hz. The reading on the ammeter connected to the coil in series is 10 mA. If a 1  F capacitor is connected to the coil in series the ammeter shows 10 mA again.
+ What would be the reading on the ammeter if the coil was connected to a 24 V dc voltage supply?
  (4 pont)

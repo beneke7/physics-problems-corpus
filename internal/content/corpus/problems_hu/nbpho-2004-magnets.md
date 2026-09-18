@@ -30,7 +30,7 @@ is, hogy az építőelemek anyagának nagy mágneses permeabilitása miatt az ö
 mágneses erővonal az építőelemeken belül marad (azaz a környező közegben a
 mágneses indukció $B=0$).
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-magnets-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-magnets-fig1.png)
 
 **1)** Jelöljük a rajzon szereplő állandó mágnesek (A–F mágnesek) fluxusait
 $\Phi_A,\ldots,\Phi_F$-fel! Írj fel egyenletet, amely $\Phi_A$, $\Phi_B$ és

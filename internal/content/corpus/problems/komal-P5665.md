@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-In a cylinder of volume $2~\mathrm{dm}^3$, a piston is enclosing air at a pressure of $200~\mathrm{kPa}$. Both the cylinder and the piston are made of a material with very poor thermal conductivity (e.g. glass). The piston is suddenly pulled and then locked when the volume of the enclosed air increased to $4~\mathrm{dm}^3$. 
- a) What is the minimum temperature to which the gas can cool from the initial $300~\mathrm{K}$? 
- b) After a long time of waiting, the enclosed air warms up to the initial temperature. What is the maximum heat absorbed by the enclosed air during this time? 
+In a cylinder of volume $2~\mathrm{dm}^3$, a piston is enclosing air at a pressure of $200~\mathrm{kPa}$. Both the cylinder and the piston are made of a material with very poor thermal conductivity (e.g. glass). The piston is suddenly pulled and then locked when the volume of the enclosed air increased to $4~\mathrm{dm}^3$.
+ a) What is the minimum temperature to which the gas can cool from the initial $300~\mathrm{K}$?
+ b) After a long time of waiting, the enclosed air warms up to the initial temperature. What is the maximum heat absorbed by the enclosed air during this time?
  (4 pont)

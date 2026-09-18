@@ -22,11 +22,11 @@ verification_status: flagged
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-Below the fixed end of the insulating horizontal thread, at a distance equal to the length of the thread there is a fixed charge, which has the same charge as the charge of the small body of mass m at the end of the thread as shown in the figure. The body is released and when it is at the lowest position the angle between the thread and the horizontal is 30$^\circ$. 
- a ) Find the mass of the moving body. 
- b ) Find the tension at the lowest position. 
- c ) By what factor is the acceleration of the body at the lowest position is greater than the initial acceleration? 
+Below the fixed end of the insulating horizontal thread, at a distance equal to the length of the thread there is a fixed charge, which has the same charge as the charge of the small body of mass m at the end of the thread as shown in the figure. The body is released and when it is at the lowest position the angle between the thread and the horizontal is 30$^\circ$.
+ a ) Find the mass of the moving body.
+ b ) Find the tension at the lowest position.
+ c ) By what factor is the acceleration of the body at the lowest position is greater than the initial acceleration?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4011-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4011-fig1.gif)

@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4621. Ideális gáz az  ábrán látható folyamaton megy át. A kezdőállapotban $V_1=2~{\rm dm}^3$, $p_1=10^5~{\rm Pa}$, $T_1=300~{\rm K}$. A végállapotban $V_2=8~{\rm dm}^3$, $p_2=2{,}5\cdot 10^4~{\rm Pa}$. Mekkora a gáz legmagasabb hőmérséklete a folyamat során, és ezt melyik állapotban éri el?
 
-![figure](../../raw_html/komal_figures/komal-P4621-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4621-fig1.gif)

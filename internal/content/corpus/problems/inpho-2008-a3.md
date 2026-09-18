@@ -25,7 +25,7 @@ verification_status: pending
 
 Consider a tower of constant density ( $\rho$ ) and cross sectional area ( $A$ ) (see Fig. (2)) at the earth's equator. The tower has a counter weight at one end. It is free standing. In other words its weight is balanced by the outward centrifugal weight so that it exerts no force on the ground beneath it and tension in the tower is zero at both ends. Consider the earth to be an isolated heavenly body and ignore gravitational effects due to the other heavenly bodies such as moon. Further assume that there is no bending of the tower.
 
-![](inpho-2008-a3-fig01.png)
+![](../../figures/inpho/figures/inpho-2008-a3-fig01.png)
 Figure 2:
 
 (a) Draw the free body diagram of the small element of this tower at distance $r$ from the center of the earth.
@@ -39,5 +39,5 @@ $$
 [0.5+1.5+5+3+2=12]
 $$
 
-![](inpho-2008-a3-fig02.png)
+![](../../figures/inpho/figures/inpho-2008-a3-fig02.png)
 Figure 3:

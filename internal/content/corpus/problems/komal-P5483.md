@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, differential-element]
 ---
 
-Two point-like weights of mass $m$ and $M=2m$ are attached to the two endpoints of a diameter of a tire of radius $R$ and of negligible mass. The tire is placed on a frictionless table such that the plane of the tire is vertical, and initially the two weights are along the same vertical line (the heavier one is on the top). The tire is released from this unstable equilibrium state. 
+Two point-like weights of mass $m$ and $M=2m$ are attached to the two endpoints of a diameter of a tire of radius $R$ and of negligible mass. The tire is placed on a frictionless table such that the plane of the tire is vertical, and initially the two weights are along the same vertical line (the heavier one is on the top). The tire is released from this unstable equilibrium state.
 
- $a)$ What is the velocity of the centre of the tire when the weight of mass $M$ reaches the lowest point of its trajectory? 
- $b)$ In the case $a)$, what is the force exerted on the table? 
+ $a)$ What is the velocity of the centre of the tire when the weight of mass $M$ reaches the lowest point of its trajectory?
+ $b)$ In the case $a)$, what is the force exerted on the table?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5483-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5483-fig1.gif)

@@ -20,4 +20,4 @@ verification_status: pending
 
 Minden ellenállás ellenállása azonos, $R=1 \Omega$. Az ampermérők és a telep ideálisak, $\mathcal{E}=1 \mathrm{~V}$. Határozzuk meg valamennyi ampermérő kijelzését.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr35-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr35-fig1.jpg)

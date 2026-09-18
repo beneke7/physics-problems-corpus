@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-How much heat must be transferred to a copper ball with a diameter of $4.00~\mathrm{cm}$ and a temperature of $15~^\circ\mathrm{C}$ so that it cannot pass through a hole with a diameter of $4.02~\mathrm{cm}$? 
+How much heat must be transferred to a copper ball with a diameter of $4.00~\mathrm{cm}$ and a temperature of $15~^\circ\mathrm{C}$ so that it cannot pass through a hole with a diameter of $4.02~\mathrm{cm}$?
  (3 pont)

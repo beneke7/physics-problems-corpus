@@ -114,12 +114,12 @@ general, to analyze setups with multiple complex circuit elements like these, it
 treat them as black boxes than to try to intuit what’s going on at the level of individual
 subelements, or electric and magnetic fields. (Of course, engineers do need to understand
 circuit elements at these level to design them in the first place!)
-[3] Problem 5.  W 1 0USAPhO 2016, problem A2. This problem is a nice introduction to op amps.
+[3] Problem 5.   W 1 0USAPhO 2016, problem A2. This problem is a nice introduction to op amps.
 Idea 3
 In some nonlinear circuit elements, the function I(V ) is multivalued. This indicates hysteresis:
 given V , the actual value of I depends on the history of the system. The same goes for when
 V (I) is multivalued.
-[5] Problem 6.  h 1 0IPhO 2016, problem 2. This problem illustrates the previous idea with a thyristor.
+[5] Problem 6.   h 1 0IPhO 2016, problem 2. This problem illustrates the previous idea with a thyristor.
 Print out the official answer sheet and record your answers on it.
 4
 Kevin Zhou Physics Olympiad Handouts
@@ -388,33 +388,33 @@ This is the continuity equation, and we saw versions of it for other conserved q
 (b) Generalize Maxwell’s equations to include a magnetic charge density ρm and a magnetic
 current density Jm. Fix the signs by demanding that magnetic charge is conserved.
 (c) Check that the resulting equations are invariant under the duality transformation
-
+
 E′
 B′
-
+
 =
-
+
 cosθ sinθ
 −sinθ cosθ
-
+
 E
 B
-
+
 ,
-
+
 ρ′
 e
 ρ′
 m
-
+
 =
-
+
 cosθ sinθ
 −sinθ cosθ
-
+
 ρe
 ρm
-
+
 which rotates electricity into magnetism with angle θ.
 9
 Kevin Zhou Physics Olympiad Handouts
@@ -440,33 +440,33 @@ By enforcing that the divergence of the right side is zero, we learn that it is
 − Jm.
 (c) The equations can be written succinctly as
 ∇ ·
-
+
 E
 B
-
+
 =
-
+
 ρe
 ρm
-
+
 .
 Applying the rotation matrix to both sides shows that the Gauss’s laws are satisfied in the
 primed setup. Similarly, the other two can be written as
 ∇ ×
-
+
 E
 B
-
+
 =
-
+
 0 −1
 1 0
-
+
 ∂t
-
+
 ∂tE + Je
 ∂tB + Jm
-
+
 .
 Again, the result is clear by applying the rotation transformation.
 (d) We see that F = qe(E + v × B) + qm(B − v × E). We see that
@@ -502,8 +502,8 @@ E × B
 µ0
 gives the flux density of the energy of an electromagnetic field. That is, the flux of S into a
 closed surface is the rate of change of energy within that surface.
-[3] Problem 12.  m 1 0USAPhO 2010, problem B2.
-[3] Problem 13.  m 1 0USAPhO 2013, problem B2.
+[3] Problem 12.   m 1 0USAPhO 2010, problem B2.
+[3] Problem 13.   m 1 0USAPhO 2013, problem B2.
 Remark
 It’s unlikely that you’ll see any examples besides the ones in the above two problems, because
 in almost all other setups, the Poynting vector depends sensitively on the fringe fields, which

@@ -38,5 +38,5 @@ solution_language: en
         (c) In both cases, what force F (t) is needed to pull the rope with constant acceleration a, if we
 
 
-                    01Y
+                    01Y
             assume the rope starts flat and at rest at time t = 0?

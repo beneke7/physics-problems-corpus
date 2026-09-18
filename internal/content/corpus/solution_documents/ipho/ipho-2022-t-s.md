@@ -102,7 +102,9 @@ joining from the dipole to the line element. The dipole        currents I of len
 moment is decomposed into radial and tangential com-                                   µ0 I 2      µ0 I 2 d
 ponent. By rotational symmetry along the co-axis, the                           F2 =          πd =          ≈ 14 N.
                                                                                        2πL          2L
-IPhO 2022                                     Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                     Theoretical problems: solutions. Language: English
 
         a) Consider as straight currents         0.3 pts                 a) Idea of magnetic charges       0.4 pts
         b)B = 2πL
@@ -210,7 +212,9 @@ charge at O:
                                    =
                                       24r2
                                              .                 an infinitesimal vector parallel to the surface current,
-IPhO 2022                                   Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                   Theoretical problems: solutions. Language: English
 
 and ⃗r — a vector pointing from the observation point             Integration for Bz :
 to a point on the solenoid. This can be rewritten as                   Z                  Z                               !
@@ -230,7 +234,7 @@ our proof, it suffices to notice that ⃗dA · r̂ is the apparent             �
                                                                      =                           du 2(u2 + 1)−3/2 − 3(u2 + 1)−5/2
 area of the surface element, dΩ = ⃗dA · r̂/r2 .                         4πδr2 sin θ − cot θ
                                                                                   2
-                                                                                                                    ∞
+                                                                                                                      ∞
                                                                            µ0 m              2u           2u3 + 3u
    Now, at the point P , the outside and inside contribu-            =                   √            −
                                                                         4πδr2 sin θ
@@ -325,7 +329,7 @@ dm = m   δ dz generates a magnetic field (in Cartesian co- closest approach of 
 ordinates):
                                                                  be the angle from a point on the line to P (such that ϕ = θ
                                                                  at the end near P , ϕ ≈ π at the other end). Then the addi-
-                                     µ0 dm                     tional magnetic field from a small component given by
+                                     µ0 dm                       tional magnetic field from a small component given by
                                                          2 ′
     dBz = dBr′ cos θ − dBθ′ sin θ =          2  − 3 sin     θ    dϕ is
                                      4πr′3
@@ -348,7 +352,9 @@ plify the integration, do substitution: u = z−r   r sin θ , then         µ0 
                                                                                 3
              √                                                         =               dz((3 cos2 ϕ − 1)ẑ − cos ϕ sin ϕr̂).
 r′ = r sin θ u2 + 1; dz = r sin θdu.                                        4πs3 dz
-IPhO 2022                                       Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                       Theoretical problems: solutions. Language: English
 
 Since s = −z tan ϕ and dm = mdz/δ, we have dm/dϕ =                      Remarks:
 sm/(δ sin ϕ). Then
@@ -371,7 +377,7 @@ and thus                                                                iii) Sub
                                                                         of it as shown in the solution);
      4πs2 δ
                 ϕ=θ                                                     iv) Subtract 0.1 both from a) and c) if the field line does
-                                                                      not form a closed loop;
+                                                                        not form a closed loop;
            µ0 m                    π            π
                    cos ϕ − cos ϕ ϕ=θ ẑ + sin ϕ
                                              3
@@ -442,7 +448,9 @@ ther away from the magnet, see the sketch below.                        Ampère�
                  b) Field line 2 correct     0.4 pts                    manent magnet and outside the magnet (but still inside
                  c) Field line 3 correct     0.4 pts                    the slit), respectively. Here we have neglected the con-
                                                                         tribution of the magnetic field inside the ferromagnetic
-IPhO 2022                                  Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                  Theoretical problems: solutions. Language: English
 
 plate to the integral because µ is very big. Due to the           manent magnet in the magnetic field, ´
 Gauss law, π4 d2 B1 = π4 (D2 − d2 )B2 ; with D = 2d this yields
@@ -471,7 +479,7 @@ energy inside the ferromagnet can be neglected because               e) I = (B1 
 its density is ca µ times smaller than inside the gap. So,           f) π4 d2 B1 = π4 (D2 − d2 )B2               0.1 pts
 the energy is changed only because the volume of the                 g) B2 = Iµ0 /4h                             0.1 pts
 gap is changed:                                                      h) B1 = 3Iµ0 /4h                            0.1 pts
-                                                                   i) Wf = 8µπ0 [d2 B12 + (D2 − d2 )B22 ]h     0.1 pts
+                                                                     i) Wf = 8µπ0 [d2 B12 + (D2 − d2 )B22 ]h     0.1 pts
             π 2 2                              3π 2 2                j) Wm = −Wf                                 0.2 pts
     dW =       [d B1 + (D − d )B2 ]dx =
                            2    2   2
@@ -530,7 +538,9 @@ Wf =        [B1 +3B22 ], B1 = 3B2 =      ⇒ Wf =             .
        8µ0                           4h           32h
 In addition to the change of the magnetic field energy,
 we also need to take into account the energy of the per-
-IPhO 2022                                   Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                   Theoretical problems: solutions. Language: English
 
        a) correct analogy arguments              0.2 pts       always pointing in the direction of x̂ which ensures the
        b) correct charge distributions           0.2 pts       rotational stability of the magnet. Attraction force be-
@@ -602,7 +612,9 @@ while each of the balls from above and below contribute
 B⃗2 = ±1B ⃗
 corresponds to antiparallel rows, and ’−´ — to parallel
 rows. Since B2 < B1 , the sum of the four contributions is
-IPhO 2022                                    Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                    Theoretical problems: solutions. Language: English
 
                                                                      (C.2) Now we need to repeat the steps done for the pre-
                                                                      vious question, with the only difference in the mutual
@@ -667,7 +679,7 @@ as TAB + TBA + Fx δ = 0, where Fx denotes the horizon-                         
 tal component of the force exerted by A to B. From this              der, and ‘−’ — to the antiferromagnetic order. Keeping
 equality we can conclude that Fx = 0. So we found that               in mind that l = δ and cos α = 12 the total field is
 each of the neighbouring balls attract each other, hence
-                                                                                                                   
+
 the whole configuration is stable.
                                                                                 B⃗ 5 = 4B
                                                                                         ⃗ 3x + 2B⃗ 4x = µ0 m − 1 ± 2 x̂.
@@ -680,7 +692,7 @@ the whole configuration is stable.
  e) W = B ⃗·⃗ m                                         0.1 pts      force of a magnet with a magnet in the bottom row can
           3µ0 m2
  f) W = 2πδ3                                            0.1 pts      be found as
- g) W = 29mJ                                            0.1 pts                                                 
+ g) W = 29mJ                                            0.1 pts
                                                                              d ⃗           dl d µ0 m2 3δ 2            dl 3µ0 m2
                                                                      F5y =     B3 · ⃗
                                                                                     m=±                       − 1  =∓           ;
@@ -689,7 +701,9 @@ wrong direction or has no arrow. No marks for d) if the
 score for c) is zero.                                                here we have used cos α = 2l    δ
                                                                                                        and upon taking deriva-
                                                                      tive, substituted l = δ. For this force to be attractive, we
-IPhO 2022                               Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                               Theoretical problems: solutions. Language: English
 
 need a minus sign which corresponds to the ferromag-
                                 dl
@@ -715,7 +729,7 @@ larly to the part (C.1):
                                            0.1 pts
         c) B
            ⃗ 5 = 4B⃗ 3x + 2B ⃗ 4x          0.1pts
-                                  
+
         d) B
            ⃗ 5 = 0 3 − ± 2 x̂.
                   µ
@@ -739,7 +753,9 @@ larly to the part (C.1):
 sign corresponding to the ferromagnetic order are used:
 meaning, + sign in f) and - sign in d). No marks for e) if
 the score for d) is zero.
-IPhO 2022                               Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                               Theoretical problems: solutions. Language: English
 
 T2: James Webb Space Telescope (12 pts)                         The ratio of diameter do for an object at a distance
                                                                 Do ≫ f and an image diameter di is given by
@@ -818,10 +834,12 @@ Part A: Imaging a Star (1.8 pt)
                                                                 The radiant power from the star is
  1. Diameter of image
                                                                                       Pg = 4πro 2 σTg 4               (6)
-IPhO 2022                                                Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                                Theoretical problems: solutions. Language: English
 
    The intensity at the location of the scope is                               Part B: Counting Photons (1.8 pt)
-                                                   2
+                                                     2
                          Pg                   ro                                1. Temperature of source
                   Ig =        =                          σTg 4           (7)
                        4πDo 2                 Do                                  We are interested in the slope of the graph, which is
@@ -830,7 +848,7 @@ Part A: Imaging a Star (1.8 pt)
                                                                                          slope =                           = −100 K
    cused on a single spot of radius ri , so that the power                                           (0.111/K) − (0.151/K)
    incident is
-                        2           2                                         Since this is a characteristic temperature, it is at least
+                          2             2                                         Since this is a characteristic temperature, it is at least
              Pi = A
                       ro       4
                             σTg = A
@@ -844,14 +862,14 @@ Part A: Imaging a Star (1.8 pt)
                       Pi = aσTp 4 ,
                                                                                   So the value of
    where a = πri2 , so
-                                             2                                                    ∆Eg
+                                               2                                                    ∆Eg
                                         ri                                                              = 6 × 230K = 1380K
                         aσTp =4
                                                    AσTg   4                                         kB
                                         f
                                                                                   Marking scheme:
    or, ignoring diffraction,
-                                       14                                                  slope of graph = −100K           0.2 pts
+                                         14                                                  slope of graph = −100K           0.2 pts
                    Tp =
                                  A
                                               Tg ≈ 530 K                 (9)                 Tgraph = 230K                    0.1 pts
@@ -859,7 +877,7 @@ Part A: Imaging a Star (1.8 pt)
                                                                                              sum                              0.4 pt
    When considering diffraction the actual area of the
    stars’ image is larger,                                                        Writing either temperature correctly implies they
-                                         2                                      found the slope of graph, and would get the +0.2 pts.
+                                           2                                      found the slope of graph, and would get the +0.2 pts.
                     ′         di + dd                                             Just writing Tsource = 1380K gets full marks, as it re-
                    a =                         a ≈ 7.46a                (10)
                                  di                                               ally is possible to solve this in one’s head.
@@ -868,7 +886,7 @@ Part A: Imaging a Star (1.8 pt)
                                                                                   no work needs to be shown.
    This means the actual pixel temperature will be
                                                                                   As this is order of magnitude, the following final an-
-                                                14                              swers will get full marks: T = 600K, T = 1000K,
+                                                  14                              swers will get full marks: T = 600K, T = 1000K,
                                     A
              Tp,correct =                              Tg ≈ 320K.       (11)      T = (1380 ± 10)K, T = 1500K. Other numbers in
                                 (7.46)πf 2                                        the range 500 ≤ T ≤ 1500 that are more precise
@@ -896,7 +914,9 @@ Part A: Imaging a Star (1.8 pt)
    ceives 0.8 pts; Writing Eq. 9 without showing any                                     correct read photon                     0.1 pts
    other work receives 0.7 pts.                                                          added in quadrature                     0.2 pts
                                                                                          sum                                     0.4 pt
-IPhO 2022                                          Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                          Theoretical problems: solutions. Language: English
 
    Writing                                                                  Eλ = (2 ± 0.1) × 10−20 J    0.3 pts
                                   √            √
@@ -922,7 +942,7 @@ Part A: Imaging a Star (1.8 pt)
 
                             P = 10σt
 
-   so                                                   
+   so
                      P 2 = 100 σr2 + id τ + P               (12)
    with solution P ≈ 2290, and a rate of p = 0.229 pho-
    tons per second.
@@ -961,7 +981,9 @@ Part A: Imaging a Star (1.8 pt)
               A         (25 m2 )
 
    Marking scheme:
-IPhO 2022                                        Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                        Theoretical problems: solutions. Language: English
 
 Part C: The Passive Cooling                                                 A student will need to consider energy balance
                                                                             across any one sheet:
@@ -975,11 +997,11 @@ Part C: The Passive Cooling                                                 A st
    represent the heat flow difference off of two sur-                       Substitute in Qij ,
    faces that are facing each other.                                                      αQi−1,i = αQi,i+1 + βQi,i+1
    The student needs to consider the three types of dif-
-                                                                            or                                  
+                                                                            or
    ferences below:                                                                                         α+β
                                                                                             Qi−1,i =                 Qi,i+1         (24)
    Between sun and first sheet:                                                                             α
-                                      
+
                               I0                                            The relation for sheet 1 is a little different:
                  Q01 = ϵAσ       − T14                             (13)
                               σ
@@ -988,7 +1010,7 @@ Part C: The Passive Cooling                                                 A st
    side.
                                                                                                    q4,5 = Q5,6                      (26)
    Between any two adjacent sheets:
-                                                                           What will eventually matter most is
+                                                                            What will eventually matter most is
                         Qij = ϵAσ Ti4 − Tj4 ,                      (14)
                                                                                                           α4
    which is not the net heat flow between the sheets, it                                      Q5,6 =            Q0,1                (27)
@@ -996,7 +1018,7 @@ Part C: The Passive Cooling                                                 A st
    is merely a convenient expression to use later.
    Between last sheet and the cold, cruel vacuum of                         Now use the recursion of Eq. 24 to sum up the six Qij
    space:                                                                   terms in Eq. 22:
-                                 
+
                     Q56 = ϵAσ T54 ,             (15)                                              kQ0,1 = ϵAI0 ,                    (28)
    which is the net heat flow out of the far side of the                    with the constant k defined as
    last sheet.
@@ -1008,7 +1030,7 @@ Part C: The Passive Cooling                                                 A st
                                                                             Substitute the expression for Q0,1 back into Eq. 13
                                 qi = αQi
                                                                             and get
-   so that the net heat flow flux out of one sheet ab-                                     s          r
+   so that the net heat flow flux out of one sheet ab-                                     s            r
                                                                                            4 I0     1      4 I0
    sorbed by the adjacent sheet is                                                   T1 =       1−      =       (k − 1)    (30)
                                                                                              σ      k        kσ
@@ -1028,27 +1050,29 @@ Part C: The Passive Cooling                                                 A st
    that the students were told to make.
 
    A student will need to recognize that                                    Marking scheme:
-                                                                               Net flow into sheet 1 Eq 13                  0.2 pts
+                                                                                 Net flow into sheet 1 Eq 13                  0.2 pts
                                 I0
                  Q01 = ϵAσ         − T1
                                       4
                                                                    (16)          “Net” flow sheet i → j Eq 14                 0.2 pts
                                 σ
-                                                                                Net flow out of sheet 5 Eq 15                0.2 pts
+                                                                                 Net flow out of sheet 5 Eq 15                0.2 pts
                  Q12 = ϵAσ T14 − T24                               (17)          Sum to eliminate sheet temps Eq 22           0.2 pts
-                                       
+
                  Q23 = ϵAσ T24 − T34                               (18)          Generic Energy flow Eq 23                    0.2 pts
-                                                                                Recursion for Qij Eq 24                      0.2 pts
+                                                                                 Recursion for Qij Eq 24                      0.2 pts
                  Q34 = ϵAσ T34 − T44                               (19)
-                                                                                Sheet 1 Energy flow Eq 25                    0.2 pts
+                                                                                 Sheet 1 Energy flow Eq 25                    0.2 pts
                  Q45 = ϵAσ T44 − T54                               (20)          Sheet 5 Energy flow Eq 26                    0.2 pts
-                                  
+
                  Q56 = ϵAσ T54                                     (21)          Simplify sum Eq 28                           0.2 pts
                                                                                  Find k Eq 29                                 0.2 pts
    can be summed to give                                                         Final Expression for T1 , Eq 30              0.2 pts
                                                                                  Final Expression for T5 , Eq 31              0.2 pts
        Q01 + Q12 + Q23 + Q34 + Q45 + Q56 = ϵAI0                    (22)          sum                                          2.4 pt
-IPhO 2022                                 Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                 Theoretical problems: solutions. Language: English
 
    • In most cases a single mistake in an equation that          variations of what students can cook up while trying
      is still dimensional correct will get 0.1 pts for the       to reconcile difficult physics can be numerous, all of
@@ -1126,7 +1150,9 @@ Part C: The Passive Cooling                                                 A st
    sion for the convenient constant in Eq. 29. It also                             qij
                                                                                                            α
    changes the fifth sheet heat flow, Eq. 27. Because the
-IPhO 2022                                                       Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                                       Theoretical problems: solutions. Language: English
 
    Don’t make the mistake of assuming that α+β = 1, as some of the                so                            (      )4
    energy emitted from a sheet could be reabsorbed by that sheet.                                                 α       ϵAI0
@@ -1249,7 +1275,9 @@ Part C: The Passive Cooling                                                 A st
                               q5s =
                                             α+β
                                                         q01 .                          sum                                           1.6 pt
-IPhO 2022                                   Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                   Theoretical problems: solutions. Language: English
 
    • “in both” means that to get the points they must         Any who correctly does this gets those 0.2 pts. If they
      have used the factor of two and the emissivity both      make a single mistake, but still end up with
@@ -1294,7 +1322,7 @@ Part C: The Passive Cooling                                                 A st
                                                               with some other approach to find α.
    Special note                                               Choice C: Estimate the radiant flux from the gap
    Our assumption is that the rejected heat can be writ-      Assuming that the enclosed volume is a black body in equilib-
-   ten as                              
+   ten as
                                                               rium, which it isn’t, at a temperature equal to a quartic averaging
                                                               of the two temperatures: 12 (Ti4 + Tj4 ). Then the energy is radiated
                  qij = βϵσA Ti4 − Tj4
@@ -1304,7 +1332,7 @@ Part C: The Passive Cooling                                                 A st
                                                                                     qlost = σAg (Ti4 + Tj4 )
    case of Ti = Tj . It would have been better to write                                        2
 
-                                                             where Ag is the area of the gap, given by
+                                                              where Ag is the area of the gap, given by
                      qij = β ′ ϵσA Ti4 + Tj4                                                     √
                                                                                         Ag = 4h A
 
@@ -1339,7 +1367,9 @@ Part C: The Passive Cooling                                                 A st
                                                               sion for the flux out of gap makes an assumption that is based on
    is the best estimate; in our case, we expect β = 0.67.     unchecked physics.
                                                               Choice D: Another Approach?
-IPhO 2022                                       Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                       Theoretical problems: solutions. Language: English
 
    Surely there will be some creative students who show other ap-         The grade depends on self consistency with the pre-
    proaches. We will try and expand the marking scheme to recog-          vious work, so the numbers must be checked!
@@ -1407,7 +1437,9 @@ Part C: The Passive Cooling                                                 A st
           T5 consistent with own formula               0.1 pts
           45K ≤ T5 ≤ 200K                              0.1 pts
           sum                                          0.4 pt
-IPhO 2022                                Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                Theoretical problems: solutions. Language: English
 
 Part D: The Cryo-Cooler                                                                           Gas Parcel
 
@@ -1476,7 +1508,9 @@ Part D: The Cryo-Cooler                                                         
     a volume V2 .                                               pressure on the left end, one associated with pres-
                                                                 sure on the right end, and frictional force associated
                                                                 with viscosity against the walls of the container.
-IPhO 2022                                  Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                  Theoretical problems: solutions. Language: English
 
    Since this is a parcel of differential length dx, the       3. One can find pressure on this graph by applying
    net force associated with the pressure difference be-
@@ -1484,7 +1518,7 @@ Part D: The Cryo-Cooler                                                         
 
                          Fends = −V
                                       dP                         and then requiring constant entropy so that dS = 0,
-                                      dx                         and then                    
+                                      dx                         and then
                                                                                            ∂U
    where V is again the volume of the cylinder.                                    P =−                         (50)
                                                                                            ∂V S
@@ -1493,12 +1527,12 @@ Part D: The Cryo-Cooler                                                         
    these two forces effectively add to zero. In fact, it is      tropy curves on a U − V graph.
    the viscous forces with the wall that cause the pres-         Another approach to find pressure is to consider a
    sure gradient across the sponge.                              line of constant U , then
-   The bulk kinetic energy of the parcel does not                                              
+   The bulk kinetic energy of the parcel does not
                                                                                        P     ∂S
    change significantly as it moves through the sponge.                                  =
    This is seen in that the bulk speed of the gas doesn’t                              T     ∂V U
    change significantly as it moves through the sponge.
-   The problem with this approach is that the system             Then                                      
+   The problem with this approach is that the system             Then
    is not in thermodynamic equilibrium; the process is                                                 ∂U
                                                                                U + PV = U −                          V
    not reversible, so it is not possible to attach well de-                                            ∂V        S
@@ -1516,7 +1550,7 @@ Part D: The Cryo-Cooler                                                         
                                                                  then
                      dU = −P dV − V dP                                               U = H 2 − P2 V
    since the part associated with −V dP doesn’t change           is the equation of a line,
-   the bulk kinetic energy, and instead dissipates into                                               
+   the bulk kinetic energy, and instead dissipates into
    internal energy of the gas.                                                   U = H2 +
                                                                                                   ∂U
                                                                                                                  V       (51)
@@ -1548,7 +1582,9 @@ Part D: The Cryo-Cooler                                                         
    tually integrate it; and the work done in this case is        Now to improve the result.
    not correctly computed. Four wrongs don’t make a              Draw a line out from 39 that is tangent to the near-
    right.                                                        est isentrope to V2 = 0.100, T2 = 7.5; draw another
-IPhO 2022                               Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                               Theoretical problems: solutions. Language: English
 
    line out from 41 that is also tangent to the nearest
    isentrope to V2 = 0.100, T2 = 7.5. These are shown in
@@ -1621,7 +1657,9 @@ Part D: The Cryo-Cooler                                                         
    This happens at about T1 = 11K. If T1 is higher than
    this, it would not be possible to cool down to T2 =
    7.5K.
-IPhO 2022                                          Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                          Theoretical problems: solutions. Language: English
 
 T3: Scaling laws (8 pts)                                       There are two processes binding the sand grains to-
                                                                gether. The first one is the force due to the surface ten-
@@ -1689,7 +1727,9 @@ sideration.
                                                                 sion bonds between sand grains.
                                                                   Consider the energy E required to push a single layer
                                                                 of sand into the layer beneath it. E ∝ F rg , where F is the
-IPhO 2022                                 Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                 Theoretical problems: solutions. Language: English
 
 force required and rg is the typical height of a layer (i.e.,                       d ∝ gt2         0.2 pts
 the typical length scale of a grain).                                               Answer: 1.5     0.1 pts
@@ -1763,7 +1803,9 @@ therefore if the formula is written without motivation,          x = [cosh(gτ )
    If we ignore relativity, then d ∝ 21 gt2 ∝ g, which gives
 an answer of 1.5.
    Marking scheme:
-IPhO 2022                                       Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                       Theoretical problems: solutions. Language: English
 
                 Fx is Lorentz invariant        0.4 pts              Palermo 21, 129–175 (1906)] of depicting things in x − it-
                 x≈t                            0.4 pts              diagram. The benefit of using this diagram is that the
@@ -1783,8 +1825,8 @@ time are wrong by a factor of 0.5, 2, 4, etc., -0.1 pts.            tion angle o
   Let w be the rapidity of the spaceship, defined as w ≡            R. Now we can easily relate the travel distance x to the
     −1
 tanh (β), where β is the spaceship’s velocity. Then β =             arc length icτ :
-tanh w, the Lorentz factor γ = cosh w, and its momentum                                                  
-p = m0 sinh w.                                                                                        icτ     c2       gτ    
+tanh w, the Lorentz factor γ = cosh w, and its momentum
+p = m0 sinh w.                                                                                        icτ     c2        gτ
                                                                      x = R(1 − cos α) = R 1 − cos           =      cosh    −1 .
   As shown by Solution 1, a spaceship experiencing a                                                   R      g          c
 constant proper acceleration g experiences a constant
@@ -1797,7 +1839,7 @@ three-force                                                           Marking sc
                                                                                  partial credit for R = icτ
                                                                                                         dα          0.2 pts
 Meanwhile, time dilation relates t to the spaceship’s                         x = R(1 − cos α)                      0.5 pts
-                                                                                              
+
 proper time τ as
                                                                                g cosh c − 1                         0.3 pts
                                                                               c2        gτ
@@ -1831,7 +1873,7 @@ The answer is thus                                                              
                                    3                                                        1 − β2                c
 
   Marking scheme:                                                   so that the travel distance
-                                                                          Z         Z T /4                           
+                                                                          Z         Z T /4
                d
                                                 0.5 pts                                                c2
                dt (m0 sinh w) = m0 g
@@ -1868,14 +1910,16 @@ Remark: if integration boundaries for distance or proper                        
                                                                                           R T /4
 time are wrong by a factor of 0.5, 2, 4, etc., -0.1 pts.                        g) d2 = c 0h sinh(       gτ
                                                                                                                    0.2 pts
-                                                                                                      c)dτ i
+                                                                                                       c )dτ i
    Solution 3: The problem can be also solved by using the                      h) 2 = g cosh 4c − 1
                                                                                     d    c2            gT
                                                                                                                    0.2 pts
 trick introduced in 1905 by Henri Poincaré [Poincaré,
                                                                                 i) Answer: 480                     0.2 pts
 M.H. Sur la dynamique de l’ électron. Rend. Circ. Matem.
-IPhO 2022                                 Theoretical problems: solutions. Language: English
+
+
+IPhO 2022                                 Theoretical problems: solutions. Language: English
                                                                             p
   Remark: if integration in f) is done over proper time,          a) ω0 ∝ g/r                                     0.4 pts
 no points are given for f). If integration boundaries for            stated without justification                 -0.2 pts
@@ -1927,7 +1971,7 @@ Since the mass scales with r3 , we have
 scales as                                                                                        k2
                          β2   1                                                      ω = ω02 − 22 4 ,
                           2 ∝ 3                                                                 4k1 r
-                         ω0  r                                                                                 
+                         ω0  r
                                                                                         k2                 k22
   Oscillations only occur if β/ω0 < 1, so solve                       ω 2 = ω02 1 − 2 24 2 = ω02 1 −                .
                                                                                      4k1 r ω0           4k1 k3 r3
@@ -1938,7 +1982,7 @@ scales as                                                                       
                                                                                                = rmin ,
   Notes:                                                                                4k1 k3
                      √                                         and
- 1. To obtain ω0 ∝ 1/ r without dimensional analysis,                                                 
+ 1. To obtain ω0 ∝ 1/ r without dimensional analysis,
                                                                                                   r3
     note that a small displacement y changes the sub-                                ω 2 = ω02 1 − min   ,
     merged volume of the ball by ∆V ∝ r2 y, so the                                                 r03

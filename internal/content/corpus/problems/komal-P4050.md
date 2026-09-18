@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 200802"
 verification_status: pending
 ---
 
-One of the sides of the frame shown in the figure can move. The frame is in uniform magnetic field of , which is perpendicular to the plane of the frame. At the time of t =0 the magnetic field begins to decrease as . 
- With what speed should the side of the frame be moved in order not to induce electric current in it? 
+One of the sides of the frame shown in the figure can move. The frame is in uniform magnetic field of , which is perpendicular to the plane of the frame. At the time of t =0 the magnetic field begins to decrease as .
+ With what speed should the side of the frame be moved in order not to induce electric current in it?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4050-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4050-fig1.gif)

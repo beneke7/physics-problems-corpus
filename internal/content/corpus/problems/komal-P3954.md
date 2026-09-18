@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200702"
 verification_status: pending
 ---
 
-Cars of length l travel with uniform velocity of v and pass a road sign. The distance between them is  x . The greater their speed the greater the distance between them. The relationship between their speed and the distance between them is given by the function x = v $^{2}$, where is constant, characteristic to all cars. What is the velocity at which the most cars go past the road sign during a given time? 
+Cars of length l travel with uniform velocity of v and pass a road sign. The distance between them is  x . The greater their speed the greater the distance between them. The relationship between their speed and the distance between them is given by the function x = v $^{2}$, where is constant, characteristic to all cars. What is the velocity at which the most cars go past the road sign during a given time?
  (4 pont)

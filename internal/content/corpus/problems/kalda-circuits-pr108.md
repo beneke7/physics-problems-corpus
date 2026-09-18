@@ -19,4 +19,4 @@ verification_status: pending
 
 For the circuit shown below, the frequency of the sinusoidal input voltage is unknown; given the capacitance $C$, inductance $L$, resistances $R_{1}, R_{2}$, amplitude of the input voltage $V_{0}$, and the phase shift $\varphi$ between the inductor current and input voltage, what is the phase shift between the capacitor voltage and output voltage?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr108-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr108-fig1.jpg)

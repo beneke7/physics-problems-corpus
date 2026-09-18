@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [graphical-reduction, differential-element]
 ---
 
-According to the measurements, the potential values in uniform electrostatic field along a straight line segment $AB$ as a function of the distance $x$ measured from point $A$ can be seen in the table. 
+According to the measurements, the potential values in uniform electrostatic field along a straight line segment $AB$ as a function of the distance $x$ measured from point $A$ can be seen in the table.
 
- $x~[\mathrm{cm}]$ 2 3 4 5 6 
- $U~[\mathrm{V}]$ 130 150 180 210 230 
+ $x~[\mathrm{cm}]$ 2 3 4 5 6
+ $U~[\mathrm{V}]$ 130 150 180 210 230
 
- Determine the approximate value of the component of the electric field strength which is parallel to $AB$. 
+ Determine the approximate value of the component of the electric field strength which is parallel to $AB$.
  (4 pont)

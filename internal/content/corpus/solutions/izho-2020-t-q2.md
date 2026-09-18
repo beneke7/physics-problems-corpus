@@ -50,18 +50,18 @@ A similar expression for the temperature 𝑇𝑇𝑏𝑏 = 373 К has the form
 𝜇𝜇𝑤𝑤𝑟𝑟𝑤𝑤 = 𝑈𝑈2(𝑇𝑇𝑏𝑏) – 𝑈𝑈1(𝑇𝑇𝑏𝑏) + 𝑅𝑅𝑇𝑇𝑏𝑏 . (7)
 Subtracting equation (7) from equation (6), we obtain for the change in the molar heat of
 evaporation
-𝜇𝜇𝑤𝑤∆𝑟𝑟 = ∆𝑈𝑈2 – ∆𝑈𝑈1 + 𝑅𝑅∆𝑇𝑇 = С𝑃𝑃∆𝑇𝑇 − 𝜇𝜇𝑤𝑤𝑐𝑐𝑤𝑤∆𝑇𝑇 = 𝜇𝜇𝑤𝑤 �
+𝜇𝜇𝑤𝑤∆𝑟𝑟 = ∆𝑈𝑈2 – ∆𝑈𝑈1 + 𝑅𝑅∆𝑇𝑇 = С𝑃𝑃∆𝑇𝑇 − 𝜇𝜇𝑤𝑤𝑐𝑐𝑤𝑤∆𝑇𝑇 = 𝜇𝜇𝑤𝑤
 С𝑃𝑃
 𝜇𝜇𝑤𝑤
-− 𝑐𝑐𝑤𝑤�∆𝑇𝑇, (8)
+− 𝑐𝑐𝑤𝑤 ∆𝑇𝑇, (8)
 where ∆𝑇𝑇 = 𝑇𝑇 − 𝑇𝑇𝑏𝑏 and ∆𝑟𝑟 = 𝑟𝑟(𝑇𝑇) − 𝑟𝑟𝑤𝑤.
 Given that for water vapor, the molar heat capacity at constant pressure is
 𝐶𝐶𝑃𝑃 = 4𝑅𝑅, (9)
 we obtain the specific heat of water evaporation
-𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 − �𝑐𝑐𝑤𝑤 −
+𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 −  𝑐𝑐𝑤𝑤 −
 4𝑅𝑅
 𝜇𝜇𝑤𝑤
-�(𝑇𝑇 − 𝑇𝑇𝑏𝑏) = 2447 𝐽𝐽/𝑔𝑔. (10)
+ (𝑇𝑇 − 𝑇𝑇𝑏𝑏) = 2447 𝐽𝐽/𝑔𝑔. (10)
 It is interesting to note that the heat of evaporation is increased by ∆𝑟𝑟/𝑟𝑟𝑤𝑤 ≈ 8 %.
 The Clausius–Clapeyron relation
 2.3 Neglecting the specific volume of water compared to the volume of vapor, we apply the
@@ -83,16 +83,16 @@ or
 𝑅𝑅𝑇𝑇2
 . (12)
 Integrating this expression at 𝑟𝑟 = 𝑟𝑟𝑤𝑤 = 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 gives rise to
-𝑃𝑃 = 𝑃𝑃0 exp�
+𝑃𝑃 = 𝑃𝑃0 exp
 𝜇𝜇𝑤𝑤𝑟𝑟𝑤𝑤
 𝑅𝑅
-�
+
 1
 𝑇𝑇𝑏𝑏
 –
 1
 𝑇𝑇
-��. (13)
+  . (13)
 2.4 As it follows from equation (13) the explicit dependence of the boiling point of water on external
 pressure has the form
 𝑇𝑇 =
@@ -105,10 +105,10 @@ ln
 𝑃𝑃0
 . (14)
 According to the barometric formula for an isothermal atmosphere, we have
-𝑃𝑃 = 𝑃𝑃0 exp�−
+𝑃𝑃 = 𝑃𝑃0 exp −
 𝜇𝜇𝑎𝑎𝑎𝑎𝑎𝑎𝑔𝑔ℎ
 𝑅𝑅𝑇𝑇0
-�. (15)
+ . (15)
 Substituting this expression into formula (14), we obtain the dependence of the boiling
 temperature on height and the numerical value of the boiling temperature of water at the altitude of
 ℎ = 7 𝑘𝑘𝑘𝑘
@@ -127,13 +127,13 @@ temperature on height and the numerical value of the boiling temperature of wate
 𝑑𝑑𝑑𝑑
 =
 𝑟𝑟𝑤𝑤
-𝑇𝑇0�
+𝑇𝑇0
 1
 𝜌𝜌𝑤𝑤
 −
 1
 𝜌𝜌𝑖𝑖
-�
+
 . (17)
 Therefore, we obtain that in order to lower the melting temperature of ice by 10
 С, the pressure
@@ -256,7 +256,7 @@ d𝑇𝑇
 Since α𝑓𝑓/αw ≈ 6,30, the decrease in pressure and, correspondingly, in the boiling point are
 both small relative to the same values for fluoroketone, therefore, we can use the linear
 approximation near tf
-𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥) = α𝑓𝑓Δ𝑇𝑇 = 𝑃𝑃 w(𝑡𝑡𝑥𝑥) = 𝑃𝑃 w�𝑡𝑡𝑓𝑓�– αwΔ𝑇𝑇, (36)
+𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥) = α𝑓𝑓Δ𝑇𝑇 = 𝑃𝑃 w(𝑡𝑡𝑥𝑥) = 𝑃𝑃 w 𝑡𝑡𝑓𝑓 – αwΔ𝑇𝑇, (36)
 where Δ𝑇𝑇 = 𝑇𝑇𝑓𝑓 − 𝑇𝑇𝑥𝑥, wherefrom the lowering of the boiling point is found as
 Δ𝑇𝑇 =
 𝑃𝑃w(t𝑓𝑓)
@@ -293,10 +293,10 @@ Formula (6): 𝜇𝜇𝑤𝑤𝑟𝑟(𝑇𝑇) = 𝑈𝑈2 – 𝑈𝑈1 + 𝑃
 1,0
 Formula (7): 𝜇𝜇𝑤𝑤𝑟𝑟𝑤𝑤 = 𝑈𝑈2(𝑇𝑇𝑏𝑏) – 𝑈𝑈1(𝑇𝑇𝑏𝑏) + 𝑅𝑅𝑇𝑇𝑏𝑏 0,2
 Formula (9): 𝐶𝐶𝑃𝑃 = 4𝑅𝑅 0,2
-Formula (10): 𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 − �𝑐𝑐𝑤𝑤 −
+Formula (10): 𝑟𝑟(𝑇𝑇) = 𝑟𝑟𝑤𝑤 −  𝑐𝑐𝑤𝑤 −
 4𝑅𝑅
 𝜇𝜇𝑤𝑤
-�(𝑇𝑇 − 𝑇𝑇𝑏𝑏) 0,2
+ (𝑇𝑇 − 𝑇𝑇𝑏𝑏) 0,2
 Numerical value in formula (10): 2447 𝐽𝐽/𝑔𝑔 0,2
 2.3
 Formula (11):
@@ -310,16 +310,16 @@ Formula (11):
 𝑅𝑅𝑇𝑇2
 𝑃𝑃 0,2
 0,4
-Formula (13): 𝑃𝑃 = 𝑃𝑃0 exp�
+Formula (13): 𝑃𝑃 = 𝑃𝑃0 exp
 𝜇𝜇𝑤𝑤𝑟𝑟𝑤𝑤
 𝑅𝑅
-�
+
 1
 𝑇𝑇𝑏𝑏
 –
 1
 𝑇𝑇
-�� 0,2
+   0,2
 2.4
 Formula (14): 𝑇𝑇 =
 𝑇𝑇𝑏𝑏
@@ -331,10 +331,10 @@ ln
 𝑃𝑃0
 0,2
 1,0
-Formula (15): 𝑃𝑃 = 𝑃𝑃0 exp�−
+Formula (15): 𝑃𝑃 = 𝑃𝑃0 exp −
 𝜇𝜇𝑎𝑎𝑎𝑎𝑎𝑎𝑔𝑔ℎ
 𝑅𝑅𝑇𝑇0
-� 0,4
+  0,4
 Formula (16): 𝑇𝑇 =
 𝑇𝑇𝑏𝑏
 1+
@@ -351,13 +351,13 @@ Numerical value in formula (16): 76,6 ℃ 0,2
 𝑑𝑑𝑑𝑑
 =
 𝑞𝑞𝑖𝑖
-𝑇𝑇0�
+𝑇𝑇0
 1
 𝜌𝜌𝑤𝑤
 −
 1
 𝜌𝜌𝑖𝑖
-� 0,2 0,6
+  0,2 0,6
 XVI International Zhautykov Olympiad/Theoretical Competition Page 9/13
 Formula (18): ∆𝑃𝑃 =
 𝑑𝑑𝑑𝑑
@@ -444,7 +444,7 @@ d𝑇𝑇
 𝑅𝑅𝑇𝑇𝑓𝑓
 2 0,3
 Estimation: α𝑓𝑓/αw ≈ 6,30 0,3
-Formula (36): 𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥) = α𝑓𝑓Δ𝑇𝑇 = 𝑃𝑃 w(𝑡𝑡𝑥𝑥) = 𝑃𝑃 w�𝑡𝑡𝑓𝑓�– αwΔ𝑇𝑇 0,3
+Formula (36): 𝑃𝑃0 − 𝑃𝑃(𝑡𝑡𝑥𝑥) = α𝑓𝑓Δ𝑇𝑇 = 𝑃𝑃 w(𝑡𝑡𝑥𝑥) = 𝑃𝑃 w 𝑡𝑡𝑓𝑓 – αwΔ𝑇𝑇 0,3
 Formula (37): Δ𝑇𝑇 =
 𝑃𝑃w(t𝑓𝑓)
 (α𝑓𝑓 + αw)

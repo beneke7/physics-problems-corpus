@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-The resistance of the edges of the rhombus shown in the figure is $R$, and the resistance of the diagonal is $xR$, where $x\ge 0$ is a variable parameter. A voltage supply $U$ is connected across two arbitrary chosen vertices. For each possible case, calculate the total dissipated power in the five resistors as a function of the parameter $x$. 
+The resistance of the edges of the rhombus shown in the figure is $R$, and the resistance of the diagonal is $xR$, where $x\ge 0$ is a variable parameter. A voltage supply $U$ is connected across two arbitrary chosen vertices. For each possible case, calculate the total dissipated power in the five resistors as a function of the parameter $x$.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G868-fig1.gif)
+![figure](../../figures/komal/figures/komal-G868-fig1.gif)

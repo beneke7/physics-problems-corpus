@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: flagged
 ---
 
-All the resistances of the resistors shown in the figure are R =2 M , the capacitance of the capacitor is C =1  F, the voltage of the battery is U =90 V. The switch  K is held at its closed position in order to charge the capacitor, and then it is opened. 
- a ) What is the reading on the ideal voltmeter before opening the switch? 
- b ) What is the reading on the voltmeter a short time after the switch was opened? 
+All the resistances of the resistors shown in the figure are R =2 M , the capacitance of the capacitor is C =1  F, the voltage of the battery is U =90 V. The switch  K is held at its closed position in order to charge the capacitor, and then it is opened.
+ a ) What is the reading on the ideal voltmeter before opening the switch?
+ b ) What is the reading on the voltmeter a short time after the switch was opened?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4494-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4494-fig1.gif)

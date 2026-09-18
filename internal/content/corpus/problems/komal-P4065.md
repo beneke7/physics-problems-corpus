@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-By what percent does the resistance of a mercury column increase if it is placed into another tube in which its length increases by p  percent? 
+By what percent does the resistance of a mercury column increase if it is placed into another tube in which its length increases by p  percent?
  (3 pont)

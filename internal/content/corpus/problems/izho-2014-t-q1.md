@@ -38,7 +38,7 @@ The atmospheric pressure is $P_{0}=1.0 \cdot 10^{5} P a$, the piston mass is $M=
 ## Problem 1B (5.0 points)
 
 In the circuit shown in the figure on the right, all the electrical components are ideal and their parameters are assumed to be given. Before switching on the key, the capacitor has been discharged. Find an amount of heat releasing in the resistor $R$ after the key has been switched on.
-![](izho-2014-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2014-t-q1-fig01.png)
 
 ## Problem 1C (2.0 points)
 

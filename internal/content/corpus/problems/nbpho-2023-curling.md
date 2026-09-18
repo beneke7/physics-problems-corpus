@@ -24,7 +24,7 @@ solution_language: en
 
 In the sport of curling, participants take turns sliding near-cylindrical stones across an ice court towards a target, trying to get their stones as close to the target as possible after using a set of stones. A vertical cross section of a stone is depicted below, showing that the stone is in contact with the ice on a thin ring of radius $r$. The full radius of the stone is $R$, the mass of the stone is $m$ and the coefficient of friction with the ice is $\mu$.
 
-![Curling stone cross-section](sources/nbpho/figures/nbpho-2023-curling-fig1.jpg)
+![Curling stone cross-section](../../figures/nbpho/figures/nbpho-2023-curling-fig1.jpg)
 
 Consider the case when the stone is released at a speed $v_{0}$ with the aim of knocking out an opponent's stone at a distance $s$.
 

@@ -71,13 +71,13 @@ P =
 ∆T
 T
 L
-
+
 1
 ρi
 −
 1
 ρw
-−1
+ −1
 ≈ 6.76 × 107
 Pa
 where we used

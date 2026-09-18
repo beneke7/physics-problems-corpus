@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4094. Az ábrán látható G súlyú csuklós rúd vízszintes, síkos padlóra támaszkodik. Mekkora és milyen irányú erő ébred a csuklóban, valamint a padlón?
 
-![figure](../../raw_html/komal_figures/komal-P4094-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4094-fig1.gif)

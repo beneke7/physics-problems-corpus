@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-A physicist hanged a cylinder-shaped container of base 100 cm$^{2}$ to a spring. He slowly poured water into the container and found that the surface of water remained at the same level. Find the spring constant D of the spring. 
+A physicist hanged a cylinder-shaped container of base 100 cm$^{2}$ to a spring. He slowly poured water into the container and found that the surface of water remained at the same level. Find the spring constant D of the spring.
  (4 pont)

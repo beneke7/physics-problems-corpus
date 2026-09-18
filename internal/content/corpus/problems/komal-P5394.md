@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, choose-reference-frame, differential-element]
 ---
 
-The semi-major and semi-minor axes of an ellipse-shaped uniform-density plate of mass $m$ are $a$ and $b$, respectively. What is the rotational inertia of the plate with respect to an axis which is perpendicular to the plane of the plate and goes through one end of the major axis of length $2a$? (The problem can also be solved by elementary considerations not requiring higher mathematics.) 
+The semi-major and semi-minor axes of an ellipse-shaped uniform-density plate of mass $m$ are $a$ and $b$, respectively. What is the rotational inertia of the plate with respect to an axis which is perpendicular to the plane of the plate and goes through one end of the major axis of length $2a$? (The problem can also be solved by elementary considerations not requiring higher mathematics.)
  (5 pont)

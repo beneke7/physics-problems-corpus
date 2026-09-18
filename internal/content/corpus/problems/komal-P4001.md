@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-Two objects are placed to the principal axis of a thin converging lens. One is 20 cm from the lens and the other is on the other side of the lens at a distance of 40 cm from the lens. The images of both objects are in the same plane. What is the focal length of the lens? 
+Two objects are placed to the principal axis of a thin converging lens. One is 20 cm from the lens and the other is on the other side of the lens at a distance of 40 cm from the lens. The images of both objects are in the same plane. What is the focal length of the lens?
  (4 pont)

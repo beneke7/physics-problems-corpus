@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry]
 ---
 
-A long uniformly charged rod, made of some insulating material, is bent into a semicircle in the middle of the rod. What is the electric field at the centre of the semicircle  O ? 
+A long uniformly charged rod, made of some insulating material, is bent into a semicircle in the middle of the rod. What is the electric field at the centre of the semicircle  O ?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4199-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4199-fig1.gif)

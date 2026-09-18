@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201511"
 verification_status: pending
 ---
 
-At a radar station where electromagnetic impulses of 20 cm wavelength are emitted, a difference of 2778 Hz is detected between the frequency of the emitted and reflected impulses. What was the velocity of the air-plane which reflected the emitted beam? 
+At a radar station where electromagnetic impulses of 20 cm wavelength are emitted, a difference of 2778 Hz is detected between the frequency of the emitted and reflected impulses. What was the velocity of the air-plane which reflected the emitted beam?
  (4 pont)

@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2000
 2. Felül nyitott kém s®ben vizet forralunk. Közvetlenül miel®tt az utolsó néhány sepp is elforrna, a kém sövet hir-
 telen légmentesen lezárjuk. Ezután a kém s® tetején a h®mérsékletet lassan 200 ◦
 C-ra emeljük, miközben gondoskodunk
-arról  ha kell h¶téssel, ha kell f¶téssel,  hogy a kém s® legalján a h®mérséklet 100 ◦
+arról   ha kell h¶téssel, ha kell f¶téssel,   hogy a kém s® legalján a h®mérséklet 100 ◦
 C maradjon.
 Mekkora lesz a kém s®ben a g®znyomás?
 (Károlyházy Frigyes)
@@ -37,11 +37,11 @@ C-os
 telített g®z nyomása pedig a kezdeti, 101 kPa.
 A kém s®ben tehát a végállapotban is 101 kPa a g®znyomás!
 Megjegyzés. Érdekes, hogy ez a könny¶nek látszó feladat milyen nehéznek bizonyult a versenyz®k számára. Csupán
-11 versenyz®nek sikerült jól megoldania. A legtöbb hibás érvelés szerint a nyomás n® a lezárt kém s®ben  akik így
+11 versenyz®nek sikerült jól megoldania. A legtöbb hibás érvelés szerint a nyomás n® a lezárt kém s®ben   akik így
 gondolták, nem vették észre az alul maradó 100◦
 C-os víz nyomásbeállító szerepét.
-Egy megoldónak nehézséget okozott, hogy a Négyjegy¶-ben lév® táblázatban a vízg®z h®vezetési együtthatójára
-egy sajtóhiba következtében 6 nagyságrenddel nagyobb érték szerepel, mint az igazi érték. A hibás adat 
+Egy megoldónak nehézséget okozott, hogy a  Négyjegy¶ -ben lév® táblázatban a vízg®z h®vezetési együtthatójára
+egy sajtóhiba következtében 6 nagyságrenddel nagyobb érték szerepel, mint az igazi érték. A hibás adat
 gyelembe
 vételével a g®z h®mérsékletét végig állandónak lehetett tekinteni, s a kém s® alján lév® vízben alakult volna ki 100◦
 C

@@ -36,7 +36,6 @@ Now consider a frame moving with velocity v = v î. Then the boosted field is
                                 E ∼ 2                    γy 
                                      (x + y 2 + z 2 )3/2
                                                            γz
-39 2. Electromagnetism
 
 
 using the coordinates in the original field. Switching the coordinates to the boosted ones,
@@ -76,7 +75,7 @@ We conclude by rewriting Maxwell’s equations and the Lorentz force law relativ
                                        dτ
     As we mentioned above, in Hamiltonian mechanics this is the more relevant quantity. In the
     nonrelativistic limit, the components of this equation are
-                                
+
                 d 1       2          ∂                 d
                        mv + qϕ = q(ϕ − v · A),            (mv + qA) = −∇q(ϕ − v · A).
                 dt 2                ∂t                 dt
@@ -92,7 +91,6 @@ of the scalar potential, that of the potential energy per charge, only makes sen
 Similarly, the vector potential is the potential momentum per charge, again in certain gauges.
     This was how Maxwell thought about the vector potential, which he actually called the “electro-
 magnetic momentum”, but this interpretation of it tends to be less useful. The reason is that the
-40 2. Electromagnetism
 
 
 time component of pµ + qAµ is conserved whenever Aµ is time-independent, which can easily be
@@ -149,7 +147,6 @@ In this section, we show how radiation is produced by accelerating charges.
                                                 ∂ 2 Aµ = µ 0 J µ .
 
       That is, the potential solves the wave equation, and its source is the current.
-41 2. Electromagnetism
 
 
  • Lorenz gauge exists if we can always pick a gauge transformation χ so that ∂ 2 χ = −∂µ Aµ .
@@ -161,7 +158,7 @@ In this section, we show how radiation is produced by accelerating charges.
                                                    ∂t             ϵ0
     and
                                  1 ∂2A
-                                                 
+
                              2               1 ∂ϕ
                             ∇ A− 2 2 −∇ ∇·A+ 2      = −µ0 J.
                                 c ∂t        c ∂t
@@ -209,10 +206,9 @@ Returning to Lorenz gauge, we are thus motivated to find the Green’s function 
 
     Translational and rotational symmetry mean Gω (x, x′ ) = Gω (r) where r = |x − x′ |. We can
     think of Gω (r) as the spatial response to a sinusoidal source of frequency ω at the origin.
-42 2. Electromagnetism
 
 
- • In spherical coordinates,                                   
+ • In spherical coordinates,
                                        1 d              dGω
                                                    r2               + ω 2 Gω = δ(r).
                                        r2 dr             dr
@@ -274,7 +270,6 @@ We can also take the Fourier transform in both time and space.
                                  1          2 2 sin kr               e−iωt
                      G(r, t) = 3        dk c k             dω                   .
                                 4π 0              kr    −∞     (ω − ck)(ω + ck)
-43 2. Electromagnetism
 
 
   • In order to perform the dω integration, we need to deal with the poles. By adding an infinitesimal
@@ -332,7 +327,6 @@ We now use our results to analyze radiation from small objects.
     This approximation only makes sense if the motion is nonrelativistic: the next correction term
     to tret is of order d/c, which is only small if the characteristic timescale of changes in the current
     is much greater than d/c.
-44 2. Electromagnetism
 
 
   • It’s easiest to compute the field starting with the vector potential. We use the identity
@@ -345,7 +339,7 @@ We now use our results to analyze radiation from small objects.
                                        A(x, t) ≈       ṗ(t − r/c).
                                                    4πr
   • Applying the product rule, we have
-                                                                        
+
                                 µ0     x̂ × ṗ(t − r/c) x̂ × p̈(t − r/c)
                           B≈        −                  −                   .
                                 4π             r2               rc
@@ -386,7 +380,6 @@ We now use our results to analyze radiation from small objects.
     by v 2 /c2 and hence is much smaller in the nonrelativistic limit.
 
 We can apply our results to scattering.
-45 2. Electromagnetism
 
 
  • As a warmup, we consider Thomson scattering. Consider a free particle in light, and assume
@@ -428,9 +421,9 @@ We can apply our results to scattering.
 
  • In the limit ω ≪ ω0 , which is a good approximation for visible light and molecules in the
    atmosphere, the amplitude is constant (rather than the 1/ω 2 for Thomson scattering), giving
-                                                                4
+                                                                 4
                                               8πrq2
-                                                       
+
                                                            ω
                                            σ=                        .
                                                3           ω0
@@ -444,7 +437,6 @@ We can apply our results to scattering.
    phase, so their amplitudes superpose, giving a quadratic increase in power. Mie scattering
    applies for water droplets in the atmosphere, explaining why clouds are visible, and white. In
    the case where the scattering particles are much larger, we simply use geometric optics.
-46 2. Electromagnetism
 
 
 Note. As a final note, we can generalize our results to a relativistically moving charge. Suppose a
@@ -500,7 +492,6 @@ of ℓ/r where ℓ is the separation between the charges. This gives
                                                            1 q 2 ℓ2 ω 4
                                                     P ∼
                                                           8π ϵ0 c3
-47 2. Electromagnetism
 
 
 which is the Larmor formula up to an O(1) factor. (We can recast this in a more familiar form
@@ -551,14 +542,13 @@ This is the lowest order, so it can be found from the magnetostatic expression,
                                               4π        |r − r′ |
 The transverse part of the current can be calculated by starting from the current of a point charge
 and taking the transverse part as described above. This leads to the Darwin Lagrangian,
-                                                                     
+
                                     q1 q2            (v1 · r)(v2 · r)
                               L1 =         v1 · v2 +                    .
                                      2r                     r2
 
 This is as far as we can go. At order (v/c)3 , radiation reaction forces appear, so the Lagrangian
 has to contain the field degrees of freedom.
-48 2. Electromagnetism
 
 
 2.6     Electromagnetism in Matter
@@ -581,7 +571,7 @@ begin by considering insulators, which in this context are called dielectrics, i
                                             V        |r − r′ |3
       where we set 4πϵ0 = 1 and used the dipole potential. Then
                                                                  P(r′ )              ′       ′
-                                                     Z
+                                                       Z
                                                                                  ′ ∇ · P(r )
                        Z                                                    Z
                             ′    ′     ′      1
@@ -607,7 +597,6 @@ begin by considering insulators, which in this context are called dielectrics, i
                                                         1 + χe
       so we may identify the dielectric constant as κ = 1 + χe . Since generally χe > 0, the field is
       shielded by charge screening.
-49 2. Electromagnetism
 
 
  • To generalize this analysis, define free charge to be all charge besides bound charge, so that
@@ -663,7 +652,6 @@ Now we consider the confusing subject of dielectric energy.
     where we integrated by parts and threw away a boundary term. This implies that
                                                 Z
                                       dUspring = dr E · dP.
-50 2. Electromagnetism
 
 
  • For a linear dielectric, integrating gives
@@ -714,6 +702,5 @@ consider the ionic lattice of NaCl. We might divide the crystal into unit cells 
 a molecule. Then the dipole moment of each unit cell due to “bound charge” depends on how the
 cell is chosen. Similarly, the “free” charge due to atoms on the boundary not in full unit cells also
 depends on the cell. Of course, the sum of these contributions must be independent of the cell.
-51 2. Electromagnetism
 
 

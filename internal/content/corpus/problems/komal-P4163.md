@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 200904"
 verification_status: pending
 ---
 
-Use a converging lens of diameter d and of power D dioptre and project the image of the Sun onto a white screen. 
- a ) What is the size of the Sun on the screen? 
- b ) By what factor will the image of the Sun on the screen be brighter than the rest of the screen which is directly shone by the Sun? 
- The angle subtended by the Sun is 32 arcminutes. 
- Data: D $_{1}$=12 m$^{-1}$, d $_{1}$=35 mm; and , d $_{2}$=60 cm. 
+Use a converging lens of diameter d and of power D dioptre and project the image of the Sun onto a white screen.
+ a ) What is the size of the Sun on the screen?
+ b ) By what factor will the image of the Sun on the screen be brighter than the rest of the screen which is directly shone by the Sun?
+ The angle subtended by the Sun is 32 arcminutes.
+ Data: D $_{1}$=12 m$^{-1}$, d $_{1}$=35 mm; and , d $_{2}$=60 cm.
  (4 pont)

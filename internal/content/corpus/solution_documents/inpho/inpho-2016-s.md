@@ -87,7 +87,9 @@ In principle you can participate in both olympiads.
                  HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                         Tata Institute of Fundamental Research
                     V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-Instructions:
+
+
+Instructions:
 
 1. Write the last four digits of your roll number on every page of this booklet.
 2. Fill out the attached performance card. Do not detach it from this booklet.
@@ -129,7 +131,7 @@ In principle you can participate in both olympiads.
 
                                               9.11 × 10−31 kg = 0.51 MeV·c−2
          Stefan-Boltzmann constant σ      =   5.67 × 10−8 W·m−2 · K−4
-                       Value of 1/4π0    =   9.00 × 109 N·m2 ·C−2
+                       Value of 1/4π 0    =   9.00 × 109 N·m2 ·C−2
               Permeability constant µ0    =   4π × 10−7 H·m−1
 
 
@@ -154,7 +156,9 @@ In principle you can participate in both olympiads.
            HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                   Tata Institute of Fundamental Research
               V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-                         INPhO - 2016 - Final Solutions
+
+
+                         INPhO - 2016 - Final Solutions
     Please note that alternate/equivalent methods and different way of
                    expressing final solutions may exist.
 
@@ -212,7 +216,9 @@ In principle you can participate in both olympiads.
 
 
                                               r1
-                      INPhO - 2016 - Final Solutions
+
+
+                      INPhO - 2016 - Final Solutions
     (c) Obtain the minimum value of the ratio R/d for which any light ray entering              [2]
         the glass normally through the face ABCD undergoes at least one total internal
         reflection.
@@ -260,18 +266,20 @@ In principle you can participate in both olympiads.
           Fraction of light = 0.33 or 0.34.
 
 2. A uniformly charged thin spherical shell of total charge Q and radius R is centred at        [4]
-   the origin. There is a tiny circular hole in the shell of radius r (r  R) at z = R.
+   the origin. There is a tiny circular hole in the shell of radius r (r   R) at z = R.
    Find the electric field just outside and inside the hole, i.e., at z = R + δ and z = R − δ
-   (δ  r).
+   (δ   r).
 
 
                                           Page 2
-                       INPhO - 2016 - Final Solutions
+
+
+                       INPhO - 2016 - Final Solutions
 
      Solution: Electric field of a circular disc with charge density σ of radius r at any
-     point z on its axis for z  r
+     point z on its axis for z   r
                                           E~ = σ ẑ
-                                                20
+                                                2 0
      Given system can be considered as a spherical shell of radius R with charge density
      σ and a disk of radius r with charge density −σ.
            ~ + δ) = Electric field due to shell + Electric field due to hole
@@ -279,20 +287,20 @@ In principle you can participate in both olympiads.
                         σR2            σ
                   =            2
                                  ẑ −     ẑ
-                    0 (R + δ)        20
+                     0 (R + δ)        2 0
                      σ
                   ≈     ẑ
-                    20
+                    2 0
      Similarly
                                          ~ − δ) = σ ẑ
                                          E(R
-                                                  20
-     For R  r
+                                                  2 0
+     For R   r
 
                   ~ + δ) = E(R
                            ~ − δ) =               Q
                   E(R                                   ẑ i.e. radially outward.
-                                                8π0 R2
+                                                8π 0 R2
                                                          6
      Answers expressed up to second order approximations are also ac-
      cepted.
@@ -334,7 +342,9 @@ In principle you can participate in both olympiads.
 
 
                                              Page 3
-                  INPhO - 2016 - Final Solutions
+
+
+                  INPhO - 2016 - Final Solutions
 
       Here
 
@@ -407,7 +417,9 @@ In principle you can participate in both olympiads.
 
 
                                     Page 4
-                      INPhO - 2016 - Final Solutions
+
+
+                      INPhO - 2016 - Final Solutions
 
          Solution: Payload velocity
                                                           √
@@ -440,7 +452,7 @@ In principle you can participate in both olympiads.
                                           4β 4
                                            3
                                              T dV + 3T 3 V dT
-                                                              
+
                                                                                      (7)
 
 
@@ -459,7 +471,7 @@ In principle you can participate in both olympiads.
                                     dQ
                                      T
                                        = dS = d
-                                                   
+
 
 
 
@@ -467,7 +479,7 @@ In principle you can participate in both olympiads.
                                                        4β 3
                                                         3
                                                           T V
-                                                                
+
                                                                                      (8)
 
 
@@ -492,7 +504,9 @@ In principle you can participate in both olympiads.
 
 
                                           Page 5
-                      INPhO - 2016 - Final Solutions
+
+
+                      INPhO - 2016 - Final Solutions
 
          Using V = 4πr3 /3
 
@@ -556,7 +570,9 @@ In principle you can participate in both olympiads.
 
 
                                          Page 6
-                 INPhO - 2016 - Final Solutions
+
+
+                 INPhO - 2016 - Final Solutions
                      AB                   BC                    AC
                V (V) I (mA)         V (V) I (mA)          V (V) I (mA)
                 0.53    0.54         0.83    0.17          0.85    0.15
@@ -596,7 +612,9 @@ In principle you can participate in both olympiads.
          HB
 
                                     Page 7
-                             INPhO - 2016 - Final Solutions
+
+
+                             INPhO - 2016 - Final Solutions
 
 
                                                Plot for AB
@@ -651,7 +669,9 @@ V (V)
                 0.4    0.6    0.8   1   1.2      1.4  1.6    1.8       2     2.2   2.4   2.6
                                                  I (mA)
                                               Page 8
-                               INPhO - 2016 - Final Solutions
+
+
+                               INPhO - 2016 - Final Solutions
 
 
 
@@ -707,7 +727,9 @@ V (V)
           0.1        0.2      0.3   0.4   0.5     0.6         0.7   0.8     0.9    1   1.1
                                                 I (mA)
                                             Page 9
-                                INPhO - 2016 - Final Solutions
+
+
+                                INPhO - 2016 - Final Solutions
 
 
 
@@ -764,7 +786,9 @@ V (V)
               0     0.1         0.2   0.3    0.4     0.5       0.6     0.7         0.8   0.9
                                                  I (mA)
                                             Page 10
-                      INPhO - 2016 - Final Solutions
+
+
+                      INPhO - 2016 - Final Solutions
 6. The Yukawa Potential and the nucleus
    In 1935 the Japanese physicist Hideki Yukawa proposed that the strong attractive
    central potential binds the proton and the neutron with the associated potential
@@ -823,7 +847,7 @@ V (V)
                                                    = U (r)
                                               rn     dr
                                        2    2 −r/λ
-                                                        
+
                                     µv     g e       1 1
                                          =             +
                                      r        r      r λ
@@ -835,7 +859,9 @@ V (V)
 
 
                                           Page 11
-                  INPhO - 2016 - Final Solutions
+
+
+                  INPhO - 2016 - Final Solutions
 
       Solution:
                            L = mp vp rp + mn vn rn = µvr or n~
@@ -879,7 +905,7 @@ V (V)
 
 
               HB         En = −n2
-                                   2 
+                                    2
                                       ~
                                    2µλ2 x2n
                                              1
@@ -891,7 +917,7 @@ V (V)
       Result of part (e) can be used to eliminate e−xn .
 
                              En = −n  2
-                                         2 
+                                          2
                                            ~     1 (1 − xn )
                                          2µλ x2n (1 + xn )
                                              2
@@ -905,7 +931,7 @@ V (V)
       For n = 1, E1 = −Eb . Thus
 
                                        ~2
-                                          
+
                                               1 (1 − x1 )
                               Eb =                                                (16)
                                      2µλ2 x21 (1 + x1 )
@@ -922,7 +948,9 @@ V (V)
 
 
                                      Page 12
-                 INPhO - 2016 - Final Solutions
+
+
+                 INPhO - 2016 - Final Solutions
 (h) Obtain the nuclear force constant g 2 numerically in units of MeV·fm.   [2]
 
      Solution: g 2 = 86.2 MeV fm

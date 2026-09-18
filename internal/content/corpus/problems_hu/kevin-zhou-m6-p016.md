@@ -34,7 +34,9 @@ The classic cosmic speeds. For each part, express your answers in terms of
          maneuvers are often described in terms of their “total ∆v”.)
 
                                                      14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
      (b) Ha you account for the rotation of the Earth, which has speed vr at the equator, what is the
          new minimum speed and how should the satellite be launched?

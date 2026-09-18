@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5055. Egy vízszintesen kifeszített gumikötél egyik végét függőleges irányban periodikusan mozgatjuk, emiatt a kötél mentén transzverzális hullámok futnak végig. A kötél egy kis darabjának mozgásáról filmfelvételt készítünk, ennek három egymást követő filmkockáját mutatja az ábra. 
+P. 5055. Egy vízszintesen kifeszített gumikötél egyik végét függőleges irányban periodikusan mozgatjuk, emiatt a kötél mentén transzverzális hullámok futnak végig. A kötél egy kis darabjának mozgásáról filmfelvételt készítünk, ennek három egymást követő filmkockáját mutatja az ábra.
  Merre terjed a kötélben az energia: balról jobbra, vagy jobbról balra?
 
-![figure](../../raw_html/komal_figures/komal-P5055-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5055-fig1.gif)

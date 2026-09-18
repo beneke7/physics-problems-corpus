@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-In a special isotope laboratory, extreme activity ${}^{137}$Cs and ${}^{60}$Co sources are used to validate dosimeters. When the two high-purity radioactive sources were checked, it was found that in a minute approximately the same number of decays occurred in the case of the 68 mg caesium source, and in the case of the cobalt source of unknown mass. 
- $a)$ What is the mass of the cobalt source? 
- $b)$ After how long and which source will have twice the activity of the other? (Half-life of ${}^{137}$Cs: 30.17 years, half-life of ${}^{60}$Co: 5.27 years.) 
+In a special isotope laboratory, extreme activity ${}^{137}$Cs and ${}^{60}$Co sources are used to validate dosimeters. When the two high-purity radioactive sources were checked, it was found that in a minute approximately the same number of decays occurred in the case of the 68 mg caesium source, and in the case of the cobalt source of unknown mass.
+ $a)$ What is the mass of the cobalt source?
+ $b)$ After how long and which source will have twice the activity of the other? (Half-life of ${}^{137}$Cs: 30.17 years, half-life of ${}^{60}$Co: 5.27 years.)
  (4 pont)

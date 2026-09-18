@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201004"
 verification_status: pending
 ---
 
-From an air gun a bullet is shot horizontally through the middle of a Plasticine sphere of 5 dkg, which is initially at rest on the edge of a table of height of 80 cm. The Plasticine sphere and the bullet of mass 0.5 g lands 8.2 m away from each other on the ground. In another experiment, in which the Plasticine sphere has three times bigger diameter, the bullet does not get through the sphere, but stops just at its surface. Determine the initial speed of the bullet, provided that it decelerates uniformly in the Plasticine in both cases. 
+From an air gun a bullet is shot horizontally through the middle of a Plasticine sphere of 5 dkg, which is initially at rest on the edge of a table of height of 80 cm. The Plasticine sphere and the bullet of mass 0.5 g lands 8.2 m away from each other on the ground. In another experiment, in which the Plasticine sphere has three times bigger diameter, the bullet does not get through the sphere, but stops just at its surface. Determine the initial speed of the bullet, provided that it decelerates uniformly in the Plasticine in both cases.
  (4 pont)

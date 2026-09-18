@@ -53,7 +53,8 @@ A2                                                                              
 
 
                                √3 sin 𝛼E + 3 cos 𝛼E = 0                                 - Eq. (6)
-                                                 Marking Scheme – T1
+
+                                                 Marking Scheme – T1
                                                                                                             Page 2 of 15
 
      or
@@ -116,7 +117,8 @@ A3   If the total energy of the oscillation has the following form              
                           √3                 4                   𝜋           7           𝜋     3√3
                 sin 𝛼 =         , cos 𝛼 =         , sin (𝛼 + 6 ) = 2√19 , cos (𝛼 + 6 ) = 2√19,
                           √19               √19
-                                          Marking Scheme – T1
+
+                                          Marking Scheme – T1
                                                                                                              Page 3 of 15
 
 
@@ -178,7 +180,8 @@ Substituting Eqs. (14) and (15) into Eq. (13), we obtain
 
      trans
 For 𝐸c.m.,k ,
-                                          Marking Scheme – T1
+
+                                          Marking Scheme – T1
                                                                                             Page 4 of 15
 
                                    d𝑥         2    d𝑦        2
@@ -240,7 +243,8 @@ correct.
                                          𝑔
 Note 2: A rough estimate of 𝑓~√ can get 0.5 points out of 5 points.]
                                           𝑙
-                                                 Marking Scheme – T1
+
+                                                 Marking Scheme – T1
                                                                                                   Page 5 of 15
 
 
@@ -299,7 +303,8 @@ B1   For arbitrary N, the total potential energy                                
                                                                       2
 
      Eq. (27) becomes
-                                                      Marking Scheme – T1
+
+                                                      Marking Scheme – T1
                                                                                                          Page 6 of 15
 
                             1          3√3(𝑁 − 1) cos 𝛼                𝜋
@@ -363,7 +368,8 @@ B2   Under a small perturbation, the potential energy change, according to Eq. (
                   =               [(               ) +(                ) ]          (0.5 points)    - Eq. (35)
                           2               d𝛼                  d𝛼                ′
                                                                              𝛼=𝛼E
-                                               Marking Scheme – T1
+
+                                               Marking Scheme – T1
                                                                                                      Page 7 of 15
 
 
@@ -424,7 +430,8 @@ According to Eqs. (33), (34) and (38), we have
 
 
                                                 or 𝛾2 = 2 (0.5 points)                         - Eq. (39)
-                                         Marking Scheme – T1
+
+                                         Marking Scheme – T1
                                                                                               Page 8 of 15
 
      [Remarks: 𝑬𝐤 ~𝑵𝟐 because there are N2 triangles, each contribute 𝑬r.c. (𝒎, 𝒏)~𝟏
@@ -456,7 +463,8 @@ C1   The minimum force should act on the farthest triangle (N − 1, N − 1), w
 
 
      [Remarks: A rigorous calculation is given in Appendix 3.]
-                                                Marking Scheme – T1
+
+                                                Marking Scheme – T1
                                                                                       Page 9 of 15
 
 
@@ -518,7 +526,8 @@ C2   At 𝛼 = 𝛼m ≡ 𝜋/3, a small change in α will change the potential 
      [Remarks: This 𝜽𝑭min is not perpendicular to the C(N-1,N-1)–A(0,0) direction because
      of the constraints of the tunes, e.g. A(1,0), A(2,0), A(3,0), ⋯ , are also the holding
      points.]
-                                          Marking Scheme – T1
+
+                                          Marking Scheme – T1
                                                                                             Page 10 of 15
 
 
@@ -582,7 +591,8 @@ and
                                                √3𝑙      𝜋
                  𝑦c.m.(𝑚,𝑛) = 𝑦A(𝑚,𝑛) −            sin ( + 𝛼)
                                                 3       6
-                                                  Marking Scheme – T1
+
+                                                  Marking Scheme – T1
                                                                                                     Page 11 of 15
 
                                                                 √3𝑙                𝑙
@@ -645,7 +655,8 @@ With Eqs. (44) and (50), we have
                                      ∑𝑚,𝑛 𝑥c.m.(𝑚,𝑛)
                𝑥c.m.(sys.) (𝛼) =
                                           𝑁2
-                                         Marking Scheme – T1
+
+                                         Marking Scheme – T1
                                                                                           Page 12 of 15
 
                                                        𝑙        √3𝑙
@@ -698,7 +709,8 @@ For the non-central small triangle centered at𝑐2 , 𝑐2′ and 𝑐2′′ ,
 where 𝑑 = √3𝑙/6 is the distance between the centers of triangles 1 and 2. The second term
 is from the parallel-axis theorem. The moment of inertia of the whole triangle is the sum of
 the moment of inertia of the four sub-triangles:
-          Marking Scheme – T1
+
+          Marking Scheme – T1
                                               Page 13 of 15
 
 
@@ -708,7 +720,8 @@ the moment of inertia of the four sub-triangles:
 Thus
                1
            𝛽 = 12                        - Eq. (56)
-                                     Marking Scheme – T1
+
+                                     Marking Scheme – T1
                                                                                       Page 14 of 15
 
 
@@ -761,7 +774,8 @@ For ∆𝑟 = √(∆𝑥)2 + (∆𝑦)2, we have
            ∆𝑟A(𝑚,𝑛) = √3𝑚2 + 3𝑛2 + 3𝑚𝑛(𝑙∆𝛼)
            ∆𝑟B(𝑚,𝑛) = √3𝑚2 + 3𝑛2 + 3𝑚𝑛 + 3𝑚 + 1(𝑙∆𝛼)
            ∆𝑟C(𝑚,𝑛) = √3𝑚2 + 3𝑛2 + 3𝑚𝑛 + 3𝑚 + 3𝑛 + 1(𝑙∆𝛼)                        - Eq. (59)
-                                      Marking Scheme – T1
+
+                                      Marking Scheme – T1
                                                                                     Page 15 of 15
 
 Thus we ﬁnd

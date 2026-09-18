@@ -64,7 +64,7 @@ Instructions                                               Roll No.:
  Universal constant of Gravitation G
  Magnitude of electron charge
  Rest mass of electron
- Value of 1/4π0
+ Value of 1/4π 0
  Avogadro’s number
  Acceleration due to gravity
  Universal Gas Constant
@@ -95,7 +95,9 @@ Instructions                                               Roll No.:
 
 Please note that alternate/equivalent methods and different way of expressing final
 solutions may exist. A correct method will be suitably awarded.
-Page 2      INPhO 2023                    Questions                    Last four digits of Roll No.:
+
+
+Page 2      INPhO 2023                    Questions                    Last four digits of Roll No.:
 
 1. [6 marks] Dancing on the floor
   There are various apps that record the intensity of an audio signal. An app (WaveEditorTM here)
@@ -161,15 +163,17 @@ solutions may exist. A correct method will be suitably awarded.
                                                  h0 =                                                  (1.3)
                                                          h2
     where
-                                                                 2
+                                                                   2
                                                   1         ∆t1
                                               h1 = g                                                   (1.4)
                                                   2          2
-                                                                 2
+                                                                   2
                                                   1         ∆t2
                                               h2 = g                                                   (1.5)
                                                   2          2
-Page 3      INPhO 2023                    Questions
+
+
+Page 3      INPhO 2023                    Questions
 
 
     Substituting Eqs. (1.4) and (1.5) in Eq.(1.3), we get
@@ -230,7 +234,9 @@ solutions may exist. A correct method will be suitably awarded.
          where A is the area of metallic surface.
 
                                          Jmax = 2.88 × 10−2 Amp/m2                                (2.3)
-Page 4      INPhO 2023                   Questions             Last four digits of Roll No.:
+
+
+Page 4      INPhO 2023                   Questions             Last four digits of Roll No.:
 
 3. [16 marks] Work in progress
 
@@ -317,7 +323,7 @@ solutions may exist. A correct method will be suitably awarded.
  where we use dU = CV dT and Eq.(3.2), Eq. (3.5), and γ = 5/3 in the above equation yields
                                  3R(−2aV + b)dV
                              dQ =               + (−aV + b)dV                                      (3.11)
-                                     2R 
+                                      2R
                              dQ          5b
                                 = −4aV +                                                           (3.12)
                              dV          2
@@ -331,7 +337,9 @@ solutions may exist. A correct method will be suitably awarded.
                                                     5b
                                              =⇒ V ≤                                                (3.15)
                                                     8a
-Page 5      INPhO 2023                       Questions
+
+
+Page 5      INPhO 2023                       Questions
 
 
  This is the upper bound on the volume. This means if we want work done to be maximum
@@ -342,9 +350,9 @@ solutions may exist. A correct method will be suitably awarded.
                                         Z VB               Z VB
                               Wmax =              P dV =          (−aV + b)dV            (3.17)
                                             VA              VA
-                                                           5b/8a
+                                                            5b/8a
                                             −aV 2
-                                        
+
                                     =             + bV                                   (3.18)
                                              2              b/2a
 
@@ -365,7 +373,9 @@ solutions may exist. A correct method will be suitably awarded.
               HB
                 C2
                   3
-Page 6       INPhO 2023                       Questions           Last four digits of Roll No.:
+
+
+Page 6       INPhO 2023                       Questions           Last four digits of Roll No.:
 
 4. Electrostatic TikTok
    Consider a fixed infinite vertical thin rod (shown by the red color in the figure below) of linear
@@ -413,7 +423,7 @@ solutions may exist. A correct method will be suitably awarded.
 
                                               E~0 =
                                                      λ(xx̂ + y ŷ)
-                                                    2π0 (x2 + y 2 )
+                                                    2π 0 (x2 + y 2 )
                                                                                                   (4.2)
 
 
@@ -426,7 +436,7 @@ solutions may exist. A correct method will be suitably awarded.
 
       The above expression simplifies to
                                                 λ(a cos θx̂ + a sin θŷ)
-                                              2π0 (a2 cos2 θ + a2 sin2 θ)
+                                              2π 0 (a2 cos2 θ + a2 sin2 θ)
 
 
 
@@ -437,7 +447,7 @@ solutions may exist. A correct method will be suitably awarded.
 
 
                                             E~0 =                                                 (4.4)
-                                                        2π0 a
+                                                        2π 0 a
 
 
 (b) [2 marks] At some instant the ring makes an angle α. Derive an expression for the electric field
@@ -454,12 +464,14 @@ solutions may exist. A correct method will be suitably awarded.
 
                               ~ = λ(xx̂ + y ŷ)
                               E                                                                   (4.5)
-                                  2π0 (x2 + y 2 )
+                                  2π 0 (x2 + y 2 )
                                     λ
                                          q
                                 =          (1 + sin2 θ tan2 α)(cos θx̂ + sin θŷ)                 (4.6)
-                                  2π0 a
-Page 7       INPhO 2023                        Questions
+                                  2π 0 a
+
+
+Page 7       INPhO 2023                        Questions
 
 (c) [1 marks] Find the net force F~ acting on the ring.
 
@@ -471,16 +483,16 @@ solutions may exist. A correct method will be suitably awarded.
                                 q
          dF~ = EdQ
                ~   =             (1 + sin2 θ tan2 α)(cos θx̂ + sin θŷ)                    2          dθ (4.7)
-                       2π0 a                                             2π cos α (1 + sin θ tan2 α)
+                       2π 0 a                                             2π cos α (1 + sin θ tan2 α)
 
      which simplifies to
                                                    λQ         cos θx̂ + sin θŷ
                                      dF~ =                                                               (4.8)
-                                             4π 2 0 a cos α (1 + sin2 θ tan2 α)
+                                             4π 2  0 a cos α (1 + sin2 θ tan2 α)
                                                             p
 
 
-     where C = λQ/4π 2 o a. Consider
+     where C = λQ/4π 2  o a. Consider
 
                                             C          cos θ
                                     dFx =       p                    dθ                                  (4.9)
@@ -570,7 +582,9 @@ solutions may exist. A correct method will be suitably awarded.
                                  −π            2 cos α −π (1 + sin2 θ tan2 α)
      Integrand is odd function, hence
                                                        τy = 0                                          (4.21)
-Page 8       INPhO 2023                              Questions                          Last four digits of Roll No.:
+
+
+Page 8       INPhO 2023                              Questions                          Last four digits of Roll No.:
 
 
                                        Z π
@@ -661,7 +675,7 @@ solutions may exist. A correct method will be suitably awarded.
 
 
 
-                                              Z π/2 
+                                              Z π/2
                                                       2
 
 
@@ -696,7 +710,7 @@ solutions may exist. A correct method will be suitably awarded.
                                                                    1 − u2
 
 
-                                                                    
+
                                                                                                                         (4.32)
 
 
@@ -705,7 +719,7 @@ solutions may exist. A correct method will be suitably awarded.
                            τx = −4Ca sin αu                 −         dθ                                                (4.33)
                                                0      u − u3 1 − u2
 
-                                                                   Z π/2                       
+                                                                   Z π/2
                                                                2                    D       1
                                      τx = −4Ca sin αu                                   −         dθ                    (4.34)
                                                                     0             u − u3 1 − u2
@@ -717,20 +731,22 @@ solutions may exist. A correct method will be suitably awarded.
                                                                                          −          dθ                  (4.35)
                                                       0                   u − u3           1 − u2
 
-                                                                                           π/2
+                                                                                            π/2
                                                                    tan−1 (u tan θ)
-                                                               
+
                                                            2                            θ
                                   τx = −4Ca sin αu                                 −                                    (4.36)
                                                                       u − u3         1 − u2 0
                                                                                                                         (4.37)
-Page 9         INPhO 2023                   Questions
+
+
+Page 9         INPhO 2023                   Questions
 
 
      Applying limits and solving further, we get
                                                       λQ
                                             τx = −        tan (α/2)                           (4.38)
-                                                     2π0
+                                                     2π 0
      Working of τy , τz is not required.
            1
 
@@ -766,7 +782,7 @@ solutions may exist. A correct method will be suitably awarded.
      Solution: Under small angle approximation of α, τx becomes
                                                       −λQα
                                                     τx =
-                                                       4π0
+                                                       4π 0
                                                                                               (4.39)
 
 
@@ -794,11 +810,11 @@ solutions may exist. A correct method will be suitably awarded.
 
                                                     =−
                                                       −λQα
-                                                       4π0
+                                                       4π 0
                                                       −λQα
-                                                       4π0
+                                                       4π 0
                                                           2λQ
-                                                        4M a2 π0
+                                                        4M a2 π 0
                                                                   α
                                                                                               (4.40)
 
@@ -811,9 +827,9 @@ solutions may exist. A correct method will be suitably awarded.
                                                            4π 2
                                                T2 =      2λQ
                                                                                               (4.43)
-                                                       4M a2 π0
+                                                       4M a2 π 0
                                                                s
-                                                                   2M π0
+                                                                   2M π 0
                                             =⇒ T = 2πa                                        (4.44)
                                                                     Qλ
                                                 T = 1.17s                                     (4.45)
@@ -824,7 +840,9 @@ solutions may exist. A correct method will be suitably awarded.
 
 (f) [2.5 marks] Find an expression for the potential energy U of the ring in terms of α. Qualitatively
     plot U as a function of α. Take the zero of potential energy to be at α = 0.
-Page 10         INPhO 2023                    Questions            Last four digits of Roll No.:
+
+
+Page 10         INPhO 2023                    Questions            Last four digits of Roll No.:
 
 
                                          dU
@@ -835,14 +853,14 @@ solutions may exist. A correct method will be suitably awarded.
                                                     Z
                                                λQ
                                             =          tan (α/2)dα                                 (4.47)
-                                              2π0
+                                              2π 0
                                                  λQ
                                           U =−        2 log (cos (α/2)) + c                        (4.48)
-                                                2π0
+                                                2π 0
      where c is the constant of integration. At α = 0, U = 0, which implies that c = 0.
                                                         λQ
                                        =⇒ U (α) = −         log (cos (α/2))                        (4.49)
-                                                        π0
+                                                        π 0
 
 
 
@@ -877,7 +895,7 @@ solutions may exist. A correct method will be suitably awarded.
                                            2 dt2
                                                     =
                                                       −λQ
-                                                      2π0
+                                                      2π 0
                                                             I
                                                                 d2 α
                                                                 dt2
@@ -891,20 +909,20 @@ solutions may exist. A correct method will be suitably awarded.
                                        M a2 d2 α dα   −λQ            dα
                                                2
                                                     =      tan (α/2)                               (4.52)
-                                        2 dt dt       2π0           dt
+                                        2 dt dt       2π 0           dt
      Integrating on both sides
                                    M a2 dα 2
-                                        
+
                                                 λQ
                                              =       log(cos (α/2)) + c0                           (4.53)
-                                    4    dt     π0
-                                       2
+                                    4    dt     π 0
+                                         2
                                        dα     32π 2
                                             =       log (cos (α/2)) + c0                           (4.54)
                                        dt      T2
      where c0 is the constant of integration. At t = 0, dα                                  2
                                                           dt = ω0 , which implies that c = ω0 .
-                                    2
+                                      2
                                      dα       32π 2
                                            =        log (cos (α/2)) + ω02                       (4.55)
                                      dt        T2
@@ -912,14 +930,16 @@ solutions may exist. A correct method will be suitably awarded.
                                      dα       32π 2
                                          =          log (cos (α/2)) + ω02                       (4.56)
                                       dt       T2
-Page 11     INPhO 2023                  Questions
+
+
+Page 11     INPhO 2023                  Questions
 
 
      For α = αmax , dα
                     at = 0, hence solving above equation, we get
 
                                                              ω02 T 2
-                                                                    
+
                                                 −1
                                  αmax = 2 cos         exp (−         )     (4.57)
                                                              32π 2
@@ -931,7 +951,9 @@ solutions may exist. A correct method will be suitably awarded.
             HB
               C2
                 3
-Page 12      INPhO 2023                                     Questions        Last four digits of Roll No.:
+
+
+Page 12      INPhO 2023                                     Questions        Last four digits of Roll No.:
 
 5. If Prof. Snell had a smartphone
    A typical smartphone screen is made up of mainly two
@@ -981,7 +1003,9 @@ solutions may exist. A correct method will be suitably awarded.
                                                                            Pixel number
            (a)                                                            (b)
                                                               Figure 3
-Page 13       INPhO 2023                   Questions
+
+
+Page 13       INPhO 2023                   Questions
 
 (a) [2 marks] State the number of pixels used by the camera of S-II to capture one centimeter of
     the screen of S-I.
@@ -1035,7 +1059,9 @@ solutions may exist. A correct method will be suitably awarded.
     magnification (M ) of the separation d between the array of RGB elements of S-I for each waterdrop
     lens. Use the table in the Summary Answer sheet to report your data. Describe the method you
     have used and the calculations in the Detailed Answer sheet.
-Page 14      INPhO 2023                                Questions              Last four digits of Roll No.:
+
+
+Page 14      INPhO 2023                                Questions              Last four digits of Roll No.:
                                                                                                            Water drop 1
 
 
@@ -1133,7 +1159,9 @@ solutions may exist. A correct method will be suitably awarded.
 
      Solution: The red line is drawn beyond the waterdrops’ diameters. In each brightness value
      profile, there are three distinct regions present. Reading from the left, a closely packed peaks,
-Page 15    INPhO 2023                                       Questions
+
+
+Page 15    INPhO 2023                                       Questions
 
 
 
@@ -1235,7 +1263,9 @@ solutions may exist. A correct method will be suitably awarded.
   Water drop 5                            0                     40                80               120                   160
                                                                                  Pixel number
                                                   Figure 6: Solution of part (b)
-Page 16      INPhO 2023                    Questions              Last four digits of Roll No.:
+
+
+Page 16      INPhO 2023                    Questions              Last four digits of Roll No.:
 
 
      then the central region where the peaks are dispersed and the right side to the central region
@@ -1386,7 +1416,9 @@ solutions may exist. A correct method will be suitably awarded.
      used ipad 8th generation as the S-I. Apple website gives PPI (pixel per inch) for the iPad to
      be 264 (https://support.apple.com/kb/SP822). The value of d obtained gives the PPI value
      to be ∼279 PPI. Not a bad answer for an amateur setup!
-Page 17       INPhO 2023                   Questions
+
+
+Page 17       INPhO 2023                   Questions
 
 
      Data table for the Summary answer sheet:
@@ -1475,7 +1507,9 @@ solutions may exist. A correct method will be suitably awarded.
                                                        −    =0                                (5.5)
                                                    v1    −h
                                                       v1 = −µg h                              (5.6)
-Page 18      INPhO 2023                  Questions           Last four digits of Roll No.:
+
+
+Page 18      INPhO 2023                  Questions           Last four digits of Roll No.:
 
 
      The second refraction is at the glass-water interface. Now u2 = |v1 | + t. This gives
@@ -1496,7 +1530,7 @@ solutions may exist. A correct method will be suitably awarded.
                                                     µa u3
 
      Using µg = 3/2, µw = 4/3, and µa = 1 in the Eqs. (5.9 and 5.10) yields
-                                                           
+
                                       1    3    1        2t
                                         = −         h+                                       (5.11)
                                      M     4 3R          3
@@ -1516,7 +1550,9 @@ solutions may exist. A correct method will be suitably awarded.
 
                      C2
                        3
-Page 19   INPhO 2023       Questions
+
+
+Page 19   INPhO 2023       Questions
 
 
 

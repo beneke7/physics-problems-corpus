@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201204"
 verification_status: pending
 ---
 
-How much charge flows through the wire  AB shown in the figure if the switch is closed and long enough time has elapsed. 
+How much charge flows through the wire  AB shown in the figure if the switch is closed and long enough time has elapsed.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4441-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4441-fig1.gif)

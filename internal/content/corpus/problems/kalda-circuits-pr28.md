@@ -19,4 +19,4 @@ verification_status: pending
 
 How many times will change the power dissipation in the resistor $A$ when the polarity of the battery is reversed? All the resistors have equal resistance. Diodes are ideal.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr28-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr28-fig1.jpg)

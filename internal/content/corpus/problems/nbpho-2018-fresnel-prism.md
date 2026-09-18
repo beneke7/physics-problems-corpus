@@ -27,7 +27,7 @@ techniques: [smart-coordinates, limiting-and-special-cases]
 
 Fresnel prism is a transparent sheet with a periodic array of stripes; cross-section of such a sheet is shown in figure. The refraction index of the material from which the sheet is made $n = 1.47$.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-fresnel-prism-fig1.jpg)
 
 **i)** *(4 points)* Determine the pitch $d$ of the Fresnel prism (see figure for the definition of the pitch).
 

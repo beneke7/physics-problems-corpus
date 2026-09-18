@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4531. Hogyan kell adott mennyiségű sörétet elosztani az ábrán látható kocsi és serpenyő között, hogy a fonalat feszítő erő a lehető legnagyobb legyen? (A csiga tömege elhanyagolható.) 
+P. 4531. Hogyan kell adott mennyiségű sörétet elosztani az ábrán látható kocsi és serpenyő között, hogy a fonalat feszítő erő a lehető legnagyobb legyen? (A csiga tömege elhanyagolható.)
 
  Párkányi László (1907-1982) feladata
 
-![figure](../../raw_html/komal_figures/komal-P4531-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4531-fig1.gif)

@@ -32,10 +32,10 @@ techniques: [model-reduction, conservation-laws, differential-element]
 1. $I=I_{0} \cdot\left(U / U_{0}\right)$ при $U \leq U_{0}$, где $I_{0}=10$ мА и $U_{0}=5$ В.
 2. $I=I_{0}=\operatorname{const}$ при $U \geq U_{0}$.
 
-![](rupho-w-2024-t2-fig01.png)
+![](../../figures/rupho-w/figures/rupho-w-2024-t2-fig01.png)
 Рис. 1
 
-![](rupho-w-2024-t2-fig02.png)
+![](../../figures/rupho-w/figures/rupho-w-2024-t2-fig02.png)
 Рис. 2
 
 ## Часть А. Цепь постоянного тока (3.0 балла)
@@ -57,7 +57,7 @@ A3 Получите зависимость мощности $P_{\text {н.э }}$
 
 Пусть ЭДС источника равна $\mathcal{E}=6$ В.
 
-![](rupho-w-2024-t2-fig03.png)
+![](../../figures/rupho-w/figures/rupho-w-2024-t2-fig03.png)
 Рис. 3
 
 В1 Получите зависимость силы тока $I_{C}(t)$ через конденсатор от времени $t$. Ответ выразите через $\mathcal{E}, R, U_{0}, I_{0}, \mathbf{0 . 8}$ $C$ и $t$.

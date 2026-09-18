@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5480. Egy függőleges sík adott $P$ pontján keresztül különböző hajlásszögű (a síkra merőleges) lejtőket fektetünk, és ezeken kezdősebesség nélkül indítva pontszerűnek tekinthető testeket csúsztatunk le. Hol helyezkednek el azok a pontok, ahová a lecsúszó testek adott $t$ idő alatt eljutnak? A súrlódási együttható a lejtők és a testek között $\mu$. 
+P. 5480. Egy függőleges sík adott $P$ pontján keresztül különböző hajlásszögű (a síkra merőleges) lejtőket fektetünk, és ezeken kezdősebesség nélkül indítva pontszerűnek tekinthető testeket csúsztatunk le. Hol helyezkednek el azok a pontok, ahová a lecsúszó testek adott $t$ idő alatt eljutnak? A súrlódási együttható a lejtők és a testek között $\mu$.
  Galileo Galilei (1564–1642) feladata nyomán

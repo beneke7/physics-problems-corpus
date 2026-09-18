@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-A soap bubble is blown above a wet horizontal tabletop. A bubble, which has a diameter of 4 cm sticks to the tabletop. What will the diameter of the soap bubble be? 
+A soap bubble is blown above a wet horizontal tabletop. A bubble, which has a diameter of 4 cm sticks to the tabletop. What will the diameter of the soap bubble be?
  (4 pont)

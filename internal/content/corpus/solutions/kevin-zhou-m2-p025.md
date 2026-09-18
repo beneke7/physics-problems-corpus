@@ -126,20 +126,20 @@ Tx
 Choosing x = 0 to be the lowest point of the chain, the constant C is zero, and
 y′
 = sinh
-
+
 λgx
 Tx
-
+
 .
 Integrating both sides again gives the solution for y,
 y =
 Tx
 λg
 cosh
-
+
 λgx
 Tx
-
+
 where we suppressed another constant of integration. This curve is called a catenary.
 [1] Problem 27. To check that you understand the previous example, repeat it for a suspension bridge.
 In this case the cable is attached by vertical suspenders to a horizontal deck with mass λ per unit

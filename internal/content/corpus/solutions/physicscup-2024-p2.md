@@ -23,9 +23,9 @@ Two facts about the thin-lens imaging are used (Figures 1 and 2):
 - **(I)** Rays tangent to the circle are also tangent to the ellipse after refraction; equivalently, tangent lines to the circle are mapped to tangent lines to the ellipse.
 - **(II)** Parallel incident rays converge to a single point in the focal plane.
 
-![Figure 1: Rays tangent to the circle are also tangent to the ellipse after refraction. Moreover, tangent lines to the circle are mapped to tangents to the ellipse.](../../sources/physicscup/figures/physicscup-2024-p2-sol-1.png)
+![Figure 1: Rays tangent to the circle are also tangent to the ellipse after refraction. Moreover, tangent lines to the circle are mapped to tangents to the ellipse.](../../../../../sources/physicscup/figures/physicscup-2024-p2-sol-1.png)
 
-![Figure 2: Parallel incident rays converge to a point in the focal plane.](../../sources/physicscup/figures/physicscup-2024-p2-sol-2.png)
+![Figure 2: Parallel incident rays converge to a point in the focal plane.](../../../../../sources/physicscup/figures/physicscup-2024-p2-sol-2.png)
 
 ### Construction in GeoGebra
 
@@ -41,7 +41,7 @@ The following objects are drawn; the right column explains, with the help of the
 | Circle with centre in $F$ running through $E$ and $G$ | $d$ (black) | The two parallel ray bundles that converge to $E$ or $G$ both hit the lens at an angle of $45^\circ$. As rays passing through the center of the lens are not refracted, $\angle GOE = 90^\circ$ (see Figure 2). Consequently, $O$ lies on the circle with diameter $\overline{EG}$. |
 | Intersection of $d$ and $j$ (so that $i$ separates $O$ and the ellipse) | $O$ | $O$ is also located on the optical axis and can therefore be identified as the intersection of the optical axis ($j$) with the circle ($d$) lying to the left of the focal plane. |
 
-![Figure 3: Constructions in GeoGebra.](../../sources/physicscup/figures/physicscup-2024-p2-sol-3.png)
+![Figure 3: Constructions in GeoGebra.](../../../../../sources/physicscup/figures/physicscup-2024-p2-sol-3.png)
 
 This gives
 

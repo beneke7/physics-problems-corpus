@@ -22,9 +22,9 @@ verification_status: flagged
 techniques: [exploit-symmetry, scaling-and-dimensional-analysis]
 ---
 
-The resistance of each pieces of wire between the points indicated by the black circles in the arrangement (the pattern continues infinitely towards the centre) shown in the figure is $1~\Omega$. 
+The resistance of each pieces of wire between the points indicated by the black circles in the arrangement (the pattern continues infinitely towards the centre) shown in the figure is $1~\Omega$.
 
- What is the equivalent resistance between the points $A$ and $B$ ? 
+ What is the equivalent resistance between the points $A$ and $B$ ?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4703-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4703-fig1.gif)

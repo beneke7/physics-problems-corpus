@@ -43,7 +43,9 @@ You have a small globe, which is mounted so that it can spin on the polar axis a
 spun about a horizontal axis (so that the south pole can be on top). Give the globe a quick
 spin about the polar axis, and then, before it stops, give it another quick spin about the
 horizontal axis. Are there any points on the globe that are at rest?
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The first spin gives the angular velocity a vertical component ω1. The second spin gives the
 angular velocity an additional horizontal component ω2. The globe now rotates about its
@@ -85,7 +87,9 @@ directions! The angular velocity vector only describes what a body is doing righ
 completely independent of Ω, which is about what the body will do in the future.
 Most of our statements about rotational dynamics from M5 remain true. The main new aspect is
 that angular momentum is not necessarily parallel to angular velocity.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Example 2: KK Example 7.4
 Consider a rigid body consisting of two particles of mass m connected by a massless rod of
 length 2ℓ, rotating about the z-axis with angular velocity ω as shown.
@@ -112,7 +116,9 @@ L = I⊥ω⊥ = (2mℓ2
 )(ω cosα)
 directed perpendicular to the rod, which is what we just saw explicitly.
 We can summarize the lessons drawn from this example as follows.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3
 For a three-dimensional object, L is not necessarily parallel to ω. In general, for pure rotation
 about an axis passing through the origin, we have L = Iω where I is a 3 × 3 matrix called
@@ -158,7 +164,9 @@ I∥ω2
 2
 I⊥ω2
 ⊥.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 In any dynamics problem, there are many choices you can make in the setup. For example,
 if you’re using an inertial frame, you need to choose where the origin is; usually it’s best
@@ -194,7 +202,9 @@ there is no torque, yet ω changes over time.
 an axis in zero gravity, as shown.
 The stick makes an angle θ with the axis and is kept in its motion by two strings that are perpen-
 dicular to the axis. Find the tension in the strings.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. This is a very slight variation on the example. Again, the component of angular velocity
 parallel to the stick contributes no angular momentum, and the component perpendicular to the
 stick is ω sinθ, so it contributes
@@ -231,7 +241,9 @@ consider the motion of the rod. The y-component of the angular velocity doesn’
 rod, while the z-component makes it rotate about the z-axis. We are already given that the
 rod rotates with angular speed Ω about the z-axis, so we must have ωz = Ω, and hence
 ω = Ωẑ − Ωŷ.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Alternatively, this part can be done using an intermediate rotating frame. We first go to the
 frame rotating with angular velocity Ωẑ. In this frame the rod is frozen in place, while the
 wheel turns in place, with angular velocity −Ωŷ. So the angular velocity in the original frame
@@ -256,11 +268,11 @@ MR2
 2
 Ωẑ = MR2
 Ω
-
+
 3
 2
 ẑ − ŷ
-
+
 .
 [2] Problem 4 (KK 7.4). In an old-fashioned rolling mill, grain is ground by a disk-shaped millstone
 which rolls in a circle on a flat surface driven by a heavy vertical shaft. Because of the stone’s
@@ -272,7 +284,9 @@ Solution. Take torques about the point where the vertical and horizontal rods me
 are neglecting friction, the only torque on the system is from gravity on the stone, and the normal
 force with the ground,
 τ = (N − Mg)R.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Note that there is also a normal force N′ on the bottom of the shaft, and the weight force M′g for
 the shaft. These two forces won’t play a role below, since they exert no torque, but they ensure
 vertical force balance, (M + M′)g = N + N′. Also, as mentioned in M5, we are assuming there is
@@ -291,19 +305,19 @@ precesses with angular velocity Ωẑ, so
 RΩ
 b
 Ω
-
+
 1
 2
 Mb2
-
+
 .
 Setting this equal to our other expression for torque and solving gives
 N = Mg
-
+
 1 +
 bΩ2
 2g
-
+
 .
 This is greater than Mg, so the vertical shaft exerts a downward force on the horizontal rod.
 Idea 4: Precession
@@ -323,7 +337,9 @@ this the “gyroscope approximation”.) More generally, you’ll have to decide
 Example 4: KK 7.3
 A gyroscope wheel is at one end of an axle of length ℓ. The other end of the axle is suspended
 from a string of length L.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 The wheel is set into motion so that it executes slow, uniform precession in the horizontal
 plane. The wheel has mass M and moment of inertia I0 about its center of mass, and turns
 with angular speed ω. Neglect the mass of the shaft and string. Find the angle β the string
@@ -369,7 +385,9 @@ Remark
 In most gyroscope problems, we simply assume the system is already undergoing uniform
 precession. However, you might wonder just how it gets started in the first place. For example,
 suppose we had the same setup as the previous problem, with the wheel spinning and the axle
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 horizontal. For simplicity, let’s get rid of the string and suppose the end of the axle is held
 at a fixed support. Now suppose the axle and wheel are released with no translational motion.
 The following chain of events ensues:
@@ -400,7 +418,9 @@ Mℓ
 θ
 where Isωs is the gyroscope’s spin angular momentum, M is the total mass, and ℓ is the distance
 from the pivot to the center of mass.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Work in the accelerating reference frame where the pivot is at rest. Using the gyroscope
 approximation, we see that L̇ = Isωsω where ω = θ̇, and τ = Maℓ. Thus,
 a =
@@ -448,7 +468,9 @@ r
 which is equivalent to the desired result.
 [3] Problem 7 (KK 7.7). A thin hoop of mass M and radius R is suspended from a string through a
 point on the rim of the hoop. The string makes an angle α with the vertical.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 The support is turned with angular velocity ω, which is high enough so that the hoop’s plane makes
 a small angle β with the horizontal, and the hoop’s center travels in a small circle of radius r ≪ R.
 (a) Does the gyroscope approximation apply in this problem?
@@ -487,7 +509,9 @@ Equating our two expressions yields
 cosαcosβ sinβ
 cos(α − β)
 .
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Now we use the fact that ω is large, which corresponds to β being small. To leading order in
 β, we can approximate cos(α)/cos(α − β) ≈ 1 and sinβ cosβ ≈ β, giving
 β ≈
@@ -518,7 +542,9 @@ component of the spin angular momentum. The coin spins by “rolling” and “t
 Ω
 ϕ
 v
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Since the motion of the coin is the combination of “rolling” and going around in a circle, the
 total angular velocity should be ωs +Ω where Ω describes the circular motion/turning of the
 coin and points vertically upwards. The components of Ω are Ωcosϕ and −Ωsinϕ along ω2
@@ -560,7 +586,7 @@ tanϕ =
 .
 (b) Now we will do the calculations above without b ≪ R. The torque is
 τ = Ω
-
+
 1
 2
 Mb2
@@ -569,7 +595,7 @@ Mb2
 4
 Mb2
 Ωcosϕsinϕ
-
+
 = Mgbsinϕ −
 Mv2b
 R − bsinϕ
@@ -602,7 +628,9 @@ Since tanϕ > 0 in order for the motion to make sense, we have R > (5/6)bsinϕ.
 lose energy and begin a wobbling motion. The angle between the coin and the table will gradually
 decrease, and eventually it will come to rest. Assume this process is slow, and consider the motion
 when the coin makes an angle θ with the table, as shown.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 You may assume that the center of mass is essentially motionless. Let R be the radius of the coin,
 and let Ω be the angular frequency at which the contact point on the table traces out its circle.
 Assume the coin rolls without slipping.
@@ -641,7 +669,9 @@ with angular velocity Ω, and ω3 rotates it clockwise with angular velocity �
 face of the coin appears to be rotating with angular velocity Ω(1 − cosθ).
 Another way to do this is to consider the difference between the radius of the coin and the
 radius of the traced out circle. In a full rotation of the contact point in time T = 2π/Ω, a
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 distance of 2πRcosθ was covered by the coin. Since the coin didn’t slip, that same distance
 was covered along the coin’s edge, so the initial contact point will be a distance of 2πR(1−cosθ)
 ahead of the new contact point. Thus the angle change is 2π(1 − cosθ) in time T = 2π/Ω,
@@ -667,14 +697,16 @@ bivectors at all for three-dimensional problems.
 On the other hand, when you work in higher-dimensional spaces, the differential form perspec-
 tive becomes essential. In general, in d dimensions the angular velocity has d
 2
-
+
 components,
 corresponding to the rotation rate in each independent plane.
 • Of course, when d = 1 there is no such thing as rotation at all, while when d = 2 the
 angular velocity has one component, so we treat it as a scalar.
 • When d = 3 the angular velocity has three components, so we treat it as a vector.
 • When d = 4 the angular velocity has six components, so we can’t even pretend it’s a
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 vector; we have to use the differential form description.
 Rotational dynamics gets really complicated in 4 dimensions. Both the angular velocity and
 the angular momentum are rank 2 differential forms with 6 independent components each.
@@ -712,7 +744,9 @@ Relying on the internet can therefore give a very skewed view of what’s import
 Second, learning new things is more important than learning new names for old things.
 Practitioners of geometric algebra say that it’s worth using, even if it’s less efficient, because
 it “makes more sense”. Simple problems end up taking lots of steps, and each step introduces
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 new objects associated with new jargon, so it’s apparently deeply satisfying to see the whole
 apparatus at work. But in my opinion, those people are just getting lost in a maze of their
 own making. Physical objects don’t care about how we describe them, and there’s no extra
@@ -745,7 +779,9 @@ If we’re only talking about the object’s instantaneous motion, then the only
 is ω = ω · n̂, where n̂ is the unit vector pointing along the rod. In that case we have
 Ω/ω = 5/24, but then none of the answer choices in the exam are correct. On the other
 hand, if we are comparing the object’s orientation at different times, then there isn’t a
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 unique answer. At a finite time later, the object will be in a different place, and computing
 a relative angle requires defining a convention for comparing orientations.
 Here’s what the problem authors meant. We work in the frame rotating with angular
@@ -801,7 +837,9 @@ is conserved in the short run, there is nowhere else for the energy to go, so a 
 spinning about the first axis has to stay that way. (Of course, in the long run energy will be
 lost to the environment, e.g. by friction. So we might say that rotation about the first axis
 is stable mechanically, but not thermodynamically.)
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 However, for rotation about the second, “intermediate” axis, the body can keep both K and
 L2 the same by turning on some combination of ω1 and ω3. That explains the Dzhanibekov
 effect. Initially the second principal axis aligns with the direction of L. Then the body
@@ -858,7 +896,9 @@ g(1 − cosθ), at =
 3
 4
 g sinθ.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (a) This is formally identical to the falling ladder problem from M5, and hence has the same
 answer. But we can also solve the problem directly here. We have
 Nx = M(at cosθ − ac sinθ) =
@@ -877,7 +917,7 @@ N − Mg cosθ = −Mac,
 so N = Mg 5
 2 cosθ − 3
 2
-
+
 . This becomes zero at θ = cos−1(3/5).
 [3] Problem 11 (Cahn). A tall, thin brick chimney of height L is slightly perturbed from its vertical
 equilibrium position so that it topples over, rotating rigidly about its base B until it breaks at a
@@ -887,12 +927,14 @@ throughout that r is very small.
 We assume that each piece of the chimney experiences a shear force F and longitudinal tension
 or compression forces T1 and T2 from its neighbors. Find the point on the chimney with the
 greatest |T1| or |T2|, assuming the chimney is very thin.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Find the point on the chimney experiencing the greatest shear force F.
 (c) At what point is the chimney most likely to break? Do you think the limiting factor is the
 chimney’s maximal compressive strength, tensile strength, or shear strength?
 Solution. See the solution here.
-[3] Problem 12.  ^ 1 0IPhO 2014, problem 1A.
+[3] Problem 12.   ^ 1 0IPhO 2014, problem 1A.
 [2] Problem 13 (PPP 14). A bicycle is supported so that it can move forward or backwards but
 cannot fall sideways; its pedals are in their highest and lowest positions.
 A student crouches beside the bicycle and pulls a string attached to the lower pedal, providing a
@@ -921,12 +963,14 @@ fast without your feet having to move like crazy. And this is indeed true in the
 has rp and rg,p comparable, and R ≫ rg,w.
 Therefore, if you move the pedal forward a little, the bike goes backward a lot more, so the
 net motion of the pedal (relative to the ground) is backward, consistent with part (a).
-[4] Problem 14.  r 1 0APhO 2005, problem 1B. A problem on parametric resonance, an idea we first
+[4] Problem 14.   r 1 0APhO 2005, problem 1B. A problem on parametric resonance, an idea we first
 encountered in M4. (The problem is good, but it’s slightly underspecified, leading to two possible
 answers which were both accepted. If you get stuck, just make a reasonable assumption.)
-22Kevin Zhou Physics Olympiad Handouts
-[4] Problem 15.  m 1 0INPhO 2020, problem 5. A tough angular collision problem.
-[5] Problem 16.  h 1 0EuPhO 2019, problem 2. A tough problem about the motion of an rigid body
+22
+
+Kevin Zhou Physics Olympiad Handouts
+[4] Problem 15.   m 1 0INPhO 2020, problem 5. A tough angular collision problem.
+[5] Problem 16.   h 1 0EuPhO 2019, problem 2. A tough problem about the motion of an rigid body
 in a magnetic field.
 3 Frictional Losses
 These miscellaneous problems are grouped under the theme of friction or energy dissipation.
@@ -946,10 +990,10 @@ Mv2
 1
 2
 (m + M)
-
+
 mv
 m + M
-2
+ 2
 =
 1
 2
@@ -983,7 +1027,9 @@ y = ℓ − x =
 µ − tanθ
 2µ
 ℓ.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 When the sheet expands by an amount ∆ℓ, the distance each point moves is proportional to the
 distance away from the stationary point since the expansion is uniform. The stationary point for
 contraction is a distance of x − y = ℓtanθ/µ away from the stationary point for expansion, and
@@ -995,7 +1041,7 @@ tanθ
 This is a real practical issue for roofs, known as thermal creep.
 [4] Problem 19. @ 1 0APhO 2010, problem 1A. An instructive model of an inelastic collision; expect
 some messy intermediate expressions. I recommend the modified version by Jaan Kalda here.
-[5] Problem 20.  h 1 0IPhO 2020, problem 2. A nice problem on anisotropic friction.
+[5] Problem 20.   h 1 0IPhO 2020, problem 2. A nice problem on anisotropic friction.
 4 Ropes, Wires, and Chains
 Example 6: MPPP 78
 A uniform flexible rope passes over two small frictionless pulleys mounted at the same height.
@@ -1009,7 +1055,9 @@ Considering the entire sagging portion as the system, vertical force balance giv
 2T1,y = λℓg, T1,y = λℓg/2.
 Now consider half of the sagging portion as the system. Horizontal force balance gives
 T2 = T1,x.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Finally, consider one of the hanging portions as the system. Then
 T1 = λgs.
 We hence have three equations, but four unknowns.
@@ -1052,7 +1100,9 @@ Example 7: Kalda 27/IPhO 1971
 A wedge with mass M and acute angles α1 and α2 lies on a horizontal surface. A string has
 been drawn across a pulley situated at the top of the wedge, and its ends are tied to blocks
 with masses m1 and m2.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 There is no friction anywhere. What is the acceleration of the wedge?
 Solution
 This is a classic example of a problem best solved with the Lagrangian-like techniques of M4.
@@ -1106,7 +1156,9 @@ Lagrangian derivation shows where all the pieces come from.
 [3] Problem 21 (Kalda). A rope of mass per unit length ρ and length L is thrown over a pulley so
 that the length of one hanging end is ℓ. The rope and pulley have enough friction so that they do
 not slip against each other.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 The pulley is a hoop of mass m and radius R attached to a horizontal axle by light spokes. Find
 the force on the axle immediately after the motion begins.
 Solution. Let the distance the rope moves along the pulley be represented by the coordinate q. The
@@ -1150,7 +1202,9 @@ k
 m
 k
 m
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 Considering only motion in the vertical direction, show that the ratio of the frequencies of the two
 normal modes is (
 √
@@ -1221,7 +1275,9 @@ Solution. (a) If you take an ideal string and twist one end of it, then nothing 
 object hanging from the other side. By contrast, if you did the same thing with a rod, then
 the object would start rotating. The difference is that a rod can transmit torsion (torque
 about its own axis), while an ideal string does not.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 (b) First, let’s imagine what this motion looks like in the lab frame. If we define θ as the direction
 of the rod to the vertical axis, the spinning of the hinge fixes dθ/dt = ω. So if the mass’s
 height is fixed, this forces the mass to spin in a circle. More generally, it exerts a confusing
@@ -1236,14 +1292,14 @@ Rr
 In this setup, r = ℓsinθ and the potential energy from gravity is mgℓ(1 − cosθ). For small
 angles, the potential energy is
 U ≈ mgℓ
-
+
 1 −
-
+
 1 −
 1
 2
 θ2
-
+
 −
 1
 2
@@ -1289,7 +1345,7 @@ mω2
 ℓ2
 (θ1 + θ2)2
 = mℓ2
-
+
 (ω2
 0 − ω2
 )θ2
@@ -1301,7 +1357,7 @@ mω2
 )θ2
 2 − ω2
 θ1θ2
-
+
 where ω2
 0 = g/ℓ. To be stable, we want the potential energy to be at a local minimum near
 that point. We could test this by considering a general infinitesimal change in the angles.
@@ -1322,10 +1378,10 @@ traveling in some other direction. It turns out we are guaranteed to have a true
 ∂2f
 ∂y2
 >
-
+
 ∂2f
 ∂x∂y
-2
+ 2
 .
 In this problem, that condition is
 2(ω2
@@ -1333,7 +1389,9 @@ In this problem, that condition is
 )2
 − ω4
 > 0.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 This quantity is positive for ω = 0, and first hits zero when
 ω2
 = ω2
@@ -1391,21 +1449,23 @@ mc2
 ω
 .
 They happen to be equal, and the total angular momentum is 2mc2/ω.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 5 [A] Advanced Mathematical Techniques
 The following problems were cut from earlier problem sets because they required more advanced
 math; however, they illustrate some very neat and important ideas.
 [3] Problem 25. In P1, you found a general expression for the period of a pendulum oscillating with
 amplitude θ0 in terms of an integral, then approximated the integral for θ0 ≪ 1 to find
 ω = ω0
-
+
 1 −
 θ2
 0
 16
 + O(θ4
 0)
-
+
 where ω0 =
 p
 g/L. In this problem, we will show a different way to get the same answer, by solving
@@ -1451,7 +1511,9 @@ for a constant c. Because of this choice, the differential equation for f1(t), w
 terms at order θ3
 0, will be altered. The correct choice of ω is precisely the one for which this
 eliminates the secular growth of f1(t). Using this idea, show that c = 1/16.
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 If you keep going, you’ll find the next term f2(t) still has secular growth. We can remove it by
 having both f0(t) and f1(t) oscillate at angular frequency ω0(1−θ2
 0/16+c′θ4
@@ -1465,7 +1527,7 @@ Solution. (a) Plugging everything in and using sinθ = θ − θ3/6 + O(θ5), we
 0
 ¨ f1 + ω2
 0
-
+
 θ0f0 + θ3
 0f1 −
 1
@@ -1474,17 +1536,17 @@ Solution. (a) Plugging everything in and using sinθ = θ − θ3/6 + O(θ5), we
 0f3
 0 + O(θ5
 0)
-
+
 = 0.
 Collecting the order θ0 and θ3
 0 terms gives the desired result.
 (b) The easiest way to do this is to use the definition of cos(ω0t) in terms of complex exponentials,
 cos3
 (ω0t) =
-
+
 eiω0t + e−iω0t
 2
-3
+ 3
 =
 e3iω0t + 3eiω0t + 3e−iω0t + e−3iω0t
 8
@@ -1502,24 +1564,24 @@ differential equations, so that now we have
 f0 = 0, ¨ f1 + ω2
 0f1 = ω2
 0
-
+
 f3
 0
 6
 − 2cf0 + O(θ2
 0)
-
+
 .
 The part of the right-hand side that oscillates at angular frequency ω0 is
 ω2
 0
-
+
 1
 6
 3
 4
 cos(ω0t) − 2ccos(ω0t)
-
+
 from which we conclude c = 1/16.
 [3] Problem 26. You might be wondering how we can solve the weakening spring problem from M4
 without anything fancy like the adiabatic theorem. There is a general technique to solve linear
@@ -1536,7 +1598,9 @@ for the rapid oscillations. The factor A(t) only varies slowly, so it’s easier
 part (a), until you get a differential equation you can easily integrate. This is an example of
 the WKB approximation for differential equations, which we applied at length in X1.
 (c) Show that this gives the expected final result for a weakening spring.
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Just carrying out the time derivatives using the product rule gives
 ẍ = Äeiϕ
 + 2iωȦeiϕ
@@ -1613,15 +1677,17 @@ r̈) = −γṙ.
 (Hint: this can get messy. As a first step, try showing the left-hand side is equal to
 (r2/2)d3(r2)/dt3. You will have to switch variables to x and y and then switch back; for
 these purposes it’s useful to use the results of part (a), and the definition r2 = x2 + y2.)
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Define ψ(t) = r(t)3. In parts (b) and (c), we have shown that the differential equation
 d
 dt
-
+
 ψ(t)
 du
 dt
-
+
 = −γu
 has three solutions, namely ẋ, ẏ, and ṙ. Any second-order linear differential equations only
 has two independent solutions. If ẋ and ẏ are not independent, the orbit is simply a line,
@@ -1686,16 +1752,16 @@ d
 dt
 (r3
 r̈) = −r2
-
+
 d
 dt
-γ
+ γ
 r
-
+
 +
 2γṙ
 r2
-
+
 = −γṙ
 just as desired.
 (d) Integrating both sides,
@@ -1704,7 +1770,9 @@ But then squaring both sides shows that the equation of the orbit is just a quad
 x and y, which is precisely the form of a conic section in Cartesian coordinates. You can
 also show that the focus is at the origin, though this requires a bit more knowledge about conics.
 This question was inspired by this paper, which has a few more derivations of Kepler’s first law.
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 6 Mechanics and Geometry
 For dessert, we’ll consider a few cute problems that relate statics to geometry.
 Example 8
@@ -1733,7 +1801,9 @@ Example 10
 Let AB be a diameter of a circle, and let a mass be free to slide on the circle. The mass is
 connected to two identical straight springs of zero rest length, which are in turn connected
 to points A and B. At what points C can the mass be in static equilibrium?
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The potential energy of the system is proportional to (AC)2 + (BC)2. Since ABC is a right
 triangle, this is just equal to (AB)2 by the Pythagorean theorem. Since the potential energy
@@ -1764,18 +1834,20 @@ don’t push on each other. Now, in equilibrium, the torque on each rod must be 
 forces on the rod are the uniform pressure along the part of the rod making up the corresponding
 polygon side, and the normal force at the contact point. Taking torques about the contact point
 shows that it must be the midpoint.
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 33. In this problem we’ll derive Kepler’s first law yet again, using no calculus, but a bit
 of Euclidean geometry. As usual, we suppose a planet of mass m orbits a fixed star of much greater
 mass M. Placing the star at the origin, let ϕ be the angle between r and v for the planet.
 (a) Write down the quantities E and L in terms of G, M, m, v, r, and ϕ, and show that
-
+
 r2
 +
 GMm
 E
 r
-
+
 sin2
 ϕ =
 L2
@@ -1830,7 +1902,9 @@ By the geometrical properties of the ellipse, NN′ is the angle bisector of ∠
 cosψ = cos(π − 2ϕ) = −cos(2ϕ) = 2sin2
 ϕ − 1.
 Plugging this into the law of cosines and rearranging gives the desired result.
-37Kevin Zhou Physics Olympiad Handouts
+37
+
+Kevin Zhou Physics Olympiad Handouts
 (c) This follows immediately, from inspection.
 This derivation breaks down for E ≥ 0, since in that case the trajectory isn’t an ellipse, but similar
 derivations can be performed for the parabola and hyperbola.

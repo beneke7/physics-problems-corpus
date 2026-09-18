@@ -25,7 +25,7 @@ current I = π4 [a2 jc + (b2 − a2 )ja ] = π4 ja (b2 − a2 + a2 ρa /ρc ), h
           π b2 + a2 (ρa − ρc )/ρc                                                                 m
                                                                                   t1 − t2 =            {a[U (0) − U (t)] + b[U (t + ta ) − U (t)]} = t,
 2) Writing down the circulation theorem for a circular concentric loop                          8U03 e
-of radius c around the straight wire, 2πcB1 = µ0 I , we obtain B1 =            where the flight time ta ≈ a/v0 [since U  U0 ]. Using the suggested         5. Rotating disk (7 pts)
+of radius c around the straight wire, 2πcB1 = µ0 I , we obtain B1 =            where the flight time ta ≈ a/v0 [since U   U0 ]. Using the suggested         5. Rotating disk (7 pts)
 µ0 I/2πc = 2 Ic · 10−7 H·m−1 = 4.8 · 10−5 T .                                  approximation, we obtain
                                                                                                 r
 3) Using the technique as before, but noting that the current flowing                                 m                                                     1) We notice that there is no image of the orange pulse, hence it must
@@ -37,17 +37,17 @@ B2 = µ0 Ic /πa = µ0 jc a/4 = πjc a · 10−7 H·m−1 = 2.0 · 10−4 T .   
 2. Pendulum (7 pts)                                                                                                      t       8U03 e
                                                                                                 2Ata (t + ta /2) + Bta =                .
 1) The smallness of the oscillations means that the angle of the arc for-                                                b        m                         2) The displacement of the lamp between two subsequent pulses can be
-med by the rod is small, α = l/R  1. Therefore, the force returning           So,          r                  r         p                                  represented as the sum of two components: ~ri = ~v τ +2R sin(ωτ /2)~ei ,
+med by the rod is small, α = l/R   1. Therefore, the force returning           So,          r                  r         p                                  represented as the sum of two components: ~ri = ~v τ +2R sin(ωτ /2)~ei ,
 the ball is almost horizontal, F = k/R = kα/l, and the horizontal                               8U03 e              8U03 e 2eU0 /m       4U02 e             where each next unit vector ~ei+1 is rotated with respect to the previous
                                                                                        A=              /2ta b =                        =        ,
 displacement of the ball is x = R(1 − cos α) ≈ Rα2 /2 = lα/2, hence                               m                  m        ab          mab               one (~ei ) by angle ωτ . So, if the starting points of the displacement vec-
 α = 2x/l.                                                                      and B = −Ata . Finally we obtain                                             tors ~ri coincide, then the end-points must be on a circle, at equal angu-
                                                                                                           4U02 e
-                                                                                                                                   
+
     For horizontal equation of motion, we can neglect the gravity force,                                                                                    lar distances ωτ from each other, see figure.
                                                                                                                           p
                                                                                                 U (t) =          t t − a m/2U0 e .
-which is of the order of mgα  αk/l; the right-hand side here hap-                                        mab
+which is of the order of mgα   αk/l; the right-hand side here hap-                                        mab
       to be the elastic force. So, mẍ = −kα/l                   2             4) Lost are those electrons, which are in the interval between B and C ,          In our case we redraw the displacement vectors 1, 2 and 3 as vectors
 pens p                                       p = −2kx/l , hence                when the voltage drops to 0. The duration of the time interval, when         with common origin, P~A, P~B , and P~C . Since the starting points of the
 ω = 2k/m/l; the period T = 2π/ω = πl 2m/k .
@@ -81,7 +81,7 @@ T = 0, we don’t need to bother about this effect).                            
                                              p                                 M g cos β + µmg µ+1 sin β . Finally, we have the tangential force balance
 1) Apparently, t0 = (a + b)/v0 = (a + b) m/2U0 e.                                                                                                                The velocity of center of the disk is found as the ratio of the
                                                                                for the brick:
-2) Apparently, t = a/va + b/vb ≈ t0 − [a(va − v0 ) + b(vb − v0 )]/v02 .                                                                                   length P O and the interval τ : v ≈ 65 cm/s. The angular velocity
+2) Apparently, t = a/va + b/vb ≈ t0 − [a(va − v0 ) + b(vb − v0 )]/v02 .                                                                                     length P O and the interval τ : v ≈ 65 cm/s. The angular velocity
                                                                                       mg                                             µm
 On the other hand, for constant voltage U (t), vb = v0 . For the interval                    sin β + M g sin β = µ2 g M cos β +             sin β .         is found as the ratio of the angle 6 AOB = 6 BOC and the inter-
                                                                                      µ+1                                            µ+1
@@ -92,7 +92,9 @@ between B and C , we have ∆(mv 2 /2) ≈ mv0 (va − v0 ) = −U e. So,       
                                                                                                                   h                     i
                                                           .                                        + µ + 1 = µ2 (µ + 1) cot β + µ         ,
                                           U0 2 2U0 e                                           M                                     M                      the figure, 1.5R ≈ 8 cm and R ≈ 5 cm.
-6. Truck (7 pts)                                                               the observed data. First, the diffraction pattern is not where the reflec-
+
+
+6. Truck (7 pts)                                                               the observed data. First, the diffraction pattern is not where the reflec-
 1) First, since l is small, T1 ≈ T . From the radial force balance, N ≈        tion form the stripe would be; so, it doesn’t work as a reflecting diffrac-
 T α = T l/R, where α is the angle, by which the direction of the rope is       tion grating. If the packing were regular, and the optical path difference
 changed. From the tangential balance, T1 = T − µN = T (1 − µα).                (required for the diffraction) were gathered due to scattering on neig-

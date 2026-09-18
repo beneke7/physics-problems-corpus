@@ -22,8 +22,8 @@ verification_status: pending
 ---
 
 8. Two identical charges of magnitude $+Q$ are fixed as shown. A third charge $-Q$ is placed midway between them at point P. Then small displacements of -Q are made in the directions indicated by arrows. The $-Q$ is stable with respect to displacement.
-![](inpho-2010-a8-fig01.png)
-![](inpho-2010-a8-fig02.png)
+![](../../figures/inpho/figures/inpho-2010-a8-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-a8-fig02.png)
 
 V - (out of the plane of the paper)
 

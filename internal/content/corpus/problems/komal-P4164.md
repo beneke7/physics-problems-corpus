@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-What is the reason that if a stick is put to one of our fingertips, it is easier to balance (to keep it in a vertical position) a longer stick than a shorter one? 
+What is the reason that if a stick is put to one of our fingertips, it is easier to balance (to keep it in a vertical position) a longer stick than a shorter one?
  (3 pont)

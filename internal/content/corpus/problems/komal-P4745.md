@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, extremization, graphical-reduction]
 ---
 
-The topic of a physics lesson is the decibel scale. One of the students asks the teacher whether there is an upper limit of the maximum intensity sound. The answer is ``yes, the theoretical upper limit for the intensity of sound is 194 dB''. How is this strange value gained? 
+The topic of a physics lesson is the decibel scale. One of the students asks the teacher whether there is an upper limit of the maximum intensity sound. The answer is ``yes, the theoretical upper limit for the intensity of sound is 194 dB''. How is this strange value gained?
  (5 pont)

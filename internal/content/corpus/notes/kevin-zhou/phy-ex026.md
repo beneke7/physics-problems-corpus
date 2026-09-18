@@ -55,7 +55,6 @@ We now consider gauge transformations and the Faraday tensor.
     metric dependent), and gauge transformations are
 
                                              Aµ → Aµ − ∂µ χ.
-38 2. Electromagnetism
 
 
   • The Faraday tensor is defined as

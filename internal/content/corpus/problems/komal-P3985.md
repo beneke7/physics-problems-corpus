@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: pending
 ---
 
-Two objects of mass m are connected with a rope of length as shown in the figure. The rope can slide in a tube which forms a quarter of a circle, and which is fixed to the edge of the table. Initially of the rope hangs vertically. Friction is negligible. 
+Two objects of mass m are connected with a rope of length as shown in the figure. The rope can slide in a tube which forms a quarter of a circle, and which is fixed to the edge of the table. Initially of the rope hangs vertically. Friction is negligible.
 
- a ) If the system is released, how long does it take for the object on the right handside to descend a distance of , and at that time what are the speeds of the objects? 
- b ) What would be the speeds of the object after covering the same distance if the mass of the rope was m as well? 
+ a ) If the system is released, how long does it take for the object on the right handside to descend a distance of , and at that time what are the speeds of the objects?
+ b ) What would be the speeds of the object after covering the same distance if the mass of the rope was m as well?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3985-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3985-fig1.gif)

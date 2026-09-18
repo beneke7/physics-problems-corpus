@@ -263,37 +263,37 @@ En,m =
 ℏ
 √
 m
-
+
 (n + 1/2)
 √
 k + k′ + (m + 1/2)
 √
 k − k′
-
+
 .
 This can be written a bit more simply by Taylor expanding, which gives
 En,m ≈ ℏω
-
+
 n
-
+
 1 +
 k′
 2k
-
+
 + m
-
+
 1 −
 k′
 2k
-
+
 + 1
-
+
 = ℏω
-
+
 (n + m + 1) + (n − m)
 k′
 2k
-
+
 .
 In other words, an energy level that contains N states splits into N separate, closely spaced
 energy levels. This behavior is ubiquitous in quantum mechanics. This trick of turning

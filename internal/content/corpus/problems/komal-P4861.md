@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [strategic-heuristics]
 ---
 
-When there is new moon, a little later after sunset, the dark side of the Moon can also be seen faintly. Why? 
+When there is new moon, a little later after sunset, the dark side of the Moon can also be seen faintly. Why?
  (3 pont)

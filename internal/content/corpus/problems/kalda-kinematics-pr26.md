@@ -19,4 +19,4 @@ verification_status: pending
 
 Some thread has been wound around a cylinder, the other end of the thread is fixed to a wall. The cylinder lies on a horizontal surface that is being pulled with horizontal velocity $v$ (perpendicular to the axis of the cylinder). Find the velocity of the cylinder's axis as a function of $\alpha$, the angle that thread makes with the vertical. The cylinder rolls on the surface without slipping.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr26-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr26-fig1.jpg)

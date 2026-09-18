@@ -23,7 +23,7 @@ techniques: [conservation-laws, auxiliary-unknowns, differential-element]
 ---
 
 A projectile of mass $M = 3$ kg is fired vertically at a speed of $v = 50$ m/s, and it explodes into two parts after $t = 3$ s. The piece with mass $m_1 = 1$ kg will land in $t_1
-= 1$ s. 
- $a)$ How long after the explosion will the other piece hit the ground? 
- $b)$ If the first piece has landed 40 m from the firing position, how far apart will the two pieces be after the other piece has also landed? 
+= 1$ s.
+ $a)$ How long after the explosion will the other piece hit the ground?
+ $b)$ If the first piece has landed 40 m from the firing position, how far apart will the two pieces be after the other piece has also landed?
  (4 pont)

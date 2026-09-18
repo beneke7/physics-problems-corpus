@@ -96,11 +96,11 @@ for an adiabatic process, we find
 dP
 P
 =
-
+
 1 −
 2
 3η
-
+
 dV
 V
 which implies
@@ -117,10 +117,10 @@ P dV =
 Z 4V0
 V0
 P0
-
+
 V0
 V
-1/2
+ 1/2
 dV = 2P0V0 = 2 × 105
 J.
 This problem might look contrived, but “polytropic” processes where PV β is constant, for a general
@@ -130,7 +130,7 @@ adiabatic process. Instead, engineers parametrize this by allowing β to be gene
 its value. As a simple concrete example, if the chamber containing the gas also contains some dirt,
 in thermal equilibrium of the gas, that dirt contributes to the system’s heat capacities CV and CP .
 It therefore shifts the effective value of γ away from its ideal gas value.
-[3] Problem 6.  ^ 1 0USAPhO 2018, problem A3. A simple model for how a vacuum pump works.
+[3] Problem 6.   ^ 1 0USAPhO 2018, problem A3. A simple model for how a vacuum pump works.
 2 Dynamic Ideal Gases
 Idea 3
 Problems involving ideal gases can be mechanics questions. For example, the first law of

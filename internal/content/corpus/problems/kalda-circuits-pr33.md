@@ -19,4 +19,4 @@ verification_status: pending
 
 The two voltmeters in the circuit below are identical; their readings are $V_{1}=30 \mathrm{~V}$ and $V_{2}=20 \mathrm{~V}$. The reading of the ammeter is $I=750 \mu \mathrm{~A}$. All the five resistors have equal resistance $R$; find the numerical value of $R$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr33-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr33-fig1.jpg)

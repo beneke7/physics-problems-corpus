@@ -20,4 +20,4 @@ verification_status: pending
 
 A hideg idő miatt a fűtési rendszer elromlott, és a szoba hőmérséklete csökkenni kezdett. Gyorsan vásároltunk egy hősugárzót, és bekapcsoltuk. E teljes időszak alatt a szoba hőmérséklete az ábrán látható módon változott. Milyen szobahőmérséklet alakul ki hosszú távon? A külső hőmérséklet állandó maradt. Vegyük figyelembe, hogy bizonyos épületszerkezeti elemek miatt a szoba és a külső környezet közötti hőcsere sebessége a
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr40-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr40-fig1.jpg)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-Calculate the lattice constant of a body-centered cubic iron crystal using the molar mass of iron, the density of iron and the Avogadro number. 
+Calculate the lattice constant of a body-centered cubic iron crystal using the molar mass of iron, the density of iron and the Avogadro number.
  (4 pont)

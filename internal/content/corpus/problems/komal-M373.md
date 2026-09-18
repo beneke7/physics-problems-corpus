@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201712"
 verification_status: pending
 ---
 
-Measure the heat capacity of a great piece of pebble (or a small sized cobble). 
+Measure the heat capacity of a great piece of pebble (or a small sized cobble).
  (6 pont)

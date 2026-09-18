@@ -31,13 +31,13 @@ This problem consists of three independent parts.
 
 One mole of an ideal monatomic gas, located in the cylinder under the piston, is quasi-statically heated from the temperature $T_{1}=300 \mathrm{~K}$ to $T_{2}=600 \mathrm{~K}$, changing its volume in such a way that the dependence of the heat capacity $C$ of the gas on its temperature has the form shown in the figure below. Find the work done on the gas from the state in which the graph of its volume versus temperature reaches a local maximum, to the state in which the same graph reaches a local minimum. Express your answer in joules assuming that $R=8.31 \mathrm{~J} / \mathrm{K}$ is the universal gas constant.
 
-![](izho-2023-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2023-t-q1-fig01.png)
 Problem 1.2 (3.0 points)
 
 The figure on the right shows an AC bridge circuit. The resistance $R_{1}=2.5 \mathrm{k} \Omega$, the inductance $L=1 \mathrm{H}$, the resistance of the inductance $r_{L}=1 \Omega$ are all known. At the frequency of the alternating sinusoidal voltage $v=100 \mathrm{~Hz}$, the balance of the bridge occurs at $R_{2}=800 \Omega$. It turnes out that when the frequency of the alternating current is doubled, the balance of the bridge is not violated. Find the leakage resistance $r_{C}$ of the capacitor and its capacitance $C$.
 
 Problem 1.2 (3.0 points)
-![](izho-2023-t-q1-fig02.png)
+![](../../figures/izho/figures/izho-2023-t-q1-fig02.png)
 
 ## Problem 1.3 (4.0 points)
 

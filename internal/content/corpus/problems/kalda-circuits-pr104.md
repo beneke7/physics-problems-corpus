@@ -19,6 +19,6 @@ verification_status: pending
 
 [Est-Fin-2016] A dimmer for controlling the brightness of lighting consists of a rheostat, a capacitor, a diac and a triac, connected as in the circuit.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr104-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr104-fig1.jpg)
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr104-fig2.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr104-fig2.jpg)

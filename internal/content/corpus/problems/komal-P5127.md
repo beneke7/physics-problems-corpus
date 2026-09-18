@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-The total mass of a hot-air balloon (envelope + basket + load) is 320 kg. Initially the pressure inside and outside the envelope is $1.01\cdot10^5~$Pa and its density is $1.29~\rm kg/m^3$. In order to raise the hot-air balloon a gas burner is used to heat the air inside the balloon. The volume of the envelope filled with hot air is 650 $\rm m^3$, and the pressure inside does not change. 
- To what temperature must the air inside the balloon be heated in order that the balloon begin to rise? 
+The total mass of a hot-air balloon (envelope + basket + load) is 320 kg. Initially the pressure inside and outside the envelope is $1.01\cdot10^5~$Pa and its density is $1.29~\rm kg/m^3$. In order to raise the hot-air balloon a gas burner is used to heat the air inside the balloon. The volume of the envelope filled with hot air is 650 $\rm m^3$, and the pressure inside does not change.
+ To what temperature must the air inside the balloon be heated in order that the balloon begin to rise?
  (4 pont)

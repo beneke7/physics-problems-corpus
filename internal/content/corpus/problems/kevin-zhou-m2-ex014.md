@@ -70,7 +70,9 @@ the curved face must balance the force on the flat face, which is πR2 P . The s
 
 
                                                  21
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

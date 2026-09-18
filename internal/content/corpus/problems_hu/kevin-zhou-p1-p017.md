@@ -35,7 +35,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 [1] Feladat 18. Consider an electric charge q placed at x = 0 and a charge −q placed at x = d. For
     x > d, the electric field along the x axis is
-                                                                
+
                                                   q   1    1
                                        E(x) =           −          .
                                                 4πϵ0 x2 (x − d)2

@@ -41,7 +41,6 @@ amely eltolja az interferenciaképet. Ismét azt látjuk, hogy ha Φ Φ0 többsz
 Megjegyzés. A fázisok igazolására sokféle mód van. Az úttintegrál-formalizmusban az összes klasszikus
 útra összegzünk eiS/ℏ fázissal. A domináns járulék a két klasszikus úttól származik, így minden mást
 elhanyagolhatunk; az egyes utak fáziseltolása egyszerűen ei∆S/ℏ.
-143 5. A kvantummechanika alapjai
 
     Alternatívaként használhatjuk az adiabatikus tételt. Tegyük fel, hogy egy vektorpotenciálban
 lévő, jól lokalizált, lassan mozgó részecskénk van. Alkalmazhatjuk az adiabatikus tételt, ahol a

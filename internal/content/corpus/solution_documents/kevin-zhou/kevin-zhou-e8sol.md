@@ -46,7 +46,9 @@ P
 3ϵ0
 ,
 and the field outside is exactly a dipole field, with dipole moment p = (4πR3/3)P.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 [1] Problem 1. An infinite cylindrical rod of radius R has a uniform polarization P.
 (a) If P is perpendicular to the rod’s axis, describe E outside, and find the value of E inside.
 (b) If P is parallel to the rod’s axis, find the electric field everywhere.
@@ -93,7 +95,9 @@ q r̂
 1/κ r < R
 1 r > R
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Inside the sphere, this corresponds to an electric polarization
 P =
 q
@@ -106,17 +110,17 @@ plus the bound charge, indeed generates the claimed electric field.
 The divergence of P is zero everywhere besides the origin, where negative bound charge piles
 up to cancel some of the charge q. The charge at the origin is thus
 q − qb = q
-
+
 1 −
 χe
 κ
-
+
 = q
-
+
 1 −
 κ − 1
 κ
-
+
 =
 q
 κ
@@ -157,7 +161,9 @@ where n is the number density of atoms. This is the Clausius–Mossotti formula;
 the macroscopically measurable parameter κ to the microscopic parameter α.
 [2] Problem 2 (Purcell 10.10). Assume that the uniform field E0 that causes the electric field in
 example 3 is produced by large capacitor plates very far away. The field lines tangent to the sphere
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 hit each of the distant capacitor plates in a circle of radius r. Find r in terms of R and κ.
 Solution. The field lines are tangent at the widest part of the sphere. Consider a Gaussian surface
 which is bounded by a distant capacitor plate, a horizontal slice through the middle of the sphere,
@@ -208,7 +214,9 @@ Ez
 σb
 2ϵ0
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (b) By the definition of χe, we know that just under the plane,
 σb = Pz
 = ϵ0χeEz
@@ -263,7 +271,9 @@ The sign is positive, so it points in direction of increasing x, so the slab is 
 (c) Fringe fields don’t change the result of part (b). The presence of fringe fields does change
 the energy found in part (a), but this has essentially no effect on the derivative of the energy,
 because shifting the dielectric just shifts the fringe field over essentially unchanged.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Of course, from a force perspective, all of the force is due to the fringe fields, because those
 are the only fields with a horizontal component; this paper gives such a calculation. The fact
 that you can get the same answer, by using an energy-based derivation that doesn’t depend
@@ -316,7 +326,9 @@ but it’s only present in materials with unpaired electron spins. The second ef
 present, and tends to make the material diamagnetic.
 This can be a bit tricky to remember, because it seems opposite to the definition of a dielectric,
 where the internal electric dipoles try to align with the external field. The reason it makes
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 sense is that inside an electric dipole, the electric field points against the dipole moment,
 while inside a magnetic dipole, the magnetic field points with the dipole moment, as discussed
 in E3. So, both dielectrics and diamagnets try to reduce the applied field within them.
@@ -350,7 +362,9 @@ So the magnetic field is µ0M inside the rod, and zero outside.
 (b) Let’s say that M is parallel to x̂. Then in cylindrical coordinates, we have Kb = M sinθẑ. This
 current density is equivalent to superposing two cylinders carrying uniform current density
 ±J ẑ, separated by d along the ŷ direction, where Jd = M.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Outside the rod, the cylinders can be replaced with wires carrying current I = πR2J, and the
 corresponding magnetic field was found in a problem in E3. Inside the rod, superposing the
 magnetic fields of the cylinders yields B = µ0M/2.
@@ -365,14 +379,14 @@ Now let’s account for the gap. In the limit a ≪ r, the “missing” part of
 corresponds to the current of a circular current loop, with I = 2Ma. By the Biot–Savart law, this
 loop contributes a field of µ0I/(2r). Taking this piece out, we have
 B = µ0M
-
+
 1 −
 a
 r
 + O(a2
 /r2
 )
-
+
 .
 Idea 6: Magnetic Susceptibility
 Permanent magnets, such as the ones on your refrigerator, or the strong neodymium magnets
@@ -400,7 +414,9 @@ Because magnetization can arise from freely moving electrons, bound electrons or
 the spin of electrons, these ideas can be applied to both conductors and insulators. As always,
 we must be careful to remember that B is the total magnetic field, due to both whatever is
 outside the material, and the magnetization of the material itself.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: Estimating Susceptibility
 Why is it that many common solids have |χm| ≪ 1, but χe of order 1? Atoms contain a
 few valence electrons of charge q orbiting with radius of order a0, the Bohr radius. To very
@@ -456,7 +472,9 @@ typically small because relativistic effects for valence electrons are weak.
 Example 5
 An infinite solenoid with n turns per length and current I is filled with material with magnetic
 susceptibility χm. Find the magnetic field inside.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The magnetic field inside has contributions from the solenoid wire and the magnetization,
 B = µ0(nI + M) = µ0nI +
@@ -513,7 +531,9 @@ The magnetic susceptibility was originally defined to be simple in terms of H, w
 M = χmH, B = µH.
 The reason H is useful is that it gives a close analogy to electrostatics. Note that
 ∇ × H = J − Jb
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 so that H has no curl if there are no currents around besides the bound current. (This extra
 current is sometimes called “free” current Jf.) In addition,
 ∇ · H = −∇ · M
@@ -550,7 +570,9 @@ were a “useless concept” which should be banished from teaching entirely. So
 modern American physics curriculum was set in the 1960s, that’s exactly what happened.
 For example, Halliday, Resnick, and Krane spends only a few pages covering magnetization,
 and half of them are spent admonishing the reader that magnetic poles don’t exist. If
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 you were educated in America, you probably only heard about them for a day in middle school.
 Unfortunately, removing magnetic poles from the curriculum has some real costs. Experimen-
 talists still think in terms of poles and H, because it’s harder to visualize how complicated
@@ -596,7 +618,9 @@ B =
 µ0M cylinder, parallel
 which precisely matches what we found in example 4 and problem 6, with much less effort.
 [1] Problem 9. Repeat problem 7 using the H field.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. In the gap, the magnetization vanishes and we have B = µ0H, so we can use the idea of
 magnetic charge to compute the field. The magnetic charge is the same as that of a parallel plate
 capacitor, with circular plates of radius r and separation 2a, carrying uniform magnetic charge
@@ -611,20 +635,20 @@ Z r
 a
 (s2 + a2)3/2
 = µ0M
-
+
 −
 a
 √
 s2 + a2
- r
+  r
 0
 = µ0M
-
+
 1 −
 a
 √
 r2 + a2
-
+
 .
 In the limit a ≪ r, this recovers the answer to problem 7.
 Remark: Demagnetizing Fields
@@ -656,7 +680,9 @@ Regardless of how the magnetization arises, the resulting force and torque in an
 B are given by the formulas introduced in E4. Specifically, the torque density is M×B, and
 the force density is ∇(M·B), where the ∇ only acts on B. Alternatively, if you’re using the
 magnetic pole trick, a magnetic charge qm feels a force qmB.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 10. A version of the method of images works for magnetic materials. Let’s suppose there
 is vacuum at z > 0, and a material of relative permeability µr at z < 0. When using the method of
 images, we only care about the field at z > 0, where B and H are proportional. So we can directly
@@ -723,7 +749,9 @@ F = B′
 µ0M2A
 2
 .
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 11. AuPhO 2019, problem 13. A neat explanation of how a fridge magnet works. You’ll
 also need the accompanying answer sheets.
 [5] Problem 12. Physics Cup 2024, problem 3. This relatively straightforward problem reviews almost
@@ -755,7 +783,9 @@ normal, and when it enters a medium with lower µ, it bends towards the normal.
 This statement has two limiting cases which will be important later.
 • A magnetic field line can’t entera superconductor(µ2 = 0) at all, so field lines approaching
 a superconductor bend away, to become tangent to them (θ1 → 90◦).
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 • A magnetic field line entering a soft ferromagnet (µ2 → ∞) bends towards it to enter along
 the normal direction (θ1 → 0◦), similar to how electric field lines approach conductors.
 It’s also possible for θ1 to be nonzero if θ2 → 90◦, but we won’t see any examples of this.
@@ -802,9 +832,11 @@ With a strong magnet, and a measurement of h accurate to about 0.1mm, one can in
 detect this effect. Note that if you treated the dipole moment as permanent, and used a
 potential energy density −M · B, your answer here would be off by a factor of 2.
 [3] Problem 14. NBPhO 2004, problem 6. A cute exercise with permanent magnets.
-[5] Problem 15.  h 1 0IPhO 2022, problem 1. A series of exercises on spherical magnets, which uses
+[5] Problem 15.   h 1 0IPhO 2022, problem 1. A series of exercises on spherical magnets, which uses
 almost everything covered in this section.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 16. Physics Cup 2012, problem 2. If you only know what’s taught in American intro-
 ductory courses, this problem is basically impossible. If you only know what’s stated explicitly in
 Griffiths, it’s very hard. But if you’ve internalized the intuition of the above examples, and the
@@ -832,42 +864,44 @@ all to 1.
 (b) A simple way to do this is to reason inductively. For example, an octupole field is nothing
 more than two quadrupoles whose leading terms cancel, so the leading field of an octupole
 has to be at least one power lower in r.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 However, we will give an explicit proof. A 2N-pole can be constructed from N + 1 charges,
 with charge j placed at x = −j with charge (−1)j N
 j
-
+
 . Then the field at point x is
 E(x) =
 N X
 j=0
 (−1)j
-
+
 N
 j
-
+
 1
 (x + j)2
 = x−2
 N X
 j=0
 (−1)j
-
+
 N
 j
- ∞ X
+  ∞ X
 k=0
-
+
 −2
 k
-
+
 (j/x)k
 .
 We see that this can be split into sums of the form f(k) =
 PN
 j=0(−1)j N
 j
-
+
 jk, and the coefficient
 of x−2−k is some nonzero multiple times f(k). So it suffices to show that f(k) = 0 for all
 k < N, and f(N) ̸= 0. This is an exercise in algebraic sums. The key idea is to define
@@ -875,78 +909,78 @@ g(k) =
 N X
 j=0
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 =
 N X
 j=k
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 .
 We see that jk can be written as a linear combination of j
 0
-
+
 ,..., j
 k
-
+
 , so it suffices to show
 that g(k) = 0 for all k < N, and that g(N) ̸= 0. We see that
 g(k) =
 N X
 j=k
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 =
 N X
 j=k
 (−1)j
-
+
 N
 k
-
+
 N − k
 j − k
-
+
 =
-
+
 N
 k
- N X
+  N X
 j=k
 (−1)j
-
+
 N − k
 j − k
-
+
 =
-
+
 N
 k
-
+
 (−1)k
 · 1k=N
 where we used the fact that
 PM
 ℓ=0(−1)ℓ M
 ℓ
-
+
 = 1M=0 (here 1S is 1 if and only if S is true, and
 is 0 otherwise), which follows from the binomial theorem. This completes the proof.
 (c) Let’s think of a general quadrupole as a superposition of two dipoles in opposite directions.
@@ -957,7 +991,9 @@ Similarly, to specify an octupole, we do the same above, then specify the direct
 quadrupole is displaced, giving 5 + 2 = 7 parameters. In general, a 2N-pole has 2N + 1
 parameters.
 [3] Problem 19 (Purcell 11.23). Consider two magnetic dipoles with coplanar dipole moments.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Show that the associated potential energy is
 U =
 µ0m1m2
@@ -995,7 +1031,9 @@ tal equilateral triangle. As in any ordinary compass, each compass needle is a m
 constrained to rotate in a horizontal plane. The Earth’s magnetic field has been shielded. What
 orientation will the compass needles eventually assume? Does your result also hold for regular
 N-gons?
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. We claim they point in the direction of the tangents to the circumcircle of the triangle.
 In this case, the field at any one corner due to the compasses at the other corners points in the
 tangential direction, so the compasses are all aligned with the local fields.
@@ -1032,7 +1070,9 @@ moment. It does, but the resulting force is much weaker than the one we found he
 the induced dipole and the ion’s overall charge.)
 4 Electromagnetic Waves in Matter
 In this section, you will work out some of the theory of electromagnetic waves in matter.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 9
 In the absence of any free charge or current, Maxwell’s equations in matter are identical to
 Maxwell’s equations in vacuum, except that ϵ0 and µ0 are replaced by ϵ and µ, so the waves
@@ -1067,7 +1107,9 @@ This result is very general, and holds for all kinds of waves as long as we defi
 (d) Now suppose the electric fields Ei, Er, and Et are polarized perpendicular to the page. Then
 continuity of E∥ gives
 Ei + Er = Et.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 Using continuity of B∥, show that
 Er
 Ei
@@ -1148,7 +1190,9 @@ In general, for an electromagnetic wave we have ω/k = v = c/n, so k = nω/c. In
 all the ω’s are the same, so plugging this in gives
 n1 sinθi = n1 sinθr = n2 sinθt,
 which is exactly what we want.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (d) The continuity of B∥ gives
 Bi cosθi − Br cosθr = Bt cosθt.
 Since B = En/c, this means
@@ -1183,11 +1227,11 @@ x = k2
 t − (kt)2
 y − (kt)2
 z =
-
+
 ki
 n2
 n1
-2
+ 2
 − k2
 i sin2
 θi.
@@ -1209,7 +1253,9 @@ the origin of this frequency dependence below.
 (a) Model an electron in an atom as a mass m with charge q attached to a spring, with natural
 angular frequency ω0 and a damping force −mγv, in an electric field E0e−iωt. Write down
 the equation of motion for the electron.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The atomic polarizability α is defined by p = αE. Show that
 α =
 q2/m
@@ -1260,11 +1306,11 @@ Thus with a complex wavevector k, the field of E0ei(k·x−ωt) will exponential
 ),
 the absorption rate is maximized when the imaginary part of k is maximized, and
 β ≡ Im(k) = Im
-
+
 ωn
 2cϵ0
 α
-
+
 =
 ωn
 2cϵ0
@@ -1278,7 +1324,9 @@ q2γn
 ω2
 (ω2
 0 − ω2)2 + γ2ω2
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 The maximum value of this occurs when
 dβ
 dω2
@@ -1292,7 +1340,7 @@ dω2
 − ω2
 0) + γ2
 )
-
+
 = 0
 which simplifies to yield
 ω4
@@ -1306,12 +1354,12 @@ wavevector Rek will be close to (note that Re(α) = 0 at ω = ω0):
 Re(k) =
 ω0
 c
-
+
 1 + Re
-
+
 nα
 2ϵ0
-
+
 =
 ω0
 c
@@ -1334,13 +1382,13 @@ vp = Re
 √
 µϵ
 ≈ c
-
+
 1 − Re
 1
 2
 nα
 ϵ0
-
+
 = c +
 cq2n
 2mϵ0
@@ -1405,9 +1453,11 @@ q2n
 0).
 Thus, increasing the frequency would decrease vp and increase the index of refraction, so blue
 light would refract more.
-[5] Problem 24.  h 1 0IPhO 2002, problem 1. A neat application of electromagnetic waves in matter.
-[5] Problem 25.  h 1 0APhO 2007, problem 2. A problem on an exotic negative index of refraction.
-25Kevin Zhou Physics Olympiad Handouts
+[5] Problem 24.   h 1 0IPhO 2002, problem 1. A neat application of electromagnetic waves in matter.
+[5] Problem 25.   h 1 0APhO 2007, problem 2. A problem on an exotic negative index of refraction.
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Above, we considered the response of a medium composed of atoms, obeying p = αE. However,
 this relation is just an approximation, like Hooke’s law. For larger electric fields, higher order
@@ -1446,7 +1496,9 @@ begins again. As a result, particles are periodically focused into clumps. On av
 fraction of the particles do not make it into a clump? Assume that T is much larger than the
 time it takes a particle to cross the plates.
 Solution. Here’s a solution adapted for this version of the problem.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Note that the particle does not accelerate when it is between the plates, even when U(t)
 changes, since the electric field vanishes there. The situation is analogous to a ball rolling on
 a flat table while the entire table is being lifted up.
@@ -1503,7 +1555,7 @@ enough so that |U(t)| ≪ U0, which corresponds to T ≪
 √
 tatb. Both conditions can be satisfied
 simultaneously, since a ≪ b.
-[4] Problem 27.  T 1 0IPhO 2004, problem 3. A practical problem which also reviews damped/driven
+[4] Problem 27.   T 1 0IPhO 2004, problem 3. A practical problem which also reviews damped/driven
 oscillations.
 [4] Problem 28. NBPhO 2014, problem 1. A challenging problem about a complex nonlinear circuit.
 [5] Problem 29. Physics Cup 2020, problem 1. (It’s not stated explicitly, but you should assume the

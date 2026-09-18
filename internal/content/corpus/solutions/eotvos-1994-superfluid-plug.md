@@ -16,11 +16,11 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/1994
 rülete 1 dm2
 .
 A héliumra kell® óvatossággal egy ugyan sak henger alakú, 1 dm magas, de sak 0,99 dm2
-alapterület¶ dugót
+alapterület¶  dugót
 helyezünk, és elengedjük. A dugó s¶r¶sége a hélium s¶r¶ségével egyenl®.
 | Hogyan mozog a dugó?
 | Mennyi id® alatt ér le az edény aljára?
-Az egész berendezés h®mérséklete 0 K közvetlen közelében van, a folyadék súrlódása és felületi feszültsége 
+Az egész berendezés h®mérséklete 0 K közvetlen közelében van, a folyadék súrlódása és felületi feszültsége
 gyelmen
 kívül hagyható.
 Gnädig Péter
@@ -55,15 +55,15 @@ l̺testg =
 2
 ̺folyu2
 0.
-Ez éppen a jó öreg Bernoulli-törvény (1738) spe iális esete, akár ebb®l is kiindulhattunk volna u0 kiszámításához. Ha
+Ez éppen a  jó öreg  Bernoulli-törvény (1738) spe iális esete, akár ebb®l is kiindulhattunk volna u0 kiszámításához. Ha
 pedig azt is kihasználjuk, hogy a feladatban most a test és a folyadék s¶r¶sége egyenl®, a folyadék kiömlési sebességére
 kapjuk:
 u0 =
 p
 2gl.
 Ez a Torri elli-féle kiöntési törvény (1646) még egy évszázaddal korábbról.
-Akár át is fogalmazhatjuk a feladatot: Ahelyett, hogy Hogyan mozog a dugó?, azt kérdezhetjük: Hogyan mozog
-egy lyukas edényb®l súrlódásmentesen kiöml® folyadék esetén a folyadék fels® szintje? Azt már tudjuk, hogyan indul
+Akár át is fogalmazhatjuk a feladatot: Ahelyett, hogy  Hogyan mozog a dugó? , azt kérdezhetjük:  Hogyan mozog
+egy lyukas edényb®l súrlódásmentesen kiöml® folyadék esetén a folyadék fels® szintje?  Azt már tudjuk, hogyan indul
 el. Kezd®sebessége:
 v0 =
 ∆A
@@ -93,21 +93,21 @@ Ez még így is írható:
 v =
 s
 2
-
+
 ∆A
 A
-2
+ 2
 gh,
 amib®l látszik, hogy a dugó mozgása egyenletesen változik, lassulásának nagysága pedig
-
+
 ∆A
 A
-2
+ 2
 · g = 10−4
 g = 10−3 m
 s2
 .
-A dugó mozgásának sebességid® gra
+A dugó mozgásának sebesség id® gra
 konja az 5. ábrán látható.
 A dugó sebessége éppen akkor sökken egyébként is zérusra, amikor a dugó alja eléri az edény alját, teteje pedig a
 hengeres edény tetejével kerül egy szintre. (Az analóg példában: a kiöml® folyadék felszíne a lyukhoz ér.)

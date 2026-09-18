@@ -43,7 +43,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           valid for |D| ≤ C. How does your answer compare to that of part (a)?
 
                                                        6
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
        Remark
        Sommerfeld applied an analysis like that of part (b) of problem 14 to the Bohr model,

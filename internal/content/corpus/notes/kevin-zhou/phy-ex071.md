@@ -28,12 +28,12 @@ t0 = 0 and drop it. Then
                                          = dp ⟨x| exp(−itp̂2 /2mℏ)|p⟩⟨p|x0 ⟩
 
                                                                            p2 t
-                                           Z                                  
+                                           Z
                                                dp        i
                                          =         exp       p(x − x0 ) −
                                               2πℏ        ℏ                 2m
                                                                         2
-                                           r                             
+                                           r
                                                 m          i m(x − x0 )
                                          =          exp
                                               2πiℏt        ℏ     2t
@@ -49,12 +49,11 @@ powers of p are more difficult to handle.
                         U (ϵ) = 1 − (T + V ) + O(ϵ2 ) = e−iϵT /ℏ e−iϵV /ℏ + O(ϵ2 ).
                                      ℏ
       Therefore the time evolution for a time t = N ϵ is
-                                                            N
+                                                              N
                                              −iϵT /ℏ −iϵV /ℏ
                                   U (t) = e         e           + O(1/N ).
 
       This is a special case of the Lie product formula; the error vanishes as N → ∞.
-158 6. Path Integrals
 
 
   • Using this decomposition, we insert the identity N − 1 times for
@@ -67,22 +66,22 @@ powers of p are more difficult to handle.
     Within each factor, we insert a resolution of the identity in momentum space for
 
                                                                               (xj+1 − xj )2
-      Z                                                      r                                       
+      Z                                                      r
                      −iϵp̂2 /2mℏ         −iϵV (x̂)/ℏ            m         i
          dp ⟨xj+1 |e             |p⟩⟨p|e             |xj ⟩ =         exp    m               − ϵV (xj )
                                                                2πiϵℏ      ℏ        2ϵ
 
     where we performed a Gaussian integral almost identical to the free particle case. Then
                                                                                                  
-                                                                N −1                2          
-                          m N/2 Z                          iϵ X       (xj+1 − xj )
+                                                                N −1                 2
+                           m  N/2 Z                          iϵ X       (xj+1 − xj )
       K(x, x0 , t) = lim              dx1 . . . dxN −1 exp           m                − V (xj ) 
                     N →∞ 2πiℏϵ                               ℏ              2ϵ2
                                                                              j=0
 
 
   • Recognizing a Riemann sum, the above formula shows that
-                                           Z            Z t      
+                                           Z             Z t
                                                          i
                            K(x, x0 , t) = C Dx(τ ) exp       L dτ
                                                          ℏ 0
@@ -97,7 +96,7 @@ powers of p are more difficult to handle.
     paths, but we ignore it for now.
 
   • If we don’t perform the momentum integration, we get the phase space path integral,
-                                       Z                  Z t              
+                                       Z                   Z t
                                                           i
                        K(x, x0 , t) = C Dx(τ )Dp(τ ) exp       (pẋ − H) dτ
                                                           ℏ 0
@@ -118,7 +117,6 @@ there is a well-defined limit Λ → ∞. This is known as renormalization. We c
 path integral computations below in the same way, as a quantum mechanical path integral is just a
 quantum field theory where the operators have no space dependence, i.e. a one-dimensional quantum
 field theory. This point of view is developed further in the notes on Quantum Field Theory.
-159 6. Path Integrals
 
 
 6.2     Gaussian Integrals
@@ -173,15 +171,14 @@ well-suited for semiclassical approximations. We first review some facts about G
       that these integrals converge.
 
   • Similarly, with a linear term in v, we have
-                                               r
+                                                r
                                                   (2π)N
-                       Z                                           
+                       Z
                                    1 T      T                 1 T −1
                            dv exp − v Av + j v =        exp     j A j .
                                    2              det A       2
 
       This can be shown using the shift v → v + A−1 j.
-160 6. Path Integrals
 
 
  • Next, we can differentiate the above identity with respect to j at j = 0. But since
@@ -236,11 +233,11 @@ well-suited for semiclassical approximations. We first review some facts about G
 
  • In the continuum limit, the vectors and matrices above become functions and operators, and
    the integral becomes a path integral, giving
-                   Z                Z                           Z            
+                   Z                 Z                           Z
                                    1          ′         ′    ′
                      Dv(x) exp −        dx dx v(x)A(x, x )v(x ) + dx j(x)v(x)
                                    2
-                                                 Z                          
+                                                  Z
                                       1          1         ′     −1   ′    ′
                                 ∝√          exp     dx dx j(x)A (x, x )j(x ) .
                                      det A       2
@@ -251,7 +248,6 @@ well-suited for semiclassical approximations. We first review some facts about G
 
     and we have thrown away some normalization factors, which drop out of averages. Wick’s
     theorem generalizes to this case straightforwardly.
-161 6. Path Integrals
 
 
 Note. We now review the stationary phase approximation. We consider the integral
@@ -286,18 +282,18 @@ To get the full result, we sum over all stationary points.
 Given this setup, we now apply the stationary phase approximation to the path integral.
 
   • In this case, the small parameter is κ = ℏ and the function is the discretized Lagrangian
-                                                        N −1 
+                                                        N −1
                                                                  m (xj+1 − xj )2
-                                                        X                                  
+                                                        X
                            φ(x1 , . . . , xN −1 ) = ϵ                            − V (x j )  .
                                                                  2      ϵ2
                                                         j=0
 
       Differentiating, we have
 
-                      ∂φ     m
+                      ∂φ      m
                                                         ′
-                                                                                 ∂2φ     m
+                                                                                  ∂2φ     m
                           = ϵ 2 (2xk − xk+1 − xk−1 ) − V (xk ) ,                         = Qkℓ
                       ∂xk     ϵ                                                  ∂xk ∂xℓ  ϵ
       where the matrix Qkℓ is tridiagonal,
@@ -316,7 +312,6 @@ Given this setup, we now apply the stationary phase approximation to the path in
                                               N →∞
 
       In the case of multiple stationary paths, we add a branch index.
-162 6. Path Integrals
 
 
  • Next, we must evaluate det Q. This must combine with the path integral prefactor, which is
@@ -336,9 +331,9 @@ Given this setup, we now apply the stationary phase approximation to the path in
  • The equation of motion for F is the equation of motion for a small deviation about the classical
    path, x(τ ) = x(τ ) + F (τ ), as the right-hand side is the linearized change in force. Thus F (t) is
    the change in position at time t per unit change in velocity at t = 0, so
-                                                                  2 −1
+                                                                   2  −1
                                                  ∂pi −1
-                                                    
+
                                       ∂x                            ∂ S
                              F (t) =       =m             = −m                .
                                       ∂vi        ∂x                ∂x0 ∂x
@@ -350,9 +345,9 @@ Given this setup, we now apply the stationary phase approximation to the path in
    approaches a definite limit as N → ∞. In that limit, it is the number of perturbations of the
    classical path that further decrease the action, which is typically small.
  • Putting everything together and restoring the branch index gives the Van Vleck formula
-                                   X e−iµb π/2 ∂ 2 Sb 1/2     
+                                   X e−iµb π/2 ∂ 2 Sb 1/2
                                                                 i
-                                                                                
+
                     K(x, x0 , t) ≈    √                   exp     Sb (x, x0 , t) .
                                        b
                                         2πiℏ ∂x∂x0              ℏ
@@ -371,6 +366,5 @@ By changing variables, we have
                                                              ∂x    h ∂x
 because the initial phase space distribution P̃ (x0 , p0 ) must always fill a Planck cell. These two
 expressions are consistent since p0 = −∂S/∂x0 .
-163 6. Path Integrals
 
 

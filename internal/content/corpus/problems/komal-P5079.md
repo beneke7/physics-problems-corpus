@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-Some plasticine balls, which have a hole through them and the same mass, can slide along a long straight rod. If the rod is in a slightly slant position the balls cannot start sliding, but if they are started they slide down with some acceleration. Gently starting the uppermost ball it reaches the ball below it. They stick and slide together. They hit the ball below them, stick to it and slide together, and so on. We can observe that each collision occurs at the same speed. What was the initial distance $L_n$ between the $n$-th and the $(n+1)$-st ball if the distance between the first two balls was $L_1$? 
+Some plasticine balls, which have a hole through them and the same mass, can slide along a long straight rod. If the rod is in a slightly slant position the balls cannot start sliding, but if they are started they slide down with some acceleration. Gently starting the uppermost ball it reaches the ball below it. They stick and slide together. They hit the ball below them, stick to it and slide together, and so on. We can observe that each collision occurs at the same speed. What was the initial distance $L_n$ between the $n$-th and the $(n+1)$-st ball if the distance between the first two balls was $L_1$?
  (5 pont)

@@ -12,7 +12,7 @@ figure_files: []
 provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2006_S.pdf."
 ---
 
-2. Egy bolygóközi pályán mozgó ¶rszonda, pályájának bizonyos részén, egy ott elhelyezked® kozmikus porfelh®n
+2. Egy bolygóközi pályán mozgó ¶rszonda, pályájának bizonyos részén, egy ott elhelyezked® kozmikus  porfelh®n
 haladt át. Mindazon porszem sék, amelyeknek nekiütközött, ráragadtak a szondára. Mire a szonda kiért a porfelh®b®l,
 tömege 2%-kal megn®tt.
 Hány százalékkal n®tt meg a porfelh®n való áthaladás ideje ahhoz képest, amennyi id® alatt a porfelh® fékez® hatása
@@ -53,13 +53,13 @@ X
 ∆t =
 1
 2
-
+
 1
 v0
 +
 m0 + ̺A l
 m0v0
-X
+ X
 ∆x =
 l
 v0

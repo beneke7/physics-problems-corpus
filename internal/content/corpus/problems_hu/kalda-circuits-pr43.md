@@ -20,4 +20,4 @@ verification_status: pending
 
 Négy, azonos $r$ belső ellenállású ampermérőt és egy $R$ ellenállást kapcsolunk áramforrásra az ábrán látható módon. Az $A_{1}$ ampermérő kijelzése $I_{1}=3 \mathrm{~A}$, az $A_{2}$ ampermérőé pedig $I_{2}=5 \mathrm{~A}$. Határozzuk meg az $R/r$ ellenállásarányt.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr43-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr43-fig1.jpg)

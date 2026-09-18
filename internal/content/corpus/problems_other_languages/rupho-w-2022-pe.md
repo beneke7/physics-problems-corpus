@@ -35,7 +35,7 @@ $$
 S=\sum_{n} \Delta y_{i}^{2}=\sum_{n}\left(y_{i}-f\left(x_{i}, a_{1}, a_{2}, \ldots\right)\right)^{2} \rightarrow \min _{a_{1}, a_{2}, \ldots}
 $$
 
-![](rupho-w-2022-pe-fig01.png)
+![](../../figures/rupho-w/figures/rupho-w-2022-pe-fig01.png)
 Задача минимизации этой суммы сводится к решению системы уравнений:
 
 $$

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-A parachutist descends uniformly at a speed of 8 m/s in calm weather. What will the speed of the parachutist be if there is a 6 m/s crosswind? 
+A parachutist descends uniformly at a speed of 8 m/s in calm weather. What will the speed of the parachutist be if there is a 6 m/s crosswind?
  (3 pont)

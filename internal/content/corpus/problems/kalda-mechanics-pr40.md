@@ -19,4 +19,4 @@ verification_status: pending
 
 There are two barrels ( $A$ and $B$ ) whose taps have different design, see figure. The tap is opened, the height of the water surface from the tap is $H$. What velocity does the water stream leave the barrels with?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr40-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr40-fig1.jpg)

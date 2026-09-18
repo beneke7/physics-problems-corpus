@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4651. Egy $24^\circ$ nyílásszögű éket beverünk egy fatuskóba. Legalább mekkora a tapadási súrlódási együttható a fatuskó és az ék között, ha az ék beszorul a fába? 
+P. 4651. Egy $24^\circ$ nyílásszögű éket beverünk egy fatuskóba. Legalább mekkora a tapadási súrlódási együttható a fatuskó és az ék között, ha az ék beszorul a fába?
  Vermes Miklós emlékverseny, Sopron

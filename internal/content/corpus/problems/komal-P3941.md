@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A diatomic ideal gas is taken through the cyclic process shown in the figure. In state 1 the pressure of the gas is 100 kPa and its temperature is 350 K. In state 2 the pressure is 300 kPa. What is the efficiency of the cycle? 
+A diatomic ideal gas is taken through the cyclic process shown in the figure. In state 1 the pressure of the gas is 100 kPa and its temperature is 350 K. In state 2 the pressure is 300 kPa. What is the efficiency of the cycle?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3941-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3941-fig1.gif)

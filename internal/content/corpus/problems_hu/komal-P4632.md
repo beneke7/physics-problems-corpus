@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4632. Adott tömegű légritkított gázt az ábrán megadott $A$  állapotból az $AB$  úton a $B$  állapotba viszünk. Mennyi munkát végzünk eközben?
 
-![figure](../../raw_html/komal_figures/komal-P4632-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4632-fig1.gif)

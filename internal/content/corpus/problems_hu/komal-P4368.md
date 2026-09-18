@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4368. Elhanyagolható belső ellenállású, 220 V-os áramforrásra sorba kötünk egy 1 k -os és egy 4 k -os fogyasztót. Egy hagyományos forgótekercses műszerrel a 4 k -os fogyasztó sarkain 147 V-os feszültséget mérnek. Mekkora feszültséget mutatna ez a műszer a másik fogyasztó sarkain? 
+P. 4368. Elhanyagolható belső ellenállású, 220 V-os áramforrásra sorba kötünk egy 1 k -os és egy 4 k -os fogyasztót. Egy hagyományos forgótekercses műszerrel a 4 k -os fogyasztó sarkain 147 V-os feszültséget mérnek. Mekkora feszültséget mutatna ez a műszer a másik fogyasztó sarkain?
  Mátrai Tibor fizikaverseny, Eger

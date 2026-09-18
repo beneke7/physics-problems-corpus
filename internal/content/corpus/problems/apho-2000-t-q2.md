@@ -38,7 +38,7 @@ $$
 Where $\mathrm{R}_{\alpha}$ is measured in cm and E in MeV.
 For monitoring $\alpha$ radiation, one can use an ionization chamber, which is a gas-filled detector that operates on the principle of separation of positive and negative charges created during the ionization of gas atoms by the $\alpha$ particle. The collection of charges yields a pulse that can be detected, amplified and then recorded. The voltage difference between anode and cathode is kept sufficiently high so that there is a negligible amount of recombination of charges during their passage to the anodes.
 
-![](apho-2000-t-q2-fig01.png)
+![](../../figures/apho/figures/apho-2000-t-q2-fig01.png)
 Figure 1 : Schematic diagram of ionization chamber circuit.
 
 a. An ionization chamber electrometer system with a capacitance of 45 picofarad is used to detect $\alpha$ particles having a range $\mathrm{R}_{\alpha}$ of 5.50 cm. Assume the energy required to produce an ion-pair (consisting of a light negative electron and a heavier positive ion, each carrying one electronic charges of magnitude $\mathrm{e}=1.60 \mathrm{x}$ $10^{-19}$ Coulomb) in air is 35 eV . What will be the magnitude of the voltage produced by each $\alpha$ particle?

@@ -28,13 +28,13 @@ Kevin Zhou Physics Olympiad Handouts
 of Euclidean geometry. As usual, we suppose a planet of mass m orbits a fixed star of much greater
 mass M. Placing the star at the origin, let ϕ be the angle between r and v for the planet.
 (a) Write down the quantities E and L in terms of G, M, m, v, r, and ϕ, and show that
-
+
 r2
 +
 GMm
 E
 r
-
+
 sin2
 ϕ =
 L2

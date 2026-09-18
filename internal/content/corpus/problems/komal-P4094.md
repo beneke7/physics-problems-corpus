@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200810"
 verification_status: pending
 ---
 
-The hinged rod of weight G shown in the figure is supported by the horizontal, slippery floor. Find the magnitude and the direction of the forces acting at the hinge and at the floor. 
+The hinged rod of weight G shown in the figure is supported by the horizontal, slippery floor. Find the magnitude and the direction of the forces acting at the hinge and at the floor.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4094-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4094-fig1.gif)

@@ -21,4 +21,4 @@ As we have learned with problem 56, if we want to measure the full $V-I$-curve o
 (a) According to the results of problem 56, this stationary state is unstable; in order to stabilize it, a series connection of a capacitance $C$ and a resistance $r$ are connected in parallel to the diode. The wires connecting the capacitor and resistor $r$ to the diode are so short that the corresponding inductance $L_{d}$ can be assumed to be negligibly small; the inductance of the wires connecting the diode, battery, and resistor $R$ to each other is $L$, (see figure; neglect the capacitance $C_{d}$ ). Which condition(s) need to be satisfied for $C, R, R_{\text {diff }}, r$ and $L$ for stabilization?
 (b) In task (a) we addressed a relatively slow instability; in that case, the characteristic time of current variation cannot be much less than
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr82-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr82-fig1.jpg)

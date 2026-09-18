@@ -26,7 +26,7 @@ techniques: [conservation-laws, choose-reference-frame, extremization]
 ## Problem 2 Jet propulsion (10 points)
 
 In a rocket engine thrust is created by the release of products of fuel combustion in the direction opposite to its motion. It is, of course, natural that the mass of the rocket decreases in the acceleration process. This idea was first proposed by the great Russian scientist K. Tsiolkovsky to implement the motion of objects in a vacuum, for example, in outer space. Nowadays space flights have become habitual. It is widely known that the space launching site, Baikonur, is situated on the territory of Kazakhstan. The first satellite and the first cosmonaut, Yu. Gagarin, were sent into space from Baikonur which is now a
-![](izho-2014-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2014-t-q2-fig01.png)
 complex of high-tech facilities intended to launch manned spacecraft into space, in particular, to the International Space Station.
 
 ## Classical rocket

@@ -27,7 +27,7 @@ egyenleteket, de a Hamilton-formalizmusban az impulzust is megfelelően
 kell transzformálnunk. Az indexeket elhagyva és Θ = ∂Q/∂q-t definiálva
 
                                                                    Θ(∂P/∂p)T
-                                                                            
+
                          Θ       0             T           0
                 J =                     , J JJ =
                        ∂P/∂q ∂P/∂p                    −ΘT ∂P/∂p         0
@@ -69,7 +69,6 @@ Most röviden áttekintjük a klasszikus mechanika geometriai megfogalmazását.
  • A Lagrange-mechanikában a konfigurációs tér egy M sokaság, a Lagrange-függvény pedig egy
    az érintőnyalábon értelmezett L : T M → R függvény. Az akció a sokaságon
    haladó pályák valós értékű függvénye.
-21 1. Klasszikus mechanika
 
 
   • A p = ∂L/∂ q̇ impulzus M-en kovektor, és adott az
@@ -122,4 +121,3 @@ impulzussá alakításakor előjelek jelennek meg; ez az alapvető oka annak, ho
 A kanonikus transzformációk további rugalmassága lehetővé teszi még kényelmesebb változók használatát
 a Lagrange-mechanika általánosított koordinátáinál. Gyakran az úgynevezett hatás-szög változók jó választásnak
 bizonyulnak, és drasztikusan leegyszerűsítik a problémát.
-22 1. Klasszikus mechanika

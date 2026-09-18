@@ -72,7 +72,9 @@ Therefore, the dependence of the unwinding time on the number of turns is given 
           12            24,42                             0,725            0,525          2,485          3,195        0,512
           15            28,39                             0,774            0,599          2,708          3,346        0,590
           18            32,17                             0,803            0,645          2,890          3,471        0,662
-XXII International Zhautykov Olympiad/Experimental competition                                             с. 2/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                             с. 2/12
 
           21          35,86                 0,823         0,677            3,045         3,580     0,729
           24          39,46                 0,838         0,702            3,178         3,675     0,794
@@ -114,7 +116,9 @@ statement. The kinetic energy values were calculated using the formula 𝐸 = �
 
 
 2.5 he potential energy at the specified zero level is
-XXII International Zhautykov Olympiad/Experimental competition                                            с. 3/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                            с. 3/12
 
                𝑈(𝑘) = −𝐸(𝑘).                                                                      (11)
 2.6 The graph of the dependence of the motion time on the number of turns is shown in the figure below,
@@ -166,7 +170,9 @@ ordinate axis.
                                         2          2                2
                              101−𝛼          51−𝛼             51−𝛼
                𝐸5−10 = ( 𝛼𝐴 ) − ( 𝛼𝐴 ) = ( 𝛼𝐴 ) (41−𝛼 − 1) .                                               (17)
-XXII International Zhautykov Olympiad/Experimental competition                                                                    с. 4/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                                                    с. 4/12
 
                                              Interval 35-25
 
@@ -239,7 +245,9 @@ ordinate axis.
 
 
            𝐸5−10 =     0,172 Ku
-XXII International Zhautykov Olympiad/Experimental competition                                                            с. 5/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                                            с. 5/12
 
                                              Interval 25-15
 
@@ -318,7 +326,9 @@ ordinate axis.
 
 
            𝐸5−10 =     0,127 Ku
-XXII International Zhautykov Olympiad/Experimental competition                                                            с. 6/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                                            с. 6/12
 
                                               Interval 15-5
 
@@ -401,7 +411,9 @@ ordinate axis.
 
 
            𝐸5−10 =     0,094 Ku
-XXII International Zhautykov Olympiad/Experimental competition                                                    с. 7/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                                    с. 7/12
 
 3.6 The final table is as follows:
 
@@ -463,7 +475,9 @@ and amounts to a few hundredths of a second.
                                            1,5         2,0     2,5          3,0                3,5
 
                                                                ln N
-XXII International Zhautykov Olympiad/Experimental competition                                         с. 8/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                         с. 8/12
 
 4.4 The value of the exponent can be determined either from the graph or by the least squares method. Its
 value is
@@ -481,7 +495,9 @@ where 𝐸(30) is the value of the kinetic energy found in Part 3 of the assignm
 𝐸(30) = 0.814).
         The results of the calculations are presented in Table 4.1. The graph of this dependence, labeled No.
 4, is shown on the graph from Section 2.4.
-XXII International Zhautykov Olympiad/Experimental competition                                        с. 9/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                        с. 9/12
 
                                             Marking scheme
                     Correct calculations using incorrect formulas will not be graded!
@@ -543,7 +559,9 @@ where 𝐸(30) is the value of the kinetic energy found in Part 3 of the assignm
        2.9                                                                                      0,3
               the data points are plotted according to the table                        0,2
               smoothing curve is drawn                                                  0,1
-XXII International Zhautykov Olympiad/Experimental competition                                        с. 10/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                        с. 10/12
 
 
 
@@ -608,7 +626,9 @@ where 𝐸(30) is the value of the kinetic energy found in Part 3 of the assignm
        3.4                                                                           0,3        0,6
               (within the range 𝛼 = 0,68 ± 0,10 - 0,1)
               numerical value within the range 𝐴 = 4,95 ± 0,03                       0,3
-XXII International Zhautykov Olympiad/Experimental competition                      с. 11/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                      с. 11/12
 
               (within the range 𝐴 = 4,95 ± 0,06 - 0,1)
               numerical value within the range 𝐸5−10 = 0,14 ± 0,06
@@ -673,7 +693,9 @@ where 𝐸(30) is the value of the kinetic energy found in Part 3 of the assignm
        3.6    Formulas (18):                                            0,2   0,9
                                 𝐸(𝑘 + 5) = 𝐸(𝑘) + 𝐸5−10
               The energies are calculated.                              0,4
-XXII International Zhautykov Olympiad/Experimental competition                                      с. 12/12
+
+
+XXII International Zhautykov Olympiad/Experimental competition                                      с. 12/12
 
               Construction of Graph No. 3.                                           0,3
                                            Part 4. Unwinding Time

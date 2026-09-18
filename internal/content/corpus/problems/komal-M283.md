@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-Fill a carton of juice with some water and tilt it such that its shortest edge is at rest on the table and if it is left it turns back to its original equilibrium position. Measure the maximum angle of tilting as a function of the mass of the water poured to the carton. 
+Fill a carton of juice with some water and tilt it such that its shortest edge is at rest on the table and if it is left it turns back to its original equilibrium position. Measure the maximum angle of tilting as a function of the mass of the water poured to the carton.
  (6 pont)

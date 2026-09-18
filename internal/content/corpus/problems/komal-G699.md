@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-At railway stations, we can often observe that the overhead contact wires are stretched with heavy weights suspended by wire ropes looped over, for example, a pulley system shown in the figure. 
+At railway stations, we can often observe that the overhead contact wires are stretched with heavy weights suspended by wire ropes looped over, for example, a pulley system shown in the figure.
 
- $a)$ Why is this method better than fixing the overhead contact lines? 
- $b)$ What is the tension in each of the double overhead contact wires if the total mass of the weights is 300 kg? 
- $c)$ How does the position of the weights change during a bright cloudless day from dawn to dusk? 
+ $a)$ Why is this method better than fixing the overhead contact lines?
+ $b)$ What is the tension in each of the double overhead contact wires if the total mass of the weights is 300 kg?
+ $c)$ How does the position of the weights change during a bright cloudless day from dawn to dusk?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G699-fig1.gif)
+![figure](../../figures/komal/figures/komal-G699-fig1.gif)

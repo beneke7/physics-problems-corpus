@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-Express, in terms of the ratio of the specific heat capacities, $\kappa=c_p/c_V$, what portion of the absorbed heat by a sample of gas, expanding at constant pressure, is the work done by the expanding gas. 
+Express, in terms of the ratio of the specific heat capacities, $\kappa=c_p/c_V$, what portion of the absorbed heat by a sample of gas, expanding at constant pressure, is the work done by the expanding gas.
  (3 pont)

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [extremization, smart-coordinates]
 ---
 
-Two particles whose speeds are very close to the speed of light (ultrarelativistic) collide elastically. The linear momentum vectors of the two particles are shown in the figure. Construct the smallest angle which can be enclosed by the direction of the motion of the two particles flying apart. 
+Two particles whose speeds are very close to the speed of light (ultrarelativistic) collide elastically. The linear momentum vectors of the two particles are shown in the figure. Construct the smallest angle which can be enclosed by the direction of the motion of the two particles flying apart.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4593-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4593-fig1.gif)

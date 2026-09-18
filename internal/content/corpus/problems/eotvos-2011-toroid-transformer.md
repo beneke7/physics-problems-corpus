@@ -24,7 +24,7 @@ techniques: [exploit-symmetry, model-reduction]
 
 Egy toroid (úszógumi) alakú „sovány" vasmagra szimmetrikus elrendezésben három egyforma, „kövér" elektromágneses tekercs van felfűzve a 4. ábra szerint. Az első tekercsre váltóáramú feszültségforrást kapcsolunk, a második tekercs kivezetéseit szabadon hagyjuk, a harmadik tekercs csatlakozóira pedig voltmérőt kötünk. Ekkor a voltmérő a feszültségforrás effektív értékének a felét mutatja.
 
-![A toroid transzformátor](../../sources/eotvos/figures/eotvos-2011-toroid-transformer-fig1.png)
+![A toroid transzformátor](../../figures/eotvos/figures/eotvos-2011-toroid-transformer-fig1.png)
 
 Ezután a második tekercs kivezetéseit a K kapcsolóval rövidre zárjuk. Mit mutat ebben az esetben a voltmérő?
 

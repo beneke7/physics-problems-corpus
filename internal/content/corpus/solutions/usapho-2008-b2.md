@@ -14,7 +14,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/usapho/2008
 
 Question B2
 Consider a parallel plate capacitor with the plates vertical. The plates of the capacitor are rigidly supported
-in place. The distance between the plates is d. The plates have height h and area A 
+in place. The distance between the plates is d. The plates have height h and area A
  d2
 . Assume
 throughout this problem that the force of air resistance may be neglected; however, the force of gravity
@@ -45,10 +45,10 @@ b. Suppose instead that the ball of mass M and charge q is released from rest at
 the plates at a time t = 0. Now, an AC potential difference V (t) = V0 sinωt is also placed across the
 capacitor. The ball may hit one of the plates before it falls (under the influence of gravity) out of the
 region between the plates. If V0 is sufficiently large, this will only occur for some range of angular
-frequencies ωmin < ω < ωmax. You may assume that ωmin 
+frequencies ωmin < ω < ωmax. You may assume that ωmin
 
 p
-g/h and ωmax 
+g/h and ωmax
 
 p
 g/h. Making these
@@ -118,12 +118,12 @@ This can be integrated again to find the position relative to the center, which 
 x =
 qV0
 Mdω
-
+
 t −
 1
 ω
 sinωt
-
+
 .
 The ball hits one of the plates if this value exceeds d/2 while it is still in the region between the plates.
 It exits this region when t =
@@ -166,8 +166,8 @@ ii. This is an RC circuit, with characteristic time
 τ = RC = ρ
 d
 h2
-0h2
-d = ρ0.
+ 0h2
+d = ρ 0.
 iii. The AC circuit is effectively a capacitor in parallel with a resistor. The current through each is
 ninety degrees out of phase, so if the magnitudes of the current through the capacitor IC and the
 resistor IR are known, then
@@ -191,7 +191,7 @@ p
 V0h2
 ρd
 p
-1 + (ωρ0)2.
+1 + (ωρ 0)2.
 Copyright ©2008 American Association of Physics Teachers
 2008 Semifinal Exam Part B 16
 STOP: Do Not Continue to Part C
@@ -223,13 +223,13 @@ length and is given by
 1
 f
 = (nliquid − nair)
-
+
 1
 R1
 −
 1
 R2
-
+
 ,
 where nliquid and nair are the refractive indices of the liquid in the lens and air around it, and R1 and
 R2 are the radii of curvature of the two surfaces of the lens. In figure 1, R1 is the curved face and R2
@@ -277,10 +277,10 @@ nliquid − nair
 =
 1
 nliquid − nair
-
+
 3V
 π(cos3 θ − 3cosθ + 2)
-1/3
+ 1/3
 .
 This matches equation (3) of the cited paper.
 Copyright ©2008 American Association of Physics Teachers

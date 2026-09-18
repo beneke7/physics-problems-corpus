@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201109"
 verification_status: pending
 ---
 
-What can an observer on the Moon experience, when the eclipse of the Moon can be seen from the Earth? 
+What can an observer on the Moon experience, when the eclipse of the Moon can be seen from the Earth?
  (3 pont)

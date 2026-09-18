@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-With what single mass $m$ should the pulley with the two masses on the right in the figure be replaced so that the body with mass $m_1$ moves in the same way as it did originally? Neglect the mass of the pulleys and friction. 
+With what single mass $m$ should the pulley with the two masses on the right in the figure be replaced so that the body with mass $m_1$ moves in the same way as it did originally? Neglect the mass of the pulleys and friction.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5644-fig1.png)
+![figure](../../figures/komal/figures/komal-P5644-fig1.png)

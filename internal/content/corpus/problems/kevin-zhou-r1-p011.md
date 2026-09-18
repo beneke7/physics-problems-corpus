@@ -36,5 +36,5 @@ observer with speed v, if the light originally had frequency f .
          lies at x = 0, light hits it traveling in the x̂ direction, and the mirror has a velocity v ŷ. After
 
 
-                    01^
+                    01^
          reflection, which way does the light travel, and what is its new frequency?

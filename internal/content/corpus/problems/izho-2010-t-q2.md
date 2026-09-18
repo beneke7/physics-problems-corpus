@@ -25,7 +25,7 @@ solution_language: ru
 **Problem 2 (10 points)**
 The Tolmen-Stewart experiment
 
-![Sketch of the experimental setup: a coil of radius $r$ connected through sliding contacts to a galvanometer](../../sources/izho/figures/izho-2010-t-q2-fig1.png)
+![Sketch of the experimental setup: a coil of radius $r$ connected through sliding contacts to a galvanometer](../../figures/izho/figures/izho-2010-t-q2-fig1.png)
 
 In 1916 Tolmen and Stewart carried out their famous experiment proving that the electric current in metals was caused by freely moving electrons. The sketch of the experimental setup is shown on the left hand side.
 
@@ -44,4 +44,4 @@ Part 2. In this part of the problem you have to take into account the small indu
 6. [1 point] Find the maximal energy $W_0$ stored in the coil during the experiment. Express your answer in terms of $J, M, r, \ell, R, m_e, e, n, h$ and the magnetic constant $\mu_0$.
 7. [3 points] The flux $S$ of the electromagnetic energy through the unit area is determined by the Pointing vector which is perpendicular to both electric and magnetic fields with the module $S=\frac{1}{\mu_0}EB\sin\alpha$, where $E$ is the electric field strength vector, $B$ is the magnetic induction vector and $\alpha$ is the angle between them (see the picture on the right). Find the electromagnetic energy $W$ passing through the lateral surface for the time period while the electric current increases and the electromagnetic energy $W'$ passing through the lateral surface for the time period while the electric current decreases. Express your answer in terms of $\ell, r, M, J, n, R, m_e, e, \mu_0$.
 
-![Poynting vector diagram: vectors $\vec{S}$, $\vec{B}$ and $\vec{E}$ with $\alpha$ the angle between $\vec{B}$ and $\vec{E}$](../../sources/izho/figures/izho-2010-t-q2-fig2.png)
+![Poynting vector diagram: vectors $\vec{S}$, $\vec{B}$ and $\vec{E}$ with $\alpha$ the angle between $\vec{B}$ and $\vec{E}$](../../figures/izho/figures/izho-2010-t-q2-fig2.png)

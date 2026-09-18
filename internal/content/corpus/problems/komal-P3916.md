@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, exploit-symmetry]
 ---
 
-A small ball is thrown from a height of 1 m, and 2 m away from a vertical wall. The ball bounces on the ground and on the vertical wall totally elastically and then it flies back to its initial position of throwing. Find the initial speed of the ball if it was thrown at an angle of 45$^\circ$ with the horizontal. (Air drag can be neglected). 
+A small ball is thrown from a height of 1 m, and 2 m away from a vertical wall. The ball bounces on the ground and on the vertical wall totally elastically and then it flies back to its initial position of throwing. Find the initial speed of the ball if it was thrown at an angle of 45$^\circ$ with the horizontal. (Air drag can be neglected).
  (5 pont)

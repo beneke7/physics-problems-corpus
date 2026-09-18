@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A 2-ton vehicle without operating its engine would move down a slope of 5% elevation at a constant speed of 36 km/h. What would the useful power of its engine be if it goes up along the same slope at the same speed? 
+A 2-ton vehicle without operating its engine would move down a slope of 5% elevation at a constant speed of 36 km/h. What would the useful power of its engine be if it goes up along the same slope at the same speed?
  (3 pont)

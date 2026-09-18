@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: pending
 ---
 
-If two uniform bodies are moved closer to each other along the line which joins them, then the gravitational force exerted between them usually increases. Is this always true? Give examples for the opposite. 
+If two uniform bodies are moved closer to each other along the line which joins them, then the gravitational force exerted between them usually increases. Is this always true? Give examples for the opposite.
  (4 pont)

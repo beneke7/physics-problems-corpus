@@ -25,18 +25,18 @@ techniques: [exploit-symmetry, stability-analysis]
 
 6. Consider an equilateral triangle ABC of side $2 a$ in the plane of the paper as shown. The centroid of the triangle is $O$. Equal charges $(Q)$ are fixed at the vertices $A, B$ and $C$. In what follows consider all motion and situations to be confined to the plane of the paper.
 [Marks: 11]
-![](inpho-2014-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig01.png)
     (a) A test charge $(q)$, of same sign as $Q$, is placed on the median AD at a point at a distance $\delta$ below $O$. Obtain the force $(\vec{F})$ felt by the test charge.
-![](inpho-2014-a6-fig02.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig02.png)
     (b) Assuming $\delta \ll a$ discuss the motion of the test charge when it is released.
-![](inpho-2014-a6-fig03.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig03.png)
     (c) Obtain the force ( $\vec{F}_{D}$ ) on this test charge if it is placed at the point $D$ as shown in the figure.
-![](inpho-2014-a6-fig04.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig04.png)
     (d) In the figure below mark the approximate locations of the equilibrium point(s) for this system. Justify your answer.
-![](inpho-2014-a6-fig05.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig05.png)
 
 (e) Is the equilibrium at $O$ stable or unstable if we displace the test charge in the direction of $O P$ ? The line $P Q$ is parallel to the base $B C$. Justify your answer.
-![](inpho-2014-a6-fig06.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig06.png)
     (f) Consider a rectangle $A B C D$. Equal charges are fixed at the vertices $A, B, C$, and $D . O$ is the centroid. In the figure below mark the approximate locations of all the neutral points of the system for a test charge with same sign as the charges on the vertices. Dotted lines are drawn for the reference.
     (g) How many neutral points are possible for a system in which $N$ charges are placed at the $N$ vertices of a regular $N$ sided polygon?
     7. Bohr-Wheeler fission limit: Using the liquid drop model for the nucleus, Bohr and Wheeler established in 1939 a natural limit for $Z^{2} / A$ beyond which nuclei are unstable against spontaneous fission, where $Z$ and $A$ are the atomic and nucleon numbers respectively. In the following problem we will estimate this limit.
@@ -45,13 +45,13 @@ Consider the liquid drop model of a nucleus where the total energy of the nucleu
 products 1 to 2 as $f$. Assume that mass density and charge density of parent and daughter nuclei are same.
 [Marks: 13]
 
-![](inpho-2014-a6-fig07.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig07.png)
 (a) Original nucleus
 
-![](inpho-2014-a6-fig08.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig08.png)
 (b) Moment of fission
 
-![](inpho-2014-a6-fig09.png)
+![](../../figures/inpho/figures/inpho-2014-a6-fig09.png)
 (c) Large separation
 
 (a) Estimate the nuclear mass density $\left(\rho_{n}\right)$ assuming $m_{p}=m_{n}$.

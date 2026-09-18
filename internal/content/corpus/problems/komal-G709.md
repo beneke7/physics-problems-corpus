@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, limiting-and-special-cases]
 ---
 
-Tarzan targets monkey Maki on a tree. At the moment when the arrow is shot the arrow is aimed at the banana in Maki's hand. At the same moment the frightened monkey drops the banana. What will the arrow hit, if air resistance can be neglected? 
+Tarzan targets monkey Maki on a tree. At the moment when the arrow is shot the arrow is aimed at the banana in Maki's hand. At the same moment the frightened monkey drops the banana. What will the arrow hit, if air resistance can be neglected?
  (3 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 A uniform bar with mass $m$ and length $l$ hangs on four identical light wires. The wires have been attached to the bar at distances $\frac{l}{3}$ from one another and are vertical, whereas the bar is horizontal. Initially, tensions are the same in all wires, $T_{0}=m g / 4$. Find tensions after one of the outermost wires has been cut.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr23-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr23-fig1.jpg)

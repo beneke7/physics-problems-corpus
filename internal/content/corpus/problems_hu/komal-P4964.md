@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4964. Legalább mekkora erővel lehet felborítani egy jégen csúszó jégkockát? (A súrlódás elhanyagolható.) 
+P. 4964. Legalább mekkora erővel lehet felborítani egy jégen csúszó jégkockát? (A súrlódás elhanyagolható.)
  Példatári feladat

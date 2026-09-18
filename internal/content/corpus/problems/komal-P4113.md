@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, differential-element]
 ---
 
-A spherical cap of radius r and of width d , is placed onto the top of the sphere of the Van de Graaff generator, the radius of which is  R . The spherical cap is made of aluminum foil of density  . At what voltage value will the spherical cap ascend from the sphere of the Van de Graaff generator? 
+A spherical cap of radius r and of width d , is placed onto the top of the sphere of the Van de Graaff generator, the radius of which is  R . The spherical cap is made of aluminum foil of density  . At what voltage value will the spherical cap ascend from the sphere of the Van de Graaff generator?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4113-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4113-fig1.gif)

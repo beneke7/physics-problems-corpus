@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-It is often stated about the line spectrum of Hydrogen that the lines of the Lyman series is in the ultraviolate region, the lines of the Balmer series are in the region of visible light, and the lines of the Paschen and other series are in the infrared region. However, this is not exactly true, because not all the lines of the Balmer series can be seen by the naked eye. 
- Using the Bohr model of the atom find how many of the lines in the Balmer series belong to the region of visible light, and which are they? 
+It is often stated about the line spectrum of Hydrogen that the lines of the Lyman series is in the ultraviolate region, the lines of the Balmer series are in the region of visible light, and the lines of the Paschen and other series are in the infrared region. However, this is not exactly true, because not all the lines of the Balmer series can be seen by the naked eye.
+ Using the Bohr model of the atom find how many of the lines in the Balmer series belong to the region of visible light, and which are they?
  (4 pont)

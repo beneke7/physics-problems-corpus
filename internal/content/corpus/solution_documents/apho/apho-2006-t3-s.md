@@ -69,7 +69,8 @@ where ∆P ≈ P (we neglect the atmospheric pressure). Then
 pressure can be estimated without compressibility taken into account:
 
                                                       P0 ( x) = gρ 0 x.                                           (9)
-7th Asian Physics Olympiad                                                                Theoretical Question 3 /Solutions   Page 2/6
+
+7th Asian Physics Olympiad                                                                Theoretical Question 3 /Solutions   Page 2/6
 
     Correction to the density in the first approximation can be obtained using P0 ( x ) :
 
@@ -127,7 +128,8 @@ for each gas, we get
 
 where Vi are the gas volumes, and ∆V = ∆V1 = −∆V2 is the change of the volume of the hydrogen.
 Differentiating (1), we get
-7th Asian Physics Olympiad                                                 Theoretical Question 3 /Solutions   Page 3/6
+
+7th Asian Physics Olympiad                                                 Theoretical Question 3 /Solutions   Page 3/6
 
 
 
@@ -181,7 +183,8 @@ plate will have the charge
 and the right surface will have the charge
 
 (C2b)                                                  Qγ = q / 2 .                                            (25)
-7th Asian Physics Olympiad                                                Theoretical Question 3 /Solutions   Page 4/6
+
+7th Asian Physics Olympiad                                                Theoretical Question 3 /Solutions   Page 4/6
 
 These charges remain on the plates after the collision is over. Now the force acting on the plate γ
 equals F2 = E2 q / 2 , where E2 = (q / 2) / (2ε 0 S ) . The work done by field E2 is
@@ -235,7 +238,8 @@ coefficient can be written as
 
 One notices from this expression that if two lenses are exchanged, the first term stays invariant, and
 only the second term changes. Thus the expression for the inverted magnification in the second case is:
-7th Asian Physics Olympiad                                       Theoretical Question 3 /Solutions   Page 5/6
+
+7th Asian Physics Olympiad                                       Theoretical Question 3 /Solutions   Page 5/6
 
                                         1 d1 [L − ( F1 + F2 )] L
                                              =                − + 1.                                 (32)
@@ -250,7 +254,8 @@ Subtracting these two formulas, we get:
                                     1⎛ 1 1 ⎞       1 ⎛ 1⎞     1 3
                         D1 − D2 =     ⎜ ′ − ′′ ⎟ =   ⎜1 − ⎟ =   ⋅ = 3 diopters.                      (34)
                                     L ⎝ Γ Γ ⎠ 0, 25 ⎝ 4 ⎠ 0, 25 4
-7th Asian Physics Olympiad                                     Theoretical Question 3 /Solutions   Page 6/6
+
+7th Asian Physics Olympiad                                     Theoretical Question 3 /Solutions   Page 6/6
 
 
 

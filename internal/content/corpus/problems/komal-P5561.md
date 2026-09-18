@@ -22,13 +22,13 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-On a stretched string of length $2L$, fixed at both ends, with mass $\mu$ per unit length, the speed of transverse waves is $c$. 
+On a stretched string of length $2L$, fixed at both ends, with mass $\mu$ per unit length, the speed of transverse waves is $c$.
 
- $a)$ Give the possible frequencies of the eigenvibrations of the string in units $c/L$. 
+ $a)$ Give the possible frequencies of the eigenvibrations of the string in units $c/L$.
 
- $b)$ A point-like body of mass $M=2\mu L$ is fixed at the centre of the string, as shown in the figure . Write an equation for the possible frequencies of the eigenvibrations of the string and calculate the numerical value of the lowest 3 frequencies in units $c/L$. The effect of gravity is negligible. 
- Hint: It can be shown that the forms of the waves can be described by even or odd functions with respect to the centre. 
+ $b)$ A point-like body of mass $M=2\mu L$ is fixed at the centre of the string, as shown in the figure . Write an equation for the possible frequencies of the eigenvibrations of the string and calculate the numerical value of the lowest 3 frequencies in units $c/L$. The effect of gravity is negligible.
+ Hint: It can be shown that the forms of the waves can be described by even or odd functions with respect to the centre.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5561-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5561-fig1.gif)

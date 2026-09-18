@@ -29,7 +29,9 @@ Multiple choice questions:
    10       E
 
 1 mark for each question
-Section B: Runners
+
+
+Section B: Runners
 
     a)   2 marks total
 Marks      For
@@ -52,7 +54,9 @@ Marks      For
 Marks      For
 1          Expression: 𝑣2 = 𝑣1 (1/𝑛 + 1)
 1          Value: 𝑣𝐾 = 3.7 m/s
-Section C: Sugar gliders
+
+
+Section C: Sugar gliders
 
   a) 2 marks total
                            𝑚                   𝑙           3
@@ -101,7 +105,9 @@ Marks      For
        –1.0                Correct equation with (a) and (c) subbed in, but at least one of (a) and (c)
                            dimensionally incorrect
        –0.4                Numbers (with or without units) subbed in
-d) 3 marks total
+
+
+d) 3 marks total
                      𝑚 cos(𝛼 )        𝐴 𝑣2
    Correct answer: 𝑚1 cos(𝛼1 ) = 𝐴1 𝑣12 out of 1.0
                       2       2        2 2
@@ -125,7 +131,9 @@ Marks      For
                      dimensionally correct)
     –0.2             5+ sig figs
     –0.2             Wrong/no units
-Section D: Pro-drugs
+
+
+Section D: Pro-drugs
    a) 3 marks total
 Marks    For
 1.2      Plotting points (0,20), (4,10) correctly
@@ -158,7 +166,9 @@ A3 being at max concentration means dA3/dt = -0.012A3 +0.34A2=0, so A2/A3 = 0.03
 
 
         A1 – Purple, A2 – Green, A3 – Red.
-  e) 3 marks total
+
+
+  e) 3 marks total
 Marks   For
 1       A2 curve very similar to A1, but with peak sooner and lower concentration. Passes through
         origin with gradient as for A1.
@@ -187,7 +197,9 @@ Marks   For
          Estimate (roughly from 10-24 hours, which is 5-12 decay times) of time to get somewhat
          close to asymptote of ratio. Method: estimate characteristic time based on 1/decay rate OR
          measure from graph. Time is many times one decay time for P.
-Section E: Surprising shadows
+
+
+Section E: Surprising shadows
 
     a)   4 marks total
 
@@ -229,7 +241,9 @@ Marks      For
 
 1          Answer explains that the light is a combination of the two light sources: explaining that the
            shadows are still lit up by one of the two light sources.
-Section F: Double glazing
+
+
+Section F: Double glazing
 
 a 5 marks total
      i)  0.5 per factor = 1 mark. Possible factors include: distance between glass sheets, air pressure
@@ -251,7 +265,9 @@ a 5 marks total
             trials, methods for error reduction, etc. Examples: 5+ data points, placing the speaker and
             microphone close to the glass, using the same setup each time, reducing background
             noise/soundproofing the room, playing a consistent sound each time, etc
-b. 4 marks total
+
+
+b. 4 marks total
 i) 1 mark total
  Marks      For
 
@@ -291,7 +307,9 @@ ii) 3 marks total
                    Error: external conditions may cause the room to fluctuate in temperature
                    Change: close and windows and blinds to insulate the room as much as
                      possible, keep the heater on to maintain room temperature.
-Comments:
+
+
+Comments:
 When marking out of 2 here:
 2 - all good apart from extremely minor error e.g. missing units in intermediate step, precision a bit
 high but not too much

@@ -26,7 +26,7 @@ techniques: [graphical-reduction, differential-element]
 ## Problem E1
 
 Part A. Qualitative shape of the water surface (1 points) When a cylindrical magnet is placed below water surface, the latter becomes curved. By observation, determine the shape of the water surface above the magnet. Based on this observation, decide if the water is diamagnetic $(\mu<1)$ or paramagnetic $(\mu>1)$.
-![](ipho-2012-e-qe1-2-fig01.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe1-2-fig01.png)
 Write the letter corresponding to the correct option into the Answer Sheet, together with an inequality $\mu>1$ or $\mu<1$.
 
 For this part, you do not need to justify your answer.

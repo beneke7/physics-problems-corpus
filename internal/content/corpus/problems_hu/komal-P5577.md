@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5577. Egy gyűjtőlencse bal oldalára egy pontszerű tárgyat helyeztünk, amelyből kiinduló két sugarat ábrázoltunk a lencsén történő áthaladás után. Az egyik sugár éppen a lencse fókuszpontján halad át. Az ábra alapján szerkesszük meg (körzővel, vonalzóval) a fényforrás helyét! Írjuk le a szerkesztés lépéseit! 
+P. 5577. Egy gyűjtőlencse bal oldalára egy pontszerű tárgyat helyeztünk, amelyből kiinduló két sugarat ábrázoltunk a lencsén történő áthaladás után. Az egyik sugár éppen a lencse fókuszpontján halad át. Az ábra alapján szerkesszük meg (körzővel, vonalzóval) a fényforrás helyét! Írjuk le a szerkesztés lépéseit!
 
  Példatári feladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5577-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5577-fig1.gif)

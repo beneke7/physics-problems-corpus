@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201105"
 verification_status: pending
 ---
 
-a ) Two diffraction gratings are placed onto each other such that their slits are perpendicular to each other. Can light pass through them? 
- b ) Two perpendicular polarisers are placed onto each. Can light pass through them? 
- c ) What happens if a third polariser is placed between the two mentioned in question  b )? 
+a ) Two diffraction gratings are placed onto each other such that their slits are perpendicular to each other. Can light pass through them?
+ b ) Two perpendicular polarisers are placed onto each. Can light pass through them?
+ c ) What happens if a third polariser is placed between the two mentioned in question  b )?
  (4 pont)

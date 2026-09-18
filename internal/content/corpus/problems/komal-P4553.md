@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-The operation of a hot air balloon is to be modelled by a small candle and a light plastic bag. Estimate the minimum volume of the ascending bag which is in a room of temperature 20 $^\circ$C, if the average temperature of the air in the bag is 80 $^\circ$C, and the total mass of the candle, the bag and the other equipments is 12 grams. 
+The operation of a hot air balloon is to be modelled by a small candle and a light plastic bag. Estimate the minimum volume of the ascending bag which is in a room of temperature 20 $^\circ$C, if the average temperature of the air in the bag is 80 $^\circ$C, and the total mass of the candle, the bag and the other equipments is 12 grams.
  (4 pont)

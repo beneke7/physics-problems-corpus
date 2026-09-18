@@ -25,7 +25,7 @@ techniques: []
 
 A school bus breaks down and receives a push back to the garage from a small compact car as shown in the diagram.
 
-![A small car pushing a school bus along a road](../../sources/aupho/figures/aupho-2007-q3-fig1.png)
+![A small car pushing a school bus along a road](../../figures/aupho/figures/aupho-2007-q3-fig1.png)
 
 After the car reaches the constant cruising speed at which the driver wishes to push the bus;
 

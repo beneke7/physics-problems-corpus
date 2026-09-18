@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, graphical-reduction]
 ---
 
-We would like to enhance the efficiency of a rectangular solar PV panel with using two plane mirrors. The mirrors fit along the whole length of the two longer edges of the panel at a sort of optimal angle. Consider the situation when the incident solar rays are nearly perpendicular to the panel. Our aim is to achieve that all the rays coming from the Sun and reflected from the mirrors should fall onto the panel thus the illumination of the panel is doubled. 
- What should the optimal angle and the width of the mirrors be if the material used is to be minimum? 
+We would like to enhance the efficiency of a rectangular solar PV panel with using two plane mirrors. The mirrors fit along the whole length of the two longer edges of the panel at a sort of optimal angle. Consider the situation when the incident solar rays are nearly perpendicular to the panel. Our aim is to achieve that all the rays coming from the Sun and reflected from the mirrors should fall onto the panel thus the illumination of the panel is doubled.
+ What should the optimal angle and the width of the mirrors be if the material used is to be minimum?
  (5 pont)

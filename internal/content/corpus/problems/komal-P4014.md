@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-Heat is continuously added to a sample of air in a cylinder closed by a piston, and the air is expanding at constant pressure. What fraction of the added heat increases the internal energy of the air, and what fraction of the added heat is converted to work? 
+Heat is continuously added to a sample of air in a cylinder closed by a piston, and the air is expanding at constant pressure. What fraction of the added heat increases the internal energy of the air, and what fraction of the added heat is converted to work?
  (3 pont)

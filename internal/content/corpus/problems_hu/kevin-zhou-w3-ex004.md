@@ -41,7 +41,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        at a small angle θ to the horizontal, experiencing index of refraction n. Over a horizontal
        distance L, it goes up by a height Lθ. At this point, it will have a different angle θ′ to the
        horizontal, and experience index of refraction n + Lθ dn/dh. Snell’s law says
-                                                            
+
                                                          dn
                                         n cos θ = n + Lθ       cos θ′
                                                           dh
@@ -70,7 +70,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        H is the typical scale height of the atmosphere) are both of order 10−3 .
 
                                                      9
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
        Remark: Mirages
 

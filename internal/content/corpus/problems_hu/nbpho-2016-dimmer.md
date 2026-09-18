@@ -22,11 +22,11 @@ verification_status: pending
 
 A fénytörés szabályozására szolgáló fényerőszabályozó egy reosztátból, egy kondenzátorból, egy diacból és egy triacból áll, az alábbi kapcsolásban csatlakoztatva.
 
-![A fényerőszabályozó kapcsolása](../../sources/nbpho/figures/nbpho-2016-dimmer-fig1.png)
+![A fényerőszabályozó kapcsolása](../../figures/nbpho/figures/nbpho-2016-dimmer-fig1.png)
 
 A diac egy olyan alkatrész, amelynek viselkedését a fent látható feszültség-áram-karakterisztika határozza meg. A triac viszont egy áramvezérelt kapcsolóként gondolható el—nézd meg az alábbi ekvivalens sémát.
 
-![A triac ekvivalens kapcsolása](../../sources/nbpho/figures/nbpho-2016-dimmer-fig2.png)
+![A triac ekvivalens kapcsolása](../../figures/nbpho/figures/nbpho-2016-dimmer-fig2.png)
 
 A $K_{t}$ kapcsoló nyitott marad, amíg a triacon átfolyó áram az $I_{t}$ küszöb alatti marad; becsukódik, amikor a küszöb áram (bármely irányban) alkalmazva van, és nyitva marad, amíg áram folyik a $K_{t}$ kapcsolón keresztül (a kapu áram nem számít, amíg a kapcsoló újra megnyílik).
 
@@ -34,7 +34,7 @@ A $K_{t}$ kapcsoló nyitott marad, amíg a triacon átfolyó áram az $I_{t}$ k�
 
 **ii)** *(2 pont)* Milyen egyenlőtlenségnek kell teljesülnie a diac karakterisztikus feszültségei $U_{b}$ és $U_{d}$, a triac küszöb árama $I_{t}$ és kapufelületi ellenállása $R_{t}$ között annak érdekében, hogy amikor a diac elkezd vezetni (amíg a kondenzátor feszültsége nő), a triac is azonnal vezetni kezdjen? Feltételezheted, hogy $I_{b}<I_{t}$ és hogy a diac feszültsége az $I_{t}$ áram mellett $U_{d}$.
 
-![A lámpa feszültsége](../../sources/nbpho/figures/nbpho-2016-dimmer-fig3.png)
+![A lámpa feszültsége](../../figures/nbpho/figures/nbpho-2016-dimmer-fig3.png)
 
 **iii)** *(2 pont)* A lámpa $U_{l}$ feszültsége az alábbi grafikonnak felel meg. Feltételezzük, hogy az i) rész feltételei és a ii) rész egyenlőtlensége érvényesülnek. Határozd meg a $t_{0}$ időtartamot, amelyben a lámpa feszültsége nulla.
 

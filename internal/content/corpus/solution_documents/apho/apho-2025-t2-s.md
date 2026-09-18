@@ -93,7 +93,8 @@ from which we deduce                                        Grading note 2: If m
                         L
 
                                                         1
-                                                                                            #    $    #    $
+
+                                                                                            #    $    #    $
 Part B. Spin waves (4.5 points)                                  Using sin(A)+sin(B) = 2 sin A+B
                                                                                               2    cos A→B
                                                                                                         2    , we get
@@ -175,7 +176,8 @@ Where φS is the amplitude. This yields                            wave vector
                          ↓ sin(kx ↓ εt + ka)] .                   Total                                             0.6
 
                                                              2
-Grading notes: If the student did not find the correct              In this case, the probability to find a spin up state of
+
+Grading notes: If the student did not find the correct              In this case, the probability to find a spin up state of
 ε(k), but states that a massive particle has energy                 energy ↼↑ = ↓hs↑ = ↓h is
 E = p2 /2m, then give 0.1 points (with a max of 0.3
 given both de Broglie relations).                                                         p↑ ≃ eh/kB T .
@@ -255,7 +257,8 @@ given state with energy ↼i is                                        Normaliza
                               kB T                                   Total                                           1.0
 
                                                                 3
-Grading note 1: For a sketch to be correct, it has to                                ˜ B.
+
+Grading note 1: For a sketch to be correct, it has to                                ˜ B.
                                                                      leading to Tc = J/k
 include labels of both axes and has intercept at (0, 0).
 For ho ⇐ kB T , s̄ has to approach ±1 quickly. For
@@ -348,7 +351,8 @@ s̄:                                                                            
                                 k B Tc
 
                                                                  4
-                                                          Grading note 1 :The vertical slope at Tc has to be very
+
+                                                          Grading note 1 :The vertical slope at Tc has to be very
                                                           clear. It is an important physical signature of phase
                                                           transitions, so the student has to emphasize it in the
                                                           sketch to receive credit for it.

@@ -53,7 +53,9 @@ Section A: Digging Disaster (18 marks)
  determining the cost and comparison o the two amounts.
 
  Total                                                                          3.0
-Section B: Slithering Snake (31 marks)
+
+
+Section B: Slithering Snake (31 marks)
   1. Answer: 0.069 kgm/s
      At t = 4 s, length of snake which has risen L = vt. Linear mass density λ = m/L. At t
                                                             rise
@@ -89,7 +91,9 @@ Constant value after t = 0 s that is higher than t = 0 s value          +2.0
 Correct value of mg = 9.80 N or 1.0 kg before t = 0 s                   +0.5
 Correct value of mg + mv2/L = 9.82 N or 1.0025 kg after t = 0 s         +0.5
 Total                                                                   4.0
-    3. Answer:
+
+
+    3. Answer:
 
 
 
@@ -122,7 +126,9 @@ Total time for one closing-opening cycle = 0.68 s + 0.68 s = 1.36 s
  Correct closing/opening phase time                                                     +0.5
  Total time                                                                             +0.5
  Total                                                                                  4.0
-    5. Answer:
+
+
+    5. Answer:
 
  Correct explanation in terms of Newton’s Third Law                                +1.0
  Correct explanation in terms of conservation of momentum                          +1.0
@@ -140,7 +146,9 @@ when considering all four diagrams.
  Closing / opening force in correct direction                                       +0.25
  Magnitude of closing / opening force is larger than magnitude of friction          +0.25
  Total                                                                              1.0×4 = 4.0
-    7. Answer:
+
+
+    7. Answer:
 Closing phase:
 Sum of horizontal forces on rear mass: mar = Fc - μfmg = → ar = Fc / m - μfg
 Sum of horizontal forces on front mass: maf = μbmg - Fc → af = μbg - Fc / m
@@ -189,7 +197,9 @@ Total distance that rear mass moves = Total distance which centre moves forward 
  During the opening phase, the rear mass will stay in place while the front mass is      +1.0
  pushed forward
  Total                                                                                   2.0
-Section C: Violin Vibrations (32 marks)
+
+
+Section C: Violin Vibrations (32 marks)
   1. Answer: 400Hz (1 mark)
   2. Answer:
 
@@ -210,7 +220,9 @@ Total distance that rear mass moves = Total distance which centre moves forward 
       Only 1 mark if wrong units
       Shape not periodic                                                 -1.0
       Total                                                              7.0
-   3. Solution:
+
+
+   3. Solution:
 
 
 
@@ -244,7 +256,9 @@ b = -½
 
         Three correct points                                  2.0/2.0
         Only one or two correct points                        1.0/2.0
-    6. Solution:
+
+
+    6. Solution:
 
 A: 4f_open
 B: 3f_open
@@ -282,7 +296,9 @@ f(N) = 106.2 Hz
          Correct 4 s.f.                                                       +1.0
          Correct equation                                                     +1.0
          Total – note, zero marks awarded if assumed to be linear             5.0
-Section D: Reflection Replicas (5 marks)
+
+
+Section D: Reflection Replicas (5 marks)
 
     1. Solution:
 
@@ -306,7 +322,9 @@ each other, creating the three reflections seen in the photo.
              • -0.5 light transmitted through metal surface
          Explanation                                                              +2.0
          Total                                                                    5.0
-I
+
+
+I
 
 
 
@@ -337,7 +355,9 @@ Section E: Twisting Torques and Leaning Lego (24 marks)
         mark correct diagram (agrees with torque and force answer)                +0.5
         mark diagram labels                                                       +0.5
         Total                                                                     2.0
-    3. Solution:
+
+
+    3. Solution:
 
 
 
@@ -361,7 +381,9 @@ biggest cumulative moment/torque is experienced at the end.
          Assuming that the same friction force exists between each brick           +1.0
          The biggest cumulative moment/torque is experienced at the end.           +1.0
          Total                                                                     3.0
-    5. Solution:
+
+
+    5. Solution:
 
 n = number of blocks, L_0 = length of one Lego brick (base to base of studs), h = height of Lego brick
 (long dimension), M = mass of tower, g = 9.81 m/s2, L = length from wall to CoM = L_0*n/2

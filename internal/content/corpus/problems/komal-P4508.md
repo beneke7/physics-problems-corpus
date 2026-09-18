@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: pending
 ---
 
-The average speed of the tourists when they walk from the shelter house to the hilltop was 1.5 km/h, whilst on the way back it was 3.5  km/h. The average speed for the whole distance from the shelter house back to the shelter house was 2 km/h. What fraction of the total time of the excursion did the tourist spend on the hilltop having a rest? 
+The average speed of the tourists when they walk from the shelter house to the hilltop was 1.5 km/h, whilst on the way back it was 3.5  km/h. The average speed for the whole distance from the shelter house back to the shelter house was 2 km/h. What fraction of the total time of the excursion did the tourist spend on the hilltop having a rest?
  (3 pont)

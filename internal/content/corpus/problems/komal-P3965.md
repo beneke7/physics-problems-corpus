@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-From the top of a rough sphere of radius R a small ball of radius r and of mass m rolls down with no initial speed. Where will the ball begin to slide and what is the frictional force at the moment when it begins to slide if R =1 m, r =0.1 m, m =15 kg, and the coefficient of static friction is = $_{0}$=0.2? 
+From the top of a rough sphere of radius R a small ball of radius r and of mass m rolls down with no initial speed. Where will the ball begin to slide and what is the frictional force at the moment when it begins to slide if R =1 m, r =0.1 m, m =15 kg, and the coefficient of static friction is = $_{0}$=0.2?
  (5 pont)

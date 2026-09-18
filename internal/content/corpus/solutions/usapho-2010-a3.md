@@ -45,10 +45,10 @@ mol·K
 c. During an adiabatic process, PV γ is conserved. Combining this with the ideal gas law, TV γ−1
 is conserved. Therefore, the temperature after process B is
 T2 = T0
-
+
 V1
 V
-γ−1
+ γ−1
 where V1 is the volume after process A. Using the ideal gas law,
 V0 =
 nRT0
@@ -76,10 +76,10 @@ V = 15.0 L = 15.0 L ·
 V0 = 0.0123 m3
 and plugging in gives
 T2 = 298 K
-
+
 0.0123
 0.0150
-2
+ 2
 5
 = 275 K
 where we used γ = Cp/Cv = 7/5.

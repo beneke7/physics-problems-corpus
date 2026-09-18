@@ -21,4 +21,4 @@ A lamp is attached to the edge of a disk, which moves (slides) rotating on ice. 
 i) Mark on the figure by numbers (1-4) the order of the pulses (dots). Motivate your answer. What can be said about the value of the exposure time?
 ii) Using the provided figure, find the radius of the disk $R$, the velocity of the center of the disk $v$ and the angular velocity $\omega$ (it is known that $\omega<30 \mathrm{rad} / \mathrm{s}$ ). The scale of the figure is provided by the image of a line of length $l=10 \mathrm{~cm}$;
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr54-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr54-fig1.jpg)

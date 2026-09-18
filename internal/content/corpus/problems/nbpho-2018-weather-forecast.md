@@ -33,6 +33,6 @@ The map shown on a separate page shows isobars at a constant height close to sea
 
 **Hint.** When an object of mass $m$ (for example a slab of air) is moving with velocity $v$ in a frame of reference rotating with angular velocity $\Omega$, it feels a fictitious force called the Coriolis force given by $F_{C}/m = 2v\Omega \sin \varphi$, where the angle $\varphi$ and the directions are indicated in the figure below.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-weather-forecast-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-weather-forecast-fig1.jpg)
 
-![figure](../../sources/nbpho/figures/nbpho-2018-weather-forecast-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-weather-forecast-fig2.jpg)

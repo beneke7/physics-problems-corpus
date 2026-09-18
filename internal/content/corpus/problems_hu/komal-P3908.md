@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3908. A napkohó egy óriási homorú gömbtükör, amelyet állandóan a Nap felé fordítanak. A tükör fókuszában helyezik el a felolvasztandó fémet. 
- Legfeljebb mekkora lehet a napkohó hőmérséklete a fókuszpontban? 
+P. 3908. A napkohó egy óriási homorú gömbtükör, amelyet állandóan a Nap felé fordítanak. A tükör fókuszában helyezik el a felolvasztandó fémet.
+ Legfeljebb mekkora lehet a napkohó hőmérséklete a fókuszpontban?
  Vermes Miklós fizikaverseny, Sopron

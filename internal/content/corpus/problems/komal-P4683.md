@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201412"
 verification_status: pending
 ---
 
-There are a lot of alike $100~\Omega$ resistance resistors in the lab. Two of them are connected in series to a 120 V voltage supply. How many resistors are to be connected in parallel to one of the resistors, in order that the power dissipated at the other reaches the value of 100 W? 
+There are a lot of alike $100~\Omega$ resistance resistors in the lab. Two of them are connected in series to a 120 V voltage supply. How many resistors are to be connected in parallel to one of the resistors, in order that the power dissipated at the other reaches the value of 100 W?
  (3 pont)

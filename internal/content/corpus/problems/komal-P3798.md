@@ -22,16 +22,16 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A 0.8 m long rod joins to a vertical axle with a bearing at its middle. The rod has negligible mass and it is frictionless. We thread point-like pierced balls of masses of 200 g on both of its ends. The two balls positioned symmetrically on both sides of the axis are linked with a thin thread of a length of 0.2 m. At the ends of the rod there are non-elastic bumpers. We spin this system with an angular velocity of 2 s$^{-1}$ and then we burn the thread. 
+A 0.8 m long rod joins to a vertical axle with a bearing at its middle. The rod has negligible mass and it is frictionless. We thread point-like pierced balls of masses of 200 g on both of its ends. The two balls positioned symmetrically on both sides of the axis are linked with a thin thread of a length of 0.2 m. At the ends of the rod there are non-elastic bumpers. We spin this system with an angular velocity of 2 s$^{-1}$ and then we burn the thread.
 
- a ) What path do the balls follow? 
+ a ) What path do the balls follow?
 
- b ) How much does the rod turn in 1 s after burning the fibre. 
+ b ) How much does the rod turn in 1 s after burning the fibre.
 
- c ) In what time does the rod turn by an angle of 180$^\circ$? 
+ c ) In what time does the rod turn by an angle of 180$^\circ$?
 
- d ) What distance is done by the balls during the half turn of the rod? 
+ d ) What distance is done by the balls during the half turn of the rod?
 
- e ) What percentage is the mechanical loss? 
+ e ) What percentage is the mechanical loss?
 
  (5 pont)

@@ -27,7 +27,7 @@ exploration, the rover must avoid getting stuck in the sand dunes of Mars.
 
 
      Fig. 1. (a) Artist's view of Spirit. (b) Landing site of the rover on Mars. The scale bar represents
-      N.
+         N.
 
 The problem has two independent parts A (crater formation) and B (sand trapping) that can be treated
 in any order. The list of equipment is given below and illustrated in Fig. 2.
@@ -41,7 +41,7 @@ in any order. The list of equipment is given below and illustrated in Fig. 2.
    • (f) Holding device consisting of a wooden tray with rubber feet (f1), a vertical rod (f4), clamping screw
      (f2) and horizontal rod (f3). The different elements must be assembled as shown in the photo (f).
    • (g) Sieve, used to find the small ball if it gets lost in the sand.
-   • (h) Aluminium rail,  N long.
+   • (h) Aluminium rail,   N long.
    • (i) Brush to clean the rail and balls of sand if necessary.
    • (j) Wooden track.
    • (k) Chronometer.
@@ -49,7 +49,9 @@ in any order. The list of equipment is given below and illustrated in Fig. 2.
    • (m) Funnel to help to put the sand back into the box at the end.
    • (n) Spoon.
    • (o) Ruler.
-                                                     Q2-2
+
+
+                                                     Q2-2
 Experiment
 
 
@@ -60,7 +62,9 @@ Experiment
 
 
              Fig. 2. Photographs of all equipment.
-                                                                              Q2-3
+
+
+                                                                              Q2-3
 Experiment
 
 
@@ -68,7 +72,7 @@ Experiment
                                                                                          English (Official)
 
 A. Impact craters
-Craters on Mars, whose diameter ‫ ܝ‬varies from about  N to several hundreds of km, result from the
+Craters on Mars, whose diameter ‫ ܝ‬varies from about    N to several hundreds of km, result from the
 impact of meteorites. Different models predict how ‫ ܝ‬depends on the impact parameters: impactor
 diameter ܷ, energy ‫( ܞ‬Fig. 3).
 
@@ -81,32 +85,34 @@ diameter ܷ, energy ‫( ܞ‬Fig. 3).
 Model 1: ‫ ܝ‬depends only on the impactor diameter ܷ
 
 
-                                                 ‫ܶ  ܝ‬ҧ ܷ                                               (1)
+                                                 ‫ܶ   ܝ‬ҧ ܷ                                               (1)
 
 where ܶҧ is a dimensionless number independent of ‫ ܞ‬and ܷ.
 Model 2: the meteorite energy ‫ ܞ‬is converted through volumic processes during the impact. This model
 predicts that ‫ ܝ‬is proportional to ‫ ܞ‬ҧ֤ҩ
 
 
-                                                ‫ܶ  ܝ‬Ҩ ‫ ܞ‬ҧ֤ҩ                                            (2)
+                                                ‫ܶ   ܝ‬Ҩ ‫ ܞ‬ҧ֤ҩ                                            (2)
 
 where ܶҨ is a parameter independent of ‫ ܞ‬and ܷ.
 Model 3: ‫ ܞ‬is used to eject material outside the crater. Under this assumption
 
 
-                                                ‫ܶ  ܝ‬ҩ ‫ ܞ‬ҧ֤Ҫ                                            (3)
+                                                ‫ܶ   ܝ‬ҩ ‫ ܞ‬ҧ֤Ҫ                                            (3)
 
 where ܶҩ is a parameter independent of ‫ ܞ‬and ܷ.
 Here, we perform experiments on crater formation at a centimeter scale to compare the three models.
-Steel balls of different diameters ܷ and masses ܿ, with a density ধԾ  Õ n ҩ LH ȴ N֟ҩ (item (d) of the
+Steel balls of different diameters ܷ and masses ܿ, with a density ধԾ   Õ    n   ҩ LH ȴ N֟ҩ (item (d) of the
 equipment list), act as the meteorites.
 
 
-                               Ball #1         ܷҧ   NN     ܿҧ   H
-                               Ball #2         ܷҨ   NN     ܿҨ   H
-                               Ball #3         ܷҩ   NN     ܿҩ   H
-                               Ball #4         ܷҪ   NN    ܿҪ   H
-                                                                                  Q2-4
+                               Ball #1         ܷҧ       NN     ܿҧ         H
+                               Ball #2         ܷҨ       NN     ܿҨ        H
+                               Ball #3         ܷҩ       NN     ܿҩ       H
+                               Ball #4         ܷҪ        NN    ܿҪ      H
+
+
+                                                                                  Q2-4
 Experiment
 
 
@@ -125,7 +131,7 @@ to measure the drop height ÷ above the surface, which will be measured using th
                                 Fig. 4. Crater formation experimental setup.
 
 
-Drop ball #3 from a height ÷   DN and measure the diameter ‫ ܝ‬of the crater formed. Repeat the
+Drop ball #3 from a height ÷      DN and measure the diameter ‫ ܝ‬of the crater formed. Repeat the
 experiment 5 times. After each impact, mix the sand with the spoon (n), and level it carefully with the
 edge of ruler (o). Avoid compacting the sand! If needed, use the sieve (g) to find the ball if it gets lost in
 the sand.
@@ -150,12 +156,14 @@ SOLUTION:
 
 During the fall, the air drag force is
 
-                                                   
-                                                ‫  ܟ‬দܷҨ ধҦ ‫ܜ‬Օ ݈ Ҩ                                             (4)
-                                                   
 
-where ݈ is the ball velocity, ধҦ ƴ  LH ȴ N֟ҩ is the air density and ‫ܜ‬Օ is a dimensionless coefficient of order
-                                                                             Q2-5
+                                                ‫   ܟ‬দܷҨ ধҦ ‫ܜ‬Օ ݈ Ҩ                                             (4)
+
+
+where ݈ is the ball velocity, ধҦ ƴ     LH ȴ N֟ҩ is the air density and ‫ܜ‬Օ is a dimensionless coefficient of order
+
+
+                                                                             Q2-5
 Experiment
 
 
@@ -171,15 +179,15 @@ the fall.
             culate ÷NBY numerically for the four available balls.
 
 SOLUTION:
-If the friction with air in neglected, the maximum speed writes ݈max  ƍܺ÷ and the corresponding air
-friction is ‫  ܟ‬ҧҮ দܷҨ ধҦ ‫ܜ‬Օ  ܺ÷ . If we want ‫ ܺܿ  ܟ‬then we obtain
-                                      ÷   Ҩҩ ֆֆٞ Ԧҧ ܷ
+If the friction with air in neglected, the maximum speed writes ݈max   ƍ ܺ÷ and the corresponding air
+friction is ‫   ܟ‬ҧҮ দܷҨ ধҦ ‫ܜ‬Օ    ܺ÷ . If we want ‫    ܺܿ   ܟ‬then we obtain
+                                      ÷       Ҩҩ ֆֆٞ Ԧҧ ܷ
                                                   ‫׆‬   ‫ٵ‬
 
 
 
 
-                       A2(1) : ÷NBY   Ҩҩ ֆֆٞ Ԧҧ ܷ or any equivalent    0.4pt
+                       A2(1) : ÷NBY       Ҩҩ ֆֆٞ Ԧҧ ܷ or any equivalent    0.4pt
                                                ‫ٵ ׆‬
                        formula involving other variables.
                        A2(2) : 4 values for hmax = (0.9m ; 2m ; 4m ; 7m)   0.1pt
@@ -188,7 +196,7 @@ friction is ‫  ܟ‬ҧҮ দܷҨ ধҦ ‫ܜ‬Օ  ܺ÷ . If we want ‫ 
 Investigate the relationship between ‫ ܝ‬and ‫ ܞ‬experimentally in order to compare the three power laws
 presented in the introduction. Find out if the exponent changes across the range of energies tested. To
 achieve this, take a series of measurements by dropping the balls from different heights. A wide range
-of energies must be covered. The balls can be dropped from heights of up to ÷   N in order to reach
+of energies must be covered. The balls can be dropped from heights of up to ÷     N in order to reach
 high values of ‫ ܞ‬while respecting the condition established in A.2. For each set of parameters, repeat
 the experiment only twice, and compute the mean value ‫ܝ‬.
 
@@ -200,7 +208,7 @@ In order to cover a wide range of impact energies, we will release the small bal
 (h=10cm) and the big ball from height up to 2m (no need to drop the small ball from high). A key point
 is to reform the sand after each impact. If not, the sand becomes harder and the craters will be smaller.
 The energy E=mgh varies from 3E-5 J (ball #1, h=10cm) up to 0.4J (ball #4, h=2m).
-The expected values established by pre-IPhO experiments follow ‫ ÷ܿ   ܝ‬Ҧ֛Ҩҫ where ‫ ܝ‬is in mm, ܿ is
+The expected values established by pre-IPhO experiments follow ‫ ÷ܿ        ܝ‬Ҧ֛Ҩҫ where ‫ ܝ‬is in mm, ܿ is
 in g and ÷ in cm.
 
 
@@ -211,7 +219,9 @@ in g and ÷ in cm.
            A3(5) : 2 decades for E (with 2 points/decade)                               0.2pt
            A3(6) : 3 decades for E (with 2 points/decade)                               0.2pt
            A3(7) : more than 3,5 decades for E                                          0.2pt
-                                                                              Q2-6
+
+
+                                                                              Q2-6
 Experiment
 
 
@@ -235,7 +245,9 @@ SOLUTION:
          A4(5) : two points of the graph in coherence with the values in A3           0.2pt
          A4(6) : points form a straight line                                          0.2pt
          A4(7) : slope mesured and conclusion 1/4                                     0.2pt
-                                                                                   Q2-7
+
+
+                                                                                   Q2-7
 Experiment
 
 
@@ -256,13 +268,13 @@ slowed down on a bed of sand.
 
 Ball motion along the rail
 Ball #4 is released with no initial speed from an arbitrary point on the rail (h), chosen as the origin of the
-݊-axis ( ݊   ) (Fig. 5). Let ݊ ݆ denote the position of the ball along the rail. The moment of inertia of a
-ball of mass ܿ and diameter ܷ with respect to an axis passing through it center is given by ‫ܷܿ  ܣ‬Ҩ .
+݊-axis ( ݊     ) (Fig. 5). Let ݊ ݆ denote the position of the ball along the rail. The moment of inertia of a
+ball of mass ܿ and diameter ܷ with respect to an axis passing through it center is given by ‫ܷܿ   ܣ‬Ҩ    .
 The kinetic energy ‫ ܤ‬of a ball moving at speed ݈ while rotating at angular speed য is
 
-                                                                    Ҩ
-                                                  ‫ ݈ܿ  ܤ‬Ҩ            ‫ܣ‬য                                    (5)
-                                                                   
+                                                                      Ҩ
+                                                  ‫ ݈ܿ   ܤ‬Ҩ            ‫ܣ‬য                                     (5)
+
 
 We assume that the ball rolls on the rail without slipping and neglect any energy dissipation.
 
@@ -270,27 +282,29 @@ We assume that the ball rolls on the rail without slipping and neglect any energ
              of gravity ܺ.
 
 SOLUTION:
-Energy theorem (no dissipation) together with the kinematic relation ݈  য‫ ܫ‬give a rapid answer.
-ܷ‫  ݆ܷ ܤ‬ƅ݈ܿܺ TJO ঞ leads to ݊ ݆  ҧ֞ ҧ‫  ٍ׊‬ҧҨ ܺ TJO ঞ݆ Ҩ . Because of rolling, the ball is 5/7 slower than an
+Energy theorem (no dissipation) together with the kinematic relation ݈   য‫ ܫ‬give a rapid answer.
+ܷ‫   ݆ܷ  ܤ‬ƅ݈ܿܺ TJO ঞ leads to ݊ ݆   ҧ֞ ҧ‫   ٍ׊‬ҧҨ ܺ TJO ঞ݆ Ҩ . Because of rolling, the ball is 5/7 slower than an
                                           ٪١‫׈‬
 hypothetic material point.
 
 
-                        B1(1) : ݊ ݆  ҧ֞ ҧ‫ٍ׊‬    ҧ
+                        B1(1) : ݊ ݆   ҧ֞ ҧ‫ٍ׊‬    ҧ
                                                 Ҩ
-                                                  ܺ TJO ঞ݆ Ҩ  ҫҭ ҧҨ ܺ TJO ঞ݆ Ҩ   0.4pt
+                                                  ܺ TJO ঞ݆ Ҩ   ҫҭ ҧҨ ܺ TJO ঞ݆ Ҩ   0.4pt
                                          ٪١‫׈‬
 
 
 
 
 One end of the rail (h) rests on the edge of the wooden track (j), which is at this point empty of sand. The
-other end of the rail is supported by the stand (f) in such a way that it forms an angle of inclination ঞ  j
+other end of the rail is supported by the stand (f) in such a way that it forms an angle of inclination ঞ    j
 with the horizontal. Make sure to perform this adjustment carefully. The rail is secured in place (on both
 sides) using adhesive putty (l).
-Use a chronometer (k) to measure the time ݆ҫҦ taken by the ball to travel a distance ܾ   DN along the
+Use a chronometer (k) to measure the time ݆ҫҦ taken by the ball to travel a distance ܾ      DN along the
 rail.
-                                                                                   Q2-8
+
+
+                                                                                   Q2-8
 Experiment
 
 
@@ -307,7 +321,7 @@ SOLUTION:
           ݆ҫҦ (s)           1.28          1.35              1.39            1.32          1.33
 
 
-                                                 ݆ҫҦ   k  ݅
+                                                 ݆ҫҦ        k      ݅
 
 
                     B2(1) : 1mesure of ݆ҫҦ between 1.2s and 1.4s                        0.2pt
@@ -339,7 +353,7 @@ reproducible.
 
 
              B3(1) : measures of t with uncertainty for 4 different values of ü                 0.3pt
-             (]݆ ƅ ݆ՑՅ ]   n ݆ՑՅ )
+             (]݆ ƅ ݆ՑՅ ]       n ݆ՑՅ )
              B3(2) : 4 more measures of t                                                       0.3pt
              B3(3) : ü goes from 10cm up to 90cm                                                0.2pt
 
@@ -348,7 +362,9 @@ reproducible.
                Deduce an experimental estimate of the constant ܺ with its uncertainty.
 
 SOLUTION:
-                                                                                  Q2-9
+
+
+                                                                                  Q2-9
 Experiment
 
 
@@ -365,7 +381,9 @@ The slope is ҧҪ
                 ܺ TJO ঞ. We find g=(9k1)ms֟Ҩ . This value is very sensitive to an error on the slope of the rail.
 An error of 1° (out of 5°) leads to an error of 2ms֟Ҩ on the value of g
 One can also plot ƍü as a function of ݆ to detect a systematic shift error on ݆.
-                                                                             Q2-10
+
+
+                                                                             Q2-10
 Experiment
 
 
@@ -395,9 +413,9 @@ travelling a distance ‫ ܥ‬as defined in Fig. 6.
 
 It is thus slowed down by a drag force ‫ ܭ‬which may have two possible origins:
    • Model #1 (solid friction): as between two solids in relative motion, the sand exerts on the ball a
-     constant drag force ‫  ܭ‬ƅঢeff ܿܺ , where ঢeff is the effective drag coefficient of the ball-sand contact
+     constant drag force ‫   ܭ‬ƅঢeff ܿܺ , where ঢeff is the effective drag coefficient of the ball-sand contact
      and ܿ is the mass of the ball.
-   • Model #2 (fluid drag): the drag force depends linearly on the ball velocity, ‫  ܭ‬ƅ݈ܽ where ܽ is a
+   • Model #2 (fluid drag): the drag force depends linearly on the ball velocity, ‫   ܭ‬ƅ݈ܽ where ܽ is a
      constant and ݈ the norm of the velocity.
 
 The goal here is to determine which proposition best describes the observed braking behavior.
@@ -411,11 +429,11 @@ a power law of the form ‫ ܥ‬ƭ üն in which the exponent গ takes two dif
              of গ.
 
 SOLUTION:
-Energy considerations for model #1 are straightforward : ܿܺ÷  ঢFGG ܿܺ‫ ܥ‬wich lead to
-‫  ܥ‬TJO ঞঢFGG ü ҧҨ ݈ܿҦ
+Energy considerations for model #1 are straightforward : ܿܺ÷   ঢFGG ܿܺ‫ ܥ‬wich lead to
+‫   ܥ‬TJO ঞ ঢFGG ü ҧҨ ݈ܿҦ
                       Ҩ
                                    where ::
-                         ঢFGG ܿܺ‫ܥ‬:::::::
+                          ঢFGG ܿܺ‫ܥ‬:::::::
                  ::::::::::::::
                                              is::::
                                           ݈Ҧ::  the ::::::
@@ -425,63 +443,65 @@ Energy considerations for model #1 are straightforward : ܿܺ÷  ঢFGG ܿܺ‫
                                                                          sand.:::::
                                                                                This::::::
                                                                                     leads ::
-                                                                                          to ‫  ܥ‬ҭҫ
-                                                                                                    TJO ঞঢFGG ü and
+                                                                                          to ‫   ܥ‬ҭҫ
+                                                                                                    TJO ঞ ঢFGG ü and
                                                                                              ::::::::::::::::
-then গ  .
+then গ    .
 Some more calculus are needed for suggestion #2 : we must solve the differential equation for v(t) and
-we find ݈ ݆  ݈Ҧ FYQ ƅ݆প where প  ܿܽ and ݈Ҧ  ҫҭ ƍܺü TJO ঞ݈Ҧ  Ͼ ҫҭ ƍܺü TJO ঞ. An integration gives
+we find ݈ ݆   ݈Ҧ FYQ ƅ݆ প where প   ܿ ܽ and ݈Ҧ   ҫҭ ƍ ܺü TJO ঞ݈Ҧ   Ͼ ҫҭ ƍ ܺü TJO ঞ. An integration gives
                                                               ::::::::::::::::
-                                                                               Q2-11
+
+
+                                                                               Q2-11
 Experiment
 
 
 
                                                                                                English (Official)
 
-݊ ݆  ݈Ҧ প  ƅ FYQ ƅ݆প with tends to
+݊ ݆   ݈Ҧ প   ƅ FYQ ƅ݆ প with tends to
 
-‫  ܥ‬ҫҭ Պ
+‫   ܥ‬ҫҭ Պ
        Ոƍ
-          ܺ TJO ঞƍü ‫  ܥ‬Ͼ ҫҭ Պ ƍܺ TJO ঞƍü:and গ  .
+           ܺ TJO ঞƍü ‫   ܥ‬Ͼ ҫҭ Պ ƍ ܺ TJO ঞƍü:and গ      .
                      :::::::::::::::::::
                               Ո
 
 
 
-                  B5(1) : model #1: ‫  ܥ‬ҭ  ҫ
+                  B5(1) : model #1: ‫   ܥ‬ҭ  ҫ
                                                            The :::::::
-                                             TJO ঞঢFGG ü. ::::
+                                             TJO ঞ ঢFGG ü. ::::
                                        :::::::::::::::
                                                                 answer                 0.1pt
-                  ‫  ܥ‬TJO ঞঢFGG ü will also be  accepted.
+                  ‫   ܥ‬TJO ঞ ঢFGG ü will also be  accepted.
                                    ::::::::::::::::::::
 
-                  B5(2) : model #1: গ                                                0.1pt
-                  B5(3) : model #2: ‫  ܥ‬ҭҫ Պ
+                  B5(2) : model #1: গ                                                  0.1pt
+                  B5(3) : model #2: ‫   ܥ‬ҭҫ Պ
                                            Ոƍ
-                                              ܺ TJO ঞƍü‫  ܥ‬Պ  ҫ
+                                               ܺ TJO ঞƍü‫   ܥ‬Պ  ҫ
                                                             Ո Ͼҭƍ
-                                                                  ܺ TJO ঞƍü.
+                                                                   ܺ TJO ঞƍü.
                                                         ::::::::::::::::::::
                                                                                        0.3pt
-                  The answer ‫  ܥ‬Պ
+                  The answer ‫   ܥ‬Պ
                                  Ոƍ
-                                    ܺ TJO ঞƍü will also be accepted.
-                  B5(4) : model #2: গ                                              0.1pt
+                                     ܺ TJO ঞƍü will also be accepted.
+                  B5(4) : model #2: গ                                                  0.1pt
 
 
 
 
 Place the wooden track (j) on a sheet of paper. Fill the track with sand and prepare a uniform layer by
 carefully scraping the surface with the ruler. Avoid compacting the sand! Adjust again carefully the angle
-of the rail to ঞ  j. Release ball #4 (ܷҪ   NN) on the inclined rail so that the distance travelled on the
-rail is ܾ   DN.
+of the rail to ঞ    j. Release ball #4 (ܷҪ        NN) on the inclined rail so that the distance travelled on the
+rail is ܾ      DN.
 
 
-%HIRUH HDFK UXQ VWLU WKH VDQG UHȴOO WKH WUDFN DQG VFUDSH WKH VXUIDFH DJDLQ &OHDQ WKH UDLO DQG WKH EDOO IURP
-VDQG E\ XVLQJ WKH EUXVK i  \$W WKH HQG RI WKH H[SHULPHQW XVH WKH VKHHW RI SDSHU DV D IXQQHO WR SXW WKH VDQG LQ
-H[FHVV EDFN LQ WKH ERWWOH
+%HIRUH HDFK UXQ  VWLU WKH VDQG  UHȴOO WKH WUDFN DQG VFUDSH WKH VXUIDFH DJDLQ  &OHDQ WKH UDLO DQG WKH EDOO IURP
+VDQG E\ XVLQJ WKH EUXVK i   \$W WKH HQG RI WKH H[SHULPHQW  XVH WKH VKHHW RI SDSHU DV D IXQQHO WR SXW WKH VDQG LQ
+H[FHVV EDFN LQ WKH ERWWOH
 
      B.6     Measure the distance ‫ܥ‬ҫҦ travelled in the sand until the ball comes to a stop.            0.8pt
              Perform several measurements (at least 5) to determine ‫ܥ‬ҫҦ along with its unit
@@ -495,14 +515,16 @@ track.
                          ‫ܥ‬ҫҦ (cm)         7.0       6.7      5.8         6.7   6.1
 
 
-                                        ‫ܥ‬ҫҦ   k  cm
+                                        ‫ܥ‬ҫҦ       k     cm
 
 
                   B6(1) : 3 measures of ‫ܥ‬ҫҦ between 5,5cm and 7,5cm.                   0.4pt
                   B6(2) : 2 more measures between 5,5cm and 7,5cm                      0.2pt
                   B6(3) : mean value of ‫ܥ‬ҫҦ between 5.8cm and 7.2cm                    0.1pt
                   B6(4) : uncertainty on ‫ܥ‬ҫҦ between 0.2cm and 1.0cm                   0.1pt
-                                                                         Q2-12
+
+
+                                                                         Q2-12
 Experiment
 
 
@@ -510,7 +532,7 @@ Experiment
                                                                                           English (Official)
 
 
-    B.7     After several measurements for at least 8 values of ü (keeping ঞ  j), plot ‫ ܥ‬with   1.5pt
+    B.7     After several measurements for at least 8 values of ü (keeping ঞ    j), plot ‫ ܥ‬with   1.5pt
             its error bars as a function of ü and conclude which model best describes the
             drag force ‫ ܭ‬.
 
@@ -531,22 +553,24 @@ The point are compatible with a straight line and a "solid-like" friction model 
            B7(6) : more than 5,5 points on the graph                                      0.2pt
            B7(7) : error bars between k0.5cm and k1cm for L                               0.1pt
            B7(8) : a linear law is ploted, and compatible with the points.                0.2pt
-           B7(9) : conclusion গ   and "solid-like" friction in sand.                    0.2pt
+           B7(9) : conclusion গ     and "solid-like" friction in sand.                    0.2pt
 
 
     B.8     Based on the chosen model, specify the value of the coefficient ঢeff or ܽ that        0.2pt
             characterizes the force ‫ ܭ‬.
 
 SOLUTION:
-                                                         Q2-13
+
+
+                                                         Q2-13
 Experiment
 
 
 
                                                                   English (Official)
 
-The relation is ‫  ܥ‬TJO ঞঢeff ü
-                                      ঢeff   k 
+The relation is ‫   ܥ‬TJO ঞ ঢeff ü
+                                      ঢeff       k
 
 
                   B8(1) : ঢeff between 0.6 and 1.0        0.2pt

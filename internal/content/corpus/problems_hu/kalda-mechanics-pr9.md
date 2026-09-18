@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy könnyű drótot derékszögben meghajlítunk, a hajlítási pontra pedig nehéz golyót erősítünk. A drótot olyan támaszokra helyezzük, amelyek magasságkülönbsége $h$, vízszintes távolságuk pedig $a$. Határozzuk meg a drót egyensúlyi helyzetét. A helyzetet a derékszög felezője és a függőleges által bezárt szöggel adjuk meg. A drót és a támaszok közötti súrlódást hanyagoljuk el; a támaszokon kis hornyok biztosítják, hogy minden mozgás a drót síkjában történjen, ahogyan az ábrán látható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr9-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr9-fig1.jpg)

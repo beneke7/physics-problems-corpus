@@ -29,7 +29,7 @@ verification_status: pending
 
 You have a rigid mechanical black box consisting of a container of mass $m_1$. Inside the container there is a load of mass $m_2$ that hangs on an effectively massless spring of stiffness $k_1$ from the ceiling of the box. Another mass $m_3$ is hanged to the mass $m_2$ via another massless spring of stiffness $k_2$. There is a small viscous drag which depends on the velocity of the objects. The gravity of Earth is $g = 9.81\ \mathrm{m/s^2}$ and is parallel to the sides of the box.
 
-![figure](../../sources/eupho/figures/eupho-2020-E2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-E2-1.png)
 
 The box can be moved up or down with a piece-wise constant acceleration. The acceleration pattern can be programmed through input by giving the duration (in seconds) and acceleration (in $\mathrm{m/s^2}$) for each step. The simulation shows in "real time" the force $F$ exerted on the box that is needed to maintain the given acceleration, together with the reading of time. Note: every measurement of force $F$ has a small random error. The springs are linear for reasonably small deformations, but nonlinear for larger deformations. The values $k_1$ and $k_2$ are defined to be the stiffness of each spring for small deformations near equilibrium when the box is at rest. Force $F$ and acceleration are considered to be positive if they are directed upwards. The side length of the box is 0.6 m and the box is initially in the middle of a room with height 3 m. An experiment ends automatically if the box hits the ceiling or the floor, or if any of the masses collide with the box or with the other mass. The figure is not drawn to scale.
 

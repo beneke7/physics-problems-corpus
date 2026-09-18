@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-It is well known that a glass placed under a strong water jet cannot be filled entirely. Removing the glass from under the jet it will only be partly filled with water. How does the amount of the remaining water in the glass depend on the flow rate, the velocity of the jet and the position of the glass? 
+It is well known that a glass placed under a strong water jet cannot be filled entirely. Removing the glass from under the jet it will only be partly filled with water. How does the amount of the remaining water in the glass depend on the flow rate, the velocity of the jet and the position of the glass?
 
  (6 pont)

@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4350. Egy golyó egy álló golyónak ütközik. Az ütközés egyenes, centrális és rugalmas. Az érkező golyó sebességváltozása 20 m/s. Az érkező és az álló golyó tömegének aránya 3:5. 
- Mekkora sebességgel érkezett a golyó? 
+P. 4350. Egy golyó egy álló golyónak ütközik. Az ütközés egyenes, centrális és rugalmas. Az érkező golyó sebességváltozása 20 m/s. Az érkező és az álló golyó tömegének aránya 3:5.
+ Mekkora sebességgel érkezett a golyó?
  Mikola Sándor fizikaverseny, Gyöngyös

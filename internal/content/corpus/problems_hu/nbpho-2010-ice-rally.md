@@ -22,7 +22,7 @@ verification_status: pending
 
 Az autó csúszós terepen úgy gyorsul, hogy a kerekek mindig a csúszás határán vannak (például elektronikus vonóerő-vezérléssel). Az ilyen gyorsulás a fent megadott sebességidő-gráfikont eredményezné.
 
-![figure](../../sources/nbpho/figures/nbpho-2010-ice-rally-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2010-ice-rally-fig1.jpg)
 
 **i)** *(2 pont)* Mekkora a súrlódási tényező, feltételezve a négykerék-meghajtást?
 

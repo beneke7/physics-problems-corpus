@@ -22,7 +22,7 @@ verification_status: pending
 
 Itt egy fotó egy víz alatti sárkányról (egy nagyobb fénykép külön lapon található). A sárkány hossza $l = 8\ \mathrm{cm}$, magassága $h = 3\ \mathrm{cm}$. A tálka aljának átmérője $d = 10\ \mathrm{cm}$, a tábla és a tálka oldala közötti szög $\alpha = 60°$. A víz törésmutatója $n = 1,33$. A fénykép úgy készült, hogy a kamera közvetlenül a vízfelszín mentén nézett. A következő kérdésekben a horizont és egy pont közötti szög a vízfelszín (vagy más vízszintes felszín) és a szem és a képpontot összekötő egyenes közötti szögként definiálódik.
 
-![Sárkány vízben](nbpho-2017-dragon-fig1.jpg)
+![Sárkány vízben](../../figures/nbpho/figures/nbpho-2017-dragon-fig1.jpg)
 
 **i)** *(2 pont)* Mekkora a legnagyobb szög a horizont alatt, amelyből a sárkány vízről visszavert képét láthatjuk?
 

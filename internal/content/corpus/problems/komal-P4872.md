@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-Estimate the time during which a bather in the beach of lake Balaton absorbs that amount of energy from the sunshine at noon, which would be the lethal whole-body dose in case of gamma radiation (6 Gy). 
+Estimate the time during which a bather in the beach of lake Balaton absorbs that amount of energy from the sunshine at noon, which would be the lethal whole-body dose in case of gamma radiation (6 Gy).
  (4 pont)

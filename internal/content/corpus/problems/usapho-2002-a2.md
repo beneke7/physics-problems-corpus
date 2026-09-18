@@ -24,7 +24,7 @@ techniques: [conservation-laws, choose-reference-frame]
 ---
 
 A2. A particle decays into two photons which are both observed to have frequency $f$, one moving at an angle $\theta$ above the positive $x$-axis and the other at an angle of $\theta$ below the positive $x$-axis. See the accompanying diagram. The energy and momentum magnitude of a relativistic particle of mass $m$ and
-![](usapho-2002-a2-fig01.png)
+![](../../figures/usapho/figures/usapho-2002-a2-fig01.png)
 speed $v$ are:
 
 $$

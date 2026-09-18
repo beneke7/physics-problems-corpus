@@ -32,7 +32,6 @@ egy konstans tagtól eltekintve a szokásos szabad részecske Lagrange-függvén
    Ennek a Lagrange-függvénynek a helyessége mélyebb okból következik: az akció Lorentz-invariáns lesz,
                                             Z            Z
                                        S = L dt = −m dτ.
-9   1. Klasszikus mechanika
 
 
 Így a legkisebb hatás elve a sajátidő maximalizálásának felel meg. A relativitáselméletben
@@ -56,11 +55,11 @@ Négy Euler–Lagrange-egyenlet van:
 Közülük azonban csak három független, mert minden xµ (λ) pályára
 
                                                                            dẋµ ∂L
-                                                                    
+
                       µ   ∂L   d ∂L           µ ∂L     d        µ ∂L
                    ẋ        −           = ẋ      −         ẋ          +
                           ∂xµ dλ ∂ ẋµ         ∂xµ dλ            ∂ ẋµ     dλ ∂ ẋµ
-                                                               
+
                                             d            ∂L
                                          =       L − ẋµ µ
                                            dλ            ∂ ẋ
@@ -90,7 +89,6 @@ részecske-kölcsönhatás; ezt néha van Dam–Wigner-féle kölcsönhatásment
 részecskék közötti kontaktuskölcsönhatás, illetve részecskék és terek közötti lokális kölcsönhatás lehetséges.
 (A tisztesség kedvéért tegyük hozzá, hogy a különböző lehetetlenségi tételek ellenére még mindig felépíthető relativisztikus
 többrészecske-dinamika, ha lemondunk néhány fontosnak tartott tulajdonságról, ahogy itt le van írva.)
-10 1. Klasszikus mechanika
 
 
   Itt arra az egyszerűbb feladatra összpontosítunk, hogy egy részecskét háttértérhez csatoljunk. Kézenfekvő
@@ -112,7 +110,7 @@ Másodszor a potenciált vektormezővé terjeszthetjük ki, így
 ami az elektromágnesség elméletéhez vezet; az idő szerinti paraméterezés visszaadja a fent megadott akciót.
 Végül megjegyezhetjük, hogy vezető rendben ekvivalens lett volna a potenciáltagot
 a négyzetgyök alá vinni, így
-                                         Z s          
+                                         Z s
                                                     2V
                                  S = −m        1+         dt2 − dr2 .
                                                     m
@@ -143,7 +141,6 @@ a sajátidő szerinti paraméterezésből és az uµ = dxµ /dτ négyessebessé
                                             duµ
                                     fµ = m       = eF µν uν .
                                              dτ
-11 1. Klasszikus mechanika
 
 
 Ha a visszahatást, vagyis a részecskének a térre gyakorolt hatását is figyelembe akarjuk venni, akkor az árama
@@ -202,7 +199,6 @@ koordinátákkal. A Lagrange-függvény q-tól és q̇-tól több különleges m
 Noether két tételének ezek a lehető legegyszerűbb példái, bár természetesen maguk a tételek
 sokkal mélyebbek voltak. Noether tetszőleges számú téridőbeli
 mező és tetszőleges számú derivált függvényében álló akció esetét vizsgálta.
-12 1. Klasszikus mechanika
 
 
 1.2     Merev test mozgása
@@ -218,7 +214,7 @@ A merev testek kinematikájával kezdjük.
   • A test minden r pontja a térbeli, illetve a testhez kötött rendszerben a következőképpen fejthető ki:
                                             r(t) = rea (t)ea = ra ea (t).
       Vegyük észre, hogy a testkoordináta-rendszer időben így változik:
-                                                                                
+
                                       dea   dRab                     dR −1
                                           =      eb =
                                                  e                      R                  eb

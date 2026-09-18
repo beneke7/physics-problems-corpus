@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates]
 ---
 
-Two pieces of thread, each of length $L=10~\mathrm{cm}$, have one end fixed to a vertical axis at a common point, and two small beads of equal mass $m$ and of charge $Q$ are attached to the other ends. In equilibrium, each thread makes an angle of $\varphi=30^\circ$ with the vertical axis. When the axis is rotated uniformly, the beads in the steady state undergo uniform circular motion such that the threads make an angle of $\alpha=45^\circ$ with the axis of rotation. What is the period of the circular motion of the beads? 
+Two pieces of thread, each of length $L=10~\mathrm{cm}$, have one end fixed to a vertical axis at a common point, and two small beads of equal mass $m$ and of charge $Q$ are attached to the other ends. In equilibrium, each thread makes an angle of $\varphi=30^\circ$ with the vertical axis. When the axis is rotated uniformly, the beads in the steady state undergo uniform circular motion such that the threads make an angle of $\alpha=45^\circ$ with the axis of rotation. What is the period of the circular motion of the beads?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5681-fig1.png)
+![figure](../../figures/komal/figures/komal-P5681-fig1.png)

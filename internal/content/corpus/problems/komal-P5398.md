@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-A digital camera has an objective lens of focal length of 35 mm, and its near point is at a distance of 25 cm. The near point is that smallest distance from the sensor from which the objective can still focus. 
- $a)$ How does the distance of the near point change if a ring is placed between the lens and the camera, such that the lens gets 12 mm further away from the sensor? 
- $b)$ Take a picture of an object at the near point, with and without using the ring. What is the ratio of the sizes of the two images? 
+A digital camera has an objective lens of focal length of 35 mm, and its near point is at a distance of 25 cm. The near point is that smallest distance from the sensor from which the objective can still focus.
+ $a)$ How does the distance of the near point change if a ring is placed between the lens and the camera, such that the lens gets 12 mm further away from the sensor?
+ $b)$ Take a picture of an object at the near point, with and without using the ring. What is the ratio of the sizes of the two images?
  (5 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-The starting isotope of a decay chain is $^{238}$U and the stable final isotope of this decay chain is $^{206}$Pb. How many decays, and how many decays occur in the decay chain? 
+The starting isotope of a decay chain is $^{238}$U and the stable final isotope of this decay chain is $^{206}$Pb. How many decays, and how many decays occur in the decay chain?
  (3 pont)

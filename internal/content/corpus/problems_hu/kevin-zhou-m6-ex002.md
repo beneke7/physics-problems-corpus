@@ -34,7 +34,9 @@ Example 2
   Ha a point tömeg prúduces a gravitational potential f (r) dm at separation r, then integrating
 
                                                    2
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
     over the gömb in spherical coordinates gives
                                     Z π
@@ -83,18 +85,20 @@ Example 2
                                         L = |r × p| = mr2 θ̇.
     Its kinetikus energia can thus be written in terms of the radial sebesség ṙ and L,
                                                                          L2
-                                                                             
+
                             1   2   1    2          1 2
                        E = mvr + mvθ + V (r) = mṙ + V (r) +                    .
                             2       2               2                  2mr2
 
                                                     3
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
        By setting the time derivative of this expression to zero, we keressük meg
 
                                                               L2
-                                                                 
+
                                                 d
                                        mr̈ = −       V (r) +        .
                                                 dr           2mr2

@@ -20,4 +20,4 @@ verification_status: pending
 
 [EstFin-2003 ${ }^{18}$] Az alábbi ábra egy egyszerű, alagútdiódán alapuló erősítő áramkörét mutatja. Határozzuk meg a kis amplitúdójú bemeneti jelek erősítési tényezőjét a következő adatok mellett: $R=10 \Omega$, $\mathcal{E}=0.25 \mathrm{~V}$.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr25-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr25-fig1.jpg)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the voltage between the terminals A and B for the infinite chain shown below.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr52-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr52-fig1.jpg)

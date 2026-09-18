@@ -89,10 +89,10 @@ This is the final answer, but we can interpret it a bit better by rearranging it
 r
 t
 = −
-
+
 r′
 t′
-∗
+ ∗
 .
 By comparing the magnitudes of each side, we conclude that
 |r| = |r′

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A rope is placed in a fixed tube which has a shape of a quarter of a circle as shown in the figure. What is the speed at which the rope leaves the tube if it is released? (Friction between the tube and the rope is negligible.) 
+A rope is placed in a fixed tube which has a shape of a quarter of a circle as shown in the figure. What is the speed at which the rope leaves the tube if it is released? (Friction between the tube and the rope is negligible.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5501-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5501-fig1.gif)

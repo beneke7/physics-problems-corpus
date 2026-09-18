@@ -82,7 +82,6 @@ Next, we consider the Born–Oppenheimer approximation, an important application
     where |Φn ⟩ is a nuclear wavefunction. The Schrodinger equation is
 
                                         (Hnuc + Helec )|Ψ⟩ = E|Ψ⟩.
-140 5. Fundamentals of Quantum Mechanics
 
 
  • To reduce this to an effective Schrodinger equation for the nuclei, we act with ⟨ϕm |, giving
@@ -137,7 +136,6 @@ Next, we set up the quantum mechanics of a particle in an electromagnetic field.
                                          ϕ → ϕ − ∂t α,   A → A + ∇α.
 
       As a result, the Hamiltonian is not gauge invariant.
-141 5. Fundamentals of Quantum Mechanics
 
 
   • In order to make the Schrodinger equation gauge invariant, we need to allow the wavefunction

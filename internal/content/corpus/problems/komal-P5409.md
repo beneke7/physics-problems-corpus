@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-The figure shows a whole range of simple machines. Friction and the masses of pulleys and levels are negligible. What are the values of the tension in the threads? 
+The figure shows a whole range of simple machines. Friction and the masses of pulleys and levels are negligible. What are the values of the tension in the threads?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5409-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5409-fig1.gif)

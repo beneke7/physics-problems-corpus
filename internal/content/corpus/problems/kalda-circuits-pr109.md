@@ -19,4 +19,4 @@ verification_status: pending
 
 In the circuit shown in the figure, the sinusoidal input voltage has a fixed amplitude $V_{0}$ and frequency $f$. What is the maximal amplitude of the output voltage, and for which values of the variable resistances $R_{1}, R_{2}$, and $R_{3}$ is the maximal amplitude achieved?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr109-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr109-fig1.jpg)

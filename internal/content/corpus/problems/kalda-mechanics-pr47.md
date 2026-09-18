@@ -19,4 +19,4 @@ verification_status: pending
 
 A massive cylinder of radius $R$ and mass $M$ is lying on the floor. A narrow groove of depth $a$ has been chiselled along the circumference of the cylinder. A thread has been wrapped around the groove and is now being pulled by its free end, held horizontally, with a force $F$. The cylinder is positioned such that the thread is being freed from below the cylinder. With what acceleration will the cylinder start moving? The friction between the floor and the cylinder is large enough for there to be no slipping.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr47-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr47-fig1.jpg)

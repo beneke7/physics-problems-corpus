@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-A beam of electrons of speed v $_{0}$ enters into a region of uniform magnetic field of induction  B , perpendicularly to the magnetic induction, as shown in the figure. The region of magnetic field has a circular cross section of radius  R . Passing the magnetic field, at most what angle do the electrons of the beam deflect with respect to their original path? (Suppose that the magnetic field is weak.) 
+A beam of electrons of speed v $_{0}$ enters into a region of uniform magnetic field of induction  B , perpendicularly to the magnetic induction, as shown in the figure. The region of magnetic field has a circular cross section of radius  R . Passing the magnetic field, at most what angle do the electrons of the beam deflect with respect to their original path? (Suppose that the magnetic field is weak.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4419-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4419-fig1.gif)

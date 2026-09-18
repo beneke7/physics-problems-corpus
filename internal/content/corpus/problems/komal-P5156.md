@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, extremization, auxiliary-unknowns]
 ---
 
-The spherical sector shaped rose of a watering can, made of thin metal, is hung at one point on its circular rim by means of a hinge (see the figure ). What is the ratio $h/r$, if in the equilibrium position of the rose its symmetry axis is horizontal? (The metal sheet has constant width and uniform density. The size of the tube through which the water enters the rose, as well as the total area of the small holes can be considered negligibly small.) 
+The spherical sector shaped rose of a watering can, made of thin metal, is hung at one point on its circular rim by means of a hinge (see the figure ). What is the ratio $h/r$, if in the equilibrium position of the rose its symmetry axis is horizontal? (The metal sheet has constant width and uniform density. The size of the tube through which the water enters the rose, as well as the total area of the small holes can be considered negligibly small.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5156-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5156-fig1.gif)

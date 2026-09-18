@@ -19,4 +19,4 @@ verification_status: pending
 ---
 
 Egy $m=10 \mathrm{~g}$ tömegű testet olyan deszkára helyezünk, amelynél balra csúszáskor a súrlódási együttható $\mu_{1}=0,3$, jobbra csúszáskor pedig $\mu_{2}=0,5$. A deszkát a $v(t)$ grafikon szerint ismételten balra és jobbra mozgatjuk (lásd az ábrát). A grafikon periódusa $T=0,01 \mathrm{~s}$; a deszka $v$ sebességét
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr81-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr81-fig1.jpg)

@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy tökéletesen rugalmas és sima biliárdgolyó $v$ sebességgel mozog két nyugvó, azonos golyó felé. A nyugvó golyók érintkeznek egymással, középpontjaik az érkező golyó sebességvektorára merőleges egyenesen helyezkednek el. A mozgó golyó pontosan a két golyó érintkezési pontja felé tart. Milyen sebességgel mozog az érkező golyó az ütközések után? Vizsgáljuk meg a következő két esetet: (a) az érkező golyó pontosan a két golyó közötti középpont felé talál; (b) pályája kissé eltér, és az egyik nyugvó golyót egy kicsivel korábban éri el.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr36-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr36-fig1.jpg)

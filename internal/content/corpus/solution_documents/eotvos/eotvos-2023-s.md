@@ -58,7 +58,9 @@ képest.
 
 
 Középiskolai Matematikai és Fizikai Lapok, 2024/1                                         41
-    i                                                                                                                                  i
+
+
+    i                                                                                                                                  i
 
         2024.1.7 – 15:30 – 42. oldal – 42. lap                                                                 KöMaL, 2024. január
 i                                                                                                                                          i
@@ -127,7 +129,9 @@ i                                                                               
 i                                                                                                                                          i
 
     i                                                                                                                                  i
-      A Vénusz akkor kel a Naphoz képest legkorábban, azaz φ értéke akkor lesz
+
+
+      A Vénusz akkor kel a Naphoz képest legkorábban, azaz φ értéke akkor lesz
 maximális, amikor ϑ = 90◦ (és ı́gy a fázis 0,5, azaz félvénusz” látható).
                                                            ”
       Ezután φ értéke már csökken, a Vénusz egyre kevesebb idővel kel a Nap előtt.
@@ -141,12 +145,12 @@ a Nap előtt, az α2 Föld–Nap–Vénusz szögnél érjük el. Ebben az
                                                 2
      Mikor fog ez bekövetkezni? A Vénusz sziderikus (csillagokhoz viszonyı́tott)
 keringési ideje Kepler 3. törvénye alapján:
-                                                 32
+                                                   32
                                             rV
                                 TV =                    TF = 224,5 nap.
                                             rF
 (TF = 365,25 nap.) A szinodikus (Földhöz viszonyı́tott) keringési ideje
-                                         −1
+                                           −1
                          ′       1     1
                         TV =       −           ≈ 583 nap,
                                 TV    TF
@@ -181,7 +185,9 @@ Nap korongja előtt. http://eik.bme.hu/~vanko/fizika/erdekes/venusz_teto.htm
 
 
 Középiskolai Matematikai és Fizikai Lapok, 2024/1                                                 43
-    i                                                                                                                            i
+
+
+    i                                                                                                                            i
 
         2024.1.7 – 15:30 – 44. oldal – 44. lap                                                           KöMaL, 2024. január
 i                                                                                                                                    i
@@ -247,7 +253,9 @@ i                                                                               
 i                                                                                                                                    i
 
     i                                                                                                                            i
-    i                                                                                                                                 i
+
+
+    i                                                                                                                                 i
 
         2024.1.7 – 15:30 – 45. oldal – 45. lap                                                                KöMaL, 2024. január
 i                                                                                                                                         i
@@ -304,7 +312,7 @@ i                                                                               
                                                                                                       ≈ 3,6◦ ,
                                                  2 2                    g          2 2      4 4 2
                                                                                          + Bmℓ2 rω2
-                                                                                    
+
                                         (ω02 − ω ) + 4β 2 ω 2           ℓ −ω
 
                 és                                                          2 2
@@ -320,7 +328,9 @@ i                                                                               
 i                                                                                                                                         i
 
     i                                                                                                                                 i
-    i                                                                                                                             i
+
+
+    i                                                                                                                             i
 
         2024.1.7 – 15:30 – 46. oldal – 46. lap                                                            KöMaL, 2024. január
 i                                                                                                                                     i
@@ -331,14 +341,14 @@ i                                                                               
                      A kitérés valóban kis szögű, ı́gy a közelı́tések jogosak voltak.
                      Bár a feladat nem kérdezte, a szögkitérés ismeretében érdekes meghatároznunk
                 a rúdban folyó áramerősséget:
-                                    m       mg       m  2 g
+                                    m       mg       m   2 g
                                I(t) = φ̈ +      φ=          −ω +       φmax sin(ωt − ϕ) =
                                     B       Bℓ       B              ℓ
                                           g      2
                                 U0         ℓ −ω
                               =    q                          sin(ωt − ϕ) = I0 sin(ωt − ϕ),
                                 r     g      2 2 + B 4 ℓ4 ω 2
-                                              
+
                                       ℓ − ω         m2 r 2
 
 
@@ -389,7 +399,9 @@ i                                                                               
 i                                                                                                                                     i
 
     i                                                                                                                             i
-    i                                                                                                                                 i
+
+
+    i                                                                                                                                 i
 
         2024.1.7 – 15:30 – 47. oldal – 47. lap                                                                KöMaL, 2024. január
 i                                                                                                                                         i
@@ -407,7 +419,7 @@ i                                                                               
                        Az áramkörös analógiában ismert, hogy az áramerősség az idő függvényében
                 I ⋆ (t) = I0⋆ sin(ωt − ϕ⋆ ) módon változik, ahol az amplitúdó és a fázisszög:
                                                                 U0
-                                                 I0⋆ = q                    ,
+                                                 I0⋆ = q                     ,
                                                                          1 2
                                                           R2 + Lω − Cω
                 és
@@ -431,7 +443,7 @@ i                                                                               
                                                                 U0
                                                  I⋆                                ◦
                                        φmax = 0 = q              ω
-                                                                            ≈ 3,6 ,
+                                                                             ≈ 3,6 ,
                                                  ω          2 4 mrω   mgrω 2
                                                           B ℓ + B − Bℓ
                 és                                     mrω    mgr
@@ -459,7 +471,9 @@ i                                                                               
 i                                                                                                                                         i
 
     i                                                                                                                                 i
-    i                                                                                                                         i
+
+
+    i                                                                                                                         i
 
         2024.1.7 – 15:30 – 48. oldal – 48. lap                                                        KöMaL, 2024. január
 i                                                                                                                                 i
@@ -520,7 +534,9 @@ i                                                                               
 i                                                                                                                                 i
 
     i                                                                                                                         i
-    i                                                                                                                   i
+
+
+    i                                                                                                                   i
 
         2024.1.7 – 15:30 – 49. oldal – 49. lap                                                  KöMaL, 2024. január
 i                                                                                                                           i

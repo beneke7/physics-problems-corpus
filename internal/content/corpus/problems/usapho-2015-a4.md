@@ -51,7 +51,7 @@ $$
 When in the gas state you should assume that water behaves like an ideal gas.
 
 Of relevance to this question is the pressure/temperature phase plot for water, showing the regions where water exists in liquid form or gaseous form. The curve shows the coexistence condition, where water can exist simultaneously as gas or liquid.
-![](usapho-2015-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2015-a4-fig01.png)
 
 The following graphs should be drawn on the answer sheet provided.
 

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-Is it theoretically possible to spot by the naked eye a crater of diameter of 80 km on the surface of the Moon if the diameter of our pupil is 5 mm? 
+Is it theoretically possible to spot by the naked eye a crater of diameter of 80 km on the surface of the Moon if the diameter of our pupil is 5 mm?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5087-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5087-fig1.gif)

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An initially stationary trolley of mass $M$ can move frictionlessly on the horizontal ground. The top of the trolley is flat and at one of its ends there is a small block of mass $m=M/2$ (as shown in the figure ). The length of the trolley is $\ell=24~\mathrm{cm}$, and the coefficient of friction between the trolley and the block is $\mu=0.2$. 
+An initially stationary trolley of mass $M$ can move frictionlessly on the horizontal ground. The top of the trolley is flat and at one of its ends there is a small block of mass $m=M/2$ (as shown in the figure ). The length of the trolley is $\ell=24~\mathrm{cm}$, and the coefficient of friction between the trolley and the block is $\mu=0.2$.
 
- a) At what maximum speed of $v_0$ can we push the small block so that it does not fall off the trolley? 
- b) What will the speeds of the trolley and the block be at the moment when the block flies off the trolley, if the block is given an initial speed of $v_1=2v_0$? 
+ a) At what maximum speed of $v_0$ can we push the small block so that it does not fall off the trolley?
+ b) What will the speeds of the trolley and the block be at the moment when the block flies off the trolley, if the block is given an initial speed of $v_1=2v_0$?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5679-fig1.png)
+![figure](../../figures/komal/figures/komal-P5679-fig1.png)

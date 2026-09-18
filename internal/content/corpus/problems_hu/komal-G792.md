@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 792. Az ábrán látható áramkörben egyforma izzólámpák vannak. A kapcsoló zárását követően az A és a B lámpa fényesebben vagy halványabban fog világítani? (Tekintsünk el az izzólámpák ellenállásának hőmérsékletfüggésétől.)
 
-![figure](../../raw_html/komal_figures/komal-G792-fig1.gif)
+![figure](../../figures/komal/figures/komal-G792-fig1.gif)

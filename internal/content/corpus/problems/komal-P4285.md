@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201011"
 verification_status: pending
 ---
 
-The capacitance of an electrolyte condenser of a flash, which is to store energy, is 3300  F, and its operating voltage is 350 V. What percent of the stored energy can be used for the flash, if the discharging process is ceased in the discharge tube at 50 V. 
+The capacitance of an electrolyte condenser of a flash, which is to store energy, is 3300  F, and its operating voltage is 350 V. What percent of the stored energy can be used for the flash, if the discharging process is ceased in the discharge tube at 50 V.
  (3 pont)

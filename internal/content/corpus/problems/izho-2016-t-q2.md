@@ -31,7 +31,7 @@ In this problem the interaction of the liquid with the solid surface is studied.
 $\sigma_{0}$ is the surface tension at the interface between the liquid and the air;
 $\sigma_{1}$ is the surface tension at the interface between the liquid and solid;
 $\sigma_{2}$ is the surface tension at the interface between the solid and the air;
-![](izho-2016-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2016-t-q2-fig01.png)
 $\theta$ is the contact angle (wetting angle).
 The values $\sigma_{0}, \sigma_{1}, \sigma_{2}$ designate the surface energy per unit area of contact between media.
 
@@ -59,7 +59,7 @@ Let a water level in the tube be at a certain height $h$, which does not necessa
 2.1 [0.5 points] Find the formula for the change in the surface energy of the system $\Delta U_{S}$ that corresponds to an additional small rise of water level $\Delta h$ in the tube.
 2.2 [0.5 points] Find the formula for the change in the potential energy $\Delta U_{G}$ of the liquid in the gravitational field that corresponds to an additional small rise of water level $\Delta h$ in the tube.
 2.3 [1.0 points] Using the principle of the minimum potential energy, find the formula for the height of the water in the tube $h_{0}$ in equilibrium position. Calculate its numerical value from the quantities
-![](izho-2016-t-q2-fig02.png)
+![](../../figures/izho/figures/izho-2016-t-q2-fig02.png)
 provided above.
 
 ## 3. Water in a vertical conical tube (4.0 points)
@@ -69,7 +69,7 @@ A long conical tube is vertically lowered into the water so that its lower end t
 Note: in the following neglect any change in the surface energy at the interface between the liquid and the air.
 
 Let a water level in the tube be at a certain height $h$, which does not necessarily correspond to its equilibrium value.
-![](izho-2016-t-q2-fig03.png)
+![](../../figures/izho/figures/izho-2016-t-q2-fig03.png)
 3.1 [0.5 points] Find the formula for the change in the surface energy of the system $\Delta U_{S}$ that corresponds to an additional small rise of water level $\Delta h$ in the tube.
 3.2 [0.5 points] Find the formula for the change in the potential energy $\Delta U_{G}$ of the liquid in the gravitational field that corresponds to an additional small rise of water level $\Delta h$ in the tube.
 3.3 [1.0 points] Find the equation that determines the height of water in the tube in equilibrium position and rewrite it in terms of $\sigma_{0}, \theta, \alpha$ and the value of $h_{0}$ found in 2.3.

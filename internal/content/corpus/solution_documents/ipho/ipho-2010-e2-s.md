@@ -34,7 +34,9 @@ Task 1                                                                          
 
 
                                                                                               0.45
-   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010    2/6
+
+
+   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010    2/6
 
 
 
@@ -72,7 +74,9 @@ Task 2                                                                          
                                        55         2
                                        75         3
                                        97         4
-41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   3/6
+
+
+41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   3/6
 
 
                             119          5
@@ -107,7 +111,9 @@ Task 2                                                                          
                              873        6,5
                              284          7
                               36        7,5
-   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010     4/6
+
+
+   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010     4/6
 
 
            Configuration:
@@ -142,7 +148,9 @@ Task 3                                                                          
 
            Due to symmetry, it is sufficient to plot e.g., the following graph in detail:
                                                                                                      2
-   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   5/6
+
+
+   41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   5/6
 
 
 
@@ -158,7 +166,9 @@ Task 3                                                                          
 
 
 Task 4                                                                                   Points
-  41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010    6/6
+
+
+  41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010    6/6
 
 
 

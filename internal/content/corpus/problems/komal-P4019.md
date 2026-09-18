@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A parallel plate condenser of charge Q consists of two vertical square-shaped plates of sides  a , which are at a distance of  d . Between the plates, parallel to them, there is another square-shaped metal plate which has the same size as the plates of the condenser and its width is d /3. Find the work done while this plate of density is pulled out of the plates. 
+A parallel plate condenser of charge Q consists of two vertical square-shaped plates of sides  a , which are at a distance of  d . Between the plates, parallel to them, there is another square-shaped metal plate which has the same size as the plates of the condenser and its width is d /3. Find the work done while this plate of density is pulled out of the plates.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4019-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4019-fig1.gif)

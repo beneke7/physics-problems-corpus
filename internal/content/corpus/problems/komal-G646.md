@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-In a chemistry laboratory chemicals are stored in alike bottles. One is full of glycerine, and the other is full of ether. The mass of the bottle filled with glycerine is 2290 grams, and that of the other bottle with ether in it has a mass of 1471 grams. What is the mass of an empty bottle? 
+In a chemistry laboratory chemicals are stored in alike bottles. One is full of glycerine, and the other is full of ether. The mass of the bottle filled with glycerine is 2290 grams, and that of the other bottle with ether in it has a mass of 1471 grams. What is the mass of an empty bottle?
  (3 pont)

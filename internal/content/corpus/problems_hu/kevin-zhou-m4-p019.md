@@ -34,5 +34,5 @@ Tekintsük a inga which can perform small-angle oszcillációk in a plane with
 
     In each case, for what value(s) of f ′ can the amplitude become large? (This question should be
 
-                     01r
+                     01r
     done purely conceptually; don’t write any equations, just visualize it!)

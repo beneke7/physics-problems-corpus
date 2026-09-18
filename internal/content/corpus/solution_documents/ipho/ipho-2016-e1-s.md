@@ -57,16 +57,20 @@ A3 (0.4 pts)
 
 
                                                            1
-Part B. Sheet resistivity (0.3 points)
+
+
+Part B. Sheet resistivity (0.3 points)
 B1 (0.3 pts)
 
-ρ ≡ ρ∞ = 4.89 kΩ
+ρ  ≡ ρ∞ = 4.89 kΩ
 
 
 
 
                                          2
-Part C. Measurements for different sample dimensions (3.2 points)
+
+
+Part C. Measurements for different sample dimensions (3.2 points)
 C1 (3 pts) and C2 (0.2 pts)
 
 s = 20 mm
@@ -110,7 +114,9 @@ s = 20 mm
 
 
                                                            3
-Part D. Geometrical correction factor (1.9 points)
+
+
+Part D. Geometrical correction factor (1.9 points)
 D1 (1.0 pts)
 
 Plot your data on the appropriate graph paper: linear (Graph E1a), semi-logarithmic (D1b) or double-logarithmic
@@ -130,7 +136,9 @@ b = −1.4
 
 
                                                       4
-  Graph D1a: linear scale: I vs V
+
+
+  Graph D1a: linear scale: I vs V
 
 Wrong. The usage of linear scale does not allow for deduction of the parameters.
 
@@ -168,7 +176,9 @@ Wrong. The usage of linear scale does not allow for deduction of the parameters.
 
 
                                                        5
-  Graph D1b: semi-log scale: I vs V
+
+
+  Graph D1b: semi-log scale: I vs V
 
 Wrong. The usage of semi-log scale does not allow for deduction of the parameters.
 
@@ -214,7 +224,9 @@ Wrong. The usage of semi-log scale does not allow for deduction of the parameter
 
 
                                                       6
-Graph D1c: double-log scale: I vs V
+
+
+Graph D1c: double-log scale: I vs V
 
 Correct. The parameters can be deduced by fitting a line.
 
@@ -260,7 +272,9 @@ Correct. The parameters can be deduced by fitting a line.
 
 
                                                                       7
-Part E. van der Pauw-method (3.4 points)
+
+
+Part E. van der Pauw-method (3.4 points)
 
       Note the number of your wafer here: 99 (between 1 - 450)
 
@@ -318,11 +332,13 @@ w = 10 cm                                 →     w/s = 5                     f 
 E4 (0.1 pts)
 
 
-ρ = 180 Ω
+ρ  = 180 Ω
 
 
                                                                         8
-E5 (0.6 pts)
+
+
+E5 (0.6 pts)
                                                V mV   I mA
 
 Sketch (orientation of the current):           140    3.71
@@ -375,7 +391,9 @@ Sketch (orientation of the current):           140    3.92
 
 
                                            9
-E7 (0.5 pts)
+
+
+E7 (0.5 pts)
 
   Graph F6: I vs V
 
@@ -419,24 +437,26 @@ hRi = 36.5 Ω
 
 
                                         10
-E8 (0.4 pts) Calculation:
 
-2 · e−π·hRi/ρ = 1       e−π·hRi/ρ = 1/2
+
+E8 (0.4 pts) Calculation:
+
+2 · e−π·hRi/ρ  = 1       e−π·hRi/ρ  = 1/2
    π · hRi                 π · hRi
 −            = ln(1/2)             = ln(2)
-     ρ                       ρ
+     ρ                        ρ
         π · hRi
-ρ =
+ρ  =
          ln(2)
 
 
-ρ = 165 Ω
+ρ  = 165 Ω
 
 
 E9 (0.1 pts)
 
-∆ρ
-ρ =            0.091       =      9.1    %
+∆ρ
+ρ  =            0.091       =      9.1    %
 
 
 E10 (0.1 pts)

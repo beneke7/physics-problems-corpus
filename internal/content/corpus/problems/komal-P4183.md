@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: pending
 ---
 
-The halflife of the radioactive isotope of lead, whose atomic mass number is 214, is 26.8 minutes. How long has it been decaying if only one-thousandth of the original atoms are present in the sample? 
+The halflife of the radioactive isotope of lead, whose atomic mass number is 214, is 26.8 minutes. How long has it been decaying if only one-thousandth of the original atoms are present in the sample?
  (4 pont)

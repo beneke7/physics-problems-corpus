@@ -29,7 +29,7 @@ $$
 [1+1+1+2+2+1+2+1.5+2+1.5=15]
 $$
 
-![](inpho-2010-b4-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-b4-fig01.png)
 Figure 3:
 
 

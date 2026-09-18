@@ -22,11 +22,11 @@ at a small angle θ to the horizontal, experiencing index of refraction n. Over 
 distance L, it goes up by a height Lθ. At this point, it will have a different angle θ′ to the
 horizontal, and experience index of refraction n + Lθdn/dh. Snell’s law says
 ncosθ =
-
+
 n + Lθ
 dn
 dh
-
+
 cosθ′
 and expanding to lowest order in the small angles θ and θ′ gives
 n
@@ -90,12 +90,12 @@ the pressure gradient, so that dn/dh > 0 and inferior mirages can occur.
 Proponents of the flat Earth hypothesis claim that the Earth only seems curved due to
 atmospheric refraction. But they have it backwards: in almost all conditions dn/dh < 0,
 which makes the Earth look less curved than it actually is.
-[4] Problem 17.  T 1 0IPhO 1995, problem 2. Refraction in the presence of a linearly varying wave
+[4] Problem 17.   T 1 0IPhO 1995, problem 2. Refraction in the presence of a linearly varying wave
 speed. (This is a classic setup with a neat solution, also featured in IPhO 1974, problem 2.)
 [3] Problem 18. INPhO 2019, problem 1. Another exercise on refraction, with an uglier solution.
-[3] Problem 19.  ^ 1 0USAPhO 2025, problem B2. A problem on shock wave wavefronts.
-[3] Problem 20.  h 1 0IPhO 2003, problem 3B. An exercise on refraction and radiation pressure.
-[4] Problem 21.  T 1 0IPhO 1993, problem 2. Another exercise on the same theme.
+[3] Problem 19.   ^ 1 0USAPhO 2025, problem B2. A problem on shock wave wavefronts.
+[3] Problem 20.   h 1 0IPhO 2003, problem 3B. An exercise on refraction and radiation pressure.
+[4] Problem 21.   T 1 0IPhO 1993, problem 2. Another exercise on the same theme.
 5 Ray Tracing
 Idea 5
 A pointlike object emits light rays in all directions. When those light rays subsequently
@@ -144,7 +144,7 @@ The photo was taken from far above the mirror. In degrees, what is the mirror’
 Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solution to problem 6(i). The answer is 70◦, and any answer within 5◦ is
 acceptable.
-[3] Problem 27.  ^ 1 0IZhO 2020, problem 1.3. A test of your intuition for 3D ray tracing.
+[3] Problem 27.   ^ 1 0IZhO 2020, problem 1.3. A test of your intuition for 3D ray tracing.
 Solution. You can check the official solutions as usual. But note that, as pointed out by Stefan
 Ivanov here, the official solution gets the thicknesses of the borders wrong. In the first part, the
 thickness of the border of the triangle should be 2r1 = 2mm. In the second part, the thickness of
@@ -194,7 +194,7 @@ R1 and R2 and thickness d, is
 1
 f
 = (n − 1)
-
+
 1
 R1
 −
@@ -203,5 +203,5 @@ R2
 +
 (n − 1)d
 nR1R2
-
+
 and can be derived by computing the bending of the light ray at each interface.

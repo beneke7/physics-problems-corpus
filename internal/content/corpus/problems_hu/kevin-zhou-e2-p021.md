@@ -49,7 +49,9 @@ Tekintsünk két, r sugarú vezető gömböt, amelyek egymástól a ≫ r távol
 
 
                                                       12
-Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                Physics Olympiad Handouts
 
 
     Megoldás

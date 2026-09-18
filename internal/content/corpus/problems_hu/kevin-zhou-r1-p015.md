@@ -36,7 +36,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     headlight is mounted on the front of a car, amely then moves forward at a relativistic speed. The
 
                                                        7
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
     new width of the headlight’s beam is θ′ , in the frame of the Earth. Consider the following two

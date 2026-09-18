@@ -124,7 +124,7 @@ Rindler horizon. Since it has some features in common with the event horizon of 
 this setup is this problem is often used as a toy model in theoretical physics.
 28
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 26.  ^ 1 0USAPhO 2020, problem A3. An unusual problem that tests your understanding
+[3] Problem 26.   ^ 1 0USAPhO 2020, problem A3. An unusual problem that tests your understanding
 of momentarily comoving frames, and higher-dimensional Lorentz transformations. As a warning,
 this question requires you to make an unstated assumption. The fact that uniformly moving clocks
 have their time dilated by a factor of γ follows directly from the postulates of special relativity.
@@ -161,6 +161,6 @@ Kevin Zhou Physics Olympiad Handouts
 simultaneous according to both rockets. But because of the relativity of simultaneity, within the
 frame moving with the rear rocket after the first pulse, the front rocket does the second pulse earlier,
 and hence starts to move away. (For a neat visual explanation, see this video.)
-[5] Problem 28.  h 1 0APhO 2013, problem 2. This is a challenging question that ties together
+[5] Problem 28.   h 1 0APhO 2013, problem 2. This is a challenging question that ties together
 everything you’ve learned about kinematics.
 30

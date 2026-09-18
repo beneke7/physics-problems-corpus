@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, extremization]
 ---
 
-The sides of a square-shaped frame, shown in the figure are made of wires of resistances $r_1$ and $r_2$. The frame is in uniform magnetic field, which is perpendicular to the plane of the figure and is increasing at a constant rate. What should the resistance $R$ of the wire connected across the diagonal of the frame be, in order that this wire is warmed up at the greatest rate? 
+The sides of a square-shaped frame, shown in the figure are made of wires of resistances $r_1$ and $r_2$. The frame is in uniform magnetic field, which is perpendicular to the plane of the figure and is increasing at a constant rate. What should the resistance $R$ of the wire connected across the diagonal of the frame be, in order that this wire is warmed up at the greatest rate?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4957-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4957-fig1.gif)

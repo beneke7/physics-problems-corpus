@@ -24,7 +24,7 @@ techniques: [model-reduction, conservation-laws]
 ---
 
 3. Consider an infinite ladder of resistors. The input current $I_{0}$ is indicated in the figure.
-![](inpho-2018-a3-fig01.png)
+![](../../figures/inpho/figures/inpho-2018-a3-fig01.png)
     (a) Find the equivalent resistance of the ladder. [2]
     Equivalent resistance =
 

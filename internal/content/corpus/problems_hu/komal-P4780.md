@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4780. Mely szélességi fokokról látható (jó minőségű távcsővel) egy geostacionárius ,,szinkron műhold''? 
+P. 4780. Mely szélességi fokokról látható (jó minőségű távcsővel) egy geostacionárius ,,szinkron műhold''?
  Varga István (1952-2007) feladata

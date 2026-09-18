@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4703. Az ábrán látható alakzatban (amely a közepe felé korlátlanul folytatódik) a fekete körökkel jelzett pontok között $1~\Omega$ ellenállású vezetékek vannak. 
+P. 4703. Az ábrán látható alakzatban (amely a közepe felé korlátlanul folytatódik) a fekete körökkel jelzett pontok között $1~\Omega$ ellenállású vezetékek vannak.
 
- Mekkora az eredő ellenállás az $A$ és $B$ pontok között? 
+ Mekkora az eredő ellenállás az $A$ és $B$ pontok között?
  Amerikai versenyfeladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P4703-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4703-fig1.gif)

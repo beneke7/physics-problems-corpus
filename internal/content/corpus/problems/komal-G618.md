@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-At most what amount of water can be pumped up in a quarter of an hour from a depth of 50 m by means of a submersible pump of power rating 2 kW? 
+At most what amount of water can be pumped up in a quarter of an hour from a depth of 50 m by means of a submersible pump of power rating 2 kW?
  (3 pont)

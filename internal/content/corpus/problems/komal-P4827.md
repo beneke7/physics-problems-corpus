@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201603"
 verification_status: flagged
 ---
 
-Determine the currents in all the branches of the circuit shown in the figure. 
+Determine the currents in all the branches of the circuit shown in the figure.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4827-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4827-fig1.gif)

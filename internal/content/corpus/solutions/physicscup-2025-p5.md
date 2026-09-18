@@ -38,7 +38,7 @@ R = \frac{abc}{4[ABC]}
 = \frac{\sqrt{(v_1^2 + v_2^2)(v_2^2 + v_3^2)}}{2v_2}.
 $$
 
-![Figure 1: Diagram of the velocity circle Γ. The origin is located at X. The points A, B, C are the tips of the velocity vectors v₁, v₂, v₃ from X; A' and C' are the antipodal/reflected points used for the power-of-a-point argument, R is the circumradius (O the centre), d = OX, and v_max = R+d, v_min = R−d.](../../sources/physicscup/figures/physicscup-2025-p5-sol-1.png)
+![Figure 1: Diagram of the velocity circle Γ. The origin is located at X. The points A, B, C are the tips of the velocity vectors v₁, v₂, v₃ from X; A' and C' are the antipodal/reflected points used for the power-of-a-point argument, R is the circumradius (O the centre), d = OX, and v_max = R+d, v_min = R−d.](../../../../../sources/physicscup/figures/physicscup-2025-p5-sol-1.png)
 
 Let $v_{\min}$ and $v_{\max}$ be the minimum and maximum velocities of the satellite, respectively. By conservation of angular momentum, these velocities occur at the apoapsis and periapsis, with $v_{\min} r_{\max} = v_{\max} r_{\min}$. Hence, the eccentricity of the orbit is given by
 $$

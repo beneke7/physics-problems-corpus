@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, differential-element]
 ---
 
-An electric car accelerates uniformly from rest and reaches a speed of 108 km/h in 10 s. The radius of its wheels is 0.4 m, on the wheel there is a decorating ring of radius 0.2 m. How much time elapses from the start of the car until this narrow decorating ring will have a point which does not accelerate? What is the speed of the car at this moment? 
+An electric car accelerates uniformly from rest and reaches a speed of 108 km/h in 10 s. The radius of its wheels is 0.4 m, on the wheel there is a decorating ring of radius 0.2 m. How much time elapses from the start of the car until this narrow decorating ring will have a point which does not accelerate? What is the speed of the car at this moment?
  (5 pont)

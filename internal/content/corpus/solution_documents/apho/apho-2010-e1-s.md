@@ -48,7 +48,8 @@ Experimental Competition                                        Question Number 
        26.70      3.00        64.2×102             27.90      1.60        19.9×102
        26.75      3.60        92.7×102             28.10      1.40        15.5×102
        26.80      4.00        115×102              28.30      1.10        9.69×102
-Experimental Competition                                                      Question Number 1
+
+Experimental Competition                                                      Question Number 1
 27 April 2010
 
                                                                                              Page 2 of 8
@@ -94,7 +95,8 @@ Experimental Competition                                        Question Number 
 
 
        fRO = 27.0 Hz                                       Q = 81.8
-Experimental Competition                                            Question Number 1
+
+Experimental Competition                                            Question Number 1
 27 April 2010
 
                                                                                     Page 3 of 8
@@ -135,7 +137,8 @@ Experimental Competition                                        Question Number 
           5.80        0.60        30.70       3.70        1.31
           5.90        0.50        32.50       5.50        1.70
           6.00        0.40        34.20       7.20        1.97
-Experimental Competition                                               Question Number 1
+
+Experimental Competition                                               Question Number 1
 27 April 2010
 
                                                                                         Page 4 of 8
@@ -189,7 +192,8 @@ Experimental Competition                                        Question Number 
                            0.2   0.4   0.6   0.8    1.0    1.2   1.4   1.6   1.8
 
                                                    d(cm)
-Experimental Competition                                        Question Number 1
+
+Experimental Competition                                        Question Number 1
 27 April 2010
 
                                                                                   Page 5 of 8
@@ -225,7 +229,8 @@ Experimental Competition                                        Question Number 
        3.80       26.90
        3.50       26.90
        3.00       26.85
-Experimental Competition                                         Question Number 1
+
+Experimental Competition                                         Question Number 1
 27 April 2010
 
                                                                                  Page 6 of 8
@@ -268,7 +273,8 @@ Experimental Competition                                        Question Number 
 
 
        AB = 3.0 cm
-Experimental Competition                                                  Question Number 1
+
+Experimental Competition                                                  Question Number 1
 27 April 2010
 
                                                                                                Page 7 of 8
@@ -319,7 +325,8 @@ Experimental Competition                                        Question Number 
 
 
          dA = 0.16 cm                              dB = 0.35 cm
-Experimental Competition                                                Question Number 1
+
+Experimental Competition                                                Question Number 1
 27 April 2010
 
                                                                                     Page 8 of 8

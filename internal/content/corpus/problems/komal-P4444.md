@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201205"
 verification_status: pending
 ---
 
-The distance between two town is exactly 60 km along the highway. Some part of the highway goes through inhabitated area, where the speed limit is 50 km/h. In the uninhabitated area the speed limit is 90 km/h. If the speed limits are kept the shortest time to get from one of the town to the other is 46.6 minutes. What is the ratio of the lengths of the highway which is in the uninhabitated and in the inhabitated regions? 
+The distance between two town is exactly 60 km along the highway. Some part of the highway goes through inhabitated area, where the speed limit is 50 km/h. In the uninhabitated area the speed limit is 90 km/h. If the speed limits are kept the shortest time to get from one of the town to the other is 46.6 minutes. What is the ratio of the lengths of the highway which is in the uninhabitated and in the inhabitated regions?
  (3 pont)

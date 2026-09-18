@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, limiting-and-special-cases]
 ---
 
-On a clear, starlit night, you may notice that the stars ``twinkle'', i.e. their brightness changes. They even change their colour. The planets visible to the naked eye, on the other hand, do not squint or change colour. Explain this phenomenon. Do stars squint more at the top or the bottom of the sky? 
+On a clear, starlit night, you may notice that the stars ``twinkle'', i.e. their brightness changes. They even change their colour. The planets visible to the naked eye, on the other hand, do not squint or change colour. Explain this phenomenon. Do stars squint more at the top or the bottom of the sky?
  (3 pont)

@@ -47,4 +47,4 @@ $$
 $$
 (c) Draw a schematic ray diagram of the $D$ line for this arrangement indicating the numerical values of the following important angles: (i) incidence on each prism; (ii) deviation from each prism and (iii) angle between the adjacent surfaces of the two prisms. You may use a pencil for this diagram.
 
-![](inpho-2010-b3-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-b3-fig01.png)

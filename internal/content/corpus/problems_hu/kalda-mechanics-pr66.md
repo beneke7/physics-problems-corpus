@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy súrlódásmentes rudat $\alpha$ szögben helyezünk el a vízszinteshez képest. A rúdon egy $m$ tömegű kis gyűrű csúszhat, amelyhez hosszú fonalat erősítettünk. A fonalhoz egy $M$ méretű kis gömböt erősítünk. Kezdetben a gyűrűt nyugalomban tartjuk, a fonal pedig függőlegesen lóg. Ezután a gyűrűt elengedjük. Mekkora a gömb gyorsulása közvetlenül ezután?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr66-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr66-fig1.jpg)

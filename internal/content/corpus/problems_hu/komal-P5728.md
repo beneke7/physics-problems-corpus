@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5728. Az alábbi ábrán látható végtelen hálózatban minden ellenállás azonos $R$ ellenállású, minden kondenzátor azonos $C$ kapacitású és minden tekercs azonos $L$ induktivitású. 
+P. 5728. Az alábbi ábrán látható végtelen hálózatban minden ellenállás azonos $R$ ellenállású, minden kondenzátor azonos $C$ kapacitású és minden tekercs azonos $L$ induktivitású.
  Adjuk meg a hálózatba befolyó áramerősséget az idő függvényében, ha az $A$ és a $B$ pontok közé $U_{A,B}=U_{\mathrm{max}}\sin\omega t$ függvény szerint váltakozó feszültséget kapcsolunk!
 
-![figure](../../raw_html/komal_figures/komal-P5728-fig1.png)
+![figure](../../figures/komal/figures/komal-P5728-fig1.png)

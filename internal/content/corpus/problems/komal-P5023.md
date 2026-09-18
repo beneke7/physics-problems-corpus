@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-The speed of an object sliding down a slope of angle of elevation $25^\circ$, is one-quarter of the final speed that the object could have reached if there was no friction. What is the coefficient of kinetic friction? 
+The speed of an object sliding down a slope of angle of elevation $25^\circ$, is one-quarter of the final speed that the object could have reached if there was no friction. What is the coefficient of kinetic friction?
  (4 pont)

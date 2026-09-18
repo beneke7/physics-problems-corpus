@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, differential-element]
 ---
 
-In two circular regions of radius $R$ at a distance of $d$ ($d>2R$) from each other (two black circles), there is uniform magnetic field of magnetic induction $B$ which points in the same direction, perpendicular to the plane of the figure . A point particle with charge $Q$ and mass $m$ moves periodically at a speed of $v$ along the orbit shown in the figure (red curve). How long does it take for the particle to cover the red orbit once? What is the minimum value of the magnetic induction so that the particle still moves periodically along an orbit? 
+In two circular regions of radius $R$ at a distance of $d$ ($d>2R$) from each other (two black circles), there is uniform magnetic field of magnetic induction $B$ which points in the same direction, perpendicular to the plane of the figure . A point particle with charge $Q$ and mass $m$ moves periodically at a speed of $v$ along the orbit shown in the figure (red curve). How long does it take for the particle to cover the red orbit once? What is the minimum value of the magnetic induction so that the particle still moves periodically along an orbit?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5568-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5568-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates, conservation-laws]
 ---
 
-Three rods, among which any two are perpendicular to each other, are placed onto a rough surface and form a pyramid. The vertex of the pyramid supports a weight of  Q . What are the forces exerted by the rods, if they have equal lengths, and if they have different lengths? (The weight of the rods is negligible with respect to the weight  Q .) 
+Three rods, among which any two are perpendicular to each other, are placed onto a rough surface and form a pyramid. The vertex of the pyramid supports a weight of  Q . What are the forces exerted by the rods, if they have equal lengths, and if they have different lengths? (The weight of the rods is negligible with respect to the weight  Q .)
  (5 pont)

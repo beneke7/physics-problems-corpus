@@ -31,7 +31,7 @@ solution_language: en
     in height, performing simple harmonic motion. Neglecting drag and heat transfer between the
     parcel of air and its surroundings, find the angular frequency ω of this motion. This is called the
 
-                  01^
+                  01^
     Brunt–Vaisala or buoyancy frequency.
 
-                        01^
+                        01^

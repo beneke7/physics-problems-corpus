@@ -23,7 +23,9 @@ The 4th Gulf Physics Olympiad — Theoretical Competition Solutions
 
 
                             — page 1 of 8 —
-                        PROBLEM 1
+
+
+                        PROBLEM 1
                                                                                           GPhO
                                                                                           Dammam 2022
 
@@ -109,7 +111,9 @@ are given by
 
 
                                                          — page 2 of 8 —
-                        PROBLEM 1
+
+
+                        PROBLEM 1
                                                                                           GPhO
                                                                                           Dammam 2022
 
@@ -168,7 +172,9 @@ with ρ = ρ1 r12 /r2 and indeed, it’s satisfied when we set For example elect
 
 
                                                          — page 3 of 8 —
-                        PROBLEM 2
+
+
+                        PROBLEM 2
                                                                                          GPhO
                                                                                          Dammam 2022
 
@@ -252,7 +258,9 @@ release the same amount of heat as it absorbs. The absorbed                     
 heat flux has two contributions, one is the absorbed flux I1 α                         k =2 1−                .
                                                                                                     ε0 σT 4
                                                         — page 4 of 8 —
-                        PROBLEM 2
+
+
+                        PROBLEM 2
                                                                                            GPhO
                                                                                            Dammam 2022
 
@@ -298,7 +306,9 @@ corresponds to a Carnot cycle
 
 
                                                           — page 5 of 8 —
-                        PROBLEM 3
+
+
+                        PROBLEM 3
                                                                                          GPhO
                                                                                          Dammam 2022
 
@@ -383,7 +393,9 @@ and so A = πR2 = 0.0114 m2 and                        (0.2 pts)
 able one is using energy arguments, the second one using mo- To a decent approximations, we can decompose the air drag’s
 mentum. Both approaches start by noting that the air drag action into separate horizontal and vertical components. As
                                                         — page 6 of 8 —
-                        PROBLEM 3
+
+
+                        PROBLEM 3
                                                                                           GPhO
                                                                                           Dammam 2022
 
@@ -451,7 +463,9 @@ and so                                                               Subtracting
 Exact answer: ∆x = 2.39 m.
 Part B. Discus throw (1 points)
                                                         — page 7 of 8 —
-                        PROBLEM 3
+
+
+                        PROBLEM 3
                                                                                          GPhO
                                                                                          Dammam 2022
 

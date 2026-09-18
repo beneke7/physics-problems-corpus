@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5629. Egy képzeletbeli naprendszer szinte pontos mása a mi Naprendszerünknek, csak minden lineáris méret feleakkora, mint a valódi rendszerben. A képzeletbeli égitestek sűrűsége megegyezik a valódiak sűrűségével. Mekkora a mini föld keringési ideje a képzeletbeli naprendszerben? 
+P. 5629. Egy képzeletbeli naprendszer szinte pontos mása a mi Naprendszerünknek, csak minden lineáris méret feleakkora, mint a valódi rendszerben. A képzeletbeli égitestek sűrűsége megegyezik a valódiak sűrűségével. Mekkora a mini föld keringési ideje a képzeletbeli naprendszerben?
  Példatári feladat nyomán

@@ -25,7 +25,7 @@ techniques: [conservation-laws, differential-element]
 
 A roller consists of a solid homogeneous cylinder of mass $M$ and radius $r$; it rests on a horizontal table and is attached to a wall via a helical spring of spring constant $k$ (see figure). The spring can be assumed to be of a negligible mass and ideal, i.e. the Hooke's law remains valid for arbitrarily large deformations.
 
-![figure](../../sources/nbpho/figures/nbpho-2019-roller-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2019-roller-fig1.jpg)
 
 **i)** *(1 point)* At first, let as assume that there is no friction between the cylinder and the table. The roller is pushed aside and released; find the period of oscillations $T_{0}$.
 

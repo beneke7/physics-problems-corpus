@@ -20,10 +20,10 @@ intensities of the two is naively
 Istar
 ISun
 =
-
+
 d
 D
-2
+ 2
 .
 This suggests the star is hard to see if D > d, which is always true. But this is too pessimistic,
 because the light from the Sun comes from all directions in the sky, while the light from the
@@ -31,10 +31,10 @@ star comes from only a single direction. The actual ratio we want to calculate i
 Istar/Ωstar
 ISun/2π
 =
-
+
 d
 D
-2
+ 2
 2π
 Ωstar
 where Ωstar is the apparent solid angle of the star in the sky.

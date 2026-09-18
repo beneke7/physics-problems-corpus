@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-A light thin steel rod is clamped and held horizontally. A weight is attached to its free end such that it pulls that end to a 1 cm lower position than it was originally. If it is made to oscillate with small amplitude, what is the period of the oscillation? 
+A light thin steel rod is clamped and held horizontally. A weight is attached to its free end such that it pulls that end to a 1 cm lower position than it was originally. If it is made to oscillate with small amplitude, what is the period of the oscillation?
  (4 pont)

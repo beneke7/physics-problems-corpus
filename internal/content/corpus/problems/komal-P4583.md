@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201312"
 verification_status: pending
 ---
 
-The skid mark left on the asphalt by a stopping roadster is 290 m. While it was skidding a constant force slowed it down with a deceleration of 3.90 m/s$^{2}$. What was the speed of the car when it began to skid? What was the magnitude of the force which decelerated it? What was the coefficient of friction between the tires and the asphalt? The total weight of the car with fuel and with its driver is 2150 kg. 
+The skid mark left on the asphalt by a stopping roadster is 290 m. While it was skidding a constant force slowed it down with a deceleration of 3.90 m/s$^{2}$. What was the speed of the car when it began to skid? What was the magnitude of the force which decelerated it? What was the coefficient of friction between the tires and the asphalt? The total weight of the car with fuel and with its driver is 2150 kg.
  (3 pont)

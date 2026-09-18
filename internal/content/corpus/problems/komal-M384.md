@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201902"
 verification_status: flagged
 ---
 
-Determine the efficiency of an electric kettle of known power rating, as a function of the mass of the water in it. 
+Determine the efficiency of an electric kettle of known power rating, as a function of the mass of the water in it.
  (6 pont)

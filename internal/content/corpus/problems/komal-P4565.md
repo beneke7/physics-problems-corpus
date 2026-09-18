@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-Any object projected in airless space (e.g. on the Moon) at an initial speed of v $_{0}$ travels along a parabolic path. How far is the focus of this parabola from the position of the projection? What is the angle of the projection, when the focus of the parabola is at the same height as the initial position of the object? 
+Any object projected in airless space (e.g. on the Moon) at an initial speed of v $_{0}$ travels along a parabolic path. How far is the focus of this parabola from the position of the projection? What is the angle of the projection, when the focus of the parabola is at the same height as the initial position of the object?
  (5 pont)

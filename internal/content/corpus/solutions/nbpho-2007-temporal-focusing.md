@@ -43,7 +43,7 @@ m
 8U3
 0 e
 {a[U(0) − U(t)] + b[U(t + ta) − U(t)]} = t,
-where the flight time ta ≈ a/v0 [since U 
+where the flight time ta ≈ a/v0 [since U
  U0]. Using the suggested
 approximation, we obtain
 r
@@ -86,11 +86,11 @@ U(t) =
 0 e
 mab
 t
-
+
 t − a
 p
 m/2U0e
-
+
 .
 4) Lost are those electrons, which are in the interval between B and C,
 when the voltage drops to 0. The duration of the time interval, when

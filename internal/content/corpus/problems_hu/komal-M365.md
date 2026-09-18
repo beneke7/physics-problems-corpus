@@ -9,7 +9,7 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 365. Méréssel határozzuk meg azt a vízmélységet, ahonnan elengedve egy pingponglabdát az 
- $a)$ teljes egészében kibukik a vízből; 
- $b)$ a lehető legmagasabbra emelkedik a víz felszíne fölé! 
+M. 365. Méréssel határozzuk meg azt a vízmélységet, ahonnan elengedve egy pingponglabdát az
+ $a)$ teljes egészében kibukik a vízből;
+ $b)$ a lehető legmagasabbra emelkedik a víz felszíne fölé!
  Zsigri Ferenc, Budapest

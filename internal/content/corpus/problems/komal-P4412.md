@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-Experiments carried out in cloud chambers make it possible to observe the path of charged particles moving in uniform magnetic field. Is it possible that during a charged particle decays to two other particles the circular paths which touch each other, and which are shown in the figure can be seen in the cloud chamber? (The declaration of the particles are negligible on the examined part of the motion.) 
+Experiments carried out in cloud chambers make it possible to observe the path of charged particles moving in uniform magnetic field. Is it possible that during a charged particle decays to two other particles the circular paths which touch each other, and which are shown in the figure can be seen in the cloud chamber? (The declaration of the particles are negligible on the examined part of the motion.)
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4412-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4412-fig1.gif)

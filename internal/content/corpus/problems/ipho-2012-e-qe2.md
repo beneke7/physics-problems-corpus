@@ -28,15 +28,15 @@ techniques: [differential-element, strategic-heuristics]
 In simple problems, electrical circuits are assumed to consist of linear elements, for which electrical characteristics are directly proportional to each other. Examples include resistance $(V=R I)$, capacitance $(Q=C V)$ and inductance $\left(V=L \dot{I}=L \frac{d I}{d t}\right)$, where $R, C$ and $L$ are constants. In this problem, however, we examine a circuit containing nonlinear elements, enclosed in a black box, for which the assumption of proportionality no longer holds.
 The setup comprises a multimeter (labelled "IPhOmeasure"), a black box that acts as a current source, a black box containing nonlinear elements, and four test leads with stackable connectors for wiring. Be careful not to break the seal on the black box.
 The multimeter can measure current and voltage simultaneously. You can store with it up to 2000 data points, each consisting of: voltage $V$, current $I$, power $P=I V$, resistance $R=V / I$, voltage time derivative $\dot{V}\left(=\frac{d V}{d t}\right)$, current time derivative $\dot{I}\left(=\frac{d I}{d t}\right)$ and time $t$. See multimeter manual for details. If you go beyond 2000 stored data points, the oldest data will be overwritten.
-![](ipho-2012-e-qe2-fig01.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-fig01.png)
 
 The constant current source supplies stable current as long as the voltage across its terminals stays between -0.6125 V and 0.6125 V. When switched off, the constant current source behaves as a large (essentially infinite) resistance.
-![](ipho-2012-e-qe2-fig02.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-fig02.png)
 
 The black box contains an electric double layer capacitor (which is a slightly nonlinear high capacitance capacitor), an unknown nonlinear element, and an inductor $L=10 \mu \mathrm{H}$ of negligible resistance, switchable as indicated on the circuit diagram. The nonlinear element can be considered as a resistance with a nonlinear dependence between the voltage and the current $[I(V)$ is a continuous function of $V$ with $I(0)=0]$. Likewise, for the capacitor, the differential capacitance $C(V)=$ $d Q / d V$ is not exactly constant.
 We say that the voltage on the black box is positive when the potential on its red terminal is higher than the potential on the black terminal. Positive voltage will be acquired when the terminals of matching colours on the black box and the current source are connected (you are allowed to use negative voltages).
-![](ipho-2012-e-qe2-fig03.png)
-![](ipho-2012-e-qe2-fig04.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-fig03.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-fig04.png)
 
 It is safe to discharge the capacitor in the black box by shorting its inputs, either by itself or through the IN and OUT terminals on multimeter: the internal resistance of this capacitor is enough to keep the current from damaging anything.
 

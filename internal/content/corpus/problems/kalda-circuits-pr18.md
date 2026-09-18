@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the resistance between opposing corners of a cube, the edges of which are made of wire, see figure; the resistance of one edge is $1 \Omega$
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr18-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr18-fig1.jpg)

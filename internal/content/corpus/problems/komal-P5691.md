@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, model-reduction, differential-element]
 ---
 
-Determine the moment of inertia of a thin, equilateral triangle-shaped plate of uniform mass distribution, with mass $m$, and side length $a$, with respect to an axis, which goes through one of the vertices of the triangle, and 
- a) which is perpendicular to the plane of the plate, 
- b) which coincides with the altitude of the triangle, 
- c) the axis is perpendicular to the previously described two axes. 
+Determine the moment of inertia of a thin, equilateral triangle-shaped plate of uniform mass distribution, with mass $m$, and side length $a$, with respect to an axis, which goes through one of the vertices of the triangle, and
+ a) which is perpendicular to the plane of the plate,
+ b) which coincides with the altitude of the triangle,
+ c) the axis is perpendicular to the previously described two axes.
  (5 pont)

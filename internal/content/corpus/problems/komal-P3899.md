@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: flagged
 ---
 
-A sample of ideal gas is taken through the cyclic process shown in the figure. At state X T $_{ X }$=373 K, V $_{ X }$=5 dm$^{3}$, and at state Z V $_{ Z }$=12 dm$^{3}$, T $_{ Z }$=273 K. At which state of the process Z X will the pressure be the same as the pressure at state  Y ? 
+A sample of ideal gas is taken through the cyclic process shown in the figure. At state X T $_{ X }$=373 K, V $_{ X }$=5 dm$^{3}$, and at state Z V $_{ Z }$=12 dm$^{3}$, T $_{ Z }$=273 K. At which state of the process Z X will the pressure be the same as the pressure at state  Y ?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3899-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3899-fig1.gif)

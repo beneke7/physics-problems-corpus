@@ -22,12 +22,12 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A piece of thread is wound around the rim of a very light disc if radius $r=0.1$ m. An object of mass $m=100$ g is attached to the free end of the thread. The disc has a horizontal axle at its centre and also there is a rod of negligible mass fixed to it. There is a small object of mass $M$ attached to the end of the rod at a distance of $R=0.2$ m from the centre of the disc. 
- Initially the system is at rest in the position shown in the figure. Suddenly the support of the object of mass $m$ is taken away, and the small object of mass $M$ just reaches the position indicated by the broken line, enclosing a $60^\circ$ angle with the vertical. After some lightly damped swings the rod reaches its equilibrium position, at which the angle between the rod and the vertical is $\varphi$. 
+A piece of thread is wound around the rim of a very light disc if radius $r=0.1$ m. An object of mass $m=100$ g is attached to the free end of the thread. The disc has a horizontal axle at its centre and also there is a rod of negligible mass fixed to it. There is a small object of mass $M$ attached to the end of the rod at a distance of $R=0.2$ m from the centre of the disc.
+ Initially the system is at rest in the position shown in the figure. Suddenly the support of the object of mass $m$ is taken away, and the small object of mass $M$ just reaches the position indicated by the broken line, enclosing a $60^\circ$ angle with the vertical. After some lightly damped swings the rod reaches its equilibrium position, at which the angle between the rod and the vertical is $\varphi$.
 
- $a)$ What is the mass $M$ of the object at the end of the rod? 
- $b)$ What is the measure of the angle $\varphi$? 
- $c)$ If the system is displaced a bit from its equilibrium position, what is the period of the oscillation? 
+ $a)$ What is the mass $M$ of the object at the end of the rod?
+ $b)$ What is the measure of the angle $\varphi$?
+ $c)$ If the system is displaced a bit from its equilibrium position, what is the period of the oscillation?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4655-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4655-fig1.gif)

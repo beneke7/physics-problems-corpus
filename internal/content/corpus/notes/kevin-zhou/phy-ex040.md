@@ -30,7 +30,6 @@ into a glass. The residual entropy is then
                                                      d̄Q              d̄Q
                                   Sres =                 +                .
                                             T =0      T       T =ℓ     T
-69 3. Statistical Mechanics
 
 
 In other words, the residual entropy is related to the amount of “missing heat”, which we transfer
@@ -80,7 +79,6 @@ of the literature is given here. My personal opinion is the following. Our first
 define the temperature as “whatever a thermometer measures”, but this doesn’t work. For example,
 consider a thermometer immersed in blackbody radiation of temperature T . Different thermometers
 could have different absorptivities a(f ), but the reading at equilibrium will be the same no matter
-70 3. Statistical Mechanics
 
 
 what a(f ) is, because of Kirchoff’s law of thermal radiation a(f ) = e(f ). But if we boost the
@@ -92,7 +90,7 @@ the entropy cost of exchanging some conserved quantity, namely energy, volume, a
 But once we consider moving bodies, there is another conserved quantity that can be exchanged,
 namely momentum. The corresponding temperature-like quantity should combine with the usual
 temperature in a four-vector. Explicitly, we may define
-                                                     
+
                                                   ∂S
                                           βµ =
                                                   ∂pµ V,N
@@ -105,7 +103,7 @@ don’t run into this subtlety with pressure or chemical potential, because it i
 thermometer that exchanges energy but not volume or particle number. It is much harder to build
 a thermometer that somehow exchanges energy but not momentum.)
    In the rest frame, we have βµ = (1/T, 0), which means in a general frame,
-                                                γ γ v
+                                                 γ γ v
                                           βµ =    ,      .
                                                  T T c
 If one chooses to define the temperature in a general frame as 1/β0 , then this implies T ′ = T /γ.

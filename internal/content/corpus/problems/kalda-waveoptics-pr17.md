@@ -19,4 +19,4 @@ verification_status: pending
 
 [Est-PhO-2004] Screen, two mirrors, and a source of monochromatic light are positioned as shown in figure. Due to a shade, only reflected light from the source can reach the screen. There will be a striped interference pattern on the screen; the distance between the stripes is $d$. Express the wavelength of the light $\lambda$ in terms of $d$ and the distance $a$ (see figure). Assume that $a \gg d$.
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr17-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr17-fig1.jpg)

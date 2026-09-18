@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható módon 15 azonos voltmérőt és 15 különböző ampermérőt kapcsolunk egy telepre. Az első voltmérő kijelzése $V=9 \mathrm{~V}$, az első két ampermérőé pedig $I_{1}=2.9 \mathrm{~mA}$ és $I_{2}=2.6 \mathrm{~mA}$. Mekkora a többi voltmérő kijelzéseinek összege?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr7-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr7-fig1.jpg)

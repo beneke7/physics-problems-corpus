@@ -19,4 +19,4 @@ verification_status: pending
 
 Vertical mirror with two reflecting surfaces (front and back) rotates around a vertical axis as shown in figure, with angular speed $\omega$. There is an unmoving point source of light $S$ at a distance $a$ from the rotation axis. Find the speed of the image of the point source as a function of time.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr9-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr9-fig1.jpg)

@@ -29,7 +29,7 @@ Ekkor
                  dH = T dS + V dp,     dF = −S dT − p dV,      dG = −S dT + V dp.
 
 E differenciálokból leolvashatjuk e függvények természetes változóit. A mennyiségek közötti átváltáshoz használhatjuk a Gibbs–Helmholtz-egyenleteket:
-                                                                     
+
                                  2 ∂(F/T )                  2 ∂(G/T )
                          U = −T                  , H = −T
                                        ∂T      V                   ∂T     p
@@ -53,7 +53,7 @@ Mivel a körfolyamat tetszőleges, a differenciális 2-formák egyenlők:
                                          dp ∧ dV = dT ∧ dS.
 
 A számítás nyelvén ez azt jelenti, hogy a (p, V ) változókról a (T, S) változókra való áttérés Jacobi-determinánsa egy. Ez az egyenlőség valamennyi Maxwell-reláció levezetésére felhasználható. Tegyük fel például, hogy T = T (S, V ) és P = P (S, V ). A differenciálok kifejtésével és a dS ∧ dS = dV ∧ dV = 0 azonosság használatával:
-                                                     
+
                                  ∂T                  ∂P
                                        dV ∧ dS =             dS ∧ dV
                                  ∂V S                ∂S V
@@ -61,4 +61,3 @@ A számítás nyelvén ez azt jelenti, hogy a (p, V ) változókról a (T, S) v�
 ebből leolvashatunk egy Maxwell-relációt. A másik három ugyanígy vezethető le, tehát fizikailag a Maxwell-relációk egyszerűen az energiamegmaradást fejezik ki. (Maxwell eredetileg hasonló módon vezette le őket, de az euklideszi geometria nyelvét használva!)
 
 Most néhány példát adunk a Maxwell-relációkat és a parciális deriválási szabályokat alkalmazó feladatokra.
-65 3. Statisztikus mechanika

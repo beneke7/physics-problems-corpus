@@ -66,7 +66,9 @@ and it is achieved at the mass ratio
 emf ε and an internal resistance r . Thus, we obtain the circuit shown in the figure on the left hand
 side. Then, we disconnect the resistance R , add another two current sources and connect back the
 resistance R . Hence, we obtain the circuit shown in the figure on the right hand side. Since the
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 2/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 2/10
 
 
 number of cells with the sources is infinite, then both circuits should be equivalent at any value of
@@ -116,7 +118,9 @@ Therefore, the current flowing through the resistance R is found as
         6     Formula (3)                                                              0.25
         7     Formula (4)                                                              0.25
         8     Formula (5)                                                               0.5
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/10
 
 
                                           1C (2.5 points)
@@ -136,7 +140,9 @@ ray BD through the point B which is parallel to the main optical axis, and after
 the ray (or its extension) should pass through B'. From its continuation to the intersection with the
 main optical axis, we find one of the main focuses F 1 . Similarly, we find the second main focus F 2 .
 The drawing above shows that the lens is concave (diverging).
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 4/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 4/10
 
 
                               Theoretical Question 2 (10 points)
@@ -191,7 +197,9 @@ which is Ohm’s law with the specific conductivity found as
 4. [1 point]
         Each electron transfers its kinetic energy at the end of the acceleration, i.e. at the moment of
 collision with an ion,
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 5/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 5/10
 
 
 
@@ -257,7 +265,9 @@ where ω = eB / m .
          u y (t ) −
                   = 1 − cos  t   .                                              (24)
                       B          m 
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 6/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 6/10
 
 
 6. [2 points]
@@ -324,7 +334,9 @@ or, in terms of the previous variables,
                                E
        = u x A cos(ωt + α ) + H ,                                                         (37)
                                B
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 7/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 7/10
 
 
                             E
@@ -384,7 +396,9 @@ or
            24   Velocity (40)                                                           0.5
            25   The Hall electric field strength (41)                                   0.5
            26   The Hall electric field strength (42)                                   0.5
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 8/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 8/10
 
 
                                       Theoretical Question 3
@@ -455,7 +469,9 @@ At low temperatures, the exponent itself is small, exp  −        << 1 , 
                                               CV =     .                                               (6)
                                                    ∂T
 In the most general case we derive
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/10
 
 
                                                                                  ε 
@@ -532,7 +548,9 @@ used.
                                                        V
 i.e. the pressure is proportional to the absolute temperature.
          At low temperatures, we have
-VII International Zhautykov Olympiad/Theoretical Competition/Solutions          Page 10/10
+
+
+VII International Zhautykov Olympiad/Theoretical Competition/Solutions          Page 10/10
 
 
 

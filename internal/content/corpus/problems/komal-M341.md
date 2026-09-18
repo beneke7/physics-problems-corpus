@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201404"
 verification_status: pending
 ---
 
-Beat several egg whites until stiff. Measure by what factor did the volume of the egg white increase. What is the average volume of the bubbles? Estimate the number of bubbles. 
+Beat several egg whites until stiff. Measure by what factor did the volume of the egg white increase. What is the average volume of the bubbles? Estimate the number of bubbles.
  (6 pont)

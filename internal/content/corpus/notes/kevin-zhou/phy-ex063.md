@@ -48,7 +48,7 @@ exponentials decaying away on both sides,
                                              e            x>0
 
 The delta function produces a change of slope at the origin, g ′ ψ(0) = (ℏ2 /2m)∆ψ ′ (0), which gives
-                                               Z ∞            2
+                                                Z ∞             2
                                         g2m
                                    E0 =                V (x) dx .
                                         2ℏ2       −∞
@@ -61,7 +61,6 @@ where the velocity operator is defined in general by Hamilton’s equations,
                                                    ∂H
                                               v=      .
                                                    ∂p
-132 5. Fundamentals of Quantum Mechanics
 
 
 In simple cases where the kinetic term is p2 /2m, this implies
@@ -104,7 +103,7 @@ We now consider identities for expectation values, generally referred to as Ehre
     way to link our quantum results to classical mechanics, since it looks like Hamilton’s equations.
 
   • Upon taking the expectation value of both sides, we get a result that is independent of picture,
-                                                                
+
                                   d        i                 ∂A
                                      ⟨A⟩ = ⟨[H(t), A]⟩ +           .
                                   dt       ℏ                  ∂t
@@ -113,7 +112,6 @@ We now consider identities for expectation values, generally referred to as Ehre
     [A, H(t)] = 0. Then its expectation value is constant. In the classical limit, the distribution
     of A can generally be chosen sharply peaked, turning this expectation value into a definite
     classical value, and recovering the classical notion of a conservation law.
-133 5. Fundamentals of Quantum Mechanics
 
 
   • In general, a relation between quantum expectation values that parallels a classical result is
@@ -166,7 +164,6 @@ regularization is performed, leading to continued controversy in the literature,
 called the “one-dimensional hydrogen atom”.
     For the potential −a/x2 potential in one dimension, the virial theorem gives ⟨T ⟩ + ⟨V ⟩ = 0,
 which seems to suggest there are no bound states. However, for sufficiently large a, solutions to
-134 5. Fundamentals of Quantum Mechanics
 
 
 the time-independent Schrodinger equation with negative total energy do exist; it’s just that they

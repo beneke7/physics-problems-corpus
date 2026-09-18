@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202309"
 verification_status: pending
 ---
 
-Measure how the distance covered by a pull-back toy car depends on the length of the backward pull. 
+Measure how the distance covered by a pull-back toy car depends on the length of the backward pull.
  (6 pont)

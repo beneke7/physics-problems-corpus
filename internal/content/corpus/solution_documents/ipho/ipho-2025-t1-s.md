@@ -84,7 +84,9 @@ then 𝑟1 = 5.31 × 10   −11
 
 
 Marker Scheme
-                                                                                           Q1-2
+
+
+                                                                                           Q1-2
 Theory
 
 
@@ -158,7 +160,9 @@ The magnetic field created by a loop with current 𝑖 and radius 𝑅 is : 𝐵
 
 
 Marker Scheme
-                                                                                       Q1-3
+
+
+                                                                                       Q1-3
 Theory
 
 
@@ -234,7 +238,9 @@ Part B - Rotation curves of galaxies
 Data
    • Kiloparsec: 1 kpc = 3.09 × 1019 m
    • Solar mass : 1 M⊙ = 1.99 × 1030 kg
-                                                                                    Q1-4
+
+
+                                                                                    Q1-4
 Theory
 
 
@@ -298,7 +304,9 @@ or one knows the law 𝑔(𝑟) = 𝐺 𝑀 /𝑟 𝑔(𝑟)
                                            = −𝐺 𝑀 /𝑟 and intuits that one can use the interior mass
                                        ::::::::::::::
                                                        2
-                                                                                         Q1-5
+
+
+                                                                                         Q1-5
 Theory
 
 
@@ -377,7 +385,9 @@ method.
                                        𝑟
 But, on the other hand 𝑀int = ∫0 4𝜋𝑥2 𝜌(𝑥)𝑑𝑥 = 4𝜋𝐶𝑚 𝑟 − 𝑟𝑚 arctan ⒧ 𝑟𝑟 ⒭ hence
                                                                                     𝑚
-                                                                                          Q1-6
+
+
+                                                                                          Q1-6
 Theory
 
 
@@ -457,7 +467,9 @@ Marker Scheme
 
 Part C - Mass distribution in our galaxy
 For a spiral galaxy, the model for Eq. 1 is modified and one usually considers the gravitational potential
-                                                                                                      Q1-7
+
+
+                                                                                                      Q1-7
 Theory
 
 
@@ -530,7 +542,9 @@ correctly choosing the origin of the potential. This potential corresponds to: �
                                                                                                             2
 𝜑0 = +4𝜋𝐶𝑚 𝐺 . In that case, the equation of motion in the galactic plane gives −𝑚 𝑣𝑟𝑐 = −𝑚𝑔𝑚 (𝑟) which
 writes 𝑣𝑐 = √𝑟𝑔𝑚 (𝑟) = √4𝜋𝐶𝑚 𝐺 , so that 𝑣𝑐 = √𝜑0 .
-                                                                                    Q1-8
+
+
+                                                                                    Q1-8
 Theory
 
 
@@ -574,7 +588,9 @@ sight.
 
      C.3     Determine 𝑣𝑟𝐸/𝑆 in terms of ℓ, 𝑅, 𝑅⊙ and 𝑣⊙ . Then, express 𝑅 in terms of 𝑅⊙ , 𝑣⊙ ,         0.7pt
              ℓ and 𝑣𝑟𝐸/𝑆 .
-                                                                                    Q1-9
+
+
+                                                                                    Q1-9
 Theory
 
 
@@ -632,7 +648,9 @@ in Fig. 3.
              expressed as multiples of 𝑅⊙ .
 
 SOLUTION:
-                                                                          Q1-10
+
+
+                                                                          Q1-10
 Theory
 
 
@@ -685,7 +703,9 @@ CS, we then obtain a radius which perpendicular to the line of sight, in other w
 line of sight is passing by S and is tangenting the circle of radius CS/2.
 Drawing the circles or radius , and , the line of sight with from we get 2 possible intersection for each
 peak : a near one and a far one. We plot only the nearest for each source on the answer figure.
-                                                                        Q1-11
+
+
+                                                                        Q1-11
 Theory
 
 
@@ -726,7 +746,9 @@ The flat external velocity curve of NGC 6946 in Fig. 1 is a common property of s
 be seen in Fig. 4 (left). Plotting the external constant velocity value 𝑣𝑐,∞ as a function of the measured
 total mass 𝑀tot of each galaxy gives an interesting correlation called the Tully-Fischer relation, see Fig. 4
 (right).
-                                                                                  Q1-12
+
+
+                                                                                  Q1-12
 Theory
 
 
@@ -803,7 +825,9 @@ namics (MOND) theory suggests that one can modify Newton's second law using 𝐹
      →
      −                                                                                𝑥
 𝑎= ‖𝑎 ‖ is the modulus of the acceleration and the 𝜇 function is defined by 𝜇(𝑥) = 1 + 𝑥 .
-                                                                                 Q1-13
+
+
+                                                                                 Q1-13
 Theory
 
 
@@ -876,7 +900,9 @@ relation 𝑎0 = 𝐺 𝑀
 
 
 Marker Scheme
-                                                                                              Q1-14
+
+
+                                                                                              Q1-14
 Theory
 
 
@@ -947,7 +973,9 @@ which is 𝑣𝑐4 − 𝐺𝑟𝑀 ⒧ 𝑅𝑟 ⒭ 𝑣𝑐2 − 𝑎0 𝐺 �
 When 𝑟 → 0, we recover 𝑣𝑐 → 0 as in the experimental data.
 
 Marker Scheme
-                                                           Q1-15
+
+
+                                                           Q1-15
 Theory
 
 

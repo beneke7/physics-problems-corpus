@@ -80,5 +80,5 @@ solution_language: en
     anywhere in Olympiad physics, but the key idea of using dimensionless quantities to simplify and
 
 
-                   01h
+                   01h
     clarify the physics can be used everywhere.

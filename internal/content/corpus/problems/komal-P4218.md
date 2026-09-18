@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201001"
 verification_status: flagged
 ---
 
-What is the current in the wires which join the points A and  X , and the points X and  Y , shown in the figure? Data: R =6  , U =24 V. 
+What is the current in the wires which join the points A and  X , and the points X and  Y , shown in the figure? Data: R =6  , U =24 V.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4218-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4218-fig1.gif)

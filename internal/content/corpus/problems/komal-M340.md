@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201403"
 verification_status: pending
 ---
 
-Using the free software called Audacity, determine the coefficient of restitution of a table tennis-ball and multiple different surfaces. 
+Using the free software called Audacity, determine the coefficient of restitution of a table tennis-ball and multiple different surfaces.
  (6 pont)

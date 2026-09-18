@@ -63,10 +63,10 @@ second gives
 ω̈ +
 1
 JL
-
+
 BR2
 2
-2
+ 2
 ω =
 BR2
 2JL
@@ -96,7 +96,7 @@ would damp out. We would then approach the steady state solution, which is where
 emf balances the battery’s emf and almost no current flows at all, I ≈ 0 and ω ≈ 2V/BR2.
 (Or, if we used the motor to do work, then in the steady state the current would be nonzero
 and the angular velocity would be somewhat lower.)
-[4] Problem 7.  T 1 0IPhO 1990, problem 2. A neat problem on an exotic propulsion mechanism called
+[4] Problem 7.   T 1 0IPhO 1990, problem 2. A neat problem on an exotic propulsion mechanism called
 an electrodynamic tether, which also reviews M6.
 2 Faraday’s Law
 8

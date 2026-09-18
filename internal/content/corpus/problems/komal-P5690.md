@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates, limiting-and-special-cases]
 ---
 
-A small body of weight $G$ rests on a slope of angle $\alpha$. The coefficient of friction between the body and the slope is $\mu>\tan\alpha$. 
- What is the minimum force needed to move the body, and in what direction should it be exerted? 
+A small body of weight $G$ rests on a slope of angle $\alpha$. The coefficient of friction between the body and the slope is $\mu>\tan\alpha$.
+ What is the minimum force needed to move the body, and in what direction should it be exerted?
  (5 pont)

@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3785. Állandó 100 kPa nyomáson C $_{ V }$=20 J/(mol$^{ . }$K) mólhőjű ideális gázt hűtünk. A gáz térfogata hűtés közben a kezdeti 1 m$^{3}$-ről a felére csökken. 
+P. 3785. Állandó 100 kPa nyomáson C $_{ V }$=20 J/(mol$^{ . }$K) mólhőjű ideális gázt hűtünk. A gáz térfogata hűtés közben a kezdeti 1 m$^{3}$-ről a felére csökken.
 
  Mennyi hőt ad le hűtés közben a gáz? Milyen gáz lehet ez?

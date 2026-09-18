@@ -37,4 +37,6 @@ This subtle problem will expose a hidden assumption we’ve made in the previous
           explicitly? For that matter, what does Coulomb’s law say about this setup, anyway?
 
                                                        4
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts

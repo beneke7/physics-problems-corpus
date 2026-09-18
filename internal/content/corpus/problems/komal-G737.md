@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-To how many equal parts should a piece of wire of resistance $100~\Omega$ be cut, in order to gain an equivalent resistance of $1~\Omega$ when the pieces are connected in parallel? 
+To how many equal parts should a piece of wire of resistance $100~\Omega$ be cut, in order to gain an equivalent resistance of $1~\Omega$ when the pieces are connected in parallel?
  (3 pont)

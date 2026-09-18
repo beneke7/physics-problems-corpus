@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-A small cart of mass $m$ which is driven by a LEGO motor starts to move upward along a slope of angle of elevation of $\alpha$. The mechanical power of the motor (except for the very beginning of the motion) has a constant value of $P$. What is the final speed of the cart? (The wheels do not slide and rolling resistance is negligible.) 
- $a)$ Describe the motion of the cart. 
- $b)$ As a function of the time sketch the graph of the power, speed, and the static frictional force in the same diagram. Sketch the force–velocity diagram as well. 
- $c)$ What is the least frictional force during the motion? 
+A small cart of mass $m$ which is driven by a LEGO motor starts to move upward along a slope of angle of elevation of $\alpha$. The mechanical power of the motor (except for the very beginning of the motion) has a constant value of $P$. What is the final speed of the cart? (The wheels do not slide and rolling resistance is negligible.)
+ $a)$ Describe the motion of the cart.
+ $b)$ As a function of the time sketch the graph of the power, speed, and the static frictional force in the same diagram. Sketch the force–velocity diagram as well.
+ $c)$ What is the least frictional force during the motion?
  (5 pont)

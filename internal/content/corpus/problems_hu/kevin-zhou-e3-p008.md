@@ -35,7 +35,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          kiderül, hogy
 
                                                       6
-Kevin Zhou                                                                     Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                                     Fizikaolimpiai feladatgyűjtemény
 
 
      pontosan ugyanazt az eredményt kapjuk, ha a Vi feszültségeket szabadon változtathatónak

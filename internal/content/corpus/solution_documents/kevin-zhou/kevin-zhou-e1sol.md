@@ -61,7 +61,9 @@ r̂.
 Note that EP = EP′ because there’s no surface charge between P and P′, so the value of the
 electric field can’t jump discontinuously.
 [2] Problem 1 (Griffiths 2.18). Some questions about uniformly charged spheres.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Consider a sphere of radius R and uniform charge density ρ. Find the electric field everywhere.
 (b) Now two spheres, each of radius R and carrying uniform charge densities ρ and −ρ, are placed
 so that they partially overlap. Call the vector from the positive center to the negative center
@@ -119,7 +121,9 @@ You can try deriving this for yourself, but it’s quite tricky; roughly 4 point
 this problem set. It turns out that it’s possible to generalize these kinds of arguments even further,
 to solve the more general case where the charge is displaced from a vertex of a cube in an arbitrary
 direction! For a very deep dive, see this paper.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 3 (BAUPC). In both parts below, take the potential to be zero at infinity.
 (a) Consider a solid sphere of uniform charge density. Find the ratio of the electrostatic potential
 at the surface to that at the center.
@@ -180,7 +184,9 @@ q1 sin2 α
 and the field line hits q2 if there is a solution for β, i.e. when |q1/q2| sin2
 (α/2) ≤ 1. (If you like this
 question, you can also think about what we can say when the point charges have the same sign.)
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2
 Gauss’s law is written in differential form as
 ∇ · E =
@@ -224,7 +230,9 @@ through the top and bottom faces is hence, to lowest order,
 Z ∆x
 0
 (∂yEy)|(0,0) dx = ∆x∆y (∂yEy)|(0,0).
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 By similar reasoning, pairing up the left and right faces gives
 flux = ∆x∆y (∂xEx + ∂yEy)|(0,0) = ∆x∆y (∇ · E)|(0,0).
 Thus the divergence is the outgoing flux per unit area, or volume in three dimensions.
@@ -289,7 +297,9 @@ r′2
 ρ(r′
 ).
 Let’s check that this indeed satisfies the differential form of Gauss’s law, using the divergence
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 in spherical coordinates. For any vector field F = Frr̂ + Fθθ̂+ Fφφ̂, the divergence is
 ∇ · F =
 1
@@ -386,7 +396,9 @@ E =
 3ϵ0
 (xx̂ + yŷ + zẑ)
 whose divergence is ρ/ϵ0, as desired.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 (c) This has to hold by symmetry because the electric field can’t point in any particular direction,
 by rotational symmetry. It also can’t just point radially, because that breaks translational
 symmetry; the center is a special point. So the only option is E = 0.
@@ -434,7 +446,9 @@ Of course, we want a rotationally symmetric universe to match experiment, so we 
 that in by hand. But then every solution has a center towards which everything collapses, so
 to keep the solar system an inertial frame, we’d have to put it at the center of the universe!
 Surely, this would make Copernicus roll in his grave.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Some of these problems are fixed in general relativity. You still have to postulate rotational
 symmetry (again, on the basis of experimental data), but once you do that, there are no
 further problems. That’s because in general relativity, acceleration is not absolute in the
@@ -469,7 +483,9 @@ between two spherical bodies (such as the Earth and Sun) is Gm1m2/r2, which is e
 This has a simple but slightly tricky proof. By the shell theorem, we can set a1 = 0, replacing
 the first ball with a point charge, because this produces the same field at the second ball.
 But the force on the second ball depends on the electric field at every point on it, which
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 seems to require doing an integral. To avoid this, we use Newton’s third law, which tells us
 it’s equivalent to compute the force on the first ball. To compute that, we may set a2 = 0 by
 the shell theorem again. This reduces us to the case of two point charges, giving the answer.
@@ -511,7 +527,9 @@ FqQ = −FQq = −
 Z
 ρ(r)EQ(r)d3
 r
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 where EQ is the field due to Q. Now, this field is easy to find, as it is just the field of a
 uniformly charged sphere, so
 EQ =
@@ -578,7 +596,9 @@ Now, since dS is parallel to ẑ, this is in fact the same thing as
 F = σ
 Z
 E · dS
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 where the integral is just the electric flux through the square! By symmetry, this flux is q/6ϵ0, so
 F =
 σq
@@ -637,7 +657,9 @@ Q2
 (1 − h2
 /R2
 ).
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (c) This can be solved using an ingenious superposition and symmetry argument.
 The force we want to compute is shown in (a). Now consider superposing a uniformly negatively
 charged sphere with radius just larger than R, as shown in (b). By the shell theorem, this
@@ -666,7 +688,9 @@ A point charge of mass m and charge −q is placed at the center of a cube with 
 whose volume has uniform charge density ρ. The point charge is allowed to slide along a
 straight line, which has an arbitrary orientation, so that the distance along the line from the
 center to one of the cube’s faces is L.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 L
 a
 Find the angular frequency of small oscillations.
@@ -709,7 +733,9 @@ giving the remarkably simple result
 V (r) = cr2
 + O(r3
 ).
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 The potential near the origin is spherically symmetric (to second order), even though the
 setup as a whole isn’t! (It would also hold at the center of, e.g. a tetrahedron or octahedron,
 but not a rectangular prism. The math to figure out when this happens is called group theory.)
@@ -758,7 +784,9 @@ multiple integral to a single integral. Remember that when using Gauss’s law, 
 surface may be freely deformed as long as it doesn’t pass through any charges.
 [2] Problem 12 (Purcell 1.15). A point charge q is located at the origin. Compute the electric flux
 that passes through a circle a distance ℓ from q, subtending an angle 2θ as shown below.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let ℓ = Rcosθ, and deform the disk into a spherical cap with radius R. Then the answer
 is then just q/ϵ0 times the ratio of the area of the cap to the total area of the sphere. In spherical
 coordinates, this is
@@ -818,12 +846,12 @@ R2
 +
 3
 8
-
+
 −
 2r
 R
 cosθ
-2
+ 2
 #
 dθ
 =
@@ -852,7 +880,9 @@ energy is that you don’t have to think about the directions of any vectors.
 origin and lies entirely above the xy plane, find the electric field at an arbitrary point on the z-axis.
 (This is a bit complicated, and is representative of the most difficult kinds of integrals you might
 have to set up in an Olympiad. For a useful table of integrals, see Appendix K of Purcell.)
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Set up spherical coordinates with the hemisphere being the equation of r = R and
 θ ∈ [0,π/2]. Suppose our location is (0,0,z). The hemisphere has surface charge σ. We see that
 the field points in the z-direction by symmetry, so we’ll only worry about that piece. The ring at
@@ -905,7 +935,7 @@ E(z) =
 1+z2/R2
 + 1 z > R
 .
-[3] Problem 15.  ^ 1 0USAPhO 2018, problem B1.
+[3] Problem 15.   ^ 1 0USAPhO 2018, problem B1.
 Idea 7: Electric Dipoles
 The dipole moment of two charges q and −q separated by d is p = qd. More generally, the
 dipole moment of a charge configuration is defined as
@@ -947,7 +977,9 @@ r
 =
 kpcosθ
 r2
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 as above. Higher derivatives give potentials for quadrupoles and higher multipoles, which
 we’ll see in E8.
 [3] Problem 16. In this problem we’ll derive essential results about dipoles, which will be used later.
@@ -1003,10 +1035,12 @@ as desired.
 (c) We see that p · r̂ = pcosθ and p = pẑ = p(r̂cosθ − θ̂sinθ). Thus,
 3(p · r̂)r̂ − p = 3pcosθr̂ − p(r̂cosθ − θ̂ sinθ) = p(2cosθr̂ + sinθθ̂),
 as desired.
-[3] Problem 17.  m 1 0USAPhO 2002, problem B2.
-[3] Problem 18.  m 1 0USAPhO 2009, problem B2. This essential problem introduces useful facts
+[3] Problem 17.   m 1 0USAPhO 2002, problem B2.
+[3] Problem 18.   m 1 0USAPhO 2009, problem B2. This essential problem introduces useful facts
 about dipole-dipole interactions.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 8
 The potential energy of a set of point charges is
 U =
@@ -1088,7 +1122,9 @@ describing such a process, which can only be properly understood within relativi
 field theory.)
 [3] Problem 20. An insulating circular disk of radius R has uniform surface charge density σ.
 (a) Find the electric potential on the rim of the disk.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Find the total electric potential energy stored in the disk.
 Solution. (a) Place the origin at a point on the rim and use polar coordinates. Because the
 polar equation of a circle is r = 2Rcosθ, we have
@@ -1155,13 +1191,13 @@ the surface of A meets the surface of the B-shaped hole is
 W1 =
 Q
 8
-
+
 kQ
 R
 −
 k(Q/8)
 R/2
-
+
 .
 Next, moving the point charge from this point to the center of the B-shaped hole takes work
 W2 =
@@ -1178,7 +1214,9 @@ W1 + W2 =
 kQ2
 8R
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Example 9
 Since Newton’s law of gravity is so similar to Coulomb’s law, the results we’ve seen so far
 should have analogues in Newtonian gravity. What are they? For example, what’s the
@@ -1237,7 +1275,9 @@ which made it “trivial”, while supporters of momentum replied that kinetic e
 clearly not conserved in even the simplest of cases, like inelastic collisions.
 In the 1800s, thermodynamics was developed, allowing the energy seemingly lost in inelastic
 collisions to be accounted for as internal energy. But there still remained the problem that
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 kinetic energy was lost in simple situations, such as when balls are thrown upward. By the
 mid-1800s, the modern language that “kinetic energy is converted to potential energy” was
 finally standardized, but it was still common to read in textbooks that potential energy was
@@ -1278,7 +1318,9 @@ situation gets much more subtle when we upgrade to full general relativity. Here
 of a gravitational field disappears completely, and is replaced by the curvature of spacetime,
 making it hard to define an energy density for it at all. For an accessible overview of the
 debate, see this paper. Ultimately, though, it doesn’t matter that much, since it doesn’t
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 impair our ability to use either Newtonian gravity or general relativity.
 Example 10
 For an infinite line of linear charge density λ, find the potential V (r) by dimensional analysis.
@@ -1329,7 +1371,9 @@ Idea 9
 In electrostatic conditions, E = 0 inside a conductor, which implies the conductor has constant
 electric potential V . This then implies that E is always perpendicular to a conductor’s surface.
 By Gauss’s law, the conductor has ρ = 0 everywhere inside, so all charge resides on the surface.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 By example 7, the outward pressure on the charges at the surface of a conductor is σ2/2ϵ0.
 Example 11
 Is the charge density at the surface of a charged conductor usually greater at regions of higher
@@ -1366,7 +1410,9 @@ The condition ∇2ϕ = 0 is just equivalent to ∇ · E = 0, which implies ρ = 
 In addition, ∇ϕ · n̂ is equal to −E · n̂. Finally, adding a constant to ϕ doesn’t affect E.
 Using these facts gives the following translation: suppose there is a volume V containing no
 charge density, and either the electric potential or the outward electric field E · n̂ is specified
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 everywhere on its boundary S. Then there is a unique solution for E in V .
 Example 12
 Consider a conductor with nonzero net charge in an arbitrary environment, and suppose the
@@ -1401,7 +1447,9 @@ Finally, if you were reading very carefully, you might be wondering why we need 
 the shell is “isolated.” The reason is that whenever the volume V is infinite, we also need
 to specify what is happening at the surface “at infinity.” The default assumption is that the
 electric field and potential fall to zero at infinity. (As we’ve seen in problem 6, this becomes
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 more subtle when the charge distribution itself is infinite.)
 [2] Problem 23 (Purcell 3.33). The shaded regions represent two neutral conducting spherical shells.
 q q
@@ -1411,8 +1459,10 @@ Whether or not there are any field lines coming from the charge outside the shel
 close that charge is to the shell. (The entire field configuration in this problem can be found exactly
 using the method of images, as shown in E2.) In the case that the two spheres are connected with
 a wire, the field in between the two spheres disappears, but nothing else changes.
-25Kevin Zhou Physics Olympiad Handouts
-[3] Problem 24.  W 1 0USAPhO 2014, problem A4.
+25
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 24.   W 1 0USAPhO 2014, problem A4.
 [4] Problem 25 (MPPP 150). A solid metal sphere of radius R is divided into two parts by a planar
 cut, so that the surface area of the curved part of the smaller piece is πR2. The cut surfaces are
 coated with a negligibly thin insulating layer, and the two parts are put together again, so that the
@@ -1453,7 +1503,9 @@ consider their difference, which has zero total charge on each conductor. Argue 
 one conductor must have electric field lines both originating from and terminating on it.
 (b) Show that at least one of these field lines must originate from or terminate on another one of
 the conductors.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (c) By generalizing this reasoning, prove the desired result. (Hint: consider the conductors with
 nonzero surface charges that have the highest and lowest potentials.)
 For a rigorous proof of this theorem using vector calculus, see section 3.1 of Griffiths.
@@ -1488,7 +1540,9 @@ The σh/ϵ0 voltage drop inside the capacitor is canceled out by the voltage dro
 fringe fields, which are small, but accumulate over a long distance. The point of this example
 is that, while we can ignore fringe fields for some calculations, they are often essential to get
 a consistent overall picture. We’ll revisit the subtleties of fringe fields in E2.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 27 (Purcell 3.2). Spheres A and B are connected by a wire; the total charge is zero. Two
 oppositely charged spheres C and D are brought nearby, as shown.
 The spheres C and D induce charges of opposite sign on A and B. Now suppose C and D are
@@ -1521,7 +1575,9 @@ true? That is, if all the electric field lines in some charge-free region are st
 lines necessarily have spherical, cylindrical, or planar symmetry?
 It seems intuitively plausible, and it’s true, but it’s tricky to prove. The simplest proof I
 know uses a bit of differential geometry. We consider the principal curvatures k1 and k2 of
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 adjacent equipotential surfaces. It turns out that the field lines can be straight only if
 k1k2(k1 − k2) = 0
 which precisely corresponds to allowing spherical (k1 = k2), cylindrical (k1 = 0), or planar

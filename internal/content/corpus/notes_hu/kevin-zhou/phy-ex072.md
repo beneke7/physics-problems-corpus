@@ -38,7 +38,7 @@ A másodrendű akcióváltozás az m(δ ẋ)2 /2 integrálja lenne, amely pozit�
 Mindent összerakva
 
                                                         i m(x − x0 )2
-                                          r                          
+                                          r
                                              m
                            K(x, x0 , t) =         exp
                                             2πiℏt       ℏ     2t

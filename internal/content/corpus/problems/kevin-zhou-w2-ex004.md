@@ -56,7 +56,9 @@ solution_language: en
                                          e       −e              sin(k∆r/2)
 
                                                         7
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
        so the intensity is
                                                  sin2 (N k∆r/2)

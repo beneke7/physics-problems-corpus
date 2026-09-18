@@ -25,7 +25,7 @@ Determination of The Speed of Light:
 
 The speed light maybe determined by an electrical circuit using low frequency ac fields only. Consider the arrangement shown in the Fig. (4). A sinusoidally varying voltage $V_{0} \cos (2 \pi f t)$ is applied to a parallel plate capacitor $C_{1}$ of radius $a$ and separation $s$ and also to the capacitor $C_{2}$. The charge flowing into and out of $C_{2}$ constitutes the current in the two rings of radii $b$ and separation $h$. When the voltage is turned off the two sides (the capacitor $C_{1}$ on one side and the rings on the other) are exactly balanced. Ignore wire resistance, inductance and gravitational effects.
 
-![Fig. 4: parallel plate capacitor C1 (radius a, separation s) connected via wires with two coaxial rings of radius b and separation h, and capacitor C2, driven by eps_0 cos(2 pi f t)](../../sources/inpho/figures/inpho-2008-q6-fig1.png)
+![Fig. 4: parallel plate capacitor C1 (radius a, separation s) connected via wires with two coaxial rings of radius b and separation h, and capacitor C2, driven by eps_0 cos(2 pi f t)](../../figures/inpho/figures/inpho-2008-q6-fig1.png)
 
 (a) Obtain an expression for the time-averaged force between the plates of $C_{1}$.
 (b) Obtain an expression for the time-averaged force between the rings. The magnetic force between the two rings maybe approximated by those due to long straight wires since $b \gg h$.

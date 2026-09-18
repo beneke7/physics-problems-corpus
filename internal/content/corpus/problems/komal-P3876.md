@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-You can barely hear if you clap your hands in knitted gloves. Why? What causes the sound when you are clapping? 
+You can barely hear if you clap your hands in knitted gloves. Why? What causes the sound when you are clapping?
  (4 pont)

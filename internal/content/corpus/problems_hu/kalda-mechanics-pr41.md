@@ -20,4 +20,4 @@ verification_status: pending
 
 Homokot szállítunk az építkezésre egy szállítószalaggal. A szalag hossza $l$, a vízszintessel bezárt szöge $\alpha$; a szalagot az alsó, $R$ sugarú, külső meghajtású görgő hajtja. A homokot állandó $\mu(\mathrm{kg} / \mathrm{s})$ tömegárammal juttatjuk a szalagra. Mekkora a homok szállításához szükséges minimális nyomaték? Mekkora a szalag sebessége ennél a nyomatéknál? A súrlódási együttható elég nagy ahhoz, hogy a homokszemcsék a szalagra érkezésük után azonnal megálljanak; a homokszemcsék kezdeti sebessége nulla.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr41-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr41-fig1.jpg)

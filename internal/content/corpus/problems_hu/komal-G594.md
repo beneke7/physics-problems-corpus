@@ -9,5 +9,5 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 594. A tornateremben egy rugalmas gumikötél lóg le a mennyezettől. Norbika rácsimpaszkodik, és függőlegesen lengedezik 5 másodperces periódusidővel. 
+G. 594. A tornateremben egy rugalmas gumikötél lóg le a mennyezettől. Norbika rácsimpaszkodik, és függőlegesen lengedezik 5 másodperces periódusidővel.
  Mit tegyen, hogy 3 másodpercesre csökkentse a periódusidőt?

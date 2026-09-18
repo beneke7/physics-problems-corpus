@@ -37,8 +37,8 @@ and the standard deviation of the mean                        sP
 For error propagation through equations, Pythagoran rule for adding errors in quadrature is used (alternatively, one could use
 min-max but for lower accuracy). In general, when you have a variable y be a function of variables xi , i ∈ {1, . . . N } with errors
 ∆xi , then the error of y is given by                       v
-                                                            uN 
-                                                            uX ∂y 2
+                                                            uN
+                                                            uX ∂y  2
                                                        ∆y = t         ∆x2i .
                                                               i=1
                                                                   ∂xi
@@ -49,7 +49,9 @@ Any time the methods used in finding the errors is not specified, 50 % of the ma
 
 
                                                             — page 1 of 6 —
-Problem E1. Magnetic properties of matter (20 Part B. Surface tension of water (4 points)
+
+
+Problem E1. Magnetic properties of matter (20 Part B. Surface tension of water (4 points)
 points)                                          After correctly setting up the equipment and pulling the
 Part A. Diameter of the syringe needle (3 points)                 middle part downwards, the needle should start dripping at one
    In order to maximize the accuracy, the path length of the      point. This happens because the surface tension isn’t enough
@@ -107,7 +109,9 @@ with an error of ∆d = 0.005 mm.                      (0.2 pts)
                                                                                     p
                                                                   an error of ∆σ = σ (∆havg /havg )2 + (∆d/d)2 = 1 mN/m.
                                                         — page 2 of 6 —
-                                                values (0.3 pts)
+
+
+                                                values (0.3 pts)
                                                 errors (0.4 pts)                   F                 1 dB 2                ∂w
                                                                             am =     = (|χg − χw |)         = (|χg − χw |)    .
                                                                                    m                2µ0 dz                 ∂z
@@ -172,7 +176,9 @@ magnet, given by the formula                                       calculate the
                         explaining the force balance (0.5 pts)     magnet. We see that the distance is that of the height of
                                                                    an equilateral triangle with side length d = 10 mm ± 0.3 mm.
                                                          — page 3 of 6 —
-                                   √
+
+
+                                   √
 The distance is then simply l1 =       3/2d = 8.7 mm ± 0.3 mm.         After correctly setting up the experimental equipment, the
 From figure 8, we read the magnetic pressure gradient to be         zero off-set is measured to be V0 = 2 mV.               (0.5 pts)
 ∂z = 6.1 × 10 J/m ± 0.9 × 10 J/m .
@@ -235,7 +241,9 @@ can be measured to be E = 3.17 V, no uncertainty is needed. all the points equal
 (0.5 pts)                                                           coincide with the actual origin due to the physical dimensions
                                                                     of the magnet. Furthermore, the final point in the graph is not
                                                          — page 4 of 6 —
-used for fitting since it deviates due to the over saturation effect.                            x(mm)      s(mm)      V (mV)    B(mT)
+
+
+used for fitting since it deviates due to the over saturation effect.                            x(mm)      s(mm)      V (mV)    B(mT)
                                                            z                                     0          -18        18        0.170
                                                                                                  2          -16        29        0.274
                                                                                                  4          -14        41        0.388
@@ -282,7 +290,7 @@ with an error of
 
 
 
-              s                    2               2
+              s                      2                 2
                            ∆(1/λ)                ∆h                                                                                plotting (0.6 pts)
      ∆µ = µ            2                 +                 = 3000.     (0.4 pts)
                             (1/λ)                 h
@@ -292,7 +300,9 @@ with an error of
 iii. (2 pts) The tabulated measurement data is given below.                                                                                 (0.4 pts)
 The voltages are translated to teslas using equation (3).
                                                                           — page 5 of 6 —
-iv. (2 pts) The main idea relies on the fact that magnetic                  points using the trapezoid rule,
+
+
+iv. (2 pts) The main idea relies on the fact that magnetic                  points using the trapezoid rule,
 field lines are conserved, or in other words the magnetic flux                                      Bi + Bi−1
 through a closed surface is 0. This is equivalent to Gauss’ law.                      Φi = Φi−1 +             (zi − zi−1 )aeﬀ
                                                                                                         2

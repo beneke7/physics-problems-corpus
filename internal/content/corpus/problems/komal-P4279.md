@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, limiting-and-special-cases]
 ---
 
-A rubber ball is dropped in a lift, which is at rest, from a height of 2 meters, and first it bounces back to a height of 162 cm. How much time elapses between the first and the second bounces? Then the experiment is repeated, such that the lift accelerates upward with a constant acceleration of 1 m/s$^{2}$. Will the rebouncing heights and the time between two consecutive bounces change? If yes, how? 
+A rubber ball is dropped in a lift, which is at rest, from a height of 2 meters, and first it bounces back to a height of 162 cm. How much time elapses between the first and the second bounces? Then the experiment is repeated, such that the lift accelerates upward with a constant acceleration of 1 m/s$^{2}$. Will the rebouncing heights and the time between two consecutive bounces change? If yes, how?
  (5 pont)

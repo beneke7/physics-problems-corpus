@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-A battery of internal resistance $1.5~\Omega$ is connected to two resistors connected in parallel, one of them having a resistance of $R_1=40~\Omega$ and the $R_2$ resistance of the other resistor is not known. Determine the unknown resistance of the second resistor if it dissipates 60% of the total energy delivered by the battery. 
+A battery of internal resistance $1.5~\Omega$ is connected to two resistors connected in parallel, one of them having a resistance of $R_1=40~\Omega$ and the $R_2$ resistance of the other resistor is not known. Determine the unknown resistance of the second resistor if it dissipates 60% of the total energy delivered by the battery.
  (4 pont)

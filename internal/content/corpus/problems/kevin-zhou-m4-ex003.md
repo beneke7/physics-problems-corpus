@@ -31,7 +31,9 @@ F = ma 2022A #10
        and released as shown, what is the period of oscillation?
 
                                                       4
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
         Solution
         This kind of question becomes completely trivial when you use the above idea. Using the

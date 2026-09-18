@@ -36,7 +36,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          alakban. Minőségileg magyarázzuk meg, miért arányos az energiaváltozás n2 /V -vel.
      (c) A 4. feladatban megmutatjuk, hogy ez az állapotegyenletet a következőre módosítja:
                                                  an2
-                                                    
+
                                              P + 2 V = nRT.
                                                  V
          Ezeket az eredményeket használva mutassuk meg, hogy az a paraméter első rendjében
@@ -45,7 +45,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                          2                              TV
 
                                                       4
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
            Minőségileg magyarázzuk meg, miért pozitív előjelű az új tag.

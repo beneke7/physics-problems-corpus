@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the resistance between the leads of the circuit in figure.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr4-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr4-fig1.jpg)

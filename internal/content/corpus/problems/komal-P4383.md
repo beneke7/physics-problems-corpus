@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-A sonic boom is observed if the sound emitted by an airplane in a short time reaches the observer at one instant. 
- a ) How can this happen? At what speed must the plane fly? 
- b ) Three years ago, in November 2008, the Space Shuttle Endeavour could land only in California because of the wrong weather conditions. Interestingly the observers heard two sonic booms. How could this happen? 
+A sonic boom is observed if the sound emitted by an airplane in a short time reaches the observer at one instant.
+ a ) How can this happen? At what speed must the plane fly?
+ b ) Three years ago, in November 2008, the Space Shuttle Endeavour could land only in California because of the wrong weather conditions. Interestingly the observers heard two sonic booms. How could this happen?
  (5 pont)

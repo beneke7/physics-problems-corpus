@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-The upper part of the figure (drawn to scale) shows how a light beam travels through a traditional converging lens. How would the light beam shown in the lower part of the figure travel after leaving the lens? 
+The upper part of the figure (drawn to scale) shows how a light beam travels through a traditional converging lens. How would the light beam shown in the lower part of the figure travel after leaving the lens?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5085-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5085-fig1.gif)

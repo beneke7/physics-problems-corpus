@@ -12,7 +12,7 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 ---
 
 2001. október 19-én rendezte meg az Eötvös Loránd Fizikai Társulat (ELFT) immár 85 éves múltra visszatekint®,
-hagyományos ®szi zikai tanulóversenyét, az Eötvös-versenyt.
+hagyományos ®szi  zikai tanulóversenyét, az Eötvös-versenyt.
                                                                                               h           h
    A versenyen részt vehettek a 2001-ben érettségizettek, valamint a középiskolások. Délután 3 -tól este 8 -ig zajlott
 a verseny. Minden, az önálló munkához szükséges segédeszközt (magukkal hozott könyveket, jegyzeteket, zsebszámoló-
@@ -21,7 +21,7 @@ dolgozatot. Összesen 200 dolgozat érkezett be a Versenybizottsághoz, közül�
 Szegeden, 12-t Debre enben, 9-et Veszprémben, 5-öt Miskol on írtak a versenyz®k. A nem egyetemi városok közül
 Nagykanizsán írták a legtöbb (14) dolgozatot, de elég sok dolgozat (13) érkezett Békés sabáról is. Szekszárdon 9-en,
 Sopronban 6-an, Székesfehérváron 3-an, Egerben 2-en adtak be dolgozatot. Sajnos Gy®rb®l és Nyíregyházáról             supán
-11 dolgozat érkezett, Szombathelyen pedig senki se indult a versenyen.
+1 1 dolgozat érkezett, Szombathelyen pedig senki se indult a versenyen.
    Ismertetjük a feladatokat, a helyes megoldásokat és a verseny eredményét.
 
    1. Két egyforma ólomgömböt egy-egy sík mentén két-két részre vágunk; egyiket az a), másikat a b) ábra szerint.
@@ -58,7 +58,7 @@ bármilyen alakú is legyen, mindig ekvipoten iális, s a belsejében a térer®
 gömbszelet közti poten iálkülönbség?
                                                        ∆U = E · d,
 ahol E a két síkfelület közötti térben az elektromos térer®sség, d pedig a síkfelületek távolsága. A feladat szövege
-szerint ez a távolság hajszálvékony, vagyis majdnem zérus, E pedig q -val arányos, tehát nem lehet nagyon nagy.
+szerint ez a távolság  hajszálvékony , vagyis majdnem zérus, E pedig q -val arányos, tehát nem lehet  nagyon nagy .
 Ezek szerint a ∆U poten iálkülönbség is majdnem zérus, azaz elhanyagolhatóan ki si. Ebben a (jogos) közelítésben a
 teljes gömbfelület poten iálja ugyanakkora. Egyetlen gömbön az U =állandó feltétel       sak egyetlen felületi töltéseloszlás
 mellett valósulhat meg adott Q esetén. Ez az eloszlás a jól ismert gömbszimmetrikus töltéseloszlás, amikor a felületi
@@ -66,7 +66,9 @@ töltéss¶r¶ség
                                                         Q
                                                   σ=         = állandó.
                                                        4R2 π
-    Az egyenletes felületi töltéss¶r¶séghez tartozó elektromos térer®sség a gömbön belül (a síkkondenzátor belsejét
+
+
+    Az egyenletes felületi töltéss¶r¶séghez tartozó elektromos térer®sség a gömbön belül (a  síkkondenzátor  belsejét
 leszámítva) zérus, a gömbön kívül pedig az ismert Coulomb-féle er®tér, nagysága a középponttól r távolságban
 
                                                             1 Q
@@ -84,7 +86,7 @@ A gömbön kívül kialakuló er®vonalkép tehát jó közelítéssel a 2. ábr
                  1
 Két megoldónak       jutott eszébe a középen félbevágott gömb esetére az alábbi szellemes megoldás:
     El®ször adjunk mindkét félgömbnek Q/2 töltést, azután adjunk a bal oldalinak Q/2, a jobb oldalinak pedig −Q/2 töltést!
-E két állapot egyesítéséb®l (szuperpozí iójából) el®állítható a feladatban megadott állapot. Ez a szuperpozí ió egyrészt a
+E két állapot  egyesítéséb®l  (szuperpozí iójából) el®állítható a feladatban megadott állapot. Ez a szuperpozí ió egyrészt a
 töltésekre, másrészt az er®térre is vonatkozik, tehát:
 
 
@@ -101,12 +103,12 @@ goljuk!
 
 
     Megoldás. Ha a henger elég lassan forog (a feladatban 2 másodper      alatt fordul körbe, s ez elég lassúnak tekinthet®), akkor
-a homok a hengerben valamennyire felmászik a forgás irányának megfelel® oldalon, és közelít®leg egy hengerszelet térfogatát
+a homok a hengerben valamennyire  felmászik  a forgás irányának megfelel® oldalon, és közelít®leg egy hengerszelet térfogatát
 tölti ki.
     A h®mérséklet változását a homok tömege, fajh®je és a rajta végzett súrlódási munka ismeretében tudnánk meghatározni:
 ∆T = Wsúrl. /c · m. A homok tömege adott (m = 100 kg), fajh®jét táblázatból (a hozzá hasonló anyagok, pl. a kvar üveg vagy
                                             ◦
-a por elán adatainak felhasználásával) J/(kg C) egységekben 700800 közötti értékre be sülhetjük.
+a por elán adatainak felhasználásával) J/(kg C) egységekben 700 800 közötti értékre be sülhetjük.
     A homok mozgásának részletes leírása (és ennek ismeretében a súrlódási munka kiszámítása) reménytelenül bonyolult feladat
 lenne. Szeren sére erre nin s szükség! Elegend® azt észrevenni, hogy az egyenletesen forgatott hengerben a homok el®bb-utóbb
 állandósult (sta ionárius) állapotba kerül. A homok egyes darabkái mozognak (áramlanak) ugyan, de a homok egésze olyan alakot
@@ -117,7 +119,9 @@ vízszintes irányban valamekkora k távolságra helyezkedik el (lásd az ábrá
 
 
    1 Bartos Imre (Budapest) és Siroki László (Debre en)
-    A homok bels® energiájának növekedése (azaz a súrlódási er®k munkája) nyilván megegyezik a henger egyenletes forgatása
+
+
+    A homok bels® energiájának növekedése (azaz a súrlódási er®k munkája) nyilván megegyezik a henger egyenletes forgatása
 során végzett munkával, ez utóbbi pedig a hengerre kifejtend® mg · k forgatónyomatéknak és a henger ∆ϕ szögelfordulásának
 szorzatával egyenl®:
                                                        Wsúrl. = mg · ∆ϕ.
@@ -141,7 +145,7 @@ mint a tömör kvar táblázatban megtalálható 2,65 kg/dm -es s¶r¶sége.) Ez
 rtkp ≈ 4 dm adódik.
    Vajon hogyan helyezkedik el a homokkal kitöltött hengerszelet síkja a henger tengelyén átmen® függ®leges síkhoz képest?
                                                                                         ◦
-Mindennapi tapasztalatból (homokozó, homokóra) tudjuk, hogy a (száraz) homokból kb. 45 -os rézs¶szög alakítható ki, ezért
+Mindennapi tapasztalatból (homokozó, homokóra) tudjuk, hogy a (száraz) homokból kb. 45 -os  rézs¶szög  alakítható ki, ezért
 jogosan tekinthetjük úgy, hogy a jelen esetben is az állandósult mozgású homokgörgeteg legfels® pontja a henger tengelyével
 kb. azonos magasságba kerül, s emiatt a keresett er®kar
 
@@ -159,16 +163,20 @@ bizonytalanságot, helyesnek tekinthetünk minden olyan be slést, amely mintegy
                                                                                                       ◦
 adni a h®mérséklet emelkedésére. Ezek a be slések széles határok között változtak, a legkisebb 0,0009 C volt, a legnagyobb
       ◦              ◦
-44,65 C. ∆T = 58 C-os intervallumba es® értéket összesen 10 versenyz® kapott, tehát ennyien oldották meg elfogadhatóan a
+44,65 C. ∆T = 5 8 C-os intervallumba es® értéket összesen 10 versenyz® kapott, tehát ennyien oldották meg elfogadhatóan a
 feladatot.
-   2. Érdemes a feladatban leírt jelenséget kísérletileg is tanulmányozni. (A fényképen látható berendezést, amely a feladatban
+
+
+   2. Érdemes a feladatban leírt jelenséget kísérletileg is tanulmányozni. (A fényképen látható berendezést, amely a feladatban
 szerepl® összeállítás ki sinyített mása, a verseny eredményhirdetésén láthattuk.) Gyorsabb forgás esetén nagyon sok érdekes
-részlet gyelhet® meg a homokszemek kollektív mozgásában. Ezek vizsgálata ma is aktuális kutatási feladat a zikusok számára.
+részlet  gyelhet® meg a homokszemek  kollektív mozgásában . Ezek vizsgálata ma is aktuális kutatási feladat a  zikusok számára.
 
    3. Egy eld®lt rajzszög fekszik az enyhén lejt®s asztallapon. Ha oldalról kissé meglökjük, ide-oda billeg, de nem   súszik meg.
    a) Mekkora stabil egyensúlyi helyzetben a fej, illetve a t¶ által kifejtett er®k asztalra mer®leges komponenseinek aránya!
    b) Mekkora frekven iával billeg (kis kitérések esetén) a rajzszög az egyensúlyi helyzete körül?
-   Az egyszer¶ség kedvéért tételezzük fel, hogy a rajzszög feje homogén körlap, t¶jének tömege a fejhez képest elhanyagolható, és
+
+
+   Az egyszer¶ség kedvéért tételezzük fel, hogy a rajzszög feje homogén körlap, t¶jének tömege a fejhez képest elhanyagolható, és
 a t¶ hegye a billegés során nem mozdul el az asztallapon.
                                                                                   ◦
    Adatok: A körlap sugara R = 6 mm, a t¶ hossza l = 8 mm, az asztal lejtése α = 5 .
@@ -224,12 +232,14 @@ ahonnan
 végeredmények valamelyikéhez.)
 
    A b) kérdés dinamikai jelleg¶, s azért nehezebb, mert nem lehet síkbeli problémára visszavezetni. A rajzszög billegése
-nem síkmozgás, nem zikai inga.
+nem síkmozgás, nem   zikai inga .
    Készítsünk térbeli ábrát a ferde asztallapon kissé (balra) kilendített rajzszögr®l (2. ábra )!
    Jelölések: K a tömegközéppont; S1′ és S2′ most is a t¶n átmen® függ®leges síkba esnek; S1 a körlapra érint® irányban
 ható súrlódási er®; S2 a t¶ hegyére ható súrlódási er®nek a t¶re mer®leges összetev®je; ϕ a kitérés szöge (a rajzszög
-t¶jének asztalra mer®leges vetülete és a lejtvonal által bezárt szög).
-                                      2. ábra                                       3. ábra
+t¶jének asztalra mer®leges vetülete és a  lejtvonal  által bezárt szög).
+
+
+                                      2. ábra                                       3. ábra
 
       A súrlódási er®k mind egy síkba (az asztallap síkjába) esnek, nagyságuk változik a billegés során. A tömegközéppont
 pályája viszonylag egyszer¶, egy körív, amelynek síkja párhuzamos az asztallap síkjával. E körív r sugara és a körív
@@ -255,7 +265,7 @@ már valamit ki tudunk számítani. Önbizalmat ad a továbbiakhoz.)
 
 
       Vegyünk fel egy ábrát a tömegközéppont pályájának (az asztallappal párhuzamos) síkjában (4. ábra )! Itt, a pálya
-síkjában a K tömegközéppont mozgását a nehézségi er®nek ebbe a síkba es® mg sin α összetev®je vezérli; ezt kell
+síkjában a K tömegközéppont mozgását a nehézségi er®nek ebbe a síkba es® mg sin α összetev®je  vezérli ; ezt kell
 felbontanunk a pálya érint®je irányába mutató, illetve sugár irányú komponensekre.
       Ha a kitérés ϕ szöge ki si, a fonálingához hasonlóan itt is feltételezhetjük, hogy a sugár irányú gyorsulás elhanya-
 golható: acp ≈ 0. Így a K tömegközéppont gyorsulása jó közelítéssel érint® irányú, s az r sugár β szöggyorsulásával
@@ -278,7 +288,9 @@ vagyis
                                                           1      r
                                       (2)       −S1 R =     mR2 · β.
                                                           2      R
-3. Gyorsulva elfordul a rajzszög fejének síkja a fej középpontján, valamint a fej és az asztal érintkezési pontján áthaladó
+
+
+3. Gyorsulva elfordul a rajzszög fejének síkja a fej középpontján, valamint a fej és az asztal érintkezési pontján áthaladó
 tengely körül:                                       X
                                                          M ′′ = Θ′′ · β ′′ ,
 vagyis
@@ -296,7 +308,7 @@ ezeket (1)-be:
 ahonnan átrendezések után
                                                                       g sin α
                                                            β=−              R2
-                                                                                 sin ϕ.
+                                                                                  sin ϕ.
                                                                     r 32 + 4l 2
 
 
@@ -308,7 +320,7 @@ alakú összefüggést kaptunk, ami ω körfrekven iájú harmonikus rezgésnek 
                                                                     s
                                                                           g sin α
                                                               ω=                R2
-                                                                                    ,
+                                                                                     ,
                                                                         r 23 + 4l 2
 
 
@@ -341,7 +353,7 @@ fogalmazható meg:
                                                                         dt
 A perdületvektor változása egyrészt a szögsebesség változásából adódik, másrészt abból, hogy a merev test egésze elfordul, emiatt
 a tehetetlenségi nyomatéka az iner iarendszerb®l nézve id®ben változik. Ez utóbbiból származó perdületváltozás a szögsebesség
-négyzetével arányos, jelen feladatnál tehát kis kitérések esetén gyelmen kívül hagyható. A forgómozgás dinamikai egyenlete
+négyzetével arányos, jelen feladatnál tehát kis kitérések esetén  gyelmen kívül hagyható. A forgómozgás dinamikai egyenlete
                                   X−
                                    →    −
                                         →
@@ -357,7 +369,7 @@ a szögsebességvektor párhuzamos egymással. A homogén korong egyik f®tengel
                  ′                                      2                                                           ′′
 vonatkoztatott Θ tehetetlenségi nyomaték az ismert mR /2). A korong átmér®i is f®tengelyek, a hozzájuk tartozó Θ szim-
                                                                                  ′
-metriamegfontolások és a tehetetlenségi nyomatékot deniáló összefüggés szerint Θ /2. Ezek az eredmények integrálszámítással
+metriamegfontolások és a tehetetlenségi nyomatékot de niáló összefüggés szerint Θ /2. Ezek az eredmények integrálszámítással
 is megkaphatók.
                                                   ′
     4. A szöggyorsulások közötti spe iális β          = rβ/R, illetve β ′′ = rβ/l összefüggések a        súszásmentes gördülés feltételéb®l és
@@ -370,19 +382,21 @@ térbeli geometriai megfontolásokból kaphatók meg.
 
 
 
-Összevont III. díjat (s vele 77 ezer Ft pénzjutalmat) kaptak a következ®k: Nagy Ádám, a BME mérnök-zikus
+Összevont I II. díjat (s vele 7 7 ezer Ft pénzjutalmat) kaptak a következ®k: Nagy Ádám, a BME mérnök- zikus
 hallgatója, aki a budapesti Szent István Gimnáziumban érettségizett mint Moór Ágnes tanítványa; Pápai Tivadar,
-a bar si Dráva Völgye Középiskola 12. évf. tanulója, Horváth Feren                         tanítványa; Pozsgay Balázs, az ELTE zikus
+a bar si Dráva Völgye Középiskola 12. évf. tanulója, Horváth Feren                         tanítványa; Pozsgay Balázs, az ELTE  zikus
 
    2 Pozsgay Balázs (Budapest) dolgozata
-hallgatója, aki a pé si Magyar-német Nyelv¶ Iskolaközpontban érettségizett és Kotek László tanítványa volt; Siroki
+
+
+hallgatója, aki a pé si Magyar-német Nyelv¶ Iskolaközpontban érettségizett és Kotek László tanítványa volt; Siroki
 László, a debre eni Fazekas Mihály Gimnázium 12. évf. tanulója, Simon Gyula és Szegedi Ervin tanítványa; Tóth
 Sándor, a   songrádi Batsányi János Gimnázium 11. évf. tanulója, Szu sán András és Hilbert Margit tanítványa;
 Varjú Péter, a SZTE matematikus hallgatója, aki a szegedi Radnóti Miklós Gimnáziumban érettségizett mint Dudás
 Zoltánné tanítványa.
-   III. díjat (s vele 44 ezer Ft pénzjutalmat) kaptak a következ®k: Bartos Imre, az ELTE zikus hallgatója, aki a
+   III. díjat (s vele 4 4 ezer Ft pénzjutalmat) kaptak a következ®k: Bartos Imre, az ELTE  zikus hallgatója, aki a
 budapesti Móri z Zsigmond Gimnáziumban érettségizett mint Részeg Anna tanítványa; Borbély Sándor, a kolozsvári
-Babe³Bolyai Tudományegyetem zika szakos hallgatója, aki a marosvásárhelyi Bolyai Farkas Elméleti Lí eumban
+Babe³ Bolyai Tudományegyetem  zika szakos hallgatója, aki a marosvásárhelyi Bolyai Farkas Elméleti Lí eumban
 érettségizett mint László József tanítványa; Nagy Márton, a budapesti Piarista Gimnázium 12. évf. tanulója, Futó
 Béla tanítványa; Novák Zoltán, a BME m¶szaki informatika szakos hallgatója, aki a zalaegerszegi Zrínyi Miklós
 Gimnáziumban érettségizett mint Vadvári Tibor tanítványa.
@@ -390,16 +404,20 @@ Gimnáziumban érettségizett mint Vadvári Tibor tanítványa.
 Horváth Gábor tanítványa; Béky Ben e, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évf. tanulója, Horváth
 Gábor tanítványa; Bori János Feren , a BME m¶szaki informatika szakos hallgatója, aki a budapesti Puskás Tivadar
 Távközlési Te hnikumban érettségizett mint Alapiné E seri Éva tanítványa; Kal sú Áron, a zalaegerszegi Zrínyi
-Miklós Gimnázium 11. évf. tanulója, Pálovi s Róbert tanítványa; Karaszi Mihály, a BME mérnök-zikus hallgatója,
+Miklós Gimnázium 11. évf. tanulója, Pálovi s Róbert tanítványa; Karaszi Mihály, a BME mérnök- zikus hallgatója,
 aki a kalo sai Szent István Gimnáziumban érettségizett mint Sz®ke Imre tanítványa; Rá z Béla András, a Fazekas
 Mihály F®városi Gyakorló Gimnázium 10. évf. tanulója, Horváth Gábor tanítványa; Szekeres Balázs, a szolnoki
 Verseghy Feren Gimnázium 11. évf. tanulója, Lapu Béla tanítványa.
-   2001. november 23-án délután került sor az ünnepélyes eredményhirdetésre. Ennek során a Versenybizottság elnöke
-megemlékezett Bakos Tiborról (19091998), aki 75 évvel ezel®tt nyerte meg mind a zikai, mind a matematikai versenyt
-(akkor a matematikai versenyt hívták Eötvös-versenynek, a zikait pedig Károly Irén versenynek), s aki még 1996-ban
+
+
+   2001. november 23-án délután került sor az ünnepélyes eredményhirdetésre. Ennek során a Versenybizottság elnöke
+megemlékezett Bakos Tiborról (1909 1998), aki 75 évvel ezel®tt nyerte meg mind a  zikai, mind a matematikai versenyt
+(akkor a matematikai versenyt hívták Eötvös-versenynek, a  zikait pedig Károly Irén versenynek), s aki még 1996-ban
 jelen volt a díjak átadásánál. A feladatok megoldásának ismertetését azokat illusztráló kísérleti bemutató, majd az
 eredmények kihirdetése követte. A díjakat Gyulai József akadémikus, az ELFT elnöke adta át.
-                                          A 2001. évi Eötvös-verseny nyertesei
+
+
+                                          A 2001. évi Eötvös-verseny nyertesei
      Alsó sor: (balról jobbra): Nagy Ádám, Pozsgay Balázs, Varjú Péter, Tóth Sándor, Siroki László és Pápai Tivadar.
                         Középs® sor: Nagy Márton, Bartos Imre, Novák Zoltán és Borbély Sándor.
 
@@ -407,6 +425,6 @@ eredmények kihirdetése követte. A díjakat Gyulai József akadémikus, az ELF
 
 
    A díjakhoz társuló jutalmakat az ELFT, illetve az Oktatási Minisztérium biztosította, a Nemzeti Tankönyvkiadó
-pedig valamennyi díjazott, illetve di séretet kapott versenyz®t 33 ezer forintos könyvutalványban részesítette.
+pedig valamennyi díjazott, illetve di séretet kapott versenyz®t 3 3 ezer forintos könyvutalványban részesítette.
    Az eredményhirdetés végén a nyertes versenyz®k megjelent tanárai válogathattak a Nemzeti Tankönyvkiadó, a
 M¶szaki Kiadó és a Typotex Kiadó által számukra felajánlott könyvekb®l.

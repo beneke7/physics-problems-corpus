@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy kocsi két hengeres kerekét egy súlytalan, vízszintes rúddal, súlytalan küllők és súrlódásmentes tengely segítségével kapcsoltuk össze, az ábrán látható módon. Mindkét kerék egy $R$ sugarú, homogén korongból áll, amelybe a tengellyel koaxiálisan egy $R / 2$ sugarú hengeres lyukat fúrtak a kerék középpontjától $R / 3$ távolságra. A kerekeket úgy állítjuk be, hogy a lyukak egymás felé nézzenek, majd a kocsit vízszintes padlón mozgásba hozzuk. Mekkora a kritikus $v$ sebesség, amelynél a kerekek ugrálni, vagyis elemelkedni kezdenek?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr7-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr7-fig1.jpg)

@@ -11,4 +11,4 @@ verification_status: pending
 
 M. 364. Egy hengeres műanyagflakon oldalán, az aljától néhány cm-re fúrjunk egy lyukat, és ragasszunk bele egy vízszintesen benyúló szívószálat. Mérjük meg a kifolyó víz sebességét a vízmagasság függvényében!
 
-![figure](../../raw_html/komal_figures/komal-M364-fig1.gif)
+![figure](../../figures/komal/figures/komal-M364-fig1.gif)

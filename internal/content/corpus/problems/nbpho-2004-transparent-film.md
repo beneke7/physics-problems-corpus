@@ -28,4 +28,4 @@ of the system is depicted in the graph (light falls normally to the plate). The
 refractive index of the film $n \approx 1.3$. What is the thickness of the film
 $d$?
 
-![figure](../../sources/nbpho/figures/nbpho-2004-transparent-film-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-transparent-film-fig1.png)

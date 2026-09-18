@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201602"
 verification_status: pending
 ---
 
-Luke and Sam are playing with a ball. First they throw the small ball vertically upwards, and they found that the greater the initial speed given the ball, the greater the height that it reaches. 
- Then they stand at some distance from each other and throw the ball to each other. Sam states that in this case it is also true that the greater the initial speed of the ball the higher it goes up. Luke doubts that this is always true. 
- Who is right? 
+Luke and Sam are playing with a ball. First they throw the small ball vertically upwards, and they found that the greater the initial speed given the ball, the greater the height that it reaches.
+ Then they stand at some distance from each other and throw the ball to each other. Sam states that in this case it is also true that the greater the initial speed of the ball the higher it goes up. Luke doubts that this is always true.
+ Who is right?
  (4 pont)

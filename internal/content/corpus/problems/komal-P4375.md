@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [graphical-reduction]
 ---
 
-A sample of ideal gas of constant mass is taken through the cyclic process shown in the figure. Plot this cyclic process on the ( p , T ), and ( E , V ) diagrams instead of the ( p , V ). ( E  is the internal energy of the gas.) 
+A sample of ideal gas of constant mass is taken through the cyclic process shown in the figure. Plot this cyclic process on the ( p , T ), and ( E , V ) diagrams instead of the ( p , V ). ( E  is the internal energy of the gas.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4375-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4375-fig1.gif)

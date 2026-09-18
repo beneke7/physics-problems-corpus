@@ -40,7 +40,9 @@ solution_language: en
           it only can determine changes in entropy.
 
                                                       7
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
      (d) Now consider the case where the ideal gas is allowed to freely expand into a vacuum, reaching
@@ -55,5 +57,5 @@ solution_language: en
 
 
 
-                        01W
+                        01W
            then the right-hand side must be independent of n. Using this, find f (n).

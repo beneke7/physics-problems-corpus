@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy hatszögletű ceruza $\alpha$ hajlásszögű lejtőn fekszik; a ceruza tengelye és a lejtő, valamint a vízszintes sík metszésvonala által bezárt szög $\varphi$. Milyen feltétel mellett nem gurul le a ceruza?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr21-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr21-fig1.jpg)

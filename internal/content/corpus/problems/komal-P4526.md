@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201303"
 verification_status: pending
 ---
 
-Which planet covers greater part of the Sun during its transit: the Venus observed from the Earth, or the Earth observed from the Mars? What is the ratio of the two covered parts? 
+Which planet covers greater part of the Sun during its transit: the Venus observed from the Earth, or the Earth observed from the Mars? What is the ratio of the two covered parts?
  (4 pont)

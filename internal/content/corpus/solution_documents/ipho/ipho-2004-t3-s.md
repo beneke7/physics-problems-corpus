@@ -59,7 +59,9 @@ In this case the amplitude of the dc signal will be                     Vi 0VR 0
               mω 0 ∆ω0
 
       d 0 = 41 nm.
-                 Theoretical Question 3 / Solutions                                             Page 2/6
+
+
+                 Theoretical Question 3 / Solutions                                             Page 2/6
 
 
 2. Solutions
@@ -111,7 +113,9 @@ the dc signal will be
 (c) [1.5 points]
 Since the lock-in amplifier measures the ac signal of the same frequency with its
 reference signal, the frequency of the piezoelectric tube oscillation, the frequency of the
-                 Theoretical Question 3 / Solutions                                                Page 3/6
+
+
+                 Theoretical Question 3 / Solutions                                                Page 3/6
 
 
 cantilever, and the frequency of the photodiode detector should be same.                              The
@@ -163,7 +167,9 @@ From Eqs. (d2) and (d4),
 (e) [1.5 points]
 In the presence of interaction, the equation of motion near the new equilibrium position
 h0 becomes
-                   Theoretical Question 3 / Solutions                             Page 4/6
+
+
+                   Theoretical Question 3 / Solutions                             Page 4/6
 
 
                           d 2z       dz
@@ -213,7 +219,9 @@ From Eqs. (f2) and (f3), we have
 
 Here q = e = −1.6 × 10 −19 Coulomb and Q = 6e = −9.6 × 10 −19 Coulomb. Using the
 values provided,
-              Theoretical Question 3 / Solutions                                Page 5/6
+
+
+              Theoretical Question 3 / Solutions                                Page 5/6
 
 
                                                1/ 3
@@ -222,7 +230,9 @@ values provided,
                                   mω0 ∆ω0
 
 Thus the trapped electron is 41 nm from the cantilever.
-                Theoretical Question 3 / Solutions                                       Page 6/6
+
+
+                Theoretical Question 3 / Solutions                                       Page 6/6
 
 
 3. Mark Distribution

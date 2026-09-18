@@ -32,7 +32,7 @@ impulzus egy színes pontnak felel meg a fényképen. A pontok színeit a követ
 betűk jelölik: O – narancssárga, S – kék, P – vörös, R – zöld és K – sárga. A
 korongra ható súrlódási erők elhanyagolhatók.
 
-![ábra](../../sources/nbpho/figures/nbpho-2007-rotating-disk-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2007-rotating-disk-fig1.png)
 
 1) Számozd meg az ábrán 1-től 4-ig az impulzusok (pontok) sorrendjét! Indokold a
 válaszodat! Mit mondhatsz az expozíciós idő értékéről?

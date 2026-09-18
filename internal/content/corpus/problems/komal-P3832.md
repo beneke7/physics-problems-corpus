@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-At what speed should we move towards the red traffic-light in order to observe the light green? 
+At what speed should we move towards the red traffic-light in order to observe the light green?
  (4 pont)

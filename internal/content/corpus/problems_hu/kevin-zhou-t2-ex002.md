@@ -37,7 +37,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                           2
-Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
 
 
    Megoldás

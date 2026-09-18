@@ -30,7 +30,7 @@ whenever it is moving down.
 (c) This works as long as the impulse always comes when the object is moving to the right, i.e. in
 the same phase of the object’s oscillation. This happens as long as the impulse’s period is an
 integer multiple of the object’s period, so f′ ≈ f/n.
-[5] Problem 20.  r 1 0GPhO 2016, problem 1. Note that this problem requires using the official answer
+[5] Problem 20.   r 1 0GPhO 2016, problem 1. Note that this problem requires using the official answer
 sheet.
 4 Normal Modes
 Idea 4: Normal Modes

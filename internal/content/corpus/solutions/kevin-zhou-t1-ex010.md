@@ -95,10 +95,10 @@ kBT
 and by momentum conservation we conclude
 ⟨V 2
 x ⟩ =
-
+
 Mg
 M + Mg
-2
+ 2
 ⟨v2
 x,rel⟩ =
 kBT

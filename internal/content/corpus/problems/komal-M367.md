@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201703"
 verification_status: pending
 ---
 
-Make cylinder-shaped ice sticks. (For example in the deep-freezer freeze water in closed plastic tubes.) At their midpoint gradually load the ice sticks, which are supported at their ends, until they break. Determine the force at which the sticks, which have different lengths and diameters, break. 
+Make cylinder-shaped ice sticks. (For example in the deep-freezer freeze water in closed plastic tubes.) At their midpoint gradually load the ice sticks, which are supported at their ends, until they break. Determine the force at which the sticks, which have different lengths and diameters, break.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M367-fig1.gif)
+![figure](../../figures/komal/figures/komal-M367-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-A filament lamp rated at 40 W transforms 2% of the total energy to visible light. Suppose that the time of the emission of one photon is 10$^{-14}$ second. Find the average number of visible photons emitted by the filament at the same time. 
+A filament lamp rated at 40 W transforms 2% of the total energy to visible light. Suppose that the time of the emission of one photon is 10$^{-14}$ second. Find the average number of visible photons emitted by the filament at the same time.
  (4 pont)

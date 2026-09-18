@@ -19,4 +19,4 @@ verification_status: pending
 
 A plank of length $L$ and mass $M$ is lying on a smooth horisontal surface; on its one end lies a small block of mass $m$. The coefficient of friction between the block and the plank is $\mu$. What is the minimal velocity $v$ that needs to be imparted to the plank with a quick shove such that during the subsequent motion the block would slide the whole length of the board and then would fall off the plank? The size of the block is negligible.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr38-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr38-fig1.jpg)

@@ -14,7 +14,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/usapho/2009
 
 Question A3
 Two stars, each of mass M and separated by a distance d, orbit about their center of mass. A
-planetoid of mass m (m 
+planetoid of mass m (m
  M) moves along the axis of this system perpendicular to the orbital
 plane.
 Copyright ©2009 American Association of Physics Teachers
@@ -61,7 +61,7 @@ z
 √
 R2 + z2
 .
-This expression is exact, but if z 
+This expression is exact, but if z
  d we have
 F ≈ 2
 GmM

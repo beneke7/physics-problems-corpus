@@ -67,7 +67,9 @@ walls and the test-tube rises at the speed of
               v0 S 0  vS  S 0   v            v0 .             (11)
                                             S  S0
 The mass of rising water reads as
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions               Page 2/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions               Page 2/15
 
 
                                        m1   S  S 0 h0                                   (12)
@@ -127,7 +129,9 @@ This equation is also an equation of harmonic oscillations with the same period
                            1 S0 S             1 S0 S
  А2.3    Formula (14)               h0 v02           gx 2  E  const          0,2        0,4
                            2 S  S0           2 S  S0
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 3/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 3/15
 
 
                                  h0
@@ -177,7 +181,9 @@ Formula (7) Uτ = q1R + q2R                                                     
 Formula (8) 𝑞 = 3 𝐶𝑈 (1 − 𝑅𝐶)                                                                0.5
 Numerical value 𝑞 = 179 μCl                                                                  0.2
 Total                                                                                        4.0
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 4/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 4/15
 
 
                                          Problem С (3.0 points)
@@ -221,7 +227,9 @@ then, the radius of the inscribed circles found as
                                         1 2
                                  RF            23,4см .                                            (6)
                                              
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 5/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 5/15
 
 
                                                Content                                  Points
@@ -284,7 +292,9 @@ the mass of air above it, so the heating process can be considered isobaric, whi
                                     𝑎𝑖𝑟
 where the adiabatic index of the diatomic gas is
                       𝛾 = 7/5.                                                                    (9)
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 6/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 6/15
 
 
 1.4 [0,6 points] For the time interval 𝜏 the amount of solar energy, absorbed by the Earth, is equal
@@ -353,7 +363,9 @@ the mountain to be
                              𝛾𝑅(𝑇−𝑇    )
                       𝐻0 = (𝛾−1)𝜇𝑚𝑒𝑙𝑡𝑔 = 3.78 ∙ 103 m.                                         (25)
                                        𝑎𝑖𝑟
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 7/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 7/15
 
 
 2.7 [2,0 points] Since the water vapor is in thermodynamic equilibrium with the surrounding air,
@@ -424,7 +436,9 @@ from which we obtain the desired expression for the air humidity
                                       𝐸 𝑎𝑖𝑟
                                                                      3
           Correct numerical value 𝜏 = 30.3 ∙ 10 s                                         0,2
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                          Page 8/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                          Page 8/15
 
                              𝜇𝑎𝑖𝑟 𝑝
          Formula (12) 𝜌 =                                                                     0,2
@@ -500,7 +514,9 @@ virtue of the principle of relativity, it is necessary to make the substitution 
                                p  (V / c)( E / c)
                         px '  x                   ,                                               (1)
                                     1  V 2 / c2
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/15
 
 
                        py '  py ,                                                                (2)
@@ -551,7 +567,9 @@ light, it follows from (14) that the aberration angle is equal to
                             '   sin  ,                                                     (15)
                                           c
 where 𝜑 denotes the angle between 𝑉 and the direction towards the star.
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 10/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 10/15
 
 
 
@@ -601,7 +619,9 @@ equation
                              0     cR
 where 𝜔0 and 𝜔 stand for the frequencies of the photon on the stellar surface and at infinite
 distance from it, respectively.
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 11/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 11/15
 
 
        Hence, the frequency of the photon at infinite distance from the star is obtained as
@@ -663,7 +683,9 @@ yields
 3.2 [1,4 points] Let us sit in the reference frame associated with the water. According to formula
 (14) the light aberration appears in this reference frame, whereby making the angle 𝛼′ of incidence
 of a plane wave on the water surface equal to
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 12/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 12/15
 
 
                                       1  V 2 / c 2 cos 
@@ -729,7 +751,9 @@ propagation time ∆𝑡 is equal to
                         t                               ,                                     (51)
                               v v                 c2
 and the corresponding path difference is derived as follows
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                Page 13/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                Page 13/15
 
 
                                     4 Lv  n2  1
@@ -792,7 +816,9 @@ and the corresponding path difference is derived as follows
          Formula (18)   arcsin  2                                               0,2
                                   a1 
          Numerical value   64.2                                                  0,2
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 14/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 14/15
 
 
                               1  vX / c
@@ -859,7 +885,9 @@ and the corresponding path difference is derived as follows
                                    u x 'V                                0,2
                                1 2
                                      c
-XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                       Page 15/15
+
+
+XIV International Zhautykov Olympiad/Theoretical Competition/Solutions                       Page 15/15
 
 
                                        1  V 2 / c 2 cos 

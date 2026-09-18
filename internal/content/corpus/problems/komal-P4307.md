@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201101"
 verification_status: pending
 ---
 
-Two pointlike elastic balls, which have the same mass, are projected vertically upward with the same initial speed; the second ball is started 4 s later than the first one. a ) What will the velocities of the two balls be right before and after the first collision? (Air drag can be neglected.) b ) Determine and graph the distance between the position of the first collision and the ground as a function of the initial speed. 
+Two pointlike elastic balls, which have the same mass, are projected vertically upward with the same initial speed; the second ball is started 4 s later than the first one. a ) What will the velocities of the two balls be right before and after the first collision? (Air drag can be neglected.) b ) Determine and graph the distance between the position of the first collision and the ground as a function of the initial speed.
  (4 pont)

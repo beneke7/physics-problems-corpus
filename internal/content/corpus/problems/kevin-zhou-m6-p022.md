@@ -37,7 +37,9 @@ Two stars of mass M orbit each other in a circle. The separation between them is
        This is a consequence of Earnshaw’s theorem, which is usually stated in the context of
 
                                                       21
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
        electrostatics. In that context, suppose that in the presence of electric charges, a point P
        outside of the charges is an equilibrium point, i.e. one where the electric field vanishes. We
@@ -73,4 +75,4 @@ Two stars of mass M orbit each other in a circle. The separation between them is
 
                        01E   IPhO 2016, problem 1B. A useful set of Coriolis force exercises.
 
-                    01^
+                    01^

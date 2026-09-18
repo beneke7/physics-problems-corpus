@@ -23,4 +23,4 @@ A metallic disk of radius $r$, thickness $d$ $(d \ll r)$, and resistivity $\varr
 
 What voltage is measured between points $C$ and $D$ shown in the figure?
 
-![figure](eotvos-2016-metal-disk-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2016-metal-disk-fig1.jpg)

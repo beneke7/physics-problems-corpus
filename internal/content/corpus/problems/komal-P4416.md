@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A train travels at a speed of v $_{0}$, then it slows down uniformly during a time of  T , and then it stops. In one of the wagons there is a small object on the floor. How much distance does this small object cover on the floor, and how long does it move? The coefficient of friction is  . 
+A train travels at a speed of v $_{0}$, then it slows down uniformly during a time of  T , and then it stops. In one of the wagons there is a small object on the floor. How much distance does this small object cover on the floor, and how long does it move? The coefficient of friction is  .
  (5 pont)

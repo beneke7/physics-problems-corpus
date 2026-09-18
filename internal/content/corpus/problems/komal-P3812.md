@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200505"
 verification_status: pending
 ---
 
-A positron collides into an electron of negligible velocity. The velocities of the two photons created in the pair annihilation are perpendicular to each other. What was the velocity of the positron at the least? 
+A positron collides into an electron of negligible velocity. The velocities of the two photons created in the pair annihilation are perpendicular to each other. What was the velocity of the positron at the least?
 
  (4 pont)

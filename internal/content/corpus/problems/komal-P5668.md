@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, auxiliary-unknowns]
 ---
 
-Deuterium is an isotope of hydrogen, with a nucleus consisting of a proton and a neutron. Compare the mass of a deuterium atom in kilograms with the sum of the masses of a proton, a neutron and an electron. What is the explanation for the difference? To make their calculations easier, nuclear physicists express this difference in the form of $2.2~\mathrm{MeV}/c^2$. Prove that this is the same as the difference you calculated! The appropriate data can be found in the table https://www.komal.hu/cikkek/atomtomegek.pdf . 
+Deuterium is an isotope of hydrogen, with a nucleus consisting of a proton and a neutron. Compare the mass of a deuterium atom in kilograms with the sum of the masses of a proton, a neutron and an electron. What is the explanation for the difference? To make their calculations easier, nuclear physicists express this difference in the form of $2.2~\mathrm{MeV}/c^2$. Prove that this is the same as the difference you calculated! The appropriate data can be found in the table https://www.komal.hu/cikkek/atomtomegek.pdf .
  (3 pont)

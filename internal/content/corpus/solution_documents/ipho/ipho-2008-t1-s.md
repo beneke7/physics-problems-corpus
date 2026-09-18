@@ -66,7 +66,9 @@ we find α1 = 20.6o .
 
 
                                                                                           1
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                          Theoretical Problem No. 1 /Solution
 
@@ -120,7 +122,9 @@ Answer: m = 0.61kg and β = 23.6o .
 
 
                                                                                                   2
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                     Theoretical Problem No. 1 /Solution
 
@@ -164,7 +168,9 @@ below
 
 
                                                                                                 3
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                       Theoretical Problem No. 1 /Solution
 
@@ -222,7 +228,9 @@ Wpounding = area (OEDFO) =
 
 
                                                                                                        4
-                          39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                          39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                        Theoretical Problem No. 1 /Solution
 
@@ -276,7 +284,9 @@ simple    calculation     gives    I = 12 + 0.6 × 0.782 = 12.36 ≈ 12.4 kg m 2
 
 
                                                                                              5
-                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                    Theoretical Problem No. 1 /Solution
 

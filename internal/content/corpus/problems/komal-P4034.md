@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-A body of mass m =1.8 kg is placed to an inclined plane, the angle of inclination is =30$^\circ$, and is attached to the top end of the slope wit a thread which is parallel to the slop. Then the slope is moved with a horizontal acceleration of  a . Friction is negligible. 
- a ) Find the acceleration if the body pushes the slope with a force of . 
- b ) Find the tension. 
+A body of mass m =1.8 kg is placed to an inclined plane, the angle of inclination is =30$^\circ$, and is attached to the top end of the slope wit a thread which is parallel to the slop. Then the slope is moved with a horizontal acceleration of  a . Friction is negligible.
+ a ) Find the acceleration if the body pushes the slope with a force of .
+ b ) Find the tension.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4034-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4034-fig1.gif)

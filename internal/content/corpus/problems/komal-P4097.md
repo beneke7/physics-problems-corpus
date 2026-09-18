@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, auxiliary-unknowns]
 ---
 
-The wedge, shown in the figure, has a mass of m and an angle of and can slide without friction along the horizontal tabletop. A block of mass m is placed onto the wedge, and it slides down without friction. At what angle will the magnitude of the acceleration of the wedge be at least one-third of the acceleration due to gravity? 
+The wedge, shown in the figure, has a mass of m and an angle of and can slide without friction along the horizontal tabletop. A block of mass m is placed onto the wedge, and it slides down without friction. At what angle will the magnitude of the acceleration of the wedge be at least one-third of the acceleration due to gravity?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4097-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4097-fig1.gif)

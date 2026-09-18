@@ -60,7 +60,9 @@ d(r2
 2 − R2
 1)
 2
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 which is independent of the wire’s detailed shape.
 Now let’s solve the question again without components. Here it’s useful to apply the double
 cross product, or “BAC-CAB” rule,
@@ -87,7 +89,9 @@ A perfectly analogous question is to imagine a block sliding down a ramp with fr
 constant velocity. Heat is produced, so something is certainly doing work. We might suspect
 it’s the normal force, because it has a horizontal component along the block’s direction of
 horizontal travel. However, it also has a vertical component opposite the block’s direction of
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 vertical travel, so it of course performs no work. All it does is redirect the block’s velocity;
 the ultimate source of energy is gravity.
 Similarly, in this case, the current does not flow purely down the page, but also has a
@@ -131,7 +135,9 @@ and appropriately applying the right hand rule.
 [3] Problem 2 (PPP 167). A homogeneous magnetic field B is perpendicular to a track inclined at
 an angle α to the horizontal. A frictionless conducting rod of mass m and length ℓ straddles the
 two rails as shown.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 How does the rod move, after being released from rest, if the circuit is closed by (a) a resistor of
 resistance R, (b) a capacitor of capacitance C, or (c) a coil of inductance L? In all cases, neglect the
 self-inductance of the closed loop formed, i.e. neglect the flux that its current puts through itself.
@@ -174,7 +180,9 @@ a =
 mg sinα
 m + ℓ2B2C
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Here E = L ˙ I, so
 m
 ℓB
@@ -202,7 +210,7 @@ I =
 mgLsinα
 ℓ2B2
 (1 − cos(ωt)).
-[3] Problem 3.  m 1 0USAPhO 2006, problem B1.
+[3] Problem 3.   m 1 0USAPhO 2006, problem B1.
 Solution. Note that there are two minor typos in the official solution, as noted here. There should
 be no +D term in B(ii), and for B(v) there are multiple times.
 [3] Problem 4 (PPP 168). One end of a conducting horizontal track is connected to a capacitor of
@@ -221,67 +229,69 @@ We see that q̇ = −I, and Kirchhoff’s loop rule gives
 q
 C
 − IR = E = vℓB.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Taking the derivative and plugging in v̇ = IℓB/m gives
 ˙ I = −
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 I.
 The initial condition is I(0) = q/RC, so
 I(t) =
 q
 RC
 exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 .
 Thus, integrating v̇ = IℓB/m and using v(0) = 0 gives
 v(t) =
 qℓB
 RCm
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-−1 
+ −1
 1 − exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 =
 V0ℓBC
 m + B2ℓ2C
-
+
 1 − exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 .
 Thus, the rod continually accelerates, asymptotically reaching a maximum speed of
 vmax =
@@ -327,7 +337,9 @@ current, which is cut perpendicularly by the rails, with surface current density
 the page.
 Finally, the current through the rail creates a magnetic field at the current sheet that points
 into the page. And that implies a Lorentz force to the left, precisely balancing the rightward
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Lorentz force on the rail. Momentum is thus conserved; to see explicitly how Newton’s third
 law holds up, see problem 5.50 of Griffiths.
 Incidentally, you might have heard the electromagnetic field can also carry momentum. Be-
@@ -336,7 +348,7 @@ since their momentum won’t be conserved; Newton’s third law won’t hold in 
 charges and currents interact with the field, and the field then interacts with other charges
 and currents. However, we didn’t need that subtlety for this problem, because there is no
 electromagnetic momentum at play. We’ll see setups where it does matter in E7.
-[3] Problem 5.  m 1 0USAPhO 2012, problem B2.
+[3] Problem 5.   m 1 0USAPhO 2012, problem B2.
 Idea 2
 Not all motional emfs can be found using E = −dΦ/dt. Sometimes, for more complex
 geometries where there is no clear “loop”, it’s easier to go back to the Lorentz force law.
@@ -368,7 +380,9 @@ Z R
 ωBR2
 2
 .
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Newton’s second law gives the time evolution of the wheel,
 Jω̇ =
 IBR2
@@ -390,10 +404,10 @@ second gives
 ω̈ +
 1
 JL
-
+
 BR2
 2
-2
+ 2
 ω =
 BR2
 2JL
@@ -423,10 +437,12 @@ would damp out. We would then approach the steady state solution, which is where
 emf balances the battery’s emf and almost no current flows at all, I ≈ 0 and ω ≈ 2V/BR2.
 (Or, if we used the motor to do work, then in the steady state the current would be nonzero
 and the angular velocity would be somewhat lower.)
-[4] Problem 7.  T 1 0IPhO 1990, problem 2. A neat problem on an exotic propulsion mechanism called
+[4] Problem 7.   T 1 0IPhO 1990, problem 2. A neat problem on an exotic propulsion mechanism called
 an electrodynamic tether, which also reviews M6.
 2 Faraday’s Law
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3
 Faraday’s law states that even for a time-dependent magnetic field, we still have
 E = −
@@ -472,7 +488,9 @@ N3
 To see why this is valid, remember that the emfs are due to a nonconservative electric field,
 integrated along the length of the loop. Deforming it into a bunch of concentric circles doesn’t
 significantly change E·ds along it, because N is large, so it doesn’t change the answer much.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: EMF vs. Voltage
 We mentioned earlier in E2 that we often care about electromotive forces, which just
 mean any forces that act on charges to push them around a circuit. The force due to a
@@ -519,7 +537,9 @@ because it’s not true in general; as discussed in E1, you can get different re
 boundary conditions (such as the solenoid being inside a giant capacitor) or different initial conditions
 (such as somebody shining electromagnetic radiation on the solenoid using a flashlight). But this is
 the solution you get if none of that “extra” stuff is around.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 9 (Purcell 7.4). Two voltmeters are attached around a solenoid with magnetic flux Φ.
 Find the readings on the two voltmeters in terms of dΦ/dt, paying attention to the signs.
 Solution. Let the resistance of each resistor be R. The current in the center loop with the two
@@ -540,7 +560,9 @@ are approximately circles of radius R, then what is the flux? Generalize to an N
 Solution. Remember that in the definition of the magnetic flux, one needs to define a normal
 vector dS. This is arbitrary, since for any point on a surface there are two normal vectors which
 point in opposite directions. Applying Faraday’s law requires making a consistent choice.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 However, some surfaces are nonorientable, which means it is impossible to define the normal
 vector on the surface continuously. Concretely, what happens is that if we draw a normal vector
 at some point (arbitrarily picking up or down), and continuously extend this definition around
@@ -590,7 +612,9 @@ sin2
 s4B2
 R
 which causes an initial angular velocity ω = L/(2Ms2).
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 After the pendulum begins swinging, the presence of the magnetic field causes an effective
 drag force. To see this, note that now we have
 E = −Bs2 d(sinθ)
@@ -618,8 +642,8 @@ dt
 .
 If we take the small angle approximation, then we recover ordinary damped harmonic oscil-
 lations, as covered in M4.
-[3] Problem 11.  W 1 0USAPhO 2009, problem A1.
-[3] Problem 12.  m 1 0USAPhO 1999, problem B2.
+[3] Problem 11.   W 1 0USAPhO 2009, problem A1.
+[3] Problem 12.   m 1 0USAPhO 1999, problem B2.
 [3] Problem 13 (Purcell). A dynamo is a generator that works as follows: a conductor is driven
 through a magnetic field, inducing an electromotive force in a circuit of which that conductor is
 part. The source of the magnetic field is the current that is caused to flow in that circuit by that
@@ -635,7 +659,9 @@ to make the current enough to make the magnetic field enough to induce an E of t
 The critical speed can depend only on the size and shape of the conductors, the conductivity σ, and
 the constant µ0. Let d be some characteristic dimension expressing the size of the dynamo, such as
 the radius of the disk in our example.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Show by a dimensional argument that ω0 must be given by a relation of the form ω0 = K/µ0σd2
 where K is some dimensionless numerical factor that depends only on the arrangement and
 relative size of the parts of the dynamo.
@@ -677,9 +703,11 @@ In reality, the power grid is comprised of many independent generators distribut
 sands of miles. Since they are all connected, they all rotate at roughly the same frequency; any
 slightly slower ones will be sped up by the rest. This massive entity is sometimes called “the world’s
 largest machine”.
-[3] Problem 14.  ^ 1 0USAPhO 2023, problem B1. A nice problem on a particular kind of motor,
+[3] Problem 14.   ^ 1 0USAPhO 2023, problem B1. A nice problem on a particular kind of motor,
 which reviews almost everything covered above in this problem set.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 15 (MPPP 178). In general, a magnet moving near a conductor is slowed down by
 induction effects. Suppose that inside a long vertical, thin-walled, brass tube a strong permanent
 magnet falls very slowly due to these effects, taking a time t to go from the top to the bottom.
@@ -746,7 +774,9 @@ aware of Faraday’s experiments, which stated that E = −dΦ/dt for stationary
 demanded that this remain true for moving loops, and deduced that there must be a force
 per charge of v × B. That is, Maxwell used Faraday’s law to derive the Lorentz force! This
 is a reminder that the process of discovery is messy. When new physics is being found, the
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 very same fact could be a law, a derived result, or simply true by definition, depending on
 where you start from. And it’s not clear which it’ll end up being until the dust settles.
 3 Inductance
@@ -791,7 +821,9 @@ U =
 2
 LI2
 where L is the self-inductance.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Example 5
 Compute the self-inductance of a cylindrical solenoid of radius R, length H ≫ R, and n turns
 per length.
@@ -837,7 +869,9 @@ solenoid acting on the circumferential currents at the walls. The force per leng
 wire is IB, and the pressure is this quantity times the turns per length, so naively
 P = (µ0nI)(nI).
 However, this is off by a factor of 2. To see why, consider a small Amperian rectangle
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 that straddles the surface of the solenoid. The currents near this rectangle contribute axial
 magnetic fields of µ0nI/2 inside and −µ0nI/2 outside. Thus, the currents due to the entire
 rest of the solenoid contribute µ0nI/2 both inside and outside. Since a wire can’t exert a
@@ -881,7 +915,9 @@ Recall the example in E1 involving the force between two spherical balls of char
 we got the answer using a slightly tricky argument, where Newton’s third law allowed us to
 use the shell theorem twice. But the idea of electromagnetic stress provides a straightforward
 alternative proof which also works for more general situations.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Suppose the two balls lie above and below the xy plane, and additional external forces
 hold them both at rest. Consider as a system everything at z > 0, which includes
 the second ball and a lot of empty space. The only external forces on this system are
@@ -940,7 +976,9 @@ log
 R + w
 R
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Let’s compute the total energy of the magnetic field. The magnetic field outside the solenoid
 is zero, and the magnetic field inside is B = µ0NI/2πr. Now consider cylindrical shells of
 radius r, thickness dr, and volume dV = 2πrhdr. The field energy is
@@ -986,13 +1024,13 @@ R2
 ẑ =
 ˙ I
 2
-
+
 µ0Nh
 2π
 log
 R + w
 R
-
+
 R2
 (z2 + R2)3/2
 ẑ
@@ -1020,7 +1058,9 @@ circumvent this messy issue by just giving the self-inductance from the start.
 of approximate length ℓ/2 connected by semicircles of diameter d ≪ ℓ.
 (a) Write down an integral expression for the self-inductance, neglecting the curved parts, and
 show that it diverges.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Find a rough estimate for the self-inductance by taking the wire to have radius r ≪ d and
 ignoring any flux through the wire itself.
 Solution. (a) We see the flux to be
@@ -1029,13 +1069,13 @@ Z d
 0
 µ0I
 2π
-
+
 1
 x
 +
 1
 d − x
-
+
 ℓ
 2
 dx
@@ -1046,13 +1086,13 @@ Z d−r
 r
 µ0I
 2π
-
+
 1
 x
 +
 1
 d − x
-
+
 ℓ
 2
 dx.
@@ -1064,10 +1104,10 @@ I
 µ0ℓ
 2π
 log
-
+
 d − r
 r
-
+
 ≈
 µ0ℓ
 2π
@@ -1107,7 +1147,9 @@ s3
 µ0Iπr2
 2R
 Dividing by I gives the same result as (a), as expected.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 20 (MPPP 181). Three nearly complete circular loops, with radii R, 2R, and 4R are
 placed concentrically on a horizontal table, as shown.
 A time-varying electric current is made to flow in the middle loop. Find the voltage induced in the
@@ -1139,7 +1181,9 @@ Suppose the magnetic moment of an iron atom is due to a single unpaired electron
 angular momentum of order ℏ. The atoms are separated by a distance d ∼ 10−10 m. Estimate
 the maximum magnetic field an iron magnet can produce. How does this compare to the
 fields that can be produced in an electromagnet?
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The answer doesn’t scale significantly with the physical size of the iron magnet. To see this,
 think in terms of electric dipoles: if you have a giant cube of electric dipoles, it’s equivalent
@@ -1175,14 +1219,16 @@ For an exercise involving these pressure forces, see USAPhO 2025, problem A3.
 Instead, these fields are produced in Bitter electromagnets, which are solenoids made of thick
 metal plates, perforated with cooling channels to dissipate the enormous heat produced by
 resistance. It is possible to produce higher fields temporarily, but the results will be explosive.
-[3] Problem 21.  ^ 1 0USAPhO 2021, problem A3. A simple classical model of an electron.
+[3] Problem 21.   ^ 1 0USAPhO 2021, problem A3. A simple classical model of an electron.
 [3] Problem 22 (USAPhO 2007). This is a rewrite of USAPhO 2007, problem B2, which has several
 typos and ambiguities. In this problem, we will model diamagnetism in materials classically. For
 simplicity, we will assume that each atom consists of a single electron of charge −e and mass me,
 orbiting a single proton of charge e and mass mp ≫ me in a circle of radius R.
 (a) Find the angular velocity ω0 of the electron’s orbit. For simplicity, you may use ω0 and R in
 all of your answers below.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 (b) When we average over many orbits of the electron, it is effectively a small current loop, which
 produces the field of a magnetic dipole moment. Find the magnitude m of this dipole moment.
 We model a diamagnetic substance with N atoms to have all atoms oriented in the xy plane, with
@@ -1256,7 +1302,9 @@ R′2
 eB0
 meω0
 .
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Expanding the left-hand side to first order in small changes gives, by the binomial theorem,
 2
 ∆ω
@@ -1352,12 +1400,14 @@ These are legitimate questions, and the truth is that any “classical” deriva
 phenomena doesn’t really work; you fundamentally need quantum mechanics. At best, our
 classical argument can give us a rough estimate of the size of the effect. For more discussion,
 see E8, and for an alternative derivation which uses some quantum mechanics, see R3.
-[5] Problem 23.  h 1 0APhO 2013, problem 3. A solid question involving classical magnetic moments,
+[5] Problem 23.   h 1 0APhO 2013, problem 3. A solid question involving classical magnetic moments,
 which gives some intuition for the quantum behavior.
 5 Superconductors
 There are many tough Olympiad problems involving superconductors. Superconductors can be a
 bit intimidating at first, but they actually obey simple rules.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 7
 An ideal conductor has zero resistivity, which implies that the magnetic flux through any
 loop in the conductor is constant: attempting to change the flux instantly produces currents
@@ -1409,7 +1459,9 @@ AI2
 x2
 eq
 x.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 The other energy contribution is k(x − x0)2/2, so setting the derivative of energy to zero,
 AI2
 x2
@@ -1449,7 +1501,9 @@ Kout = 0, Kin = B0/µ0
 which you should check if you’re not sure.
 [3] Problem 24 (MPPP 182). Two identical superconducting rings are initially very far from each
 other. The current in the first is I0, but there is no current in the other. The rings are now slowly
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 brought closer together. Find the current in the first ring when the current in the second is I1.
 Solution. Since the rings are ideal conductors, the flux through each ring is conserved. Now let
 the mutual inductance be M and the self-inductance be L, and let the final current through the
@@ -1483,7 +1537,9 @@ hold. Express your final answers in terms of only α and g.
 (e) In reality, the expressions for Bz and Br break down if the ring moves too far. Consider part
 (d) again, but now suppose the exact expressions for Bz and Br are used. Without solving
 any differential equations, will the resulting motion be qualitatively similar or not?
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The magnetic field in the center of the solenoid is µ0nIs. By symmetry and
 superposition, at the ends of the solenoid, the field at the axis is 1
 2µ0nIs since the two ends
@@ -1536,7 +1592,9 @@ L
 − mg.
 Combining the results of parts (a) and (c) to eliminate B0 gives the simple result
 F = mg(1 − αz)
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 which is a simple harmonic motion equation with a shift, so that the equilibrium point is at
 z = −1/α. Since the initial velocity is zero, we conclude
 z(t) =
@@ -1556,7 +1614,7 @@ this point, if we still had Br = B0βr, then the upward magnetic force would be 
 just enough to balance gravity. But as the ring goes further inside, the magnetic field spreads
 out less radially, so Br is actually lower. Therefore, the upward magnetic force is always less
 than mg! The ring doesn’t actually oscillate; it just falls faster and faster downward.
-[4] Problem 26.  m 1 0IPhO 2012, problem 1C. A neat and clean problem about superconductors.
+[4] Problem 26.   m 1 0IPhO 2012, problem 1C. A neat and clean problem about superconductors.
 [4] Problem 27. @ 1 0EuPhO 2017, problem 3.
 Solution. See the official solutions as usual. In retrospect, the basic idea behind this problem was
 introduced back in E2.
@@ -1585,7 +1643,9 @@ Z
 rdr
 r2
 .
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 The latter integral looks like it diverges, but we recall it is cut off by Λ on the upper end and the
 radii of the holes on the lower end. The value of the integral doesn’t matter, because it’s just some
 constant, and we’re only interested in the dependence on d, which is
@@ -1614,7 +1674,7 @@ k/m ∼ m1/4
 .
 Therefore the new frequency is f0(1 + M/m)1/4. The fact that we didn’t need to know any of the
 constants involved to get this scaling is a nice property of power-law potentials.
-[5] Problem 29.  h 1 0IPhO 1994, problem 2. This problem tests your intuition for induction, and is
+[5] Problem 29.   h 1 0IPhO 1994, problem 2. This problem tests your intuition for induction, and is
 good preparation for E6.
 Remark
 In E4, we spent a lot of time applying F = ma to charges. But in this problem set, we
@@ -1653,7 +1713,9 @@ C
 dΦB
 dt
 = − ˙ IL
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 where we need to add on Q/C to close the loop through the capacitor. Thus,
 E = ˙ IL + IR +
 Q

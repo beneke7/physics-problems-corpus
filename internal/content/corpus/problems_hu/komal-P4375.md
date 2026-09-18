@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4375. Állandó tömegű ideális gáz az ábrán látható körfolyamatot végzi. Ábrázoljuk ezt a körfolyamatot ( p , V ) helyett ( p , T ), illetve ( E , V ) diagramon! ( E  a gáz belső energiája.)
 
-![figure](../../raw_html/komal_figures/komal-P4375-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4375-fig1.gif)

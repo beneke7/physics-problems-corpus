@@ -23,7 +23,7 @@ techniques: [conservation-laws, choose-reference-frame]
 
 **1. CHARGES IN E (8 points)**
 
-Two particles (the blue and the red) of mass $m$ are connected with a spring, the stress-free length of which is $L$ and stiffness $k$; the blue carries charge $q$ ($q > 0$) and the red is chargeless. In the region $x > 0$, there is a homogeneous electric field $E$, antiparallel to the $x$-axis; in the region $x < 0$, there is no electric field. 
+Two particles (the blue and the red) of mass $m$ are connected with a spring, the stress-free length of which is $L$ and stiffness $k$; the blue carries charge $q$ ($q > 0$) and the red is chargeless. In the region $x > 0$, there is a homogeneous electric field $E$, antiparallel to the $x$-axis; in the region $x < 0$, there is no electric field.
 
 Initially, the "dumbbell" of charges moves in region $x < 0$ with velocity $v$, parallel to the $x$-axis; the dumbbell's axis is also parallel to the $x$-axis and the spring is stress-free. It is known that after a while, the dumbbell moves in the region $x < 0$ with velocity $-v$, and that the red particle never enters the region $x > 0$. Also, the spring's length achieves minimum only once.
 

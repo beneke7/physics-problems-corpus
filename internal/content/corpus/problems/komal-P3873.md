@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An particle of energy 6.00 MeV was emitted by the nucleus of a $^{218}$Po, and passed the nucleus of a copper atom, and was deflected by an angle of 5$^\circ$. What is the smallest distance between the particle and the nucleus of the copper atom? 
+An particle of energy 6.00 MeV was emitted by the nucleus of a $^{218}$Po, and passed the nucleus of a copper atom, and was deflected by an angle of 5$^\circ$. What is the smallest distance between the particle and the nucleus of the copper atom?
  (5 pont)

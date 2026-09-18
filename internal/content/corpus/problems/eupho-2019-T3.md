@@ -29,7 +29,7 @@ A stream of water exits from the nozzle of a hose with a constant unknown speed 
 
 Using this figure, determine the exit speed $v$ if the free fall acceleration is $g = 9.8\ \text{m/s}^2$.
 
-![Figure 2: Shape of the water stream at a certain moment in time (larger version provided on separate sheet).](../../sources/eupho/figures/eupho-2019-T3-1.png)
+![Figure 2: Shape of the water stream at a certain moment in time (larger version provided on separate sheet).](../../../../../sources/eupho/figures/eupho-2019-T3-1.png)
 
 *Figure 2: Shape of the water stream at a certain moment in time.*
 

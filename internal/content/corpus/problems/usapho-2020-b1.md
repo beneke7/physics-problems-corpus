@@ -36,7 +36,7 @@ $$
 \Delta P=\sigma\left(\frac{1}{r}+\frac{1}{R}\right),
 $$
 where $\Delta P$ is the difference in pressure between the stream and the atmosphere and $R$ is the radius of curvature of the vertical profile of the stream, visualized below. ( $R<0$ for the stream of water; the radius of curvature would be positive only if the stream profile curved inwards.)
-![](usapho-2020-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2020-b1-fig01.png)
 For this part of the problem, we assume that $|R| \gg|r|$, so that the curvature of the vertical profile of the stream can be ignored. Also assume that water is incompressible.
 Accounting for the pressure in the stream, find a new equation relating for $r(y)$ in terms of $\sigma, r_{0}, v_{0}$, and $\rho$, the density of water. You do not need to solve the equation for $r$.
 d. After falling for some distance, the water stream usually breaks into smaller droplets. This occurs because small random perturbations to the shape of the stream grow over time, eventually breaking the stream into apart.
@@ -52,4 +52,4 @@ $$
 
 where $A \ll r_{0}$ is the perturbation amplitude. To analyze such a stream, it is sufficient to consider only the thickest and thinnest parts of the stream.
 Accounting for both sources of curvature, find a condition on $r_{0}$ and $k$ such that the size of perturbations increases with time.
-![](usapho-2020-b1-fig02.png)
+![](../../figures/usapho/figures/usapho-2020-b1-fig02.png)

@@ -46,7 +46,9 @@ g. No books or documents relevant to the test may be brought into the examinatio
 
 
                                     Page 1 of 22
-                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 Declaration
 
@@ -73,7 +75,9 @@ Name and signature:
 
 
                                           Page 2 of 22
-                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 1. We model the collision of a compound object with a rigid vertical wall. The object is made
    up of a spherical shell of mass m1 that is joined by a horizontal rod to the centre of an
@@ -125,7 +129,9 @@ Name and signature:
 
 
                                          Page 3 of 22
-                                                            Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                            Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
               We note that in this frame, the CM does not move (i.e. stays at zero), therefore
@@ -137,7 +143,7 @@ Name and signature:
                                     1
 
 
-                                                                     
+
                                                             m1 + m2
                                               F1 = −k               x1 ,
                                                               m2
@@ -192,7 +198,9 @@ Name and signature:
 
 
                                                 Page 4 of 22
-                                               Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                               Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
 
@@ -246,7 +254,9 @@ Name and signature:
 
 
                                     Page 5 of 22
-                                                          Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                          Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
                                                                                    ′
@@ -283,9 +293,9 @@ Name and signature:
                                      3                ε0 A        2q
 
           But V (0) = 0, so this constant is also zero. Rearranging, we obtain
-                                                                      31
+                                                                       31
                                                          81I 2 m
-                                                    
+
                                                                              4
                                          V =                                x3 .
                                                         32ε20 A2 q
@@ -295,9 +305,9 @@ Name and signature:
           1 - Correct answer
 
       (d) Setting x = d and V = V0 , we get
-                                                                      13
+                                                                       13
                                                          81I 2 m
-                                                    
+
                                                                               4
                                          V0 =                               d3 .
                                                         32ε20 A2 q
@@ -320,7 +330,9 @@ Name and signature:
 
 
                                          Page 6 of 22
-                                               Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                               Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 Bz = 1.0 T in the +z-direction. P1 moves in a circle of radius R1 in the xy-plane with
 speed v = 3.00 × 105 m/s.
@@ -375,7 +387,9 @@ How can this be?
 
 
                                       Page 7 of 22
-                                                  Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                  Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
       (d) P2 moves left with a constant speed of 1.00 × 104 m/s.
@@ -433,7 +447,9 @@ How can this be?
 
 
                                         Page 8 of 22
-                                                    Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                    Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
 
@@ -476,7 +492,9 @@ current in the solenoid is gradually reduced to zero, the cylinders begin to rot
 
 
                                      Page 9 of 22
-                                          Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                          Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
 When the current decreases, the magnetic field strength decreases, inducing an
@@ -536,7 +554,9 @@ clockwise.
 
 
                               Page 10 of 22
-                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
       (c) In the region between the cylinders, there is an electric field, given by Gauss’ law
@@ -583,7 +603,9 @@ clockwise.
 
 
                                         Page 11 of 22
-                                                Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 the same time connecting an AC voltmeter to one of the terminals (the other end of the
 voltmeter is always fixed at the central junction). She obtains the following readings:
@@ -638,7 +660,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                        Page 12 of 22
-                                                     Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                     Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
              • L and C in series. The voltages are
@@ -698,7 +722,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                          Page 13 of 22
-                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                   Wednesday, 15 March 2023, 1:00pm–5:00pm
 
     heat capacity at constant volume as CV . Show that the heat capacity C is given by
                                                          R
@@ -763,7 +789,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                         Page 14 of 22
-                                                  Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                  Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
           Using P = nRT /V for the mixture, the adiabatic equation can also be written as
@@ -785,7 +813,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 7. Weather balloons float at high altitudes and need to withstand very low temperatures and
    pressures. When inflated, the effective radial tension on the surface of a spherical balloon
-   of radius r is given by                                  
+   of radius r is given by
                                                            1
                                   FT = 16πr0 κRT λ − 5 ,
                                                           λ
@@ -813,7 +841,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
           The increase in elastic energy for the same change in r is
 
                                                                r5
-                                                                 
+
                                                           r
                                dU = FT dr = 16πr0 κRT       − 05 dr.
                                                           r0 r
@@ -822,15 +850,17 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                         Page 15 of 22
-                                                 Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                 Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
     Equating the two,
                                                r05
-                                                     
+
                                            r
                            16πr0 κRT      r0 − r 5
-                                                                                  
+
                                                             4κRT           1   1
                     ∆p =                                  =                  − 7       .
                                       4πr2                    r0           λ λ
@@ -841,7 +871,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
     acceptable
 
 (b) The maximum value can be found by differentiating with respect to λ:
-                                                     
+
                           d(∆p)    4κRT       1     7
                                 =           − 2+ 8 .
                             dλ       r0       λ     λ
@@ -865,15 +895,15 @@ voltmeter is always fixed at the central junction). She obtains the following re
                                            pf =          pi .
                                                   ni λ 3
     But we also know that
-                                                                             
+
                                               4κRT                    1   1
                           pf = pi + ∆p = pi +                           − 7
                                                 r0                    λ λ
-    Therefore,                                                      
+    Therefore,
                             4κRT         1   1                 nf
                                            − 7        =             − 1 pi
                               r0         λ λ                  ni λ3
-    This means that                               −1                   
+    This means that                                 −1
                                r0          1   1                 nf
                            κ=                − 7                       − 1 pi
                               4RT          λ λ                  ni λ 3
@@ -887,7 +917,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                      Page 16 of 22
-                                                    Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                    Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
            Substituting in the numbers,
@@ -925,7 +957,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
         This is known as the ray equation.
    (b) The fibre is characterised by the following refractive index distribution:
-                                                  r 2 
+                                                    r  2
                                   2    2
                               n(r) = n1 1 − 2∆             ,    0≤r≤a
                                                     a
@@ -933,7 +965,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                          Page 17 of 22
-                                                        Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                        Wednesday, 15 March 2023, 1:00pm–5:00pm
 
     The refractive index of the medium outside the optical fibre is uniform, with the value
     n2 given by
@@ -981,9 +1015,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
                                                  =       = .
                                               dz   cos θ  β̃
        Therefore,
-                                                   2
+                                                    2
                                                             n(r)2
-                                          
+
                                               dr
                                                         =         − 1.
                                               dz             β̃ 2
@@ -996,7 +1030,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                       Page 18 of 22
-                                                 Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                 Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
       Rearranging,
@@ -1009,8 +1045,8 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 (b)    (i) Substituting into the ray equation,
 
-                             d2 r                         r 2      2∆n21
-                                                 
+                             d2 r                          r  2       2∆n21
+
                                      1 d 2
                                   =          n 1  1 − 2∆          = −         r.
                              dz 2   2β̃ 2 dr               a          a2 β̃ 2
@@ -1060,7 +1096,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                      Page 19 of 22
-                                                        Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                                        Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
 
@@ -1087,7 +1125,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
                                                    ds   n(r)
                                           dt =        =      ds.
                                                    v     c
-      We know that                  s             2
+      We know that                  s               2
                                               dz                n(r)
                              ds =   1+                  dr = q            dr.
                                               dr                  2     2
@@ -1097,7 +1135,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
       1 - Correct usage of ray equation
 
 (d)    (i) We know that n(rt ) = β̃, therefore
-                                                    r 2 
+                                                      r  2
                                                         t
                                        n21 1 − 2∆             = β̃ 2 .
                                                        a
@@ -1128,7 +1166,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                         Page 20 of 22
-                                             Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+                                             Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
      (ii) Since the path is sinusoidal, we might as well talk in terms of periods. Letting
@@ -1143,7 +1183,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
          Thus, if τ (z) represents the time taken by the ray to traverse the distance z,
          then
                                                           n21
-                                                             
+
                                     τ (z)   τp   1
                                           =    =     β̃ +       .
                                       z     zp   2c       β̃
@@ -1155,7 +1195,7 @@ voltmeter is always fixed at the central junction). She obtains the following re
          while a ray with β̃ = n2 takes maximum time
 
                                                        n21
-                                                          
+
                                              1
                                   τmax (z) =      n2 +       z.
                                              2c        n2
@@ -1199,7 +1239,9 @@ voltmeter is always fixed at the central junction). She obtains the following re
 
 
                                    Page 21 of 22
-         Wednesday, 15 March 2023, 1:00pm–5:00pm
+
+
+         Wednesday, 15 March 2023, 1:00pm–5:00pm
 
 
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-A ball, dropped from a height of 1.5 m, is bouncing for 3 seconds. At what rate should the ball be bounced in order to make it reach the height of 1.5 m? 
+A ball, dropped from a height of 1.5 m, is bouncing for 3 seconds. At what rate should the ball be bounced in order to make it reach the height of 1.5 m?
  (4 pont)

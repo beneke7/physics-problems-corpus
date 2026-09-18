@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, extremization]
 ---
 
-Imagine a spherical celestial body which is at liquid state. The internal gravitation causes hydrostatic pressure. Let the material of the celestial body be water and let its radius be $R=25$ km. What is the hydrostatic pressure at the centre of the sphere? 
+Imagine a spherical celestial body which is at liquid state. The internal gravitation causes hydrostatic pressure. Let the material of the celestial body be water and let its radius be $R=25$ km. What is the hydrostatic pressure at the centre of the sphere?
  (4 pont)

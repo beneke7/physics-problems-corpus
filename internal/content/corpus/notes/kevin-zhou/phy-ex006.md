@@ -24,18 +24,17 @@ source_role: explanatory_example
 
 Example. To get an explicit formula for R(t), note that Ṙ = ωR. The naive solution is the
 exponential, but since ω doesn’t commute with itself at different times, we must use the path
-ordered exponential,                        Z                  t
+ordered exponential,                         Z                   t
                                       R(t) = P exp                   ω(t′ )dt′ .
                                                              0
 For example, the second-order term here is
-                                  Z t′′ Z t                         
+                                  Z t′′  Z t
                                                         ′′   ′′
                                                      ω(t ) dt            ω(t′ ) dt′
                                         0       t′
 where the ω’s are ordered from later to earlier. Then when we differentiate with respect to t, it
 only affects the dt′′ integral, which pops out a factor of ω on the left as desired. This exponential
 operation relates rotations R in SO(3) with infinitesimal rotations ω in so(3).
-13 1. Classical Mechanics
 
 
 We now turn from kinematics to dynamics.
@@ -43,7 +42,7 @@ We now turn from kinematics to dynamics.
  • Using v = ω × r, the kinetic energy is
                         1X         1X                 1X
                            mi v2 =    mi ∥ω × ri ∥2 =    mi ω 2 ri2 − (ri · ω)2 .
-                                                                               
+
                   T =
                         2          2                  2
     This implies that
@@ -53,7 +52,7 @@ We now turn from kinematics to dynamics.
     where Iab is the symmetric tensor
                                             X
                                                 mi ri2 δab − (ri )a (ri )b
-                                                                             
+
                                     Iab =
                                             i
 
@@ -101,7 +100,6 @@ We now turn from kinematics to dynamics.
                                          L = I ω,
                                                     2
     For general I, the angular momentum and angular velocity are not parallel.
-14 1. Classical Mechanics
 
 
   • To find the equation of motion, we use dL/dt in the center of mass frame, for

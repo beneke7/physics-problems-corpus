@@ -164,6 +164,6 @@ CD +
 − − →
 CD = 0
 so there is no field at O.
-[5] Problem 27.  h 1 0APhO 2013, problem 1. A neat question on a cylindrical RC circuit that uses
+[5] Problem 27.   h 1 0APhO 2013, problem 1. A neat question on a cylindrical RC circuit that uses
 many of the techniques we’ve covered so far.
 26

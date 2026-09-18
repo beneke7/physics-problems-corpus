@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-From one edge of a horizontal table, a point-like body is launched with an initial speed of $v_0$. The body slides along the surface of the table, then flies off the table and hits the ground at the speed of $v_0$, the angle between this final velocity and the horizontal is $\alpha=30^\circ$. The table is $h=0.8~\mathrm{m}$ high and $\ell=3.2~\mathrm{m}$ long (see the figure ). 
- $a)$ What was the initial speed of the object? 
- $b)$ What is the coefficient of kinetic friction between the table and the body? 
+From one edge of a horizontal table, a point-like body is launched with an initial speed of $v_0$. The body slides along the surface of the table, then flies off the table and hits the ground at the speed of $v_0$, the angle between this final velocity and the horizontal is $\alpha=30^\circ$. The table is $h=0.8~\mathrm{m}$ high and $\ell=3.2~\mathrm{m}$ long (see the figure ).
+ $a)$ What was the initial speed of the object?
+ $b)$ What is the coefficient of kinetic friction between the table and the body?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5562-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5562-fig1.gif)

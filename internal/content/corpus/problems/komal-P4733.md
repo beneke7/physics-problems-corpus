@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-Light-rays travel in a cylinder shaped glass rod parallel to the symmetry axis of the rod, and when they enter to air at the end of the rod they brought to focus at one point. Give the equation of the boundary curve in terms of the refractive index of glass $n$ , and of the focal length $f$ . 
+Light-rays travel in a cylinder shaped glass rod parallel to the symmetry axis of the rod, and when they enter to air at the end of the rod they brought to focus at one point. Give the equation of the boundary curve in terms of the refractive index of glass $n$ , and of the focal length $f$ .
  (4 pont)

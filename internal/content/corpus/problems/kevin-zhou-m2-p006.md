@@ -35,7 +35,9 @@ solution_language: en
      (a) What is the maximum starting acceleration the truck can have if the board is not to slip or
 
                                                             5
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
           fall over?

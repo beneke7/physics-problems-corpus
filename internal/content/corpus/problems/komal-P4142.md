@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: pending
 ---
 
-An object is at a distance of d from a screen. The convex lens, placed between them, forms the sharp image of the object at the screen at two different positions, the distance between these positions is  s . 
- a ) Find the focal length, f , of the lens. 
- b ) Suppose that d is known very precisely. When will the uncertainty in the measurement of  s cause a greater error in the calculation of f if the value of s is greater or if it is smaller? 
+An object is at a distance of d from a screen. The convex lens, placed between them, forms the sharp image of the object at the screen at two different positions, the distance between these positions is  s .
+ a ) Find the focal length, f , of the lens.
+ b ) Suppose that d is known very precisely. When will the uncertainty in the measurement of  s cause a greater error in the calculation of f if the value of s is greater or if it is smaller?
  (4 pont)

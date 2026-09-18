@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A body, whose initial temperature is T $_{0}$ is put to thermal contact with the heat reservoirs of temperatures and finally connected with the heat reservoir of temperature T $_{ n }$= T $_{0}$. Show that Clausius' statement: 
+A body, whose initial temperature is T $_{0}$ is put to thermal contact with the heat reservoirs of temperatures and finally connected with the heat reservoir of temperature T $_{ n }$= T $_{0}$. Show that Clausius' statement:
 
- holds true. Q $_{ i }$ is the heat absorbed by the body from that heat reservoir whose temperature is T $_{ i }$. Assume that the volume of the body cannot change. 
+ holds true. Q $_{ i }$ is the heat absorbed by the body from that heat reservoir whose temperature is T $_{ i }$. Assume that the volume of the body cannot change.
  (5 pont)

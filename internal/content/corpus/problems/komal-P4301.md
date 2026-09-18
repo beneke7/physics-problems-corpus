@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws, differential-element]
 ---
 
-The radius of a thin ring of mass M floating in space is  R . 
- a ) At which point of the straight line which goes through the centre of the ring and which is perpendicular to the plane of the ring will the force exerted on a small pointlike object be the greatest? (Where will the gravitational field strength be the greatest?) 
- b ) If a pointlike object of mass  m ( m M ) is released at such a point, what is its relative speed at which it crosses the ring? 
+The radius of a thin ring of mass M floating in space is  R .
+ a ) At which point of the straight line which goes through the centre of the ring and which is perpendicular to the plane of the ring will the force exerted on a small pointlike object be the greatest? (Where will the gravitational field strength be the greatest?)
+ b ) If a pointlike object of mass  m ( m M ) is released at such a point, what is its relative speed at which it crosses the ring?
  (5 pont)

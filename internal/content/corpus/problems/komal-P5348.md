@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-In a demonstration flight, a new passenger aircraft travelled at a speed of 85.2 m/s at a height of 150 metres, where the temperature of the air was $15\,{}^\circ$. This speed is one quarter of the speed of sound there, which is usually formulated as $v=0.25$ M, i.e. 0.25 Mach. At ground level, the air had a temperature of $16\,{}^\circ$C. The cruising speed of this aircraft is 900 km/h, which is 0.82 M (0.82 Mach) at the cruising altitude, and at the temperature there. 
- Considering air as an ideal gas and assuming that the temperature of the air varies linearly with the distance measured from the ground, determine 
- $a)$ the temperature of the air at the cruising height; 
- $b)$ the cruising height. 
+In a demonstration flight, a new passenger aircraft travelled at a speed of 85.2 m/s at a height of 150 metres, where the temperature of the air was $15\,{}^\circ$. This speed is one quarter of the speed of sound there, which is usually formulated as $v=0.25$ M, i.e. 0.25 Mach. At ground level, the air had a temperature of $16\,{}^\circ$C. The cruising speed of this aircraft is 900 km/h, which is 0.82 M (0.82 Mach) at the cruising altitude, and at the temperature there.
+ Considering air as an ideal gas and assuming that the temperature of the air varies linearly with the distance measured from the ground, determine
+ $a)$ the temperature of the air at the cruising height;
+ $b)$ the cruising height.
  (4 pont)

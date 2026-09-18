@@ -63,7 +63,9 @@ is known as the Principle of Least Action (PLA).
     Manoj Harbola (IIT-Kanpur) and Vijay A. Singh (ex-National Coordinator, Science Olympiads) were the
 principal authors of this problem. The contributions of the Academic Committee, Academic Development Group
 and the International Board are gratefully acknowledged.
-                       Theoretical Task 2 (T-2): Solutions                                  2 of 9
+
+
+                       Theoretical Task 2 (T-2): Solutions                                  2 of 9
 
 (A3) PLA implies that the trajectory of a particle moving between two fixed points in a region
      of constant potential will be a straight line. Let the two fixed points O and P in Fig. 1
@@ -114,7 +116,9 @@ ple of least time.
        (0,0) and (x0 ,y0 ) is
                                    q                   p
                        T (α) = n1 ( y12 + α2 )/c + n2 ( (x0 − α)2 + (y0 − y1 )2 )/c
-                       Theoretical Task 2 (T-2): Solutions                               3 of 9
+
+
+                       Theoretical Task 2 (T-2): Solutions                               3 of 9
 
 
        Differentiating w.r.t. α and setting the derivative of T (α) to zero
@@ -150,7 +154,7 @@ ple of least time.
                                                           dy 2
                                                      1+(     )
                                                           dx
-                                             s           2
+                                             s             2
                                        dy        n(y)
                                           =−                 −1
                                        dx       n0 sin i0
@@ -176,7 +180,9 @@ ple of least time.
 
 
        Note i0 = 90o so sin i0 = 1.
-                      Theoretical Task 2 (T-2): Solutions                              4 of 9
+
+
+                      Theoretical Task 2 (T-2): Solutions                              4 of 9
 
 
        Method I We employ the substitution
@@ -228,31 +234,33 @@ ple of least time.
        Given y0 = 10.0 cm.     n0 = 1.50      k = 0.050 cm−1
        From (B3)
                                                                        !1/2 
-                                                               2
+                                                                   2
                              n0  n0 − ky               n0 − ky
                         x0 =   ln           +                          −1   
                              k       n0                    n0
 
        Here y = −y0
-                       Theoretical Task 2 (T-2): Solutions                                  5 of 9
 
 
-                                     "                               1/2 #
+                       Theoretical Task 2 (T-2): Solutions                                  5 of 9
+
+
+                                     "                                1/2 #
                                                                  2
-                                                      
+
                                n0     (n0 + ky0 )     (n0 + ky0 )
                           x0 =    ln              +               −1
                                k          n0              n20
                                                              !1/2 
-                                                   2
+                                                     2
                                            2         2
                                 = 30 ln      +            −1      
                                           1.5       1.5
-                                                  "    1/2 #
+                                                  "      1/2 #
                                                   4     7
                                          = 30 ln    +
                                                   3     9
-                                                           
+
                                                     4
                                           = 30 ln     + 0.88
                                                     3
@@ -286,14 +294,16 @@ a trajectory that depends on the constructive interference of de Broglie waves.
                                                   2π∆A
                                                =
                                                     h
-                        Theoretical Task 2 (T-2): Solutions                          6 of 9
+
+
+                        Theoretical Task 2 (T-2): Solutions                          6 of 9
 
 (C2)                                                                                          [1.2]
        Recall the problem from part A where the particle
        traverses from O to P (see Fig. 4). Let an opaque
        partition be placed at the boundary AB between the
        two regions. There is a small opening CD of width
-       d in AB such that d  (x0 − x1 ) and d  x1 .
+       d in AB such that d   (x0 − x1 ) and d   x1 .
        Consider two extreme paths OCP and ODP such
        that OCP lies on the classical trajectory discussed in
        part A. Obtain the phase difference ∆φCD between                  Figure 4
@@ -311,7 +321,7 @@ a trajectory that depends on the constructive interference of de Broglie waves.
                                 O                         x1             x
         Consider the extreme trajectories OCP and ODP of (C1)
         The geometrical path difference is ED in region I and CF in region II.
-        This implies (note: d  (x0 − x1 ) and d  x1 )
+        This implies (note: d   (x0 − x1 ) and d   x1 )
                                               2πd sin θ1 2πd sin θ2
                                      ∆φCD =             −
                                                  λ1         λ2
@@ -325,7 +335,9 @@ a trajectory that depends on the constructive interference of de Broglie waves.
                                        =0       (from A2 or B1)
 
         Thus near the clasical path there is invariably constructive interference.
-                       Theoretical Task 2 (T-2): Solutions                                7 of 9
+
+
+                       Theoretical Task 2 (T-2): Solutions                                7 of 9
 
 D. Matter Wave Interference
 
@@ -379,7 +391,9 @@ electron-electron interaction.
                                                      h
 
                                                  β = 5.13
-                      Theoretical Task 2 (T-2): Solutions                                8 of 9
+
+
+                      Theoretical Task 2 (T-2): Solutions                                8 of 9
 
 (D3) What is is the smallest distance ∆y from P at which null (zero) electron detection maybe
      expected on the screen? [Note: you may find the approximation sin(θ + ∆θ) ≈ sin θ +
@@ -434,7 +448,9 @@ electron-electron interaction.
                                         d sin 10◦       dsin10◦
                                   mv1             − mv2         = 5.13
                                             h              h
-                       Theoretical Task 2 (T-2): Solutions                                 9 of 9
+
+
+                       Theoretical Task 2 (T-2): Solutions                                 9 of 9
 
 
        Therefore

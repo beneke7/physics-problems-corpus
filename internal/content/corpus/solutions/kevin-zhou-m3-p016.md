@@ -68,14 +68,14 @@ Since x(0) = ℓ0 and v(0) = 0, we have A = B = ℓ0/2, so that
 x(t) =
 ℓ0
 2
-
+
 e
 √
 g/ℓt
 + e−
 √
 g/ℓt
-
+
 .
 Since ℓ ≫ ℓ0, at the final time we have
 x(tf) = ℓ ≈

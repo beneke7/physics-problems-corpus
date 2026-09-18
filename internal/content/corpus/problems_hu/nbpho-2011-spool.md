@@ -22,7 +22,7 @@ verification_status: pending
 
 Egy tekercs $r$ belső sugarú és $R$ külső sugarú részének a vízszintes asztalon van; a tekercs tengelye vízszintes. Egy súlytalan kötél a belső rész köré van csavarva, amint az a képen látható. A kötél szabad vége az $\alpha$ szöget zárja be a vízszintessel (az $\alpha$ szög negatív is lehet). A tekercs tehetetlenségi nyomatéka $J$ és tömege $M$. A továbbiakban feltételezhetjük, hogy a tekercs az asztalon csúszásmentesen gördül.
 
-![figure](../../sources/nbpho/figures/nbpho-2011-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2011-fig1.jpg)
 
 **i) (2 pont)** A kötél szabad végét $u$ sebességgel húzzuk (a kötél szabad részével párhuzamosan; ez a rész nagyon hosszú lehet). Mekkora a tekercs sebessége?
 

@@ -19,4 +19,4 @@ verification_status: pending
 
 The key of the circuit given below has been kept open; at certain moment, it is closed. (a) What is the ammeter reading immediately after the key is closed? (b) The key is kept closed until an equilibrium state is achieved; what is the ammeter reading now? (c) Now, the key is opened, again; what is the ammeter reading immediately after the key is opened?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr65-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr65-fig1.jpg)

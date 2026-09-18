@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/izho/2020_T
 Problem 1 (10.0 points)
 Problem 1.1 (4.0 points)
 The oscillation period of a mathematical pendulum is determined by the formula
-𝑇𝑇 = 2𝜋𝜋�
+𝑇𝑇 = 2𝜋𝜋
 𝑙𝑙
 𝑔𝑔
 , (1)
@@ -27,7 +27,7 @@ periods can be represented as
 𝜀𝜀 =
 𝑇𝑇2−𝑇𝑇1
 𝑇𝑇1
-= �
+=
 𝑔𝑔1
 𝑔𝑔2
 − 1, (2)
@@ -70,17 +70,17 @@ around the Sun in the following form
 Given this relation, the acceleration difference is represented as
 ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔2
 2
-𝑟𝑟2 �2 − �1 −
+𝑟𝑟2  2 −  1 −
 𝑟𝑟1
 𝑟𝑟2
-�
+
 −2
-− �1 +
+−  1 +
 𝑟𝑟1
 𝑟𝑟2
-�
+
 −2
-�. (6)
+ . (6)
 Note that in this case, in order to obtain a nonzero result in the power series expansions, it is
 necessary to keep the second order terms, i.e. ( ) 2 2
 3 2 1 1 x x x + − ≈ +
@@ -89,10 +89,10 @@ necessary to keep the second order terms, i.e. ( ) 2 2
 XVI International Zhautykov Olympiad/Theoretical Competition Page 2/13
 ∆𝑔𝑔 = −6𝜔𝜔2
 2
-𝑟𝑟2 �
+𝑟𝑟2
 𝑟𝑟1
 𝑟𝑟2
-�
+
 2
 . (7)
 Thus, the relative change in the periods of oscillations due to the influence of the Sun is equal
@@ -108,22 +108,22 @@ so that the final relation is derived as
 𝜔𝜔2
 2𝑟𝑟2
 𝑔𝑔0
-�
+
 𝑟𝑟1
 𝑟𝑟2
-�
+
 2
 ≈ −3,3 ∙ 10−12
 . (9)
 Content Points
-Formula (1): 𝑇𝑇 = 2𝜋𝜋�
+Formula (1): 𝑇𝑇 = 2𝜋𝜋
 𝑙𝑙
 𝑔𝑔
 0,2
 Formula (2): 𝜀𝜀 =
 𝑇𝑇2−𝑇𝑇1
 𝑇𝑇1
-= �
+=
 𝑔𝑔1
 𝑔𝑔2
 − 1 0,2
@@ -154,23 +154,23 @@ Formula (5): 𝐺𝐺
 𝑟𝑟2 0,3
 Formula (6): ∆𝑔𝑔 = 𝑔𝑔1 − 𝑔𝑔2 = 𝜔𝜔2
 2
-𝑟𝑟2 �2 − �1 −
+𝑟𝑟2  2 −  1 −
 𝑟𝑟1
 𝑟𝑟2
-�
+
 −2
-− �1 +
+−  1 +
 𝑟𝑟1
 𝑟𝑟2
-�
+
 −2
-� 0,3
+  0,3
 Formula (7): ∆𝑔𝑔 = −6𝜔𝜔2
 2
-𝑟𝑟2 �
+𝑟𝑟2
 𝑟𝑟1
 𝑟𝑟2
-�
+
 2
 0,4
 Formula (8): 𝜀𝜀 ≈
@@ -184,10 +184,10 @@ Formula (9): 𝜀𝜀 = −3
 𝜔𝜔2
 2𝑟𝑟2
 𝑔𝑔0
-�
+
 𝑟𝑟1
 𝑟𝑟2
-�
+
 2
 0,3
 Numerical value in formula (9): 𝜀𝜀 ≈ −3,3 ∙ 10−12
@@ -279,9 +279,9 @@ Then, the average charge density in the conducting substance is obtained as
 =
 12𝜋𝜋𝜀𝜀0𝑤𝑤
 𝐼𝐼
-�
+
 𝑏𝑏4−𝑎𝑎4
-𝑏𝑏3−𝑎𝑎3�. (14)
+𝑏𝑏3−𝑎𝑎3 . (14)
 Content Points
 Formula (1): 𝑊𝑊 = 𝐼𝐼2
 𝑅𝑅 0,2
@@ -340,10 +340,10 @@ Formula (13): 𝑉𝑉 =
 Formula (14): 𝜌𝜌𝑄𝑄 =
 12𝜋𝜋𝜀𝜀0𝑤𝑤
 𝐼𝐼
-�
+
 𝑏𝑏4−𝑎𝑎4
 𝑏𝑏3−𝑎𝑎3
-� 0,3
+  0,3
 Total 3,0
 XVI International Zhautykov Olympiad/Theoretical Competition Page 4/13
 Problem 1.3 (3.0 points)

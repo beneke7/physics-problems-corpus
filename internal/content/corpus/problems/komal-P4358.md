@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-In the Universe there are more Neon than Argon atoms. On the contrary in the atmosphere of the Earth there are 500 times as much Argon as Neon atoms. How can it happen? 
+In the Universe there are more Neon than Argon atoms. On the contrary in the atmosphere of the Earth there are 500 times as much Argon as Neon atoms. How can it happen?
  (4 pont)

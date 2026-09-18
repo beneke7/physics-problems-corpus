@@ -24,4 +24,4 @@ By Jaan Kalda  (TalTech).
 
 There are three identical point light sources emitting mutually coherent light homogeneously in all directions. The figure below, also available as a GeoGebra file, shows the positions of the local light intensity maxima in the plane defined by the three light sources. These positions are not perfectly accurate because they are calculated on the assumption that the light intensity from a single source does not depend on the distance from it. Reconstruct the positions of the light sources using GeoGebra classic; you can use all its construction tools except the ones which require inputting numerical values or formulas.
 
-![figure](../../sources/physicscup/figures/physicscup-2023-p5-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2023-p5-1.png)

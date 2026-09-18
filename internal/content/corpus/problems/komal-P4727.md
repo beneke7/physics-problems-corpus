@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-Different shapes of planar figures, which have the same area, are cut from a uniform metal sheet. What is the shape of that figure which has the least moment of inertia calculated around an axis which goes through the centre of mass of the figure and which is perpendicular to the plane of the figure? 
+Different shapes of planar figures, which have the same area, are cut from a uniform metal sheet. What is the shape of that figure which has the least moment of inertia calculated around an axis which goes through the centre of mass of the figure and which is perpendicular to the plane of the figure?
  (4 pont)

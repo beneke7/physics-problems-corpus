@@ -9,5 +9,5 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 910. Egy $G$ súlyú, rombusz alakú, homogén tömegeloszlású lemezt vízszintes helyzetben a csúcsainál alátámasztunk. Az egyik alátámasztási pontot $G/5$ nagyságú erő terheli. Mekkora erő terheli a többi alátámasztási pontot? 
+G. 910. Egy $G$ súlyú, rombusz alakú, homogén tömegeloszlású lemezt vízszintes helyzetben a csúcsainál alátámasztunk. Az egyik alátámasztási pontot $G/5$ nagyságú erő terheli. Mekkora erő terheli a többi alátámasztási pontot?
  Példatári feladat nyomán

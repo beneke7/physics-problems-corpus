@@ -26,7 +26,7 @@ theotherfocus(i.e. which isnotthecentre ofEarth)isatthedistanceR
 fromboth the launching point andlanding point, see Fig. So, theheight
 h = |CB| = |OB| − R; since |OB| = R + 1
 2
-|OO
+|OO
 | = R(1 +
 √
 2
@@ -40,7 +40,7 @@ equals to the ratio of two surface areas: the one painted dark grey
 in Fig, and the overall area of the ellipse. The rotation period is the
 same as in the case of near-Earth orbit (due to Kepler’s third law),
 T = 2πR/v = 2π
-
+
 R/g. The dark gray surface area is calcula-
 ted as the sum of half of the ellipse area, and a triangle area. So,
 τ = T · (π
@@ -53,5 +53,5 @@ R · R √
 = (π +
 √
 2)
-
+
 R/g.

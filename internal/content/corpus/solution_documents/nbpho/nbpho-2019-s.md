@@ -107,7 +107,9 @@ J = mvr = mωr2 = Const. Thus,                  rotating about the point of cont
          L⊙       dαm    L⊙ m          L⊙ m to the contact point is I = M r + 2 M r = but now, Fµ is equal to M gµ for most of                       3. MOTION IN B (8 points) — Andréas Sund-
 Iavg =                 =          dα =       . 3 M r2 . The angular acceleration α and accel- the motion so it can be treated as a constant          ström, Joonas Kalda (ii,iii).
         4πT 0      J     4πT J 0        2T J   2
-i) (1 point) In the homogeneous electric             4.   RETROREFLECTIVE FILM (12 points) — Treilis.                                                     the functional dependence of the angular ve-
+
+
+i) (1 point) In the homogeneous electric             4.   RETROREFLECTIVE FILM (12 points) — Treilis.                                                     the functional dependence of the angular ve-
 field of strength E along the x-axis, we can         Eero Uustalu and Jaan Kalda.(Solution: Taavet i) (2 points) The ball that moves on the or-           locity on the roll angle ω (θ) such that the
 write down an electrostatic potential ϕ(x) =         Kalda)                                           ange curve is under an effective acceleration       point at the top is at the same position as
 −xE. For the particle not to hit the wall, the                                                                                         √                  the point mass for all time. We can find the
@@ -220,7 +222,9 @@ The angle α has to be smaller than α0 for 1.5.                                
 the electron to reach the surface of the                                                                                                  and α = 32 .
                                                                                        between points A and B . We want to find
 Earth.                                    5. BRACHISTOCHRONE (10 points) — Rūdolf                                                         iii) (3 points) Gravitational potential energy
-                             ∫                                   √           (       )
+
+
+                             ∫                                   √           (       )
 is of the form EG = − GMr (r) dM =                                         3g     2                               i) (2 points) If we were to measure the res-      switch the order of the resistors A and B, the
   ∫ GM (r)                                                           ωi2 +    1− √ .                              istance of each of the resistors separately,      reading becomes negative: V1′ = −17.5 ±
 −       r  4πr2 drρ. To simplify this, we can                              ℓ       5

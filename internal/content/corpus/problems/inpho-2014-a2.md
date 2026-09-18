@@ -24,7 +24,7 @@ techniques: [conservation-laws, superposition]
 ---
 
 2. Two blocks of masses $m_{1}=1.0 \mathrm{~kg}$ and $m_{2}=2.0 \mathrm{~kg}$ are connected by a massless elastic spring and are at rest on a smooth horizontal surface with the spring at its natural length. A horizontal force of constant magnitude $F=6.0 \mathrm{~N}$ is applied to the block $m_{1}$ for a certain time $t$ in which $m_{1}$ suffers a displacement $\Delta x_{1}=0.1 \mathrm{~m}$ and $\Delta x_{2}=0.05 \mathrm{~m}$. Kinetic energy of the system with respect to center of mass is 0.1 J. The force $F$ is then withdrawn. [Marks:
-![](inpho-2014-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2014-a2-fig01.png)
 (a) Calculate $t$.
 □
 (b) Calculate the speed and the kinetic energy of the center of mass after the force is withdrawn.

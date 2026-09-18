@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201409"
 verification_status: pending
 ---
 
-We observe the full Moon with a telescope. Somebody shades half of the objective lens in fun. What kind of change can be observed in the image of the telescope? 
+We observe the full Moon with a telescope. Somebody shades half of the objective lens in fun. What kind of change can be observed in the image of the telescope?
  (3 pont)

@@ -45,7 +45,9 @@ Qu 1.
 
 
                                              1
-(b) Firstly, stars are very far away from the earth, and they appear as point source even
+
+
+(b) Firstly, stars are very far away from the earth, and they appear as point source even
     through telescopes. Nearby stars similar to the Sun are 10 pc away (3 x 1017 m) so
                                                                 × !
                                                                        10%& rad. Whereas
@@ -103,7 +105,9 @@ We have to calculate the speed of Nitrogen molecules at a temperature:
 
 
                                                2
-At greater height, the pressure decreases as the air is compressible. There are several
+
+
+At greater height, the pressure decreases as the air is compressible. There are several
 models of increasing sophistication that can be used. However, for an exam, one may
 take something simple. Assume that the temperature is constant at different heights
 within the atmosphere, an isothermal model (it isn’t, and that can be considered in an
@@ -113,7 +117,9 @@ adiabatic model, for example, but not here).
 
 
                                             3
-     Qu 4.
+
+
+     Qu 4.
 The wind speed increases linearly with height is given. So we should consider this as a
 steam of mass m moving at speed v colliding with the wall. If we assume that the
 momentum of the air in the direction of the wind is lost on collision with the wall, since
@@ -180,7 +186,9 @@ The other methods that might be used to detect a planet orbiting distant star:
 
 
                                                     4
-    •     Direct imaging
+
+
+    •     Direct imaging
     •     Astrometric (position) wobble
     •     Gravitational microlensing
 

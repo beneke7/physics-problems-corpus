@@ -19,4 +19,4 @@ verification_status: pending
 
 A horizontal platform rotates around a vertical axis at angular velocity $\omega$. A disk with radius $r$ can freely rotate and move up and down frictionlessly along a vertical axle which is fixed to a distance $d>r$ from the platform's axis. The disk is pressed against the rotating platform due to gravity, the coefficient of friction between them is $\mu$. Find the angular velocity acquired by the disk. Assume that pressure is distributed evenly over the entire base of the disk.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr19-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr19-fig1.jpg)

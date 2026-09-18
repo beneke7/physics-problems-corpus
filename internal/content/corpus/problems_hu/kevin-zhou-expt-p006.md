@@ -26,5 +26,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     egy fénymérő, amely a rá eső teljes fényintenzitást méri. Hogyan mérhetjük meg pontosan az
 
 
-                  01^
+                  01^
     izzó által egy adott irányban, adott távolságban kibocsátott vörös fény intenzitását?

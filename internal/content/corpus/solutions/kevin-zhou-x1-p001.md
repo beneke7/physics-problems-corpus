@@ -105,21 +105,21 @@ Z gLµ/F
 = 2ωn
 p
 F/µ/g
-
+
 gLµ/F −
 1
 4
 (gLµ/F)2
-
+
 = 2ωnL
 p
 µ/F
-
+
 1 −
 1
 4
 (gLµ/F)
-
+
 .
 We therefore conclude
 ωn =
@@ -127,12 +127,12 @@ We therefore conclude
 p
 F/µ
 L
-
+
 1 +
 1
 4
 (gLµ/F)
-
+
 .
 2
 Kevin Zhou Physics Olympiad Handouts
@@ -172,11 +172,11 @@ Since energy is related to frequency, these standing waves are also states of de
 In the semiclassical limit, the standing waves must satisfy
 I
 pdx = (2πn + α)ℏ =
-
+
 n +
 α
 2π
-
+
 h.
 The extra phase α depends on how the particle gets reflected at the endpoints of its motion.
 Remark

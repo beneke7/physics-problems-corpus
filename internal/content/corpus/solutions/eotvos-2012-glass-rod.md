@@ -23,19 +23,19 @@ fénysugarak, akkor egy nyilvánvaló megoldás erre az, hogy a rúd egyik küls
 fényforrást. Az ebb®l kiinduló fénysugarak a rúd belsejében párhuzamosan haladnak, majd a másik végénél kilépve
 újra fókusztávolságnyira egyesülnek.
 Tovább egyszer¶síti a megoldást, ha gondolatban levágjuk a rúd végeit. Ezáltal két vékony len sét és közöttük egy
-plánparalel réteget kapunk (3. ábra).
+ plánparalel  réteget kapunk (3. ábra).
 3. ábra
 A vékony, síkdomború len se fókusztávolságára
 1
 f
 = (n − 1)
-
+
 1
 R1
 +
 1
 R2
-
+
 , most R2 → ∞.
 Így
 f =
@@ -48,11 +48,11 @@ n − 1
 Van azonban egy másik lehetséges megoldás is! Ekkor a fénysugarak nem párhuzamosan haladnak a rúd belsejében,
 hanem a rúd közepén találkoznak, majd ebb®l a pontból kiindulva érik el a rúd másik végét. Ott kilépve éppen olyan
 messze találkoznak, mint amilyen távolságra voltak a rúd els® végét®l, amikor elindultak. Ez is egy szimmetrikus
-sugármenet, de most már nem segít a megoldásban az el®bbi felszeletelés.
+sugármenet, de most már nem segít a megoldásban az el®bbi  felszeletelés .
 Vizsgáljuk meg általánosan az els® felület adta leképezést! Legyen a kiindulási T tárgypont a rúdvégt®l t távolságra,
 keletkezzék ennek K képe a rúd belsejében k távolságra a leképez® rúdvégt®l. További jelölések a 4. ábrán láthatók.
 4. ábra
-Az ábráról leolvasható, hogy α = ε + γ, valamint γ = β + δ. Mindegyik szög külön-külön is ki si, ezért a Snellius
+Az ábráról leolvasható, hogy α = ε + γ, valamint γ = β + δ. Mindegyik szög külön-külön is ki si, ezért a Snellius
 Des artes-törvény felhasználásával
 n =
 sinα

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3852. Egy speciális lézerrel 5$^{.}$10$^{-15}$ másodpercig tartó, 600 nm átlagos hullámhosszú fényimpulzusokat hozunk létre. 
+P. 3852. Egy speciális lézerrel 5$^{.}$10$^{-15}$ másodpercig tartó, 600 nm átlagos hullámhosszú fényimpulzusokat hozunk létre.
  Mekkora ezeknek a fotonoknak a hullámhossz-bizonytalansága?

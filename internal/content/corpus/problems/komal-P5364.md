@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry]
 ---
 
-A solid half cylinder of radius $R$, and of mass $m$ is lying at rest on a flat, horizontal, frictionless surface with its curved surface facing upwards. From the top of the half cylinder a small object of mass also $m$, starts from rest and slides down frictionlessly. How much distance does this small object cover sliding on the surface of the cylinder until it leaves it? 
+A solid half cylinder of radius $R$, and of mass $m$ is lying at rest on a flat, horizontal, frictionless surface with its curved surface facing upwards. From the top of the half cylinder a small object of mass also $m$, starts from rest and slides down frictionlessly. How much distance does this small object cover sliding on the surface of the cylinder until it leaves it?
  (5 pont)

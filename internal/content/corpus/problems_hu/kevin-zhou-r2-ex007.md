@@ -39,7 +39,9 @@ F⊥ = ma⊥ = mω 2 r
 
 
                                                 11
-   Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

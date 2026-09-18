@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A space trip to Mars is planned. The spacecraft leaves the Earth and enters into an elliptical orbit that touches both planets' orbits. The spacecraft is at perihelion when it is launched and it is at aphelion when it arrives. The return journey follows a similar elliptical orbit. In both cases, departure requires waiting until the two planets are in the correct position. How long will it take to get there and back, and at least how much time will they spend on Mars? Consider the orbits as circles in the same plane, the orbital period of Mars is 687.0 Earth days. 
+A space trip to Mars is planned. The spacecraft leaves the Earth and enters into an elliptical orbit that touches both planets' orbits. The spacecraft is at perihelion when it is launched and it is at aphelion when it arrives. The return journey follows a similar elliptical orbit. In both cases, departure requires waiting until the two planets are in the correct position. How long will it take to get there and back, and at least how much time will they spend on Mars? Consider the orbits as circles in the same plane, the orbital period of Mars is 687.0 Earth days.
  (5 pont)

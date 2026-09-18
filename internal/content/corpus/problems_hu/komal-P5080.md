@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5080. Hány százalékkal nő a molekulák átlagsebessége abban a gázban, amelynek hőmérsékletét $27\;{}^\circ$C-ról $159\;{}^\circ$C-ra emeljük, ha a gáz 
- $a)$ hélium; 
- $b)$ hidrogén? 
+P. 5080. Hány százalékkal nő a molekulák átlagsebessége abban a gázban, amelynek hőmérsékletét $27\;{}^\circ$C-ról $159\;{}^\circ$C-ra emeljük, ha a gáz
+ $a)$ hélium;
+ $b)$ hidrogén?
  Példatári feladat nyomán

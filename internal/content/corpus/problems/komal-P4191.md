@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: pending
 ---
 
-A sample of Helium gas is cooled down at a pressure of 10$^{5}$ Pa. The gas gives off 5 kJ heat. By how many litres did the volume of the gas decrease? 
+A sample of Helium gas is cooled down at a pressure of 10$^{5}$ Pa. The gas gives off 5 kJ heat. By how many litres did the volume of the gas decrease?
  (4 pont)

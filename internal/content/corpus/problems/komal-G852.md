@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A radioactive sample contains two different isotopes, denoted by A and B. The half-life of isotope A is 3 days and that of isotope B is 6 days. Initially, there are twice as many atoms in isotope A then in isotope B. In what time will this ratio reverse to its reciprocal? 
+A radioactive sample contains two different isotopes, denoted by A and B. The half-life of isotope A is 3 days and that of isotope B is 6 days. Initially, there are twice as many atoms in isotope A then in isotope B. In what time will this ratio reverse to its reciprocal?
  (4 pont)

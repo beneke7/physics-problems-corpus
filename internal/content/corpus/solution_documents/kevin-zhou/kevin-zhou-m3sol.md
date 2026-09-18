@@ -40,7 +40,9 @@ a = −
 a′
 8
 .
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Now, because we are neglecting friction and the mass of the strings, each string carries a
 uniform tension. (To see this, we use the same logic as in M2. We consider a small piece
 of one string, which has tension forces acting on both sides. Since there’s no friction, the
@@ -86,7 +88,9 @@ T =
 g
 1/m1 + 1/4m2 + 1/4m3
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, we conclude
 a1 = g −
 2T
@@ -131,7 +135,9 @@ M2M3g
 M1M2 + M1M3 + 2M2M3 + M2
 3
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let the acceleration of M2 with respect to M1 be w. Then T = M2(w + a) and
 M3g − T = M3w, and adding these results gives us
 M3g = M2(w + a) + M3w.
@@ -181,7 +187,9 @@ its motion is somewhat confusing; you have to decompose it into motion parallel 
 and motion of the wedge itself. Once you do that, the problem can be solved straightforwardly.
 The solution above is especially short because it never considers the acceleration of the block
 parallel to the slope, which isn’t required to get the answer.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Since the only horizontal forces in the problem are between the block and wedge, the horizontal
 acceleration of the block is
 ab =
@@ -245,7 +253,9 @@ assume the answer of part (c), but in reality it depends sensitively on how the 
 block are made. In fact, in practice you can lose a lot of energy even if there’s a smooth curve
 at the end, if that curve is not gradual enough.
 2 Momentum
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2
 The momentum of a system is
 P =
@@ -287,18 +297,20 @@ v1 =
 mu
 M + 2m
 .
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Now transform to the frame moving with the flatcar. When the second man jumps, he
 imparts a further velocity v2 = mu/(M +m) to the flatcar by another similar argument. The
 final velocity of the flatcar relative to the ground is then
 v = v1 + v2 = mu
-
+
 1
 M + 2m
 +
 1
 M + m
-
+
 .
 It might be a bit disturbing that the final speeds and hence energies of the flatcar are
 different, even though the men are doing the same thing (i.e. expending the same amount of
@@ -337,10 +349,10 @@ dx
 mtotu
 M + xmtot
 = log
-
+
 M + mtot
 M
-
+
 u.
 Note that this is essentially the rocket equation, which we’ll derive in a different way in M6.
 [2] Problem 5 (KK 4.11). A perfectly flexible chain of mass M and length ℓ is suspended vertically
@@ -359,7 +371,9 @@ falls on to the scale, so the change in momentum of that piece is (2Mgx/ℓ)dt. 
 balance the weight of the chain that’s already lying on the scale, for a total of 3Mgx/ℓ .
 This is nice and elegant, but is it true? The result is actually pretty accurate, as you can see
 from experimental data here. The deviation from the expected result is because no chain is perfectly
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 flexible. Since the chain has to bend at the spot it hits the scale, some tension is produced, which
 pulls down the rest of the chain slightly faster than free fall.
 This has a connection to the “inherently inelastic” processes mentioned later in the problem set.
@@ -400,13 +414,15 @@ there’s a column of sand that has not yet hit the bottom; the scale reading di
 it doesn’t have to support this falling sand. And when the last bit of sand arrives, the scale
 reading jumps higher because the hourglass simultaneously has to support all of the sand,
 and absorb the impact from the falling sand; this is the effect derived in problem 5.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 What about the scale reading in between these two times? Under the simplifying assumptions
 made in this problem, the downward velocity of the sand’s center of mass is continuously
 decreasing (because the height difference between the tops of the sand in the two halves is
 decreasing), so the weight is more than W. But the difference is extremely small, since this
 acceleration is spread over the entire time sand is falling.
-[3] Problem 7.  ^ 1 0USAPhO 2018, problem A1.
+[3] Problem 7.   ^ 1 0USAPhO 2018, problem A1.
 [3] Problem 8 (Kalda). A block is on a ramp with angle α and coefficient of friction µ > tanα. The
 ramp is rapidly driven back and forth so that its velocity vector u is parallel to both the slope and
 the horizontal and has constant modulus v.
@@ -443,7 +459,9 @@ This seemingly weird problem actually has real-world applications! The point her
 can make a block slide down a ramp even if friction would prevent it from doing so, and moreover
 make it slide at a controlled speed. This technique is used in factories, in the form of vibratory
 conveyors. In fact, a more complex vibration pattern can even make something slide up a ramp!
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 9 (Morin 5.21). A sheet of mass M moves with speed V through a region of space that
 contains particles of mass m and speed v. There are n of these particles per unit volume. The
 sheet moves in the direction of its normal. Assume m ≪ M, and assume that the particles do not
@@ -495,15 +513,17 @@ The integral can be done straightforwardly using either the cosine double angle 
 decomposing into complex exponentials, yielding 8/3, so
 F = (2nmV 2
 )(LR)
-
+
 4
 3
-
+
 .
 Compare this to the answer to part (a). The force is quadratic in V for the same reason, but
 now the area is replaced by an effective area (4/3)LR. This is slightly less than the actual
 area 2LR, since the surface is curved, and hence more aerodynamic.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 You can also get a more “realistic” result by averaging over a Maxwell–Boltzmann distribution for
 the molecular speeds, as introduced in T1. But this is a lot more work, and the simpler calculation
 done in this problem gives all the essential insight.
@@ -551,7 +571,9 @@ Example 4: IPhO 1996 1(b)
 A skier starts from rest at point A and slowly slides down a hill with coefficient of friction µ,
 without turning or braking, and stops at point B. At this point, his horizontal displacement
 is s. What is the height difference h between points A and B?
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Since the skier begins and ends at rest, the change in height is the total energy lost to friction,
 mgh =
@@ -604,13 +626,15 @@ v1v2(v2
 2)
 v1 + v2
 = 23.5km/h.
-[3] Problem 11.  m 1 0USAPhO 2016, problem B1.
+[3] Problem 11.   m 1 0USAPhO 2016, problem B1.
 [2] Problem 12. Alice steps on the gas pedal on her car. Bob, who is standing on the sidewalk, sees
 Alice’s car accelerate from rest to 10mph. Charlie, who is passing by in another car, sees Alice’s car
 accelerate from 10mph to 20mph. Hence Charlie sees the kinetic energy of Alice’s car increase by
 three times as much. How is this compatible with energy conservation, given that the same amount
 of gas was burned in both frames?
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The difference in energy comes from the change in kinetic energy of the Earth. In Bob’s
 frame, the final kinetic energy of the Earth is p2/2M where p is the total frictional impulse, and this
 is negligible since p is moderately sized, while the Earth’s mass M is huge. Another way of saying
@@ -665,7 +689,9 @@ We expect this result to be trustworthy whenever N is large, i.e. when the fract
 change during a cycle is small.
 However, this problem is simple enough to be solved exactly. During the left-moving part of a
 cycle, the friction provides a constant force of µmg to the right. Therefore, just like how gravity
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 shifts the equilibrium position of a vertical spring, the friction shifts the equilibrium position to the
 right by µmg/k. The left-moving motion is a perfect sinusoid centered at this position. Similarly, the
 right-moving part of the oscillation is a perfect sinusoid, but instead centered at −µmg/k. The net
@@ -711,7 +737,9 @@ at constant speed v.
 rate of heat dissipation is P/2. Since temperature is the same in all frames, the rate of heat
 dissipation is P/2 in the original frame as well, accounting for the missing energy.
 Solution. (a) We have P = Fv = (dp/dt)v = (v (dm/dt))v = v2 dm/dt.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Clearly, it’s 1
 2(dm/dt)v2 = P/2.
 (c) In the belt’s frame, the sand comes in with a speed of v, and friction slows it down to zero
@@ -737,20 +765,20 @@ gR means we can neglect the change in gravitational potential energy as the hose
 unrolls. After the hose travels a distance x,
 1
 2
-
+
 1 +
 1
 2
-
+
 Mv2
 0 =
 1
 2
-
+
 1 +
 1
 2
-
+
 mv2
 where the 1/2 terms are from rotational kinetic energy. Since m(x) = M(1 − x/L), we have
 v(x) =
@@ -777,7 +805,9 @@ Evidently, the hose accelerates as it unrolls.
 [3] Problem 16. Consider the following related problems; in all parts, neglect friction.
 (a) A flexible uniform rope of length ℓ lies stretched out flat on a table, with a tiny portion ℓ0 ≪ ℓ
 hanging through a small hole. The rope is released from rest, and all points on the rope begin
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 to move with the same speed. Since this motion is smooth, energy is conserved. Find the
 speed of the rope when the end goes through the hole.
 (b) Find the total time it takes the rope to go through the hole.
@@ -829,14 +859,14 @@ Since x(0) = ℓ0 and v(0) = 0, we have A = B = ℓ0/2, so that
 x(t) =
 ℓ0
 2
-
+
 e
 √
 g/ℓt
 + e−
 √
 g/ℓt
-
+
 .
 Since ℓ ≫ ℓ0, at the final time we have
 x(tf) = ℓ ≈
@@ -859,7 +889,9 @@ Unlike part (b), it’s best to use Newton’s second law directly, by consideri
 momentum of the vertical part of the chain. We didn’t do this in part (b) because we would
 have to know the tension at the hole, since this provides an external vertical force, but here
 it’s easy because the chain links on the table are slack, so the tension is zero.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Now, let m be the time-dependent mass of the vertical part. The only external vertical force
 is gravity, so applying Fy = dpy/dt gives
 mg = mv̇ + ṁv = mv̇ + (m/x)v2
@@ -909,7 +941,9 @@ mrω =
 1
 2
 mv.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 This impulse must be equal to the total gravitational impulse along the plane between rollers,
 1
 2
@@ -959,7 +993,9 @@ The usual method is to directly invoke conservation of energy and momentum, whic
 to a quadratic equation. A slicker method is to work in the center of mass frame instead.
 (This is useful for collision problems in general, and it’ll become even more useful for the
 relativistic collisions covered in R2.)
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 The center of mass of the system has speed
 vCM =
 m1v1 + m2v2
@@ -1022,7 +1058,9 @@ of kinetic energy in the center of mass frame. (This statement also holds for mu
 collisions, if the squares are replaced with squared vector magnitudes.) The first term can be
 rewritten as P2/2M where P is the total momentum of the masses. Therefore, the kinetic
 energy of a system of masses with fixed total momentum is minimized when the second term
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 is zero, i.e. when all the masses are traveling with the same velocity. This implies, for instance,
 that a totally inelastic collision dissipates the highest possible amount of kinetic energy.
 Example 7
@@ -1066,16 +1104,18 @@ v
 which means the final height is
 h′
 =
-
+
 4m1m2
 (m1 + m2)(m2 + m3)
-2
+ 2
 h.
 By some basic calculus, this is maximized when
 m2 =
 √
 m1m3
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 in which case
 h′
 =
@@ -1119,7 +1159,9 @@ vc
 m
 M
 which is the desired result.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 21 (PPP 72). Beads of equal mass m are strung at equal distances d along a long,
 horizontal, infinite wire. The beads are initially at rest but can move without friction. The first
 bead is continuously accelerated towards the right by a constant force F.
@@ -1154,13 +1196,15 @@ long time, we build up a shock front of beads traveling with speed v1.
 On the other hand, the first bead keeps uniformly accelerating between zero speed and v1, so
 its average speed is just v1/2. Evidently, the shock wave separates from the first bead over
 time.
-[3] Problem 22.  ^ 1 0USAPhO 2019, problem A1.
-[3] Problem 23.  m 1 0USAPhO 2009, problem B1.
+[3] Problem 22.   ^ 1 0USAPhO 2019, problem A1.
+[3] Problem 23.   m 1 0USAPhO 2009, problem B1.
 Example 8: MPPP 42
 There are N identical tiny discs lying on a table, equally spaced along a semicircle, with total
 mass M. Another disc D of mass m is very precisely aimed to bounce off all of the discs in
 turn, then exit opposite the direction it came.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 In the limit N → ∞, what is the minimal value of M/m for this to be possible? Given this
 value, what is the ratio of the final and initial speeds of the disc?
 Solution
@@ -1185,11 +1229,11 @@ v2 + v2 =
 √
 2v. By conservation of energy,
 ∆
-
+
 1
 2
 mv2
-
+
 = −
 1
 2
@@ -1209,14 +1253,16 @@ which means that after N collisions, we have the cute result
 vf
 vi
 =
-
+
 1 −
 π
 N
-N
+ N
 ≈ e−π
 where in the last step we used a result from P1.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Example 9: NBPhO 2003.1
 A spherical volleyball of radius r and mass m is inflated with excess pressure ∆P. If it
 is dropped from the ceiling and hits the ground, estimate how long the subsequent elastic
@@ -1227,9 +1273,9 @@ occurs. Let’s say that when the volleyball hits the ground, it will keep going
 deforming the part that touches the ground into a flat circular face. Specifically, when the
 ball has moved a distance y into the ground, the flat face has area
 A = π
-p
+ p
 r2 − (r − y)2
-2
+ 2
 = πy(2r − y) ≈ 2πry
 where we assumed that y ≪ r at all times, which is reasonable as long as the ball’s initial
 speed is not enormous. As a result, the pressure of the volleyball exerts a force
@@ -1260,7 +1306,9 @@ No matter how hard you pull, or in what direction, the height of the center of m
 goes up! This is because this quantity measures the total gravitational potential energy of
 the chain. If you pull a chain in equilibrium, in any direction whatsoever, you will do work
 on it. So this raises its potential energy, and hence the center of mass.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Another way of saying this is that the equilibrium position, without the extra pull you supply,
 is already in the lowest energy state, and hence already has the lowest possible center of mass.
 Changing this shape in any way raises the center of mass.
@@ -1310,10 +1358,12 @@ v =
 4ρ
 λ
 ṙ.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 We see that Mg = Ṁv + Mv̇, so Newton’s second law is
 Mg = M
-
+
 3ṙ
 r
 4ρ
@@ -1322,7 +1372,7 @@ ṙ +
 4ρ
 λ
 r̈
-
+
 and writing everything in terms of r gives
 rgλ/ρ = 12ṙ2
 + 4rr̈.
@@ -1368,7 +1418,9 @@ longer be enough to do this, and the rope will jump off the corner. This will le
 part whipping back and forth.
 To see when this happens, consider the vertical forces on the rope. As we saw with a similar
 but static problem in M2, the normal force on the horizontal part of the table has to cancel the
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 force of gravity acting on the part of the rope on the table. This is because otherwise a piece of the
 horizontal part of the rope would have an unbalanced vertical force, and would have to go into the
 table or jump off it, neither of which make sense.
@@ -1440,7 +1492,9 @@ Substituting this into the equation above gives
 mv2
 mg tanθ
 dθ = mv dv
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 which upon separation gives the simple result
 −
 Z θf
@@ -1489,7 +1543,9 @@ so the friction force does exactly zero work. Thus the net energy of the cyclist
 is conserved. The additional kinetic energy of the cyclist/bike comes from the chemical
 energy of the cyclist, which ultimately came from what they ate. So conservation of energy
 is correct, but it doesn’t tell us anything useful at all.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Now consider center of mass energy. Considering the cyclist/bike system, the center of mass
 work is fd, which is the change in Mv2
 cm/2. This allows us to compute the change in velocity
@@ -1527,9 +1583,11 @@ done on her since the contact point did not move. Accordingly, Alice’s total e
 change; she merely converted some of her internal energy to kinetic energy.
 (c) There is no center of mass work on the balloon, but there is work done, at every point on the
 balloon’s surface. This work is just the P dV work in thermodynamics.
-[4] Problem 29.  m 1 0USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
+[4] Problem 29.   m 1 0USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
 carefully read the official solution, which describes how center of mass work is applied.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. As usual, see the official solutions. Recently, this Veritasium video reignited the debate
 over the Blackbird, leading to this followup video, which cites the USAPhO solution. If you’re still
 confused about how the Blackbird works, I recommend watching the second video, which shows

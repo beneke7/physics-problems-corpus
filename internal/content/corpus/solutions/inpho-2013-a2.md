@@ -13,10 +13,10 @@ provenance_note: "Source-provided solution section from cache/phoxiv/inpho/2013_
 ---
 
 2. (a) φ = sin−1
-
+
 nh
 d
 √
 2m0K
-
+
 (b) d ≈ 2.4 Å

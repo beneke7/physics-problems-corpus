@@ -26,7 +26,7 @@ Consider a ball which is projected horizontally with speed $u$ from the edge of 
 (a) Obtain expression for $x(t)$ and $y(t)$.
 (b) Obtain the expression for the equation of trajectory.
 
-![Fig. 1: projectile launched horizontally from a cliff of height H, with x-y origin at the cliff base](../../sources/inpho/figures/inpho-2008-q2-fig1.png)
+![Fig. 1: projectile launched horizontally from a cliff of height H, with x-y origin at the cliff base](../../figures/inpho/figures/inpho-2008-q2-fig1.png)
 
 (c) Make a qualitative, comparative sketch of the trajectories with and without air resistance.
 (d) Given that height of cliff is 500 m and $c=0.05 \mathrm{sec}^{-1}$. Obtain the approximate time in which the ball reaches the ground. Take $g=10 \mathrm{~m}-\mathrm{sec}^{-2}$

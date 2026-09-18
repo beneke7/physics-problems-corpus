@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-Laminated steel (wrongly called Damascus steel) is made by forging two layers of steel with different carbon content, which like puff pastry, is stretched to double its area and then folded in half. How many times would this process have to be repeated in order to make the thickness of a single layer atomic in size if initially the thickness of the steel was 3 mm? 
+Laminated steel (wrongly called Damascus steel) is made by forging two layers of steel with different carbon content, which like puff pastry, is stretched to double its area and then folded in half. How many times would this process have to be repeated in order to make the thickness of a single layer atomic in size if initially the thickness of the steel was 3 mm?
  (3 pont)

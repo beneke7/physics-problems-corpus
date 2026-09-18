@@ -73,7 +73,8 @@ example:
 
 and, often, saves time combining three equations for vector components into a
 single equation.
-1.2    The statement
+
+1.2    The statement
 A ball of mass m and radius r is rolling on a horizontal turntable without slipping.
 Its mass density has a spherical symmetry, i.e. only depends on the distance from
 its center. In part B and C, where the turntable can rotate freely, the moment
@@ -116,7 +117,8 @@ A.4 0.5 points
 ⃗
 R0 , completely specify the trajectory.
 A.5 1 point
-    Assume this time that the ball has a uniform mass density, i.e. I = 2mr2 /5.
+
+    Assume this time that the ball has a uniform mass density, i.e. I = 2mr2 /5.
 Trajectory you have found has a single defining parameter Rt for its size. Choose
 its magnitude to be the same as R0 . How long does it take for the ball to approach
 the initial spot on the table (the position on the turntable at t = 0) with the closest
@@ -159,7 +161,8 @@ B.2 0.2 points
 1.5     Part C: 4 points
 In this part, we consider a density profile so that I = mr2 /10. This can be realized,
 for example, if the ball is filled up to its half radius with uniform density and the
-remaining part has a negligible mass. In addition, on its outer surface, the ball
+
+remaining part has a negligible mass. In addition, on its outer surface, the ball
 has a uniform charge density Q/(4πr2 ), where Q is the total surface charge. The
 whole setup is in a uniform magnetic field B  ⃗ that is in ẑ direction. The turntable
 rotates with constant Ω like in Part A.
@@ -206,7 +209,8 @@ down the conditions for different types of trajectories: harmonic, exponential e
 find γ and β. Using them find the corresponding Ω. Sketch the trajectory. Is the
 charge of the surface negative or positive? For the negative write − and for the
 positive write + on your answer sheet.
-   C.5 1.5 points
+
+   C.5 1.5 points
    Consider the solution you have found in part C.4. If you identified it correctly
                                      ⃗
 your solution should have a rotating R(t). Find the expressions for the total and
@@ -214,7 +218,8 @@ per rotation changes in energy for N ≫ 1 number of rotations. Here you may
 ignore the terms small compared to N . In this part assume the mass and the
 radius of the ball are m = 1 and r = 1 so that I = 1/11 (in our unitless scheme
 we divide masses by 1 kg).
-2     Solution
+
+2     Solution
 2.1    Part A
 A.1
    The velocity of the ball ⃗vb with respect to the turntable from the non–slipping
@@ -242,8 +247,8 @@ The time derivative of equation (16) gives
                                                                               (21)
 
 and substituting Eq. (18) and (19) in results in:
-                                              2 
-                                        mr                  
+                                              2
+                                        mr
                        ⃗v˙ = Ωẑ × ⃗v −             ẑ × ⃗v˙ × ẑ.            (22)
                                          I
 Using the triple vector product rule in the last term of the above equation and
@@ -257,7 +262,8 @@ keeping in mind that both ⃗v and d⃗v /dt are orthogonal to ẑ yields
                                       1 + mr2 /I
 
 A.3
-    The last equation unequivocally shows that the motion of the ball is circular
+
+    The last equation unequivocally shows that the motion of the ball is circular
                                                            Ω
 and the corresponding angular velocity of its center is 1+ma 2 /I . Now we integrate
 
@@ -304,14 +310,15 @@ is shorter. Trajectory is a circle and its size is defined by its radius Rt and 
 stated, we solve for Rt = R0 . It could happen that the red spot happens to cross
 path with the ball at a moment before the turntable could make a full circle. In
 this case we can find the distance between the starting and the crossing positions:
-                                                            
+
                                    ωc t                2π − Ωt
                          2R0 sin           = 2Rt sin             ,             (33)
                                     2                     2
                                2π         14π
                          t=           =       .                                (34)
                              ωc + Ω       9Ω
-2.2      Part B
+
+2.2      Part B
 Now we examine the case wherein the turntable rotates freely, i.e. without fric-
 tion, around vertical axis. In this case the total kinetic energy and the angular
 momentum are conserved.
@@ -329,12 +336,12 @@ Substituting this into the non slipping condition we get
                           ⃗v0 = Ω0 ẑ × R                                   (37)
 
 which gives
-                                I         
+                                I
                                               ⃗       ⃗
-                                                         
+
                        ⃗v =          ẑ × ΩR − Ω0 R0 + ⃗v0 ,                (38)
                              I + mr2
-                                I                       
+                                I
                        ⃗v˙ =         ẑ ×   Ω̇(t)R⃗ + Ω⃗v .                 (39)
                              I + mr2
 
@@ -345,34 +352,35 @@ B.2
 
 If we substitute the velocity and accelaration in the above equation and use the
 triple vector product rule we get
-                                                            
-                                ⃗         I        
+
+                                ⃗         I
                                                       ⃗
                   Id Ω̇ẑ = −mR ×             ẑ × Ω̇R + Ω⃗v
                                       I + mr2
-                                mI  2            
+                                mI   2
                                                       ⃗
-                                                        
+
                    Id Ω̇ = −            Ω̇R + Ω ⃗v · R                      (41)
                               I + mr2
 ⃗v · R can be obtained using equation 44 as:
-                                                           
-                      ⃗ =            I          
+
+                      ⃗ =            I
                                                   ⃗ − Ω0 R
                                                          ⃗0      ⃗
                  ⃗v · R     ⃗v0 +         ẑ × ΩR              · R,         (42)
                                   I + mr2
-                                                   
+
                                      I            ⃗    ⃗
                         =   ⃗v0 −         Ω0 ẑ × R0 · R.                   (43)
                                   I + mr2
-Applying this to the turntable torque equation (41), we obtain:
-                                                                   
+
+Applying this to the turntable torque equation (41), we obtain:
+
                mI      2             mI                I            ⃗0 · ⃗
        Id +          R Ω̇ = −              Ω ⃗v0 −          Ω0 ẑ × R    R. (44)
             I + mr2                I + mr2          I + mr2
 We may rewrite the equation into a simpler form as:
-                                              
+
                                  αΩ/r2 C  ⃗ ·R
                                              ⃗
                           Ω̇ = −                 ,                          (45)
@@ -402,9 +410,9 @@ Substituting this in equation (45) we get:
                              =−                            .                (51)
                         Ω dt    2 δ + αR2 /r2     dt
 The integration of this leads to:
-                            2
+                              2
                                            δ + αR02 /r2
-                                                       
+
                              Ω
                         ln         = ln                   ,                 (52)
                             Ω0             δ + αR2 /r2
@@ -418,7 +426,8 @@ when the ball crosses the center of the turntable:
                                                  αR2
                              Ωmax = Ω0 1 + 20                              (54)
                                                   δr
-B.5
+
+B.5
    Now we determine the trajectory of the ball. The total angular momentum
 along ẑ is:
                                           ⃗ × ⃗v + Iωz ẑ.
@@ -430,7 +439,7 @@ following conserved quantity:
 The velocity of the ball ⃗v was written as the sum of a part that depends on the
                      ⃗ and a constant vector ⃗c. Then, we have:
 position of the ball R
-                                                        
+
                           ⃗ × ⃗v = R
                           R          ⃗ × αΩẑ × R  ⃗ + ⃗c                   (57)
                                                   ⃗ × ⃗c.
@@ -438,7 +447,7 @@ position of the ball R
 Substituting this in equation (59) one gets:
 
                        Lẑ = Id Ωẑ + αΩmR2 ẑ + mR ⃗ × ⃗c,                     (59)
-                                                        
+
                                         L − mẑ · R⃗ × ⃗c
                                     Ω=                                          (60)
                                            Id + αmR2
@@ -447,29 +456,30 @@ Choosing the direction of x-axis along ĉ and y-axis along ẑ × ĉ,
                                    Ω =                 ,                        (61)
                                           δ + αR2 /r2
 Combining this with equation (52) we have:
-                                                                        2
+                                                                         2
                                    δ + αR02 /r2           L/mr2 + cy/r2
-                                                         
+
                                Ω20        2 2
                                                      =                     ,    (62)
                                     δ + αR /r              δ + αR2 /r2
-                                                                       2
+                                                                        2
             Ω20 δ + αR02 /r2       δ + αR2 /r2           L/mr2 + cy/r2 .
-                                                
+
                                                      =                          (63)
 Observe that this is the equation for conic section. Let us elaborate on this fact.
 Let us introduce the following constants:
                        k ≡ Ω20 δr2 + αR02 , λ ≡ L/m.
-                                          
+
                                                                               (64)
 
 Expanding in Cartesian coordinates R⃗ = xx̂ + y ŷ, we obtain:
 
              kα δr2 + α(x2 + y 2 ) − λ2 + 2λcy + c2 y 2 = 0,
-                                                        
+
                                                                                 (65)
                    kα2 x2 + (kα2 − c2 )y 2 − 2λcy = λ2 − kαδr2                  (66)
-Since kα2 > 0, the trajectory is determined by the sign of kα2 − c2 :
+
+Since kα2 > 0, the trajectory is determined by the sign of kα2 − c2 :
 
                                   Ellipse if kα2 > c2 .                           (67)
                                   Parabola if kα2 = c2 .                          (68)
@@ -495,11 +505,11 @@ follows:
 where τs = Qr2 ⃗ω × ⃗ B/3 is the torque due to spinning of the charged sphere and
 Ff is the friction force. Calculation of τs is essentially identical to the mechanical
 moment of inertia for thin spherical shell. The torque is calculated as:
-                Z                               
+                Z
        τ⃗s   = d cos θdϕρ⃗r × (⃗ω × ⃗r) × B    ⃗                                   (73)
-                Z                             
+                Z
              = r2 d cos θdϕρ (⃗ω × ⃗r) ⃗r · B⃗                                     (74)
-                      Z                     
+                      Z
                           2
              = ρ⃗ω × r d cos θdϕ⃗r ⃗r · B  ⃗                                       (75)
                           Z
@@ -514,7 +524,8 @@ moment of inertia for thin spherical shell. The torque is calculated as:
                  3
 
 C.2
-   In addition we have the non–slipping condition from which we get:
+
+   In addition we have the non–slipping condition from which we get:
                               ⃗v = Ωẑ × R  ⃗ + ω × ẑr,                    (79)
                               ⃗v˙ = Ωẑ × ⃗v + ⃗ω˙ × ẑr →                  (80)
                                ⃗ω˙ r = Ω⃗v − ⃗v˙ × ẑ.                      (81)
@@ -522,18 +533,18 @@ Substituting these and Ff from the Newton’s equation into the torque equation,
 one gets:
                                                 2
                                        ⃗ + Qr ⃗ω × B
-                                       
+
           I ⃗ω˙ = −rẑ m⃗v˙ − Q⃗v × B                ⃗                       (82)
                                               3
                                                              2
                                                      ⃗ + Qr B ⃗v − Ωẑ × R
-                                                                        
+
           I(Ω⃗v + ẑ × ⃗v˙ ) = −r2 ẑ × m⃗v˙ − Q⃗v × B                   ⃗   (83)
                                                             3
                                4Qr2 B                  Qr2 B ⃗
-                                            
+
                     2 ˙
-                     
+
            I + mr ⃗v =                 − IΩ ⃗v × ẑ −       ΩR.              (84)
                                  3                       3
 The last equation maybe written as:
@@ -565,7 +576,8 @@ Substituting the following coordinate transformation
 in the component equation leads to
                               ρ̈ + (β − γ η̇ − η̇ 2 )ρ = 0,                 (92)
                               ρ̇(γ + 2η̇) = 0.                              (93)
-The first equation comes from the requirement that the coefficients of cos η (sin η)
+
+The first equation comes from the requirement that the coefficients of cos η (sin η)
 and the terms containing first time derivative ρ̇ and η vanish separately. It is
 straightforward to see this is equivalent to both ẋ and ẏ terms vanish. From this
 we find:
@@ -611,39 +623,40 @@ Using the definitions of β and γ, the solutions for Ω are found as:
 Since the both solutions for Ω < 0 and B > 0 (B
 see that Q < 0.
 C.6
-   From the solution we see that for every t = 2π time R  ⃗ makes one revolution.
+
+   From the solution we see that for every t = 2π time R  ⃗ makes one revolution.
                          2             2     2
 After N ≫ 1 rotations, R = (1 + t) = t or R = 1 + t and we find the change in
 R per rotation to be ∆R = ∆t = 2π.
    Scalar multiplying the acceleration by velocity and integrating it we obtain:
                            ⃗v · ⃗v˙ = −β⃗v · R⃗ →                           (104)
                              2       2          2 2     2
-                                                    
+
                             v − v0 = −β R − R0 = t .                        (105)
 Then the total and per rotation changes in the kinetic energy associated to the
 motion of the ball’s center per rotation are:
                                 ⃗˙ · R
                    ⃗v · ⃗v˙ = β R    ⃗ →                                  (106)
                                 2     2
-                                           2    2
-                                                        2
+                                            2    2
+                                                         2
                               v − v0        R − R0     t
                     ∆K =                =            = ,                  (107)
                                   2           2        2
                                   2       2
-                                                 2
+                                                  2
                                 vN  +1 − vN      R
                     ∆KN =                   =∆        = t∆t = 4π 2 N.     (108)
                                       2           2
 Now we estimate the change in the kinetic energy associated with the spinning of
 the ball. From non–slipping condition we get
-                                                            
+
                                                            ⃗ .
                            ω 2 = v 2 + Ω2 R2 + 2Ω⃗v · ẑ × R                 (109)
-                                        
+
 For our initial condition ⃗v0 · ẑ × R⃗ 0 = −v0 R0 and, for large N , ⃗v and R
                                                                              ⃗ are
-                                                                        
+
 approximately orthogonal to a very good approximation, so ⃗v · ẑ × R   ⃗ = −vR.
 Our calculated Ω < 0, so we can write this term as |Ω|vR. So the kinetic energy
 for spinning and its change are
@@ -658,21 +671,22 @@ Finally, combining all the results we have:
             ∆E =                     + ∆K ≃                            + ,      (112)
                              2                              2           2
                         2               2
-                                            
+
                        t (1 + |Ω|)
                   =                       +1 ,                                  (113)
                         2       11
                            2      2
                        I(ωN   − ωN   −1 )
           ∆EN =                           + ∆KN                                 (114)
-                             2
+                              2
                                (1 + |Ω|)2
-                                               
+
                   =    4πN                  + 1 with:                           (115)
                                     11
                               √
              |Ω| =     |11 ± 77|.                                               (116)
-  The sketch of the trajectory looks like
+
+  The sketch of the trajectory looks like
 
 
 

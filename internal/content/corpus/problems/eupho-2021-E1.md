@@ -27,7 +27,7 @@ verification_status: pending
 
 A very long copper wire runs horizontally at unknown depth $h$ under a horizontal square surface of side length $L = 100.0\text{ mm}$. The sides of the square are oriented West–East (the $x$-axis) and South–North (the $y$-axis), as shown in the figure. The origin of the coordinate system coincides with the South-West corner of the square.
 
-![figure](../../sources/eupho/figures/eupho-2021-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2021-E1-1.png)
 
 The wire is connected to an adjustable DC source (not shown in the figure), which can provide a current $I$ in the range from $-5\text{ A}$ to $5\text{ A}$. The reversal of the sign of the current corresponds to a reversal of the polarity of the source. A small compass can be placed on the square surface (including its circumference) to sense the magnetic field of the wire through the deflection angle $\varphi$ between the magnetic needle and the North ($y$) direction. Positive $\varphi$ values correspond to an Eastward deflection, as shown in the figure, while negative $\varphi$ correspond to a Westward deflection. You can assume that:
 

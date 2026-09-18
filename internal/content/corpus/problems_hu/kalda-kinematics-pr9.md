@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható, két fényvisszaverő felületű függőleges tükör függőleges tengely körül $\omega$ szögsebességgel forog. Egy nyugvó pontszerű $S$ fényforrás található a forgástengelytől $a$ távolságra. Határozzuk meg a pontszerű fényforrás képének sebességét az idő függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr9-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr9-fig1.jpg)

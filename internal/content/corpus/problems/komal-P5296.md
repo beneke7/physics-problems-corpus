@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, stability-analysis]
 ---
 
-A hollow iron ball is floating in water which is at a temperature of $1\;{}^\circ$C. What happens if the temperature slowly rises? What is the temperature of the water in which the ball floats again? 
+A hollow iron ball is floating in water which is at a temperature of $1\;{}^\circ$C. What happens if the temperature slowly rises? What is the temperature of the water in which the ball floats again?
  (4 pont)

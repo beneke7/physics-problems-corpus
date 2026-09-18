@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-A space probe is launched vertically upwards from the Earth's surface at the orbital speed. 
- a) How high does the probe go? 
- b) How long will it take to fall back to Earth? 
- Neglect air resistance and the rotation of the Earth. 
- Hint: see the article titled Mesterséges égitestek mozgásával kapcsolatos problémák és feladatok on the website (only in Hungarian). 
+A space probe is launched vertically upwards from the Earth's surface at the orbital speed.
+ a) How high does the probe go?
+ b) How long will it take to fall back to Earth?
+ Neglect air resistance and the rotation of the Earth.
+ Hint: see the article titled Mesterséges égitestek mozgásával kapcsolatos problémák és feladatok on the website (only in Hungarian).
  (5 pont)

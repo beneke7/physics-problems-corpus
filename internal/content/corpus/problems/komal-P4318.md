@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, cross-domain-analogy]
 ---
 
-Determine with the help of a computer (with numerical method) how much shorter does it take for an iron ball of diameter 10 cm to fall from the balkony of the leaning tower of Pisa, which is at a height of 50 m, than a wooden ball of the same diameter. 
+Determine with the help of a computer (with numerical method) how much shorter does it take for an iron ball of diameter 10 cm to fall from the balkony of the leaning tower of Pisa, which is at a height of 50 m, than a wooden ball of the same diameter.
  (5 pont)

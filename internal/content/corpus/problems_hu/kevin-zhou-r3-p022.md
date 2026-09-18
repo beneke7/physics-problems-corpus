@@ -32,7 +32,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        12
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
      (a) Határozzuk meg a B pontban kapott teljes M ′ tömeget, majd a B-ben mért fotonok f ′ frekvenciáját.

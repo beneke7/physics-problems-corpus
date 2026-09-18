@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-In this problem, the experiment carried out on a space station in weightlessness is about a special "orbital speed" and "escape velocity". A charged sphere, made of some insulating material, has a radius $R =10$ cm, and charge $Q = -10^{-7}$ C (uniformly distributed). We would like to know the orbital speed of an object of mass $m = 0.1$ g, and of charge $q=2\cdot10^{-9}$ C when it is on a circular orbit 2 cm from the surface of the sphere; and we would also like to find the escape velocity of the same object, when it is launched from a point 2 cm from the surface of the sphere. 
+In this problem, the experiment carried out on a space station in weightlessness is about a special "orbital speed" and "escape velocity". A charged sphere, made of some insulating material, has a radius $R =10$ cm, and charge $Q = -10^{-7}$ C (uniformly distributed). We would like to know the orbital speed of an object of mass $m = 0.1$ g, and of charge $q=2\cdot10^{-9}$ C when it is on a circular orbit 2 cm from the surface of the sphere; and we would also like to find the escape velocity of the same object, when it is launched from a point 2 cm from the surface of the sphere.
  (4 pont)

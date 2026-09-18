@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [superposition, limiting-and-special-cases]
 ---
 
-Two simple pendulums, both having a length of $\ell$ can swing in parallel, vertical planes, one right behind the other. Their shadows are projected perpendicularly to a wall, and every once in a while the shadows cross each other. Both pendulums are displaced by the same (small) angle and they are released at a time difference of $t_0$. ($t_0$ is smaller than the period of the pendulums.) 
- $a)$ When do their shadows meet first? 
- $b)$ When does the $n$-th encounter occur? 
+Two simple pendulums, both having a length of $\ell$ can swing in parallel, vertical planes, one right behind the other. Their shadows are projected perpendicularly to a wall, and every once in a while the shadows cross each other. Both pendulums are displaced by the same (small) angle and they are released at a time difference of $t_0$. ($t_0$ is smaller than the period of the pendulums.)
+ $a)$ When do their shadows meet first?
+ $b)$ When does the $n$-th encounter occur?
  (4 pont)

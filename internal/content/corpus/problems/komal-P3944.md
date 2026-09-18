@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-A spiral spring is hanged at one of its end such that its loops do not touch each other, and then it is connected to a voltage supply and current flows through it. Will the spring be compressed or stretched? What happens if it is connected to an alternating voltage supply? 
+A spiral spring is hanged at one of its end such that its loops do not touch each other, and then it is connected to a voltage supply and current flows through it. Will the spring be compressed or stretched? What happens if it is connected to an alternating voltage supply?
  (4 pont)

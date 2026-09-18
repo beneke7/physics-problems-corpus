@@ -101,10 +101,10 @@ Z
 ⟨n⟩E dN =
 1
 2π2
-
+
 L
 ℏc
-3 Z ∞
+ 3 Z ∞
 0
 ⟨n⟩E3
 dE.
@@ -125,11 +125,11 @@ L3ℏ
 π2c3
 Z ∞
 0
-
+
 kBT
 ℏ
 dx
-
+
 (kBTx/ℏ)3
 ex − 1
 =
@@ -185,30 +185,30 @@ Z ∞
 0
 (3x2
 dx)
-
+
 e−nx
 n
-
+
 =
 ∞ X
 n=1
 Z ∞
 0
 (6xdx)
-
+
 e−nx
 n2
-
+
 =
 ∞ X
 n=1
 Z ∞
 0
 (6dx)
-
+
 e−nx
 n3
-
+
 =
 ∞ X
 n=1
@@ -223,7 +223,7 @@ B
 L3
 T4
 .
-[5] Problem 26.  h 1 0APhO 2002, problem 1. This useful problem covers the other common example
+[5] Problem 26.   h 1 0APhO 2002, problem 1. This useful problem covers the other common example
 of a quantized bosonic field. In the above problems, we quantized the electromagnetic field to get
 photons. Here, we quantize a displacement field to get phonons.
 Solution. See the official solutions. But they’re badly formatted, so I’ll also list the answers here.

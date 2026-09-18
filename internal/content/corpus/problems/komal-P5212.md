@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-There is a simple pendulum suspended above a horizontal tabletop at a height of $h$. The bob of the simple pendulum of length $\ell>h$ is released without initial speed from the position at which the thread is horizontal. The bob at the end of the thread bounces on the table $n$ times such that at the last bounce the thread just gets tight, and the pendulum swings forward. Determine the ratio of $h$ to $\ell$. 
- (The collisions are totally elastic, air resistance is negligible and the thread does not disturb the motion of the bob.) 
+There is a simple pendulum suspended above a horizontal tabletop at a height of $h$. The bob of the simple pendulum of length $\ell>h$ is released without initial speed from the position at which the thread is horizontal. The bob at the end of the thread bounces on the table $n$ times such that at the last bounce the thread just gets tight, and the pendulum swings forward. Determine the ratio of $h$ to $\ell$.
+ (The collisions are totally elastic, air resistance is negligible and the thread does not disturb the motion of the bob.)
  (4 pont)

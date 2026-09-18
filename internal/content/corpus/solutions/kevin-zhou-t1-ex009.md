@@ -112,12 +112,12 @@ A ≪ λ.
 Proof. Let f(v) be the distribution of velocities of the particles. What this means is that the
 probability that a particle has velocity in [vx,vx + dvx] × [vy,vy + dvy] × [vz,vz + dvz] is
 f
-q
+ q
 v2
 x + v2
 y + v2
 z
-
+
 dvxdvydvz.
 Set up spherical coordinates with origin at the hole. We will now count the number of particles that
 hit the hole in a time dt using a funny double counting argument, where we start by counting the

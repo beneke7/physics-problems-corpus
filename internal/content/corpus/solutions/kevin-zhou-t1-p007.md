@@ -113,10 +113,10 @@ P(0)
 hAdP
 !
 = β
-Z H
+ Z H
 0
 ρghAdh
-
+
 = βEgrav
 where we used the fact that dP = −ρg dh in mechanical equilibrium.
 Thus, we conclude that
@@ -141,7 +141,7 @@ the horizontal translational degrees of freedom. We should therefore single out 
 translational kinetic energy, ⟨K⟩ = Ekin(R/2CV ), giving the expected result. (We also should
 add on the vertical kinetic energy of the Earth, but this is negligible.) Thus, you could also
 have solved this problem in one step using the virial theorem, which illustrates its power.
-[3] Problem 8.  m 1 0USAPhO 1997, problem B2.
+[3] Problem 8.   m 1 0USAPhO 1997, problem B2.
 Remark
 A Foehn is a hot, dry wind that comes down from a mountain range. This occurs in three
 steps. First, warm air rises adiabatically up the opposite side of the mountain range. As the

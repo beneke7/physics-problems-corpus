@@ -22,9 +22,9 @@ will use many of the techniques from P1. It will also require Stirling’s appro
 n! ≈
 √
 2πn
-n
+ n
 e
-n
+ n
 for n ≫ 1, which we mentioned in P1. (Hint: because the relative uncertainty falls as λ
 increases, start by writing k = λ(1+δ) for |δ| ≪ 1, and expand in powers of δ. Be careful not
 to drop too many terms, as δ is small, but λδ isn’t.)
@@ -33,10 +33,10 @@ P
 i Xi, and we get k clicks if
 precisely k of the Xi are equal to 1. Thus,
 p(X = k) =
-
+
 N
 k
-
+
 (αdt)k
 (1 − αdt)N−k
 ≈
@@ -66,19 +66,19 @@ p(X = k) =
 1
 √
 2πk
-
+
 λe
 k
-k
+ k
 e−λ
 =
 1
 p
 2πλ(1 + δ)
-
+
 e
 1 + δ
-λ(1+δ)
+ λ(1+δ)
 e−λ
 ≈
 1
@@ -89,13 +89,13 @@ eδλ
 where we used the fact that δ ≪ 1.
 Now we need to use a technique from P1. Letting the final term be equal to 1/y, we have
 logy = λ(1 + δ)log(1 + δ) = λ(1 + δ)
-
+
 δ −
 δ2
 2
 + O(δ3
 )
-
+
 = δλ +
 δ2λ
 2
@@ -121,7 +121,7 @@ e−δ2λ/2
 2πλ
 e−(k−λ)2/2λ
 which is precisely a normal distribution with the appropriate mean and standard deviation.
-[3] Problem 20.  m 1 0IPhO 2023, problem 1, parts A, B, and D.3. A short derivation of the key features
+[3] Problem 20.   m 1 0IPhO 2023, problem 1, parts A, B, and D.3. A short derivation of the key features
 of Brownian motion. It requires only the ideas of this problem set, and some basic mechanics.
 4 Data Analysis
 Idea 5

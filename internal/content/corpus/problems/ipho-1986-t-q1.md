@@ -25,7 +25,7 @@ verification_status: pending
 Q1
 
 Figure 1.1
-![](ipho-1986-t-q1-fig01.png)
+![](../../figures/ipho/figures/ipho-1986-t-q1-fig01.png)
 
 A plane monochromatic light wave, wavelength $\lambda$ and frequency $f$, is incident normally on two identical narrow slits, separated by a distance $d$, as indicated in Figure 1.1. The light wave emerging at each slit is given, at a distance $x$ in a direction $\theta$ at time $t$, by
 

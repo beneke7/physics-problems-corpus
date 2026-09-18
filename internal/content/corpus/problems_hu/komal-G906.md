@@ -9,11 +9,11 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 906. A sós tengervíz sűrűsége $1025~\mathrm{kg}/\mathrm{m}^3$, az édesvízé $1000~\mathrm{kg}/\mathrm{m}^3$. 
+G. 906. A sós tengervíz sűrűsége $1025~\mathrm{kg}/\mathrm{m}^3$, az édesvízé $1000~\mathrm{kg}/\mathrm{m}^3$.
 
- a) Hogyan változik a hajóra ható felhajtóerő nagysága, amikor a folyó torkolatát elhagyva kiúszik a nyílt tengerre? 
+ a) Hogyan változik a hajóra ható felhajtóerő nagysága, amikor a folyó torkolatát elhagyva kiúszik a nyílt tengerre?
 
- b) Számítsuk ki, hogy $1~\mathrm{m}^3$ tengervíz hány kg sót tartalmaz, ha tudjuk, hogy a tengeri só sűrűsége $2200~\mathrm{kg}/\mathrm{m}^3$. 
+ b) Számítsuk ki, hogy $1~\mathrm{m}^3$ tengervíz hány kg sót tartalmaz, ha tudjuk, hogy a tengeri só sűrűsége $2200~\mathrm{kg}/\mathrm{m}^3$.
 
- Tegyük fel, hogy a só és a víz keverése nem jár térfogatváltozással. 
+ Tegyük fel, hogy a só és a víz keverése nem jár térfogatváltozással.
  Versenyfeladat nyomán

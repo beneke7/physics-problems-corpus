@@ -50,17 +50,17 @@ $$
 （i）求原点处的等效磁荷 $g(t)$ 。
 （ii）将一单位长度电阻为 $R_{0}$ 的导线弯成正三角形回路，其边长为 $a$ 。该三角形位于 $z=-\frac{\sqrt{6}}{12} a$ 的平面上，螺线管穿过其中心，如图7c 所示。求此
 
-![](cpho-f-2023-q7-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q7-fig01.png)
 图7a
 
-![](cpho-f-2023-q7-fig02.png)
-![](cpho-f-2023-q7-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q7-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q7-fig03.png)
 三角形回路的平均热功率。不考虑辐射以及三角形回路的自感。
 
 提示：可考虑正三角形对 $g$ 所张的立体角。
 （3）阿哈罗诺夫－玻姆效应（即 A－B 效应）的实验证明：即使在磁感应强度为零的区域，也可能会因为 $\boldsymbol{A} \neq 0$ 出现磁效应。它揭示了磁矢势 $\boldsymbol{A}$ 的物理意义。用自由电子双缝干涉实验可验证 A－B 效应。在该实验中，双缝（缝宽很小）与屏之间的距离为 $D$ ，双缝间距为 $d(d \ll D)$ ；一根无限长的极细直螺线管垂直放置于电子经过双缝后的路径之间，其单位长度匝数为 $n$ ，横截面积为$S$ ，如图7d 所示。电子源发出的自由电子的动量大小为 $p$ 、电荷为 $-e$（ $e>0$ ）。若螺线管中的电流从 0 变化到 $I$ ，求中心亮条纹在屏上移动的距离。已知动量为 $\boldsymbol{p}$ 的电子在矢势场 $\boldsymbol{A}$ 中的波矢为 $\boldsymbol{k}=\frac{1}{\hbar}(\boldsymbol{p}-e \boldsymbol{A})$ ，其
 
-![](cpho-f-2023-q7-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q7-fig04.png)
 图7d
 
 中 $\hbar$ 为约化普朗克常量。

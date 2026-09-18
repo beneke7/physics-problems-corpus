@@ -29,7 +29,9 @@ Example 9
   distance of closest approach is R. Estimate the angle by which the object is deflected.
 
                                                  16
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
   Solution
   To solve this exactly, we could use properties of conics, or solve Newton’s second law in polar
@@ -53,7 +55,7 @@ Example 9
   but it’s pretty tricky; Einstein himself missed it in his original paper of the subject!
 
   The 2 arises because in general relativity, for objects that don’t get too close to the Sun,
-                                                           
+
                                            2GM 1          1
                                     ∆θ ≈               +      .
                                              R      v 2 c2
@@ -79,7 +81,9 @@ Example 9
   The true answer is larger by a factor of 6π/(1 − e2 ), where e ≈ 0.2 is the eccentricity.
 
                                                    17
-Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                 Physics Olympiad Handouts
 
     This discrepancy was known in Einstein’s time, and in textbooks it is usually described as
     decisive evidence in favor of general relativity. As usual, the history is more complicated.
@@ -94,7 +98,7 @@ Example 9
     Idea 8
     Consider an inertial frame and a rotating frame with angular velocity ω. For any vector V,
     the time derivatives of V in these two frames are related by
-                                                
+
                                      dV         dV
                                             =           + ω × V.
                                       dt in      dt rot

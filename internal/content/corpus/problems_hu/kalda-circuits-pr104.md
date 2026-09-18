@@ -20,6 +20,6 @@ verification_status: pending
 
 [Est-Fin-2016] A világítás fényerejének szabályozására szolgáló fényerőszabályozó egy tolóellenállásból, egy kondenzátorból, egy diacból és egy triacból áll, az ábrán látható kapcsolás szerint.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr104-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr104-fig1.jpg)
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr104-fig2.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr104-fig2.jpg)

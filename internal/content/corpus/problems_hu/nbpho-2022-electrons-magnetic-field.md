@@ -42,10 +42,10 @@ mozog?
 kezdőfeltétel-halmaz esetén. Hol van a másik elektron abban a pillanatban, amikor az
 első elektron a kis kör helyzetében van? Mekkora ennek a mozgásnak a periódusa?
 
-![ábra](../../sources/nbpho/figures/nbpho-2022-electrons-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2022-electrons-fig1.jpg)
 
 **v)** *(2 pont)* Az alábbi ábra az egyik elektron pályáját mutatja egy bizonyos
 kezdőfeltétel-halmaz esetén. Mekkora a másik elektron sebessége abban a pillanatban,
 amikor az első elektron a kis kör helyzetében van?
 
-![ábra](../../sources/nbpho/figures/nbpho-2022-electrons-fig2.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2022-electrons-fig2.jpg)

@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 640. Ha a Föld $R$ sugarú, homogén gömb lenne, az alábbi grafikonok közül melyik ábrázolná helyesen a gravitációs erő függését a Föld középpontjától mért távolságtól?
 
-![figure](../../raw_html/komal_figures/komal-G640-fig1.gif)
+![figure](../../figures/komal/figures/komal-G640-fig1.gif)

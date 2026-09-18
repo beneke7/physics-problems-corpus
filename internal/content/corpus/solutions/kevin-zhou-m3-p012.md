@@ -147,20 +147,20 @@ gR means we can neglect the change in gravitational potential energy as the hose
 unrolls. After the hose travels a distance x,
 1
 2
-
+
 1 +
 1
 2
-
+
 Mv2
 0 =
 1
 2
-
+
 1 +
 1
 2
-
+
 mv2
 where the 1/2 terms are from rotational kinetic energy. Since m(x) = M(1 − x/L), we have
 v(x) =

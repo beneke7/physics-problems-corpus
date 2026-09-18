@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-A 3$^{.}$10$^{30}$kg star and a 6$^{.}$10$^{30}$kg star revolve about their common centre of mass. The distance between them is always 9$^{.}$10$^{9}$m. Find the period of the motion of the stars. 
+A 3$^{.}$10$^{30}$kg star and a 6$^{.}$10$^{30}$kg star revolve about their common centre of mass. The distance between them is always 9$^{.}$10$^{9}$m. Find the period of the motion of the stars.
  (4 pont)

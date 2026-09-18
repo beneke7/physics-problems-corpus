@@ -58,7 +58,9 @@ During the motion, the speed of the particle increases.
 
 
    Mechanics – Problem I - Solution                                                        Page 1 from 17
-IPhO 1983                                                           Theoretical Question I
+
+
+IPhO 1983                                                           Theoretical Question I
 
 
 Hitting the wall, the particle starts moving in opposite direction with a speed equal in modulus with the
@@ -112,7 +114,9 @@ so that ,
 
 
    Mechanics – Problem I - Solution                                                          Page 2 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
       Fx ⋅ x 0 + Ec
@@ -153,7 +157,9 @@ The graph in the figure 1.2 is the answer to the question I.b.
 
 
    Mechanics – Problem I - Solution                                                      Page 3 from 17
-IPhO 1983                                                         Theoretical Question I
+
+
+IPhO 1983                                                         Theoretical Question I
 
 
 c. During the motion of the particle its energy decrease because of the dissipation work of the friction
@@ -210,7 +216,9 @@ The speed of the particle at the first collision with the wall v 1← can be wri
 
 
    Mechanics – Problem I - Solution                                                        Page 4 from 17
-IPhO 1983                                                     Theoretical Question I
+
+
+IPhO 1983                                                     Theoretical Question I
 
 
 
@@ -243,7 +251,9 @@ part of the particle’s motion.
 
 
    Mechanics – Problem I - Solution                                                    Page 5 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
 The graph in the figure (1.4) presents the speed’s dependence on the position in this first part of the
@@ -302,7 +312,9 @@ v=         [Ec + x0 ( Fx − Ff ) − ( Fx + Ff )⋅ x ]                        
 
 
    Mechanics – Problem I - Solution                                                         Page 6 from 17
-IPhO 1983                                                      Theoretical Question I
+
+
+IPhO 1983                                                      Theoretical Question I
 
 
 Using the furnished data results
@@ -346,7 +358,9 @@ The square of the speed has the expression
 
 
    Mechanics – Problem I - Solution                                                     Page 7 from 17
-IPhO 1983                                                          Theoretical Question I
+
+
+IPhO 1983                                                          Theoretical Question I
 
 
 and the speed is
@@ -401,7 +415,9 @@ again the wall
 
 
    Mechanics – Problem I - Solution                                                          Page 8 from 17
-IPhO 1983                                                      Theoretical Question I
+
+
+IPhO 1983                                                      Theoretical Question I
 
 
 
@@ -459,7 +475,9 @@ or, using the data
 
 
     Mechanics – Problem I - Solution                                                    Page 9 from 17
-IPhO 1983                                                        Theoretical Question I
+
+
+IPhO 1983                                                        Theoretical Question I
 
 
                                   k
@@ -498,7 +516,9 @@ And the evolution of the speed as function of position is represented in the fig
 
 
      Mechanics – Problem I - Solution                                                      Page 10 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
 
@@ -549,7 +569,9 @@ the position x lying in the domain
 
 
      Mechanics – Problem I - Solution                                                    Page 11 from 17
-IPhO 1983                                                           Theoretical Question I
+
+
+IPhO 1983                                                           Theoretical Question I
 
 
 x ∈ (x 0 , x1 ' )                                                                       ( 1.66)
@@ -590,7 +612,9 @@ Using provided data
 
 
    Mechanics – Problem I - Solution                                                          Page 12 from 17
-IPhO 1983                                                          Theoretical Question I
+
+
+IPhO 1983                                                          Theoretical Question I
 
 
 
@@ -633,7 +657,9 @@ and the speed is
 
 
   Mechanics – Problem I - Solution                                                          Page 13 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
 
@@ -691,7 +717,9 @@ The energy conservation law for the x k ' position and the point in which the pa
 
 
    Mechanics – Problem I - Solution                                                      Page 14 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
 
@@ -749,7 +777,9 @@ speed v (2k ,→ ) can be written as
 
 
    Mechanics – Problem I - Solution                                                      Page 15 from 17
-IPhO 1983                                                       Theoretical Question I
+
+
+IPhO 1983                                                       Theoretical Question I
 
 
 
@@ -786,7 +816,9 @@ the total distance covered by the particle.
 
 
      Mechanics – Problem I - Solution                                                    Page 16 from 17
-IPhO 1983                                                      Theoretical Question I
+
+
+IPhO 1983                                                      Theoretical Question I
 
 
  ∞

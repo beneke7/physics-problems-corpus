@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4904. Az ábrán látható kapcsolásban a $C$ kapacitású kondenzátor feszültsége kezdetben $2U_0$, a $2C$ kapacitású kondenzátor töltetlen. 
+P. 4904. Az ábrán látható kapcsolásban a $C$ kapacitású kondenzátor feszültsége kezdetben $2U_0$, a $2C$ kapacitású kondenzátor töltetlen.
 
  Mennyi hő fejlődik az $R$ ellenálláson, miután zártuk a kapcsolót?
 
-![figure](../../raw_html/komal_figures/komal-P4904-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4904-fig1.gif)

@@ -29,12 +29,12 @@ elhagyjuk. Ekkor
                                          = dp ⟨x| exp(−itp̂2 /2mℏ)|p⟩⟨p|x0 ⟩
 
                                                                            p2 t
-                                           Z                                  
+                                           Z
                                                dp        i
                                          =         exp       p(x − x0 ) −
                                               2πℏ        ℏ                 2m
                                                                         2
-                                           r                             
+                                           r
                                                 m          i m(x − x0 )
                                          =          exp
                                               2πiℏt        ℏ     2t
@@ -50,12 +50,11 @@ H = T + V = p2 /2m + V (x) Hamilton-operátorral dolgozunk, mivel a p magasabb h
                         U (ϵ) = 1 − (T + V ) + O(ϵ2 ) = e−iϵT /ℏ e−iϵV /ℏ + O(ϵ2 ).
                                      ℏ
       Ezért a t = N ϵ időre
-                                                            N
+                                                              N
                                              −iϵT /ℏ −iϵV /ℏ
                                   U (t) = e         e           + O(1/N ).
 
       Ez a Lie-szorzatformula speciális esete; a hiba N → ∞ esetén eltűnik.
-158 6. Útintegrálok
 
   • Ezt a felbontást használva N − 1-szer beillesztjük az identitást:
                                     Z                      N
@@ -67,21 +66,21 @@ H = T + V = p2 /2m + V (x) Hamilton-operátorral dolgozunk, mivel a p magasabb h
     Minden tényezőben beillesztjük az impulzustérbeli identitásfelbontást:
 
                                                                               (xj+1 − xj )2
-      Z                                                      r                                       
+      Z                                                      r
                      −iϵp̂2 /2mℏ         −iϵV (x̂)/ℏ            m         i
          dp ⟨xj+1 |e             |p⟩⟨p|e             |xj ⟩ =         exp    m               − ϵV (xj )
                                                                2πiϵℏ      ℏ        2ϵ
 
     ahol a szabad részecske esetével majdnem azonos Gauss-integrált számítottunk ki. Ezután
                                                                                                  
-                                                                N −1                2          
-                          m N/2 Z                          iϵ X       (xj+1 − xj )
+                                                                N −1                 2
+                           m  N/2 Z                          iϵ X       (xj+1 − xj )
       K(x, x0 , t) = lim              dx1 . . . dxN −1 exp           m                − V (xj ) 
                     N →∞ 2πiℏϵ                               ℏ              2ϵ2
                                                                              j=0
 
   • Riemann-összegként felismerve a fenti képletet
-                                           Z            Z t      
+                                           Z             Z t
                                                          i
                            K(x, x0 , t) = C Dx(τ ) exp       L dτ
                                                          ℏ 0
@@ -95,7 +94,7 @@ H = T + V = p2 /2m + V (x) Hamilton-operátorral dolgozunk, mivel a p magasabb h
     feltételez, de ezt most figyelmen kívül hagyjuk.
 
   • Ha nem végezzük el az impulzusszámlálást, akkor a fázistérbeli úttintegrált kapjuk:
-                                       Z                  Z t              
+                                       Z                   Z t
                                                           i
                        K(x, x0 , t) = C Dx(τ )Dp(τ ) exp       (pẋ − H) dτ
                                                           ℏ 0
@@ -116,7 +115,6 @@ gondolunk, ahol ∆S az akció „ellen-tag” járuléka. Tipikusan Λ energiak
 kezelhetnénk, mivel a kvantummechanikai úttintegrál olyan kvantumtér-elmélet, amelyben az operátoroknak
 nincs térfüggésük, vagyis egydimenziós kvantumtér-elmélet. Ezt a nézőpontot a Kvantumtér-elmélet
 című jegyzet fejti ki részletesebben.
-159 6. Útintegrálok
 
 6.2     Gauss-integrálok
 Az úttintegrál egyik erőssége, hogy szem előtt tartja a klasszikus utakat; ezért jól alkalmazható
@@ -168,15 +166,14 @@ félklasszikus közelítésekhez. Először áttekintjük a Gauss-integrálás n
       standard Gauss-integrálra esik szét; a pozitív definitás biztosítja, hogy ezek konvergáljanak.
 
   • Hasonlóan, v-ben lineáris tag esetén
-                                               r
+                                                r
                                                   (2π)N
-                       Z                                           
+                       Z
                                    1 T      T                 1 T −1
                            dv exp − v Av + j v =        exp     j A j .
                                    2              det A       2
 
       Ez a v → v + A−1 j eltolással mutatható meg.
-160 6. Útintegrálok
 
  • Ezután az előző azonosságot j szerint, j = 0-ban deriválhatjuk. Mivel azonban
                                              T   −1 j/2                    T   −1 j/2
@@ -230,11 +227,11 @@ félklasszikus közelítésekhez. Először áttekintjük a Gauss-integrálás n
 
  • A kontinuumhatárban a fenti vektorok és mátrixok függvényekké és operátorokká válnak, az integrál
    pedig úttintegrál lesz:
-                   Z                Z                           Z            
+                   Z                 Z                           Z
                                    1          ′         ′    ′
                      Dv(x) exp −        dx dx v(x)A(x, x )v(x ) + dx j(x)v(x)
                                    2
-                                                 Z                          
+                                                  Z
                                       1          1         ′     −1   ′    ′
                                 ∝√          exp     dx dx j(x)A (x, x )j(x ) .
                                      det A       2
@@ -245,7 +242,6 @@ félklasszikus közelítésekhez. Először áttekintjük a Gauss-integrálás n
 
     teljesül, és elhagytunk néhány normálási tényezőt, amelyek az átlagokból kiesnek. Wick tétele
     erre az esetre közvetlenül általánosítható.
-161 6. Útintegrálok
 
 Megjegyzés. Most áttekintjük a nyeregpontközelítést. Tekintsük a
                                        Z
@@ -279,18 +275,18 @@ A teljes eredményhez az összes stacionárius pontra összegezni kell.
 Ezzel a felállással most a nyeregpontközelítést alkalmazzuk az úttintegrálra.
 
   • Ebben az esetben a kis paraméter κ = ℏ, a függvény pedig a diszkretizált Lagrange-függvény:
-                                                        N −1 
+                                                        N −1
                                                                  m (xj+1 − xj )2
-                                                        X                                  
+                                                        X
                            φ(x1 , . . . , xN −1 ) = ϵ                            − V (x j )  .
                                                                  2      ϵ2
                                                         j=0
 
       Deriválva
 
-                      ∂φ     m
+                      ∂φ      m
                                                         ′
-                                                                                 ∂2φ     m
+                                                                                  ∂2φ     m
                           = ϵ 2 (2xk − xk+1 − xk−1 ) − V (xk ) ,                         = Qkℓ
                       ∂xk     ϵ                                                  ∂xk ∂xℓ  ϵ
       ahol a Qkℓ mátrix tridiagonális:
@@ -309,7 +305,6 @@ Ezzel a felállással most a nyeregpontközelítést alkalmazzuk az úttintegrá
                                               N →∞
 
       Több stacionárius út esetén ágindexet vezetünk be.
-162 6. Útintegrálok
 
  • Ezután ki kell számítanunk a det Q-t. Ennek az úttintegrál ϵ−N/2-tel arányos előtényezőjével
    együtt véges eredményt kell adnia, ezért det Q ∝ 1/ϵ várható. Ennek közvetlen módja Q
@@ -328,9 +323,9 @@ Ezzel a felállással most a nyeregpontközelítést alkalmazzuk az úttintegrá
  • F mozgásegyenlete a klasszikus pálya körüli kis eltérés mozgásegyenlete, x(τ ) = x(τ ) + F (τ ),
    mivel a jobb oldal az erő linearizált változása. Így F (t) a t = 0-beli sebesség egységnyi
    megváltoztatására adott t időpontbeli helyváltozás, tehát
-                                                                  2 −1
+                                                                   2  −1
                                                  ∂pi −1
-                                                    
+
                                       ∂x                            ∂ S
                              F (t) =       =m             = −m                .
                                       ∂vi        ∂x                ∂x0 ∂x
@@ -342,9 +337,9 @@ Ezzel a felállással most a nyeregpontközelítést alkalmazzuk az úttintegrá
    határozott határértéke van N → ∞ esetén. E határban ez a klasszikus pálya olyan perturbációinak
    száma, amelyek tovább csökkentik az akciót; ez tipikusan kicsi.
  • Mindent összerakva és az ágindexet visszaállítva kapjuk a Van Vleck-képletet:
-                                   X e−iµb π/2 ∂ 2 Sb 1/2     
+                                   X e−iµb π/2 ∂ 2 Sb 1/2
                                                                 i
-                                                                                
+
                     K(x, x0 , t) ≈    √                   exp     Sb (x, x0 , t) .
                                        b
                                         2πiℏ ∂x∂x0              ℏ
@@ -363,4 +358,3 @@ A változók megváltoztatásával
                                                              ∂x    h ∂x
 adódik, mert a kezdeti fázistérbeli P̃ (x0 , p0 ) eloszlásnak mindig ki kell töltenie egy Planck-cellát.
 Ez a két kifejezés összhangban van, mivel p0 = −∂S/∂x0.
-163 6. Útintegrálok

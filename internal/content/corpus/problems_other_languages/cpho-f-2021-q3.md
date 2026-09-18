@@ -50,7 +50,7 @@ $$
 
 质心系到实验室系的动量关系如解题图3a所示。从该图中容易看
 
-![](cpho-f-2021-q3-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig01.png)
 解题图3a
 
 到，在质心系中的散射角为 $\theta^{\prime}$ ，在实验室系的散射角为 $\theta$ ，则易
@@ -84,13 +84,13 @@ $$
 \end{aligned}
 $$
 
-![](cpho-f-2021-q3-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig02.png)
 解题图3b
 
-![](cpho-f-2021-q3-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig03.png)
 $v_{0}^{\prime}=100 \mathrm{~km}$
 
-![](cpho-f-2021-q3-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig04.png)
 因而，
 
 $$
@@ -115,7 +115,7 @@ $$
 （解法三）
 依题意，在实验室参考系中，入射暗物质粒子 X 的初速度
 
-![](cpho-f-2021-q3-fig05.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig05.png)
 解题图3d
 
 $v_{0}=200 \mathrm{~km} / \mathrm{s}$ ，动量大小为 $p_{0}=M v_{0}, ~ M$ 是暗物质粒子 X 的质量；
@@ -128,7 +128,7 @@ $$
 \end{aligned}
 $$
 
-![](cpho-f-2021-q3-fig06.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q3-fig06.png)
 解题图3e
 
 由（1）（2）式（或直接根据矢量三角形，见解题图3e）得

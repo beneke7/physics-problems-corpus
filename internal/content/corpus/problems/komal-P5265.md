@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A water polo player holds a ball above the water such that it just touches the surface of the water. The mass of the ball is 400 g, and its perimeter is 70 cm. At least how much work does the player have to do in order to push the ball totally under the water? 
+A water polo player holds a ball above the water such that it just touches the surface of the water. The mass of the ball is 400 g, and its perimeter is 70 cm. At least how much work does the player have to do in order to push the ball totally under the water?
  (4 pont)

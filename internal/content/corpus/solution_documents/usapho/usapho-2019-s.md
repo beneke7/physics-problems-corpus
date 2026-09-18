@@ -62,7 +62,9 @@ We acknowledge the following people for their contributions to this year’s exa
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                          Student Instructions                                      2
+
+
+2019 USAPhO                          Student Instructions                                      2
 
 
 
@@ -102,20 +104,22 @@ We acknowledge the following people for their contributions to this year’s exa
 
   Possibly useful information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                         G = 6.67 × 10−11 N · m2 /kg2
-     k = 1/4π0 = 8.99 × 109 N · m2 /C2   km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 109 N · m2 /C2   km = µ0 /4π = 10−7 T · m/A
                    8
      c = 3.00 × 10 m/s                    kB = 1.38 × 10−23 J/K
      NA = 6.02 × 1023 (mol)−1             R = NA kB = 8.31 J/(mol · K)
      σ = 5.67 × 10−8 J/(s · m2 · K4 )     e = 1.602 × 10−19 C
      1 eV = 1.602 × 10   −19 J            h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − θ3 /6 for |θ|  1        cos θ ≈ 1 − θ2 /2 for |θ|  1
+     me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − θ3 /6 for |θ|   1        cos θ ≈ 1 − θ2 /2 for |θ|   1
 
 
 
 
                  Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                             Student Instructions                                        3
+
+
+2019 USAPhO                             Student Instructions                                        3
 
 
 
@@ -148,7 +152,9 @@ do not write your name on any sheet.
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                    Part A                                                 4
+
+
+2019 USAPhO                                    Part A                                                 4
 
 
 
@@ -195,7 +201,9 @@ a. Graph the functions vA (t) and vB (t) for t from 0 to 1 second on the provide
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                                Part A                                                      5
+
+
+2019 USAPhO                                                Part A                                                      5
 
 
 
@@ -249,7 +257,9 @@ c. Again, graph the functions vA (t) and vB (t) for t from 0 to 1 second on the 
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                                Part A                                       6
+
+
+2019 USAPhO                                                Part A                                       6
 
 
 
@@ -284,7 +294,9 @@ d. At time t = 1 s, how far has block A moved from its original position?
 
 
                   Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                           Part A                                                      7
+
+
+2019 USAPhO                                           Part A                                                      7
 
 
 
@@ -338,7 +350,9 @@ c. Find the wind power Pw in terms of P and the temperature ratio T2 /T1 .
       This question inspired by De Vos, Alexis, and Guust Flater, American Journal of Physics 59.8 (1991): 751-754.
 
                        Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                        Part A                                          8
+
+
+2019 USAPhO                                        Part A                                          8
 
 
 
@@ -394,7 +408,9 @@ d. Estimate the maximum possible value of Pw as a fraction of P , to one signifi
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                               Part A                                              9
+
+
+2019 USAPhO                               Part A                                              9
 
 
 
@@ -405,14 +421,16 @@ d. Estimate the maximum possible value of Pw as a fraction of P , to one signifi
 
 
                 Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                          Part A                                         10
+
+
+2019 USAPhO                                          Part A                                         10
 
 
 
 Question A3
 Electric Slide
                                                                           √
-Two large parallel plates of area A are placed at x = 0 and x = d  A in a semiconductor
+Two large parallel plates of area A are placed at x = 0 and x = d   A in a semiconductor
 medium. The plate at x = 0 is grounded, and the plate at x = d is at a fixed potential −V0 , where
 V0 > 0. Particles of positive charge q flow between the two plates. You may neglect any dielectric
 effects of the medium.
@@ -452,25 +470,27 @@ a. For large V0 , the velocity of the positive charges is determined by a strong
         has charge density x ρ dx + σd , where σd is the charge density on the left plate. Then,
         the electric field is given by
                                           Z x                   Z d
-                       E = σ0 /(20 ) +         ρ/(20 ) dx −         ρ/(20 ) dx − σd /(20 ).
+                       E = σ0 /(2 0 ) +         ρ/(2 0 ) dx −         ρ/(2 0 ) dx − σd /(2 0 ).
                                            0                     x
 
         Then, by the Fundamental Theorem of Calculus
                                                       dE  ρ
                                                          = ,
-                                                      dx  0
+                                                      dx   0
 
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                         Part A                                          11
+
+
+2019 USAPhO                                         Part A                                          11
 
 
 
         so
                                                     d2 V   ρ
                                                          =− .
-                                                    dx2    0
+                                                    dx2     0
         This can also be derived from the differential form of Gauss’s Law more easily and is
         known as Poisson’s equation.
 
@@ -501,11 +521,11 @@ a. For large V0 , the velocity of the positive charges is determined by a strong
                                              v=−
                                                       2d3/2
         and
-                                                     3V0 0
+                                                     3V0  0
                                             ρ = − 3/2 1/2 ,
                                                    4d x
         so
-                                                      90 µAV02
+                                                      9 0 µAV02
                                          I = ρAv =              ,
                                                          8d3
         with the current flowing from left to right.
@@ -523,7 +543,9 @@ b. For small V0 , the positive charges move by diffusion. The current due to dif
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                  Part A                                               12
+
+
+2019 USAPhO                                  Part A                                               12
 
 
 
@@ -535,9 +557,9 @@ b. For small V0 , the positive charges move by diffusion. The current due to dif
 
                                               Solution
                                                                                  dρ         3
-       We again have that V (x) = V0 (x/d)b . Note that from Poisson’s equation, dx = −0 ddxV3 ,
+       We again have that V (x) = V0 (x/d)b . Note that from Poisson’s equation, dx = − 0 ddxV3 ,
        so we need b = 3 for this expression to be constant. Therefore,
-                                                6µkB T A0 V0
+                                                6µkB T A 0 V0
                                            I=                 .
                                                     qd3
 
@@ -547,7 +569,7 @@ b. For small V0 , the positive charges move by diffusion. The current due to dif
                                               Solution
        We find the crossover voltage by equating our answers in previous parts, to get
 
-                                       6µkB T A0 V0   90 µAV02
+                                       6µkB T A 0 V0   9 0 µAV02
                                                      =           ,
                                            qd3            8d3
        or
@@ -559,7 +581,9 @@ b. For small V0 , the positive charges move by diffusion. The current due to dif
 
 
                  Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                            Part B                             13
+
+
+2019 USAPhO                            Part B                             13
 
 
 
@@ -580,7 +604,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
               Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                           Part B                                        14
+
+
+2019 USAPhO                                           Part B                                        14
 
 
 
@@ -590,7 +616,7 @@ Strain in the Membrane2
                                                     outer surface
                                                                                        +
 
-                           d                              
+                           d
 
                                                                                        −
                                                     inner surface
@@ -601,20 +627,20 @@ as a spring. It has an effective spring constant k and an equilibrium thickness 
 membrane has a very large area A and negligible curvature.
     The neuron has “ion pumps” that can move ions across the membrane. In the resulting charged
 state, positive and negative ionic charge is arranged uniformly along the outer and inner surfaces
-of the membrane, respectively. The permittivity of the membrane is .
+of the membrane, respectively. The permittivity of the membrane is  .
 
 a. Suppose that, after some amount of work is done by the ion pumps, the charges on the outer
    and inner surfaces are Q and −Q, respectively. What is the thickness d of the membrane?
 
                                                      Solution
-        One charge layer by itself creates an electric field E1 = Q/(2A) in each direction. So the
-        force between the two sides of the membrane FE = QE1 = Q2 /(2A).
+        One charge layer by itself creates an electric field E1 = Q/(2 A) in each direction. So the
+        force between the two sides of the membrane FE = QE1 = Q2 /(2 A).
         This electric force is balanced by the spring force Fs = kx, where x = d0 − d. Equating
         these two forces and solving for d gives gives
 
                                                                Q2
                                                    d = d0 −        .
-                                                              2Ak
+                                                              2 Ak
 
 
 b. Derive an expression for the voltage difference V between the outer and inner surfaces of the
@@ -622,11 +648,11 @@ b. Derive an expression for the voltage difference V between the outer and inner
 
                                                      Solution
         The electric field inside the membrane (as produced by both the left and right plates) is
-        E = Q/(0 κA). So the voltage between them is
+        E = Q/( 0 κA). So the voltage between them is
 
                                                                Q
                                                    V = Ed =       d.
-                                                               A
+                                                                A
 
 
 
@@ -635,7 +661,9 @@ b. Derive an expression for the voltage difference V between the outer and inner
       This question inspired by Partenskii and Jordan, Physical Review E 80, 011112 (2009).
 
                        Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                    Part B                                                15
+
+
+2019 USAPhO                                    Part B                                                15
 
 
 
@@ -643,7 +671,7 @@ b. Derive an expression for the voltage difference V between the outer and inner
                                                               !
                                             Q           Q2
                                         V =       d0 −            .
-                                            A         2Ak
+                                             A         2 Ak
 
      This equation implies that as the charge Q is increased, the voltage first increases and then
      decreases again.
@@ -659,20 +687,20 @@ c. Suppose that the ion pumps are first turned on in the uncharged state, and th
      found by taking the derivative dV /dQ and setting it equal to zero. This procedure gives
                                                r
                                                   kd30 2 3/2
-                                                       
+
                                         Vmax =                 .
-                                                  A 3
+                                                   A 3
 
      The corresponding charge at the maximum voltage is given by
                                                    2
-                                           Q2Vmax = Akd0 .
+                                           Q2Vmax =  Akd0 .
                                                    3
 
      For the ion pumps to turn off, we must have Vmax > Vth . Otherwise the pumps will continue
      to move charge across the membrane until it collapses. Setting Vmax > Vth and solving for
      k gives
-                                               3 2
-                                                3   Vth A
+                                                 3 2
+                                                3   Vth  A
                                          k>                .
                                                 2     d30
 
@@ -687,14 +715,16 @@ d. How much work is done by the ion pumps in each of the following situations? E
           the ion pumps turn off before the membrane thickness d reaches zero. The work W
           done by the ion pumps is equal to the potential energy of the system relative to the
           uncharged state (with Q = 0 and d = 0). That is, W = 21 kx2 + Q2 /(2C), where
-          C = A/d is the capacitance of the membrane. Writing this equation in terms of Q
-          gives W = Q2 d0 /(2A) − Q4 /(82 A2 k).
+          C =  A/d is the capacitance of the membrane. Writing this equation in terms of Q
+          gives W = Q2 d0 /(2 A) − Q4 /(8 2 A2 k).
           k being infinitesimally larger than the critical value means that the ion pumps turn
           off just as the voltage maximum Vth is reached. At this point the charge Q approaches
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                  Part B                                             16
+
+
+2019 USAPhO                                  Part B                                             16
 
 
 
@@ -721,7 +751,9 @@ d. How much work is done by the ion pumps in each of the following situations? E
 
 
                  Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                                                 Part B                              17
+
+
+2019 USAPhO                                                                 Part B                              17
 
 
 
@@ -781,7 +813,9 @@ b. The “lines” in the spectrum result from atoms in the star absorbing speci
 
 
                            Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                   Part B                                                18
+
+
+2019 USAPhO                                   Part B                                                18
 
 
 
@@ -838,7 +872,9 @@ f. Assume the exoplanet is a blackbody with uniform temperature in a circular or
    planet had an appropriate atmosphere, the temperature would increase enough to support life.)
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                     Part B                                           19
+
+
+2019 USAPhO                                     Part B                                           19
 
 
 
@@ -873,7 +909,9 @@ f. Assume the exoplanet is a blackbody with uniform temperature in a circular or
 
 
                  Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                   Part B                                                20
+
+
+2019 USAPhO                                   Part B                                                20
 
 
 
@@ -925,7 +963,9 @@ a. Derive an expression for the force in the rod when it is horizontal, as shown
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                    Part B                                            21
+
+
+2019 USAPhO                                    Part B                                            21
 
 
 
@@ -981,7 +1021,9 @@ a. Derive an expression for the force in the rod when it is horizontal, as shown
 
 
                  Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                       Part B                                            22
+
+
+2019 USAPhO                                       Part B                                            22
 
 
 
@@ -1037,7 +1079,9 @@ b. Derive an expression for the force in the rod when the ball is directly below
 
 
                    Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                                   Part B                                               23
+
+
+2019 USAPhO                                   Part B                                               23
 
 
 
@@ -1048,8 +1092,8 @@ b. Derive an expression for the force in the rod when the ball is directly below
     This makes answering 5M g a tempting pitfall; to get the right answer, we must also account
     for the vertical acceleration of the center of mass. The height of the center of mass is
     yCM = (R/2) cos θ, so
-                                             
-                                d     R             R 2                 
+
+                                d     R             R  2
                         aCM =       − ω sin θ = −       ω cos θ + α sin θ .
                                 dt     2             2
 
@@ -1094,7 +1138,9 @@ c. Let θ be the angle the rod makes with the vertical, so that the rod begins a
 
 
                   Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                        Answer Sheets                          24
+
+
+2019 USAPhO                        Answer Sheets                          24
 
 
 
@@ -1108,7 +1154,9 @@ c. Let θ be the angle the rod makes with the vertical, so that the rod begins a
 
 
               Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                         Answer Sheets                          25
+
+
+2019 USAPhO                         Answer Sheets                          25
 
 
 
@@ -1134,7 +1182,9 @@ A1: Collision Course
 
 
                Copyright c 2019 American Association of Physics Teachers
-2019 USAPhO                         Answer Sheets                          26
+
+
+2019 USAPhO                         Answer Sheets                          26
 
 
 

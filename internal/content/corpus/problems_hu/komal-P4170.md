@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4170. Az ábrán látható ,,égbe vezető lépcső'' minden éle R ellenállású. Mekkora az eredő ellenállás az A és B pontok között?
 
-![figure](../../raw_html/komal_figures/komal-P4170-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4170-fig1.gif)

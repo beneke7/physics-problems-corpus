@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-At what speed should a projectile be projected on the Moon, in order that the height to which it rises is $p$ percent of the radius of the Moon? Let the values of $p$ be the following: $p=1$, $10$ and $100$. (Give your answers to 2 significant figures.) 
+At what speed should a projectile be projected on the Moon, in order that the height to which it rises is $p$ percent of the radius of the Moon? Let the values of $p$ be the following: $p=1$, $10$ and $100$. (Give your answers to 2 significant figures.)
  (4 pont)

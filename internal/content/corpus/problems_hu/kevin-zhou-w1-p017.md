@@ -59,7 +59,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          string for x > 0, but that the point x = 0 stays fixed for some reason. Then this situation
 
                                                       12
-    Kevin Zhou                                                                   Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                   Physics Olympiad Handouts
 
        corresponds to an incoming wave coming from the left, and a flipped wave coming from the
        right. The two meet and cancel at x = 0, and the flipped wave continues on going to the

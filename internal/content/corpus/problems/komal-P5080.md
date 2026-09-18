@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy]
 ---
 
-By what percent does the average speed of the molecules of a sample of gas increase when the temperature of the gas is increased from $27\;{}^\circ$C to $159\;{}^\circ$C, if the gas is 
- $a)$ helium; 
- $b)$ hydrogen? 
+By what percent does the average speed of the molecules of a sample of gas increase when the temperature of the gas is increased from $27\;{}^\circ$C to $159\;{}^\circ$C, if the gas is
+ $a)$ helium;
+ $b)$ hydrogen?
  (3 pont)

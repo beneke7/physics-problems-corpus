@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 859. Egy $R=2r$ sugarú, egyenletes tömegeloszlású körlemezből az ábra szerint az $AOB$ átmérője mentén kivágtunk egy $r$ sugarú körlemezt, és azt az $AOB$ átmérő másik oldalán a lemezre fektettük. Hol van a kapott idom tömeg­közép­pontja?
 
-![figure](../../raw_html/komal_figures/komal-G859-fig1.png)
+![figure](../../figures/komal/figures/komal-G859-fig1.png)

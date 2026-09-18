@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-1 kg water of temperature 80 $^\circ$C is poured onto 10 kg ice of temperature -30 $^\circ$C which is in a thermally isolated container, and then 5 kg water vapour at a temperature of 120 $^\circ$C is added. 
- What is the final state of the system? 
+1 kg water of temperature 80 $^\circ$C is poured onto 10 kg ice of temperature -30 $^\circ$C which is in a thermally isolated container, and then 5 kg water vapour at a temperature of 120 $^\circ$C is added.
+ What is the final state of the system?
  (4 pont)

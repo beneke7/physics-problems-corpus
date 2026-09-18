@@ -12,7 +12,7 @@ provenance_note: "Official NBPhO 2022 solution, Planets. Mathpix OCR of the cach
 **i)** A waxing crescent Moon can be seen immediately after sunset, when the Moon is
 between the Sun and Earth in the appropriate orbital configuration. The answer is A.
 
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p7.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p7.png)
 
 **ii)** The zenith in Tallinn forms an angle $\varphi=59.5^{\circ}$ with the celestial
 equator. At winter solstice the Sun is $\varepsilon=23.5^{\circ}$ below the celestial

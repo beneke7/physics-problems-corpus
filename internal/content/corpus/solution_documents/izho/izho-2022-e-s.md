@@ -58,7 +58,9 @@ equating the accelerations described by formulas (3) and (6).
 obtain
                   ma = mg sin  − F .
          Let us express the value of the static friction force, taking into account the found acceleration, as
-XVIII International Zhautykov Olympiad/Experimental Competition                                    Page 2/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                    Page 2/12
 
                                          1
                   F = mg sin  − ma = mg sin 
@@ -114,7 +116,9 @@ Table 1. Calculation of accelerations.
 
         Based on these data, Graph 1 of the dependence of acceleration on the angle of inclination of the
 plate is drawn.
-XVIII International Zhautykov Olympiad/Experimental Competition                                       Page 3/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                       Page 3/12
 
 
 
@@ -151,7 +155,9 @@ i.e. the new variable Y is a linear function of X = tg  , such that
                   Y = X −  s ,    cr
        Calculations of the chosen variables are provided in Table 2. In the table the highlighted values
 correspond to the motion without slipping.
-XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 4/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 4/12
 
 Table 2. Linearization 1.
                m        X = tg              a
@@ -183,7 +189,9 @@ At the motion
                     c1 = 0.659  0.008
 without slipping:                       ,
                     b1 = 0.0004  0.005
-XVIII International Zhautykov Olympiad/Experimental Competition                                   Page 5/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                   Page 5/12
 
                      c2 = 1.011  0.009
 with slipping:                          .
@@ -247,7 +255,9 @@ Table 3. Linearization 2.
      65        7.286      0.4663                0.8195
      70        8.116      0.3640                0.8804
      75        8.595      0.2679                0.9070
-XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 6/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 6/12
 
 
        Graph 3 shows the linearized dependencies.
@@ -280,7 +290,9 @@ with slipping:                          .
 
 and we finally get
                cr = 0,84  0, 01 = 48  1 .                                                       (21)
-XVIII International Zhautykov Olympiad/Experimental Competition                                          Page 7/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                          Page 7/12
 
                                       Experiment 2: Rolling friction
                                                   Theoretical part
@@ -345,7 +357,9 @@ down
                   =           =         =      .
               ml 4 2 3R 2 6 2 R 2 6 x02
        We substitute these values into equation (28), which yields
-XVIII International Zhautykov Olympiad/Experimental Competition                                       Page 8/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                       Page 8/12
 
                        x                T 2g
                1 − cos  k  = 2 −  r 2 S k .                                                  (31)
@@ -388,7 +402,9 @@ Table 4. Linearization.
    10        2.8             0.067            1.486           0.151
 
         The dependence Y (S ) is shown in the following figure.
-XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 9/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                  Page 9/12
 
 
 
@@ -431,7 +447,9 @@ measurements:
     1.2    the condition for the start of slippinge: the boundary value of the                    0.5
                                                                                        0.2
            static friction force; equality of accelerations (3) and (6);
-XVIII International Zhautykov Olympiad/Experimental Competition                                Page 10/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                                Page 10/12
 
            relation between the critical angle and the friction coefficient: formula
                                                                                          0.3
@@ -494,7 +512,9 @@ measurements:
     1.6                                                                                         1.3
            two lines, the use of numerical theoretical values of the coefficients is     0.5
            acceptable;
-XVIII International Zhautykov Olympiad/Experimental Competition                             Page 11/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                             Page 11/12
 
            numerical value of the critical angle: graded if the method of             0.2
            determination is graded;
@@ -549,7 +569,9 @@ measurements:
            error calculation method;                                                  0.2
            numerical value of the error;                                              0.2
            formula for calculating the rolling friction (only through the slope       0.3
-XVIII International Zhautykov Olympiad/Experimental Competition                        Page 12/12
+
+
+XVIII International Zhautykov Olympiad/Experimental Competition                        Page 12/12
 
            factor);
            numerical value of the rolling friction coefficient (graded if the

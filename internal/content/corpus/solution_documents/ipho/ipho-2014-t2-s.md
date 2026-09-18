@@ -83,7 +83,9 @@ which has the following solutions
                                            𝑅𝑇                    4𝑎𝑝
                                𝑉𝐺 = 2𝑝                  1 ± 1 − 2 02                                 (B1.2).
                                                0                 𝑅 𝑇
-              Theoretical competition. Tuesday, 15 July 2014                                                             2/3
+
+
+              Theoretical competition. Tuesday, 15 July 2014                                                             2/3
         Smaller root in (B1.2) gives the volume in an unstable state on the rising branch of thevan der Waals
 isotherm. The volume of gas is given by the larger root, since at 𝑎 = 0an expression for the volume of an
 ideal gasshould be obtained, i.e.
@@ -160,7 +162,9 @@ and using𝑉𝐺 ≫ 𝑉𝐿 , (B7.1) yields
                               𝐿 = 𝜇𝑉 =                           𝑏𝑅𝑇       ≈ 𝜇𝑏 = 1.0 ∙ 106 kg                            (B7.2).
                                               𝐿        𝜇𝑏      1+
                                                                   𝑎
-            Theoretical competition. Tuesday, 15 July 2014                                   3/3
+
+
+            Theoretical competition. Tuesday, 15 July 2014                                   3/3
 B8.Consider some water of volume𝑉. To make a monolayer of thickness 𝑑 out of it, the following work
 must be done
                             𝐴 = 2𝜎𝑆                                                     (B8.1).

@@ -29,7 +29,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     azt a 16. feladatban megmutattuk, ez elegendő ahhoz, hogy töltések induljanak el a vezetékben, még akkor is, ha
 
                                                        9
-   Kevin Zhou                                                                             Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                             Physics Olympiad Handouts
 
 
     az elektromos tér a vezeték egyes pontjain „rossz” irányba mutat, mivel a vezeték kapacitása elhanyagolható: a
@@ -45,5 +47,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
    különböző szakaszainak hozzájárulásai (az első esetben a vízszintes és függőleges, a másodikban az egyenes és
 
 
-                  01^
+                  01^
    görbült szakasz hozzájárulásai)?

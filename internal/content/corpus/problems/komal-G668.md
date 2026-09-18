@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry]
 ---
 
-Watch the following YouTube video: https://www.youtube.com/watch?v=hvqQ1XG1aQE , make your own button spinner (buzzer) from a button of appropriate size and a piece of thin thread, and then try it. Why does the button begin to spin fast? 
+Watch the following YouTube video: https://www.youtube.com/watch?v=hvqQ1XG1aQE , make your own button spinner (buzzer) from a button of appropriate size and a piece of thin thread, and then try it. Why does the button begin to spin fast?
  (3 pont)

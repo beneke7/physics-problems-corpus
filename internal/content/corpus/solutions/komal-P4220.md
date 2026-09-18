@@ -9,6 +9,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a.)$ $P^{\rm pill}_{\rm min}=0$ W és $P^{\rm pill}_{\rm max}=700$ W. 
- $b.)$ $I_{\rm max}=2{,}15$ A. 
+ $a.)$ $P^{\rm pill}_{\rm min}=0$ W és $P^{\rm pill}_{\rm max}=700$ W.
+ $b.)$ $I_{\rm max}=2{,}15$ A.
  $c.)$ Mert gyorsan túlmelegedne és leégne a fűtőszál.

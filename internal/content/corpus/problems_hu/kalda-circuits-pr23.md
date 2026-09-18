@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható áramkörben az $X$ elem $R_{X}$ ellenállása a rajta mérhető $V_{X}$ feszültségtől függ: $V_{X}\leq1 \mathrm{~V}$ esetén $R_{X}=1 \Omega$, $V_{X}>1 \mathrm{~V}$ esetén pedig $R_{X}=2 \Omega$. Három ilyen elemet ideális ampermérővel az alábbi ábra szerint kapcsolunk össze; az áramkör kapcsaira kapcsolt feszültség időben az ábrán látható módon változik. Rajzoljuk fel az ampermérő kijelzését az idő függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr23-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr23-fig1.jpg)

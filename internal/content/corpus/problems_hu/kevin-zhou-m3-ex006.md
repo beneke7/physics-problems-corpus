@@ -38,7 +38,9 @@ az R2-ben tárgyalt relativisztikus ütközéseket.)
 
 
                                                   10
-Kevin Zhou                                                                          Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                                          Fizikaolimpiai feladatgyűjtemény
 
 
 
@@ -92,7 +94,9 @@ az R2-ben tárgyalt relativisztikus ütközéseket.)
 
 
                                                         11
-    Kevin Zhou                                                                    Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                    Fizikaolimpiai feladatgyűjtemény
 
 
        Megoldás

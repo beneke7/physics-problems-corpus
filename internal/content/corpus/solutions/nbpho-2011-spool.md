@@ -63,21 +63,21 @@ ii) (2 pts) The easiest way to solve this part is to use the energy
 balance for infinitesimal displacement of the cylinder and apply
 the answerto the previousquestion:
 Fu·dt = d
-
+
 M
 2
 v2
-
+
 1 +
 J
 MR2
-
+
 = Mvdv
-
+
 1 +
 J
 MR2
-
+
 ⇒
 a =
 dv
@@ -86,7 +86,7 @@ dt
 Fu
 Mv 1 + J
 MR2
- =
+  =
 F
 M
 ·
@@ -110,7 +110,7 @@ R
 MR2 cosα
 1 + J
 MR2
- Mg
+  Mg
 F
 − sinα
 iv) The angular moment of the spool with respect to the edge of
@@ -120,7 +120,7 @@ Mu(R − H) + J
 u
 R
 = J + MR2
- v
+  v
 R
 ⇒
 v = u 1 −

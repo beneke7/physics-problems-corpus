@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-A circular wire loop of radius $d$ is formed from a thin wire. A small conducting ring of radius $r$ (with $r \ll d$) and resistance $R$ is placed at its centre, with their axes coinciding. A steady current of magnitude $I$ flows in the loop. What total charge passes through a given cross-section of the small ring as it is moved very far away from the loop? (Self-inductive effects may be neglected.) 
+A circular wire loop of radius $d$ is formed from a thin wire. A small conducting ring of radius $r$ (with $r \ll d$) and resistance $R$ is placed at its centre, with their axes coinciding. A steady current of magnitude $I$ flows in the loop. What total charge passes through a given cross-section of the small ring as it is moved very far away from the loop? (Self-inductive effects may be neglected.)
  (4 pont)

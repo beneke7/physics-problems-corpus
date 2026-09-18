@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200703"
 verification_status: pending
 ---
 
-Measure in which case will a cup of milk coffee be colder: if cold milk is poured into the hot coffee immediately and then the mixture is left to cool down for a while, or if the hot coffee is left to cool for the same time as in the previous case, and then cold milk is is added. 
+Measure in which case will a cup of milk coffee be colder: if cold milk is poured into the hot coffee immediately and then the mixture is left to cool down for a while, or if the hot coffee is left to cool for the same time as in the previous case, and then cold milk is is added.
  (6 pont)

@@ -31,7 +31,9 @@ Példa 5
 
 
                                                   11
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
        Megoldás
@@ -51,7 +53,7 @@ Példa 5
        terét, amiből Q ∼ (ℓ/L)2 q következik. Az indukált töltésekre ható erő ezért
 
                                                                        kq 2 ℓ3
-                                                     
+
                                            1        1        kqQℓ
                              F ∼ kqQ             −      ∼  −       ∼ −         .
                                         (L + ℓ)2 L2           L3        L5

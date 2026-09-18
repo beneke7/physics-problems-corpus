@@ -77,7 +77,9 @@ we finally obtain the required values of the spacecraft speeds
                𝑣𝑚𝑎𝑥 = √𝑉𝑚𝑎𝑥 + 𝑣2𝑀 = 3.45 km/s.                                                            (14)
 
                                                             Content                              Points
-XXI International Zhautykov Olympiad/Theoretical Competition                                              p. 2/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                              p. 2/12
 
                          2
                        𝑚𝑣2𝐸           𝑚𝑀𝐸
@@ -145,7 +147,9 @@ and solving the resulting set of equations together, we find
 Here the condition is used that a volume of 22.4 liters under normal conditions contains 1 mole of gas.
 
                                                        Content                                   Points
-XXI International Zhautykov Olympiad/Theoretical Competition                                              p. 3/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                              p. 3/12
 
  Formula (1): 𝐴𝑉 = 𝑃𝑉                                                                               0.4
  Formula (2): 𝐴𝑎𝑡𝑚 = −𝑃0 𝑉0                                                                         0.4
@@ -191,7 +195,9 @@ shift when moving from one bulb to another is an integer number of image cells, 
                        𝑎
        Given the numerical data given in the problem statement, the numerical values of possible screen
 positions are given in the table below.
-XXI International Zhautykov Olympiad/Theoretical Competition                                            p. 4/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                            p. 4/12
 
                                  𝑚             1         2         3         4
                                𝑆𝑚 , см      2,56      6,90      15,8      44,4
@@ -229,7 +235,9 @@ from which we find
                     2𝑇 +𝑇
                𝑇 = 13 2 = 50℃.                                                                          (4)
 2.2 The heat flux along the rod must remain constant, which yields the differential equation
-XXI International Zhautykov Olympiad/Theoretical Competition                                            p. 5/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                            p. 5/12
 
                1 𝑑𝑇
                     = 𝑏 = 𝑐𝑜𝑛𝑠𝑡,                                                                         (5)
@@ -285,7 +293,9 @@ the same, we obtain the relation
 whence
                         1
                𝑇𝐶 = 5 (3𝑇𝐴 + 2𝑇𝐵 ) = 60℃.                                                                (15)
-XXI International Zhautykov Olympiad/Theoretical Competition                                             p. 6/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                             p. 6/12
 
 2.6 Let us add another heat source to the system at point 𝐴′ , which is located diametrically opposite to point
 𝐵, and also another heat sink at point 𝐵 ′ , diametrically opposite to point 𝐴, see the figure below, which
@@ -344,7 +354,9 @@ where the thermal resistance of a spherical layer of thickness 𝐻 is given by 
                                              𝐸   𝐸   0
        The actual core temperature is, of course, much lower, since the thermal balance with the Sun must
 be taken into account.
-XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 7/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 7/12
 
 2.10 The change over time in the amount of heat stored in the core is equal to
              𝑑𝑄         𝑑𝑇
@@ -415,7 +427,9 @@ so we finally obtain
                            𝑅                                                               0.3
            Formula (20 𝜏 = 𝐸 𝜏0
                                  𝑟0
-XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 8/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 8/12
 
            Numerical value in formula (20): 𝜏 = 2.56 ∙ 108 ℎ = 2.92 ∙ 104 𝑦𝑒𝑎𝑟𝑠             0.3
            Formula (21): 𝑃 = 4𝜋𝑅𝐸2 𝜎𝑇 4                                                     0.2
@@ -469,7 +483,9 @@ from which we finally find
                 𝜀𝑖𝑛𝑑 (𝑥) = − 𝑑𝑥 𝑑𝑡 = 𝑉𝜋𝑅 2 𝐵0 𝑎3        5.                                              (5)
                                                                 (𝑥 2 +𝑎2 )2
          The graph of this dependence is shown schematically in the figure below.
-XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 9/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 9/12
 
 3.4 Since the ring is superconducting, the induction EMF that occurs in the ring when the external magnetic
 flux changes is compensated by the self-induction EMF, that is,
@@ -520,7 +536,9 @@ also using the initial condition
                 𝐼 = − 02𝐿𝑚 (1 − √𝑅2 2).                                                            (13)
                                    +𝑧
          The schematic graph of this dependence is shown in the figure below.
-XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 10/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                          p. 10/12
 
 
 
@@ -576,7 +594,9 @@ calculated using the formula
               𝑊𝑒 =             .                                                                        (25)
                      8𝜋𝜀0 𝑟0
        Equating this energy to the rest energy
-XXI International Zhautykov Olympiad/Theoretical Competition                                         p. 11/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition                                         p. 11/12
 
                𝑊𝑒 = 𝑚𝑒 𝑐 2 ,                                                                          (26)
 we find the classical radius of the electron
@@ -645,7 +665,9 @@ we obtain for the sought mass ratio
           Formula (15): 𝑚𝑒 𝑑𝑡 = − 2𝜋𝑅 𝑑𝑡
   3.10                                                                                                 0.6
           Formula (16): 𝑀 = 2𝑚𝑒 𝑣𝑅                                                        0.2
-XXI International Zhautykov Olympiad/Theoretical Competition              p. 12/12
+
+
+XXI International Zhautykov Olympiad/Theoretical Competition              p. 12/12
 
                                        𝑒
          Formula (17): ∆𝑀 = − 𝜋 ∆𝛷                                  0.2

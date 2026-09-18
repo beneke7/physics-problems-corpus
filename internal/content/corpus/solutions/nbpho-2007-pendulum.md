@@ -14,14 +14,14 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2007_
 
 2. Pendulum (7 pts)
 1) The smallness of the oscillations means that the angle of the arc for-
-med by the rod is small, α = l/R 
+med by the rod is small, α = l/R
  1. Therefore, the force returning
 the ball is almost horizontal, F = k/R = kα/l, and the horizontal
 displacement of the ball is x = R(1 − cosα) ≈ Rα2
 /2 = lα/2, hence
 α = 2x/l.
 For horizontalequation of motion,we can neglect the gravity force,
-which is of the order of mgα 
+which is of the order of mgα
  αk/l; the right-hand side here hap-
 pens to be the elastic force. So, mẍ = −kα/l = −2kx/l2
 , hence

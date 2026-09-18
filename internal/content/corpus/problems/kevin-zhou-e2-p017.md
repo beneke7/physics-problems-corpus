@@ -29,7 +29,9 @@ solution_language: en
     No matter how one attaches the wire, E · ds along the wire should be equal to V . And as we’ve
 
                                                        9
-   Kevin Zhou                                                                             Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                             Physics Olympiad Handouts
 
 
    argued in problem 16, this is sufficient to cause charges to move along the wire, even if the electric
@@ -46,5 +48,5 @@ solution_language: en
    contributions from the distinct segments of the wire (the horizontal and vertical parts in the first
 
 
-                  01^
+                  01^
    case, and the straight and curved parts in the second)?

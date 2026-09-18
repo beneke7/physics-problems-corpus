@@ -27,7 +27,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                      1
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
 
      (a) A létrát először pontosan függőlegesen állítjuk, a munkás pedig felmászik a közepéig. Rajzoljunk szabadtest-ábrát, amelyen feltüntetjük a létrára ható összes erőt és megnevezzük őket. Egyensúlyban vannak-e az erők?

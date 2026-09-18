@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2011
 1. feladat. Pályafutásuk végén a sorsukra hagyott m¶holdak a sebesség négyzetével arányos légellenállási er® hatá-
 sára fokozatosan veszítenek me hanikai energiájukból, és végül a légkör s¶r¶bb rétegeibe érve elégnek. Belátható, hogy
 az eredetileg körpályákon kering® m¶holdak a Föld felszínéhez közeledve mindvégig közelít®leg körpályákon haladnak,
-miközben a körpályák sugara lassan sökken.
+miközben a  körpályák  sugara lassan sökken.
 Tegyük fel, hogy egy m = 500 kg tömeg¶ m¶holdat, amely az Egyenlít® síkjában, h = 400 km -es magasságban
 körpályán kering, magára hagynak! A m¶holdra ható légellenállási er®t az Flég = K̺v2
 alakban adhatjuk meg, ahol
@@ -47,8 +47,8 @@ kg,
 m3
 /(kg · s2
 ).
-a) A feladatban megfogalmazott feltételek szerint a m¶holdak a Föld felszínéhez közeledve mindvégig közelít®en
-körpályán haladnak, ezért jó közelítésben írhatjuk:
+a) A feladatban megfogalmazott feltételek szerint  a m¶holdak a Föld felszínéhez közeledve mindvégig közelít®en
+körpályán haladnak , ezért jó közelítésben írhatjuk:
 Fgrav = macp, γ
 mM
 r2
@@ -94,11 +94,11 @@ Eössz = Ekin + Epot =
 2
 mv2
 +
-
+
 −γ
 mM
 r
-
+
 .
 E két rész azonban kifejezhet® egymásból. Írjuk fel újra a dinamika alaptörvényét:
 γ
@@ -140,7 +140,7 @@ illetve
 Flég · v =
 ∆ 1
 2mv2
-
+
 ∆t
 = mv
 ∆v
@@ -205,7 +205,7 @@ Határozzuk meg a poten iális energia és a pályasugár változásának viszon
 =
 ∆ −γmM
 r
-
+
 ∆r
 = γ
 mM
@@ -267,24 +267,24 @@ r = r2, valamint ε megadott értékét behelyettesítve
 m3
 .
 Kiegészítés: Az a) kérdésre mg = mv2
-/r felhasználásával is válaszolhatunk, ha 
+/r felhasználásával is válaszolhatunk, ha
 gyelembe vesszük a gravitá iós gyorsulás
 magasságfüggését: g = g0
-
+
 1 −
 h
 r
-2
+ 2
 . Ezzel
 v =
 √
 gr =
-
+
 1 −
 h
 r
-
+
 √
 g0r,
 ahol g0 az egyenlít®i gravitá iós gyorsulás, amely azonban a táblázatban adott egyenlít®i nehézségi gyorsulásnál nagyobb!
-A különbség a Föld forgásából adódó  entri gyorsulás.
+A különbség a Föld forgásából adódó   entri  gyorsulás.

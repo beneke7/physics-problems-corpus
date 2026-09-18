@@ -34,7 +34,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                          12
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
      (c) Kapcsolódó megjegyzésként: egy k rugóállandójú rugón lévő részecske átlagos energiája az ekvipartíció-tétel szerint kB T, a k értékétől függetlenül. De k → 0 esetén szabad részecskét kapunk, amelynek átlagos energiája kB T /2. Hogyan változhat az átlagos energia ugrásszerűen?

@@ -46,9 +46,9 @@ This problem investigates a simple device that relies on piezoelectricity, the p
 - **N** Wooden clothes peg.
 - **O** Pencil, pen and pencil sharpener.
 
-![Figure 1: Overview of all the materials used in this experiment.](../../sources/eupho/figures/eupho-2024-E1-1.png)
+![Figure 1: Overview of all the materials used in this experiment.](../../../../../sources/eupho/figures/eupho-2024-E1-1.png)
 
-![Figure 2: The most common circuit symbols: A - resistor, B - ammeter, C - voltmeter, D - ohmmeter, E - switch, F - battery, G - capacitor, H - diode, I - piezo element. Wires marked with a red star have a red coating.](../../sources/eupho/figures/eupho-2024-E1-2.png)
+![Figure 2: The most common circuit symbols: A - resistor, B - ammeter, C - voltmeter, D - ohmmeter, E - switch, F - battery, G - capacitor, H - diode, I - piezo element. Wires marked with a red star have a red coating.](../../../../../sources/eupho/figures/eupho-2024-E1-2.png)
 
 ## Task E.1 — Elasticity of the ball (2.0 pts)
 

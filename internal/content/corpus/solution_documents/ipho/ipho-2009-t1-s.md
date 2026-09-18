@@ -61,7 +61,9 @@ THEORETICAL PROBLEM No. 1
 
 
 2f    L1  I E E1  I M 1M 1  3.41034 kg m2 s-1                           0.2
-2g    D2  5.4 108 m, that is D2 1.4 D1                                                      0.3
+
+
+2g    D2  5.4 108 m, that is D2 1.4 D1                                                      0.3
 
 
 2h    2 1.6106 s-1, that is, a period of 46 days.                                          0.3
@@ -121,7 +123,9 @@ THEORETICAL PROBLEM No. 1
           6 G m M M ro2 sin( ) cos( )
       
                       D13
-3f       6 G m M M ro2 sin( ) cos( )                                            0.5
+
+
+3f       6 G m M M ro2 sin( ) cos( )                                            0.5
                       3
                                         4.1  1016 N m
                      D1
@@ -182,7 +186,9 @@ THEORETICAL PROBLEM No. 1
           2        2              D1
      Using that
      M2 1 D13  G M E , we get
-        1           1 GM E M M
+
+
+        1           1 GM E M M
      E  I E E21 
         2           2   D1
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202412"
 verification_status: flagged
 ---
 
-Investigate the bounces of a ping-pong ball on at least three different solid surfaces (wood, glass, paving slabs, etc.) using a sound processing program or a phone application. Measure the coefficient of restitution, typical for the bounces. 
+Investigate the bounces of a ping-pong ball on at least three different solid surfaces (wood, glass, paving slabs, etc.) using a sound processing program or a phone application. Measure the coefficient of restitution, typical for the bounces.
  (6 pont)

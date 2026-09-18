@@ -27,10 +27,10 @@ techniques: [conservation-laws, extremization]
 （1）求空欹器自由悬挂平衡时 $Z$ 轴与坚直方向的夹角。
 （2）求空欹器绕一对悬挂点所在轴的转动惯量及
 
-![](cpho-f-2020-q7-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2020-q7-fig01.png)
 图7a
 
-![](cpho-f-2020-q7-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2020-q7-fig02.png)
 图7b
 
 其在平衡位置附近微振动的角频率（已知密度为 $\rho$ 、半径为 $R$ 的匀质球体绕过其质心的轴的转动惯量为 $I_{1}=\frac{8}{15} \pi \rho R^{5}$ ；半径为 $R$ 、长度为 $L$ 的匀质圆柱体绕过其质心且平行于圆柱底面的轴的转动惯量为 $I_{2}=\frac{\pi \rho R^{2} L\left(3 R^{2}+L^{2}\right)}{12}$ ）。

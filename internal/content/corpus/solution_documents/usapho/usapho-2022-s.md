@@ -62,7 +62,9 @@ We acknowledge the following people for their contributions to this year’s exa
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                            Student Instructions                                        2
+
+
+2022 USAPhO                            Student Instructions                                        2
 
 
 
@@ -105,7 +107,9 @@ Below are instructions for writing your solutions.
      You may use a ruler, pencil, pen, or piece of paper as a straightedge.
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                             Student Instructions                                    3
+
+
+2022 USAPhO                             Student Instructions                                    3
 
 
 
@@ -134,7 +138,9 @@ You may use this sheet for both parts of the exam.
 
 
                  Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                   Part A                                               4
+
+
+2022 USAPhO                                   Part A                                               4
 
 
 
@@ -185,7 +191,9 @@ b. Find the maximum possible value of λ before the bridge collapses.
 
 
                   Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part A                                              5
+
+
+2022 USAPhO                                    Part A                                              5
 
 
 
@@ -224,7 +232,7 @@ c. Now suppose that one support remains at the left end, while the other is a di
      support would become negative, in which case the bridge would tip over to the right.
      Now consider the system consisting of the points on the rod with 0 < x < x0 , where x0 < d.
      To balance the forces, the upward force from the rest of the rod must be
-                                                           
+
                                                 x0     ℓ
                                      Fr = W        +     −1 .
                                                  ℓ    2d
@@ -244,7 +252,9 @@ c. Now suppose that one support remains at the left end, while the other is a di
 
 
                   Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part A                                                  6
+
+
+2022 USAPhO                                    Part A                                                  6
 
 
 
@@ -297,7 +307,9 @@ d. Find the value of d that maximizes the load λ that the bridge can take befor
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                     Part A                                                   7
+
+
+2022 USAPhO                                     Part A                                                   7
 
 
 
@@ -352,7 +364,9 @@ b. As more charge is added to the droplet by the current source, it continues to
    repeatedly. What is the charge qn on the nth ejected droplet? Give your answer in terms of Q0 .
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                       Part A                                                 8
+
+
+2022 USAPhO                                       Part A                                                 8
 
 
 
@@ -421,7 +435,9 @@ c. In the limit where all of the initial mass of the droplet has been ejected, w
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                      Part A                                                      9
+
+
+2022 USAPhO                                      Part A                                                      9
 
 
 
@@ -456,7 +472,7 @@ a. Consider a light ray that enters the droplet with impact parameter b, reflect
    inside more than once, or never enter at all, but for simplicity we will ignore these other paths.)
 
                                                 Solution
-     The angle the incoming light ray makes with to the normal of the droplet is θ1 = arcsin(x).
+     The angle the incoming light ray makes with to the normal of the droplet is θ 1 = arcsin(x).
      By Snell’s law, the angle to the normal inside the droplet is θ2 = arcsin x/n .
 
       i. The first refraction causes a deflection of θ1 − θ2 .
@@ -465,7 +481,7 @@ a. Consider a light ray that enters the droplet with impact parameter b, reflect
          the droplet. This causes a deflection of θ1 − θ2 , with the same sign as in part (i).
 
      Thus, we conclude
-                                                               
+
                         ϕ(x) = π − 4θ2 + 2θ1 = π − 4 arcsin x/n + 2 arcsin(x).
 
      The definition of ϕ is convention-dependent, so answers that differed by a minus sign and/or
@@ -473,7 +489,9 @@ a. Consider a light ray that enters the droplet with impact parameter b, reflect
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                     Part A                                                10
+
+
+2022 USAPhO                                     Part A                                                10
 
 
 
@@ -533,7 +551,9 @@ c. Find the angle ϕ0 of the rainbow in terms of n. (Hint: the derivative of arc
 
 
                     Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part A                                              11
+
+
+2022 USAPhO                                    Part A                                              11
 
 
 
@@ -567,11 +587,11 @@ e. A glory is an optical phenomenon which involves light scattered directly back
      vanishes, and sin ϕ vanishes for ϕ = π. Therefore, we will have a caustic at ϕ = π as long as
      light can be reflected backwards at all, i.e. whenever there is a solution to ϕ(x) = π. That is
      because at this angle, all the outgoing light is directed at a single point on the screen.
-     We thus need to solve                                    
+     We thus need to solve
                                       arcsin(x) = 2 arcsin x/n .
      Taking the sine of both sides and using the double angle formula gives
                                                               √
-                                                      2x n2 − x2
+                                                         2x n2 − x2
                             x = 2(x/n) cos arcsin x/n =                 .
                                                                  n2
      Solving for n gives                            √
@@ -590,7 +610,9 @@ e. A glory is an optical phenomenon which involves light scattered directly back
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                 Part A                                            12
+
+
+2022 USAPhO                                 Part A                                            12
 
 
 
@@ -601,7 +623,9 @@ e. A glory is an optical phenomenon which involves light scattered directly back
 
 
                  Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                           Part A                              13
+
+
+2022 USAPhO                           Part A                              13
 
 
 
@@ -622,7 +646,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
               Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part B                                             14
+
+
+2022 USAPhO                                    Part B                                             14
 
 
 
@@ -631,7 +657,7 @@ Question B1
 Virial Reality
 The ideal gas law states that P Vm = RT , where Vm = V /n is the volume per mole of gas. However,
 any real gas will exhibit deviations from the ideal gas law, described by the virial expansion,
-                                                                      
+
                                                 B(T ) C(T )
                               P Vm = RT 1 +           +        + . . .   .
                                                  Vm       Vm2
@@ -679,7 +705,7 @@ b. What is the percentage change in Vm at these temperatures if one accounts for
 
 
 c. In 1910, van der Waals was awarded the Nobel Prize for formulating the equation
-                                           
+
                                           a
                                     P + 2 (Vm − b) = RT
                                          Vm
@@ -687,17 +713,19 @@ c. In 1910, van der Waals was awarded the Nobel Prize for formulating the equati
    B(T )? You may assume that b ≪ Vm .
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part B                                         15
+
+
+2022 USAPhO                                    Part B                                         15
 
 
 
 
                                              Solution
-     We have                                                              
+     We have
                                       a     RT      RT                 b
                                 P+       =        ≈              1+            .
                                      Vm2   Vm − b   Vm                Vm
-     Rearranging yields                                  
+     Rearranging yields
                                                   b   a
                                    P Vm ≈ RT 1 +    −
                                                  Vm Vm RT
@@ -734,7 +762,9 @@ e. In this problem, we have neglected terms in the virial expansion beyond B(T )
    correction due to B(T ) is at most 10%, for nitrogen gas at atmospheric pressure.
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                               Part B                                          16
+
+
+2022 USAPhO                               Part B                                          16
 
 
 
@@ -756,7 +786,9 @@ e. In this problem, we have neglected terms in the virial expansion beyond B(T )
 
 
                 Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                        Part B                                            17
+
+
+2022 USAPhO                                        Part B                                            17
 
 
 
@@ -809,7 +841,9 @@ c. When the charge is a small distance ∆x from the center of the ring, find th
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                        Part B                                         18
+
+
+2022 USAPhO                                        Part B                                         18
 
 
 
@@ -876,7 +910,9 @@ e. Suppose the electric charge transforms between reference frames as Q′ = γ 
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                    Part B                                              19
+
+
+2022 USAPhO                                    Part B                                              19
 
 
 
@@ -908,7 +944,9 @@ To solve this problem, you will need the following results from relativity:
 
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                       Part B                                              20
+
+
+2022 USAPhO                                       Part B                                              20
 
 
 
@@ -944,7 +982,7 @@ a. First, we investigate the motion of the electron in general.
                                                       = m∗
                                                    dt      dt
         so by the chain rule, we conclude
-                                                      −1
+                                                        −1
                                                   dv              1      1
                                        m∗ =                  =                .
                                                   dp             V b2 cos(pb)
@@ -961,7 +999,9 @@ b. Now suppose a metal rod of infinite length, aligned with the x-axis, contains
    i. For an electron that starts at x = 0 at time t = 0, find its position x(t).
 
                    Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                     Part B                                                 21
+
+
+2022 USAPhO                                     Part B                                                 21
 
 
 
@@ -972,7 +1012,7 @@ b. Now suppose a metal rod of infinite length, aligned with the x-axis, contains
                                           v(t) = −V b sin(eE0 tb).
 
        Integrating both sides gives
-                                                 V                 
+                                                 V
                                        x(t) =       cos(eE0 tb) − 1 .
                                                 eE0
 
@@ -1015,7 +1055,9 @@ b. Now suppose a metal rod of infinite length, aligned with the x-axis, contains
 
 
                   Copyright ©2022 American Association of Physics Teachers
-2022 USAPhO                                Part B                                            22
+
+
+2022 USAPhO                                Part B                                            22
 
 
 

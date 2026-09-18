@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-A narrow circular sector of a black disc is painted white. The disc is rotated about an axis which goes through its centre, and is perpendicular to the disc, and the rotated disc is illuminated with strobe light (a periodically flashing light source). What is the relationship between the number of revolutions $n$ of the disc and the flashing frequency $f$ , if not only one, but a number of $p$ seemingly steady white sectors can be observed on the disc ($p=2, 3, 4, \ldots$)? 
+A narrow circular sector of a black disc is painted white. The disc is rotated about an axis which goes through its centre, and is perpendicular to the disc, and the rotated disc is illuminated with strobe light (a periodically flashing light source). What is the relationship between the number of revolutions $n$ of the disc and the flashing frequency $f$ , if not only one, but a number of $p$ seemingly steady white sectors can be observed on the disc ($p=2, 3, 4, \ldots$)?
  (4 pont)

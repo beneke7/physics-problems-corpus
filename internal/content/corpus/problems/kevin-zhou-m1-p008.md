@@ -39,7 +39,9 @@ solution_language: en
           unique solution with x(0) = 1 and ẋ(0) = 0.
 
                                                       4
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
     2    Tricks

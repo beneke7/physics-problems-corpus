@@ -21,7 +21,7 @@ links_en: nbpho-2014-dc-dc-converter
 
 Ahhoz, hogy nagy feszültségű energiaforrást nyerjünk egy akkumulátorból, az alábbi kapcsolást használjuk.
 
-![ábra](../../sources/nbpho/figures/nbpho-2014-dc-dc-converter-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2014-dc-dc-converter-fig1.jpg)
 
 Egy elektromágneses kapcsoló $K_{1}$ egy $\mathscr{E}$ elektromotoros erőjű akkumulátort csatol egy $L$ induktivitású induktor-hoz: zárt helyzetben van, ha az induktor árama nulla (egy rugó tartja ezt az állapotot), de ha az induktor árama elér egy $I_{0}$ kritikus értéket, az induktor által létrehozott mágneses tér megnyitja. A tehetetlenség miatt, ha a kapcsoló nyitott, akkor még ha az áram nullára csökken is, egy $\tau_{K}$ ideig szükséges, hogy újra bezáruljon.
 

@@ -30,7 +30,9 @@ Example 10
     with the skater, as the skater pulls their arms in radially. Specifically, model the skater as two
 
                                                    18
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
   point masses m a distance r from the axis. Show that balancing the Coriolis and azimuthal
   forces yields a result equivalent to using angular momentum conservation in an inertial frame.

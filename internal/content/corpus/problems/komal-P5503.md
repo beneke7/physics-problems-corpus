@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-A vessel of volume $V = 80~\mathrm{dm}^3$ contains a sample of gas of mass $m = 191$ g and of heat capacity $C_V = 124.5$ J/K, at a temperature of $T = 402\;{}^\circ$C, and at a pressure of $p = 4.2\cdot 10^5$ Pa. What is the degree of freedom of the particles of the gas? How many gas particles are in the vessel? What kind of gas can be in the vessel? 
+A vessel of volume $V = 80~\mathrm{dm}^3$ contains a sample of gas of mass $m = 191$ g and of heat capacity $C_V = 124.5$ J/K, at a temperature of $T = 402\;{}^\circ$C, and at a pressure of $p = 4.2\cdot 10^5$ Pa. What is the degree of freedom of the particles of the gas? How many gas particles are in the vessel? What kind of gas can be in the vessel?
  (4 pont)

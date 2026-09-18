@@ -19,4 +19,4 @@ verification_status: pending
 
 Element $X$ in the circuit below has a resistance $R_{X}$ which depends on the voltage $V_{X}$ on it: for $V_{X} \leq 1 \mathrm{~V}, R_{X}=1 \Omega$, and for $V_{X}>1 \mathrm{~V}, R_{X}=2 \Omega$. Three such elements are connected with an ideal ammeter as shown below; the voltage on the leads of the circuit varies in time as shown in the graph. Plot the reading of the ammeter as a function of time.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr23-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr23-fig1.jpg)

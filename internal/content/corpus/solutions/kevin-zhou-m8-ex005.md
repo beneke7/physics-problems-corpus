@@ -171,7 +171,7 @@ N − Mg cosθ = −Mac,
 so N = Mg 5
 2 cosθ − 3
 2
-
+
 . This becomes zero at θ = cos−1(3/5).
 [3] Problem 11 (Cahn). A tall, thin brick chimney of height L is slightly perturbed from its vertical
 equilibrium position so that it topples over, rotating rigidly about its base B until it breaks at a
@@ -187,7 +187,7 @@ Kevin Zhou Physics Olympiad Handouts
 (c) At what point is the chimney most likely to break? Do you think the limiting factor is the
 chimney’s maximal compressive strength, tensile strength, or shear strength?
 Solution. See the solution here.
-[3] Problem 12.  ^ 1 0IPhO 2014, problem 1A.
+[3] Problem 12.   ^ 1 0IPhO 2014, problem 1A.
 [2] Problem 13 (PPP 14). A bicycle is supported so that it can move forward or backwards but
 cannot fall sideways; its pedals are in their highest and lowest positions.
 A student crouches beside the bicycle and pulls a string attached to the lower pedal, providing a
@@ -216,13 +216,13 @@ fast without your feet having to move like crazy. And this is indeed true in the
 has rp and rg,p comparable, and R ≫ rg,w.
 Therefore, if you move the pedal forward a little, the bike goes backward a lot more, so the
 net motion of the pedal (relative to the ground) is backward, consistent with part (a).
-[4] Problem 14.  r 1 0APhO 2005, problem 1B. A problem on parametric resonance, an idea we first
+[4] Problem 14.   r 1 0APhO 2005, problem 1B. A problem on parametric resonance, an idea we first
 encountered in M4. (The problem is good, but it’s slightly underspecified, leading to two possible
 answers which were both accepted. If you get stuck, just make a reasonable assumption.)
 22
 Kevin Zhou Physics Olympiad Handouts
-[4] Problem 15.  m 1 0INPhO 2020, problem 5. A tough angular collision problem.
-[5] Problem 16.  h 1 0EuPhO 2019, problem 2. A tough problem about the motion of an rigid body
+[4] Problem 15.   m 1 0INPhO 2020, problem 5. A tough angular collision problem.
+[5] Problem 16.   h 1 0EuPhO 2019, problem 2. A tough problem about the motion of an rigid body
 in a magnetic field.
 3 Frictional Losses
 These miscellaneous problems are grouped under the theme of friction or energy dissipation.
@@ -242,10 +242,10 @@ Mv2
 1
 2
 (m + M)
-
+
 mv
 m + M
-2
+ 2
 =
 1
 2
@@ -292,7 +292,7 @@ tanθ
 This is a real practical issue for roofs, known as thermal creep.
 [4] Problem 19. @ 1 0APhO 2010, problem 1A. An instructive model of an inelastic collision; expect
 some messy intermediate expressions. I recommend the modified version by Jaan Kalda here.
-[5] Problem 20.  h 1 0IPhO 2020, problem 2. A nice problem on anisotropic friction.
+[5] Problem 20.   h 1 0IPhO 2020, problem 2. A nice problem on anisotropic friction.
 4 Ropes, Wires, and Chains
 Example 6: MPPP 78
 A uniform flexible rope passes over two small frictionless pulleys mounted at the same height.
@@ -538,14 +538,14 @@ Rr
 In this setup, r = ℓsinθ and the potential energy from gravity is mgℓ(1 − cosθ). For small
 angles, the potential energy is
 U ≈ mgℓ
-
+
 1 −
-
+
 1 −
 1
 2
 θ2
-
+
 −
 1
 2
@@ -591,7 +591,7 @@ mω2
 ℓ2
 (θ1 + θ2)2
 = mℓ2
-
+
 (ω2
 0 − ω2
 )θ2
@@ -603,7 +603,7 @@ mω2
 )θ2
 2 − ω2
 θ1θ2
-
+
 where ω2
 0 = g/ℓ. To be stable, we want the potential energy to be at a local minimum near
 that point. We could test this by considering a general infinitesimal change in the angles.
@@ -624,10 +624,10 @@ traveling in some other direction. It turns out we are guaranteed to have a true
 ∂2f
 ∂y2
 >
-
+
 ∂2f
 ∂x∂y
-2
+ 2
 .
 In this problem, that condition is
 2(ω2

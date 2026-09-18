@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201012"
 verification_status: pending
 ---
 
-At what speed must a pebble be thrown at a height of  h , and at an angle of 30$^\circ$, measured from the horizontal, if it is to hit the ground at an angle of 45$^\circ$. (Air drag can be neglected.) 
+At what speed must a pebble be thrown at a height of  h , and at an angle of 30$^\circ$, measured from the horizontal, if it is to hit the ground at an angle of 45$^\circ$. (Air drag can be neglected.)
  (4 pont)

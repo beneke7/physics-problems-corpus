@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-The working substance of a heat engine is a sample of monatomic ideal gas of specific mass. The gas may be taken through the cyclic process $ABCA$ or $ADEA$ as shown in the figure. What is the ratio of the two efficiencies? 
+The working substance of a heat engine is a sample of monatomic ideal gas of specific mass. The gas may be taken through the cyclic process $ABCA$ or $ADEA$ as shown in the figure. What is the ratio of the two efficiencies?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4633-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4633-fig1.gif)

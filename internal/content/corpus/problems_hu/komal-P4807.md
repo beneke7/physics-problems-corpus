@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4807. Hány molekula van 1 liter vízben, ha a víz hőmérséklete 
+P. 4807. Hány molekula van 1 liter vízben, ha a víz hőmérséklete
  $a)~0~{}^\circ \rm{C};\,\,\,\, b)~
 100~{}^\circ \rm{C}?$

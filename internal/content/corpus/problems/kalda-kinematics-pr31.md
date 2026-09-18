@@ -19,4 +19,4 @@ verification_status: pending
 
 A wheel with radius $R$ is situated at height $R$ from the ground and is rotating at angular velocity $\Omega$. At some point A, a drop of water separates from the wheel and reaches the ground at point B situated directly below the wheel's axle (see the figure). Find the falling time of the drop and the location of point A (i.e. angle $\alpha$ ).
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr31-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr31-fig1.jpg)

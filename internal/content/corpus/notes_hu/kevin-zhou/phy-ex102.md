@@ -28,7 +28,6 @@ Példa. A szabad részecske háromdimenziós G0± (x, x′ , E) Green-függvény
           ′                  −1       ′              ′           1
  G0+ (x, x , z) = ⟨x|(z − H0 )    |x ⟩ =       dp dp ⟨x|p⟩⟨p|        |p′ ⟩⟨p′ |x′ ⟩ =                         .
                                                               z − H0                        (2πℏ)3 z − p2 /2m
-274 12. Szórás
 
 Az egyszerűség kedvéért a transzlációs invariancia miatt x′ = 0-t választunk, p = ℏq-t írunk, és z = E + iϵ =
 ℏ2 w2 /2m alakot veszünk egy komplex w hullámszámra (így w az első síknegyedben van). Ekkor
@@ -82,7 +81,6 @@ bár ugyanezek a technikák sok más kontextusban, például térelméletekben i
                                                                 ′ e
                           ψk (x) = ϕk (x) −                dx                     V (x′ )ψk (x′ ).
                                             4π ℏ2                |x − x′ |
-275 12. Szórás
 
  • A Lippmann–Schwinger-egyenletnek számos változata van. Például proton–proton szórásban V egy Coulomb-potenciál és a
    magpotenciál összege. Ekkor a Coulomb-tagot H0 -ba foglalhatjuk, így a beeső hullám pozitív energiájú Coulomb-megoldás lenne,
@@ -137,7 +135,6 @@ A Lippmann–Schwinger-egyenlet segítségével Born-sornak nevezett perturbáci
 
                            Ω(z) = (1 − G0 (z)V )−1 ,            Ω± (E) = lim Ω(E ± iϵ).
                                                                               ϵ→0
-276 12. Szórás
 
   • V szerinti sorfejtéssel a Born-sor
 
@@ -148,9 +145,9 @@ A Lippmann–Schwinger-egyenlet segítségével Born-sornak nevezett perturbáci
                         |ψk ⟩ = |k⟩ + G0+ (E)V |k⟩ + G0+ (E)V G0+ (E)V |k⟩ + . . .
 
     alakú. Ezt a szórási amplitúdó kifejezésébe behelyettesítve
-                                         4π 2 m  ′
+                                         4π 2 m   ′
                         f (k, k′ ) = −           ⟨k |V |k⟩ + ⟨k′ |V G0+ (E)V |k⟩ + . . . .
-                                                                                        
+
                                           ℏ 2
 
     Ha ezeket a sorokat V n-nél levágjuk, az n-edik Born-közelítést kapjuk. A Born-sor úgy is levezethető, hogy a Lippmann–

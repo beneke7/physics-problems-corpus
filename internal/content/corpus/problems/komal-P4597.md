@@ -22,10 +22,10 @@ verification_status: flagged
 techniques: [conservation-laws, stability-analysis, exploit-symmetry]
 ---
 
-There is a cylinder in horizontal, wedge shaped, right angled trough as shown in the figure. The cylinder is carefully pulled with an increasing horizontal force by means of a piece of thread wound around it. What happens if the coefficient of friction is 
- a ) =0.5; 
- b ) =0.3? 
+There is a cylinder in horizontal, wedge shaped, right angled trough as shown in the figure. The cylinder is carefully pulled with an increasing horizontal force by means of a piece of thread wound around it. What happens if the coefficient of friction is
+ a ) =0.5;
+ b ) =0.3?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4597-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4597-fig1.gif)

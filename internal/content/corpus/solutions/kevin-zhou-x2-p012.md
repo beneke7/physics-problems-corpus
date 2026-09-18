@@ -71,7 +71,7 @@ origin can only be understood through quantum mechanics.
 [3] Problem 13. INPhO 2014, problem 7. An instructive general application of the liquid drop model.
 Solution. See the official solutions as usual. As Stefan Ivanov notes, there’s a minor typo in the
 answer to part E.
-[4] Problem 14.  T 1 0IPhO 1997, problem 2. This applies the liquid drop model to nuclear stability.
+[4] Problem 14.   T 1 0IPhO 1997, problem 2. This applies the liquid drop model to nuclear stability.
 You can find a few more exercises on the liquid drop model in part A of IPhO 2023, problem 2,
 though I think the above problems are enough to get the general idea.
 10

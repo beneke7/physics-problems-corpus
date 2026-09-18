@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Water is drawn up from a well. The depth of the well is 10 metres, the mass of the bucket is 2 kg, the mass of the chain is 3 kg and the capacity of the container is 12 litres. What is the mechanical efficiency of bringing the water up? Does this efficiency depend on the depth of the well? 
+Water is drawn up from a well. The depth of the well is 10 metres, the mass of the bucket is 2 kg, the mass of the chain is 3 kg and the capacity of the container is 12 litres. What is the mechanical efficiency of bringing the water up? Does this efficiency depend on the depth of the well?
  (3 pont)

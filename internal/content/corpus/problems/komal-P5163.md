@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-The nuclide of a cobalt isotope of atomic mass number 60 emits an electron when it decays. What is the resulting nucleus? 
+The nuclide of a cobalt isotope of atomic mass number 60 emits an electron when it decays. What is the resulting nucleus?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-We would like to create a sharp image of the filament of an incandescent lamp with a converging lens exactly below the lamp on a white sheet of paper lying on the tabletop. At least how many dioptres is the power of the lens if the paper is 40 cm below the lamp? 
+We would like to create a sharp image of the filament of an incandescent lamp with a converging lens exactly below the lamp on a white sheet of paper lying on the tabletop. At least how many dioptres is the power of the lens if the paper is 40 cm below the lamp?
  (4 pont)

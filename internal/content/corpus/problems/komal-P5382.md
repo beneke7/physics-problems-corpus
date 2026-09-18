@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-An old tape magnetophone spins the takeup reel at a constant speed during a fast rewind. The inner diameter of both reels is 5 cm and their outer diameter is 15 cm. From the fully loaded feed reel, the rewinding time of the tape is 3 minutes. The tape is wound onto the initially empty takeup reel. How much time elapses from the start until the two reels have equal lengths of tape wound on them? 
+An old tape magnetophone spins the takeup reel at a constant speed during a fast rewind. The inner diameter of both reels is 5 cm and their outer diameter is 15 cm. From the fully loaded feed reel, the rewinding time of the tape is 3 minutes. The tape is wound onto the initially empty takeup reel. How much time elapses from the start until the two reels have equal lengths of tape wound on them?
  (4 pont)

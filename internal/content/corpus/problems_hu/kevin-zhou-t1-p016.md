@@ -48,7 +48,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                       9
-Kevin Zhou                                                                       Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                                       Fizikaolimpiai feladatgyűjtemény
 
 
 
@@ -106,7 +108,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        10
-Kevin Zhou                                                           Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                           Fizikaolimpiai feladatgyűjtemény
 
 
   6. ötlet: Az ekvipartíció tétele
@@ -165,7 +169,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                11
-   Kevin Zhou                                                                 Fizikaolimpiai feladatgyűjtemény
+
+
+   Kevin Zhou                                                                 Fizikaolimpiai feladatgyűjtemény
 
 
 

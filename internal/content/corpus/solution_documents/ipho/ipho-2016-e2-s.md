@@ -43,7 +43,9 @@ AD,crit = (1.25 ± 0.05) V
 
 
                                                                    1
-Part B. Calibration (3.2 points)
+
+
+Part B. Calibration (3.2 points)
 B1 (0.5 pts)
 
 
@@ -71,7 +73,9 @@ Acrit = (4.4 ± 0.1) mm
 
 
                                                              2
-Part C. Critical exponent (3.5 points)
+
+
+Part C. Critical exponent (3.5 points)
 C1 (1.1 pts)
  AD , [V]   A, [mm]     |N 1 N2
                          N1 +N2 |   |A2     A20 |

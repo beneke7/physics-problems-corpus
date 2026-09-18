@@ -26,4 +26,4 @@ ii. (2 pont) Most nyissátok meg a kapcsolót. Határozzátok meg a voltmérő l
 
 iii. (2 pont) Határozzátok meg az összes hő mennyiségét, amely az egyes ellenállásokon fog disszipálódni a kapcsoló megnyitása után, amíg egy új egyensúlyi állapot nem jön létre!
 
-![ábra](../../sources/nbpho/figures/nbpho-2012-rlc-circuit-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2012-rlc-circuit-fig1.jpg)

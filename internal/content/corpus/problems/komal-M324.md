@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201205"
 verification_status: pending
 ---
 
-Measure the coefficient of kinetic friction between the tyre of a bicycle wheel and the dry asphalt. 
+Measure the coefficient of kinetic friction between the tyre of a bicycle wheel and the dry asphalt.
  (6 pont)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4518. Két párhuzamos fal között m tömegű labda pattog a falakra merőleges v  sebességgel. A falakon történő ütközés tökéletesen rugalmas. Mekkora átlagos erőt fejt ki a labda a falakra, ha azok távolsága  d ? 
+P. 4518. Két párhuzamos fal között m tömegű labda pattog a falakra merőleges v  sebességgel. A falakon történő ütközés tökéletesen rugalmas. Mekkora átlagos erőt fejt ki a labda a falakra, ha azok távolsága  d ?
  Párkányi László (1907-1982) feladata

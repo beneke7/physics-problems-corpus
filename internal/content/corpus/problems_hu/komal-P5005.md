@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5005. Két egyforma, henger alakú, bontatlan üdítőitalos doboz egyikét a mélyhűtőben megfagyasztjuk. Ezután egyszerre, egymás mellől indítjuk el őket egy lejtőn. 
- Melyik ér le hamarabb? 
+P. 5005. Két egyforma, henger alakú, bontatlan üdítőitalos doboz egyikét a mélyhűtőben megfagyasztjuk. Ezután egyszerre, egymás mellől indítjuk el őket egy lejtőn.
+ Melyik ér le hamarabb?
  Példatári feladat

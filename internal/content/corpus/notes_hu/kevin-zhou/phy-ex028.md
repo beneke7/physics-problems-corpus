@@ -36,7 +36,6 @@ Most tekintsünk egy v = v î sebességgel mozgó vonatkoztatási rendszert. Ek
                                 E ∼ 2                    γy 
                                      (x + y 2 + z 2 )3/2
                                                            γz
-39 2. Elektromágnesség
 
 az eredeti tér koordinátáit használva. A koordinátákat a meglökött rendszerre cserélve:
                                                                     ′
@@ -75,7 +74,7 @@ a tér a merőleges irányban a szokásosnál erősebb, a párhuzamos irányban 
                                        dτ
     Amint korábban említettük, Hamilton-mechanikában ez a fontosabb mennyiség. A nemrelativisztikus
     határban ennek az egyenletnek a komponensei:
-                                
+
                 d 1       2          ∂                 d
                        mv + qϕ = q(ϕ − v · A),            (mv + qA) = −∇q(ϕ − v · A).
                 dt 2                ∂t                 dt
@@ -144,7 +143,6 @@ Ebben a részben azt mutatjuk meg, hogyan keletkezik sugárzás gyorsuló tölt�
 
       Vagyis a potenciál megoldja a hullámegyenletet, forrása pedig az áram.
 
-41 2. Elektromágnesség
 
  • Lorenz-mérték akkor létezik, ha mindig választhatunk olyan χ mértéktranszformációt, amelyre
    ∂ 2 χ = −∂µ Aµ . A hullámegyenlet megoldása tehát azt is megmutatja, hogyan juthatunk el
@@ -156,7 +154,7 @@ Ebben a részben azt mutatjuk meg, hogyan keletkezik sugárzás gyorsuló tölt�
                                                    ∂t             ϵ0
     és
                                  1 ∂2A
-                                                 
+
                              2               1 ∂ϕ
                             ∇ A− 2 2 −∇ ∇·A+ 2      = −µ0 J.
                                 c ∂t        c ∂t
@@ -202,7 +200,6 @@ Lorenz-mértékhez visszatérve ezért motiváltak vagyunk arra, hogy megtalálj
     A transzlációs és rotációs szimmetria miatt Gω (x, x′ ) = Gω (r), ahol r = |x − x′ |. Gω (r)-re
     úgy gondolhatunk, mint az origóban elhelyezett, ω frekvenciájú szinuszos forrás térbeli válaszára.
 
-42 2. Elektromágnesség
 
  • Gömbi koordinátákban:
                                        1 d              dGω
@@ -261,7 +258,6 @@ Időben és térben együtt is végezhetünk Fourier-transzformációt.
                      G(r, t) = 3        dk c k             dω                   .
                                 4π 0              kr    −∞     (ω − ck)(ω + ck)
 
-43 2. Elektromágnesség
 
   • A dω-integrál elvégzéséhez kezelnünk kell a pólusokat. Ha előre, időben egy infinitezimális
     csillapítást adunk hozzá, a pólusokat a valós tengely alá tolhatjuk. Ekkor t < 0 esetén az integrálási
@@ -319,7 +315,6 @@ Eredményeinket most kis objektumok sugárzásának elemzésére használjuk.
     nagyságrendű, ami csak akkor kicsi, ha az áram változásainak karakterisztikus időskálája sokkal
     nagyobb d/c-nél.
 
-44 2. Elektromágnesség
 
   • A teret a vektorpotenciálból a legegyszerűbb kiszámítani. Használjuk az
                                                            Z
@@ -331,7 +326,7 @@ Eredményeinket most kis objektumok sugárzásának elemzésére használjuk.
                                                    4πr
 
   • A szorzási szabály alkalmazásával:
-                                                                        
+
                                 µ0     x̂ × ṗ(t − r/c) x̂ × p̈(t − r/c)
                           B≈        −                  −                   .
                                 4π             r2               rc
@@ -371,7 +366,6 @@ Eredményeinket most kis objektumok sugárzásának elemzésére használjuk.
 
 Eredményeinket alkalmazhatjuk szórásra.
 
-45 2. Elektromágnesség
 
  • Bemelegítésként a Thomson-szórást tekintjük. Tekintsünk fényben lévő szabad részecskét, és tegyük fel,
    hogy a fény hullámhosszához képest soha nem mozdul el jelentős távolsággal. Ekvivalensen: soha nem
@@ -409,9 +403,9 @@ Eredményeinket alkalmazhatjuk szórásra.
 
  • Az ω ≪ ω0 határban, ami látható fényre és a légkör molekuláira jó közelítés, az amplitúdó állandó
    lesz (a Thomson-szórás 1/ω 2 függésével szemben), ezért
-                                                                4
+                                                                 4
                                               8πrq2
-                                                       
+
                                                            ω
                                            σ=                        .
                                                3           ω0
@@ -426,7 +420,6 @@ Eredményeinket alkalmazhatjuk szórásra.
    alkalmazható, megmagyarázza, hogy a felhők láthatók és fehérek. Ha a szóró részecskék sokkal nagyobbak,
    egyszerűen geometriai optikát használunk.
 
-46 2. Elektromágnesség
 
 Megjegyzés. Végül eredményeinket relativisztikusan mozgó töltésre is általánosíthatjuk. Tegyük fel,
 hogy egy ponttöltés helye r(t). Ekkor a retardált potenciálja:
@@ -481,7 +474,6 @@ távolság. Ebből
                                                            1 q 2 ℓ2 ω 4
                                                     P ∼
                                                           8π ϵ0 c3
-47 2. Elektromágnesség
 
 adódik, ami egy O(1) tényezőtől eltekintve a Larmor-formula. (Ismerősebb alakra hozható az
 a ∼ ℓω 2 felhasználásával.) Hasonló érveléssel megbecsülhető az elektromos kvadrupólsugárzás
@@ -532,14 +524,13 @@ Ez a legalacsonyabb rend, ezért a magnetosztatikus kifejezésből határozható
                                               4π        |r − r′ |
 Az áram transzverzális része egy ponttöltés áramából kiindulva és a fent leírt módon transzverzális
 részt véve számítható ki. Ez adja a Darwin-Lagrange-függvényt:
-                                                                     
+
                                     q1 q2            (v1 · r)(v2 · r)
                               L1 =         v1 · v2 +                    .
                                      2r                     r2
 
 Ennél tovább nem juthatunk. (v/c)3 rendben sugárzási visszahatási erők jelennek meg, ezért a
 Lagrange-függvénynek tartalmaznia kell a tér szabadsági fokait.
-48 2. Elektromágnesség
 
 2.6     Elektromágnesség anyagban
 Ebben a részben áttekintjük az anyagban lévő elektromágneses terek alapvető klasszikus eredményeit.
@@ -566,7 +557,7 @@ nevezünk.
                                             V        |r − r′ |3
       ahol 4πϵ0 = 1-et választottunk és a dipóluspotenciált használtuk. Ezután
                                                                  P(r′ )              ′       ′
-                                                     Z
+                                                       Z
                                                                                  ′ ∇ · P(r )
                        Z                                                    Z
                             ′    ′     ′      1
@@ -595,7 +586,6 @@ nevezünk.
       ezért a dielektromos állandót κ = 1 + χe alakban azonosíthatjuk. Mivel általában χe > 0, a teret
       töltésárnyékolás csökkenti.
 
-49 2. Elektromágnesség
 
  • Az elemzés általánosításához szabad töltésnek nevezünk minden töltést a kötött töltésen kívül:
                                             ρ = ρbound + ρfree .
@@ -642,7 +632,6 @@ Most a dielektrikumok energiájának zavarba ejtő kérdését tekintjük.
                                                 Z
                                       dUspring = dr E · dP.
 
-50 2. Elektromágnesség
 
  • Lineáris dielektrikum esetén az integrálás
                                        Z                           Z
@@ -687,4 +676,3 @@ például a NaCl ionrácsát. A kristályt elemi cellákra oszthatjuk, és minde
 Ekkor az egyes elemi cellák „kötött töltésből” származó dipólusmomentuma attól függ, hogyan választjuk
 meg a cellát. Hasonlóan a teljes elemi cellákba nem kerülő határatomok „szabad” töltése is függ a
 cellaválasztástól. Természetesen e hozzájárulások összegének függetlennek kell lennie a cellától.
-51 2. Elektromágnesség

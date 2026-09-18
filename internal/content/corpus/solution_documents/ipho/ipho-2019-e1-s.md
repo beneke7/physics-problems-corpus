@@ -41,10 +41,14 @@ A.1: table of measured and calculated values
  65       1.5       171         0.5        342         1        37      0.906    0.602
  70       1.5       173.5       1          347         2        38.25   0.940    0.619
  75       2         176.5       1.5        353         3        39.25   0.966    0.633
-       Experiment IPhO 2019   Q1-1
+
+
+       Experiment IPhO 2019   Q1-1
                               S1-2
 A.2:
-       Experiment IPhO 2019                                                           Q1-1
+
+
+       Experiment IPhO 2019                                                           Q1-1
                                                                                   S1-3
 A.3:
 
@@ -63,7 +67,9 @@ Differentiating the relation 𝛿 = 2𝛼 + (𝑁 − 1)(180° − 2𝛽) by �
                 d                   d   1
 2  2( N  1)       0 and therefore         .
                 d                   d N  1
-    Experiment IPhO 2019                                                                 Q1-1
+
+
+    Experiment IPhO 2019                                                                 Q1-1
                                                                                       S1-4
                                                                                d n cos 
 By differentiating Snell’s law sin  n sin  we get cos   n cos              
@@ -108,7 +114,9 @@ Next we draw a graph of 𝑦 = 𝛼 + 𝑘𝛾 vs. 𝑘 and find the linear regr
                                                                                   
 
                                                                         2
-    Experiment IPhO 2019                                                            Q1-1
+
+
+    Experiment IPhO 2019                                                            Q1-1
                                                                                  S1-5
         900
 
@@ -147,7 +155,9 @@ function of the number of times the beams hits the disk-air interface, 𝑘:
                                        4               488
                                        5               593
                                        6              698.5
-    Experiment IPhO 2019                                                              Q1-1
+
+
+    Experiment IPhO 2019                                                              Q1-1
                                                                                   S1-6
          800
 
@@ -185,7 +195,9 @@ and measure 𝛼 + 𝑘𝛾 as a function of the number of hits, 𝑘:
                                         4           480.5
                                         5           582.5
                                         6           685
-    Experiment IPhO 2019                                                          Q1-1
+
+
+    Experiment IPhO 2019                                                          Q1-1
                                                                                  S1-7
    800
 
@@ -236,7 +248,9 @@ point Q. On the screen, we will mark a point 𝑃, placed in           m2
 the middle of the interval 𝑃1 𝑃2 . Then, we will aim a laser
 to go through the points QP. This beam will be                                      grating
 perpendicular to the wall that will be used as a screen.                  Laser
-    Experiment IPhO 2019                                                                   Q1-1
+
+
+    Experiment IPhO 2019                                                                   Q1-1
                                                                                      S1-8
 Standard method:
 We will place the grating such that the beam passes through it. By gently rotating the grating
@@ -264,7 +278,9 @@ Using this method it is possible to measure also ordered 𝑚 = 1 and 𝑚 = 2. 
 𝑚 = −2 we can verify that the beam is perpendicular to the screen by making sure the distance
 of these two ordered from the zero order is identical.
 For 𝑚 = 3, we will change 𝛼 to get 𝜃3𝑚𝑖𝑛 and measure the distances 𝐿 and ℎ3 .
-     Experiment IPhO 2019                                                        Q1-1
+
+
+     Experiment IPhO 2019                                                        Q1-1
                                                                               S1-9
 The measured values, as shown in the sketch below, are H  67.0 cm , L  100.2 cm ,
 h3  37.8 cm .
@@ -297,7 +313,9 @@ From the sketch we get tan( 4 min  90)                       0
                                        2          1 106.3
 Hence  4 min  106.3 , therefore      sin 4 min  sin      0.400
                                       d 4     2     2    2
-    Experiment IPhO 2019                                                                   Q1-1
+
+
+    Experiment IPhO 2019                                                                   Q1-1
                                                                                 S1-10
 Section C – the refraction index of a triangular prism
 C.1: From the sketch showing the path of the laser beam and from
@@ -336,7 +354,9 @@ From the equation that holds for 60 prism we get cos           30 �
                                                                               min       
 Averaging for all three angles we get  i  0 , and therefore n  2 sin            30 
                                                                              2            
-     Experiment IPhO 2019                                                             Q1-1
+
+
+     Experiment IPhO 2019                                                             Q1-1
                                                                            S1-11
 C.2. We will use the full length of the table to magnify the distances as much as possible. We
 will build the setup, as described in the sketch, so that in the absence of the prism, the laser
@@ -391,7 +411,9 @@ The error in the average value of the two angles is
             0.1
   min          0.06  1  103 rad
               3
-     Experiment IPhO 2019                                                                Q1-1
+
+
+     Experiment IPhO 2019                                                                Q1-1
                                                                                   S1-12
 From the table we get that the average value of  min is  min  50.50
 

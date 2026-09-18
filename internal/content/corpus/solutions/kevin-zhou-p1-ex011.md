@@ -19,60 +19,60 @@ Solution
 Imagine adding people one at a time. The second person has a 1/365 chance of sharing a
 birthday with the first. If they don’t share a birthday, the third person has a 2/365 chance
 of sharing a birthday with either, and so on. So a decent estimate for n is the n where
-
+
 1 −
 1
 365
-
+
 1 −
 2
 365
-
+
 ...
-
+
 1 −
 n − 1
 365
-
+
 ≈
 1
 2
 .
 The surprising point of the birthday paradox is that n ≪ 365. So we can use the binomial
 theorem in reverse, approximating the left-hand side as
-
+
 1 −
 1
 365
-
+
 1 −
 1
 365
-2
+ 2
 ...
-
+
 1 −
 1
 365
-n−1
+ n−1
 =
-
+
 1 −
 1
 365
-n(n−1)/2
+ n(n−1)/2
 ≈
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 which is valid since n/365 is small. It’s tempting to use the binomial theorem again to write
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 ≈ 1 −
 n2
 2 · 365
@@ -95,11 +95,11 @@ by Taylor series, which implies that
 (1 + x)y
 ≈ eyx
 when x is small, an important fact which you should remember. So we have
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 ≈ e−n2/(2·365)
 =
 1

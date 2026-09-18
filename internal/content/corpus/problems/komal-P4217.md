@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-If the pair of plates, which is to deflect the charges, in the cathode ray tube is uncharged, then the electrons, which are ejected from the electron gun, travel through the tube with a constant velocity and they hit the screen with this speed. What can be stated about the speed of the electrons with which they hit the screen when there is a constant amount of charge on the pair of plates? 
+If the pair of plates, which is to deflect the charges, in the cathode ray tube is uncharged, then the electrons, which are ejected from the electron gun, travel through the tube with a constant velocity and they hit the screen with this speed. What can be stated about the speed of the electrons with which they hit the screen when there is a constant amount of charge on the pair of plates?
  (5 pont)

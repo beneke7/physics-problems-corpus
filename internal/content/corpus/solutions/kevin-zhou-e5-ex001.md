@@ -186,7 +186,7 @@ I =
 mgLsinα
 ℓ2B2
 (1 − cos(ωt)).
-[3] Problem 3.  m 1 0USAPhO 2006, problem B1.
+[3] Problem 3.   m 1 0USAPhO 2006, problem B1.
 Solution. Note that there are two minor typos in the official solution, as noted here. There should
 be no +D term in B(ii), and for B(v) there are multiple times.
 [3] Problem 4 (PPP 168). One end of a conducting horizontal track is connected to a capacitor of
@@ -209,64 +209,64 @@ C
 Kevin Zhou Physics Olympiad Handouts
 Taking the derivative and plugging in v̇ = IℓB/m gives
 ˙ I = −
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 I.
 The initial condition is I(0) = q/RC, so
 I(t) =
 q
 RC
 exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 .
 Thus, integrating v̇ = IℓB/m and using v(0) = 0 gives
 v(t) =
 qℓB
 RCm
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-−1 
+ −1
 1 − exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 =
 V0ℓBC
 m + B2ℓ2C
-
+
 1 − exp
-
+
 −t
-
+
 1
 RC
 +
 ℓ2B2
 Rm
-
+
 .
 Thus, the rod continually accelerates, asymptotically reaching a maximum speed of
 vmax =
@@ -322,7 +322,7 @@ since their momentum won’t be conserved; Newton’s third law won’t hold in 
 charges and currents interact with the field, and the field then interacts with other charges
 and currents. However, we didn’t need that subtlety for this problem, because there is no
 electromagnetic momentum at play. We’ll see setups where it does matter in E7.
-[3] Problem 5.  m 1 0USAPhO 2012, problem B2.
+[3] Problem 5.   m 1 0USAPhO 2012, problem B2.
 Idea 2
 Not all motional emfs can be found using E = −dΦ/dt. Sometimes, for more complex
 geometries where there is no clear “loop”, it’s easier to go back to the Lorentz force law.

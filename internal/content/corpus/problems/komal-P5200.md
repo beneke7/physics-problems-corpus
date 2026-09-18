@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, limiting-and-special-cases]
 ---
 
-The speed of transverse waves in a suspension bridge over a valley is 400 m/s. In a storm the strong wind generated impulses, which are repeated in each second. What is the distance between the pillars if the bridge started to swing heavily? 
+The speed of transverse waves in a suspension bridge over a valley is 400 m/s. In a storm the strong wind generated impulses, which are repeated in each second. What is the distance between the pillars if the bridge started to swing heavily?
  (3 pont)

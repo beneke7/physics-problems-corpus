@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4312. Vízszintes asztallapon három, vékony huzalból készült, nyitott vezető gyűrűt helyezünk el koncentrikusan, az ábrán látható módon. A középső gyűrűbe időben változó áramot vezetünk. Mekkora feszültség indukálódik a legnagyobb gyűrűben abban a pillanatban, amikor a legkisebb gyűrű végei közötti feszültség U $_{0}$?
 
-![figure](../../raw_html/komal_figures/komal-P4312-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4312-fig1.gif)

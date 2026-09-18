@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 5 (35 points). Refer to Figure 5.1. A thin disc of radius $R$ is placed in the $x y$-plane such that its centre is at the origin $O$. The region above the $x y$-plane (i.e. $z>0$ ) is filled with a uniform electric field with magnitude $E$ pointing in the $-z$ direction, whereas the cylindrical region bounded by the $x y$-plane below and the cylinder with infinite length whose base is said disc (i.e. $z>0$ and $x^{2}+y^{2}<R^{2}$ ) is filled with a uniform magnetic field $B$ pointing in the $+z$ direction. The region outside this cylinder has zero magnetic field. Now suppose we fire particles carrying charge $q$, mass $m$, and speed $v$ from $O$ in all directions above the $x y$-plane in an isotropic manner (i.e. the probability of being fired in a certain direction is the same regardless of said direction). We ignore the effects of gravity and the interaction between the charges.
 
-![](cpho-f-2017-en-q5-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q5-fig01.png)
 Figure 5.1: A disc suspended along the boundary of an electromagnetic field.
 
 (1) Suppose that all collisions of the charges with the disc are elastic, and that $\eta=50 \%$ of the charges are constrained by the electric and magnetic fields to remain within the cylindrical region. Find the radius $R$ of the disc.

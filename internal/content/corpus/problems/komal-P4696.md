@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201501"
 verification_status: pending
 ---
 
-Disc shaped tablets of diameter 8 mm and of height 4 mm are falling to the tabletop from a small height. Suppose that all directions have the same probability and the tablets do not bounce back from the tabletop. What percentage of the tablets arrive at the table in ``rollable'' position? 
+Disc shaped tablets of diameter 8 mm and of height 4 mm are falling to the tabletop from a small height. Suppose that all directions have the same probability and the tablets do not bounce back from the tabletop. What percentage of the tablets arrive at the table in ``rollable'' position?
  (4 pont)

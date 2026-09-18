@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element, model-reduction]
 ---
 
-One of the fountains in city Kaposvár jets 1 cubic metre of water into the air to a height of 5 m in each minute. 
- $a)$ What is the power of the electric motor if the efficiency of pumping is 75%? 
- $b)$ At what speed does the water flow out of the nozzle? 
- $c)$ What is the diameter of the water flowing out of the nozzle? 
- $d)$ What is the diameter of the water at a height of 2.5 m? 
- Do not consider air-drag and that the water is separated to small drops. 
+One of the fountains in city Kaposvár jets 1 cubic metre of water into the air to a height of 5 m in each minute.
+ $a)$ What is the power of the electric motor if the efficiency of pumping is 75%?
+ $b)$ At what speed does the water flow out of the nozzle?
+ $c)$ What is the diameter of the water flowing out of the nozzle?
+ $d)$ What is the diameter of the water at a height of 2.5 m?
+ Do not consider air-drag and that the water is separated to small drops.
  (4 pont)

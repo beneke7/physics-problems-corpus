@@ -52,7 +52,7 @@ mg sinπ/2 = k1R(π/2) =⇒ k1 =
 2mg
 πR
 .
-The second critical point is given by the balancing of the two forces for θ 
+The second critical point is given by the balancing of the two forces for θ
  1, so we
 compute
 mg sinθ ≈ mgθ = k2Rθ =⇒ k2 = mg/R.
@@ -117,7 +117,7 @@ force deflects the mass away from this great circle trajectory, but doesn’t ch
 radial force required, so the net radial force always has to be mv2/R inward.
 Note: The phrase “total radial force” could also validly be interpreted as the net radial
 force. Thus, we accepted both mg cosθ0 − mv2/R and −mv2/R.
-c. A cylinder of radius r 
+c. A cylinder of radius r
  Rθ0 is placed on top of the sphere. Suppose the mass is launched at an
 angle α away from the direction of the spring’s displacement with kinetic energy K, as shown.
 Copyright ©2021 American Association of Physics Teachers
@@ -147,7 +147,7 @@ mur = mv sinα(Rsinθ) =⇒ u =
 v sinα(Rsinθ)
 r
 .
-Because r 
+Because r
  R, at the point of closest approach, the energy of the system is roughly
 mgR +
 1

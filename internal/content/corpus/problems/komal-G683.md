@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, extremization]
 ---
 
-We have two alike (red) resistors and also two alike (blue) resistors. In which connection will the equivalent resistance of the resistors be greater, if 
- $a)$ the two red resistors and the two blue resistors are connected in series, and then these are connected in parallel; 
- $b)$ the series connections of a red and a blue resistor are connected in parallel? 
+We have two alike (red) resistors and also two alike (blue) resistors. In which connection will the equivalent resistance of the resistors be greater, if
+ $a)$ the two red resistors and the two blue resistors are connected in series, and then these are connected in parallel;
+ $b)$ the series connections of a red and a blue resistor are connected in parallel?
  (4 pont)

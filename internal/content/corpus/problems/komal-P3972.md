@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200703"
 verification_status: pending
 ---
 
-With what percentage will the shortest wavelength of a continuous x-ray spectrum change if the voltage of the x-ray tube is increased by 10%? 
+With what percentage will the shortest wavelength of a continuous x-ray spectrum change if the voltage of the x-ray tube is increased by 10%?
  (4 pont)

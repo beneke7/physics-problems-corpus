@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-An object falls freely on the Moon. The total height from which the object was dropped is $n$ times greater than the distance covered by the object in the last second of its fall. Determine the height from which it was dropped and the time of the fall. 
+An object falls freely on the Moon. The total height from which the object was dropped is $n$ times greater than the distance covered by the object in the last second of its fall. Determine the height from which it was dropped and the time of the fall.
  (4 pont)

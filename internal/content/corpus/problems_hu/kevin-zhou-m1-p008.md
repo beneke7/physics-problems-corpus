@@ -38,7 +38,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           x(0) = 1 és ẋ(0) = 0 feltételeket kielégítő egyértelmű megoldást.
 
                                                       4
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
     2    Trükkök

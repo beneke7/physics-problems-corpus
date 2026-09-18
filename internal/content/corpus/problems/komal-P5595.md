@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-Two concave mirrors with small aperture angles and with focal length of $f$ are placed opposite to each other so that their principal axes coincide and their distance from each other is $2f$ (see figure ). 
+Two concave mirrors with small aperture angles and with focal length of $f$ are placed opposite to each other so that their principal axes coincide and their distance from each other is $2f$ (see figure ).
 
- A point-like light source is placed at a point $T$ on the principal axis. Where is the position of point $T$ if the emitted light rays meet at point $T$ after they are reflected from the two mirrors? 
+ A point-like light source is placed at a point $T$ on the principal axis. Where is the position of point $T$ if the emitted light rays meet at point $T$ after they are reflected from the two mirrors?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5595-fig1.png)
+![figure](../../figures/komal/figures/komal-P5595-fig1.png)

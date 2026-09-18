@@ -76,7 +76,7 @@ Extra sheets attached :     0        Date                    Centre (e.g. Kochi)
  Magnitude of electron charge      e   1.60 × 10−19 C                  3        12
  Rest mass of electron             me 9.11 × 10−31 kg
  Rest mass of proton               mp 1.67 × 10−27 kg                  4         9
- Value of 1/4π0                       9.00 × 109 N·m2 ·C−2
+ Value of 1/4π 0                       9.00 × 109 N·m2 ·C−2
  Avogadro’s number                 NA 6.022 ×1023 mol−1                5        10
  Acceleration due to gravity       g   9.81 m·s−2
  Universal Gas Constant            R   8.31 J· K−1 ·mol−1              6        17
@@ -89,7 +89,9 @@ Extra sheets attached :     0        Date                    Centre (e.g. Kochi)
                           HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                                  Tata Institute of Fundamental Research
                              V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-INPhO 2018   Page 1       Questions & Summary Answers
+
+
+INPhO 2018   Page 1       Questions & Summary Answers
   ANY ALTERNATIVE METHOD OF SOLUTION TO ANY QUESTION THAT IS
 SCIENTIFICALLY AND MATHEMATICALLY CORRECT, AND LEADS TO THE
 SAME ANSWER WILL BE ACCEPTED WITH FULL CREDIT. PARTIALLY COR-
@@ -139,7 +141,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                            ~c
                                = 0.44
                               e2
-                           4π0 ~c
+                           4π 0 ~c
                            Gm2p
                             ~c
                                  or
@@ -148,7 +150,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                     Gmn mp
                                        ~c
                                                      qp qn
-                                                    4π0 ~c
+                                                    4π 0 ~c
                                                             =0
 
                                              = 5.60 × 10−39 to 6.00 × 10−39
@@ -164,7 +166,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
    (a) Find the area of the shadow of the sphere on the plane.                                         [2]
 
         Area =
-INPhO 2018   Page 2       Questions & Summary Answers                     Last four digits of Roll No.:
+
+
+INPhO 2018   Page 2       Questions & Summary Answers                     Last four digits of Roll No.:
 
 
                                S
@@ -229,7 +233,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                                    cos θ
                                              r 0 = P 0 N0 + N0 M
                                                 = 2R tan θ + R tan i
-INPhO 2018      Page 3           Questions & Summary Answers
+
+
+INPhO 2018      Page 3           Questions & Summary Answers
 
           which yields
 
@@ -302,7 +308,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
    (b) Find the recursion relation obeyed by the currents through the horizontal resistors r. You             [2]
        will get a relationship where In will be related to (may be several) Ii s, i < n, n > 0.
        Relation :
-INPhO 2018     Page 4         Questions & Summary Answers                       Last four digits of Roll No.:
+
+
+INPhO 2018     Page 4         Questions & Summary Answers                       Last four digits of Roll No.:
 
          Solution: From Kirchhoff’s circuit law
 
@@ -319,7 +327,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
          So that Eq. (2) becomes
 
                                                         r
-                                                           
+
                                           In+1 − 2 +      In + In−1 = 0                                    (3)
                                                         R
          which is the required recursion relation.
@@ -354,14 +362,14 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                             R
                      I1 = I0                                                     (see the figure to the left)
                           R+X
-                                              2
+                                               2
                             R           R
-                                     
+
                   I2 = I1       = I0                                            (see the figure to the right)
                           R+X          R+X
-                                  n
+                                   n
                               R
-                          
+
            Hence In = I0
                             R+X
                                  √ !n                           √         !2n
@@ -379,7 +387,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
          Second method:
          For R = r, Eq. (3) becomes
                                                In+1 − 3In + In−1 = 0                                       (4)
-INPhO 2018   Page 5        Questions & Summary Answers
+
+
+INPhO 2018   Page 5        Questions & Summary Answers
 
          We can solve this linear recursion relation by assuming the ansatz In ∼ ρn . This leads
          to
@@ -480,7 +490,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
                               ···
                                         E               C              A
-INPhO 2018   Page 6      Questions & Summary Answers                                     Last four digits of Roll No.:
+
+
+INPhO 2018   Page 6      Questions & Summary Answers                                     Last four digits of Roll No.:
 
         This looks like the terms of Fibonacci sequence. Fibonacci sequence is 1,1,2,3,5,8,13...etc
         in which nth term of Fibonacci sequence is the sum of previous two terms i.e. Fn =
@@ -505,14 +517,14 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                                            2
                                                              +1
                                                                 =0
-                        √                                     N +1
+                        √                                      N +1
                                                          ρ1
-                                                     
+
         where ρ2,1 = 3±2 5 . Thus B = −A                              and thus
                                                          ρ2
-                                                                               N +1 !
+                                                                                N +1 !
                                                                           ρ1
-                                                                      
+
                                         In = A            ρn1 − ρn2
 
         and thus
@@ -524,10 +536,10 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
                              ρN − ρN ρ1
                                   1     2
-                                            
 
-                                        N +1 =
-                                                 N +1
+
+                                          N +1 =
+                                                  N +1
 
                                                  ρ2 − ρ1 1
                                                 ρ2
@@ -582,7 +594,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
         Alternate form of Eqs. (7), (8) and (10) are also accepted.
 
                                 Detailed answers can be found on page numbers:
-INPhO 2018   Page 7       Questions & Summary Answers
+
+
+INPhO 2018   Page 7       Questions & Summary Answers
 4. An hour glass is placed on a weighing scale. Initially all the sand          A                 B          [9]
    of mass m0 kg in the glass is held in the upper reservoir (ABC)
    and the mass of the glass alone is M kg. At t = 0, the sand is                         C
@@ -616,7 +630,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
     Time taken t1 = 2h/g.
        • 0 < t < t1 :
          For t < 0, the scale was (m + M )g. As t = 0 → t1 , more sand will enter the mid air
-INPhO 2018   Page 8            Questions & Summary Answers            Last four digits of Roll No.:
+
+
+INPhO 2018   Page 8            Questions & Summary Answers            Last four digits of Roll No.:
 
           portion and hence the reading will drop,
                                                      dm
@@ -690,7 +706,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
         µ=
         ~
-INPhO 2018    Page 9      Questions & Summary Answers
+
+
+INPhO 2018    Page 9      Questions & Summary Answers
 
          Solution: Given
                                         ~ r) = µ0 [3(~
@@ -728,12 +746,12 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                             C1
                                              µ=
                                                  3 µ0
-                                                  
+
                                                         Mg
 
                                                       M g 4π
                                                        6 µ0
-                                                               1/2
+                                                                1/2
                                                                    8  z2                      (17)
 
 
@@ -766,7 +784,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                        e~
                                µB =       = 9.20 × 10−24 to 9.30 × 10−24 A · m2
                                       2me
-INPhO 2018   Page 10      Questions & Summary Answers                   Last four digits of Roll No.:
+
+
+INPhO 2018   Page 10      Questions & Summary Answers                   Last four digits of Roll No.:
         iii. Assume that the sole contribution to the dipole moment of a ZnFe2 O4 molecule comes           [3]
              from an unpaired electron. Also assume that the magnets in the part (5a) are 0.482 kg
              each of ZnFe2 O4 and the unpaired electrons of the molecules are all aligned. Calculate
@@ -821,9 +841,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
 6. The Van der Waals Gas:
    Consider n mole of a non-ideal (realistic) gas. Its equation of state maybe described by the Van
-   der Waals equation                           !
+   der Waals equation                           !
                                             an2      V
-                                                           
+
                                       P+ 2              − b = RT
                                              V       n
    where a and b are positive constants. We take one mole of the gas (n = 1). You must bear in
@@ -832,11 +852,13 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
         i. the coefficient of volume expansion (β);                                                        [1]
 
              β=
-INPhO 2018    Page 11       Questions & Summary Answers
+
+
+INPhO 2018    Page 11       Questions & Summary Answers
 
                Solution:
                                                  1             dV               V −b
-                                                                   
+
                                               β=                            =                                       (22)
                                                  V             dT       p        VT
 
@@ -849,7 +871,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
                Solution:
                                                    1           dV               (V − b)2
-                                                                   
+
                                             κ=−                             =                                       (23)
                                                    V           dP       T         V RT
 
@@ -894,10 +916,12 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                Solution: At criticality, the curve is a cubic like function. Hence
                                                                                 !
                                                   dP                d2 P
-                                                      
+
                                                                =                        =0
                                                   dV       T        dV 2            T
-INPhO 2018   Page 12      Questions & Summary Answers                 Last four digits of Roll No.:
+
+
+INPhO 2018   Page 12      Questions & Summary Answers                 Last four digits of Roll No.:
 
               Above condition along with Van der Waal’s equation can be used to obtain
 
@@ -932,7 +956,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
 
    (c) The gas phase:
-       For the gaseous phase the volume VG  b. Let the pressure PLG = P0 , the saturated vapour
+       For the gaseous phase the volume VG   b. Let the pressure PLG = P0 , the saturated vapour
 
 
 
@@ -950,9 +974,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
                                                  P0 VG2 − RT VG + a = 0
                                                        4aP0
-                                                                  1/2 !
+                                                                   1/2 !
                                            RT
-                                                       
+
                                       VG =        1± 1− 2 2
                                            2P0         R T
 
@@ -967,7 +991,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
         ii. State the corresponding expression for VI for an ideal gas.                                [1/2]
 
              VI =
-INPhO 2018   Page 13      Questions & Summary Answers
+
+
+INPhO 2018   Page 13      Questions & Summary Answers
 
                                RT
               Solution: VI =
@@ -1000,14 +1026,14 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
               Comment 2: Answer is negative, indicating attractive intermolecular forces.
 
    (d) The liquid phase:
-       For the liquid phase P  a/VL2 .
+       For the liquid phase P   a/VL2 .
         i. Obtain the expression for VL .                                                          [11/2]
 
              VL =
 
 
                        HB
-              Solution: In this phase P  Va2 Hence
+              Solution: In this phase P   Va2 Hence
                                               L
 
                                                            a
@@ -1024,7 +1050,7 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                        VL =       1−                  1−
                                               2RT                            a
                                                   bRT
-                                                                 
+
                                             ≃b 1+
                                                    a
 
@@ -1032,7 +1058,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
         ii. Obtain the density of water (ρw ). You may take the molar mass to be 1.80 × 10−2       [11/2]
             kg·mole−1 .
              ρw =
-INPhO 2018     Page 14     Questions & Summary Answers                  Last four digits of Roll No.:
+
+
+INPhO 2018     Page 14     Questions & Summary Answers                  Last four digits of Roll No.:
 
                Solution:
                                     1.80 × 10−2
@@ -1106,7 +1134,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
                                                        2ρw g √
                                                  v=            h
                                                         ρa
-INPhO 2018    Page 15        Questions & Summary Answers
+
+
+INPhO 2018    Page 15        Questions & Summary Answers
 
           The speed of air gushing in through the small hole is related to speed vw of fall of water
           level by
@@ -1189,7 +1219,9 @@ RECT ANSWERS WILL GAIN PARTIAL CREDIT.
 
          iii. The initial speed (vw ) of the water level.
               vw (t = 0) =
-INPhO 2018   Page 16    Questions & Summary Answers             Last four digits of Roll No.:
+
+
+INPhO 2018   Page 16    Questions & Summary Answers             Last four digits of Roll No.:
 
              Solution: 2.35 ≤ vw (cm/s) ≤ 2.65
 

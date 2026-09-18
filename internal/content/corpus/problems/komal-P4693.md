@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201501"
 verification_status: pending
 ---
 
-What is the temperature measured in Kelvins at which a  mercury-in-glass thermometer reads the same value in Celsius and in Fahrenheit scale, and what is this same value? 
+What is the temperature measured in Kelvins at which a  mercury-in-glass thermometer reads the same value in Celsius and in Fahrenheit scale, and what is this same value?
  (3 pont)

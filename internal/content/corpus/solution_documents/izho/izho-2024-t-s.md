@@ -32,21 +32,21 @@ where the moment of inertia of the bicone is introduced
                     10
         The change in potential energy of the bicone during its motion is
                                      𝑟𝑟
-               𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − �,                                                                (5)
+               𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 −  ,                                                                (5)
                                      𝑅𝑅
 and according to the law of conservation of energy the relation must be satisfied
                𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝 .                                                                 (6)
         From the geometric relationships the relation between the rolling radius 𝑟𝑟 and the coordinate 𝑥𝑥 is
 obtained in the following form
                              𝑥𝑥
-               𝑟𝑟 = 𝑅𝑅 �1 − tan γ�,                                                                  (7)
+               𝑟𝑟 = 𝑅𝑅  1 − tan γ ,                                                                  (7)
                              ℎ
 so, putting together equations (1)-(7), we get
                                                 𝑥𝑥
                                                    tan γ
-               𝑣𝑣 (𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                 ℎ
+               𝑣𝑣 (𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                 ℎ
                                                       𝑥𝑥   2        .                                         (8)
-                                           1+3/10�1− tan γ�
+                                           1+3/10 1− tan γ
                                                       ℎ
 
         In particular, for the value 𝑥𝑥0 = 50.0 cm the calculations
@@ -54,16 +54,16 @@ so, putting together equations (1)-(7), we get
         From the same expressions (1)-(7) the dependence of the square of the angular velocity of rotation on
 the rolling radius is found as
                                                         𝑟𝑟
-                      2𝑔𝑔          𝑚𝑚𝑅𝑅2            �1− �
+                      2𝑔𝑔          𝑚𝑚𝑅𝑅2             1−
                  2
                𝜔𝜔 =            ∙               ∙       𝑅𝑅
                                                       𝑚𝑚𝑟𝑟2
                                                              ,                                                 (10)
-                          𝑅𝑅         𝐼𝐼            �1+ 𝐼𝐼 �
+                          𝑅𝑅         𝐼𝐼             1+ 𝐼𝐼
 
 which has a maximum value at 𝑟𝑟 = 0, equal to
                                    20𝑔𝑔
-               𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �                    = 40.4 rad/s.                                                  (11)
+               𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                      = 40.4 rad/s.                                                  (11)
                                     3𝑅𝑅
 It is interesting to note that the bicone in this position actually rotates in one place, that is, its translational
 speed actually becomes zero in accordance with formula (1).
@@ -78,28 +78,30 @@ speed actually becomes zero in accordance with formula (1).
                       3
   Formula (4): 𝐼𝐼 = 10 𝑚𝑚𝑅𝑅2                                                                          0.5
                                                         𝑟𝑟
-  Formula (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − 𝑅𝑅�                                                                0.2
+  Formula (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 − 𝑅𝑅                                                                 0.2
   Formula (6): 𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝                                                                    0.2
                                           𝑥𝑥
-  Formula (7): 𝑟𝑟 = 𝑅𝑅 �1 − ℎ tan γ�                                                                  0.5
-XX International Zhautykov Olympiad/Theoretical Competition                                                  с. 2/14
+  Formula (7): 𝑟𝑟 = 𝑅𝑅  1 − ℎ tan γ                                                                   0.5
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                  с. 2/14
 
                                                  𝑥𝑥
                                                     tan γ
-  Formula (8): 𝑣𝑣(𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                   ℎ
+  Formula (8): 𝑣𝑣(𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                   ℎ
                                                        𝑥𝑥  2                                          0.2
-                                           1+0,3/�1− tan γ�
+                                           1+0,3/ 1− tan γ
                                                        ℎ
 
   Formula (9): 𝑣𝑣0 = 42.2 cm/s                                                                        0.2
                                                       𝑟𝑟
-                          2𝑔𝑔       𝑚𝑚𝑅𝑅2         �1− �
+                          2𝑔𝑔       𝑚𝑚𝑅𝑅2          1−
   Formula (10): 𝜔𝜔2 =           ∙            ∙        𝑅𝑅
                                                     𝑚𝑚𝑟𝑟2                                             0.2
-                          𝑅𝑅          𝐼𝐼         �1+ 𝐼𝐼 �
+                          𝑅𝑅          𝐼𝐼          1+ 𝐼𝐼
 
                                     20𝑔𝑔
-  Formula (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �                                                                          0.2
+  Formula (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                                                                            0.2
                                      3𝑅𝑅
   Numerical value in formula (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = 40.4 rad/s                                              0.2
   Total                                                                                               3.0
@@ -150,7 +152,9 @@ of the vessel
 that is, unlike the previous case, in both parts of the vessel the pressure is not the same, but the temperature
 is, which, however, changes.
          The initial volumes of each part of the vessel are determined by the Gay-Lussac law and are equal to
-XX International Zhautykov Olympiad/Theoretical Competition                                                   с. 3/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                   с. 3/14
 
                          𝑉𝑉 𝑇𝑇
                  𝑉𝑉01 = 0𝑇𝑇 0 ,                                                                               (14)
@@ -178,7 +182,7 @@ of the vessel
 whose integration gives the final temperature
                                          𝑇𝑇0               𝑇𝑇0
                              𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-                 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 K.                                                        (22)
+                 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 K.                                                        (22)
                                1        2
         The work done by external forces on the partition to move it is opposite in sign to the work done by
 the gas itself, therefore, from expressions (16) and (17) the work can easily be found in the form
@@ -196,7 +200,7 @@ occurs without change in entropy
 from where, using (6), (7), (10), (14), (15) we obtain the final temperature of the system
                                          𝑇𝑇0               𝑇𝑇0
                              𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-                 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 K.                                                        (26)
+                 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 K.                                                        (26)
                                1        2
         The work of the external force is spent on changing the internal energy of the gas:
                                                                    𝑇𝑇 −𝑇𝑇0
@@ -224,7 +228,9 @@ from where, using (6), (7), (10), (14), (15) we obtain the final temperature of 
   Formula (11): 𝑄𝑄 = 2 𝑃𝑃0 𝑉𝑉0 ∙ 𝑇𝑇2 +𝑇𝑇1
                                                𝑇𝑇 −𝑇𝑇                                                  0.4
                                                    1   2
-XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 4/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 4/14
 
   Numerical value in formula (11): 𝑄𝑄 = 70.0 J                                                       0.1
   Formula (12): 𝐶𝐶𝑝𝑝 = 𝐶𝐶𝑉𝑉 + 𝑅𝑅                                                                     0.1
@@ -248,10 +254,10 @@ from where, using (6), (7), (10), (14), (15) we obtain the final temperature of 
                                    𝑇𝑇0 5𝑇𝑇1
                                                       𝑇𝑇0
                                                  𝑇𝑇0 5𝑇𝑇2                                            0.2
-  Formula (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                �𝑇𝑇 �
+  Formula (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                   𝑇𝑇
                                       1           2
 
-  Formula (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
+  Formula (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
                       ′                                          𝑇𝑇 −𝑇𝑇0                             0.2
                                                                     0
   Numerical value in formula (23): 𝐴𝐴′ = 4.04 J                                                      0.2
@@ -272,10 +278,10 @@ from where, using (6), (7), (10), (14), (15) we obtain the final temperature of 
                                    𝑇𝑇0 5𝑇𝑇1
                                                       𝑇𝑇0
                                                  𝑇𝑇0 5𝑇𝑇2                                            0.2
-  Formula (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                �𝑇𝑇 �
+  Formula (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                   𝑇𝑇
                                       1           2
 
-  Formula (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
+  Formula (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
                       ′                                          𝑇𝑇 −𝑇𝑇0                             0.2
                                                                     0
   Numerical value in formula (27): 𝐴𝐴′ = 4.04 J                                                      0.2
@@ -300,7 +306,9 @@ current are required. If the shaft rotation speed is equal to 𝜔𝜔2 = , wher
                                                                                  𝑡𝑡2
 the load 𝑚𝑚2 , then the corresponding equation has the form:
                  𝑈𝑈 = 𝛼𝛼𝜔𝜔2 + 2𝐼𝐼(𝑟𝑟 + 𝑅𝑅).                                                                 (4)
-XX International Zhautykov Olympiad/Theoretical Competition                                                     с. 5/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                     с. 5/14
 
         For uniform lifting of a load with a mass of 𝑚𝑚𝑛𝑛 = 𝑛𝑛𝑛𝑛, the required current is equal to 𝐼𝐼𝑛𝑛 = 𝑛𝑛𝑛𝑛. If this
                                                 𝜑𝜑
@@ -319,7 +327,7 @@ whence the time for lifting a load of mass 𝑚𝑚𝑛𝑛 is equal to
 we find that 𝑛𝑛 < 2 + 1, which means that the number of loads 𝑛𝑛 should not exceed
                      Δ𝑡𝑡
                                 𝑡𝑡                             𝑡𝑡 +2Δ𝑡𝑡
-                𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1      � = [10,6 … ] = 10.                                            (9)
+                𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1        = [10,6 … ] = 10.                                            (9)
                                              Δ𝑡𝑡
         The lifting time of 𝑛𝑛 = 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 loads is equal to
                                   𝑡𝑡 𝑡𝑡          𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
@@ -341,7 +349,7 @@ we find that 𝑛𝑛 < 2 + 1, which means that the number of loads 𝑛𝑛 sho
                                          1                 2           2
   Formula (8): 𝑡𝑡𝑛𝑛 > 0                                                                                  0.4
                            𝑡𝑡           𝑡𝑡 +2Δ𝑡𝑡
-  Formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1 Δ𝑡𝑡 �                                                         0.4
+  Formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1 Δ𝑡𝑡                                                           0.4
   Numerical value in formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = 10                                                          0,2
                                   𝑡𝑡 𝑡𝑡            𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
   Formula (10): 𝑡𝑡𝑚𝑚𝑚𝑚𝑚𝑚 = 𝑡𝑡 −(𝑛𝑛 1 2−1)Δ𝑡𝑡 = 𝑡𝑡 −(𝑛𝑛                                                   0,4
@@ -370,10 +378,12 @@ one of the bodies, for example for the first, in the form
                                                       0
 which, taking into account equation (3), gives
                                   𝑚𝑚1 +𝑚𝑚2
-                 𝜔𝜔0 = �𝐺𝐺                            .                                                         (6)
+                 𝜔𝜔0 =  𝐺𝐺                            .                                                         (6)
                                          𝑅𝑅03
                                                           Lagrange points in a three-body system
-XX International Zhautykov Olympiad/Theoretical Competition                                               с. 6/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                               с. 6/14
 
 2.3 The expression for the projection of the force acting on a small body 𝑚𝑚0 follows from Newton’s law of
 universal gravitation, which, taking into account the direction of the forces, yields
@@ -422,7 +432,9 @@ and 𝑚𝑚2 . For this point, equation (10) can be rewritten as
        It follows from the table that the root of the equation lies in the range from 0.4 to 0.5, i.e.
                𝑥𝑥1 ≈ 0.45.                                                                             (12)
        For the coordinate of the point 𝐿𝐿2 lying behind the body 𝑚𝑚2 ,, we have the equation
-XX International Zhautykov Olympiad/Theoretical Competition                                                              с. 7/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                              с. 7/14
 
                        1−𝜇𝜇                      𝜇𝜇
                𝑥𝑥 =                 +                   ,                                                                 (13)
@@ -449,15 +461,15 @@ coordinate of the Lagrange point 𝐿𝐿3 is found as
 𝐿𝐿4 , we write the expression for the total force acting on a body of small mass
 𝑚𝑚0 in a vector form:
                          𝑚𝑚 𝑚𝑚                 𝑚𝑚 𝑚𝑚
-                 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟���⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟���⃗.
+                 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟   ⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟   ⃗.
                                                             2                (17)
                                 0                       0
         The expression on the right hand side of formula (17) is expressed
 through the radius vector of the center of mass
-               𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗,
+               𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗,
                                                            𝐶𝐶     (18)
 then the equation of Newton’s second law for this body in projection onto the
-direction of the vector 𝑟𝑟���⃗𝐶𝐶 has the form:
+direction of the vector 𝑟𝑟   ⃗𝐶𝐶 has the form:
                                          𝑚𝑚
                𝑚𝑚0 𝜔𝜔 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅30 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶 .
                           2
@@ -465,7 +477,7 @@ direction of the vector 𝑟𝑟���⃗𝐶𝐶 has the form:
                                             0
        From this equation it follows that the angular velocity of the body 𝑚𝑚0 is equal to
                                 𝑚𝑚1 +𝑚𝑚2
-               𝜔𝜔 = �𝐺𝐺                         = 𝜔𝜔0 ,                                                                   (20)
+               𝜔𝜔 =  𝐺𝐺                         = 𝜔𝜔0 ,                                                                   (20)
                                     𝑅𝑅03
 which coincides with the angular velocity of rotation of massive bodies (6), therefore the position of the body
 𝑚𝑚0 remains unchanged relative to the massive bodies. Therefore, the vertex of an equilateral triangle is indeed
@@ -491,18 +503,20 @@ equation (11) we obtain
 simplified and its solution is obtained as 𝑧𝑧 = (𝜇𝜇/3)          1/3
                                                                        , that is, the required distance is equal to
                             3    𝑀𝑀
-               𝑙𝑙𝑆𝑆 = 𝑅𝑅0 �3𝑀𝑀2 = 1.50 ∙ 106 km.                                                                          (23)
+               𝑙𝑙𝑆𝑆 = 𝑅𝑅0  3𝑀𝑀2 = 1.50 ∙ 106 km.                                                                          (23)
                                       1
 2.9 Obviously, the James Webb telescope is located at the Lagrange point 𝐿𝐿2 , therefore, to determine its
 position, it is necessary to solve equation (13) using a method similar to the method in 2.8:
-XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 8/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 8/14
 
                                      1          𝜇𝜇
                 1 + 𝑧𝑧 = (1+𝑧𝑧)2 + 2,                                                                        (24)
                                                 𝑧𝑧
 i.e. the space telescope is located at the same distance from the Earth (only on the other side):
                              3       𝑀𝑀
-                𝑙𝑙𝑊𝑊 = 𝑅𝑅0 � 3𝑀𝑀2 = 1.50 ∙ 106 km.                                                           (25)
+                𝑙𝑙𝑊𝑊 = 𝑅𝑅0   3𝑀𝑀2 = 1.50 ∙ 106 km.                                                           (25)
                                           1
 
 2.10 If an asteroid accidentally ends up at the Lagrange point 𝐿𝐿4 , or the point 𝐿𝐿5 symmetrical to it for the
@@ -513,7 +527,7 @@ from Jupiter to these points is equal to the distance from Jupiter to the Sun. T
 less than the mass of the Sun, so the distance between them is almost equal to the radius of Jupiter's orbit,
 which can be found using Kepler's third law
                               𝑇𝑇         2/3
-                𝑙𝑙𝐽𝐽 = 𝑅𝑅0 � 𝑇𝑇𝐽𝐽 �            = 7.82 ∙ 108 km,                                              (26)
+                𝑙𝑙𝐽𝐽 = 𝑅𝑅0   𝑇𝑇𝐽𝐽              = 7.82 ∙ 108 km,                                              (26)
                                  0
 where 𝑇𝑇0 = 1.00 year stands for the period of rotation of the Earth around the Sun.
 
@@ -532,7 +546,7 @@ where 𝑇𝑇0 = 1.00 year stands for the period of rotation of the Earth aroun
             Formula (5): 𝑚𝑚1 𝜔𝜔02 𝑅𝑅1 = 𝐺𝐺                                                      0.1
                                                                      𝑅𝑅02
     2.2                                                  𝑚𝑚1 +𝑚𝑚2                               0.1         0.2
-            Formula (6): 𝜔𝜔0 = �𝐺𝐺     𝑅𝑅03
+            Formula (6): 𝜔𝜔0 =  𝐺𝐺     𝑅𝑅03
                                       𝑚𝑚0𝑚𝑚1                    𝑚𝑚0 𝑚𝑚1
             Formula (7): 𝐹𝐹𝑥𝑥 = −𝐺𝐺 |𝑋𝑋+𝑅𝑅 |3 (𝑋𝑋 + 𝑅𝑅1 ) − 𝐺𝐺 |𝑋𝑋−𝑅𝑅   (
                                                                        3 𝑋𝑋 − 𝑅𝑅2
@@ -554,37 +568,39 @@ where 𝑇𝑇0 = 1.00 year stands for the period of rotation of the Earth aroun
     2.6     - position is pointed;                                                         =0.9             0.9
             - numerical value is obtained.
                                   𝑚𝑚 𝑚𝑚                𝑚𝑚 𝑚𝑚
-            Formula (17): 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟���⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟���⃗2                         0.2
+            Formula (17): 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟   ⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟   ⃗2                         0.2
                                                          0                        0
-            Formula (18): 𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗
+            Formula (18): 𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗
                                                                       𝐶𝐶                        0.2
                                                     𝑚𝑚
     2.7     Formula (19): 𝑚𝑚0 𝜔𝜔2 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅30 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶                               0.3         1.0
                                                                       0
                                                          𝑚𝑚1 +𝑚𝑚2                               0.3
-            Formula (20): 𝜔𝜔 = �𝐺𝐺                                        = 𝜔𝜔0
+            Formula (20): 𝜔𝜔 =  𝐺𝐺                                        = 𝜔𝜔0
                                                               𝑅𝑅03
             Numerical value in equation (21): 𝜇𝜇 = 3.00 ∙ 10−6                                  0.2
             Exact equation (22): 1 − 𝜇𝜇 − 𝑧𝑧 = (1−𝑧𝑧)2 − 𝑧𝑧 2
                                                                               1−𝜇𝜇    𝜇𝜇        0.2
     2.8                                              3    𝑀𝑀                                    0.7         1.6
-            Formula (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0 � 3𝑀𝑀2
+            Formula (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0   3𝑀𝑀2
                                                                 1
 
             Numerical value in formula (23): 𝑙𝑙𝑆𝑆 = 1.50 ∙ 106 km.                              0.5
-XX International Zhautykov Olympiad/Theoretical Competition                                              с. 9/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                              с. 9/14
 
                                                1
            Formula (24): 1 + 𝑧𝑧 = (1+𝑧𝑧)2 + 𝑧𝑧 2
                                                          𝜇𝜇                                  0.2
 
     2.9                                3       𝑀𝑀                                            0.7        1.4
-           Formula (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0 �3𝑀𝑀2
+           Formula (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0  3𝑀𝑀2
                                                     1
 
            Numerical value in formula (25): 𝑙𝑙𝑊𝑊 = 1.50 ∙ 106 km.                            0.5
                                         𝑇𝑇         2/3                                       1.0
-           Formula (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0 � 𝑇𝑇𝐽𝐽 �
+           Formula (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0   𝑇𝑇𝐽𝐽
    2.10                                    0                                                            1.4
            Numerical value in formula (26): 𝑙𝑙𝐽𝐽 = 7.82 ∙ 108 km                             0.4
    Total                                                                                               10.0
@@ -617,7 +633,7 @@ where 𝑇𝑇0 = 1.00 year stands for the period of rotation of the Earth aroun
         In accordance with 3.4, the radiation power catched by the detector is proportional to the angle,
 therefore the formula for calculating the milliammeter readings has the form
                                   𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))            𝑎𝑎       𝑎𝑎
-                ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �                         − 1� at − 2 < 𝑥𝑥 < 2 ,                         (7)
+                ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0                           − 1  at − 2 < 𝑥𝑥 < 2 ,                         (7)
                                             2𝛼𝛼
 and it is obvious that
                                                                            𝑎𝑎
@@ -629,7 +645,9 @@ and
 characteristic points of the graph are found as
                 ∆𝐼𝐼 = 0.00 mA                                  at 𝑥𝑥 = −2.50 cm,                         (10)
                 ∆𝐼𝐼 = −5.00 mA                                 at 𝑥𝑥 = 2.50 cm.                          (11)
-XX International Zhautykov Olympiad/Theoretical Competition                                             с. 10/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                             с. 10/14
 
 
 
@@ -658,13 +676,15 @@ coordinate value is obviously equal to
 
 3.8 The value of ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 at point 𝑥𝑥2 is found from the relation
                                 𝛼𝛼+𝜃𝜃
-              ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 �       − 1�,                                                               (14)
+              ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0         − 1 ,                                                               (14)
                                  2𝛼𝛼
 where the angle 𝛼𝛼 is still determined by expression (5), and the angle 𝜃𝜃 is derived as
                         𝑎𝑎
               𝜃𝜃 =          ,                                                                             (15)
                     2(𝐿𝐿−𝑑𝑑)
-XX International Zhautykov Olympiad/Theoretical Competition                                                с. 11/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                с. 11/14
 
 wherefrom we finally get
                         𝐼𝐼              𝑑𝑑
@@ -688,7 +708,7 @@ and according to the law of refraction
        Then from expressions (17)-(19), we finally obtain
                         𝑎𝑎 (𝐿𝐿−𝑑𝑑)
               𝑥𝑥3 = − 2            1 .                                                                       (20)
-                                  �𝐿𝐿−𝑑𝑑�1−𝑛𝑛��
+                                   𝐿𝐿−𝑑𝑑 1−𝑛𝑛
 
 3.10 The graph section from coordinate 𝑥𝑥3 to zero is due to the fact that the light partially passes directly
 through the slit, and partially enters through the plate, being refracted and reflected in it. The path of the rays
@@ -704,18 +724,20 @@ to
                         (𝐿𝐿−𝑑𝑑)
                              𝑥𝑥3                    𝑎𝑎
                  𝛽𝛽 = − (𝐿𝐿−𝑑𝑑) =                        1    ,                                              (22)
-                                             2�𝐿𝐿−𝑑𝑑�1− ��
+                                             2 𝐿𝐿−𝑑𝑑 1−
                                                          𝑛𝑛
 then the value ∆𝐼𝐼(𝑥𝑥 ) takes the form
                                  𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-               ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �       2𝛼𝛼
-                                                 − 1�,                                                       (23)
+               ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0         2𝛼𝛼
+                                                 − 1 ,                                                       (23)
 wherefrom we get the slope coefficient
                𝑑𝑑∆𝐼𝐼(𝑥𝑥)          (1−𝜏𝜏)𝐿𝐿
                  𝑑𝑑𝑑𝑑
                          = −𝐼𝐼0            .                                                                 (24)
                                         𝑎𝑎(𝐿𝐿−𝑑𝑑)
-XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 12/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                 с. 12/14
 
 3.11 Based on the graph given in the problem formulation, we have 𝑥𝑥1 = −2.50 cm, 𝑥𝑥2 = −2.00 cm, 𝑥𝑥3 =
 −1.75 cm, ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 10.0 mA and 𝑑𝑑∆𝐼𝐼(𝑥𝑥 )/𝑑𝑑𝑑𝑑 = −1.20 mA/cm, we obtain the following values of the
@@ -758,17 +780,19 @@ and is equal to
                            𝐿𝐿
 and the readings of the milliammeter are determined by the expression
                               𝜏𝜏(𝛼𝛼+𝛽𝛽)
-                ∆𝐼𝐼4 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = −1.9 mA.                                                             (31)
+                ∆𝐼𝐼4 = 𝐼𝐼0   2𝛼𝛼 − 1  = −1.9 mA.                                                             (31)
         The coordinate 𝑥𝑥5 is obtained as
                       𝑎𝑎
                 𝑥𝑥5 = 2 = 2.0 см,                                                                            (32)
 and the readings of the milliammeter are determined by the expression
-XX International Zhautykov Olympiad/Theoretical Competition                                                                 с. 13/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                                                                 с. 13/14
 
                                              𝑎𝑎
-                                 𝜏𝜏�𝛼𝛼+           �
+                                 𝜏𝜏 𝛼𝛼+
                                           2(𝐿𝐿−𝑑𝑑)
-                ∆𝐼𝐼5 = 𝐼𝐼0 �                              − 1� = 7.7 mA.                                                     (33)
+                ∆𝐼𝐼5 = 𝐼𝐼0                                − 1  = 7.7 mA.                                                     (33)
                                       2𝛼𝛼
          The angles indicated in the figure are equal
                      𝑥𝑥6
@@ -782,11 +806,11 @@ and are related by the equation
        Thus, the coordinate of point 𝑥𝑥6 is found to be
                      𝑎𝑎   (𝐿𝐿−𝑑𝑑)
                𝑥𝑥6 = 2            1 = 2.4 cm,                                                                                (37)
-                          �𝐿𝐿−𝑑𝑑�1+𝑛𝑛��
+                           𝐿𝐿−𝑑𝑑 1+𝑛𝑛
 
 whereas the readings of the milliammeter are determined by the expression
                           𝜏𝜏(𝛼𝛼+𝛿𝛿)
-              ∆𝐼𝐼6 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = 0.24 mA.                                                                               (38)
+              ∆𝐼𝐼6 = 𝐼𝐼0   2𝛼𝛼 − 1  = 0.24 mA.                                                                               (38)
       The full relationship graph is shown in the figure below.
 
 
@@ -803,7 +827,7 @@ whereas the readings of the milliammeter are determined by the expression
                                                𝑥𝑥
             Formula (6): 𝜃𝜃(𝑥𝑥) = 𝐿𝐿                                                                               0.2
                                                           𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))              𝑎𝑎             𝑎𝑎
-            Formula (7): ∆𝐼𝐼(𝑥𝑥 ) = 𝐼𝐼0 �                                           − 1�   at − 2 ≤ 𝑥𝑥 ≤ 2         0.4
+            Formula (7): ∆𝐼𝐼(𝑥𝑥 ) = 𝐼𝐼0                                             − 1    at − 2 ≤ 𝑥𝑥 ≤ 2         0.4
                                                                     2𝛼𝛼
                                                                                                          𝑎𝑎
    3.5      Formula (8): ∆𝐼𝐼(𝑥𝑥 ) = 0                                                      at 𝑥𝑥 < − 2             0.4      3.5
@@ -817,12 +841,14 @@ whereas the readings of the milliammeter are determined by the expression
                                                 𝑎𝑎
    3.7      Formula (13): 𝑥𝑥2 = − 2                                                                                0.1      0.1
                                                             𝛼𝛼+𝜃𝜃
-            Formula (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 � 2𝛼𝛼 − 1�                                                               0.1
+            Formula (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0   2𝛼𝛼 − 1                                                                0.1
                                                𝑎𝑎
    3.8      Formula (15): 𝜃𝜃 = 2(𝐿𝐿−𝑑𝑑)                                                                            0.1      0.4
             Formula (16): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 20 (𝐿𝐿−𝑑𝑑)
                                                      𝐼𝐼     𝑑𝑑                                                     0.2
-XX International Zhautykov Olympiad/Theoretical Competition                           с. 14/14
+
+
+XX International Zhautykov Olympiad/Theoretical Competition                           с. 14/14
 
                                             𝑥𝑥
           Formula (17): 𝜃𝜃 = − (𝐿𝐿−𝑑𝑑)
@@ -835,7 +861,7 @@ whereas the readings of the milliammeter are determined by the expression
           Formula (20): 𝑥𝑥3 = − 2
                                            𝑎𝑎      (𝐿𝐿−𝑑𝑑)                     0.2
                                                          1
-                                                �𝐿𝐿−𝑑𝑑�1−𝑛𝑛��
+                                                 𝐿𝐿−𝑑𝑑 1−𝑛𝑛
                                       𝑥𝑥
           Formula (21): 𝜃𝜃 = (𝐿𝐿−𝑑𝑑)                                           0.2
                                             𝑥𝑥                  𝑎𝑎
@@ -843,12 +869,12 @@ whereas the readings of the milliammeter are determined by the expression
                                    3
                                        =                              1
                                                                                0.2
-                                                       2�𝐿𝐿−𝑑𝑑�1− ��
+                                                       2 𝐿𝐿−𝑑𝑑 1−
    3.10                                                               𝑛𝑛
                                                                                       0.8
-          Formula (23): ∆𝐼𝐼(𝑥𝑥 ) = 𝐼𝐼0 �
+          Formula (23): ∆𝐼𝐼(𝑥𝑥 ) = 𝐼𝐼0
                                                     𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-                                                                       − 1�    0.2
+                                                                       − 1     0.2
                                                          2𝛼𝛼
 
           Formula (24):
@@ -877,7 +903,9 @@ whereas the readings of the milliammeter are determined by the expression
           Numerical value in formula (38): ∆𝐼𝐼6 = 0.24 mA                      0.2
           Correct 4 straight lines on the graph from 0.00 to 3.00 cm          4x0.1
   Total                                                                               10.0
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                 с. 1/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                 с. 1/15
 
                     ТЕОРИЯЛЫҚ САЙЫСТЫҢ ЕСЕПТЕРІНІҢ ШЕШІМІ
                     Назар аударыңыз: бағалау ұпайлары бөлшектенбейді!
@@ -898,21 +926,21 @@ whereas the readings of the milliammeter are determined by the expression
                    10
        Биконустың қозғалыс кезіндегі потенциалдық энергиясының өзгеруі
                                     𝑟𝑟
-              𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − �,                                                (5)
+              𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 −  ,                                                (5)
                                     𝑅𝑅
 ал энергияның сақталу заңы бойынша мына қатынас қанағаттандырылуы керек
               𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝 .                                                 (6
        Геометриялық қатынастардан r радиусы мен х координатасы арасында мынадай байланыс
 шығады
                             𝑥𝑥
-              𝑟𝑟 = 𝑅𝑅 �1 − tan γ�,                                                  (7)
+              𝑟𝑟 = 𝑅𝑅  1 − tan γ ,                                                  (7)
                             ℎ
 Одан әрі (1)-(7) теңдеулерден мынаны аламыз
                                               𝑥𝑥
                                                  tan γ
-              𝑣𝑣 (𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                ℎ
+              𝑣𝑣 (𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                ℎ
                                                     𝑥𝑥   2       .                        (8)
-                                         1+3/10�1− tan γ�
+                                         1+3/10 1− tan γ
                                                     ℎ
 
       Нақтылы жағдайда 𝑥𝑥0 = 50.0 см үшін есептеулер мынаны береді
@@ -920,16 +948,16 @@ whereas the readings of the milliammeter are determined by the expression
       Осы (1)-(7) теңдеулерден бұрыштық жылдамдықтың квадратының айналу радиусынан
 тәуелділігі
                                                    𝑟𝑟
-                     2𝑔𝑔        𝑚𝑚𝑅𝑅2          �1− �
+                     2𝑔𝑔        𝑚𝑚𝑅𝑅2           1−
                 2
               𝜔𝜔 =          ∙            ∙        𝑅𝑅
                                                  𝑚𝑚𝑟𝑟2
                                                           ,                                (10)
-                      𝑅𝑅           𝐼𝐼         �1+ 𝐼𝐼 �
+                      𝑅𝑅           𝐼𝐼          1+ 𝐼𝐼
 
 Ол 𝑟𝑟 = 0 болғанда мынадай максимальді мән қабылдайды
                                 20𝑔𝑔
-              𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �               = 40.4 рад/с.                                    (11)
+              𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                 = 40.4 рад/с.                                    (11)
                                    3𝑅𝑅
 Бұл жағдайда биконус бір орнында айналады, яғни (1) өрнекке сәйкес оның ілгерілемелі жылдамдығы
 нөлге тең болады
@@ -944,28 +972,30 @@ whereas the readings of the milliammeter are determined by the expression
                       3
   Формула (4): 𝐼𝐼 = 10 𝑚𝑚𝑅𝑅2                                                        0.5
                                                      𝑟𝑟
-  Формула (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − 𝑅𝑅 �                                             0.2
+  Формула (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 − 𝑅𝑅                                               0.2
   Формула (6): 𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝                                                  0.2
                                          𝑥𝑥
-  Формула (7): 𝑟𝑟 = 𝑅𝑅 �1 − ℎ tan γ�                                                0.5
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                  с. 2/15
+  Формула (7): 𝑟𝑟 = 𝑅𝑅  1 − ℎ tan γ                                                 0.5
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                  с. 2/15
 
                                                     𝑥𝑥
                                                        tan γ
-  Формула (8): 𝑣𝑣 (𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                     ℎ
+  Формула (8): 𝑣𝑣 (𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                     ℎ
                                                           𝑥𝑥  2                      0.2
-                                              1+0,3/�1− tan γ�
+                                              1+0,3/ 1− tan γ
                                                           ℎ
 
   Формула (9): 𝑣𝑣0 = 42.2 см/с                                                       0.2
                                                          𝑟𝑟
-                             2𝑔𝑔       𝑚𝑚𝑅𝑅2         �1− �
+                             2𝑔𝑔       𝑚𝑚𝑅𝑅2          1−
   Формула (10): 𝜔𝜔2 =              ∙            ∙       𝑅𝑅
                                                        𝑚𝑚𝑟𝑟2                         0.2
-                             𝑅𝑅          𝐼𝐼         �1+ 𝐼𝐼 �
+                             𝑅𝑅          𝐼𝐼          1+ 𝐼𝐼
 
                                        20𝑔𝑔
-  Формула (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �                                                         0.2
+  Формула (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                                                           0.2
                                         3𝑅𝑅
   (11) формуласының сан мәні: 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = 40.4 рад/с                                  0.2
   Барлығы                                                                            3.0
@@ -1018,7 +1048,9 @@ whereas the readings of the milliammeter are determined by the expression
                      𝑉𝑉0 𝑇𝑇0
               𝑉𝑉02 = 𝑇𝑇 .                                                                  (15)
                          2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                           с. 3/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                           с. 3/15
 
        Ыдыс бөліктеріндегі қысымдарды 𝑃𝑃1 және 𝑃𝑃2 , ал көлемдерді 𝑉𝑉1 және 𝑉𝑉2 деп белгілейік.
 Обозначим давление в частях сосуда как 𝑃𝑃1 и 𝑃𝑃2 , а соответствующие объемы – 𝑉𝑉1 и 𝑉𝑉2 . Онда мына
@@ -1041,7 +1073,7 @@ whereas the readings of the milliammeter are determined by the expression
 интегрирование которого дает ответ
                                      𝑇𝑇0                𝑇𝑇0
                             𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-                𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 К.                                               (22)
+                𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 К.                                               (22)
                               1        2
        Работа, совершаемая внешними силами над перегородкой для ее перемещения противоположна
 по знаку работе, совершаемой самим газом, поэтому из выражений (16) и (17) работа легко находится
@@ -1059,7 +1091,7 @@ whereas the readings of the milliammeter are determined by the expression
 откуда, используя (6), (7), (10), (14), (15) получаем конечную температуру системы
                                      𝑇𝑇0                𝑇𝑇0
                             𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-                𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 К.                                               (26)
+                𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 К.                                               (26)
                               1        2
        Работа внешней силы расходуется на изменение внутренней энергии газа:
                                                                   𝑇𝑇 −𝑇𝑇0
@@ -1088,7 +1120,9 @@ whereas the readings of the milliammeter are determined by the expression
                                                𝑇𝑇 −𝑇𝑇                                        0.4
                                                 1    2
   Численное значение в формуле (11): 𝑄𝑄 = 70.0 Дж                                            0.1
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                               с. 4/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                               с. 4/15
 
   Формула (12): 𝐶𝐶𝑝𝑝 = 𝐶𝐶𝑉𝑉 + 𝑅𝑅                                                                  0.1
   Формула (13): 𝑇𝑇 = 𝑇𝑇1 = 𝑇𝑇2                                                                    0.4
@@ -1111,10 +1145,10 @@ whereas the readings of the milliammeter are determined by the expression
                                      𝑇𝑇0 5𝑇𝑇1
                                                         𝑇𝑇0
                                                    𝑇𝑇0 5𝑇𝑇2                                       0.2
-  Формула (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                  �𝑇𝑇 �
+  Формула (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                     𝑇𝑇
                                        1            2
 
-  Формула (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
+  Формула (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
                        ′                                           𝑇𝑇 −𝑇𝑇0                        0.2
                                                                       0
   Численное значение в формуле (23): 𝐴𝐴′ = 4.04 Дж                                                0.2
@@ -1135,10 +1169,10 @@ whereas the readings of the milliammeter are determined by the expression
                                      𝑇𝑇0 5𝑇𝑇1
                                                         𝑇𝑇0
                                                    𝑇𝑇0 5𝑇𝑇2                                       0.2
-  Формула (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                  �𝑇𝑇 �
+  Формула (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                     𝑇𝑇
                                        1            2
 
-  Формула (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
+  Формула (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓𝑇𝑇
                        ′                                           𝑇𝑇 −𝑇𝑇0                        0.2
                                                                       0
   Численное значение в формуле (27): 𝐴𝐴′ = 4.04 Дж                                                0.2
@@ -1167,7 +1201,9 @@ whereas the readings of the milliammeter are determined by the expression
                                                   𝜑𝜑
 груз поднимается за время 𝑡𝑡𝑛𝑛 со скоростью 𝜔𝜔𝑛𝑛 = , то соответствующее уравнение выглядит так:
                                                                              𝑡𝑡𝑛𝑛
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                          с. 5/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                          с. 5/15
 
              𝑈𝑈 = 𝛼𝛼𝜔𝜔𝑛𝑛 + 𝑛𝑛𝑛𝑛(𝑟𝑟 + 𝑅𝑅).                                                          (5)
       Из уравнений (3)-(5) 𝜔𝜔𝑛𝑛 легко выражается через 𝜔𝜔1 , 𝜔𝜔2 :
@@ -1181,7 +1217,7 @@ whereas the readings of the milliammeter are determined by the expression
                    𝑡𝑡
 находим, что 𝑛𝑛 < Δ𝑡𝑡2 + 1, а это означает, что количество грузов 𝑛𝑛 не должно превышать
                                𝑡𝑡                         𝑡𝑡 +2Δ𝑡𝑡
-              𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1      � = [10,6 … ] = 10.                                 (9)
+              𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1        = [10,6 … ] = 10.                                 (9)
                                            Δ𝑡𝑡
         Время подъёма 𝑛𝑛 = 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 грузов составляет
                                 𝑡𝑡 𝑡𝑡          𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
@@ -1203,7 +1239,7 @@ whereas the readings of the milliammeter are determined by the expression
                                             1             2       2
   Формула (8): 𝑡𝑡𝑛𝑛 > 0                                                                     0.4
                            𝑡𝑡           𝑡𝑡 +2Δ𝑡𝑡
-  Формула (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1 Δ𝑡𝑡 �                                            0.4
+  Формула (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1 Δ𝑡𝑡                                              0.4
   Численное значение в формуле (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = 10                                           0,2
                                   𝑡𝑡 𝑡𝑡            𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
   Формула (10): 𝑡𝑡𝑚𝑚𝑚𝑚𝑚𝑚 = 𝑡𝑡 −(𝑛𝑛 1 2−1)Δ𝑡𝑡 = 𝑡𝑡 −(𝑛𝑛                                      0,4
@@ -1231,7 +1267,7 @@ whereas the readings of the milliammeter are determined by the expression
                                                   0
 которое с учетом (3) дает
                                   𝑚𝑚1 +𝑚𝑚2
-                 𝜔𝜔0 = �𝐺𝐺                        .                                                (6)
+                 𝜔𝜔0 =  𝐺𝐺                        .                                                (6)
                                         𝑅𝑅03
                                     Точки Лагранжа в системе трех тел.
 2.3 Выражение для проекции силы, действующей на малое тело 𝑚𝑚0 , следует из закона всемирного
@@ -1242,7 +1278,9 @@ whereas the readings of the milliammeter are determined by the expression
                                                  |𝑋𝑋−𝑅𝑅 |
                                                                                         (7)
                                             1                                  2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                    с. 6/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                    с. 6/15
 
       С учетом безразмерных соотношений, приведенных в условии, получим выражение для
 проекции силы в относительных единицах
@@ -1289,7 +1327,9 @@ whereas the readings of the milliammeter are determined by the expression
                            (𝑥𝑥−1+𝜇𝜇)
                                                                                            (13)
 а в следующей таблице рассчитаны значения левой и правой частей этого уравнения
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                         с. 7/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                         с. 7/15
 
                                   𝑥𝑥       1    1,1    1,2   1,3   1,4
                                 𝑓𝑓(𝑥𝑥)  5,56 2,70 1,66 1,16 0,87
@@ -1312,15 +1352,15 @@ whereas the readings of the milliammeter are determined by the expression
 является точкой Лагранжа 𝐿𝐿4 , запишем выражение для суммарной силы,
 действующей на тело малой массы 𝑚𝑚0 , в векторной форме:
                      𝑚𝑚 𝑚𝑚                 𝑚𝑚 𝑚𝑚
-             𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟���⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟���⃗.
+             𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟   ⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟   ⃗.
                                                         2                (17)
                              0                      0
        Выражение справа в формуле (17) выражается через радиус-
 вектор центра масс
-             𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗,
+             𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗,
                                                          𝐶𝐶  (18)
 тогда уравнение второго закона Ньютона для этого тела в проекции на
-направление вектора 𝑟𝑟���⃗, 𝐶𝐶 имеет вид:
+направление вектора 𝑟𝑟   ⃗, 𝐶𝐶 имеет вид:
                                        𝑚𝑚
              𝑚𝑚0 𝜔𝜔 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅30 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶 .
                         2
@@ -1328,7 +1368,7 @@ whereas the readings of the milliammeter are determined by the expression
                                          0
        Из этого уравнения следует, что угловая скорость движения тела 𝑚𝑚0 равна
                              𝑚𝑚1 +𝑚𝑚2
-              𝜔𝜔 = �𝐺𝐺                       = 𝜔𝜔0 ,                                              (20)
+              𝜔𝜔 =  𝐺𝐺                       = 𝜔𝜔0 ,                                              (20)
                                  𝑅𝑅03
 что совпадает с угловой скоростью вращения массивных тел (6), поэтому положение тела 𝑚𝑚0 будет
 оставаться неизменным относительно массивных тел. Следовательно, вершина равностороннего
@@ -1355,7 +1395,7 @@ whereas the readings of the milliammeter are determined by the expression
                                                                             , то есть искомое расстояние
 равно
                          3    𝑀𝑀
-              𝑙𝑙𝑆𝑆 = 𝑅𝑅0 �3𝑀𝑀2 = 1.50 ∙ 106 км.                                                   (23)
+              𝑙𝑙𝑆𝑆 = 𝑅𝑅0  3𝑀𝑀2 = 1.50 ∙ 106 км.                                                   (23)
                                    1
 
 2.9 Очевидно, что телескоп «Джеймс Уэбб» находится в точке Лагранжа 𝐿𝐿2 , поэтому для определения
@@ -1364,10 +1404,12 @@ whereas the readings of the milliammeter are determined by the expression
              1 + 𝑧𝑧 = (1+𝑧𝑧)2 + 2,                                                          (24)
                                               𝑧𝑧
 т.е. космический телескоп находится на таком же расстоянии от Земли (только с другой стороны):
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                  с. 8/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                  с. 8/15
 
                            3       𝑀𝑀
-              𝑙𝑙𝑊𝑊 = 𝑅𝑅0 � 3𝑀𝑀2 = 1.50 ∙ 106 км.                                                                           (25)
+              𝑙𝑙𝑊𝑊 = 𝑅𝑅0   3𝑀𝑀2 = 1.50 ∙ 106 км.                                                                           (25)
                                         1
 2.10 Если астероид случайно окажется в точке Лагранжа 𝐿𝐿4 , или симметричной ей точке 𝐿𝐿5 для
 системы Юпитер-Солнце, то его положение относительно Юпитера и Солнца будет долгое время
@@ -1378,7 +1420,7 @@ whereas the readings of the milliammeter are determined by the expression
 расстояние между ними практически равно радиусу орбиты Юпитера, который можно найти,
 используя, третий закон Кеплера
                             𝑇𝑇      2/3
-              𝑙𝑙𝐽𝐽 = 𝑅𝑅0 � 𝑇𝑇𝐽𝐽 �           = 7.82 ∙ 108 км,                                                               (26)
+              𝑙𝑙𝐽𝐽 = 𝑅𝑅0   𝑇𝑇𝐽𝐽             = 7.82 ∙ 108 км,                                                               (26)
                                0
 где 𝑇𝑇0 = 1 год – период вращения Земли вокруг Солнца.
 
@@ -1403,7 +1445,7 @@ whereas the readings of the milliammeter are determined by the expression
 
 
    2.2                                              𝑚𝑚1 +𝑚𝑚2                                                     0.1       0.2
-          Формула (6): 𝜔𝜔0 = �𝐺𝐺                           𝑅𝑅03
+          Формула (6): 𝜔𝜔0 =  𝐺𝐺                           𝑅𝑅03
 
 
 
@@ -1432,26 +1474,28 @@ whereas the readings of the milliammeter are determined by the expression
    2.6    - указано положение;                                                                                  =0.9       0.9
           - найдено численное значение.
                                                𝑚𝑚0 𝑚𝑚1                      𝑚𝑚0 𝑚𝑚2
-          Формула (17): 𝐹𝐹⃗ = 𝐺𝐺                             𝑟𝑟���⃗1 + 𝐺𝐺             𝑟𝑟���⃗2                    0.2
+          Формула (17): 𝐹𝐹⃗ = 𝐺𝐺                             𝑟𝑟   ⃗1 + 𝐺𝐺             𝑟𝑟   ⃗2                    0.2
                                                     𝑅𝑅03                      𝑅𝑅03
-          Формула (18): 𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗
+          Формула (18): 𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗
                                                                     𝐶𝐶                                           0.2
                                                   𝑚𝑚0
    2.7    Формула (19): 𝑚𝑚0 𝜔𝜔 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅3 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶
                                    2                                                                             0.3       1.0
                                                                    0
                                                      𝑚𝑚1+𝑚𝑚2                                                     0.3
-          Формула (20): 𝜔𝜔 = �𝐺𝐺                                       = 𝜔𝜔0
+          Формула (20): 𝜔𝜔 =  𝐺𝐺                                       = 𝜔𝜔0
                                                            𝑅𝑅03
 
    2.8    Численное значение (21): 𝜇𝜇 = 3.00 ∙ 10−6                                                              0.2       1.6
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                 с. 9/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                 с. 9/15
 
 
           Точное уравнение (22): 1 − 𝜇𝜇 − 𝑧𝑧 = (1−𝑧𝑧)2 − 𝑧𝑧 2
                                                              1−𝜇𝜇   𝜇𝜇          0.2
                                     3        𝑀𝑀                                 0.7
-          Формула (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0 �3𝑀𝑀2
+          Формула (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0  3𝑀𝑀2
                                                   1
 
           Численное значение в формуле (23): 𝑙𝑙𝑆𝑆 = 1.50 ∙ 106 км.              0.5
@@ -1460,12 +1504,12 @@ whereas the readings of the milliammeter are determined by the expression
                                                         𝜇𝜇                      0.2
 
    2.9                               3        𝑀𝑀                                0.7       1.4
-          Формула (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0 � 3𝑀𝑀2
+          Формула (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0   3𝑀𝑀2
                                                    1
 
           Численное значение в формуле (25): 𝑙𝑙𝑊𝑊 = 1.50 ∙ 106 км.              0.5
                                         𝑇𝑇        2/3                           1.0
-          Формула (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0 �𝑇𝑇𝐽𝐽 �
+          Формула (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0  𝑇𝑇𝐽𝐽
    2.10                                  0                                                1.4
           Численное значение в формуле (26): 𝑙𝑙𝐽𝐽 = 7.82 ∙ 10 км         8      0.4
   Итого                                                                                  10.0
@@ -1501,10 +1545,12 @@ whereas the readings of the milliammeter are determined by the expression
        В соответствии с пунктом 3.4 регистрируемая детектором мощность излучения
 пропорциональна углу, поэтому формула для вычисления показаний миллиамперметра имеет вид
                                𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))           𝑎𝑎     𝑎𝑎
-             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �                         − 1� при − < 𝑥𝑥 < ,             (7)
+             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0                           − 1  при − < 𝑥𝑥 < ,             (7)
                                          2𝛼𝛼                     2      2
 при этом очевидно, что
-XX Международная Жаутыковская Олимпиада/Теоретический тур                               с. 10/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                               с. 10/15
 
                                                              𝑎𝑎
             ∆𝐼𝐼 (𝑥𝑥 ) = 0                    при    𝑥𝑥 < − ,                              (8)
@@ -1538,14 +1584,16 @@ whereas the readings of the milliammeter are determined by the expression
                     𝑎𝑎
             𝑥𝑥2 = − .                                                                  (13)
                      2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 11/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 11/15
 
 
 
 
 3.8 Значение ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 в точке 𝑥𝑥2 находится из соотношения
                                𝛼𝛼+𝜃𝜃
-             ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 �       − 1�,                                                 (14)
+             ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0         − 1 ,                                                 (14)
                                 2𝛼𝛼
 где величина угла 𝛼𝛼 по прежнему определяется выражением (5), а угол 𝜃𝜃 составляет
                         𝑎𝑎
@@ -1571,13 +1619,15 @@ whereas the readings of the milliammeter are determined by the expression
        Тогда из выражений (17)-(19), окончательно получаем
                        𝑎𝑎 (𝐿𝐿−𝑑𝑑)
              𝑥𝑥3 = −              1 .
-                            2 �𝐿𝐿−𝑑𝑑�1− ��
+                            2  𝐿𝐿−𝑑𝑑 1−
                                                                                            (20)
                                       𝑛𝑛
 3.10 Участок от координаты 𝑥𝑥3 до нуля обусловлен тем, что свет частично напрямую проходит через
 щель, а частично попадает через пластину, преломляясь и отражаясь в ней. Ход лучей показан на
 рисунке ниже.
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                           с. 12/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                           с. 12/15
 
 
 
@@ -1588,12 +1638,12 @@ whereas the readings of the milliammeter are determined by the expression
                       (𝐿𝐿−𝑑𝑑)
                            𝑥𝑥3           𝑎𝑎
                  𝛽𝛽 = − (𝐿𝐿−𝑑𝑑) =              1    ,                                                 (22)
-                                    2�𝐿𝐿−𝑑𝑑�1− ��
+                                    2 𝐿𝐿−𝑑𝑑 1−
                                                𝑛𝑛
 тогда значение ∆𝐼𝐼(𝑥𝑥 ) принимает вид
                                𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �       2𝛼𝛼
-                                               − 1�,                                                  (23)
+             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0         2𝛼𝛼
+                                               − 1 ,                                                  (23)
 откуда получаем коэффициент наклона
              𝑑𝑑∆𝐼𝐼(𝑥𝑥)          (1−𝜏𝜏)𝐿𝐿
                𝑑𝑑𝑑𝑑
@@ -1619,7 +1669,9 @@ whereas the readings of the milliammeter are determined by the expression
           от −∞ до 𝑥𝑥1                        Полное прямое попадание в щель.
            от 𝑥𝑥1 до 𝑥𝑥2                      Полное прямое попадание в щель; отражение от горизонтального
                                               участка пластинки.
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                                 с. 13/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                                 с. 13/15
 
             от 𝑥𝑥2 до 𝑥𝑥3                           Частичное прямое попадание в щель; отражение от
                                                     горизонтального участка пластинки.
@@ -1643,16 +1695,16 @@ whereas the readings of the milliammeter are determined by the expression
                    2 𝐿𝐿
 а показания миллиамперметра определяются выражением
                          𝜏𝜏(𝛼𝛼+𝛽𝛽)
-             ∆𝐼𝐼4 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = −1.88 мА.                                                              (31)
+             ∆𝐼𝐼4 = 𝐼𝐼0   2𝛼𝛼 − 1  = −1.88 мА.                                                              (31)
        Координата точки 𝑥𝑥5 равна
                    𝑎𝑎
              𝑥𝑥5 = = 2.00 см,                                                                               (32)
                    2
 а показания миллиамперметра определяются выражением
                                           𝑎𝑎
-                              𝜏𝜏�𝛼𝛼+           �
+                              𝜏𝜏 𝛼𝛼+
                                        2(𝐿𝐿−𝑑𝑑)
-              ∆𝐼𝐼5 = 𝐼𝐼0 �                         − 1� = 7.72 мА.                                          (33)
+              ∆𝐼𝐼5 = 𝐼𝐼0                           − 1  = 7.72 мА.                                          (33)
                                    2𝛼𝛼
         Углы, обозначенные на рисунке равны
                     𝑥𝑥6
@@ -1666,13 +1718,15 @@ whereas the readings of the milliammeter are determined by the expression
        Таким образом, координата точки 𝑥𝑥6 равна
                    𝑎𝑎   (𝐿𝐿−𝑑𝑑)
              𝑥𝑥6 =              1 = 2.35 см,                                                                (37)
-                    2 �𝐿𝐿−𝑑𝑑�1+ ��
+                    2  𝐿𝐿−𝑑𝑑 1+
                                        𝑛𝑛
 а показания миллиамперметра определяются выражением
                          𝜏𝜏(𝛼𝛼+𝛿𝛿)
-             ∆𝐼𝐼6 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = 0.239 мА.                                                              (38)
+             ∆𝐼𝐼6 = 𝐼𝐼0   2𝛼𝛼 − 1  = 0.239 мА.                                                              (38)
        Полный график зависимости показан на рисунке ниже.
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                   с. 14/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                   с. 14/15
 
 
 
@@ -1687,7 +1741,7 @@ whereas the readings of the milliammeter are determined by the expression
                                         𝑥𝑥
          Формула (6): 𝜃𝜃(𝑥𝑥) = 𝐿𝐿                                                                                  0.2
                                                         𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))                𝑎𝑎             𝑎𝑎
-         Формула (7): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �                                           − 1�   при − 2 ≤ 𝑥𝑥 ≤ 2          0.4
+         Формула (7): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0                                             − 1    при − 2 ≤ 𝑥𝑥 ≤ 2          0.4
                                                                       2𝛼𝛼
                                                                                                          𝑎𝑎
    3.5   Формула (8): ∆𝐼𝐼 (𝑥𝑥 ) = 0                                                      при 𝑥𝑥 < − 2              0.4       3.5
@@ -1701,7 +1755,7 @@ whereas the readings of the milliammeter are determined by the expression
                                              𝑎𝑎
    3.7   Формула (13): 𝑥𝑥2 = − 2                                                                                   0.1       0.1
                                                           𝛼𝛼+𝜃𝜃
-         Формула (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 � 2𝛼𝛼 − 1�                                                                  0.1
+         Формула (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0   2𝛼𝛼 − 1                                                                   0.1
                                          𝑎𝑎
    3.8   Формула (15): 𝜃𝜃 = 2(𝐿𝐿−𝑑𝑑)                                                                               0.1       0.4
          Формула (16): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 2 (𝐿𝐿−𝑑𝑑)
@@ -1717,7 +1771,7 @@ whereas the readings of the milliammeter are determined by the expression
          Формула (20): 𝑥𝑥3 = − 2
                                              𝑎𝑎         (𝐿𝐿−𝑑𝑑)                                                    0.2
                                                                   1
-                                                  �𝐿𝐿−𝑑𝑑�1−𝑛𝑛��
+                                                   𝐿𝐿−𝑑𝑑 1−𝑛𝑛
                                         𝑥𝑥
          Формула (21): 𝜃𝜃 = (𝐿𝐿−𝑑𝑑)                                                                                0.2
                                               𝑥𝑥                        𝑎𝑎
@@ -1725,12 +1779,12 @@ whereas the readings of the milliammeter are determined by the expression
                                   3
                                       =                                      1
                                                                                                                    0.2
-                                                               2�𝐿𝐿−𝑑𝑑�1− ��
+                                                               2 𝐿𝐿−𝑑𝑑 1−
   3.10                                                                       𝑛𝑛
                                                                                                                              0.8
-         Формула (23): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �
+         Формула (23): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0
                                                          𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-                                                                              − 1�                                 0.2
+                                                                              − 1                                  0.2
                                                                2𝛼𝛼
 
          Формула (24):
@@ -1757,12 +1811,16 @@ whereas the readings of the milliammeter are determined by the expression
 
          Формула (36): 𝛿𝛿 = 𝑛𝑛𝑛𝑛                                                                                   0.2
          Численное значение (37): 𝑥𝑥6 = 2.35 см                                                                    0.2
-XX Международная Жаутыковская Олимпиада/Теоретический тур            с. 15/15
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур            с. 15/15
 
          Численное значение (38): ∆𝐼𝐼6 = 0.239 мА             0.2
          Правильные 4 прямые на графике от 0.00 до 3.00 см   4x0.1
  Итого                                                               10.0
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                   с. 1/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                   с. 1/14
 
                               РЕШЕНИЕ ЗАДАЧ ТЕОРЕТИЧЕСКОГО ТУРА
                                 Внимание: баллы в оценках не делятся!
@@ -1783,20 +1841,20 @@ whereas the readings of the milliammeter are determined by the expression
                    10
        Изменение потенциальной энергии биконуса в процессе движения составляет
                                     𝑟𝑟
-              𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − �,                                                      (5)
+              𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 −  ,                                                      (5)
                                     𝑅𝑅
 и по закону сохранения энергии должно выполняться соотношение
               𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝 .                                                       (6
        Из геометрических соотношений следует связь между радиусом качения 𝑟𝑟 и координатой 𝑥𝑥
                             𝑥𝑥
-              𝑟𝑟 = 𝑅𝑅 �1 − tan γ�,                                                        (7)
+              𝑟𝑟 = 𝑅𝑅  1 − tan γ ,                                                        (7)
                             ℎ
 так что, собирая вместе уравнения (1)-(7), получаем
                                                𝑥𝑥
                                                   tan γ
-             𝑣𝑣 (𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                  ℎ
+             𝑣𝑣 (𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                  ℎ
                                                      𝑥𝑥   2       .                         (8)
-                                          1+3/10�1− tan γ�
+                                          1+3/10 1− tan γ
                                                      ℎ
 
       В частности, для значения 𝑥𝑥0 = 50.0 см вычисления дают
@@ -1804,15 +1862,15 @@ whereas the readings of the milliammeter are determined by the expression
       Из тех же выражений (1)-(7) следует зависимость квадрата угловой скорости вращения от
 радиуса качения
                                                        𝑟𝑟
-                     2𝑔𝑔          𝑚𝑚𝑅𝑅2            �1− �
+                     2𝑔𝑔          𝑚𝑚𝑅𝑅2             1−
              𝜔𝜔2 =            ∙               ∙       𝑅𝑅
                                                      𝑚𝑚𝑟𝑟2
                                                              ,                               (10)
-                         𝑅𝑅         𝐼𝐼            �1+ 𝐼𝐼 �
+                         𝑅𝑅         𝐼𝐼             1+ 𝐼𝐼
 
 которое имеет максимальное значение при 𝑟𝑟 = 0, равное
                                   20𝑔𝑔
-             𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �                     = 40.4 рад/с.                                 (11)
+             𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                       = 40.4 рад/с.                                 (11)
                                    3𝑅𝑅
 Интересно отметить, что биконус в этом положении фактически вращается на одном месте, то есть
 его поступательная скорость фактически обращается в нуль в соответствии с формулой (1).
@@ -1827,28 +1885,30 @@ whereas the readings of the milliammeter are determined by the expression
                      3
 Формула (4): 𝐼𝐼 = 10 𝑚𝑚𝑅𝑅2                                                            0.5
                                                        𝑟𝑟
-Формула (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 − 𝑅𝑅 �                                                 0.2
+Формула (5): 𝑊𝑊𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 − 𝑅𝑅                                                   0.2
 Формула (6): 𝑊𝑊𝑘𝑘 + 𝑊𝑊𝑟𝑟 = −𝑊𝑊𝑝𝑝                                                      0.2
                                          𝑥𝑥
-Формула (7): 𝑟𝑟 = 𝑅𝑅 �1 − ℎ tan γ�                                                    0.5
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                  с. 2/14
+Формула (7): 𝑟𝑟 = 𝑅𝑅  1 − ℎ tan γ                                                     0.5
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                  с. 2/14
 
                                                𝑥𝑥
                                                   tan γ
-Формула (8): 𝑣𝑣 (𝑥𝑥 ) = �𝑔𝑔𝑔𝑔                  ℎ
+Формула (8): 𝑣𝑣 (𝑥𝑥 ) =  𝑔𝑔𝑔𝑔                  ℎ
                                                      𝑥𝑥  2                           0.2
-                                         1+0,3/�1− tan γ�
+                                         1+0,3/ 1− tan γ
                                                      ℎ
 
 Формула (9): 𝑣𝑣0 = 42.2 см/с                                                         0.2
                                                     𝑟𝑟
-                        2𝑔𝑔       𝑚𝑚𝑅𝑅2         �1− �
+                        2𝑔𝑔       𝑚𝑚𝑅𝑅2          1−
 Формула (10): 𝜔𝜔2 =           ∙            ∙       𝑅𝑅
                                                   𝑚𝑚𝑟𝑟2                              0.2
-                        𝑅𝑅          𝐼𝐼         �1+ 𝐼𝐼 �
+                        𝑅𝑅          𝐼𝐼          1+ 𝐼𝐼
 
                                   20𝑔𝑔
-Формула (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �                                                           0.2
+Формула (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =                                                             0.2
                                    3𝑅𝑅
 Численное значение в формуле (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = 40.4 рад/с                             0.2
 Итого                                                                                3.0
@@ -1899,7 +1959,9 @@ whereas the readings of the milliammeter are determined by the expression
 то есть в отличие от предыдущего случая в обеих частях сосуда одинаковым будет не давление, а
 температура, которая тем не менее будет изменяться.
        Начальные объемы каждой из частей сосуда определяются законом Гей-Люссака и равны
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                        с. 3/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                        с. 3/14
 
                        𝑉𝑉 𝑇𝑇
                𝑉𝑉01 = 0𝑇𝑇 0 ,                                                                    (14)
@@ -1928,7 +1990,7 @@ whereas the readings of the milliammeter are determined by the expression
 интегрирование которого дает ответ
                                      𝑇𝑇0         𝑇𝑇0
                            𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-               𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 К.                                             (22)
+               𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 К.                                             (22)
                              1        2
        Работа, совершаемая внешними силами над перегородкой для ее перемещения
 противоположна по знаку работе, совершаемой самим газом, поэтому из выражений (16) и (17)
@@ -1946,7 +2008,7 @@ whereas the readings of the milliammeter are determined by the expression
 откуда, используя (6), (7), (10), (14), (15) получаем конечную температуру системы
                                      𝑇𝑇0         𝑇𝑇0
                            𝑇𝑇 5𝑇𝑇   𝑇𝑇 5𝑇𝑇
-               𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇0 � 1 �𝑇𝑇0 � 2 = 290 К.                                             (26)
+               𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇0   1  𝑇𝑇0   2 = 290 К.                                             (26)
                              1        2
       Работа внешней силы расходуется на изменение внутренней энергии газа:
                                                                  𝑇𝑇 −𝑇𝑇0
@@ -1970,7 +2032,9 @@ whereas the readings of the milliammeter are determined by the expression
                       2𝑇𝑇1 𝑇𝑇2
 Формула (10): 𝑇𝑇0 = 𝑇𝑇 +𝑇𝑇                                                                 0.4
                            1     2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                             с. 4/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                             с. 4/14
 
                            7
 Формула (11): 𝑄𝑄 = 2 𝑃𝑃0 𝑉𝑉0 ∙ 𝑇𝑇2 +𝑇𝑇1
@@ -1998,10 +2062,10 @@ whereas the readings of the milliammeter are determined by the expression
                                        𝑇𝑇0 5𝑇𝑇1
                                                           𝑇𝑇0
                                                      𝑇𝑇0 5𝑇𝑇2                                   0.2
-Формула (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                      �𝑇𝑇 �
+Формула (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                         𝑇𝑇
                                          1               2
 
-Формула (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓
+Формула (23): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓
                        ′                                               𝑇𝑇 −𝑇𝑇0                  0.2
                                                                          𝑇𝑇0
 Численное значение в формуле (23): 𝐴𝐴′ = 4.04 Дж                                                0.2
@@ -2022,10 +2086,10 @@ whereas the readings of the milliammeter are determined by the expression
                                        𝑇𝑇0 5𝑇𝑇1
                                                           𝑇𝑇0
                                                      𝑇𝑇0 5𝑇𝑇2                                   0.2
-Формула (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �𝑇𝑇 �                      �𝑇𝑇 �
+Формула (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0  𝑇𝑇                         𝑇𝑇
                                          1               2
 
-Формула (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉 �𝑇𝑇𝑓𝑓 − 𝑇𝑇0 � = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓
+Формула (27): 𝐴𝐴 = 𝜈𝜈𝜈𝜈𝑉𝑉  𝑇𝑇𝑓𝑓 − 𝑇𝑇0   = 5𝑃𝑃0 𝑉𝑉0 𝑓𝑓
                        ′                                               𝑇𝑇 −𝑇𝑇0                  0.2
                                                                          𝑇𝑇0
 Численное значение в формуле (27): 𝐴𝐴′ = 4.04 Дж                                                0.2
@@ -2050,7 +2114,9 @@ whereas the readings of the milliammeter are determined by the expression
 равна 𝜔𝜔2 = , где 𝑡𝑡2 = 𝑡𝑡1 + Δ𝑡𝑡 – время подъёма груза 𝑚𝑚2 , то соответствующее уравнение имеет вид:
               𝑡𝑡2
                     𝑈𝑈 = 𝛼𝛼𝜔𝜔2 + 2𝐼𝐼(𝑟𝑟 + 𝑅𝑅).                                                        (4)
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                              с. 5/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                              с. 5/14
 
        Для равномерного подъёма груза массой 𝑚𝑚𝑛𝑛 = 𝑛𝑛𝑛𝑛 необходимый ток равен 𝐼𝐼𝑛𝑛 = 𝑛𝑛𝑛𝑛. Если этот
                                                   𝜑𝜑
@@ -2068,7 +2134,7 @@ whereas the readings of the milliammeter are determined by the expression
                    𝑡𝑡
 находим, что 𝑛𝑛 < Δ𝑡𝑡2 + 1, а это означает, что количество грузов 𝑛𝑛 не должно превышать
                                 𝑡𝑡                            𝑡𝑡 +2Δ𝑡𝑡
-              𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1      � = [10,6 … ] = 10.                                      (9)
+              𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1        = [10,6 … ] = 10.                                      (9)
                                            Δ𝑡𝑡
         Время подъёма 𝑛𝑛 = 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 грузов составляет
                                 𝑡𝑡 𝑡𝑡          𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
@@ -2090,7 +2156,7 @@ whereas the readings of the milliammeter are determined by the expression
                                          1                2        2
  Формула (8): 𝑡𝑡𝑛𝑛 > 0                                                                           0.4
                           𝑡𝑡           𝑡𝑡 +2Δ𝑡𝑡
- Формула (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �Δ𝑡𝑡2 + 1� = � 1 Δ𝑡𝑡 �                                                  0.4
+ Формула (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =  Δ𝑡𝑡2 + 1  =   1 Δ𝑡𝑡                                                    0.4
  Численное значение в формуле (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = 10                                                 0,2
                                  𝑡𝑡 𝑡𝑡            𝑡𝑡1 (𝑡𝑡1 +Δ𝑡𝑡)
  Формула (10): 𝑡𝑡𝑚𝑚𝑚𝑚𝑚𝑚 = 𝑡𝑡 −(𝑛𝑛 1 2−1)Δ𝑡𝑡 = 𝑡𝑡 −(𝑛𝑛                                            0,4
@@ -2118,12 +2184,14 @@ whereas the readings of the milliammeter are determined by the expression
                                                       0
 которое с учетом (3) дает
                                   𝑚𝑚1 +𝑚𝑚2
-                 𝜔𝜔0 = �𝐺𝐺                            .                                                 (6)
+                 𝜔𝜔0 =  𝐺𝐺                            .                                                 (6)
                                          𝑅𝑅03
                              Точки Лагранжа в системе трех тел.
 2.3 Выражение для проекции силы, действующей на малое тело 𝑚𝑚0 , следует из закона всемирного
 тяготения Ньютона, который с учетом направления сил дает
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                   с. 6/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                   с. 6/14
 
                             𝑚𝑚 𝑚𝑚                𝑚𝑚 𝑚𝑚
                            0 1
@@ -2172,7 +2240,9 @@ whereas the readings of the milliammeter are determined by the expression
       Из таблицы следует, что корень уравнения лежит в интервале от 0,4 до 0,5, т.е.
             𝑥𝑥1 ≈ 0.45.                                                                    (12)
       Для координаты точки 𝐿𝐿2 , лежащей за телом 𝑚𝑚2 , имеем уравнение
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                      с. 7/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                      с. 7/14
 
                       1−𝜇𝜇                      𝜇𝜇
               𝑥𝑥 =                 +                   ,                                        (13)
@@ -2199,15 +2269,15 @@ whereas the readings of the milliammeter are determined by the expression
 является точкой Лагранжа 𝐿𝐿4 , запишем выражение для суммарной
 силы, действующей на тело малой массы 𝑚𝑚0 , в векторной форме:
                      𝑚𝑚 𝑚𝑚                 𝑚𝑚 𝑚𝑚
-             𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟���⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟���⃗.
+             𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟   ⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟   ⃗.
                                                         2                (17)
                                0                       0
        Выражение справа в формуле (17) выражается через радиус-
 вектор центра масс
-             𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗,
+             𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗,
                                                          𝐶𝐶  (18)
 тогда уравнение второго закона Ньютона для этого тела в проекции на
-направление вектора 𝑟𝑟���⃗, 𝐶𝐶 имеет вид:
+направление вектора 𝑟𝑟   ⃗, 𝐶𝐶 имеет вид:
                                        𝑚𝑚
              𝑚𝑚0 𝜔𝜔 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅30 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶 .
                         2
@@ -2215,7 +2285,7 @@ whereas the readings of the milliammeter are determined by the expression
                                            0
        Из этого уравнения следует, что угловая скорость движения тела 𝑚𝑚0 равна
                                𝑚𝑚1 +𝑚𝑚2
-              𝜔𝜔 = �𝐺𝐺                         = 𝜔𝜔0 ,                                          (20)
+              𝜔𝜔 =  𝐺𝐺                         = 𝜔𝜔0 ,                                          (20)
                                    𝑅𝑅03
 что совпадает с угловой скоростью вращения массивных тел (6), поэтому положение тела 𝑚𝑚0 будет
 оставаться неизменным относительно массивных тел. Следовательно, вершина равностороннего
@@ -2241,9 +2311,11 @@ whereas the readings of the milliammeter are determined by the expression
 уравнение (22) существенно упрощается и из него находится 𝑧𝑧 = (𝜇𝜇/3)1/3 , то есть искомое
 расстояние равно
                            3    𝑀𝑀
-              𝑙𝑙𝑆𝑆 = 𝑅𝑅0 �3𝑀𝑀2 = 1.50 ∙ 106 км.                                                 (23)
+              𝑙𝑙𝑆𝑆 = 𝑅𝑅0  3𝑀𝑀2 = 1.50 ∙ 106 км.                                                 (23)
                                      1
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                                 с. 8/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                                 с. 8/14
 
 2.9 Очевидно, что телескоп «Джеймс Уэбб» находится в точке Лагранжа 𝐿𝐿2 , поэтому для
 определения его положение надо решить уравнение (13), используя метод, аналогичный методу п.
@@ -2253,7 +2325,7 @@ whereas the readings of the milliammeter are determined by the expression
                                               𝑧𝑧
 т.е. космический телескоп находится на таком же расстоянии от Земли (только с другой стороны):
                             3       𝑀𝑀
-               𝑙𝑙𝑊𝑊 = 𝑅𝑅0 � 3𝑀𝑀2 = 1.50 ∙ 106 км.                                                         (25)
+               𝑙𝑙𝑊𝑊 = 𝑅𝑅0   3𝑀𝑀2 = 1.50 ∙ 106 км.                                                         (25)
                                          1
 
 2.10 Если астероид случайно окажется в точке Лагранжа 𝐿𝐿4 , или симметричной ей точке 𝐿𝐿5 для
@@ -2265,7 +2337,7 @@ whereas the readings of the milliammeter are determined by the expression
 расстояние между ними практически равно радиусу орбиты Юпитера, который можно найти,
 используя, третий закон Кеплера
                              𝑇𝑇      2/3
-               𝑙𝑙𝐽𝐽 = 𝑅𝑅0 � 𝑇𝑇𝐽𝐽 �           = 7.82 ∙ 108 км,                                             (26)
+               𝑙𝑙𝐽𝐽 = 𝑅𝑅0   𝑇𝑇𝐽𝐽             = 7.82 ∙ 108 км,                                             (26)
                                 0
 где 𝑇𝑇0 = 1 год – период вращения Земли вокруг Солнца.
 
@@ -2287,7 +2359,7 @@ whereas the readings of the milliammeter are determined by the expression
          Формула (5): 𝑚𝑚1 𝜔𝜔02 𝑅𝑅1 = 𝐺𝐺                                                         0.1
                                                                𝑅𝑅02
   2.2                                              𝑚𝑚1 +𝑚𝑚2                                     0.1       0.2
-         Формула (6): 𝜔𝜔0 = �𝐺𝐺       𝑅𝑅03
+         Формула (6): 𝜔𝜔0 =  𝐺𝐺       𝑅𝑅03
                                    𝑚𝑚0𝑚𝑚1                     𝑚𝑚0 𝑚𝑚1
          Формула (7): 𝐹𝐹𝑥𝑥 = −𝐺𝐺 |𝑋𝑋+𝑅𝑅 |3 (𝑋𝑋 + 𝑅𝑅1 ) − 𝐺𝐺 |𝑋𝑋−𝑅𝑅    (
                                                                      3 𝑋𝑋 − 𝑅𝑅2
@@ -2309,24 +2381,26 @@ whereas the readings of the milliammeter are determined by the expression
   2.6    - указано положение;                                                                  =0.9       0.9
          - найдено численное значение.
                                𝑚𝑚 𝑚𝑚                𝑚𝑚 𝑚𝑚
-         Формула (17): 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟���⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟���⃗2                            0.2
+         Формула (17): 𝐹𝐹⃗ = 𝐺𝐺 𝑅𝑅0 3 1 𝑟𝑟   ⃗1 + 𝐺𝐺 𝑅𝑅0 3 2 𝑟𝑟   ⃗2                            0.2
                                                    0                        0
-         Формула (18): 𝑚𝑚1 𝑟𝑟���⃗1 + 𝑚𝑚2 𝑟𝑟���⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟���⃗
+         Формула (18): 𝑚𝑚1 𝑟𝑟   ⃗1 + 𝑚𝑚2 𝑟𝑟   ⃗2 = (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟   ⃗
                                                                    𝐶𝐶                           0.2
                                                  𝑚𝑚0
   2.7    Формула (19): 𝑚𝑚0 𝜔𝜔 𝑟𝑟𝐶𝐶 = 𝐺𝐺 𝑅𝑅3 (𝑚𝑚1 + 𝑚𝑚2 )𝑟𝑟𝐶𝐶
                                   2                                                             0.3       1.0
                                                                 0
                                                    𝑚𝑚1+𝑚𝑚2                                      0.3
-         Формула (20): 𝜔𝜔 = �𝐺𝐺                                     = 𝜔𝜔0
+         Формула (20): 𝜔𝜔 =  𝐺𝐺                                     = 𝜔𝜔0
                                                         𝑅𝑅03
          Численное значение (21): 𝜇𝜇 = 3.00 ∙ 10−6                                              0.2
   2.8                                                                           1−𝜇𝜇   𝜇𝜇       0.2       1.6
          Точное уравнение (22): 1 − 𝜇𝜇 − 𝑧𝑧 = (1−𝑧𝑧)2 − 𝑧𝑧 2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                            с. 9/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                            с. 9/14
 
                                   3    𝑀𝑀                                    0.7
-         Формула (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0 �3𝑀𝑀2
+         Формула (23): 𝑙𝑙𝑆𝑆 = 𝑅𝑅0  3𝑀𝑀2
                                                1
 
          Численное значение в формуле (23): 𝑙𝑙𝑆𝑆 = 1.50 ∙ 106 км.            0.5
@@ -2335,12 +2409,12 @@ whereas the readings of the milliammeter are determined by the expression
                                                     𝜇𝜇                       0.2
 
   2.9                              3       𝑀𝑀                                0.7      1.4
-         Формула (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0 � 3𝑀𝑀2
+         Формула (25): 𝑙𝑙𝑊𝑊 = 𝑅𝑅0   3𝑀𝑀2
                                                 1
 
          Численное значение в формуле (25): 𝑙𝑙𝑊𝑊 = 1.50 ∙ 106 км.            0.5
                                       𝑇𝑇𝐽𝐽 2/3                               1.0
-         Формула (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0 �𝑇𝑇 �
+         Формула (26): 𝑙𝑙𝐽𝐽 = 𝑅𝑅0  𝑇𝑇
   2.10                                 0                                              1.4
          Численное значение в формуле (26): 𝑙𝑙𝐽𝐽 = 7.82 ∙ 108 км             0.4
  Итого                                                                               10.0
@@ -2376,14 +2450,16 @@ whereas the readings of the milliammeter are determined by the expression
        В соответствии с пунктом 3.4 регистрируемая детектором мощность излучения
 пропорциональна углу, поэтому формула для вычисления показаний миллиамперметра имеет вид
                                𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))             𝑎𝑎    𝑎𝑎
-             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �                         − 1� при − < 𝑥𝑥 < ,             (7)
+             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0                           − 1  при − < 𝑥𝑥 < ,             (7)
                                          2𝛼𝛼                       2     2
 при этом очевидно, что
                                                                       𝑎𝑎
              ∆𝐼𝐼 (𝑥𝑥 ) = 0                                  при 𝑥𝑥 < − ,               (8)
                                                                       2
 и
-XX Международная Жаутыковская Олимпиада/Теоретический тур                               с. 10/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                               с. 10/14
 
                                                         𝑎𝑎
             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 (𝜏𝜏 − 1)     при    𝑥𝑥 > .                               (9)
@@ -2413,11 +2489,13 @@ whereas the readings of the milliammeter are determined by the expression
                     𝑎𝑎
             𝑥𝑥2 = − .                                                                  (13)
                    2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 11/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 11/14
 
 3.8 Значение ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 в точке 𝑥𝑥2 находится из соотношения
                                𝛼𝛼+𝜃𝜃
-             ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 �       − 1�,                                                 (14)
+             ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0         − 1 ,                                                 (14)
                                 2𝛼𝛼
 где величина угла 𝛼𝛼 по прежнему определяется выражением (5), а угол 𝜃𝜃 составляет
                         𝑎𝑎
@@ -2443,7 +2521,7 @@ whereas the readings of the milliammeter are determined by the expression
        Тогда из выражений (17)-(19), окончательно получаем
                        𝑎𝑎 (𝐿𝐿−𝑑𝑑)
              𝑥𝑥3 = −              1 .
-                                  2 �𝐿𝐿−𝑑𝑑�1− ��
+                                  2  𝐿𝐿−𝑑𝑑 1−
                                                                                            (20)
                                             𝑛𝑛
 3.10 Участок от координаты 𝑥𝑥3 до нуля обусловлен тем, что свет частично напрямую проходит через
@@ -2460,14 +2538,16 @@ whereas the readings of the milliammeter are determined by the expression
                        (𝐿𝐿−𝑑𝑑)
                             𝑥𝑥3                    𝑎𝑎
                 𝛽𝛽 = − (𝐿𝐿−𝑑𝑑) =                        1    ,                             (22)
-                                          2�𝐿𝐿−𝑑𝑑�1− ��
+                                          2 𝐿𝐿−𝑑𝑑 1−
                                                         𝑛𝑛
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                       с. 12/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                       с. 12/14
 
 тогда значение ∆𝐼𝐼(𝑥𝑥 ) принимает вид
                                𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �       2𝛼𝛼
-                                               − 1�,                                             (23)
+             ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0         2𝛼𝛼
+                                               − 1 ,                                             (23)
 откуда получаем коэффициент наклона
              𝑑𝑑∆𝐼𝐼(𝑥𝑥)          (1−𝜏𝜏)𝐿𝐿
                𝑑𝑑𝑑𝑑
@@ -2511,23 +2591,25 @@ whereas the readings of the milliammeter are determined by the expression
 
         Найдем координаты соответствующих характерных точек. Координата 𝑥𝑥4 легко находится и
 равна
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                с. 13/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                                                с. 13/14
 
                      𝑎𝑎 𝐿𝐿−𝑑𝑑
              𝑥𝑥4 =         = 1.7 см,                                                                                      (30)
                    2 𝐿𝐿
 а показания миллиамперметра определяются выражением
                          𝜏𝜏(𝛼𝛼+𝛽𝛽)
-             ∆𝐼𝐼4 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = −1.9 мА.                                                                             (31)
+             ∆𝐼𝐼4 = 𝐼𝐼0   2𝛼𝛼 − 1  = −1.9 мА.                                                                             (31)
        Координата точки 𝑥𝑥5 равна
                    𝑎𝑎
              𝑥𝑥5 = = 2.0 см,                                                                                              (32)
                    2
 а показания миллиамперметра определяются выражением
                                            𝑎𝑎
-                               𝜏𝜏�𝛼𝛼+           �
+                               𝜏𝜏 𝛼𝛼+
                                         2(𝐿𝐿−𝑑𝑑)
-               ∆𝐼𝐼5 = 𝐼𝐼0 �                         − 1� = 7.7 мА.                                                        (33)
+               ∆𝐼𝐼5 = 𝐼𝐼0                           − 1  = 7.7 мА.                                                        (33)
                                     2𝛼𝛼
         Углы, обозначенные на рисунке равны
                     𝑥𝑥6
@@ -2541,11 +2623,11 @@ whereas the readings of the milliammeter are determined by the expression
        Таким образом, координата точки 𝑥𝑥6 равна
                    𝑎𝑎   (𝐿𝐿−𝑑𝑑)
              𝑥𝑥6 =              1 = 2.4 см,                                                                               (37)
-                     2 �𝐿𝐿−𝑑𝑑�1+ ��
+                     2  𝐿𝐿−𝑑𝑑 1+
                                         𝑛𝑛
 а показания миллиамперметра определяются выражением
                          𝜏𝜏(𝛼𝛼+𝛿𝛿)
-             ∆𝐼𝐼6 = 𝐼𝐼0 � 2𝛼𝛼 − 1� = 0.24 мА.                                                                             (38)
+             ∆𝐼𝐼6 = 𝐼𝐼0   2𝛼𝛼 − 1  = 0.24 мА.                                                                             (38)
        Полный график зависимости показан на рисунке ниже.
 
 
@@ -2562,7 +2644,7 @@ whereas the readings of the milliammeter are determined by the expression
                                              𝑥𝑥
           Формула (6): 𝜃𝜃(𝑥𝑥) = 𝐿𝐿                                                                              0.2
                                                      𝛼𝛼−𝜃𝜃(𝑥𝑥)+𝜏𝜏(𝛼𝛼+𝜃𝜃(𝑥𝑥))                𝑎𝑎             𝑎𝑎
-          Формула (7): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �                                       − 1�   при − 2 ≤ 𝑥𝑥 ≤ 2          0.4
+          Формула (7): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0                                         − 1    при − 2 ≤ 𝑥𝑥 ≤ 2          0.4
                                                               2𝛼𝛼
                                                                                                       𝑎𝑎
   3.5     Формула (8): ∆𝐼𝐼 (𝑥𝑥 ) = 0                                                  при 𝑥𝑥 < − 2              0.4        3.5
@@ -2571,14 +2653,16 @@ whereas the readings of the milliammeter are determined by the expression
           График: 0.5 за каждую верную прямую в числовых значениях                                              1.5
           Формула (10): ∆𝐼𝐼 = 0.00 мА           при 𝑥𝑥 = −2.50 см                                               0.2
           Формула (11): ∆𝐼𝐼 = −5.0 мА           при 𝑥𝑥 = 2.50 см                                                0.2
-XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 14/14
+
+
+XX Международная Жаутыковская Олимпиада/Теоретический тур                                с. 14/14
 
                                           𝑎𝑎 𝐿𝐿−𝑑𝑑
   3.6   Формула (12): 𝑥𝑥1 = − 2 𝐿𝐿−2𝑑𝑑                                            0.2      0.2
                                           𝑎𝑎
   3.7   Формула (13): 𝑥𝑥2 = − 2                                                   0.1      0.1
                                                        𝛼𝛼+𝜃𝜃
-        Формула (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0 � 2𝛼𝛼 − 1�                                  0.1
+        Формула (14): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 𝐼𝐼0   2𝛼𝛼 − 1                                   0.1
                                       𝑎𝑎
   3.8   Формула (15): 𝜃𝜃 = 2(𝐿𝐿−𝑑𝑑)                                               0.1      0.4
         Формула (16): ∆𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚 = 2 (𝐿𝐿−𝑑𝑑)
@@ -2594,7 +2678,7 @@ whereas the readings of the milliammeter are determined by the expression
         Формула (20): 𝑥𝑥3 = − 2
                                           𝑎𝑎          (𝐿𝐿−𝑑𝑑)                     0.2
                                                                 1
-                                                �𝐿𝐿−𝑑𝑑�1−𝑛𝑛��
+                                                 𝐿𝐿−𝑑𝑑 1−𝑛𝑛
                                      𝑥𝑥
         Формула (21): 𝜃𝜃 = (𝐿𝐿−𝑑𝑑)                                                0.2
                                            𝑥𝑥                       𝑎𝑎
@@ -2602,12 +2686,12 @@ whereas the readings of the milliammeter are determined by the expression
                                  3
                                      =                                   1
                                                                                   0.2
-                                                            2�𝐿𝐿−𝑑𝑑�1− ��
+                                                            2 𝐿𝐿−𝑑𝑑 1−
  3.10                                                                    𝑛𝑛
                                                                                            0.8
-        Формула (23): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0 �
+        Формула (23): ∆𝐼𝐼 (𝑥𝑥 ) = 𝐼𝐼0
                                                       𝛼𝛼−𝜃𝜃+𝜏𝜏(𝛽𝛽+𝜃𝜃)
-                                                                          − 1�    0.2
+                                                                          − 1     0.2
                                                             2𝛼𝛼
 
         Формула (24):

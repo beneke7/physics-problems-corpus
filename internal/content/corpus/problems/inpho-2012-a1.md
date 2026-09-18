@@ -25,7 +25,7 @@ techniques: [conservation-laws, limiting-and-special-cases]
 
 1. Figure (1) shows a mechanical system free of any dissipation. The two spheres ( $A$ and $B$ ) are each of equal mass $m$, and a uniform connecting rod $A B$ of length $2 r$ has mass $4 m$. The collar is massless. Right above the position of sphere $A$ in Fig. (1) is a tunnel
 
-![](inpho-2012-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2012-a1-fig01.png)
 Figure 1:
 
 from which balls each of mass $m$ fall vertically at suitable intervals. The falling balls cause the rods and attached spheres to rotate. Sphere $B$ when it reaches the position now occupied by sphere $A$, suffers a collision from another falling ball and so on. Just before striking, the falling ball has velocity $v$. All collisions are elastic and the spheres as well as the falling balls can be considered to be point masses. [Marks: 12]
@@ -42,7 +42,7 @@ Argument:
 (c) Solve the expression obtained in part (a) to obtain $\omega_{i}$ in terms of $\{i, v$, and $r\}$. [4]
     (d) If instead of a pair of spheres, we have two pairs of spheres as shown in figure below. What would be the new constant angular speed $\omega^{*}$ of the assembly (i.e. the answer corresponding to part (b)).
 
-![](inpho-2012-a1-fig02.png)
+![](../../figures/inpho/figures/inpho-2012-a1-fig02.png)
 
 $$
 \omega^{*}=

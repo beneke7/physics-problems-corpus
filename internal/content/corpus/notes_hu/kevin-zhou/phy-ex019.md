@@ -43,7 +43,6 @@ a töltött részecskék a tér növelésével felhevíthetők.
 Ekkor az adiabatikus invariáns így írható:
 
                                            I ∝ r2 (2B − Bav )
-25 1. Klasszikus mechanika
 
 
 ahol Bav a körpálya belsejében vett átlagos tér. Ebből következik, hogy amikor B(r, t) időben változik,
@@ -95,7 +94,6 @@ Hamilton főfüggvényének definiálásával kezdünk.
                                                ∂S               ∂S
                                                    = −pi ,          = Hi .
                                                ∂qi              ∂ti
-26 1. Klasszikus mechanika
 
 
  • A fenti eredmények pi,f-et qi,f és ti,f függvényében adják meg. Ezután a pi-re kapott kifejezést megfordítva
@@ -150,7 +148,6 @@ Most összekapcsoljuk Hamilton főfüggvényét a szemiklasszikus mechanikával.
     Ezeket az eredményeket összevonva a kívánt ṗ = −∂H/∂q adódik. Vegyük észre, hogy a levezetés „aktív eleme”
     a vegyes parciális deriváltak egyenlősége volt; ezért hasonlítanak Hamilton egyenletei
     némileg a Maxwell-relációkra.
-27 1. Klasszikus mechanika
 
 
   • Az S(q, t) mennyiség valós értékű „klasszikus hullámfüggvényként” viselkedik. Egy helyhez a gradiense
@@ -171,7 +168,7 @@ Most összekapcsoljuk Hamilton főfüggvényét a szemiklasszikus mechanikával.
   • A Schrödinger-egyenletet ℏ legalacsonyabb rendjéig kifejtve
 
                                             ∂W 2
-                                               
+
                                ∂W      1
                                    +               + V (q) = O(ℏ).
                                 ∂t    2m ∂q
@@ -210,7 +207,6 @@ A fizikában hasznos analógia adódik az optikával.
     Ez azért igaz, mert Φq0 (s + t) azoknak a pontoknak a halmaza, amelyek eléréséhez s + t idő kell, és egy optimális
     pályának e pontok egyikéhez lokálisan is optimálisnak kell lennie. Különösen vegyük észre, hogy az egyes
     Φq (s) frontok érintik a Φq0 (s + t) frontot.
-28 1. Klasszikus mechanika
 
 
  • Legyen Sq0 (q) a q pont q0-ból való eléréséhez szükséges minimális idő. Definiáljuk
@@ -234,7 +230,6 @@ A fizikában hasznos analógia adódik az optikával.
    változó, ezért a terünk (q, t), nem pusztán q, és dS = p dq − H dt helyett ez utóbbi alakú.
 
   (vége)
-29 2. Elektromágnesség
 
 
 2     Elektromágnesség

@@ -20,4 +20,4 @@ verification_status: pending
 
 Mekkora a legkisebb erő, amellyel egy $m$ tömegű, $\alpha$ hajlásszögű lejtőn nyugvó testet meg lehet mozdítani, ha a súrlódási együttható $\mu$? Vizsgáljuk meg azokat az eseteket, amikor $a$) $\alpha=0$; b) $0<\alpha<\arctan \mu$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr4-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr4-fig1.jpg)

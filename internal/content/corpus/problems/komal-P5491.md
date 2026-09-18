@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, graphical-reduction]
 ---
 
-A small body starting from rest at a given point in space can slide down along slopes of different angles of inclination. What is the locus of that points of the slopes, in space, at which the values of the dissipated heat due to friction are equal? 
+A small body starting from rest at a given point in space can slide down along slopes of different angles of inclination. What is the locus of that points of the slopes, in space, at which the values of the dissipated heat due to friction are equal?
  (4 pont)

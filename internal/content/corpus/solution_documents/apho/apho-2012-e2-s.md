@@ -46,7 +46,8 @@ Part 1(a):
 
 
                                                                                                                                     Page 1 of 14
-                           Experimental Competition                                                             EXPERIMENT 2
+
+                           Experimental Competition                                                             EXPERIMENT 2
 
 
 Part 1b:
@@ -80,7 +81,8 @@ Part 1b:
 
 
                                                                                                                                                   Page 2 of 14
-                           Experimental Competition                                                                EXPERIMENT 2
+
+                           Experimental Competition                                                                EXPERIMENT 2
 
 
 Part 1(c)
@@ -110,7 +112,8 @@ Part 1(c)
 
 
                                                                                                                                                 Page 3 of 14
-                              Experimental Competition                                                           EXPERIMENT 2
+
+                              Experimental Competition                                                           EXPERIMENT 2
 
 
 Part 1(d):
@@ -148,7 +151,8 @@ ZM       Rc
               V Rc
 
                                                                                                                                                    Page 4 of 14
-                            Experimental Competition                                            EXPERIMENT 2
+
+                            Experimental Competition                                            EXPERIMENT 2
 
 
        M
@@ -183,7 +187,8 @@ Part 2(g):
 
 
                                                                                                                            Page 5 of 14
-                Experimental Competition                                     EXPERIMENT 2
+
+                Experimental Competition                                     EXPERIMENT 2
 
 
           300         10.14      5.14      6.18   3.44   0.0171   360.70   216.93   288.18   0.011
@@ -217,15 +222,16 @@ Avg       800         10.11      4.95      7.16   4.73   0.0165   434.38   161.9
 
 
                                                                                                      Page 6 of 14
-                         Experimental Competition                          EXPERIMENT 2
+
+                         Experimental Competition                          EXPERIMENT 2
 
 
 Part 2(h)
                           2
                     §I ·
- RS  R L
+ RS   R L
             2
-                ZM ¨¨ P ¸¸  X S2
+                ZM ¨¨ P ¸¸   X S2
                     2
 
                     © IS ¹
@@ -239,7 +245,8 @@ Part 2(h)
 
 
                                                                                           Page 7 of 14
-            Experimental Competition                          EXPERIMENT 2
+
+            Experimental Competition                          EXPERIMENT 2
 
 
 Part 2(i)
@@ -265,7 +272,8 @@ Part 2(i)
 
 
                                                                              Page 8 of 14
-                      Experimental Competition                                                              EXPERIMENT 2
+
+                      Experimental Competition                                                              EXPERIMENT 2
 
 
 Part 2(j):
@@ -303,14 +311,15 @@ Part 2(j):
 Part 3(k) and 3(l):
              2
       § IS ·
-RR    ¨¨ ¸¸ RS  RL
+RR    ¨¨ ¸¸ RS   RL
        © IP ¹
 
 
 
 
                                                                                                                            Page 9 of 14
-                 Experimental Competition                           EXPERIMENT 2
+
+                 Experimental Competition                           EXPERIMENT 2
 
           2
      § IS ·
@@ -339,7 +348,8 @@ XP   ¨¨ ¸¸ X S
 
 
                                                                                    Page 10 of 14
-                    Experimental Competition                                                       EXPERIMENT 2
+
+                    Experimental Competition                                                       EXPERIMENT 2
 
 
 Part 3(m)
@@ -370,13 +380,14 @@ Part 3(m)
 
 Inference:
 
- XP  XR     X PE
+ XP   XR     X PE
 
 
 
 
                                                                                                                   Page 11 of 14
-                   Experimental Competition                                        EXPERIMENT 2
+
+                   Experimental Competition                                        EXPERIMENT 2
 
 
 Part 3(n):
@@ -408,7 +419,8 @@ Part 3(n):
 
 
                                                                                                              Page 12 of 14
-             Experimental Competition                                                    EXPERIMENT 2
+
+             Experimental Competition                                                    EXPERIMENT 2
 
 
                              160.00
@@ -440,19 +452,20 @@ Part 3(n):
 
 Part 4(o):
 
-                                                  RR    R *  RP
+                                                  RR    R *   RP
 
-                                                  XR    XP  X*
+                                                  XR    XP   X*
 
                                                    X core     XR
                                                    Rcore      RR
 
                                                                                                         Page 13 of 14
-                         Experimental Competition                                           EXPERIMENT 2
+
+                         Experimental Competition                                           EXPERIMENT 2
 
 
-                                                       Lcore     1 XP  X*
-                                                       Rcore    2Sf R *  RP
+                                                       Lcore     1 XP   X*
+                                                       Rcore    2Sf R *   RP
 
                                                       Blue Coil     Green Coil
                                                        Lc/Rc          Lc/Rc
@@ -465,7 +478,7 @@ Part 4(p)
 
 
 
-'P    I p2 RPE  RP  I S2 RS  RL
+'P    I p2 RPE   RP   I S2 RS   RL
 
 
 

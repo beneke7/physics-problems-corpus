@@ -35,7 +35,7 @@ $$b = \frac{kqQ}{2E}\frac{1}{\tan(\theta/2)},$$
 
 where $b$ is the impact parameter, $E$ is the energy of the electron, $q = -1.602 \times 10^{-19}\ \mathrm{C}$ is the charge of the electron, $k = 8.99 \times 10^{9}\ \mathrm{Nm^2/C^2}$, and $\theta$ is the scattering angle. The impact parameter is defined as the closest approach of the electron to the target, assuming that the electron were unaffected by the target and hence would move in a straight line; the scattering angle is the angle between the original velocity vector of the electron far from the target and the final velocity vector of the electron far from the target after scattering.
 
-![figure](../../sources/eupho/figures/eupho-2020-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-E1-1.png)
 
 ### 1.2 Task
 

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Place a closed loop of thread on a soap-film formed on a frame, which was dipped in soapy water. Then pierce the centre of the loop with a pin. The thread loop is stretched into a circle. Determine the tension in the circular thread as a function of the radius of the circle and the surface tension. 
+Place a closed loop of thread on a soap-film formed on a frame, which was dipped in soapy water. Then pierce the centre of the loop with a pin. The thread loop is stretched into a circle. Determine the tension in the circular thread as a function of the radius of the circle and the surface tension.
  (4 pont)

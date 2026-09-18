@@ -36,7 +36,6 @@ where the period of the motion is 2π/ω. Now, by conservation of energy
                                             m     dq
                                      dt =     p           .
                                             2 E − V (q)
-23 1. Classical Mechanics
 
 
 Integrating over a single orbit, we have
@@ -93,7 +92,6 @@ We now turn to adiabatic invariants.
 
     where we applied Hamilton’s equations, and neglected a higher-order term from the change in
     the endpoints.
-24 1. Classical Mechanics
 
 
   • To simplify the integrand, take H(q, p(q, λ, E), λ) = E and differentiate with respect to λ at
@@ -107,7 +105,7 @@ We now turn to adiabatic invariants.
                                              =−             dt′ .
                                        ∂λ E      2π    ∂λ E
     Finally, combining this with our first result, we conclude
-                                                     Z             
+                                                      Z
                                              ∂H          ∂H       ′    λ̇
                                 I˙ = T (λ)          −          dt         .
                                              ∂λ E        ∂λ E         2π

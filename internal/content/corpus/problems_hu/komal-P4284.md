@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4284. Egy ember gerendát cipel a vállán. A gerenda súlypontja (tömegközéppontja) nincs a válla fölött, ezért előre nyújtott karját ráhelyezve egyensúlyozza. Valaki azt állítja, hogy így a gerenda súlyánál nagyobb erő nyomja a vállát. 
+P. 4284. Egy ember gerendát cipel a vállán. A gerenda súlypontja (tömegközéppontja) nincs a válla fölött, ezért előre nyújtott karját ráhelyezve egyensúlyozza. Valaki azt állítja, hogy így a gerenda súlyánál nagyobb erő nyomja a vállát.
  Igaza van-e?

@@ -76,7 +76,7 @@ Extra sheets attached :     0                   INO Centre (e.g. Ranchi)
  Universal constant of Gravitation G   6.67 × 10−11 N·m2 ·kg      2              12
  Magnitude of electron charge      e   1.60 × 10−19 C
  Rest mass of electron             me 9.11 × 10−31 kg             3              15
- Value of 1/4π0                       9.00 × 109 N·m2 ·C−2
+ Value of 1/4π 0                       9.00 × 109 N·m2 ·C−2
  Avogadro’s number                 NA 6.022 ×1023 mol−1           4              20
  Acceleration due to gravity       g   9.81 m·s−2
  Universal Gas Constant            R   8.31 J· K−1 ·mol−1         5              20
@@ -89,7 +89,9 @@ Extra sheets attached :     0                   INO Centre (e.g. Ranchi)
                           HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                                  Tata Institute of Fundamental Research
                              V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-INPhO 2020 Page 1          Questions & Summary Answers
+
+
+INPhO 2020 Page 1          Questions & Summary Answers
 Please note that alternate/equivalent methods and different way of expressing final
 solutions may exist.
 
@@ -112,7 +114,7 @@ solutions may exist.
     (b) The temperature T can be expressed in terms of the derivative of internal energy as               [2]
 
                                                          dU
-                                                             
+
                                                T =
                                                          dS
                                                            0  V ,N
@@ -135,7 +137,7 @@ solutions may exist.
                                               P =−
                                                    dU
                                                    dV
-                                                             
+
 
                                                                   S,N
 
@@ -159,7 +161,9 @@ solutions may exist.
                                                          4aS 7
                                                  P =
                                                          V 5N 2
-INPhO 2020 Page 2          Questions & Summary Answers                     Last four digits of Roll No.:
+
+
+INPhO 2020 Page 2          Questions & Summary Answers                     Last four digits of Roll No.:
 
           Eliminating S yields
                                                          T 7/6
@@ -213,12 +217,14 @@ solutions may exist.
                                                 7
                                                = ( PB V B − PA V A )                             (1.2)
                                                 4
-INPhO 2020 Page 3            Questions & Summary Answers
+
+
+INPhO 2020 Page 3            Questions & Summary Answers
 
           Using equation of state,
                                                       7C   2
-                                                                2   7
-                                                                                    
+                                                                 2   7
+
                                             QAB =        VB3 − VA3 T16
                                                        4
 
@@ -227,7 +233,7 @@ solutions may exist.
                                                A                      A
 
                                                  3C 7/6   2     2
-                                                                                       
+
                                            WAB =    T1  VB3 − VA3
                                                   2
           Leg BC is isentropic/adiabatic ⇒ Q = 0 or S = constant. From first law,
@@ -247,9 +253,9 @@ solutions may exist.
 
 
                                                         7C
-                                                             7 
+                                                              7
                                             a
-                                                                                                   
+
                                       WBC = 2
                                            N             4           0    2     7
                                                                      VB T1 − VC T2
@@ -267,7 +273,7 @@ solutions may exist.
                                         WBC =
                                                    a 7C 7 23 16
                                                    N2 4
-                                                                
+
                                                          VB T1 [T1 − T2 ]
 
 
@@ -305,7 +311,9 @@ solutions may exist.
 
 
      Solution: As the magnetic field drops, its time derivative results in an induced electric field,
-INPhO 2020 Page 4          Questions & Summary Answers                   Last four digits of Roll No.:
+
+
+INPhO 2020 Page 4          Questions & Summary Answers                   Last four digits of Roll No.:
 
      in azimuthal direction.
                                                           rḂz
@@ -377,13 +385,15 @@ solutions may exist.
 
 
          IH =
-INPhO 2020 Page 5          Questions & Summary Answers
+
+
+INPhO 2020 Page 5          Questions & Summary Answers
 
           Solution: Centripetal acceleration is given by Coulomb force.
 
                                      me v 2  Ke2         1             –
                                             = 2 ; K=         ; me vr = h                     (3.1)
-                                      a0      a0        4π0
+                                      a0      a0        4π 0
                                                –2
                                                h
                                         a0 =                                                 (3.2)
@@ -478,17 +488,19 @@ solutions may exist.
                                         =      −        and me vr = –
                                                                     h                        (3.9)
                                   r        r2    (2r )2
-                                             
+
                                                         1
-                                                                                    –
+                                                                                     –
                                                                                      h2
                                 me v 2 r = Ke2 Z −              and me v 2 r =              (3.10)
                                                         4                            me r
                                                  –2
                                                  h                       a0
-                                     r=                         =                       (3.11)
+                                     r=                           =                         (3.11)
                                           Kme e2       Z − 14           Z − 14
-INPhO 2020 Page 6           Questions & Summary Answers                     Last four digits of Roll No.:
+
+
+INPhO 2020 Page 6           Questions & Summary Answers                     Last four digits of Roll No.:
     (d) Derive an expression for the first ionisation energy IZth for two electron system with arbitrary      [3]
         Z in terms of Z and IH .
 
@@ -500,16 +512,16 @@ solutions may exist.
 
 
           Solution:
-                                                               
+
                                                   Ke2 Z − 41
              Kinetic Energy (K.E.) = me v 2 =                                                        (3.12)
                                                            r
-                                                               2
+                                                                 2
                                                   Ke2 Z − 14
                                               =                                                      (3.13)
                                                        a0
                                                          1 2
-                                                          
+
                                              =2 Z−            IH                                     (3.14)
                                                          4
                                                  2KZe2 Ke2
@@ -518,11 +530,11 @@ solutions may exist.
                                              =    0
                                                −2Ke2
                                                   r
-                                                         
+
                                                            Z−
                                                                  1
                                                                  4
-                                                                   
+
                                                                                                      (3.16)
 
 
@@ -530,27 +542,27 @@ solutions may exist.
                                C2            =
                                                −2Ke
                                                   a0
-                                                   
+
                                              = −4 Z −
-                                                   
+
                                      (T.E.)i = −2 Z −
-                                                       2 
+                                                       2
                                                            Z−
 
                                                            1
                                                            4
                                                            1 2
                                                            4
-                                                             2
+                                                              2
 
-                                                             
+
                                                                  1 2
                                                                  4
 
                                                                 IH
 
                                                                 IH
-                                                                   
+
                                                                                                      (3.17)
 
                                                                                                      (3.18)
@@ -563,16 +575,16 @@ solutions may exist.
          HB                          (T.E.)f = −Z 2 IH
 
                                           IZth = (T.E)f − (T.E)i = 2 Z −
-                                                  
+
                                           IZth = Z 2 − Z +
                                                                 1
                                                                 8
                                                                   IH
-                                                                    
-                                                                        
+
+
                                                                               1
                                                                               4
-                                                                                  2
+                                                                                   2
                                                                                        IH − Z 2 IH
                                                                                                      (3.20)
 
@@ -599,7 +611,9 @@ solutions may exist.
         Experimental values were not found to be equal to the theoretical predictions. This difference
         arises mainly from non-inclusion of Pauli’s principle in the theoretical derivation of part (d).
         It was suggested that if the value of Z was reduced by some fixed amount α (Z ∗ = Z − α)
-INPhO 2020 Page 7          Questions & Summary Answers
+
+
+INPhO 2020 Page 7          Questions & Summary Answers
        in the final expression of IZth obtained in part (d), then IZth∗ ≈ IZexpt . Draw a suitable linear
        plot and from the graph find α. Two graph papers are provided with this booklet in case
        you make a mistake.
@@ -610,7 +624,7 @@ solutions may exist.
 
          Solution:
                                                                    1                          1
-                                                                                              
+
             ∆IZ = IZth − IZexpt = IZth − IZth∗ =       Z2 − Z +      − (Z − α )2 − (Z − α ) +          IH
                                                                    8                          8
                                                                                                    (3.23)
@@ -659,7 +673,7 @@ solutions may exist.
 
                HBq
                                    r
-                                                               
+
                                             IZexpt = IZth∗ = Z − α −
 
                                        IZexpt +
@@ -670,7 +684,7 @@ solutions may exist.
                                                             2
                                                                                  1
                                                                                  2
-                                                                                     2
+                                                                                      2
                                                                                           −
 
 
@@ -691,7 +705,9 @@ solutions may exist.
          Graph is on the last page of this booklet.
 
                           Detailed answers can be found on page numbers:
-INPhO 2020 Page 8                  Questions & Summary Answers                Last four digits of Roll No.:
+
+
+INPhO 2020 Page 8                  Questions & Summary Answers                Last four digits of Roll No.:
 4. A sound source S is performing uniform circular motion with time period T . It is continuously
    emitting sound of a fixed frequency f0 . Two detectors 1 and 2 are placed somewhere in the same
    plane as the circular trajectory of the source. The frequency f , of the sound received by the two
@@ -746,7 +762,9 @@ solutions may exist.
         positions of both the detectors by indicating 1 and 2. Here O denotes the centre of the
         trajectory. You must provide detailed justification of your answer in the detailed answer
         sheet.
-INPhO 2020 Page 9        Questions & Summary Answers
+
+
+INPhO 2020 Page 9        Questions & Summary Answers
 
 
 
@@ -805,7 +823,9 @@ solutions may exist.
          consider fourth possibility, we should have observed a sharp change in the plot when
          source is crossing the detector. Hence, we rule out this case.
          When the detector Dout is outside the circle (see figure below):
-INPhO 2020 Page 10        Questions & Summary Answers                        Last four digits of Roll No.:
+
+
+INPhO 2020 Page 10        Questions & Summary Answers                        Last four digits of Roll No.:
 
 
                                             S
@@ -892,7 +912,9 @@ solutions may exist.
                                                               γi
                                                 O                      Din
                                                          Di
-INPhO 2020 Page 11         Questions & Summary Answers
+
+
+INPhO 2020 Page 11         Questions & Summary Answers
 
 
                                                              f0
@@ -973,7 +995,9 @@ solutions may exist.
                                              •2
          In this part, marking (anywhere) 1 outside and 2 inside the circle with a correct
          justification will be given full credit.
-INPhO 2020 Page 12          Questions & Summary Answers                   Last four digits of Roll No.:
+
+
+INPhO 2020 Page 12          Questions & Summary Answers                   Last four digits of Roll No.:
     (c) Obtain the frequency f0 of the source.                                                            [3]
 
          f0 =
@@ -1044,7 +1068,9 @@ solutions may exist.
                                                   cos αo
          There will be signal delay due to finite Do and Di .
          Let θ be the angular separation between the detectors. Time difference between the peak
-INPhO 2020 Page 13          Questions & Summary Answers
+
+
+INPhO 2020 Page 13          Questions & Summary Answers
 
           frequencies of detectors 1 and 2 is 4 seconds.
                                          θ     Ai Din Ao Dout
@@ -1099,7 +1125,9 @@ solutions may exist.
      1. Angular momentum is conserved only about P .
      2. The velocity of P is perpendicular to the string right after the impact (refer to the figure).
      We have two unknowns - ω and u.
-INPhO 2020 Page 14         Questions & Summary Answers                                 Last four digits of Roll No.:
+
+
+INPhO 2020 Page 14         Questions & Summary Answers                                 Last four digits of Roll No.:
 
 
                                                                            y
@@ -1144,10 +1172,10 @@ solutions may exist.
                                     Li = Lf
 
                                 mvo L = 2m
-                                               3Lω
+                                                3Lω
                                                      4
                                                          − u sin θ
-                                                                      3L
+                                                                       3L
                                                                        4
                                                                             + Icm ω                          (5.2)
 
@@ -1188,7 +1216,9 @@ solutions may exist.
                                              3L T cos θ   18T cos θ
                                        α=               =                                                    (5.5)
                                               4 Icm         5mL
-INPhO 2020 Page 15         Questions & Summary Answers
+
+
+INPhO 2020 Page 15         Questions & Summary Answers
 
 
 
@@ -1305,7 +1335,9 @@ solutions may exist.
                                                            6vo
                                                      ω=
                                                            5L
-INPhO 2020 Page 16        Questions & Summary Answers                   Last four digits of Roll No.:
+
+
+INPhO 2020 Page 16        Questions & Summary Answers                   Last four digits of Roll No.:
 
 
                                                             y
@@ -1320,7 +1352,7 @@ solutions may exist.
 
 
 
-     The velocity of the end of thestring tied to the rod (P ) immediately after the impact,
+     The velocity of the end of the string tied to  the rod (P ) immediately after the impact,
      therefore, would be given by − 3L4 × 5L − 2 ĵ = − 5 ĵ. But this would mean the string
                                           6vo   vo        2vo
 

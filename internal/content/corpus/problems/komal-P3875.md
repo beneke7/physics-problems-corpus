@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-Why does the refrigerator turn on more times in summer than in winter? 
+Why does the refrigerator turn on more times in summer than in winter?
  (3 pont)

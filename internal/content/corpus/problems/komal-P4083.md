@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-A 1400 year-old carbonized tree is used as sample for radiocarbon dating. The sample is contaminated by coal which does not contain radioactive carbon isotope. Will the physicist, who carries out the measurement and does not know that the sample is contaminated, find the sample older or younger than it really is? How old will the sample be determined by the physicist if it contains 30% non-radioactive coal? 
+A 1400 year-old carbonized tree is used as sample for radiocarbon dating. The sample is contaminated by coal which does not contain radioactive carbon isotope. Will the physicist, who carries out the measurement and does not know that the sample is contaminated, find the sample older or younger than it really is? How old will the sample be determined by the physicist if it contains 30% non-radioactive coal?
  (5 pont)

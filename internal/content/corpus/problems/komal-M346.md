@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201412"
 verification_status: pending
 ---
 
-Roll a solid cylinder along different horizontal surfaces, such that it rolls without skidding. According to the measured data determine the coefficient of kinetic friction of that object which would have the same acceleration as the centre of mass of the cylinder, and which would slide without rotation along the horizontal. 
+Roll a solid cylinder along different horizontal surfaces, such that it rolls without skidding. According to the measured data determine the coefficient of kinetic friction of that object which would have the same acceleration as the centre of mass of the cylinder, and which would slide without rotation along the horizontal.
  (6 pont)

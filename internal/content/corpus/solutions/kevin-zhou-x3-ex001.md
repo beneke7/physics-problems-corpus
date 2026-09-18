@@ -26,17 +26,17 @@ Condensed matter is a huge field, which arguably contains the majority of all ph
 you hear less about it in the news, and in Olympiad problems, partly because it’s not as romantic
 as particle physics or astrophysics, and partly because it requires a lot of background to explain.
 The problems here cover some classic condensed matter ideas. It helps to have done W1 and X1.
-[5] Problem 1.  h 1 0APhO 2016, problem 3. A good question on the quantum mechanics of super-
+[5] Problem 1.   h 1 0APhO 2016, problem 3. A good question on the quantum mechanics of super-
 conductivity.
-[5] Problem 2.  h 1 0USA Team Selection Test 2021, problem 3. A nice question which derives the
+[5] Problem 2.   h 1 0USA Team Selection Test 2021, problem 3. A nice question which derives the
 integer quantum Hall effect using classical electromagnetism and Bohr quantization.
-[5] Problem 3.  h 1 0APhO 2015, problem 1. A question on the fractional quantum Hall effect, which
+[5] Problem 3.   h 1 0APhO 2015, problem 1. A question on the fractional quantum Hall effect, which
 is even subtler than the integer quantum Hall effect. This question is not very clearly written, and
 requires a good amount of educated guessing; however, I include it to give you practice with this
 type of Olympiad question, and some exposure to a very important topic of current research.
-[5] Problem 4.  T 1 0IZhO 2021, problem 2. A problem on the thermodynamics of plasmas, reviewing
+[5] Problem 4.   T 1 0IZhO 2021, problem 2. A problem on the thermodynamics of plasmas, reviewing
 some material in T2.
-[5] Problem 5.  h 1 0APhO 2021, problem 2. A very technical problem that fully explains how a
+[5] Problem 5.   h 1 0APhO 2021, problem 2. A very technical problem that fully explains how a
 famous test of quantum mechanics was conducted. Also requires material from E8 and W3.
 2 Stars
 This section contains problems involving stars and star formation. They serve as excellent review,
@@ -45,7 +45,9 @@ For a beautiful graphical overview of these objects, see this paper.
 Example 1: PTD 44
 The density of stars in the central region of the galaxy is about n = 106 pc−3, and their
 speeds are about v = 200kms−1. Could an advanced civilization develop in this region?
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Impacts between solar systems occur frequently. For concreteness, suppose catastrophic
 effects will happen to an Earth-like planet if another star passes within the equivalent of
@@ -71,24 +73,26 @@ L
 so heavier stars live shorter lives. Incidentally, the luminosity scales as L ∝ R2T4 by the
 Stefan–Boltzmann law. By considering the details of the interior of the star, we can find how
 all of these quantities scale with mass, a principle known as stellar homology.
-[3] Problem 6.  ^ 1 0USAPhO 2018, problem B3.
-[5] Problem 7.  h 1 0IPhO 2012, problem 3. This elegant and tricky problem covers the early stages
+[3] Problem 6.   ^ 1 0USAPhO 2018, problem B3.
+[5] Problem 7.   h 1 0IPhO 2012, problem 3. This elegant and tricky problem covers the early stages
 of star formation, and serves as a review of T1.
-[5] Problem 8.  r 1 0GPhO 2017, problem 1. This problem covers the physics of fusion in main
+[5] Problem 8.   r 1 0GPhO 2017, problem 1. This problem covers the physics of fusion in main
 sequence stars, relying on X1 and X2.
-[5] Problem 9.  h 1 0IPhO 2007, problem “pink”. This problem covers binary stars, with a strong
+[5] Problem 9.   h 1 0IPhO 2007, problem “pink”. This problem covers binary stars, with a strong
 emphasis on data analysis methods, as covered in P2.
-[5] Problem 10.  h 1 0APhO 2015, problem 2. A nice but somewhat hard to read problem on the
+[5] Problem 10.   h 1 0APhO 2015, problem 2. A nice but somewhat hard to read problem on the
 aurora and the solar wind.
 Solution. See the official solutions. There are some minor typos in it, as pointed out here.
 3 Compact Objects
 Compact objects such as white dwarfs and neutron stars must be handled with quantum statistical
 mechanics, as introduced in X1.
-2Kevin Zhou Physics Olympiad Handouts
-[4] Problem 11.  ^ 1 0Do the following JPhO problem. This pedagogical problem reviews the physics
+2
+
+Kevin Zhou Physics Olympiad Handouts
+[4] Problem 11.   ^ 1 0Do the following JPhO problem. This pedagogical problem reviews the physics
 of white dwarf stars, deriving the Chandrasekhar limit, using the techniques of X1.
 Solution. See the official solutions here.
-[3] Problem 12.  ^ 1 0USAPhO 2024, problem A2. Rough estimates of the dynamics of stars and
+[3] Problem 12.   ^ 1 0USAPhO 2024, problem A2. Rough estimates of the dynamics of stars and
 white dwarfs.
 Remark
 The estimates performed in the previous problems are quite rough, basically treating the
@@ -100,7 +104,7 @@ If you additionally allow the white dwarf to have a net charge, then there is an
 contribution from the electrostatic force, and the resulting equations are called the Thomas–
 Fermi equations of structure. They can also be used to model many-electron atoms, when
 you can neglect the discreteness of the electrons.
-[5] Problem 13.  ^ 1 0GPhO 2016, problem 3. This problem covers the physics of intense magnetic
+[5] Problem 13.   ^ 1 0GPhO 2016, problem 3. This problem covers the physics of intense magnetic
 fields in neutron stars, using the results of E8 and X1.
 [3] Problem 14. The Bekenstein–Hawking formula states that a black hole has an entropy of
 S =
@@ -124,7 +128,9 @@ entropy increases because the photon could have been absorbed in different place
 event horizon. In the limiting case where the photon’s wavelength matches the Schwarzschild
 radius, the absorption takes place everywhere, so the only entropy increase is by 1 “bit”,
 namely whether absorption happened at all. Finish up this argument to conclude that S ∝ A.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Black holes are in some sense the entities with the maximum possible entropy, and it has been
 estimated that the vast majority of the entropy of the universe is in supermassive black holes.
 Solution. (a) The temperature can be found with T = dE/dS, and the energy is simply E = M
@@ -185,7 +191,9 @@ you can check out a few others with a different take on the same idea. GPhO 2016
 a more accurate treatment using more of the language of general relativity. For another way
 to estimate gravitational wave emission, see section 9.3 of The Art of Insight, and for some
 followup questions, see this paper.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 In 1931, after building a sensitive short-wave radio receiver, Karl Jansky heard an unusual
 noise on his receiver from a direction that moved across the sky about once a day. He
@@ -201,9 +209,9 @@ supermassive black hole Sagittarius A*. To learn about the discovery of pulsars,
 4 Cosmology
 Cosmology is a rather technical topic because a proper treatment requires general relativity, but
 one can derive special cases of some of the results using just Newtonian gravity.
-[2] Problem 17.  T 1 0AuPhO 2014, problem 14. A quick problem on the basics of dark matter and
+[2] Problem 17.   T 1 0AuPhO 2014, problem 14. A quick problem on the basics of dark matter and
 galaxy measurements.
-[5] Problem 18.  h 1 0GPhO 2022, problem 1. More about dark matter.
-[5] Problem 19.  h 1 0APhO 2016, problem 2. This straightforward problem introduces the basic
+[5] Problem 18.   h 1 0GPhO 2022, problem 1. More about dark matter.
+[5] Problem 19.   h 1 0APhO 2016, problem 2. This straightforward problem introduces the basic
 equations of cosmology, such as the Friedmann equation.
 5

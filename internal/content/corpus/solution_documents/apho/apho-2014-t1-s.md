@@ -38,7 +38,8 @@ dashed oval). Note that the schematic is not drawn to scale.
 
 
                                                                                  Page 1 of 13
-(a)   (2 points) Assume that there is no wind velocity in the east-west direction around
+
+(a)   (2 points) Assume that there is no wind velocity in the east-west direction around
       the point X. What is the expression for the east-west wind velocity uY at the
       points Y? Convention: positive velocities point from west to east.
       (The angular velocity of the Earth about its spin axis is Ω, the radius of the Earth
@@ -70,7 +71,8 @@ dashed oval). Note that the schematic is not drawn to scale.
 
 
                                                                                  Page 2 of 13
-(b)   (1 point) Which of the following explains ultimately why angular momentum is
+
+(b)   (1 point) Which of the following explains ultimately why angular momentum is
       not conserved along the lower branches of the Hadley circulation?
       Tick the correct answer(s). There can be more than one correct answer.
           (I) There is friction from the Earth's surface.
@@ -89,7 +91,8 @@ dashed oval). Note that the schematic is not drawn to scale.
 
 
                                                                             Page 3 of 13
-Around the northern winter solstice, the rising branch of the Hadley circulation is
+
+Around the northern winter solstice, the rising branch of the Hadley circulation is
 located at the latitude φr and the descending branches are located at φn and φs as shown
 in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
@@ -113,7 +116,8 @@ in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
 
                                                                             Page 4 of 13
-(c)   (2 points) Assume that there is no east-west wind velocity around the point Z.
+
+(c)   (2 points) Assume that there is no east-west wind velocity around the point Z.
       Given that φr = −8°, φn = 28° and φs = −20°, what are the east-west wind
       velocities uP, uQ and uR respectively at the points P, Q and R?
       (The radius of the Earth is a = 6370 km.)
@@ -167,7 +171,8 @@ in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
 
                                                                                 Page 5 of 13
-(d)   (1 point) The near-surface branch of the Hadley circulation blows southward
+
+(d)   (1 point) The near-surface branch of the Hadley circulation blows southward
       across the equator. Mark by arrows on the figure below the direction of the east-
       west component of the Coriolis force acting on the tropical air mass
       (A) north of the equator;
@@ -205,7 +210,8 @@ in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
 
                                                                             Page 6 of 13
-(e)   (1 point) From your answer to part (d) and the fact that surface friction nearly
+
+(e)   (1 point) From your answer to part (d) and the fact that surface friction nearly
       balances the Coriolis forces in the east-west direction, sketch the near-surface
       wind pattern in the tropics near the equator during northern winter solstice.
 
@@ -236,7 +242,8 @@ in the schematic below. Refer to this diagram for parts (c), (d) and (e).
 
 
                                                                               Page 7 of 13
-Suppose the Hadley circulation can be simplified as a heat engine shown in the
+
+Suppose the Hadley circulation can be simplified as a heat engine shown in the
 schematic below. Focusing on the Hadley circulation reaching into the winter
 hemisphere as shown below, the physical transformation of the air mass from A to B
 and from D to E are adiabatic, while that from B to C, C to D and from E to A are
@@ -263,7 +270,8 @@ water from the atmosphere, while air loses heat by radiation into space.
 
 
                                                                          Page 8 of 13
-(f)   (2 points) Given that atmospheric pressure at a vertical level owes its origin to
+
+(f)   (2 points) Given that atmospheric pressure at a vertical level owes its origin to
       the weight of the air above that level, order the pressures pA, pB, pC, pD, pE,
       respectively at the points A, B, C, D, E by a series of inequalities.
       (Given that pA = 1000 hPa and pD = 225 hPa. Note that 1 hPa is 100 Pa.)
@@ -306,14 +314,15 @@ water from the atmosphere, while air loses heat by radiation into space.
 
 
                                                                               Page 9 of 13
-(h)   (2 points) Calculate the pressure pB.
+
+(h)   (2 points) Calculate the pressure pB.
 
       Solution:
 
       From the adiabatic expansion AB and adiabatic compression DE,
-                     pAN TH    pBN TC ½° pA pB
+                     pA N TH    pB N TC ½° pA pB
                                          ¾                    (*) 1 point
-                     pEN TH    pDN TC °¿ pE pD
+                     pE N TH    pD N TC °¿ pE pD
                                pA          1000
                     ? pB           pD           750 hPa 220
                                                 225     735 hPa 1 point
@@ -352,7 +361,8 @@ water from the atmosphere, while air loses heat by radiation into space.
 
 
                                                                             Page 10 of 13
-So the net work done per mole on the air mass is:
+
+So the net work done per mole on the air mass is:
       𝑊𝑛𝑒𝑡 = 𝑊𝐸𝐴 + 𝑊𝐵𝐶𝐷
                      𝑝𝐸           𝑝𝐵
            = 𝑅𝑇𝐻 ln ( ) + 𝑅𝑇𝐶 ln ( )
@@ -379,7 +389,8 @@ water from the atmosphere, while air loses heat by radiation into space.
 
 
                                                                      Page 11 of 13
-(j)   (1 point) What is the value of the ideal thermodynamic efficiency εi for the
+
+(j)   (1 point) What is the value of the ideal thermodynamic efficiency εi for the
       winter Hadley circulation?
 
       Solution:
@@ -432,7 +443,8 @@ water from the atmosphere, while air loses heat by radiation into space.
 
 
                                                                                   Page 12 of 13
-(l)   (1 point) Which of the following statements best explains why ε is less than the
+
+(l)   (1 point) Which of the following statements best explains why ε is less than the
       ideal value? Tick the correct answer(s). There can be more than one correct
       answer.
           (I) We have ignored work done against surface friction.

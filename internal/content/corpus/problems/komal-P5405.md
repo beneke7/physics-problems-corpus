@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-The sum of the currents through two resistors is $I$. Prove that the total dissipated power in the two resistors is minimum if the voltages across the two resistors are equal. 
+The sum of the currents through two resistors is $I$. Prove that the total dissipated power in the two resistors is minimum if the voltages across the two resistors are equal.
  (4 pont)

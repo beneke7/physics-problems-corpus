@@ -40,7 +40,7 @@ Note that Φ is the action for an oscillation inside the well, so the bound stat
                                           Φ(En ) = 2π(n + 1/2).
 
 Starting with an exponentially decaying solution for r < r0 , the connection formulas give
-                                                                              Z r
+                                                                                Z r
                   1       K     Φ    i −K      Φ iS(r)/ℏ−iπ/4
         u(r) = p        2e cos + e         sin     e            + c.c., S(r) =      p(r) dr
                   p(r)          2    2         2                                 r2
@@ -73,7 +73,6 @@ physical model for the production of decaying particles in quantum field theory.
 12.3    Green’s Functions
 In this section we make some formal definitions, which will be put to use in the next section. We
 begin with a heuristic example from electromagnetism.
-269 12. Scattering
 
 
  • Schematically, Maxwell’s equation read □A = J. The corresponding homogeneous equation is
@@ -111,7 +110,7 @@ begin with a heuristic example from electromagnetism.
 We now define time-dependent Green’s functions for the Schrodinger equation.
 
  • The inhomogeneous time-dependent Schrodinger equation is
-                                          
+
                                   ∂
                                 iℏ − H(t) ψ(x, t) = S(x, t).
                                   ∂t
@@ -125,7 +124,6 @@ We now define time-dependent Green’s functions for the Schrodinger equation.
 
     It is not a Green’s function, as it satisfies the homogeneous Schrodinger equation; it instead
     propagates effects forward and backward in time.
-270 12. Scattering
 
 
   • The outgoing (or retarded) time-dependent Green’s function is

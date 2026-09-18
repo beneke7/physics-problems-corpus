@@ -125,11 +125,11 @@ Since |Pprop| > |Pwheel|, power is transferred from the propeller to the wheels,
 have F > 0, i.e. in both cases the force on the propeller is in the direction of the wind, as expected.
 The energy balance equation is
 |Pwheel| = (1 − α)Pprop ⇒ v = vw
-
+
 1
 α
 − 1
-
+
 .
 Again, with sufficiently low energy loss, any speed is possible.
 Copyright c 2013 American Association of Physics Teachers
@@ -155,7 +155,7 @@ i. What is the power per unit length P delivered to the rod?
 ii. What is the magnetic field B at the surface of the rod? Draw the direction on a diagram.
 iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees
 with the rate of energy transfer.
-b. A parallel plate capacitor consists of two discs of radius R separated by a distance d 
+b. A parallel plate capacitor consists of two discs of radius R separated by a distance d
  R.
 The capacitor carries charge Q, and is being charged by a small, constant current I.
 i. What is the power P delivered to the capacitor?
@@ -212,7 +212,7 @@ P = 2πrS = πR2
 in agreement with the previous result.
 b. i. The capacitance is given by the standard parallel-plate capacitor formula,
 C =
-0πR2
+ 0πR2
 d
 .
 The voltage on the capacitor is thus
@@ -221,17 +221,17 @@ Q
 C
 =
 Qd
-0πR2
+ 0πR2
 and the power is
 P = IV =
 IQd
-0πR2
+ 0πR2
 .
 Students may choose instead to apply the formula for the volume energy density,
 U =
 1
 2
-0E2
+ 0E2
 .
 ii. Consider an Amperian loop encircling the edge of the capacitor, and use a flat Gaussian
 surface through the center of the capacitor. The electric field here is perpendicular to
@@ -241,7 +241,7 @@ V
 d
 =
 Q
-0πR2
+ 0πR2
 .
 Copyright c 2013 American Association of Physics Teachers
 2013 Semifinal Exam Part B 15
@@ -249,12 +249,12 @@ The electric flux through the surface is thus
 φE = πR2
 E =
 Q
-0
+ 0
 .
 This can also be determined directly using Gauss’s law and appropriate symmetries.
 There is no current through the surface, so from Ampere’s law
 I
-B · dl = µ00
+B · dl = µ0 0
 dφE
 dt
 2πRB = µ0
@@ -275,13 +275,13 @@ S =
 µ0
 EB =
 IQ
-20π2R3
+2 0π2R3
 .
 A quick application of the right hand rule indicates that it points inward along the edge
 of the capacitor, as it ought. The area of this region is 2πRd, so the power delivered is
 P = 2πRdS =
 IQd
-0πR2
+ 0πR2
 in agreement with the previous result.
 c. i. Suppose that the solenoid has length l. The inductance is
 L = µ0N2

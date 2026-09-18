@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2014_
 ---
 
 4. Superballs
-1) During the collision with the 
+1) During the collision with the
 oor, the
 bottom-most ball will retain its speed and
 change the direction of the velocity; its upwards
@@ -37,15 +37,15 @@ can conclude that v1 = 3−f
 v = 4
 1+f
 − 1
-
+
 v. 2)
 One can see that if we apply the recurrent for-
 mula repetitively, the result at the n-th step will
 be vn = 2 2
 1+f
-n
+ n
 − 1
-
+
 v.
 3) Now we need to relate the speeds to the jump-
 ing heights via v2
@@ -56,11 +56,11 @@ p
 vn/v0 =
 s
 2
-
+
 2
 1 + f
-n
+ n
 − 1.
-For f = 0.5 and n = 10 we obtain that the 
+For f = 0.5 and n = 10 we obtain that the
 nal
 height will be ca 1200 larger than the initial one.

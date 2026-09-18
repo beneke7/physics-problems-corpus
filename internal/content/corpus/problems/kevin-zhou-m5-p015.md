@@ -28,4 +28,6 @@ Problem 16 (KK 6.41). A plank of length 2L leans nearly vertically against a wal
     loses contact with the wall or floor.
 
                                                         10
-   Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                               Physics Olympiad Handouts

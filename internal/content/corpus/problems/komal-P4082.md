@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-``Stationary'' electrons are bombarded with photons which have the same energy as the rest energy of the electrons. At most what can the maximum speed of the ``knocked'' electrons be? 
+``Stationary'' electrons are bombarded with photons which have the same energy as the rest energy of the electrons. At most what can the maximum speed of the ``knocked'' electrons be?
  (5 pont)

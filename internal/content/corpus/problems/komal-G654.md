@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The height of the thermal water of temperature $30\;{}^\circ$C in a spa pool of base $12~\mathrm{m}\times 20~\mathrm{m}$ is 75 cm. The pool was then filled with $50\;{}^\circ$C water up to the height of 1 m. Due to heat loss the temperature of the mixture is $2\;{}^\circ$C less than it would be without the loss. What amount of heat was lost during mixing the water? 
+The height of the thermal water of temperature $30\;{}^\circ$C in a spa pool of base $12~\mathrm{m}\times 20~\mathrm{m}$ is 75 cm. The pool was then filled with $50\;{}^\circ$C water up to the height of 1 m. Due to heat loss the temperature of the mixture is $2\;{}^\circ$C less than it would be without the loss. What amount of heat was lost during mixing the water?
  (3 pont)

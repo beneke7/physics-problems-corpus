@@ -58,7 +58,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam           Cover Sheet                                           2
+
+
+2016 USA Physics Olympiad Exam           Cover Sheet                                           2
 
 
 
@@ -95,18 +97,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                               G = 6.67 × 10−11 N · m2 /kg2
                                 9
-     k = 1/4π0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                         kB = 1.38 × 10−23 J/K
                        23
      NA = 6.02 × 10 (mol)       −1              R = NA kB = 8.31 J/(mol · K)
                      −8
      σ = 5.67 × 10 J/(s · m · K ) 2  4          e = 1.602 × 10−19 C
      1eV = 1.602 × 10     −19 J                 h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1              cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1              cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                  Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                            Part A                                            3
+
+
+2016 USA Physics Olympiad Exam                            Part A                                            3
 
 
 
@@ -157,7 +161,9 @@ observed frequency is plotted as a function of time:
 
 
                                  Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam               Part A                                                4
+
+
+2016 USA Physics Olympiad Exam               Part A                                                4
 
 
 
@@ -173,7 +179,7 @@ observed frequency is plotted as a function of time:
                                       fa /fb = (1 + v/c)/(1 − v/c)
 
     giving an answer of v = 10.7 m/s.
-    Alternatively, we can see that v  c and approximate
+    Alternatively, we can see that v   c and approximate
 
                                            fa /fb ≈ 1 + 2v/c
 
@@ -187,7 +193,7 @@ observed frequency is plotted as a function of time:
                                               Solution
 
     Let d be the (fixed) distance between the observer and the path of the source; let x be the
-    displacement along the path, with x = 0 at closest approach. Then for |x|  d,
+    displacement along the path, with x = 0 at closest approach. Then for |x|   d,
 
                                           cos θ ≈ cot θ = x/d
 
@@ -198,7 +204,7 @@ observed frequency is plotted as a function of time:
                                             f 0 = f0 (v 2 /c)d
 
     Therefore we can read f 0 off the center region of the graph. We still need to find f0 , which we
-    can do using our result from part (a) or simply by averaging fa and fb , since v  c, giving
+    can do using our result from part (a) or simply by averaging fa and fb , since v   c, giving
     f0 = 435 Hz and an answer of d = 17.8 m.
     There’s also a nice trick to speed up this computation. Draw lines at the asymptotic values
     and through the central data points. The two horizontal lines are 2f0 (v/c) apart in frequency,
@@ -208,7 +214,9 @@ observed frequency is plotted as a function of time:
 
 
                  Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                   Part A                                                 5
+
+
+2016 USA Physics Olympiad Exam                   Part A                                                 5
 
 
 
@@ -247,7 +255,7 @@ answers by just setting Va = Vb .
       For this first part, we will not assume Va = Vb . Since terminal g is grounded, Vg = 0 and
       Va = Vin , so Vout = G(Vin − Vb ). No current runs between a and b, so any current through R1
       also flows through R2 . Then Ohm’s law gives
-                                                                              
+
                            Vb      Vout                                   R2
                               =              ⇒ Vout = G Vin − Vout
                            R2    R1 + R2                              R1 + R2
@@ -256,14 +264,16 @@ answers by just setting Va = Vb .
                                             Vout = Vin 1     R2
                                                                     .
                                                        G + R1 +R2
-      But since G  R1 /R2 , we can neglect the 1/G term, giving
+      But since G   R1 /R2 , we can neglect the 1/G term, giving
                                              Vout   R1 + R2
                                                   ≈         .
                                               Vin     R2
       This circuit is an amplifier with feedback.
 
                     Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                   Part A                                             6
+
+
+2016 USA Physics Olympiad Exam                   Part A                                             6
 
 
 
@@ -313,7 +323,9 @@ answers by just setting Va = Vb .
 
 
                    Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                  Part A                                                7
+
+
+2016 USA Physics Olympiad Exam                  Part A                                                7
 
 
 
@@ -362,7 +374,9 @@ we’re already in the rest frame of the rod at this point. Nonetheless, the way
 stop the rod has squeezed it shorter.
 
                    Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam          Part A                             8
+
+
+2016 USA Physics Olympiad Exam          Part A                             8
 
 
 
@@ -385,7 +399,9 @@ stop the rod has squeezed it shorter.
 
 
                Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam          Part A                               9
+
+
+2016 USA Physics Olympiad Exam          Part A                               9
 
 
 
@@ -416,7 +432,9 @@ stop the rod has squeezed it shorter.
 
 
                Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                   Part A                                            10
+
+
+2016 USA Physics Olympiad Exam                   Part A                                            10
 
 
 
@@ -469,7 +487,9 @@ the water.
 
 
                     Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                Part A                                             11
+
+
+2016 USA Physics Olympiad Exam                Part A                                             11
 
 
 
@@ -488,7 +508,7 @@ the water.
      lifted at a much slower rate, so this accounts for a negligible portion of the energy.
      The third point requires some more explanation. In an appropriate coordinate system, the
      temperature profile of the ice is
-                                                 x
+                                                  x
                                    T (x, d) = 1 −    δT, x ∈ [0, d]
                                                   d
      where d is the thickness and δT = −10 C◦ . As the thickness d increases, all of the ice must
@@ -524,7 +544,9 @@ the water.
 
 
                   Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                  Part A                                             12
+
+
+2016 USA Physics Olympiad Exam                  Part A                                             12
 
 
 
@@ -568,7 +590,9 @@ the water.
 
 
                   Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam          Part A                             13
+
+
+2016 USA Physics Olympiad Exam          Part A                             13
 
 
 
@@ -584,7 +608,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                   Part B                                         14
+
+
+2016 USA Physics Olympiad Exam                   Part B                                         14
 
 
 
@@ -635,13 +661,15 @@ The second equation yields
                                                   v cos θ
 
                    Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                       Part B                                         15
+
+
+2016 USA Physics Olympiad Exam                       Part B                                         15
 
 
 
 
 and plugging this into the first equation gives
-                                                              2
+                                                                2
                                           1          R sin θ                    R sin θ
                              R + R cos θ = g                        − v sin θ
                                           2          v cos θ                    v cos θ
@@ -673,7 +701,7 @@ conservation equation and the condition
                                                                  v2
                                                mg cos θ = m
                                                                  R
-to find                                                   
+to find
                                               1                      37
                                h=1+             (1 + β) + 1 R cos θ = R.
                                               2                      20
@@ -682,7 +710,9 @@ to find                                                   
 
 
                       Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                 Part B                                           16
+
+
+2016 USA Physics Olympiad Exam                 Part B                                           16
 
 
 
@@ -699,18 +729,18 @@ Question B2
                                                Qin           ~ · dA.
                                                                   ~
                                                    =         E
-                                               0
+                                                0
           This yields
                                     Q r3                                  Q r
                                           = 4πr2 E          ⇒    E=
-                                    0 R3                                4π0 R3
+                                     0 R3                                4π 0 R3
           Since the motion is circular,
 
                                               4π 2 r         eQ r
                                           m          = eE =
-                                               T2           4π0 R3
+                                               T2           4π 0 R3
           and solving for T gives                      s
-                                                            4π0 mR3
+                                                            4π 0 mR3
                                               T = 2π                 .
                                                                eQ
           It is independent of r since the motion is simple harmonic.
@@ -722,16 +752,16 @@ Question B2
           Applying Gauss’s law as in the previous part gives
                                                          Q 1
                                                   E=
-                                                        4π0 r2
+                                                        4π 0 r2
           as expected by the shell theorem; one could also just write this down directly. Using the
           same circular motion equation,
 
                                                   4π 2 r     eQ 1
                                               m      2
                                                          =e
-                                                   T        4π0 r2
+                                                   T        4π 0 r2
           and solving for T gives                      s
-                                                            4π0 mr3
+                                                            4π 0 mr3
                                               T = 2π                 .
                                                               eQ
 
@@ -739,7 +769,9 @@ Question B2
 
 
                   Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                   Part B                                             17
+
+
+2016 USA Physics Olympiad Exam                   Part B                                             17
 
 
 
@@ -758,19 +790,19 @@ Question B2
                                         =              2
                                                           +           3
                                                                         ,
-                                            2R 4π0 r        R 4π0 R
+                                            2R 4π 0 r        R 4π 0 R
                                                                  R2
-                                                                   
+
                                              Q      −1 −1
                                         =               −     +        ,
-                                           4π0 2R          R   2R3
+                                           4π 0 2R          R   2R3
                                               Q
                                         =          .
-                                           4π0 R
+                                           4π 0 R
           By energy conservation,             r                 r
                                                    2                  2eQ
                                          v=          e∆V =                  .
-                                                   m                4π0 mR
+                                                   m                4π 0 mR
 
 
   b. Accelerating charges radiate. The total power P radiated by charge q with acceleration a is
@@ -778,35 +810,37 @@ Question B2
                                               P = Cξan
      where C is a dimensionless numerical constant (which is equal to 1/6π), ξ is a physical
      constant that is a function only of the charge q, the speed of light c, and the permittivity of
-     free space 0 , and n is a dimensionless constant. Determine ξ and n.
+     free space  0 , and n is a dimensionless constant. Determine ξ and n.
 
 
                                                  Solution
 
      This is a dimensional analysis problem. The most straightforward method is to write out
      all the dimensions explicitly. Note that a has dimensions of [L]/[T]2 , P has dimensions of
-     [M][L]2 /[T]3 , c has dimensions of [L]/[T], q has dimensions of [C], and 0 has dimensions of
+     [M][L]2 /[T]3 , c has dimensions of [L]/[T], q has dimensions of [C], and  0 has dimensions of
      [C]2 [T]2 /[M][L]3 . The equation
-                                              P = aα cβ 0 γ q δ
+                                              P = aα cβ  0 γ q δ
      has dimensions
-                                                 α                                   γ
+                                                  α                                    γ
                       [M][L]2 /[T]3 = [L]/[T]2        ([L]/[T])β [C]2 [T]2 /[M][L]3        ([C])δ
 
      Mass is only balanced if γ = −1. As a result, charge is balanced if δ = 2. Proceeding similarly
      for length and time,
                                                 1 2 −3 −1 2
-                                         P =      a c 0 q
+                                         P =      a c  0 q
                                                6π
-     giving answers of ξ = q 2 /c3 0 and n = 2.
+     giving answers of ξ = q 2 /c3  0 and n = 2.
 
 
                   Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                     Part B                                            18
+
+
+2016 USA Physics Olympiad Exam                     Part B                                            18
 
 
 
   c. Consider the electron in the first part, except now take into account radiation. Assume that
-     the orbit remains circular and the orbital radius r changes by an amount |∆r|  r.
+     the orbit remains circular and the orbital radius r changes by an amount |∆r|   r.
        i. Consider a circular orbit for the electron where r < R. Determine the change in the
           orbital radius ∆r during one orbit in terms of any or all of r, R, Q, e, and any necessary
           fundamental constants. Be very specific about the sign of ∆r.
@@ -825,11 +859,11 @@ Question B2
          and for small changes in r,
                                                 ∆U         eQ r
                                                    ≈ −F =         .
-                                                ∆r        4π0 R3
+                                                ∆r        4π 0 R3
          This implies the potential energy increases with increasing r, as expected. Now
 
                                                            1 d mv 2
-                                                     
+
                                     ∆K      d 1
                                         ≈        mv 2 =         r
                                     ∆r     dr 2            2 dr    r
@@ -837,38 +871,40 @@ Question B2
          but mv 2 /r = F , so
                                              ∆K   1 d           eQ r
                                                 ≈      |rF | =         .
-                                             ∆r   2 dr         4π0 R3
+                                             ∆r   2 dr         4π 0 R3
          This implies the kinetic energy increases with increasing r, also as expected, as this
          region acts like a multidimensional simple harmonic oscillator. Combining,
                                                ∆E     eQ r
                                                   ≈2         = 2ma
-                                               ∆r    4π0 R3
-         Finally,                                                  s              !
-                                              1 a2 2                   4π0 mR3
-                                                                                           
+                                               ∆r    4π 0 R3
+         Finally,                                                  s              !
+                                              1 a2 2                   4π 0 mR3
+
                                                                                         1
                                 ∆r = −                e       2π                                 .
-                                             6π c3 0                     eQ           2ma
+                                             6π c3  0                     eQ           2ma
          Plugging in the value of a, this can be simplified to
                                                  s
                                                1         e5 Q      r
                                        ∆r = −           3      2 3
                                                                      .
-                                               6 4π0 R(mc ) R
+                                               6 4π 0 R(mc ) R
 
          Alternatively, we can write the result in terms of dimensionless groups,
-                                                          r
+                                                           r
                                                    e2
-                                            
+
                                          2π                      eQ
                                 ∆r = −                  2
                                                                         r.
-                                          3 4π0 Rmc          4π0 Rmc2
+                                          3 4π 0 Rmc          4π 0 Rmc2
 
 
 
                     Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam                 Part B                                            19
+
+
+2016 USA Physics Olympiad Exam                 Part B                                            19
 
 
 
@@ -882,44 +918,46 @@ Question B2
     Picking up where we left off,
                                            ∆U         eQ 1
                                               ≈ −F =         .
-                                           ∆r        4π0 r2
+                                           ∆r        4π 0 r2
     This implies the potential energy increases with increasing r.
                                 ∆K   1 d          ∆K     eQ 1
                                    ≈      |rF | =    ≈−         .
-                                ∆r   2 dr         ∆r    8π0 r2
+                                ∆r   2 dr         ∆r    8π 0 r2
     This implies the kinetic energy decreases with increasing r, a somewhat nonintuitive but true
     statement for circular orbits. Combining,
                                          ∆E   1 eQ r       ma
                                             ≈          3
                                                          =    .
-                                         ∆r   2 4π0 R      2
+                                         ∆r   2 4π 0 R      2
     Using the same manipulations as before,
-                                                              s              !
-                                         1 a2 2                   4π0 mr3
-                                                                                     
+                                                              s              !
+                                         1 a2 2                   4π 0 mr3
+
                                                                                    2
                            ∆r = −                e       2π                                .
-                                        6π c3 0                    eQ            ma
+                                        6π c3  0                    eQ            ma
 
     Plugging in the value of a, this can be simplified to
                                                  s
                                                2        e5 Q
                                        ∆r = −                   .
-                                               3 4π30 r(mc2 )3
+                                               3 4π 30 r(mc2 )3
 
     Alternatively, we can write the result in terms of dimensionless groups,
-                                                     r
+                                                      r
                                                 e2                   R2
-                                         
+
                                      8π                      eQ
                              ∆r = −                                     .
-                                      3 4π0 Rmc2         4π0 Rmc2 r
+                                      3 4π 0 Rmc2         4π 0 Rmc2 r
 
 
 
 
                  Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam      Answer Sheets                          20
+
+
+2016 USA Physics Olympiad Exam      Answer Sheets                          20
 
 
 
@@ -933,7 +971,9 @@ Question B2
 
 
                Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam       Answer Sheets                         21
+
+
+2016 USA Physics Olympiad Exam       Answer Sheets                         21
 
 
 
@@ -949,7 +989,9 @@ Question B2
 
 
                Copyright c 2016 American Association of Physics Teachers
-2016 USA Physics Olympiad Exam      Answer Sheets                          22
+
+
+2016 USA Physics Olympiad Exam      Answer Sheets                          22
 
 
 

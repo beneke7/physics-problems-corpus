@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, conservation-laws]
 ---
 
-An imaginary solar system is an almost exact replica of our solar system, except that all the linear dimensions are half the size of the real system. The density of the imaginary celestial bodies is the same as the density of the real ones. What is the orbital period of the mini-Earth in the imaginary solar system? 
+An imaginary solar system is an almost exact replica of our solar system, except that all the linear dimensions are half the size of the real system. The density of the imaginary celestial bodies is the same as the density of the real ones. What is the orbital period of the mini-Earth in the imaginary solar system?
  (4 pont)

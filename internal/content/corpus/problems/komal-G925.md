@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-We ride a bicycle down a long slope and intend to stop at the bottom. Under which conditions, and why, does the brake pad wear less: if we accelerate to a high speed and brake strongly at the end, or if we brake continuously and do not allow the bicycle to accelerate? (Assume braking without wheel lock, and that brake wear is directly proportional to the work done by friction and independent of speed.) 
+We ride a bicycle down a long slope and intend to stop at the bottom. Under which conditions, and why, does the brake pad wear less: if we accelerate to a high speed and brake strongly at the end, or if we brake continuously and do not allow the bicycle to accelerate? (Assume braking without wheel lock, and that brake wear is directly proportional to the work done by friction and independent of speed.)
  (4 pont)

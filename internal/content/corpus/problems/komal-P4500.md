@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201301"
 verification_status: flagged
 ---
 
-A small bead can slide from A to B along the paths shown in the figure. The paths are circular arcs lying in a vertical plane, and they are symmetrical about the straight line through the points  A and  B . The angle between the straight line and the horizontal is 45$^\circ$. 
+A small bead can slide from A to B along the paths shown in the figure. The paths are circular arcs lying in a vertical plane, and they are symmetrical about the straight line through the points  A and  B . The angle between the straight line and the horizontal is 45$^\circ$.
 
- a ) Along which path will the bead reach point  B in a shorter time, and what can we state about the final speed in each case, if there is no friction? 
- b ) What can be stated about the final speeds if friction is not negligible, and the coefficient of friction is the same in both paths? 
+ a ) Along which path will the bead reach point  B in a shorter time, and what can we state about the final speed in each case, if there is no friction?
+ b ) What can be stated about the final speeds if friction is not negligible, and the coefficient of friction is the same in both paths?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4500-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4500-fig1.gif)

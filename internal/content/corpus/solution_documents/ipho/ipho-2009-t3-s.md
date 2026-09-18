@@ -61,7 +61,9 @@ Answers
      M 2 k Tc
       
      R G mp
-2c   From section (2b) we have that, for Tc  5.5109 K:                          0.5
+
+
+2c   From section (2b) we have that, for Tc  5.5109 K:                          0.5
 
       M 2 k Tc
                1.4 1024 kg m-1.
@@ -118,7 +120,9 @@ Answers
      4) The mass/radius ratio of the stars.
 
 4a   Taking into account that                                                     0.5
-     M 2 k Tc
+
+
+     M 2 k Tc
              , and that
      R G mp
 
@@ -183,7 +187,9 @@ Answers
       R      1/ 4        3/ 4       5/ 4   1/ 2
                                                           6.9  107 m = 0.10 R(Sun)
              4       qm   e      m   p      G
-5e   The mass to radius ratio is:                                                  0.5
+
+
+5e   The mass to radius ratio is:                                                  0.5
      M     q4
                      2.4  1021 kg m-1, from where we derive that
      R 12  0 G h

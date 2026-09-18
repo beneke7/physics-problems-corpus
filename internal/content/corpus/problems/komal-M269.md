@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200604"
 verification_status: pending
 ---
 
-Measure the internal resistance of a digital multimeter, if it is used as a voltmeter. Does this internal resistance depend on the range? 
+Measure the internal resistance of a digital multimeter, if it is used as a voltmeter. Does this internal resistance depend on the range?
  (6 pont)

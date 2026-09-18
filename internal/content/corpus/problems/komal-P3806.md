@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A soldier has to cross a 60 m wide river on a ropeway grabbing on a pulley. The length of the rope is 75 m, its ends are fixed at the same height on both banks of the river. The soldier, whose mass together with his combat gear is 90 kg, starts from a platform under one of the fixed points with zero initial velocity. 
+A soldier has to cross a 60 m wide river on a ropeway grabbing on a pulley. The length of the rope is 75 m, its ends are fixed at the same height on both banks of the river. The soldier, whose mass together with his combat gear is 90 kg, starts from a platform under one of the fixed points with zero initial velocity.
 
- a ) What is the highest velocity of the soldier during the crossing? 
+ a ) What is the highest velocity of the soldier during the crossing?
 
- b ) What is the force exerted on the rope at that moment? (Take the rope as inextensible, weightless and free of any friction.) 
+ b ) What is the force exerted on the rope at that moment? (Take the rope as inextensible, weightless and free of any friction.)
 
  (5 pont)

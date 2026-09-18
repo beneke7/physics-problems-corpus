@@ -48,7 +48,7 @@ D Masking tape, pencil, ruler, paper with diagonal scale
 
 The two optical axes cross in the center of the black box. At the crossing could sit: no element, a fully reflective mirror (both sides), a semi-transparent mirror, or a regular-triangle-shaped prism.
 
-![figure](../../sources/eupho/figures/eupho-2023-E2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2023-E2-1.png)
 
 *Figure 2: Layout of the black box and the slots of the unknown elements.*
 

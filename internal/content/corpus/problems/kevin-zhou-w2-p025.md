@@ -28,7 +28,9 @@ solution_language: en
 [4] Problem 26. One day, somebody sent me a photo of a weird pattern on their phone.
 
                                                   20
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts
 
 The phone was on a desk, about a meter away from the camera.
 

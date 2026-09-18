@@ -65,7 +65,7 @@ A villámáram felfutási idejének tipikus értékeiből megbecsülhető, hogy 
                                            vezetőhurok
 
                        2m
-                                              
+
                                                      föld
                                               6m
 ```

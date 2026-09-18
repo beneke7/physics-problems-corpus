@@ -16,11 +16,11 @@ Question B1
 Disk Jockey
 A disk of uniform mass density, mass M, and radius R sits at rest on a frictionless floor. The disk
 is attached to the floor by a frictionless pivot at its center, which keeps the center of the disk in
-place, but allows the disk to rotate freely. An ant of mass m 
+place, but allows the disk to rotate freely. An ant of mass m
  M is initially standing on the edge
 of the disk; you may give your answers to leading order in m/M.
 a. The ant walks an angular displacement θ along the edge of the disk. Then it walks radially
-inward by a distance h 
+inward by a distance h
  R, tangentially through an angular displacement −θ, then back to its
 starting point on the disk. Assume the ant walks with constant speed v.
 h
@@ -61,21 +61,21 @@ v
 =
 2mθ
 M
-
+
 1 −
 h
 R
-2
+ 2
 .
 The net rotation is
 φ1 + φ2 =
 2mθ
 M
-
+
 1 −
 h
 R
-2
+ 2
 − 1
 !
 ≈ −
@@ -124,16 +124,16 @@ To evaluate the angular momentum, note that
 θ + v(R − r)cosθ = vr + v(R − r)cosθ.
 Thus, we have
 L = mv r + (R − r)cosθ
-
+
 .
 Plugging this into the time integral above,
 φ =
 Z
 2mv
 MR2
-
+
 r + (R − r)cos θ(t)
-
+
 dt.
 Changing this to an integral over θ using dθ = v dt/r,
 φ =
@@ -141,9 +141,9 @@ Z 2π
 0
 2mr
 MR2
-
+
 r + (R − r)cos θ(t)
-
+
 dθ =
 4m
 M
@@ -276,8 +276,8 @@ its temperature is instantly reduced to T0.
 You may neglect any heat transfer and friction between the parcel of air and the surrounding air,
 and assume that the temperature difference is not too large. In addition, you may assume the
 height h is small enough so that the pressure P0 and density ρ0 of the surrounding air are very
-nearly constant throughout the container. More precisely, assume that ρ0gh/P0 
- ∆T/T0 
+nearly constant throughout the container. More precisely, assume that ρ0gh/P0
+ ∆T/T0
  1.
 Express your answers in terms of P0, g, h, ∆T, and T0.
 i. As a parcel of air moves upward, it accelerates. Find a rough estimate for the average speed
@@ -299,7 +299,7 @@ T0
 .
 Note that because dP/dz = −ρg in hydrostatic equilibrium, the pressure of the sur-
 rounding air varies between the bottom and top of the container, by a fractional amount
-of order ρ0gh/P0. But since we assumed ρ0gh/P0 
+of order ρ0gh/P0. But since we assumed ρ0gh/P0
  ∆T/T0, we can neglect this effect.
 ii. In the steady state, warm parcels of air are continuously moving upward from the bottom, and
 cold parcels of air are continuously moving downward from the top. Find a rough estimate
@@ -318,10 +318,10 @@ T0
 ∼ P0
 p
 gh
-
+
 ∆T
 T0
-3/2
+ 3/2
 .
 This is a simplified version of the mixing length theory of convection, which is essential
 for modeling the interiors of stars.

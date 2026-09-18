@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-At STP the density of air is approximately 0.0013 g/cm${}^{3}$, whilst the density of liquefied air is approximately $0.87$ g/cm${}^{3}$. 
- $a)$ Estimate the number of "air molecules" in 1 cm${}^{3}$ air at STP and at its liquefied state. 
- $b)$ Estimate the mass of an "air molecule". 
+At STP the density of air is approximately 0.0013 g/cm${}^{3}$, whilst the density of liquefied air is approximately $0.87$ g/cm${}^{3}$.
+ $a)$ Estimate the number of "air molecules" in 1 cm${}^{3}$ air at STP and at its liquefied state.
+ $b)$ Estimate the mass of an "air molecule".
  (3 pont)

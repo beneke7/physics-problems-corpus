@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Anna and Tom are classmates, and they live in a straight street in different houses. Every day they start walking to school at the same time at uniform speeds. Tom lives further from the school, but he is faster, in some time he overtakes Anna. One day Anna would like to meet Tom earlier, so she begins to walk towards Tom. This time they meet five times earlier than they meet usually. By what factor is Tom's speed greater than Anna's speed? 
+Anna and Tom are classmates, and they live in a straight street in different houses. Every day they start walking to school at the same time at uniform speeds. Tom lives further from the school, but he is faster, in some time he overtakes Anna. One day Anna would like to meet Tom earlier, so she begins to walk towards Tom. This time they meet five times earlier than they meet usually. By what factor is Tom's speed greater than Anna's speed?
  (3 pont)

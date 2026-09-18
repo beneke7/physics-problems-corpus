@@ -49,7 +49,9 @@ Problem 2 – Solution                                                          
 3A.   In order to compute B(P*) we may consider the "V" as equivalent to two crossed infinite wires (a
       and b in the following figure) plus another "V", symmetrical to the first one, shown in the figure as
       V', carrying the same current i, in opposite direction.
-      Problem 2 – Solution                                                                             Page 2
+
+
+      Problem 2 – Solution                                                                             Page 2
 
 
 
@@ -94,7 +96,9 @@ Problem 2 – Solution                                                          
 
 5.    If we label with subscript A the computations based on Ampère's interpretation, and with subscript
       BS those based on the other hypothesis by Biot and Savart, we have
-Problem 2 – Solution                                                                         Page 3
+
+
+Problem 2 – Solution                                                                         Page 3
         iµ 0     α                            iµ 0
 BA =         tan( )                  B BS =        α
         2πd      2                            π 2d
@@ -124,7 +128,9 @@ using a calculator we see that this condition is well approximated when α/2 = 0
 therefore be smaller than 0.77 rad ≈ 44°.
 A graphical solution of the equation for α is acceptable but somewhat lengthy. A series
 development, on the contrary, is not acceptable.
-Problem 3 – Solution                                                                           Page 1
+
+
+Problem 3 – Solution                                                                           Page 1
 
 
 

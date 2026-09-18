@@ -20,11 +20,11 @@ termine the volume of the ball. Tothat end, we tighten the rope around
 the ball as tightly as the fasteners can hold (note that smaller tension
 values would resultsin atoosmallvolume decrease, andhence, in alar-
 ge uncertainty of the final answer). We weight the ball with rope (93.3
-g)and subtractthe massofthe rope (19.1 g)to find ρV 
+g)and subtractthe massofthe rope (19.1 g)to find ρV
 −M = 28.4g,
-where V 
+where V
 is the ball volume, when the rope is tightened. Hence, the
-volume decrease ∆V = V − V 
+volume decrease ∆V = V − V
 = (28.4 − 27.6)/1.2 l≈ .67l. La-
 ter, we determine the maximal tension in rope (which can be hold by
 fasteners) with dynamometer, T ≈ 30N. We also estimate the average

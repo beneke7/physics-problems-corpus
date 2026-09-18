@@ -63,7 +63,9 @@ Example 7: Griffiths 5.40
 
 
                                                          14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

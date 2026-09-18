@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201409"
 verification_status: pending
 ---
 
-What is the least force that must be applied in order to overturn an ice cube skidding on ice? (Friction is negligible.) 
+What is the least force that must be applied in order to overturn an ice cube skidding on ice? (Friction is negligible.)
  (4 pont)

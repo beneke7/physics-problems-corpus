@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3784. Két nagy tartályban 100-100 liter 10 $^\circ$C-os, illetve 30 $^\circ$C-os víz van. A melegebb tartályból 1 liter vizet átöntünk a hidegebb tartályba, ahonnan az elkeveredés után 1 liter vizet visszaöntünk. 
+P. 3784. Két nagy tartályban 100-100 liter 10 $^\circ$C-os, illetve 30 $^\circ$C-os víz van. A melegebb tartályból 1 liter vizet átöntünk a hidegebb tartályba, ahonnan az elkeveredés után 1 liter vizet visszaöntünk.
 
  Hányszor kell a fenti folyamatot megismételni, hogy mindkét tartályban legalább 5-5 $^\circ$C-os hőmérsékletváltozás történjen? (A veszteségektől tekintsünk el!)

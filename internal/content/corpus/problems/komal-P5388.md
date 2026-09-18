@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, superposition]
 ---
 
-Linearly polarized light from a 15 mW laser having a wavelength of $\lambda=632.8$ nm is emitted from the 2 mm diameter circular aperture of the laser box. 
- $a)$ What is the maximum value of the electric field in the laser beam? 
- $b)$ What is the total linear momentum of a one metre long piece of the laser beam? 
+Linearly polarized light from a 15 mW laser having a wavelength of $\lambda=632.8$ nm is emitted from the 2 mm diameter circular aperture of the laser box.
+ $a)$ What is the maximum value of the electric field in the laser beam?
+ $b)$ What is the total linear momentum of a one metre long piece of the laser beam?
  (4 pont)

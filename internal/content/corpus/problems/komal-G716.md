@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A grenade fired from a cannon explodes into two pieces of equal mass at the top of its trajectory, when its speed is 100 m/s. One piece starts to move vertically upwards at a speed of 50 m/s. In what direction and at what speed does the other piece start? (The mass of the explosive in the grenade is negligible.) 
+A grenade fired from a cannon explodes into two pieces of equal mass at the top of its trajectory, when its speed is 100 m/s. One piece starts to move vertically upwards at a speed of 50 m/s. In what direction and at what speed does the other piece start? (The mass of the explosive in the grenade is negligible.)
  (3 pont)

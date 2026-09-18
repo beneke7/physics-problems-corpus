@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202011"
 verification_status: pending
 ---
 
-Make different shapes of ice pieces in the freezer of a refrigerator and use them to measure the density of ice. 
+Make different shapes of ice pieces in the freezer of a refrigerator and use them to measure the density of ice.
  (6 pont)

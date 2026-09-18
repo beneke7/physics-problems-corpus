@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200802"
 verification_status: pending
 ---
 
-Two resistors of resistances 600 ohms and 400 ohms are connected in series and they are connected to a 90 V voltage supply. The voltmeter connected across the 600 ohm resistor reads 45 V. What is the resistance of the voltmeter? 
+Two resistors of resistances 600 ohms and 400 ohms are connected in series and they are connected to a 90 V voltage supply. The voltmeter connected across the 600 ohm resistor reads 45 V. What is the resistance of the voltmeter?
  (4 pont)

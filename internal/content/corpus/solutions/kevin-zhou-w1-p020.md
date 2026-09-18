@@ -84,7 +84,7 @@ L
 Z L
 0
 dx
-
+
 cos
 πx
 L
@@ -92,7 +92,7 @@ L
 πx
 L
 (m + n)
-
+
 which will always equal to 0 when m ̸= n, since the arguments of sine (the anti-derivative of
 cosine) will always be an integer multiple of π. To find the constant of proportionality, we
 only need to look at the nth term of the expansion of y0(x):
@@ -120,18 +120,18 @@ Z L/2
 2hx
 L
 sin
-πnx
+ πnx
 L
-
+
 dx +
 2
 L
 Z L
 L/2
 (2h − 2hx/L)sin
-πnx
+ πnx
 L
-
+
 dx
 Using symmetry again, the two integrals above are equal, so we only need to evaluate the
 first. We have
@@ -142,9 +142,9 @@ L2
 L
 πn
 xcos
-πnx
+ πnx
 L
- L/2
+  L/2
 0
 +
 L
@@ -152,9 +152,9 @@ L
 Z L/2
 0
 cos
-πnx
+ πnx
 L
-
+
 dx
 !
 +
@@ -162,15 +162,15 @@ dx
 L
 Z L
 L/2
-
+
 1 −
 x
 L
-
+
 sin
-πnx
+ πnx
 L
-
+
 dx
 Considering only odd n, the first term will vanish since cos(πn/2) = 0 for odd n. Also, by
 symmetry the integral that goes from L/2 to L should be equal to the one that goes from 0
@@ -179,9 +179,9 @@ cn =
 8h
 π2n2
 sin
-πn
+ πn
 2
-
+
 while cn = 0 for even n.
 26
 Kevin Zhou Physics Olympiad Handouts

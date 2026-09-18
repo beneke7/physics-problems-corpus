@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-The diameter of a standard table-tennis ball is 40 mm, and its mass is 2.7 grams. What is the diameter of that iron ball, which should be attached to the table-tennis ball, in order that they just float in the water? 
+The diameter of a standard table-tennis ball is 40 mm, and its mass is 2.7 grams. What is the diameter of that iron ball, which should be attached to the table-tennis ball, in order that they just float in the water?
  (3 pont)

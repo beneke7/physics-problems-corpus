@@ -136,7 +136,7 @@ E × (v × E)dV =
 Z
 v(E2
 ) − E(v · E)
-
+
 dV
 = (kq)2
 ẑ
@@ -146,11 +146,11 @@ Z π
 0
 Z 2π
 0
-
+
 v/r4
 − v cos2
 θ/r4
-
+
 r2
 sinθdϕdθdr
 = 2π(kq)2
@@ -183,10 +183,10 @@ p =
 c4µ0
 8
 3
-
+
 q
 4πϵ0
-2
+ 2
 πv
 a
 =
@@ -246,7 +246,7 @@ ḂQdŷdt = BQdŷ = ϵ0EBAdŷ
 in agreement with parts (a) and (b). The answer is the same if the setup were asymmetric,
 i.e. if the fields had been E′ + E0 and −E′ + E0 at the top and bottom plates, because E0
 would not contribute to the net force.
-[3] Problem 17.  m 1 0USAPhO 2004, problem B2. (The official solution is off by a sign in the last
+[3] Problem 17.   m 1 0USAPhO 2004, problem B2. (The official solution is off by a sign in the last
 part. This classic setup also appears on USAPhO 2020, problem A1, and INPhO 2020, problem 2.
 However, the official solution to USAPhO 2020, problem A1 has factor of 2 errors.)
 4 Electromagnetic Waves
@@ -272,7 +272,7 @@ Kevin Zhou Physics Olympiad Handouts
 Solution
 First let’s consider Gauss’s law, ∇ · E = 0. Splitting everything explicitly into components,
 ∇ · E = e−iωt
-
+
 ∂
 ∂x
 (E0,xeik·r
@@ -285,9 +285,9 @@ First let’s consider Gauss’s law, ∇ · E = 0. Splitting everything explici
 ∂z
 (E0,zeik·r
 )
-
+
 = e−iωt
-
+
 E0,x
 ∂
 ∂x
@@ -300,7 +300,7 @@ eik·r
 ∂
 ∂z
 eik·r
-
+
 = ei(k·r−ωt)
 (iE0,xkx + iE0,yky + iE0,zkz)
 = ik · E = 0

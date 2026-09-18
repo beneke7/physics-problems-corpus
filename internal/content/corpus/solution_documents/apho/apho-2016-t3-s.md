@@ -66,7 +66,8 @@ A3     For a current loop, under a uniform magnetic field the total torque shoul
               
 
            M B
-                                             Marking Scheme – T3
+
+                                             Marking Scheme – T3
                                                                                             Page 2 of 7
 
 
@@ -118,7 +119,8 @@ A5   Thus for spin parallel state            , we have                          
      For spin anti-parallel state              , we have
 
      𝑈 = −5.788 × 10−5 eV (0.5 points)
-                                              Marking Scheme – T3
+
+                                              Marking Scheme – T3
                                                                                                  Page 3 of 7
 
 
@@ -170,7 +172,8 @@ B3                                       D                                      
 
 
 C1   Method 1:                                                                                          3
-                                                       Marking Scheme – T3
+
+                                                       Marking Scheme – T3
                                                                                                               Page 4 of 7
                                                1
                         2  4   x2
@@ -256,7 +259,8 @@ minimum value when                                 .
 
 
 Method 2:
-                                                      Marking Scheme – T3
+
+                                                      Marking Scheme – T3
                                                                                                                Page 5 of 7
               
                             2
@@ -324,7 +328,8 @@ C2                                                                              
       2me
 
      Consequently,
-                                                        Marking Scheme – T3
+
+                                                        Marking Scheme – T3
                                                                                                    Page 6 of 7
 
                   . (1 point for the correct answer)
@@ -389,7 +394,8 @@ D2   magnetic field, thus                                                       
                                                                         √Δ2 + 2Δ𝜇B 𝐵𝑧
 D3       𝐸|| < 𝐸Ising ⇒ 2𝜇B √𝐵𝑥2 + 𝐵𝑧2 > 2Δ + 2𝜇B 𝐵𝑧 ⇒ 𝐵𝑥 >                           (1 points)          1
                                                                              𝜇B
-                                 Marking Scheme – T3
+
+                                 Marking Scheme – T3
                                                        Page 7 of 7
 
 

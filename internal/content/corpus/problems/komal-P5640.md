@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, limiting-and-special-cases]
 ---
 
-In Las Palmas, the largest city in the Canary Islands, there is a unique exhibition in Europe that shows the world's aquatic life. One of the attractions of the exhibition is a 400 cubic metre vertical cylindrical marine aquarium, which is serviced by divers. Looking horizontally around the aquarium, how much of the aquarium wall is visible to a diver at a distance $d$ from the axis of symmetry of the cylinder of radius $R$? The refractive index of the water is $n$. 
+In Las Palmas, the largest city in the Canary Islands, there is a unique exhibition in Europe that shows the world's aquatic life. One of the attractions of the exhibition is a 400 cubic metre vertical cylindrical marine aquarium, which is serviced by divers. Looking horizontally around the aquarium, how much of the aquarium wall is visible to a diver at a distance $d$ from the axis of symmetry of the cylinder of radius $R$? The refractive index of the water is $n$.
  (5 pont)

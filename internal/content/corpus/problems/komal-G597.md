@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [stability-analysis]
 ---
 
-A solid cube is floating in a container filled with some liquid. The system is heated slowly. Hasty Tymothy states that the cube will slowly sink. Sudden Lily immediately replies that on the contrary it will rise. Who is right? 
+A solid cube is floating in a container filled with some liquid. The system is heated slowly. Hasty Tymothy states that the cube will slowly sink. Sudden Lily immediately replies that on the contrary it will rise. Who is right?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G597-fig1.gif)
+![figure](../../figures/komal/figures/komal-G597-fig1.gif)

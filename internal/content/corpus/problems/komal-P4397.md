@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-News in the dog days: ``In summer the transmission lines get longer, thus the electrical energy that can be transmitted through them decreases.'' Investigate the truth content of this news. 
+News in the dog days: ``In summer the transmission lines get longer, thus the electrical energy that can be transmitted through them decreases.'' Investigate the truth content of this news.
  (4 pont)

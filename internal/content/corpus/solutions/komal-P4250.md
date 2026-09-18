@@ -9,6 +9,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ $5460$ K; 
- $b)$ $1,\!9\cdot10^5$ Pa; 
+ $a)$ $5460$ K;
+ $b)$ $1,\!9\cdot10^5$ Pa;
  $c)$ 94 kJ.

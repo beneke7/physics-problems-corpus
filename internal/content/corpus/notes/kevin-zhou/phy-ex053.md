@@ -24,7 +24,6 @@ source_role: explanatory_example
 Example. A blunt object moving at supersonic speeds produces a “bow shock” in front of it, as
 shown. (For an object with a sharp tip, we would instead get a conical shock wave attached to the
 object, called a Mach cone.)
-117 4. Continuum Mechanics
 
 
 Across this shock, the properties of the fluid change discontinuously. For simplicity, we focus on
@@ -79,7 +78,6 @@ examples for intuition, always assuming incompressible flow.
 
       where η is called the (dynamic) viscosity. The units of viscosity have various names, 1 Pa s =
       1 Poiseuille = 0.1 poise.
-118 4. Continuum Mechanics
 
 
  • For example, for an ideal gas we can show by kinetic theory that
@@ -122,7 +120,7 @@ examples for intuition, always assuming incompressible flow.
 
    Then the solution at later times is
                                                               y2
-                                                                  
+
                                               u0 a
                                 vx (y, t) = √         exp − 2
                                              a2 + 4νt      a + 4νt
@@ -139,7 +137,6 @@ examples for intuition, always assuming incompressible flow.
    δ, the solution must depend on it alone,
                                                             √
                                         vx (y, t) = u0 f (y/ νt).
-119 4. Continuum Mechanics
 
 
     Plugging in this ansatz gives
@@ -196,7 +193,6 @@ Next, we write down the Navier–Stokes equations for incompressible flow.
    not true for solids. Suppose this wall is at z = 0. At the origin, ∇x v = ∇y v = 0 since the
    velocity vanishes at the wall. By incompressibility, ∇z vz = 0 at the wall as well, so the shear
    stress vanishes at the wall, and thus σ · n̂ = −pn̂ is continuous, so p is.
-120 4. Continuum Mechanics
 
 
  • Taking the curl of this equation gives
@@ -238,7 +234,7 @@ Next, we write down the Navier–Stokes equations for incompressible flow.
 Finally, we consider some of the complications of compressible flow.
 
  • In this case, the stress can also depend on ∇ · v, and it is conventional to define
-                                                                  
+
                                                         2
                         σij = −p δij + η ∇i vj + ∇j vi − δij ∇ · v + ζδij ∇ · v
                                                         3
@@ -247,14 +243,13 @@ Finally, we consider some of the complications of compressible flow.
     not affect the mechanical pressure.
 
  • The resulting equations of motion are
-                           
+
              ∂v                                                                   ∂ρ
          ρ       + (v · ∇)v) = f − ∇p + η∇2 v + (ζ + η/3)∇(∇ · v),                   + ∇ · (ρv) = 0
               ∂t                                                                  ∂t
     where we again assumed a uniform η and ζ. These equations close for a barotropic fluid. In the
     case where p = p(ρ, T ), we would also need a differential heat equation to describe the evolution
     of T . The viscosities η and ζ could also depend on T .
-121 4. Continuum Mechanics
 
 
   • In this compressible case, velocity and σ · n̂ remain continuous at interfaces, but the pressure

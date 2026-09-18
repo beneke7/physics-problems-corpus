@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws, graphical-reduction]
 ---
 
-A child of mass $m$ is bouncing on a trampoline. What is the average acceleration of the child during one complete jump (up and down motion)? 
+A child of mass $m$ is bouncing on a trampoline. What is the average acceleration of the child during one complete jump (up and down motion)?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4770-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4770-fig1.gif)

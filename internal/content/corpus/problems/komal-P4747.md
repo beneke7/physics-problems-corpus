@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [differential-element, auxiliary-unknowns]
 ---
 
-The two endpoints of a 40 cm long chain are fixed at the same height as shown in the figure. What is the radius of the curvature of the chain at 
+The two endpoints of a 40 cm long chain are fixed at the same height as shown in the figure. What is the radius of the curvature of the chain at
 
- $a)$ its lowest point; 
- $b)$ the points where the chain is suspended? 
+ $a)$ its lowest point;
+ $b)$ the points where the chain is suspended?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4747-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4747-fig1.gif)

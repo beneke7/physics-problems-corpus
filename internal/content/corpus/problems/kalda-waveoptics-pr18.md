@@ -19,4 +19,4 @@ verification_status: pending
 
 [Est-PhO-2001] In fibre optics, devices called equal ratio splitters are often used: these are devices where two optical fibres are brought into such a contact that if an electromagnetic wave is propagating in one fibre, at the contact point it splits into two equal amplitude waves, travelling in each of the fibres, see figure.
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr18-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr18-fig1.jpg)

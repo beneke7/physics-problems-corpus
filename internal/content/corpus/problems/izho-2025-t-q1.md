@@ -36,4 +36,4 @@ A fully deflated balloon with a maximum volume of $V_{0}=22.4 l$, made of soft, 
 ## Problem 1.3 (3.0 points)
 
 The light sources of flashlight 1 are four identical white LED bulbs located on one line at a distance of $h=4.90 \mathrm{~mm}$ from each other. The bulbs can be considered point light sources. At a distance of $L=10.0$ cm, parallel to them, there is a metal grid 2 made of thin wire with a diameter of $d=0.20 \mathrm{~mm}$. The grid cells are square, whose side is equal to $a=1.00 \mathrm{~mm}$. Calculate at what distances $\left.S_{m}(m=1,2 \ldots)\right)$ the screen 3 should be located so that the grid image on it is the clearest and sharpest.
-![](izho-2025-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2025-t-q1-fig01.png)

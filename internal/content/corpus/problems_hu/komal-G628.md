@@ -9,5 +9,5 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 628. Reggelente mindig ugyanabban az órában megfigyelhetjük, hogy a Vénusz egyre közelebb kerül a Naphoz. 
+G. 628. Reggelente mindig ugyanabban az órában megfigyelhetjük, hogy a Vénusz egyre közelebb kerül a Naphoz.
  Vajon a Nap ,,előtt'' vagy pedig a Nap ,,mögött'' fog a Vénusz elhaladni?

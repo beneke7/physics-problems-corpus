@@ -20,4 +20,4 @@ verification_status: pending
 
 Kis homokszemek súrlódásmentesen csúsznak egy $R$ sugarú, hengeres vályúban (lásd az ábrát). A vályú hajlásszöge $\alpha$. Minden szemcse kezdeti sebessége nulla, és az $A$ pont közelében indulnak, de nem feltétlenül magából az $A$ pontból. Mekkora legyen a vályú hossza ahhoz, hogy minden szemcse a $B$ pontban, vagyis pontosan a vályú alján hagyja el?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr50-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr50-fig1.jpg)

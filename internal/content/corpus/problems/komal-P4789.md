@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [exploit-symmetry, scaling-and-dimensional-analysis]
 ---
 
-We would like to solder a so called Sierpinski-triangle from a piece of thin wire of uniform cross-section. We start from an equilateral triangle shaped frame, in which the resistance measured between the the vertices $A$ and $B$ is $R_0$. First the wires at the midlines of the triangle are soldered to the original frame, and then the second step is to solder the wires along the midlines of three outer triangles which were created. The process is continued similarly, and a fractal like frame is created (see the figure ). 
- What will the resistance between the points $A$ and $B$ be after the $n$ -th step? 
+We would like to solder a so called Sierpinski-triangle from a piece of thin wire of uniform cross-section. We start from an equilateral triangle shaped frame, in which the resistance measured between the the vertices $A$ and $B$ is $R_0$. First the wires at the midlines of the triangle are soldered to the original frame, and then the second step is to solder the wires along the midlines of three outer triangles which were created. The process is continued similarly, and a fractal like frame is created (see the figure ).
+ What will the resistance between the points $A$ and $B$ be after the $n$ -th step?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4789-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4789-fig1.gif)

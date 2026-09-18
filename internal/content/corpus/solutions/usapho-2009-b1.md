@@ -66,33 +66,33 @@ g
 2
 g
 sin2α
-
+
 cos2α +
 1
 2
-
+
 .
 For convenience we set β = 2α. Inserting the expression for v0,
 l = 16h sinβ
-
+
 cosβ +
 1
 2
-
+
 ⇒
 dl
 dβ
 = 16h
-
+
 cosβ
-
+
 cosβ +
 1
 2
-
+
 − sin2
 β
-
+
 Setting this to zero to find the maximum,
 cos2
 β − sin2
@@ -123,11 +123,11 @@ p
 1 − cos2 β = 0.805.
 So at maximum,
 l = 16h · 0.805 ·
-
+
 0.593 +
 1
 2
-
+
 = 14.08h
 which occurs at
 cos2α = 0.593 ⇒ α = 0.468 = 26.8◦

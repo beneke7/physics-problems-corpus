@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the resistance between two neighbouring vertices of a dodecahedron (see figure), the edges of which are made of wire; the resistance of each edge is $R$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr21-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr21-fig1.jpg)

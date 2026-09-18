@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-A physicist works in a laboratory where the magnetic induction is 5 mT. She wears a golden necklace which encloses an area of 0.02 m$^{2}$, and which has a resistance of 0.01  . What is the maximum of the current that flows in the necklace if the the magnetic induction decreases uniformly to 1 mT in 1 ms? 
+A physicist works in a laboratory where the magnetic induction is 5 mT. She wears a golden necklace which encloses an area of 0.02 m$^{2}$, and which has a resistance of 0.01  . What is the maximum of the current that flows in the necklace if the the magnetic induction decreases uniformly to 1 mT in 1 ms?
  (4 pont)

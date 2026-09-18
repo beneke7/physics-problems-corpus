@@ -60,7 +60,9 @@ Question 2
 
 
                   Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                     2
+
+
+2007 Semifinal Exam Solutions                                                                     2
 
 
        ii. Adiabatic compression:
@@ -69,9 +71,9 @@ Question 2
 
                                                   P0 Lγ0 = Pcr Lγ ,                          (A2-4)
 
-          and then                                                  5/3
+          and then                                                   5/3
                                                               P0
-                                                          
+
                                                  L = L0                    .                 (A2-5)
                                                               Pcr
   b. The normal pressure on the bullet comes from
@@ -101,25 +103,27 @@ Question 3
 
                                                      q      ρr2
                                             V =           =                                  (A3-2)
-                                                   4π0 r   30
+                                                   4π 0 r   3 0
 
      To increase the radius by dr, an additional charge dq = 4πr2 dr must be brought in from
      infinity, requiring work
                                                     4πr4 ρ2
                                       dU = V dq =           dr                        (A3-3)
-                                                      30
+                                                      3 0
      Thus to grow the sphere from r = 0 to r = R requires
 
                                                  4πr4 ρ2      4πR5 ρ2
                                            Z R
                                       U=                 dr =                                (A3-4)
-                                            0      30         150
+                                            0      3 0         15 0
 
 
 
 
                   Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                     3
+
+
+2007 Semifinal Exam Solutions                                                                     3
 
 
   b. Each drop has volume Vd = 43 πR3 , so the number of drops is
@@ -132,9 +136,9 @@ Question 3
      energies of each individual drop:
 
                                                       Vf 4πR5 ρ2   R 2 ρ2
-                                   Ue,tot = nU = 4       3 15
+                                   Ue,tot = nU = 4       3 15
                                                                  =        Vf                 (A3-6)
-                                                    3 πR      0     50
+                                                    3 πR      0     5 0
 
   c. Each drop has surface area 4πR2 and thus surface tension energy 4πR2 γ. As before, the total
      energy due to surface tension is just the sum of the energies of the individual drops:
@@ -147,25 +151,25 @@ Question 3
                                                                       !
                                                      R2 ρ2 3γ
                                           Utot =          +               Vf                 (A3-8)
-                                                      50   R
+                                                      5 0   R
 
      Equilibrium is reached when the total energy is a minimum; since U → ∞ at both R → 0
      and R → ∞, it must have an interior minimum.
                                                                           !
                                           d           2Rρ2  3γ
                                             Utot =         − 2                Vf             (A3-9)
-                                         dR            50  R
+                                         dR            5 0  R
 
      Setting this equal to zero,
                                                    2Rρ2    3γ
                                                         = 2                                 (A3-10)
-                                                    50   R
-                                                        15γ0
+                                                    5 0   R
+                                                        15γ 0
                                                    R3 =                                     (A3-11)
                                                          2ρ2
-                                                                 1
-                                                         15γ0
-                                                     
+                                                                  1
+                                                         15γ 0
+
                                                                   3
                                                R=                                           (A3-12)
                                                           2ρ2
@@ -182,7 +186,9 @@ Question 4
 
 
                   Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                    4
+
+
+2007 Semifinal Exam Solutions                                                                    4
 
 
   c. The current is given by I = ∆Q/∆t. The total number of balls is N = n0 A, where A is the
@@ -192,7 +198,7 @@ Question 4
                                                ∆t    2md2 /qV
 
      We can’t stop here, since this is not in terms of the allowed variables. The problem is A and
-     d, but since C = 0 A/d, we have
+     d, but since C =  0 A/d, we have
 
                                                              n0 qA
                                            I =          p            ,                       (A4-3)
@@ -204,21 +210,21 @@ Question 4
                                                                   s
                                                         C             qV
                                                =           n0 q          .                   (A4-5)
-                                                        0            2m
+                                                         0            2m
 
   d. R = V /I, so                                                  s
-                                             V   0 V                   2m
+                                             V    0 V                   2m
                                           R=   =                           .                 (A4-6)
                                              I   Cn0 q                  qV
      We can simplify, slightly, with                          s
-                                                0                2mV
+                                                 0                2mV
                                             R=                        .                      (A4-7)
                                                Cn0 q               q
 
   e. P = V I, so                                   s           s
-                                         C             qV          0 2 n0 2 C 2 q 3 V 3
+                                         C             qV           0 2 n0 2 C 2 q 3 V 3
                                 P =V        n0 q          =                              .   (A4-8)
-                                         0            2m                  2m
+                                          0            2m                  2m
 
 Part B
 Question 1
@@ -241,7 +247,9 @@ Question 1
 
 
                     Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                     5
+
+
+2007 Semifinal Exam Solutions                                                                     5
 
 
      The energy loss on the way up is
@@ -298,7 +306,9 @@ Question 1
      from B (because the equilibrium shifts up by (mg sin θ)/k. For the following trip up, the
 
                   Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                  6
+
+
+2007 Semifinal Exam Solutions                                                                  6
 
 
      plate stops a distance L − (2mg sin θ)/k from B, since the equilibrium point is again in the
@@ -313,7 +323,7 @@ Question 1
      the midpoint at the end of the down trip, the second condition corresponds to going up and
      stopping below the upper equilibrium.) The second condition can be rewritten as
                                                 1
-                                                
+
                                            n+     (2mg sin θ)/k > L/2.                   (B1-19)
                                                 2
 
@@ -322,7 +332,7 @@ Question 2
           i. From Coulomb’s Law,
                                                                e2
                                                       F =                                 (B2-1)
-                                                             4π0 R2
+                                                             4π 0 R2
        ii. For circular motion,
                                                 me v 2
                                                 F =    = me Rω02 ,                        (B2-2)
@@ -330,11 +340,11 @@ Question 2
             The force is provided by the Coulomb force, so
                                                                   e2
                                             me Rω02 =                   ,                 (B2-3)
-                                                                4π0 R2
+                                                                4π 0 R2
                                                                 s
                                                                         e2
                                                      ω0 =                                 (B2-4)
-                                                                    4π0 me R3
+                                                                    4π 0 me R3
       iii. From the law of Biot and Savart,
                                                       µ0 i d~s × ~r
                                                             I
@@ -357,7 +367,9 @@ Question 2
                                                               4πz 3
 
                     Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                                 7
+
+
+2007 Semifinal Exam Solutions                                                                 7
 
 
       iv. By substitution,
@@ -375,7 +387,7 @@ Question 2
 
                                                     e2
                                       me Rω 2 =           ± eRω0 B0 ,                   (B2-12)
-                                                  4π0 R2
+                                                  4π 0 R2
           where the positive sign corresponds to anticlockwise motion, the negative to clockwise
           motion.
           A little math,
@@ -404,14 +416,14 @@ Question 2
                                            2π           2
       iv. The change in kinetic energy is given by
                                                     1
-                                                                    
+
                                        ∆K = ∆         me ω 2 R 2 ,                      (B2-20)
                                                     2
                                               = me R2 ω ∆ω,                             (B2-21)
                                                          2
                                               ≈ me R ω0 ∆ω,                             (B2-22)
                                                             eB0
-                                                               
+
                                                         2
                                               = me ω 0 R ±        ,                     (B2-23)
                                                             2me
@@ -419,13 +431,15 @@ Question 2
 
 
                   Copyright c 2007 American Association of Physics Teachers
-2007 Semifinal Exam Solutions                                                          8
+
+
+2007 Semifinal Exam Solutions                                                          8
 
 
        v. ∆M = N δm, where N is the number of atoms, and ∆m the change in magnetic moment
           in each. The change is
                                                  eω0 R
-                                                           
+
                                         ∆m = ∆          .                         (B2-25)
                                                     2
                                              eR

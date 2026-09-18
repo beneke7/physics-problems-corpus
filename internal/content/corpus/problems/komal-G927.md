@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-When a person wearing glasses enters a warm room from the cold in winter, the glasses usually fog up. However, if the glasses are wiped immediately, they usually do not fog up again. Explain this phenomenon! 
+When a person wearing glasses enters a warm room from the cold in winter, the glasses usually fog up. However, if the glasses are wiped immediately, they usually do not fog up again. Explain this phenomenon!
  (4 pont)

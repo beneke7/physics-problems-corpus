@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-The average consumption of a car is 6 litres/100 km. On a completely empty, winding two-lane road the car can travel 300 km. The total length of the curves on this road segment is 50 km, the radius of the curves is on average 1 km and the width of the lanes is 4 m. Estimate the reduction in fuel consumption if a careless driver makes every turn on the inside curve. 
+The average consumption of a car is 6 litres/100 km. On a completely empty, winding two-lane road the car can travel 300 km. The total length of the curves on this road segment is 50 km, the radius of the curves is on average 1 km and the width of the lanes is 4 m. Estimate the reduction in fuel consumption if a careless driver makes every turn on the inside curve.
  (3 pont)

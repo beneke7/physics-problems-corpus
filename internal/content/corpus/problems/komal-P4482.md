@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201211"
 verification_status: pending
 ---
 
-Why are the dark lines in an absorption spectrum not exactly black? 
+Why are the dark lines in an absorption spectrum not exactly black?
  (4 pont)

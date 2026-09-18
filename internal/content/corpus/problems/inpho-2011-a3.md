@@ -29,7 +29,7 @@ $$
 [3+4+1=8]
 $$
 
-![](inpho-2011-a3-fig01.png)
+![](../../figures/inpho/figures/inpho-2011-a3-fig01.png)
 Figure 2:
 
 

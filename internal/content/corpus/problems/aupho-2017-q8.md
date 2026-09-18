@@ -25,7 +25,7 @@ techniques: []
 
 Question 8
 A block of mass 5 kg lies at rest on a horizontal surface. An upwards force of 20 N is applied to the block, as shown. Assuming $g=10 \mathrm{~m} \mathrm{~s}^{-2}$, what is the weight of the block?
-![](aupho-2017-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2017-q8-fig01.png)
 
 a. 3 kg
 b. 5 kg

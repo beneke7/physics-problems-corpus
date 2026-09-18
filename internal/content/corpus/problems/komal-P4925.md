@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-Using the uncertainty principle estimate from below the energy of an electron enclosed into a sphere of diameter $10^{-11}$ m. 
+Using the uncertainty principle estimate from below the energy of an electron enclosed into a sphere of diameter $10^{-11}$ m.
  (4 pont)

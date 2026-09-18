@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4348. Néhányszor tíz méter széles, sima víztükör túlpartján álló fa jól eltakarja a mögötte álló házat, csak a kémény teteje látszik ki. Ugyanakkor a vízre tekintve a tükörképen a fa teljesen eltakarja a házat, még a kémény teteje sem látszik. 
+P. 4348. Néhányszor tíz méter széles, sima víztükör túlpartján álló fa jól eltakarja a mögötte álló házat, csak a kémény teteje látszik ki. Ugyanakkor a vízre tekintve a tükörképen a fa teljesen eltakarja a házat, még a kémény teteje sem látszik.
  Hogy lehet ez?

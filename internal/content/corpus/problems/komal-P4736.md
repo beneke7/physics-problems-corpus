@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201505"
 verification_status: pending
 ---
 
-A ship travels along the river from one bridge to another, and when it reaches the second bridge it turns back immediately. By what factor is the time of the round trip on the river greater than that of in still water? 
+A ship travels along the river from one bridge to another, and when it reaches the second bridge it turns back immediately. By what factor is the time of the round trip on the river greater than that of in still water?
  (3 pont)

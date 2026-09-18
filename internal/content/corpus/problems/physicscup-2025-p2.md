@@ -22,6 +22,6 @@ verification_status: unverified
 ---
 By Kaarel Hänni.
 
-Initially, four birds, labeled $A$, $B$, $C$, and $D$, are positioned at the vertices of a regular tetrahedron with side length $a$. At time $t=0$, all birds begin flying. For all $t>0$, each bird flies directly toward another bird in the following pattern: $A$ flies toward $B$, $B$ flies toward $C$, $C$ flies toward $D$, and $D$ flies toward $A$. For any $t>0$, the speeds of all the birds are equal. 
+Initially, four birds, labeled $A$, $B$, $C$, and $D$, are positioned at the vertices of a regular tetrahedron with side length $a$. At time $t=0$, all birds begin flying. For all $t>0$, each bird flies directly toward another bird in the following pattern: $A$ flies toward $B$, $B$ flies toward $C$, $C$ flies toward $D$, and $D$ flies toward $A$. For any $t>0$, the speeds of all the birds are equal.
 
 Calculate the total distance traveled by bird $A$ from the start until all birds meet at a single point.

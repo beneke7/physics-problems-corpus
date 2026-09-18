@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: pending
 ---
 
-A uniform rod of mass m =0.5 kg and of length =80 cm is hanged with two threads. What will the acceleration of point  A and the tension in the left thread be right after cutting the thread on the right? 
+A uniform rod of mass m =0.5 kg and of length =80 cm is hanged with two threads. What will the acceleration of point  A and the tension in the left thread be right after cutting the thread on the right?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4177-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4177-fig1.gif)

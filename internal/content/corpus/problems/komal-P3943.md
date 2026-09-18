@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-John showed his friends that with his glasses he can collect the Sun's rays and light a piece of paper. When the Sun is shining why don't his glasses burn the skin near his eyes? 
+John showed his friends that with his glasses he can collect the Sun's rays and light a piece of paper. When the Sun is shining why don't his glasses burn the skin near his eyes?
  (3 pont)

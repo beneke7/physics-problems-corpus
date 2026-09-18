@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-In many playgrounds you will find a rotating climbing frame similar to the one in the figure . On such a climbing frame, an ant climbs up while the frame is rotating uniformly. The upward climbing ant constantly feels that it is climbing ``vertically upwards''. 
+In many playgrounds you will find a rotating climbing frame similar to the one in the figure . On such a climbing frame, an ant climbs up while the frame is rotating uniformly. The upward climbing ant constantly feels that it is climbing ``vertically upwards''.
 
- The radius of the lower red circular ring that hold the ropes of the climbing frame is $2~\text{m}$, whilst the upper red ring has a radius of $1~\text{m}$. The distance between the rings is $3~\text{m}$. What is the angular speed of the climbing frame? 
+ The radius of the lower red circular ring that hold the ropes of the climbing frame is $2~\text{m}$, whilst the upper red ring has a radius of $1~\text{m}$. The distance between the rings is $3~\text{m}$. What is the angular speed of the climbing frame?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5538-fig1.png)
+![figure](../../figures/komal/figures/komal-P5538-fig1.png)

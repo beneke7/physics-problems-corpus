@@ -22,7 +22,7 @@ verification_status: pending
 
 **i)** *(2 pont)* Az alábbi fotó egy önanamorph rajzot mutat - egy piros szív zöld háttéren. A piros szív tükörképe a kúpos tükörben egy redukált zöld szív. Mekkora a kúpos tükör csúcsszöge? A fénykép készítésekor a piros szív átmérőjénél sokkal nagyobb távolságra voltál. Méréseket végezve a fotóból.
 
-![figure](../../sources/nbpho/figures/nbpho-2024-cones-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2024-cones-fig1.jpg)
 
 Fotó Erik Mahieu-tól, lásd: https://community.wolfram.com/groups/-/m/t/2027565.
 

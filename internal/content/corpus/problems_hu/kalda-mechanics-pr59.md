@@ -20,4 +20,4 @@ verification_status: pending
 
 Képeket és hasonló tárgyakat néha egy olyan szerkezettel akasztanak a falra, amelynek modelljét az alábbiakban adjuk meg. Egy rögzített függőleges felülethez egy mozdíthatatlan ferde sík támaszkodik; a felület és a sík által bezárt szög $\alpha$. A felület és a sík között rés van, amelybe vékony lemez illeszthető. A lemezt szorosan a függőleges felülethez szorítjuk; a lemez és a függőleges felület közötti súrlódási együttható nullának tekinthető. A lemez és a sík közötti térben egy $m$ tömegű henger szabadon mozoghat; tengelye vízszintes és minden vizsgált felülettel párhuzamos. A henger a lemezen és a síkon nyugszik, az ezeken a felületeken fellépő súrlódási együttható rendre $\mu_{1}$ és $\mu_{2}$. Milyen súrlódási együtthatók mellett biztos, hogy a lemez nem esik le, függetlenül a tömegétől?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr59-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr59-fig1.jpg)

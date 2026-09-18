@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202009"
 verification_status: flagged
 ---
 
-By measuring the temperature of a smoked metal plate (which was smoked with the flames of a candle) determine the amount of energy absorbed by a unit area surface perpendicular to the radiation emitted by the Sun in a unit of time. (Take the specific heat capacity of the metal from a table.) 
+By measuring the temperature of a smoked metal plate (which was smoked with the flames of a candle) determine the amount of energy absorbed by a unit area surface perpendicular to the radiation emitted by the Sun in a unit of time. (Take the specific heat capacity of the metal from a table.)
  (6 pont)

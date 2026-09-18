@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-Can the energy of a charged condenser be increased without giving more charge to it? 
+Can the energy of a charged condenser be increased without giving more charge to it?
  (3 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-On a horizontal, frictionless surface, a cube of edge $d=10~\textrm{cm}$ and of uniform mass distribution, is sliding at a velocity of $v_0$. At some point the cube reaches a slope of an angle of inclination of $\alpha=30^\circ$. The ``fault line'' between the slope and the ground is perpendicular to the direction of travel of the cube. The front edge of the cube which is in contact with the ground gets stuck at the fault line totally inelastically, so that the cube topples. What is the least value of $v_0$ if the front face of the cube ``tips'' onto the slope? 
+On a horizontal, frictionless surface, a cube of edge $d=10~\textrm{cm}$ and of uniform mass distribution, is sliding at a velocity of $v_0$. At some point the cube reaches a slope of an angle of inclination of $\alpha=30^\circ$. The ``fault line'' between the slope and the ground is perpendicular to the direction of travel of the cube. The front edge of the cube which is in contact with the ground gets stuck at the fault line totally inelastically, so that the cube topples. What is the least value of $v_0$ if the front face of the cube ``tips'' onto the slope?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5528-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5528-fig1.gif)

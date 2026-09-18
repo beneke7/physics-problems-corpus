@@ -31,6 +31,6 @@ A4. A nonlinear circuit element can be made out of a parallel plate capacitor an
 (5) d. Derive an expression for the effective resistance of the device in terms of $\varepsilon_{0}$, and any or all of the following variables: $m, q, n_{0}, C$, and $V$.
 (5) e. Calculate the rate at which the kinetic energy of the balls is converted into thermal energy in terms of $\varepsilon_{0}$, and any or all of the following variables: $m, q, n_{0}, C$, and $V$.
 
-![](usapho-2007-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2007-a4-fig01.png)
 
 ## Semi-Final Exam Part B

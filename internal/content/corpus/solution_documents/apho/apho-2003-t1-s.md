@@ -72,7 +72,8 @@ f) (3 points) combining equations (1) and (2) :
                     dt 2           3    η                  2    η 
                                  R1 1 +                R1 1 + 
                                         R1                      R1 
-           d2      GM       η      GM       η 
+
+           d2      GM       η      GM       η 
               2
                 η − 2 1 − 3  ≈ −     1 − 2 
                                        2 

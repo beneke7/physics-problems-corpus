@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-Given eight 600  resistors, how should they be connected if the equivalent resistance is 750  ? 
+Given eight 600  resistors, how should they be connected if the equivalent resistance is 750  ?
  (3 pont)

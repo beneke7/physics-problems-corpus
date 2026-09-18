@@ -120,10 +120,10 @@ higher terms using binomial coefficients,
 =
 ∞ X
 m=0
-
+
 n
 m
-
+
 xm
 where the definition of the binomial coefficient is formally extended to arbitrary real n.
 The binomial theorem is one of the most common approximations in physics. It’s really just taking

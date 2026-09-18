@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The lengths of the semi-major axis of two satellites orbiting around the Earth are the same. The ratio of the speeds of the two satellites when they are at perigee (the point at which the satellite is the closest to the Earth) is $\tfrac32$, and the eccentricity of the orbit of that satellite which is faster at this point is 0.5. 
- Determine the ratio of the speeds of the satellites when they are at apogee (at the furthest point from the Earth), and the eccentricity of the path of the other satellite. 
+The lengths of the semi-major axis of two satellites orbiting around the Earth are the same. The ratio of the speeds of the two satellites when they are at perigee (the point at which the satellite is the closest to the Earth) is $\tfrac32$, and the eccentricity of the orbit of that satellite which is faster at this point is 0.5.
+ Determine the ratio of the speeds of the satellites when they are at apogee (at the furthest point from the Earth), and the eccentricity of the path of the other satellite.
  (6 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Two identical voltmeters and two ammeters are connected to a battery as shown in figure. The readings of the devices is as follows: ammeter $A_{1}-I_{1}=200 \mu \mathrm{~A}$, voltmeter $V_{1}=100 \mathrm{~V}$, and voltmeter $V_{2}=2 \mathrm{~V}$. What is the reading of ammeter $A_{2}$ ? Estimate, how realistic are those internal resistances which can be determined from these data; if there is something strange, is it possible to "fix" the problem by changing the circuit so that the solution would remain intact?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr6-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr6-fig1.jpg)

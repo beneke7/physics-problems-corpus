@@ -37,10 +37,10 @@ $$
 
 b. In a hypothetical modern day experiment, electrons are accelerated from rest through a potential $V$ into a cloud of cold atomic hydrogen (Figure 1-1). A series of plates with aligned holes select a beam of scattered electrons moving perpendicular to the plates. Immediately beyond the final plate, the electrons enter a uniform magnetic field $B$ perpendicular to the beam; they curve and strike a piece of film mounted on the final plate.
 
-![](usapho-2004-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2004-b1-fig01.png)
 Figure 1-1
 
-![](usapho-2004-b1-fig02.png)
+![](../../figures/usapho/figures/usapho-2004-b1-fig02.png)
 Figure 1-2
 
 When the film is developed, a series of spots is observed (Figure 1-2). The distances between the hole and the two most distant spots are measured. You may assume that the film is large enough to have intercepted all of the electrons, i.e. that there are no spots farther from the hole than those shown. The number of spots shown is not necessarily accurate.

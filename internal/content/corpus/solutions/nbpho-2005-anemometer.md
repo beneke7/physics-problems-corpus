@@ -15,15 +15,15 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2005_
 5. Anemometer
 1) First we need to find the angle after the refraction β: For small inci-
 dence angles we find approximately β = α/n. In the liquid, the wa-
-velength is decreased n times: λ
+velength is decreased n times: λ
 = λ/n. The requested wavelength
 canbefoundasthe distancebetweenthelines connecting theintersec-
 tionpointsoftheequal phaselinesofthetwobeams. Alternatively(and
 in a simpler way), it is found as the diﬀerence of the two wavevectors:
-k
-= kβ, where k = 2π/λ
+k
+= kβ, where k = 2π/λ
 = 2πn/λ is the wavevectorof the incident
-beams. So, ∆ = 2π/k
+beams. So, ∆ = 2π/k
 = λ/α ≈ 7,4µm.
 2) The scattered light fluctuates due to the motion of the scattering
 particles; the frequency is ν = v/∆ = vα/λ. There is no way to de-
@@ -39,13 +39,13 @@ of the interference pattern u = ∆δω = c
 λ
 . If the fluid speed is
 v ≈ 0.37m/s, then the relative speed of the pattern and the fluid is
-ν
+ν
 = c
 α
 δλ
 λ
 ± v, depending on the direction of the flow (in both cases,
-ν
+ν
 ≈ 740kHz). So, the output frequency allows us to determine the
 flow direction as long as we can be sure that the interference pattern
 velocity is larger than the flow velocity.

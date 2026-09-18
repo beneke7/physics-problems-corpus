@@ -196,18 +196,18 @@ Megjegyzések. 1. A síkban azoknak a pontoknak a mértani helye, melyek két ad
 aránya állandó, az ún. Apollóniosz-kör. Eredményeinket úgy is megfogalmazhatjuk, hogy a vizsgált mágneses térben
 az induk ióvonalak Apollóniosz-körök.
 Bevezetve az r2/r1 = λ jelölést, e körök egyenlete
-
+
 x −
 d
 1 − λ2
-2
+ 2
 + y2
 =
-
+
 λ
 d
 1 − λ2
-2
+ 2
 ,
 amib®l többek között az R = λx0 érdekes összefüggés is leolvasható. (Apollóniosz id®számításunk kezdete el®tt 262-t®l
 190-ig élt; a kúpszeletekr®l írt munkájában ® vezette be az ellipszis, parabola és hiperbola kifejezéseket.)

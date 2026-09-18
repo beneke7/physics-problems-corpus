@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-In the morning rush hour a car travels at half of the urban speed limit for half an hour (the urban speed limit in Hungary is 50 km/h), then reaching the motorway it travels at three quarters of the speed limit on the motorway for 4 hours (speed limit on motorways: 130 km/h). Finally it travels for two hours on a single carriageway at 80% of the speed limit there (the speed limit on a single carriageway is 90 km/h). What is the average speed of the car? 
+In the morning rush hour a car travels at half of the urban speed limit for half an hour (the urban speed limit in Hungary is 50 km/h), then reaching the motorway it travels at three quarters of the speed limit on the motorway for 4 hours (speed limit on motorways: 130 km/h). Finally it travels for two hours on a single carriageway at 80% of the speed limit there (the speed limit on a single carriageway is 90 km/h). What is the average speed of the car?
  (3 pont)

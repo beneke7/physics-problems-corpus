@@ -75,7 +75,9 @@ second segment close to the lower end of the board, so that If less than 6 time 
 lt = 60 mm. Then the data will be as follows                    number of measurements is less than 3; each next plausible
                                                                 time value earns a partial credit.                     (0.1 pts)
                                                                — page 1 of 8 —
-At least 6 speed values are correctly calculated;        (0.2 pts) following law:
+
+
+At least 6 speed values are correctly calculated;        (0.2 pts) following law:
 If less than 6 time values are taken, no credit is given if the                                F = kv + F0 ,
 number of measurements is less than 2; each next pair of cor- where k = 390 g/s and F0 = 16.6 mN. Grading: At least 5
 rectly calculated speed value earns a partial credit. (0.1 pts) correct data points in table for α ≤ α1                     (0.6 pts)
@@ -142,13 +144,17 @@ rolling, the friction force is maximal.
 Based on these data, we build a graph, see next page. As Correct numerical calculation.                               (0.2 pts)
 one can see, the data lie on a line, which is described by the
                                                           — page 2 of 8 —
-Graph: Fm versus v
+
+
+Graph: Fm versus v
 
 
 
 
                      — page 3 of 8 —
-Problem E2. Tungsten Filament (13 points)                                  resistance is directly measured, no more than 0.5 points overall:
+
+
+Problem E2. Tungsten Filament (13 points)                                  resistance is directly measured, no more than 0.5 points overall:
 Part A. Filament diameter (1.5 points)                                     0.3 pts for the answer if it is within 0.8 ± 0.4 Ω, and 0.2 pts for
 The sketch the measurement setup:                                          the uncertainty if it is stated as either 0.5 Ω or 0.6 Ω.
     Screen as far as possible                                              Thus, we need to pass a current through the bulb and measure
@@ -226,7 +232,9 @@ is too small for that. There are two issues: first, the multimeter
 is not accurate enough ±0.5% + 0.5Ω; second, the internal res- ±2 mm                                                               (0.1 pts)
 istance can be in the same order of magnitude. If the filament’s
                                                                   — page 4 of 8 —
-Part C. Current–voltage curve (2.5 points)                          Partial credit if 2 measurements                       (0.05 pts)
+
+
+Part C. Current–voltage curve (2.5 points)                          Partial credit if 2 measurements                       (0.05 pts)
 Now we connect the bulb to the battery via rheostat as a po-
 tentiometer, i.e. according to the diagram below. Only that         Formula for filament temperature expressed in terms of the
 way will we be able to cover the whole range of voltages from       current Ilast and voltage Ulast at which the tungsten filament
@@ -296,7 +304,9 @@ Partial credit if 2 measurements                 (0.05 pts)
 At least 4 correct measurements above 5 V              (0.2 pts) The full credit (0.6 pts) for the table breaks down as follows:
 Partial credit if 3 measurements                       (0.1 pts) At least 4 correct data points below 1000 K.         (0.2 pts)
                                                            — page 5 of 8 —
-Partial credit if 3 data points                        (0.1 pts)
+
+
+Partial credit if 3 data points                        (0.1 pts)
 Partial credit if 2 data points                      (0.05 pts) Part E. Specific heat capacity of tungsten (3.5 points)
 (Final score for this task is rounded up to a single decimal
 digit.)                                                               We can measure how much energy it took to break the
@@ -358,7 +368,9 @@ assumption that heat is transferred mainly by radiation fails      We can estima
 and we can’t neglect heat transfer by convection and conduc-       bulb to the capacitor, the initial current is the largest, but it
 tion.                                                  (0.5 pts)   drops very fast as the filament heats up and its resistance grows.
                                                         — page 6 of 8 —
-That means most of the time is spent so that the filament is                                                     (0.3 pts)
+
+
+That means most of the time is spent so that the filament is                                                     (0.3 pts)
 hot and has high resistance. Because the voltage drop on the Any reasonable estimation slightly departing from what is given
 capacitor was small we can estimate discharge time from      above gives full credit. Power radiated away during that time
                                                              is estimated as Qr ∼ tUlast Ilast .                 (0.3 pts)
@@ -371,4 +383,6 @@ capacitor was small we can estimate discharge time from      above gives full cr
 
 
                                                       — page 7 of 8 —
-— page 8 of 8 —
+
+
+— page 8 of 8 —

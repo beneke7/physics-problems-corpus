@@ -81,15 +81,15 @@ ahonnan
 1
 2
 mat2
-
+
 a −
 2
 π
 g
-
+
 = 0.
 Mivel mat2
-= 0, a keresett gyorsulás:
+ = 0, a keresett gyorsulás:
 a =
 2
 π
@@ -178,11 +178,11 @@ Kelőre − Khátra + Δmg sinϕ = Δma = Δmg
 ,
 vagyis
 Kelőre = Khátra + Δm · g
-
+
 2
 π
 − sinϕ
-
+
 .
 Látható, hogy a lánc felső végétől (ϕ = 0 helytől) elindulva mindaddig, amı́g
 sinϕ <
@@ -236,21 +236,21 @@ sin(1
 ϕ0
 R,
 és a tömegközéppont távolsága az O ponton átmenő függőleges egyenestől
-0 = s0 sin
-
+ 0 = s0 sin
+
 1
 2
 ϕ0
-
+
 .
 A forgómozgás alapegyenlete szerint
-KmaxR + m0g0 = Θ0
+KmaxR + m0g 0 = Θ0
 a
 R
 ,
 ahonnan a fentebb kiszámı́tott értékek behelyettesı́tése után kapjuk, hogy
 Kmax = mg
-
+
 4
 π2
 ϕ0 −
@@ -258,7 +258,7 @@ Kmax = mg
 π
 sin2 ϕ0
 2
-
+
 ≈ 0,13mg.
 Ugyanezt az eredményt megkaphatjuk a munkatételből is, ha felı́rjuk, hogy
 egy nagyon rövid időtartam alatt a nehézségi erő munkájának és a K kényszererő
@@ -266,7 +266,7 @@ munkájának összege a kezdetben álló láncdarab mozgási energiája�
 A láncot feszı́tő erőt a fentiek mintájára tetszőleges pontban (tetszőleges
 ϕ szögre) kiszámı́thatjuk:
 K(ϕ) = mg
-
+
 4
 π2
 ϕ −
@@ -274,7 +274,7 @@ K(ϕ) = mg
 π
 sin2 ϕ
 2
-
+
 ,
 és ábrázolhatjuk is (5. ábra).
 5. ábra
@@ -377,7 +377,7 @@ a munkatételből kaphatjuk meg:
 mv∗2
 −→ v∗
 =
-
+
 2eU
 m
 ,
@@ -405,7 +405,7 @@ a nagyobb térrészbe (7. ábra), ezért az átjutó io-
 nok számát a sebesség szerinti integrálként a kö-
 vetkezőképp fejezhetjük ki:
 ΔN1 =
-∞ 
+∞
 v∗
 n1f(vx) · AvxΔtdvx.
 110 Középiskolai Matematikai és Fizikai Lapok, 2023/2
@@ -424,14 +424,14 @@ j1 =
 ΔN1
 AΔt
 = n1
-∞ 
+∞
 v∗
 f(vx)vx dvx.
 Teljesen hasonlóan számolhatjuk ki a nagyobb térrészből a kisebbe átlépő részecs-
 kék áramsűrűségét, azzal a különbséggel, hogy ilyen irányban minden olyan részecs-
 ke átjut a fémhálón, amelynek x irányú sebességkomponense negatı́v:
 j2 = n2
-0 
+0
 −∞
 f(vx)vx dvx.
 Látható, hogy j2 negatı́v, hiszen a negatı́v x tengely irányába történő részecske-
@@ -441,13 +441,13 @@ j1 + j2 = 0.
 8. ábra
 Felhasználva f(vx) korábban felı́rt alakját:
 n1
-∞ 
+∞
 v∗
 Ce−
 mv2
 x
 2kT vx dvx + n2
-0 
+0
 −∞
 Ce−
 mv2
@@ -463,12 +463,12 @@ vx dvx,
 ı́gy a fenti egyenlet egyszerűsı́tések és az integrálási határok megváltoztatása után
 ı́gy ı́rható:
 n1
-∞ 
+∞
 eU
 kT
 e−w
 dw + n2
-0 
+0
 ∞
 e−w
 dw = 0.
@@ -501,10 +501,10 @@ U =
 kT
 e
 ln
-
+
 n1
 n2
-
+
 =
 kT
 e

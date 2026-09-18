@@ -50,7 +50,9 @@ Consider two conducting spheres of radius r separated by a distance a ≫ r, wit
 
 
                                                       12
-Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                Physics Olympiad Handouts
 
 
     Solution

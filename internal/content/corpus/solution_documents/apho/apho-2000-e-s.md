@@ -44,7 +44,8 @@ READ THIS FIRST :
 
 
                       This set of problems consists of …. pages
-Solution to Problem 1
+
+Solution to Problem 1
 Determination of the density of oil
 
 Experimental Configuration
@@ -65,7 +66,8 @@ In order to apply the law accurately to the experiment, one needs to express the
 volume occupied by the liquid inside the tube, and the volume of water displaced outside
 the tube. For that purpose, more detailed annotation must be introduced on the
 dimensional features of the test tube as shown in Figure 2.
-                           Figure 2: Specification of test tube.
+
+                           Figure 2: Specification of test tube.
 
 Theoretical formulation
 
@@ -85,7 +87,8 @@ rc = density of the liquid inside the tube
    = ρw for water
    = ρo for oil
 M = mass of the empty test tube
-At equilibrium, the buoyancy or the Archimedes force FA is equal to the total weight W
+
+At equilibrium, the buoyancy or the Archimedes force FA is equal to the total weight W
 of the test tube including the liquid inside it. Referring to Figure 1 and 2 as well as the
 Notations listed above, we are led to the following expressions:
 
@@ -117,7 +120,8 @@ where
 Since the coefficient D does not depend on the zero point of lz and lc, the reference point
 A in this experiment can be chosen at some convenient point on the tube within its length
 of uniform cross-section as implied by the above formulation.
-                                   Measurements
+
+                                   Measurements
 
 In the first part of the experiment, water is used as the liquid filling the test tube to
 various levels corresponding to different sets of values for the pair lz and lc. Plotting lz as
@@ -161,7 +165,8 @@ bottom                (cm)
 1.4                   5.2       12.9
 1.3                   5.3       13.0
 1.0                   5.7       13.3
-The value of D1 determined from the slope of the plot in Figure 3 is
+
+The value of D1 determined from the slope of the plot in Figure 3 is
                                       D1 = 0.8091
 
 
@@ -179,7 +184,8 @@ bottom
 1.0            6.8             13.3
 0.8            7.2             13.5
 _
-The value of D2 determined from the slope of the plot in Figure 4 is
+
+The value of D2 determined from the slope of the plot in Figure 4 is
 
                                      D2 = 0.6865
 
@@ -187,7 +193,8 @@ The final result for ρ0& ∆ρ0 are
 
                                       ρ 0 = 0.8484
                                       ∆ρ 0 = 0.04%
-Remarks
+
+Remarks
        1. For typical test tube, the ratio Sc/Sz is about 0.8 instead of 1.
 
        2. All water and liquid surface positions to be measured must lie within the
@@ -232,7 +239,8 @@ Experimental Part
         within 5% of the real value ρ0 0.84 g/cm3             (3.0 p)
         between 5% and 10% of the real value                  (2.0 p)
 7. Estimation of uncertainties or errors                                      (2.0 p)
-Solution to Problem 2
+
+Solution to Problem 2
 Determination of Stefan-Boltzmann constant
 
 Theoretical Consideration
@@ -285,7 +293,8 @@ _      Pn ( T )=power loss of the polished cylinder at T due to nonradiative pro
                                      P (T ) − P (T )
                                 σ= t 4 n4
                                       S (T − T0 )
-_
+
+_
 
 
 
@@ -370,7 +379,8 @@ _
 
 
        Again, eliminating k from the two equations above leads directly to the following
-       Expression
+
+       Expression
 
                                             (T2 − T0 ) − (T1 − T0 ) P2
                           σ=
@@ -422,7 +432,8 @@ temperature. The reading of V and I should be done at thermal equilibrium betwee
 cylinder and its surrounding, which will be reached in about 25-30 minutes. In order to
 avoid undesirable effects from the surrounding, the whole system should be kept at a
 distance from other objects in the laboratory.
-Results of measurement
+
+Results of measurement
 In a set of experiments performed at room temperature of 298.8 K, the results obtained
 are represented by the sample data given in Table 1.
 
@@ -452,7 +463,8 @@ While the last two methods are supposed to be less accurate than the first one, 
 always confirmed by the experimental results, as the control of experimental condition is
 not perfect. The major factors affecting the accuracies of the experimental results are
 enumerated and discussed as follows:
-1. The cylinder is not necessarily an ideal reflector when it surface is polished, nor is
+
+1. The cylinder is not necessarily an ideal reflector when it surface is polished, nor is
    it an ideal black body when its surface is blackened by the candle’s soot. In other
    words, the absorption coefficient is likely to be larger than 0 in the first case, and
    less than 1 for the second case. Both of these effects leads to lower value of s.
@@ -493,7 +505,8 @@ Method used            Data used         Experimental result                σex
 
 5. The influences of air convection in the surrounding of the cylinder due to motions
    of the experimentator and other objects are also possible sources of errors.
-Suggested Grading Scheme
+
+Suggested Grading Scheme
 
 Theoretical part
 

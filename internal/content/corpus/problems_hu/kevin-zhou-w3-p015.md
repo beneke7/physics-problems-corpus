@@ -57,7 +57,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
         latter equation, then only reflection occurs.
 
                                                        8
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
        These results follow directly from Huygens’ principle, so they are very general, applying to
        light waves, sound waves, water waves, and so on, as long as the index of refraction ni is

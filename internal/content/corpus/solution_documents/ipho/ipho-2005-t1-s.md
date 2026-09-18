@@ -100,7 +100,9 @@ that is
 
 
                                                                                                                            Th 1 Solution Page 1 of 5
-                                               36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                               36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                                             R.S.E.F.
 
 
@@ -177,7 +179,9 @@ where a, the semi-major axis of the ellipse, is given by
 
 
                                                                                                                        Th 1 Solution Page 2 of 5
-                                             36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                             36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                                          R.S.E.F.
 
 
@@ -265,7 +269,9 @@ where its residual velocity is v ∞ (Figure 5), thus
 
 
                                                                                                                   Th 1 Solution Page 3 of 5
-                                     36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                     36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                         R.S.E.F.
 
 
@@ -291,7 +297,9 @@ This is the angle for which the equation denominator vanishes
 
 
                                                                                                     Th 1 Solution Page 4 of 5
-                                36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                              R.S.E.F.
 
 

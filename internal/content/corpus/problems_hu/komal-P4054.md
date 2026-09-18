@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4054. Fűtési idényben a lakóházak hagyományos ablakain gyakran megfigyelhető a párásodás. Egyik ablaknak a belső üvege, másiknak a külső üvege lesz párás, jégvirágos. 
- Mitől függ a párásodás mértéke és helye? 
+P. 4054. Fűtési idényben a lakóházak hagyományos ablakain gyakran megfigyelhető a párásodás. Egyik ablaknak a belső üvege, másiknak a külső üvege lesz párás, jégvirágos.
+ Mitől függ a párásodás mértéke és helye?
  Öveges József emlékverseny, Tata

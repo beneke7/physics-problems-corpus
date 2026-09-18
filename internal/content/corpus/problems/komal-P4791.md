@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, conservation-laws, limiting-and-special-cases]
 ---
 
-Recently Peter's boiler makes very strange sounds, as if it would explode at any moment. A repairman was asked to have a look, and he said that limescale has deposited in the tube, and it must be descaled. Peter's small brother asked Peter how the strange sound could arise, and why the thermometer, which measures the temperature of the water, is scaled up to $120~{}^\circ$C, since at that temperature the water would boil. What fraction of the tube is closed by the deposited scale? 
- What did Peter answer to these questions? 
- Data: The temperature of the water in the tube is $80~{}^\circ$C, the pressure gauge reads 1.2 bar (excess) pressure, and at normal working conditions the pump makes the water flow at a speed of 3 m/s. 
+Recently Peter's boiler makes very strange sounds, as if it would explode at any moment. A repairman was asked to have a look, and he said that limescale has deposited in the tube, and it must be descaled. Peter's small brother asked Peter how the strange sound could arise, and why the thermometer, which measures the temperature of the water, is scaled up to $120~{}^\circ$C, since at that temperature the water would boil. What fraction of the tube is closed by the deposited scale?
+ What did Peter answer to these questions?
+ Data: The temperature of the water in the tube is $80~{}^\circ$C, the pressure gauge reads 1.2 bar (excess) pressure, and at normal working conditions the pump makes the water flow at a speed of 3 m/s.
  (6 pont)

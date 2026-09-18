@@ -38,7 +38,7 @@ Next, she plotted a graph between $T^{2}$ and $l$ from the same data, and obtain
 | 100 | 2.02 | 967 |
 | Average $g$ |  | 947 |
 
-![](inpho-2022-a4-fig01.png)
+![](../../figures/inpho/figures/inpho-2022-a4-fig01.png)
 
 (a) [3 marks] What do you think might be the main cause for the consistently low values of $g$ that she obtained from each of her measurements?
 (b) [4 marks] Explain in detail why she still obtained a correct value of $g$ from the slope of the graph plotted from the same data.

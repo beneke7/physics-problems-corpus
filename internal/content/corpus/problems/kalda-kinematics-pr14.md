@@ -19,4 +19,4 @@ verification_status: pending
 
 A puck slides onto an icy inclined plane with inclination angle $\alpha$. The angle between the plane's edge and the puck's initial velocity $v_{0}=10 \mathrm{~m} / \mathrm{s}$ is $\beta=60^{\circ}$. The trace left by the puck on the plane is given in the figure (this is only a part of the trajectory). Find $\alpha$ under the assumption that friction can be neglected and that transition onto the slope was smooth.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr14-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr14-fig1.jpg)

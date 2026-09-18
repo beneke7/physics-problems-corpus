@@ -26,9 +26,9 @@ Find the capacitance of an unknown capacitor and estimate the experimental uncer
 
 **Remarks:** Below is provided a typical $V$-$I$ curve of an LED; during this experiment, the $V$-$I$ curve of the LED can be approximated with that of an ideal diode, cf. graph. The value of the opening voltage $U_{c}$ of the LED is not known. When there is a non-zero current through the LED, it emits light.
 
-![figure](../../sources/nbpho/figures/nbpho-2006-electric-experiment-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-electric-experiment-fig1.png)
 
-![figure](../../sources/nbpho/figures/nbpho-2006-electric-experiment-fig2.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-electric-experiment-fig2.png)
 
 If a capacitor of capacitance $C$ and a resistor of resistance $R$ are connected in series to an electromotive force $E$, then the capacitor's voltage will approach its asymptotic value exponentially: $U=E \pm U_{0} e^{-t / R C}$.
 

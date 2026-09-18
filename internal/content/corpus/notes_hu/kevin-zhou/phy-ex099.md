@@ -41,7 +41,6 @@ Először a ka ≪ 1 esetet tekintjük. A Bessel-függvények aszimptotikus alak
                                                          (ka)2ℓ+1
                                 sin(δℓ ) ≈ δℓ ≈ −                        .
                                                     (2ℓ − 1)!!(2ℓ + 1)!!
-267 12. Szórás
 
 Ez különösen azt jelenti, hogy a szórást az s-hullám dominálja:
                                                  4π
@@ -86,16 +85,15 @@ egy nagy gömbön
 
 teljesül. A J fluxus három tagra bomlik: a beeső hullámra (amely nulla fluxust ad), a szórt hullámra (amely vσ-t ad),
 és az interferenciatagra,
-               ℏ                                                                                
+               ℏ
                       ∗             ∗
         Jint = Im (ψscat ∇ψinc + ψinc ∇ψscat ) = vrRe f (θ, ϕ)∗ eik(x−r) x̂ + f (θ, ϕ)eik(r−x) r̂ .
                m
 Egy r sugarú gömbön integrálva azt kell kapnunk, hogy
-                               Z      Z                                          
+                                Z      Z
                                                   ikr(1−cos θ)
                       σ = r Re     dϕ sin θdθ e                f (θ, ϕ)(1 + cos θ)
 
 az r → ∞ határban. Ekkor a fázistényező gyorsan oszcillál, ezért a hozzájárulás csak a θ = 0, π végpontokból származik,
 mivel nincs stacionárius fázisú pont. A θ = π-hez tartozó járulék a (1 + cos θ) tényező miatt nulla, míg a θ = 0 csúcs
 adja a kívánt eredményt.
-268 12. Szórás

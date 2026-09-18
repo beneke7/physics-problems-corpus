@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201210"
 verification_status: pending
 ---
 
-The trolley pole of electric train engines - big current flows through them - often sparks. The same current flows through the wheels into the rails as well. Why doesn't the wheels spark? 
+The trolley pole of electric train engines - big current flows through them - often sparks. The same current flows through the wheels into the rails as well. Why doesn't the wheels spark?
  (3 pont)

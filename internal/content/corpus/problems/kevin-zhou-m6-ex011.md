@@ -58,7 +58,9 @@ Example 11
   with height. If you want to explore this in detail, see problems 10.12 and 10.13 of Morin.
 
                                                 19
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
        Incidentally, one of the earliest tests of Newtonian gravity was measurements of the Earth’s
        shape. In the 1730s, the French sent surveyors to modern Finland and Ecuador to measure

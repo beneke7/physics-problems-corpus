@@ -62,7 +62,9 @@ diagram, in isosceles triangle OPQ,
 
 
                          Figure 1.2
-                                                                            2
+
+
+                                                                            2
                                                     ^               ^            1
                                                O S T = OTS =                       (180 − φ )
                                                                                  2
@@ -116,7 +118,9 @@ Resultant phase is
                                 a 2 sin 2 Nβ
             Intensity I =
                                    sin 2 β
-                                                                 3
+
+
+                                                                 3
                              I
 
 
@@ -176,7 +180,9 @@ Substituting λ = 589.0nm, λ + ∆λ = 589.6 nm. n = 2 and d = 1.2 × 10 −6 m
        d 1−
                 d
 ⇒ ∆θ = 5.2 × 10 −3 rads or 0.30 0
-Answers Q2                                                                          4
+
+
+Answers Q2                                                                          4
          2.(i)
                                                 E               X
 
@@ -237,7 +243,9 @@ Substituting λ = 589.0nm, λ + ∆λ = 589.6 nm. n = 2 and d = 1.2 × 10 −6 m
 
              ^            ^
      θ = A O C + E O A ⇒ θ = (90 − r ) + (1 − α )                                             (1)
-                                                            5
+
+
+                                                            5
 (ii) Continued
 
 Snell’s Law gives:
@@ -300,7 +308,9 @@ i = 90°     gives     θ = 90.8°
 
 Substituting numerical values for i = 0 → 90° one finds a minimum value at i = 55°; the
 minimum values of 0, θMIN = 75•8°.
-                                                          6
+
+
+                                                          6
 
 
 Physical Consequence
@@ -355,7 +365,9 @@ However for 2 θ ≤ 114° the direct, non-refracted, seismic waves will reach t
          This result is less than 2 cos −1           = 2 cos −1        = 114 o
                                                R                  6370
          And consequently the seismic wave is not refracted through the core.
-                                                            7
+
+
+                                                            7
 
 (v)
 
@@ -403,7 +415,9 @@ Using (ii)
 
 Thus the subsequent time interval, produced by the reflection of seismic waves at the mantle core
 interface, is consistent with angular separation of 17.840.
-                                                                                       8
+
+
+                                                                                       8
 Answer Q3
       Equations of motion:
 
@@ -483,7 +497,9 @@ This gives
                                                          k                                            N
 ω s can have values from 0 to 2ω o = 2                     when N → ∞; corresponding to range s = 1 to .
                                                          m                                            2
-                                                             9
+
+
+                                                             9
 (iv) For s’th mode
 
                                                                      π
@@ -524,7 +540,9 @@ N odd
 
 
 N even
-                                                 10
+
+
+                                                 10
 
 
 (vi)    If m' << m, one can consider the frequency associated with m' as due to vibration of m'
@@ -541,7 +559,7 @@ The normal mode frequency of m', in this approximation, is given by
                                 m                                m
 
 
-                                          m' x = −2kx
+                                          m'  x  = −2kx
                                                   2k
                                           ω'2 =
                                                    m

@@ -25,6 +25,6 @@ What is the diameter of the lens which was used to make the photo below?
 
 Remark: although the photographic lenses are made of several optical components, for many practical calculations – including this problem – they can be considered as ideal thin lenses.
 
-![figure](../../sources/physicscup/figures/physicscup-2012-p0.jpg)
+![figure](../../../../../sources/physicscup/figures/physicscup-2012-p0.jpg)
 
 *Physics Cup, IPhO 2012 (Estonia), Problem 0, by Jaan Kalda. Transcribed faithfully from the born-digital WordPress source (Wayback snapshot); inline math recovered from the WP-LaTeX `alt` attributes.*

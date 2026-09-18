@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-An exactly 100-kg rocket, moving in space, ejects 100 g exhaust gas in each second. The exhaust leaves the nozzle at a speed of 1 km/s. What is the acceleration of the rocket? 
+An exactly 100-kg rocket, moving in space, ejects 100 g exhaust gas in each second. The exhaust leaves the nozzle at a speed of 1 km/s. What is the acceleration of the rocket?
  (3 pont)

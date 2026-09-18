@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, limiting-and-special-cases]
 ---
 
-A small (considered point-like) but heavy body is held by two ropes having the same length and approximately the same working load limit. The upper ends of the ropes are slowly moved apart along a horizontal line. When the angle between the ropes becomes $2\alpha$, one of the ropes breaks and the body begins to swing as a pendulum about the fixed end of the other rope. What could the value of $\alpha$ be if the other rope does not break during the motion? 
+A small (considered point-like) but heavy body is held by two ropes having the same length and approximately the same working load limit. The upper ends of the ropes are slowly moved apart along a horizontal line. When the angle between the ropes becomes $2\alpha$, one of the ropes breaks and the body begins to swing as a pendulum about the fixed end of the other rope. What could the value of $\alpha$ be if the other rope does not break during the motion?
  (5 pont)

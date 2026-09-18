@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201505"
 verification_status: pending
 ---
 
-A capacitor of capacitance $C$ is charged, and it stores $W$ electrical energy. Then another neutral capacitor is connected to it in parallel. What should the capacitance of the second condenser be in order that after the equilibrium is gained the energy of the second condenser is to be the greatest? 
- What will the total energy stored in the two condensers be in this case? 
+A capacitor of capacitance $C$ is charged, and it stores $W$ electrical energy. Then another neutral capacitor is connected to it in parallel. What should the capacitance of the second condenser be in order that after the equilibrium is gained the energy of the second condenser is to be the greatest?
+ What will the total energy stored in the two condensers be in this case?
  (4 pont)

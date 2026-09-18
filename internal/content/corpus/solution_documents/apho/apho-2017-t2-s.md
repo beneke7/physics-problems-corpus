@@ -15,7 +15,7 @@ Evolution of Supermassive Bla k Holes Binary
                                 Solution
                                   A. Dynami al Fri tion
 
-A1. The dee tion angle is dened from: tan α ≈ α = ppxy , assuming that α ≪ 1. One an nd
+A1. The de e tion angle is de ned from: tan α ≈ α = ppxy , assuming that α ≪ 1. One an  nd
 py = Fy dt, and a ording to Newton's gravity law
     R
 
@@ -59,7 +59,7 @@ We know that py ≪ p, so the SBH momentum hange along the x-axis ∆px = − 2p
                                                          b2 v 3
 
 
-A3.  To al ulate net for e we might integrate over stars with dierent impa t parameters. The
+A3.  To al ulate net for e we might integrate over stars with di erent impa t parameters. The
 number of stars' transits during the time ∆t equals ∆N = 2πbvn db ∆t, so for e, de elerating
 the obje t along the x-axis,
                                                            Z bmax
@@ -69,7 +69,8 @@ the obje t along the x-axis,
                                                                         = −4πG2 M 2 2 log Λ
                   ∆t                        v                bmin     b            v
                                                        1
-2
+
+2
 
 
                                                   Δb
@@ -119,7 +120,8 @@ express v0 . Write down the energy onservation law
                                         σ2  v 2 GM2
                                            = 0−
                                         2    2   rm
-                                                                                              3
+
+                                                                                              3
 
 and derive                                     r
                                                         2GM2
@@ -168,7 +170,7 @@ Average binary system energy loss rate equals
                                     dt   ∆t      2σ
 Taking the time derivative of (3), we have
                                              GM 2     GM 2 da
-                                                 
+
                                 dE   d
 (5)                                =       −        =         ,
                                 dt   dt       4a       4a2 dt
@@ -176,7 +178,8 @@ From (4) and (5) the orbit radius variation rate an be estimated as
                                          da    2πGρa2
 (6)                                         =−
                                          dt      σ
-4
+
+4
 
 B5.    Equation (6) an be easily integrated
                                            da    2πGρ
@@ -207,7 +210,7 @@ Combining (5) and (8) we get the desirable result:
 (10)            3
              a da = −     ·      dt     =⇒                =     ·     · TGW ;
                        5    c5                       4        5    c5
-And taking into a ount a2 ≫ rg we derive the nal result for TGW :
+And taking into a ount a2 ≫ rg we derive the  nal result for TGW :
                                                    5    a4 c5
 (11)                                      TGW =       · 32 3
                                                   1024 G M
@@ -227,7 +230,7 @@ D1.    The galaxy is spheri ally symmetri , so mass en losed within a sphere of 
 (13)                             m(r) =             2
                                           4πx ρ(x) dx =     .
                                         0                G
-Thus the free fall a eleration of the body equals in the gravitational eld of stars is
+Thus the free fall a eleration of the body equals in the gravitational  eld of stars is
                                              Gm(r)  σ2
 (14)                                  g(r) =       = .
                                               r2    r
@@ -237,11 +240,12 @@ Therefore the body velo ity is determined by relation
                                             r     r
 whi h means
 (15)                                              v=σ
-                                                                                             5
+
+                                                                                             5
 
 So the velo ity is onstant.
 
-D2.    The energy of SBH in this gravitational eld is
+D2.    The energy of SBH in this gravitational  eld is
                                               Mσ 2
                                            E=      +U
                                                2
@@ -249,7 +253,7 @@ So the kineti energy is onstant and
                                          dE   dU   dU da
                                             =    =
                                          dt   dt   da dt
-From the denition of potential energy we have
+From the de nition of potential energy we have
                                       dU           Mσ 2
                                          = g(a)M =
                                       da            a
@@ -293,7 +297,8 @@ so ombining equations (4) and (8):
                                  dE    πG2 M 2 ρ1 64 G4 M 5
 (17)                                =−           −   · 5 5
                                  dt      2σ        5   ca
-6
+
+6
 
 where
 ρ1 = ρ(a1 ) = ρ(10.8p ) = 6.3 × 103 Ms /pc3 ,       alternative: ρ1 = ρ(2.7p ) = 1.0 × 105 Ms /p 3

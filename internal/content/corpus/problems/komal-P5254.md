@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-One mole of air initially at standard conditions is compressed isothermally to half of its initial volume and then it is allowed to expand adiabatically to its original volume. 
- $a)$ What is the total work done on the gas during the process? 
- $b)$ How much heat is released by the gas? 
- $c)$ What is the change in the internal energy of the gas? 
- $d)$ What is the final temperature of the gas? 
+One mole of air initially at standard conditions is compressed isothermally to half of its initial volume and then it is allowed to expand adiabatically to its original volume.
+ $a)$ What is the total work done on the gas during the process?
+ $b)$ How much heat is released by the gas?
+ $c)$ What is the change in the internal energy of the gas?
+ $d)$ What is the final temperature of the gas?
  (4 pont)

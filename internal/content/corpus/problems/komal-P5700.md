@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, model-reduction, smart-coordinates]
 ---
 
-in the January 2026 issue of our magazine.) 
+in the January 2026 issue of our magazine.)
  (5 pont)

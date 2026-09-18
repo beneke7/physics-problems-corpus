@@ -60,7 +60,9 @@ This problem is about the subtle phenomenon of vena contracta. An incompressible
     Now we put it all together and tekintsük complex mechanical systems with moving fluids.
 
                                                         13
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
   Idea 7
   Ha a fluid is moving in a complex way, it’s usually dhaficult to say anything by directly

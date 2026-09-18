@@ -19,4 +19,4 @@ verification_status: pending
 
 A "spring-dumbbell" comprises two balls of mass $m$ that are connected with a spring of stiffness $k$. Two such dumbbells are sliding toward one another, the velocity of either is $v_{0}$. At some point the distance between them is $L$ (see fig.). After which time is the distance between them equal to $L$ again? The collisions are perfectly elastic.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr49-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr49-fig1.jpg)

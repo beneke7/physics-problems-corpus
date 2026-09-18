@@ -24,7 +24,7 @@ verification_status: pending
 ## Problem 1: The Earth's Horizontal Magnetic Field
 
 This is to determine the horizontal component of the Earth's magnetic field $B_{\mathrm{H}}$ using small-amplitude oscillation of a cylindrical bar magnet. The magnet is to oscillate in the combined static fields of the Earth and that due to a square coil.
-![](apho-2009-e-q1-fig01.png)
+![](../../figures/apho/figures/apho-2009-e-q1-fig01.png)
 
 The experiment is to be done in three sections. Section I is a derivation of formulae to be used in Section III.
 
@@ -45,7 +45,7 @@ Each student is provided with apparatus as shown in Figure 2:
 11. graph papers
 12. an electrical cord
 
-![](apho-2009-e-q1-fig02.png)
+![](../../figures/apho/figures/apho-2009-e-q1-fig02.png)
 Figure 2
 
 Warning
@@ -54,7 +54,7 @@ Use the multi-meter to measure only the voltage difference of the coils. Using t
 Section I
 [1 point]
 
-![](apho-2009-e-q1-fig03.png)
+![](../../figures/apho/figures/apho-2009-e-q1-fig03.png)
 Figure 3
 
 It is given here that the magnetic flux density $B_{\mathrm{P}}$ at a perpendicular distance $\ell$ from the middle of a straight current element $i a$ is

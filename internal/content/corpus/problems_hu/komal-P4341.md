@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4341. Egy hosszú, hajlásszögű lejtő rögzített tengelyű, könnyen forgó, tömör gumihengerekből áll. Az m tömegű, R  sugarú görgők szorosan egymás mellett helyezkednek el, de össze nem érnek. Legfeljebb mekkora sebességre gyorsulhat fel a lejtő tetejére helyezett M  tömegű láda? (A súrlódási együttható a láda és a görgők között elég nagy.) 
+P. 4341. Egy hosszú, hajlásszögű lejtő rögzített tengelyű, könnyen forgó, tömör gumihengerekből áll. Az m tömegű, R  sugarú görgők szorosan egymás mellett helyezkednek el, de össze nem érnek. Legfeljebb mekkora sebességre gyorsulhat fel a lejtő tetejére helyezett M  tömegű láda? (A súrlódási együttható a láda és a görgők között elég nagy.)
  Amerikai versenyfeladat
 
-![figure](../../raw_html/komal_figures/komal-P4341-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4341-fig1.gif)

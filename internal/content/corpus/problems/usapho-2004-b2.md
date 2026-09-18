@@ -32,7 +32,7 @@ There are two long cylindrical shells of length $h$ and mass $m$ coaxial to the 
 
 (5) c. What is the electric field $\vec{E}$ between the cylindrical shells, far from their ends?
 
-![](usapho-2004-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-2004-b2-fig01.png)
 
 (5) d. What is the electric energy density $u_{\mathrm{E}}$ stored between the shells?
 

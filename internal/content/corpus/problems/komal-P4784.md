@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, differential-element]
 ---
 
-The parabolic mirror of the Canadian Large Zenith Telescope is created by a uniformly spinning pan filled with liquid mercury. The diameter of the telescope is 6 m, and the number of revolutions of the pan is 8.5/minutes. 
- Determine the focal length of the parabolic mirror. 
+The parabolic mirror of the Canadian Large Zenith Telescope is created by a uniformly spinning pan filled with liquid mercury. The diameter of the telescope is 6 m, and the number of revolutions of the pan is 8.5/minutes.
+ Determine the focal length of the parabolic mirror.
  (4 pont)

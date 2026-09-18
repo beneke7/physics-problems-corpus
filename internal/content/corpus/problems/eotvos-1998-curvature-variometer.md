@@ -30,4 +30,4 @@ Tegyük fel, hogy a Gellért-hegy gravitációs hatása egy a műszertől vízsz
 
 *(Radnai Gyula)*
 
-![Görbületi variométer](eotvos-1998-curvature-variometer-fig1.jpg)
+![Görbületi variométer](../../figures/eotvos/figures/eotvos-1998-curvature-variometer-fig1.jpg)

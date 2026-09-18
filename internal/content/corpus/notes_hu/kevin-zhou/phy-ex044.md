@@ -29,7 +29,6 @@ Példa. Tekintsünk egy N részecskéből álló ideális gázt, amelyben a rés
                                 dp e−H(p)/kB T                   dp e−H(p)/kB T
 
 Ezt az eredményt a tankönyvekben nem gyakran említik, mivel relativisztikus esetben általában rögzített kémiai potenciált, nem pedig rögzített részecskeszámot tekintünk. (Másképpen úgy is láthatjuk ezt, hogy ∂F/∂V |T nem függ a diszperziós relációtól, mivel Z-ben a helykoordináták szerinti integrál triviális.)
-75 3. Statisztikus mechanika
 
 
 3.5     Bose–Einstein-statisztika
@@ -41,7 +40,7 @@ Megjegyzés. Az állapotsűrűség kiszámítása. Periodikus peremfeltételekke
                                                     (2π)3
 
 Az energiára változócserét végezve, dk = (dk/dE)dE mellett, nemrelativisztikus részecskére
-                                                          3/2
+                                                            3/2
                                             V         2m
                                      g(E) = 2                      E 1/2 .
                                            4π         ℏ2
@@ -75,7 +74,6 @@ Most a feketetest-sugárzás fotonjait vizsgáljuk.
                                  E=−    log Z = 2 3                  dω
                                      ∂β        π c            0           eβℏω − 1
       ahol az integrandus a Planck-eloszlás. A nagy T határátmenetben az ekvipartícióból visszakapjuk a Rayleigh–Jeans-törvényt.
-76 3. Statisztikus mechanika
 
 
   • Az integrál kiértékeléséhez vegyük észre, hogy ω4 dimenziójú, ezért 1/(βℏ)4 -et kell adnia. Ekkor
@@ -105,7 +103,6 @@ Megjegyzés. Fent minden fotonmódust harmonikus oszcillátorként kezeltünk. E
                                 H ∼ (E 2 + B 2 ) ∼ (E 2 + ω 2 A2 )
                                     2              2
 ahol Coulomb-mértékben dolgoztunk. Ez formálisan azonos egy harmonikus oszcillátorral. Azért van E és B azonos fázisban, nem pedig a szokásos 90◦-kal eltérő fázisban, mert B a valódi kanonikus változó, A deriváltja.
-77 3. Statisztikus mechanika
 
 
 Megjegyzés. Történetileg Planck javasolta elsőként, hogy az energia anyag és sugárzás között csak ℏω egész számú többszöröseiben adható át. Einstein tett további javaslatot arra, hogy magának a sugárzásnak az energiája is mindig ℏω egész számú többszöröseiben, fotonoknak nevezett részecskékben jelenik meg. Ez ma azért tűnik furcsának, mert a Planck-törvény levezetéséhez a fotonok fogalmát használtuk. Planck azonban maga nem alkalmazott egyensúlyi statisztikus mechanikát. Ehelyett egy kinetikus egyenletet próbált megoldani, és a hosszú idő alatti határban egyensúlyt keresni, például egy H-tétel megfogalmazásával. Ez sokkal nehezebb feladat volt, amelyhez az anyag és a sugárzás kölcsönhatásának explicit elméletére volt szükség. Egyébként Boltzmann az 1870-es években úgy vezette le a Stefan–Boltzmann-törvényt, hogy a feketetest-sugárzást munkaközegként használta egy Carnot-körfolyamatban.

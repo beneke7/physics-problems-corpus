@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-A space-shuttle revolves around the Earth along an elliptical path, the smallest distance between the Earth and the shuttle is 6870 km (measured from the centre of the Earth), the speed of the shuttle at this position is 10 km/s. a ) What is the greatest distance between the shuttle and the Earth (measured from the centre of the Earth)? b ) What is the least speed of the shuttle? 
+A space-shuttle revolves around the Earth along an elliptical path, the smallest distance between the Earth and the shuttle is 6870 km (measured from the centre of the Earth), the speed of the shuttle at this position is 10 km/s. a ) What is the greatest distance between the shuttle and the Earth (measured from the centre of the Earth)? b ) What is the least speed of the shuttle?
  (4 pont)

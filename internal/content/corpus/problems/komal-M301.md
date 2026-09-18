@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-If a flat pocket of vanilla-sugar or other (for example filled with backing powder) pocket is thrown onto a horizontal tabletop, then the pocket does not bounce back, instead, after the collision it begins to slide, and then it stops. Measure how the braking distance depends on the speed of the pocket right before the impact, and on the angle (measured from the horizontal) at which it hits the table. 
+If a flat pocket of vanilla-sugar or other (for example filled with backing powder) pocket is thrown onto a horizontal tabletop, then the pocket does not bounce back, instead, after the collision it begins to slide, and then it stops. Measure how the braking distance depends on the speed of the pocket right before the impact, and on the angle (measured from the horizontal) at which it hits the table.
  (6 pont)

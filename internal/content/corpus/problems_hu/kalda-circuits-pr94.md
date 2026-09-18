@@ -20,4 +20,4 @@ verification_status: pending
 
 Tekintsük az alábbi ábrán látható úgynevezett Maxwell-hidat, amely egy tekercs $L$ induktivitásának és $R$ ohmos ellenállásának mérésére használható. Ehhez a többi paramétert úgy állítjuk be, hogy a voltmérő kijelzése nulla legyen. Tegyük fel, hogy ezt az állapotot elértük, és fejezzük ki $L$-t és $R$-t $R_{1}$, $R_{2}$, $R_{C}$ és $C$ segítségével.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr94-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr94-fig1.jpg)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A cylindrical container is divided into two parts by a massless, frictionless, thermally insulating piston. In one part of the container there is 40 g Hydrogen, in the other part there is 20 g Neon, both in standard conditions. 
- a ) Which gas, and to what temperature should be heated in order that the piston moves to the middle of the cylinder, provided that the temperature of the other gas does not change? 
- b ) What is the final pressure of the gas which was heated? 
- c ) How much heat was transferred to the gas? 
+A cylindrical container is divided into two parts by a massless, frictionless, thermally insulating piston. In one part of the container there is 40 g Hydrogen, in the other part there is 20 g Neon, both in standard conditions.
+ a ) Which gas, and to what temperature should be heated in order that the piston moves to the middle of the cylinder, provided that the temperature of the other gas does not change?
+ b ) What is the final pressure of the gas which was heated?
+ c ) How much heat was transferred to the gas?
  (4 pont)

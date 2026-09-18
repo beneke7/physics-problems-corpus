@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4504. hosszúságú dominókból az ábrán látható szimmetrikus, n  emelet magas tornyot építettük. Milyen hosszúak a torony erkélyei, ha mindegyik dominót a lehető legjobban kihúzzuk?
 
-![figure](../../raw_html/komal_figures/komal-P4504-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4504-fig1.gif)

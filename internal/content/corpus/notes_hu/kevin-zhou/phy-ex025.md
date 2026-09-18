@@ -35,7 +35,7 @@ hasonló okok miatt. Indexekkel a második tag
                        Z                             Z
                   F = dr J(r) × (r · ∇ )B(r ) = dr ϵijk Ji rℓ ∂ℓ′ Bj (r′ ) êk .
                                          ′     ′
-                                                                          
+
 
 
 Most a zárójelben álló tagokra összpontosítunk. Feltesszük, hogy B rotációja eltűnik, ami szinte minden
@@ -46,7 +46,7 @@ a Hodge-duálist is vesszük. Ez azt jelenti, hogy az indexeket felcserélhetjü
                       Z                                    Z
                         dr ϵijk Ji rℓ ∂j Bℓ (r ) êk = −∇ × dr (r · B(r′ ))J(r).
                                        ′      ′          ′
-                                                
+
 
 
 Az integrál ezután az előző mágneses dipólusintegrállal azonos, csak egy állandó
@@ -77,7 +77,6 @@ ahol F a q töltésre ható Lorentz-erő, kapjuk
                                              E =−
                                                   dt
 ahol Φ a C peremű felületen átmenő fluxus.
-35 2. Elektromágnesség
 
 
   • Vezető hurkokban a keletkező elektromotoros erő olyan áramot hoz létre, amely a fluxus változásával ellentétes
@@ -125,13 +124,12 @@ ahol Φ a C peremű felületen átmenő fluxus.
 Végül visszatérünk Ampère-törvényéhez,
                                             ∇ × B = µ0 J.
 Ahogy korábban láttuk, ez ∇ · J = 0-t kényszerít ki, ezért általában nem lehet helyes. A valódi egyenlet
-                                                               
+
                                                              ∂E
                                       ∇ × B = µ0 J + ϵ0
                                                              ∂t
 így a divergenciát véve megkapjuk a teljes folytonossági egyenletet. A változó elektromos tér
 áramként viselkedik; ezt eltolási áramnak nevezzük. Ez terjedő hullámmegoldásokhoz vezet.
-36 2. Elektromágnesség
 
 
   • Vákuumban
@@ -153,7 +151,7 @@ Ahogy korábban láttuk, ez ∇ · J = 0-t kényszerít ki, ezért általában n
       a ∇ ∼ ik megfelelést használva. Különösen E0 = cB0 .
 
   • A tér energiájának változási sebessége
-             Z                          Z                                        
+             Z                            Z
                                 1               1                       1
         U̇ = dx ϵ0 E · Ė + B · Ḃ = dx            E · (∇ × B) − E · J − B · (∇ × E) .
                                µ0               µ0                      µ0
@@ -187,7 +185,6 @@ Megjegyzés. A töltésmegmaradást a folytonossági egyenlet fejezi ki:
 Például egy kezdetben nyugalomban lévő töltéseloszlás transzformációja
 
                                          ρ′ = γρ0 ,     J′ = −γρv.
-37 2. Elektromágnesség
 
 
 Bár a töltéssűrűség nem invariáns, a teljes töltés az. Ennek belátásához vegyük észre, hogy

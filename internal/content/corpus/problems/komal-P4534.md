@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: flagged
 ---
 
-What is the value of the resistance of the variable resistor  R shown in the figure, when 
- a ) the condenser is uncharged; 
- b ) the voltage across the condenser is exactly half of  U ? 
+What is the value of the resistance of the variable resistor  R shown in the figure, when
+ a ) the condenser is uncharged;
+ b ) the voltage across the condenser is exactly half of  U ?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4534-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4534-fig1.gif)

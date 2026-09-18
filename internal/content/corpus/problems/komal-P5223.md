@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, exploit-symmetry]
 ---
 
-Four alike balls, each of which has a weight of 30 N, are placed to the horizontal table into a frame – which has a shape of an equilateral-triangle-based right prism – as shown in the figure. Calculate the forces at the contact points if the side of the triangle is 15 cm, and the diameter of a ball is 5 cm. (Friction is negligible.) 
+Four alike balls, each of which has a weight of 30 N, are placed to the horizontal table into a frame – which has a shape of an equilateral-triangle-based right prism – as shown in the figure. Calculate the forces at the contact points if the side of the triangle is 15 cm, and the diameter of a ball is 5 cm. (Friction is negligible.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5223-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5223-fig1.gif)

@@ -29,12 +29,12 @@ p)gV ′
 and we have m = ρ′
 pV ′. Thus, the acceleration is
 a =
-
+
 ρ′
 ρ′
 p
 − 1
-
+
 g.
 For small displacements, we have
 ρ′
@@ -50,13 +50,13 @@ so that at first order in ∆z, the acceleration is
 a =
 g
 ρ
-
+
 dρ
 dz
 −
 dρp
 dz
-
+
 ∆z.
 To calculate dρp/dz, note that since the parcel expands and contracts adiabatically, Pp ∝ ργ
 p.
@@ -76,7 +76,7 @@ dz
 .
 Plugging this into the acceleration equation gives
 a = g
-
+
 1
 ρ
 dρ
@@ -86,13 +86,13 @@ dz
 γP
 dP
 dz
-
+
 ∆z
 which implies
 ω =
 s
 g
-
+
 1
 γP
 dP
@@ -102,7 +102,7 @@ dz
 ρ
 dρ
 dz
-
+
 =
 r
 g
@@ -116,18 +116,18 @@ you wouldn’t expect to see these kinds of oscillations because of damping effe
 a characteristic timescale for dynamic processes.
 4
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 5.  ^ 1 0USAPhO 2021, problem B2. A conceptual problem on methods of heat transfer.
-[3] Problem 6.  ^ 1 0USAPhO 2019, problem B2. A useful problem for getting comfortable with
+[3] Problem 5.   ^ 1 0USAPhO 2021, problem B2. A conceptual problem on methods of heat transfer.
+[3] Problem 6.   ^ 1 0USAPhO 2019, problem B2. A useful problem for getting comfortable with
 numbers and estimates in astronomy.
-[3] Problem 7.  ^ 1 0USAPhO 2022, problem B1. A data analysis problem about a nonideal gas.
-[3] Problem 8.  ^ 1 0USAPhO 2024, problem B2. Two exercises on the heat capacity of solids.
-[3] Problem 9.  h 1 0INPhO 2019, problem 6. A thermodynamic cycle with a nonideal gas.
-[5] Problem 10.  h 1 0IPhO 2011, problem 2. A problem on an electrified soap bubble, which combines
+[3] Problem 7.   ^ 1 0USAPhO 2022, problem B1. A data analysis problem about a nonideal gas.
+[3] Problem 8.   ^ 1 0USAPhO 2024, problem B2. Two exercises on the heat capacity of solids.
+[3] Problem 9.   h 1 0INPhO 2019, problem 6. A thermodynamic cycle with a nonideal gas.
+[5] Problem 10.   h 1 0IPhO 2011, problem 2. A problem on an electrified soap bubble, which combines
 electrostatics, thermodynamics, and surface tension.
 2 Relativity
-[4] Problem 11.  T 1 0IPhO 1998, problem 3. A great problem on a real controversy in physics, which
+[4] Problem 11.   T 1 0IPhO 1998, problem 3. A great problem on a real controversy in physics, which
 also gives you practice working with real data.
-[4] Problem 12.  T 1 0EuPhO 2024, problem 2. A problem on visual perception in special relativity.
+[4] Problem 12.   T 1 0EuPhO 2024, problem 2. A problem on visual perception in special relativity.
 Note that in part (b), when the problem asks about what Alice “sees”, it means what she sees from
 light reaching her eyes.
 [4] Problem 13 (Physics Cup 2018). A spaceship travels with a constant proper acceleration g along

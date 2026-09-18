@@ -23,7 +23,7 @@ An important consequence is that the angle between the velocities of the two ele
 that the only way this is satisfied is when the two electrons move on concentric circular trajectories.
 
 The condition for the relative velocity to be perpendicular to the distance vector gives us that the speed of the other electron is $u=$ $v / \cos \alpha$. The radii of the two circles are then $R_{1}=v / \omega_{0}$ and $R_{2}=v /\left(\cos \alpha \omega_{0}\right)$. The trajectories are illustrated below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p6.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p6.png)
 
 ## Grading:
 
@@ -122,7 +122,7 @@ For the next step, let's consider the effect of radius of curvature, an easily o
 
 From the previous theory, $|A B|=2 R_{2}$, and the centre point $O_{1}$ between $A$ and $B$ is where $\vec{R}_{1}$ intersects with the axis of symmetry. The other point where $\vec{R}_{1}$ intersects with the axis is when $\vec{R}_{1}$ and $\vec{R}_{2}$ are per-
 pendicular. This can be found by finding the points (using a ruler) which are $|A B| / 2$ away from the principal axis (we mark these by $C$ and $D$ ). There are two solutions, the right one of which is unphysical (as can be seen by the following constructions breaking down). Having found the other intersection point $O_{2}$ (which happens to coincide with $A$ ), we can fully reconstruct $\vec{R}_{1}$ (colored blue) and from there it's easy to find the centre of mass corresponding to the marked electron (by finding the point on $\vec{R}_{1}$ which is a distance $R_{2}$ from the marked point using a compass) and hence the location of the other electron (by mirroring the marked electron w.r.t. the centre of mass), marked cyan.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p7.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p7.png)
 
 Alternative solution.
 An alternative solution with simpler geometric operations, but more complex algebra would follow a similar line of reasoning until $N=2$. After that, one can show that the two electrons follow the same orbit by expressing the locations of the two electrons via complex numbers $z_{ \pm}=R_{1} \exp (2 \mathrm{i} \omega t) \pm R_{2} \exp (\mathrm{i} \omega t)$. This is a commonly deployed method to simplify vector operations. The real part of the complex number is the $x$-coordinate, and the imaginary the $y$-coordinate. Now, if we apply a phaseshift of $\pi$ to $\omega t, z_{+}$becomes $z_{-}$and vice-versa. This is because $\exp (2 \mathrm{i}(\omega t+\pi))=\exp (2 \mathrm{i} \omega t) \cdot \exp (2 \pi \mathrm{i})=$ $\exp (2 \mathrm{i} \omega t)$ and $\exp (\mathrm{i} \omega t+\mathrm{i} \pi)=-\exp (\mathrm{i} \omega t)$. Hence, $z_{+}$and $z_{-}$follow the same trajectory but with a $\pi$ phaseshift, exactly as we wanted.

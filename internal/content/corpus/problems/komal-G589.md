@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-If an object were projected on the Moon first at an angle of elevation of $60^\circ$ and then at an angle of elevation of $30^\circ$, by what factor would the height and the time of flight be greater in the first case than those of in the second case? 
+If an object were projected on the Moon first at an angle of elevation of $60^\circ$ and then at an angle of elevation of $30^\circ$, by what factor would the height and the time of flight be greater in the first case than those of in the second case?
  (3 pont)

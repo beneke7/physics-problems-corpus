@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: pending
 ---
 
-What is the temperature measured in Celsius degrees when the Reaumur and the Fahrenheit thermometers show the same value and what is this value? 
+What is the temperature measured in Celsius degrees when the Reaumur and the Fahrenheit thermometers show the same value and what is this value?
  (3 pont)

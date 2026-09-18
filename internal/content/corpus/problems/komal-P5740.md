@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-In air at room temperature and atmospheric pressure, the mean free path of nitrogen molecules is approximately 65 nm. Estimate the average displacement of a nitrogen molecule from its initial position in 1 hour. 
+In air at room temperature and atmospheric pressure, the mean free path of nitrogen molecules is approximately 65 nm. Estimate the average displacement of a nitrogen molecule from its initial position in 1 hour.
  (5 pont)

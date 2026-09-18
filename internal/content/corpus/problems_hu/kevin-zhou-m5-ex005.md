@@ -37,7 +37,9 @@ Example 5
   moment the rear wheel lhats off the ground.
 
                                                  8
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
        Idea 6
        It is often useful in rotational dynamics to treat the rotational and linear motion of a rigid

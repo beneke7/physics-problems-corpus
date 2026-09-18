@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy]
 ---
 
-A man is exercising on a stationary bike, which has a magnetic resistance mechanism. What is the work performed by the muscles of the man's legs transferred to? 
+A man is exercising on a stationary bike, which has a magnetic resistance mechanism. What is the work performed by the muscles of the man's legs transferred to?
  (3 pont)

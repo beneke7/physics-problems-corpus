@@ -29,7 +29,9 @@ solution_language: en
 
 
                                                        4
-   Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                              Physics Olympiad Handouts
 
 
     (a) Assume the atmosphere to be an ideal gas at constant temperature T in mechanical equilibrium,
@@ -62,5 +64,5 @@ solution_language: en
    events can cause very high air pollution in cities, since the pollutants can’t escape. For more about
 
 
-                 01m
+                 01m
    atmospheric physics, see chapter 37 of Blundell.

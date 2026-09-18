@@ -28,8 +28,8 @@ B1. A thin semicircular hoop of radius $R$ and mass $m$ rocks back and forth wit
 (20) b. Find $T_{\text {no slip }}$ the period of oscillation for small amplitude oscillations. Ignore all terms higher than first order in the oscillation angle $\theta$.
 (20) c. The hoop now undergoes oscillations on a frictionless surface with the period of oscillation $T_{\text {slip }}$. Ignore all terms higher than first order in the oscillation angle $\theta$. Find the ratio of $T_{\text {slip }}$ to $T_{\text {no }}$ slip.
 
-![](usapho-2002-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2002-b1-fig01.png)
 Figure B2-1
 
-![](usapho-2002-b1-fig02.png)
+![](../../figures/usapho/figures/usapho-2002-b1-fig02.png)
 Figure B2-2

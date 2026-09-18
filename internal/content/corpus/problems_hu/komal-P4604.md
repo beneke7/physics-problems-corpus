@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4604. Két nagy kiterjedésű, azonos méretű, téglalap alakú töltetlen fémlemez közös síkban, párhuzamosan, egymáshoz nagyon közel helyezkedik el. A lemezeket egy vezetékkel összekötjük, majd a közelükben egy Q ponttöltést helyezünk el az ábrán látható módon. Mennyi töltés halmozódik fel az egyes lemezeken?
 
-![figure](../../raw_html/komal_figures/komal-P4604-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4604-fig1.gif)

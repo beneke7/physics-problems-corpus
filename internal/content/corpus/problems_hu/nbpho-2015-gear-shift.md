@@ -23,7 +23,7 @@ provenance_note: "NBPhO 2015, 3. feladat, szerzők K.A. Saar. Mathpix OCR born-d
 
 Egy autó motorjának maximális nyomatéka a motor fordulatszámától függ (lásd az alábbi ábrát, egy nagyobb másolat egy külön lapon található).
 
-![](../figures/nbpho-2015-gear-shift-fig1.jpg)
+![](../../figures/nbpho/figures/nbpho-2015-gear-shift-fig1.jpg)
 
 A motor forgatása a kerekekre egy sebességváltó hajtóműn keresztül kerül. Amikor az autó az első fokozatban van, a motor és a kerekek közötti sebességváltási arány 14:1; a második fokozatban a sebességváltási arány 7:1.
 

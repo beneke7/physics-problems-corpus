@@ -22,7 +22,7 @@ verification_status: pending
 ---
 
 7. Trish is moving boxes of photocopy paper on a trolley. The top of the trolley is flat, and a box sits on it as shown. Trish pushes the trolley, accelerating it to the left, as shown. Which force, if any, is causing the box to accelerate? Ignore air resistance.
-![](aupho-2020-q7-fig01.png)
+![](../../figures/aupho/figures/aupho-2020-q7-fig01.png)
     A. Applied force
     B. Friction force
     C. Gravitational force

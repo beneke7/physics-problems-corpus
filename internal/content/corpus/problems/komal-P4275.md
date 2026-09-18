@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-The pressure of a sample of ideal gas in a container of 10 litres is 1.6 MPa, and its temperature is 25 $^\circ$C. How many numbers of moles of gas are there in the container? What is the density of the gas if 10% of the mass of the gas is Helium and the rest is Nitrogen? 
+The pressure of a sample of ideal gas in a container of 10 litres is 1.6 MPa, and its temperature is 25 $^\circ$C. How many numbers of moles of gas are there in the container? What is the density of the gas if 10% of the mass of the gas is Helium and the rest is Nitrogen?
  (4 pont)

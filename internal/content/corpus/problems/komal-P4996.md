@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, differential-element]
 ---
 
-In the process of $p=\frac{\alpha}{V^2}$ (where $\alpha$ is a constant) the volume of one mole helium was doubled, whilst its internal energy was decreased by 2493 J. 
- $a)$ What was the initial temperature of the helium? 
- $b)$ How much heat was released by the gas during the process? 
+In the process of $p=\frac{\alpha}{V^2}$ (where $\alpha$ is a constant) the volume of one mole helium was doubled, whilst its internal energy was decreased by 2493 J.
+ $a)$ What was the initial temperature of the helium?
+ $b)$ How much heat was released by the gas during the process?
  (5 pont)

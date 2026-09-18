@@ -27,7 +27,7 @@ verification_status: pending
 
 A massless thread makes $N$ turns around a statically fixed cylinder, as shown in the figure. Initially, the free (unwound) ends of the thread are parallel to the axis $X$. Then, a heavy point-like object $P$ is attached to one end of the thread while the other end is pulled with a constant velocity $u$ along $X$. Find the maximum velocity attained by the heavy object.
 
-![figure](../../sources/eupho/figures/eupho-2020-T2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-T2-1.png)
 
 The thread is inextendable and flexible. Suppose that the turns of the thread are wound tightly to one another and are placed practically in the same plane, perpendicular to the cylinder axis. Neglect any friction in the system. Do not consider the force of gravity.
 

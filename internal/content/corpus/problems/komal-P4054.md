@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200803"
 verification_status: pending
 ---
 
-In winter moist can often be seen on the traditional window panes of houses. The moist, or fern frost appears on the inside pane of some windows, or on the outside pane of some others. 
- What do the extent and the position of the condensation or deposition of water vapour depend on? 
+In winter moist can often be seen on the traditional window panes of houses. The moist, or fern frost appears on the inside pane of some windows, or on the outside pane of some others.
+ What do the extent and the position of the condensation or deposition of water vapour depend on?
  (4 pont)

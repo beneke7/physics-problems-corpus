@@ -22,12 +22,12 @@ verification_status: flagged
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-The U-shaped body of mass M shown in the figure is at rest and lies on a smooth horizontal surface (e.g. on ice). Its centre of mass is the midpoint of the semicircle of radius  R . The length of the straight arms of the U is 2 R . A small disc of mass m slides tangentially to point A on one of the arms, with a velocity of  v . 
+The U-shaped body of mass M shown in the figure is at rest and lies on a smooth horizontal surface (e.g. on ice). Its centre of mass is the midpoint of the semicircle of radius  R . The length of the straight arms of the U is 2 R . A small disc of mass m slides tangentially to point A on one of the arms, with a velocity of  v .
 
- a ) Where will point A be when the disc is at point B on the other arm? 
- b ) Draw the path of the two bodies. 
- c ) Find the velocity versus time and acceleration versus time functions for both bodies. 
- (Friction and air drag are negligible everywhere. Data: M = m =1 kg, R =0.1 m, v =0.5 m/s.) 
+ a ) Where will point A be when the disc is at point B on the other arm?
+ b ) Draw the path of the two bodies.
+ c ) Find the velocity versus time and acceleration versus time functions for both bodies.
+ (Friction and air drag are negligible everywhere. Data: M = m =1 kg, R =0.1 m, v =0.5 m/s.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3938-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3938-fig1.gif)

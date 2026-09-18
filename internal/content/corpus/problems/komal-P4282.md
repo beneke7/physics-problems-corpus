@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201010"
 verification_status: pending
 ---
 
-Suppose that Aluminum balls of different sizes get into the space from the International Space Station. The smaller or greater mass balls cool more quickly? 
+Suppose that Aluminum balls of different sizes get into the space from the International Space Station. The smaller or greater mass balls cool more quickly?
  (4 pont)

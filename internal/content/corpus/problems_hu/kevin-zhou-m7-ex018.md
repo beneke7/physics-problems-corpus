@@ -29,7 +29,9 @@ Example 18
     Keressük meg the egyensúly height of the víz in the tube.
 
                                                    22
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
   Solution
   In M2, we tekintsüked problems that could be solved knowing only the “surface feszültség

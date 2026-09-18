@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-A tube has an internal radius of $R$, and its axis makes an angle of $\alpha$ with the horizontal. The tube is rotated at a constant angular speed of $\omega$ about its axis. 
- A small point-like body is inserted into the tube. The coefficient of kinetic friction between the wall of the tube and the small body is $\mu$ ($\mu>\tan\alpha$). We find that after a sufficiently long time the small body undergoes uniform straight line motion. What is the speed of the motion? 
+A tube has an internal radius of $R$, and its axis makes an angle of $\alpha$ with the horizontal. The tube is rotated at a constant angular speed of $\omega$ about its axis.
+ A small point-like body is inserted into the tube. The coefficient of kinetic friction between the wall of the tube and the small body is $\mu$ ($\mu>\tan\alpha$). We find that after a sufficiently long time the small body undergoes uniform straight line motion. What is the speed of the motion?
  (6 pont)

@@ -23,7 +23,7 @@ techniques: []
 ---
 
 B1. Consider a wire loop of width $X$ and height $D$. The loop is held at rest vertically. There is a uniform magnetic field $B$ passing through the loop. However, the magnetic field abruptly decreases to zero everywhere below the location of the bottom edge of the loop at $t=0$. The magnetic field is perpendicular to the plane of the loop. The mass of the loop is $m$. At time $t=0$, the loop is released from rest so that it begins to fall out of the magnetic field. Let $y(t)$ be the distance that the bottom edge has traveled out of the magnetic field at $t$ seconds after the loop has been released. $y(t)=0$.
-![](usapho-2006-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2006-b1-fig01.png)
 a. Suppose that the loop has resistance $R$ but negligible inductance. Assume that $D$ is large enough that the loop very nearly reaches terminal velocity before the loop entirely falls out of the magnetic field. Express your answers to part (a) in terms of $X, D, B, m, g, R$. and $t$.
 (5) i Find the terminal velocity, $v_{\text {1erm }}$, of the loop.
 

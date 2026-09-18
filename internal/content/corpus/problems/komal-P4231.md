@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-Metal pieces of wires, of resistance R are used to build a cube system as shown in the figure. The cubes make a long chain, which can be considered infinite. What is the equivalent resistance between points A and  B ? 
+Metal pieces of wires, of resistance R are used to build a cube system as shown in the figure. The cubes make a long chain, which can be considered infinite. What is the equivalent resistance between points A and  B ?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4231-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4231-fig1.gif)

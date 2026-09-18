@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3935. Kúp alakú jégtömb úszik a vízen úgy, hogy a szimmetriatengelye függőleges. Magasságának hányad része áll ki a vízből? 
+P. 3935. Kúp alakú jégtömb úszik a vízen úgy, hogy a szimmetriatengelye függőleges. Magasságának hányad része áll ki a vízből?
  Cornides István emlékverseny, Révkomárom (Szlovákia)

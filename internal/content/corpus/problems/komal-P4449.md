@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A space probe is to be shot from a point of the interplanetarial space at some speed with respect to the Sun, which is exactly half the speed at which the object would have circular path through the same point. 
- a ) With respect to the Sun into which direction must the space probe be launched if it is to move away from the starting point the least? 
- b ) With respect to the Sun into which direction must the space probe be launched if it is to move away from the starting point the most? 
- c ) By what factor will the greatest distance between the probe and the starting point be greater in case of  b ) than in case of  a )? 
- (Any effects except for the gravitation of the Sun are negligible.) 
+A space probe is to be shot from a point of the interplanetarial space at some speed with respect to the Sun, which is exactly half the speed at which the object would have circular path through the same point.
+ a ) With respect to the Sun into which direction must the space probe be launched if it is to move away from the starting point the least?
+ b ) With respect to the Sun into which direction must the space probe be launched if it is to move away from the starting point the most?
+ c ) By what factor will the greatest distance between the probe and the starting point be greater in case of  b ) than in case of  a )?
+ (Any effects except for the gravitation of the Sun are negligible.)
  (5 pont)

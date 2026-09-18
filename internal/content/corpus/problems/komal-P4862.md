@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-When the nucleus of a radium-226, which is at rest, decays, an $\alpha$ particle and the nucleus of radon are created. The released energy during the decay is 4.87 MeV, which appears as the kinetic energy of the two resulted particles. Calculate the linear momentum and the kinetic energy of both the $\alpha$ particle and the radon nucleus. 
+When the nucleus of a radium-226, which is at rest, decays, an $\alpha$ particle and the nucleus of radon are created. The released energy during the decay is 4.87 MeV, which appears as the kinetic energy of the two resulted particles. Calculate the linear momentum and the kinetic energy of both the $\alpha$ particle and the radon nucleus.
  (4 pont)

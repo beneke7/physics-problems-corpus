@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4932. Az ábra bizonyos mennyiségű, ideálisnak tekinthető nemesgázzal működő hőerőgép izoterm, izobár és izochor részfolyamatokból álló $ABCA$ és $CDEC$ körfolyamatait szemlélteti. Mekkora a két hatásfok aránya?
 
-![figure](../../raw_html/komal_figures/komal-P4932-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4932-fig1.gif)

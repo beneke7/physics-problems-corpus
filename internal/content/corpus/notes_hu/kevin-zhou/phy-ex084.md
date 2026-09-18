@@ -41,7 +41,6 @@ Ry (π) forgatás hatását. Mindkét állapot ennek a forgatásnak 1 sajátért
 irrep Jz = 0 állapota azonban előjelet vált, amint az Y10 (θ, ϕ) transzformációjából látható, ezért
 ez a tag tiltott. Hasonló érveléssel különféle más bomlások is korlátozhatók; további korlátozásokat
 a paritás ad.
-188 7. Szögimpulzus
 
 Megjegyzés. Miért hagytuk figyelmen kívül a pályamenti szögimpulzust a fenti érvelésben? Valójában
 nem hagytuk figyelmen kívül. A végállapotot a fotonimpulzus és a spin sajátvektoraiban bontottuk fel.
@@ -94,7 +93,6 @@ hogy megvizsgáljuk az operátorok forgások alatti transzformációját.
 
       Például a vektoroperátorok Tij = Vi Wj külső szorzata tenzoroperátor. Másodrendű tenzoroperátor
       fizikai példája a kvadrupólusmomentum.
-189 7. Szögimpulzus
 
 Most egy látszólag független témára, az R3 gömbi bázisára térünk át.
 
@@ -150,7 +148,6 @@ Most egy látszólag független témára, az R3 gömbi bázisára térünk át.
     Egy k-ad rendű irreducibilis tenzoroperátor úgy transzformálódik, mint egy j spinű részecske. Új
     nyelvünkön x xq-k szerinti felírása éppen azt jelenti, hogy x-et elsőrendű irreducibilis
     tenzoroperátorként írjuk fel.
-190 7. Szögimpulzus
 
   • A forgatások a ketekre az U (R) szorzással hatnak, míg az operátorokra konjugálással; ez infinitézimális
     forgatásoknál kommutációvá alakul. Ezért a szögimpulzus-operátorok a Tqk irreducibilis tenzoroperátorra
@@ -197,7 +194,6 @@ könnyen megmutatható, és ezek megadják a mögöttes intuíciót.
     teljesen a rotációs szimmetria határozza meg). Ez leegyszerűsíti az átmeneti ráták kiszámítását,
     amint azt korábban láttuk. A γ- és j-indexeket rögzítve általában (2j + 1)(2j ′ + 1)(2k + 1)
     mátrixelemet kellene kiszámítani, de elegendő egyet kiszámítanunk a redukált mátrixelem meghatározásához.
-191 7. Szögimpulzus
 
  • A Clebsch–Gordan-együttható intuíciója az, hogy Tqk |jm⟩ forgatások alatt ugyanúgy transzformálódik,
    mint a |kq⟩|jm⟩ ket. A Clebsch–Gordan-tényező több kiválasztási szabályt is ad:
@@ -237,7 +233,7 @@ A Wigner–Eckart-tétel egyik hasznos következménye a projekciós tétel.
    V vektoroperátorra
 
                            [J 2 , [J 2 , V]] = ℏ2 2(J 2 V + VJ 2 ) − 4(V · J)J
-                                                                               
+
 
     teljesül.
 
@@ -253,7 +249,6 @@ A Wigner–Eckart-tétel egyik hasznos következménye a projekciós tétel.
    adódik, amit projekciós tételnek nevezünk. Intuitívan a jobb oldal V „J irányú” vetülete, az eredmény
    pedig azt mondja, hogy ez megegyezik V-vel, ha egy rögzített j-jű altérre korlátozunk. Ez annak a
    korábbi gondolatnak az általánosítása, hogy rögzített γ és j esetén csak egyetlen vektoroperátor van.
-192 7. Szögimpulzus
 
  • A projekciós tétel levezethető a Wigner–Eckart-tételben szereplő redukált mátrixelem explicit
    kiértékelésével is. Mivel a jobb oldalon skalár- és vektoroperátor szorzata szerepel, először az ilyen
@@ -296,7 +291,6 @@ A Wigner–Eckart-tétel egyik hasznos következménye a projekciós tétel.
                                          = δj ′ j ℏ2 j(j + 1)⟨γ ′ jm′ |Aq |γjm⟩
 
    ahol a fenti felbontásokat és J redukált mátrixelemeit használtuk.
-193 8. Diszkrét szimmetriák
 
 8      Diszkrét szimmetriák
 8.1     Paritás
@@ -342,7 +336,6 @@ kapcsolatban a Standard Modellről szóló jegyzetek is tárgyalják.
                                                  πKπ † = ±K
       akkor K valódi skalár, ha az előjel +1, és pszeudoskalár, ha az előjel −1. Például p · S
       pszeudoskalár.
-194 8. Diszkrét szimmetriák
 
   • Vegyük észre, hogy E poláris vektor, B pedig axiális vektor. Különösen külső mágneses tér hozzáadása
     nem töri meg a paritásszimmetriát.

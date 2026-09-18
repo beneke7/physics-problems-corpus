@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A magnetized pin, axed through its centre of mass, swings 24 times in one minute if its axle is vertical. How many swings does the pin make if its axle is horizontal and 
- a ) parallel to the magnetic meridian; 
- b ) perpendicular to the magnetic meridian? 
- The declination of the magnetic field at the position of the observation is 60$^\circ$. 
+A magnetized pin, axed through its centre of mass, swings 24 times in one minute if its axle is vertical. How many swings does the pin make if its axle is horizontal and
+ a ) parallel to the magnetic meridian;
+ b ) perpendicular to the magnetic meridian?
+ The declination of the magnetic field at the position of the observation is 60$^\circ$.
  (5 pont)

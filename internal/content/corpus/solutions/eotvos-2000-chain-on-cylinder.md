@@ -22,7 +22,7 @@ Megoldás. Mindenek el®tt azt vegyük észre, hogy ez a probléma nem a jól is
 eleme, amikor is a hengerr®l le savarodó lán felpörgeti a hengert! Most a henger rögzített, és rögzített az A pont is, a
 lán egyik vége. Legfeljebb az fordulhatna el®, hogy az alul kihasasodó lán egyre jobban elválik a hengert®l, s magával
 rántja, lehúzza az egész lán ot. Persze ez se fordulhat el®, ha a lán függ®legesen lelógó része elég hosszú. Mennyi ez
-az elég? Ez a kérdés. Vagyis ez egy sztatika feladat, amiben a lán egyensúlyát kell megvizsgálnunk! (Az igaz, hogy
+az  elég ? Ez a kérdés. Vagyis ez egy sztatika feladat, amiben a lán egyensúlyát kell megvizsgálnunk! (Az igaz, hogy
 nem éppen a legegyszer¶bb feladatok közül való, ezért is jelentett kellemes meglepetést a Versenybizottságnak, hogy
 18 olyan versenyz® volt, aki hibátlan megoldást adott rá.)
 Készítsünk ábrát, melyen egyrészt a hengerhez símuló és jobb oldalt lelógó lán ot látjuk, majd ennek egy ki siny,
@@ -52,11 +52,11 @@ K =
 mg
 d
 y + konstans.
-(Hasonló módon járunk el sok esetben a 
+(Hasonló módon járunk el sok esetben a
 zikában; például amikor az egyenletesen gyorsuló mozgásnál abból, hogy ∆v
 arányos ∆t-vel, arra következtetünk, hogy v = at + v0.)
 A fenti konstans értékét abból a feltételb®l határozhatjuk meg, hogy spe iális esetben, az A pontban (y = R helyen)
-a K er®nek (l/d) · mg-nek kell lennie, hiszen l/d lán szem húzza lefelé az A pontbeli lán szemet.
+a K er®nek (l/d) · mg-nek kell lennie, hiszen l/d lán szem  húzza lefelé  az A pontbeli lán szemet.
 l
 d
 mg =

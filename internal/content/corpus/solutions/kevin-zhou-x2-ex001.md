@@ -21,8 +21,8 @@ Solution
 Nuclear decays don’t happen in isolation; there are entire networks of nuclear decay chains.
 Radium decays quickly, but it is also constantly produced by the decay of other isotopes,
 which have much longer half-lives.
-[3] Problem 6.  W 1 0USAPhO 2009, problem A2.
-[3] Problem 7.  ^ 1 0IPhO 2000, problem 1c. The problem refers to an answer sheet, but you won’t
+[3] Problem 6.   W 1 0USAPhO 2009, problem A2.
+[3] Problem 7.   ^ 1 0IPhO 2000, problem 1c. The problem refers to an answer sheet, but you won’t
 need it.
 [3] Problem 8 (PPP 190). Part of the series of isotopes produced by the decay of 232Th, along with
 the corresponding half-lives, is given below:

@@ -9,6 +9,6 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- A molekulák átlagsebessége az abszolút hőmérséklet négyzetgyökével arányos. Így – mindkét gáznál – 
- $\frac{v_2}{v_1}=\sqrt{\frac{T_2}{T_1}}=\sqrt{\frac{432}{300}}=1{,}2,$ 
+ A molekulák átlagsebessége az abszolút hőmérséklet négyzetgyökével arányos. Így – mindkét gáznál –
+ $\frac{v_2}{v_1}=\sqrt{\frac{T_2}{T_1}}=\sqrt{\frac{432}{300}}=1{,}2,$
  vagyis a növekedés 20%-os.

@@ -37,7 +37,9 @@ solution_language: en
           than half, or slightly less than half?)
 
                                                       15
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
       (b) In the semi-infinite solenoid shown at right above, the field line FGH, which passes through

@@ -24,7 +24,7 @@ techniques: [conservation-laws, limiting-and-special-cases]
 
 In order to obtain high voltage supply using a battery, the following circuit is used.
 
-![figure](../../sources/nbpho/figures/nbpho-2014-dc-dc-converter-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2014-dc-dc-converter-fig1.jpg)
 
 An electromagnetic switch $K_{1}$ connects a battery of electromotive force $\mathscr{E}$ to an inductor of inductance $L$ : it is closed if there is no current in the inductor (a spring keeps it closed), but if the inductor current reaches a critical value $I_{0}$, magnetic field created by the inductor pulls it open. Due to inertia, once the key is open, it takes a certain time $\tau_{K}$ to close again even if the current falls to zero.
 

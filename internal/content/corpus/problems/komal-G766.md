@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-The most famous formula in physics is the relation of $E=mc^2$ expressing the equivalence of mass and energy where $E$ is the energy, $m$ is the mass, and $c$ is the speed of light in vacuum. Using this, estimate how much heavier is our mobile phone, when its battery is fully charged, than when its battery is fully discharged. 
+The most famous formula in physics is the relation of $E=mc^2$ expressing the equivalence of mass and energy where $E$ is the energy, $m$ is the mass, and $c$ is the speed of light in vacuum. Using this, estimate how much heavier is our mobile phone, when its battery is fully charged, than when its battery is fully discharged.
  (3 pont)

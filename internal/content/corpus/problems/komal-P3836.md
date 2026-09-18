@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-From a 5 m high hill a 6 kg sleigh slides down, and stops somewhere on the horizontal ground. Find the work done while the sleigh is pulled back from this position to the top of the hill. 
+From a 5 m high hill a 6 kg sleigh slides down, and stops somewhere on the horizontal ground. Find the work done while the sleigh is pulled back from this position to the top of the hill.
  (4 pont)

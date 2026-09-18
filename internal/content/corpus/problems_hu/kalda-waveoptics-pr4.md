@@ -20,4 +20,4 @@ verification_status: pending
 
 Tekintsünk egy $a$ szélességű rést tartalmazó, nem átlátszó falat. A falra párhuzamos fénynyaláb merőlegesen esik. Határozzuk meg a fal mögött kialakuló elhajlási képet: adjuk meg azokat a terjedési szögeket, $\varphi_{\max}$-ot és $\varphi_{\text {min }}$-t, amelyeknél a fényintenzitás maximumot, illetve minimumot vesz fel, továbbá az intenzitáseloszlást a $\varphi$ szög függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr4-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr4-fig1.jpg)

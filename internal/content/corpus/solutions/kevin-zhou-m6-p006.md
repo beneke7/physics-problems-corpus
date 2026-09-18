@@ -19,13 +19,13 @@ Kevin Zhou Physics Olympiad Handouts
 (b) Using this result, prove the vis-viva equation
 v2
 = GM
-
+
 2
 r
 −
 1
 a
-
+
 which is often used in rocketry.
 (c) Prove Kepler’s third law.
 Solution. (a) Let the closest approach distance be r1, farthest be r2. For simplicity, let’s define
@@ -162,13 +162,13 @@ GMm2
 As a check, note that A indeed vanishes for circular motion, where
 A = (mv)(mvr) − GMm2
 = mr2
-
+
 mv2
 r
 −
 GMm
 r2
-
+
 = 0.
 For an elliptical orbit, A lies in the plane of the orbit and points along the major axis.
 (c) Take the cross product of the vector with L, which is always conserved, for

@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi rajz vezetékből készült oktaédert szemléltet; az egyes élek mellett feltüntetett szám az adott vezeték ellenállását jelenti ohmban. Az ampermérőket összekötő vezetékek ellenállása elhanyagolhatóan kicsi. Határozzuk meg az ampermérők kijelzéseit.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr37-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr37-fig1.jpg)

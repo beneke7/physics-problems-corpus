@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-On a sunny day, when there was no cloud on the sky, someone observed an interesting phenomenon. There was a plastic triangle shaped ruler next to the window on the table, and observing the ruler a pattern of coloured band was seen on it, similar to that of formed on the surface of oil on wet asphalt. a ) Could this phenomena be the result of the interference of the reflected light-beams from the bottom and the top of the ruler, as in case of the oil-spot? b ) If not, what might the explanation be? 
+On a sunny day, when there was no cloud on the sky, someone observed an interesting phenomenon. There was a plastic triangle shaped ruler next to the window on the table, and observing the ruler a pattern of coloured band was seen on it, similar to that of formed on the surface of oil on wet asphalt. a ) Could this phenomena be the result of the interference of the reflected light-beams from the bottom and the top of the ruler, as in case of the oil-spot? b ) If not, what might the explanation be?
  (5 pont)

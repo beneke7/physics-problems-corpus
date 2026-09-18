@@ -45,7 +45,9 @@ lasers of the same type. Anyway, for the problems below we’ll generally assume
 perfect, but one should remember it’s always an important consideration in real setups.
 Example 1
 Derive the far-field intensity pattern for the double slit experiment.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 We suppose a plane wave with wavenumber k is incident on two small slits. Using Huygens’
 principle, the wall absorbs all wavelets except the ones at the slits, so it’s as if we have a
@@ -88,7 +90,9 @@ lie at θ ≪ 1. Then we may use the small angle approximation sinθ ≈ tanθ =
 I(y) ∝ cos2 kdy
 2D
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 We have a periodic pattern of dark and light fringes. The separation between the minima
 and between the maxima on the screen is Dλ/d.
 The set of approximations made above gives us the theory of far field (“Fraunhofer”) diffrac-
@@ -117,7 +121,9 @@ diffraction: small features at the source turn into large features at the screen
 the pattern is just translated on the screen.
 (c) We can factor out a common phase to get A0 ∼ 2 + eik∆r, and the intensity will vary from I0
 to 9I0 as opposed to the original 0 to 4I0 with the same spacing.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 (d) The visible spectrum will be dispersed (except at the very center which stays white), with the
 longer wavelengths (i.e. red) farther away from the center than the corresponding spot for the
 shorter wavelengths (i.e. violet). So the maxima near the center will look like little rainbows.
@@ -126,7 +132,7 @@ Higher order maxima will start overlapping each other, making it harder to see i
 uniform velocity on the screen. As noted in part (b), a phase shift causes an angular shift
 in the pattern, and the different frequencies will cause a slowly increasing phase difference
 between the two slits.
-[3] Problem 3.  W 1 0USAPhO 1999, problem A3. A triple slit experiment.
+[3] Problem 3.   W 1 0USAPhO 1999, problem A3. A triple slit experiment.
 [2] Problem 4. A pair of slits is separated by a distance d1, and two of these pairs are separated by a
 larger distance d2, so that d2 ≫ d1 ≫ λ. Sketch the intensity pattern on the screen for this four-slit
 apparatus. (Hint: to avoid a complicated computation, factor the expression for the amplitude.)
@@ -157,7 +163,9 @@ treated like its own light source. That means you can compute path length differ
 starting from the images, rather than having to go all the way back to the original objects.
 For real images, there’s a very simple way to see why this works. For instance, consider the
 setup below, where an object o is focused with a lens to an image i.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Fermat’s principle of least time tells us that all of the paths shown take the same time, and
 since phases are directly related to time by ∆ϕ = ω∆t, it means that all of the rays arrive
 at the image with the same phase. That means they leave the image with the same phase,
@@ -180,7 +188,9 @@ This is actually just a double slit interference problem! Each mirror produces a
 image source reflected behind it, and the pattern on the screen results from the interference
 between the two image sources, just as if there were two slits at those points.
 Specifically, let the light source have coordinates (0,0), with the screen at x = a. Then the
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 image sources are located at (−2a,±2αa), so we have a double slit setup with sources 4αa
 apart from each other, a distance 3a from the screen. Using our existing results,
 λ = (4αa)
@@ -192,7 +202,7 @@ d
 .
 Note that reflection from a mirror changes the phase by π, but that didn’t matter in this
 problem, because both image sources pick up the same phase.
-[3] Problem 5.  ^ 1 0USAPhO 2020, problem B2. A problem on interference with images.
+[3] Problem 5.   ^ 1 0USAPhO 2020, problem B2. A problem on interference with images.
 2 Thin Film Interference
 Idea 2
 In general, the phase of a wave is unaffected by reflection from a rarer medium, and flipped
@@ -219,7 +229,9 @@ these reflection and transmission coefficients will vary significantly with angl
 Fresnel’s equations, as shown in E8. We typically ignore this by focusing on normal incidence.
 By the way, you might be wondering why we’re specializing to thin films; why isn’t there
 thick film interference? Technically there could be interference fringes, but they would be
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 too close to see even if everything was perfect. And in reality, they would then get blurred
 together due to imperfections in the surfaces, and the spread of frequencies and incidence
 directions in the incoming light.
@@ -280,7 +292,9 @@ is then 2ℓ, so destructive interference for the lowest possible ℓ occurs whe
 λ
 4n
 = 113nm.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The next most significant path has 3 reflections and 2 transmissions, so its amplitude is
 A =
 2na
@@ -309,7 +323,9 @@ interference fringes, as explained in the remark above. Instead, the first refle
 some background intensity everywhere, preventing the dark fringes from being perfectly dark. Thus,
 in this problem we’ll only consider the second and third paths.
 (a) Explain why the center of the pattern is dark.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Find the radii of the bright and dark fringes, i.e. the values of r where there is a local minimum
 or maximum of the intensity. For simplicity, assume r ≪ R.
 Solution. (a) Consider light that comes in very close to the center. Then paths (2) and (3) have
@@ -355,7 +371,9 @@ a maximum of 20 stripes. The film’s index of refraction is 1.4 and the glass�
 thickness of the film.
 Solution. Both rays will bounce off a hard surface, so the phase shift due to that will be ignored.
 All that will be considered is the difference in optical path lengths.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Note that sinα = nsinβ. For the immediately reflected ray, it will travel through L1 = wsinα,
 and tanβ = (w/2)/t, so L1 = 2ttanβ sinα. For the ray that goes through the film, it will travel by
 L2 = 2nt/cosβ where n = 1.4, so the path length difference is
@@ -420,7 +438,9 @@ sin2
 sin2
 (k∆r/2)
 .
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 The normalized intensity is plotted below as a function of θ.
 The numerator yields rapid oscillations which aren’t very visible; their envelope is given by
 the slow oscillations in the denominator. These slow oscillations are the ones we care about;
@@ -450,7 +470,9 @@ Ndsinθ = λ.
 regularly spaced, except at the primary maxima when k∆r/2 = πn. Since at the central
 maximum, the minimum that would be there was replaced with a peak, the distance between
 adjacent minima becomes twice as large as the distance between the other adjacent minima.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Since every phasor is rotated by the same amount relative to the one before it, and with
 N ≫ 1, the phasors form a circular arc in the complex plane. For the secondary maxima, at
 least one full circle will be formed, and the maximum amplitude is approximately reached
@@ -492,7 +514,9 @@ kasinθ
 The amplitude is proportional to the sinc function, shown below.
 What we’re really doing here is zooming in on the central maximum of the diffraction grating;
 the other maxima have been removed by sending the slit spacing to zero.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: Uncertainty Principle
 There’s a neat way to rephrase our results. In the far field limit and small angle approxima-
 tion, an opening at height z gives a wave with amplitude ei(k/D)yz at height y on the screen.
@@ -531,7 +555,9 @@ Both effects matter, but it suffices to consider the first to fix the problem. T
 falloff implies that in the case a ≫ D, the illumination at each point on the screen mostly
 comes from points on the slit within a distance D, not from the entire slit. Since every point
 on the screen can see such a range of points, the screen is uniformly illuminated.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 For points on the screen near the edge of the slit, there is a gradual shadow, along with some
 interference bands from “edge diffraction”. In the limit D ≫ λ these residual diffraction
 peaks get very close and blur together, leaving only a smooth shadow. This is just as
@@ -568,7 +594,9 @@ arc. Since the points in the single slit that provide the first and last phasors
 by a distance a, that indicates that when asinθ = nλ, the first and last phasors point in the
 same direction. That means that the phasors went in a full circle (or multiple), so the net
 amplitude is zero.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Since the slits are small, by the idea of problem 4, we should multiply a double slit intensity
 pattern with a much wider single slit intensity pattern, giving the following result.
 [3] Problem 12 (MPPP 123). Some imperfect diffraction gratings. For this problem, you can ignore
@@ -597,7 +625,9 @@ sin2
 (2kdsinθ)
 cos2
 (kdsinθ/2).
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Without loss of generality, we can assume that a > b. Then the pattern is the sum of a grating
 with spacing d and slit width b, and a grating with spacing 2d and slit width a − b. Since the
 amplitude of the second component is much smaller, the overall pattern looks like a diffraction
@@ -613,7 +643,9 @@ is a circle, bounded by minima at θ ≈ 1.22λ/d. The radii of the higher-order
 get closer and closer spaced as one moves outward. The resulting pattern is called an Airy disc.
 You can straightforwardly write down an integral that gives the intensity I(r), but the integral
 can only be performed in terms of special functions, called Bessel functions.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 4: Babinet’s Principle
 Consider all of the rays R that strike a point P on the screen. If the intensity at P is zero,
 then the rays must completely destructively interfere. That means that if we split R into
@@ -638,7 +670,9 @@ one going up and to the left (the back of the spring). By Babinet’s principle,
 diffraction pattern should be the same as if we had two sets of openings instead. Thus, we
 expect to see two independent diffraction patterns, one due to each of these obstructions.
 The angle between these two patterns is twice the angle that the spiral path of the spring
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 makes with the horizontal.
 Now focus on one interference pattern. By Babinet’s principle, it’s basically a single slit
 pattern, which is indeed what we see. However, from the reflection of the laser in the picture,
@@ -655,7 +689,9 @@ Example 7: MPPP 125
 An opaque sheet is perforated by many small holes arranged in a square grid of side length
 d. It is illuminated by light of wavelength λ, and a screen lies a distance D behind it.
 Assuming D ≫ d ≫ λ, find the locations of the primary diffraction maxima on the screen.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Let (x,y) denote coordinates on the sheet, and (x′,y′) denote coordinates on the screen, with
 the same center. When we considered one-dimensional diffraction gratings, we found that
@@ -698,7 +734,9 @@ where the “lattice basis vectors” are
 r1 = (d,0), r2 = (d/2,
 √
 3d/2).
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Again, we need to find the points (x′,y′) on the screen where the light from all holes arrives in phase.
 This is a bit less obvious than in the above example, so let’s think about it more systematically.
 First, we can find a peak (x′,y′) = r′
@@ -727,22 +765,22 @@ r′
 1 =
 λD
 d
-
+
 1,−
 1
 √
 3
-
+
 , r′
 2 =
 λD
 d
-
+
 0,
 2
 √
 3
-
+
 .
 In otherwords, the diffraction maxima also form a triangulargrid, but the side lengthis (2/
 √
@@ -775,7 +813,9 @@ Nd
 λ
 ∆λ
 = Nn.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Note that the resolving power is also the number of wavelengths by which the longest and
 shortest possible paths to the diffraction maximum differ (i.e. the paths through the very
 top and very bottom slits). The fact that a larger distance may be used to resolve smaller
@@ -818,7 +858,9 @@ the same would be observed?
 Solution. The lines are at dsinθ = nλ with d = (1/300) mm. This results in nλ = 1380 nm, and n
 must be an integer. Now, integer values of n are guessed and the values of λ that fit in the specified
 wavelength ranges are nR = 2, λR = 690 nm and nB = 3, λB = 460 nm.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 Since the maximum value of nλ is d = 3333 nm, the only other possible value of dsinθ = nRλR =
 nBλB is when nR = 4 and nB = 6, corresponding to dsinθ = 2×1380. This gives θ = 55.9◦. Larger
 values of nR and nB would give no solution for θ.
@@ -858,7 +900,9 @@ Event Horizon Telescope was able to resolve a black hole 5×107 ly away because 
 radio telescopes spaced around the entire Earth. Some astronomers are presently excited
 about the incredibly resolutions that could be achieved by combining optical telescopes,
 though realizing this would require extremely good timing precision.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Example 9
 How close does a Sun-like star have to be in order to see it with the naked eye in daylight?
 Solution
@@ -867,10 +911,10 @@ intensities of the two is naively
 Istar
 ISun
 =
-
+
 d
 D
-2
+ 2
 .
 This suggests the star is hard to see if D > d, which is always true. But this is too pessimistic,
 because the light from the Sun comes from all directions in the sky, while the light from the
@@ -878,10 +922,10 @@ star comes from only a single direction. The actual ratio we want to calculate i
 Istar/Ωstar
 ISun/2π
 =
-
+
 d
 D
-2
+ 2
 2π
 Ωstar
 where Ωstar is the apparent solid angle of the star in the sky.
@@ -915,7 +959,9 @@ The bits are arranged in concentric rings, so a laser pointer hitting part of th
 see a reflective diffraction grating, with the slits parallel to the tangential direction on the CD. The
 resulting diffraction peaks can be used to find the ring spacing, as you can try at home!
 [3] Problem 19. NBPhO 2005, problem 5. A simple but subtle interference problem.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solutions as usual. However, as pointed out by Stefan Ivanov here, there
 are typos in the last part. To do it right, note that the relative speed of the pattern and fluid is
 v′
@@ -963,7 +1009,9 @@ bounces, and arrive at angles tan−1(2nr/L). There are infinitely many rings, t
 together at high n.
 [2] Problem 22. If you look down a large body of water before sunset, the sun’s reflection will appear
 very long. Why?
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Because of the large length scales involved, and the absence of dispersion, we can tell
 that this is a geometrical optics effect. The explanation is as follows. If the water’s surface was
 perfectly flat, then the sun’s reflection would be at a point. Because there are waves, different parts
@@ -986,7 +1034,9 @@ haze around the moon. Explain these observations.
 (b) The size of the corona depends on the atmospheric conditions. Estimate the diameter of the
 water droplets in the air if the first red ring around the moon appears to have a diameter 4
 times that of the moon. The angular diameter of the moon in the sky is 0.5◦.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (c) On a cold night, there are many thin hexagonal ice crystals in the air. On such nights one
 can see a much larger, sharper ring around the moon, called a 22◦ halo, shown at right above.
 The size of the halo does not depend on the size of the crystals. Explain these observations.
@@ -1020,7 +1070,9 @@ intentionally. We’ll discuss cameras further in W3.
 (e) In the absence of wind, the hexagonal ice crystals will lie flat in the air, so light arriving
 from the top can just pass right through them without much deflection. We only see a 22◦
 deflection when light enters the hexagon horizontally, as shown.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 This yields the two “moon dogs”, and if the same thing happens in the daytime, one can
 instead see “sun dogs”.
 As for the light pillars, they simply occur when light reflects directly off the flat bottom faces
@@ -1040,7 +1092,9 @@ understand. You can (carefully) observe it at home by aiming a laser pointer at 
 [3] Problem 25. A student noticed an odd pattern when the light from a streetlamp shined through
 their open window. The window is fitted with a metal mesh screen and a curtain. Photos were
 taken with the curtain up (left) and down (right).
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 For scale, the streetlamp was about 30m away, the distance between the metal wires was 1.4mm,
 the diameter of each wire was 0.4mm, and the curtain was woven from fibers whose width was
 comparable to that of a human hair.
@@ -1071,7 +1125,9 @@ looks very yellow, and everything that absorbs yellow looks completely black, wh
 disorienting to the eye.) This wide spectrum tells us that the streetlamp is modern. However,
 the picture is too blurry to tell if it’s incandescent, fluorescent, or LED.
 [4] Problem 26. One day, somebody sent me a photo of a weird pattern on their phone.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 The phone was on a desk, about a meter away from the camera.
 (a) Does the desk light emit a roughly continuous spectrum (typical for incandescent or good
 LED lights) or a sharply peaked spectrum (typical for fluorescent or cheap LED lights)?
@@ -1101,7 +1157,9 @@ What’s really going on is that the lamp light is hitting the entire phone basi
 At each point, it bounces off the phone both specularly reflected, and at a few sharp angles
 due to diffraction. The spots you see at the top of the phone are due to light that hit the top
 of the phone, and then diffracted off at a downward angle, relative to the specular reflection.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 The white spot is just the part of the specular reflection of the lamp that hits your eye, i.e. the
 extra bright zeroth order maximum discussed in problem 15.
 Note that we can only see, in practice, the primary diffraction maxima; the secondary maxima

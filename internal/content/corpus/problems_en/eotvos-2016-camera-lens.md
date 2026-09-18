@@ -23,4 +23,4 @@ Two identical black sheets each have nine small white dots. The distance between
 
 Estimate from the given data and measurements from the photographs the distance of the closer sheet from the lens, as well as the diameter of the camera lens.
 
-![figure](eotvos-2016-camera-lens-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2016-camera-lens-fig1.jpg)

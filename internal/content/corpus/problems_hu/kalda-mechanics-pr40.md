@@ -20,4 +20,4 @@ verification_status: pending
 
 Két hordó ($A$ és $B$) csapja különböző kialakítású, lásd az ábrát. A csapot kinyitjuk; a vízfelszín és a csap közötti magasság $H$. Mekkora sebességgel lép ki a vízsugár a hordókból?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr40-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr40-fig1.jpg)

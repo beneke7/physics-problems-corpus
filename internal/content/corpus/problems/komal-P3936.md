@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-Observing from the Earth by what factor does the diameter of the Moon seem to be greater than that of the Mars? 
+Observing from the Earth by what factor does the diameter of the Moon seem to be greater than that of the Mars?
  (4 pont)

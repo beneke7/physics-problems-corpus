@@ -59,7 +59,9 @@ Tengiz Bibilashvili, Kellan Colburn, Natalie LeBaron, Rishab Parthasarathy, Elen
 Zhou.
 
                     Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                            Student Instructions                                        2
+
+
+2024 USAPhO                            Student Instructions                                        2
 
 
 
@@ -108,7 +110,9 @@ Below are instructions for writing your solutions.
 
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                             Student Instructions                                    3
+
+
+2024 USAPhO                             Student Instructions                                    3
 
 
 
@@ -145,7 +149,9 @@ Below are instructions for writing your solutions.
 
 
                  Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                   Part A                                                  4
+
+
+2024 USAPhO                                   Part A                                                  4
 
 
 
@@ -205,7 +211,9 @@ For the rest of the problem, your answers only need to be similarly rough estima
 b. For this setup, the above formula applies if D ≫ D0 . Find a rough estimate for D0 .
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                   Part A                                                5
+
+
+2024 USAPhO                                   Part A                                                5
 
 
 
@@ -246,7 +254,9 @@ c. Assuming D ≫ D0 , estimate the number of oscillations that occurs until hal
 
 
                   Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                     Part A                                               6
+
+
+2024 USAPhO                                     Part A                                               6
 
 
 
@@ -299,7 +309,9 @@ a. A thin shell of the star at radius r0 has density ρ0 and thickness ∆r, and
 
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                     Part A                                                7
+
+
+2024 USAPhO                                     Part A                                                7
 
 
 
@@ -354,7 +366,9 @@ c. A white dwarf is composed of electrons and nuclei. The electrons provide the 
 
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                Part A                                                8
+
+
+2024 USAPhO                                Part A                                                8
 
 
 
@@ -371,7 +385,9 @@ c. A white dwarf is composed of electrons and nuclei. The electrons provide the 
 
 
                 Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                       Part A                                               9
+
+
+2024 USAPhO                                       Part A                                               9
 
 
 
@@ -408,7 +424,7 @@ b. Suppose the object is a short stick, tilted an angle θo to the x-axis. In te
                                                 δy                     my δy
                                      tan θo =      ,        tan θi =
                                                 δx                     mx δx
-     from which we conclude                                        
+     from which we conclude
                                                        −1        o
                                           θi = tan              − θo .
                                                                  i
@@ -416,7 +432,9 @@ b. Suppose the object is a short stick, tilted an angle θo to the x-axis. In te
 
 
                     Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                    Part A                                              10
+
+
+2024 USAPhO                                    Part A                                              10
 
 
 
@@ -468,7 +486,9 @@ f. If the aperture opens for time τ to take a photo, find the numeric value of 
    standard deviation of the brightness of each pixel is 1% of the mean.
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                Part A                                               11
+
+
+2024 USAPhO                                Part A                                               11
 
 
 
@@ -486,7 +506,9 @@ f. If the aperture opens for time τ to take a photo, find the numeric value of 
 
 
                  Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                           Part A                                12
+
+
+2024 USAPhO                           Part A                                12
 
 
 
@@ -506,7 +528,9 @@ If there is still time remaining for Part A, you can review your work for Part
 
 
               Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                      Part B                                              13
+
+
+2024 USAPhO                                      Part B                                              13
 
 
 
@@ -562,7 +586,9 @@ b. Suppose the muons begin at rest, and are accelerated so that each muon’s en
 
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                     Part B                                            14
+
+
+2024 USAPhO                                     Part B                                            14
 
 
 
@@ -605,7 +631,7 @@ c. Initially, the bunch and antibunch each contain N = 1014 particles. If they i
      muons and antimuons has the same chance to collide, so the expected number of collision
      events is
                                              2rN 2
-                                               
+
                                                     = 0.04.
                                               R
      This is much smaller than N , which justifies our assumption that the collision events are
@@ -622,7 +648,9 @@ d. The bunch travels clockwise along a ring of circumference ℓ = 10 km, while 
 
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                        Part B                                      15
+
+
+2024 USAPhO                                        Part B                                      15
 
 
 
@@ -630,8 +658,8 @@ d. The bunch travels clockwise along a ring of circumference ℓ = 10 km, while 
                                                Solution
     If the number of particles remaining in the bunch and the antibunch is Nk , where k = 0 for
     the first collision, then the expected number of collisions is
-                                                     ∞ 
-                                                   2 X          2
+                                                      ∞
+                                                    2 X           2
                                              2rN            Nk
                                                                       .
                                               R             N
@@ -645,9 +673,9 @@ d. The bunch travels clockwise along a ring of circumference ℓ = 10 km, while 
                                    ∆τ =             = 1.67 × 10−10 s.
                                               105
    Therefore, since τ ≫ ∆τ , we have
-                   ∞              ∞
+                   ∞               ∞
                        Nk 2
-                         
+
                    X               X                          1                 τ
                                =         e−2k ∆τ /τ =                     ≈        = 6600.
                    k=0
@@ -671,7 +699,9 @@ d. The bunch travels clockwise along a ring of circumference ℓ = 10 km, while 
 
 
                  Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                    Part B                                               16
+
+
+2024 USAPhO                                    Part B                                               16
 
 
 
@@ -694,7 +724,7 @@ a. In a simple quantum model of a solid, the energy is E = ℏωm, where m is th
 
                                                dE = ℏω dm
 
-        and                                                        
+        and
                                                           3N + m
                                      T dS = kB T ln                     dm.
                                                             m
@@ -720,14 +750,16 @@ a. In a simple quantum model of a solid, the energy is E = ℏωm, where m is th
                                          1+x
 
         where here x = α/2 + α2 /6. This gives the final answer,
-                                                             
+
                                                   1    1    α
                                       m = 3N         − +
                                                   α 2 12
 
 
                   Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                    Part B                                               17
+
+
+2024 USAPhO                                    Part B                                               17
 
 
 
@@ -737,7 +769,7 @@ a. In a simple quantum model of a solid, the energy is E = ℏωm, where m is th
 
                                                 Solution
         The heat capacity is
-                                                                               
+
                               dE      dm          d           kB T  1   ℏω
                          CV =    = ℏω    ≈ 3N ℏω                   − +              .
                               dT      dT         dT            ℏω   2 12kB T
@@ -782,7 +814,9 @@ b. A vertical cylinder is filled with a monatomic ideal gas, and capped by a mov
        oscillations? Give your answer solely in terms of h and the gravitational acceleration g.
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                 Part B                                          18
+
+
+2024 USAPhO                                 Part B                                          18
 
 
 
@@ -813,7 +847,9 @@ b. A vertical cylinder is filled with a monatomic ideal gas, and capped by a mov
 
 
                 Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                        Part B                                            19
+
+
+2024 USAPhO                                        Part B                                            19
 
 
 
@@ -874,7 +910,9 @@ b. Bob and Charles drive their circuits with a sinusoidal voltage V (t) = V0 cos
       Using this data, find the numeric values of Q and ω0 as accurately as possible.
 
                    Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                       Part B                                                20
+
+
+2024 USAPhO                                       Part B                                                20
 
 
 
@@ -931,7 +969,9 @@ b. Bob and Charles drive their circuits with a sinusoidal voltage V (t) = V0 cos
 
 
                  Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                   Part B                                                21
+
+
+2024 USAPhO                                   Part B                                                21
 
 
 
@@ -986,7 +1026,9 @@ c. The gain function of this circuit is defined as G = VR /V0 , where VR is the 
 
 
                   Copyright ©2024 American Association of Physics Teachers
-2024 USAPhO                                Part B                          22
+
+
+2024 USAPhO                                Part B                          22
 
 
 

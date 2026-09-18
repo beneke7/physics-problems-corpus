@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-The rotational inertia of a spherical, uniform-density solid body of radius 10 cm with respect to a certain axis $t$ is 10% greater than the minimum possible rotational of inertia of the sphere. How far is the axis $t$ from the centre of the sphere? 
+The rotational inertia of a spherical, uniform-density solid body of radius 10 cm with respect to a certain axis $t$ is 10% greater than the minimum possible rotational of inertia of the sphere. How far is the axis $t$ from the centre of the sphere?
  (3 pont)

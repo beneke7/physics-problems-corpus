@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4766. 200 nm-es ultraibolya fény világít meg egy alumíniumlemezt. 
- $a)$ Mekkora lesz a kilépő elektronok között a leggyorsabb és a leglassabb elektron mozgási energiája? 
- $b)$ Mekkora a zárófeszültség? 
+P. 4766. 200 nm-es ultraibolya fény világít meg egy alumíniumlemezt.
+ $a)$ Mekkora lesz a kilépő elektronok között a leggyorsabb és a leglassabb elektron mozgási energiája?
+ $b)$ Mekkora a zárófeszültség?
  Román tankönyvi feladat

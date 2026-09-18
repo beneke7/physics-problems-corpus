@@ -87,7 +87,9 @@ Gravitational Red Shift and the Measurement of Stellar Mass
                                                   f′      1+β
                                                      =
                                                   ff      1−β
-where f ′ is the frequency as received by He+ ions in the spacecraft, and β = v/c.
+
+
+where f ′ is the frequency as received by He+ ions in the spacecraft, and β = v/c.
 That is, the gravitationally reduced frequency ff has been increased to f ′ because of the velocity
 of the ions on the spacecraft towards the star. Since β ≪ 1,
                                    ff           1          1
@@ -164,7 +166,9 @@ Graph of     vs.
                                              1              1
                                     and the -intercept is −                                      (C)
                                              d              R
-      R and M can be conveniently determined from (A) and (B). Equation (C) is redundant. However,
+
+
+      R and M can be conveniently determined from (A) and (B). Equation (C) is redundant. However,
       it may be used as an (inaccurate) check if needed.
       From the given data:
 
@@ -232,7 +236,9 @@ Graph of     vs.
                                                      = (m0 − m′0 )c2 (m0 + m′0 )c2
                                                      = ∆E[2m0 − (m0 − m′0 )]c2
                                                      = ∆E[2m0 c2 − ∆E]
-                                                        !           "
+
+
+                                                        !           "
                                                          ∆E
                                             hf = ∆E 1 −
                                                         2m0 c2
@@ -266,7 +272,9 @@ Graph of     vs.
        This is very small compared to the gravitational red-shift of       ∼ 10−5 , and may be ignored
                                                                          f
        in the gravitational red-shift experiment.
-Solutions to Theoretical Question 2
+
+
+Solutions to Theoretical Question 2
  (a)
        Snell’s Law may be expressed as
                                                        sin θ    c
@@ -320,7 +328,9 @@ Graph of     vs.
                                     z= 0
                                                  θ0
                                                    R                  R sin θ0
-      Here
+
+
+      Here
 
                                           zs     = R − R sin θ0
                                                  = R(1 − sin θ0 )
@@ -382,7 +392,9 @@ Graph of     vs.
                                                    2          88.09
                                                    3          88.73
                                                    4          89.04
-(e)
+
+
+(e)
       The ray path associated with the smallest launch angle consists of a single arc as shown:
 
                                                              2
@@ -428,7 +440,9 @@ Graph of     vs.
                                                        t13 = 6.6666 s
       thus this axial ray travels slower than the example cited for n = 1, thus the n = 1 ray will arrive
       first.
-Solutions to Theoretical Question 3
+
+
+Solutions to Theoretical Question 3
  (a)
        The mass of the rod is given equal to the mass of the cylinder M which itself is πa 2 ld. Thus the
        total mass equals 2M = 2πa2 ld. The mass of the displaced water is surely less than πa2 lρ (when
@@ -483,7 +497,9 @@ Graph of     vs.
                                               4πda         2a(α − cos α sin α)
 
        where we have used the relation worked out at the end of the first part.
-(c)
+
+
+(c)
 
       Without regard to the torque and only paying heed to vertical forces, if the buoy is swung by some
       angle so that its weight is supported by the nett pressure of the water outside, the volume of water
@@ -544,7 +560,9 @@ Graph of     vs.
       The accelerometer measurements give
 
                                Tθ /Tz ≃ 1.5 or (ωz /ωθ )2 ≃ 9/4 ≃ 2.25 . Hence
-                                                3g sin α       29a
+
+
+                                                3g sin α       29a
                                   2.25 =                           ,
                                            2a(α − sin α cos α) 12g
 
@@ -563,7 +581,9 @@ giving the radius a = 3 × 9.8/4π 3 = .237 m.
 We can now work out the mass of the buoy (in SI units),
 
                2M = 2πa2 ld = 2πa2.a.ρ/4 = πa3 ρ/2 = π × 500 × (.237)3 ≃ 20.9 kg .
-Solutions to Original Theoretical Question 3
+
+
+Solutions to Original Theoretical Question 3
  (a)
        Choose a frame where z is along the normal to the mirror and the light rays define the x–z plane.
        For convenience, recording the energy-momentum in the four-vector form, (px , py , pz , E/c), the
@@ -620,7 +640,9 @@ We can now work out the mass of the buoy (in SI units),
                                         1 + tan θr tan θi      1 + tan θi              c
 
        Thus, θr ≃ θi + 2u sin θi /c and fr = fi (1 − 2u cos θi /c).]
-(b)
+
+
+(b)
 
 
                                            b secθ
@@ -684,7 +706,9 @@ We can now work out the mass of the buoy (in SI units),
                                                          2uE cos θ   2ωbE
                                       ∆E = E − Er ≃                =
                                                             c          c
-      In one revolution, the number of photons intersected is
+
+
+      In one revolution, the number of photons intersected is
                                                 4α    2π   4αn
                                                    ×n    =     .
                                                 2π    ω     ω

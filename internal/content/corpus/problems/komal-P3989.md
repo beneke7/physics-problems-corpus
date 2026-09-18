@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A proton moving with 60% of the speed of light is scattered elastically on another proton which was initially at rest. After scattering the angles of deflection of the two protons measured from the direction of the motion of the initially moving proton are the same. What is this scattering angle and what are the speeds of the protons? 
+A proton moving with 60% of the speed of light is scattered elastically on another proton which was initially at rest. After scattering the angles of deflection of the two protons measured from the direction of the motion of the initially moving proton are the same. What is this scattering angle and what are the speeds of the protons?
  (5 pont)

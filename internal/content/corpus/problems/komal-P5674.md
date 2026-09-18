@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-A heat engine operates between a body of heat capacity $C$, which was initially at a temperature of $T$, and a large heat reservoir of constant temperature $T_0$. 
- Consider the two cases $T=T_0 +\Delta T$ and $T=T_0 -\Delta T$. In which case can we gain more work? 
+A heat engine operates between a body of heat capacity $C$, which was initially at a temperature of $T$, and a large heat reservoir of constant temperature $T_0$.
+ Consider the two cases $T=T_0 +\Delta T$ and $T=T_0 -\Delta T$. In which case can we gain more work?
  (5 pont)

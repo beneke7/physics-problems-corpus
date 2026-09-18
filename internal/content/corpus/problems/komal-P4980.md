@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, strategic-heuristics]
 ---
 
-When there is a thunderstorm, and a lightning strikes a lake, then although it has negligibly small probability that a fish is just struck by the lightning, there are bodies of dead fish floating on the surface of the water. What is the reason? 
+When there is a thunderstorm, and a lightning strikes a lake, then although it has negligibly small probability that a fish is just struck by the lightning, there are bodies of dead fish floating on the surface of the water. What is the reason?
  (3 pont)

@@ -28,7 +28,7 @@ mL2 .
 (b) The point here is that after just a π rotation, the system is back in its original state, because
 the particles are identical. Thus, Lz · π = nh, or Lz = 2nℏ, or E = 4n2ℏ2
 mL2 .
-[3] Problem 10.  h 1 0INPhO 2020, problem 3. A problem on the Bohr model for multi-electron atoms.
+[3] Problem 10.   h 1 0INPhO 2020, problem 3. A problem on the Bohr model for multi-electron atoms.
 In part (c), you should apply Bohr quantization to each electron individually. This isn’t obvious
 from the question statement, but it’s the right thing to do because the two electrons orbit the
 nucleus with opposite spins, and hence occupy independent quantum states.

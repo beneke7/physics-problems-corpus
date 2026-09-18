@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns, model-reduction]
 ---
 
-We construct an infinite resistor chain as follows: the resistance of the resistors of the first "step" are $R$, those of the next are $2R$, $4R$, $\ldots$, etc., always twice the value of the previous one (see figure ). What is the equivalent resistance of the infinite resistor chain? 
+We construct an infinite resistor chain as follows: the resistance of the resistors of the first "step" are $R$, those of the next are $2R$, $4R$, $\ldots$, etc., always twice the value of the previous one (see figure ). What is the equivalent resistance of the infinite resistor chain?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5656-fig1.png)
+![figure](../../figures/komal/figures/komal-P5656-fig1.png)

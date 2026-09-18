@@ -42,7 +42,8 @@ Part A: Uniformly Distributed Holes on the Surface of the Hemisphere
 
 APHO 2024                                                                                       Page 1 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                             Time: 5.0 Hours
+
+Points: 30                                                                             Time: 5.0 Hours
 
 
 
@@ -90,7 +91,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                       Page 2 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                          Time: 5.0 Hours
+
+Points: 30                                                                          Time: 5.0 Hours
 
 
 
@@ -150,7 +152,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                  Page 3 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                        Time: 5.0 Hours
+
+Points: 30                                                                        Time: 5.0 Hours
 
 
 
@@ -185,7 +188,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                               Page 4 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                             Time: 5.0 Hours
+
+Points: 30                                                                             Time: 5.0 Hours
 
 
 
@@ -230,7 +234,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                   Page 5 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                    Time: 5.0 Hours
+
+Points: 30                                    Time: 5.0 Hours
 
 
 
@@ -256,7 +261,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                          Page 6 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                          Time: 5.0 Hours
+
+Points: 30                                                                          Time: 5.0 Hours
 
 
 Part B: Non-Uniformly Distributed Holes on the Surface of the Hemisphere
@@ -301,7 +307,8 @@ Part B: Non-Uniformly Distributed Holes on the Surface of the Hemisphere
 
 APHO 2024                                                                                Page 7 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                             Time: 5.0 Hours
+
+Points: 30                                                                             Time: 5.0 Hours
 
 
 
@@ -351,7 +358,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                    Page 8 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                         Time: 5.0 Hours
+
+Points: 30                                                                         Time: 5.0 Hours
 
 
 
@@ -406,7 +414,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                               Page 9 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                             Time: 5.0 Hours
+
+Points: 30                                                                             Time: 5.0 Hours
 
 
 
@@ -441,7 +450,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                   Page 10 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                            Time: 5.0 Hours
+
+Points: 30                                                                            Time: 5.0 Hours
 
 
 
@@ -494,7 +504,8 @@ Part A: Light Propagation Through a Semi-Sphere
 
 APHO 2024                                                                                     Page 11 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                Time: 5.0 Hours
+
+Points: 30                                                                Time: 5.0 Hours
 
 
 Part B: Light Propagation Through a Cylindrical Rod
@@ -532,7 +543,8 @@ Part B: Light Propagation Through a Cylindrical Rod
 
 APHO 2024                                                                     Page 12 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                            Time: 5.0 Hours
+
+Points: 30                                                                            Time: 5.0 Hours
 
 
 
@@ -568,7 +580,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                  Page 13 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                   Time: 5.0 Hours
+
+Points: 30                                                                                   Time: 5.0 Hours
 
 
 
@@ -585,7 +598,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                        Page 14 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                    Time: 5.0 Hours
+
+Points: 30                                                                                    Time: 5.0 Hours
 
 
 
@@ -638,7 +652,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                         Page 15 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                          Time: 5.0 Hours
+
+Points: 30                                                                                          Time: 5.0 Hours
 
 
 Part C: Light Propagation Through an Optical Fibre
@@ -679,7 +694,8 @@ Part C: Light Propagation Through an Optical Fibre
 
 APHO 2024                                                                                                Page 16 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                            Time: 5.0 Hours
+
+Points: 30                                                                            Time: 5.0 Hours
 
 
 
@@ -729,7 +745,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                  Page 17 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                 Time: 5.0 Hours
+
+Points: 30                                                                 Time: 5.0 Hours
 
 
 
@@ -766,7 +783,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                      Page 18 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                          Time: 5.0 Hours
+
+Points: 30                                                          Time: 5.0 Hours
 
 
 
@@ -799,7 +817,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                               Page 19 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                  Time: 5.0 Hours
+
+Points: 30                                  Time: 5.0 Hours
 
 
 
@@ -811,7 +830,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                       Page 20 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                      Time: 5.0 Hours
+
+Points: 30                                      Time: 5.0 Hours
 
 
 
@@ -843,7 +863,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                           Page 21 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                    Time: 5.0 Hours
+
+Points: 30                                                    Time: 5.0 Hours
 
 
 
@@ -856,7 +877,8 @@ Part A: Moon's Apparent Motion Against the Background Stars
 
 APHO 2024                                                         Page 22 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                    Time: 5.0 Hours
+
+Points: 30                                                                                    Time: 5.0 Hours
 
 
 
@@ -909,7 +931,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                          Page 23 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                 Time: 5.0 Hours
+
+Points: 30                                                                                 Time: 5.0 Hours
 
 
 
@@ -934,7 +957,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                      Page 24 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                            Time: 5.0 Hours
+
+Points: 30                                                                            Time: 5.0 Hours
 
 
 Part B: Using Lunar Occultations to Precisely Determine Radio Source Positions: The Case of 3C
@@ -969,7 +993,8 @@ Part B: Using Lunar Occultations to Precisely Determine Radio Source Positions: 
 
 APHO 2024                                                                                  Page 25 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                Time: 5.0 Hours
+
+Points: 30                                                                                Time: 5.0 Hours
 
 
 Part C: The Breakthrough Discovery of 3C 273's True Nature
@@ -1016,7 +1041,8 @@ Part C: The Breakthrough Discovery of 3C 273's True Nature
 
 APHO 2024                                                                                     Page 26 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                        Time: 5.0 Hours
+
+Points: 30                                                                                        Time: 5.0 Hours
 
 
 
@@ -1036,7 +1062,8 @@ Theory Marking Scheme, English (Official)
 
 APHO 2024                                                                                              Page 27 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                                                                   Time: 5.0 Hours
+
+Points: 30                                                                                                                                   Time: 5.0 Hours
 
 
 Part D: The Intrinsic Luminosity of the Radio Source 3C 273
@@ -1110,7 +1137,8 @@ Part D: The Intrinsic Luminosity of the Radio Source 3C 273
 
 APHO 2024                                                                                                                                         Page 28 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                      Time: 5.0 Hours
+
+Points: 30                                                                                      Time: 5.0 Hours
 
 
 Part E: The Power Source of 3C 273
@@ -1149,7 +1177,8 @@ Part E: The Power Source of 3C 273
 
 APHO 2024                                                                                            Page 29 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                              Time: 5.0 Hours
+
+Points: 30                                                                              Time: 5.0 Hours
 
 
 Part F: Modern Observations and the Nature of 3C 273's Components
@@ -1201,7 +1230,8 @@ Part F: Modern Observations and the Nature of 3C 273's Components
 
 APHO 2024                                                                                   Page 30 of 31
 Theory Marking Scheme, English (Official)
-Points: 30                                                                                                                                 Time: 5.0 Hours
+
+Points: 30                                                                                                                                 Time: 5.0 Hours
 
 
 

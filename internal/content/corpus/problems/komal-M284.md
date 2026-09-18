@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-Make cylindrical lenses by filling bottles of different diameters with water. How does the position of the focus depend on the diameter of the bottle? 
+Make cylindrical lenses by filling bottles of different diameters with water. How does the position of the focus depend on the diameter of the bottle?
  (6 pont)

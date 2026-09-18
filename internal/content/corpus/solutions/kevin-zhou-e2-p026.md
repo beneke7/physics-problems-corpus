@@ -77,25 +77,25 @@ R
 which there are n. By symmetry, these are all at the same voltage. Next, these vertices are
 connected to all the vertices with two 1’s, of which there are n
 2
-
+
 , and so on.
 27
 Kevin Zhou Physics Olympiad Handouts
 We hence have n + 1 effective vertices of different voltages. Consider the vertex representing
 points with k 1’s. The number of connections to points with k + 1 1’s is n
 k
-
+
 (n − k). Then by
 adding series and parallel resistances,
 Req = R
 n−1 X
 k=0
-
+
 n
 k
-
+
 (n − k)
-−1
+ −1
 .
 For example, this recovers the result of part (a) for n = 3.
 [2] Problem 27 (PPP 158). Consider the circuit below, where every resistor is 1Ω.
@@ -268,7 +268,7 @@ be used this way. There is no guarantee that the resistance of the voltmeter is 
 Instead, for most digital multimeters, there is a complex circuit inside that adjusts the internal
 resistance depending on the input and the configuration settings. You probably won’t break
 the voltmeter when you put it in series, but you won’t get reliable results either.
-[2] Problem 30.  ^ 1 0USAPhO Quarterfinal 2009, problems 3 and 4.
+[2] Problem 30.   ^ 1 0USAPhO Quarterfinal 2009, problems 3 and 4.
 [3] Problem 31. INPhO 2021, problem 1. A nice problem on practical circuit measurements. Note
 that the question statement is a bit vague. You are supposed to keep track of quantities of order
 RA/R and R/RV , but you are allowed to neglect quantities as small as RA/RV .

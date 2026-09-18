@@ -26,7 +26,7 @@ techniques: [exploit-symmetry, conservation-laws]
 ## Question A4
 
 Two masses $m$ separated by a distance $l$ are given initial velocities $v_{0}$ as shown in the diagram. The masses interact only through universal gravitation.
-![](usapho-2012-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2012-a4-fig01.png)
 
 a. Under what conditions will the masses eventually collide?
 b. Under what conditions will the masses follow circular orbits of diameter $l$ ?

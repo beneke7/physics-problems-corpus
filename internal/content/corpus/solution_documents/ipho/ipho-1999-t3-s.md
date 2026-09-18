@@ -64,7 +64,9 @@ Problem 3 – Solution                                                          
      respect to the x axis and its speed is v' = v02 + V 2 (we also note that cosθ 0 =                =
                                                                                              v0 + V
                                                                                               2     2   v'
-     Problem 3 – Solution                                                                              Page 2
+
+
+     Problem 3 – Solution                                                                              Page 2
                        v0            v0
      and sin θ 0 =               =      ).
                      v02 + V 2       v'
@@ -120,7 +122,9 @@ Problem 3 – Solution                                                          
                                  G M m                                            2 Ev'2 b 2
                                                                                 1+ 2 2
                                                                                   G M m
-     Problem 3 – Solution                                                                           Page 3
+
+
+     Problem 3 – Solution                                                                           Page 3
 
 
      and therefore the angle ∆θ (shown in figure 2) between the two hyperbola asymptotes is given by:
@@ -174,7 +178,9 @@ Problem 3 – Solution                                                          
                                                 1        1           GMm
                                         E=        mv' 2 = mv' 2min −
                                                 2        2            rmin
-     Problem 3 – Solution                                                                                                    Page 4
+
+
+     Problem 3 – Solution                                                                                                    Page 4
 
      and by combining these two equations we obtain equation (14) again.
              The impact parameter is an increasing function of the distance of nearest approach;
@@ -223,7 +229,9 @@ Problem 3 – Solution                                                          
 
 
      Therefore the final probe speed in the Sun reference frame is
-     Problem 3 – Solution                                                                     Page 5
+
+
+     Problem 3 – Solution                                                                     Page 5
 
                      v" = (v' cos(θ 0 + ∆θ ) − V ) 2 + (v' sin(θ 0 + ∆θ )) 2
 
@@ -238,7 +246,9 @@ Problem 3 – Solution                                                          
 
 8.   Using the value of the maximum possible angular deviation, the numerical result is v” = 2.62·104
      m/s.
-Problem 3 – Solution                                                                           Page 6
+
+
+Problem 3 – Solution                                                                           Page 6
 
 
 Grading guidelines

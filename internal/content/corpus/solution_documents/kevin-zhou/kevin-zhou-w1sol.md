@@ -66,7 +66,9 @@ Physically, this simply says the string tries to straighten out curvature (repre
 more complicated situations, we often start with this equation and treat the extra terms as
 perturbations. The wave equation thus occupies a position like that of the simple harmonic
 oscillator.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 1
 We may factor the wave equation as a difference of squares,
 (∂2
@@ -105,7 +107,9 @@ To derive the acceleration, you can think about how the velocity profile has to 
 string moves, or you can think about how it comes about from the tension in the string. In
 general, the net force depends on the concavity ∂2y/∂x2 of the string. In this case, it’s only
 nonzero at the three kinks.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 (b) To keep the string in that position, we must hold it at three points. Since information can’t
 travel faster than the speed of waves, only the bits of string near those three points can move
 right after release, because they’re the only ones that know about the release. The direction
@@ -181,7 +185,9 @@ Z t
 vy(x − vt′
 )dt′
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 That’s because, by the fundamental theorem of calculus, the only contribution to ∂h/∂t is from the
 change of the upper bound of the integral, so
 ∂h
@@ -209,14 +215,14 @@ We therefore conclude that the general solution is
 y(x,t) =
 1
 2
-
+
 y(x − vt) + y(x + vt) +
 Z t
 0
 (vy(x − vt′
 ) + vy(x + vt′
 ))dt′
-
+
 .
 Using this solution you can show, for example, that if you poke the string and thereby change either
 y or vy at one point in space, the influence of that change spreads out at speed v. In other words,
@@ -237,7 +243,9 @@ In the popular “string shooter” toy, a loop of string is shot through spinni
 v. As a result, the string seems to levitate in the air while maintaining a constant shape. This is
 partially explained by part (a), but the real explanation also involves the weight and drag forces.
 Assume the string experiences a drag force f per unit length, directed against its motion.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 A fit of the string’s profile to data is shown above, where the wheels are at the origin. The string
 moves in the clockwise direction.
 (b) Qualitatively, how does the tension in the string vary around the loop? In particular, find
@@ -270,7 +278,9 @@ provides all the centripetal force, so the normal force vanishes. For another ex
 trick, see problem 105 of 200 Puzzling Physics Problems.
 (b) Consider the force and acceleration of a small piece ds of the string, where ds points along the
 string’s direction of motion. The forces are µg ds acting downward, a drag force −f ds, and
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 tension forces on each side. Because the string is moving with constant speed, its acceleration
 is perpendicular to ds.
 Therefore, there is no net force parallel to ds, and balancing forces in that direction implies
@@ -320,7 +330,9 @@ and enter the wheels at an angle θ2 below the horizontal. Now consider a piece 
 passes through the wheels. The horizontal component of Newton’s second law is
 µv2
 (cosθ1 + cosθ2) = T cosθ1 + (T + fL)cosθ2
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 and the vertical component is
 µv2
 (sinθ1 − sinθ2) = T sinθ1 − (T + fL)sinθ2 + µLg
@@ -377,7 +389,9 @@ constant as you increase the speed of the string.
 For a more advanced and thorough treatment of this system, published in a top journal, see
 this paper. More generally, there are a lot of tricky questions about flexible strings and chains.
 People still write papers disagreeing about the explanation of the chain fountain.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2
 A sinusoidal wave has the form
 y(x,t) = Acos(kx − ωt + ϕ), v =
@@ -428,7 +442,9 @@ energy are equal.
 by parts, as well as the wave equation itself; you should assume y goes to zero at infinity.
 (e) Compute the energy of the static configuration in problem 2(b), assuming the triangle has
 height h and base L, where h ≪ L.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 One warning: as we saw in E6, energy is quadratic, so it does not obey the superposition principle.
 Locally, the amount of energy can be more or less than the sum of the energies of the superposed
 waves, due to interference.
@@ -510,7 +526,7 @@ so the total kinetic and potential energy are equal.
 E =
 Z ∞
 −∞
-
+
 1
 2
 µẏ2
@@ -518,7 +534,7 @@ Z ∞
 1
 2
 Ty′2
-
+
 dx.
 Taking the time derivative and applying the wave equation,
 dE
@@ -558,7 +574,9 @@ p
 2Th2
 L
 where we used h ≪ L in the last step.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 7 (French 7.23). One end of a stretched string is moved transversely at constant velocity
 u for a time τ, and is moved back to its starting point with velocity −u during the next interval τ.
 As a result, a triangular pulse is set up on the string and moves along it with speed v. Show that
@@ -569,31 +587,31 @@ dx
 =
 µ
 2
-
+
 ∂y
 ∂t
-2
+ 2
 +
 T
 2
-
+
 ∂y
 ∂x
-2
+ 2
 =
 T
 2
 1
 v2
-
+
 ∂y
 ∂t
-2
+ 2
 +
-
+
 ∂y
 ∂x
-2
+ 2
 !
 .
 The triangular pulse has height uτ, and the two halves of it have length vτ. Thus, |∂y/∂t| = u and
@@ -634,7 +652,7 @@ number of dimensions. For example, ideal waves in three dimensions obey
 ∂2ψ
 ∂t2
 = v2
-
+
 ∂2ψ
 ∂x2
 +
@@ -643,7 +661,7 @@ number of dimensions. For example, ideal waves in three dimensions obey
 +
 ∂2ψ
 ∂z2
-
+
 = v2
 ∇2
 ψ
@@ -652,7 +670,9 @@ temperature (for a sound wave) or the electric or magnetic field (for an electro
 (a) For simplicity, let’s restrict to waves which have spherical symmetry, so that ψ only depends
 on r and t. Plug such a spherical wave into the wave equation, and simplify until you get an
 equation only in terms of the partial derivatives of ψ(r,t).
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Because the area of a sphere goes as r2, we expect the energy density of a spherical wave
 to fall as 1/r2, and therefore expect the amplitude to fall as 1/r. Therefore, it is useful to
 consider the quantity rψ, which has this falloff factored out. By considering the differential
@@ -727,7 +747,7 @@ where we used the product rule. By similar logic for the other components, we co
 ∂2ψ
 ∂t2
 = v2
-
+
 3 − (x2 + y2 + z2)/r2
 r
 ∂ψ
@@ -737,9 +757,9 @@ x2 + y2 + z2
 r2
 ∂2ψ
 ∂r2
-
+
 = v2
-
+
 2
 r
 ∂ψ
@@ -747,7 +767,7 @@ r
 +
 ∂2ψ
 ∂r2
-
+
 .
 Of course, a shortcut to this result would be to just look up the formula for the Laplacian in
 spherical coordinates, but it’s good to go through this once in your life.
@@ -770,7 +790,9 @@ wave spreading out in two dimensions). The quantity
 rψ does not maintain its profile, but rather
 develops a tail behind it. More generally, the trick above only works in an odd number of dimensions.
 2 Standing Waves
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3
 A standing wave is a solution to the wave equation of the form
 y(x,t) = f(x)cos(ωt).
@@ -801,7 +823,9 @@ n = 2
 n = 3
 n = 4
 n = 5
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Technically, while the boundary conditions in part (a) required n ≥ 1, here we can actually
 take n ≥ 0. The n = 0 solution just corresponds to the whole string being moved up or
 down and staying there, with zero frequency. But this trivial solution is not typically called a
@@ -819,7 +843,7 @@ n = 1
 n = 2
 n = 3
 n = 4
-[2] Problem 10.  W 1 0USAPhO 1997, problem A1.
+[2] Problem 10.   W 1 0USAPhO 1997, problem A1.
 Idea 4
 When a musical instrument plays a note, typically multiple standing waves are excited, so
 the resulting sound is composed of multiple frequencies. As you saw in problem 9, often the
@@ -840,7 +864,9 @@ For simplicity, pretend that the solutions are sinusoidal in space, and that the
 ends just like a string, even though this is not true in reality.
 (b) When the bar in part (a) is hit, a certain note is sounded. What is the length of the bar that
 makes a note one octave higher?
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 (c) [A] ⋆ The actual boundary conditions for a free bar are
 ∂2y
 ∂x2
@@ -901,7 +927,9 @@ Carrying out the derivatives, this condition is equivalent to (cosh(kx)−cos(kx
 sin2
 (kx), which further simplifies to
 cosh(kL)cos(kL) = 1.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 At this point, we can numerically solve to find
 kL = 4.73,7.85,11.00,14.14,17.28,...
 which is quite different from the naive solutions kL = πn. From here we can straightforwardly
@@ -965,7 +993,9 @@ small displacements, it’s an overestimate.
 As the rod is displaced vertically, it slightly shrinks horizontally. As a result, there is a
 “neutral line” in the middle of the rod that is neither stretched or compressed. Bonds above
 the line are stretched, and bonds below the line are compressed.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 The neutral line has radius of curvature R ∼ ℓ2/y. Thus, the strain at the top and bottom
 of the rod is of order h/R ∼ hy/ℓ2. Plugging this in gives
 ω ∼
@@ -1012,7 +1042,9 @@ it. But the source of the human voice is the vibrations of the vocal folds, whos
 vibration frequency is directly controlled by your muscles. The entire rest of your vocal tract
 does not affect what frequencies are present, but rather affects how energy is distributed
 between those frequencies. (For instance, vowels are characterized by having extra energy
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 near two particular frequencies, called formants.) Helium changes the resonant frequencies of
 the vocal tract and thus changes which frequencies emitted by the vocal folds are emphasized.
 It thus changes the timbre, but not the pitch.
@@ -1050,7 +1082,9 @@ a rectangular prism (in three dimensions), all the standing wave solutions can b
 separation of variables. That is, they can all be written as
 ψ(x,y,z,t) = f(x)g(y)h(z)cos(ωt)
 where f, g, and h are sinusoids.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 14. The top of a drum is like a string, in that it has a uniform surface mass density σ
 and surface tension γ.
 (a) Waves on the drum can be described by its height z(x,y,t). Find the wave equation for a
@@ -1078,13 +1112,13 @@ which gives the wave equation
 =
 γ
 σ
-
+
 ∂2z
 ∂x2
 +
 ∂2z
 ∂y2
-
+
 and hence a wave speed of
 v =
 r
@@ -1117,7 +1151,9 @@ for them. Higher modes are excited instead, leading to a “higher”, “thinne
 pose we (unrealistically) model the plate as a square elastic membrane, as in problem 14, of side
 length L obeying the wave equation with wave speed v. Unlike in problem 14, we now assume the
 boundaries of the plate are free.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Do Chladni patterns form at the nodes or antinodes of a standing wave?
 (b) Find the general standing wave solutions z(x,y,t) and their angular frequencies.
 (c) The plate is also fixed in the middle by the support, so z = ∂z/∂x = ∂z/∂y = 0 there, which
@@ -1157,7 +1193,9 @@ frequency standing wave corresponds to (n,m) = (1,1) and ω =
 corresponds to (n,m) = (1,3) and (3,1) and thus ω =
 √
 10πv/L.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (d) In this case, the Chladni pattern is a centered plus sign.
 (e) Setting π/L = 1 for convenience, the standing wave profiles are
 f(x,y) = cos(3x)cos(y), g(x,y) = cos(x)cos(3y).
@@ -1180,11 +1218,11 @@ z = ∇2
 z = ∂2
 x + ∂2
 y
-
+
 ∂2
 x + ∂2
 y
-
+
 z =
 ∂4z
 ∂x4
@@ -1206,7 +1244,9 @@ ei((k−∆k)x−(ω−∆ω)t)
 + ei((k+∆k)x−(ω+∆ω)t)
 = 2ei(kx−ωt)
 cos(∆kx − ∆ω t).
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 This is simply a sinusoid of wavenumber k with a slowly varying envelope, whose character-
 istic size is 1/∆k, reflecting how the two component waves slowly move in and out of phase.
 The wave is still infinite in size, but this can be remedied by superposing infinitely many
@@ -1245,7 +1285,9 @@ In R1, you learned that nothing can go faster than the speed of light. But the p
 can exceed it; for instance, in problem 16 you will find a phase velocity that can be infinite!
 This is compatible with relativity, because the phase velocity isn’t the speed of an actual
 object. It’s just a formal quantity, namely the rate of change of the position of points of
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 constant phase in an infinite plane wave. To reinforce the point, suppose we arranged to
 stand at different places and clap at the same time. Then we could say “the clap moved
 from me to you at infinite speed”, but clearly nothing about this contradicts relativity.
@@ -1297,7 +1339,9 @@ k2
 + ω2
 0
 and the minimum possible angular frequency is ω = ω0.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The phase velocity vp = ω/k is
 vp =
 ω
@@ -1372,7 +1416,9 @@ estingly, this is a case where dimensional analysis can give us a numeric prefac
 3 Reflection and Transmission
 When we considered standing waves in the previous section, we were only considering “steady state”
 behavior. Now we consider the dynamics of a wave hitting an obstacle more explicitly.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Example 3
 Suppose a string defined for x < 0 ends at a hard wall at x = 0. Show that any wave directed
 towards the wall will be reflected back upside-down.
@@ -1408,7 +1454,9 @@ string at x = 0, which we set to zero. Thus, f = g, so the wave is reflected wit
 [3] Problem 19. Consider the triangular “plucked” shape of problem 2 again, but suppose that the
 string starts at rest, and its two outer corners are always held fixed.
 (a) Sketch what happens after the string is released. What is the period of the motion?
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Confirm explicitly that the initial potential energy of the string is equal to the kinetic energy
 of the string when it is purely horizontal.
 (c) What would prevent a real string from achieving this ideal motion? What will the string look
@@ -1465,7 +1513,9 @@ dxy0(x)sin
 L
 .
 Explain why this works, and find the constant of proportionality.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Now let’s consider the plucked string considered in part (a) of problem 19. If the pluck is
 centered at the middle of the string and has height h, find the coefficients cn. (If you’re so
 inclined, you can use a computer to see how the resulting y(x,t) approaches the answer to
@@ -1508,7 +1558,7 @@ L
 Z L
 0
 dx
-
+
 cos
 πx
 L
@@ -1516,7 +1566,7 @@ L
 πx
 L
 (m + n)
-
+
 which will always equal to 0 when m ̸= n, since the arguments of sine (the anti-derivative of
 cosine) will always be an integer multiple of π. To find the constant of proportionality, we
 only need to look at the nth term of the expansion of y0(x):
@@ -1544,18 +1594,18 @@ Z L/2
 2hx
 L
 sin
-πnx
+ πnx
 L
-
+
 dx +
 2
 L
 Z L
 L/2
 (2h − 2hx/L)sin
-πnx
+ πnx
 L
-
+
 dx
 Using symmetry again, the two integrals above are equal, so we only need to evaluate the
 first. We have
@@ -1566,9 +1616,9 @@ L2
 L
 πn
 xcos
-πnx
+ πnx
 L
- L/2
+  L/2
 0
 +
 L
@@ -1576,9 +1626,9 @@ L
 Z L/2
 0
 cos
-πnx
+ πnx
 L
-
+
 dx
 !
 +
@@ -1586,15 +1636,15 @@ dx
 L
 Z L
 L/2
-
+
 1 −
 x
 L
-
+
 sin
-πnx
+ πnx
 L
-
+
 dx
 Considering only odd n, the first term will vanish since cos(πn/2) = 0 for odd n. Also, by
 symmetry the integral that goes from L/2 to L should be equal to the one that goes from 0
@@ -1603,11 +1653,13 @@ cn =
 8h
 π2n2
 sin
-πn
+ πn
 2
-
+
 while cn = 0 for even n.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Again, integrating sinusoids with different values of n will get 0, and the same value will get
 L/2. Thus when representing y0(x) as a sum of sinusoids and having the integral of all the
 cross terms go to 0, we get that
@@ -1719,7 +1771,9 @@ yt(x,t) = tei(k′x−ωt)
 where k′ might differ from k, and t is the transmission coefficient. In general, both r and t
 may depend on k as well as the boundary conditions. Note that the phases of r and t depend
 on the conventions we used to define yr(x,t) and yt(x,t), though the magnitudes don’t.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 21. Suppose the string at x < 0 has a tension T1 and mass density µ1, while the string
 at x > 0 has a tension T2 and mass density µ2. (If you were doing this at home, it would be difficult
 to have T1 ̸= T2 since the whole setup would accelerate longitudinally. But for the sake of the
@@ -1779,7 +1833,9 @@ this case we have r = 1 as expected. Oddly we also have t = 2, but this isn’t 
 because in a soft boundary, the string at x > 0 doesn’t exist. (It makes no difference from the
 standpoint of the reflection coefficient whether or not the string at x > 0 exists, because the
 wave carries no energy in the limit µ2 → 0.)
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 (d) First, we need to find the energy for a wave of given amplitude. The kinetic and potential
 energies in a wave are equal, so we can look at either. The potential energy per unit length is
 proportional to Ty′2 ∝ T(Ak)2 where A is the amplitude and k is the wavenumber. Since the
@@ -1828,7 +1884,9 @@ on a spring, or give it a damping force (in which case the wave energy is no lon
 In all cases, the technique is just to take exponential solutions on both sides and apply the
 relevant boundary conditions. I won’t assign such problems, since they usually involve lots
 of messy algebra, but the idea is very important in physics.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 4 Interference
 Idea 8
 The intensity of a wave is proportional to its amplitude squared, so if two waves with
@@ -1866,7 +1924,9 @@ gives the result.
 As for the phase difference of π/2, it’s easiest to see this with phasors. The facts that |r + t|2
 and |r|2 +|t|2 = 1 mean that, when r and t are added up in the complex plane, they form the
 sides of a right triangle.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 (c) For a single incident wave, the amplitude from the incident side is (1+r)A, while the amplitude
 on the other side is tA. So by continuity, we have 1 + r = t, which is equivalent to 1 = t − r.
 Taking the squared magnitude of both sides recovers the answer to part (b).
@@ -1916,10 +1976,10 @@ This is the final answer, but we can interpret it a bit better by rearranging it
 r
 t
 = −
-
+
 r′
 t′
-∗
+ ∗
 .
 By comparing the magnitudes of each side, we conclude that
 |r| = |r′
@@ -1939,7 +1999,9 @@ figured it out a few decades ago, you could have published it and gotten a hundr
 coefficients r and t, placed a distance L apart, with air in between them and outside them. This
 system is called a Fabry–Perot interferometer. A wave with wavenumber k hits the apparatus; we
 want to find the reflection and transmission coefficients rnet and tnet of the entire system.
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Draw all paths that the light could take to be reflected, and to be transmitted.
 (b) By applying the principle of superposition and summing a geometric series, show that
 rnet = r +
@@ -1971,7 +2033,7 @@ eikL
 1 + α2
 + α4
 + ...
-
+
 =
 t2eikL
 1 − r2e2ikL
@@ -1981,7 +2043,7 @@ eikL
 α + α3
 + α5
 + ...
-
+
 = r +
 rt2e2ikL
 1 − r2e2ikL
@@ -2000,7 +2062,9 @@ This is a striking result: you can put two nearly perfect mirrors next to each o
 of the right color will still go right through. This is because the light that goes go through the
 first can bounce around inside many times, eventually completely canceling the zeroth order
 reflected wave. This phenomenon is called resonant transmission.
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 (d) In this case, we have |tnet|2 = 1, so energy conservation implies rnet = 0, which means
 0 = r +
 (t2/r)r2e2ikL
@@ -2034,7 +2098,7 @@ eikL
 − |r|) + (|r|5
 − |r|3
 ) + ...
-
+
 .
 So for the first ∆t, the reflected amplitude has magnitude |r|, and for the next ∆t, it has
 magnitude |r|3, and so on. Then we have
@@ -2052,7 +2116,7 @@ PL
 where we used |t| ≪ 1.
 (f) Every time ∆t, the reflected pulse weakens by a factor of |r|4, where 1 − |r|4 ≈ 2|t|2. Then
 the timescale of decay is roughly T ∼ ∆t/|t|2 ∼ L/(|t|2c).
-[3] Problem 24.  W 1 0USAPhO 2004, problem A3.
+[3] Problem 24.   W 1 0USAPhO 2004, problem A3.
 [3] Problem 25 (Kalda). In fiber optics, devices called equal ratio splitters are often used; these are
 devices where two optical fibers are brought into such a contact so that if an electromagnetic wave
 is propagating in one fiber, it splits into two equal amplitude waves traveling in each of the fibers.
@@ -2063,7 +2127,9 @@ advanced in phase by π/4, while the other is retarded by π/4.
 suppose that the fibers are set up so that, when a wave enters along fiber 1, the wave that
 exits along fiber 1 is advanced. If a wave enters along fiber 2, is the wave that exits along
 fiber 1 advanced or retarded?
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Now consider two sequentially positioned, identical equal ratio splitters, as shown.
 This is called a Mach–Zehnder interferometer. The optical path difference between the inter-
 splitter segments of the two fibers is 30µm. Assuming the wavelength of the incoming
@@ -2125,7 +2191,9 @@ second splitter.
 • Part of the incident wave goes into fiber 2 at the first splitter, getting retarded by π/4.
 It picks up some phase between the two splitters, then (by the result of part (b)) gets
 retarded by π/4 again at the second splitter.
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 For all the light to come out along fiber 2, these two components that come out along fiber 1
 have to cancel out. That means they need opposite phases, which implies
 π/4 + kℓ + π/4 − (−π/4 + k(ℓ + ∆ℓ) − π/4) = (2n + 1)π.
@@ -2164,7 +2232,9 @@ the beams need time ∆t± = 2πR/(c ± ΩR). The phase shift is
 c2
 where we used ΩR ≪ c. (Note that the result is proportional to the area of the ring; it can
 be shown that this remains true for an arbitrary ring shape.)
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 (b) In the rest frame of such a material, light travels with speed c/n. To find the speed in the lab
 frame, we need to perform relativistic velocity addition, which gives
 v± =
@@ -2174,11 +2244,11 @@ v± =
 c
 n
 ∓ ΩR
-
+
 1 −
 1
 n2
-
+
 .
 We derived this same result back in R1. The beams now need a time
 ∆t± =
@@ -2227,7 +2297,9 @@ because it’ll be moving opposite the force they exert. They’re just absorbin
 you put in, so conservation of energy is satisfied because E − E = 0.
 • If you created the wave by displacing the rope vertically by y(t), then your friend displaces
 it (relative to the wave) by −y(t). But in this case, the net displacement of the rope
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 at your friend’s hand will just be zero, because their displacement cancels with the
 displacement of your wave pulse passing by. In this case, your friend is actually just
 holding the rope in place. They don’t do any work, since their hand doesn’t move. The

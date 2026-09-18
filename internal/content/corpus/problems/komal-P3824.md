@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-Two carts are connected with a piece of rope and stay at rest on a horizontal tabletop. Their masses are m $_{1}$ and m $_{2}$. A highly compressed spring is placed between the carts. (The rope keeps the spring in the compressed state.) Than the rope is burnt, and the m $_{1}$ mass moves with an initial speed of v $_{1}$. Find the energy stored in the spring. 
+Two carts are connected with a piece of rope and stay at rest on a horizontal tabletop. Their masses are m $_{1}$ and m $_{2}$. A highly compressed spring is placed between the carts. (The rope keeps the spring in the compressed state.) Than the rope is burnt, and the m $_{1}$ mass moves with an initial speed of v $_{1}$. Find the energy stored in the spring.
  (3 pont)

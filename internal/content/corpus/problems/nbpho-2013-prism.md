@@ -25,8 +25,8 @@ techniques: [stability-analysis]
 
 i) (4 points) A right prism that has an equilateral triangular base with length $a$ is placed in a horizontal slit between two tables, so that one of the side faces is vertical. How small can the width $d$ of the slit be made before the prism falls out of the slit? There is no friction between the prism and the tables and the prism is made of a homogeneous material. The edges of the slit are parallel.
 
-![PRISM (i)](nbpho-2013-prism-fig1.jpg)
+![PRISM (i)](../../figures/nbpho/figures/nbpho-2013-prism-fig1.jpg)
 
 ii) (4 points) Now the prism is placed in the slit so that one of its side faces is horizontal. How small can the width $l$ of the slit be made before that position becomes unstable?
 
-![PRISM (ii)](nbpho-2013-prism-fig2.jpg)
+![PRISM (ii)](../../figures/nbpho/figures/nbpho-2013-prism-fig2.jpg)

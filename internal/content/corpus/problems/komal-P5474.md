@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, differential-element, limiting-and-special-cases]
 ---
 
-One end of a uniform density, thin stick of mass $m$ and of length $\ell$ is fixed with a hinge on a horizontal surface. The other end is struck by a brief horizontal force of magnitude $F$, which is perpendicular to the rod. At this instant what is the acceleration of the centre of the stick, what is its angular acceleration and what is the force exerted by the hinge on the stick? 
+One end of a uniform density, thin stick of mass $m$ and of length $\ell$ is fixed with a hinge on a horizontal surface. The other end is struck by a brief horizontal force of magnitude $F$, which is perpendicular to the rod. At this instant what is the acceleration of the centre of the stick, what is its angular acceleration and what is the force exerted by the hinge on the stick?
  (4 pont)

@@ -40,16 +40,16 @@ to momentum, p = E/c, and changes in momentum directly correspond to pressures b
 usual kinetic theory argument. So when photons bounce off the inside walls of a blackbody,
 they impart pressure P ∝ σT4.
 (b) First, using the chain rule we have
-
+
 ∂U
 ∂V
-
+
 T
 =
-
+
 ∂Q
 ∂V
-
+
 T
 − P.
 That is, we need to compute (∂Q/∂V )|T , the rate at which heat is absorbed along an isotherm.
@@ -73,10 +73,10 @@ dT
 T = 4AT4
 dV.
 Combining this with the result above gives
-
+
 ∂U
 ∂V
-
+
 T
 = 4AT4
 − P = 3AT4

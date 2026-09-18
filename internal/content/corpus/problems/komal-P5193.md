@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates]
 ---
 
-Six ohmic resistors were soldered as shown in the figure. What is the equivalent resistance measured between the terminals of the $20~\Omega$ resistor? 
+Six ohmic resistors were soldered as shown in the figure. What is the equivalent resistance measured between the terminals of the $20~\Omega$ resistor?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5193-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5193-fig1.gif)

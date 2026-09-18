@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4075. Telepíthetünk-e műholdat Kazincbarcika fölé (a Föld középpontját a város középpontjával összekötő egyenesre)? 
+P. 4075. Telepíthetünk-e műholdat Kazincbarcika fölé (a Föld középpontját a város középpontjával összekötő egyenesre)?
  Nagy László fizikaverseny, Kazincbarcika

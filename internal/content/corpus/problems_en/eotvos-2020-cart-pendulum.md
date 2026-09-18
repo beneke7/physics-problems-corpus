@@ -21,7 +21,7 @@ verification_status: pending
 
 A freely rolling cart of mass $2m$ has a mast attached to it. At the top of the mast, a small ball of mass $m$ is suspended by a string of length $\ell$. The cart is placed on a not-too-steep incline at angle $\alpha$, and we wait for the pendulum oscillations to die out. Finally, the cart is released.
 
-![figure](sources/eotvos/figures/eotvos-2020-p2-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2020-p2-fig1.jpg)
 
 a) How far does the string deviate from the vertical during the motion?
 b) What distance does the cart travel before the string becomes vertical again?

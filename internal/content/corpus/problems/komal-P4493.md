@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: pending
 ---
 
-At least by what factor is the equivalent capacitance of three condensers of different capacitances connected in parallel greater than the equivalent capacitance of the same condensers connected in series? 
+At least by what factor is the equivalent capacitance of three condensers of different capacitances connected in parallel greater than the equivalent capacitance of the same condensers connected in series?
  (4 pont)

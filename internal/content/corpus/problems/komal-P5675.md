@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates]
 ---
 
-There are point-like charges of $400~\mathrm{nC}$ at the vertices of an equilateral triangle of side $30~\mathrm{cm}$. The adjacent charges are connected by insulating threads. 
- a) What is the tension in the threads? 
- b) What is the tension in the threads, when a $200~\mathrm{nC}$ point-charge is placed at the centroid of the triangle? 
+There are point-like charges of $400~\mathrm{nC}$ at the vertices of an equilateral triangle of side $30~\mathrm{cm}$. The adjacent charges are connected by insulating threads.
+ a) What is the tension in the threads?
+ b) What is the tension in the threads, when a $200~\mathrm{nC}$ point-charge is placed at the centroid of the triangle?
  (4 pont)

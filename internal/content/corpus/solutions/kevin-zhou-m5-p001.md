@@ -70,7 +70,7 @@ Solution. The motion of the rigid body can be expressed as rotation about some p
 be on the vertical line connecting the two contact points, with distances to those points satisfying
 ω = v1/r1 = v2/r2, where r1 + r2 is the distance between the contact points. Then, all points with
 speed v1 lie on the circle centered at O with radius r1, and radius r2 for v2.
-[2] Problem 3.  W 1 0USAPhO 2010, problem A1.
+[2] Problem 3.   W 1 0USAPhO 2010, problem A1.
 4
 Kevin Zhou Physics Olympiad Handouts
 2 Moments of Inertia

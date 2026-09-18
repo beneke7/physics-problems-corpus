@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates]
 ---
 
-In a building block set, every element is made of solid wood. Each of them has the same mass and has the shape of a cuboid. One side of each cuboid has a length of 6 cm, but the other two sides of the cuboids may be different. Luis put four blocks on top of one another, at the top there was a cube-shaped block. The whole bottom face of each block touched the face of the block below. Luis was amused by the tower, and also noticed that the tower is special for the pressure at the bottom face of each block is the same. Draw the sketch of the tower and also indicate in your figure the lengths of the sides of the cuboids. 
+In a building block set, every element is made of solid wood. Each of them has the same mass and has the shape of a cuboid. One side of each cuboid has a length of 6 cm, but the other two sides of the cuboids may be different. Luis put four blocks on top of one another, at the top there was a cube-shaped block. The whole bottom face of each block touched the face of the block below. Luis was amused by the tower, and also noticed that the tower is special for the pressure at the bottom face of each block is the same. Draw the sketch of the tower and also indicate in your figure the lengths of the sides of the cuboids.
  (3 pont)

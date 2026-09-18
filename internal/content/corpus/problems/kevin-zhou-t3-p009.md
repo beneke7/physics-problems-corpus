@@ -40,7 +40,9 @@ solution_language: en
           number of moles in gas form change?
 
                                                      7
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
 
        Example 4: APhO 2004.3

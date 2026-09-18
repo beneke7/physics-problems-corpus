@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-How does the capacitance of a parallel plate capacitor change if the space between its plates is filled with two types of uniform, insulating material of two different dielectric constants, and the surface which separates them is 
- $a)$ perpendicular to the plates; 
- $b)$ parallel to the plates of the condenser? 
+How does the capacitance of a parallel plate capacitor change if the space between its plates is filled with two types of uniform, insulating material of two different dielectric constants, and the surface which separates them is
+ $a)$ perpendicular to the plates;
+ $b)$ parallel to the plates of the condenser?
  (4 pont)

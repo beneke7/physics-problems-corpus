@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, differential-element]
 ---
 
-The natural angular frequency of a physical pendulum made of a rod (a rigid uniform-density rod pivoted at one end) is $\omega$. In the steady state of the oscillation, what is the amplitude of the oscillation of the bottom end of the rod if the pivoted end of the pendulum is moved horizontally with a displacement, which varies with time according to the following formula: $x(t) = A\cos {(2\omega t)}$? Air resistance is small but not negligible and $A\omega ^2\ll g$. 
+The natural angular frequency of a physical pendulum made of a rod (a rigid uniform-density rod pivoted at one end) is $\omega$. In the steady state of the oscillation, what is the amplitude of the oscillation of the bottom end of the rod if the pivoted end of the pendulum is moved horizontally with a displacement, which varies with time according to the following formula: $x(t) = A\cos {(2\omega t)}$? Air resistance is small but not negligible and $A\omega ^2\ll g$.
  (6 pont)

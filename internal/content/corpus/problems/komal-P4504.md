@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-The n -storey symmetrical tower shown in the figure was built from dominoes of length  . How long are the balconies of the tower if each domino is pulled out as much as possible? 
+The n -storey symmetrical tower shown in the figure was built from dominoes of length  . How long are the balconies of the tower if each domino is pulled out as much as possible?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4504-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4504-fig1.gif)

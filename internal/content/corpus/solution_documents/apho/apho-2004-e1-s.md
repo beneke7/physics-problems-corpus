@@ -74,7 +74,8 @@ can deduce m = 1.
 3. Study the dependence of ∆R/R on B.
     The Hall sensor, with its sensitivityα obtained from part 1., is used to measure the
 magnetic induction B. It serves to study the magnetoresistivity as well. Because the
-resistance between N and M does not change during the experiment (and equals about 350
+
+resistance between N and M does not change during the experiment (and equals about 350
 Ω) we can study the dependence ∆R instead of ∆R/R on B .
     a. Keep the axis of the magnet perpendicular to the surface of the sensor by the
 procedure described in part 1. Provide a current I = 1 mA to the Hall sensor and measure the

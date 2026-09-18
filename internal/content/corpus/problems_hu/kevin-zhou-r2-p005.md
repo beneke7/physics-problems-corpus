@@ -22,5 +22,5 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Hungarian translation of a candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 ---
 
-01W
+01W
     ω szögfrekvenciával. Mekkora volt a foton szögfrekvenciája a bomló részecske nyugalmi rendszerében?

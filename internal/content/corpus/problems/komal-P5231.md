@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-An apple is held at its stem on three threads of equal length. The threads are alike, they break at the same load. The upper ends of the threads are slowly separated from each other in a horizontal plane so that the angle between any two pairs of threads is the same. The threads are torn when they are (pairwise) just perpendicular to each other. If we were to attach the same apple to two of the same threads and then separate the upper ends of the threads in the same horizontal plane, what angle would the threads make with each other when they tore apart? 
+An apple is held at its stem on three threads of equal length. The threads are alike, they break at the same load. The upper ends of the threads are slowly separated from each other in a horizontal plane so that the angle between any two pairs of threads is the same. The threads are torn when they are (pairwise) just perpendicular to each other. If we were to attach the same apple to two of the same threads and then separate the upper ends of the threads in the same horizontal plane, what angle would the threads make with each other when they tore apart?
  (4 pont)

@@ -79,27 +79,27 @@ as desired.
 (d) Since no work or heat transfer occurred, the internal energy must stay the same. Thus the
 temperature stayed the same. Using our previously obtained result, we get
 ∆S = nCV log
-
+
 TV ′γ−1
 TV γ−1
-
+
 = nRlog
-
+
 V ′
 V
-
+
 .
 This can also be found by considering an isothermal process to get to the final state and
 finding the entropy change using dS = dQ/T. Since entropy is a state function, the final
 changes in entropy are equivalent.
 (e) Use the ideal gas law to substitute V = nRT/P, giving
 S/n = CV log
-
+
 P
 nγRγTγ
 Pγ
 f(n)
-
+
 + constant.
 For constant P and T, the argument of the logarithm is independent of n when
 f(n) = n−γ
@@ -107,10 +107,10 @@ f(n) = n−γ
 The resulting general expression for the entropy of an ideal gas, up to the remaining constant
 (which can’t be found without using quantum statistical mechanics) is called the Sackur–
 Tetrode equation.
-[3] Problem 10.  W 1 0USAPhO 2014, problem A2.
-[3] Problem 11.  W 1 0USAPhO 2017, problem A2. A simple but tricky problem. (For a more involved
+[3] Problem 10.   W 1 0USAPhO 2014, problem A2.
+[3] Problem 11.   W 1 0USAPhO 2017, problem A2. A simple but tricky problem. (For a more involved
 problem based on the same fundamental idea, see Physics Cup 2019, problem 2.)
-[3] Problem 12.  ^ 1 0USAPhO 2020, problem B3. An advanced problem which shows you how to
+[3] Problem 12.   ^ 1 0USAPhO 2020, problem B3. An advanced problem which shows you how to
 compute corrections for a slightly nonideal gas. (Note that you can use the quantity T in any of
 the parts, not just (e) and (f).)
 12

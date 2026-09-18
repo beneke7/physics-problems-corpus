@@ -106,7 +106,9 @@ v0 mg ; with mg = 1.52 km/l we obtain h ≈
                                                                                                                                                                                             45             25
     • Determining the coeff. of proportionality and a wave with amplitude (1 − r)rEi is boun-
       based on C(0) = 33 L/100 km and a(0) = cing back through the glass. Now it will go back to               wave right under the surface in the glass. The This is a significant change.
-                                                                                                                                                                                             Qq
+
+
+                                                                                                                                                                                             Qq
     For the guitar string the speed of the wave can uzC /(R + zC ), where the capacitor’s imped-                     laser horizontal using the given clamps and ad-         where C = 2πmϵ      0
                                                                                                                                                                                                    . The value hence must equal
 depend on the mass m of the string, the length ance zC = 1/(jωC). Calculating, we get                                just the height of the laser so it passes through the   the initial value. The figure indicates that ϕ(0) =
@@ -202,7 +204,9 @@ ary component to the voltages u = U ejωt two pencils and the resulting diffract
 and uC = UC ej(ωt+φ) (with j being the is displayed on the screen (which is fixed vertic-                                             C                                 stable for the repulsive case of qQ > 0 (else the
                                                                                                                             v2 +            = const. = 2E/m,
 imaginary unit), there is a relation uC = ally to the stand). We can keep the pencils and                                         |r − rQ |                             opposite).
-7. Helium       The heat required for vaporiz-       iii) Identifying the gravitational acceleration        of Earth, and let us compare this speed with            point is simply ∆x = x − x′ .
+
+
+7. Helium       The heat required for vaporiz-       iii) Identifying the gravitational acceleration        of Earth, and let us compare this speed with            point is simply ∆x = x − x′ .
 ation comes from the heat energy of the liquid:      as the centripetal acceleration, GM /R2 =              the rotation speed of Earth ω. The angular mo-               Now, the distance x can be found using the
 λdm = mc(T )dT . By separating the variables         ωo2 R =⇒ ωo2 = GM /R3 (with ωo being                   mentum of the falling body is conserved, hence          Kepler’s second law, stating that the area covered
 m and T and integrating, we get:                     the orbital angular speed). The time of reaching       ω ′ r2 = ωR2 . We can substitute r = R − y,             by radius vector per unit time ∆S/∆t is constant,
@@ -278,7 +282,9 @@ ive force that is proportional to the displacement,                             
 we have harmonic motion (like in a spring pendu-                                                            x′ = (v − ∆v)t = vt − ωht during the fall. to white through the diode. That leaves us three
                                                      vector drwan from the falling body to the centre
 lum).                                                                                                       Thus, the horizontal displacement of the landing options.
-                                                  Since neither is 0 we can eliminate options B and                                                      The calculated datapoints:
+
+
+                                                  Since neither is 0 we can eliminate options B and                                                      The calculated datapoints:
                                                   C.
                                                   ii) From voltages U1 and U2 and currents                                                                               I0 = 0, U0 = 0
                                                   Iblack→white and Iblue→white we can calculate R1                                                                I1 = 1.80 mA, U1 = 697 mV

@@ -35,7 +35,7 @@ kanonikus transzformációknak nevezzük. Általában rugalmasabbak a Lagrange-f
 mert a helyet és az impulzust keverhetjük.
 
   • Legyen x = (q1 , . . . , qn , p1 , . . . , pn )T, és definiáljuk a J mátrixot:
-                                                                      
+
                                                                 0   In
                                                         J=
                                                                −In 0
@@ -62,13 +62,12 @@ mert a helyet és az impulzust keverhetjük.
     ahol (∂x f )i = ∂f /∂xi . A láncszabály szerint ∂x = J T ∂y , amiből az állítás következik. Ha ezután csak
     kanonikus transzformációkat tekintünk, nem kell megadnunk, mely koordináták szerinti Poisson-
     zárójelet használjuk.
-20 1. Klasszikus mechanika
 
 
  • Fordítva, ha egy transzformáció megőrzi a kanonikus Poisson-zárójeleket {yi , yj }x = Jij , akkor
    kanonikus. Ennek belátásához alkalmazzuk a láncszabályt:
 
                                      Jij = {yi , yj }x = J JJ T ij
-                                                               
+
 
     ami pontosan a kanonikus transzformáció feltétele.

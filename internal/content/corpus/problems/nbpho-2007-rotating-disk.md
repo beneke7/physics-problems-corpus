@@ -34,7 +34,7 @@ the lamp, each pulse corresponds to a colored dot on the photo. The colors of
 the dots are provided with lettering: O - orange, S - blue, P -red, R - green,
 and K - yellow). The friction forces acting on the disk can be neglected.
 
-![figure](../../sources/nbpho/figures/nbpho-2007-rotating-disk-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2007-rotating-disk-fig1.png)
 
 1) Mark on the figure by numbers (1-4) the order of the pulses (dots). Motivate
 your answer. What can be said about the value of the exposure time?

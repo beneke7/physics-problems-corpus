@@ -28,7 +28,9 @@ If the wheel is released from rest, it falls downward in such a way that the str
 
 
                                                         3
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
 
      (a) Find the approximate acceleration during descent.

@@ -32,7 +32,6 @@ Mivel az r0 hossz rögzített, nincs radiális függés; a megoldás egyszerűen
                              El =              ,   ψlm (θ, ϕ) = Ylm (θ, ϕ).
                                        2µr02
 Ez a centrális erőtér problémájának speciális eseteként is felfogható, szinguláris potenciállal.
-180 7. Szögimpulzus
 
 Megjegyzés. A rejtett szimmetria egy másik, hétköznapibb példája a kétdimenziós végtelen mély
 négyzetes potenciálgödör. Az energia-sajátállapotokat egész számokkal indexelt |n1 , n2 ⟩ állapotok
@@ -83,7 +82,6 @@ Most kétatomos molekulákat vizsgálunk.
                                               α=           ≈     .
                                                    4πϵ0 ℏc   137
          Gauss-egységekben ez e2 /ℏc-re egyszerűsödik. Atom- egységekben egyszerűen 1/c.
-181 7. Szögimpulzus
 
      – Hosszúság: a0 = ℏ2 /me2 ≈ 0.5 Å, a Bohr-sugár.
      – Energia: K0 = e2 /a0 = me4 /ℏ2 ≈ 27 eV, a Rydberg-állandó kétszerese.
@@ -128,7 +126,7 @@ Most a hidrogén klasszikus példáját vizsgáljuk.
  • A radiális Schrodinger-egyenlet
 
                                   ℏ2 d2 f         l(l + 1)ℏ2 Ze2
-                                                                  
+
                                 −         +                 −          f = Ef
                                   2µ dr2             2µr2     r
 
@@ -139,12 +137,11 @@ Most a hidrogén klasszikus példáját vizsgáljuk.
      – A jellemző energia K = eel enuc /a = Z 2 K0, így nagyobb Z esetén az energiák nagyobbak.
      – A jellemző sebesség v = eel enuc /ℏ = Zv0 = (Zα)c, ezért nehéz atommagok esetén a
        nemrelativisztikus közelítés felbomlik.
-182 7. Szögimpulzus
 
  • A hosszúságot a, az energiát K egységeiben mérve:
 
                                d2 f
-                                                          
+
                                           l(l + 1) 2
                                     +   −         +   + 2E   f = 0.
                                dr2           r2     r
@@ -157,7 +154,7 @@ Most a hidrogén klasszikus példáját vizsgáljuk.
    amivel az egyenlet alakja
 
                                    d2 f
-                                                         
+
                                             l(l + 1) ν  1
                                         + −         + −     f = 0.
                                    dρ2         ρ2    ρ 4
@@ -197,14 +194,13 @@ Most a hidrogén klasszikus példáját vizsgáljuk.
                                                        2ℏ2 n2
    alakúak, ahol m valójában a redukált tömeg, amely az elektron tömegétől 0,1%-nál kisebb mértékben
    tér el.
-183 7. Szögimpulzus
 
   • A radiális hullámfüggvények explicit alakja
                                            1                            1
                       R10 = 2e−r ,   R20 = √ (2 − r)e−r/2 ,       R21 = √ re−r/2
                                           2 2                          2 6
     és
-                                                                 
+
           2               2 2 −r/3                2              2 2 −r/3                4
     R30 = √       3 − 2r + r e     ,       R31 = √           4r − r e     ,    R32 =     √ r2 e−r/3 .
          9 3              9                     27 6             3                     81 30
@@ -212,7 +208,7 @@ Most a hidrogén klasszikus példáját vizsgáljuk.
     hozzá.
 
   • Az alábbi, több helyen hasznos eredményt kapjuk:
-                                                       3/2
+                                                         3/2
                                                         Z
                                           Rn0 (0) = 2
                                                         n
@@ -252,7 +248,6 @@ környezetüket.
 
     amely a szokásos Schrodinger-egyenlet szétválasztásából származik. Csak a V = V (r) forgásszimmetrikus
     esetet vizsgáljuk.
-184 7. Szögimpulzus
 
  • Ha a hullámegyenletet szétválasztjuk, a térbeli rész a Helmholtz-egyenlet, amely a fenti V = 0 eset.
    Ha ezenfelül E = 0, akkor a Laplace-egyenletet kapjuk, amelynek megoldásai harmonikus függvények.
@@ -297,7 +292,6 @@ környezetüket.
 
  • Alkalmazásként, ha ezt a felbontást az origó közelében lévő töltéseloszlás által létrehozott potenciálra
    alkalmazzuk, megkapjuk a multipólus-kifejtést; az ℓ = 0 a monopólusjárulékot, és így tovább.
-185 7. Szögimpulzus
 
 7.5     Szögimpulzusok összeadása
 Most a szögimpulzusok összeadását tárgyaljuk.
@@ -334,7 +328,6 @@ Most a szögimpulzusok összeadását tárgyaljuk.
                          X
                             ⟨jm|j1 j2 m1 m2 ⟩⟨j1 j2 m1 m2 |j ′ m′ ⟩ = δjj ′ δmm′ ,
                            m1 m2
-186 7. Szögimpulzus
 
                             X
                                   ⟨j1 j2 m1 m2 |jm⟩⟨jm|j1 j2 m′1 m′2 ⟩ = δm1 m′1 δm2 m′2

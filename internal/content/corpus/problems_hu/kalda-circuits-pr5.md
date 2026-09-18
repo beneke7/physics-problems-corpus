@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az ábrán látható ampermérő kijelzését.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr5-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr5-fig1.jpg)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, auxiliary-unknowns]
 ---
 
-Alex and Bob are twins. Their fate changes on their 20th birthday: Alex stays on the Earth, but Bob goes to a longer space-expedition. The spaceship is travelling away the Earth at a constant speed. A year later Alex takes a photo of his birthday cake, and sends it to Bob by means of radio signals, who receives it on his 22nd birthday in the spaceship. 
- $a)$ At what speed does the spaceship travel away from the Earth? 
- $b)$ According to Alex how far is the spaceship from the Earth when Bob receives the photo? 
- $c)$ Bob also takes a photo of his 22nd birthday, and immediately sends it to Alex. How old is Alex when he receives the photo? 
+Alex and Bob are twins. Their fate changes on their 20th birthday: Alex stays on the Earth, but Bob goes to a longer space-expedition. The spaceship is travelling away the Earth at a constant speed. A year later Alex takes a photo of his birthday cake, and sends it to Bob by means of radio signals, who receives it on his 22nd birthday in the spaceship.
+ $a)$ At what speed does the spaceship travel away from the Earth?
+ $b)$ According to Alex how far is the spaceship from the Earth when Bob receives the photo?
+ $c)$ Bob also takes a photo of his 22nd birthday, and immediately sends it to Alex. How old is Alex when he receives the photo?
  (6 pont)

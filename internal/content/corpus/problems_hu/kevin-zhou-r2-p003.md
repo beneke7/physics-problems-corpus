@@ -25,5 +25,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 alapállapotába, miközben fotont bocsát ki. E két állapot energiakülönbsége
 
 
-                  01W
+                  01W
     ∆. Mekkora a foton energiája?

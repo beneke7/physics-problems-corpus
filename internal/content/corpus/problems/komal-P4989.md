@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-The half-life of the alpha decaying Uranium isotope of ${}^{235}$U is 704 million years. Besides the alpha decays spontaneous fissions may occur as well (resulting in daughter nuclides of greater mass). As an average 0.0056 fissions occur in 1 kg Uranium 235 in one second. 
- $a)$ What percent of the ${}^{235}$U nuclides undergo spontaneous fission? 
- $b)$ What would the half-life of ${}^{235}$U be if only spontaneous fissions occurred? 
+The half-life of the alpha decaying Uranium isotope of ${}^{235}$U is 704 million years. Besides the alpha decays spontaneous fissions may occur as well (resulting in daughter nuclides of greater mass). As an average 0.0056 fissions occur in 1 kg Uranium 235 in one second.
+ $a)$ What percent of the ${}^{235}$U nuclides undergo spontaneous fission?
+ $b)$ What would the half-life of ${}^{235}$U be if only spontaneous fissions occurred?
  (4 pont)

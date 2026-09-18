@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-There are three metal spheres of radius $R$ in vacuum. Their centres are collinear. The distance of the middle sphere from the other two spheres is $d\gg R$. The temperature values of the two spheres at the sides are constant: one of them has temperature $T_1$, and the other has $T_2$. What is the steady-state temperature of the middle sphere if all the spheres can be considered black bodies? 
+There are three metal spheres of radius $R$ in vacuum. Their centres are collinear. The distance of the middle sphere from the other two spheres is $d\gg R$. The temperature values of the two spheres at the sides are constant: one of them has temperature $T_1$, and the other has $T_2$. What is the steady-state temperature of the middle sphere if all the spheres can be considered black bodies?
  (5 pont)

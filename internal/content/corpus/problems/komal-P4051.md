@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [graphical-reduction]
 ---
 
-Draw the image of the segment, shown in the figure, formed by the thin converging lens. 
+Draw the image of the segment, shown in the figure, formed by the thin converging lens.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4051-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4051-fig1.gif)

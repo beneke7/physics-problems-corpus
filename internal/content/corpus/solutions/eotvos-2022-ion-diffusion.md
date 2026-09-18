@@ -34,10 +34,10 @@ U =
 kT
 e
 ln
-
+
 p1
 p2
-
+
 =
 kT
 e
@@ -64,7 +64,7 @@ p2
 p1
 = e
 −
-gΔh
+ gΔh
 p1 = e−
 mgΔh
 kT = e−

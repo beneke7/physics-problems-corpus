@@ -19,4 +19,4 @@ verification_status: pending
 
 The acceleration of a boat depends on its speed as shown in graph. The boat is given initial speed $v_{0}=4 \mathrm{~m} / \mathrm{s}$. What is the total distance travelled until the boat will almost come to rest?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr11-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr11-fig1.jpg)

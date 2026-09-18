@@ -23,7 +23,7 @@ verification_status: unverified
 
 Quadrilateral depicted in Figure represents a real image of a square, created by an ideal thin lens. Both the quadrilateral and the main optical axis of the lens lay in the plane of the figure. Reconstruct the position of the lens (ie. the position of the centre and the orientation).
 
-![figure](../../sources/physicscup/figures/physicscup-2012-p7.jpg)
+![figure](../../../../../sources/physicscup/figures/physicscup-2012-p7.jpg)
 
 Remark: you need to copy the quadrilateral onto a sheet of paper and find there the position of the lens, eg. using geometrical constructions.
 

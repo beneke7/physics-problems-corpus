@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4529. A kávé a csészében fekete, a habja viszont fehér vagy krémszínű. Miért? 
+P. 4529. A kávé a csészében fekete, a habja viszont fehér vagy krémszínű. Miért?
  Észtországi feladat

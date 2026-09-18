@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201401"
 verification_status: pending
 ---
 
-A cylinder of radius R is lying against the back wall of the bed of a truck, of height h < R . What can the greatest acceleration of the truck be in order that the cylinder does not fall over the wall? (Friction is negligible.) 
+A cylinder of radius R is lying against the back wall of the bed of a truck, of height h < R . What can the greatest acceleration of the truck be in order that the cylinder does not fall over the wall? (Friction is negligible.)
  (4 pont)

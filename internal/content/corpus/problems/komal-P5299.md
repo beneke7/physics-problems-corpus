@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-A strong uniform-density spring of mass $M$ and of spring constant $D$ is accelerated by pulling it at one of its ends with a force $F$ along a horizontal, frictionless tabletop such that each point of the spring moves at the same acceleration into the direction of the symmetry axis of the spring. What is the length of the spring if its relaxed length was $\ell_0\gg F/D$? 
+A strong uniform-density spring of mass $M$ and of spring constant $D$ is accelerated by pulling it at one of its ends with a force $F$ along a horizontal, frictionless tabletop such that each point of the spring moves at the same acceleration into the direction of the symmetry axis of the spring. What is the length of the spring if its relaxed length was $\ell_0\gg F/D$?
  (4 pont)

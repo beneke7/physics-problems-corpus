@@ -55,7 +55,9 @@ static and has three forces acting on it. Show that in two dimensions, the lines
 
 
                                                            3
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts
 
 
   Example 2
@@ -104,7 +106,9 @@ static and has three forces acting on it. Show that in two dimensions, the lines
 
 
                                                 4
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        Example 3: Povey 5.6

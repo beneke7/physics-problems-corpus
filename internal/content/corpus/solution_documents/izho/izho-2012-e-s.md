@@ -63,7 +63,9 @@ Table 1. Dependence of the resistivity on the height of the water level.
  200      0,50           1,86      3,04      1,22      0,82
  210      0,48           1,80      3,10      1,16      0,86
  220      0,45           1,76      3,14      1,12      0,89
-VIII International Zhautykov Olimpiad/Experimental Competition                              Page 2/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                              Page 2/10
 
 
        The graph of the obtained dependence is shown in the figure below.
@@ -100,7 +102,9 @@ of the spokes, etc.).
 2.4 To check the validity of formula (3) it is sufficient to plot the dependence of the resistance on the
 inversed height of the water column 1 / h . That is, the linear dependence should be observed for the
 following values:
-VIII International Zhautykov Olimpiad/Experimental Competition                              Page 3/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                              Page 3/10
 
 
                                                 y=R
@@ -129,7 +133,9 @@ B b 0,17 ± 0, 03) k Ω
 Note. Although it is possible to use the linearization of the type      = , but this leads to worse
                                                                        R A
 results, since it ignores the additional resistance of the circuit.
-VIII International Zhautykov Olimpiad/Experimental Competition                          Page 4/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                          Page 4/10
 
 
                                                PART 3
@@ -164,7 +170,9 @@ electrodes in an infinite medium is given by
          R = ln ,                                                                            (8)
              πh r0
 where h is the length of the electrodes (spokes), r0 is their radius.
-VIII International Zhautykov Olimpiad/Experimental Competition                              Page 5/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                              Page 5/10
 
 
 We can assume that in this case the water resistance between the electrodes depends linearly on the
@@ -204,7 +212,9 @@ Table 3
  100       4,20      0,70       12,0
  120       4,25      0,65       13,1
  140       4,31      0,59       14,6
-VIII International Zhautykov Olimpiad/Experimental Competition                            Page 6/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                            Page 6/10
 
 
  160       4,35      0,55      15,8
@@ -239,7 +249,9 @@ l ∈ [50, 150] the dependence is definetly linear.
          b =( 6, 0 ± 0,3) k Ω
         If the height h is measured in millimeters, then the valueof the coefficient a is
     =    a ( 0, 071 ± 0, 002 ) kΩ/mm .                                                          (14)
-VIII International Zhautykov Olimpiad/Experimental Competition                                 Page 7/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                                 Page 7/10
 
 
                                                    Part 5
@@ -293,7 +305,9 @@ N          Content                                                             t
 2.2        Streamlines are shown in the figures                                0,5
            In the plane of the spokes: straight lines are perpendicular to               0,25
            the spokes (slight distortion might appear near the bottom
-VIII International Zhautykov Olimpiad/Experimental Competition                         Page 8/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                         Page 8/10
 
 
            and the top of the vessel);
@@ -349,7 +363,9 @@ N          Content                                                             t
 3.2        Form of dependence                                                1
            Logarithmic dependence                                                0,7
            There is constant contribution in the dependence;                     0,3
-VIII International Zhautykov Olimpiad/Experimental Competition                               Page 9/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                               Page 9/10
 
 
            Some other reasonable convex increasing dependence                          (0,3)
@@ -405,7 +421,9 @@ N          Content                                                             t
              - interval is shown (deviations near the ends of interval                 0,1
            measurement are allowed)
 4.5        Parameters                                                            0.8
-VIII International Zhautykov Olimpiad/Experimental Competition                           Page 10/10
+
+
+VIII International Zhautykov Olimpiad/Experimental Competition                           Page 10/10
 
 
            - Correct evaluation of the linearized dependence: the slope

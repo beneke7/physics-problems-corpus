@@ -44,7 +44,9 @@ solution_language: en
        Furthermore, the first minimum around this maximum occurs when there is an extra net
 
                                                          15
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
        path length difference of λ across the entire diffraction grating, i.e. when
 

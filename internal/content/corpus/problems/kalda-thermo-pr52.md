@@ -24,4 +24,4 @@ c) What temperature $T_{2}$ is measured at the ridge of the mountain range?
 d) Determine the height of the water column (precipitation level) precipitated by the air stream in 3 hours, assuming a homogeneous rainfall between points $M_{1}$ and $M_{2}$.
 e) What temperature $T_{3}$ is measured in the back of the mountain range at station $M_{3}$ ? Discuss the state of the atmosphere at station $M_{3}$ in comparison with that at station $M_{0}$.
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr52-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr52-fig1.jpg)

@@ -9,8 +9,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- A ketrecet tartó kötelet kb. 90 N erő feszíti. Ezt a legalsó mozgócsiga kb. 10 N súlya 100 N-ra növeli, ami a két kötéldarabnál feleződik. 
+ A ketrecet tartó kötelet kb. 90 N erő feszíti. Ezt a legalsó mozgócsiga kb. 10 N súlya 100 N-ra növeli, ami a két kötéldarabnál feleződik.
 
  Ugyanígy számolhatunk a következő két mozgócsigánál is, a legfelső (álló-)csigánál pedig nem változik meg a kötélerő. Ezek szerint $F\approx 20$ N.
 
-![solution figure](../../raw_html/komal_figures/komal-G641-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G641-sol-fig1.gif)

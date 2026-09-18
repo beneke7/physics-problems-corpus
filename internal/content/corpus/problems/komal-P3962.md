@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A  $^{+}$ meson of negligible initial velocity decays to a $^{+}$ (muon) and a neutrino. With what energy does the neutrino move? 
- (The rest mass of neutrino can be considered zero. The rest energy of the $^{+}$ meson is 140 MeV, and the rest energy of the muon is 106 MeV.) 
+A  $^{+}$ meson of negligible initial velocity decays to a $^{+}$ (muon) and a neutrino. With what energy does the neutrino move?
+ (The rest mass of neutrino can be considered zero. The rest energy of the $^{+}$ meson is 140 MeV, and the rest energy of the muon is 106 MeV.)
  (5 pont)

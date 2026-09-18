@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4259. Miért lehetséges - kellő lendülettel való - felugrás után a levegőben ,,bukfencet vetni'' (szaltózni), és azután talpra esni? 
+P. 4259. Miért lehetséges - kellő lendülettel való - felugrás után a levegőben ,,bukfencet vetni'' (szaltózni), és azután talpra esni?
  Faragó Andor (1877-1944) feladata

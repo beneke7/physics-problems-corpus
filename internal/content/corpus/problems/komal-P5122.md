@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-The braking distance of a car moving along dry and horizontal, asphalt-covered road at a speed of 50 km/h is at least 13 m, that is, the distance the car covers from the instant when the brakes are applied to when it comes to a complete stop. (In the definition of the braking distance the reaction time of neither the driver nor the vehicle are included.) 
+The braking distance of a car moving along dry and horizontal, asphalt-covered road at a speed of 50 km/h is at least 13 m, that is, the distance the car covers from the instant when the brakes are applied to when it comes to a complete stop. (In the definition of the braking distance the reaction time of neither the driver nor the vehicle are included.)
 
- What is the minimum braking distance of the same car at a speed of 20 km/h on an unusually steep slope of angle of elevation of $30^\circ$ (approximately 58% slope)? Investigate both the upward and downward motions. 
+ What is the minimum braking distance of the same car at a speed of 20 km/h on an unusually steep slope of angle of elevation of $30^\circ$ (approximately 58% slope)? Investigate both the upward and downward motions.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5122-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5122-fig1.gif)

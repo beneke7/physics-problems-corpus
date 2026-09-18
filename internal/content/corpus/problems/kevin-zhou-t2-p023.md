@@ -34,7 +34,9 @@ solution_language: en
        1. Atoms in the excited state can each spontaneously decay with rate A.
 
                                                          17
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        2. Atoms in the ground state can absorb a photon. For each atom, the rate of this process is

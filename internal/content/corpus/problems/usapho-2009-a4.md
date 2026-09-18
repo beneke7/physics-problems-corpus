@@ -26,7 +26,7 @@ techniques: [smart-coordinates, conservation-laws]
 ## Question A4
 
 A potato gun fires a potato horizontally down a half-open cylinder of cross-sectional area $A$. When the gun is fired, the potato slug is at rest, the volume between the end of the cylinder and the potato is $V_{0}$, and the pressure of the gas in this volume is $P_{0}$. The atmospheric pressure is $P_{\text {atm }}$, where $P_{0}>P_{\text {atm }}$. The gas in the cylinder is diatomic; this means that $C_{\mathrm{v}}=5 R / 2$ and $C_{\mathrm{p}}=7 R / 2$. The potato moves down the cylinder quickly enough that no heat is transferred to the gas. Friction between the potato and the barrel is negligible and no gas leaks around the potato.
-![](usapho-2009-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2009-a4-fig01.png)
 
 The parameters $P_{0}, P_{\text {atm }}, V_{0}$, and $A$ are fixed, but the overall length $L$ of the barrel may be varied.
 

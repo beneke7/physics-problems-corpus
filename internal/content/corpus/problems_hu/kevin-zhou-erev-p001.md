@@ -34,5 +34,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     hasonlóan az, hogy megtaláljuk
 
 
-                  01W
+                  01W
     az α megmérésének módját anélkül, hogy a teljes kábelt ki kellene ásnunk.

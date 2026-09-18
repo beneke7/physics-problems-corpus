@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-An object is behind a car not very far from it, and its images can be seen in both side-view mirrors as well as in the rear-view mirror of the car. All the three mirrors are plane mirrors. In which mirror does the driver observe the greatest and the smallest image? In other words compare visual angles of the images. 
+An object is behind a car not very far from it, and its images can be seen in both side-view mirrors as well as in the rear-view mirror of the car. All the three mirrors are plane mirrors. In which mirror does the driver observe the greatest and the smallest image? In other words compare visual angles of the images.
  (3 pont)

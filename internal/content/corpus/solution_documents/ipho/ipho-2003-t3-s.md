@@ -66,7 +66,9 @@ Part A
    mass (or momentum) frame so that it achieves the minimum
 
                                                      27
-                                             (M c )min = M = m p + mv                                    (A10)
+
+
+                                             (M c )min = M = m p + mv                                    (A10)
    when the proton and the anti-neutrino are both at rest in the center of mass frame. Hence,
    from Eqs. (A8) and (A10), the maximum energy of the electron E = c2Ee is
               E max =
@@ -125,7 +127,9 @@ or, equivalently,
 
 
                                                          28
-                                                                            K K
+
+
+                                                                            K K
                             2mn E e = mn2 + me2 − m 2p − mv2 − 2( E p E v − q p ⋅ qv )                          (7A)
                           K       K            K K
 If θ is the angle between q p and qv , we have q p ⋅ qv = q p qv cos θ ≤ q p qv so that Eq. (7A)
@@ -179,7 +183,9 @@ and the maximum energy of the electron E = c2Ee is
 
 
                                                            29
-    When the anti-neutrino and the proton move with the same velocity, we have, from Eqs.
+
+
+    When the anti-neutrino and the proton move with the same velocity, we have, from Eqs.
 (9A), (10A), (2A) ,(3A), and (1A), the result
 
                                  qp  q    q p + qv   qe      E e2 − me2
@@ -231,7 +237,9 @@ Part B
 
    The z-component of the momentum carried away per unit time by these photons when
                                                        30
-refracted at the spherical surface is
+
+
+refracted at the spherical surface is
 
                              hf o                      hf               β2
                  dFz = n p        ( 2πrdr ) cos β ≈ n p 0 ( 2πR 2 ) 1 −    θ i dθ i
@@ -283,7 +291,9 @@ power required to levitate the hemisphere as
 
 
                                                    31
-                                   Marking Scheme
+
+
+                                   Marking Scheme
 
                               Theoretical Question 3
                          Neutrino Mass and Neutron Decay

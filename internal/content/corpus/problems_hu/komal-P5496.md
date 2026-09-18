@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5496. Az ábrán látható módon egy 10 cm átmérőjű, tükrözödő felületű hengert egy 5 mm átmerőjű lézersugárral világítunk meg. A visszaverődő lézersugárra merőlegesen egy ernyőt helyezünk el úgy, hogy a visszaverődési pont és az ernyő között a távolság 20 cm. Milyen alakú és méretű fényfolt keletkezik az ernyőn?
 
-![figure](../../raw_html/komal_figures/komal-P5496-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5496-fig1.gif)

@@ -30,7 +30,7 @@ $$
 [3.5+2+2+2.5=10]
 $$
 
-![](inpho-2010-b2-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-b2-fig01.png)
 Figure 2:
 
 

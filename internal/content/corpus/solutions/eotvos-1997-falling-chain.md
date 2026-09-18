@@ -20,7 +20,7 @@ Mennyi id® alatt ér a lán egyik, illetve másik vége a földre?
 (Gnädig Péter)
 Megoldás. Jelöljük L-lel az asztal magasságát, ami éppen megegyezik a lán teljes hosszával (a feladatban L =
 1 m). Tekintsük azt a pillanatot, amikor a lán függ®leges, mozgásban lév® része x hosszúságú. Jelöljük m-mel ennek
-a darabnak a tömegét, és írjuk fel rá a dinamika alaptörvényét! Persze, 
+a darabnak a tömegét, és írjuk fel rá a dinamika alaptörvényét! Persze,
 gyelembe kell vennünk, hogy most m nem
 állandó, hanem id®ben változik, ezért:
 mg =
@@ -66,7 +66,7 @@ x
 Ez az izgalmasan egyszer¶ összefüggés jelzi, hogy a lán mozgásban lév® részének gyorsulása g-nél mindenképp
 kisebb, s mivel v és x is változik id®ben, feltehet®en a gyorsulás sem marad állandó. Ennek ellenére próbáljuk ki,
 hátha mégis állandó a gyorsulás, hiszen lehet, hogy a v2
-/x kifejezés véletlenül nem függ az id®t®l! Próbaképpen
+/x kifejezés  véletlenül  nem függ az id®t®l! Próbaképpen
 helyettesítsük be v és x helyére a zérus kezd®sebesség¶, egyenletesen gyorsuló mozgás sebességének és a megtett útnak
 id®t®l függ® képleteit:
 v2
@@ -125,11 +125,11 @@ s
 2L
 3g
 = 0,26 s
-
+
 =
 t1
 3
-
+
 .
 Ez a lán vég tehát a folyamat kezdetét®l számítva
 t1 + t2 =
@@ -137,7 +137,7 @@ t1 + t2 =
 3
 t1 = 1,04 s
 múlva fog földet érni.
-Megjegyzések. 1. Sok hibás megoldás abból indult ki, hogy mivel a súrlódás és a légellenállás elhanyagolható, ezért
+Megjegyzések. 1. Sok hibás megoldás abból indult ki, hogy mivel  a súrlódás és a légellenállás elhanyagolható , ezért
 a lán me hanikai energiája állandó marad. Ebben az esetben az a sebesség, amivel a lán alsó vége eléri a földet, az
 energiatétel felhasználásával a következ®képp adódna:
 1
@@ -187,10 +187,10 @@ tömeg¶ darabkáját ∆t id® alatt v sebességre gyorsítja fel a lán v sebe
 M
 L
 x tömeg¶ része, amikor
-magával rántja az asztalról. Ennek az er®nek a nagysága:
+ magával rántja  az asztalról. Ennek az er®nek a nagysága:
 M
 L · v · ∆t
-
+
 v
 ∆t
 =
@@ -198,7 +198,7 @@ M
 L
 v2
 .
-Ugyanekkora nagyságú, de ellentétes irányú er®t fejt ki a felgyorsuló lán szem (lán darabka) a már mozgó, m tömeg¶
+Ugyanekkora nagyságú, de ellentétes irányú er®t fejt ki a felgyorsuló lán szem ( lán darabka ) a már mozgó, m tömeg¶
 részre! Így felírhatjuk:
 ma = mg −
 M
@@ -233,7 +233,7 @@ n
 a = g −
 v2
 x
-dieren iálegyenlet teljes megoldása t = 0, v = 0, x = x0 kezd®feltételek (x0 ≪ L) esetén. A megoldás aszimptotikusan
+di eren iálegyenlet teljes megoldása t = 0, v = 0, x = x0 kezd®feltételek (x0 ≪ L) esetén. A megoldás aszimptotikusan
 közelít a heurisztikusan talált a =
 g
 3

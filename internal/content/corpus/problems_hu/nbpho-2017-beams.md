@@ -22,7 +22,7 @@ verification_status: pending
 
 Három gerenda van két abszolút merev lemez között. A lemeyek és a gerendák súlya elhanyagolható. A gerendák anyagának hőtágulási együtthatója $\alpha = 1,0 \times 10^{-5}\ \mathrm{K^{-1}}$. A maximális terhelés (a terhelés nélküli esetre vonatkoztatott relatív hosszváltozás) az anyag maradandó rugalmas deformációja előtt $\beta = 0,40\%$. A gerendák maximálisan egy adott súlyt tudnak támogatni a felső lemezen, melynél néhány gerenda permanens deformációnak indulna el.
 
-![Három gerenda két merev lemez között](nbpho-2017-beams-fig1.jpg)
+![Három gerenda két merev lemez között](../../figures/nbpho/figures/nbpho-2017-beams-fig1.jpg)
 
 **i)** *(2 pont)* Kezdetben az összes gerenda ugyanazon a hőmérsékleten van. Ezután a gerenda középső hőmérsékletét $\Delta T = 100\ \mathrm{K}$ értékkel megnöveljük. Ehhez képest az egyenlő hőmérsékleten lévő gerendákhoz képest, az eredeti maximális súly hány százaléka támogatható most felül? Feltételezzük, hogy az anyagok tulajdonságai (különösen a maximális terhelés és az elastikus modulus) a fűtés során nem változnak.
 
@@ -30,4 +30,4 @@ Három gerenda van két abszolút merev lemez között. A lemeyek és a gerendá
 
 Megjegyzés (a verseny során hozzáadva): az elastikus modulus vagy Young-modulus az alábbi képlettel definiálható: $F/A = E \Delta l / l$, ahol $F$ az erő, $A$ a terület, és $\Delta l / l$ a relatív hosszabbodás.
 
-![Elastikus modulus a hőmérséklet függvényében](nbpho-2017-beams-fig2.jpg)
+![Elastikus modulus a hőmérséklet függvényében](../../figures/nbpho/figures/nbpho-2017-beams-fig2.jpg)

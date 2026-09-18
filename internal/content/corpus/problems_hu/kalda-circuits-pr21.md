@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg egy dodekaéder két szomszédos csúcsa közötti ellenállást (lásd az ábrát), ha a dodekaéder élei vezetékből készülnek, és minden él ellenállása $R$.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr21-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr21-fig1.jpg)

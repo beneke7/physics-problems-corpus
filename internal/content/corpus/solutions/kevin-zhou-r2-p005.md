@@ -47,7 +47,7 @@ E −
 E2 − M2
 M
 ω.
-[3] Problem 6.  W 1 0USAPhO 2002, problem A2.
+[3] Problem 6.   W 1 0USAPhO 2002, problem A2.
 Now let’s try some more involved problems.
 Example 3: Woodhouse 7.5
 A particle of rest mass m moves with velocity u and collides elastically with a second particle,
@@ -176,13 +176,13 @@ sin2
 Em
 m + E(1 − cosθ)
 = c2
-
+
 c2
 /E +
 1
 m
 (1 − cosθ)
-−1
+ −1
 .
 Now, λ = hc/x = λ + λC(1 − cosθ) where λC = h/mc.
 (b) The wavelength shift is independent of frequency, and since c = fλ the frequency shift (which
@@ -193,7 +193,7 @@ not change the frequency of the photon at all. At the level of relativistic dyna
 scattering is nothing more than the low-frequency limit of Compton scattering. Incidentally,
 at even higher frequencies, the result has more subtle corrections due to quantum field theory
 effects, and the cross section is given by the Klein–Nishina formula.
-[3] Problem 9.  W 1 0USAPhO 2017, problem A4. However, to make it a little harder, solve part (a)
+[3] Problem 9.   W 1 0USAPhO 2017, problem A4. However, to make it a little harder, solve part (a)
 without assuming Eb is small.
 6
 Kevin Zhou Physics Olympiad Handouts
@@ -215,10 +215,10 @@ The total four-momentum is (E +mp,E) where E is the energy of the γ ray in the 
 This four-momentum has norm 2Emp + m2
 p. Crucially, the norms of four-momenta don’t
 change upon changing frames, so the total four-momentum in the center of mass frame is
-q
+ q
 2Emp + m2
 p ,0
-
+
 because the total spatial momentum vanishes by definition. On the other hand, we also know
 that the reaction can just barely happen when both the proton and pion are produced at rest
 in the center of mass frame, with a final four-momentum of (mp + mπ,0). Hence we have

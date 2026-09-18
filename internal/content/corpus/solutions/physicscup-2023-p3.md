@@ -18,11 +18,11 @@ figure_files: [physicscup-2023-p3-sol-1.png, physicscup-2023-p3-sol-2.png]
 
 Consider a flux tube connecting the two spherical magnets. Its surface is parallel to the magnetic field lines, so the flux across any cross-section of the flux tube is a constant $\Phi_B$. Because of the symmetry of the system with respect to the line joining the centres of the spheres together, the flux tube is a solid of revolution about that line. We only care about the flux tubes that connect the two magnets because they are the ones that change the most significantly during the movement of the spheres and contribute to the force $F$.
 
-![A flux tube of constant flux $\Phi_B$ connecting the two magnets; by symmetry it is a solid of revolution about the line of centres.](../../sources/physicscup/figures/physicscup-2023-p3-sol-1.png)
+![A flux tube of constant flux $\Phi_B$ connecting the two magnets; by symmetry it is a solid of revolution about the line of centres.](../../../../../sources/physicscup/figures/physicscup-2023-p3-sol-1.png)
 
 At the initial state, the flux tubes are of the length $\sim R$. As the spheres are separated, they are stretched to a new length which is $\sim L$ (ignore the size of the spheres as $L \gg R$). However, as the particles in the fluid must move along the field lines (i.e. move parallel to them), and the liquid is incompressible, the total mass enclosed in a flux tube must be constant, so its total volume should not change. Hence, any cross-sectional area is multiplied by a factor of $\sim R/L$. By the constant magnetic flux, we have:
 
-![Stretching of the flux tube from length $\sim R$ to $\sim L$ as the magnets are pulled apart; the dipole moments (arrows) stay parallel to the axis.](../../sources/physicscup/figures/physicscup-2023-p3-sol-2.png)
+![Stretching of the flux tube from length $\sim R$ to $\sim L$ as the magnets are pulled apart; the dipole moments (arrows) stay parallel to the axis.](../../../../../sources/physicscup/figures/physicscup-2023-p3-sol-2.png)
 
 $$ (A)B_i = \Phi_B \approx \left(A\cdot\frac{R}{L}\right)B_f \quad\Rightarrow\quad B_f \sim B_i\left(\frac{L}{R}\right) $$
 

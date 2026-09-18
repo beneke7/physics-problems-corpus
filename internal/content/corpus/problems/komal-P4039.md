@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-There is a sample of gas of mass 192 g, in a container of volume 80 l at a temperature of 402 $^\circ$C and at a pressure of 4.2$^{.}$10$^{5}$ Pa. The specific heat capacity of the gas at constant volume is 124.5 J/K. 
- a ) What is the number of the degrees of freedom of the molecules? 
- b ) What kind of gas can be in the container? 
+There is a sample of gas of mass 192 g, in a container of volume 80 l at a temperature of 402 $^\circ$C and at a pressure of 4.2$^{.}$10$^{5}$ Pa. The specific heat capacity of the gas at constant volume is 124.5 J/K.
+ a ) What is the number of the degrees of freedom of the molecules?
+ b ) What kind of gas can be in the container?
  (4 pont)

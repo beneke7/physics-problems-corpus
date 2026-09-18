@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200601"
 verification_status: pending
 ---
 
-Thomas is long-sighted. He is able to see clearly only those objects which are at least 1 m away. Find the power of the glasses through which he is able to read a book 25 cm away from his eyes. 
+Thomas is long-sighted. He is able to see clearly only those objects which are at least 1 m away. Find the power of the glasses through which he is able to read a book 25 cm away from his eyes.
  (3 pont)

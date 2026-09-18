@@ -21,7 +21,7 @@ Hol esik le a korong az asztalról?
 Károlyházy Frigyes
 Megoldás. Elvileg többféle lehet®ség is elképzelhet®, a súrlódástól és a sebességekt®l függ®en. Kis súrlódás és
 nagy kezd®sebesség esetén a korong szinte átrepül az asztalon, alig változtatja meg a sebességét. Nagy súrlódás és
-kis kezd®sebesség esetén viszont a korong át se jut a futószalagon, hanem leragad rajta, és a mozgó szalag szépen
+kis kezd®sebesség esetén viszont a korong át se jut a futószalagon, hanem  leragad  rajta, és a mozgó szalag szépen
 elviszi és leejti a korongot az asztal jobb oldalán. Ez utóbbi lehet®ség is sugallhatja azt az ötletet, hogy a jelenséget
 ne az asztalhoz, hanem a futószalaghoz rögzített koordináta-rendszerben vizsgáljuk. Látni fogjuk, hogy ez mennyire
 leegyszer¶síti a megoldást.
@@ -77,12 +77,12 @@ t2 =
 s.
 Eközben a korong elmozdulása jobbra:
 ∆x2 =
-
+
 3 −
 3
 √
 2
-
+
 1
 2
 √

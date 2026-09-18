@@ -26,7 +26,7 @@ Vegyünk egy hűtőlemezt egy rézlemez alakjában, állandó vastagságú (sokk
 
 **ii) (4 pont)** Az elektronikus komponens hosszú ideje ki van kapcsolva; a $t = 0$ pillanatban egy bizonyos $Q$ hőmennyiség nagyon rövid idő alatt az alkatrészen szétszóródik. Az ábrán és a táblázatban a hőmérséklet az érzékelő által rögzített időfüggvénye látható. Határozzuk meg a szétszóródott hőmennyiséget $Q$.
 
-![figure](../../sources/nbpho/figures/nbpho-2011-fig4.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2011-fig4.jpg)
 
 | $t \, (\text{s})$ | 0 | 20 | 30 | 100 | 200 | 300 |
 | --- | --- | --- | --- | --- | --- | --- |

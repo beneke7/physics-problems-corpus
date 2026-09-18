@@ -24,8 +24,8 @@ techniques: [conservation-laws, differential-element]
 ---
 
 3. A chain of length $l$ and linear density $\lambda$ hangs from a horizontal support with both ends A and B fixed to a horizontal support as shown. The two fixed ends are close to each other. At time $t$ $=0$ the end A is released. All vertical distances $(x)$ are measured with respect to the horizontal support with the downward direction taken as positive (A and B are initially at $x=0$ ).
-![](inpho-2019-a3-fig01.png)
-![](inpho-2019-a3-fig02.png)
+![](../../figures/inpho/figures/inpho-2019-a3-fig01.png)
+![](../../figures/inpho/figures/inpho-2019-a3-fig02.png)
     (a) Obtain the momentum $P$ of the center of mass of the system when the end A has fallen by a distance $x$, in terms of $x$ and speed $\dot{x}$.
 $$
 P=
@@ -49,6 +49,6 @@ $$
 T(x)=
 $$
 (f) Qualitatively sketch $T(x)$ versus $x$.
-![](inpho-2019-a3-fig03.png)
+![](../../figures/inpho/figures/inpho-2019-a3-fig03.png)
 
 Detailed answers can be found on page numbers:

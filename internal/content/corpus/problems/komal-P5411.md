@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-A satellite orbits the Earth in an elliptical orbit of numerical eccentricity $c/a=e$, with a period of $T$. How long does it take for the satellite to go from point $A$ to point $B$, shown in the figure? 
+A satellite orbits the Earth in an elliptical orbit of numerical eccentricity $c/a=e$, with a period of $T$. How long does it take for the satellite to go from point $A$ to point $B$, shown in the figure?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5411-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5411-fig1.gif)

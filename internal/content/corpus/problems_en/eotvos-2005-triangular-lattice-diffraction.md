@@ -21,7 +21,7 @@ verification_status: pending
 
 2. **A small holes in a triangular-lattice arrangement** are shown in Fig. 5 on an opaque plate. The plate is illuminated perpendicularly with monochromatic laser light of wavelength $\lambda$. The lattice constant is $d=100 \lambda$.
 
-![figure](sources/eotvos/figures/eotvos-2005-p2-fig3.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2005-p2-fig3.jpg)
 Fig. 5
 
 Draw a schematic sketch (showing dimensions and marking horizontal and vertical directions) of the diffraction pattern that can be observed on a screen placed 3 m away from the lattice!

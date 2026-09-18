@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, auxiliary-unknowns]
 ---
 
-Newspaper news (February 24, 2021): China's Mars probe, Tianwen-1, has been already orbiting Mars and has collected data from the red planet. The furthest point of its parking orbit measured from the surface of Mars is 59 thousand kilometres, while the nearest is 280 kilometres away. The probe makes one revolution around the planet in two Mars days. 
- By calculation check the accuracy of the value given for the period if the other data are accepted as correct. 
+Newspaper news (February 24, 2021): China's Mars probe, Tianwen-1, has been already orbiting Mars and has collected data from the red planet. The furthest point of its parking orbit measured from the surface of Mars is 59 thousand kilometres, while the nearest is 280 kilometres away. The probe makes one revolution around the planet in two Mars days.
+ By calculation check the accuracy of the value given for the period if the other data are accepted as correct.
  (4 pont)

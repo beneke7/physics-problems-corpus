@@ -29,10 +29,10 @@ $$
 
 已知 AB 间的距离、B 到金属板左端的距离、金属板的长中国科学技术，
 
-![](cpho-f-2006-q4-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2006-q4-fig01.png)
 图1
 
-![](cpho-f-2006-q4-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2006-q4-fig02.png)
 图2
 
 ## 中国科学技术大学物理学院叶邦角整理

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-Two glasses, which have the same size are filled with room-temperature tea, then one of them is placed into the refrigerator, and the other into the much colder freezer. After a minute elapsed, the glasses are swapped, and left in their new places for a further minute and then both are removed. The content of which glass will cool down more during the experiment? Newton's law of cooling can be applied to the relevant heat transfer processes, and the heat transfer coefficient can be considered to be the same for the refrigerator and the freezer. 
+Two glasses, which have the same size are filled with room-temperature tea, then one of them is placed into the refrigerator, and the other into the much colder freezer. After a minute elapsed, the glasses are swapped, and left in their new places for a further minute and then both are removed. The content of which glass will cool down more during the experiment? Newton's law of cooling can be applied to the relevant heat transfer processes, and the heat transfer coefficient can be considered to be the same for the refrigerator and the freezer.
  (5 pont)

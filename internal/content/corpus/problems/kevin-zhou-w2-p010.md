@@ -53,7 +53,9 @@ solution_language: en
                                                    sin(kd sin θ/2)
 
                                                       8
-Kevin Zhou                                                           Physics Olympiad Handouts
+
+
+Kevin Zhou                                                           Physics Olympiad Handouts
 
   we may substitute N d = a in the numerator. Only d remains in the denominator, so the
   d → 0 limit allows us to use the small angle approximation. We thus have
@@ -96,7 +98,9 @@ solution_language: en
   ciple provides a simple explanation for why making the slits narrower makes the pattern wider.
 
                                                  9
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
   In fact, this is equivalent to the Heisenberg uncertainty relation ∆y∆py ≳ ℏ for photons
   passing through the slit, as you can verify. This makes sense, as we should be able to calculate

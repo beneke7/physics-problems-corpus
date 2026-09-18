@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-In the future men will be able to build spaceships which are able to take us to distant star systems. Suppose that one of such a spaceship leaves the Earth at the escape speed, and due to its special engine every day its kinetic energy is doubled. (Its rest mass remains the same.) 
- Estimate how much does the captain of the spaceship get older when he travels to Alpha Centauri, which is at a distance of 4.3 light years from the Earth. 
+In the future men will be able to build spaceships which are able to take us to distant star systems. Suppose that one of such a spaceship leaves the Earth at the escape speed, and due to its special engine every day its kinetic energy is doubled. (Its rest mass remains the same.)
+ Estimate how much does the captain of the spaceship get older when he travels to Alpha Centauri, which is at a distance of 4.3 light years from the Earth.
  (6 pont)

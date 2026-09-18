@@ -29,7 +29,7 @@ techniques: [choose-reference-frame, smart-coordinates]
 
 In 1851, Léon Foucault built a pendulum 67 metres tall with a 28-kg weight. He connected it to the top of the Panthéon in Paris with a bearing that enabled it to freely change its plane of oscillation. Because of the Earth's rotation, the plane of oscillation slowly moved over time: if we imagine a large horizontal clock under the pendulum, if initially the oscillations went from " 12 " to " 6 ", later on they would move to the "3-9" plane, for example, as shown in the figure below. Perhaps surprisingly, the time it took the oscillations to go back to their original plane is longer than 12 hours. In this problem we will investigate why this is the case, and what the shape the pendulum traces out.
 
-![](usapho-2020-a2-fig01.png)
+![](../../figures/usapho/figures/usapho-2020-a2-fig01.png)
 Figure 1: Left: A schematic of Foucault's pendulum. Right: The pendulum motion projected on a horizontal plane in the rotating lab frame.
 
 First, consider the case of a Foucault pendulum installed precisely at the North Pole, with length $l$. We denote $\sqrt{g / l}=\omega$. The angular velocity of the Earth is $\Omega$.
@@ -44,7 +44,7 @@ e. Find the initial conditions for $A, V$, such that as measured in Ella's frame
     i. the pendulum passes precisely through its resting position.
     ii. it has a "spike" at the points of maximal amplitude (see figure below) instead of a "rounded" trajectory.
 
-![](usapho-2020-a2-fig02.png)
+![](../../figures/usapho/figures/usapho-2020-a2-fig02.png)
 Figure 2: Two possible trajectories with "spike" (left) and more "rounded" (right).
 
 In a rotating frame, a fictitious force known as the Coriolis force acts on the particles. For Foucault's pendulum, the Coriolis force acts primarily in the horizontal plane, in a direction perpendicular to the velocity of the mass in the Earth's frame with magnitude:

@@ -26,7 +26,7 @@ Hosszú, keskeny, függőleges üvegcsövet egy vele azonos tengelyű, de sokkal
 
 Ha a keskeny csőbe egy $m$ tömegű, $d$ erősségű (mágneses dipólnyomatékú) kicsiny rúdmágnest ejtünk, az viszonylag hamar elér egy állandó $v_0$ sebességet, amellyel egyenletesen süllyed.
 
-![figure](../../sources/eotvos/figures/eotvos-1999-falling-magnet-fig1.jpeg)
+![figure](../../figures/eotvos/figures/eotvos-1999-falling-magnet-fig1.jpeg)
 
 További kísérleteink során a fenti öt mennyiség $(m, d, h, R, r)$ közül az egyiket mindig a kétszeresére növeljük, miközben a másik négyet nem változtatjuk meg. Hányszorosára nő az egyes esetekben a kicsiny rúdmágnes állandósult végsebessége?
 

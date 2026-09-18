@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-A tetrahedron-shaped circuit is soldered from six resistors. Five of the resistors are alike and have the same resistance value whilst the sixth one is different. Only one ohm-meter is available, and the circuit, which seemingly contains six alike resistors cannot be taken apart. At most how many measurements are needed to find the resistor which has different resistance value, and also to find the resistance value of each resistor? If we are lucky, how many measurements are needed to find the resistance values? 
+A tetrahedron-shaped circuit is soldered from six resistors. Five of the resistors are alike and have the same resistance value whilst the sixth one is different. Only one ohm-meter is available, and the circuit, which seemingly contains six alike resistors cannot be taken apart. At most how many measurements are needed to find the resistor which has different resistance value, and also to find the resistance value of each resistor? If we are lucky, how many measurements are needed to find the resistance values?
  (5 pont)

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-A cylinder contains air at a pressure that is three times that of its surroundings. A hole is opened in the cylinder. We find that the gas in the cylinder cools rapidly, then slowly warms back to its initial temperature. 
- a) To what temperature does the gas cool from the initial $300~\mathrm{K}$? 
- b) What percentage of the initial gas in the cylinder is lost during the rapid cooling, 
- c) and during the slow warming? 
- Assume that no air can get into the cylinder from outside. 
+A cylinder contains air at a pressure that is three times that of its surroundings. A hole is opened in the cylinder. We find that the gas in the cylinder cools rapidly, then slowly warms back to its initial temperature.
+ a) To what temperature does the gas cool from the initial $300~\mathrm{K}$?
+ b) What percentage of the initial gas in the cylinder is lost during the rapid cooling,
+ c) and during the slow warming?
+ Assume that no air can get into the cylinder from outside.
  (5 pont)

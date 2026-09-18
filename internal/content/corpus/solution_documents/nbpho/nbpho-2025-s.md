@@ -85,7 +85,9 @@ to +v. After this second impact, both balls                                     
 move away from the wall, with the same ve‐ hence                                                      • centre of mass stays at rest            0.4 pts   pressure p1 = ρRT /µ = 70 kPa. With at‐
 locity +v, so the dumbbell as a whole departs                             √                           • sinusoidal movement of front ball 0.4 pts         mospheric pressure p0 = 100 kPa, the force
 with velocity +v.                                           α0 = arctan 0.217 ≈ 25°.
-needed to pull the piston is S(p0 − p1 ) =        iii) (3 points) At the thermal equilibrium,           NB! the ρ = pµ/RT substitution can be               from which by integrating and using ρv = rρ
+
+
+needed to pull the piston is S(p0 − p1 ) =        iii) (3 points) At the thermal equilibrium,           NB! the ρ = pµ/RT substitution can be               from which by integrating and using ρv = rρ
 300 N.                                            there is as much heat flux to the skin as there   done earlier so the schemes below represent             we get
 • Realize that the pressure inside the the cyl‐   is heat loss due to evaporation. The former       only the relevant observations which can be                                           κ
                                                   (per area) equals to κ dT                         done with ρ already. Also equivalent forms                         ρ(Ts ) = rρ(T ) +      (T − Ts )
@@ -171,7 +173,9 @@ right‐hand‐side and express                       Here we evaluate from the 
 • Correct numerical answer m ∈ [630, 680]g                                                                              dT       dρv                        particles we know v = 2Ek /m. Substitut‐
   (with correct dimension).          0.2 pts            Grading: (preliminary)                                      κ      = −LD                            ing values gives us vf = 2.2 × 103 m s−1 . This
                                                                                                                         dx       dx
-is much less than the speed of light and thus      mentum gives for particle 1:                       from Boyle’s law P1 V1 = P2 V2 ⇝ P2 =                V (V)    I (mA)    ‐V (V)    ‐I (mA)
+
+
+is much less than the speed of light and thus      mentum gives for particle 1:                       from Boyle’s law P1 V1 = P2 V2 ⇝ P2 =                V (V)    I (mA)    ‐V (V)    ‐I (mA)
 justified. Another way to justify the applic‐                                                         P1 V1 /V2 . Thus, the release of xenon must           4.59      7.66     3.491       7.98
 ability of the non‐relativistic approach would                   m1 − m2         2m2                  contribute 1.5 MPa’s worth of pressure due to         4.55      6.53     3.458       6.98
                                                         v1,f =           v1,i +         v2,i ,                                                              4.50      5.52     3.423       6.00
@@ -255,7 +259,9 @@ Dividing the latter by the former leads to                                      
              v1,i + v1,f = v2,i + v2,f .             side the rod as an ideal gas. Simply due to                         Voltage [V]
                                                      swelling the pressure inside the rod would                                                              second branch must contain a diode with
 Substituting this to the conservation of mo‐ increase from 2.5 MPa to 5 MPa as we know                       Voltage and Current Measurements                a higher threshold voltage (approximately
-4.3 V) that only conducts when this voltage          resistor correctly, i.e. as described in the
+
+
+4.3 V) that only conducts when this voltage          resistor correctly, i.e. as described in the
 is exceeded.                                         previous paragraphs                    0.7 pts • Reading the total voltage where 1 mA is go‐
     This second branch could be either in         ii) (2 points) The resistor’s resistance is the     ing through D3                      0.5 pts
 parallel with just a resistor, or in parallel     inverse of the slope in the linear section of • Subtracting V2 from the total           1.5 pts
@@ -310,7 +316,9 @@ Grading: (preliminary)                                 Calculating the value for
 • Placing the reverse diode D1 correctly          the schematic that was used. This schema
   0.3 pts                                         is written for option 2. Valid solution for
 • Placing the forward diodes D2 , D3 and the      option 1 still gives the same max points.
-5. THROWıNG (6 points) — Solution by Eppu velocity from α = 45° as follows. If we go • Effective gravitational field (0, − g) (in the                                                                          C′
+
+
+5. THROWıNG (6 points) — Solution by Eppu velocity from α = 45° as follows. If we go • Effective gravitational field (0, − g) (in the                                                                          C′
 Leinonen and Jaan Kalda.                             back to our kinematical equations, we get              rotated coordinate frame, but this rotation
 i) (2 points) In the drone’s reference frame,        that the condition for the drone and the ball          is not necessary)                        0.2 pts
 the effective gravitational √field is (g, g),        to meet at the same x‐coordinate is vt sin α −       • Drone must be on the envelope curve
@@ -399,7 +407,9 @@ v0 = 2 gh
                                                      • Ball gains vertical and horizontal accelera‐                                                            But now this means that ⃗v − ⃗u must end up
     Alternatively, we can derive the minimal                                                                                                                   on the line SB. The possible ending points of
                                                        tion g                               0.3 pts
-⃗v − ⃗u are achieved by drawing a circle of ra‐     second contribution comes from the buoy‐             for all the fictitious pieces of the rod, if the   so it can be taken out from the integral to
+
+
+⃗v − ⃗u are achieved by drawing a circle of ra‐     second contribution comes from the buoy‐             for all the fictitious pieces of the rod, if the   so it can be taken out from the integral to
                                                                                                                                                                                      (∫       )
  dius u around the ending point of ⃗v . With the    ancy force that can be split into two compon‐        rod rotates with angular speed ω = Bq                                     q
                                                                                                                                                                                         ⃗v dm × B. ⃗ But now
@@ -489,7 +499,9 @@ ment arms. First, the beam’s weight acts at                                   
                                                                                                                                                                                                           0.3 pts
                                                        Since the mass‐to‐charge ratio is the same                                q           ⃗
 its centre of mass, creating zero torque. The                                                            mogenous, dq = m dm and B is constant
-• Concludes that the angular velocity of the of oscillation is thus                                  • Tabulating the potential, of which: 0.7 pts                         Φ(z)/(2πGz)
+
+
+• Concludes that the angular velocity of the of oscillation is thus                                  • Tabulating the potential, of which: 0.7 pts                         Φ(z)/(2πGz)
                                                                               √                        – using six points              0.7/0.7 pts                         Of course, here, ρ0 is a placeholder variable while
   COM is ω = qB                          0.2 pts                      2π           π
                  m
@@ -567,7 +579,9 @@ Alternative solution:
 ii) (0.5 points) The acceleration is propor‐ • Interpolating the values at vz = 0 from               ing the previous harmonic oscillator estim‐
 tional to displacement and therefore corres‐       neighbouring z = 0 crossovers. This               ate. With the constant density approxima‐ By, for example, picking points z1 and z6 and
 ponds to a harmonic oscillator. The period         should be explicitly mentioned          0.8 pts   tion, the surface density is Σ(z) = ρ0 z = seeing that they have 2.5 full turns between
-them, we can express how long ago the per‐ onto it from the environment. If the room                   • Making at least three measurements of the         • Deriving a correct formula for H           0.5 pts
+
+
+them, we can express how long ago the per‐ onto it from the environment. If the room                   • Making at least three measurements of the         • Deriving a correct formula for H           0.5 pts
 turbation happened:                               is more or less at the thermal equilibrium at          black plate, the polished plate and the sur‐      • Evaluating correctly 0.2 pts (any mistake,
                                                   temperature T0 , the room is filled with the           rounding environment (0.2 p for each set of         either with units or arithmetic, leads to no
                    2π                             photons at thermal equilibrium with walls              3, totalling)                          0.6 pts      points)
@@ -642,7 +656,9 @@ were also told that the radiation power can • Measuring the radiance of the pl
 be linearized: Pthermal = P0 + αT . Objects         a properly (plates are properly dried and            a value that is reasonable for the given                0       1        2           3      4        5
 with ε < 1 radiate Pε = ε(P0 + αTε ), but           measurements are done in a timely man‐               voltage, i.e. difference is not bigger than
 they also reflect/scatter the radiation falling     ner)                                     0.4 pts     1 °C                                      0.6 pts
-    Linear regression analysis of ln[T (t + 1) −                   The total heat transfer coefficient H is found Now we need to use the values from Parts 1                         So, we heat the plate — the easier way is
+
+
+    Linear regression analysis of ln[T (t + 1) −                   The total heat transfer coefficient H is found Now we need to use the values from Parts 1                         So, we heat the plate — the easier way is
 T (t)] versus t yields:                                            as                                                       and 2:                                               by immersing into hot water — and measure
                                                                               H = h · A = 37.8 mW K−1 .                                                                          the time and temperature as it cools down.
       ln[T (t + τ ) − T (t)] = 1.0333 − 0.1378t                                                                              U = 15 V, R = 220 Ω, H = 3.78 × 10−2 W K−1As a result, we obtain data about T (t); the en‐
@@ -726,7 +742,9 @@ ing U = 15 V, R = 220 Ω, A = 40 × 40 mm =                    2               
                      U 2 /R                                                             Pin − H(T − T0 )                    ii was solved using the solution 1, this is the          T2 layers (°C) * 35.3 34.0 32.9 31.9 30.8
         h=                           ≈ 23.6 W/(m2 ·K).                           C=                         .
                A · (Tf − T0 )                                                                γ(Tf − T )                     only viable way.                                         T3 layers (°C) 45.4 43.1 41.6 40.0 38.9 37.3
-*The data point at t = 0 for 2 layers is                                           resistance of convection and radiation. Each   plotting and finding the fit line slope 0.4 pts
+
+
+*The data point at t = 0 for 2 layers is                                           resistance of convection and radiation. Each   plotting and finding the fit line slope 0.4 pts
 excluded as it did not represent complete                                          additional layer adds a resistance ∆R =        (divide by two if only one pair of γ values
 thermal equilibrium across the silicone lay‐                                       δ/(κA), where δ is the layer thickness, κ is   was used)
 ers. For a cooling process with constant am‐                                       the thermal conductivity, and A is the area. • Obtained value of κ within a reasonable

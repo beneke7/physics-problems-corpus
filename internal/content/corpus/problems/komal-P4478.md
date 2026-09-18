@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A cyclist is riding his bicycle all out while he goes uphill at a speed of v $_{1}$=12 km/h, and he can go downhill, on the same slope, at a speed of v $_{2}$=36 km/h. What is his top speed on the level road, if his maximum strength to ride the bike is independent of the speed of the bicycle? 
+A cyclist is riding his bicycle all out while he goes uphill at a speed of v $_{1}$=12 km/h, and he can go downhill, on the same slope, at a speed of v $_{2}$=36 km/h. What is his top speed on the level road, if his maximum strength to ride the bike is independent of the speed of the bicycle?
  (5 pont)

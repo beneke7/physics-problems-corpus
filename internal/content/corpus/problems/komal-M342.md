@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201405"
 verification_status: pending
 ---
 
-Measure the instantaneous speed of a table-tennis ball, which was dropped in static air, and plot the speed both as a function of the distance covered and as a function of the elapsed time. What will the terminal speed of the ball be? 
+Measure the instantaneous speed of a table-tennis ball, which was dropped in static air, and plot the speed both as a function of the distance covered and as a function of the elapsed time. What will the terminal speed of the ball be?
  (6 pont)

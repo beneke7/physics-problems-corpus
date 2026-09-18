@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-In the circuit shown in the figure below there are identical incandescent lamps. After the switch is closed, will lamp A or B be brighter or dimmer? (Do not consider the temperature dependence of the resistances of the filament lamps.) 
+In the circuit shown in the figure below there are identical incandescent lamps. After the switch is closed, will lamp A or B be brighter or dimmer? (Do not consider the temperature dependence of the resistances of the filament lamps.)
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G792-fig1.gif)
+![figure](../../figures/komal/figures/komal-G792-fig1.gif)

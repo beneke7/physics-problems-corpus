@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Two alike uniform rods are attached to each other with a pivot joint at their ends. The rods are at rest on a frictionless horizontal tabletop, lying along a straight line. Suddenly the free end of one of the rods is hit perpendicularly to the rod such that the endpoint of the rod begins to move at a speed of 1 m/s. Into what direction and at what speed does the free end of the other rod begin to move? 
+Two alike uniform rods are attached to each other with a pivot joint at their ends. The rods are at rest on a frictionless horizontal tabletop, lying along a straight line. Suddenly the free end of one of the rods is hit perpendicularly to the rod such that the endpoint of the rod begins to move at a speed of 1 m/s. Into what direction and at what speed does the free end of the other rod begin to move?
  (6 pont)

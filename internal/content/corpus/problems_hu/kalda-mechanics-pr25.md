@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nagyon könnyű és súrlódásmentes anyagból készült ék felső felülete két, a vízszintessel $\alpha$ szöget bezáró, egymás felé lejtő síkból áll. Az ék vízszintes síkon fekszik; felső felületének mélyedésében egy $m$ tömegű kis golyó van. Az elsőnél magasabban egy $M$ tömegű másik golyót helyezünk el, majd a rendszert elengedjük. Milyen feltétel mellett kezd a kis, $m$ tömegű golyó felfelé csúszni a lejtőn? A súrlódás elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr25-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr25-fig1.jpg)

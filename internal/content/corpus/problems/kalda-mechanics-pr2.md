@@ -19,4 +19,4 @@ verification_status: pending
 
 On an incline with slope angle $\alpha$ there lies a cylinder with mass $M$, its axis being horizontal. A small block with mass $m$ is placed inside it. The coefficient of friction between the block and the cylinder is $\mu$; the incline is nonslippery. What is the maximum slope angle $\alpha$ for the cylinder to stay at rest? The block is much smaller than the radius of the cylinder.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr2-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr2-fig1.jpg)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-There is a sample of neon in a cylinder which is closed by a piston. The gas is compressed such that its volume decreased to two-thirds of the original volume. The p ,  V graph of the process is a straight line segment. In the final state the pressure of the gas is twice as much as it was originally. 
- a ) By what factor did the absolute temperature of the gas increased? 
- b ) How much thermal energy was absorbed by the gas from its environment? 
- c ) How can this process be realized? 
+There is a sample of neon in a cylinder which is closed by a piston. The gas is compressed such that its volume decreased to two-thirds of the original volume. The p ,  V graph of the process is a straight line segment. In the final state the pressure of the gas is twice as much as it was originally.
+ a ) By what factor did the absolute temperature of the gas increased?
+ b ) How much thermal energy was absorbed by the gas from its environment?
+ c ) How can this process be realized?
  (5 pont)

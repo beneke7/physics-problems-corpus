@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, differential-element]
 ---
 
-Two uniform rods of equal mass are carefully placed next to a vertical wall horizontally such that one is on the top of the other as shown in the figure. Then the two rods are released. What will the ratio of the greatest speeds of the rods be if the radius of the above rod is just a tiny bit smaller than that of the bottom one? (Friction is negligible everywhere.) 
+Two uniform rods of equal mass are carefully placed next to a vertical wall horizontally such that one is on the top of the other as shown in the figure. Then the two rods are released. What will the ratio of the greatest speeds of the rods be if the radius of the above rod is just a tiny bit smaller than that of the bottom one? (Friction is negligible everywhere.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4836-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4836-fig1.gif)

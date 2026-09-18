@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű és $r$ sugarú gyűrű súrlódásmentes vízszintes felületen áll. A gyűrű belsejében egy vékony, súrlódásmentes alagút van, amelyben egy $m$ tömegű kis test csúszhat. Kezdetben minden test nyugalomban van, a kis test pedig a gyűrű legfelső pontján helyezkedik el. Határozzuk meg a gyűrű középpontjának sebességét és gyorsulását abban a pillanatban, amikor a gyűrű középpontját és a test helyét összekötő képzeletbeli egyenes a függőlegessel $\varphi$ szöget zár be.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr80-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr80-fig1.jpg)

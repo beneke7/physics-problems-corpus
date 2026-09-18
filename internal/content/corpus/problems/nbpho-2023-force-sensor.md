@@ -24,7 +24,7 @@ solution_language: en
 
 A force sensor is constructed from a flexible beam of working length $L$ and height $h$ to which four identical electrically resistive wires of length $l \ll L$ are attached, as shown in the figure below. If a force $F$ is applied to the end of the beam, it will bend the beam and stretch the upper wires and compress the lower ones, causing changes in the electrical resistance. Using the Wheatstone bridge method, these changes can be converted into a voltmeter reading, allowing for the measurement of the applied force $F$.
 
-![Force sensor setup](sources/nbpho/figures/nbpho-2023-force-sensor-fig1.jpg)
+![Force sensor setup](../../figures/nbpho/figures/nbpho-2023-force-sensor-fig1.jpg)
 
 In what follows, assume that the deflection of the beam is very small.
 
@@ -34,4 +34,4 @@ In what follows, assume that the deflection of the beam is very small.
 
 **iii)** *(2 points)* The resistors are arranged in a Wheatstone bridge configuration shown in the figure below, where $U$ is the known battery voltage. Find the relationship between the measured voltage $V$ and the force $F$.
 
-![Wheatstone bridge circuit](sources/nbpho/figures/nbpho-2023-force-sensor-fig2.jpg)
+![Wheatstone bridge circuit](../../figures/nbpho/figures/nbpho-2023-force-sensor-fig2.jpg)

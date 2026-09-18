@@ -29,7 +29,7 @@ $$
 [2.5+4+1.5=8]
 $$
 
-![](inpho-2011-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2011-a1-fig01.png)
 Figure 1:
 
 

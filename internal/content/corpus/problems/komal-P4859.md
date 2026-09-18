@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, extremization]
 ---
 
-A straight wire, having a certain length, is attached to a rechargeable battery of small internal resistance. The wire warms up to a temperature of $37~{}^\circ$C, while the ambient temperature is $27~{}^\circ$C. Then one third of the wire is cut off and the remaining part is attached to the same rechargeable battery. What will the eventual temperature of the wire be? 
+A straight wire, having a certain length, is attached to a rechargeable battery of small internal resistance. The wire warms up to a temperature of $37~{}^\circ$C, while the ambient temperature is $27~{}^\circ$C. Then one third of the wire is cut off and the remaining part is attached to the same rechargeable battery. What will the eventual temperature of the wire be?
  (4 pont)

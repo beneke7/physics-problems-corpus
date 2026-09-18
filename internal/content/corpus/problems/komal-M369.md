@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201705"
 verification_status: pending
 ---
 
-Measure the rotational inertia of a AA battery (Mignon) about its axis of symmetry ($a$), and about the axis ($b$) which is perpendicular to the previous one and goes through the centre of mass of the battery. 
+Measure the rotational inertia of a AA battery (Mignon) about its axis of symmetry ($a$), and about the axis ($b$) which is perpendicular to the previous one and goes through the centre of mass of the battery.
 
- Give the result in terms of $mR^2$ and $mH^2$. ($R$ is the radius of the battery, $H$ is its height and $m$ is its mass.) 
+ Give the result in terms of $mR^2$ and $mH^2$. ($R$ is the radius of the battery, $H$ is its height and $m$ is its mass.)
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M369-fig1.gif)
+![figure](../../figures/komal/figures/komal-M369-fig1.gif)

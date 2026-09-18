@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A cylinder of mass $m$, radius $r$, and with a uniform mass distribution, rolls back and forth without sliding inside a fixed, thin-walled tube of radius $R$, near the lowest point of the tube. What is the period of the motion? 
+A cylinder of mass $m$, radius $r$, and with a uniform mass distribution, rolls back and forth without sliding inside a fixed, thin-walled tube of radius $R$, near the lowest point of the tube. What is the period of the motion?
  (5 pont)

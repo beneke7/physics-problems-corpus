@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: pending
 ---
 
-The large hadron accelerator in CERN accelerates protons of initial energy 450 GeV to a final energy of 7 TeV, according to the plans. During the acceleration what is the increase of the speed of the protons in m/s? (Round the result to integers.) 
+The large hadron accelerator in CERN accelerates protons of initial energy 450 GeV to a final energy of 7 TeV, according to the plans. During the acceleration what is the increase of the speed of the protons in m/s? (Round the result to integers.)
  (4 pont)

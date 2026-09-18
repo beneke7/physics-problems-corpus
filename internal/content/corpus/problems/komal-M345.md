@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201411"
 verification_status: pending
 ---
 
-Measure how the height of the water in a vertical conical funnel decreases as a function of time. 
+Measure how the height of the water in a vertical conical funnel decreases as a function of time.
  (6 pont)

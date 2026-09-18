@@ -42,7 +42,9 @@ A rocket with a full fuel tank has a mass M and is initially stationary. The fue
             see INPhO 2016, problem 3.)
 
                                                        13
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
      (d) It is desired for a rocket to begin at zero speed and accelerate to speed v, to deliver a given
          payload. If the exhaust comes out with a relative velocity of u, how should u be chosen to
@@ -55,5 +57,5 @@ A rocket with a full fuel tank has a mass M and is initially stationary. The fue
 
      (f) Now suppose u can be freely varied over time. Qualitatively, how should it be chosen to
 
-                   01m
+                   01m
          maximize η, and what is the maximum possible value of η?

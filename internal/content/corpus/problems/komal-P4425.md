@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [stability-analysis, smart-coordinates]
 ---
 
-A small object is mounted to the perimeter of a hoop of radius  r . The mass of the object and the hoop is the same. The hoop is placed into a fixed semi-cylinder shaped rough trough of radius  R , such that the small mass is at the top. Find the least r / R ratio such that the equilibrium state of the hoop is stable. 
+A small object is mounted to the perimeter of a hoop of radius  r . The mass of the object and the hoop is the same. The hoop is placed into a fixed semi-cylinder shaped rough trough of radius  R , such that the small mass is at the top. Find the least r / R ratio such that the equilibrium state of the hoop is stable.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4425-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4425-fig1.gif)

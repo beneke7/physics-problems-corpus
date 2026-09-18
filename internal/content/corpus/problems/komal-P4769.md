@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, auxiliary-unknowns, graphical-reduction]
 ---
 
-The motion of points $A$ and $B$ is determined - but otherwise not restricted. How can the velocity and the acceleration of the midpoint of the line segment $AB$ be expressed in terms of the appropriate data of points $A$ and $B$ ? 
+The motion of points $A$ and $B$ is determined - but otherwise not restricted. How can the velocity and the acceleration of the midpoint of the line segment $AB$ be expressed in terms of the appropriate data of points $A$ and $B$ ?
  (4 pont)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A compressed spring, which is tied with a piece of thread, is placed between two carts of masses $M$ and $2M$ such that it is fixed to only one of the carts. This system is placed to a horizontal frictionless tabletop and given an initial speed of $v_0$. After some time the thread breaks, and because of this one of the carts stops. 
- $a)$ At what speed does the other cart move further? 
- $b)$ How much energy was stored in the spring? 
+A compressed spring, which is tied with a piece of thread, is placed between two carts of masses $M$ and $2M$ such that it is fixed to only one of the carts. This system is placed to a horizontal frictionless tabletop and given an initial speed of $v_0$. After some time the thread breaks, and because of this one of the carts stops.
+ $a)$ At what speed does the other cart move further?
+ $b)$ How much energy was stored in the spring?
  (4 pont)

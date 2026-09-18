@@ -54,4 +54,6 @@ solution_language: en
          waves are also commonly called “gravity waves”.
 
                                                        7
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts

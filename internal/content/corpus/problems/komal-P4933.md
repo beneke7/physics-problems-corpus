@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-Two unfixed spheres of mass 1 g, and of radius 4 mm are charged to $Q_1=10^{-10}$ C, and $Q_2=-2\cdot 10^{-10}$ C and are placed at a distance of 1 m. The spheres are left to move freely. 
- How long does it take for them to be at a distance of 25 cm? 
+Two unfixed spheres of mass 1 g, and of radius 4 mm are charged to $Q_1=10^{-10}$ C, and $Q_2=-2\cdot 10^{-10}$ C and are placed at a distance of 1 m. The spheres are left to move freely.
+ How long does it take for them to be at a distance of 25 cm?
  (5 pont)

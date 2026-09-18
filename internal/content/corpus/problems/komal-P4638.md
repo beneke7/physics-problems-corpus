@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201405"
 verification_status: pending
 ---
 
-An object is projected up at an initial upward speed of 12 m/s on the Moon. What will the speed of the object be at the moment when the half of the time of the upward motion elapsed? And what will its speed be when it is halfway of its upward motion? 
+An object is projected up at an initial upward speed of 12 m/s on the Moon. What will the speed of the object be at the moment when the half of the time of the upward motion elapsed? And what will its speed be when it is halfway of its upward motion?
  (3 pont)

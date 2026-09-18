@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A sample of diatomic ideal gas at a temperature $T_0$ is enclosed in a vertical, thermally insulated container by an easily moveable and thermally insulated piston. The gas is slowly heated, thus its volume begins to increase. During heating, when the volume of the gas has just doubled, the piston in the cylinder got stuck in the rim which narrowed the cylinder. Determine the final temperature of the gas $T$, if it is known that $80\%$ of the heat added to the gas was used to increase the internal energy. 
+A sample of diatomic ideal gas at a temperature $T_0$ is enclosed in a vertical, thermally insulated container by an easily moveable and thermally insulated piston. The gas is slowly heated, thus its volume begins to increase. During heating, when the volume of the gas has just doubled, the piston in the cylinder got stuck in the rim which narrowed the cylinder. Determine the final temperature of the gas $T$, if it is known that $80\%$ of the heat added to the gas was used to increase the internal energy.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5396-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5396-fig1.gif)

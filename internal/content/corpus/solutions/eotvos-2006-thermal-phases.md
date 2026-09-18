@@ -13,15 +13,15 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2006
 ---
 
 1. Fizika szakkörön egy példatárból az alábbi feladat kerül el®:
-Egy függ®legesen álló, henger alakú edényt kb. fele magasságáig megtöltünk vízzel, majd lezárjuk. Az alap- és
+ Egy függ®legesen álló, henger alakú edényt kb. fele magasságáig megtöltünk vízzel, majd lezárjuk. Az alap- és
 fed®lap jó h®vezet®, a henger oldalfala h®szigetel®. Az alaplapot −10 ◦
 C-ra h¶tjük, a fed®lapot 110 ◦
 C-ra melegítjük, s
 a továbbiakban ezen a h®mérsékleten tartjuk. Hosszú id® elteltével hogyan oszlanak meg magasság szerint a különböz®
-halmazállapotok az edényben?
+halmazállapotok az edényben?
 A nebulók különböz® könyvekben kutakodnak. Tóni szerint a jég úszik a vízen, a folyékony víznek tehát alul kell
 lennie. Réka szerint középen kell lennie a víznek, hiszen forró g®zzel érintkezik. Bea, miközben adatokat keres, felfedezi,
-hogy a gázok h®vezet®képessége néhány táblázatban  feltehet®en elírás folytán  nagyobbnak van feltüntetve a víz vagy
+hogy a gázok h®vezet®képessége néhány táblázatban   feltehet®en elírás folytán   nagyobbnak van feltüntetve a víz vagy
 a jég h®vezet® képességénél, más táblázatok és könyvek szerint azonban a gázok h®vezet® képessége sokszorosan kisebb.
 (Bea szerint is így logikus.)
 Segítsünk nekik megtalálni a helyes választ a feladat kérdésére!
@@ -42,9 +42,9 @@ nevezik h®vezetési együtthatónak, ennek mértékegysége SI rendszerben
 J
 mKs
 .
-A h®vezetési együttható jellemzi a h®vezet® képességet, ez az, ami néhány táblázatban  feltehet®en elírás foly-
-tán  hibásan szerepel. A helyes értékek (lásd például a Nemzeti Tankönyvkiadó Négyjegy¶ függvénytáblázatok,
-összefüggések és adatok 2005-ös 2., javított kiadásának 216., 214. és 212. oldalát) a következ®k:
+A h®vezetési együttható jellemzi a h®vezet® képességet, ez az, ami néhány táblázatban   feltehet®en elírás foly-
+tán   hibásan szerepel. A helyes értékek (lásd például a Nemzeti Tankönyvkiadó  Négyjegy¶ függvénytáblázatok,
+összefüggések és adatok  2005-ös 2., javított kiadásának 216., 214. és 212. oldalát) a következ®k:
 vízg®zre (18 ◦
 C-on) λg = 18,0 · 10−3 J
 mKs
@@ -83,7 +83,7 @@ leveg® és egy kevés vízg®z keveréke, víz pedig egyáltalán nem lesz a he
 −9 ◦
 C körül stabilizálódik.
 Van ilyen ala sony h®mérséklet¶ vízg®z? Van. Tekintsük a H2O (p,T) diagramját! Az 1. ábrán feltüntettük azt
-az A állapotot, amely a jégg®z határfelületén alakul ki. A telített vízg®z nyomása itt mintegy 300 Pa, ami a 105
+az A állapotot, amely a jég g®z határfelületén alakul ki. A telített vízg®z nyomása itt mintegy 300 Pa, ami a 105
 Pa
 körüli nyomású leveg®höz képest nagyon ki si, ezért lesz olyan kevés vízg®z a jég fölötti leveg®ben. (H-val a H2O
 hármaspontját jelöltük. Az ábra nem méretarányos.)

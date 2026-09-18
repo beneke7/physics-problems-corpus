@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-In the circuit shown in the figure , the electromotive force of the voltage supply is $20~\mathrm{V}$, the resistances of the resistors are $R_1=50~\Omega$ and $R_2=150~\Omega$, and the capacitor has a capacity of $20~\mu\mathrm{F}$. Initially, switch K is closed. 
- a) What is the charge on the capacitor when the switch is closed? 
- b) Until the steady state is reached after the switch is opened, how much does the energy of the capacitor change and how much heat is dissipated in resistor $R_1$? The internal resistance of the voltage supply is negligible. 
+In the circuit shown in the figure , the electromotive force of the voltage supply is $20~\mathrm{V}$, the resistances of the resistors are $R_1=50~\Omega$ and $R_2=150~\Omega$, and the capacitor has a capacity of $20~\mu\mathrm{F}$. Initially, switch K is closed.
+ a) What is the charge on the capacitor when the switch is closed?
+ b) Until the steady state is reached after the switch is opened, how much does the energy of the capacitor change and how much heat is dissipated in resistor $R_1$? The internal resistance of the voltage supply is negligible.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5676-fig1.png)
+![figure](../../figures/komal/figures/komal-P5676-fig1.png)

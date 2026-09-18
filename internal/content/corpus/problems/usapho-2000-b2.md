@@ -24,7 +24,7 @@ techniques: [conservation-laws, smart-coordinates]
 ---
 
 B2. We shall model a car as a uniform rectangular block of length $L$ and height $h$ with mass $M$ that has struts of length $R$ that rest on the frictionless axles of two wheels of radius $R$, one front wheel and one rear wheel. Each wheel has a mass $m$ and a uniform mass density. The driver can exert a friction force at the top of the front wheel to slow down the car. See the diagram below.
-![](usapho-2000-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-2000-b2-fig01.png)
 
 Assume that the two identical wheels have a coefficient of static friction $\mu$ with the ground. The driver applies a braking force that causes the vehicle to decelerate with a deceleration of magnitude $a$.
 

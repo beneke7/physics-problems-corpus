@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-A solid brick of mass 27 kg is placed onto a horizontal tabletop. If it is placed onto one of its face then the pressure on the tabletop is 4500 Pa. When another face is in contact with the table then the pressure is 7200 Pa, and facing down to its third side the pressure on the tabletop 2700 Pa. What is the density of the brick? 
+A solid brick of mass 27 kg is placed onto a horizontal tabletop. If it is placed onto one of its face then the pressure on the tabletop is 4500 Pa. When another face is in contact with the table then the pressure is 7200 Pa, and facing down to its third side the pressure on the tabletop 2700 Pa. What is the density of the brick?
  (4 pont)

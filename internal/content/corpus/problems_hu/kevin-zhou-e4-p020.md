@@ -34,7 +34,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                       10
-Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
 
 
  (b) Mutassuk meg, hogy a töltés L perdülete nem marad meg, viszont

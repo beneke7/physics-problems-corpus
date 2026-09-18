@@ -28,7 +28,7 @@ When an intense laser beam falls onto a semitransparent plate, the transmitted l
 
 A semitransparent disk with radius $a = 15.0\,\mathrm{mm}$, thickness $b = 0.2\,\mathrm{mm}$ and optical absorption coefficient $A = 0.1$ is composed of a material having thermal conductivity $k = 0.3\,\mathrm{W\,m^{-1}\,K^{-1}}$ and thermo-optic coefficient $\gamma = 2.5 \cdot 10^{-4}\,\mathrm{K^{-1}}$. The outer rim of the disk is thermally connected to a circular metallic holder (not shown in the figure) maintained at a constant temperature $T_\mathrm{h} = 20\,^\circ\mathrm{C}$. A parallel laser beam of radius $\sigma = 0.5\,\mathrm{mm}$ and power $P_\mathrm{L} = 20\,\mathrm{mW}$ is incident normally onto the center of the disk. The intensity distribution is homogeneous across the cross-section of the beam.
 
-![figure](../../sources/eupho/figures/eupho-2023-T1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2023-T1-1.png)
 
 a) (2 pts) Sketch a qualitative graph of the temperature profile $T(r)$, where $r$ denotes the distance from the axis of the beam. Indicate clearly on the graph the illuminated region $0 \le r \le \sigma$ and the outer region $\sigma \le r \le a$.
 

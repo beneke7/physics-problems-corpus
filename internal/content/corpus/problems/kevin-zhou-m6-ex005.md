@@ -41,7 +41,7 @@ Example 5
    If the Earth were replaced by a point mass at its center, then the object could perform a
    full orbit, with total period T . The time until the object actually hits the Earth’s surface is
    determined by the fraction of the orbit’s area swept out. Referring to the diagram, this is
-                                                                  
+
                                        πab/4 + ab/2         1    1
                                  t=T                  =T      +
                                             πab             4 2π
@@ -56,10 +56,12 @@ Example 5
             p
    so v =    GM/R. Using T = 2πR/v gives the answer,
                                                r
-                                      π         R3
+                                       π          R3
                                   t=      +1         .
                                         2        GM
    Of course, you can get the same answer by directly solving Newton’s laws.
 
                                                   9
-    Kevin Zhou                                                                    Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                    Physics Olympiad Handouts

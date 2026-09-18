@@ -35,7 +35,9 @@ solution_language: en
 
 
                                                       10
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 
  (b) Show that the angular momentum L of the charge is not conserved, but that

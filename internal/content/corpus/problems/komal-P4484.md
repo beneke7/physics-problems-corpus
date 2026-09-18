@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-Estimate the pressure on the wall of a small cube of edge  d , due to a neutron confined in the cube. 
+Estimate the pressure on the wall of a small cube of edge  d , due to a neutron confined in the cube.
  (5 pont)

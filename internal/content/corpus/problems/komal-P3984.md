@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: pending
 ---
 
-Estimate how much does the height of the mercury column change in Torricelli's experiment 
- a ) if the device is brought from the room of tempereture to the balcony where the temperature is ; 
- b ) if the device is kept in the room but some drops of water is inserted into the tube. 
- (In his famous experiment Torricelli created a metre long tube sealed at the top end, filled it with mercury, and set it vertically into a basin of mercury. The column of mercury fell to about 76 cm.) 
+Estimate how much does the height of the mercury column change in Torricelli's experiment
+ a ) if the device is brought from the room of tempereture to the balcony where the temperature is ;
+ b ) if the device is kept in the room but some drops of water is inserted into the tube.
+ (In his famous experiment Torricelli created a metre long tube sealed at the top end, filled it with mercury, and set it vertically into a basin of mercury. The column of mercury fell to about 76 cm.)
  (4 pont)

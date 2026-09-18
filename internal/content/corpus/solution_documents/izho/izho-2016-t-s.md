@@ -71,7 +71,9 @@ takes the following form
         №                                    Content                               points
         1.     Expression for C that contains the derivative                        1.0
         2.     The derivative is found for the point А                              1.0
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 2/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 2/8
 
 
         3.     Correct answer (𝐶𝑉 − 𝑅 or 𝑅/2)                                            1.0
@@ -123,7 +125,9 @@ small rise of water level h in the tube takes the form
                  U G  R 2 hgh .                                  (5)
         It is taken into account that the liquid of the mass m  R 2 h
 has risen to the height h .
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/8
 
 
 2.3 [1.0 points] If U S exceeds U G , the energy of the system decreases when the liquid has
@@ -184,7 +188,9 @@ it reaches its maximum value of             cos  at h 
 given parameters of the tube                cos   25mm , so
                                      4tg
 there are two root corresponding to the two equilibrium positions. It is easy to show that the smaller
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 4/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 4/8
 
 
 root gives a stable equilibrium position, and the larger one is unstable and their numerical values
@@ -244,7 +250,9 @@ from which it follows that
   3.3                                    h                                              0,5
          Equation (10)  0 cos   2 r         r 2 hgh                                         1.0
                                         cos 
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 5/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 5/8
 
 
                             2 0 cos                      h0                          0,5
@@ -301,7 +309,9 @@ where the electric current is obtained as
 where 𝑓(𝑞) = 𝑅/ (𝑈0 − 𝐶(𝑞)) is a function of the charge of the capacitor.
         The function 𝑓(𝑞) is easily retrieved from the provided graph of 𝐶 = 𝐶(𝑈) and turns out
 linear as shown in the figure below.
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 6/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 6/8
 
 
 
@@ -350,7 +360,9 @@ the source, i.e.
 time the constant component of the voltage will be dropped across the capacitor only, i.e.
                  𝑈𝐶 = 5,000 𝑉,                                                                     (18)
 and the constant component of the voltage drop across the resistor will be equal to zero, i.e.
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions                          Page 7/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions                          Page 7/8
 
 
                𝑈𝑅 = 0.                                                                            (19)
@@ -407,7 +419,9 @@ gets
          Equation (7) 𝑑𝑡 =                      𝑞     𝑑𝑞 = 𝑓(𝑞)𝑑𝑞 with the function 𝑓(𝑞) =
                                         𝑈0 −
                                                𝐶(𝑞)
-XII International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 8/8
+
+
+XII International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 8/8
 
 
                     𝑞                                                             3.0

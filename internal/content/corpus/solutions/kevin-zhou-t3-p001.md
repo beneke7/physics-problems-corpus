@@ -62,25 +62,25 @@ law gives
 P1V1 + P2V2 = P3V3.
 If there is no surface tension, then all the Pi are equal to P, so V3 = V1 + V2.
 (c) Accounting for the excess pressure, we have
-
+
 P +
 4γ
 R1
-
+
 R3
 1 +
-
+
 P +
 4γ
 R2
-
+
 R3
 2 =
-
+
 P +
 4γ
 R3
-
+
 R3
 3
 and solving for γ gives
@@ -107,18 +107,18 @@ and the surface tension is γ. The two bubbles then merge isothermally. Calculat
 at the top of the jar.
 Solution. Since the air-water surface has only one “side”, the excess pressure is ∆P = 2γ/R0. The
 process is isothermal and the number of moles of gas stays the same, so by the ideal gas law,
-
+
 P1 +
 2γ
 R1
-
+
 R3
 1 = 2
-
+
 P0 +
 2γ
 R0
-
+
 R3
 0.
 Since water is incompressible, the volume of gas should also stay the same, R3
@@ -129,8 +129,8 @@ P1 = P0 +
 R0
 (2 − 22/3
 ).
-[3] Problem 4.  W 1 0USAPhO 2007, problem A3.
-[3] Problem 5.  ^ 1 0IPhO 2014, problem 1B.
+[3] Problem 4.   W 1 0USAPhO 2007, problem A3.
+[3] Problem 5.   ^ 1 0IPhO 2014, problem 1B.
 Idea 2
 One can also have liquid, solid, and airin the same problem, which leads to some complications.
 Let Al and As be the surface areas of the liquid and solid exposed to the air, and Asl be the

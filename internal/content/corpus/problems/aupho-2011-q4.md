@@ -24,7 +24,7 @@ techniques: []
 ---
 
 Question 4
-![](aupho-2011-q4-fig01.png)
+![](../../figures/aupho/figures/aupho-2011-q4-fig01.png)
 A heavy, decrepit bus has broken down and a small car with a public-spirited driver is pushing it to a garage. After the vehicles have reached a constant cruising speed,
 
 a. the amount of force with which the small car pushes against the bus is equal to the amount of force with which the bus pushes back against the small car.

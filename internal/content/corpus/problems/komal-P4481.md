@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201211"
 verification_status: pending
 ---
 
-A big piece of positively charged metal sheet is illuminated by light of wavelength  . The surface charge density of the metal is  , and the work function of the metal is  W . 
- a ) At what greatest distance from the metal can electrons be found? 
- b ) At what speed do the electrons moving back to the sheet hit the sheet? 
- ( Data: =2$^{.}$10$^{-6}$ C/m$^{2}$, W =0.41 aJ, =400 nm.) 
+A big piece of positively charged metal sheet is illuminated by light of wavelength  . The surface charge density of the metal is  , and the work function of the metal is  W .
+ a ) At what greatest distance from the metal can electrons be found?
+ b ) At what speed do the electrons moving back to the sheet hit the sheet?
+ ( Data: =2$^{.}$10$^{-6}$ C/m$^{2}$, W =0.41 aJ, =400 nm.)
  (4 pont)

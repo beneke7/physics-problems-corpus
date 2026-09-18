@@ -36,5 +36,5 @@ solution_language: en
     identical, but it’s a well-verified fact about molecular rotational energy levels. For example, if the
     two atoms in the molecule had nuclei of different isotopes, we measure the result of part (a), and if
 
-                   01h
+                   01h
     they were the same isotope, we measure the result of part (b).

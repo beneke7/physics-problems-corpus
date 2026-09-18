@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201609"
 verification_status: pending
 ---
 
-Let us hang objects of different mass to the the same spring one after the other. (The mass of each object should be greater than that of the spring.) Measure the periods of the oscillations, and with the help of the data determine the ``mass of the spring reduced to the oscillation''. According to the measurement what percent of the real mass of the spring is the measured reduced mass? 
- (The mass reduced to the oscillation is that mass $m^*$ which should be added to the mass of the oscillating object $m$, such that the following formula holds true: $T=2\pi\sqrt{\frac{m+m^*}{D}}$.) 
+Let us hang objects of different mass to the the same spring one after the other. (The mass of each object should be greater than that of the spring.) Measure the periods of the oscillations, and with the help of the data determine the ``mass of the spring reduced to the oscillation''. According to the measurement what percent of the real mass of the spring is the measured reduced mass?
+ (The mass reduced to the oscillation is that mass $m^*$ which should be added to the mass of the oscillating object $m$, such that the following formula holds true: $T=2\pi\sqrt{\frac{m+m^*}{D}}$.)
  (6 pont)

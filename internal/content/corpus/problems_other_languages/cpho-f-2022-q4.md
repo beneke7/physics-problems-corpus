@@ -23,7 +23,7 @@ verification_status: pending
 
 四、（60 分）自由电子激光器是以自由电子束为工作物质，将相对论性电子束的动能转变成相干辐射能的装置，它在科研、生产等领域中都具有重大应用前景。如图4a，自由电子激
 
-![](cpho-f-2022-q4-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-q4-fig01.png)
 图4a
 光器的基本结构有三个部分：电子束加速器、扭摆器和光学谐振腔；其中扭摆器是自由电子激光器的核心部分，它由沿 $z$ 方向按空间周期 $\Lambda$ 排列的永磁体组成，产生周期性横向静磁场，磁感应强度方向沿 $x$ 轴，大小为
 
@@ -36,7 +36,7 @@ $$
 （2）如果扭摆器磁场的空间变化周期 $\Lambda=1 \mathrm{~mm}$（可视为准确值），沿 $z$ 轴正方向辐射 X 激光的波长为 $4.00 \AA$ ，求电子束加速器的加速电压。已知电子静止质量 $m_{\mathrm{e}}=9.11 \times 10^{-31} \mathrm{~kg}$ ，单位电荷量$e=1.60 \times 10^{-19} \mathrm{C}$ 。
 （3）用波长为 $4.00 \AA$ 的激光作为入射光（可视为平面波），如图4b所示。在 $x-z$ 平面内有等边菱形组成的共面二维晶体，菱形的边长 $d=8.00 \AA$ ，两顶角各为 $60^{\circ} 、 120^{\circ}$ ，设二维晶体对入射
 
-![](cpho-f-2022-q4-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-q4-fig02.png)
 图4b
 
 波的散射较弱，可忽略散射波再次被散射的影响，试问在 $x-z$ 平面内远处可以观察到多少衍射主级峰？并求相应主级峰的方位（用图4b中的 $\theta$表示）。
@@ -44,7 +44,7 @@ $$
 已知：在两惯性参考系 $\mathrm{S}^{\prime}\left(x^{\prime}, y^{\prime}, z^{\prime}\right) 、 \mathrm{~S}(x, y, z)$ 中电磁场的变换关系为
 
 $$
-\left\{\begin{array} { l } 
+\left\{\begin{array} { l }
 { E _ { x ^ { \prime } } = \frac { E _ { x } - v _ { 0 } B _ { y } } { \sqrt { 1 - ( \frac { v _ { 0 } } { c } ) ^ { 2 } } } , } \\
 { E _ { y ^ { \prime } } = \frac { E _ { y } + v _ { 0 } B _ { x } } { \sqrt { 1 - ( \frac { v _ { 0 } } { c } ) ^ { 2 } } } , } \\
 { E _ { z ^ { \prime } } = E _ { z } . }
@@ -295,7 +295,7 @@ $$
 \end{aligned}
 $$
 
-![](cpho-f-2022-q4-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-q4-fig03.png)
 题解图4a
 
 （如果初始位置没有选择在 $z^{\prime}=0$ ，（13）＇式出现一个常数项，不扣分）
@@ -406,7 +406,7 @@ $$
 \end{aligned}
 $$
 
-![](cpho-f-2022-q4-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-q4-fig04.png)
 解题图 5b
 
 由（26）式得：

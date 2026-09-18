@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy részecske a koordináta-rendszer origójából indul; az ábra a sebességét mutatja az idő függvényében. Mekkora az origótól mért legnagyobb elmozdulása?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr10-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr10-fig1.jpg)

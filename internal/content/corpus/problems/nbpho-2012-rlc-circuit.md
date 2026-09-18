@@ -26,4 +26,4 @@ For the circuit shown in Figure, $R_{1}=3 R, R_{2}=R$, $C_{1}=C_{2}=C$, and $L_{
 i. (1 pt) Find the reading of the voltmeter in the stationary regime.
 ii. (2 pts) Now, the switch is opened. Find the reading of the voltmeter immediately after the opening.
 iii. (2 pts) Find the total amount of heat which will be dissipated on each of the resistors after opening the switch, and until a new equilibrium state is achieved.
-![figure](../../sources/nbpho/figures/nbpho-2012-rlc-circuit-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2012-rlc-circuit-fig1.jpg)

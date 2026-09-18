@@ -23,7 +23,7 @@ verification_status: pending
 
 Question 6.
 The positions of two joggers, Rachel and Jordan, are shown below. The joggers are shown at successive 0.20-second time intervals, and they are moving towards the right.
-![](aupho-2008-q6-fig01.png)
+![](../../figures/aupho/figures/aupho-2008-q6-fig01.png)
 
 Do Rachel and Jordan ever have the same speed?
 

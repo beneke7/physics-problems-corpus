@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, smart-coordinates]
 ---
 
-A car is moving at a speed of 36 km/h, while its wheels roll without slipping. What is the velocity of the forward-most point of a wheel with respect to the ground? 
+A car is moving at a speed of 36 km/h, while its wheels roll without slipping. What is the velocity of the forward-most point of a wheel with respect to the ground?
  (3 pont)

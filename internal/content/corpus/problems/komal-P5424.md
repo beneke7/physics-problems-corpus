@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-The capacitor system shown in the figure is made of 5 square-shaped uncharged metal plates of area $A$. The distance between the plates is $\ell$ or $2\ell$, and the edge effects are negligible because $\ell^2\ll A$. 
+The capacitor system shown in the figure is made of 5 square-shaped uncharged metal plates of area $A$. The distance between the plates is $\ell$ or $2\ell$, and the edge effects are negligible because $\ell^2\ll A$.
 
- Between the plates, in the white regions there is air and in the brown regions there is some insulating material of relative dielectric constant $\varepsilon_{\mathrm{r}}$. In both condensers which contain dielectric, the dielectric material fills half of the area between the plates of the condensers. 
- What is the equivalent capacitance of the arrangement? 
+ Between the plates, in the white regions there is air and in the brown regions there is some insulating material of relative dielectric constant $\varepsilon_{\mathrm{r}}$. In both condensers which contain dielectric, the dielectric material fills half of the area between the plates of the condensers.
+ What is the equivalent capacitance of the arrangement?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5424-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5424-fig1.gif)

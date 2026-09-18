@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201510"
 verification_status: pending
 ---
 
-The speed of a car travelling on a highway is $v_0$. At a certain instant the speed of the car is started to vary uniformly, and from that instant the first 84 m is covered in 3 s, and the next 84 m is covered in 4 s. 
- Determine the initial speed of the car $v_0$, and its acceleration $a$ . 
+The speed of a car travelling on a highway is $v_0$. At a certain instant the speed of the car is started to vary uniformly, and from that instant the first 84 m is covered in 3 s, and the next 84 m is covered in 4 s.
+ Determine the initial speed of the car $v_0$, and its acceleration $a$ .
  (4 pont)

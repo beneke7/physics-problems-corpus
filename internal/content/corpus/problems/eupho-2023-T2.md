@@ -26,7 +26,7 @@ verification_status: pending
 
 A small brick is squeezed between two parallel planes in zero gravity. The planes are perpendicular to the $z$-axis. The lower plane is moving with constant velocity $u_1$ along the $x$-axis, whilst the upper one is moving with constant velocity $u_2$ along the $y$-axis.
 
-![figure](../../sources/eupho/figures/eupho-2023-T2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2023-T2-1.png)
 
 Initially, the brick is at rest. The coefficient of kinetic friction between the brick and each plane is identical.
 

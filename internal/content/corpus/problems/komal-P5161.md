@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, smart-coordinates]
 ---
 
-A very long uncharged metal cylinder of base radius $R$ is placed into strong uniform magnetic field of magnetic induction $\boldsymbol B$. The axle through the symmetry axis of the cylinder is fixed parallel to the magnetic induction, and then the cylinder is started to rotate about by angular velocity $\omega$. What is the resulted surface charge density on the lateral surface of the cylinder? 
+A very long uncharged metal cylinder of base radius $R$ is placed into strong uniform magnetic field of magnetic induction $\boldsymbol B$. The axle through the symmetry axis of the cylinder is fixed parallel to the magnetic induction, and then the cylinder is started to rotate about by angular velocity $\omega$. What is the resulted surface charge density on the lateral surface of the cylinder?
  (5 pont)

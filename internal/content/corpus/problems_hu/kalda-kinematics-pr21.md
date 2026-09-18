@@ -20,4 +20,4 @@ verification_status: pending
 
 Mekkora a kőnek adandó legkisebb kezdősebesség, amellyel áthajítható egy ferde tető fölött? A tető szélessége $b$, két szélének magassága pedig $a$, illetve $c$.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr21-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr21-fig1.jpg)

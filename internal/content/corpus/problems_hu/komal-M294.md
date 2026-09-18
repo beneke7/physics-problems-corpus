@@ -9,5 +9,5 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 294. Mérjük meg, hogy különböző mosogatószerek milyen arányban csökkentik a víz felületi feszültségét! 
+M. 294. Mérjük meg, hogy különböző mosogatószerek milyen arányban csökkentik a víz felületi feszültségét!
  Függ-e ez az arány a mosószer koncentrációjától?

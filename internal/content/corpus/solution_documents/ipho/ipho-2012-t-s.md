@@ -98,7 +98,9 @@ scribed by a fourth order algebraic equation and therefore, it is i.e. where the
 not realistic to accomplish such a solution within a reasonable as it follows from the Bernoulli’s law p + 12 ρv 2 = const, the dy-
 time frame.                                                         namic pressure is maximal: in the place where the air speed in
                                                          — page 1 of 5 —
-wing’s frame is maximal and the streamline distance minimal. Part C. Magnetic straws (4.5 points)
+
+
+wing’s frame is maximal and the streamline distance minimal. Part C. Magnetic straws (4.5 points)
 Such a point Q is marked in Fig.                                  i. (0.8 pts) Due to the superconduct-
                                                                   ing walls, the magnetic field lines cannot
                                                                   cross the walls, so the flux is constant
@@ -166,7 +168,9 @@ cause for a fast condensation, a considerable over-saturation is       shape as 
 needed. However, within an order of magnitude, this estimate           tric charges) relying only on the energy density, and not related
 remains valid.                                                         to the nature of the field; so we can apply it to the magnetic
                                                             — page 2 of 5 —
-field. Indeed, the force can be calculated as a derivative of        For the two straws, we have four magnetic charges. The lon-
+
+
+field. Indeed, the force can be calculated as a derivative of        For the two straws, we have four magnetic charges. The lon-
 the full field energy with respect to a virtual displacement of      gitudinal (along a straw axis) forces cancel out (the diagonally
 a field line source (electric or magnetic charge); if the energy     positioned pairs of same-sign-charges push in opposite direc-
 densities of two fields are respectively equal at one point, they    tions). The normal force is a superposition of the attraction
@@ -189,7 +193,9 @@ the energy density w = 2µ0 = 32π2 µ0 a4 , hence
 
 
                                                           — page 3 of 5 —
-Problem T2. Kelvin water dropper (8 points)                     where the droplet’s capacitance Cd = 4πε0 r; the electrical work
+
+
+Problem T2. Kelvin water dropper (8 points)                     where the droplet’s capacitance Cd = 4πε0 r; the electrical work
 Part A. Single pipe (4 points)                                  dWel = ϕmax dq = 4πε0 ϕ2max dr. Putting dW = 0 we obtain an
 i. (1.2 pts) Let us write the force balance for the droplet.    equation for ϕmax , which recovers the earlier result.
 Since d ≪ r, we can neglect the force π4 ∆pd2 due to the excess Part B. Two pipes (4 points)
@@ -256,7 +262,9 @@ ergy conservation law, dW + dWel = σ d(4πr ) + 2 ϕmax dCd ,                  
 
 
                                                            — page 4 of 5 —
-                                                                                                            #
+
+
+                                                                                                            #
 Problem T3. Protostar formation (9 points)                          be sketched as follows. Substituting      2E + 2Gm
                                                                                                                     r  = ξ and
 i. (0.8 pts)                                                        √
@@ -353,7 +361,9 @@ time given during the Olympiad, but a possible approach can p4 = µρ RT4 ; the 
 
 
                                                           — page 5 of 5 —
-Problem T1. Focus on sketches (13 points)
+
+
+Problem T1. Focus on sketches (13 points)
 
 Part A. Ballistics (4.5 points)
 i. (0.8 pts)
@@ -380,7 +390,9 @@ iii. (2.5 pts)        !
 
 
                                               — page 1 of 5 —
-Part B. Air flow around a wing (4 points)
+
+
+Part B. Air flow around a wing (4 points)
 i. (0.8 pts)
            vP = 23 m/s
 
@@ -413,7 +425,9 @@ Numerical: vcrit ≈ 23 m/s
 
 
                                                        — page 2 of 5 —
-Part C. Magnetic straws (4.5 points)
+
+
+Part C. Magnetic straws (4.5 points)
 i. (0.8 pts)
 Sketch here five
 magnetic field lines.
@@ -438,7 +452,9 @@ iii. (2.5 pts)   √
 
 
                                        — page 3 of 5 —
-Problem T2. Kelvin water dropper (8 points)
+
+
+Problem T2. Kelvin water dropper (8 points)
 
 Part A. Single pipe (4 points)
 i. (1.2 pts)      "
@@ -485,7 +501,9 @@ iii. (1.3 pts)     "
 
 
                                                — page 4 of 5 —
-Problem T3. Protostar formation (9 points)
+
+
+Problem T3. Protostar formation (9 points)
 i. (0.8 pts)
           n=8
 

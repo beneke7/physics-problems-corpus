@@ -37,7 +37,7 @@ solution_language: en
          Explain qualitatively why the change in energy is proportional to n2 /V .
      (c) We will show in problem 4 that this modifies the equation of state to
                                                  an2
-                                                    
+
                                              P + 2 V = nRT.
                                                  V
          Using these results, show that to first order in a, we have
@@ -46,7 +46,9 @@ solution_language: en
                                          2                              TV
 
                                                       4
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
            Qualitatively explain why the new term has a positive sign.

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-The arms of a two-armed balance have different lengths. If you put a cantaloupe in one of the pans, you can balance it with a weight of mass 960 grams. If you put the cantaloupe in the other pan, you can balance it with a weight of mass 1.5 kilograms. What is the mass of the cantaloupe? 
+The arms of a two-armed balance have different lengths. If you put a cantaloupe in one of the pans, you can balance it with a weight of mass 960 grams. If you put the cantaloupe in the other pan, you can balance it with a weight of mass 1.5 kilograms. What is the mass of the cantaloupe?
  (4 pont)

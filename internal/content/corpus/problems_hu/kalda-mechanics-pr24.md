@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű test súrlódásmentes vízszintes felületen fekszik. A tetején egy $m$ tömegű másik test van, amelyet fonallal egy azonos testhez kapcsoltunk. A fonal a nagy test sarkánál elhelyezett csigán halad át, a második kis test pedig függőlegesen függ. Kezdetben a rendszert nyugalomban tartjuk. Határozzuk meg a nagy test gyorsulását közvetlenül a rendszer elengedése után. A súrlódást, valamint a fonal és a csiga tömegét elhanyagolhatjuk.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr24-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr24-fig1.jpg)

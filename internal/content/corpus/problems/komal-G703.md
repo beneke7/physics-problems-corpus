@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, model-reduction]
 ---
 
-How can we determine the internal resistance of a durable battery by using a digital voltmeter (which can be considered ideal) and a resistor of known resistance? (Wires can also be used.) 
+How can we determine the internal resistance of a durable battery by using a digital voltmeter (which can be considered ideal) and a resistor of known resistance? (Wires can also be used.)
  (3 pont)

@@ -54,10 +54,10 @@ theory of electrical shielding in metals, one has to perform the small x expansi
 x2 − 1
 4x
 log
-
+
 1 + x
 1 − x
-
+
 ≈
 x2
 3
@@ -107,7 +107,7 @@ O(d/x) term. But if we had gone out to O(d2/x2), we would have found
 E(x) = −
 q
 4πϵ0x2
-
+
 2d
 x
 +
@@ -116,7 +116,7 @@ x2
 + O(d3
 /x3
 )
-
+
 .
 If you then used this expression, in a problem that expects you to use only the O(d/x) term,
 you would probably get annoyingly complicated expressions. So does that mean you should

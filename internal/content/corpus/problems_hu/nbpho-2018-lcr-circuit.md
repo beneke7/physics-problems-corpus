@@ -22,7 +22,7 @@ verification_status: pending
 
 Tekintsük az alábbi ábrán látható áramkört.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-lcr-circuit-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-lcr-circuit-fig1.jpg)
 
 **i)** *(2 pont)* Rajzolj egy fázorvektoros diagrammot az áramkörhöz, amely az alábbi csomópontok közötti feszültségvektorokat ábrázolja: $V_{AD}$, $V_{DB}$, $V_{AB}$, $V_{AE}$, $V_{EB}$, $V_{AF}$ és $V_{FB}$.
 

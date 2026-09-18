@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, extremization]
 ---
 
-Some alike plastic straws were charged with rubbing and placed parallel to each other such that the line which joins their endpoints is perpendicular to the straws. It can be assumed that the distribution of charges on each straw is uniform, and all of them have the same charge. The two straws at the two ends are fixed such that their distance is much smaller than their length. Between them there are some straws which can move freely. What is the position of these straws if their number is 
- $a)$ two; 
- $b)$ three? 
+Some alike plastic straws were charged with rubbing and placed parallel to each other such that the line which joins their endpoints is perpendicular to the straws. It can be assumed that the distribution of charges on each straw is uniform, and all of them have the same charge. The two straws at the two ends are fixed such that their distance is much smaller than their length. Between them there are some straws which can move freely. What is the position of these straws if their number is
+ $a)$ two;
+ $b)$ three?
  (5 pont)

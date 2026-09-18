@@ -22,10 +22,10 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A wooden planck of mass m stays at rest on a horizontal surface (see the figure ). A pointlike object of mass m moves along the horizontal surface with a speed of , and slides onto the circular part of the planck, than flies off (friction is negligible). 
+A wooden planck of mass m stays at rest on a horizontal surface (see the figure ). A pointlike object of mass m moves along the horizontal surface with a speed of , and slides onto the circular part of the planck, than flies off (friction is negligible).
 
- a ) Find the velocity of the planck after the pointlike object left it. 
- b ) Find the greatest height to which the pointlike object ascends. 
+ a ) Find the velocity of the planck after the pointlike object left it.
+ b ) Find the greatest height to which the pointlike object ascends.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3837-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3837-fig1.gif)

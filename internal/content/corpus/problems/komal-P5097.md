@@ -23,5 +23,5 @@ techniques: [superposition, auxiliary-unknowns]
 ---
 
 There are three thin slits on an opaque sheet such that the distance between two adjacent slits is $d$. The width of the slit at the middle is $\sqrt
-2$ times bigger than that of the slits on the sides. A laser beam of wavelength $\lambda$ is incident on the slits, and perpendicular to the sheet. The diffraction pattern is observed on a screen at a distance of $L$. What is the distance on the screen between the zero-order maximum and the first zero-intensity point? (Suppose that $\lambda\ll d\ll L$.) 
+2$ times bigger than that of the slits on the sides. A laser beam of wavelength $\lambda$ is incident on the slits, and perpendicular to the sheet. The diffraction pattern is observed on a screen at a distance of $L$. What is the distance on the screen between the zero-order maximum and the first zero-intensity point? (Suppose that $\lambda\ll d\ll L$.)
  (5 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry, smart-coordinates]
 ---
 
-A house, situated 100 m to the South of a straight road running East--West, contains a television set which is receiving signals from a distant transmitter, also situated South of the road, operating at a frequency of 60 MHz. A bus, travelling along the road in a westerly direction, causes the received signal to fluctuate in intensity, the rate of fluctuation is 2 Hz when the bus is opposite the house and (temporarily) reduces to zero when it is 200 m further along the road. Find the speed of the bus and the direction of the transmitter. 
+A house, situated 100 m to the South of a straight road running East--West, contains a television set which is receiving signals from a distant transmitter, also situated South of the road, operating at a frequency of 60 MHz. A bus, travelling along the road in a westerly direction, causes the received signal to fluctuate in intensity, the rate of fluctuation is 2 Hz when the bus is opposite the house and (temporarily) reduces to zero when it is 200 m further along the road. Find the speed of the bus and the direction of the transmitter.
  (5 pont)

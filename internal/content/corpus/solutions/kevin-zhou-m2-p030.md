@@ -21,11 +21,11 @@ cost. By setting the net virtual work to zero, find ∆P.
 Solution. The work done by the surface tension should be balanced by the work done by the
 pressure difference. Noting that the total surface area is 8πR2, we have
 ∆P dV = ∆P d
-
+
 4
 3
 πR3
-
+
 = ∆P(4πR2
 )dR = d(8πR2
 γ) = 16πγRdR
@@ -53,13 +53,13 @@ radii of curvature R1 and R2 at each point. These are both equal to R for a sphe
 R, while for a cylinder of radius R, one is equal to R and the other is infinity. For general
 surfaces, the Young–Laplace equation is
 ∆P = γ
-
+
 1
 R1
 +
 1
 R2
-
+
 where the Ri can each be positive or negative, depending on the direction of curvature.
 [3] Problem 32 (MPPP 67). When a pipe bursts under pressure, it often splits “lengthwise” instead
 of “across”. (One familiar example is the process of cooking a long, straight sausage.) The two

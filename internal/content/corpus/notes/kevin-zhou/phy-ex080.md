@@ -74,7 +74,6 @@ infinitesimal rotation U (n̂, θ) with θ ≪ 1, the left-hand side is
 The commutator is equal to
                                [ni Ji , Jj eˆj ] = iℏϵijk ni eˆj Jk = −iℏn̂ × J.
 Therefore, the left-hand side is J − θn̂ × J, which is simply the infinitesimal spatial rotation R−1 .
-173 7. Angular Momentum
 
 
 Note. For higher spin, we can define a spin state to be “pointing” in the n̂ direction if it is an
@@ -127,7 +126,6 @@ consider the case of spins in a magnetic field.
 
       Note the factors of 2. When we take magnitudes, µN gives a 1/2, S gives a 1/2, and for electrons
       only, g gives a 2.
-174 7. Angular Momentum
 
 
  • The magnetic moment of the proton comes from a mix of the spin and orbital motion of the
@@ -179,12 +177,11 @@ rotational symmetry, which in this case means V = V (r).
                                                                       i
                              R(n̂, θ) = 1 + θn̂ · J,   U (n̂, θ) = 1 − θn̂ · L
                                                                       ℏ
-175 7. Angular Momentum
 
 
    into the above relation, where J contains the generators of the fundamental representation of
    so(3), as defined earlier. Equating first-order terms in θ, we have
-                                            
+
                                      i
                                    − θn̂ · L ψ(x) = −θ(n̂ × x) · ∇ψ
                                      ℏ
@@ -214,7 +211,7 @@ rotational symmetry, which in this case means V = V (r).
 
                             Lz = −iℏ∂ϕ ,        L± = −iℏe±iϕ (±i∂θ − cot θ∂ϕ )
 
-   and                                                                       
+   and
                                 2      2         1                     1    2
                               L = −ℏ                 ∂θ (sin θ∂θ ) +       ∂ .
                                                sin θ                 sin2 θ ϕ
@@ -231,16 +228,15 @@ rotational symmetry, which in this case means V = V (r).
 
  • The solutions for the ψlm on the sphere are the spherical harmonics Ylm . Using the definition
    of Lz , we have Ylm ∝ eimϕ . After solving for Yll , we apply the lowering operator to find
-                                     s                                   l−m
+                                     s                                    l−m
                                (−1)l 2l + 1 (l + m)! eimϕ
-                                                               
+
                                                                     d
                    Ylm (θ, ϕ) = l                                              sin2l θ.
                                 2 l!     4π (l − m)! sinm θ d(cos θ)
 
    Here, the choice of phase factor (−1)l is conventional and makes Yl0 real and positive at the
    North pole. The (l + m)!/(l − m)! normalization factor comes from the application of L− .
-176 7. Angular Momentum
 
 
  • We may also write the θ dependence in terms of the Legendre polynomials, which can be given
@@ -302,7 +298,6 @@ rotational symmetry, which in this case means V = V (r).
           P
    is L =    xi × pi . To construct the angular momentum basis, we use addition of angular
    momentum techniques, as discussed later.
-177 7. Angular Momentum
 
 
 Note. A few examples of spherical harmonics.
@@ -357,7 +352,6 @@ We now apply the results of the previous section to central force motion.
                           2m dr2                               0
 
       The resulting equation looks just like the regular 1D Schrodinger equation, but on (0, ∞).
-178 7. Angular Momentum
 
 
  • We could also have arrived at this conclusion using separation of variables. Generally, this
@@ -411,7 +405,6 @@ We now apply the results of the previous section to central force motion.
    last two terms are negligible. Then for the equation to remain true, the first two terms must
    cancel, so
                              k(k + 1) = l(l + 1), k = l or k = −l − 1.
-179 7. Angular Momentum
 
 
     The second solution is nonnormalizable for l ≥ 1, so we ignore it. For l = 0, it gives R(r) ∝ 1/r,

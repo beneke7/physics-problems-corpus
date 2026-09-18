@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201411"
 verification_status: pending
 ---
 
-What is the speed of sound in a sample of Hydrogen gas which is cooled down with liquid air to a temperature of $-141~{}^\circ\rm C$? 
+What is the speed of sound in a sample of Hydrogen gas which is cooled down with liquid air to a temperature of $-141~{}^\circ\rm C$?
  (4 pont)

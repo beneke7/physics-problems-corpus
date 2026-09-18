@@ -23,7 +23,7 @@ The second sum vanishes because terms with $\vec{x}_i$ and $-\vec{x}_i$ cancel p
 
 **Circular motion.** Since the speed is constant, the net horizontal force must be perpendicular to $\vec{v}$ at all times. $\vec{F}_L$ is always perpendicular to $\vec{v}$, so $\vec{F}$ must be as well, and $|\vec{F}|$ is constant. Therefore the net force has constant magnitude, and the center of the ball undergoes **uniform circular motion** with speed $v_0$ (see figure).
 
-![Figure: Schematic of the rolling charged ball on a horizontal surface with $\vec{B}$ perpendicular to the surface, showing the circular orbit of radius $r$, angular speed $\Omega$, and forces $\vec{F}_L$, $\vec{F}$, $\vec{v}$, $\vec{\omega}$.](../../sources/eupho/figures/eupho-2019-T2-sol-1.png)
+![Figure: Schematic of the rolling charged ball on a horizontal surface with $\vec{B}$ perpendicular to the surface, showing the circular orbit of radius $r$, angular speed $\Omega$, and forces $\vec{F}_L$, $\vec{F}$, $\vec{v}$, $\vec{\omega}$.](../../../../../sources/eupho/figures/eupho-2019-T2-sol-1.png)
 
 Newton's second law in the radial direction:
 $$Qv_0 B - F = mr\Omega^2. \tag{2}$$

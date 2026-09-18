@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201105"
 verification_status: pending
 ---
 
-A ball collides with another, stationary ball. The collision is head on and elastic. The change in the velocity of the moving ball is 20 m/s. The ratio of the masses of the moving and the stationary ball is 3:5. What was the initial speed of the moving ball? 
+A ball collides with another, stationary ball. The collision is head on and elastic. The change in the velocity of the moving ball is 20 m/s. The ratio of the masses of the moving and the stationary ball is 3:5. What was the initial speed of the moving ball?
  (4 pont)

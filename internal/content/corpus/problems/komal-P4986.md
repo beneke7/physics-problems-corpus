@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-At each vertex of an equilateral triangle a point-like charge $Q$ is fixed. A point-like charge of mass $m$ and of charge $q$ is oscillating in the middle of the triangle along one of the medians of the triangle. The amplitude of the oscillation is much smaller than the diameter $D$ of the circumscribed circle of the triangle. 
- What is the angular frequency of the oscillation? (Consider only the electric forces.) 
+At each vertex of an equilateral triangle a point-like charge $Q$ is fixed. A point-like charge of mass $m$ and of charge $q$ is oscillating in the middle of the triangle along one of the medians of the triangle. The amplitude of the oscillation is much smaller than the diameter $D$ of the circumscribed circle of the triangle.
+ What is the angular frequency of the oscillation? (Consider only the electric forces.)
  (5 pont)

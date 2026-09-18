@@ -22,10 +22,10 @@ Megoldás. A megoldás alapgondolata az, hogy a szupravezet® gy¶r¶kben nem in
 mert az végtelen nagy áramot eredményezne. Ez azt jelenti, hogy a küls® mágneses tér leépülésével egyidej¶leg olyan
 áramoknak kell indukálódniuk, hogy az áramváltozás miatti öninduk iós és kül sönös induk iós feszültségek éppen
 kioltsák a küls® mágneses tér változása miatt indukálódó körfeszültséget. Másképp fogalmazva: a szuravezet® gy¶r¶
-által körülölelt mágneses 
-uxus nem változhat meg. Ha megsz¶nik a küls® tér 
+által körülölelt mágneses
+uxus nem változhat meg. Ha megsz¶nik a küls® tér
 uxusa, fellép helyette az indukált
-áramok 
+áramok
 uxusa.
 Felírhatjuk tehát az alábbi egyenl®ségeket:
 B0R2
@@ -46,11 +46,11 @@ L1L2 − M2
 Ezekben a kifejezésekben B0, R1, R2, L1 és L2 megadott értékek, M-et azonban meg kell még határoznunk.
 Hogyan számíthatjuk ki a két gy¶r¶ közötti köl sönös induk iót? Használjuk ki, hogy R1 ≪ R2! Feltételezhetjük,
 hogy az R1 sugarú, ki si bels® gy¶r¶ belsejében az I2 áram által átjárt nagy, küls® gy¶r¶b®l származó mágneses mez®
-jó közelítéssel homogénnek tekinthet®. Így a küls® gy¶r¶t®l származó 
+jó közelítéssel homogénnek tekinthet®. Így a küls® gy¶r¶t®l származó
 uxus
 MI2 = B · R2
 1π,
-ahol B-t a nagy gy¶r¶ben folyó áram hozza létre a gy¶r¶ közepén, nagysága a BiotSavart-törvény alapján:
+ahol B-t a nagy gy¶r¶ben folyó áram hozza létre a gy¶r¶ közepén, nagysága a Biot Savart-törvény alapján:
 B = µ0
 I2
 2R2
@@ -65,7 +65,7 @@ R2
 .
 Hasonló megfontolással kaphatunk nagyságrendi be slést az L1 és L2 öninduk iós együtthatókra is. Egy R sugarú
 körvezet®ben folyó áram által létrehozoztt Bátlag nagyságrendileg közelíthet® a középpontban mérhet® B értékkel.
-Ennek megfelel®en a 
+Ennek megfelel®en a
 uxus BR2
 π, s ezt az árammal osztva az öninduk iós együtthatóra L ≈ µ0Rπ/2 adódik.
 Megjegyzés. Nem tartozik a megoldáshoz, de az érdekesség kedvéért megemlítjük, hogy a körgy¶r¶ induktivitására
@@ -87,18 +87,18 @@ L2
 B0R2
 1π
 L1
-
+
 1 − µ0
 π
 2
 R2
 L2
-
+
 .
 Hátra van még az áramok irányának meghatározása. I2 nyilván a 4. ábrán látható elrendezésben az óramutató
 járásával megegyez® irányban folyik, hogy a papír síkjába befelé mutató induk ióvektort hozzon létre. I1 iránya nem
-ennyire magától értet®d®, azt a zárójelben álló kifejezés el®jele dönti el. Ennek megállapítására  Tóth Gábor Zsolt
-ötlete nyomán  használjuk fel, hogy egy körvezet®ben folyó áram mágneses tere a kör síkjában fekv® bels® pontokat
+ennyire magától értet®d®, azt a zárójelben álló kifejezés el®jele dönti el. Ennek megállapítására   Tóth Gábor Zsolt
+ötlete nyomán   használjuk fel, hogy egy körvezet®ben folyó áram mágneses tere a kör síkjában fekv® bels® pontokat
 vizsgálva a kör középpontjában a leggyengébb. Felírhatjuk tehát a következ® egyenl®tlenséget:
 Φ2 = L2I2 > µ0
 I2

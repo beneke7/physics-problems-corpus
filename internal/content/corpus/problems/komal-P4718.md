@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, differential-element]
 ---
 
-Two solid metal cubes of edges $a$ touch each other along one of their faces. How many times greater gravitational force is exerted between two solid metal cubes, made of the same material as the other, whose edges are $3a$ , and which also touch each other? 
+Two solid metal cubes of edges $a$ touch each other along one of their faces. How many times greater gravitational force is exerted between two solid metal cubes, made of the same material as the other, whose edges are $3a$ , and which also touch each other?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4718-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4718-fig1.gif)

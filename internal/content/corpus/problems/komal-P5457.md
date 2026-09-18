@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [differential-element, model-reduction, auxiliary-unknowns]
 ---
 
-The internal length of a thermally insulated cylindrical tank is $L$. The container is divided into two parts by an insulating piston; the left part contains a sample of monatomic ideal gas, and there is vacuum in the right part (see the figure ). The piston is connected to the right end of the tank by spring, whose unextended length is $L$. The gas is slowly heated by an electric heating element in the left half of the cylinder. 
+The internal length of a thermally insulated cylindrical tank is $L$. The container is divided into two parts by an insulating piston; the left part contains a sample of monatomic ideal gas, and there is vacuum in the right part (see the figure ). The piston is connected to the right end of the tank by spring, whose unextended length is $L$. The gas is slowly heated by an electric heating element in the left half of the cylinder.
 
- Determine the molar heat of the gas in this process. 
+ Determine the molar heat of the gas in this process.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5457-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5457-fig1.gif)

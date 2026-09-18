@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200602"
 verification_status: pending
 ---
 
-The speed of an object undergoing uniform circular motion is 4 m/s. The magnitude of the change in the velocity during 0.5 is also 4 m/s. Find the angular velocity, and the centripetal acceleration of the object. What is the radius of the circle? 
+The speed of an object undergoing uniform circular motion is 4 m/s. The magnitude of the change in the velocity during 0.5 is also 4 m/s. Find the angular velocity, and the centripetal acceleration of the object. What is the radius of the circle?
  (4 pont)

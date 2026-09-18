@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-Is it possible that in the line spectrum of an element the sum of two existing frequencies is also an existing frequency of the same element? 
+Is it possible that in the line spectrum of an element the sum of two existing frequencies is also an existing frequency of the same element?
  (3 pont)

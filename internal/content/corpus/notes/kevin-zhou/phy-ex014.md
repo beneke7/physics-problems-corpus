@@ -27,7 +27,7 @@ equations invariant, but in the Hamiltonian formalism, we also must transform th
 accordingly. Dropping indices and defining Θ = ∂Q/∂q,
 
                                                                    Θ(∂P/∂p)T
-                                                                            
+
                          Θ       0             T           0
                 J =                     , J JJ =
                        ∂P/∂q ∂P/∂p                    −ΘT ∂P/∂p         0
@@ -69,7 +69,6 @@ Now we give a very brief glimpse of the geometrical formulation of classical mec
  • In Lagrangian mechanics, the configuration space is a manifold M , and the Lagrangian is a
    function on its tangent bundle L : T M → R. The action is a real-valued function on paths
    through the manifold.
-21 1. Classical Mechanics
 
 
   • The momentum p = ∂L/∂ q̇ is a covector on M , and we have a map
@@ -122,6 +121,5 @@ momentum, which is the fundamental reason why p = −i∇ but H = +i∂t in quan
 The additional flexibility of canonical transformations allows us to use even more convenient variables
 than the generalized coordinates of Lagrangian mechanics. Often, the so-called action-angle variables
 are a good choice, which drastically simplify the problem.
-22 1. Classical Mechanics
 
 

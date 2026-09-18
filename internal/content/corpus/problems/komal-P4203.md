@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200911"
 verification_status: pending
 ---
 
-Will the critical mass of Uranium change if it is ,,diluted'' with another material which does not interact with neutron? 
+Will the critical mass of Uranium change if it is ,,diluted'' with another material which does not interact with neutron?
  (4 pont)

@@ -23,7 +23,7 @@ verification_status: pending
 Az alábbi kapcsolásra $V_0$ amplitúdójú és $\omega_0$ körfrekvenciájú váltakozó
 feszültséget kapcsolunk.
 
-![ábra](../../sources/nbpho/figures/nbpho-2022-ac-filter-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2022-ac-filter-fig1.jpg)
 
 **i)** *(2 pont)* Melyik $\omega_0$ körfrekvenciánál lenne a kimeneti feszültség
 végtelen?

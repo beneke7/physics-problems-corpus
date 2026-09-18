@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg a bemeneti feszültség azon $\omega$ körfrekvenciáit, amelyeknél az alábbi áramkör impedanciája zérus.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr111-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr111-fig1.jpg)

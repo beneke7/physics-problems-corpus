@@ -9,9 +9,9 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 884. Egy $r$ sugarú, $1{,}5$ törésmutatójú üvegből készült félgömbre az ábra szerinti $A$ pontban fénysugarat ejtünk. A megtört fénysugár a félgömb síklapját a középponttól $y$ távolságban éri el. 
+G. 884. Egy $r$ sugarú, $1{,}5$ törésmutatójú üvegből készült félgömbre az ábra szerinti $A$ pontban fénysugarat ejtünk. A megtört fénysugár a félgömb síklapját a középponttól $y$ távolságban éri el.
 
- a) Mekkora beesési szög esetén lesz $y$ a sugár felével egyenlő? 
+ a) Mekkora beesési szög esetén lesz $y$ a sugár felével egyenlő?
  b) Milyen színű a fénysugár, ha a fény hullámhossza az üvegben $400\,\mathrm{nm}$?
 
-![figure](../../raw_html/komal_figures/komal-G884-fig1.png)
+![figure](../../figures/komal/figures/komal-G884-fig1.png)

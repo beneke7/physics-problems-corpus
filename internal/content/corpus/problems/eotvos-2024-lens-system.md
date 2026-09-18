@@ -25,7 +25,7 @@ techniques: [model-reduction, smart-coordinates]
 
 Egy tubusban szimmetrikusan elhelyeztünk két $f_{1}=50 \mathrm{~cm}$ és két $f_{2}=10 \mathrm{~cm}$ fókusztávolságú gyújtőlencsét a bal oldali ábrán látható módon. Sikerült a lencséket úgy beállítani, hogy az optikai rendszeren átnézve a tárgyakat éppen olyannak látjuk, mintha egy üres tubuson át néznénk azokat.
 
-![figure](sources/eotvos/figures/eotvos-2024-lens-setup-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2024-lens-setup-fig1.jpg)
 
 a) Mekkorák a lencsék közötti $d$ és $s$ távolságok?
 

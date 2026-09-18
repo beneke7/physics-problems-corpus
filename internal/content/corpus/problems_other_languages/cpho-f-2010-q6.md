@@ -26,4 +26,4 @@ verification_status: pending
 1． 乒乓球运动过程中可能获得的最大动能；
 2． 经过足够长时间后，通过外电路的平均电流。
 
-![](cpho-f-2010-q6-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q6-fig01.png)

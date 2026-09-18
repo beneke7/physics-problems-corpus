@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi végtelen lánc $A$ és $B$ kapcsa közötti feszültséget.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr52-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr52-fig1.jpg)

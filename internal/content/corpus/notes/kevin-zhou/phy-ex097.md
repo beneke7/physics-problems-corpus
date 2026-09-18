@@ -27,7 +27,6 @@ quantum as well. The Hamiltonian in the rotating wave approximation is
                                                1
                                   H = ωc a† a + ωa σz + g(a† σ− + aσ+ )
                                                2
-261 11. Time Dependent Perturbation Theory
 
 
 where g is the coupling strength. Note that under this convention, the zeroth and first states of the

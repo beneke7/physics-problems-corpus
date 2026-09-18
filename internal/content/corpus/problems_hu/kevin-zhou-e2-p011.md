@@ -30,5 +30,5 @@ Tekintsünk két koncentrikus, a < b sugarú fémgömbhéjat.
           igazoljuk, hogy
 
 
-                     01W
+                     01W
           C12 = C21, majd használjuk fel a C-re kapott fenti eredményt.

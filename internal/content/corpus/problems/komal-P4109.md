@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200811"
 verification_status: pending
 ---
 
-Using a bubble blower a lot of bubles of different sizes can be blown. These bubbles descend slowly. Assuming that all bubbles have the same thickness wall, which bubbles descend more quickly, the ones which have greater radius or the ones which have smaller radius? 
+Using a bubble blower a lot of bubles of different sizes can be blown. These bubbles descend slowly. Assuming that all bubbles have the same thickness wall, which bubbles descend more quickly, the ones which have greater radius or the ones which have smaller radius?
  (4 pont)

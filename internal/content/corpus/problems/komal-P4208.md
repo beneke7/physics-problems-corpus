@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-Three marbles of mass 4 m , m and 3 m can slide without friction along a horizontal rod. (There are holes in the balls.) At a certain moment the middle marble is given an initial speed of v $_{0}$=5 m/s towards the right. After the totally elastic collisions determine the 
- a ) velocities of the marbles; 
- b ) the ratio of the kinetic energies of the marbles. 
+Three marbles of mass 4 m , m and 3 m can slide without friction along a horizontal rod. (There are holes in the balls.) At a certain moment the middle marble is given an initial speed of v $_{0}$=5 m/s towards the right. After the totally elastic collisions determine the
+ a ) velocities of the marbles;
+ b ) the ratio of the kinetic energies of the marbles.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4208-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4208-fig1.gif)

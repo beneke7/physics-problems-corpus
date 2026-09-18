@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-If it was possible to create a vacuum tube along the magnetic equator of the Earth, the protons and electrons in this tube would - theoretically - orbit along circular path, due to the magnetic field of the Earth. 
- a ) Estimate the speed and the direction of their motion. 
- b ) What would the energy of these particles be in eV? 
- c ) Can particle beams having the above calculated energy be created nowadays? 
- d ) How much would the light, which travels along the same ``circle'' due to appropriately placed mirrors, overtake the particles travelling in the tube in one circle? 
+If it was possible to create a vacuum tube along the magnetic equator of the Earth, the protons and electrons in this tube would - theoretically - orbit along circular path, due to the magnetic field of the Earth.
+ a ) Estimate the speed and the direction of their motion.
+ b ) What would the energy of these particles be in eV?
+ c ) Can particle beams having the above calculated energy be created nowadays?
+ d ) How much would the light, which travels along the same ``circle'' due to appropriately placed mirrors, overtake the particles travelling in the tube in one circle?
  (5 pont)

@@ -25,7 +25,7 @@ verification_status: pending
 
 ## Strain in the Membrane ${ }^{2}$
 
-![](usapho-2019-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2019-b1-fig01.png)
 
 The wall of a neuron is made from an elastic membrane, which resists compression in the same way as a spring. It has an effective spring constant $k$ and an equilibrium thickness $d_{0}$. Assume that the membrane has a very large area $A$ and negligible curvature.
 

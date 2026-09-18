@@ -41,13 +41,13 @@ $$
 （3）（6 分）写出点火后追击者 c 的轨道周期 $T_{\mathrm{c}}$ 与目标A 的周期 $T_{\mathrm{A}}$ 之比 $T_{\mathrm{c}} / T_{\mathrm{A}}$ ，用 $\varepsilon$ 和 $\phi$ 表示。
 （4）（18 分）定义两个点火参数（见图2b）：无量纲
 
-![](cpho-f-2021-q2-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q2-fig01.png)
 图 2a．
 
-![](cpho-f-2021-q2-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q2-fig02.png)
 图2b
 
-![](cpho-f-2021-q2-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2021-q2-fig03.png)
 图 2c
 
 的速度大小改变率 $\delta=\left|\frac{\Delta v}{v_{0}}\right|, \Delta v$ 与 $v_{0}$ 之间的夹角 $\alpha$（重合时 $\alpha=0$ ，顺时针方向取为正方向）。试用点火参数 $\delta$ 和 $\alpha$ 来表示追击者 c 的轨道的偏心率$\varepsilon$ 和 $\varepsilon \cos \phi$ 。

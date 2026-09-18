@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4428. Két azonos térfogatú gáztartályban megegyező részecskeszámú, egyenlő belső energiájú hidrogén, illetve hélium van. 
- a ) Mekkora a gázok nyomásának aránya? 
+P. 4428. Két azonos térfogatú gáztartályban megegyező részecskeszámú, egyenlő belső energiájú hidrogén, illetve hélium van.
+ a ) Mekkora a gázok nyomásának aránya?
  b ) Mekkora a részecskék átlagsebességeinek aránya?

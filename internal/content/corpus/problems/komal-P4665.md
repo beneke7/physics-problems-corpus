@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201410"
 verification_status: pending
 ---
 
-There is a sample of air at standard conditions in the vertical cylinder shown in the figure. The piston moves without friction and its mass is the same as that of the pan on the other side of the pulley. In which case will the movement of the piston be greater, if the same amount of sand is poured to the top of the piston or into the pan? (The temperature remains the same.) 
+There is a sample of air at standard conditions in the vertical cylinder shown in the figure. The piston moves without friction and its mass is the same as that of the pan on the other side of the pulley. In which case will the movement of the piston be greater, if the same amount of sand is poured to the top of the piston or into the pan? (The temperature remains the same.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4665-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4665-fig1.gif)

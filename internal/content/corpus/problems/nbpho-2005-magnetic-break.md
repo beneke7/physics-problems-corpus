@@ -24,7 +24,7 @@ techniques: [conservation-laws, differential-element]
 **II. MAGNETIC BREAK (12 points)**
 
 Foucault currents can be used to decelerate moving metal objects, e.g. a rotating disc. Consider the following simple model. For the sake of simplicity, the disc is substituted by a "circular railway", see Figure. A plastic "can" of radius $r=15\ \mathrm{cm}$, mass $m=100\ \mathrm{g}$, and height $h=1\ \mathrm{cm}$ consists of a homogeneous disc (the bottom of the "can") and a much thinner cylindrical wall. Along the edges of the cylinder, there are two wire rings ("rails"), which are connected with a set of parallel wire bars ("sleepers"). Both the "sleepers" and "rails" are made of copper wire of diameter $\delta=0.2\ \mathrm{mm}$; the distance between the "sleepers" is $L=\alpha h$, where $\alpha=0.3$. Frictionless rotation of the system is decelerated by a homogeneous magnetic field $(B=1\ \mathrm{T})$ in the slit between the poles of a permanent magnet, see Figure. Assume that the homogeneous field fills a region of rectangular cross-section equal to the area between three subsequent "sleepers" (i.e. of size $h \times 2\alpha h$). Outside that region, the field is negligible. The specific resistance of copper is $\rho=1.724\cdot10^{-8}\ \Omega\mathrm{m}$.
-![figure](../../sources/nbpho/figures/nbpho-2005-magnetic-break-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2005-magnetic-break-fig1.jpg)
 
 Suppose the system is motionless.
 

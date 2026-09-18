@@ -77,7 +77,8 @@ Theory Q1
 
 
                                                         Page 1
-                                                                                                  
+
+                                                                                                  
          x0 02   2  cos     sin   cos t  02   2  sin     cos   sin t          0.25
 
           eE0 cos t / me
@@ -179,7 +180,8 @@ Theory Q1
 0.5pt
 
                                                                           Page 2
-                                                                                                                 0.5
+
+                                                                                                                 0.5
         U depth  U 0 
                            cos   I  0, 0     cos   2 P
                                                                         6c 2    02   2   / 02      P
@@ -246,7 +248,8 @@ Theory Q1
                                                       2                            2
  9.3     From the uncertainty principle, the particle velocity therefore is estimated to be                      0.25
                                                            Page 3
-0.25pt                                                                            z
+
+0.25pt                                                                            z
                                         mvz            m z  v z                  .
                                                     z0                             m
                                                                                   1           1               z

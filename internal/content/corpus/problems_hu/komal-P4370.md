@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4370. Egy repülőgép a 2 km-es útszakaszt állandó hátszéllel 15 másodperc, ugyanekkora ellenszéllel 20 másodperc alatt teszi meg. 
- Hány km/h a repülőgép sebessége, és mekkora a szélsebesség? 
+P. 4370. Egy repülőgép a 2 km-es útszakaszt állandó hátszéllel 15 másodperc, ugyanekkora ellenszéllel 20 másodperc alatt teszi meg.
+ Hány km/h a repülőgép sebessége, és mekkora a szélsebesség?
  Tarján Imre fizikaverseny, Szolnok

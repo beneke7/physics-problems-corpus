@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3902. Hányad részére csökkenne a merülőforraló teljesítménye, ha egy ideális diódával sorba kapcsolva kötnénk a 230 V, 50 Hz-es hálózatra? Mennyi lenne ekkor a merülőforralóra jutó feszültség effektív értéke? 
+P. 3902. Hányad részére csökkenne a merülőforraló teljesítménye, ha egy ideális diódával sorba kapcsolva kötnénk a 230 V, 50 Hz-es hálózatra? Mennyi lenne ekkor a merülőforralóra jutó feszültség effektív értéke?
  Hányad része ez a feszültség csúcsértékének?

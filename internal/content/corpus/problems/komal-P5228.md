@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element]
 ---
 
-Calculate the distance between two lead atoms in a galena crystal, if its density and its constituents are known. (Similarly to rock salt, galena has a cubic crystal system.) 
+Calculate the distance between two lead atoms in a galena crystal, if its density and its constituents are known. (Similarly to rock salt, galena has a cubic crystal system.)
  (4 pont)

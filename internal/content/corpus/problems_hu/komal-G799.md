@@ -9,5 +9,5 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 799. Legalább mekkora sebességgel és legfeljebb mekkora szög alatt kell indítani egy testet, hogy átrepüljön egy 100 méter hosszú, 5 méter magas, egyenes alagúton? 
+G. 799. Legalább mekkora sebességgel és legfeljebb mekkora szög alatt kell indítani egy testet, hogy átrepüljön egy 100 méter hosszú, 5 méter magas, egyenes alagúton?
  A légellenállás elhanyagolható.

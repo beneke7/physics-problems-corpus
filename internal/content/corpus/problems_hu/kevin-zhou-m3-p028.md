@@ -22,7 +22,7 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Hungarian translation of a candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 ---
 
-[4] 29. feladat.   01m   USAPhO 2013, B1. feladat. Ez a feladat meglehetősen trükkös! Ha elkészültünk,
+[4] 29. feladat.   01m    USAPhO 2013, B1. feladat. Ez a feladat meglehetősen trükkös! Ha elkészültünk,
     figyelmesen olvassuk el a hivatalos megoldást, amely bemutatja a tömegközépponti munka alkalmazását.
 
 

@@ -69,11 +69,11 @@ Thus with a complex wavevector k, the field of E0ei(k·x−ωt) will exponential
 ),
 the absorption rate is maximized when the imaginary part of k is maximized, and
 β ≡ Im(k) = Im
-
+
 ωn
 2cϵ0
 α
-
+
 =
 ωn
 2cϵ0
@@ -102,7 +102,7 @@ dω2
 − ω2
 0) + γ2
 )
-
+
 = 0
 which simplifies to yield
 ω4
@@ -116,12 +116,12 @@ wavevector Rek will be close to (note that Re(α) = 0 at ω = ω0):
 Re(k) =
 ω0
 c
-
+
 1 + Re
-
+
 nα
 2ϵ0
-
+
 =
 ω0
 c
@@ -144,13 +144,13 @@ vp = Re
 √
 µϵ
 ≈ c
-
+
 1 − Re
 1
 2
 nα
 ϵ0
-
+
 = c +
 cq2n
 2mϵ0
@@ -215,8 +215,8 @@ q2n
 0).
 Thus, increasing the frequency would decrease vp and increase the index of refraction, so blue
 light would refract more.
-[5] Problem 24.  h 1 0IPhO 2002, problem 1. A neat application of electromagnetic waves in matter.
-[5] Problem 25.  h 1 0APhO 2007, problem 2. A problem on an exotic negative index of refraction.
+[5] Problem 24.   h 1 0IPhO 2002, problem 1. A neat application of electromagnetic waves in matter.
+[5] Problem 25.   h 1 0APhO 2007, problem 2. A problem on an exotic negative index of refraction.
 25
 Kevin Zhou Physics Olympiad Handouts
 Remark
@@ -315,7 +315,7 @@ enough so that |U(t)| ≪ U0, which corresponds to T ≪
 √
 tatb. Both conditions can be satisfied
 simultaneously, since a ≪ b.
-[4] Problem 27.  T 1 0IPhO 2004, problem 3. A practical problem which also reviews damped/driven
+[4] Problem 27.   T 1 0IPhO 2004, problem 3. A practical problem which also reviews damped/driven
 oscillations.
 [4] Problem 28. NBPhO 2014, problem 1. A challenging problem about a complex nonlinear circuit.
 [5] Problem 29. Physics Cup 2020, problem 1. (It’s not stated explicitly, but you should assume the

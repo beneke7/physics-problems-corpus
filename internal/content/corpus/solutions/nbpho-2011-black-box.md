@@ -25,14 +25,14 @@ t1 requiredforittoreachapre-definedfinalvoltage. Thenweneed
 to repeat the procedurewith the other capacitor and measure the
 timet2 andcalculateC2 = C1t2/t1;theuncertaintyisestimated
 as∆C1 = C1
-
+
 ∆t1
 t1
 + ∆t2
 t2
 + ∆C1
 C1
-
+
 .
 Itisrecommendedtocheckthenegligibilityoftheleakcurrent
 acrosstheplatesofthecapacitor. Tothisend,onecanchargeaca-

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202112"
 verification_status: flagged
 ---
 
-Let us make a sponge cake. Measure the density of the dough before baking and after baking. Investigate how the density of the finished sponge cake varies depending on whether it was baked on the edge of the cake pan or in the middle. (Enter the sponge cake recipe as well.) 
+Let us make a sponge cake. Measure the density of the dough before baking and after baking. Investigate how the density of the finished sponge cake varies depending on whether it was baked on the edge of the cake pan or in the middle. (Enter the sponge cake recipe as well.)
  (6 pont)

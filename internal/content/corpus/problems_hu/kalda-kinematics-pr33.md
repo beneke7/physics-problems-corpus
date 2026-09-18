@@ -22,4 +22,4 @@ i) Az alábbi ábrán két fésű látható. A fésűk arányait az ábra helyes
 
 ii) Most ugyanebben a helyzetben — és ugyanezt kérdezve — a fekete fésű a szürke fésűhöz képest kis alfa szöget zár be, ahol $\alpha \ll 1$ (számoláskor használjuk az $\alpha=0.1 \mathrm{rad}$ értéket).
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr33-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr33-fig1.jpg)

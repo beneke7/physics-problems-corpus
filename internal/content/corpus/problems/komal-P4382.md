@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201111"
 verification_status: pending
 ---
 
-The bob of a 2-m long pendulum undergoes circular motion in a horizontal plane. At most how long does it take to cover a complete circle? 
+The bob of a 2-m long pendulum undergoes circular motion in a horizontal plane. At most how long does it take to cover a complete circle?
  (4 pont)

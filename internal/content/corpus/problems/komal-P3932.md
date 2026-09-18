@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200611"
 verification_status: pending
 ---
 
-Why can those radioactive isotopes (natural) exist in the Earth which have much shorter half-life than the age of the Earth? 
+Why can those radioactive isotopes (natural) exist in the Earth which have much shorter half-life than the age of the Earth?
  (4 pont)

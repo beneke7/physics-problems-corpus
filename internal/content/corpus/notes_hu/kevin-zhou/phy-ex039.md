@@ -41,7 +41,6 @@ Ha [A] és [B] az A, illetve B koncentrációját jelöli, akkor a tömeghatás 
                                                 = K(T )
                                            [B]m
 ami nyilvánvaló módon általánosítható összetettebb reakciókra is. (Bevezető kémiaórákon a tömeghatás törvényét gyakran azzal indokolják, hogy n A-molekula találkozásának valószínűsége [A]n-nel arányos, de ez nem jó érv, mert a valódi reakciók több lépésben mennek végbe. Például két A-molekula instabil közbenső termékké egyesülhet, amely ezután egy harmadik A-molekulával reagál, és így tovább.)
-66 3. Statisztikus mechanika
 
 
 Megjegyzés. A Clausius–Clapeyron-egyenlet. Fázisátalakuláskor a két fázis kémiai potenciálja (részecskénként) egyenlő. Tekintsük a (p, T ) síkban egy együttlétezési görbe két közeli pontját. Ha ezeket egy i fázishoz tartozó tartományban haladó úttal kötjük össze, akkor
@@ -73,7 +72,6 @@ Ebben a szakaszban közelebbről vizsgáljuk az entrópiát, és egyesítjük a 
  • Ezt a két elképzelést az adiabatikus tétel egyesíti. A termodinamikai entrópiamegőrző folyamat egy lassan változó Hamilton-operátornak felel meg, amely teljesíti az adiabatikus tétel feltételeit; ez közvetlenül a fázistérfogat megmaradásához vezet. Ugyanez az elképzelés érvényes a kvantum-statisztikus mechanikában is, ahol az entrópia a lehetséges állapotok számát méri, amelyet a kvantumos adiabatikus tétel megőriz.
 
  • A termodinamika általános eredményei nem változnak számottevően, ha a mikroszkopikus fizika megváltozik. (A gőzgépek például nem szűntek meg működni a kvantummechanika felfedezésekor!) Tegyük fel például, hogy kiderül: egy gáz mágnesezhető. Ha ezután a mágnesezettséget felvesszük a termodinamikai változók közé, akkor megváltozik a munka, a szabadenergia, az entrópia és más mennyiségek számszerű értéke.
-67 3. Statisztikus mechanika
 
 
  • Ez azonban nem érvényteleníti az e változó nélkül levezetett eredményeket. A munka azt méri, mennyi energiát kap egy rendszer makroszkopikusan mérhető módokon. Az entrópia azt méri, hány állapotban lehet a rendszer a makroszkopikusan mért változók ismeretében. A szabadenergia azt méri, mekkora munkát nyerhetünk ki a rendszerből ugyanezen változók ismeretében. (Ha minden változót figyelembe veszünk, a szabadenergia egyszerűen a mikroszkopikus Hamilton-operátorrá válik.) Mindezek jogosan változhatnak, ha több mennyiség válik mérhetővé.

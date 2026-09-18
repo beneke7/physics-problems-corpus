@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-One half of the space between the two plates of a parallel plate capacitor is filled with a dielectric of permittivity $_{1}$ and the other half is filled with another dielectric of permittivity $_{2}$, first as shown in figure   a ) and second as shown in figure   b ). In which case will the capacitance of the capacitor be greater? 
+One half of the space between the two plates of a parallel plate capacitor is filled with a dielectric of permittivity $_{1}$ and the other half is filled with another dielectric of permittivity $_{2}$, first as shown in figure   a ) and second as shown in figure   b ). In which case will the capacitance of the capacitor be greater?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4150-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4150-fig1.gif)

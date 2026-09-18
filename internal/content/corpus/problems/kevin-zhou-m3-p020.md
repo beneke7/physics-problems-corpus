@@ -29,9 +29,9 @@ After some time, a “shock wave” of moving beads will propagate towards the r
           accelerated bead in this case?
 
 
-                     01^
+                     01^
     If you’re having trouble visualizing this, try plotting all the masses’ positions x(t) over time.
 
 
 
-                     01m
+                     01m

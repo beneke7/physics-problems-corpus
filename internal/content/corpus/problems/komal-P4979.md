@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates]
 ---
 
-A drop of mercury of radius $R$ and of surface tension $\alpha$ is floating in weightlessness. If the drop is placed into weak, uniform electric field of magnitude $E_0$, then the drop will extend in the direction of the electric field, its shape is nearly a rotational ellipsoid. Estimate the length of the extended mercury drop. 
+A drop of mercury of radius $R$ and of surface tension $\alpha$ is floating in weightlessness. If the drop is placed into weak, uniform electric field of magnitude $E_0$, then the drop will extend in the direction of the electric field, its shape is nearly a rotational ellipsoid. Estimate the length of the extended mercury drop.
  (6 pont)

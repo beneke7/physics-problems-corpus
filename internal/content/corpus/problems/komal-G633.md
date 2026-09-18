@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, choose-reference-frame]
 ---
 
-Is it possible that after a free kick is awarded to a team on a soccer pitch, the ball bounces from the crossbar of the goal behind the goal line and from the ground it bounces outward towards the pitch? 
+Is it possible that after a free kick is awarded to a team on a soccer pitch, the ball bounces from the crossbar of the goal behind the goal line and from the ground it bounces outward towards the pitch?
  (3 pont)

@@ -33,7 +33,6 @@ term, and since it contains only (β − γ) we can differentiate with respect t
                                                           ∂ n (log Z)
                                   f (n) (γ)|γ=0 = (−1)n               .
                                                               ∂β n
-60 3. Statistical Mechanics
 
 
 As an explicit example,

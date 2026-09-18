@@ -26,7 +26,6 @@ and fluid of density ρf . The moments of gravity and buoyancy are
                                 Z                       I
                            MG =    x × ρb g dV, MB =      x × (−p dS).
                                    V                           S
-97 4. Continuum Mechanics
 
 
 If the body were replaced by fluid, the fluid would be in equilibrium. This implies that MB is the
@@ -58,7 +57,7 @@ the center of gravity shifts horizontally by
                                             dyG = −zG dθ.
 
 However, the horizontal motion of the center of buoyancy has two components,
-                                                        Z
+                                                          Z
                                               I
                             dyB = − zB +          dθ, I =     y 2 dA
                                              V             A
@@ -80,7 +79,6 @@ The above analysis applies only to small angles, where the righting arm is linea
 righting arm goes to zero, the ship becomes unstable, and flips over.
 
 For smaller pieces of fluid, surface tension is important.
-98 4. Continuum Mechanics
 
 
  • Surface tension arises from the energy cost of having an interface between two materials,
@@ -131,12 +129,11 @@ For smaller pieces of fluid, surface tension is important.
    the principal radii of curvature R1 and R2 . For example, for c = 0 they are simply a and b.
 
  • By considering force balance on a small rectangle, one can show that the pressure discontinuity
-   across a surface is                                    
+   across a surface is
                                                   1     1
                                        ∆p = α        +       .
                                                   R1 R2
    The quantity in parentheses is also called twice the mean curvature.
-99 4. Continuum Mechanics
 
 
 Note. The case of a liquid in air (pure cohesion) is relatively straightforward, but things become
@@ -189,7 +186,6 @@ Next, we consider solid statics, which is slightly more mathematically involved.
 
       as is most conveniently shown in index notation. Since f ∗ vanishes in equilibrium, this calculation
       is usually taken to show that the stress tensor is symmetric, σT = σ.
-100 4. Continuum Mechanics
 
 
   • However, this is actually an oversimplification, because we have ignored the possibility of
@@ -241,7 +237,6 @@ which evades the above argument because the amount of spin a volume element can 
 as (∆L)3 . (This subtlety doesn’t occur for ordinary fluids, which aren’t spin polarized.) However,
 it’s possible to redefine the stress-energy tensor to include the bound momentum carried by the
 spin, in which case it is symmetric again.
-101 4. Continuum Mechanics
 
 
 Next, we describe the deformations within solids in terms of strain.
@@ -295,7 +290,6 @@ Next, we describe the deformations within solids in terms of strain.
                                           u = (∇u + (∇u)T )
                                              2
     where the bar is used to avoid notational confusion.
-102 4. Continuum Mechanics
 
 
  • The antisymmetric part of ∇u contains infinitesimal rotations, which don’t contribute to u.
@@ -351,7 +345,6 @@ Next, we describe the deformations within solids in terms of strain.
    which makes intuitive sense. As an application, volumes transform like
 
                                                   δρ = −ρ ∇ · u.
-103 4. Continuum Mechanics
 
 
   • For a surface element, we note that we can write dS = a × b and dV = c · dS. Then using the
@@ -402,7 +395,7 @@ The general definition of the strain tensor is in terms of the change in the met
                                            gij = δij − 2uij .
 
 Finally, by substituting X = x − u, we arrive at the so-called Euler–Almansi stress tensor,
-                                                                 
+
                                         1 ∂uj      ∂ui    ∂uk ∂uk
                               uij (x) =         +      −
                                         2 ∂xi      ∂xj    ∂xi ∂xj
@@ -412,7 +405,6 @@ scaling x = κX, we have
                                        uij = (1 − κ−1/2 )δij
                                               2
 which makes sense for all κ, while our infinitesimal expression only made sense for κ ≈ 1.
-104 4. Continuum Mechanics
 
 
 Note. The Lagrange representation. In this case, we work in terms of the variable X. We define
@@ -430,7 +422,7 @@ where Gij is the Lagrangian deformation tensor. We define the Lagrange–Green s
 
                                              Gij = δij + 2Uij
 
-which implies that                                                
+which implies that
                                      1       ∂Uj   ∂Ui   ∂Uk ∂Uk
                                Uij =             +     +               .
                                      2       ∂Xi ∂Xj     ∂Xi ∂Xj
@@ -465,7 +457,6 @@ Finally, we relate stress and strain with Hooke’s law.
                                                         uyy
                                                  ν=−        .
                                                         uxx
-105 4. Continuum Mechanics
 
 
  • The most general linear relation between stress and strain is
@@ -493,7 +484,7 @@ Finally, we relate stress and strain with Hooke’s law.
    The Young’s modulus and Poisson’s ratio are directly measurable, so they are found in tables.
 
  • Note that the mechanical pressure is
-                                                      
+
                                          1           2
                                    ∆p = − σii = − λ + µ uii .
                                          3           3
@@ -518,7 +509,6 @@ Finally, we relate stress and strain with Hooke’s law.
                                                  =
                                            ∂ukl    ∂uij
    which is the tensorial analogue of the condition that the curl of a vector field vanish.
-106 4. Continuum Mechanics
 
 
   • Assuming the stress is linear in the strain, this implies that

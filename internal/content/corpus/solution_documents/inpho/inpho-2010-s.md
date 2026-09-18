@@ -88,7 +88,9 @@ Please note that equivalent methods/solutions may exist.
 
 
                                                                             1
-            243               243             243
+
+
+            243               243             243
 2. (a) P1 =     P0       ; P2 =    P0 ; P3 =      P0
              32                32              32
             65                8              8
@@ -167,7 +169,9 @@ HB
                  4πl
 
                                                     2
-        (f) τem = QER
+
+
+        (f) τem = QER
                      mgR
     (g) α′ =
                           µ0 Q2 R2
@@ -199,7 +203,7 @@ HB
 
 
                             CS
-             iii. Poynting vector argument  can also show that   it is magnetic energy.
+             iii. Poynting  vector argument   can also show that   it is magnetic energy.
                              1  R                         −B πR2 l
                                                                2
                   (2πRl)           Ē × B̄dt = K − K =

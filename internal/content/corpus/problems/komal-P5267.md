@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-Steve is observing his eyeglasses. The lens of his glasses focuses the light of the Sun at a distance of 50 cm from the lens. He also observes that if the light of the Sun is reflected then two bright spots (foci) can be seen in front of the lens, one at a distance of 17 cm, and the other at a distance of 7 cm from the lens. What is the refractive index of the material of the lens? 
+Steve is observing his eyeglasses. The lens of his glasses focuses the light of the Sun at a distance of 50 cm from the lens. He also observes that if the light of the Sun is reflected then two bright spots (foci) can be seen in front of the lens, one at a distance of 17 cm, and the other at a distance of 7 cm from the lens. What is the refractive index of the material of the lens?
  (5 pont)

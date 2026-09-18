@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-A cylindrical container with a vertical axis of symmetry is closed at the top by a piston which is considered to be weightless, as shown in the figure. The container of volume 7 dm${}^3$ contains no air, only saturated water vapour at a temperature of $T$. How much work is done by pushing down the piston slowly until it reaches the level of the water in the container? During the process, the temperature of the entire system is constant. Calculate and plot the work done as a function of the temperature $T$, where $100\;{}^\circ\mathrm{C}\le T\le 370\;{}^\circ\mathrm{C}$. (Data on saturated water vapour pressure, density and water density should be taken from tables.) 
+A cylindrical container with a vertical axis of symmetry is closed at the top by a piston which is considered to be weightless, as shown in the figure. The container of volume 7 dm${}^3$ contains no air, only saturated water vapour at a temperature of $T$. How much work is done by pushing down the piston slowly until it reaches the level of the water in the container? During the process, the temperature of the entire system is constant. Calculate and plot the work done as a function of the temperature $T$, where $100\;{}^\circ\mathrm{C}\le T\le 370\;{}^\circ\mathrm{C}$. (Data on saturated water vapour pressure, density and water density should be taken from tables.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5234-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5234-fig1.gif)

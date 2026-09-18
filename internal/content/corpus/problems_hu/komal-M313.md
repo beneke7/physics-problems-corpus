@@ -9,5 +9,5 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 313. Mérjük meg egy rugós végű golyóstoll szára és egy asztal lapja közötti csúszási súrlódási tényező értékét! Mérőeszközként csak mérőszalagot használhatunk. 
+M. 313. Mérjük meg egy rugós végű golyóstoll szára és egy asztal lapja közötti csúszási súrlódási tényező értékét! Mérőeszközként csak mérőszalagot használhatunk.
  Varga István (1953--2007) feladata

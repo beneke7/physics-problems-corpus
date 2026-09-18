@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200601"
 verification_status: pending
 ---
 
-Estimate whether the rotation of the Earth could be stopped if all the people living on the Earth lined up along the equator, and marched in the appropriate direction. 
+Estimate whether the rotation of the Earth could be stopped if all the people living on the Earth lined up along the equator, and marched in the appropriate direction.
  (3 pont)

@@ -32,16 +32,16 @@ PV γ
 = Px(V − Ax)γ
 so
 Px = P
-
+
 V
 V − Ax
-γ
+ γ
 ≈ P
-
+
 1 + γ
 Ax
 V
-
+
 .
 Thus, the force on the mass is
 F = −(Px − P)A ≈ −Pγ
@@ -98,13 +98,13 @@ which means we have
 mgd + PatmAd =
 3
 2
-
+
 Patm +
 mg
 A
-
+
 (V − Ad) − PV
-
+
 .
 Solving for d, we have
 d =
@@ -173,10 +173,10 @@ Kevin Zhou Physics Olympiad Handouts
 Of course, we also have V1 = Ah, V2 = AH, p1 = p, and force balance in the initial state implies
 mgh = p1V1. Carefully plugging all of this in and writing everything in terms of H/h and the small
 ratio ϵ0E2/h2p yields the result
-
+
 H
 h
-2
+ 2
 −
 H
 h
@@ -218,11 +218,11 @@ temperature, but dT/dx is already proportional to ∆T, and we only want effects
 in ∆T, so we can treat κ as approximately constant. Then dT/dx is constant, as desired.
 Explicitly, if we put the left end of the tank at x = 0, then
 T(x) ≈ T0 +
-
+
 1 −
 x
 L
-
+
 ∆T.
 (b) For the system to be in mechanical equilibrium, the pressure must be uniform. By the ideal
 gas law, the density obeys ρ ∝ P/T, which implies that, to first order in ∆T, ρ is also a linear
@@ -231,13 +231,13 @@ that the total mass of gas remains m. We thus have
 ρ(x) ≈
 m
 πR2L
-
+
 1 +
 ∆T
 T0
 x − L/2
 L
-
+
 .
 (c) Relative to the left wall, the center of mass of the gas is at
 xcm =
@@ -251,21 +251,21 @@ dx =
 L
 Z L
 0
-
+
 1 +
 ∆T
 T0
 x − L/2
 L
-
+
 xdx = L
-
+
 1
 2
 +
 ∆T
 12T0
-
+
 .
 14
 Kevin Zhou Physics Olympiad Handouts
@@ -277,10 +277,10 @@ Solving for D yields
 D = −L
 m
 M + m
-
+
 ∆T
 12T0
-
+
 ≈ −L
 m
 M

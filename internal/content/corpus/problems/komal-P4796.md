@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry, auxiliary-unknowns]
 ---
 
-Two simple pendulums of the same length are suspended at the same point. One of the pendulum bobs is an iron ball of mass 78-g and the other one is a 12-g ball made of modelling clay. The pendulums are displaced such that the angle between the threads is $60^\circ$, and 
- $a)$ the angles between the threads and the horizontal are also $60^\circ$; 
- $b)$ the angles between the threads and the vertical are also $60^\circ$. 
- The two bobs are released at the same instant without any initial speed. The two bobs collide and stick to each other. What is the angle between the threads and the vertical when the two bobs are at the highest point? 
+Two simple pendulums of the same length are suspended at the same point. One of the pendulum bobs is an iron ball of mass 78-g and the other one is a 12-g ball made of modelling clay. The pendulums are displaced such that the angle between the threads is $60^\circ$, and
+ $a)$ the angles between the threads and the horizontal are also $60^\circ$;
+ $b)$ the angles between the threads and the vertical are also $60^\circ$.
+ The two bobs are released at the same instant without any initial speed. The two bobs collide and stick to each other. What is the angle between the threads and the vertical when the two bobs are at the highest point?
  (5 pont)

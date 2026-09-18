@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, superposition]
 ---
 
-An equilateral triangle is made of a piece of wire and two of its vertices are connected to a current supply as shown in the figure. The current in the wire which is connected to the vertex of the triangle is 10 A. What is the magnetic induction at the centre of the triangle? (The circuit is closed far from the triangle.) 
+An equilateral triangle is made of a piece of wire and two of its vertices are connected to a current supply as shown in the figure. The current in the wire which is connected to the vertex of the triangle is 10 A. What is the magnetic induction at the centre of the triangle? (The circuit is closed far from the triangle.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5171-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5171-fig1.gif)

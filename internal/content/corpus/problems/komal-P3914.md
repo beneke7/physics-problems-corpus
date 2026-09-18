@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200610"
 verification_status: flagged
 ---
 
-Find the current in the wire between points A and B . 
+Find the current in the wire between points A and B .
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3914-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3914-fig1.gif)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4165. Mekkora tömegű az az acélhuzal, amelynek megnyújtásakor 10 J rugalmas energiát lehet benne elraktározni? Az acél szakítási szilárdsága 900 MPa, Young-modulusa 210 GPa. 
+P. 4165. Mekkora tömegű az az acélhuzal, amelynek megnyújtásakor 10 J rugalmas energiát lehet benne elraktározni? Az acél szakítási szilárdsága 900 MPa, Young-modulusa 210 GPa.
  Bródy Imre (1891-1944) feladata

@@ -45,7 +45,9 @@ Solution I: Ground-Penetrating Radar
 
 
                                               I- 1
-IPhO2002
+
+
+IPhO2002
 
 
 2. The maximum depth of detection (skin depth, δ) of an object in the ground is
@@ -86,7 +88,9 @@ For a medium with conductivity of 1.0 mS/m and relative permittivity of 9, the s
 
 
                                                I- 2
-IPhO2002
+
+
+IPhO2002
 
 
 3. Lateral resolution:
@@ -133,7 +137,9 @@ The propagation speed of the signal in medium is
 
 
                                                  I- 3
-IPhO2002
+
+
+IPhO2002
 
 
 4. Path of EM waves for some positions on the ground surface

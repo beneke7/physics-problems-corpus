@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-In a thermally insulated horizontal cylinder an easily moveable heat conducting piston separates two samples of gas of the same type, and of different temperature and different pressure. Initially the piston is fixed, but later the fixing ceased. What initial conditions may result in that after the equilibrium is reached, the piston is not on that side where initially the gas had smaller pressure? 
+In a thermally insulated horizontal cylinder an easily moveable heat conducting piston separates two samples of gas of the same type, and of different temperature and different pressure. Initially the piston is fixed, but later the fixing ceased. What initial conditions may result in that after the equilibrium is reached, the piston is not on that side where initially the gas had smaller pressure?
  (4 pont)

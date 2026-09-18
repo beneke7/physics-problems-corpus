@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-When the straight ruler is supported 15 cm from one of its end, the ruler can be balanced by two alike coins placed 5 cm from that end. When the support is placed 10 cm from the end, 6 coins are needed to balance the ruler at the former location. How long is the ruler? 
+When the straight ruler is supported 15 cm from one of its end, the ruler can be balanced by two alike coins placed 5 cm from that end. When the support is placed 10 cm from the end, 6 coins are needed to balance the ruler at the former location. How long is the ruler?
  (4 pont)

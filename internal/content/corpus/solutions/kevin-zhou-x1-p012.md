@@ -30,11 +30,11 @@ p
 1 − (mc2/E)2 ≈
 E
 c
-
+
 1 −
 m2c4
 2E2
-
+
 by the binomial theorem. Using the de Broglie relation, we have
 k1 − k2 =
 p1 − p2
@@ -64,11 +64,11 @@ Idea 4
 For a system with more than one degree of freedom, the WKB quantization condition holds
 for each individually, I
 pi dxi =
-
+
 ni +
 αi
 2π
-
+
 h.
 In this case, there can be multiple quantum states with a given energy, in which case we say
 that energy level is degenerate; the number of states with that energy is called the degeneracy.

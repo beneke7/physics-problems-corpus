@@ -26,4 +26,4 @@ $$\eta = \frac{W - W'}{W}$$
 Consider the following buffer parameters known to us: stiffness $k_1 = 1.2 \times 10^7\ \mathrm{N/m}$, stiffness $k_2 = 1.5 \times 10^6\ \mathrm{N/m}$, friction coefficient $\mu = 0.25$, angle $\alpha = 22^\circ$. In the initial state, both springs are slightly compressed, and the compression A is $x_{10} = 1.0 \times 10^{-3}\ \mathrm{m}$, and the compression B is $x_{20} = 4.0 \times 10^{-2}\ \mathrm{m}$. Upon impact, the spring B will be compressed by a maximum of $\Delta x_m = 6.3 \times 10^{-2}\ \mathrm{m}$.
 The mass of the spring, wedges and plates can be neglected. Find the absorption rate of the buffer $\eta$.
 
-![Friction buffer: spring box N, wedges C and D between plates P and Q, springs A ($k_1$) and B ($k_2$)](../../sources/cpho-f/figures/cpho-f-2005-en-q4-fig1.png)
+![Friction buffer: spring box N, wedges C and D between plates P and Q, springs A ($k_1$) and B ($k_2$)](../../figures/cpho-f/figures/cpho-f-2005-en-q4-fig1.png)

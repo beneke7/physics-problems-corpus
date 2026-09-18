@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 4 (35 points). Refer to Figure 4.1. A taut string of length $L$ is placed along the x-axis, whose left end is located at the origin. Both ends of the string can be attached to a vibration generator, which drives oscillations in the $y$-direction. The speed of wave propagation is $u$.
 
-![](cpho-f-2018-en-q4-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2018-en-q4-fig01.png)
 Figure 4.1: A vibrating string.
 
 (1) (22 points). We fix the right end of the string $P_{2}$ and connect the left end $P_{1}$ to the generator. When the system reaches a steady state, the displacement of the left end is given by $y(x=0, t)=$ $A_{0} \cos (\omega t)$, where $A_{0}$ and $\omega$ are the amplitude and angular frequency of the oscillation respectively.

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-A ball is thrown up at speed $v_0$. When it reaches the top, another ball is thrown up, also at $v_0$. How does the relative speed of the two balls change over time? When and where do the balls meet? 
+A ball is thrown up at speed $v_0$. When it reaches the top, another ball is thrown up, also at $v_0$. How does the relative speed of the two balls change over time? When and where do the balls meet?
  (3 pont)

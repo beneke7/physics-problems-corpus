@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [superposition, limiting-and-special-cases]
 ---
 
-A piece of wire, whose thickness is the same everywhere, is bent into a circle of radius $R$. At one point of the circle, a current of magnitude $I$ flows into the wire in ``radial direction'' and at another point (also in the radial direction) it flows out of the wire. 
+A piece of wire, whose thickness is the same everywhere, is bent into a circle of radius $R$. At one point of the circle, a current of magnitude $I$ flows into the wire in ``radial direction'' and at another point (also in the radial direction) it flows out of the wire.
 
- What is the direction and the magnitude of the magnetic induction at the centre of the circle? 
+ What is the direction and the magnitude of the magnetic induction at the centre of the circle?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5459-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5459-fig1.gif)

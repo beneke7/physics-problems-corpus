@@ -40,10 +40,10 @@ But the potato is moving against air, so the total energy given to the potato is
 Emax = Cv (P0V0 − PatmVf) − Patm (Vf − V0).
 Since PV γ is constant during adiabatic expansion,
 Vf = V0
-
+
 P0
 Patm
-1/γ
+ 1/γ
 where γ = Cp/Cv. Plugging this in, we have
 Emax =
 5
@@ -52,7 +52,7 @@ P0V0 −
 7
 2
 PatmVf + PatmV0 =
-
+
 5
 2
 P0 + Patm −
@@ -63,7 +63,7 @@ P
 atmP
 5/7
 0
-
+
 V0.
 Copyright ©2009 American Association of Physics Teachers
 2009 Semifinal Exam Part A 8
@@ -74,10 +74,10 @@ A
 =
 V0
 A
-
+
 P0
 Patm
-5/7
+ 5/7
 .
 Copyright ©2009 American Association of Physics Teachers
 2009 Semifinal Exam Part A 9

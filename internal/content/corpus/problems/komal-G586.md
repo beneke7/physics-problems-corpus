@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-A ball is projected forward from an open car moving at a speed of 3 m/s. The speed of the ball is 2 m/s and it is projected at an angle of $60^\circ$ measured from the horizontal. With construction determine the angle at which the ball is flying away with respect to the road. 
+A ball is projected forward from an open car moving at a speed of 3 m/s. The speed of the ball is 2 m/s and it is projected at an angle of $60^\circ$ measured from the horizontal. With construction determine the angle at which the ball is flying away with respect to the road.
  (3 pont)

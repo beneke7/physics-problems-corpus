@@ -28,8 +28,8 @@ techniques: [choose-reference-frame, graphical-reduction]
 A young man at P and a young lady at Q were deeply in love. These two places are separated by a strait of width $w=1000 \mathrm{~m}$. After learning about the theory of rail gun in class, the young man could not wait to construct such a device to launch himself across the strait. He constructed a ramp of adjustable elevation of angle $\theta$ on which he laid two metal rails (the length of each rail is $D=35.0 \mathrm{~m}$ ) in parallel, separated by $L=$ 2.00 m . He managed to connect a 2424 V DC power supply to the ends of the rails. A conducting bar can slide freely on the metal rails such that he could hang on to it safely as it slides.
 
 A skilled engineer, moved by all these efforts, designed a system that can produce a $B=10.0 \mathrm{~T}$ magnetic field that can be directed perpendicular to the plane of the rails. The mass of the young man is 70 kg . The mass of the conducting bar is 10 kg and its resistance is $\mathrm{R}=1.0 \Omega$.
-![](apho-2002-t-q2-fig01.png)
-![](apho-2002-t-q2-fig02.png)
+![](../../figures/apho/figures/apho-2002-t-q2-fig01.png)
+![](../../figures/apho/figures/apho-2002-t-q2-fig02.png)
 Just after he had completed the construction and checked that it worked perfectly, he received a call from the young lady, sobbing and telling him that her father was going to marry her off to a rich man unless he can arrive at Q within 11 seconds after the call, and having said that she hang up.
 
 The young man immediately got into action and launched himself across the strait to Q.

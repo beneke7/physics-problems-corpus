@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-When a penalty kick is shot, the average speed of the ball can reach a speed of 150 km/h. How much time does the goalkeeper have to save the penalty if he is in the middle of the goal at the instant when the ball is kicked and the ball is moving towards one of the bottom corners of the goal? Is the following statement true: ``You can't defend a penalty kick well, they can only kick it badly.'' $\,$? 
+When a penalty kick is shot, the average speed of the ball can reach a speed of 150 km/h. How much time does the goalkeeper have to save the penalty if he is in the middle of the goal at the instant when the ball is kicked and the ball is moving towards one of the bottom corners of the goal? Is the following statement true: ``You can't defend a penalty kick well, they can only kick it badly.'' $\,$?
  (3 pont)

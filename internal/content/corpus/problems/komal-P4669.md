@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201410"
 verification_status: pending
 ---
 
-Uranium-238 is an alpha-decaying isotope, its half-life is 4.5-billion years. How many atoms are there in that Uranium block in which on average one atom decays in each 
- $a)$ second; 
- $b)$ hour; 
- $c)$ day; 
- $d)$ year? 
+Uranium-238 is an alpha-decaying isotope, its half-life is 4.5-billion years. How many atoms are there in that Uranium block in which on average one atom decays in each
+ $a)$ second;
+ $b)$ hour;
+ $c)$ day;
+ $d)$ year?
  (4 pont)

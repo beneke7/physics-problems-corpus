@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-Estimate the ratio of the number of protons to that of neutrons in the human body. 
+Estimate the ratio of the number of protons to that of neutrons in the human body.
  (3 pont)

@@ -29,7 +29,7 @@ Derive and Calculate the lapse rate $\left(\Gamma_{a}=d T_{a} / d z\right)$ for 
 
 (b) Assuming that the pressure inside the balloon is the same as that outside, derive an expression for $\Gamma_{b}=d T_{b} / d z$ in terms of the molar specific heat at constant pressure $\left(C_{b}\right)$ of the gas in the balloon.
 
-![](inpho-2013-a7-fig01.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig01.png)
 
 (c) Obtain an expression for the vertical acceleration $(\ddot{z})$ of the balloon in terms of temperatures and molar masses.
 
@@ -37,29 +37,29 @@ Derive and Calculate the lapse rate $\left(\Gamma_{a}=d T_{a} / d z\right)$ for 
 
 (e) State the condition for balloon to oscillate simple harmonically. Also obtain the frequency of oscillation $(\omega)$ for balloon.
 
-![](inpho-2013-a7-fig02.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig02.png)
 
 (f) Calculate approximately the time period $(\tau)$ of the oscillating balloon if $T_{0}=$ 300 K in a balloon consisting of Ar-He mixture in the mass ratio 1:1 (Atomic Weights of $\mathrm{Ar}=36 \mathrm{amu}$ and $\mathrm{He}=4 \mathrm{amu}$ ).
 
-![](inpho-2013-a7-fig03.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig03.png)
 **** END OF THE QUESTION PAPER ****
 
 ## Extra Sheet
 
-![](inpho-2013-a7-fig04.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig04.png)
 
 ## Extra Sheet
 
-![](inpho-2013-a7-fig05.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig05.png)
 
 ## Extra Sheet
 
-![](inpho-2013-a7-fig06.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig06.png)
 
 ## Extra Sheet
 
-![](inpho-2013-a7-fig07.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig07.png)
 
 ## Extra Sheet
 
-![](inpho-2013-a7-fig08.png)
+![](../../figures/inpho/figures/inpho-2013-a7-fig08.png)

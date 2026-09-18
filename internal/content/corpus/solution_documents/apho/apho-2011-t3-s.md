@@ -60,7 +60,8 @@ So we get:
 The graph of          is a hyperbola-like function increasing from 0 at                to an asymptotic value of      at
        .
                                                            Page 1 of 4
-The maximal pressure is obtained at        :
+
+The maximal pressure is obtained at        :
 
 
 
@@ -97,7 +98,8 @@ This translates into Maxwell’s equal-areas condition:
 Or, equivalently:
 
                                                         Page 2 of 4
-                                                    ∫            (            )
+
+                                                    ∫            (            )
 
 
 The cubic function ( ) is symmetric around the point             ,                    .
@@ -130,7 +132,8 @@ volume of the thin domain changes linearly from to . We get:
 Converting this into length, we have:
 
                                                         Page 3 of 4
-                                                                        (       )
+
+                                                                        (       )
                                                                         (           )
 
 g. The increase in the balloon’s volume as a result of converting a length              into the thick phase is:

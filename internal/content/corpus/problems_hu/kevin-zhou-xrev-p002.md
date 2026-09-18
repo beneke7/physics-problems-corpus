@@ -58,4 +58,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          µ, and T . It was one of the first unique, quantitative predictions of kinetic theory.
 
                                                         1
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts

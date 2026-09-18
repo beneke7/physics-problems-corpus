@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, stability-analysis]
 ---
 
-A uniform-density rod is lying on a horizontal tabletop. The rod is slowly raised into the vertical position by a force which is exerted at one end of the rod always perpendicularly to the rod. What is the least value of the coefficient of static friction between the rod and the tabletop if the rod does not slip during the process? 
+A uniform-density rod is lying on a horizontal tabletop. The rod is slowly raised into the vertical position by a force which is exerted at one end of the rod always perpendicularly to the rod. What is the least value of the coefficient of static friction between the rod and the tabletop if the rod does not slip during the process?
  (5 pont)

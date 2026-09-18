@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-At a pressure of 1000 hPa a force equivalent to the weight of a 15 ton object is distributed over the body of a human being. 
- $a)$ what is the surface area of the body of the person? 
- $b)$ what is this weight at the highest point of the High Tatra Mountains? 
+At a pressure of 1000 hPa a force equivalent to the weight of a 15 ton object is distributed over the body of a human being.
+ $a)$ what is the surface area of the body of the person?
+ $b)$ what is this weight at the highest point of the High Tatra Mountains?
  (3 pont)

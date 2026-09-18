@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5605. Egy mozgó argonatom nyugvó neonatommal rugalmasan ütközik. Legfeljebb mekkora szöggel térülhet el az argonatom? 
+P. 5605. Egy mozgó argonatom nyugvó neonatommal rugalmasan ütközik. Legfeljebb mekkora szöggel térülhet el az argonatom?
  Példatári feladat nyomán

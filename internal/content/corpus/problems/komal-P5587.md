@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Shine a laser beam on the Moon from the surface of the Earth. Rotate the laser source perpendicular to its axis with a motor at an angular speed of $100~\mathrm{min}^{-1}$. What is the speed at which the laser spot moves on the surface of the Moon? Is the result consistent with what we have learned in relativity? The effect of the Earth's atmosphere is negligible. 
+Shine a laser beam on the Moon from the surface of the Earth. Rotate the laser source perpendicular to its axis with a motor at an angular speed of $100~\mathrm{min}^{-1}$. What is the speed at which the laser spot moves on the surface of the Moon? Is the result consistent with what we have learned in relativity? The effect of the Earth's atmosphere is negligible.
  (4 pont)

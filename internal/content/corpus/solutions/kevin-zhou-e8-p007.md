@@ -23,14 +23,14 @@ Now let’s account for the gap. In the limit a ≪ r, the “missing” part of
 corresponds to the current of a circular current loop, with I = 2Ma. By the Biot–Savart law, this
 loop contributes a field of µ0I/(2r). Taking this piece out, we have
 B = µ0M
-
+
 1 −
 a
 r
 + O(a2
 /r2
 )
-
+
 .
 Idea 6: Magnetic Susceptibility
 Permanent magnets, such as the ones on your refrigerator, or the strong neodymium magnets

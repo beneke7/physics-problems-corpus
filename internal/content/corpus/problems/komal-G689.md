@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-The tracks of a toy tracked vehicle are suspended by two wheels whose centres are at a distance of 22 cm from each other. How long does a chain-link remain at rest on the ground, if the speed of the toy is 4 cm/s? How does this time depend on the radius of the wheel? 
+The tracks of a toy tracked vehicle are suspended by two wheels whose centres are at a distance of 22 cm from each other. How long does a chain-link remain at rest on the ground, if the speed of the toy is 4 cm/s? How does this time depend on the radius of the wheel?
  (3 pont)

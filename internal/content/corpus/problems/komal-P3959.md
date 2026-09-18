@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, conservation-laws, differential-element]
 ---
 
-Estimate how far would the Earth move away from the Sun because of its radiation in a 100 years. The power of the radiation of the Sun is P =3.8$^{.}$10$^{26}$ W. 
+Estimate how far would the Earth move away from the Sun because of its radiation in a 100 years. The power of the radiation of the Sun is P =3.8$^{.}$10$^{26}$ W.
  (5 pont)

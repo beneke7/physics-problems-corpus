@@ -104,12 +104,12 @@ which gives two factors of a0. This holds true for all the other dimensions, so
 −
 ℏ2ϵ0a0
 me2
-
+
 1
 a2
 0
 ˜ ∇2
-
+
 ψ −
 a0
 r
@@ -187,5 +187,5 @@ see this paper.
 You probably won’t see any differential equations as complex as the ones in the above problem
 anywhere in Olympiad physics, but the key idea of using dimensionless quantities to simplify and
 clarify the physics can be used everywhere.
-[5] Problem 12.  h 1 0IPhO 2007, problem “blue”. This problem applies thermodynamics and dimen-
+[5] Problem 12.   h 1 0IPhO 2007, problem “blue”. This problem applies thermodynamics and dimen-
 sional analysis in some exotic contexts.

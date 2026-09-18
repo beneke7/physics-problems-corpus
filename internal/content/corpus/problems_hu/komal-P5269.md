@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5269. Mekkora frekvenciájú szinuszos váltóárammal szemben képvisel az  ábrán látható összeállítás végtelen nagy ellenállást? 
+P. 5269. Mekkora frekvenciájú szinuszos váltóárammal szemben képvisel az  ábrán látható összeállítás végtelen nagy ellenállást?
 
  Példatári feladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5269-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5269-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, conservation-laws]
 ---
 
-Can three point-like objects of different masses move in the gravitational fields of each other, such that the distances between any two are equal and remain constant during the motion? What is the angular speed of this rotating system? 
+Can three point-like objects of different masses move in the gravitational fields of each other, such that the distances between any two are equal and remain constant during the motion? What is the angular speed of this rotating system?
  (5 pont)

@@ -37,7 +37,7 @@ The schematic and connections of the circuit board (left) and the potentiometer 
 
 $$T = 2.254\ \text{K} \left(\ln\frac{R_T}{1\ \text{k}\Omega}\right)^2 - 32.46\ \text{K}\ln\frac{R_T}{1\ \text{k}\Omega} + 361.09\ \text{K}.$$
 
-![Figure: Circuit board schematic (left) and potentiometer connections (right)](../../sources/eupho/figures/eupho-2017-E1-1.png)
+![Figure: Circuit board schematic (left) and potentiometer connections (right)](../../../../../sources/eupho/figures/eupho-2017-E1-1.png)
 
 > **Warning!** Apply voltage to the LED only with the polarity shown! The red lead of the power supply is "$+$" (and should be connected to the red connector of the LED) and the black lead is "$-$".
 

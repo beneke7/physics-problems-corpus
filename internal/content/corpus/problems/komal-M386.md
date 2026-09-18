@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201904"
 verification_status: pending
 ---
 
-Make a long-period torsion pendulum, which swings in air. With measurement determine how the period of the pendulum depends on the length of the thread. 
+Make a long-period torsion pendulum, which swings in air. With measurement determine how the period of the pendulum depends on the length of the thread.
  (6 pont)

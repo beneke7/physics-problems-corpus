@@ -24,7 +24,7 @@ techniques: [conservation-laws, graphical-reduction]
 ---
 
 A4. (25) This problem describes a real situation once faced by Federal Aviation Administration engineers. In Florida, where there are frequent thunderstorms, the FAA experienced a large number of communications equipment failures. Suspecting lightning strikes, a power recording monitor was installed at one Florida site. After carefully studying the problem, the engineers concluded that the failures were the result of inductive coupling of energy into the communications system. They determined that a conducting loop (with dimensions of about 2 meters by 6 meters) was formed by the steel tower, the copper microwave waveguide, the steel equipment cabinet, and the ground (see sketch). Using typical figures for the rise time of electric current in a lightning bolt, one can estimate that significant voltages would be induced in this loop, even by a lighting strike several kilometers away
-![](usapho-1998-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-1998-a4-fig01.png)
 
 Let us model the process as follows:
 (a, 8) Begin with the magnetic field produced by a straight, infinite line of steady current $I$. Use either the Biot-Savart law or Ampere's law to obtain an expression for the magnetic field at the distance $r$ from the current.

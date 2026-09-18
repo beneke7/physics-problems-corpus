@@ -55,7 +55,7 @@ n = 1
 n = 2
 n = 3
 n = 4
-[2] Problem 10.  W 1 0USAPhO 1997, problem A1.
+[2] Problem 10.   W 1 0USAPhO 1997, problem A1.
 Idea 4
 When a musical instrument plays a note, typically multiple standing waves are excited, so
 the resulting sound is composed of multiple frequencies. As you saw in problem 9, often the

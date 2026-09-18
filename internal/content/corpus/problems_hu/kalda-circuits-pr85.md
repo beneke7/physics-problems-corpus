@@ -23,4 +23,4 @@ Az alábbi áramkörben egy transzformátor szerepel. A transzformátor mindkét
 (b) Az (a) rész feltevése mellett határozzuk meg a bal oldali ellenállás áramát az idő függvényében.
 (c) Most fordítsuk meg az egyik tekercs tekercselési irányát; határozzuk meg a jobb oldali ellenállás áramát az idő függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr85-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr85-fig1.jpg)

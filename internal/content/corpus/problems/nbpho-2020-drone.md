@@ -25,7 +25,7 @@ techniques: [conservation-laws, exploit-symmetry]
 
 A drone is pulling a cuboid with a rope as shown in the sketch; the cuboid is sliding slowly, with a constant speed, on the horizontal floor. The cuboid is made from an homogeneous material. You may take measurements from the sketch (on a separate page) assuming that the dimensions and distances on it are correct within an unknown scale factor. In order to help you in case you don't have access to a printer, and need to read the problem texts directly from the computer screen, some auxiliary dashed lines are shown in the diagram (which might or might not be useful).
 
-![figure](../../sources/nbpho/figures/nbpho-2020-drone-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2020-drone-fig1.jpg)
 
 **i)** *(2 points)* Find the coefficient of friction between the cuboid and the floor.
 

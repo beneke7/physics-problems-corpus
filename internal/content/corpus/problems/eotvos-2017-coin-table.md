@@ -24,7 +24,7 @@ techniques: [choose-reference-frame, conservation-laws]
 
 Az ábrán látható, $d$ oldalhosszúságú, négyzet alakú asztallap $A$ sarkánál egy $m$ tömegű, kis pénzérme nyugszik. Az asztal $B$ sarkához egy horgászzsinór egyik végét rögzítjük, majd a zsinórt az érmén „átvetve" az asztal $C$ sarkához rögzített szemescsavaron vezetjük át. A zsinór szabad végét igen lassan húzni kezdjük addig, amíg az érme végül leesik az asztalról. Az asztallap és az érme közötti csúszási súrlódási együttható $\mu$, máshol a súrlódás elhanyagolható.
 
-![Az asztal és a zsinór elrendezése](../../sources/eotvos/figures/eotvos-2017-coin-table-fig1.png)
+![Az asztal és a zsinór elrendezése](../../figures/eotvos/figures/eotvos-2017-coin-table-fig1.png)
 
 a) Hol esik le az érme az asztalról?
 b) Becsüljük meg, mennyi munkát végeztünk a folyamat közben!

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-The inside part of a circular-base vertical tube of height 1 m and of inner diameter 20 cm is filled with ice of temperature $0\;{}^\circ$C. The wall of the tube is slippery and is made of some insulating material. The tube is open at its top and closed at its bottom. We start heating the bottom of the tube at a rate of 335 W. 
- At what constant speed will the top of the ice-cylinder move downwards? 
+The inside part of a circular-base vertical tube of height 1 m and of inner diameter 20 cm is filled with ice of temperature $0\;{}^\circ$C. The wall of the tube is slippery and is made of some insulating material. The tube is open at its top and closed at its bottom. We start heating the bottom of the tube at a rate of 335 W.
+ At what constant speed will the top of the ice-cylinder move downwards?
  (4 pont)

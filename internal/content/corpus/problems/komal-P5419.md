@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-The magnitude of the acceleration of a point-like body moving at a constant speed of $6$ m/s in a horizontal plane is constant. The length of the path of the body between points $A$ and $B$ is $1.2$ times the magnitude of the displacement vector. It takes 2 seconds for the body to cover this path. What is its acceleration? 
+The magnitude of the acceleration of a point-like body moving at a constant speed of $6$ m/s in a horizontal plane is constant. The length of the path of the body between points $A$ and $B$ is $1.2$ times the magnitude of the displacement vector. It takes 2 seconds for the body to cover this path. What is its acceleration?
  (4 pont)

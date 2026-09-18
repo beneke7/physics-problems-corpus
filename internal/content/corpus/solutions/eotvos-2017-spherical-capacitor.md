@@ -15,8 +15,8 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2017
 2. feladat. Egy gömbkondenzátor fegyverzeteinek sugara R és 3R. A gömböket rövidre zárjuk, és a nagyobb gömböt
 leföldeljük. A két fémgömb között egy Q ponttöltést mozgatunk állandó v sebességgel sugárirányban kifelé (3. ábra).
 3. ábra
-Mekkora áram folyik a gömböket összeköt® vezetékben, amikor a mozgó töltés éppen félúton, a gömbök középpont-
-jától 2R távolságban van? (A rövidrezáró vezeték elektrosztatikus terét ne vegyük 
+Mekkora áram folyik a gömböket összeköt® vezetékben, amikor a mozgó töltés éppen  félúton , a gömbök középpont-
+jától 2R távolságban van? (A rövidrezáró vezeték elektrosztatikus terét ne vegyük
 gyelembe!)
 I. megoldás. A feladat nehézsége abban rejlik, hogy a fémgömbök eredetileg fennálló gömbszimmetriáját elrontja
 a Q ponttöltés jelenléte. Emiatt a gömbökön kialakuló töltéseloszlás er®sen inhomogén lesz, és az elektromos mez®
@@ -41,13 +41,13 @@ A nagy gömbön kívül a földelés miatt nin s elektromos tér (a bels® tölt
 (2) Q + q1 + q2 = 0.
 A fenti két egyenletb®l a kisebb gömb töltésének abszolút értéke kifejezhet® r függvényében:
 (3) q1(r) = −
-
+
 3R
 2r
 −
 1
 2
-
+
 Q.
 Mivel a gömbök össztöltése állandó (−Q), így a ponttöltés mozgása közben sak a gömbök közötti vezetékben folyik
 áram, a földbe jutó vezetékben nem. A kis gömbre vonatkozó kontinuitási egyenletb®l a gömbök között folyó áram
@@ -84,7 +84,7 @@ kentjük. Ekkor a gömbök q1 és q2 töltése is N-edrészére sökken. Forgass
 körül egy ki sit, és szuperponáljuk rá az eredeti elrendezésre! Így már két Q/N ponttöltés helyezkedik el a középponttól
 r távolságra, a gömbök töltése pedig rendre 2q1/N és 2q2/N. Ismételjük meg ezt az eljárást még (N − 2)-ször úgy,
 hogy végül összesen Q töltés legyen az r sugarú gömbfelületen, a lehet® legegyenletesebb elrendez®désben. Az N → ∞
-határesetben a ponttöltést ilyen módon végül szétkenhetjük egy r sugarú, egyenletes felületi töltéss¶r¶ség¶, Q össz-
+határesetben a ponttöltést ilyen módon végül  szétkenhetjük  egy r sugarú, egyenletes felületi töltéss¶r¶ség¶, Q össz-
 töltés¶ gömbhéjjá, miközben a fémgömbök q1 és q2 töltése változatlan marad. Ennek az az el®nye, hogy az eredeti
 feladatot visszavezettük egy könnyebb, gömbszimmetrikus problémára.
 Ismert, hogy egy egyenletesen töltött gömbhéj poten iálja kívül úgy számítható, mintha a gömb töltése a közép-
@@ -101,14 +101,14 @@ q2
 3R
 = 0,
 ami ekvivalens a (2) egyenlettel. A kis gömb felületén a (szintén nulla) poten iált teljesen hasonlóan, három tag
-összegeként írhatjuk fel: a legküls® gömb járuléka kq2/(3R), a szétkent ponttöltésé kQ/r, míg a legbels® gömbé
+összegeként írhatjuk fel: a legküls® gömb járuléka kq2/(3R), a  szétkent  ponttöltésé kQ/r, míg a legbels® gömbé
 kq1/R. Ez végül az (1) egyenletre vezet. Az (1) és (2) egyenletek birtokában a végeredményhez az I. megoldással
 azonos módon juthatunk el.
 Megjegyzés. Az egyik második díjat nyert versenyz®, Marozsák Tóbiás egy harmadik úton oldotta meg a feladatot. Ismert,
 hogy ha egy földelt, vezet® gömbhéj közelébe egy ponttöltést helyezünk, akkor a gömbön megosztott töltések helyettesíthet®k
 egy, a gömbfelület ponttöltéssel átellenes oldalán elhelyezett tükörtöltéssel. Ennek a tükörtöltésnek a nagysága és helyzete
 kiszámolható abból a feltételb®l, hogy a gömb teljes felülete nulla poten iálú. A feladatban szerepl® két, kon entrikus gömbhéj
-esetén a Q töltést el®ször tükröznünk kell mindkét gömbre, majd az így kapott tükörtöltésekkel is folytatni kell az eljárást.
+esetén a Q töltést el®ször  tükröznünk  kell mindkét gömbre, majd az így kapott tükörtöltésekkel is folytatni kell az eljárást.
 Végül váltakozó el®jel¶ tükörtöltések végtelen sorát kapjuk a kis gömbön belül és a nagy gömbön kívül. A kis gömbön belüli
 tükörtöltések össztöltése (azaz q1) egy geometriai sor felösszegzésével kiszámítható, és így közvetlenül a (3) egyenlethez jutunk.
 Bár ez a módszer matematikailag sokkal nehezebb, mint a fenti két, részletesen ismertetett megoldás, elvben lehet®séget ad

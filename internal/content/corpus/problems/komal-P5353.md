@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-What is the reason that the activity of mined uranium ore is significantly higher than that of the uranium salt which is made from the ore? 
+What is the reason that the activity of mined uranium ore is significantly higher than that of the uranium salt which is made from the ore?
  (4 pont)

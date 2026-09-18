@@ -41,6 +41,5 @@ generalize to three dimensions. In this case we have
                        2               2                     2
 This works for arbitrary ω(t), in which case the second term gives both the Coriolis and Euler forces,
 and the final term gives the centrifugal force.
-8   1. Classical Mechanics
 
 

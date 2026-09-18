@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [smart-coordinates, scaling-and-dimensional-analysis]
 ---
 
-How long is the shadow of a 1 m long rod, which is fixed perpendicularly to the ground at the equator, 
- a ) at noon, on the 21-st of June; 
- b ) 2 hours later after noon on the 21-st of June? 
+How long is the shadow of a 1 m long rod, which is fixed perpendicularly to the ground at the equator,
+ a ) at noon, on the 21-st of June;
+ b ) 2 hours later after noon on the 21-st of June?
  (5 pont)

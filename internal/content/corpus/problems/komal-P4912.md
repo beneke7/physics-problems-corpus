@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-One end of a flexible, heavy rope of length $L$ is attached to the ceiling, whilst the other end hangs freely. Below the suspension the rope is hit horizontally. How long does it take for the transverse signal (shock wave), generated near the suspension point, to reach the bottom end of the rope? 
+One end of a flexible, heavy rope of length $L$ is attached to the ceiling, whilst the other end hangs freely. Below the suspension the rope is hit horizontally. How long does it take for the transverse signal (shock wave), generated near the suspension point, to reach the bottom end of the rope?
  (5 pont)

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [exploit-symmetry, extremization]
 ---
 
-The image formed by a plane mirror has the same size as the object. However, if we go closer to the mirror we observe ourselves bigger, because the angle of view gets greater. We can see our back by means of two plane mirrors, which are placed approximately opposite and parallel to each other. 
- Where should we stand in between the two mirrors in order to get the greatest angle of view of our back? 
+The image formed by a plane mirror has the same size as the object. However, if we go closer to the mirror we observe ourselves bigger, because the angle of view gets greater. We can see our back by means of two plane mirrors, which are placed approximately opposite and parallel to each other.
+ Where should we stand in between the two mirrors in order to get the greatest angle of view of our back?
  (4 pont)

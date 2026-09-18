@@ -24,4 +24,4 @@ i) Számozzuk meg az ábrán az impulzusokat (pontokat) 1-től 4-ig a kibocsát�
 
 ii) Az ábra segítségével határozzuk meg a korong $R$ sugarát, középpontjának $v$ sebességét és $\omega$ szögsebességét. Tudjuk, hogy $\omega<30 \mathrm{rad} / \mathrm{s}$. Az ábra méretarányát egy $l=10 \mathrm{~cm}$ hosszúságú szakasz képe adja meg.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr54-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr54-fig1.jpg)

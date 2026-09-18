@@ -23,44 +23,44 @@ a distance x, in terms of x and speed ẋ.
 P =
 Solution: Let total mass of the chain to be M = λl.
 The mass of the left side of the chain = λ
-
+
 l + x
 2
-
+
 CM of the left side of the chain =
-
+
 l + x
 4
-
+
 The mass of the right side of the chain = λ
-
+
 l − x
 2
-
+
 CM of the right side of the chain =
-
+
 x +
 l − x
 4
-
+
 xCM =
 λ
-
+
 l + x
 2
-
+
 l + x
 4
-
+
 + λ
-
+
 l − x
 2
-
+
 x +
 l − x
 4
-
+
 λl
 (3.1)
 λlxCM =
@@ -74,10 +74,10 @@ l − x
 4
 (3.2)
 P = λlẋCM = λ
-
+
 l − x
 2
-
+
 ẋ (3.3)
 (b) [1] Assume that the end A is falling freely under gravity, i.e., ẍ = g. Obtain the tension T at
 the fixed end B just before the chain completes the fall and becomes entirely vertical.
@@ -102,19 +102,19 @@ Ṗ =
 T(x) =
 Mg
 2
-
+
 1 +
 3x
 l
-
+
 =
 λlg
 2
-
+
 1 +
 3x
 l
-
+
 (3.9)
 T(x = l) = 2λlg (3.10)
 Experimentally, the value of tension is found to be different from the above result. We adopt an
@@ -143,10 +143,10 @@ K(x) =
 1
 2
 λ
-
+
 l − x
 2
-
+
 ẋ2
 (3.12)
 As the total energy is conserved,

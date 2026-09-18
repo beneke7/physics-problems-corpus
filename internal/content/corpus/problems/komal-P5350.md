@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-A thin parallel light beam is aimed at the centre of a transparent sphere, and the rays meet exactly at the opposite point of the surface of the sphere. What is the refractive index of the material of the sphere? 
+A thin parallel light beam is aimed at the centre of a transparent sphere, and the rays meet exactly at the opposite point of the surface of the sphere. What is the refractive index of the material of the sphere?
  (4 pont)

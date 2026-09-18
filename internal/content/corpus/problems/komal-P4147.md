@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-Will the energy of air in a cold room change when a stove in the room is heated? 
+Will the energy of air in a cold room change when a stove in the room is heated?
  (3 pont)

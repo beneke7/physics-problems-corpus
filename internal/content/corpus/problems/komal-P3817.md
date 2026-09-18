@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A uniform cylinder is placed to a slope inclined at an angle of . The symmetry axis of the cylinder is horizontal. The coefficient of kinetic friction is 0.2. Find the acceleration of the cylinder. 
+A uniform cylinder is placed to a slope inclined at an angle of . The symmetry axis of the cylinder is horizontal. The coefficient of kinetic friction is 0.2. Find the acceleration of the cylinder.
  (5 pont)

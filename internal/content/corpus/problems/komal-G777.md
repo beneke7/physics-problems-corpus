@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-We would like to heat room temperature espresso coffee by ``steaming''. Estimate how much the ``quality'' of the coffee deteriorates, that is, how much the coffee concentration decreases. 
+We would like to heat room temperature espresso coffee by ``steaming''. Estimate how much the ``quality'' of the coffee deteriorates, that is, how much the coffee concentration decreases.
  (4 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates, limiting-and-special-cases]
 ---
 
-The bottom end of a smooth inclined plane of angle of elevation =60$^\circ$, and of length 3 R is attached to a cylinder, which has a semicircular cross section of radius  R =0.5 m. In the path there is no break. From the top of the inclined plane a pointlike object of mass m =0.2 kg slides down with zero initial speed. a ) What will the kinetic energy of the object be at the highest point of the curved part of the path? b ) Where will the object hit the inclined plane? (Friction and air drag are negligible.) 
+The bottom end of a smooth inclined plane of angle of elevation =60$^\circ$, and of length 3 R is attached to a cylinder, which has a semicircular cross section of radius  R =0.5 m. In the path there is no break. From the top of the inclined plane a pointlike object of mass m =0.2 kg slides down with zero initial speed. a ) What will the kinetic energy of the object be at the highest point of the curved part of the path? b ) Where will the object hit the inclined plane? (Friction and air drag are negligible.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4308-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4308-fig1.gif)

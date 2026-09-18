@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $\rho$ egységnyi hosszra jutó tömegű, $L$ hosszú, nyújthatatlan, érdes kötelet úgy vetünk át egy csigán, hogy az egyik lelógó szár hossza $l$. A csiga egy $m$ tömegű, $R$ sugarú, könnyű küllőkkel vízszintes tengelyhez erősített gyűrű. A kezdetben nyugalomban lévő rendszert elengedjük. Határozzuk meg a tengelyre ható erőt közvetlenül a mozgás megindulása után. A csiga és a tengely közötti súrlódás elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr32-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr32-fig1.jpg)

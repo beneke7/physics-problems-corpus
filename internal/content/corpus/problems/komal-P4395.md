@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-In a container there is a sample of Hydrogen gas, its gauge pressure is 400 Pa. If a small valve (its diameter is some millimetres) at the top of the container is opened, then the initial speed of the leaking Hydrogen is 100 m/s. What was the temperature of the Hydrogen? (The ambient air pressure is 1 bar.) 
+In a container there is a sample of Hydrogen gas, its gauge pressure is 400 Pa. If a small valve (its diameter is some millimetres) at the top of the container is opened, then the initial speed of the leaking Hydrogen is 100 m/s. What was the temperature of the Hydrogen? (The ambient air pressure is 1 bar.)
  (4 pont)

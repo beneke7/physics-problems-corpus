@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201804"
 verification_status: pending
 ---
 
-Create a short circuit across a solar cell by connecting an ammeter across it. Investigate how the current depends on the angle of incidence of the ,,direct sun rays''. Do not forget to set a proper measurement range for the ammeter. 
+Create a short circuit across a solar cell by connecting an ammeter across it. Investigate how the current depends on the angle of incidence of the ,,direct sun rays''. Do not forget to set a proper measurement range for the ammeter.
  (6 pont)

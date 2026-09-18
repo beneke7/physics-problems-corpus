@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-Drop some oil to the surface of water. Plot the graph of the diameter of the patch of oil as a function of the quantity of the dropped oil. 
- What is the width of the oil layer spread out on the surface of water? 
- Examine the phenomenon at different temperatures. 
+Drop some oil to the surface of water. Plot the graph of the diameter of the patch of oil as a function of the quantity of the dropped oil.
+ What is the width of the oil layer spread out on the surface of water?
+ Examine the phenomenon at different temperatures.
  (6 pont)

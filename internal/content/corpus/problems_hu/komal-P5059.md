@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5059. Mennyi idő alatt esik be egy test a Napba, ha a Naptól 50 CSE távolságból, kezdősebesség nélkül indul? Mennyi idő alatt teszi meg a pályája felét? 
+P. 5059. Mennyi idő alatt esik be egy test a Napba, ha a Naptól 50 CSE távolságból, kezdősebesség nélkül indul? Mennyi idő alatt teszi meg a pályája felét?
  Némedi István (1932–1998) feladata nyomán

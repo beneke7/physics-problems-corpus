@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-Point $C$ can be connected to either point $X$ or to point $Y$ by means of a piece of flexible wire as shown in the figure of the circuit. 
+Point $C$ can be connected to either point $X$ or to point $Y$ by means of a piece of flexible wire as shown in the figure of the circuit.
 
- $a)$ What is the value of current $I$ in the main branch in each case? 
- $b)$ What is the value of this current if the flexible wire is disconnected from point $C$? 
+ $a)$ What is the value of current $I$ in the main branch in each case?
+ $b)$ What is the value of this current if the flexible wire is disconnected from point $C$?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G619-fig1.gif)
+![figure](../../figures/komal/figures/komal-G619-fig1.gif)

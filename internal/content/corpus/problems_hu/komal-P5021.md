@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5021. Legfeljebb mekkora energiára tehet szert egy – kezdetben állónak tekinthető – elektron, ha egy 1 MeV mozgási energiájú másik részecskével ütközik, amennyiben ez a részecske 
- $a)$ proton; 
- $b)$ elektron; 
+P. 5021. Legfeljebb mekkora energiára tehet szert egy – kezdetben állónak tekinthető – elektron, ha egy 1 MeV mozgási energiájú másik részecskével ütközik, amennyiben ez a részecske
+ $a)$ proton;
+ $b)$ elektron;
  $c)$ pozitron?

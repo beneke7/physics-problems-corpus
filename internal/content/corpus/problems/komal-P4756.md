@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A circular ring is made of a piece of metal wire of resistivity $\varrho$ and of width $2a$ . The radius of the central circle of the ring is $r$ ($r\gg a$ ). This ring is placed into uniform magnetic field of magnitude $\boldsymbol{B}_0$, which is perpendicular to the plane of the ring. Then the magnetic induction is decreased uniformly to zero in a time of $\Delta t$ . Determine the magnitude of the induced magnetic field, $B_{\rm ind}$, at the centre of the ring. 
+A circular ring is made of a piece of metal wire of resistivity $\varrho$ and of width $2a$ . The radius of the central circle of the ring is $r$ ($r\gg a$ ). This ring is placed into uniform magnetic field of magnitude $\boldsymbol{B}_0$, which is perpendicular to the plane of the ring. Then the magnetic induction is decreased uniformly to zero in a time of $\Delta t$ . Determine the magnitude of the induced magnetic field, $B_{\rm ind}$, at the centre of the ring.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4756-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4756-fig1.gif)

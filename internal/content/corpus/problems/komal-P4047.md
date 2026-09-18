@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, auxiliary-unknowns]
 ---
 
-A uniform density rod of mass m and of length is standing vertically on a frictionless surface. The rod is moved out of its unstable equilibrium position. 
- a ) What will be the speeds of the two ends of the rod when it reaches the ground? 
- b ) What is the kinetic energy of the rod at this instant? 
+A uniform density rod of mass m and of length is standing vertically on a frictionless surface. The rod is moved out of its unstable equilibrium position.
+ a ) What will be the speeds of the two ends of the rod when it reaches the ground?
+ b ) What is the kinetic energy of the rod at this instant?
  (5 pont)

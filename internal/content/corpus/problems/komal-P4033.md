@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200801"
 verification_status: pending
 ---
 
-Three cells are connected in series. Their electromotive forces are 2 V, 10 V, and 5 V; their internal resistances are 0.2  , 0.3  , and 0.5  . Calculate the voltage across the third cell and graph this terminal voltage as a function of the external resistance connected to the circuit. 
+Three cells are connected in series. Their electromotive forces are 2 V, 10 V, and 5 V; their internal resistances are 0.2  , 0.3  , and 0.5  . Calculate the voltage across the third cell and graph this terminal voltage as a function of the external resistance connected to the circuit.
  (4 pont)

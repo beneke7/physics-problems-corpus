@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws, choose-reference-frame]
 ---
 
-According to the classical electron model, the electron is a uniformly charged insulating spherical shell whose electrostatic energy is equal to the rest energy of the electron $mc^2$. Using the laws of classical mechanics, determine the kinetic energy that should be given to the electron if it is to collide with another initially stationary electron such that they ``touch'' each other? 
+According to the classical electron model, the electron is a uniformly charged insulating spherical shell whose electrostatic energy is equal to the rest energy of the electron $mc^2$. Using the laws of classical mechanics, determine the kinetic energy that should be given to the electron if it is to collide with another initially stationary electron such that they ``touch'' each other?
  (5 pont)

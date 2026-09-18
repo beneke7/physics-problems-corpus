@@ -21,21 +21,21 @@ sok volt.
 amikor el®ször meghalljuk a hangját. Milyen irányból halljuk a repül®gép hangját akkor, amikor már 2 km messze van
 t®lünk a gép?
                                                                                                         (Radnai Gyula)
-   Megoldás. Az 1. ábrán az M meggyel® fölött elhaladó repül®gépb®l egyenl® id®közönként kibo sátott hanghul-
+   Megoldás. Az 1. ábrán az M meg gyel® fölött elhaladó repül®gépb®l egyenl® id®közönként kibo sátott hanghul-
 lámokat ábrázoltuk.
    A szuperszonikus repül®gép sebessége nagyobb, mint a hang sebessége a leveg®ben. Jól látszik, hogy a repül®gép
-már elhaladt a meggyel® felett, de a hangja még nem ért el a meggyel®höz. Az 1.   ábrán a repül®gép éppen a
+már elhaladt a meg gyel® felett, de a hangja még nem ért el a meg gyel®höz. Az 1.   ábrán a repül®gép éppen a
 D pontban van, ez el®tt τ id®vel volt a C pontban, 2τ id®vel el®tte a B pontban, 3τ id®vel el®tte az A pontban.
 AB = BC = CD = vτ (v a repül®gép sebessége). Természetesen a közbüls® pontokban is bo sát ki hangot a
 repül®gép, az áttekinthet®ség kedvéért ezeket nem tüntettük fel.
    Akármekkora τ id®közt választhatunk az ábrázolásra, most azonban éppen akkorát választottunk, hogy az 1. ábrán
-ábrázolt helyzethez képest pontosan 2τ id® múlva érjen el az M meggyel®höz a repül®gép hangja; ezt mutatja a 2.
+ábrázolt helyzethez képest pontosan 2τ id® múlva érjen el az M meg gyel®höz a repül®gép hangja; ezt mutatja a 2.
 ábra. Itt a repül®gép már az F pontban van, s a C pontból indult hanghullám éppen M -be ért. (A többi pontból jöv®
 hang még nem érte el M -et.)
            −−→     −−→
     Mivel CM ⊥ F M , a CM F háromszög derékszög¶. Ameddig a gép megtette a CF utat, addig a hang a CM
-távolságot futotta be. (Ábránkon ez az id® 3τ .) Az összes pontból jöv® hanghullán ered®je az a kúp alakú fejhullám-
-felület, amelynek egyik alkotója a 2. ábrán az F M egyenes. E kúp fél nyílásszöge az ún. Ma h-szög, amelyre
+távolságot futotta be. (Ábránkon ez az id® 3τ .) Az összes pontból jöv® hanghullán ered®je az a kúp alakú  fejhullám-
+felület , amelynek egyik alkotója a 2. ábrán az F M egyenes. E kúp fél nyílásszöge az ún. Ma h-szög, amelyre
 
                                                                     c
                                                           sin ϕ =
@@ -49,7 +49,7 @@ M pontba. Az ábrából leolvasható, hogy a Ma h-szögre (a megadott adatok fel
                                                             1 km
 ahonnan                                                  ϕ = 64,16◦ .
 
-   Abban a pillanatban, amikor a repül®gép az M meggyel®t®l 2 km távol lév® R pontban van, a meggyel® azt a
+   Abban a pillanatban, amikor a repül®gép az M meg gyel®t®l 2 km távol lév® R pontban van, a meg gyel® azt a
 hangot hallja, amit a gép egy korábbi id®pontban adott ki. Ahol ekkor volt a repül®gép, azt a pontot jelöljük P -vel.
 Feladatunk tehát az M P irány meghatározása. Kérdezhetjük például azt, hogy ez az irány mekkora szöggel marad le
 az M R iránytól, vagyis hány fokkal hátrábbról halljuk a hangot, mint ahol látjuk a gépet. Ezt a szöget (melyet a 3.
@@ -68,19 +68,21 @@ ezért
                           sin µ =        = ,      azaz       µ1 = 30◦ ,      illetve   µ2 = 150◦ .
                                     0,9   2
    Meglep®nek t¶nhet, hogy a µ szögre két érték is adódott, pedig             sak egy hegyesszögre számítottunk. Vajon a
-tompaszög is megoldása az eredeti zikai problémának? Bizony az! Már a 2. ábrából is látszik, hogy ha a repül®gép
+tompaszög is megoldása az eredeti  zikai problémának? Bizony az! Már a 2. ábrából is látszik, hogy ha a repül®gép
 túlhaladt az F ponton, akkor nem sak a C pont utáni helyekr®l (pl. D -b®l és E -b®l) induló hullámok érik el fokozatosan
 az M pontot, hanem egyidej¶leg azok a hullámok is odaérnek, amelyeket még a C pontba érkezése el®tt bo sátott ki
 a gép (pl. B -b®l, A-ból). Egy ilyen helyzetet mutat a 4. ábra, ahol éppen a B és a D pontok közeléb®l indult hullámok
-érik el egyszerre M -et. (A C -b®l indult hullám már túlhaladt M -en). Az els® hangrobbanás után tehát mindig két
-irányból halljuk a repül®gép hangját, igaz, általában az elölr®l jöv®t halljuk er®sebben.
+érik el egyszerre M -et. (A C -b®l indult hullám már túlhaladt M -en). Az els®  hangrobbanás  után tehát mindig két
+irányból halljuk a repül®gép hangját, igaz, általában az  elölr®l  jöv®t halljuk er®sebben.
     Megjegyzés. A megoldók a hallott hang M P irányának meghatározásakor általában a vízszintes vagy függ®leges
 iránnyal bezárt szögeket adták meg. A helyes eredmények a vízszintessel bezárt szögekre: µ1 + ̺ = 56,74 , illetve
                                                                                                         ◦
 
 180 − (µ2 + ̺) = 3,26 ; a függ®legessel bezárt szögek pedig: 90 − (µ1 + ̺) = 33,26 és µ2 + ̺ − 90 = 86,74◦ .
     ◦                 ◦                                        ◦                  ◦              ◦
-   2.   Két egyébként egyforma lombik közül az egyiknek a nyaka egyenes, a másiké lefele görbül, az 5. ábra szerint.
+
+
+   2.   Két egyébként egyforma lombik közül az egyiknek a nyaka egyenes, a másiké lefele görbül, az 5. ábra szerint.
 A két lombikba azonos mennyiség¶
    A) vizet,
    B) étert
@@ -98,18 +100,18 @@ legyen. Melyik lombikból fogy el hamarabb a folyadék az egyik, illetve a mási
 
 18 g/mol, az éter [(C2 H5 )2 O] móltömege 74 g/mol. Igaz, a forráspont környékén egyetlen reális gáz sem viselkedik
 ideális gázként, az mégis joggal feltételezhet®, hogy a vízg®z s¶r¶sége kisebb, az éterg®z s¶r¶sége pedig nagyobb marad
-a leveg® s¶r¶ségénél. (A vízg®z könnyebb, az éterg®z nehezebb a leveg®nél.)
+a leveg® s¶r¶ségénél. (A vízg®z  könnyebb , az éterg®z  nehezebb  a leveg®nél.)
    Tekintsük el®ször az A) esetet, amikor mindkét lombikba vizet töltöttünk. Ekkor az egyenes nyakú lombikban
-képz®d® vízg®z el®bb-utóbb betölti a lombik nyakát, azonban nem maradhat stabilan a nála nehezebb leveg® alatt,
+képz®d® vízg®z el®bb-utóbb betölti a lombik nyakát, azonban nem maradhat stabilan a nála  nehezebb  leveg® alatt,
 hanem felszáll, helyet adva a leveg®nek, valamint az újabb és újabb vízg®zképz®désnek; így a víz hamarosan elforr.
-   A görbe nyakú lombik nyakát is betölti a vízg®z, innen azonban           sak lefelé tudna kiszabadulni, miközben a s¶r¶bb
+   A görbe nyakú lombik nyakát is betölti a vízg®z, innen azonban           sak  lefelé  tudna kiszabadulni, miközben a s¶r¶bb
 leveg®nek kellene felfelé, a vízg®z helyére áramlania. Ez nem történik meg olyan hevességgel, mint az egyenes nyakú
-lombiknál, mert most     sak diúzióval tud eltávozni a vízg®z, ami viszont lassú folyamat. Az A) esetben tehát a vízg®z
+lombiknál, mert most     sak di úzióval tud eltávozni a vízg®z, ami viszont lassú folyamat. Az A) esetben tehát a vízg®z
 az egyenes nyakú     s®b®l szabadul ki gyorsabban, vagyis ebb®l a lombikból forr el hamarabb a víz.
    Nyilvánvaló, hogy a B) esetben, amikor a forráspontján tartott éter van a lombikokban, a helyzet éppen fordított.
 Az egyenes nyakú lombik nyakában megül az éterg®z, nem fog felszállni a nála kisebb s¶r¶ség¶ leveg®be. A nyak fels®
-végénél diundálnak az étermolekulák a leveg®be, ezért            sak hosszú id® alatt forr el és távozik az éter a lombikból.
-   A lefelé görbül® nyakú lombik nyakából viszont kifolyik a nehéz éterg®z a leveg®be, helyére nem sak leveg®,
+végénél di undálnak az étermolekulák a leveg®be, ezért            sak hosszú id® alatt forr el és távozik az éter a lombikból.
+   A lefelé görbül® nyakú lombik nyakából viszont  kifolyik  a nehéz éterg®z a leveg®be, helyére nem sak leveg®,
 hanem a lombikból újabb éterg®z áramlik, gyorsítva ezzel az éter elforrását.
 
    3.   Hosszú, keskeny, függ®leges üveg sövet egy vele azonos tengely¶, de sokkal szélesebb, r küls® sugarú másik
@@ -139,18 +141,20 @@ energiája nem változik, fenn kell álljon, hogy
 
                                                mgL = QL/h,          azaz     Q = mgh.
 
-   Milyen zikai mennyiségekt®l és milyen módon függhet Q? Nyilván függ a h®fejl®dés a ki siny mágnes jellemz®it®l
+   Milyen  zikai mennyiségekt®l és milyen módon függhet Q? Nyilván függ a h®fejl®dés a ki siny mágnes jellemz®it®l
 (a d dipólnyomatéktól és a v sebességt®l), továbbá a körvezet® adataitól (az r sugártól és a vezet® R elektromos
 ellenállásától):
                                                           Q = F (d, v, r, R),
 ahol F valamilyen négyváltozós függvény, melynek pontos (vagy legalább arányossági tényez®k erejéig határozott)
 alakja megadná a feladat valamennyi kérdésére a választ.
-   Ha dimenzionális megfontolásokkal akarjuk kitalálni, hogyan függ F (d, v, r, R) az egyes változóitól, nem szabad
+   Ha dimenzionális megfontolásokkal akarjuk  kitalálni , hogyan függ F (d, v, r, R) az egyes változóitól, nem szabad
 megfeledkeznünk arról, hogy Q a felsorolt mennyiségek mellett függhet még µ0 -tól (a vákuum permeabilitásától), ami
 
   1 Terpai Tamás dolgozata alap ján
-ugyan nem változó, hanem egy meghatározott mértékegység¶ és nagyságú mennyiség, de a h®fejl®dés képletében (lévén
-az mágnességgel kap solatos folyamatok eredménye) ez a zikai állandó is felbukkanhat. A keresett összefüggés tehát
+
+
+ugyan nem változó, hanem egy meghatározott mértékegység¶ és nagyságú mennyiség, de a h®fejl®dés képletében (lévén
+az mágnességgel kap solatos folyamatok eredménye) ez a  zikai állandó is felbukkanhat. A keresett összefüggés tehát
 
 
                                                        Q = G(d, v, r, R, µ0 ),
@@ -164,8 +168,8 @@ függés (a többi adat rögzített értéke mellett) fordított arányosság ke
                                                             1
                                                        Q∝     f (d, v, r, µ0 ),
                                                             R
-ahol f (d, v, r, µ0 ) már   sak 4 zikai mennyiségt®l függ.
-   Írjuk fel az egyes zikai mennyiségek mértékegységét:
+ahol f (d, v, r, µ0 ) már   sak 4  zikai mennyiségt®l függ.
+   Írjuk fel az egyes  zikai mennyiségek mértékegységét:
 
 
                        kg m2                   s3 A2             m                                              kg m
@@ -203,14 +207,14 @@ a sebességet az eredeti érték 8-szorosára növeli.
 
    Az eredményhirdetésre és az ünnepélyes díjkiosztásra az ELTE új, lágymányosi épületének egyik nagyobb el®-
 adótermében került sor 1999. november 19-én. Itt el®ször a Versenybizottság elnöke megemlékezett Sztrókay Pálról
-(18991965) és Náray-Szabó Istvánról (18991972), akik éppen száz évvel ezel®tt születtek, s az 1917. évi tanulóver-
+(1899 1965) és Náray-Szabó Istvánról (1899 1972), akik éppen száz évvel ezel®tt születtek, s az 1917. évi tanulóver-
 senyen az 1. és 2. díjat nyerték. Sztrókay Pál Kossuth-díjas mérnök lett, a Ganznál a villamos vontatás fejlesztésén
 dolgozott, Kandó Kálmán utáni második emberként. Náray-Szabó István nemzetközi tekintély¶ vegyészprofesszor lett,
-a zika és a kémia határterületén alkotott: röntgendirak ióval kutatta az anyag kémiai-zikai szerkezetét.
+a  zika és a kémia határterületén alkotott: röntgendi rak ióval kutatta az anyag kémiai- zikai szerkezetét.
    A rövid megemlékezések után került sor idei feladatok megoldásának diszkussziójára. Az els® feladat megoldását
 Radnai Gyula, a másodikat az egyik versenyz® (Tóth Bálint), a harmadikat Gnädig Péter mutatta be. A harmadik
 feladathoz kap solódóan, azt modellezve kísérleteket is láthattak a megjelentek: más-más falvastagságú, más-más
-fémb®l készült    söveknél különböz® er®sség¶ rúdmágnesek esési idejét gyelhették meg, s így összehasonlíthatták
+fémb®l készült    söveknél különböz® er®sség¶ rúdmágnesek esési idejét  gyelhették meg, s így összehasonlíthatták
 különféle körülmények között kialakuló örvényáramok fékez® hatását.
    Az ünnepélyes eredményhirdetésen Fehér István, az ELFT alelnöke adta át (a feladatok kit¶z®ib®l álló) Ver-
 senybizottság által odaítélt díjakat. A Társulat által biztosított pénzjutalmak mellett a Nemzeti Tankönyvkiadótól
@@ -219,7 +223,9 @@ ajándék-könyveib®l válogathattak. Sajnos nem mindenki tudott eljönni: az �
 miatt maradt le az ünnepségr®l néhány régi Eötvös-verseny nyertes is.
 
   2 Belátható, hogy ezt az általánosság megszorítása nélkül megtehetjük.
-                                                       7. ábra
+
+
+                                                       7. ábra
    Az 1999. évi Eötvös-verseny díjazottai (fentr®l lefelé, balról jobbra): Péterfalvi Csaba Géza, Terpai Tamás, Gáspár
 Merse El®d, Buruzs Ádám, Katona Gergely, Csillag Kristóf, Heged¶s Ákos, Patay Gergely, Tóth Bálint, Pesti Gábor
 és Czigler István.
@@ -227,19 +233,19 @@ Merse El®d, Buruzs Ádám, Katona Gergely, Csillag Kristóf, Heged¶s Ákos, Pa
    A mostani verseny eredménye a következ®:
 Els® díjat kapott: Terpai Tamás, az ELTE matematikus hallgatója, aki a Fazakas Mihály F®városi Gyakorló Gimná-
 ziumban érettségizett mint Horváth Gábor tanítványa.
-Második díjat kapott a verseny 26. helyezettje: Heged¶s Ákos, a pé si iszter i Nagy Lajos Gimnázium 12. osztályos
-tanulója, Orovi a Márkné tanítványa; Katona Gergely, az ELTE zikus hallgatója, aki a budapesti ELTE Trefort
+Második díjat kapott a verseny 2 6. helyezettje: Heged¶s Ákos, a pé si iszter i Nagy Lajos Gimnázium 12. osztályos
+tanulója, Orovi a Márkné tanítványa; Katona Gergely, az ELTE  zikus hallgatója, aki a budapesti ELTE Trefort
 Ágoston Gyakorlóiskolában érettségizett mint Szörényi Zoltán tanítványa; Pesti Gábor, a nagykanizsai Batthyány
-Lajos Gimnázium 11. osztályos tanulója, Piriti János tanítványa; Péterfalvi Csaba Géza, az ELTE geozikus
+Lajos Gimnázium 11. osztályos tanulója, Piriti János tanítványa; Péterfalvi Csaba Géza, az ELTE geo zikus
 hallgatója, aki a szekszárdi Garay János Gimnáziumban érettségizett mint Bayer József tanítványa; Tóth Bálint, az
-ELTE zikus hallgatója, aki a Fazakas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor
+ELTE  zikus hallgatója, aki a Fazakas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor
 tanítványa.
-Harmadik díjat kapott a verseny 710. helyezettje: Béky Ben e, a Fazakas Mihály F®városi Gyakorló Gimnázium
+Harmadik díjat kapott a verseny 7 10. helyezettje: Béky Ben e, a Fazakas Mihály F®városi Gyakorló Gimnázium
 10. osztályos tanulója, Horváth Gábor tanítványa; Csillag Kristóf, a püspökladányi Kara s Feren       Gimnázium 12.
 osztályos tanulója, Lajtosné Buzási Márta tanítványa; Gáspár Merse El®d, a Fazakas Mihály F®városi Gyakorló
 Gimnázium 12. osztályos tanulója, Horváth Gábor tanítványa; Patay Gergely, a debre eni Tóth Árpád Gimnázium
 12. osztályos tanulója, Ková s Miklós és Szegedi Ervin tanítványa.
-Di séretben részesült a verseny 1113. helyezettje: Buruzs Ádám, a szegedi Radnóti Miklós Gimnázium 12. osztályos
+Di séretben részesült a verseny 11 13. helyezettje: Buruzs Ádám, a szegedi Radnóti Miklós Gimnázium 12. osztályos
 tanulója, Mike János tanítványa; Czigler István, a budapesti Lauder Javne Gimnázium 12. osztályos tanulója, Tóth
 Eszter tanítványa; Kenyeres Péter, a POTE orvostanhallgatója, aki a zalaegerszegi Zrínyi Miklós Gimnáziumban
 érettségizett mint Pálovi s Róbert tanítványa.
@@ -248,7 +254,9 @@ Eszter tanítványa; Kenyeres Péter, a POTE orvostanhallgatója, aki a zalaeger
 részesültek 3 000 Ft érték¶ könyvutalványt kaptak.
    Gratulálunk a nyerteseknek és tanáraiknak!
                                                                                    Gnädig Péter, Radnai Gyula
-                                      m
+
+
+                                      m
                                       d
 
                                                r

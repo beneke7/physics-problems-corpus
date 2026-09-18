@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201002"
 verification_status: pending
 ---
 
-Two balls are started at the same time, one of them starts from rest at the top of the inclined plane, the angle of inclination is  , and the other is projected from point  O , and they reach point P at the same time. At what angle does the second ball have to be projected? 
+Two balls are started at the same time, one of them starts from rest at the top of the inclined plane, the angle of inclination is  , and the other is projected from point  O , and they reach point P at the same time. At what angle does the second ball have to be projected?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4225-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4225-fig1.gif)

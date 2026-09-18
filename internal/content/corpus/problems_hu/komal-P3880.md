@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3880. A Föld körül ellipszispályán keringő űrhajó legkisebb távolsága a Föld középpontjától 6870 km, sebessége ekkor 10 km/s. 
- a ) Mekkora az űrhajó legnagyobb távolsága a Föld középpontjától? 
+P. 3880. A Föld körül ellipszispályán keringő űrhajó legkisebb távolsága a Föld középpontjától 6870 km, sebessége ekkor 10 km/s.
+ a ) Mekkora az űrhajó legnagyobb távolsága a Föld középpontjától?
  b ) Mekkora az űrhajó legkisebb sebessége?

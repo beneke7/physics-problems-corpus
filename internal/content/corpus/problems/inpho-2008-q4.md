@@ -29,7 +29,7 @@ $$
 
 where $T^{\prime}$ and $T^{\prime \prime}$ are the temperatures of the internal face of the walls 1 and 2 respectively. Then $\delta$ will depend on the type of heat transfer process in central region (of width $d$ ) between the walls i.e. on the conduction, radiation or convection heat transfer. Assume that the heat transfer is a steady state process.
 
-![Fig. 3: two walls of width w separated by distance d, external temperatures T_1 = 270 K and T_2 = 298 K, internal face temperatures T' and T''](../../sources/inpho/figures/inpho-2008-q4-fig1.png)
+![Fig. 3: two walls of width w separated by distance d, external temperatures T_1 = 270 K and T_2 = 298 K, internal face temperatures T' and T''](../../figures/inpho/figures/inpho-2008-q4-fig1.png)
 
 (a) Write down the expression for heat transfer flux $q_{w}$ (watt-m ${ }^{-2}$ ) inside the wall 1 in terms of $k_{w}, T_{1}, T^{\prime}$, and $w$. Similarly also write the expression for wall 2.
 (b) Rewrite $q_{w}$ in terms of $\Delta, \delta, k_{w}$, and $w$.

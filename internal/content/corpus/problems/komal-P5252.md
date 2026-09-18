@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-A thin-walled tube of mass $M$ is rolled by pulling a yarn wound around the tube as shown in the figure. The tube rolls at a constant speed along the horizontal floor without slipping. Inside the tube there is a small object, which slides on the wall of the tube and remains at a constant angular position, the coefficient of kinetic friction is $\mu$. What is the tension in the yarn when the speed of the tube is constant? 
+A thin-walled tube of mass $M$ is rolled by pulling a yarn wound around the tube as shown in the figure. The tube rolls at a constant speed along the horizontal floor without slipping. Inside the tube there is a small object, which slides on the wall of the tube and remains at a constant angular position, the coefficient of kinetic friction is $\mu$. What is the tension in the yarn when the speed of the tube is constant?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5252-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5252-fig1.gif)

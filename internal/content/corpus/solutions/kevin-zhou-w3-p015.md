@@ -36,7 +36,7 @@ change in speed is balanced by a change in gravitational potential energy. That 
 2
 (v + aω)2
 − (v − aω)2
-
+
 = 2ga
 13
 Kevin Zhou Physics Olympiad Handouts

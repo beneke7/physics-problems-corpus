@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201004"
 verification_status: pending
 ---
 
-Why do we shorten our steps in winter, if the pavement is slippery? 
+Why do we shorten our steps in winter, if the pavement is slippery?
  (4 pont)

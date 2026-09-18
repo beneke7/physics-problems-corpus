@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200610"
 verification_status: pending
 ---
 
-The track of motorcycle-race is circular and unbanked. There are two bikers on the road one travels along a path of greater radius than the other. They both lean toward the centre at the same angle. Which one completes the lap first? 
+The track of motorcycle-race is circular and unbanked. There are two bikers on the road one travels along a path of greater radius than the other. They both lean toward the centre at the same angle. Which one completes the lap first?
  (4 pont)

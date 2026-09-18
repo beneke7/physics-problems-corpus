@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200703"
 verification_status: flagged
 ---
 
-Find the mass of the object which is to be raised to a height of 1 metre such that the change in its energy is the same as the absorbed energy when 1 litre of water is heated by . 
+Find the mass of the object which is to be raised to a height of 1 metre such that the change in its energy is the same as the absorbed energy when 1 litre of water is heated by .
  (3 pont)

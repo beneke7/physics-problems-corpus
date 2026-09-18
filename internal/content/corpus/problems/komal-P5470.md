@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, graphical-reduction, limiting-and-special-cases]
 ---
 
-Two identical converging lenses are placed opposite each other so that their focal points coincide. One lens is illuminated by a beam of monochromatic light of uniform energy flux density. The beam is parallel to the common principal axis of the lenses. The lenses are coated with an anti-reflection layer, so that the effects of light absorption and reflection inside the lenses are negligible. 
- $a)$ Determine the direction of the forces exerted on the lenses. 
- $b)$ Estimate the magnitude of the forces. 
- Data: the focal length of each lens is 10 cm, their diameter is 5 cm, the wavelength of the light which is used for illuminating is 590 nm, the power received by the first lens is 1 W. 
+Two identical converging lenses are placed opposite each other so that their focal points coincide. One lens is illuminated by a beam of monochromatic light of uniform energy flux density. The beam is parallel to the common principal axis of the lenses. The lenses are coated with an anti-reflection layer, so that the effects of light absorption and reflection inside the lenses are negligible.
+ $a)$ Determine the direction of the forces exerted on the lenses.
+ $b)$ Estimate the magnitude of the forces.
+ Data: the focal length of each lens is 10 cm, their diameter is 5 cm, the wavelength of the light which is used for illuminating is 590 nm, the power received by the first lens is 1 W.
  (5 pont)

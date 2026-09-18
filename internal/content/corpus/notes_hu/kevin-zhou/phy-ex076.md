@@ -27,7 +27,7 @@ Példa. Operátorrendezés az úttintegrálban. Kvantumszinten az operátorok á
 Kiderül, hogy az operátorrendezést a diszkretizálási eljárás határozza meg. Elektromágneses térben
 lévő részecskére például a helyes fázistényező
                                                                                          
-                     N −1                 2                                           
+                     N −1                  2
                   iϵ X      m(x j+1 − x j )    q x j+1 − x j      x j+1 + x j
            exp                              +               ·A                 − V (xj ) 
                   ℏ              2ϵ2           c      ϵ                2

@@ -26,7 +26,7 @@ techniques: [choose-reference-frame, conservation-laws]
 ## Question B1
 
 A thin plank of mass $M$ and length $L$ rotates about a pivot at its center. A block of mass $m \ll M$ slides on the top of the plank. The system moves without friction. Initially, the plank makes an angle $\theta_{0}$ with the horizontal, the block is at the upper end of the plank, and the system is at rest. Throughout the problem you may assume that $\theta \ll 1$, and that the physical dimensions of the block are much, much smaller than the length of the plank.
-![](usapho-2010-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2010-b1-fig01.png)
 
 Let $x$ be the displacement of the block along the plank, as measured from the pivot, and let $\theta$ be the angle between the plank and the horizontal. You may assume that centripetal acceleration of the block is negligible compared with the linear acceleration of the block up and down the plank.
 

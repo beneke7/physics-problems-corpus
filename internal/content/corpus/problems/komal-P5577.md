@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-On the left side of a converging lens, a point-like object was placed, from which two rays were plotted after passing through the lens. One of the rays just passes through the focus of the lens. Using the figure as a guide, construct the position of the light source (using a pair of compasses and a ruler). Describe the steps of construction. 
+On the left side of a converging lens, a point-like object was placed, from which two rays were plotted after passing through the lens. One of the rays just passes through the focus of the lens. Using the figure as a guide, construct the position of the light source (using a pair of compasses and a ruler). Describe the steps of construction.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5577-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5577-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry]
 ---
 
-A hollow insulating sphere of radius R is charged uniformly to a charge of  Q . There is a small hole on this sphere. What is the electric field strength at the centre of this hole? 
+A hollow insulating sphere of radius R is charged uniformly to a charge of  Q . There is a small hole on this sphere. What is the electric field strength at the centre of this hole?
  (5 pont)

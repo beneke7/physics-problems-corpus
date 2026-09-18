@@ -22,7 +22,7 @@ verification_status: pending
 ---
 
 4. A block of mass 5 kg sits at rest on a horizontal surface. A second, smaller block, of mass 2 kg, is placed on top as shown.
-![](aupho-2021-q4-fig01.png)
+![](../../figures/aupho/figures/aupho-2021-q4-fig01.png)
 What is the weight of the block on the bottom? Select one:
     A. 5 kg
     B. 7 kg

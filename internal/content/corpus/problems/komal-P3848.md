@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, auxiliary-unknowns]
 ---
 
-A point-like light-source is placed to the symmetry axis of a hemisphere shaped piece of glass of radius 20 cm 10 cm away from the plane surface. The refractive index of glass is 1.5. How long does it take for the light ray whose angle of incidence is 60$^\circ$ to travel through the glass, and what is its direction after emerging from the glass. 
+A point-like light-source is placed to the symmetry axis of a hemisphere shaped piece of glass of radius 20 cm 10 cm away from the plane surface. The refractive index of glass is 1.5. How long does it take for the light ray whose angle of incidence is 60$^\circ$ to travel through the glass, and what is its direction after emerging from the glass.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3848-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3848-fig1.gif)

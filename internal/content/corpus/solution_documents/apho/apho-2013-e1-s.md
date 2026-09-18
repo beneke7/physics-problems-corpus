@@ -67,7 +67,8 @@ B.2                 PW ρ A A0 v0n         ρ A vn
                            2ηM
               From the plot and linear regression below we obtain the power factor:
               n = 3.0 , in good agreement with the theory thus showing that the wind
-                                                                     Experimental!
+
+                                                                     Experimental!
 !                                       SOLUTION!!                   Question!          1!
                                              !                                          !
                                              !                          page!2!of!11!
@@ -106,7 +107,8 @@ extra voltage drop across the amperemeter.
     11.2     0.98      3.240          0.089   0.29    -0.02     -1.25
      9.5     0.82      2.630          0.068   0.18    -0.19     -1.72
      6.8     0.59      2.390          0.044   0.10    -0.52     -2.26
-                                                                   Experimental!
+
+                                                                   Experimental!
 !                                  SOLUTION!!                      Question!             1!
                                         !                                                !
                                         !                              page!3!of!11!
@@ -141,7 +143,8 @@ C.2                       C ρ A
 
             In this example we have:
             m = b = 2.2
-                                                                  Experimental!
+
+                                                                  Experimental!
 !                                     SOLUTION!!                  Question!           1!
                                            !                                          !
                                            !                          page!4!of!11!
@@ -181,7 +184,8 @@ n = 2, i.e. the drag force is proportional to the square of the velocity.
 The drag coefficient CD is in close to the ideal known value: CD = 0.47 for smooth
 ball with particle Reynold number Re ~ 103 – 105 as shown below. In this experiment
 the maximum Reynold number is:
-                                                                  Experimental!
+
+                                                                  Experimental!
 !                                 SOLUTION!!                      Question!        1!
                                             !                                      !
                                             !                        page!5!of!11!
@@ -233,7 +237,8 @@ D.1.2        y = ⎜ INP ⎟ − 1 with V0 = A is the input potential when there
 
 D.1.3        c = 0.7 ± 0.2
 (2.5 pts)
-                                                                                            Experimental!
+
+                                                                                            Experimental!
 !                                                                 SOLUTION!!                Question!          1!
                                                                        !                                       !
                                                                        !                       page!6!of!11!
@@ -292,7 +297,8 @@ First we need to determine k and R0.
      0.153                        20.8         0.0032        7.3558
      0.225                        30.1         0.0068        7.4751
      0.308                        40.3         0.0124        7.6427
-                                                                                      Experimental!
+
+                                                                                      Experimental!
 !                                                SOLUTION!!                           Question!          1!
                                                       !                                                  !
                                                       !                                  page!7!of!11!
@@ -348,7 +354,8 @@ D.2.4                  b
       1.20                           1.873                1.855       0.627    0.618
       1.20                           2.032                1.899       0.709    0.642
       1.19                           2.211                2.056       0.794    0.721
-                                                                                                Experimental!
+
+                                                                                                Experimental!
 !                                                        SOLUTION!!                             Question!           1!
                                                               !                                                     !
                                                               !                                     page!8!of!11!
@@ -397,7 +404,8 @@ E. Wind Turbine (5.6 points)
 
                        This yields:
                        λR = (0.21 ± 0.02)Ω / cm
-                                                                                   Experimental!
+
+                                                                                   Experimental!
 !                                                            SOLUTION!!            Question!          1!
                                                                   !                                   !
                                                                   !                   page!9!of!11!
@@ -442,7 +450,8 @@ Method #2: Using four-wire method at l = 250 mm.
 
        E.3                We vary the nichrom wire length and calculate the power output, we
     (2.4 pts)             obtain peak at: RL = 1.0 Ω
-                                                                                Experimental!
+
+                                                                                Experimental!
 !                                                  SOLUTION!!                   Question!         1!
                                                           !                                       !
                                                           !                         page!10!of!11!
@@ -498,7 +507,8 @@ Method #2: Using four-wire method at l = 250 mm.
                                     2 π fT R
                           TSR =
                                       c1 f M
-                                                                     Experimental!
+
+                                                                     Experimental!
 !                                   SOLUTION!!                       Question!       1!
                                          !                                           !
                                          !                              page!11!of!11!

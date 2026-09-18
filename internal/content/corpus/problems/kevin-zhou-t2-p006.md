@@ -34,7 +34,9 @@ solution_language: en
          by using the fact that the Carnot cycle is reversible, i.e. that after a complete Carnot cycle
 
                                                       6
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
           the entropy of the universe is unchanged.

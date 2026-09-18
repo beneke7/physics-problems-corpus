@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-$\alpha$-particles are accelerated through a potential difference of $10^6$ V and then the particle beam enters perpendicularly into a region of uniform magnetic field of induction $B=1.5$ T and of width $d=7$ cm, as shown in the figure. 
+$\alpha$-particles are accelerated through a potential difference of $10^6$ V and then the particle beam enters perpendicularly into a region of uniform magnetic field of induction $B=1.5$ T and of width $d=7$ cm, as shown in the figure.
 
- $a)$ At what angle are the particles deflected? 
- $b)$ How much time are the particles in the magnetic field? 
+ $a)$ At what angle are the particles deflected?
+ $b)$ How much time are the particles in the magnetic field?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5488-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5488-fig1.gif)

@@ -37,7 +37,7 @@ i. the coefficient of volume expansion $(\beta)$; $\beta=$
 ii. the isothermal compressibility $(\kappa)$. $\kappa=$
 (b) Criticality:
 The Van der Waals gas exhibits phase transition. A typical isotherm at low temperature is shown in the figure. Here $L(G)$ represents the liquid (gas) phase and at $P_{L G}$ there are three possible solutions for the volume $\left(V_{L}, V_{L G}, V_{G}\right)$. As the temperature is raised, at a certain temperature $T_{c}$, the three values of the volume merge to a single value, $V_{c}$ (corresponding pressure being $P_{c}$ ). This is called the point of criticality. As the temperature is raised further there exists only one real solution for the volume and the isotherm resembles that of an ideal gas.
-![](inpho-2018-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2018-a6-fig01.png)
 i. Obtain the critical constants $P_{c}, V_{c}$ and $T_{c}$ in terms of $a, b$ and $R$.
 
 

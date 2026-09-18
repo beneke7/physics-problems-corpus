@@ -18,7 +18,7 @@ Vortices in Superfluid
 
 
 A. Steady filament (0.75)
-Consider a cylindrical beaker (radius R0  a) of superfluid helium and a straight
+Consider a cylindrical beaker (radius R0   a) of superfluid helium and a straight
 vertical vortex filament in its center Fig. 2.
 
 A1 (0.25)
@@ -43,7 +43,8 @@ the vortex. Free fall acceleration is g. Surface tension can be neglected.
 
 
                                                                1
-   Consider a thin circular layer of the radius r. Equilibrium condition for
+
+   Consider a thin circular layer of the radius r. Equilibrium condition for
    its surface is given by the requirement
 
                                                     dz   v2  κ2
@@ -90,14 +91,15 @@ Draw the trajectories of vortices A, B, and C (located in the center).
 
 
                                                              2
-       • Trajectories are plotted correctly . . . . . . . . . . . . . . . . . . . . . . . . . . . .0.15
+
+       • Trajectories are plotted correctly . . . . . . . . . . . . . . . . . . . . . . . . . . . .0.15
 
 
 
 B3 (0.4)
 Find velocity v(~r) of a vortex positioned at ~r.
 
-   Consider a circular path of radius r  u around the beaker center. The
+   Consider a circular path of radius r   u around the beaker center. The
    circulation along this path is given√by the number of vortices within it
    (vortex density per unit area is (u2 3/2)−1 ):
 
@@ -122,7 +124,8 @@ as given.
 
 
                                                        3
-   This velocity pattern corresponds to the rotation of the lattice as a whole
+
+   This velocity pattern corresponds to the rotation of the lattice as a whole
    around the beaker center with angular velocity
                                                            2πκ
                                                   ω=        √ .                                                  (5)
@@ -147,7 +150,7 @@ shape z(~r).
 
 C. Momentum and Energy (1.75)
 C1 (0.3)
-Consider a nearly rectangular vortex loop b × d, b  d, Fig. 7. Indicate the
+Consider a nearly rectangular vortex loop b × d, b   d, Fig. 7. Indicate the
 direction of its momentum P~ . Find out the momentum magnitude.
 
 
@@ -164,7 +167,8 @@ direction of its momentum P~ . Find out the momentum magnitude.
 
 
                                                           4
-C2 (0.7)
+
+C2 (0.7)
 Calculate its energy U .
 
    To produce equal magnetic and kinetic energy densities B 2 /(2µ0 ) =
@@ -214,7 +218,8 @@ change direction. The filament length (constrained by the vessel walls) is d.
 
 
                                                         5
-   Interestingly, this provides an alternative approach to find the energy
+
+   Interestingly, this provides an alternative approach to find the energy
    of such a loop. Namely, if we slowly move one straight vortex in the
    velocity field of another, then we apply a force
 
@@ -254,7 +259,8 @@ function of time.
 
 
                                                      6
-D234
+
+D234
 A circular vortex loop of radius R0 initially charged with uniform linear density
                                             ~ perpendicular to its plane, opposite
 λ < 0 is placed in a uniform electric field E
@@ -290,7 +296,8 @@ function of time.
 
 
                                                                 7
-D3 (1.5)
+
+D3 (1.5)
 Find its velocity v(t) as a function of time.
 
    The loop velocity v can be easily found from a relationship between the
@@ -299,7 +306,7 @@ Find its velocity v(t) as a function of time.
                                              = Fv =    v.                                              (14)
                                           dt        dt
    This gives for the velocity
-                                               p                        
+                                                p
             dU    κ    R                κ log     R02 + ER0 |λ|t/(πρκ)/a
       v=       ≈    log =                       p                          ≈
             dP   2R    a                       2 R02 + ER0 |λ|t/(πρκ)
@@ -326,7 +333,8 @@ v(t∗ ). Find the loop velocity v(t) at a later time t > t∗ .
 
 
                                                        8
-E. Influence of the boundaries (3.25)
+
+E. Influence of the boundaries (3.25)
 Draw the trajectory of a straight vortex, initially placed at a distance h0 from
 a flat wall. Find its velocity as a function of time.
 
@@ -361,7 +369,8 @@ E1 (0.5)
 
 
                                                       9
-E234
+
+E234
 Consider a straight vortex placed in a corner at a distance h0 from both walls.
 
 E2 (0.75)
@@ -399,7 +408,8 @@ Draw the trajectory of the vortex.
 
 
                                                              10
-E4 (1.5)
+
+E4 (1.5)
 What is the velocity of the vortex v∞ after very long time?
 
    Energy for the system of vortices is proportional to

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, extremization]
 ---
 
-The wavelengths of a photon and an electron are the same. Which of them has greater kinetic energy? 
+The wavelengths of a photon and an electron are the same. Which of them has greater kinetic energy?
  (5 pont)

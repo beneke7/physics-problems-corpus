@@ -55,7 +55,8 @@ B.1       Diagrams of the experiment and the expressions for calculating the
 
 
                                                                                                      1
-                  1
+
+                  1
            c  n 1   ; d  n  q  1
                   q
 B.2        For B  0 :                                                                1.25 pt
@@ -99,7 +100,8 @@ B.5        The name of the chosen element: a                              0.75 p
            The voltages are measured relatively to the middle point of the
           battery.
                                                                                                 2
-       The maximum value of R / R is about 10%. The error in
+
+       The maximum value of R / R is about 10%. The error in
       determining it by using above approximations is less than 1% and
       can be accepted.
 
@@ -136,7 +138,8 @@ B.7    Graph 1- Graph of the relative change of resistance                0.5 pt
 
 
                                                                                     3
-                                     B                                   0.25 pts
+
+                                     B                                   0.25 pts
 B.8        The average slope                of the curve   B 
                                      B
              0.067 mT   -1
@@ -160,7 +163,8 @@ C.1        Table with the values of the output signal S corresponding to the 1.0
 
 
                                                                                         4
-C.2    Graph 2 - Graph S  B  of the output signal S as a function of the 1.0 pts
+
+C.2    Graph 2 - Graph S  B  of the output signal S as a function of the 1.0 pts
        applied magnetic field B.
 
 
@@ -181,7 +185,8 @@ C.5    Table with the values of S corresponding to the values of E .       0.25 
                               0                              0
 
                                                                                       5
-                           1.51                91.5
+
+                           1.51                91.5
                             3.1                183
                             4.6                274
                            6.25                365
@@ -201,7 +206,8 @@ C.7           E                                       0.5 pt
 
 
                                                                  6
-C.8         1. The magnetic field used in this experiment.                         0.25 pt
+
+C.8         1. The magnetic field used in this experiment.                         0.25 pt
             Put a cross in the appropriate box
              a. The field of the circular coil carrying an electric
              current
@@ -235,7 +241,8 @@ C.9         Table to find B / B0 for different values of L1 . B / B0  S / 
         6                  31.2               0.167               14.2             3.38
         7                  30.2               0.143               13.2             3.14
                                                                                              7
-        8                  28.6              0.125               11.6   2.76
+
+        8                  28.6              0.125               11.6   2.76
         9                  27.7              0.111               10.7   2.55
        10                  26.8              0.100                9.8   2.33
        11                  26.4              0.0909               9.4   2.24
@@ -258,7 +265,8 @@ D. Applications of GMR magnetic sensors (6 points)
    1. Measurements of the Earth’s magnetic field
 
                                                                                  8
-      a. Magnitude of the horizontal component of the Earth’s magnetic field
+
+      a. Magnitude of the horizontal component of the Earth’s magnetic field
 D.1    Diagrams of the experiment and expressions for calculating Bh .         0.5 pt
        1. The sensor on the round plate in the horizontal plane. Carry out the
        biasing.
@@ -307,7 +315,8 @@ D.1    Diagrams of the experiment and expressions for calculating Bh .         0
 
 
                                                                                                   9
-      3..Method 2
+
+      3..Method 2
 
 
 
@@ -335,7 +344,8 @@ D.3    Diagrams of the experiment and expressions for calculating BEarth 0.75 pt
 
 
                                                                                           10
-    a. Orient the sensor along the Earth’s magnetic field. Find the
+
+    a. Orient the sensor along the Earth’s magnetic field. Find the
 direction with the maximum (or minimum) value of S. Note this
 value S1 and the angle 1 between the sensor direction and the
 horizontal.
@@ -367,7 +377,8 @@ error, rotate the round plate together with the sensor holder by 180o
 about a horizontal axis along the South-North direction. Repeat the
 measurement. The magnetic inclination is the mean value of the
                                                                         11
-          two obtained angles.
+
+          two obtained angles.
 D4         BEarth  0.041mT                                                     0.5 pts
             31o
      2. DC wattmeter
@@ -400,7 +411,8 @@ D.6       Table with the values of the sensor output signal S corresponding to 0
 
 
                                                                                           12
-D.7      Graph 5 - Calibration curve of the wattmeter P  f  S  .   0.5 pt
+
+D.7      Graph 5 - Calibration curve of the wattmeter P  f  S  .   0.5 pt
 
 
 

@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy vízszintes tengelyű henger tetejére egy $l$ hosszú és $h$ vastag deszkát helyezünk. Mekkora $R$ hengersugár mellett stabil a deszka vízszintes helyzete?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr60-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr60-fig1.jpg)

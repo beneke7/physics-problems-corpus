@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, conservation-laws]
 ---
 
-The angle of elevation of a slope is $\alpha$, the coefficient of friction on its surface is $\mu$. There is a small disc of mass $m$ and of charge $Q$ on the slope, and a uniform magnetic field of magnitude $B$ also exerts a force on the moving disc. The magnetic induction is perpendicular to the plane of the slope. The disc is released from rest. Determine the direction and the magnitude of the velocity of the disc, when the velocity becomes constant. 
+The angle of elevation of a slope is $\alpha$, the coefficient of friction on its surface is $\mu$. There is a small disc of mass $m$ and of charge $Q$ on the slope, and a uniform magnetic field of magnitude $B$ also exerts a force on the moving disc. The magnetic induction is perpendicular to the plane of the slope. The disc is released from rest. Determine the direction and the magnitude of the velocity of the disc, when the velocity becomes constant.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5083-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5083-fig1.gif)

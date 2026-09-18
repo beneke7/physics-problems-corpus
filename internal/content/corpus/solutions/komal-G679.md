@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- $a)$ 76 cm magas higanyoszlop nyomása 1 atm. A higany akkor lehet egyensúlyban, ha a gáz nyomása 2 atm. 
+ $a)$ 76 cm magas higanyoszlop nyomása 1 atm. A higany akkor lehet egyensúlyban, ha a gáz nyomása 2 atm.
  $b)$ A gáz kiszivattyúzása után az U alakú csőben a higanyszintek távolsága ismét 76 cm lesz, de most a tartály felőli oldalon fog magasabban állni a higany, ahogy azt az ábra mutatja.
 
-![solution figure](../../raw_html/komal_figures/komal-G679-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G679-sol-fig1.gif)

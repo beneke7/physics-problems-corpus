@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-The beat frequency of two organ pipes of lengths 80 cm and 81 cm is 2.6 Hz, when both resonate at its fundamental frequency. Calculate the fundamental frequencies of the pipes and the speed of sound in air. 
+The beat frequency of two organ pipes of lengths 80 cm and 81 cm is 2.6 Hz, when both resonate at its fundamental frequency. Calculate the fundamental frequencies of the pipes and the speed of sound in air.
  (4 pont)

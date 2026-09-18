@@ -64,7 +64,7 @@ D. Draw rotating axis of the object and determine the distance to every sides (3
 E. Determine the length of sides without error analysis; determine also the angles between neighboring sides (1.5 pts)
 
 You
-![](apho-2005-e-q1-fig01.png)
+![](../../figures/apho/figures/apho-2005-e-q1-fig01.png)
 must present your result on graph papers and try to deduce the mathematical equations to determine the shape of the object.
 
 ## EXPERIMENTAL COMPETITION

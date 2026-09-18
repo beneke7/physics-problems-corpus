@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element, smart-coordinates]
 ---
 
-A spider is crawling at a uniform speed of 1 mm/s along the 1.5-metre minute hand of the tower clock, from the centre of the clock towards the end of the minute hand. The spider starts exactly at 12 o'clock. 
- $a)$ What is the time shown by the clock, when the spider reaches the end of the minute hand? 
- Reaching the end of the minute hand the spider descends on a self-made thread attached to the end of the minute hand. 
- $b)$ At what rate should the silk of the thread be made in order that the spider reach its starting position exactly at 13? 
- $c)$ How far was the spider from the centre of the clock at 12:45? 
+A spider is crawling at a uniform speed of 1 mm/s along the 1.5-metre minute hand of the tower clock, from the centre of the clock towards the end of the minute hand. The spider starts exactly at 12 o'clock.
+ $a)$ What is the time shown by the clock, when the spider reaches the end of the minute hand?
+ Reaching the end of the minute hand the spider descends on a self-made thread attached to the end of the minute hand.
+ $b)$ At what rate should the silk of the thread be made in order that the spider reach its starting position exactly at 13?
+ $c)$ How far was the spider from the centre of the clock at 12:45?
  (3 pont)

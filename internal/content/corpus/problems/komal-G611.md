@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-What is the area of a floating ice floe of thickness 30 cm if it can hold an 80 kg man? 
+What is the area of a floating ice floe of thickness 30 cm if it can hold an 80 kg man?
  (3 pont)

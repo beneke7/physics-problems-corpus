@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-One of the little prince's spherical planets is spinning so fast that the gravitational acceleration on its equator is zero. In which direction do the trees on the planet grow? 
+One of the little prince's spherical planets is spinning so fast that the gravitational acceleration on its equator is zero. In which direction do the trees on the planet grow?
  (4 pont)

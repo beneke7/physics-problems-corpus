@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, smart-coordinates]
 ---
 
-One day in December and one in June, in Ecuador, at noon, with solar eclipse glasses on, we face to the Sun. What do we see, which way does the Sun move in the sky, to the right or to the left? 
+One day in December and one in June, in Ecuador, at noon, with solar eclipse glasses on, we face to the Sun. What do we see, which way does the Sun move in the sky, to the right or to the left?
  (3 pont)

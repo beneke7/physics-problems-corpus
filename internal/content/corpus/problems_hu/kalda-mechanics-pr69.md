@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $l$ hosszú, könnyű rudat csuklóval vízszintes felülethez erősítünk; a rúd végéhez egy $m$ tömegű kis gömb kapcsolódik. Kezdetben a rúd függőleges, a gömb pedig egy $M$ tömegű testen támaszkodik. A rendszert szabadon mozgni hagyjuk, és egy adott idő múlva a gömb elveszíti érintkezését a test felületével — abban a pillanatban, amikor a rúd a vízszintessel $\alpha=\pi / 6$ szöget zár be. Határozzuk meg az $M / m$ tömegarányt és a test $u$ sebességét az elválás pillanatában.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr69-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr69-fig1.jpg)

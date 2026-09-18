@@ -58,7 +58,8 @@ EQ2: Acoustic black box solution1
 
 lore), Charudutt Kadolkar (IIT Guwahati), Praveen Pathak (HBCSE-TIFR, Mumbai), were the principal authors of this problem. The
 contributions of the Academic Committee and the International Board are gratefully acknowledged.
-Solutions
+
+Solutions
 
 
                                                                                       A2-2 Oﬃcial (English)
@@ -117,7 +118,8 @@ contributions of the Academic Committee and the International Board are grateful
                                                                        𝑐
                                                    𝑓min = 𝑓0                                           (8)
                                                                𝑐 + [(𝑣𝑠 + 𝑅𝜔)]
-Solutions
+
+Solutions
 
 
                                                                                 A2-3      Oﬃcial (English)
@@ -138,7 +140,8 @@ contributions of the Academic Committee and the International Board are grateful
  the detector at third location to choose the correct pair. The answer is
 
                                          𝑥A = 419.99, 𝑦A = 499.99
-Solutions
+
+Solutions
 
 
                                                                                A2-4      Oﬃcial (English)
@@ -189,7 +192,8 @@ contributions of the Academic Committee and the International Board are grateful
  behaviour can be identiﬁed in the region where the extrema in the graph remains almost constant.
  Also, we expect a sharp change in the graph if the detector's distance from the origin is such that
  the angle 𝛼 ≈ 𝛽. Keeping the distance ﬁxed at 8000 m, we try with various values of 𝜃.
-Solutions
+
+Solutions
 
 
                                                                                  A2-5       Oﬃcial (English)
@@ -241,7 +245,8 @@ contributions of the Academic Committee and the International Board are grateful
  We use the value of 𝑣𝑠 = 91.1 m/s to get 𝜔 = 1.49 rad s−1 . From 𝜔𝑅 = 179.66 m/s, 𝑅 = 120.57 m. To
  obtain 𝑓0 , insert 𝑓min = 5327.82Hz on the far right side in Eq. (8) and solve for 𝑓0 . This gives 𝑓0 to be
  990.26 Hz.
-Solutions
+
+Solutions
 
 
                                                                            A2-6      Oﬃcial (English)
@@ -279,7 +284,8 @@ contributions of the Academic Committee and the International Board are grateful
                                                        𝑃𝑄
 
  which gives 𝛽 = 28.36∘
-Solutions
+
+Solutions
 
 
                                                                                      A2-7   Oﬃcial (English)
@@ -335,7 +341,8 @@ contributions of the Academic Committee and the International Board are grateful
                                                          𝑦2 − 𝑦 1
                                             𝛽 = arctan                                                 (23)
                                                          𝑥2 − 𝑥 1
-Solutions
+
+Solutions
 
 
                                                                                 A2-8      Oﬃcial (English)
@@ -368,7 +375,8 @@ contributions of the Academic Committee and the International Board are grateful
   80   630.99    1987.99
 
   90   614.68    1845.65
-Solutions
+
+Solutions
 
 
                                                                               A2-9      Oﬃcial (English)
@@ -408,7 +416,8 @@ contributions of the Academic Committee and the International Board are grateful
 
  It is clear from the table and graph that 𝜃1 = 27∘ . We repeat this for another distance 16000 m. Table
  and graph for this distance is given below.
-Solutions
+
+Solutions
 
 
                                                 A2-10
@@ -454,7 +463,8 @@ contributions of the Academic Committee and the International Board are grateful
   31        781.41    5571.60
 
   32        781.04    5546.48
-Solutions
+
+Solutions
 
 
                                                                               A2-11          Oﬃcial (English)
@@ -485,7 +495,8 @@ contributions of the Academic Committee and the International Board are grateful
                                                     7468.77 − 3631.92
                                     𝛽 = arctan                           = 28.5∘                       (24)
                                                   14192.17 − 7128.052194
-Solutions
+
+Solutions
 
 
                                                                            A2-12           Oﬃcial (English)

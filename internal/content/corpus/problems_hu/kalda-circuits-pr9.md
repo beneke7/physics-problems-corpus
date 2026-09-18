@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg a telepeken átfolyó áramokat.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr9-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr9-fig1.jpg)

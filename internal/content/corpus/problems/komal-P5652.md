@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A stone is thrown from a tower of height $H$ upwards at an angle of $\alpha$. Just before impact, the velocity vector of the stone makes an angle of $\beta$ with the horizontal. How far from the tower did the stone land? Neglect air resistance. 
+A stone is thrown from a tower of height $H$ upwards at an angle of $\alpha$. Just before impact, the velocity vector of the stone makes an angle of $\beta$ with the horizontal. How far from the tower did the stone land? Neglect air resistance.
  (4 pont)

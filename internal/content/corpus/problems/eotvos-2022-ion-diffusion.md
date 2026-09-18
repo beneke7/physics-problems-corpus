@@ -22,6 +22,6 @@ techniques: [conservation-laws, limiting-and-special-cases]
 
 **2. feladat. Ionok eloszlása elektromos térben**
 
-Egy téglatest alakú gáztartályt egy kétrétegű, finom szövésű fémháló oszt két részre; a két térrész térfogatának aránya 1 : 2. A fémháló két rétege a közöttük lévő, igen keskeny rés miatt nem ér össze. A tartályban egyszeresen pozitív töltésű ionokból álló gáz található. A hőmérsékletet mindkét térrészben állandó, 1200 K értéken tartjuk. Milyen polaritású és mekkora egyenfeszültséget kell kapcsolni a fémháló rétegei közé ahhoz, hogy hosszú idő után a két térrészben található ionok száma megegyezzen? 
+Egy téglatest alakú gáztartályt egy kétrétegű, finom szövésű fémháló oszt két részre; a két térrész térfogatának aránya 1 : 2. A fémháló két rétege a közöttük lévő, igen keskeny rés miatt nem ér össze. A tartályban egyszeresen pozitív töltésű ionokból álló gáz található. A hőmérsékletet mindkét térrészben állandó, 1200 K értéken tartjuk. Milyen polaritású és mekkora egyenfeszültséget kell kapcsolni a fémháló rétegei közé ahhoz, hogy hosszú idő után a két térrészben található ionok száma megegyezzen?
 
 (A gáz elég ritka ahhoz, hogy a részecskék közötti kölcsönhatás elhanyagolható legyen, az átlagos szabad úthossz pedig jóval nagyobb a fémháló rétegeinek távolságánál. Az ionok töltése állandó.)

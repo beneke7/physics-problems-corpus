@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: pending
 ---
 
-The following safe distances between two cars are suggested in order to avoid rear-end collisions: for a speed of 70 km/h the safe distance is 20 m, for a speed of 100 km/h the safe distance is 30 m, for a speed of 130 km/h the safe distance is 40 m. What is your opinion about these suggestions? 
+The following safe distances between two cars are suggested in order to avoid rear-end collisions: for a speed of 70 km/h the safe distance is 20 m, for a speed of 100 km/h the safe distance is 30 m, for a speed of 130 km/h the safe distance is 40 m. What is your opinion about these suggestions?
  (4 pont)

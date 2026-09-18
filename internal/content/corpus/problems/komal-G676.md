@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, limiting-and-special-cases]
 ---
 
-At dawn on 21 January 2019 there was a total eclipse of the Moon, which could be seen from Hungary, and was observable for more than an hour. What factors does the length of the total eclipse of the Moon depend on? 
+At dawn on 21 January 2019 there was a total eclipse of the Moon, which could be seen from Hungary, and was observable for more than an hour. What factors does the length of the total eclipse of the Moon depend on?
  (4 pont)

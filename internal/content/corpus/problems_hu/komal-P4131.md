@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4131. A nyugalomban lévő víz -10 $^\circ$C-ig is túlhűthető, anélkül, hogy megfagyna. Ha ilyenkor megzavarjuk nyugalmi állapotát, egy része hirtelen megfagy. Mekkora ez a rész? 
+P. 4131. A nyugalomban lévő víz -10 $^\circ$C-ig is túlhűthető, anélkül, hogy megfagyna. Ha ilyenkor megzavarjuk nyugalmi állapotát, egy része hirtelen megfagy. Mekkora ez a rész?
  Bolyi Ferenc Károly (1897-1975) feladata

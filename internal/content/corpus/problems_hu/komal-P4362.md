@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4362. A vízcsapból gyengén folydogáló vízsugár átmérője a csaptól 10 centiméterre 2 milliméter. Mennyi idő alatt tölti meg a vízsugár a félliteres korsót? 
+P. 4362. A vízcsapból gyengén folydogáló vízsugár átmérője a csaptól 10 centiméterre 2 milliméter. Mennyi idő alatt tölti meg a vízsugár a félliteres korsót?
  Lánczos Kornél fizikaverseny, Székesfehérvár

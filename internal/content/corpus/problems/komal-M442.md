@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202509"
 verification_status: pending
 ---
 
-Measure the density of a – not yet used – dishwashing sponge. 
+Measure the density of a – not yet used – dishwashing sponge.
  (6 pont)

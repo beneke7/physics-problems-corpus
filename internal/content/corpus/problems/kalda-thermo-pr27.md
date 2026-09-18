@@ -19,4 +19,4 @@ verification_status: pending
 
 Two coaxial rings of radius $R=10 \mathrm{~cm}$ are placed to a distance $L$ from each other. There is a soap film connecting the two rings as shown in figure. De-
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr27-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr27-fig1.jpg)

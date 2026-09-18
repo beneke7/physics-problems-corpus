@@ -62,7 +62,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                       Cover Sheet                                           2
+
+
+2013 Semifinal Exam                       Cover Sheet                                           2
 
 
 
@@ -102,18 +104,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                            G = 6.67 × 10−11 N · m2 /kg2
                              9
-     k = 1/4π0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                      kB = 1.38 × 10−23 J/K
                      23
      NA = 6.02 × 10 (mol)     −1             R = NA kB = 8.31 J/(mol · K)
      σ = 5.67 × 10−8 J/(s · m2 · K4 )        e = 1.602 × 10−19 C
      1eV = 1.602 × 10−19 J                   h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
+     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
                  1 3
-     sin θ ≈ θ − 6 θ for |θ|  1             cos θ ≈ 1 − 21 θ2 for |θ|  1
+     sin θ ≈ θ − 6 θ for |θ|   1             cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                   Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                            Part A                                                3
+
+
+2013 Semifinal Exam                            Part A                                                3
 
 
 
@@ -165,7 +169,9 @@ this.
 note that at every point along the wall, the warmer fluid on one side transfers energy to the colder
 
                      Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                            Part A                                             4
+
+
+2013 Semifinal Exam                            Part A                                             4
 
 
 
@@ -200,7 +206,7 @@ get a contradiction, reflecting the fact that ∆Tw could not be constant.
                     ∆Tw = vwhc(∆Ti − ∆Tw )        ⇒     ∆Tw =       ,   α=        .
                  d                                              1+α          dvhc
 Because the red fluid exits at Tb + ∆Tw and the blue fluid exits at Tr − ∆Tw ,
-                                                                                
+
                                                                            2
              ∆Tf = (Tb + ∆Tw ) − (Tr − ∆Tw ) = −∆Ti + 2∆Tw = ∆Ti               −1
                                                                           1+α
@@ -218,7 +224,9 @@ heat exchange, and it appears in both biology and practical engineering.
 
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                              Part A                                               5
+
+
+2013 Semifinal Exam                              Part A                                               5
 
 
 
@@ -256,7 +264,7 @@ moves from rest through a vertical distance h.
                                                          1+β
        The critical angle for slipping is the angle where f is equal to the maximum possible static
        friction force, f = µmg cos θ. Combining and solving gives
-                                                             
+
                                                             1
                                              tan θc = µ 1 +     .
                                                             β
@@ -271,7 +279,9 @@ moves from rest through a vertical distance h.
 
 
                     Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                           Part A                                             6
+
+
+2013 Semifinal Exam                           Part A                                             6
 
 
 
@@ -324,7 +334,9 @@ due to electromagnetic radiation.
 
 
                   Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                                     Part A                                       7
+
+
+2013 Semifinal Exam                                     Part A                                       7
 
 
 
@@ -378,7 +390,9 @@ surface of the water and the surface of the oil are recorded as a function of ti
 the density of the oil.
 
                              Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                                          Part A                                  8
+
+
+2013 Semifinal Exam                                          Part A                                  8
 
 
 
@@ -432,7 +446,9 @@ Note there is not enough information to find the density of the duck.
 
 
                              Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                       Part A                             9
+
+
+2013 Semifinal Exam                       Part A                             9
 
 
 
@@ -448,7 +464,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                  Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                             Part B                                                10
+
+
+2013 Semifinal Exam                             Part B                                                10
 
 
 
@@ -500,7 +518,9 @@ was a hoax. Some commenters also claimed that the upwind case was physically imp
 
 
                     Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                             Part B                                               11
+
+
+2013 Semifinal Exam                             Part B                                               11
 
 
 
@@ -555,7 +575,9 @@ velocity of vr . By the same argument as above, the net CoM power is
                                              Pcm = F vr .
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                             Part B                                              12
+
+
+2013 Semifinal Exam                             Part B                                              12
 
 
 
@@ -598,14 +620,16 @@ take v be the leftward speed of the Blackbird. Then
 Since |Pprop | > |Pwheel |, power is transferred from the propeller to the wheels, and we again
 have F > 0, i.e. in both cases the force on the propeller is in the direction of the wind, as expected.
 The energy balance equation is
-                                                                          
+
                                                                      1
                              |Pwheel | = (1 − α)Pprop ⇒ v = vw         −1 .
                                                                      α
 Again, with sufficiently low energy loss, any speed is possible.
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                           Part B                                              13
+
+
+2013 Semifinal Exam                           Part B                                              13
 
 
 
@@ -634,7 +658,7 @@ Poynting vector before the last subpart!
        iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees
             with the rate of energy transfer.
 
-  b. A parallel plate capacitor consists of two discs of radius R separated by a distance d  R.
+  b. A parallel plate capacitor consists of two discs of radius R separated by a distance d   R.
      The capacitor carries charge Q, and is being charged by a small, constant current I.
 
         i. What is the power P delivered to the capacitor?
@@ -659,7 +683,9 @@ Poynting vector before the last subpart!
 
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                           Part B                                               14
+
+
+2013 Semifinal Exam                           Part B                                               14
 
 
 
@@ -694,30 +720,32 @@ Poynting vector before the last subpart!
 
           in agreement with the previous result.
   b.    i. The capacitance is given by the standard parallel-plate capacitor formula,
-                                                       0 πR2
+                                                        0 πR2
                                                  C=           .
                                                           d
           The voltage on the capacitor is thus
                                                      Q     Qd
                                                V =     =
-                                                     C   0 πR2
+                                                     C    0 πR2
           and the power is
                                                        IQd
                                               P = IV =       .
-                                                      0 πR2
+                                                       0 πR2
           Students may choose instead to apply the formula for the volume energy density,
                                                     1
-                                                 U = 0 E 2 .
+                                                 U =  0 E 2 .
                                                     2
        ii. Consider an Amperian loop encircling the edge of the capacitor, and use a flat Gaussian
            surface through the center of the capacitor. The electric field here is perpendicular to
            the surface and has magnitude
                                                      V      Q
                                               E=       =        .
-                                                     d   0 πR2
+                                                     d    0 πR2
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                           Part B                                            15
+
+
+2013 Semifinal Exam                           Part B                                            15
 
 
 
@@ -725,12 +753,12 @@ Poynting vector before the last subpart!
           The electric flux through the surface is thus
                                                               Q
                                               φE = πR2 E =       .
-                                                              0
+                                                               0
           This can also be determined directly using Gauss’s law and appropriate symmetries.
           There is no current through the surface, so from Ampere’s law
                                            I
                                                              dφE
-                                              B · dl = µ0 0
+                                              B · dl = µ0  0
                                                               dt
                                                   dQ               µ0 I
                                       2πRB = µ0          ⇒ B=
@@ -745,12 +773,12 @@ Poynting vector before the last subpart!
        iii. The electric and magnetic fields are perpendicular, so again
                                                 1          IQ
                                            S=      EB =            .
-                                                µ0      20 π 2 R3
+                                                µ0      2 0 π 2 R3
           A quick application of the right hand rule indicates that it points inward along the edge
           of the capacitor, as it ought. The area of this region is 2πRd, so the power delivered is
                                                              IQd
                                             P = 2πRdS =
-                                                            0 πR2
+                                                             0 πR2
           in agreement with the previous result.
 
   c.    i. Suppose that the solenoid has length l. The inductance is
@@ -772,7 +800,9 @@ Poynting vector before the last subpart!
                                                 L = µ0 N 2 πR2 l
 
                    Copyright c 2013 American Association of Physics Teachers
-2013 Semifinal Exam                          Part B                                            16
+
+
+2013 Semifinal Exam                          Part B                                            16
 
 
 

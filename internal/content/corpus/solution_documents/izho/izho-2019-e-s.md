@@ -54,7 +54,9 @@ and the heat power generated in the resistor and calculated via the expression
                                       1,5        100       66,67       6,67
                                       1,3         86       66,15       5,69
        The graph of the voltage across the resistor versus its current is shown in the figure below.
-XV International Zhautykov Olimpiad/Experimental Competition                                             Page 2/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                             Page 2/7
 
 
 
@@ -83,7 +85,9 @@ Table 2. The measurements have been carried out at the resistance of 3.3 kΩ.
                   0       196         197      197         0        5,28       5,28      5,28
                   1       104         180       74         1        4,64       5,19      4,30
                   2        50         161      24,9        2        3,91       5,08      3,21
-XV International Zhautykov Olimpiad/Experimental Competition                                           Page 3/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                           Page 3/7
                   3        25,4       148         9           3      3,23       5,00      2,20
                   4        13,6       135        3,6          4      2,61       4,91      1,28
                   5         6,6       128                     5      1,89       4,85
@@ -122,7 +126,9 @@ transmittances of each filter:
 presented, there is a good agreement between these results, i.e. formula (9) is experimentally verified.
 
                                                     Table 4
-XV International Zhautykov Olimpiad/Experimental Competition                                          Page 4/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                          Page 4/7
                         Pair of filters                measured               calculated
                         blue + yellow                   0,342                   0,333
                          blue + grey                    0,187                   0,185
@@ -158,7 +164,9 @@ noticeably, such that formula (5) turns inapplicable.
                                                grey filter           0,450
                                                blue filter           0,431
                                               yellow filter          0,759
-XV International Zhautykov Olimpiad/Experimental Competition                                            Page 5/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                            Page 5/7
          Table 7 shows the measured and calculated transmittances of pairs of light filters. It can be seen that
 for the white source the transmittance of a pair of filters is not equal to the product of transmittances of each
 filter, which is prescribed to the dependence of transmittances on the wavelength.
@@ -211,7 +219,9 @@ Part 1. Studying a photodetector                                                
 Part 2. Absorption of laser radiation                                                        5,5
 2.1 Formula I n = k n I 0                                                                    0,2         0,2
 2.2    Transmittance measurements                                                            2,6
-XV International Zhautykov Olimpiad/Experimental Competition                         Page 6/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                         Page 6/7
       Marked only if data are within 50% from the provided in the official
       solution:
       - Measurements in the range of 0-200 mV;                                        0,1
@@ -265,7 +275,9 @@ Part 3. Absorption of white light                                            3,5
 
       Blue+yellow filters in the range of 0,22-0,3 (0,18 -3,5;out of)              0,2(0,1;0)
       Blue+gray filters in the range of 0,14-0,23 (0,1 -0,27;out of)               0,2(0,1;0)
-XV International Zhautykov Olimpiad/Experimental Competition                       Page 7/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                       Page 7/7
       Yellow+gray filters in the range of 0,3 – 0,4 (0,25 – 0,45; out of)        0,2(0,1;0)
 
       Experimental and theoretical transmittances do not coincide                   0,1

@@ -228,10 +228,10 @@ ideal transformer, is
 √
 L1L2. Plugging in these results gives
 E1 = −
-
+
 µ0πR2
 H
-
+
 N2
 1
 dI1
@@ -239,12 +239,12 @@ dt
 + N1N2
 dI2
 dt
-
+
 , E2 = −
-
+
 µ0πR2
 H
-
+
 N2
 2
 dI2
@@ -252,7 +252,7 @@ dt
 + N1N2
 dI1
 dt
-
+
 .
 This tells us the desired result holds for any values of the dIi/dt.
 This result is not surprising from the standpoint of Faraday’s law. The flux change through

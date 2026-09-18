@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Two alike glass balloons are connected with a thin, short tube, whose inner volume is negligibly small. The temperature of the air inside the balloons is $27~{}^\circ$C. By what percent does the pressure of the enclosed air in the balloons increase, if one of the balloons is heated to a temperature of $177~{}^\circ$C, whilst the other is kept at the temperature of $27~{}^\circ$C? 
+Two alike glass balloons are connected with a thin, short tube, whose inner volume is negligibly small. The temperature of the air inside the balloons is $27~{}^\circ$C. By what percent does the pressure of the enclosed air in the balloons increase, if one of the balloons is heated to a temperature of $177~{}^\circ$C, whilst the other is kept at the temperature of $27~{}^\circ$C?
  (4 pont)

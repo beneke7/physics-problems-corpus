@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201004"
 verification_status: pending
 ---
 
-In calm weather a rope, which is attached to a spherical balloon filled with Helium, hangs vertically and tight. In wind, however, in one case the rope makes an angle of 20$^\circ$ with the vertical, and in a second case an angle of 55$^\circ$. Determine the ratio of the wind speeds in the two cases, provided that the air drag is proportional to the square of the speed of the wind. 
+In calm weather a rope, which is attached to a spherical balloon filled with Helium, hangs vertically and tight. In wind, however, in one case the rope makes an angle of 20$^\circ$ with the vertical, and in a second case an angle of 55$^\circ$. Determine the ratio of the wind speeds in the two cases, provided that the air drag is proportional to the square of the speed of the wind.
  (4 pont)

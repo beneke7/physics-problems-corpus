@@ -30,6 +30,6 @@ A külön lapon látható térkép izobarokat mutat az állandó magasságban a 
 
 **Megjegyzés.** Ha egy $m$ tömegű tárgy (például egy levegőréteg) $v$ sebességgel mozog az $\Omega$ szögsebességgel forgó vonatkoztatási rendszerben, akkor egy fikció erőt, az úgynevezett Coriolis-erőt fejt ki, amelynek nagysága $F_{C}/m = 2v\Omega \sin \varphi$, ahol a $\varphi$ szög és az irányok az alábbi ábrán vannak feltüntetve.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-weather-forecast-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-weather-forecast-fig1.jpg)
 
-![figure](../../sources/nbpho/figures/nbpho-2018-weather-forecast-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-weather-forecast-fig2.jpg)

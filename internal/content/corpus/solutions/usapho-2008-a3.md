@@ -44,10 +44,10 @@ P = σAT4
 s
 where A is the surface area of the planet, and Ts the temperature at the surface. Then
 Ts =
-
+
 P
 4πσR2
-1/4
+ 1/4
 .
 b. By symmetry, the temperature depends only on the distance from the center. Then the definition of k
 gives for a spherical shell of thickness dr

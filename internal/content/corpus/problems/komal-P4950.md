@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, strategic-heuristics]
 ---
 
-A car of mass 1200 kg started from rest and speeded up at an acceleration of 2 m/s${}^2$ along a straight horizontal path of length 200 m. Its wheels did not slide. 
- $a)$ What was the total frictional force exerted between the ground and the wheels? 
- $b)$ What is the final kinetic energy of the car? (The mass of the wheels can be neglected.) 
- $c)$ How much work was done by the static frictional force? 
+A car of mass 1200 kg started from rest and speeded up at an acceleration of 2 m/s${}^2$ along a straight horizontal path of length 200 m. Its wheels did not slide.
+ $a)$ What was the total frictional force exerted between the ground and the wheels?
+ $b)$ What is the final kinetic energy of the car? (The mass of the wheels can be neglected.)
+ $c)$ How much work was done by the static frictional force?
  (4 pont)

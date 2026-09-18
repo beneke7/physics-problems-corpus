@@ -26,9 +26,9 @@ Solution. (a) We see that
 F = I
 I
 ds × B = I
-I
+ I
 ds
-
+
 × B = 0,
 as desired.
 (b) The magnetic moment of the square is
@@ -76,9 +76,9 @@ ds × (B × s) − I
 I
 B × (s × ds)
 = −τ − IB ×
-I
+ I
 s × ds
-
+
 .
 Now, s × ds = 2dA, because as s moves a little along the loop it sweeps out a small triangle
 of area. Thus we have 2τ = 2IA × B, giving the result.

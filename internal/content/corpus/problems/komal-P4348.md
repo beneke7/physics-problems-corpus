@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, choose-reference-frame]
 ---
 
-A tree on the opposite shore of a smooth surface of water of width of several tens of meters covers a house, which is behind the tree, such that only the top of the chimney of the house can be seen. Observing the image of the tree reflected from the surface of water the image of top of the chimney cannot even be seen. How can it happen? 
+A tree on the opposite shore of a smooth surface of water of width of several tens of meters covers a house, which is behind the tree, such that only the top of the chimney of the house can be seen. Observing the image of the tree reflected from the surface of water the image of top of the chimney cannot even be seen. How can it happen?
  (3 pont)

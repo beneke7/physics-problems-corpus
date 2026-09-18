@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4305. Miért van árnyékuk az átlátszó tárgyaknak, például az üvegpoharaknak? 
+P. 4305. Miért van árnyékuk az átlátszó tárgyaknak, például az üvegpoharaknak?
  Lánczos Kornél verseny, Székesfehérvár

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates]
 ---
 
-What is the shape of the rounded end of that glass rod, which converges all the light rays entering onto the round glass surface parallel to the axis of the rod to one point inside the rod? Determine the equation of the surface as a function of the refractive index of the glass $n$ and the focal length $f$ . 
+What is the shape of the rounded end of that glass rod, which converges all the light rays entering onto the round glass surface parallel to the axis of the rod to one point inside the rod? Determine the equation of the surface as a function of the refractive index of the glass $n$ and the focal length $f$ .
  (5 pont)

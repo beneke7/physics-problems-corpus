@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-We are used to shadows being long in the morning, shortening by midday, lengthening in the afternoon, and then long again at dusk. Is there any place on Earth where the shadow of a vertical stick cast on horizontal ground has the same length all day long? 
+We are used to shadows being long in the morning, shortening by midday, lengthening in the afternoon, and then long again at dusk. Is there any place on Earth where the shadow of a vertical stick cast on horizontal ground has the same length all day long?
  (3 pont)

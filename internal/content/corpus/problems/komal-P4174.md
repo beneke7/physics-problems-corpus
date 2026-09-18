@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: pending
 ---
 
-If the sheets of two exercise books, facing each other, are shuffled into each other, and then the two exercise books are pressed together with two fingers, then even an adult is unable to pull the two exercise books apart. What is the reason for this phenomenon? 
+If the sheets of two exercise books, facing each other, are shuffled into each other, and then the two exercise books are pressed together with two fingers, then even an adult is unable to pull the two exercise books apart. What is the reason for this phenomenon?
  (3 pont)

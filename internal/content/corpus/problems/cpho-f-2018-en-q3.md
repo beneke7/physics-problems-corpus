@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 3 (35 points). Refer to Figure 3.1. An inextensible, massive string of uniform linear density $\lambda$ is threaded through a disc-shaped, fixed pulley of radius $R$, whose axle is a distance $L$ from the floor. The system is initially at rest. When $t=0$, the pulley acquires a constant angular speed $\omega$ (which is maintained throughout) in the anticlockwise direction and causes the string to move as well. The coefficient of kinetic friction between the pulley and the string is $\mu$. The suspended parts of the string are vertical throughout the motion, the ends of the string never leave the floor, and the piles of string resting on the floor are concentrated at two points. We are given the gravitational acceleration $g$. Denote the tension at the points on the left and right hand sides of the pulley, where the pulley is tangent to the string, by $T_{1}$ and $T_{2}$ respectively.
 
-![](cpho-f-2018-en-q3-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2018-en-q3-fig01.png)
 Figure 3.1: A massive string threaded through a rotating pulley. The grey blobs indicate piles of string.
 
 (1) (20 points). Obtain a system of dynamical equations for any short length of string at all possible locations on the string. Consider two cases: the suspended parts and the part threaded through the pulley.

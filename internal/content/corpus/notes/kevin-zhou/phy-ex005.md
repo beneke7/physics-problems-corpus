@@ -32,7 +32,6 @@ the usual free particle Lagrangian up to a constant.
    The deeper reason that this is the correct Lagrangian is that it makes the action Lorentz invariant,
                                             Z            Z
                                        S = L dt = −m dτ.
-9   1. Classical Mechanics
 
 
 Thus, the principle of least action corresponds to the maximization of proper time. In relativity, it’s
@@ -56,11 +55,11 @@ There are four Euler–Lagrange equations,
 However, only three are independent, because for any path xµ (λ),
 
                                                                            dẋµ ∂L
-                                                                    
+
                       µ   ∂L   d ∂L           µ ∂L     d        µ ∂L
                    ẋ        −           = ẋ      −         ẋ          +
                           ∂xµ dλ ∂ ẋµ         ∂xµ dλ            ∂ ẋµ     dλ ∂ ẋµ
-                                                               
+
                                             d            ∂L
                                          =       L − ẋµ µ
                                            dλ            ∂ ẋ
@@ -90,7 +89,6 @@ special relativity, a fact sometimes called the van Dam–Wigner no interaction 
 only have contact interactions between particles, or local interactions between particles and fields.
 (Though, to be fair, even though there are various no-go theorems, you can still construct relativistic
 multiparticle dynamics if you give up some cherished properties, as described here.)
-10 1. Classical Mechanics
 
 
   Here we will focus on the simpler task of coupling a particle to a background field. An obvious
@@ -112,7 +110,7 @@ Second, we can extend the potential to a vector field, giving
 and yielding the theory of electromagnetism; parametrizing by time recovers the action given above.
 Finally, we can note that it would have been equivalent, at leading order, to pull the potential term
 inside the square root, giving
-                                         Z s          
+                                         Z s
                                                     2V
                                  S = −m        1+         dt2 − dr2 .
                                                     m
@@ -143,7 +141,6 @@ giving four-force
                                             duµ
                                     fµ = m       = eF µν uν .
                                              dτ
-11 1. Classical Mechanics
 
 
 If we wish to consider backreaction, i.e. the effect of the particle on the field, its current is
@@ -202,7 +199,6 @@ coordinates. The Lagrangian can depend on q and q̇ in several special ways.
 These are the simplest possible examples of Noether’s two theorems, though of course, the theorems
 themselves were much deeper. Noether considered the case of an arbitrary number of spacetime
 fields and an action depending on arbitrary numbers of derivatives.
-12 1. Classical Mechanics
 
 
 1.2     Rigid Body Motion
@@ -218,7 +214,7 @@ We begin with the kinematics of rigid bodies.
   • Every point r in the body can be expanded in the space frame or the body frame as
                                             r(t) = rea (t)ea = ra ea (t).
       Note that the body frame changes over time as
-                                                                                
+
                                       dea   dRab                     dR −1
                                           =      eb =
                                                  e                      R                  eb

@@ -54,7 +54,8 @@ S2. The net potential energy is the sum of attractive and repulsive exponential 
 
 
                                                1
-                      Theoretical Solution 2, 9th Asian Physics Olympiad (Mongolia)
+
+                      Theoretical Solution 2, 9th Asian Physics Olympiad (Mongolia)
 
 S3. The dissociation energy corresponding to an ion (pair of atoms) is
 
@@ -104,7 +105,8 @@ S5. Comparing with previous result (see 3. and 4.) we express the Born exponent
 
 
                                                2
-                      Theoretical Solution 2, 9th Asian Physics Olympiad (Mongolia)
+
+                      Theoretical Solution 2, 9th Asian Physics Olympiad (Mongolia)
 
 With n=9 one finds that
 
@@ -136,7 +138,8 @@ This estimate is in satisfactory agreement with the experimental result
 
 
                                                3
-                        Theoretical Problem 2, 9th Asian Physics Olympiad (Mongolia)
+
+                        Theoretical Problem 2, 9th Asian Physics Olympiad (Mongolia)
 
 [Marking Scheme]        Ionic Crystal, Yukawa-type Potential and Pauli Principle
 

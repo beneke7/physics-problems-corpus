@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-An ice-hockey player hits the puck with an initial speed of v $_{0}$ towards the board fence. The mass of the puck is m and its radius is  R . The puck is not rotating and the angle between the velocity and the board fence is  . The component of the velocity of the puck which is perpendicular to the board fence changes by a factor of  k ( k <1). What will the rotational energy of the puck be after the collision with the board fence? The coefficient of kinetic friction between the board fence and the puck is and the friction on the ice is negligible. 
+An ice-hockey player hits the puck with an initial speed of v $_{0}$ towards the board fence. The mass of the puck is m and its radius is  R . The puck is not rotating and the angle between the velocity and the board fence is  . The component of the velocity of the puck which is perpendicular to the board fence changes by a factor of  k ( k <1). What will the rotational energy of the puck be after the collision with the board fence? The coefficient of kinetic friction between the board fence and the puck is and the friction on the ice is negligible.
  (5 pont)

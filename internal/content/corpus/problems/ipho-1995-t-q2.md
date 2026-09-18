@@ -42,10 +42,10 @@ $$
 
 In each case $b=\left|\frac{d c}{d z}\right|$, that is, $b$ is the magnitude of the sound speed gradient with depth; $b$ is assumed constant.
 
-![](ipho-1995-t-q2-fig01.png)
+![](../../figures/ipho/figures/ipho-1995-t-q2-fig01.png)
 Figure 1 (a)
 
-![](ipho-1995-t-q2-fig02.png)
+![](../../figures/ipho/figures/ipho-1995-t-q2-fig02.png)
 Figure 1 (b)
 
 Figure 1(b) shows a section of the $z-x$ plane through the ocean, where $x$ is a horizontal direction. The variation of $c$ with respect to $z$ is shown in figure 1(a). At the position $z=0, x=0$, a sound source $S$ is located. A 'sound ray' is emitted from $S$ at an angle $\theta_{0}$ as shown. Because of the variation of $c$ with $z$, the ray will be refracted.

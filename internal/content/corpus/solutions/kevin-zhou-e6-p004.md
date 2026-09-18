@@ -56,7 +56,7 @@ practically overlap, or more generally for any configuration where all flux that
 one inductor also goes through the other, such as the two coils of an ideal transformer.
 (b) When the inductors are in series, they have the same current. The total emf is
 E = −
-
+
 L1
 dI
 dt
@@ -69,7 +69,7 @@ dt
 + M
 dI
 dt
-
+
 = −(L1 + L2 + 2M)
 dI
 dt
@@ -127,13 +127,13 @@ E
 R
 (1 − e−t/τ
 ), τ ≡ L
-
+
 1
 r
 +
 1
 R
-
+
 .
 Using I1 = E/R − L
 RdI/dt and I2 = −L
@@ -141,12 +141,12 @@ r dI/dt, we can extract
 I1 =
 E
 R
-
+
 1 −
 r
 r + R
 e−t/τ
-
+
 , I2 = −
 E
 (R + r)
@@ -234,11 +234,11 @@ Then we have
 iω
 I0eiωt
 .
-Plugging this in, we find 
+Plugging this in, we find
 iωL + R +
 1
 iωC
-
+
 I0 = V0.
 Solving for the magnitude of the current gives
 |I0| =

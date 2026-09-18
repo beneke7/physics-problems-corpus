@@ -39,7 +39,7 @@ solution_language: en
        Just for fun, here are some more examples of tough series expansions. First, in the “Lindhard”
        theory of electrical shielding in metals, one has to perform the small x expansion
                                    1 x2 − 1                    x2
-                                                         
+
                                                      1+x
                                      +         log          ≈     + O(x4 ).
                                    2      4x         1−x       3
@@ -88,7 +88,7 @@ solution_language: en
   O(d/x) term. But if we had gone out to O(d2 /x2 ), we would have found
 
                                               2d 3d2
-                                                                  
+
                                        q                     3   3
                           E(x) = −               + 2 + O(d /x ) .
                                     4πϵ0 x2 x       x

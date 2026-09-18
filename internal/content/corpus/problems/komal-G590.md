@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-The vapour trail of air planes is formed not exactly at the planes, but some distance behind them, and follows the plane as if it was pulled by a rope. Why does this happen? 
+The vapour trail of air planes is formed not exactly at the planes, but some distance behind them, and follows the plane as if it was pulled by a rope. Why does this happen?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-The majority of the comets, which pass the inner Solar System only once, come from the outer part of the Solar System called the Oort cloud. Estimate how long this ``journey'' takes for a comet. The diameter of the Oort cloud, which can be considered a spherical shell with the Sun at its centre, is $70\,000$ astronomical units. Suppose that the aphelion (the greatest distance measured from the Sun) of the comet is the same as the radius of the Oort cloud. 
+The majority of the comets, which pass the inner Solar System only once, come from the outer part of the Solar System called the Oort cloud. Estimate how long this ``journey'' takes for a comet. The diameter of the Oort cloud, which can be considered a spherical shell with the Sun at its centre, is $70\,000$ astronomical units. Suppose that the aphelion (the greatest distance measured from the Sun) of the comet is the same as the radius of the Oort cloud.
  (4 pont)

@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4666. Hogyan halad tovább a lencsén való áthaladás után az a fénysugár, amelyik egy szórólencse túloldali ,,kétszeres'' fókusza felé tart?
 
-![figure](../../raw_html/komal_figures/komal-P4666-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4666-fig1.gif)

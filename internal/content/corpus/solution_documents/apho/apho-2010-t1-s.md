@@ -21,8 +21,8 @@ Theoretical Competition
                    Theoretical Question 1: Particles and Waves
                                                 SOLUTION
                Part A. Inelastic scattering and compositeness of particles
-(a) Let the momentum of the target particle after scattering be 𝑃𝑃�⃗. The law of conservation of
-    linear momentum implies 𝑃𝑃�⃗ = 𝑝𝑝⃗1 − 𝑝𝑝⃗2 . The total translational kinetic energies of the
+(a) Let the momentum of the target particle after scattering be 𝑃𝑃 ⃗. The law of conservation of
+    linear momentum implies 𝑃𝑃 ⃗ = 𝑝𝑝⃗1 − 𝑝𝑝⃗2 . The total translational kinetic energies of the
     scattering system before and after scattering are, respectively,
                                  𝑝𝑝1 2
                        𝐾𝐾𝑖𝑖 =
@@ -62,7 +62,8 @@ Theoretical Competition
                𝑚𝑚            𝑀𝑀         𝑚𝑚 − 𝑀𝑀                       𝑚𝑚            𝑀𝑀
                     𝑝𝑝1 −         𝑝𝑝1 =         𝑝𝑝 and                     𝑝𝑝1 +        𝑝𝑝 = 𝑝𝑝1 .         (a-3)*
             𝑀𝑀 + 𝑚𝑚       𝑀𝑀 + 𝑚𝑚       𝑀𝑀 + 𝑚𝑚 1                  𝑀𝑀 + 𝑚𝑚       𝑀𝑀 + 𝑚𝑚 1
-                                                                                            Question Number 1
+
+                                                                                            Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                            Page 2 of 8
@@ -112,7 +113,8 @@ Theoretical Competition
                                                                   𝐿𝐿2
                                            𝑄𝑄 = 𝑘𝑘(𝑑𝑑m − 𝑑𝑑0 ) +                                              (a-5)
                                                2                 2𝐼𝐼m
-                                                                                 Question Number 1
+
+                                                                                 Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                         Page 3 of 8
@@ -168,7 +170,8 @@ Theoretical Competition
                                        2𝑄𝑄
                                𝑥𝑥 2 =            (𝛼𝛼min = 0).
                                       𝑘𝑘𝑑𝑑0 2
-                                                                                 Question Number 1
+
+                                                                                 Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                          Page 4 of 8
@@ -177,13 +180,13 @@ Theoretical Competition
 
     Moreover, the maximum value 𝛼𝛼max of 𝛼𝛼 = sin2 𝜃𝜃 is seen to be given by
                                           𝛽𝛽 if 𝛽𝛽 ≤ 1 and 𝑥𝑥 = 0,
-                                𝛼𝛼max = �                        1                  1                      (a-12)
+                                𝛼𝛼max =                          1                  1                      (a-12)
                                           1 if 𝛽𝛽 ≥ 1 and (1 −      𝑘𝑘𝑑𝑑0 2 𝑥𝑥 2 ) = .
                                                                 2𝑄𝑄                 𝛽𝛽
     Note that, from Eq. (a-11), it follows
                                                        𝑀𝑀 − 2𝑚𝑚
                                           ≤ 1 if 𝑝𝑝2 ≤ −        𝑝𝑝 ,
-                                 𝛽𝛽 = �                𝑀𝑀 + 2𝑚𝑚 1
+                                 𝛽𝛽 =                  𝑀𝑀 + 2𝑚𝑚 1
                                                        𝑀𝑀 − 2𝑚𝑚
                                         ≥ 1 if 𝑝𝑝2 ≥ −          𝑝𝑝 .
                                                        𝑀𝑀 + 2𝑚𝑚 1
@@ -213,7 +216,8 @@ Theoretical Competition
                 𝑀𝑀 + 𝑚𝑚          2
                                                0
                                                               Figure A2
-                                                                                        Question Number 1
+
+                                                                                        Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                         Page 5 of 8
@@ -268,7 +272,8 @@ Theoretical Competition
                                                                    𝐿𝐿                 4
                                                                                         ℎ
                                 4
-                                                                                         Question Number 1
+
+                                                                                         Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                            Page 6 of 8
@@ -318,7 +323,8 @@ Theoretical Competition
                                                    𝐷𝐷1        D       𝐷𝐷2
 
                                                A                           B
-                                                                                    Question Number 1
+
+                                                                                    Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                         Page 7 of 8
@@ -338,8 +344,8 @@ Theoretical Competition
                                 A                                             1        B
                                                                               4
                                                                                 𝐿𝐿
-         �������
-    with 𝐷𝐷                              �������
+
+    with 𝐷𝐷
            1 𝐷𝐷2 = 2𝑐𝑐𝑖𝑖. For 𝑖𝑖 = 𝑇𝑇/8, 𝐷𝐷1 𝐷𝐷2 = 𝐿𝐿/2 and
                                              2ℎ
                                           tan 𝜃𝜃 =
@@ -357,22 +363,22 @@ Theoretical Competition
                                                      ℎ
                                                                   ℎ2       2
                                                                              ℎ2
-                                            𝐸𝐸 = � 𝐹𝐹(𝑦𝑦)d𝑦𝑦 = 2𝜏𝜏 = 2𝜇𝜇𝑐𝑐      ,                          (b-7)*
+                                            𝐸𝐸 =   𝐹𝐹(𝑦𝑦)d𝑦𝑦 = 2𝜏𝜏 = 2𝜇𝜇𝑐𝑐      ,                          (b-7)*
                                                   0               𝐿𝐿         𝐿𝐿
-    where use has been made of 𝑐𝑐 = �𝜏𝜏/𝜇𝜇.
+    where use has been made of 𝑐𝑐 =  𝜏𝜏/𝜇𝜇.
 
 [Another solution of (d)]:
-    Because c = �𝜏𝜏/μ with 𝜏𝜏 being the tension on the string, we have 𝜏𝜏 = 𝜇𝜇𝑐𝑐 2 . The total
+    Because c =  𝜏𝜏/μ with 𝜏𝜏 being the tension on the string, we have 𝜏𝜏 = 𝜇𝜇𝑐𝑐 2 . The total
     mechanical energy 𝐸𝐸 at 𝑖𝑖 = 0 is the potential energy
                                     1    𝐿𝐿
                                             𝜕𝜕𝑦𝑦 2        1 2 ℎ 2                  ℎ2
-                           𝐸𝐸 = 𝑈𝑈 = 𝜏𝜏 � � � 𝑑𝑑𝑥𝑥 = 𝜇𝜇𝑐𝑐 �         � 𝐿𝐿 = 2𝜇𝜇𝑐𝑐 2                         (b-7')*
+                           𝐸𝐸 = 𝑈𝑈 = 𝜏𝜏       𝑑𝑑𝑥𝑥 = 𝜇𝜇𝑐𝑐             𝐿𝐿 = 2𝜇𝜇𝑐𝑐 2                         (b-7')*
                                     2 0 𝜕𝜕𝑥𝑥              2    𝐿𝐿/2                𝐿𝐿
     Here 𝑦𝑦(𝑥𝑥, 𝑖𝑖) is the displacement of the elastic string.
 
 [Yet another solution of (d)]:
-    We consider a special moment when ����           𝐸𝐸𝐹𝐹 move into ����
-                                            𝐶𝐶𝐷𝐷 and ����            𝐴𝐴𝐵𝐵 region completely. At
+    We consider a special moment when                𝐸𝐸𝐹𝐹 move into
+                                            𝐶𝐶𝐷𝐷 and                 𝐴𝐴𝐵𝐵 region completely. At
     this moment, the string is flat so that total mechanical energy is equal to the total kinetic
     energy. Since the velocity for each point on the string is 2𝑐𝑐 tan 𝛼𝛼 (downward) with
     tan 𝛼𝛼 = ℎ/𝐿𝐿, we obtain
@@ -380,7 +386,8 @@ Theoretical Competition
                                                              ℎ2
                            𝐸𝐸 = 𝜇𝜇 𝐿𝐿 (2𝑐𝑐 tan 𝛼𝛼) = 2𝜇𝜇𝑐𝑐      .                 (b-7'')*
                                2                             𝐿𝐿
-                                                                                    Question Number 1
+
+                                                                                    Question Number 1
 Theoretical Competition
 
 25 April 2010                                                                                         Page 8 of 8
@@ -405,7 +412,7 @@ Theoretical Competition
     the star from us at that time is
                                                  𝑖𝑖 0                          𝑖𝑖 0
                                                       𝑎𝑎(𝑖𝑖e )
-                                  𝐿𝐿(𝑖𝑖e ) = �                 𝑐𝑐𝑑𝑑𝑖𝑖 = 𝑐𝑐 � exp [𝐻𝐻(𝑖𝑖e − 𝑖𝑖)] 𝑑𝑑𝑖𝑖
+                                  𝐿𝐿(𝑖𝑖e ) =                   𝑐𝑐𝑑𝑑𝑖𝑖 = 𝑐𝑐   exp [𝐻𝐻(𝑖𝑖e − 𝑖𝑖)] 𝑑𝑑𝑖𝑖
                                               𝑖𝑖 e 𝑎𝑎(𝑖𝑖)                   𝑖𝑖 e
                                                     𝑐𝑐
                                                =       (1 − exp⁡
@@ -420,14 +427,14 @@ Theoretical Competition
     thus
                                          𝑐𝑐              1
                                        𝐿𝐿(𝑖𝑖e ) =
-                                            �1 −             � ≈ 690 Mpc.                                   (c-5)*
+                                             1 −               ≈ 690 Mpc.                                   (c-5)*
                                          𝐻𝐻          1.200
 (f) Due to the cosmic expansion, the above distance is actually longer now:
                                          𝑎𝑎(𝑖𝑖0 )             𝑎𝑎(𝑖𝑖0 ) 𝑐𝑐      𝑎𝑎(𝑖𝑖e )
-                              𝐿𝐿(𝑖𝑖0 ) =          𝐿𝐿(𝑖𝑖e ) =              �1 −          �                     (c-6)
+                              𝐿𝐿(𝑖𝑖0 ) =          𝐿𝐿(𝑖𝑖e ) =               1 −                                (c-6)
                                          𝑎𝑎(𝑖𝑖e )             𝑎𝑎(𝑖𝑖e ) 𝐻𝐻      𝑎𝑎(𝑖𝑖0 )
     Thus according to the Hubble Law, we can compute the receding velocity of the star now:
 
                                    𝑎𝑎(𝑖𝑖0 ) 𝑐𝑐      𝑎𝑎(𝑖𝑖e )    𝑎𝑎(𝑖𝑖0 )
-       v(𝑖𝑖0 ) = 𝐻𝐻𝐿𝐿(𝑖𝑖0 ) = 𝐻𝐻               �1 −          �=�          − 1� 𝑐𝑐 ≈ 0.200 𝑐𝑐         (c-7)*
+       v(𝑖𝑖0 ) = 𝐻𝐻𝐿𝐿(𝑖𝑖0 ) = 𝐻𝐻                1 −           =           − 1  𝑐𝑐 ≈ 0.200 𝑐𝑐         (c-7)*
                                    𝑎𝑎(𝑖𝑖e ) 𝐻𝐻      𝑎𝑎(𝑖𝑖0 )     𝑎𝑎(𝑖𝑖e )

@@ -35,6 +35,6 @@ The “Standard Atmosphere” model takes T (z) to be piecewise linear, with dif
 mesosphere, stratosphere, and troposphere. The model then infers p(z) from hydrostatic equilibrium
 and the ideal gas law,
                                                  g z dz ′
-                                                  Z          
+                                                   Z
                                  p(z) = p0 exp −                .
                                                  R 0 T (z ′ )

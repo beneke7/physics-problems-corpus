@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201801"
 verification_status: pending
 ---
 
-Measure the refractive index of some type of honey. 
+Measure the refractive index of some type of honey.
  (6 pont)

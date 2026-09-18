@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns, conservation-laws]
 ---
 
-A proton and an electron are travelling in magnetic field of magnetic induction of 1 T. The kinetic energy of both particles is 10 MeV, and their velocity is perpendicular to the magnetic induction. Determine the periods of their revolving motion. 
+A proton and an electron are travelling in magnetic field of magnetic induction of 1 T. The kinetic energy of both particles is 10 MeV, and their velocity is perpendicular to the magnetic induction. Determine the periods of their revolving motion.
  (5 pont)

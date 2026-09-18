@@ -58,7 +58,9 @@ baryon number = number of protons and neutrons
 electric charge = number of protons and positrons − number of electrons
 electron number = number of electrons and electron neutrinos
 − number of positrons and anti-electron neutrinos.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3
 The amount of energy released in a nuclear decay can be inferred from the drop in mass
 energy, ∆E = (∆m)c2. A nuclear decay can only spontaneously occur if it lowers the energy
@@ -101,7 +103,9 @@ rest energy of Higgs boson ∼ 1011
 eV
 Many nuclear reactions release enough energy to create new electrons, but not enough to
 create additional nucleons. But high-energy particle collisions, such as those intended to
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 produce Higgs bosons, have enough energy to produce many electrons and nucleons.
 There are interesting exceptions to the above rules of thumb. For example, it was recently
 discovered that an isotope of thorium has a nuclear transition with an energy of only ∼ 10eV.
@@ -134,7 +138,9 @@ the probability that it escapes is equal to the square of the amplitdue. Using t
 down an approximate expression for the timescale τ for decay to occur.
 This model is very rough, so the numeric and slowly varying prefactors should not be expected to
 be accurate. But the exponential dependence of the timescale on the energy, which you should have
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 found is due to the tunneling probability scaling as e−
 √
 Eg/E
@@ -177,10 +183,10 @@ Z r2
 r1
 r
 2m
-α
+ α
 r
 − E
-
+
 dr =
 i
 ℏ
@@ -255,7 +261,9 @@ E
 almost all of the integral’s value comes from the region where −
 p
 Eg/E−E/kBT is maximized.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Carrying out the derivative, this corresponds to E ∼ E
 1/3
 g (kBT)2/3. Plugging this back in, we
@@ -298,7 +306,9 @@ the matter can absorb the excess momentum.)
 Idea 4
 Radioactive decay is a memoryless process: in an infinitesimal time interval dt, any nucleus has
 a probability λdt of decaying, regardless of its previous history. As a result, the probability
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 that a nucleus remains undecayed, provided that it hadn’t decayed at t = 0, falls exponentially,
 p(t) = e−λt
 .
@@ -353,7 +363,9 @@ N0
 there’s a tiny difference because the previous decay occured when there were N0 + 1 nuclei
 instead, but this is negligible in a typical sample containing billions of billions of nuclei.)
 (c) By definition, t3 = t1 +t2, and taking expectation values gives t3 = t1 +t2. Thus, t3 = 2τ/N0.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 (d) We know that the mean time between decays is τ/N0, so t4 = τ/N0.
 Of course, the tricky part of the problem is the following: why is t3 ̸= t4, even though they
 seem to be measuring the exact same thing, namely the time between two decays? The
@@ -408,11 +420,11 @@ Niti ≈
 N0
 Z ∞
 0
-
+
 N(t)
 dt
 τ
-
+
 t =
 1
 τ
@@ -438,7 +450,9 @@ N0
 X
 i
 Niti.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Example 1
 Radium can be found in trace quantities throughout the Earth, and has a half-life of 1620
 years. Suppose that there is currently 1kg of radium on the Earth. Then extrapolating
@@ -448,8 +462,8 @@ Solution
 Nuclear decays don’t happen in isolation; there are entire networks of nuclear decay chains.
 Radium decays quickly, but it is also constantly produced by the decay of other isotopes,
 which have much longer half-lives.
-[3] Problem 6.  W 1 0USAPhO 2009, problem A2.
-[3] Problem 7.  ^ 1 0IPhO 2000, problem 1c. The problem refers to an answer sheet, but you won’t
+[3] Problem 6.   W 1 0USAPhO 2009, problem A2.
+[3] Problem 7.   ^ 1 0IPhO 2000, problem 1c. The problem refers to an answer sheet, but you won’t
 need it.
 [3] Problem 8 (PPP 190). Part of the series of isotopes produced by the decay of 232Th, along with
 the corresponding half-lives, is given below:
@@ -481,7 +495,9 @@ before 228Ra from 232Th plays a significant role. After some time, the effective
 232Th (since its half life is much longer than 103 years) will fill up all the parts of the chain when the
 228Ra starts contributing to the 228Th stock, and the equilibrium amount of 220Rn will be reached
 and kept until after around 1010 years.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 2 Nuclear Processes
 Example 2: PTD 45
 Heavy nuclei can decay if struck by a neutron, releasing lighter nuclei and several more
@@ -515,8 +531,10 @@ In practice, many nuclear and particle physics problems boil down to “optimal 
 as you saw in R2, so we’ll avoid repeating them.
 [3] Problem 10. NBPhO 2012, problem 6.
 The following problems concern nuclear fusion processes in stars, an important topic.
-[3] Problem 11.  W 1 0USAPhO 2010, problem A4. This covers the proton-proton chain in our Sun.
-9Kevin Zhou Physics Olympiad Handouts
+[3] Problem 11.   W 1 0USAPhO 2010, problem A4. This covers the proton-proton chain in our Sun.
+9
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 12. In large, hot stars, energy is also produced by the CNO cycle. We start with a
 population of 12C, in an environment containing many protons. You are given that 13N and 15O
 quickly undergo β+ decay, and that when 15N is bombarded by a proton, the reaction
@@ -576,10 +594,12 @@ origin can only be understood through quantum mechanics.
 [3] Problem 13. INPhO 2014, problem 7. An instructive general application of the liquid drop model.
 Solution. See the official solutions as usual. As Stefan Ivanov notes, there’s a minor typo in the
 answer to part E.
-[4] Problem 14.  T 1 0IPhO 1997, problem 2. This applies the liquid drop model to nuclear stability.
+[4] Problem 14.   T 1 0IPhO 1997, problem 2. This applies the liquid drop model to nuclear stability.
 You can find a few more exercises on the liquid drop model in part A of IPhO 2023, problem 2,
 though I think the above problems are enough to get the general idea.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 3 Basic Particle Physics
 It’s important to get a feeling for the basics of the Standard Model. To do this, read through
 chapter 14 of Krane or chapter 1 of Griffiths.
@@ -612,12 +632,14 @@ detected, and quarks are locked inside protons and neutrons. Muons are unstable 
 few microseconds, and pions and intermediate vector bosons decay even more quickly.
 Olympiad questions about particle colliders boil down to questions from E4, E7, and R2, so they
 should be fairly straightforward if you know the principles.
-[3] Problem 17.  ^ 1 0USAPhO 2024, problem B1. Analyzing the collision rate in a muon collider
+[3] Problem 17.   ^ 1 0USAPhO 2024, problem B1. Analyzing the collision rate in a muon collider
 using relativistic kinematics and dynamics.
-[5] Problem 18.  h 1 0IPhO 2016, problem 3. This problem is about the physics of the LHC. Record
+[5] Problem 18.   h 1 0IPhO 2016, problem 3. This problem is about the physics of the LHC. Record
 your answers on the official answer sheet.
-[5] Problem 19.  h 1 0IPhO 2018, problem 2. This problem covers LHC data analysis in more depth.
-11Kevin Zhou Physics Olympiad Handouts
+[5] Problem 19.   h 1 0IPhO 2018, problem 2. This problem covers LHC data analysis in more depth.
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Now that you know the basics, can you tell the difference between the titles of real high
 energy physics papers, and randomly generated ones? Test your knowledge here!
@@ -654,7 +676,9 @@ consult the tables in appendix D of Krane.)
 (d) The spectrum of the Sun has a rather different form. Instead of having radiation at only a few
 wavelengths, it has radiation at almost all wavelengths, except for a few wavelengths where
 the amount of radiation decreases. Why?
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The spectra of light can be observed through the dispersion of light, where we
 a band of colors in increasing (or decreasing) wavelength. When discrete wavelengths are
 emitted or absorbed, we notice one particular wavelength emitted or absorbed, which will
@@ -691,17 +715,19 @@ also increases the rate of decay from E1 down to E0 via stimulated emission, as 
 Finally, an electron can be ejected from an atom entirely by absorbing a photon in the
 photoelectric effect; if the initial energy was −E, then the final kinetic energy of the electron
 is ℏω − E.
-[3] Problem 21.  W 1 0USAPhO 1997, problem A4.
-[3] Problem 22.  W 1 0USAPhO 1998, problem A3.
-[3] Problem 23.  m 1 0USAPhO 1998, problem B2. (There’s a typo in the solutions, pointed out here.)
-[3] Problem 24.  m 1 0INPhO 2012, problem 5.
-[5] Problem 25.  h 1 0IPhO 2009, problem 2. This relatively straightforward problem covers the neat
+[3] Problem 21.   W 1 0USAPhO 1997, problem A4.
+[3] Problem 22.   W 1 0USAPhO 1998, problem A3.
+[3] Problem 23.   m 1 0USAPhO 1998, problem B2. (There’s a typo in the solutions, pointed out here.)
+[3] Problem 24.   m 1 0INPhO 2012, problem 5.
+[5] Problem 25.   h 1 0IPhO 2009, problem 2. This relatively straightforward problem covers the neat
 application of Doppler laser cooling, a technique for creating ultracold gases that won the 1997
 Nobel prize. (For a very similar problem, see APhO 2006, problem 1.)
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solution, but note that it has some factor of 2 errors, as pointed out by
 Stefan Ivanov here.
-[5] Problem 26.  h 1 0IPhO 2020, problem 3. A somewhat more challenging problem focusing on
+[5] Problem 26.   h 1 0IPhO 2020, problem 3. A somewhat more challenging problem focusing on
 chirped pulse amplification, which won the 2018 Nobel prize.
 Remark
 In a conventional refrigerator, cooling the inside requires the heating of a hot reservoir,
@@ -717,6 +743,6 @@ atoms have less energy on average, and hence are colder, just like how evaporati
 cools people down. This doesn’t violate the second law of thermodynamics because the atoms
 that escape the trap end up in some random place in the lab, so the entropy associated with
 their position increases.
-[5] Problem 27.  T 1 0IZhO 2019, problem 3. A problem on the dynamics on a laser, which is arguably
+[5] Problem 27.   T 1 0IZhO 2019, problem 3. A problem on the dynamics on a laser, which is arguably
 the most important invention for atomic physics in history.
 14

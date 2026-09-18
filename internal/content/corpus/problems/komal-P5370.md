@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-The near point of the eye of a short-sighted person is at a distance of 8 cm from his eye, without wearing glasses. What will the distance of the near point of his eye be when he wears his $-5$ dioptre glasses? 
+The near point of the eye of a short-sighted person is at a distance of 8 cm from his eye, without wearing glasses. What will the distance of the near point of his eye be when he wears his $-5$ dioptre glasses?
  (4 pont)

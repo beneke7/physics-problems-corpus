@@ -24,7 +24,7 @@ techniques: [limiting-and-special-cases, conservation-laws]
 
 Egy dugattyúval ellátott tartályban $T=77,4 \mathrm{~K}$ hőmérsékletű nitrogén- és oxigéngáz keveréke található. A hőmérsékletet állandó értéken tartva a gázelegyet lassan összenyomjuk. A keverék nyomása a 2. ábrán látható módon változik a térfogat függvényében, ahol $V_{1}=15 \mathrm{dm}^{3}$ és $p_{1}=56,3 \mathrm{kPa}$.
 
-![A keverék izotermája](../../sources/eotvos/figures/eotvos-2010-gas-mixture-fig1.png)
+![A keverék izotermája](../../figures/eotvos/figures/eotvos-2010-gas-mixture-fig1.png)
 
 a) Milyen fizikai jelenségek rejlenek az izotermán látható furcsa töréspontok mögött?
 

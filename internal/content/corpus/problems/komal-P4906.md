@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-What is the temperature of a sample of oxygen gas if the average speed of the molecules is the same as the average speed of the particles in a sample of helium gas at a temperature of $0~{}^\circ$C? 
+What is the temperature of a sample of oxygen gas if the average speed of the molecules is the same as the average speed of the particles in a sample of helium gas at a temperature of $0~{}^\circ$C?
  (3 pont)

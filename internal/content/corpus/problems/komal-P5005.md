@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-One of two alike cylinder-shaped, unopened soft drink cans is frozen in the freezer. Then they are released at the same time next to each other from the top of a slope. 
- Which one reaches the bottom of the slope first? 
+One of two alike cylinder-shaped, unopened soft drink cans is frozen in the freezer. Then they are released at the same time next to each other from the top of a slope.
+ Which one reaches the bottom of the slope first?
  (3 pont)

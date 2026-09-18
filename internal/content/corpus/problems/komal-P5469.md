@@ -23,9 +23,9 @@ techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
 A point-like body with a charge of $q=4\cdot 10^{-7}$ C and a mass of $m=3$ g is at zero gravity, and is moving in the electric field of a fixed point charge of $Q=6\cdot
-10^{-7}$ C. It starts from rest and its velocity increases to $v=2$ m/s, while it covers a distance of $d=0.8$ m. 
+10^{-7}$ C. It starts from rest and its velocity increases to $v=2$ m/s, while it covers a distance of $d=0.8$ m.
 
- What was the initial distance between the two charges? 
+ What was the initial distance between the two charges?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5469-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5469-fig1.gif)

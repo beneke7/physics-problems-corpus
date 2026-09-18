@@ -146,10 +146,10 @@ and the steps are independent. Then the standard deviation of the displacement a
 quadrature, as covered in P2. The typical time to hit is when we get a standard deviation of
 order L,
 thit ∼
-
+
 L
 d
-2
+ 2
 d
 v
 ∼
@@ -159,4 +159,4 @@ r
 m
 kBT
 .
-[5] Problem 25.  h 1 0EuPhO 2017, problem 2. A nice problem using many of the above ideas.
+[5] Problem 25.   h 1 0EuPhO 2017, problem 2. A nice problem using many of the above ideas.

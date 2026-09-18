@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-How can a gold leaf electroscope be charged a ) negatively, b ) positively by using a plastic rod, which was rubbed by a piece of fur? 
+How can a gold leaf electroscope be charged a ) negatively, b ) positively by using a plastic rod, which was rubbed by a piece of fur?
  (3 pont)

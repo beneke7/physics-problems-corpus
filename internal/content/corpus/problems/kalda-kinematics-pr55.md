@@ -19,4 +19,4 @@ verification_status: pending
 
 The photo depicts a jet of water, together with background grid. The pitch of the grid equals to the diameter of the jet at the exit from the horizontal pipe. The water flow rate is constant in time, and if a vessel of volume $V=150 \mathrm{~cm}^{3}$ is used to collect the outflowing water, it is filled during the time period of $t=5 \mathrm{~min}$. Find the diameter of the jet at the exit of the pipe.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr55-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr55-fig1.jpg)

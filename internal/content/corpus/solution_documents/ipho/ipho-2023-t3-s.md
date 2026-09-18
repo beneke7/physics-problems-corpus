@@ -27,7 +27,7 @@ where 𝑘 = 0.06 and 𝑀 = 4𝜋𝑎3 𝜌/3 × 2 = 8𝜋𝑎3 𝜌/3 is the m
 computation gives
 
                2𝑘Δ𝐸                  𝑘𝛾                       0.06 × (7.27 × 10−2 )
-        𝑣=√         = √3 (2 − 22/3 )    = √3 (2 − 22/3 ) ×                              = 0.232 m/s.              (S3.4)
+        𝑣=√         = √3 (2 − 22/3 )    = √3 (2 − 22/3 ) ×                              = 0.23 2 m/s.              (S3.4)
                  𝑀                   𝜌𝑎                    (1.0 × 103 ) × (100 × 10−6 )
 
         ▷ Note: We point out an interesting phenomenon related to this question. On a superhydrophobic sur-
@@ -69,7 +69,9 @@ This force acts in the leftward direction.
 
 
                                                              1
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                         S3‒2
@@ -129,7 +131,9 @@ with 𝑎 = 2 and ℓ = √        .
 
 
                                                             2
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                     S3‒3
@@ -197,7 +201,9 @@ Let 𝑧bottom be the 𝑧-coordinate at the bottom of the rod. Then, we have
 
 
                                                                    3
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                             S3‒4
@@ -267,7 +273,9 @@ Then, 𝐹𝑥 = − 𝜌𝑔𝑧02 is obtained by subtracting (S3.20) from (S3.
 
 
                                                                   4
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                      S3‒5

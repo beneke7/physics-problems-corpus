@@ -38,9 +38,9 @@ Part A. LHC Accelerator (6 points)
 
 
 
- Solve for velocity:                   s                                    2
+ Solve for velocity:                   s                                     2
                                                         mp · c2
-                                                 
+
                               v =c·        1−                                                  0.2
                                                      mp · c2 + V · e
 
@@ -51,9 +51,9 @@ Part A. LHC Accelerator (6 points)
                               V · e ≃ mp · c2 · γ = p                                          0.3
                                                      1 − v 2 /c2
 
- Solve for velocity:                         s                         2
+ Solve for velocity:                         s                          2
                                                              mp · c2
-                                                         
+
                                      v =c·      1−                                             0.2
                                                               V ·e
 
@@ -68,7 +68,9 @@ Part A. LHC Accelerator (6 points)
 
 
                                                      1
-A2 (0.8 pt) For particles with high energy and low rest mass the relative deviation
+
+
+A2 (0.8 pt) For particles with high energy and low rest mass the relative deviation
 ∆ = (c − v)/c of the final velocity v from the speed of light is very small. Find a suitable
 approximation for ∆ and calculate ∆ for electrons with an energy of 60.0 GeV.
 
@@ -77,9 +79,9 @@ approximation for ∆ and calculate ∆ for electrons with an energy of 60.0 GeV
 Solution A2:                                                                                   [0.8]
 
 velocity (from previous question):
-                      s                           2            s                      2
+                      s                            2            s                       2
                                    me · c2                                   me · c2
-                                                                        
+
                 v =c·      1−                          or c ·       1−                         0.1
                                 me · c2 + V · e                               V ·e
 
@@ -87,9 +89,9 @@ relative difference:
                                      c−v          v
                                      ∆=     =1−                                                0.1
                                        c           c
-                                               2               2
+                                               2                2
                                 me · c2              1 me · c2
-                                                     
+
                            1
                        →∆≃                       or                                            0.4
                            2 me · c2 + V · e         2   V ·e
@@ -104,7 +106,9 @@ classical solution gives no points                                              
 
 
                                               2
-A3 (1.0 pt) Derive an expression for the uniform magnetic flux density B necessary to
+
+
+A3 (1.0 pt) Derive an expression for the uniform magnetic flux density B necessary to
 keep the proton beam on a circular track. The expression should only contain the energy
 of the protons E, the circumference L, fundamental constants and numbers. You may
 use suitable approximations if their effect is smaller than the precision given by the least
@@ -149,9 +153,9 @@ Solution:
 Penalty for < 2 or > 4 significant digits                                                      -0.1
 Calculation without approximations is also correct but does not give more points
 
-                                        s             2                 2
+                                        s               2                  2
                                                                  m · c2
-                                                                 
+
                         2π · mp · c           E
                      B=             ·                       − 1+                               0.5
                            e·L               mp · c2              E
@@ -171,25 +175,29 @@ Classical calulation gives completely wrong result and maximum 0.3 pt           
 
 
                                                3
-                                     B = 0.0901T   0.1
+
+
+                                     B = 0.0901T   0.1
 Penalty for < 2 or > 4 significant digits          -0.1
 
 
 
 
                                             4
-A4 (1.0 pt) An accelerated charged particle radiates energy in the form of electromag-
+
+
+A4 (1.0 pt) An accelerated charged particle radiates energy in the form of electromag-
 netic waves. The radiated power Prad of a charged particle that circulates with a constant
 angular velocity depends only on its acceleration a, its charge q, the speed of light c and
-the permittivity of free space 0 . Use a dimensional analysis to find an expression for the
+the permittivity of free space  0 . Use a dimensional analysis to find an expression for the
 radiated power Prad .
 
 
 Solution A4:                                                                                    [1.0]
 
 Ansatz:
-                                   Prad = aα · q β · cγ · δ0                                   0.2
-Dimensions: [a]=ms−2 , [q]=C=As, [c]=ms−1 ,[0 ]=As(Vm)−1 =A2 s2 (Nm2 )−1 =A2 s4 (kgm3 )−1
+                                   Prad = aα · q β · cγ ·  δ0                                   0.2
+Dimensions: [a]=ms−2 , [q]=C=As, [c]=ms−1 ,[ 0 ]=As(Vm)−1 =A2 s2 (Nm2 )−1 =A2 s4 (kgm3 )−1
 
 
                                   All dimensions correct                                        0.3
@@ -198,7 +206,7 @@ Dimensions: [a]=ms−2 , [q]=C=As, [c]=ms−1 ,[0 ]=As(Vm)−1 =A2 s2 (Nm2 )−
 
 
 
-if dimensions: N and Coulomb [0 ]= C2 (Nm2 )−1
+if dimensions: N and Coulomb [ 0 ]= C2 (Nm2 )−1
 
                              mα         mγ    C2δ     N·m
                                2α
@@ -214,7 +222,7 @@ And therefore:
 
 
 
-if dimensions: N and As [0 ]=A2 s2 (Nm2 )−1
+if dimensions: N and As [ 0 ]=A2 s2 (Nm2 )−1
 
                            mα     β     β m
                                              γ A2δ · s2δ   N·m
@@ -230,7 +238,7 @@ And therefore:
 
 
 
-if dimensions: kg and As [0 ]=A2 s4 (kg· m3 )−1
+if dimensions: kg and As [ 0 ]=A2 s4 (kg· m3 )−1
 
                           mα      β     β m
                                              γ   A2δ · s4δ   kg · m2
@@ -239,7 +247,9 @@ if dimensions: kg and As [0 ]=A2 s4 (kg· m3 )−1
 
 
                                                5
-From this follows:
+
+
+From this follows:
 
 kg :→ δ = −1, A :→ β + 2 · δ = 0, m :→ α + γ − 3δ = 2, s :→ −2 · α + β − γ + 4δ = −3   0.2
 
@@ -252,7 +262,7 @@ And therefore:
 Radiated Power:
                                              a2 · q 2
                                    Prad ∝                                              0.1
-                                             c3 · 0
+                                             c3 ·  0
 Other solutions with other units are possible and are accepted
 No solution but realise that unit of charge must vanish β = 2δ                         0.2
 
@@ -260,7 +270,9 @@ No solution but realise that unit of charge must vanish β = 2δ                
 
 
                                          6
-A5 (1.0 pt) Calculate the total radiated power Ptot of the LHC for a proton energy of
+
+
+A5 (1.0 pt) Calculate the total radiated power Ptot of the LHC for a proton energy of
 E = 7.00 TeV (Note table 1). You may use appropriate approximations.
 
 
@@ -270,7 +282,7 @@ Solution A5:                                                                    
 Radiated Power:
                                                 γ 4 · a2 · e2
                                        Prad =                                           0.1
-                                                6π · c3 · 0
+                                                6π · c3 ·  0
 Energy:
                   E = (γ − 1)mp · c2 or equally valid E ≃ γ · mp · c2                   0.2
 Acceleration:
@@ -280,7 +292,7 @@ Acceleration:
 Therefore:
                               E         4    e2 · c         E 4       e2 · c
                   Prad = (         + 1)   ·           or (       ) ·                    0.3
-                             mp c2          6π0 · r2      mp c2     6π0 · r2
+                             mp c2          6π 0 · r2      mp c2     6π 0 · r2
                              (not required Prad = 7.94 · 10−12 W)
 Total radiated power:
 
@@ -293,7 +305,9 @@ penalty for wrong numbers 2808 and/or 1.15 · 1011 (numbers come from table 1): 
 
 
                                                 7
-A6 (1.5 pt) Determine the time T that the protons need to pass through this field.
+
+
+A6 (1.5 pt) Determine the time T that the protons need to pass through this field.
 
 
 
@@ -311,12 +325,12 @@ Conservation of energy:
 Since
                                   2
                                  Etot = (m · c2 )2 + (pf · c)2                                 0.2
-                                                           s                             2
+                                                           s                               2
                 1                                                                   e·V
                        q
           → pf = ·      (m · c2 + e · V )2 − (m · c2 )2 =    2e · m · V +                      0.2
                 c                                                                    c
-                                              s                           2
+                                              s                             2
                             d · pf    d                              e·V
                        →T =        =            2e · mp · V +                                  0.3
                             V ·e     V ·e                             c
@@ -333,9 +347,9 @@ Alternative solution                                                            
                                    =           with pi = 0                                     0.3
                                d         T
 velocity from A1 or from conservation of energy
-                                  s                        2
+                                  s                         2
                                                mp · c2
-                                         
+
                            v =c· 1−                                                            0.2
                                            mp · c2 + V · e
 
@@ -344,15 +358,15 @@ and hence for γ                         r
                                γ = 1/   1−     2
                                                  =1+                                           0.2
                                               c      mp · c2
-                                                      s                      2
+                                                      s                       2
                                                                 mp · c2
-                                                           
+
                                    e·V
       → pf = γ · mp · v = 1 +                · mp · c · 1 −                                    0.2
                                  mp · c2                     mp · c2 + V · e
-                            s                                s
+                            s                                 s
                                mp · c2 + e · V 2                                e·V 2
-                                                                                 
+
       d · pf   d · mp · c                                  d
  →T =        =            ·                        −1=         2e · mp · V +                   0.3
       V ·e       V ·e             mp · c2                V ·e                    c
@@ -365,7 +379,9 @@ Alternative solution: integrate time                                            
 
 
                                                 8
-Energy increases linearly with distance x
+
+
+Energy increases linearly with distance x
 
                                                    e·V ·x
                                          E(x) =                                              0.2
@@ -375,13 +391,13 @@ Alternative solution: integrate time                                            
                                        t = dt =                                              0.2
                                                      0 v(x)
                   v                                     q
-                                                !2                          2
+                                                !2                           2
                                                            mp · c2 + e·Vd ·x − (mp · c2 )2
                   u
                   u              mp · c 2
        v(x) = c · t1 −                             =c·
                               mp · c2 + e·Vd ·x                  mp · c2 + e·Vd ·x
-                                          r                  2
+                                          r                    2
                                                   e·V ·x
                                              1 + d·m p ·c
                                                           2        −1
@@ -408,7 +424,7 @@ Alternative solution: integrate time                                            
                t=                q                 =             [sinh(s)]bb21               0.2
                     e·V                 2               e·V
                                    cosh (s) − 1
-                                                                      
+
                                   −1                 −1         e·V
                  with b1 = cosh (1), b2 = cosh           1+                                  0.1
                                                                mp · c2
@@ -421,30 +437,30 @@ Alternative: differential equation                                              
                                     dp
                                              F =                                             0.2
                                     dt
-                                             
+
                                            v2       v2
                                
             V ·e   d  m · v  m · a 1 − c2 + m · a c2
-          →      =      q         =              3    = γ3 · m · a                          0.4
+          →      =      q         =               3    = γ3 · m · a                          0.4
              d     dt        v2
                          1 − c2
-                                       
+
                                                2  2
                                          1 − vc2
-                                                            3
+                                                             3
                                                          ṡ2 2
-                                                      
+
                                              V ·e
                                     a = s̈ =           1− 2                                  0.3
                                              d·m         c
                      p
      Ansatz : s(t) =    i2 · t2 + k − l with boundary conditions s(0) = 0, v(0) = 0          0.1
-                              c p 2                                        
+                              c  p 2
                  → s(t) =            e · V 2 · t2 + c2 · m2 · d2 − c · m · d                 0.2
                             V ·e
-                                           s
+                                           s
                                                  V ·e 2
-                                                      
+
                                         d
                       s=d→T =                             + 2V · e · m                       0.2
                                       V ·e         c
@@ -453,7 +469,9 @@ Alternative: differential equation                                              
 
 
                                                   9
-classical solution:                                               [0.4]
+
+
+classical solution:                                               [0.4]
 
                             V ·e                    F    V ·e
                       F =        → acceleration a =    =          0.1
@@ -473,7 +491,9 @@ And hence for the time                     r
 
 
                                           10
-Part B. Particle identification (4 points)
+
+
+Part B. Particle identification (4 points)
 
 
   B1 (0.8 pt) Express the particle rest mass m in terms of the momentum p, the flight
@@ -524,8 +544,8 @@ And hence for the time                     r
                                                m2 · c2 + p2
                                           t=l                                                   0.2
                                                  c·p
-  → mass:                      s         2
-                                    p·t             p 2       p
+  → mass:                      s           2
+                                    p·t              p  2       p
                                                                      q
                          m=                    −             =        (t · c)2 − (l)2           0.3
                                      l              c          l·c
@@ -540,7 +560,9 @@ And hence for the time                     r
 
 
                                                         11
-B2 (0.7 pt) Calculate the minimal length of a ToF detector that allows to safely distin-
+
+
+B2 (0.7 pt) Calculate the minimal length of a ToF detector that allows to safely distin-
 guish a charged kaon from a charged pion given both their momenta are measured to be
 1.00 GeV/c. For a good separation it is required that the difference in the time-of-flight
 is larger than three times the time resolution of the detector. The typical resolution of a
@@ -588,7 +610,9 @@ Penalty for < 2 or > 4 significant digits                                       
 
 
                                                12
-B3 (1.7 pt) Express the particle mass as a function of the magnetic flux density B, the
+
+
+B3 (1.7 pt) Express the particle mass as a function of the magnetic flux density B, the
 radius R of the ToF tube, fundamental constants and the measured quantities: radius r
 of the track and time-of-flight t.
 
@@ -616,8 +640,8 @@ longitudinal momentum=0 → p = pT                                              
 
 momentum
                                      p=e·r·B                                               0.1
-                  s                        v                !2  
-                           2             u
+                  s                         v                !2
+                            2               u
                        p·t     p  2         u       t            1 2
              m=              −      =e·r·B· t
                                                         R
@@ -645,7 +669,9 @@ partial points for intermediate steps, maximum 0.3
 
 
                                                13
-B4 (0.8 pt) Identify the four particles by calculating their mass.
+
+
+B4 (0.8 pt) Identify the four particles by calculating their mass.
 
                           Particle       Radius r [m]        Time of flight [ns]
                             A               5.10                    20

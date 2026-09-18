@@ -25,7 +25,7 @@ techniques: []
 
 Question 2
 A large truck breaks down out on the road and receives assistance from a small compact car as shown in the figure below.
-![](aupho-2017-q2-fig01.png)
+![](../../figures/aupho/figures/aupho-2017-q2-fig01.png)
 
 The car driver attempts to push the truck with the car. Unfortunately, the truck driver has left the brakes on the truck, and neither vehicle moves. Why does the truck not move?
 

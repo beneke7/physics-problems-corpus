@@ -30,7 +30,7 @@ A reconnaissance spacecraft of the well developed civilization plows the univers
 ## 1. Planets with strange shapes (3.9 points)
 
 At some distance from the spacecraft the crew captain discovers the first planet that has a strange shape of a parallelepiped with a square base of side $a$ and a very small thickness $h \ll a$. The captain gives the order to pursue a course to planet's center as shown in the figure below.
-![](izho-2017-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2017-t-q2-fig01.png)
 
 It has been revealed after turning off the engine that the spacecraft acceleration of the free fall $g$, that the planet provides at distances much greater $h$, remains proportional to the solid angle $\Omega$, at which the planet is seen from the spacecraft, that is:
 
@@ -46,7 +46,7 @@ $$
 \Omega=\frac{S}{R^{2}} .
 $$
 
-![](izho-2017-t-q2-fig02.png)
+![](../../figures/izho/figures/izho-2017-t-q2-fig02.png)
 
 Solid angles are measured by abstract dimensionless quantities. The unit of the solid angle is a steradian, which, in SI units, is equal to the solid angle cutting out the surface area of $R^{2}$ from the sphere of radius $R$. The whole sphere corresponds to the solid angle of $4 \pi$ steradian (full solid angle) from any vertex, situated inside the sphere, in particular, for the center of the sphere.
 
@@ -63,7 +63,7 @@ The spacecraft has left the pyramidal planet from its top, starting with the cha
 ## 2. Dusty cloud (6.1 points)
 
 The spacecraft encounters a very large massive dust cloud of radius $R=1,50 \times 10^{7} \mathrm{~km}$ and of homogeneous density $\rho_{4}=50,0 \mathrm{~kg} / \mathrm{m}^{3}$. The speed of the spacecraft at a large distance from the cloud reaches the value of $v_{\infty}=100 k m / s$, and the impact parameter measured from the cloud center is equal to $b=1,50 \times 10^{8} k m$. The engine remains switched off.
-![](izho-2017-t-q2-fig03.png)
+![](../../figures/izho/figures/izho-2017-t-q2-fig03.png)
 2.1 [2.5 points] Find and calculate the coordinate of the spacecraft entry into the dust cloud, characterized by the angle $\theta$.
 2.2 [2.0 points] Find and calculate the minimum distance $r_{\text {min }}$, the spacecraft flies by from the cloud center. Resistance to the motion of the spacecraft caused by the cloud particles can be neglected.
 

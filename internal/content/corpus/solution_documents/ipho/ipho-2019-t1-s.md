@@ -69,7 +69,9 @@ when the spring is stretched
             𝐻 = 𝑙0 + ∫ 𝑑𝑙 = 𝑙0 +    | = 𝑙0 +     (𝐿0 − 𝑙0 ) =    + = (𝛼 + )⁡
                       𝑙0         2𝑙0 𝑙       2𝑙0              2𝑙0 2  2   𝛼
                           𝑙0                         0
-    Theory IPhO 2019                                                                      Q1-1
+
+
+    Theory IPhO 2019                                                                      Q1-1
                                                                                     S1-2
 Part B: Dynamics
                                           𝑙2   𝑙
@@ -121,7 +123,9 @@ stationary section of the spring. Thus, the moving top section experiences a con
 𝑀𝑔 throughout its whole fall. Another way to see that, is that a total force of 𝑀𝑔 is exerted on
 the spring, but only the moving part experiences it. Let’s calculate the position of the center of
 mass at equilibrium of the upper part, i.e., all points with 𝑙 ′ > 𝑙 for some 𝑙 > 𝑙0 . From part A,
-       Theory IPhO 2019                                                                                         Q1-1
+
+
+       Theory IPhO 2019                                                                                         Q1-1
                                                                                                           S1-3
                                                                                        𝑙′2
 the position of a small portion l ' with coordinate l ' is: 𝐻(𝑙 ′ ) = 2𝑙 + 20 and the center of
@@ -184,7 +188,9 @@ decreases to          of the initial value when 𝑙 = 𝑙0 .
 B.3. Note that even though the center of mass of the spring accelerates downwards constantly,
 the moving top section actually decelerates, while the position of the center of mass moves
 down the spring. The speed of the top section 𝑣(𝑙), calculated in Task B2, decreases and
-       Theory IPhO 2019                                                                   Q1-1
+
+
+       Theory IPhO 2019                                                                   Q1-1
                                                                                        S1-4
 approaches the value √𝐴𝛼𝐿0 + 𝐵 immediately before it attaches to the bottom section of
 height 𝑙0 = 𝛼𝐿0 , which was unstretched and at rest. Once the moving top section attaches to

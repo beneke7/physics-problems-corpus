@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-A flight operated by the United Airlines, UA425 passed right in front of the Sun when Andrew McCarthy, a well-known American astrophotographer, took the attached picture. Estimate the distance between the plane and the photographer's camera! 
+A flight operated by the United Airlines, UA425 passed right in front of the Sun when Andrew McCarthy, a well-known American astrophotographer, took the attached picture. Estimate the distance between the plane and the photographer's camera!
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G749-fig1.gif)
+![figure](../../figures/komal/figures/komal-G749-fig1.gif)

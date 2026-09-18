@@ -31,13 +31,13 @@ kq
 L2
 which tells us that Q ∼ (ℓ/L)2q. The force on the induced charges is then
 F ∼ kqQ
-
+
 1
 (L + ℓ)2
 −
 1
 L2
-
+
 ∼ −
 kqQℓ
 L3
@@ -71,13 +71,13 @@ L3
 .
 The force is attractive, and by Coulomb’s law,
 F ∼ kqQ
-
+
 1
 L2
 −
 L
 (L2 + r2)3/2
-
+
 ∼
 kq2r5
 L7

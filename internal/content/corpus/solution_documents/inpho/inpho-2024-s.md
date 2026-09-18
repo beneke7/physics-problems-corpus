@@ -85,7 +85,9 @@ Instructions                                                  Roll No.:
                       Question Number      1   2    3    4      5    6    Total
 
                        Maximum Marks       8   18   14   11     18   11    80
-Page 2      INPhO 2024                    Questions              Last four digits of Roll No.:
+
+
+Page 2      INPhO 2024                    Questions              Last four digits of Roll No.:
 
 1. [8 marks] An electrifying experiment
    Professor Coulomb was investigating how the magnitude of the force (|F⃗ |) between two charged
@@ -151,7 +153,9 @@ Instructions                                                  Roll No.:
                           d
 
                       Experiment 4
-Page 3       INPhO 2024                     Questions
+
+
+Page 3       INPhO 2024                     Questions
 
 2. A Potpourri of Prism Problems
    (a) [7 marks] In the most common method to determine the angle of minimum deviation by a
@@ -220,7 +224,9 @@ Instructions                                                  Roll No.:
 
               5. In a similar manner looking from the left side, align the 4th pin labeled as Q’ on
                  the right side, such that pins at P, P’, Q, and Q’ appear collinear.
-Page 4     INPhO 2024                     Questions             Last four digits of Roll No.:
+
+
+Page 4     INPhO 2024                     Questions             Last four digits of Roll No.:
 
 
             6. Observe the incident, refracted, and emergent rays formed by the pin’s positions
@@ -281,7 +287,9 @@ Instructions                                                  Roll No.:
    (c) [1.5 marks] Now an object, shaped like the letter "P" as illustrated in the left ﬁgure below,
        is held in front of the face ABED of the prism, placed on a table (x-y plane). The corre-
        sponding top view of this conﬁguration is also presented in the right ﬁgure below.
-Page 5       INPhO 2024                    Questions
+
+
+Page 5       INPhO 2024                    Questions
 
 
                                      z
@@ -346,7 +354,9 @@ Instructions                                                  Roll No.:
          to achieve this resultant image?
          Provide your answer in terms of the coordinates of the vertices of the prism A’B’C’D’E’F’,
          taking vertex D of the ﬁrst prism as the origin. Additionally, specify that to view such an
-Page 6       INPhO 2024                   Questions           Last four digits of Roll No.:
+
+
+Page 6       INPhO 2024                   Questions           Last four digits of Roll No.:
 
          image, the viewer should be facing which particular face of the prism.
          Hint: The position of the second prism is such that any one of the parts (such as at least
@@ -379,7 +389,9 @@ Instructions                                                  Roll No.:
           E’: (0, 0, √2)
           B’: (0, 1, 2)
           Alternate conﬁguration, leading to the correct image are equally credited.
-Page 7       INPhO 2024                          Questions
+
+
+Page 7       INPhO 2024                          Questions
 
    (e) [3 marks] In a spectrograph, two equilateral prisms denoted as 1 and 2 with refractive
        indices µ1 = 1.50 and µ2 = 1.68, respectively, are placed one after another (see the ﬁgure
@@ -460,7 +472,9 @@ Instructions                                                  Roll No.:
           the second prism is δ2 ., then
                                                            A + δ1 = 2i1                             (2.9)
                                                            A + δ2 = 2i′1                          (2.10)
-Page 8       INPhO 2024                      Questions                  Last four digits of Roll No.:
+
+
+Page 8       INPhO 2024                      Questions                  Last four digits of Roll No.:
 
 
           The total deviation produced by two prisms is
@@ -512,7 +526,9 @@ Instructions                                                  Roll No.:
                                                               r0
                                                  r=
                                                          (1 − e cos θ)
-Page 9       INPhO 2024                    Questions
+
+
+Page 9       INPhO 2024                    Questions
 
          where e is eccentricity of the orbit (0 < e < 1) and r0 is called the latus rectum.
          The velocity ⃗v of the satellite in polar coordinates can be written as
@@ -529,7 +545,9 @@ Instructions                                                  Roll No.:
                                                         E
                                   CS
             HB
-Page 10      INPhO 2024                     Questions               Last four digits of Roll No.:
+
+
+Page 10      INPhO 2024                     Questions               Last four digits of Roll No.:
 
 
  Solution: It is given that
@@ -609,7 +627,9 @@ We know that
                                                       GM (1 − e)
                                           va =                                                      (3.14)
                                                        a (1 + e)
-Page 11       INPhO 2024                      Questions
+
+
+Page 11       INPhO 2024                      Questions
 
 
  Hence the conserved angular momentum can be written as
@@ -707,7 +727,9 @@ We know that
                                                                                                (3.22)
                               a(1 − e )
                                      2                a(1 + e)
-Page 12      INPhO 2024                     Questions            Last four digits of Roll No.:
+
+
+Page 12      INPhO 2024                     Questions            Last four digits of Roll No.:
 
 
 
@@ -783,7 +805,9 @@ where v 2 = vr2 + vt2 . Substituting the value of vr and vt in the above equatio
                                          GM m(1 + e2 − 2e cos θ)
                                   KE =                                                           (3.29)
                                               2a(1 − e2 )
-Page 13      INPhO 2024                  Questions
+
+
+Page 13      INPhO 2024                  Questions
 
 
           For θ = 0, KE = KEmin = GM m(1−e)                            GM m(1+e)
@@ -845,7 +869,9 @@ given by ra = 36500km + RE and i.e. a = 6371 + (200+36500)km
                                                       ra
                                               vp = va                                      (3.35)
                                                       rp
-Page 14       INPhO 2024                   Questions                   Last four digits of Roll No.:
+
+
+Page 14       INPhO 2024                   Questions                   Last four digits of Roll No.:
 
 
  Substituting the above equation into the energy conservation equation, we get
@@ -929,7 +955,9 @@ given by ra = 36500km + RE and i.e. a = 6371 + (200+36500)km
 
  Solution: Let the apogee distance be rma = Rm +1437 km and perigee distance be rmp = Rm +100
  km The velocity of the satellite at perigee, when it is in the elliptic orbit, is vmp and the velocity
-Page 15     INPhO 2024                     Questions
+
+
+Page 15     INPhO 2024                     Questions
 
 
 when it is in the circular orbit is vm we know that
@@ -1002,7 +1030,9 @@ The boost required ∆v ′
 
    (a) [5 marks] Obtain x(t), the position of the bottom edge of the loop at time t, in terms of
        relevant variables.
-Page 16      INPhO 2024                   Questions                  Last four digits of Roll No.:
+
+
+Page 16      INPhO 2024                   Questions                  Last four digits of Roll No.:
 
 
           Solution:
@@ -1087,7 +1117,9 @@ The boost required ∆v ′
                                                   ω02
 
           The frequency of the oscillation is inversely proportional to m, and the amplitude increases
-Page 17      INPhO 2024                    Questions
+
+
+Page 17      INPhO 2024                    Questions
 
 
           with m. When the loop oscillates, the amplitude is
@@ -1144,7 +1176,9 @@ The boost required ∆v ′
                                           M v12 + M v22 + Cv T = Cv T0                            (5.1)
                                         2        2
           Also from conservation momentum, we have v2 = −v1 = v.
-Page 18        INPhO 2024                    Questions                  Last four digits of Roll No.:
+
+
+Page 18        INPhO 2024                    Questions                  Last four digits of Roll No.:
 
 
             From above equation, we get
@@ -1228,7 +1262,9 @@ The boost required ∆v ′
                          T0 L 0      dT                   T0 L 0                   Cv
                                         + T (γ − 1)                           2       (T0 − T ) = 0     (5.13)
                              T       dt                       T                    M
-Page 19      INPhO 2024                          Questions
+
+
+Page 19      INPhO 2024                          Questions
 
 
           For Mono atomic gas γ = 5/3, hence above equation becomes
@@ -1298,7 +1334,9 @@ The boost required ∆v ′
           Using above equation, for n = 1 moles and L0 = 1 m, the temperature reaches 20K after
           0.232s.
           From Eq. (5.4) The piston’s velocity at this point is 132.1 m/s.
-Page 20      INPhO 2024                   Questions              Last four digits of Roll No.:
+
+
+Page 20      INPhO 2024                   Questions              Last four digits of Roll No.:
 
 
 
@@ -1397,7 +1435,9 @@ The boost required ∆v ′
 
           Here, A = πd2 /4 represents the area of the base, and n is an odd integer representing the
           fundamental, third, ﬁfth harmonics, and so on.
-Page 21         INPhO 2024               Questions
+
+
+Page 21         INPhO 2024               Questions
 
    (b) [8 marks] Choose a pair of suitable variables and plot a linear graph. Specify the axis labels.
        Obtain the speed of sound cs and the rate Q from this plot.
@@ -1505,7 +1545,9 @@ The boost required ∆v ′
           becomes evident that these two lines correspond to n = 1 and n = 3. The intercept and
           slope of the graph can be used to determine the speed of sound and the rate of water
           ﬁlling, respectively.
-Page 22       INPhO 2024               Questions    Last four digits of Roll No.:
+
+
+Page 22       INPhO 2024               Questions    Last four digits of Roll No.:
 
 
 
@@ -1540,7 +1582,9 @@ The boost required ∆v ′
 
 
                   HB  **** END OF THE QUESTION PAPER ****
-Page 23   INPhO 2024       Questions
+
+
+Page 23   INPhO 2024       Questions
 
      Space for rough work — will NOT be submitted for evaluation
 

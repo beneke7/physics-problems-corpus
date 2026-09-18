@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy]
 ---
 
-The size of the body of a child in each (linear) direction doubles in a few years. How does the pressure exerted by its feet on the ground changes? (Assume that the density of the child does not change as it grows.) 
+The size of the body of a child in each (linear) direction doubles in a few years. How does the pressure exerted by its feet on the ground changes? (Assume that the density of the child does not change as it grows.)
  (3 pont)

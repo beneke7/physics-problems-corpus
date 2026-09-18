@@ -26,16 +26,16 @@ techniques: [conservation-laws]
 ## Question 7
 
 A ball is held at a height $H$ above a floor, as sketched in the diagram on the right. It is then released and falls to the floor. If air resistance can be ignored, which of the five graphs below (labelled a. to e. beneath each graph) correctly gives the mechanical energy $E_{\text {mech }}$ of the Earth-ball system as a function of the altitude $y$ of the ball?
-![](aupho-2016-q7-fig01.png)
+![](../../figures/aupho/figures/aupho-2016-q7-fig01.png)
 
 $E_{\text {mech }}$
 
 a.
-![](aupho-2016-q7-fig02.png)
-![](aupho-2016-q7-fig03.png)
+![](../../figures/aupho/figures/aupho-2016-q7-fig02.png)
+![](../../figures/aupho/figures/aupho-2016-q7-fig03.png)
 
-![](aupho-2016-q7-fig04.png)
+![](../../figures/aupho/figures/aupho-2016-q7-fig04.png)
 d.
 
-![](aupho-2016-q7-fig05.png)
+![](../../figures/aupho/figures/aupho-2016-q7-fig05.png)
 e.

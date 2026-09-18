@@ -62,7 +62,8 @@ d)     < ∆p 2 >= η2ω 02 / c 2 ≈ 10 −54 kg 2 m 2 / s 2 - this is the mean
 e)     Assume that the steady state value of the average square of the momentum of atom
        equals P02 . In steady state regime this quantity doesn’t change with time, and
        temperature is obtained according to 3k BTd / 2 = P02 /( 2m) . Let the momentum at some
-     7th Asian Physics Olympiad                                                   Theoretical Question 1 /Solutions   Page 2/3
+
+     7th Asian Physics Olympiad                                                   Theoretical Question 1 /Solutions   Page 2/3
 
        point of time in steady state regime be P0 . Let’s consider the value of the
        momentum after some time t. During this time the atom will participate in
@@ -86,7 +87,8 @@ e)     Assume that the steady state value of the average square of the momentum 
                                                           γ          2|δ |
 
 f)     The minimum is achieved for δ = −γ / 2 , and equals ηγ /(2k B ) = 2.4 ⋅10 −4 K
- 7th Asian Physics Olympiad                            Theoretical Question 1 /Solutions   Page 3/3
+
+ 7th Asian Physics Olympiad                            Theoretical Question 1 /Solutions   Page 3/3
 
 
 

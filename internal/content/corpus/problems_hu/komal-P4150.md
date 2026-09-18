@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4150. Síkkondenzátor egyik felét $_{1}$, másik felét $_{2}$ permittivitású szigetelővel töltjük ki, egyszer az  a ), másszor a b ) ábra szerint. Melyik esetben lesz nagyobb a kondenzátor kapacitása?
 
-![figure](../../raw_html/komal_figures/komal-P4150-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4150-fig1.gif)

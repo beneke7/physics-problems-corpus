@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 641. Az ábrán látható csigasorban a csigák tömege 1 kg. Mekkora $F$ erő szükséges ahhoz, hogy a ketreccel együtt 9 kg tömegű majmot egyensúlyban tartsuk?
 
-![figure](../../raw_html/komal_figures/komal-G641-fig1.gif)
+![figure](../../figures/komal/figures/komal-G641-fig1.gif)

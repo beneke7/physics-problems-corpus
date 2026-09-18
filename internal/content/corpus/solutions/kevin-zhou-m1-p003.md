@@ -186,6 +186,6 @@ The oscillation is slightly slowed down, and the frequency has an imaginary part
 exponential decay. The general solution is
 x(t) = e−bt/(2m)
 (C cos(ωdt) + Dsin(ωdt)).
-[3] Problem 6.  m 1 0USAPhO 2012, problem B1.
+[3] Problem 6.   m 1 0USAPhO 2012, problem B1.
 6
 Kevin Zhou Physics Olympiad Handouts

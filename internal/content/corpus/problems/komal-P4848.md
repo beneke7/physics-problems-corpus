@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization, limiting-and-special-cases]
 ---
 
-A cart can move frictionlessly along a long inclined plane. The cart is given an initial velocity parallel to the slope, and then a bit later it is suddenly stopped. At most how long did the motion of the cart last, if during the last second of the motion it moved half of the distance covered during the whole motion? 
+A cart can move frictionlessly along a long inclined plane. The cart is given an initial velocity parallel to the slope, and then a bit later it is suddenly stopped. At most how long did the motion of the cart last, if during the last second of the motion it moved half of the distance covered during the whole motion?
  (5 pont)

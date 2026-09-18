@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű és $2 l$ hosszú rúd jégen csúszik. Tömegközéppontjának sebessége $v$, szögsebessége $\omega$. Abban a pillanatban, amikor a tömegközéppont sebessége merőleges a rúdra, a rúd egyik végével nekicsapódik egy nyugvó oszlopnak. Mekkora a rúd tömegközéppontjának sebessége az ütközés után, ha (a) az ütközés tökéletesen rugalmatlan, vagyis az oszlopot érő vég megáll; (b) az ütközés tökéletesen rugalmas?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr45-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr45-fig1.jpg)

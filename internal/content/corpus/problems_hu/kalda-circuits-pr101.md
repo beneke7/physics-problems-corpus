@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az ábrán látható áramkör valamennyi sajátfrekvenciáját. Feltehetjük, hogy minden kondenzátor és induktivitás ideális, továbbá a következő erős egyenlőtlenségek teljesülnek: $C_{1}\ll C_{2}$ és $L_{1}\ll L_{2}$. A válaszokat ezeknek az erős egyenlőtlenségeknek megfelelően egyszerűsítsük.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr101-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr101-fig1.jpg)

@@ -9,8 +9,8 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 890. Tegyük fel, hogy $+Q$ töltés van a Föld felszínén, és ugyancsak $+Q$ töltés van a Hold felszínén egyenletes eloszlásban. 
+G. 890. Tegyük fel, hogy $+Q$ töltés van a Föld felszínén, és ugyancsak $+Q$ töltés van a Hold felszínén egyenletes eloszlásban.
 
- a) Számítsuk ki, hogy mekkora $Q$ töltésre lenne szükség ahhoz, hogy ezek elektrosztatikus taszítása kiegyensúlyozza a Föld és a Hold közötti gravitációs vonzást! 
+ a) Számítsuk ki, hogy mekkora $Q$ töltésre lenne szükség ahhoz, hogy ezek elektrosztatikus taszítása kiegyensúlyozza a Föld és a Hold közötti gravitációs vonzást!
 
  b) Feltéve, hogy a Hold és a Föld távolsága felére csökken, hogyan változna meg a gravitációt kiegyenlítő $Q$ töltés nagysága?

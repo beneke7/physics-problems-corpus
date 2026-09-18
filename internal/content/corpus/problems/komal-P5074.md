@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-Each side of a regular hexagon consists of a piece of wire of resistance $R$. From one of the vertices of the hexagon there are wires leading diagonally to the other three not adjacent vertices of the hexagon. These wires are made of the same type of material as the wires of the sides. What is the equivalent resistance between this vertex and the opposite one? 
+Each side of a regular hexagon consists of a piece of wire of resistance $R$. From one of the vertices of the hexagon there are wires leading diagonally to the other three not adjacent vertices of the hexagon. These wires are made of the same type of material as the wires of the sides. What is the equivalent resistance between this vertex and the opposite one?
  (4 pont)

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-The following two photos were taken of the same car, at the same time. In the first photo the car was photographed through a curtain and in the second without the curtain. The car was at a distance of 20 metres from the curtain. 
+The following two photos were taken of the same car, at the same time. In the first photo the car was photographed through a curtain and in the second without the curtain. The car was at a distance of 20 metres from the curtain.
 
- How densely woven could the curtain be? 
+ How densely woven could the curtain be?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5361-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5361-fig1.gif)

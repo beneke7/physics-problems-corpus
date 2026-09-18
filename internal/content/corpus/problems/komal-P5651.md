@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, graphical-reduction]
 ---
 
-Each side of an insulated equilateral triangle-shaped sheet with uniform surface charge density $\sigma$ has a length of $\sqrt{2}a$. What is the value of the electric field strength at the point which is at a distance of $a$ from each vertex? 
+Each side of an insulated equilateral triangle-shaped sheet with uniform surface charge density $\sigma$ has a length of $\sqrt{2}a$. What is the value of the electric field strength at the point which is at a distance of $a$ from each vertex?
  (6 pont)

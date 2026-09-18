@@ -20,10 +20,10 @@ approximation of small angles are its own oscillations (modes), so they can be c
 each other.
        In the small angle approximation, the periods of these oscillations are given by the formulas
                                                                               𝐿𝐿
-                                                              𝑇𝑇0 = 2𝜋𝜋� ,                                                 (1)
+                                                              𝑇𝑇0 = 2𝜋𝜋  ,                                                 (1)
                                                                               𝑔𝑔
                                                                                   4𝐿𝐿𝐿𝐿
-                                                              𝑇𝑇1 = 2𝜋𝜋�                    ,                              (2)
+                                                              𝑇𝑇1 = 2𝜋𝜋                     ,                              (2)
                                                                               𝑚𝑚𝑚𝑚𝑎𝑎 2
 where 𝑚𝑚 = 𝑚𝑚0 + 2𝑚𝑚1 is the total mass of the pendulum, 𝑚𝑚0 refers to the rod mass, 𝑚𝑚1 stands for the nut
                𝑚𝑚 𝑙𝑙2
@@ -45,27 +45,27 @@ figure below.
                                                          𝑙𝑙
                             𝑥𝑥 = 𝐿𝐿 sin 𝛼𝛼 + cos 𝛽𝛽
                                             2
-                        �                 𝑙𝑙
+                                          𝑙𝑙
                                                                       .                                            (3)
                                  𝑦𝑦 = 2 sin 𝛽𝛽
        In the approximation of small angles 𝛼𝛼, 𝛽𝛽 ≪ 1 we have
                                                𝑙𝑙
                             𝑥𝑥 ≈ 𝐿𝐿𝐿𝐿 +
                                            2
-                        �          𝑙𝑙
+                                   𝑙𝑙
                                                     .                                                              (4)
                               𝑦𝑦 ≈ 2 𝛽𝛽
          Since the angles 𝛼𝛼, 𝛽𝛽 change according to a harmonic law with frequencies 𝜔𝜔0 = 2𝜋𝜋/𝑇𝑇0 and 𝜔𝜔1 =
 2𝜋𝜋/𝑇𝑇1 , respectively, the equation for the trajectory of the rod end has the form
                                                                                                      𝑙𝑙
                                                                   𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 + 2
-                                                              �                    𝑙𝑙
+                                                                                   𝑙𝑙
                                                                                                           ,                (5)
                                                                     𝑦𝑦(𝑡𝑡) = 2 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin 𝜔𝜔1 𝑡𝑡
 which for close frequencies can be conveniently rewritten in the form
                                                                                                               𝑙𝑙
                                                                           𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 + 2
-                                                              �            𝑙𝑙
+                                                                           𝑙𝑙
                                                                                                                  .         (6)
                                                                   𝑦𝑦(𝑡𝑡) = 2 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin(𝜔𝜔0 𝑡𝑡 + (𝜔𝜔1 −𝜔𝜔0 )𝑡𝑡)
 In the expression 𝑦𝑦(𝑡𝑡) for close frequencies, the value ∆𝜑𝜑 = (𝜔𝜔1 −𝜔𝜔0 )𝑡𝑡 can be considered as a slowly varying
@@ -82,7 +82,9 @@ which provides
                                         𝑁𝑁𝐶𝐶 = 𝑇𝑇𝐶𝐶 = |𝑇𝑇 −𝑇𝑇 |
                                                                .                                                           (9)
                                                                           0             0       1
-XV International Zhautykov Olimpiad/Experimental Competition                                                  с. 2/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                                  с. 2/7
 
 
                                      Part 2. Longitudinal oscillations
@@ -101,13 +103,13 @@ Table 1. Measuring the period of longitudinal oscillations.
                               The random error is calculated using the formula
             5      26,46
                                                                       2
-                                             ∑10 �𝑡𝑡      −〈𝑡𝑡20 〉�
-            6      26,41      ∆𝑡𝑡2 = 2� 𝑖𝑖=1 20,𝑖𝑖                        = 6.5 ∙ 10−2 s.
+                                             ∑10  𝑡𝑡      −〈𝑡𝑡20 〉
+            6      26,41      ∆𝑡𝑡2 = 2  𝑖𝑖=1 20,𝑖𝑖                        = 6.5 ∙ 10−2 s.
                                                   𝑛𝑛(𝑛𝑛−1)
             7      26,34
                               The total time measurement error is
             8      26,22
-                              ∆𝑡𝑡 = �∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 s.
+                              ∆𝑡𝑡 =  ∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 s.
             9      26,55
            10      26,53
 
@@ -137,7 +139,9 @@ oscillations as a function of the distance between the threads.
     24,0        11,98     1,198    3,1781          0,1807
 
            The corresponding dependence graph looks like
-XV International Zhautykov Olimpiad/Experimental Competition                                               с. 3/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                               с. 3/7
 
 
                                            7
@@ -199,7 +203,9 @@ Table 3. Measurements of the period of torsional oscillations.
       8     46,83      2,342      64           5,483   314,3
       9     47,87      2,394      81           5,729   328,5
      10     49,17      2,459      100          6,044   346,5
-XV International Zhautykov Olimpiad/Experimental Competition                                                                           с. 4/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                                                           с. 4/7
 
     11       50,84   2,542        121         6,462          370,5
     12       52,15   2,608        144         6,799          389,8
@@ -241,10 +247,10 @@ period of torsional oscillations is described by the formula
                                                                     0              𝑎𝑎
 whose linearization is obvious and has the form
                                                                          𝑇𝑇    2
-                                                                   �𝑎𝑎 𝑇𝑇1 � = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                            (13)
+                                                                    𝑎𝑎 𝑇𝑇1   = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                            (13)
                                                                           0
                              𝑇𝑇   2
-         The value 𝑈𝑈 = �𝑎𝑎 𝑇𝑇1 � depends linearly on 𝑧𝑧 2 , and the graph of the linearized dependence is shown in
+         The value 𝑈𝑈 =  𝑎𝑎 𝑇𝑇1   depends linearly on 𝑧𝑧 2 , and the graph of the linearized dependence is shown in
                               0
 the figure below.
                                             500
@@ -275,7 +281,9 @@ the figure below.
 3.5 The coefficients of this dependence, calculated using the least squares method, are equal to
                                               𝐴𝐴 = (254 ± 4) cm2,                                                                       (14)
                                               𝐵𝐵 = 0.93 ± 0.03.                                                                         (15)
-XV International Zhautykov Olimpiad/Experimental Competition                                                     с. 5/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                                     с. 5/7
 
                                           Part 4. Mixed oscillations
 4.1, 4.2 Table 4 shows the results of measurements and calculations necessary to verify the theoretical formula
@@ -300,7 +308,7 @@ In this table 𝑇𝑇1 stands for values of torsional oscillation periods calcu
 to the calculated and measured values of the number of periods in the cycle.
 4.3 To check formula (9), a graph is drawn of the dependence of the quantity reciprocal to the number of
               1                𝑇𝑇                                                   1     𝑇𝑇
-oscillations 𝑁𝑁 on the value 𝑇𝑇0 , which is theoretically described by the formula = �𝑇𝑇0 − 1�. A graph of this
+oscillations 𝑁𝑁 on the value 𝑇𝑇0 , which is theoretically described by the formula =  𝑇𝑇0 − 1 . A graph of this
               𝐶𝐶               1                                                                      𝑁𝑁𝐶𝐶   1
 dependence, constructed from the experimental data, is shown in the figure below.
                                     0,10
@@ -339,7 +347,9 @@ corroborates the theoretical conclusions.
             Expressions for coordinates on a plane through deflection angles            2х0,2=0,4
     1.2     Explicit time dependencies                                                  2х0,1=0,2                 0,8
             Small angle approximation                                                      0,2
-XV International Zhautykov Olimpiad/Experimental Competition                                            с. 6/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                            с. 6/7
 
            The main idea is the change in phase difference, formula (7);
                                                                                          0,5 (0,2)
@@ -405,7 +415,9 @@ corroborates the theoretical conclusions.
            Linearization is carried out (the squares of periods and distances are
     3.4                                                                                       0,3       1,0
            calculated)
-XV International Zhautykov Olimpiad/Experimental Competition                                          с. 7/7
+
+
+XV International Zhautykov Olimpiad/Experimental Competition                                          с. 7/7
 
            A graph of linearized dependence is plotted (the axes are labeled and
                                                                                        0,1+0,2+0,2=
@@ -443,7 +455,9 @@ corroborates the theoretical conclusions.
            A graph similar to the graph of the modulus number function is obtained           0,3
            Correct position of the minimum on the graph                                      0,1
            TOTAL                                                                                      20,0
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                  с. 1/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                  с. 1/7
 
                 ТӘЖІРИБЕЛІК САЙЫСТЫҢ ЕСЕПТЕРІНІҢ ШЕШІМІ
                         Тербелістердің суперпозициясы
@@ -452,10 +466,10 @@ corroborates the theoretical conclusions.
 тәуелсіз қарастырудың мүмкіндігі бар.
        Аз бұрыштар жуықтауында бұл тербелістердің периоды мынадай өрнектермен анықталады
                                                                       𝐿𝐿
-                                                  𝑇𝑇0 = 2𝜋𝜋� ,                                                    (1)
+                                                  𝑇𝑇0 = 2𝜋𝜋  ,                                                    (1)
                                                                       𝑔𝑔
                                                                           4𝐿𝐿𝐿𝐿
-                                                  𝑇𝑇1 = 2𝜋𝜋�                      ,                               (2)
+                                                  𝑇𝑇1 = 2𝜋𝜋                       ,                               (2)
                                                                       𝑚𝑚𝑚𝑚𝑎𝑎 2
                                                                                                              𝑚𝑚 𝑙𝑙2
 мұндағы 𝑚𝑚 = 𝑚𝑚0 + 2𝑚𝑚1 –маятник массасы, 𝑚𝑚0 –стержень массасы, 𝑚𝑚1 –гайка массасы, 𝐼𝐼 = 12
@@ -480,7 +494,7 @@ corroborates the theoretical conclusions.
                                                                  𝑙𝑙
                                             𝑥𝑥 = 𝐿𝐿 sin 𝛼𝛼 + cos 𝛽𝛽
                                                             2
-                                          .�            𝑙𝑙
+                                          .             𝑙𝑙
                                                                     .                                  (3)
                                                   𝑦𝑦 = sin 𝛽𝛽
                                                          2
@@ -488,7 +502,7 @@ corroborates the theoretical conclusions.
                                  𝑙𝑙
                    𝑥𝑥 ≈ 𝐿𝐿𝐿𝐿 +
                                  2
-               �          𝑙𝑙
+                          𝑙𝑙
                                       .                                                                (4)
                      𝑦𝑦 ≈ 𝛽𝛽
                           2
@@ -498,7 +512,7 @@ corroborates the theoretical conclusions.
                                                                                          𝑙𝑙
                                                       𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 +
                                                                                          2
-                                                  �                        𝑙𝑙
+                                                                           𝑙𝑙
                                                                                               ,                   (5)
                                                         𝑦𝑦(𝑡𝑡) = 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin 𝜔𝜔1 𝑡𝑡
                                                                            2
@@ -506,7 +520,7 @@ corroborates the theoretical conclusions.
                                                                                                   𝑙𝑙
                                                              𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 +
                                                                                                   2
-                                                  �           𝑙𝑙
+                                                              𝑙𝑙
                                                                                                    .              (6)
                                                       𝑦𝑦(𝑡𝑡) = 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin(𝜔𝜔0 𝑡𝑡 + (𝜔𝜔1 −𝜔𝜔0 )𝑡𝑡)
                                                                  2
@@ -520,7 +534,9 @@ corroborates the theoretical conclusions.
                                     𝑇𝑇𝐶𝐶 = |𝑇𝑇 0−𝑇𝑇1 |.                                           (8)
                                                              0        1
 1.4 Циклдағы қума тербелістердің санын мына түрде жазуға болады
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                      с. 2/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                      с. 2/7
 
                                                            𝑇𝑇           𝑇𝑇
                                                𝑁𝑁𝐶𝐶 = 𝑇𝑇𝐶𝐶 = |𝑇𝑇 −𝑇𝑇
@@ -546,14 +562,14 @@ corroborates the theoretical conclusions.
          4      26,40   ∆𝑡𝑡1 = 0.5 ∙ 10−3 c.
                         Кездейсоқ қателіктер мына өрнекпен есептелінеді
          5      26,46
-         6      26,41              ∑10 �𝑡𝑡     −〈𝑡𝑡   〉�
+         6      26,41              ∑10  𝑡𝑡     −〈𝑡𝑡   〉
                                                            2
-                        ∆𝑡𝑡2 = 2� 𝑖𝑖=1 𝑛𝑛(𝑛𝑛−1)
+                        ∆𝑡𝑡2 = 2  𝑖𝑖=1 𝑛𝑛(𝑛𝑛−1)
                                          20,𝑖𝑖  20
                                                                 = 6.5 ∙ 10−2 с.
          7      26,34
          8      26,22   Уаұытты өлшеудің толық қателігі
-         9      26,55   ∆𝑡𝑡 = �∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 с.
+         9      26,55   ∆𝑡𝑡 =  ∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 с.
 
         10     26,53
 
@@ -582,7 +598,9 @@ corroborates the theoretical conclusions.
                                         24,0          11,98          1,198       3,1781   0,1807
 
         Сәйкес тәуелділіктің графигі
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                              с. 3/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                              с. 3/7
 
 
                                    7
@@ -643,7 +661,9 @@ corroborates the theoretical conclusions.
                                       8     46,83        2,342      64         5,483        314,3
                                       9     47,87        2,394      81         5,729        328,5
                                      10     49,17        2,459      100        6,044        346,5
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                                          с. 4/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                                          с. 4/7
 
                                         11             50,84        2,542              121            6,462         370,5
                                         12             52,15        2,608              144            6,799         389,8
@@ -685,10 +705,10 @@ corroborates the theoretical conclusions.
                                                                0              𝑎𝑎
 Оны мына түрде линеаризациялайды
                                                                     𝑇𝑇    2
-                                                              �𝑎𝑎 𝑇𝑇1 � = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                                 (13)
+                                                               𝑎𝑎 𝑇𝑇1   = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                                 (13)
                                                                      0
                    𝑇𝑇   2
-      Яғни 𝑈𝑈 = �𝑎𝑎 𝑇𝑇1 � шамасы 𝑧𝑧 2 -тан сызықтық тәуелді, олай болса оның графигі төмендегідей
+      Яғни 𝑈𝑈 =  𝑎𝑎 𝑇𝑇1   шамасы 𝑧𝑧 2 -тан сызықтық тәуелді, олай болса оның графигі төмендегідей
                     0
 
                                       500
@@ -721,7 +741,9 @@ corroborates the theoretical conclusions.
                                           𝐵𝐵 = 0.93 ± 0.03.                                                                             (15)
 
                                                    4 бөлім. Аралас тербелістер.
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                          с. 5/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                          с. 5/7
 
 4.1, 4.2 Төмендегі 4 кестеде (9) теориялық өрнекті тексеруге өажетті есептеулердің нәтижелері
 келтірілген
@@ -747,7 +769,7 @@ corroborates the theoretical conclusions.
 4.3 Жоғарыдағы (9) өрнегін тексеру үшін       шамасының 𝑇𝑇0 шамасынан тәуелділігінің графигі
                                                                𝑁𝑁𝐶𝐶                          1
                                                         1             𝑇𝑇0
-тұрғызылған. Ол теориялық тұрғыдан                            = �𝑇𝑇 − 1� өрнегімен сипатталады. Бұл тәуелділіктің
+тұрғызылған. Ол теориялық тұрғыдан                            =  𝑇𝑇 − 1  өрнегімен сипатталады. Бұл тәуелділіктің
                                                        𝑁𝑁𝐶𝐶            1
 тәжірибелңк нәтижелер бойынша тұрғызылған тәуелділігі төмендегі суретте келтірілген.
                                  0,10
@@ -785,7 +807,9 @@ corroborates the theoretical conclusions.
          Негізгі идея – фазалар айырымының өзгерісі, (7) өрнек;
   1.3                                                                    0,5 (0,2)                                   1,3
          (егер соғу периоды болса)
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                           с. 6/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                           с. 6/7
 
         Цикл уақытының өрнегі (8)                                          0,5
          (8) өрнекте модуль белгіленген                                    0,3
@@ -850,7 +874,9 @@ corroborates the theoretical conclusions.
         Линеаризацияланған тәуелділіктің графигі тұрғызылғын
                                                                             =0,5
         Түзу сызық алынған                                                   0,2
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                             с. 7/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                             с. 7/7
 
         Егер 3.3-3.4 пункттері бағаланса
         Коэффициенттердің сандық мәні алынған                           2х0,4=0,8
@@ -884,7 +910,9 @@ corroborates the theoretical conclusions.
         Сан модулінің функциясының графигіне ұқсас график алынған          0,3
         График минимумының дұрыс орыны                                     0,1
         БАРЛЫҒЫ                                                                      20,0
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                         с. 1/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                         с. 1/7
 
                 РЕШЕНИЕ ЗАДАЧИ ЭКСПЕРИМЕНТАЛЬНОГО ТУРА
                           Суперпозиция колебаний
@@ -893,10 +921,10 @@ corroborates the theoretical conclusions.
 независимо друг от друга.
       В приближении малых углов периоды этих колебаний даются формулами
                                                                       𝐿𝐿
-                                                  𝑇𝑇0 = 2𝜋𝜋� ,                                                          (1)
+                                                  𝑇𝑇0 = 2𝜋𝜋  ,                                                          (1)
                                                                       𝑔𝑔
                                                                           4𝐿𝐿𝐿𝐿
-                                                  𝑇𝑇1 = 2𝜋𝜋�                      ,                                     (2)
+                                                  𝑇𝑇1 = 2𝜋𝜋                       ,                                     (2)
                                                                       𝑚𝑚𝑚𝑚𝑎𝑎 2
                                                                                                              𝑚𝑚 𝑙𝑙2
 где 𝑚𝑚 = 𝑚𝑚0 + 2𝑚𝑚1 – масса маятника, 𝑚𝑚0 – масса стержня, 𝑚𝑚1 – масса гайки, 𝐼𝐼 = 12
@@ -919,7 +947,7 @@ corroborates the theoretical conclusions.
                                                                  𝑙𝑙
                                             𝑥𝑥 = 𝐿𝐿 sin 𝛼𝛼 + cos 𝛽𝛽
                                                             2
-                                          .�            𝑙𝑙
+                                          .             𝑙𝑙
                                                                     .                                  (3)
                                                   𝑦𝑦 = sin 𝛽𝛽
                                                          2
@@ -927,7 +955,7 @@ corroborates the theoretical conclusions.
                                  𝑙𝑙
                    𝑥𝑥 ≈ 𝐿𝐿𝐿𝐿 +
                                  2
-               �          𝑙𝑙
+                          𝑙𝑙
                                       .                                                                (4)
                      𝑦𝑦 ≈ 𝛽𝛽
                           2
@@ -936,7 +964,7 @@ corroborates the theoretical conclusions.
                                                                                          𝑙𝑙
                                                       𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 +
                                                                                          2
-                                                  �                        𝑙𝑙
+                                                                           𝑙𝑙
                                                                                               ,                         (5)
                                                         𝑦𝑦(𝑡𝑡) = 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin 𝜔𝜔1 𝑡𝑡
                                                                            2
@@ -944,7 +972,7 @@ corroborates the theoretical conclusions.
                                                                                                   𝑙𝑙
                                                              𝑥𝑥(𝑡𝑡) = 𝐿𝐿𝛼𝛼𝑚𝑚𝑚𝑚𝑚𝑚 cos 𝜔𝜔0 𝑡𝑡 +
                                                                                                   2
-                                                  �           𝑙𝑙
+                                                              𝑙𝑙
                                                                                                    .                    (6)
                                                       𝑦𝑦(𝑡𝑡) = 𝛽𝛽𝑚𝑚𝑚𝑚𝑚𝑚 sin(𝜔𝜔0 𝑡𝑡 + (𝜔𝜔1 −𝜔𝜔0 )𝑡𝑡)
                                                                  2
@@ -958,7 +986,9 @@ corroborates the theoretical conclusions.
                                     𝑇𝑇𝐶𝐶 = |𝑇𝑇 0−𝑇𝑇1 |.                                          (8)
                                                              0        1
 1.4 Число колебаний продольных колебаний в цикле можно записать в виде
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                с. 2/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                с. 2/7
 
                                                                    𝑇𝑇         𝑇𝑇
                                                         𝑁𝑁𝐶𝐶 = 𝑇𝑇𝐶𝐶 = |𝑇𝑇 −𝑇𝑇
@@ -985,14 +1015,14 @@ corroborates the theoretical conclusions.
                            Случайная погрешность рассчитывается по формуле
           5      26,46
                                                                    2
-                                          ∑10 �𝑡𝑡      −〈𝑡𝑡   〉�
-          6      26,41     ∆𝑡𝑡2 = 2� 𝑖𝑖=1 𝑛𝑛(𝑛𝑛−1)
+                                          ∑10  𝑡𝑡      −〈𝑡𝑡   〉
+          6      26,41     ∆𝑡𝑡2 = 2  𝑖𝑖=1 𝑛𝑛(𝑛𝑛−1)
                                             20,𝑖𝑖  20
                                                                         = 6.5 ∙ 10−2 с.
           7      26,34
                            Полная погрешность измерения времени равна
           8      26,22
-                           ∆𝑡𝑡 = �∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 с.
+                           ∆𝑡𝑡 =  ∆𝑡𝑡12 + ∆𝑡𝑡22 = 0.066 с.
           9      26,55
          10      26,53
 
@@ -1022,7 +1052,9 @@ corroborates the theoretical conclusions.
    24,0        11,98     1,198   3,1781         0,1807
 
            Соответствующий график зависимости имеет вид
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                    с. 3/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                    с. 3/7
 
 
                                          7
@@ -1082,7 +1114,9 @@ corroborates the theoretical conclusions.
     6     44,58      2,229     36           4,968   284,9
     7     45,75      2,288     49           5,233   300,0
     8     46,83      2,342     64           5,483   314,3
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                                       с. 4/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                                       с. 4/7
 
   9      47,87   2,394   81             5,729            328,5
   10     49,17   2,459   100            6,044            346,5
@@ -1126,10 +1160,10 @@ corroborates the theoretical conclusions.
                                                                  0              𝑎𝑎
 линеаризация которой очевидна и имеет вид
                                                                       𝑇𝑇    2
-                                                                �𝑎𝑎 𝑇𝑇1 � = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                            (13)
+                                                                 𝑎𝑎 𝑇𝑇1   = 𝐴𝐴 + 𝐵𝐵𝑧𝑧 2 .                                            (13)
                                                                        0
                          𝑇𝑇    2
-       Величина 𝑈𝑈 = �𝑎𝑎 𝑇𝑇1 � линейно зависит от 𝑧𝑧 2 , а график линеаризованной зависимости показан
+       Величина 𝑈𝑈 =  𝑎𝑎 𝑇𝑇1   линейно зависит от 𝑧𝑧 2 , а график линеаризованной зависимости показан
                           0
 на рисунке ниже.
                                         500
@@ -1159,7 +1193,9 @@ corroborates the theoretical conclusions.
 
 3.5 Коэффициенты этой зависимости, рассчитанные по методу наименьших квадратов, равны
                                        𝐴𝐴 = (254 ± 4)см2,                                                                            (14)
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                        с. 5/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                                                        с. 5/7
 
                                                           𝐵𝐵 = 0.93 ± 0.03.                                           (15)
 
@@ -1186,7 +1222,7 @@ corroborates the theoretical conclusions.
 рассчитанные и измеренные значения числа периодов в цикле.
 4.3 Для проверки формулы (9) построен график зависимости величины обратной числу колебаний
  1                  𝑇𝑇                                                1    𝑇𝑇
-    от величины 𝑇𝑇0 , которая теоретически описывается формулой         = �𝑇𝑇0 − 1�. График этой
+    от величины 𝑇𝑇0 , которая теоретически описывается формулой         =  𝑇𝑇0 − 1 . График этой
 𝑁𝑁𝐶𝐶                     1                                                                               𝑁𝑁𝐶𝐶   1
 зависимости, построенный по экспериментальным данным, показан на рисунке ниже.
                                       0,10
@@ -1224,7 +1260,9 @@ corroborates the theoretical conclusions.
              Выражения для координат на плоскости через углы отклонения     2х0,2=0,4
        1.2                                                                                                           0,8
              Явные зависимости от времени                                   2х0,1=0,2
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                             с. 6/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                             с. 6/7
 
         Приближение малых углов                                                0,2
         Основная идея – изменение разности фаз, формула (7);
@@ -1292,7 +1330,9 @@ corroborates the theoretical conclusions.
         Нижняя граница диапазона не более 6,5 см                                0,2
         Верхняя граница диапазона не менее 14,0 см                              0,2
         Получена нелинейная зависимость выпуклость вниз                         0,1
-XX Международная Жаутыковская Олимпиада/Экспериментальный тур                        с. 7/7
+
+
+XX Международная Жаутыковская Олимпиада/Экспериментальный тур                        с. 7/7
 
         Построение графика (оси подписаны и оцифрованы, нанесены все
                                                                      0,1+0,2+0,2=

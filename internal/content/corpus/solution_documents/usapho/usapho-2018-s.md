@@ -58,7 +58,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam           Cover Sheet                                           2
+
+
+2018 USA Physics Olympiad Exam           Cover Sheet                                           2
 
 
 
@@ -95,18 +97,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                             G = 6.67 × 10−11 N · m2 /kg2
                                 9
-     k = 1/4π0 = 8.99 × 10 N · m /C  2 2     km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C  2 2     km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                       kB = 1.38 × 10−23 J/K
                        23
      NA = 6.02 × 10 (mol)       −1            R = NA kB = 8.31 J/(mol · K)
                      −8
      σ = 5.67 × 10 J/(s · m · K ) 2 4         e = 1.602 × 10−19 C
      1 eV = 1.602 × 10    −19 J               h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1            cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1            cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                  Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                 Part A                                               3
+
+
+2018 USA Physics Olympiad Exam                 Part A                                               3
 
 
 
@@ -157,7 +161,9 @@ Question A1
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam              Part A                                               4
+
+
+2018 USA Physics Olympiad Exam              Part A                                               4
 
 
 
@@ -201,7 +207,9 @@ Question A1
 
 
                  Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam               Part A                                             5
+
+
+2018 USA Physics Olympiad Exam               Part A                                             5
 
 
 
@@ -210,15 +218,15 @@ For this problem, graphical answers should be drawn on the answer sheets graphs
 provided. Supporting work is to be written on blank answer sheets. Incorrect graphs
 without supporting work will receive no partial credit.
    The current I as a function of voltage V for a certain electrical device is
-                                                                
+
                                  I = I0 e−qV0 /kB T eqV /kB T − 1
 
 where q is the magnitude of the charge on an electron, kB is Boltzmann’s constant, and T is the
 absolute temperature. I0 and V0 are non-zero positive constants. Throughout this problem assume
-low temperature values kB T  qV0 .
+low temperature values kB T   qV0 .
 
   a. On the answer sheets, sketch a graph of the current versus voltage for low temperature values
-     kB T  qV0 , clearly indicating any asymptotic behavior.
+     kB T   qV0 , clearly indicating any asymptotic behavior.
 
 
                                              Solution
@@ -226,7 +234,7 @@ low temperature values kB T  qV0 .
      The current is simply proportional to eqV /kB T − 1, which is a shifted exponential. Then I
      always has the same sign as V , and vanishes when V vanishes. The current grows quickly for
      high V and approaches a constant for low V .
-     This answer is acceptable, but we can use the condition kB T  qV0 to simplify the graph.
+     This answer is acceptable, but we can use the condition kB T   qV0 to simplify the graph.
      For negative V , we have
                                          I/I0 ≈ e−qV0 /kB T
      which is extremely small. For positive V , we have
@@ -246,7 +254,9 @@ low temperature values kB T  qV0 .
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                             Part A                                    6
+
+
+2018 USA Physics Olympiad Exam                             Part A                                    6
 
 
 
@@ -307,7 +317,9 @@ Vs = 5.0 V.
 
 
                                 Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                           Part A                                              7
+
+
+2018 USA Physics Olympiad Exam                           Part A                                              7
 
 
 
@@ -367,7 +379,9 @@ Vs = 5.0 V.
                                               VB
 
                              Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                        Part A                                           8
+
+
+2018 USA Physics Olympiad Exam                        Part A                                           8
 
 
 
@@ -425,14 +439,16 @@ Vs = 5.0 V.
 
 
                             Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                 Part A                                               9
+
+
+2018 USA Physics Olympiad Exam                 Part A                                               9
 
 
 
 Question A3
 A vacuum system consists of a chamber of volume V connected to a vacuum pump that is a cylinder
 with a piston that moves left and right. The minimum volume in the pump cylinder is V0 , and the
-maximum volume in the cylinder is V0 + ∆V . You should assume that ∆V  V .
+maximum volume in the cylinder is V0 + ∆V . You should assume that ∆V   V .
                                                                          chamber
 
                motor                        cylinder
@@ -459,21 +475,21 @@ remains at a fixed temperature of Ta .
      Since V0 = 0, the inlet valve opens the moment the piston starts moving to the left. When
      the piston is all the way to the left, a fraction ∆V /(V + ∆V ) of the gas is in the cylinder. As
      the piston moves to the right, all of this gas is pushed out, so after a single cycle,
-                                                              
+
                                                           V
                                             Pf = Pi
                                                        V + ∆V
      and in general,
-                                                            t/∆t
+                                                              t/∆t
                                                        V
                                        P (t) = Pa                   .
                                                     V + ∆V
      While this is technically correct, it can be simplified significantly. Write
                                             ∆V −t/∆t
-                                                                       −Rt/V
+                                                                           −Rt/V
                           P (t) = Pa 1 +               = Pa (1 + x)1/x
                                              V
-     where x = ∆V /V  1. Then using the definition of e,
+     where x = ∆V /V   1. Then using the definition of e,
                                             e = lim (1 + x)1/x
                                                   x→0
      we have
@@ -481,7 +497,9 @@ remains at a fixed temperature of Ta .
 
 
                    Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                        Part A                                          10
+
+
+2018 USA Physics Olympiad Exam                        Part A                                          10
 
 
 
@@ -495,7 +513,7 @@ remains at a fixed temperature of Ta .
      the piston moves to the right, the gas is adiabatically compressed until its pressure reaches Pa
      and the outlet valve opens. Since P V γ is constant during adiabatic compression and P V /T
      is constant by the ideal gas law,
-                                                   1−1/γ                     2/5
+                                                     1−1/γ                       2/5
                                              Pa                          Pa
                         Tout (t) = Ta                        = Ta                      = Ta e2Rt/5V
                                             P (t)                       P (t)
@@ -503,7 +521,7 @@ remains at a fixed temperature of Ta .
      where we used γ = 5/3 for a monatomic ideal gas.
 
 
-   For the remainder of this problem 0 < V0 < ∆V  V .
+   For the remainder of this problem 0 < V0 < ∆V   V .
 
   c. Find an expression for the minimum possible pressure in the chamber, Pmin .
 
@@ -515,7 +533,7 @@ remains at a fixed temperature of Ta .
      Since the expansion of the cylinder is adiabatic, P V γ is constant, so
 
                                                                     ∆V −γ
-                                                    γ                
+                                                      γ
                                                V0
                                Pmin = Pa                 = Pa 1 +            .
                                             V0 + ∆V                  V0
@@ -524,7 +542,9 @@ remains at a fixed temperature of Ta .
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam          Part A                             11
+
+
+2018 USA Physics Olympiad Exam          Part A                             11
 
 
 
@@ -540,7 +560,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                         Part B                                     12
+
+
+2018 USA Physics Olympiad Exam                         Part B                                     12
 
 
 
@@ -550,14 +572,14 @@ The electric potential at the center of a cube with uniform charge density ρ an
 
                                                        0.1894ρa2
                                                   Φ≈             .
-                                                           0
+                                                            0
 
 You do not need to derive this.1
     For the entirety of this problem, any computed numerical constants should be written to three
 significant figures.
 
   a. What is the electric potential at a corner of the same cube? Write your answer in terms of
-     ρ, a, 0 , and any necessary numerical constants.
+     ρ, a,  0 , and any necessary numerical constants.
 
 
                                                        Solution
@@ -566,18 +588,18 @@ significant figures.
 
                                                                    Cρa2
                                                      Φc (a, ρ) ≈
-                                                                    0
+                                                                     0
         for a dimensionless constant C. Note that a cube of side length a consists of 8 cubes of side
         length a/2, each with a corner at the center of the larger cube. Then
 
                                                 0.1894ρa2    Cρ(a/2)2
                                                           =8
-                                                    0          0
+                                                     0           0
         so C = 0.1894/2 = 0.0947.
 
 
   b. What is the electric potential at the tip of a pyramid with a square base of side length a,
-     height a/2, and uniform charge density ρ? Write your answer in terms of ρ, a, 0 , and any
+     height a/2, and uniform charge density ρ? Write your answer in terms of ρ, a,  0 , and any
      necessary numerical constants.
 
 
@@ -587,18 +609,20 @@ significant figures.
 
                                                                 0.0316 ρa2
                                                   Φp (a, ρ) ≈
-                                                                    0
+                                                                     0
         .
 
 
   c. What is the electric potential due to a square plate with side length a of uniform charge
-     density σ at a height a/2 above its center? Write your answer in terms of σ, a, 0 , and any
+     density σ at a height a/2 above its center? Write your answer in terms of σ, a,  0 , and any
      necessary numerical constants.
   1
       See https://arxiv.org/pdf/chem-ph/9508002.pdf for more details if you are interested.
 
                        Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                   Part B                                                 13
+
+
+2018 USA Physics Olympiad Exam                   Part B                                                 13
 
 
 
@@ -613,11 +637,11 @@ significant figures.
 
                                                            0.0316ρ ((a + 2dz)2 − a2 )   0.126 aρ dz
           Φs (a, ρ dz) = Φp (a + 2dz, ρ) − Φp (a, ρ) ≈                                =             .
-                                                                       0                   0
+                                                                        0                    0
      so we have
                                                            0.126 aσ
                                              Φs (a, σ) ≈            .
-                                                              0
+                                                               0
 
 
 
@@ -625,8 +649,8 @@ significant figures.
      σ and side length a. If the electric potential at the center of the square is approximately
      0.281aσ
              , estimate E(a/2) by assuming that E(z) is linear in z for 0 < z < a/2. Write your
-        0
-     answer in terms of σ, a, 0 , and any necessary numerical constants.
+         0
+     answer in terms of σ, a,  0 , and any necessary numerical constants.
 
 
                                                  Solution
@@ -634,25 +658,27 @@ significant figures.
      The potential difference between height 0 and a/2 is
                                                              aσ   0.155 aσ
                                   ∆Φ = (0.281 − 0.126)          =          .
-                                                             0      0
+                                                              0       0
      On the other hand, we have
                                        Z a/2
                                                              a E(0) + E(a/2)
                                 ∆Φ =           E(z) dz ≈
                                          0                   2       2
 
-     where we approximated E(z) as linear, and E(0) = σ/20 by Gauss’s law. Solving for E(a/2),
+     where we approximated E(z) as linear, and E(0) = σ/2 0 by Gauss’s law. Solving for E(a/2),
                                                             0.119σ
                                               E(a/2) ≈
-                                                              0
+                                                               0
      where the last significant digit is not important. Incidentally, the actual value is exactly
-     σ/60 , and this fact has a slick calculation-free proof.
+     σ/6 0 , and this fact has a slick calculation-free proof.
 
 
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                   Part B                                             14
+
+
+2018 USA Physics Olympiad Exam                   Part B                                             14
 
 
 
@@ -661,7 +687,7 @@ In this problem, use a particle-like model of photons: they propagate in straigh
 law of reflection, but are subject to the quantum uncertainty principle. You may use small-angle
 approximations throughout the problem.
     A photon with wavelength λ has traveled from a distant star to a telescope mirror, which has
-a circular cross-section with radius R and a focal length f  R. The path of the photon is nearly
+a circular cross-section with radius R and a focal length f   R. The path of the photon is nearly
 aligned to the axis of the mirror, but has some slight uncertainty ∆θ. The photon reflects off the
 mirror and travels to a detector, where it is absorbed by a particular pixel on a charge-coupled
 device (CCD).
@@ -712,7 +738,9 @@ cross-sectional areas of the mirror are equally likely to include the point of r
                                                              λ
 
                    Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                 Part B                                                 15
+
+
+2018 USA Physics Olympiad Exam                 Part B                                                 15
 
 
 
@@ -738,18 +766,20 @@ cross-sectional areas of the mirror are equally likely to include the point of r
     We need ∆θ to be much smaller than the actual angular separation, or
 
                                              7 × 108 m
-                                      ∆θ               ≈ 2 × 10−8 .
+                                      ∆θ                ≈ 2 × 10−8 .
                                              4 × 1016 m
     This means that                   √         √
                                      18λ            18(5 × 10−7 m)
-                                R≈                                = 8.4 m
+                                R≈                                 = 8.4 m
                                    4π∆θ             4π(2 × 10−8 )
 
 
 
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                  Part B                                              16
+
+
+2018 USA Physics Olympiad Exam                  Part B                                              16
 
 
 
@@ -780,8 +810,8 @@ particles.
           there is no other relevant speed.
           Alternatively, this relation can be derived using classical electromagnetism, though this
           was not required. For a plane wave, the momentum density (i.e. pressure) of the electro-
-          magnetic field is P = 0 |E×B|, while the energy density is I = |S|/c where S = E×B/µ0 .
-          Then P = I/c since c2 = 1/0 µ0 .
+          magnetic field is P =  0 |E×B|, while the energy density is I = |S|/c where S = E×B/µ0 .
+          Then P = I/c since c2 = 1/ 0 µ0 .
 
                                                                                              Fradiation
        ii. Assuming that the particle has a density ρ, derive an expression for the ratio
@@ -800,22 +830,24 @@ particles.
 
 
       iii. The quality factor is given by one of the following
-            • If r  λ, Q ∼ (r/λ)2
+            • If r   λ, Q ∼ (r/λ)2
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                Part B                                               17
+
+
+2018 USA Physics Olympiad Exam                Part B                                               17
 
 
 
            • If r ∼ λ, Q ∼ 1.
-           • If r  λ, Q = 1
+           • If r   λ, Q = 1
          Considering the three possible particle sizes, which is most likely to be blown away by
          the solar radiation pressure?
 
                                                 Solution
          In order to be blown away, the ratio should be greater than one. Since it is independent
          of distance from the sun, if it is blown away, it will be blown away at any distance. For
-         r  λ, the ratio is proportional to 1/r, so smaller particles are more likely to be blown
-         away. For r  λ, the ratio is proportional to r, so larger particles are more likely to be
+         r   λ, the ratio is proportional to 1/r, so smaller particles are more likely to be blown
+         away. For r   λ, the ratio is proportional to r, so larger particles are more likely to be
          blown away. Thus particles of size near λ are most likely to be blown away, and even
          then, only if the density is small enough.
 
@@ -840,7 +872,7 @@ particles.
 
       ii. Because the particle is moving, the radiation force is not directed directly away from the
           sun. Find the torque τ on the particle because of radiation pressure. You may assume
-          that v  c.
+          that v   c.
 
                                                 Solution
          Work in the reference frame of the particle. In this frame, the radiation hits the particle
@@ -858,7 +890,9 @@ particles.
                                                        c 4Rc
 
                    Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                   Part B                                             18
+
+
+2018 USA Physics Olympiad Exam                   Part B                                             18
 
 
 
@@ -900,7 +934,7 @@ particles.
                                               T     2
                                                       = πρrR2 .
                                                    c   3
-         Since r  λ, we have Q = 1 and
+         Since r   λ, we have Q = 1 and
 
                                          4 πc2
                                    T =         ρrR2 ≈ 2 × 1014 s ≈ 7 × 106 y.
@@ -915,7 +949,9 @@ particles.
                                    λmax      =             500 nm
 
                   Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam      Answer Sheets                          19
+
+
+2018 USA Physics Olympiad Exam      Answer Sheets                          19
 
 
 
@@ -929,7 +965,9 @@ particles.
 
 
                Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                       Answer Sheets                                 20
+
+
+2018 USA Physics Olympiad Exam                       Answer Sheets                                 20
 
 
 
@@ -939,7 +977,7 @@ particles.
                                                                      Proctor AAPT ID #:
 
 Question A2
-  a. Sketch a graph of the current versus voltage for low temperature values kB T  qV0 , clearly
+  a. Sketch a graph of the current versus voltage for low temperature values kB T   qV0 , clearly
      indicating any asymptotic behavior.
 
                         10
@@ -980,7 +1018,9 @@ Question A2
 
 
                                Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                    Answer Sheets                                       21
+
+
+2018 USA Physics Olympiad Exam                    Answer Sheets                                       21
 
 
 
@@ -1028,7 +1068,9 @@ Question A2
 
 
                              Copyright c 2018 American Association of Physics Teachers
-2018 USA Physics Olympiad Exam                   Answer Sheets                                       22
+
+
+2018 USA Physics Olympiad Exam                   Answer Sheets                                       22
 
 
 

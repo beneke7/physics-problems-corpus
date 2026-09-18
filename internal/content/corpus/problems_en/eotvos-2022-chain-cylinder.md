@@ -24,4 +24,4 @@ A thin, flexible chain of mass $m$ is placed on a fixed horizontal cylinder as s
 a) What acceleration does the chain start with when released?
 b) What is the maximum value of the force that stretches the chain at the moment of release?
 
-![](sources/eotvos/figures/eotvos-2022-chain-cylinder-fig1.jpg)
+![](../../figures/eotvos/figures/eotvos-2022-chain-cylinder-fig1.jpg)

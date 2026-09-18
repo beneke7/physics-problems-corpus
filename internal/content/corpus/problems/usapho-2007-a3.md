@@ -29,4 +29,4 @@ A3. A volume $V_{f}$ of fluid with uniform charge density $\rho$ is sprayed into
 Your answer to (b) should indicate that the total energy increases with $R$. In the absence of surface tension, then, the fluid would break apart into infinitesimally small drops. Suppose, however, that the fluid has a surface tension $\gamma$. (This value is the potential energy per unit surface area, and is positive.)
 (4 pts) c. What is the total energy of the drops due to surface tension?
 (7 pts) d. What is the equilibrium radius of the drops?
-![](usapho-2007-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2007-a3-fig01.png)

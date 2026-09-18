@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4455. Vízszintes talajon guruló test törésmentesen csatlakozó lejtőhöz ér. Mikor jut magasabbra, ha van súrlódás, vagy ha nincs? Miért? 
+P. 4455. Vízszintes talajon guruló test törésmentesen csatlakozó lejtőhöz ér. Mikor jut magasabbra, ha van súrlódás, vagy ha nincs? Miért?
  Cornides István fizikaverseny, Révkomárom (Szlovákia)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-A thin disc rotates about an axis, which is perpendicular to the plane of the disc and goes through its centre $O$, at constant angular acceleration $\beta$. On the disc, mark a point $P$ at a distance $r$ from the centre. How does the magnitude of the acceleration of point $P$, and the angle between its acceleration vector and the line $OP$ depend on the distance $r$? 
+A thin disc rotates about an axis, which is perpendicular to the plane of the disc and goes through its centre $O$, at constant angular acceleration $\beta$. On the disc, mark a point $P$ at a distance $r$ from the centre. How does the magnitude of the acceleration of point $P$, and the angle between its acceleration vector and the line $OP$ depend on the distance $r$?
  (3 pont)

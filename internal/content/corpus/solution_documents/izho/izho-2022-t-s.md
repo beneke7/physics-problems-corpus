@@ -67,7 +67,9 @@ where t denotes the free flight time.
 
                                                  Content                                           Points
  Formula (1): E p = mgR(1 − cos  )                                                                 0.3
-XVIII International Zhautykov Olympiad/Theoretical Competition                                    с. 2/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                    с. 2/15
 
                     7                                                                       0.2
  Formula (2): Ek =     mu 2
@@ -126,7 +128,9 @@ whereas in the final state
                   2
 and, therefore, the temperature of the gas in the final state is obtained as
                 T = 2T0 .                                                                         (9)
-XVIII International Zhautykov Olympiad/Theoretical Competition                                            с. 3/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                            с. 3/15
 
        From equations (6) and (9) it is easy to find the coefficient
                   4
@@ -181,7 +185,9 @@ projection onto the radial direction, the electrostatic forces are compensated f
 of the hemisphere I and II with respect to the new ball position, so that the only uncompensated force is due
 to the segment AB of the hemisphere, cut off by an inclined plane passing at an angle 2d . The left figure
 below shows the corresponding section in the vertical plane.
-XVIII International Zhautykov Olympiad/Theoretical Competition                                           с. 4/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                           с. 4/15
 
 
 
@@ -228,7 +234,9 @@ Obviously, for larger charges the equilibrium position is stable.
                        Qdq
  Formula (4): F = −            r                                                                  0.2
                      4 0 r 3
-XVIII International Zhautykov Olympiad/Theoretical Competition                                        с. 5/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                        с. 5/15
 
                        Qdq                                                                      0.3
  Formula (5): FQ =               R cos 
@@ -284,7 +292,9 @@ radiation fluxes of this layer towards the Earth and into outer space are equal.
 following form
                  w + R2 = R1 .                                                                        (7)
         A similar equation for the upper layer of the atmosphere gives rise to
-XVIII International Zhautykov Olympiad/Theoretical Competition                                                                     с. 6/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                                                     с. 6/15
 
                 KR1 = 2R2 .                                                                          (8)
         Using the laws of thermal radiation, energy fluxes can be expressed in terms of the temperatures of
@@ -340,7 +350,9 @@ This fraction of energy is evalulated as the areas under the graphs given in the
 
        The calculations carried out for 4 points gives the following values for the absorption coefficients
               t1 = 0 С :    K 0 = 0.092 ,                                                               (17)
-XVIII International Zhautykov Olympiad/Theoretical Competition                                           с. 7/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                           с. 7/15
 
                 t1 = 50 С : K50 = 0.158 .                                                                (18)
 2.9 It follows from the proposed relationship K (t1 ) = K 0 (1 + t1 ) that
@@ -400,7 +412,9 @@ coefficients of individual layers, therefore
                 1 − k1 = (1 − k0 ) .
                                   2
                                                                                                            (29)
-XVIII International Zhautykov Olympiad/Theoretical Competition                                              с. 8/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                              с. 8/15
 
          Hence it follows that if the concentration is doubled, the spectral absorption coefficient is expected to
 increase from 0.50 to
@@ -459,7 +473,9 @@ i.e. increases by K 2 = 0.02 . Therefore, the additional rise in temperature 
           Numerical value in (17): t1 = 0 С :            K 0 = 0.092                            0.6
    2.8                                                                                                      1.2
           Numerical value in (18): t1 = 50 С :           K50 = 0.158                            0.6
-XVIII International Zhautykov Olympiad/Theoretical Competition                                     с. 9/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                     с. 9/15
 
           Numerical value in (19): K 0 = 0.092                                              0.2
    2.9                                                                                             0.4
@@ -519,7 +535,9 @@ and the same value at reflection is put down as
        The total momentum transferred to the area element is determined by the expression
                p = N a pa + N r pr ,                                                          (7)
 and the pressure sought is calculated by the formula
-XVIII International Zhautykov Olympiad/Theoretical Competition                                          с. 10/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                          с. 10/15
 
                        p      I
                ps =         = 0 (1 + R) cos 2  .                                                         (8)
@@ -571,7 +589,9 @@ the equation
                      R0       c
 where G refers to the gravitational constant, n0 is the concentration of photons of solar radiation with
 energy  at the location of the station.
-XVIII International Zhautykov Olympiad/Theoretical Competition                                         с. 11/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                         с. 11/15
 
        Due to the spherically symmetric expansion, the photon concentration changes with the distance r
 from the Sun according to the law
@@ -637,7 +657,9 @@ as well as the relation V c , yields the final answer of the form
                            cV0 R0
                       1− 2
                            2VE rE
-XVIII International Zhautykov Olympiad/Theoretical Competition                                             с. 12/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                             с. 12/15
 
 3.5 It follows from formula (31) that the station is able to fly away to infinity R →  only if the
 denominator of the expression becomes zero, which results in
@@ -691,7 +713,9 @@ momentum of photons incident on the lens per unit time. Obviously, the momentum 
 refraction of light in the glass, since its direction changes, but not the module.
         Consider all the rays passing through the ring on the lens, located from its center at distances from r
 to r + dr .
-XVIII International Zhautykov Olympiad/Theoretical Competition                                              с. 13/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                                              с. 13/15
 
 
 
@@ -756,7 +780,9 @@ expression
                                
           Formula (5): pa =        cos                                                         0.1
                                c
-XVIII International Zhautykov Olympiad/Theoretical Competition           с. 14/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition           с. 14/15
 
                                    
          Formula (6): pr = 2 cos                                 0.1
@@ -823,7 +849,9 @@ expression
                                                  dr
          Formula (27): (c + V )dV = −2GM S 2                       0.2
                                                  r
-XVIII International Zhautykov Olympiad/Theoretical Competition                      с. 15/15
+
+
+XVIII International Zhautykov Olympiad/Theoretical Competition                      с. 15/15
 
 
                             1             1 1

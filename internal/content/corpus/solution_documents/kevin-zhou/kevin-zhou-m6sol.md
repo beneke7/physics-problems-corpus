@@ -50,7 +50,9 @@ t2 =
 √
 α
 so t1/t2 = π/4.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 2 (PPP 111). The titanium-devouring little green people of the previous problem contin-
 ued their excavating. As a result of their environmentally destructive activity, half of the asteroid
 was soon used up, as shown.
@@ -104,7 +106,9 @@ the highest cosθ/r2, then progressively lower values, until we run out of mass.
 done, the surface of the shape will have constant cosθ/r2 (because if it didn’t, we could do better
 by moving some mass around).
 For more discussion of this classic problem, and a plot of the solution, see this article.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2: The Shell Theorems
 Newton proved three “shell” theorems using elegant geometrical arguments.
 1. Inside a uniform spherical shell, there is no gravitational field. (At the time, this was
@@ -146,7 +150,9 @@ Solution
 It’s easiest to consider the potential outside the shell. Let the shell of mass m be centered
 at the origin with radius R, and consider the potential at a distance z > R from the origin.
 If a point mass produces a gravitational potential f(r)dm at separation r, then integrating
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 over the sphere in spherical coordinates gives
 V (z) =
 m
@@ -209,22 +215,24 @@ mv2
 2
 mṙ2
 +
-
+
 V (r) +
 L2
 2mr2
-
+
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 By setting the time derivative of this expression to zero, we find
 mr̈ = −
 d
 dr
-
+
 V (r) +
 L2
 2mr2
-
+
 .
 Therefore, if we are interested in r(t) alone, we can find it by treating the problem as
 one-dimensional, where the particle moves in the “effective potential” V (r) + L2/2mr2. The
@@ -287,7 +295,9 @@ Plugging in the value of r0, this becomes simply n < 2. As expected, for inverse
 the circular orbits are neutrally stable.
 [3] Problem 4 (Morin 7.4). A particle of mass m moves in a potential V (r) = βrk. Let the angular
 momentum be L.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Find the radius r0 of the circular orbit.
 (b) Find the angular frequency ωr of small oscillations about this radius.
 (c) Now consider a slightly perturbed circular orbit. Explain why the orbit remains a closed curve
@@ -306,10 +316,10 @@ L2
 (−2)r−3
 0 + kβrk−1
 0 = 0, r0 =
-
+
 L2
 mkβ
- 1
+  1
 k+2
 .
 (b) For small |r − r0|, Taylor expanding gives
@@ -326,11 +336,11 @@ eff(r0)/m. Thus, we must compute V ′′
 eff(r0). We straightforwardly have
 V ′′
 eff(r) = r−4
-
+
 3L2
 m
 + k(k − 1)βrk+2
-
+
 ,
 so V ′′
 eff(r0) = 1
@@ -361,7 +371,9 @@ central potentials for which all bound orbits are exactly closed are V (r) ∝ 1
 The idea of the proof is as follows. First, for a general potential V (r), we can compute the
 ratio of periods of a small radial oscillation and the underlying circular orbit and demand it
 be rational, just like in part (c) above. However, since this ratio changes continuously as the
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 orbit parameters are varied, it must be a constant if it is to always be rational. Using this
 condition, you can show that V (r) must be a power law, which we had to assume above.
 You found in part (c) that infinitely many power laws give closed nearly circular orbits. To
@@ -419,7 +431,9 @@ only exist when L >
 12GMm/c.
 (c) From part (a), we know that limr→0 Veff(r) = −∞. Thus the graph of Veff(r) should look like
 this, for sufficiently large L:
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 r1
 r2
 Veff(r)
@@ -469,7 +483,9 @@ mass M ≫ m. The ring rotates around the planet with the Keplerian angular velo
 ω =
 p
 GM/R3. Show that this configuration is linearly unstable.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 One way to understand the stability of an ordinary planetary orbit is angular momentum
 conservation: if you displace a planet radially inward, then it’ll start moving faster
@@ -529,7 +545,7 @@ Z 2π
 0
 dθ
 2π
-
+
 1 −
 a
 R
@@ -538,15 +554,15 @@ a2
 R2
 3cos2 θ − 1
 2
-
+
 = −
 GMm
 R
-
+
 1 +
 a2
 4R2
-
+
 .
 The energy goes down upon a small displacement, so the configuration is unstable. The ring
 will soon crash into the planet.
@@ -556,7 +572,9 @@ Kepler’s laws for a general orbit are:
 1. The trajectories of planets are conic sections, with a focus at the Sun. Bound orbits are
 ellipses, which contain circles as a special case. Unbound orbits are hyperbolas, which
 contain parabolas as a special case.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 2. The trajectories sweep out equal areas in equal times.
 3. When the orbit is bound, the period T and semimajor axis a obey T2 ∝ a3.
 Unlike the other laws, the second is valid for any central force, because the rate of area
@@ -598,18 +616,20 @@ In astrophysics, the virial theorem is useful because it allows us to estimate V
 hard to measure, given K. For discussion of the virial theorem along with applications to
 dark matter, see section 1.4.3 of these notes. We will return to these subjects in X3.
 [3] Problem 6. In this problem we’ll verify some of the basic facts stated above.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Prove the statement of idea 5 for the case of elliptical orbits.
 (b) Using this result, prove the vis-viva equation
 v2
 = GM
-
+
 2
 r
 −
 1
 a
-
+
 which is often used in rocketry.
 (c) Prove Kepler’s third law.
 Solution. (a) Let the closest approach distance be r1, farthest be r2. For simplicity, let’s define
@@ -676,7 +696,9 @@ which implies T2 = 4π2a3/GM ∝ a3, as desired.
 Remark: Scaling Symmetry
 There’s a variant of Kepler’s third law for unbound orbits. Suppose a planet is right next
 to the Sun at time t = 0, but has a large initial radial velocity, so that it has zero total
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 energy. Then its distance to the Sun evolves as r(t) ∝ t2/3, like how a ∝ T2/3 for bound orbits.
 Both of these results come from the scaling symmetry of inverse square force laws: any
 solution to Newton’s second law remains a solution if you multiply all distances by 4 and
@@ -728,7 +750,9 @@ r =
 L2
 GMm2 + Acosθ
 .
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 This is precisely the form of a conic section. Specifically, the general form is
 r =
 p
@@ -744,13 +768,13 @@ GMm2
 As a check, note that A indeed vanishes for circular motion, where
 A = (mv)(mvr) − GMm2
 = mr2
-
+
 mv2
 r
 −
 GMm
 r2
-
+
 = 0.
 For an elliptical orbit, A lies in the plane of the orbit and points along the major axis.
 (c) Take the cross product of the vector with L, which is always conserved, for
@@ -779,14 +803,16 @@ t = T
 πab/4 + ab/2
 πab
 = T
-
+
 1
 4
 +
 1
 2π
-
-13Kevin Zhou Physics Olympiad Handouts
+
+13
+
+Kevin Zhou Physics Olympiad Handouts
 by summing a quarter of an ellipse and a triangle. All that’s left is to solve for T. Note that
 the semimajor axis is R. Another orbit with the same semimajor axis is simply a circular
 orbit around the Earth, just above its surface. This orbit has
@@ -799,10 +825,10 @@ so v =
 p
 GM/R. Using T = 2πR/v gives the answer,
 t =
-π
+ π
 2
 + 1
-
+
 r
 R3
 GM
@@ -832,7 +858,9 @@ intractable to find the trajectory for a general central force law, but we can i
 thinking about how quickly area is swept out, as in Kepler’s second law. This works because
 conservation of angular momentum holds for all central force laws, not just the inverse square.
 At the furthest and closest points, the distances from the origin must be r1 and r2, and by
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 conservation of angular momentum, the speeds v1 and v2 are achieved at these points, so
 r1v1 = r2v2, r1 + r2 = 2R,
 dA
@@ -854,13 +882,13 @@ R
 .
 Since dA/dt = πR2/T, we have
 T = πR
-
+
 1
 v1
 +
 1
 v2
-
+
 .
 [3] Problem 8 (PPP 88). A rocket is launched from and returns to a spherical planet of radius R
 so that its velocity vector on return is anti-parallel to its velocity vector at launch. The angular
@@ -889,19 +917,21 @@ T =
 A
 A0
 T0 =
-
+
 1
 2
 +
 cosθ/2
 π
-
+
 T0.
 [4] Problem 9 (Physics Cup 2012). A cannon at the equator fires a cannonball, which hits the North
 pole. Neglecting air resistance and the Earth’s rotation, at what angle to the horizontal should the
 cannonball be fired to minimize the required speed?
 Solution. The answer is π/8 = 22.5◦. See the solutions here.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 10 (NBPhO 2015). An asteroid is initially stationary, a distance R from a star of mass
 M. The asteroid suddenly explodes into many pieces, with speed ranging from zero to v0. What is
 the set of all points that can be hit by a piece of the asteroid? (Hint: this problem requires more
@@ -958,7 +988,9 @@ m1
 m2
 .
 Both systems have the same solutions for r(t).
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Example 8
 Consider two planets of mass m. If one planet is somehow fixed in place, the other can
 perform a circular orbit of radius R with period T. If both planets are allowed to move, they
@@ -1029,7 +1061,9 @@ Solution. The fact that magnets are involved doesn’t really matter; all that m
 the objects have a given separation r, they have a fixed total kinetic energy K(r), in all three
 scenarios. What differs in each case is the rate of change of the separation between them.
 If the magnets have masses m1 and m2, then in the first and second cases, we have dr/dt =
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 p
 2K/m1 and
 p
@@ -1049,14 +1083,14 @@ dt
 = |v1 − v2| =
 √
 2K
-r
+ r
 m2
 m1(m1 + m2)
 +
 r
 m1
 m2(m1 + m2)
-
+
 .
 In all three cases, dr/dt has the same profile up to an overall constant, and the total time is inversely
 proportional to this constant. That is, we have
@@ -1065,14 +1099,14 @@ t1 = C
 m1, t2 = C
 √
 m2, t = C
-r
+ r
 m2
 m1(m1 + m2)
 +
 r
 m1
 m2(m1 + m2)
-−1
+ −1
 for some C. Solving for t yields
 t =
 t1t2
@@ -1081,7 +1115,7 @@ t2
 1 + t2
 2
 .
-[3] Problem 12.  W 1 0USAPhO 2012, problem A4.
+[3] Problem 12.   W 1 0USAPhO 2012, problem A4.
 Remark: Discovering Gravity
 In popular science, we are told that Newton understood gravity in a flash of inspiration,
 after being hit on the head with an apple. You might know that it didn’t quite work that
@@ -1106,7 +1140,9 @@ people believe in astrology.) Or, going further back to antiquity, if you claime
 everything is affected by gravity, how could you explain why flames go up? (To explain
 buoyancy, you would first have to explain how air exerts a massive yet somehow unobservable
 pressure on everything, why air has mass but doesn’t fall, and that buoyant forces for air ex-
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 ist at all. In the ancient world, there are no helium balloons, and it’s hard to make a vacuum.)
 Between Galileo and Newton, there were many incremental steps towards the development
 of universal gravitation. For instance, Cassini proposed that planets orbited in ovals, which
@@ -1147,7 +1183,9 @@ frame depends on what you want to do. For example, if you want to escape the sol
 need to achieve escape velocity in the Sun’s frame, because the Sun’s gravity dominates.
 [4] Problem 14. A rocket with a full fuel tank has a mass M and is initially stationary. The fuel is
 ejected at a rate σ, where σ has units of kg/s, at a relative velocity of u.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (a) If the rocket begins in space, show that the velocity of the rocket when its total mass is M′ is
 v = ulog
 M
@@ -1204,7 +1242,9 @@ g
 (M − M′
 ).
 It’s better if σ is high, since you are constantly losing momentum to gravity.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The idea is that M−M0
 M′−M0
 > M
@@ -1253,7 +1293,7 @@ fuel comes out, it’s at a dead stop, so all of the kinetic energy burned goes 
 Thus the maximum value of η is 100%. This is called a “perfect rocket”, though it’s not the
 kind of thing one would want to use in practice. It’s not trivial to change u arbitrarily, from
 an engineering point of view, and a perfect rocket at low speeds would have low power.
-[3] Problem 15.  m 1 0USAPhO 2015, problem B1. A basic, two-step rocket maneuver.
+[3] Problem 15.   m 1 0USAPhO 2015, problem B1. A basic, two-step rocket maneuver.
 Remark: Patched Conic Approximation
 Treating an orbital maneuver exactly, accounting for the gravitational fields of the Sun
 and all planets, would be very complicated. So in the problems below, we will use the
@@ -1261,7 +1301,9 @@ common “patched conic” approximation, where only the gravitational effect of
 object is considered at a time. The reason this makes sense is that, for the vast majority of
 the volume of the solar system, the Sun’s gravity dominates, so we can ignore the planets.
 The gravity of a planet dominates when we pass close to it, but these encounters are very
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 brief compared to the period of an entire orbit, so during those encounters we can work in
 the frame following the planet and ignore the Sun.
 To understand when the planet dominates, suppose it has mass m and orbits at radius
@@ -1305,7 +1347,9 @@ adjustment later is allowed.
 (g) Comets orbit very far from the Sun, with nearly zero speed. What is the maximum relative
 speed with which a comet can impact the Earth?
 Solution. Note that u0 is the speed the Earth orbits the Sun.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (a) By Newton’s second law, mv2/R = GMm/R2, so the answer is simply v0 = 7.9km/s.
 (b) Let vr be the speed of rotation from the earth. To launch from the poles, we need to launch
 with speed v0, but from the equator, we need to launch with only v0 − vr, giving 7.4km/s.
@@ -1382,7 +1426,9 @@ q
 √
 2)u2
 0 = 72.8km/s.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 There’s a whole science of multi-stage rocket maneuvers. For example, suppose your
 goal is to quickly escape the solar system. As you found in part (d) of problem 16,
@@ -1421,7 +1467,9 @@ Solution. (a) We can achieve any velocity relative to the Earth with the same en
 (ignoring the small effect of the Earth’s rotation). But what matters for escaping the solar
 system is the velocity relative to the Sun. This is biggest if the velocity relative to the Earth
 and the Earth’s velocity relative to the Sun are parallel, so that the speeds add.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (b) By angular momentum conservation,
 vt =
 v0
@@ -1450,18 +1498,18 @@ vr =
 s
 v2
 0
-
+
 1 −
 1
 x2
-
+
 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 .
 (c) A gravitational slingshot is simply an elastic collision, so as we saw in M3, the best frame to
 use is the center of mass frame, which in this case is effectively the planet’s frame. In this
@@ -1504,18 +1552,18 @@ v2
 x2
 + v2
 0
-
+
 1 −
 1
 x2
-
+
 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 −
 2
 x
@@ -1531,11 +1579,11 @@ x
 2) = v2
 0 − 2v2
 E
-
+
 1 −
 1
 x
-
+
 −
 2v0vE
 x3/2
@@ -1551,7 +1599,9 @@ x3/2
 2
 x
 − 2 = 0.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 This is a quadratic in u. Applying the quadratic formula and taking the physical sign gives
 u =
 1
@@ -1604,7 +1654,9 @@ the engineering required getting thousands of tricky real-world details right.
 Example 9
 An object quickly flies past a star of mass M, with nearly constant speed v, so that its
 distance of closest approach is R. Estimate the angle by which the object is deflected.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 To solve this exactly, we could use properties of conics, or solve Newton’s second law in polar
 coordinates. Here we’ll present a simpler rough estimate. Since the object is flying quickly,
@@ -1636,13 +1688,13 @@ The 2 arises because in general relativity, for objects that don’t get too clo
 ∆θ ≈
 2GM
 R
-
+
 1
 v2
 +
 1
 c2
-
+
 .
 Roughly speaking, the first term comes from “temporal” curvature, and simply recovers the
 Newtonian result. The second term is due to “spatial” curvature, which leads to an “angular
@@ -1665,7 +1717,9 @@ Rc2
 ∼ 10−8
 .
 The true answer is larger by a factor of 6π/(1 − e2), where e ≈ 0.2 is the eccentricity.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 This discrepancy was known in Einstein’s time, and in textbooks it is usually described as
 decisive evidence in favor of general relativity. As usual, the history is more complicated.
 The precession is extremely tiny, and many other factors contribute to it. Even in the
@@ -1678,16 +1732,16 @@ general relativity passes every test, and deviations from it must be extremely s
 Idea 8
 Consider an inertial frame and a rotating frame with angular velocity ω. For any vector V,
 the time derivatives of V in these two frames are related by
-
+
 dV
 dt
-
+
 in
 =
-
+
 dV
 dt
-
+
 rot
 + ω × V.
 For example, when V is the position r, we have the familiar result
@@ -1708,7 +1762,9 @@ Example 10
 Angular momentum conservation tells us that an ice skater increases their angular velocity as
 they pull their arms inward. Derive this result by working in the frame that always rotates
 with the skater, as the skater pulls their arms in radially. Specifically, model the skater as two
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 point masses m a distance r from the axis. Show that balancing the Coriolis and azimuthal
 forces yields a result equivalent to using angular momentum conservation in an inertial frame.
 Solution
@@ -1750,7 +1806,9 @@ It’s quite subtle to get a more accurate answer to the above problem, because 
 effects appear at higher order, including the centrifugal force (which affects both the mass’s
 trajectory, and causes the Earth’s shape to bulge out at the equator), and the variation in g
 with height. If you want to explore this in detail, see problems 10.12 and 10.13 of Morin.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 Incidentally, one of the earliest tests of Newtonian gravity was measurements of the Earth’s
 shape. In the 1730s, the French sent surveyors to modern Finland and Ecuador to measure
 the curvature of the Earth by triangulation. These were some of the most expensive scientific
@@ -1787,7 +1845,9 @@ In addition, the tangential speed of the rotating frame at the astronaut decreas
 The relative tangential acceleration is thus 2ωu, giving the desired result.
 [1] Problem 18. A cylindrical space station of radius R can create artificial gravity by rotating with
 angular velocity ω about its axis.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 (a) For an observer rotating along with the spaceship on the rim, what gravitational acceleration
 g do they perceive?
 (b) The observer throws a ball parallel to the floor. For some launch speed v, the observer will
@@ -1828,7 +1888,9 @@ given that the drag force always acts to slow down the satellite?
 (c) Now consider a uniformly rotating frame, whose angular velocity is equal to the initial angular
 velocity of the satellite. In this frame, the drag force always points tangentially backwards,
 but the satellite ends up going tangentially forward. What force is responsible?
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) This follows from the virial theorem, namely that the time average of the kinetic
 energy is negative of the time average of the total energy. So losing U total energy means
 gaining U kinetic energy. This recalcitrant behavior, where the mass seems to want to
@@ -1859,7 +1921,9 @@ component a⊥ perpendicular to the rod. Referring to the below diagram, we see 
 This is exactly the same a⊥ as for a pendulum in gravity g = ω2R, so the systems are equivalent.
 [2] Problem 22. Two stars of mass M orbit each other in a circle. The separation between them is
 2R, and their angular velocity about their center is ω. Work in the frame rotating with the stars.
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 (a) In this frame, how many places can a third object of negligible mass stay at rest? Qualitatively
 indicate where all of them are, and when possible, analytically solve for their locations.
 (b) Ignoring the Coriolis force, how many of these locations would be stable equilibria?
@@ -1913,7 +1977,9 @@ outside of the charges is an equilibrium point, i.e. one where the electric fiel
 then draw a small Gaussian surface S about P. For P to be a stable equilibrium point, we
 would need the electric field to point inward everywhere on S. But this is impossible: since
 there is no charge inside S, Gauss’s law implies that the electric flux through it must be zero.
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 The same argument applies to gravitational fields, as they satisfy ∇ · g = 0 away from other
 masses, and therefore obey the same Gauss’s law constraint. In the above problem, there was
 also a centrifugal acceleration ac, so that the relevant quantity was atot = g + ac. However,
@@ -1940,7 +2006,7 @@ M2
 For a proof of this remarkable statement, see this answer. Since MSun/MEarth = 3 × 105, the
 corresponding Lagrange points for the Earth-Sun system are stable.
 [4] Problem 23. E 1 0IPhO 2016, problem 1B. A useful set of Coriolis force exercises.
-[3] Problem 24.  ^ 1 0USAPhO 2020, problem A2. A tricky question on the Foucault pendulum. For
+[3] Problem 24.   ^ 1 0USAPhO 2020, problem A2. A tricky question on the Foucault pendulum. For
 an algebraic derivation of the final result, see section 9.9 of Taylor; it uses the complex number
 method introduced for a problem in M1. For a beautiful but more abstract geometric derivation,
 see section 11.5.1 of Griffiths’ Introduction to Quantum Mechanics (3rd edition).
@@ -1955,7 +2021,9 @@ the turntable, the coin rolls without slipping in a large circle with angular fr
 (c) In the frame of the turntable, verify that τ = dL/dt. (This is the hard part.)
 If you slogged through part (c), you’ll understand why we rarely want to think about torques for
 extended bodies in rotating frames.
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let the coin have radius r and mass m, and let its orbit have radius R.
 (a) The normal force cancels the gravitational force, while the friction force evidently vanishes.
 Hence all forces and torques cancel.
@@ -2001,7 +2069,9 @@ R3
 (2xx̂ − yŷ − zẑ).
 In particular, if a small rigid object with center of mass at the origin is released, it will
 have acceleration (GM/R2)x̂. In the frame of the center of mass, the rest of the object will
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 experience the residual gravitational acceleration gtidal. Intuitively gtidal tends to stretch the
 object in the longitudinal direction and squeeze it in the transverse direction.
 Example 14
@@ -2033,34 +2103,36 @@ E
 =
 MM
 ME
-
+
 RE
 D
-3
+ 3
 RE.
 This can also be written in terms of the densities,
 ∆h ∼
 ρM
 ρE
-
+
 RM
 D
-3
+ 3
 RE.
 The first term is of order one. The second term is the angular radius of the Moon in the sky,
 which is about a quarter of a degree, giving
 ∆h ∼
-
+
 2π
 360 × 4
-3
+ 3
 RE ∼ 0.5m
 which is of the right order of magnitude.
 Remark
 The tidal effects of the Sun and Moon are comparable, but the Moon’s are somewhat larger.
 This can be seen by the final equation above: the Sun and Moon have comparable angular
 diameter, since eclipses can just barely happen, but the Moon is 2.4 times denser.
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 When the Moon and Sun’s tidal effects reinforce, one has a larger tidal effect, called a spring
 tide; otherwise, one has a neap tide. Given what’s been said so far, you should be able to
 figure out what phase(s) of the Moon and time(s) of day correspond to each (at least for an
@@ -2076,18 +2148,18 @@ called the Roche limit; it gives the radial distance below which loose objects c
 larger ones.
 (a) Show that if the rock isn’t rotating, the Roche limit is
 d = R
-
+
 2ρp
 ρr
-1/3
+ 1/3
 .
 (b) Now suppose the rock is both orbiting the planet, and rotating so that the same side always
 faces the planet. Show that the Roche limit is
 d = R
-
+
 3ρp
 ρr
-1/3
+ 1/3
 .
 Solution. Let the rock have radius r, and consider the point on the rock nearest to the planet.
 (a) The gravitational acceleration at this point due to the rock is
@@ -2100,10 +2172,10 @@ gtidal =
 8π
 3
 Grρp
-
+
 R
 d
-3
+ 3
 .
 When these two are equal, the normal force on the point vanishes, so the sand can lift off;
 solving gives the desired result.
@@ -2124,19 +2196,21 @@ r =
 4π
 3
 Grρp
-
+
 R
 d
-3
+ 3
 .
 The sand at this point lifts off when grock − gtidal = acentripetal, as the normal force vanishes
 in this case. Solving this gives the desired result.
-37Kevin Zhou Physics Olympiad Handouts
-[3] Problem 27.  ^ 1 0USAPhO 2025, problem A2. A nice problem on an exotic tidal effect.
-[4] Problem 28.  T 1 0IPhO 2009, problem 1. A neat problem about how the Moon has slowed down
+37
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 27.   ^ 1 0USAPhO 2025, problem A2. A nice problem on an exotic tidal effect.
+[4] Problem 28.   T 1 0IPhO 2009, problem 1. A neat problem about how the Moon has slowed down
 the Earth’s rotation. This is a fascinating subject; in the deep past, not only were days shorter,
 but the weather on Earth was completely different, owing to the much higher Coriolis forces.
-[5] Problem 29.  h 1 0IPhO 1992, problem 1. A difficult problem on a strange propulsion mechanism.
+[5] Problem 29.   h 1 0IPhO 1992, problem 1. A difficult problem on a strange propulsion mechanism.
 I recommend using Kai Wen Teo’s modified version.
 Solution. See Kai Wen Teo’s solution here, and refer to the official solutions for further discussion.
 Remark: Negative Mass

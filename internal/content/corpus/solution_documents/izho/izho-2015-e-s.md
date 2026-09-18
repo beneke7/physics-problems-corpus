@@ -57,7 +57,9 @@ as well as the resistance of the graphite rod
                              1,486     0,406              0,6033     3,660
                              1,570     0,430              0,6751     3,651
                              2,280     0,640              1,4592     3,563
-X International Zhautykov Olimpiad/ Experimental Competition                                 Page 2/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                                 Page 2/7
 
 
 1.2.3 The current-voltage characteristic of the graphite rod is shown in the figure below.
@@ -101,7 +103,9 @@ theoretical dependence has the form
                                                          
 
        The last two expressions are approximations valid for small  .
-X International Zhautykov Olimpiad/ Experimental Competition                              Page 3/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                              Page 3/7
 
 
 1.2.3 For a more accurate calculation of the resistance of the graphite rod at room temperature, only
@@ -151,7 +155,9 @@ found as a  0,13        , b  3, 75Ohm , consequently, the coefficient in f
      a
    0, 035W 1 .
      b
-X International Zhautykov Olimpiad/ Experimental Competition                                Page 4/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                                Page 4/7
 
 
 1.3.1 The results of measurements of the current-voltage characteristic of the rod, placed in the snow,
@@ -205,7 +211,9 @@ Table 3
     32      18,42       2,197
     30      25,38       1,946
     28      38,14       1,609
-X International Zhautykov Olimpiad/ Experimental Competition                             Page 5/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                             Page 5/7
 
 
         Since the voltage is proportional to the measured voltage change and the resistance change is
@@ -232,7 +240,9 @@ measurements. Table 3 shows the results of calculations of logarithms.
                                                                                 1
 Consequently, the characteristic time of thermal equilibration is equal to     23s .
                                                                                 a
-X International Zhautykov Olimpiad/ Experimental Competition                                Page 6/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                                Page 6/7
 
 
                                           Marking scheme
@@ -286,7 +296,9 @@ Consequently, the characteristic time of thermal equilibration is equal to  �
             The slope is calculated by all points (by 2 points)                           0,2 (0,1)
             Formula for calculation;
             -numerical value is in the range 0,025-0,045 W-1 (0,01 – 0,06)                0,2 (0,1)
-X International Zhautykov Olimpiad/ Experimental Competition                           Page 7/7
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                           Page 7/7
 
 
   1.3.1     marked only if the deviation from the table in the solution is less        2,6

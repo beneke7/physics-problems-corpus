@@ -35,7 +35,7 @@ solution_language: en
      (a) Using the approximation mentioned in problem 14 and assuming L ≪ N a, show that
 
                                                            L2
-                                                                
+
                                        S = N kB log 2 −
                                                          2N 2 a2
          and hence show that the entropy decreases as L increases. This model is very basic; for
@@ -73,7 +73,9 @@ solution_language: en
 
 
                                                      12
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 
@@ -125,7 +127,9 @@ solution_language: en
 
 
                                                 13
-   Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
 

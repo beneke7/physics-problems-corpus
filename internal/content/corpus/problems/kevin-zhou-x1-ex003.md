@@ -61,7 +61,9 @@ solution_language: en
         this way will usually get you the right answers, essentially because of dimensional analysis.
 
                                                        9
-Kevin Zhou                                                           Physics Olympiad Handouts
+
+
+Kevin Zhou                                                           Physics Olympiad Handouts
 
   Example 3
 
@@ -116,7 +118,9 @@ solution_language: en
                                                px   a
 
                                                10
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
        Therefore, using basic geometry, the size of the pattern on the screen is
                                                            Dλ

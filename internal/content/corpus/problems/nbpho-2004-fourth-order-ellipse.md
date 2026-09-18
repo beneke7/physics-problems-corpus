@@ -30,7 +30,7 @@ fourth-order ellipse. The position of the cylinder is measured by the angle
 $0 \leq \varphi \leq \pi/2$ between the vertical direction and a longer half-axis;
 see the figure.
 
-![figure](../../sources/nbpho/figures/nbpho-2004-fourth-order-ellipse-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-fourth-order-ellipse-fig1.png)
 
 **1)** What are the equilibrium positions of the cylinder lying on a horizontal
 surface (3.5 points)?

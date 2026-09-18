@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, superposition, limiting-and-special-cases]
 ---
 
-A man of mass $M$ hangs from the end of a rope ladder. The ladder consists of two parallel ropes of negligible mass which are connected by rigid rungs of mass $m$ and of length $\ell$. The spacing between adjacent rungs is $h$. The mass of the man is much larger than the total mass of the rungs. At what speed do long wave, small angle-amplitude torsional waves propagate along the ladder? 
+A man of mass $M$ hangs from the end of a rope ladder. The ladder consists of two parallel ropes of negligible mass which are connected by rigid rungs of mass $m$ and of length $\ell$. The spacing between adjacent rungs is $h$. The mass of the man is much larger than the total mass of the rungs. At what speed do long wave, small angle-amplitude torsional waves propagate along the ladder?
  (6 pont)

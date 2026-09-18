@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201502"
 verification_status: pending
 ---
 
-Not only the length of a loaded helical spring changes, but - if one of the ends of the spring is free to move - to some extent the whole spring is ``twisted''. Measure how the angular displacement of the end of the spring depends on the load. Carry out the measurement for springs which have different number of turns and for springs which have different strength. 
+Not only the length of a loaded helical spring changes, but - if one of the ends of the spring is free to move - to some extent the whole spring is ``twisted''. Measure how the angular displacement of the end of the spring depends on the load. Carry out the measurement for springs which have different number of turns and for springs which have different strength.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M348-fig1.gif)
+![figure](../../figures/komal/figures/komal-M348-fig1.gif)

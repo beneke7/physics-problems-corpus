@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-At each vertex of a regular tetrahedron there is a point-like charge, they all have the same magnitude and they are alike charges. What should the magnitude of that opposite point-like charge be, which is placed at the centre of the tetrahedron, in order that the net electrostatic force exerted on each charge is zero? What is the interaction energy of the system? 
+At each vertex of a regular tetrahedron there is a point-like charge, they all have the same magnitude and they are alike charges. What should the magnitude of that opposite point-like charge be, which is placed at the centre of the tetrahedron, in order that the net electrostatic force exerted on each charge is zero? What is the interaction energy of the system?
  (5 pont)

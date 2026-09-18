@@ -9,10 +9,10 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4699. Egy $\alpha=30^\circ$-os hajlásszögű lejtőn két vékony lemez egy sínpárt alkot. A lemezek távolsága $d=1{,}6$ cm. A sínpárra 2 cm átmérőjű golyót helyezünk, és ez csúszás nélkül legördül. 
+P. 4699. Egy $\alpha=30^\circ$-os hajlásszögű lejtőn két vékony lemez egy sínpárt alkot. A lemezek távolsága $d=1{,}6$ cm. A sínpárra 2 cm átmérőjű golyót helyezünk, és ez csúszás nélkül legördül.
 
- $a)$ Mekkora a golyó középpontjának a gyorsulása? 
- $b)$ $\mu$ nagyságú súrlódási együttható esetén milyen meredek lejtőnél csúszik meg a golyó? 
+ $a)$ Mekkora a golyó középpontjának a gyorsulása?
+ $b)$ $\mu$ nagyságú súrlódási együttható esetén milyen meredek lejtőnél csúszik meg a golyó?
  Vermes Miklós (1905-1990) feladata
 
-![figure](../../raw_html/komal_figures/komal-P4699-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4699-fig1.gif)

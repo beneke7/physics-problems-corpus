@@ -20,4 +20,4 @@ verification_status: pending
 
 Két súrlódásmentes vízszintes felület lépcsőt alkot. A lépcső magasságával azonos magasságú testet a lépcsőhöz közel lökünk, a résbe pedig egy $r$ sugarú hengert helyezünk. A henger és a test tömege egyaránt $m$. Határozzuk meg a henger és a lépcső közötti $N$ nyomóerőt abban a pillanatban, amikor a test és a lépcső távolsága $\sqrt{2} r$. Kezdetben a test és a lépcső nagyon közel volt egymáshoz, és minden test nyugalomban volt. Sehol nincs súrlódás. A henger előbb a testtől vagy a lépcsőtől válik el?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr28-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr28-fig1.jpg)

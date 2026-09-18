@@ -32,8 +32,8 @@ e2
 d2
 Coulomb-er® hat. Az el®bbi (megfelel® irányú mozgás esetén) mindig a másik elektron felé mutató er®, az utóbbi
 azonban mindig taszító er®.
-Megjegyzés. Elvben 
-gyelembe kellene még vennünk a mozgó elektronok által keltett (pl. a BiotSavart-törvényb®l
+Megjegyzés. Elvben
+gyelembe kellene még vennünk a mozgó elektronok által keltett (pl. a Biot Savart-törvényb®l
 számolható) mágneses teret, és az ebb®l származó
 Fmágn. = ev ·
 µ0
@@ -49,7 +49,7 @@ mágneses er®hatást is (c a fénysebesség). Ez az er® azonban egy klasszikus
 v ≪ c miatt elhanyagolható a Coulomb-er® mellett, tehát nem kell számolnunk vele.
 A mozgásegyenlet
 X
-F = ma, vagyis az irányokat is 
+F = ma, vagyis az irányokat is
 gyelembe véve:
 evB − k
 e2
@@ -58,16 +58,16 @@ d2
 v2
 d
 2
-.
+ .
 Ez a kiszámítandó v sebességre nézve másodfokú egyenlet, melynek megoldásai:
 v =
 edB
 4m
 ±
-s
+s
 edB
 4m
-2
+ 2
 −
 ke2
 2md
@@ -80,13 +80,13 @@ r
 km
 B2
 .
-(Ezért szerepelt a feladat szövegében az a kitétel, hogy a két elektron elég messze van egymástól, nem pedig azért,
-hogy elhanyagoljuk a köztük fellép® Coulomb-er®t  ahogyan ezt a versenyen néhányan tették.)
+(Ezért szerepelt a feladat szövegében az a kitétel, hogy a két elektron  elég messze  van egymástól, nem pedig azért,
+hogy elhanyagoljuk a köztük fellép® Coulomb-er®t   ahogyan ezt a versenyen néhányan tették.)
 b) Ha sak az egyik elektront lökjük meg, a mozgás bonyolultabb lesz, még abban a spe iális esetben is, amikor a
-távolságuk  a feladat kérdésének megfelel®en  mindvégig ugyanakkora, d nagyságú marad. (Egyáltalán nem nyilván-
+távolságuk   a feladat kérdésének megfelel®en   mindvégig ugyanakkora, d nagyságú marad. (Egyáltalán nem nyilván-
 való, hogy ilyen mozgás kialakulhat; néhány versenyz® éppen a feladat megoldhatatlanságát próbálta bebizonyítani.)
-Közel jutunk a megoldáshoz, ha el®ször a feltett  segít®  kérdésre (Milyen pályán mozog ekkor a rendszer
-tömegközéppontja?) keressük a választ. Írjuk fel  vektorosan, a szokásos jelöléseket használva  az elektronok moz-
+Közel jutunk a megoldáshoz, ha el®ször a feltett   segít®   kérdésre ( Milyen pályán mozog ekkor a rendszer
+tömegközéppontja? ) keressük a választ. Írjuk fel   vektorosan, a szokásos jelöléseket használva   az elektronok moz-
 gásegyenleteit!
 ma1 = k
 e2
@@ -110,15 +110,15 @@ a1 + a2
 Annak érdekében, hogy ezek a mennyiségek megjelenjenek a képleteinkben, adjuk össze a két elektron mozgásegyen-
 letét!
 m(a1 + a2) = 0 − e
-
-(v1 + v2) × B
+
+(v1 + v2) × B
 ,
 amib®l
 matkp = −e(vtkp × B)
 következik. (Látható, hogy a Coulomb-köl sönhatás kiesett a tömegközéppont mozgásegyenletéb®l.)
 Nagyon fontos felismeréshez jutottunk: a két elektronból álló rendszer tömegközéppontja úgy mozog, mint egyetlen
 elektron a B induk iójú mágneses térben! Az pedig körpályán mozog, egyenletesen.
-A tömegközéppont tehát egyenletes körmozgást végez, miközben körülötte kalimpál a két elektron. A tömegkö-
+A tömegközéppont tehát egyenletes körmozgást végez, miközben körülötte  kalimpál  a két elektron. A tömegkö-
 zéppont mozgásának szögsebessége
 ωtkp =
 atkp
@@ -127,9 +127,9 @@ vtkp
 e
 m
 B = ωc.
-(Ezt az értéket a 
-zikusok iklotronfrekven iának nevezik, mert adott er®sség¶ mágneses térben  pl. egy része ske-
-gyorsító iklotronban  éppen ekkora körfrekven iával keringenek a része skék.)
+(Ezt az értéket a
+zikusok iklotronfrekven iának nevezik, mert adott er®sség¶ mágneses térben   pl. egy része ske-
+gyorsító iklotronban   éppen ekkora körfrekven iával keringenek a része skék.)
 A tömegközéppont körpályájának sugara
 Rtkp =
 vtkp
@@ -154,8 +154,8 @@ Ezen vektor id®beli változására úgy kaphatunk egyenletet, hogy képezzük a
 e2
 |r1 − r2|3
 (r1 − r2) − e
-
-(v1 − v2) × B
+
+(v1 − v2) × B
 .
 A helyvektorok különbsége a fentebb megadott Rvektor kétszerese, a sebességvektorok különbsége tehát az R vektor
 id®beli változását megadó V vektor kétszerese, és hasonló igaz a gyorsulásokra is:
@@ -166,7 +166,7 @@ e2
 |2R|3
 2R− e(V × B).
 Ez az egyenlet lényegében ugyanolyan, mint ami a feladat els® részére (az álló tömegközéppont esetére) kapott
-mozgásegyenlet, tehát  alkalmas kezd®sebesség esetén  ennek is lehet egyenletes körmozgásos megoldása. Valóban,
+mozgásegyenlet, tehát   alkalmas kezd®sebesség esetén   ennek is lehet egyenletes körmozgásos megoldása. Valóban,
 ha az R(t) vektor nagysága id®ben állandó R érték, és az iránya ω szögsebességgel forog körbe, akkor az egyenletes
 forgómozgás ismert képletei szerint A= −ω2
 R és V × B = RωB, s így (4) szerint a tömegközéppont körül kering®
@@ -247,7 +247,7 @@ T =
 2π
 ωc
 id® alatt a tömegközéppont egy teljes kört tesz meg; a két elektron azonban sak egy-egy félkört fut be
-körülötte  éppen helyet serélnek! Ekkor, tehát
+körülötte   éppen helyet serélnek! Ekkor, tehát
 T =
 2π
 e
@@ -265,53 +265,53 @@ programmal be is mutatta az ünnepélyes eredményhirdetésen (10. ábra).
 10. ábra
 2. A versenyben szerepl® feladatot inspiráló kutatási terület új fejezetet nyitott a modern szilárdtest
 zikában. Ha
-például a félvezet®knél fellép® Hall-eektust nagyon ala sony h®mérsékleten vizsgáljuk, a klasszikus elektronmodell
+például a félvezet®knél fellép® Hall-e ektust nagyon ala sony h®mérsékleten vizsgáljuk, a klasszikus elektronmodell
 helyett a kvantum
 zika törvényeivel tudjuk sak leírni az elektronok fura viselkedését. A mérések szerint az ellenál-
-lás er®s mágneses térben nem folytonosan, hanem ugrásszer¶en (kvantumosan) változik. Ez az ellenállás-kvantum
+lás er®s mágneses térben nem folytonosan, hanem ugrásszer¶en (kvantumosan) változik. Ez az  ellenállás-kvantum
 kifejezhet® univerzális mikro
 zikai állandókkal (elemi töltés, Plan k-állandó). Az 1985-ben Klaus von Klitzing német
 
-zikusnak ítélt Nobel-díj is a kvantumos Hall-eektus kutatásában elért eredmények fontosságát jelezte. Három  az
-USA-ban dolgozó  
+zikusnak ítélt Nobel-díj is a kvantumos Hall-e ektus kutatásában elért eredmények fontosságát jelezte. Három   az
+USA-ban dolgozó
 zikus, Robert Laughlin, Daniel Tsui és Horst Störmer pedig azért kapott Nobel-díjat 1998-ban,
-mert felismerték, hogy er®s mágneses térben az egymással is köl sönható elektronok olyan része skét képesek alkotni,
-amelynek töltése az elemi töltés tört része!
+mert felismerték, hogy er®s mágneses térben az egymással is köl sönható elektronok olyan  része skét  képesek alkotni,
+amelynek töltése az  elemi töltés  tört része!
 A verseny eredménye
 I. díjat, s vele a Társulat Eötvös-verseny érmét, ezen kívül 15 ezer forintos pénzjutalmat és 5 ezer forint érték¶
 könyvutalványt kapott Sáfár Simon, a BMGE villamosmérnök hallgatója, aki a budaörsi Illyés Gyula Gimnáziumban
 érettségizett mint Péter László tanítványa, valamint Varjas Dániel, a dunaújvárosi Szé henyi István Gimnázium 12.
 évfolyamú tanulója, Kispál István tanítványa.
 II. díjat, s vele 10 ezer forintos pénzjutalmat és 5 ezer forint érték¶ könyvutalványt kapott Rakyta Péter, az
-ELTE 
+ELTE
 zikus hallgatója, aki a szlovákiai Rév-Komárom magyar tannyelv¶ Selye János Gimnáziumában érettségizett
 mint Szabó Endre tanítványa.
 III. díjat, s vele 5 ezer forintos pénzjutalmat és 5 ezer forint érték¶ könyvutalványt kapott Németh András, az
-ELTE 
+ELTE
 zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor
 tanítványa; Pálinkás András, a budapesti Piarista Gimnázium 12. évfolyamú tanulója, Futó Béla tanítványa és
 Szabó Attila, a BMGE villamosmérnök hallgatója, aki a veszprémi Lovassy László Gimnáziumban érettségizett mint
 Varga Vin e tanítványa.
-Kiemelt di séretet kapott Mezei Márk, az ELTE 
+Kiemelt di séretet kapott Mezei Márk, az ELTE
 zikus hallgatója, aki az ELTE Radnóti Miklós Gyakorló
 Gimnáziumban érettségizett mint Rá z Mihály tanítványa.
 Di séretet kapott Halász Gábor, az ELTE Radnóti Miklós Gyakorló Gimnáziumának 11. évfolyamú tanulója, Ho-
 nyek Gyula tanítványa; Kiss Péter, az ELTE Apá zai Csere János Gyakorló Gimnáziumának 12. évfolyamú tanulója,
 Zsigri Feren tanítványa; Kómár Péter, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évfolyamú tanulója,
 Dvorák Ce ília tanítványa; Rá z Béla András, az ELTE matematikus hallgatója, aki a Fazekas Mihály F®városi
-Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa és Vigh Máté, az ELTE 
+Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa és Vigh Máté, az ELTE
 zikus hallgatója,
 aki a pé si Babits Mihály Gyakorló Gimnáziumban érettségizett mint Kon z Károly és Kotek László tanítványa.
 Mind a hat di séretes versenyz® megkapta Hraskó Péter Relativitáselmélet . könyvét, a Typotex Kiadó kiadványát.
 Az ünnepélyes eredményhirdetés 2004. november 19-én volt az ELTE lágymányosi épületének konferen iatermében.
 Meghívót kaptak erre az 50 és a 25 évvel ezel®tti Eötvös-versenyen díjazott versenyz®k is.
-1954-ben még nem volt a Középiskolai Matematikai Lapoknak 
+1954-ben még nem volt a Középiskolai Matematikai Lapoknak
 zika rovata, viszont a matematika feladatok megol-
 dásában mindhárom kés®bbi nyertes jeleskedett. Közülük választottunk ki egyet-egyet, valamint egykori fényképeiket,
 amik megjelentek a Lapokban, így mutattuk be az 50 évvel ezel®tti nyerteseket. Néhány mondattal ®k maguk is üd-
 vözölték a mai nyerteseket, és saját életpályájukról is ejtettek pár szót. Vigassy József gépészmérnökként végzett és
 az atomenergetika elkötelezett tudósa lett; Siklósi Péter vegyészmérnökként végzett, és az alumíniumiparban vívott
-ki nemzetközi elismerést; Zawadowski Alfréd 
+ki nemzetközi elismerést; Zawadowski Alfréd
 zikusként végzett, a szilárdtest
 zika ugyan sak nemzetközileg elismert
 tudósa lett, akadémikus.

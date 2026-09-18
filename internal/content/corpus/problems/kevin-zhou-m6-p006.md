@@ -28,7 +28,7 @@ In this problem we’ll verify some of the basic facts stated above.
       (a) Prove the statement of idea 5 for the case of elliptical orbits.
 
      (b) Using this result, prove the vis-viva equation
-                                                                    
+
                                                   2            2 1
                                                  v = GM         −
                                                                r a

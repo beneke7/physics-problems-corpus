@@ -82,7 +82,7 @@ md5
 .
 As expected, this coincides with the answer to (b), since both ultimately originate from the
 same approximation.
-[3] Problem 21.  ^ 1 0USAPhO 2018, problem B2.
+[3] Problem 21.   ^ 1 0USAPhO 2018, problem B2.
 [3] Problem 22. Classically, an electron orbiting a proton with angular frequency ωo emits radiation
 with angular frequency ωc = ωo, as covered in E7. On the other hand, quantum mechanically
 the energy levels are discrete, and using the de Broglie relation ∆E = ℏω indicates the angular
@@ -120,24 +120,24 @@ e2
 4πℏϵ0
 1
 2
-
+
 1
 rn−1
 −
 1
 rn
-
+
 .
 17
 Kevin Zhou Physics Olympiad Handouts
 (c) Thinking of n as a large number, we can approximate
-
+
 1
 rn−1
 −
 1
 rn
-
+
 =
 rn − rn−1
 rn−1rn
@@ -239,28 +239,28 @@ n) with an energy per photon of at most Emax is thus
 N(Emax) =
 1
 8
-
+
 4
 3
 πn3
 max
-
+
 =
 1
 6π2
-
+
 EL
 ℏc
-3
+ 3
 .
 In this case, the requested answer is
 N(kBT) =
 1
 6π2
-
+
 kBTL
 ℏc
-3
+ 3
 .
 Note that this is different from the official USAPhO solution, because they also allowed
 negative values for the ni. This is incorrect, because flipping the sign of one of the ni gives
@@ -277,10 +277,10 @@ dE
 dE =
 1
 6π2
-
+
 L
 ℏc
-3 Z kBT
+ 3 Z kBT
 0
 E(3E2
 )dE =

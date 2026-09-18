@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201403"
 verification_status: pending
 ---
 
-A sample of ideal gas is taken through the process shown in the figure. At its initial state V $_{1}$=2 dm$^{3}$, p $_{1}$=10$^{5}$ Pa, T $_{1}$=300 K. At its final state V $_{2}$=8 dm$^{3}$, p $_{2}$=2.5$^{.}$10$^{4}$ Pa. What is the highest temperature of the gas during the process and at which state is it reached? 
+A sample of ideal gas is taken through the process shown in the figure. At its initial state V $_{1}$=2 dm$^{3}$, p $_{1}$=10$^{5}$ Pa, T $_{1}$=300 K. At its final state V $_{2}$=8 dm$^{3}$, p $_{2}$=2.5$^{.}$10$^{4}$ Pa. What is the highest temperature of the gas during the process and at which state is it reached?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4621-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4621-fig1.gif)

@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5087. Elméletileg lehet-e szabad szemmel észrevenni egy 80 km átmérőjű krátert a Hold felszínén, ha a pupillánk átmérője 5 mm? 
+P. 5087. Elméletileg lehet-e szabad szemmel észrevenni egy 80 km átmérőjű krátert a Hold felszínén, ha a pupillánk átmérője 5 mm?
 
  Csillagászati versenyfeladat
 
-![figure](../../raw_html/komal_figures/komal-P5087-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5087-fig1.gif)

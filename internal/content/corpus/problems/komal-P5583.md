@@ -22,13 +22,13 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A thin, uniform-density rod of mass $3m$ and of length $3L$, shown in the figure , can rotate frictionlessly in a vertical plane about a horizontal axle, which is at a distance of $L$ from one of the ends of the rod. The rod is held horizontal by a vertical thread attached to the other end. 
+A thin, uniform-density rod of mass $3m$ and of length $3L$, shown in the figure , can rotate frictionlessly in a vertical plane about a horizontal axle, which is at a distance of $L$ from one of the ends of the rod. The rod is held horizontal by a vertical thread attached to the other end.
 
- $a)$ What is the tension in the thread, and the force exerted on the rod by the axle, in this position? 
+ $a)$ What is the tension in the thread, and the force exerted on the rod by the axle, in this position?
 
- $b)$ After the thread is cut, what will the velocity of the lower endpoint of the rod be as the rod passes the vertical position? 
+ $b)$ After the thread is cut, what will the velocity of the lower endpoint of the rod be as the rod passes the vertical position?
 
- $c)$ What is the force exerted by the axle at this moment? 
+ $c)$ What is the force exerted by the axle at this moment?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5583-fig1.png)
+![figure](../../figures/komal/figures/komal-P5583-fig1.png)

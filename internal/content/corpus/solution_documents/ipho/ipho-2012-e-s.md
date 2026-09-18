@@ -63,7 +63,9 @@ height. For the extreme positions of the pointer, the beam hits
                                                                         z   -154      -74    -40        -20     -6     2     -2      0
 the water surface so far from the magnet that there, the surface
                                                           — page 1 of 4 —
-v. (1.6 pts) The water height can be obtained as the integral        Similarly to the previous figure, blue curve corresponds to
+
+
+v. (1.6 pts) The water height can be obtained as the integral        Similarly to the previous figure, blue curve corresponds to
       R
 h = tan βdx. Thus, we calculate the water height row-by- a water depth of ca 2 mm, (data given in the table above), and
 row, by adding to the height in the previous row the product the violet one — to 1 mm.
@@ -104,7 +106,9 @@ vi. (1 pt)
 
 
                                                          — page 2 of 4 —
-Problem E2. Nonlinear Black Box (10 points)                           • When the voltage on the black box is Vmax , the current
+
+
+Problem E2. Nonlinear Black Box (10 points)                           • When the voltage on the black box is Vmax , the current
 Part A. Circuit without inductance (7 points)                           through the nonlinear element is I0 . Switching the cur-
 It is possible to make all the measurements needed for this             rent source off, we will have the capacitor discharging
 problem with a single circuit as shown in the figure. While the         with the same current.
@@ -170,7 +174,9 @@ the black box based on chosen voltage.
                              C0 = 1.74 F                          and discharging the capacitor in the black box at the same
                                                                   voltages. A graph of measurement results follows.
                                                           — page 3 of 4 —
-                                                             Part B. Circuit with inductance (3 points)
+
+
+                                                             Part B. Circuit with inductance (3 points)
          2.1
                                                              Measuring and plotting the current–voltage characteristic of
         2.05                                                 the nonlinear element in the same way as in part A-iii, we

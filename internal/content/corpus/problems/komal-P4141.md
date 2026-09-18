@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: pending
 ---
 
-A rechargeable battery of 12 V is connected to a coil of self inductance 20 H and of resistance 30  . What is the rate of change of the current when the current through the coil is 200 mA? How much energy is stored in the coil when the equilibrium is established? 
+A rechargeable battery of 12 V is connected to a coil of self inductance 20 H and of resistance 30  . What is the rate of change of the current when the current through the coil is 200 mA? How much energy is stored in the coil when the equilibrium is established?
  (4 pont)

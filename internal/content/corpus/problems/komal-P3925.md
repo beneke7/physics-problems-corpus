@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200611"
 verification_status: pending
 ---
 
-What is the colour of the sky above our head in the day-time observed 
- a ) from the ground; 
- b ) from a sail-plane; 
- c ) from a jet fighter; 
- d ) from a space station revolving around the Earth; 
- e ) from the Moon? 
+What is the colour of the sky above our head in the day-time observed
+ a ) from the ground;
+ b ) from a sail-plane;
+ c ) from a jet fighter;
+ d ) from a space station revolving around the Earth;
+ e ) from the Moon?
  (4 pont)

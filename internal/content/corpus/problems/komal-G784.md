@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, stability-analysis, strategic-heuristics]
 ---
 
-The figure shows a whole range of simple machines. Friction and the masses of pulleys and levels are negligible. Into which direction will the lowermost object start moving? 
+The figure shows a whole range of simple machines. Friction and the masses of pulleys and levels are negligible. Into which direction will the lowermost object start moving?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G784-fig1.gif)
+![figure](../../figures/komal/figures/komal-G784-fig1.gif)

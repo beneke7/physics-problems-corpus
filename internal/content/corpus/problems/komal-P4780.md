@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates, graphical-reduction]
 ---
 
-At which latitude should we stand in order that we could observe (by means of a good quality telescope) a geostationary ``synchronous satellite''? 
+At which latitude should we stand in order that we could observe (by means of a good quality telescope) a geostationary ``synchronous satellite''?
  (3 pont)

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: flagged
 ---
 
-The attached photograph (which can also be seen in the first cover of this journal) shows a phase of the descending Moon. Using the sizes of the figure determine how many days before the picture was taken was a full Moon. 
+The attached photograph (which can also be seen in the first cover of this journal) shows a phase of the descending Moon. Using the sizes of the figure determine how many days before the picture was taken was a full Moon.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4535-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4535-fig1.gif)

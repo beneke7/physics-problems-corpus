@@ -71,7 +71,9 @@ i                                                                               
 
 
     i                                                                                                                    i
-    i                                                                                                                     i
+
+
+    i                                                                                                                     i
 
         2023.2.4 – 16:39 – 106. oldal – 42. lap                                                  KöMaL, 2023. február
 i                                                                                                                             i
@@ -89,11 +91,11 @@ i                                                                               
                                                                     π      π
                 Az energiamegmaradás tétele szerint
                                               ΔEmozgási + ΔEhelyzeti = 0,
-                ahonnan                                      
+                ahonnan
                                                   1         2
                                                     mat2 a − g = 0.
                                                   2         π
-                Mivel mat2 = 0, a keresett gyorsulás:
+                Mivel mat2  = 0, a keresett gyorsulás:
                                                              2
                                                          a=    g.
                                                              π
@@ -141,7 +143,9 @@ i                                                                               
 
 
     i                                                                                                                     i
-    i                                                                                                                      i
+
+
+    i                                                                                                                      i
 
         2023.2.4 – 16:39 – 107. oldal – 43. lap                                                   KöMaL, 2023. február
 i                                                                                                                              i
@@ -161,7 +165,7 @@ i                                                                               
                                                                                  2
                                      Kelőre − Khátra + Δm g sin ϕ = Δm a = Δm g ,
                                                                                  π
-                vagyis                                                                
+                vagyis
                                                                               2
                                           Kelőre = Khátra + Δm · g            − sin ϕ .
                                                                               π
@@ -205,7 +209,9 @@ i                                                                               
 
 
     i                                                                                                                      i
-    i                                                                                                                          i
+
+
+    i                                                                                                                          i
 
         2023.2.4 – 16:39 – 108. oldal – 44. lap                                                       KöMaL, 2023. február
 i                                                                                                                                  i
@@ -220,16 +226,16 @@ i                                                                               
                                                                   2 0
 
                 és a tömegközéppont távolsága az O ponton átmenő függőleges egyenestől
-                                                                     
+
                                                                   1
-                                                    0 = s0 sin     ϕ0 .
+                                                     0 = s0 sin     ϕ0 .
                                                                   2
                 A forgómozgás alapegyenlete szerint
                                                                                    a
-                                                  Kmax R + m0 g0 = Θ0               ,
+                                                  Kmax R + m0 g 0 = Θ0               ,
                                                                                    R
                 ahonnan a fentebb kiszámı́tott értékek behelyettesı́tése után kapjuk, hogy
-                                                                    
+
                                                    4        4   2 ϕ0
                                  Kmax = mg            ϕ0 − sin           ≈ 0,13 mg.
                                                   π2       π       2
@@ -239,7 +245,7 @@ i                                                                               
                 munkájának összege a kezdetben álló láncdarab mozgási energiájával lesz egyenlő.
                      A láncot feszı́tő erőt a fentiek mintájára tetszőleges pontban (tetszőleges
                 ϕ szögre) kiszámı́thatjuk:
-                                                                          
+
                                                           4       4    2 ϕ
                                             K(ϕ) = mg        ϕ − sin          ,
                                                           π2      π      2
@@ -267,7 +273,9 @@ i                                                                               
 
 
     i                                                                                                                          i
-    i                                                                                                                            i
+
+
+    i                                                                                                                            i
 
         2023.2.4 – 16:39 – 109. oldal – 45. lap                                                         KöMaL, 2023. február
 i                                                                                                                                    i
@@ -332,7 +340,9 @@ i                                                                               
 
 
     i                                                                                                                            i
-    i                                                                                                                          i
+
+
+    i                                                                                                                          i
 
         2023.2.4 – 16:39 – 110. oldal – 46. lap                                                       KöMaL, 2023. február
 i                                                                                                                                  i
@@ -356,7 +366,7 @@ i                                                                               
                 mos tér visszafordı́tja őket. Az ilyen irányú áthaladáshoz szükséges határsebességet
                 a munkatételből kaphatjuk meg:
 
-                                                                                 
+
                                                  1                                   2eU
                                         −eU = 0 − mv ∗2            −→       ∗
                                                                            v =           ,
@@ -385,7 +395,7 @@ i                                                                               
                                                        vetkezőképp fejezhetjük ki:
                              7. ábra
 
-                                                       ∞
+                                                        ∞
                                               ΔN1 =         n1 f (vx ) · Avx Δt dvx .
                                                       v∗
 
@@ -399,7 +409,9 @@ i                                                                               
 
 
     i                                                                                                                          i
-    i                                                                                                                          i
+
+
+    i                                                                                                                          i
 
         2023.2.4 – 16:39 – 111. oldal – 47. lap                                                       KöMaL, 2023. február
 i                                                                                                                                  i
@@ -407,7 +419,7 @@ i                                                                               
 
                 Ha ezt a mennyiséget elosztjuk az A területtel és a Δt időtartammal, akkor meg-
                 kapjuk a kisebb térrészből a nagyobb térrészbe belépő részecskeáram-sűrűséget:
-                                                                          ∞
+                                                                           ∞
                                                         ΔN1
                                                    j1 =     = n1               f (vx )vx dvx .
                                                         AΔt
@@ -417,7 +429,7 @@ i                                                                               
                 kék áramsűrűségét, azzal a különbséggel, hogy ilyen irányban minden olyan részecs-
                 ke átjut a fémhálón, amelynek x irányú sebességkomponense negatı́v:
 
-                                                                    0
+                                                                     0
                                                           j2 = n2        f (vx )vx dvx .
                                                                  −∞
 
@@ -434,8 +446,8 @@ i                                                                               
 
                      Felhasználva f (vx ) korábban felı́rt alakját:
 
-                                         ∞          mv 2
-                                                                           0          2
+                                          ∞          mv 2
+                                                                            0          2
                                                                                      mvx
                                                    − 2kTx
                                     n1        Ce            vx dvx + n2         Ce− 2kT vx dvx = 0.
@@ -449,7 +461,7 @@ i                                                                               
                                                               kT
                 ı́gy a fenti egyenlet egyszerűsı́tések és az integrálási határok megváltoztatása után
                 ı́gy ı́rható:
-                                                ∞                 0
+                                                 ∞                  0
                                             n1     e dw + n2 e−w dw = 0.
                                                      −w
 
@@ -466,7 +478,9 @@ i                                                                               
 
 
     i                                                                                                                          i
-    i                                                                                                                                 i
+
+
+    i                                                                                                                                 i
 
         2023.2.4 – 16:39 – 112. oldal – 48. lap                                                              KöMaL, 2023. február
 i                                                                                                                                         i
@@ -483,7 +497,7 @@ i                                                                               
                                                        n1 e− kT − n2 = 0,
 
                 ahonnan a keresett U feszültség:
-                                                                 
+
                                                  kT          n1            kT
                                            U=       ln                 =      ln 2 ≈ 72 mV.
                                                   e          n2             e
@@ -533,7 +547,9 @@ i                                                                               
 
 
     i                                                                                                                                 i
-    i                                                                                                                    i
+
+
+    i                                                                                                                    i
 
         2023.2.4 – 16:39 – 113. oldal – 49. lap                                                 KöMaL, 2023. február
 i                                                                                                                            i
@@ -574,7 +590,7 @@ i                                                                               
                                             eΔN · U − ΔN kT ln         = 0.
                                                                     p2
                 A mozgatott gázmennyiség ΔN részecskeszámával leoszthatunk, majd közvetlenül
-                megkapjuk az                           
+                megkapjuk az
                                               kT       p1      kT
                                            U=      ln       =       ln 2
                                                e       p2       e
@@ -589,7 +605,7 @@ i                                                                               
                 Ugyanerre az eredményre jutunk, ha átrendezzük a jól ismert barometrikus ma-
                                                                                     ”
                 gasságformula” képletét:
-                                                     gΔh  mgΔh
+                                                      gΔh  mgΔh
                                              p2    −               ΔE
                                                 = e p1 = e− kT = e− kT ,
                                              p1
@@ -601,7 +617,9 @@ i                                                                               
 
 
     i                                                                                                                    i
-    i                                                                                                                         i
+
+
+    i                                                                                                                         i
 
         2023.2.4 – 16:39 – 114. oldal – 50. lap                                                      KöMaL, 2023. február
 i                                                                                                                                 i
@@ -668,7 +686,9 @@ i                                                                               
 
 
     i                                                                                                                         i
-    i                                                                                                                    i
+
+
+    i                                                                                                                    i
 
         2023.2.4 – 16:39 – 115. oldal – 51. lap                                                 KöMaL, 2023. február
 i                                                                                                                            i
@@ -680,18 +700,18 @@ i                                                                               
 
 
                 negyed körgyűrű határára:
-                                                                                             
+
                 (1)         R1 I1 − R7 (I − I1 − I2 ) = 0       →      πR I1 − 3(I − I1 − I2 ) = 0,
                                         R3 I3 + R5 (I − I2 + I3 ) − R6 (I2 − I3 ) = 0,
 
                 amiből
 
-                                         πR                                   
+                                         πR
                 (2)                           I3 + 2(I − I2 + I3 ) − (I2 − I3 ) = 0,
                                           2
 
                 adódik, és végül
-                                                                      π                    
+                                                                       π
                 (3)       R2 I2 + R3 I3 − R4 (I − I2 ) − R1 I1 = R I2 + I3 − (I − I2 ) − πI1 = 0.
                                                                        2
 
@@ -707,7 +727,7 @@ i                                                                               
                                                   r alakban adódik. Ezek alapján már kiszámı́thatjuk
                 a külső, majd a belső karika által keltett mágneses teret. A külső karika esetén:
 
-                                  μ0 I 1   3μ0 I − I1 − I2   μ0                      
+                                  μ0 I 1   3μ0 I − I1 − I2   μ0
                              B=          −                 =      I1 − 3(I − I1 − I2 ) = 0,
                                   8 2r      8      2r        16r
 
@@ -720,7 +740,9 @@ i                                                                               
 
 
     i                                                                                                                    i
-    i                                                                                                                        i
+
+
+    i                                                                                                                        i
 
         2023.2.4 – 16:39 – 116. oldal – 52. lap                                                     KöMaL, 2023. február
 i                                                                                                                                i
@@ -728,7 +750,7 @@ i                                                                               
 
                 azaz a mágneses indukció értéke nulla a középpontban. A levezetés utolsó lépésében
                 felhasználtuk az (1) egyenletet. A belső karika esetében:
-                      μ0 I3 2μ0 I − I2 + I3 μ0 I2 − I3            μ0                                    
+                      μ0 I3 2μ0 I − I2 + I3 μ0 I2 − I3            μ0
                 B=           +                   −             =        I3 + 2(I − I2 + I3 ) − (I2 − I3 ) = 0,
                        8 r      8       r           8      r       8r
                 itt is nullának adódik a mágneses indukció nagysága. Az utolsó lépésben a (2)
@@ -742,19 +764,19 @@ i                                                                               
                                                     mágneses tér a középpontban nulla. Tekintsünk egy
                                                     r̃ sugarú karikát, melyet a befutó sugárirányú veze-
                                                     tékek körı́vekre bontanak. Az i. körı́v középponti
-                                                    szöge legyen αi , hossza i , rajta átfolyó áram Ii , el-
+                                                    szöge legyen αi , hossza  i , rajta átfolyó áram Ii , el-
                                                     lenállása Ri , ezen ellenálláson eső feszültség Ui .
                                                           Az i. körı́v által keltett mágneses tér a közép-
                                                     pontban
                            11. ábra
-                                                             μ0 αi I i   μ 0 i I i   μ0 rRi Ii   μ0 rUi
+                                                             μ0 αi I i   μ 0  i I i   μ0 rRi Ii   μ0 rUi
                                                       Bi =             =        2
                                                                                     =        2
                                                                                                 =         ,
                                                               4π r̃      4π r̃        4π Rr̃      4π Rr̃2
 
                 ami arányos a körı́ven eső feszültséggel. Összegezve az összes körı́v járulékát:
-                                                            μ0 r 
+                                                             μ0 r
                                            B=         Bi =               Ui = 0.
                                                    i
                                                              4π Rr̃2 i
@@ -788,7 +810,9 @@ i                                                                               
 
 
     i                                                                                                                        i
-    i                                                                                                                  i
+
+
+    i                                                                                                                  i
 
         2023.2.4 – 16:39 – 117. oldal – 53. lap                                               KöMaL, 2023. február
 i                                                                                                                          i

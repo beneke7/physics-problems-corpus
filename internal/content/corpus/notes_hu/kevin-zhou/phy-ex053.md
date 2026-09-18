@@ -26,7 +26,6 @@ Példa. Egy tompa test szuperszonikus sebességgel haladva „orrhullámot” ke
 ábra mutatja. (Éles csúcsú test esetén ehelyett a testhez csatolt kúpos lökéshullámot kapnánk,
 amelyet Mach-kúpnak nevezünk.)
 
-117 4. Folytonos közegek mechanikája
 
 
 Ezen a lökéshullámon áthaladva a folyadék tulajdonságai szakadásszerűen megváltoznak. Az
@@ -83,7 +82,6 @@ intuíció kedvéért néhány példával kezdünk, és mindvégig összenyomhat
       ahol η-t (dinamikai) viszkozitásnak nevezzük. A viszkozitás mértékegységének többféle neve
       van: 1 Pa s = 1 Poiseuille = 0.1 poise.
 
-118 4. Folytonos közegek mechanikája
 
 
  • Például egy tökéletes gázra kinetikus gázelmélettel megmutathatjuk, hogy
@@ -126,7 +124,7 @@ intuíció kedvéért néhány példával kezdünk, és mindvégig összenyomhat
 
    A későbbi időpontokban a megoldás
                                                               y2
-                                                                  
+
                                               u0 a
                                 vx (y, t) = √         exp − 2
                                              a2 + 4νt      a + 4νt
@@ -144,7 +142,6 @@ intuíció kedvéért néhány példával kezdünk, és mindvégig összenyomhat
                                                             √
                                         vx (y, t) = u0 f (y/ νt).
 
-119 4. Folytonos közegek mechanikája
 
 
     Ezt a próbafüggvényt behelyettesítve kapjuk:
@@ -204,7 +201,6 @@ Most felírjuk az összenyomhatatlan áramlás Navier–Stokes-egyenleteit.
    a falnál. Az összenyomhatatlanság miatt a falnál ∇z vz = 0 is, tehát a nyírófeszültség eltűnik a
    falnál, és így σ · n̂ = −pn̂ folytonos, vagyis p is az.
 
-120 4. Folytonos közegek mechanikája
 
 
  • Ennek az egyenletnek a rotációját véve
@@ -246,7 +242,7 @@ Most felírjuk az összenyomhatatlan áramlás Navier–Stokes-egyenleteit.
 Végül az összenyomható áramlás néhány bonyolultságát vizsgáljuk.
 
  • Ebben az esetben a feszültség ∇ · v-től is függhet, és szokás a következőképpen definiálni:
-                                                                  
+
                                                         2
                         σij = −p δij + η ∇i vj + ∇j vi − δij ∇ · v + ζδij ∇ · v
                                                         3
@@ -255,7 +251,7 @@ Végül az összenyomható áramlás néhány bonyolultságát vizsgáljuk.
     befolyásolja a mechanikai nyomást.
 
  • A mozgásegyenletek ekkor
-                           
+
              ∂v                                                                   ∂ρ
          ρ       + (v · ∇)v) = f − ∇p + η∇2 v + (ζ + η/3)∇(∇ · v),                   + ∇ · (ρv) = 0
               ∂t                                                                  ∂t
@@ -263,7 +259,6 @@ Végül az összenyomható áramlás néhány bonyolultságát vizsgáljuk.
     Ha p = p(ρ, T ), akkor a T fejlődésének leírásához egy differenciális hőegyenletre is szükségünk
     lenne. Az η és ζ viszkozitások szintén függhetnének T-től.
 
-121 4. Folytonos közegek mechanikája
 
 
   • Ebben az összenyomható esetben a sebesség és a σ · n̂ folytonos marad a határfelületeken, a nyomás

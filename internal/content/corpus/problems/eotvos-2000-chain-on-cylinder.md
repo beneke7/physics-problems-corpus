@@ -24,7 +24,7 @@ techniques: [conservation-laws, differential-element]
 
 Egy $R$ sugarú, sima felületű, vízszintes helyzetű, rögzített hengerhez egy apró szemű láncot kötünk úgy, hogy egyik végét a paláston, a henger tengelyével azonos magasságban fekvő $A$ pontban rögzítjük, majd a láncot egyszer átvetjük a hengeren.
 
-![ábra](../../sources/eotvos/figures/eotvos-2000-chain-on-cylinder-fig1.png)
+![ábra](../../figures/eotvos/figures/eotvos-2000-chain-on-cylinder-fig1.png)
 
 Legalább mekkora legyen a függőlegesen lelógó rész $l$ hossza, hogy a lánc többi része mindenhol a henger palástjához simuljon?
 

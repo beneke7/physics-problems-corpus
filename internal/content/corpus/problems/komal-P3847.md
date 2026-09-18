@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-To what potential should a spherical mercury drop be charged, if its electric potential energy is equal to its energy due to the surface tension. The diameter of the mercury drop is 2 mm. 
+To what potential should a spherical mercury drop be charged, if its electric potential energy is equal to its energy due to the surface tension. The diameter of the mercury drop is 2 mm.
  (4 pont)

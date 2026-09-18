@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, smart-coordinates]
 ---
 
-At each vertex of an equilateral triangle of sides $a=60$ cm there is a point-like charge of $Q=6\cdot 10^{-7}$ C in vacuum. What is the magnitude and the direction of the electric field at the trisection points of the sides of the triangle? 
+At each vertex of an equilateral triangle of sides $a=60$ cm there is a point-like charge of $Q=6\cdot 10^{-7}$ C in vacuum. What is the magnitude and the direction of the electric field at the trisection points of the sides of the triangle?
  (4 pont)

@@ -22,7 +22,7 @@ verification_status: pending
 
 A Foucault-áramok mozgó fémtárgyak, például forgó korongok lassítására használhatók. Tekintsük az alábbi egyszerű modellt. Az egyszerűség kedvéért a korongot egy „kör alakú sínrendszerrel” helyettesítjük, lásd az ábrát. Egy $r=15\ \mathrm{cm}$ sugarú, $m=100\ \mathrm{g}$ tömegű és $h=1\ \mathrm{cm}$ magasságú műanyag „doboz” homogén korongból (a „doboz” aljából) és egy sokkal vékonyabb hengerpalástból áll. A hengerpalást peremén két drótgyűrű (sín) található, amelyeket párhuzamos drótrudak (keresztaljak) kötnek össze. Mind a keresztaljak, mind a sínek $\delta=0.2\ \mathrm{mm}$ átmérőjű rézhuzalból készülnek; a keresztaljak közötti távolság $L=\alpha h$, ahol $\alpha=0.3$. A rendszer súrlódásmentes forgását egy homogén mágneses tér $(B=1\ \mathrm{T})$ lassítja egy állandó mágnes pólusai közötti résben, lásd az ábrát. Tegyük fel, hogy a homogén mágneses tér egy téglalap keresztmetszetű tartományt tölt ki, amely három egymást követő keresztalj közötti területtel egyenlő (azaz $h \times 2\alpha h$ méretű). Ezen a tartományon kívül a mágneses tér elhanyagolható. A réz fajlagos ellenállása $\rho=1.724\cdot10^{-8}\ \Omega\mathrm{m}$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2005-magnetic-break-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2005-magnetic-break-fig1.jpg)
 
 Tegyük fel, hogy a rendszer mozdulatlan.
 

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-Where and how can it happen that the Sun is observed to rise in the West and not in the East? 
+Where and how can it happen that the Sun is observed to rise in the West and not in the East?
  (3 pont)

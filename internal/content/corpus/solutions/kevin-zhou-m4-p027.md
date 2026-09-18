@@ -71,16 +71,16 @@ mg(1 + cosθ)
 where θ is the angle from the vertical. By energy conservation, the first term is mg(cosθ−cosθ0)
 where θ0 is the amplitude, so
 T =
-
+
 1
 2
 +
 3
 2
 cosθ − cosθ0
-
+
 mg ≈
-
+
 1 +
 θ2
 0
@@ -89,13 +89,13 @@ mg ≈
 3
 4
 θ2
-
+
 mg
 where we used the small angle approximation in the second step. Since the motion is approxi-
 mately simple harmonic, the average value of θ2 is θ2
 0/2, so
 T =
-
+
 1 +
 1
 2
@@ -105,19 +105,19 @@ T =
 8
 θ2
 0
-
+
 mg > mg
 as expected.
 (c) Of course, you can do this using energy conservation and the adiabatic invariant. But we can
 also directly use the result of part (b) to solve it by considering forces.
 As we’ve seen above,
 T =
-
+
 1 +
 1
 8
 θ2
-
+
 mg
 where θ is the amplitude. Let x be the distance the right mass has risen. From the standpoint
 of the left mass, it is simply a pendulum whose length is being adiabatically lengthened, so
@@ -138,12 +138,12 @@ mg
 4
 Lθ2
 0
-
+
 1 −
 1
 √
 2
-
+
 .
 This is the net work done on the right mass, so setting this equal to mu2/2 gives
 u =

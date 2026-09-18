@@ -26,7 +26,7 @@ verification_status: pending
 
 A puck (a small disc) with radius $r$ and uniform density is moving on a horizontal plane with the velocity $v_0$ without rotation. The puck meets a fixed half-circular wall with a radius $R \gg r$ and starts to move along the wall. The coefficient of friction with the wall is $\mu$, and friction with the horizontal plane is negligible.
 
-![figure](../../sources/eupho/figures/eupho-2024-T1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2024-T1-1.png)
 
 **a) (8 pts)** Find the velocity of the puck $v_e$ when it leaves the wall.
 

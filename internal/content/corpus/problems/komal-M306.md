@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201005"
 verification_status: pending
 ---
 
-Measure how the force between two bar magnets, which lie along the same line, depends on the distance between them. 
+Measure how the force between two bar magnets, which lie along the same line, depends on the distance between them.
  (6 pont)

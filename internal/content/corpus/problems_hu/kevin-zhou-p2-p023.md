@@ -32,11 +32,13 @@ M −m
 
 
                                                      9
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
         (c) Tegyük fel, hogy egy test A amplitúdójú és ω szögfrekvenciájú egyszerű harmonikus mozgást végez. Az x helyzet és a v sebesség mérési adatai alapján milyen egyenest rajzolhatunk
 
 
-                     01W
+                     01W
             A és ω meghatározására?

@@ -97,7 +97,9 @@ Then we get                                                                     
                                                                 (0.2 pts)   ii. (0.5 pts) In order to be able to straighten himself, the
                                                                             walker’s centre of mass has to move leftwards, by a negative
                                                                    — page 1 of 7 —
-angle.                                               (0.1 pts)                              1.96      1.96
+
+
+angle.                                               (0.1 pts)                              1.96      1.96
                                                                                   α2 = α0 −      β0 ≈      β0
                                                                                             2.96      2.96
                                                                  The torque can be expressed as
@@ -186,7 +188,9 @@ During the bowing stage, the angles of the body segments are
                    α1 = α0 +        ≈                            Therefore we can rewrite the average torque as
                                2.96   2.96
                                                         — page 2 of 7 —
-                                        2v0                                                                             (0.2 pts)
+
+
+                                        2v0                                                                             (0.2 pts)
     ⟨M ⟩ = ⟨mla(t)[φ(t) − ⟨φ⟩]⟩ = −ml       ⟨|φ(t) − ⟨φ⟩ |⟩
                                          T
 
@@ -214,7 +218,9 @@ obtain
 
 
                                                         — page 3 of 7 —
-Problem T2. Gravitational waves (10 points)                                  ii. (0.8 pts) The dimensions for A need to be
+
+
+Problem T2. Gravitational waves (10 points)                                  ii. (0.8 pts) The dimensions for A need to be
 Part A. Dipole radiation (2.4 points)                                                           1          kgm2 1          1
                                                    1
    For the sake of convenience, let us denote k = 4πϵ                                     W            =              = 3 2
@@ -305,7 +311,9 @@ the star’s angular speed from the relation ω = R .               (0.2 pts)   
 
 
                                                                    — page 4 of 7 —
-                                              P
+
+
+                                              P
                                                                                                    √
                                             qg
 iv. (1 pt) The flux at distance L is S = 4πL  2,    (0.4 pts)                                 1        GM
@@ -373,7 +381,9 @@ and frequency ω = 2π
 
 
                                                          — page 5 of 7 —
-Problem T3. Magnetars (11 points)                             iii. (1 pt) During the collapse there is no torque on the
+
+
+Problem T3. Magnetars (11 points)                             iii. (1 pt) During the collapse there is no torque on the
 i. (1.5 pts) If we change the frog’s height by ∆h, the change star, this means that the angular momentum remains constant.
 in potential energy needs to be smaller than the change in mag- Thus
 netic energy.                                         (0.2 pts)                                    2           2
@@ -452,7 +462,9 @@ and numerically                                                                 
 
 
                                                                    — page 6 of 7 —
-Solving for Bn we get               √                             tainty principle. The uncertainty of the momentum is
+
+
+Solving for Bn we get               √                             tainty principle. The uncertainty of the momentum is
                               M         µ0 G
                         Bn = 3 2
                               R         10π                                                  ∆p = 2me v

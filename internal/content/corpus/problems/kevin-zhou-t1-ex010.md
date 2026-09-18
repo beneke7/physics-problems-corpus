@@ -58,7 +58,9 @@ solution_language: en
 
 
                                                      17
-Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                     Physics Olympiad Handouts
 
 
 
@@ -101,7 +103,7 @@ solution_language: en
                                            ⟨vx,rel ⟩=
                                                          µ
   and by momentum conservation we conclude
-                                      2
+                                        2
                         2        Mg         2        kB T Mg
                      ⟨Vx ⟩ =              ⟨vx,rel ⟩=
                                M + Mg                 M M + Mg
@@ -112,4 +114,6 @@ solution_language: en
 
 
                                                   18
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts

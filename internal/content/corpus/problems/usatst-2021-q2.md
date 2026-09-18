@@ -63,7 +63,7 @@ Numerically compute the axion field amplitude $a_{0}$.
 (e) In this problem, we treat the axion field as spatially uniform within a terrestrial laboratory. To verify that this assumption is reasonable, numerically estimate the axion field's wavelength $\lambda$, assuming the axions have the same galactic speed as the Sun.
 (f) In part (a), you found $\omega$ by neglecting the axion's speed. In reality, the axion's finite speed changes the frequency to $\omega+\Delta \omega$, in a frame at rest with respect to the galactic center. Numerically estimate $\Delta \omega / \omega$ to show that it is reasonable to neglect this effect.
 
-![](usatst-2021-q2-fig01.png)
+![](../../figures/usatst/figures/usatst-2021-q2-fig01.png)
 
 The ABRACADABRA ${ }^{1}$ experiment, currently taking data at MIT, is a toroidal solenoid with inner and outer radius $R_{\text {in }}$ and $R_{\text {out }}$ and height $h$. You may assume $h \gg R_{\text {out }}$ for simplicity. A superconducting wire carrying current $I$ wraps $N$ times around the toroid, where $N$ is high enough to neglect the discreteness of the wires. A circular pickup loop with radius slightly less than $R_{\text {in }}$ is placed at the center of the toroid.
 2. Now, we will find the axion signal generated in the ABRACADABRA apparatus.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202401"
 verification_status: pending
 ---
 
-Measure how much power is required to heat water in a microwave oven. What can this value depend on? 
+Measure how much power is required to heat water in a microwave oven. What can this value depend on?
  (6 pont)

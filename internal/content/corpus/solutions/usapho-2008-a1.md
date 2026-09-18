@@ -27,7 +27,7 @@ Possibly Useful Information. You may use this sheet for all three parts of the e
 g = 9.8 N/kg G = 6.67 × 10−11
 N · m2
 /kg2
-k = 1/4π0 = 8.99 × 109
+k = 1/4π 0 = 8.99 × 109
 N · m2
 /C2
 km = µ0/4π = 10−7
@@ -49,21 +49,21 @@ eV · s
 me = 9.109 × 10−31
 kg = 0.511 MeV/c2
 (1 + x)n
-≈ 1 + nx for |x| 
+≈ 1 + nx for |x|
  1
 sinθ ≈ θ − 1
 6θ3
-for |θ| 
+for |θ|
  1 cosθ ≈ 1 − 1
 2θ2
-for |θ| 
+for |θ|
  1
 Copyright ©2008 American Association of Physics Teachers
 2008 Semifinal Exam Part A 3
 Part A
 Question A1
 Four square metal plates of area A are arranged at an even spacing d as shown in the diagram. (Assume
-that A 
+that A
  d2
 .)
 Plate 1
@@ -133,8 +133,8 @@ V2 + V2,
 V0 = V2.
 Finally, solving for V1, we get V1 = V0/6.
 Alternatively, we could focus on the plate arrangement and the fact that across a boundary |∆E⊥| =
-|σ/0|, a consequence of Gauss’s Law. Also, we have, for parallel plate configurations, |∆V | = |Ed|. Since
-0 and d are the same for each of the three regions, it is sufficient to simply look at the electric fields.
+|σ/ 0|, a consequence of Gauss’s Law. Also, we have, for parallel plate configurations, |∆V | = |Ed|. Since
+ 0 and d are the same for each of the three regions, it is sufficient to simply look at the electric fields.
 E0
 E0
 E2

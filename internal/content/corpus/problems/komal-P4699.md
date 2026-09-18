@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [smart-coordinates, model-reduction, differential-element]
 ---
 
-Two thin sheets on the surface of a  slope of angle of elevation of $\alpha=30^\circ$ form a pair of rails. The distance between the sheets is $d=1.6$ cm. A ball of diameter of 2 cm is placed to the rails and it rolls down without slipping. 
+Two thin sheets on the surface of a  slope of angle of elevation of $\alpha=30^\circ$ form a pair of rails. The distance between the sheets is $d=1.6$ cm. A ball of diameter of 2 cm is placed to the rails and it rolls down without slipping.
 
- $a)$ Calculate the acceleration of the centre of the ball. 
- $b)$ If the coefficient of friction is $\mu$, at what angle of elevation will the ball slip on the rails? 
+ $a)$ Calculate the acceleration of the centre of the ball.
+ $b)$ If the coefficient of friction is $\mu$, at what angle of elevation will the ball slip on the rails?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4699-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4699-fig1.gif)

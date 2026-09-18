@@ -21,11 +21,11 @@ We will assume the relationship of the form:
 
                                        Mp = f(Mw) h(T)
 Mw represents the mass in the hanger (Load)
-Mp represents the mass in the pan + the mass of the pan (i.e. M cp  M pan ) (Effort)
+Mp represents the mass in the pan + the mass of the pan (i.e. M cp   M pan ) (Effort)
 
 The relation between these variables can be found in two parts:
-            Relation between MP and MW
-            Relation between MP and T
+             Relation between MP and MW
+             Relation between MP and T
 
 Part 1:
 
@@ -33,8 +33,8 @@ Mass of the pan = 28.6 g
 T = π radians
 
 
-                                                                                             M cp   M cp 
-Obs.            M cp    M cp    M cp average   M p average   M cp average  M pan   'M p
+                                                                                             M cp     M cp
+Obs.            M cp     M cp     M cp average   M p average   M cp average   M pan   'M p
      Mw/g                                                                                          2
 No.              /g       /g          /g                        /g
                                                                                              /g
@@ -51,7 +51,8 @@ No.              /g       /g          /g                        /g
 
 
                                                                                              Page 1 of 7
- 13th Asian Physics Olympiad
+
+ 13th Asian Physics Olympiad
                                       EXPERIMENT NO. - 1
  May 01-07, 2012, New Delhi
 
@@ -70,7 +71,8 @@ This shows that
 
 
                                                  Page 2 of 7
-  13th Asian Physics Olympiad
+
+  13th Asian Physics Olympiad
                                                                                   EXPERIMENT NO. - 1
   May 01-07, 2012, New Delhi
 
@@ -80,8 +82,8 @@ This shows that
  Mpan      = 28.6 g
 
 
-                                                                                               M cp   M cp 
-Obs.        T     M cp    M cp    M cp average   M p average   M cp average  M pan   'M p
+                                                                                               M cp     M cp
+Obs.        T     M cp     M cp     M cp average   M p average   M cp average   M pan   'M p
                                                                                                      2
 No.     /rad       /g       /g          /g                        /g
                                                                                                /g
@@ -110,7 +112,8 @@ No.     /rad       /g       /g          /g                        /g
 
 
                                                                                                Page 3 of 7
- 13th Asian Physics Olympiad
+
+ 13th Asian Physics Olympiad
                                                                          EXPERIMENT NO. - 1
  May 01-07, 2012, New Delhi
 
@@ -119,7 +122,7 @@ There can be possibilities of different functional relationship.
 1)
 
                                   1 1
-The possible functions can be      , 2 , e  kT
+The possible functions can be      , 2 , e   kT
                                   T T
 
 For the first two functions mentioned above, at T = 0, Mp will reach infinite value which is
@@ -137,29 +140,30 @@ technique whether at every half value of Mp, and then plotting ln Mp or better s
 
 If it is a straight line with slope –k,
 
-                                             M p v e  kT
+                                             M p v e   kT
 
                                                   or
 
-                                                  P v e  kT                                 (2)
+                                                  P v e   kT                                 (2)
 
 From (1) and (2),
 
-                                                  P v We  kT                                (3)
+                                                  P v We   kT                                (3)
 
 The constant k in the above expression is equated to the coefficient of friction, µ.
 
-                                                  P CWe  P T                                (4)
+                                                  P CWe   P T                                (4)
 
 The constant of proportionality in equation (4) is 1. This is because at T = 0 rad, P = W.
 
-                                                  P We  P T                                 (5)
+                                                  P We   P T                                 (5)
 
 
 
 
                                                                                        Page 4 of 7
- 13th Asian Physics Olympiad
+
+ 13th Asian Physics Olympiad
                                                           EXPERIMENT NO. - 1
  May 01-07, 2012, New Delhi
 
@@ -169,7 +173,7 @@ The constant of proportionality in equation (4) is 1. This is because at T = 0 r
 From the graph,
 
                                          §Mp ·
-                                     ln ¨¨    ¸¸    PT
+                                     ln ¨¨    ¸¸     PT
                                          © Mw ¹
 
 where µ is the slope of the graph.
@@ -192,7 +196,8 @@ U P     0.0123 | 0.02
 
 
                                                                      Page 5 of 7
- 13th Asian Physics Olympiad
+
+ 13th Asian Physics Olympiad
                                                                                            EXPERIMENT NO. - 1
  May 01-07, 2012, New Delhi
 
@@ -200,21 +205,21 @@ Part 2:
 
 When the pan is moving up:
 
-                                                  M p1         M u eP T                                       (6)
+                                                  M p1         M u e P T                                       (6)
 
 When the pan is moving down:
 
                                                   M p2         M ueP T                                         (7)
 
                          M cp1
-                                              M cp1 average          'M cp1      M p1   M cp1  M pan
-                M cp1            M cp1
+                                              M cp1 average          'M cp1      M p1   M cp1   M pan
+                M cp1             M cp1
                 164                156            160                    4              188.6
 
 
                          M cp 2
-                                              M cp 2 average        'M cp 2     M p2    M cp 2  M pan
-               M cp 2            M cp 2
+                                              M cp 2 average        'M cp 2     M p2    M cp 2   M pan
+               M cp 2             M cp 2
                  49                45              47                    2              75.6
 
 
@@ -222,7 +227,7 @@ For Mu:
 
 Multiplying equation (6) and (7),
 
-                                                  Mu            M p1  M p 2
+                                                  Mu            M p1   M p 2
 
                                          Mu       188.6 u 75.6             119.4075g
 
@@ -248,7 +253,8 @@ For T = π
 
 
                                                                                                          Page 6 of 7
- 13th Asian Physics Olympiad
+
+ 13th Asian Physics Olympiad
                                                                             EXPERIMENT NO. - 1
  May 01-07, 2012, New Delhi
 
@@ -262,7 +268,7 @@ Uncertainty in Mu:
           'M u       § 1 'M p1 · § 1 'M p 2 ·                       2
                                                          §1 4 · §1 2 ·
                                                                                   2
-                     ¨         ¸ ¨         ¸            ¨         ¸ ¨       ¸       0.0169
+                     ¨         ¸  ¨         ¸            ¨         ¸  ¨       ¸       0.0169
            Mu        ¨2 M ¸ ¨2 M ¸                       © 2 188.6 ¹ © 2 75.6 ¹
                      ©     p1  ¹ ©     p 2  ¹
 
@@ -284,7 +290,7 @@ Uncertainty in µu:
                                                                   § 4 · § 2 ·
                                                                                          2
 
-uC P u        'Pu          ¨       ¸ ¨        ¸                 ¨       ¸ ¨     ¸            0.003117
+uC P u         'Pu          ¨       ¸  ¨        ¸                 ¨       ¸  ¨     ¸            0.003117
            3          2S 3 ¨© M p1 ¸¹ ¨© M p 2 ¸¹            2S 3 © 188.6 ¹ © 75.6 ¹
 
 

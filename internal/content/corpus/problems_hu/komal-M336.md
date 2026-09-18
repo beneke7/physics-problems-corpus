@@ -11,4 +11,4 @@ verification_status: pending
 
 M. 336. Erősítsünk tengelyt egy félliteres PET palack kupakjához, és mérjük meg a palack lengésidejét erre a vízszintes tengelyre vonatkozólag! Változtassuk a palackban a folyadék mennyiségét, és határozzuk meg, mekkora folyadékmennyiség esetén legnagyobb a lengésidő!
 
-![figure](../../raw_html/komal_figures/komal-M336-fig1.gif)
+![figure](../../figures/komal/figures/komal-M336-fig1.gif)

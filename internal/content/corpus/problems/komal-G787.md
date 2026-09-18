@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-Research the internet and find out in the case of water between the temperature values of $0\;{}^\circ$C and $100\;{}^\circ$C the largest percentage difference of the following quantities: density, speed of sound, surface tension, and specific heat. To what temperature values (in Celsius degree) do the maximum and minimum values of these quantities belong? (Always relate the difference in percent to the maximum value.) Also indicate the sources of your data. 
+Research the internet and find out in the case of water between the temperature values of $0\;{}^\circ$C and $100\;{}^\circ$C the largest percentage difference of the following quantities: density, speed of sound, surface tension, and specific heat. To what temperature values (in Celsius degree) do the maximum and minimum values of these quantities belong? (Always relate the difference in percent to the maximum value.) Also indicate the sources of your data.
  (3 pont)

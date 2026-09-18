@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 609. Az ábrán látható ember sajátos módon támaszkodik egy házfalnak, arra $F$ erőt fejt ki. Ha a talajhoz rögzített koordináta-rendszerből nézzük, a falnak támaszkodó ember nem végez munkát, mivel az elmozdulása nulla. Az autóban $v$ sebességgel utazó megfigyelő szerint az ember hosszú úton folyamatosan fejti ki az erőt, tehát munkát végez. Miért nem fárad ki az így pihenő ember?
 
-![figure](../../raw_html/komal_figures/komal-G609-fig1.gif)
+![figure](../../figures/komal/figures/komal-G609-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-Hydrogen atoms of negligible initial speed, being at ground state, are bombarded by protons of speed . What will the speeds of the hydrogen atom and the proton be if the collision is a head-on one along a straight line and the the hydrogen atom will be in its fourth exited state? 
+Hydrogen atoms of negligible initial speed, being at ground state, are bombarded by protons of speed . What will the speeds of the hydrogen atom and the proton be if the collision is a head-on one along a straight line and the the hydrogen atom will be in its fourth exited state?
  (5 pont)

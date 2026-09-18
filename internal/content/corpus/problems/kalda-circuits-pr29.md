@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the power dissipation on each of the diodes in the figure below. These diodes open at the forward voltage $V_{0}=1.0 \mathrm{~V}$. It can be assumed that the diode voltage remains equal to $V_{0}$ for any forward current, and that for voltages less than $V_{0}$, there is no current through the diode. The values of the resistances and of the electromotive force are given in the figure.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr29-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr29-fig1.jpg)

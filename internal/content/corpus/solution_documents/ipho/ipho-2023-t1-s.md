@@ -80,7 +80,9 @@ Therefore, with 𝑣0 (𝑡1 ) = 0, we obtain
 
 
                                                                 1
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                    S1‒2
@@ -146,7 +148,9 @@ motion in this model. This requires that 𝐶𝛿 remains finite, so that 𝐶 �
 
 
                                                          2
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                       S1‒3
@@ -213,7 +217,9 @@ Plugging this into the result of B.1, we obtain
 
 
                                                             3
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                 S1‒4
@@ -286,7 +292,9 @@ C.5     From the result of C.3 and Eq. (4) in the question sheet, we have
 
 
                                                        4
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                            S1‒5
@@ -350,7 +358,9 @@ with 𝑡∗ = 2𝐷/𝑢2 . Therefore,
 
 
                                                              5
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                         S1‒6
@@ -410,7 +420,9 @@ barrier to disappear is given by
 
 
                                                             6
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                       S1‒7

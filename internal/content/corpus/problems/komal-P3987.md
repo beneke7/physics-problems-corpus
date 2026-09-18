@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: pending
 ---
 
-A converging lens of focal length  f is used to create a real image on a screen placed at a distance of  d from the lens. Graph the number of possible images as a function of  d . 
+A converging lens of focal length  f is used to create a real image on a screen placed at a distance of  d from the lens. Graph the number of possible images as a function of  d .
  (4 pont)

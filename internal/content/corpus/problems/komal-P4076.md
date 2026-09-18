@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200805"
 verification_status: pending
 ---
 
-There is 1 litre water in a 2-l pot, the base of which has an area of 1 dm$^{2}$. How much work is done if a high cylinder shaped glass of cross section 0.5 dm$^{2}$ is pushed down to the bottom of the pot. The glass has negligible mass and its base is below. 
+There is 1 litre water in a 2-l pot, the base of which has an area of 1 dm$^{2}$. How much work is done if a high cylinder shaped glass of cross section 0.5 dm$^{2}$ is pushed down to the bottom of the pot. The glass has negligible mass and its base is below.
  (4 pont)

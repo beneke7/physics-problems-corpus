@@ -26,7 +26,6 @@ Példa. Üvegek akkor képződnek, amikor a folyadékokat túl gyorsan hűtjük 
                                                      d̄Q              d̄Q
                                   Sres =                 +                .
                                             T =0      T       T =ℓ     T
-69 3. Statisztikus mechanika
 
 
 Más szavakkal a maradék entrópia a „hiányzó hő” mennyiségéhez kapcsolódik: ezt a kristály megolvasztásakor bevisszük, de kristályosításakor nem kapjuk vissza.
@@ -39,18 +38,17 @@ Megjegyzés. Néhányan kifogásolják, hogy a szubjektív információ entrópi
      Azt az eredményt, hogy egy bit törlésekor kB T log 2 hő keletkezik, Landauer-elvnek nevezzük; ez igen általánosan érvényes, mivel a fenti érvelés minden, Liouville tételét teljesítő rendszerre alkalmazható. Azokra a számításokra is érvényes, amelyek visszafordíthatatlan lépéseket tartalmaznak. Például egy egyenletesen véletlen bemenetekkel táplált AND-kapu kisebb Shannon-entrópiájú kimenetet hoz létre, ezért az AND-kapu ilyen bemeneteken való működtetésének hőt kell termelnie. Szobahőmérsékleten számszerűen kB T log 2 = 0.0175 eV. Számítás azonban hőleadás nélkül is végezhető, ha csak reverzibilis kapukat használunk. A számítás során „szemét” bitek halmozódnak fel, amelyeket nem lehet törölni; a végén egyszerűen lemásolhatjuk a válaszbiteket, majd visszafelé futtathatjuk a számítást. A reverzibilis számítás számos konkrét modelljét javasolták, mivel régebben úgy gondolták, hogy a Landauer-elv szerint maga a számítás is energiaelnyeléssel jár.
 
 Megjegyzés. Mekkora egy speciális relativitáselméletben mozgó test hőmérséklete? Ez vitatott kérdés; különböző szerzők T ′ = T /γ, T ′ = T és T ′ = γT értékeket javasolnak. A szakirodalom alapos áttekintése itt található. Személyes véleményem a következő. Első választásunk az lenne, hogy a hőmérsékletet „annak definiáljuk, amit egy hőmérő mér”, ez azonban nem működik. Tekintsünk például egy T hőmérsékletű feketetest-sugárzásba merített hőmérőt. A különböző hőmérők abszorptivitása lehet eltérő, a(f ), de az egyensúlyi kijelzés a hőmérő típusától függetlenül ugyanaz lesz, mert a termikus sugárzás Kirchhoff-törvénye szerint a(f ) = e(f ). Ha azonban a sugárzást meglökjük, ez többé nem igaz, mert a sugárzás a hőmérő rendszerében már nem feketetest-spektrumú.
-70 3. Statisztikus mechanika
 
 
 Ez egy mélyebb problémára utal a hőmérséklet definiálásával kapcsolatban. Általában az olyan termodinamikai mennyiségek, mint a hőmérséklet, a nyomás és a kémiai potenciál, egyensúlyban azért egyenlők, mert annak az entrópiaköltségét tükrözik, ha valamely megmaradó mennyiséget cserélünk ki, nevezetesen energiát, térfogatot vagy részecskeszámot. Mozgó testek vizsgálatakor azonban egy újabb megmaradó mennyiség cserélhető ki: a lendület. Az ennek megfelelő hőmérsékletszerű mennyiségnek a szokásos hőmérséklettel együtt négyvektort kell alkotnia. Explicit módon definiálhatjuk
-                                                     
+
                                                   ∂S
                                           βµ =
                                                   ∂pµ V,N
 
 és egy uµ négyessebességű test nyugalmi hőmérséklete mindig (uµ βµ )−1 . Itt βµ kovektor, mivel az entrópia Lorentz-skálár, hiszen a lehetséges mikroállapotok számát tükrözi. Egy testhez képest mozgó hőmérő által mért hőmérséklet általában a βµ minden komponensétől függ, és a konkrét kifejezés a hőmérő kialakításától függ. (Nyomásnál vagy kémiai potenciálnál nem találkozunk ezzel a finomsággal, mert viszonylag könnyű olyan hőmérőt készíteni, amely energiát cserél, de térfogatot vagy részecskeszámot nem. Sokkal nehezebb olyan hőmérőt készíteni, amely valamiképpen energiát cserél, de lendületet nem.)
    A nyugalmi rendszerben βµ = (1/T, 0), ezért tetszőleges rendszerben
-                                                γ γ v
+                                                 γ γ v
                                           βµ =    ,      .
                                                  T T c
 Ha egy általános rendszerben a hőmérsékletet 1/β0-ként definiáljuk, akkor T ′ = T /γ adódik. Ez a definíció azonban nem különösebben értelmes, mert valójában a teljes négyvektor számít.

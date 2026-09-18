@@ -30,8 +30,8 @@ figure. The magnetic inductance of such current is plotted as a function of the
 distance from the wire in the attached graph. The Ohmic resistance of the loop is
 $R=1.0\ \Omega$, and the inductance is negligible.
 
-![figure](../../sources/nbpho/figures/nbpho-2004-loop-of-wire-fig1.png)
-![figure](../../sources/nbpho/figures/nbpho-2004-loop-of-wire-fig2.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-loop-of-wire-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-loop-of-wire-fig2.png)
 
 **1)** Calculate the magnetic flux $\Phi$ through the loop (2 points).
 

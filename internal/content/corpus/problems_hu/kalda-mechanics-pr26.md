@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $m$ tömegű kis test egy $\alpha$ szögű, $M$ tömegű éken fekszik. A testet olyan kötélhez erősítettük, amely az ék csúcsára rögzített csigán halad át, majd egy vízszintes falhoz van rögzítve (lásd az ábrát). Határozzuk meg az ék gyorsulását. Minden felület súrlódásmentes.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr26-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr26-fig1.jpg)

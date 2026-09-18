@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű kis gömb nagyon hosszú fonal végén függ; ehhez a gömbhöz egy súlytalan rúddal egy másik, $m$ tömegű kis gömböt erősítettünk. A rúd hossza $l$. Kezdetben a rendszer egyensúlyban van. Mekkora vízszintes sebességet kell adnunk az alsó gömbnek ahhoz, hogy az a felső gömbbel azonos magasságra emelkedjen? A gömbök mérete a rúd hosszához képest elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr72-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr72-fig1.jpg)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns, graphical-reduction]
 ---
 
-A roller coaster car is moving along a vertical circular loop such that it uses its own engine and brakes to keep its speed constant. What should its least speed be in order that it follows the circular loop of radius $R$ without slipping, if the coefficient of static friction is $\mu$? Where would it slip if its speed was a bit smaller than this value? The car is small enough compared to the radius of the loop. 
+A roller coaster car is moving along a vertical circular loop such that it uses its own engine and brakes to keep its speed constant. What should its least speed be in order that it follows the circular loop of radius $R$ without slipping, if the coefficient of static friction is $\mu$? Where would it slip if its speed was a bit smaller than this value? The car is small enough compared to the radius of the loop.
  (6 pont)

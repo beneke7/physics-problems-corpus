@@ -37,7 +37,7 @@ solution_language: en
       (c) [A] Consider the most general nth order, linear homogeneous time-translation invariant differ-
            ential equation
                                     dn          dn−1
-                                                                      
+
                                                                 d
                                  an n + an−1 n−1 + . . . + a1 + a0 x = 0.
                                     dt          dt              dt

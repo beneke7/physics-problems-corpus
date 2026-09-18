@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-If the screen of a colour monitor or a colour television is observed through a magnifying lens then blue, green and red points or segments can be seen. Find the distance between two points or segments which have the same colour in both cases, with using optical devices. 
+If the screen of a colour monitor or a colour television is observed through a magnifying lens then blue, green and red points or segments can be seen. Find the distance between two points or segments which have the same colour in both cases, with using optical devices.
  (6 pont)

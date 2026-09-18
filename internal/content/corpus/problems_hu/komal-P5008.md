@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5008. Egy egyatomos gázt oly módon melegítünk, hogy a folyamat során a mólhője a gázállandó $(R)$ legyen. Hányszorosára változik a gáz térfogata, ha a hőmérséklete a kétszeresére nő? 
+P. 5008. Egy egyatomos gázt oly módon melegítünk, hogy a folyamat során a mólhője a gázállandó $(R)$ legyen. Hányszorosára változik a gáz térfogata, ha a hőmérséklete a kétszeresére nő?
  Példatári feladat

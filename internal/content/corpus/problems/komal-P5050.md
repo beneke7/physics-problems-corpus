@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [stability-analysis, auxiliary-unknowns]
 ---
 
-There is some water and some water vapour above it in a closed container. What happens to the water if the water vapour is sucked out of the container, whilst the temperature of the water is kept constant, if this temperature is 
- $a)$ 100.00 ${}^\circ$C; 
- $b)$ 20.00 ${}^\circ$C? 
+There is some water and some water vapour above it in a closed container. What happens to the water if the water vapour is sucked out of the container, whilst the temperature of the water is kept constant, if this temperature is
+ $a)$ 100.00 ${}^\circ$C;
+ $b)$ 20.00 ${}^\circ$C?
  (3 pont)

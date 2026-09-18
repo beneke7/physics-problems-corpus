@@ -44,18 +44,18 @@ ring when α=0 in terms of x,y and θ, and related quantities.
 Solution: The electric field on the ring due to the infinite rod is given by
 ~ E0 =
 λ(xx̂ + yŷ)
-2π0(x2 + y2)
+2π 0(x2 + y2)
 (4.2)
 Since the rod is infinite, the electric field will not depend on z.
 ~ E0 =
 λ(acosθx̂ + asinθŷ)
-2π0(a2 cos2 θ + a2 sin2
+2π 0(a2 cos2 θ + a2 sin2
 θ)
 (4.3)
 The above expression simplifies to
 ~ E0 =
 λ(cosθx̂ + sinθŷ)
-2π0a
+2π 0a
 (4.4)
 (b) [2 marks] At some instant the ring makes an angle α. Derive an expression for the electric field
 ~ E due to the infinite rod at a point on the ring in terms of θ, and α.
@@ -78,11 +78,11 @@ p
 .
 ~ E =
 λ(xx̂ + yŷ)
-2π0(x2 + y2)
+2π 0(x2 + y2)
 (4.5)
 =
 λ
-2π0a
+2π 0a
 q
 (1 + sin2
 θtan2 α)(cosθx̂ + sinθŷ) (4.6)
@@ -99,7 +99,7 @@ dθ. Force on small
 element ds is
 d~ F = ~ EdQ =
 λ
-2π0a
+2π 0a
 q
 (1 + sin2
 θtan2 α)(cosθx̂ + sinθŷ)
@@ -112,13 +112,13 @@ dθ (4.7)
 which simplifies to
 d~ F =
 λQ
-4π20acosα
+4π2 0acosα
 cosθx̂ + sinθŷ
 p
 (1 + sin2
 θtan2 α)
 (4.8)
-where C = λQ/4π2oa. Consider
+where C = λQ/4π2 oa. Consider
 dFx =
 C
 cosα
@@ -294,24 +294,24 @@ Hence Substituting above equation in Eq.(4.28) , we get
 τx = −4Casinαu2
 Z π/2
 0
-
+
 D
 u − u3
 −
 1
 1 − u2
-
+
 dθ (4.33)
 τx = −4Casinαu2
 Z π/2
 0
-
+
 D
 u − u3
 −
 1
 1 − u2
-
+
 dθ (4.34)
 Substituting value of D, we get
 τx = −4Casinαu2
@@ -327,13 +327,13 @@ u − u3
 #
 dθ (4.35)
 τx = −4Casinαu2
-
+
 tan−1(utanθ)
 u − u3
 −
 θ
 1 − u2
-π/2
+ π/2
 0
 (4.36)
 (4.37)
@@ -342,7 +342,7 @@ Page 9 INPhO 2023 Questions
 Applying limits and solving further, we get
 τx = −
 λQ
-2π0
+2π 0
 tan(α/2) (4.38)
 Working of τy,τz is not required.
 −π
@@ -366,14 +366,14 @@ M = 50.0g, radius a = 5.0cm, and ω0 = 1.0rad/s. Calculate T.
 Solution: Under small angle approximation of α, τx becomes
 τx =
 −λQα
-4π0
+4π 0
 (4.39)
 I
 d2α
 dt2
 =
 −λQα
-4π0
+4π 0
 (4.40)
 Ma2
 2
@@ -381,24 +381,24 @@ d2α
 dt2
 =
 −λQα
-4π0
+4π 0
 (4.41)
 d2α
 dt2
 = −
 2λQ
-4Ma2π0
+4Ma2π 0
 α (4.42)
 This is a differential equation of SHM, hence
 T2
 =
 4π2
 2λQ
-4Ma2π0
+4Ma2π 0
 (4.43)
 =⇒ T = 2πa
 s
-2Mπ0
+2Mπ 0
 Qλ
 (4.44)
 T = 1.17s (4.45)
@@ -415,17 +415,17 @@ Z
 τdα (4.46)
 =
 λQ
-2π0
+2π 0
 Z
 tan(α/2)dα (4.47)
 U = −
 λQ
-2π0
+2π 0
 2log(cos(α/2)) + c (4.48)
 where c is the constant of integration. At α = 0, U = 0, which implies that c = 0.
 =⇒ U(α) = −
 λQ
-π0
+π 0
 log(cos(α/2)) (4.49)
 −π
 2 −π
@@ -452,7 +452,7 @@ d2α
 dt2
 =
 −λQ
-2π0
+2π 0
 tan(α/2) (4.51)
 Multiplying both sides by dα
 dt
@@ -464,7 +464,7 @@ dα
 dt
 =
 −λQ
-2π0
+2π 0
 tan(α/2)
 dα
 dt
@@ -472,19 +472,19 @@ dt
 Integrating on both sides
 Ma2
 4
-
+
 dα
 dt
-2
+ 2
 =
 λQ
-π0
+π 0
 log(cos(α/2)) + c0
 (4.53)
-
+
 dα
 dt
-2
+ 2
 =
 32π2
 T2
@@ -493,10 +493,10 @@ log(cos(α/2)) + c0
 where c0 is the constant of integration. At t = 0, dα
 dt = ω0, which implies that c = ω2
 0.
-
+
 dα
 dt
-2
+ 2
 =
 32π2
 T2
@@ -515,15 +515,15 @@ Page 11 INPhO 2023 Questions
 For α = αmax, dα
 at = 0, hence solving above equation, we get
 αmax = 2
-
+
 cos−1
-
+
 exp(−
 ω2
 0T2
 32π2
 )
-
+
 (4.57)
 αmax = 10.66◦
 (4.58)

@@ -28,7 +28,7 @@ were moving along the roads in the directions indicated by the arrows. The speed
 of every tractor was $v_{0}=30 \mathrm{~km} / \mathrm{h}$. In sketch (a), the wind
 direction is indicated by another arrow.
 
-![figure](../../sources/nbpho/figures/nbpho-2008-tractor-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2008-tractor-fig1.png)
 
 1) Using the provided sketch, find the wind speed for case (a).
 

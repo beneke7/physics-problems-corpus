@@ -25,7 +25,7 @@ gas law (pV/T)γ
 = Const, we obtain pγ−1
 /Tγ
 = Const. Tak-
-ing a logarithm and dierential from this equation, we obtain
+ing a logarithm and di erential from this equation, we obtain
 (γ − 1)dp
 p
 − γdT

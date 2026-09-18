@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, smart-coordinates, graphical-reduction]
 ---
 
-Three adjacent walls of a regular hexagon-shaped room are covered with flat mirrors (see the figure ). A lamp is lit in the middle of the room. How many images does the lamp produce? 
+Three adjacent walls of a regular hexagon-shaped room are covered with flat mirrors (see the figure ). A lamp is lit in the middle of the room. How many images does the lamp produce?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5523-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5523-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-A 2-kg brick falls 5 m and then a worker catches it and brings it into rest in a distance of 0.5 m exerting an upward constant force. a ) Find the force exerted by the worker. b ) Find the average power of the worker. 
+A 2-kg brick falls 5 m and then a worker catches it and brings it into rest in a distance of 0.5 m exerting an upward constant force. a ) Find the force exerted by the worker. b ) Find the average power of the worker.
  (4 pont)

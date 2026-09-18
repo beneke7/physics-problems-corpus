@@ -16,8 +16,8 @@ Question B2
 Mirror Mirror on the Wall
 Consider a square room with side length L. The bottom wall of the room is a perfect mirror.* A
 perfect monochromatic point source with wavelength λ is placed a distance d above the center of
-the mirror, where λ 
- d 
+the mirror, where λ
+ d
  L.
 mirror
 point source
@@ -28,8 +28,8 @@ L
 2
 *Remember that the phase of light reflected by a mirror changes by 180◦.
 a. On the right wall, an interference pattern emerges. What is the distance y between the bottom
-corner and the closest bright fringe above it? Hint: you may assume λ 
- y 
+corner and the closest bright fringe above it? Hint: you may assume λ
+ y
  L as well.
 Solution
 This setup is essentially a double-slit experiment with the second slit being the image of the
@@ -67,15 +67,15 @@ Our error is given by
 ∆λ
 λ
 =
-s
+s
 ∆d
 d
-2
+ 2
 +
-
+
 ∆y10
 y10
-2
+ 2
 .
 Note that ∆d = ∆y10 ∼ 0.5 mm. From earlier, note that after substituting m = 10,
 y10 = 19λL
@@ -114,13 +114,13 @@ y =
 L
 4d
 (n − 1)s − λ
-
+
 (n − 1)s
 λ
 −
 1
 2
-
+
 −
 λ
 2
@@ -132,7 +132,7 @@ Copyright c 2020 American Association of Physics Teachers
 2020 USAPhO Part B 17
 d. Now, suppose the hemispherical shell is removed, and we instead observe the interference pattern
 on the top wall. To the nearest integer, what is the total number of fringes that appear on the
-top wall? You may assume that d 
+top wall? You may assume that d
  L.
 Solution
 Now, the distance between the source and a spot x on the wall is given by
@@ -141,7 +141,7 @@ p
 and the distance between the image and a spot on the wall is
 p
 (L + d)2 + x2 + λ/2. We
-do not assume x 
+do not assume x
  L this time. Subtracting the two distances gives us roughly
 p
 L2 + x2
@@ -194,12 +194,12 @@ Then, the number of fringes is
 2 ·
 2d
 λ
-
+
 1 −
 2
 √
 5
-
+
 ,
 where the extra factor of 2 comes from there being two sides to the interference pattern.
 Copyright c 2020 American Association of Physics Teachers

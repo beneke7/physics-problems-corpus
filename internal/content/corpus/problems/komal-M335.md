@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201310"
 verification_status: pending
 ---
 
-Measure how the rate of evaporation of vinegar depends on its temperature. 
+Measure how the rate of evaporation of vinegar depends on its temperature.
  (6 pont)

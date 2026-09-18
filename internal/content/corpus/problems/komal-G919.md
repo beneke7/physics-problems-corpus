@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-How does the boat lift at the Three Gorges Dam in China operate? How was it solved to make it work at different fore- and tailwater levels? Does the lifting force depend on the weight of the boat elevated by the lift? https://www.erdekesvilag.hu/elkeszult-a-vilag-legnagyobb-hajoliftje-kinaban 
+How does the boat lift at the Three Gorges Dam in China operate? How was it solved to make it work at different fore- and tailwater levels? Does the lifting force depend on the weight of the boat elevated by the lift? https://www.erdekesvilag.hu/elkeszult-a-vilag-legnagyobb-hajoliftje-kinaban
  (3 pont)

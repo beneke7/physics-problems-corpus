@@ -20,4 +20,4 @@ verification_status: pending
 
 Három azonos, kezdetben töltetlen, $C$ kapacitású kondenzátort sorosan kapcsolunk. A kondenzátorokat $\mathcal{E}$ elektromotoros erejű telepnek az áramkör kapcsaira kapcsolásával feltöltjük. Ezután a telepet lekapcsoljuk, és az alábbi ábra szerint egyszerre két $R$ ellenállású ellenállást kapcsolunk be. Határozzuk meg az egyes ellenállásokon disszipálódó összes hőt.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr61-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr61-fig1.jpg)

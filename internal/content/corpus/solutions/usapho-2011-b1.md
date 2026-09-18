@@ -147,13 +147,13 @@ where both V and I are complex numbers, with their relative phase indicating the
 relative phase of the voltage and current. Without the inductance, Z = R. With the
 inductance, the two impedances add in parallel,
 Z =
-
+
 1
 R
 +
 1
 iωL
-−1
+ −1
 .
 Since |Z| is lower and V remains the same, |I| increases, as argued above.
 ii. The most straightforward method is to use complex impedances. We wish to cancel the

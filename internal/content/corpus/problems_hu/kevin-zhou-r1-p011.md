@@ -31,5 +31,5 @@ v sebességű megfigyelőnek, ha a fény eredetileg f frekvenciájú volt.
      (d) Mi történik, ha a tükör a saját hosszának irányában mozog? Konkrétan tegyük fel, hogy a tükör x = 0-ban van, a fény x̂ irányban haladva éri el, a tükör sebessége pedig v ŷ. A visszaverődés után milyen irányban halad a fény, és mi az új frekvenciája?
 
 
-                    01^
+                    01^
          A visszaverődés után milyen irányban halad a fény, és mi az új frekvenciája?

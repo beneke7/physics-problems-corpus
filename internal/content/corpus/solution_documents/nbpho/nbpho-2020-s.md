@@ -82,7 +82,9 @@ T4 = T3 + 3 K gives                                 substances.                 
  p4 − p3         µ |∆ H l g | 1    1                   Grading: Found ∆H sg — 0.5 pts;               15 to 15.5 mA) — 0.2 pts (for I from 14 to 16       haviour of V − I is given in the following fig-
          = exp −                 −       −1 = 0.21. Found ∆ H — 0.5 pts;                             mA — 0.1 pts);                                      ure:
    p3                R         T4 T3                           sl
-                                                                                                        1. Applied voltage is smaller than the first      From the V − I curve, the first peak has a
+
+
+                                                                                                        1. Applied voltage is smaller than the first      From the V − I curve, the first peak has a
                                                                                                            peak in the V − I curve. In that case,         voltage of V3 = 50 mV, second a voltage of
                                                                                                            the current will increase from 0 to I =        V4 = 400 mV. The four scenarios can be sum-
                                                                                                            21 mA and reach the equilibrium posi-          marised in the following plot:
@@ -153,7 +155,9 @@ I 3 = 1 mA. Like before, the voltage will then Correct plot, starting from I = 0
 instantaneously jump from V2 to 0 and the                                                                  to infinity (in our ideal model) and           through the steady state. The derivative is
 cycle starts again. A sketch of a single cycle v) (2 points) The system operates in 4 distinct             thatʼs not physical. Hence, the current        then found by dividing the horizontal projec-
 is shown in the following figure.                modes as the battery voltage is varied:                   is undefined.                                  tion with the vertical, while keeping track of
-the sign:                                              Let the deviation of the charge on the              words, the real part of λ has to always be neg-correct differential equation — 0.3 pts;
+
+
+the sign:                                              Let the deviation of the charge on the              words, the real part of λ has to always be neg-correct differential equation — 0.3 pts;
                 ¯                                   capacitor from steady state be δ q. Then,              ative, otherwise the current will start grow-  quadratic equation — 0.2 pts;
             dV ¯¯      178 mV                       from KVL, δ IR d = δ q/C . Hence, the current          ing exponentially. With careful analysis, itʼs analyze of quadratic equation according to
        Rd =          =        = −7.1 Ω.
@@ -226,7 +230,9 @@ hence, denoting λ = iω,                                                       
 A more tedious but perhaps clearer way It can be seen that for the solution to be relationship between capacitor charge δ q transformation. The second one is by math-
 would be to write down the KVL and solve the stable, m < 0 is needed as that leads to an and diod current δ I — 0.1 pts;                                  ematically deriving the intersection points of
 resulting differential equation.                   exponential decay in the current. In other initial KVL for whole circuit — 0.3 pts;                    the trajectory with the walls.
-   Grading for sample solution:               one can reconstruct the position of O and                                                               cuboid is linear, get 0 for precision for both
+
+
+   Grading for sample solution:               one can reconstruct the position of O and                                                               cuboid is linear, get 0 for precision for both
 Deriving the relation gH = v02 /2. — 0.5 pts; ⃗ f . Because µ = tan α, one can conveniently
                                               F                                                                                                       parts i) and ii), but there are no deductions
 Using the relation h = H sin α. — 0.5 pts;    measure µ as the ratio of the horizontal and                                                            for deriving µ and M .
@@ -299,7 +305,9 @@ N µ x̂. Therefore, F⃗ f is always directed at an From the figure we measure 
 angle α = arctan µ with respect to the vertical. so                                                 — 0.4 pts; (error within 5% – 0.4pts, error       Grading for sample solution:
     Since the starting point and direction of                                                       within 10% – 0.2pts)                              Using or deriving the adiabatic relation
 the forces of gravity and tension are known,                 M = 0.796 m = 0.796 kg.                   Remark.     Solutions that assume that         pV γ = const — 0.6 pts;
-Using or deriving an expression for γ = c p / c v   output power of the motor is proportional to          Grading: The measurement data give evid-           cross-section area of the neck. The process
+
+
+Using or deriving an expression for γ = c p / c v   output power of the motor is proportional to          Grading: The measurement data give evid-           cross-section area of the neck. The process
 — 0.2 pts;                                          the product of F and v and so P ∝ ρ v3 . In           ence that volumes have been measured cor-          is fast, characteristic time is around few mil-
 Deriving an exact expression for ρ , or ob-         our considerations, the output power of the           rectly: 0.2 pts (for instance, if a portion of     liseconds, so we can consider it to be adia-
 taining its dependence on V and/or on p, T          drone is fixed so v ∝ ρ −1/3 and F ∝ ρ (ρ −1/3 )2 =   water was added without making a notice of         batic (characteristic time of thermalization is
@@ -370,7 +378,9 @@ proportional to F . Further, itʼs clear that the                               
 rotational speed of the propeller blades is         V (ml) 500      600    700    800    880    930       moves by distance x, the volume inside the T (ms ) 48.2 43.9 37.6 32.7 29.2
                                                                                                                                                            V (ml) 500    600   700   800  880  930
 also proportional to v. This means that the         f (Hz) 205      230    260    325    420    520       bottle is changed by Ax, where A denotes the T2 (ms2 ) 23.8 18.9 14.8 9.5       5.7  3.7
-                                60
+
+
+                                60
 These data are plotted below.                                                                       The linear fit of these data yields           • 1p: Linearization or comparison to
                                 50                                                                                                                  model prediction.
                                                                                                                 T 2 = 48 ms2 − V · 48 ms2 /l,

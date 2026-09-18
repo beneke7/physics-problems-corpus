@@ -118,8 +118,8 @@ quite work anymore, since in the moving frame, the chain is accelerating along i
 the tension inside the curved part isn’t uniform; instead, it needs to be higher at the top.
 However, the argument still shows that the tension at the bottom is λv2/4 = λa2t2/4. This
 force is supplied by friction and precisely accounts for the difference between the two cases.)
-[2] Problem 7.  Y 1 0INPhO 2012, problem 1.
-[3] Problem 8.  Y 1 0INPhO 2018, problem 4.
+[2] Problem 7.   Y 1 0INPhO 2012, problem 1.
+[3] Problem 8.   Y 1 0INPhO 2018, problem 4.
 [4] Problem 9. @ 1 0USA Theory Team Selection Test 2022, problem 2. A set of nice exercises.
 3 Oscillations
 [3] Problem 10 (NBPhO 2007). Consider a light elastic rod with fixed length ℓ. If one end of the
@@ -161,11 +161,11 @@ p
 complicated way as the rod is bent, so we instead consider the energy.
 When the rod bends an angle θ, the change in the mass’s gravitational potential energy is
 ∆Ug = mgrsinθ − mgℓ = mgℓ
-
+
 sinθ
 θ
 − 1
-
+
 ≈ −
 1
 6
@@ -202,15 +202,15 @@ m =
 3k
 2gℓ
 .
-[3] Problem 11.  c 1 0INPhO 2019, problem 7. A nice data analysis problem; bring graph paper.
-[5] Problem 12.  h 1 0APhO 2011, problem 2. A neat problem on “stick-slip”, which appears in many
+[3] Problem 11.   c 1 0INPhO 2019, problem 7. A nice data analysis problem; bring graph paper.
+[5] Problem 12.   h 1 0APhO 2011, problem 2. A neat problem on “stick-slip”, which appears in many
 real-world contexts; you can see it in action on a violin string here. (For some other calculations
 on a similar stick-slip setup, see USAPhO 2021, problem A1.)
 Solution. See the official solutions as usual. (There’s an older version of the official solutions online,
 which has a factor of 2 error on the last step. The final answer should be 5.6 × 10−3 s−1.)
 4 Rotation
 [2] Problem 13. NBPhO 2015, problem 3.
-[3] Problem 14.  ^ 1 0USAPhO 2021, problem B1. An elegant rotation problem.
+[3] Problem 14.   ^ 1 0USAPhO 2021, problem B1. An elegant rotation problem.
 [3] Problem 15 (Morin 8.24). A spherically symmetric ball of radius R initially slides without rotating
 on a horizontal surface with friction. The initial speed is v0, and the moment of inertia about the
 center is I = βmR2.
@@ -417,11 +417,11 @@ This implies
 In our case, α = 1/4. The solution of the above equation can be found using either binary
 search or by the “plug in” method, i.e. repeatedly calculating
 arcsin
-
+
 1 −
 1 − sin(60◦ − Ans)
 4
-
+
 − 60◦
 .
 Both methods give an answer of θ = 10.21◦.
@@ -447,18 +447,18 @@ sin(60◦
 .
 We can binary search for the answer or repeatedly plug in
 arcsin
-
+
 3sin(60◦ − Ans)
 8
-
+
 11
 Kevin Zhou Physics Olympiad Handouts
 to find that the maximum angle for it to stay on the ramp is θ = 15.3◦. So the range of angles
 where the rolling will never stop, but also keep the pencil on the ramp, is quite narrow!
 This famous question has appeared on the IPhO, BAUPC, and Morin’s mechanics book, and papers
 have even experimentally confirmed its results. For more, see the extended analysis here.
-[4] Problem 17.  m 1 0USAPhO 2017, problem B1. A tough rotation problem.
-[3] Problem 18.  ^ 1 0USAPhO 2021, problem B3. A cute setup with many nice lessons.
+[4] Problem 17.   m 1 0USAPhO 2017, problem B1. A tough rotation problem.
+[3] Problem 18.   ^ 1 0USAPhO 2021, problem B3. A cute setup with many nice lessons.
 The next two questions are about three-dimensional rotation, covered in M8.
 [3] Problem 19 (BAUPC). A frictionless fixed cone stands on its tip.
 (a) A particle slides on the inside surface of the cone at height h above the tip, as shown at left
@@ -601,11 +601,11 @@ T(ηR) − T(R) =
 4
 3
 GπρµR2
-
+
 1 −
 1
 η
-
+
 −
 1
 2
@@ -633,10 +633,10 @@ r3
 4πGρR3
 3ω2
 , r = R
-
+
 4πGρ
 3ω2
-1/3
+ 1/3
 = 6.62R.
 This radius has a physical meaning: since the gravitational and centrifugal forces on a piece of mass
 balance here, it’s the radius where a satellite can stay in geostationary orbit.

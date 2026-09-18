@@ -48,7 +48,7 @@ T
 =
 Ldm
 T0
-dieren iális összefüggéséhez vezet. Ezt kell integrálni a kezdeti állapottól a végs® állapotig. Az alsó h®tartály T
+di eren iális összefüggéséhez vezet. Ezt kell integrálni a kezdeti állapottól a végs® állapotig. Az alsó h®tartály T
 h®mérséklete T0-ról Tmin-re sökken, és közben a folyékony nitrogén tömege m-r®l nullára sökken. Tehát
 cm0 ln
 T0

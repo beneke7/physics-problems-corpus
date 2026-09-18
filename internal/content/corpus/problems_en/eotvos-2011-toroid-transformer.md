@@ -21,7 +21,7 @@ verification_status: pending
 
 A "thin" toroidal magnetic core has three identical "fat" electromagnetic coils symmetrically wound on it, as shown in Figure 4. An AC voltage source is connected to the first coil, the terminals of the second coil are left open, and a voltmeter is connected across the third coil. In this configuration, the voltmeter reads half the effective value of the voltage source.
 
-![The toroid transformer](../../sources/eotvos/figures/eotvos-2011-toroid-transformer-fig1.png)
+![The toroid transformer](../../figures/eotvos/figures/eotvos-2011-toroid-transformer-fig1.png)
 
 Next, we short-circuit the terminals of the second coil using switch K. What does the voltmeter read in this case?
 

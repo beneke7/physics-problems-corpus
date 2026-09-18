@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-Determine the pressure of the gas in the bulb of a traditional gas filled filament lamp. 
+Determine the pressure of the gas in the bulb of a traditional gas filled filament lamp.
  (6 pont)

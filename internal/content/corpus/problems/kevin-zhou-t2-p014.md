@@ -31,7 +31,7 @@ solution_language: en
 
       (a) In P1, we discussed Stirling’s approximation: for large N , log N ! ≈ N log N − N . Using this
           result, show that the entropy of the system is
-                                                                          
+
                                                      1                  1
                                     S = N kB α log + (1 − α) log              .
                                                      α               1−α
@@ -45,7 +45,9 @@ solution_language: en
           get α = 1/2? How about α = 1?
 
                                                       11
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
      (c) Show that the third law is satisfied.

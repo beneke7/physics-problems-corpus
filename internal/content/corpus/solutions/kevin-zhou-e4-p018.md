@@ -95,11 +95,11 @@ q2
 r + qṙ × B.
 (b) Note that since B is along the ẑ direction, and v = ω×r where ω is also along the ẑ direction,
 all three vector terms in the above equation are parallel. So we have
-
+
 q2
 2πϵ0r3
 + qωB + mω2
-
+
 r = 0.
 Setting the term in parentheses to zero, and noting that the separation r has magnitude d,
 ω =
@@ -118,10 +118,10 @@ m2
 Kevin Zhou Physics Olympiad Handouts
 which gives
 d ≥
-
+
 2m
 πϵ0B2
-1/3
+ 1/3
 .
 For smaller d, the charges will always fly apart, either due to electrostatic repulsion if they’re
 slow, or the angular momentum barrier if they’re fast.

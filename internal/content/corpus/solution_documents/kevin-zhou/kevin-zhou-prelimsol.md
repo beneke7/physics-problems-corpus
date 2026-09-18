@@ -45,7 +45,9 @@ pulley. In particular, what is the magnitude of the force between the pulley and
 Answer. (c) normal force from the rope, weight, and the force from the support, (d) 50
 √
 5N
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 [1] Problem 4. A sewage worker is using a ladder inside a large, frictionless, horizontal circular
 aqueduct. The ladder is of the same length as the diameter of the aqueduct.
 (a) First the ladder is placed perfectly vertically and the worker climbs to the midpoint. Draw a
@@ -70,7 +72,9 @@ then removed. Next, the surface is inclined with angle θ. For what range of θ 
 the triangle will not slide down the incline?
 Answer. θ < tan−1(1/3)
 [1] Problem 7. A painter of mass M stands on a platform of mass m as shown.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 He pulls each rope down with force F, and accelerates upward with acceleration a. Find a.
 Answer. −g + 4F/(M + m)
 [1] Problem 8. A wheel of radius R is rolling without slipping with angular velocity ω. What is the
@@ -105,7 +109,9 @@ Answer. (a) πm/(M + m), (b) πm/(M + 2m)
 [2] Problem 12. A baseball player holds a bat, modeled as a uniform rigid rod, horizontally at one
 of its ends. Usually, when the baseball hits the bat, the player will feel a sharp jolt in their hands
 as the bat recoils. This can be avoided if the baseball hits the “sweet spot”. Where is it?
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Answer. If the rod has length L, the center of percussion/sweet spot is 2L/3 from the held end.
 [3] Problem 13. Maxwell’s wheel is a toy which demonstrates conservation of energy. It consists of a
 uniform disc of mass M and radius R, with a massless axle of radius r ≪ R.
@@ -129,7 +135,9 @@ Answer. (a) 7R/5, (b) the line of the impulse passes under the contact point wit
 form a regular hexagon and lie on a frictionless surface.
 P
 u
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 A blow is given at a right angle to the midpoint of the bottom rod. Immediately afterward, the
 bottom rod has velocity u, as shown. Find the speed of the opposite rod at this moment.
 This is the toughest question in this problem set; it appeared on the Cambridge Tripos, arguably
@@ -152,7 +160,9 @@ Answer. 2
 [2] Problem 18. Because of the rotation of the Earth, the line of a plumb bob will not align with
 the local gravitational field. Find the (small) angle of deviation between them as a function of the
 latitude θ, the gravitational acceleration g, the radius R of the Earth, and its angular velocity ω.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 19. You should be comfortable with setting up multiple integrals. Consider a cylindrical
 shell whose axis of symmetry is the z-axis. It has non-uniform mass per unit area σ(ϕ,z) in
 cylindrical coordinates, and the shell has radius a and height h, with the bottom edge at z = 0.
@@ -181,7 +191,9 @@ Answer. BABBC EBBBC EDEDA EEDAD EDACD AECCA ED
 (c) Sketch the electric field lines everywhere.
 Answer. (b) scaling symmetry
 [2] Problem 23. Some basic tasks involving intuition for vector fields.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Consider the vector field
 v = 2x̂ + xŷ.
 Sketch some field vectors at regular points. Then, on a separate sketch, draw some field lines.
@@ -198,7 +210,9 @@ have area A and separation d, where A ≫ d2.
 on each of these four surfaces.
 (b) Find the potential difference between the plates.
 (c) Find the force between the plates.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (d) In addition to the force between the plates found in part (c), there is a contribution to the
 internal stress (force per unit area) within each plate due to the charges on its two surfaces.
 Find this part of the stress for each plate, and assuming Q1 > Q2 > 0, indicate whether it is
@@ -231,7 +245,9 @@ Answer. (c) The RC timescale is on the order of 1ms, which is reasonable.
 in time according to I(t) = I0 cosωt. A ring with radius r < b and resistance R is centered on the
 solenoid’s axis, with its plane perpendicular to the axis.
 (a) What is the induced current in the ring?
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (b) A given little piece of the ring will feel a magnetic force. For what values of t is this force
 maximum? At this moment, sketch the electric field everywhere.
 (c) What is the effect of the force on the ring? That is, does the force cause the ring to translate,
@@ -259,20 +275,22 @@ Answer.
 (bµ0I0)2
 R
 log
-
+
 a + l
 l
-
+
 1
 l
 −
 1
 a + l
-
+
 [1] Problem 30. A 120V rms, 60Hz line provides power to a 40W light bulb, modeled as a resistor.
 How will the brightness change if a 10µF capacitor is connected in series with the light bulb?
 Answer. Becomes 65% as much
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 3 Thermodynamics
 These problems can be solved using the material in chapters 21 through 24 of Halliday and Resnick.
 [2] Problem 31. Two moles of a monatomic ideal gas are taken through the following cycle.
@@ -305,7 +323,9 @@ Answer. (c) n = k + 1, (d) k = γ − 1, (e) helium
 each of the following quantities, indicate by what factor they change.
 (a) The rms velocity vrms.
 (b) The mean free path λ.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The average time between collisions τ for each gas molecule.
 (d) The molar heat capacity Cv.
 Answer. (a) 2 times larger, (b) 8 times smaller, (c) 16 times smaller, (d) same
@@ -333,7 +353,9 @@ Find the mass of the ice if the heating power of the kettle is P = 1kW. The late
 for ice is L = 335kJ/kg, the heat capacity of water is c = 4.2kJ/kgK, and the temperature of the
 room is T1 = 20◦C. (Hint: it’s very easy to get an answer that’s off by up to 50% if you’re careless.)
 Answer. 28g
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 4 Relativity and Waves
 These problems can be solved using the material in chapters 18 through 20, and 39 through 44 of
 Halliday and Resnick.
@@ -376,7 +398,9 @@ T/ρ, (b) ∆ωn ≈ (−m/ρL)ωn sin2
 [2] Problem 41. A perfectly flat piece of glass is placed over a perfectly flat piece of black plastic.
 They touch at point A. Light of wavelength 600nm is incident normally from above. The location
 of the dark fringes in the reflected light is shown above.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 (a) How thick is the space between the glass and plastic at B?
 (b) Water with n = 1.33 seeps into the region between the glass and the plastic. How many dark
 fringes are seen when all of the air has been displaced by water? The straightness and equal
@@ -415,7 +439,9 @@ pendulum and perform the measurements to minimize these sources of error?
 (b) Make an actual pendulum yourself and carry out the measurement. Describe your experimental
 procedure and show your data. Estimate as many of the sources of experimental error identified
 in part (a) as you can, and using them, give a value of g with a reasonable uncertainty.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 (c) If you had 1,000 dollars and a week to do plenty of measurements, how would you go about it?
 How precise a result do you think you could get? What would be the dominant sources of
 uncertainty remaining?

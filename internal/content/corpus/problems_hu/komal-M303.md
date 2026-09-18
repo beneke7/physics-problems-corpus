@@ -9,5 +9,5 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 303. Helyezzünk asztal szélére lejtőt, és azon engedjünk papírhengert legördülni. Figyeljük meg a lerepülő henger pályáját! Vizsgáljuk meg, mitől és hogyan függ a földetérés helyének távolsága az asztaltól! 
+M. 303. Helyezzünk asztal szélére lejtőt, és azon engedjünk papírhengert legördülni. Figyeljük meg a lerepülő henger pályáját! Vizsgáljuk meg, mitől és hogyan függ a földetérés helyének távolsága az asztaltól!
  A Hatvani István fizikaverseny alapján

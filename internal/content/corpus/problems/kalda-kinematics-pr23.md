@@ -19,4 +19,4 @@ verification_status: pending
 
 A rigid lump has been squeezed between two plates, one of which is moving at velocity $v_{1}$ and the other at $v_{2}$. At the given moment, velocities are horizontal and the contact points of the lump and plates are aligned. In the figure, mark all points of the lump with velocity modulus equal to $v_{1}$ or $v_{2}$.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr23-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr23-fig1.jpg)

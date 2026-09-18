@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-Birds sit in the closed cargo hold of a truck, carrying birds. When the vehicle horn honks loudly, the birds get frightened. Does the total weight of the truck and the birds increase, decrease or remain unchanged when the birds fly off? 
+Birds sit in the closed cargo hold of a truck, carrying birds. When the vehicle horn honks loudly, the birds get frightened. Does the total weight of the truck and the birds increase, decrease or remain unchanged when the birds fly off?
  (3 pont)

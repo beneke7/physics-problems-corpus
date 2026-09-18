@@ -23,7 +23,7 @@ tömeg¶, pontszer¶ test vonzásával egyenérték¶. Ezek után Eötvös fenti
 a Gellért-hegy mekkora szöggel módosítja a mérés helyén a függ®ón irányát!
 (Radnai Gyula)
 Megoldás. Tekintsük a 2. ábrát!
-A könny¶ rúd hosszát 2l-lel jelöltük, a rúd végein lév® kis testek tömegét m-mel, a Gellért-hegyet helyettesít®
+A könny¶ rúd hosszát 2l-lel jelöltük, a rúd végein lév® kis testek tömegét m-mel, a Gellért-hegyet  helyettesít®
 pontszer¶ test tömegét pedig M-mel. A rúd közepe M-t®l állandó r = 300 m távolságra van; az ábra egy olyan
 helyzetet mutat, amikor az ábra (vízszintes) síkjában leng® rúd egyik vége r1, másik vége r2 távolságra van M-t®l.
 Felrajzoltuk a kis testekre ható gravitá iós vonzóer®ket is (F1, ill. F2), amelyeket M fejt ki rájuk.
@@ -41,15 +41,15 @@ r2
 Γ = F1 · lsinα1 − F2lsinα2.
 Egy-egy szinusz-tétel felhasználásával ez így is írható:
 Γ =
-
+
 F1
 r1
 −
 F2
 r2
-
+
 lrsinα = γmMlrsinα
-
+
 1
 r3
 1
@@ -57,7 +57,7 @@ r3
 1
 r3
 2
-
+
 .
 Itt α, r1 és r2 változnak a rúd lengése közben. Jó lenne, ha sikerülne Γ-t supán α függvényeként meghatározni. Ehhez
 a zárójelben álló kifejezést át kell alakítanunk:
@@ -141,7 +141,7 @@ helyzet, amikor a rúd éppen M felé mutat, a másik helyzet erre mer®leges. H
 2
 esetén a rúd labilis egyensúlyi helyzetben lenne.
 Most azonban a rúdra nem sak a gravitá iós forgatónyomaték hat, hanem az elfordulás közben meg savarodó
-torziós szál által kifejtett visszatérít® forgatónyomaték is. Kis ∆α szögkitérés esetén ez ∆α-val arányosnak tekinthet®;
+torziós szál által kifejtett  visszatérít®  forgatónyomaték is. Kis ∆α szögkitérés esetén ez ∆α-val arányosnak tekinthet®;
 az arányossági tényez®t D∗
 -gal szokás jelölni.
 Ha nem lenne a gravitá iós forgatónyomaték, akkor a torziós inga lengésidejét így lehetne kiszámítani: T =
@@ -183,7 +183,7 @@ l2
 r
 .
 Ezt a T1 és T2 lengésid®t mérte le Eötvös Loránd.
-Hogyan lehet ebb®l kiszámítani a függ®ón elhajlását? Tegyük fel, hogy a függ®ónra  fonálon függ® kis testre 
+Hogyan lehet ebb®l kiszámítani a függ®ón  elhajlását ? Tegyük fel, hogy a függ®ónra   fonálon függ® kis testre
 a Föld mg nagyságú függ®leges irányú er®t, a Gellért-hegy pedig F0 = mg∗
 nagyságú vízszintes irányú er®t fejt ki.
 Ekkor az a pi i δ szög, amivel a függ®ón a függ®legest®l eltér, így kapható meg:
@@ -226,7 +226,7 @@ g
 3
 π2 r
 g
-
+
 1
 T2
 1
@@ -234,7 +234,7 @@ T2
 1
 T2
 2
-
+
 .
 Behelyettesítve g = 9,81
 m

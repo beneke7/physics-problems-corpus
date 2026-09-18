@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, exploit-symmetry]
 ---
 
-A long, rigid plank of negligible mass is suspended by $n$ equally spaced springs of the same spring constants, and the same unstretched lengths. The first spring can exert a maximum force of $K$, the second can exert a maximum force of $2K$, $\ldots$, the $n^\text{th}$ a force of $n\cdot K$ without breaking. What is the maximum mass of a body that can be placed on the plank? Where should it be placed? (Assume that the springs are barely stretched.) 
+A long, rigid plank of negligible mass is suspended by $n$ equally spaced springs of the same spring constants, and the same unstretched lengths. The first spring can exert a maximum force of $K$, the second can exert a maximum force of $2K$, $\ldots$, the $n^\text{th}$ a force of $n\cdot K$ without breaking. What is the maximum mass of a body that can be placed on the plank? Where should it be placed? (Assume that the springs are barely stretched.)
  (5 pont)

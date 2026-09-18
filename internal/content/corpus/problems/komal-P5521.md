@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [exploit-symmetry]
 ---
 
-A hob has 12 identical resistance wires, which are connected as shown in the figure. 
+A hob has 12 identical resistance wires, which are connected as shown in the figure.
 
- What is the percentage distribution of the dissipated power in each of the wires of the hotplate when voltage is applied across points $A$ and $B$? 
+ What is the percentage distribution of the dissipated power in each of the wires of the hotplate when voltage is applied across points $A$ and $B$?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5521-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5521-fig1.gif)

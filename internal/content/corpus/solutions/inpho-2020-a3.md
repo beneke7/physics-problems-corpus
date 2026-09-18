@@ -28,7 +28,7 @@ a2
 0
 ; K =
 1
-4π0
+4π 0
 ; mevr = – h (3.1)
 a0 =
 – h2
@@ -98,11 +98,11 @@ Ke2
 and mevr = – h (3.9)
 mev2
 r = Ke2
-
+
 Z −
 1
 4
-
+
 and mev2
 r =
 – h2
@@ -111,15 +111,15 @@ mer
 r =
 – h2
 Kmee2
-
+
 Z − 1
 4
- =
+  =
 a0
-
+
 Z − 1
 4
- (3.11)
+  (3.11)
 H B C 2 0
 INPhO 2020 Page 6 Questions & Summary Answers Last four digits of Roll No.:
 (d) [3] Derive an expression for the first ionisation energy Ith
@@ -130,26 +130,26 @@ Solution:
 Kinetic Energy (K.E.) = mev2
 =
 Ke2
-
+
 Z − 1
 4
-
+
 r
 (3.12)
 =
 Ke2
-
+
 Z − 1
 4
-2
+ 2
 a0
 (3.13)
 = 2
-
+
 Z −
 1
 4
-2
+ 2
 IH (3.14)
 Potential Energy (P.E.) = −
 2KZe2
@@ -161,54 +161,54 @@ Ke2
 =
 −2Ke2
 r
-
+
 Z −
 1
 4
-
+
 (3.16)
 =
 −2Ke2
 a0
-
+
 Z −
 1
 4
-2
+ 2
 (3.17)
 = −4
-
+
 Z −
 1
 4
-2
+ 2
 IH (3.18)
 (T.E.)i = −2
-
+
 Z −
 1
 4
-2
+ 2
 IH (3.19)
 (T.E.)f = −Z2
 IH (3.20)
 Ith
 Z = (T.E)f − (T.E)i = 2
-
+
 Z −
 1
 4
-2
+ 2
 IH −Z2
 IH (3.21)
 Ith
 Z =
-
+
 Z2
 −Z +
 1
 8
-
+
 IH (3.22)
 (e) [8] The table below contains the experimental data of Iexpt
 Z (in units of Rydberg where 1 Ryd =
@@ -242,19 +242,19 @@ Z −Iexpt
 Z = Ith
 Z −Ith
 Z∗ =
-
+
 Z2
 −Z +
 1
 8
-
+
 −
-
+
 (Z −α)2
 − (Z −α) +
 1
 8
-
+
 IH
 (3.23)
 ∆IZ =
@@ -292,11 +292,11 @@ One can also linearize in the following way:
 Iexpt
 Z = Ith
 Z∗ =
-
+
 Z −α−
 1
 2
-2
+ 2
 −
 1
 8

@@ -23,4 +23,4 @@ provenance_note: "NBPhO 2015, 6. feladat, szerzők J. Kalda. Mathpix OCR born-di
 
 Az alábbi pillanatfelvétel (egy nagyobb verzió egy külön lapon található) két labdát ábrázol, amelyeket szimultán dobtak el, azonos kezdeti sebességgel, de különböző irányokból a $P$ pontból. Mekkora volt a kezdeti sebesség? Használj $g=9,8 \mathrm{~m} / \mathrm{s}^{2}$-et.
 
-![](../figures/nbpho-2015-two-balls-fig1.jpg)
+![](../../figures/nbpho/figures/nbpho-2015-two-balls-fig1.jpg)

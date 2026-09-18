@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-What should be the least frequency of the gamma-ray which is able to split a deuteron of negligible initial speed? What can be the speed of the released proton and neutron? 
+What should be the least frequency of the gamma-ray which is able to split a deuteron of negligible initial speed? What can be the speed of the released proton and neutron?
  (5 pont)

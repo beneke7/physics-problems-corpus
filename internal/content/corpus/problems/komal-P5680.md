@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-The angle of elevation of a hillside is $30^\circ$, and at the foot of the hill the ground is horizontal. When the hillside was covered with snow everywhere, Peter chose an unusual way of sledding: he started at different initial speeds at a distance of 5 m from the bottom of the slope (see the figure ). 
+The angle of elevation of a hillside is $30^\circ$, and at the foot of the hill the ground is horizontal. When the hillside was covered with snow everywhere, Peter chose an unusual way of sledding: he started at different initial speeds at a distance of 5 m from the bottom of the slope (see the figure ).
 
- a) At what initial speed did the sled stop in the shortest time? 
- b) How much distance up the hill did the sled cover in this case? The path of the sled coincided with the fall line of the hillside. The hillside and the horizontal ground at the bottom of the hillside form a smooth curve. Friction between the sled and the snow is negligible. 
+ a) At what initial speed did the sled stop in the shortest time?
+ b) How much distance up the hill did the sled cover in this case? The path of the sled coincided with the fall line of the hillside. The hillside and the horizontal ground at the bottom of the hillside form a smooth curve. Friction between the sled and the snow is negligible.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5680-fig1.png)
+![figure](../../figures/komal/figures/komal-P5680-fig1.png)

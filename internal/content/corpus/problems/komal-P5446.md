@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns, smart-coordinates]
 ---
 
-Two students prepare for a stunt. At the same moment they both kick a football, that are at a certain distance $d$ apart on a sports field, so that the balls meet in the air. One student kicks the ball at $v_1=20$ m/s and the other at $v_2=10$ m/s, but they can both decide on the direction of the initial velocity. What is the maximum initial distance $d_{\max}$ between the two balls for the stunt to succeed? 
- (Air drag is negligible.) 
+Two students prepare for a stunt. At the same moment they both kick a football, that are at a certain distance $d$ apart on a sports field, so that the balls meet in the air. One student kicks the ball at $v_1=20$ m/s and the other at $v_2=10$ m/s, but they can both decide on the direction of the initial velocity. What is the maximum initial distance $d_{\max}$ between the two balls for the stunt to succeed?
+ (Air drag is negligible.)
  (5 pont)

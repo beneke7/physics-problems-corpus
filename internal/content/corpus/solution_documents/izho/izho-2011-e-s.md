@@ -61,7 +61,9 @@ force: l = 0 L . The curves of the functions f ( l ) = mg are
             L0                                           a
 straight lines passing through the origin. Required drawing is
 carried out in Fig. 2.
-VII International Zhautykov Olimpiad/Experimental Competition                          Page 2/4
+
+
+VII International Zhautykov Olimpiad/Experimental Competition                          Page 2/4
 
 
 
@@ -88,7 +90,9 @@ experimentally. Fig. 3 shows the corresponding curves, a fairly good agreement i
     1        11,8      12,5
     0        11,6      12,0
             Table 2                                             Figure 3
-VII International Zhautykov Olimpiad/Experimental Competition                                 Page 3/4
+
+
+VII International Zhautykov Olimpiad/Experimental Competition                                 Page 3/4
 
 
                                           Part 3. Bistability.
@@ -142,7 +146,9 @@ the rubber cord lengths 13 - 14 cm and 36 - 44 cm.
         - the theoretical curve of the cord length against the gravity force (he
         axes are named and ticked; the points are placed according to the
         table; the approximate curve is drawn);                                      0,5
-VII International Zhautykov Olimpiad/Experimental Competition                               Page 4/4
+
+
+VII International Zhautykov Olimpiad/Experimental Competition                               Page 4/4
 
 
 2.4     Measurements:

@@ -27,11 +27,11 @@ verification_status: unverified
 
 A photographer prepared a setup consisting of a rectangular water tank with glass walls, a laser beam entering the water tank perpendicularly to one of its faces, and a camera looking directly towards a neighbouring face of the water tank. A gas bubbled entered the laser beam and the photographer managed to take five photos of the bubble while continuously defocusing the camera. The lens had internal focusing design, so that defocusing meant changing the focal length while keeping the position of the lens intact, see figure. The line of sight from the camera to the bubble was perpendicular to the laser beam, and the bubble was entirely inside the beam.
 
-![figure](../../sources/physicscup/figures/physicscup-wopho2013-p3-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-wopho2013-p3-1.png)
 
 In the figure below, the taken photos are placed side by side and indicated by numbers $1 - 5$.
 
-![figure](../../sources/physicscup/figures/physicscup-wopho2013-p3-2.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-wopho2013-p3-2.png)
 
 **Task:** calculate the diameter of the gas bubble.
 

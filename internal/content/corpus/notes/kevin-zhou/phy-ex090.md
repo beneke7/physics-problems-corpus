@@ -23,13 +23,12 @@ source_role: explanatory_example
 ---
 Example.    Carbon. We start with the electron configuration 1s2 2s2 2p2 , which has degeneracy
  6
-  
+
  2 = 15. Now, since there are only two relevant electrons, we can have L = 0, 1, 2 and S = 0, 1,
 with each L value represented once. Overall antisymmetry determines the S values, giving 1 S, 3 P ,
 and 1 D. These have dimensions 1, 9, and 5, which add up to 15 as expected.
     Some of the low-lying atomic energy levels for carbon are shown below, where the energy is
 measured in eV.
-245 10. Atomic Physics
 
 
 

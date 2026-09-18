@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201102"
 verification_status: pending
 ---
 
-Measure the speed of ripples of certain frequency on the surface of water. How does this speed depends on the depth of the water? 
+Measure the speed of ripples of certain frequency on the surface of water. How does this speed depends on the depth of the water?
  (6 pont)

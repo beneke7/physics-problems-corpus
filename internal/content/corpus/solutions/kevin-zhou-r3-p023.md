@@ -32,31 +32,31 @@ p
 1 − (2πR/cT)2 ≈ T 1 −
 1
 2
-
+
 2πR
 cT
-2
+ 2
 !
 .
 It is also at a lower gravitational potential than a clock at infinity, so counting only gravitational
 time dilation,
 TC = T 1 + ∆ϕ/c2
-
+
 = T 1 − GM/Rc2
-
+
 .
 In reality both effects occur, and at leading order they just add, giving
 TC = T
 p
 1 − (2πR/cT)2 1 + ∆ϕ/c2
-
+
 ≈ T 1 −
 1
 2
-
+
 2πR
 cT
-2
+ 2
 −
 GM
 Rc2
@@ -68,7 +68,7 @@ is rotating a lot slower than that, the gravitational time dilation effect is mu
 p
 GM/(R + h) and potential ∆ϕ = −GM/(R + h), so
 TC′ ≈ T
-
+
 1 −
 1
 2
@@ -77,14 +77,14 @@ GM
 −
 GM
 (R + h)c2
-
+
 .
 The gravitational time dilation effect is still larger, but only by a factor of 2.
 (c) Plugging in the numbers, we have
-
+
 2πR
 cT
-2
+ 2
 = 2.4 × 10−12
 ,
 GM
@@ -103,28 +103,28 @@ T
 GM
 (R + h)c2
 −
-
+
 2πR
 cT
-2
+ 2
 !
 = 7µs.
 If we consider just gravitational time dilation, the time difference per day is
 T
-
+
 GM
 (R + h)c2
 −
 GM
 Rc2
-
+
 = −46µs.
 So at this height, the gravitational effect dominates. This graphic gives a neat overview of
 how the two effects vary as a function of height, and how they’ve been tested.
 [4] Problem 24. @ 1 0IPhO 1995, problem 1. A straightforward problem on gravitational redshift.
 Solution. See the official solutions, but note that there’s a numeric mistake in the very last subpart.
 They should have written m0c2 = 3.752 × 109 eV and ∆f/f0 = 5.44 × 10−9.
-[5] Problem 25.  h 1 0APhO 2014, problem 3. Gravitational lensing from the bending of light. Print
+[5] Problem 25.   h 1 0APhO 2014, problem 3. Gravitational lensing from the bending of light. Print
 out the official answer sheets and record your answers on them.
 [3] Problem 26. @ 1 0IPhO 2023, problem 2, parts C.1 through C.4. A neat problem on how the
 Shapiro delay, a classic test of general relativity, can be used to measure neutron star masses.

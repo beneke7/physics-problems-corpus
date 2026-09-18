@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202202"
 verification_status: pending
 ---
 
-Measure the rotational inertia of an empty beer bottle about its symmetry axis. In order to make the measurement more accurate, carry out the measurement in two different ways. Compare the accuracy of the two measurements. 
+Measure the rotational inertia of an empty beer bottle about its symmetry axis. In order to make the measurement more accurate, carry out the measurement in two different ways. Compare the accuracy of the two measurements.
  (6 pont)

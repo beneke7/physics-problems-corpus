@@ -42,7 +42,9 @@ right plates.) Thus, the potentials on these right plates evolve as follows.
 D1 until they are (0,0).
 2. Vi = V . This switches the potentials to (2V,0). Current flows through D2 until they are
 (V,V ).
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 3. Vi = −V . This switches the potentials to (−V,V ), so current flows through D1 until
 they are (0,V ).
 4. Vi = V . This switches the potentials to (2V,V ), so current flows through D2 until they
@@ -69,7 +71,9 @@ have a region with negative differential resistance, dI/dV < 0. This allows them
 signals, as we’ll see below, and also can make them unstable.
 Example 1: NBPhO 2003
 The circuit below, containing a tunnel diode, acts as a simple amplifier.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Here, R = 10Ω and E = 0.25V. If a small signal voltage Vin(t) is applied across the input,
 then an amplified and shifted version of the signal appears across the output. Find the
 amplification factor.
@@ -90,7 +94,9 @@ out +
 R
 R + V ′(I0)
 Vin.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 In other words, the change in Vout is just Vin, times the amplification factor
 R
 R + V ′(I0)
@@ -120,14 +126,16 @@ general, to analyze setups with multiple complex circuit elements like these, it
 treat them as black boxes than to try to intuit what’s going on at the level of individual
 subelements, or electric and magnetic fields. (Of course, engineers do need to understand
 circuit elements at these level to design them in the first place!)
-[3] Problem 5.  W 1 0USAPhO 2016, problem A2. This problem is a nice introduction to op amps.
+[3] Problem 5.   W 1 0USAPhO 2016, problem A2. This problem is a nice introduction to op amps.
 Idea 3
 In some nonlinear circuit elements, the function I(V ) is multivalued. This indicates hysteresis:
 given V , the actual value of I depends on the history of the system. The same goes for when
 V (I) is multivalued.
-[5] Problem 6.  h 1 0IPhO 2016, problem 2. This problem illustrates the previous idea with a thyristor.
+[5] Problem 6.   h 1 0IPhO 2016, problem 2. This problem illustrates the previous idea with a thyristor.
 Print out the official answer sheet and record your answers on it.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 2 Displacement Current
 Idea 4
 In general, Ampere’s law is
@@ -172,7 +180,9 @@ B · ds about this circle in three ways.
 the wire.
 (b) Do the same, with a surface that does intersect the wire.
 (c) Apply the Biot–Savart law to the current and displacement current.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Define coordinates such that the z axis is anti-parallel to the wire, and use spherical
 coordinates (r,θ,ϕ) with respect to this choice of the z axis (we won’t need θ, so the choice of x
 and y axes is unimportant).
@@ -247,7 +257,9 @@ To see why, note that
 ∂t2
 where we used Faraday’s law. When the currents are constant, the magnetic fields
 are also constant, so the right-hand side vanishes. Then ∇ × Jd = 0. However, this
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 means that Jd can always be written as a superposition of radial, spherically symmet-
 ric currents, and as we saw in the previous problem, such currents produce no magnetic fields.
 This explains why we were able to get away with using Coulomb’s law and the Biot–Savart
@@ -276,7 +288,9 @@ with this reasoning is that it has ignored the displacement current due to the c
 substantial fringe fields of the capacitor. When these are accounted for, the magnetic fields
 due to the displacement current cancel, as argued generally above.
 [3] Problem 9 (Griffiths 7.36). An alternating current I = I0 cos(ωt) flows down a long straight wire
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 along the ẑ axis and returns along a coaxial conducting tube of radius a.
 (a) By neglecting displacement current, show that the electric field in the tube is
 E(r) =
@@ -347,7 +361,9 @@ because they are infinite in one direction (so you can have the current return t
 (so you can still unambiguously define the potential to be “zero far away”). In fact, as you get
 further in physics, nice setups become increasingly rare, and it will often be the case that only one
 setup works for demonstrating a point without technical complications.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 10. [A] Consider an infinite thin solenoid which initially carries no current, and a loop
 of wire around this solenoid of enormous radius, say one light year. At some moment, a current is
 suddenly made to flow through the solenoid. (This cannot be done by simply attaching a battery
@@ -389,35 +405,37 @@ This is the continuity equation, and we saw versions of it for other conserved q
 (b) Generalize Maxwell’s equations to include a magnetic charge density ρm and a magnetic
 current density Jm. Fix the signs by demanding that magnetic charge is conserved.
 (c) Check that the resulting equations are invariant under the duality transformation
-
+
 E′
 B′
-
+
 =
-
+
 cosθ sinθ
 −sinθ cosθ
-
+
 E
 B
-
+
 ,
-
+
 ρ′
 e
 ρ′
 m
-
+
 =
-
+
 cosθ sinθ
 −sinθ cosθ
-
+
 ρe
 ρm
-
+
 which rotates electricity into magnetism with angle θ.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Write down the Lorentz force law for a particle with electric and magnetic charge, using the
 fact that it should be invariant under the duality transformation above.
 Solution. (a) Taking the time derivative of Gauss’s law gives
@@ -440,33 +458,33 @@ By enforcing that the divergence of the right side is zero, we learn that it is
 − Jm.
 (c) The equations can be written succinctly as
 ∇ ·
-
+
 E
 B
-
+
 =
-
+
 ρe
 ρm
-
+
 .
 Applying the rotation matrix to both sides shows that the Gauss’s laws are satisfied in the
 primed setup. Similarly, the other two can be written as
 ∇ ×
-
+
 E
 B
-
+
 =
-
+
 0 −1
 1 0
-
+
 ∂t
-
+
 ∂tE + Je
 ∂tB + Jm
-
+
 .
 Again, the result is clear by applying the rotation transformation.
 (d) We see that F = qe(E + v × B) + qm(B − v × E). We see that
@@ -484,7 +502,9 @@ F′
 θ + cos2
 θ) = F
 as desired.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The peculiar name of Jd is because Maxwell thought of it as a literal displacement of a
 jelly-like ether. In that era, all electromagnetic quantities, such as fields, charges, currents,
@@ -501,8 +521,8 @@ E × B
 µ0
 gives the flux density of the energy of an electromagnetic field. That is, the flux of S into a
 closed surface is the rate of change of energy within that surface.
-[3] Problem 12.  m 1 0USAPhO 2010, problem B2.
-[3] Problem 13.  m 1 0USAPhO 2013, problem B2.
+[3] Problem 12.   m 1 0USAPhO 2010, problem B2.
+[3] Problem 13.   m 1 0USAPhO 2013, problem B2.
 Remark
 It’s unlikely that you’ll see any examples besides the ones in the above two problems, because
 in almost all other setups, the Poynting vector depends sensitively on the fringe fields, which
@@ -519,7 +539,9 @@ is the “correct” one? According to everything we’ve learned so far, there�
 to choose, and we just use the Poynting vector because it’s the simplest option. However, in
 general relativity, the flow of energy directly influences the curvature of spacetime, so there
 is an unambiguous correct answer, which is indeed the Poynting vector.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Example 3
 Consider two charges q, at positions rx̂ and rŷ respectively, both moving with speed v towards
 the origin. Show that the magnetic forces between them are not equal and opposite. That
@@ -559,7 +581,9 @@ to use spherical coordinates with the monopole at the origin and the charge alon
 but be warned, it’s fairly messy.)
 [3] Problem 14 (Griffiths). A long coaxial cable of length ℓ consists of an inner conductor of radius
 a and an outer conductor of radius b. The inner conductor carries a uniform charge per unit length
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 λ, and a steady current I to the right; the outer conductor has the opposite charge and current.
 (a) Find the electromagnetic momentum stored in the fields.
 (b) In part (a) you should have found that the fields contain a nonzero momentum directed along
@@ -629,7 +653,9 @@ a =
 q2
 8πϵ0mc2
 .
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Note that
 S =
 1
@@ -642,7 +668,7 @@ E × (v × E)dV =
 Z
 v(E2
 ) − E(v · E)
-
+
 dV
 = (kq)2
 ẑ
@@ -652,11 +678,11 @@ Z π
 0
 Z 2π
 0
-
+
 v/r4
 − v cos2
 θ/r4
-
+
 r2
 sinθdϕdθdr
 = 2π(kq)2
@@ -689,10 +715,10 @@ p =
 c4µ0
 8
 3
-
+
 q
 4πϵ0
-2
+ 2
 πv
 a
 =
@@ -721,7 +747,9 @@ of what was naively calculated in part (a). The answer in part (b) is correct, b
 the impulse corresponds to a change in non-electromagnetic “hidden momentum”. The most basic
 example of hidden momentum is covered in example 12.12 of Griffiths. For a detailed analysis of
 the hidden momentum in this setup, see this paper.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Using the standard formula,
 p = ϵ0(E × B)Ad = ϵ0EBAdŷ.
 (b) If Q′ is the charge on the plates at any given moment, the impulse j is
@@ -751,7 +779,7 @@ ḂQdŷdt = BQdŷ = ϵ0EBAdŷ
 in agreement with parts (a) and (b). The answer is the same if the setup were asymmetric,
 i.e. if the fields had been E′ + E0 and −E′ + E0 at the top and bottom plates, because E0
 would not contribute to the net force.
-[3] Problem 17.  m 1 0USAPhO 2004, problem B2. (The official solution is off by a sign in the last
+[3] Problem 17.   m 1 0USAPhO 2004, problem B2. (The official solution is off by a sign in the last
 part. This classic setup also appears on USAPhO 2020, problem A1, and INPhO 2020, problem 2.
 However, the official solution to USAPhO 2020, problem A1 has factor of 2 errors.)
 4 Electromagnetic Waves
@@ -772,11 +800,13 @@ k
 Example 4
 Verify explicitly that in the absence of charges and currents, the electromagnetic field above
 satisfies Maxwell’s equations.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 First let’s consider Gauss’s law, ∇ · E = 0. Splitting everything explicitly into components,
 ∇ · E = e−iωt
-
+
 ∂
 ∂x
 (E0,xeik·r
@@ -789,9 +819,9 @@ First let’s consider Gauss’s law, ∇ · E = 0. Splitting everything explici
 ∂z
 (E0,zeik·r
 )
-
+
 = e−iωt
-
+
 E0,x
 ∂
 ∂x
@@ -804,7 +834,7 @@ eik·r
 ∂
 ∂z
 eik·r
-
+
 = ei(k·r−ωt)
 (iE0,xkx + iE0,yky + iE0,zkz)
 = ik · E = 0
@@ -840,7 +870,9 @@ electromagnetic wave solutions without it.
 (c) Confirm that E = pc for an electromagnetic wave.
 Solution. The key pitfall here is that we have to take into account the fact that for all nonlinear
 quantities such as these, we need to look only at the real part of the above formulas.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (a) The energy is u = 1
 2ϵ0
 (E2 + c2B2). The average value of E2 is E2
@@ -890,7 +922,9 @@ in section 11.2 of Griffiths.
 [3] Problem 20 (Purcell 9.7). Consider the sum of two oppositely-traveling electromagnetic waves,
 with electric fields
 E1 = E0 cos(kz − ωt)x̂, E2 = E0 cos(kz + ωt)x̂.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Write down the magnetic field.
 (b) Draw plots of the energy density U(z,t) for ωt ∈ {0,π/4,π/2,3π/4,π}.
 (c) Plot the Poynting vector for the same values of ωt, and convince yourself that it describes
@@ -953,7 +987,9 @@ Radiation can’t result from uniform velocity, by Lorentz invariance; another w
 is that with only v and c, there is no way to write down an expression for power with the
 right units! The next simplest option is radiation from acceleration, from which the most
 general result is P = (q2a2/ϵ0c3)f(v/c). The fact that acceleration is squared is also natural,
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 because acceleration is a vector, so this is the simplest way to get a rotationally invariant
 result. The proper derivation shows that f(0) = 1/6π. When v/c is substantial, there are
 relativistic corrections, which we will consider in R3.
@@ -997,17 +1033,19 @@ power incident on a disc of area
 σ =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 .
 This is the Thomson scattering cross section. To an electromagnetic wave, each electron looks
 like it has this area.
 (b) Now suppose ω ≪ ω0, yielding Rayleigh scattering, which describes the scattering of visible
 light by air. In this case, show that σ ∝ ω4. This sharp frequency dependence explains why
 the sky is blue.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Explain the meaning of the common phrase “red sky at night, sailor’s delight; red sky in
 morning, sailor’s warning”. (Hint: in the cultures where this saying is used, weather patterns
 usually move from west to east.)
@@ -1047,20 +1085,20 @@ e4E2
 =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 .
 (b) Now, our expression for A will be eE0/mω2
 0, which modifies the answer to
 σ =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 ω4
 ω4
 0
@@ -1079,8 +1117,10 @@ as possible.) When you account for the total excitation of the cones, due to the
 of the sky, the net result is that the blue cone is excited a lot, and the green and red cones
 are each excited a little, so the result looks blue.
 (c) See this nice explanation for details.
-[3] Problem 23.  m 1 0USAPhO 2016, problem B2.
-20Kevin Zhou Physics Olympiad Handouts
+[3] Problem 23.   m 1 0USAPhO 2016, problem B2.
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 We noted in M7 that clouds are visible because the radiation scattered by a small droplet of
 n water molecules grows as n2. To understand why, note that each of the molecules performs
@@ -1110,7 +1150,9 @@ momentum is reversed, so the force is 2P/c.
 [3] Problem 24 (IZhO 2022). In 2018, the Nobel Prize in physics was awarded to Arthur Ashkin
 for the creation of the “laser tweezer”, a device that allows one to hold and move transparent
 microscopic objects with the help of light. In one such device, a parallel beam of light from a laser
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 passes through a converging lens L and hits a microparticle M, which can also be considered a
 converging lens. Point F is the common focus of L and M.
 The light intensity in the beam is I = 1.00µW/cm2, the beam radius is R = 1.00cm, and the focal
@@ -1143,7 +1185,9 @@ P =
 c
 sinθcos2
 θ.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Setting the derivative to zero, the maximum is at θ = sin−1
 (1/
 √
@@ -1225,7 +1269,9 @@ LC is the same, yielding the same speed for electromagnetic
 waves. This actually holds for transmission lines with conductors of any shape, though the general
 proof requires some vector calculus.
 Solution. Suppose the length is ℓ.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 (a) We have C = ϵ0wℓ/h, so C = ϵ0w/h. Similarly, L = µ0h
 w ℓ, so L = µ0h/w.
 (b) The timescale to propagate a unit length is 1/
@@ -1265,19 +1311,19 @@ dr =
 µ0Iℓ
 2π
 log
-
+
 b
 a
-
+
 and therefore
 L =
 µ0
 2π
 log
-
+
 b
 a
-
+
 .
 Thus we get 1/
 √
@@ -1302,10 +1348,10 @@ dr, L =
 µ0
 π
 log
-
+
 D
 r
-
+
 .
 This gives 1/
 √
@@ -1316,7 +1362,9 @@ inductors, as shown. (This is an example of a network synthesis, mentioned in E6
 (a) Calculate the characteristic impedance Z0(ω) of the entire network, as shown below.
 L/2 L/2 L/2 L/2
 C C V0 ··· = Z0 V0
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The diagram below shows two adjacent sections of the ladder.
 ··· ···
 In In+1
@@ -1388,7 +1436,9 @@ p
 p
 4/ω2LC − 1 + i
 .
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (c) First we’ll find the critical angular frequency using part (b). When the square root is a real
 number, the numerator and denominator have equal magnitudes, so |Vn+1| = |Vn|, indicating
 wave propagation. When the square root is imaginary, the wave instead exponentially decays.
@@ -1458,7 +1508,9 @@ of the wave once it gets back to the voltage source. It’s analogous to trying 
 lima→∞
 Ra
 0 eix dx.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 To make the limit well-defined, we must introduce resistances. For example, we could add
 a small resistance ∆r to every inductor, which is also perfectly realistic. Now the waves
 gradually decay away, and in the infinite limit we get some impedance Z(∆r,ω). Finally,

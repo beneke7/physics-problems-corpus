@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-In 1993 in the Spanish city Salamanca Javier Sotomayor won the high jump with a height of 245 cm, which was a new world record. Estimate the initial speed of the jump. 
+In 1993 in the Spanish city Salamanca Javier Sotomayor won the high jump with a height of 245 cm, which was a new world record. Estimate the initial speed of the jump.
  (4 pont)

@@ -44,7 +44,6 @@ bár a gödrön kívül van egy kis exponenciális lecsengése, és ⟨ψ|H 2 |�
 eredményeket akkor kapjuk vissza, amikor a gödör mélységét végtelenhez tartjuk. A fizikusok ilyen
 regulátora rendkívül megbízható, mivel összhangban van azzal, ahogyan a természet ténylegesen működik,
 de a gyakorlatban használni meglehetősen körülményes.
-136 5. A kvantummechanika alapjai
 
    Íme egy másik kérdés, amely a matematikusokat zavarni szokta, a fizikusokat azonban nem. A
 matematikában gyakran „intrinzikus” nézőpontot szeretnénk felvenni. Jó lenne a problémát a [a, b]
@@ -97,7 +96,6 @@ Most áttekintjük az adiabatikus tételt, amely a Hamilton-operátor lassú meg
     metszik egymást, akkor a sajátállapotokat λ függvényeként |n(λ)⟩-ként indexelhetjük. Ha a
     vezérlési paraméterek tere kontraktibilis, akkor a |n(λ)⟩ állapotok simának választhatók, bár látni
     fogjuk, hogy vannak esetek, amikor ez nem lehetséges.
-137 5. A kvantummechanika alapjai
 
 
  • Az adiabatikus tétel szerint, ha a λi paramétereket elég lassan változtatjuk, akkor egy kezdetben
@@ -148,7 +146,6 @@ Most áttérünk a Berry-fázisra.
                                      d
                               0=        ⟨n|n⟩ = ⟨ṅ|n⟩ + ⟨n|ṅ⟩ = 2 Re⟨n|ṅ⟩.
                                      dt
-138 5. A kvantummechanika alapjai
 
 
  • A láncszabályt használva
@@ -202,6 +199,6 @@ Most áttérünk a Berry-fázisra.
                            Fij = ∂i Aj − ∂j Ai − i[Ai , Aj ],         Fij′ = ΩFij Ω†
 
    és a Berry-fázis „Berry-holonomiának” nevezett általánosítása
-                                                 I          
+                                                  I
                                                            i
                                      U = P exp i Ai dλ .

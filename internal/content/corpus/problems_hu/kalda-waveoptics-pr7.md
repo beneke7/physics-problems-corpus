@@ -20,4 +20,4 @@ verification_status: pending
 
 Becsüljük meg egy Fabry–Perot-interferométer spektrális szűrőként vett felbontóképességét, és határozzuk meg a spektrális áteresztését a hullámhossz függvényében. Az interferométer két félig áteresztő és félig visszaverő, párhuzamos felületből áll, amelyek visszaverőképessége nagyon nagy, $R$ (ez a visszavert fényenergia és a beeső nyaláb energiájának hányadosa); a felületeket $a$ távolság választja el.
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr7-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr7-fig1.jpg)

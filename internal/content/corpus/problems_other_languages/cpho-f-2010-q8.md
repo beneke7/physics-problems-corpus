@@ -28,13 +28,13 @@ verification_status: pending
 1． 画出该光学系统的光路图。
 2． 求该光学系统中锥面镜顶点到球面镜球心的距离 $x$ 。
 
-![](cpho-f-2010-q8-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig01.png)
 （a）
 
-![](cpho-f-2010-q8-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig02.png)
 （b）
 
-![](cpho-f-2010-q8-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig03.png)
 （c）
 
 ## 第27届全国中学生物理竞赛决赛试题答案
@@ -90,7 +90,7 @@ $$
 s^{\prime}=\frac{v_{0}^{\prime 2}}{2 a}=\frac{v_{0}^{\prime 2}}{2 \mu_{1} g},
 $$
 
-![](cpho-f-2010-q8-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig04.png)
 物块不超过传输带的边缘对应的最小摩擦系数 $\mu_{2}$ 应满足
 
 $$
@@ -133,7 +133,7 @@ $$
 P=P_{0}+\Delta P=1000 \mathrm{~W} \text { 。 }
 $$
 
-![](cpho-f-2010-q8-fig05.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig05.png)
 设有负载时的工作电流为 $I$ ，则
 
 $$
@@ -192,7 +192,7 @@ $$
 $$
 
 当两球都未脱离轻杆时，两球都绕转轴作圆周运动，球 1 的切向加速度和法向加速度分别为
-![](cpho-f-2010-q8-fig06.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig06.png)
 
 $$
 \begin{aligned}
@@ -235,7 +235,7 @@ $$
 （16）
 由（16）式并代入数据得
 $\theta_{1}=\frac{\pi}{6}$ 。
-![](cpho-f-2010-q8-fig07.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig07.png)
 （17）
 当 $\theta=\theta_{1}$ 时，球1开始向外滑动。由于球1的初始位置紧靠轻杆末端，球1从开始滑动到脱离细杆的时间可忽略不计，因此球 1 脱离细杆与水平线夹角也为 $\theta_{1}=\frac{\pi}{6}$ 。
 球 1 一旦脱离轻杆，因轻杆没有质量，球 2 与轻杆间的相互作用立即消失，此后球 2 只受重力作用而作斜舞女运动，注意到（2）、（3）、（7）各式，抛出时的初速度
@@ -316,7 +316,7 @@ $$
 \frac{f_{A B} \sin \left(\varphi_{1}-\theta\right)}{f_{A C} \sin \left(\varphi_{2}+\theta\right)}=\frac{|A B| \sin \varphi_{1}}{|A C| \sin \varphi_{2}} .
 $$
 
-![](cpho-f-2010-q8-fig08.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig08.png)
 考虑到几何关系
 
 $$
@@ -376,7 +376,7 @@ $$
 \frac{f_{A B}}{f_{A C}} \frac{r_{2}}{r_{1}}=\frac{f_{C 1}}{f_{C 2}}=\frac{C D}{B D}
 $$
 
-![](cpho-f-2010-q8-fig09.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig09.png)
 依题意有
 
 $$
@@ -835,7 +835,7 @@ $$
 $$
 
 （1）
-![](cpho-f-2010-q8-fig10.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig10.png)
 
 根据电路的对称性可知
 
@@ -893,7 +893,7 @@ $$
 M=2 F_{a^{\prime} a} \frac{\sqrt{2}}{2} l \sin \theta+2 F_{b^{\prime} b} \frac{\sqrt{2}}{2} l \cos \theta
 $$
 
-![](cpho-f-2010-q8-fig11.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig11.png)
 将（11）～（14）代入（15），得
 
 $$
@@ -910,7 +910,7 @@ $$
 $$
 
 $b^{\prime} b$ 和 $d d^{\prime}$ 中的感应电动势为
-![](cpho-f-2010-q8-fig12.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig12.png)
 
 $$
 \varepsilon_{b^{\prime} b}=\varepsilon_{d d^{\prime}}=\frac{\sqrt{2}}{2} B l^{2} \omega \cos \theta
@@ -988,7 +988,7 @@ $$
 八、
 参考解答：
 1．光路图如下，指出被球面镜反射的光线汇累于凸透镜的焦点。
-![](cpho-f-2010-q8-fig13.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q8-fig13.png)
 
 2．参照所给光路图，可知 $C O=x$ ，设 $\angle C A O=a$ ，有如下几何关系：
 

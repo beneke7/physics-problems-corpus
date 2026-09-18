@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, superposition]
 ---
 
-A 20-cm long, thin ruler of mass 0.05 kg is lying on the top of a horizontal air-cushioned table. At one moment the ruler is at rest and then at one end of the ruler a horizontal force of magnitude 0.1 N is exerted on it, perpendicularly to the longest side of the ruler. Find the acceleration of the other end of the ruler at which it starts to move. 
+A 20-cm long, thin ruler of mass 0.05 kg is lying on the top of a horizontal air-cushioned table. At one moment the ruler is at rest and then at one end of the ruler a horizontal force of magnitude 0.1 N is exerted on it, perpendicularly to the longest side of the ruler. Find the acceleration of the other end of the ruler at which it starts to move.
  (5 pont)

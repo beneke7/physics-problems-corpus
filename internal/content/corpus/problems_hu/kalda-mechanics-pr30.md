@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű test súrlódásmentes vízszintes felületen fekszik, és egy függőleges falhoz is ér. A test felső felületén $r$ sugarú félhenger alakú üreg van. Egy $m$ tömegű kis golyót az üreg falnak közelebbi felső pereménél elengedünk. Mekkora lesz a test maximális sebessége a további mozgás során? A súrlódás elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr30-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr30-fig1.jpg)

@@ -88,10 +88,10 @@ C. Their ratios are ∆T3/∆T2 ≈ 0.522 and
 ponential “tail”. As in every equal time interval the ∆T is mul-
 tiplied by the same number (that is the essence of exponentials),
 Tc = ∆Tavg,0 = ∆T3 ×
-
+
 ∆T2
 ∆T3
- t3
+  t3
 t3−t2
 ≈ 114◦
 C. From this,

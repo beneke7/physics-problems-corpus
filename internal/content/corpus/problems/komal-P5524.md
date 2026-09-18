@@ -24,4 +24,4 @@ techniques: []
 
 In a closed capillary tube, there are 2 mercury columns between which there is a drop of $\mathrm{HgI}_2$ (mercury iodide) electrolyte in aqueous
 
-![figure](../../raw_html/komal_figures/komal-P5524-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5524-fig1.gif)

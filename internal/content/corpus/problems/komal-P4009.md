@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200710"
 verification_status: pending
 ---
 
-The voltage of the rechargeable battery of a car is 12 V. In order to generate sparks in the spark plug a voltage of 5 kV is needed. How is it possible to produce 5000 V from 12 V direct voltage? 
+The voltage of the rechargeable battery of a car is 12 V. In order to generate sparks in the spark plug a voltage of 5 kV is needed. How is it possible to produce 5000 V from 12 V direct voltage?
  (4 pont)

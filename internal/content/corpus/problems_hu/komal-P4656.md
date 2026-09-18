@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4656. Ugyanabban a pontban felfüggesztett három egyenlő hosszú fonálon három azonos nagyságú és tömegű kis gömb függ. Mindegyiknek ugyanakkora töltést adva mekkora sugarú körön fognak elhelyezkedni? 
+P. 4656. Ugyanabban a pontban felfüggesztett három egyenlő hosszú fonálon három azonos nagyságú és tömegű kis gömb függ. Mindegyiknek ugyanakkora töltést adva mekkora sugarú körön fognak elhelyezkedni?
 
- Adatok: $\ell=20$ cm, $m=1{,}3~$gramm, $Q=1{,}2\cdot10^{-7}$ C. 
+ Adatok: $\ell=20$ cm, $m=1{,}3~$gramm, $Q=1{,}2\cdot10^{-7}$ C.
  Francia érettségi feladat
 
-![figure](../../raw_html/komal_figures/komal-P4656-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4656-fig1.gif)

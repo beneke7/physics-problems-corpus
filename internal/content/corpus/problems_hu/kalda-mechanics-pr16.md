@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy félgömb alakú edényt nyílásával lefelé sima vízszintes felületre helyezünk. Ezután az edény alján lévő kis lyukon keresztül vizet töltünk bele. Pontosan akkor, amikor az edény megtelik, a víz szivárogni kezd az asztal és az edény pereme közül. Határozzuk meg az edény tömegét, ha a víz sűrűsége $\rho$, a félgömb sugara pedig $R$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr16-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr16-fig1.jpg)

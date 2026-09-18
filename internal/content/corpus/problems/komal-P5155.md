@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates]
 ---
 
-A symmetrical letter E was bent from a thin piece of wire of length $(n+4)\ell$ such that each of its horizontal parts has a length of $\ell$ and its vertical part has a length of $n\ell$. Where is the centre of mass of the figure? 
+A symmetrical letter E was bent from a thin piece of wire of length $(n+4)\ell$ such that each of its horizontal parts has a length of $\ell$ and its vertical part has a length of $n\ell$. Where is the centre of mass of the figure?
  (4 pont)

@@ -63,7 +63,8 @@ Theoretical competition                                                         
 
                                                                                   N
                                                                  mg
-Theoretical competition                                                                      Solution: Question 1
+
+Theoretical competition                                                                      Solution: Question 1
 
 26 April 2009                                                                                              Page 2 of 7
 -------------------------------------------------------------------------------------------------------------------------
@@ -120,7 +121,8 @@ Theoretical competition                                                         
                                       d2
      does not oscillate. Hence             θ eq = 0 , and
                                       dt 2
-Theoretical competition                                                                      Solution: Question 1
+
+Theoretical competition                                                                      Solution: Question 1
 
 26 April 2009                                                                                              Page 3 of 7
 -------------------------------------------------------------------------------------------------------------------------
@@ -169,7 +171,8 @@ Method 1: (Angular Momentum)
                                  θ   = −                        sin θ               ………..(xvii.1)
                             dt 2           ( R − r ) ( 3M + m )
        For a small-amplitude oscillation we put sin θ ≈ θ and equation (xvii) is reduced to:
-Theoretical competition                                                                      Solution: Question 1
+
+Theoretical competition                                                                      Solution: Question 1
 
 26 April 2009                                                                                              Page 4 of 7
 -------------------------------------------------------------------------------------------------------------------------
@@ -220,7 +223,8 @@ Method 2: (Newton’s law)
 
 Method 3: (Conservation of Energy)
      The total mechanical energy of the system is given by
-Theoretical competition                                                                      Solution: Question 1
+
+Theoretical competition                                                                      Solution: Question 1
 
 26 April 2009                                                                                              Page 5 of 7
 -------------------------------------------------------------------------------------------------------------------------
@@ -277,7 +281,8 @@ simplifications, we have
                                                     ⎛ R − r ⎞ ⎛ 3M + m ⎞
                                          T     = 2π ⎜       ⎟⎜         ⎟
                                                     ⎝ g ⎠ ⎝ 2M + m ⎠
-Theoretical competition                                                                      Solution: Question 1
+
+Theoretical competition                                                                      Solution: Question 1
 
 26 April 2009                                                                                              Page 6 of 7
 -------------------------------------------------------------------------------------------------------------------------
@@ -326,7 +331,8 @@ corresponds to a freedom in choosing different initial conditions of the motion 
                                   d                      1
                            I CM      ω = − f m r , I CM = mr 2                  …………..(xxii)
                                   dt                     2
-Theoretical competition                                                                     Solution: Question 1
+
+Theoretical competition                                                                     Solution: Question 1
 
 26 April 2009                                                                                              Page 7 of 7
 -------------------------------------------------------------------------------------------------------------------------

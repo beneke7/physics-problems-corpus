@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4854. Az ábrán látható ,,végtelen'' kapcsolásban minden ellenállás ugyanakkora $R$ nagyságú, és mindegyik kondenzátor kapacitása ugyanakkora $C$ értékű. Mekkora az eredő ellenállás, illetve az eredő kapacitás az $A$ és $B$ pontok között?
 
-![figure](../../raw_html/komal_figures/komal-P4854-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4854-fig1.gif)

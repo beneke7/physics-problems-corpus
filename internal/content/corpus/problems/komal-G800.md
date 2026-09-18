@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, smart-coordinates]
 ---
 
-An object is located at a certain distance from a converging lens, which forms the real, inverted image of the object of magnification $N_1$. When the object is placed further from the lens, with a distance of $d$ along the principal axis of the lens, the magnification becomes $N_2$. 
- What is the focal length of the lens? 
+An object is located at a certain distance from a converging lens, which forms the real, inverted image of the object of magnification $N_1$. When the object is placed further from the lens, with a distance of $d$ along the principal axis of the lens, the magnification becomes $N_2$.
+ What is the focal length of the lens?
  (4 pont)

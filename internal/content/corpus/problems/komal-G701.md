@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-What is the ratio of the number of revolutions of the two pulleys shown in the figure, if their radius is the same? (The threads between the pulleys can be considered vertical.) 
+What is the ratio of the number of revolutions of the two pulleys shown in the figure, if their radius is the same? (The threads between the pulleys can be considered vertical.)
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G701-fig1.gif)
+![figure](../../figures/komal/figures/komal-G701-fig1.gif)

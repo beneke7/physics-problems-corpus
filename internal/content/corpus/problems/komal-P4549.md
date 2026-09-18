@@ -22,14 +22,14 @@ verification_status: flagged
 techniques: [graphical-reduction, limiting-and-special-cases]
 ---
 
-A thyristor is an electrical element made of semiconductor, and can be used in many different ways. Its current-voltage characteristics is quite strange. (See figure 1. ) 
+A thyristor is an electrical element made of semiconductor, and can be used in many different ways. Its current-voltage characteristics is quite strange. (See figure 1. )
 
- The thyristor is connected as shown in figure 2, and the voltage U $_{0}$ is slowly increased from zero to U $_{max }$, and then it is slowly decreased back to zero. 
+ The thyristor is connected as shown in figure 2, and the voltage U $_{0}$ is slowly increased from zero to U $_{max }$, and then it is slowly decreased back to zero.
 
- Graph the current as a function of the voltage U $_{0}$, if 
- a ) and , 
- b ) and . 
+ Graph the current as a function of the voltage U $_{0}$, if
+ a ) and ,
+ b ) and .
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4549-fig1.gif)
-![figure](../../raw_html/komal_figures/komal-P4549-fig2.gif)
+![figure](../../figures/komal/figures/komal-P4549-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4549-fig2.gif)

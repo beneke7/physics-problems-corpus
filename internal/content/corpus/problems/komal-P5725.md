@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-Two identical cylinders with homogeneous mass distribution are placed on a slope so that they touch each other, their axes are horizontal. There is friction both between the cylinders and between each cylinder and the slope. Can this system remain in equilibrium if it is left alone? 
+Two identical cylinders with homogeneous mass distribution are placed on a slope so that they touch each other, their axes are horizontal. There is friction both between the cylinders and between each cylinder and the slope. Can this system remain in equilibrium if it is left alone?
  (4 pont)

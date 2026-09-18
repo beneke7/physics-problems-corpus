@@ -50,7 +50,7 @@ igen
 hajlékony”, a gyűrt felületen olyan alakot vesz fel, hogy a belső és a külső nyomás
 mindenhol azonos legyen. A labdán belül mindenhol azonos a légnyomás (a levegő
 csekély aerosztatikus nyomását elhanyagoljuk), a vı́z nyomása viszont a mélységgel
-változik (p = p0 + gh), ı́gy a labda aljának is vı́zszintes sı́klapnak kell lennie
+változik (p = p0 +  gh), ı́gy a labda aljának is vı́zszintes sı́klapnak kell lennie
 (3. ábra).
 A labda alakja tehát egy vı́zszintes sı́klapokkal határolt gömböv.
 Középiskolai Matematikai és Fizikai Lapok, 2022/2 109
@@ -103,28 +103,28 @@ a labdára ható felhajtóerővel.
 2r3
 π
 3
-g,
+ g,
 ahol p a labdában lévő nyomás, p0 a külső légnyomás, r1 a gömböv felső lapjának
-sugara,  pedig a vı́z sűrűsége.
+sugara,   pedig a vı́z sűrűsége.
 Ahogy a 3. ábrán is látható, a labda belsejében a levegő nyomása a külső lég-
 nyomás és a h magasságú vı́zoszlop hidrosztatikai nyomásának összegével egyenlő:
-p = p0 + gh = p0 + g(h1 + h2).
+p = p0 +  gh = p0 +  g(h1 + h2).
 Ezt beı́rva az előző egyenletbe, és kihasználva, hogy r2
 1 = r2
 − h2
 1, megkapjuk a ﬁ-
 zikai feltételt:
-g(h1 + h2)
-
+ g(h1 + h2)
+
 r2
 − h2
 1
-
+
 π =
 2r3
 π
 3
-g,
+ g,
 110 Középiskolai Matematikai és Fizikai Lapok, 2022/2
 i
 i
@@ -138,10 +138,10 @@ i
 amelyet a korábban bevezetett dimenziótlan változókkal ismét áttekinthetőbb alak-
 ra hozhatunk:
 (4) (x1 + x2)
-
+
 1 − x2
 1
-
+
 =
 2
 3
@@ -166,19 +166,19 @@ pontjának helye képletgyűjteményekből kikereshető, vagy integrála�
 meghatározható):
 d =
 3
-
+
 h2
 2 − h2
 1
-
+
 4r
 −
 3
-
+
 h4
 2 − h4
 1
-
+
 8r3
 ,
 a korábbi módon dimenziótlanı́tva
@@ -187,19 +187,19 @@ d
 r
 =
 3
-
+
 x2
 2 − x2
 1
-
+
 4
 −
 3
-
+
 x4
 2 − x4
 1
-
+
 8
 .
 Ezután δ minimumát keressük, ﬁgyelembe véve a korábban felı́rt

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-Newton's rings are created by a plano-convex lens placed to a plan-parallel glass sheet illuminated by light of wavelength 0.6 $\mu$m. The refractive index of glass is 1.5, the focal length of the lens is 2.7 m. 
- $a)$ What is the radius of the fourth bright ring? 
- $b)$ How will the (dark and bright) ring pattern change if the lens is moved a bit further from the plan-parallel glass sheet? 
+Newton's rings are created by a plano-convex lens placed to a plan-parallel glass sheet illuminated by light of wavelength 0.6 $\mu$m. The refractive index of glass is 1.5, the focal length of the lens is 2.7 m.
+ $a)$ What is the radius of the fourth bright ring?
+ $b)$ How will the (dark and bright) ring pattern change if the lens is moved a bit further from the plan-parallel glass sheet?
  (5 pont)

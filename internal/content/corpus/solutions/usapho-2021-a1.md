@@ -71,11 +71,11 @@ v0
 .
 Using a basic property of the tangent function,
 tan
-
+
 π −
 ωt
 2
-
+
 =
 (1 − r)sω
 v0
@@ -88,7 +88,7 @@ t0 =
 v0
 .
 Note that we cancelled a factor of sin ωt/2
-
+
 , which has a zero at t = 2π/ω. However, this
 is a larger time than the one we just found, so it is irrelevant.
 Another way to arrive at the answer is to rewrite the original condition as
@@ -138,10 +138,10 @@ r ≥
 1
 2
 1 +
-
+
 v0
 sω
-2
+ 2
 !
 .
 Note that if v0/sω is too large, then it is impossible to satisfy this condition, since we need

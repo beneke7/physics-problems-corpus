@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-Some electrons are moving in the magnetic field of 0.03 T of a particle accelerator along a circular path of radius 0.2 m. What is the speed of the electrons? 
+Some electrons are moving in the magnetic field of 0.03 T of a particle accelerator along a circular path of radius 0.2 m. What is the speed of the electrons?
  (5 pont)

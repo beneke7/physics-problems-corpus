@@ -9,11 +9,11 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 726. Az ábrán látható négy belső fogaskerék körbejár, a külső pedig áll. (A fogaskerekek mozgása a honlapon megtekinthető.) 
+G. 726. Az ábrán látható négy belső fogaskerék körbejár, a külső pedig áll. (A fogaskerekek mozgása a honlapon megtekinthető.)
 
- $a)$ Hasonlítsuk össze a fogaskerekek keringési idejét! 
+ $a)$ Hasonlítsuk össze a fogaskerekek keringési idejét!
  $b)$ Rakjuk a fogaskerekeket a középpontjuk sebessége szerint növekvő sorrendbe!
 
-![figure](../../raw_html/komal_figures/komal-G726-fig1.gif)
+![figure](../../figures/komal/figures/komal-G726-fig1.gif)
 
-![figure](../../raw_html/komal_figures/komal-G726-fig2.gif)
+![figure](../../figures/komal/figures/komal-G726-fig2.gif)

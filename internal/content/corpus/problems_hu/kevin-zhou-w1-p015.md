@@ -36,7 +36,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           frequencies of allowed standing waves.
 
                                                      9
-Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                Physics Olympiad Handouts
 
  (d) Sketch the Chladni pattern for the lowest standing wave frequency.
  (e) For the second-lowest standing wave frequency, there will be two independent standing waves
@@ -49,8 +51,8 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   order equation considered in problem 11, which is called the biharmonic equation,
 
                  ∂2z    4       2 2       2     2
-                                                   2       2
-                                                                   ∂4z      ∂4z      ∂4z
+                                                    2       2
+                                                                    ∂4z      ∂4z      ∂4z
              −       ∝ ∇  z = ∇  ∇  z = ∂x  + ∂ y   ∂ x + ∂y    z =     + 2         +     .
                  ∂t2                                                ∂x4     ∂x2 ∂y 2 ∂y 4
   For more about this thrilling subject, see Plates, by Bhaskar and Varadan.
@@ -84,7 +86,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   uncertainty principle.
 
                                                    10
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
        Idea 6
        The dispersion relation of a system is the function ω(k) relating the angular frequency and

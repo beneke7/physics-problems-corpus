@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4157. Legalább mekkora vízszintes irányú erővel lehet feldönteni egy kockát a vízszintes asztalon? Vizsgáljunk meg három különböző esetet: 
- a ) 0; 
- b ) =0,2; 
+P. 4157. Legalább mekkora vízszintes irányú erővel lehet feldönteni egy kockát a vízszintes asztalon? Vizsgáljunk meg három különböző esetet:
+ a ) 0;
+ b ) =0,2;
  c ) =1.

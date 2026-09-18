@@ -50,7 +50,6 @@ Note. The space frame is more complicated, as our nice results for the symmetric
 apply. The only constraint we have is that L · ω is constant, which means that ω must lie on a
 plane perpendicular to L called the invariable plane. We imagine the inertial ellipsoid as an abstract
 object embedded inside the top.
-16 1. Classical Mechanics
 
 
 Since L = ∂T /∂ ω, L is perpendicular to the inertial ellipsoid, which implies that the invariable

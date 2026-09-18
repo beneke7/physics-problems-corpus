@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201409"
 verification_status: pending
 ---
 
-There is a mixture of 12 grams Helium and 16 grams Oxygen in a 25-litre bottle. What is the density and the pressure of this gas at a temperature of 27 ${}^\circ$C? 
+There is a mixture of 12 grams Helium and 16 grams Oxygen in a 25-litre bottle. What is the density and the pressure of this gas at a temperature of 27 ${}^\circ$C?
  (3 pont)

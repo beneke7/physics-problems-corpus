@@ -64,7 +64,7 @@ The poles are on the flat faces as shown:
 (2) Aluminum bar (2 pieces)
 (3) Acrylic plate for the inclined plane with a linear track for the magnet to roll
 
-![](apho-2005-e-q2-fig01.png)
+![](../../figures/apho/figures/apho-2005-e-q2-fig01.png)
 
 (4) Plastic stand
 (5) Digital stop watch
@@ -99,7 +99,7 @@ Please provide sufficient diagrams in your answers so that your work can be unde
 
 (A)Setup
 
-![](apho-2005-e-q2-fig02.png)
+![](../../figures/apho/figures/apho-2005-e-q2-fig02.png)
 Figure 1. Inclined plane setup without aluminum bars
 
 Roll down the magnet along the track as shown. Choose a reasonably small inclination angle so that it does not roll too fast.
@@ -110,7 +110,7 @@ Roll down the magnet along the track as shown. Choose a reasonably small inclina
 
 ## EXPERIMENTAL COMPETITION
 
-![](apho-2005-e-q2-fig03.png)
+![](../../figures/apho/figures/apho-2005-e-q2-fig03.png)
 Figure 2. A complete setup with aluminum bars
 
 Place the two aluminum bars as shown in Figure 2 with distance approximately d = 5mm. Remember that the distance $\boldsymbol{d}$ is to the center of the magnet as shown in the inset of Figure 2.

@@ -20,4 +20,4 @@ verification_status: pending
 
 [Est-PhO-2001] A száloptikában gyakran használnak úgynevezett egyenlő arányú osztókat: ezek olyan eszközök, amelyekben két optikai szálat egymással érintkezésbe hoznak úgy, hogy ha elektromágneses hullám terjed az egyik szálban, akkor az érintkezési pontnál két, azonos amplitúdójú hullámra válik szét, amelyek a két szálban terjednek tovább, lásd az ábrát.
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr18-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr18-fig1.jpg)

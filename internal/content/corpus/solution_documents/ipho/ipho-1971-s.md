@@ -60,7 +60,9 @@ forms (see Fig. 1.2):
 The forces of tension T1 and T2 at the ends of the thread are of the same magnitude T
 since the masses of the thread and that of the pulley are negligible. Note that in equation
 (1.9) we account for the net force –(T1 + T2), which the bended thread exerts on the
-prism through the pulley. The equations of motion result in a system of six scalar
+
+
+prism through the pulley. The equations of motion result in a system of six scalar
 equations when projected along x and y:
 (1.10)                  m1 a cos α 1 − m1 a 0 = T cos α 1 − R1 sin α 1 ;
 (1.11)                  m1 a sin α1 = T sin α 1 + R1 cos α1 − m1 g ;
@@ -108,7 +110,9 @@ the hydrogen is given by:
 where P2 = 1 2 , ρ1 =                        ≈ ρ 0 [1 − β(T2 − T0 )] since the process 1–3 is
               T0           1 + β(T2 − T0 )
 isochoric, and:
-                                                   m
+
+
+                                                   m
 (2.7)                    ( P2 − ρ 2 gh3 ) S ( H − h3 ) =
                                                       RT3
                                                    M
@@ -161,7 +165,9 @@ by considering circuits BFGCB and FGHEF:
                                          E − E1
 (3.4)                   V2 = E 4 − E 2 − 4      = 5 V,
                                              4
-                                        E 4 − E1
+
+
+                                        E 4 − E1
 (3.5)                  V4 = E 4 − E 3 −          = 1 V.
                                             4
 Finally, the voltage V3 across C3 is found by applying the Kirchhoff’s rule for the
@@ -216,7 +222,9 @@ approximation: sinα ≈ tanα ≈ α (rad). Thus we obtain:
 (4.2)                  d ≈ R γ;
 (4.3)                  α + γ = 2β;
 (4.4)                  α ≈ nβ.
-From equations (4.1) - (4.4) we find the vertical displacement of the first image in terms
+
+
+From equations (4.1) - (4.4) we find the vertical displacement of the first image in terms
 of d:
                                n
 (4.5)                   d1 =        d,
@@ -267,7 +275,9 @@ Following the derivation of equation (4.5) we obtain:
 (4.9)                  d2 =       d′.
                              2−n
 Now using the exact geometric relations:
-(4.10)                  δ = 2α – 2β
+
+
+(4.10)                  δ = 2α – 2β
 and the Snell’s law (4.4) in a small-angle limit, we finally express d2 in terms of d:
                                    n
 (4.11)                  d2 =             d,
@@ -314,7 +324,9 @@ provided that the heat losses in the internal resistance of the ammeter are negl
 
 
                            I0               I
-If the current varies in a sufficiently large interval a maximum power Pmax can be
+
+
+If the current varies in a sufficiently large interval a maximum power Pmax can be
 detected at a certain value, I0, of I. Theoretically, the P(I) dependence is given by:
 (5.1)                                    P = EI − I 2 r ,
 where E and r are the EMF and the internal resistance of the dc source respectively. The
@@ -369,7 +381,9 @@ Its maximum is obtained at R = r.
 
 
                                                                             R
-6. The efficiency respectively is:
+
+
+6. The efficiency respectively is:
                      P      R
 (5.7)           η=      =        .   η
                     Ptot R + r

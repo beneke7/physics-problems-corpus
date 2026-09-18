@@ -31,7 +31,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                                        1 + (v/c) cos θ0
 
                                                        4
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
           A v/c → 0 nemrelativisztikus határértékben ez nem meglepő eredmény. Lényegében ez az oka annak, hogy a

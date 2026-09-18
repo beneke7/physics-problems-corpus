@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-There is a little demon in a sample of helium gas, which is at standard temperature and pressure. The little demon selects a cube with side length of 1 nm and counts from time to time the number of nuclei of atoms in the cube. What is the probability of finding zero, one or two nuclei in the cubic region? 
+There is a little demon in a sample of helium gas, which is at standard temperature and pressure. The little demon selects a cube with side length of 1 nm and counts from time to time the number of nuclei of atoms in the cube. What is the probability of finding zero, one or two nuclei in the cubic region?
  (5 pont)

@@ -23,4 +23,4 @@ Az ábrán látható áramkörben $R_{1}=3R$, $R_{2}=R$, $C_{1}=C_{2}=C$ és $L_
 (b) Ezután kinyitjuk a kapcsolót. Határozzuk meg a voltmérő kijelzését közvetlenül a nyitás után.
 (c) Határozzuk meg az egyes ellenállásokon a kapcsoló kinyitása után, az új egyensúlyi állapot eléréséig disszipálódó összes hőt.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr76-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr76-fig1.jpg)

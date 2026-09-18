@@ -25,7 +25,7 @@ techniques: [conservation-laws, smart-coordinates]
 
 B1. Consider two uniform rods each of mass $M$ and length $L$, hinged together to form an upside-down "vee" shape whose angle can vary. The rods are released from rest when their angle $\theta$ with the horizontal is 45º. All hinges are frictionless and have negligible mass.
 
-![](usapho-1999-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-1999-b1-fig01.png)
 Case 1
 
 Case 1: The left end is also hinged at a fixed point at the bottom. The right-hand end of the configuration slides on the horizontal surface without friction.

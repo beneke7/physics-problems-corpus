@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5414. Fémdrótból egy $R$ sugarú kört formáztunk, és ugyanebből a drótból az egyik átmérőt is elkészítettük. Mekkora legyen az $AB = AC$ ívek hossza, hogy az $A$ és $B$ pontok között mérhető eredő ellenállás megegyezzen a $B$ és $C$ pontok között mérhető eredő ellenállással?
 
-![figure](../../raw_html/komal_figures/komal-P5414-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5414-fig1.gif)

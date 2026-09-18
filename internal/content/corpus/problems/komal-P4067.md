@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-You may put your finger 1-2 mm close to the side of the flames of a burning candle. Why? 
+You may put your finger 1-2 mm close to the side of the flames of a burning candle. Why?
  (4 pont)

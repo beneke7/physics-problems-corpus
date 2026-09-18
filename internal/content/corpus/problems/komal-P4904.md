@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The initial voltage across the capacitor of capacitance $C$, connected as shown in the figure is $2U_0$, whilst the capacitor of capacitance $2C$ is neutral. 
+The initial voltage across the capacitor of capacitance $C$, connected as shown in the figure is $2U_0$, whilst the capacitor of capacitance $2C$ is neutral.
 
- How much heat is dissipated at the resistor of resistance $R$ after closing the switch? 
+ How much heat is dissipated at the resistor of resistance $R$ after closing the switch?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4904-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4904-fig1.gif)

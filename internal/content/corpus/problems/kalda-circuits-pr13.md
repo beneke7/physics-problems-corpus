@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the resistance between the output leads of the circuit using the method of loop currents.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr13-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr13-fig1.jpg)

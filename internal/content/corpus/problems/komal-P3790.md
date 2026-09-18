@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: pending
 ---
 
-An idealized model of a light source radiates uniformly between wavelengths of 400 nm and 800 nm with a power of 100 W. Estimate how many photons a second are emitted from it. 
+An idealized model of a light source radiates uniformly between wavelengths of 400 nm and 800 nm with a power of 100 W. Estimate how many photons a second are emitted from it.
 
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, extremization]
 ---
 
-How long would a day on the Earth be if we would ``fall off'' from the equator of the Earth, due to the rotation of the Earth, provided that the shape of the Earth was not changed? 
+How long would a day on the Earth be if we would ``fall off'' from the equator of the Earth, due to the rotation of the Earth, provided that the shape of the Earth was not changed?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-The amount of water vapour in the air of the wind reaching a mountain is 12 g/m$^{3}$, the temperature of air is 20 $^\circ$C. Along the slope of the hill the ascending air cools down, and half of its water vapour content precipitates as rain. Estimate the temperature of the air descending on the other side of the mountain. 
+The amount of water vapour in the air of the wind reaching a mountain is 12 g/m$^{3}$, the temperature of air is 20 $^\circ$C. Along the slope of the hill the ascending air cools down, and half of its water vapour content precipitates as rain. Estimate the temperature of the air descending on the other side of the mountain.
  (5 pont)

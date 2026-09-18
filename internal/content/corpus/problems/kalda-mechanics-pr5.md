@@ -19,4 +19,4 @@ verification_status: pending
 
 A block rests on an inclined surface with slope angle $\alpha$. The surface moves with a horizontal acceleration $a$ which lies in the same vertical plane as a normal vector to the surface. Determine the values of the coefficient of friction $\mu$ that allow the block to remain still.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr5-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr5-fig1.jpg)

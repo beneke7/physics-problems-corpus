@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the maximal power which can be dissipated on a load connected to the leads of the circuit.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr30-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr30-fig1.jpg)

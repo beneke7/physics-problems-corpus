@@ -44,7 +44,6 @@ giving the same conclusion.
   • The fundamental equations of magnetostatics are
 
                                         ∇ × B = µ0 J,    ∇ · B = 0.
-31 2. Electromagnetism
 
 
  • Since the divergence of a curl is zero, we must have ∇ · J = 0. This is simply a consequence of
@@ -100,7 +99,6 @@ of T ; we can then generalize to, e.g. spherical coordinates by a change of coor
   n
 R is to use the curl-of-curl identity in reverse, then plug in the known expressions for divergence,
 gradient, and curl. This route doesn’t require any tensor operations.
-32 2. Electromagnetism
 
 
 We now use our mathematical tools to derive the Biot–Savart law.
@@ -115,7 +113,7 @@ We now use our mathematical tools to derive the Biot–Savart law.
     the vectors should be.
  • To check whether the Coulomb gauge condition is satisfied, note that
                              J(x′ )
-                Z                    Z                               Z
+                Z                      Z                               Z
                       ′                     ′     ′          1                              1
       ∇ · A(x) ∝ dx ∇ ·            ′
                                       =  dx   J(x   ) · ∇       ′
@@ -128,7 +126,7 @@ We now use our mathematical tools to derive the Biot–Savart law.
     and a term proportional to ∇ · J = 0, giving ∇ · A = 0 as desired.
  • Taking the curl and using the product rule,
                            J(x′ )                                                      ′          ′
-                                                           
+
                                                                                   ′ J(x ) × (x − x )
               Z                         Z                                    Z
            µ0       ′                µ0      ′       1              ′     µ0
@@ -167,7 +165,6 @@ Next, we investigate magnetic dipoles and multipoles.
                              A(r) =           , m = IS, S =         dS.
                                     4π r3                         S
     Here, S is the vector area, and m is the magnetic dipole moment.
-33 2. Electromagnetism
 
 
   • Taking the curl straightforwardly gives the magnetic field,

@@ -20,7 +20,7 @@ verification_status: pending
 
 **1. Négy töltés (7 pont)** — *Päivo Simson, Jaan Kalda.*
 
-![A négy töltés kezdeti elrendezése](../../sources/nbpho/figures/nbpho-2024-four-charges-fig1.png)
+![A négy töltés kezdeti elrendezése](../../figures/nbpho/figures/nbpho-2024-four-charges-fig1.png)
 
 Négy azonos részecske kezdetben egy négyzet sarkain helyezkedik el, az alábbi ábra szerint. Az összes részecskének ugyanaz a töltése ($q$), tömege ($m$) és az inicális sebesség nagysága ($v_{0}$) egyenlő. Az inicális sebességek irányát az ábra mutatja. Feltételezhetjük, hogy $v \ll c$ és elhanyagoljuk a gravitációt.
 

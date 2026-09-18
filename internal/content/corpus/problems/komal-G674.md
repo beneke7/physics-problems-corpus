@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-Between Budapest and Veresegyház there are two types of trains: passenger trains and fast passenger trains. Determine the average speeds of both types of trains using a railway timetable available on the internet (for example elvira.mav-start.hu ). How will the average speeds of the trains change if the train has to wait ten minutes for another train coming from the opposite direction? 
+Between Budapest and Veresegyház there are two types of trains: passenger trains and fast passenger trains. Determine the average speeds of both types of trains using a railway timetable available on the internet (for example elvira.mav-start.hu ). How will the average speeds of the trains change if the train has to wait ten minutes for another train coming from the opposite direction?
  (3 pont)

@@ -53,7 +53,8 @@ although it can be done with the bottle upright.
 
 Note for future use: Values should be retaken using the actual experimental setup. They
 are sensitive to the bottles and magnets used.
-B2: It may look as though there are a lot of points for nothing much here, but the credit is
+
+B2: It may look as though there are a lot of points for nothing much here, but the credit is
 for the experimental skill that goes into taking high quality data. It is possible to be quite
 precise if one is careful and this will be rewarded here as well as the calculation details..
 
@@ -81,7 +82,8 @@ For a diagram of a useful setup, 0.2. For example:
                                   measurements are expected. If a turn-by-turn method, then
                                   distance measurements should be taken for at least three
                                   numbers of turns.
-C2: Table of measurements:
+
+C2: Table of measurements:
 turns           length of lightz (has offset) M          R              z (corrected) log z          log R
         32.50        20.00           26.00        1.00       #DIV/0!          38.00           1.58     #DIV/0!
         31.50        19.00           25.20        0.95        1748.00         37.20           1.57          3.24
@@ -121,7 +123,8 @@ turns           length of lightz (has offset) M          R              z (corre
 
  1.0 points for the raw measurements of number of turns and M.
 0.5 points for correct conversion to R.
-Graph: 1.0 points for a graph allowing the calculation of the exponent.
+
+Graph: 1.0 points for a graph allowing the calculation of the exponent.
 
                                           log R vs log z
 3.5
@@ -161,7 +164,8 @@ Note: if students do not account for the distance between the surface of the sta
 surface of the fluid, the log-log graph will not have a proper linear region as it does not
 follow a reasonable power law. In this case there will be no credit for the conversion, the fit
 or the answer.
-D1: Surface tension 𝜎 ≅ 2.3 × 10A1 N m-1. 0.5 if within 10%, 0.3 within 20%, else 0.
+
+D1: Surface tension 𝜎 ≅ 2.3 × 10A1 N m-1. 0.5 if within 10%, 0.3 within 20%, else 0.
 
 D2: Table of sample measurements:
  Spikes       Turns       z
@@ -190,7 +194,8 @@ Note: this requires time and care to get the points of appearance and disappeara
 Missing values, or inaccurate jumps in spike number are indicative of sloppy work. Failing to
 use the calibrated screw thread (and instead using a ruler) renders the results significantly less
 accurate.
-D3:
+
+D3:
 
 
 
@@ -202,7 +207,8 @@ Although the data are quantised they should still follow a reasonable curve. The
 shown above are blue for moving closer to the fluid, and red for moving away. The dashed
 curve is a likely result of a student joining points on the downward run – there is a waist in
 the data. The solid red curve is a typical averaging curve as seen at the APhO.
-D4:
+
+D4:
 
 
 

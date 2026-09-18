@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, smart-coordinates]
 ---
 
-The wedge shown in the figure can slide without friction on a horizontal tabletop. The mass of the wedge is M and its angle of elevation is =30$^\circ$. A body of mass  m slides down without friction along the wedge, the path of the body makes an angle of =60$^\circ$ with the ground. Find the ratio of the masses, m / M . 
+The wedge shown in the figure can slide without friction on a horizontal tabletop. The mass of the wedge is M and its angle of elevation is =30$^\circ$. A body of mass  m slides down without friction along the wedge, the path of the body makes an angle of =60$^\circ$ with the ground. Find the ratio of the masses, m / M .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4277-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4277-fig1.gif)

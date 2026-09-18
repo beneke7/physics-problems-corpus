@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-Which bullet, used in target shooting, is deflected more by the fictitious force due to the rotation of the Earth (called Coriolis force) a faster or a slower one? 
+Which bullet, used in target shooting, is deflected more by the fictitious force due to the rotation of the Earth (called Coriolis force) a faster or a slower one?
  (4 pont)

@@ -53,7 +53,9 @@ A. Cluster of Galaxies
 
 
                                            Page 1 of 14
-  Solutions/                                                                       T1
+
+
+  Solutions/                                                                       T1
 Marking Scheme
 
 
@@ -99,7 +101,9 @@ Marking Scheme
 
 
                                                Page 2 of 14
-  Solutions/                                                                                    T1
+
+
+  Solutions/                                                                                    T1
 Marking Scheme
 
 
@@ -173,7 +177,9 @@ Marking Scheme
 
 
                                                 Page 3 of 14
-  Solutions/                                                                                      T1
+
+
+  Solutions/                                                                                      T1
 Marking Scheme
 
 
@@ -225,7 +231,9 @@ Marking Scheme
 
 
                                                Page 4 of 14
-  Solutions/                                                                                                                            T1
+
+
+  Solutions/                                                                                                                            T1
 Marking Scheme
 
 
@@ -274,7 +282,9 @@ Marking Scheme
 
 
                                                               Page 5 of 14
-  Solutions/                                                          T1
+
+
+  Solutions/                                                          T1
 Marking Scheme
 
 
@@ -306,7 +316,9 @@ Marking Scheme
 
 
                                       Page 6 of 14
-  Solutions/                                                             T1
+
+
+  Solutions/                                                             T1
 Marking Scheme
 
 
@@ -338,7 +350,9 @@ Marking Scheme
 
 
                                       Page 7 of 14
-   Solutions/                                                                       T1
+
+
+   Solutions/                                                                       T1
  Marking Scheme
 
 
@@ -377,7 +391,9 @@ B. Dark Matter in a Galaxy
 
 
                                                Page 8 of 14
-  Solutions/                                                                  T1
+
+
+  Solutions/                                                                  T1
 Marking Scheme
 
 
@@ -417,7 +433,9 @@ Marking Scheme
 
 
                                             Page 9 of 14
-  Solutions/                                                                             T1
+
+
+  Solutions/                                                                             T1
 Marking Scheme
 
 
@@ -472,7 +490,9 @@ Marking Scheme
 
 
                                              Page 10 of 14
-  Solutions/                                                           T1
+
+
+  Solutions/                                                           T1
 Marking Scheme
 
 
@@ -531,7 +551,9 @@ Marking Scheme
 
 
                                              Page 11 of 14
-   Solutions/                                                                   T1
+
+
+   Solutions/                                                                   T1
  Marking Scheme
 
 
@@ -571,7 +593,9 @@ C. Interstellar Gas and Dark Matter
 
 
                                             Page 12 of 14
-  Solutions/                                                                   T1
+
+
+  Solutions/                                                                   T1
 Marking Scheme
 
 
@@ -619,7 +643,9 @@ Marking Scheme
 
 
                                          Page 13 of 14
-  Solutions/                                                                       T1
+
+
+  Solutions/                                                                       T1
 Marking Scheme
 
 

@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the natural frequencies of the circuit shown in the figure.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr89-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr89-fig1.jpg)

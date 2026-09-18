@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-Which is greater: the energy of one photon emitted by a filament lamp made of Tungsten and filled with Krypton, or the average kinetic energy of an atom of the Krypton gas in the lamp, when the lamp is operated? 
+Which is greater: the energy of one photon emitted by a filament lamp made of Tungsten and filled with Krypton, or the average kinetic energy of an atom of the Krypton gas in the lamp, when the lamp is operated?
  (4 pont)

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [exploit-symmetry, extremization, stability-analysis]
 ---
 
-A pair of dominoes are placed to a third domino as it is shown in the left figure. 
+A pair of dominoes are placed to a third domino as it is shown in the left figure.
 
- $a)$ Determine the possible values of $x$ such that the dominoes are in stable equilibrium. 
- $b)$ Then several more domino pairs are placed to the dominoes as shown in the right figure. At most how many dominoes can be placed on the domino at the bottom in order that the system remain in equilibrium? 
+ $a)$ Determine the possible values of $x$ such that the dominoes are in stable equilibrium.
+ $b)$ Then several more domino pairs are placed to the dominoes as shown in the right figure. At most how many dominoes can be placed on the domino at the bottom in order that the system remain in equilibrium?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5338-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5338-fig1.gif)

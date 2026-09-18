@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201412"
 verification_status: pending
 ---
 
-A thermally insulated container is divided into two parts by a wall of negligible volume. The volume of the two parts are 2 dm${}^3$ and 3 dm${}^3$. In the 2 dm${}^3$ part there is a sample of Helium gas at a temperature of 300 K and at a pressure of $2\cdot10^5$ Pa, and in the other part there is a sample of Oxygen gas at a temperature of 200 K and at a pressure of $10^5$ Pa. What will the temperature and the pressure of the mixture of gases if the wall is eliminated? 
+A thermally insulated container is divided into two parts by a wall of negligible volume. The volume of the two parts are 2 dm${}^3$ and 3 dm${}^3$. In the 2 dm${}^3$ part there is a sample of Helium gas at a temperature of 300 K and at a pressure of $2\cdot10^5$ Pa, and in the other part there is a sample of Oxygen gas at a temperature of 200 K and at a pressure of $10^5$ Pa. What will the temperature and the pressure of the mixture of gases if the wall is eliminated?
  (4 pont)

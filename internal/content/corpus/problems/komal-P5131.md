@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, stability-analysis]
 ---
 
-Three objects have the same, constant thermal heat capacities. Two of them have a temperature of 300 K, whilst the third one has a temperature of 100 K. Is it possible to heat one of them to a temperature of 400 K only by operating heat engines or heat pumps between the objects, so without adding external heat or performing external work? 
+Three objects have the same, constant thermal heat capacities. Two of them have a temperature of 300 K, whilst the third one has a temperature of 100 K. Is it possible to heat one of them to a temperature of 400 K only by operating heat engines or heat pumps between the objects, so without adding external heat or performing external work?
  (6 pont)

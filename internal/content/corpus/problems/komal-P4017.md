@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, scaling-and-dimensional-analysis]
 ---
 
-A tube of external diameter 2 R and of unknown width is hanged by two threads of length as shown in the figure. If the tube undergoes torsion oscillatory motion, the period T of the motion can be measured. Find the width of the wall of the tube. 
+A tube of external diameter 2 R and of unknown width is hanged by two threads of length as shown in the figure. If the tube undergoes torsion oscillatory motion, the period T of the motion can be measured. Find the width of the wall of the tube.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4017-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4017-fig1.gif)

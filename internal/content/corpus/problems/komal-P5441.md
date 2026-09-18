@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, model-reduction]
 ---
 
-We have formed a circle from a piece of metal wire, and from the same wire we would like to to make one of the chords between the two points of the circle. Where should the chord be in order that the equivalent resistance between the two end points of the chord is maximum, and what is the value of this largest equivalent resistance? Let $R$ be the resistance of a wire which has a length equal to the radius of the circle. 
+We have formed a circle from a piece of metal wire, and from the same wire we would like to to make one of the chords between the two points of the circle. Where should the chord be in order that the equivalent resistance between the two end points of the chord is maximum, and what is the value of this largest equivalent resistance? Let $R$ be the resistance of a wire which has a length equal to the radius of the circle.
  (4 pont)

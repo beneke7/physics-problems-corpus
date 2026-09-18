@@ -15,7 +15,7 @@ Solution of the theoretical problem 1
 
 Back-and-Forth Rolling of a Liquid-Filled Sphere
 
-1.1 Let         and      denote the rotational inertia of the spherical shell and W in
+1. 1  Let         and      denote the rotational inertia of the spherical shell and W in
 
 solid state respectively, while I be the sum of and        . The surface mass density of
 
@@ -32,7 +32,7 @@ therefore integral over the whole spherical shell gives
                                                                              (1A.1)
 
                                                                             dα r
-                                                                               α
+                                                                                α
                                                                             C
 
 
@@ -46,11 +46,12 @@ zone it can be seen that the rotational inertia of the solid W about the C axis 
 
 Then,                                                                          (1A.3)
 
-2According to the Newton’s second law we can derive the translational motion
+ 2 According to the Newton’s second law we can derive the translational motion
 equation of the center of mass for the sphere along the tangent of the bowl,
 
                                                                                (1A.4)
-                                                                  D
+
+                                                                  D
 
 
                                                                       θ
@@ -83,7 +84,7 @@ Equations (1A.4)-(1A.6) lead to
 This is a motion equation of the type of simple harmonic oscillator. Therefore, we
 obtain the angular frequency and period of the sphere rolling right and left:
 
-                                                                                     (1A.7)
+                                                                                      (1A.7)
 
 
                                          .                                            (1A.8)
@@ -95,7 +96,8 @@ into consideration. Therefore Eqs. (1A.4) and (1A.6) are still applicable, while
                                                                                         (1A.9)
 
 Equations (1A.4), (1A.6), and (1A.9) result in
-Then, the angular frequency and period of the sphere rolling back-and-forth are
+
+Then, the angular frequency and period of the sphere rolling back-and-forth are
 obtained respectively.
 
                                                                                 (1A.10)
@@ -137,7 +139,8 @@ When W changes suddenly into solid state, due to the fact that both gravitationa
  O is conserved, we have
 
                                                                                (1A.16)
-where      and      represent the angular velocity of the sphere immediately before
+
+where      and      represent the angular velocity of the sphere immediately before
 and after passing through point O. Therefore
 
                                                                           (1A.17)

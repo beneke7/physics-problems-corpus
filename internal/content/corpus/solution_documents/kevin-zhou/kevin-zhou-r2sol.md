@@ -49,18 +49,20 @@ total energy E and momentum p, show that the center of mass has velocity v = p/E
 dK = v · dp. Show that this also holds in relativity, assuming the rest mass m is fixed.
 (g) As we’ll discuss in more detail below, the force three-vector is defined as F = dp/dt in
 relativistic mechanics. Show that dK = F · dx, continuing to assume that m is fixed.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) We saw in R1 that uµ = (γc,γv). Multiplying by m gives the desired result
 muµ
 = (γmc,γmv) = (E/c,p).
 (b) In the frame S′, the particle has speed (u − v)/(1 − uv), corresponding to Lorentz factor
 γ′
 =
-
+
 1 −
 (u − v)2
 (1 − uv)2
-−1/2
+ −1/2
 = (1 − uv)γuγv.
 Thus, the boosted values of E and p are
 E′
@@ -93,7 +95,9 @@ In relativistic dynamics problems, it is almost always better to work with energ
 mentum than velocity; one typically shouldn’t even mention velocities unless the problem
 asks for or gives them.
 We’ll start with some very simple problems to warm up, setting c = 1 throughout.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Example 1: KK 13.5
 A particle of mass m and speed v collides and sticks to a stationary particle of mass M. Find
 the final speed of the composite particle.
@@ -165,7 +169,9 @@ four-momentum of the atom is (m − Eγ,Eγ), and squaring this gives
 = (m − Eγ)2
 − E2
 γ.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solving for Eγ gives
 Eγ = ∆ −
 ∆2
@@ -173,7 +179,7 @@ Eγ = ∆ −
 .
 It’s a bit lower than the obvious answer, because of the kinetic energy of the recoiling atom. For
 nuclei decaying and emitting gamma rays, this difference can be measured with nuclear spectroscopy.
-[2] Problem 4.  W 1 0USAPhO 2012, problem A1.
+[2] Problem 4.   W 1 0USAPhO 2012, problem A1.
 [2] Problem 5. A particle with mass M and energy E moves towards a detector when it suddenly
 decays and emits a photon in its direction of motion. The detector measures a photon angular
 frequency of ω. What was the photon’s angular frequency in the rest frame of the decaying particle?
@@ -209,7 +215,7 @@ E −
 E2 − M2
 M
 ω.
-[3] Problem 6.  W 1 0USAPhO 2002, problem A2.
+[3] Problem 6.   W 1 0USAPhO 2002, problem A2.
 Now let’s try some more involved problems.
 Example 3: Woodhouse 7.5
 A particle of rest mass m moves with velocity u and collides elastically with a second particle,
@@ -232,7 +238,9 @@ by converting it to mass-energy, in collisions which change the identity of the 
 produce new particles. Therefore, at particle colliders, we say a collision is elastic if the
 particles that come out are precisely the same as the ones that came in. For this example,
 that means the final particles still have rest mass m.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Conservation of energy and momentum imply
 1 + γu = γv + γw, γuu = γvv + γww.
 To get an expression with cosθ, we take the norm squared of the momentum equation,
@@ -309,7 +317,9 @@ formulas and some tedious algebra reveals that
 x =
 2mM2 + E(m2 + M2)
 2Em + m2 + M2
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 as desired.
 [3] Problem 8 (Morin 12.7). In Compton scattering, a photon collides with a stationary electron.
 (a) If the photon scatters at an angle θ, show that the resulting wavelength λ′ is given in terms
@@ -336,13 +346,13 @@ sin2
 Em
 m + E(1 − cosθ)
 = c2
-
+
 c2
 /E +
 1
 m
 (1 − cosθ)
-−1
+ −1
 .
 Now, λ = hc/x = λ + λC(1 − cosθ) where λC = h/mc.
 (b) The wavelength shift is independent of frequency, and since c = fλ the frequency shift (which
@@ -353,9 +363,11 @@ not change the frequency of the photon at all. At the level of relativistic dyna
 scattering is nothing more than the low-frequency limit of Compton scattering. Incidentally,
 at even higher frequencies, the result has more subtle corrections due to quantum field theory
 effects, and the cross section is given by the Klein–Nishina formula.
-[3] Problem 9.  W 1 0USAPhO 2017, problem A4. However, to make it a little harder, solve part (a)
+[3] Problem 9.   W 1 0USAPhO 2017, problem A4. However, to make it a little harder, solve part (a)
 without assuming Eb is small.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 2 Optimal Collisions
 These collision problems are conceptually simple, but somewhat more mathematically challenging.
 Idea 3
@@ -374,10 +386,10 @@ The total four-momentum is (E +mp,E) where E is the energy of the γ ray in the 
 This four-momentum has norm 2Emp + m2
 p. Crucially, the norms of four-momenta don’t
 change upon changing frames, so the total four-momentum in the center of mass frame is
-q
+ q
 2Emp + m2
 p ,0
-
+
 because the total spatial momentum vanishes by definition. On the other hand, we also know
 that the reaction can just barely happen when both the proton and pion are produced at rest
 in the center of mass frame, with a final four-momentum of (mp + mπ,0). Hence we have
@@ -394,7 +406,9 @@ The naive answer is to say the energy present must exceed the rest energy,
 ℏω1 + ℏω2 ≥ 2me.
 However, this is incorrect because the electron and positron will inevitably have kinetic
 energy, since the photons initially have a net momentum. The lowest total kinetic energy
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 is achieved when the electron and positron come out with the same velocity, which is the
 velocity of the center of mass frame of the photons.
 The total four-momentum of the photons is
@@ -438,7 +452,9 @@ Squaring both sides and eliminating p using (E + m)2 = p2 + m2 gives
 , E = 6m.
 With this result in mind, the Bevatron at Berkeley was designed to accelerate protons to a
 kinetic energy of 6.6m. It discovered the antiproton in 1955, and won the 1959 Nobel prize.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Now we have 2N + 2 particles of mass m at the end, which have pi = p/(2N + 2). Now we
 instead have
 pµ
@@ -466,28 +482,30 @@ the angle at vertex A of the above triangle. This occurs when when A is on the p
 bisector of d. Doing some basic geometry, we find that in this case, the angle between the velocities
 is
 θ = π − 2sin−1
-
+
 p1 − p2
 p1 + p2
-
+
 = 2cos−1
-
+
 p1 − p2
 p1 + p2
-
+
 .
 An alternative equivalent answer is
 θ = cos−1
-
+
 1 −
 8p1p2
 (p1 + p2)2
-
+
 which also works when p1 < p2.
-[3] Problem 12.  h 1 0IPhO 2003, problem 3A.
-[4] Problem 13.  r 1 0APhO 2007, problem 3B. A comprehensive relativistic dynamics problem.
+[3] Problem 12.   h 1 0IPhO 2003, problem 3A.
+[4] Problem 13.   r 1 0APhO 2007, problem 3B. A comprehensive relativistic dynamics problem.
 3 Relativistic Systems
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 4
 The truly nonintuitive part of the result E = mc2 is that changes in internal energy cause
 changes in mass. As a simple example, if you take a box of gas and heat it up, it’ll have
@@ -529,7 +547,9 @@ seems reasonable, gives E = Mc2.
 (c) Initially, the mass M has momentum downwards of Mv, and after the photons are emitted,
 the mass m has momentum mv which is made up for by the photons of different momenta
 due to Doppler shifting. Since energy and momenta are proportional to frequency, which is
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 proportional to 1 ± v/c, the difference in the momenta of the photons is pγ(2v/c) so we get
 M = m+2pγ/c. For energy, we have 1
 2Mv2 +∆E = 1
@@ -570,7 +590,9 @@ A spaceship of mass m is propelled by light produced by lasers on Earth, with to
 P. The light evenly impacts a sail on the spaceship, and reflects directly backwards. If the
 spaceship starts near Earth at rest, how long will it take, in the Earth’s frame, to accelerate
 the spaceship to a speed vf?
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The spaceship is accelerated by the light, because light carries momentum. Consider a piece of
 the beam with total momentum dpx in the Earth’s frame, which impacts the spaceship when
@@ -582,7 +604,7 @@ back to the Earth’s frame gives a final momentum −γ2(1 − v)2 dpx. Thus, t
 spaceship’s momentum is
 dPx = 1 + γ2
 (1 − v)2
-
+
 dpx =
 2
 1 + v
@@ -630,7 +652,9 @@ the displacement of the cube after a long time, for three cases:
 (a) The left and right faces of the cube are perfectly black, and emit negligible thermal radiation.
 (This is the easiest case, but it’s actually extremely unrealistic; can you see why?)
 (b) The left and right faces of the cube are perfectly black. In addition, they are kept in thermal
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 equilibrium with each other, and emit thermal radiation so that the mass-energy of the cube
 stays constant in the cube’s frame.
 (c) The cube is perfectly reflective.
@@ -692,7 +716,9 @@ dE′
 dt
 = −2IL2
 v
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 where we neglected time dilation since it’s second order in v. This is as we found in part (a).
 Now let’s add on the radiation emission. In the cube frame, an equal intensity I is emitted
 from both sides, so that
@@ -758,7 +784,9 @@ where x is defined as above. (Hint: to avoid nasty differential equations, relat
 (d) Show that in the limit v/c → 0, the result of part (a) also reduces to the nonrelativistic
 rocket equation with exhaust speed c. Why does this work, given that photons are the most
 relativistic possible things?
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) We see that the four momentum goes from (M0,0) to (γMf,γMfv). Since the
 difference is given by photons, we must have
 −γMfv = γMf − M0 =⇒ γMf(1 + v) = M0 =⇒
@@ -842,7 +870,9 @@ log
 1 − v
 .
 Solving for v gives the result.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 (c) We can use the approximation
 x2u/c
 = e(2u/c)logx
@@ -882,11 +912,11 @@ Mf
 M0
 Mf
 = clog
-
+
 1 +
 M0 − Mf
 Mf
-
+
 ≈
 M0 − Mf
 Mf
@@ -912,7 +942,9 @@ dynamical explanation of exactly how photons contribute to the inertia of an obj
 (c) Unfortunately, it is not true that half the photons are moving right at any given time. Show
 that the fraction of photons moving to the right is modified by an amount of order v/c, and
 find the total momentum accounting for this effect.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (d) [A] The analysis of part (b) is nice and neat, and you can sometimes find it in textbooks. But
 part (c) shows that this simple analysis is wrong! What’s going on? (This requires considering
 the stress-energy tensor, which is beyond the scope of Olympiad physics.)
@@ -980,16 +1012,18 @@ is not a four-vector. That’s why the total momentum of the photons, in a frame
 moving, is not what we expect. However, the total momentum of the photons and box together is
 exactly what we expect, i.e. it is precisely Mtotv in the nonrelativistic limit. The rest of the solution
 will show this explicitly.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 To do this properly, we must introduce the stress-energy tensor Tµν, which is analogous to pµ
 in the same way that Jµ is analogous to Q. Concretely, in a one-dimensional universe with only x
 and t directions, it is
 Tµν
 =
-
+
 u S
 S σ
-
+
 where the components have the following meanings.
 • T00 = u is the energy density.
 • T01 = S is the momentum density, i.e. what we must integrate over space to get momentum.
@@ -1000,34 +1034,34 @@ v would have T10 = mv. It turns out that in general T10 = T01.
 Physically, a flow of momentum is equivalent to a pressure.
 Upon a Lorentz transformation, the stress energy tensor transforms differently from a four-vector.
 For a four-vector we would have
-
+
 x′
 t′
-
+
 = γ
-
+
 1 −v
 −v 1
-
+
 x
 t
-
+
 but for the stress-energy tensor we have
-
+
 u′ S′
 S′ σ′
-
+
 = γ2
-
+
 1 −v
 −v 1
-
+
 u S
 S σ
-
+
 1 −v
 −v 1
-
+
 .
 Expanding to first order in v, we have
 S′
@@ -1054,7 +1088,9 @@ the unwanted Lσv contribution in the photons. Hence the total momentum is indee
 ptot = Mv + Nℏω0v
 as it must be. For a similar setup, see this paper, which considers a capacitor containing an
 electromagnetic field, modeled classically instead of in terms of photons.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 In Newtonian mechanics, we know that for an isolated system, ptot = MtotvCM. In relativity,
 however, the idea of a “center of mass” no longer makes any sense. For example, suppose
@@ -1103,7 +1139,9 @@ d
 dτ
 (p · p) = 2mu · f
 this corresponds to demanding f · u = 0. For a pure force, fµ = maµ.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 There’s another common definition of force, with three-vectors. Since three-accelerations
 transform in a rather complicated way, as we saw in R1, we define the three-force as
 F =
@@ -1133,12 +1171,12 @@ forces, or the tension force from a string.
 (c) Show that the components of the four-force are
 fµ
 =
-
+
 γ
 dE
 dt
 ,γF
-
+
 .
 Use the relativistic transformation of the four-force to rederive the result of part (b).
 (d) The four-impulse is defined as
@@ -1160,7 +1198,9 @@ dt
 dγ
 dt
 .
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, the y and z components in the desired expression are correct, while the x component
 (i.e. the part parallel to v itself) has an extra contribution due to the second term. We have
 dγ
@@ -1212,26 +1252,26 @@ dτ
 dpµ
 dt
 =
-
+
 γ
 dE
 dt
 ,γ
 dp
 dt
-
+
 =
-
+
 γ
 dE
 dt
 ,γF
-
+
 .
 In the primed frame of part (b), the components are
 fµ′
 = 0,F′
-
+
 .
 Applying a Lorentz transformation to the original frame, we have
 fx
@@ -1268,7 +1308,9 @@ the idea of relativistic mass, mr = γm. This definition implies the simple resu
 and p = mrv, so these books often say that relativistic dynamics is just like ordinary
 dynamics, except that moving objects have more mass. This picture is misleading because it
 breaks down once you go beyond one dimension: in problem 18, you showed that F is not
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 even parallel to a, so there’s no definition of mass that recovers Newtonian mechanics. You
 instead need separate “transverse” and “longitudinal” relativistic masses,
 F = m⊥a⊥ + m∥a∥, m⊥ = γm, m∥ = γ3
@@ -1315,7 +1357,9 @@ and time dilation could be derived dynamically in some simple cases, without the
 switch frames. Therefore, they can’t be “real”.
 This argument doesn’t make sense. It’s like saying energy can’t be real because you can solve
 many mechanics problems with just F = ma, without needing to invoke energy conservation.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 In reality they’re both wonderful tools with complementary uses.
 Furthermore, it turns out to be extremely difficult to derive the core results of relativistic
 dynamics (such as the “transverse” and “longitudinal” masses, already measured by the
@@ -1359,7 +1403,9 @@ u = γ(1 + udv). Thus, the change in momentum due to the extra dv is
 )) − γmu = γmdv,
 which is surprisingly what one would naively expect. Thus, the total change in momentum of the
 system is simply dp = 2γmdv, so dp/dt = M dv/dt, as desired.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 6
 The Lorentz force is a three-force as defined in problem 18. That is, we have
 F = q(E + v × B) =
@@ -1398,7 +1444,9 @@ F =
 dp
 dt
 = ωp
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 where ω is the angular velocity. The speed of the protons is very close to c, so the angular
 velocity is ω ≈ c/R, and the momentum is p ≈ E/c. The deflecting force is qvB ≈ qcB, so
 qcB ≈ ωp ≈
@@ -1449,10 +1497,12 @@ f · u = quµuνFµν
 = −f · u
 using the antisymmetric property, so f · u = 0. (In fact, the requirement to keep the rest
 mass fixed is quite restrictive, so this is one of the simplest possible relativistic force laws.)
-[2] Problem 20.  W 1 0USAPhO 2013, problem A3. A warmup question using the above facts.
+[2] Problem 20.   W 1 0USAPhO 2013, problem A3. A warmup question using the above facts.
 [3] Problem 21 (MPPP 192). An electron moving with speed v0 = 0.6c enters a homogeneous electric
 field that is perpendicular to its velocity.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 When the electron leaves the field, its velocity makes an angle 45◦ with its initial direction.
 (a) Find the speed v1 of the electron after it has crossed the electric field.
 (b) Find the distance d shown above, if the strength of the electric field is E = 510kV/m.
@@ -1517,7 +1567,9 @@ moving quickly, it is impossible to see the tracks being formed; instead, one mu
 happened from the shapes of the tracks. Is it possible that, when a charged particle decays into
 two other charged particles, the trail segments close to the decay point (before the particles have
 started to slow down significantly) are arcs of circles that touch each other, as shown?
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 If so, identify which track belongs to the original particle. If not, explain why not.
 Solution. Number the three tracks as 1, 2, and 3 starting from the inside, and let their radii be
 r1 < r2 < r3. We know that even for relativistic motion, the momentum of a particle is p = qBr.
@@ -1555,9 +1607,11 @@ r1 =
 q2r2 + (−q3)r3
 q2 + (−q3)
 which is again a contradiction. Thus, the series of tracks shown is impossible.
-27Kevin Zhou Physics Olympiad Handouts
-[3] Problem 23.  W 1 0USAPhO 2006, problem A4.
-[3] Problem 24.  ^ 1 0USAPhO 2022, problem B2. A nice problem on deriving the time dilation
+27
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 23.   W 1 0USAPhO 2006, problem A4.
+[3] Problem 24.   ^ 1 0USAPhO 2022, problem B2. A nice problem on deriving the time dilation
 formula for an electrostatic “clock”.
 [3] Problem 25. Consider a particle at the origin at time t = 0, with initial x-momentum p0 and
 total energy E0. A constant three-force F acts on the particle in the −y direction.
@@ -1623,7 +1677,9 @@ F
 sinh−1 Ft
 E0
 .
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 (c) To get y(x), we invert the above to get t(x) and plug it into our expression for y(t). We have
 Ft
 E0
@@ -1647,10 +1703,10 @@ y(x) ≈ −
 2
 E0
 F
-
+
 Fx
 p0c
-2
+ 2
 ≈ −
 1
 2
@@ -1666,7 +1722,7 @@ mv2
 0
 x2
 which is indeed the usual parabola.
-[5] Problem 26.  h 1 0IPhO 1994, problem 1. A clean and neat relativistic dynamics problem. Print
+[5] Problem 26.   h 1 0IPhO 1994, problem 1. A clean and neat relativistic dynamics problem. Print
 out the custom answer sheets before starting.
 Remark
 Problem 26 is a nice model for mesons, particles composed of two quarks. It is a simple
@@ -1684,7 +1740,9 @@ resulting blob?
 (b) Consider this scenario from the point of view of a frame moving to the left at speed v.
 The energy of the resulting blob must be γMc2. Show that you obtain the same result by
 computing the work done on the two masses.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The total work done on the masses is ℓT, so by energy conservation this must
 manifest as rest energy in the final blob, M = 2m + ℓT/c2.
 (b) Let c = 1. The initial energy is 2γm, so we need to show that the work done is γℓT.
@@ -1725,7 +1783,9 @@ If your answer is “no,” exactly what’s wrong about the reasoning above?
 Solution. The reasoning is incorrect. To see this, we can consider working in the initial rest frame
 of the system. In this frame, the masses just approach each other and collide, ending up at rest. So
 in the original frame, the whole apparatus must keep going at the same speed as before.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 There are two ways to see what’s going on. First, consider just the top mass, and work throughout
 in the original frame. Then the incorrect statement is the very first sentence: the three-force on the
 top mass is not always in the y direction. Recall the relativistic transformation of the three-force
@@ -1764,7 +1824,9 @@ The resolution is that, in the frame shown at right, the angular momentum of the
 constantly increasing. The horizontal forces are continually doing equal and opposite work
 on the lever, resulting in a upward flow of energy of rate Fv in the vertical arm. As explained
 below problem 1, in relativity, energy flow is equal to momentum density, so the total upward
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 momentum in the vertical arm is FLv. Therefore,
 dL
 dt
@@ -1833,7 +1895,9 @@ F(k)
 y − y(k)
 F(k)
 x
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 where the index k sums over the four forces, and the Ti0 stand for the density of momentum
 in the i direction. From this point on, the solution proceeds as above.
 There is something a bit strange here, though. In the lever’s rest frame, the angular momen-

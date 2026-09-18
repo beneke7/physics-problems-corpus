@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: flagged
 ---
 
-Why does the second hand of a clock have a ``tail''? 
+Why does the second hand of a clock have a ``tail''?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4135-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4135-fig1.gif)

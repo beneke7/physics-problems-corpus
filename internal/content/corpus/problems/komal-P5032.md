@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-At what speed will the nucleus of a ${}^{220}_{~86}\rm Rn$ atom be pushed back when it ejects an $\alpha$ particle? The mass of the radon isotope is $220.011\,394$ u and the mass of the remaining ${}^{216}_{~84}\rm Po$ polonium isotope is $216.001\,915$ u. 
+At what speed will the nucleus of a ${}^{220}_{~86}\rm Rn$ atom be pushed back when it ejects an $\alpha$ particle? The mass of the radon isotope is $220.011\,394$ u and the mass of the remaining ${}^{216}_{~84}\rm Po$ polonium isotope is $216.001\,915$ u.
  (4 pont)

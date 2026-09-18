@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4349. Autónk kerekének túlnyomását 10 $^\circ$C hőmérsékleten 250 kPa értékre állították be. Hogyan és mennyivel változik meg a túlnyomás, ha a hőmérséklet 25 $^\circ$C-ra növekszik? 
- A légnyomás 100 kPa, a gumiban levő levegő térfogata ilyen nyomáson már nem tud növekedni. 
+P. 4349. Autónk kerekének túlnyomását 10 $^\circ$C hőmérsékleten 250 kPa értékre állították be. Hogyan és mennyivel változik meg a túlnyomás, ha a hőmérséklet 25 $^\circ$C-ra növekszik?
+ A légnyomás 100 kPa, a gumiban levő levegő térfogata ilyen nyomáson már nem tud növekedni.
  Lánczos Kornél fizikaverseny, Székesfehérvár

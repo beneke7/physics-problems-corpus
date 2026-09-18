@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction, strategic-heuristics]
 ---
 
-We have four filament lamps rated at 4.5 V, and two rechargeable batteries, one rated at 12 V and the other at 3 V. Make a circuit from the given elements, such that all the filament lamps are operated at their working temperatures. 
+We have four filament lamps rated at 4.5 V, and two rechargeable batteries, one rated at 12 V and the other at 3 V. Make a circuit from the given elements, such that all the filament lamps are operated at their working temperatures.
  (4 pont)

@@ -35,5 +35,5 @@ One of the important achievements of the 19th century was the laying of undersea
     the water, be Rd . The precise value of Rd is also unknown. Your task, as was Heaviside’s, is to find
 
 
-                  01W
+                  01W
     a way to measure α without having to dig the whole cable up.

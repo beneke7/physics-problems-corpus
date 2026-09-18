@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-The relative humidity of the air in a container of constant volume of $10~\rm m^3$ is 50%. The air cools down from a temperature of $30~{}^\circ$C to $5~{}^\circ$C. How much water precipitates out? 
+The relative humidity of the air in a container of constant volume of $10~\rm m^3$ is 50%. The air cools down from a temperature of $30~{}^\circ$C to $5~{}^\circ$C. How much water precipitates out?
  (4 pont)

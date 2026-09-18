@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-An object is dropped from a tower of unknown height, and it falls freely. Air drag is negligible. 
- $a)$ Imagine we divide the height of the tower into two equal parts. Determine the ratio of the average speeds calculated for the two parts. 
- $b$) How should the height of a 45 m high tower be split into two parts in order that the average speed calculated for the second part be four times as much as that calculated for the first part? 
+An object is dropped from a tower of unknown height, and it falls freely. Air drag is negligible.
+ $a)$ Imagine we divide the height of the tower into two equal parts. Determine the ratio of the average speeds calculated for the two parts.
+ $b$) How should the height of a 45 m high tower be split into two parts in order that the average speed calculated for the second part be four times as much as that calculated for the first part?
  (4 pont)

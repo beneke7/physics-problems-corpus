@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 3891. Az ábrán látható hálózat minden ellenállása R . Határozzuk meg a hálózat csomópontjai közti eredő ellenállásokat!
 
-![figure](../../raw_html/komal_figures/komal-P3891-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3891-fig1.gif)

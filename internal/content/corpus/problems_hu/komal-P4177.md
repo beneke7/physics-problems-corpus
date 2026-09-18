@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4177. Az $m=0{,}5$ kg tömegű, $\ell=80$ cm hosszúságú homogén rudat két fonállal függesztjük fel. Mekkora lesz a rúd $A$  pontjának gyorsulása, valamint a bal oldali fonalat feszítő erő közvetlenül a jobb oldali fonál elvágása után? 
+P. 4177. Az $m=0{,}5$ kg tömegű, $\ell=80$ cm hosszúságú homogén rudat két fonállal függesztjük fel. Mekkora lesz a rúd $A$  pontjának gyorsulása, valamint a bal oldali fonalat feszítő erő közvetlenül a jobb oldali fonál elvágása után?
 
  Cornides István verseny, Révkomárom (Szlovákia)
 
-![figure](../../raw_html/komal_figures/komal-P4177-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4177-fig1.gif)

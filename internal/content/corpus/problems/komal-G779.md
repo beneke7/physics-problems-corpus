@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-Would there be tides on the Moon if its surface was covered by oceans and landmasses? 
+Would there be tides on the Moon if its surface was covered by oceans and landmasses?
  (3 pont)

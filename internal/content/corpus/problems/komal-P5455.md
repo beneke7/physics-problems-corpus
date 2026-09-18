@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, auxiliary-unknowns]
 ---
 
-A point-like object is given an initial horizontal velocity of magnitude $v_0$ and is placed to the inner surface of a frictionless funnel, 10 cm from the symmetry axis of the funnel. The symmetry axis of the funnel is vertical and the angle between the symmetry axis and the wall of the funnel is $45^\circ$. What will the greatest speed of the object be if 
- $a)$ $v_0= 0.5$ m/s; 
- $b)$ $v_0= 2.0$ m/s? 
+A point-like object is given an initial horizontal velocity of magnitude $v_0$ and is placed to the inner surface of a frictionless funnel, 10 cm from the symmetry axis of the funnel. The symmetry axis of the funnel is vertical and the angle between the symmetry axis and the wall of the funnel is $45^\circ$. What will the greatest speed of the object be if
+ $a)$ $v_0= 0.5$ m/s;
+ $b)$ $v_0= 2.0$ m/s?
  (5 pont)

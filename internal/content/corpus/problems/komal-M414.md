@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202205"
 verification_status: pending
 ---
 
-Measure the coefficient of kinetic friction between several sheets of sandpaper with different grit sizes and a wooden block. 
+Measure the coefficient of kinetic friction between several sheets of sandpaper with different grit sizes and a wooden block.
  (6 pont)

@@ -38,7 +38,7 @@ where $R$ is called the resistance of the conductor.
 
 Consider a small element of the metallic material with the length $l$ and the cross section $S$, whose ends are subject to the voltage $U$. Let $\sigma$ be the specific electrical conductivity of the substance which is the quantity inverse to the specific electrical resistivity $\rho$. The resistance of the conductor and the electric current strength flowing through it are written as
 
-![Fig. 1: metallic conductor element of length $l$ and cross-section $S$ with vectors $\mathbf{E}$ and $\mathbf{j}$](../../sources/izho/figures/izho-2011-t-q2-fig1.png)
+![Fig. 1: metallic conductor element of length $l$ and cross-section $S$ with vectors $\mathbf{E}$ and $\mathbf{j}$](../../figures/izho/figures/izho-2011-t-q2-fig1.png)
 
 $$
 R = \rho\frac{l}{S} = \frac{1}{\sigma}\frac{l}{S}, \quad I = jS, \tag{2}
@@ -62,7 +62,7 @@ $$
 
 ## The Drude model
 
-![Fig. 2: ionic lattice with ions and electrons; coordinate system $Oxy$; external field $\mathbf{E}$ along $-x$; magnetic induction $\mathbf{B}$ into the page](../../sources/izho/figures/izho-2011-t-q2-fig2.png)
+![Fig. 2: ionic lattice with ions and electrons; coordinate system $Oxy$; external field $\mathbf{E}$ along $-x$; magnetic induction $\mathbf{B}$ into the page](../../figures/izho/figures/izho-2011-t-q2-fig2.png)
 
 After the discovery of the electron in 1900 by Joseph John Thompson, German physicist Paul Drude proposed the so-called classical theory of electrical conductivity of metals. According to this theory, the electrons with the number density $n$, the mass $m$ and the electric charge $-e$ can move freely in the ionic crystal lattice of metal, occasionally colliding with ions located at the sites and thereby transferring their kinetic energy to ions.
 

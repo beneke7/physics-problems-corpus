@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy vékony acélrúddal összekötött, két rugalmas gömbből álló súlyzó a tengelyével párhuzamosan, $v$ sebességgel egy másik, pontosan ugyanilyen gömbökből álló súlyzó felé mozog. Határozzuk meg a súlyzó sebességét centrális ütközés után. Megmarad-e a rendszer mozgási energiája?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr86-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr86-fig1.jpg)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-News report (November 17, 2020): ``The Crew Dragon spacecraft has arrived at the International Space Station (ISS). After a 27-hour totally autonomous flight it docked with the station, which was floating at a height of approximately 400 kilometres above the surface of the Earth.'' Estimate the following. 
- $a)$ How many times did the spaceship go around the Earth from its launch until it docked? 
- $b)$ What was the speed of the ``floating'' space station when the spaceship docked with it? 
+News report (November 17, 2020): ``The Crew Dragon spacecraft has arrived at the International Space Station (ISS). After a 27-hour totally autonomous flight it docked with the station, which was floating at a height of approximately 400 kilometres above the surface of the Earth.'' Estimate the following.
+ $a)$ How many times did the spaceship go around the Earth from its launch until it docked?
+ $b)$ What was the speed of the ``floating'' space station when the spaceship docked with it?
  (4 pont)

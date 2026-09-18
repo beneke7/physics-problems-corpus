@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-The diameter of the rotor blade of a 1-kg model helicopter is 0.4 m. (The rotor blade rotates about a vertical axis.) Estimate the power of the motor which is able to make the helicopter float at a constant height. The density of air is 1.3 kg/m$^{3}$, the air drag exerted on the body of the helicopter is 10% of the total weight. Consider the speed of the air moved by the rotor blade constant at the whole surface which is swept by the blade. 
+The diameter of the rotor blade of a 1-kg model helicopter is 0.4 m. (The rotor blade rotates about a vertical axis.) Estimate the power of the motor which is able to make the helicopter float at a constant height. The density of air is 1.3 kg/m$^{3}$, the air drag exerted on the body of the helicopter is 10% of the total weight. Consider the speed of the air moved by the rotor blade constant at the whole surface which is swept by the blade.
  (5 pont)

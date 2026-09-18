@@ -74,7 +74,7 @@ Solution. The reasoning is incorrect. As usual, the pressure depends only on the
 water, which is greater for container B. The net forces still balance: the greater upward force of the
 bottom on the water in container B is compensated for by the downward force of the balloon on
 the water.
-[4] Problem 27.  T 1 0IPhO 1997, problem 3. A simple, neat question about how a plane works.
+[4] Problem 27.   T 1 0IPhO 1997, problem 3. A simple, neat question about how a plane works.
 18
 Kevin Zhou Physics Olympiad Handouts
 Remark

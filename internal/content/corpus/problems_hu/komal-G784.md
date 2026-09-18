@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 784. Az alábbi ábrán egyszerű gépek kavalkádját láthatjuk. A súrlódás, valamint a csigák és emelők tömege elhanyagolható. Melyik irányba indul el a legalsó test?
 
-![figure](../../raw_html/komal_figures/komal-G784-fig1.gif)
+![figure](../../figures/komal/figures/komal-G784-fig1.gif)

@@ -63,4 +63,6 @@ Example 7
   add and subtract them, for instance.
 
                                                      11
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts

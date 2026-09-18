@@ -29,7 +29,9 @@ provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overla
 
 
                                                      1
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
 
      (a) First the ladder is placed perfectly vertically and the worker climbs to the midpoint. Draw a

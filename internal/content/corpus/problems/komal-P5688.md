@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, differential-element]
 ---
 
-From a given point, a heavy body is thrown at an angle $\alpha$ with an initial velocity $v_0$. Give the equation of the trajectory in the oblique coordinate system, where one axis points in the direction of the initial velocity and the other in the direction of the gravitational force. Can the constant in the equation be related to the ``parameter'' $p$ of the parabolic trajectory? 
+From a given point, a heavy body is thrown at an angle $\alpha$ with an initial velocity $v_0$. Give the equation of the trajectory in the oblique coordinate system, where one axis points in the direction of the initial velocity and the other in the direction of the gravitational force. Can the constant in the equation be related to the ``parameter'' $p$ of the parabolic trajectory?
  (4 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-Fill the washbasin with some water, wait until the water has a smooth surface than (using a rope or a chain) suddenly pull out the plug and let the water drain away. Measure the time while the washbasin is emptied, as a function of the amount of water. Endeavour to investigate both cases: when there is, and there is no whirl in the water. 
+Fill the washbasin with some water, wait until the water has a smooth surface than (using a rope or a chain) suddenly pull out the plug and let the water drain away. Measure the time while the washbasin is emptied, as a function of the amount of water. Endeavour to investigate both cases: when there is, and there is no whirl in the water.
  (6 pont)

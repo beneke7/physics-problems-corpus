@@ -36,7 +36,9 @@ Water flows through a cylindrical pipe of radius R and length L ≫ R, across wh
                                                  dt     8ηL
 
                                                      19
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
          This is called Poiseuille’s law.
 

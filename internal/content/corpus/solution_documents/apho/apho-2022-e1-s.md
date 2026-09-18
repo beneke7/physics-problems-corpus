@@ -45,7 +45,8 @@ EQ1: Oﬃcial Solution1
 
 bai), Charudutt Kadolkar (IIT Guwahati), Praveen Pathak (HBCSE-TIFR, Mumbai), were the principal authors of this problem. The
 contributions of the Academic Committee and the International Board are gratefully acknowledged.
-Solutions
+
+Solutions
 
 
                                                                            A1-2      Oﬃcial (English)
@@ -72,7 +73,8 @@ contributions of the Academic Committee and the International Board are grateful
  From equation (2), a plot of 𝐵𝑤 vsis a straight line passing through origin. Solving the slope will
                                 𝑥3
  give dipole moment of the magnet.
-Solutions
+
+Solutions
 
 
                                                                             A1-3      Oﬃcial (English)
@@ -112,7 +114,8 @@ contributions of the Academic Committee and the International Board are grateful
  From equation (2), a plot of 𝐵𝑤 vs 3 is a straight line passing through the origin. The magnitude of
                                    𝑥
  the dipole moment can be calculated from the slope.
-Solutions
+
+Solutions
 
 
                                                            A1-4   Oﬃcial (English)
@@ -142,7 +145,8 @@ contributions of the Academic Committee and the International Board are grateful
                                    2
   Slope of the graph: 4.00 × 10−7 Nm /A
   Dipole moment of the magnet: 2.00 Am2
-Solutions
+
+Solutions
 
 
                                                                              A1-5      Oﬃcial (English)
@@ -170,7 +174,8 @@ contributions of the Academic Committee and the International Board are grateful
                                          𝜇 𝑀
                                        ( 0       )        = 𝑣𝑡 + 𝑥0                                (4)
                                         2𝜋𝐵𝑤 (𝑡)
-Solutions
+
+Solutions
 
 
                                                                             A1-6      Oﬃcial (English)
@@ -201,7 +206,8 @@ contributions of the Academic Committee and the International Board are grateful
                                     wood         2
  Since the copper has higher conductivity than aluminium, the terminal velocity in Cu section will be
  lower than Al section.
-Solutions
+
+Solutions
 
 
                                                                                            A1-7    Oﬃcial (English)
@@ -254,7 +260,8 @@ contributions of the Academic Committee and the International Board are grateful
  From equation (4), a plot of (            )          vs 𝑡 will be a straight line. The slope of the line will give
                                   2𝜋𝐵𝑤 (𝑡)
  terminal velocity .
-Solutions
+
+Solutions
 
 
                                                                                       A1-8       Oﬃcial (English)
@@ -312,7 +319,8 @@ contributions of the Academic Committee and the International Board are grateful
 
 
  Length of the Al section = (1.040 − 0.536) × 6 cm = 3.024 cm.
-Solutions
+
+Solutions
 
 
                                                                                             A1-9    Oﬃcial (English)
@@ -369,7 +377,8 @@ contributions of the Academic Committee and the International Board are grateful
  From equation (4), a plot of (             )          vs 𝑡 will be a straight line. The slope of the line will give
                                    2𝜋𝐵𝑤 (𝑡)
  the terminal velocity.
-Solutions
+
+Solutions
 
 
                                                                           A1-10            Oﬃcial (English)
@@ -425,7 +434,8 @@ contributions of the Academic Committee and the International Board are grateful
  Data in the above table suggests that the magnet enters the copper section at 1.124 s, and it leaves
  the copper section of the pipe at 3.536 s where we see sudden velocity change.
  Length of the copper section = (3.536 − 1.124) × 2 cm = 4.824 cm.
-Solutions
+
+Solutions
 
 
                                                                               A1-11 Oﬃcial (English)
@@ -472,7 +482,8 @@ contributions of the Academic Committee and the International Board are grateful
        𝑣𝑛+1 − 𝑣𝑛
  and             respectively.
        𝑡𝑛+1 − 𝑡𝑛
-Solutions
+
+Solutions
 
 
                                                                          A1-12            Oﬃcial (English)

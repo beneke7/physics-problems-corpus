@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The mass of a two-engine plane is m . Because of some breakdown there is a considerable difference between the thrusts of the engines, which is . Despite of the breakdown the pilot managed to drive the plane horizontally along a straight line. 
- a ) What is the force exerted on the vertical surface of the tail if the distance between the tail and the centre of mass is one and a half times the distance between the two engines? 
- b ) Why and by what angle did the pilot have to lean the plane? 
- The plane is symmetrical, and it can be assumed that after the breakdown air resistance is exerted at the plane of symmetry. 
+The mass of a two-engine plane is m . Because of some breakdown there is a considerable difference between the thrusts of the engines, which is . Despite of the breakdown the pilot managed to drive the plane horizontally along a straight line.
+ a ) What is the force exerted on the vertical surface of the tail if the distance between the tail and the centre of mass is one and a half times the distance between the two engines?
+ b ) Why and by what angle did the pilot have to lean the plane?
+ The plane is symmetrical, and it can be assumed that after the breakdown air resistance is exerted at the plane of symmetry.
  (5 pont)

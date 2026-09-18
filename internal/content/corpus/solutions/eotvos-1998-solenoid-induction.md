@@ -20,22 +20,22 @@ A szolenoidot hirtelen vízszintesen, jobb felé elrántjuk. Melyik irányban le
 az ingaszer¶en felfüggesztett keret?
 (Gnädig Péter)
 Megoldás.
-Gondoljuk át a folyamatot! Az ingaszer¶en felfüggesztett keret mágneses mez®be merül. Ha kimegy alóla a
-szolenoid, kimegy a mez® is  ez pedig feszültséget indukál a keretben. A fellép® indukált áramra hat a távozóban
-lév® mágneses mez®, ami a józan sejtés szerint maga után rántja a keretet is. Mindezeket a sejtéseket megfelel® 
+Gondoljuk át a folyamatot! Az ingaszer¶en felfüggesztett keret mágneses mez®be merül. Ha  kimegy alóla  a
+szolenoid, kimegy a mez® is   ez pedig feszültséget indukál a keretben. A fellép® indukált áramra hat a távozóban
+lév® mágneses mez®, ami a józan sejtés szerint maga után rántja a keretet is. Mindezeket a sejtéseket megfelel®
 zikai
 törvényekkel kell még alátámasztanunk (vagy meg áfolnunk), s a kvantitatív törvények alkalmazásával majd arra is
 válaszolni tudunk, hogy milyen magasra emelkedik fel a keret.
 A megoldás egyik kul skérdése az, hogy mit állíthatunk arról a mágneses mez®r®l, amibe belemerül a keret. Tudjuk,
 hogy a mágneses induk ióvektor nagysága mélyen a teker s belsejében B0, de milyen a mágneses mez® a szolenoid
-végén? Az is elég lenne, ha a 
+végén? Az is elég lenne, ha a
 uxust meg tudnánk határozni.
-Egy kis gondolatkísérlet segíteni fog. Tudjuk, hogy a 
+Egy kis gondolatkísérlet segíteni fog. Tudjuk, hogy a
 uxus mélyen a szolenoid belsejében: B0 · A = B0 · d2
 .
 Gondolatban vágjuk itt a szolenoidot vízszintesen ketté! Nem kell a huzalt is elvágnunk, supán gondoljuk azt, hogy
 itt két, azonos keresztmetszet¶ és menetemelkedés¶, azonos árammal átjárt teker s van összetolva. Nyilvánvaló, hogy
-mindkét teker s azonos mértékben járul hozzá az itt kialakuló 
+mindkét teker s azonos mértékben járul hozzá az itt kialakuló
 uxushoz, amib®l pedig már következik, hogy a mágneses
 
 uxus a szolenoid végénél:
@@ -48,13 +48,13 @@ bizton állíthatjuk, hogy a mágneses induk ióvektor függ®leges komponense a
 1
 2
 B0 nagyságú.
-A d élhosszúságú, négyzet alakú keret tehát egy olyan mágneses mez®be merül, amelynek 
+A d élhosszúságú, négyzet alakú keret tehát egy olyan mágneses mez®be merül, amelynek
 uxusa Φ =
 1
 2
 B0d2
 .
-Amikor  mondjuk ∆t id® alatt  elrántjuk a szolenoidot, ez a 
+Amikor   mondjuk ∆t id® alatt   elrántjuk a szolenoidot, ez a
 uxus zérusra sökken. Így a keretben indukálódó
 feszültség nagysága:
 |Uind| =
@@ -64,7 +64,7 @@ feszültség nagysága:
 B0d2
 2∆t
 .
-A ∆t id® alatt megsz¶n® 
+A ∆t id® alatt megsz¶n®
 uxus által a keretben indukált áram nagysága:
 I =
 1
@@ -72,7 +72,7 @@ R
 B0d2
 2∆t
 .
-Tételezzük fel, hogy pontosan ekkora áram folyik ∆t id®n keresztül a keretben  addig és sak addig, amíg változik a
+Tételezzük fel, hogy pontosan ekkora áram folyik ∆t id®n keresztül a keretben   addig és sak addig, amíg változik a
 
 uxus. De hát eközben a keret jobb oldali, d hosszúságú szakaszára (az itt folyó áramra) még er®t fejt ki a mágneses
 mez®! Írjuk fel az erre ható er®lökést:
@@ -105,7 +105,7 @@ B4
 magasságra.
 Már sak azt kell meghatároznunk, hogy milyen irányban lendül ki a keret. A feladathoz tartozó ábráról leolvasható,
 hogy a mágneses induk ióvektor a szolenoid belsejében függ®legesen felfelé irányul. A szolenoid elrántása közben a
-keretben olyan irányú áram indukálódik, amelyik (Lenz törvénye alapján) a keret 
+keretben olyan irányú áram indukálódik, amelyik (Lenz törvénye alapján) a keret
 uxusának sökkenését akadályozni
 igyekszik. Ezek szerint az indukált áram a keretben felülr®l nézve az óramutató járásával ellentétes irányú, mivel
 az ebb®l származó induk ióvektor mutat felfelé. A keret jobb oldali szakaszán ezek szerint befelé, hátrafelé folyik az
@@ -119,20 +119,20 @@ pontosan megadja azt a vízszintes er®lökést, amit a keret kap.
 Természetesen ahhoz is id®re van szükség, hogy a keret sebessége nulláról v0-ra n®jön, az eközben megtett utat
 elhanyagoltuk a fenti megoldásban. Ez a szokásos elhanyagolás a ballisztikus inga és sok hasonló ütközési folyamat
 tárgyalásából ismer®s. Eredményünk tehát most is sak közelít® érvény¶, pontossága a közelítés jogosságától függ. A
-feladat ugyan paraméteresen lett kit¶zve, az elrántás szó utalt azonban arra, hogy a fenti közelítést joggal alkalmaz-
+feladat ugyan paraméteresen lett kit¶zve, az  elrántás  szó utalt azonban arra, hogy a fenti közelítést joggal alkalmaz-
 hatjuk.
 A verseny eredménye
 Els® díjatés vele 6 ezer forintos pénzjutalmat nyertek:
-Sarlós Feren , a JATE 
+Sarlós Feren , a JATE
 zikus hallgatója, aki a bajai III. Béla Gimnáziumban érettségizett mint Polgár László,
 Szkladányi András és Hilbert Margit tanítványa;
-Végh Dávid, az ELTE 
+Végh Dávid, az ELTE
 zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
 mint Horváth Gábor tanítványa.
 Második díjatés vele 5 ezer forintos pénzjutalmat nyertek:
 Rozsonday Gerzson, a debre eni KLTE Gyakorló Gimnáziumának 12. osztályos tanulója, Kirs hÉva és Szegedi
 Ervin tanítványa;
-Somogyi Gábor, a KLTE 
+Somogyi Gábor, a KLTE
 zikus hallgatója, aki a debre eni Tóth Árpád Gimnáziumban érettségizett mint Baló
 Péter tanítványa;
 Terpai Tamás, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. osztályos tanulója, HorváthGábor tanítványa.
@@ -140,15 +140,15 @@ Harmadik díjatés vele 4 ezer forintos pénzjutalmat nyertek:
 Gulyás Nándor, a mez®ková sházai Hunyadi János Gimnázium 12. osztályos tanulója, Sallai István és Varga
 István tanítványa;
 Heged¶s Ákos, a pé si iszter i Nagy Lajos Gimnázium 11. osztályos tanulója, Orovi a Márkné tanítványa;
-Kormos Márton, az ELTE 
+Kormos Márton, az ELTE
 zikus hallgatója, aki a debre eni KLTE Gyakorló Gimnáziumban érettségizett mint
 Szegedi Ervin és Farkas József tanítványa;
 Máthé András, a budapesti ELTE Apá zai Csere János Gyakorló Gimnázium 11. osztályos tanulója, Flórik
 György tanítványa;
 Sz®ke Szilárd-Zsigmond, a temesvári M¶szaki Egyetem (Traian Vuia Polite hni a) mérnök hallgatója, aki a
 temesvári Bartók Béla Lí eumban érettségizett mint Toró T. Tibor és Benedek István tanítványa.
-Di séretet kaptak a verseny 1118. helyezettjei:
-Bálint Imre, az ELTE 
+Di séretet kaptak a verseny 11 18. helyezettjei:
+Bálint Imre, az ELTE
 zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumban érettsé-
 gizett mint Homolya Ern® tanítványa;
 Császár Balázs, a BME mérnök-
@@ -157,7 +157,7 @@ umban érettségizett mint Heigl István és Ková s László tanítványa;
 Katona Gergely, a budapesti ELTE Trefort Ágoston Gyakorlóiskola 12. osztályos tanulója, Szörényi Zoltán
 tanítványa;
 Nagy Kálmán, a budapesti Veres Péter Gimnázium 12. osztályos tanulója, VargaMária tanítványa;
-Pogány Ádám, az ELTE 
+Pogány Ádám, az ELTE
 zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
 mint Horváth Gábor tanítványa;
 Rá z Balázs, a budapesti Veres Péter Gimnázium 12. osztályos tanulója, Varga Mária tanítványa;

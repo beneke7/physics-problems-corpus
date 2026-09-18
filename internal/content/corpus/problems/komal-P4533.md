@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: flagged
 ---
 
-A student standing on the moving bus did not hold on to anything, and fell off when the bus took a bend. At what angle should he have to lean in order not to fall off, if the bus travelled at a speed of 30 km/h in the bend of radius 25 m? 
+A student standing on the moving bus did not hold on to anything, and fell off when the bus took a bend. At what angle should he have to lean in order not to fall off, if the bus travelled at a speed of 30 km/h in the bend of radius 25 m?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4533-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4533-fig1.gif)

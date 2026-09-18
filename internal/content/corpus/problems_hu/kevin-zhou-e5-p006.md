@@ -44,5 +44,5 @@ Egy V feszültségű telep L induktivitású tekercsen keresztül áramot tápl�
 
 
 
-                   01T
+                   01T
     Ez az elrendezés a homopoláris motor egyik példája.

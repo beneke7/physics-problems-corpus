@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy fonal egyik végét egy hengerre csavartuk, a másik végét pedig falhoz rögzítettük. A henger egy vízszintes, a henger tengelyére merőleges irányban $v$ sebességgel húzott felületen fekszik. Határozzuk meg a henger tengelyének sebességét a fonal és a függőleges által bezárt $\alpha$ szög függvényében. A henger csúszás nélkül gördül a felületen.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr26-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr26-fig1.jpg)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4275. Egy tízliteres tartályban lévő ideális gáz nyomása 1,6 MPa, hőmérséklete 25 $^\circ$C. Hány mól gáz van a tartályban? Mekkora a gázkeverék sűrűsége, ha a gáz tömegének 10%-a hélium, a többi nitrogén? 
+P. 4275. Egy tízliteres tartályban lévő ideális gáz nyomása 1,6 MPa, hőmérséklete 25 $^\circ$C. Hány mól gáz van a tartályban? Mekkora a gázkeverék sűrűsége, ha a gáz tömegének 10%-a hélium, a többi nitrogén?
  Tornyai Sándor fizikaverseny, Hódmezővásárhely

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-Foucault, a French physicist, carried out his famous pendulum experiment in the Pantheon in Paris to demonstrate that the Earth is rotating, by means of a pendulum of length 67 m and of mass 28 kg. 
- $a)$ Why was it necessary to use such a long wire and such a heavy pendulum bob? 
- $b)$ What was the period of the pendulum? 
+Foucault, a French physicist, carried out his famous pendulum experiment in the Pantheon in Paris to demonstrate that the Earth is rotating, by means of a pendulum of length 67 m and of mass 28 kg.
+ $a)$ Why was it necessary to use such a long wire and such a heavy pendulum bob?
+ $b)$ What was the period of the pendulum?
  (4 pont)

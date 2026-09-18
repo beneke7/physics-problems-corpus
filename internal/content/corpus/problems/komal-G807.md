@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-From a height of 20 metres, three steel balls are projected one after the other in every second. The angle between the horizontal and the initial velocity of the first ball is $30^\circ$ upwards, that of the third ball is $30^\circ$ downwards, and the second ball is dropped without initial velocity. All three balls hit the ground at the same time. What were the initial velocities of the first and third steel balls? 
+From a height of 20 metres, three steel balls are projected one after the other in every second. The angle between the horizontal and the initial velocity of the first ball is $30^\circ$ upwards, that of the third ball is $30^\circ$ downwards, and the second ball is dropped without initial velocity. All three balls hit the ground at the same time. What were the initial velocities of the first and third steel balls?
  (4 pont)

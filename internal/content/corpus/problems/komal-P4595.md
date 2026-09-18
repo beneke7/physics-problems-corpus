@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201401"
 verification_status: pending
 ---
 
-Can the kinetic energy of a dropped ball in Joules be the same as the height measured in metres from which it was dropped? 
+Can the kinetic energy of a dropped ball in Joules be the same as the height measured in metres from which it was dropped?
  (3 pont)

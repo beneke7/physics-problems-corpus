@@ -24,7 +24,7 @@ techniques: [stability-analysis, smart-coordinates]
 
 Egy cirkuszi egyensúlyozóművész egy hosszú függőleges rúdra akar felmászni. A rúd hossza $\ell$, tömege $m$. A produkció kezdetekor a rudat az egyik végéhez erősített, elhanyagolható súlyú rugalmas kötélen engedik le a cirkusz kupolájától. Amikor a rúd alja éppen a talajhoz ér, a kötél $2\ell$ hosszú (1. ábra). A kötél nyújtatlan hossza $\ell$, megnyúlása közben jól követi a Hooke-törvényt.
 
-![figure](sources/eotvos/figures/eotvos-2008-p1-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2008-p1-fig1.jpg)
 
 1. ábra
 

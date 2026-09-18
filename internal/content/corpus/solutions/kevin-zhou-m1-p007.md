@@ -24,7 +24,7 @@ However, in the limit where we have two roots that are very close together, ω �
 ∆ω ≪ ω, we should get approximately the same solution. Explicitly show how this works.
 When would you prefer to use either one?
 (c) [A] Consider the most general nth order, linear homogeneous time-translation invariant differ-
-ential equation 
+ential equation
 an
 dn
 dtn
@@ -35,7 +35,7 @@ dtn−1
 d
 dt
 + a0
-
+
 x = 0.
 What does the general solution look like?
 Solution. (a) In the case of a double root ω = 0, the differential equation is d2x/dt2 = 0. The
@@ -61,7 +61,7 @@ which superficially looks very different from the answer to part (a). However, n
 x(t) = eiωt
 Cei∆ω t
 + De−i∆ω t
-
+
 = eiωt
 ((C + D)cos(∆ω t) + i(C − D)sin(∆ω t)).
 For short times, ∆ω t ≪ 1, we have cos(∆ω t) ≈ 1 and sin(∆ω t) ≈ ∆ω t, up to quadratic and

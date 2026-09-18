@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-There is a sample of nitrogen gas in a container closed with a piston. The pressure of the gas is decreased by slowly pulling out the piston. What is the molar heat capacity of the gas in this process if 1% increase in the volume results in 0.5% change in the pressure? 
+There is a sample of nitrogen gas in a container closed with a piston. The pressure of the gas is decreased by slowly pulling out the piston. What is the molar heat capacity of the gas in this process if 1% increase in the volume results in 0.5% change in the pressure?
  (4 pont)

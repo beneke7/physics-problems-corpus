@@ -41,7 +41,9 @@ Solutions to1050-187 Lisboa, Portugal
 
 
                             v1.1
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                               Sociedade Portuguesa de Física
                                               Avenida da República Nº45 3ºEsq
@@ -95,7 +97,9 @@ equal time intervals. The function 𝑦(𝑡) is given by 𝑦(𝑡) = 𝐹 (�
                51            37.2               43.91                                 1.38
                58            37.3               43.81                                 1.29
                65            37.4               43.71                                 1.20
-             Secretariado
+
+
+             Secretariado
              IPhO 2018
                             Sociedade Portuguesa de Física
                             Avenida da República Nº45 3ºEsq
@@ -152,7 +156,9 @@ A.3                                                                             
       2037    40.2           40.91
       2100    40.22          40.89               −3.83 × 10−4
       2400    40.29          40.82
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                               Sociedade Portuguesa de Física
                                               Avenida da República Nº45 3ºEsq
@@ -209,7 +215,9 @@ The estimated uncertainties are
 
       B.2                                                                                           0.3pt
                                            𝐷 = (1.643 ± 0.009) m .
-                            Secretariado
+
+
+                            Secretariado
                             IPhO 2018
                                                Sociedade Portuguesa de Física
                                                Avenida da República Nº45 3ºEsq
@@ -271,7 +279,9 @@ Measurement: ℓ0′ = 31.6 + 2 × 0.5 = 32.6 cm.
 
       C.1                                                                                            0.3pt
                                             ℓ0′ = (32.6 ± 0.2) cm .
-                                         Secretariado
+
+
+                                         Secretariado
                                          IPhO 2018
                                                                             Sociedade Portuguesa de Física
                                                                             Avenida da República Nº45 3ºEsq
@@ -348,7 +358,9 @@ Therefore, 𝜎𝜖 = 0.0433 × 0.167 = 0.0072.
 
     D.3                                                                                                                                                            0.3pt
                                                                           𝜖 = 0.167 ± 0.007 .
-                               Secretariado
+
+
+                               Secretariado
                                IPhO 2018
                                                   Sociedade Portuguesa de Física
                                                   Avenida da República Nº45 3ºEsq
@@ -414,7 +426,9 @@ Thus, a graph of a constant function is expected.
 
     D.5
                                                                    t                                    0.4pt
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                                Sociedade Portuguesa de Física
                                                Avenida da República Nº45 3ºEsq
@@ -471,7 +485,9 @@ The linearisation of the expression of d𝐹/d𝑡 is accomplished using logarit
                                                d𝐹         𝐹      1
                                        ln (−      ) = ln ( 1 ) −    𝑡.
                                                d𝑡         𝜏1     𝜏1
-                                                                    Secretariado
+
+
+                                                                    Secretariado
                                                                     IPhO 2018
                                                                                                              Sociedade Portuguesa de Física
                                                                                                              Avenida da República Nº45 3ºEsq
@@ -553,7 +569,9 @@ Finally,
 
      D.9                                                                                                                                                                                                              0.3pt
                                                                                                 𝐸0 = 1.31 × 107 N m−2 .
-                                Secretariado
+
+
+                                Secretariado
                                 IPhO 2018
                                                          Sociedade Portuguesa de Física
                                                          Avenida da República Nº45 3ºEsq
@@ -622,7 +640,9 @@ of the straight line is ln 𝑦2 = 𝑏2 + 𝑚2 𝑡. From the graph below,
               The best straight line in the range 200-500 s yield the parameters 𝜏2 and 𝐸2
               (Question D.11). The slope of the best straight line in the range [10, 30] s give
               an estimate of 𝜏3 (Questions D.12 and D.13).
-                               Secretariado
+
+
+                               Secretariado
                                IPhO 2018
                                                    Sociedade Portuguesa de Física
                                                    Avenida da República Nº45 3ºEsq
@@ -691,7 +711,9 @@ Given that
                            𝜖    𝜖   𝜋 × (0.24 × 10−3 )2 × 0.325
 Note that the radius 𝑅 of the stretched thread was not measured. We used the value measured in
 task B.4: 𝑅 ≈ 0.24 × 10−3 m.
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                             Sociedade Portuguesa de Física
                                             Avenida da República Nº45 3ºEsq

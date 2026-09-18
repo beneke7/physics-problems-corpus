@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: pending
 ---
 
-A car starts from rest speeds up along a circular path and increases its speed at a constant rate. After covering one-fourth of a circle what is the angle between its acceleration and the radius drawn to the car at that moment. 
+A car starts from rest speeds up along a circular path and increases its speed at a constant rate. After covering one-fourth of a circle what is the angle between its acceleration and the radius drawn to the car at that moment.
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, auxiliary-unknowns]
 ---
 
-Inside a thin shell hollow metal sphere of radius 20 cm there is a metal ball of radius 10 cm. The centres of the ball and the sphere coincide. The inside ball is earthed with a very long wire, which is led through a small hole in the outer sphere. The outer sphere is given a charge of $10^{-8}$ C. What will the potential of the outer sphere be? 
+Inside a thin shell hollow metal sphere of radius 20 cm there is a metal ball of radius 10 cm. The centres of the ball and the sphere coincide. The inside ball is earthed with a very long wire, which is led through a small hole in the outer sphere. The outer sphere is given a charge of $10^{-8}$ C. What will the potential of the outer sphere be?
  (6 pont)

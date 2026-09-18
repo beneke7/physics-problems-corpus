@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-A converging lens of optical power 2 dioptre and of diameter 8 cm is stick to one end of a 30 cm long cardboard tube, and a concave lens of optical power -5 dioptre and of the same diameter is stick to the other end of the tube. The tube is held such that it points towards the Sun with the converging lens. A screen is placed first at a distance of 10 cm from the diverging lens, and then at a distance of 20 cm. 
- What can be seen on the screen? 
+A converging lens of optical power 2 dioptre and of diameter 8 cm is stick to one end of a 30 cm long cardboard tube, and a concave lens of optical power -5 dioptre and of the same diameter is stick to the other end of the tube. The tube is held such that it points towards the Sun with the converging lens. A screen is placed first at a distance of 10 cm from the diverging lens, and then at a distance of 20 cm.
+ What can be seen on the screen?
  (4 pont)

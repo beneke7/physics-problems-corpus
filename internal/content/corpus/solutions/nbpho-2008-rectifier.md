@@ -25,14 +25,14 @@ charges through the load. However, the relative change of the
 voltageofthecapacitorhastobesmall(otherwise∆I/I would
 notbesmall). Therespectiveloadvoltageasafunctionoftime
 is sketched in the Figure. So, we can use the above written
-Kircho'slawwithUload(t) ≈ IR,henceU0 = IR + u = 21V.
+Kircho 'slawwithUload(t) ≈ IR,henceU0 = IR + u = 21V.
 3) Thechangeofthevoltageofthecapacitorduringthedischarge
 cycle can be estimated as ∆U = ∆Q/C, where the capacitor's
 chargedrop∆Q = It,andt isthedischargetime. Sincethedis-
 chargecycleoccupiesalmostalltheperiod(seeFigure),wecan
 uset ≈ 1/ν. Further,∆I/I = ∆U/U = ∆Q/CU = ∆Q/CIR =
 1/CRν. Hence,C ≥ 100/Rν = 200µF.
-4) Initially, the capacitor is empty, so that the charge 
+4) Initially, the capacitor is empty, so that the charge
 owing
 throughthecapacitorduringthe
 rstcycleisQ = CIR. Hence,

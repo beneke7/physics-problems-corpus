@@ -91,16 +91,16 @@ energy
 C atom
 C atoms
 mole
-
+
 kilograms
 mole
-−1
+ −1
 ∼ (2 × 10−18
 J)NA
-
+
 12g
 mole
-−1
+ −1
 = 108
 J/kg.
 For comparison, the energy of one gram of fat is 9 calories, so the true answer is

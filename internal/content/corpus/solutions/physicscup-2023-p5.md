@@ -28,7 +28,7 @@ For a point $P$ to be a local maximum of the three-source intensity, the light f
 
 ### Finding the three sources
 
-![Figure 1: one family of confocal hyperbolic fringes identified among the given maxima. The conjugate axis (the n = 0 fringe, a straight line) lies among the points; a tangent drawn parallel to it touches a hyperbola branch at its vertex, and the perpendicular to the conjugate axis through that vertex is the transverse axis carrying the two foci.](../../sources/physicscup/figures/physicscup-2023-p5-sol-1.png)
+![Figure 1: one family of confocal hyperbolic fringes identified among the given maxima. The conjugate axis (the n = 0 fringe, a straight line) lies among the points; a tangent drawn parallel to it touches a hyperbola branch at its vertex, and the perpendicular to the conjugate axis through that vertex is the transverse axis carrying the two foci.](../../../../../sources/physicscup/figures/physicscup-2023-p5-sol-1.png)
 
 Very conveniently, each family of hyperbolas has its **conjugate axis** among the set of given points. The conjugate axis is the special case where the difference of distances from the two foci is zero ($n=0$), i.e. the perpendicular bisector of the segment joining the two foci.
 
@@ -41,7 +41,7 @@ Repeating for all three families gives three transverse axes. The three sources 
 
 To verify, pick any two of the found points (e.g. $D$ and $E$) as foci, draw a hyperbola through one of the maxima, and check that many other maxima lie on it — they do.
 
-![Figure 2: verification. The three sources D, E, F sit at the vertices of the triangle formed by the three transverse axes (black). The three conjugate axes (red) — perpendicular bisectors of the source pairs — meet at the single point I3, which is equidistant from all three sources; the circle centred at I3 passes through D, E and F.](../../sources/physicscup/figures/physicscup-2023-p5-sol-2.png)
+![Figure 2: verification. The three sources D, E, F sit at the vertices of the triangle formed by the three transverse axes (black). The three conjugate axes (red) — perpendicular bisectors of the source pairs — meet at the single point I3, which is equidistant from all three sources; the circle centred at I3 passes through D, E and F.](../../../../../sources/physicscup/figures/physicscup-2023-p5-sol-2.png)
 
 ### Coordinates of the sources
 

@@ -26,7 +26,7 @@ verification_status: pending
 
 Two small balls of mass $m$ each with charges $+q$ and $-q$ respectively, connected by a rigid massless rod of length $d$, form a dipole. The dipole is parallel to plane $XY$ and is placed in a uniform magnetic field $\vec{B}$ perpendicular to $XY$.
 
-![figure](../../sources/eupho/figures/eupho-2022-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T3-1.png)
 
 Initially, the dipole is aligned with the direction $X$ and has initial angular velocity $\omega_0$ in plane $XY$, as shown. Its center of mass is initially located at origin and given initial velocity $\vec{v}_0$ parallel to $XY$, as well.
 

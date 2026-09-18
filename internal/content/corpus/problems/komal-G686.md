@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-A 1.5-ton car is staying at rest on a horizontal road. Find the size of the surface the car touches the road, if the pressure in each tyre was adjusted to the value of 2.5 bars at the petrol station. 
+A 1.5-ton car is staying at rest on a horizontal road. Find the size of the surface the car touches the road, if the pressure in each tyre was adjusted to the value of 2.5 bars at the petrol station.
  (3 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Initially: switch $S$ in the circuit below is open; the capacitor of capacitance $2 C$ carries electric charge $q_{0}$; the capacitor of capacitance $C$ is uncharged; and there are no electric currents in either the coil of inductance $L$ or the coil of inductance $2 L$. The capacitor starts to discharge and at the moment when the current in the coils reaches its maximum value, the switch $S$ is instantly closed. Find the maximum current $I_{\text {max }}$ through the switch $S$ thereafter.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr103-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr103-fig1.jpg)

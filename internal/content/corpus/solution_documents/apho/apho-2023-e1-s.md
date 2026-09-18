@@ -26,7 +26,8 @@ PART A. LARGE ANGLE PENDULUM
 
 
 A.1. ∆𝒕 𝒂𝒏𝒅 𝒗
-Experiment №1
+
+Experiment №1
                                                                                                                               S1-2 English (Official)
 
 
@@ -87,7 +88,8 @@ Table №1
 
 
                                                                 grad1/∆𝑡 = 110.77 s −1 (1)
-Experiment №1
+
+Experiment №1
                                                                                               S1-3    English (Official)
                               𝜑
 A.2. Speed of ball: 𝒗 = 𝑘𝑣 sin 20
@@ -138,7 +140,8 @@ Table 2. Measurement at smaller angles
      9             14.0    0.1219    0.01485    1.131244     1.232416    2.262348    1.1311   0.10117           9.884
      10            11.0    0.0958    0.00919    1.130564     1.269412    2.260456    1.1299   0.13885           7.202
      11             7.0    0.0610    0.00373    1.127648     1.338152    2.255932    1.1283   0.21050           4.751
-Experiment №1
+
+Experiment №1
                                                                                               S1-4
                                                                                                  English (Official)
                       1.155
@@ -183,7 +186,8 @@ Table 2. Measurement at smaller angles
                                               𝛼𝑡ℎ𝑒𝑜𝑟 =     = 0.250
                                                          4
                                                    𝜀𝛼 < 1%
-Experiment №1
+
+Experiment №1
                                                                                                                              S1-5       English (Official)
 Table 3. Measurement at higher angles
                                                    𝜑0                 𝜑0                 𝜑0
@@ -241,7 +245,8 @@ Table 3. Measurement at higher angles
 
 
                                                                 graph №3: 𝑌 𝑣𝑠 𝑋
-Experiment №1
+
+Experiment №1
                                                                                          S1-6
                                                                                           English (Official)
                                                   𝛽 = 0.149
@@ -266,7 +271,8 @@ B.2 Free fall acceleration in UB: 𝒈𝐔𝐁
                                                  𝑔𝑈𝐵 = 9.804
                                                                s2
                                                    𝜀𝑔 < 1%
-Experiment №1
+
+Experiment №1
                                       S1-7
                                        English (Official)
 
@@ -292,7 +298,8 @@ PART C: BEHAVIORS OF THE COLLISIONS
 
 
  C4
-Experiment №1
+
+Experiment №1
                                                                                                 S1-8
                                                                                                  English (Official)
 PART D: TIME OF COLLISIONS
@@ -349,7 +356,8 @@ Table 4. Time of collisions as a function of speed
                                                                   𝑣
                                                           𝑣1𝑐 =
                                                                   2
-Experiment №1
+
+Experiment №1
                                                                                                                          S1-9  English (Official)
                                                             𝜀4 = −0.193 (3.5 %)
 
@@ -415,7 +423,8 @@ Table 4. Time of collisions as a function of speed
 
 
                                             𝜀4 = −0.96/5 ≈ −1/5 (𝑟𝑒𝑙. 𝑒𝑟𝑟𝑜𝑟 = 4 %)
-Experiment №1
+
+Experiment №1
                                                                                      S1-10
                                                                                       English (Official)
 Exponent of radius
@@ -462,7 +471,8 @@ Exponent of radius
                                                             𝑀2
                                                      𝜏5~
                                                            𝐸 2 𝑅𝑣
-Experiment №1
+
+Experiment №1
                                      S1-11
                                       English (Official)
                    𝜌2 𝑅6 𝑅6  𝑅5 𝑐
@@ -472,7 +482,8 @@ Exponent of radius
                     𝑅1 + 𝑅2 𝑐 5
                  𝜏~        ∗( ) =𝑋
                        𝑐     𝑣
-Experiment №1
+
+Experiment №1
                                                                                                      S1-12  English (Official)
 
 
@@ -513,7 +524,8 @@ Exponent of radius
                                                        𝑅1 + 𝑅2 𝑐 5
                                               𝜏 = 2.40        ∗( )           (6′)
                                                           𝑐     𝑣
-Experiment №1
+
+Experiment №1
                                                                                     S1-13
                                                                                       English (Official)
 
@@ -567,7 +579,8 @@ Table 5. Force, Hertz Deflection, Hertz Radius, Hertz Pressure.
    m2/g      45.9 1.329       60.13   0.0550    915   19.98       89.3     381.8    0.33       4.02
  24.57       36.5 1.068       62.00   0.0442    713   16.55       67.3     297.4     0.3        3.7
  131.18      34.2 1.002       63.92   0.0415    649   16.02       64.1     270.8    0.29       3.58
-Experiment №1
+
+Experiment №1
                                                                                                         S1-14
                                                                                                           English (Official)
   R, mm    27.4         0.807        66.30    0.0334         504     13.38         49.0         210.3   0.27       3.29
@@ -630,7 +643,8 @@ Table 5. Force, Hertz Deflection, Hertz Radius, Hertz Pressure.
                                                                 𝐹𝑎𝑣
 
    Deflection
-Experiment №1
+
+Experiment №1
                                                                          S1-15
                                                                           English (Official)
                                                  𝐾system,C

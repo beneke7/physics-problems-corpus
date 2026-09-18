@@ -30,6 +30,6 @@ b) (5 pts) Now consider two infinite, straight, thin wires (wires $X$ and $Y$), 
 
 c) (4 pts) Let $L$ be the length of this field line between P and its point of closest approach to wire $X$. Using values $a = 10$ cm and $r = 1.0$ mm, calculate $L$ to within 20% relative error.
 
-![figure](../../sources/eupho/figures/eupho-2025-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-T3-1.png)
 
 *European Physics Olympiad 2025, Theory Problem 3. Transcribed faithfully from the born-digital source PDF (via phoxiv.org); inline math normalized from the source's Unicode glyphs to LaTeX. Figure is a vector diagram (the two crossed wires $X$, $Y$ and point P) cropped from the source page.*

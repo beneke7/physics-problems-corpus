@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nagyon nagy mágneses permeabilitású ferromágneses toroidmag köré tekercset csévélünk; a tekercs sok menetből áll, teljes induktivitása $L$. A tekercs vezetékének középső pontjára az ábrán látható módon egy $C$ kapacitású kondenzátort kapcsolunk. Az áramkör bemeneti kapcsaira $\omega$ körfrekvenciájú, $V_{0}$ váltakozó feszültséget kapcsolunk. Mekkora az ideálisnak tekinthető ampermérő kijelzése?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr88-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr88-fig1.jpg)

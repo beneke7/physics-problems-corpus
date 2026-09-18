@@ -23,7 +23,7 @@ techniques: [conservation-laws, stability-analysis]
 
 **6. CHARGE ON A RING (7 points)** — *Andreas Isacsson.*
 
-![Charge on a ring](../../sources/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
+![Charge on a ring](../../figures/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
 
 A pointlike particle with mass $m$ and charge $q$ is free to slide without friction along a fixed horizontal circular ring with radius $r$. In the plane of the ring, another charge $Q$ is placed in a fixed position, at a distance $d$ from the center of the ring, with $d<r$ (see figure).
 

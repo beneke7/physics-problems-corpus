@@ -54,7 +54,9 @@ Analyzing a damped and driven harmonic oscillator.
          take the values they do, for ω small, ω ≈ k/m, and ω large?
 
                                                         9
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
       (e) There are several distinct things people mean when they speak of “resonant frequencies”. Keressük meg
           the driving szögfrekvencia ω that maximizes (i) the amplitude |A0 |, (ii) the amplitude of

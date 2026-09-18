@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A hemispherical insulating shell is charged positively, and is fixed. The charge distribution on the shell is uniform. At a point on the symmetry axis, which is exactly at a distance of the radius measured from the centre of the hemisphere  O , a small negatively charged bead is released. The speed of the bead is v $_{0}$ when it reaches the centre  O . 
- What will the speed of the bead be when it reaches the shell? (Neglect the effect of gravity.) 
+A hemispherical insulating shell is charged positively, and is fixed. The charge distribution on the shell is uniform. At a point on the symmetry axis, which is exactly at a distance of the radius measured from the centre of the hemisphere  O , a small negatively charged bead is released. The speed of the bead is v $_{0}$ when it reaches the centre  O .
+ What will the speed of the bead be when it reaches the shell? (Neglect the effect of gravity.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4440-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4440-fig1.gif)

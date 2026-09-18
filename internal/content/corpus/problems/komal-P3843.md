@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, stability-analysis, extremization]
 ---
 
-A small pearl can move without friction along a circular rigid ring. the radius of the ring is  R . Find the possible position of the pearl on the ring if the ring is rotated with an angular velocity about its vertical diameter. Examine the stability of the pearl. 
+A small pearl can move without friction along a circular rigid ring. the radius of the ring is  R . Find the possible position of the pearl on the ring if the ring is rotated with an angular velocity about its vertical diameter. Examine the stability of the pearl.
  (5 pont)

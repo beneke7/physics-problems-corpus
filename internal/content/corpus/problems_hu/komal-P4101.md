@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4101. Ugyanakkora elektromotoros erejű és egyaránt 3  belső ellenállású telepeket kapcsoltunk először párhuzamosan, majd sorosan egy 129  -os fogyasztóra. Azt tapasztaltuk, hogy a soros kapcsolásnál egy-egy telep kapocsfeszültsége 10%-kal kisebb, mint párhuzamos kapcsolás esetén. Hány telepet használtunk? 
+P. 4101. Ugyanakkora elektromotoros erejű és egyaránt 3  belső ellenállású telepeket kapcsoltunk először párhuzamosan, majd sorosan egy 129  -os fogyasztóra. Azt tapasztaltuk, hogy a soros kapcsolásnál egy-egy telep kapocsfeszültsége 10%-kal kisebb, mint párhuzamos kapcsolás esetén. Hány telepet használtunk?
  Cornides István fizikaverseny, Révkomárom (Szlovákia)

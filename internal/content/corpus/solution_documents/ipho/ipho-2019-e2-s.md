@@ -40,7 +40,9 @@ Part A: Electrical conductivity of metals (1.5 points)
   Electrical conductivity 
                                  1 
                                m    5.97 × 107      2.98 × 107      1.60 × 107
-   Experiment IPhO 2019                                                     Q1-1
+
+
+   Experiment IPhO 2019                                                     Q1-1
                                                                             S2-2
 Part B: Thermal conductivity of copper (3.0 points)
 
@@ -60,7 +62,9 @@ B.4 (0.5 points)
  1050       27.16      28.16    29.17    30.20   31.240   32.30    33.38    34.48
  1200       27.29      28.30    29.33    30.37   31.42    32.49    33.58    34.68
 B.5 (1.0 points)
-   Experiment IPhO 2019                                                Q1-1
+
+
+   Experiment IPhO 2019                                                Q1-1
                                                                        S2-3
 B.6 (0.5 points)
 
@@ -84,7 +88,9 @@ We expect a higher value of 𝜅0 compared with the real  cu because of 2 rea
                                                 Δ𝑡
                                                    ≠ 0), the corresponding power
      involved should be subtracted from the power supplied by the heater.
-    Experiment IPhO 2019                                                                       Q1-1
+
+
+    Experiment IPhO 2019                                                                       Q1-1
                                                                                                S2-4
 Part C: Heat loss and heat capacity of copper (4.0 points)
 
@@ -111,7 +117,9 @@ C.1 (1.0 points)
     740                                      32.51     32.51                                   32.51
     800                                      32.40     32.40                                   32.40
     860                                      32.30     32.30                                   32.30
-   Experiment IPhO 2019                                                                    Q1-1
+
+
+   Experiment IPhO 2019                                                                    Q1-1
                                                                                            S2-5
 C.2 (1.0 points)
 
@@ -140,7 +148,9 @@ every solution within 10% accuracy is accepted (see marking scheme).
                      −2  K         −3  K     cp  m =           =                    = 224  
              2.27 10  s  + 1.6 10  s                    T         2.94  K             K 
                                        
-   Experiment IPhO 2019                                                             Q1-1
+
+
+   Experiment IPhO 2019                                                             Q1-1
                                                                                     S2-6
                J               J                        J 
  c p  m = 226    c p = 390                 c p = 386          which is the correct
@@ -176,7 +186,9 @@ Which gives an error of 2.5% error compared to expected 385 
                                                                                  . We expect
                                                                           mK 
 a 1% systematic error (see appendix).
-   Experiment IPhO 2019                                                                       Q1-1
+
+
+   Experiment IPhO 2019                                                                       Q1-1
                                                                                               S2-7
 Part D: Thermal conductivity of multiple metals (1.0 points)
 
@@ -208,7 +220,9 @@ D.3 (0.7 points)
                               (Δ𝑇𝑐𝑢1 /Δ𝑥) + (Δ𝑇𝑐𝑢2 /Δ𝑥)         𝑊
       𝜅𝐴𝑙𝑢𝑚𝑖𝑛𝑢𝑚 = 𝜅𝐶𝑜𝑝𝑝𝑒𝑟 ⋅ 3                3          = 239 [    ]
                                        Δ𝑇𝐴𝑙 /Δ𝑥                𝑚⋅𝐾
-   Experiment IPhO 2019                                             Q1-1
+
+
+   Experiment IPhO 2019                                             Q1-1
                                                                     S2-8
 Part E: The Wiedemann-Franz law (0.5 points)
 

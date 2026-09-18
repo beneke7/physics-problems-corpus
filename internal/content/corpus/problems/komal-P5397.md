@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, extremization, differential-element]
 ---
 
-A small object of charge $Q=10^{-9}$ C is fixed on an insulated stand, which is at a distance of $d=10$ cm from a big grounded metal plate. 
- $a)$ What is the surface charge density of the metal plate at its point $P$, which is the closest to the small object? 
- $b)$ What is the distance between $P$ and that point of the plate at which the surface charge density of the plate is one-third of the maximum surface charge density value? 
+A small object of charge $Q=10^{-9}$ C is fixed on an insulated stand, which is at a distance of $d=10$ cm from a big grounded metal plate.
+ $a)$ What is the surface charge density of the metal plate at its point $P$, which is the closest to the small object?
+ $b)$ What is the distance between $P$ and that point of the plate at which the surface charge density of the plate is one-third of the maximum surface charge density value?
  (4 pont)

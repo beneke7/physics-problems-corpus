@@ -34,11 +34,11 @@ Pf − P0 = −
 1
 2
 ρv2
-
+
 1
 (1 − At/A0)2
 − 1
-
+
 .
 We neglected the change in density of the air, which is a good approximation when the train
 is much slower than the speed of sound. We’ll treat fluid flow with changing density in T3.

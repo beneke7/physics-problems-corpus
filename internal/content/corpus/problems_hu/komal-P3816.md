@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3816. Egy lendületű test egy álló testnek ütközik. Lehet-e ennek az eredetileg álló testnek a lendülete az ütközés után ? Ha igen, milyen esetben? 
+P. 3816. Egy lendületű test egy álló testnek ütközik. Lehet-e ennek az eredetileg álló testnek a lendülete az ütközés után ? Ha igen, milyen esetben?
  Cornides István fizikaverseny, Révkomárom (Szlovákia)

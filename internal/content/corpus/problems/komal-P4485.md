@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Two alike balls are suspended next to each other and can swing in the plane of the figure on threads of length  . One ball is displaced by a distance of d and then released ( d ). The balls collide inelastically, their velocities decrease by a factor of k at each collision, with respect to the system of their centre of mass (0< k <1 is the collision number). 
+Two alike balls are suspended next to each other and can swing in the plane of the figure on threads of length  . One ball is displaced by a distance of d and then released ( d ). The balls collide inelastically, their velocities decrease by a factor of k at each collision, with respect to the system of their centre of mass (0< k <1 is the collision number).
 
- How will the balls move? What will the amplitude of the swings be after many collisions? 
+ How will the balls move? What will the amplitude of the swings be after many collisions?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4485-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4485-fig1.gif)

@@ -50,7 +50,6 @@ azonban különböznek:
 ahol a [A, BC] = B[A, C] + [A, B]C kommutátorazonosságot használtuk. Sok különböző „rendezési
 előírás” létezik. Ezek közül különösen szép a Weyl-rendezés, amelyről az Optika-jegyzetekben
 olvashatunk részletesebben; ez lényegében szimmetrizálja q és p sorrendjét.
-129 5. A kvantummechanika alapjai
 
 
    Ha azonban rögzítünk is egy rendezési előírást, akkor sem lehet minden Hamilton-operátort
@@ -105,11 +104,10 @@ Most az egydimenziós hullámmechanika néhány tényét tekintjük át.
                                                                         dW
                                               ϕψ ′′ − ψϕ′′ = 0 =
                                                                         dx
-130 5. A kvantummechanika alapjai
 
 
    adódik, ahol W a megoldások Wronski-determinánsa:
-                                                                    
+
                                                               ϕ ψ
                                    W = ϕψ ′ − ψϕ′ = det                .
                                                               ϕ′ ψ ′
@@ -161,7 +159,6 @@ Most az egydimenziós hullámmechanika néhány tényét tekintjük át.
                    ′                  ′                2m
                  ψm  (x2 )ψn (x2 ) − ψm (x1 )ψn (x1 ) = 2 (En − Em )      ψm ψn dx.
                                                         ℏ             x1
-131 5. A kvantummechanika alapjai
 
 
     Ha ψn (x)-nek nem lenne csomópontja x1 és x2 között, akkor a két oldal előjele ellentétes kellene

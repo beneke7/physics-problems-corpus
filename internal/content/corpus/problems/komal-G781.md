@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-Boil water in a large pot on the stove. Put some cool water in a thin-walled glass, then immerse the glass of water into the boiling water so that it does not touch the walls of the pot. Will the water in the glass boil if we wait for a long enough time? 
+Boil water in a large pot on the stove. Put some cool water in a thin-walled glass, then immerse the glass of water into the boiling water so that it does not touch the walls of the pot. Will the water in the glass boil if we wait for a long enough time?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G781-fig1.gif)
+![figure](../../figures/komal/figures/komal-G781-fig1.gif)

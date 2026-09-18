@@ -19,4 +19,4 @@ verification_status: pending
 
 All the resistors have equal resistance $R=1 \Omega$ Ammeters and the battery are ideal, $\mathcal{E}=1 \mathrm{~V}$. Determine the readings of all the ammeters.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr35-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr35-fig1.jpg)

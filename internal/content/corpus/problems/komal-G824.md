@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-A snake of length $\ell$ slithered half of its length into a narrow, straight tube. The outside end of the snake can curve arbitrarily on the horizontal ground. At which points in the plane can the snake's centre of mass be located, if the snake is modelled by a flexible rope of length $\ell$ with a uniform mass distribution? 
+A snake of length $\ell$ slithered half of its length into a narrow, straight tube. The outside end of the snake can curve arbitrarily on the horizontal ground. At which points in the plane can the snake's centre of mass be located, if the snake is modelled by a flexible rope of length $\ell$ with a uniform mass distribution?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G824-fig1.gif)
+![figure](../../figures/komal/figures/komal-G824-fig1.gif)

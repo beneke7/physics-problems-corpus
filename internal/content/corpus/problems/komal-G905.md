@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-A row boat is moving downstream at a speed of 8 m/s relative to the shore. A motorboat is coming upstream towards the row boat at a speed of 10 m/s relative to the water. Ten seconds after they meet, they are 160 meters apart. What is the speed of the river? 
+A row boat is moving downstream at a speed of 8 m/s relative to the shore. A motorboat is coming upstream towards the row boat at a speed of 10 m/s relative to the water. Ten seconds after they meet, they are 160 meters apart. What is the speed of the river?
  (3 pont)

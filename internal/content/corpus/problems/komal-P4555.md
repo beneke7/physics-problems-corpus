@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-There is a 4-m long, 1.2 kg chain, wound small, at the bottom of a 2-m deep lake. At least how much work is to be performed while the chain is pulled out totally from the lake, by holding one of its end, and moving it vertically? The density of the material of the chain is 3000 kg/m$^{3}$. 
+There is a 4-m long, 1.2 kg chain, wound small, at the bottom of a 2-m deep lake. At least how much work is to be performed while the chain is pulled out totally from the lake, by holding one of its end, and moving it vertically? The density of the material of the chain is 3000 kg/m$^{3}$.
  (4 pont)

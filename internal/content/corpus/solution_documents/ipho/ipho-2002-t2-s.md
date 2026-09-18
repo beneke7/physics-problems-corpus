@@ -59,7 +59,9 @@ charged sphere. They are separated by ls. The field strength at P(0,y) is:
 
 
                                             II-   1
-r     r    r
+
+
+r     r    r
 E p = E+ + E−            [+0.8 pts]
                                                                                 
                                                                                 
@@ -147,7 +149,9 @@ Vs = ∆V ≈                for l s >> rs .     [+ 0.5 pts]
 
 
                                             II-    2
-    The resistance between the two source spheres is:
+
+
+    The resistance between the two source spheres is:
 
            Vs   ρ
     Rs =      =
@@ -207,7 +211,9 @@ Vs = ∆V ≈                for l s >> rs .     [+ 0.5 pts]
 
 
                                                   II-   3
-The voltage difference across the detector spheres is:
+
+
+The voltage difference across the detector spheres is:
 
             Rd     ρI l l                 Rd
 Vd = V            = s s3 d

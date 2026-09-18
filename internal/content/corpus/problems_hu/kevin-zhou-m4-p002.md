@@ -34,5 +34,5 @@ Some questions about small oszcillációk with the felhajtóerő.
 
       (c) There are important effects that both of the previous parts neglect. What are some of them?
 
-                  01W
+                  01W
           Is the true oszcilláció frekvencia higher or lower than the one found here?

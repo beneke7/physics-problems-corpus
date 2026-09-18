@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201410"
 verification_status: pending
 ---
 
-What can you observe if you look through a piece of densely weaved tulle curtain, or through the fabric of an old-type (made of silk) open umbrella and watch a distant light source? 
+What can you observe if you look through a piece of densely weaved tulle curtain, or through the fabric of an old-type (made of silk) open umbrella and watch a distant light source?
  (3 pont)

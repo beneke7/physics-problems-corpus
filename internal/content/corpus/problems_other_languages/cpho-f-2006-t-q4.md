@@ -27,9 +27,9 @@ $$
 \mathrm{aT}^{2}=\frac{1}{5}\mathrm{~d}
 $$
 
-![图1：装置示意——源 K、虚线 O′O 上的阀门 a、b，平行板 M、M′，屏 NN′ 及坐标轴 Y，各段距离均为 l](../../sources/cpho-f/figures/cpho-f-2006-t-q4-fig1.png)
+![图1：装置示意——源 K、虚线 O′O 上的阀门 a、b，平行板 M、M′，屏 NN′ 及坐标轴 Y，各段距离均为 l](../../figures/cpho-f/figures/cpho-f-2006-t-q4-fig1.png)
 
-![图2：周期为 2T 的交变电压 u 随时间变化图，正向最大值 2U，负向最大值 −U](../../sources/cpho-f/figures/cpho-f-2006-t-q4-fig2.png)
+![图2：周期为 2T 的交变电压 u 随时间变化图，正向最大值 2U，负向最大值 −U](../../figures/cpho-f/figures/cpho-f-2006-t-q4-fig2.png)
 
 已知 AB 间的距离、B 到金属板左端的距离、金属板的长度以及金属板右端到屏的距离都是 $l$．不计重力的作用。不计带电粒子间的相互作用。打在阀门上的粒子被阀门吸收，不会影响以后带电粒子的运动。只考虑 MM′ 之间的电场并把它视为匀强电场。
 

@@ -90,9 +90,9 @@ m
 which is much larger than ∆v since we are assuming the sphere is heavy. Using the provided hint,
 the number of photons required to change the velocity significantly is order
 N ∼
- v0
+  v0
 ∆v
-2
+ 2
 ∼
 mc2
 kBT

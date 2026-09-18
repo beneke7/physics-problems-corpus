@@ -29,7 +29,6 @@ infinite vectors with a finite number of nonzero entries. Then the sequence
 is Cauchy but does not converge in V .
 
 Next, we consider operators on the Hilbert space.
-123 5. Fundamentals of Quantum Mechanics
 
 
  • Given an operator A : V → W , we may define the pullback operator A∗ : W ∗ → V ∗ by
@@ -83,7 +82,6 @@ Next, we consider operators on the Hilbert space.
  • The spectral theorem states that if A = A† , then all eigenvalues of A are real, and all eigenspaces
    with distinct ai are orthogonal. If the space is separable, every eigenspace has finite dimension,
    so we can construct an orthonormal eigenbasis by Gram-Schmidt.
-124 5. Fundamentals of Quantum Mechanics
 
 
   • An operator A is a projection if A2 = A. For example, A = |α⟩⟨α| is a projection if ⟨α|α⟩ = 1.
@@ -131,7 +129,6 @@ We gather here for later reference a few useful commutator identities.
     Defining adA (B) = [A, B], this means
                                               eA Be−A = eadA B
     which is exactly the desired identity.
-125 5. Fundamentals of Quantum Mechanics
 
 
  • The more straightforward way of proving this is to define
@@ -141,7 +138,7 @@ We gather here for later reference a few useful commutator identities.
     and finding a differential equation for F ; this is the same idea in different notation.
 
  • Glauber’s theorem states that if [A, B] commutes with both A and B, then
-                                                             
+
                                   A B                  1
                                  e e = exp A + B + [A, B] .
                                                        2
@@ -155,7 +152,7 @@ We gather here for later reference a few useful commutator identities.
 
    We therefore guess the solution
                                                         λ2
-                                                                        
+
                                   F (λ) = exp λ(A + B) + [A, B]
                                                         2
     This solution satisfies the differential equation as long as the argument of the exponential
@@ -190,7 +187,6 @@ We are now ready to state the postulates of quantum mechanics.
                                                d
                                           iℏ      |ψ(t)⟩ = H|ψ(t)⟩.
                                                dt
-126 5. Fundamentals of Quantum Mechanics
 
 
    4. If an observable A is measured when the system is in a state |α⟩, where A has an orthonormal

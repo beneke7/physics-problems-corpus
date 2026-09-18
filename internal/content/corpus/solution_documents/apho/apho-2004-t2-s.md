@@ -70,7 +70,8 @@ and
 
 
                                                                                                 1
-   • n = n1 at x=0
+
+   • n = n1 at x=0
    • n = n2 at x=a
 we get
               n12 − n22
@@ -118,7 +119,8 @@ incident angles.
 
 
                                                                                             2
-2.a. The condition for the light to propagate along the fiber is that x0 ≤ a . This means that:
+
+2.a. The condition for the light to propagate along the fiber is that x0 ≤ a . This means that:
          a sin θi
                     ≤a
            2      2
@@ -182,7 +184,8 @@ and
 
 
                                                                                                    3
-where
+
+where
                                             x
                    1         nαx 0         πa
              I1 =     Arc sin 1       =                                                               (17)
@@ -243,7 +246,8 @@ the maximal value:
 
 
                                                                                                                  4
-                          −1          2.c .n2
+
+                          −1          2.c .n2
            f M = ( ∆t )        =                                 (23)
                                    z .( n1 − n2 )
                                                     2

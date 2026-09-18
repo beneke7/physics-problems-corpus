@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-In a transparent medium the optical refractive index is changing in the direction of the axis $z$ of the coordinate system. Perpendicular to this, in the direction of the axis $x$ a thin light ray travels, and entering into the medium it is deflected towards the positive region of the axis $z$ along a parabolic path. The refractive index is $n_0$ at $z=0$ and $\sqrt{2}n_0$ at $z=h$. How does the refractive index depend on $z$? 
+In a transparent medium the optical refractive index is changing in the direction of the axis $z$ of the coordinate system. Perpendicular to this, in the direction of the axis $x$ a thin light ray travels, and entering into the medium it is deflected towards the positive region of the axis $z$ along a parabolic path. The refractive index is $n_0$ at $z=0$ and $\sqrt{2}n_0$ at $z=h$. How does the refractive index depend on $z$?
  (6 pont)

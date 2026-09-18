@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-In a bicycle race the first and the second riders are cycling at a constant speed of $v_0=50$ km/h. The first rider is 100 m ahead of the second. At a certain moment —close to the finish— the third cyclist begins to speed up and overtakes the second rider at a speed of $v_1 = 55$ km/h, and he is able to maintain this speed. How far is the finish from the point where the overtaking occurred if the first cyclist wins the race? 
+In a bicycle race the first and the second riders are cycling at a constant speed of $v_0=50$ km/h. The first rider is 100 m ahead of the second. At a certain moment —close to the finish— the third cyclist begins to speed up and overtakes the second rider at a speed of $v_1 = 55$ km/h, and he is able to maintain this speed. How far is the finish from the point where the overtaking occurred if the first cyclist wins the race?
  (4 pont)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4769. Az $A$ és $B$ pontok meghatározott - de különben tetszőleges - módon mozoghatnak. Hogyan fejezhető ki az $AB$  távolság felezőpontjának sebessége és gyorsulása az $A$ és $B$  pontok megfelelő adataival? 
+P. 4769. Az $A$ és $B$ pontok meghatározott - de különben tetszőleges - módon mozoghatnak. Hogyan fejezhető ki az $AB$  távolság felezőpontjának sebessége és gyorsulása az $A$ és $B$  pontok megfelelő adataival?
  Faragó Andor (1877-1944) feladata

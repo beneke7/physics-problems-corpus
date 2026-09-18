@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-An inductor with a self-inductance of 36 mH and an unknown one to be wound opposite are connected in series. The coefficient of coupling between the coils is given, . Find the self-inductance of the unknown coil to have a mmaximum current in the circuit. 
+An inductor with a self-inductance of 36 mH and an unknown one to be wound opposite are connected in series. The coefficient of coupling between the coils is given, . Find the self-inductance of the unknown coil to have a mmaximum current in the circuit.
  (5 pont)

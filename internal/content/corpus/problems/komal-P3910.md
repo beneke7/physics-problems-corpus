@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: flagged
 ---
 
-Calculate the current that flows through the battery shown in the figure. Find the resistor in which the dissipated power is the greatest. 
+Calculate the current that flows through the battery shown in the figure. Find the resistor in which the dissipated power is the greatest.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3910-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3910-fig1.gif)

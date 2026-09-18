@@ -20,7 +20,7 @@ verification_status: pending
 
 **6. TÖLTÉS A GYŰRŰN (7 pont)** — *Andreas Isacsson.*
 
-![A töltés a gyűrűn](../../sources/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
+![A töltés a gyűrűn](../../figures/nbpho/figures/nbpho-2016-charge-on-ring-fig1.png)
 
 Az $m$ tömegű és $q$ töltésű pontszerű részecske súrlódásmentesen csúszhat egy $r$ sugarú rögzített vízszintes körgyűrűn. A gyűrű síkjában egy másik $Q$ töltés helyezkedik el rögzített helyen, a gyűrű középpontjától $d$ távolságra, ahol $d<r$ (lásd az ábrát).
 

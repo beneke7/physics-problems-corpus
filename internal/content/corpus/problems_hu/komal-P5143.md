@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5143. Lehet-e olyan sötét éjszaka a Holdon, hogy csak a csillagok világítanak 
- $a)$ a Hold felénk eső oldalán, illetve 
+P. 5143. Lehet-e olyan sötét éjszaka a Holdon, hogy csak a csillagok világítanak
+ $a)$ a Hold felénk eső oldalán, illetve
  $b)$ a Hold túlsó oldalán?

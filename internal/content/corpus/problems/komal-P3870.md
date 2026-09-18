@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200602"
 verification_status: pending
 ---
 
-Some part of a light beam enters into a spherical water-drop. After refraction and then two reflections at the internal boundary of the drop the light beam leaves the drop at the same point where it entered initially. Find the angle between the initial incident and the final refracted ray. The refractive index of water is n =1.33. 
+Some part of a light beam enters into a spherical water-drop. After refraction and then two reflections at the internal boundary of the drop the light beam leaves the drop at the same point where it entered initially. Find the angle between the initial incident and the final refracted ray. The refractive index of water is n =1.33.
  (4 pont)

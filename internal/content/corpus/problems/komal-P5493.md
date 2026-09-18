@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, choose-reference-frame, model-reduction]
 ---
 
-The James Webb space telescope orbits the Sun, near the so-called $\mathrm{L}_2$ Lagrange point, synchronously with Earth. This point is located 1.5 million km from Earth along the Sun-Earth line, beyond the Earth, and is notable (along with the other Lagrange points) for the fact that bodies placed there ``more or less'' remain there ``at the same position'' as they move with the Earth. Show by a simple calculation that the $\mathrm{L}_2$ Lagrange point is really that far from the Earth. 
+The James Webb space telescope orbits the Sun, near the so-called $\mathrm{L}_2$ Lagrange point, synchronously with Earth. This point is located 1.5 million km from Earth along the Sun-Earth line, beyond the Earth, and is notable (along with the other Lagrange points) for the fact that bodies placed there ``more or less'' remain there ``at the same position'' as they move with the Earth. Show by a simple calculation that the $\mathrm{L}_2$ Lagrange point is really that far from the Earth.
  (4 pont)

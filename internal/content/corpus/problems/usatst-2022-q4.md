@@ -24,7 +24,7 @@ verification_status: pending
 ### 4.1 Collision with Wall
 
 In this part, you will launch a disk with mass $M$, radius $R$ and moment of inertia $I=\beta M R^{2}$ towards a fixed, long vertical wall. You specify the initial speed and counter-clockwise angular velocity of the disk, and the angle of its initial velocity incident to the normal of the wall. The program will simulate the collision and return the final values of these parameters after collision.
-![](usatst-2022-q4-fig01.png)
+![](../../figures/usatst/figures/usatst-2022-q4-fig01.png)
 
 The parameters you specify must be in the following ranges:
 

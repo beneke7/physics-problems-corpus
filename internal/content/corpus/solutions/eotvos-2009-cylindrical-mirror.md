@@ -24,14 +24,14 @@ A hengertükör leképezésére alkalmazhatjuk a gömbtükörre érvényes leké
 (Radnai Gyula)
 Megoldás. A feladatot abban a középiskolai közelítésben oldjuk meg, amire a befejez® mondat hatalmaz fel
 bennünket: alkalmazhatjuk a gömbtükörre érvényes leképezési törvényt. Tudjuk, hogy ez szigorúan véve sak az optikai
-tengellyel közel párhuzamos, ún. paraxiális sugarakkal történ® leképezésre igaz, de a középiskolában  és a mindennapi
-gyakorlatban  számos esetben alkalmazzuk olyankor is, amikor a leképez® sugarak akár 20◦
+tengellyel közel párhuzamos, ún.  paraxiális  sugarakkal történ® leképezésre igaz, de a középiskolában   és a mindennapi
+gyakorlatban   számos esetben alkalmazzuk olyankor is, amikor a leképez® sugarak akár 20◦
 -os szögben hajlanak
 az optikai tengelyhez. A leképezési törvénynek erre az esetre módosított, de a középiskolában nem tanított alakját
-megtalálhatja az érdekl®d® Olvasó lapunk 174. oldalán a Lehet egy közelítéssel kevesebb? ím¶ ikkben.
+megtalálhatja az érdekl®d® Olvasó lapunk 174. oldalán a  Lehet egy közelítéssel kevesebb?  ím¶ ikkben.
 Mindenekel®tt azt kell észrevennünk, hogy a láng képe a leírt kísérletben mindig valódi kép lesz, ami valahol a
 tükröz® felület el®tt, nem pedig mögötte keletkezik. (Most ugyanis a tárgytávolság legalább 4 m, míg a fókusztávolság
- a sugár fele  3 m.) E valódi kép helye azonban attól függ, honnan nézünk rá a vázára. A láng képe mindig ugyanolyan
+  a sugár fele   3 m.) E valódi kép helye azonban attól függ, honnan nézünk rá a vázára. A láng képe mindig ugyanolyan
 magas, mint maga a láng, mert függ®legesen a hengertükör se nem nagyít, se nem ki sinyít.
 A láng képének szélessége persze nagyobb és kisebb is lehet, mint maga a láng. Egyenl® vele sak akkor, amikor
 a láng éppen a kétszeres fókusztávolságban helyezkedik el, ekkor a nagyítás egységnyi. A kép fordított állású, a váza
@@ -39,7 +39,7 @@ tengelyét®l tehát ugyanúgy 2 m-re keletkezik, mint ahol a láng van, éppen 
 Máris válaszolhatunk az a) kérdésre: olyan irányból kell nézni a vázára, hogy az egységnyi nagyítású, valódi képet
 létrehozó sugarak jussanak a meg
 gyel® szemébe. Feltételezve, hogy a hengertükör viszonylag nagy nyílásszögben is
-tökéletes leképezést valósít meg  ahogy ezt a gömbtükröknél a középiskolában feltételezzük , a képet és a tárgyat
+tökéletes leképezést valósít meg   ahogy ezt a gömbtükröknél a középiskolában feltételezzük  , a képet és a tárgyat
 összeköt® egyenesre (függ®leges síkra) mer®leges irányból is nézhetjük a jelenséget (2. ábra). Innen nézve, éppen
 egymás mellett látjuk a lángot (L) és annak (vízszintes irányban fordított, függ®leges irányban egyenes állású) valódi
 képét (L′
@@ -97,6 +97,6 @@ k
 1
 f
 összefüggés helyett egy pontosabb közelítést alkalmazunk, amely már nem sak a paraxiális
-sugarak  lineáris  képalkotását veszi 
+sugarak   lineáris   képalkotását veszi
 gyelembe, akkor lehet®vé válik a gömbi leképezés hibájának, az ún. szférikus
 aberrá iónak a kvantitatív tárgyalása is.

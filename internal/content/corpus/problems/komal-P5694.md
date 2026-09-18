@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-We use a conventional diffraction grating to produce the diffraction pattern of the light from a sodium vapour lamp. Estimate how many thin slits the grating consists of if we can just resolve the two spectral lines of the sodium lamp with wavelengths of $589.6~\mathrm{nm}$ and $590.0~\mathrm{nm}$ in the first order. 
+We use a conventional diffraction grating to produce the diffraction pattern of the light from a sodium vapour lamp. Estimate how many thin slits the grating consists of if we can just resolve the two spectral lines of the sodium lamp with wavelengths of $589.6~\mathrm{nm}$ and $590.0~\mathrm{nm}$ in the first order.
  (5 pont)

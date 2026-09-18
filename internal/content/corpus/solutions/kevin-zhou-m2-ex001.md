@@ -111,7 +111,7 @@ g =⇒ F = (M1 + M2 + M3)
 M3
 M2
 g.
-[3] Problem 4.  W 1 0USAPhO 2017, problem A1.
+[3] Problem 4.   W 1 0USAPhO 2017, problem A1.
 2 Balancing Torques
 Idea 4
 A static rigid body will remain static as long as the total force on it vanishes, and the total

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201503"
 verification_status: pending
 ---
 
-How many times greater mass of object could be lifted by a man on another planet which has the same density as the Earth but which has half the radius of the Earth? 
+How many times greater mass of object could be lifted by a man on another planet which has the same density as the Earth but which has half the radius of the Earth?
  (3 pont)

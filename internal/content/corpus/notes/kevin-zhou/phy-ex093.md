@@ -30,7 +30,6 @@ Since the Hamiltonian is time-independent, HS = HH . To check this, note that
                           HH =               = S                           = HS
                                        2                   2
 where we plugged in the known time dependence of pH and xH .
-248 11. Time Dependent Perturbation Theory
 
 
 Now we turn to the interaction picture. We leave S subscripts implicit.
@@ -69,7 +68,7 @@ Now we turn to the interaction picture. We leave S subscripts implicit.
     and plugging this equation into itself gives a series solution for W (t), the Dyson series.
 
  • A succinct way to write the full result is by a time-ordered exponential,
-                                                 Z t              
+                                                  Z t
                                                    1      ′      ′
                                 W (t) = T exp           dt H1I (t ) .
                                                   iℏ 0
@@ -90,7 +89,6 @@ H0 has a discrete spectrum, H0 |n⟩ = En |n⟩, with initial state |i⟩.
                                         ′         1         ′
          |ψI (t)⟩ = |i⟩ +      dt H1I (t )|i⟩ +          dt        dt′′ H1I (t′ )H1I (t′′ )|i⟩ + · · · .
                           iℏ 0                  (iℏ)2 0        0
-249 11. Time Dependent Perturbation Theory
 
 
  • Our goal is to calculate the coefficients
@@ -150,7 +148,6 @@ H0 has a discrete spectrum, H0 |n⟩ = En |n⟩, with initial state |i⟩.
    where K need not be Hermitian. As a result, the expression for cn has two terms, with
    denominators of ωni ± ω0 . Therefore, the effect of a sinusoidal driving can be very large when
    it is on resonance with a transition.
-250 11. Time Dependent Perturbation Theory
 
 
  • When ωni ≈ ω0 , the K term dominates, so we may make the “rotating wave approximation”
@@ -210,7 +207,6 @@ Next, we consider a continuum of final states, which yields Fermi’s golden rul
  • The transition probability grows linearly in time, which fits with our classical intuition (i.e. for
    absorption of light), as the system has a constant ‘cross section’. For long times, the probability
    exceeds unity, again signaling that first order perturbation theory breaks down.
-251 11. Time Dependent Perturbation Theory
 
 
   • For very early times, the rule also fails, and we recover the t2 dependence. To do this, note
@@ -256,9 +252,9 @@ two-photon absorption or emission, and photon scattering are second order.
                 cn (t) =            dt     e                        ⟨n|H1 |k⟩⟨k|H1 |i⟩
                          (iℏ)2 0                         iωki
                                          k
-                                           iωni t
+                                            iωni t
                                                     − 1 eiωnk t − 1
-                                                                      
+
                             1 X 1          e
                        =                                −               ⟨n|H1 |k⟩⟨k|H1 |i⟩.
                          (iℏ)2      iωki      iωni             iωnk
@@ -271,7 +267,6 @@ two-photon absorption or emission, and photon scattering are second order.
     second term is just an irrelevant transient. (It is a consequence of abruptly turning on the
     perturbation at t = 0 starting from an unperturbed state; the proper way to do the calculation
     is to start at t = −∞ with an incoming wavepacket.)
-252 11. Time Dependent Perturbation Theory
 
 
   • Specifically, the result ends up being the same as Fermi’s golden rule, except that the relevant
@@ -328,7 +323,6 @@ We apply time-dependent perturbation theory to scattering, first reviewing class
                                         dw      dσ
                                              =     v dx n1 n2 .
                                         dΩ     dΩ
-253 11. Time Dependent Perturbation Theory
 
 
 We now set up the same situation in quantum mechanics.
@@ -344,7 +338,7 @@ We now set up the same situation in quantum mechanics.
    These are the eigenstates of H0 . We take the initial state to be |ki ⟩.
 
  • The first order transition amplitude to |k⟩ is
-                                               
+
                     (1)       2 iωt/2 sin(ωt/2)                            ℏ 2
                    ck (t) = e                     ⟨k|U (x)|ki ⟩,     ω=      (k − ki2 ).
                              iℏ           ω                               2m
@@ -372,7 +366,7 @@ We now set up the same situation in quantum mechanics.
  • Plugging everything in and using the symmetric convention for the Fourier transform,
 
                     2π m 2 ∞                                              2
-                              Z
+                                Z
               dσ                                      e (k − ki )|2 = 2πm |U
                   = 2               dk k 2 δ(k − ki )|U                 4
                                                                             e (kf − ki )|2
@@ -391,6 +385,5 @@ We now set up the same situation in quantum mechanics.
    a region of radius about tv about the origin, as we have reached a “steady state” of particles
    coming in and being scattered out. This lends some intuition for why scattering rates can be
    computed using energy eigenstates alone.
-254 11. Time Dependent Perturbation Theory
 
 

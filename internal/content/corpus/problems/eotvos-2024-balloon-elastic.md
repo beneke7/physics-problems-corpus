@@ -26,6 +26,6 @@ Egy léggömb elasztikus viselkedése a fal rugalmas energiája segítségével 
 
 A kezdetben ernyedt állapotú léggömböt egy kompresszorhoz csatlakoztatott T-alakú elosztó egyik kivezetésére kötjük, a másik kivezetésre pedig egy vékony üvegcsőből készült vizes manométert rögzítünk az ábrán látható módon. A víz a cső 20 cm hosszú szakaszát foglalja el. A kompresszor elindítása után azt tapasztaljuk, hogy a folyadékszintek az eredeti helyzetükhöz képest lassan 5 cm-rel mozdulnak el, mialatt a léggömb
 
-![figure](sources/eotvos/figures/eotvos-2024-balloon-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2024-balloon-fig1.jpg)
 
 átmérője 5%-kal növekszik. Mi fog történni ezután?

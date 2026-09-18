@@ -237,11 +237,11 @@ parallel, with the two systems being in series. Thus, the net impedance is
 Z =
 1
 2
-
+
 iωL +
 1
 iωC
-
+
 ,
 which has magnitude 1
 2ωC |(ω/ω0)2 − 1|. Thus,
@@ -307,8 +307,8 @@ we account for this, we get a sensible result Q ∝
 σ.
 By the way, in practice σ itself will depend on both frequency and temperature. This is the
 sort of thing that one must account for in precision physics experiments with LC circuits.
-[3] Problem 12.  W 1 0USAPhO 2002, problem A1.
-[3] Problem 13.  m 1 0USAPhO 2011, problem B1.
+[3] Problem 12.   W 1 0USAPhO 2002, problem A1.
+[3] Problem 13.   m 1 0USAPhO 2011, problem B1.
 3 Electrical Engineering
 These next problems are about using RLC circuits for practical purposes. They don’t require
 anything not already introduced in the previous section, but they represent a different way of
@@ -345,11 +345,11 @@ VB − VA = Vi
 iωCR′
 !
 =
-
+
 −
 Vi
 2
-
+
 1 − 1
 iωCR′
 1 + 1

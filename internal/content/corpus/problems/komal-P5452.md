@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns, extremization]
 ---
 
-The initial mass of a photon rocket when it starts moving along a straight path is $m_0$. Determine the speed of the rocket as a function of the instantaneous rest mass of the rocket. 
+The initial mass of a photon rocket when it starts moving along a straight path is $m_0$. Determine the speed of the rocket as a function of the instantaneous rest mass of the rocket.
  (4 pont)

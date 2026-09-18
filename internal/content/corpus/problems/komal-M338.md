@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201401"
 verification_status: flagged
 ---
 
-A horizontal towel rail can hold the towel even if the two parts of the towel hanging on the two sides of the rail are different (see the figure ). Measure how the ratio of $_{1}$/ $_{2}$, when the towel is just about to slip on the rail, depends on the wetness of the towel (the amount of soaked up water). 
+A horizontal towel rail can hold the towel even if the two parts of the towel hanging on the two sides of the rail are different (see the figure ). Measure how the ratio of $_{1}$/ $_{2}$, when the towel is just about to slip on the rail, depends on the wetness of the towel (the amount of soaked up water).
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M338-fig1.gif)
+![figure](../../figures/komal/figures/komal-M338-fig1.gif)

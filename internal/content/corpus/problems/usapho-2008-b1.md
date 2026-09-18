@@ -26,7 +26,7 @@ techniques: [conservation-laws, smart-coordinates]
 ## Question B1
 
 A platform is attached to the ground by an ideal spring of constant $k$; both the spring and the platform have negligible mass; assume that your mass is $m_{p}$. Sitting on the platform is a rather large lump of clay of mass $m_{c}=r m_{p}$, with $r$ some positive constant that measures the ratio $m_{c} / m_{p}$. You then gently step onto the platform, and the platform settles down to a new equilibrium position, a vertical distance $D$ below the original position. Throughout the problem assume that you never lose contact with the platform.
-![](usapho-2008-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2008-b1-fig01.png)
 
 a. You then slowly pick up the lump of clay and hold it a height $h$ above the platform. Upon releasing the clay you and the platform will oscillate up and down; you notice that the clay strikes the platform after the platform has completed exactly one oscillation. Determine the numerical value of the ratio $h / D$.
 b. Assume the resulting collision between the clay and the platform is completely inelastic. Find the ratio of the amplitude of the oscillation of the platform after the collision $\left(A_{\mathrm{f}}\right)$ to the amplitude of the oscillations of the platform before the collision $\left(A_{\mathrm{i}}\right)$. Determine $A_{\mathrm{f}} / A_{\mathrm{i}}$ in terms of the mass ratio $r$ and any necessary numerical constants.

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Two identical solenoids are closely packed with a common axle. The cross section of the coils is A and there are n turns of the coil in the unit length. What is the force between them if we have 
+Two identical solenoids are closely packed with a common axle. The cross section of the coils is A and there are n turns of the coil in the unit length. What is the force between them if we have
 
- a ) current I in both of them? 
+ a ) current I in both of them?
 
- b ) current I $_{1}$ in one and I $_{2}$ in the other? 
+ b ) current I $_{1}$ in one and I $_{2}$ in the other?
 
  (5 pont)

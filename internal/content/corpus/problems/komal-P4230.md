@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, exploit-symmetry]
 ---
 
-Uniformly charged square-shaped sheets of sides  a and of charge  Q , are used to build a cube. What is the electrostatic repelling force exerted on each face of the cube? 
+Uniformly charged square-shaped sheets of sides  a and of charge  Q , are used to build a cube. What is the electrostatic repelling force exerted on each face of the cube?
  (5 pont)

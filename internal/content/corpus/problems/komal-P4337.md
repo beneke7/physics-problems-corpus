@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201104"
 verification_status: pending
 ---
 
-According to the ``Atlas of explorations and inventions'' the the viking ships were 24 m long, 5.2 m wide and they emerged into the water to a depth of 1.8 m. Estimate the carrying capacity of the ships if the depth to which they emerged increased by 10% when they were fully loaded. 
+According to the ``Atlas of explorations and inventions'' the the viking ships were 24 m long, 5.2 m wide and they emerged into the water to a depth of 1.8 m. Estimate the carrying capacity of the ships if the depth to which they emerged increased by 10% when they were fully loaded.
  (3 pont)

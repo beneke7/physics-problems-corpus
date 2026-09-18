@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201005"
 verification_status: pending
 ---
 
-In a hollow hemisphere a thin ring rolls down without slipping, starting from one endpoint of one of the horizontal diameters. At what speed does it reach the bottom point of the sphere? The radius of the ring is r =2 cm and the radius of the hemisphere is n =4 times as much as that of the ring. The hemisphere is fixed and the plane of its cross section is horizontal. 
+In a hollow hemisphere a thin ring rolls down without slipping, starting from one endpoint of one of the horizontal diameters. At what speed does it reach the bottom point of the sphere? The radius of the ring is r =2 cm and the radius of the hemisphere is n =4 times as much as that of the ring. The hemisphere is fixed and the plane of its cross section is horizontal.
  (4 pont)

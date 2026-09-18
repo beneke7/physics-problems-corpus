@@ -57,7 +57,8 @@ electrons by random potential, as well as the electron spin.
 
 
                                          1
-         case.
+
+         case.
 
  Solution: In the stationary regime, the acceleration vanishes. Hence
                                       ⃗ +E
@@ -96,7 +97,8 @@ electrons by random potential, as well as the electron spin.
 
 
                                       2
-    and L the effective width and length of the sample, respectively.
+
+    and L the effective width and length of the sample, respectively.
 
 
  Solution: The Hall voltage VH = Ey W . The current in the −x direction is
@@ -143,7 +145,8 @@ electrons by random potential, as well as the electron spin.
 
 
                                        3
-    its electrostatic Coulomb energy at the corresponding filling factor. Deter-
+
+    its electrostatic Coulomb energy at the corresponding filling factor. Deter-
     mine the scaling exponent α of the amount of energy gain for each electron
     ∆U(B) ∝ B α .
 
@@ -189,7 +192,8 @@ electrons by random potential, as well as the electron spin.
 
 
                                       4
-   imperfections, hence the Hall resistance remains quantized for a finite range
+
+   imperfections, hence the Hall resistance remains quantized for a finite range
    of B.)
 
 
@@ -230,7 +234,8 @@ Grading: 2 points for the final expression.
 
 
                                       5
-     (ii) (2 point) The electrons spatially confined in the whirlpools (or vor-
+
+     (ii) (2 point) The electrons spatially confined in the whirlpools (or vor-
           tices) have a large kinetic energy. Using the uncertainty relation, es-
           timate the order of magnitude of the kinetic energy. (This amount
           would also be the additional energy penalty if we put two electrons in
@@ -277,7 +282,8 @@ Grading: 2 points for the final expression.
     a sufficiently small time interval τ obeys Poisson probability distribution
 
                                            6
-  with parameter λ
+
+  with parameter λ
                                             λk e−λ
                                P (nτ = k) =        ,                   (1)
                                               k!
@@ -326,7 +332,8 @@ son distribution and 1 point for the final expression for the charge current.
 
 
                                         7
-        in terms of λ and τ .
+
+        in terms of λ and τ .
 
 Solution: Similarly, the noise can be related to the averaged charge fluctua-
 tions during the time interval τ .
@@ -369,7 +376,8 @@ Grading: 1 point for the final expression.
 
 
                                               8
-Figure 1: (a) Sketch of the experimental setup for the observation of the FQHE.
+
+Figure 1: (a) Sketch of the experimental setup for the observation of the FQHE.
 As indicated, a current I is passing through a two-dimensional system in the lon-
 gitudinal direction with an effective length L. The Hall voltage VH is measured in
 the transverse direction with an effective width W . In addition, a uniform mag-

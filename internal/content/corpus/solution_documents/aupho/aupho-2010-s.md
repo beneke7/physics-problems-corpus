@@ -36,7 +36,9 @@ MARKS
          Section A        10 multiple choice questions    10 marks
          Section B         5 written answer questions     50 marks
                                                          60 marks
-Australian Science Olympiads                       2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                       2010 Physics National Qualifying Examination
 
                                         Section A
                                  Multiple Choice — 1 mark each
@@ -79,7 +81,9 @@ MARKS
 
 
 Page 2                                                     c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
   Question 3
    Lucy is measuring the acceleration due to gravity in Melbourne by dropping a ball through a
@@ -132,7 +136,9 @@ Page 2                                                     c Australian Science 
 
 
 Page 3                                                    c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
   Question 6
 
@@ -183,7 +189,9 @@ Page 3                                                    c Australian Science I
 
 
 Page 4                                                    c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                        2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                        2010 Physics National Qualifying Examination
 
   Question 8
 
@@ -228,7 +236,9 @@ Page 4                                                    c Australian Science I
 
 
 Page 5                                                     c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                      2010 Physics National Qualifying Examination
 
  Question 10
                                                                      y HmL
@@ -286,7 +296,9 @@ shape shown by the dashed curve.
     y = 0 m at t = 3 s.
 
 Page 6                                                                       c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                             2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                             2010 Physics National Qualifying Examination
 
                                             Section B
                                       Written Answer Questions
@@ -338,35 +350,37 @@ this — if you complete it in the time suggested consider that you’ve done ve
 
       (b) Find Q = Ki − Kf , the total kinetic energy before the collision minus the total kinetic
           energy after the collision. Show that this is of the form
-                                                                            
+
                                            Q = A Bp21 − (p2x − Cp1 )2 − p22y
 
           and give expressions for A, B and C.
 
 
 Page 7                                                          c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
          Solution: (3 marks)
                      Q = Ki − Kf
                          p21   p2    p22y   p2     p2    2p1 p2x     p22y
                        =     − 2x −       − 1 − 2x +              −
-                         2m 2m   2m 2M            2M      2M        2M 
+                         2m 2m    2m 2M            2M      2M        2M
                          M +m       2     M −  m   2   2mp 1 p 2x    2
                        =          −p2x +          p +             − p2y
                           2M m            M +m 1        M +m
-                                                                2                         !
+                                                                 2                         !
                                                                           m2
-                                               
+
                          M +m M −m 2                    mp1
                        =                  p − p2x −                +             p2 − p22y
                           2M m    M +m 1               M +m           (M + m)2 1
-                                          2                       2        !
+                                            2                         2        !
                          M +m         M         2             mp1           2
                        =                       p1 − p2x −                − p2y
                           2M m      M +m                    M +m
 
-         Therefore                                                  2
+         Therefore                                                    2
                                  M +m                     M                           m
                               A=      ,         B=                        ,    C=        .
                                  2M m                    M +m                       M +m
@@ -414,7 +428,9 @@ Page 7                                                          c Australian Sci
          Solution: (1 mark) The shaded region in part 11d.
 
 Page 8                                                            c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                       2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                       2010 Physics National Qualifying Examination
 
     Marker’s comments:
 
@@ -428,7 +444,9 @@ Page 8                                                            c Australian S
 
 
 Page 9                                                     c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                                                    2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                    2010 Physics National Qualifying Examination
 
  Question 12                                                                Suggested time: 30 minutes
    Charlotte and Ben have lots of old 100 W incandescent light bulbs that they don’t like to see
@@ -490,7 +508,9 @@ Page 9                                                     c Australian Science 
 
 
 Page 10                                                                                 c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                       2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                       2010 Physics National Qualifying Examination
 
     They choose a single bulb to use for all of their measurements. They don’t have to worry about
     damaging it as the maximum output voltage of the transformer is the mains voltage, on which
@@ -545,7 +565,9 @@ Page 10                                                                         
 
 
 Page 11                                                    c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
      (d) Briefly suggest things that Charlotte and Ben could have done with the equipment they
          had to improve their results.
@@ -576,7 +598,9 @@ Page 11                                                    c Australian Science 
 
 
 Page 12                                                   c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
  Question 13                                                                Suggested time: 20 minutes
 
@@ -623,7 +647,9 @@ Page 12                                                   c Australian Science I
 
 
 Page 13                                                  c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                           2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                           2010 Physics National Qualifying Examination
 
      (b) The Earth is surrounded by an atmosphere that is thin compared to its radius but still
          many kilometres thick, so air can flow up or down as well as across the surface of the
@@ -669,7 +695,9 @@ Page 13                                                  c Australian Science In
 
 
 Page 14                                                         c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
      (c) So far the effect of the rotation of the Earth has been neglected. It can be included by
          considering the Coriolis force which appears to act on all bodies in rotating frames of
@@ -713,7 +741,9 @@ Page 14                                                         c Australian Sci
           hemispheres. See diagram for part 13c.
 
 Page 15                                                   c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                     2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                     2010 Physics National Qualifying Examination
 
     Marker’s comments:
 
@@ -736,7 +766,9 @@ Page 15                                                   c Australian Science I
 
 
 Page 16                                                  c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
  Question 14                                                             Suggested time: 40 minutes
    A rare waist–necked giraffe has a mild gastric upset, and it is necessary that it be treated with
@@ -772,25 +804,25 @@ Page 16                                                  c Australian Science In
           Substituting the second equation into the first gives
 
                                                                        h2
-                                                                        
+
                                 V = VA 1 + β TG − TA − (TG − TA ) 2
                                                                        N
-                                                          
-                                                                h2  
+
+                                                                h2
                                    = VA 1 + β(TG − TA ) 1 − 2
                                                                 N
-                                                                    
+
                                               β(TG − TA ) 2       2
                                    = VA 1 +                (N − h ) .
                                                   N2
 
 
           Now, V = 4πr 3 /3 = πd3 /6, so
-                                                                      
+
                                   1 3 1 3           β(TG − TA ) 2    2
                                     πd = πdA 1 +               (N − h )
                                   6       6             N2
-                                                                   1/3
+                                                                     1/3
                                                  β(TG − TA ) 2    2
                                       d = dA 1 +            (N − h )     .
                                                      N2
@@ -804,7 +836,9 @@ Page 16                                                  c Australian Science In
 
 
 Page 17                                                   c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                           2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                           2010 Physics National Qualifying Examination
 
      (b) Write down the approximate expression for d.
 
@@ -814,11 +848,11 @@ Page 17                                                   c Australian Science I
                                                             (N − h2 )
                                                     3N 2
           is small, we get
-                                                   1/3
+                                                     1/3
                                  β(TG − TA ) 2    2          β(TG − TA ) 2
                               1+            (N − h )     ≈1+            (N − h2 )
                                     N2                          3N 2
-          so                                                 
+          so
                                           β(TG − TA ) 2    2
                                                                      h     γ 2     2
                                                                                       i
@@ -830,7 +864,7 @@ Page 17                                                   c Australian Science I
     The width of the neck of a waist–necked giraffe is given by
 
                                                           N 2
-                                                           
+
                                        w =M +ζ h−               ,
                                                           2
 
@@ -847,7 +881,7 @@ Page 17                                                   c Australian Science I
          these two. Express your condition as an inequality with 0 on one side.
 
           Solution: (2 marks) We have
-                                                                      2
+                                                                        2
                                                             N
                                                  w =M +ζ h−
                                                             2
@@ -857,18 +891,18 @@ Page 17                                                   c Australian Science I
           Substituting our expressions for each of these, we want
 
                                                                              N 2
-                                                                              
+
                                                          γ 2 h
                                                                  2
                                                                    i
                                             (M − χ) 1 + (N − h ) < M + ζ h −
                                                          3                   2
-                                                                2
+                                                                  2
                    Mγ 2               χγ 2                     N
                 M+    (N − h2 ) − χ −    (N − h2 ) − M − ζ h −       <0
                     3                  3                       2
                                                                N 2
-                                                                
+
                                       Mγ 2       2
                                           (N − h ) − χ − ζ h −       < 0.
                                        3                       2
@@ -877,7 +911,9 @@ Page 17                                                   c Australian Science I
 
 
 Page 18                                                         c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                       2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                       2010 Physics National Qualifying Examination
 
      (d) In order that the lozenge not get stuck, the inequality you wrote must hold for all h
          between N and 0. If you solve the equation produced by making your inequality into an
@@ -898,7 +934,7 @@ Page 18                                                         c Australian Sci
           Solution: (4 marks) The equation
 
                                                                       N 2
-                                                                       
+
                                              Mγ 2
                                   δ(h) = −      (N − h2 ) + χ + ζ h −
                                               3                       2
@@ -910,7 +946,7 @@ Page 18                                                         c Australian Sci
           Rewriting δ(h) in canonical form, we get
 
                                                                  M γN 2         ζN 2
-                                                                                  
+
                                        Mγ         2
                              δ(h) =        + ζ h − ζN h + −              +χ+
                                         3                           3            4
@@ -919,16 +955,16 @@ Page 18                                                         c Australian Sci
           b2 − 4ac = 0. Hence our condition gives that
 
                                        M γN 2            ζN 2
-                                                           
+
                 2 2       Mγ
               ζ N −4          +ζ     −         + χcrit +         =0
                            3              3                4
-                                                                          
+
                            2 2       2 Mγ            ζ    Mγ          Mγ
                           ζ N − 4N           +ζ        −         =4         + ζ χcrit
                                          3           4     3           3
                                                                      3ζ 2 N 2
-                                                                                              
+
                                                                                         ζ   Mγ
                                                            χcrit =             − N2       −
                                                                    4M γ + 12ζ           4    3
@@ -936,7 +972,7 @@ Page 18                                                         c Australian Sci
 
           so
                                                          3ζ 2 N 2
-                                                                                        
+
                                                                                ζ   Mγ
                           dA,max = M − χcrit = M −                + N2           −           .
                                                        4M γ + 12ζ              4    3
@@ -945,7 +981,9 @@ Page 18                                                         c Australian Sci
 
 
 Page 19                                                    c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                      2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                      2010 Physics National Qualifying Examination
 
      (f) Check your solution for the limiting cases of ζ → 0 and ζ → ∞. Do your values make
          sense in these limits (they should)? Explain why or why not.
@@ -953,21 +991,21 @@ Page 19                                                    c Australian Science 
           Solution: (4.5 marks) When ζ → 0, the giraffe’s neck has constant width M . The lozenge
           attains its maximum diameter at the base of the giraffe’s neck (h = 0), and this size is
                                                           γN 2
-                                                               
+
                                           dmax = dA 1 +           .
                                                             3
           Taking our above expression for dA,max , we get in the limit as ζ → 0,
                                                               γN 2
-                                                                  
+
                                           dA,max → M 1 −
                                                                3
           so we have
                                                    γN 2        N2
-                                                               
+
                                       dmax → M 1 −         1+γ
                                                      3         3
-                                                   2
-                                                   γ N 4 
+                                                    2
+                                                   γ N 4
                                            =M 1−
                                                      9
                                            ≈M
@@ -983,32 +1021,32 @@ Page 19                                                    c Australian Science 
           When ζ → ∞, the giraffe’s neck is very wide at every point except at h = N/2, where it
           has width M . At this height, the lozenge has diameter
                                                   γ 3N 2              γN 2
-                                                                        
+
                                    dN/2 = dA 1 +           = dA 1 +          .
                                                    3 4                  4
           In the limit as ζ → ∞, we have
 
                                        3N 2 ζ      4M γ −1 N 2 ζ    N 2M γ
-                                                       
+
                             dA,max → M −        1+          +     −
                                         12          12ζ        4       3
                                         2                  2     2
-                                                    
+
                                        N ζ        Mγ      N ζ   N Mγ
                                    ≈M−        1−        +     −
                                         4         3ζ       4      3
                                               2
-                                               
+
                                           γN
                                    =M 1−
                                             4
           Thus the lozenge’s width at the narrow point of the neck goes to
                                                      γN 2        γN 2
-                                                                   
+
                                       dN/2 → M 1 −            1+
                                                        4           4
                                                       2   4
-                                                           
+
                                                      γ N
                                            =M 1−
                                                       16
@@ -1019,7 +1057,9 @@ Page 19                                                    c Australian Science 
           also, as the lozenge only just makes it through.
 
 Page 20                                                   c Australian Science Innovations 2010 ABN 81731558309
-Australian Science Olympiads                    2010 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                    2010 Physics National Qualifying Examination
 
     Marker’s comments:
 

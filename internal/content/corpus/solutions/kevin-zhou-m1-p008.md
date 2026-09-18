@@ -72,7 +72,7 @@ n=0
 n(n − 1)antn
 + nantn
 + antn+2
-
+
 = 0.
 Simplifying and shifting the sum as in part (a) gives
 ∞ X
@@ -106,10 +106,10 @@ x(t) =
 m=0
 (−1)m
 (m!)2
-
+
 t
 2
-2m
+ 2m
 .
 This function is known as the Bessel function of the first kind, of zeroth order, J0(t).
 2 Tricks

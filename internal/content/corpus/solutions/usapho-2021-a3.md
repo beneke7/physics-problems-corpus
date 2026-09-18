@@ -123,7 +123,7 @@ c. Assuming the radius is the value you found in part (b), how much energy is st
 field of the electron? Express your answer in terms of E0 = mc2 and the fine structure constant,
 α =
 q2
-4π0~c
+4π 0~c
 ≈
 1
 137
@@ -137,10 +137,10 @@ X
 i
 qiVi
 where Vi is the electric potential at qi. In this case, the total charge is q, and all of the
-charge is at potential q/4π0R, so
+charge is at potential q/4π 0R, so
 UE =
 q2
-8π0R
+8π 0R
 .
 Using the result of part (b),
 UE =
@@ -151,7 +151,7 @@ Note that you can’t get this answer by dimensional analysis alone, since α is
 (However, if you found R by dimensional analysis, and additionally reasoned that UE could
 Copyright ©2021 American Association of Physics Teachers
 2021 USAPhO Part A 10
-depend only on q, 0, and R, then you could derive UE ∼ αE0, for partial credit.)
+depend only on q,  0, and R, then you could derive UE ∼ αE0, for partial credit.)
 d. Roughly estimate the total energy stored in the magnetic field of the electron, in terms of E0 and
 α. (Hint: one way to do this is to suppose the magnetic field has roughly constant magnitude
 inside the sphere and is negligible outside of it, then estimate the field inside the sphere.)

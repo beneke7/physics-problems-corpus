@@ -36,7 +36,9 @@ Példa 7
 
 
                                                       14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -48,7 +50,7 @@ Példa 7
        Az áramkör így sorosan és párhuzamosan kapcsolt ellenállások kombinációira redukálódott. Az 1 és 2/3 közötti ellenállás R/2. A 2/3 és 14/15 közötti ellenállás három, párhuzamosan kapcsolt hálózat eredője, a 14/15 és 16 közötti ellenállás pedig R/2. Ezért,
                                                                  !
                                               1 1 1 −1 1
-                                                        
+
                                         1                              13
                               Req =       +     + +          +     R = R.
                                         2     3 3 2            2        7

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-In the photo, taken from a drone, and shown below, people walk on the level ground along the riverbank of Rio Grande at the border between Mexico and the United States. Estimate how high the Sun was when the photo was taken. 
+In the photo, taken from a drone, and shown below, people walk on the level ground along the riverbank of Rio Grande at the border between Mexico and the United States. Estimate how high the Sun was when the photo was taken.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G838-fig1.png)
+![figure](../../figures/komal/figures/komal-G838-fig1.png)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201201"
 verification_status: pending
 ---
 
-The capacitor of capacitance C =12.5  F in an ideal resonant circuit is charged to U $_{1}$=400 V, and then the circuit is closed. The inductance of the coil is 0.5 H. a ) Give the current as a function of time. b ) In what time intervals will the energy of the capacitor be maximum? 
+The capacitor of capacitance C =12.5  F in an ideal resonant circuit is charged to U $_{1}$=400 V, and then the circuit is closed. The inductance of the coil is 0.5 H. a ) Give the current as a function of time. b ) In what time intervals will the energy of the capacitor be maximum?
  (4 pont)

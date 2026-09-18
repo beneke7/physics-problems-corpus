@@ -18,11 +18,11 @@ particle’s energy E to above it. It can be shown that each of these “soft”
 π/2 to α, so that for this potential we can take α = π.
 Show that the energy levels are
 En = ℏω0
-
+
 n +
 1
 2
-
+
 , ω0 =
 r
 k
@@ -50,12 +50,12 @@ mω2
 p
 k/m(n + 1/2) = ℏω0(n + 1/2)
 as desired. Note that this solution makes sense for n ≥ 0.
-[3] Problem 5.  W 1 0USAPhO 2015, problem A1. (The use of the WKB approximation in this problem
+[3] Problem 5.   W 1 0USAPhO 2015, problem A1. (The use of the WKB approximation in this problem
 is technically incorrect: the problem takes α = π when it actually should take α = 3π/2. Often,
 people will apply the WKB approximation in a sloppy way because they’re only after rough estimates
 at small n, or the limiting behavior at n ≫ 1. In the previous problems, we treated α properly
 because doing so will give the exact correct answer in those cases.)
-[5] Problem 6.  T 1 0IPhO 2006, problem 1. This is a neat problem which illustrates the effect of a
+[5] Problem 6.   T 1 0IPhO 2006, problem 1. This is a neat problem which illustrates the effect of a
 gravitational field on quantum particles, as well as the basics of interferometry, a subject developed
 further in W2. Give this a try even if it looks tough; only the ideas introduced above are needed!
 4

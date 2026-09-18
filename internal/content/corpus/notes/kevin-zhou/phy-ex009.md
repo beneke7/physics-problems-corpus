@@ -26,6 +26,5 @@ Example. The Earth is an oblate ellipsoid with (I1 − I3 )/I1 ≈ −1/300, wit
 the oblateness itself is caused by the Earth’s rotation, the angular velocity is very nearly aligned
 with e3 , though not exactly. We thus expect the Earth to wobble with a period of about 300 days;
 this phenomenon is called the Chandler wobble.
-15 1. Classical Mechanics
 
 

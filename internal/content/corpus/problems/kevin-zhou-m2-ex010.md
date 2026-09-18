@@ -42,13 +42,13 @@ solution_language: en
                                               sinh−1 (y ′ ) =       + C.
                                                                  Tx
        Choosing x = 0 to be the lowest point of the chain, the constant C is zero, and
-                                                          
+
                                             ′          λgx
                                            y = sinh          .
                                                         Tx
 
        Integrating both sides again gives the solution for y,
-                                                             
+
                                                 Tx        λgx
                                            y=      cosh
                                                 λg         Tx

@@ -21,4 +21,4 @@ Provided sketches (a) and (b) are made on the basis of satellite images, preserv
 i) Using the provided sketch, find the wind speed for case (a).
 ii) Using the provided sketch, find the wind speed for case (b).
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr63-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr63-fig1.jpg)

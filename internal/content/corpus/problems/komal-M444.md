@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202511"
 verification_status: pending
 ---
 
-Determine the moments of inertia of an AA battery which are calculated about the axis of symmetry and about an axis perpendicular to the axis of symmetry passing through the centre of mass. 
+Determine the moments of inertia of an AA battery which are calculated about the axis of symmetry and about an axis perpendicular to the axis of symmetry passing through the centre of mass.
  (6 pont)

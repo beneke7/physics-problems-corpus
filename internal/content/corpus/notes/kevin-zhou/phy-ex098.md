@@ -37,14 +37,13 @@ expand the exponential in the Lamb–Dicke parameter η = kzzp . At lowest order
 and applying the same method as above gives the modified AC Stark shift
 
                                     ℏΩ2        η 2 ∆2
-                                                                  
+
                                                           †
                        Heff (t) = −      1+2 2        2
                                                         (b b + 1/2) σz .
                                     4∆       ∆ − ωm
 
 The new, O(η 2 ) term can dominate if ∆ ≈ ωm .
-262 12. Scattering
 
 
 12     Scattering
@@ -96,7 +95,6 @@ section, we instead solve the time-independent Schrodinger equation.
    is zero for all angles except the forward direction. In the forward direction, the incident and
    scattered waves interfere destructively, as required by conservation of probability. Applying
    this quantitatively yields the optical theorem.
-263 12. Scattering
 
 
  • If a classical force never falls exactly to zero, then the total classical cross section essentially
@@ -158,7 +156,6 @@ Note. Examples of the scattering of radiation.
    becomes Compton scattering, which is described by the Klein–Nishina formula.
  • Raman scattering is the inelastic scattering of photons by matter, which typically is associated
    with inducing vibrational excitation or deexcitation in molecules.
-264 12. Scattering
 
 
 12.2    Partial Waves
@@ -172,7 +169,7 @@ We now focus on the case of a central force potential.
     incident and scattered waves far from the potential, i.e. Rkl (r) ∝ eikr .
 
   • Defining ukℓ (r) = rRkℓ (r), the radial Schrodinger equation is
-                             
+
              1 d       2 dRkℓ
                      r          + k 2 Rkℓ (r) = W (r)Rkℓ (r), u′′kℓ (r) + k 2 ukℓ (r) = W (r)ukℓ (r)
             r2 dr         dr
@@ -216,7 +213,6 @@ We now focus on the case of a central force potential.
   • Next, we find the asymptotic behavior of the radial wavefunction Rkℓ (r) for large r. If the
     potential V (r) cuts off at a finite radius r0 , then the solutions are Bessel functions of both the
     j and y-type, since we don’t care about the region r < r0 , giving ukℓ (r) ∼ e±ikr .
-265 12. Scattering
 
 
  • If there is no sharp cutoff, parametrize the error as ukℓ (r) = eg(r)±ikr , giving
@@ -275,7 +271,6 @@ Finally, we combine these ingredients to get our desired incident-plus-scatterin
     by their total angular momentum ℓ. The individual terms are m = 0 spherical harmonics, and
     are called the s-wave, the p-wave, and so on. Each of these contributions are present in the
     initial plane wave and scatter independently, since L2 is conserved.
-266 12. Scattering
 
 
  • The differential cross section has interference terms, but the total cross section does not due to

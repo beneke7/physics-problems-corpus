@@ -27,7 +27,7 @@ The equilibrium shape of bodies in zero-gravity is determined by the minimum of 
 
 At low temperature, the equilibrium shape of crystals may have flat facets. The parts of the crystal surface that have a small angle $\varphi$ with the facet are in fact staircases of rare steps on this facet. The height of such steps is equal to the period of the crystal lattice $h$.
 
-![figure](../../sources/eupho/figures/eupho-2018-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2018-T3-1.png)
 
 Equilibrium surface profile $y(x)$ of a certain crystal and the corresponding microscopic staircase are shown schematically in the figure, where $n$ denotes the step number, counting from $x = 0$. The profile shape at $x > 0$ can be approximated as
 $$y(x) = -\!\left(\frac{x}{\lambda}\right)^{3/2} h,$$

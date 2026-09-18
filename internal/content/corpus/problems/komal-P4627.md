@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201404"
 verification_status: flagged
 ---
 
-Holding a blown-up balloon in our hands, after some time we feel that the balloon heats our hand. How can it be? 
+Holding a blown-up balloon in our hands, after some time we feel that the balloon heats our hand. How can it be?
  (3 pont)

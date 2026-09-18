@@ -45,11 +45,11 @@ which is the equation from where one can determine the angle
 2T
 lIB
 sinα = l
-
+
 1 −
 sinα
 α
-
+
 .
 iv. (1 pt) From the previous result it can be seen that we need
 to have sinα

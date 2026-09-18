@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A uniform-density, thin, incomplete cylindrical shell of radius $R$ is placed onto a horizontal tabletop as shown in the figure. The angle at the ``missing part'' of the cylinder is $\varphi$. The cylindrical shell is displaced from its equilibrium position a bit and then released. Determine the period of the oscillation of the shell. Assume that friction is big enough and the shell does not slide during its oscillatory motion. 
+A uniform-density, thin, incomplete cylindrical shell of radius $R$ is placed onto a horizontal tabletop as shown in the figure. The angle at the ``missing part'' of the cylinder is $\varphi$. The cylindrical shell is displaced from its equilibrium position a bit and then released. Determine the period of the oscillation of the shell. Assume that friction is big enough and the shell does not slide during its oscillatory motion.
 
- Data: $R= 0.2$ m; $\varphi=\pi/3$. 
+ Data: $R= 0.2$ m; $\varphi=\pi/3$.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5286-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5286-fig1.gif)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5569. Becsüljük meg az emberi testben található protonok és neutronok darabszámának arányát! 
+P. 5569. Becsüljük meg az emberi testben található protonok és neutronok darabszámának arányát!
  Példatári feladat nyomán

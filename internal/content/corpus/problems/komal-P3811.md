@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [smart-coordinates, scaling-and-dimensional-analysis]
 ---
 
-A charged particle travels into a region in which there is a friction force proportional to the particle's velocity. It travels 10 cm from the point of entry into the region before coming to rest. If a magnetic field of unknown strength is turned on in the region, the particle comes to rest at 6 cm from the point of entry. How far from the point of entry will the particle come to rest if the magnetic field is doubled? 
+A charged particle travels into a region in which there is a friction force proportional to the particle's velocity. It travels 10 cm from the point of entry into the region before coming to rest. If a magnetic field of unknown strength is turned on in the region, the particle comes to rest at 6 cm from the point of entry. How far from the point of entry will the particle come to rest if the magnetic field is doubled?
 
  (5 pont)

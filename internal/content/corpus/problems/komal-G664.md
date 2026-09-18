@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-In which case are we closer to the Sun on the same day of the year: at new-moon or at full-moon? Estimate the difference between the distances at the two cases? 
+In which case are we closer to the Sun on the same day of the year: at new-moon or at full-moon? Estimate the difference between the distances at the two cases?
  (4 pont)

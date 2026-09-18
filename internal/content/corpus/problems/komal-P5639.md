@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-In the circuit assembled according to the attached circuit diagram, the voltage supply has an electromotive force of 6 V and an internal resistance of $2\,\Omega$. The inductance of the ideal coil is $1.5~\mathrm{H}$ and the resistance of resistor $R$ is $1000\,\Omega$. Initially, the switch is closed. 
+In the circuit assembled according to the attached circuit diagram, the voltage supply has an electromotive force of 6 V and an internal resistance of $2\,\Omega$. The inductance of the ideal coil is $1.5~\mathrm{H}$ and the resistance of resistor $R$ is $1000\,\Omega$. Initially, the switch is closed.
 
- a)  How much charge flows through resistor $R$ after the switch is opened? 
- b)  How much heat is dissipated in resistor $R$ during this time? 
+ a)  How much charge flows through resistor $R$ after the switch is opened?
+ b)  How much heat is dissipated in resistor $R$ during this time?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5639-fig1.png)
+![figure](../../figures/komal/figures/komal-P5639-fig1.png)

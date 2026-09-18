@@ -24,4 +24,4 @@ Amikor szinuszos hullámok terjednek egy végtelen LC-rácsban (lásd az alábbi
 (c) Adjuk meg, milyen feltételek mellett független a terjedési sebesség közelítőleg az $\omega$-tól. Határozzuk meg ebben az esetben a sebességet.
 (d) Javasoljunk egy egyszerű mechanikai modellt, amely analóg a fenti áramkörrel, és vezessük le a modell helyességét igazoló egyenleteket.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr92-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr92-fig1.jpg)

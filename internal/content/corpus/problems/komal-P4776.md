@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201511"
 verification_status: flagged
 ---
 
-What is the resistance $R_5$ of the bridge circuit shown in the figure if the equivalent resistance between points $A$ and $B$ is 9 $\Omega$? Data: $R_1=5~\Omega$, $R_2=12~\Omega$, $R_3=15~\Omega$, $R_4=8~\Omega$. 
+What is the resistance $R_5$ of the bridge circuit shown in the figure if the equivalent resistance between points $A$ and $B$ is 9 $\Omega$? Data: $R_1=5~\Omega$, $R_2=12~\Omega$, $R_3=15~\Omega$, $R_4=8~\Omega$.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4776-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4776-fig1.gif)

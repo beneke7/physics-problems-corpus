@@ -41,7 +41,7 @@ solution_language: en
   The rate of heat emitted from the satellite is
                                         Q̇out = σATC4 ∝ TC4 .
   Therefore, the rate of work done is
-                                                     
+
                                    TH               TC TH 4
                    Ẇ = η Q̇in = η    Q̇out ∝    1−      T = TH TC3 − TC4 .
                                    TC               TH TC C
@@ -49,4 +49,6 @@ solution_language: en
 
 
                                                   15
-    Kevin Zhou                                                                      Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                      Physics Olympiad Handouts

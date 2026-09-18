@@ -30,7 +30,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
       (c) Egy állandó térfogatú zárt tartályban folyadék és gáz van egyensúlyban, T hőmérsékleten. Legyen a párolgás moláris látens hője L, és hanyagoljuk el a folyadék térfogatát. Ha a hőmérsékletet nagyon kis ∆T értékkel növeljük, milyen tényezővel változik a gázállapotú mólszám?
 
                                                      7
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
 
        4. példa: APhO 2004.3

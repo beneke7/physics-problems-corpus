@@ -24,7 +24,7 @@ techniques: [model-reduction]
 ---
 
 Question 8
-![](aupho-2010-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2010-q8-fig01.png)
 The figure above shows a frustum of a cone. Which of the expressions gives the area of the curved surface?
 
 (A) $\pi\left(r_{1}+r_{2}\right)\left[h^{2}+\left(r_{2}-r_{1}\right)^{2}\right]^{1 / 2}$

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Calculate the force needed to keep a standard ping-pong ball under water. 
+Calculate the force needed to keep a standard ping-pong ball under water.
  (3 pont)

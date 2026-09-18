@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, superposition, choose-reference-frame]
 ---
 
-A small ball of mass m =0.4 kg is hanging on a thread of length =1 m, and touches another ball of mass  m and of the same radius. This second ball is on a horizontal plane and is attached to one end of a horizontal spring of spring constant D =10 N/m, as shown in the figure. Initially the spring is unstretched and its other end is fixed. The simple pendulum is deflected at an angle of =20$^\circ$, and it is released without any initial speed. 
- a ) At what speed do the two balls collide? What is the percentage error that is made if the speed of the ball is calculated from the formula of the period of the pendulum. 
- b ) How much time elapses until the pendulum gets back again to the position where its displacement is the greatest, having collided with the other ball totally elastically? (Friction is negligible.) 
+A small ball of mass m =0.4 kg is hanging on a thread of length =1 m, and touches another ball of mass  m and of the same radius. This second ball is on a horizontal plane and is attached to one end of a horizontal spring of spring constant D =10 N/m, as shown in the figure. Initially the spring is unstretched and its other end is fixed. The simple pendulum is deflected at an angle of =20$^\circ$, and it is released without any initial speed.
+ a ) At what speed do the two balls collide? What is the percentage error that is made if the speed of the ball is calculated from the formula of the period of the pendulum.
+ b ) How much time elapses until the pendulum gets back again to the position where its displacement is the greatest, having collided with the other ball totally elastically? (Friction is negligible.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4340-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4340-fig1.gif)

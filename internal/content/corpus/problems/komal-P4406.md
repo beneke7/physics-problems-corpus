@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, model-reduction]
 ---
 
-A sound source is at rest and emits a sound of frequency f $_{0}$=250 Hz for some time. The driver of the car which is moving towards the source at a speed of  v , detect this sound the frequency of which is f '=263 Hz, and he hears the sound exactly as long as he covers a distance of s =82 m, along a straight line. a ) What is the speed of the car? b ) For how long did the sound source emit the sound? 
+A sound source is at rest and emits a sound of frequency f $_{0}$=250 Hz for some time. The driver of the car which is moving towards the source at a speed of  v , detect this sound the frequency of which is f '=263 Hz, and he hears the sound exactly as long as he covers a distance of s =82 m, along a straight line. a ) What is the speed of the car? b ) For how long did the sound source emit the sound?
  (5 pont)

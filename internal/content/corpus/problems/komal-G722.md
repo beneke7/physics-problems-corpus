@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-In a pot, open at its top, water is boiled on a gas stove. Right after turning off the burner of the gas stove and after the flames ceased, white vapour cloud can be observed above the pot. Explain the phenomenon. 
+In a pot, open at its top, water is boiled on a gas stove. Right after turning off the burner of the gas stove and after the flames ceased, white vapour cloud can be observed above the pot. Explain the phenomenon.
  (3 pont)

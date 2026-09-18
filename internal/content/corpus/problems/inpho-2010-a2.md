@@ -24,7 +24,7 @@ techniques: [conservation-laws]
 ---
 
 2. A non-conducting wall is given a negative net charge. Next, a sheet of very flexible rubber with zero net charge is suspended from the ceiling near the charged wall as shown below. The rubber sheet will:
-![](inpho-2010-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-a2-fig01.png)
     (a) not be affected by the charges on the wall since rubber is an insulator.
     (b) not be affected by the charged wall because the rubber sheet has zero net charge.
     (c) bend away from the wall due to the electrical repulsion between the electrons in the rubber and the charges on the wall.

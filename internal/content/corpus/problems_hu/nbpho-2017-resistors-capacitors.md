@@ -22,7 +22,7 @@ verification_status: pending
 
 Az áramkör egy akkumulátorból, egy kapcsolóból, ellenállásokból és kondenzátorokból áll az ábrán látható módon. Az összes ellenállásnak $R$ az ellenállása, az összes kondenzátornak $C$ a kapacitása, és az akkumulátornak $U$ a feszültsége. Az A pont föld potenciálon van, tehát a potenciálja 0 V. Kezdetben a kapcsoló nyitva van, és az összes kondenzátor töltésmentesnek tekinthető.
 
-![Az ellenállások és kondenzátorok áramköri diagramja](nbpho-2017-resistors-capacitors-fig1.jpg)
+![Az ellenállások és kondenzátorok áramköri diagramja](../../figures/nbpho/figures/nbpho-2017-resistors-capacitors-fig1.jpg)
 
 **i)** *(2 pont)* Mekkora a potenciál a B és C pontban, miután bezárjuk a kapcsolót és megvárjuk a potenciálok stabilizálódását?
 

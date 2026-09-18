@@ -82,7 +82,7 @@ Z 2π
 0
 dθ
 2π
-
+
 1 −
 a
 R
@@ -91,15 +91,15 @@ a2
 R2
 3cos2 θ − 1
 2
-
+
 = −
 GMm
 R
-
+
 1 +
 a2
 4R2
-
+
 .
 The energy goes down upon a small displacement, so the configuration is unstable. The ring
 will soon crash into the planet.

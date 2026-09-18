@@ -57,7 +57,9 @@ THEORETICAL PROBLEM 2
         at          
                          0       L
                 2m            2
-     2. Spontaneous emission in the x direction.
+
+
+     2. Spontaneous emission in the x direction.
 
 
      First, one calculates the energy of the emitted photon, as seen in the lab reference frame.
@@ -113,7 +115,9 @@ THEORETICAL PROBLEM 2
 
 
 
-3. Spontaneous emission in the x direction.
+
+
+3. Spontaneous emission in the x direction.
 
 The same as in the previous questions, keeping the right order
                        
@@ -168,7 +172,9 @@ The spontaneous emission processes occur with equal probabilities in both direct
       at   at   at      1  
            2       2         2  mv 
                                        
-     4d Write down the average momentum of the atom pat , after the emission        0.2
+
+
+     4d Write down the average momentum of the atom pat , after the emission        0.2
         process.
               1      1          
          pat  pat  pat  p  L
@@ -224,7 +230,9 @@ The spontaneous emission processes occur with equal probabilities in both direct
                                                                        
                                         
 
-       7. Force on the atomic beam by the lasers.
+
+
+       7. Force on the atomic beam by the lasers.
 
        On the average, the fraction of atoms found in the excited state is given by,
 
@@ -300,7 +308,9 @@ The spontaneous emission processes occur with equal probabilities in both direct
 
 
  
-     8d Write down the condition to obtain a negative force (slowing down the              0.25
+
+
+     8d Write down the condition to obtain a negative force (slowing down the              0.25
         atom).
         0  L … this is the famous rule “tune below resonance for cooling
         down”

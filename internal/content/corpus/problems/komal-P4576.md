@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, differential-element]
 ---
 
-The outer radius of a spherical shell, made of insulating material, is r $_{2}$=0.2 m, and its inner radius is r $_{1}$=0.15 m. The relative dielectric constant of its material is $_{r}$=8.4. The shell is charged positively, and the charge is distributed evenly such that the charge density is =10$^{-5}$ C/m$^{3}$. Measured from the centre of the spherical shell where are those points at which the magnitude of the electric field strength is 
- a )  E $_{1}$=3$^{.}$10$^{3}$ V/m, 
- b )  E $_{2}$=3$^{.}$10$^{4}$ V/m? 
+The outer radius of a spherical shell, made of insulating material, is r $_{2}$=0.2 m, and its inner radius is r $_{1}$=0.15 m. The relative dielectric constant of its material is $_{r}$=8.4. The shell is charged positively, and the charge is distributed evenly such that the charge density is =10$^{-5}$ C/m$^{3}$. Measured from the centre of the spherical shell where are those points at which the magnitude of the electric field strength is
+ a )  E $_{1}$=3$^{.}$10$^{3}$ V/m,
+ b )  E $_{2}$=3$^{.}$10$^{4}$ V/m?
  (5 pont)

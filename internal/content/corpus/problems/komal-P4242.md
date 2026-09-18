@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, auxiliary-unknowns]
 ---
 
-A candle is burning in a vertical cylinder standing on the table. The inner wall of the cylinder has a reflexive surface. The height of the cylinder is 30 cm, its diameter is 12 cm, and the centre of the candle light is at a height of 14 cm, 2 cm away from the axis of the cylinder. From which direction will the image of the candle light, which becomes three times wider, be on the top of the cylinder? 
+A candle is burning in a vertical cylinder standing on the table. The inner wall of the cylinder has a reflexive surface. The height of the cylinder is 30 cm, its diameter is 12 cm, and the centre of the candle light is at a height of 14 cm, 2 cm away from the axis of the cylinder. From which direction will the image of the candle light, which becomes three times wider, be on the top of the cylinder?
  (5 pont)

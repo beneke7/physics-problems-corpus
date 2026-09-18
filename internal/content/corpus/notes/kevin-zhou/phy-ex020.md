@@ -24,12 +24,12 @@ source_role: explanatory_example
 
 Example. The field of a point charge is spherically symmetric with ∇2 ϕ = 0 except at the origin.
 Guessing the form ϕ ∝ 1/r, we have
-                                       
+
                                         1     −∇r       r
                                    ∇       = 2 = − 3.
                                         r       r       r
 Next, we can take the divergence by the product rule,
-                                                          
+
                          2 1          ∇ · r 3r̂ · r       3  3
                        ∇       =−          − 4        =− 3 − 3 =0
                             r          r3      r          r r

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, model-reduction]
 ---
 
-There are two point-like masses at some distance from each other in the outer space. If one of them is fixed, then the other will hit it after a time of $T_1=6$ minutes. In the reversed case, this time is $T_2=8$ minutes. How much time elapses until the collision if both objects can move freely? 
+There are two point-like masses at some distance from each other in the outer space. If one of them is fixed, then the other will hit it after a time of $T_1=6$ minutes. In the reversed case, this time is $T_2=8$ minutes. How much time elapses until the collision if both objects can move freely?
  (5 pont)

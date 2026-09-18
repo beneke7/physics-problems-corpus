@@ -19,4 +19,4 @@ verification_status: pending
 
 There is an infinite honeycomb lattice; the edges of the lattice are made of wire, and the resistance of each edge is $R$. Let us denote two neighbouring vertices of a vertex $B$ by $A$ and $C$. Determine the resistance between $A$ and $C$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr46-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr46-fig1.jpg)

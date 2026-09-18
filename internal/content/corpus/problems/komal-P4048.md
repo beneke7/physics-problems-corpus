@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, model-reduction, conservation-laws]
 ---
 
-Inside a spherical container of mass M =385 kg and of cross-section A =1.6 m$^{2}$ there is a hanging weight, which can slide easily, above a spring, winded round a thin stick. The mass of the weight is m =1.5 kg, and the spring constant is D =155 N/m. (At the beginning the spring is unstretched.) The container is falling from a weather balloon, which is at high altitude, without initial speed. At the beginning of the fall the hanging of the weight is ceased. At what distance from the bottom of the weight should the electric sensor be placed in order to switch on the device which opens the parachute when the container reaches a speed of v =80 m/s? Assume that the density of air is constant. 
+Inside a spherical container of mass M =385 kg and of cross-section A =1.6 m$^{2}$ there is a hanging weight, which can slide easily, above a spring, winded round a thin stick. The mass of the weight is m =1.5 kg, and the spring constant is D =155 N/m. (At the beginning the spring is unstretched.) The container is falling from a weather balloon, which is at high altitude, without initial speed. At the beginning of the fall the hanging of the weight is ceased. At what distance from the bottom of the weight should the electric sensor be placed in order to switch on the device which opens the parachute when the container reaches a speed of v =80 m/s? Assume that the density of air is constant.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4048-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4048-fig1.gif)

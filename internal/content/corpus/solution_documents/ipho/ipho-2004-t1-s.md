@@ -65,7 +65,9 @@ Theoretical Question 1: Ping-Pong Resistor
 
                                0             zc                         V/ Vth
                                                        1
-                 Theoretical Question 1 / Solutions                                   Page 2/12
+
+
+                 Theoretical Question 1 / Solutions                                   Page 2/12
 
 
 2. Solutions
@@ -113,7 +115,9 @@ Since one side of the small disk is in contact with the plate,
                                                   πr 2
                     q = −ε 0 E ⋅ (πr 2 ) = −ε 0             V = χV .                      (b2)
                                                     d
-                Theoretical Question 1 / Solutions                                             Page 3/12
+
+
+                Theoretical Question 1 / Solutions                                             Page 3/12
 
 
 
@@ -162,7 +166,9 @@ For each inelastic collision, the disk lose its kinetic energy by
                    ∆K loss = K before − K after = (1 − η 2 ) K before =        − 1 K after .       (d3)
                                                                           η2
 Since K s is the energy after the collision at the bottom plate and ( K s + qV − mgd ) is
-               Theoretical Question 1 / Solutions                                   Page 4/12
+
+
+               Theoretical Question 1 / Solutions                                   Page 4/12
 
 
 the energy before the collision at the top plate, the total energy loss during the round trip
@@ -217,7 +223,9 @@ Thus, the kinetic energy just before its collision with the top plate becomes
                                                         1
                                            K n − up =     mv 2up = K n + ∆U up .       (d12)
                                                         2
-                Theoretical Question 1 / Solutions                                           Page 5/12
+
+
+                Theoretical Question 1 / Solutions                                           Page 5/12
 
 
 Since η = v after / v before , the kinetic energy after the collision with the top plate becomes
@@ -267,7 +275,9 @@ Here t + ( t − ) can be determined by
                                            v 0− t − + a − t −2 = d
                                                      2
 where v 0+ ( v 0− ) is the initial velocity at the bottom (top) plate and a + ( a − ) is the up-
-               Theoretical Question 1 / Solutions                                         Page 6/12
+
+
+               Theoretical Question 1 / Solutions                                         Page 6/12
 
 
 (down-) ward acceleration respectively.
@@ -319,7 +329,9 @@ Therefore, from I =      =    ,
 
 [Alternative solution #1:]
 Starting from Eq. (e3), we can solve the quadratic equation of Eq. (e1) so that
-                Theoretical Question 1 / Solutions                                         Page 7/12
+
+
+                Theoretical Question 1 / Solutions                                         Page 7/12
 
 
 
@@ -369,7 +381,9 @@ reach the top plate. In other words, the threshold voltage Vc can be determined 
 the condition that the velocity v 0- of the disk at the top plate is zero, i.e., v 0- = 0 .
 
      In order for the disk to have v 0- = 0 at the top plate, the kinetic energy K s at the
-                Theoretical Question 1 / Solutions                             Page 8/12
+
+
+                Theoretical Question 1 / Solutions                             Page 8/12
 
 
 top plate should satisfy the relation:
@@ -423,7 +437,9 @@ where the accelerations are given by
                                    qVc      1 −η 2         − 2η 2
                             a+ =       −g =        − 1 g =        g                (f10)
                                    md       1+η 2          1+η 2
-                  Theoretical Question 1 / Solutions                                               Page 9/12
+
+
+                  Theoretical Question 1 / Solutions                                               Page 9/12
 
 
 
@@ -475,7 +491,9 @@ By using v 02+ = η 2 (2da − ) = −2da + , we can solve the quadratic equatio
 
                                              0           zc                               V/ Vth
                                                                    1
-                 Theoretical Question 1 / Solutions                                             Page 10/12
+
+
+                 Theoretical Question 1 / Solutions                                             Page 10/12
 
 
 [A more elaborate Solution:]
@@ -526,7 +544,9 @@ In terms of y , w , and z c ,
                                                       y 2 + z c2 − η y 2 − z c2
                                        t − = w1                                                      (f21)
                                                              2y2 +1
-        Theoretical Question 1 / Solutions                                                Page 11/12
+
+
+        Theoretical Question 1 / Solutions                                                Page 11/12
 
 
 
@@ -539,7 +559,9 @@ where
                          y 2 − z c2 − η y 2 + z c2       y 2 + z c2 − η y 2 − z c2
           F ( y) = y                                 +                                        (f23)
                                 2y2 −1                          2y2 +1
-                Theoretical Question 1 / Solutions                                          Page 12/12
+
+
+                Theoretical Question 1 / Solutions                                          Page 12/12
 
 
 3. Mark Distribution

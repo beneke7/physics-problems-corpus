@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202312"
 verification_status: pending
 ---
 
-In physics classes, we learn that the kinetic frictional force is directly proportional to the force compressing the surfaces, and that the proportionality constant does not depend on the size of the surface. Investigate (using at least two pairs of materials) how accurate these statements are. 
+In physics classes, we learn that the kinetic frictional force is directly proportional to the force compressing the surfaces, and that the proportionality constant does not depend on the size of the surface. Investigate (using at least two pairs of materials) how accurate these statements are.
  (6 pont)

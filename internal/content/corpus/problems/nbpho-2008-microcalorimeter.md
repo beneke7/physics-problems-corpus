@@ -41,7 +41,7 @@ in watts) per unit area, assuming that the temperature drop is
 $1^{\circ} \mathrm{C}$ per 1 m. The heat capacity of the microcalorimeter with the
 Ti disks is $C$.
 
-![figure](../../sources/nbpho/figures/nbpho-2008-microcalorimeter-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2008-microcalorimeter-fig1.png)
 
 1) Find the thermal resistance $R$ between the microcalorimeter and the wafer (that
 is, the ratio of the temperature difference to the heat flux).

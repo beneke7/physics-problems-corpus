@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-At what height above the surface of the Earth will the gravitational force exerted on an object be exactly the same as that of on the surface of the Moon? 
+At what height above the surface of the Earth will the gravitational force exerted on an object be exactly the same as that of on the surface of the Moon?
  (3 pont)

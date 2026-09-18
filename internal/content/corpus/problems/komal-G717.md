@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, smart-coordinates]
 ---
 
-A bat flies parallel to the wall of a cave at a speed of 45.0 m/s. It emits a short ultrasound signal, the echo of which is heard after 0.120 s. How far does the bat fly from the wall? The speed of ultrasound in the cave is 333 m/s. 
+A bat flies parallel to the wall of a cave at a speed of 45.0 m/s. It emits a short ultrasound signal, the echo of which is heard after 0.120 s. How far does the bat fly from the wall? The speed of ultrasound in the cave is 333 m/s.
  (4 pont)

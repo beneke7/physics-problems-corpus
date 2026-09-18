@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-At most how much energy can be gained by an – initially stationary – electron if it collides with another particle of energy 1 MeV, if the particle is a 
- $a)$ proton; 
- $b)$ electron; 
- $c)$ positron? 
+At most how much energy can be gained by an – initially stationary – electron if it collides with another particle of energy 1 MeV, if the particle is a
+ $a)$ proton;
+ $b)$ electron;
+ $c)$ positron?
  (4 pont)

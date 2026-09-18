@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-In two containers of equal volume there are two samples of gas: Helium and Hydrogen. The samples have equal internal energy and equal number of particles. a ) What is the ratio of the pressure of the gases? b ) What is the ratio of the average speed of the particles? 
+In two containers of equal volume there are two samples of gas: Helium and Hydrogen. The samples have equal internal energy and equal number of particles. a ) What is the ratio of the pressure of the gases? b ) What is the ratio of the average speed of the particles?
  (4 pont)

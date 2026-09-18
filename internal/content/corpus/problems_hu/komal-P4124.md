@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4124. Tapasztalatból tudjuk, hogy gyorsabban kihűl a tányérban a húsleves, ha kanalat teszünk bele. Miért? 
+P. 4124. Tapasztalatból tudjuk, hogy gyorsabban kihűl a tányérban a húsleves, ha kanalat teszünk bele. Miért?
  Öveges József emlékverseny, Tata

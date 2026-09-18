@@ -50,8 +50,8 @@ frames, not on how they physically appear to an observer’s eyes. This is a com
 fascinating subject. For instance, it turns out that once one accounts for the light travel
 time delay, moving objects appear to be rotated. For an interactive simulation, check out
 the game A Slower Speed of Light (3D) and Velocity Raptor (2D only).
-[3] Problem 4.  W 1 0USAPhO 2016, problem A3. Print out the custom answer sheet before starting.
-[5] Problem 5.  T 1 0IPhO 2006, problem 2. A nice problem about relativistic visual effects.
+[3] Problem 4.   W 1 0USAPhO 2016, problem A3. Print out the custom answer sheet before starting.
+[5] Problem 5.   T 1 0IPhO 2006, problem 2. A nice problem about relativistic visual effects.
 3
 Kevin Zhou Physics Olympiad Handouts
 2 Velocity Addition
@@ -87,10 +87,10 @@ The length contraction will result in an observed length of
 = ℓ0
 s
 1 −
-
+
 u − v
 c − uv/c
-2
+ 2
 .
 [2] Problem 7 (Morin 11.16). In frame S′, a particle moves with velocity (0,u′) as shown at left.
 Frame S moves to the left with speed v, so the situation in S is as shown at right, with the y speed
@@ -154,25 +154,25 @@ w − v
 The difference in time dilation factors, on the person’s clock versus the train’s clocks, leads to a
 relative change in time reading of
 ∆τ =
-
+
 1
 γw
 −
 1
 γv
-
+
 ∆t =
-
+
 1
 γu(1 + uv)
 − 1
-
+
 L
 γ2
 v
 1
 w − v
-
+
 .
 To simplify the second factor, note that
 1
@@ -191,11 +191,11 @@ so that we have
 ∆τ =
 L
 u
-
+
 1
 γu
 − 1 − uv
-
+
 .
 We need to be a bit careful in approximating this expression, since the 1/γu and 1 terms will almost
 cancel out. So we instead write 1/γu = 1 + O(u2), giving
@@ -204,7 +204,7 @@ L
 u
 1 + O(u2
 ) − 1 − uv
-
+
 = −L(v + O(u)) ≈ −Lv
 since we are assuming u ≪ v. This is precisely the expected result.
 5
@@ -263,7 +263,7 @@ T =
 L
 c
 + D
-
+
 1
 vrel
 −
@@ -272,18 +272,18 @@ c
 −
 v
 cvrel
-
+
 =
 L
 c
 +
 D
 c
-
+
 n − 1 −
 vn
 c
-
+
 .
 (b) The slab length contracts, but this is second order in v/c, while we’re just interested in the
 first order effect. The key difference is that because of relativistic velocity addition, the light
@@ -295,11 +295,11 @@ c/n + v
 c
 n
 +
-
+
 1 −
 1
 n2
-
+
 v + O(v2
 /c).
 Thus, to leading order in v/c, when the light is in the slab, the relative speed of the light and
@@ -316,7 +316,7 @@ T =
 L
 c
 + D
-
+
 1
 vrel
 −
@@ -325,17 +325,17 @@ c
 −
 v
 cvrel
-
+
 ≈
 L
 c
 +
 D
 c
-
+
 n − 1 −
 v(n − 1)
 c
-
+
 again to first order in v/c. (Before the advent of relativity, this result was explained by an
 “ether drag” coefficient of 1 − 1/n2.)

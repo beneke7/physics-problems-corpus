@@ -22,13 +22,13 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Példa. Egy gumiszalag munkája. A dW = −pdV helyett
-dW = f dL , ahol f a feszítőerő. Ekkor                                
+dW = f dL , ahol f a feszítőerő. Ekkor
                          ∂S           ∂f         ∂f      ∂L
                                =−            =−
                          ∂L T         ∂T L       ∂L T ∂T f
 ahol egy Maxwell-relációt használtunk; a jobb oldali mindkét tag pozitív (a gumiszalag rugóként viselkedik, és hidegen összehúzódik). Az előjel mikroszkopikusan is érthető: egy táguló gáznak nagyobb a helyzeti fázistere, de ha a gumiszalagot kötött teljes hosszúságú véletlen bolyongást végző molekulaláncként modellezzük, akkor hosszabb szalag esetén kevesebb mikroállapot áll rendelkezésre.
     Ezután a háromtényezős szorzási szabály alkalmazásával
-                                                  
+
                                           ∂S      ∂T
                                                        >0
                                           ∂T L ∂L S

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201003"
 verification_status: flagged
 ---
 
-A tractor is used to transport hay bales from point  A to the stable denoted by  B as shown in the figure. The farmer has to be in a hurry in order to finish the transport before an approaching big thunderstorm. Find the best route for the tractor if the speed of the tractor on the arable land is 75% of its speed on the meadow. (Numerical solutions are also acceptable.) 
+A tractor is used to transport hay bales from point  A to the stable denoted by  B as shown in the figure. The farmer has to be in a hurry in order to finish the transport before an approaching big thunderstorm. Find the best route for the tractor if the speed of the tractor on the arable land is 75% of its speed on the meadow. (Numerical solutions are also acceptable.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4239-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4239-fig1.gif)

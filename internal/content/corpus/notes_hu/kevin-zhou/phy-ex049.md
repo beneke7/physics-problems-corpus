@@ -25,7 +25,6 @@ Példa. Felhajtóerő okozta stabilitás. Tekintsünk egy ρb sűrűségű teste
                                 Z                       I
                            MG =    x × ρb g dV, MB =      x × (−p dS).
                                    V                           S
-97 4. Folytonos közegek mechanikája
 
 
 Ha a testet folyadékkal helyettesítenénk, a folyadék egyensúlyban lenne. Ez azt jelenti, hogy MB ellentettje annak, ami MG lenne folyadék esetén:
@@ -45,7 +44,7 @@ A nyomatékok csak akkor egyenlíthetik ki egymást, ha a CM és a CB függőleg
                                             dyG = −zG dθ.
 
 A felhajtóerő-középpont vízszintes mozgásának azonban két összetevője van:
-                                                        Z
+                                                          Z
                                               I
                             dyB = − zB +          dθ, I =     y 2 dA
                                              V             A
@@ -59,7 +58,6 @@ Ahhoz, hogy a felhajtóerő visszatérítő nyomatékot adjon, |dyB | > |dyG | s
 Megjegyzés. Általános szögek esetén a stabilitást a „visszatérítő karral” jellemezzük, amely egyszerűen |yG (θ)−yB (θ)|. A fenti elemzés csak kis szögekre érvényes, amikor a visszatérítő kar θ-val lineáris. Amikor a visszatérítő kar nullához tart, a hajó instabillá válik és felborul.
 
 Kisebb folyadékrészek esetén a felületi feszültség fontos.
-98 4. Folytonos közegek mechanikája
 
 
  • A felületi feszültség két anyag közötti határfelület létrehozásának energiaköltségéből származik:
@@ -97,12 +95,11 @@ Kisebb folyadékrészek esetén a felületi feszültség fontos.
    R(ϕ) minimum- és maximumértékeit két egymásra merőleges ϕ̂ irányban veszi fel; ezeket fő görbületi sugaraknak, R1 -nek és R2 -nek nevezzük. Például c = 0 esetén ezek egyszerűen a és b.
 
  • Egy kis téglalapra ható erők egyensúlyát vizsgálva megmutatható, hogy a nyomás ugrása egy felületen át:
-                                                            
+
                                                   1     1
                                        ∆p = α        +       .
                                                   R1 R2
    A zárójelben szereplő mennyiséget a kétszeres közepes görbületnek is nevezik.
-99 4. Folytonos közegek mechanikája
 
 
 Megjegyzés. A levegőben lévő folyadék esete (tiszta kohézió) viszonylag egyszerű, de bonyolultabbá válik a levegő, folyadék és szilárd test határfelületeinek jelenlétében. Sok bevezető tankönyv hibás levezetést ad olyan alapvető eredményekre, mint a Jurin-törvény és a Young-törvény. A szőnyeg alá söpört finomságokra példa a Derivation of Jurin’s law revisited című tanulmány.
@@ -139,7 +136,6 @@ Ezután a szilárd testek nyugalmi mechanikáját vizsgáljuk, ami valamivel tö
                            V               S                  V                V
 
       amint az indexjelölésben a legkényelmesebben látható. Mivel egyensúlyban f ∗ eltűnik, ezt a számítást rendszerint úgy értelmezik, hogy a feszültségtenzor szimmetrikus, σT = σ.
-100 4. Folytonos közegek mechanikája
 
 
   • Ez azonban túlzott egyszerűsítés, mert figyelmen kívül hagytuk a külső nyomatékok lehetőségét. Tekintsünk például egy elektromosan polarizált anyagot. Ha az anyagot homogén elektromos térbe helyezzük, nincs erősűrűség, de van nyomatéksűrűség.
@@ -156,7 +152,6 @@ Megjegyzés. A feszültségtenzor definíciójában kisebb finomság rejlik. A f
     Tekintsünk például egy tükröző dobozban lévő fotongázt. Itt a feszültségtenzor első definíciója kétértelművé válik: a fotonok klasszikusan nem kölcsönhatnak egymással, ezért egyáltalán nem tapasztalnak erőt. Feszültségtenzort továbbra is definiálhatunk úgy, hogy megvizsgáljuk, mekkora erőt tapasztalna egy fizikai, kicsi, sík test, ha a fotongáz belsejébe helyeznénk, de ez megváltoztatja az elrendezést. A definíció többé nem magának a folyadéknak a belső tulajdonsága, sőt a belsejébe helyezett test fajtájától is függ; például egy tükröző elemre kapott eredmény kétszerese egy elnyelő elemre kapott eredménynek. A második definíció ezzel szemben tökéletesen működik, ezért relativisztikus összefüggésekben szinte egyetemesen ezt használják.
     A definíció megválasztása a levezetett elméletet is befolyásolja. Tekintsük például azt az állítást, hogy külső erők és nyomatékok nélküli folyadékban a feszültségtenzor szimmetrikus. Ezt fent, a nyugalmi mechanika esetében bizonyítottuk, de közönséges folyadékoknál, ahol a feszültségtenzort az első módon definiáljuk, a folyadékdinamikára is érvényes egyszerű bizonyítás adható. A feszültségtenzor antiszimmetrikus része egy ∆L méretű infinitezimális folyadékelemre (∆L)3 szerint skálázódó nyomatékot ad. Az elem tehetetlenségi nyomatéka (∆L)5 szerint skálázódik, ami ∆L → 0 esetén fizikailag értelmetlenül végtelen szöggyorsulást jelent; ezért a feszültségtenzornak szimmetrikusnak kell lennie.
     Relativisztikus összefüggésben, ahol a második definíciót használjuk, a feszültség-(energia)tenzort Noether-tétellel definiálhatjuk, ahogy azt a Kvantumtérelmélet jegyzeteiben tárgyaljuk. Kiderül, hogy még izolált rendszerben is lehet a feszültségtenzor antiszimmetrikus! Az antiszimmetrikus rész fizikai értelmezése az, hogy pályamenti perdületet visz át spinbe, ami megkerüli a fenti érvet, mert egy térfogatelem által hordozható spin mennyisége (∆L)3 szerint skálázódik. (Ez a finomság közönséges folyadékoknál nem jelentkezik, mert azok nem spinpolarizáltak.) A feszültség-energiatenzor azonban átdefiniálható úgy, hogy a spin által hordozott kötött lendületet is tartalmazza; ekkor ismét szimmetrikus lesz.
-101 4. Folytonos közegek mechanikája
 
 
 Ezután a szilárd testek deformációját alakváltozással írjuk le.
@@ -193,7 +188,6 @@ Ezután a szilárd testek deformációját alakváltozással írjuk le.
                                           u = (∇u + (∇u)T )
                                              2
     ahol a vonal a jelölési félreértés elkerülésére szolgál.
-102 4. Folytonos közegek mechanikája
 
 
  • A ∇u antiszimmetrikus része infinitezimális forgatásokat tartalmaz, amelyek nem járulnak hozzá u-hoz. Mivel u szimmetrikus, minden pontban diagonalizálható; a sajátvektorok a fő alakváltozási tengelyek.
@@ -226,7 +220,6 @@ Ezután a szilárd testek deformációját alakváltozással írjuk le.
                                   δ(dV ) = ϵijk (∇l ul )(ai bj ck ) = (∇ · u) dV
     adódik, ami szemléletes. Alkalmazásként a térfogatok transzformációja:
                                                   δρ = −ρ ∇ · u.
-103 4. Folytonos közegek mechanikája
 
 
   • Egy felületelemre dS = a × b és dV = c · dS írható. A fenti eredményt használva:
@@ -261,7 +254,7 @@ Megjegyzés. Nagy deformációk esetén vektoranalízis helyett célszerűbb dif
 Az alakváltozási tenzor általános definíciója a metrika változásával:
                                            gij = δij − 2uij .
 Végül az X = x − u behelyettesítésével megkapjuk az úgynevezett Euler–Almansi-féle feszültségtenzort:
-                                                                 
+
                                         1 ∂uj      ∂ui    ∂uk ∂uk
                               uij (x) =         +      −
                                         2 ∂xi      ∂xj    ∂xi ∂xj
@@ -270,7 +263,6 @@ amely egy kvadratikus taggal különbözik az infinitezimális kifejezéstől. P
                                        uij = (1 − κ−1/2 )δij
                                               2
 adódik, ami minden κ-ra értelmes, míg az infinitezimális kifejezés csak κ ≈ 1 esetén volt értelmes.
-104 4. Folytonos közegek mechanikája
 
 
 Megjegyzés. A Lagrange-reprezentáció. Ebben az esetben az X változóval dolgozunk. A Lagrange-féle elmozdulásmezőt úgy definiáljuk, hogy
@@ -306,7 +298,6 @@ Végül a feszültséget és az alakváltozást Hooke törvényével kapcsoljuk 
                                                         uyy
                                                  ν=−        .
                                                         uxx
-105 4. Folytonos közegek mechanikája
 
 
  • A feszültség és alakváltozás közötti legáltalánosabb lineáris kapcsolat:
@@ -332,7 +323,7 @@ Végül a feszültséget és az alakváltozást Hooke törvényével kapcsoljuk 
    A Young-modulusz és a Poisson-szám közvetlenül mérhető, ezért táblázatokban megtalálhatók.
 
  • Vegyük észre, hogy a mechanikai nyomás:
-                                                      
+
                                          1           2
                                    ∆p = − σii = − λ + µ uii .
                                          3           3
@@ -355,7 +346,6 @@ Végül a feszültséget és az alakváltozást Hooke törvényével kapcsoljuk 
                                                  =
                                            ∂ukl    ∂uij
    ami annak a feltételnek tenzori megfelelője, hogy egy vektormező rotációja eltűnik.
-106 4. Folytonos közegek mechanikája
 
 
   • Ha a feszültség lineárisan függ az alakváltozástól, akkor

@@ -74,7 +74,8 @@ get, for 𝑧 ≈ 0 inside the film (that is 𝑧 < 0 and |𝑧| ≪ 𝑑), that
         | − 𝜕𝑧𝑧 |            = 𝜇0 𝜎(𝑑 + 2𝑧) 𝜕𝑡𝑧 ≈ 𝜇0 𝜎𝑑 𝜕𝑡𝑧 .                      (A-9)
      𝜕𝑧     𝑧         −𝑑−𝑧
                                                                                                  1
-                                                                                     𝜕𝐵′            𝜕𝐵′
+
+                                                                                     𝜕𝐵′            𝜕𝐵′
     Since 𝐵𝑧′ is an even function of 𝑧 ′ = 𝑧 + 𝑑 ⁄2, therefore we have 𝜕𝑧𝑧 | = − 𝜕𝑧𝑧 |                           so that
                                                                                            𝑧              −𝑑−𝑧
                                                         𝜕
@@ -119,7 +120,8 @@ B.1 The present locations of all the image magnetic monopoles of type 𝑞m are 
 
 
                                                                                                                            2
-The locations of all the image magnetic monopoles −𝑞m are at
+
+The locations of all the image magnetic monopoles −𝑞m are at
       (𝑥, 𝑧) = [−(𝑛 + 1)𝑣𝜏, −ℎ − 𝑛𝑣0 𝜏 ], for 𝑛 ≥ 0.                                               (B-2)
 B.2 The magnetic potential Φ+ (𝑥, 𝑧) due to all the image magnetic monopoles at 𝑡 = 0 is given
     by, in summation form
@@ -175,7 +177,8 @@ B.3
 
 
                                                                                                                                3
-                  𝜇 𝑚𝑣             𝑣                      𝑧+ℎ                    𝑣0                            𝑥2
+
+                  𝜇 𝑚𝑣             𝑣                      𝑧+ℎ                    𝑣0                            𝑥2
 ΦT (𝑥, 𝑧) = − 04𝜋 [[(𝑧+ℎ)𝑣−𝑣 𝑥]2 (                                        −               ) − [(𝑧+ℎ)𝑣−𝑣 𝑥][𝑥 2 +(𝑧+ℎ)2 ]3/2 ].     (B-9)
                                          0       √𝑥 2 +(𝑧+ℎ)2                 √𝑣 2 +𝑣02                    0
 
@@ -244,7 +247,8 @@ Thus we have, in the small 𝑣 regime,
 
 
                                                                                                                                            4
-In the large 𝑣 regime, we have the skin depth 𝛿 < 𝑑 so that the effect thin film thickness
+
+In the large 𝑣 regime, we have the skin depth 𝛿 < 𝑑 so that the effect thin film thickness
 𝑑eff = 𝛿,                                                                      (B-17)
 within which the field is more or less uniform (i.e. 𝑧 independent).
 In this case, 𝜔 = 𝑣⁄ℎ,                                                         (B-18)
@@ -296,7 +300,8 @@ by
 
 
                                                                                                    5
-                          2                               2
+
+                          2                               2
                       𝜇0 𝑞m      𝑧+ℎ                  𝜇0 𝑞m         𝑧+ℎ
             𝐹𝑧′ =                             |     −                                |
                        4𝜋 [𝑥 2 + (𝑧 + ℎ)2 ]3⁄2 𝑥=0,    4𝜋 [(𝑥 − 𝛿m )2 + (𝑧 + ℎ)2 ]3⁄2 𝑥=0,
@@ -367,7 +372,8 @@ C.2
 The oscillation frequency about the equilibrium is obtained from
 
                                                                                                                        6
-             𝑑𝐹′
+
+             𝑑𝐹′
 𝐹𝑧′ ≈ 𝑀0 + 𝑑𝑧𝑧 ∆𝑧,                                                         (C-9)
 where ∆𝑧 = 𝑧 − ℎ0.
             𝑑𝐹′

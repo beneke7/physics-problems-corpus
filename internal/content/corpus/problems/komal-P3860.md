@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, auxiliary-unknowns]
 ---
 
-There is a semi-cylinder of radius R and mass M at rest on a horizontal table. On the top of the semi-cylinder there is a small cube of mass m = M /2. What is the force exerted by the sliding cube on the semi-cylinder in the position of 
- =30$^\circ$ if a ) the semi-cylinder is fixed? 
- b ) if the semi-cylinder can slide along the table without friction? 
+There is a semi-cylinder of radius R and mass M at rest on a horizontal table. On the top of the semi-cylinder there is a small cube of mass m = M /2. What is the force exerted by the sliding cube on the semi-cylinder in the position of
+ =30$^\circ$ if a ) the semi-cylinder is fixed?
+ b ) if the semi-cylinder can slide along the table without friction?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3860-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3860-fig1.gif)

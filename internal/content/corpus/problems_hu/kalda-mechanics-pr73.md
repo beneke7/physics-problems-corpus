@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $m$ tömegű test súrlódásmentes vízszintes felületen fekszik. Tetején egy másik, $m$ tömegű test van, azon pedig egy harmadik, szintén $m$ tömegű test. Az első és a harmadik testet összekötő fonalat egy súlytalan csigán vezetjük át. A csigát $F$ erővel húzzuk. Mekkora a második test gyorsulása? A testek közötti súrlódási együttható $\mu$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr73-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr73-fig1.jpg)

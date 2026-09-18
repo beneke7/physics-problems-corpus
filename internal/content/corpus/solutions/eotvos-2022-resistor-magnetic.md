@@ -53,27 +53,27 @@ i
 10. ábra
 negyed körgyűrű határára:
 R1I1 − R7(I − I1 − I2) = 0 → πR
-
+
 I1 − 3(I − I1 − I2)
-
+
 = 0, (1)
 R3I3 + R5(I − I2 + I3) − R6(I2 − I3) = 0,
 amiből
 (2)
 πR
 2
-
+
 I3 + 2(I − I2 + I3) − (I2 − I3)
-
+
 = 0,
 adódik, és végül
 (3) R2I2 + R3I3 − R4(I − I2) − R1I1 = R
-
+
 I2 +
 π
 2
 I3 − (I − I2) − πI1
-
+
 = 0.
 Az ismeretlen paraméterek (I1, I2 és I3) egy háromismeretlenes, lineáris egyenlet-
 rendszer megoldásaként adódnak. Tényleg szükség van ezek kiszámolására? Pró-
@@ -105,9 +105,9 @@ I − I1 − I2
 =
 μ0
 16r
-
+
 I1 − 3(I − I1 − I2)
-
+
 = 0,
 Középiskolai Matematikai és Fizikai Lapok, 2023/2 115
 i
@@ -139,9 +139,9 @@ r
 =
 μ0
 8r
-
+
 I3 +2(I −I2 +I3)−(I2 −I3)
-
+
 = 0,
 itt is nullának adódik a mágneses indukció nagysága. Az utolsó lépésben a (2)
 egyenletet használtuk fel. Összegezve, a teljes rendszer esetében is nulla a mágneses
@@ -154,7 +154,7 @@ rikákból áll. A sugárirányú szakaszok által keltett
 mágneses tér a középpontban nulla. Tekintsünk egy
 r̃ sugarú karikát, melyet a befutó sugárirányú veze-
 tékek körı́vekre bontanak. Az i. körı́v középponti
-szöge legyen αi, hossza i, rajta átfolyó áram Ii, el-
+szöge legyen αi, hossza  i, rajta átfolyó áram Ii, el-
 lenállása Ri, ezen ellenálláson eső feszültség Ui.
 Az i. körı́v által keltett mágneses tér a közép-
 pontban
@@ -166,7 +166,7 @@ r̃
 =
 μ0
 4π
-iIi
+ iIi
 r̃2
 =
 μ0
@@ -181,14 +181,14 @@ Rr̃2
 ,
 ami arányos a körı́ven eső feszültséggel. Összegezve az összes körı́v járulékát:
 B =
-
+
 i
 Bi =
 μ0
 4π
 r
 Rr̃2
-
+
 i
 Ui = 0.
 A huroktörvény alapján a feszültségesések összege a zárt karikára nulla, ı́gy a karika

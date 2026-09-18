@@ -62,7 +62,9 @@ A-2. We set 𝑦 = 0 in the previous equation, and obtain:
        these asymptotes.
     2. The function has three maxima which are called Lagrange points.
     3. The function goes to −∞ for 𝑥 → ±∞
-                                                                                S3-2
+
+
+                                                                                S3-2
 A-2 (0.7 pt)
 
 
@@ -102,7 +104,9 @@ A-4. The angular momentum of the system is:
                                                    𝑀1 𝑀2 2 𝐺𝑀     𝐺𝑀 2 𝑀 2
                             𝐽 = 𝜇𝑎𝑉 = 𝜇𝑎2 𝜔 =       𝑀
                                                         𝑎 √ 𝑎3 = √ 𝑀1 2 𝑎,
-                                                                                   S3-3
+
+
+                                                                                   S3-3
     where 𝜇 is the reduced mass and 𝑉 is the relative velocity of the two point masses. Taking the
     logarithm of both sides we’ll have:
 
@@ -169,7 +173,9 @@ A-5 (1.0 pt)
 
                         𝑎3
 A-6. From 𝑃 = 2𝜋√𝐺𝑀 we’ll have:
-                                                                               S3-4
+
+
+                                                                               S3-4
                                                                1
                                            𝑃2 𝐺(𝑀S + 𝑀NS ) 3
                                         𝑎=[               ]
@@ -230,7 +236,9 @@ B-1. Using Newton’s law of gravity:
                                 𝑔=−                   = −
                                                       ⏞
                                           𝑟2                3
-                                                                                        S3-5
+
+
+                                                                                        S3-5
 B-1 (0.2 pt)
 
          4𝜋𝐺𝜌c 𝑟
@@ -291,7 +299,9 @@ B-3 (0.4 pt)
 
 
 B-4.
-                                                                            S3-6
+
+
+                                                                            S3-6
                                      𝛾−1
                                   𝐾𝛾𝜌𝑐    𝑑 2 𝛾−2 𝑑𝑢
                                       2 2 𝑑𝑥 [𝑥 𝑢 𝑑𝑥
@@ -361,7 +371,9 @@ B-6 (0.8 pt)
 
 
 B.7.
-                                                                                             S3-7
+
+
+                                                                                             S3-7
                                          𝑟̃ (𝑟,𝑡)                            𝑟
                              𝑀(𝑟) = ∫               4𝜋𝑟 𝜌̃(𝑟 , 𝑡)𝑑𝑟′ = ∫ 4𝜋𝑟 ′2 𝜌(𝑟 ′ )𝑑𝑟′
                                                         ′2      ′
@@ -423,7 +435,9 @@ B.9. Using of the results in B.7 and B.8, we have:
       therefore:
 
                         𝑟̃̈ = 𝑟𝜖̈ = 𝑔(1 − 2𝜖) − 𝑔(1 − 3(𝛾 − 1)𝜖 − 𝜖) = 𝑔(3𝛾 − 4)𝜖
-                                                                     S3-8
+
+
+                                                                     S3-8
       and:
                                                    𝑔
                                             𝜖̈ =     (3𝛾 − 4)𝜖

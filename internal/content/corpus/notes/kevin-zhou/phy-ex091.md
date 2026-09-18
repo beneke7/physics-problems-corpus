@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 Example.      Nitrogen. We start with the electron configuration 1s2 2s2 2p3 , which has degeneracy
  6
-  
+
  3 = 20. This requires a more systematic approach. The general approach is like that of Clebsch–
 Gordan decomposition. We sort the states by the (ML , MS ) values. A highest pair (i.e. a state
 annihilated by L+ and S+ ) must be the doubly stretched/highest weight state of a 2S+1 L multiplet.
@@ -32,7 +32,6 @@ since we’re focusing on highest weight states, we need only consider states wi
     In this case, the relevant (ML , MS ) values are
 
                       1 × (2, 1/2),   2 × (1, 1/2),   1 × (0, 3/2),   3 × (0, 1/2)
-246 10. Atomic Physics
 
 
 where the prefactor indicates the multiplicity. The first state is hence the highest weight state of a

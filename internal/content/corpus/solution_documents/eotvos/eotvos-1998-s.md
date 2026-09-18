@@ -25,7 +25,7 @@ tömeg¶, pontszer¶ test vonzásával egyenérték¶. Ezek után Eötvös fenti
 a Gellért-hegy mekkora szöggel módosítja a mérés helyén a függ®ón irányát!
                                                                                                                  (Radnai Gyula)
    Megoldás. Tekintsük a     2. ábrát    !
-   A könny¶ rúd hosszát 2l -lel jelöltük, a rúd végein lév® kis testek tömegét m-mel, a Gellért-hegyet helyettesít®
+   A könny¶ rúd hosszát 2l -lel jelöltük, a rúd végein lév® kis testek tömegét m-mel, a Gellért-hegyet  helyettesít®
 pontszer¶ test tömegét pedig M -mel. A rúd közepe M -t®l állandó r                 = 300 m távolságra van; az ábra egy olyan
 helyzetet mutat, amikor az ábra (vízszintes) síkjában leng® rúd egyik vége r1 , másik vége r2 távolságra van M -t®l.
 Felrajzoltuk a kis testekre ható gravitá iós vonzóer®ket is (F1 , ill. F2 ), amelyeket M fejt ki rájuk.
@@ -41,7 +41,7 @@ Felrajzoltuk a kis testekre ható gravitá iós vonzóer®ket is (F1 , ill. F2 )
                                                   Γ = F1 · l sin α1 − F2 l sin α2 .
 
 Egy-egy szinusz-tétel felhasználásával ez így is írható:
-                                                                                                 
+
                                              F1   F2                                      1     1
                                     Γ=          −           lr sin α = γmM lr sin α           − 3       .
                                              r1   r2                                      r13  r2
@@ -87,10 +87,12 @@ helyzet, amikor a rúd éppen M felé mutat, a másik helyzet erre mer®leges. H
 α = 0 a rúd stabilis egyensúlyi helyzete lenne, míg α = esetén a rúd labilis egyensúlyi helyzetben lenne.
                                                        2
    Most azonban a rúdra nem         sak a gravitá iós forgatónyomaték hat, hanem az elfordulás közben meg savarodó
-torziós szál által kifejtett visszatérít® forgatónyomaték is. Kis ∆α szögkitérés esetén ez ∆α-val arányosnak tekinthet®;
+torziós szál által kifejtett  visszatérít®  forgatónyomaték is. Kis ∆α szögkitérés esetén ez ∆α-val arányosnak tekinthet®;
                               ∗
 az arányossági tényez®t D -gal szokás jelölni.
-     Ha nem lenne a gravitá iós forgatónyomaték, akkor a torziós inga lengésidejét így lehetne kiszámítani: T =
+
+
+     Ha nem lenne a gravitá iós forgatónyomaték, akkor a torziós inga lengésidejét így lehetne kiszámítani: T =
      p
 2π    Θ/D∗ , ahol Θ a rúd közepére vonatkozó tehetetlenségi nyomaték. Milyen taggal egészül ki D∗ , ha gravitá i-
 ós forgatónyomaték is fellép?
@@ -122,7 +124,7 @@ Ebb®l leolvasható, hogy α = 0 esetén D
 
 
 Ezt a T1 és T2 lengésid®t mérte le Eötvös Loránd.
-     Hogyan lehet ebb®l kiszámítani a függ®ón elhajlását? Tegyük fel, hogy a függ®ónra  fonálon függ® kis testre 
+     Hogyan lehet ebb®l kiszámítani a függ®ón  elhajlását ? Tegyük fel, hogy a függ®ónra   fonálon függ® kis testre
                                                                             ∗
 a Föld mg nagyságú függ®leges irányú er®t, a Gellért-hegy pedig F0 = mg       nagyságú vízszintes irányú er®t fejt ki.
 Ekkor az a pi i δ szög, amivel a függ®ón a függ®legest®l eltér, így kapható meg:
@@ -137,7 +139,7 @@ vagyis a lengésid®-képletekben F0 rejti a szükséges informá iót. Felírha
                                        T12   T22   4π 2 Θr     π 2 2ml2 r   2π 2 r
                             2
 (Felhasználtuk, hogy Θ = 2ml .) A keresett δ szög tehát
-                                                                                
+
                                                     g∗  2 r             1    1
                                                  δ=    = π2                − 2       .
                                                     g   3 g            T12  T2
@@ -155,24 +157,26 @@ térfogata. A Gellért-hegy meglehet®sen szabálytalan alakú, ezért keresett 
 az országban. A Szombathely közelében lév® Ság-hegy            sonkakúp alakja nyerte meg tetszését, itt készült az a ma már
 híres fénykép, amelyen a mérést végz® Eötvös látható munkatársaival: Tangl Károllyal, Bodola Lajossal és Kövesligethy
 Radóval.
-      2. Visszatérve a feladat megoldására, a helyes végeredménnyel azonos nagyságrend¶ eredmény adódhat a fentinél
+
+
+      2. Visszatérve a feladat megoldására, a helyes végeredménnyel azonos nagyságrend¶ eredmény adódhat a fentinél
 valamivel durvább közelítések esetén is. Sok versenyz® feltételezte mindjárt a megoldás elején, hogy mivel r ≫ l , ezért
 az F1 és F2 er®k gyakorlatilag párhuzamosak egymással. Ezzel a feltételezéssel élve a következ® eredmény adódik:
-                                                                   
+
                                                  2r        1    1
                                            δ=π                − 2       = 2, 5 · 10−5 radián.
                                                   g       T12  T2
       Ha nem sak az er®k párhuzamosságát tételezi fel valaki, hanem még azt a kis eltérést is elhanyagolja,
                                                                                                  p          amivel a
-mer®leges helyzet¶ torziós inga lengésideje eltér a gravitá ió nélküli esett®l, tehát a T2 = T = 2π
+ mer®leges  helyzet¶ torziós inga lengésideje eltér a gravitá ió nélküli esett®l, tehát a T2 = T = 2π
                                                                                                    Θ/D∗ közelítéssel
 él, akkor a következ® eredményt kapja:
-                                                                       
+
                                                     2r         1    1
                                            δ = 2π               2 − 2       = 5 · 10−5 radián.
                                                       g       T1   T2
-Ezek a megoldások sem rosszak,          sak rosszabb, durvább közelítések, mint amit a helyes megoldásnál kaptunk. A
-Versenybizottság  ha nem is teljes pontszámmal, de  értékelte ezeket a megoldásokat is.
+Ezek a megoldások sem  rosszak ,          sak rosszabb, durvább közelítések, mint amit a helyes megoldásnál kaptunk. A
+Versenybizottság   ha nem is teljes pontszámmal, de   értékelte ezeket a megoldásokat is.
 
    2. Két egyenes, függ®legesen álló, felül nyitott kém s® közül az egyik 20 m, a másik 40 m magas. Keresztmetszetük
                          3                    3
@@ -183,11 +187,11 @@ hagyunk?
                                                                                                              (Károlyházy Frigyes)
       Megoldás. Hogyan párolog a kölnivíz? Ugyanúgy, mint minden más folyadék. A felszín közelében dinamikus
 egyensúly alakul ki a folyadékból kilép® és a folyadékba belép® molekulák között. Az egyes molekulák szempontjából
-mindkét folyamat véletlenszer¶. Mindaddig, amíg a g®zben nin s elég molekula ahhoz, hogy ez a telítési g®znyomás
+mindkét folyamat véletlenszer¶. Mindaddig, amíg a g®zben nin s elég molekula ahhoz, hogy ez a  telítési  g®znyomás
 érték beálljon, több molekula lép ki a folyadékból, mint amennyi vissza sapódik oda. Ekkor még a g®z nin s egyensúlyi
 állapotban, s¶r¶sége helyr®l helyre változhat. Ha leveg® is van jelen, akkor a g®z és a leveg® keverékében a folyadék
 felszíne közelében a legnagyobb a g®z kon entrá iója, attól távolodva fokozatosan                sökken. Ez a kon entrá ió-gradiens
-(kon entrá ió-esés) idézi el® a kölnimolekulák diúzióját a leveg®n keresztül. Ennek tanulmányozásával oldhatjuk
+(kon entrá ió-esés) idézi el® a  kölnimolekulák  di úzióját a leveg®n keresztül. Ennek tanulmányozásával oldhatjuk
 meg a feladatot.
       A Négyjegy¶ függvénytáblázatok. . . 124. oldalán szerepel az alábbi összefüggés (Fi k-törvény):
 
@@ -204,13 +208,13 @@ ben a kölnimolekulák tömegáramával. Az áram mindig a nagyobb kon entrá i�
                 ∆m     ∆̺
 hely felé, ezért    és     mindig ellentétes el®jel¶ek. A törvényben éppen azért szerepel a negatív el®jel, hogy a
                  ∆t    ∆z
-folyamatra jellemz® D arányossági tényez®  az ún. diúziós állandó  pozitív lehessen.
+folyamatra jellemz® D arányossági tényez®   az ún. di úziós állandó   pozitív lehessen.
       Gondoljuk át, hogyan változik a kölnig®z s¶r¶ségeloszlása a függ®leges kém s®ben a betöltés pillanatától kezdve
-mindaddig, amíg beáll valamilyen  ha nem is egyensúlyi, de legalább id®ben állandó állapot (               4. ábra).
+mindaddig, amíg beáll valamilyen   ha nem is egyensúlyi, de legalább id®ben állandó állapot (               4. ábra).
    4. ábra. Nyitott kém s® esetén a kölnig®z                                          s¶r¶sége    a     magasság függvényében:
 a) kezdetben; b) ki sit kés®bb; ) az állandósult állapotban.
       Felül nyitott kém s® esetén a kölni betöltésének pillanatában a kém s® leveg®vel van tele; a kölnig®z s¶r¶sége
-zérus. Ki sit kés®bb már lesznek a        s®ben kölnimolekulák, a kölnig®z s¶r¶sége a magassággal rohamosan              sökken,
+zérus. Ki sit kés®bb már lesznek a        s®ben  kölnimolekulák , a kölnig®z s¶r¶sége a magassággal rohamosan              sökken,
     sak közvetlenül a folyadék felszínénél éri el az egyensúlyi, telített g®z állapotát lényegében elér® s¶r¶séget. Lassanként
 egyre több kölnimolekula lesz a kém s®ben lév® leveg®ben, és el®bb-utóbb beáll egy olyan egyenletes eloszlás, amikor
 a s¶r¶ség-gradiens álladó, vagyis a s¶r¶ség a magassággal lineárisan                sökken. Feltételezhetjük, hogy a nyitott kém s®
@@ -228,7 +232,9 @@ négyszer annyi id® alatt               3                                      
                         párolog el 2 cm kölnivíz a 40 m hosszú kém s®b®l, mint 1 cm kölnivíz a 20 m-esb®l.
       Válaszoljunk még arra a kérdésre, hogy mi történne, ha mindkét kém s® tetejét annyira leragasztanánk, hogy a
 fed®lapokon      supán egy-egy parányi (egyforma) nyílás maradna. Módosulna-e az el®z® válasz? Természetesen igen,
-hiszen új, az el®z®t®l eltér® s¶r¶ségeloszlás alakulna ki mindkét kém s®ben. Ha ugyanis     sak egy nagyon pi i nyíláson
+
+
+hiszen új, az el®z®t®l eltér® s¶r¶ségeloszlás alakulna ki mindkét kém s®ben. Ha ugyanis     sak egy nagyon pi i nyíláson
 tud párologni a kölnig®z a kém s®b®l, akkor jó közelítéssel feltételezhetjük, hogy gyakorlatilag az egész kém s®ben
 telített lesz a g®z, végig ugyanannyi lesz a s¶r¶sége. A párolgás sebességét a lyuk pi iny keresztmetszete, valamint
 a lyuknál kialakuló (nagy) s¶r¶ség-gradiens határozza meg. Ennek értéke azonban már nem függ attól, hogy milyen
@@ -239,12 +245,12 @@ eltávoznia, mint a másikból, amihez pedig     kétszer annyi id®re van szük
 kialakuló állandósult állapotokat hasonlítottuk össze. Az állandósult állapot kialakulásának, beállásának idejét elha-
 nyagoltuk a teljes elpárolgáshoz szükséges id®hoz képest. Mennyire jogos a fenti elhanyagolás? Ez a konkrét adatoktól
 függ. Tapasztalat szerint még nyitott kém s® esetén is napokban mérhet® az elpárolgási id®, az állandósult s¶r¶ségel-
-oszlás pedig 510 per    alatt beáll a feladatban szerepl® adatok esetén. Mérések szerint a párolgás valóban kb. 2-szer
+oszlás pedig 5 10 per    alatt beáll a feladatban szerepl® adatok esetén. Mérések szerint a párolgás valóban kb. 2-szer
 gyorsabb a rövidebb kém s®nél, mint a hosszabbnál.
    Elhanyagoltuk még a folyadék térfogatát a kém s® térfogatához képest; feltételeztük, hogy a folyamatok ugyanazon
-az állandó h®mérsékleten történtek; nem gyeltünk arra, hogy a kölnib®l hamarabb párolog el az alkohol, mint a víz;
+az állandó h®mérsékleten történtek; nem  gyeltünk arra, hogy a kölnib®l hamarabb párolog el az alkohol, mint a víz;
 feltételeztük a Fi k-törvény (lineáris összefüggés!) érvényességét; elhanyagoltuk a leveg®ben mindig meglév® szennyez®-
-dések hatását, amelyek a folyadék felszínén vékony (molekuláris) rétegben lerakódva azon olyan lmet képezhetnek,
+dések hatását, amelyek a folyadék felszínén vékony (molekuláris) rétegben lerakódva azon olyan   lmet  képezhetnek,
 ami jelent®sen fékezheti a folyadék párolgását.
 
    3. Egy szolenoid keresztmetszete d oldalél¶ négyzet, hossza L (L ≫ d). A teker sben folyó egyenáram hatására
@@ -255,20 +261,20 @@ fonalakon (l ≫ d), a   6. ábrán   látható módon. A keret tömege m, elekt
 az ingaszer¶en felfüggesztett keret?
                                                                                                          (Gnädig Péter)
    Megoldás.
-   Gondoljuk át a folyamatot! Az ingaszer¶en felfüggesztett keret mágneses mez®be merül. Ha kimegy alóla a
-szolenoid, kimegy a mez® is  ez pedig feszültséget indukál a keretben. A fellép® indukált áramra hat a távozóban
-lév® mágneses mez®, ami a józan sejtés szerint maga után rántja a keretet is. Mindezeket a sejtéseket megfelel® zikai
+   Gondoljuk át a folyamatot! Az ingaszer¶en felfüggesztett keret mágneses mez®be merül. Ha  kimegy alóla  a
+szolenoid, kimegy a mez® is   ez pedig feszültséget indukál a keretben. A fellép® indukált áramra hat a távozóban
+lév® mágneses mez®, ami a józan sejtés szerint maga után rántja a keretet is. Mindezeket a sejtéseket megfelel®  zikai
 törvényekkel kell még alátámasztanunk (vagy meg áfolnunk), s a kvantitatív törvények alkalmazásával majd arra is
 válaszolni tudunk, hogy milyen magasra emelkedik fel a keret.
    A megoldás egyik kul skérdése az, hogy mit állíthatunk arról a mágneses mez®r®l, amibe belemerül a keret. Tudjuk,
 hogy a mágneses induk ióvektor nagysága mélyen a teker s belsejében B0 , de milyen a mágneses mez® a szolenoid
-végén? Az is elég lenne, ha a uxust meg tudnánk határozni.
-   Egy kis gondolatkísérlet segíteni fog. Tudjuk, hogy a uxus mélyen a szolenoid belsejében:         B0 · A = B0 · d2 .
+végén? Az is elég lenne, ha a  uxust meg tudnánk határozni.
+   Egy kis gondolatkísérlet segíteni fog. Tudjuk, hogy a  uxus mélyen a szolenoid belsejében:         B0 · A = B0 · d2 .
 Gondolatban vágjuk itt a szolenoidot vízszintesen ketté! Nem kell a huzalt is elvágnunk,       supán gondoljuk azt, hogy
 itt két, azonos keresztmetszet¶ és menetemelkedés¶, azonos árammal átjárt teker s van összetolva. Nyilvánvaló, hogy
-mindkét teker s azonos mértékben járul hozzá az itt kialakuló uxushoz, amib®l pedig már következik, hogy a mágneses
+mindkét teker s azonos mértékben járul hozzá az itt kialakuló  uxushoz, amib®l pedig már következik, hogy a mágneses
                              1
-uxus a szolenoid végénél:     B0 d2 .
+ uxus a szolenoid végénél:     B0 d2 .
                              2
    Nem állíthatjuk azt, hogy a mágneses mez® a szolenoid végén is homogén; a B vonalak széthajlanak. Azt azonban
                                                                                                 1
@@ -276,28 +282,30 @@ mindkét teker s azonos mértékben járul hozzá az itt kialakuló uxushoz, am
 bizton állíthatjuk, hogy a mágneses induk ióvektor függ®leges komponense a teker s végénél mindenhol
                                                                                                 2
                                                                                                        1
-  A d élhosszúságú, négyzet alakú keret tehát egy olyan mágneses mez®be merül, amelynek uxusa Φ =       B0 d2 .
+  A d élhosszúságú, négyzet alakú keret tehát egy olyan mágneses mez®be merül, amelynek  uxusa Φ =       B0 d2 .
                                                                                                        2
-Amikor  mondjuk ∆t id® alatt  elrántjuk a szolenoidot, ez a uxus zérusra sökken. Így a keretben indukálódó
+Amikor   mondjuk ∆t id® alatt   elrántjuk a szolenoidot, ez a  uxus zérusra sökken. Így a keretben indukálódó
 feszültség nagysága:
                                                               ∆Φ   B0 d2
                                                   |Uind | =      =       .
                                                               ∆t   2∆t
-A ∆t id® alatt megsz¶n® uxus által a keretben indukált áram nagysága:
+A ∆t id® alatt megsz¶n®  uxus által a keretben indukált áram nagysága:
 
 
                                                               1 B0 d2
                                                         I=            .
                                                               R 2∆t
-Tételezzük fel, hogy pontosan ekkora áram folyik ∆t id®n keresztül a keretben  addig és       sak addig, amíg változik a
-uxus. De hát eközben a keret jobb oldali, d hosszúságú szakaszára (az itt folyó áramra) még er®t fejt ki a mágneses
+Tételezzük fel, hogy pontosan ekkora áram folyik ∆t id®n keresztül a keretben   addig és       sak addig, amíg változik a
+ uxus. De hát eközben a keret jobb oldali, d hosszúságú szakaszára (az itt folyó áramra) még er®t fejt ki a mágneses
 mez®! Írjuk fel az erre ható er®lökést:
 
 
                                                                   B0 1 B0 d2
                                            F · ∆t = BId · ∆t =               d · ∆t.
                                                                   2 R 2∆t
-                                   B02 d3
+
+
+                                   B02 d3
 Ez a keretnek mv0 = F ∆t =                lendületet ad. A keret tehát
                                     4R
                                                                     B02 d3
@@ -310,7 +318,7 @@ sebességgel kilendül, és felemelkedik
 magasságra.
    Már     sak azt kell meghatároznunk, hogy milyen irányban lendül ki a keret. A feladathoz tartozó ábráról leolvasható,
 hogy a mágneses induk ióvektor a szolenoid belsejében függ®legesen felfelé irányul. A szolenoid elrántása közben a
-keretben olyan irányú áram indukálódik, amelyik (Lenz törvénye alapján) a keret uxusának              sökkenését akadályozni
+keretben olyan irányú áram indukálódik, amelyik (Lenz törvénye alapján) a keret  uxusának              sökkenését akadályozni
 igyekszik. Ezek szerint az indukált áram a keretben felülr®l nézve az óramutató járásával ellentétes irányú, mivel
 az ebb®l származó induk ióvektor mutat felfelé. A keret jobb oldali szakaszán ezek szerint befelé, hátrafelé folyik az
 indukált áram. Ez ∆t ideig bemerül egy olyan mágneses mez®be, amelyben a mágneses induk ióvektor függ®leges
@@ -323,7 +331,7 @@ pontosan megadja azt a vízszintes er®lökést, amit a keret kap.
    Természetesen ahhoz is id®re van szükség, hogy a keret sebessége nulláról v0 -ra n®jön, az eközben megtett utat
 elhanyagoltuk a fenti megoldásban. Ez a szokásos elhanyagolás a ballisztikus inga és sok hasonló ütközési folyamat
 tárgyalásából ismer®s. Eredményünk tehát most is             sak közelít® érvény¶, pontossága a közelítés jogosságától függ. A
-feladat ugyan paraméteresen lett kit¶zve, az elrántás szó utalt azonban arra, hogy a fenti közelítést joggal alkalmaz-
+feladat ugyan paraméteresen lett kit¶zve, az  elrántás  szó utalt azonban arra, hogy a fenti közelítést joggal alkalmaz-
 hatjuk.
 
 
@@ -334,17 +342,17 @@ hatjuk.
 
 
    Els® díjat  és vele 6 ezer forintos pénzjutalmat nyertek:
-   Sarlós Feren , a JATE zikus hallgatója, aki a bajai III. Béla Gimnáziumban érettségizett mint              Polgár László,
+   Sarlós Feren , a JATE  zikus hallgatója, aki a bajai III. Béla Gimnáziumban érettségizett mint              Polgár László,
 Szkladányi András Hilbert Margit
                         és                tanítványa;
-   Végh Dávid        , az ELTE zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
+   Végh Dávid        , az ELTE  zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
 mint  Horváth Gábor      tanítványa.
 
    Második díjat     és vele 5 ezer forintos pénzjutalmat nyertek:
    Rozsonday Gerzson           , a debre eni KLTE Gyakorló Gimnáziumának 12. osztályos tanulója,       Kirs h Éva Szegedi
                                                                                                                       és
 Ervin  tanítványa;
-   Somogyi Gábor         , a KLTE zikus hallgatója, aki a debre eni Tóth Árpád Gimnáziumban érettségizett mint     Baló
+   Somogyi Gábor         , a KLTE  zikus hallgatója, aki a debre eni Tóth Árpád Gimnáziumban érettségizett mint     Baló
 Péter  tanítványa;
    Terpai Tamás, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. osztályos tanulója,              Horváth Gábor     tanítványa.
 
@@ -353,7 +361,7 @@ Péter  tanítványa;
                                                                                                                        és
 István tanítványa;
    Heged¶s Ákos, a pé si           iszter i Nagy Lajos Gimnázium 11. osztályos tanulója,     Orovi a Márkné   tanítványa;
-   Kormos Márton, az ELTE zikus hallgatója, aki a debre eni KLTE Gyakorló Gimnáziumban érettségizett mint
+   Kormos Márton, az ELTE  zikus hallgatója, aki a debre eni KLTE Gyakorló Gimnáziumban érettségizett mint
 Szegedi Ervin Farkas József
                 és                   tanítványa;
    Máthé András          , a budapesti ELTE Apá zai Csere János Gyakorló Gimnázium 11. osztályos tanulója,                  Flórik
@@ -362,16 +370,18 @@ György    tanítványa;
 temesvári Bartók Béla Lí eumban érettségizett mint           Toró T. Tibor Benedek István
                                                                                és              tanítványa.
 
-   Di séretet   kaptak a verseny 1118. helyezettjei:
-   Bálint Imre       , az ELTE zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumban érettsé-
+   Di séretet   kaptak a verseny 11 18. helyezettjei:
+   Bálint Imre       , az ELTE  zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumban érettsé-
 gizett mintHomolya Ern®         tanítványa;
-   Császár Balázs        , a BME mérnök-zikus hallgatója, aki a szombathelyi premontrei rendi Szent Norbert Gimnázi-
+   Császár Balázs        , a BME mérnök- zikus hallgatója, aki a szombathelyi premontrei rendi Szent Norbert Gimnázi-
                        Heigl István Ková s László
 umban érettségizett mint                      és                 tanítványa;
    Katona Gergely, a budapesti ELTE Trefort Ágoston Gyakorlóiskola 12. osztályos tanulója,                   Szörényi Zoltán
 tanítványa;
    Nagy Kálmán, a budapesti Veres Péter Gimnázium 12. osztályos tanulója,                Varga Mária   tanítványa;
-   Pogány Ádám, az ELTE zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
+
+
+   Pogány Ádám, az ELTE  zikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett
 mint   Horváth Gábor    tanítványa;
    Rá z Balázs, a budapesti Veres Péter Gimnázium 12. osztályos tanulója,         Varga Mária    tanítványa;
    Tóth Bálint, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. osztályos tanulója,          Horváth Gábor Dvorák
@@ -383,7 +393,7 @@ Ce ília   tanítványa;
    A megjelent versenyz®ket és tanáraikat a házigazdák nevében         Kertész János   egyetemi tanár üdvözölte, majd a
                                                                                                                Kármán
 Versenybizottság elnöke emlékezett meg a 100 évvel ezel®tti versenyr®l s annak nyerteseir®l. Az els® díjat akkor
-Tódor     nyerte, akinek   Beke Manó   volt tanára a budapesti Mintagimnáziumban. A második díjas     Gróts Gábor   is a
+Tódor     nyerte, akinek   Beke Manó   volt tanára a budapesti Mintagimnáziumban. A második díjas     Gró ts Gábor   is a
 budapesti m¶egyetemen szerzett mérnöki diplomát, akár sak Kármán Tódor.
    Ezután a feladatok megoldásának diszkussziója következett, amelyhez         Härtlein Károly   mutatott be érdekes kí-
 sérleteket. A második feladathoz kap solódó mérést s ennek számítógépes kiértékelését videón tekinthették meg a
@@ -394,7 +404,9 @@ ványokért és könyvekért.
    A díjkiosztáson megjelent     Dolinszky Tamás   is, aki 1939-ben nyert díjat a versenyen.
 
                                                                                                          Radnai Gyula
-                                        l                      l
+
+
+                                        l                      l
 
                       l                               l
 
@@ -510,7 +522,9 @@ z                                   z                                          z
              ρ                                            ρ                                              ρ
               0                                            0                                             0
         a)                                       b)                                         c)
-           z                          z
+
+
+           z                          z
                l                          l
     .
 .

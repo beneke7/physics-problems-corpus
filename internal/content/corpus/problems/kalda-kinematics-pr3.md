@@ -19,4 +19,4 @@ verification_status: pending
 
 One of two rings with radius $r$ is at rest and the other moves at velocity $v$ towards the first one. Find how the velocity of the upper point of intersection depends on $a$, the distance between two rings' centres.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr3-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr3-fig1.jpg)

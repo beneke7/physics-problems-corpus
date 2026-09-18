@@ -17,23 +17,23 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2005_
 m
 x, hence
 ω =
-
+
 k/m.
 2) From the Gauss’ law, the charge on the plate Q = Sε0E =
-Sε0U/X1. The force acting on it Fe = k(X0 − X1) = QE, whe-
-re E is the average electric field (averaged over the charges). Let us
+Sε0U/X1. The force acting on it Fe = k(X0 − X1) = Q E , whe-
+re  E  is the average electric field (averaged over the charges). Let us
 look at the charge layer (at the surface of the plate) with a high mag-
 nification: the electric field there depends linearly on the net charge
 inwards (in the plate) from the current point. Therefore, the average
 fieldisjustthearithmeticaverageofthefieldsonbothsidesofthelayer:
-E = E/2. Finally, Fe = k(X0 − X1) = QE/2 (this result could
+ E  = E/2. Finally, Fe = k(X0 − X1) = QE/2 (this result could
 have been obtained from energetic considerations, using infinitesimal
 virtual displacement of the plate and the energy conservation law). So,
 Fe = S
 2
 ε0(U/X1)2
 , hence U = X1
-
+
 2k(X0 − X1)/Sε0.
 3) If the plates move by x, the change of the force due to electric field
 is δFe = x| d
@@ -136,18 +136,18 @@ Introducing ω2
 0) + ω2
 0ω2
 1
-
+
 3 − 2
 X0
 X1
-
+
 = 0.
 Therefore,
 2ω2
 = ω2
 1 + ω2
 0 ±
-
+
 ω4
 1 + ω4
 0 + 2ω2

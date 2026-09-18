@@ -176,7 +176,7 @@ $$
 Substituting into (1) from (2) and (3)
 
 $$
-\begin{array}{rlrl} 
+\begin{array}{rlrl}
 & & 0.60 & =\exp (-0.6924 T) \\
 \text { or } & 0.692 t & =T \ln (1 / 0.60) \\
 \text { Sub. tw} T, & & =\left(5.7 \times 10^{3}\right)(0.510) \\
@@ -546,7 +546,7 @@ T & =2.60 \cdot N
 \end{aligned}
 $$
 
-## $Q_{4}(a)(1)$ <br> ALTERNATIVE <br> Solntion 2
+## $Q_{4}(a)(1)$  —  ALTERNATIVE  —  Solntion 2
 
 (He MARKS FOR DIAGRAM.
 

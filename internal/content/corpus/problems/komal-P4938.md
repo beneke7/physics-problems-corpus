@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A crate of mass $m=10$ kg was pulled along the level ground at a force of magnitude $F=30$ N. The crate was initially at rest and the force makes an angle of $\alpha=30^\circ$ with the horizontal. How much distance did the crate cover and what was its final speed if 120 J work was done? (The coefficient of kinetic friction is $\mu=0.2$.) 
+A crate of mass $m=10$ kg was pulled along the level ground at a force of magnitude $F=30$ N. The crate was initially at rest and the force makes an angle of $\alpha=30^\circ$ with the horizontal. How much distance did the crate cover and what was its final speed if 120 J work was done? (The coefficient of kinetic friction is $\mu=0.2$.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4938-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4938-fig1.gif)

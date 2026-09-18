@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201510"
 verification_status: pending
 ---
 
-A light-ray entering into a glass cube through one of the faces of the cube is reflected from three faces of the cube. The common point of these three faces is one of the vertices of the cube. Then the reflected light-ray emerges from the same face of the cube as it entered into it. 
- What can be stated about the direction of the emerging light-ray? 
+A light-ray entering into a glass cube through one of the faces of the cube is reflected from three faces of the cube. The common point of these three faces is one of the vertices of the cube. Then the reflected light-ray emerges from the same face of the cube as it entered into it.
+ What can be stated about the direction of the emerging light-ray?
  (4 pont)

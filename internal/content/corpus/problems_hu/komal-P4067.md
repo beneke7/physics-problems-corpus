@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4067. Az égő gyertya lángja oldalról ujjunkkal akár 1--2 mm-re is megközelíthető. Miért? 
+P. 4067. Az égő gyertya lángja oldalról ujjunkkal akár 1--2 mm-re is megközelíthető. Miért?
  Lánczos Kornél fizikaverseny, Székesfehérvár

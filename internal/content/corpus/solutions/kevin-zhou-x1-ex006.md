@@ -33,11 +33,11 @@ escL3
 ℏ3
 which yields the bound
 m ≳
-
+
 ρℏ3
 v3
 esc
-1/4
+ 1/4
 ∼ 10eV/c2
 .
 A few decades ago, neutrinos were leading dark matter candidates, since they are light

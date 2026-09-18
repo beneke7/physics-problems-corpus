@@ -21,7 +21,7 @@ verification_status: pending
 
 A circus acrobat wants to climb up a long vertical rod. The rod has length $\ell$ and mass $m$. At the start of the performance, the rod is lowered from the circus dome on an elastic cord with negligible mass attached to one end. When the bottom of the rod just touches the ground, the cord has length $2\ell$ (Fig. 1). The unstretched length of the cord is $\ell$, and it follows Hooke's law when stretched.
 
-![figure](sources/eotvos/figures/eotvos-2008-p1-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2008-p1-fig1.jpg)
 
 Figure 1
 

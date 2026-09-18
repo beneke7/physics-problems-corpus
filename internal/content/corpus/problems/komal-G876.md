@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-The voltmeter shown in the figure reads $5~\mathrm{V}$ less after closing switch $K$ than in the case when the switch is open. What is the voltage $U$ if $R=2.4\,\Omega$? 
+The voltmeter shown in the figure reads $5~\mathrm{V}$ less after closing switch $K$ than in the case when the switch is open. What is the voltage $U$ if $R=2.4\,\Omega$?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G876-fig1.png)
+![figure](../../figures/komal/figures/komal-G876-fig1.png)

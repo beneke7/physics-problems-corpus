@@ -64,7 +64,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                                Figure E 1.1.
-                                 2
+
+
+                                 2
 
                         Exact theory value
 
@@ -89,7 +91,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
               Figure E 1.2
-                                                    3
+
+
+                                                    3
 
 
                                         SUMMARY SHEET
@@ -135,7 +139,9 @@ Accuracy of α
 
 
 For what time number range is graph, obtained using first value of SR, linear? SZ = 18 to 24
-                                                    4
+
+
+                                                    4
 
 Gradient of this graph in linear region                                       ≅ 0.027 to 0.47
 
@@ -185,7 +191,9 @@ S         <VX,1>       <VY,1>          <PX>         <PY>
 90      0.0107740    0.0076446        0.442087          -4.1357699                      -1.62580
 130     0.0073008    0.0177446        0.601090          -4.4564333                      -1.62713
 180     0.0097161    0.0096426        0.464609          -4.1773882                      -1.62409
-                                                            5
+
+
+                                                            5
 
 
 
@@ -245,7 +253,9 @@ velocity components. <PX> and <PY> are the mean momentum per particle.
 
                                   -8     -6   -4   -2        0      2   4     6      8
                                                             (a)                             V
-                                                   6
+
+
+                                                   6
 
 
 
@@ -296,7 +306,9 @@ velocity components. <PX> and <PY> are the mean momentum per particle.
 
 
 TYPICAL RESULTS : NOTE THE LARGE VARIATIONS IN THE VALUES OF <R2>
-                                      7
+
+
+                                      7
 
 
 Time Number

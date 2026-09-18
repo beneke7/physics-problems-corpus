@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy helyiségben olyan fűtőberendezést használunk, amelynek $P(T)$ kimeneti teljesítménye a szoba $T$ hőmérsékletétől függ, az ábrán látható módon. Ha a külső hőmérséklet $T_{1}$, akkor a szobahőmérséklet eléri a $T_{2}$ értéket (lásd az ábrát). Milyen szobahőmérséklet alakul ki, ha a külső hőmérséklet $T_{3}$? (A megoldást grafikusan, az ábra felhasználásával adjuk meg.) A helyiség hőcsere miatti veszteségi teljesítménye arányos a belső és a külső hőmérséklet különbségével.
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr38-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr38-fig1.jpg)

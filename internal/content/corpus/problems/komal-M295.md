@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-Drop a pebble into a container filled with water. Measure the greatest horizontal distance to which the water splashes as a function of the speed at which the pebble hits the water. Carry out the experiment with at least two pebbles which have different size. 
+Drop a pebble into a container filled with water. Measure the greatest horizontal distance to which the water splashes as a function of the speed at which the pebble hits the water. Carry out the experiment with at least two pebbles which have different size.
  (6 pont)

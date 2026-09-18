@@ -22,7 +22,7 @@ verification_status: pending
 
 Egy drón egy négyzetes hasábot húz egy kötéllel az alábbi vázlatban látható módon; a hasáb lassan, állandó sebességgel csúszik a vízszintes padlón. A hasáb homogén anyagból készült. A vázlatból méréseket végezhetél, feltételezve, hogy a rajta szereplő méretek és távolságok ismeretlen méretarányra nézve helyesek. Abban az esetben, ha nincs lehetőséged a nyomtatásra, és közvetlenül a számítógép képernyőjéről kell olvasni a feladatszövegeket, néhány segédvonal (szaggatott) látható az ábrán (amely hasznos lehet vagy nem).
 
-![ábra](../../sources/nbpho/figures/nbpho-2020-drone-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2020-drone-fig1.jpg)
 
 **i)** *(2 pont)* Határozd meg a hasáb és a padló közötti súrlódási együtthatót!
 

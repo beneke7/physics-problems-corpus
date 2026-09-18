@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws, model-reduction]
 ---
 
-In a spherical container of radius R there is a sample of ideal gas containing N molecules each having a mass of  m . Supposing that they move randomly in all directions at the same speed of v derive the basic equation of the kinetic theory gases, so determine the pressure of the gas. 
+In a spherical container of radius R there is a sample of ideal gas containing N molecules each having a mass of  m . Supposing that they move randomly in all directions at the same speed of v derive the basic equation of the kinetic theory gases, so determine the pressure of the gas.
  (5 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: pending
 ---
 
-Join iron and copper wires to make a thermocouple. Use a sensible voltmeter and measure and plot the voltage-temperature graph, than measure the temperature of your hand. 
+Join iron and copper wires to make a thermocouple. Use a sensible voltmeter and measure and plot the voltage-temperature graph, than measure the temperature of your hand.
  (6 pont)

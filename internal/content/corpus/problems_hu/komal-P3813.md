@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3813. Hogyan tölthető fel az elektroszkóp szőrmével megdörzsölt műanyagrúd felhasználásával 
- a ) negatív töltésűre, 
- b ) pozitív töltésűre? 
+P. 3813. Hogyan tölthető fel az elektroszkóp szőrmével megdörzsölt műanyagrúd felhasználásával
+ a ) negatív töltésűre,
+ b ) pozitív töltésűre?
  ,,Keresd a megoldást!'' fizikaverseny, Szeged

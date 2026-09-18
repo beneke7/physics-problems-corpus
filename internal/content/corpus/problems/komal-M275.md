@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-Let a small disc of magnet slide along a long inclined plane made of aluminum. Measure the speed of the disc when it is uniform as a function of the angle of inclination of the slope. Determine the coefficient of kinetic friction. 
+Let a small disc of magnet slide along a long inclined plane made of aluminum. Measure the speed of the disc when it is uniform as a function of the angle of inclination of the slope. Determine the coefficient of kinetic friction.
  (6 pont)

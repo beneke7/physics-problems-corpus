@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-On a horizontal half-plane the coefficient of friction is proportional to the distance measured from the boundary line of the half-plane: $\mu=k\cdot x$. A small flat object starts to move from this line perpendicularly to it at an initial speed of $v_0$. When and where will it stop? 
- Data: $v_0=2~\frac{\rm m}{\rm s}$, $k=0.4~\frac{1}{\rm m}$. 
+On a horizontal half-plane the coefficient of friction is proportional to the distance measured from the boundary line of the half-plane: $\mu=k\cdot x$. A small flat object starts to move from this line perpendicularly to it at an initial speed of $v_0$. When and where will it stop?
+ Data: $v_0=2~\frac{\rm m}{\rm s}$, $k=0.4~\frac{1}{\rm m}$.
  (4 pont)

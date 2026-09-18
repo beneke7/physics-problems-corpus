@@ -22,4 +22,4 @@ Consider an electric circuit consisting of a coil of negligibly small inductance
 (b) Find the current through the resistors $R_{1}$ and $R_{2}$ at the moment of time $t_{2}=15 \mathrm{~ms}$.
 (c) What is the net charge passing through the resistor $R_{2}$ ?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr81-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr81-fig1.jpg)

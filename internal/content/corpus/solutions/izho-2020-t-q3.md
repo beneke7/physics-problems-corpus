@@ -145,10 +145,10 @@ The solution to equation (25) when (26) is satisfied is the function
 𝐼𝐼(𝑡𝑡) =
 𝑚𝑚𝑚𝑚
 2𝜋𝜋𝜋𝜋𝜋𝜋
-�1 − exp�−
+ 1 − exp −
 2𝜋𝜋𝜋𝜋𝜋𝜋𝐵𝐵2
 𝑚𝑚𝑚𝑚
-𝑡𝑡��. (27)
+𝑡𝑡  . (27)
 Whence,
 𝐴𝐴1 =
 𝑚𝑚𝑚𝑚
@@ -185,10 +185,10 @@ equation of motion (18) and (19), the current strength is also constant. Differe
 and (21) taken into account, we finally obtain the steady-state acceleration
 𝑎𝑎0 =
 𝑔𝑔
-�1+
+ 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 . (34)
 3.7 Differentiating (31) with (21) and (33) taken into account, we obtain
 𝐵𝐵𝐵𝐵
@@ -206,49 +206,49 @@ differential equation for the current in the ring
 𝑅𝑅
 𝑑𝑑𝑑𝑑
 𝑑𝑑𝑑𝑑
-= 𝑔𝑔𝑔𝑔𝑔𝑔 − �
+= 𝑔𝑔𝑔𝑔𝑔𝑔 −
 1
 𝐶𝐶
 +
 𝐵𝐵2𝐿𝐿2
 𝑚𝑚
-�𝐼𝐼 (36)
+ 𝐼𝐼 (36)
 with the initial condition
 𝐼𝐼(0) = 0. (37)
 The solution of equation (36) with (37) is the function
 𝐼𝐼(𝑡𝑡) =
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0𝑠𝑠𝑠𝑠
-𝛿𝛿�1+
+𝛿𝛿 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
-�1 − exp�−�1 +
+
+ 1 − exp − 1 +
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 𝛿𝛿
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0
-𝑡𝑡��. (38)
+𝑡𝑡  . (38)
 Hence,
 𝐴𝐴2 =
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0𝑠𝑠𝑠𝑠
-𝛿𝛿�1+
+𝛿𝛿 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 , (39)
 XVI International Zhautykov Olympiad/Theoretical Competition Page 12/13
 𝐵𝐵2 = −
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0𝑠𝑠𝑠𝑠
-𝛿𝛿�1+
+𝛿𝛿 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 , (40)
-𝛾𝛾2 = −�1 +
+𝛾𝛾2 = − 1 +
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 𝛿𝛿
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0
 . (41)
@@ -370,10 +370,10 @@ Formula (33): 𝐼𝐼 =
 XVI International Zhautykov Olympiad/Theoretical Competition Page 13/13
 Formula (34): 𝑎𝑎0 =
 𝑔𝑔
-�1+
+ 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-� 0,3
+  0,3
 3.7
 Equation (35): 𝐵𝐵𝐵𝐵
 𝑑𝑑𝑑𝑑
@@ -389,32 +389,32 @@ Equation (35): 𝐵𝐵𝐵𝐵
 Equation (36): 𝑅𝑅
 𝑑𝑑𝑑𝑑
 𝑑𝑑𝑑𝑑
-= 𝑔𝑔𝑔𝑔𝑔𝑔 − �
+= 𝑔𝑔𝑔𝑔𝑔𝑔 −
 1
 𝐶𝐶
 +
 𝐵𝐵2𝐿𝐿2
 𝑚𝑚
-�𝐼𝐼 0,5
+ 𝐼𝐼 0,5
 Condition (37): 𝐼𝐼(0) = 0 0,1
 Formula (39): 𝐴𝐴2 =
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0𝑠𝑠𝑠𝑠
-𝛿𝛿�1+
+𝛿𝛿 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 0,3
 Formula (40): 𝐵𝐵2 = −
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0𝑠𝑠𝑠𝑠
-𝛿𝛿�1+
+𝛿𝛿 1+
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 0,3
-Formula (41): 𝛾𝛾2 = −�1 +
+Formula (41): 𝛾𝛾2 = − 1 +
 𝐵𝐵2(2𝜋𝜋𝜋𝜋)2𝜀𝜀0𝑠𝑠
 𝑚𝑚𝑚𝑚
-�
+
 𝛿𝛿
 2𝜋𝜋𝜋𝜋𝜋𝜋𝜀𝜀0
 0,3

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3996. Egy 80 m hosszú menetoszlop végétől az elejére fut egy futár, majd változatlan sebességgel visszafut a menetoszlop végére. Ez idő alatt a menetoszlop 150 m utat tesz meg. Mekkora utat tesz meg a futár? 
+P. 3996. Egy 80 m hosszú menetoszlop végétől az elejére fut egy futár, majd változatlan sebességgel visszafut a menetoszlop végére. Ez idő alatt a menetoszlop 150 m utat tesz meg. Mekkora utat tesz meg a futár?
  Lánczos Kornél fizikaverseny, Székesfehérvár

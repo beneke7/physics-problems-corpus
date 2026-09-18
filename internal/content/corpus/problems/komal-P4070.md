@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-A sample of ideal gas of 1 mole expands at constant pressure, during which it absorbs 100 J thermal energy, and its temperature increases by 4 $^\circ$C. What kind of molecules may the gas contain? 
+A sample of ideal gas of 1 mole expands at constant pressure, during which it absorbs 100 J thermal energy, and its temperature increases by 4 $^\circ$C. What kind of molecules may the gas contain?
  (4 pont)

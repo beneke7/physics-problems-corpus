@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A sample of ideal gas is taken from state A to state B in two different ways. The two states has the same temperature. 
+A sample of ideal gas is taken from state A to state B in two different ways. The two states has the same temperature.
 
- a ) First it is compressed adiabatically ( AC ), and then it is cooled down such that its volume remains constant ( CB ); 
- b ) First it is heated at constant volume ( AD ), then it is compressed isobarically ( DB ). 
- In which case do we perform less work? At state C or at state D will the temperature of the gas be greater? 
+ a ) First it is compressed adiabatically ( AC ), and then it is cooled down such that its volume remains constant ( CB );
+ b ) First it is heated at constant volume ( AD ), then it is compressed isobarically ( DB ).
+ In which case do we perform less work? At state C or at state D will the temperature of the gas be greater?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4148-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4148-fig1.gif)

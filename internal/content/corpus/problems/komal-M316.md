@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201109"
 verification_status: pending
 ---
 
-Measure how the number of revolutions of the electric motor of a toy depends on the input voltage. (The number of revolutions can be measured for example with a hand made stroboscope). 
+Measure how the number of revolutions of the electric motor of a toy depends on the input voltage. (The number of revolutions can be measured for example with a hand made stroboscope).
  (6 pont)

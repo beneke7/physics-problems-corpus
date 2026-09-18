@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [scaling-and-dimensional-analysis, model-reduction]
 ---
 
-Three open conductor rings, made of thin wire, are placed concentrically on the horizontal tabletop as shown in the figure. The current which flows in the middle ring is varied in time. Find the induced emf in the greatest ring when the induced emf between the ends of the smallest ring is  U $_{0}$. 
+Three open conductor rings, made of thin wire, are placed concentrically on the horizontal tabletop as shown in the figure. The current which flows in the middle ring is varied in time. Find the induced emf in the greatest ring when the induced emf between the ends of the smallest ring is  U $_{0}$.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4312-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4312-fig1.gif)

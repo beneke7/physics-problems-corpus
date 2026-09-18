@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-Just half of a flexible pearl necklace, which can slip easily, is lying on a horizontal tabletop, whilst its other half is hanging down vertically, at the edge of the table. If the necklace is released without initial speed, then it slides down from the tabletop – moving faster and faster. At some certain position of the necklace, next to the edge of the table the beads do not turn abruptly, but move over the edge, and the hanging part of the necklace begins to wave as a whip. What fraction of the necklace is on the table when this wavy motion begins? 
+Just half of a flexible pearl necklace, which can slip easily, is lying on a horizontal tabletop, whilst its other half is hanging down vertically, at the edge of the table. If the necklace is released without initial speed, then it slides down from the tabletop – moving faster and faster. At some certain position of the necklace, next to the edge of the table the beads do not turn abruptly, but move over the edge, and the hanging part of the necklace begins to wave as a whip. What fraction of the necklace is on the table when this wavy motion begins?
  (5 pont)

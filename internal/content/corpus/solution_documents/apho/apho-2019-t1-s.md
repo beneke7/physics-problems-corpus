@@ -76,7 +76,8 @@ A.5     i. Adding δx length of the cable should not change its impedance. Hence
                                                          2π     εr ε0             εr
 
               For Z0 = 50 Ω, εr = 4.0 and µr = 1.0 this gives b = 5.30 a .
-                                                                                                                      2
+
+                                                                                                                      2
 
   B.     HYPOTHETICAL TRANSMISSION LINE WITH RETURN ALONG A GROUNDED PLANE
 
@@ -141,7 +142,8 @@ D.1     i. Since any capacitance beyond Cg is neglected in our model, the quantu
                                                                          −ne
                                                           φn = Vg +                                               (D.1)
                                                                          Cg
-                                                                                                                   3
+
+                                                                                                                   3
 
         ii. Bringing an infinitesimal charge δq from potential 0 to potential φ(q) requires energy δE = φ(q)δq, and
             the dependence of potential φ(q) on the accumulated charge q is linear. For the single-electron transfer,
@@ -212,7 +214,8 @@ E.1
                                                  Z1 →∞ Z1 + Z0
 
                                              ∆Γ = |ΓON − ΓOFF | ≈ 1.0 · 10−3                                   (E.4)
-                                                                                                                     4
+
+                                                                                                                     4
 
 E.2 Large change in reflectance requires the impedance Z1 of the circuit to switch between Z1 < Z0 to Z1 > Z0 as
     the SET between ON (ZSET = 100kΩ) and OFF (ZSET = ∞).

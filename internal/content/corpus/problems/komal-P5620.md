@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-The specific heat capacity at constant volume of a sample of monatomic gas is $316~\tfrac{\mathrm{J}}{\mathrm{kg}\,\mathrm{K}}$, that of a sample of a diatomic gas is $741~\tfrac{\mathrm{J}}{\mathrm{kg}\,\mathrm{K}}$. What can these two gases be? 
+The specific heat capacity at constant volume of a sample of monatomic gas is $316~\tfrac{\mathrm{J}}{\mathrm{kg}\,\mathrm{K}}$, that of a sample of a diatomic gas is $741~\tfrac{\mathrm{J}}{\mathrm{kg}\,\mathrm{K}}$. What can these two gases be?
  (3 pont)

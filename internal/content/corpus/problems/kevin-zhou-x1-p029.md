@@ -64,7 +64,9 @@ solution_language: en
        held fixed by pins at two points separated by a distance L. When the string is in its ground
 
                                                     16
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
   state, what is the resulting force between the pins?
 
@@ -121,4 +123,6 @@ solution_language: en
                                  Eplate /E0 = α + 2α2 + 3α3 + . . . .
 
                                                   17
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts

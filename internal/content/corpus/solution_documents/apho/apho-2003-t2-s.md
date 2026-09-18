@@ -58,7 +58,8 @@ d) (1 point) the corresponding optical phase difference ∆θ is,
             8π 2 R 2 NΩ
     ∆θ =
                 cλ '
-e) (2 points)
+
+e) (2 points)
                                       A
 
 
@@ -111,7 +112,8 @@ The condition to sustain the laser oscillation (given in the problem),
                            m       m        ∆L      ∆L
          ∆ν = ν − − ν + =     c−      c ≈ mc 2 = ν                  (1 point)
                           L−      L+        L        L
-the approximation arises from L+ L− ≈ L2
+
+the approximation arises from L+ L− ≈ L2
 
 where L is the perimeter of the triangular ring. Hence,
 

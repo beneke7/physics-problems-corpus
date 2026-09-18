@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202404"
 verification_status: pending
 ---
 
-Measure the refractive index of gelatine. 
+Measure the refractive index of gelatine.
  (6 pont)

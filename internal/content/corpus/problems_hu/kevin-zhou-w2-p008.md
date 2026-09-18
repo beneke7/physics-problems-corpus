@@ -30,7 +30,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     above, one sees an interference pattern with circular fringes.
 
                                                       6
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
     The most important reflection paths are (1) reflection off the top surface of the lens, (2) reflection
     off the bottom surface of the lens, and (3) reflection off the flat surface. However, the first reflection

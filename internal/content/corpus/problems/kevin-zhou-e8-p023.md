@@ -62,5 +62,5 @@ In most common materials, µ ≈ µ0 while ϵ depends on frequency. We’ll inve
     phase of the composite wave forward or backward, affecting the phase velocity. A nice explanation
 
 
-                     01h
+                     01h
     of this can be found in chapter I.31 of the Feynman lectures.

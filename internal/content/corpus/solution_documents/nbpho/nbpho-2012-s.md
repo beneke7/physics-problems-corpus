@@ -59,7 +59,7 @@ stant:                                                               ing either 
 where a = Re and 2a′ = 0.5Re + Rmax
                                  ′
                                     . So,                            temperature on one isochore is later reused at the same tem-
-                                                                   perature on the other isochore. A corollary of Carnot’s theorem
+                                                                     perature on the other isochore. A corollary of Carnot’s theorem
       γ1     γ0    γ1
           =      4    − 3   ⇒ (1 − κ)Re = a′ (1 − 4κ),               (which says that the Carnot cycle is the most efficient one pos-
       2a′   2Re    γ0
@@ -96,7 +96,9 @@ equal to its own; no it will double. Hence, the change in the
 force due to photons is given by ∆F = πra2 σTs4 /c (assuming
 that the asteroid is at the Sun’s surface). Both the pressure
 of photons and gravity force are inversely proportional to the
-Problem 3. Bars and rod (5 points)                                     from R2 ) are C2 E 2 /2 + L2 E 2 /(2R22 ) and CE 2 /2 + LE 2 /(2R2 ).
+
+
+Problem 3. Bars and rod (5 points)                                     from R2 ) are C2 E 2 /2 + L2 E 2 /(2R22 ) and CE 2 /2 + LE 2 /(2R2 ).
      With µ = 12 , the result-                                         Problem 5. Diffraction grating (7 points)
 ant force of the normal force                                              The experiment is rather straightforward, except that the
 and friction force forms an angle                                      grating pitch is smaller than the wavelength. Therefore, for a
@@ -173,7 +175,9 @@ cuit was L1 E 2 /(2R22 ) or, with the given data, LE 2 /(2R2 ). This   So, R = T
 is the energy dissipated from R1 . The corresponding expres-           will take the form of a circle segment. To conclude, both halves
 sions for the right-hand circuit (giving the energy dissipated         of the wire will take the form of a circle segment, the convex
                                                                        sides of which are turned outside.
-ii. (2 pts) The maximal height is achieved when the circle               iii. (3 pts) For the natural oscillation modes, there will be
+
+
+ii. (2 pts) The maximal height is achieved when the circle               iii. (3 pts) For the natural oscillation modes, there will be
 segments form a perfect circle, in which case the lifting height         standing waves with nodes at the fixing points; the lowest fre-
 is ∆h = l(1 − π2 ).                                                      quency corresponds to
                                                                                              qthe longest wavelength, which is 2L, so
@@ -191,7 +195,7 @@ is mg = 2T cos α. From the other hand, R = l/2α = T /IB, ie.             happe
 which is the equation from where one can determine the angle             a lamp connected in series with a battery between these leads.
 α. Then, the lifting height                                                  If we connect leads A and C, there may or may not be light
                                                                          from the same lamp. Once the light disappears, it will appear
-                                                    
+
                               2T               sin α
      ∆h = l − 2R sin α = l −     sin α = l 1 −         .
                              lIB                 α                       again only after D and A have been connected for a short time,

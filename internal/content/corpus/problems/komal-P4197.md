@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-Lead shots of mass 241 g are placed into a glass flask of volume 500  cm $^{3}$, at a temperature of 0 $^\circ$C, and then the flask is fully filled with water of temperature 0 $^\circ$C. Then the temperature is raised to 25 $^\circ$C. Find the mass of the water which flows out of the flask. The expansion of the glass flask is negligible. Be careful: the expansion of water is not linear. 
+Lead shots of mass 241 g are placed into a glass flask of volume 500  cm $^{3}$, at a temperature of 0 $^\circ$C, and then the flask is fully filled with water of temperature 0 $^\circ$C. Then the temperature is raised to 25 $^\circ$C. Find the mass of the water which flows out of the flask. The expansion of the glass flask is negligible. Be careful: the expansion of water is not linear.
  (5 pont)

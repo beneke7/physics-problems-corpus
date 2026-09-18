@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4331. Egy űrállomáson szabadon lebegő, 8 cm belső átmérőjű üreges gömb űrtartalmának egyharmadát víz tölti ki. Hogyan helyezkedik el a víz egyensúlyi állapotban, ha a gömb anyaga 
- a ) üveg, melyet a víz tökéletesen nedvesít, 
+P. 4331. Egy űrállomáson szabadon lebegő, 8 cm belső átmérőjű üreges gömb űrtartalmának egyharmadát víz tölti ki. Hogyan helyezkedik el a víz egyensúlyi állapotban, ha a gömb anyaga
+ a ) üveg, melyet a víz tökéletesen nedvesít,
  b ) ezüst, melyre a víz illeszkedési szöge 90$^\circ$?

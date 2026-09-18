@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, extremization]
 ---
 
-In a sample of Helium gas an atom of speed 800 m/s reaches another atom of speed 600 m/s, which moves in the same direction, and they collide elastically. What can be the angle between the velocity vectors after collision? 
+In a sample of Helium gas an atom of speed 800 m/s reaches another atom of speed 600 m/s, which moves in the same direction, and they collide elastically. What can be the angle between the velocity vectors after collision?
  (5 pont)

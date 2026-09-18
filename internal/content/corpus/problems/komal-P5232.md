@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-The radius of the bottom sphere of a thin-walled, celluloid roly-poly toy is 3 cm. Inside the toy, a 2 cm diameter steel ball was fixed at the bottom. The roly-poly toy is slowly deflected such that the angle between the vertical and its axis of symmetry is $30^\circ$. What will the angular velocity of the roly-poly toy be at the moment when its axis swings over the vertical position? (Static friction is high enough, the toy does not slip on the ground. Rolling friction and air resistance can be neglected.) 
+The radius of the bottom sphere of a thin-walled, celluloid roly-poly toy is 3 cm. Inside the toy, a 2 cm diameter steel ball was fixed at the bottom. The roly-poly toy is slowly deflected such that the angle between the vertical and its axis of symmetry is $30^\circ$. What will the angular velocity of the roly-poly toy be at the moment when its axis swings over the vertical position? (Static friction is high enough, the toy does not slip on the ground. Rolling friction and air resistance can be neglected.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5232-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5232-fig1.gif)

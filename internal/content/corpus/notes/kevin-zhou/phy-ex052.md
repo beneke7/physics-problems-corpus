@@ -24,13 +24,13 @@ source_role: explanatory_example
 Example. Flow through a duct with a slowly varying cross-section A(x). We approximate all
 properties of the flow to depend only on x, and treat the velocity as entirely along x̂. It is useful to
 relate quantities to those at a (possibly hypothetical) sonic point. Continuity of the mass flow gives
-                                                                  1/2+1/(γ−1)
+                                                                    1/2+1/(γ−1)
                             A    ρ1 v1   1 c1 ρ1   1          T1
                                =       =         =                                .
                             A1    ρv     M c ρ     M          T
 
 Inserting our previous expression gives
-                                                     1/2+1/(γ−1)
+                                                       1/2+1/(γ−1)
                              A    1        γ−1   2
                                 =       1+     (M − 1)             .
                              A1   M        γ+1
@@ -39,7 +39,6 @@ Curiously, the right-hand side is not monotonic, but rather has a local minimum 
 means that if a sonic point exists, it must appear at the narrowest part of the duct. For subsonic
 flow, a decreasing duct area implies increasing flow velocity and decreasing temperature, pressure,
 and density, but for supersonic flow the reverse is true.
-116 4. Continuum Mechanics
 
 
 

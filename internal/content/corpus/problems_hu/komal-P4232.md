@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4232. 2 méter hosszú, vízszintes fémrúd esik a nehézségi erő hatása alatt, azonban fékezés folytán a mozgása egyenletes, sebessége 50 m/s. Végpontjai között legfeljebb hány volt lehet a potenciálkülönbség? 
+P. 4232. 2 méter hosszú, vízszintes fémrúd esik a nehézségi erő hatása alatt, azonban fékezés folytán a mozgása egyenletes, sebessége 50 m/s. Végpontjai között legfeljebb hány volt lehet a potenciálkülönbség?
  Faragó Andor (1877-1944) feladata

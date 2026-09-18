@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-In an adventure park, adventurers can roll down freely (without brakes) in a small car from point $A$, which is at the top of a $R=20~\text{m}$ high slope. The slope has an $\alpha=30^{\circ}$ inclination angle, the car's initial speed is zero. The slope is connected smoothly to a circular arc-shaped track of radius $R$ at point $B$, then the track continues horizontally from its lowest point $C$. On the horizontal part of the track, the car is properly braked, decelerates uniformly in time, and stops at $D$ after covering a distance of $\ell=2R$. 
+In an adventure park, adventurers can roll down freely (without brakes) in a small car from point $A$, which is at the top of a $R=20~\text{m}$ high slope. The slope has an $\alpha=30^{\circ}$ inclination angle, the car's initial speed is zero. The slope is connected smoothly to a circular arc-shaped track of radius $R$ at point $B$, then the track continues horizontally from its lowest point $C$. On the horizontal part of the track, the car is properly braked, decelerates uniformly in time, and stops at $D$ after covering a distance of $\ell=2R$.
 
- Calculate how many times the their normal weight do the passengers in the car feel during the motion. Graph this ratio as a function of the travelled distance. 
+ Calculate how many times the their normal weight do the passengers in the car feel during the motion. Graph this ratio as a function of the travelled distance.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5537-fig1.png)
+![figure](../../figures/komal/figures/komal-P5537-fig1.png)

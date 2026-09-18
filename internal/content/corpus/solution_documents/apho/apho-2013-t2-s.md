@@ -78,7 +78,8 @@ Theoretical 2: Solution
 
 
 Relativistic Correction on GPS Satelitte                                                  Page 1 of 10
-                                    Theoretical 2: Solution
+
+                                    Theoretical 2: Solution
                                     Relativistic Correction on GPS Satelitte
 
     If the particles velocity changes with respect to the S’ frame, then the velocity in the S frame
@@ -145,7 +146,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                                   Page 2 of 10
-                                    Theoretical 2: Solution
+
+                                    Theoretical 2: Solution
                                     Relativistic Correction on GPS Satelitte
 
  6. The time dilation relation is
@@ -206,7 +208,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                                Page 3 of 10
-                                       Theoretical 2: Solution
+
+                                       Theoretical 2: Solution
                                        Relativistic Correction on GPS Satelitte
 
  2. When the particles clock has a reading ⌧0 , its position is given by eq.(6), and the time t0 is
@@ -273,7 +276,8 @@ Relativistic !Correction on GPS Satelitte                                       
                                 !
               !
               !
-                                      Theoretical 2: Solution
+
+                                      Theoretical 2: Solution
                                   Relativistic Correction on GPS Satelitte
 
                                 !!                   !"′!
@@ -327,7 +331,8 @@ Relativistic !Correction on GPS Satelitte                                       
 
 
 Relativistic Correction on GPS Satelitte                                                                 Page 5 of 10
-                                                 gτ 2         gτ
+
+                                                 gτ 2         gτ
                                                   sinh− sinh 1
            !                         =            c            c                   !!
                                         gL          gτ 2         gτ 1
@@ -406,7 +411,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                                               Page 6 of 10
-                                     Theoretical 2: Solution
+
+                                     Theoretical 2: Solution
                                     Relativistic Correction on GPS Satelitte
 
     From eq.(29), we have
@@ -473,7 +479,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                                                    Page 7 of 10
-      !                                                !
+
+      !                                                !
                                       Theoretical
                                         ⎛c   2
                                               ⎞    ⎛ g t ⎞2: cSolution
@@ -548,7 +555,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                                         Page 8 of 10
-                                   Theoretical 2: Solution
+
+                                   Theoretical 2: Solution
                                    Relativistic Correction on GPS Satelitte
 
     As for confirmation, we can subsitute this relation to the second particle position to get
@@ -608,7 +616,8 @@ Relativistic Correction on GPS Satelitte                                        
 
 
 Relativistic Correction on GPS Satelitte                                              Page 9 of 10
-                                        Theoretical 2: Solution
+
+                                        Theoretical 2: Solution
                                      Relativistic Correction on GPS Satelitte
 
  2. The general relativity e↵ect is

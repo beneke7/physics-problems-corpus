@@ -37,13 +37,12 @@ E két tag rendre ferde-Hermitikus és Hermitikus, ezért várható értékeik r
 Így
                                                1
                           ⟨∆A2 ⟩⟨∆B 2 ⟩ ≥        |⟨[A, B]⟩|2 + |⟨{∆A, ∆B}⟩|2 .
-                                                                            
+
 A második tagot elhagyva kapjuk
                                                 1
                                       σA σB ≥ |⟨[A, B]⟩|
                                                 2
 ahol σX a szórás. Ez a bizonytalansági elv.
-127 5. A kvantummechanika alapjai
 
 5.2     Hullámmechanika
 Most áttekintjük az egyenes mentén mozgó részecskék hely- és impulzusoperátorait.
@@ -98,7 +97,6 @@ Most áttekintjük az egyenes mentén mozgó részecskék hely- és impulzusoper
       Ezután definiálhatunk impulzustérbeli hullámfüggvényt, és a kommutációs relációból azonnal
       következik a Heisenberg-féle bizonytalansági reláció: σx σp ≥ ℏ2.
 
-128 5. A kvantummechanika alapjai
 
 
   • Az |x⟩ és |p⟩ bázisokat az alábbi megjegyzéssel kapcsolhatjuk össze:

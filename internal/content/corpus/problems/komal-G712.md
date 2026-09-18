@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, limiting-and-special-cases]
 ---
 
-Statement: At not too small temperature values the molar heat capacity of metals is the same, approximately $3R=24.9~\rm J/(mol\,K)$, where $R$ is the so called Regnault constant or universal gas constant. Investigate with what percentage accuracy this statement is satisfied for aluminium, gold, silver, copper and iron. 
+Statement: At not too small temperature values the molar heat capacity of metals is the same, approximately $3R=24.9~\rm J/(mol\,K)$, where $R$ is the so called Regnault constant or universal gas constant. Investigate with what percentage accuracy this statement is satisfied for aluminium, gold, silver, copper and iron.
  (3 pont)

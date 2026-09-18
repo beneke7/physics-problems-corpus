@@ -25,7 +25,7 @@ techniques: []
 
 Question 8
 A teacher collects science projects from a class and finds that one page has fallen out. All that it contains is this plot without any axis labels or scales.
-![](aupho-2009-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2009-q8-fig01.png)
 Since the plot was unlabeled the teacher has to ask the class if anyone thinks it is theirs to work out whose assignment it came from. Even though they won't get many marks for an unlabeled plot five students claim it as their work, making the following statements. To whom does it belong?
 
 (A) I plotted the number of birds on the island versus time over many years. The number was constant for the first few years but then decreased greatly over a single year because of a disease. After that the number increased more slowly until eventually it was greater than it had originally been.

@@ -26,4 +26,4 @@ A fényképen látható vékony lencse átmérője 4,00 cm, a lencse és a mér�
 
 Mekkora a lencse fókusztávolsága?
 
-![Fényképes lencsamérés](eotvos-2015-photograph-lens-fig1.jpg)
+![Fényképes lencsamérés](../../figures/eotvos/figures/eotvos-2015-photograph-lens-fig1.jpg)

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [auxiliary-unknowns, scaling-and-dimensional-analysis]
 ---
 
-Determine the equivalent resistance of the very long resistor sequence shown in the figure. 
+Determine the equivalent resistance of the very long resistor sequence shown in the figure.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4080-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4080-fig1.gif)

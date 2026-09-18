@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, differential-element]
 ---
 
-The two ends of an 8-meter-long flexible thread are fixed at the same height at a distance of 4 m from each other. A 0.5 kg object is strung on the thread and can move frictionlessly along it. The thread is held tight and the object is released without initial speed such that the starting point and the ends of the thread are collinear. 
- What is the tension in the thread when the object is moving at the greatest speed? 
+The two ends of an 8-meter-long flexible thread are fixed at the same height at a distance of 4 m from each other. A 0.5 kg object is strung on the thread and can move frictionlessly along it. The thread is held tight and the object is released without initial speed such that the starting point and the ends of the thread are collinear.
+ What is the tension in the thread when the object is moving at the greatest speed?
  (5 pont)

@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4151. Létrehozható-e olyan elektrosztatikus mező, amelyben az erővonalak párhuzamosak, de sűrűségük a térben nem állandó 
- a ) vákuumban, 
+P. 4151. Létrehozható-e olyan elektrosztatikus mező, amelyben az erővonalak párhuzamosak, de sűrűségük a térben nem állandó
+ a ) vákuumban,
  b ) dielektrikumban?

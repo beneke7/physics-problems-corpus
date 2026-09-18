@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-What is the equivalent resistance of the infinite resistor chain, shown in the figure, between the points A and  B ? Plot the equivalent resistance versus q graph. 
+What is the equivalent resistance of the infinite resistor chain, shown in the figure, between the points A and  B ? Plot the equivalent resistance versus q graph.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4577-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4577-fig1.gif)

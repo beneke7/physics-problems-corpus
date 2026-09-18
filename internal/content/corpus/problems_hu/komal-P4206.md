@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4206. A legújabb indiai atomtengeralattjáró hossza 112 m, tömege 6000 tonna, legnagyobb sebessége 44 km/óra, maximális teljesítménye 85 MW. Ezek, valamint táblázati adatok felhasználásával becsüljük meg 
- a ) a tengeralattjáró tolóerejének maximumát, 
+P. 4206. A legújabb indiai atomtengeralattjáró hossza 112 m, tömege 6000 tonna, legnagyobb sebessége 44 km/óra, maximális teljesítménye 85 MW. Ezek, valamint táblázati adatok felhasználásával becsüljük meg
+ a ) a tengeralattjáró tolóerejének maximumát,
  b ) a tengeralattjáró testének átmérőjét!

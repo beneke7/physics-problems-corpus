@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-There is a prism-shaped object of mass $M$ on a horizontal smooth surface. One end of a light spring of spring constant $D$ is attached to the prism such that the spring is parallel to the symmetry axis of the prism, whilst the other end is fixed to a disc-shaped bumper of negligible mass. Another object of mass $m$, sliding at a speed of $v_0$, collides with the bumper such that it partly compresses the long enough spring. 
+There is a prism-shaped object of mass $M$ on a horizontal smooth surface. One end of a light spring of spring constant $D$ is attached to the prism such that the spring is parallel to the symmetry axis of the prism, whilst the other end is fixed to a disc-shaped bumper of negligible mass. Another object of mass $m$, sliding at a speed of $v_0$, collides with the bumper such that it partly compresses the long enough spring.
 
- $a)$ What is the speed of the centre of mass of the system? 
- $b)$ Starting the stopwatch at the moment when the object touches the bumper first, how much time elapses until the spring becomes the shortest? 
+ $a)$ What is the speed of the centre of mass of the system?
+ $b)$ Starting the stopwatch at the moment when the object touches the bumper first, how much time elapses until the spring becomes the shortest?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5198-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5198-fig1.gif)

@@ -67,4 +67,6 @@ solution_language: en
           Estimate the exponential part of the dependence of Γ on T .
 
                                                       3
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts

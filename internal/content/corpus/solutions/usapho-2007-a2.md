@@ -37,10 +37,10 @@ P0Lγ
 , (A2-4)
 and then
 L = L0
-
+
 P0
 Pcr
-5/3
+ 5/3
 . (A2-5)
 b. The normal pressure on the bullet comes from
 P =

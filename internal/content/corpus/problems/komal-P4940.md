@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An object of mass $m=0.8$ kg is attached to one end of a spring of spring constant $D=30$ N/m. The other end of the spring is attached to the top of a fixed slope of angle of elevation of $\alpha=30^\circ$. The coefficients of static and kinetic friction between the object and the slope are both $\mu=0.23$. The object is released at the unstretched position of the spring. 
+An object of mass $m=0.8$ kg is attached to one end of a spring of spring constant $D=30$ N/m. The other end of the spring is attached to the top of a fixed slope of angle of elevation of $\alpha=30^\circ$. The coefficients of static and kinetic friction between the object and the slope are both $\mu=0.23$. The object is released at the unstretched position of the spring.
 
- $a)$ What is the greatest speed of the object? 
- $b)$ What is the greatest extension of the spring? 
- $c)$ Where will the object eventually come to rest? 
+ $a)$ What is the greatest speed of the object?
+ $b)$ What is the greatest extension of the spring?
+ $c)$ Where will the object eventually come to rest?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4940-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4940-fig1.gif)

@@ -21,28 +21,28 @@ például ϕ = 45◦
 (A rést tekinthetjük egymáshoz nagyon közeli, egymástól egyenl® távolságra lev® pi iny lyukak sorozatának. Az
 erny® elég távol van a rést®l.)
 Radnai Gyula
-Megoldás. Jelöljük a rés szélességét a-val, míg a rés megvilágított, középs® tartományának függ®leges mérete  a
-lézerb®l jöv® keskeny nyaláb átmér®je  legyen b. (Szokásos iskolai kísérleti összeállítás esetén például b ≈ 23 mm,
-míg a nagyon keskeny rés szélessége biztosan kisebb 0,1 mm-nél.) Úgy tekinthetjük, hogy egy b magasságú és a
-szélesség¶, téglalap alakú nyílás dirak iós képe jelenik meg a rést®l elég távol elhelyezett erny®n.
+Megoldás. Jelöljük a rés szélességét a-val, míg a rés megvilágított, középs® tartományának függ®leges mérete   a
+lézerb®l jöv® keskeny nyaláb  átmér®je    legyen b. (Szokásos iskolai kísérleti összeállítás esetén például b ≈ 2 3 mm,
+míg a  nagyon keskeny  rés szélessége biztosan kisebb 0,1 mm-nél.) Úgy tekinthetjük, hogy egy b magasságú és a
+szélesség¶, téglalap alakú nyílás di rak iós képe jelenik meg a rést®l elég távol elhelyezett erny®n.
 Ebben az esetben vízszintes síkban a
 sinαk = k
 λ
 a
 (k = ±1,±2,...)
 egyenlet által meghatározott αk irányokban kioltást tapasztalunk. Ha az erny® l távolságra van a rést®l (l ≫ b ≫ a),
-akkor az erny®n megjelen® kép leginkább egy vízszintes, szaggatott vonalra emlékeztet, ahol a szakaszok (függ®leges)
+akkor az erny®n megjelen® kép leginkább egy vízszintes, szaggatott vonalra emlékeztet, ahol a  szakaszok  (függ®leges)
 vastagsága b, vízszintes hosszuk pedig mintegy λl/a. (Kivételt képez a középs® szakasz, amely kétszeres hosszúságú,
 mivel α = 0 irányban is er®sítik egymást a hullámok.) Ahogy sz¶kítjük a rést, a kioltási minimumhelyek egyre
 távolodnak, és így az erny®n meg
 gyelhet® szakaszok is egyre hosszabbak lesznek. El®fordulhat, hogy az erny®n végül
 már sak egyetlen halvány, összefügg®, vízszintes vonal látható.
-Most válaszoljunk a b) kérdésre! Ha a rést elforgatjuk, el®re döntjük a megadott vízszintes tengely körül, akkor a
+Most válaszoljunk a b) kérdésre! Ha a rést elforgatjuk,  el®re döntjük  a megadott vízszintes tengely körül, akkor a
 lézerb®l jöv® fénynyaláb eredeti irányában továbbra is er®sítést tapasztalunk. Ez azért van így, mert igaz ugyan, hogy
 a rés különböz® pontjaiba (a lézert®l mért távolságok különböz®sége miatt) más-más fázissal érkezik a síkhullám, de a
 résen áthaladva és az eredeti irányban terjedve éppen akkora útkülönbséggel érkeznek az elemi hullámok az erny®höz,
 hogy a teljes fáziskülönbség közöttük nulla. Ennek elképzelését sugallta a feladat szövegében az a zárójelbe tett mondat,
-hogy a rést tekinthetjük egymáshoz nagyon közeli, egymástól egyenl® távolságra lev® pi iny lyukak sorozatának.
+hogy  a rést tekinthetjük egymáshoz nagyon közeli, egymástól egyenl® távolságra lev® pi iny lyukak sorozatának .
 Most már sak azt kell észrevennünk, hogy ha az elemi hullámok a ϕ szögben megdöntött réssel γ szöget bezáró
 irányban (γ = 90◦
 − ϕ) er®sítik egymást (6. ábra), akkor ez nem sak az ábra síkjában következik be, hanem a
@@ -54,7 +54,7 @@ gyelhet® vonal egy kúpnak valamely síkmetszete lesz (7.
 ábra). A kúp sú sa a rés közepe, tengelyének iránya a rés iránya, fél nyílásszöge a fenti γ, amely az elforgatás szögének
 pótszöge. A sík az erny® síkja.
 A meg
-gyelhet® vonal egy kúpszelet, ami  mint tudjuk  ellipszis, parabola vagy hiperbola lehet. Parabolát
+gyelhet® vonal egy kúpszelet, ami   mint tudjuk   ellipszis, parabola vagy hiperbola lehet. Parabolát
 éppen akkor kapunk, ha az erny® síkja a kúp valamelyik alkotójával párhuzamos. Esetünkben ez akkor következik
 be, ha a kúpnak van függ®leges alkotója. Vízszintes alkotója az eredeti fénysugár, függ®leges tehát sak akkor lehet a
 másik alkotó, ha a kúp nyílásszöge 90◦
@@ -73,7 +73,7 @@ Tóth Gábor Zsolt, a budapesti Árpád Gimnázium IV. osztályos tanulója, Van
 Második díjat nyert és egyenként 4000 Ft pénzjutalomban részesült a következ® három versenyz®:
 Bárász Mihály, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályos tanulója, Horváth Gábor tanítvá-
 nya;
-Lengyel Krisztián, az ELTE 
+Lengyel Krisztián, az ELTE
 zikus hallgatója, aki Cegléden, a Kossuth Lajos Gimnáziumban érettségizett, mint
 T¶ri László tanítványa;
 Lovas Rezs®, a KLTE Gyakorló Gimnáziumának IV. osztályos tanulója, Dudi s Pál, Kirs h Éva és Szegedi Ervin
@@ -85,17 +85,17 @@ Hegyes István, a nyíregyházi Kossuth Lajos Evangélikus Gimnázium IV. osztá
 ványa;
 Szabó János Zoltán, az BME m¶szaki informatika szakos hallgatója, aki Budapesten, az ELTE Apá zai Csere
 János Gyakorló Gimnáziumában érettségizett, mint Zsigri Feren tanítványa;
-Varga Dezs®, az ELTE 
+Varga Dezs®, az ELTE
 zikus hallgatója, aki a miskol i Földes Feren Gimnáziumban érettségizett, mint id.
 Szabó Kálmán tanítványa.
-Di séretben részesült a versenyen 910. helyezést elért következ® két versenyz®: Kuru z Zoltán, a szolnoki Varga
+Di séretben részesült a versenyen 9 10. helyezést elért következ® két versenyz®: Kuru z Zoltán, a szolnoki Varga
 Katalin Gimnázium IV. osztályos tanulója, Vin ze Gábor tanítványa; Perényi Márton, a Fazekas Mihály F®városi
 Gyakorló Gimnázium IV. osztályos tanulója, Horváth Gábor tanítványa.
 Hasonlóképpen di séretben részesült a versenyen 11-18. helyezést elért alábbi nyol versenyz®:
 Agod Attila, a debre eni Tóth Árpád Gimnázium IV. osztályos tanulója, Ková s Miklós tanítványa; Bíró Do-
 mokos Botond, a marosvásárhelyi Bolyai Farkas Elméleti Lí eum XII. osztályos tanulója, Bíró Tibor tanítványa;
 Csonka Szabol s, a budapesti Árpád Gimnázium IV. osztályos tanulója, Vankó Péter tanítványa; Farkas Illés,
-az ELTE 
+az ELTE
 zikus hallgatója, aki az ELTE Apá zai Csere János Gyakorló Gimnáziumában érettségizett, mint Pákó
 Gyula tanítványa; a szolnoki Varga Katalin Gimnázium IV. osztályos tanulója, Vin ze Gábor tanítványa; Frenkel
 Péter, a Fazekas Mihály F®városi Gyakorló Gimnázium III. osztályos tanulója, Horváth Gábor tanítványa; Lohner

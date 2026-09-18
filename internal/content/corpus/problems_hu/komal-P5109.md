@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5109. Mekkora az elektron hullámhossza, ha a mozgási energiája 
- $a)$ $1{,}75\cdot 10^{-16}~$J; 
+P. 5109. Mekkora az elektron hullámhossza, ha a mozgási energiája
+ $a)$ $1{,}75\cdot 10^{-16}~$J;
  $b)$ 20 GeV?

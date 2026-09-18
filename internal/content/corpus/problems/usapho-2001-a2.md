@@ -24,11 +24,11 @@ techniques: [conservation-laws, differential-element]
 ---
 
 A2. Point charges $q_{1}, q_{2}$, and $Q$ are located at three corners of an $r_{1}$ by $r_{2}$ rectangle as shown in the diagram to the
-![](usapho-2001-a2-fig01.png)
+![](../../figures/usapho/figures/usapho-2001-a2-fig01.png)
 right.
 (10) a. Write a general expression for the electrostatic field at the point marked X in the diagram. Define any quantities you introduce.
 
-![](usapho-2001-a2-fig02.png)
+![](../../figures/usapho/figures/usapho-2001-a2-fig02.png)
 $H$
 
 (5) b. For what values of $q_{1}$ and $q_{2}$ (expressed in terms of
@@ -36,7 +36,7 @@ $\_\_\_\_$
 䚉
 
 $r_{1}$
-![](usapho-2001-a2-fig03.png)
+![](../../figures/usapho/figures/usapho-2001-a2-fig03.png)
 
 $r_{1}, r_{2}$, and $Q$ ) does the field at X vanish?
 (5) c. Write a general expression for the electrostatic potential at X and evaluate it for the charges found in Part b. Assume the potential vanishes an infinite distance from the charges.

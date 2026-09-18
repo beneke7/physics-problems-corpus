@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201211"
 verification_status: pending
 ---
 
-Measure the speed of a descending balloon, which is filled with air, as a function of the diameter of the balloon. (Do not change the balloon, just alter the amount of air in it.) 
+Measure the speed of a descending balloon, which is filled with air, as a function of the diameter of the balloon. (Do not change the balloon, just alter the amount of air in it.)
  (6 pont)

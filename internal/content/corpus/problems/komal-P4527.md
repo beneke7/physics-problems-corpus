@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201303"
 verification_status: pending
 ---
 
-By what factor the ,,efficiency'' of the Sun is greater than that of the nuclear power station at Paks? More precisely: how much more energy is liberated during the fusion of 1 kg Hydrogen into Helium, than during the fission of 1 kg Uranium? 
+By what factor the ,,efficiency'' of the Sun is greater than that of the nuclear power station at Paks? More precisely: how much more energy is liberated during the fusion of 1 kg Hydrogen into Helium, than during the fission of 1 kg Uranium?
  (4 pont)

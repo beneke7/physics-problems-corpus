@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-In order to make a flat coil, which have 200 turns, a piece of wire of negligible resistance is wound around a rectangular frame of area 50 cm$^{2}$. The frame is rotated about one of the symmetry axis of the rectangle, which is in the plane of the rectangle. The frame is in magnetic field of induction 0,1 T, which is perpendicular to the axis of rotation. A bulb rated at 6,3 V, and 3 W, and a coil of resistance 10  , and of inductance 50 mH, are connected to the ends of the rotating coil in series. 
- a ) What should the number of revolutions of the coil be, in order to gain 6.3 V voltage across the bulb. 
- b ) At what phase angle does the current lag behind the voltage across the 50 mH coil? 
+In order to make a flat coil, which have 200 turns, a piece of wire of negligible resistance is wound around a rectangular frame of area 50 cm$^{2}$. The frame is rotated about one of the symmetry axis of the rectangle, which is in the plane of the rectangle. The frame is in magnetic field of induction 0,1 T, which is perpendicular to the axis of rotation. A bulb rated at 6,3 V, and 3 W, and a coil of resistance 10  , and of inductance 50 mH, are connected to the ends of the rotating coil in series.
+ a ) What should the number of revolutions of the coil be, in order to gain 6.3 V voltage across the bulb.
+ b ) At what phase angle does the current lag behind the voltage across the 50 mH coil?
  (5 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [strategic-heuristics, auxiliary-unknowns]
 ---
 
-Signs similar to the one shown in the figure can often be seen on highways to warn drivers to maintain a safe following distance. How can the following distance be given in seconds? Why is it that the appropriate ``following distance'' is two or more seconds? 
+Signs similar to the one shown in the figure can often be seen on highways to warn drivers to maintain a safe following distance. How can the following distance be given in seconds? Why is it that the appropriate ``following distance'' is two or more seconds?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G669-fig1.gif)
+![figure](../../figures/komal/figures/komal-G669-fig1.gif)

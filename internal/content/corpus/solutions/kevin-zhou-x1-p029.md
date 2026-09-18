@@ -46,12 +46,12 @@ the radius nmax of the sphere obeys
 N =
 1
 8
-
+
 4
 3
 πn3
 max
-
+
 which tells us that
 nmax =
 3
@@ -77,10 +77,10 @@ n4
 dn =
 π3ℏ2
 30md5
-
+
 6N
 π
-5/3
+ 5/3
 ∼
 ℏ2n5/3
 m
@@ -149,10 +149,10 @@ the denominator in a Taylor series and integrating term by term gives
 N ≈
 π2
 6
-
+
 kT
 ℏω
-2
+ 2
 .
 (c) Using the definition of temperature,
 T =

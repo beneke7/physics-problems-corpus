@@ -25,7 +25,7 @@ körül; a gravitációs állandó $G=6.67 \cdot 10^{-11}\ \mathrm{m}^{3}/\mathr
 Egy bolygó és a csillag közötti
 szögtávolság időfüggését, a másik bolygóról nézve, az ábra mutatja.
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-planets-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-planets-fig1.png)
 
 **1)** Mekkora a bolygók pályasugarainak $k$ aránya (2 pont)?
 

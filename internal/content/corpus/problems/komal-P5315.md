@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-A cyclist is travelling at a constant speed of 9 km/h on a level road, and then in 20 seconds he speeds up uniformly to the speed of 18 km/h. What is the acceleration of a point on the rim of the wheel right after the accelerating period ended? The diameter of the wheel is 72 cm. How much distance was covered, and how many times did the wheel turn in the accelerating period of the motion? 
+A cyclist is travelling at a constant speed of 9 km/h on a level road, and then in 20 seconds he speeds up uniformly to the speed of 18 km/h. What is the acceleration of a point on the rim of the wheel right after the accelerating period ended? The diameter of the wheel is 72 cm. How much distance was covered, and how many times did the wheel turn in the accelerating period of the motion?
  (3 pont)

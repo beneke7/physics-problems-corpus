@@ -30,5 +30,5 @@ A car attempts driving over a road barrier, starting from rest, as shown in the 
 
 **3)** Suppose that the car has four-wheel drive, and the road barrier is substituted with a wall. Would it be possible to raise the front of the car by driving slowly against the wall?
 
-![figure](../../sources/nbpho/figures/nbpho-2006-car-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-car-fig1.png)
 

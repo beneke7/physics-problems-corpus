@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5630. Egy gázkeverék $7~\mathrm{g}$ nitrogént és $20~\mathrm{g}$ argont tartalmaz. Mekkora a gázkeverék állandó térfogaton, illetve állandó nyomáson vett fajhője? 
+P. 5630. Egy gázkeverék $7~\mathrm{g}$ nitrogént és $20~\mathrm{g}$ argont tartalmaz. Mekkora a gázkeverék állandó térfogaton, illetve állandó nyomáson vett fajhője?
  Példatári feladat nyomán

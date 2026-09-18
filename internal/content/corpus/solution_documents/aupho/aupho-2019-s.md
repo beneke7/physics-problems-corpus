@@ -51,7 +51,9 @@ N = −W − N = (50 − 20) N = 30 N.
                                            Page 2 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-Question 3
+
+
+Question 3
 An elevator is moving upwards with constant upwards acceleration. At some point in the elevator’s
 motion, a bolt breaks loose and drops from the ceiling. What is the motion of the bolt as seen by an
 observer standing inside the elevator? Ignore air resistance.
@@ -72,7 +74,9 @@ relative to the observer, the bolt accelerates downwards with acceleration great
                                            Page 3 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-Question 4
+
+
+Question 4
 
 Trish is moving boxes of photocopy paper on a trolley. The top of the
 trolley is flat, and a box sits on it as shown. Trish pushes the trolley,
@@ -118,7 +122,9 @@ on the box is zero.
                                                   Page 4 of 24
                               2019 Australian Science Olympiads Exam – Physics
                            c Australian Science Innovations 2019 ABN 81731558309
-Question 6
+
+
+Question 6
 Ali and Beatrice are doing an experiment to measure the spring constant, k, of a spring. The spring
 constant is a measure of how stiff or stretchy a spring is. Ali is going to use a static method, using the
                F
@@ -169,7 +175,9 @@ uncertainty in m is ∆m/m = 5/100 = 0.05. Hence, ∆k/k = ∆s/s + ∆m/m = 0.1
                                              Page 5 of 24
                          2019 Australian Science Olympiads Exam – Physics
                       c Australian Science Innovations 2019 ABN 81731558309
-Question 8
+
+
+Question 8
 Beatrice has decided to use a dynamic method to find k for her spring. She measures the period, T , of
 oscillation for a mass, m, on a spring for a series of different masses. The equation that relates period to
 mass is: T = 2π mk . If Beatrice plots a graph of T vs m, which of the following graphs will her plot
@@ -218,7 +226,9 @@ Solution: e. Since T = 2π       k,T        k
                                             Page 6 of 24
                         2019 Australian Science Olympiads Exam – Physics
                      c Australian Science Innovations 2019 ABN 81731558309
-Question 10
+
+
+Question 10
  An elevator is moving upwards a constant speed. Ignoring any friction, which statement is correct?
 
     a. The kinetic energy of the elevator is constant.
@@ -238,7 +248,9 @@ Solution: e. Since T = 2π       k,T        k
                                              Page 7 of 24
                          2019 Australian Science Olympiads Exam – Physics
                       c Australian Science Innovations 2019 ABN 81731558309
-                        SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                        SECTION B: WRITTEN ANSWER QUESTIONS
                           USE THE ANSWER BOOKLET PROVIDED
 Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
 
@@ -286,7 +298,9 @@ Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
                                                      Page 8 of 24
                                  2019 Australian Science Olympiads Exam – Physics
                               c Australian Science Innovations 2019 ABN 81731558309
-         Solution:
+
+
+         Solution:
 
            (i) At t1 Jackie is stationary so the momentum of each part is zero, and so the total momentum
                ptot1 = 0.
@@ -346,7 +360,9 @@ Object        Mass          momentum at t1            velocity at t2        velo
                                             Page 9 of 24
                         2019 Australian Science Olympiads Exam – Physics
                      c Australian Science Innovations 2019 ABN 81731558309
-       (ii) Approaches based on momentum or forces are equally acceptable for this part.
+
+
+       (ii) Approaches based on momentum or forces are equally acceptable for this part.
             The total momentum ptot = (m + M)vcm, and since ptot = 0 always vcm = 0 always also, so
             the position of Jackie’s centre of mass cannot move in Zara’s model.
             In Zara’s model there are no external forces on Object 1 or Object 2, hence the total force
@@ -383,7 +399,9 @@ c) Identify any additional physical effects Zara should include in her model and
                                         Page 10 of 24
                      2019 Australian Science Olympiads Exam – Physics
                   c Australian Science Innovations 2019 ABN 81731558309
-d) Sketch the positions of Object 1, Object 2, and also the centre of mass position of Jackie and the
+
+
+d) Sketch the positions of Object 1, Object 2, and also the centre of mass position of Jackie and the
    chair through one cycle of leaning forward very slowly and then leaning back rapidly. Use the
    axes on p. 3 of the Answer Booklet.
    Solution:
@@ -415,7 +433,9 @@ c) Identify any additional physical effects Zara should include in her model and
                                                                      Page 11 of 24
                                                   2019 Australian Science Olympiads Exam – Physics
                                                c Australian Science Innovations 2019 ABN 81731558309
-Question 12
+
+
+Question 12
  Daphne the Diving Bell Spider is on an excursion to the surface of her pool in the forest. The water of
  the pool is very clear. Sitting high on a rock on a sunny morning, Daphne can observe many bright lines
  separated by darker regions moving around the flat bottom of the pool. The bright lines, shown below,
@@ -452,7 +472,9 @@ c) Identify any additional physical effects Zara should include in her model and
                                            Page 12 of 24
                         2019 Australian Science Olympiads Exam – Physics
                      c Australian Science Innovations 2019 ABN 81731558309
-Solution:
+
+
+Solution:
 
                                               20
                                                                                                                    surface
@@ -498,7 +520,9 @@ c) Identify any additional physical effects Zara should include in her model and
                                                                                 Page 13 of 24
                                                              2019 Australian Science Olympiads Exam – Physics
                                                           c Australian Science Innovations 2019 ABN 81731558309
-At midday with the sun directly above the pool, Daphne ventures out onto the now calm, flat surface of
+
+
+At midday with the sun directly above the pool, Daphne ventures out onto the now calm, flat surface of
 the pool. While near the shallow edge of the pool, where the bottom is flat, she asks her mate Mavis the
 moth to fly overhead and observe. Mavis reports that Daphne’s shadow on the bottom of the pool is very
 large.
@@ -532,7 +556,9 @@ large.
                                           Page 14 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-   c) Mavis can also see a bright ring around Daphne’s shadow
+
+
+   c) Mavis can also see a bright ring around Daphne’s shadow
       on the bottom of the puddle. A schematic diagram of the
       brightly-rimmed shadow is shown to the right. Explain the
       origin of this bright ring.
@@ -567,7 +593,9 @@ will become more spread out and the ring will be less visible.
                                           Page 15 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-Daphne decides to dive back to the bottom of the pool, taking a bubble
+
+
+Daphne decides to dive back to the bottom of the pool, taking a bubble
 of air with her. Archimedes’ Principle states that the buoyant force on
 an object is equal to the weight of the volume of fluid displaced by that
 object. Daphne’s bubble can be modelled as 0.9 of a sphere with radius
@@ -601,14 +629,14 @@ Solution:
                                                  =    πr .
                                                      3 s
 Note that ρ is the density of the water and g is the local acceleration due to gravity. Hence,
-                                             
+
                                    6 3 2 3
                             ρ gπ    r + r          < ms g
                                    5 B 3 s
                                            6 3         ms 2 3
                                              rB <          − r
                                            5           ρg 3 s
-                                                                     1/3
+                                                                         1/3
                                                          5 ms 2 3
                                              rB <                − r            .
                                                          6 ρg 3 s
@@ -619,7 +647,9 @@ Note that ρ is the density of the water and g is the local acceleration due to 
                                           Page 16 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-Question 13
+
+
+Question 13
  Maggie has two identical fridge magnets. The magnetism of the fridge
  magnets can be thought of as due to many tiny bar magnets. A bar mag-
  net has a north pole and a south pole, and magnetic field surrounding
@@ -666,7 +696,9 @@ Note that ρ is the density of the water and g is the local acceleration due to 
                                              Page 17 of 24
                           2019 Australian Science Olympiads Exam – Physics
                        c Australian Science Innovations 2019 ABN 81731558309
-   b) Show how bar magnets could be arranged to make a very strong field on one side, and a weak field
+
+
+   b) Show how bar magnets could be arranged to make a very strong field on one side, and a weak field
       on the other. You do not need to include a full magnetic field line diagram with your arrangement,
       but you should indicate where superposition of the fields results in a stronger or weaker field, and
       the approximate direction of the field.
@@ -701,7 +733,9 @@ slightly attracting and repelling each other.                                   
                                           Page 18 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-   c) On the diagram on p. 7 of the Answer Booklet, draw how small bar magnets might be arranged,
+
+
+   c) On the diagram on p. 7 of the Answer Booklet, draw how small bar magnets might be arranged,
       either as a grid, rows or columns, in one of Maggie’s fridge magnets. You may use as many, or as
       few, of the diagrams as you need to describe the arrangement. You may draw the bar magnets as
       arrows to simplify your diagrams.
@@ -757,7 +791,9 @@ horizontal offset in the pattern is equally good a solution.
                                           Page 19 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-Question 14
+
+
+Question 14
  Air applies a force due to its pressure uniformly across any surface it contacts. A stretching wall requires
  a certain amount of force to expand, and applies a force on the air inside, increasing the inside pressure
  needed to keep the air contained. This is why a balloon stretches and if you untie it, the air is pushed out.
@@ -808,7 +844,9 @@ horizontal offset in the pattern is equally good a solution.
                                               Page 20 of 24
                            2019 Australian Science Olympiads Exam – Physics
                         c Australian Science Innovations 2019 ABN 81731558309
-       • force per area vs volume — There is a minimum force per area for the volume of the bubble
+
+
+       • force per area vs volume — There is a minimum force per area for the volume of the bubble
          to start increasing. The force per area exerted by the stretchy patch is likely to increase
          roughly proportionally to its surface area, or r2 . However, the volume increases as r3 , so
          force per area is likely to increase more slowly as volume increases. Alternatively, students
@@ -848,7 +886,9 @@ b) If instead of squeezing the ball, it is heated at a constant rate, explain wh
                                        Page 21 of 24
                     2019 Australian Science Olympiads Exam – Physics
                  c Australian Science Innovations 2019 ABN 81731558309
-      in the graph below, with the original relationship shown by a dashed line, and the new relationship
+
+
+      in the graph below, with the original relationship shown by a dashed line, and the new relationship
       by a solid line.
       force
        per
@@ -891,7 +931,9 @@ budget or any purpose-built lab spaces.
                                           Page 22 of 24
                        2019 Australian Science Olympiads Exam – Physics
                     c Australian Science Innovations 2019 ABN 81731558309
-   0.5 marks for identifying that it is better to measure a length to calculate the volume of the bubble
+
+
+   0.5 marks for identifying that it is better to measure a length to calculate the volume of the bubble
    1 mark for a good method to measure the volume
    Subtotal: 4 marks
 d) For your design, where do you think the most likely sources of uncertainty in your results will
@@ -933,7 +975,9 @@ d) For your design, where do you think the most likely sources of uncertainty in
                                        Page 23 of 24
                     2019 Australian Science Olympiads Exam – Physics
                  c Australian Science Innovations 2019 ABN 81731558309
-                             Integrity of Competition
+
+
+                             Integrity of Competition
 If there is evidence of collusion or other academic dishonesty, students will be
                    disqualified. Markers’ decisions are final.
 

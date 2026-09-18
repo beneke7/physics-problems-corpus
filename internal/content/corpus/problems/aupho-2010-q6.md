@@ -24,7 +24,7 @@ techniques: []
 ---
 
 Question 6
-![](aupho-2010-q6-fig01.png)
+![](../../figures/aupho/figures/aupho-2010-q6-fig01.png)
 A large train has ended up on the road and a small car is pushing it back to the tracks. While the small car and the large train being pushed are speeding up to cruising speed,
 
 (A) the amount of force with which the small car pushes against the large train is equal to the amount of force with which the large train pushes back against the small car.

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The friction between a 20 kg crate and a straight inclined plane is so big that the crate does not slide down by itself. This crate can be pulled up whilst 3.0 kJ work is done and it can be moved down with 1.0 kJ work. (The pulling force is parallel to the plane of the slope, and the motion of the crate is very slow.) What is the height of the slope? 
+The friction between a 20 kg crate and a straight inclined plane is so big that the crate does not slide down by itself. This crate can be pulled up whilst 3.0 kJ work is done and it can be moved down with 1.0 kJ work. (The pulling force is parallel to the plane of the slope, and the motion of the crate is very slow.) What is the height of the slope?
  (3 pont)

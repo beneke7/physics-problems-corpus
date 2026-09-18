@@ -45,7 +45,7 @@ Megoldás. A lufi rugalmas energiája egy alkalmas E0 konstans bevezetésével �
 E = E0 2λ2
 +λ−4
 −3
-
+
 .
 Meggyőződhetünk róla, hogy nyújtatlan állapotban (azaz λ = 1 esetén) a rugalmas
 energia a várakozásnak megfelelően zérus, λ > 1 értékekre pedig E(λ) monoton nö-
@@ -62,7 +62,7 @@ zőképpen közelíthető:
 ∆λ.
 Ehhez hasonlóan a rugalmas energia kifejezése is sorba fejthető:
 ∆E ≈ E0 4λ−4λ−5
-
+
 ∆λ.
 Az eddigiek felhasználásával a túlnyomás kiszámítható:
 p =
@@ -70,17 +70,17 @@ p =
 ∆V
 =
 4E0 λ−λ−5
-
+
 ∆λ
 3V0λ2∆λ
 = p0
-
+
 1
 λ
 −
 1
 λ7
-
+
 ,
 ahol a rövidség kedvéért bevezettük a p0 = 4E0
 3V0
@@ -127,7 +127,7 @@ dp
 dλ
 = p0 −λ−2
 +7λ−8
-
+
 .
 Ez a derivált zérus, ha
 λ = λ∗

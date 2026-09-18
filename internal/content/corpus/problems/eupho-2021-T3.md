@@ -27,11 +27,11 @@ The first photo here is taken with a digital camera and shows a glass ball, back
 
 In the first photo, the centre of the ball is marked with a cross, and the perimeter of the ball is traced with a dashed line. You can find a larger version of the first photo on a separate sheet. You may take distance measurements there. In the larger photo, the boundary between the red and purple regions is also traced with a dashed line.
 
-![figure](../../sources/eupho/figures/eupho-2021-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2021-T3-1.png)
 
 The second photo is taken while illuminating with a white LED with the ball turned so that the thread can be seen directly.
 
-![figure](../../sources/eupho/figures/eupho-2021-T3-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2021-T3-2.png)
 
 a. Explain qualitatively using a ray diagram why a segment of the thread is seen as a closed loop in the first photo.
 

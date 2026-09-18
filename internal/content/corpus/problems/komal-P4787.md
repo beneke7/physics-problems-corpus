@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201512"
 verification_status: pending
 ---
 
-There is a sample of $17~{}^\circ$C Helium gas in a container of rigid adiabatic walls. The container is dropped to the surface of the Moon from a height of 30 m. 
- $a)$ What will the ordered speed of the Helium atoms be, at the impact of the container? 
- $b)$ By what amount does the unordered thermal average speed of the Helium atoms increase after the impact? 
+There is a sample of $17~{}^\circ$C Helium gas in a container of rigid adiabatic walls. The container is dropped to the surface of the Moon from a height of 30 m.
+ $a)$ What will the ordered speed of the Helium atoms be, at the impact of the container?
+ $b)$ By what amount does the unordered thermal average speed of the Helium atoms increase after the impact?
  (4 pont)

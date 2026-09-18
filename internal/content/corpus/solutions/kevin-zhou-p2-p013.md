@@ -21,28 +21,28 @@ uncertainty by a factor of
 N.
 Solution. (a) Above we found that
 ∆(xy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 Dividing both sides by xy gives
 ∆(xy)
 xy
 =
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 which is the desired result.
 (b) Adding up the trials makes the absolute uncertainties add in quadrature, giving a factor of √
 N, while the total goes up by a factor of N, so the relative uncertain goes down by a factor
@@ -68,17 +68,17 @@ f(x′
 .
 For independent x and y, adding the two contributions to the uncertainty in quadrature gives
 ∆f =
-s
+s
 ∂f
 ∂x
 ∆x
-2
+ 2
 +
-
+
 ∂f
 ∂y
 ∆y
-2
+ 2
 .
 This general rule can also be used to quickly rederive the results of problem 10. However, it
 shouldn’t be necessary in Olympiad problems. If you run into such situations in an experiment,

@@ -26,5 +26,4 @@ Példa. A Föld lapult ellipszoid, amelyre (I1 − I3 )/I1 ≈ −1/300 és ω3 
 a lapultságot magát a Föld forgása okozza, a szögsebesség szinte pontosan egybeesik
 az e3 tengellyel, bár nem teljesen. Ezért azt várjuk, hogy a Föld körülbelül 300 napos periódussal imbolyog;
 ezt a jelenséget Chandler-féle pólusingadozásnak nevezik.
-15 1. Klasszikus mechanika
 

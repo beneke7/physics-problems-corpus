@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A closed beverage can of size 330 ml is floating in water. The can is made of aluminium, and the mass of the empty can is 13 g. How many millilitres of gas is in the closed can, if it contains exactly 330 ml of soft drink of density approximately the same as that of water? 
+A closed beverage can of size 330 ml is floating in water. The can is made of aluminium, and the mass of the empty can is 13 g. How many millilitres of gas is in the closed can, if it contains exactly 330 ml of soft drink of density approximately the same as that of water?
  (4 pont)

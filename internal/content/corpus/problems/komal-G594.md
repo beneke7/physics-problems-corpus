@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-An elastic rubber rope hangs from the ceiling of the gymnasium. Little Bert hangs on the rope and swings vertically at a period of 5 seconds. 
- What should he do in order to decrease the period to 3 seconds? 
+An elastic rubber rope hangs from the ceiling of the gymnasium. Little Bert hangs on the rope and swings vertically at a period of 5 seconds.
+ What should he do in order to decrease the period to 3 seconds?
  (3 pont)

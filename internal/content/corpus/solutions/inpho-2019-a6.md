@@ -17,24 +17,24 @@ by the van der Waal’s equation
 P +
 an2
 V 2
-!
+!
 V
 n
 − b
-
+
 = RT
 where a and b are positive constants and other symbols have their usual meanings. The internal
 energy change of a realistic gas can be given by
 dU = CV dT +
-
+
 T
-
+
 dP
 dT
-
+
 V
 − P
-
+
 dV
 As indicated in the above expression, the derivative of pressure is taken at constant volume.
 We take one mole of the gas (n = 1) through a Diesel cycle (ABCDA) as shown in the following
@@ -53,11 +53,11 @@ only.
 TB =
 Solution:
 dU = CV dT +
-
+
 RT
 V − b
 − P
-
+
 dV
 AB and CD are reversible adiabats, hence entropy change during these processes are
 zero.
@@ -91,21 +91,21 @@ CV ln
 TB
 TA
 = −Rln
-
+
 VB − b
 VA − b
-
+
 (6.3)
 TB = TA
-
+
 VB − b
 VA − b
-−R/CV
+ −R/CV
 = TA
-
+
 VB − b
 VA − b
-−2/3
+ −2/3
 (6.4)
 (b) [11 / 2] Let temperature at A to be TA =100.00K, VA = 8.00l, VB = 1.00l, VC = 2.00l, a = 1.355
 l2·atm/mol2, and b = 0.0313l/mol. Calculate the highest temperature reached during the
@@ -127,11 +127,11 @@ RT
 V − b
 dV (6.9)
 = CV dT +
-
+
 P +
 a
 V 2
-
+
 dV (6.10)
 Qin = CV (TC − TB) + PB(VC − VB) −
 a

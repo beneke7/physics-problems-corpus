@@ -51,7 +51,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                               10
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 
@@ -91,7 +93,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                   11
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
        Megoldás
@@ -108,7 +112,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        amiből Q ∼ (ℓ/L)2 q adódik. Az indukált töltésekre ható erő ekkor
 
                                                                        kq 2 ℓ3
-                                                     
+
                                            1        1        kqQℓ
                              F ∼ kqQ             −      ∼  −       ∼ −         .
                                         (L + ℓ)2 L2           L3        L5

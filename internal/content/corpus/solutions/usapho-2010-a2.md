@@ -69,7 +69,7 @@ the inner surface while a charge of +Q will build up on the outer surface. By sp
 and Gauss’s law, the electric field in the material of the shell is
 E =
 1
-4π0
+4π 0
 q0 − Q(t)
 r2
 .
@@ -79,29 +79,29 @@ E
 ρ
 =
 1
-4π0ρ
+4π 0ρ
 q0 − Q(t)
 r2
 at a radius r, and therefore a net current of
 I = (4πr2
 )J =
 q0 − Q(t)
-0ρ
+ 0ρ
 .
 Since I = dQ/dt, we may separate and integrate for
 dQ
 q0 − Q
 =
 dt
-0ρ
+ 0ρ
 ⇒ log
-
+
 q0
 q0 − Q
-
+
 =
 t
-0ρ
+ 0ρ
 where we used the initial condition Q(0) = 0 to set the integration constant. Solving for Q(t) gives
-Q(t) = q0(1 − e−t/0ρ
+Q(t) = q0(1 − e−t/ 0ρ
 ).

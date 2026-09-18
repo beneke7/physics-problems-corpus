@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-There is a small ball placed on top of a thin, uniform, vertical stick. Compared to the mass of the stick, the mass of the ball is negligible and the stick stands on a table which can be considered frictionless. Suddenly the stick falls over. In which case will the ball strike the tabletop at a higher speed, if it is glued to the top of the stick, or if it is simply put on the stick, from where it can fall off very easily? 
+There is a small ball placed on top of a thin, uniform, vertical stick. Compared to the mass of the stick, the mass of the ball is negligible and the stick stands on a table which can be considered frictionless. Suddenly the stick falls over. In which case will the ball strike the tabletop at a higher speed, if it is glued to the top of the stick, or if it is simply put on the stick, from where it can fall off very easily?
  (4 pont)

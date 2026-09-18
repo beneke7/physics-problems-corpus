@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-A piece of ice has a shape of a cone and it floats in water, such that its symmetry axis is vertical. What fraction of its height is above the water? 
+A piece of ice has a shape of a cone and it floats in water, such that its symmetry axis is vertical. What fraction of its height is above the water?
  (4 pont)

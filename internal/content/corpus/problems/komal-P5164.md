@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-In the same amount of time, the number of complete small-amplitude swings of two simple pendulums are 5 and 10. What are the lengths of the pendulums if one of them is 120 cm longer than the other? 
+In the same amount of time, the number of complete small-amplitude swings of two simple pendulums are 5 and 10. What are the lengths of the pendulums if one of them is 120 cm longer than the other?
  (3 pont)

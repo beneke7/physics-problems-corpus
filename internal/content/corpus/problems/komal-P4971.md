@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A container, filled with water halfway, is sliding down with some acceleration along a long enough slope of angle of elevation of $30^\circ$. What is the angle between the plane of the slope and the surface of the water if the coefficient of kinetic friction between the container and the slope is 0.2? 
+A container, filled with water halfway, is sliding down with some acceleration along a long enough slope of angle of elevation of $30^\circ$. What is the angle between the plane of the slope and the surface of the water if the coefficient of kinetic friction between the container and the slope is 0.2?
  (4 pont)

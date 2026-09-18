@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5413. Egy 20 cm fókusztávolságú gyűjtőlencsét az  ábra szerint egy domború gömb­tükörre helyezünk. Mekkora legyen a tükör görbületi sugara, hogy a lencsére függőlegesen érkező, párhuzamos fénynyaláb a rendszerről való vissza­verődés után is párhuzamos maradjon? 
+P. 5413. Egy 20 cm fókusztávolságú gyűjtőlencsét az  ábra szerint egy domború gömb­tükörre helyezünk. Mekkora legyen a tükör görbületi sugara, hogy a lencsére függőlegesen érkező, párhuzamos fénynyaláb a rendszerről való vissza­verődés után is párhuzamos maradjon?
 
  Példatári feladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5413-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5413-fig1.gif)

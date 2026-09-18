@@ -59,12 +59,12 @@ p
 r
 3
 4
-
+
 3 +
 9
 16
 x2
-
+
 We can see that V (x) ∝ x2
 , hence it is a stable equilibrium.
 (f) [1] Consider a rectangle ABCD. Equal charges are fixed at the vertices A, B, C, and
@@ -120,7 +120,7 @@ Solution: Up
 E =
 3e2
 Z2
-5(4π0r0A1/3)
+5(4π 0r0A1/3)
 (d) [1] Calculate Up
 E (in MeV) in terms of Z and A only.
 Solution: Up
@@ -133,7 +133,7 @@ i.e. at the instance shown in Fig. (b).
 Solution: Ud
 E =
 3e2
-5(4π0r0
+5(4π 0r0
 )
 Z2
 1
@@ -194,7 +194,7 @@ the following reaction with Q value 173.2 MeV:
 56 Ba +92
 36 Kr + 3 1
 0n
-
+
 Solution: aS = 12.7 MeV/fm−2
 .
 (g) [11 / 2] General Z2

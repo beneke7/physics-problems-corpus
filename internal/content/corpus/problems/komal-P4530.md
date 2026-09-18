@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: pending
 ---
 
-A converging lens creates an upside-down image of height K =4 cm about an object of height T =2 cm. Determine the focal length of the lens with construction. 
+A converging lens creates an upside-down image of height K =4 cm about an object of height T =2 cm. Determine the focal length of the lens with construction.
  (3 pont)

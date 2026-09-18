@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, model-reduction]
 ---
 
-There are two coils wined around the same closed iron core. Their inductances on this iron core are measured to be 4 henry, and 9 henry. Then the two coils are connected in series. What will the equivalent inductance be? 
+There are two coils wined around the same closed iron core. Their inductances on this iron core are measured to be 4 henry, and 9 henry. Then the two coils are connected in series. What will the equivalent inductance be?
  (5 pont)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-One of the research space ships of the titanium-devouring little green people found a spherical-shaped small asteroid, which has no atmosphere and does not rotate. The scientists bored a tunnel through the planet along one of its diameter, and found that the whole planet consists of titanium of uniform density. 
- They celebrated the opening of the tunnel with fireworks. By means of a cannon a projectile was shot exactly vertically downward through the tunnel such that the projectile emerged at the other end of the tunnel, and rose to a height which was same as the diameter of the asteroid measured from the surface of the asteroid, and there it exploded spectacularly. The experts of the Examining Institute for Cosmic Accidents (EXINCA) timed the explosion such that it occurred exactly at a time of $T$ elapsed after shooting the projectile. 
- Find (both the formula and the numerical value of) this elapsed time of $T$. 
+One of the research space ships of the titanium-devouring little green people found a spherical-shaped small asteroid, which has no atmosphere and does not rotate. The scientists bored a tunnel through the planet along one of its diameter, and found that the whole planet consists of titanium of uniform density.
+ They celebrated the opening of the tunnel with fireworks. By means of a cannon a projectile was shot exactly vertically downward through the tunnel such that the projectile emerged at the other end of the tunnel, and rose to a height which was same as the diameter of the asteroid measured from the surface of the asteroid, and there it exploded spectacularly. The experts of the Examining Institute for Cosmic Accidents (EXINCA) timed the explosion such that it occurred exactly at a time of $T$ elapsed after shooting the projectile.
+ Find (both the formula and the numerical value of) this elapsed time of $T$.
  (6 pont)

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [superposition, exploit-symmetry]
 ---
 
-Electric currents of magnitude I flow in two loops made of insulated wires, their direction is shown in the figure. The shapes of the loops are regular n -gons. In which case will the magnetic field be greater at the centre of circle that is circumscribed around the n -gon? 
+Electric currents of magnitude I flow in two loops made of insulated wires, their direction is shown in the figure. The shapes of the loops are regular n -gons. In which case will the magnetic field be greater at the centre of circle that is circumscribed around the n -gon?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3969-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3969-fig1.gif)

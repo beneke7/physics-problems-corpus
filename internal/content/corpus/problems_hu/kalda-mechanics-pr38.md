@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $L$ hosszú, $M$ tömegű deszka sima vízszintes felületen fekszik; egyik végén egy $m$ tömegű kis test van. A test és a deszka közötti súrlódási együttható $\mu$. Mekkora az a legkisebb $v$ sebesség, amelyet a deszkának egy gyors lökéssel kell adnunk ahhoz, hogy a test a további mozgás során végigcsússzon a deszka teljes hosszán, majd leessen róla? A test mérete elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr38-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr38-fig1.jpg)

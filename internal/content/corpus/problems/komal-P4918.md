@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A plane approaches the runway at a speed of $v$. The depression angle of the gliding is $\alpha$. When it is at a height of $H$ above the ground, it leaves the straight path and follows a circular trajectory along which its speed remains $v$. When it reaches the runway it just flies horizontally. 
- $a)$ What is the radius of the circular trajectory? 
- $b)$ For how long does the plane fly along the circular arc? 
- $c)$ At most what is the percent increase of the weight of the pilot? 
- Data: $v=70~{\rm m}/{\rm s}$, $\alpha=3^\circ$, $H=100$ m. 
+A plane approaches the runway at a speed of $v$. The depression angle of the gliding is $\alpha$. When it is at a height of $H$ above the ground, it leaves the straight path and follows a circular trajectory along which its speed remains $v$. When it reaches the runway it just flies horizontally.
+ $a)$ What is the radius of the circular trajectory?
+ $b)$ For how long does the plane fly along the circular arc?
+ $c)$ At most what is the percent increase of the weight of the pilot?
+ Data: $v=70~{\rm m}/{\rm s}$, $\alpha=3^\circ$, $H=100$ m.
  (4 pont)

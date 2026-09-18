@@ -28,9 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     number of dimensions. For example, ideal waves in three dimensions obey
 
                                ∂2ψ
-                                         2
+                                          2
                                                   ∂2ψ ∂2ψ
-                                                               
+
                                        2 ∂ ψ
                                    =v          +        +        = v 2 ∇2 ψ
                                ∂t2         ∂x2     ∂y 2   ∂z 2

@@ -69,7 +69,8 @@ Theoretical competition                                                         
                      i        = +       ⎜          − R⎟i ≡ + γ i                                           (0.5 point)
                   dt                  L ⎝ 2A          ⎠
        ∴                 i ( t ) = i ( 0 ) eγ t                        …………………(iv)                         (1.0 point)
-Theoretical competition                                                                             Solution: Question 2
+
+Theoretical competition                                                                             Solution: Question 2
 
 26 April 2009                                                                                              Page 2 of 3
 -------------------------------------------------------------------------------------------------------------------------
@@ -120,7 +121,8 @@ Method 1
                            μ0 Na 2 2                  μ0 Na 2 2
                   τ =                     i       =             i ( 0 ) e+2γ t   …………………(vi)                  (1.0 point)
                               2A                          2A
-Theoretical competition                                                                      Solution: Question 2
+
+Theoretical competition                                                                      Solution: Question 2
 
 26 April 2009                                                                                              Page 3 of 3
 -------------------------------------------------------------------------------------------------------------------------

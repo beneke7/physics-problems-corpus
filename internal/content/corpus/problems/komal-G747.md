@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, extremization]
 ---
 
-Suppose that a one-atom thick layer is made from 1 kg gold. Estimate the number of football pitches that can be covered with this gold foil. 
+Suppose that a one-atom thick layer is made from 1 kg gold. Estimate the number of football pitches that can be covered with this gold foil.
  (3 pont)

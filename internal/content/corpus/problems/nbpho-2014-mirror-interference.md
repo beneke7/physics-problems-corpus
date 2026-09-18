@@ -24,7 +24,7 @@ techniques: [limiting-and-special-cases]
 
 A point source $S$ emits coherent light of wavelength $\lambda$ isotropically in all directions; thus, the wavefronts are concentric spheres. The waves reflect from a dielectric surface placed at a distance $l=N \lambda$ (where $N$ is a large integer) from the point source, and the interference pattern is observed on a screen which is placed to a distance $L \gg l$ from the point source (see figure).
 
-![figure](../../sources/nbpho/figures/nbpho-2014-mirror-interference-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2014-mirror-interference-fig1.jpg)
 
 In what follows we use the $x, y$, and $z$ coordinates as defined in the figure. The screen is parallel to the mirror and lies in the $y-z$ plane.
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201110"
 verification_status: pending
 ---
 
-The atomic mass number of Radium is A =226, its halflife is 1622 years. What is the activity of 1 g Radium? (Earlier this was the base of the unit of activity: 1 curie was the activity of 1 g radium.) 
+The atomic mass number of Radium is A =226, its halflife is 1622 years. What is the activity of 1 g Radium? (Earlier this was the base of the unit of activity: 1 curie was the activity of 1 g radium.)
  (3 pont)

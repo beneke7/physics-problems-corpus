@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-A bucket of mass 10 kg is raised by means of a negligible-mass rope, such that first it is accelerated uniformly in 2 s to a speed of 0.6 m/s, and then it continues its motion at this speed for 8 more seconds. To what height is the bucket raised, and how much work was done? 
+A bucket of mass 10 kg is raised by means of a negligible-mass rope, such that first it is accelerated uniformly in 2 s to a speed of 0.6 m/s, and then it continues its motion at this speed for 8 more seconds. To what height is the bucket raised, and how much work was done?
  (3 pont)

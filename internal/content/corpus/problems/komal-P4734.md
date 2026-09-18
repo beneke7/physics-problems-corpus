@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry, auxiliary-unknowns]
 ---
 
-Three small positively charged balls of mass $m$ are attached by massless insulating threads of length $L$ and are placed to a horizontal smooth surface made of some insulating material. Two of the balls both have a charge of $Q$ and the third is charged to $2Q$ . At an instant the thread between the two balls of charge $Q$ is cut off. 
+Three small positively charged balls of mass $m$ are attached by massless insulating threads of length $L$ and are placed to a horizontal smooth surface made of some insulating material. Two of the balls both have a charge of $Q$ and the third is charged to $2Q$ . At an instant the thread between the two balls of charge $Q$ is cut off.
 
- $a)$ What are the velocities of the balls at the instant when the ball of charge $2Q$ is the fastest? 
- $b)$ What is the tension in the threads at this moment? 
- $c)$ What are the displacements of the balls at this moment? 
+ $a)$ What are the velocities of the balls at the instant when the ball of charge $2Q$ is the fastest?
+ $b)$ What is the tension in the threads at this moment?
+ $c)$ What are the displacements of the balls at this moment?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4734-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4734-fig1.gif)

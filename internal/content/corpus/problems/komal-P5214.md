@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-When Torricelli's experiment is carried out at sea level, then the mercury column is 76 cm high. However, on a very high hill the height of the mercury is only 40 cm. What is the magnitude of the vertically upward force that we have to apply in order to hold the tube at rest on the high mountain? 
+When Torricelli's experiment is carried out at sea level, then the mercury column is 76 cm high. However, on a very high hill the height of the mercury is only 40 cm. What is the magnitude of the vertically upward force that we have to apply in order to hold the tube at rest on the high mountain?
 
- The inner diameter of the tube is 1 cm, its total length is $110~$cm, from which 10 cm is immersed into the mercury. The mass of a 1 cm-long part of the tube is 1 g, and the mass of its cover at its top is 5 g. (The density of glass is 2.6 g/cm${}^3$.) 
+ The inner diameter of the tube is 1 cm, its total length is $110~$cm, from which 10 cm is immersed into the mercury. The mass of a 1 cm-long part of the tube is 1 g, and the mass of its cover at its top is 5 g. (The density of glass is 2.6 g/cm${}^3$.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5214-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5214-fig1.gif)

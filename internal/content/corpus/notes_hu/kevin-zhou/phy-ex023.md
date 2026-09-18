@@ -44,7 +44,6 @@ mivel két megoldás kivonásakor a felület teljes töltése nulla. Ekkor a kor
   • A magnetosztatika alapegyenletei
 
                                         ∇ × B = µ0 J,    ∇ · B = 0.
-31 2. Elektromágnesség
 
 
  • Mivel egy rotáció divergenciája nulla, ∇ · J = 0 kell legyen. Ez egyszerűen a
@@ -100,7 +99,6 @@ ezután koordinátaváltással például gömbi koordinátákra általánosítha
   n
 R-ben a rotáció-rotáció azonosságát fordítva használjuk, majd a divergencia, gradiens és rotáció
 ismert kifejezéseit behelyettesítjük. Ehhez nincs szükség tenzorműveletekre.
-32 2. Elektromágnesség
 
 
 Most matematikai eszközeinket a Biot–Savart-törvény levezetésére használjuk.
@@ -115,7 +113,7 @@ Most matematikai eszközeinket a Biot–Savart-törvény levezetésére használ
     milyenek legyenek.
  • A Coulomb-mérték feltételének ellenőrzéséhez vegyük észre, hogy
                              J(x′ )
-                Z                    Z                               Z
+                Z                      Z                               Z
                       ′                     ′     ′          1                              1
       ∇ · A(x) ∝ dx ∇ ·            ′
                                       =  dx   J(x   ) · ∇       ′
@@ -128,7 +126,7 @@ Most matematikai eszközeinket a Biot–Savart-törvény levezetésére használ
     ∇ · J = 0-val arányos tagra bonthatjuk, így a kívánt ∇ · A = 0 adódik.
  • A rotációt a szorzási szabállyal használva
                            J(x′ )                                                      ′          ′
-                                                           
+
                                                                                   ′ J(x ) × (x − x )
               Z                         Z                                    Z
            µ0       ′                µ0      ′       1              ′     µ0
@@ -167,7 +165,6 @@ Ezután a mágneses dipólusokat és multipólusokat vizsgáljuk.
                              A(r) =           , m = IS, S =         dS.
                                     4π r3                         S
     Itt S a vektori terület, m pedig a mágneses dipólusmomentum.
-33 2. Elektromágnesség
 
 
   • A rotáció közvetlen kiszámítása a mágneses teret adja:

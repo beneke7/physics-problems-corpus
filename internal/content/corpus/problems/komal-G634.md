@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, differential-element]
 ---
 
-The inner ring of the ball-bearing shown in the figure is at rest, the centres of the balls are undergoing circular motion at a speed of 0.2 m/s. What is the number of revolution of the outer ring, if $r=3$ cm, $R=4$ cm? 
+The inner ring of the ball-bearing shown in the figure is at rest, the centres of the balls are undergoing circular motion at a speed of 0.2 m/s. What is the number of revolution of the outer ring, if $r=3$ cm, $R=4$ cm?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G634-fig1.gif)
+![figure](../../figures/komal/figures/komal-G634-fig1.gif)

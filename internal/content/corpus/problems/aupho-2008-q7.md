@@ -24,7 +24,7 @@ verification_status: pending
 ## Question 7.
 
 The positions of two joggers, Rachel and Jordan, are represented below at successive equal time intervals. The joggers are moving towards the right.
-![](aupho-2008-q7-fig01.png)
+![](../../figures/aupho/figures/aupho-2008-q7-fig01.png)
 
 The accelerations of the joggers are related as follows:
 

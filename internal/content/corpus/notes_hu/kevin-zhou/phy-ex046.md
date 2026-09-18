@@ -31,7 +31,6 @@ ahol µB a Bohr-magneton. A foglaltsági számok ekkor
                          V   λ                         V   λ
 A kapott mágnesezettség
                                          M = µB (N↑ − N↓ ).
-85 3. Statisztikus mechanika
 
 
 A nagy hőmérsékletű határban z kicsi és f3/2 (z) ≈ z, ezért
@@ -66,5 +65,4 @@ Ha h(x) elsőfokú polinom, nincs korrekciós tag. A h(x) másodfokú tagjai mia
                                         0
 
 c értékének meghatározásához tekintsük a h(x) = (x − 1/2)2 függvényt, ami c = 1/24-et ad. Az összeg teleszkopikus összeállítása eredményezi a fenti formulában szereplő h′ (0)/24 tagot. Általában minden magasabb rendű korrekciós tag páratlan deriváltakat tartalmaz, mert az olyan tagok, mint (x − 1/2)2n+1 , nem járulnak hozzá a területhez.
-86 3. Statisztikus mechanika
 

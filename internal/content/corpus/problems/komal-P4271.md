@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-There is a pair of parallel, horizontal, conducting rails in uniform vertically downward magnetic field of induction B =0.5 T. The two rails are at a distance of =10 cm and they are connected to a rechargeable battery of potential difference U $_{0}$=12 V. A metal rod of mass m =50 g, and of resistance R =2  , is placed onto the rails, perpendicularly to them. The coefficient of friction between the rod and the rails is =0.3. 
- a ) What is the initial acceleration of the rod when switch K is closed? 
- b ) What would the final speed of the rod be if the rails are very long? 
- c ) Estimate, (try to give a precise estimation) the covered distance, and the time during which the speed of the rod increases from to . 
+There is a pair of parallel, horizontal, conducting rails in uniform vertically downward magnetic field of induction B =0.5 T. The two rails are at a distance of =10 cm and they are connected to a rechargeable battery of potential difference U $_{0}$=12 V. A metal rod of mass m =50 g, and of resistance R =2  , is placed onto the rails, perpendicularly to them. The coefficient of friction between the rod and the rails is =0.3.
+ a ) What is the initial acceleration of the rod when switch K is closed?
+ b ) What would the final speed of the rod be if the rails are very long?
+ c ) Estimate, (try to give a precise estimation) the covered distance, and the time during which the speed of the rod increases from to .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4271-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4271-fig1.gif)

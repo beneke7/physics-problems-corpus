@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [superposition, differential-element]
 ---
 
-Parallel to each other there are four thin lenses along the same optical axis, as shown in the figure. The radii of the curvatures of each lens are 5 cm, and 10 cm. Two of the lenses are air lenses which are in glass of refractive index of $n=1.5$, and the other two lenses are made of glass of the same refractive index. 
- In the glass there is a point-like light source on the optical axis at a distance of 60 cm from the convex meniscus lens. On the other side of this lens at a distance of 30 cm there is the concave meniscus air lens. The boundary of the glass is at a distance of 10 cm from this concave meniscus air lens. From the boundary of glass at a distance of 10 cm there is the convex meniscus glass lens and the fourth (concave meniscus) glass lens is at a distance of 20 cm from the third one. 
+Parallel to each other there are four thin lenses along the same optical axis, as shown in the figure. The radii of the curvatures of each lens are 5 cm, and 10 cm. Two of the lenses are air lenses which are in glass of refractive index of $n=1.5$, and the other two lenses are made of glass of the same refractive index.
+ In the glass there is a point-like light source on the optical axis at a distance of 60 cm from the convex meniscus lens. On the other side of this lens at a distance of 30 cm there is the concave meniscus air lens. The boundary of the glass is at a distance of 10 cm from this concave meniscus air lens. From the boundary of glass at a distance of 10 cm there is the convex meniscus glass lens and the fourth (concave meniscus) glass lens is at a distance of 20 cm from the third one.
 
- Where is the image of the light source created by the four lenses? 
+ Where is the image of the light source created by the four lenses?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5075-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5075-fig1.gif)

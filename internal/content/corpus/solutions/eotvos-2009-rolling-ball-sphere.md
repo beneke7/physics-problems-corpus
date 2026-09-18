@@ -73,16 +73,16 @@ Sr =
 5
 mr2
 βgolyó. (5)
-A (2)(5) egyenletrendszerb®l kiküszöbölve az S, a és βgolyó mennyiségeket, a golyó tömegközéppontjának szögki-
+A (2) (5) egyenletrendszerb®l kiküszöbölve az S, a és βgolyó mennyiségeket, a golyó tömegközéppontjának szögki-
 térése és szöggyorsulása között a következ® összefüggést kapjuk:
 (6) βt = −
 5g
 7(R − r)
-
+
 sinϑ −
 2Rβ
 5g
-
+
 .
 Innen leolvashatjuk, hogy általában létezik egy olyan
 ϑ0 = arcsin
@@ -102,11 +102,11 @@ egyenlet ebben a közelítésben a
 βt = −
 5g
 7(R − r)
-
+
 ϑ −
 2Rβ
 5g
-
+
 = −Ω2
 · (ϑ − ϑ0)
 alakú, amelyb®l látszik, hogy a golyó tömegközéppontja jó közelítéssel harmonikus rezg®mozgást végez a ϑ0 szöghelyzet
@@ -144,11 +144,11 @@ mr2
 5
 mr2
 ·
-
+
 R
 r
 ωgömb − ω0
-
+
 .
 A fenti egyenletekb®l F̄∆t-t kiküszöbölve a tisztán gördül® golyó adataira
 (8) ω0 =
@@ -162,7 +162,7 @@ adódik. Mivel ez az állapot (a plexigömb érdes felülete miatt) a gömb meg�
 feltehetjük, hogy az újra tiszta gördüléssel mozgó golyó lényegében a gömb legalján marad, elmozdulása a meg súszás
 közben elhanyagolható.
 Megjegyzés: Ugyanerre az eredményre juthatunk akkor is, ha a gömb megállítását követ® rövid id®re a golyó alatti felületet
-vízszintes, igen érdes síknak tekintjük. A rövid ideig ható súrlódási er®lökés megváltoztatja a golyó me hanikai energiáját és
+vízszintes, igen érdes síknak tekintjük. A rövid ideig ható súrlódási  er®lökés  megváltoztatja a golyó me hanikai energiáját és
 lendületét, de nem változtatja meg a golyónak a gömbbel érintkez® pontjára vonatkoztatott perdületét:
 2
 5

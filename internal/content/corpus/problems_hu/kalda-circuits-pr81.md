@@ -23,4 +23,4 @@ Tekintsünk egy olyan áramkört, amely elhanyagolhatóan kis induktivitású, $
 (b) Határozzuk meg az $R_{1}$ és $R_{2}$ ellenállásokon átfolyó áramot a $t_{2}=15 \mathrm{~ms}$ időpontban.
 (c) Mekkora az $R_{2}$ ellenálláson áthaladó eredő töltés?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr81-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr81-fig1.jpg)

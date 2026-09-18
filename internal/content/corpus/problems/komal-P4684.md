@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201412"
 verification_status: pending
 ---
 
-Starting at the centre of the curvature of a spherical concave mirror a point-like object moves uniformly along a straight line until it reaches the pole of the mirror. Determine the relationship between the position of its image and the elapsed time and plot the graph of this function. 
+Starting at the centre of the curvature of a spherical concave mirror a point-like object moves uniformly along a straight line until it reaches the pole of the mirror. Determine the relationship between the position of its image and the elapsed time and plot the graph of this function.
  (4 pont)

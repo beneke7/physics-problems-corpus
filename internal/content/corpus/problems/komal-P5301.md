@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-In the electric field of a point-like charge $Q$, at a distance of $R$ from it, there is a point-like electric dipole, which can rotate freely and which has a dipole momentum of $p$. How much work has to be done when the dipole is moved very far (``to infinity'') from the charge? 
+In the electric field of a point-like charge $Q$, at a distance of $R$ from it, there is a point-like electric dipole, which can rotate freely and which has a dipole momentum of $p$. How much work has to be done when the dipole is moved very far (``to infinity'') from the charge?
  (4 pont)

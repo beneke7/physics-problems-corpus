@@ -67,7 +67,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        13
-    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
 
 
     4    Kinetikus gázelmélet

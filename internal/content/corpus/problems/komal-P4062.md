@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A cloud of average temperature 5 $^\circ$C consists of water drops of average radius 25 nm. These small drops continuously coalesce to greater spheres of average radius 1 mm. What is the temperature of the raindrops formed? 
+A cloud of average temperature 5 $^\circ$C consists of water drops of average radius 25 nm. These small drops continuously coalesce to greater spheres of average radius 1 mm. What is the temperature of the raindrops formed?
  (5 pont)

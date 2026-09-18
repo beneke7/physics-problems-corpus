@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4542. Mekkora az ábrán látható ellenálláshálózat eredő ellenállása a két végpontja között, ha mindegyik ellenállás azonos R nagyságú?
 
-![figure](../../raw_html/komal_figures/komal-P4542-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4542-fig1.gif)

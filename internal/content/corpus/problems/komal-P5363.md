@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [differential-element, extremization]
 ---
 
-An hourglass was made from a thin, tall glass tube. The mass $m_0$ of the sand in it is equal to the total mass of the glass tube and the supporting stands. Initially, the sand is at the bottom filling it up to a height of $h=5$ cm. After turning the hourglass upside down the sand flows down at a steady rate in $t_0=1$ minute. (Approximate the shape of the sand in the upper and lower bulbs with cylinders.) 
+An hourglass was made from a thin, tall glass tube. The mass $m_0$ of the sand in it is equal to the total mass of the glass tube and the supporting stands. Initially, the sand is at the bottom filling it up to a height of $h=5$ cm. After turning the hourglass upside down the sand flows down at a steady rate in $t_0=1$ minute. (Approximate the shape of the sand in the upper and lower bulbs with cylinders.)
 
- $a)$ Determine where the centre of gravity of the hourglass is time $t$ after the clock was started. (Don't deal with the very short periods following the start of the hourglass or immediately before its stop, when the flow of sand does not or no longer fill the entire distance between the outlet and the lower impact point.) 
- $b)$ Calculate the linear momentum of the hourglass time $t$ after starting the hourglass. 
- $c)$ We measured the weight of the hourglass with a very sensitive scale while the sand is flowing from the top cylinder to the bottom. We found that the weight measured is slightly greater than the weight of the hourglass that has already been stopped. Using your answers given to the previous two subtasks, determine how many thousandths of the weight of a working hourglass is greater than that of the already ``expired'' hourglass! 
+ $a)$ Determine where the centre of gravity of the hourglass is time $t$ after the clock was started. (Don't deal with the very short periods following the start of the hourglass or immediately before its stop, when the flow of sand does not or no longer fill the entire distance between the outlet and the lower impact point.)
+ $b)$ Calculate the linear momentum of the hourglass time $t$ after starting the hourglass.
+ $c)$ We measured the weight of the hourglass with a very sensitive scale while the sand is flowing from the top cylinder to the bottom. We found that the weight measured is slightly greater than the weight of the hourglass that has already been stopped. Using your answers given to the previous two subtasks, determine how many thousandths of the weight of a working hourglass is greater than that of the already ``expired'' hourglass!
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5363-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5363-fig1.gif)

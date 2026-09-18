@@ -39,7 +39,9 @@ use a small mass, such as a paperweight or a book.
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 A solid homogeneous metal ball of radius R is dropped with its lowest point a height h above the
@@ -84,7 +86,9 @@ find an expression for θ′.
 2. Suppose light from the edge of the galaxy comes in at an angle θ = 150◦. How fast does the
 spaceship have to be moving for this to correspond to an angle θ′ = 30◦? For all future parts,
 assume the spaceship is moving at this speed.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 3. For what values of θ′ can light from the galaxy be seen?
 4. Suppose there are pulsars distributed throughout the galaxy, which pulse with frequency 1Hz
 in their rest frames. What pulse frequencies does an observer inside the spaceship see with
@@ -139,7 +143,9 @@ To receive credit, you should describe the method you used and justify why you h
 You do not have to do any graphing for this problem. State your results for the two coefficients of
 friction along with uncertainties. (Most of the credit for this question is for producing a sensible
 experimental method, not your final numeric results.)
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. This is AuPhO 2013, problem 14. It’s an example of why I like the AuPhO, despite its
 occasional typos and ambiguities.
 There are many possible solutions. The most crucial point is that you shouldn’t use any method
@@ -157,7 +163,9 @@ the second part, you can directly press the pencil onto the sheet of paper, and 
 slips. For an effective measurement, you want to avoid the problem with normal forces at corners
 mentioned in M2. That is, since a sharp tip might deform the paper, you should make sure the tip
 of your pencil is blunt.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 A homogeneous disc A of mass m and radius RA moves on a plane in the x̂ direction with speed v.
@@ -206,7 +214,9 @@ Now suppose that the second solenoid is moved a distance x to the right along it
 so that the centers of the two solenoids no longer coincide. You may assume that
 √
 Ai ≪ x ≪ L.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 2. Compute the total magnetic field energy when both coils are held in place at this position.
 3. Find the electromotive forces E1 and E2 generated on the coils when the second one is pulled
 further out with a velocity v.
@@ -217,14 +227,14 @@ Solution. This is a modification of NBPhO 2015, problem 9. The answers are:
 U0 = µ0n2
 I2
 L
-
+
 3
 2
 A2 +
 1
 2
 A1
-
+
 2.
 U = U0 − µ0n2
 I2

@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: flagged
 ---
 
-A sample of ideal gas (of constant mass) is taken from state $A$ to state $C$ through the semi-circle shaped processes named $ABC$ and $ADC$ as shown in the figure. 
+A sample of ideal gas (of constant mass) is taken from state $A$ to state $C$ through the semi-circle shaped processes named $ABC$ and $ADC$ as shown in the figure.
 
- $a)$ In which case will the algebraic sum of the absorbed heat and the released heat be the greater? 
- $b)$ By what amount is it greater? 
+ $a)$ In which case will the algebraic sum of the absorbed heat and the released heat be the greater?
+ $b)$ By what amount is it greater?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4797-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4797-fig1.gif)

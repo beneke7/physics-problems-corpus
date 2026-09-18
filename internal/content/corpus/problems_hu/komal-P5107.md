@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5107. Öt egyforma és egy különböző ellenállásból tetraéder alakú kapcsolást forrasztunk össze. Egyetlen ellenállásmérő műszer áll rendelkezésünkre, és a látszólag egyforma hat ellenállás kapcsolását nem szabad megbontanunk. Legfeljebb hány mérést kell elvégezzünk, hogy megtaláljuk a többitől eltérő értékű ellenállást, és még az ellenállások nagyságát is megtudjuk? Szerencsés esetben hány méréssel juthatunk el a megoldáshoz? 
+P. 5107. Öt egyforma és egy különböző ellenállásból tetraéder alakú kapcsolást forrasztunk össze. Egyetlen ellenállásmérő műszer áll rendelkezésünkre, és a látszólag egyforma hat ellenállás kapcsolását nem szabad megbontanunk. Legfeljebb hány mérést kell elvégezzünk, hogy megtaláljuk a többitől eltérő értékű ellenállást, és még az ellenállások nagyságát is megtudjuk? Szerencsés esetben hány méréssel juthatunk el a megoldáshoz?
  Pakisztáni feladat

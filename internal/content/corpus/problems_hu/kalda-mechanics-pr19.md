@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy vízszintes emelvény függőleges tengely körül $\omega$ szögsebességgel forog. Egy $r$ sugarú korong súrlódásmentesen foroghat és mozoghat fel-le egy függőleges tengely mentén, amelyet az emelvény tengelyétől $d>r$ távolságra rögzítettünk. A korongot a gravitáció az emelvényhez szorítja, a köztük lévő súrlódási együttható $\mu$. Határozzuk meg a korong által felvett szögsebességet. Tegyük fel, hogy a nyomás egyenletesen oszlik el a korong teljes alaplapján.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr19-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr19-fig1.jpg)

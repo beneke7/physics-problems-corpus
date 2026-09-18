@@ -75,7 +75,7 @@ f · u = quµuνFµν
 = −f · u
 using the antisymmetric property, so f · u = 0. (In fact, the requirement to keep the rest
 mass fixed is quite restrictive, so this is one of the simplest possible relativistic force laws.)
-[2] Problem 20.  W 1 0USAPhO 2013, problem A3. A warmup question using the above facts.
+[2] Problem 20.   W 1 0USAPhO 2013, problem A3. A warmup question using the above facts.
 [3] Problem 21 (MPPP 192). An electron moving with speed v0 = 0.6c enters a homogeneous electric
 field that is perpendicular to its velocity.
 25
@@ -185,6 +185,6 @@ q2 + (−q3)
 which is again a contradiction. Thus, the series of tracks shown is impossible.
 27
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 23.  W 1 0USAPhO 2006, problem A4.
-[3] Problem 24.  ^ 1 0USAPhO 2022, problem B2. A nice problem on deriving the time dilation
+[3] Problem 23.   W 1 0USAPhO 2006, problem A4.
+[3] Problem 24.   ^ 1 0USAPhO 2022, problem B2. A nice problem on deriving the time dilation
 formula for an electrostatic “clock”.

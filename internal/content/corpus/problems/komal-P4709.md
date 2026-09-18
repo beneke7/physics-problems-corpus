@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [differential-element, model-reduction]
 ---
 
-The mass of a uniform density plastic cube of edge 2 dm is 1.0 kg. The Young's modulus of its material is $10^7~\rm{N/m}^2$. 
- $a)$ How much is this cube compressed if it is placed to a horizontal surface? 
- $b)$ How much does the height of its centre of mass decrease? 
+The mass of a uniform density plastic cube of edge 2 dm is 1.0 kg. The Young's modulus of its material is $10^7~\rm{N/m}^2$.
+ $a)$ How much is this cube compressed if it is placed to a horizontal surface?
+ $b)$ How much does the height of its centre of mass decrease?
  (5 pont)

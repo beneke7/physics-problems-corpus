@@ -47,7 +47,9 @@ MARKS
                                        Page 1 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations ABN 81731558309
-                             SECTION A: MULTIPLE CHOICE
+
+
+                             SECTION A: MULTIPLE CHOICE
                            USE THE ANSWER SHEET PROVIDED
 
 Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
@@ -94,7 +96,9 @@ Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
                                                  Page 2 of 18
                          2015 Australian Science Olympiads Exam – Physics Solutions
                           c Australian Science Innovations 2015 ABN 81731558309
-Solution: b. As there is no friction there are no forces on the ball in the direction of motion and there is
+
+
+Solution: b. As there is no friction there are no forces on the ball in the direction of motion and there is
 no force 3. However, the direction of the ball’s velocity is changing so it is accelerating and experiencing
 a force from q to O in order to make it change direction. This force will be caused by the channel wall,
 so force 2 is acting on the ball. There is also a gravitational force acting on the ball which is force 1.
@@ -141,7 +145,9 @@ when one event can be used to predict another it does not mean it causes it. For
                                            Page 3 of 18
                    2015 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2015 ABN 81731558309
-people use air conditioners more people also go swimming. This does not mean using an air conditioner
+
+
+people use air conditioners more people also go swimming. This does not mean using an air conditioner
 causes people to go swimming.
 Question 5
 A projectile of mass M is moving directly north when it collides with and sticks to a second projectile of
@@ -189,7 +195,9 @@ speed is minimum at the top and higher everywhere else, including just before hi
                                            Page 4 of 18
                    2015 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2015 ABN 81731558309
-Question 7
+
+
+Question 7
 When a screw is very tight the most effective way to loosen it is by:
 
    a. using a screwdriver with a fat handle and pushing down hard while turning to increase the grip.
@@ -237,7 +245,9 @@ To the nearest order of magnitude, what is the mass of half a teaspoon of cinnam
                                            Page 5 of 18
                    2015 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2015 ABN 81731558309
-    a. 0.01g
+
+
+    a. 0.01g
     b. 0.1g
     c. 1g
     d. 10g
@@ -277,7 +287,9 @@ Question 10
                                             Page 6 of 18
                     2015 Australian Science Olympiads Exam – Physics Solutions
                      c Australian Science Innovations 2015 ABN 81731558309
-                     SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                     SECTION B: WRITTEN ANSWER QUESTIONS
                        USE THE ANSWER BOOKLET PROVIDED
 Note: Suggested times are given for section B as a general guide only. You may take more or less time on any
 question – everyone is different.
@@ -333,7 +345,9 @@ question – everyone is different.
                                                 Page 7 of 18
                         2015 Australian Science Olympiads Exam – Physics Solutions
                          c Australian Science Innovations 2015 ABN 81731558309
-          where Fg⊥ is the component of the gravitational force perpendicular to the cone’s surface.
+
+
+          where Fg⊥ is the component of the gravitational force perpendicular to the cone’s surface.
 
 
                                            We resolve the gravitational force
@@ -389,7 +403,9 @@ c) The object of mass m continues along its circular path until it is bumped sli
                                        Page 8 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2015 ABN 81731558309
-   Question 12
+
+
+   Question 12
     Suggested Time: 25 min
     The logarithmic spiral is a curve that is seen often in nature, for example in sea shells and sunflowers. It
     is also known as a constant angle spiral, because it has the property that at each point on the curve, the
@@ -447,7 +463,9 @@ parallel sided crack.
                                                   Page 9 of 18
                           2015 Australian Science Olympiads Exam – Physics Solutions
                            c Australian Science Innovations 2015 ABN 81731558309
-A cam is comprised of two lobes, each the shape of a section of a logarithmic spiral whose centres are on
+
+
+A cam is comprised of two lobes, each the shape of a section of a logarithmic spiral whose centres are on
 a common axle; this axle is attached to the rope and hence the climber. The springs in the device restore
 the cam to the shape shown in Figure 1(b). The lobes can be retracted (releasing the springs) allowing
 the cam to be placed in a crack in the rock as shown in Figure 1(c). If the climber falls, the downward
@@ -487,7 +505,9 @@ place in the crack. The frictional force has a maximum value Ffr = µ N where N 
                                          Page 10 of 18
                   2015 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2015 ABN 81731558309
-   where the factor of 2 is from the two cam lobes. Meanwhile for the upward frictional forces to
+
+
+   where the factor of 2 is from the two cam lobes. Meanwhile for the upward frictional forces to
    balance Ff all , we have
                                                    1
                                               Ff = Ff all
@@ -526,7 +546,9 @@ d) As a climber climbs above a cam they may inadvertently pull the cam from side
                                       Page 11 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2015 ABN 81731558309
-Question 13
+
+
+Question 13
  Suggested Time: 25 min
 One evening a house was heated by burning 10 kg of hardwood in a slow combustion heater. The fire
 went out at 7:30 pm. The efficiency of the heater is 68% and hardwood releases 1.9 MJ/kg of energy
@@ -565,7 +587,9 @@ Figure 3.
                                          Page 12 of 18
                   2015 Australian Science Olympiads Exam – Physics Solutions
                    c Australian Science Innovations 2015 ABN 81731558309
-(ii) Write down an equation which describes the relationship of the line of best fit.
+
+
+(ii) Write down an equation which describes the relationship of the line of best fit.
      Solution:
      Quite generally, we can represent a straight line in the form
 
@@ -602,7 +626,9 @@ Figure 3.
                                  Page 13 of 18
           2015 Australian Science Olympiads Exam – Physics Solutions
            c Australian Science Innovations 2015 ABN 81731558309
-         while heat would flow out of the house more slowly if the temperatures were closer to one
+
+
+         while heat would flow out of the house more slowly if the temperatures were closer to one
          another.
 
 c) Use your answer to 13b to make a better estimate of the total heat capacity of the house. Justify
@@ -640,7 +666,9 @@ c) Use your answer to 13b to make a better estimate of the total heat capacity o
                                       Page 14 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2015 ABN 81731558309
-Question 14
+
+
+Question 14
  Suggested Time: 20 min
 When light passes through a very narrow slit it diffracts. This means that the light spreads out and forms
 a pattern with bright and dark spots on a distant screen. Some examples of these patterns are shown
@@ -691,7 +719,9 @@ and the distance from the slit to the screen were kept constant in these images.
                                           Page 15 of 18
                    2015 Australian Science Olympiads Exam – Physics Solutions
                     c Australian Science Innovations 2015 ABN 81731558309
-b) A diffraction pattern from a different single slit is shown on p. 8 of the Answer Booklet. Draw a
+
+
+b) A diffraction pattern from a different single slit is shown on p. 8 of the Answer Booklet. Draw a
    possible single slit which could have produced this pattern in the box to the right of the pattern.
    Solution:
 
@@ -737,7 +767,9 @@ c) When a narrow slit is replaced by a small rectangular aperture (hole) the lig
                                       Page 16 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2015 ABN 81731558309
-                                                   The shape should be an ellipse which is roughly
+
+
+                                                   The shape should be an ellipse which is roughly
        (iv)
                                                    twice as high as it is wide.
 
@@ -777,7 +809,9 @@ d) Explain why the width of the central bright region is proportional to the dis
                                       Page 17 of 18
                2015 Australian Science Olympiads Exam – Physics Solutions
                 c Australian Science Innovations 2015 ABN 81731558309
-                             Integrity of Competition
+
+
+                             Integrity of Competition
 If there is evidence of collusion or other academic dishonesty, students will be
                    disqualified. Markers’ decisions are final.
 

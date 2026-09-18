@@ -30,7 +30,7 @@ solution_language: en
       (a) Write down the quantities E and L in terms of G, M , m, v, r, and ϕ, and show that
 
                                                                  L2
-                                                    
+
                                          2    GM m
                                         r +         r sin2 ϕ =       .
                                                 E               2mE

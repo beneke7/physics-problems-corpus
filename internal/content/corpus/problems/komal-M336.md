@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201311"
 verification_status: pending
 ---
 
-Mount an axle to the cap of a half-litre PET-bottle, and measure the period of the swinging bottle about this axle. Vary the amount of liquid in the bottle and determine the amount of liquid in the bottle for which the period is the greatest. 
+Mount an axle to the cap of a half-litre PET-bottle, and measure the period of the swinging bottle about this axle. Vary the amount of liquid in the bottle and determine the amount of liquid in the bottle for which the period is the greatest.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M336-fig1.gif)
+![figure](../../figures/komal/figures/komal-M336-fig1.gif)

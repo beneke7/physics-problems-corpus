@@ -67,7 +67,9 @@ Section 1
                       λ     h    y
     i.e. measured λ = (690 ± 70) nm
     The accepted value is 680 nm so that the departure from accepted value equals 1.5%.
-Section 2
+
+
+Section 2
 This section tests the student’s ability to make semi-quantitative measurements and the use of judgement
 in making observations.
 
@@ -128,7 +130,9 @@ concentration. Looking down on the tank, one sees
 
                                     BEAM DIAMETER
                                     2x = 2.00 mm
-      i. The entrance beam diameter is 2.00 mm. The following is an example of the calculations expected:
+
+
+      i. The entrance beam diameter is 2.00 mm. The following is an example of the calculations expected:
          With 0.5 mL milk added to the 50 mL water, we find
                                                                       0.5
                                       Scatterer concentration =           = 1% = 0.01
@@ -190,7 +194,9 @@ ii. & iii. One thus obtains the following table of results. 2θ ′ can be deter
          By extrapolation of the graph of ln Tmilk versus concentration C, one finds that for a scatterer
          concentration of 10%
                                                µ = 0.160 mm−1 .
-           50
+
+
+           50
 
 
 
@@ -253,7 +259,9 @@ ln Tmilk
 
 
                      Figure 2: Sample plot
-Detailed Mark Allocation
+
+
+Detailed Mark Allocation
 Section 1
 A clear diagram illustrating geometry used with appropriate allocations                         [1]
 Optimal geometry used - as per model solution (laser close to ruler)                            [1]

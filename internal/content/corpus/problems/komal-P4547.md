@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201305"
 verification_status: flagged
 ---
 
-A simple pendulum of length is hanging above the horizontal, grounded metal floor at a height of . Its period is T $_{1}$=2.00 s. How much charge was added to the bob of mass m =25 gram, if the period of the pendulum decreased to T $_{2}$=1.96 s? 
+A simple pendulum of length is hanging above the horizontal, grounded metal floor at a height of . Its period is T $_{1}$=2.00 s. How much charge was added to the bob of mass m =25 gram, if the period of the pendulum decreased to T $_{2}$=1.96 s?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4547-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4547-fig1.gif)

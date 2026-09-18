@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200704"
 verification_status: pending
 ---
 
-There are switches at both ends of a long corridor. The lamp in the middle of the corridor can be turned off or on with both switches. 
- a ) Draw the circuit. 
- b ) What fraction of the time is the lamp on if one of the switches is turned at every 2 minutes and the other is switched in every three minutes. 
+There are switches at both ends of a long corridor. The lamp in the middle of the corridor can be turned off or on with both switches.
+ a ) Draw the circuit.
+ b ) What fraction of the time is the lamp on if one of the switches is turned at every 2 minutes and the other is switched in every three minutes.
  (4 pont)

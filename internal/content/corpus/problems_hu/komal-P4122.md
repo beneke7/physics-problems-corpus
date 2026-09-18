@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4122. Mekkora töltés és milyen irányban áramlik át az AB vezetőszakaszon, ha zárjuk a kapcsolót?
 
-![figure](../../raw_html/komal_figures/komal-P4122-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4122-fig1.gif)

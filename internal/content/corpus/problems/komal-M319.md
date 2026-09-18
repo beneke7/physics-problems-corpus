@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-Make sodium cloride solutions in water of different mass concentration as 5%, 10%, and 15%. Cool down the solutions (for example in the freezer) and investigate at what temperature will the solutions begin to freeze. 
+Make sodium cloride solutions in water of different mass concentration as 5%, 10%, and 15%. Cool down the solutions (for example in the freezer) and investigate at what temperature will the solutions begin to freeze.
  (6 pont)

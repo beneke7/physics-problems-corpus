@@ -64,7 +64,9 @@ a görbült felületre ható erőnek ki kell egyensúlyoznia a sík felületre h
 
 
                                                  21
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

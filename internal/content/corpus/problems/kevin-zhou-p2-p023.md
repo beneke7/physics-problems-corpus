@@ -33,12 +33,14 @@ M −m
 
 
                                                      9
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
         (c) Suppose an object is undergoing simple harmonic motion with amplitude A and angular
             frequency ω. Given measurements of the position x and velocity v, what line can be plotted
 
 
-                     01W
+                     01W
             to find A and ω?

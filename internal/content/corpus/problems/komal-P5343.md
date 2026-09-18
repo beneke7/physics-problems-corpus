@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, scaling-and-dimensional-analysis]
 ---
 
-We have three resistors, with resistances 100 ohms, 200 ohms and 300 ohms. The relative uncertainty values of their resistances are 2%, 5% and 10%, respectively. The resistors are connected in series first and then in parallel. What is the equivalent resistance of each connection, and what is the relative uncertainty of each equivalent resistance? 
+We have three resistors, with resistances 100 ohms, 200 ohms and 300 ohms. The relative uncertainty values of their resistances are 2%, 5% and 10%, respectively. The resistors are connected in series first and then in parallel. What is the equivalent resistance of each connection, and what is the relative uncertainty of each equivalent resistance?
  (3 pont)

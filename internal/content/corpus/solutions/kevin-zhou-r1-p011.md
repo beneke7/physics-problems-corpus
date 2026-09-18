@@ -70,22 +70,22 @@ Kevin Zhou Physics Olympiad Handouts
 (c) Let ∆p be the momentum transferred to the mirror, and let p0 be the momentum of the initial
 pulse of light. Then the change in the mirror’s kinetic energy is
 ∆K = v ∆p = −p0v
-
+
 1 +
 1 + v/c
 1 − v/c
-
+
 = −p0
 2v
 1 − v/c
 .
 On the other hand, the change in the light’s energy is
 ∆E = p0c
-
+
 1 + v/c
 1 − v/c
 − 1
-
+
 = p0
 2v
 1 − v/c
@@ -104,4 +104,4 @@ mirror’s velocity, so the light’s energy remains the same as well.
 On the other hand, if the mirror is moving perpendicular to its plane, then the frequency of
 the photon can change, and its angle of reflection will generally be different from its angle of
 incidence. If you’re interested, it’s straightforward (albeit a bit messy) to work this out.
-[3] Problem 12.  ^ 1 0USAPhO 2021, problem A2. A simple, elegant problem with a useful punchline.
+[3] Problem 12.   ^ 1 0USAPhO 2021, problem A2. A simple, elegant problem with a useful punchline.

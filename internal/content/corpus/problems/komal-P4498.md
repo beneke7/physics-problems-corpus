@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201301"
 verification_status: pending
 ---
 
-A plano-convex and a plano-concave lens exactly fit to each other along their curved surfaces. The refractive index of the material they are made of is 1.5, and the focal length of the plano-convex lens is 40 cm. 
- a ) What is the power of each lens? 
- b ) What is the radius of the curved surfaces of the lenses? 
+A plano-convex and a plano-concave lens exactly fit to each other along their curved surfaces. The refractive index of the material they are made of is 1.5, and the focal length of the plano-convex lens is 40 cm.
+ a ) What is the power of each lens?
+ b ) What is the radius of the curved surfaces of the lenses?
  (3 pont)

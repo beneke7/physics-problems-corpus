@@ -72,7 +72,9 @@ Kilenc négyzetbôl álló hálózat mindegyik éle R ellen-               2. fe
 fizika/eotvos.htm                                                   az érintkezési vonalnál. A csövet benyomjuk a vízbe
 
 A FIZIKA TANÍTÁSA                                                                                                                 23
-(így az teljesen megtelik),
+
+
+(így az teljesen megtelik),
 majd a felsô végén ujjunkkal             m (x)                                             m (x + Dx)
 befogva, függôleges helyzet-
 ben egészen kiemeljük a csö-         F                                               Dr
@@ -138,7 +140,9 @@ golható.)                                                                      
 szônyeg kitekeredése?                                                                            nálva, hogy Δr kicsi):
 
 24                                                                                                      FIZIKAI SZEMLE 2015 / 1
-                                                                  L             L
+
+
+                                                                  L             L
                                                                   ⌠ F (x ) dx = ⌠ 3 M g R           x
                                                                                                       dx = M g R,
                                                                   ⌡             ⌡ 2 L               L
@@ -213,7 +217,9 @@ a feltekeréshez szükséges teljes munkát:                    pen a másik ir�
                                                             ez esetben szükség lenne.)
 
 A FIZIKA TANÍTÁSA                                                                                                   25
-                                                         szintén nem beszélnek róla.) Általában igaz, hogy
+
+
+                                                         szintén nem beszélnek róla.) Általában igaz, hogy
                                                          egy jelenséget végtelen sok hatás befolyásol kisebb-
                                                          nagyobb mértékben. Így fel se sorolhatjuk azt a vég-
                                                          telen sok hatást, amit elhanyagolunk, nem veszünk
@@ -275,7 +281,9 @@ gulása, és így tovább. (A feladatban azonban ezekrôl
 nincsen szó, és a fiúk – akik láthatóan elég okosak –
 
 26                                                                                          FIZIKAI SZEMLE 2015 / 1
-                           I
+
+
+                           I
                                     B
                                      r
 
@@ -341,7 +349,9 @@ két elrendezés mágneses terét (5. ábra). A gömb bel-         adott pont k�
                                                                                        nens ugyanis az említett tük-
 
 A FIZIKA TANÍTÁSA                                                                                                   27
-rözés során elôjelet váltana, a)                                  b)                            c)
+
+
+rözés során elôjelet váltana, a)                                  b)                            c)
                                                                                                                   P
 de ugyanakkor változatlannak
                                                     P                                    P

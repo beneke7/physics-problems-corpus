@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5652. Egy $H$ magasságú toronyból $\alpha$ szög alatt felfelé eldobunk egy követ. A becsapódás előtt a kő sebességvektora $\beta$ szöget zár be a vízszintessel. A  toronytól milyen messze csapódott be a kő? A közegellenállást hanyagoljuk el. 
+P. 5652. Egy $H$ magasságú toronyból $\alpha$ szög alatt felfelé eldobunk egy követ. A becsapódás előtt a kő sebességvektora $\beta$ szöget zár be a vízszintessel. A  toronytól milyen messze csapódott be a kő? A közegellenállást hanyagoljuk el.
  KVANT feladat

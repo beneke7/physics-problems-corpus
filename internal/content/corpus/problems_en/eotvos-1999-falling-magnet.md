@@ -23,7 +23,7 @@ A long, thin, vertical glass tube is surrounded by a much thicker, coaxial glass
 
 A small rod magnet of mass $m$ and dipole momentum $d$ is dropped into the thin tube; it reaches a constant speed $v_0$ after a relatively short time interval.
 
-![figure](../../sources/eotvos/figures/eotvos-1999-falling-magnet-fig1.jpeg)
+![figure](../../figures/eotvos/figures/eotvos-1999-falling-magnet-fig1.jpeg)
 
 How many times the original would the speed of the magnet be if
 

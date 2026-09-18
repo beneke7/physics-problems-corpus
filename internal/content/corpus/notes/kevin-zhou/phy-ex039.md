@@ -70,7 +70,6 @@ phases (per molecule) are equal. Now consider two nearby points on a coexistence
 space. If we connect these points by a path in the region with phase i, then
 
                                        ∆µi = −si dT + vi dP
-67 3. Statistical Mechanics
 
 
 where we used µ = G/N , and si and vi are the entropy and volume divided by the total particle
@@ -121,7 +120,6 @@ In this section, we consider entropy most closely, uniting the two definitions a
    For example, suppose it is discovered that a gas can be magnetized. Subsequently including
    the magnetization in the list of thermodynamic variables would change the numeric values of
    the work, free energy, entropy, and so on.
-68 3. Statistical Mechanics
 
 
  • However, this does not invalidate results derived without this variable. Work quantifies how

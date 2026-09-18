@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-A dog is at a distance of 40 m from its owner. If they move towards each other then they meet after 10 seconds. If they move in the same direction, then the dog reaches the owner in 20 seconds. Find the speed of the dog and the owner. Suppose that their motion is uniform straight line motion. 
+A dog is at a distance of 40 m from its owner. If they move towards each other then they meet after 10 seconds. If they move in the same direction, then the dog reaches the owner in 20 seconds. Find the speed of the dog and the owner. Suppose that their motion is uniform straight line motion.
  (3 pont)

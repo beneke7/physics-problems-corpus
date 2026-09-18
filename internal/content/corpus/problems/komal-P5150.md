@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-We have two alike plano-convex glass lenses, with refractive index of $n=1.5$. The plane face of one of them and the curved surface of the other is silver-coated. What is the ratio of the focal lengths of the gained two optical devices? 
+We have two alike plano-convex glass lenses, with refractive index of $n=1.5$. The plane face of one of them and the curved surface of the other is silver-coated. What is the ratio of the focal lengths of the gained two optical devices?
  (4 pont)

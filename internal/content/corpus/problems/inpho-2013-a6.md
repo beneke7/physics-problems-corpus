@@ -24,7 +24,7 @@ techniques: [conservation-laws, choose-reference-frame]
 ---
 
 6. A planet of mass $m$ is orbiting a star of mass $M(M \gg m)$ under the influence of a central force. A central force $(F(r) \hat{r})$ is a force that is directed from the particle towards (or away from) a fixed point in space, the center, and whose magnitude only depends on the distance from the planet to the center. Thus gravitational force is central force and it is generally known that the orbit is a conic section of a body under the influence of gravitational force The planet's position at some point $P$ can be shown in polar coordinates $(r, \theta)$ as shown in figure below:
-![](inpho-2013-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2013-a6-fig01.png)
 The planet's position $(\vec{r})$, velocity $(\vec{v})$ and acceleration $(\vec{a})$ can be written as
 
 $$
@@ -56,5 +56,5 @@ $r_{0}=$
 (h) Hence forward we take that orbit is circular of radius $r_{0}$ and planet is slightly disturbed from its position such that its position is $r=r_{0}+\delta$ where $\delta / r_{0} \ll 1$. Show that planet will oscillate simple harmonically around mean position $r_{0}$. Obtain time period $\left(T_{r}\right)$ for these radial oscillations. [2]
 (i) For this part we assume that planet moves under the force expressible as a power of $r$ as $F=-c r^{n}$ where $c(c>0)$ is a constant. For what values of $n$ a stable orbit is possible? [2]
 
-![](inpho-2013-a6-fig02.png)
+![](../../figures/inpho/figures/inpho-2013-a6-fig02.png)
 Page 15

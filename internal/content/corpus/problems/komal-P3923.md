@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200611"
 verification_status: flagged
 ---
 
-In a thermally insulated container there was some water at a temperature of , then 1 kg ice at temperature was added. How much water was initially in the container if 
- a ) there was no phase change; 
- b ) the total amount of ice melted; 
- c ) the total amount of water froze? 
+In a thermally insulated container there was some water at a temperature of , then 1 kg ice at temperature was added. How much water was initially in the container if
+ a ) there was no phase change;
+ b ) the total amount of ice melted;
+ c ) the total amount of water froze?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, superposition]
 ---
 
-An object starts from rest and moves along a straight line such that its acceleration increases uniformly in time, from the value of zero it increases by 2 m/s$^2$ in each second. What is the speed of the object 4 s after it started to move? 
+An object starts from rest and moves along a straight line such that its acceleration increases uniformly in time, from the value of zero it increases by 2 m/s$^2$ in each second. What is the speed of the object 4 s after it started to move?
  (4 pont)

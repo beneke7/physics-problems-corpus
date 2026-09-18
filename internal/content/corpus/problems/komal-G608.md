@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-The magnetic effect of a relatively weak electric current flowing in a piece of vertical wire is to be shown by means of a compass. Before the current is switched on where should the compass be placed in order that due to the current the pointer deviates the most from the north-south direction? 
+The magnetic effect of a relatively weak electric current flowing in a piece of vertical wire is to be shown by means of a compass. Before the current is switched on where should the compass be placed in order that due to the current the pointer deviates the most from the north-south direction?
  (3 pont)

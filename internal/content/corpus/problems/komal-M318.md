@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201111"
 verification_status: pending
 ---
 
-Measure how the visible transmittance of several piled sheets of paper depends on the number of sheets. (The intensity of light can be measured for example with a grease-spot photometer.) 
+Measure how the visible transmittance of several piled sheets of paper depends on the number of sheets. (The intensity of light can be measured for example with a grease-spot photometer.)
  (6 pont)

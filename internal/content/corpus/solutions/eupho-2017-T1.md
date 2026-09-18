@@ -39,7 +39,7 @@ $$f_k = c_k\sqrt{g/L}$$
 
 where $c_k$ is a dimensionless numeric coefficient depending on the consecutive mode number $k$ only. Let $A$ and $B$ be the suspension point and the free end of the rope respectively, and $N$ be the node on the rope for the second natural vibration (see figure).
 
-![Figure: Rope vibration shapes with nodes A, B, N, N₁, N₂ labelled](../../sources/eupho/figures/eupho-2017-T1-sol-1.png)
+![Figure: Rope vibration shapes with nodes A, B, N, N₁, N₂ labelled](../../../../../sources/eupho/figures/eupho-2017-T1-sol-1.png)
 
 Since the node point is at rest (in the small-amplitude approximation), the vibration of the part $NB$ could be considered as a fundamental vibration of a rope of length $LNA$ about a suspension point $N$. Therefore:
 

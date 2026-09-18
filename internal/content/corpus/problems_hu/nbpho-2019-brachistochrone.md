@@ -22,7 +22,7 @@ verification_status: pending
 
 Tekintsünk $A$ és $B$ pontokat, amelyeket a függőleges irányban $H$ magasság, a vízszintes irányban pedig $L$ távolság választ el egymástól, és amelyek a $g$ gravitációs térben helyezkednek el az alábbi ábrán látható módon. Egy pont tömeg súrlódás nélkül csúszhat egy meghatározott alakú síneken (beleértve a 90°-os fordulatokat is) az $A$ pontból a $B$ pontba. A brachisztochron görbe az az út, amely a teljes utazási időt minimalizálja.
 
-![ábra 1](../../sources/nbpho/figures/nbpho-2019-brachistochrone-fig1.jpg)
+![ábra 1](../../figures/nbpho/figures/nbpho-2019-brachistochrone-fig1.jpg)
 
 **i)** *(2 pont)* Számítsd ki az utazási időt a "maximális sebesség" és a "legrövidebb út" pályáira! Határozd meg az $\frac{L}{H}$ arányt, amelynél a kettő egyenlő!
 
@@ -30,7 +30,7 @@ Tekintsünk $A$ és $B$ pontokat, amelyeket a függőleges irányban $H$ magass�
 
 **iii)** *(2 pont)* Mutasd meg, hogy egy olyan közegben utazó fénysugár pályája, amelynek változó fénytörési indexe $n(x, y) \equiv n(y)$, kielégíti a diferenciálegyenletet $\frac{\mathrm{d} y}{\mathrm{~d} x}=\sqrt{C \cdot n(y)^{2}-1}$, ahol $C$ a peremfeltételek által meghatározott állandó!
 
-![ábra 2](../../sources/nbpho/figures/nbpho-2019-brachistochrone-fig2.jpg)
+![ábra 2](../../figures/nbpho/figures/nbpho-2019-brachistochrone-fig2.jpg)
 
 **iv)** *(2 pont)* A kapott egyenlet magyarázatot adhat a tünemények keletkezésére, amelyek akkor fordulnak elő, amikor a fénytörési index a magassággal nő. Tekintsünk egy az égből jövő fénysugarat, amely érinti a Föld felszínét $(y=0)$ és eléri a megfigyelő szemét $h$ magasságban (ebben a feladatban válassza az y-tengelyt az oldal alja felé felfelé irányban). Ha a fénytörési index a $n(y)=n_{0}(1+\alpha y)$ módon változik, ahol $n_{0}$ és $\alpha$ állandó, határozd meg az látszólagos távolságot $d$, ahonnan a fénysugár látszik eredni!
 

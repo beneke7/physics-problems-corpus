@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201910"
 verification_status: pending
 ---
 
-Attach a piece of thread to an egg and place the egg into a cylinder-shaped container. Pour water into the container such that it covers the egg, and then carefully pull out the egg from the water with the help of the thread. 
- Measure how the tension in the thread depends on the displacement of the egg. Determine the work done, while the egg was pulled out. Does this work depend on the cross section of the container? 
+Attach a piece of thread to an egg and place the egg into a cylinder-shaped container. Pour water into the container such that it covers the egg, and then carefully pull out the egg from the water with the help of the thread.
+ Measure how the tension in the thread depends on the displacement of the egg. Determine the work done, while the egg was pulled out. Does this work depend on the cross section of the container?
  (6 pont)

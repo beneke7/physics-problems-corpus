@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A lorry travels at a speed of 70 km/h along a horizontal, circular path of radius 120 m. What is the minimum value of the coefficient of static friction if the vehicle does not slide? 
+A lorry travels at a speed of 70 km/h along a horizontal, circular path of radius 120 m. What is the minimum value of the coefficient of static friction if the vehicle does not slide?
  (3 pont)

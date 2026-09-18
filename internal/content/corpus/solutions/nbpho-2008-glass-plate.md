@@ -21,18 +21,18 @@ lower surfaces of the glass plate, see
 Figure, upper drawing. Second, we
 direct the beam on the edge of the
 plate. Asaresult,onthescreen,there
-will be almost the same diraction
+will be almost the same di raction
 pattern, as from a single slit (lower
 drawingintheFigure).
-In the 
+In the
 rst case, we need to calculate the optical path dif-
 ference, see Figure. ∆l = 2(n|CD| − |AB|) = 2(nd/cosβ −
 dsinβ sinα) = 2d(n/cosβ − sin2
 α/n); we keep in mind that
-sinβ = sinα/n. We need to 
+sinβ = sinα/n. We need to
 nd such a change in α,
 which gives rise to the change of ∆l by λ (this corresponds
-to a transition from one diraction minimum to another one):
+to a transition from one di raction minimum to another one):
 ∆α· d(∆l)
 dα
 = λ. Then, we can relate the measured quant-

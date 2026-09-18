@@ -24,7 +24,7 @@ verification_status: pending
 ## Birefringence - CPhO 2022
 
 There are crystals in which the propagation of light occurs anisotropically. In their simplest type - uniaxial crystals - the light is then divided into two waves: ordinary (index $o$; isotropic) and extraordinary (index $e$; anisotropic). Also, in uniaxial crystals, there is a distinguished direction - the optical axis of the crystal - during propagation along which the ordinary and extraordinary waves move with the same speed $v_{o}=\frac{c}{n_{o}}$, where $n_{o}$ is the refractive index of the ordinary wave. In this case, the extraordinary wave will move perpendicular to the optical axis with the speed $v_{e}=\frac{c}{n_{e}}$. If the direction of propagation of an extraordinary wave is arbitrary, its refractive index turns out to be a continuous function of the angle at which it moves relative to the optical axis.
-![](cpho-f-2022-en-q5-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-en-q5-fig01.png)
 
 It follows from the Huygens principle that the front of an extraordinary wave emitted by a point source is an ellipsoid of revolution, the symmetry axis of which is parallel to the optical axis of the crystal. Let's introduce a coordinate system, as shown in the figure, directing the $y$-axis along the optical axis. Let us consider the propagation of ordinary and extraordinary waves in the $x y$ plane.
 

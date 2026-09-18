@@ -12,7 +12,7 @@ figure_files: []
 provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2008_S.pdf."
 ---
 
-4. Magnetic 
+4. Magnetic
 eld (6 points)
 1) Sincetheradiusofthecyclotronorbitisequaltotheradius
 oftheregionR, thetrajectoryisgivenbythecurveDABE in
@@ -21,7 +21,7 @@ theFigure(AB isacirclefragment).
 sot = πR/2v.
 3) LetO′
 bethecentreofthecircularorbitoftheelectronandB
-theintersectionpointofthetrajectorywiththeregionbound-
+ theintersectionpointofthetrajectorywiththeregionbound-
 ary. The polygon COBO′
 is rhomb, because all the sides are
 equaltoR. So,thelineBO isvertical(becauseO′

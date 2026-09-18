@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-When the nucleus of a Beryllium atom is hit by a proton, the nucleus of a Lithium atom and an particle were initiated. Determine the energy liberated in the reaction. 
+When the nucleus of a Beryllium atom is hit by a proton, the nucleus of a Lithium atom and an particle were initiated. Determine the energy liberated in the reaction.
  (4 pont)

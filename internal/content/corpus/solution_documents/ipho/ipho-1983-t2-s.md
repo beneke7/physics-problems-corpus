@@ -61,7 +61,9 @@ IPhO 1983                                                      Theoretical Quest
 
 
   Electricity – Problem II - Solution                                                     Page 1 from 12
-IPhO 1983                                                       Theoretical Question II
+
+
+IPhO 1983                                                       Theoretical Question II
 
 
 
@@ -123,7 +125,9 @@ The effective values of the current and tension obey the relation
 
 
  Electricity – Problem II - Solution                                                       Page 2 from 12
-IPhO 1983                                                      Theoretical Question II
+
+
+IPhO 1983                                                      Theoretical Question II
 
 
 U = I ⋅Z                                                                              ( 2.9)
@@ -178,7 +182,9 @@ That is
 
 
  Electricity – Problem II - Solution                                                       Page 3 from 12
-IPhO 1983                                                                       Theoretical Question II
+
+
+IPhO 1983                                                                       Theoretical Question II
 
 
                                             2
@@ -236,7 +242,9 @@ The asked ratio is
 
 
  Electricity – Problem II - Solution                                                                       Page 4 from 12
-IPhO 1983                                                     Theoretical Question II
+
+
+IPhO 1983                                                     Theoretical Question II
 
 
 
@@ -277,7 +285,9 @@ also dependent on time. Let’s admit that the electrical potential of the point
 
 
   Electricity – Problem II - Solution                                                     Page 5 from 12
-IPhO 1983                                                      Theoretical Question II
+
+
+IPhO 1983                                                      Theoretical Question II
 
 
 potential of the points A and B is zero. If through the inductance L1 passes the variable current having
@@ -332,7 +342,9 @@ rule of the currents gives
 
 
   Electricity – Problem II - Solution                                                     Page 6 from 12
-IPhO 1983                                                              Theoretical Question II
+
+
+IPhO 1983                                                              Theoretical Question II
 
 
 i1 + i 5 = i 3                                                                               ( 2.37)
@@ -358,7 +370,7 @@ Using the symbols defined above
   −    =    ⋅C
      L dt 2                                                                                  ( 2.42)
         1
- u +    u=0
+  u  +    u=0
        LC
 Because the tension obeys the relation above, it must have a harmonic dependence on time
 u (t ) = A ⋅ sin(ω ⋅ t + δ )                                                   ( 2.43)
@@ -388,7 +400,9 @@ It results that
 
 
   Electricity – Problem II - Solution                                                            Page 7 from 12
-IPhO 1983                                                      Theoretical Question II
+
+
+IPhO 1983                                                      Theoretical Question II
 
 
 
@@ -445,7 +459,9 @@ c. If the momentary tension on circuit is like in (2.43), one may write
 
 
  Electricity – Problem II - Solution                                                      Page 8 from 12
-IPhO 1983                                                                               Theoretical Question II
+
+
+IPhO 1983                                                                               Theoretical Question II
 
 
 
@@ -509,7 +525,9 @@ Adding relations (2.55) and considering (2.54) and (2.59) results that
 
 
  Electricity – Problem II - Solution                                                                              Page 9 from 12
-IPhO 1983                                                       Theoretical Question II
+
+
+IPhO 1983                                                       Theoretical Question II
 
 
 
@@ -588,7 +606,9 @@ the corresponding numerical values are
 
 
  Electricity – Problem II - Solution                                                      Page 10 from 12
-IPhO 1983                                                        Theoretical Question II
+
+
+IPhO 1983                                                        Theoretical Question II
 
 
 
@@ -634,7 +654,9 @@ The alternative currents through the coils has the expressions
 
 
  Electricity – Problem II - Solution                                                       Page 11 from 12
-IPhO 1983                                                       Theoretical Question II
+
+
+IPhO 1983                                                       Theoretical Question II
 
 
 The currents through the capacitors has the forms

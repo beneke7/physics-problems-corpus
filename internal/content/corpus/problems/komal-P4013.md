@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-By what percentage the gravitational force of the Earth is smaller at the height where the International Space Station orbits than at the surface of the Earth? 
+By what percentage the gravitational force of the Earth is smaller at the height where the International Space Station orbits than at the surface of the Earth?
  (3 pont)

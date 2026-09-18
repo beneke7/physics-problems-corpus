@@ -20,7 +20,7 @@ APHO II   2001   Theoretical Question 2                                         
 
 (1) Conservation Laws
 
-   (1a)          = (         ),           = (       ),             ,
+   (1a)          = (          ),           = (        ),             ,
 
    Total force        on the dipole is
 
@@ -43,33 +43,34 @@ APHO II   2001   Theoretical Question 2                                         
 
    (1b) From eq.(1), we obtain the conservation law for the momentum:
 
-                       = 0,            =M        q ×                                 (4)
+                       = 0,            =M         q ×                                 (4)
 
    From eq.(1) and eq.(2), one obtains the conservation law for the energy.
 
-                          = 0,         E =                I                          (5)
+                          = 0,         E =                 I                          (5)
 
    (1c) Using eq.(4) and eq.(2),
 
-             (     × )            =   (     × )         = q     ×( × )
+             (     × )             =   (     × )          =  q     ×( × )
 
-                                   = q( × )×                  = q( × )     × )
+                                   = q( × )×                   = q( × )       × )
 
-                                   = q         ×(     × ))     = q     × )× )
+                                   = q           ×(     × ))     =  q        × )× )
 
-                                   = q ×(        × )
+                                   =  q ×(        × )
 
-                                   = I      
+                                   =  I
 
 
                                                   1
-APHO II   2001      Theoretical Question 2                                                     p. 2 / 4
+
+APHO II   2001      Theoretical Question 2                                                     p. 2 / 4
 
 [Solution] (continued)                  Theoretical Question 2
     Motion of an Electric Dipole in a Magnetic Field
     we obtain the conservation law
 
-                       =0           = (        × I         )                           (6)
+                       =0           = (        ×  I         )                            (6)
 
     for the component of the angular momentum along the direction of .
 
@@ -77,7 +78,7 @@ APHO II   2001   Theoretical Question 2                                         
 
    (2a) Write
 
-            =       {cos (t) sin (t) },                    (0) = 0,        (0) =        (7)
+            =       {cos (t)  sin (t) },                    (0) = 0,        (0) =        (7)
 
    Note that
 
@@ -85,7 +86,7 @@ APHO II   2001   Theoretical Question 2                                         
 
    From eq.(4), we have
 
-                M        =      q B (sin            cos         )                      (9)
+                M        =       q B (sin             cos         )                      (9)
 
    At t = 0, we have            = 0,         = 0 so that
 
@@ -94,15 +95,15 @@ APHO II   2001   Theoretical Question 2                                         
    Hence from eqs.(9) and (10) we have
 
 
-                           =           sin ,            =              (1cos       )   (11)
+                           =           sin ,            =              (1 cos       )   (11)
 
 
    From conservation of energy, i.e. Eq.(5), we have
 
-                               I                  (1cos        )=     I
+                               I                   (1 cos        )=     I
 
 
-                                           (1cos     )=                              (12)
+                                             (1 cos     )=                              (12)
 
 
    where
@@ -115,21 +116,22 @@ APHO II   2001   Theoretical Question 2                                         
 
 
                                                     2
-APHO II   2001    Theoretical Question 2                                                                   p. 3 / 4
+
+APHO II   2001    Theoretical Question 2                                                                   p. 3 / 4
 
 [Solution] (continued)                  Theoretical Question 2
           Motion of an Electric Dipole in a Magnetic Field
 
-                                                           =                                      (14)
+                                                             =                                      (14)
 
 
    (2b) From Eq.(6), we have
 
-                               P         =                                                         (15)
+                               P          =                                                         (15)
 
    where P is the magnitude of             .
 
-   At     t  0,     we have        =              so that
+   At     t   0,     we have        =              so that
 
                                                                                                     (16)
 
@@ -164,7 +166,8 @@ APHO II   2001   Theoretical Question 2                                         
    (2c) Tension on the rod comes from three sources:
 
                                                         3
-APHO II    2001   Theoretical Question 2                                                      p. 4 / 4
+
+APHO II    2001   Theoretical Question 2                                                      p. 4 / 4
 
 [Solution] (continued)               Theoretical Question 2
            Motion of an Electric Dipole in a Magnetic Field

@@ -22,7 +22,7 @@ verification_status: pending
 
 A curlingben a résztvevők felváltva csúsztatnak közel hengeres köveket egy jég pályán egy cél felé, megpróbálva a köveket a lehető közelebb juttani a célhoz. A kő függőleges keresztmetszete az alábbiakban látható, amely azt mutatja, hogy a kő az ággal egy vékony $r$ sugarú körön érintkezik. A kő teljes sugara $R$, a tömege $m$ és a jéggel való súrlódási együtthatója $\mu$.
 
-![Curling kő keresztmetszete](sources/nbpho/figures/nbpho-2023-curling-fig1.jpg)
+![Curling kő keresztmetszete](../../figures/nbpho/figures/nbpho-2023-curling-fig1.jpg)
 
 Tekintsük azt az esetet, amikor a kő $v_{0}$ sebességgel indul, célja pedig egy ellenfél kövét leütni $s$ távolságban.
 

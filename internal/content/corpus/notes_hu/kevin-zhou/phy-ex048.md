@@ -29,6 +29,6 @@ Ezért az állandó mennyiség
                                             Φ∗ = gz + cp T
 adódik, ami azt jelenti, hogy a hőmérséklet lineárisan változik a magassággal. Ez jó modell z ≲ 10 km magasságig, magasabban azonban további hatásokat, például a Nap melegítését is figyelembe kell vennünk. A „Standard Atmosphere” modellben T (z) szakaszonként lineáris, a mezoszférában, a sztratoszférában és a troposzférában különböző gradiensekkel. A modell ezután a p(z) nyomást hidrosztatikai egyensúlyból és az ideális gáz törvényéből következteti ki:
                                                  g z dz ′
-                                                  Z          
+                                                   Z
                                  p(z) = p0 exp −                .
                                                  R 0 T (z ′ )

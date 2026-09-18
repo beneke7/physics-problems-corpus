@@ -20,4 +20,4 @@ verification_status: pending
 
 Az áramkör egy kondenzátorból, egy induktivitásból és két ellenállásból áll, lásd az ábrát. Mindkét ellenálláson a feszültség 10 V, és az $A$ és $B$ kapcsok között is 10 V a feszültség. Határozzuk meg az alkalmazott $U_{0}$ feszültséget.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr93-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr93-fig1.jpg)

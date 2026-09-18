@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201011"
 verification_status: pending
 ---
 
-An object, which decelerates uniformly along a circular path, looses two-thirds of its speed while it covers a half circle. From this stage, what fraction of the whole circular path does it cover until it stops, and how long does it take? 
+An object, which decelerates uniformly along a circular path, looses two-thirds of its speed while it covers a half circle. From this stage, what fraction of the whole circular path does it cover until it stops, and how long does it take?
  (4 pont)

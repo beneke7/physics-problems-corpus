@@ -23,8 +23,8 @@ techniques: [extremization, auxiliary-unknowns, limiting-and-special-cases]
 ---
 
 The working substance of a heat engine is a certain amount of monatomic ideal gas. The gas is taken through the cyclic process shown in the figure - which consists of two isobaric and two isochoric processes. What can the greatest thermodynamic efficiency of this engine be if in each cycle the useful work is the same as the internal energy of the gas at its initial state, which is $\frac32
-p_0V_0$? 
+p_0V_0$?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4721-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4721-fig1.gif)

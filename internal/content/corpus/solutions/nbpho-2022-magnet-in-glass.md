@@ -33,7 +33,7 @@ If we release cylinders simultaneously, we can easily detect by eye if one of th
 It is convenient to build the sightly different slopes by supporting the two boards from one end on the same brick, but displacing one of them by a certain distance $s$.
 
 With board length $L=60 \mathrm{~cm}$ and brick height $h=56 \mathrm{~mm}$, we build slopes so that the brick is supporting the boards near their end.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p8.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p8.png)
 This means that in average, $s \approx 52 \mathrm{~mm}$
 
 Each measurement up to the 7th (0.1/0.7 pts) Measuring $L$ (0.2 pts) Measuring $h$ (0.2 pts)
@@ -69,7 +69,7 @@ d=\sqrt{4 R^{2}-a^{2}} .
 $$
 
 (0.7 pts)
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p9.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p9.png)
 
 We start by using the caliper to measure the base diameter $2 R \approx 25.1 \mathrm{~mm}$. (0.2 pts)
 

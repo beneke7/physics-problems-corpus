@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az ábrán látható áramkör kimeneti kapcsai közötti ellenállást a hurokáramok módszerével.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr13-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr13-fig1.jpg)

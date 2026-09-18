@@ -30,7 +30,7 @@ turbulens súrlódását a csőben és a hűtőbordán. A levegő ideális gázn
 amelynek adiabatikus kitevője $\gamma=1.4$, moláris tömege pedig
 $\mu=29\ \mathrm{g/mol}$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-passive-air-cooling-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-passive-air-cooling-fig1.png)
 
 **1)** Fejezd ki az állandó nyomáson vett $c_p$ hőkapacitást a $\gamma$ és $R$
 mennyiségekkel (1 pont)!

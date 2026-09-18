@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A flat, disc-shaped object of mass $m$ is lying at rest on a rough horizontal surface. One end of a spring of force constant $k$ is attached to the centre of the disc, and then the other end is slowly pulled horizontally. Initially the spring is unstretched. The object stays at rest for a while and then it starts to move along a straight line. At the moment when the object starts to move the other end of the spring is fixed. 
- $a)$ What is the greatest speed of the object? 
- $b)$ How long does it take for the object to reach the maximum speed? 
- $c)$ How much distance does the object cover until it reaches its greatest speed? 
- $d)$ How will the object move afterwards, assuming that the spring remains straight? 
- The coefficient of kinetic friction between the disc and the surface is $\mu$ and the coefficient of static friction is $\mu_0$ ($\mu_0>\mu$). 
+A flat, disc-shaped object of mass $m$ is lying at rest on a rough horizontal surface. One end of a spring of force constant $k$ is attached to the centre of the disc, and then the other end is slowly pulled horizontally. Initially the spring is unstretched. The object stays at rest for a while and then it starts to move along a straight line. At the moment when the object starts to move the other end of the spring is fixed.
+ $a)$ What is the greatest speed of the object?
+ $b)$ How long does it take for the object to reach the maximum speed?
+ $c)$ How much distance does the object cover until it reaches its greatest speed?
+ $d)$ How will the object move afterwards, assuming that the spring remains straight?
+ The coefficient of kinetic friction between the disc and the surface is $\mu$ and the coefficient of static friction is $\mu_0$ ($\mu_0>\mu$).
  (5 pont)

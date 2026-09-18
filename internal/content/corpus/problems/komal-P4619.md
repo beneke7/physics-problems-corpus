@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201403"
 verification_status: pending
 ---
 
-Mary sits on the perimeter of a merry-go-round undergoing uniform circular motion. Matt stands on the ground 12 m from the centre of the merry-go-round. Matt observes Mary coming towards him at a speed of 1 m/s. What is Matt's speed from the point of view of Mary? 
+Mary sits on the perimeter of a merry-go-round undergoing uniform circular motion. Matt stands on the ground 12 m from the centre of the merry-go-round. Matt observes Mary coming towards him at a speed of 1 m/s. What is Matt's speed from the point of view of Mary?
  (4 pont)

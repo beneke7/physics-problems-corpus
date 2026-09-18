@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-A uniform rod is hung at one end by means of a hinge. The rod is displaced to a horizontal position and then released. 
- $a)$ Which will pass the vertical position first: the rod or a simple pendulum which has the same length as the rod? 
- $b)$ At which position of the swinging rod will the direction of the acceleration of each moving point of the rod be horizontal? 
- Friction and air drag are negligible. 
+A uniform rod is hung at one end by means of a hinge. The rod is displaced to a horizontal position and then released.
+ $a)$ Which will pass the vertical position first: the rod or a simple pendulum which has the same length as the rod?
+ $b)$ At which position of the swinging rod will the direction of the acceleration of each moving point of the rod be horizontal?
+ Friction and air drag are negligible.
  (5 pont)

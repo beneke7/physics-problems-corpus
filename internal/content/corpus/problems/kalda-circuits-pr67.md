@@ -19,4 +19,4 @@ verification_status: pending
 
 Alternating voltage $V=V_{0} \cos (2 \pi \nu t)$ is applied to the leads of the circuit shown below. Sketch the graphs of the resistor's and diode's currents as a function of time.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr67-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr67-fig1.jpg)

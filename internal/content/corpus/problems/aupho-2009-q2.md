@@ -24,7 +24,7 @@ techniques: [graphical-reduction]
 ---
 
 Question 2
-![](aupho-2009-q2-fig01.png)
+![](../../figures/aupho/figures/aupho-2009-q2-fig01.png)
 A large container ship is coming in to port and must be pushed by a tugboat. After the tug and the container ship being pushed have reached a constant cruising speed,
 
 (A) the amount of force with which the tug pushes against the container ship is equal to the amount of force with which the container ship pushes back against the tug.

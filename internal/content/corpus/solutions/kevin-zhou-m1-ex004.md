@@ -77,7 +77,7 @@ prevent sliding from rest, so that µ = tanθ and these two magnitudes are equal
 is exactly analogous to example 4 (with an extra time derivative) and the answer is v0/2.
 Again, it’s possible to solve for the full trajectory, but it’s quite difficult and messy. You can
 find the full result in this paper.
-[4] Problem 21.  O 1 0EuPhO 2023, problem 2. (Warning: compared to most EuPhO problems, the
+[4] Problem 21.   O 1 0EuPhO 2023, problem 2. (Warning: compared to most EuPhO problems, the
 algebra will be uncharacteristically messy.)
 3 Motion in Two Dimensions
 15

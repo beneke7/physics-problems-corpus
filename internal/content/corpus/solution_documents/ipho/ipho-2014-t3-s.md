@@ -74,7 +74,9 @@ and solution to the quadratic equation (A3.7) takes the form
                            𝑒𝛽 2 𝑈 2 𝑆                       4𝑟𝑍𝑒𝑥𝑡 𝐿4
                       𝐼=                   −1 ± 1 +                                              (A3.9).
                                 𝑟𝐿 3                          𝛽 2𝑈2
-                      Theoretical competition. Tuesday, 15 July 2014                                       2/3
+
+
+                      Theoretical competition. Tuesday, 15 July 2014                                       2/3
        It is obvious that only positive root does make sense, i.e.
                            𝑒𝛽 2 𝑈 2 𝑆                   4𝑟𝑍𝑒𝑥𝑡 𝐿4
                       𝐼=                        1+                  −1                           (A3.10).
@@ -145,7 +147,9 @@ B3.Sincetheionsstartstomovefrom the anode located at𝑥 = 𝐿, the following c
                         𝐼𝑖 𝐿 = 0                                                               (B3.1).
 B4.By definition of secondary electron emission coefficient the following condition should be imposed
                         𝐼𝑒 0 = 𝛾𝐼𝑖 0                                                           (B4.1).
-                        Theoretical competition. Tuesday, 15 July 2014                                  3/3
+
+
+                        Theoretical competition. Tuesday, 15 July 2014                                  3/3
 B5.Total current in each tube section is the sum of the electron and ion currents:
                                              𝑒𝑍 𝑆
                        𝐼 = 𝐼𝑒 + 𝐼𝑖 = 𝐶2 − 𝑒𝑥𝑡                                                 (B5.1).

@@ -26,20 +26,20 @@ K · m−1
 magTb
 CbTa
 (c) z̈ = g
-
+
 maTb
 Tamb
 − 1
-
+
 (d) z0 =
 T0
 Γa
 "
 1 −
-
+
 mb
 ma
-1/(η−1)
+ 1/(η−1)
 #
 where η = Ca/Cb.
 (e) Condition: Ca > Cb
@@ -47,9 +47,9 @@ where η = Ca/Cb.
 s
 ma(η − 1)
 CaT0
-
+
 ma
 mb
-1/(η−1)
+ 1/(η−1)
 (f) τ ≈ 95 s
 HBCSE-TIFR, Mumbai 3

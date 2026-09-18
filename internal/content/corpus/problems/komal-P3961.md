@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200702"
 verification_status: pending
 ---
 
-A beam of carbon ions of velocity 10 km/s is shot into magnetic field of 0.01 T, perpendicularly to the magnetic field. It is found that the ions move along two circular paths. The radii of the paths are 134 mm, and 124 mm. What is the mass of the two different ions? How do they differ from each other? 
+A beam of carbon ions of velocity 10 km/s is shot into magnetic field of 0.01 T, perpendicularly to the magnetic field. It is found that the ions move along two circular paths. The radii of the paths are 134 mm, and 124 mm. What is the mass of the two different ions? How do they differ from each other?
  (4 pont)

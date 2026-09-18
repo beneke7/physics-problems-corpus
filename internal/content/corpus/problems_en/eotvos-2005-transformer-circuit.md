@@ -21,7 +21,7 @@ verification_status: pending
 
 3. **A high-quality transformer** has a secondary winding with three times as many turns as the primary winding. The transformer is connected to an AC voltage source from the mains according to Fig. 11 as follows: Into the primary circuit we connect four identical light bulbs rated for mains voltage in parallel, and the fifth bulb into the secondary circuit. What happens when the switch $K$ is closed?
 
-![figure](sources/eotvos/figures/eotvos-2005-p3-fig5.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2005-p3-fig5.jpg)
 Fig. 11
 
 a) All the light bulbs glow acceptably.

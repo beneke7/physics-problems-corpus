@@ -18,7 +18,7 @@ to change its direction by 90 degrees. Let us
 consider the this graphically using the vx − vy-
 plane: we need to move from the point A with
 coordinates (0,v) to a point B with coordinates
-(v,0) while having a constant speed. Indeed,
+(v,0) while having a constant  speed . Indeed,
 the velocity of a point in the vx − vy-plane is
 the acceleration of the body, which has here a
 constant modulus µg. Obviously, the fastest
@@ -30,5 +30,5 @@ t = v
 2/µg ≈ 7.2s.
 2) Since the direction of the acceleration is con-
 stant, the trajectory is the same as for a body
-in the Earth's 
-eld of gravity  a parabola.
+in the Earth's
+eld of gravity   a parabola.

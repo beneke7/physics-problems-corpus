@@ -32,13 +32,13 @@ p1 · p2 =
 , p · (p1 + p2) =
 h2
 λ
-
+
 1 − cosθ
 λ1
 +
 1 + cosθ
 λ2
-
+
 and solving for λ yields
 λ =
 λ1(1 + cosθ) + λ2(1 − cosθ)
@@ -107,7 +107,7 @@ e
 In the limit me ≪ mπ, this reduces to v ≥ c/
 √
 2.
-[3] Problem 16.  ^ 1 0USAPhO 2023, problem B3. A nice, qualitative problem on supernova neutrinos.
+[3] Problem 16.   ^ 1 0USAPhO 2023, problem B3. A nice, qualitative problem on supernova neutrinos.
 [2] Problem 17 (Purcell 6.68). Consider two electrons moving side-by-side with parallel velocities,
 with speed v and separation r. We wish to compute the three-force between the electrons.
 (a) Compute this force by working in the electrons’ rest frame and Lorentz transforming back to
@@ -226,11 +226,11 @@ p
 f2
 1 + f2
 2 .
-[3] Problem 21.  W 1 0USAPhO 2008, problem A4. A neat Doppler shift problem that also tests your
+[3] Problem 21.   W 1 0USAPhO 2008, problem A4. A neat Doppler shift problem that also tests your
 data analysis skills.
-[4] Problem 22.  m 1 0INPhO 2020, problem 4. A nice and tricky problem on the two-dimensional
+[4] Problem 22.   m 1 0INPhO 2020, problem 4. A nice and tricky problem on the two-dimensional
 Doppler effect. (It is essentially a translation of a problem on the 2013 Russian Physics Olympiad.)
-[3] Problem 23.  ^ 1 0USAPhO 2022, problem A3. A great problem on the rainbow caustic. After
+[3] Problem 23.   ^ 1 0USAPhO 2022, problem A3. A great problem on the rainbow caustic. After
 you finish the problem, see here and here for some brilliant visualizations.
 8
 Kevin Zhou Physics Olympiad Handouts

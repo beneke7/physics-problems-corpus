@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, scaling-and-dimensional-analysis]
 ---
 
-The structure of potassium chloride ion crystal of density $1.98~\rm g/cm^3$ is the same as that of rock salt. What is the distance between the centres of the nearest positive and negative ions in this crystal? 
+The structure of potassium chloride ion crystal of density $1.98~\rm g/cm^3$ is the same as that of rock salt. What is the distance between the centres of the nearest positive and negative ions in this crystal?
  (4 pont)

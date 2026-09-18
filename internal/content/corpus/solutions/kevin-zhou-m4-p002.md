@@ -59,10 +59,10 @@ This is called the Basset force, and it turns Newton’s second law into an “i
 equation”, one where the second derivative of the position depends on an integral over all the
 past positions. It has the effect of damping the oscillations (which also slightly decreases their
 frequency). In general, nothing in fluid dynamics is easy.
-[3] Problem 3.  W 1 0USAPhO 1998, problem A2. To avoid some confusion, skip part (a), since there
+[3] Problem 3.   W 1 0USAPhO 1998, problem A2. To avoid some confusion, skip part (a), since there
 actually isn’t a nice closed-form expression for it.
-[3] Problem 4.  W 1 0USAPhO 2009, problem A3.
-[3] Problem 5.  m 1 0USAPhO 2010, problem B1.
+[3] Problem 4.   W 1 0USAPhO 2009, problem A3.
+[3] Problem 5.   m 1 0USAPhO 2010, problem B1.
 3
 Kevin Zhou Physics Olympiad Handouts
 Example 2

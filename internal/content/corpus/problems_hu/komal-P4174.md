@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4174. Ha két füzetet egymással szembefordítunk, és lapjaikat egymás közé lapozzuk, majd a füzeteket két ujjunkkal összeszorítjuk, akkor egy felnőtt sem képes széthúzni azokat. Mi a jelenség magyarázata? 
+P. 4174. Ha két füzetet egymással szembefordítunk, és lapjaikat egymás közé lapozzuk, majd a füzeteket két ujjunkkal összeszorítjuk, akkor egy felnőtt sem képes széthúzni azokat. Mi a jelenség magyarázata?
  Jedlik Ányos verseny, Nyíregyháza

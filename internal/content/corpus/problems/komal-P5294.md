@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, model-reduction]
 ---
 
-A half-cylinder-shaped trough has a horizontal symmetry axis. Through the midpoint of one of the horizontal radii of the trough an inclined plane of angle of elevation of $\alpha$ is laid. What is the angle of elevation of that slope along which a small object slides without friction in the shortest time? 
+A half-cylinder-shaped trough has a horizontal symmetry axis. Through the midpoint of one of the horizontal radii of the trough an inclined plane of angle of elevation of $\alpha$ is laid. What is the angle of elevation of that slope along which a small object slides without friction in the shortest time?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5294-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5294-fig1.gif)

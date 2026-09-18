@@ -37,4 +37,4 @@ Higher order maxima will start overlapping each other, making it harder to see i
 uniform velocity on the screen. As noted in part (b), a phase shift causes an angular shift
 in the pattern, and the different frequencies will cause a slowly increasing phase difference
 between the two slits.
-[3] Problem 3.  W 1 0USAPhO 1999, problem A3. A triple slit experiment.
+[3] Problem 3.   W 1 0USAPhO 1999, problem A3. A triple slit experiment.

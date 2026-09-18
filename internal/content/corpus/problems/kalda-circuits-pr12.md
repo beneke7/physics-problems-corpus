@@ -19,4 +19,4 @@ verification_status: pending
 
 In the figure below, the batteries are ideal, $R_{1}=R_{2}=R_{3}=R_{4}=R$ and $\mathcal{E}_{1}=\mathcal{E}_{2}=\mathcal{E}$. Find the currents in the resistors (i.e. $I_{1}, I_{2}, I_{3}$ and $I_{4}$, expressed via $R$ and $\mathcal{E}$ ).
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr12-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr12-fig1.jpg)

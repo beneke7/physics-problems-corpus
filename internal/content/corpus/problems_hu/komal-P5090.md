@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5090. Vízszintes talajon egy $m$ tömegű, kocka alakú doboz áll. A doboz egyik lapjának közepéhez egy ugyancsak $m$ tömegű, vékony, homogén pálca támaszkodik. Kezdetben mindkét testet rögzítetten tartjuk. A pálca és a talaj által bezárt szög $\alpha=45^\circ$. 
+P. 5090. Vízszintes talajon egy $m$ tömegű, kocka alakú doboz áll. A doboz egyik lapjának közepéhez egy ugyancsak $m$ tömegű, vékony, homogén pálca támaszkodik. Kezdetben mindkét testet rögzítetten tartjuk. A pálca és a talaj által bezárt szög $\alpha=45^\circ$.
 
  Mekkora gyorsulással indul el a doboz, ha a testeket elengedjük? (A súrlódás mindenhol elhanyagolható.)
 
-![figure](../../raw_html/komal_figures/komal-P5090-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5090-fig1.gif)

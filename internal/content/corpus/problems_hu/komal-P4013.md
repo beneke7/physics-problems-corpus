@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4013. Hány százalékkal kisebb a Föld vonzóereje abban a magasságban, ahol a nemzetközi űrállomás kering, mint a Föld felszínén? 
+P. 4013. Hány százalékkal kisebb a Föld vonzóereje abban a magasságban, ahol a nemzetközi űrállomás kering, mint a Föld felszínén?
  ( Angol feladat )

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-A hollow solid of revolution is rotated about its vertical axis of symmetry at an angular velocity of  . What is the shape of this solid if a small object is in equilibrium at any point on the interior surface of the solid. (Static friction is negligible.) 
+A hollow solid of revolution is rotated about its vertical axis of symmetry at an angular velocity of  . What is the shape of this solid if a small object is in equilibrium at any point on the interior surface of the solid. (Static friction is negligible.)
  (4 pont)

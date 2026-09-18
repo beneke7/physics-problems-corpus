@@ -56,7 +56,9 @@ Question                            Answer                                 Marks
 
 
                                                                     Deflectogram
-                                                      Experimental
+
+
+                                                      Experimental
                E1. Marking Scheme & Solution          Question            1
                Student Code
                                                        page 2 of 19
@@ -91,7 +93,9 @@ A1.                                                           of
 
       DL not at the centre, the depth of dip <1.7 cm or >1.9 ‐0.1
       cm
-                                                                       Experimental
+
+
+                                                                       Experimental
                        E1. Marking Scheme & Solution                   Question             1
                        Student Code
                                                                         page 3 of 19
@@ -140,7 +144,9 @@ A1.                                                           of
              13          1.4      8.65                                          (0.5 pts)
              14          1.2      8.35
              15            1      8.05
-                                                                      Experimental
+
+
+                                                                      Experimental
                   E1. Marking Scheme & Solution                       Question             1
                  Student Code
                                                                        page 4 of 19
@@ -195,7 +201,9 @@ A2.                                                                            T
        18       0.4           7.05
        19      0.25           6.75
        20      0.05            6.3
-                                                                Experimental
+
+
+                                                                Experimental
                  E1. Marking Scheme & Solution                  Question           1
                 Student Code
                                                                  page 5 of 19
@@ -244,7 +252,9 @@ A2.                                                                    Table 1 o
       Z0, d) are written
       Incorrect d                                                      ‐0.05 pts
       15<= # correct data points<20,                                   ‐0.15 pts
-                                                      Experimental
+
+
+                                                      Experimental
                       E1. Marking Scheme & Solution   Question           1
                      Student Code
                                                       page 6 of 19
@@ -286,7 +296,9 @@ A2.                                                                    Table 1 o
                                                             ‐ 0.05 pts
             # wrong data point > 6
                                                             ‐ 0.25pts
-                                                          Experimental
+
+
+                                                          Experimental
                 E1. Marking Scheme & Solution             Question          1
                Student Code
                                                           page 7 of 19
@@ -333,7 +345,9 @@ A3.                                                             Table 2 of
           2      1.83529    0.00585
           3      1.80309    0.00936                             # data = 20
           4      1.77089    0.01872
-                                                Experimental
+
+
+                                                Experimental
                 E1. Marking Scheme & Solution   Question           1
                Student Code
                                                 page 8 of 19
@@ -375,7 +389,9 @@ A3.
 
 
                                                       (0.25 pts)
-                                                          Experimental
+
+
+                                                          Experimental
                 E1. Marking Scheme & Solution             Question          1
                Student Code
                                                           page 9 of 19
@@ -409,7 +425,9 @@ A3.                                                             Table 2 of
           3     1.78699      0.00819
           4     1.74674      0.01521
           5     1.70650      0.02574                            # data = 20
-                                                Experimental
+
+
+                                                Experimental
                 E1. Marking Scheme & Solution   Question           1
                Student Code
                                                 page 10 of 19
@@ -445,7 +463,9 @@ A3.
 
 
                                                       (0.25 pts)
-                                                                Experimental
+
+
+                                                                Experimental
                       E1. Marking Scheme & Solution             Question          1
                      Student Code
                                                                 page 11 of 19
@@ -477,7 +497,9 @@ A3.
             Random shape of the curve
   A4.
 (0.3 pts)   h for 23 g/ 150 mL =    1.5   0.1      cm                 0.1 pts
-                                                              Experimental
+
+
+                                                              Experimental
                          E1. Marking Scheme & Solution        Question             1
                      Student Code
                                                                   page 12 of 19
@@ -525,7 +547,9 @@ Question                                  Answer                                
                  1    0.06592        ‐3.86003                                  C0 = 23 g
                  2   0.050423        ‐3.75467                                  /150 mL.
                  3   0.031065        ‐3.65936
-                                                        Experimental
+
+
+                                                        Experimental
                E1. Marking Scheme & Solution            Question            1
                Student Code
                                                         page 13 of 19
@@ -571,7 +595,9 @@ B2
                                                                        (0.3pts)
      Using linear regression of eq. (B1.1), we obtain
      m (slope) = 10 cm‐2 till 8.8 cm‐2
-                                                         Experimental
+
+
+                                                         Experimental
                 E1. Marking Scheme & Solution            Question            1
                 Student Code
                                                           page 14 of 19
@@ -615,7 +641,9 @@ B2.       i      (h‐yi)2     ln(dn/dy)
 
 
       Jury must check the data in table
-                                                         Experimental
+
+
+                                                         Experimental
                 E1. Marking Scheme & Solution            Question            1
                 Student Code
                                                          page 15 of 19
@@ -663,7 +691,9 @@ B2.
       wrong y‐axis unit
 
                                                                         ‐0 pts
-                                                         Experimental
+
+
+                                                         Experimental
                 E1. Marking Scheme & Solution            Question            1
                 Student Code
                                                           page 16 of 19
@@ -715,7 +745,9 @@ B2.
                                                                         C0 = 33
                                                                         g/150
                                                                         mL
-                                                                 Experimental
+
+
+                                                                 Experimental
                       E1. Marking Scheme & Solution              Question          1
                       Student Code
                                                                  page 17 of 19
@@ -753,7 +785,9 @@ B2.
 
 
             D of 28 g/ 150 mL =       (1.26 till 1.46) x 10‐5 cm2/s             0.5 pts
-                                                                Experimental
+
+
+                                                                Experimental
                       E1. Marking Scheme & Solution             Question          1
                      Student Code
                                                                 page 18 of 19
@@ -792,7 +826,9 @@ Question                              Answer                                   M
             Without or wrong unit                                         ‐0.01 pts
 
             Out of range                                                  ‐0.5 pts
-                                Experimental
+
+
+                                Experimental
 E1. Marking Scheme & Solution   Question        1
 Student Code
                                 page 19 of 19

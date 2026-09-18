@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-How was the word ``HÁTULJA'' (meaning BACK) written on the back of KöMaL: as usual or in mirror writing? 
+How was the word ``HÁTULJA'' (meaning BACK) written on the back of KöMaL: as usual or in mirror writing?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G761-fig1.gif)
+![figure](../../figures/komal/figures/komal-G761-fig1.gif)

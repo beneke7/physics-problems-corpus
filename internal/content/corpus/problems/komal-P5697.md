@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-During a fireworks display, projectiles are fired from the same location at the same initial speed in all directions, creating a bright flash at the peak of their trajectory. Along what surface are the flash points located? Neglect air resistance. 
+During a fireworks display, projectiles are fired from the same location at the same initial speed in all directions, creating a bright flash at the peak of their trajectory. Along what surface are the flash points located? Neglect air resistance.
  (4 pont)

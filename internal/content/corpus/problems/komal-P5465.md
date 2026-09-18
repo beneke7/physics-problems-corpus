@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element, model-reduction]
 ---
 
-A heavy body of mass $M$ is suspended on a light spring of spring constant $D$. The system is held at rest, and from a given moment the upper end of the spring is raised at a constant velocity $v_0$. Give the displacement of the body as a function of time. 
+A heavy body of mass $M$ is suspended on a light spring of spring constant $D$. The system is held at rest, and from a given moment the upper end of the spring is raised at a constant velocity $v_0$. Give the displacement of the body as a function of time.
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A car travelled for 3 hours at an average speed of 80 km/h. The route consisted of three parts in all of which the car travelled at a constant speed. In the heavy traffic of some urban area its speed was $v_1=20$ km/h, on the highway its speed was $v_2=80$ km/h, while on the dual carriageway its speed was $v_3=120$ km/h for one and a half hours. How long was the car in the heavy traffic of the city, and what was the average speed of the car for the total distance travelled in the city and on the highway? 
+A car travelled for 3 hours at an average speed of 80 km/h. The route consisted of three parts in all of which the car travelled at a constant speed. In the heavy traffic of some urban area its speed was $v_1=20$ km/h, on the highway its speed was $v_2=80$ km/h, while on the dual carriageway its speed was $v_3=120$ km/h for one and a half hours. How long was the car in the heavy traffic of the city, and what was the average speed of the car for the total distance travelled in the city and on the highway?
  (3 pont)

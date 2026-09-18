@@ -157,10 +157,10 @@ power incident on a disc of area
 σ =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 .
 This is the Thomson scattering cross section. To an electromagnetic wave, each electron looks
 like it has this area.
@@ -208,20 +208,20 @@ e4E2
 =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 .
 (b) Now, our expression for A will be eE0/mω2
 0, which modifies the answer to
 σ =
 8π
 3
-
+
 e2
 4πϵ0mc2
-2
+ 2
 ω4
 ω4
 0
@@ -240,7 +240,7 @@ as possible.) When you account for the total excitation of the cones, due to the
 of the sky, the net result is that the blue cone is excited a lot, and the green and red cones
 are each excited a little, so the result looks blue.
 (c) See this nice explanation for details.
-[3] Problem 23.  m 1 0USAPhO 2016, problem B2.
+[3] Problem 23.   m 1 0USAPhO 2016, problem B2.
 20
 Kevin Zhou Physics Olympiad Handouts
 Remark
@@ -430,19 +430,19 @@ dr =
 µ0Iℓ
 2π
 log
-
+
 b
 a
-
+
 and therefore
 L =
 µ0
 2π
 log
-
+
 b
 a
-
+
 .
 Thus we get 1/
 √
@@ -467,10 +467,10 @@ dr, L =
 µ0
 π
 log
-
+
 D
 r
-
+
 .
 This gives 1/
 √

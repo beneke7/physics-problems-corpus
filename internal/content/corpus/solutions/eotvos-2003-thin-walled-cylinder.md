@@ -104,5 +104,5 @@ ahonnan ϕ = 4,962◦
 ≈ 5,0◦
 .
 Megjegyzés. A M ≫ m eset diszkussziója nem volt feladat, itt sak a szimmetria kedvéért, no meg azért is tárgyal-
-tuk, mert néhány versenyz® 
+tuk, mert néhány versenyz®
 gyelmetlenségb®l ezt vizsgálta az M ≪ m eset helyett.

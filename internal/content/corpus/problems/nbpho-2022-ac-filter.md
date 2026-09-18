@@ -22,7 +22,7 @@ verification_status: pending
 An alternating voltage with amplitude $V_0$ and circular frequency $\omega_0$ is
 applied to the circuit shown below.
 
-![figure](../../sources/nbpho/figures/nbpho-2022-ac-filter-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2022-ac-filter-fig1.jpg)
 
 **i)** *(2 points)* For which circular frequency $\omega_0$ would the output voltage
 be infinite?

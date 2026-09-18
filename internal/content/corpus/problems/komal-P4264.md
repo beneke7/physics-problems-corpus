@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201009"
 verification_status: pending
 ---
 
-By what percent would the value of the acceleration due to gravity change on the North-pole if the radius of the Earth was increased by 1%, while its mass remained the same. 
+By what percent would the value of the acceleration due to gravity change on the North-pole if the radius of the Earth was increased by 1%, while its mass remained the same.
  (3 pont)

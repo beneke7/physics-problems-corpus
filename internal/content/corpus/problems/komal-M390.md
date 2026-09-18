@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201911"
 verification_status: pending
 ---
 
-By means of a prism made from water, in a simple way split the white light of a LED lamp into components. Write down the method and the result of the observation. 
+By means of a prism made from water, in a simple way split the white light of a LED lamp into components. Write down the method and the result of the observation.
  (6 pont)

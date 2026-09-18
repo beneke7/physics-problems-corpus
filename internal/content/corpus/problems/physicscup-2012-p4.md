@@ -23,6 +23,6 @@ verification_status: unverified
 
 There are three point masses m, 2m and 3m, each of which is fixed to a weightless rod; the three rods are of equal length L and are fixed to each other via a connector, which allows a free rotation (frictionless, torque-less) of the rods with respect to each other (so that the angles between the rods will change). Initially the angle between the rods is 120o and the system is motionless; all the rods and point masses lay on the same plane. The heaviest mass (3m) is hit so that it obtains instantaneously a velocity v0, perpendicular to the rod to which it is fixed to and coplanar to the other rods. Determine the accelerations of all three point masses immediately after the point mass 3m was hit. Remark: there is no gravity field, the system can be thought to be in weightlessness, or on frictionless horizontal surface.
 
-![figure](../../sources/physicscup/figures/physicscup-2012-p4.jpg)
+![figure](../../../../../sources/physicscup/figures/physicscup-2012-p4.jpg)
 
 *Physics Cup, IPhO 2012 (Estonia), Problem 4, by Jaan Kalda. Transcribed faithfully from the born-digital WordPress source (Wayback snapshot); inline math recovered from the WP-LaTeX `alt` attributes.*

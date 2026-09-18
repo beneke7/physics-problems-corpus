@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, extremization]
 ---
 
-A thin uniform rod of length 2 and of mass m can move along a vertical circle of radius R without friction. Determine the frequency of the small amplitude oscillatory motion of the rod about the equilibrium position. 
+A thin uniform rod of length 2 and of mass m can move along a vertical circle of radius R without friction. Determine the frequency of the small amplitude oscillatory motion of the rod about the equilibrium position.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4041-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4041-fig1.gif)

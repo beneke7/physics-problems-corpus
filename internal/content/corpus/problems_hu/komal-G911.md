@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 911. Egy vékony szórólencse az ábrán látható $P$ pontról a $P'$ pontban állít elő látszólagos képet. A lencse optikai tengelyét a folytonos vonal jelöli, a négyzethálón egy-egy beosztás vízszintesen $10~\mathrm{cm}$-nek, függőlegesen $1~\mathrm{cm}$-nek felel meg. Mekkora a lencse fókusztávolsága?
 
-![figure](../../raw_html/komal_figures/komal-G911-fig1.png)
+![figure](../../figures/komal/figures/komal-G911-fig1.png)

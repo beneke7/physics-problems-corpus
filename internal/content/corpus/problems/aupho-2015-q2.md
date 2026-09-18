@@ -33,7 +33,7 @@ Consider the following distinct forces:
 3. A force in the direction of motion.
 4. A force pointing from O to q.
 
-![](aupho-2015-q2-fig01.png)
+![](../../figures/aupho/figures/aupho-2015-q2-fig01.png)
 
 Which of the above forces is (are) acting on the ball when it is within the frictionless channel at position "q"?
 

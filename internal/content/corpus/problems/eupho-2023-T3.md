@@ -26,7 +26,7 @@ verification_status: pending
 
 Two identical long, cylindrical rod magnets of radius $R$ are close to each other and share the same vertical symmetry axis. The polarity of the two magnets is the same. As a result, the magnetic field in the air gap between the magnets is directed towards the $+z$ direction (see figure) and uniform with flux density $B$. The magnetic field outside the gap is zero. A horizontal large non-magnetic metal plate is placed in the air gap and moved with constant horizontal velocity $v$ in $+y$-direction. The thickness of the plate is $\delta$, the resistivity of the metal is $\varrho$.
 
-![figure](../../sources/eupho/figures/eupho-2023-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2023-T3-1.png)
 
 a) (3 pts) Sketch the shape of current streamlines in the metal plate at a given time. Indicate the axes on your sketch.
 

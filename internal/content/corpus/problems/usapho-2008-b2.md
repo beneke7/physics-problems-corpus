@@ -26,8 +26,8 @@ techniques: [differential-element, limiting-and-special-cases]
 ## Question B2
 
 Consider a parallel plate capacitor with the plates vertical. The plates of the capacitor are rigidly supported in place. The distance between the plates is $d$. The plates have height $h$ and area $A \gg d^{2}$. Assume throughout this problem that the force of air resistance may be neglected; however, the force of gravity cannot be neglected. Neglect any edge effects as well as any magnetic effects.
-![](usapho-2008-b2-fig01.png)
-![](usapho-2008-b2-fig02.png)
+![](../../figures/usapho/figures/usapho-2008-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-2008-b2-fig02.png)
 
 a. A small metal ball with a mass $M$ and a charge $q$ is suspended from a string of length $L$ that is tied to a rigid support. When the capacitor is not charged, the metal ball is located at the center of the capacitor- at a distance $d / 2$ from both plates and at a height $h / 2$ above the bottom edge of the plates. If instead a constant potential difference $V_{0}$ is applied across the plates, the string will make an angle $\theta_{0}$ to the vertical when the metal ball is in equilibrium.
     i. Determine $\theta_{0}$ in terms of the given quantities and fundamental constants.
@@ -46,7 +46,7 @@ If there is still time remaining for Part B, you should review your work for Par
 ## Optical Society of America Bonus Question
 
 Researchers have developed a lens made of liquid. The spherical lens consists of a droplet of transparent liquid resting on an electrically controllable surface. When the voltage of the surface is changed, the droplet itself changes shape; it either tries to "ball-up" more strongly or it becomes flatter. The figure below is a sketch of the liquid lens and several parameters that describe it, including the thickness of the lens $(t)$, the radius of curvature of the top surface $(R)$ and the contact angle $(\theta)$, which represents the angle between the flat surface beneath the droplet and the tangent to the curved surface at the point of contact.
-![](usapho-2008-b2-fig03.png)
+![](../../figures/usapho/figures/usapho-2008-b2-fig03.png)
 
 a. When a certain voltage is applied, both the contact angle and lens thickness increase (and the lens becomes more curved). In this case, is the liquid attracted or repelled by the surface?
 b. Express the contact angle as a function of $R$ and $t$.

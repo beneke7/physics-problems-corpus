@@ -27,7 +27,7 @@ Problem 7 (35 points). (1) The equivalence principle, first elucidated by Albert
 (i) When a beam of light travels from a place of low gravitational potential to another place of a high gravitational potential, its wavelength increases. This phenomenon is known as gravitational redshift. Now consider a spherical body (say, a planet) with uniform density. Suppose that a beam of light with wavelength $\lambda_{0}$ is emitted vertically upwards from a point source $A$ near the surface of the planet. The light beam is detected by a fixed receiver $B$ vertically above $A$ such that $A B=L$. Find the wavelength $\lambda^{\prime}$ of the light detected by $B$. We are given the mass of the planet $M$, its radius $R$ (where $R \gg L$ ), the speed of light $c$, and the gravitational constant $G$. We may assume the weak field approximation applies, i.e. we may freely use the results of the Newtonian theory of gravity.
 (ii) Refer to Figure 7.1. Suppose that a box whose length is $L$ is suspended in free space. A laser source $A$ and a receiver $B$ are fixed at the lower and upper ends of the box respectively. When time $t=0$, the box begins to accelerate from rest with magnitude $a$ along the direction of $\overrightarrow{A B}$, where $a L \ll c^{2}$. Simultaneously, a laser beam of wavelength $\lambda_{0}$ is emitted from $A$. Using the results of special relativity, find the wavelength $\lambda^{\prime \prime}$ of the light received at $B$.
 
-![](cpho-f-2017-en-q7-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q7-fig01.png)
 Figure 7.1: A gravity-independent demonstration of gravitational redshift.
 
 

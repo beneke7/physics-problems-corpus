@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-When looking into a plane mirror, we see our mirror image, which is not the same as how other people see us. How can we use two plane mirrors to see our face as others would see it? 
+When looking into a plane mirror, we see our mirror image, which is not the same as how other people see us. How can we use two plane mirrors to see our face as others would see it?
  (3 pont)

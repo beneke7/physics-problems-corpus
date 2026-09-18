@@ -26,7 +26,7 @@ techniques: [conservation-laws]
 ## Question 9
 
 A ball is thrown into the air and it moves in the path shown below. Ignore air resistance in this question.
-![](aupho-2012-q9-fig01.png)
+![](../../figures/aupho/figures/aupho-2012-q9-fig01.png)
 
 At position A the ball is at the highest point in its path, position B is just before it hits the ground. Which of the following statements is true?
 a. The speed of the ball at $A$ is zero and the acceleration of the ball at $B$ is the same as at $A$.

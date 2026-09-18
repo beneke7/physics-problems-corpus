@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201012"
 verification_status: pending
 ---
 
-There are more spectral lines in the emission spectrum of glowing gases, than in the absorption spectrum of cold gases. So there might be several lines which can be found in the emission spectrum, and which cannot be seen in the absorption spectrum of cold gases. Why? 
+There are more spectral lines in the emission spectrum of glowing gases, than in the absorption spectrum of cold gases. So there might be several lines which can be found in the emission spectrum, and which cannot be seen in the absorption spectrum of cold gases. Why?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-The sharp image of the vertical filament of a bulb is projected to a white wall. How does the image change if a diffraction grating which consists of vertical slits is placed in the way of the light, right in front of the lens, or right behind the lens? Where can the wall be seen pure blue? 
+The sharp image of the vertical filament of a bulb is projected to a white wall. How does the image change if a diffraction grating which consists of vertical slits is placed in the way of the light, right in front of the lens, or right behind the lens? Where can the wall be seen pure blue?
  (5 pont)

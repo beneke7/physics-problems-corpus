@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200911"
 verification_status: pending
 ---
 
-A beam of light travels through a piece of wedge-shaped glass, and is deflected more than 2$^\circ$ from its original direction of travel. The refractile index of glass is 1.5. Find the angle between the two boundary planes of the wedge-shaped glass. 
+A beam of light travels through a piece of wedge-shaped glass, and is deflected more than 2$^\circ$ from its original direction of travel. The refractile index of glass is 1.5. Find the angle between the two boundary planes of the wedge-shaped glass.
  (4 pont)

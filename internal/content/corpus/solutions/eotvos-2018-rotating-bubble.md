@@ -22,7 +22,7 @@ alakot vesz fel ekkor a légbuborék? Adjuk meg a buborék jellemz® méreteit! 
 I. megoldás (energiaminimum). Ha nem forogna a henger, a buborék a felületi feszültség miatt gömb alakú
 lenne. Ha nem lenne felületi feszültség, akkor a forgó folyadékban a buborék egy nagyon hosszan elnyúló nagyon vékony
 szál lenne a henger szimmetriatengelyénél. Most a henger elég nagy szögsebességgel forog, de hat a felületi feszültség is,
-így egy hosszan elnyúlt virsli alakú buborékot feltételezünk, melynek alakját egy r sugarú, ℓ hosszúságú hengerrel
+így egy hosszan elnyúlt  virsli  alakú buborékot feltételezünk, melynek alakját egy r sugarú, ℓ hosszúságú hengerrel
 közelíthetjük. A térfogat állandósága miatt ℓr2
 π = V .
 A rendszer teljes energiája a buborék felületi energiájából és a buborék helyér®l kiszoruló folyadék helyzeti energi-
@@ -42,8 +42,8 @@ dmdx′
 ω2
 x2
 dm.
-A henger alakú buborékból kiszorul a víz, és a henger szimmetriatengelyéig emelkedik. A teljes helyzeti energia
-növekedése, felhasználva, hogy az x sugarú, dx vastagságú hengergy¶r¶ tömege dm = ̺2xπℓdx,
+A henger alakú buborékból kiszorul a víz, és a henger szimmetriatengelyéig  emelkedik . A teljes helyzeti energia
+növekedése, felhasználva, hogy az x sugarú, dx vastagságú  hengergy¶r¶  tömege dm = ̺2xπℓdx,
 Ecf =
 Z r
 0
@@ -98,7 +98,7 @@ V
 r2π
 ≈ 15 cm.
 Valóban jogos volt tehát az a feltételezés, hogy a buborék alakja közelít®leg egy nyújtott henger.
-II. megoldás (er®egyensúly). Vágjuk félbe a virslit, és írjuk fel az er®k egyensúlyát (1. ábra)!
+II. megoldás (er®egyensúly). Vágjuk félbe a  virslit , és írjuk fel az er®k egyensúlyát (1. ábra)!
 1. ábra
 1Részletek a verseny honlapján: http://eik.bme.hu/∼vanko/fizika/eotvos.htm.
 A forgó folyadékban a tengelyt®l x távolságra a nyomás:
@@ -129,7 +129,7 @@ r
 ̺ω2
 r2
 .
-A folyadék által a virsli egyik felére kifejtett tengelyirányú er® a folyadék nyomásának egy r sugarú körlapra vett
+A folyadék által a  virsli  egyik felére kifejtett tengelyirányú er® a folyadék nyomásának egy r sugarú körlapra vett
 integráljaként számítható ki (2. ábra):
 F1 =
 Z r
@@ -142,7 +142,7 @@ Z r
 0
 x2
 · 2πxdx +
-
+
 p0 −
 α
 r
@@ -151,7 +151,7 @@ r
 2
 ̺ω2
 r2
-
+
 · πr2
 =
 =

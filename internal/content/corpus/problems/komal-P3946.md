@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-An elevator cab, whose total mass with its passengers is 600 kg, ascends uniformly. The mass of the counterweight is 300 kg. The mechanical power of the motor is 10 kW and the efficiency is 80%. 
- a ) Find the speed of the lift. 
- b ) Calculate the tension in the rope which pulls the lift. 
+An elevator cab, whose total mass with its passengers is 600 kg, ascends uniformly. The mass of the counterweight is 300 kg. The mechanical power of the motor is 10 kW and the efficiency is 80%.
+ a ) Find the speed of the lift.
+ b ) Calculate the tension in the rope which pulls the lift.
  (4 pont)

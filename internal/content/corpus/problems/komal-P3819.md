@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-The density of a uniform rod with cross-section A is , its specific heat capacity is c and the coefficient of its linear expansion is . Calculate the amount of heat that should be added in order to increase the length of the rod by l . 
+The density of a uniform rod with cross-section A is , its specific heat capacity is c and the coefficient of its linear expansion is . Calculate the amount of heat that should be added in order to increase the length of the rod by l .
  (3 pont)

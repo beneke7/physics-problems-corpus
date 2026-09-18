@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201104"
 verification_status: pending
 ---
 
-Similar rubber bungs are stick together as shown in the figure. The bodies are placed to a pair of rails, which encloses a small angle with the horizontal. The distance between the rails is equal to the height of the original bungs. We experience with a surprise that one of the bodies always reach the bottom of the slope, and the other always gets derailed. Which one? (The bodies roll without sliding.) 
+Similar rubber bungs are stick together as shown in the figure. The bodies are placed to a pair of rails, which encloses a small angle with the horizontal. The distance between the rails is equal to the height of the original bungs. We experience with a surprise that one of the bodies always reach the bottom of the slope, and the other always gets derailed. Which one? (The bodies roll without sliding.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4339-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4339-fig1.gif)

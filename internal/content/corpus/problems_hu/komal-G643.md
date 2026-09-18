@@ -9,6 +9,6 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 643. Egy karos mérlegen egy vizet tartalmazó edény van kiegyensúlyozva. Megbomlik-e a mérleg egyensúlya, ha egyik ujjunkat bemerítjük a vízbe úgy, hogy az edényhez nem érünk hozzá? Milyen választ adhatunk a kérdésre, ha 
-    a) egy csepp víz sem folyik ki az edényből; 
+G. 643. Egy karos mérlegen egy vizet tartalmazó edény van kiegyensúlyozva. Megbomlik-e a mérleg egyensúlya, ha egyik ujjunkat bemerítjük a vízbe úgy, hogy az edényhez nem érünk hozzá? Milyen választ adhatunk a kérdésre, ha
+    a) egy csepp víz sem folyik ki az edényből;
     b) a színültig töltött edényből kifolyó víz lecsurog a mérleg tányérja mellett?

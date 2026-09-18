@@ -45,10 +45,10 @@ location that external forces are applied.) So in that region, the strain must b
 strain ∼ δ/r ∼ r/R
 where δ is the vertical deformation. Using the definition of the Young’s modulus, we conclude
 r ∝ R
-
+
 ρgR
 Y
-1/3
+ 1/3
 .
 We can also phrase this result in terms of force and displacement. We have δ ∼ r2/R, and
 the total force that pushes the ball into the table is F ∼ ρgR3, so

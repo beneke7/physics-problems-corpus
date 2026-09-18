@@ -22,4 +22,4 @@ Amint az 56. feladatban láttuk, ha egy alagútdióda teljes $V$–$I$ görbéj�
 (a) Az 56. feladat eredménye szerint ez a stacionárius állapot instabil; stabilizálásához egy $C$ kapacitásból és egy $r$ ellenállásból álló soros kapcsolást kötünk a diódával párhuzamosan. A kondenzátort és az $r$ ellenállást a diódához kapcsoló vezetékek olyan rövidek, hogy a hozzájuk tartozó $L_{d}$ induktivitás elhanyagolható; a diódát, a telepet és az $R$ ellenállást összekötő vezetékek induktivitása $L$ (lásd az ábrát; a $C_{d}$ kapacitást hanyagoljuk el). Milyen feltétel(ek)nek kell teljesülniük $C$, $R$, $R_{\text {diff }}$, $r$ és $L$ értékére a stabilizáláshoz?
 (b) Az (a) részben viszonylag lassú instabilitással foglalkoztunk; ebben az esetben az áramváltozás karakterisztikus ideje nem lehet sokkal rövidebb, mint
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr82-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr82-fig1.jpg)

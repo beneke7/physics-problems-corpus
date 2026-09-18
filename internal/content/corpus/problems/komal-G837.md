@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, auxiliary-unknowns]
 ---
 
-Consider the liquid and gaseous phases of water at $100~{}^\circ\text{C}$ and at atmospheric pressure. On average, how many times farther apart are the centres of adjacent water molecules in the vapour phase than in the liquid phase? 
+Consider the liquid and gaseous phases of water at $100~{}^\circ\text{C}$ and at atmospheric pressure. On average, how many times farther apart are the centres of adjacent water molecules in the vapour phase than in the liquid phase?
  (3 pont)

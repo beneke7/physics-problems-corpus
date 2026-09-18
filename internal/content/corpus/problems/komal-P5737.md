@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, conservation-laws, auxiliary-unknowns]
 ---
 
-A point charge of mass $m$ and charge $Q$ is situated at a distance $d$ above a well-conducting plane metal sheet. It is given an initial velocity $v_0$ in a direction parallel to the plane of the sheet. After what time, and at what point, does the charge strike the metal sheet? (Gravitational force is negligible compared to electrical forces.) 
+A point charge of mass $m$ and charge $Q$ is situated at a distance $d$ above a well-conducting plane metal sheet. It is given an initial velocity $v_0$ in a direction parallel to the plane of the sheet. After what time, and at what point, does the charge strike the metal sheet? (Gravitational force is negligible compared to electrical forces.)
  (5 pont)

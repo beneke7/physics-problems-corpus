@@ -81,7 +81,9 @@ Instructions                    Roll Number: rorororo - rorororo - rorororo
 
 Please note that alternate/equivalent methods and diﬀerent ways of expressing
 ﬁnal solutions may exist. A correct method will be suitably awarded.
-Page 2      INPhO 2025                   Questions           Last four digits of Roll No.:
+
+
+Page 2      INPhO 2025                   Questions           Last four digits of Roll No.:
 
 1. The Flywheel Chronicles
    In the following experiment we are interested in determining the moment of inertia of a ﬂywheel.
@@ -136,13 +138,15 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
          Simplifying above equation we get,
                                                2mgh         md2
                                         I=          n
-                                                       −       n
-                                                                                            (1.5)
+                                                        −       n
+                                                                                             (1.5)
                                              ω2 1 + N     4 1+ N
          where ω = 4πN
                      T
          Final answers written in the form of W are also accepted.
-Page 3       INPhO 2025                    Questions
+
+
+Page 3       INPhO 2025                    Questions
 
    (b) [3 marks] The following data has been obtained in this experiment.
 
@@ -166,7 +170,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                                      E
                                   CS
             HB
-Page 4       INPhO 2025                    Questions          Last four digits of Roll No.:
+
+
+Page 4       INPhO 2025                    Questions          Last four digits of Roll No.:
 
 2. Gearminator: Rise of the Machines
 
@@ -223,7 +229,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
              • The circuit equation for motor with speed ωM is
 
                                                 VM − ϵbM − IM r = 0                             (2.1)
-Page 5     INPhO 2025                   Questions
+
+
+Page 5     INPhO 2025                   Questions
 
 
               where ϵbM = N ABωM sin (ωM t) is the induced back emf. Thus, the current IM is
@@ -232,7 +240,7 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                              r
            • The magnetic torque on the coils carrying current IM is
                             τM = N IM BA sin (ωM t)                                       (2.3)
-                                 1                                                 
+                                 1
                                =    VM N BA sin (ωM t) − N 2 B 2 A2 ωM sin2 (ωM t)        (2.4)
                                  r
          The Gearbox is massless, and there is no loss of power. Thus,
@@ -293,19 +301,19 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
               Using Eq. (2.9), we obtain
                                        ωG    (4VM /πN BA) X     X 2 ωG
                                           =                  −                           (2.12)
-                                       R            r 
-                                                                r
+                                       R             r
+                                                                  r
                                             1    X2        4VM      X
                                        ωG      +       =                                 (2.13)
                                            R      r       πN BA r
-                                                        
+
                                                     4VM        1
                                           ωG =               r
-                                                                                        (2.14)
+                                                                                         (2.14)
                                                    πN BA    XR + X
 
          To maximize ωG , minimize the denominator r/RX + X. Diﬀerentiating:
-                                          d  r       
+                                          d   r
                                                    +X =0                                 (2.15)
                                          dX RX
                                                  r
@@ -315,7 +323,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                                      r
                                            ⇒ X=                                          (2.17)
                                                      R
-Page 6       INPhO 2025                  Questions                Last four digits of Roll No.:
+
+
+Page 6       INPhO 2025                  Questions                Last four digits of Roll No.:
 
    (b) [3 marks] Derive the expression for the generator output power ⟨PG ⟩ in terms of X, R, r,
        and the given parameters. For ﬁxed values of r and R, determine the expression of X for
@@ -329,7 +339,7 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                                  R            2R
                                                                 2
                                                               8VM
-                                              ⟨PG ⟩ =                2
+                                              ⟨PG ⟩ =                 2
                                                                r
                                                         π2R   XR + X
 
@@ -354,7 +364,7 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                       =
 
                                       =
-                                        
+
 
 
                                         VM
@@ -366,18 +376,18 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
 
                                           2
                                             r
-                                              
+
                                                 (VM − N BAωM sin (ωM t))
 
                                                      2
                                                 VM − N BAXωG
-                                                   
+
                                                      π
-                                                        
-                                                                
+
+
 
                                                                     !
-                                                                         
+
                                                                                                   (2.19)
 
                                                                                                   (2.20)
@@ -417,12 +427,12 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
 
 
                                                           XR + X
-                                                                  
 
 
 
 
-                                                                 2
+
+                                                                  2
                                                                                                   (2.22)
 
 
@@ -447,7 +457,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
           substituting value Xmax in η.
 
                                                   ηmax ≈ 0.4                                      (2.26)
-Page 7      INPhO 2025                    Questions
+
+
+Page 7      INPhO 2025                    Questions
 
 3. Love is in the air
    A thermodynamic cycle is performed for one mole of an ideal monoatomic gas. The representation
@@ -469,7 +481,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
    (a) [13 marks] Draw both the V and T axes to scale in the same diagram given in the Summary
        Answersheet. Indicate the origin by “O”. Justify your answer in the detailed answersheet. You
        are given one extra answer box in the answersheet, in case of any mistake in the ﬁrst.
-Page 8     INPhO 2025                    Questions            Last four digits of Roll No.:
+
+
+Page 8     INPhO 2025                    Questions            Last four digits of Roll No.:
 
 
          Solution: We begin with the ideal gas law:
@@ -509,7 +523,7 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                             = tan (θ) =    =
                                          dV             VX    6
          Thus, the angle the tangent makes with the volume axis, θ, is:
-                                                   
+
                                                     2.8
                                        θ = arctan        ≈ 25◦
                                                      6
@@ -527,7 +541,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
          We therefore have two possible sets of axes, corresponding to the two possible origins. The
          solutions are displayed below, and either answer will be accepted. Origins are marked
          here by O1 and O2 .
-Page 9   INPhO 2025   Questions
+
+
+Page 9   INPhO 2025   Questions
 
 
 
@@ -547,7 +563,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
                                   X
                                                     Volu
                                                          m
-Page 10   INPhO 2025             Questions   Last four digits of Roll No.:
+
+
+Page 10   INPhO 2025             Questions   Last four digits of Roll No.:
 
 
 
@@ -564,7 +582,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
 
 
                          O2
-Page 11      INPhO 2025                    Questions
+
+
+Page 11      INPhO 2025                    Questions
 
    (b) [3 marks] For the axes and origin you have drawn, indicate the point(s) on the graph where
        the pressure is/are maximum in the cycle by ⊗ and label it as Pmax on the curve. Determine
@@ -589,7 +609,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
            O1       4.8 cm   8.0 cm        19.2 L   640.0 K   2.7 (accetable range is 2.4 to 2.8)
 
            O2       1.3 cm   5.4 cm        5.2 L    432.0 K   6.8 (accetable range is 6.3 to 7.5)
-Page 12      INPhO 2025                   Questions                 Last four digits of Roll No.:
+
+
+Page 12      INPhO 2025                   Questions                 Last four digits of Roll No.:
 
 4. The Magnetic Black Box (MBB)
    A magnetometer is a Hall-eﬀect-based sensor that measures the magnetic ﬁeld at its location.
@@ -638,7 +660,9 @@ Please note that alternate/equivalent methods and diﬀerent ways of expressing
           Solution: Let us understand this by an example when conducting a horizontal scan with
           the magnet in orientation IV, the behavior of the Bx component of the magnetic ﬁeld
           varies as follows:
-Page 13       INPhO 2025                       Questions
+
+
+Page 13       INPhO 2025                       Questions
 
                                                                   rx                           rx
                                                SN
@@ -692,7 +716,9 @@ Fig. (3) for the explanation of orientations.
 
              5. With the magnetometer to the left of the magnet, Bx is directed to the right once
                 more, yielding a positive value (see ﬁg.(c)).
-Page 14              INPhO 2025                Questions           Last four digits of Roll No.:
+
+
+Page 14              INPhO 2025                Questions           Last four digits of Roll No.:
 
                                               Horizontal Scan (ry ﬁxed)
 
@@ -750,7 +776,9 @@ Bx (µT)
 
 
                Let us consider another example with Orientation I, as shown in the ﬁgure below.
-Page 15      INPhO 2025                     Questions
+
+
+Page 15      INPhO 2025                     Questions
 
 
 
@@ -794,7 +822,9 @@ Bx (µT)
        cubic magnets (of side length w = 10 mm). In set M1, two magnets, each of dipole moment
        P ′ , are joined in an attractive conﬁguration. In set M2, the magnets are joined in a repulsive
        conﬁguration using a strong adhesive. Thus, each magnetic set has a length of 2w (as shown
-Page 16         INPhO 2025                          Questions                  Last four digits of Roll No.:
+
+
+Page 16         INPhO 2025                          Questions                  Last four digits of Roll No.:
 
           in Fig. (5)).
                                w            w                                      w            w
@@ -846,22 +876,24 @@ Bx (µT)
                                                    M1            R
                 For M1, if we consider the pole strength to be m for each pole, the magnetic ﬁeld at
                 point P , which is at a distance r from the center of the magnet, can be expressed as:
-Page 17       INPhO 2025                 Questions
 
 
-                                                                  
+Page 17       INPhO 2025                 Questions
+
+
+
                                    µ0        m       m   m      m
                                 B=      −         +    −   +
                                    4π     (R + w)2 R2 R2 (R − w)2
-                                                               
-                                   µ0 m          w −2    w −2
+
+                                   µ0 m          w  −2     w  −2
                                 B=         − 1+       + 1−
                                    4πR2          R         R
                                            w
               We can use the approximation R ≪ 1 and simplify the expression up to the third
               order term in w/R:
 
-                                                                             
+
                                  µ0 m             2w 3w2                2w 3w2
                              B≈−               1−   + 2            − 1+   + 2          (4.1)
                                  4πR2             R  R                  R  R
@@ -881,18 +913,18 @@ Bx (µT)
 
                                               M2            R
               the magnetic ﬁeld at P due to the individual poles can be written as:
-                                                                            
+
                                      µ0        m        m     m        m
                                B=         −          +     +      −
                                     4π      (R + w)2 R2 R2 (R − w)2
-                                                                          
-                                     µ0 m           w −2            w −2
+
+                                     µ0 m           w  −2             w  −2
                                B=            − 1+         +2− 1−
                                     4πR2            R                 R
 
               Keeping only up to the (w/R)3 terms:
 
-                                                             
+
                               µ0 m           2w 3w2       2w 3w2
                            B=           − 1−   + 2 +2− 1+   + 2                        (4.3)
                               4πR2           R  R         R  R
@@ -905,7 +937,9 @@ Bx (µT)
               where P ′ is the dipole moment of the individual magnets used in M2 .
 
           ii. [10 marks] One set of Vanya’s data is presented in the table below.
-Page 18      INPhO 2025                      Questions          Last four digits of Roll No.:
+
+
+Page 18      INPhO 2025                      Questions          Last four digits of Roll No.:
 
 
                                      dx (cm)     Bx (µT)    dx (cm)    Bx (µT)
@@ -927,11 +961,11 @@ Bx (µT)
 
           Solution: Linearizing the data for M2:
           If we take the logarithm of Eqs. (4.2) and (4.4), we obtain:
-                                                            ′ 
+                                                             ′
                                                             4P µ0
                                       ln |B| = 3 ln R + ln          ,                           (4.5)
                                                               4π
-                                                            ′      
+                                                             ′
                                                             6P wµ0
                                       ln |B| = 4 ln R + ln             .                        (4.6)
                                                                4π
@@ -963,12 +997,18 @@ Bx (µT)
           The graph is plotted on the Pg. 19.
           The slope of the graph = 4.08.
           Which indicates that the dataset corresponds to M2.
-                                           ′     
+                                            ′
           The intercept of the graph is ln 6P4πwµ0 = 18.74 ⇒ P ′ = 1.21 A · m2 .
           The acceptable range of P ′ is: 1.00 − 2.00 A · m2
-Page 19   INPhO 2025   Questions
-Page 20   INPhO 2025   Questions   Last four digits of Roll No.:
-Page 21      INPhO 2025                        Questions
+
+
+Page 19   INPhO 2025   Questions
+
+
+Page 20   INPhO 2025   Questions   Last four digits of Roll No.:
+
+
+Page 21      INPhO 2025                        Questions
 
 5. Metalens
    A metasurface is a two-dimensional, ultra-thin optical structure consisting of an array of nanospaced
@@ -1024,7 +1064,9 @@ Bx (µT)
        to derive the exact functional form of ϕ(r) for this part.
 
           Solution:
-Page 22      INPhO 2025                      Questions           Last four digits of Roll No.:
+
+
+Page 22      INPhO 2025                      Questions           Last four digits of Roll No.:
 
 
 
@@ -1085,7 +1127,9 @@ Bx (µT)
                                                    Φ(r)               Φ(r + ∆r)
                                      ∆r sin θ2 +        = ∆r sin θ1 +
                                                     ko                    k0
-Page 23      INPhO 2025                         Questions
+
+
+Page 23      INPhO 2025                         Questions
 
 
           Simplifying:
@@ -1123,8 +1167,8 @@ Bx (µT)
                                                n2 sin θ2 − n1 sin θ1 =
                                                                          ko dr
           From the above
-                        ﬁgure,
-                               the ray arriving at r (with θ1 = 0) must bend by an angle
+                         ﬁgure,
+                                the ray arriving at r (with θ1 = 0) must bend by an angle
           θ2 = sin−1     √ r         . Thus,
                           f 2 +r 2
 
@@ -1148,7 +1192,9 @@ Bx (µT)
                                                n2 sin θ2 − n1 sin θ1 =
                                                                          ko dr
           For paraxial rays, we can use small angle approximation, sin θ1 = r/u and then above
-Page 24      INPhO 2025                  Questions               Last four digits of Roll No.:
+
+
+Page 24      INPhO 2025                  Questions               Last four digits of Roll No.:
 
                                                 x
 

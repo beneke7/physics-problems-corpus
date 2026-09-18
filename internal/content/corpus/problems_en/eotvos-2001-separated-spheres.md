@@ -19,8 +19,8 @@ verification_status: pending
 
 Two identical lead spheres are each cut into two parts by a plane; one is cut according to configuration a), the other according to configuration b) as shown in the figures. The cut surfaces are covered with a hair-thin insulating layer, then the parts are reunited to form complete spheres. Subsequently, we place the same small charge $Q$ on the left half of each sphere.
 
-![Configuration a)](../../sources/eotvos/figures/eotvos-2001-separated-spheres-fig1a.png)
+![Configuration a)](../../figures/eotvos/figures/eotvos-2001-separated-spheres-fig1a.png)
 
-![Configuration b)](../../sources/eotvos/figures/eotvos-2001-separated-spheres-fig1b.png)
+![Configuration b)](../../figures/eotvos/figures/eotvos-2001-separated-spheres-fig1b.png)
 
 Sketch the electric field lines around each sphere in both cases! (The two spheres are far apart from each other, so their mutual interaction can be neglected.)

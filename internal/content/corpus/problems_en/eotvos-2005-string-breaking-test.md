@@ -21,7 +21,7 @@ verification_status: pending
 
 1. **A flexible string is threaded over two fixed pulleys** at a distance $l=2 \mathrm{~m}$ apart, and a mass $M=1 \mathrm{~kg}$ is attached to each end as shown in Fig. 1.(a). (The string can withstand a load of a few times 10 N before breaking. The mass of the pulleys and string is negligible.) If we pull down the middle of the string with our finger so that both masses are raised by 1-1 metre (Fig. 1.(b)), and then release it, the string breaks when the segment between $A$ and $B$ "becomes straight". However, if we attach an additional mass of 1 kg to the middle of the string before releasing, the string will no longer break.
 
-![figure](sources/eotvos/figures/eotvos-2005-p1-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2005-p1-fig1.jpg)
 (a)
 
 (b)

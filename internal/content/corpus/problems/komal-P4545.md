@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-Two cylinder shaped vessels of cross section A are fixed vertically to a trolley, which was initially at rest. The two vessels are connected with a thin horizontal tube which is equipped with a tap. The distance between the axes of the vessels is L . The vessel in the left hand side is filled with some liquid of density ; and at this time the total mass of the system at rest is m . 
+Two cylinder shaped vessels of cross section A are fixed vertically to a trolley, which was initially at rest. The two vessels are connected with a thin horizontal tube which is equipped with a tap. The distance between the axes of the vessels is L . The vessel in the left hand side is filled with some liquid of density ; and at this time the total mass of the system at rest is m .
 
- After opening the tap what is the speed of the cart at the moment when the speed of the water levels in the vessels is v ? (Rolling friction, friction in the bearings and air-drag are negligible.) 
+ After opening the tap what is the speed of the cart at the moment when the speed of the water levels in the vessels is v ? (Rolling friction, friction in the bearings and air-drag are negligible.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4545-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4545-fig1.gif)

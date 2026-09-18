@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Two tables are placed next to each other. The surface of one of them is rough and the other's is very smooth. Two alike springs are attached to the tables and to the other ends of the springs two alike objects are attached. (The springs are designed both for compression and tension.) The object on the rough table is displaced by some distance and released. At the same moment the object on the smooth table is given some initial velocity in the direction of the symmetry axis of the spring. Where will the object on the smooth table be when the other stops moving due to friction? (Air resistance is negligible.) 
+Two tables are placed next to each other. The surface of one of them is rough and the other's is very smooth. Two alike springs are attached to the tables and to the other ends of the springs two alike objects are attached. (The springs are designed both for compression and tension.) The object on the rough table is displaced by some distance and released. At the same moment the object on the smooth table is given some initial velocity in the direction of the symmetry axis of the spring. Where will the object on the smooth table be when the other stops moving due to friction? (Air resistance is negligible.)
  (5 pont)

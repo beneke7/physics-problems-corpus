@@ -21,7 +21,7 @@ verification_status: pending
 
 A small-gauge rope is tied to a fixed cylinder with radius $R$, a smooth surface, and horizontal position. One end is fixed at point $A$ on the cylinder's surface at the same height as the cylinder's axis, and the rope is then passed once over the cylinder.
 
-![figure](../../sources/eotvos/figures/eotvos-2000-chain-on-cylinder-fig1.png)
+![figure](../../figures/eotvos/figures/eotvos-2000-chain-on-cylinder-fig1.png)
 
 What should be the minimum length of the vertically hanging part $l$ so that the rest of the rope is flush with the cylinder's surface everywhere?
 

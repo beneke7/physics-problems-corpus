@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201602"
 verification_status: pending
 ---
 
-Investigate the motion of a pencil, the cross section of which is a hexagon, and which was released from the top of an inclined plane from a horizontal position. Measure the average speed of the pencil, when the speed gets constant, as a function of the angle of elevation of the slope. 
+Investigate the motion of a pencil, the cross section of which is a hexagon, and which was released from the top of an inclined plane from a horizontal position. Measure the average speed of the pencil, when the speed gets constant, as a function of the angle of elevation of the slope.
  (6 pont)

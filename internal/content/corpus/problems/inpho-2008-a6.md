@@ -28,7 +28,7 @@ The speed light maybe determined by an electrical circuit using low frequency ac
 (a) Obtain an expression for the time-averaged force between the plates of $C_{1}$.
 (b) Obtain an expression for the time-averaged force between the rings. The magnetic force between the two rings maybe approximated by those due to long straight wires since $b \gg h$.
 
-![](inpho-2008-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2008-a6-fig01.png)
 Figure 4:
 
 (c) Assume that $C_{2}$ and the various distances are so adjusted that the time-averaged downward force on the upper plate of $C_{1}$ is exactly balanced by the time-averaged downward force on the upper ring. Under these conditions obtain an expression for the speed of light.

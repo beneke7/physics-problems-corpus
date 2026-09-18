@@ -95,7 +95,9 @@ r ≈ 1,22 = 122%.                                             of the linear its
                                                              χ0 (χ0 − H) + 4πε1   ρe q
                                                                                        = 0. Using the designation                      C=(        −     )/ ln    .
                                                                                 0 ρm g                                                        R2    R1        R2
-5. Empty sack                                               point Q — intersection point of the lines of the            case of very large distance (black line d). In the lat-
+
+
+5. Empty sack                                               point Q — intersection point of the lines of the            case of very large distance (black line d). In the lat-
 1) The pressure at the floor P = p + σg , hence             resultant forces applied to the touching points of          ter case, the ray (in Fig, a) is refracted at the entrance
 σLg = (p + σg)c, from which c = L/( σg       p
                                                + 1).        the front- and rear wheels with the wall and floor,         to the bottle by a certain angle ; when observing from

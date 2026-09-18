@@ -30,5 +30,5 @@ techniques: [smart-coordinates, model-reduction]
 
 **Remark:** A rainbow is formed by rays which enter a spherical water droplet, reflect once from its surface internally, and exit the droplet after a second refraction. Note that the internal reflection is only partial, and not total; see figure. The exit angle $\alpha$ has a maximum as a function of the impact parameter $b$; the angular radius of the rainbow equals the maximal exit angle [indeed, if light of intensity $I_{0}$ falls onto the droplet with all possible impact parameters $b<r$, the light energy per impact-parameter range $\Delta b$ is $2 I_{0} \pi b \Delta b$; hence, the energy per exit-angle interval $\Delta \alpha$ is $\Delta I / \Delta \alpha=2 I_{0} \pi b \Delta b / \Delta \alpha=2 I_{0} \pi b(d \alpha / d b)^{-1}$, which diverges near the maximum of the function $\alpha(b)$.]
 
-![figure](../../sources/nbpho/figures/nbpho-2006-optics-experiment-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-optics-experiment-fig1.png)
 

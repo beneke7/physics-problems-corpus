@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, extremization]
 ---
 
-An unstretchable string of uniform density and constant diameter is suspended at one of its ends and is hanging. At a length of L it breaks under its own weight. Is it conceivable that there is such shape of string which does not get broken under its own weight however long it is? 
+An unstretchable string of uniform density and constant diameter is suspended at one of its ends and is hanging. At a length of L it breaks under its own weight. Is it conceivable that there is such shape of string which does not get broken under its own weight however long it is?
  (5 pont)

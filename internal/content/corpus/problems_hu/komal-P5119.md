@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5119. Newton híres kísérletében (experimentum crucis) a fehér fényt színekre bontotta prizma segítségével. A színes fénysugarakat újra egyesítette fehér fénnyé. Megvalósítható-e a fehér fény felbontása és újraegyesítése a  képen látható módon? 
+P. 5119. Newton híres kísérletében (experimentum crucis) a fehér fényt színekre bontotta prizma segítségével. A színes fénysugarakat újra egyesítette fehér fénnyé. Megvalósítható-e a fehér fény felbontása és újraegyesítése a  képen látható módon?
 
  Az internet nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5119-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5119-fig1.gif)

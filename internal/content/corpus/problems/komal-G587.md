@@ -22,12 +22,12 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-on page 371:) 
+on page 371:)
 
- "A 2 N force is exerted on an initially stationary, easily moveable trolley of mass $m=1.6$ kg for 0.5 s, and after the force ceased the trolley moves freely along the horizontal path. What distance is covered by the trolley during the first second after it started moving?" 
+ "A 2 N force is exerted on an initially stationary, easily moveable trolley of mass $m=1.6$ kg for 0.5 s, and after the force ceased the trolley moves freely along the horizontal path. What distance is covered by the trolley during the first second after it started moving?"
 
- How should the mass $M$ of the weight shown in the figure be chosen, and what should the distance $h$ be? (The masses of the wheels of the trolley, the pulley and the thread are negligible.) 
+ How should the mass $M$ of the weight shown in the figure be chosen, and what should the distance $h$ be? (The masses of the wheels of the trolley, the pulley and the thread are negligible.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G587-fig1.gif)
+![figure](../../figures/komal/figures/komal-G587-fig1.gif)

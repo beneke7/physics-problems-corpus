@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-We have two solid cubes, one made of aluminium and the other made of copper. Placed on a particularly accurate scale they are both measured to be 1 ton to the nearest gram in vacuum. What will the difference between the results of the measurements be if the masses of the cubes are measured in air at standard temperature and pressure (STP)? 
+We have two solid cubes, one made of aluminium and the other made of copper. Placed on a particularly accurate scale they are both measured to be 1 ton to the nearest gram in vacuum. What will the difference between the results of the measurements be if the masses of the cubes are measured in air at standard temperature and pressure (STP)?
  (4 pont)

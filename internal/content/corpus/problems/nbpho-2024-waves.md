@@ -31,7 +31,7 @@ where $\sigma$ denotes the surface tension, $g=9.81 \mathrm{~m} \mathrm{~s}^{-2}
 
 **i)** *(1 point)* Determine the values of the exponents $\alpha$ and $\beta$.
 
-![figure](../../sources/nbpho/figures/nbpho-2024-waves-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2024-waves-fig1.jpg)
 
 F. Moisy, M. Rabaud, PRE 90, 023009 (2014)
 

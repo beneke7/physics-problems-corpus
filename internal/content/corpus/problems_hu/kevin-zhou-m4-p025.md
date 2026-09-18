@@ -34,4 +34,6 @@ Tekintsük a inga whose length adiabatically changes from L to L/2.
          in the length of the inga, and Einstein said yes. Reprúduce Einstein’s analysis.
 
                                                      17
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts

@@ -25,7 +25,7 @@ source_role: explanatory_example
 Példa. A Schrödinger-egyenlet visszanyerése. Kis t = ϵ időre
 
                                            ℏ2 2
-                                                      
+
                                      iϵ
                  ψ(x, ϵ) = ψ(x, 0) −     −    ∇ + V (x) ψ(x, 0) + O(ϵ2 ).
                                      ℏ     2m
@@ -33,7 +33,7 @@ Példa. A Schrödinger-egyenlet visszanyerése. Kis t = ϵ időre
 Hasonlítsuk ezt össze az úttintegrállal. Itt egyetlen időlépést használunk, így
 
                                                                    iϵ m(x − y)2
-           Z                                     m 3/2                             
+           Z                                      m  3/2
   ψ(x, ϵ) = dy K(x, y, ϵ)ψ(y, 0), K(x, y, 0) =               exp                − V (y)   .
                                                   2πiℏϵ            ℏ       2ϵ2
 
@@ -42,11 +42,11 @@ szerint a járulék nagy része a ξ = x − y = O(ϵ1/2 ) tartományból szárm
 rendig fejtünk ki ϵ szerint, ξ = O(ϵ1/2 )-ként kezelve:
 
                                 imξ 2
-             m 3/2 Z                                     
+              m  3/2 Z
                                             iϵ
   ψ(x, ϵ) =            dξ exp           1 − V (x + ξ) + . . .
              2πiℏϵ               2ϵℏ        ℏ
-                                                                                            
+
                                                       i            1 i j
                                          × ψ(x, 0) + ξ ∂i ψ(x, 0) + ξ ξ ∂i ∂j ψ(x, 0) + . . . .
                                                                    2

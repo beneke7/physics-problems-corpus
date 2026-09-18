@@ -27,7 +27,7 @@ verification_status: pending
 
 A closed circular loop of radius $r$ consists of an ideal battery of electromotive force $\mathcal{E}$ and a wire of resistance $R$. A long thin air-core solenoid is aligned with the axis of the loop ($z$-axis). Its length is $\ell \gg r$, cross-sectional area is $A$ ($\sqrt{A} \ll r$), and the number of turns is $N$. The solenoid is powered by a constant current $I$ provided by an ideal current source. The directions of the currents in the solenoid and in the loop are the same (clockwise in the figure).
 
-![figure](../../sources/eupho/figures/eupho-2020-T1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-T1-1.png)
 
 **a.** Find the force $F_1$ acting on the solenoid when its head $O_1$ is positioned in the loop centre $O$. What is the force $F_2$ acting on the solenoid when its tail $O_2$ is located in the centre of the loop?
 

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-Two resistors of resistance values $R_{1}$ and $R_{2}$ are connected in series and their equivalent resistance is $R_{1}+R_{2}$. Two other resistors of resistance $R$ are connected in the circuit, one of them and $R_{1}$ are connected in parallel, whilst the other one and $R_{2}$ are connected in series. Is there a value of $R$ such that the equivalent resistance of the whole circuit remains $R_{1}+R_{2}$? 
+Two resistors of resistance values $R_{1}$ and $R_{2}$ are connected in series and their equivalent resistance is $R_{1}+R_{2}$. Two other resistors of resistance $R$ are connected in the circuit, one of them and $R_{1}$ are connected in parallel, whilst the other one and $R_{2}$ are connected in series. Is there a value of $R$ such that the equivalent resistance of the whole circuit remains $R_{1}+R_{2}$?
  (4 pont)

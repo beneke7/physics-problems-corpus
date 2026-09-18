@@ -69,7 +69,9 @@ therefore, the puck acceleration in the laboratory reference frame is also given
 then the interaction force between the puck and the cylinder is finally found as
                                        𝑚
                        𝐹 = 3𝑚𝑔 1 + 3𝑀 .                                                            (A.17)
-                     Theoretical competition. Tuesday, 15 July 2014                                    2/4
+
+
+                     Theoretical competition. Tuesday, 15 July 2014                                    2/4
                                                   Part B
         1) According to the first law of thermodynamics, the amount of heat transmitted 𝛿𝑄 to the gas in the
 bubble is found as
@@ -129,7 +131,9 @@ written that
        Thus, from (B.10) - (B.16) and (B.3) the equation of small oscillations of the soap film is derived as
                                8𝜍
                      𝜌𝑕𝑥 = − 𝑟 2 𝑥                                                               (B.16)
-                     Theoretical competition. Tuesday, 15 July 2014                                    3/4
+
+
+                     Theoretical competition. Tuesday, 15 July 2014                                    3/4
 with the frequency
                                  8𝜍
                       𝜔=               = 108 s −1 .                                              (B.17)
@@ -193,7 +197,9 @@ decreases.
         Hence, the amplitude of the current in the key is obtained as
                                                𝑞0
                        𝐼max = 3𝐼0 = 𝜔𝑞0 = 2𝐿𝐶     .                                           (C1.22)
-                      Theoretical competition. Tuesday, 15 July 2014                                     4/4
+
+
+                      Theoretical competition. Tuesday, 15 July 2014                                     4/4
                                            Method 2. Vector diagram
         Instead of determining the coefficients 𝐴, 𝐵, 𝐷, 𝐹 the vector diagram shown
 in the figure on the right can be used. The segment 𝐴𝐶 represents the current sought

@@ -26,7 +26,7 @@ techniques: [conservation-laws, graphical-reduction]
 ## Question A4
 
 A graduated cylinder is partially filled with water; a rubber duck floats at the surface. Oil is poured into the graduated cylinder at a slow, constant rate, and the volume marks corresponding to the surface of the water and the surface of the oil are recorded as a function of time.
-![](usapho-2013-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2013-a4-fig01.png)
 
 Water has a density of 1.00 g/mL; the density of air is negligible, as are surface effects. Find the density of the oil.
 

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, auxiliary-unknowns]
 ---
 
-Using an electronic kitchen scale, which shows grams, the same 1 g is gained for the weights of a rubber, a pencil and a pen. The pencil and the pen together weigh 2 grams, and the total weight of the pencil and the rubber is also 2 grams. Measuring the three items together the scale reads 3 grams. The total weight of the pen and the rubber is also 3 grams. How can this happen? What can the range of the mass of each item be? What can be stated about the total mass of the three items? 
+Using an electronic kitchen scale, which shows grams, the same 1 g is gained for the weights of a rubber, a pencil and a pen. The pencil and the pen together weigh 2 grams, and the total weight of the pencil and the rubber is also 2 grams. Measuring the three items together the scale reads 3 grams. The total weight of the pen and the rubber is also 3 grams. How can this happen? What can the range of the mass of each item be? What can be stated about the total mass of the three items?
  (5 pont)

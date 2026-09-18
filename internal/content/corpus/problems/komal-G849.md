@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-How long would a day on Earth be if there was weightlessness on the equator? Assume that all parameters other than the period of rotation are constant. 
+How long would a day on Earth be if there was weightlessness on the equator? Assume that all parameters other than the period of rotation are constant.
  (3 pont)

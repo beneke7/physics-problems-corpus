@@ -21,9 +21,9 @@ korongra hat a másik korong taszító ereje.
 Fizika szakkörön az elektromos árnyékolás a téma.
 A két korongot nézve Beának az az ötlete támad, hogy ha az A és B korong közé óvatosan (ügyelve, hogy egyikhez
 se érjen hozzá) egy ugyanolyan, de elektromosan semleges C fémkorongot eresztünk be szigetel® fonálon a b) ábrának
-megfelel®en, akkor az leárnyékolja mindkét eredeti korongnak a másikra gyakorolt hatását, ezért mind az A-ra, mind
+megfelel®en, akkor az  leárnyékolja  mindkét eredeti korongnak a másikra gyakorolt hatását, ezért mind az A-ra, mind
 a B-re ható er® gyakorlatilag nullára sökken.
-Gabi 
+Gabi
 gyelmeztet rá, hogy az elektromos mez® nagyobb tartományra terjedhet ki, mint a töltött testek mérete,
 ezért Bea ötletét úgy módosítja, hogy a C korong átmér®je legyen pl. 25 m, ahogy a c) ábrán látható. (Az ábra nem
 méretarányos.) Gabi szerint sak ekkor sökken elhanyagolható értékre az A-ra, illetve B-re ható elektromos er®.
@@ -45,21 +45,21 @@ uált), q-val ellentétes el®jel¶ töltések vonzó er®t fejtenek ki, és ez 
 taszító er®. A két töltött korongra ható er® éppen ellentétes irányú lesz, mint addig, amíg nem volt közöttük a nagy
 korong.
 c) Gondolatban fokozatosan növeljük a középs® korong átmér®jét 5 m-r®l 25 m-re. A kezdeti taszító er® sökkenni
-kezd, míg végül  folytonosan változva  vonzó er®be megy át. Közben, valamekkora átmér®nél tehát éppen zérus a
+kezd, míg végül   folytonosan változva   vonzó er®be megy át. Közben, valamekkora átmér®nél tehát éppen zérus a
 töltött korongokra ható er®. Hogy ez mekkora átmér®nél következik be, azt egy ki sit bonyolultabb számítással lehet
 sak meghatározni; ezt azonban nem várta el a versenybizottság a megoldóktól1
 .
-1A kritikus korongméret középiskolás eszközökkel történ® kiszámítására a KöMaL egy kés®bbi számában még visszatérünk.  A Szerk.
+1A  kritikus  korongméret középiskolás eszközökkel történ® kiszámítására a KöMaL egy kés®bbi számában még visszatérünk.   A Szerk.
 5. ábra
 Tájékozódásul vázoljuk a három esetben kialakuló töltéseloszlást (5. ábra), feltéve, hogy eredetileg negatív töltést
 adtunk a korongoknak. (Az ábrák nem méretarányosak.)
 Kiegészítések (Kalina Kende ötlete alapján): a) eset: Vegyük a három korong burkolóhengerét. Képzeljük azt, hogy ez a
-lapos henger teljes egészében homogén vezet®. Vigyünk fel rá 2q töltést, ezek legnagyobb része henger véglapjain jelenik meg,
+ lapos  henger teljes egészében homogén vezet®. Vigyünk fel rá 2q töltést, ezek legnagyobb része henger véglapjain jelenik meg,
 sak egy kis része kerül a henger palástjára. Ha ezután eltávolítjuk a hengernek azt a részét, ami nem a három korong, akkor
 látszik, hogy a középs® korongon nin s töltés, így nem befolyásolja az A és B korong közötti er®hatást.
 b) eset: Ha a középs® korong végtelen nagy lenne, akkor a tükörtöltés módszerét alkalmazva jól látszana, hogy A-ra és B-re
 is vonzóer®t fejt ki a középs® fémsík, miközben az A és B közötti köl sönhatás már nem is lép fel. Most ugyan nem végtelen
-nagy a középs® korong, de területe a kis, töltött A és B korong területének 25-szöröse, távolsága a kis korongoktól 11 mm, ami
+nagy a középs® korong, de területe a kis, töltött A és B korong területének 25-szöröse, távolsága a kis korongoktól 1 1 mm, ami
 átmér®jének 250-ed része. Vagyis a C korong közepén in
 uált, az A és B töltésével ellenkez® el®jel¶ töltés vonzó hatásának kell
 érvényesülnie ebben az esetben is.
@@ -79,7 +79,7 @@ amikor a korongok közé ereszkedett a töltetlen nagy korong.
 A díjak és jutalmak kiosztására Kádár Györgyöt, az Eötvös Loránd Fizikai Társulat f®titkárát és Fekete Lász-
 lót, a MOL magyarországi HR (humáner®forrás fejlesztési) igazgatóját kérte fel a versenybizottság elnöke. Utóbbit
 azért, mert a MOL jóvoltából idén nem sak a legjobb versenyz®k, hanem tanáraik is váratlan jutalomban részesültek:
-egyenként 2525 ezer forint kedvezményt kaptak a Sárospatakon megrendezend® 
+egyenként 25 25 ezer forint kedvezményt kaptak a Sárospatakon megrendezend®
 zikatanári ankét részvételi díjából.
 Els® díjat, akár sak 50 évvel ezel®tt, 2010-ben se adott ki a versenybizottság. (Ehhez mindhárom feladat tökéletes
 megoldására lett volna szükség, ilyen sajnos nem volt.)
@@ -90,13 +90,13 @@ Zámborszky Feren tanítványa; Kalina Kende, a Fazekas Mihály F®v. Gyak. Gimn
 és Csefkó Zoltán tanítványa; és Varga Ádám, a szegedi Ságvári Endre Gyak. Gimn. 12. évf. tanulója, Tóth Károly
 és Hilbert Margit tanítványa.
 Harmadik díj kiadására sem került sor, viszont tizenegy versenyz® kapott di séretet, vele 10 ezer forint érték¶
-könyvjutalmat: Almási Gerg®, az ELTE 
+könyvjutalmat: Almási Gerg®, az ELTE
 zika szakos hallgatója, aki a budapesti Radnóti Miklós Gyak. Gimná-
 ziumban érettségizett mint Szalóki Dezs® és Markovits Tibor tanítványa; Ágoston Tamás, a Fazekas Mihály F®v.
 Gyak. Gimn. 11. évf. tanulója, Dvorák Ce ilia tanítványa; Benedek Ádám, a nagykanizsai Batthyány Lajos Gimn.
 11. évf. tanulója, Dénes Sándorné tanítványa; Béres Bertold, a budapesti Puskás Tivadar Távközlési Te hn. 12. évf.
 tanulója, Beregszászi Zoltán és Alapiné E seri Éva tanítványa; Kéri Zsó
-a Nóra, az ELTE 
+a Nóra, az ELTE
 zika szakos hallgatója,
 aki a budapesti Trefort Ágoston Gyak. Gimnáziumban érettségizett mint Ková s Géza tanítványa; Kószó Simon,
 a szegedi Radnóti Miklós Kís. Gimn. 12. évf. tanulója, Mez® Tamás tanítványa; Major Attila, a szegedi Radnóti
@@ -107,7 +107,7 @@ Pákó Gyula és Flórik György tanítványa; Vona István, a Fazekas Mihály F
 Ce ilia tanítványa.
 A nyertes diákok megjelent tanárai a Vin e Kiadó és a MATFUND Alapítvány által felajánlott könyvekb®l válo-
 gathattak.
-Végül a versenybizottság elnöke felolvasta Veres Gábor 
+Végül a versenybizottság elnöke felolvasta Veres Gábor
 zikus üzenetét, amelyet kérésére intézett a mai verseny-
 z®khöz Genfb®l, ahol a nagy hadronütköztet®ben a nehézionok ütközésével kap solatos izgalmas kísérletekben vesz
 részt.2

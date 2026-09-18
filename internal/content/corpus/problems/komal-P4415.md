@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201202"
 verification_status: pending
 ---
 
-A sample of water is initially has a temperature of 14 $^\circ$C. It is heated to its boiling point at atmospheric pressure, and then it is boiled down. What per cent of the added thermal energy is the work done by the expanding gas? 
+A sample of water is initially has a temperature of 14 $^\circ$C. It is heated to its boiling point at atmospheric pressure, and then it is boiled down. What per cent of the added thermal energy is the work done by the expanding gas?
  (4 pont)

@@ -11,4 +11,4 @@ verification_status: pending
 
 M. 323. Függőleges, sík felületre (pl. zuhanycsőből a fürdőkád oldalára) merőlegesen becsapódó vízsugár parabolaszerű határvonalig terül szét. Mérjük meg, hogyan függ e parabola fókusztávolsága a vízsugár sebességétől!
 
-![figure](../../raw_html/komal_figures/komal-M323-fig1.gif)
+![figure](../../figures/komal/figures/komal-M323-fig1.gif)

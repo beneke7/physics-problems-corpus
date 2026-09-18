@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3925. Milyen színűnek látszik fejünk felett a nappali égbolt 
- a ) a földről; 
- b ) vitorlázó repülőgépről; 
- c ) sugárhajtású vadászgépről; 
- d ) a Föld körül keringő űrállomásról; 
+P. 3925. Milyen színűnek látszik fejünk felett a nappali égbolt
+ a ) a földről;
+ b ) vitorlázó repülőgépről;
+ c ) sugárhajtású vadászgépről;
+ d ) a Föld körül keringő űrállomásról;
  e ) a Holdról nézve?

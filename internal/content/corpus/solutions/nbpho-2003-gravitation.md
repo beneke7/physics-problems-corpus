@@ -34,9 +34,9 @@ bemaximized. Lettheaxisφ = 0begivenbythe
 direction of the acceleration. Carrying a small
 piece of ground from a point (r1,φ1) to anot-
 her point (r2,φ2) must keep the modulus of the
-acceleration vector  g constant, i.e. the vector of
+acceleration vector   g constant, i.e. the vector of
 the small change must be perpendicular to the
-vector  g. Consequently, cosφ1/l2
+vector   g. Consequently, cosφ1/l2
 1 = cosφ2/l2
 2,
 hence l = l0

@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-The length of the newest Indian nuclear submarine is 112 m, its mass is 6000 tons, its maximum speed is 44 km/h and its maximum power is 85 MW. Using these data and the data in the table estimate the 
- a ) maximum thrust of the submarine, 
- b ) the diameter of the body of the submarine. 
+The length of the newest Indian nuclear submarine is 112 m, its mass is 6000 tons, its maximum speed is 44 km/h and its maximum power is 85 MW. Using these data and the data in the table estimate the
+ a ) maximum thrust of the submarine,
+ b ) the diameter of the body of the submarine.
  (4 pont)

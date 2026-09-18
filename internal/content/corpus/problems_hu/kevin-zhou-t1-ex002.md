@@ -31,7 +31,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                      2
-   Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -41,7 +43,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
       Megoldás
       A feladat nehézsége az, hogy a két rekesz nyomása nem egyenlő; ez azért lehetséges, mert a külső ágens tartja a
       dugattyút. A hővezetés ehelyett a hőmérsékleteket teszi egyenlővé. Az ágens által végzett munka
-                                                                            
+
                                                                   dVA dVB
                             dW = −pA dVA − pB dVB = −RT                +       .
                                                                   VA      VB

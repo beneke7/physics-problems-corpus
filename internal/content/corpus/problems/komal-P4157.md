@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-What is the least horizontal force which can turn over a cube which is on a horizontal tabletop? Examine the following three cases: 
- a )  0; 
- b )  =0.2; 
- c )  =1. 
+What is the least horizontal force which can turn over a cube which is on a horizontal tabletop? Examine the following three cases:
+ a )  0;
+ b )  =0.2;
+ c )  =1.
  (5 pont)

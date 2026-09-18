@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-Three thin insulating rods, which all can be considered infinitely long and which are in the same plane, crossing each other such that they form an oblige triangle, are charged uniformly to the same density of charge. Where should a point-like charge be put, if it is to be in equilibrium? 
+Three thin insulating rods, which all can be considered infinitely long and which are in the same plane, crossing each other such that they form an oblige triangle, are charged uniformly to the same density of charge. Where should a point-like charge be put, if it is to be in equilibrium?
  (6 pont)

@@ -23,7 +23,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 ---
 
 18
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -72,7 +74,9 @@ A legegyszerűbb magyarázat a virtuális munka elve.
 
 
                                                   19
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 

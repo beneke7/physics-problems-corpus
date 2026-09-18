@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A solar furnace is a huge concave mirror which is always turned towards the Sun. A piece of metal, which is to be melted, is placed to the focus of the mirror. What can be the greatest temperature at the focus of the solar furnace? 
+A solar furnace is a huge concave mirror which is always turned towards the Sun. A piece of metal, which is to be melted, is placed to the focus of the mirror. What can be the greatest temperature at the focus of the solar furnace?
  (5 pont)

@@ -29,7 +29,9 @@ solution_language: en
          conditions as above. That is, you don’t need to solve for v(t), as it’ll just make things messy.
 
                                                           1
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
      (b) Your equation will only be valid when the projectile is going up; explain why.

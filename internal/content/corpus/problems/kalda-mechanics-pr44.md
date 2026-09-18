@@ -19,4 +19,4 @@ verification_status: pending
 
 An empty cylinder with mass $M$ is rolling without slipping along a slanted surface, whose angle of inclination is $\alpha=45^{\circ}$. On its inner surface can slide freely a small block of mass $m=M / 2$. What is the angle $\beta$ between the normal to the slanted surface and the straight line segment connecting the centre of the cylinder and the block?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr44-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr44-fig1.jpg)

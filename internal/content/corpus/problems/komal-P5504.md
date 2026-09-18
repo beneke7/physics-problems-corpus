@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, graphical-reduction]
 ---
 
-A current of value $I$ flows in a semicircle-shaped wire in the horizontal plane. The radius of the semicircle is $R$. There are long vertical wires attached to the endpoints of the semicircular wire, through which the current is led into the semicircle. The whole arrangement is placed into uniform vertical magnetic field of induction $\boldsymbol B$. What is the magnitude and direction of the magnetic force acting on the ensemble of wires? 
+A current of value $I$ flows in a semicircle-shaped wire in the horizontal plane. The radius of the semicircle is $R$. There are long vertical wires attached to the endpoints of the semicircular wire, through which the current is led into the semicircle. The whole arrangement is placed into uniform vertical magnetic field of induction $\boldsymbol B$. What is the magnitude and direction of the magnetic force acting on the ensemble of wires?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5504-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5504-fig1.gif)

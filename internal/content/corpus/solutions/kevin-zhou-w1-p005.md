@@ -305,7 +305,7 @@ so the total kinetic and potential energy are equal.
 E =
 Z ∞
 −∞
-
+
 1
 2
 µẏ2
@@ -313,7 +313,7 @@ Z ∞
 1
 2
 Ty′2
-
+
 dx.
 Taking the time derivative and applying the wave equation,
 dE
@@ -365,31 +365,31 @@ dx
 =
 µ
 2
-
+
 ∂y
 ∂t
-2
+ 2
 +
 T
 2
-
+
 ∂y
 ∂x
-2
+ 2
 =
 T
 2
 1
 v2
-
+
 ∂y
 ∂t
-2
+ 2
 +
-
+
 ∂y
 ∂x
-2
+ 2
 !
 .
 The triangular pulse has height uτ, and the two halves of it have length vτ. Thus, |∂y/∂t| = u and

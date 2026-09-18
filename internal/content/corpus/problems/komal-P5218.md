@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [smart-coordinates, extremization]
 ---
 
-At the origin of a Cartesian coordinate system there is a small ``point-like'' compass needle, pointing in the direction of the $x$ axis. The equation of one of its magnetic field line is $r=r_0\sin^2\varphi$, where $r$ and $\varphi$ are the polar coordinates of a point on the field line. 
+At the origin of a Cartesian coordinate system there is a small ``point-like'' compass needle, pointing in the direction of the $x$ axis. The equation of one of its magnetic field line is $r=r_0\sin^2\varphi$, where $r$ and $\varphi$ are the polar coordinates of a point on the field line.
 
- $a)$ Write down the equation of the field line in terms of the $x$ and $y$ coordinates, if $r_0=3$ metres. 
- $b)$ At which points of the field line is the magnetic induction (magnetic flux density) perpendicular to the needle? 
+ $a)$ Write down the equation of the field line in terms of the $x$ and $y$ coordinates, if $r_0=3$ metres.
+ $b)$ At which points of the field line is the magnetic induction (magnetic flux density) perpendicular to the needle?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5218-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5218-fig1.gif)

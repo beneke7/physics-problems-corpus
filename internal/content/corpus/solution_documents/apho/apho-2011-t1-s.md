@@ -63,7 +63,8 @@ where      is the charge carriers’ velocity. We therefore have:
 
 
                                                          Page 1 of 2
-The momentum is then given by:
+
+The momentum is then given by:
 
 
                                                                        (       (       ) )

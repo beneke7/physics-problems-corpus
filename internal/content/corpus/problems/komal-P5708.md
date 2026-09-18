@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, conservation-laws]
 ---
 
-The coefficient of friction between the horizontal table shown in the figure and the body of mass $m$ on it is $\mu=0.5$. The pulleys, which can be considered uniform density discs, can rotate without friction, and the ropes do not slip on the rims of the pulleys. What is the magnitude and direction of the force exerted on the ceiling by the fixed pulley attached to it? 
+The coefficient of friction between the horizontal table shown in the figure and the body of mass $m$ on it is $\mu=0.5$. The pulleys, which can be considered uniform density discs, can rotate without friction, and the ropes do not slip on the rims of the pulleys. What is the magnitude and direction of the force exerted on the ceiling by the fixed pulley attached to it?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5708-fig1.png)
+![figure](../../figures/komal/figures/komal-P5708-fig1.png)

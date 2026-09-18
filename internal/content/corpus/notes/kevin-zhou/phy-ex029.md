@@ -70,7 +70,6 @@ additional subtlety.
                             U12 =        dr B1 · B2 = dr J1 · A2 = µ1 · B2 .
                                     µ0
     This is precisely the opposite of Umech .
-52 2. Electromagnetism
 
 
  • To see the two results are consistent, one can show the work required to maintain the dipole’s
@@ -121,7 +120,6 @@ Now we consider the magnetization and magnetizing field.
  • The magnetic field in Ampere’s law in sourced by all current,
 
                                       ∇ × B = µ0 (Jfree + Jbound ).
-53 2. Electromagnetism
 
 
     We define the magnetizing field H so it is sourced only by free current,
@@ -175,7 +173,6 @@ paramagnets.
 diamagnets) and magnetic traps for atomic gases (when the atoms are chosen to be diamagnetic).
 There’s also a cute toy called the levitron, which achieves stable levitation of a permanent magnet
 spinning like a top. A permanent magnet behaves like a paramagnet, in the sense that it tends to
-54 2. Electromagnetism
 
 
 flip over to align with the magnetic field, but the spin of the top keeps the magnet anti-aligned with
@@ -194,7 +191,7 @@ Now we consider Maxwell’s equations in matter.
                                                    Jp =
                                                           ∂t
     in addition to the bound current Jb . Hence Ampere’s law takes the complicated form
-                                                           
+
                                                         ∂P            ∂E
                            ∇ × B = µ0 J f + ∇ × M +           + µ0 ϵ0    .
                                                          ∂t           ∂t
@@ -232,7 +229,6 @@ Now we consider Maxwell’s equations in matter.
                                         = −∇ · Jf = −σ(∇ · E) = − ρf
                                      ∂t                          ϵ
     which reflects the fact that the charge goes to the boundaries of a conductor.
-55 2. Electromagnetism
 
 
  • In the limit that all the free charge has decayed away, the only new term is the µσE term in
@@ -247,7 +243,6 @@ Now we consider Maxwell’s equations in matter.
    waves are reflected from the surface of a conductor, over a length scale called the skin depth.
    Finally, in the quasistatic limit where the ∂ 2 B/∂t2 term is negligible, the wave equation reduces
    to a diffusion equation for B, implying that an induced magnetic field spreads out.
-56 3. Statistical Mechanics
 
 
 3      Statistical Mechanics
@@ -282,7 +277,7 @@ First, we define the microcanonical ensemble.
 
     • Now suppose we allow two systems to weakly interact, so they can exchange energy, but the
       energy levels of the states aren’t significantly shifted. Then the number of states is
-                                                                                                
+
                             Y                              X        S1 (Ei ) + S2 (Etotal − Ei )
                Ω(Etotal ) =    Ω1 (Ei )Ω2 (Etotal − Ei ) =    exp                                  .
                                                                                 kB
@@ -301,7 +296,6 @@ Note. Motivating the fundamental postulate. In a generic dynamical system, we wo
 a generic initial distribution of states to settle into an “attractor”, thereby justifying equilibrium
 ensembles. But the situation in Hamiltonian mechanics is subtler, because Liouville’s theorem tells
 us that phase space attractors don’t exist. Instead, what happens is that any initial distribution
-57 3. Statistical Mechanics
 
 
 gets distorted and folded all throughout the phase space, so that after any coarse-graining, the
@@ -351,7 +345,6 @@ Next, we define temperature.
     Comparing this with our previous result, we find that in thermal equilibrium, the temperatures
     of the two systems are equal. Moreover, in the approach to equilibrium, energy flows from the
     hotter system to the colder one.
-58 3. Statistical Mechanics
 
 
  • The heat capacity is defined as
@@ -408,12 +401,11 @@ We now add pressure and volume as thermodynamic variables.
    example, a gas with (∂p/∂V )|T > 0 is unstable to expansion or collapse.
 
 Next, we define the canonical ensemble.
-59 3. Statistical Mechanics
 
 
  • Consider a system S in thermal equilibrium with a large reservoir R. Then the number of
    microstates associated with a state where the system has energy En is
-                                                                                          
+
                                        SR (Etotal − En )           SR (Etotal )    ∂SR En
          Ω = ΩR (Etotal − En ) = exp                       ≈ exp                −
                                              kB                        kB         ∂Etotal kB

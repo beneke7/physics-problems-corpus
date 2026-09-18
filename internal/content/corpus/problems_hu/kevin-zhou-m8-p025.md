@@ -26,7 +26,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     amplitude θ0 in terms of an integral, then approximated the integral for θ0 ≪ 1 to find
 
                                                         θ02
-                                                                   
+
 
                                            ω = ω0 1 −       + O(θ0 )
 

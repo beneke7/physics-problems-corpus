@@ -33,7 +33,8 @@ W – wooden base
 
 Diffuse lighting is used for other parts. In this case the light is direction up and away from the box with
 ferrofluid.
-Part A Plane pulses
+
+Part A Plane pulses
 
 A.1 Direct lighting was used, so see above for diagram.
 
@@ -60,7 +61,8 @@ default
 This gives 𝑣 = 0.26 ± 0.02 m/s
 
 A.3 The uncertainty is estimated from the spread of values.
-Part B Wave pulses in fluid of varying depth
+
+Part B Wave pulses in fluid of varying depth
 
 B.1
 i.
@@ -76,7 +78,8 @@ Since the depth varies linearly, 𝑑 = 𝑦 𝑡𝑎𝑛𝜃.
               =
 Here tan 𝜃 = = 0.103 ± 0.006, so 𝑑 = 0.103 𝑦.
               >
-B.2
+
+B.2
 
 A – fastest at largest y.
 
@@ -84,7 +87,8 @@ A – fastest at largest y.
 
 
 B – slowest at y=0.
-B.3 If x=0 when t=0, then 𝑥 = 𝑣𝑡, however, 𝑣 = 𝛼 𝑑, so 𝑥 = 𝛼 𝑑𝑡.
+
+B.3 If x=0 when t=0, then 𝑥 = 𝑣𝑡, however, 𝑣 = 𝛼 𝑑, so 𝑥 = 𝛼 𝑑𝑡.
 Hence, 𝑥 = 𝛼 𝑦 tan 𝜃 𝑡, or equivalently, 𝑥 A = 𝛼 A tan 𝜃 𝑡 A 𝑦.
                =
 Here tan 𝜃 =       = 0.103 ± 0.006, so 𝑥 = 𝛼 0.103𝑦 ⋅ 𝑡.
@@ -94,7 +98,8 @@ This approximation will be least valid when the direction of propagation varies 
 direction, and when the depth is least as there are nonlinear effects. Both of these happen for small y, in
 other words, 𝑦 < 𝑘 for some constant 𝑘. This is shown as the grey shaded region marked V on the diagram
 below.
-B.4 Diffuse light is more appropriate as the pulses are curved, so it is not possible to get direct reflections
+
+B.4 Diffuse light is more appropriate as the pulses are curved, so it is not possible to get direct reflections
 from the available source from enough of the pulse. See the second diagram on p. 1 for light position.
 
 Videos of the curved pulses are recorded, with adjustments to the lighting, until a clearly visible pulse is
@@ -122,7 +127,8 @@ and the offset in the 𝑥 = 0 position is 𝑥G = 4.5 gr sq.
          9.8           6.0          28.1                     1.1
         10.0           8.0          30.3                     1.2
          9.9           7.0          29.2                     1.2
-B.5
+
+B.5
                             𝑦 vs 𝑥 A , 𝑦 > 2, in the 8th frame
                10
 
@@ -158,7 +164,8 @@ Converting to SI units, the slope m = 0.280 /m.
 Hence 𝛼 = 5.9 ± 0.5 𝑚Q/A 𝑠 RQ , and 𝑣 𝑑 = 5.9 × 𝑑.
 
 Uncertainty was calculated from the slope of the line of worst fit m = 0.331/m.
-Part C Wave and magnetic effects
+
+Part C Wave and magnetic effects
 
 Mechanically driven by pushing glass
 
@@ -207,7 +214,8 @@ Magnetically driven
                                        Each line represents the
                                        position of a pulse front in
                                        a particular frame.
-Part D Internal properties of ferrofluid within a strong magnetic field
+
+Part D Internal properties of ferrofluid within a strong magnetic field
 D.1
 
 
@@ -231,7 +239,8 @@ Measurements of the y position at two times, and the difference in the times all
 
 The height of the lump can be estimated by observing from the side, or more accurately by using the
 limiting value from E1 Part C.
-D.3 The light was placed in the diffuse light set up. See the second figure on p.1.
+
+D.3 The light was placed in the diffuse light set up. See the second figure on p.1.
 
 
 
@@ -240,7 +249,8 @@ The black represents observed pulses over the magnet x. The blue represents the 
 the pulseafter travelled that distance.
 
 D.4 The diffuse lighting set up was used again.
-D.5
+
+D.5
 A wave front was observed to travel as additional 0.8 gr sq over 8 frames. The extent of the lump is assumed
 to be 3cm in diameter and the additional distance in the time all occurs over the lump. The wave crossed the
 lump in around 2 frames This means that the wave travels at a speed of around 0.35 m/s over the lump.

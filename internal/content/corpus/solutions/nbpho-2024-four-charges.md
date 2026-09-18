@@ -273,11 +273,11 @@ mv2
 mv2
 0
 2
-
+
 (c + a)2
 c2 − a2
 − 1
-
+
 =
 mv2
 0
@@ -299,7 +299,7 @@ c + a
 Inserting this into the total energy expres‐
 sion we finally get
 E = kqQe
-
+
 1
 2a
 ·
@@ -308,7 +308,7 @@ c + a
 +
 1
 c + a
-
+
 =
 kqQe
 2a

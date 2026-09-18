@@ -59,7 +59,7 @@ Finally, using the numbers given above, we obtain $\kappa=0.80$. (0.2 pts)
 
 Points are given only if the result is between 0.6 and 1.
 iv) (3.5 points) We proceed similarly to the previous task, except that now we need to subtract also the field of the permanent magnet (previousy the distance from the magnet was so big that the field of the magnet was neglibly small). To that end, we repeat experiment with the magnet only, by moving stripe away as far as possible.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p4.png)
+![solution page](../../figures/nbpho/figures/nbpho-2022-solution-p4.png)
 
 Up to the third data point in the range $3 \mathrm{~cm} \leq x<8 \mathrm{~cm}$, for each one $\mathbf{0 . 3}$ pts. No marks here if the field of the permanent magnet is not subtracted.
 

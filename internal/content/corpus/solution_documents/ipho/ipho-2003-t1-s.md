@@ -17,16 +17,16 @@ Solution to Theoretical Question 1
 Part A
 (a) Since the length of the string L = s + Rθ is constant, its rate of change must be zero.
     Hence we have
-                                           s + Rθ = 0                               (A1)
-(b) Relative to O, Q moves on a circle of radius R with angular velocity θ , so
+                                           s  + Rθ  = 0                               (A1)
+(b) Relative to O, Q moves on a circle of radius R with angular velocity θ  , so
                                         K
-                                        vQ = Rθ tˆ = − s tˆ                         (A2)
+                                        vQ = Rθ  tˆ = − s  tˆ                         (A2)
 
 (c) Refer to Fig. A1. Relative to Q, the displacement of P in a time interval ∆t
         K
-    is ∆r ′ = ( s∆θ )( − rˆ) + ( ∆s )tˆ = [( sθ)( − rˆ) + s tˆ]∆t . It follows
+    is ∆r ′ = ( s∆θ )( − rˆ) + ( ∆s )tˆ = [( sθ )( − rˆ) + s  tˆ]∆t . It follows
                                                K
-                                               v ′ = − sθ rˆ + s tˆ                                 (A3)
+                                               v ′ = − sθ  rˆ + s  tˆ                                 (A3)
 
 
                                                                  Q
@@ -43,15 +43,15 @@ Part A
 (d) The velocity of the particle relative to O is the sum of the two relative velocities given in
     Eqs. (A2) and (A3) so that
                                K K K
-                              v = v ′ + vQ = ( − sθ rˆ + s tˆ ) + Rθ tˆ = − sθ rˆ       (A4)
+                              v = v ′ + vQ = ( − sθ  rˆ + s  tˆ ) + Rθ  tˆ = − sθ  rˆ       (A4)
                                                                                     K
 (e) Refer to Fig. A2. The ( − tˆ )-component of the velocity change ∆v is given
                  K                                                                    K    K
-    by ( −tˆ) ⋅ ∆v = v∆θ = vθ ∆t . Therefore, the tˆ -component of the acceleration a = ∆v / ∆t
-    is given by tˆ ⋅ aˆ = −vθ . Since the speed v of the particle is sθ according to Eq. (A4),
+    by ( −tˆ) ⋅ ∆v = v∆θ = vθ  ∆t . Therefore, the tˆ -component of the acceleration a = ∆v / ∆t
+    is given by tˆ ⋅ aˆ = −vθ  . Since the speed v of the particle is sθ  according to Eq. (A4),
     we see that the tˆ -component of the particle’s acceleration at P is given by
                                    K
-                                   a ⋅ tˆ = − vθ = −( sθ)θ = − sθ 2                               (A5)
+                                   a ⋅ tˆ = − vθ  = −( sθ )θ  = − sθ  2                               (A5)
                                                − r̂       − tˆ
                                                                      v ∆θ
                                                Q                                ∆v
@@ -63,9 +63,11 @@ Part A
                                                                                           Figure A2
                           P                                                 O
                                                          12
-    Note that, from Fig. A2, the radial component of the acceleration may also be obtained as
+
+
+    Note that, from Fig. A2, the radial component of the acceleration may also be obtained as
     K
-    a ⋅ rˆ = −dv / dt = −d ( sθ) / dt .
+    a ⋅ rˆ = −dv / dt = −d ( sθ ) / dt .
 
 (f) Refer to Fig. A3. The gravitational potential energy of the particle is given by U = −mgh .
     It may be expressed in terms of s and θ as
@@ -114,7 +116,9 @@ Part A
 
 
                                                                13
-                                                     1 2
+
+
+                                                     1 2
                                        E=0=           mv + U m                           (A8)
                                                      2 m
   From Eqs. (A7) and (A8), we obtain
@@ -128,14 +132,14 @@ Part B
                            1 2               1
                      E=0=    mv + U (θ ) = mv 2 − mg[ R(1 − cosθ ) + s sin θ ]           (B1)
                            2                 2
-    From Eq. (A4), the speed v is equal to sθ . Therefore, Eq. (B1) implies
+    From Eq. (A4), the speed v is equal to sθ  . Therefore, Eq. (B1) implies
 
-                                v 2 = ( sθ) 2 = 2 g[ R(1 − cosθ ) + s sin θ ]           (B2)
+                                v 2 = ( sθ ) 2 = 2 g[ R(1 − cosθ ) + s sin θ ]           (B2)
 
     Let T be the tension in the string. Then, as Fig. B1 shows, the tˆ -component of the net
     force on the particle is –T + mg sin θ . From Eq. (A5), the tangential acceleration of the
-    particle is (− sθ 2 ) . Thus, by Newton’s second law, we have
-                                       m(− sθ 2 ) = −T + mg sin θ                       (B3)
+    particle is (− sθ  2 ) . Thus, by Newton’s second law, we have
+                                       m(− sθ  2 ) = −T + mg sin θ                       (B3)
 
                                                          x
                                                              A
@@ -152,7 +156,7 @@ Part B
 
     According to the last two equations, the tension may be expressed as
                                                      mg
-                         T = m( sθ 2 + g sin θ ) =       [2 R(1 − cosθ ) + 3s sin θ ]
+                         T = m( sθ  2 + g sin θ ) =       [2 R(1 − cosθ ) + 3s sin θ ]
                                                        s
                               2mgR        θ 3            L
                             =       [tan − (θ − )]( sin θ )                              (B4)
@@ -168,7 +172,9 @@ Part B
 
 
                                                       14
-          y
+
+
+          y
                                            Figure B2
          30
 
@@ -220,7 +226,9 @@ is given by
 
 
                                                     15
-                                         9π 2   π 9π   2R    π
+
+
+                                         9π 2   π 9π   2R    π
                  s min = L − Rθ s = R(     + cot − ) =    cot = 3.352 R                                           (B8)
                                           8 3   16 8    3    16
     When θ = θ s , we have T = 0 and Eqs. (B2) and (B3) then leads to v 2s = − gs min sin θ s .
@@ -272,7 +280,9 @@ is given by
 
 
                                                        16
-Part C
+
+
+Part C
 (j) Assume the weight is initially lower than O by h as shown in Fig. C1.
 
                                                             x
@@ -308,17 +318,19 @@ is given by
                                            2
     The square of the particle’s speed is accordingly given by
                                             2 MgD                       s
-                           v 2 = ( sθ) 2 =        + 2 gR (1 − cos θ ) + sin θ                (C7)
+                           v 2 = ( sθ ) 2 =        + 2 gR (1 − cos θ ) + sin θ                (C7)
                                               m                         R
     Since Eq. (B3) stills applies, the tension T of the string is given by
-                                       − T + mg sin θ = m(− sθ 2 )                           (C8)
+                                       − T + mg sin θ = m(− sθ  2 )                           (C8)
     From the last two equations, it follows
 
 
 
 
                                                  17
-                      T = m( sθ 2 + g sin θ )
+
+
+                      T = m( sθ  2 + g sin θ )
                              mg 2 M
                          =          D + 2 R(1 − cos θ ) + 3s sin θ               (C9)
                               s  m
@@ -377,30 +389,32 @@ The critical value for the ratio D/L is therefore
                                                  3m
 
                                                  18
-                                    Marking Scheme
+
+
+                                    Marking Scheme
 
                                Theoretical Question 1
                             A Swing with a Falling Weight
  Total      Sub
                                    Marking Scheme for Answers to the Problem
 Scores     Scores
-Part A       (a)    Relation between θ and s . ( s = − Rθ )
-                    ¾ 0.2 for θ ∝ s .
+Part A       (a)    Relation between θ  and s  . ( s  = − Rθ  )
+                    ¾ 0.2 for θ  ∝ s  .
 4.3 pts.    0.5     ¾ 0.3 for proportionality constant (-R).
                                                       K
-            (b)     Velocity of Q relative to O. ( v = Rθ tˆ )
+            (b)     Velocity of Q relative to O. ( v = Rθ  tˆ )
                                                        Q
 
 
-            0.5     ¾ 0.2 for magnitude R θ .
+            0.5     ¾ 0.2 for magnitude R θ  .
                     ¾ 0.3 for direction tˆ .
                                                               K
-            (c)     Particle’s velocity at P relative to Q. ( v ′ = − sθ rˆ + s tˆ )
+            (c)     Particle’s velocity at P relative to Q. ( v ′ = − sθ  rˆ + s  tˆ )
                     ¾ 0.2+0.1 for magnitude and direction of r̂ -component.
             0.7
                     ¾ 0.3+0.1 for magnitude and direction of tˆ -component.
                                                                   K K K
-            (d)     Particle’s velocity at P relative to O. ( v = v ′ + vQ = − sθ rˆ )
+            (d)     Particle’s velocity at P relative to O. ( v = v ′ + vQ = − sθ  rˆ )
             0.7                                      K         K
                     ¾ 0.3 for vector addition of v ′ and vQ .
                                                                       K
@@ -411,7 +425,7 @@ Part A       (a)    Relation between θ and s . ( s = − Rθ )
             0.7               K
                             | a ⋅ tˆ | = v 2 / s .
                                     K
-                    ¾ 0.4 for a ⋅ tˆ = − sθ 2 (0.1 for minus sign.)
+                    ¾ 0.4 for a ⋅ tˆ = − sθ  2 (0.1 for minus sign.)
             (f)     Potential energy U.
                     ¾ 0.2 for formula U = −mgh .
             0.5     ¾ 0.3 for h = R(1 − cosθ ) + s sin θ or U as a function of θ, s, and R.
@@ -422,8 +436,8 @@ Part A       (a)    Relation between θ and s . ( s = − Rθ )
 Part B      (h)     Particle’s speed vs when QP is shortest.
 
 4.3 pts.    2.4     ¾ 0.4 for tension T becomes zero when QP is shortest.
-                    ¾ 0.3 for equation of motion − T + mg sin θ = m(− sθ 2 ) .
-                    ¾ 0.3 for E = 0 = m( sθ) 2 / 2 − mg[ R(1 − cosθ ) + s sin θ ] .
+                    ¾ 0.3 for equation of motion − T + mg sin θ = m(− sθ  2 ) .
+                    ¾ 0.3 for E = 0 = m( sθ ) 2 / 2 − mg[ R(1 − cosθ ) + s sin θ ] .
                               3        L       θ
                     ¾ 0.4 for    (θ s − ) = tan s .
                               2        R        2
@@ -434,7 +448,9 @@ Part B      (h)     Particle’s speed vs when QP is shortest.
 
 
                                                19
-          (i)   The speed vH of the particle at its highest point.
+
+
+          (i)   The speed vH of the particle at its highest point.
                 ¾ 0.4 for particle undergoes projectile motion when θ ≥ θ s .
           1.9   ¾ 0.3 for angle of projection φ = (3π / 2 − θ s ) .
                 ¾ 0.3 for v H is the y-component of its velocity at θ = θ s .
@@ -446,7 +462,7 @@ Part C    (j)   The critical value α c of the ratio D/L.
 3.4 pts   3.4
                 ¾ 0.3 for s = L − D − Rθ .
                 ¾ 0.3 for E ′ = MgD = mv 2 / 2 − mg[ R(1 − cosθ ) + s sin θ ] .
-                ¾ 0.3 for − T + mg sin θ = m(− sθ 2 ) .
+                ¾ 0.3 for − T + mg sin θ = m(− sθ  2 ) .
                 ¾   0.3 for concluding T must not be negative.
                 ¾   0.6 for an inequality leading to the determination of the range of D/L.
                 ¾   0.6 for solving the inequality to give the range of α = D/L.

@@ -32,8 +32,8 @@ IPhO-measure is a multimeter capable of measuring voltage V and current $I$ simu
 ## Electrical behaviour
 
 The device behaves as an ammeter and a voltmeter connected as follows.
-![](ipho-2012-e-qe2-4-fig01.png)
-![](ipho-2012-e-qe2-4-fig02.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-4-fig01.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-4-fig02.png)
 
 ## Basic usage
 
@@ -47,7 +47,7 @@ The device behaves as an ammeter and a voltmeter connected as follows.
 
 ## Display
 
-![](ipho-2012-e-qe2-4-fig03.png)
+![](../../figures/ipho/figures/ipho-2012-e-qe2-4-fig03.png)
 
 A displayed sample consists of nine variables:
 

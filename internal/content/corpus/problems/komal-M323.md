@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201204"
 verification_status: flagged
 ---
 
-A beam of water, which hits a vertical plane surface perpendicularly, spreads out such that it has a parabolic boundary. (E.g. water coming from the shower hitting the side of the bathtub.) Measure how the focal length of this parabola depends on the speed of the water. 
+A beam of water, which hits a vertical plane surface perpendicularly, spreads out such that it has a parabolic boundary. (E.g. water coming from the shower hitting the side of the bathtub.) Measure how the focal length of this parabola depends on the speed of the water.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M323-fig1.gif)
+![figure](../../figures/komal/figures/komal-M323-fig1.gif)

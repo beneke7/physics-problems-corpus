@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4414. Igaz-e, hogy a Föld kevésbé vonzza a Holdat, mint a Nap? Ha igaz, akkor miért nem a Nap körül kering a Hold, és miért a Föld körül? 
+P. 4414. Igaz-e, hogy a Föld kevésbé vonzza a Holdat, mint a Nap? Ha igaz, akkor miért nem a Nap körül kering a Hold, és miért a Föld körül?
  Lánczos Kornél verseny, Székesfehérvár

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201303"
 verification_status: pending
 ---
 
-News: Each saved cubic metre of natural gas protects the environment from the emission of 1.7 kg of carbon-dioxide gas. 97% of the natural gas is methane. 
- a ) What is the temperature of the methane if 1.7 kg carbon-dioxide is emitted during the burning of 1 cubic metre of methane at normal pressure? 
- b ) How many kg Oxygen is used and how much water vapour is gained? 
- c ) By what amount is the calorific value of 1 cubic metre of methane smaller than its heat of combustion? 
+News: Each saved cubic metre of natural gas protects the environment from the emission of 1.7 kg of carbon-dioxide gas. 97% of the natural gas is methane.
+ a ) What is the temperature of the methane if 1.7 kg carbon-dioxide is emitted during the burning of 1 cubic metre of methane at normal pressure?
+ b ) How many kg Oxygen is used and how much water vapour is gained?
+ c ) By what amount is the calorific value of 1 cubic metre of methane smaller than its heat of combustion?
  (4 pont)

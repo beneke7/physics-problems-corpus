@@ -18,15 +18,15 @@ Roll No.
 
 
 Q1.a A particle of mass m slides along a frictionless track, fixed in the horizontal plane, of the form
-� = 0� exp(−��) where � is a positive constant . Its initial speed at � = 0 is � 0 when � = 0. Recall that
-                             ��         ��       ��
-in polar coordinates � = � � , �� = �= �� � + � �� � , � and � are unit vectors in the radial direction
-and a direction perpendicular to � respectively.
+  = 0  exp(−  ) where   is a positive constant . Its initial speed at   = 0 is   0 when   = 0. Recall that
+
+in polar coordinates   =     ,    =  =      +        ,   and   are unit vectors in the radial direction
+and a direction perpendicular to   respectively.
 
 
 
 
-     ( i) Find the � dependence of both the speed and the angle � that the velocity vector makes with the
+     ( i) Find the   dependence of both the speed and the angle   that the velocity vector makes with the
  radial line connecting origin O with the particle.                                               (2 + 2)
 
 Only force acting on the particle is the Normal force N which does no work.                                  (1)
@@ -39,80 +39,84 @@ Thus v=v
 
 Let α be the angle made by the velocity vector with the radial direction. Then
 
-        ��      ��
- tan α = � −         = 1/a and hence is a constant.                                                                (2)
-        ��      ��
+
+ tan α =   −         = 1/a and hence is a constant.                                                                (2)
+
 
 
 
 
   v(θ) = constant0 =
                    and
-                     v independent of �
+                     v independent of
 
   α(θ) = constant =-11/a
-                     tan and independent of �
+                     tan and independent of
 
 
 
 
                                                    1
-                                                 Roll No.
+
+
+                                                 Roll No.
                                                                                -               -
 
 
 
 
-                                                                        ��
-(ii) Obtain an expression for the rate of change of angular momentum �� about O in terms of � and other
+
+(ii) Obtain an expression for the rate of change of angular momentum    about O in terms of   and other
 related quantities.                                                            (4)
 
-Angular momentum about O : � 0=����
-                                 ���directed out of the plane of motion
+Angular momentum about O :   0=
+                                    directed out of the plane of motion
 
                                                                                                               (1)
-��     ��                 2
-��
-   = � ��   � 0 sin � = −��
-                          0 ���� ���� (3)
+                          2
+
+   =          0 sin   = −
+                          0           (3)
 
 
 
 
-  dL/dt = −��02 ���� ����
+  dL/dt = −  02
 
 
 
-( iii) ) Obtain an expression for the normal force N exerted by the track on the particle in terms of � , �
+( iii) ) Obtain an expression for the normal force N exerted by the track on the particle in terms of   ,
 and other related quantities.                                                                          (2)
 
-Torque about O: � = −�� ����
+Torque about O:   = −
 
-                �� 02
-Hence � =
-        �
-                         � ��                   (2)
-               0 1+� 2
+                   02
+Hence   =
 
-
+                                                (2)
+               0 1+  2
 
 
-            �� 02
-  N(θ) =�             � ��
-            0 1+� 2
+
+
+               02
+  N(θ) =
+            0 1+  2
 
 
 
 
                                                       2
-                                                  Roll No.
+
+
+                                                  Roll No.
                                                                                 -               -
 
 
 
 
-Q 1 b) A cylinder of mass � and radius � is placed on an inclined plane with angle of inclination θ. The
-inclined plane has acceleration � 0 with respect to an inertial frame as shown in the figure.
+Q 1 b) A cylinder of mass   and radius   is placed on an inclined plane with angle of inclination θ. The
+inclined plane has acceleration   0 with respect to an inertial frame as shown in the figure.
 
 
 
@@ -124,32 +128,34 @@ Assuming the cylinder rolls without slipping,
 
 
 
-(ii) Find the acceleration � of the center of mass of the cylinder with respect to an inertial frame.   (8)
+(ii) Find the acceleration   of the center of mass of the cylinder with respect to an inertial frame.   (8)
 
  Choose the noninertial frame of the inclined plane. Let the acceleration of the cylinder in this fram
-� 1 and the angular acceleration
-                            1.   �
+  1 and the angular acceleration
+                            1.
                 ′
-� − �� ���� − � ���� = 0                (1)
-−������ + � ′ ���� − �� = ��1         (1)
-                     �
-�� � = ��1 =>� � = 2 � 1                         (2)
-Since ′� = �� 0
-                       �
-�� 0���� − �� ���� − � 1 = ��1
+  −         −        = 0                (1)
+−       +   ′      −    =   1         (1)
+
+     =   1 =>    = 2   1                         (2)
+Since ′  =    0
+
+   0     −         −   1 =   1
                           2
          2
-= >�
-   1 = 3 (� 0 ���� − � ����)                  (2)
-Thus � = 1 � + 0� =� 1 ���� − �0 � + �1���� �                       (2)
+= >
+   1 = 3 (  0      −       )                  (2)
+Thus   = 1   + 0  =  1      −  0   +  1                             (2)
                                                   2
-  � = �1 ���� − �0 � + �1���� �        where 1� = 3 (� 0 ���� − � ����)
+    =  1      −  0   +  1              where 1  = 3 (  0      −       )
 
 
 
 
                                                        3
-                                                Roll No.
+
+
+                                                Roll No.
                                                                                -           -
 
 
@@ -189,15 +195,17 @@ charges.
      Total field inside a conductor is 0 , thus induced field at P E = - E P (1.0)
 
 
-                 �     2 2              9            3  9         3
-       E=-                   ( −2 3 + 2 �+             +2   �+      −   9 �)
-         E = 4�� 0� 2 27 3                          2            2
+                       2 2              9            3  9         3
+       E=-                   ( −2 3 + 2  +             +2    +      −   9  )
+         E = 4   0  2 27 3                          2            2
 
 
 
 
                                                       4
-                                               Roll No.
+
+
+                                               Roll No.
                                                                          -                 -
 
 
@@ -223,7 +231,9 @@ V =Q/(4πε0R)(16/15 - (2/9)1/2 -    (2/3)1/2)
 
 
                                                   5
-                                            Roll No.
+
+
+                                            Roll No.
                                                                        -              -
 
 
@@ -291,7 +301,9 @@ E = 1/4πε
 
 
                                                 6
-                                             Roll No.
+
+
+                                             Roll No.
                                                                        -              -
 
 
@@ -353,7 +365,9 @@ Nature of force: repulsive
 
 
 Nature of the force :                           7
-                                              Roll No.
+
+
+                                              Roll No.
                                                                           -             -
 
 
@@ -387,7 +401,9 @@ F=Q/4πε01/4 δ2 (-z): Nature attractive         (0.5) + (0.5)
 
 
                                                   8
-                                                 Roll No.
+
+
+                                                 Roll No.
                                                                               -               -
 
 
@@ -421,7 +437,9 @@ n=2                                                                             
 
 
                                                      9
-                                               Roll No.
+
+
+                                               Roll No.
                                                                             -               -
 
 
@@ -464,7 +482,9 @@ Now i = Sin  (n Sin r) = -1Sin      -1
 
 
                                                    10
-                                                  Roll No.
+
+
+                                                  Roll No.
                                                                    -              -
 
 
@@ -493,16 +513,16 @@ Sin-1(n Sin(tan
 
 
 
-               �
- For 0 ≤ � ≤
+
+ For 0 ≤   ≤
                2
 
   Sin-1(n Sin(tan
                -1
                  ((2m)b/d)) < i <-1(n       -1
                                     SinSin(tan((2m+1)b/d)) for m= 0, 1,2,3 etc.
-        �
- For −2 ≤ � ≤ 0
+
+ For −2 ≤   ≤ 0
 
  Sin-1(n Sin(tan
               -1                  -1
@@ -522,49 +542,51 @@ Sin-1(n Sin(tan
 
 
                                                        11
-                                                 Roll No.
+
+
+                                                 Roll No.
                                                                               -                  -
 
 
 
  3 c) Whenever an object is heated the dimensions as well as the refractive index changes. Within a range
 of temperatures the changes are linear in the temperature differences. If the length and refractive index of
-a cylindrical object at room temperature (240C) is � and � respectively, then the changes ∆� ��� ∆�
-                                                      1 ∆�            Δ�
-are characterized by two properties of the body � = � ∆� ��� � = Δ� where Δ� is the change in
-temperature. If � is known � can be determined from observing the interference pattern due to
+a cylindrical object at room temperature (240C) is   and   respectively, then the changes ∆      ∆
+                                                      1 ∆             Δ
+are characterized by two properties of the body   =   ∆        = Δ  where Δ  is the change in
+temperature. If   is known   can be determined from observing the interference pattern due to
 reflection from the top surface and the bottom surface of a normally incident Laser beam of
-wavelength � on a cylindrical sample of length L. As the temperature changes the fringe patterns
+wavelength   on a cylindrical sample of length L. As the temperature changes the fringe patterns
 shift.
 
-(i) Obtain a relation between � and the fringe shift � .                                             (3)
+(i) Obtain a relation between   and the fringe shift   .                                             (3)
                                                                                              1
-Ans. Optical path difference is 2Ln. Constructive interference takes place if 2�� = (�1 + 2)� (1)
+Ans. Optical path difference is 2Ln. Constructive interference takes place if 2   = ( 1 + 2)  (1)
 
-When the Temperature changes from T to � + ΔTconstructive interference takes place if
+When the Temperature changes from T to   + ΔTconstructive interference takes place if
                                 1
-2 � + Δ� � + Δ� = (� 2 + )� where Δ� = ��Δ�                         (1)
+2   + Δ    + Δ  = (  2 + )  where Δ  =   Δ                          (1)
                                 2
 
-           Δ�
-Thus 2� Δ� + �� ΔT = (� 1 − �2 ) � = ��
+           Δ
+Thus 2  Δ  +    ΔT = (  1 −  2 )   =
 
-      Δ�    ��
-�=       =      −   ��                                       (1)
-      Δ�   2�Δ�
-
-
+      Δ
+ =       =      −                                            (1)
+      Δ    2 Δ
 
 
-      ��
+
+
+
  γ =
-   2�Δ�
-        − ��
+   2 Δ
+        −
 
 
 
 
-(ii) In a real experiment with L=1.0cm., n= 1.515 and � = 7.19 X 10-16 0 C -1 a Laser beam of � =
+(ii) In a real experiment with L=1.0cm., n= 1.515 and   = 7.19 X 10-16 0 C -1 a Laser beam of   =
 632nm.was used. The data of the fringe shift with the temperature is given below:
 
 m          1        2         3         4         5          6        7           8       9           10
@@ -581,7 +603,9 @@ Plot a graph between m and T0C.                                                 
 
 
                                                      12
-                                                Roll No.
+
+
+                                                Roll No.
                                                                              -              -
 
 
@@ -594,23 +618,27 @@ choosing two far off points to calculate slope)
 
 
                                                    13
-Roll No.
+
+
+Roll No.
            -   -
 
 
 
 
   14
-                                                Roll No.
+
+
+                                                Roll No.
                                                                               -   -
 
 
 
 
-(iii) From the plot find �.                                            (3)
+(iii) From the plot find  .                                            (3)
               −7
      12×632 ×10
-�=     2×1×29
+ =     2×1×29
                  −     1.515 × 7.19 ×−16
                                       10
 
@@ -627,7 +655,9 @@ choosing two far off points to calculate slope)
 
 
                                                     15
-                                                   Roll No.
+
+
+                                                   Roll No.
                                                                                 -               -
 
 
@@ -671,59 +701,63 @@ P1V1 = nRT1        Hence T1 = (27/4-(27/8)2/5)T0                                
 
 
                                                        16
-                                                   Roll No.
+
+
+                                                   Roll No.
                                                                               -                    -
 
 
 
-b) Find the work ∆� done on the gas in the second chamber in terms of the molar specific heat and T0.
+b) Find the work ∆  done on the gas in the second chamber in terms of the molar specific heat and T0.
 
                                                                                                              (2)
 
-Since the change is adiabatic Δ� = 0. Thus Δ� = − Δ�                                     (1)
-         �2          � ��        �    1−�      1−�        1
-∆� =    �0
-            � �� = � � 2 � �   = 1−� �2     − �0      = 1−� �2�2 − �0�0
+Since the change is adiabatic Δ  = 0. Thus Δ  = − Δ                                      (1)
+          2                           1−       1−         1
+∆  =     0
+                 =     2       = 1−   2     −  0      = 1−   2 2 −  0 0
                       0
 
-          �
-With � = �� ��� �� − �� = �, ∆� = − ��� ((27/8)2/5 - 1)T0                              (1)
-            �
 
-
-Alternatively Δ� = − Δ� = −��� (�2 − 1�) = − ��� ((27/8)2/5 - 1)T0                     (1 + 1)
+With   =           −    =  , ∆  = −     ((27/8)2/5 - 1)T0                              (1)
 
 
 
-
-∆� = ��� ((27/8)2/5 - 1)T0
+Alternatively Δ  = − Δ  = −    ( 2 − 1 ) = −     ((27/8)2/5 - 1)T0                     (1 + 1)
 
 
 
 
-c) Find the amount of heat ∆� that flows into the first chamber in terms of the molar specific heat and T0.
+∆  =     ((27/8)2/5 - 1)T0
+
+
+
+
+c) Find the amount of heat ∆  that flows into the first chamber in terms of the molar specific heat and T0.
 
                                                                                                              (3)
 
-              �� �1 − �0 + ��� ((27/8)2/5 - 1)T0
-Δ� = Δ� + Δ� = �                                                                                       (1) + (1)
+                  1 −  0 +     ((27/8)2/5 - 1)T0
+Δ  = Δ  + Δ  =                                                                                         (1) + (1)
 
 
 
               19
-=> Δ� = 4 ��� �0                                                                             (1)
+=> Δ  = 4      0                                                                             (1)
 
 
 
 
           19
-    ∆� = 4 ��� �0
+    ∆  = 4      0
 
 
 
 
                                                      17
-                                                   Roll No.
+
+
+                                                   Roll No.
                                                                                       -               -
 
 
@@ -777,7 +811,9 @@ t(min)       T= (T1+T2)/20C    ΔT =T2-T10C         Δt = t2-t1(min)         ΔT
 
 
                                                        18
-                                                Roll No.
+
+
+                                                Roll No.
                                                                              -              -
 
 
@@ -802,14 +838,18 @@ for indicating scale on y axis; 1.5 marks for a smooth plot; 0.5 marks for indic
 
 
                                                      19
-Roll No.
+
+
+Roll No.
            -   -
 
 
 
 
   20
-                                                 Roll No.
+
+
+                                                 Roll No.
                                                                                -               -
 
 
@@ -856,14 +896,18 @@ choosing two far off points to calculate slope)
 
 
                                                      21
-Roll No.
+
+
+Roll No.
            -   -
 
 
 
 
   22
-                                                  Roll No.
+
+
+                                                  Roll No.
                                                                                 -               -
 
 
@@ -899,47 +943,49 @@ Ans. (dQ/dt) t= 22min = L (dm/dt) t=22min
 
 
                                                      23
-                                                       Roll No.
+
+
+                                                       Roll No.
                                                                                     -               -
 
 
 
-Q6) A Schwarzschild black hole is characterized by its mass � and a mathematical spherical surface of
-                  2��
-radius �� =        �2
+Q6) A Schwarzschild black hole is characterized by its mass   and a mathematical spherical surface of
+                  2
+radius    =         2
                       called the event horizon. If the radial distance of an object r from the black hole is such
-that � < �� , then the object is “swallowed” by the black hole and r rapidly decreases to the singular
-point � = 0.
+that   <    , then the object is “swallowed” by the black hole and r rapidly decreases to the singular
+point   = 0.
 
-a) Suppose a black hole of mass � “captures” a proton to form a “black hole proton atom (BHP)”. Find
-the smallest radius �� of this atom.                                                              (3)
+a) Suppose a black hole of mass   “captures” a proton to form a “black hole proton atom (BHP)”. Find
+the smallest radius    of this atom.                                                              (3)
 
-                                                                                              �2    ���
-If � is the mass of the proton and � the speed in a circular orbit, then with m<<<M � � = � 2               (0.5)
+                                                                                               2
+If   is the mass of the proton and   the speed in a circular orbit, then with m<<<M     =   2               (0.5)
 
-Bohr’s quantization condition gives ��� = �ℏ where r is the radius of the orbit                             (0.5)
-                   ��             �ℏ
-Hence �= (          �
-                      ) Since � = ��                                                                        (0.5)
+Bohr’s quantization condition gives     =  ℏ where r is the radius of the orbit                             (0.5)
+                                   ℏ
+Hence  = (
+                      ) Since   =                                                                           (0.5)
 
-     � 2ℏ2                                          ℏ2
-� = �� � 2 Hence the smallest radius �� = �� � 2                                                        (0.5 +1)
+       2ℏ2                                          ℏ2
+  =      2 Hence the smallest radius    =      2                                                        (0.5 +1)
 
 
 
 
              ℏ2
-   �� = �� � 2
+      =      2
 
 
 
 
-b) Obtain a numerical upper bound on � such that a stable BHP may exist.                                      (2)
+b) Obtain a numerical upper bound on   such that a stable BHP may exist.                                      (2)
 
-For a stable BHP to exist �� > ��                                       (0.5)
+For a stable BHP to exist    >                                          (0.5)
 
-      ℏ2          2��                  ℏ� 2                ℏ�
-i.e. �� � 2 > � 2 Thus � 2 < 2(�� )2          or � <     2(��)
+      ℏ2          2                    ℏ  2                ℏ
+i.e.      2 >   2 Thus   2 < 2(   )2          or   <     2(  )
                                                                         (1.0)
 
 M < 2. X 1011Kg. (Correct decimal place consistent with values given 0.5)
@@ -948,48 +994,50 @@ M < 2. X 1011Kg. (Correct decimal place consistent with values given 0.5)
 
 
            11Kg.
- � < 2. � 10
+   < 2.   10
 
 
 
 
                                                          24
-                                                  Roll No.
+
+
+                                                  Roll No.
                                                                                  -            -
 
 
 
-c) Find the minimum energy ���� , in Mev ,required to dissociate this BHP atom from the ground state.
+c) Find the minimum energy      , in Mev ,required to dissociate this BHP atom from the ground state.
 .                                                                                                   (2)
 
-                                     ���                                       �2� 2� 3
-The energy of the BHP = � = −0.5�            , Substituting for r, �� = −0.5 � 2ℏ2 (1.0)
+                                                                                2  2  3
+The energy of the BHP =   = −0.5             , Substituting for r,    = −0.5   2ℏ2 (1.0)
 
-                                                                    �2� 2� 3
-Thus the min energy required to dissociate the atom is ���� = 0.5     ℏ2
+                                                                     2  2  3
+Thus the min energy required to dissociate the atom is      = 0.5     ℏ2
                                                                                 (0.5)
 
-Choose M = Kg , substituting values ���� = 55 MeV         (0.5)
+Choose M = Kg , substituting values      = 55 MeV         (0.5)
 
 
 
 
- ���� = 55 MeV
+      = 55 MeV
 
 
 
 
 d) In 1974, Stephen Hawking showed that quantum effects cause black holes to radiate like a black body
-                         1023�
-with temperature ��� =     �
+                         1023
+with temperature     =
                                  . Discuss then the possibility of the existence of a stable BHP atom. (3)
 
 
 
-                                     1023�       12� 0
-         For M = 1011 Kg. ��� =               = 10     At this temperature thermal energies
+                                     1023        12  0
+         For M = 1011 Kg.     =               = 10     At this temperature thermal energies
                                       1011
-         ≃ ���� = 82 ��� The dissociation energy required is 55 MeV. Thus the BHP is
+         ≃      = 82     The dissociation energy required is 55 MeV. Thus the BHP is
          thermally unstable.
 
 

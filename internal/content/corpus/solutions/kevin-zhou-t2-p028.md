@@ -44,7 +44,7 @@ which grows rapidly with R.
 As an application, farmers have to worry about hay bales spontaneously catching on fire. That’s
 because q is small but nonzero, due to bacteria feeding on the hay and producing heat, and R can
 be very large.
-[3] Problem 29.  W 1 0USAPhO 2016, problem A4. A practical conduction question.
-[3] Problem 30.  W 1 0USAPhO 2013, problem A1. An elegant conduction question.
+[3] Problem 29.   W 1 0USAPhO 2016, problem A4. A practical conduction question.
+[3] Problem 30.   W 1 0USAPhO 2013, problem A1. An elegant conduction question.
 [4] Problem 31. @ 1 0EuPhO 2023, problem 1. A cute problem on thermal lensing.
 33

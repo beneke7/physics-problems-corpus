@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy]
 ---
 
-The one-ton Mars rover called Perseverance landed successfully on Mars in the middle of February this year. The rover also carried a helicopter drone. What is the weight of the rover on Mars? How could they put the helicopter drone to test on the Earth? Make a suggestion. 
+The one-ton Mars rover called Perseverance landed successfully on Mars in the middle of February this year. The rover also carried a helicopter drone. What is the weight of the rover on Mars? How could they put the helicopter drone to test on the Earth? Make a suggestion.
  (4 pont)

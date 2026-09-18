@@ -43,14 +43,14 @@ of radius
 N =
 1
 8
-
+
 4
 3
 π(2mE0)3/2
-
+
 πℏ
 L
-−3
+ −3
 .
 Now let’s solve the problem a slightly different way: suppose the box has periodic boundary
 conditions, so that the right side is identified with the left side, and so on. In this case, the
@@ -66,14 +66,14 @@ volume of (2πℏ/L)3 for each state. That is, while the volume around each stat
 as large, the states now occupy eight octants instead of one. Then the overall density of
 states is still the same, and the number of states with energy at most E0 is approximately
 N =
-
+
 4
 3
 π(2mE0)3/2
-
+
 2πℏ
 L
-−3
+ −3
 which matches the result for hard walls. The point of this computation is to show that
 when we care about the statistical properties of many states, the boundary conditions won’t
 matter. In practice, you’ll see both kinds of boundary conditions quite often.

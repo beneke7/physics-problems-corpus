@@ -45,7 +45,9 @@ Problem 5 (F = ma 2016). The moment of inertia of a uniform equilateral triangle
                                                           2
 
                                                        4
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts
 
   where I is the moment of inertia about the instantaneous axis of rotation. Alternatively,
   using the second part,

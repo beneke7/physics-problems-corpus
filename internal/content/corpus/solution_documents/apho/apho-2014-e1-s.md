@@ -18,7 +18,8 @@ Experimental Competition
 
 
 Marking Rubric
-                                                              Answer Sheet              Page 2 of 22
+
+                                                              Answer Sheet              Page 2 of 22
 
 
 Country:    Sample Solution            Student Code:                  Sample Solution
@@ -72,7 +73,8 @@ Experiment A:
                                    g                                                    0.1 for A
 
                                                                                         Some examples of
-                                                     Answer Sheet           Page 3 of 22
+
+                                                     Answer Sheet           Page 3 of 22
 
 
 Country:   Sample Solution           Student Code:        Sample Solution
@@ -91,7 +93,8 @@ Country:   Sample Solution           Student Code:        Sample Solution
       If they ignore glass and water and everything considered as air
       (-1.0 mark, max mark =0.5)
                                  g                   11
-                                                       Answer Sheet         Page 4 of 22
+
+                                                       Answer Sheet         Page 4 of 22
 
 
 Country:    Sample Solution            Student Code:      Sample Solution
@@ -144,7 +147,8 @@ Country:    Sample Solution            Student Code:      Sample Solution
       NOTE: Temp in Exam Hall was 27 qC for
       water in Glass Cell under experimental
       conditions with precaution taken.
-                                                              Answer Sheet          Page 5 of 22
+
+                                                              Answer Sheet          Page 5 of 22
 
 
 Country:      Sample Solution                 Student Code:       Sample Solution
@@ -194,7 +198,8 @@ Country:      Sample Solution                 Student Code:       Sample Solutio
                                                                                      -0.1 b missing
                                                                                      -0.1 L missing
                                                                                      -0.2 for L < 0.5 m
-                                                      Answer Sheet          Page 6 of 22
+
+                                                      Answer Sheet          Page 6 of 22
 
 
 Country:    Sample Solution           Student Code:       Sample Solution
@@ -218,7 +223,8 @@ Country:    Sample Solution           Student Code:       Sample Solution
        water in Glass Cell under experimental piezoelectric transducers is
                                               1.786 MHz.
        conditions with precaution taken.
-                                                              Answer Sheet                Page 7 of 22
+
+                                                              Answer Sheet                Page 7 of 22
 
 
 Country:       Sample Solution            Student Code:              Sample Solution
@@ -280,7 +286,8 @@ Country:       Sample Solution            Student Code:              Sample Solu
        error using
 
                                                        √         1
-                                                              Answer Sheet          Page 8 of 22
+
+                                                              Answer Sheet          Page 8 of 22
 
 
 Country:    Sample Solution         Student Code:                Sample Solution
@@ -288,7 +295,7 @@ Country:    Sample Solution         Student Code:                Sample Solution
 
 Experiment B
 
- B1. Write down the equation for Os.                                             Total: 1.0
+ B1. Write down the equation for Os.                                               Total: 1.0
                                     2                                              0.2 for using M for getting p
                                                      12
                                          1                                         0.8 for equation (12)
@@ -313,7 +320,8 @@ Experiment B
                ∴
                             1                2g
                                                  g
-                                                     Answer Sheet         Page 9 of 22
+
+                                                     Answer Sheet         Page 9 of 22
 
 
 Country:   Sample Solution           Student Code:      Sample Solution
@@ -360,7 +368,8 @@ Country:   Sample Solution           Student Code:      Sample Solution
 
 
  B3. Measure and record all relevant parameters in the space below Total: 1.5
-                                                       Answer Sheet          Page 10 of 22
+
+                                                       Answer Sheet          Page 10 of 22
 
 
 Country:   Sample Solution             Student Code:      Sample Solution
@@ -409,7 +418,8 @@ Country:   Sample Solution             Student Code:      Sample Solution
                                                                             -0.1 a or b missing
                                                                             -0.1 S1 or S2 missing
                                                                             -0.1 for S2 < 0.3 m
-                                                  Answer Sheet          Page 11 of 22
+
+                                                  Answer Sheet          Page 11 of 22
 
 
 Country:   Sample Solution        Student Code:      Sample Solution
@@ -431,7 +441,8 @@ Country:   Sample Solution        Student Code:      Sample Solution
                                                                        frequency of the
                                                                        piezoelectric transducers is
                                                                        1.786 MHz.
-                                                                                       Answer Sheet                   Page 12 of 22
+
+                                                                                       Answer Sheet                   Page 12 of 22
 
 
 Country:        Sample Solution                         Student Code:                              Sample Solution
@@ -479,7 +490,7 @@ Country:        Sample Solution                         Student Code:           
                                                                                                                      Alternative (Max 1.0)
        Os(x 10-4m)      8.37                  8.37                8.88                                               0.4 for the correct expression
                                                                                                                      for the standard error.
-       'Os/Os          0.012                 0.016               0.008
+       'Os/ Os          0.012                 0.016               0.008
                                                                                                                      0.4 If they do at least 6 times
       fL=5.0 cm                                                                                                      and then go for standard
                                                                                                                      error
@@ -493,7 +504,8 @@ Country:        Sample Solution                         Student Code:           
                                                                                                                      value. (Further penalty as per
                                                                                                                      rules/range specified above)
                'fs = 0.022MHz
-                                                     Answer Sheet         Page 13 of 22
+
+                                                     Answer Sheet         Page 13 of 22
 
 
 Country:   Sample Solution           Student Code:      Sample Solution
@@ -523,7 +535,8 @@ Experiment C
                                                                               Note – Not
                                                                               penalized for
                                                                               number of fringes
-                                                    Answer Sheet          Page 14 of 22
+
+                                                    Answer Sheet          Page 14 of 22
 
 
 Country:   Sample Solution          Student Code:      Sample Solution
@@ -536,7 +549,8 @@ Country:   Sample Solution          Student Code:      Sample Solution
       Label each recorded pattern with the corresponding salt concentration.
       Do not forget to note down the relevant experimental parameters, in
       Answer Sheet C2 on page 10, needed for calculations.
-                                                     Answer Sheet         Page 15 of 22
+
+                                                     Answer Sheet         Page 15 of 22
 
 
 Country:   Sample Solution           Student Code:      Sample Solution
@@ -548,7 +562,8 @@ Country:   Sample Solution           Student Code:      Sample Solution
       Label each recorded pattern with the corresponding salt concentration.
       Do not forget to note down the relevant experimental parameters, in
       Answer Sheet C2 on page 10, needed for calculations.
-                                                       Answer Sheet            Page 16 of 22
+
+                                                       Answer Sheet            Page 16 of 22
 
 
 Country:     Sample Solution           Student Code:        Sample Solution
@@ -602,10 +617,11 @@ C2.   Measure and record all relevant parameters in the table below and Total : 
                                                                                     (without salt) at
                                                                                     temperature T.
                                                                                     At 22 qC –
-                                                                                          1484 m/s
+                                                                                          1484 m/s
                                                                                     (0.2 for each value
                                                                                     of vs within 5% of
-                                             Answer Sheet         Page 17 of 22
+
+                                             Answer Sheet         Page 17 of 22
 
 
 Country:   Sample Solution   Student Code:      Sample Solution
@@ -624,7 +640,8 @@ Country:   Sample Solution   Student Code:      Sample Solution
 
                                                                        Maximum of 1.0
                                                                        marks for vs
-                                                                                   Answer Sheet              Page 18 of 22
+
+                                                                                   Answer Sheet              Page 18 of 22
 
 
     Country:                             Sample Solution           Student Code:           Sample Solution
@@ -657,7 +674,8 @@ C3 Plot the speed of sound in solution against the salt concentration of Total: 
                               1450
                                      0          0.05         0.1       0.15          0.2          0.25
                                                            Salt Concentration
-                                                            Answer Sheet            Page 19 of 22
+
+                                                            Answer Sheet            Page 19 of 22
 
 
 Country:          Sample Solution           Student Code:      Sample Solution
@@ -701,7 +719,8 @@ C4   Attach this Answer Sheet to the Screen (F) and mark the observed Total: 0.8
 
 
             vs in unknown solution = 1714 m/s
-                                                    Answer Sheet         Page 20 of 22
+
+                                                    Answer Sheet         Page 20 of 22
 
 
 Country:    Sample Solution         Student Code:      Sample Solution
@@ -724,7 +743,8 @@ Country:    Sample Solution         Student Code:      Sample Solution
 
                                                                              -0.1 uncertainty
                                                                              missing
-                                                     Answer Sheet           Page 21 of 22
+
+                                                     Answer Sheet           Page 21 of 22
 
 
 Country:   Sample Solution           Student Code:        Sample Solution
@@ -769,7 +789,8 @@ Experiment D:
 
 
                 ncorn-syrup = 1.42
-                                                      Answer Sheet          Page 22 of 22
+
+                                                      Answer Sheet          Page 22 of 22
 
 
 Country:     Sample Solution          Student Code:      Sample Solution

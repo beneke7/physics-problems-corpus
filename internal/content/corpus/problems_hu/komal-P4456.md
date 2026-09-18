@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4456. Egy szobahőmérsékletű folyadékos hőmérőt meleg vízbe téve azt tapasztaljuk, hogy a folyadékszál emelkedése előtt süllyed egy-két fokot. 
- Mi lehet ennek az oka? 
+P. 4456. Egy szobahőmérsékletű folyadékos hőmérőt meleg vízbe téve azt tapasztaljuk, hogy a folyadékszál emelkedése előtt süllyed egy-két fokot.
+ Mi lehet ennek az oka?
  Ifjú fizikusok versenye, Tatabánya

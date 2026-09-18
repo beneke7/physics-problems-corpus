@@ -30,13 +30,13 @@ There is no source of stored energy such as a battery or gasoline engine; all of
 
 The Blackbird was driven both directly downwind and directly upwind, as shown below. In each case the car remained exactly parallel (or anti-parallel) to the wind without turning. The tests were conducted on level ground, in steady, uniform wind, and continued long enough to reach the steady state.
 
-![](usapho-2013-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2013-b1-fig01.png)
 Source: fasterthanthewind.org
 
-![](usapho-2013-b1-fig02.png)
+![](../../figures/usapho/figures/usapho-2013-b1-fig02.png)
 Downwind
 
-![](usapho-2013-b1-fig03.png)
+![](../../figures/usapho/figures/usapho-2013-b1-fig03.png)
 Upwind
 
 When driving downwind, the builders claim that they were able to drive "faster than the wind": that is, with $|\vec{v}|>\left|\vec{v}_{w}\right|$, so that the car experienced a relative headwind while traveling. Commenters on the Internet claimed, often angrily, that this was physically impossible and that the Blackbird was a hoax. Some commenters also claimed that the upwind case was physically impossible.

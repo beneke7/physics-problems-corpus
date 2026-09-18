@@ -59,7 +59,9 @@ dI
 dt
 + I2
 R.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 The left-hand side is the power output by the battery, and the two terms on the right-hand
 side represent the rate of increase in energy LI2/2 stored in the inductor, and the power
 dissipated in the resistor, so all power is accounted for.
@@ -111,7 +113,9 @@ EQ
 We can avoid wasting energy and producing entropy if we use an adjustable battery and
 gradually turn its voltage up, slowly enough so that the circuit is always near equilibrium.
 This is the electrical analogue of a smooth, adiabatic compression.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Suppose you wanted to account for the nonideal properties of a capacitor. In principle,
 the only way to get the answer exactly is to treat all the fields with Maxwell’s equations
@@ -158,7 +162,9 @@ UB ∼
 (µ0I/a)2
 a3
 and equating this to LI2/2 gives L ∼ µ0a.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Combining these two gives τ ∼ L/R ∼ µ0a2σ, as desired.
 (c) Plugging in the numbers gives τ ∼ 3 × 105 years. This is much shorter than the Earth’s life,
 so some energy source must actively drive the core.
@@ -200,7 +206,9 @@ P =
 (V2 − V1)2C
 T
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (b) In this case, the charge on the capacitor barely changes during each cycle. The average voltage
 across the capacitor is (V1 + V2)/2. Hence the magnitude of the voltage across the resistor is
 always approximately equal to (V2 − V1)/2, so
@@ -238,7 +246,9 @@ E1
 N2
 N1
 where E1 is the (back) emf of the primary.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Let Φ be the flux through a single loop of either coil due to the current in the primary. Then
 Φ1 = N1Φ, Φ2 = N2Φ.
@@ -275,10 +285,10 @@ ideal transformer, is
 √
 L1L2. Plugging in these results gives
 E1 = −
-
+
 µ0πR2
 H
-
+
 N2
 1
 dI1
@@ -286,12 +296,12 @@ dt
 + N1N2
 dI2
 dt
-
+
 , E2 = −
-
+
 µ0πR2
 H
-
+
 N2
 2
 dI2
@@ -299,7 +309,7 @@ dt
 + N1N2
 dI1
 dt
-
+
 .
 This tells us the desired result holds for any values of the dIi/dt.
 This result is not surprising from the standpoint of Faraday’s law. The flux change through
@@ -326,7 +336,9 @@ Solution. (a) The differential work required to change the currents is
 dU = (L1
 ˙ J1 + M ˙ J2)(J1dt) + (L2
 ˙ J2 + M ˙ J1)(J2dt) = L1J1dJ1 + L2J2dJ2 + Md(J1J2)
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 where J1,J2 are the values of the currents at some intermediate time. Therefore, the total
 work required is
 U =
@@ -349,7 +361,7 @@ practically overlap, or more generally for any configuration where all flux that
 one inductor also goes through the other, such as the two coils of an ideal transformer.
 (b) When the inductors are in series, they have the same current. The total emf is
 E = −
-
+
 L1
 dI
 dt
@@ -362,7 +374,7 @@ dt
 + M
 dI
 dt
-
+
 = −(L1 + L2 + 2M)
 dI
 dt
@@ -398,7 +410,9 @@ coils is equal to L. There is no leakage of the magnetic field lines from the co
 inductance is also equal to L.
 (a) Find the current in both loops immediately after the switch is closed.
 (b) Find the currents as a function of time.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) In a transformer, the flux is Φ = L(I1 +I2) and dΦ/dt = EL = L(dI1/dt+dI2/dt).
 Since dΦ/dt is finite, then initially I1 + I2 = 0. The voltage loop rule gives
 E = I1R + L(dI1/dt + dI2/dt) = I1R − I2r
@@ -419,13 +433,13 @@ E
 R
 (1 − e−t/τ
 ), τ ≡ L
-
+
 1
 r
 +
 1
 R
-
+
 .
 Using I1 = E/R − L
 RdI/dt and I2 = −L
@@ -433,12 +447,12 @@ r dI/dt, we can extract
 I1 =
 E
 R
-
+
 1 −
 r
 r + R
 e−t/τ
-
+
 , I2 = −
 E
 (R + r)
@@ -463,7 +477,9 @@ Turning parameters complex and taking the real part works because we’re dealin
 linear equations. As a result, it doesn’t work for energy or power, which are quadratic.
 In particular, the power dissipated in an element is not Re(˜ IṼ ), but rather
 P = IV = Re(˜ I)Re(Ṽ ) = I0V0 cos(ωt)cos(ωt + ϕ)
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 where ϕ is the phase angle of Z. To compute the average power, note that
 P =
 V 2
@@ -525,11 +541,11 @@ Then we have
 iω
 I0eiωt
 .
-Plugging this in, we find 
+Plugging this in, we find
 iωL + R +
 1
 iωC
-
+
 I0 = V0.
 Solving for the magnitude of the current gives
 |I0| =
@@ -543,7 +559,9 @@ which is maximized when ω = 1/
 √
 LC, as we saw in M4. We could also have gotten straight
 to this last step by just using complex impedances.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Example 5
 An imperfect voltage source consists of an ideal AC voltage source in series with an impedance
 ZS. It is attached to a load of impedance ZL. What value of ZL maximizes the power
@@ -601,7 +619,9 @@ iωL +
 iωC
 .
 [3] Problem 7. Consider an RLC circuit with a driving V (t) = V0eiωt.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Suppose the resistor, inductor, and capacitor are connected in parallel. Sketch the current
 |I0| through the driver as a function of ω, and compare it to the result for a standard series
 RLC circuit. Can you give a qualitative explanation for the difference?
@@ -644,7 +664,9 @@ A series RLC circuit behaves the other way:
 √
 LC
 |V0|/R
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 The intuition for a series RLC circuit is just as in M4, i.e. we get the most current when
 the system is driven at resonance, and the result is finite at resonance because the resistor
 absorbs the energy put in. But a parallel RLC circuit is backwards, because each component
@@ -724,7 +746,9 @@ CV 2
 0
 2
 .
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 The power dissipated in the resistor is V 2/R, so the average power is
 ⟨P⟩ = ⟨V 2
 /R⟩ =
@@ -767,7 +791,9 @@ A =
 abc
 4R
 .
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Solving for the diameter, we have
 2R =
 abc
@@ -809,7 +835,9 @@ C
 L
 C
 (b)
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 In each case, find the amplitude of the current drawn from the source as a function of ω/ω0, where
 ω0 = 1/
 √
@@ -820,11 +848,11 @@ parallel, with the two systems being in series. Thus, the net impedance is
 Z =
 1
 2
-
+
 iωL +
 1
 iωC
-
+
 ,
 which has magnitude 1
 2ωC |(ω/ω0)2 − 1|. Thus,
@@ -868,7 +896,9 @@ shell of radius a, thickness t ≪ a, conductivity σ, and length ℓ.
 (a) Assuming the shell provides the only energy loss in the circuit, and σ is sufficiently small, find
 the quality factor in terms of ω0, σ, t, a, and L.
 (b) Why does your answer to part (a) break down in the limit σ → ∞?
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) This is part (b) of USAPhO 2026, problem B3, and the answer is Q = 2/(µ0σtaω0),
 where L happens to drop out. The interesting feature is that the quality factor depends on
 frequency, as does the associated effective resistance Reff = ω0L/Q.
@@ -889,8 +919,8 @@ we account for this, we get a sensible result Q ∝
 σ.
 By the way, in practice σ itself will depend on both frequency and temperature. This is the
 sort of thing that one must account for in precision physics experiments with LC circuits.
-[3] Problem 12.  W 1 0USAPhO 2002, problem A1.
-[3] Problem 13.  m 1 0USAPhO 2011, problem B1.
+[3] Problem 12.   W 1 0USAPhO 2002, problem A1.
+[3] Problem 13.   m 1 0USAPhO 2011, problem B1.
 3 Electrical Engineering
 These next problems are about using RLC circuits for practical purposes. They don’t require
 anything not already introduced in the previous section, but they represent a different way of
@@ -927,17 +957,19 @@ VB − VA = Vi
 iωCR′
 !
 =
-
+
 −
 Vi
 2
-
+
 1 − 1
 iωCR′
 1 + 1
 iωCR′
 .
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 We thus have |VB −VA| = Vi/2, and the remaining fraction is eiϕ with ϕ = 2tan−1(1/ωCR′), which
 can be adjusted to give any phase.
 [3] Problem 15 (Kalda). The figure below shows a Maxwell’s bridge, which is used for measuring the
@@ -977,7 +1009,9 @@ This circuit is the most primitive of “low-pass” filters.
 the signal power is reduced by a factor of 4 for every doubling of the frequency.
 (b) Design a low-pass filter without using a capacitor.
 (c) Design a high-pass filter.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Design a stronger low-pass filter, i.e. one which reduces the signal power by a greater factor
 for every doubling of the frequency.
 (e) Design a band-pass filter, which suppresses both low and high frequencies, but has a constant
@@ -1027,7 +1061,9 @@ it is essential that the addition of the low pass filter doesn’t affect the vo
 high pass filter, so that we can just multiply the gains. This occurs if the low pass filter
 draws negligible current from the output. (In terms of the example filters above, we need the
 resistance in the low pass filter to be much higher than the resistance in the high pass filter.)
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Another option would be to attach the output to the resistor in a series RLC circuit, but then
 the “band” region would be too narrow.
 (f) To suppress a certain frequency, make a circuit that looks like this:
@@ -1061,7 +1097,9 @@ For V1 ≪ V0, which indicates R ≪ ωL, we get V1 = V0R/ωL, which gets V1 ∝
 This is also a low pass filter.
 [3] Problem 19. A resonant cavity of the form illustrated below is an essential part of many microwave
 oscillators. It is a single piece of metal, which can be treated like an LC circuit.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Assuming that s ≪ a,b,h, estimate the lowest resonant angular frequency of the cavity by
 treating it as an LC circuit. It may be helpful to sketch the magnetic and electric fields.
 (b) One of the most common types of cavity is a cylindrical cavity, i.e. a hollow cylinder. (It
@@ -1113,13 +1151,13 @@ distributed only makes sense for s ≪ h.
 A complete and rather complicated analysis would show that the lowest resonant angular
 frequency is
 ω = c min 1.841
-
+
 1
 b2
 +
 2.912
 h2
-1/2
+ 1/2
 ,
 2.405
 b
@@ -1127,7 +1165,9 @@ b
 .
 In this case, we can get close by dimensional analysis, which tells us that ω ∼ c/b, since b is
 the only length scale in the problem. (Recall that we assumed h ≈ b.)
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 In E3, we saw that for DC circuits, any system of resistors and ideal batteries with two ports
 is equivalent, from the perspective of anything connected across the ports, to either a single
@@ -1167,7 +1207,9 @@ outlets, one hole has voltage V1(t) and another has V2(t), giving an AC voltage 
 amplitude
 √
 3V0.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 4 Normal Modes
 Idea 4
 A circuit with n independent loops has n normal modes. If we ignore resistances, the normal
@@ -1194,7 +1236,9 @@ on an Olympiad.
 initial conditions, it may be better to solve Kirchhoff’s loop equations directly.
 Example 7: Kalda 89
 Find the normal mode frequencies of the circuit below.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 There are four independent Kirchhoff’s loop equations, so we expect four normal modes.
 One normal mode consists of current simply flowing uniformly along the outside, along the
@@ -1225,7 +1269,9 @@ resonant angular frequency ω3 =
 p
 7/4LC.
 [2] Problem 20 (Kalda). Consider the LC circuit below.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Show that the normal mode angular frequencies are ω = (
 √
 5 ± 1)/2
@@ -1263,7 +1309,9 @@ Solution. See the official solution to IPhO 2014, problem 1(c).
 below, where C1 ≪ C2 and L1 ≪ L2.
 You may give all of your answers to lowest order in C1/C2 and L1/L2.
 Solution. See the solutions here.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 5 Nonlinear Circuit Elements
 In this section we’ll introduce nonlinear circuit elements, focusing on diodes. More exotic circuit
 elements will be covered in E7.
@@ -1303,7 +1351,9 @@ Analytically, these three cases are easily handled by casework. For instance, a 
 like a wire for positive V , and just like a break for negative V . In each case, the circuit is no
 more complicated than an ordinary one with linear circuit elements. Then you put the cases
 together to get the full behavior.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Example 8
 A capacitor of capacitance C is charged so that its voltage is Vc. The capacitor is placed in
 series with a resistor R and a diode with I(V ) characteristic
@@ -1333,7 +1383,9 @@ can be solved just like those in E3.
 The nonlinear element is a diode with the I(V ) characteristic shown.
 Solution. We simply draw the line V (I) = 1.5V−(100Ω)I on the graph and find the intersection,
 which gives I ≈ 8mA.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 7
 The power delivered to any circuit element is still P = IV . However, some nonlinear circuit
 elements can be active, providing net power to the circuit, like batteries.
@@ -1381,7 +1433,9 @@ switched-mode power supply. This consists of one part that converts the AC wall 
 DC, and a second part similar to the circuit above, but set up to output a lower DC voltage.
 You could also use a transformer to lower the AC voltage, but a switch-mode power supply
 is more space-efficient, and it easily copes with a range of input AC voltages and frequencies.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 24. NBPhO 2010, problem 9. You should assume that Ui and Uo are positive, and that
 in part (i) the currents are initially zero.
 [3] Problem 25 (Kalda). An alternating voltage V = V0 cos(2πνt) is applied to the leads of the circuit
@@ -1415,14 +1469,16 @@ L
 Z
 cycle
 VL dt.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 In the beginning, when α = 0, this integral is positive because VL(t) looks like a sinusoid but with
 only the positive parts. As α increases, the integral begins to pick up part of the negative half of
 the sinusoid, but the overall integral is still positive, so α continues to increase. The final steady
 state is when α = 1 and the current flows all the time. At this point, IL = V0/R = 1A.
 [3] Problem 26. NBPhO 2008, problem 6.
 [3] Problem 27. NBPhO 2013, problem 8. A circuit with a nice mechanical analogy.
-[3] Problem 28.  Y 1 0IPhO 2001, problem 1c.
-[3] Problem 29.  ^ 1 0USAPhO 2018, problem A2.
+[3] Problem 28.   Y 1 0IPhO 2001, problem 1c.
+[3] Problem 29.   ^ 1 0USAPhO 2018, problem A2.
 [4] Problem 30. @ 1 0EuPhO 2022, problem 2.
 29

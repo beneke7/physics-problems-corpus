@@ -21,11 +21,11 @@ provenance_note: "KöMaL physics points contest, 200911"
 verification_status: flagged
 ---
 
-The voltage of the power supply of the circuit shown in the figure is 15 V. When the switch is open the voltmeter reads 10 V and the ammeter reads 200 mA. 
- a ) Find the resistances of all the resistors. 
- b ) What are the readings of the meters when the switch is closed? 
- c ) Find the dissipated power at each resistor when the switch is open and when it is closed. 
+The voltage of the power supply of the circuit shown in the figure is 15 V. When the switch is open the voltmeter reads 10 V and the ammeter reads 200 mA.
+ a ) Find the resistances of all the resistors.
+ b ) What are the readings of the meters when the switch is closed?
+ c ) Find the dissipated power at each resistor when the switch is open and when it is closed.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4195-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4195-fig1.gif)

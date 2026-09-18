@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202311"
 verification_status: pending
 ---
 
-Measure the viscosity of three different materials found in your household without using a viscosity meter. For example: cooking oil, honey, washing-up liquid, motor oil, shower gel, etc. 
+Measure the viscosity of three different materials found in your household without using a viscosity meter. For example: cooking oil, honey, washing-up liquid, motor oil, shower gel, etc.
  (6 pont)

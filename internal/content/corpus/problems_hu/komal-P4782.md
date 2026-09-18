@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4782. Egy 16 cm és egy 30 cm hosszú fonál egy-egy végét a mennyezethez rögzítjük, egymástól 34 cm távolságban. A fonalak másik végét egy pici, 1,7 dkg tömegű testhez erősítjük. 
- $a)$ Mekkora erők ébrednek a fonalakban? 
+P. 4782. Egy 16 cm és egy 30 cm hosszú fonál egy-egy végét a mennyezethez rögzítjük, egymástól 34 cm távolságban. A fonalak másik végét egy pici, 1,7 dkg tömegű testhez erősítjük.
+ $a)$ Mekkora erők ébrednek a fonalakban?
  $b)$ A rövidebb fonalat elégetjük. Mekkora erő ébred a fonálban abban a pillanatban, amikor az éppen függőleges?

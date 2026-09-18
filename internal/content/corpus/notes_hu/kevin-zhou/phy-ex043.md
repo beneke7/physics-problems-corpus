@@ -52,7 +52,6 @@ Most a gyenge kölcsönhatások hatásait vizsgáljuk.
                          Z(N, V, T ) =               dr i e                 .
                                        N !λ3N
                                                             i
-73 3. Statisztikus mechanika
 
 
     Csábító lenne βU szerint kifejteni, ez azonban nem működik, mert U nagy (sőt végtelen!). Ehelyett bevezetjük a Mayer-féle f-függvényt:
@@ -77,9 +76,9 @@ Az f hatványai szerinti kifejtés ezért ésszerűbb. Ez nem az energiák pertu
     ahol a tömegközéppont-koordinátát kiintegráltuk. Az r-integrál határaival nem kell törődnünk, mert a járulékának nagy része atomi léptékű r-ekből származik.
 
  • Ha ezt az integrált f-fel jelöljük, akkor f elsőrendjében
-                                                                      N
+                                                                       N
                                   VN           N 2f      VN
-                                                             
+
                                                                    Nf
                               Z=            1+        ≈         1+
                                  N !λ3N        2V       N !λ3N     2V
@@ -107,7 +106,6 @@ A magasabb rendű korrekciók a klaszterkifejtéssel hatékonyan meghatározhat�
 
 
  • Minden G gráf összefüggő komponensekre, úgynevezett klaszterekre bontható; mindegyik független multiplikatív tényezővel járul hozzá W [G]-hez.
-74 3. Statisztikus mechanika
 
 
   • A kifejtés megszervezésének legkényelmesebb módja a klaszterek számának és méretének használata. Legyen Ul az összes l-klaszter járuléka:
@@ -138,9 +136,9 @@ A magasabb rendű korrekciók a klaszterkifejtéssel hatékonyan meghatározhat�
   • A zavaró megkötés
                                           P
                                             ml l = N , amelyet a nagykanonikus sokaságra áttéréssel küszöbölünk ki. A z = eβµ fugacitást definiálva:
-                          X               X Y 1  z l Ul ml Y          
+                          X               X Y 1   z l Ul  ml Y
                                                                           Ul 3l
-                                                                                  
+
                   Z(µ) =      z n Z(N ) =                       =   exp      λ  l!  .
                                                  ml ! λ3l l!              zl
                             N               {ml } l                                 l

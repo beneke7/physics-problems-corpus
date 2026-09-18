@@ -12,7 +12,7 @@ figure_files: []
 provenance_note: "Source-provided solution section from sources/kevin_zhou/site/handouts/P2Sol.pdf."
 ---
 
-[3] Problem 14.  ^ 1 0As a speed test, solve F = ma 2018 problems A12, A25, B19, and B25, and
+[3] Problem 14.   ^ 1 0As a speed test, solve F = ma 2018 problems A12, A25, B19, and B25, and
 F = ma 2019 problems A16, B18, and B25. Don’t bother writing solutions.
 [2] Problem 15. Suppose the goal of an experiment is to measure the ratio T1/T2 of the durations
 of two processes, where T1 is about 15 seconds, and T2 is about 3 seconds. Also suppose your
@@ -39,19 +39,19 @@ additional measurements hits diminishing returns.)
 ∆(T1/T2) =
 T1
 T2
-s
+s
 ∆T
 T1
 √
 N1
-2
+ 2
 +
-
+
 ∆T
 T2
 √
 N2
-2
+ 2
 The total time Tt is constant, N1T1 + N2T2 = Tt where N1T1/Tt = x. We want to minimize
 f(x) =
 1
@@ -99,20 +99,20 @@ where β = I/MR2 of the rolling object, and ℓ, t are the distance and time for
 assume you found a nice object, like a hollow can or a fully filled one, so that β is known relatively
 precisely. Then the uncertainty is
 ∆g = g
-s
+s
 2∆t
 t
-2
+ 2
 +
-
+
 ∆ℓ
 ℓ
-2
+ 2
 +
-
+
 cos(θ)∆θ
 sin(θ)
-2
+ 2
 .
 Given the above, you definitely want a ramp as long as possible, and there’s a tradeoff with the
 angle: if the angle is very large, t will be small so that the relative error on t will be large, while if

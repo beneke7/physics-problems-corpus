@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A closed circular loop of wire having a resistance of $R$ and enclosing a cross section of $A$ is rotated at a constant angular speed of $\omega$ in magnetic field of induction $B$, about that symmetry axis of the loop which lies in the plane of the loop. At what average power can this be done? 
+A closed circular loop of wire having a resistance of $R$ and enclosing a cross section of $A$ is rotated at a constant angular speed of $\omega$ in magnetic field of induction $B$, about that symmetry axis of the loop which lies in the plane of the loop. At what average power can this be done?
  (4 pont)

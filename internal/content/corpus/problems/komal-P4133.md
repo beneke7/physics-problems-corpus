@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [stability-analysis, extremization, exploit-symmetry]
 ---
 
-What is the greatest angle of elevation of a slope onto which a cylinder which has an elliptical cross section can be placed, such that it stays at rest, provided that friction is big enough? The semi-major axis of the ellipse is a and its semi-minor axis is  b . 
+What is the greatest angle of elevation of a slope onto which a cylinder which has an elliptical cross section can be placed, such that it stays at rest, provided that friction is big enough? The semi-major axis of the ellipse is a and its semi-minor axis is  b .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4133-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4133-fig1.gif)

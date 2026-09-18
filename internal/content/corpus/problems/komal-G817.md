@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-The James Webb space telescope orbits the so-called $\mathrm{L}_2$ Lagrange point of the Sun-Earth system. This point is located 1.5 million km from Earth along the line connecting the centres of the Sun and the Earth, beyond the Earth. Imagine that you are exactly at the $\mathrm{L}_2$ Lagrange point, looking towards the Sun. Do we need goggles? What do we see? 
+The James Webb space telescope orbits the so-called $\mathrm{L}_2$ Lagrange point of the Sun-Earth system. This point is located 1.5 million km from Earth along the line connecting the centres of the Sun and the Earth, beyond the Earth. Imagine that you are exactly at the $\mathrm{L}_2$ Lagrange point, looking towards the Sun. Do we need goggles? What do we see?
  (4 pont)

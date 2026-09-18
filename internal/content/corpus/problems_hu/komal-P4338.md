@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4338. Hogyan határozhatjuk meg szerkesztéssel egy trapéz alakú lemez súlypontjának (tömegközéppontjának) helyét? 
+P. 4338. Hogyan határozhatjuk meg szerkesztéssel egy trapéz alakú lemez súlypontjának (tömegközéppontjának) helyét?
  Faragó Andor (1877--1944) feladata nyomán

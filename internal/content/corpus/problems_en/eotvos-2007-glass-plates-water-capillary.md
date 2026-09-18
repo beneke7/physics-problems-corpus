@@ -19,7 +19,7 @@ verification_status: pending
 
 Two rectangular glass plates are leaned against one another along one edge such that they form an angle of $2 \varphi$ between them. We slowly immerse these fixed plates in water as shown in the figure. Water, which completely wets glass, rises between the two plates to a certain height $H$ due to surface tension.
 
-![figure](sources/eotvos/figures/eotvos-2007-glass-plates-water-capillary-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2007-glass-plates-water-capillary-fig1.jpg)
 
 Figure 1
 

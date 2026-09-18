@@ -33,7 +33,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                                px   a
 
                                                10
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
        Therefore, using basic geometry, the size of the pattern on the screen is
                                                            Dλ

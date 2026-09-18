@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-The minor planet Eros approaches the Sun at $1.13~\mathrm{AU}$ (when it is at the closest point), and it is $1.78~\mathrm{AU}$ away from the Sun at the furthest point of its orbit. AU is the abbreviation of astronomical unit, 1 AU is the mean distance between the Sun and the Earth. What is the maximum and minimum speed of the minor planet Eros? 
+The minor planet Eros approaches the Sun at $1.13~\mathrm{AU}$ (when it is at the closest point), and it is $1.78~\mathrm{AU}$ away from the Sun at the furthest point of its orbit. AU is the abbreviation of astronomical unit, 1 AU is the mean distance between the Sun and the Earth. What is the maximum and minimum speed of the minor planet Eros?
  (5 pont)

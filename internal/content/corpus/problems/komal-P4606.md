@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201402"
 verification_status: pending
 ---
 
-The motion of a pointlike mass can be split to two parts. In the first part its average speed is v $_{1}$, and in the second its average speed is  v $_{2}$. For the whole motion the average speed is the geometric mean of the speeds v $_{1}$ and v $_{2}$, which is: . Determine the ratio of the covered distances in the two parts of the motion. 
+The motion of a pointlike mass can be split to two parts. In the first part its average speed is v $_{1}$, and in the second its average speed is  v $_{2}$. For the whole motion the average speed is the geometric mean of the speeds v $_{1}$ and v $_{2}$, which is: . Determine the ratio of the covered distances in the two parts of the motion.
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, auxiliary-unknowns]
 ---
 
-At a height of $h$ above a broad grounded metal sheet there is a metal sphere of radius $R$ in the air ($R\ll h$ ). The sphere is joined to the sheet with a very thin piece of metal wire. A point charge is brought near the sphere, such that its distance from both the sphere and the sheet is $h$ . Then we first remove the wire and after the charge. What will the potential difference between the sphere and the sheet be? 
+At a height of $h$ above a broad grounded metal sheet there is a metal sphere of radius $R$ in the air ($R\ll h$ ). The sphere is joined to the sheet with a very thin piece of metal wire. A point charge is brought near the sphere, such that its distance from both the sphere and the sheet is $h$ . Then we first remove the wire and after the charge. What will the potential difference between the sphere and the sheet be?
  (6 pont)

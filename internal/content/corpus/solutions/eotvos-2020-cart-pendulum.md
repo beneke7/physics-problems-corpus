@@ -20,7 +20,7 @@ megvárjuk az inga lengéseinek le sillapodását, és végül a ko sit elengedj
 a) A mozgás során mennyire tér ki a fonál a függ®legest®l?
 b) Mekkora utat tesz meg a kisko si, amíg a fonál újra függ®legessé válik?
 Megoldás. Az ingából és kisko siból álló rendszerre lényegében sak a nehézségi er® és a lejt®re mer®leges irá-
-nyú kényszerer®k hatnak, hiszen a kerekek gyorsuló forgásához szükséges tapadási súrlódási er®t a könnyen gördül®
+nyú kényszerer®k hatnak, hiszen a kerekek gyorsuló forgásához szükséges tapadási súrlódási er®t a  könnyen gördül®
 kifejezés miatt elhanyagolhatjuk. Lejt®irányú komponense sak a nehézségi er®nek van, ezért a rendszer tömegközép-
 pontja a lejt®vel párhuzamos irányban állandó, g sinα gyorsulással mozog. A tömegközéppont a mozgás során a lejt®re
 mer®leges irányban is gyorsul, ez azonban a további gondolatmenet szempontjából nem lényeges.
@@ -35,9 +35,9 @@ g nehézségi er® vektori összege m′
 g∗
 alakban is felírható, ahol g∗
 = g − a. A gyorsuló rendszerben tehát minden test úgy mozog, mintha egy g∗
-eektív
+e ektív
 nehézségi gyorsulású er®térben helyezkedne el. Esetünkben a vonatkoztatási rendszer a gyorsulása éppen megegyezik
-a g nehézségi gyorsulás lejt®irányú összetev®jével, ezért az eektív g∗
+a g nehézségi gyorsulás lejt®irányú összetev®jével, ezért az e ektív g∗
 nehézségi gyorsulás a lejt®re mer®leges irányú,
 nagysága pedig gcosα. Mivel a gyorsuló rendszerben g∗
 határozza meg a függ®leges irányt, élszer¶ a feladat ábráját

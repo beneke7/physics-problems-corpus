@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201310"
 verification_status: pending
 ---
 
-The accuracy of the measurement of the mass of a steel bearing ball is 1% and that of its diameter is 3%. Using these data what accuracy can be deduced for the density of the steel, from which the ball is made? 
+The accuracy of the measurement of the mass of a steel bearing ball is 1% and that of its diameter is 3%. Using these data what accuracy can be deduced for the density of the steel, from which the ball is made?
  (3 pont)

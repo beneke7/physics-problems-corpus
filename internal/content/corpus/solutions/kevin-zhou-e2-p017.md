@@ -101,4 +101,4 @@ point: the full integral of E · ds can indeed be equal to V , and most of the c
 integral comes from the part of the vertical wire which is a distance of order a from the capacitor.
 18
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 19.  ^ 1 0USAPhO 2022, problem A2. A computational problem involving surface tension.
+[3] Problem 19.   ^ 1 0USAPhO 2022, problem A2. A computational problem involving surface tension.

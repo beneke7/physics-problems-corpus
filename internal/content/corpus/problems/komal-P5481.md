@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, smart-coordinates, limiting-and-special-cases]
 ---
 
-A vehicle starts from rest and accelerates uniformly. Point $P$, one of the outermost point on the rim of the vehicle wheel, is initially at its furthest position from the ground. By what factor does the acceleration of point $P$ increase after $n$ turns of the wheel? 
+A vehicle starts from rest and accelerates uniformly. Point $P$, one of the outermost point on the rim of the vehicle wheel, is initially at its furthest position from the ground. By what factor does the acceleration of point $P$ increase after $n$ turns of the wheel?
  (4 pont)

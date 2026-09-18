@@ -30,7 +30,9 @@ solution_language: en
     viewed from the top, linearly polarized light passing down through it will have its polarization rotated
 
                                                            6
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
     clockwise by θ, but light passing up through it will also have its polarization rotated clockwise by
     θ. In other words, if linearly polarized light goes through a Faraday rotator, bounces off a mirror,

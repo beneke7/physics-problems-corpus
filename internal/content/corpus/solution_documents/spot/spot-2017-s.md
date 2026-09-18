@@ -55,7 +55,9 @@ This question is quite similar in style to Olympiad questions.
 expression obtained for a simple harmonic oscillator. Nonetheless, it was interesting to see
 students produce good answers by deriving equations of motion from setting dE/dt to zero
 from conservation of mechanical energy.
-(b)(i) Most students were able to see that the kinetic energy term was expressed simply in
+
+
+(b)(i) Most students were able to see that the kinetic energy term was expressed simply in
 terms of ds/dt.
 
 The way to use dimensional analysis is to first identify the variables that might be important
@@ -98,7 +100,9 @@ conductor, since the bubble is mostly water.
 
 There were some answers that led inexplicably to negative potentials, as though there were
 some mechanism for charge transfer during bubble bursting.
-Q4. Balance
+
+
+Q4. Balance
 Some students managed to solve this efficiently. This question requires some familiarity with
 the concept of impedance. With an alternating voltage, the current through a resistor,
 capacitor, or inductor is proportional to the voltage, but with a possible phase difference.
@@ -142,7 +146,9 @@ Q6. Superfluid
 This question appears novel, though it can be answered using classical physics. Olympiad
 questions are commonly posed in such a way to introduce advanced physics in a simplified
 fashion. Physics generally works this way as well - we might get a reasonable physical
-estimate using dimensional analysis, and get more precise numerical factors with
+
+
+estimate using dimensional analysis, and get more precise numerical factors with
 increasingly sophisticated theories that agree also with experimental evidence.
 
 (a) Relativistic expressions are not required, and are unnecessarily complicated as we are
@@ -187,7 +193,9 @@ question unanswered.
 generally be clearer and more specific. The Boltzmann distribution gives the exp(-E/kT)
 factor, and students should realise that for the 2D gas, the energy is purely kinetic (no
 interactions between particles and thus no potential energy) and given by mv^2/2.
-A common mistake made by students was a blind application of formulas for 3D particles,
+
+
+A common mistake made by students was a blind application of formulas for 3D particles,
 e.g. using 3/2 kT for the thermal energy even though there are only two degree of freedom.
 
 (a)(ii) The normalisation of probabilities was generally well done.
@@ -230,7 +238,9 @@ probably not sufficiently developed in the question.
 The increased phase space density suggests that repeated removal of high speed particles
 doesn't “thin” the gas too drastically, and very low temperatures can be achieved with
 evaporative cooling.
-Q8. Time-of-flight Thermometry
+
+
+Q8. Time-of-flight Thermometry
 Most students displayed adequate skills in working with data, graphing and analysing.
 
 (a) Most managed to complete the dimensional analysis, though some tried to involve

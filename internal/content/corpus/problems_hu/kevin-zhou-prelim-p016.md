@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                         4
-    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
 
 
         (c) Melyik pályán alakul ki a legnagyobb sebesség?

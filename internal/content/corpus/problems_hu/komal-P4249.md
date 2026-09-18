@@ -9,10 +9,10 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4249. Egyenletes tömegeloszlású, hajlékony kötél két végpontját azonos magasságban rögzítjük az ábra szerint. Az egyensúlyi helyzetből kiindulva a következő két kísérletet végezzük: 
+P. 4249. Egyenletes tömegeloszlású, hajlékony kötél két végpontját azonos magasságban rögzítjük az ábra szerint. Az egyensúlyi helyzetből kiindulva a következő két kísérletet végezzük:
 
- I. A kötél közepét addig húzzuk lefelé, amíg el nem éri az $A$ pontot (ekkor a kötél közel V alakú). 
- II. A kötelet az eredeti helyzetéből kiindulva a közepénél fogva a $B$ pontig emeljük (fordított V alak). 
+ I. A kötél közepét addig húzzuk lefelé, amíg el nem éri az $A$ pontot (ekkor a kötél közel V alakú).
+ II. A kötelet az eredeti helyzetéből kiindulva a közepénél fogva a $B$ pontig emeljük (fordított V alak).
  A két folyamat során összesen $W$ munkát végeztünk. Mekkora munkavégzés szükséges a kötél közepének a $C$ pontig való felemeléséhez?
 
-![figure](../../raw_html/komal_figures/komal-P4249-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4249-fig1.gif)

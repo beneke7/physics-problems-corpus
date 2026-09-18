@@ -47,7 +47,9 @@ MARKS
                                        Page 1 of 23
                2013 Australian Science Olympiad Exam – Physics Solutions
                 c Australian Science Innovations 2013 ABN 81731558309
-                             SECTION A: MULTIPLE CHOICE
+
+
+                             SECTION A: MULTIPLE CHOICE
                            USE THE ANSWER SHEET PROVIDED
 
 
@@ -90,7 +92,9 @@ Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
                                                 Page 2 of 23
                         2013 Australian Science Olympiad Exam – Physics Solutions
                          c Australian Science Innovations 2013 ABN 81731558309
-Question 3
+
+
+Question 3
 When a screw is very tight the most effective way to loosen it is by:
 
    a. using a screwdriver with a fat handle and pushing down hard while turning to increase the grip.
@@ -136,7 +140,9 @@ heavier than a sheet of A4 printer paper which has a mass of 5 g.
                                            Page 3 of 23
                    2013 Australian Science Olympiad Exam – Physics Solutions
                     c Australian Science Innovations 2013 ABN 81731558309
-Question 6
+
+
+Question 6
 Two blocks are connected as shown. Block 1 has mass 5 kg and is on a frictionless, horizontal surface.
 Block 2 has mass 8 kg and is attached to block 1 by a rope with negligible mass, passing over a
 frictionless pulley. What is the acceleration of block 2?
@@ -173,7 +179,9 @@ Solution: a. as the velocity of each is constant the force on each must be zero.
                                            Page 4 of 23
                    2013 Australian Science Olympiad Exam – Physics Solutions
                     c Australian Science Innovations 2013 ABN 81731558309
-Question 8
+
+
+Question 8
 The shark, with a sucker-fish still attached, spots a possible meal and accelerates suddenly towards it.
 Under these conditions:
 
@@ -211,7 +219,9 @@ Solution: d. the block is not accelerating.            Solution: d. the block is
                                            Page 5 of 23
                    2013 Australian Science Olympiad Exam – Physics Solutions
                     c Australian Science Innovations 2013 ABN 81731558309
-                     SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                     SECTION B: WRITTEN ANSWER QUESTIONS
                        USE THE ANSWER BOOKLET PROVIDED
 Note: Suggested times are given for section B as a general guide only. You may take more or less time on any
 question – everyone is different.
@@ -257,7 +267,9 @@ question – everyone is different.
                                                 Page 6 of 23
                         2013 Australian Science Olympiad Exam – Physics Solutions
                          c Australian Science Innovations 2013 ABN 81731558309
-c) Compact fluorescent light bulbs come in a range of slightly different colours. Some are described
+
+
+c) Compact fluorescent light bulbs come in a range of slightly different colours. Some are described
    as ‘cool’ white and emit light which is more blue in colour, while others, described as ‘warm’
    white, emit light of a more orange colour.
    A room is lit by one or more lamps fitted with compact fluorescent bulbs. A shadow pattern forms
@@ -288,8 +300,14 @@ d) A sheet of black cardboard with a very small round hole in its centre is held
                                        Page 7 of 23
                2013 Australian Science Olympiad Exam – Physics Solutions
                 c Australian Science Innovations 2013 ABN 81731558309
-Solution:
-Marker’s comments:
+
+
+Solution:
+
+
+
+
+Marker’s comments:
 
   a) Most students were able to draw the first diagram correctly but many had difficulty with the logic
      in part (ii).
@@ -312,7 +330,9 @@ d) A sheet of black cardboard with a very small round hole in its centre is held
                                          Page 10 of 23
                   2013 Australian Science Olympiad Exam – Physics Solutions
                    c Australian Science Innovations 2013 ABN 81731558309
-Question 12
+
+
+Question 12
  Suggested Time: 20 min
 Some elements have radioactive isotopes (radioisotopes) which can be used for medical imaging. A
 radioisotope is injected into the bloodstream, whence it is taken up by organs in the body. Areas of
@@ -363,7 +383,9 @@ Give your answers both as formulae and numerically where applicable.
                                           Page 11 of 23
                    2013 Australian Science Olympiad Exam – Physics Solutions
                     c Australian Science Innovations 2013 ABN 81731558309
-     same continuous pipe this continuity equation would net be expected to hold.
+
+
+     same continuous pipe this continuity equation would net be expected to hold.
   d) What is the initial rate of energy release due to gamma radiation emitted from a thyroid gland? In
      this and subsequent parts you may neglect the time taken for the thyroid glands to saturate with
      99m Tc.
@@ -379,7 +401,7 @@ Give your answers both as formulae and numerically where applicable.
      minimum. Hence the time will be around 20-21 hours.
      Solving exactly by knowing that the decay is exponential gives
                                              τ1/2
-                                                           
+
                                                        EAts
                                         t=        ln           = 20 hours
                                              ln 2      Emin
@@ -405,7 +427,9 @@ Marker’s comments:
                                          Page 12 of 23
                   2013 Australian Science Olympiad Exam – Physics Solutions
                    c Australian Science Innovations 2013 ABN 81731558309
-Question 13
+
+
+Question 13
  Suggested Time: 20 min
 After some time spent pondering the workings of the universe, John says to Mary, “Energy is always
 conserved.” Mary, however, doesn’t agree. She says to John that if two identical cars travelling at the
@@ -455,7 +479,9 @@ collision. In this question, a positive velocity indicates motion to the right.
                                           Page 13 of 23
                    2013 Australian Science Olympiad Exam – Physics Solutions
                     c Australian Science Innovations 2013 ABN 81731558309
-   c) In the case where the collision is completely inelastic, the gunky blobs stick together to form a
+
+
+   c) In the case where the collision is completely inelastic, the gunky blobs stick together to form a
       superblob of total mass M ′ = (M + m). If m = 0.50 kg, M = 2.5 kg, v = 0.50 m s−1 and
       V = −0.10 m s−1 , determine the fraction of kinetic energy lost during the formation of the
       superblob.
@@ -487,7 +513,9 @@ There was some confusion about the differences between momentum, energy, force a
                                            Page 14 of 23
                     2013 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations 2013 ABN 81731558309
-Question 14
+
+
+Question 14
  Suggested Time: 40 min
 Friction is the force between surfaces that acts to prevent their relative motion. It acts along the plane of
 the surface. The part of the contact force which acts perpendicular to the plane of the surface is the
@@ -538,7 +566,9 @@ raised, so that the board is inclined at an angle θ to the bench.
                                            Page 15 of 23
                     2013 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations 2013 ABN 81731558309
-      as required.
+
+
+      as required.
       Marker’s comments:
       Students needed to give more explanation of their reasoning in this part.
       Students often incorrectly applied Newton’s third law.
@@ -588,7 +618,9 @@ score the marks.
                                             Page 16 of 23
                      2013 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations 2013 ABN 81731558309
-       This work of ours is done: there are no questions more.
+
+
+       This work of ours is done: there are no questions more.
           Your work has just begun: enjoy it, we implore!
 
 
@@ -602,7 +634,9 @@ The remaining pages in this booklet are for use as equipment for Q14.
                         Page 17 of 23
  2013 Australian Science Olympiad Exam – Physics Solutions
   c Australian Science Innovations 2013 ABN 81731558309
-         This page may be torn out and used as equipment.
+
+
+         This page may be torn out and used as equipment.
             A4 paper is 297 mm long by 210 mm wide.
 
 
@@ -619,7 +653,9 @@ fold 2                                                fold
                         Page 18 of 23
  2013 Australian Science Olympiad Exam – Physics Solutions
   c Australian Science Innovations 2013 ABN 81731558309
-       This page may be torn out and used as equipment.
+
+
+       This page may be torn out and used as equipment.
           A4 paper is 297 mm long by 210 mm wide.
 
 
@@ -628,7 +664,9 @@ fold 2                                                fold
                        Page 19 of 23
 2013 Australian Science Olympiad Exam – Physics Solutions
  c Australian Science Innovations 2013 ABN 81731558309
-                                                                              27
+
+
+                                                                              27
 
                                                                               26
 
@@ -687,7 +725,9 @@ fold 2                                                fold
                        Page 20 of 23                                          1
 2013 Australian Science Olympiad Exam – Physics Solutions
  c Australian Science Innovations 2013 ABN 81731558309                        0
-                                                                              27
+
+
+                                                                              27
 
                                                                               26
 
@@ -746,7 +786,9 @@ fold 2                                                fold
                        Page 21 of 23                                          1
 2013 Australian Science Olympiad Exam – Physics Solutions
  c Australian Science Innovations 2013 ABN 81731558309                        0
-                                                                              27
+
+
+                                                                              27
 
                                                                               26
 
@@ -805,7 +847,9 @@ fold 2                                                fold
                        Page 22 of 23                                          1
 2013 Australian Science Olympiad Exam – Physics Solutions
  c Australian Science Innovations 2013 ABN 81731558309                        0
-                                Integrity of Competition
+
+
+                                Integrity of Competition
 
 If there is evidence of collusion or other academic dishonesty, students will be
 disqualified. Markers’ decisions are final.

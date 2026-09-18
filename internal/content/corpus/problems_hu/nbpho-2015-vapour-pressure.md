@@ -25,4 +25,4 @@ Mérjük meg a szobahőmérsékleten az ismeretlen folyadék telített gőznyom�
 
 Felszerelés: fecskendő ismeretlen folyadékkal, vízzel telt fecskendő, palack, rugalmas cső, vonalzó, dugó, állvány, szalag.
 
-![](../figures/nbpho-2015-vapour-pressure-fig1.jpg)
+![](../../figures/nbpho/figures/nbpho-2015-vapour-pressure-fig1.jpg)

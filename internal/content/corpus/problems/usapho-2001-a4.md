@@ -35,6 +35,6 @@ $$
 $$
 
 where $\mathrm{e}^{+}$represents a positron, $v$ represents a neutrino, and $\gamma$ represents a gamma ray. This set of reactions releases a thermal energy of 26.2 MeV . Assume that the sun's power production and temperature at any depth does not change with time. Find the intensity (number per second per square meter) of solar neutrinos at the location of the Earth and the number of solar neutrinos in the adult human body. Assume that the adult human body has a volume of $8.00 \times 10^{-2} \mathrm{~m}^{3}$ and that neutrinos travel at the speed of light.
-![](usapho-2001-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2001-a4-fig01.png)
 
 ## 2001 Semi-Final Exam <br> Part B

@@ -39,7 +39,9 @@ r2
 Since the ring fixes r, the potential on the ring is just proportional to cosθ, which is in turn
 proportional to z. But a potential linear in z is equivalent to a uniform downward field, so
 the bead oscillates like the mass of a pendulum, with amplitude π/2.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 The answer remains the same when the ring is removed! Conservation of energy states that
 kqpcosθ
 r2
@@ -73,11 +75,11 @@ On the other hand, the rate of change of the energy stored in the capacitor is
 Pcap =
 d
 dt
-
+
 1
 2
 CV 2
-
+
 =
 1
 2
@@ -114,25 +116,27 @@ Solution. The idea is that since the positrons are so light, they will be extrem
 the protons hardly move. Let v1 be their final speed. Then, energy conservation tells us that
 kq2
 a
-
+
 4 +
 2
 √
 2
-
+
 ≈
 kq2
 √
 2a
 + 2
-
+
 1
 2
 mv2
 1
-
+
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Solving for v1 yields
 v1 =
 r
@@ -148,12 +152,12 @@ kq2
 √
 2a
 ≈ 2
-
+
 1
 2
 Mv2
 2
-
+
 , v2 =
 s
 kq2
@@ -185,7 +189,9 @@ parallel fixed rods a distance d apart.
 The masses of the beads are m and M and they carry charges q and Q. Initially, the larger mass
 M is at rest and the other one is far away approaching it at a speed v0. For what values of v0 does
 the smaller bead ever get to the right of the larger bead?
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. When v0 is just large enough for the small bead to get to the right of the big bead, when
 both beads end up side-to-side, the small bead’s velocity should be just a bit greater than that of
 the big bead for it to get past. This means the minimum possible value vm of v0 should be just
@@ -206,11 +212,11 @@ mvm = (m + M)v.
 Thus, we have
 1
 2
-
+
 m −
 m2
 m + M
-
+
 v2
 m =
 kqQ
@@ -241,12 +247,14 @@ keeping the conductor as a whole from falling, such as a normal force from the g
 theorem. So the positron has an initial downward acceleration of 2g. (We had to specify
 the positron was at the center, or else it would have an additional acceleration due to charge
 induction, which we could compute using image charges.)
-[3] Problem 5.  m 1 0USAPhO 2008, problem B2. You may ignore part (c), which was removed in the
+[3] Problem 5.   m 1 0USAPhO 2008, problem B2. You may ignore part (c), which was removed in the
 final version of the exam, though you can also do it for extra practice.
-[3] Problem 6.  ^ 1 0USAPhO 2019, problem B1.
-[5] Problem 7.  h 1 0IPhO 2004, problem 1. A nice question on the dynamics of a multi-part system.
+[3] Problem 6.   ^ 1 0USAPhO 2019, problem B1.
+[5] Problem 7.   h 1 0IPhO 2004, problem 1. A nice question on the dynamics of a multi-part system.
 2 The Lorentz Force
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2
 Some questions below will involve special relativity. The Lorentz force law as written in
 idea 1 is still valid as long as F is interpreted as dp/dt, where the relativistic momentum is
@@ -294,7 +302,9 @@ Since the quantity α dropped out, this setup acts like a magnetic “lens”.
 Example 4: Griffiths 7.50
 In a “betatron”, electrons move in circles in a magnetic field. When the magnetic field is
 slowly increased, the accompanying electric field will impart tangential acceleration.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Suppose the field always has the same spatial profile B(r,t) = B0(r)f(t). For what B0(r) is
 it possible for an electron to start at rest in zero magnetic field, and then move in a circle of
 constant radius as the field is increased?
@@ -349,7 +359,9 @@ which means the field profile should be B0(r) ∝ 1/r. (Of course, a real betatr
 since it only needs to obey B = Bav/2 at the radii where electrons will be orbiting.)
 [3] Problem 8 (Griffiths 5.17). In the lab frame, a large parallel plate capacitor with uniform surface
 charge σ on the upper plate and −σ on the lower is moving with a constant speed v as shown.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Find the magnetic field between the plates and also above and below them.
 (b) Find the magnetic force per unit area on the upper plate, including its direction.
 (c) Assuming σ is fixed, what happens to the force per unit area between the plates in the limit
@@ -392,7 +404,9 @@ get P ∝ σ2
 [3] Problem 9. NBPhO 2012, problem 7. An elegant Lorentz force problem with wires. (For a similar
 but more difficult setup, try IPhO 2020, problem 1B.)
 [4] Problem 10 (Purcell 6.35/INPhO 2008.6). Consider the arrangement shown below.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 The force between capacitor plates is balanced against the force between parallel wires carrying
 current in the same direction. A voltage alternating sinusoidally with angular frequency ω is applied
 to the parallel-plate capacitor C1 and also to the capacitor C2, and the current is equal to the
@@ -441,7 +455,9 @@ C2
 0ω2
 2
 .
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, the average force on the right is
 ⟨F⟩ =
 µ0C2
@@ -517,13 +533,15 @@ q
 By construction, the electron and the proton have the same momentum p, so we have I ∝ 1/q.
 That is, to accommodate the proton, we just have the flip the sign of the currents, I′
 i = −Ii.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Every step in the solution to part (a) still works with relativity accounted for (the change of
 p = mv to p = γmv doesn’t matter, because we never used p = mv), so the answer is the
 same: we just flip the currents.
-[5] Problem 12.  h 1 0IPhO 2000, problem 2. A solid question on the Lorentz force with real-world
+[5] Problem 12.   h 1 0IPhO 2000, problem 2. A solid question on the Lorentz force with real-world
 relevance. Requires a little relativity, namely the expressions for relativistic momentum/energy.
-[4] Problem 13.  T 1 0IPhO 1996, problem 2. An elegant problem on particles in a magnetic field.
+[4] Problem 13.   T 1 0IPhO 1996, problem 2. An elegant problem on particles in a magnetic field.
 (There’s a deeper principle behind the solution to this problem; see R3 for more discussion.)
 3 Magnetic Moments
 [3] Problem 14. Consider a current loop I in the xy plane in a constant magnetic field B.
@@ -540,9 +558,9 @@ Solution. (a) We see that
 F = I
 I
 ds × B = I
-I
+ I
 ds
-
+
 × B = 0,
 as desired.
 (b) The magnetic moment of the square is
@@ -567,7 +585,9 @@ dx = −IL2
 Similarly, the torques due to the other two sides add up to
 τ = IL2
 (x̂ × (ŷ × B)).
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Manually performing the cross products, we have
 −ŷ × (x̂ × B) = −Byx̂, x̂ × (ŷ × B) = Bxŷ.
 Adding these together gives exactly the desired result, τ = m × B.
@@ -589,9 +609,9 @@ ds × (B × s) − I
 I
 B × (s × ds)
 = −τ − IB ×
-I
+ I
 s × ds
-
+
 .
 Now, s × ds = 2dA, because as s moves a little along the loop it sweeps out a small triangle
 of area. Thus we have 2τ = 2IA × B, giving the result.
@@ -610,7 +630,9 @@ on top of the dipole itself. This leaves the first term, which is relatively eas
 All of these results also hold for electric dipoles in an electrostatic field, if we replace m with
 p and B with E. In more general situations, things get much more subtle; we have to account
 for the “hidden” momentum, to be discussed in R3.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The expression for the potential energy above is notoriously subtle. Here’s the problem: we
 know the Lorentz force on a charge is qv × B, which means magnetic fields never do work.
@@ -649,7 +671,9 @@ it. But conservation of energy isn’t violated, because the force from the posi
 is conservative: the work it does on the negative charge to draw it close is precisely the
 opposite of the work an external agent needs to do to pull it away. The force of a magnet on
 a paper clip is also conservative.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 It’s also interesting to consider a slightly different case. Unlike a bar magnet, an electromagnet
 (i.e. a magnet created by moving current in a loop) can be turned on and off with the flick
 of a switch. Therefore, we might suspect that the following is a perpetual motion machine:
@@ -675,7 +699,9 @@ to stay horizontal, so that it can freely rotate, but the side that needs to be 
 between the hemispheres.
 [3] Problem 15 (Griffiths 6.23). A familiar toy consists of donut-shaped permanent magnets which
 slide frictionlessly on a vertical rod.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Treat the magnets as dipoles with mass md and dipole moment m, with directions as shown above.
 (a) If you put two back-to-back magnets on the rod, the upper one will “float”. At what height
 z does it float?
@@ -685,9 +711,9 @@ Solution. (a) We know that the field from a magnetic dipole is
 B =
 µ0m
 4πr3
-
+
 2cosθr̂ + sinθθ̂
-
+
 .
 Along the z-axis, this reduces to
 Bz =
@@ -700,40 +726,40 @@ The force on the upper magnet must balance gravity, so
 2π
 d
 dz
-
+
 1
 z3
-
+
 − mdg = 0
 which yields
 z =
-
+
 3µ0m2
 2πmdg
-1/4
+ 1/4
 .
 (b) The net force on the middle magnet comes from the field from the top and bottom magnets,
 along with gravity,
 3µ0m2
 2π
-
+
 1
 x4
 −
 1
 y4
-
+
 = mdg.
 Similarly, the top magnet, experiences forces from the bottom and middle magnets,
 3µ0m2
 2π
-
+
 1
 y4
 −
 1
 (y + x)4
-
+
 = mdg.
 Putting these two equations together yields
 1
@@ -750,18 +776,20 @@ y4
 .
 Defining α = x/y, we then need to solve
 α =
-
+
 (1 + α)4
 2(1 + α)4 − 1
-1/4
+ 1/4
 .
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 We solve this using iteration, as introduced in P1. That is, we guess a reasonable value like
 α = 0.5, then repeatedly plug in
-
+
 (1 + Ans)4
 2(1 + Ans)4 − 1
-1/4
+ 1/4
 which yields x/y = 0.85.
 [3] Problem 16 (PPP 89). Two identical small bar magnets are placed on opposite ends of a rod of
 length L as shown.
@@ -797,14 +825,14 @@ FCD = (mC · ∇)BD = m
 = m
 ∂
 ∂x
-
+
 −
 µ0m
 4π
 ŷ
 x3
 x=−L
-
+
 =
 3µ0
 4π
@@ -820,7 +848,9 @@ This produces a torque on the rod, about its pivot point, of
 m2
 L3
 ẑ.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 The force on magnet D due to magnet C is equal and opposite, and therefore provides an
 equal torque τ2 on the rod. Therefore, the total rate of change of angular momentum is
 τ0 + τ1 + τ2 = 0.
@@ -875,7 +905,9 @@ s
 md3
 kq2
 .
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 We can use Kepler’s third law to find the period of the eccentric elliptic orbit the charge actually
 follows. This orbit has semimajor axis d/2, so it has period
 T′
@@ -943,7 +975,9 @@ v0ω cos(ωt) =
 q
 m
 (E0 − B0v0(1 − cos(ωt))) =⇒ v0 = E0/B0.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, our final solution is
 x(t) =
 v0
@@ -985,11 +1019,11 @@ q2
 r + qṙ × B.
 (b) Note that since B is along the ẑ direction, and v = ω×r where ω is also along the ẑ direction,
 all three vector terms in the above equation are parallel. So we have
-
+
 q2
 2πϵ0r3
 + qωB + mω2
-
+
 r = 0.
 Setting the term in parentheses to zero, and noting that the separation r has magnitude d,
 ω =
@@ -1004,13 +1038,15 @@ m2
 ≥
 2q2
 πmϵ0d3
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 which gives
 d ≥
-
+
 2m
 πϵ0B2
-1/3
+ 1/3
 .
 For smaller d, the charges will always fly apart, either due to electrostatic repulsion if they’re
 slow, or the angular momentum barrier if they’re fast.
@@ -1045,17 +1081,17 @@ r2
 ṙ
 r
 −
-
+
 r̂ ·
 ṙ
 r
-
+
 r̂ = r̂ ×
-
+
 ṙ
 r
 × r̂
-
+
 =
 1
 r2
@@ -1077,17 +1113,19 @@ with velocity v with respect to this frame, the components of the field parallel
 E′
 ∥ = E∥, B′
 ∥ = B∥
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 while the components perpendicular are
 E′
 ⊥ = γ(E⊥ + v × B), B′
 ⊥ = γ
-
+
 B⊥ −
 v
 c2
 × E
-
+
 .
 Remark: Galilean Field Transformations
 The nonrelativistic limit of the field transformation is useful, but one has to be careful in
@@ -1131,7 +1169,9 @@ By the way, whenever relativity or similarly subtle physics is involved, interne
 be generally poor. If you search for “Galilean electrodynamics”, the first result will be a
 journal for papers that deny relativity. If you want to learn more, just read this classic paper.
 [3] Problem 21. We can use the Galilean field transformations to solve problem 18.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (a) In the magnetic limit, show that the Lorentz force stays the same between frames, as it should.
 Then use the field transformations to find an appropriate reference frame where the problem
 becomes easy.
@@ -1151,14 +1191,14 @@ we found earlier.)
 F′
 = q(E + (u − v) × (B − v × E/c2
 )) = F + q
-
+
 −v × B +
 v × v × E
 c2
 −
 u × v × E
 c2
-
+
 .
 The extra terms are all second order in v/c.
 We can now find a frame where there’s no magnetic field, by letting B − v × E/c2 = 0. In
@@ -1182,7 +1222,9 @@ along the direction of E, until it gets infinitely long at E/B = c.
 There are a number of other nice questions one can ask about the dynamics of point charges,
 which use more advanced concepts such as “hidden” momentum, canonical momentum, or adiabatic
 invariants. These ideas are collected in a section of R3.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 5 Continuous Systems
 Example 6: The Drude Model
 Model a conductor as a set of electrons, of charge q, mass m, and number density n, which are
@@ -1238,7 +1280,9 @@ Above we tacitly assumed there was a given probability of collision per unit tim
 not right: when a particle flies through a medium, there is instead a given probability of
 collision per unit length it travels. These are equivalent for electrons moving at constant
 speed, but intuitively, we would expect electrons to have to accelerate starting from rest after
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 each collision, in which case the two differ. To estimate this quickly, note that if the typical
 collision distance is ℓ, the kinetic energy picked up between collisions is mv2/2 ∼ qEℓ, giving
 typical speed v ∝
@@ -1294,7 +1338,9 @@ From this, we can directly read off the components of the resistivity,
 
 .
 When the electric field is in the ẑ direction, the magnetic field does nothing, which makes sense.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Example 7: Griffiths 5.40
 Since parallel currents attract, the currents within a single wire should contract. To estimate
 this, consider a long wire of radius r. Suppose the atomic nuclei are fixed and have uniform
@@ -1346,7 +1392,9 @@ For nonrelativistic motion, the contraction is extremely small. (However, in pla
 the positive charges are also free to move, this so-called pinch effect can be very significant.)
 [2] Problem 23 (Griffiths 5.41). A current I flows to the right through a rectangular bar of conducting
 material, in the presence of a uniform magnetic field B pointing out of the page, as shown.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (a) If the moving charges are positive, in what direction are they deflected by the magnetic field?
 This deflection results in an accumulation of charge on the upper and lower surfaces of the
 bar, which in turn produces an electric force to counteract the magnetic one. Equilibrium
@@ -1381,7 +1429,9 @@ d3
 µ0I2
 .
 Is the force attractive or repulsive?
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The Lorentz force v × B pushes on the charges of the sphere, causing the sphere to
 develop an electric dipole moment, with more positive charge closer to the wire. Then, the motion
 of the positive and negative charge causes a secondary Lorentz force. This force almost cancels out,
@@ -1404,11 +1454,11 @@ where we used ϵ0µ0 = 1/c2. Since we only want to find out how the answerscales
 the charge distribution on the sphere as a pair of opposite charges ±q separated by distance a,
 where p ∼ qa. Then the net force on those charges is
 F ∼ qv
-
+
 dB
 dr
 a
-
+
 ∼ pv
 dB
 dr
@@ -1433,10 +1483,10 @@ and the wire is neutral, so the force vanishes!
 The problem is that at this order, genuine relativistic effects come into play. As you’ll see in R3,
 the relativistic “loss of simultaneity” effect discussed in R1 implies that in the sphere’s frame, the
 wire actually has a nonzero charge density. This accounts for both of the paradoxes above.
-[3] Problem 25.  m 1 0USAPhO 1997, problem B1. A nice problem on the dynamics of a plasma.
+[3] Problem 25.   m 1 0USAPhO 1997, problem B1. A nice problem on the dynamics of a plasma.
 (Note that the assumption made in part (e) is somewhat arbitrary, without much physical meaning.
 It’s just made to make part (f) a bit simpler.)
-[3] Problem 26.  ^ 1 0USAPhO 2019, problem A3. This is a tough but useful problem. The first half
+[3] Problem 26.   ^ 1 0USAPhO 2019, problem A3. This is a tough but useful problem. The first half
 derives the so-called Child–Langmuir law, covered in problem 2.53 of Griffiths.
-[3] Problem 27.  ^ 1 0USAPhO 2022, problem B3. About the weird behavior of electrons in solids.
+[3] Problem 27.   ^ 1 0USAPhO 2022, problem B3. About the weird behavior of electrons in solids.
 26

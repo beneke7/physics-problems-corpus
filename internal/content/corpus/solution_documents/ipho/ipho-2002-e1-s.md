@@ -51,7 +51,9 @@ PART A
              the radius of the steel ball << length of the wire [0.5 pts]
              flexibility of the wire, air friction, etc [0.1 pts, only when one of the two
              major points above is not given]
-3. [Total 1.0 pts] Data sample from simple pendulum experiment
+
+
+3. [Total 1.0 pts] Data sample from simple pendulum experiment
    # of cycle ≥ 20 [0.2 pts.] , difference in T ≥ 0.01 s [0.4 pts], # of data ≥ 4 [0.4 pts]
 
      No.          t(s) for 50 cycles          Period, T (s)     Scale marked on the
@@ -94,7 +96,9 @@ PART A
                       − Tosc ) 4πg L − L = 4πg ∆ L
                              2
                                =          1     2
-                     g
+
+
+                     g
        ∆L =            2
                            2
                          Tosc(
@@ -146,7 +150,9 @@ And the standard deviation is:
                N −1                5
 
 other legitimate methods may be used
-PART B
+
+
+PART B
 
 1. The experimental set up:[Total 1.0 pts]
                                          [0.2 pts]                   [0.2 pts]
@@ -190,7 +196,9 @@ glass tube
                      e 2P (πr 2 )                                                      [0.1 pts]
            I ∆t =                 ∆h
                      kB     T
-3. The experimental data: [ Total 1.0 pts]
+
+
+3. The experimental data: [ Total 1.0 pts]
 
     No.        ∆h (arbitrary       I (mA)          ∆t (s)
                   scale)
@@ -216,7 +224,9 @@ glass tube
        2            16             14.24            4.00           2280.61          9120.48
        3            20             17.80            4.00           2940.00         11760.00
        4            24             21.36            4.00           3600.13         14400.52
-   Plot of I∆t vs ∆h from the data listed above
+
+
+   Plot of I∆t vs ∆h from the data listed above
 
 
 
@@ -246,7 +256,9 @@ I ∆t
                2        14.24          9120.48           640.4831       10712.37
                3        17.80         11760.00           660.6742       11050.07
                4        21.36         14400.52           674.1816       11275.99
-Average of e/kb = 1.07 × 104 Coulomb K/J
+
+
+Average of e/kb = 1.07 × 104 Coulomb K/J
       [1.0 pts]
 
         No.       e/kb         difference       Square

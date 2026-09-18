@@ -90,11 +90,11 @@ v2
 ,
 v2
 g
-
+
 1 +
 2gh
 v2
-
+
 ,
 v2/g
 1 − 2gh/v2
@@ -113,11 +113,11 @@ v2
 ,
 v2
 g
-
+
 1 +
 2gh
 v2
-
+
 When h is small, the extra distance at the end of the trajectory from dipping down a vertical
 distance h can be found with binomial theorem: h, and 2h respectively. Since the trajectory is
 symmetric, when h ≈ 0 (to be more concise, h ≪ v2/g) the optimal launch angle is 45 deg, so by

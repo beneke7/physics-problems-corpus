@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200904"
 verification_status: pending
 ---
 
-Andrew and Ben are running uniformly along a circular track. If they run in opposite directions between two meetings Andrew steps 225 and Ben steps 220, while if they run in the same directions they have to step ten times as much. Ben is quicker then Andrew. 
- a ) How many steps is one lap for Andrew and for Ben? 
- b ) Determine the ratio of the speeds of the two runners. 
+Andrew and Ben are running uniformly along a circular track. If they run in opposite directions between two meetings Andrew steps 225 and Ben steps 220, while if they run in the same directions they have to step ten times as much. Ben is quicker then Andrew.
+ a ) How many steps is one lap for Andrew and for Ben?
+ b ) Determine the ratio of the speeds of the two runners.
  (4 pont)

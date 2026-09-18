@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-Two spherical shells of inner radius $R$ and $3R$ are placed far from each other. They are made of some thin conducting material, the width of their wall $d$ is thin: $d\ll R$. At the centres of the spheres there are charges of $2Q$ and $Q$. What is the minimum work which should be done in order to interchange the charges? (There are small holes on the walls.) 
+Two spherical shells of inner radius $R$ and $3R$ are placed far from each other. They are made of some thin conducting material, the width of their wall $d$ is thin: $d\ll R$. At the centres of the spheres there are charges of $2Q$ and $Q$. What is the minimum work which should be done in order to interchange the charges? (There are small holes on the walls.)
  (5 pont)

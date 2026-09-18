@@ -42,7 +42,6 @@ the depth of the well finite. Now ψ ′ is always continuous, though it has a s
 outside the well, and ⟨ψ|H 2 |ψ⟩ is perfectly well defined. We get back the expected results when we
 take the well depth to infinity. This kind of physicist’s regulator is extremely reliable, since it is in
 accord with how nature actually works, but it’s also very clunky to use in practice.
-136 5. Fundamentals of Quantum Mechanics
 
 
    Here’s another issue that tends to trouble mathematicians, though it doesn’t trouble physicists.
@@ -93,7 +92,6 @@ We now review the adiabatic theorem, which describes the result of slowly changi
   • Suppose we have a Hamiltonian H(xa , λi ) with control parameters λi . If the energies never cross,
     we can index the eigenstates as a function of λ as |n(λ)⟩. If the space of control parameters is
     contractible, the |n(λ)⟩ can be taken to be smooth, though we will see cases where they cannot.
-137 5. Fundamentals of Quantum Mechanics
 
 
  • The adiabatic theorem states that if the λi are changed sufficiently slowly, a state initially
@@ -142,7 +140,6 @@ We now turn to Berry’s phase.
                                      d
                               0=        ⟨n|n⟩ = ⟨ṅ|n⟩ + ⟨n|ṅ⟩ = 2 Re⟨n|ṅ⟩.
                                      dt
-138 5. Fundamentals of Quantum Mechanics
 
 
  • Using the chain rule, we find
@@ -196,9 +193,8 @@ We now turn to Berry’s phase.
                            Fij = ∂i Aj − ∂j Ai − i[Ai , Aj ],         Fij′ = ΩFij Ω†
 
    and the generalization of the Berry phase, called the Berry holonomy, is
-                                                 I          
+                                                  I
                                                            i
                                      U = P exp i Ai dλ .
-139 5. Fundamentals of Quantum Mechanics
 
 

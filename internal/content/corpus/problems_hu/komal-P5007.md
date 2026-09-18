@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5007. Egy $70^\circ$-os törőszögű prizmára lézersugarat bocsátunk. A sugár beesési szöge megegyezik a kilépési szöggel. A lézersugár az eredeti irányától $50^\circ$-kal térül el. 
+P. 5007. Egy $70^\circ$-os törőszögű prizmára lézersugarat bocsátunk. A sugár beesési szöge megegyezik a kilépési szöggel. A lézersugár az eredeti irányától $50^\circ$-kal térül el.
  Mekkora a prizma anyagának törésmutatója?

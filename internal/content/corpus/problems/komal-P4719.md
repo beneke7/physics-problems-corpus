@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, choose-reference-frame]
 ---
 
-A kayaker paddles up the river. The speed of the water is 5 m/s. At what speed should the kayaker paddle if he wants to cover a certain distance with the least work? (The drag force is proportional to the square of the speed.) 
+A kayaker paddles up the river. The speed of the water is 5 m/s. At what speed should the kayaker paddle if he wants to cover a certain distance with the least work? (The drag force is proportional to the square of the speed.)
  (5 pont)

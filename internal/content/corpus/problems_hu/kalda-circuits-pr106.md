@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi áramkör sajátfrekvenciáit.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr106-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr106-fig1.jpg)

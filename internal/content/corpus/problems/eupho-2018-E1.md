@@ -29,7 +29,7 @@ verification_status: pending
 
 You are going to study a membrane of anodic aluminum oxide. The membrane is transparent; it has thickness $h$ and cylindrical channels of diameter $d$ as shown in the figure. Your goal is to determine parameters $h$, $d$ and porosity $p$ (the volume fraction of channels in the membrane). Assume the membrane to be optically homogeneous and please **do not touch** the surface of the membrane!
 
-![figure](../../sources/eupho/figures/eupho-2018-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2018-E1-1.png)
 
 ---
 
@@ -55,7 +55,7 @@ Reset button RST deletes all the records and resets the timer. Buttons LEFT and 
 
 The reflection intensity depends on the angle of incidence $\alpha$ due to interference of rays reflected from top and bottom surfaces of the membrane.
 
-![figure](../../sources/eupho/figures/eupho-2018-E1-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2018-E1-2.png)
 
 **Task.** Determine the thickness $h$ of the membrane. Assume the refractive index of the membrane to be $n_o = 1.50$. To avoid birefringence described in part C, incident light should have polarization perpendicular to the plane of incidence (plane of the figure). If the contrast of interference is too weak, try the other surface of the membrane.
 
@@ -70,11 +70,11 @@ $$\frac{1}{n_2^2} = \frac{\cos^2\beta_2}{n_o^2} + \frac{\sin^2\beta_2}{n_e^2}.$$
 
 One can show that the optical path difference between the beams is $\delta = h(n_1\cos\beta_1 - n_2\cos\beta_2)$.
 
-![figure](../../sources/eupho/figures/eupho-2018-E1-3.png)
+![figure](../../../../../sources/eupho/figures/eupho-2018-E1-3.png)
 
 **Task.** Determine the difference $\Delta n = |n_e - n_o|$ of the membrane. Find the porosity $p$ using the given plot of $\Delta n(p)$.
 
-![figure](../../sources/eupho/figures/eupho-2018-E1-4.png)
+![figure](../../../../../sources/eupho/figures/eupho-2018-E1-4.png)
 
 ---
 

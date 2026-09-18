@@ -61,7 +61,7 @@ ahogy az 1. ábrán is látható.
                                                        cm0 dT   L dm
                                                               =
                                                          T       T0
-dieren iális összefüggéséhez vezet. Ezt kell integrálni a kezdeti állapottól a végs® állapotig. Az alsó h®tartály T
+di eren iális összefüggéséhez vezet. Ezt kell integrálni a kezdeti állapottól a végs® állapotig. Az alsó h®tartály T
 h®mérséklete T0 -ról Tmin -re     sökken, és közben a folyékony nitrogén tömege m-r®l nullára     sökken. Tehát
 
                                                                 T0    Lm
@@ -81,14 +81,16 @@ megvárjuk az inga lengéseinek le sillapodását, és végül a ko sit elengedj
 
 
   1 Részletek a verseny honlap ján: http://eik.bme.hu/~vanko/fizika/eotvos.htm.
-                                                            2. ábra
+
+
+                                                            2. ábra
 
 
 
       a) A mozgás során mennyire tér ki a fonál a függ®legest®l?
       b) Mekkora utat tesz meg a kisko si, amíg a fonál újra függ®legessé válik?
       Megoldás. Az ingából és kisko siból álló rendszerre lényegében               sak a nehézségi er® és a lejt®re mer®leges irá-
-nyú kényszerer®k hatnak, hiszen a kerekek gyorsuló forgásához szükséges tapadási súrlódási er®t a könnyen gördül®
+nyú kényszerer®k hatnak, hiszen a kerekek gyorsuló forgásához szükséges tapadási súrlódási er®t a  könnyen gördül®
 kifejezés miatt elhanyagolhatjuk. Lejt®irányú komponense          sak a nehézségi er®nek van, ezért a rendszer tömegközép-
 pontja a lejt®vel párhuzamos irányban állandó, g sin α gyorsulással mozog. A tömegközéppont a mozgás során a lejt®re
 mer®leges irányban is gyorsul, ez azonban a további gondolatmenet szempontjából nem lényeges.
@@ -113,10 +115,10 @@ alakban is felírható, ahol  g
                                   g   a
                               = − . A gyorsuló rendszerben tehát minden test úgy mozog, mintha egy             ∗
                                                                                                                        g
-                                                                                                                 eektív
+                                                                                                                 e ektív
 nehézségi gyorsulású er®térben helyezkedne el. Esetünkben a vonatkoztatási rendszer               a
                                                                                          gyorsulása éppen megegyezik
-a g nehézségi gyorsulás lejt®irányú összetev®jével, ezért az eektív
+a g nehézségi gyorsulás lejt®irányú összetev®jével, ezért az e ektív
                                                                      ∗
                                                                                g
                                                                        nehézségi gyorsulás a lejt®re mer®leges irányú,
@@ -168,7 +170,9 @@ ilyen inga lengésideje kis kitérések esetén:
                                                                     2ℓ
                                                     T = 2π                .
                                                                  3g cos α
-                                                                                                      ◦
+
+
+                                                                                                      ◦
 Vajon alkalmazható-e most ez az összefüggés? A feladat szövege szerint a lejt® nem túl meredek. Egy 45 -os lejt® már
 elég meredeknek számít, de az ekkora szögben kitérített inga lengésideje is sak kb. 4%-kal nagyobb a fenti képlettel
                                        ◦
@@ -201,7 +205,7 @@ mális érték felét?
 R2 = R. Jól ismert, hogy ha egy töltetlen, C kapa itású kondenzátorból és egy R ellenállásból álló soros RC kap so-
 lásra U0 feszültséget kap solunk, akkor a kondenzátor feszültsége az
 
-                                                                  t
+                                                                   t
                                                 U (t) = U0 1 − e− τ
 
 függvény szerint változik, ahol az id®állandó τ = RC .
@@ -215,7 +219,7 @@ feszültsége nagyon jó közelítéssel lineárisan változik.
 szögjel els® fél periódusában (amikor a dióda nyitva van, és mindkét ellenálláson folyik áram)
 
 
-                                                    R                                2           
+                                                    R                                2
                            U0 − UC = R1 I1 (t) =      I1 (t),   amib®l    I1 (t) =     U0 − UC (t) .
                                                     2                                R
                                               T
@@ -223,25 +227,27 @@ szögjel els® fél periódusában (amikor a dióda nyitva van, és mindkét ell
                                               2
 tozása
 
-                                          1       T   T             T            
+                                          1       T   T               T
                               ∆UC (t) =     I1 (t) =     U0 − UC (t) =   U0 − UC (t) .
                                           C       2  RC                τ
    A másik fél periódusban (amikor a dióda lezár, és        sak az egyik ellenálláson folyhat áram)
 
-                                                                                     1              
+                                                                                     1
                          −U0 − UC = R2 I2 (t) = RI2 (t),        amib®l   I2 (t) =       − U0 − UC (t) ,
                                                                                      R
    és a fél periódus alatt a kondenzátor feszültségének megváltozása
 
-                                      1       T   T                 T               
+                                      1       T   T                   T
                           ∆UC (t) =     I2 (t) =      − U0 − UC (t) =     − U0 − UC (t) .
                                       C       2  2RC                  2τ
    Egy teljes periódus alatt a feszültség teljes megváltozása a két fél periódus alatti változás összege:
-                                                                                         
-                                             T               3T              U0
+
+                                             T                 3T              U0
                                    ∆UC (t) =     U0 − 3UC (t) =                   − UC (t) .
                                              2τ                 2τ             3
-                                                                                          U0
+
+
+                                                                                          U0
    A kondenzátor feszültsége akkor nem n® tovább, ha ∆UC (t) = 0, azaz ha UC (t) =           , tehát a kondenzátor hosszú
                                                                                           3
                   U0
@@ -253,14 +259,14 @@ tölt®dések és kisülések kis ingadozása nem is látszik. Egy olyan folyama
 lényegében folyamatosan n® a kezdeti UC (0) = 0 értékt®l az UC (∞) értékig.
    Az utolsó egyenletünk alapján
 
-                                                            
-                         d UC (∞) − UC (t)    ∆ UC (∞) − UC (t)      3                
+
+                         d UC (∞) − UC (t)    ∆ UC (∞) − UC (t)      3
                                             ≈                    =−     UC (∞) − UC (t) .
                                 dt                   T              2τ
-   Ez pedig egy ugyanolyan dieren iálegyenlet, mint amely leírja egy kondenzátor feltölt®dését (és amely jól ismert
+   Ez pedig egy ugyanolyan di eren iálegyenlet, mint amely leírja egy kondenzátor feltölt®dését (és amely jól ismert
 a radioaktív bomlástörvényb®l is), megoldása:
 
-                                                                      3t
+                                                                          3t
                                        UC (∞) − UC (t) = UC (∞) − UC (0) e− 2τ ,
 
    amib®l látható, hogy a kondenzátor akkor tölt®dik fel a maximális érték felére, ha
@@ -283,9 +289,9 @@ részeredményekért második díjat nyert Bonifert Balázs, a budapesti Baár-M
 lyos tanulója, Horváth Norbert tanítványa és Pá sonyi Péter, a BME me hatronikai mérnök alapszakos hallgatója,
 aki a Zalaegerszegi Zrínyi Miklós Gimnáziumban érettségizett Pálovi s Róbert tanítványaként.
    A második és a harmadik feladat ki sit hiányos megoldásáért harmadik díjat nyert Molnár Szabol s, a BME
-zika BS   szakos hallgatója, aki a Ke skeméti Katona József Gimnáziumban érettségizett Sáróné Jéga-Szabó Irén
+ zika BS   szakos hallgatója, aki a Ke skeméti Katona József Gimnáziumban érettségizett Sáróné Jéga-Szabó Irén
 tanítványaként.
-   Az els® feladat hibátlan megoldásáért di séretet kapott Fekete Dezs® Domonkos, a BME zika BS              szakos hall-
+   Az els® feladat hibátlan megoldásáért di séretet kapott Fekete Dezs® Domonkos, a BME  zika BS              szakos hall-
 gatója, aki a Ke skeméti Katona József Gimnáziumban érettségizett Sáróné Jéga-Szabó Irén tanítványaként, Selmi
 Bálint, a Pé si Le®wey Klára Gimnázium 12. osztályos tanulója, Simon Péter, Kotek László és Pálfalvi László tanít-
 ványa, valamit Sepsi Csombor Márton, a Zalaegerszegi Zrínyi Miklós Gimnázium 12. osztályos tanulója, Ková s

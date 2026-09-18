@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-A cube of uniform density is slid from one end of the table to the other. What is the maximum of the coefficient of the kinetic friction if the performed work is less than the work done while the cube is slowly rolled along its edges from one end of the table to the other? 
+A cube of uniform density is slid from one end of the table to the other. What is the maximum of the coefficient of the kinetic friction if the performed work is less than the work done while the cube is slowly rolled along its edges from one end of the table to the other?
  (4 pont)

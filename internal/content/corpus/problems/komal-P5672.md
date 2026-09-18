@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-Standing on the Equator, a satellite passes just above our heads, orbiting at a distance of $400~\mathrm{km}$ from the surface of the Earth. At most for how long can we see the satellite? 
+Standing on the Equator, a satellite passes just above our heads, orbiting at a distance of $400~\mathrm{km}$ from the surface of the Earth. At most for how long can we see the satellite?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-An object was released from rest and falls freely. It covered the same distance in the last second of its motion as it did in the first three seconds. From what height did it fall? (Neglect air resistance.) 
+An object was released from rest and falls freely. It covered the same distance in the last second of its motion as it did in the first three seconds. From what height did it fall? (Neglect air resistance.)
  (4 pont)

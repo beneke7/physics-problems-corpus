@@ -100,7 +100,7 @@ sin4
 m
 bmR
 .
-Finally, we need to find R. Since a 
+Finally, we need to find R. Since a
  b, the loop is approximately a long cylindrical wire, so
 R = ρ
 2πb
@@ -128,19 +128,19 @@ sin4
 θdθ =
 Z π
 0
-
+
 eiθ − e−iθ
 2i
-4
+ 4
 dθ.
 All of the terms in the expansion integrate to zero, by periodicity, except for the constant
 term. Then the integral is
 1
 16
-
+
 4
 2
-Z π
+ Z π
 0
 dθ =
 3π

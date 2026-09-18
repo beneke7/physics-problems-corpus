@@ -30,7 +30,9 @@ u · u = γ 2 − γ 2v2 = 1
 
 
                                                        10
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
        Remark

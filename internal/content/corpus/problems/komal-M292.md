@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: pending
 ---
 
-Determine experimentally how the retarding force exerted on a balloon falling in air depends on the speed of the balloon. 
+Determine experimentally how the retarding force exerted on a balloon falling in air depends on the speed of the balloon.
  (6 pont)

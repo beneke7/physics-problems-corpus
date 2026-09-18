@@ -52,7 +52,8 @@ A1.                                                              0.6 pt
 
 
        27     −2.039 × 10   72     7.10 × 10    117       4.71 × 10
-Experiment
+
+Experiment
                                                                   A1-2
                                                                     中文         (Official)
 
@@ -114,7 +115,8 @@ A3.                                                                             
 
 reference value of measurement (with standard deviation)：
               6.267 × 10           ± 1.88 × 10         m
-Experiment
+
+Experiment
                                                 A1-3
                                                        中文          (Official)
 
@@ -173,7 +175,8 @@ B1. answer sheet.                                                        1.0 pt
                              7.7736 × 10
 
                              8.0696 × 10
-Experiment
+
+Experiment
                                                                                          A1-4
                                                                                               中文        (Official)
 
@@ -236,7 +239,8 @@ B2.                                                                             
 
 B3.                                                                                                             0.4 pt
           C1=5.196 × 10
-Experiment
+
+Experiment
                                        A1-5
                                             中文        (Official)
 
@@ -296,7 +300,8 @@ C1.                                                           1.0 pt
                         6.5346 × 10
 
  303                    7.6026 × 10     7.9410 × 10
-Experiment
+
+Experiment
                                                                            A1-6
                                                                                   中文       (Official)
 
@@ -367,7 +372,8 @@ C3.                                                                             
 
 
                            4.98 × 10                     N/m (𝑃𝑎)
-Experiment
+
+Experiment
                                                             A1-7
                                                                   中文   (Official)
 
@@ -404,7 +410,8 @@ D2. Assume the function form of the displacement and coverage ratio (CR)       0
       your data obtained in A9. You can use the correlation between 𝛿 and
       ∆𝑑 in A6.
                               −7.89 × 10
-Experiment
+
+Experiment
                                        A1-8
                                           中文          (Official)
 

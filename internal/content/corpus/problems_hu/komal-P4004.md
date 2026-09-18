@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4004. Vízszintes, egyenes pályán haladó, 4 kg tömegű kiskocsi mozgási energiája 50 J. Összeütközik egy álló, 6 kg tömegű kiskocsival és összekapcsolódnak. 
+P. 4004. Vízszintes, egyenes pályán haladó, 4 kg tömegű kiskocsi mozgási energiája 50 J. Összeütközik egy álló, 6 kg tömegű kiskocsival és összekapcsolódnak.
  Mennyivel csökken a két kocsiból álló rendszer mozgási energiája?

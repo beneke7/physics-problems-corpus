@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 In this problem, we analyze the working principle of a speed camera. The transmitter of the speed
@@ -75,7 +77,9 @@ rise?
 Solution. This is NBPhO 2008, problem 7. The smoke stops rising once it reaches the same
 density as the air. The ideal gas law tells us that pV = nRT, which means the density of a gas is
 proportional to p/T. The smoke and air always are in mechanical equilibrium, i.e. they have the
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 same pressure p, so they have the same density once they have the same temperature, i.e. when the
 smoke column cools to temperature T0.
 Since the smoke does not exchange heat with its surroundings, it expands and cools adiabatically
@@ -134,7 +138,9 @@ the equilibrium value of L by equating the total energy U0 to the total gravitat
 energy. Make a very rough estimate for the gravitational potential energy using dimensional
 analysis, treating the box as having uniform density. Equate this to U0 and find a rough
 estimate for the equilibrium length L in terms of N and other quantities.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. This is INPhO 2019, problem 2. Here’s an outline of the official solution:
 1. (2) λ = 2L/n for n ≥ 1.
 2. (3) The de Broglie relation p = h/λ means that
@@ -165,18 +171,18 @@ it in the n = N/2 + 1 state. That means
 U1 = U0 −
 α
 L2
-
+
 N
 2
-2
+ 2
 +
 α
 L2
-
+
 N
 2
 + 1
-2
+ 2
 = U0 +
 α
 L2
@@ -188,19 +194,19 @@ to n = N/2 + 1, giving
 U2 = U0 −
 α
 L2
-
+
 N
 2
 − 1
-2
+ 2
 +
 α
 L2
-
+
 N
 2
 + 1
-2
+ 2
 = U0 +
 α
 L2
@@ -227,7 +233,9 @@ L ∼
 αN
 Gm2
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 A submarine of unknown nationality is traveling near the bottom of the Baltic sea, at the depth
@@ -262,10 +270,10 @@ Q = Av = 0.153m3
 flow stops once its pressure is equal to the outside water pressure, pf ≈ ρgh = 3.0 × 106 Pa.
 Since γ = 7/5 for a diatomic gas,
 Vf = Vi
-
+
 p0
 pf
-5/7
+ 5/7
 = 0.9m3
 .
 3. (5) The change in internal energy is
@@ -275,20 +283,22 @@ pf
 nR∆T.
 Using the ideal gas law, we have n = 410. The change in temperature can be found using
 Tf = Ti
-
+
 pf
 p0
-1−1/γ
+ 1−1/γ
 = Ti
-
+
 pf
 p0
-2/7
+ 2/7
 = 770K.
 Plugging in the numbers,
 ∆Uair = 4 × 106
 J.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 4. (5) We use energy conservation. The work done on the submarine by the external water is
 W = pf∆V = pf(Vi − Vf) = 2.7 × 107
 J.
@@ -305,13 +315,13 @@ Consider a modification of Coulomb’s law by replacing it with
 F =
 q1q2
 4πϵ0
-
+
 1
 r2
 +
 β
 r3
-
+
 r̂
 where β is a constant. The usual Bohr quantization condition L = nℏ still holds. Simplify your
 answers as much as possible, and express them in terms of the Bohr radius a0 = 4πϵ0ℏ2/me2, so
@@ -336,13 +346,13 @@ mr3
 Equating this with the force given, we find
 e2
 4πϵ0
-
+
 1
 r2
 +
 β
 r3
-
+
 =
 n2ℏ2
 mr3
@@ -353,15 +363,17 @@ a0 − β.
 U = −
 e2
 4πϵ0
-
+
 1
 r
 +
 β
 2r2
-
+
 .
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 It’s best to write the kinetic energy as
 K =
 1
@@ -383,7 +395,7 @@ Adding the two, we have the nice result
 En =
 e2
 4πϵ0
-
+
 n2a0
 2r2
 n
@@ -394,15 +406,15 @@ rn
 β
 2r2
 n
-
+
 =
 e2
 4πϵ0rn
-
+
 1
 2
 − 1
-
+
 = −
 e2
 8πϵ0
@@ -413,19 +425,19 @@ n2a0 − β
 ∆E =
 e2
 8πϵ0
-
+
 1
 a0 − β
 −
 1
 4a0 − β
-
+
 .
 Using the binomial approximation, since β ≪ a0, gives
 ∆E ≈
 e2
 8πϵ0a0
-
+
 3
 4
 +
@@ -433,7 +445,7 @@ e2
 16
 β
 a0
-
+
 .
 Question B3
 A detector of radio waves is placed on the sea beach at height h = 2m above sea level. A star,
@@ -459,7 +471,9 @@ star rises?
 Solution. This is IPhO 1981, problem 3. Here’s an outline of the official solution:
 1. (8) The interference maxima and minima occur because of the interference of two rays, as
 shown.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 α α
 φ
 2α
@@ -492,11 +506,11 @@ from zero, the intensity increases.
 3. (7) At the maxima the field strength is Ei+Er, while at the minima it is Ei−Er. Furthermore,
 by definition cosφ = sinα. Thus, at the first maximum,
 Ei + Er =
-
+
 1 +
 n − sinα
 n + sinα
-
+
 Ei =
 2nEi
 n + sinα
@@ -506,11 +520,11 @@ n + λ/4h
 .
 At the first minimum after that, we have field
 Ei − Er =
-
+
 1 −
 n − sinα
 n + sinα
-
+
 Ei =
 2Ei sinα
 n + sinα
@@ -522,18 +536,18 @@ The ratio of intensities is
 Imax
 Imin
 =
-
+
 Ei + Er
 Ei − Er
-2
+ 2
 =
-
+
 2nh
 λ
-2 
+ 2
 n + λ/2h
 n + λ/4h
-2
+ 2
 = 3 × 104
 .
 4. (3) When α is small, Ei and Er are almost equal, which means that Imin is very small. As

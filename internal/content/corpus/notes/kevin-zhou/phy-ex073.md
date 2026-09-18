@@ -24,7 +24,7 @@ source_role: explanatory_example
 Example. Recovering the Schrodinger equation. For a small time t = ϵ, we have
 
                                            ℏ2 2
-                                                      
+
                                      iϵ
                  ψ(x, ϵ) = ψ(x, 0) −     −    ∇ + V (x) ψ(x, 0) + O(ϵ2 ).
                                      ℏ     2m
@@ -32,7 +32,7 @@ Example. Recovering the Schrodinger equation. For a small time t = ϵ, we have
 Now we compare this to the path integral. Here we use a single timestep, so
 
                                                                    iϵ m(x − y)2
-           Z                                     m 3/2                             
+           Z                                      m  3/2
   ψ(x, ϵ) = dy K(x, y, ϵ)ψ(y, 0), K(x, y, 0) =               exp                − V (y)   .
                                                   2πiℏϵ            ℏ       2ϵ2
 
@@ -41,11 +41,11 @@ by the stationary phase approximation, most of the contribution comes from ξ = 
 We then expand everything to first order in ϵ, treating ξ = O(ϵ1/2 ), for
 
                                 imξ 2
-             m 3/2 Z                                     
+              m  3/2 Z
                                             iϵ
   ψ(x, ϵ) =            dξ exp           1 − V (x + ξ) + . . .
              2πiℏϵ               2ϵℏ        ℏ
-                                                                                            
+
                                                       i            1 i j
                                          × ψ(x, 0) + ξ ∂i ψ(x, 0) + ξ ξ ∂i ∂j ψ(x, 0) + . . . .
                                                                    2

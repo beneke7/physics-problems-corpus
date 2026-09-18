@@ -29,7 +29,7 @@ Tegyük fel, hogy egy szobában a belső levegő térfogata $V_{1}=20 \mathrm{~m
 
 **2)** Mekkora a kevert levegő hőmérséklete $T$?
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-drying-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-drying-fig1.png)
 
 **3)** Az alábbi grafikon a telített vízgőz sűrűségének hőmérséklettől való függését mutatja. A keveredés előtt a belső és a külső levegő relatív páratartalma egyaránt $r_{0}=100\%$ volt. Mekkora a kevert levegő relatív páratartalma $r$ (ha esetleg megnő, akkor tételezzük fel, hogy $r>100\%$ túltelített gőz keletkezik)?
 

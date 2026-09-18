@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4802. Legalább mekkora hullámhosszú fényt képes a hidrogénatom kisugározni? 
+P. 4802. Legalább mekkora hullámhosszú fényt képes a hidrogénatom kisugározni?
  Vermes Miklós (1905-1990) feladata

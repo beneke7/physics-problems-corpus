@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-A sphere of diameter 1 m is made of some good thermally insulating material, and a spherical electric stove of diameter 20 cm is put into it. The stove releases heat into all directions uniformly at a rate of 10 W. To what temperature will surface of the stove be heated if the the outer surface of the thermally insulating material is $20~{}^\circ$C, and its thermal conductivity is $0.04~\rm W/(m\cdot K)$? 
+A sphere of diameter 1 m is made of some good thermally insulating material, and a spherical electric stove of diameter 20 cm is put into it. The stove releases heat into all directions uniformly at a rate of 10 W. To what temperature will surface of the stove be heated if the the outer surface of the thermally insulating material is $20~{}^\circ$C, and its thermal conductivity is $0.04~\rm W/(m\cdot K)$?
  (5 pont)

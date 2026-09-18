@@ -25,4 +25,4 @@ c) Mekkora hőmérsékletet, $T_{2}$-t mérnek a hegylánc gerincén?
 d) Határozzuk meg az áramló levegő által három óra alatt lehullatott csapadék vízoszlopának magasságát, ha az $M_{1}$ és $M_{2}$ pontok között egyenletes esőt feltételezünk.
 e) Mekkora hőmérsékletet, $T_{3}$-at mérnek a hegylánc hátulsó oldalán, az $M_{3}$ állomáson? Hasonlítsuk össze az $M_{3}$ és az $M_{0}$ állomás légköri állapotát.
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr52-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr52-fig1.jpg)

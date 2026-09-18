@@ -59,11 +59,11 @@ i=j
 ∆Li =
 mg
 2k
-
+
 1 −
 j2
 N2
-
+
 28
 Kevin Zhou Physics Olympiad Handouts
 downward from its position in the absence of gravity. The center of mass displacement is
@@ -77,11 +77,11 @@ j=1
 N
 N X
 j=1
-
+
 1 −
 j2
 N2
-
+
 =
 1
 N3
@@ -159,13 +159,13 @@ y
 The solution is a sinusoid. For concreteness, let’s suppose one endpoint is at x = 0, imposing
 y(0) = 0. Then
 y(x) = y0 sin
-r
+ r
 m
 k
 ω
 d
 x
-
+
 .
 For the other endpoint to be fixed, y(d) = 0, we must have
 r

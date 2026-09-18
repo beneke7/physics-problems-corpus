@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A sample of ideal gas of degree of freedom $f$ expands in an equilibrium process such that its pressure increases proportionally to the volume of the gas. By what factor will the absorbed heat by the gas be greater than the work done by the gas during the process? 
+A sample of ideal gas of degree of freedom $f$ expands in an equilibrium process such that its pressure increases proportionally to the volume of the gas. By what factor will the absorbed heat by the gas be greater than the work done by the gas during the process?
  (4 pont)

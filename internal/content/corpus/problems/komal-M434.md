@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202410"
 verification_status: pending
 ---
 
-A one-and-a-half litre thick-walled PET bottle is placed on a slope. At a certain angle of inclination (if friction is big enough) the bottle will topple over. Measure how this angle depends on the amount of water in the bottle. 
+A one-and-a-half litre thick-walled PET bottle is placed on a slope. At a certain angle of inclination (if friction is big enough) the bottle will topple over. Measure how this angle depends on the amount of water in the bottle.
  (6 pont)

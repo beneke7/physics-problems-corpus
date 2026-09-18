@@ -65,7 +65,9 @@ Substituting the furnished numerical values
 
 
 Optics – Problem III - Solution                                                                 Page 1 from 4
-IPhO 1983                                                     Theoretical Question III
+
+
+IPhO 1983                                                     Theoretical Question III
 
 
 The corresponding common value of indexes of refraction of prisms for the radiation with the
@@ -96,7 +98,9 @@ In this situation
 
 
 Optics – Problem III - Solution                                                                Page 2 from 4
-IPhO 1983                                                      Theoretical Question III
+
+
+IPhO 1983                                                      Theoretical Question III
 
 
                                     δ min + A '
@@ -142,7 +146,9 @@ Substituting (3.16) and (3.14) in (3.13) it results
 
 
 Optics – Problem III - Solution                                                                 Page 3 from 4
-IPhO 1983                                                     Theoretical Question III
+
+
+IPhO 1983                                                     Theoretical Question III
 
 
 n1 ⋅ sin ( A1 − r1 ) = n2 ⋅ sin A2                                                      ( 3.16)

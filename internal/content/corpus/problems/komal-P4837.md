@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, cross-domain-analogy]
 ---
 
-The cyclic process of a thermodynamic heat engine is shown in the figure. What should the least pressure $p^*$ be in order that the efficiency of he heat engine is maximum, if the working substance is some ideal noble gas of constant mass? What is this maximum efficiency? 
+The cyclic process of a thermodynamic heat engine is shown in the figure. What should the least pressure $p^*$ be in order that the efficiency of he heat engine is maximum, if the working substance is some ideal noble gas of constant mass? What is this maximum efficiency?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4837-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4837-fig1.gif)

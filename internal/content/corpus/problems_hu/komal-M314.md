@@ -9,6 +9,6 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 314. Mérjük meg, hogyan változik a tűzhelyre feltett fazék víz hőmérséklete az idő függvényében, 
- a ) ha fedő van a fazékon; 
+M. 314. Mérjük meg, hogyan változik a tűzhelyre feltett fazék víz hőmérséklete az idő függvényében,
+ a ) ha fedő van a fazékon;
  b ) ha nincs fedő a fazékon!

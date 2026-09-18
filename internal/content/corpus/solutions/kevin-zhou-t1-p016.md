@@ -52,7 +52,7 @@ R∞
 0
 1
 2mv2
-
+
 v2e−mv2/2kBT dv
 R∞
 0 v2e−mv2/2kBT dv

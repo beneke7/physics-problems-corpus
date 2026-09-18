@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201101"
 verification_status: pending
 ---
 
-Why do transparent objects, like glasses, have shadows? 
+Why do transparent objects, like glasses, have shadows?
  (3 pont)

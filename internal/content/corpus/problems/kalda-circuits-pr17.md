@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the electromotive force and internal resistance of the following system of batteries.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr17-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr17-fig1.jpg)

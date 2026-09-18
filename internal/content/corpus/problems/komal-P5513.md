@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-Using two convex lenses we can build a (Keplerian) telescope. We can also build a (Galilean) telescope with using one convex and one concave lens. Can we build a telescope with two concave lenses? 
+Using two convex lenses we can build a (Keplerian) telescope. We can also build a (Galilean) telescope with using one convex and one concave lens. Can we build a telescope with two concave lenses?
  (3 pont)

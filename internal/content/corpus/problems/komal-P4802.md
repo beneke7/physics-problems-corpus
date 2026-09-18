@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: pending
 ---
 
-What is the least wavelength of the light which is emitted by a Hydrogen atom? 
+What is the least wavelength of the light which is emitted by a Hydrogen atom?
  (3 pont)

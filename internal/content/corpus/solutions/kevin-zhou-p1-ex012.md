@@ -100,7 +100,7 @@ x =
 1 + Aϵ2
 + O(ϵ3
 )
-
+
 with no O(ϵ) term in parentheses. (If you don’t believe this, check this term vanishes for yourself!)
 Plugging this into the equation gives
 1

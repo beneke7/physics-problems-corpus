@@ -77,12 +77,12 @@ Obtain an expression for h0
 Solution:
 h02
 − h0
-
+
 2c +
 k
 2
 c
-
+
 + c2
 +
 k
@@ -90,24 +90,24 @@ k
 c = 0
 h0
 =
-
+
 2c +
 k
 2
 c
-
+
 ±
-s
+s
 2c +
 k
 2
 c
-2
+ 2
 − 4
-
+
 c2 +
 k
 2
 c
-
+
 2

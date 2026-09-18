@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5501. Egy kötelet helyezünk egy negyedkörív alakú, rögzített csőbe az  ábrán látható módon. Mekkora sebességgel hagyja el a kötél a csövet, ha elengedjük? (A cső és a kötél közti súrlódást elhanyagolhatjuk.)
 
-![figure](../../raw_html/komal_figures/komal-P5501-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5501-fig1.gif)

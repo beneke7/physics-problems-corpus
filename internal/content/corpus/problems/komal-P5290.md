@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry]
 ---
 
-A point-like negatively charged particle is projected from a point $P$ of a uniform electric field perpendicularly to the electric field at a velocity of $\boldsymbol v_0$. Uniform magnetic field is also present, which is perpendicular to both the electric field vector $\boldsymbol{E}$ and to the velocity $\boldsymbol v_0$. The two types of fields are separated by a plane, which is perpendicular to the electric field vector, as shown in the figure. What is the magnitude of the magnetic induction, if the particle returns back to point $P$? 
+A point-like negatively charged particle is projected from a point $P$ of a uniform electric field perpendicularly to the electric field at a velocity of $\boldsymbol v_0$. Uniform magnetic field is also present, which is perpendicular to both the electric field vector $\boldsymbol{E}$ and to the velocity $\boldsymbol v_0$. The two types of fields are separated by a plane, which is perpendicular to the electric field vector, as shown in the figure. What is the magnitude of the magnetic induction, if the particle returns back to point $P$?
 
- (The whole arrangement is in vacuum, and the effect of the gravitational force on the particle is negligible.) 
+ (The whole arrangement is in vacuum, and the effect of the gravitational force on the particle is negligible.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5290-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5290-fig1.gif)

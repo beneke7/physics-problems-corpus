@@ -20,4 +20,4 @@ verification_status: pending
 
 Ha egy követ dobunk egy tóba, kör alakú hullám keletkezik, amely az idő múlásával terjed. Az alábbi ábra egy ilyen hullám terjedését mutatja: a különböző körök a hullámhegy helyzetét jelölik különböző időpontokban; az alapul szolgáló felvételek szabályos, de ismeretlen időközönként készültek.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr60-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr60-fig1.jpg)

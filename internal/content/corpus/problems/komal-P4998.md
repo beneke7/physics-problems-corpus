@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A ray of light enters into a spherical water droplet, and after three total internal reflections it travels into its original direction as shown in the figure. What was the angle of incidence of the ray when it entered into the droplet? (The refractive index of water is $n=4/3$.) 
+A ray of light enters into a spherical water droplet, and after three total internal reflections it travels into its original direction as shown in the figure. What was the angle of incidence of the ray when it entered into the droplet? (The refractive index of water is $n=4/3$.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4998-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4998-fig1.gif)

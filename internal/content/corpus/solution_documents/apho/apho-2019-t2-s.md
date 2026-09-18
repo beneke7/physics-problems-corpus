@@ -67,7 +67,8 @@ of mass, so
 
 
                                                                1
-A5
+
+A5
 From the defintion of jet power and also (8),
 
                                        Pj (s) = (γ(s))2 n(s)A′ s)v(s)ǫav (s) − Ṁ c2      .                         (10)
@@ -79,7 +80,7 @@ Here Ṁ is the flux of mass flux across the surface, so Ṁ = Fp (s)µpp and
 In order to find how jet power varies along the jet, we consider jet power at two points along the jet.
 
                        Pj (s2 ) − Pj (s1 ) = (γ(s2 ))2 n(s2 )A′ (s2 )v(s2 )ǫav (s2 ) − Fp (s2 )µpp c2               (12)
-                                                                                                      
+
                                                          2
                                              − (γ(s2 )) n(s1 )A′ (s1 )v(s1 )ǫav (s1 ) − Fp (s1 )µpp c2          .   (13)
 
@@ -111,7 +112,7 @@ We start from (10) and substitute ǫav = µpp c2 + 13
                                                 Ṁ =                2
                                                                                                                   (18)
                                                         (γ(s) − 1)c
-                                                −1.5
+                                                  −1.5
      Using the relationship P (s) = 5.7 × 10−12 ss0      and substituting values for s1 and s2 respectively into (18),
 give Ṁ1 = 2.8 × 1019 kg s−1 and Ṁ2 = 5.2 × 1019 kg s−1 .
    Note: some of the input values are given to one significant figure only. Hence, answers which are correct to this
@@ -126,7 +127,7 @@ and
                                                  Π(s) =           .                                              (19)
                                                           c c
 This can be related to the jet power and Ṁ ,
-                                                                         
+
                                                               Pj              v(s)
                                                  Π(s) =          + Ṁ c            .                                (20)
                                                               c                c
@@ -140,7 +141,8 @@ Substituting values for the jet at s2 and s1 gives Π = 1.9 × 1027 kg m s−2 .
 
 
                                                                  2
-A8
+
+A8
 The total force on the jet due to external pressure has contributions from the cross section at s1 , F1 = P (s1 )A(s1 ), at ss ,
 F2 = P (s2 )A(s2 ), and from the pressure on the curved surface. We have a linear relationship s(r) = s1 + sr22 −r
                                                                                                                  −s1
@@ -164,7 +166,7 @@ surface, this results in a factor of dr
                                      ds . Consequently
 
                                                          dF = 2πrP (s)dr        ,                                          (22)
-                           −1.5
+                             −1.5
 where P (s) = 5.7 × 10−12 ss0      .
    The total force due to the external pressure,
                                                                         Z r2
@@ -209,7 +211,8 @@ pz = cǫ cos θ, since the electrons are ultrarelativistic and E ≈ pc.
 
 
                                                                    3
-B3
+
+B3
 As the remaining integral in the expression above was identified as the energy per volume in B1, ∆pz = ∆t∆A 13 VE .
 The pressure is the force per area normal to the wall, so P = ∆pz 1                               E
                                                                ∆t ∆A . Combining these gives P = 3V , or E = 3P V ,
@@ -229,7 +232,7 @@ gives
                                                   4           = −3                                                     (30)
                                                       V0 V           P0 P
                                                             ′
-                                                                     
+
                                                          V              P
                                                   4 ln        = −3 ln                                                  (31)
                                                          V0            P0
@@ -260,18 +263,18 @@ The observer only sees the synchrotron emission when they are within the forward
                                                                                                                         2m
 gyrating around the magnetic field, this direction is changing. The observer is in this light cone for time ∆t = 2θ
                                                                                                                   Ω = eB .
-However, the emitting electron is moving directly toward the observer over this time, so although     the light emitted at
+However, the emitting electron is moving directly toward the observer over this time, so although      the light emitted at
 the start of the pulse is ahead of the light at the end of the pulse, it is only ahead by c∆t 1 − vc . The pulse then has
-an apparent duration of                                           v
+an apparent duration of                                            v
                                                    ∆ta = ∆t 1 −           .
                                                                    c
                                   2
 Since 1 − vc 1 + vc = 1 − vc2 = γ12 , we can write 1 − vc = γ 2 1+           1
-                                                                
+
                                                                                    . As the electrons are ultrarelativistic,
                                                                             ( vc )
       v
-        
+
  1 + c = 2, and
                                                                me
                                                       ∆ta = 2         .
@@ -286,11 +289,12 @@ C3
 
 
                                                                 4
-C4
+
+C4
 Making a linear approximation,
                                                                  E
                                                      τ ≈−        dE
-                                                                                                                         (36)
+                                                                                                                          (36)
                                                                  dt
                                                               6πε0 m4 c5 1
                                                          =                                                                (37)
@@ -300,7 +304,7 @@ Synchrotron emission from an AGN jet
 D1
 As the magnetic field is frozen in, and magnetic flux is constant, the magnetic field must decrease as the area increases
 in the expansion.
-                                                                              −2/3
+                                                                                −2/3
     For a small area A, B0 A0 = BA. Since A ∝ V 2/3 , B = B0 (A0 /A) = B0 VV0
 
 D2
@@ -322,7 +326,7 @@ Given                                               Z ∞
                                                           κ0 ǫ−p dǫ = N/V0
                                                      0
 κ0 V0 = κV , and
-                                                                     −1
+                                                                       −1
                                                                  V
                                                    f (ǫ) =                  κ0 ǫ−p
                                                                  V0

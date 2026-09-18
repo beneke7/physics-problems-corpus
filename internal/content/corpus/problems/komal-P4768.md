@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, strategic-heuristics, limiting-and-special-cases]
 ---
 
-How long does the Earthraise take on the Moon? 
+How long does the Earthraise take on the Moon?
  (3 pont)

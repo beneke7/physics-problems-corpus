@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkörben $R=\sqrt{L/C}$. A bemeneti kapcsokra $\tau$ periódusidejű, $V_{0}$ amplitúdójú négyszögletes feszültségjelet kapcsolunk (ez azt jelenti, hogy a periódus egyik felében a bemeneti feszültség $V_{0}$, a másik félperiódusban pedig $-V_{0}$). Határozzuk meg a bemeneti kapcsokon folyó áram alakját és amplitúdóját.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr105-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr105-fig1.jpg)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-What is the difference between the 3 cm wavelength component of the cosmic background radiation and the same wavelength microwave radiation of the telecommunication satellites? 
+What is the difference between the 3 cm wavelength component of the cosmic background radiation and the same wavelength microwave radiation of the telecommunication satellites?
 
  (4 pont)

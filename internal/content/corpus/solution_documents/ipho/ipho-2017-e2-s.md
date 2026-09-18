@@ -63,7 +63,9 @@ pts     the magnet. Record and plot your result on the answer sheet.      unit f
                                                                           point: 0.05 pts, max. 0.4 pts
 
                                                                           -Adding trendline: 0.1 pts
-                                                                              Experimental
+
+
+                                                                              Experimental
                                    E2. Marking Scheme & Solution              Question              1
                                    Student Code
                                                                               page 2 of 7
@@ -120,7 +122,9 @@ Quest                                        Answer                             
              we measure approximately y = 1 mm from the top of the               Only y = (1 - 1.5) mm:
                                                                                   0.03 pts
              magnet surface. Thus: y0 = R - y = (3.2 - 1) mm = 2.2 mm
-                                                                           Experimental
+
+
+                                                                           Experimental
                                E2. Marking Scheme & Solution               Question            1
                                Student Code
                                                                            page 3 of 7
@@ -174,7 +178,9 @@ Quest                                    Answer                                 
           Trial         5 Tz
                         (s)
           1             6.12                                                  Tz = (1.2 - 1.5) s: 0.1 pts
-                                                                             Experimental
+
+
+                                                                             Experimental
                             E2. Marking Scheme & Solution                    Question            1
                             Student Code
                                                                              page 4 of 7
@@ -228,7 +234,9 @@ pts                                                                            C
 A.11     rods with various diameters and fixed length of 8 mm.                 unit 0.1
 1.5      Determine the damping time constant  for each rods
 pts                                                                            Number of correct data
-                                                                          Experimental
+
+
+                                                                          Experimental
                            E2. Marking Scheme & Solution                  Question          1
                           Student Code
                                                                           page 5 of 7
@@ -290,7 +298,9 @@ A.12    Determine the air viscosity A
 
         Note that this is about 2.1x the actual viscosity of air of
         18.2.Pa.s. The discrepancy is due to the ellipsoidal
-                                                                          Experimental
+
+
+                                                                          Experimental
                              E2. Marking Scheme & Solution                Question            1
                             Student Code
                                                                           page 6 of 7
@@ -343,7 +353,9 @@ Quest                                  Answer                                   
 B.4     By turning the screw slowly, determine the rod displacement
 1.25    z vs. the number of screw turns (N). Determine the thread           Correct label and unit:
 pts     size S                                                               0.1 pts
-                                                                        Experimental
+
+
+                                                                        Experimental
                           E2. Marking Scheme & Solution                 Question            1
                          Student Code
                                                                         page 7 of 7

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-According to the Hungarian gun law only those guns can be possessed without a license whose muzzle energy (the kinetic energy of the bullet as it is expelled from the muzzle of the gun) does not exceed 7.5 J. The length of the barrel of our air gun, which just satisfies the above rule, is 480 mm, the diameter of the barrel is 4.5 mm, and the bullet fired is a spherical lead shot. 
- $a$) What is the mean force which accelerates the bullet during a shot? What is the average pressure in the barrel? 
- $b)$ What is the muzzle speed of the bullet? 
- $c)$ What is the drag force exerted on the bullet short after it leaves the barrel? 
+According to the Hungarian gun law only those guns can be possessed without a license whose muzzle energy (the kinetic energy of the bullet as it is expelled from the muzzle of the gun) does not exceed 7.5 J. The length of the barrel of our air gun, which just satisfies the above rule, is 480 mm, the diameter of the barrel is 4.5 mm, and the bullet fired is a spherical lead shot.
+ $a$) What is the mean force which accelerates the bullet during a shot? What is the average pressure in the barrel?
+ $b)$ What is the muzzle speed of the bullet?
+ $c)$ What is the drag force exerted on the bullet short after it leaves the barrel?
  (4 pont)

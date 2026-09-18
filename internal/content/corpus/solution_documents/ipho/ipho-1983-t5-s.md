@@ -53,7 +53,9 @@ IPhO 1983                                                      Theoretical Quest
 
 
  IPhO’s LOGO – Problem V - Solution                                                              Page 1 from 2
-IPhO 1983                                                    Theoretical Question V
+
+
+IPhO 1983                                                    Theoretical Question V
 
 
 

@@ -67,7 +67,7 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
                                                              −2         3         11
  Magnitude of electron charge      e   1.60 × 10−19 C
  Mass of electron                  me 9.11 × 10−31 kg                   4         14
- Value of 1/4π0                       9.00 × 109 N·m2 ·C−2
+ Value of 1/4π 0                       9.00 × 109 N·m2 ·C−2
  Universal Gas Constant            R   8.31 J· K−1 ·mole−1              5         15
 
                                                                         6         23
@@ -78,7 +78,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
                           HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                                  Tata Institute of Fundamental Research
                              V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-INPhO 2017     Page 1            Questions & Summary Answers
+
+
+INPhO 2017     Page 1            Questions & Summary Answers
 
 1. A massive star of mass M is in uniform circular orbit around a supermassive black hole of mass
    Mb . Initially, the radius and angular frequency of the orbit are R and ω respectively. According
@@ -150,7 +152,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
      where the symbols have their usual meaning.
      (a) Obtain the expression for ρ of the Hg surface in terms of ω0 , the distance x from the cylinder         [3]
          axis, and g.
-INPhO 2017   Page 2            Questions & Summary Answers                      Roll Number:
+
+
+INPhO 2017   Page 2            Questions & Summary Answers                      Roll Number:
 
 
          Solution:                                                 !2 3/2
@@ -218,7 +222,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
    (c) Draw a schematic velocity-time diagram for the two blocks from t = 0 till t = t3 . Draw below     [5]
        them on a single diagram and use solid line (    ) to depict block A and dashed line (      )
        to depict block B.
-INPhO 2017   Page 3          Questions & Summary Answers
+
+
+INPhO 2017   Page 3          Questions & Summary Answers
 
 
          Solution:
@@ -269,7 +275,7 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
 
          Solution:
                                                                                1
-                                                                                  
+
                           ∆Q = cv (TC − TB ) + cv (TA − TD ) = cv T0 1 −
                                                                            2γ−1
                                                ∆W = ∆Q
@@ -281,7 +287,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
    (c) Draw below corresponding P -T and T -S(entropy) diagrams for the cycle.                    [61/2]
 
          Solution:
-INPhO 2017    Page 4             Questions & Summary Answers                                      Roll Number:
+
+
+INPhO 2017    Page 4             Questions & Summary Answers                                      Roll Number:
 
 
 
@@ -357,7 +365,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
                                           = mvcm                                                                 (3)
                                                      cm
                                            2      2           6
-INPhO 2017     Page 5          Questions & Summary Answers
+
+
+INPhO 2017     Page 5          Questions & Summary Answers
 
 
       Magnitude of the induced emf E, is given by
@@ -399,7 +409,7 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
           functions of i and A only.
 
                                                             sin i
-                                                                    
+
            Solution: sin(D + A − i) = n sin       A − sin−1
                                                               n
 
@@ -420,9 +430,9 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
          material of the prism and the angular frequency ω = 2πc/λ of the incident light as
 
                                          n2 − 1          N e2           1
-                                                                               
+
                                                     =                 2
-                                         n2 + 2         30 me       ω0 − ω 2
+                                         n2 + 2         3 0 me       ω0 − ω 2
 
          Here N is the electron density and ω0 = 2πc/λ0 the natural frequency of oscillation of the
          electron of the material. The other symbols have their usual meaning. The table below lists
@@ -433,13 +443,15 @@ Extra sheets attached :     0        Date                     Centre(e.g.Jaipur)
          Re-express the above equation to get a linear relationship in terms of β = (n2 + 2)/(n2 − 1)
          and a suitable power of λ. Tabulate and plot so that you may obtain N and ω0 . (Two graph
          papers are provided with this booklet in case you make a mistake).
-INPhO 2017   Page 6          Questions & Summary Answers                      Roll Number:
+
+
+INPhO 2017   Page 6          Questions & Summary Answers                      Roll Number:
 
 
          Solution: Linear relation:
           1    1            N e2
             =      − β               .
-         λ2    λ20     30 me (2πc)2
+         λ2    λ20     3 0 me (2πc)2
          Any linear form of above equation is accepted.
          Graph is plotted between β vs 1/λ2 at the end of this booklet.
            1/λ2 (×10−6 nm−2 ) 2.0032 2.2422 3.9750 4.1280 5.0014              5.1938

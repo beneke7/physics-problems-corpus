@@ -21,12 +21,12 @@ provenance_note: "KöMaL physics points contest, 201002"
 verification_status: flagged
 ---
 
-What happens to the compass placed as shown in the figure, if a ) the switch is 
- turned on, 
- b ) then keeping the switch on, the the wiper of the variable resistor is moved in the direction shown by the arrow. 
- c ) then, still keeping the switch on, the bar of soft iron is pushed into the coil. 
- d ) finally the switch is turned off. 
+What happens to the compass placed as shown in the figure, if a ) the switch is
+ turned on,
+ b ) then keeping the switch on, the the wiper of the variable resistor is moved in the direction shown by the arrow.
+ c ) then, still keeping the switch on, the bar of soft iron is pushed into the coil.
+ d ) finally the switch is turned off.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4226-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4226-fig1.gif)

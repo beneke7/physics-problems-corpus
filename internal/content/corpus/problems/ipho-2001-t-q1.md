@@ -27,7 +27,7 @@ verification_status: pending
 ## 1a) KLYSTRON
 
 Klystrons are devices used for amplifying very high-frequency signals. A klystron basically consists of two identical pairs of parallel plates (cavities) separated by a distance $b$, as shown in the figure.
-![](ipho-2001-t-q1-fig01.png)
+![](../../figures/ipho/figures/ipho-2001-t-q1-fig01.png)
 An electron beam with an initial speed $v_{0}$ traverses the entire system, passing through small holes in the plates. The high-frequency voltage to be amplified is applied to both pairs of plates with a certain phase difference (where period T corresponds to $2 \pi$ phase) between them, producing horizontal, alternating electric fields in the cavities. The electrons entering the input cavity when the electric field is to the right are retarded and vice versa, so that the emerging electrons form bunches at a certain distance. If the output cavity is placed at the bunching point, the electric field in this cavity will absorb power from the beam provided that its phase is appropriately chosen. Let the voltage signal be a square wave with period $T=1.0 \times 10^{-9} \mathrm{~s}$, changing between $V= \pm 0.5$ volts. The initial velocity of the electrons is $v_{0}=2.0 \times 10^{6} \mathrm{~m} / \mathrm{s}$ and the charge to mass ratio is $e / m=1.76 \times 10^{11}$ C/kg. The distance $\alpha$ is so small that the transit time in the cavities can be neglected. Keeping 4 significant figures, calculate;
 
 a) the distance $b$, where the electrons bunch. Copy your result onto the answer form. [1.5 pts]
@@ -47,7 +47,7 @@ Avagadro's number: $N_{A}=6.0 \times 10^{23} / \mathrm{mol}$
 
 A sawtooth voltage waveform $V_{0}$ can be obtained across the capacitor $C$ in Fig. 1. $R$ is a variable resistor, $V_{i}$ is an ideal battery, and $S G$ is a spark gap consisting of two electrodes with an adjustable distance between them. When the voltage across the electrodes exceeds the firing voltage $V_{f}$, the air between the electrodes breaks down, hence the gap becomes a short circuit and remains so until
 
-![](ipho-2001-t-q1-fig02.png)
+![](../../figures/ipho/figures/ipho-2001-t-q1-fig02.png)
 Figure 1
 
 the voltage across the gap becomes very small.
@@ -59,10 +59,10 @@ d) What should you vary( $R$ and/or $S G$ ) to change the period only? Copy your
 e) What should you vary ( $R$ and/or $S G$ ) to change the amplitude only? Copy your result onto the answer form. [0.2 pts]
 f) You are given an additional, adjustable DC voltage supply. Design and draw a new circuit indicating the terminals where you would obtain the voltage waveform $V_{0}^{\prime}$ described in Fig. 2. [1.0 pts]
 
-![](ipho-2001-t-q1-fig03.png)
+![](../../figures/ipho/figures/ipho-2001-t-q1-fig03.png)
 Figure 2
 
 ## 1d) ATOMIC BEAM
 
 An atomic beam is prepared by heating a collection of atoms to a temperature $T$ and allowing them to emerge horizontally through a small hole (of atomic dimensions) of diameter $D$ in one side of the oven. Estimate the diameter of the beam after it has traveled a horizontal length $L$ along its path. The mass of an atom is $M$. Copy your result onto the answer form. [2.5 pts]
-![](ipho-2001-t-q1-fig04.png)
+![](../../figures/ipho/figures/ipho-2001-t-q1-fig04.png)

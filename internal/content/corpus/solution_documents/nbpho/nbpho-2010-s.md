@@ -91,7 +91,9 @@ i.e. the outward ﬂux consists of (a) the part κ of itself, which is ω =     
 hits the inner wall and is reﬂected back, and of (b) the part                                                              √
 1 − κ of itself, which misses the inner wall hence reaches again period, i.e. the walking speed v = A/T = Aω/2π = 2π 2L ≈
                                                                                                                          A    3g
-1.2 m/s ≈ 5 km/h. So, the walking speed is comparable to that i. (1.5 pts) In the magnetic ﬁeld, the particle moves along a
+
+
+1.2 m/s ≈ 5 km/h. So, the walking speed is comparable to that i. (1.5 pts) In the magnetic ﬁeld, the particle moves along a
 of a human.                                                             circle of radius R, such that the Lorentz force qvB = mv 2 /R,
                                                                         hence R = mv/qB. Outside the magnetic ﬁeld, the trajectory
 Problem 4. Ball (6 points)
@@ -164,7 +166,9 @@ Problem 6. Charges in B (5 points)                                    v4 = 15u e
                                                                       Problem 8. Sprinkler (3 points) It is known that for a
                                                                       body thrown at some angle α to the horizon with a vleocity v,
                                                                       the maximal ﬂight length is achieved with α = 45◦ (this result
-can be also easily
+
+
+can be also easily
               √ derived). That maximal ﬂight length is found         cause the situation is exactly the same as it was, except that
 as smax = vt/ 2, where√      the ﬂight time t is obtained from the   the output voltage will establish itself according to the value of
 condition gt = 2v/ 2. So, smax = v 2 /g. This distance gives         average current J. Note that average current to the capacitor
@@ -243,7 +247,9 @@ segment when Io > 0. So,                                             the horizon
                 J = Imax             =                .              δ and width τ2 . If we sum up the surface areas of these layers,
                           4 U0 − Ui      4L U0 − Ui                  we can bring τ2 before the braces; then, the sum of the layer
 iii. (2 pts) Now, we can use the result of the question ii, be-
-widths goes into the braces and yields vt − v0 . So, the surface        In case (a):
+
+
+widths goes into the braces and yields vt − v0 . So, the surface        In case (a):
 area S = τ2 (vt − v0 ) ≈ 15 m.
                                                                                     Ic0 = E/R2 ,     Ic∞ = E/(R1 + R2 ),
 Problem 11. Black box (10 points) There are several

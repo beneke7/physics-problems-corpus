@@ -60,7 +60,9 @@ a kötélben mindenütt.
 
 
                                                 4
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        3. példa: Povey 5.6

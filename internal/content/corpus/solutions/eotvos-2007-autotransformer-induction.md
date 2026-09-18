@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2007
 ---
 
 2. Egy terebélyes vasmaggal ellátott, nagy öninduk iójú, de mégis elhanyagolható ohmikus ellenállású teker s végeit
-U feszültségre méretezett izzón keresztül kötjük össze. Ha az A és B pontok közé U/2 eektív érték¶ váltakozó feszültséget
+U feszültségre méretezett izzón keresztül kötjük össze. Ha az A és B pontok közé U/2 e ektív érték¶ váltakozó feszültséget
 kap solunk, az izzó nagyon halványan világít.
 4. ábra
 Mivel a teker s közepér®l is van egy C kivezetés, megpróbáljuk a feszültségforrás pólusait az A és C pontokhoz kötni.
@@ -26,7 +26,7 @@ U
 2
 kell legyen, hogy ne folyjék a generátoron
 végtelen nagy áram.
-2. Mivel a 
+2. Mivel a
 uxusváltozás mértéke a teker s különböz® részein ugyanakkora, ezért mindkét félteker sen ugyanakkora
 az indukált feszültség, tehát UAC = UCB.
 3. Mivel a lámpa párhuzamosan van kap solva a generátor plusz a teker s jobb oldali felével, ezért
@@ -37,8 +37,8 @@ U
 U
 2
 , tehát Ulámpa = U.
-Így a lámpa az üzemi feszültséget kapja, ezért jól ég!
-Az áramirányok meghatározásához  Werner Miklós ötlete alapján  rajzoljuk át a megadott kap solást a következ®
+Így a lámpa az  üzemi  feszültséget kapja, ezért jól ég!
+Az áramirányok meghatározásához   Werner Miklós ötlete alapján   rajzoljuk át a megadott kap solást a következ®
 módon: képzeljük el, hogy a teker s bal oldali részét alkotó huzalt hosszában kettévágjuk, s így ezen az oldalon két,
 egymás mellett futó teker shez jutunk (5. ábra).
 5. ábra
@@ -57,18 +57,18 @@ I
 , C-t®l A felé ugyan sak
 I
 2
-
+
 I −
 I
 2
 =
 I
 2
-
+
 áram folyik (6. ábra).
 6. ábra
 Megjegyzések. Bemutatunk további három megoldást, amellyel a versenyz®k eljutottak a helyes válaszhoz. Mindegyi-
-kük ráérzett a feladatban rejl® transzformátorra (ténylegesen autotranszformátornak nevezik a feladatban megadott
+kük  ráérzett  a feladatban rejl® transzformátorra (ténylegesen autotranszformátornak nevezik a feladatban megadott
 kap solást), és helyesen alkalmazták az általuk ismert összefüggéseket. Nem részletezzük, sak vázoljuk a megoldásnál
 követett gondolatmeneteket.
 7. ábra
@@ -120,8 +120,8 @@ kell legyen. (j-vel az ún. komplex egységgyököt,
 √
 −1-et jelöltük.)
 3. Szolnoki Lénárd úgy rajzolta át a kap solást (9. ábra), hogy még jobban emlékeztessen egy veszteségmentes, zárt
-vasmagú transzformátorra. Mivel a transzformátor szekunder oldalán ellentétes irányú a feszültség, mint a primer
-oldalon, ezért a fels® hurokra felírva a második Kir hho-törvényt, kapjuk:
+vasmagú transzformátorra. Mivel a transzformátor szekunder oldalán ellentétes  irányú  a feszültség, mint a primer
+oldalon, ezért a fels® hurokra felírva a második Kir hho -törvényt, kapjuk:
 U
 2
 +

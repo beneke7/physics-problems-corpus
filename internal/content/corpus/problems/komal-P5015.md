@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy]
 ---
 
-The star called 55 Cancri has the same diameter and mass as the Sun has. Its innermost planet Janssen has an orbital period of 17.76 hours. Determine the average distance between the star and the planet in astronomical units, which is the average distance between the Sun and the Earth. 
+The star called 55 Cancri has the same diameter and mass as the Sun has. Its innermost planet Janssen has an orbital period of 17.76 hours. Determine the average distance between the star and the planet in astronomical units, which is the average distance between the Sun and the Earth.
  (4 pont)

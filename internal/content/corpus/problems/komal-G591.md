@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-A journey from $A$ to $B$ takes 8 hours for a plane flying into a headwind, whilst the backward journey from $B$ to $A$ with tailwind takes 7 hours. If the wind speed is considered to be constant, by what factor is the speed of the air plane (without wind) greater than the wind speed? 
+A journey from $A$ to $B$ takes 8 hours for a plane flying into a headwind, whilst the backward journey from $B$ to $A$ with tailwind takes 7 hours. If the wind speed is considered to be constant, by what factor is the speed of the air plane (without wind) greater than the wind speed?
  (3 pont)

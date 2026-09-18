@@ -57,7 +57,9 @@ two 0.4)
                                 ∆λ
                           v2 = c 2 = 1.6 × 105 m/s (0.2)
                                 2λ0
-The student can use the wavelength of central line and maximum (or minimum) wavelengths.
+
+
+The student can use the wavelength of central line and maximum (or minimum) wavelengths.
 Marking scheme is given in the Excel file.
 
 
@@ -100,7 +102,9 @@ Therefore,
          2 2           (0.1)   ⇒       m = 3 × 1030 kg (0.2 + 0.2)
  m2 = r v1                              2
        G r1
-4.1) As it is clear from the diagram, with one significant digit, α = 4 . (0.6)
+
+
+4.1) As it is clear from the diagram, with one significant digit, α = 4 . (0.6)
 
 
 

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-The acceleration of an object starting from rest at $t_0=0$, and moving along a straight path, is $4~{\rm m/s}^2$. The magnitude of the acceleration of another object, undergoing uniform circular motion of radius 9 m, is also $4~{\rm m/s}^2$. 
- $a)$ What is the instantaneous speed of each object at $t_1=5$ s? 
- $b)$ How much distance do they cover during the 5 s? 
+The acceleration of an object starting from rest at $t_0=0$, and moving along a straight path, is $4~{\rm m/s}^2$. The magnitude of the acceleration of another object, undergoing uniform circular motion of radius 9 m, is also $4~{\rm m/s}^2$.
+ $a)$ What is the instantaneous speed of each object at $t_1=5$ s?
+ $b)$ How much distance do they cover during the 5 s?
  (3 pont)

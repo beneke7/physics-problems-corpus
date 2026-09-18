@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A load hanging on an elastic thread is pulled downwards by a force which is increased slowly from 0. The thread breaks at a force of $F_1$. What is the least value of the force at which the thread breaks, if the force immediately takes that value, and does not change after it? 
+A load hanging on an elastic thread is pulled downwards by a force which is increased slowly from 0. The thread breaks at a force of $F_1$. What is the least value of the force at which the thread breaks, if the force immediately takes that value, and does not change after it?
  (5 pont)

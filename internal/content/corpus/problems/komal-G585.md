@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-The density of a wooden sheet is 800 kg/m$^3$, and its width is 6 cm. To what depth below the water level will the wooden sheet sink, if it is placed into water? 
- What should the mass of that object be which can be put onto the wooden sheet of area 0.5 m$^2$, if the sheet is just not covered with water? 
+The density of a wooden sheet is 800 kg/m$^3$, and its width is 6 cm. To what depth below the water level will the wooden sheet sink, if it is placed into water?
+ What should the mass of that object be which can be put onto the wooden sheet of area 0.5 m$^2$, if the sheet is just not covered with water?
  (3 pont)

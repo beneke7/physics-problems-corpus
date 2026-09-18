@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-A cylinder of radius $R$ and of height $H$ contains a liquid. The cylinder is made to rotate about its axis. The angular speed of rotation is slowly increased until the edge of the liquid is drawn up to the rim of the cylinder. The liquid then just ``disappears'' from the centre of the bottom of the cup. 
- a) What is the greatest angular speed of the cylinder? 
- b) What is the initial height of the liquid in the cylinder? 
+A cylinder of radius $R$ and of height $H$ contains a liquid. The cylinder is made to rotate about its axis. The angular speed of rotation is slowly increased until the edge of the liquid is drawn up to the rim of the cylinder. The liquid then just ``disappears'' from the centre of the bottom of the cup.
+ a) What is the greatest angular speed of the cylinder?
+ b) What is the initial height of the liquid in the cylinder?
  (5 pont)

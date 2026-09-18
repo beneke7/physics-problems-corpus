@@ -32,7 +32,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        1. A gerjesztett állapotú atomok egyenként A rátával spontán elbomolhatnak.
 
                                                          17
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        2. Az alapállapotú atomok elnyelhetnek egy fotont. Egy-egy atom esetén ennek a folyamatnak a rátája Bρ(f ), ahol

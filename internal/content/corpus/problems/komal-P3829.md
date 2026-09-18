@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-A stone is thrown from the top of a vertical column at a certain angle above the horizontal. It strikes the ground twice as far as it would have struck it if it had been thrown from the bottom of the column with the same initial velocity. In this latter case the stone would fly during a time  T . Find the height of the column. 
+A stone is thrown from the top of a vertical column at a certain angle above the horizontal. It strikes the ground twice as far as it would have struck it if it had been thrown from the bottom of the column with the same initial velocity. In this latter case the stone would fly during a time  T . Find the height of the column.
  (4 pont)

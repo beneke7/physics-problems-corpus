@@ -22,11 +22,11 @@ verification_status: pending
 
 Egy $r=0{,}1 \mathrm{~m}$ sugarú félgömbös tartály folyékony nitrogénnel van töltve a forráspontja, $T_{1}=77{,}4 \mathrm{~K}\left(-195{,}8^{\circ} \mathrm{C}\right)$ hőmérsékleten. A másik félt erősen rászegecelik az elsőre, így egy gömb jön létre, amely folyékony nitrogént és nitrogéngázt tartalmaz, mindegyik elfoglalva a térfogat felét. A gömböt azonnal $T_{w}=20^{\circ} \mathrm{C}$ hőmérsékletű vízbe vetik, ahol úszva lebeg az alábbi ábrán látható módon. Egy idő után robbanást szenved.
 
-![Nitrogénnel töltött gömb úszva a vízben](sources/nbpho/figures/nbpho-2023-nitrogen-explosion-fig1.jpg)
+![Nitrogénnel töltött gömb úszva a vízben](../../figures/nbpho/figures/nbpho-2023-nitrogen-explosion-fig1.jpg)
 
 A gömb PCTFE műanyagból készült, melynek sűrűsége $\rho_{p}=2130 \mathrm{~kg} \mathrm{~m}^{-3}$, maximális húzószilárdságaja $\sigma=3{,}4 \times 10^{7} \mathrm{~N} \mathrm{~m}^{-2}$ (ezen felül a műanyag elszakad) és hővezetési tényezője $k=0{,}84 \mathrm{~W} \mathrm{~m}^{-1} \mathrm{~K}^{-1}$. Folyékony nitrogénre az itt vizsgált feltételek mellett a párolgás latens hője $\lambda=2{,}0 \times 10^{5} \mathrm{~J} \mathrm{~kg}^{-1}$, specifikus hője $c_{v}=2000 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}$ és sűrűsége $\rho_{n}=808 \mathrm{~kg} \mathrm{~m}^{-3}$. Moláris tömeg $\mathrm{M}\left(\mathrm{N}_{2}\right)=28 \mathrm{~g} \mathrm{~mol}^{-1}$. Az ideális gáz állandója $R=8{,}31 \mathrm{~J} \mathrm{~K}^{-1} \mathrm{~mol}^{-1}$. A nitrogén telített gőznyomásának hőmérsékleti függése az alábbi ábrán látható.
 
-![Nitrogén gőznyomás görbe](sources/nbpho/figures/nbpho-2023-nitrogen-explosion-fig2.jpg)
+![Nitrogén gőznyomás görbe](../../figures/nbpho/figures/nbpho-2023-nitrogen-explosion-fig2.jpg)
 
 **i)** *(1{,}5 pont)* Mekkora a gömb falvastagsága $d$?
 

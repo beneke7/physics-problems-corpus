@@ -26,7 +26,7 @@ a féltengelyek hossza. Tekintsünk egy homogén hengert, amelynek keresztmetsze
 negyedrendű ellipszis. A henger helyzetét a függőleges irány és a hosszabbik
 féltengely által bezárt $0 \leq \varphi \leq \pi/2$ szöggel mérjük; lásd az ábrát!
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-fourth-order-ellipse-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-fourth-order-ellipse-fig1.png)
 
 **1)** Melyek a vízszintes felületen fekvő henger egyensúlyi helyzetei (3,5 pont)?
 

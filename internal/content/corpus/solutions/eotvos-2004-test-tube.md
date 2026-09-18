@@ -56,7 +56,7 @@ Nlev =
 N0
 2
 ,
-vagyis a leveg® fele a melegítés során kibugyborékolt a kém s®b®l.
+vagyis a leveg® fele a melegítés során  kibugyborékolt  a kém s®b®l.
 A melegítés végén így
 plevV =
 N0
@@ -80,22 +80,22 @@ T
 2T0
 összefüggést. A melegítés során elért végh®mérséklet így az alábbi egyenletb®l határozható meg:
 p0 ·
-
+
 1 −
 T
 2T0
-
+
 = f(T).
 Mivel az f(T) függvény táblázattal adott, a megfelel® T érték interpolá ióval határozható meg (6. ábra). A kérdéses
 h®mérséklet (foknyi pontossággal) 347 K, azaz 74
 ◦
 C.
 6. ábra
-Megjegyzések. 1. A megoldás során alkalmazott jogos elhanyagolások miatt az interpolá iót nem érdemes  nem is
-szabad  több tizedesjegy pontossággal végezni.
-2. A magyar iskolákból jött versenyz®knek kézenfekv® volt, hogy a Négyjegy¶-ben vagy a Budó könyvben
-található táblázatokat használják. Az f(T) tenziógörbe bizonyos közelítésben elméleti úton, az ún. ClausiusClapeyron-
-egyenlet felhasználásával is meghatározható, de mivel a hazai középiskolákban ez nem része a 
+Megjegyzések. 1. A megoldás során alkalmazott jogos elhanyagolások miatt az interpolá iót nem érdemes   nem is
+szabad   több tizedesjegy  pontossággal  végezni.
+2. A magyar iskolákból jött versenyz®knek kézenfekv® volt, hogy a  Négyjegy¶ -ben vagy a  Budó  könyvben
+található táblázatokat használják. Az f(T) tenziógörbe bizonyos közelítésben elméleti úton, az ún. Clausius Clapeyron-
+egyenlet felhasználásával is meghatározható, de mivel a hazai középiskolákban ez nem része a
 zika tananyagnak, nem
 számítottunk ilyen közelít® megoldásra. Mégis adódott egy: Szlovákiából. Természetesen a Bizottság ezt a megoldást
 is elfogadta.

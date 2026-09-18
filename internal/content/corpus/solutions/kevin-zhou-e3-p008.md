@@ -106,13 +106,13 @@ a + b
 .
 After closing the switch, the resistance is
 Rf = 2
-
+
 1
 a
 +
 1
 b
-−1
+ −1
 =
 2ab
 a + b
@@ -195,7 +195,7 @@ through a capacitor!) Suppressing units, this means
 V
 from which we read off the answer,
 Q = CV = 0.132C.
-[3] Problem 9.  W 1 0USAPhO 1997, problem A3.
+[3] Problem 9.   W 1 0USAPhO 1997, problem A3.
 [3] Problem 10 (Purcell 4.18). Consider the two RC circuits below.
 Q = Q0
 C
@@ -248,7 +248,7 @@ Q0
 √
 3
 .
-[3] Problem 11.  W 1 0USAPhO 2004, problem A1.
+[3] Problem 11.   W 1 0USAPhO 2004, problem A1.
 [3] Problem 12 (Kalda). Three identical capacitors are placed in series and charged with a battery
 of emf E. Once they are fully charged, the battery is removed, and simultaneously two resistors are
 connected as shown.
@@ -367,8 +367,8 @@ Kevin Zhou Physics Olympiad Handouts
 (c) The relevant timescale is ϵ0/σ. Thus we find t ∼ 102 s for air, t ∼ 10−9 s for water, and
 t ∼ 10−19 s for copper. The last timescale is astoundingly small, and it implies that there is
 approximately no charge density within a metal in just about any circumstance.
-[5] Problem 15.  h 1 0IPhO 1993, problem 1. A really neat question with real-world relevance.
-[5] Problem 16.  h 1 0IPhO 2007, problem “orange”. A combination of mechanics and RC circuits.
+[5] Problem 15.   h 1 0IPhO 1993, problem 1. A really neat question with real-world relevance.
+[5] Problem 16.   h 1 0IPhO 2007, problem “orange”. A combination of mechanics and RC circuits.
 3 Computing Magnetic Fields
 Idea 4
 The Biot–Savart law is
@@ -608,13 +608,13 @@ Next, the segments parallel to ŷ contribute a total of
 B2 =
 µ0I
 4π
-
+
 a
 (r − a/2)2
 −
 a
 (r + a/2)2
-
+
 =
 µ0I
 4π
@@ -622,7 +622,7 @@ a
 r3
 where we work to the same accuracy as for B1. Adding the two contributions and using m = Ia2
 gives the desired result. If you forget to count B1, you’ll get an answer that is two times too big.
-[3] Problem 20.  W 1 0USAPhO 2012, problem A3.
+[3] Problem 20.   W 1 0USAPhO 2012, problem A3.
 19
 Kevin Zhou Physics Olympiad Handouts
 Idea 7: Magnetic Monopoles
@@ -636,7 +636,7 @@ actually exist in magnets, and applying this analogy will give the wrong fields 
 dipole, as you saw in problem 17 and will see another way in problem 21. However, if we
 only care about the field outside the magnet, the analogy works, and it’s often the fastest
 way to solve problems. We’ll return to this idea in greater depth in E8.
-[3] Problem 21.  m 1 0USAPhO 2015, problem B2. A key problem which illustrates idea 7.
+[3] Problem 21.   m 1 0USAPhO 2015, problem B2. A key problem which illustrates idea 7.
 We now give a few arguments for computing fields using symmetry.
 Example 5: PPP 31
 An electrically charged conducting sphere “pulses” radially, i.e. its radius changes periodically

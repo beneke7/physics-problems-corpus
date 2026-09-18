@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5731. Ha egy igen nagy energiájú gamma-foton álló elektronnal ütközik, akkor párkeltés következhet be, sőt megtörténhet, hogy nem egy elektron-pozitron pár keletkezik, hanem több. 
+P. 5731. Ha egy igen nagy energiájú gamma-foton álló elektronnal ütközik, akkor párkeltés következhet be, sőt megtörténhet, hogy nem egy elektron-pozitron pár keletkezik, hanem több.
 
- a) Legalább mekkora a gamma-foton energiája, ha a folyamatban $n$ elektron-pozitron pár keletkezik? 
+ a) Legalább mekkora a gamma-foton energiája, ha a folyamatban $n$ elektron-pozitron pár keletkezik?
 
  b) Legalább mekkora lesz a keletkező részecskék sebessége a párkeltés után?

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A trolley of mass $m_1$ was placed to a horizontal, rigid pair of rails at some height as shown in the figure. There is a small ball of mass $m_2$ attached to one end of a thread, whose other end is attached to the bottom of the trolley. (The thread hangs between the rails. The length of the thread is much greater than the size of the ball and the trolley.) 
+A trolley of mass $m_1$ was placed to a horizontal, rigid pair of rails at some height as shown in the figure. There is a small ball of mass $m_2$ attached to one end of a thread, whose other end is attached to the bottom of the trolley. (The thread hangs between the rails. The length of the thread is much greater than the size of the ball and the trolley.)
 
- If the ball is displaced a bit from its stable equilibrium position in the direction perpendicular to the rails, then it swings with a period of $T_1$. If the ball is displaced a bit parallel to the rails, while the trolley is fixed, and then both the ball and the trolley are released, then the period of the oscillation is $T_2$. What is the ratio of $m_2/m_1$, if $T_1/T_2=2$? (Friction and air drag are negligible.) 
+ If the ball is displaced a bit from its stable equilibrium position in the direction perpendicular to the rails, then it swings with a period of $T_1$. If the ball is displaced a bit parallel to the rails, while the trolley is fixed, and then both the ball and the trolley are released, then the period of the oscillation is $T_2$. What is the ratio of $m_2/m_1$, if $T_1/T_2=2$? (Friction and air drag are negligible.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4919-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4919-fig1.gif)

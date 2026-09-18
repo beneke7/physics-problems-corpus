@@ -36,11 +36,11 @@ N
 ≈
 P
 N
-
+
 1 +
 rN
 2
-
+
 .
 This makes sense, as when we average across the payment of the whole loan, the interest
 charged per month is r(P/2).

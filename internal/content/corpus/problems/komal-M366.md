@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201702"
 verification_status: pending
 ---
 
-Prepare a water manometer (with one side open) from a piece of bent plastic tube. Measure the gauge pressure of the air in differently inflated (approximately spherical) balloons. How does this gauge pressure depend on the diameter of the balloon? 
+Prepare a water manometer (with one side open) from a piece of bent plastic tube. Measure the gauge pressure of the air in differently inflated (approximately spherical) balloons. How does this gauge pressure depend on the diameter of the balloon?
  (6 pont)

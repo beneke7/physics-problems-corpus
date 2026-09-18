@@ -20,4 +20,4 @@ verification_status: pending
 
 Két, $r$ sugarú kör közül az egyik nyugalomban van, a másik pedig $v$ sebességgel mozog az első felé. Határozzuk meg a körök felső metszéspontjának sebességét az $a$ középponttávolság függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr3-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr3-fig1.jpg)

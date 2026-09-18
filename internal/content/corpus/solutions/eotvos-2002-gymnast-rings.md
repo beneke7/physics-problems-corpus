@@ -19,7 +19,7 @@ mekkora er® feszíti a kötelet az 1.b ábrán látható pillanatban! (A köté
 1. ábra
 () (Taká s Gábor feladata nyomán)
 Megoldás. Az eld®l® rúdra két er® hat: az mg nehézségi er® és a K kötéler® (2. ábra). Mindkett® függ®leges
-irányú (a változó nagyságú kötéler® azért, mert a kötél igen hosszú). Mivel sak függ®leges er®k hatnak a rúdra,
+irányú (a változó nagyságú kötéler® azért, mert a kötél  igen hosszú ). Mivel sak függ®leges er®k hatnak a rúdra,
 ezért a tömegközéppontja is sak függ®leges, egyenes vonalú pályán mozoghat, tehát függ®leges (nem harmonikus)
 rezg®mozgást végez.
 2. ábra
@@ -35,11 +35,11 @@ A munkatétel szerint:
 mgl =
 1
 2
-
+
 1
 12
 ml2
-
+
 ω2
 ,
 továbbá a dinamika alaptörvénye szerint:
@@ -49,13 +49,13 @@ l
 ω2
 .
 E két egyenletb®l következik: K = 13mg.
-Megjegyzések. 1. Az eredményül kapott er® hihetetlenül nagy! Még akkor is, ha 
+Megjegyzések. 1. Az eredményül kapott er® hihetetlenül nagy! Még akkor is, ha
 gyelembe vesszük, hogy a tornász
 egy karját ekkora er®nek sak a fele feszítené. Nem soda, hogy olyan sok versenyz® elhitte a feladat egyik tipiku-
 san hibás feltételezésével, a kötél mozdulatlannak vélt alsó végpontja körüli forgásból kapható K = 4mg (hibás)
 végeredményt.
-Nem sokkal az Eötvös-verseny után volt Debre enben a 2002. évi tornász világbajnokság, amelyet gy¶r¶n  mint
-ismeretes  Csollány Szilveszter nyert meg. Az ® gyakorlatát alaposan meg
+Nem sokkal az Eötvös-verseny után volt Debre enben a 2002. évi tornász világbajnokság, amelyet gy¶r¶n   mint
+ismeretes   Csollány Szilveszter nyert meg. Az ® gyakorlatát alaposan meg
 gyelve jól lehetett látni, hogy a feladatban
 használt modell mennyire durva közelítése a merev testnek aligha tekinthet® tornász mozgásának.
 2. A feladat ugyan nem kérdezte, de tanulságos kiszámítani a kötelet feszít® er®t a rúd tetsz®leges, mondjuk a

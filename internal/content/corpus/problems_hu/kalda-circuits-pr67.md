@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkör kapcsaira $V=V_{0}\cos(2\pi\nu t)$ váltakozó feszültséget kapcsolunk. Vázoljuk fel az ellenálláson, illetve a diódán átfolyó áram időfüggését.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr67-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr67-fig1.jpg)

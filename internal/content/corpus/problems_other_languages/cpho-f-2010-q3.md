@@ -26,4 +26,4 @@ verification_status: pending
 1． 小球 1 脱离轻杆时的位置（用小球 1 脱离杆时杆与水平线的夹角表示）；
 2． 小球 2 脱离轻杆时的位置（用小球 2 脱离杆时杆与水平线的夹角表示）。
 
-![](cpho-f-2010-q3-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q3-fig01.png)

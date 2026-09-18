@@ -50,7 +50,9 @@ Olympiad (APhO) and International Nuclear Science Olympiad
 
 
                                       Page 1 of 34
-                                              Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                              Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 1. A wide river of uniform depth flows with a uniform constant speed u parallel to its banks.
    A boat is moving in the river with constant speed v, measured in the moving frame of the
@@ -104,7 +106,9 @@ Olympiad (APhO) and International Nuclear Science Olympiad
 
 
                                         Page 2 of 34
-                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
       the ball undergoes drag after it enters the river. We are able to form the following
@@ -149,7 +153,9 @@ Marking Scheme:
 
 
                                        Page 3 of 34
-                                                Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 2. A pendulum with an inextensible string of length ℓ and mass m is attached to a spring of
    zero natural length and stiffness k. The string and spring are fixed to two perpendicular
@@ -179,7 +185,7 @@ Marking Scheme:
                                                                  mg
                                      tan θ − sin θ = 1 − sin θ +
                                                                  kℓ
-                                              mg  
+                                               mg
          which simplifies to θ0 = tan−1 1 +          .
                                                kℓ
 
@@ -197,7 +203,7 @@ Marking Scheme:
                                dθ
                                                   kl2 + mgℓ
                                         tan θ0 =         2
-                                                    kℓ mg 
+                                                     kℓ mg
                                       θ0 = tan−1 1 +
                                                            kℓ
 
@@ -209,7 +215,9 @@ Marking Scheme:
 
 
                                             Page 4 of 34
-                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
       Solution: The energy approach leads most directly to the final answer. Consider
@@ -225,7 +233,7 @@ Marking Scheme:
                                    (sin θ − cos θ) + cos θ
                                 θ̈ = −
                                 m
-                                                      l         
+                                                       l
                                    k                        g
                              =−       (cos θ0 + sin θ0 ) + sin θ0 δθ
                                    m                        l
@@ -256,7 +264,9 @@ Marking Scheme:
 
 
                                          Page 5 of 34
-                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 3. A continuous rigid helix of uniform density has mass m and radius R. Its axis is oriented
    vertically, and the vertical distance between each helix turn is H = πR. The helix is able
@@ -314,7 +324,9 @@ Marking Scheme:
 
 
                                           Page 6 of 34
-                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
       Applying conservation of energy, we have:
@@ -355,7 +367,9 @@ Marking Scheme:
 
 
                                      Page 7 of 34
-                                              Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                              Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 4. Part A: Scaling Laws in a Column
   Consider a solid cylindrical column of diameter d and height h supporting a sphere of
@@ -416,7 +430,9 @@ Marking Scheme:
 
 
                                        Page 8 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
                                             r2 dA, so
@@ -471,7 +487,9 @@ object in the figure).
 
 
                                       Page 9 of 34
-                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
       center. Find the new potential at C’ and D’. Leave your answer in terms of φ1 and
       φ2 .
@@ -519,7 +537,9 @@ Spring18Onufriev/ LectureNotes/ ScalingLaws. pdf .
 
 
                                        Page 10 of 34
-                                               Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                               Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 5. Consider a point charge +q placed at a fixed distance d from an infinitely large, thin,
    conducting plane.
@@ -579,7 +599,9 @@ Spring18Onufriev/ LectureNotes/ ScalingLaws. pdf .
 
 
                                          Page 11 of 34
-                                                  Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                  Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
      flux is from its intersection with the plane.
@@ -646,7 +668,9 @@ Spring18Onufriev/ LectureNotes/ ScalingLaws. pdf .
 
 
                                           Page 12 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
       Hence,
@@ -703,7 +727,9 @@ Marking Scheme:
 
 
                                       Page 13 of 34
-                                               Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                               Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 6. Superconductors exhibit the Meissner effect where below a critical temperature, the super-
    conducting material expels all magnetic fields from its interior. This effect can be visualised
@@ -754,7 +780,9 @@ Marking Scheme:
 
 
                                          Page 14 of 34
-                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 
@@ -787,7 +815,7 @@ z-axis lies in a uniform external magnetic field of magnitude B0 parallel to the
     show that the net magnetic field B⃗1 in the region r > R is given by:
 
                                              R2                     R2
-                                                                    
+
                     ⃗
                    B1 (r, θ) = B0 sin θ 1 − 2 r̂ + B0 cos θ 1 + 2 θ̂
                                              r                      r
@@ -796,7 +824,9 @@ z-axis lies in a uniform external magnetic field of magnitude B0 parallel to the
 
 
                                      Page 15 of 34
-                                     Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                     Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 Solution:
@@ -829,19 +859,19 @@ Taking first order terms with respect to dr , we get
 
                                               µ0 Id cos θ
                             B1,θ = B0 cos θ +
-                                                 2πr2
+                                                 2πr2
                                                   R2
-                                            
+
                                  = B0 cos θ 1 + 2
                                                   r
 
 Similarly, we can obtain
-                                                         
+
                                              µ0 I d sin θ
                            B1,r = B0 sin θ −
                                              2πr       r
                                                    2
-                                                    
+
                                                  R
                                 = B0 sin θ 1 − 2
                                                  r
@@ -849,7 +879,7 @@ Similarly, we can obtain
 Hence, we conclude that
 
                                       R2                  R2
-                                                          
+
               ⃗
               B1 (r, θ) = B0 sin θ 1 − 2 r̂ + B0 cos θ 1 + 2 θ̂
                                       r                   r
@@ -858,7 +888,9 @@ Hence, we conclude that
 
 
                                Page 16 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 An infinitely long solid cylinder of radius R is placed in a region of incompressible, non-
 viscous fluid that flows from y = −∞ with a uniform velocity of U0 ŷ, past the cylinder
@@ -893,7 +925,7 @@ cylinder.
       We therefore obtain that the velocity field is:
 
                                                 R2                     R2
-                                                                       
+
                       ⃗
                       U (r, θ) = U0 sin θ 1 − 2 r̂ + U0 cos θ 1 + 2 θ̂
                                                 r                       r
@@ -902,7 +934,9 @@ cylinder.
 
 
                                       Page 17 of 34
-                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 The cylinder is now given an angular velocity that points in the positive z-direction (out
 of the paper), inducing circular currents in the fluid around it. To model the effect of the
@@ -942,7 +976,7 @@ and L4 have opposite signs.
                                                 ⃗
       We can now simply superimpose vθ and U (r, θ) to obtain:
                                           2                      2
-                                                                  
+
                                         R                      R     Γ
                U⃗1 (r, θ) = U sin θ 1 − 2 r̂ + U cos θ 1 + 2 +           θ̂
                                         r                      r     r
@@ -950,7 +984,9 @@ and L4 have opposite signs.
 
 
                                      Page 18 of 34
-                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 (f) Given density of fluid ρ, find the force per unit length F⃗ acting upon the cylinder due   [3]
     to the fluid flow. (Hint: One possible solution is to apply Bernoulli’s equation.)
@@ -962,7 +998,7 @@ and L4 have opposite signs.
                                            ⃗ (θ) at the surface of the object, since we want
      First, let us find the velocity field V
      to integrate the fluid pressure at the object’s surface to find the force. Substituting
-     r = R into U⃗1 (r, θ),                                 
+     r = R into U⃗1 (r, θ),
                                    ⃗ (θ) = 2U0 cos θ + Γ θ̂
                                    V
                                                           R
@@ -992,7 +1028,9 @@ and L4 have opposite signs.
 
 
                                      Page 19 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 
@@ -1037,7 +1075,9 @@ Marking Scheme:
 
 
                                       Page 20 of 34
-                                                Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 7. Part A: Thin Lens Interference
   A plano-convex lens with radius of curvature R and refractive index n is placed on top of a
@@ -1076,7 +1116,7 @@ Marking Scheme:
                                         λ
                                      2πrm2
                                            + π = 2πm
-                                      λR         s      
+                                      λR         s
                                                        1
                                             rm =    m−     λR
                                                        2
@@ -1085,7 +1125,9 @@ Marking Scheme:
 
 
                                         Page 21 of 34
-                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 Part B: Double Slit Diffraction
 We consider two-slit diffraction, but with collimated light of speed c and two different
@@ -1116,13 +1158,13 @@ the two waves at the slit to be ϕ = 0.
        Solution: The major difference between this and usual diffraction is that both
        the wavenumber and frequency are different. The wavenumber is k = 2π λ and the
        frequency is ω = ck. The amplitude is
-                                                               
+
                                             2π        d
                             E1,2 = E0 cos        · r ± sin θ − ct
                                             λ1,2      2
 
        The resulting diffraction pattern is E = E1 + E2 , therefore
-                                                                        
+
                             2π       d                      2π      d
             E = E0 cos         · r + sin θ − ct + cos          · r − sin θ − ct
                             λ1        2                     λ2      2
@@ -1130,7 +1172,7 @@ the two waves at the slit to be ϕ = 0.
        For simplicity, we use the wavenumber k = 2π λ . Let k̄ =    2 , δk =     2 . Using
                                                           A+B      A−B
        the sum to product formula cos A + cos B = 2 cos 2 cos 2 , we have
-                                                                              
+
                                            d sin θ                       d sin θ
                E = 2E0 cos k̄(r − ct) + δk           cos δk(r − ct) + k̄
                                               2                             2
@@ -1151,15 +1193,17 @@ the two waves at the slit to be ϕ = 0.
 
 
                                         Page 22 of 34
-                                    Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                    Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 Solution: Let k = 2π                                     δλ                  δλ
-                                                                               
+
                      λ , then to first order, k1 ≈ k 1 + λ , k2 ≈ k 1 − λ . Let
 δk = k δλ
        λ . Then
-                                                                        
+
                                      d sin θ                       d sin θ
           E = 2E0 cos k(r − ct) +            δk cos δk(r − ct) + k
                                         2                             2
@@ -1168,12 +1212,12 @@ We may assume that since δk ≪ k, the value of the second cosine hardly change
 as t varies. Therefore we only need to compute the first cosine, which averages to
 1
 2.
-                                                        
+
                             2    2               d sin θ
                    I ≈ 2ϵ0 E0 cos δk(r − ct) + k
                                                     2
                     ≈ ϵ0 E02 [1 + cos (2δk(r − ct) + kd sin θ)]
-                                                              
+
                            2               δλ
                     ≈ ϵ0 E0 1 + cos 2k (r − ct) + kd sin θ
                                            λ
@@ -1184,7 +1228,7 @@ The maxima correspond to:
                                                 δλ
                         d sin θminima = nλ − 2 (r − ct), n ∈ N
                                                 λ
-Similarly,                            
+Similarly,
                                      1        δλ
                  d sin θmaxima = n +     λ − 2 (r − ct), n ∈ N
                                      2        λ
@@ -1198,7 +1242,9 @@ that the positions of maxima move with angular velocity:
 
 
                               Page 23 of 34
-                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 
@@ -1239,7 +1285,9 @@ Marking Scheme:
 
 
                                     Page 24 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 8. This is the P V -diagram of the Otto cycle: A → B and C → D are isochoric (or isovolu-
    metric) processes, and B → C and D → A are adiabatic processes.
@@ -1263,11 +1311,11 @@ Marking Scheme:
 
          For an adiabatic process, pV γ = const. implies T V γ−1 = const.. We may use this
          relation to obtain
-                                             γ−1           γ−1
+                                               γ−1             γ−1
                                          TB VV12     − TA VV12
                                ηc = 1 −
                                                   TB − TA
-                                          γ−1
+                                            γ−1
                                            V1
                                    =1−
                                            V2
@@ -1276,7 +1324,9 @@ Marking Scheme:
 
 
                                       Page 25 of 34
-                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 Now, we will discuss the quantum Otto engine. For simplicity, consider a two-level atomic
 system with ground state and excited state energies E0 = 0 and E1 , and suppose the
@@ -1294,14 +1344,14 @@ where T is the temperature and kB is the Boltzmann constant.
     write down expressions for the probabilities p0 and p1 . Leave your answers in terms of
     E1 , kB and T .
 
-      Solution: We know that                            
+      Solution: We know that
                                                      E1
                                       p1 = p0 exp −
                                                     kB T
       Since p0 + p1 = 1, we have
-                                                                      
+
                                      1                     exp − kEB1T
-                       p0 =                       p1 =                
+                       p0 =                         p1 =
                               1 + exp − kEB1T            1 + exp − kEB1T
 
 
@@ -1330,7 +1380,9 @@ effectively constant during an adiabatic process.
 
 
                                      Page 26 of 34
-                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 The von Neumann entropy S is given by
                                                  X
@@ -1348,7 +1400,7 @@ system.
                                 dS = −kB       (1 + ln pi ) dpi
                                                       i
 
-      Knowing that p0 + p1 = 1, we have dp0 = −dp1 . Furthermore, since p1 =
+      Knowing  that  p0 + p1 = 1, we have dp0 = −dp1 . Furthermore, since p1 =
       p0 exp − kEB1T , we have ln p1 = ln p0 − kEB1T . Upon substitution, we obtain our
       final answer.
 
@@ -1356,7 +1408,7 @@ system.
                                         X
                              = −kB T         (1 + ln pi ) dpi
                                          i
-                                                                
+
                                                   E1
                              = −kB T 1 + ln p1 −      − 1 − ln p1 dp1
                                                  kB T
@@ -1393,7 +1445,9 @@ system.
 
 
                                        Page 27 of 34
-                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                           Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
      equations for classical and quantum energy can each be partitioned into a term for
@@ -1413,9 +1467,9 @@ system.
                                           EC (pB − pA )     EC
 
      Since pB = pC , we have
-                                                           
+
                              exp − kBETBB        exp − kBETCC
-                                           =                 
+                                             =
                            1 + exp − kBETBB    1 + exp − kBETCC
 
      Simplifying, we have E    EC
@@ -1432,7 +1486,9 @@ system.
 
 
                                     Page 28 of 34
-                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 
@@ -1467,7 +1523,9 @@ This problem is adapted from a Chinese Physics Olympiad.
 
 
                                     Page 29 of 34
-                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                                 Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 9. When stars collapse, over 97% of them become white dwarves. These are extremely dense
    bodies consisting largely of degenerate electron matter and some ions. Unlike stars, the
@@ -1484,7 +1542,7 @@ This problem is adapted from a Chinese Physics Olympiad.
    To describe the probability in which these states are occupied, we can apply Fermi-Dirac
    statistics, which tells us that a state of energy ε has an average occupation probability f (ε):
                                                         1
-                                       f (ε) =         ε−µ 
+                                       f (ε) =         ε−µ
                                                  exp    kT   +1
 
    where k is the Boltzmann constant, T is the temperature and µ is an energy term known
@@ -1494,7 +1552,7 @@ This problem is adapted from a Chinese Physics Olympiad.
                                     8π              p3
                                P = 3                         v(p) dp
                                     3h 0 exp ε−µ
-                                                       
+
                                                     kT   +1
 
         where v(p) is the magnitude of the velocity of an electron as a function of its momentum
@@ -1526,7 +1584,9 @@ This problem is adapted from a Chinese Physics Olympiad.
 
 
                                          Page 30 of 34
-                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                             Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
       unit time.
@@ -1542,7 +1602,7 @@ This problem is adapted from a Chinese Physics Olympiad.
                              8π            p3
                            = 3                     v(p) dp
                              3h 0 exp ε−µ
-                                              
+
                                            kT   +1
 
       Alternatively, answers using a simpler model exploiting symmetry may obtain full
@@ -1559,9 +1619,9 @@ and the energy of the electron is equal to µ when it occupies the state with mo
                                        3h 0
 
 
-      Solution: With the zero temperature assumption, the Fermi-Dirac distribution
+      Solution: With the zero temperature assumption,  the Fermi-Dirac distribution
       simplifies to a step function. When ε < µ, exp ε−µ   kT = 0 and f (ε) = 1. On the
-                                     ε−µ 
+                                     ε−µ
       other hand, when ε > µ, exp kT tends towards infinity and f (ε) = 0. With this
       in mind, any momentum values above pf in the integral all go to zero, and we can
       simplify the denominator to 1. This leaves us with the desired equation:
@@ -1594,7 +1654,9 @@ and the energy of the electron is equal to µ when it occupies the state with mo
 
 
                                      Page 31 of 34
-                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                            Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
        Solution: For non-relativistic particles, v ≪ c. The velocity v is given by mpe , so
@@ -1607,7 +1669,7 @@ and the energy of the electron is equal to µ when it occupies the state with mo
                                        =           p5
                                           15h3 me f
        Substuting the expression for ne , we have:
-                                                2 2 5
+                                                  2 2 5
                                           1     3 3 h 3
                                       P =              ne
                                           20    π   me
@@ -1630,7 +1692,7 @@ that the number of ions ni is given by 6ni = ne . The electrons here move non-re
        much greater than each electron, we can make the approximation ρ ≈ ni mi , where
        mi = 12 u for carbon. Then, ne = 6 mρi . Upon plugging in numerical values, we
        obtain:
-                                                  2     5
+                                                   2     5
                                              1 3 3 h2 3
                                        Pe              n e
                                           = 20 π me
@@ -1644,7 +1706,9 @@ that the number of ions ni is given by 6ni = ne . The electrons here move non-re
 
 
                                       Page 32 of 34
-                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+                                          Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 
@@ -1672,7 +1736,9 @@ Marking Scheme:
 
 
                                     Page 33 of 34
-     Wednesday, 19 February 2025, 1:00pm – 5:00pm
+
+
+     Wednesday, 19 February 2025, 1:00pm – 5:00pm
 
 
 

@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: flagged
 ---
 
-There are two tables next to each other. How much work is done on that flat parcel, which is pulled from one of the tables to the other? The coefficients of dynamic friction between the parcel and the two tabletops are different. 
- Data: m =18 kg; =0.8 m; $_{1}$=0.1; $_{2}$=0.4. ( The weight of the parcel is distributed evenly along the surfaces of the tables that are in contact with the parcel.) 
+There are two tables next to each other. How much work is done on that flat parcel, which is pulled from one of the tables to the other? The coefficients of dynamic friction between the parcel and the two tabletops are different.
+ Data: m =18 kg; =0.8 m; $_{1}$=0.1; $_{2}$=0.4. ( The weight of the parcel is distributed evenly along the surfaces of the tables that are in contact with the parcel.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4554-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4554-fig1.gif)

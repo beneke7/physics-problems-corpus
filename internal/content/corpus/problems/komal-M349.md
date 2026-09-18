@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201503"
 verification_status: pending
 ---
 
-A roll of cello-tape (or any other type of transparent adhesive tape) is placed to a fixed horizontal axle. The end of the tape is pulled vertically downward at some particular magnitude of force. Investigate how the tape rolls down (or breaks) at different magnitude of forces. Find the relationship between the average roll-off speed and the force. 
+A roll of cello-tape (or any other type of transparent adhesive tape) is placed to a fixed horizontal axle. The end of the tape is pulled vertically downward at some particular magnitude of force. Investigate how the tape rolls down (or breaks) at different magnitude of forces. Find the relationship between the average roll-off speed and the force.
 
- Another type of measurement can also be chosen: tear off the tape at some given speed and investigate the average force applied. (Only one of the two different measurements should be carried out.) 
+ Another type of measurement can also be chosen: tear off the tape at some given speed and investigate the average force applied. (Only one of the two different measurements should be carried out.)
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M349-fig1.gif)
+![figure](../../figures/komal/figures/komal-M349-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy, strategic-heuristics]
 ---
 
-Why is different the directionality of the loudspeakers for high and deep pitch? Accordingly, find an explanation of the fact that the deep sounds are intensified more, if the loudspeakers are placed directly in front of a wall. 
+Why is different the directionality of the loudspeakers for high and deep pitch? Accordingly, find an explanation of the fact that the deep sounds are intensified more, if the loudspeakers are placed directly in front of a wall.
  (5 pont)

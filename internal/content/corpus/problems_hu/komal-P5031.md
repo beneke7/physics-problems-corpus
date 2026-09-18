@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5031. Az ábra szerinti elrendezésben $C= 4~\mu$F. A rendszer $U=16~$V egyenfeszültségre van kapcsolva. 
+P. 5031. Az ábra szerinti elrendezésben $C= 4~\mu$F. A rendszer $U=16~$V egyenfeszültségre van kapcsolva.
 
- $a)$ Mekkora az egyes kondenzátorok feszültsége és töltése? 
+ $a)$ Mekkora az egyes kondenzátorok feszültsége és töltése?
  $b)$ A $\rm K$ kapcsolót nyitjuk. Az új egyensúly beálltáig mennyi töltés áramlik át az áramforráson?
 
-![figure](../../raw_html/komal_figures/komal-P5031-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5031-fig1.gif)

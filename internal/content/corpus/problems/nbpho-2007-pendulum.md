@@ -30,7 +30,7 @@ takes a form of a circle segment. The radius of that circle is inversely
 proportional to the force, $R=k / F$, where the factor $k$ is a characteristic of
 the rod.
 
-![figure](../../sources/nbpho/figures/nbpho-2007-pendulum-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2007-pendulum-fig1.png)
 
 1) Let the rod be fixed vertically, at its bottom end, and a ball of mass $m$ be
 attached to its upper end. Knowing the factor $k$, the length of the rod $l$, and

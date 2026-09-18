@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, stability-analysis, extremization]
 ---
 
-One third of the space in a hollow sphere of inner diameter 8 cm is filled with water. The sphere is floating freely in a space station. What is the position of the water if the material of the sphere is 
- a ) glass, to which water totally adheres, 
- b ) silver, and the contact angle between the silver and the water is 90$^\circ$? 
+One third of the space in a hollow sphere of inner diameter 8 cm is filled with water. The sphere is floating freely in a space station. What is the position of the water if the material of the sphere is
+ a ) glass, to which water totally adheres,
+ b ) silver, and the contact angle between the silver and the water is 90$^\circ$?
  (5 pont)

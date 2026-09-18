@@ -22,12 +22,12 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-In a perfectly heat-insulated tank of solid walls there is nitrogen gas of a temperature of 300 K. The tank initially moves with a velocity of and then stops 
+In a perfectly heat-insulated tank of solid walls there is nitrogen gas of a temperature of 300 K. The tank initially moves with a velocity of and then stops
 
- a ) suddenly. 
+ a ) suddenly.
 
- b ) in a certain time decelerating uniformly. 
+ b ) in a certain time decelerating uniformly.
 
- Does the temperature of the gas change, and if it does, how? 
+ Does the temperature of the gas change, and if it does, how?
 
  (5 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201002"
 verification_status: pending
 ---
 
-Place an inclined plane to the rim of the table and let a paper cylinder roll down along the incline. Observe the path of the cylinder flying off the table. Investigate what the distance between the table and position where the cylinder reaches the ground depends on, and how it depends. 
+Place an inclined plane to the rim of the table and let a paper cylinder roll down along the incline. Observe the path of the cylinder flying off the table. Investigate what the distance between the table and position where the cylinder reaches the ground depends on, and how it depends.
  (6 pont)

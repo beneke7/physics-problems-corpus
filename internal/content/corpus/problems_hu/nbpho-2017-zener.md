@@ -22,7 +22,7 @@ verification_status: pending
 
 Egy Zener-diódát váltakozó áramforráshoz kapcsolnak az ábrán látható módon. Az áram szinuszos $I = I_0 \cos \omega t$ állandó amplitúdóval. Az induktor $L$ induktivitása olyan, hogy $L \omega I_0 \gg V_1, V_2$, ahol $V_1$ és $V_2$ a lezárási feszültségek ($V_1 > V_2$). A Zener-dióda áram-feszültség karakterisztikája az ábrán látható. A következőkben feltételezzük, hogy az áramforrás bekapcsolása óta hosszú idő telt el.
 
-![Zener-dióda áramköri diagramja és karakterisztikája](nbpho-2017-zener-fig1.jpg)
+![Zener-dióda áramköri diagramja és karakterisztikája](../../figures/nbpho/figures/nbpho-2017-zener-fig1.jpg)
 
 **i)** *(5 pont)* Határozzuk meg az átlagos áramot $\langle I \rangle$ az induktoron keresztül.
 

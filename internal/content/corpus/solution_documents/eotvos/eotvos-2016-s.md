@@ -71,7 +71,9 @@ mutattuk be.                                                        felvett telj
     Részletek: http://mono.eik.bme.hu/~vanko/fizika/eotvos.htm      ellenállás nem függ a hõmérséklettõl.
 
 A FIZIKA TANÍTÁSA                                                                                                               269
-3. feladat                                                 hallgatója, érettségizett a budapesti Fazekas Mihály
+
+
+3. feladat                                                 hallgatója, érettségizett a budapesti Fazekas Mihály
 Messzirõl nézzük a Hold vízben tükrözõdõ képét és          Gimnáziumban, tanára: Horváth Gábor. Összevont II–
 azt látjuk, hogy eredetileg 0,5°-os látószöge függõle-     III. díjat kapott Egyedi Péter, a BME villamosmérnök
 ges irányban megkétszerezõdött. A víz felszínén 12         hallgatója, érettségizett a pécsi Leõwey Klára Gimná-
@@ -136,7 +138,9 @@ ELTE Apáczai Csere János Gyakorló Gimnáziumban,            egyetlen erõ hat
 tanára: Zsigri Ferenc és Káli Szabolcs, az ELTE fizikus    tozó irányú csúszási súrlódási erõ. Stacionárius kör-
 
 270                                                                                        FIZIKAI SZEMLE 2017 / 7–8
-mozgás esetén az érme sebességének nagysága állan-
+
+
+mozgás esetén az érme sebességének nagysága állan-
 dó, ezért a súrlódási erõ mindig merõleges a sebes-                                                  ⎛ μ g ⎞2
                                                                                          ρ =    R2 − ⎜ 2 ⎟ .
 ségvektorra. A pénzérme körmozgásának szögsebes-                                                     ⎝ω ⎠
@@ -207,7 +211,9 @@ pénzérme által a rajztáblán hagyott kör alakú grafit-
 nyomok ρ sugarát:
 
 A FIZIKA TANÍTÁSA                                                                                                          271
-jének kinagyított részlete. A fényképezõgép lencséjé-                                                           2a = 7,6 mm
+
+
+jének kinagyított részlete. A fényképezõgép lencséjé-                                                           2a = 7,6 mm
 nek fókusztávolsága 18 mm.
    Becsüljük meg a megadott és a képekrõl lemért
 adatokból a közelebbi lap távolságát a lencsétõl, vala-
@@ -281,7 +287,9 @@ kép nagyításának arányából határozható meg:                            
                                                                           elmosódott képe ezen a képen):
 
 272                                                                                                           FIZIKAI SZEMLE 2017 / 7–8
-                                                        szinte senki nem tudott mit kezdeni. Néhányan –
+
+
+                                                        szinte senki nem tudott mit kezdeni. Néhányan –
                                                         helytelenül – a fény elhajlásával próbálták magyarázni
                                                         az elmosódottságot.
 
@@ -353,7 +361,9 @@ is meghatározta, de nem tudtak továbblépni. A kép                           
 elmosódottságával – az egy helyes megoldón kívül –                               E2   r1
 
 A FIZIKA TANÍTÁSA                                                                                            273
-                                          E1
+
+
+                                          E1
                                      p
                                                    e
                                           j            E
@@ -424,7 +434,9 @@ erõsség integrálásával kapha-
 tó meg:
 
 274                                                                                                              FIZIKAI SZEMLE 2017 / 7–8
-   Az esemény végén került sor az eredményhirdetés-                 Kálmán, a Szegedi Radnóti Miklós Kísérleti Gimná-
+
+
+   Az esemény végén került sor az eredményhirdetés-                 Kálmán, a Szegedi Radnóti Miklós Kísérleti Gimná-
 re. A díjakat Patkós András, az Eötvös Loránd Fizikai               zium 12. osztályos tanulója, Mezõ Tamás tanítványa,
 Társulat elnöke adta át.                                            valamint Simon Dániel Gábor, a Kecskeméti Bányai
    Egyetlen versenyzõ sem oldotta meg mindhárom fel-                Júlia Gimnázium 11. osztályos tanulója, Bakk János

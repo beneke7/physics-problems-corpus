@@ -35,7 +35,7 @@ permeability of the material of the building blocks, all the magnetic field line
 constrained inside them (i.e. in the surrounding medium, the magnetic induction
 $B=0$).
 
-![figure](../../sources/nbpho/figures/nbpho-2004-magnets-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-magnets-fig1.png)
 
 **1)** Let us denote the fluxes in the permanent magnets (magnets A–F in the figure)
 by $\Phi_A,\ldots,\Phi_F$. Write down an equation relating $\Phi_A$, $\Phi_B$, and

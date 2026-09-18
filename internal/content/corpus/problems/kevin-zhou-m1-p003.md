@@ -59,7 +59,9 @@ bounces elastically, experiencing the same quadratic drag as in problem 2. Find 
 
 
                                                       2
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
        Idea 2

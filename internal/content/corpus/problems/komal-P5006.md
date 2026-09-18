@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws, differential-element]
 ---
 
-A 200 g beach ball is strongly thrown downwards, onto the ground. When the ball is in its most compressed state, it touches the ground along a circle of diameter 10 cm, and the pressure in the ball is 110 kPa. 
- $a)$ What is the greatest acceleration of the centre of mass of the ball, if the ground is dry and a little bit lumpy? 
- $b)$ Would the value of the acceleration be different if the ground was wet and flat, and therefore there was no air left below that part of the ball which was in contact with the ground? 
- (The ambient air pressure is 100 kPa.) 
+A 200 g beach ball is strongly thrown downwards, onto the ground. When the ball is in its most compressed state, it touches the ground along a circle of diameter 10 cm, and the pressure in the ball is 110 kPa.
+ $a)$ What is the greatest acceleration of the centre of mass of the ball, if the ground is dry and a little bit lumpy?
+ $b)$ Would the value of the acceleration be different if the ground was wet and flat, and therefore there was no air left below that part of the ball which was in contact with the ground?
+ (The ambient air pressure is 100 kPa.)
  (5 pont)

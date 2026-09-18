@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A razor blade is floating on the surface of water in a glass. The blade is made sink by moving the glass. How does the level of the water change during this? 
+A razor blade is floating on the surface of water in a glass. The blade is made sink by moving the glass. How does the level of the water change during this?
  (5 pont)

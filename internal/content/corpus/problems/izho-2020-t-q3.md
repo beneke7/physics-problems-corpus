@@ -26,7 +26,7 @@ techniques: [conservation-laws, differential-element, superposition]
 ## Problem 3. Ring in a magnetic field (10.0 points) Uniformly charged ring
 
 A very thin ring of mass $m$ and radius $r$ is uniformly charged along its length with a charge $q$. At the initial moment of time, the ring rests horizontally and is released without a push. The subsequent motion of the ring appears in the vertical gravitational field of the Earth, characterized by the acceleration of gravity $g$ and in the horizontal radial magnetic field of induction $B$. Neglect air
-![](izho-2020-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2020-t-q3-fig01.png)
 resistance and assume that the plane of the ring remains horizontal at all times.
 3.1 Find the maximum velocity of the ring center of mass $v_{\max }$ for the entire time of motion.
 3.2 Find the time interval $\Delta t$ elapsed from the start of the ring motion to its first reaching of the maximum velocity of the center of mass.

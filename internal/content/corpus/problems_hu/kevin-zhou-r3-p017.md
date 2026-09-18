@@ -35,5 +35,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     jelenik meg, általában van benne valamilyen csavar. Például a ponttöltést helyettesíthetjük
 
 
-                    01T
+                    01T
     a ponttöltést elektromos dipólussal, ahogy azt a következő három nehéz kérdés szemlélteti.

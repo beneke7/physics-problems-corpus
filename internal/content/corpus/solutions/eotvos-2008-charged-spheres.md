@@ -12,13 +12,13 @@ figure_files: []
 provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2008_S.pdf."
 ---
 
-3. feladat. Egy 
+3. feladat. Egy
 zikaszakkörön valaki demonstrálni szeretné, hogy ellentétes irányú elektromos térer®sségvektorok
 leronthatják egymást. Elképzelése a következ®. Szigetel® lábakon két egyforma fémgömböt állít egymás mellé és pontosan
 ugyanakkora poten iálra tölti fel ®ket. Ezután a kettejük közé középre belógatott próbatöltésre nem fog elektromos er®
 hatni.
-A gyakorlati kivitelezéshez a kísérletez® egy néhány száz V feszültség¶ telep egyik sarkát leföldeli, vagyis az asz-
-tallapra tett nagy fémtál ához satlakoztatja  ezt tekinthetjük zérus poten iálú helynek , a másik pólushoz satlakozó
+A gyakorlati kivitelezéshez a kísérletez® egy néhány száz V feszültség¶ telep egyik sarkát  leföldeli , vagyis az asz-
+tallapra tett nagy fémtál ához satlakoztatja   ezt tekinthetjük zérus poten iálú helynek  , a másik pólushoz satlakozó
 banándugóval pedig el®ször a bal oldali, utána a jobb oldali gömböt, majd végül a szigetel® szálon közéjük lógatott alu-
 fólia síkot érinti meg (5. ábra). Meglep®dve tapasztalja, hogy az alufólia igenis kitér a függ®leges irányból, elmozdul
 az egyik gömb felé.
@@ -29,7 +29,7 @@ Melyik gömb felé tér ki az alufólia?
 Hogyan lehetne a kudar ot elkerülni?
 (Károlyházy Frigyes)
 Megoldás. A feladat az 1992. évi Eötvös-verseny 3. problémájára emlékeztet, amelynek megoldása megtalálható
-Az Eötvös-versenyek feladatai II. 19891997 . Typotex kiadványban, és ma már az interneten is olvasható a Kempe-
+ Az Eötvös-versenyek feladatai II. 1989 1997  . Typotex kiadványban, és ma már az interneten is olvasható a Kempe-
 len Farkas Digitális Tankönyvtárban. Két versenyz®, akik kés®bb di séretet kaptak, rá is talált az ott közölt megoldásra,
 melynek nyomán sikerült is megoldaniuk ezt a feladatot. Az Eötvös-versenyen bármely segédeszköz (könyvek, jegy-
 zetek, zsebszámológép) használható (mobiltelefon és laptop kivételével), ezért megoldásukat természetesen elfogadta
@@ -38,7 +38,7 @@ erre a feladatra.
 Tekintsük el®ször azt az esetet, amikor még sak a bal oldali gömböt töltöttük fel a telep feszültségére. Ekkor ez a
 gömb felvett valamennyi töltést. A jobb oldali gömb, ami ugyan töltetlen, most egy elektromos er®térbe került, ennek
 hatására benne töltésszétválás történt és már nem zérus a feszültsége, hiába zérus a rajta lév® össztöltés.
-Ezek után érintjük meg a jobb oldali gömböt a telep el®bbi  pozitív  sarkából jöv® vezetékkel. Ennek hatására ez
+Ezek után érintjük meg a jobb oldali gömböt a telep el®bbi   pozitív   sarkából jöv® vezetékkel. Ennek hatására ez
 a gömb is a telep feszültségére tölt®dik fel, viszont ehhez már kevesebb töltésnek kell felmennie rá, mint amennyi töltés
 a másik gömbre került! S®t, ha a második gömb feltöltése után megmérjük az els® (a bal oldali) gömb feszültségét, az
 nagyobb lesz, mint a telep feszültsége, hiszen most már ez a gömb is er®térbe, a jobb oldali gömb er®terébe került!
@@ -60,9 +60,9 @@ olyan látványos az a kísérlet, hogy közöttük középen nem hat er® a bel
 A verseny eredménye
 Két versenyz®nek sikerült mindhárom feladatot hibátlanul megoldania, ezért két els® díjat adott ki a Versenybi-
 zottság.
-I. díj: Almási Gábor, az ELTE 
+I. díj: Almási Gábor, az ELTE
 zika BS szakos hallgatója, aki a pé si Le®vey Klára Gimnáziumban érettségizett
-Simon Péter és Kotek László tanítványaként; és Szolnoki Lénárd, a BME 
+Simon Péter és Kotek László tanítványaként; és Szolnoki Lénárd, a BME
 zika BS szakos hallgatója, aki a Debre eni
 Református Kollégium Dó zy Gimnáziumában érettségizett Tófalusi Péter tanítványaként.
 II. díj: Balogh Máté, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítvá-
@@ -72,7 +72,7 @@ tanítványa.
 Di séretet kaptak: A zél Gergely, a Pápai Református Kollégium Gimnáziumának 12. évf. tanulója, Somosi
 István tanítványa; Iván Dávid, a fonyódi Mátyás Király Gimnázium 12. évf. tanulója, Németh László tanítványa;
 Karsa Anita, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítványa; Szilágyi
-Zsombor, az ELTE 
+Zsombor, az ELTE
 zika BS szakos hallgatója, aki a budapesti Karinthy Frigyes Gimnáziumban érettségizett Szilágyi
 László tanítványaként; és Wang Daqian, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. évf. tanulója, Horváth
 Gábor tanítványa.
@@ -81,9 +81,9 @@ Gábor tanítványa.
 az 50, valamint a 25 évvel korábbi Eötvös-verseny feladatait, majd bemutatta az akkori díjazottak közül megjelent
 egykori versenyz®ket.
 Ková s Béla villamosmérnök, informatikus, aki 1958-ban érettségizett Sárospatakon, ma is gyakori látogatója egy-
-kori iskolájának. t is, mint az utána megszólaló, 25 évvel 
+kori iskolájának.  t is, mint az utána megszólaló, 25 évvel
 atalabb nyerteseket ez a verseny indította el életpályájukon.
-Árkossy Ottó orvos, Fodor Gyula és Frei Zsolt 
+Árkossy Ottó orvos, Fodor Gyula és Frei Zsolt
 zikusok lettek. Erd®s László, aki Árkossy Ottóval holtversenyben lett
 els®, matematikus lett. Jelenleg Mün henben dolgozik, onnan küldött üdvözletét Honyek Gyula olvasta fel.
 A 25 évvel ezel®tt díjazott versenyz®k mind a KöMaL sikeres megoldói voltak, az akkori fotóikból készített tabló
@@ -94,7 +94,7 @@ A díjakat és okleveleket Sólyom Jen®, az Eötvös Loránd Fizikai Társulat 
 a Társulat Eötvös-verseny érmét és egyéves el®
 zetést a Fizikai Szemlére. Ezen kívül az els® díjasok 20-20 ezer Ft,
 a második díjasok 15-15 ezer Ft, a harmadik díjas versenyz® 10 ezer Ft, a di séretes versenyz®k pedig 5-5 ezer Ft
-pénzjutalomban részesültek, és mind a tízen megkapták Staar Gyula Fizikusok az aranykorból . könyvét.
+pénzjutalomban részesültek, és mind a tízen megkapták Staar Gyula  Fizikusok az aranykorból  . könyvét.
 A nyertes diákok megjelent tanárai a Vin e és a Typotex kiadók által felajánlott könyvekb®l válogathattak.
 A díjkiosztás után a Versenybizottság elnöke értékelte az idei versenyt, majd állófogadással egybekötött beszélge-
 tésre invitálta a résztvev®ket, megköszönve a Matfund Alapítvány, az Indotek Zrt., a Ramasoft Zrt. és Gutai László

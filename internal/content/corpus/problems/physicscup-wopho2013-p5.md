@@ -25,6 +25,6 @@ A rectangular superconducting plate of mass $m$ has four identical circular hole
 
 When the plate levitates in such a way above the support, the frequency of its small vertical oscillations is $\nu_0$. Next, a load of mass $M$ is put on the plate, so that the load lays on the plate, and the plate levitates above the support. What is the new frequency $\nu$ of small vertical oscillations (when the load and plate together oscillate up and down)?
 
-![figure](../../sources/physicscup/figures/physicscup-wopho2013-p5-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-wopho2013-p5-1.png)
 
 *Physics Cup / WoPhO 2013 Problem 5 ("Problem 10") by Jaan Kalda. Statement transcribed faithfully from the born-digital LaTeX source; the source PDF also contains hints and an official solution (not ingested here).*

@@ -25,7 +25,7 @@ techniques: [differential-element, conservation-laws]
 
 There are three beams between two absolutely rigid plates. The weight of the plates and the beams can be neglected. The coefficient of thermal expansion of the beams is $\alpha = 1.0 \times 10^{-5}\ \mathrm{K^{-1}}$. The maximum strain (relative length change compared to the no load case) before permanent inelastic deformations of the material of the beam is $\beta = 0.40\%$. The beams can support a maximum amount of weight on the top plate, at which point permanent deformations start taking place in some of the beams.
 
-![Configuration of three beams between rigid plates](nbpho-2017-beams-fig1.jpg)
+![Configuration of three beams between rigid plates](../../figures/nbpho/figures/nbpho-2017-beams-fig1.jpg)
 
 **i)** *(2 points)* Initially all the beams are at the same temperature. Then the temperature of the beam in the middle is increased by $\Delta T = 100\ \mathrm{K}$. Compared to the case when the beams were at equal temperatures, what fraction of the original maximal weight can the beams now support on the top plate? Assume that the properties of the materials (specifically the maximum strain and the elastic modulus) don't change during the heating.
 
@@ -33,4 +33,4 @@ There are three beams between two absolutely rigid plates. The weight of the pla
 
 Hint (added during the competition): the elastic modulus or Young modulus $E$ is defined by the formula $F/A = E \Delta l / l$, where $F$ is the force, $A$ is the area and $\Delta l / l$ is the relative lengthening.
 
-![Elastic modulus vs temperature](nbpho-2017-beams-fig2.jpg)
+![Elastic modulus vs temperature](../../figures/nbpho/figures/nbpho-2017-beams-fig2.jpg)

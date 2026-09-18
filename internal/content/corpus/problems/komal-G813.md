@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-From the top of a tower block, we took a series of photos of the traffic on the street next to the house. Two selected shots were taken with a time difference of 4/15 seconds, and show cars travelling at a constant speed. Estimate the speed of the cars relative to the roadway if the length of a white line segment of the white, dashed road marking, which divides the lanes of the street, is about 2 metres. 
+From the top of a tower block, we took a series of photos of the traffic on the street next to the house. Two selected shots were taken with a time difference of 4/15 seconds, and show cars travelling at a constant speed. Estimate the speed of the cars relative to the roadway if the length of a white line segment of the white, dashed road marking, which divides the lanes of the street, is about 2 metres.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G813-fig1.gif)
+![figure](../../figures/komal/figures/komal-G813-fig1.gif)

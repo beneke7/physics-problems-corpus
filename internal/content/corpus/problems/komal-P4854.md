@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-The figure shows the patterns of ``infinite'' connection of resistors and capacitors. The resistance of each resistor is $R$ , and the capacitance of each capacitor is $C$ . Determine the equivalent resistance and the equivalent capacitance between the points $A$ and $B$ . 
+The figure shows the patterns of ``infinite'' connection of resistors and capacitors. The resistance of each resistor is $R$ , and the capacitance of each capacitor is $C$ . Determine the equivalent resistance and the equivalent capacitance between the points $A$ and $B$ .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4854-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4854-fig1.gif)

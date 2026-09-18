@@ -41,7 +41,9 @@ MARKS
 
 Note: 1 bonus mark (included in the 60) was awarded at the markers’ discretion for excep-
 tional insight in any question in Section B.
-Australian Science Olympiads           2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads           2009 Physics National Qualifying Examination Solutions
 
                                        Section A
                                  Multiple Choice — 1 mark each
@@ -88,7 +90,9 @@ tional insight in any question in Section B.
     Solution: (a) – the forces are an action-reaction pair.
 
                                              Page 2
-Australian Science Olympiads             2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads             2009 Physics National Qualifying Examination Solutions
 
 If y = mx + b then a plot of y versus x is a straight line with slope m. For the next two questions,
 consider the equation
@@ -147,7 +151,9 @@ consider the equation
 
 
                                                   Page 3
-Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
 
  Question 5
   A large chicken catches a lightweight paper plane while both are in midair. Which of the
@@ -187,7 +193,9 @@ consider the equation
 
 
                                             Page 4
-Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
 
  Question 7
   If you look through a piece of red-tinted glass, everything is seen in shades of red.
@@ -218,7 +226,9 @@ consider the equation
 
 
                                              Page 5
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
  Question 8
   A teacher collects science projects from a class and finds that one page has fallen out. All
@@ -257,7 +267,9 @@ consider the equation
 
 
                                            Page 6
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
  Question 9
   Delightra and her sister Gladell bought a new book together, and are arguing over who
@@ -299,7 +311,9 @@ consider the equation
 
 
                                             Page 7
-Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
 
 Question 10
   An equation is dimensionally correct if the quantities on both sides have the same
@@ -311,26 +325,26 @@ Question 10
   m, the pressure P , and the number density (number of particles per unit volume) n of
   particles in the gas. Pressure has the dimensions M L−1 T−2 . Which of the following
   equations is dimensionally correct?
-                nm 1/2
+                 nm  1/2
      (A) v =
                P
                P
      (B) v =
              nm2/3
-                 1/2
+                   1/2
                 P
      (C) v =
                nm
     (D) v = P nm
-                1/2
+                  1/2
               Pm
     (E) v =
                n
-                                              1/2
+                                                1/2
                                              P
     Solution: (c) – the dimensions of v =            are
                                             nm
-                                             1/2
+                                               1/2
                                      ML−1 T−2
                                                    = LT −1 ,
                                      (L−3)(M)
@@ -340,7 +354,9 @@ Question 10
 
 
                                           Page 8
-Australian Science Olympiads            2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads            2009 Physics National Qualifying Examination Solutions
 
                                         Section B
                                    Written Answer Questions
@@ -390,7 +406,9 @@ this — if you complete it in the time suggested consider that you’ve done ve
           he would float, and thus not completely submerge. Therefore his average density
 
                                               Page 9
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
          must be equal to that of water. (2 marks)
      (c) What is the boy’s average density when his lungs are full?
@@ -443,7 +461,9 @@ this — if you complete it in the time suggested consider that you’ve done ve
          then be drifting downwards at constant velocity.
 
                                            Page 10
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
        • Many responses to part (c) simply stated that the boy’s density would be less than
          that of water. While correct, a calculation was required for this section.
@@ -460,7 +480,9 @@ this — if you complete it in the time suggested consider that you’ve done ve
 
 
                                            Page 11
-Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
 
 Question 12                                                       Suggested time: 25 minutes
   Ben has built a toy car. He has worked hard at reducing the friction in the wheels, so
@@ -513,7 +535,9 @@ Question 12                                                       Suggested time
          Solution:
 
                                             Page 12
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
 
 
@@ -544,11 +568,11 @@ Question 12                                                       Suggested time
          we can neglect the second term. Hence, the acceleration of the car is approximately
          constant, so
                              vb2 = vt2 + 2a2 s2
-                                         2
+                                           2
                                       Fp
                                  =       t + 2g sin θ (s − st ) ,
                                       m
-                                   s        2
+                                   s          2
                                          Fp                 gFp 2
                              vb =           t + 2gs sin θ −      t sin θ .
                                          m                    m
@@ -582,12 +606,14 @@ Question 12                                                       Suggested time
 
 
                                            Page 13
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
          We can use our previous expression for vb and substitute x = d to find the car’s
          velocity when it reaches the block
                                  s                                  
-                                          2
+                                            2
                                        Fp                 gFp 2
                                                               t sin θ e m d
                                                                         −κ
@@ -635,7 +661,9 @@ Question 12                                                       Suggested time
 
 
                                            Page 14
-Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
 
 Question 13                                                        Suggested time: 15 minutes
   Elizabeth wants to find the gravitational field strength in her bedroom using a pendulum.
@@ -687,7 +715,9 @@ Question 13                                                        Suggested tim
          were many other suggestions, and they were marked on their merits. (6 marks)
 
                                           Page 15
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
      (b) Estimate the percentage uncertainty in the length for a 20 cm ribbon and for a 1 m
          ribbon using Elizabeth’s original method. Repeat the estimate for your revised
@@ -725,7 +755,9 @@ Question 13                                                        Suggested tim
 
 
                                            Page 16
-Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads        2009 Physics National Qualifying Examination Solutions
 
 Question 14                                                      Suggested time: 30 minutes
   Joseph wants to measure the latent heat of vaporization of substance X, which is the
@@ -776,7 +808,9 @@ Question 14                                                      Suggested time:
          additional information and is a waste of time.
 
                                           Page 17
-Australian Science Olympiads              2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads              2009 Physics National Qualifying Examination Solutions
 
                                                Mass remaining on hotplate as it boils
 
@@ -836,7 +870,9 @@ Question 14                                                      Suggested time:
 
 
                                                 Page 18
-Australian Science Olympiads                         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads                         2009 Physics National Qualifying Examination Solutions
 
                                Graph 1: Rate of change of temperature at different temperatures
 
@@ -904,7 +940,9 @@ Question 14                                                      Suggested time:
 
 
                                                              Page 19
-Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads          2009 Physics National Qualifying Examination Solutions
 
     Marker’s comments: Most students attempted at least one of parts (a) or (b) of this
     question, however many did not attempt more than one part. Many students could not
@@ -923,7 +961,9 @@ Question 14                                                      Suggested time:
 
 
                                             Page 20
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
 Question 15                                                        Suggested time: 20 minutes
   The intensity, power per unit area, of light falling on a surface in three dimensions can be
@@ -976,7 +1016,9 @@ Question 15                                                        Suggested tim
                                               F =          .
                                                      R
                                            Page 21
-Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
+
+
+Australian Science Olympiads         2009 Physics National Qualifying Examination Solutions
 
          Using the expression above for the magnitude of the force on the electron,
                                                      2e2

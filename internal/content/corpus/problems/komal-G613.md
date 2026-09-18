@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-A vehicle undergoes circular motion at a constant speed of 72 km/h. How much time elapses until it gets back to the same point if its acceleration is 1.6 m/s${}^2$? 
+A vehicle undergoes circular motion at a constant speed of 72 km/h. How much time elapses until it gets back to the same point if its acceleration is 1.6 m/s${}^2$?
  (3 pont)

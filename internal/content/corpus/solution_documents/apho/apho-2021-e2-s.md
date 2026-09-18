@@ -55,7 +55,8 @@ Part B. Exploration of sample structure size
                                                              𝑺
                                          𝐬𝐢𝐧 𝐭𝐚𝐧 𝟏
                                                              𝑳
-                                                                                                   A2
+
+                                                                                                   A2
 Experiment
 Solution
                                                                                                         English
@@ -104,7 +105,8 @@ Solution
             (x, y)        (-5.84,6.50)    (8.20,0.76)     (-4.28,-7.72)   (5.96,-6.60)    (4.48,7.72)
 
             S (cm)            8.74           8.24            8.83            8.89            8.93
-                                                            A2
+
+                                                            A2
 Experiment
 Solution
                                                             English
@@ -133,7 +135,8 @@ Solution
 
 
              𝑎 (𝛍𝐦)               𝟓. 𝟔𝟐𝟕 ± 𝟎. 𝟎𝟐𝟎
-                                                                                     A2
+
+                                                                                     A2
 Experiment
 Solution
                                                                                      English
@@ -179,7 +182,8 @@ Part C. Exploration of sample structure size
                  𝑆
    𝑡𝑎𝑛                 0.0383          0.0469          0.0554          0.0645
                  𝐿
-                                                                                   A2
+
+                                                                                   A2
 Experiment
 Solution
                                                                                    English
@@ -224,7 +228,8 @@ Solution
                𝑆
   𝑡𝑎𝑛                0.0566          0.0685          0.0813          0.0935
                𝐿
-                                                                                   A2
+
+                                                                                   A2
 Experiment
 Solution
                                                                                    English
@@ -255,7 +260,8 @@ Solution
                𝑆
   𝑡𝑎𝑛                0.0619          0.0752          0.0888           0.103
                𝐿
-                                                             A2
+
+                                                             A2
 Experiment
 Solution
                                                               English
@@ -288,7 +294,8 @@ Solution
 
                            𝓵 = 58.59 μm
                          𝑤 = 50.78 μm
-                                                                             A2
+
+                                                                             A2
 Experiment
 Solution
                                                                              English
@@ -341,7 +348,8 @@ C.3         𝜙 = 27°                                                         
       1.5
             3           3.5           4       4.5           5          5.5
                                           X
-                                                                              A2
+
+                                                                              A2
 Experiment
 Solution
                                                                               English
@@ -389,7 +397,8 @@ Solution
       2
            4    4.5         5      5.5        6       6.5        7      7.5
                                           X
-                                                                                    A2
+
+                                                                                    A2
 Experiment
 Solution
                                                                                     English
@@ -417,7 +426,8 @@ Part D. Exploration of sample structure size
                                       𝚫𝑺𝒙 (𝐜𝐦)                    𝚫𝑺𝒚 (𝐜𝐦)
                 long                      0.346                    0.410
                short                      0.348                    0.428
-                                                                                A2
+
+                                                                                A2
 Experiment
 Solution
                                                                                 English
@@ -477,7 +487,8 @@ Solution
                                                                     2
    -2.3                     -1.8                 -1.3                    -0.8
                                          X
-                                                                               A2
+
+                                                                               A2
 Experiment
 Solution
                                                                                     English
@@ -507,7 +518,8 @@ Solution
                                       𝚫𝑺𝒙 (𝐜𝐦)                    𝚫𝑺𝒚 (𝐜𝐦)
              long                         0.448                    0.555
              short                        0.452                    0.550
-                                                                                     A2
+
+                                                                                     A2
 Experiment
 Solution
                                                                                      English
@@ -562,7 +574,8 @@ Solution
                                                                               2.5
            -3.3                  -2.8                -2.3             -1.8
                                                  X
-                                                                               A2
+
+                                                                               A2
 Experiment
 Solution
                                                                                     English
@@ -592,7 +605,8 @@ Solution
                                       𝚫𝑺𝒙 (𝐜𝐦)                    𝚫𝑺𝒚 (𝐜𝐦)
              long                         0.542                    0.687
              short                        0.575                    0.713
-                                                                                          A2
+
+                                                                                          A2
 Experiment
 Solution
                                                                                           English
@@ -646,7 +660,8 @@ Solution
                                                                               1.8
            -4              -3.5            -3                -2.5            -2
                                                 X
-                                                   A2
+
+                                                   A2
 Experiment
 Solution
                                                    English
@@ -670,7 +685,8 @@ Solution
                    long Axis    253       199
         1444
                   short Axis    239       192
-                                               A2
+
+                                               A2
 Experiment
 Solution
                                                English

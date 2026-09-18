@@ -24,7 +24,9 @@ solution_language: en
 ---
 
 6
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
 
      (b) Now suppose the object is a thin, uniform bar. What is the minimum force required to make

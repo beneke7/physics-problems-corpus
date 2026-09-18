@@ -51,7 +51,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                     3
-    Kevin Zhou                                                                Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                Fizikaolimpiai feladatgyűjtemény
 
 
     Rajzoljuk fel a ciklust P V-diagramon, és határozzuk meg a hatásfokát.

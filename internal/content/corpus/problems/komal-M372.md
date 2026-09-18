@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201711"
 verification_status: pending
 ---
 
-Make a sandglass from a cylinder-shaped plastic (PET) water bottle. Make a small hole (of diameter approximately 8-10 mm) on the bottle cap through which the dry sand can flow out. Measure how the amount of the out-flowing sand in a unit of time depends on the height of the sand in the bottle. 
+Make a sandglass from a cylinder-shaped plastic (PET) water bottle. Make a small hole (of diameter approximately 8-10 mm) on the bottle cap through which the dry sand can flow out. Measure how the amount of the out-flowing sand in a unit of time depends on the height of the sand in the bottle.
  (6 pont)

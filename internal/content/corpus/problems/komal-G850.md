@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-What is the equivalent resistance of the circuit shown in the figure between the two terminals of the battery? 
+What is the equivalent resistance of the circuit shown in the figure between the two terminals of the battery?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G850-fig1.gif)
+![figure](../../figures/komal/figures/komal-G850-fig1.gif)

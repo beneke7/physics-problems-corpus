@@ -72,10 +72,10 @@ Kt =
 1
 2
 M
-
+
 Ft
 M
-2
+ 2
 =
 F2t2
 2M
@@ -84,14 +84,14 @@ The torque about the center of mass is FR, so the angular acceleration is α = 2
 Kr =
 1
 2
-
+
 1
 2
 MR2
-
+
 2Ft
 MR
-2
+ 2
 =
 F2t2
 M
@@ -135,7 +135,7 @@ where R is the radius of the cylinders. Thus for the board to not slip, a = 2Rα
 Taking torques about the contact point, with f being the friction force between the cylinders
 and board,
 τ =
-
+
 m
 2
 R2
@@ -145,7 +145,7 @@ R2
 m
 2
 R2
-
+
 α =
 m
 2
@@ -166,12 +166,12 @@ K =
 2
 mṡ2
 ×
-
+
 1 +
 1
 2
 + 4
-
+
 ≡
 1
 2
@@ -192,8 +192,8 @@ meff
 11
 g sinθ.
 The acceleration of the board is twice this, giving the same answer as before.
-[2] Problem 12.  W 1 0USAPhO 2006, problem A1.
-[2] Problem 13.  W 1 0USAPhO 2013, problem A2.
-[3] Problem 14.  W 1 0USAPhO 2014, problem A1.
+[2] Problem 12.   W 1 0USAPhO 2006, problem A1.
+[2] Problem 13.   W 1 0USAPhO 2013, problem A2.
+[3] Problem 14.   W 1 0USAPhO 2014, problem A1.
 Solution. See the official solutions as usual. If you’re curious, I also wrote up a solution that
 doesn’t use a rotating frame here. It uses some techniques covered in M8.

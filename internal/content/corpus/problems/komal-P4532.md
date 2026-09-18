@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: flagged
 ---
 
-The bulbs connected as shown in the figure are alike, their power-rating is P when the voltage across them is  U . What are the values of the voltage and the power across them, in case of open (ny) and closed (z) switches? Fill in the table. 
+The bulbs connected as shown in the figure are alike, their power-rating is P when the voltage across them is  U . What are the values of the voltage and the power across them, in case of open (ny) and closed (z) switches? Fill in the table.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4532-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4532-fig1.gif)

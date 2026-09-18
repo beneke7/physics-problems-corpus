@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5631. Közismert, hogy egy egyenletesen töltött, vékony, nagyon hosszú, egyenes száltól $R$ távolságra mekkora az elektromos térerősség. Hasonlítsuk össze ezt a térerősséget egy $R$ sugarú félkör középpontjában létrejövő térerősséggel, feltételezve, hogy a félkört egy ugyanolyan tulajdonságú, ugyanolyan vonalmenti töltéssűrűségű szálból készítettük! 
+P. 5631. Közismert, hogy egy egyenletesen töltött, vékony, nagyon hosszú, egyenes száltól $R$ távolságra mekkora az elektromos térerősség. Hasonlítsuk össze ezt a térerősséget egy $R$ sugarú félkör középpontjában létrejövő térerősséggel, feltételezve, hogy a félkört egy ugyanolyan tulajdonságú, ugyanolyan vonalmenti töltéssűrűségű szálból készítettük!
  Amerikai feladat nyomán

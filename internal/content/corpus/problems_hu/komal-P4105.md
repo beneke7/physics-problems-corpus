@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4105. Négyzetes keresztmetszetű edénybe egyforma tömegű vizet, illetve olajat önthetünk. Melyik esetben hat nagyobb nyomóerő a függőleges oldallapokra? 
+P. 4105. Négyzetes keresztmetszetű edénybe egyforma tömegű vizet, illetve olajat önthetünk. Melyik esetben hat nagyobb nyomóerő a függőleges oldallapokra?
  Varga István

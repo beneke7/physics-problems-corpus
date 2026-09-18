@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [exploit-symmetry, limiting-and-special-cases, choose-reference-frame]
 ---
 
-Dionysus placed $2$ identical cylinder-shaped barrels, having the same height $h$, on the horizontal ground, one on the top of the other (see the figure ). Both were nearly fully filled with wine. Heracles' thirteenth task was to drill a hole perpendicularly to the wall of each of the barrels at the same $xh$ height measured from the bottom of each barrel. 
+Dionysus placed $2$ identical cylinder-shaped barrels, having the same height $h$, on the horizontal ground, one on the top of the other (see the figure ). Both were nearly fully filled with wine. Heracles' thirteenth task was to drill a hole perpendicularly to the wall of each of the barrels at the same $xh$ height measured from the bottom of each barrel.
 
- How should Heracles choose the value of the dimensionless factor $x$, in order that the impact points of the wine rays fall as far apart as possible? 
+ How should Heracles choose the value of the dimensionless factor $x$, in order that the impact points of the wine rays fall as far apart as possible?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5519-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5519-fig1.gif)

@@ -64,7 +64,9 @@ The above equality is satisfied if,
 2.1) Since A , the area of the event horizon, is to be calculated in terms of m from a
 classical theory of relativistic gravity, e.g. the General Relativity, it is a combination of
 c , characteristic of special relativity, and G characteristic of gravity. Especially, it is
-independent of the Planck constant h which is characteristic of quantum mechanical
+
+
+independent of the Planck constant h which is characteristic of quantum mechanical
 phenomena.
 
 A = G α c β mγ
@@ -113,7 +115,9 @@ thus,     η=          .                                                        
                 Gh
 
 3.1)
-The first law of thermodynamics is dE = dQ + dW . By assumption, d W = 0 . Using the
+
+
+The first law of thermodynamics is dE = dQ + dW . By assumption, d W = 0 . Using the
                             dQ
 definition of entropy, dS =    , one obtains,
                               θ
@@ -169,7 +173,9 @@ m(t * ) = 0 (0.1)        ⇒ t * = 4 m3 (0.2)+(0.1) (for the coefficient)
 
 
 3.4) CV measures the change in E with respect to variation of θ .
-       dE          (0.2)
+
+
+       dE          (0.2)
 CV = dθ ,
                                                   2G k B 2
   E = mc ,
@@ -230,7 +236,9 @@ Or one may set
                              (      4
                                        )
                     = −σ θ * − θ B A = 0 to get θ * = θ B .
-4.5) Considering the solution to 4.3, one verifies that it will go away from the
+
+
+4.5) Considering the solution to 4.3, one verifies that it will go away from the
 equilibrium.                                                    (0.6)
                                                      dm
                                   m > m*     ⇒            >0

@@ -103,14 +103,14 @@ dt
 = |v1 − v2| =
 √
 2K
-r
+ r
 m2
 m1(m1 + m2)
 +
 r
 m1
 m2(m1 + m2)
-
+
 .
 In all three cases, dr/dt has the same profile up to an overall constant, and the total time is inversely
 proportional to this constant. That is, we have
@@ -119,14 +119,14 @@ t1 = C
 m1, t2 = C
 √
 m2, t = C
-r
+ r
 m2
 m1(m1 + m2)
 +
 r
 m1
 m2(m1 + m2)
-−1
+ −1
 for some C. Solving for t yields
 t =
 t1t2
@@ -135,7 +135,7 @@ t2
 1 + t2
 2
 .
-[3] Problem 12.  W 1 0USAPhO 2012, problem A4.
+[3] Problem 12.   W 1 0USAPhO 2012, problem A4.
 Remark: Discovering Gravity
 In popular science, we are told that Newton understood gravity in a flash of inspiration,
 after being hit on the head with an apple. You might know that it didn’t quite work that

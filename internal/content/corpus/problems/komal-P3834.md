@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-Electric toothbrushes are becoming more and more popular. Calculate the cost of operating one during a year if it dissipates a power of 2 W, and each day you spend 4 minutes cleaning your teeth. The price of 1 kWh electric energy is 34 forints. 
+Electric toothbrushes are becoming more and more popular. Calculate the cost of operating one during a year if it dissipates a power of 2 W, and each day you spend 4 minutes cleaning your teeth. The price of 1 kWh electric energy is 34 forints.
  (3 pont)

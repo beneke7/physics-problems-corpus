@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-Newton in his famous crucial experiment (experimentum crucis) separated a beam of white light into colours by means of a prism. Then he combined the spectrum back into white light. Is it possible to form a spectrum from a beam of white light and then combine it back into white light by means of the system of prisms used as shown in the figure? 
+Newton in his famous crucial experiment (experimentum crucis) separated a beam of white light into colours by means of a prism. Then he combined the spectrum back into white light. Is it possible to form a spectrum from a beam of white light and then combine it back into white light by means of the system of prisms used as shown in the figure?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5119-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5119-fig1.gif)

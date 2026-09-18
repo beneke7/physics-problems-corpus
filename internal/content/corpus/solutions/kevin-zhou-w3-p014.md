@@ -53,7 +53,7 @@ F =
 2
 ρgℓ (D + h(x))2
 − (D + h(x + dx))2
-
+
 ≈ −ρgDℓ
 ∂h
 ∂x
@@ -66,13 +66,13 @@ dt
 dv
 dt
 = ρℓDdx
-
+
 ∂v
 ∂t
 + v
 ∂v
 ∂x
-
+
 .
 In the second step, we used the idea of the “convective derivative”. That is, the chunk of
 water originally at x at time t will move to x′ = x + v(x,t)dt after a time dt, at which point

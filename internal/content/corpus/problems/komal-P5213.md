@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-There is a sample of air, having a relative humidity of 30%, in a container. By what factor can the pressure of the air be increased, when the gas is compressed at constant temperature, if the condensation of water should be avoided. 
+There is a sample of air, having a relative humidity of 30%, in a container. By what factor can the pressure of the air be increased, when the gas is compressed at constant temperature, if the condensation of water should be avoided.
  (4 pont)

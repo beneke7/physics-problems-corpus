@@ -47,7 +47,6 @@ operátorok összege:
                                      1                                          g
                             H=         (p − qA)2 + qϕ − µ · B,               µ = µσ.
                                     2m                                          2
-187 7. Szögimpulzus
 
 Ezt Pauli-Hamilton-operátornak nevezzük, a hozzá tartozó fejlődési egyenlet pedig a Pauli-egyenlet.
 A gyakorlatban ez a ψ két komponensére vonatkozó két külön Schrodinger-egyenletnek látszik, amelyeket

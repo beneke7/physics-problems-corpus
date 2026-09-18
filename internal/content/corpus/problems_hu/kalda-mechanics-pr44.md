@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű, üres henger súrlódásmentesen gördül egy $\alpha=45^{\circ}$ hajlásszögű lejtőn. Belső felületén szabadon csúszhat egy $m=M / 2$ tömegű kis test. Mekkora a $\beta$ szög a lejtőre merőleges irány és a henger középpontját a testtel összekötő szakasz között?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr44-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr44-fig1.jpg)

@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4441. Mekkora töltés halad át az ábrán látható AB vezető szakaszon, ha zárjuk a kapcsolót, és elég sokáig várunk? 
+P. 4441. Mekkora töltés halad át az ábrán látható AB vezető szakaszon, ha zárjuk a kapcsolót, és elég sokáig várunk?
 
  Tornyai Sándor fizikaverseny, Hódmezővásárhely
 
-![figure](../../raw_html/komal_figures/komal-P4441-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4441-fig1.gif)

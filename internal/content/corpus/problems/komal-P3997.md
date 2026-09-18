@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-The mass of the body which is hanging on the rope attached to the movable pulley is four times as much as the mass of the body which is fixed to the ground. At a given instant the fixed body is released. To what height does it ascend? (The mass of the pulleys and the ropes is negligible.) 
+The mass of the body which is hanging on the rope attached to the movable pulley is four times as much as the mass of the body which is fixed to the ground. At a given instant the fixed body is released. To what height does it ascend? (The mass of the pulleys and the ropes is negligible.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3997-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3997-fig1.gif)

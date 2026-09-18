@@ -28,7 +28,7 @@ verification_status: pending
 In the Carnot cycle, a gas is heated at constant temperature $T_{H}$ and cooled at constant temperature $T_{C}$. Furthermore, no other heat transfer occurs, and all other steps of the cycle are reversible. The laws of thermodynamics state that any such cycle must have efficiency $\eta=W / Q_{\text {in }}=1-\left(T_{C} / T_{H}\right)$. Below we will explore two other heat engines, which recover this efficiency in certain limits.
 
 a. Consider the following heat engine involving one mole of ideal monatomic gas. The gas begins at temperature $T_{0}$, pressure $P_{0}$, and volume $V_{0}$, and undergoes four reversible steps.
-![](usapho-2023-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2023-a3-fig01.png)
     1. The gas is expanded at constant pressure until its temperature rises to $(1+\beta) T_{0}$.
     2. The gas is expanded at constant temperature until its pressure falls to $P_{0} / \alpha$.
     3. The gas is contracted at constant pressure until its temperature falls back to $T_{0}$.
@@ -40,7 +40,7 @@ iii. Find the efficiency of this heat engine for general $\alpha$ and $\beta$.
 The second half of the problem is on the next page.
 
 b. Now consider a heat engine built around the freezing and melting of water, which occurs at a pressure-dependent temperature $T_{c}(P)$. Initially, a volume of $V$ of water is squeezed underneath a piston, so that it experiences a total pressure $P_{1}$, and the water is on the edge of freezing, with temperature $T_{c}\left(P_{1}\right)$. The engine then undergoes four reversible steps.
-![](usapho-2023-a3-fig02.png)
+![](../../figures/usapho/figures/usapho-2023-a3-fig02.png)
     1. A mass is slowly placed on the piston, raising the total pressure to $P_{2}$.
     2. The water is cooled to temperature $T_{c}\left(P_{2}\right)$ and frozen.
     3. The mass is slowly removed from the piston, lowering the pressure back to $P_{1}$.

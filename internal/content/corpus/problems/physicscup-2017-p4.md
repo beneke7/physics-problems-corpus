@@ -25,6 +25,6 @@ Ellips depicted in the figure below represents a real image of a circle, created
 
 *Remark:* you need to copy the ellips onto a sheet of paper and find there the position of the lens, eg. by using geometrical constructions. Alternatively, you can use Geogebra, https://www.geogebra.org/.
 
-![figure](../../sources/physicscup/figures/physicscup-2017-p4-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2017-p4-1.png)
 
 *Physics Cup 2017 Problem 4 by Jaan Kalda. Transcribed faithfully from the born-digital source.*

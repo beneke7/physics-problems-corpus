@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200505"
 verification_status: pending
 ---
 
-The propellers of aircrafts are usually positioned at the front to pull the craft. On the other hand the propellers of ships are always mounted on the aft, so they push ships forward. What can be the explanation of the different implementations? 
+The propellers of aircrafts are usually positioned at the front to pull the craft. On the other hand the propellers of ships are always mounted on the aft, so they push ships forward. What can be the explanation of the different implementations?
 
  (4 pont)

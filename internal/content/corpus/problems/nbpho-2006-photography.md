@@ -24,4 +24,4 @@ techniques: [model-reduction, scaling-and-dimensional-analysis]
 
 By taking measurements from the photo at the end of the page, determine the diameter of the camera lens used for this photo. You can assume that images created by this camera lens are identical to ones created by an ideal thin lens of matching focal length and diameter.
 
-![figure](../../sources/nbpho/figures/nbpho-2006-photography-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-photography-fig1.png)

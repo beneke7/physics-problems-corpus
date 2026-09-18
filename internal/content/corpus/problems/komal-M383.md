@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201901"
 verification_status: pending
 ---
 
-Place a sand-glass on a slope, and measure how long it takes for the sand to run down through the hole of the sand-glass as a function of the angle of the slope. 
+Place a sand-glass on a slope, and measure how long it takes for the sand to run down through the hole of the sand-glass as a function of the angle of the slope.
  (6 pont)

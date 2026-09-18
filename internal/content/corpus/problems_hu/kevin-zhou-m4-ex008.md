@@ -32,7 +32,9 @@ Example 8
        in two dimensions, giving six degrees of freedom. Since we must be able to construct the
 
                                                        12
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
        general solution by superposing normal modes, there should be six normal modes. They are:
 

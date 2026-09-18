@@ -36,25 +36,25 @@ probability distribution. On Olympiads, you should just fall back to something r
 and y ± ∆y.
 (a) By writing xy as exp(logx + logy), show that the uncertainty of xy is
 ∆(xy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .
 (b) If we set x = y, then we find
 ∆(x2
 ) = x2
 s
 2
-
+
 ∆x
 x
-2
+ 2
 =
 √
 2x∆x.
@@ -64,15 +64,15 @@ Solution. (a) We can write
 xy = exp(logx + logy)
 which implies
 ∆(xy) = exp(logx + logy)∆(logx + logy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .
 (b) The result ∆(x2) = 2x∆x is correct, since the formula for ∆(xy) assumes x and y are
 independent, which fails when we set y = x.
@@ -84,13 +84,13 @@ and by a very similar calculation to part (a), we conclude
 ∆(x/y) =
 x
 y
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .

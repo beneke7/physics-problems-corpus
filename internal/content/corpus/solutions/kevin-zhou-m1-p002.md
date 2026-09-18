@@ -55,21 +55,21 @@ dx
 1
 √
 αg
-
+
 tan−1
-
+
 v(t)
 r
 α
 g
-
+
 − tan−1
-
+
 v0
 r
 α
 g
-
+
 where I pulled out a factor of 1/
 √
 αg to get the right overall dimensions, then used dimensional
@@ -102,14 +102,14 @@ dx
 1
 √
 αg
-
+
 tanh−1
-
+
 v(t)
 r
 α
 g
-
+
 .
 If you don’t know this hyperbolic trig integral, you could also derive it by expanding 1/(1−x2)
 in partial fractions and integrating each term. You will get a bunch of logarithms, which is
@@ -153,20 +153,20 @@ y(t) ≈ −
 1
 α
 log
-
+
 e
 √
 αg t + e−
 √
 αg t
 2
-
+
 ≈ −
 1
 α
 log 1 + αgt2
 /2
-
+
 ≈ −
 gt2
 2

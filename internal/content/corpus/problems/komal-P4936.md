@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-During the decay of a stationary, free neutron what may the greatest value of the kinetic energy of the electron be? 
+During the decay of a stationary, free neutron what may the greatest value of the kinetic energy of the electron be?
  (5 pont)

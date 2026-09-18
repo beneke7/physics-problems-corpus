@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201101"
 verification_status: flagged
 ---
 
-Make a connection between two simple pendulums of the same lengths, with a wooden skewer, which is attached to the threads. Displace one of the pendulums in the plane determined by the two pendulums and measure how long it takes for this pendulum to stop and for the other to swing with the greatest amplitude. How does this time depends on the distance denoted by x shown in the figure? 
+Make a connection between two simple pendulums of the same lengths, with a wooden skewer, which is attached to the threads. Displace one of the pendulums in the plane determined by the two pendulums and measure how long it takes for this pendulum to stop and for the other to swing with the greatest amplitude. How does this time depends on the distance denoted by x shown in the figure?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M311-fig1.gif)
+![figure](../../figures/komal/figures/komal-M311-fig1.gif)

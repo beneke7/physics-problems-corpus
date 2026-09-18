@@ -36,7 +36,9 @@ Two stars of tömeg M orbit each other in a circle. The separation between them 
        This is a consequence of Earnshaw’s theorem, which is usually stated in the context of
 
                                                       21
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
        electrostatics. In that context, tegyük fel that in the presence of electric charges, a point P
        outside of the charges is an egyensúly point, i.e. one ahol the electric field vanishes. We
@@ -72,4 +74,4 @@ Two stars of tömeg M orbit each other in a circle. The separation between them 
 
                        01E   IPhO 2016, problem 1B. A useful set of Coriolis erő exercises.
 
-                    01^
+                    01^

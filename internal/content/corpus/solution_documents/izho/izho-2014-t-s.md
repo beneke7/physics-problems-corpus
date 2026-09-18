@@ -61,7 +61,9 @@ The first stage of the cycle happens at constant pressure
           6.     Formulas (2) and (4)                                                    0,25
           7.     Correct numerical value for the efficiency                              0,25
        Total                                                                              3.0
- X International Zhautykov Olympiad/Theoretical Competition/Solutions                       Page 2/10
+
+
+ X International Zhautykov Olympiad/Theoretical Competition/Solutions                       Page 2/10
 
 
                                           Problem 1В (5 points)
@@ -131,7 +133,9 @@ and, thus,
                                                    ε
           On substituting q (0) = 0 and q (∞) =C       , we finally obtain
                                                    2
-X International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 3/10
 
 
                 RCε 2
@@ -184,7 +188,9 @@ It is known that the beam, passing through the focal point of the lens, goes par
 axis of the lens after refraction. Therefore, all the objects, shown in the figure, give the images of
 the same size, i.e. the lens magnification is inversely proportional to the distance from the object to
 the focal point.
-X International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 4/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions                      Page 4/10
 
 
 
@@ -222,7 +228,9 @@ velocity changes by dv and the conservation of the momentum can be written as
 must coincide with the change in rocket velocity in the proper reference frame by virtue of the
 Galilean transformations. Therefore, solving equation (1) with the initial condition m = m0 at v = 0 ,
 we obtain the formula named after K. Tsiolkovsky
-X International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 5/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 5/10
 
 
                    m 
@@ -282,7 +290,9 @@ Hence, the maximum height of the rocket is
 7. Suppose that a particle moves with the velocity v ' in the reference frame which, in turn, moves
 with the velocity v in the laboratory reference frame. Then, the particle velocity w in the
 laboratory reference frame is given by the relativistic formula
-   X International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 6/10
+
+
+   X International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 6/10
 
 
                 v + v'
@@ -356,7 +366,9 @@ laboratory reference frame is given by the relativistic formula
       3     Formula (5)                                                                  0.25
             Formula (6)                                                                  0.25       0.75
             Formula (7)                                                                  0.25
-X International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 7/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions                        Page 7/10
 
 
    4     Formula (8)                                                                      0.25
@@ -417,7 +429,9 @@ cylinder. To do this, let us find the electric field strength in the wire. Accor
 current density is
          j = σ0E ,                                                                                     (7)
 therefore, the total current can be written as
-   X International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 8/10
+
+
+   X International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 8/10
 
 
                                                   2π R 3 β E
@@ -501,7 +515,9 @@ written as
               =
             dp (r ) =                      dr .                                                     (21)
                         lL        4π 2 R 6
-X International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 9/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 9/10
 
 
         Taking into consideration that the pressure at the wire pressure is zero, one gets
@@ -573,7 +589,9 @@ where ε is the relative change in radius.
          Formula (17)                                                               0.25
   6      Formula (18)                                                                0.5
          Formula (19)                                                               0.25        1.0
-X International Zhautykov Olympiad/Theoretical Competition/Solutions    Page 10/10
+
+
+X International Zhautykov Olympiad/Theoretical Competition/Solutions    Page 10/10
 
 
          Correct numerical numerical value in (19)                     0.25

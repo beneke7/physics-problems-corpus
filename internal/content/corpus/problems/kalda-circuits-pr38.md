@@ -19,4 +19,4 @@ verification_status: pending
 
 In the figure, all three voltmeters are identical, and all three resistors are identical. The first voltmeter shows $V_{1}=10 \mathrm{~V}$, the third $-V_{3}=8 \mathrm{~V}$. What does show the second?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr38-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr38-fig1.jpg)

@@ -20,4 +20,4 @@ verification_status: pending
 
 [Est-PhO-2004] Egy ernyőt, két tükröt és egy monokromatikus fényforrást az ábrán látható módon helyezünk el. Egy árnyékoló miatt csak a forrásról visszavert fény juthat az ernyőre. Az ernyőn csíkozott interferenciakép alakul ki; a csíkok távolsága $d$. Fejezzük ki a fény $\lambda$ hullámhosszát $d$ és az $a$ távolság segítségével (lásd az ábrát). Tegyük fel, hogy $a\gg d$.
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr17-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr17-fig1.jpg)

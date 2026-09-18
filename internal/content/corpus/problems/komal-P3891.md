@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200604"
 verification_status: flagged
 ---
 
-The resistance of each resistor of the electric circuit shown in the figure is  R . Find the effective resistances between any two junctions of the circuit. 
+The resistance of each resistor of the electric circuit shown in the figure is  R . Find the effective resistances between any two junctions of the circuit.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3891-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3891-fig1.gif)

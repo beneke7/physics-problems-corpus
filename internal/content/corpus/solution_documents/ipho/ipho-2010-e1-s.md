@@ -48,7 +48,9 @@ Task 1                                                                          
                                212                                     15.5
                                274                                     13.5
                                417                                     10.5
-           41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   2/7
+
+
+           41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   2/7
 
 
 
@@ -85,7 +87,9 @@ Task 1                                                                          
                                336                                     14.3
                                386                                     13.3
                                449                                     12.3
-          41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   3/7
+
+
+          41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   3/7
 
 
 Task 1                                                                                                     Points
@@ -96,7 +100,9 @@ Task 1                                                                          
 
 
           a = 50000 g mm2
-          41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   4/7
+
+
+          41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   4/7
 
 
 Task 1                                                                                                     Points
@@ -107,7 +113,9 @@ Task 1                                                                          
 
 
           a = 70000 g mm2
-           41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   5/7
+
+
+           41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   5/7
 
 
 Task 1                                                                                                      Points
@@ -153,7 +161,9 @@ Task 2                                                                          
                                127                                     15.5
                                145                                     14.5
                                168                                     13.5
-         41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   6/7
+
+
+         41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   6/7
 
 
 Task 2                                                                                                    Points
@@ -163,7 +173,9 @@ Task 2                                                                          
 
 
          a = 27000 g mm2
-         41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   7/7
+
+
+         41st International Physics Olympiad, Croatia – Experimental Competition, July 21st, 2010   7/7
 
 
 Task 2                                                                                                    Points

@@ -50,7 +50,9 @@ we find
            1 Writing down balance equation for the kinetic and potential                0.5
               energies and determination of the angular velocity of rotation of
               the center of mass
-VI International Zhautykov Olympiad                        Theoretical Competition/Solutions         Page 2/5
+
+
+VI International Zhautykov Olympiad                        Theoretical Competition/Solutions         Page 2/5
 
 
            2        Determination of the normal acceleration                              0.5
@@ -111,7 +113,9 @@ account the mass of its walls.
 
 
                               Fig.1                                          Fig.2
- VI International Zhautykov Olympiad                     Theoretical Competition/Solutions         Page 3/5
+
+
+ VI International Zhautykov Olympiad                     Theoretical Competition/Solutions         Page 3/5
 
 
 
@@ -162,7 +166,9 @@ h H 1 −
  a) two points (complete answer)                                                 0.5
  b) one point (incomplete answer)                                                0.25
  5. Study of stability for point A                                               0.25
-VI International Zhautykov Olympiad                     Theoretical Competition/Solutions      Page 4/5
+
+
+VI International Zhautykov Olympiad                     Theoretical Competition/Solutions      Page 4/5
 
 
 6. Study of stability for point B                                                   0.5
@@ -214,7 +220,9 @@ conditions of the problem).
 3      Calculation of height of the plate above the floor (with a                       0,5
        numerical value)
 4      Calculation of the dimensions of the source (with numerical                     2х0,5
-VI International Zhautykov Olympiad                       Theoretical Competition/Solutions       Page 5/5
+
+
+VI International Zhautykov Olympiad                       Theoretical Competition/Solutions       Page 5/5
 
 
        values)
@@ -273,7 +281,9 @@ The charge-to-mass ratio of electron is simply obtained as
                    e ω0 r 
                       =           .                                                                    (10)
                   me       RQ
-VI International Zhautykov Olympiad                                  Theoretical Competition/Solutions   Page 6/5
+
+
+VI International Zhautykov Olympiad                                  Theoretical Competition/Solutions   Page 6/5
 
 
 5. [1 point] In this case equation (7) is rewritten as follows
@@ -331,7 +341,9 @@ current increases, is given by the summation (or integrating) of (17) as
                                                     2 
                                    max
                        4                                       eJR    
-VI International Zhautykov Olympiad                                  Theoretical Competition/Solutions    Page 7/5
+
+
+VI International Zhautykov Olympiad                                  Theoretical Competition/Solutions    Page 7/5
 
 
 It is obvious that the same amount of the electromagnetic energy goes outward while the electric

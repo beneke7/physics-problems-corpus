@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4281. Hat különböző ellenállásból az ABCD tetraédert forrasztottuk össze. Ha két csúcs (pl. A ,  B ) közé egy galvánelemet is beiktatunk, a másik két csúcs (tehát C ,  D ) közé pedig egy érzékeny árammérőt kapcsolunk, meglepődve tapasztaljuk, hogy az árammérő nem jelez áramot, akármelyik két csúcsát is választottuk ki először a tetraédernek. 
+P. 4281. Hat különböző ellenállásból az ABCD tetraédert forrasztottuk össze. Ha két csúcs (pl. A ,  B ) közé egy galvánelemet is beiktatunk, a másik két csúcs (tehát C ,  D ) közé pedig egy érzékeny árammérőt kapcsolunk, meglepődve tapasztaljuk, hogy az árammérő nem jelez áramot, akármelyik két csúcsát is választottuk ki először a tetraédernek.
 
  Milyen összefüggés van ekkor a hat ellenállás között?
 
-![figure](../../raw_html/komal_figures/komal-P4281-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4281-fig1.gif)

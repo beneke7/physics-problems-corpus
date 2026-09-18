@@ -36,7 +36,7 @@ solution_language: en
       (c) A candle is placed behind a converging lens. An image is formed on a screen on the other side
           of the lens. Now suppose that the top half of the lens is covered with a black cloth. Describe
 
-                    01^
+                    01^
           how the image changes.
 
-                       01^
+                       01^

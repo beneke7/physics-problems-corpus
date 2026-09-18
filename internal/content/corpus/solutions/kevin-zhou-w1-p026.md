@@ -45,11 +45,11 @@ v± =
 c
 n
 ∓ ΩR
-
+
 1 −
 1
 n2
-
+
 .
 We derived this same result back in R1. The beams now need a time
 ∆t± =

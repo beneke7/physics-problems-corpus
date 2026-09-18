@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, conservation-laws]
 ---
 
-In a riding hall, the rider goes round in a circle of 20 m radius at a constant speed of 5 m/s. The groom stands 10 m from the centre of the circle. When does the distance between the rider and the groom change at the smallest and at the fastest rate? In these two cases what are the rates at which the distance between them changes? 
+In a riding hall, the rider goes round in a circle of 20 m radius at a constant speed of 5 m/s. The groom stands 10 m from the centre of the circle. When does the distance between the rider and the groom change at the smallest and at the fastest rate? In these two cases what are the rates at which the distance between them changes?
  (5 pont)

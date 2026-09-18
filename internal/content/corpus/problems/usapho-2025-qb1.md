@@ -29,4 +29,4 @@ a. Initially, the ant starts on the edge of the disk, and both the ant and the d
 b. Suppose instead that the ant walks counterclockwise along the edge of the disk at constant speed $v$ in the frame of the disk. What is the ant's speed in the frame of the table?
 c. Now there are two ants on the disk! The second ant (also of mass $m$ ) starts at distance $R / 2$ from the center of the disk, with an angle offset by $\theta$ from the first ant. The second ant walks counterclockwise around this circle with radius $R / 2$ at speed $v / 2$ (relative to the disk). Find all $\theta$ such that the second ant is stationary in the frame of the table.
 
-![](usapho-2025-qb1-fig01.png)
+![](../../figures/usapho/figures/usapho-2025-qb1-fig01.png)

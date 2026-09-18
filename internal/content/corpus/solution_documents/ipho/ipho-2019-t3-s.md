@@ -53,7 +53,9 @@ Part B: Sound wave amplification induced by external thermal contact
 B.1. We get
                                                                             𝜏
                            𝑇env (𝑡) = 𝑇plate (𝑥0 + 𝑢(𝑥0 , 𝑡)) = 𝑇0 − ℓ ⋅ 𝑢(𝑥0 , 𝑡),
-    Theory IPhO 2019                                                                                  Q1-1
+
+
+    Theory IPhO 2019                                                                                  Q1-1
                                                                                                  S3-2
 so that:
                                                      𝑎𝜏                    𝑎𝜏
@@ -101,7 +103,9 @@ and thus, we can already express 𝑉𝑏 as
 For 𝑉𝑎 , we plug in the results of Tasks B.1 and B.2,
                                                                𝑎
                                                𝑇st − 𝑇1 = ℓ√2 (𝜏 − 𝜏cr ),
-    Theory IPhO 2019                                                                                                            Q1-1
+
+
+    Theory IPhO 2019                                                                                                            Q1-1
                                                                                                                          S3-3
 giving:
 

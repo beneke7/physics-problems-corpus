@@ -34,13 +34,13 @@ mg(sinθ − µcosθ)
 b
 (7.1)
 S(t) = VT
-
+
 t −
 m
 b
-
+
 1 − e−tb/m
-
+
 (7.2)
 (b) [4] For a fixed θ a student records S for all values of t as shown in the table below. Draw
 a suitable graph and obtain the terminal velocity VT of the magnet from this graph. For

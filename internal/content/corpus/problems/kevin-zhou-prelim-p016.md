@@ -29,7 +29,9 @@ provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overla
 
 
                                                         4
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
         (c) On which orbit is the largest speed acquired?

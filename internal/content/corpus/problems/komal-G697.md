@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [exploit-symmetry]
 ---
 
-We look into a kaleidoscope; part of the observed view is shown in the figure. Where are the mirrors of the kaleidoscope? 
+We look into a kaleidoscope; part of the observed view is shown in the figure. Where are the mirrors of the kaleidoscope?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G697-fig1.gif)
+![figure](../../figures/komal/figures/komal-G697-fig1.gif)

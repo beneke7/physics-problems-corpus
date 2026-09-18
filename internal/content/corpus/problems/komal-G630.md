@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element, smart-coordinates]
 ---
 
-Why does the surface of the water in a rotating container have concave shape? 
+Why does the surface of the water in a rotating container have concave shape?
  (3 pont)

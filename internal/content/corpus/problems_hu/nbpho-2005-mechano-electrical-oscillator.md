@@ -24,7 +24,7 @@ A mechanikai és elektromos folyamatok néha erősen csatoltak. Fontos példák 
 
 Két, egyenként $S$ területű és $m$ tömegű fémlemezünk van. Az egyik lemez a másik fölött helyezkedik el. A lemezeket rugók kötik össze; a rugók együttes rugóállandója $k$, és szigetelőanyagból készülnek. Az alsó lemez szilárd alapra van erősítve. A lemezek közötti egyensúlyi távolság $X_{0}$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2005-mechano-electrical-oscillator-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2005-mechano-electrical-oscillator-fig1.jpg)
 
 1) Tegyük fel, hogy a felső lemez egyensúlyi helyzetéből való kis függőleges elmozdulása $x$. Vezesd le $x$ gyorsulását, $\ddot{x}$-et, a rendszer paramétereinek segítségével. Mekkora a felső lemez kis függőleges oszcillációinak $\omega_{0}$ szögfrekvenciája (1 pont)?
 

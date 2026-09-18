@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, extremization, model-reduction]
 ---
 
-Two boxes are placed onto each other as shown in the figure, and then they are released from the top of a slope of angle of elevation of $\alpha$. The coefficient of static friction between the two boxes (of uniform density) is large enough so the two boxes do not slip on each other, but the two boxes slide together on the slope of coefficient of kinetic friction of $\mu$. 
+Two boxes are placed onto each other as shown in the figure, and then they are released from the top of a slope of angle of elevation of $\alpha$. The coefficient of static friction between the two boxes (of uniform density) is large enough so the two boxes do not slip on each other, but the two boxes slide together on the slope of coefficient of kinetic friction of $\mu$.
 
- What is the condition for the box on the top not to be toppled over? 
+ What is the condition for the box on the top not to be toppled over?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4885-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4885-fig1.gif)

@@ -20,6 +20,6 @@ verification_status: pending
 
 Az asztal szélétől $l$ távolságban egy test fekszik, amely fonallal egy másik, vele teljesen azonos testhez kapcsolódik. A fonal hossza $2 l$, és az asztal szélén ülő csigán van átvezetve. A másik testet az asztal fölött tartjuk úgy, hogy a kötél feszes legyen. Ezután elengedjük a második testet. Mi történik előbb: az első test eléri a csigát, vagy a második test az asztalnak ütközik?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr70-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr70-fig1.jpg)
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr70-fig2.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr70-fig2.jpg)

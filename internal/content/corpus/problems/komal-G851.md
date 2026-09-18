@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-The refractive index of zirconia (zirconium-dioxide) is $2.1$. A prism of angles $30^\circ-60^\circ-90^\circ$ is made from this material on which two thin rays of light are incident as shown in the figure . What is the angle between the two rays of light emerging from the prism? 
+The refractive index of zirconia (zirconium-dioxide) is $2.1$. A prism of angles $30^\circ-60^\circ-90^\circ$ is made from this material on which two thin rays of light are incident as shown in the figure . What is the angle between the two rays of light emerging from the prism?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G851-fig1.gif)
+![figure](../../figures/komal/figures/komal-G851-fig1.gif)

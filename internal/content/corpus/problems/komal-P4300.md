@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates, scaling-and-dimensional-analysis]
 ---
 
-After leaving the runway a supersonic fighter begins to ascend along a straight line of angle of elevation of 30$^\circ$. Due to the the abrupt sound wave the grass in the fields around the runway spread out in a parabolic shape. What is the speed of the fighter? 
+After leaving the runway a supersonic fighter begins to ascend along a straight line of angle of elevation of 30$^\circ$. Due to the the abrupt sound wave the grass in the fields around the runway spread out in a parabolic shape. What is the speed of the fighter?
  (5 pont)

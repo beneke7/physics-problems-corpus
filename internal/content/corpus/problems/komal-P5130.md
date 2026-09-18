@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, conservation-laws, limiting-and-special-cases]
 ---
 
-The detected wavelength of the radiation coming from a star in a distant galaxy, and belonging to the electron transition of $\rm 4d\to\rm 2p$ of the hydrogen atom is 513 nm. How far is the galaxy from us in light years? 
+The detected wavelength of the radiation coming from a star in a distant galaxy, and belonging to the electron transition of $\rm 4d\to\rm 2p$ of the hydrogen atom is 513 nm. How far is the galaxy from us in light years?
  (5 pont)

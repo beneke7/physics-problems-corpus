@@ -24,14 +24,14 @@ techniques: [scaling-and-dimensional-analysis, graphical-reduction]
 ---
 
 2. The first explosion of an atomic bomb was the Trinity test in New Mexico in 1945. This explosion released a very large amount of energy $E$ which created an expanding fireball (known as the Trinity fireball). A snapshot of this fireball taken 0.025 s after the explosion is shown in the photograph below.
-![](inpho-2022-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2022-a2-fig01.png)
 
 A scientist, Prof. Geoffrey Taylor, could make an estimate of the energy released by the bomb from an analysis of such photographs. Here we try to follow in his footsteps, with some suitable simplifications.
 
 To begin, we assume that the fireball is spherical in nature. Its radius $(R)$ increases with time $(t)$ depending on the explosion energy $E$ and the density $\rho$ of the surrounding air (which is taken as constant and uniform).
 
 We are also given a graph of the data obtained by Prof. Taylor, as shown below. However, the axes labels of the graph are missing.
-![](inpho-2022-a2-fig02.png)
+![](../../figures/inpho/figures/inpho-2022-a2-fig02.png)
 
 Given data:
 1 kiloton (kt) of TNT $=4.2 \times 10^{12} \mathrm{~J}$

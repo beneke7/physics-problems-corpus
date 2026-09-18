@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-Estimate the pressure difference in the tyre of a car between an ,,inner'' point next to the rim of the wheel, and an ,,outer'' point next to the tread area. The excess pressure of the tyre when the car is at rest is 2 bars, and the maximum allowed speed on the motorway is 130 km/h. 
+Estimate the pressure difference in the tyre of a car between an ,,inner'' point next to the rim of the wheel, and an ,,outer'' point next to the tread area. The excess pressure of the tyre when the car is at rest is 2 bars, and the maximum allowed speed on the motorway is 130 km/h.
  (4 pont)

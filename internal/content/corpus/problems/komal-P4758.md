@@ -22,5 +22,5 @@ verification_status: pending
 ---
 
 A piece of wire is to be used to make an immersion heater rated at 230 V, and 300 W. What should the length of the wire be, if the cross section of the wire is $0.1~{\rm
-mm}^2$, and its resistivity is $1.6~\Omega\;{\rm mm}^2/{\rm m}$? 
+mm}^2$, and its resistivity is $1.6~\Omega\;{\rm mm}^2/{\rm m}$?
  (3 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-Students are writing a test in a room of base area $50~{\rm m}^2$ and of height 3 m. The door of the room is opened, the temperature is $24~^\circ$C, and the pressure is $10^5$ Pa. Estimate the following quantities: 
- $a)$ What is the mass of the air in the room? 
- $b)$ What is the internal energy of the air in the room? 
- $c)$ By what amount would the internal energy of the air in the room change, if the temperature increases by $2~{}^\circ$C? 
+Students are writing a test in a room of base area $50~{\rm m}^2$ and of height 3 m. The door of the room is opened, the temperature is $24~^\circ$C, and the pressure is $10^5$ Pa. Estimate the following quantities:
+ $a)$ What is the mass of the air in the room?
+ $b)$ What is the internal energy of the air in the room?
+ $c)$ By what amount would the internal energy of the air in the room change, if the temperature increases by $2~{}^\circ$C?
  (4 pont)

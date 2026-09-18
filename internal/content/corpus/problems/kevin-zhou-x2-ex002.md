@@ -50,7 +50,9 @@ solution_language: en
         heavy nuclei be σ. Then for small r, the probability that a produced neutron will collide
 
                                                          5
-    Kevin Zhou                                                           Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                           Physics Olympiad Handouts
 
        with another nucleus before exiting the sample is
 

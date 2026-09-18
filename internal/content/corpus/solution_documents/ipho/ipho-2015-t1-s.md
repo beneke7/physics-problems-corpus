@@ -23,17 +23,17 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
  Earth-Sun distance, d = 1.50 × 1011 m.
 
  Note:
-        Z                 
+        Z
                    x     1
    (i)       ax
          xe dx =      −       eax + constant
                    a a2
-       Z           2                
+       Z            2
           2 ax      x      2x     2
   (ii)   x e dx =       − 2 + 3 eax + constant
                      a     a     a
                            3x2 6x
-       Z           3                     
+       Z            3
           3 ax      x                   6
  (iii)   x e dx =       − 2 + 3 − 4 eax + constant
                      a      a      a    a
@@ -47,7 +47,7 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
 
          Solution:
          Stefan’s law: L = (4πR2 )(σTs4 )
-                                                          1/4
+                                                            1/4
                                                     L
                                        Ts =                       = 5.76 × 103 K
                                                   4πR2 σ
@@ -68,7 +68,9 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
      Amol Dighe (TIFR), Anwesh Mazumdar (HBCSE-TIFR) and Vijay A. Singh (ex-National Coordinator, Science
  Olympiads) were the principal authors of this problem. The contributions of the Academic Committee, Academic De-
  velopment Group and the International Board are gratefully acknowledged.
-                           Theoretical Task 1 (T-1) : Solutions                                      2 of 7
+
+
+                           Theoretical Task 1 (T-1) : Solutions                                      2 of 7
 
 
         Solution:                Z ∞                 Z ∞
@@ -117,7 +119,7 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
                                      = hνg A 2 2                    ν 2 exp(−hν/kB Ts )dν
                                             d c                νg
                                                          2
-                                                                               3 Z ∞
+                                                                                 3 Z ∞
                                                  R 2π                   kB Ts
                                      = kB Ts xg A 2 2                                    x2 e−x dx
                                                  d c                     h         xg
@@ -128,7 +130,9 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
 
 
 (A5) Express the efficiency, η, of this solar cell in terms of xg .                                           [0.2]
-                          Theoretical Task 1 (T-1) : Solutions                                   3 of 7
+
+
+                          Theoretical Task 1 (T-1) : Solutions                                   3 of 7
 
 
        Solution:
@@ -179,7 +183,9 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
                               p(2.5) = 2.375       ⇒ 2 < x0 < 2.5
                              p(2.25) = −0.171 ⇒ 2.25 < x0 < 2.5
        The approximate value of xg where η is maximum is x0 = 2.27.
-                           Theoretical Task 1 (T-1) : Solutions                                     4 of 7
+
+
+                           Theoretical Task 1 (T-1) : Solutions                                     4 of 7
 
 
          Alternative methods leading to the same result are acceptable.
@@ -217,8 +223,8 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
                                     4πR               3
                             Z R
                                                                         16π 2 Gρ2 R5    3 GM 2
-                                                  
-                                          4 3                    dr
+
+                                          4 3                     dr
                      Ω=−          G         πr ρ       4πr2 ρ        =−              =−
                              0            3                       r         3      5    5 R
 
@@ -237,7 +243,9 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
 
   The τKH calculated above does not match the age of the solar system estimated from studies of mete-
   orites. This shows that the energy source of the Sun cannot be purely gravitational.
-                          Theoretical Task 1 (T-1) : Solutions                                     5 of 7
+
+
+                          Theoretical Task 1 (T-1) : Solutions                                     5 of 7
 
  B. Neutrinos from the Sun:
  In 1938, Hans Bethe proposed that nuclear fusion of hydrogen into helium in the core of the Sun is
@@ -274,9 +282,9 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
         Solution:
 
 
-                                             N1    =   N0
-                                             Ne    =   N0 (1 − f )
-                                             Nx    =   N0 f /6
+                                             N1    =    N0
+                                             Ne    =    N0 (1 − f )
+                                             Nx    =    N0 f /6
                                              N2    =   Ne + Nx
 
 
@@ -285,11 +293,13 @@ Theoretical Task 1 (T-1) : Solutions                                          1 
                                                         f
                                            (1 − f )N1 + N1 = N2
                                                         6
-                                                            
+
                                                     6     N2
                                              ⇒f =      1−
                                                     5     N1
-                          Theoretical Task 1 (T-1) : Solutions                                     6 of 7
+
+
+                          Theoretical Task 1 (T-1) : Solutions                                     6 of 7
 
 In order to detect neutrinos, large detectors filled with water are constructed. Although the interactions
 of neutrinos with matter are very rare, occasionally they knock out electrons from water molecules in
@@ -322,7 +332,7 @@ cone.
 
        Before interacting, the energy of the electron was equal to me c2 .
        Thus, the energy imparted by the neutrino is
-                                                                             
+
                                                                        n
                                                       2
                          Eimparted = Estart − me c = α∆t +           √     − 1 me c2
@@ -345,7 +355,9 @@ energy of emitted neutrinos fluctuates with a root mean square value ∆Erms .
 (B4) If ∆Erms = 5.54 × 10−17 J, calculate the rms speed of the Be nuclei, VBe and hence estimate Tc .
      (Hint: ∆Erms depends on the rms value of the component of velocity along the line of sight.)
                                                                                                              [2.0]
-                     Theoretical Task 1 (T-1) : Solutions                                  7 of 7
+
+
+                     Theoretical Task 1 (T-1) : Solutions                                  7 of 7
 
 
 Solution:

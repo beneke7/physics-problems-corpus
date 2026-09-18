@@ -42,7 +42,9 @@ Example 10
   it reached atmospheric pressure again. If you look back carefully at the above examples,
 
                                                 10
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
       you’ll see this is always the case: air can only be at a different pressure if it’s confined
       away from the atmosphere at large (e.g. in a train tunnel or a whirly tube), or if it’s

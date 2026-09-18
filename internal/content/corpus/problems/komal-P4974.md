@@ -23,8 +23,8 @@ techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
 A thermally insulated cylinder is attached to a trolley. In the cylinder an easily moveable, and thermally insulated piston of mass $M=20$ kg separates two chambers of volume $V_0=50$ L, both containing air at a temperature of $T_0=300$ K, and at a pressure of $p_0=10^5$ Pa. The trolley moves towards a wall with speed $v =
-10$ m/s, with which it collides totally inelastically. At most what may the temperature of the air be in that chamber which is closer to the wall? 
+10$ m/s, with which it collides totally inelastically. At most what may the temperature of the air be in that chamber which is closer to the wall?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4974-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4974-fig1.gif)

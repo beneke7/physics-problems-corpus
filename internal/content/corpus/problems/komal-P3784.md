@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-In each of two big tanks there is 100 l of water of a temperature of 10 $^\circ$C in one and 30 $^\circ$C in the other. From the warmer tank we pour 1 l of water into the colder one. After blending we pour 1 l of water back. How many times are we to repeat this process to reach at least 5 $^\circ$C temperature change in both tanks? (Neglect losses.) 
+In each of two big tanks there is 100 l of water of a temperature of 10 $^\circ$C in one and 30 $^\circ$C in the other. From the warmer tank we pour 1 l of water into the colder one. After blending we pour 1 l of water back. How many times are we to repeat this process to reach at least 5 $^\circ$C temperature change in both tanks? (Neglect losses.)
 
  (5 pont)

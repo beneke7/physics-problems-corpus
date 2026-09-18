@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-A lasso made of a piece of metal wire is thrown around a stake fixed in the ground, and then the end of the lasso is pulled with a constant speed. Suppose that the loop around the stake remains circular. Calculate the induced current in the loop. 
+A lasso made of a piece of metal wire is thrown around a stake fixed in the ground, and then the end of the lasso is pulled with a constant speed. Suppose that the loop around the stake remains circular. Calculate the induced current in the loop.
  (5 pont)

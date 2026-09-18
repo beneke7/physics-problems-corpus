@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-In a vertical cylinder, below a heavy piston, there is a sample of air of quantity of $n$ moles at a temperature of $T_0$. The container and the piston are well insulated and there is vacuum outside. The piston is slowly raised, and when a work of $W$ was done, the piston is released. The piston begins to swing, but after a while it stops (because of the internal friction of the air). 
- What will the temperature of the air at the new equilibrium position be? How does this result change if the piston is not raised, but pushed down, while $W$ work is done, and then it is suddenly released? 
+In a vertical cylinder, below a heavy piston, there is a sample of air of quantity of $n$ moles at a temperature of $T_0$. The container and the piston are well insulated and there is vacuum outside. The piston is slowly raised, and when a work of $W$ was done, the piston is released. The piston begins to swing, but after a while it stops (because of the internal friction of the air).
+ What will the temperature of the air at the new equilibrium position be? How does this result change if the piston is not raised, but pushed down, while $W$ work is done, and then it is suddenly released?
  (5 pont)

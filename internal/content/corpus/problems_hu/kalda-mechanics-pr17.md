@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy test $\alpha$ hajlásszögű lejtőn van, a köztük lévő súrlódási együttható $\mu>\tan \alpha$. A lejtőt gyorsan előre-hátra mozgatjuk úgy, hogy sebességvektora $\vec{u}$ párhuzamos a lejtővel és a vízszintessel is, nagysága állandó $v$; $\vec{u}$ iránya minden $\tau$ időintervallum után hirtelen megfordul. Mekkora lesz a test mozgásának átlagos $w$ sebessége? Tegyük fel, hogy $g \tau \ll v$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr17-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr17-fig1.jpg)

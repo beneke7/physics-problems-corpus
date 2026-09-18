@@ -25,7 +25,7 @@ Példa. Időfüggetlen Hamilton-operátor esetén a t és t′ argumentumokat eg
 időkülönbséget jelöli. Például háromdimenziós szabad részecskére
 
                                                           i m(x − x′ )2
-                                           m 3/2                     
+                                            m  3/2
                                   ′
                           K0 (x, x , t) =           exp
                                            2πiℏt          ℏ     2t
@@ -33,7 +33,6 @@ időkülönbséget jelöli. Például háromdimenziós szabad részecskére
 ahogy azt az útintegrálokról szóló szakaszban találtuk.
 
 Ezután energiafüggő Green-függvényekre térünk át, amelyek lényegében az időfüggő Green-függvények Fourier-transzformáltjai.
-271 12. Szórás
 
  • A nemhomogén, időfüggetlen Schrödinger-egyenletet vizsgáljuk:
 
@@ -89,7 +88,6 @@ Ezután gondosan definiáljuk az energiafüggő Green-operátorokat.
 
     ahol az operátorok minden függvényét hatványsorral definiáljuk. Ĝ+ (E) akkor lenne Green-operátor, ha elhanyagolhatnánk
     az integrál felső határát.
-272 12. Szórás
 
  • A fenti probléma abból ered, hogy a Schrödinger-egyenletnek nincs csillapítása, így a kezdeti tranziensek soha nem
    csengenek le. Ehelyett H → H − iϵ helyettesítést végzünk, ami exponenciális lecsengést ad, vagy ekvivalensen
@@ -149,7 +147,6 @@ Ezután gondosan definiáljuk az energiafüggő Green-operátorokat.
 
    ahol most z = E − iϵ. Az alsó félsíkban definiált, és ϵ → 0 esetén Ĝ− (E)-hez tart, ahol a határérték jól definiált,
    ha E egyik En-nel sem egyenlő.
-273 12. Szórás
 
  • A vízhullámos hasonlatban itt „anti-csillapítás” van, és a gerjesztés folyamatosan energiát nyel el. E < 0 esetén ez
    nem számít az ϵ → 0 határban, ahol a gerjesztés nulla energiát nyel el. Folytonos E > 0 sajátfrekvencia esetén azonban
@@ -161,14 +158,14 @@ Ezután gondosan definiáljuk az energiafüggő Green-operátorokat.
 A fenti vízhullámos intuícióval analitikusan is megérthetjük a Green-operátorokat.
 
  • Definiáljuk a Green-operátorok különbségét:
-                                                                                                    
+
               ˆ
                         h                           i                        1            1
               ∆(E) = lim Ĝ+ (E + iϵ) − Ĝ− (E − iϵ) = lim                         −                     .
                       ϵ→0                                         ϵ→0   E + iϵ − H   E − iϵ − H
 
  • Ezt a határértéket közönséges számokkal könnyebb megérteni:
-                                              
+
                           1             1                  −2iϵ
                lim               −               = lim                 = −2πiδ(x − x0 ).
                ϵ→0 x − x0 + iϵ     x − x0 − iϵ     ϵ→0 (x − x0 )2 + ϵ2

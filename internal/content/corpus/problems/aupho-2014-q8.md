@@ -25,7 +25,7 @@ techniques: [graphical-reduction]
 
 Question 8
 The positions of two runners, Helen and Con, are shown below. The runners are shown at successive 0.20 second intervals, and they are moving towards the right.
-![](aupho-2014-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2014-q8-fig01.png)
 
 Do Helen and Con ever have the same speed?
 

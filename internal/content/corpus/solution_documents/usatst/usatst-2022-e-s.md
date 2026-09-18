@@ -60,7 +60,9 @@ diagrams, supporting calculations, and other information necessary to show how y
 
 
                          Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                  2
+
+
+2022 Experimental Exam                                                                                  2
 
 
 
@@ -99,7 +101,9 @@ On macOS, the procedure is somewhat more complicated:
 
 
                         Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                      3
+
+
+2022 Experimental Exam                                                                                      3
 
 
 
@@ -153,7 +157,9 @@ by the following uncertainties:
 
 
                          Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                          4
+
+
+2022 Experimental Exam                                                                                          4
 
 
 
@@ -214,7 +220,9 @@ by the following uncertainties:
 
 
                        Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                        5
+
+
+2022 Experimental Exam                                                                                        5
 
 
 
@@ -265,7 +273,9 @@ by the following uncertainties:
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                       6
+
+
+2022 Experimental Exam                                                                                       6
 
 
 
@@ -318,7 +328,9 @@ The parameters you specify are affected by the following uncertainties:
 
 
                          Copyright ©2022 American Association of Physics Teachers
-2022 Experimental Exam                                                                                         7
+
+
+2022 Experimental Exam                                                                                         7
 
 
 

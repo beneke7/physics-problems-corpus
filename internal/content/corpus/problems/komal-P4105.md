@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200811"
 verification_status: pending
 ---
 
-Water and oil of equal mass can be poured into a square-based prism. In which case will the force exerted on the vertical faces of the prism be greater? 
+Water and oil of equal mass can be poured into a square-based prism. In which case will the force exerted on the vertical faces of the prism be greater?
  (4 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200601"
 verification_status: pending
 ---
 
-Make a ``magnetic pendulum'' using a piece of magnet and a piece of iron. Fix one of them to the table while the other is swinging above it. Examine the motion of the bob of the pendulum as a function of the initial deflection angle and the distance between the bodies at the equilibrium position. 
+Make a ``magnetic pendulum'' using a piece of magnet and a piece of iron. Fix one of them to the table while the other is swinging above it. Examine the motion of the bob of the pendulum as a function of the initial deflection angle and the distance between the bodies at the equilibrium position.
  (6 pont)

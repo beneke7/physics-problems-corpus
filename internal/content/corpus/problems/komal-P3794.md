@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-In an experimental device where controlled nuclear fusion is generated, a solid-state laser emits infrared light in 1.1$^{ . }$10$^{-11}$ s at the wavelength of 1060 nm with a power of 10$^{14}$ W. For comparison: a school He-Ne laser emits red light at the wavelength of 633 nm with a power of 10$^{-3}$ W. For how many days should the He-Ne laser work to emit the same number of photons as the solid-state laser does in 1.1$^{ . }$10$^{-11}$ s? 
+In an experimental device where controlled nuclear fusion is generated, a solid-state laser emits infrared light in 1.1$^{ . }$10$^{-11}$ s at the wavelength of 1060 nm with a power of 10$^{14}$ W. For comparison: a school He-Ne laser emits red light at the wavelength of 633 nm with a power of 10$^{-3}$ W. For how many days should the He-Ne laser work to emit the same number of photons as the solid-state laser does in 1.1$^{ . }$10$^{-11}$ s?
 
  (3 pont)

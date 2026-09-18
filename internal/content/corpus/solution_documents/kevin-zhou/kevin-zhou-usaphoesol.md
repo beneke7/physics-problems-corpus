@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 This problem describes a real situation once faced by Federal Aviation Administration engineers.
@@ -77,7 +79,9 @@ Solution. This is USAPhO 1998, problem A4. Here’s an outline of the official s
 is a much better approximation, you instead get 24V. Either answer is acceptable.
 3. (5) If you modeled the lightning bolt as infinite, then I = E/R = 0.96A, and if you modeled
 it as half-infinite, then I = 0.48A. In either case the device is damaged.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Question A2
 A large vessel is filled with an incompressible, electrically insulating liquid of mass density ρm,
 carrying a uniform charge density ρe, which is so small that any electric fields created by the liquid
@@ -99,10 +103,10 @@ h =
 H
 2
 −
-s
+s
 H
 2
-2
+ 2
 −
 kρeq
 ρmg
@@ -125,7 +129,9 @@ junction of the two wires (see Fig. (a)).
 The rod is given an initial angular speed Ω such that it slides with its two ends always in contact
 with the two wires (see Fig. (b)), and just comes to rest in an aligned position with the other wire
 (see Fig. (c)). Determine Ω. Neglect the self-inductance of the system.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. This is INPhO 2017, problem 5. Let ϕ be the angle of the rod with the horizontal. Then
 xcm =
 L
@@ -186,7 +192,9 @@ created by the flow of current.
 2. Find the flow speed v that maximizes the power per volume delivered to the liquid. At this
 flow speed, what is the efficiency of the pump?
 Solution. This is problem 174 from Kalda’s electromagnetism handout, translated here.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 1. (8) The effect of the fields is to produce a uniform current density J in the liquid, which flows
 down along the direction of E, and returns along the sides of the pipe. By considering the
 forces on the liquid, we have
@@ -196,21 +204,21 @@ force per volume F is
 F = JB =
 B2
 ρ
-
+
 E
 B
 − v
-
+
 .
 2. (7) The power per volume is
 P = Fv =
 B2
 ρ
-
+
 E
 B
 − v
-
+
 v.
 This is maximized when v = E/2B. We can neglect relativity, because v ≪ c.
 On the other hand, the power lost due to resistance in the liquid per volume is
@@ -218,15 +226,17 @@ Ploss = ρJ2
 =
 B2
 ρ
-
+
 v −
 E
 B
-2
+ 2
 .
 When v = E/2B, we have P = Ploss. That is, the power delivered to the liquid is equal to
 the power lost to resistance, which means the efficiency is 1/2.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 Mechanical and electrical processes are sometimes strongly coupled. Very important examples are
@@ -264,7 +274,9 @@ example, LIGO is a gigantic optomechanical system. Here’s an outline of the of
 1. (3) Of course, it is mẍ = −kx, so ω0 =
 p
 k/m.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 2. (6) By force balance, Fe = k(X0 − X1). We also know that
 Fe =
 QE
@@ -288,10 +300,10 @@ constant is
 keff = k +
 d
 dx
-
+
 Sϵ0U2
 2(X1 + x)2
-
+
 x=0
 = k −
 Sϵ0U2
@@ -307,11 +319,11 @@ X3
 Sϵ0
 X2
 1 = k
-
+
 3 − 2
 X0
 X1
-
+
 from which we conclude
 ω′
 0 =
@@ -322,11 +334,11 @@ m
 s
 k
 m
-
+
 3 − 2
 X0
 X1
-
+
 .
 4. (6) Since there are two small perturbations from equilibrium, we need to be careful to consider
 all changes of either order q or order x. Consider how the voltage across the capacitor varies,
@@ -367,7 +379,9 @@ Thus, Newton’s second law gives
 mẍ = −kx − δFe = −kx −
 Qq
 Sϵ0
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 5. (6) We guess complex exponentials of angular frequency ω for both x and q. As usual, the
 second time derivative gives a factor of −ω2, and canceling the complex exponential gives a
 relation between the amplitudes of the two quantities, which we’ll also call x and q for brevity,
@@ -407,11 +421,11 @@ Q2
 S2ϵ2
 0mL
 = 2
-
+
 X0
 X1
 − 1
-
+
 ω2
 0ω2
 1.
@@ -423,11 +437,11 @@ Thus, we have
 + ω2
 0ω2
 1
-
+
 3 − 2
 X0
 X1
-
+
 = 0.
 Using the quadratic formula, we finally find
 ω2
@@ -438,18 +452,18 @@ Using the quadratic formula, we finally find
 2
 ±
 s
-
+
 ω2
 0 + ω2
 1
 2
-2
+ 2
 −
-
+
 3 − 2
 X0
 X1
-
+
 ω2
 0ω2
 1.
@@ -461,7 +475,9 @@ if the applied voltage is too strong, the two plates will snap together, much li
 USAPhO 2019 B1.)
 This problem is quite a lot more computationally involved than question B2, which again illustrates
 that not all points come for an equal amount of work.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Question B2
 Among the first successes of the interpretation by Ampere of magnetic phenomena, we have the
 computation of the magnetic field B generated by wires carrying an electric current, as compared
@@ -496,7 +512,9 @@ Solution. This is IPhO 1999, problem 2. Here’s an outline of the official solu
 2. (5) Using the special case α = π/2, which is just a straight wire, we find k = µ0i/2πd.
 3. (5) This is equivalent to setting α → π − α and reversing the current, so B = kcot(α/2) into
 the page.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 4. (5) Since Iθ̈ = τ = −µB sinθ ≈ −µBθ, we have simple harmonic motion with T = 2π
 p
 I/µB.

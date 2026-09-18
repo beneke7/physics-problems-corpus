@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy test egy $\alpha$ hajlásszögű lejtőn nyugszik. A felület vízszintes gyorsulással $a$ mozog, amely ugyanabban a függőleges síkban fekszik, mint a felület normálvektora. Határozzuk meg a súrlódási együttható $\mu$ azon értékeit, amelyek mellett a test nyugalomban maradhat.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr5-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr5-fig1.jpg)

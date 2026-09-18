@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-The charge of a parallel plate condenser is $Q$, the distance between its plates is $d$. The condenser is placed into uniform electric field of magnitude $E_0$, the direction of the electric field is perpendicular to the plates. How much work is done if the condenser is turned by 180 degree about an axis which is perpendicular to the external electric field? (In other words the plates of the condenser are swapped.) 
+The charge of a parallel plate condenser is $Q$, the distance between its plates is $d$. The condenser is placed into uniform electric field of magnitude $E_0$, the direction of the electric field is perpendicular to the plates. How much work is done if the condenser is turned by 180 degree about an axis which is perpendicular to the external electric field? (In other words the plates of the condenser are swapped.)
  (4 pont)

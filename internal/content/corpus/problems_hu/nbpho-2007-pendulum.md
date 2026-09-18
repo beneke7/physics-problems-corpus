@@ -28,7 +28,7 @@ erőt alkalmazunk a támadáspontban, akkor a rúd körív alakját veszi fel. E
 körnek a sugara fordítottan arányos az erővel: $R=k / F$, ahol a $k$ tényező a rúd
 jellemzője.
 
-![ábra](../../sources/nbpho/figures/nbpho-2007-pendulum-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2007-pendulum-fig1.png)
 
 1) A rudat az alsó végénél függőlegesen rögzítjük, a felső végéhez pedig egy $m$
 tömegű golyót erősítünk. A $k$ tényező, a rúd $l$ hossza és a $g$ szabadesési

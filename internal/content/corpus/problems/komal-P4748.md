@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-Can it be possible that the ice-cream ball, which was dropped from the tower called Károly-kilátó in the city of Sopron, melts before it reaches the ground? 
+Can it be possible that the ice-cream ball, which was dropped from the tower called Károly-kilátó in the city of Sopron, melts before it reaches the ground?
  (3 pont)

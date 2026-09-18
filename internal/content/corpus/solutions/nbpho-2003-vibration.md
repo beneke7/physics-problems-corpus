@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2003_
 ---
 
 5. Vibration (10 pts)
-1) µmgτ  v.
+1) µmgτ   v.
 2) F = 0, when |v| < u; F = µmg, when
 |v| > u.
 3) The x-component of the frictional force

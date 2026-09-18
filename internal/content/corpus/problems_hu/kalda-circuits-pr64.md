@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkör lehetővé teszi egy $\mathcal{E}=12 \mathrm{~V}$ feszültségű akkumulátor töltését egy $\mathcal{E}$-nél kisebb, $V_{0}=5 \mathrm{~V}$ feszültségű egyenfeszültség-forrással. Ehhez a $K$ kapcsolót periodikusan be- és kikapcsoljuk; a nyitott és zárt állapot időtartama egyaránt $\tau=10 \mathrm{~ms}$. Határozzuk meg az átlagos töltőáramot, ha $L=1 \mathrm{H}$. A diódát ideálisnak tekinthetjük; a tekercs ohmos ellenállását hanyagoljuk el.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr64-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr64-fig1.jpg)

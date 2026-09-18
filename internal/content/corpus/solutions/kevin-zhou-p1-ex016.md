@@ -32,13 +32,13 @@ dt
 = −
 s
 2GM
-
+
 1
 r
 −
 1
 r0
-
+
 .
 We can write the time taken to collide as
 T =

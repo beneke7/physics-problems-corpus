@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, smart-coordinates, graphical-reduction]
 ---
 
-The angle between two plane mirrors is $60^\circ$. At a distance of 30 cm from the intersection of the two mirrors, a ray of light is incident on one of the mirrors, its angle of incidence is $30^\circ$. What is the minimum time that it takes for the reflected light to travel from one mirror to the other? 
+The angle between two plane mirrors is $60^\circ$. At a distance of 30 cm from the intersection of the two mirrors, a ray of light is incident on one of the mirrors, its angle of incidence is $30^\circ$. What is the minimum time that it takes for the reflected light to travel from one mirror to the other?
  (3 pont)

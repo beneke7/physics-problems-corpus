@@ -19,4 +19,4 @@ verification_status: pending
 
 A dumbbell consisting of two elastic spheres connected with a thin steel rod is moving parallel to its axis with a velocity $v$ toward another exact same spheres. Find the velocity of the dumbbell after a central collision. Is the kinetic energy of the system conserved?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr86-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr86-fig1.jpg)

@@ -32,6 +32,6 @@ b) (6 pts) Find the period $T$ of the small oscillations.
 
 The masses of the chains and the frame can be neglected. The chains are frictionless, inextensible, and remain tensioned in oscillations. The grid step is $a = 0.100$ m, the acceleration of gravity $g = 9.81$ m/s$^2$.
 
-![figure](../../sources/eupho/figures/eupho-2025-T2-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-T2-1.png)
 
 *European Physics Olympiad 2025, Theory Problem 2. Transcribed faithfully from the born-digital source PDF (via phoxiv.org); inline math normalized from the source's Unicode glyphs to LaTeX. Figure is a vector diagram (side/3D view of the chain-suspended table) cropped from the source page.*

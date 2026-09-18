@@ -58,7 +58,7 @@ $$
 Here, the Planck function $\varphi(\lambda, T)$ describes the energy distribution in the black body radiation spectrum; the value $\varphi(\lambda, T) \Delta \lambda$ is equal to the fraction of the thermal radiation energy per narrow spectral interval from $\lambda$ to $\lambda+\Delta \lambda$. The total area under the graph of the function $\varphi(\lambda, T)$ is equal to unity. In this problem, it is recommended to use the graphs of this function, shown in the figure below and plotted at temperatures $t=$ $0^{\circ} \mathrm{C}$ and $t=50^{\circ} \mathrm{C}$.
 
 The Planck function
-![](izho-2022-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2022-t-q2-fig01.png)
 
 Model of the Earth and its atmosphere
 

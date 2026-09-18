@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction, extremization]
 ---
 
-Bodies of different masses and different velocities are colliding with objects of mass $M$, which are at rest. The collisions are head-on, totally elastic and the speed of each body is much less than the speed of light. 
- $a)$ Determine the energy $W$ given to the initially stationary object, in terms of the energy $E$, and linear momentum $I$ of the object which collides with it. 
- $b)$ Sketch the graph of the function $W(E,I)$ for fixed linear momentum $I_0$, then for fixed energy $E_0$. 
- $c)$ Is it possible that an object having less energy gives more energy to the initially stationary body another one having more energy? 
+Bodies of different masses and different velocities are colliding with objects of mass $M$, which are at rest. The collisions are head-on, totally elastic and the speed of each body is much less than the speed of light.
+ $a)$ Determine the energy $W$ given to the initially stationary object, in terms of the energy $E$, and linear momentum $I$ of the object which collides with it.
+ $b)$ Sketch the graph of the function $W(E,I)$ for fixed linear momentum $I_0$, then for fixed energy $E_0$.
+ $c)$ Is it possible that an object having less energy gives more energy to the initially stationary body another one having more energy?
  (6 pont)

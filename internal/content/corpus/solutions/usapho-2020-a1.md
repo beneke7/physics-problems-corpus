@@ -22,7 +22,7 @@ shell, with surface charge density
 2πa
 .
 The system is immersed in an external magnetic field B0ẑ, and is initially at rest. Starting at
-t = 0, the external magnetic field is slowly reduced to zero over a time T 
+t = 0, the external magnetic field is slowly reduced to zero over a time T
  a/c, where c is the
 speed of light.
 a. Find an expression of the final angular velocity ω of the cylinder in terms of the symbols given
@@ -64,7 +64,7 @@ Integrate on both sides, and noting that ω(t = 0) = 0, we have:
 λa2
 2I
 B(T) − B0
-
+
 (A1-5)
 Copyright c 2020 American Association of Physics Teachers
 2020 USAPhO Part A 3
@@ -96,28 +96,28 @@ of rotation is:
 L(r) = r × P(r).
 P(r) is a vector analogous to momentum, given by
 P(r) = α · E(r) × B(r)
-
+
 .
 where α is some proportionality constant. Find an expression for α in terms of given variables
 and fundamental constants.
 Solution
 The electric field inside the cylindrical shell is given by E(r) = − λ
-2π0rr̂ inward. The
+2π 0rr̂ inward. The
 magnetic field is given by B(t)ẑ. Then:
 P(r) = α
 λB(t)
-2π0r
+2π 0r
 θ̂.
 The angular momentum per unit volume is then:
 L(r) = −α
 λ
-2π0
+2π 0
 ẑ
 The angular momentum per unit length is then:
 L = −
 αλB(t)a2
 2
 ẑ.
-Comparing this to Equation (A1-5) shows that α = 0.
+Comparing this to Equation (A1-5) shows that α =  0.
 Copyright c 2020 American Association of Physics Teachers
 2020 USAPhO Part A 4

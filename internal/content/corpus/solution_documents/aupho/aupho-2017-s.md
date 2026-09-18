@@ -49,7 +49,9 @@ MARKS
                                        Page 1 of 22
                2017 Australian Science Olympiads Exam Solutions – Physics
                    c Australian Science Innovations ABN 81731558309
-                       SECTION A: MULTIPLE CHOICE
+
+
+                       SECTION A: MULTIPLE CHOICE
                      USE THE ANSWER SHEET PROVIDED
 
 
@@ -96,7 +98,9 @@ the motion. This opposing force is the frictional force.
                                            Page 2 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-Question 3
+
+
+Question 3
 A roller-coaster cart full of water is moving at a constant speed along a horizontal, frictionless length of
 track. Suddenly, a plug in the bottom of the cart is removed, and the water starts to flow downwards out
 of the cart. What happens to the speed of the cart while the water is flowing? Ignore air resistance in
@@ -144,7 +148,9 @@ estimate.
                                            Page 3 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-Question 6
+
+
+Question 6
 If a string of linear mass density µ (measured in kg m−1 ) is placed under a tension T (a force, measured
 in newtons, N), then the fundamental oscillation frequency f (measured in hertz, Hz, equivalent to cycles
 per second) is related qto the length L of the fundamental oscillation mode of the string (measured in
@@ -158,10 +164,10 @@ see if the fundamental oscillation frequency is kept constant?
    c. A straight line, parallel to the x-axis.
    d. A parabolic curve, with a minimum at x = 0.
    e. A parabolic curve, with a maximum at x = 0.
-                                                                            2
+                                                                              2
                                                                         1  T
 Solution: a. The relationship given can be rearranged to be L2 =        2f µ . This shows that the
-                                                                                         2
+                                                                                           2
 relationship between L2 and T is linear with a positive slope, as the coefficient of T , 21f µ1 , is positive.
 As there is no constant term the line is expected to pass through the origin.
 Question 7
@@ -188,7 +194,9 @@ positive charges.
                                            Page 4 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-Question 8
+
+
+Question 8
 A block of mass 5 kg lies at rest on a horizontal surface. An upwards force of 20 N is applied to the
 block, as shown. Assuming g = 10 m s−2 , what is the weight of the block?
                                                                              a. 3 kg
@@ -217,7 +225,9 @@ This means that the normal force is 30 N upwards.
                                           Page 5 of 22
                   2017 Australian Science Olympiads Exam Solutions – Physics
                    c Australian Science Innovations 2017 ABN 81731558309
-Question 10
+
+
+Question 10
  An elevator is rising at constant speed. Consider the following five statements (I to V) about the
  situation:
  I. “The tension in the elevator cable is constant.”
@@ -250,7 +260,9 @@ This means that the normal force is 30 N upwards.
                                             Page 6 of 22
                     2017 Australian Science Olympiads Exam Solutions – Physics
                      c Australian Science Innovations 2017 ABN 81731558309
-                     SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                     SECTION B: WRITTEN ANSWER QUESTIONS
                        USE THE ANSWER BOOKLET PROVIDED
 Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
 Note: Suggested times are given for Section B as a general guide only. You may take more or less time on
@@ -297,7 +309,9 @@ any question – everyone is different.
                                                Page 7 of 22
                        2017 Australian Science Olympiads Exam Solutions – Physics
                         c Australian Science Innovations 2017 ABN 81731558309
-     Upon removing the partition Niamh observes that the chocolate milk spreads through the tank like a
+
+
+     Upon removing the partition Niamh observes that the chocolate milk spreads through the tank like a
      wave. She constructs a basic model of the chocolate milk wave in order to find out how quickly it
      travels. She divides the chocolate milk behind the partition into two equal sections. When the partition is
      removed, the bottom section is displaced by the top section and begins to move with velocity U. This
@@ -336,14 +350,16 @@ is removed.
            Mass of section 1 = mass of section 2, m1 = m2 = ρCVC /2
            Mass of section 3 = mass of section 4, m3 = m4 = ρMVC /2
            The centre of section 1 moves down H/2, while the centre of section 3 moves up H/2.
-                                                                     
+
                                                                 VC     H
                                            GPE1 = m1 g∆h1 = ρC g
                                                                  2     2
                                                 Page 8 of 22
                         2017 Australian Science Olympiads Exam Solutions – Physics
                          c Australian Science Innovations 2017 ABN 81731558309
-                                                           
+
+
+
                                                        VM  H
                                     GPE3 = m3 g∆h2 = ρC g
                                                         2  2
@@ -381,7 +397,9 @@ these equations do not apply in this situation.
                                      Page 9 of 22
              2017 Australian Science Olympiads Exam Solutions – Physics
               c Australian Science Innovations 2017 ABN 81731558309
-c) Two limitations of this model are that
+
+
+c) Two limitations of this model are that
 
        • the chocolate milk and plain milk might mix, and
        • the chocolate powder might not be completely dissolved in the chocolate milk.
@@ -429,7 +447,9 @@ these equations do not apply in this situation.
                                       Page 10 of 22
                2017 Australian Science Olympiads Exam Solutions – Physics
                 c Australian Science Innovations 2017 ABN 81731558309
-Question 12
+
+
+Question 12
  Suggested Time: 25 min
 Miriam the Magician likes to perform magic tricks and also studies physics. She has realised that many
 of her magic tricks work by appearing to break physical laws. For example, she can make it look like a
@@ -479,7 +499,9 @@ large scarf appeared from nowhere.
                                          Page 11 of 22
                   2017 Australian Science Olympiads Exam Solutions – Physics
                    c Australian Science Innovations 2017 ABN 81731558309
-For some tricks Miriam uses mist, which is made of very many small water droplets, to hide larger
+
+
+For some tricks Miriam uses mist, which is made of very many small water droplets, to hide larger
 objects. Miriam likes to use as little water as possible to make mist so she doesn’t get her equipment wet.
 From her physics she knows that mist hides objects by scattering light, so that rather than passing
 straight through the light is reflected in random directions. The amount that light is scattered by a cloud
@@ -524,7 +546,9 @@ puts a volume of water Vw into the machine and fills a cube with side length a w
                                           Page 12 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-     Students had difficulty calculating the volumes of the spheres, and sometimes gave answers
+
+
+     Students had difficulty calculating the volumes of the spheres, and sometimes gave answers
      that depended on the volume of the cube which does not affect the number of droplets in the
      cloud.
 (iii) If there were only one droplet of this size in the cube, calculate the probability a light ray
@@ -574,7 +598,9 @@ puts a volume of water Vw into the machine and fills a cube with side length a w
                                  Page 13 of 22
           2017 Australian Science Olympiads Exam Solutions – Physics
            c Australian Science Innovations 2017 ABN 81731558309
-Question 13
+
+
+Question 13
  Suggested Time: 25 min
 A simple, ideal, 2-dimensional model of a trampoline is shown below. Two poles of height P are fixed in
 the ground a distance D apart. A spring of length S is joined to each of the poles and the other ends of
@@ -625,7 +651,9 @@ lines, Wspring = 12 k(∆x)2.
                                           Page 14 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-The person begins jumping on the trampoline and then reaches a state where the ideal trampoline is
+
+
+The person begins jumping on the trampoline and then reaches a state where the ideal trampoline is
 bouncing them up into the air to a height H every bounce.
 
    b) On p. 6 of the Answer Booklet, sketch the shape of the springs and material, and the forces acting
@@ -668,7 +696,9 @@ bouncing them up into the air to a height H every bounce.
                                          Page 15 of 22
                   2017 Australian Science Olympiads Exam Solutions – Physics
                    c Australian Science Innovations 2017 ABN 81731558309
-   c) On the axes on p. 7 of the Answer Booklet, sketch the magnitude of each force as a function of
+
+
+   c) On the axes on p. 7 of the Answer Booklet, sketch the magnitude of each force as a function of
       height above the surface of the unstretched trampoline for one bounce up and down. Clearly label
       each curve, including the direction of motion.
         Solution:
@@ -726,7 +756,9 @@ person is touching the trampoline.                                              
                                            Page 16 of 22
                     2017 Australian Science Olympiads Exam Solutions – Physics
                      c Australian Science Innovations 2017 ABN 81731558309
-(ii) On the graph on p. 7 of the Answer Booklet, label the two curves “moving down” and
+
+
+(ii) On the graph on p. 7 of the Answer Booklet, label the two curves “moving down” and
      “moving up”. Justify your answer.
      Solution:
      There is a larger force upward when moving down than up, as then the kinetic energy will
@@ -752,7 +784,9 @@ person is touching the trampoline.                                              
                                  Page 17 of 22
           2017 Australian Science Olympiads Exam Solutions – Physics
            c Australian Science Innovations 2017 ABN 81731558309
-Question 14
+
+
+Question 14
  Suggested Time: 30 min
 The freezing and melting of rivers is a seasonal process throughout much of the world and plays a
 central role in the lives of the people nearby. The town of Thermos is situated on the River Kelvin. The
@@ -776,7 +810,7 @@ Some important values are given in the table at the end of this question.
              = mi (ci ∆T + L)
              = V ρi (ci ∆T + L)
              = 2.3 × 201 × 104 m3 × 917 kg m−3 2.11 × 103 J kg−1 K−1 × 15 K + 333 × 103 J kg−1
-                                                                                                         
+
 
              = 1.55 × 1015 J
 
@@ -804,7 +838,9 @@ Some important values are given in the table at the end of this question.
                                          Page 18 of 22
                   2017 Australian Science Olympiads Exam Solutions – Physics
                    c Australian Science Innovations 2017 ABN 81731558309
-   c) Use the supplied data to estimate the time it would take for the ice to melt if it is only heated by
+
+
+   c) Use the supplied data to estimate the time it would take for the ice to melt if it is only heated by
       sunlight.
       Solution:
       Solar intensity is Is = 800 W m−2 in Thermos.
@@ -855,7 +891,9 @@ This part is independent of the previous parts - give it a go even if you haven�
                                           Page 19 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-        • differences between riverbank in model and the dirt around a real river
+
+
+        • differences between riverbank in model and the dirt around a real river
         • choice of size of the scale model
         • precision/accuracy in measurements, especially of time to melt if only checking
           periodically.
@@ -883,7 +921,9 @@ Students generally gave very little detail in this part.
                                    Page 20 of 22
             2017 Australian Science Olympiads Exam Solutions – Physics
              c Australian Science Innovations 2017 ABN 81731558309
-Data table:
+
+
+Data table:
                        Quantity                         Symbol        Value
                    Density of water                      ρw        1000 kg m−3
                      Density of ice                       ρi       917 kg m−3
@@ -901,7 +941,9 @@ Students generally gave very little detail in this part.
                                           Page 21 of 22
                    2017 Australian Science Olympiads Exam Solutions – Physics
                     c Australian Science Innovations 2017 ABN 81731558309
-                             Integrity of Competition
+
+
+                             Integrity of Competition
 If there is evidence of collusion or other academic dishonesty, students will be
                    disqualified. Markers’ decisions are final.
 

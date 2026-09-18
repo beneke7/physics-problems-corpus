@@ -84,12 +84,12 @@ V0
 2T0 ≈ 1,2T0.
 Ugyanezt az eredményt az (1)-ben szereplő kicsiny változások összegzésével (integ-
 rálással) is megkaphatjuk:
-V0/2 
+V0/2
 V0
 1
 V
 dV + 4
-T1 
+T1
 T0
 1
 T
@@ -146,7 +146,7 @@ S(T0,V0) = 0
 A vizsgált folyamatban nincs hőcsere a rendszer és a környezete között, to-
 vábbá (a dugattyú lassú mozgatása esetén) a folyamat reverzibilis, ı́gy a rendszer
 entrópiája változatlan marad:
-
+
 fHe
 2
 nRln
@@ -155,9 +155,9 @@ T0
 + nRln
 V0/2
 V0
-
+
 +
-
+
 fO2
 2
 nRln
@@ -166,7 +166,7 @@ T0
 + nRln
 V0
 V0
-
+
 = 0,
 vagyis (tudva, hogy fHe = 3 és fO2
 = 5)

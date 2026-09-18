@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Example. An example of a Gaussian wavepacket is
-                                     1/4 −ax2 /(1+2iℏat/m)
+                                       1/4 −ax2 /(1+2iℏat/m)
                                      2a     e
                           ψ(x, t) =           p
                                       π         1 + 2iℏat/m
@@ -55,7 +55,6 @@ which is constant, because the momentum distribution is constant. Therefore, in 
 quadratic in time, and furthermore V ′′ (t) > 0, so that all wavepackets eventually spread. There
 are a few ways out of this: coherent states don’t spread because they experience an appropriate
 potential, and nonspreading wavepackets evade the above argument by having infinite variance.
-135 5. Fundamentals of Quantum Mechanics
 
 
    This argument also shows a strength of Heisenberg picture: it is ideal if you are mostly interested

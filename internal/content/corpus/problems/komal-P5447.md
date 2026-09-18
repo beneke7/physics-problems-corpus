@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element, smart-coordinates]
 ---
 
-Three identical cylinders of radius 5 cm are made of ice and they are released without initial speed from the position shown in the figure. Friction is negligible everywhere. 
+Three identical cylinders of radius 5 cm are made of ice and they are released without initial speed from the position shown in the figure. Friction is negligible everywhere.
 
- What is the acceleration at which the ice cylinders start moving? 
+ What is the acceleration at which the ice cylinders start moving?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5447-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5447-fig1.gif)

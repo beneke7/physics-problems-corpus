@@ -32,7 +32,6 @@ Egy ilyen állapot hullámfüggvénye egy szögkoordinátát vesz fel, és egy s
 csatolás σ · x alakú. Mivel ez a tag rotációsan invariáns, megőrzi j-t és mj-t. A térbeli rész szempontjából
 ez olyan, mint egy elektromos dipólusátmenet, ezért ∆ℓ = ±1. Így a kölcsönhatás egységenként képes
 átadni a szögimpulzust a spin és a pálya között.
-195 8. Diszkrét szimmetriák
 
 8.2     Időtükrözés
 Ezután az időtükrözést vizsgáljuk, amely finomabb, mert egy antilineáris operátor valósítja meg.
@@ -55,7 +54,7 @@ Kezdjük a klasszikus esettel.
   • A kvantummechanikában a Schrodinger-egyenlet
 
                                             ℏ2 2
-                                                        
+
                                   ∂ψ
                                iℏ     = −      ∇ + V (x) ψ(x, t).
                                   ∂t       2m
@@ -84,7 +83,6 @@ Most definiáljuk és vizsgáljuk az időtükrözési operátort.
 
       t = 0 esetén az időtükrözési operátor a |ψ(0)⟩ kezdeti feltételt a megfordított mozgás
       |ψr (0)⟩ kezdeti feltételébe viszi.
-196 8. Diszkrét szimmetriák
 
   • Mivel a valószínűségeknek időtükrözés alatt meg kell maradniuk, feltesszük, hogy
 
@@ -140,7 +138,6 @@ Az antilineáris operátorokkal való munka kényes, mert a Dirac-jelölést lin
                                       (⟨ϕ|A)|ψ⟩ ≡ [(⟨ϕ|)(A|ψ⟩)]∗ .
 
     Fontos, melyik irányban hat az antilineáris operátor; a felcserélése komplex konjugálást eredményez.
-197 8. Diszkrét szimmetriák
 
   • Ezután definiáljuk a Hermitikus konjugáltat. Lineáris operátorok esetén
 
@@ -148,7 +145,7 @@ Az antilineáris operátorokkal való munka kényes, mert a Dirac-jelölést lin
 
     Az antilineáris operátorokra való kiterjesztéshez meg kell találnunk, milyen irányban hat A és A†.
     A helyes szabály az irány megfordítása:
-                                              
+
                                           ⟨ϕ|A† |ψ⟩ = [⟨ψ| (A|ϕ⟩)]∗ .
 
     Ellenőrizhető, hogy ez helyesen viselkedik, amikor |ψ⟩-t és |ϕ⟩-t skalárral szorozzuk. A szabályra
@@ -191,7 +188,6 @@ Most konkrét helyzetekre alkalmazzuk az időtükrözési szimmetriát.
                                        Θ = e−iπSy /ℏ K = Ke−iπSy /ℏ
 
     ahol az exponenciális azért kommutál K-val, mert mátrixelemei valósak.
-198 8. Diszkrét szimmetriák
 
   • A térbeli szabadságfokokat visszaadva
 
@@ -242,7 +238,6 @@ Végül az időtükrözést dinamikára alkalmazzuk.
  • Ha páratlan számú fermion van, Θ2 = −1. Ekkor az energiaszinteknek kétszeresen degeneráltnak kell
    lenniük, mert ha nem lennének azok, akkor Θ2 |ψ⟩ = Θeiθ |ψ⟩ = |ψ⟩ adódna, ami ellentmond Θ2 = −1-nek.
    Ezt az eredményt Kramers-degenerációnak nevezzük.
-199 8. Diszkrét szimmetriák
 
  • Például rotációs szimmetria esetén a Kramers-degeneráció triviálisan fennáll, mert |l, m⟩ párja
    |l, −m⟩, ahol fél-egész l esetén m ̸= 0. A nemtriviális állítás az, hogy ez akkor is igaz, ha például
@@ -295,7 +290,6 @@ Ez a paritás, az időtükrözés és a Wigner–Eckart-tétel hasznos alkalmaz�
     de ezt a szimmetriát, még ha hasznos volna is, ésszerűen nem nevezhetnénk „paritásnak” vagy
     „időtükrözésnek”. A szóban forgó E klasszikus elektromos tér, amelynek transzformációját már ismernünk
     kellene.
-200 8. Diszkrét szimmetriák
 
   • Az elektromos dipólusmomentumokról általában úgy beszélnek, mint amelyek sértik T-t, nem pedig P-t,
     noha mindkettőt sértik. Ennek oka, hogy az előbbi érdekesebb. A CPT-tétel szerint a T-sértés ekvivalens
@@ -329,7 +323,6 @@ nem vesszük fel a Hilbert-térbe; megjelenésüket csak a relativisztikus QFT s
 nemrelativisztikus elméletben csak azt vizsgálhatjuk, hogy egy kölcsönhatás sérti-e C-t, ha ellenőrizzük,
 hogy sérti-e a PT-t, és a relativisztikus QFT CPT-tételére hivatkozunk – de közvetlenül nem hivatkozhatunk
 a CPT-tételre, mert C-t definiálni sem tudjuk.
-201 9. Időfüggetlen perturbációelmélet
 
 9      Időfüggetlen perturbációelmélet
 9.1     Formalizmus
@@ -379,7 +372,6 @@ Ebben a szakaszban kötöttállapot-perturbációelmélettel foglalkozunk.
                                                       kα
 
       teljesül. A nevező azonban k = n esetén felrobban, amikor a perturbációt kikapcsoljuk.
-202 9. Időfüggetlen perturbációelmélet
 
  • Ehelyett egy korlátozott változatot definiálunk:
                                                          X |kα⟩⟨kα|
@@ -441,7 +433,6 @@ Nem degenerált perturbációelméletet tekintünk példaként.
                                                               ′  ′
                                                                           (E − ϵk )(E − ϵk′ )
                                                      k̸=n,α k ̸=n,α
-203 9. Időfüggetlen perturbációelmélet
 
  • Ez még implicit kifejezés, mert E mindkét oldalon megjelenik. Felhasználhatjuk azonban E explicit
    sorának kinyerésére. Elsőrendben például
@@ -495,7 +486,6 @@ Most a degenerált esetet vizsgáljuk.
  • Néha az állapotok egy része vagy mindegyike továbbra is degenerált marad. Ez a degeneráció valamely
    magasabb rendben felbomolhat. Ha soha, semmilyen rendben nem bomlik fel, akkor szinte minden esetben
    azonosíthatjuk a teljes Hamilton-operátor egy szimmetriáját, amely ezért felelős.
-204 9. Időfüggetlen perturbációelmélet
 
   • Másodrendben a kvadratikus tag nevezőjében E-t ϵn-nel helyettesíthetjük, így szokásos sajátérték-
     egyenletet kapunk. Alternatívaként a λ⟨nα|H1 |nβ⟩ tagot a perturbálatlan Hamilton-operátor részének
@@ -547,7 +537,6 @@ amelyeket később részletesen vizsgálunk.
   • Ésszerű ezt az atommag közelében kis perturbációnak tekinteni, mivel a laboratóriumban létrehozott
     elektromos terek tipikusan sokkal gyengébbek az atomon belülieknél. V1 azonban nagy r esetén nő,
     V0 pedig csökken, ezért a perturbációs elemzés elegendően nagy n-ű állapotokra nem működik.
-205 9. Időfüggetlen perturbációelmélet
 
  • Szigorúan véve egyáltalán nincsenek kötött állapotok, bármilyen kicsi is F, mivel a potenciál z → −∞
    esetén nagyon negatívvá válik. Így minden állapot át tud alagútazni egy gáton, és megszökhet a végtelenbe.
@@ -595,10 +584,9 @@ Most néhány alapvető példát tekintünk.
    negatív z-vel. A |200⟩ hozzáadásával az egyik lebeny megnő, a másik pedig összehúzódik, a fázistól függően.
 
  • Erre a két állapotra korlátozva a perturbációs mátrix
-                                                      
+
                                                0    −W
                                               −W     0
-206 9. Időfüggetlen perturbációelmélet
 
                                            (1)
     tehát az elsőrendű energiaeltolódások ∆E2 = ±W. Az n = 2 energiaszint három részre hasad, az új

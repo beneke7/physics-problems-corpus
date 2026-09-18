@@ -25,7 +25,7 @@ solution_language: en
 
 ## Problem Statement
 
-[5] Problem 26.    01hAPhO 2002, problem 1. This useful problem covers the other common example
+[5] Problem 26.    01h APhO 2002, problem 1. This useful problem covers the other common example
     of a quantized bosonic field. In the above problems, we quantized the electromagnetic field to get
     photons. Here, we quantize a displacement field to get phonons.
 
@@ -57,7 +57,9 @@ solution_language: en
        have so much energy they won’t be bound to the galaxy at all.
 
                                                       14
-    Kevin Zhou                                                                   Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                   Physics Olympiad Handouts
 
        To get a rough estimate, let’s suppose the galaxy has length scale L, so that we need at least
        N ∼ ρL3 /m dark matter particles. They need to have energy less than E0 ∼ mvesc  2 . Plugging
@@ -69,9 +71,9 @@ solution_language: en
                                                   ≲
                                                m       ℏ3
        which yields the bound
-                                                         1/4
+                                                          1/4
                                                   ρ ℏ3
-                                              
+
                                         m≳         3
                                                                 ∼ 10 eV/c2 .
                                                   vesc

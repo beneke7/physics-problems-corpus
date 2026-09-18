@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, choose-reference-frame]
 ---
 
-If we move in a steam bath (for example we begin to fan ourselves with the arms), then we feel the 40–60 ${}^\circ$C vapour much hotter, and it may feel like our skin is burning. Why? 
+If we move in a steam bath (for example we begin to fan ourselves with the arms), then we feel the 40–60 ${}^\circ$C vapour much hotter, and it may feel like our skin is burning. Why?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, conservation-laws]
 ---
 
-A small sport plane makes a trip, first flying into a headwind, from $A$ to $B$ towards the north in 3 hours, whilst the backward trip from $B$ to $A$ flying with tailwind takes 2 hours. How long would the full trip (i.e., forth and back) take if the wind blew constantly from the northeast? (The speed of the wind can be considered as constant.) 
+A small sport plane makes a trip, first flying into a headwind, from $A$ to $B$ towards the north in 3 hours, whilst the backward trip from $B$ to $A$ flying with tailwind takes 2 hours. How long would the full trip (i.e., forth and back) take if the wind blew constantly from the northeast? (The speed of the wind can be considered as constant.)
  (4 pont)

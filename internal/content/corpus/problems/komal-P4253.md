@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201004"
 verification_status: pending
 ---
 
-How many electrons should be removed from a metal sphere of radius 1 cm, so that its electrostatic energy equals the energy loss due to mass defect? What would the electric potential of the sphere be in this case? 
+How many electrons should be removed from a metal sphere of radius 1 cm, so that its electrostatic energy equals the energy loss due to mass defect? What would the electric potential of the sphere be in this case?
  (4 pont)

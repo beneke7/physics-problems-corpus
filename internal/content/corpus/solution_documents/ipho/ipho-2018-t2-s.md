@@ -42,7 +42,9 @@ Solutions to Theory Problem 2
 
 
                    v1.2
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                       Sociedade Portuguesa de Física
                                                       Avenida da República Nº45 3ºEsq
@@ -117,7 +119,9 @@ The acceleration for the particle is 𝑎 = 𝑒𝑣𝐵  𝑒𝑐𝐵
                                               2
                                       𝐸
 Since 𝐸 = 𝛾𝑚𝑐2 we can obtain 𝛾 2 𝑐4 = 𝑚 2 and, finally,
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                    Sociedade Portuguesa de Física
                                                    Avenida da República Nº45 3ºEsq
@@ -195,7 +199,9 @@ and
 
        A.5                                                                                                  0.5pt
                                                      Δ𝐸 = −56 MeV .
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                 Sociedade Portuguesa de Física
                                                 Avenida da República Nº45 3ºEsq
@@ -226,7 +232,9 @@ In the ultrarelativistic limit, 𝑣 ≈ 𝑐 and 𝐸 ≈ 𝑝𝑐. The cyclotr
 
 
                                                                                                               Confidential
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                                       Sociedade Portuguesa de Física
                                                       Avenida da República Nº45 3ºEsq
@@ -296,7 +304,9 @@ This is a quadratic equation, equivalent to
                                         0.88889 𝑝𝑧           + 101.64 𝑝𝑧 − 12378 = 0
 
 whose solutions are:
-                                Secretariado
+
+
+                                Secretariado
                                 IPhO 2018
                                                            Sociedade Portuguesa de Física
                                                            Avenida da República Nº45 3ºEsq
@@ -361,7 +371,9 @@ According to the frequency distribution for signal (dashed line), the probabilit
 solution is roughly 0.1 while the probability of the 𝑚t = 311.2 GeV/c2 solution is below 0.01. Therefore,
 
       B.4   The most likely candidate is the 𝑚t = 169.3 GeV/c2 solution.                                                        1.0pt
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                              Sociedade Portuguesa de Física
                                              Avenida da República Nº45 3ºEsq

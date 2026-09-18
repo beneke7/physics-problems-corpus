@@ -26,6 +26,6 @@ The video below shows a solid cylinder falling into water in slow motion. Determ
 
 When you submit your answer-only solution, send the formula for your final answer, and explain which measurements will be taken from the video. At this stage, you don’t yet need to perform the measurements – you can take your time to get good measurements and send the numerical answer only with your final solution (as always, within 48 hours from the initial submission).
 
-For making better measurements you are advised to download the video and open it with a video viewer that allows frame-by-frame navigation (e.g. MPC-HC with Ctrl-> and Ctrl<- for frame-by-frame navigation, or  VLC with “e” to go to the next frame). Don’t expect your answer to be very precise due to the inaccuracy of the measurements. 
+For making better measurements you are advised to download the video and open it with a video viewer that allows frame-by-frame navigation (e.g. MPC-HC with Ctrl-> and Ctrl<- for frame-by-frame navigation, or  VLC with “e” to go to the next frame). Don’t expect your answer to be very precise due to the inaccuracy of the measurements.
 
 Diving Cylinder

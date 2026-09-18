@@ -149,12 +149,12 @@ general result is
 Prad =
 q2
 6πϵ0c3
-
+
 1
 m
 dpµ
 dτ
-2
+ 2
 which clearly reduces to the Larmor formula in the nonrelativistic limit.
 (c) This radiation is also called synchrotron radiation. Qualitatively, how does its angular distri-
 bution differ from radiation from an accelerating nonrelativistic charge?
@@ -243,7 +243,7 @@ though, using just the basic equations above, you can show that the gravitomagne
 (v/c)2 times smaller than the usual gravitational force. Since galaxies rotate at v/c ∼ 10−3,
 the effect is about 106 times too small to fix the problem.
 2 Charges in Fields
-[5] Problem 14.  T 1 0IPhO 1991, problem 2. A problem on the subtle relativistic “hidden momentum”.
+[5] Problem 14.   T 1 0IPhO 1991, problem 2. A problem on the subtle relativistic “hidden momentum”.
 Solution. See the official solutions. There’s a minor typo, as noted here, though it doesn’t affect
 any answers. This remarkably subtle effect was discovered in the 1960s by Shockley and James;
 Shockley also won a Nobel prize for the transistor. For nice further discussion, see this paper.
@@ -411,11 +411,11 @@ Bav(r).
 where C is the particle’s momentary circular orbit, and we used Stokes’ theorem and then the
 definition of Bav. We still have mvr = qB(r)r2, so
 Jz = qr2
-
+
 −B +
 Bav
 2
-
+
 .
 If the quantity in parentheses doesn’t vanish, then conservation of Jz implies that r has to
 change as the field is changed. As we found in E4 using Newton’s laws, r can stay the same

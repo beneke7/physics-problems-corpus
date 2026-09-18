@@ -27,7 +27,7 @@ While in generic case, the dynamics of three gravitationally interacting bodies 
 
 Relatively recently, it was discovered that three equal point masses can move periodically along a common 8-shaped trajectory shown in the figure (arrow denotes the direction of motion). This figure is based on a computer simulation and has a correct shape. If needed, you can measure distances from the enlarged version of the figure (on a separate sheet) using a ruler.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-gravitational-racing-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-gravitational-racing-fig1.jpg)
 
 Let us enumerate the three bodies with numbers 1, 2, and 3, according to the order in which they pass the leftmost point $P$ shown in the figure. Let $O_{2}$ and $O_{3}$ denote the positions of the bodies 2 and 3, respectively at that moment when the body 1 is passing the middle point $O$. Similarly, let $P_{2}$ and $P_{3}$ denote the positions of the bodies 2 and 3, respectively at that moment when the body 1 is passing the leftmost point $P$. Let $T$ denote the full period of motion of each of the bodies along this 8-shaped trajectory.
 

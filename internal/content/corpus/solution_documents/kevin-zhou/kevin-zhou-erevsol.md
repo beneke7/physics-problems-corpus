@@ -53,8 +53,10 @@ p
 (r1 − r2)(1 − r2).
 Incidentally, this result was first derived by a French telegrapher, and is called Blavier’s method.
 Variations of this method are still used to locate breaks in cables today!
-1Kevin Zhou Physics Olympiad Handouts
-[3] Problem 2.  W 1 0USAPhO 2006, problem A2.
+1
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 2.   W 1 0USAPhO 2006, problem A2.
 [2] Problem 3 (Kalda). Not all circuits are made of only series and parallel combinations. The Y-∆
 transform is the next simplest tool you can use. Consider the two sets of resistors shown below.
 The two are equivalent provided that
@@ -88,13 +90,13 @@ q2
 4πϵ0
 X
 k=1,3,...
-
+
 1
 (kd − 2∆z)2
 −
 1
 (kd + 2∆z)2
-
+
 ≈
 q2
 4πϵ0
@@ -120,14 +122,16 @@ k3
 =
 ζ(3)
 8
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 which implies that S + ζ(3)/8 = ζ(3). Thus, we conclude that
 F = 7ζ(3)
 q2 ∆z
 4πϵ0d3
 .
 This force is relevant in measurements involving the oscillation frequencies of trapped ions.
-[3] Problem 5.  ^ 1 0IZhO 2022, problem 1.3. A three-dimensional electrostatics problem.
+[3] Problem 5.   ^ 1 0IZhO 2022, problem 1.3. A three-dimensional electrostatics problem.
 Solution. See the official solutions as usual. However, due to some algebraic errors, the final result
 is off by a factor of π, as pointed out in Stefan Ivanov’s errata. Referring to their rubric, the first 5
 formulas are right, but in going to formula 6, they drop the cosβ factor inside dq. Starting from
@@ -158,7 +162,7 @@ Q =
 2ϵ0mg
 σ
 .
-[5] Problem 6.  T 1 0IPhO 2012, problem 2. A challenging electrostatics and fluids problem; some
+[5] Problem 6.   T 1 0IPhO 2012, problem 2. A challenging electrostatics and fluids problem; some
 prior exposure to surface tension is helpful. (For more about the kinds of bubbles encountered in
 this problem, see section 5.9 of Physics of Continuous Matter by Lautrup.)
 2 Charges in Fields
@@ -182,7 +186,9 @@ mv0qB
 mv0α
 (qB)2 + α2
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 8 (APhO 2006). Two large, identical conducting plates α and β with charges −Q and
 +q (where Q > q > 0) are parallel to each other and fixed in place. Another identical plate γ with
 mass m and charge +Q is parallel to the original plates at distance d, as shown.
@@ -226,21 +232,23 @@ r
 d
 ϵ0mA
 (Q − q/2).
-[3] Problem 9.  W 1 0USAPhO 2017, problem A3. A real-world application of magnetism, with great
+[3] Problem 9.   W 1 0USAPhO 2017, problem A3. A real-world application of magnetism, with great
 historical importance. For much more on the mechanism illustrated in this question, see this article.
-[3] Problem 10.  ^ 1 0USAPhO 2023, problem A2.
-4Kevin Zhou Physics Olympiad Handouts
+[3] Problem 10.   ^ 1 0USAPhO 2023, problem A2.
+4
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 11. NBPhO 2010, problem 1. A contrived, but nice problem involving particles in fields.
 Solution. See the official solutions as usual. However, they have some typos. For part (ii), there
 should be a 2π on the right-hand side of the final answer. For part (iii), s + 2x is the displacement
 of the red ball after the blue ball enters the field, so the final inequality should be L > s + 2x.
-[3] Problem 12.  m 1 0APhO 2003, problem 3. A short problem on a “plasma lens”.
+[3] Problem 12.   m 1 0APhO 2003, problem 3. A short problem on a “plasma lens”.
 [4] Problem 13. APhO 2005, problem 2B. An elegant, tricky problem on focusing with magnetic
 fields. I recommend using Kai Wen Teo’s modified version.
 Solution. See Kai Wen Teo’s solution here.
 [4] Problem 14. @ 1 0IPhO 2011, problem 3. A problem on the interactions of charges and atoms.
-[3] Problem 15.  m 1 0USAPhO 2017, problem B2. A series of short calculations for a real-world setup.
-[5] Problem 16.  h 1 0IPhO 2021, problem 2. A comprehensive problem on E1 through E4.
+[3] Problem 15.   m 1 0USAPhO 2017, problem B2. A series of short calculations for a real-world setup.
+[5] Problem 16.   h 1 0IPhO 2021, problem 2. A comprehensive problem on E1 through E4.
 Remark
 You should almost never use a rotating frame to describe electromagnetic fields. Not only will
 you run into a more subtle version of the problems with field transformations, as described
@@ -268,7 +276,9 @@ mω2
 e
 r2
 .
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 But Gauss’s law tells us that
 E(r) =
 1
@@ -315,7 +325,9 @@ electrons free to move. If, when we rotated the ring, the positive ions moved bu
 stayed in place, we would have a large current.
 Of course, this isn’t realistic, because that would mean that moving any conducting object would
 produce a huge current. In reality, the electrons get pulled along with the ions due to their mutual
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 interaction, making the current almost cancel. But since the ions are continually accelerating, the
 electrons are always a bit behind, so their velocities differ, and there is a small net current. (Note
 that in addition to this effect, electrons are pushed to the outside edge of the ring by the same effect
@@ -344,7 +356,7 @@ B = µ0nI =
 2πµ0nmr2α
 eR
 .
-[5] Problem 19.  h 1 0EuPhO 2023, problem 3. A neat and rather difficult question, in a setup where
+[5] Problem 19.   h 1 0EuPhO 2023, problem 3. A neat and rather difficult question, in a setup where
 an eddy current can be computed exactly.
 3 Induction
 [3] Problem 20 (IPhO 2000). A thin copper wire of radius r and resistivity ρ is bent into a circular
@@ -353,13 +365,15 @@ rotating with angular frequency ω. The horizontal component of the local magnet
 is B. Neglecting any self-induction effects and assuming that B is small, find the time required for
 the angular frequency to halve. This is an example of “induction braking”.
 Solution. See the official solutions for IPhO 2000, problem 1.
-[3] Problem 21.  ^ 1 0USAPhO 2024, problem A1. How wires form a real LC circuit.
-[5] Problem 22.  T 1 0IZhO 2020, problem 3. A nice problem on electromagnetism and mechanics.
+[3] Problem 21.   ^ 1 0USAPhO 2024, problem A1. How wires form a real LC circuit.
+[5] Problem 22.   T 1 0IZhO 2020, problem 3. A nice problem on electromagnetism and mechanics.
 [5] Problem 23. APhO 2021, problem 3. A challenging problem on time-dependent image charges.
 4 Circuits
-[3] Problem 24.  W 1 0USAPhO 2007, problem A4.
+[3] Problem 24.   W 1 0USAPhO 2007, problem A4.
 [3] Problem 25. NBPhO 2009, problem 8. A review problem for RC and RL circuits.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 26 (Kalda). An electrical transformer is connected as shown.
 Both windings of the transformer have the same number of loops and the self-inductance of both
 coils is equal to L. There is no leakage of the magnetic field lines from the core, so that the mutual
@@ -391,9 +405,9 @@ Solving the differential equation yields
 I =
 2E
 R
-
+
 1 − e−tR/5L
-
+
 ,
 dI
 dt
@@ -417,7 +431,9 @@ I1 =
 E
 R
 .
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 5 Electrodynamics
 [3] Problem 27. Consider two infinite parallel plates held at z = h/2 and z = −h/2, with uniform
 charge densities σ and −σ respectively, and negligible mass. The plates are initially at rest.
@@ -474,7 +490,9 @@ reversal T. Explicitly, this means the following: suppose there are charge and c
 these fields, taking a path x(t). Under one of these symmetry transformation, all of these quantities
 can be changed, but the new fields should still obey Maxwell’s equations, and the path of the test
 charge should still obey Newton’s second law, ma = q(E + v × B).
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Under charge conjugation, the signs of all charges are flipped. What are the new charge and
 current densities ρ′(r,t) and J′(r,t)? What are the new fields E′(r,t) and B′(r,t)? The path
 of the test charge is still x′(t) = x(t). Verify it still obeys Newton’s second law.
@@ -521,7 +539,9 @@ x′
 (t) = a(−t).
 Therefore, we need the Lorentz force to stay the same. Indeed, E hasn’t flipped sign, while
 v × B has flipped sign twice.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The charge density is simply moved to a flipped position,
 ρ′
 (r,t) = ρ(−r,t).
@@ -566,7 +586,9 @@ CP. This is a rather unusual feature, as most of the rest of the terms in the St
 Lagrangian stay the same, or approximately the same, under CP. On the other hand, it is a
 famous theorem that in any relativistic quantum field theory, everything has to stay the same
 under CPT.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 In E7, you learned that an accelerating particle emits electromagnetic radiation, and
 therefore loses energy. But under time reversal, an accelerating particle is still accelerating,

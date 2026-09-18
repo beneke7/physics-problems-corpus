@@ -64,26 +64,26 @@ popular science articles, people often say this experiment proves that quantum m
 (d) For a small misalignment, the fraction of intensity lost goes up quadratically with the mismatch
 in angle, so we should have the polarizers uniformly spaced by angle θ/N. Then each filter
 multiplies the intensity by cos2(θ/N) ≈ 1 − θ2/N2, so the overall intensity is multiplied by
-
+
 1 −
 θ2
 N2
-N
+ N
 ≈ exp
-
+
 −
 θ2
 N
-
+
 .
 In the limit N → ∞, no intensity is lost. So in principle you can rotate polarization this way,
 though it’s better to just use a half-wave plate, which will be described below.
 Idea 3
 For a plane wave propagating along the z-axis with general polarization, it’s useful to write
 E(z,t) = Re
-
+
 E0 ei(kz−ωt)
-
+
 where E0 is a complex two-component vector, describing both its amplitude and polarization.
 For example, if E0 = E0 x̂, the light wave is horizontally polarized, if E0 = iE0 x̂, it’s
 horizontally polarized with a phase shifted by π/2, if E0 = E0 ŷ it’s vertically polarized, and

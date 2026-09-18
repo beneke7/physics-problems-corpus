@@ -23,7 +23,9 @@ Experimental Competition
 
 
     Sample Solution
-                                                     Part 1
+
+
+                                                     Part 1
 a. A sketch of the experimental setup (not required)
 
                                             Receiver
@@ -89,7 +91,9 @@ b. Data sheet (not required)
 
 
                                                          2
-101.2   0.589                          96.4           1.070             91.6               0.353           87.1    0.034
+
+
+101.2   0.589                          96.4           1.070             91.6               0.353           87.1    0.034
 101.1   0.781                          96.3           1.018             91.4               0.018           87.0   ­0.018
 101.0   0.954                          96.2           0.865             91.2               0.394           86.9    0.178
 104.0   0.609                          100.9          1.016             96.0               0.514           91.0    0.925
@@ -157,7 +161,9 @@ b. Data sheet (not required)
 
 
                                                                    3
-From the graph (not required) or otherwise, the positions of the first maximum point and
+
+
+From the graph (not required) or otherwise, the positions of the first maximum point and
 12th maximum point are measured at 87.8 cm and 103.6 cm.
 The wavelength is calculated by
                  l       103.6 - 87.8
@@ -178,7 +184,9 @@ Error analysis
 
 
                                                   4
-                                             Part 2
+
+
+                                             Part 2
 (a)    Deduction of interference conditions
 
                                                                A
@@ -220,7 +228,9 @@ thin film from I ­ q 1spectrum (I is the intensity of the interfered beam).
 
 
                                                      5
-      (b)      A sketch of the experimental setup
+
+
+      (b)      A sketch of the experimental setup
 
 
 
@@ -272,7 +282,9 @@ thin film from I ­ q 1spectrum (I is the intensity of the interfered beam).
 
 
                                                          6
-         58.0               0.566
+
+
+         58.0               0.566
          59.0               0.622
          60.0               0.664
          61.0               0.691
@@ -330,7 +342,9 @@ To calculate the refractive index, the following equations are used:            
 
 
                                                               7
-                         2t n 2 - sin 2 48 o = ml (m = 1, 2, 3,...)                 (1)
+
+
+                         2t n 2 - sin 2 48 o = ml (m = 1, 2, 3,...)                 (1)
                                                       1
 and                      2t n 2 - sin 2 70.5 o = ( m - )l                           (2)
                                                       2
@@ -374,7 +388,9 @@ Thus,                    n + Dn = 1.54 ±0.02                                   
 
 
                                                         8
-                                               Part 3
+
+
+                                               Part 3
 
                                        Sample Solution
     Task 1
@@ -427,7 +443,9 @@ X: d(cm)   DX(cm)                                      DS(mA)#    It (mA)2*    D
       DY = D(lnIt) = D(It)/It
 
                                                    9
-Task 3
+
+
+Task 3
 By plotting appropriate graphs, determine the refractive index, n1, of the prism with error
 analysis. Write the refractive index n1, and its uncertainty ∆n1, of the prism in the answer
 sheet provided.
@@ -455,7 +473,9 @@ Least Square Fitting
 
 
                                                10
-From I t = I 0 exp ( -2g d ) , taking natural log on both sides, we obtain:
+
+
+From I t = I 0 exp ( -2g d ) , taking natural log on both sides, we obtain:
 
                                ln( I t ) = -2g d + ln( I 0 )
 
@@ -513,7 +533,9 @@ where q1 = 60o, k2 = 2p/l ª 2.20 (using the wavelength determined from earlier 
 
 
                                                11
-Error Analysis for refractive index of n1
+
+
+Error Analysis for refractive index of n1
 
                                  È k 2 + g 2 12 ˘          È k 2 + g 2 12 ˘
                        Dn1 =
@@ -549,7 +571,9 @@ Note: Other methods of error analysis are also accepted.
 
 
                                                  12
-                                         Part 4
+
+
+                                         Part 4
 
 
 Task 1
@@ -584,7 +608,9 @@ Conditions necessary for the observation of diffraction peaks:
 
 
                                             13
-                 Figure 4.2: Schematic diagram for deriving Bragg's law.
+
+
+                 Figure 4.2: Schematic diagram for deriving Bragg's law.
 
 
 h = d sinq                                    (1).
@@ -615,7 +641,9 @@ For diffraction to occur, the path difference must satisfy,
 
 
                                              14
-Fig. 4.4 Actual lattice used for the
+
+
+Fig. 4.4 Actual lattice used for the
 experiment (this Figure is not required)
 
 
@@ -653,7 +681,9 @@ Task 2 (a)
 
 
                                              15
-Task 2(b) & 2(c)
+
+
+Task 2(b) & 2(c)
 
 Data Set
 
@@ -729,7 +759,9 @@ From Fig. 4.3,
 
 
                                                                         16
-a = 2d                              (5)
+
+
+a = 2d                              (5)
 
 Combine eqs (4) and (5), we obtain,
 
@@ -781,7 +813,9 @@ Known uncertainties:
 
 
                                                  17
-                            l
+
+
+                            l
 From:        a=
                       2 sin q max
                  Dl                  l          d

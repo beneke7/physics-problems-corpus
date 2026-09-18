@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: pending
 ---
 
-What is the distance between the optical axis of a glass sphere of radius R and that light ray which travels parallel to the optical axis and which leaves the glass at the point where the optical axis intersects the sphere? (The refractive index is 1.6.) 
+What is the distance between the optical axis of a glass sphere of radius R and that light ray which travels parallel to the optical axis and which leaves the glass at the point where the optical axis intersects the sphere? (The refractive index is 1.6.)
  (4 pont)

@@ -20,4 +20,4 @@ verification_status: pending
 
 [IPhO-1967 ${ }^{16}$] Határozzuk meg a végtelen periodikus áramkör ellenállását.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr16-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr16-fig1.jpg)

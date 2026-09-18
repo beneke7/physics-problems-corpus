@@ -20,4 +20,4 @@ verification_status: pending
 
 Számítsuk ki az elhajlási rács mögött kialakuló elhajlási képet, ha a rés szélessége a rácsállandó $a$ fele.
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr5-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr5-fig1.jpg)

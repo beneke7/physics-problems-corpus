@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy motorcsónak állandó $v=7 \mathrm{~m} / \mathrm{s}$ sebességgel halad a széles folyón az $A$ faluból a folyón át a $B$ faluba. A következő kérdések megválaszolásakor mérhetünk az alábbi, a csónak mögötti hullámokat ábrázoló ábrán. Mekkora a folyó sebessége, és mekkora a vízmélység $h$? Megjegyzés: sekély vízben a hullámsebesség ${ }^{17}$ értéke $w=\sqrt{g h}$, ahol $g=9.81 \mathrm{~m} / \mathrm{s}^{2}$.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr62-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr62-fig1.jpg)

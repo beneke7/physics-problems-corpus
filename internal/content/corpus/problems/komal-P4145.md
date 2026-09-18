@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200903"
 verification_status: pending
 ---
 
-A passenger train passes a railroad-crossing at a speed of 72 km/h, and it blows a whistle at a frequency of 170 Hz. What is the pitch interval which is sensed by an observer standing next to the railroad-crossing? 
+A passenger train passes a railroad-crossing at a speed of 72 km/h, and it blows a whistle at a frequency of 170 Hz. What is the pitch interval which is sensed by an observer standing next to the railroad-crossing?
  (4 pont)

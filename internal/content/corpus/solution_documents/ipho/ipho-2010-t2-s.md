@@ -62,7 +62,9 @@ From this we get
  (h)  2 gh            1 .
                   Smoke 
 The chimney will be efficient if all of its products are released in the atmosphere, i.e.,
-      41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010          2/4
+
+
+      41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010          2/4
 
 
            B                                                  (5)
@@ -116,7 +118,9 @@ v  B/ A.
 psmoke ( z )  p(0)  (  Air   Smoke ) gh   Smoke gz .                      (11)
 Thus the pressure of smoke suddenly changes as it enters the chimney from the furnace and acquires
 velocity.
-      41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010   3/4
+
+
+      41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010   3/4
 
 
 Solution of Task 2
@@ -170,7 +174,9 @@ which yields
        G 2 S 2TAtm 1 / 3                             (20)
 T  ( 2 2 2         )  9.1 K.
       A c  Hot 2 gh
-     41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010   4/4
+
+
+     41st International Physics Olympiad, Croatia – Theoretical competition, July 19th, 2010   4/4
 
 
 From this we get

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame, cross-domain-analogy]
 ---
 
-An ,,observer'' moving at a speed of $\boldsymbol v_0$ in uniform magnetic field of magnetic induction of ${\boldsymbol B}_0$, detects an electric field of ${\boldsymbol E}_0= {\boldsymbol v}_0\times {\boldsymbol B}_0$, if $v_0\ll c$ . 
- Does the opposite phenomenon exist? Does the observer moving in uniform electric field detect magnetic field? (Only high-school knowledge is to be used.) 
+An ,,observer'' moving at a speed of $\boldsymbol v_0$ in uniform magnetic field of magnetic induction of ${\boldsymbol B}_0$, detects an electric field of ${\boldsymbol E}_0= {\boldsymbol v}_0\times {\boldsymbol B}_0$, if $v_0\ll c$ .
+ Does the opposite phenomenon exist? Does the observer moving in uniform electric field detect magnetic field? (Only high-school knowledge is to be used.)
  (5 pont)

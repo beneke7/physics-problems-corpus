@@ -103,7 +103,7 @@ p
 1 + (dy/dx)2 dx ≈
 Z L
 0
-
+
 1 +
 y2
 0T
@@ -112,7 +112,7 @@ cos2
 (
 p
 T/κx)
-
+
 dx
 where we used the binomial theorem. This yields ∆x = y2
 0TL/4κ, and solving for y0 gives
@@ -184,10 +184,10 @@ At the limiting angle when the velocity monotonically increases, v2 will be the 
 velocity, so v2 is perpendicular to the blue line. That means that the angle θ from the
 downward direction needs to satisfy
 |θ| < arccos
-
+
 v2
 v1
-
+
 .
 [3] Problem 5 (PPP 42). A uniform rod of mass m and length ℓ is supported horizontally at its ends
 by two fingers. As the fingers are slowly brought together, the rod alternates between sliding on
@@ -209,10 +209,10 @@ a
 mgµkx2
 x1 + x2
 dx1 = mgµkx2 log
-
+
 x2 + a
 x2 + b
-
+
 4
 Kevin Zhou Physics Olympiad Handouts
 Each finger does work until the ratio of the forces is µs/µk, and the ratio of the distances is
@@ -221,42 +221,42 @@ W = −
 1
 2
 mgµkℓ
-
+
 log
-
+
 1 + r
 2
-
+
 + rlog
-
+
 r + r2
 1 + r
-
+
 + r2
 log
-
+
 r2 + r3
 r + r2
-
+
 + ...
-
+
 which means
 −
 W
 1
 2mgµkℓ
 = log
-
+
 1 + r
 2
-
+
 +rlog(r)+r2
 log(r)+r3
 log(r)+... = log
-
+
 1 + r
 2
-
+
 +
 r
 1 − r
@@ -266,20 +266,20 @@ W =
 1
 2
 mgµkℓ
-
+
 log
-
+
 2µs
 µk + µs
-
+
 +
 µk
 µs − µk
 log
-
+
 µs
 µk
-
+
 .
 This is a pretty complicated expression, so let’s check it with limiting cases. Let µs = µk(1+ϵ)
 where ϵ ≪ 1. The first logarithm term is O(ϵ), so
@@ -287,11 +287,11 @@ W =
 1
 2
 mgµkℓ
-
+
 1
 ϵ
 log(1 + ϵ) + O(ϵ)
-
+
 =
 1
 2

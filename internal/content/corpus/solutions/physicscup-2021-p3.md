@@ -33,7 +33,7 @@ $$ V = 8\cdot\tfrac12 k\theta^2 = 4k\left(\frac{\sqrt2 x}{l}\right)^2 = 8\frac{k
 and the kinetic energy
 $$ T = 4\cdot\tfrac12 m\dot x^2 + 4\cdot\tfrac12 m\left(\frac{\dot x}{\sqrt2}\right)^2 + 4\cdot\tfrac12\cdot\tfrac1{12}ml^2\dot\theta^2 = 2m\dot x^2 + m\dot x^2 + \tfrac16 ml^2\frac{2\dot x^2}{l^2} = \tfrac{10}{3}m\dot x^2. $$
 
-![Figure 1: n = 2, the elliptical deformation. Blue bars translate by x perpendicular to themselves, green bars by x/√2 parallel to themselves.](../../sources/physicscup/figures/physicscup-2021-p3-sol-1.png)
+![Figure 1: n = 2, the elliptical deformation. Blue bars translate by x perpendicular to themselves, green bars by x/√2 parallel to themselves.](../../../../../sources/physicscup/figures/physicscup-2021-p3-sol-1.png)
 
 The frequency is therefore
 $$ f = \frac{1}{2\pi}\sqrt{\frac{8\,k/l^2}{\tfrac{10}{3}m}} = \frac{1}{2\pi}\sqrt{\frac{12}{5}\frac{k}{ml^2}}. $$
@@ -43,7 +43,7 @@ Since the octagon may be compressed along any direction, there are **two** indep
 
 The purple bars translate downward while the corners on the two sides swing up. After half a period the configuration is the horizontal reflection of the start, so by symmetry the two purple bars have equal amplitude; take their common displacement to be $x\ll l$ (Figure 2). Since the centre of mass stays at rest, in the rest frame of the purple bars (the "purple frame") it is displaced upward by $x$. It suffices to rotate the four green bars by $\theta = 2\sqrt2\,x/l$; the two blue bars then shift upward by $2x$ in the purple frame, and the green-bar COMs move up by $x$, so the whole-octagon COM rises by $(2m\cdot 2x + 4m\cdot x)/(8m) = x$ in the purple frame, as required.
 
-![Figure 2: n = 3, the triangular deformation. Green bars rotate, blue bars are displaced by 2√2 x, the purple (top/bottom) bars set the working frame.](../../sources/physicscup/figures/physicscup-2021-p3-sol-2.png)
+![Figure 2: n = 3, the triangular deformation. Green bars rotate, blue bars are displaced by 2√2 x, the purple (top/bottom) bars set the working frame.](../../../../../sources/physicscup/figures/physicscup-2021-p3-sol-2.png)
 
 The blue bars rotate by $\varphi = 4x/l$, so
 $$ V = 4\cdot\tfrac12 k\theta^2 + 4\cdot\tfrac12 k(\theta+\varphi)^2 = 2k\left(\frac{2\sqrt2 x}{l}\right)^2 + 2k\left(\frac{(4+2\sqrt2)x}{l}\right)^2 = 32\left(2+\sqrt2\right)\frac{k}{l^2}x^2. $$
@@ -61,7 +61,7 @@ Every corner is displaced by $x\ll l$ perpendicular to the (un-displaced) octago
 $$ V = 8\cdot\tfrac12 k(2\theta)^2 = 4k\left(\frac{4x\cos(\pi/8)}{l}\right)^2 = 64\cos^2\!\left(\tfrac\pi8\right)\frac{k}{l^2}x^2 = 16\left(2+\sqrt2\right)\frac{k}{l^2}x^2, $$
 $$ T = 8\left[\tfrac12 m\left(\dot x\sin\tfrac\pi8\right)^2 + \tfrac12\cdot\tfrac1{12}ml^2\dot\theta^2\right] = \left[4\sin^2\!\tfrac\pi8 + \tfrac43\cos^2\!\tfrac\pi8\right]m\dot x^2 = \left(2-\sqrt2 + \frac{2+\sqrt2}{3}\right)m\dot x^2 = \frac{8-2\sqrt2}{3}m\dot x^2. $$
 
-![Figure 3: n = 4, the square deformation. All eight corners move in/out together with alternating sign — a single independent mode.](../../sources/physicscup/figures/physicscup-2021-p3-sol-3.png)
+![Figure 3: n = 4, the square deformation. All eight corners move in/out together with alternating sign — a single independent mode.](../../../../../sources/physicscup/figures/physicscup-2021-p3-sol-3.png)
 
 The frequency is
 $$ f = \frac{1}{2\pi}\sqrt{\frac{16\left(2+\sqrt2\right)k/l^2}{\tfrac{8-2\sqrt2}{3}m}} = \frac{1}{2\pi}\sqrt{\frac{24}{7}\left(5+3\sqrt2\right)\frac{k}{ml^2}}. $$

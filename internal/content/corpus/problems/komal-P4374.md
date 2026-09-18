@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates]
 ---
 
-In a garden a spherical sprinkler is used at the end of the hose, from which the speed of the flowing water is the same to every direction. The water beam which is directed vertically upward reaches a height of  h . Once the sprinkler is placed to the ground and at another time to a height of  h . By what factor will the watered area be greater in the second case? (Neglect air resistance and consider the pressure in the sprinkler constant.) 
+In a garden a spherical sprinkler is used at the end of the hose, from which the speed of the flowing water is the same to every direction. The water beam which is directed vertically upward reaches a height of  h . Once the sprinkler is placed to the ground and at another time to a height of  h . By what factor will the watered area be greater in the second case? (Neglect air resistance and consider the pressure in the sprinkler constant.)
  (5 pont)

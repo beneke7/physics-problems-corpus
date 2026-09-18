@@ -39,7 +39,7 @@ Under this assumption, with $T_\text{side}$ the vertex-to-vertex time, $T = 3T_\
   - $v_{y}=0$ at $M$;
   - acceleration magnitude always $\mu g$.
 
-![Figure 1: An example trajectory of the boy from A to B. The velocity at A makes 60° with the side; C is a generic point; M is the midpoint, where the velocity is tangential (horizontal).](../../sources/physicscup/figures/physicscup-2022-p2-sol-1.png)
+![Figure 1: An example trajectory of the boy from A to B. The velocity at A makes 60° with the side; C is a generic point; M is the midpoint, where the velocity is tangential (horizontal).](../../../../../sources/physicscup/figures/physicscup-2022-p2-sol-1.png)
 
 ### 2. Minimization of the time
 

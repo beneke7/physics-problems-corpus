@@ -30,4 +30,4 @@ ii) Hány lapátja van a légcsavarnak?
 iii) Hány fordulatot tesz meg a légcsavar percenként, ha a kép teljes beolvasási
 ideje $\frac{1}{8}$ másodperc volt?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr32-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr32-fig1.jpg)

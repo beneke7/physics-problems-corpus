@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-A concave and a convex spherical mirror with small aperture (with respect to the radius) and of radius $R$ are placed at a distance of $1.25R$ from each other as shown in the figure . 
- At which point $T$ on the common principal axis should a point source of light be placed so that the light rays emitted from it pass through the point $T$ after reflection in the two mirrors? 
+A concave and a convex spherical mirror with small aperture (with respect to the radius) and of radius $R$ are placed at a distance of $1.25R$ from each other as shown in the figure .
+ At which point $T$ on the common principal axis should a point source of light be placed so that the light rays emitted from it pass through the point $T$ after reflection in the two mirrors?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5559-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5559-fig1.gif)

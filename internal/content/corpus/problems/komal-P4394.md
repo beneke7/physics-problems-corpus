@@ -22,10 +22,10 @@ verification_status: flagged
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A semi-cylinder is cut out of a block and the block is fixed on the horizontal surface. A small body of mass m is released at the top of the cylinder shaped hole. (Friction is negligible.) 
+A semi-cylinder is cut out of a block and the block is fixed on the horizontal surface. A small body of mass m is released at the top of the cylinder shaped hole. (Friction is negligible.)
 
- a ) What is the force that the small body exerts on the block at the lowest point of its path? 
- b ) If the block is able to move on the horizontal surface without friction, then the force exerted on the block by the small body at the lowest point is . By what fraction is the mass of the block greater than the mass of the small body? 
+ a ) What is the force that the small body exerts on the block at the lowest point of its path?
+ b ) If the block is able to move on the horizontal surface without friction, then the force exerted on the block by the small body at the lowest point is . By what fraction is the mass of the block greater than the mass of the small body?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4394-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4394-fig1.gif)

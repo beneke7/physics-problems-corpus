@@ -61,7 +61,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam           Cover Sheet                                           2
+
+
+2015 USA Physics Olympiad Exam           Cover Sheet                                           2
 
 
 
@@ -98,18 +100,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                               G = 6.67 × 10−11 N · m2 /kg2
                                 9
-     k = 1/4π0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                         kB = 1.38 × 10−23 J/K
                        23
      NA = 6.02 × 10 (mol)       −1              R = NA kB = 8.31 J/(mol · K)
                      −8
      σ = 5.67 × 10 J/(s · m · K ) 2  4          e = 1.602 × 10−19 C
      1eV = 1.602 × 10     −19 J                 h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1              cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1              cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                 Part A                                              3
+
+
+2015 USA Physics Olympiad Exam                 Part A                                              3
 
 
 
@@ -148,7 +152,7 @@ of free fall is g. Treat the particle as a point mass and assume the motion is n
 
   b. A second approach allows us to develop an estimate for the actual allowed energy levels of a
      bouncing particle. Assuming that the particle rises to a height H, we can write
-                                        Z H                 
+                                        Z H
                                                            1
                                       2     p dx = n +         h
                                          0                 2
@@ -167,7 +171,9 @@ of free fall is g. Treat the particle as a point mass and assume the motion is n
 
 
                     Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                 Part A                                          4
+
+
+2015 USA Physics Olympiad Exam                 Part A                                          4
 
 
 
@@ -175,7 +181,7 @@ of free fall is g. Treat the particle as a point mass and assume the motion is n
                                                Solution
 
     We simply evaluate the given integral,
-                                         Z H
+                                           Z H
                                1
                            n+      h = 2       p dx
                                2            0
@@ -200,7 +206,7 @@ of free fall is g. Treat the particle as a point mass and assume the motion is n
                                                mg 3
     so                                     r
                                                9mg 2 h2       1 2/3
-                                                               
+
                                            3
                                     En =                   n+       .
                                                  32           2
@@ -235,7 +241,9 @@ of free fall is g. Treat the particle as a point mass and assume the motion is n
 
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part A                                              5
+
+
+2015 USA Physics Olympiad Exam                Part A                                              5
 
 
 
@@ -287,7 +295,9 @@ is the same.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part A                                                6
+
+
+2015 USA Physics Olympiad Exam                Part A                                                6
 
 
 
@@ -330,7 +340,9 @@ is the same.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                 Part A                                               7
+
+
+2015 USA Physics Olympiad Exam                 Part A                                               7
 
 
 
@@ -365,14 +377,14 @@ A away from the equilibrium position and then released from rest.
                                                    mt + mb
      so
                                                amax ≥ Aω2 2
-     or                                                          
+     or
                                                  mt          mt
                                          Ac = µg          1+          .
                                                  k           mb
 
 
 
-  b. Consider now the scenario A  Ac . In this scenario the amplitude of the oscillation of the top
+  b. Consider now the scenario A   Ac . In this scenario the amplitude of the oscillation of the top
      block as measured against the original equilibrium position will change with time. Determine
      the magnitude of the change in amplitude, ∆A, after one complete oscillation, as a function
      of any or all of A, µ, g, and the angular frequency of oscillation of the top block ωt .
@@ -387,7 +399,9 @@ A away from the equilibrium position and then released from rest.
 
 
                    Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam               Part A                                             8
+
+
+2015 USA Physics Olympiad Exam               Part A                                             8
 
 
 
@@ -396,7 +410,7 @@ A away from the equilibrium position and then released from rest.
 
                                              ∆E = kA∆A.
 
-    If A  Ac , then the top block has almost completed a complete half cycle before the bottom
+    If A   Ac , then the top block has almost completed a complete half cycle before the bottom
     block catches up with it, so the energy lost in half a cycle is approximately
                                         1
                                           ∆E = 2Af = 2Aµmt g
@@ -408,7 +422,7 @@ A away from the equilibrium position and then released from rest.
 
 
 
-  c. Assume still that A  Ac . What is the maximum speed of the bottom block during the first
+  c. Assume still that A   Ac . What is the maximum speed of the bottom block during the first
      complete oscillation cycle of the upper block?
 
 
@@ -434,7 +448,9 @@ A away from the equilibrium position and then released from rest.
 
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part A                                              9
+
+
+2015 USA Physics Olympiad Exam                Part A                                              9
 
 
 
@@ -487,7 +503,9 @@ temperature ∆T is related to a change in pressure ∆P according to
 
 
                    Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                                  Part A                                       10
+
+
+2015 USA Physics Olympiad Exam                                  Part A                                       10
 
 
 
@@ -525,7 +543,7 @@ comes from. We are using the Magnus form to approximate the coexistence curve,
                                                   P = (610.94 Pa)e17.625/(1+243.04/T )
 where T is measured in centigrade. This is closely related to the result that can be derived from
 the Clausius-Clapeyron equation for ideal gases,
-                                                                                     
+
                                                                       L       T −T0
                                                            P = P0 e   R        T T0
 
@@ -533,13 +551,13 @@ the Clausius-Clapeyron equation for ideal gases,
 where we assume the temperature is low compared to the critical temperature and the latent heat
 L is a constant.
     To get ∆P/∆T , we used the cyclic chain rule
-                                                
+
                                  ∂P       ∂V      ∂T
                                                          = −1
                                  ∂T V ∂P T ∂V P
 where subscripts indicate what is being held constant. Dropping those for convenience,
                                                      (6 × 10−4 K−1 )
-                                     
+
               ∂P           ∂P      1 ∂V      βV T
                    = −V                   =       ≈                   ≈ 106 Pa/K.
               ∂T           ∂V     V ∂T       βP V   (5 × 10−10 Pa−1 )
@@ -547,7 +565,9 @@ The specific value is not important; the point is that a very small change in th
 liquid in a fixed volume will result in a very large change in the pressure.
 
                    Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                               Part A                            11
+
+
+2015 USA Physics Olympiad Exam                               Part A                            11
 
 
 
@@ -592,7 +612,9 @@ The correct graphs are shown below.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                                Part A                               12
+
+
+2015 USA Physics Olympiad Exam                                Part A                               12
 
 
 
@@ -651,7 +673,9 @@ condenses.
 the coexistence curve to the minimum pressure, at which time the piston is freed and allowed to
 
                    Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part A                                             13
+
+
+2015 USA Physics Olympiad Exam                Part A                                             13
 
 
 
@@ -670,7 +694,9 @@ range [V0 , 2V0 ] for full credit and [2V0 , 5V0 ] for partial credit.
 
 
                    Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam          Part A                             14
+
+
+2015 USA Physics Olympiad Exam          Part A                             14
 
 
 
@@ -686,7 +712,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part B                                              15
+
+
+2015 USA Physics Olympiad Exam                Part B                                              15
 
 
 
@@ -723,7 +751,7 @@ they are not equally weighted.
                                                   dv = − dm.
                                                ve       m
           Integrating both sides gives
-                                                                                    
+
                             1          mr + mf                               mr + mf
                               v = ln                   ⇒     v = ve ln                     .
                            ve            mr                                    mr
@@ -740,7 +768,9 @@ they are not equally weighted.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part B                                                16
+
+
+2015 USA Physics Olympiad Exam                Part B                                                16
 
 
 
@@ -775,24 +805,26 @@ they are not equally weighted.
                                           v −   = E,             v 1 R 1 = v2 R 2 .
                                         2     r
          Combining and eliminating v2 ,
-                                                                        2
+                                                                          2
                                     1 2 GMS    1                    R1            GMS
                                       v1 −    = v1 2                          −
                                     2      R1  2                    R2             R2
          which can be solved for v1 ,
-                                                        2 !
+                                                          2 !
                                    1 2              R1                       R2 − R1
                                      v1    1−                   = GMS                .
                                    2                R2                        R1 R2
 
          Setting R1 = RE and R2 = RM , we have α = R1 /R2 , so
                                                                                         r
-                          1 2          GMS                                                  2
+                          1 2           GMS                                                  2
                             v1 1 − α 2 =    (1 − α)                 ⇒         v1 = vE           .
                           2              R1                                                 1+α
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam               Part B                                                     17
+
+
+2015 USA Physics Olympiad Exam               Part B                                                     17
 
 
 
@@ -811,7 +843,7 @@ they are not equally weighted.
                                                 Solution
          This is similar to the previous part, except we now eliminate v1 ,
                                                                                      s
-                    1 2             GMS                                                       2
+                    1 2              GMS                                                       2
                       v2 1 − (1/α)2 =    (1 − (1/α))              ⇒        v2 = vM                  .
                     2                 R2                                                    1 + 1/α
 
@@ -829,21 +861,21 @@ they are not equally weighted.
 
                                                 Solution
          Kepler’s third law gives the time for the orbital transfer,
-                                                         3/2                  3/2
+                                                           3/2                    3/2
                               T   1       (RE + RM ) /2            1       α+1
                                 =                                =                      .
                              TM   2           RM                   2        2
 
          During this time Mars moves through an angle of
-                                                                3/2
+                                                                  3/2
                                                T          α+1
                                            2π    =π
                                               TM           2
 
          while the rocket moves through an angle of π, so the angular separation from Earth will
-         be                                                 !
+         be                                                  !
                                                     α + 1 3/2
-                                                  
+
                                       θ =π 1−                    .
                                                        2
 
@@ -851,7 +883,9 @@ they are not equally weighted.
 
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam              Part B                                            18
+
+
+2015 USA Physics Olympiad Exam              Part B                                            18
 
 
 
@@ -897,7 +931,7 @@ The nature of magnetic dipoles.
 
                                                  Solution
           Simplifying our previous expression,
-                                                                       
+
                                               µ0             2 + d/z
                                        B(z) =    qm d                       .
                                               4π            z(z + d)2
@@ -909,7 +943,9 @@ The nature of magnetic dipoles.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam               Part B                                             19
+
+
+2015 USA Physics Olympiad Exam               Part B                                             19
 
 
 
@@ -969,7 +1005,9 @@ The nature of magnetic dipoles.
 
 
                   Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam               Part B                                             20
+
+
+2015 USA Physics Olympiad Exam               Part B                                             20
 
 
 
@@ -1010,7 +1048,7 @@ The nature of magnetic dipoles.
                                       +qm
                        Gilbert Dipole                     Ampère Dipole
 
-       i. Assume that R  L and only Gilbert type dipoles, determine the magnitude and direc-
+       i. Assume that R   L and only Gilbert type dipoles, determine the magnitude and direc-
           tion of B at the center of the cylinder in terms of any or all of pm , R, L, vm , and any
           necessary fundamental constants.
 
@@ -1018,7 +1056,9 @@ The nature of magnetic dipoles.
 
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                Part B                                             21
+
+
+2015 USA Physics Olympiad Exam                Part B                                             21
 
 
 
@@ -1035,7 +1075,7 @@ The nature of magnetic dipoles.
                                                                  d3
          and the direction is to the left.
 
-      ii. Assume that R  L and only Ampère type dipoles, determine the magnitude and
+      ii. Assume that R   L and only Ampère type dipoles, determine the magnitude and
           direction of B at the center of the cylinder in terms of any or all of pm , R, L, vm , and
           any necessary fundamental constants.
 
@@ -1056,7 +1096,9 @@ The nature of magnetic dipoles.
 
 
                  Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam      Answer Sheets                          22
+
+
+2015 USA Physics Olympiad Exam      Answer Sheets                          22
 
 
 
@@ -1070,7 +1112,9 @@ The nature of magnetic dipoles.
 
 
                Copyright c 2015 American Association of Physics Teachers
-2015 USA Physics Olympiad Exam                              Answer Sheets                      14
+
+
+2015 USA Physics Olympiad Exam                              Answer Sheets                      14
 
 
 

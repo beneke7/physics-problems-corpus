@@ -18,14 +18,14 @@ excited state with energy E0. Suppose it is only known that the total energy of 
 (a) In P1, we discussed Stirling’s approximation: for large N, logN! ≈ N logN − N. Using this
 result, show that the entropy of the system is
 S = NkB
-
+
 αlog
 1
 α
 + (1 − α)log
 1
 1 − α
-
+
 .
 Sketch the entropy as a function of α.
 (b) Using the definition of temperature, dS = d̄Q/T, show that the system has a temperature of
@@ -42,7 +42,7 @@ get α = 1/2? How about α = 1?
 as before. Show that the probability it is excited obeys the Boltzmann distribution.
 Solution. (a) We see that Ω = N
 αN
-
+
 = N!
 (αN)!((1−α)N)!, so
 logΩ ≈ N logN − αN log(αN) − (1 − α)N log((1 − α)N).
@@ -50,14 +50,14 @@ logΩ ≈ N logN − αN log(αN) − (1 − α)N log((1 − α)N).
 Kevin Zhou Physics Olympiad Handouts
 Expanding the logarithms and simplifying, we get
 S = kB logΩ = NkB
-
+
 αlog
 1
 α
 + (1 − α)log
 1
 1 − α
-
+
 .
 (b) We see that d̄Q = NE0 dα, and
 dS = NkB (log(1 − α) − logα)dα.

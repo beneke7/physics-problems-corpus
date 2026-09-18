@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy könnyű drótrúd végét $r$ sugarú gyűrűvé hajlítjuk. A rúd egyenes szakasza $l$ hosszú; a másik végére $M$ tömegű golyót erősítünk. Az így kialakított ingát a gyűrűvel egy forgó tengelyre akasztjuk. A tengely és a gyűrű közötti súrlódási együttható $\mu$. Határozzuk meg a rúd és a függőleges által bezárt egyensúlyi szöget.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr1-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr1-fig1.jpg)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201802"
 verification_status: pending
 ---
 
-Measure how the force exerted by the prongs of a clothes peg depends on the angle between the prongs. 
+Measure how the force exerted by the prongs of a clothes peg depends on the angle between the prongs.
  (6 pont)

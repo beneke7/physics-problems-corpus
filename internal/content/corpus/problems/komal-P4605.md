@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201402"
 verification_status: flagged
 ---
 
-The terminal voltages of the power supplies shown in the figure are constant, and the values of the terminal voltage are: U $_{1}$=15 V and U $_{2}$=45 V. The resistances of the resistors are R $_{1}$=10  and R $_{2}$=20  . 
+The terminal voltages of the power supplies shown in the figure are constant, and the values of the terminal voltage are: U $_{1}$=15 V and U $_{2}$=45 V. The resistances of the resistors are R $_{1}$=10  and R $_{2}$=20  .
 
- a ) What are the readings shown by the meters, which are considered ideal? 
- b ) Solve the problem, if the two meters are swapped over. 
+ a ) What are the readings shown by the meters, which are considered ideal?
+ b ) Solve the problem, if the two meters are swapped over.
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4605-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4605-fig1.gif)

@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 vös Loránd Fizikaverseny, népszer¶ nevén Eötvös-verseny. Az ország 15 városában várták a verseny helyi szervez®i
 azokat a diákokat, akik vagy még középiskolások voltak ebben a tanévben, vagy 2007-ben fejezték be középiskolai
 tanulmányaikat. (Nem      sak magyar állampolgárságú, hanem külföldi diákok is indulhatnak az Eötvös-versenyen, akik
-magyar nyelven tanulják/tanulták a zikát Magyarországon, vagy valamelyik környez® országban.) A feladatokat a
+magyar nyelven tanulják/tanulták a  zikát Magyarországon, vagy valamelyik környez® országban.) A feladatokat a
 Versenybizottság állítja össze, ennek elnöke Radnai Gyula, tagjai Gnädig Péter, Honyek Gyula és Károlyházy Frigyes.
 Megoldási id® 300 per ; a megoldáshoz bármilyen írott vagy nyomtatott könyv, füzet felhasználható, amit a diák ma-
 gával hoz a versenyre. Saját zsebszámológépét is használhatja, de természetesen a verseny ideje alatt nem használhat
@@ -74,7 +74,9 @@ lett, akkor a vízszint   sökkenni kezd. A kialakuló állapot stabil egyensúl
                                                          σ
                                                               = H̺g
                                                      (h − H)ϕ
-egyensúlyi feltétel! Átalakítva és az ismert adatokat behelyettesítve
+
+
+egyensúlyi feltétel! Átalakítva és az ismert adatokat behelyettesítve
 
                                                    σ
                                      H(h − H) =       = 1,4 · 10−4 m2 = 140 mm2 .
@@ -126,7 +128,9 @@ alkalmazni. (Ekkor jelenik meg a      görbületi nyomás!) Nem kaphattak helyes
                                     r
    2. Sokan a felemelkedett vízmennyiség súlyát tették egyenl®vé a felületi feszültségb®l származó, felfelé húzó er®vel.
 Ez azért hibás, mert a ferde, nem függ®leges üveglemezek által kifejtett nyomóer®nek is van függ®leges összetev®je, amit
-az er®egyensúlynál gyelembe kellene venni. A probléma hasonló ahhoz, ami a jól ismert hidrosztatikai paradoxonnál
+
+
+az er®egyensúlynál  gyelembe kellene venni. A probléma hasonló ahhoz, ami a jól ismert hidrosztatikai paradoxonnál
 jelentkezik.
    3. Néhányan energetikailag próbálták megoldani a feladatot úgy, hogy a felemelkedett víz helyzeti energiáját tették
 egyenl®vé a felületi feszültség σ · ∆A munkájával. Ez ugyanúgy hibás, mintha egy rugóra függesztett test egyensúlyi
@@ -135,7 +139,7 @@ egyenl®ség     sak a rugón rezg® test mozgásának széls® helyzeteire telj
 Egyensúlyi állapotban a mozgási energia nem hanyagolható el, s®t, éppen akkor maximális!
 
    2. Egy terebélyes vasmaggal ellátott, nagy öninduk iójú, de mégis elhanyagolható ohmikus ellenállású teker s végeit
-U feszültségre méretezett izzón keresztül kötjük össze. Ha az A és B pontok közé U/2 eektív érték¶ váltakozó feszültséget
+U feszültségre méretezett izzón keresztül kötjük össze. Ha az A és B pontok közé U/2 e ektív érték¶ váltakozó feszültséget
 kap solunk, az izzó nagyon halványan világít.
 
 
@@ -158,15 +162,15 @@ Megváltozik-e az izzón átfolyó áram er®ssége, és ha igen, hogyan? Az áb
    1. Mivel a teker s ohmikus ellenállása elhanyagolható, ezért UAC ≈          kell legyen, hogy ne folyjék a generátoron
                                                                              2
 végtelen nagy áram.
-   2. Mivel a uxusváltozás mértéke a teker s különböz® részein ugyanakkora, ezért mindkét félteker sen ugyanakkora
+   2. Mivel a  uxusváltozás mértéke a teker s különböz® részein ugyanakkora, ezért mindkét félteker sen ugyanakkora
 az indukált feszültség, tehát UAC = UCB .
    3. Mivel a lámpa párhuzamosan van kap solva a generátor plusz a teker s jobb oldali felével, ezért
 
                                                             U  U
                                  Ulámpa = Ugen. + UCB =       + ,    tehát    Ulámpa = U.
                                                             2  2
-Így a lámpa az üzemi feszültséget kapja, ezért jól ég!
-   Az áramirányok meghatározásához  Werner Miklós ötlete alapján  rajzoljuk át a megadott kap solást a következ®
+Így a lámpa az  üzemi  feszültséget kapja, ezért jól ég!
+   Az áramirányok meghatározásához   Werner Miklós ötlete alapján   rajzoljuk át a megadott kap solást a következ®
 módon: képzeljük el, hogy a teker s bal oldali részét alkotó huzalt hosszában kettévágjuk, s így ezen az oldalon két,
 egymás mellett futó teker shez jutunk (5. ábra ).
 
@@ -182,15 +186,17 @@ Ez bizony egy transzformátor! A primer menetszám      , a primer áram (a fela
                                                     2
                                                   I
 A szekunder menetszám N , tehát a szekunder áram     lesz.
-                                                 2 
+                                                  2
                 I                          I    I     I
    C -t®l B felé , C -t®l A felé ugyan sak    I− =         áram folyik (6. ábra ).
                 2                          2    2     2
-                                                        6. ábra
+
+
+                                                        6. ábra
 
 
     Megjegyzések. Bemutatunk további három megoldást, amellyel a versenyz®k eljutottak a helyes válaszhoz. Mindegyi-
-kük ráérzett a feladatban rejl® transzformátorra (ténylegesen autotranszformátornak nevezik a feladatban megadott
+kük  ráérzett  a feladatban rejl® transzformátorra (ténylegesen autotranszformátornak nevezik a feladatban megadott
 kap solást), és helyesen alkalmazták az általuk ismert összefüggéseket. Nem részletezzük,   sak vázoljuk a megoldásnál
 követett gondolatmeneteket.
 
@@ -237,15 +243,17 @@ ezekb®l következik, hogy U2 = −U1 . Mivel
                                                                            U
                                           U1 = U2 + I2 R      és    U1 =     ,
                                                                            2
-ezért
+
+
+ezért
                                         U     U
                                           = − + I2 R,         vagyis     U = I2 R
                                         2      2
                                                   √
 kell legyen. (j -vel az ún. komplex egységgyököt,   −1-et jelöltük.)
    3. Szolnoki Lénárd úgy rajzolta át a kap solást (9. ábra ), hogy még jobban emlékeztessen egy veszteségmentes, zárt
-vasmagú transzformátorra. Mivel a transzformátor szekunder oldalán ellentétes irányú a feszültség, mint a primer
-oldalon, ezért a fels® hurokra felírva a második Kir hho-törvényt, kapjuk:
+vasmagú transzformátorra. Mivel a transzformátor szekunder oldalán ellentétes  irányú  a feszültség, mint a primer
+oldalon, ezért a fels® hurokra felírva a második Kir hho -törvényt, kapjuk:
 
                                        U  U
                                          + − U ∗ = 0,          tehát      U ∗ = U.
@@ -290,13 +298,15 @@ ugyanezen pont felé tartanak.
 
 
                                                         10. ábra
-   Fordított állású, a tárggyal megegyez® nagyságú, valódi kép keletkezik a tárgy helyén. F1 = Otükör tehát, és ez
+
+
+   Fordított állású, a tárggyal megegyez® nagyságú, valódi kép keletkezik a tárgy  helyén . F1 = Otükör tehát, és ez
 független attól, milyen ℓ távolságra van a síktükör a len sét®l.
    a) Anna 20    m-re helyezte el a tükröt az f = 30 m fókusztávolságú len se mögé. Hogyan határoznánk meg Anna
 helyében legegyszer¶bben a leképez® rendszer F
                                                 ∗
                                                   fókuszpontjának a helyét? Úgy, hogy az optikai tengellyel párhuzamos
-fénynyalábot bo sátanánk a len sére, és megnéznénk, hogy mi a tartópontja annak a sugárnyalábnak, amely ebb®l a
+fénynyalábot bo sátanánk a len sére, és megnéznénk, hogy mi a  tartópontja  annak a sugárnyalábnak, amely ebb®l a
 párhuzamos nyalábból keletkezik, miután megtörik a len sén, visszaver®dik a síktükrön, majd újta áthalad a len sén
 (11. ábra ). Biztosak lehetünk abban, hogy F helye már nem sak f -t®l, hanem ℓ-t®l is függeni fog.
                                             ∗
@@ -318,7 +328,7 @@ egy ilyen távol lév® tárgy képét!
 amib®l k = −15     m adódik. Látszólagos kép keletkezik, ez azt jelenti, hogy a len séb®l olyan sugárnyaláb fog kilépni,
                                                  m-re lev® pont. Ez tehát a leképez® rendszer F fókuszpontja!
                                                                                                    ∗
-amelynek tartópontja egy, a len se mögött 15
+amelynek  tartópontja  egy, a len se mögött 15
    Annának tehát a helyettesít® homorú tükör egy újabb jellemz® pontját sikerült megtalálnia. Mivel a homorú tükör
 fókuszpontja éppen a gömb sugarának közepén van, ezért a fókusztávolságot úgy is megkaphatja, hogy az F
                                                                                                        ∗
@@ -358,7 +368,9 @@ A keresett tükör fókusztávolsága:
                                                                             f2
                                        f ∗ = f + |k| = f − k = . . . =            > 0.
                                                                          2(f − ℓ)
-A homorú tükör távolsága a len se helyét®l:
+
+
+A homorú tükör távolsága a len se helyét®l:
 
                                                                         fℓ
                                               x = 2f ∗ − f = . . . =        > 0.
@@ -379,8 +391,8 @@ f®sík jelenik meg, s   sak az ezekt®l mért t, k és f távolságokra lehet f
 s amikor a szerkesztés végén a képet (és a képoldali f®síkot is) visszatükrözzük, a két f®sík egybe fog esni! Az ide, a
 f®síkok közös helyére elhelyezett gömbtükörrel ekkor már helyettesíthet® lesz a len séb®l és a síktükörb®l álló rendszer.
    A f®síkokkal történ® leképezés nem középiskolai, hanem f®iskolai, egyetemi tananyag; ennek ellenére volt olyan
-versenyz®, aki ezt a gondolatmenetet próbálta meg követni. Hasonlóképpen egyetemi tananyag az úgynevezett mát-
-rixoptika is, amellyel Pálfalvi László mutatja meg e feladat megoldását a 179. oldalon.
+versenyz®, aki ezt a gondolatmenetet próbálta meg követni. Hasonlóképpen egyetemi tananyag az úgynevezett  mát-
+rixoptika  is, amellyel Pálfalvi László mutatja meg e feladat megoldását a 179. oldalon.
 
 
 
@@ -394,13 +406,13 @@ Rudolfról elnevezett el®adótermében.
    Bevezetésként a Versenybizottság elnöke emlékezett meg Tolnai Jen®r®l, aki 100 évvel ezel®tt nyerte meg a Társulat
 tanulóversenyét, Neukomm Gyuláról, a KöMaL egykori f®szerkeszt®jér®l, aki ötven éve hunyt el, és ebben az évben
 sikerült a sírját védetté nyilvánítani, Boros Jánosról, a Versenybizottság volt tagjáról, akinek éppen ezen a napon lett
-volna a születésnapja és Varga Istvánról, a     sak nemrég elhunyt zikatanárról, aki sziporkázó ötleteivel támogatta a
+volna a születésnapja és Varga Istvánról, a     sak nemrég elhunyt  zikatanárról, aki sziporkázó ötleteivel támogatta a
 Versenybizottság munkáját.
    Ezután az 50 évvel ezel®tt, 1957-ben rendezett Eötvös-versenyt elevenítette fel. Bemutatta az akkori feladatokat
 és a díjazottak egykori fényképét is a KöMaL képar hívumából. Papp Kálmánt, a verseny 50 évvel ezel®tti nyertesét
 sajnos nem sikerült elérnie, és nem tudott eljönni Cserteg István sem, aki akkor a második helyezett volt. Mindket-
 ten villamosmérnökök lettek kés®bb. Nem így Szatmáry Zoltán, a harmadik helyezett piarista diák, aki Neukomm
-Gyula hathatós támogatásával tudott bekerülni az ELTE zikus szakára 1957-ben. A KFKI kutatója, a m¶egyetemi
+Gyula hathatós támogatásával tudott bekerülni az ELTE  zikus szakára 1957-ben. A KFKI kutatója, a m¶egyetemi
 tanreaktor Kossuth-díjas igazgatója személyesen idézte fel egyetemre kerülésének izgalmas történetét.
    A 25 évvel ezel®tt díjazottak közül is    sak egyetlen versenyz® tudott eljönni: Károlyi Gyula, aki ma már egyetemi
 oktató, a KöMaL matematika szerkeszt® bizottságának tagja. Csörg® Tamás, Erd®s László és Tóth Gábor, az akkori
@@ -412,8 +424,8 @@ láthatott és tapsolhatott meg a hálás közönség.
 kísérleti bemutató követte: az els® két feladathoz Honyek Gyula, a harmadikhoz Radnai Gyula mutatott be érdekes
 kísérleteket. Az üveglapok közé felfutó víz, a meglep®en jól ég® kis izzó, valamint a len se plusz síktükörrel és az ezeket
 helyettesít® gömbtükörrel egymás mellett el®állított éles képek azokat is meggy®zték, akik esetleg kételkedtek volna a
-bemutatott megoldások helyességében. Szeren sére itt nem voltak ilyenek,  a közönség f®leg a zikát ért® és szeret®
-atalokból, tanáraikból és volt Eötvös-verseny nyertesekb®l állt. Itt volt a Társulat egész vezérkara, Kádár György
+bemutatott megoldások helyességében. Szeren sére itt nem voltak ilyenek,   a közönség f®leg a  zikát ért® és szeret®
+ atalokból, tanáraikból és volt Eötvös-verseny nyertesekb®l állt. Itt volt a Társulat egész  vezérkara , Kádár György
 f®titkár, Pákó Gyula, a középiskolai szak soport elnöke és Sólyom Jen® akadémikus, a társulat elnöke is, aki ezek után
 mosolyogva adta át a díjakat a verseny gy®zteseinek.
    Els® díjat és az ezzel együtt járó Eötvös-verseny érmet kapta a verseny 1. helyezettje: Werner Miklós, a BME
@@ -425,7 +437,9 @@ Gimnáziumban érettségizett Horváth Gábor tanítványaként.
 János Gimnáziumában érettségizett Hevesi Anikó és Szabó Endre tanítványaként.
    Harmadik díjat nyert Szolnoki Lénárd, a Debre eni Református Kollégium Dó zy Gimnáziumának 12. osztályos
 tanulója, Tófalusi Péter tanítványa.
-   Di séretet kapott a verseny 611. helyezettje, helyezésük szerinti sorrendben a következ®k: K®rösi Márton, az
+
+
+   Di séretet kapott a verseny 6 11. helyezettje, helyezésük szerinti sorrendben a következ®k: K®rösi Márton, az
 ELTE hallgatója, aki a békés sabai Szent-Györgyi Albert Gimnáziumban érettségizett Varga István tanítványaként;
 Almási Gábor, a pé si Leöwey Klára Gimnázium 12. osztályos tanulója, Kotek László és Simon Péter tanítványa;
 Papp László, az ELTE hallgatója, aki a romániai Margitta O. Goga Nemzeti Kollégiumában érettségizett Bogdán
@@ -442,10 +456,10 @@ M¶szaki és a Vin e kiadók könyveib®l válogathattak a Matfund Alapítvány 
 nek meg. A programot záró tapasztalat sere-beszélgetéshez a Ramasoft Zrt. gondoskodott elegend® enni-innivalóról.
 A hangulat idén is jó volt: vidáman, felszabadultan tárgyalták a verseny tapasztalatait a régi és új versenyz®k, tanárok
 az ország különböz® részeir®l, egyetemi tanárok Budapestr®l és Kolozsvárról. Gondolatban itt volt Béky Ben e, nemrég
-még Eötvös-versenyen díjat nyert diák is, ma már tanulmányainak befejezéséhez közeled® mérnök-zikus hallgató, aki
+még Eötvös-versenyen díjat nyert diák is, ma már tanulmányainak befejezéséhez közeled® mérnök- zikus hallgató, aki
 Párizsból küldte üdvözletét egy beszédfelismerés témájú programról, amelyen a hazai egyetemi képzés keretében vesz
 részt. Aki pedig egyszer kedvet kapott a tanuláshoz, nem is tudja abbahagyni; ® most matematikából szeretne újabb
-diplomát szerezni. Azt üzenem a versenyz®knek, tanuljanak, mert tanulni jó befektetés és tiszta öröm! Bár inkább nem
+diplomát szerezni.  Azt üzenem a versenyz®knek, tanuljanak, mert tanulni jó befektetés és tiszta öröm! Bár inkább nem
 is üzenek semmit, mert aki az Eötvös-verseny eredményhirdetésére bejutott, az ezt már úgyis tudja. Gratulálok nektek
-és további sok sikert kívánok!
+és további sok sikert kívánok!
    Ehhez   satlakozik a Versenybizottság is. Bízzunk a lendület megmaradásában. . .

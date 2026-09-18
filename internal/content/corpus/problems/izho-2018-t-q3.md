@@ -28,7 +28,7 @@ techniques: [conservation-laws, choose-reference-frame, smart-coordinates]
 ## Part 1. 4-dimensional vectors
 
 Consider two inertial reference frames $S$ and $S^{\prime}$ of which the second one moves at a speed $V$ relative to the first one as shown in the figure on the right. It is assumed that the origins $O$ and $O^{\prime}$ coincide at the initial time moment $t=$ $t^{\prime}=0$ by the clocks of both reference frames. It is known that the Lorentz transformation of space-time coordinates $\left(x^{\prime}, y^{\prime}, z^{\prime}, c t^{\prime}\right)$ of any event in the frame $S^{\prime}$ into the spacetime coordinates ( $x, y, z, c t$ ) of the same event in the frame
-![](izho-2018-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2018-t-q3-fig01.png)
 $S$ have the following form
 
 $$
@@ -64,7 +64,7 @@ Consider the same two reference frames as in Part 1. Let an object move in the p
 Consider a water flow moving at the speed of $V$ relative to the bottom of the vessel. A plane EMW falls onto the water surface to make the angle $\alpha$ to the normal in the laboratory reference frame. A detector is fixed at the bottom of the vessel. The refractive index of water is known to be $n$.
 
 If the water velocity $V \ll c$, the expression for the sine of the angle $\beta$ at which the detector registers the direction of EMW propagation, takes the form:
-![](izho-2018-t-q3-fig02.png)
+![](../../figures/izho/figures/izho-2018-t-q3-fig02.png)
 
 $$
 \sin \beta=A_{1}+B_{1} V .
@@ -81,7 +81,7 @@ $$
 3.3 Find $A_{2}, B_{2}$ and express them in terms of $\beta, n, c$.
 
 In 1860 A. Fizeau set up the following experiment. A monochromatic beam with the
-![](izho-2018-t-q3-fig03.png)
+![](../../figures/izho/figures/izho-2018-t-q3-fig03.png)
 wavelength $\lambda$ comes out of the source $A$ and falls onto the semitransparent plate $B$ at which it is divided into two coherent beams. The first beam, being reflected from the plate $B$, goes along the way $B K D E B(K, D$ and $E$ are the mirrors), whereas the second beam, passing through the plate $B$, goes along the way $B E D K B$. The first beam, when returning to the plate $B$, is partially reflected from it and reaches the interferometer $F$. The second beam, when returning to the plate $B$, partially passes through it and reaches the interferometer $F$. Both interfering beams travels the same distance in the laboratory reference frame, including section $B E$ and $K D$ in which the water flows with the velocity $v$. The total distance covered by each beam in water in the laboratory reference frame is equal to $2 L$.
 3.4 Find the number of bands $\Delta N$ the interference pattern is shifted by when the liquid velocity changes from 0 to $v$ and express it in terms of $L, n, v, c$, and $\lambda$.
 

@@ -47,7 +47,7 @@ canonical ensemble.
 
     Maxwell–Boltzmann distribution, we treat the particles as distinguishable, then divide by 1/N !
     at the end, so the probability of this configuration is proportional to
-                                                   
+
                                     1 N        N − n1          Y 1
                                                         ··· =          .
                                     N ! n1       n2               ni !
@@ -62,7 +62,6 @@ canonical ensemble.
     occupancy aren’t weighted enough.
 
   • Similarly, the Fermi–Dirac distribution also agrees with the classical result, as long as ⟨ni ⟩ ≪ 1.
-78 3. Statistical Mechanics
 
 
  • Another way of saying this is that in the classical case, we’re imagining we can paint labels
@@ -116,23 +115,22 @@ canonical ensemble.
     ultrarelativistic case we get 1/3 instead.
 
  • At high temperatures, we can compute the corrections to the ideal gas law by expanding in
-   z ≪ 1, finding                                        
+   z ≪ 1, finding
                                   N    z         z
                                     = 3 1 + √ + ···
                                   V    λ        2 2
-79 3. Statistical Mechanics
 
 
     To see why z ≪ 1 is a high-temperature expansion, note that z ∼ λ3 ∼ T −3/2 here. Next, we
     can similarly expand the energy for
-                                                           
+
                                    E     3z        z
                                       = 3      1 + √ + ··· .
                                    V    2λ β      4 2
     Combining these equations, we find the first correction to the ideal gas law,
 
                                                       λ3 N
-                                                                
+
                                 pV = N kB T 1 − √           + ... .
                                                      4 2V
     The pressure is less; the physical intuition is that bosons ‘like to clump up’, since they’re missing
@@ -184,7 +182,6 @@ Using Stirling’s approximation, the entropy is
                                 X
              S = kB log Ω = kB     (Ns + Ms ) log(Ns + Ms ) − Ns log Ns − Ms log Ms .
                                     s
-80 3. Statistical Mechanics
 
 
 On the other hand, we know that dS = dU/T − (µ/T )dN , where
@@ -218,9 +215,9 @@ We now use these results to investigate Bose–Einstein condensation.
                                                V     λ3
     the quantity g3/2 (z) must increase as λ3 increases. However, we know that the maximum value
     of g3/2 (z) is g3/2 (1) = ζ(3/2), so this is impossible below the critical temperature
-                                                                   2/3
+                                                                    2/3
                                                2πℏ2
-                                                      
+
                                                             n
                                         Tc =
                                                kB m       ζ(3/2)
@@ -240,7 +237,6 @@ We now use these results to investigate Bose–Einstein condensation.
   • We say that for T < Tc , the system forms a Bose–Einstein condensate (BEC). Since the number
     of uncondensed particles in a BEC at fixed temperature is independent of the density, the
     equation of state of a BEC doesn’t depend on the density.
-81 3. Statistical Mechanics
 
 
   • To explicitly see the phase transition behavior, note that for z → 1, one can show
@@ -248,7 +244,7 @@ We now use these results to investigate Bose–Einstein condensation.
                                    g3/2 (z) ≈ ζ(3/2) + A 1 − z + . . . .
 
     Applying the definition of Tc , we have
-                                   3/2
+                                     3/2
                                      T          √     1 1
                                             −1∼A 1−z−       .
                                     Tc                N 1−z
@@ -296,7 +292,6 @@ for a hydrogen atom in that mode in a box of volume V is
                                       c† ∼      φ(k) a†k b†−k
                                            V
                                                 k
-82 3. Statistical Mechanics
 
 
 where φ(k) is the 1s state’s momentum-space wavefunction, and a†k and b†k create a proton and
@@ -348,7 +343,6 @@ Now we turn to fermions, which obey Fermi–Dirac statistics.
                 β        β                                                 0                       5
 
       This zero-temperature pressure is called the degeneracy pressure.
-83 3. Statistical Mechanics
 
 
   • Next, consider the particle number and energy density near zero temperature,
@@ -404,16 +398,15 @@ which are the fermionic equivalent of the gn functions. Then
                                 N  gs               E   3 gs
                                   = 3 f3/2 (z),       =      kB T f5/2 (z)
                                 V  λ                V   2 λ3
-84 3. Statistical Mechanics
 
 
 where we plugged in the form of g(E), and gs is the number of spin states. We want to expand the
 fn (z) at high z. At infinite z, the integrands are just xn−1 θ(βµ − x), so the integral is (βµ)n /n.
     For high z, the integrands still contain an approximate step function. Then it’s convenient to
 peel off the difference from the step function by splitting the integral into two pieces,
-                                 Z βµ                         Z ∞
+                                 Z βµ                          Z ∞
                                                                              xn−1
-                                              
+
                                           n−1           1
                    Γ(n)fn (z) =       dx x      1−              +     dx              .
                                   0                 1 + ze−x       βµ     z −1 ex + 1
@@ -438,19 +431,19 @@ integration gives the series (−1)m+1 /m2 = (1/2) 1/m2 = π 2 /12, giving the f
                             P                     P
 
                                      (log z)n     π 2 n(n − 1)
-                                                                   
+
                             fn (z) =           1+              + ··· .
                                      Γ(n + 1)     6 (log z)2
 
 By keeping more terms in the Taylor expansion, we get a systematic expansion in 1/ log z = 1/βµ.
   Applying the expansion to N/V , we immediately find
-                                                             2
+                                                               2
                                                        kB T
                                           ∆N ∼
                                                         µ
 
 which shows that, to keep N constant,
-                                                             2
+                                                               2
                                                        kB T
                                            ∆µ ∼
                                                         EF

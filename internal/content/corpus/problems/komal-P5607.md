@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-A small body is projected horizontally from the top of a fixed slope, and hits the bottom of the slope (see the figure ). On impact, its velocity makes an angle of $\beta=19^\circ$ with the plane of the slope. What is the angle of inclination of the slope? 
+A small body is projected horizontally from the top of a fixed slope, and hits the bottom of the slope (see the figure ). On impact, its velocity makes an angle of $\beta=19^\circ$ with the plane of the slope. What is the angle of inclination of the slope?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5607-fig1.png)
+![figure](../../figures/komal/figures/komal-P5607-fig1.png)

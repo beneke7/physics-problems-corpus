@@ -42,18 +42,18 @@ CB we split it into two pieces as shown above. Then
 xB =
 1
 α
-
+
 1
 6
 ·
 dθ
 2
 + 0 ·
-
+
 α −
 dθ
 2
-
+
 =
 dθ
 12α
@@ -69,13 +69,13 @@ where y is positive downward. For neutral stability, (xB,yB) must lie on a verti
 the center of mass, which implies xB/yB = dθ, so
 1
 12α
-
+
 1
 2
 −
 α
 2
-−1
+ −1
 = 1.
 This is a quadratic equation with solution α = (3 −
 √
@@ -165,10 +165,10 @@ Z π
 ρv2
 0a6
 8
-
+
 1
 3a3
-
+
 (2π)(4).
 This yields a added mass of (2π/3)ρa3 = ρV/2, as stated above.
 Remark

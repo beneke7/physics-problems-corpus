@@ -28,7 +28,6 @@ Example. The free particle Green’s functions G0± (x, x′ , E) in three dimen
           ′                  −1       ′              ′           1
  G0+ (x, x , z) = ⟨x|(z − H0 )    |x ⟩ =       dp dp ⟨x|p⟩⟨p|        |p′ ⟩⟨p′ |x′ ⟩ =                         .
                                                               z − H0                        (2πℏ)3 z − p2 /2m
-274 12. Scattering
 
 
 To simplify, we set x′ = 0 for simplicity, by translational invariance, let p = ℏq, and let z = E + iϵ =
@@ -86,7 +85,6 @@ potential scattering, though the same techniques work in many contexts, such as 
                                                                 ′ e
                           ψk (x) = ϕk (x) −                dx                     V (x′ )ψk (x′ ).
                                             4π ℏ2                |x − x′ |
-275 12. Scattering
 
 
  • There are many variations on the Lippmann–Schwinger equation. For example, in proton-
@@ -146,7 +144,6 @@ the Born series.
 
                            Ω(z) = (1 − G0 (z)V )−1 ,            Ω± (E) = lim Ω(E ± iϵ).
                                                                               ϵ→0
-276 12. Scattering
 
 
   • Expanding in a series in V gives the Born series,
@@ -158,9 +155,9 @@ the Born series.
                         |ψk ⟩ = |k⟩ + G0+ (E)V |k⟩ + G0+ (E)V G0+ (E)V |k⟩ + . . . .
 
     Substituting this into the expression for the scattering amplitude gives
-                                         4π 2 m  ′
+                                         4π 2 m   ′
                         f (k, k′ ) = −           ⟨k |V |k⟩ + ⟨k′ |V G0+ (E)V |k⟩ + . . . .
-                                                                                        
+
                                           ℏ 2
 
     When we truncate these series at V n , we get the nth Born approximation. The Born series can

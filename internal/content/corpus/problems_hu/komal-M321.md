@@ -9,6 +9,6 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 321. Mérjük meg egy hurkapálca 10, 15 és 20 cm-es darabjának direkciós nyomatékát (csavarási merevségét, vagyis a forgatónyomaték és a szögelfordulás hányadosát) 
- a ) torziós lengésekkel, 
+M. 321. Mérjük meg egy hurkapálca 10, 15 és 20 cm-es darabjának direkciós nyomatékát (csavarási merevségét, vagyis a forgatónyomaték és a szögelfordulás hányadosát)
+ a ) torziós lengésekkel,
  b ) statikus módszerrel!

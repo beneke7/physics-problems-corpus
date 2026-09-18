@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry, auxiliary-unknowns]
 ---
 
-Two spheres (with uniform density) are placed to a fixed inclined plane of angle of elevation $\alpha$ as shown in the figure. What can the angle $\alpha$ be if it can be assumed that during the rolling motion of the spheres the line which joins the centres of the spheres remains vertical? What is the acceleration of the spheres in this case? 
+Two spheres (with uniform density) are placed to a fixed inclined plane of angle of elevation $\alpha$ as shown in the figure. What can the angle $\alpha$ be if it can be assumed that during the rolling motion of the spheres the line which joins the centres of the spheres remains vertical? What is the acceleration of the spheres in this case?
 
- (Air drag is negligible, and the static friction is big enough.) 
+ (Air drag is negligible, and the static friction is big enough.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4823-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4823-fig1.gif)

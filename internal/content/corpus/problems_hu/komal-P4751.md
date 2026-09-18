@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4751. Mit tapasztalunk, ha egy megpendített hangvilla nyelét 
- $a)$ az asztal lapjához érintjük, vagy 
- $b)$ vízbe merítjük? 
- Magyarázzuk meg a tapasztaltakat! 
+P. 4751. Mit tapasztalunk, ha egy megpendített hangvilla nyelét
+ $a)$ az asztal lapjához érintjük, vagy
+ $b)$ vízbe merítjük?
+ Magyarázzuk meg a tapasztaltakat!
  Hatvani István fizikaverseny, Debrecen

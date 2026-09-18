@@ -23,4 +23,4 @@ ii) What is the surface area between the $v_{\text {dist }}$-graph and the $t$-a
 iii) Now let us consider a case when three cars (denoted by $A$, $B$, and $C$ ) depart simultaneously from their cities ( $A, B$, and $C$, respectively) towards the capital; all the cars travel with a constant speed $v$. Sketch the graphs for the distance changing rate for the following car pairs: $A-B$ and $B-C$.
 iv) Suppose that now the GPS-devices are good enough to record the periods of taking the turns. Sketch a new appropriate graph for the pair of cars $B-C$. The curvature of the turns is small enough so that the cars can still keep theirs speed $v$.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr51-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr51-fig1.jpg)

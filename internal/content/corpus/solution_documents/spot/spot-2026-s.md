@@ -55,7 +55,9 @@ Olympiad (APhO) and International Nuclear Science Olympiad
 
 
                                         Page 1 of 38
-                                                    Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                    Monday, 16 March 2026, 12:30pm – 16:30pm
 
 1. (a) A sailboat is moving in stationary water. A wind with uniform density and horizontal        [2]
        speed v0 (relative to the ground) is blowing perpendicularly to the surface of the sail.
@@ -98,7 +100,7 @@ Olympiad (APhO) and International Nuclear Science Olympiad
                                                Lf = M R 2 ω2
                                                    2
          Conserving angular momentum about P2 and solving gives us
-                                                     
+
                                           1 + 2 cos θ
                                    ω2 =                 ω1
                                               3
@@ -115,7 +117,9 @@ Olympiad (APhO) and International Nuclear Science Olympiad
 
 
                                             Page 2 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       is ∆⃗ p = m(v⃗2 − v⃗1 ) and the change in angular momentum about the COM is
@@ -168,7 +172,9 @@ Olympiad (APhO) and International Nuclear Science Olympiad
 
 
                                      Page 3 of 38
-                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -184,7 +190,7 @@ Marking Scheme:
                           dinitial angular momentum                M0.75
                           Correct final angular momentum           M0.75
                           Final angular
-                                            velocity ω2       =
+                                             velocity ω2       =
                            1+2 cos θ                               A0.5
                                3       ω 1
                           Workdone by T is 0/energy is
@@ -206,7 +212,7 @@ Marking Scheme:
 2. In the figure below, we have an electrical circuit consisting of a DC voltage source U0 ,
    capacitor C, switch K and a nonlinear element. The current-voltage characteristic of the
    nonlinear element is as follows:
-                                     2  2
+                                       2    2
                                       I          U
                                             +          =1
                                       I0         U0
@@ -227,7 +233,9 @@ Marking Scheme:
 
 
                                          Page 4 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
  a. time taken for the second charging process, and
  b. the final voltage across the capacitor?
@@ -270,16 +278,16 @@ Justify your answers and show all working clearly.
                                 −     =     =
                                     C    dt    dI dt
  We express UN in terms of I:
-                       s                2
+                       s                  2
                                     I              dUN       U0        I
-               UN = ±U0     1−                =⇒       = ∓r       
+               UN = ±U0     1−                =⇒       = ∓r
                                     I0              dI               2 I02
                                                            1 − II0
 
  Working out the time-derivative and plugging into the differential equation, we
  obtain                 Z 0                 Z t 2
                                  dI              I0
-                            r      2 = ±           dt
+                            r        2 = ±           dt
                          I0                   0 CU0
                               1 − I0I
 
@@ -290,7 +298,9 @@ Justify your answers and show all working clearly.
 
 
                                  Page 5 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       difference between the capacitor and the battery (the non linear element can be
@@ -353,7 +363,9 @@ Justify your answers and show all working clearly.
 
 
                                       Page 6 of 38
-                                                Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
          Notice that the circuit is only in ”equilibrium” at ϕ = 0 and ϕ = π. At both
@@ -386,7 +398,7 @@ Marking Scheme:
                                                                  A0.5
                          OR: Kirchhoff’s loop rule applied
                          correctly AND time derivative ap-       M1
-                         plied      r       2
+                         plied      r         2
                          UN = ±U0 1 − II0                        M0.5
 
                          Obtain correct integral equation        M1
@@ -425,7 +437,9 @@ Marking Scheme:
 
 
                                         Page 7 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
 r = f (x) about the x-axis. We want to choose f (x) such that the angle of deflection at an
 impact parameter of r is given by:
@@ -486,7 +500,9 @@ Determine f (x) for x ∈ [0, x0 ] shown in the diagram above in terms of x, n, 
 
 
                                       Page 8 of 38
-                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -543,7 +559,9 @@ Marking Scheme:
 
 
                                          Page 9 of 38
-                                                Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       that the total outgoing flux is 0:
@@ -583,7 +601,7 @@ Marking Scheme:
                                   d                        r2 dBz
                                      (mr2 θ̇) = eBz rṙ + e ż
                                   dt                        2 dz
-                                                 d e 2 
+                                                 d  e 2
                                               =        r Bz
                                                 dt 2
                                         mz̈ = eBr rθ̇ ≈ 0
@@ -609,12 +627,14 @@ Marking Scheme:
 
 
                                       Page 10 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
       Solution: We substitute the expression for θ̇ into the radial equation of motion:
-                                                e          e    2
+                                                e           e     2
                                 mr̈ = −eBz r      Bz + mr     Bz
                                                2m          2m
                                         e2 2
@@ -659,7 +679,7 @@ Marking Scheme:
                                       sin(ωϕ0 )       sin(ωϕ0 )
 
       Giving us the expression for y(ϕ):
-                                                                                 
+
                         sin(ωϕ0 ) sin ϕ0       C2               cos(ωϕ0 )
                  y(ϕ) =                  y0 +         cos(ωϕ) −           sin(ωϕ)
                         sin(ωϕ0 ) sin ϕ0      sin ϕ             sin(ωϕ0 )
@@ -679,7 +699,9 @@ Marking Scheme:
 
 
                                       Page 11 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -732,7 +754,9 @@ Marking Scheme:
 
 
                                        Page 12 of 38
-                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -766,7 +790,7 @@ where T is the temperature, τ is the tension, U is the internal energy, S is th
 L is the length of the rubber band. You may assume that just like an ideal gas, U can be
 expressed as a function of only the temperature T .
 (b) By referencing the Maxwell relation for a typical P, V, T system:                           [1]
-                                                  
+
                                       ∂S          ∂P
                                              =           ,
                                       ∂V T        ∂T V
@@ -779,7 +803,7 @@ expressed as a function of only the temperature T .
 
       With a direct comparison, we can obtain the relation for the rubber band by
       replacing P → −τ and V → L. Hence, the new Maxwell relation is
-                                               
+
                                    ∂S          ∂τ
                                          =−
                                    ∂L T        ∂T L
@@ -793,7 +817,9 @@ where ρ = (∂τ /∂L)T and σ = (∂τ /∂T )L both evaluated at (R, T̄ ) a
 
 
                                      Page 13 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
 (c) By considering the entropy S as a state function of the temperature T and length L       [2]
     of the rubber band, show clearly that for a reversible process, we have
@@ -810,20 +836,20 @@ where ρ = (∂τ /∂L)T and σ = (∂τ /∂T )L both evaluated at (R, T̄ ) a
     You may also use the Maxwell relation derived in (b).
 
       Solution: Using the hint, we can express dS as
-                                                
+
                                       ∂S           ∂S
                              dS =           dT +        dL
                                       ∂T L         ∂L T
 
       Since the LHS of the equation we want to show is dQ, this motivates us to rewrite
       dS = dQ/T for a reversible process and get
-                                                  
+
                                       ∂S              ∂S
                              dQ = T         dT + T          dL
                                       ∂T L            ∂L T
 
       In particular, we also know that for a reversible process at constant length, we
-      have                                     
+      have
                                   ∂S         1 ∂Q        CL
                                         =              =
                                   ∂T L       T ∂T L       T
@@ -851,7 +877,9 @@ where ρ = (∂τ /∂L)T and σ = (∂τ /∂T )L both evaluated at (R, T̄ ) a
 
 
                                     Page 14 of 38
-                                              Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                              Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
      Solution: Firstly, we establish that the wheel rotates clockwise. So the cycle
@@ -913,7 +941,9 @@ where ρ = (∂τ /∂L)T and σ = (∂τ /∂T )L both evaluated at (R, T̄ ) a
 
 
                                    Page 15 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
          So the net heat input during this cycle is given by
@@ -948,10 +978,10 @@ Marking Scheme:
                           Expanding dS correctly using the
                   (c)                                              M0.5
                           hint
-                          Correct substitution of dS =  dQ/T      M0.5
+                          Correct substitution of dS =   dQ/T      M0.5
                                                     ∂S       CL
                           Correct substitution  of
-                                              ∂T L = T           M0.5
+                                                ∂T L = T           M0.5
                                               ∂Q                   M0.5
                           Know that CL =      ∂T L
                           Know that AB and CD are iso-
@@ -981,7 +1011,9 @@ Marking Scheme:
 
 
                                         Page 16 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
     width D = 0.10 m and negligible thickness into one path of the interferometer and
     evacuate it. Monochromatic light of wavelength λ is shone into the interferometer.
@@ -1031,7 +1063,9 @@ Marking Scheme:
 
 
                                      Page 17 of 38
-                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       chamber is
@@ -1069,7 +1103,7 @@ Marking Scheme:
       and time taken is t′ = vDin = nD
                                      c . We can use Lorentz transformation to change
       back to the lab frame
-                        ′        (                          (
+                             ′         (                          (
          ct       γ γβ      ct           ct = γ(ct′ + βx′ )         ct = γD(n + β)
              =                    =⇒                         =⇒
          x       γβ γ       x′                   ′
@@ -1101,7 +1135,9 @@ Marking Scheme:
 
 
                                        Page 18 of 38
-                                             Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                             Monday, 16 March 2026, 12:30pm – 16:30pm
 
     each neutron is ε = αmgL.
     By treating the neutrons as non-relativistic de Broglie waves, derive the expression for
@@ -1143,7 +1179,7 @@ Marking Scheme:
       integer, and destructive interference happens when ∆ϕ = (2N + 1)π. The intensity
       I is proportional to the total energy per unit time: I ∝ α. So the equation of the
       graph would look like something like
-                                                           
+
                                                        4
                                   I ∝ α cos2 2α1/2 − α3/2
                                                        3
@@ -1159,7 +1195,9 @@ Marking Scheme:
 
 
                                     Page 19 of 38
-                                                Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
          The 2 important features that one must get correct will be the increasing amplitude
@@ -1224,7 +1262,9 @@ Marking Scheme:
 
 
                                        Page 20 of 38
-                                              Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                              Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       Solution: Consider a small area dA on the cavity wall. In time dt, the volume of
@@ -1281,7 +1321,9 @@ interact with the photon gas, and Einstein identified three fundamental processe
 
 
                                     Page 21 of 38
-                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
          Solution: The population Na and Nb must satisfy the Boltzmann distribution
@@ -1340,7 +1382,9 @@ Marking Scheme:
 
 
                                        Page 22 of 38
-                                                       Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                       Monday, 16 March 2026, 12:30pm – 16:30pm
 
     energy in the lab frame required for this reaction to take place. Leave your answer in
     terms of the relevant rest masses of the proton mp , neutron mn , and electron me . The
@@ -1398,7 +1442,9 @@ Marking Scheme:
 
 
                                           Page 23 of 38
-                                              Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                              Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 where γ = √ 1 v2 . To determine γ, we write:
@@ -1435,12 +1481,12 @@ This allows to obtain ∆t(τ ):
                                          g      c
 
 Given ∆x(τ ) and ∆t(τ ), we obtain the proper distance:
-                             2 2 
-                             c             gτ         gτ 
+                              2  2
+                             c             gτ         gτ
                           2
                        ∆s =          cosh2    − sinh2
                               g             c          c
-                             2 2
+                              2  2
                              c
                           =
                               g
@@ -1465,7 +1511,9 @@ only by the proper acceleration she experiences. We have:
 
 
                                 Page 24 of 38
-                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -1520,7 +1568,9 @@ Marking Scheme:
 
 
                                         Page 25 of 38
-                                               Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                               Monday, 16 March 2026, 12:30pm – 16:30pm
 
      making (and justifying) any relevant approximations about liquids and gases. You may
      assume the latent heat of vaporisation L is temperature-independent. To not confuse
@@ -1538,7 +1588,7 @@ Marking Scheme:
                                            dP     L      dT
                                               =
                                         P0 P     Rg T 0 T 2
-                                                            
+
                                                   L    1    1
                                 P (T ) = P0 exp           −
                                                   Rg T 0 T
@@ -1577,7 +1627,9 @@ We define the driving pressure for vapour-bubble formation as follows:
 
 
                                      Page 26 of 38
-                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
        Solution: There are two components of ∆Gb (R):
@@ -1626,12 +1678,12 @@ of the bubble, outside the bubble.
  (d) Derive an expression for u (r, t), in terms of R (t) , Ṙ (t) and r. Show your working           [2]
       clearly.
       Hint: If needed, the continuity equation is ∇ · v = 0, where v is the velocity field of the
-      liquid. For a purely radial vector  field v = vr r̂, the divergence in spherical coordinates
+      liquid. For a purely radial vector   field v = vr r̂, the divergence in spherical coordinates
       is given by ∇ · v = r12 ∂r∂
                                    r 2 vr .
 
        Solution: Using the hint, we have
-                                         1 ∂             
+                                         1 ∂
                                           2
                                               r2 u (r, t) = 0
                                          r ∂r
@@ -1639,7 +1691,9 @@ of the bubble, outside the bubble.
 
 
                                        Page 27 of 38
-                                                Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
      This implies that
@@ -1656,11 +1710,11 @@ of the bubble, outside the bubble.
      Alternatively, one can just conserve volume flow across any spherical surface and
      get the same result.
 
-(e) Hence, show that                                                                         [4]
+(e) Hence, show that                                                                           [4]
                                 ρf1 R, Ṙ, R̈ = ∆P − f2 (R)
-                                 
+
    for some functions f1 R, Ṙ, R̈ and f2 (R) that depend on the given parameters. Find
-                            
+
    the functions f1 R, Ṙ, R̈ and f2 (R).
 
      Solution: Since f1 depends on R̈, this is a good hint that we should write an
@@ -1672,7 +1726,7 @@ of the bubble, outside the bubble.
      First, we can determine the bulk kinetic energy of the liquid outside the bubble.
      We make use of the previous part to do so:
                       ZZZ                       Z ∞
-                            1             2           1                       
+                            1             2           1
                  T =          ρ (u (r, t)) dV =         ρ (u (r, t))2 4πr2 dr
                           V 2                    R(t) 2
                                              Z ∞
@@ -1688,9 +1742,9 @@ of the bubble, outside the bubble.
      (We have accounted for the driving work by the pressure in this term, by absorbing
      it in as an effective potential.)
      Putting these together in the energy conservation equation, we have:
-                                                               
+
                      2πρ 3R2 Ṙ3 + 2R3 ṘR̈ + 8πσR − 4πR2 ∆P Ṙ = 0
-                                           
+
                                         3           2σ
                                  ρ RR̈ + Ṙ2 = ∆P −
                                         2           R
@@ -1698,11 +1752,13 @@ of the bubble, outside the bubble.
 
 
                                     Page 28 of 38
-                                              Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                              Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       which is of the form we desire. Hence, the required functions are:
-                                                    3
+                                                      3
                                   f1 R, Ṙ, R̈ = RR̈ + Ṙ2
                                                       2
                                                      2σ
@@ -1740,7 +1796,9 @@ under the conditions and assumptions of the previous parts. Clearly, TR ̸= Tb .
 
 
                                     Page 29 of 38
-                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                   Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -1777,7 +1835,7 @@ under the conditions and assumptions of the previous parts. Clearly, TR ̸= Tb .
                            work by the pressure separately
                            Correct substitution into the energy
                                                                     M0.5
-                           conservation equation             
+                           conservation equation
                            Correct final answer for f1 R, Ṙ, R̈    A0.5
                            Correct final answer for f2 (R)          A0.5
                     (f)    Psat (TR ) − Pext = 2σ
@@ -1805,7 +1863,9 @@ under the conditions and assumptions of the previous parts. Clearly, TR ̸= Tb .
 
 
                                          Page 30 of 38
-                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                  Monday, 16 March 2026, 12:30pm – 16:30pm
 
 leading to nontrivial behaviour; in dispersive media, nonlinear interactions can even preserve
 wave packets and oppose dispersion. These wave packets are called solitons.
@@ -1856,7 +1916,9 @@ of the spokes as zero of the potential energy in the gravitational field.
 
 
                                        Page 31 of 38
-                                                Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       Solution: What we obtained in part a is the standard linear wave equation. By
@@ -1921,7 +1983,9 @@ Continue to make reference to the pendulum model whenever necessary.
 
 
                                       Page 32 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       Solution: Substituting and differentiating, it should be fairly straightforward to
@@ -1989,7 +2053,9 @@ solutions in (f) respectively.
 
 
                                        Page 33 of 38
-                                                        Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                        Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
       Solution: To get a hint of what the energy should look like, we need to refer back
@@ -2026,12 +2092,12 @@ solutions in (f) respectively.
 
       Since we are working with a static kink, there is no kinetic energy. Differentiating
       ϕ by x and manipulating, we get
-             Z ∞                    2                                2          Z ∞
+             Z ∞                      2                                  2          Z ∞
                    1         4ex                    ϕs (x)     ϕs (x)                             e2x
         E=                                + 2 2 sin        cos               dx =         16                 dx
                0   2       1 + e2x                    4          4                  0          (1 + e2x )2
 
-      Integrating, we get                                   ∞
+      Integrating, we get                                     ∞
                                                          8
                                                E= −              =8
                                                       1 + e2x −∞
@@ -2058,7 +2124,9 @@ solutions in (f) respectively.
 
 
                                                Page 34 of 38
-                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                                 Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
            or written more elegantly,
@@ -2082,12 +2150,12 @@ solutions in (f) respectively.
                                                     = −γβ ′ + γ ′
                             ∂t    ∂t ∂x     ∂t ∂t         ∂x     ∂t
            We now calculate the operator □ in terms of the primed coordinates
-                                                   2                       2
+                                                     2                         2
                                          ∂      ∂            ∂      ∂
                              □=        γ ′ − γβ ′        − γ ′ − γβ ′
                                         ∂t     ∂x           ∂x     ∂t
            Expanding the squares, we get
-                      2                              2                      
+                       2                                2
                        ∂          ∂2     2 ∂
                                              2          ∂        ∂2      2 ∂
                                                                              2
@@ -2131,7 +2199,9 @@ From here on, you may assume the Sine-Gordan equation to be Lorentz invariant.
 
 
                                         Page 35 of 38
-                                             Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                             Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
                                                                     1
@@ -2193,7 +2263,9 @@ From here on, you may assume the Sine-Gordan equation to be Lorentz invariant.
 
 
                                     Page 36 of 38
-                                           Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+                                           Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 
@@ -2221,7 +2293,7 @@ Marking Scheme:
                     belling of asymptote
              (g)    Realise theres no KE for static kink   M0.5
                     Find torsion energy correctly as
-                       2                                 M1
+                         2                                 M1
                     1   ∂ϕ
                     2   ∂x
                      Find GPE correctly as (1 − cos ϕ)     M1
@@ -2243,7 +2315,9 @@ Marking Scheme:
 
 
                                   Page 37 of 38
-        Monday, 16 March 2026, 12:30pm – 16:30pm
+
+
+        Monday, 16 March 2026, 12:30pm – 16:30pm
 
 
 

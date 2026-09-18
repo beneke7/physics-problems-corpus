@@ -26,6 +26,6 @@ In practice, many nuclear and particle physics problems boil down to “optimal 
 as you saw in R2, so we’ll avoid repeating them.
 [3] Problem 10. NBPhO 2012, problem 6.
 The following problems concern nuclear fusion processes in stars, an important topic.
-[3] Problem 11.  W 1 0USAPhO 2010, problem A4. This covers the proton-proton chain in our Sun.
+[3] Problem 11.   W 1 0USAPhO 2010, problem A4. This covers the proton-proton chain in our Sun.
 9
 Kevin Zhou Physics Olympiad Handouts

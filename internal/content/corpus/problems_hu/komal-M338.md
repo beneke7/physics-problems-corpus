@@ -11,4 +11,4 @@ verification_status: pending
 
 M. 338. Vízszintes törülközőtartó képes megtartani a törülközőt akkor is, ha annak két oldalán két különböző hosszúságú része lóg le (lásd az ábrát ). Mérjük meg, hogyan függ a törülköző nedvességtartalmától (a felszívott víz mennyiségétől) az $_{1}$/ $_{2}$ arány a megcsúszás határhelyzetében!
 
-![figure](../../raw_html/komal_figures/komal-M338-fig1.gif)
+![figure](../../figures/komal/figures/komal-M338-fig1.gif)

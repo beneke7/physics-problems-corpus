@@ -85,7 +85,6 @@ Most a Born–Oppenheimer-közelítést tekintjük, amelynek fontos alkalmazása
     ahol |Φn ⟩ atommag-hullámfüggvény. A Schrödinger-egyenlet
 
                                         (Hnuc + Helec )|Ψ⟩ = E|Ψ⟩.
-140 5. A kvantummechanika alapjai
 
 
  • Ennek az atommagokra vonatkozó effektív Schrödinger-egyenletté alakításához balról ⟨ϕm |-vel
@@ -142,7 +141,6 @@ Most egy elektromágneses térben lévő részecske kvantummechanikáját állí
                                          ϕ → ϕ − ∂t α,   A → A + ∇α.
 
       Ennek következtében a Hamilton-operátor nem mértékinvariáns.
-141 5. A kvantummechanika alapjai
 
 
   • Ahhoz, hogy a Schrödinger-egyenlet mértékinvariáns legyen, a hullámfüggvényt is transzformálnunk

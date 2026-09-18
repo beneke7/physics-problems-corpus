@@ -27,7 +27,9 @@ Multiple choice questions:
 10.A
 
 1 mark for each question.
-Section B: How fast can you shoot that stew?
+
+
+Section B: How fast can you shoot that stew?
 
 11.
 Ranges for estimated values and expressions given in order of question.
@@ -57,7 +59,9 @@ Ranges for estimated values and expressions given in order of question.
                                  estimated values
 
 1.5 for having no more than 2 significant figures on any value throughout.
-12.
+
+
+12.
 
 
  Marks     For
@@ -94,7 +98,9 @@ This question is out of 1
 values.
 
 Summary of numerical values - 1 mark
-                           Section C: Looking at lakes
+
+
+                           Section C: Looking at lakes
 
 14.
 
@@ -109,7 +115,9 @@ of how the image appears and why it is below surface of lake.
 0.5 - one reasonable ray path
 
 See diagram Question16
-15.
+
+
+15.
 
 
 
@@ -121,7 +129,9 @@ Marks   For
 1       Rays reflect at some angle to local surface normal
 
 1       Results in range of virtual images or spread virtual image
-16.
+
+
+16.
 
 
 
@@ -152,7 +162,9 @@ Marks   For
 
 1       Either written or drawn with enough detail to explain both of the above clearly and
         consistently and why there is a limited range of water for which the bands are seen
-Section D: Viral variation
+
+
+Section D: Viral variation
 
 18.
 
@@ -182,7 +194,9 @@ Section E: Waves on a string
          unlikely to use this language)
 
  1       Clear explanation of calculation
-20.
+
+
+20.
 
 
  Marks     For

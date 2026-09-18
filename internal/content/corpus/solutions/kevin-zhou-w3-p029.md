@@ -35,8 +35,8 @@ way up and down while adjusting their focus. This is fixed by standing back.
 tracing shows that you can get a complete image of the candle, since there are always rays
 that pass through the bottom half of the lens. Instead, by blocking half the lens, the image
 gets half as bright.
-[3] Problem 30.  ^ 1 0USAPhO 2024, problem A3. A series of optics exercises relevant for real cameras.
-[3] Problem 31.  ^ 1 0USAPhO 2026, problem A1. This question is straightforward, but assumes you
+[3] Problem 30.   ^ 1 0USAPhO 2024, problem A3. A series of optics exercises relevant for real cameras.
+[3] Problem 31.   ^ 1 0USAPhO 2026, problem A1. This question is straightforward, but assumes you
 know the definition P = 1/f of optical power (expressed in “diopters”, which just means m−1).
 Idea 8: Fermat’s Principle
 For fixed starting and ending points, light always takes the path of least time. This implies

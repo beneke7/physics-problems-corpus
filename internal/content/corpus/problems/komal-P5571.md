@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A small ball is dropped from a height of $h$ above the corner of a table of height also $h$. At most how far from the corner of the table can the ball hit the ground? Consider the impact to be perfectly elastic. 
+A small ball is dropped from a height of $h$ above the corner of a table of height also $h$. At most how far from the corner of the table can the ball hit the ground? Consider the impact to be perfectly elastic.
  (5 pont)

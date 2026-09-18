@@ -33,7 +33,9 @@ solution_language: en
     arrive at point P again, after a full revolution, their phase is compared.
 
                                                       17
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
  (a) If the ring is hollow, what is the phase difference between the beams when they meet?
 
@@ -84,7 +86,9 @@ To solve this problem, you will need prior exposure to R1.
    waves encountering optical elements, like beam splitters.
 
                                                   18
-Kevin Zhou                                                          Physics Olympiad Handouts
+
+
+Kevin Zhou                                                          Physics Olympiad Handouts
 
   All of this is not surprising, because interference comes from wave equations, which in turn
   are derived from Newton’s laws or Maxwell’s equations, which obey energy conservation.

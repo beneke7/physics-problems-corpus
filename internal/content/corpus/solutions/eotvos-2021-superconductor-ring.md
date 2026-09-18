@@ -12,8 +12,8 @@ figure_files: []
 provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2021_S.pdf."
 ---
 
-2. feladat. Egy henger alakú,  hosszúságú és R   sugarú, légmagos szolenoid
-meneteinek száma N. A tekercs belsejébe egy r  R sugarú, a szolenoid szimmetria-
+2. feladat. Egy henger alakú,   hosszúságú és R     sugarú, légmagos szolenoid
+meneteinek száma N. A tekercs belsejébe egy r   R sugarú, a szolenoid szimmetria-
 tengelyére merőleges sı́kú, L induktivitású szupravezető gyűrűt helyezünk (a gyűrű
 és a szolenoid középpontja egybeesik).
 a) Növekszik vagy csökken a szolenoid induktivitása a gyűrű behelyezése követ-
@@ -61,17 +61,17 @@ feladat.) M értékét a feladatban megadott geometriára könnyen kiszám
 Az I erősségű árammal átjárt szolenoidban a homogén mágneses tér indukcióvek-
 torának nagysága
 μ0NI
-
+
 . Mivel a gyűrű sı́kja merőleges a mágneses tér irányára,
 a gyűrűn áthaladó mágneses ﬂuxus
 μ0NI
-
+
 r2
 π. Innen kiolvashatjuk a kölcsönös in-
 dukciós együttható értékét:
 M =
 μ0N
-
+
 r2
 π.
 A gyűrű ﬂuxusa nem változik meg, ha a szolenoid áramát nulláról I-re növel-
@@ -85,11 +85,11 @@ A szolenoidon áthaladó mágneses ﬂuxus értéke:
 ahol L0 a szolenoid öninduktivitása. Behelyettesı́tve a gyűrű áramát, a következőt
 kapjuk:
 Φszolenoid =
-
+
 L0 −
 M2
 L
-
+
 I.
 Láthatjuk, hogy a szolenoidon áthaladó mágneses ﬂuxus arányos a szolenoid ára-
 mával. Az arányossági tényező a szupravezető gyűrűt tartalmazó szolenoid induk-
@@ -102,7 +102,7 @@ L
 0N2
 r4
 π2
-2L
+ 2L
 értékkel kisebb, mint a gyűrű nélküli szolenoid öninduktivitása.
 108 Középiskolai Matematikai és Fizikai Lapok, 2022/2
 i

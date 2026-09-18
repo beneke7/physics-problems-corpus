@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-How long did the object, projected horizontally at an initial speed of $v_0$, fall while it reached a position which was at a distance of $s$ from the position of the projection? (Neglect air resistance.) 
- Data: $v_0=5$ m/s, $s=20$ m. 
+How long did the object, projected horizontally at an initial speed of $v_0$, fall while it reached a position which was at a distance of $s$ from the position of the projection? (Neglect air resistance.)
+ Data: $v_0=5$ m/s, $s=20$ m.
  (4 pont)

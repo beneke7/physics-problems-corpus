@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200601"
 verification_status: pending
 ---
 
-An hour-glass is placed to one of the pans of a pair of scales which is balanced while the sand trickles down. Does the equilibrium of the scales change when all the sand is in the lower chamber? 
+An hour-glass is placed to one of the pans of a pair of scales which is balanced while the sand trickles down. Does the equilibrium of the scales change when all the sand is in the lower chamber?
  (3 pont)

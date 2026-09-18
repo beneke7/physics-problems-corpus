@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-What is the probability that a iodine-131 atom decays in the next minute? (The half-life of iodine-131 is $T_{1/2}=8$ days.) 
+What is the probability that a iodine-131 atom decays in the next minute? (The half-life of iodine-131 is $T_{1/2}=8$ days.)
  (4 pont)

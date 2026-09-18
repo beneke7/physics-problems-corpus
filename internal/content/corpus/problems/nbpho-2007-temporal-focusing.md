@@ -32,7 +32,7 @@ $|U(t)| \ll U_{0}$. The electrons starting at different moments of time are to
 be gathered together (focused) at the probe $D$, which is at distance $b$ from
 the gap $C$. In order to analyze this setup, answer the following questions.
 
-![figure](../../sources/nbpho/figures/nbpho-2007-temporal-focusing-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2007-temporal-focusing-fig1.jpg)
 
 1) Assuming that $U(t) \equiv 0$, what is the time needed for the electrons to
 travel from the gap $B$ to the probe $D$?

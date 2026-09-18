@@ -50,7 +50,9 @@ all the screening charges on the plane. After moving the real charge out by dx, 
 charges move to their new positions, which takes no work since the electric field is still almost
 perpendicular to the plane. This moves the image charge out by dx, without requiring work,
 explaining why the work required is half the naive amount.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Suppose we freeze the plane’s screening charges in place, then move the point charge out to
 infinity. In this case the image charge is stationary, so the work needed is q2/(8πϵ0a).
 Let’s think about what this means. There are two components to the initial potential energy:
@@ -87,7 +89,9 @@ Example 1
 Two grounded conducting half-planes intersect, so that in cylindrical coordinates, the equa-
 tions describing the planes are θ = 0 and θ = θp = π/2. A charge q is placed somewhere
 between the planes. Can the method of images be used to find the force on the charge? What
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 if θp = 2π/3, or for general θp?
 Solution
 We can solve the first case with three image charges. Let the real charge q be at (x,y).
@@ -117,7 +121,9 @@ As an aside, the fundamental reason the method of images works for spheres is th
 has conformal symmetry, a symmetry under any local rescaling of space which preserves angles.
 (One example of a conformal transformation is inversion in Euclidean geometry.) The setup here is
 related to the conducting plane by such a transformation.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The problem can be solved immediately if you know about Apollonian circles. Here we’ll
 present a straightforward solution using coordinates.
 (a) The condition for the potential to vanish is
@@ -182,7 +188,9 @@ Therefore, the total charge on the shell has to be −q. It is a combination of 
 q′ spread over the surface, corresponding to the image charge, and a charge −q − q′ spread
 uniformly over the surface. This second contribution to the charge doesn’t show up in the
 image charge argument, because it makes no electric field inside the shell.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 4. An infinite grounded conducting plane at z = 0 is deformed with a hemispherical
 bump of radius R centered at the origin, as shown. A charge q is placed at z = a as shown.
 Can the method of images be used to find the potential in the region with the charge? If so, specify
@@ -225,7 +233,9 @@ b =
 r.
 If you didn’t find the factorization, you can also solve the quintic numerically.
 [3] Problem 6. A neutral spherical conductor of radius R is placed in a uniform external field E0.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Since electrostatic fields must vanish inside conductors, the surface charge on the conductor
 must conspire to create an opposing uniform field inside it. How exactly does this happen?
 Specifically, explicitly find σ(θ), the surface charge density as a function of the angle from E0.
@@ -279,7 +289,9 @@ half the displacement. It has the same dipole moment as in part (b), as it must.
 [5] Problem 7 (Purcell 3.45). [A] Consider a point charge q located between two parallel infinite
 grounded conducting planes. The planes are a distance ℓ apart, and the point charge is a distance
 b from the left plane. The goal of this problem is to find the total charge induced on each plane.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Argue that the total charge on each plane would not change if we replaced the point charge q
 with two point charges q/2, both a distance b from the left plane. By iterating this process,
 convert the point charge into a uniformly charged plane, and use this to get the answer.
@@ -325,13 +337,13 @@ br
 +
 ∞ X
 n=1
-
+
 (2nℓ − b)r
 ((2nℓ − b)2 + r2)3/2
 −
 (2nℓ + b)r
 ((2nℓ + b)2 + r2)3/2
-#
+ #
 dr.
 The first term integrates to 1, so we will deal with the sum. Consider one term for some given
 n, and say we integrate out to some finite but large R. The term integrates out to
@@ -354,7 +366,9 @@ R
 1
 (1 + (2nℓ/R)2)3/2
 .
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Finally, in the limit R → ∞, the sum can be written as an integral, giving
 2b
 R
@@ -407,7 +421,9 @@ doesn’t work. There, the answer depended in detail on what regulator was chose
 couldn’t get a unique answer by removing the regulator at the end. In general, regularization
 (and its accompanying concept of renormalization) is a tricky subject which requires both
 mathematical care and physical intuition.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 2 Capacitors
 Idea 2
 There are multiple definitions of capacitance. For a single, isolated conductor with charge Q,
@@ -446,7 +462,9 @@ Remark
 General capacitance coefficients are discussed further in section 3.6 of Purcell. One nontrivial
 fact is that Cij = Cji, which is proven by energy conservation in problem 3.64 of Purcell.
 Capacitance coefficients can be clunky to work with. For example, suppose you want to
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 compute the familiar capacitance of a system of two conductors. By definition, we have
 Q1 = C11ϕ1 + C12ϕ2, Q2 = C21ϕ1 + C22ϕ2.
 An ordinary two-plate capacitor corresponds to the special case of opposite charges on the
@@ -491,7 +509,9 @@ Ql
 1 =
 Q1 + Q2 + Q3
 2
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 and from charge conservation we conclude
 Qr
 1 = Q1 − Ql
@@ -558,7 +578,9 @@ Now suppose that we give charge q′ to A and two other spheres. Then we have
 5
 q.
 [3] Problem 11. Consider two concentric spherical metal shells, with radii a < b.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Compute their capacitance using Gauss’s law.
 (b) Compute their capacitance by computing the four capacitance coefficients, verifying that
 C12 = C21 along the way, and using the result for C above.
@@ -566,13 +588,13 @@ Solution. (a) Let the shells have charge ±Q. The field between the shells is (Q
 V =
 Q
 4πϵ0
-
+
 1
 a
 −
 1
 b
-
+
 .
 Thus the capacitance is
 C =
@@ -632,7 +654,7 @@ b − a
 This is certainly a longer route to get to the same conclusion! (Note that in this very simple
 case, we actually have C = C11. That’s because of the shell theorem, and it wouldn’t hold in
 a more general situation.)
-[3] Problem 12.  W 1 0USAPhO 2008, problem A1.
+[3] Problem 12.   W 1 0USAPhO 2008, problem A1.
 Idea 4
 A two-plate capacitor with voltage difference V and mutual capacitance C stores energy
 U =
@@ -643,7 +665,9 @@ QV =
 2
 CV 2
 .
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Many circuits have multiple two-plate capacitors. In general, these need to be handled with
 the capacitance coefficients introduced in idea 3. But in practice, capacitors used in circuits
 are designed to produce fields confined within themselves, so that different capacitors don’t
@@ -713,17 +737,19 @@ r4
 =
 Q2
 8πϵ0
-
+
 1
 R1
 −
 1
 R2
-
+
 .
 On the other hand, this should be equal to U = QV/2, which follows directly from the result
 of problem 11.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 15 (Purcell 3.26). A parallel-plate capacitor consists of a fixed plate and a movable plate
 that is allowed to slide in the direction parallel to the plates. Let x be the distance of overlap.
 The separation between the plates is fixed. Let C(x) be the capacitance.
@@ -748,11 +774,11 @@ Q2
 2
 d
 dx
-
+
 −
 1
 C
-
+
 =
 Q2
 2C2
@@ -790,7 +816,9 @@ Q2
 ϕ2C2
 = 1.
 If we didn’t account for the subtlety in part (b), we would have gotten −1 here.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (d) At first this seems confusing, as the field is supposed to be perfectly vertical. The resolution
 is that the force comes from the fringe fields, i.e. the fields right at the edges of the plates,
 which have a horizontal component.
@@ -828,7 +856,9 @@ This potential energy is released when the capacitor is discharged.
 Example 2: PPP 151
 A closed body with conducting surface F has self-capacitance C. The surface is now dented
 so that the new surface F∗ is entirely inside F. Prove that the capacitance has decreased.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The energy stored in the capacitor is U = Q2/2C. Therefore, if we give the capacitor a
 fixed charge Q, proving that F∗ has lower C is equivalent to showing that we can move the
@@ -865,7 +895,9 @@ A small bit of positive charge will certainly want to hop on the wire and follow
 field across the gap to the larger shell. But when it gets to the larger shell, it seems like it
 has no reason to keep going to infinity, because the field is zero outside. And, even worse, the
 field will point inward once some positive charge has moved away from the shells. So it seems
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 like the field will drag back any positive charge that has left. Does charge actually leave the
 inner shell? If so, what’s wrong with the above reasoning?
 Solution. (a) The potential at the outer shell due to itself is −Q/4πϵ0R2 and the potential due
@@ -908,7 +940,9 @@ field points in the “wrong” direction at some points along the wire, because
 capacitance: charges within it move rigidly, each pushing the next one and pulling the previous one.
 But it’s puzzling how this works for a capacitor, because the electric field is supposed to be
 essentially zero just outside it. Consider two possible limiting cases for the wire’s shape.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 In each case, explain qualitatively how
 R
 E · ds can be equal to V . In particular, how large are the
@@ -966,8 +1000,10 @@ which is on the order of the voltage V across the capacitor plates. Of course, w
 V because we made a lot of approximations in the calculation, but this illustrates the conceptual
 point: the full integral of E · ds can indeed be equal to V , and most of the contribution to this
 integral comes from the part of the vertical wire which is a distance of order a from the capacitor.
-18Kevin Zhou Physics Olympiad Handouts
-[3] Problem 19.  ^ 1 0USAPhO 2022, problem A2. A computational problem involving surface tension.
+18
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 19.   ^ 1 0USAPhO 2022, problem A2. A computational problem involving surface tension.
 Example 4
 Find the leading interaction force between a dipole of dipole moment p and a grounded
 conducting sphere of radius r, separated by a distance R ≫ r. What if the sphere is
@@ -1046,7 +1082,9 @@ R
 =
 pr3
 R3
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 with the same magnitude and direction as p′. Thus, this system of image charges has
 approximate dipole moment 2p′. The corresponding force is
 F = p
@@ -1088,13 +1126,13 @@ kq
 L2
 which tells us that Q ∼ (ℓ/L)2q. The force on the induced charges is then
 F ∼ kqQ
-
+
 1
 (L + ℓ)2
 −
 1
 L2
-
+
 ∼ −
 kqQℓ
 L3
@@ -1104,7 +1142,9 @@ L5
 .
 Again, the force is attractive, and falls off quickly with distance.
 [3] Problem 20 (Physics Cup 2017). Estimate the interaction force between a point charge q and an
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 infinitely thin circular neutral conducting disc of radius r if the charge is at the axis of the disc,
 and the distance between the disc and the charge is L ≫ r.
 Solution. The interaction is because charges redistribute on the disc to keep it an equipotential.
@@ -1127,13 +1167,13 @@ L3
 .
 The force is attractive, and by Coulomb’s law,
 F ∼ kqQ
-
+
 1
 L2
 −
 L
 (L2 + r2)3/2
-
+
 ∼
 kq2r5
 L7
@@ -1158,7 +1198,9 @@ Q
 V1 − V2
 = 2πϵ0r.
 This is ignoring any interaction between the charges on different spheres.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Each sphere has an energy Q2/8πϵ0r due to its own field, so the simplest correction is to
 account for the electrostatic interaction between them, treating them as approximately point
 charges. We therefore have
@@ -1214,7 +1256,9 @@ way. On the other hand, it’s intuitive if you consider the energy, as in part 
 more natural quantity, since U ∝ 1/C.
 We know that the leading correction to the charge distribution is the image charge q1 = q0r/a,
 which is off center by r2/a. Thus, each sphere can be regarded as a point charge Q at its
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 center, plus a dipole moment p1 ∼ Qr3/a2, plus higher order corrections. This dipole interacts
 with the point charge field of the other sphere with a potential energy
 ∆U ∼ p1 · E ∼
@@ -1262,7 +1306,9 @@ that this is the surface charge density on each side of the thin disc, so if you
 of an infinitely thin disc, you should double the answer.
 4 Electrical Conduction
 We now leave the world of electrostatics and consider steady currents.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 6
 In a conductor with conductivity σ, the current density is
 J = σE.
@@ -1302,7 +1348,9 @@ very little charge.
 is essentially just a resistor, which emits light when it gets hot. It is designed to be connected to a
 power supply of given voltage, in parallel with other bulbs. Now suppose a bulb marked “200W”
 and a bulb marked “50W” are accidentally connected in series. Which bulb is brighter?
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. A standard bulb is designed to be hooked up in parallel with other bulbs, across some
 fixed voltage V . Since P = V 2/R, higher wattage bulbs have lower resistance. Since the bulbs are
 in series, then have the same current through them. Since P = I2R, that means the bulb with the
@@ -1322,7 +1370,9 @@ By the above idea, we can short together two pairs of nodes, by the diagonal sym
 the network. By using the same idea in reverse, we can also break two nodes each into two
 pieces. This is valid because the separated nodes still have the same potential in the new
 network, by the diagonal symmetry.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Now, the circuit has been reduced to combinations of series and parallel resistors. The
 resistance between 1 and 2/3 is R/2. The resistance between 2/3 and 14/15 is the combination
 of three networks in parallel, and the resistance between 14/15 and 16 is R/2. Thus,
@@ -1330,7 +1380,7 @@ Req =
 1
 2
 +
-
+
 1
 3
 +
@@ -1339,7 +1389,7 @@ Req =
 +
 1
 2
-−1
+ −1
 +
 1
 2
@@ -1357,10 +1407,12 @@ Solution
 A simple configuration with two equal resistors works.
 When a battery is connected across II, the horizontal resistor doesn’t do anything. When a
 battery is connected across I, the two resistors comprise a voltage divider.
-[2] Problem 24.  W 1 0USAPhO 2007, problem A1.
+[2] Problem 24.   W 1 0USAPhO 2007, problem A1.
 [2] Problem 25 (IPhO 1996). Consider the following resistor network.
 Find the equivalent resistance between A and B.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The answer is 0.5Ω. See the official solutions of IPhO 1996, problem 1(a).
 [3] Problem 26. Consider a cube of side length L whose edges are resistors of resistance R.
 (a) Compute the resistance between two vertices a distance
@@ -1427,24 +1479,26 @@ R
 which there are n. By symmetry, these are all at the same voltage. Next, these vertices are
 connected to all the vertices with two 1’s, of which there are n
 2
-
+
 , and so on.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 We hence have n + 1 effective vertices of different voltages. Consider the vertex representing
 points with k 1’s. The number of connections to points with k + 1 1’s is n
 k
-
+
 (n − k). Then by
 adding series and parallel resistances,
 Req = R
 n−1 X
 k=0
-
+
 n
 k
-
+
 (n − k)
-−1
+ −1
 .
 For example, this recovers the result of part (a) for n = 3.
 [2] Problem 27 (PPP 158). Consider the circuit below, where every resistor is 1Ω.
@@ -1477,7 +1531,9 @@ R = 1 +
 1
 1 + 1
 R
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 which is equivalent to the quadratic
 R2
 − R − 1 = 0, R =
@@ -1525,7 +1581,9 @@ of a current I flowing into one point, and an equal current I flowing out the ot
 points was removed?
 (c) Now consider an icosahedron of identical resistors R. By superposing appropriate current
 distributions, find the equivalent resistance between two neighboring vertices.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Suppose we had only a current I flowing into the first point. Then by symmetry,
 a current I/4 flows out along each of the resistors connected to that point. (This current
 eventually flows out to infinity.)
@@ -1572,7 +1630,9 @@ force, because we just established that it’s pointing the wrong way. It’s no
 For some setups, it is literally a mechanical force like a pump: in the Van de Graaff generator,
 a motor drives the charges on a statically charged conveyor belt to higher potential. But
 that’s not how batteries work.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 In a battery, there is no specific force pushing charges from low to high electric potential.
 Instead, the charges just jiggle around randomly, and the result emerges from the effects of
 their many collisions. To understand this, consider a gravitational analogy.
@@ -1593,7 +1653,9 @@ Consider a circuit such as the one shown, with all quantities unknown. We want t
 the current flowing across point A and the voltage difference between points B and C. Given a
 galvanometer with known Rg, and also a supply of known resistors (ranging from much smaller to
 much larger than Rg), how can you accomplish these two tasks? Explain how to construct your
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 two devices (called an ammeter and voltmeter), and also how you should insert them in the given
 circuit. You will need to make sure that you (a) affect the given circuit as little as possible, and (b)
 don’t destroy your galvanometer by passing more current through it than it can handle.
@@ -1613,7 +1675,7 @@ be used this way. There is no guarantee that the resistance of the voltmeter is 
 Instead, for most digital multimeters, there is a complex circuit inside that adjusts the internal
 resistance depending on the input and the configuration settings. You probably won’t break
 the voltmeter when you put it in series, but you won’t get reliable results either.
-[2] Problem 30.  ^ 1 0USAPhO Quarterfinal 2009, problems 3 and 4.
+[2] Problem 30.   ^ 1 0USAPhO Quarterfinal 2009, problems 3 and 4.
 [3] Problem 31. INPhO 2021, problem 1. A nice problem on practical circuit measurements. Note
 that the question statement is a bit vague. You are supposed to keep track of quantities of order
 RA/R and R/RV , but you are allowed to neglect quantities as small as RA/RV .

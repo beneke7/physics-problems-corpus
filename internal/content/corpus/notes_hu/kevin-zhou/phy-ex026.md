@@ -55,7 +55,6 @@ Most a mértéktranszformációkat és a Faraday-tenzort vizsgáljuk.
     metrikafüggővé teszi), a mértéktranszformációk pedig
 
                                              Aµ → Aµ − ∂µ χ.
-38 2. Elektromágnesség
 
 
   • A Faraday-tenzor definíciója

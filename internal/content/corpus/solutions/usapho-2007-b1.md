@@ -102,9 +102,9 @@ L − n(2mg sinθ)/k < L/2 + (mg sinθ)/k, (B1-18)
 whichever happens first. (The first condition corresponds to going down and ending up above
 the midpoint at the end of the down trip, the second condition corresponds to going up and
 stopping below the upper equilibrium.) The second condition can be rewritten as
-
+
 n +
 1
 2
-
+
 (2mg sinθ)/k > L/2. (B1-19)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202504"
 verification_status: pending
 ---
 
-Fold a paper air-plane and measure the lift-to-drag ratio. Try to make it sink evenly over as long a distance as possible. 
+Fold a paper air-plane and measure the lift-to-drag ratio. Try to make it sink evenly over as long a distance as possible.
  (6 pont)

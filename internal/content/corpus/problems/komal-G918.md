@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [differential-element, exploit-symmetry]
 ---
 
-Both ends of a rope of mass 2 kg and of length 2 m are attached (close to each other) to the ceiling, and then another identical rope is thrown over the lower point of the loop. What is the tension in each rope at the seven points shown in the figure? 
+Both ends of a rope of mass 2 kg and of length 2 m are attached (close to each other) to the ceiling, and then another identical rope is thrown over the lower point of the loop. What is the tension in each rope at the seven points shown in the figure?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G918-fig1.png)
+![figure](../../figures/komal/figures/komal-G918-fig1.png)

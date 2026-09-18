@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4884. Néhány m/s sebességgel függőlegesen feldobunk egy pár cm átmérőjű acélgolyót, valamint ugyanakkora sebességgel egy könnyű, nagy strandlabdát. Ábrázoljuk vázlatosan a mozgás sebesség–idő grafikonját ugyanabban a koordináta-rendszerben! 
+P. 4884. Néhány m/s sebességgel függőlegesen feldobunk egy pár cm átmérőjű acélgolyót, valamint ugyanakkora sebességgel egy könnyű, nagy strandlabdát. Ábrázoljuk vázlatosan a mozgás sebesség–idő grafikonját ugyanabban a koordináta-rendszerben!
  Hasonlítsuk össze a testek kiindulási és visszaérkezési sebességét! Van-e olyan pillanat, amikor a két görbe meredeksége megegyezik? Melyik test jut magasabbra, és ez hogyan látszik a grafikonon?

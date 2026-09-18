@@ -21,4 +21,4 @@ An electrical transformer is connected as shown in the circuit below. Both windi
 (a) Find the current in the both loops immediately after the switch is closed.
 (b) Find the currents as a function of time.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr70-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr70-fig1.jpg)

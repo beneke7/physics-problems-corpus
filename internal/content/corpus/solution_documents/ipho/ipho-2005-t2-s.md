@@ -91,7 +91,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                                                                                                       Solution Th 2 Page 1 of 4
-                                         36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                         36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                            R.S.E.F.
 
 
@@ -161,7 +163,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                                                                                                         Solution Th 2 Page 2 of 4
-                                      36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                      36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                             R.S.E.F.
 
 
@@ -210,7 +214,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                                                                                                          Solution Th 2 Page 3 of 4
-                                36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                     R.S.E.F.
 
 

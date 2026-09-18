@@ -24,7 +24,7 @@ techniques: [conservation-laws, differential-element]
 ---
 
 B2. (40) Consider the following model of the effect of eddy currents. A rigid wheel, shown in the diagram to the right, consists of ten identical resistors each having resistance $R$. Five of the resistors are equally spaced around a circumference of radius $r_{o}$. The other five resistors form spokes of the wheel with an angle of $72^{0}=2 \pi / 5$ radians between adjacent spokes. Assume the resistors have negligible thickness and follow the curvature of the circumference. The wheel rotates about a fixed axis through a circular-sector-wedgeshaped uniform magnetic field $\boldsymbol{B}$. The sides of the wedge have a length $r_{o}$ and the angle of the wedge is 72°. The vertex of the wedge coincides with the axis of the rotating wheel. The wheel's moment of inertia about its center of mass is $I_{o}$. At time $t$, the wheel's
-![](usapho-1999-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-1999-b2-fig01.png)
 angular velocity is $\omega(t)$.
 (15) a. Draw a diagram of the wheel which shows the direction and magnitude of the electric current in each of the ten resistors. Express all currents on the diagram as a multiple of the smallest current $I$. What is $I$ ?
 (5) b. Find the total power resistively dissipated by the wheel.

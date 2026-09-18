@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201103"
 verification_status: pending
 ---
 
-A vessel, filled with water, is placed to a very accurate scale, and the reading on the scale is 308.48 g. A block which hangs on a spring balance is totally immersed into the water. Now the reading on the scale is 336.43 g. What is the reading on the spring balance if it was 1.75 N before the block was immersed into the water? What is the density of the block? 
+A vessel, filled with water, is placed to a very accurate scale, and the reading on the scale is 308.48 g. A block which hangs on a spring balance is totally immersed into the water. Now the reading on the scale is 336.43 g. What is the reading on the spring balance if it was 1.75 N before the block was immersed into the water? What is the density of the block?
  (3 pont)

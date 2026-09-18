@@ -59,6 +59,6 @@ w0(φD2
 4 (assuming λ ≈ 500nm).
 6) k − 1 ∼ 1 (or k − 1 > 1) means that the star
 can be easily seen (as is the case for the telesco-
-pe); k − 1  1 means that the star cannot be
+pe); k − 1   1 means that the star cannot be
 seen (for the eye,k − 1 ≈ 1 · 10−4
 ).

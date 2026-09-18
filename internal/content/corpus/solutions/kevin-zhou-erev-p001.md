@@ -52,7 +52,7 @@ Incidentally, this result was first derived by a French telegrapher, and is call
 Variations of this method are still used to locate breaks in cables today!
 1
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 2.  W 1 0USAPhO 2006, problem A2.
+[3] Problem 2.   W 1 0USAPhO 2006, problem A2.
 [2] Problem 3 (Kalda). Not all circuits are made of only series and parallel combinations. The Y-∆
 transform is the next simplest tool you can use. Consider the two sets of resistors shown below.
 The two are equivalent provided that

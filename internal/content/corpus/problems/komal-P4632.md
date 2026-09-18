@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201404"
 verification_status: pending
 ---
 
-A sample of low pressure gas of given mass, is taken from state $A$ to state $B$ , along the process $AB$ as shown in the figure. How much work is done? 
+A sample of low pressure gas of given mass, is taken from state $A$ to state $B$ , along the process $AB$ as shown in the figure. How much work is done?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4632-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4632-fig1.gif)

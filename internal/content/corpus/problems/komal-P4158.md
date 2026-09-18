@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A uniform solid disc of radius 10 cm and of mass 5 kg is rotated at an angular speed of 120 1/s along its horizontal symmetry axis, and carefully, without giving any initial speed to it, it is placed to a horizontal surface. The coefficient of friction between the disc and the surface is 0.4. 
- Determine the work done by the frictional force on the disc, while it covers a distance of 5 m: 
- a ) with using the definition of work done; 
- b ) with using the work-energy theorem. 
- (Neglect air resistance and rolling friction, and calculate with g =10 m/s$^{2}$.) 
+A uniform solid disc of radius 10 cm and of mass 5 kg is rotated at an angular speed of 120 1/s along its horizontal symmetry axis, and carefully, without giving any initial speed to it, it is placed to a horizontal surface. The coefficient of friction between the disc and the surface is 0.4.
+ Determine the work done by the frictional force on the disc, while it covers a distance of 5 m:
+ a ) with using the definition of work done;
+ b ) with using the work-energy theorem.
+ (Neglect air resistance and rolling friction, and calculate with g =10 m/s$^{2}$.)
  (5 pont)

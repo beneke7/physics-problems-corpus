@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201512"
 verification_status: pending
 ---
 
-200 g water is heated on a camping stove from a temperature of $15~{}^\circ$C to a temperature of $75~{}^\circ$C. (The cartridge of the stove contains 80% butene and 20% propane.) 
- By what amount does the total mass of the stove change during the heating process, if the efficiency of heating is 60%? 
+200 g water is heated on a camping stove from a temperature of $15~{}^\circ$C to a temperature of $75~{}^\circ$C. (The cartridge of the stove contains 80% butene and 20% propane.)
+ By what amount does the total mass of the stove change during the heating process, if the efficiency of heating is 60%?
  (3 pont)

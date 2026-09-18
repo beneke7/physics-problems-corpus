@@ -59,7 +59,8 @@ This is a canonical form of the equation of ellipse in (x, p). The centre of the
 ellipse is at (0, 0) and the semiaxes are   and         respectively.
 
        b) [0.5 p] The phase trajectory is of the following form (Fig. 2):
- th
+
+ th
 7 Asian Physics Olympiad                           Solution of Theoretical Question 2 Page 2 /5
 
 
@@ -92,7 +93,8 @@ The phase trajectory is shown in Fig. 3.
        There are K = 3 qualitatively different types of the phase trajectories:
 oscillations, rotations, and the motion to the upper point of equilibrium
 (separatrisse) (1.0). (We do not take the equilibrium points as phase trajectories)
- th
+
+ th
 7 Asian Physics Olympiad                               Solution of Theoretical Question 2 Page 3 /5
 
 
@@ -133,7 +135,8 @@ Thus, the phase trajectory is (Fig. 4) (2.5)
 
 
                                        Fig. 4. (1.0)
- th
+
+ th
 7 Asian Physics Olympiad                              Solution of Theoretical Question 2 Page 4 /5
 
 
@@ -172,7 +175,8 @@ The oscillations do not stop until the amplitude is more than half-width of the
 stagnation region x+ - x-. In real situations, the body stops in random positions
 within the stagnation region. In Fig. 5 the point P denotes the point where the body
 stops.
- th
+
+ th
 7 Asian Physics Olympiad                                   Solution of Theoretical Question 2 Page 5 /5
 
 

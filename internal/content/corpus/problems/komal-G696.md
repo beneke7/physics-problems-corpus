@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-Alexander got a soldering iron as a Christmas present, and he immediately tried it. He soldered two resistors of resistances $2000~\Omega$ and $500~\Omega$ in parallel, and then with this he soldered another $500~\Omega$ resistor in series. Finally with this he soldered a $600~\Omega$ resistor in parallel. He connected the circuit to a battery and measured the voltage across the $2000~\Omega$ resistor, which was 2 V. 
- $a)$ Draw a schematic figure of the circuit. 
- $b)$ What is the voltage across the battery? 
- $c)$ What is the current through the battery? 
+Alexander got a soldering iron as a Christmas present, and he immediately tried it. He soldered two resistors of resistances $2000~\Omega$ and $500~\Omega$ in parallel, and then with this he soldered another $500~\Omega$ resistor in series. Finally with this he soldered a $600~\Omega$ resistor in parallel. He connected the circuit to a battery and measured the voltage across the $2000~\Omega$ resistor, which was 2 V.
+ $a)$ Draw a schematic figure of the circuit.
+ $b)$ What is the voltage across the battery?
+ $c)$ What is the current through the battery?
  (3 pont)

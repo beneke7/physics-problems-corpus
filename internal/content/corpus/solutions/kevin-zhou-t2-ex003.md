@@ -60,11 +60,11 @@ By expanding both d̄Q and dU in the differentials dV and dT, we read off
 The first result just tells us that CV can be equivalently defined as (∂U/∂T)|V . As for the
 second result, plugging it in gives an answer of
 CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 .

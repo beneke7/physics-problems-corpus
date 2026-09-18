@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [differential-element, extremization]
 ---
 
-Two thin metal rods of the same length, density and cross-section were soldered together to make a straight rod that is twice as long as the original length of a single rod. The Young's modulus of the material of one part (denoted by A) is $E_\mathrm{A}$ and that of the other part (denoted by B) is $E_\mathrm{B}>E_\mathrm{A}$. The rod is rotated about an axis perpendicular to it at a given angular speed. The axis of rotation goes through the 
- a) free end of rod A, 
- b) free end of rod B, 
- c) soldered ends. 
- In which of the three cases will the total elongation of the rod be the greatest and the smallest? 
+Two thin metal rods of the same length, density and cross-section were soldered together to make a straight rod that is twice as long as the original length of a single rod. The Young's modulus of the material of one part (denoted by A) is $E_\mathrm{A}$ and that of the other part (denoted by B) is $E_\mathrm{B}>E_\mathrm{A}$. The rod is rotated about an axis perpendicular to it at a given angular speed. The axis of rotation goes through the
+ a) free end of rod A,
+ b) free end of rod B,
+ c) soldered ends.
+ In which of the three cases will the total elongation of the rod be the greatest and the smallest?
  (4 pont)

@@ -49,7 +49,9 @@ Question                                    Answer                              
 
 
                                             Page 1 of 8
-   Solutions/                                                                 T2
+
+
+   Solutions/                                                                 T2
  Marking Scheme
 
 B. The Yogyakarta Earthquake
@@ -79,7 +81,9 @@ Question                               Answer                                   
 
 
                                           Page 2 of 8
-  Solutions/                                                                    T2
+
+
+  Solutions/                                                                    T2
 Marking Scheme
 
 Question                                             Answer                            Marks
@@ -112,7 +116,9 @@ Question                                             Answer                     
 
 
                                                      Page 3 of 8
-  Solutions/                                                                  T2
+
+
+  Solutions/                                                                  T2
 Marking Scheme
 
 Question                                  Answer                                     Marks
@@ -170,7 +176,9 @@ Question                                  Answer                                
 
 
                                                          Page 4 of 8
-  Solutions/                                                                                       T2
+
+
+  Solutions/                                                                                       T2
 Marking Scheme
 
 
@@ -234,7 +242,9 @@ Question                                      Answer                            
 
 
                                                            Page 5 of 8
-  Solutions/                                                                                        T2
+
+
+  Solutions/                                                                                        T2
 Marking Scheme
 
 Question                                                               Answer                               Marks
@@ -301,7 +311,9 @@ Question                                                               Answer   
 
 
                                                                       Page 6 of 8
-   Solutions/                                                            T2
+
+
+   Solutions/                                                            T2
  Marking Scheme
 
 C. Java Tsunami
@@ -350,7 +362,9 @@ Question                                 Answer                                 
                                                                                      pts
 
                                          Page 7 of 8
-    Solutions/                              T2
+
+
+    Solutions/                              T2
   Marking Scheme
 Total Score for Problem T2:
 

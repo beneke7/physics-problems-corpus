@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, differential-element]
 ---
 
-A cylindrical pot is slowly filled with water. The centre of mass of the empty pot is at a height of 10 cm, the mass of the pot is 1 kg, and its diameter is 20 cm. What is the height of the water in it, if the centre of mass of the system is at the lowest position? Where is the centre of mass at this case with respect to the level of water? 
+A cylindrical pot is slowly filled with water. The centre of mass of the empty pot is at a height of 10 cm, the mass of the pot is 1 kg, and its diameter is 20 cm. What is the height of the water in it, if the centre of mass of the system is at the lowest position? Where is the centre of mass at this case with respect to the level of water?
  (5 pont)

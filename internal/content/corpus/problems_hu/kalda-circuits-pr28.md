@@ -20,4 +20,4 @@ verification_status: pending
 
 Hányszorosára változik az $A$ ellenálláson disszipálódó teljesítmény, ha megfordítjuk a telep polaritását? Minden ellenállás azonos ellenállású. A diódák ideálisak.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr28-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr28-fig1.jpg)

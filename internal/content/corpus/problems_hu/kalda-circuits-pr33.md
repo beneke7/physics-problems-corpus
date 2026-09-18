@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi áramkörben a két voltmérő azonos; kijelzésük $V_{1}=30 \mathrm{~V}$ és $V_{2}=20 \mathrm{~V}$. Az ampermérő kijelzése $I=750 \mu \mathrm{~A}$. Mind az öt ellenállás ellenállása azonos, $R$; határozzuk meg $R$ numerikus értékét.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr33-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr33-fig1.jpg)

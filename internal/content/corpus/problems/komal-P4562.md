@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201310"
 verification_status: pending
 ---
 
-We would like to carry 600 bricks to a certain distance. If n  bricks are carried together then our speed is . We would like to finish this task in the shortest time. How many bricks should we carry together in one go? 
+We would like to carry 600 bricks to a certain distance. If n  bricks are carried together then our speed is . We would like to finish this task in the shortest time. How many bricks should we carry together in one go?
  (4 pont)

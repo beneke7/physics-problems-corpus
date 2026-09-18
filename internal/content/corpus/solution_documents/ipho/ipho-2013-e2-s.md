@@ -47,7 +47,9 @@ slot #       r         I        1/I     r^2
 
 
                                               Page 1 of 12
-                         Solar cells (solution)                     E2
+
+
+                         Solar cells (solution)                     E2
 
 2.2 Characteristic of the solar cell
 
@@ -87,7 +89,9 @@ slot #       r         I        1/I     r^2
 
 
                                               Page 2 of 12
-                            Solar cells (solution)                                              E2
+
+
+                            Solar cells (solution)                                              E2
 
 2.3 Theoretical characteristic for the solar cell
 2.3a Use the graph from question 2.2b to determine         .                              0.4
@@ -114,7 +118,9 @@ slot #       r         I        1/I     r^2
 
 
                                             Page 3 of 12
-                              Solar cells (solution)                                                  E2
+
+
+                              Solar cells (solution)                                                  E2
 
 2.4 Maximum power for a solar cell
        The maximum power that the solar cell can deliver to the external circuit is denoted
@@ -148,7 +154,9 @@ slot #       r         I        1/I     r^2
 
 
                                                Page 4 of 12
-                            Solar cells (solution)                                                     E2
+
+
+                            Solar cells (solution)                                                     E2
 
 2.5 Comparing the solar cells
      Measure, for the given illumination:
@@ -170,7 +178,9 @@ slot #       r         I        1/I     r^2
 
 
                                              Page 5 of 12
-                          Solar cells (solution)                                                    E2
+
+
+                          Solar cells (solution)                                                    E2
 
 2.6 Couplings of the solar cells
     Determine which of the four arrangements of the two solar cells yields the highest
@@ -212,7 +222,9 @@ c.
 
 
                                              Page 6 of 12
-                          Solar cells (solution)                                           E2
+
+
+                          Solar cells (solution)                                           E2
 
 d.
                                                       R like in a.
@@ -233,7 +245,9 @@ Conclusion: Best power: Set-up d with B shielded. (Solar cell A slightly better 
 
 
                                             Page 7 of 12
-                           Solar cells (solution)                                                        E2
+
+
+                           Solar cells (solution)                                                        E2
 
 2.7 The effect of the optical vessel (large cuvette) on the solar cell current
        Measure the current I, now as a function of the height, h, of water in the vessel, see Fig.
@@ -277,7 +291,9 @@ Conclusion: Best power: Set-up d with B shielded. (Solar cell A slightly better 
 
 
                                              Page 8 of 12
-                        Solar cells (solution)                             E2
+
+
+                        Solar cells (solution)                             E2
 
 2.7b Exemple drawings for position A, B, C and D on previous graph:
 
@@ -305,7 +321,9 @@ Conclusion: Best power: Set-up d with B shielded. (Solar cell A slightly better 
 
 
                                          Page 9 of 12
-Solar cells (solution)        E2
+
+
+Solar cells (solution)        E2
 
 
 
@@ -331,7 +349,9 @@ Conclusion: Best power: Set-up d with B shielded. (Solar cell A slightly better 
 
 
         Page 10 of 12
-                      Solar cells (solution)                                             E2
+
+
+                      Solar cells (solution)                                             E2
 
 2.7c NOTE: The exemplar measurements are from a different lamp than in 2.1. For a
 solution to 2.7d using the distance graph it is necessary to refer to the graph below.
@@ -341,7 +361,9 @@ solution to 2.7d using the distance graph it is necessary to refer to the graph 
 
 
                                      Page 11 of 12
-                            Solar cells (solution)                                                    E2
+
+
+                            Solar cells (solution)                                                    E2
 
 2.7d
 

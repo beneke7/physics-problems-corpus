@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, graphical-reduction]
 ---
 
-On May 14, 1962, due to the strong South West wind the water level of lake Balaton near city Keszthely decreased by 45 cm in 9 hours, while near the village Alsóörs the water level increased by 51 cm. Estimate the order of the power required of the wind to raise the level of water. (It is allowed to use relevant data found in the internet.) 
+On May 14, 1962, due to the strong South West wind the water level of lake Balaton near city Keszthely decreased by 45 cm in 9 hours, while near the village Alsóörs the water level increased by 51 cm. Estimate the order of the power required of the wind to raise the level of water. (It is allowed to use relevant data found in the internet.)
  (4 pont)

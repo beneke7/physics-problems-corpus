@@ -49,7 +49,7 @@ $$
 Assume that the motion of an electron in a superconductor obeys the laws of classical physics, and its mass can be neglected. This part of the problem requires drawing of schematic graphs. You are not required to strictly calculate the functions being analyzed, you are not required to indicate any numerical characteristics, it is enough to show its qualitative behavior: domains of increase and decrease, the presence of maxima and minima, the presence of discontinuity points, behavior with arguments tending to $\pm \infty$. You can construct these graphs even if you have not obtained the exact form of functional dependencies, such drawings will be graded as well.
 
 In the first experiment, a thin disk magnet is used, whose thickness is small compared to its radius. We align the $z$-axis with the axis of the magnet, and place the origin at its center. It can be shown that the cross-sectional average axial component $B_{z}$ of the magnetic field induction vector on the axis of the magnet depends
-![](izho-2025-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2025-t-q3-fig01.png)
 on the $z$-coordinate according to the law
 
 $$
@@ -58,13 +58,13 @@ $$
 
 where $B_{0}, a$ are known positive constants.
 Let the disk magnet move with a constant velocity $\vec{V}$ along the axis of the superconducting ring, such that its axis always coincides with the axis of the ring. Let us consider this experiment in a frame of reference associated with the ring. We direct the coordinate axis $O x$ along the axis of the ring, its origin is coincident with the ring center, so that the coordinate of the magnet $x$ changes from $-\infty$ to $+\infty$.
-![](izho-2025-t-q3-fig02.png)
+![](../../figures/izho/figures/izho-2025-t-q3-fig02.png)
 3.3 Find the dependence of the induction EMF $\varepsilon_{\text {ind }}(x)$, arising in the ring when the magnet moves, on the magnet coordinate $x$. Plot a schematic graph of this dependence.
 3.4 Find the dependence of the current in the ring $I(x)$ on the coordinate of the magnet $x$, if at the initial moment of time the current was zero. Plot a schematic graph of this dependence.
 3.5 Find the current in the ring $I_{f}$ after the magnet flies away through the ring.
 
 Let us now consider the second experiment on the passage of a monopole through the superconducting ring. Let the monopole move with a constant velocity $\vec{V}$ along the axis of the superconducting ring. In contrast, we consider this experiment in the reference frame associated with the monopole. Let us direct the coordinate axis $O z$ along the axis of the ring, its origin is coincident with the monopole, so that the
-![](izho-2025-t-q3-fig03.png)
+![](../../figures/izho/figures/izho-2025-t-q3-fig03.png)
 coordinate of the ring $z$ changes from $+\infty$ to $-\infty$.
 3.6 Find the dependence of the Lorentz force $F_{L}(z)$, acting on a free electron in the ring from the magnetic field of the monopole, on the coordinate of the ring $z$.
 3.7 Using the obtained dependence $F_{L}(z)$, find the EMF of induction in the ring $\varepsilon_{\text {ind }}(z)$ on the coordinate of the ring $z$. Plot a schematic graph of this dependence.

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200805"
 verification_status: pending
 ---
 
-A 60-g and an 80-g ball are fixed to the ends of a 28-cm rod of negligible mass. The rod is balanced by a pivot such that it is horizontal and stays at rest. With what angular acceleration does it start to move, if the pivot is placed 2 cm closer to the heavier ball? 
+A 60-g and an 80-g ball are fixed to the ends of a 28-cm rod of negligible mass. The rod is balanced by a pivot such that it is horizontal and stays at rest. With what angular acceleration does it start to move, if the pivot is placed 2 cm closer to the heavier ball?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4077-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4077-fig1.gif)

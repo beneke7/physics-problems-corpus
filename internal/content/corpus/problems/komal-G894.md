@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-From a regular hexagonal plate with side $a$ and a uniform mass distribution, cut out three equilateral triangles with side $a$, as shown in the figure . Place the three cut-out triangles on one of the remaining triangles. Where is the centre of mass of the resulting shape? 
+From a regular hexagonal plate with side $a$ and a uniform mass distribution, cut out three equilateral triangles with side $a$, as shown in the figure . Place the three cut-out triangles on one of the remaining triangles. Where is the centre of mass of the resulting shape?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G894-fig1.png)
+![figure](../../figures/komal/figures/komal-G894-fig1.png)

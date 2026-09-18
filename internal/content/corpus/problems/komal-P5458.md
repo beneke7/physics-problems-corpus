@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [model-reduction, extremization, limiting-and-special-cases]
 ---
 
-Three batteries have the same electromotive force of 12 V and each of them has an internal resistance of 3 $\Omega$. How should the batteries be connected in order that we obtain the maximum power dissipated in the external resistance $R$, and what is this power if 
- $a)$ $R = 1 \Omega$; 
- $b)$ $R = 3 \Omega$; 
- $c)$ $R = 3.5 \Omega$; 
- $d)$ $R = 6 \Omega$? 
+Three batteries have the same electromotive force of 12 V and each of them has an internal resistance of 3 $\Omega$. How should the batteries be connected in order that we obtain the maximum power dissipated in the external resistance $R$, and what is this power if
+ $a)$ $R = 1 \Omega$;
+ $b)$ $R = 3 \Omega$;
+ $c)$ $R = 3.5 \Omega$;
+ $d)$ $R = 6 \Omega$?
  (4 pont)

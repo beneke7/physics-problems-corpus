@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, cross-domain-analogy, limiting-and-special-cases]
 ---
 
-Are fish disturbed by fishermen talking 2 metres away from the shore? (The speed of sound is 340 m/s in air and 1500 m/s in water.) 
+Are fish disturbed by fishermen talking 2 metres away from the shore? (The speed of sound is 340 m/s in air and 1500 m/s in water.)
  (4 pont)

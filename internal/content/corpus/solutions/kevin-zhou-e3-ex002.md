@@ -119,6 +119,6 @@ I2 − I1
 .
 Note that your answer may differ by a harmless sign, which ultimately depends on your sign
 conventions for I1 and I2 (i.e. which terminal is A and which terminal is B).
-[3] Problem 3.  W 1 0USAPhO 2015, problem A2.
+[3] Problem 3.   W 1 0USAPhO 2015, problem A2.
 Now we give a few problems on current flow through continuous objects. Fundamentally, all one
 needs for these problems is the definition J = σE, and superposition.

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [graphical-reduction, differential-element, model-reduction]
 ---
 
-A sample of diatomic gas is taken through the cyclic process which is a circle in the $p$–$V$ diagram, when appropriate units are used, and is shown in the figure. 
+A sample of diatomic gas is taken through the cyclic process which is a circle in the $p$–$V$ diagram, when appropriate units are used, and is shown in the figure.
 
- Using numerical methods, determine the efficiency of the heat engine which executes the above cyclic process. 
+ Using numerical methods, determine the efficiency of the heat engine which executes the above cyclic process.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5484-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5484-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200904"
 verification_status: pending
 ---
 
-The electrical power of a vacuum cleaner is 1 kW. According to its description its airflow is 52 litre/s. The diameter of the tube is 3 cm. What percent of the total power is used to accelerate the air? 
+The electrical power of a vacuum cleaner is 1 kW. According to its description its airflow is 52 litre/s. The diameter of the tube is 3 cm. What percent of the total power is used to accelerate the air?
  (4 pont)

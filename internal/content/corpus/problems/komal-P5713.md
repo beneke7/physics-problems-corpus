@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-According to an amateur space researcher student, a large, flat aluminium foil could remain in equilibrium, even at a stationary position, somewhere in the solar system (but far from the planets). For the sake of simplicity, he assumed that the aluminium sail would reflect 100% of the sunlight. (It is known that the radiant flux density reaching the top of the Earth's atmosphere is $1360\,\mathrm{W/m^2}$.) What is the maximum thickness of the ``light sail" that would make this idea feasible? 
+According to an amateur space researcher student, a large, flat aluminium foil could remain in equilibrium, even at a stationary position, somewhere in the solar system (but far from the planets). For the sake of simplicity, he assumed that the aluminium sail would reflect 100% of the sunlight. (It is known that the radiant flux density reaching the top of the Earth's atmosphere is $1360\,\mathrm{W/m^2}$.) What is the maximum thickness of the ``light sail" that would make this idea feasible?
  (5 pont)

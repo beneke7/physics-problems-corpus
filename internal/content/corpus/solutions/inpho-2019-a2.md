@@ -70,18 +70,18 @@ N/2
 U1 = U0 −
 α
 L2
-
+
 N
 2
-2
+ 2
 +
 α
 L2
-
+
 N
 2
 + 1
-2
+ 2
 (2.3)
 = U0 +
 α
@@ -95,26 +95,26 @@ N/2 − 1
 U2 = U0 −
 α
 L2
-
+
 N
 2
 − 1
-2
+ 2
 +
 α
 L2
-
+
 N
 2
 + 1
-2
+ 2
 (2.5)
 = U0 +
 α
 L2
 2N (2.6)
 (e) [1] When the system is in the ground state, let the length of the box change slowly from L
-to L−∆L. Obtain the magnitude of the force F on each wall in terms of U0, when ∆L 
+to L−∆L. Obtain the magnitude of the force F on each wall in terms of U0, when ∆L
  L.
 F =
 Solution: From the work-energy theorem,
@@ -122,13 +122,13 @@ F∆L = Ufinal − Uinitial (2.7)
 =
 αN(N + 1)(N + 2)
 12
-
+
 1
 (L − ∆L)2
 −
 1
 L2
-
+
 (2.8)
 F ≈
 αN(N + 1)(N + 2)2
@@ -137,7 +137,7 @@ F ≈
 2U0
 L
 (2.9)
-(f) [1] Assuming N is large (N 
+(f) [1] Assuming N is large (N
  1) obtain the ratio r of dU0/dN to the energy level of the highest
 occupied ground state.
 H B C 1 9

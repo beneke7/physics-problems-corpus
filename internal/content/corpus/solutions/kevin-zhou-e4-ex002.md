@@ -27,11 +27,11 @@ On the other hand, the rate of change of the energy stored in the capacitor is
 Pcap =
 d
 dt
-
+
 1
 2
 CV 2
-
+
 =
 1
 2
@@ -68,23 +68,23 @@ Solution. The idea is that since the positrons are so light, they will be extrem
 the protons hardly move. Let v1 be their final speed. Then, energy conservation tells us that
 kq2
 a
-
+
 4 +
 2
 √
 2
-
+
 ≈
 kq2
 √
 2a
 + 2
-
+
 1
 2
 mv2
 1
-
+
 .
 2
 Kevin Zhou Physics Olympiad Handouts
@@ -103,12 +103,12 @@ kq2
 √
 2a
 ≈ 2
-
+
 1
 2
 Mv2
 2
-
+
 , v2 =
 s
 kq2
@@ -162,11 +162,11 @@ mvm = (m + M)v.
 Thus, we have
 1
 2
-
+
 m −
 m2
 m + M
-
+
 v2
 m =
 kqQ
@@ -197,10 +197,10 @@ keeping the conductor as a whole from falling, such as a normal force from the g
 theorem. So the positron has an initial downward acceleration of 2g. (We had to specify
 the positron was at the center, or else it would have an additional acceleration due to charge
 induction, which we could compute using image charges.)
-[3] Problem 5.  m 1 0USAPhO 2008, problem B2. You may ignore part (c), which was removed in the
+[3] Problem 5.   m 1 0USAPhO 2008, problem B2. You may ignore part (c), which was removed in the
 final version of the exam, though you can also do it for extra practice.
-[3] Problem 6.  ^ 1 0USAPhO 2019, problem B1.
-[5] Problem 7.  h 1 0IPhO 2004, problem 1. A nice question on the dynamics of a multi-part system.
+[3] Problem 6.   ^ 1 0USAPhO 2019, problem B1.
+[5] Problem 7.   h 1 0IPhO 2004, problem 1. A nice question on the dynamics of a multi-part system.
 2 The Lorentz Force
 4
 Kevin Zhou Physics Olympiad Handouts

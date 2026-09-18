@@ -23,7 +23,7 @@ solution_language: en
 techniques: [extremization, scaling-and-dimensional-analysis]
 ---
 
-# The First Discovered Quasar: Unveiling the Mysteries of the Astrophysical Source 3C 273 
+# The First Discovered Quasar: Unveiling the Mysteries of the Astrophysical Source 3C 273
 
 Part A: Moon's Apparent Motion Against the Background Stars (1.8 points)
 
@@ -38,7 +38,7 @@ In the late 1950s and early 1960s, radio position measurements with this precisi
 
 The 1962 August 5 occultation was undertaken at 410 and 136 MHz. Both disappearance and reappearance were observed and the disappearance record revealed the presence of two components, A and B, in the source. The disappearance on the right and the reappearance records on the left, at 410 MHz are plotted in Fig. 1.
 
-![](apho-2024-t-q3-fig01.png)
+![](../../figures/apho/figures/apho-2024-t-q3-fig01.png)
 Fig. 1: The 1962 August 5 disappearance and reappearance records at 410 MHz , taken from Hazard et al. (1963). Note that time increases from right to left, and that the Moon is also moving from right to left. The bottom panel shows the positions of source components A and B relative to the limb of the Moon at disappearance and reappearance.
 
 B. 1 0.6pt
@@ -58,7 +58,7 @@ B. 3 Based on your answer in A. 1 to A.4, and the data in Fig. 1, estimate the a
 
 In 1962, the year of these observations, Maarten Schmidt was working on the programme of optical identification and spectroscopy of the optical objects identified with radio sources. Whiteoak mentions as an afterthought that the 'current Caltech thinking' is that the potential 3C 273 identification is with a star and a strange jet. Given that no other bright star had been proposed as a radio source identification, he assumed that the bright magnitude 13 'star' (magnitude accounts as a way to measure how bright a star is; the brighter the star, the smaller the number) was merely a confusing foreground very bright star. To obtain a spectrum of the faint jet, which he saw as by far the most likely identification, it was inevitable that the bright confusing star some arcseconds away would spill over into any spectrum of the jet he would obtain. To offset this, Maarten Schmidt had decided to first obtain a spectrum of this bright star. On the night of December 29, he managed to obtain a spectrum of the bright 'star' which showed some faint emission lines (Fig. 2), but with no obvious explanation in terms of any expected stellar lines. Only when Schmidt decided to compare the strange spectrum with the Balmer lines of hydrogen, things became clear:
 
-![](apho-2024-t-q3-fig02.png)
+![](../../figures/apho/figures/apho-2024-t-q3-fig02.png)
 Copyright © 2008 Pearson Education, Inc., publishing as Pearson Addison-Wesley.
 
 Fig. 2: Optical spectrum of 3C 273 (top) together with a comparison laboratory spectrum (bottom).
@@ -85,7 +85,7 @@ E. 2 Something that was immediately proposed was the accretion of matter into a 
 
 Modern images from various telescopes (see e.g., Fig. 3) have found that the two components A and B that were measured with the lunar occultation actually refer to a compact core, which hosts the black hole, and a jet that extends the distance that you calculated before. This jet is thought to be produced via acceleration of the accreted particles via the strong black hole magnetic field, in a similar way particles from the Solar wind hit the magnetic field of Earth to produce the auroras near the poles, but at much larger scale.
 
-![](apho-2024-t-q3-fig03.png)
+![](../../figures/apho/figures/apho-2024-t-q3-fig03.png)
 Fig. 3: Radio image of 3C 273 taken with the MERLIN telescope.
 
 The energy density required for the production of such jet can be written in terms of the magnetic fields as the sum of the particle energy density $U_{e} \sim B^{\left(-\frac{3}{2}\right)}$ and the magnetic energy density $U_{B} \sim B^{2}$.

@@ -31,7 +31,7 @@ In addition to (2) and (3), there is a direct relationship between $H$ and $B$ d
 1. In the region $r < R$, the $B$-field and $H$-field are uniform and point in the $z$-direction.
 2. In the region $r > R$, the $B$-field is the superposition of the externally applied field $B_0$ and the field $B_m$ of a magnetic dipole $m$ at $r=0$ pointing in the $z$-direction.
 
-![Figure 1: H-field (a) and B-field (b) at the surface of the ball, decomposed at angle $\theta$.](../../sources/physicscup/figures/physicscup-2022-p1-sol-1.png)
+![Figure 1: H-field (a) and B-field (b) at the surface of the ball, decomposed at angle $\theta$.](../../../../../sources/physicscup/figures/physicscup-2022-p1-sol-1.png)
 
 Equations (3) and (2) are satisfied for $r<R$ and $r>R$, and the boundary conditions hold since the dipole field tends to zero at infinity. It remains to check the interface conditions.
 
@@ -69,7 +69,7 @@ $$ M - M' = \frac{3}{2\mu_0}(B - B') = 5.6\times 10^5\ \text{A/m}. $$
 Finally, since the magnetic dipole moment is $m = VM = \tfrac{4}{3}\pi R^3 M$, the decrease in dipole moment is
 $$ m - m' = \frac{4}{3}\pi R^3 (M - M') = 2.4\ \text{A·m}^2. $$
 
-![Figure 2: the two hysteresis curves (20 °C and 120 °C) with the line $l$ of slope $-2$ through the origin marking the working points.](../../sources/physicscup/figures/physicscup-2022-p1-sol-2.png)
+![Figure 2: the two hysteresis curves (20 °C and 120 °C) with the line $l$ of slope $-2$ through the origin marking the working points.](../../../../../sources/physicscup/figures/physicscup-2022-p1-sol-2.png)
 
 ---
 *Re-derivation check (consistent): from the graph read-offs $B=0.95$ T, $B'=0.48$ T, the chain $B-B'=0.47$ T → $M-M'=\tfrac{3}{2\mu_0}(B-B')=5.6\times10^5$ A/m → $m-m'=\tfrac43\pi R^3(M-M')=2.35\approx2.4$ A·m² reproduces all published values. The graph read-offs themselves depend on the figure and are not independently verified.*

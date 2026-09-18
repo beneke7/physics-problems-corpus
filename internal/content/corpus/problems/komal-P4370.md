@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201110"
 verification_status: pending
 ---
 
-A plane covers a distance of 2 km in 15 s when it flies downwind and in 20 s when it flies into the wind. Calculate the speed of the plane in km/h, and the speed of the wind. 
+A plane covers a distance of 2 km in 15 s when it flies downwind and in 20 s when it flies into the wind. Calculate the speed of the plane in km/h, and the speed of the wind.
  (3 pont)

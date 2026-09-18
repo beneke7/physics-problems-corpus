@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4047. Súrlódásmentes talajon egy m tömegű, hosszúságú, homogén anyageloszlású pálca áll függőlegesen. A pálca kimozdul instabil egyensúlyi helyzetéből. 
- a ) Mekkora lesz a pálca két végpontjának sebessége, mikor a pálca leér a talajra? 
+P. 4047. Súrlódásmentes talajon egy m tömegű, hosszúságú, homogén anyageloszlású pálca áll függőlegesen. A pálca kimozdul instabil egyensúlyi helyzetéből.
+ a ) Mekkora lesz a pálca két végpontjának sebessége, mikor a pálca leér a talajra?
  b ) Mekkora ebben a pillanatban a pálca mozgási energiája?

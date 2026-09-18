@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4801. A levegő molekuláin szóródó fény intenzitása a hullámhossz valamilyen hatványával arányos. A 650 nm-es vörös színű fényre az intenzitás csak negyedakkora, mint a 460 nm-es kék színű fényre - ezért látjuk az eget kék színűnek. Milyen színű fényre igaz, hogy a szórt fény intenzitása feleakkora, mint a 460 nm-es kék fényre? 
+P. 4801. A levegő molekuláin szóródó fény intenzitása a hullámhossz valamilyen hatványával arányos. A 650 nm-es vörös színű fényre az intenzitás csak negyedakkora, mint a 460 nm-es kék színű fényre - ezért látjuk az eget kék színűnek. Milyen színű fényre igaz, hogy a szórt fény intenzitása feleakkora, mint a 460 nm-es kék fényre?
  Példatári feladat nyomán

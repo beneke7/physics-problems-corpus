@@ -35,7 +35,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                f (x′ , y ′ ) ≈ f (x, y) + (x′ − x)      + (y ′ − y) .
                                                                      ∂x            ∂y
        Független x és y esetén a bizonytalansághoz tartozó két hozzájárulás négyzetes összeadásával
-                                         s         2           2
+                                         s           2             2
                                              ∂f            ∂f
                                    ∆f =          ∆x +          ∆y .
                                              ∂x             ∂y
@@ -46,7 +46,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                           5
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
     3    A bizonytalanságok használata

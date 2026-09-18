@@ -63,7 +63,9 @@ Thus:
             Vsamp 70o C   ) = 484±4 mV
 
                                                                                                         1
-                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                            Experimental Problem / Solution
 
 
@@ -110,7 +112,9 @@ The same rule for acceptable range of Vsamp as in 1.1 is applied.
 
 
                                                                                           2
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                          Experimental Problem / Solution
 
 
@@ -163,7 +167,9 @@ T (this depends on the positions of the dishes on the plate, etc.)
 
                                                     t [s]
                                                                                               3
-                            39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                            39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                             Experimental Problem / Solution
 
 
@@ -214,7 +220,9 @@ T (this depends on the positions of the dishes on the plate, etc.)
 
 
                                                                                                  4
-      39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+      39th International Physics Olympiad - Hanoi - Vietnam - 2008
                       Experimental Problem / Solution
 
 
@@ -257,7 +265,9 @@ T (this depends on the positions of the dishes on the plate, etc.)
 
 
                                                                      5
-                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Experimental Problem / Solution
 
 
@@ -318,7 +328,9 @@ above figure.
 
 
                                                                                               6
-                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Experimental Problem / Solution
 
 
@@ -378,7 +390,9 @@ From the above constituent errors we have:
 
 
                                                                                               7
-                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                        39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Experimental Problem / Solution
 
 
@@ -395,7 +409,9 @@ approximately the same result, it is also accepted.
 
 
                                                                                        8
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Experimental Problem / Solution
 
 
@@ -441,7 +457,9 @@ values lie in between -40÷+40 mV.
 
 
                                                                                       9
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Experimental Problem / Solution
 
 
@@ -485,7 +503,9 @@ relationship using ln are also accepted.
 
 
                                                                                        10
-                                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                                           Experimental Problem / Solution
 
 
@@ -546,7 +566,9 @@ experiment set.
                                   0           0.15           0.30             0.45            0.60      0.75
                                                                1-exp(-k*t/C)
                                                                                                                     11
-                      39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                      39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                       Experimental Problem / Solution
 
 
@@ -593,7 +615,9 @@ experiment set.
 
 
                                                                                                 12
-                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                            Experimental Problem / Solution
 
 
@@ -656,7 +680,9 @@ solar cell.
 
 
                                                                                                  13
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                             Experimental Problem / Solution
 
 
@@ -714,7 +740,9 @@ Typical values for η max and other constituent errors:
 
 
                                                                                                           14
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                          Experimental Problem / Solution
 
 
@@ -739,7 +767,9 @@ the same result, it is also accepted.
 
 
                                                                                         15
-39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+39th International Physics Olympiad - Hanoi - Vietnam - 2008
                 Experimental Problem / Solution
 
 

@@ -51,7 +51,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
 
- Value of 1/4π0
+ Value of 1/4π 0
                  HB
  Speed of light in vacuum
  Planck’s constant
@@ -95,7 +95,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                           HOMI BHABHA CENTRE FOR SCIENCE EDUCATION
                                  Tata Institute of Fundamental Research
                              V. N. Purav Marg, Mankhurd, Mumbai, 400 088
-INPhO 2019 Page 1                  Questions & Answers
+
+
+INPhO 2019 Page 1                  Questions & Answers
 1. In the lower part of the earth’s atmosphere, the temperature decreases with increase of height.
    Choose the origin of the coordinate system at the ground level with the y- axis vertically upward
    and the x-axis horizontal. We assume a linear decrease of temperature such that the temperature
@@ -165,7 +167,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                                                      θ2
                                                     θ1
                                                        i1
-INPhO 2019 Page 2                 Questions & Answers                          Last four digits of Roll No.:
+
+
+INPhO 2019 Page 2                 Questions & Answers                          Last four digits of Roll No.:
 
          From Snell’s law,
                                               sin i2   v2
@@ -260,7 +264,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
          Accepted range 585-600 m.
 
                           Detailed answers can be found on page numbers:
-INPhO 2019 Page 3                Questions & Answers
+
+
+INPhO 2019 Page 3                Questions & Answers
 
 
 2. Consider a particle of mass m confined to a one dimensional box of length L. The particle moves
@@ -333,7 +339,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
          U1 =
-INPhO 2019 Page 4                Questions & Answers                       Last four digits of Roll No.:
+
+
+INPhO 2019 Page 4                Questions & Answers                       Last four digits of Roll No.:
 
 
          U2 =
@@ -348,7 +356,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                           N/2
 
                                             α N 2     α             N    2
-                                                                       
+
                                   U1 = U0 −         + 2               +1                         (2.3)
                                            L2 2       L             2
                                             α
@@ -388,22 +396,22 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                           α
                                    = U0 + 2 2N
                                                −
-                                                
+
                                                  1
                                                        α
                                                      + 2
                                                       L
-                                                                   
+
                                                                         N
                                                                         2
                                                                           +1
-                                                                              
+
 
 
 
 
     (e) When the system is in the ground state, let the length of the box change slowly from L
-        to L − ∆L. Obtain the magnitude of the force F on each wall in terms of U0 , when ∆L  L.
+        to L − ∆L. Obtain the magnitude of the force F on each wall in terms of U0 , when ∆L   L.
                                                                                                  (2.5)
 
                                                                                                  (2.6)
@@ -422,7 +430,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
                              F ∆L = Ufinal − Uinitial                                            (2.7)
                                     αN (N + 1)(N + 2)        1     1
-                                                                    
+
                                   =                              −                               (2.8)
                                               12        (L − ∆L)2 L2
                                     αN (N + 1)(N + 2)2     2U0
@@ -430,9 +438,11 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                              12L3           L
 
 
-    (f) Assuming N is large (N  1) obtain the ratio r of dU0 /dN to the energy level of the highest       [1]
+    (f) Assuming N is large (N   1) obtain the ratio r of dU0 /dN to the energy level of the highest       [1]
         occupied ground state.
-INPhO 2019 Page 5                Questions & Answers
+
+
+INPhO 2019 Page 5                Questions & Answers
 
 
          r=
@@ -502,7 +512,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
    B fixed to a horizontal support as shown. The two fixed ends are close to each other. At time t
    = 0 the end A is released. All vertical distances (x) are measured with respect to the horizontal
    support with the downward direction taken as positive (A and B are initially at x = 0).
-INPhO 2019 Page 6               Questions & Answers                                 Last four digits of Roll No.:
+
+
+INPhO 2019 Page 6               Questions & Answers                                 Last four digits of Roll No.:
 
 
 
@@ -518,23 +530,23 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                    C1
          Solution: Let total mass of the chain to be
          The mass of the left side of the chain = λ
-                                            
+
                                               l+x
                                                            9
-                                                     M =λl.
+                                                      M = λl.
                                                      l+x
-                                                    2
+                                                     2
          CM of the left side of the chain =
                                                 4
                                                        l−x
-                                                          
+
          The mass of the right side of the chain = λ
                                                         2
 
 
 
-              HB                          
-                                              
+              HB
+
          CM of the right side of the chain = x +
 
 
@@ -555,29 +567,29 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                                2
                                                     l−x
                                                      4
-                                                    
-                                                        
+
+
 
 
 
                                                          l+x
                                                           4
-                                                               
+
                                                                    +λ
                                                                     λl
-                                                                         
+
                                                                              l−x
                                                                               2
-                                                                                   
+
                                                                                         x+
                                                                                              l−x
                                                                                               4
-                                                                                                   
+
 
                                                                                                           (3.1)
 
                                                                                                           (3.2)
-                                     4    2    4
+                                     4     2     4
                                         l−x
                        P = λlẋCM = λ         ẋ                                                          (3.3)
                                          2
@@ -596,7 +608,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                                                p
                                                 ẋ = gt =          2gx                                    (3.5)
                                                 Ṗ = M g − T                                              (3.6)
-INPhO 2019 Page 7                Questions & Answers
+
+
+INPhO 2019 Page 7                Questions & Answers
 
          From Eq. (3.3)
 
@@ -607,7 +621,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                 [gl − 3gx] = M g − T                                        (3.8)
                               2
                                              Mg        3x     λlg     3x
-                                                                      
+
                                      T (x) =        1+      =      1+                       (3.9)
                                               2         l      2       l
                                  T (x = l) = 2λlg                                          (3.10)
@@ -643,7 +657,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
    (d) Obtain the speed ẋ when the end A has fallen by a distance x. Assume that all sections of     [21/2]
        the falling (right side) part of the chain have the same speed.
-INPhO 2019 Page 8                 Questions & Answers                                Last four digits of Roll No.:
+
+
+INPhO 2019 Page 8                 Questions & Answers                                Last four digits of Roll No.:
 
 
          ẋ =
@@ -653,7 +669,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
           Solution: From Eq. (3.3), kinetic energy of the chain
 
                                                  1  l−x
-                                                                    
+
                                            K(x) = λ     ẋ2                                              (3.12)
                                                  2   2
           As the total energy is conserved,
@@ -710,7 +726,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
     (f) Qualitatively sketch T (x) versus x.                                                                         [1]
-INPhO 2019 Page 9                 Questions & Answers
+
+
+INPhO 2019 Page 9                 Questions & Answers
 
 
 
@@ -743,8 +761,8 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                  Detailed answers can be found on page numbers:
 
 
-4. Consider a long narrow cylinder of cross section A filled with a compressible    liquid up to height
-                                                                     ρ0 
+4. Consider a long narrow cylinder of cross section A filled with a compressible     liquid up to height
+                                                                     ρ0
    h whose density ρ is a function of the pressure P (z) as ρ(z) =        1 + PP(z)    where P0 and ρ0
                                                                      2           0
    are constants. The depth z is measured from the free surface of the liquid where the pressure is
@@ -765,7 +783,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
    (a) Obtain the pressure (P (z)) as a function of z. Obtain the mass (M ) of liquid in the tube.         [5]
-INPhO 2019 Page 10               Questions & Answers                                     Last four digits of Roll No.:
+
+
+INPhO 2019 Page 10               Questions & Answers                                     Last four digits of Roll No.:
 
 
         P (z) =
@@ -777,11 +797,11 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                           P (z) =          ρ(z)g dz + Patm                                     (4.1)
                                                        Z z
                                                      ρ0        P (z)
-                                                                               
+
                                                    =       1+        g dz + Patm                               (4.2)
                                                   0 2           P0
                                         dP (z)   ρ0        P (z)
-                                                                
+
                                                =      1+           g                                           (4.3)
                                           dz      2          P0
                             Z P (z)              Z z
@@ -820,7 +840,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
    (b) Let Pi (z) be the pressure at z, if the liquid were incompressible with density ρ0 /2. Assuming
-       that P0  ρ0 gz obtain an approximated expression for ∆P = P (z) − Pi (z).
+       that P0   ρ0 gz obtain an approximated expression for ∆P = P (z) − Pi (z).
                                                                                                                (4.9)
 
 
@@ -837,20 +857,22 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                           Pi (z) = Patm +   gz                                                               (4.10)
                                           2
                           P (z) = (P0 + Patm )eρ0 gz/2P0 − P0                                                (4.11)
-                                                       "                               2    #
+                                                        "                                2    #
                                               Patm                ρ0 gz         ρ0 gz        1
-                                                                           
+
                                 ≈ P0 1 +                     1+         +                      − P0          (4.12)
                                                P0                 2P0           2P0          2
                             ∆P = P (z) − Pi (z)                                                              (4.13)
-                                                                                        2
+                                                                                         2
                                     (ρ0 gz)2 Patm ρ0 gz Patm                    ρ0 gz
-                                                                            
+
                                 =           +          +                                                     (4.14)
                                       8P0     P0 2       2                      2P0
 
          which is correct upto second order in ρ0 gz/2P0 .
-INPhO 2019 Page 11                Questions & Answers
+
+
+INPhO 2019 Page 11                Questions & Answers
 
 
                                                       Patm ρ0 gz
@@ -893,7 +915,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                                 = IR + Bwv                                      (5.3)
                                               C
                                                 = −Q̇R + Bwv                                    (5.4)
-INPhO 2019 Page 12                    Questions & Answers                       Last four digits of Roll No.:
+
+
+INPhO 2019 Page 12                    Questions & Answers                       Last four digits of Roll No.:
 
          Differentiating Eq. (5.4) and using Eq. (5.2)
 
@@ -980,7 +1004,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
     (c) Let M = 10.0 kg, w = 0.10 m, V0 = 1.00 × 104 V and a bank of capacitors ensures that C                  [1]
         = 1.00 F. If r = rmax , calculate the value of vfinal .
          vfinal (r = rmax ) =
-INPhO 2019 Page 13               Questions & Answers
+
+
+INPhO 2019 Page 13               Questions & Answers
 
          Solution: For rmax ,
 
@@ -995,16 +1021,16 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 6. Consider n moles of a monoatomic non-ideal (realistic) gas. Its equation of state may be described
    by the van der Waal’s equation
-                                                !
+                                                !
                                          an2          V
-                                                            
+
                                        P+ 2             − b = RT
                                          V            n
 
    where a and b are positive constants and other symbols have their usual meanings. The internal
    energy change of a realistic gas can be given by
                                                        dP
-                                                                   
+
                                  dU = CV dT + T                     − P dV
                                                        dT       V
 
@@ -1049,12 +1075,14 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
          Solution:
                                                            RT
-                                                                      
+
                                       dU = CV dT +             − P dV
                                                           V −b
          AB and CD are reversible adiabats, hence entropy change during these processes are
          zero.
-INPhO 2019 Page 14                Questions & Answers                   Last four digits of Roll No.:
+
+
+INPhO 2019 Page 14                Questions & Answers                   Last four digits of Roll No.:
 
 
                                             Z B        D dQ
@@ -1068,11 +1096,11 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                         =       dT +          dV = 0                          (6.2)
                                  A    T      T           V −b
                                      TB           VB − b
-                                                        
+
                                CV ln    = −R ln                                               (6.3)
                                      TA           VA − b
                                                VB − b −R/CV          VB − b −2/3
-                                                                         
+
                                      TB = TA                  = TA                            (6.4)
                                                VA − b                VA − b
 
@@ -1124,7 +1152,7 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                        = CV dT +       dV                                     (6.9)
                                                   V −b
                                                         a
-                                                         
+
                                        = CV dT + P + 2 dV                                   (6.10)
                                                        V
                                                                               a VC
@@ -1137,7 +1165,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
           Different value of η (within a range) obtained due to reasonable roundoff in previous
           step(s) will be credited.
-INPhO 2019 Page 15            Questions & Answers
+
+
+INPhO 2019 Page 15            Questions & Answers
    (d) Draw the corresponding T -S (entropy) and V -T diagram for the Diesel cycle. Wherever   [7]
        possible, mention the numerical values of T, V, and S on the diagrams.
                T
@@ -1169,7 +1199,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
                                     = CV ln    + R ln                               (6.15)
                                             TB        VB − b
                                     = 1.73R = ∆SDA                                  (6.16)
-INPhO 2019 Page 16              Questions & Answers                     Last four digits of Roll No.:
+
+
+INPhO 2019 Page 16              Questions & Answers                     Last four digits of Roll No.:
 
 
                                T (K)
@@ -1235,14 +1267,16 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
         S(t) =
-INPhO 2019 Page 17             Questions & Answers
+
+
+INPhO 2019 Page 17             Questions & Answers
 
          Solution:
                                           mg(sin θ − µ cos θ)
                                      VT =                                                (7.1)
                                                    b
-                                                  m             
-                                            
+                                                  m
+
                                                            −tb/m
                                    S(t) = VT t −     1−e                                 (7.2)
                                                   b
@@ -1300,7 +1334,9 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
        Graph is plotted on page no. : ____
-INPhO 2019 Page 18           Questions & Answers                 Last four digits of Roll No.:
+
+
+INPhO 2019 Page 18           Questions & Answers                 Last four digits of Roll No.:
 
         Solution:
                                       VT     mg         µmg
@@ -1340,9 +1376,13 @@ Extra sheets attached :     0                   Centre (e.g. Kota)
 
 
              HB
-HB
+
+
+HB
      C1
        9
-HB
+
+
+HB
      C1
        9

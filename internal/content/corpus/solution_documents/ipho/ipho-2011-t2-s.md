@@ -61,7 +61,9 @@ Theoretical Competition: Solution
 
 
                                                                                            1
-                                             Theoretical Competition: Solution
+
+
+                                             Theoretical Competition: Solution
                                                       Question 2     Page 2 of 7
 
 
@@ -110,7 +112,9 @@ Theoretical Competition: Solution
 
 
                                                                                   2
-                                                Theoretical Competition: Solution
+
+
+                                                Theoretical Competition: Solution
                                                          Question 2     Page 3 of 7
 
 2.4. Ignore the radius change  Radius remains R0  1.0 cm
@@ -157,7 +161,9 @@ Theoretical Competition: Solution
 
 
                                                                                    3
-                                                   Theoretical Competition: Solution
+
+
+                                                   Theoretical Competition: Solution
                                                             Question 2     Page 4 of 7
 
 A. From Gauss’s Law
@@ -212,7 +218,9 @@ B. From direct integration
 
 
                                                                                                        4
-                                                                   Theoretical Competition: Solution
+
+
+                                                                   Theoretical Competition: Solution
                                                                             Question 2     Page 5 of 7
 
 To find the magnitude of the electrical repulsion we must first find the electric
@@ -297,7 +305,9 @@ E                        cos 2 d  2              
          R1           2 0
 
                                                                                                      5
-                                                  Theoretical Competition: Solution
+
+
+                                                  Theoretical Competition: Solution
                                                            Question 2     Page 6 of 7
 
 
@@ -358,7 +368,9 @@ E                        cos 2 d  2              
 
 
                                                                                       6
-                                                         Theoretical Competition: Solution
+
+
+                                                         Theoretical Competition: Solution
                                                                   Question 2     Page 7 of 7
 
 

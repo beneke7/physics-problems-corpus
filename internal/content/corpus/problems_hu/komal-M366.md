@@ -9,5 +9,5 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 366. Készítsünk meghajlított műanyagcsőből vizes manométert! Mérjük meg ezzel különböző mértékben felfújt (közelítőleg gömb alakú) lufikban lévő levegő túlnyomását! Hogyan függ ez a nyomás a lufi átmérőjétől? 
+M. 366. Készítsünk meghajlított műanyagcsőből vizes manométert! Mérjük meg ezzel különböző mértékben felfújt (közelítőleg gömb alakú) lufikban lévő levegő túlnyomását! Hogyan függ ez a nyomás a lufi átmérőjétől?
  Versenyfeladat nyomán

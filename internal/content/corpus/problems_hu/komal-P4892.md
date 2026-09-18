@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4892. Előfordulhat-e ugyanazon elem vonalas színképében, hogy két létező frekvencia összege is létező frekvencia lesz? 
+P. 4892. Előfordulhat-e ugyanazon elem vonalas színképében, hogy két létező frekvencia összege is létező frekvencia lesz?
  Példatári feladat nyomán

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A nucleus of rest mass $M$, which is initially at rest can absorb a gamma quantum of energy $hf$. Determine the excitation energy of this nucleus in the process. (So by what amount does its rest energy increase in the process?) 
+A nucleus of rest mass $M$, which is initially at rest can absorb a gamma quantum of energy $hf$. Determine the excitation energy of this nucleus in the process. (So by what amount does its rest energy increase in the process?)
  (5 pont)

@@ -42,7 +42,7 @@ Figure 2.1 shows an electron gun situated inside (near the middle) a long soleno
 a) Calculate $B$ so that the electron returns to the axis at point F after one complete turn. (3 points)
 b) Find the current in the solenoid if the latter has 500 turns per meter. (1 point)
 
-![](apho-2005-t-q2-fig01.png)
+![](../../figures/apho/figures/apho-2005-t-q2-fig01.png)
 Figure 2.1
 
 ## THEORETICAL COMPETITION
@@ -56,19 +56,19 @@ Two pole magnets positioned on horizontal planes are separated by a certain dist
 - when the particle enters the fringe field $B_{x}=+B z / b$,
 - when the particle enters the fringe field after traveling through the magnet, $B_{x}=-B z / b$
 
-![](apho-2005-t-q2-fig02.png)
+![](../../figures/apho/figures/apho-2005-t-q2-fig02.png)
 Fig.2.2: Overall view (note that $\theta$ is very small).
 
 ## THEORETICAL COMPETITION
 
 FINAL PROBLEM
 
-![](apho-2005-t-q2-fig03.png)
+![](../../figures/apho/figures/apho-2005-t-q2-fig03.png)
 Figure 2.3. Fringe field
 
 A parallel narrow beam of particles, each of mass $m$ and positive charge $q$ enters the magnet (near the center) with a high velocity $v$ parallel to the horizontal plane. The vertical size of the beam is comparable to the distance between the magnet poles. A certain beam enters the magnet at an angle $\theta$ from the center line of the magnet and leaves the magnet at an angle $-\theta$ (see Figure 2.4. Assume $\theta$ is very small). Assume that the angle $\theta$ with which the particle enters the fringe field is the same as the angle $\theta$ when it enters the uniform field.
 
-![](apho-2005-t-q2-fig04.png)
+![](../../figures/apho/figures/apho-2005-t-q2-fig04.png)
 Figure 2.4. Top view
 
 ## THEORETICAL COMPETITION
@@ -77,7 +77,7 @@ FINAL PROBLEM
 
 The beam will be focused due to the fringe field. Calculate the approximate focal length if we define the focal length as illustrated in Figure 2.5 (assume $b \ll l$ and assume that the $z$-component of the deflection in the uniform magnetic field $B$ is very small).
 
-![](apho-2005-t-q2-fig05.png)
+![](../../figures/apho/figures/apho-2005-t-q2-fig05.png)
 Figure 2.5. Side view
 
 ## THEORETICAL COMPETITION

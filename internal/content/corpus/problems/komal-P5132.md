@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [graphical-reduction, limiting-and-special-cases, strategic-heuristics]
 ---
 
-We set off on a journey by car. The meter, which shows the average speed of the car from the start of the journey, reads 37 km/h when we reach the motorway. From that time onward, we travel at the greatest allowed speed (130 km/h). 
- $a)$ Determine how the average speed of the car changes as a function of time. What circumstances affect this function? 
- $b)$ How much time elapses until the value of the average speed – rounded to the nearest integer – is going to be 130 km/h? 
+We set off on a journey by car. The meter, which shows the average speed of the car from the start of the journey, reads 37 km/h when we reach the motorway. From that time onward, we travel at the greatest allowed speed (130 km/h).
+ $a)$ Determine how the average speed of the car changes as a function of time. What circumstances affect this function?
+ $b)$ How much time elapses until the value of the average speed – rounded to the nearest integer – is going to be 130 km/h?
  (4 pont)

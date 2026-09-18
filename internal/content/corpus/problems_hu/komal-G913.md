@@ -9,5 +9,5 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 913. Egy asztaliteniszező a $v_1$ sebességgel érkező labdát ennél nagyobb, $v_2$ sebességgel szeretné visszaütni az eredetivel ellentétes irányba. Mekkora legyen ehhez az ütő sebessége? 
+G. 913. Egy asztaliteniszező a $v_1$ sebességgel érkező labdát ennél nagyobb, $v_2$ sebességgel szeretné visszaütni az eredetivel ellentétes irányba. Mekkora legyen ehhez az ütő sebessége?
  Az ütközést tekintsük tökéletesen rugalmasnak, és a pingponglabda tömegét elhanyagolhatónak a játékos kezében tartott ütőéhez képest.

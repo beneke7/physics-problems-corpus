@@ -22,4 +22,4 @@ An electrical transformer is connected as shown in the circuit below. Both windi
 (b) Under the assumption of the task (a), find the current in the left resistor as a function of time.
 (c) Now, let one of the coils have a reversed direction of winding; find the current in the right resistor as a function of time.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr85-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr85-fig1.jpg)

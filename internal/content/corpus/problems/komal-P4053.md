@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200803"
 verification_status: pending
 ---
 
-A train goes through a 1100 m long tunnel with a speed of 72 km/h, in one minute. What is the length of the train? 
+A train goes through a 1100 m long tunnel with a speed of 72 km/h, in one minute. What is the length of the train?
  (3 pont)

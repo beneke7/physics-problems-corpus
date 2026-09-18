@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-An object of mass $M$ is hanging of the piston of a vertical fixed cylinder. The cylinder is closed at its top and the mass of the piston is $m$. $Q$ amount of heat is added to the air inside the cylinder, whose initial volume is $V$. The external atmospheric pressure is $p_0$. 
+An object of mass $M$ is hanging of the piston of a vertical fixed cylinder. The cylinder is closed at its top and the mass of the piston is $m$. $Q$ amount of heat is added to the air inside the cylinder, whose initial volume is $V$. The external atmospheric pressure is $p_0$.
 
- $a)$ By what amount does the internal energy of the gas change? 
- $b)$ How much work is done by the gas? What other energy changes can be related to this work? 
- (The wall of the cylinder and the piston are made of some thermally insulating material.) 
+ $a)$ By what amount does the internal energy of the gas change?
+ $b)$ How much work is done by the gas? What other energy changes can be related to this work?
+ (The wall of the cylinder and the piston are made of some thermally insulating material.)
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5342-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5342-fig1.gif)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-Each resistor in the circuit shown in the figure has a resistance of $6~\mathrm{k}\Omega$ and the voltage of the battery is $U = 60$ V. How many times more heat is dissipated in the resistor that heats up the most than in the one that heats up the least? 
+Each resistor in the circuit shown in the figure has a resistance of $6~\mathrm{k}\Omega$ and the voltage of the battery is $U = 60$ V. How many times more heat is dissipated in the resistor that heats up the most than in the one that heats up the least?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G820-fig1.gif)
+![figure](../../figures/komal/figures/komal-G820-fig1.gif)

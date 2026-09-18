@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201005"
 verification_status: pending
 ---
 
-Why is it possible to turn a somersault after jumping up into the air -- having enough momentum -- and then fall back onto our feet? 
+Why is it possible to turn a somersault after jumping up into the air -- having enough momentum -- and then fall back onto our feet?
  (4 pont)

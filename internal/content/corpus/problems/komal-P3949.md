@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200701"
 verification_status: pending
 ---
 
-What is the period of that space probe which orbits a 100 km above the surface of the Mars. For how long can the space probe, ``see'', remain in radio-contact with the lander? First the lander was bouncing on the surface of Mars, which has rare atmosphere. After the first bounce it raised 20 metres. What is the elapsed time between two bounces? 
+What is the period of that space probe which orbits a 100 km above the surface of the Mars. For how long can the space probe, ``see'', remain in radio-contact with the lander? First the lander was bouncing on the surface of Mars, which has rare atmosphere. After the first bounce it raised 20 metres. What is the elapsed time between two bounces?
  (4 pont)

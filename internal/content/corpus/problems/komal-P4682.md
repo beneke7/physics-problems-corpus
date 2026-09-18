@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201412"
 verification_status: pending
 ---
 
-Suppose that the magnitude of the acceleration of a lift when it starts moving upward is the same as that of its deceleration when it stops at some level. What is the value of this acceleration, if at the departure the weight of a passenger is $k$  times as much as his or her weight at the arrival? 
+Suppose that the magnitude of the acceleration of a lift when it starts moving upward is the same as that of its deceleration when it stops at some level. What is the value of this acceleration, if at the departure the weight of a passenger is $k$  times as much as his or her weight at the arrival?
  (3 pont)

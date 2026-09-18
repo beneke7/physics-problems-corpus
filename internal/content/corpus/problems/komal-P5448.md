@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, graphical-reduction]
 ---
 
-According to Edward, riding the bicycle in crosswind (wind which blows perpendicularly to the direction of the motion) is about as hard as to ride the bicycle when there is no wind. The crosswind pushes the bike only sideways, which doesn't slow you down. You just have to lean a little to go straight, and the headwind you're feeling is the same in both cases. Is Edward right? 
+According to Edward, riding the bicycle in crosswind (wind which blows perpendicularly to the direction of the motion) is about as hard as to ride the bicycle when there is no wind. The crosswind pushes the bike only sideways, which doesn't slow you down. You just have to lean a little to go straight, and the headwind you're feeling is the same in both cases. Is Edward right?
  (4 pont)

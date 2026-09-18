@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A simple pendulum is attached to the top of a rod mounted to a trolley of mass $M=3m$. The trolley is on a horizontal surface. The length of the thread of the pendulum is $L=50$ cm, and the mass of the point-like bob at its end is $m=0.15$ kg. Initially the objects are at rest. Then the pendulum bob is displaced such that its thread is tight and horizontal, and then released without initial speed. Friction is negligible everywhere. 
+A simple pendulum is attached to the top of a rod mounted to a trolley of mass $M=3m$. The trolley is on a horizontal surface. The length of the thread of the pendulum is $L=50$ cm, and the mass of the point-like bob at its end is $m=0.15$ kg. Initially the objects are at rest. Then the pendulum bob is displaced such that its thread is tight and horizontal, and then released without initial speed. Friction is negligible everywhere.
 
- $a)$ What is the speed of the trolley, when the angle between the thread and the vertical is $\alpha = 60^\circ$? 
- $b)$ What is the tension in the thread at this position? 
+ $a)$ What is the speed of the trolley, when the angle between the thread and the vertical is $\alpha = 60^\circ$?
+ $b)$ What is the tension in the thread at this position?
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5408-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5408-fig1.gif)

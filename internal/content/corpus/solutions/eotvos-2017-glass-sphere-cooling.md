@@ -20,10 +20,10 @@ További adatok: Az üveg s¶r¶sége 2500 kg/m3
 I. megoldás. A hosszú ideje lobogó vízbe merül® golyó belsejében a h®mérséklet mindenhol T1 = 100 ◦
 C-os. Amikor
 a golyót a T2 = 0 ◦
-C-os, jeges vízbe tesszük, akkor annak küls® része kezd el el®ször leh¶lni, majd ez a hidegfront
+C-os, jeges vízbe tesszük, akkor annak küls® része kezd el el®ször leh¶lni, majd ez a  hidegfront
 halad fokozatosan a golyó belseje felé. A h®szigetel® edénybe helyezve a golyó bels® energiája már nem változik
 tovább, sak annyi történik, hogy a h®mérséklet a belsejében kiegyenlít®dik. Vajon mekkora tipikus ξ mélységig hatol
-be a hidegfront a golyóba 30 másodper alatt? Elképzelhet®, hogy sak a golyó legküls®, vékony kérge h¶l le a jeges
+be a hidegfront a golyóba 30 másodper alatt? Elképzelhet®, hogy sak a golyó legküls®, vékony  kérge  h¶l le a jeges
 vízben, de az is, hogy szinte az egész golyó leh¶l, sak a közepe táján marad meleg (4. ábra).
 4. ábra
 A golyó belseje és a jeges vízzel érintkez® (0 ◦
@@ -53,7 +53,7 @@ A golyó R sugara is fontos paraméter lehet, de ha ξ ≪ R (azaz a jeges vízb
 a hidegfront terjedésére lényegében nin s hatással a golyó véges mérete. Mi a helyzet a golyó közepe és a felülete közötti
 h®mérséklet-különbséggel? A Fourier-törvény szerint kétszer akkora h®mérséklet-különbséghez kétszer akkora h®áram
 tartozik, de ekkor a golyó egyes rétegeinek leh¶téséhez szükséges h®elvonás is megkétszerez®dik. Tehát a hidegfront
-id®beli terjedését nem, supán a magasságát befolyásolja ∆T = T1 − T2 értéke.
+id®beli terjedését nem, supán a  magasságát  befolyásolja ∆T = T1 − T2 értéke.
 Keressük tehát a ξ behatolási mélységet a következ® alakban:
 ξ ∼ λα
 ̺β
@@ -72,7 +72,7 @@ m
 2
 s2K
 , [t] = s.
-Ezekb®l sak egyféleképpen keverhetünk ki méter dimenziójú mennyiséget:
+Ezekb®l sak egyféleképpen  keverhetünk ki  méter dimenziójú mennyiséget:
 ξ(t) ∼
 s
 λt
@@ -80,7 +80,7 @@ c̺
 .
 Egy dimenziótlan faktor erejéig most már ismerjük a ξ(t) függvényt, de vajon mi az arányossági tényez®? Nem tudjuk,
 de várhatóan egységnyi nagyságrend¶, és mivel be slésr®l volt szó, vegyük 1-nek! A megadott adatok alapján tehát
-t = 30 s alatt a hidegfront behatolási mélysége:
+t = 30 s alatt a  hidegfront  behatolási mélysége:
 ξ ≈
 s
 λt
@@ -100,10 +100,10 @@ T1 +
 4
 3
 π
-
+
 R3
 − (R − ξ)
-3
+3
 T2 =
 4
 3
@@ -123,7 +123,7 @@ l kés®bb nem marad szaka-
 szonként lineáris, de ez a be slésünk érvényességét nem befolyásolja majd.)
 6. ábra
 A várhatóan kis ξ behatolási mélység miatt a problémát kezelhetjük egydimenziósként (azaz golyó helyett egy
-végtelen féltér esetét vizsgáljuk). Tegyük fel, hogy t id® után a lineáris hidegfront szélessége ξ. Ekkor a golyó belsejéb®l
+végtelen féltér esetét vizsgáljuk). Tegyük fel, hogy t id® után a  lineáris hidegfront  szélessége ξ. Ekkor a golyó belsejéb®l
 a jeges vízbe átmen® h®áram nagysága (teljesítmény):
 (4) IQ = λA
 T1 − T2
@@ -131,12 +131,12 @@ T1 − T2
 .
 Ez a kiáramló teljesítmény okozza ∆t id® alatt a hidegfront ∆ξ szélesedését (6. ábra jobb oldala):
 IQ∆t = c̺A
-
+
 T1∆ξ +
 T1 + T2
 2
 ξ
-
+
 − c̺A
 T1 + T2
 2
@@ -157,7 +157,7 @@ c̺
 Összegezzük fel ennek az egyenletnek mindkét oldalát! Ekkor a jobb oldalon a vízbe merítés t ideje, a bal oldalon
 pedig ξ2
 /2 jelenik meg (ezt beláthatjuk pl. egy összenyomott rugóban tárolt energia analógiájával vagy integrálással).
-Tehát a lineáris hidegfront behatolási mélysége az id® függvényében:
+Tehát a  lineáris hidegfront  behatolási mélysége az id® függvényében:
 ξ(t) = 2
 s
 λ
@@ -200,7 +200,7 @@ C egyensúlyi h®mérséklet adódik, egyezésben a dimenzióanalízissel kapott
 ∗
 Az ünnepélyes eredményhirdetésre és díjkiosztásra 2017. november 24-én délután került sor az ELTE TTK Konfe-
 ren iatermében. Meghívást kaptak az 50 és 25 évvel ezel®tti Eötvös-verseny nyertesei is. Jelen volt a 25 évvel ezel®tti
-díjazottak közül Geerth András, Maulis Ádám és Pálfalvi László, akik az akkori feladatok ismertetése után röviden
+díjazottak közül Ge erth András, Maulis Ádám és Pálfalvi László, akik az akkori feladatok ismertetése után röviden
 beszéltek a versennyel kap solatos emlékeikr®l és pályájukról.
 Ezután következett a 2017. évi verseny feladatainak és megoldásainak bemutatása. Az 1. feladat megoldását Ti hy
 Géza, a 2. feladatét Vankó Péter, a 3. feladatét Vigh Máté ismertette.
@@ -215,17 +215,17 @@ tanulója, Gärtner István tanítványa.
 Egy feladat helyes megoldásáért harmadik díjat nyert Németh Balázs, a Budapesti Fazekas Mihály Gyakorló
 Általános Iskola és Gimnázium 12. osztályos tanulója, Dvorák Ce ília és Csefkó Zoltán tanítványa, valamint Németh
 Róbert, a Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium érettségizett tanulója, Horváth Gábor
-és Szokolai Tibor tanítványa  az ELTE 
+és Szokolai Tibor tanítványa   az ELTE
 zikus hallgatója.
 Egy feladat lényegében helyes megoldásáért di séretet kapott Fajszi Bul sú, a Budapesti Fazekas Mihály Gyakorló
 Általános Iskola és Gimnázium 10. osztályos tanulója, Horváth Gábor és Csefkó Zoltán tanítványa; Fehér Szilvesz-
-ter, az Óbudai Gimnázium érettségizett tanulója, Fehér Gabriella tanítványa  az ELTE 
+ter, az Óbudai Gimnázium érettségizett tanulója, Fehér Gabriella tanítványa   az ELTE
 zikus hallgatója; Gyulai
 Márton, a miskol i Földes Feren Gimnázium 11. osztályos tanulója, Pál Mihály és Zámborszky Feren tanítványa;
 Kürti Zoltán, az ELTE Apá zai Csere János Gyakorló Gimnázium és Kollégium érettségizett tanulója, Zsigri Feren
-tanítványa  az ELTE 
+tanítványa   az ELTE
 zikus hallgatója; Mo skonyi Mirkó, a szentendrei Feren es Gimnázium érettségizett tanu-
-lója, Adolf Géza és Borbély Ven zel tanítványa  az ELTE 
+lója, Adolf Géza és Borbély Ven zel tanítványa   az ELTE
 zikus hallgatója; Olosz Adél, a PTE Gyakorló Általános
 Iskola, Gimnázium és Szakgimnázium 11. osztályos tanulója, Kon z Károly és Kotek László tanítványa; Simon Dáni-
 el Gábor, a Ke skeméti Bányai Júlia Gimnázium 12. osztályos tanulója, Bakk János tanítványa; Szakály Mar ell,

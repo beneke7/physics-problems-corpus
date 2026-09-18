@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201510"
 verification_status: pending
 ---
 
-A coil of inductance 250 mH, and of resistance 0.3 $\Omega$ is connected to a battery of constant terminal voltage. How much time elapses until the current through the coil reaches 
- $a)$ 50% of the stationary final value; 
- $b)$ 75% of the stationary final value? 
+A coil of inductance 250 mH, and of resistance 0.3 $\Omega$ is connected to a battery of constant terminal voltage. How much time elapses until the current through the coil reaches
+ $a)$ 50% of the stationary final value;
+ $b)$ 75% of the stationary final value?
  (4 pont)

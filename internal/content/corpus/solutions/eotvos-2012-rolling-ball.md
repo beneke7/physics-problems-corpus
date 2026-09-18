@@ -18,7 +18,7 @@ A közönség legnagyobb ámulatára a labda középpontja ezután egyenes vonal
 folytat, amíg a labda a forgó korong peremére ér. (A labda mindvégig tisztán gördül, a korong szögsebessége nem
 változik.)
 1. ábra
-Adjunk 
+Adjunk
 zikai magyarázatot a fur sa jelenségre! Milyen irányban és milyen kezd®feltételekkel kell indítania a b¶-
 vésznek a labdát, hogy a mutatvány sikerüljön?
 (Vigh Máté)
@@ -96,11 +96,11 @@ Megkaptuk a szükséges kezd®feltételeket. Érdekes, hogy sem v0, sem ω0 nem 
 a labda R sugarától sem!
 Megjegyzések. 1. Az a gondolat, hogy egy labda forgása két forgás ered®jeként fogható fel, már szerepelt egyszer az Eötvös-
 versenyen. 1972-ben ez volt a 3. feladat:
-Felfújt, könny¶ m¶anyag labdát találomra megpörgetve sima vízfelületre ejtünk. Azt tapasztaljuk, hogy miel®tt megáll, rend-
-szerint függ®leges tengely körül forog. Mi a jelenség magyarázata?
+ Felfújt, könny¶ m¶anyag labdát találomra megpörgetve sima vízfelületre ejtünk. Azt tapasztaljuk, hogy miel®tt megáll, rend-
+szerint függ®leges tengely körül forog. Mi a jelenség magyarázata?
 A megoldás az, hogy a labda bármely tengely körüli forgása egy függ®leges és egy vízszintes tengely körüli forgás ered®jeként
 tárgyalható. A vízszintes tengely körüli forgást a súrlódás sokkal jobban fékezi, ezért marad meg végül mindig a függ®leges tengely
 körüli forgás.
 2. Az eredményhirdetéskor Vigh Máté levetítette azt a videót, amely több variá ióban mutatta be a feladatban leírt jelenséget.
-A bemutatást a közönség élénk 
+A bemutatást a közönség élénk
 gyelemmel kísérte.

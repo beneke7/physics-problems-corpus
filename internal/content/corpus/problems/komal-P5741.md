@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, superposition, extremization]
 ---
 
-The $I(U)$ characteristic of an incandescent lamp is shown in the figure . 
+The $I(U)$ characteristic of an incandescent lamp is shown in the figure .
 
- a)  Plot the temperature of the filament as a function of the power dissipated. Assume that the resistance of the filament is proportional to the absolute temperature, and that the ambient temperature is $27~{}^\circ\mathrm{C}$. 
- b)  The filament loses heat by two mechanisms: thermal conduction and thermal radiation. Determine the effective radiating surface area of the filament. 
- Assume that the filament behaves as a black body. 
+ a)  Plot the temperature of the filament as a function of the power dissipated. Assume that the resistance of the filament is proportional to the absolute temperature, and that the ambient temperature is $27~{}^\circ\mathrm{C}$.
+ b)  The filament loses heat by two mechanisms: thermal conduction and thermal radiation. Determine the effective radiating surface area of the filament.
+ Assume that the filament behaves as a black body.
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5741-fig1.png)
+![figure](../../figures/komal/figures/komal-P5741-fig1.png)

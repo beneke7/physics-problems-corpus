@@ -65,8 +65,8 @@ as desired.
 (c) We see that p · r̂ = pcosθ and p = pẑ = p(r̂cosθ − θ̂sinθ). Thus,
 3(p · r̂)r̂ − p = 3pcosθr̂ − p(r̂cosθ − θ̂ sinθ) = p(2cosθr̂ + sinθθ̂),
 as desired.
-[3] Problem 17.  m 1 0USAPhO 2002, problem B2.
-[3] Problem 18.  m 1 0USAPhO 2009, problem B2. This essential problem introduces useful facts
+[3] Problem 17.   m 1 0USAPhO 2002, problem B2.
+[3] Problem 18.   m 1 0USAPhO 2009, problem B2. This essential problem introduces useful facts
 about dipole-dipole interactions.
 17
 Kevin Zhou Physics Olympiad Handouts

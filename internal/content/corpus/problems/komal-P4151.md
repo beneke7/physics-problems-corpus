@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-Can an electric field be created such that the electric field lines are parallel but their density is not constant 
- a ) in vacuum, 
- b ) in a dielectric? 
+Can an electric field be created such that the electric field lines are parallel but their density is not constant
+ a ) in vacuum,
+ b ) in a dielectric?
  (5 pont)

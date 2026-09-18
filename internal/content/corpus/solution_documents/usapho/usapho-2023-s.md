@@ -59,7 +59,9 @@ Brian Skinner, and Kevin Zhou.
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                            Student Instructions                                        2
+
+
+2023 USAPhO                            Student Instructions                                        2
 
 
 
@@ -108,7 +110,9 @@ Below are instructions for writing your solutions.
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                 Student Instructions                                      3
+
+
+2023 USAPhO                                 Student Instructions                                      3
 
 
 
@@ -175,7 +179,9 @@ You may use this sheet for both parts of the exam.
            DO NOT OPEN THIS TEST UNTIL YOU ARE TOLD TO BEGIN
 
                     Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                       Part A                                                  4
+
+
+2023 USAPhO                                       Part A                                                  4
 
 
 
@@ -204,7 +210,7 @@ a. Consider a ball bouncing between two inclined planes, which each make an angl
          means that θ is the angle of its velocity to the vertical. The range of the ball is
 
                                           v02 sin 2(90◦ − θ)
-                                                            
+
                                                                 v 2 sin 2θ
                                    D=                         = 0
                                                     g                g
@@ -229,7 +235,9 @@ a. Consider a ball bouncing between two inclined planes, which each make an angl
 
 
                     Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                    Part A                                                5
+
+
+2023 USAPhO                                    Part A                                                5
 
 
 
@@ -242,7 +250,7 @@ a. Consider a ball bouncing between two inclined planes, which each make an angl
         Considering the range yields
 
                                        v02 sin 2(45◦ + ϕ/2)
-                                                           
+
                                                                 v 2 cos ϕ
                                   D=                         = 0
                                                   g                  g
@@ -270,18 +278,18 @@ b. Now suppose the ball bounces within a hemispherical well of radius of curvatu
      So D = R 2.
      x displacement with t1 is
                                                             √
-                                                   
+
                                              π
                                     v0 cos     − ϕ/2 t1 = R 2                              (A1-1)
                                              4
 
      y-component of velocity in the upper point is 0
-                                                   
+
                                             π          t2
                                     v0 sin    + ϕ/2 − g = 0
                                             4          2
 
-     transforms into                                
+     transforms into
                                               π           t2
                                        v0 cos   − ϕ/2 = g                                  (A1-2)
                                               4           2
@@ -294,13 +302,15 @@ b. Now suppose the ball bounces within a hemispherical well of radius of curvatu
 
 
                   Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                    Part A                                                6
+
+
+2023 USAPhO                                    Part A                                                6
 
 
 
      Only one R satisfies this, so the answer is unique.
 
-                                                                                            
+
 c. Finally, suppose the well has a sinusoidal shape, described by y(x) = −L sin 2x/L . The ball
    takes two distinct paths with flight times t1 and t2 ̸= t1 , and the horizontal distance between the
    impact points is less than πL. Find all of the possible values of L, in terms of t1 and t2 .
@@ -315,12 +325,12 @@ c. Finally, suppose the well has a sinusoidal shape, described by y(x) = −L si
                      6 corresponds to D = 2 − 3 = 6
                                                        πL
 
-                                                     
+
                                                π            πL
                                       v0 cos     − ϕ/2 t1 =
                                                4             6
 
-        and                                           
+        and
                                                 π          t2
                                          v0 cos   − ϕ/2 = g .
                                                 4          2
@@ -331,12 +341,12 @@ c. Finally, suppose the well has a sinusoidal shape, described by y(x) = −L si
                                                πL   πL    5πL
      ii. Case of x = − πL
                         6 corresponds to D = 2 + 3 = 6
-                                                     
+
                                                π             5πL
                                       v0 cos     − ϕ/2 t1 =
                                                4              6
 
-        and                                           
+        and
                                                 π          t2
                                          v0 cos   − ϕ/2 = g .
                                                 4          2
@@ -349,7 +359,9 @@ c. Finally, suppose the well has a sinusoidal shape, described by y(x) = −L si
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                     Part A                                                7
+
+
+2023 USAPhO                                     Part A                                                7
 
 
 
@@ -406,7 +418,9 @@ a. A large positive charge Q ≫ q is fixed in place a distance R directly below
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                     Part A                                                   8
+
+
+2023 USAPhO                                     Part A                                                   8
 
 
 
@@ -464,7 +478,9 @@ b. Now an additional negative charge −q is fixed in place at the origin of the
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                   Part A                                                    9
+
+
+2023 USAPhO                                   Part A                                                    9
 
 
 
@@ -490,7 +506,9 @@ b. Now an additional negative charge −q is fixed in place at the origin of the
 
 
                  Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                         Part A                                         10
+
+
+2023 USAPhO                                         Part A                                         10
 
 
 
@@ -540,7 +558,9 @@ a. Consider the following heat engine involving one mole of ideal monatomic gas.
        that of a Carnot cycle working between the same maximum and minimum temperatures?
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                    Part A                                          11
+
+
+2023 USAPhO                                    Part A                                          11
 
 
 
@@ -592,7 +612,9 @@ The second half of the problem is on the next page.
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                          Part A                                             12
+
+
+2023 USAPhO                                          Part A                                             12
 
 
 
@@ -649,7 +671,9 @@ b. Now consider a heat engine built around the freezing and melting of water, wh
        an expression for dTc /dP in terms of Tc , L, and the densities.
 
                     Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                 Part A                                         13
+
+
+2023 USAPhO                                 Part A                                         13
 
 
 
@@ -677,7 +701,9 @@ b. Now consider a heat engine built around the freezing and melting of water, wh
 
 
                 Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                           Part A                                14
+
+
+2023 USAPhO                           Part A                                14
 
 
 
@@ -697,7 +723,9 @@ If there is still time remaining for Part A, you can review your work for Part
 
 
               Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                   Part B                                             15
+
+
+2023 USAPhO                                   Part B                                             15
 
 
 
@@ -752,7 +780,9 @@ b. When the rod is within a uniform vertical magnetic field B, find the torque i
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                     Part B                                               16
+
+
+2023 USAPhO                                     Part B                                               16
 
 
 
@@ -811,7 +841,9 @@ d. First, suppose the system initially carries no current, and the entire system
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                   Part B                                                17
+
+
+2023 USAPhO                                   Part B                                                17
 
 
 
@@ -864,7 +896,7 @@ e. Next, suppose there is no external magnetic field, B0 = 0, and at time t = 0,
         Separating and integrating yields
 
                                               dω ′
-                                       Z ω                          
+                                       Z ω
                                 t                          1    −1    ω
                                    =−       2      ′2
                                                       = − tanh            .
@@ -873,11 +905,13 @@ e. Next, suppose there is no external magnetic field, B0 = 0, and at time t = 0,
 
 
                   Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                Part B                          18
+
+
+2023 USAPhO                                Part B                          18
 
 
 
-      Solving for ω gives                                       
+      Solving for ω gives
                                        ω(t)              −ω0 t
                                             = tanh
                                         ω0               2πnℓ
@@ -887,7 +921,9 @@ e. Next, suppose there is no external magnetic field, B0 = 0, and at time t = 0,
 
 
                 Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                      Part B                                                19
+
+
+2023 USAPhO                                      Part B                                                19
 
 
 
@@ -897,7 +933,7 @@ A space program wants to accelerate a spaceship of final mass m = 100 kg to rela
 observe distant stars. They have two proposals to evaluate.
 a. Their first proposal is to use traditional rocket propulsion. A rocket of initial mass m0 and final
    mass m that expels propellant with exhaust speed u relative to the rocket will reach a speed
-                                                          
+
                                                         m0
                                              v = u ln        .
                                                         m
@@ -941,7 +977,9 @@ b. Another option is to use a spaceship with constant mass m, propelled by light
    i. What is the force on the spaceship when the spaceship has speed v?
 
                     Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                    Part B                                             20
+
+
+2023 USAPhO                                    Part B                                             20
 
 
 
@@ -999,7 +1037,9 @@ b. Another option is to use a spaceship with constant mass m, propelled by light
 
 
                   Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                    Part B                                               21
+
+
+2023 USAPhO                                    Part B                                               21
 
 
 
@@ -1057,7 +1097,9 @@ The following results from relativity may be helpful:
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                   Part B                                             22
+
+
+2023 USAPhO                                   Part B                                             22
 
 
 
@@ -1111,7 +1153,9 @@ b. One explanation of these observations is that neutrinos have a small mass m, 
 
 
                   Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                      Part B                                               23
+
+
+2023 USAPhO                                      Part B                                               23
 
 
 
@@ -1160,8 +1204,8 @@ c. Another explanation is that the neutrinos did not travel in straight lines, b
         We are computing the difference between the arc length of a small arc and the distance
         connecting the endpoints. If the arc length is ℓ, the angle subtended is θ = ℓ/r. The
         distance connecting the end points is
-                                                             
-                                                              ℓ
+
+                                                               ℓ
                                    d = 2r sin θ/2 = 2r sin        .
                                                               2r
 
@@ -1169,7 +1213,9 @@ c. Another explanation is that the neutrinos did not travel in straight lines, b
 
 
                    Copyright ©2023 American Association of Physics Teachers
-2023 USAPhO                                  Part B                                             24
+
+
+2023 USAPhO                                  Part B                                             24
 
 
 
@@ -1193,7 +1239,7 @@ c. Another explanation is that the neutrinos did not travel in straight lines, b
                                                         8E12
        Then,          √                     √
                      2 2 E1 (ℓ2 − ℓ1 ) 1/2 2 2 E1 c∆t 1/2
-                                                  
+
                   q=                      =               ≈ 3.6 × 10−15 e.
                       Bcd       d           Bcd    d
        Then,

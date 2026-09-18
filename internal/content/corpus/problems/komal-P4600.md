@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, differential-element]
 ---
 
-A soap bubble is blown with a relatively short drinking straw of diameter d , and then the bubble is left to deflate through the same straw. In one case when the diameter of the bubble was D the time during which the bubble deflated was 8 seconds. Estimate the time during which a bubble deflates 
- a ) if its diameter is also D , and it is deflated through a wider straw of diameter 2 d ; 
- b ) through a straw of diameter d , if its greatest diameter was 2 D ? 
+A soap bubble is blown with a relatively short drinking straw of diameter d , and then the bubble is left to deflate through the same straw. In one case when the diameter of the bubble was D the time during which the bubble deflated was 8 seconds. Estimate the time during which a bubble deflates
+ a ) if its diameter is also D , and it is deflated through a wider straw of diameter 2 d ;
+ b ) through a straw of diameter d , if its greatest diameter was 2 D ?
  (5 pont)

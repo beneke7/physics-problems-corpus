@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A satellite orbits about the Earth along an elliptical path. The major axis of the ellipse is $2a$ and its minor axis is $2b$ . Determine the velocity of the satellite 
- $a)$ at that point of its path which is the closest to the Earth; 
- $b)$ at that point of its path which is the furthest from the Earth; 
- $c)$ at a point which is at a distance of $r$ from the centre of the Earth. 
+A satellite orbits about the Earth along an elliptical path. The major axis of the ellipse is $2a$ and its minor axis is $2b$ . Determine the velocity of the satellite
+ $a)$ at that point of its path which is the closest to the Earth;
+ $b)$ at that point of its path which is the furthest from the Earth;
+ $c)$ at a point which is at a distance of $r$ from the centre of the Earth.
  (5 pont)

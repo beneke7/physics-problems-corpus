@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-If a gas is cooled (at constant pressure), then at a sufficiently low temperature the gas will usually liquefy (condense). However, this only happens over a certain pressure range. The figure shows the ``phase diagram'' of carbon dioxide. What are the values of the minimum and the maximum pressure at which this condensation can occur as described above? What happens if cooling is carried out at pressures higher or lower than this range? 
+If a gas is cooled (at constant pressure), then at a sufficiently low temperature the gas will usually liquefy (condense). However, this only happens over a certain pressure range. The figure shows the ``phase diagram'' of carbon dioxide. What are the values of the minimum and the maximum pressure at which this condensation can occur as described above? What happens if cooling is carried out at pressures higher or lower than this range?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5412-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5412-fig1.gif)

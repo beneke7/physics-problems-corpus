@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, choose-reference-frame]
 ---
 
-At the same time every morning it can be observed that Venus gets closer to the Sun. Where eventually will Venus pass the Sun, ,,in front of'' or ,,behind'' it? 
+At the same time every morning it can be observed that Venus gets closer to the Sun. Where eventually will Venus pass the Sun, ,,in front of'' or ,,behind'' it?
  (4 pont)

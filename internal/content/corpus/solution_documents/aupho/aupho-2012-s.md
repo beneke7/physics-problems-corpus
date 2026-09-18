@@ -48,7 +48,9 @@ PHYSICS
                                       Page 1 of 18
                2012 Australian Science Olympiad Exam – Physics Solutions
                   c Australian Science Innovations ABN 81731558309
-                       SECTION A: MULTIPLE CHOICE
+
+
+                       SECTION A: MULTIPLE CHOICE
                      USE THE ANSWER SHEET PROVIDED
 
 
@@ -93,7 +95,9 @@ Solution: e. — The two forces are an action-reaction pair.
                                           Page 2 of 18
                    2012 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations ABN 81731558309
-Question 3
+
+
+Question 3
 Lachlan exerts a constant horizontal force on a heavy lounge chair that is in the wrong place. As a result,
 the chair moves across a horizontal floor at a constant speed v0 . The constant horizontal force applied by
 Lachlan:
@@ -140,7 +144,9 @@ which flows as heat from the surroundings. This means that it does work, even if
                                           Page 3 of 18
                    2012 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations ABN 81731558309
-options b. and e. are incorrect. Option d. is not possible because there is no way to perfectly insulate
+
+
+options b. and e. are incorrect. Option d. is not possible because there is no way to perfectly insulate
 anything. Option b. is not plausible because refrigerators take a lot of power to run and all the kinetic
 energy of the drips from a slowly dripping tap will not be enough to run one. Before refrigerators were
 common in Australia people did store meat in well ventilated boxes covered with wet cloth.
@@ -188,7 +194,9 @@ be able to decrease the uncertainty.
                                           Page 4 of 18
                    2012 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations ABN 81731558309
-Question 8
+
+
+Question 8
 A big dog weighing 60 kg runs into a cat weighing 8 kg. The dog was moving at 1.5 m s−1 , and the cat
 was sitting in the sun. Assume that the dog and cat continue moving together. What is the final speed of
 the combined cat/dog furball?
@@ -230,7 +238,9 @@ Question 10
                                            Page 5 of 18
                     2012 Australian Science Olympiad Exam – Physics Solutions
                        c Australian Science Innovations ABN 81731558309
-A large rocky planet was formed from eight small rocky planets, each with radius R. Each of the small
+
+
+A large rocky planet was formed from eight small rocky planets, each with radius R. Each of the small
 planets and the new large planet have the same density. The small rocky planets were initially so far
 apart that they didn’t interact. The energy required to blast a planet of mass m and radius r apart is
 3Gm2 /5r, where G is a constant. How many times as much energy would be required to blast the large
@@ -254,7 +264,9 @@ planet.
                                           Page 6 of 18
                    2012 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations ABN 81731558309
-                  SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                  SECTION B: WRITTEN ANSWER QUESTIONS
                     USE THE ANSWER BOOKLET PROVIDED
 
 Question 11
@@ -315,7 +327,9 @@ Question 11
                                               Page 7 of 18
                        2012 Australian Science Olympiad Exam – Physics Solutions
                           c Australian Science Innovations ABN 81731558309
-   b) Note: Use the axes supplied on p. 2 of the answer book to draw your answers to this part.
+
+
+   b) Note: Use the axes supplied on p. 2 of the answer book to draw your answers to this part.
       DO NOT use those on p. 3, which are for part (d)
 
 
@@ -368,13 +382,19 @@ graph and your sketches.
                                          Page 8 of 18
                   2012 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations ABN 81731558309
-                       Page 9 of 18
+
+
+                       Page 9 of 18
 2012 Australian Science Olympiad Exam – Physics Solutions
    c Australian Science Innovations ABN 81731558309
-                       Page 10 of 18
+
+
+                       Page 10 of 18
 2012 Australian Science Olympiad Exam – Physics Solutions
    c Australian Science Innovations ABN 81731558309
-Marker’s comments:
+
+
+Marker’s comments:
 Most students found this question difficult. Some of the common errors are described below.
 
    • Many students confused the concepts of elastic energy stored in the stretched bungee rope and the
@@ -394,7 +414,9 @@ Most students found this question difficult. Some of the common errors are descr
                                          Page 11 of 18
                   2012 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations ABN 81731558309
-Question 12
+
+
+Question 12
  Helicopters are useful machines which, amongst other things, facilitate the transport of pumpkins across
  difficult terrain. Consider a small helicopter hovering at some height above a large field of pumpkins.
 
@@ -445,7 +467,9 @@ Most students found this question difficult. Some of the common errors are descr
                                            Page 12 of 18
                     2012 Australian Science Olympiad Exam – Physics Solutions
                        c Australian Science Innovations ABN 81731558309
-     linear dimension as their original helicopter. Using the results from the previous parts, what
+
+
+     linear dimension as their original helicopter. Using the results from the previous parts, what
      mechanical power P′ , in terms of P, is required for this larger helicopter to hover?
      Solution: If the new helicopter is 1.5 times as long in every linear dimension, its mass
      m′ = 1.53 m. The weight and therefore the lift required are both proportional to mass so increase
@@ -488,7 +512,9 @@ Marker’s comments:
                                          Page 13 of 18
                   2012 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations ABN 81731558309
-Question 13
+
+
+Question 13
  Due to an unfortunate logistical error, I don’t have a fridge, so I want to design an insulating container to
  keep my food cold. If I put something colder, like my milk, next to something warmer, like the rest of
  my house, energy flows from the warmer thing to the colder thing. This process, called heat flow, makes
@@ -539,7 +565,9 @@ Marker’s comments:
                                            Page 14 of 18
                     2012 Australian Science Olympiad Exam – Physics Solutions
                        c Australian Science Innovations ABN 81731558309
-     Solution: Some common correct answers were
+
+
+     Solution: Some common correct answers were
 
                                                   E = mc2
                                                   E = mgh
@@ -577,7 +605,9 @@ Marker’s comments:
                                          Page 15 of 18
                   2012 Australian Science Olympiad Exam – Physics Solutions
                      c Australian Science Innovations ABN 81731558309
-Question 14
+
+
+Question 14
  The students in a year six class want to find out how fast sound travels and you’ve been asked to advise
  them how they can best measure the speed of sound in air themselves.
  The class teacher tells you that their school is next to a disused railway track and the school has the use
@@ -625,7 +655,9 @@ Marker’s comments:
                                            Page 16 of 18
                     2012 Australian Science Olympiad Exam – Physics Solutions
                        c Australian Science Innovations ABN 81731558309
-   b) Is there any reason why the class couldn’t also measure the speed of sound in the railway tracks?
+
+
+   b) Is there any reason why the class couldn’t also measure the speed of sound in the railway tracks?
       If so, explain why, if not, explain how to vary the method and also estimate the uncertainty in their
       result.
       Solution: As sounds travels at vt = 6 km s−1 through the tracks and the maximum available length
@@ -657,7 +689,9 @@ calculations as appropriate.
                                           Page 17 of 18
                    2012 Australian Science Olympiad Exam – Physics Solutions
                       c Australian Science Innovations ABN 81731558309
-                            Integrity of Competition
+
+
+                            Integrity of Competition
 
 If there is evidence of collusion or other academic dishonesty, students will be
                    disqualified. Markers’ decisions are final.

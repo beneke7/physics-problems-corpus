@@ -26,19 +26,18 @@ Példa. Útintegrálok a kvantumstatisztikus fizikában. Mivel a sűrűségmátr
 mátrixelemeit szeretnénk kiszámítani. Ez formálisan azonos az eddigiekkel, ha t = −iℏβ-t választunk.
 Ezt behelyettesítve
                                                                                                    
-                             N/2 Z                            N −1                  2          
+                               N/2 Z                            N −1                   2
                            m                                  η X      m(x j+1 − x j )
   ⟨x|e−βH |x0 ⟩ = lim                 dx1 . . . dxN −1 exp −                            + V (xj ) 
                   N →∞ 2πℏη                                   ℏ             2η 2
                                                                       j=0
-164 6. Útintegrálok
 
 ahol η = ℏβ/N-et és ϵ = −iη-t definiáltuk. A kinetikus és potenciális tagok relatív előjele meg-
 változott, így most a Hamilton-operátorra kapunk integrált, és az integrál nem oszcilláló, hanem
 csillapított. A kontinuumhatárt véve a partíciós függvény
 
                                                         1 βℏ
-                                 Z      Z                Z         
+                                 Z      Z                 Z
                           Z = C dx0       Dx(u) exp −          H du
                                                         ℏ 0
 
@@ -47,7 +46,7 @@ fel, hogy a hőmérséklet magas, ezért βℏ kicsi. Ekkor a részecske nem tá
 tól a rövid, u = βℏ „idő” alatt, így a potenciált állandónak vehetjük:
                                                                  ! r
                                              1 βℏ m dx 2
-            Z                Z                 Z                             Z
+            Z                Z                 Z                               Z
                    −βV (x0 )                                              m
      Z ≈ C dx0 e               Dx(u) exp −                     du =               dx0 e−βV (x0 )
                                              ℏ 0 2 du                   2πβℏ2

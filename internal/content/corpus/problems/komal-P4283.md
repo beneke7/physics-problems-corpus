@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201010"
 verification_status: pending
 ---
 
-The bindings of Deuterium and Tritium nuclei are not so strong as that of the nucleus of the Helium, that is why quick neutrons are ejected when Tritium is bombarded with an electrically accelerated beam of Deuterium. The reaction is the following: $^{2}$H+$^{3}$H $^{4}$He+n. (The kinetic energy of the deuteron is negligible with respect to its binding energy.) Determine the kinetic energy of the quick neutrons. 
+The bindings of Deuterium and Tritium nuclei are not so strong as that of the nucleus of the Helium, that is why quick neutrons are ejected when Tritium is bombarded with an electrically accelerated beam of Deuterium. The reaction is the following: $^{2}$H+$^{3}$H $^{4}$He+n. (The kinetic energy of the deuteron is negligible with respect to its binding energy.) Determine the kinetic energy of the quick neutrons.
  (4 pont)

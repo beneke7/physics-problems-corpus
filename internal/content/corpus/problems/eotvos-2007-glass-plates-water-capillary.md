@@ -22,7 +22,7 @@ techniques: [differential-element, extremization]
 
 Két téglalap alakú üveglemezt egyik élük mentén egymáshoz támasztunk úgy, hogy $2 \varphi$ szöget zárjanak be egymással. Az így rögzített lemezeket lassan vízbe engedjük az ábrán látható módon. A víz, amely tökéletesen nedvesíti az üveget, a felületi feszültség hatására a két lemez között bizonyos $H$ magasságig felemelkedik.
 
-![figure](sources/eotvos/figures/eotvos-2007-glass-plates-water-capillary-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2007-glass-plates-water-capillary-fig1.jpg)
 
 1. ábra
 

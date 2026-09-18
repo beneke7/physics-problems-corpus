@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $3 l$ hosszú, könnyű rudat két, azonos hosszúságú kötéllel rögzítünk a mennyezethez. A rúdra két, $m$, illetve $M$ tömegű golyót erősítünk úgy, hogy a golyók egymástól, valamint a rúd végeitől mért távolságok mind $l$-lel legyenek egyenlők. Mekkora a második kötél feszítőereje közvetlenül az első elvágása után?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr31-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr31-fig1.jpg)

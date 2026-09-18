@@ -26,5 +26,5 @@ solution_language: en
 back into its ground state, emitting a photon in the process. These two states differ in energy by
 
 
-                  01W
+                  01W
     ∆. What is the photon’s energy?

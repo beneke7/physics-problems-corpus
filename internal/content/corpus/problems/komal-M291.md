@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200811"
 verification_status: pending
 ---
 
-Measure the resistance of a 40 W tungsteen filament lamp at different temperatures. (Between -15 $^\circ$C and +40 $^\circ$C.) Determine the temperature coefficient of the resistance. It is advisable to use a digital ohmmeter. Do not use the mains power (220 V AC). 
+Measure the resistance of a 40 W tungsteen filament lamp at different temperatures. (Between -15 $^\circ$C and +40 $^\circ$C.) Determine the temperature coefficient of the resistance. It is advisable to use a digital ohmmeter. Do not use the mains power (220 V AC).
  (6 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-What is the minimum speed of a room-temperature lead ball at which it must hit a wall in order that it melts? Assume that half of the heat released during the inelastic collision heats the wall and half heats the lead ball. 
+What is the minimum speed of a room-temperature lead ball at which it must hit a wall in order that it melts? Assume that half of the heat released during the inelastic collision heats the wall and half heats the lead ball.
  (4 pont)

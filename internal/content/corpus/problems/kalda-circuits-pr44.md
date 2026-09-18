@@ -19,4 +19,4 @@ verification_status: pending
 
 How many times does change the current through the battery if the polarity of the battery is reversed? All the resistors are identical, diodes are ideal and internal resistance of the battery is negligible.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr44-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr44-fig1.jpg)

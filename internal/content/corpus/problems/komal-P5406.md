@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-What is the maximum potential difference that can be created with the help of two alike capacitors and a battery of electromotive force $U$? The capacitors can be rearranged and connected into a circuit again after they were charged. 
+What is the maximum potential difference that can be created with the help of two alike capacitors and a battery of electromotive force $U$? The capacitors can be rearranged and connected into a circuit again after they were charged.
  (5 pont)

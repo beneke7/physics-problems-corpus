@@ -39,7 +39,9 @@ relativistic collisions covered in R2.)
 
 
                                                   10
-Kevin Zhou                                                                          Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                          Physics Olympiad Handouts
 
 
 
@@ -95,7 +97,9 @@ relativistic collisions covered in R2.)
 
 
                                                         11
-    Kevin Zhou                                                                    Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                    Physics Olympiad Handouts
 
 
        Solution

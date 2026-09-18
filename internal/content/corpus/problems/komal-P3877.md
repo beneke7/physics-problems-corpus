@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-The planes in airports are pulled by small lorries loaded by heavy concrete blocks. What is the greatest acceleration of a lorry of mass m if it pulls a plane of mass 70 tons. Find the least mass of the lorry which is able to move a plane of mass 70 tons, if the coefficient of static friction on wet concrete is 0.4 and on dry concrete is 0.8, and the coefficient of rolling friction is 0.02. 
+The planes in airports are pulled by small lorries loaded by heavy concrete blocks. What is the greatest acceleration of a lorry of mass m if it pulls a plane of mass 70 tons. Find the least mass of the lorry which is able to move a plane of mass 70 tons, if the coefficient of static friction on wet concrete is 0.4 and on dry concrete is 0.8, and the coefficient of rolling friction is 0.02.
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, strategic-heuristics]
 ---
 
-In the past, during cataract surgery, the natural lens removed from the patient's eye was not replaced by an artificial lens. A patient operated on in this way could see distant objects clearly with spectacles of power $+12$ dioptres. What power of spectacles would be required for the patient to read a book at a distance of 30 cm? 
+In the past, during cataract surgery, the natural lens removed from the patient's eye was not replaced by an artificial lens. A patient operated on in this way could see distant objects clearly with spectacles of power $+12$ dioptres. What power of spectacles would be required for the patient to read a book at a distance of 30 cm?
  (4 pont)

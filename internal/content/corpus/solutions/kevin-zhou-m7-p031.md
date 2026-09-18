@@ -28,7 +28,7 @@ where r ∼ V 1/3 is the characteristic length of the initial spherical bubble. 
 ω ≫
 p
 γ/ρV . I thank Kai Wen Teo for translating this problem.
-[3] Problem 32.  ^ 1 0USAPhO 2020, problem B1. A nice, slightly mathematically involved surface
+[3] Problem 32.   ^ 1 0USAPhO 2020, problem B1. A nice, slightly mathematically involved surface
 tension problem with a real-world impact. This setup is discussed in detail in section 5.4 of Lautrup.
 [4] Problem 33. @ 1 0IPhO 2023, problem 3, parts B and C. A nice problem on the shape of a
 meniscus, which also explains why pieces of cereal clump together in a bowl of milk.

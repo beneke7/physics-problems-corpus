@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-Estimate the order of the momentum uncertainty of an electron confined in a space of the order of an atomic nucleus. To what velocity does this correspond according to the laws of classical (non-relativistic) physics? 
+Estimate the order of the momentum uncertainty of an electron confined in a space of the order of an atomic nucleus. To what velocity does this correspond according to the laws of classical (non-relativistic) physics?
  (4 pont)

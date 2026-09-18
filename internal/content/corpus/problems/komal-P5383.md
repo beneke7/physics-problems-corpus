@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-What would the mass of the Earth have to be — with unchanged rotation and diameter — so that we would not be able to receive the satellite TV broadcast with a parabolic dish in Budapest. 
+What would the mass of the Earth have to be — with unchanged rotation and diameter — so that we would not be able to receive the satellite TV broadcast with a parabolic dish in Budapest.
  (5 pont)

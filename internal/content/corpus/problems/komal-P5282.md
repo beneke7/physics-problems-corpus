@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-A magnetic disc is moving on an air-cushioned table above a metal sheet. Due to the generated eddy currents there is a retarding force exerted on the disc, which is proportional to the speed of the disc. Moving above a sheet made of aluminium the disc stops after covering a distance of 30 cm, but when the sheet is made of copper the disc stops after covering only 20 cm. How much distance will the disc cover if first it travels above a piece of copper sheet of width 15 cm, and then continues its motion above an aluminium sheet? (The initial speeds of the disc are the same in all the three cases.) 
+A magnetic disc is moving on an air-cushioned table above a metal sheet. Due to the generated eddy currents there is a retarding force exerted on the disc, which is proportional to the speed of the disc. Moving above a sheet made of aluminium the disc stops after covering a distance of 30 cm, but when the sheet is made of copper the disc stops after covering only 20 cm. How much distance will the disc cover if first it travels above a piece of copper sheet of width 15 cm, and then continues its motion above an aluminium sheet? (The initial speeds of the disc are the same in all the three cases.)
  (6 pont)

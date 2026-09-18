@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization]
 ---
 
-A father makes a see-saw for his two daughters from a 3 metre long uniform-density timber of mass 24 kg. Because the girls are not the same size the pivot is attached not to the middle of the timber, but 30 cm away from the midpoint of the timber. Sarah the smaller daughter is 10 kg now. 
- $a)$ What is the mass of the elder sister, Emma, if the the see-saw can be balanced when the two sisters sit at the ends of it? 
- $b)$ Sarah and Emma can use the see-saw for a long time. Plot Emma's mass as a function of Sarah's mass. 
+A father makes a see-saw for his two daughters from a 3 metre long uniform-density timber of mass 24 kg. Because the girls are not the same size the pivot is attached not to the middle of the timber, but 30 cm away from the midpoint of the timber. Sarah the smaller daughter is 10 kg now.
+ $a)$ What is the mass of the elder sister, Emma, if the the see-saw can be balanced when the two sisters sit at the ends of it?
+ $b)$ Sarah and Emma can use the see-saw for a long time. Plot Emma's mass as a function of Sarah's mass.
  (3 pont)

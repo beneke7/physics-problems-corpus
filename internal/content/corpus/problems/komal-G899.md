@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-What is at least the average current drawn by an electric car while it accelerates to $100~\mathrm{km}/\mathrm{h}$ in $2.7~\mathrm{s}$? The car has a nominal voltage of $800~\mathrm{V}$ and a mass of $2500~\mathrm{kg}$. 
+What is at least the average current drawn by an electric car while it accelerates to $100~\mathrm{km}/\mathrm{h}$ in $2.7~\mathrm{s}$? The car has a nominal voltage of $800~\mathrm{V}$ and a mass of $2500~\mathrm{kg}$.
  (3 pont)

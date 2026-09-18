@@ -56,14 +56,14 @@ c2
 =
 L
 v
-
+
 1 −
 v2
 c2
 +
 v2
 c2
-
+
 =
 L
 v
@@ -74,7 +74,9 @@ this time interval in:
 (a) your frame? (Calculate this by working in your frame.)
 (b) the stick’s frame? (Work in the stick’s frame.)
 (c) your frame? (Work in the stick’s frame.)
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (d) the stick’s frame? (Work in your frame. This is the tricky one.)
 Solution. (a) The stick is length contracted to L/γ, so it takes time L/γv for the stick to pass.
 (b) The stick has length L and you move past it at speed v, so it takes time L/v.
@@ -116,7 +118,9 @@ A B
 v
 L/γ
 After
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The point is that since we lose simultaneity, by the time B catches his ball in his frame, A
 has dragged his ball closer to B’s ball, reducing their distance in the process.
 More precisely, the time interval between the two catches is γLv/c2, because they were
@@ -160,9 +164,11 @@ frames, not on how they physically appear to an observer’s eyes. This is a com
 fascinating subject. For instance, it turns out that once one accounts for the light travel
 time delay, moving objects appear to be rotated. For an interactive simulation, check out
 the game A Slower Speed of Light (3D) and Velocity Raptor (2D only).
-[3] Problem 4.  W 1 0USAPhO 2016, problem A3. Print out the custom answer sheet before starting.
-[5] Problem 5.  T 1 0IPhO 2006, problem 2. A nice problem about relativistic visual effects.
-3Kevin Zhou Physics Olympiad Handouts
+[3] Problem 4.   W 1 0USAPhO 2016, problem A3. Print out the custom answer sheet before starting.
+[5] Problem 5.   T 1 0IPhO 2006, problem 2. A nice problem about relativistic visual effects.
+3
+
+Kevin Zhou Physics Olympiad Handouts
 2 Velocity Addition
 Idea 2: Velocity Addition
 Again, let frame S′ move with velocity vx̂ with respect to frame S. If an object has velocity
@@ -196,10 +202,10 @@ The length contraction will result in an observed length of
 = ℓ0
 s
 1 −
-
+
 u − v
 c − uv/c
-2
+ 2
 .
 [2] Problem 7 (Morin 11.16). In frame S′, a particle moves with velocity (0,u′) as shown at left.
 Frame S moves to the left with speed v, so the situation in S is as shown at right, with the y speed
@@ -218,7 +224,9 @@ between crossing adjacent dotted lines, respectively. Since these occur at the s
 frame S′, we have
 ∆t = γ∆t′
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Moreover, length in the y-direction isn’t contracted at all, so
 γ =
 ∆t
@@ -262,25 +270,25 @@ w − v
 The difference in time dilation factors, on the person’s clock versus the train’s clocks, leads to a
 relative change in time reading of
 ∆τ =
-
+
 1
 γw
 −
 1
 γv
-
+
 ∆t =
-
+
 1
 γu(1 + uv)
 − 1
-
+
 L
 γ2
 v
 1
 w − v
-
+
 .
 To simplify the second factor, note that
 1
@@ -299,11 +307,11 @@ so that we have
 ∆τ =
 L
 u
-
+
 1
 γu
 − 1 − uv
-
+
 .
 We need to be a bit careful in approximating this expression, since the 1/γu and 1 terms will almost
 cancel out. So we instead write 1/γu = 1 + O(u2), giving
@@ -312,10 +320,12 @@ L
 u
 1 + O(u2
 ) − 1 − uv
-
+
 = −L(v + O(u)) ≈ −Lv
 since we are assuming u ≪ v. This is precisely the expected result.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3: Relativistic Doppler Shift
 If a light source with (proper) frequency f′ is moving directly towards you at speed v, then
 in nonrelativistic physics, we would measure a frequency
@@ -358,7 +368,9 @@ Therefore, by routine kinematics, the time spent in the slab is
 tin =
 D
 vrel
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 during which the light moves forward by D + vtin. The rest of the time is
 tout =
 L − D − vtin
@@ -369,7 +381,7 @@ T =
 L
 c
 + D
-
+
 1
 vrel
 −
@@ -378,18 +390,18 @@ c
 −
 v
 cvrel
-
+
 =
 L
 c
 +
 D
 c
-
+
 n − 1 −
 vn
 c
-
+
 .
 (b) The slab length contracts, but this is second order in v/c, while we’re just interested in the
 first order effect. The key difference is that because of relativistic velocity addition, the light
@@ -401,11 +413,11 @@ c/n + v
 c
 n
 +
-
+
 1 −
 1
 n2
-
+
 v + O(v2
 /c).
 Thus, to leading order in v/c, when the light is in the slab, the relative speed of the light and
@@ -422,7 +434,7 @@ T =
 L
 c
 + D
-
+
 1
 vrel
 −
@@ -431,18 +443,18 @@ c
 −
 v
 cvrel
-
+
 ≈
 L
 c
 +
 D
 c
-
+
 n − 1 −
 v(n − 1)
 c
-
+
 again to first order in v/c. (Before the advent of relativity, this result was explained by an
 “ether drag” coefficient of 1 − 1/n2.)
 [4] Problem 10. An object at rest at the origin in frame S′ emits a flash of light uniformly in all
@@ -465,7 +477,9 @@ Now consider the case where the object is at rest, but the light is viewed by a 
 moving observer going in a circle, with momentarily comoving frame S. Because of your result in
 part (b), the observer will see the object perform an apparent circular motion. When the object is
 a star and the observer is a telescope on the Earth, this phenomenon is known as stellar aberration.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Suppose the displacement from the sun to the distant star is perpendicular to the plane of
 orbit of the Earth. If the Earth performs a circular orbit with speed v ≪ c, find the angular
 radius θA of the circle the star appears to move in on the sky, to an observer on Earth.
@@ -514,7 +528,9 @@ be along its x axis. Then the formula in part (b) applies, where θ0 = π/2. We 
 cos(π/2 + θA) = v/c, and applying the small angle approximation gives |θA| = v/c. (If you
 find the geometry of the effect confusing, see this diagram.)
 (e) Using the small angle approximation, the answer is straightforwardly θP = r/d.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (f) Earth’s orbit speed is about 30km/s, so v/c ∼ 10−4. By contrast, r is a few light-minutes,
 while d is at the minimum a few light-years, so r/d ≲ 10−5 even for the closest stars. So the
 aberration effect is significantly larger. Aberration and parallax were first seen by Bradley in
@@ -574,26 +590,28 @@ This holds because
 The intuition is that we can think of the reflected wave as being sourced by an image. Both the
 source and the image have speed v relative to the mirror, so by relativistic velocity addition,
 the image has speed 2v/(1 + v2) relative to the source.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Let ∆p be the momentum transferred to the mirror, and let p0 be the momentum of the initial
 pulse of light. Then the change in the mirror’s kinetic energy is
 ∆K = v ∆p = −p0v
-
+
 1 +
 1 + v/c
 1 − v/c
-
+
 = −p0
 2v
 1 − v/c
 .
 On the other hand, the change in the light’s energy is
 ∆E = p0c
-
+
 1 + v/c
 1 − v/c
 − 1
-
+
 = p0
 2v
 1 − v/c
@@ -612,7 +630,7 @@ mirror’s velocity, so the light’s energy remains the same as well.
 On the other hand, if the mirror is moving perpendicular to its plane, then the frequency of
 the photon can change, and its angle of reflection will generally be different from its angle of
 incidence. If you’re interested, it’s straightforward (albeit a bit messy) to work this out.
-[3] Problem 12.  ^ 1 0USAPhO 2021, problem A2. A simple, elegant problem with a useful punchline.
+[3] Problem 12.   ^ 1 0USAPhO 2021, problem A2. A simple, elegant problem with a useful punchline.
 [3] Problem 13. In relativity, objects that change their direction of motion also automatically rotate,
 even if they experience no torque in their own frames. Concretely, suppose an object is moving along
 the x-axis with speed v ≪ c. In its own frame, it experiences an impulse along the y-axis, which
@@ -631,7 +649,9 @@ t′
 (c) Your two frames will differ in orientation by a small angle ∆θ. What is ∆θ? More generally,
 if the object performs uniform circular motion with angular velocity ω and speed v in the lab
 frame, what spin rotation rate ωs is induced by this effect?
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Suppose the object accelerated by momentarily firing an array of rockets on its back. How
 would an observer in the lab frame explain why the object rotated?
 This subtle phenomenon goes by several names. When we think about it kinematically, as the
@@ -702,7 +722,9 @@ gyroscope. Its appendix also contains a quick, but tricky derivation of Thomas p
 a deeper level, Thomas precession isn’t too surprising. It arises from the fact that boosts don’t
 commute (the order you apply them matters), but in special relativity, boosts and rotations
 are both Lorentz transformations, and we know from M8 that 3D rotations don’t commute.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 3 Paradoxes
 Now you’re prepared to confront some classic relativistic paradoxes. They won’t appear in compe-
 titions, but your understanding of relativity will be deeper if you grapple with them. (Also, now
@@ -720,7 +742,9 @@ ple disagreeing on whose clock runs slower. It’s not really more confusing tha
 that when I walk away from you, I see you getting smaller, but you also see me getting smaller.
 More seriously, though, the reason time dilation can be symmetric is the loss of simultaneity
 effect, as beautifully shown in Tatsu Takeuchi’s Illustrated Guide to Relativity.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 14. The Lorentz transformations treat x and t completely symmetrically. So why is it
 that lengths contract while times dilate? Shouldn’t both do the same thing?
 Solution. This comes down to a difference in how lengths and times are measured. Let S be the
@@ -765,7 +789,9 @@ a distance vL/c > L/2, which means it has already smashed into the back of the d
 the wood.
 For a more detailed discussion, with many nice diagrams, see section 6.3 of Understanding
 Relativity by Sartori.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 16. A headlight is constructed by putting a light source inside a spherical cavity.
 θ
 The opening of the cavity has angular width θ, so a beam of light comes out with width θ. The
@@ -794,7 +820,9 @@ it easily passes through the hole in the sheet, if the sheet is moved vertically
 the stick, the sheet is moving horizontally, so the hole is length contracted instead. Qualitatively
 explain how the stick can still pass through the hole in this frame, in the following two cases:
 (a) The sheet has a uniform vertical velocity in the lab frame.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The sheet begins at rest at the lab frame, but is pushed upward a small amount when the
 stick passes over the hole, then ends at rest again.
 Solution. The idea behind this classic problem was first proposed by Rindler in 1961, then refined
@@ -835,7 +863,9 @@ can’t just work in Bob’s frame and conclude that Bob has aged more by time d
 (a) Draw a Minkowski diagram for Alice and Bob where Alice’s worldline is x = 0.
 (b) The reason that working in Bob’s frame is subtle is that it is not a single inertial frame. Draw
 x′ and t′ axes for Bob at several points on Bob’s worldline. Argue that when Bob turns around,
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 thereby moving to a different inertial frame, Alice’s age jumps upward. (Using the results of
 chapter 11 of Morin, you can even show that the amount of aging is exactly what is needed,
 using the Minkowski diagram alone.)
@@ -875,7 +905,9 @@ axes rotate during the acceleration, Alice’s age changes extremely quickly.
 This might feel strange, but it’s really just an artifact of changing reference frames. As a
 simpler example, suppose you were a surveyor trying to measure the height of a mountain,
 which can be done by measuring the angle to its summit with respect to a horizontal level. If
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 the surveyor then gets on an accelerating car, their horizontal level will tilt, causing the height
 reading to change extremely quickly. But that doesn’t mean people living on the mountain
 will be flung off! They don’t feel anything; it’s just the surveyor’s notion of horizontal that
@@ -964,7 +996,9 @@ so Alice has aged by 2L/v, exactly as expected. Physically, Bob sees Alice aging
 motion for half the time, and aging in fast motion for half the time, with the overall effect of
 Alice aging more. Again, note that the fundamental asymmetry is due to Bob being the one
 accelerating, which is baked into how we computed the tr and tb.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (e) This example was first considered in 1973 by this paper, and reviewed pedagogically by this
 paper. In this exotic spacetime, there really is a notion of absolute rest: we can unambiguously
 say that Bob moved and Alice didn’t, so Alice has aged more. The reason is that the torus
@@ -1009,7 +1043,9 @@ thors Against Einstein, where an army of philosophers argued that relativity had
 e.g. because it contradicted the metaphysical system of the native German, 18th century
 philosopher Immanuel Kant. Kant’s ideas about space and time, they said, could be proven
 true by verbal reasoning alone, so any theory or experiment saying otherwise had to be wrong.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 If there’s a lesson to be drawn from this bizarre history, it’s that the ability to write or speak is
 not the same as the ability to think. People can churn out pages of flowing prose without ever
 having a single coherent thought. Physicists learn to think by solving well-defined problems
@@ -1083,7 +1119,9 @@ dτ
 dxµ
 dt
 = (γ,γv)
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 where v = dx/dt is the spatial velocity and γ = 1/
 √
 1 − v2 as usual. Since its spatial part
@@ -1122,7 +1160,7 @@ evaluate u1 · u2 in any frame. Suppose we work in the frame of the first partic
 uµ
 1 = (1,0), uµ
 2 =
-
+
 1
 √
 1 − v2
@@ -1130,9 +1168,11 @@ uµ
 v
 √
 1 − v2
-
+
 .
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Carrying out the inner product, we have the relatively simple result
 p1 · p2 =
 m1m2
@@ -1182,7 +1222,9 @@ Solution. (a) In A’s frame, the four-velocities are
 vB = (γu,γuu), vC = (γv,−γvv).
 Let w be the desired answer. Then in C’s frame,
 vB = (γw,γww), vC = (1,0).
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 The inner product of vB and vC should be independent of frame, so
 γuγv(1 + uv) = γw
 or equivalently
@@ -1231,7 +1273,9 @@ we defined it in the source’s frame, but the most common form of the result de
 observer’s frame. To get this formula, repeat part (c), but now suppose we’re already in the
 observer’s frame, where the source moves with velocity −vx̂, and the light ray is traveling at
 an angle θ to the x-axis. Find the relationship between ω′ and ω.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 The answer to part (d) is also the final result of USAPhO 2021, problem A2. For more on the
 relativistic Doppler effect, see section 11.8.2 of Morin. (By the way, now that we have the four-vector
 formalism set up, it’s not that much harder to compute the Doppler effect for waves that travel at
@@ -1292,7 +1336,9 @@ to Si and Sj. Show that the ratio
 (1 − cosθ12)(1 − cosθ34)
 (1 − cosθ13)(1 − cosθ24)
 is independent of the motion of the observer.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 This Oxford undergraduate exam question is too technical to be relevant to Olympiads, but
 it shows how four-vectors can be essential. The θij depend on the motion of the observer
@@ -1360,7 +1406,9 @@ vax,γ4
 ax,γ2
 ay,γ2
 az).
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (c) This follows immediately because aµ′
 = (0,a′
 x,a′
@@ -1398,19 +1446,19 @@ The velocity addition formula for general v and u′ is, using the same notation
 u =
 1
 1 + v · u′
-
+
 v +
 u′
 γ
 +
-
+
 1 −
 1
 γ
-
+
 v̂(v̂ · u′
 )
-
+
 .
 The first result of problem 23 is
 aµ
@@ -1433,7 +1481,9 @@ axes so that v points along one of them, rather than considering a completely ge
 On the other hand, you can get practice with three-vectors by staring at the above expressions
 until you see how they reduce to the component forms we had earlier. If you do this, you’ll
 learn how to translate just about any component expression into three-vector notation.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 5 Acceleration and Rapidity
 Idea 5
 The geometry of special relativity is much like ordinary geometry, except that the dot product
@@ -1443,35 +1493,35 @@ rotations mix up different spatial axes. The generalized angle is the rapidity �
 v.
 [3] Problem 24 (Morin 11.27). In this problem, we’ll see the meaning of the rapidity more precisely.
 (a) Show that a Lorentz transformation may be written as
-
+
 x
 t
-
+
 =
-
+
 coshϕ sinhϕ
 sinhϕ coshϕ
-
+
 x′
 t′
-
+
 .
 (b) Show that the composition of Lorentz transformations with rapidity ϕ1 and ϕ2 is a Lorentz
 transformation with rapidity ϕ1 + ϕ2. This makes rapidity extremely useful in kinematics
 problems with multiple boosts, such as problems involving acceleration.
 (c) An ordinary rotation of spatial axes has the form
-
+
 x
 y
-
+
 =
-
+
 cosθ −sinθ
 sinθ cosθ
-
+
 x′
 y′
-
+
 .
 Show that a Lorentz transformation is essentially an ordinary rotation between space and
 time, if we treat time as like “imaginary space” and the rotation as by an imaginary angle.
@@ -1489,59 +1539,61 @@ t = γ(t′
 )
 which are exactly of the desired form.
 (b) Explicitly, we have
-
+
 coshϕ1 sinhϕ1
 sinhϕ1 coshϕ1
-
+
 coshϕ2 sinhϕ2
 sinhϕ2 coshϕ2
-
+
 =
-
+
 A B
 B A
-
+
 where
 A = coshϕ1 coshϕ2 + sinhϕ1 sinhϕ2, B = coshϕ1 sinhϕ2 + sinhϕ1 coshϕ2.
 By using the hyperbolic trig sum rules, we have
 A = cosh(ϕ1 + ϕ2), B = sinh(ϕ1 + ϕ2)
 as desired.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Substituting θ = iϕ and y = it, the rotation becomes
-
+
 x
 it
-
+
 =
-
+
 cos(iϕ) −sin(iϕ)
 sin(iϕ) cos(iϕ)
-
+
 x′
 it′
-
+
 .
 This can be converted to a transformation between (x,t) and (x′,t′),
-
+
 x
 t
-
+
 =
-
+
 cos(iϕ) −isin(iϕ)
 −isin(iϕ) cos(iϕ)
-
+
 x′
 t′
-
+
 =
-
+
 coshϕ sinhϕ
 sinhϕ coshϕ
-
+
 x′
 t′
-
+
 .
 Idea 6
 The next few questions will deal with accelerating objects. In Newtonian mechanics, a
@@ -1585,7 +1637,9 @@ dt
 a0
 γ3
 as desired.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Separating and integrating, we have
 a0t =
 Z v
@@ -1660,8 +1714,10 @@ a neat result, recently highlighted in the 2022 IPhO and the popular book Projec
 (d) In the limit t → ∞, we have x(t) ≈ t − 1/a0, which implies d0 = 1/a0. This is the so-called
 Rindler horizon. Since it has some features in common with the event horizon of a black hole,
 this setup is this problem is often used as a toy model in theoretical physics.
-28Kevin Zhou Physics Olympiad Handouts
-[3] Problem 26.  ^ 1 0USAPhO 2020, problem A3. An unusual problem that tests your understanding
+28
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 26.   ^ 1 0USAPhO 2020, problem A3. An unusual problem that tests your understanding
 of momentarily comoving frames, and higher-dimensional Lorentz transformations. As a warning,
 this question requires you to make an unstated assumption. The fact that uniformly moving clocks
 have their time dilated by a factor of γ follows directly from the postulates of special relativity.
@@ -1693,10 +1749,12 @@ Over time, the x′ axis of this set of inertial frames tilts upward, so the rea
 rocket accelerating faster, and hence moving away.
 To see this another way, consider discretizing the acceleration, i.e. converting it into a series
 of rocket pulses. Since the clocks of the rockets are initially synchronized, the first pulses are
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 simultaneous according to both rockets. But because of the relativity of simultaneity, within the
 frame moving with the rear rocket after the first pulse, the front rocket does the second pulse earlier,
 and hence starts to move away. (For a neat visual explanation, see this video.)
-[5] Problem 28.  h 1 0APhO 2013, problem 2. This is a challenging question that ties together
+[5] Problem 28.   h 1 0APhO 2013, problem 2. This is a challenging question that ties together
 everything you’ve learned about kinematics.
 30

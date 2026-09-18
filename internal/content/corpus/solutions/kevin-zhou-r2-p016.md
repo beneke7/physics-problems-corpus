@@ -162,11 +162,11 @@ Mf
 M0
 Mf
 = clog
-
+
 1 +
 M0 − Mf
 Mf
-
+
 ≈
 M0 − Mf
 Mf
@@ -268,10 +268,10 @@ in the same way that Jµ is analogous to Q. Concretely, in a one-dimensional uni
 and t directions, it is
 Tµν
 =
-
+
 u S
 S σ
-
+
 where the components have the following meanings.
 • T00 = u is the energy density.
 • T01 = S is the momentum density, i.e. what we must integrate over space to get momentum.
@@ -282,34 +282,34 @@ v would have T10 = mv. It turns out that in general T10 = T01.
 Physically, a flow of momentum is equivalent to a pressure.
 Upon a Lorentz transformation, the stress energy tensor transforms differently from a four-vector.
 For a four-vector we would have
-
+
 x′
 t′
-
+
 = γ
-
+
 1 −v
 −v 1
-
+
 x
 t
-
+
 but for the stress-energy tensor we have
-
+
 u′ S′
 S′ σ′
-
+
 = γ2
-
+
 1 −v
 −v 1
-
+
 u S
 S σ
-
+
 1 −v
 −v 1
-
+
 .
 Expanding to first order in v, we have
 S′
@@ -417,12 +417,12 @@ forces, or the tension force from a string.
 (c) Show that the components of the four-force are
 fµ
 =
-
+
 γ
 dE
 dt
 ,γF
-
+
 .
 Use the relativistic transformation of the four-force to rederive the result of part (b).
 (d) The four-impulse is defined as
@@ -497,26 +497,26 @@ dτ
 dpµ
 dt
 =
-
+
 γ
 dE
 dt
 ,γ
 dp
 dt
-
+
 =
-
+
 γ
 dE
 dt
 ,γF
-
+
 .
 In the primed frame of part (b), the components are
 fµ′
 = 0,F′
-
+
 .
 Applying a Lorentz transformation to the original frame, we have
 fx

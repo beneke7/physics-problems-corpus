@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, limiting-and-special-cases]
 ---
 
-Two small metal balls are fixed at a distance of $d$ on isolated rods, and both are given a charge of $Q$. 
- $a)$ Draw the sketch of the equipotential surfaces. 
- $b)$ What is the potential of that surface which ``surrounds'' both charged balls? 
+Two small metal balls are fixed at a distance of $d$ on isolated rods, and both are given a charge of $Q$.
+ $a)$ Draw the sketch of the equipotential surfaces.
+ $b)$ What is the potential of that surface which ``surrounds'' both charged balls?
  (4 pont)

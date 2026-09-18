@@ -30,7 +30,6 @@ the sphere. The vortices separate when this production is too fast to be simply 
 Re ∼ 104 , the flow because chaotic, with a turbulent wake formed behind the sphere. At Re ∼ 105 ,
 a “drag crisis” occurs where the coefficient of drag suddenly drops and the turbulent flow reattaches
 to the sphere.
-122 5. Fundamentals of Quantum Mechanics
 
 
 5      Fundamentals of Quantum Mechanics

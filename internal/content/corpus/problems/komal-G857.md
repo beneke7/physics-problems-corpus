@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A small body is at rest on the top of a frictionless hill. If it is gently pushed, it will reach the bottom of the hill at a speed of $4~\mathrm{m}/\mathrm{s}$. At what speed would it reach the bottom of the slope if it were not started at rest but at an initial speed of $3~\mathrm{m}/\mathrm{s}$? 
+A small body is at rest on the top of a frictionless hill. If it is gently pushed, it will reach the bottom of the hill at a speed of $4~\mathrm{m}/\mathrm{s}$. At what speed would it reach the bottom of the slope if it were not started at rest but at an initial speed of $3~\mathrm{m}/\mathrm{s}$?
  (3 pont)

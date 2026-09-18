@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A ping-pong ball was thrown vertically upward. Which takes longer, the upward or the downward motion of the ball? (Consider air drag.) 
+A ping-pong ball was thrown vertically upward. Which takes longer, the upward or the downward motion of the ball? (Consider air drag.)
  (3 pont)

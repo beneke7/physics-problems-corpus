@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-Five resistors are connected to the terminals $A$ and $B$ of a 24 V voltage source as shown in the figure . The resistances are $R_1=40~\Omega$, $R_2=50~\Omega$, $R_3=R_4=10~\Omega$, and $R_5=20~\Omega$. 
- a) Determine the equivalent resistance of the circuit in the closed and open positions of the switch. 
- b) How much does the power of resistor $R_4$ change when the closed switch is opened? 
+Five resistors are connected to the terminals $A$ and $B$ of a 24 V voltage source as shown in the figure . The resistances are $R_1=40~\Omega$, $R_2=50~\Omega$, $R_3=R_4=10~\Omega$, and $R_5=20~\Omega$.
+ a) Determine the equivalent resistance of the circuit in the closed and open positions of the switch.
+ b) How much does the power of resistor $R_4$ change when the closed switch is opened?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G896-fig1.png)
+![figure](../../figures/komal/figures/komal-G896-fig1.png)

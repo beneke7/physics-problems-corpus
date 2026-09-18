@@ -18,12 +18,12 @@ Be süljük meg, mennyivel növekszik a homok h®mérséklete 10 per alatt, ha a
 goljuk!
 (Károlyházy Frigyes)
 Megoldás. Ha a henger elég lassan forog (a feladatban 2 másodper alatt fordul körbe, s ez elég lassúnak tekinthet®), akkor
-a homok a hengerben valamennyire felmászik a forgás irányának megfelel® oldalon, és közelít®leg egy hengerszelet térfogatát
+a homok a hengerben valamennyire  felmászik  a forgás irányának megfelel® oldalon, és közelít®leg egy hengerszelet térfogatát
 tölti ki.
 A h®mérséklet változását a homok tömege, fajh®je és a rajta végzett súrlódási munka ismeretében tudnánk meghatározni:
 ∆T = Wsúrl./c · m. A homok tömege adott (m = 100 kg), fajh®jét táblázatból (a hozzá hasonló anyagok, pl. a kvar üveg vagy
 a por elán adatainak felhasználásával) J/(kg◦
-C) egységekben 700800 közötti értékre be sülhetjük.
+C) egységekben 700 800 közötti értékre be sülhetjük.
 A homok mozgásának részletes leírása (és ennek ismeretében a súrlódási munka kiszámítása) reménytelenül bonyolult feladat
 lenne. Szeren sére erre nin s szükség! Elegend® azt észrevenni, hogy az egyenletesen forgatott hengerben a homok el®bb-utóbb
 állandósult (sta ionárius) állapotba kerül. A homok egyes darabkái mozognak (áramlanak) ugyan, de a homok egésze olyan alakot
@@ -59,7 +59,7 @@ mint a tömör kvar táblázatban megtalálható 2,65 kg/dm3
 rtkp ≈ 4 dm adódik.
 Vajon hogyan helyezkedik el a homokkal kitöltött hengerszelet síkja a henger tengelyén átmen® függ®leges síkhoz képest?
 Mindennapi tapasztalatból (homokozó, homokóra) tudjuk, hogy a (száraz) homokból kb. 45◦
--os rézs¶szög alakítható ki, ezért
+-os  rézs¶szög  alakítható ki, ezért
 jogosan tekinthetjük úgy, hogy a jelen esetben is az állandósult mozgású homokgörgeteg legfels® pontja a henger tengelyével
 kb. azonos magasságba kerül, s emiatt a keresett er®kar
 k ≈ rtkp · sin45◦
@@ -76,11 +76,11 @@ Megjegyzések. 1. A feladat megoldása során összesen 57 versenyz® jutott el 
 adni a h®mérséklet emelkedésére. Ezek a be slések széles határok között változtak, a legkisebb 0,0009 ◦
 C volt, a legnagyobb
 44,65 ◦
-C. ∆T = 58 ◦
+C. ∆T = 5 8 ◦
 C-os intervallumba es® értéket összesen 10 versenyz® kapott, tehát ennyien oldották meg elfogadhatóan a
 feladatot.
 2. Érdemes a feladatban leírt jelenséget kísérletileg is tanulmányozni. (A fényképen látható berendezést, amely a feladatban
 szerepl® összeállítás ki sinyített mása, a verseny eredményhirdetésén láthattuk.) Gyorsabb forgás esetén nagyon sok érdekes
-részlet 
-gyelhet® meg a homokszemek kollektív mozgásában. Ezek vizsgálata ma is aktuális kutatási feladat a 
+részlet
+gyelhet® meg a homokszemek  kollektív mozgásában . Ezek vizsgálata ma is aktuális kutatási feladat a
 zikusok számára.

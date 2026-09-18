@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [stability-analysis, model-reduction]
 ---
 
-A tall tower is built from alike tubes, which have thin walls, and from rectangular sheets, which have negligible mass with respect to that of the tubes, as shown in the figure. What will happen if one of the sheets at the bottom is dynamically pulled out along the horizontal, perpendicularly to the tubes a ) by 2 cm; b ) by 6 cm? (Static friction is big enough, such that the tubes does not slip.) 
+A tall tower is built from alike tubes, which have thin walls, and from rectangular sheets, which have negligible mass with respect to that of the tubes, as shown in the figure. What will happen if one of the sheets at the bottom is dynamically pulled out along the horizontal, perpendicularly to the tubes a ) by 2 cm; b ) by 6 cm? (Static friction is big enough, such that the tubes does not slip.)
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4401-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4401-fig1.gif)

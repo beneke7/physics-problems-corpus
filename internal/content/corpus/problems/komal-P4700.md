@@ -23,5 +23,5 @@ techniques: [cross-domain-analogy, extremization, auxiliary-unknowns]
 ---
 
 A uniform metal disc of height $h$ and of cross section $A$ ($h\ll \sqrt{A}$ ) is moving at a great acceleration parallel to the symmetry axis of the disc (${a\gg
-g}$ ). How many electrons appear at that side of the disc which is opposite of the direction of the acceleration? 
+g}$ ). How many electrons appear at that side of the disc which is opposite of the direction of the acceleration?
  (5 pont)

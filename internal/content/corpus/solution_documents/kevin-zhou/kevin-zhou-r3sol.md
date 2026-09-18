@@ -31,12 +31,12 @@ while the components perpendicular are
 E′
 ⊥ = γ(E⊥ + v × B⊥), B′
 ⊥ = γ
-
+
 B⊥ −
 v
 c2
 × E⊥
-
+
 .
 As alluded to in R2, this is the transformation rule for the components of a rank 2
 antisymmetric tensor.
@@ -63,7 +63,9 @@ q
 θ)3/2
 r̂
 in units where c = 1, and θ is the angle from v. In particular, the field is still radial.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Verify that the charge of this moving charge is still q. It may be useful to consult the integral
 table in appendix K of Purcell.
 (c) Argue that the magnetic field of this point charge must be exactly
@@ -152,7 +154,9 @@ p
 = 1
 as desired, where we used equation (K.15) from Purcell.
 (c) We know B′ = 0, and using the field transformations immediately gives the result.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Applying Coulomb’s law, we have
 v × E
 c2
@@ -221,7 +225,9 @@ F′
 (1 + v2
 ).
 This is more than the result we found in part (a).
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The extra three-force due to the magnetic field adds to the electric force,
 evB = ev2
 E =
@@ -266,7 +272,9 @@ lar logic holds for gravity, though in that case the radiation reaction force sh
 People once tried to guess velocity-dependent forces to fit data, including Weber for electro-
 magnetism and Gerber for gravity. However, this only works up to some point, and there
 are many possibilities to guess. The benefit of a field theory (Maxwell’s electromagnetism or
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 general relativity) is that it’s a simple starting point, from which one can compute all forces.
 [3] Problem 3 (Purcell 5.24). In the rest frame of a particle with charge q, another particle with
 charge q is approaching with relativistic velocity v. Assume that both particles are extremely
@@ -326,8 +334,10 @@ J ≪ mv.
 Since this is strictly stronger than the other condition, this is the only one we really need. In
 other words, this kind of calculation only works if the transverse speed J/m the charges pick
 up is small compared to the original speed, i.e. if the angular deflection is small.
-5Kevin Zhou Physics Olympiad Handouts
-[3] Problem 4.  m 1 0USAPhO 2014, problem B2. This isn’t the clearest of problems, but it introduces
+5
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 4.   m 1 0USAPhO 2014, problem B2. This isn’t the clearest of problems, but it introduces
 and justifies the Galilean field transformations we first saw in E4.
 [3] Problem 5 (Purcell 5.30). Consider an infinite wire oriented along x̂ with linear charge density λ
 and current I. Show that under a Lorentz boost along x̂, (λ,I) transforms like (ct,x).
@@ -382,7 +392,9 @@ qE =
 µ0γvvIq
 2πr
 which balance because µ0ϵ0 = 1, in our units where c = 1.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 7 (Purcell 6.69). Two very long sticks each have uniform linear proper charge density λ.
 One stick is stationary in the lab frame, while the other moves to the left with speed v, as shown.
 They are 2r apart, and a stationary point charge q lies midway between them. Find the Lorentz
@@ -391,13 +403,13 @@ forces relate properly.
 Solution. Let upward-pointing forces be denoted with a positive sign. In the lab frame, we only
 have an electric force. The charge on the bottom stick is length contracted, so
 F = q
-
+
 γλ
 2πϵ0r
 −
 λ
 2πϵ0r
-
+
 =
 qλ
 2πϵ0r
@@ -432,11 +444,11 @@ qλ
 − γ + 1) =
 qλ
 2πϵ0r
-
+
 1 −
 1
 γ
-
+
 =
 F
 γ
@@ -451,7 +463,9 @@ wires, connected at one end by a battery and at the other end by a resistor. Bef
 starts flowing, the whole system is neutral. So if the wires picked up a net charge density,
 the battery would have to have a large compensating charge, which would make it blow
 up. Or, to say it another way, if a net charge appears in the rest of the system, it pulls a
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 compensating charge out of the battery, so the battery keeps the wires net neutral. You can
 then show that in a boosted frame, the wires stay net neutral, as expected.
 But this argument only shows that the wires have opposite charge densities ±λ in the lab
@@ -516,13 +530,15 @@ E⊥ · E⊥)
 − B2
 as desired, where in the third equality the cross-terms canceled.
 (b) This is impossible, because then E2 − B2 would have different signs in the two frames.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (c) If we plugged in the field transformations, the algebra would get extremely messy. Instead,
 we use the hint that this invariant can be constructed out of the ones found in part (a), so
 E2
 − |S|2
 =
-
+
 1
 2
 E2
@@ -530,10 +546,10 @@ E2
 1
 2
 B2
-2
+ 2
 − |E × B|2
 =
-
+
 1
 2
 E2
@@ -541,12 +557,12 @@ E2
 1
 2
 B2
-2
+ 2
 + (E · B)2
 − E2
 B2
 =
-
+
 1
 2
 E2
@@ -554,7 +570,7 @@ E2
 1
 2
 B2
-2
+ 2
 + (E · B)2
 .
 This is constructed out of the invariants in part (a), so it is invariant as well.
@@ -587,7 +603,9 @@ mentioned in T2, can be simply written in four-vector notation as
 = 0.
 As another example, you can show that the four-current of a single charged particle q is
 Jµ = quµ. We can go even further and write the whole of electromagnetism in terms of
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 four-vectors and tensors. Maxwell’s equations can be written as
 ∂µFµν
 = Jν
@@ -626,7 +644,9 @@ you’re dealing with laws that are independent of coordinate system. In general
 need to be ideological about notation; it’s just a tool, and we should use the best tool for
 each job. If anyone tells you that their preferred alternative notation for vectors or tensors
 will revolutionize physics, keep your hand on your wallet.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 [4] Problem 9. Consider an electromagnetic wave of the form
 E(z,t) = E0 cos(kz − ωt)x̂, B(z,t) = B0 cos(kz − ωt)ŷ.
 As usual, you may work in units where c = 1.
@@ -687,7 +707,9 @@ r
 1 + v
 ω
 which is of course just the usual Doppler shift.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The number of photons is the ratio of the total energy in the wave to the energy of each
 photon. Since the energy of each photon is reduced by a factor of
 p
@@ -723,7 +745,9 @@ at r = 15cm, it must have quickly stopped at t = −r/c = −0.5ns, since the sp
 c = 30cm/ns. We also see that the field lines outside this shell are straight, and point towards
 the location x = 12cm. This implies that shortly before the charge stopped, it was moving
 with constant velocity v = |x/t| = 24cm/ns = 0.8c.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 (b) By combining the results from (a), it must have been at x = −(24cm/ns)(0.25ns) = −6cm.
 [2] Problem 11 (Purcell 5.19). People often wonder what would happen if an electric charge instantly
 appeared or vanished. However, this is impossible, because as discussed in E7, Maxwell’s equa-
@@ -742,7 +766,9 @@ field has to “instantly vanish”, contradicting relativity. As you can see, t
 spherical shell, corresponding to a pulse of radiation, travels outward at the speed of light. The
 electric field only vanishes inside the expanding shell.
 [3] Problem 12. Work through the derivation of the Larmor formula in Appendix H of Purcell.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 13 (Purcell H.4). The Larmor formula only applies to particles moving nonrelativistically.
 To get a result valid for faster particles, we can simply transform into an inertial frame F′ where
 the particle is nonrelativistic, apply the Larmor formula, then transform back to the lab frame.
@@ -761,12 +787,12 @@ general result is
 Prad =
 q2
 6πϵ0c3
-
+
 1
 m
 dpµ
 dτ
-2
+ 2
 which clearly reduces to the Larmor formula in the nonrelativistic limit.
 (c) This radiation is also called synchrotron radiation. Qualitatively, how does its angular distri-
 bution differ from radiation from an accelerating nonrelativistic charge?
@@ -804,7 +830,9 @@ the charge is moving very quickly, the radiation’s direction gets a big compon
 charge’s direction of motion. Thus, almost all the radiation is “beamed” in a narrow cone
 along the charge’s motion (as we saw in R1), though there still is zero radiation intensity
 exactly along the charge’s direction.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: Gravitoelectromagnetism
 As mentioned in E1, there’s a close analogy between electrostatic fields, which are sourced
 by charge density ρe, and gravitational fields, which are sourced by energy density ρ. If you
@@ -846,14 +874,16 @@ tool for analyzing precision tests of general relativity, since it’s much easi
 However, there’s also a lot of nonsense written about gravitomagnetism, both on the internet
 and in low-quality academic journals. The problem is that the effects are very small, which
 means they usually don’t matter, but they’re also a bit subtle, which makes it easy to make a
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 mistake and overestimate their importance. For example, many have tried to use gravitomag-
 netism to explain the anomalous rotation of galaxies (typically ascribed to dark matter), even
 though, using just the basic equations above, you can show that the gravitomagnetic force is
 (v/c)2 times smaller than the usual gravitational force. Since galaxies rotate at v/c ∼ 10−3,
 the effect is about 106 times too small to fix the problem.
 2 Charges in Fields
-[5] Problem 14.  T 1 0IPhO 1991, problem 2. A problem on the subtle relativistic “hidden momentum”.
+[5] Problem 14.   T 1 0IPhO 1991, problem 2. A problem on the subtle relativistic “hidden momentum”.
 Solution. See the official solutions. There’s a minor typo, as noted here, though it doesn’t affect
 any answers. This remarkably subtle effect was discovered in the 1960s by Shockley and James;
 Shockley also won a Nobel prize for the transistor. For nice further discussion, see this paper.
@@ -888,7 +918,9 @@ space-independent, we simply have B = 0 and E = −∂A/∂t, so
 dp
 dt
 = ma − qE = 0
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 as desired. This tells us that qA is like a “potential momentum”, similar to how qϕ is a
 potential energy. (Since the canonical momentum is such an important property, it is usually
 denoted by p whenever it’s in play, while the Newtonian “mechanical”/“kinetic” momentum
@@ -934,7 +966,9 @@ B(t)r
 2
 θ̂.
 Of course, the changing magnetic field is accompanied by an induced electric field, as E = −∂A/∂t.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Suppose that B is initially equal to B0, and the particle is orbiting in a circle of radius r0
 about the z-axis. The field is slowly changed to B1. What is the new radius r1 of the orbit?
 (d) What if instead the field is very quickly changed to B1?
@@ -994,7 +1028,9 @@ B0 + B1
 2B1
 .
 For a more challenging problem which uses similar ideas, see Physics Cup 2017, problem 3.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 (e) In this case, we have
 Jz = −mvr + qrAθ
 where Aθ is independent of θ. To evaluate this, we note that
@@ -1018,11 +1054,11 @@ Bav(r).
 where C is the particle’s momentary circular orbit, and we used Stokes’ theorem and then the
 definition of Bav. We still have mvr = qB(r)r2, so
 Jz = qr2
-
+
 −B +
 Bav
 2
-
+
 .
 If the quantity in parentheses doesn’t vanish, then conservation of Jz implies that r has to
 change as the field is changed. As we found in E4 using Newton’s laws, r can stay the same
@@ -1069,7 +1105,9 @@ q2Br2
 .
 [2] Problem 17. Let’s consider one more simple application of canonical momentum. Suppose a point
 charge of mass m and charge q experiences the uniform constant fields E = Ex̂ and B = Bŷ.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Write a corresponding ϕ and A which are independent of y and z.
 (b) What are the associated conserved quantities?
 Solution. (a) The simplest possible answer is ϕ = −Ex and A = −Bxẑ.
@@ -1084,13 +1122,13 @@ in a more subtle situation, such as when the particle is relativistic, it can be
 By now, we’ve covered most of the applications of canonical momentum for point charges. When
 it shows up on modern Olympiad problems, there’s generally a twist. For instance, we can replace
 the point charge with an electric dipole, as illustrated in the following three tough questions.
-[5] Problem 18.  T 1 0APhO 2001, problem 2. In the first part, you are meant to define the moment
+[5] Problem 18.   T 1 0APhO 2001, problem 2. In the first part, you are meant to define the moment
 of inertia as a scalar, I = mℓ2/2, even though it’s technically a tensor. As you’ll see, the difference
 doesn’t matter, since the moment of inertia about the dipole’s axis vanishes.
-[5] Problem 19.  h 1 0EuPhO 2022, problem 3.
+[5] Problem 19.   h 1 0EuPhO 2022, problem 3.
 [5] Problem 20. Physics Cup 2021, problem 1. This one requires more electromagnetism background.
 Solution. See the official solutions here.
-[5] Problem 21.  r 1 0GPhO 2017, problem 3. A problem on a “shock wave” hitting an electron.
+[5] Problem 21.   r 1 0GPhO 2017, problem 3. A problem on a “shock wave” hitting an electron.
 Don’t be intimidated by the language; you don’t need to know anything about shock wave physics
 to do this question.
 3 Gravitational Fields
@@ -1106,7 +1144,9 @@ mass M are converted into photons of frequency f at A. The photons fly upward to
 are converted back into electrons and positrons. Assume throughout that g is small.
 (a) Find the total mass M′ at B, and thus the frequency f′ of the photons measured at B.
 Let’s explore some consequences of the result of part (a).
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Since the frequencies of photons can be used as a clock, the fact that f ̸= f′ implies that
 the gravitational potential causes time dilation. Show that times are dilated by a factor of
 1 + ϕ/c2, where ϕ is the gravitational potential and ϕ/c2 ≪ 1.
@@ -1137,32 +1177,34 @@ gH
 from which we conclude, using the fact that g is small, that
 M′
 = M
-
+
 1 −
 gH
 c2
-
+
 .
 Each photon has its energy reduced by a factor of 1 − gH/c2, and since E = hf,
 f′
 = f
-
+
 1 −
 gH
 c2
-
+
 .
 (b) If we measure time through the frequency of light, then
 ∆t′
 = ∆t
-
+
 1 +
 gH
 c2
-
+
 again to lowest order in g. This is the desired result, since ϕ = gH. It implies that higher
 clocks tick faster.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 (c) This is related to one of the questions in R2, though it’s a lot simpler because we’re working
 in the frame of the box. In the presence of a gravitational field, the photon has a different
 momentum at the bottom and the top of the box,
@@ -1173,11 +1215,11 @@ c
 =
 E
 c
-
+
 1 −
 gH
 c2
-
+
 .
 In each round trip, the photon exerts an impulse J = 2p − 2p′ on the box, giving a time-
 averaged force
@@ -1204,11 +1246,11 @@ s
 1 − aH/c2
 1 + aH/c2
 ≈ f
-
+
 1 −
 aH
 c2
-
+
 where we again work to lowest order in a.
 (e) Plugging in the numbers, gH/c2 = 2.5 × 10−15.
 (f) The change in energy is ∆E = h∆f, and the uncertainty principle says we need time
@@ -1240,7 +1282,9 @@ c2
 .
 Moreover, this applies to any system, not just a gas. This argument won first place in the
 2018 Gravity Research Foundation essay competition, along with a big cash prize.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 In Earth’s atmosphere, this temperature gradient is of order 10−13 K/m, and therefore com-
 pletely negligible. On the other hand, for the cosmic microwave background, the redshifting
 of photon temperature can accumulate over the entire history of the universe. That’s called
@@ -1265,31 +1309,31 @@ p
 1 − (2πR/cT)2 ≈ T 1 −
 1
 2
-
+
 2πR
 cT
-2
+ 2
 !
 .
 It is also at a lower gravitational potential than a clock at infinity, so counting only gravitational
 time dilation,
 TC = T 1 + ∆ϕ/c2
-
+
 = T 1 − GM/Rc2
-
+
 .
 In reality both effects occur, and at leading order they just add, giving
 TC = T
 p
 1 − (2πR/cT)2 1 + ∆ϕ/c2
-
+
 ≈ T 1 −
 1
 2
-
+
 2πR
 cT
-2
+ 2
 −
 GM
 Rc2
@@ -1301,7 +1345,7 @@ is rotating a lot slower than that, the gravitational time dilation effect is mu
 p
 GM/(R + h) and potential ∆ϕ = −GM/(R + h), so
 TC′ ≈ T
-
+
 1 −
 1
 2
@@ -1310,14 +1354,14 @@ GM
 −
 GM
 (R + h)c2
-
+
 .
 The gravitational time dilation effect is still larger, but only by a factor of 2.
 (c) Plugging in the numbers, we have
-
+
 2πR
 cT
-2
+ 2
 = 2.4 × 10−12
 ,
 GM
@@ -1328,35 +1372,37 @@ GM
 (R + h)c2
 = 1.7 × 10−10
 .
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 If we just consider the special relativistic time dilation effect, the time difference per day is
 T
 2
 GM
 (R + h)c2
 −
-
+
 2πR
 cT
-2
+ 2
 !
 = 7µs.
 If we consider just gravitational time dilation, the time difference per day is
 T
-
+
 GM
 (R + h)c2
 −
 GM
 Rc2
-
+
 = −46µs.
 So at this height, the gravitational effect dominates. This graphic gives a neat overview of
 how the two effects vary as a function of height, and how they’ve been tested.
 [4] Problem 24. @ 1 0IPhO 1995, problem 1. A straightforward problem on gravitational redshift.
 Solution. See the official solutions, but note that there’s a numeric mistake in the very last subpart.
 They should have written m0c2 = 3.752 × 109 eV and ∆f/f0 = 5.44 × 10−9.
-[5] Problem 25.  h 1 0APhO 2014, problem 3. Gravitational lensing from the bending of light. Print
+[5] Problem 25.   h 1 0APhO 2014, problem 3. Gravitational lensing from the bending of light. Print
 out the official answer sheets and record your answers on them.
 [3] Problem 26. @ 1 0IPhO 2023, problem 2, parts C.1 through C.4. A neat problem on how the
 Shapiro delay, a classic test of general relativity, can be used to measure neutron star masses.
@@ -1381,7 +1427,9 @@ stay a constant distance apart, the person walking on the north will constantly 
 bear to the left, while the person walking on the south will have to bear to the right,
 because the Earth’s surface is spatially curved. Similarly, in a situation with spacetime cur-
 vature, America and India need constant opposite accelerations to maintain the same distance.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 There’s a neat way to visualize this situation called the “river model”, which was rediscovered
 and animated here. The basic idea is that we think of space as a river that is constantly
 flowing towards the center of the Earth. Observers in America and India constantly need to

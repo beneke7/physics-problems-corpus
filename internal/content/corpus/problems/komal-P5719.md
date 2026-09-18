@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, superposition]
 ---
 
-The radius of the circumcircle of a regular $n$-gon is $R$. Charges of $q$, $2q$, $3q$, $\ldots$, $nq$ are placed at the vertices of the polygon. Determine the electric field at the centre of the polygon. 
+The radius of the circumcircle of a regular $n$-gon is $R$. Charges of $q$, $2q$, $3q$, $\ldots$, $nq$ are placed at the vertices of the polygon. Determine the electric field at the centre of the polygon.
  (5 pont)

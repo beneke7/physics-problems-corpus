@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201409"
 verification_status: pending
 ---
 
-A wedge is driven into a log. The angle at the thin end of the wedge is $24^\circ$. What is the least value of the coefficient of static friction between the wedge end the wooden log, if the wedge gets stuck in the log? 
+A wedge is driven into a log. The angle at the thin end of the wedge is $24^\circ$. What is the least value of the coefficient of static friction between the wedge end the wooden log, if the wedge gets stuck in the log?
  (4 pont)

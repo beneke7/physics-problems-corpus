@@ -198,19 +198,19 @@ The velocity addition formula for general v and u′ is, using the same notation
 u =
 1
 1 + v · u′
-
+
 v +
 u′
 γ
 +
-
+
 1 −
 1
 γ
-
+
 v̂(v̂ · u′
 )
-
+
 .
 The first result of problem 23 is
 aµ
@@ -244,35 +244,35 @@ rotations mix up different spatial axes. The generalized angle is the rapidity �
 v.
 [3] Problem 24 (Morin 11.27). In this problem, we’ll see the meaning of the rapidity more precisely.
 (a) Show that a Lorentz transformation may be written as
-
+
 x
 t
-
+
 =
-
+
 coshϕ sinhϕ
 sinhϕ coshϕ
-
+
 x′
 t′
-
+
 .
 (b) Show that the composition of Lorentz transformations with rapidity ϕ1 and ϕ2 is a Lorentz
 transformation with rapidity ϕ1 + ϕ2. This makes rapidity extremely useful in kinematics
 problems with multiple boosts, such as problems involving acceleration.
 (c) An ordinary rotation of spatial axes has the form
-
+
 x
 y
-
+
 =
-
+
 cosθ −sinθ
 sinθ cosθ
-
+
 x′
 y′
-
+
 .
 Show that a Lorentz transformation is essentially an ordinary rotation between space and
 time, if we treat time as like “imaginary space” and the rotation as by an imaginary angle.
@@ -290,18 +290,18 @@ t = γ(t′
 )
 which are exactly of the desired form.
 (b) Explicitly, we have
-
+
 coshϕ1 sinhϕ1
 sinhϕ1 coshϕ1
-
+
 coshϕ2 sinhϕ2
 sinhϕ2 coshϕ2
-
+
 =
-
+
 A B
 B A
-
+
 where
 A = coshϕ1 coshϕ2 + sinhϕ1 sinhϕ2, B = coshϕ1 sinhϕ2 + sinhϕ1 coshϕ2.
 By using the hyperbolic trig sum rules, we have
@@ -310,40 +310,40 @@ as desired.
 26
 Kevin Zhou Physics Olympiad Handouts
 (c) Substituting θ = iϕ and y = it, the rotation becomes
-
+
 x
 it
-
+
 =
-
+
 cos(iϕ) −sin(iϕ)
 sin(iϕ) cos(iϕ)
-
+
 x′
 it′
-
+
 .
 This can be converted to a transformation between (x,t) and (x′,t′),
-
+
 x
 t
-
+
 =
-
+
 cos(iϕ) −isin(iϕ)
 −isin(iϕ) cos(iϕ)
-
+
 x′
 t′
-
+
 =
-
+
 coshϕ sinhϕ
 sinhϕ coshϕ
-
+
 x′
 t′
-
+
 .
 Idea 6
 The next few questions will deal with accelerating objects. In Newtonian mechanics, a

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-The window of a room is covered by black paper. There is a square-shaped hole on the paper, through which the red light of the setting sun - nearly perpendicularly - is projected onto the opposite white wall. The distance between the wall and the window is 3.2 m. What is the size and the shape of the light spot on the wall if the area of the square is 
- a ) 1 dm$^{2}$; 
- b ) 1 mm$^{2}$; 
- c ) 10$^{-10}$ m$^{2}$? 
+The window of a room is covered by black paper. There is a square-shaped hole on the paper, through which the red light of the setting sun - nearly perpendicularly - is projected onto the opposite white wall. The distance between the wall and the window is 3.2 m. What is the size and the shape of the light spot on the wall if the area of the square is
+ a ) 1 dm$^{2}$;
+ b ) 1 mm$^{2}$;
+ c ) 10$^{-10}$ m$^{2}$?
  (5 pont)

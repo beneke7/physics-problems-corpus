@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          feltételekkel. Vagyis nem kell megoldanunk v(t)-t, mert ettől csak nehézkessé válna a kifejezés.
 
                                                           1
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
      (b) A kapott egyenlet csak akkor lesz érvényes, amikor a lövedék felfelé halad; magyarázzuk meg, miért.

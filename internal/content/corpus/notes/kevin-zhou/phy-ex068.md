@@ -28,7 +28,7 @@ r, through which a magnetic flux Φ passes. Then we can take
                                                     2πr
 and the Hamiltonian is
                                (pϕ − qAϕ )2                     qΦ 2
-                                                                  
+
                                                1
                             H=              =           −iℏ∂ϕ −      .
                                    2m         2mr2              2π
@@ -39,10 +39,9 @@ The energy eigenstates are still exponentials, of the form
 where n ∈ Z since the wavefunction is single-valued. Plugging this in, the energy is
 
                                             ℏ2         Φ 2
-                                                        
+
                                      E=           n−
                                           2mr2        Φ0
-142 5. Fundamentals of Quantum Mechanics
 
 
 where Φ0 = 2πℏ/q is the quantum of flux. Since generally Φ/Φ0 is not an integer, the presence
@@ -54,7 +53,7 @@ gauge away the vector potential. Since
                                          A = ∇α,      α=
                                                            2π
 we might try a gauge transformation with gauge scalar α. Then the wavefunction transforms as
-                                                          
+
                                         iqα              Φ
                               ψ → exp         ψ = exp      iϕ ψ.
                                          ℏ              Φ0

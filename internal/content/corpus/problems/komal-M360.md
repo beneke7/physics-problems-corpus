@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201605"
 verification_status: pending
 ---
 
-Carefully place a water drop to a dry horizontal plastic sheet. Tilting the sheet, slowly increasing its angle of elevation, at some critical angle the water drop suddenly begins to move down the slope. 
- Measure how the critical angle depends on the mass of the water drop. Investigate the phenomenon in case of different types of plastic sheet. 
+Carefully place a water drop to a dry horizontal plastic sheet. Tilting the sheet, slowly increasing its angle of elevation, at some critical angle the water drop suddenly begins to move down the slope.
+ Measure how the critical angle depends on the mass of the water drop. Investigate the phenomenon in case of different types of plastic sheet.
  (6 pont)

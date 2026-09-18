@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: []
 ---
 
-The coefficient of friction on the upper part of a slope of length $\ell_1$ is $\mu_1$, whilst on the lower part of the slope, having a length of $\ell_2$ is $\mu_2$. A small body with zero initial velocity starts at the bottom of a slope and stops just at the bottom. What is the angle of inclination of the slope? 
- Data: $\ell_1=20$ cm, $\ell_2=40$ cm, $\mu_1=0.1$ and $\mu_2=0.2$. 
+The coefficient of friction on the upper part of a slope of length $\ell_1$ is $\mu_1$, whilst on the lower part of the slope, having a length of $\ell_2$ is $\mu_2$. A small body with zero initial velocity starts at the bottom of a slope and stops just at the bottom. What is the angle of inclination of the slope?
+ Data: $\ell_1=20$ cm, $\ell_2=40$ cm, $\mu_1=0.1$ and $\mu_2=0.2$.
  (4 pont)

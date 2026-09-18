@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200601"
 verification_status: pending
 ---
 
-The air pressure inside the 8 l bell-jar of an air pump at 20 $^\circ$C is 100 Pa. Are there as many oxygen molecules left in the jar as the number of people living on the Earth? 
+The air pressure inside the 8 l bell-jar of an air pump at 20 $^\circ$C is 100 Pa. Are there as many oxygen molecules left in the jar as the number of people living on the Earth?
  (4 pont)

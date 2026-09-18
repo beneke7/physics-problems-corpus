@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg egy kocka szemközti csúcsai közötti ellenállást, ha a kocka élei vezetékből készülnek (lásd az ábrát), és egy él ellenállása $1 \Omega$.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr18-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr18-fig1.jpg)

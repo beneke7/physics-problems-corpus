@@ -55,7 +55,9 @@ solution_language: en
          problem 19 as more terms are included.)
 
                                                          13
-    Kevin Zhou                                                                          Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                          Physics Olympiad Handouts
 
       (c) Argue that in general, we have
                                              Z L

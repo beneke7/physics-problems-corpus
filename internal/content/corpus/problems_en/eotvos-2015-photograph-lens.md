@@ -23,4 +23,4 @@ In the photograph, a thin lens has a diameter of 4.00 cm and is at a distance of
 
 What is the focal length of the lens?
 
-![Lens measurement from photograph](eotvos-2015-photograph-lens-fig1.jpg)
+![Lens measurement from photograph](../../figures/eotvos/figures/eotvos-2015-photograph-lens-fig1.jpg)

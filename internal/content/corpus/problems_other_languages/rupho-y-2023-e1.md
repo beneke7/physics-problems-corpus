@@ -29,7 +29,7 @@ techniques: [model-reduction, limiting-and-special-cases]
 
 ## Оборудование
 
-![](rupho-y-2023-e1-fig01.png)
+![](../../figures/rupho-y/figures/rupho-y-2023-e1-fig01.png)
 Рис. 1. Оборудование
 
 1. Генератор
@@ -57,7 +57,7 @@ techniques: [model-reduction, limiting-and-special-cases]
 
 ## Road to IPhO
 
-![](rupho-y-2023-e1-fig02.png)
+![](../../figures/rupho-y/figures/rupho-y-2023-e1-fig02.png)
 Рис. 2. Мост Вина
 
 А1 Выразите условие балансировки моста как соотношение только между номиналами его элементов. При какой частоте $f_{\text {bal }}$ происходит балансировка?

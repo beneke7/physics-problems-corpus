@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-How many litres of air is displaced from a room of sides $6~\mathrm{m}\times 5~\mathrm{m}\times 3~\mathrm{m}$, if the temperature of the air increases from $27\;{}^\circ$C to $30\;{}^\circ$C, while the pressure decreases by 0.5%? 
+How many litres of air is displaced from a room of sides $6~\mathrm{m}\times 5~\mathrm{m}\times 3~\mathrm{m}$, if the temperature of the air increases from $27\;{}^\circ$C to $30\;{}^\circ$C, while the pressure decreases by 0.5%?
  (3 pont)

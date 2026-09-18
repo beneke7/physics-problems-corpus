@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-Estimate the displacement of the centre of the mass of the Sun, due to the planets orbiting around it. 
+Estimate the displacement of the centre of the mass of the Sun, due to the planets orbiting around it.
  (4 pont)

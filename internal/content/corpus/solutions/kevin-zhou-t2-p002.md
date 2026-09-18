@@ -28,11 +28,11 @@ Explain qualitatively why the change in energy is proportional to n2/V .
 4
 Kevin Zhou Physics Olympiad Handouts
 (c) We will show in problem 4 that this modifies the equation of state to
-
+
 P +
 an2
 V 2
-
+
 V = nRT.
 Using these results, show that to first order in a, we have
 CV =
@@ -51,11 +51,11 @@ CV =
 3
 2
 nR, CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 = P
@@ -74,32 +74,32 @@ with a phase transition to a liquid or solid state, and will be discussed furthe
 we’re just concerned with the case of weak interactions.
 (c) The first result follows directly from the definition of the heat capacity. Next,
 CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 =
-
+
 P +
 an2
 V 2
-
+
 ∂V
 ∂T P
 .
 To get ∂V/∂T|P , differentiate the equation of state with respect to T at constant P,
 nR =
-
+
 P +
 an2
 V 2
 −
 2an2
 V 2
-
+
 ∂V
 ∂T P
 .

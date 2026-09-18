@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-Once, when Nasreddin Hodja shouldered his heavy pack and got on his donkey with the pack, he was asked why he did not put his pack to the donkey. He answered: ,,Because that would be cruelty to animals, I am heavy enough for this poor little thing''. 
- $a)$ Why is this answer wrong? 
- $b)$ Draw the forces acted upon the objects mentioned in the story. 
+Once, when Nasreddin Hodja shouldered his heavy pack and got on his donkey with the pack, he was asked why he did not put his pack to the donkey. He answered: ,,Because that would be cruelty to animals, I am heavy enough for this poor little thing''.
+ $a)$ Why is this answer wrong?
+ $b)$ Draw the forces acted upon the objects mentioned in the story.
  (3 pont)

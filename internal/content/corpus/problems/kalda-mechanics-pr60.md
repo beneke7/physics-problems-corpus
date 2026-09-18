@@ -19,4 +19,4 @@ verification_status: pending
 
 On top of a cylinder with a horisontal axis a plank is placed, whose length is $l$ and thickness is $h$. For which radius $R$ of the cylinder the horizontal position of the plank is stable?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr60-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr60-fig1.jpg)

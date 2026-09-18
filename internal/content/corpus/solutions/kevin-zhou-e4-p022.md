@@ -166,11 +166,11 @@ where we used ϵ0µ0 = 1/c2. Since we only want to find out how the answerscales
 the charge distribution on the sphere as a pair of opposite charges ±q separated by distance a,
 where p ∼ qa. Then the net force on those charges is
 F ∼ qv
-
+
 dB
 dr
 a
-
+
 ∼ pv
 dB
 dr
@@ -195,10 +195,10 @@ and the wire is neutral, so the force vanishes!
 The problem is that at this order, genuine relativistic effects come into play. As you’ll see in R3,
 the relativistic “loss of simultaneity” effect discussed in R1 implies that in the sphere’s frame, the
 wire actually has a nonzero charge density. This accounts for both of the paradoxes above.
-[3] Problem 25.  m 1 0USAPhO 1997, problem B1. A nice problem on the dynamics of a plasma.
+[3] Problem 25.   m 1 0USAPhO 1997, problem B1. A nice problem on the dynamics of a plasma.
 (Note that the assumption made in part (e) is somewhat arbitrary, without much physical meaning.
 It’s just made to make part (f) a bit simpler.)
-[3] Problem 26.  ^ 1 0USAPhO 2019, problem A3. This is a tough but useful problem. The first half
+[3] Problem 26.   ^ 1 0USAPhO 2019, problem A3. This is a tough but useful problem. The first half
 derives the so-called Child–Langmuir law, covered in problem 2.53 of Griffiths.
-[3] Problem 27.  ^ 1 0USAPhO 2022, problem B3. About the weird behavior of electrons in solids.
+[3] Problem 27.   ^ 1 0USAPhO 2022, problem B3. About the weird behavior of electrons in solids.
 26

@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201104"
 verification_status: pending
 ---
 
-A capacitor and a resistor of big resistance, through which the capacitor is charged slowly, are connected in series to a battery of electromotive force 4.5 V. The voltage across the capacitor is 3 V one minute after the closing the circuit. What will the voltage across the capacitor be 
- a ) after 2 minutes; 
- b ) after 3 minutes? 
+A capacitor and a resistor of big resistance, through which the capacitor is charged slowly, are connected in series to a battery of electromotive force 4.5 V. The voltage across the capacitor is 3 V one minute after the closing the circuit. What will the voltage across the capacitor be
+ a ) after 2 minutes;
+ b ) after 3 minutes?
  (4 pont)

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-A thin ring of mass $m$ and of radius $R$ is made swing with small amplitude in two different ways. In one of the cases the ring is supported by a horizontal cylinder of radius $r$, displaced a bit and then released. In the other case a thin pin of length $r$ and of negligible mass is attached to the inside part of the ring, such that it points towards the centre of the ring, and the ring is supported by this pin while it swings. The motion of the ring is planar in both cases. 
+A thin ring of mass $m$ and of radius $R$ is made swing with small amplitude in two different ways. In one of the cases the ring is supported by a horizontal cylinder of radius $r$, displaced a bit and then released. In the other case a thin pin of length $r$ and of negligible mass is attached to the inside part of the ring, such that it points towards the centre of the ring, and the ring is supported by this pin while it swings. The motion of the ring is planar in both cases.
 
- In which case will the period of the oscillation be larger? 
+ In which case will the period of the oscillation be larger?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5026-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5026-fig1.gif)

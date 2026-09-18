@@ -36,10 +36,10 @@ Indian National Physics Olympiad – 2014
 
                                     20
   If the rod moves with a constant speed v,
-   (a) obtain an expression for the induced emf (1 ) in terms of time t.                         [2]
+   (a) obtain an expression for the induced emf ( 1 ) in terms of time t.                         [2]
 
 
-         Solution: 1 (t) = 2vB
+         Solution:  1 (t) = 2vB
                                   r
                                       14
                                       vt
@@ -80,7 +80,9 @@ Indian National Physics Olympiad – 2014
                                   m1                           m2
                        F
                                   x1                           x2
-Que. 3                      INPhO - 2014 Solutions
+
+
+Que. 3                      INPhO - 2014 Solutions
     (a) Calculate t.                                                                             [11/2]
 
           Solution:                               r
@@ -162,7 +164,9 @@ Indian National Physics Olympiad – 2014
 
 
 Page 2 of 8                             HBCSE-TIFR
-                            INPhO - 2014 Solutions                                       Que. 4
+
+
+                            INPhO - 2014 Solutions                                       Que. 4
 
 
          Plot of n(x):
@@ -237,7 +241,9 @@ Page 2 of 8                             HBCSE-TIFR
 
 
                                         HBCSE-TIFR                                   Page 3 of 8
-Que. 5                       INPhO - 2014 Solutions
+
+
+Que. 5                       INPhO - 2014 Solutions
 
           Solution:
                                     h2 − h(2c + kc) + c2 + kc = 0
@@ -280,8 +286,8 @@ Page 2 of 8                             HBCSE-TIFR
                                02
 
 
-                                 
-                                    
+
+
                                        0
 
 
@@ -296,19 +302,19 @@ Page 2 of 8                             HBCSE-TIFR
                              h =
                                        k
                                          2
-                                         
-                                   2c + c ±
-                                           
 
-                                             s14  k
+                                   2c + c ±
+
+
+                                             s 14  k
                                                     2
                                                       k
-                                                        2 
+                                                         2
                                                              2
                                                                k
                                                 2c + c − 4 c + c
                                                       2        2
-                                                                 
+
 
 
                                                    2
@@ -339,7 +345,9 @@ Page 2 of 8                             HBCSE-TIFR
 
 
 Page 4 of 8                                HBCSE-TIFR
-                            INPhO - 2014 Solutions                                       Que. 6
+
+
+                            INPhO - 2014 Solutions                                       Que. 6
 
 6. Consider an equilateral triangle ABC of side 2a in the plane of the paper as shown. The
    centroid of the triangle is O. Equal charges (Q) are fixed at the vertices A, B and C. In
@@ -357,31 +365,31 @@ Page 4 of 8                                HBCSE-TIFR
 
    (a) A test charge (q), of same sign as Q, is placed on the median AD at a point at a              [2]
        distance δ below O. Obtain the force (F~ ) felt by the test charge.
-                                          
+
                                     a
                           2KQq √ − δ
                                      3               KQq
          Solution: F~ =                        −
-                              
+
                                  a
 
                                   E-
                          a2 + √ − δ
                                   3
-                                        2 3/2
-                                           !      
+                                         2 3/2
+                                           !
                                                     2a
                                                     √ +δ
                                                      3
-                                                          2
+                                                           2
 
 
 
-         Here K = 1/4π0 and direction is upward (towards A).
+         Here K = 1/4π 0 and direction is upward (towards A).
 
 
                                     20
-   (b) Assuming δ  a discuss the motion of the test charge when it is released.
+   (b) Assuming δ   a discuss the motion of the test charge when it is released.
                                                                   √
                                                                                                      [2]
 
@@ -429,7 +437,9 @@ Page 4 of 8                                HBCSE-TIFR
 
 
                                      HBCSE-TIFR                                      Page 5 of 8
-Que. 7                       INPhO - 2014 Solutions
+
+
+Que. 7                       INPhO - 2014 Solutions
     (e) Is the equilibrium at O stable or unstable if we displace the test charge in the direction    [2]
         of OP ? The line P Q is parallel to the base BC. Justify your answer.
                                                       A
@@ -447,7 +457,7 @@ Page 4 of 8                                HBCSE-TIFR
                             KQ               KQ                 KQ
                  V (x) = p           +p                  +p
                           x2 + (4/3)    (x + 1)2 + (1/3)   (x − 1)2 + (1/3)
-                           r            
+                           r
                               3      9
                        ≈ KQ      3 + x2
                               4      16
@@ -505,7 +515,9 @@ Page 4 of 8                                HBCSE-TIFR
 
 
 Page 6 of 8                           HBCSE-TIFR
-                        INPhO - 2014 Solutions                                                    Que. 7
+
+
+                        INPhO - 2014 Solutions                                                    Que. 7
 
 products 1 to 2 as f . Assume that mass density and charge density of parent and daughter
 nuclei are same.                                                                    [Marks: 13]
@@ -552,7 +564,7 @@ nuclei are same.                                                                
 
       Solution: UEp =
                             3e2 Z 2
-                        5(4π0 r0 A1/3 )
+                        5(4π 0 r0 A1/3 )
                                                                                                             [1]
 
 
@@ -586,7 +598,7 @@ nuclei are same.                                                                
 
           Solution: UEd =             )  1/3
                                              + 1/3 +    1/3     1/3
-                            5(4π0 r0   A1    A2     3 A1 + A2
+                            5(4π 0 r0   A1    A2     3 A1 + A2
           Here Z1 , R1 are atomic number and radius of daughter nuclei.
 
       ii. UEd can be simplified and written in terms of UEp i.e. in terms of electrostatic
@@ -600,7 +612,9 @@ nuclei are same.                                                                
 
 
                                           HBCSE-TIFR                                          Page 7 of 8
-Que. 8                       INPhO - 2014 Solutions
+
+
+Que. 8                       INPhO - 2014 Solutions
      (f) Surface energy calculation                                                                   [3]
           i. Energy Q released in fission is described as the difference in energy between the
              instances shown in Fig. (a) and Fig. (c) i.e. parent nuclei and product nuclei
@@ -615,7 +629,7 @@ nuclei are same.                                                                
           ii. Assuming that the above expression holds, calculate aS (in units of MeV/fm2 ) for
               the following reaction with Q value 173.2 MeV:
                                       1    235    141    92         1
-                                                                      
+
                                       0 n +92 U →56 Ba +36 Kr + 3 0 n
 
                Solution: aS = 12.7 MeV/fm−2 .

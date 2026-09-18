@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-If a solid ball of diameter of 8 cm was made of pure ${}^{238}\rm Pu$, what would the temperature of the surface of this ball be when it is placed into a point in space at a temperature of $-270$ degrees Celsius, far away from everything. 
- (Such an isotope is used to power ``deep space'' spacecrafts, travelling far from the Sun, in their radioisotope thermoelectric generators.) 
+If a solid ball of diameter of 8 cm was made of pure ${}^{238}\rm Pu$, what would the temperature of the surface of this ball be when it is placed into a point in space at a temperature of $-270$ degrees Celsius, far away from everything.
+ (Such an isotope is used to power ``deep space'' spacecrafts, travelling far from the Sun, in their radioisotope thermoelectric generators.)
  (5 pont)

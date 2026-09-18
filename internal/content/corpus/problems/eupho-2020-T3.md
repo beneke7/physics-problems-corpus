@@ -29,13 +29,13 @@ You may have noticed that in darkness, when a cat is within the light beam of a 
 
 The diagram below shows the experimental arrangement: a lamp and a camera are separated vertically by distance $h$, and a lens is placed at distance $L$ from them in front of a sheet of paper (at the focal plane).
 
-![figure](../../sources/eupho/figures/eupho-2020-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-T3-1.png)
 
 *(Equipment photos omitted — pure photographs of the cat and the camera lens.)*
 
 The photo on the right was taken by a digital single-lens reflex camera. The light intensity at the camera sensor pixels marked by a red line (in the photo) is shown in the graph below: the $\log_{10}$ of the light intensity (measured as the number of photons caught by each pixel) is plotted against the $x$-coordinate, with the pixels' side length serving as the unit length.
 
-![figure](../../sources/eupho/figures/eupho-2020-T3-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2020-T3-2.png)
 
 The lens modelling cat eyes can be treated as an ideal thin lens of focal length $f = 55\ \mathrm{mm}$ and diameter $D = 39\ \mathrm{mm}$; however, you should keep in mind that the given graph shows real measurement data, and the lens has certain non-ideal features. Most importantly, partial reflections of brightly lit areas from the lens surfaces may decrease the contrast: dark areas seen through the lens appear less dark than they actually are; this effect can be neglected for the camera lens, but not so for the lens serving as a model of a cat's eye.
 

@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4208. 4 m , m és 3 m tömegű, átfúrt golyók súrlódásmentesen csúszhatnak egy vízszintes rúdon. Egy adott pillanatban a középső golyót v $_{0}$=5 m/s kezdősebességgel jobbra elindítjuk. Határozzuk meg a rugalmas ütközések lezajlása után 
+P. 4208. 4 m , m és 3 m tömegű, átfúrt golyók súrlódásmentesen csúszhatnak egy vízszintes rúdon. Egy adott pillanatban a középső golyót v $_{0}$=5 m/s kezdősebességgel jobbra elindítjuk. Határozzuk meg a rugalmas ütközések lezajlása után
 
- a ) a golyók sebességét; 
+ a ) a golyók sebességét;
  b ) a golyók mozgási energiájának arányát!
 
-![figure](../../raw_html/komal_figures/komal-P4208-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4208-fig1.gif)

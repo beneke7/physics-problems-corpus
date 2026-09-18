@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201109"
 verification_status: pending
 ---
 
-The figure shows the velocity-time graph of a lift in a mine. To what depth does the lift goes down? 
+The figure shows the velocity-time graph of a lift in a mine. To what depth does the lift goes down?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4359-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4359-fig1.gif)

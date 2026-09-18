@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-Some rock mined in one shift in a uranium mine near Kinshasa in Central Africa contained 10 tons of pitchblende ($\mathrm{U}_3\mathrm{O}_8$). 
- Estimate the amount of radium in the rock. 
+Some rock mined in one shift in a uranium mine near Kinshasa in Central Africa contained 10 tons of pitchblende ($\mathrm{U}_3\mathrm{O}_8$).
+ Estimate the amount of radium in the rock.
  (5 pont)

@@ -57,7 +57,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
       – These instruction pages
 
                  Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                          Student Instructions                                      2
+
+
+2025 USAPhO                          Student Instructions                                      2
 
 
 
@@ -81,7 +83,9 @@ Instructions for Writing Your Solutions
 
 
                  Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                          Student Instructions                                                            3
+
+
+2025 USAPhO                                          Student Instructions                                                            3
 
 
 
@@ -107,7 +111,7 @@ Instructions for Writing Your Solutions
 
 
                                                 Useful Identities
-                                                                                                                          
+
                                  (N +1)a              Na                                            (N +1)a              Na
  N
  X                     sin          2     · cos        2 +ϕ
@@ -115,7 +119,7 @@ Instructions for Writing Your Solutions
                                                                     X                     sin          2     · sin        2 +ϕ
        cos(ka + ϕ) =                                                      sin(ka + ϕ) =
                                        sin a2                                                             sin a2
-                                                                                                                
+
  k=0                                                                k=0
 
               N                                N                    N                               N
@@ -139,7 +143,9 @@ Tengiz Bibilashvili, Kellan Colburn, Natalie LeBaron, Rishab Parthasarathy, Mai 
 and Elena Yudovina.
 
                       Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                    Part A                                                  4
+
+
+2025 USAPhO                                    Part A                                                  4
 
 
 
@@ -157,7 +163,7 @@ a. We can model the shaking by assuming that the angular position of the cylinde
      Since we’re ignoring gravity, there’s two components to the acceleration: radial, Rθ̇2 , and
      tangential, Rθ̈. (Terms involving Ṙ vanish, since the radius is constant.) They add in
      quadrature, so the magnitude is
-                  q             4               2         q
+                  q              4                2         q
                                                           2
                 R Aω sin(ωt) + Aω cos(ωt) = ARω A2 sin4 (ωt) + cos2 (ωt)
                                           2
@@ -187,7 +193,9 @@ b. For the rest of this problem, rather than modeling sinusoidal motion, we will
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                       Part A                                             5
+
+
+2025 USAPhO                                       Part A                                             5
 
 
 
@@ -218,7 +226,7 @@ d. Shaking requires energy, which we can crudely model as the rotational energy 
      energy of air-drying simply scales with the animal mass. So, for large enough animals, air
      drying should be energetically advantageous. However, constants are important!
      For a cylindrical mouse, we find that the energy of shaking is
-                                                      
+
                                               1 1
                             Eshaking, mouse =     M R2 ω 2 = 0.000 45 J
                                               2 2
@@ -234,7 +242,7 @@ d. Shaking requires energy, which we can crudely model as the rotational energy 
      and
                             Eevaporation = Eevaporation, mouse · (M/Mmouse )
      For these to become equal, we must have
-                                                             3
+                                                               3
                                     M              2430 J
                                          ≳                         = 1.6 × 1020
                                 Mmouse           0.000 45 J
@@ -243,7 +251,9 @@ d. Shaking requires energy, which we can crudely model as the rotational energy 
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                 Part A                                                 6
+
+
+2025 USAPhO                                 Part A                                                 6
 
 
 
@@ -258,7 +268,9 @@ d. Shaking requires energy, which we can crudely model as the rotational energy 
 
 
                  Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                    Part A                                                  7
+
+
+2025 USAPhO                                    Part A                                                  7
 
 
 
@@ -310,7 +322,9 @@ c. At a radius R where the gravitational and tidal forces are in equilibrium, th
 For the rest of the problem, we consider a star on a parabolic orbit whose periapsis (distance of
 closest approach) is equal to the radius R found in part 1. Near periapsis, the star will be torn
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                       Part A                                               8
+
+
+2025 USAPhO                                       Part A                                               8
 
 
 
@@ -343,7 +357,7 @@ e. An escaping fragment has speed vf when it is far from the black hole. Find th
                               vf = v02 −     =    −     ≈      .
                             2     2      R+r    R   R+r    R2
      Solving for vf and substituting in our earlier result for R gives
-                                               1/6 r
+                                                 1/6 r
                                            2M            Gm
                                 vf =                        = 5 × 106 m/s.
                                             m             r
@@ -357,9 +371,9 @@ f. A bound fragment orbits with period Tf . Find the minimum possible value of T
      the black hole. By similar reasoning to the previous part, the energy per unit mass of such
      fragments is −GM r/R2 . In addition, we know that the total energy per unit mass in an
      elliptical orbit is −GM/(2a) where a is the semimajor axis; combining these gives
-                                                             2/3
+                                                              2/3
                                           R2
-                                                    
+
                                                          M           r
                                        a=    =                             .
                                           2r             m          21/3
@@ -368,7 +382,9 @@ f. A bound fragment orbits with period Tf . Find the minimum possible value of T
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                    Part A                                                   9
+
+
+2025 USAPhO                                    Part A                                                   9
 
 
 
@@ -402,7 +418,9 @@ g. Find the value of n. Assume for simplicity that the total energies of the bou
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                    Part A                                               10
+
+
+2025 USAPhO                                    Part A                                               10
 
 
 
@@ -457,7 +475,9 @@ c. Let a = 0.1 m, t = 0.001 m. The tensile strength of copper is σ = 250 MPa, a
    in a single-layer solenoid made out of such a wire without the wire snapping?
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                     Part A                                              11
+
+
+2025 USAPhO                                     Part A                                              11
 
 
 
@@ -502,7 +522,7 @@ d. In theory, we could generate a stronger field by increasing the wire thicknes
          B 2 = BN
                 2
                         (Bk2 − Bk−1
-                                                                               
+
                   ≤                 ) = σµ0          ≈ σµ0         = σµ0 ln b/a .
                                        2      b − tk  2     b   u   2
                       k=1                        k=1
@@ -523,7 +543,9 @@ e. Estimate the numeric value of the maximum magnetic field that can be achieved
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                      Part B                                               12
+
+
+2025 USAPhO                                      Part B                                               12
 
 
 
@@ -576,7 +598,9 @@ b. Suppose instead that the ant walks counterclockwise along the edge of the dis
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                     Part B                                               13
+
+
+2025 USAPhO                                     Part B                                               13
 
 
 
@@ -627,7 +651,9 @@ c. Now there are two ants on the disk! The second ant (also of mass m) starts at
 
 
                      Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                Part B                                               14
+
+
+2025 USAPhO                                Part B                                               14
 
 
 
@@ -638,7 +664,9 @@ c. Now there are two ants on the disk! The second ant (also of mass m) starts at
 
 
                  Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                  Part B                                          15
+
+
+2025 USAPhO                                  Part B                                          15
 
 
 
@@ -688,7 +716,9 @@ b. Now, the speed of sound depends on the altitude because the temperature is no
 
 
                   Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                       Part B                                       16
+
+
+2025 USAPhO                                       Part B                                       16
 
 
 
@@ -732,9 +762,9 @@ c. If the Mach number is large enough then the sonic boom hits the ground. Assum
                                                  1       2
                                                α2 T0
                                                      − ht 2
-                                            !− 21                     !
+                                            !− 21                      !
                                     2   2                        2 t2 T
-                                                        
+
                  v        βH      α   t   T0          βH       α       0
             M=      = 1−      1−              ≈ 1+        1+
                c(H)       T0         h2               2T0        2h2
@@ -752,7 +782,9 @@ d. If the plane travels slower without changing direction, its sonic boom could 
 
 
                   Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                Part B                                        17
+
+
+2025 USAPhO                                Part B                                        17
 
 
 
@@ -774,7 +806,9 @@ d. If the plane travels slower without changing direction, its sonic boom could 
 
 
                  Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                      Part B                                           18
+
+
+2025 USAPhO                                      Part B                                           18
 
 
 
@@ -824,14 +858,16 @@ a. Consider two mirrors facing each other separated by a distance L (a Fabry–P
 b. The electric field at the antinodes of the standing waves in the resonator is a superposition of
    oscillations at the resonant angular frequencies and is given by:
                                                   +∞
-                                                  X                  
+                                                  X
                                  Ebefore (t) =            Ek cos k ∆ω t .
                                                  k=−∞
 
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                        Part B                                         19
+
+
+2025 USAPhO                                        Part B                                         19
 
 
 
@@ -860,7 +896,7 @@ b. The electric field at the antinodes of the standing waves in the resonator is
        by summing cosines:
 
                                                         + N 2−1
-                                                         X                      
+                                                         X
                                      Eafter (t) = E0               cos ω0 + k ∆ω t
                                                        k=− N 2−1
 
@@ -868,12 +904,12 @@ b. The electric field at the antinodes of the standing waves in the resonator is
 
   ii. Show that in the limit of many angular frequencies (∆ω ≪ ω0 , N ≫ 1), the time-dependent
       electric field approximately takes the following form:
-                                                                            
+
                                                                sin N (∆ω)
                                                                       2
                                                                            t
 
-                                    Eafter (t) ≈ E0 f (ω0 , t)            
+                                    Eafter (t) ≈ E0 f (ω0 , t)
                                                                 sin (∆ω)
                                                                       2
                                                                          t
@@ -885,7 +921,7 @@ b. The electric field at the antinodes of the standing waves in the resonator is
                                                    Solution
 
                           + N 2−1                         N
-                           X                           X         N −1           
+                           X                              X          N −1
         Eafter (t) = E0              cos ω0 + k ∆ω t = E0   cos ω0 −      ∆ω + k ∆ω t =
                                 N −1
                                                                        2
@@ -896,19 +932,21 @@ b. The electric field at the antinodes of the standing waves in the resonator is
 
 
                   Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                     Part B                                             20
 
 
-                                                                                  
-                                     sin (N +1)∆ω t                        N (∆ω) t
-                         
-                                1              2                      sin     2
-                   E0 cos ω0 t + ∆ωt                 ≈ E0 cos ω0 t                .
+2025 USAPhO                                     Part B                                             20
+
+
+
+                                      sin (N +1)∆ω t                        N (∆ω) t
+
+                                1              2                       sin     2
+                   E0 cos ω0 t + ∆ωt                   ≈ E0 cos ω0 t                  .
                                 2        sin  ∆ω t
                                                                         sin  (∆ω) t
                                                     2                               2
 
-                                                                 
+
                                             f (ω0 , t) = cos ω0 t .
 
 
@@ -937,10 +975,10 @@ d. Mode locking can dramatically increase the peak intensity I of the laser outp
    i. Determine to the total instantaneous intensity Iafter (t) of the electric field.
 
                                                 Solution
-                                                                         
+
                                                                  N (∆ω) t
-                                                           sin     2
-                                  Eafter (t) = E0 cos ω0 t               .
+                                                            sin     2
+                                  Eafter (t) = E0 cos ω0 t                 .
                                                                   (∆ω) t
                                                              sin 2
 
@@ -949,12 +987,12 @@ d. Mode locking can dramatically increase the peak intensity I of the laser outp
                                           Iafter (t) = γ Eafter (t) ,
 
         Substituting Eafter (t) gives
-                                                                         
-                                                                  N (∆ω) t 
-                                               
-                                                            sin     2
+
+                                                                  N (∆ω) t
+
+                                                             sin     2
                                                                              2
-                                 Iafter (t) = γ E0 cos ω0 t             
+                                 Iafter (t) = γ E0 cos ω0 t
                                                               sin (∆ω)
                                                                      2
                                                                        t
@@ -968,7 +1006,9 @@ d. Mode locking can dramatically increase the peak intensity I of the laser outp
 
 
                    Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                   Part B                                              21
+
+
+2025 USAPhO                                   Part B                                              21
 
 
 
@@ -981,10 +1021,10 @@ d. Mode locking can dramatically increase the peak intensity I of the laser outp
                                               XN
                                      Etotal =     E0 = N E0 .
                                                m=1
-                                 2
+                                   2
      Since Itotal (t) ∝ Eafter (t) , the maximum intensity occurs when |Eafter | is largest, i.e.
      Eafter = N E0 . Consequently,
-                                                       2
+                                                        2
                                           Imax = γ N E0 .
 
      This perfect alignment occurs when
@@ -1027,16 +1067,18 @@ e. The uncertainty principle states ∆x ∆p ≥ ℏ2 . In optics, we are more 
 
 
                   Copyright ©2025 American Association of Physics Teachers
-2025 USAPhO                                   Part B                                                         22
+
+
+2025 USAPhO                                   Part B                                                         22
 
 
 
     Cancelling out the linear term, we get
-                                                                           
+
                  1                       1                 1
         N 1 − N 2 ((∆ω)t/2)2         1 + ((∆ω)t/2)2 = N 1 − (N 2 − 1)((∆ω)t/2)2
                  3                       3                 3
-                                                         2
+                                                           2
                                                   (∆ω)t                       1
    This will become small when (N 2 − 1)            2          ∼ 1, or t ∼ N (∆ω) , so the relationship is
    exactly as in the uncertainty principle.

@@ -46,7 +46,6 @@ Most definiáljuk a szabadenergiát és a többi termodinamikai potenciált.
                           dF = −S dT − p dV,         S=−        ,     p=−         .
                                                            ∂T V              ∂V T
     Néha olyan kijelentéseket hallani, hogy „F természetes változói T és V , míg E természetes változói S és V ”. Természetesen e mennyiségek bármelyike felírható a (P, V, T, S) négyes bármely két tagjának függvényeként, az entrópia kifejezését és az állapotegyenletet használva. A megfogalmazás csak azt jelenti, hogy ha F-et T és V függvényének tekintjük, a differenciálja különösen egyszerű.
-61 3. Statisztikus mechanika
 
 
  • Az F és Z kapcsolatának meghatározásához használjuk a Gibbs-entrópiára kapott kifejezésünket:

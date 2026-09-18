@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201010"
 verification_status: pending
 ---
 
-It is known that we can look through the glass of an ordinary window. What happens when the glass cracks? The crack can be noticed immediately. What is the reason? 
+It is known that we can look through the glass of an ordinary window. What happens when the glass cracks? The crack can be noticed immediately. What is the reason?
  (3 pont)

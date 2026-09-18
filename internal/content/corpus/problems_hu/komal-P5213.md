@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5213. Egy tartályban $30\%$-os relatív páratartalmú levegő van. Állandó hőmérsékleten összenyomva legfeljebb hányszorosára növelhetjük a nyomást a tartályban, ha el akarjuk kerülni a víz kicsapódását? 
+P. 5213. Egy tartályban $30\%$-os relatív páratartalmú levegő van. Állandó hőmérsékleten összenyomva legfeljebb hányszorosára növelhetjük a nyomást a tartályban, ha el akarjuk kerülni a víz kicsapódását?
  Példatári feladat

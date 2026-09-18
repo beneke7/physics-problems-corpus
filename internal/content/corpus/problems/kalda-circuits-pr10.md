@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the maximal power which can be dissipated on a load connected to the leads of the circuit in figure (the power depends on the resistance of the load, you need to find the maximum of this dependence).
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr10-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr10-fig1.jpg)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-A ray of light enters the plane surface of a glass block with a refractive index of $1.5$ from air. 
- a) What is the angle of incidence if the angle between the incident and refracted rays is $30^\circ$? 
- b) What can be the maximum angle between the incident and refracted rays? 
+A ray of light enters the plane surface of a glass block with a refractive index of $1.5$ from air.
+ a) What is the angle of incidence if the angle between the incident and refracted rays is $30^\circ$?
+ b) What can be the maximum angle between the incident and refracted rays?
  (4 pont)

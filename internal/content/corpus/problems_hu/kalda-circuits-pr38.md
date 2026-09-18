@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán mindhárom voltmérő azonos, és mindhárom ellenállás azonos. Az első voltmérő $V_{1}=10 \mathrm{~V}$-ot, a harmadik pedig $-V_{3}=8 \mathrm{~V}$-ot mutat. Mit mutat a második?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr38-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr38-fig1.jpg)

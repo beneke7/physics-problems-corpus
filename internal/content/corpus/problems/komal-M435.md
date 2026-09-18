@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202411"
 verification_status: pending
 ---
 
-Attach a weight to the bottom of a household candle so that it floats in a vertical position when placed in water. Light the candle and then measure how the length of the candle submerged in the water varies as a function of its total instantaneous length. Using the measured data, determine the density of the material of the candle. 
+Attach a weight to the bottom of a household candle so that it floats in a vertical position when placed in water. Light the candle and then measure how the length of the candle submerged in the water varies as a function of its total instantaneous length. Using the measured data, determine the density of the material of the candle.
  (6 pont)

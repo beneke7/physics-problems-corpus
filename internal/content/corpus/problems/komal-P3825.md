@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-By what amount does the area of a 20-Forint coin increase, if its diameter at 20 $^\circ$C is 26.3 mm, and in our pocket its temperature increases to 35 $^\circ$C. (The coefficient of linear expansion is =1.84$^{.}$10$^{-5}$ $^\circ$C$^{-1}$.) 
+By what amount does the area of a 20-Forint coin increase, if its diameter at 20 $^\circ$C is 26.3 mm, and in our pocket its temperature increases to 35 $^\circ$C. (The coefficient of linear expansion is =1.84$^{.}$10$^{-5}$ $^\circ$C$^{-1}$.)
  (3 pont)

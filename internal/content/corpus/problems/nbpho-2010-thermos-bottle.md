@@ -25,7 +25,7 @@ techniques: [conservation-laws, model-reduction]
 
 In order to study the thermal properties of a thermos bottle, let us model it as two concentric spherical vessels, with radii $R_1 = 7$ cm and $R_2 = 10$ cm. The gap between the walls of the vessels contains vacuum (hence, the heat conductivity can be neglected).
 
-**i)** *(3.5 pt)* Find the radiative heat flux (i.e. transmitted heat per unit time) between the walls of the bottle, assuming that the ambient temperature is $T_2 = 293$ K and the inner sphere is filled with liquid nitrogen at the boiling temperature $T_1 = 77$ K. The emissivities of all the surfaces are equal to that of stainless steel: $\varepsilon = 0.1$. 
+**i)** *(3.5 pt)* Find the radiative heat flux (i.e. transmitted heat per unit time) between the walls of the bottle, assuming that the ambient temperature is $T_2 = 293$ K and the inner sphere is filled with liquid nitrogen at the boiling temperature $T_1 = 77$ K. The emissivities of all the surfaces are equal to that of stainless steel: $\varepsilon = 0.1$.
 
 *Remark:* The emitted heat flux per unit area is given by Stefan-Boltzmann's law $P = \varepsilon \sigma T^4$, where $\sigma = 5.67 \times 10^{-8}$ W/(m$^2$ K$^4$) (assuming that $\varepsilon$ is independent of the wavelength).
 

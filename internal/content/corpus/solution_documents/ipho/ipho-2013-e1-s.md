@@ -58,7 +58,9 @@ in the interval from 0 m to 1 m.
 
 
                                                             Page 1 of 5
-                              Speed of light (solution)                                                   E1
+
+
+                              Speed of light (solution)                                                   E1
 
      Use the graph to find the refractive index     for the material from which the core of
 1.2b the fiber optic cable is made. Calculate the speed of light     in the core of the fiber 1.2
@@ -106,7 +108,9 @@ The speed of light in the core of the cable is
 
 
                                                  Page 2 of 5
-                           Speed of light (solution)                                                           E1
+
+
+                           Speed of light (solution)                                                           E1
 
 Measuring the horizontal part of some triangle is very inaccurate because of the size of the laser dot.
 No marks will be awarded for that. Using                   as the uncertainty of ,         and , the
@@ -155,7 +159,9 @@ Also, accept               and           .
 
 
                                                  Page 3 of 5
-                              Speed of light (solution)                                                                 E1
+
+
+                              Speed of light (solution)                                                                 E1
 
 
 1.4b Use equations to explain theoretically what the graph is expected to look like.                              1.2
@@ -204,7 +210,9 @@ All solutions with            are omitted.
 
 
                                                  Page 4 of 5
-                           Speed of light (solution)                                                      E1
+
+
+                           Speed of light (solution)                                                      E1
 
 
 Another and more elegant way of finding         is to use Snell’s law in the equation

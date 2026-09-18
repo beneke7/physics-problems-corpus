@@ -42,16 +42,16 @@ A feladat megoldására sokféle lehetőség van, de most egy olyan módszert mu
    j-edik rugó lefelé, a következő távolsággal mozdul el
                                           N
                                                                    j2
-                                                                        
+
                                           X           mg
                                   ∆yj =         ∆Li =            1− 2
                                                       2k           N
                                           i=j
 
    a gravitáció hiányában elfoglalt helyzetéhez képest. A tömegközéppont elmozdulása
-                         N         N            Z N
+                         N         N             Z N
                                          j2
-                                            
+
                        1 X       1 X           1                    2
                 ∆ycm =     ∆yj ∝       1− 2 = 3      N 2 − j 2 dj =
                        N         N       N    N 0                   3
@@ -64,7 +64,9 @@ A feladat megoldására sokféle lehetőség van, de most egy olyan módszert mu
 
 
                                                     17
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 

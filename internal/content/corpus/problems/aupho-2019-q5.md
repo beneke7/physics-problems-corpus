@@ -27,17 +27,17 @@ techniques: [conservation-laws]
 
 Once the trolley is at the desired speed, Trish keeps it at that constant speed. Which of the following diagrams correctly shows the forces acting on the box as it moves at constant speed to the left? The length of the force arrows is proportional to the size of the force. Ignore air resistance.
 
-![](aupho-2019-q5-fig01.png)
+![](../../figures/aupho/figures/aupho-2019-q5-fig01.png)
 a.
 
-![](aupho-2019-q5-fig02.png)
+![](../../figures/aupho/figures/aupho-2019-q5-fig02.png)
 b.
 
-![](aupho-2019-q5-fig03.png)
+![](../../figures/aupho/figures/aupho-2019-q5-fig03.png)
 c.
 
-![](aupho-2019-q5-fig04.png)
+![](../../figures/aupho/figures/aupho-2019-q5-fig04.png)
 d.
 
-![](aupho-2019-q5-fig05.png)
+![](../../figures/aupho/figures/aupho-2019-q5-fig05.png)
 e.

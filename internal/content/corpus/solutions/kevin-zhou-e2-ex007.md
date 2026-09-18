@@ -29,7 +29,7 @@ Req =
 1
 2
 +
-
+
 1
 3
 +
@@ -38,7 +38,7 @@ Req =
 +
 1
 2
-−1
+ −1
 +
 1
 2
@@ -56,7 +56,7 @@ Solution
 A simple configuration with two equal resistors works.
 When a battery is connected across II, the horizontal resistor doesn’t do anything. When a
 battery is connected across I, the two resistors comprise a voltage divider.
-[2] Problem 24.  W 1 0USAPhO 2007, problem A1.
+[2] Problem 24.   W 1 0USAPhO 2007, problem A1.
 [2] Problem 25 (IPhO 1996). Consider the following resistor network.
 Find the equivalent resistance between A and B.
 26

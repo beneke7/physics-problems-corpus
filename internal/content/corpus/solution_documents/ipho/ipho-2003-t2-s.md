@@ -62,7 +62,9 @@ Part A
 ------------------------------------------------------------------------------
 
                                                                    21
-Part B
+
+
+Part B
 (c) Since the angular frequency ω and speed of propagation u are given, the wavelength is
     given by λ = 2π / k with k = ω / u. The spatial variation of the displacement ξ is therefore
     described by
@@ -117,7 +119,9 @@ Part A
    where ω = k u and the first and second factors in the square brackets represent waves
 
                                                        22
-  traveling along the +x and –x directions, respectively. Note that Eq. (B6) is identical to Eq.
+
+
+  traveling along the +x and –x directions, respectively. Note that Eq. (B6) is identical to Eq.
   (B3) if we set ξ m = ±ξ 0 .
        For a wave traveling along the –x direction, the velocity v must be replaced by –v in
   Eqs. (A1a) and (A1b) so that we have
@@ -173,7 +177,9 @@ Part A
 
 
                                                       23
-                                                         b
+
+
+                                                         b
                            S ( x, t ) = kξ m cos k x −     cos(ω t + φ )                      (B18)
                                                          2
   where a phase constant φ is now included in the time-dependent factors.
@@ -235,7 +241,9 @@ Part A
                                h                  εT          1.27 × 4.06
   (The constant α is called the electromechanical coupling coefficient.)
                                                   24
-   Note: The result C 0 = ε T bw / h can readily be seen by considering the static limit k = 0
+
+
+   Note: The result C 0 = ε T bw / h can readily be seen by considering the static limit k = 0
 of Eq. (5) in the Question. Since tan x ≈ x when x << 1, we have
                            lim Q(t ) / V (t ) ≈ C 0 [α 2 + (1 − α 2 )] = C 0            (B26)
                            k→ 0
@@ -248,7 +256,9 @@ the dielectric medium. It is therefore given by ε T bw / h.
 
 
                                                25
-                                     Marking Scheme
+
+
+                                     Marking Scheme
 
                                Theoretical Question 2
            A Piezoelectric Crystal Resonator under an Alternating Voltage

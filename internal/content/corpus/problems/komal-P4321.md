@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-The thermal mean speed of neutral elementary particles is 2.7 km/s at a temperature of 22 $^\circ$C. What is the average speed of these particles in the reactor container of a nuclear power station, where the temperature is 315 $^\circ$C? What can these particles be? 
+The thermal mean speed of neutral elementary particles is 2.7 km/s at a temperature of 22 $^\circ$C. What is the average speed of these particles in the reactor container of a nuclear power station, where the temperature is 315 $^\circ$C? What can these particles be?
  (4 pont)

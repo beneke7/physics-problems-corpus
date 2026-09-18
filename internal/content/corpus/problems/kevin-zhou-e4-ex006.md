@@ -38,7 +38,9 @@ Example 6: The Drude Model
 
 
                                                         12
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 
@@ -94,4 +96,6 @@ Example 6: The Drude Model
 
 
                                                   13
-    Kevin Zhou                                                                   Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                   Physics Olympiad Handouts

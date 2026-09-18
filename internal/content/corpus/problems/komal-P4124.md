@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-It is well known that a bowl of meat-soup cools down more quickly if there is a spoon in it. Why? 
+It is well known that a bowl of meat-soup cools down more quickly if there is a spoon in it. Why?
  (3 pont)

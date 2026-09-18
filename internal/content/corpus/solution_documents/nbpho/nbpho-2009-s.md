@@ -91,7 +91,9 @@ v) At the origin, there are no charges; hence, the electric field
 lines cannot neither start nor end there. Consider a tiny coaxial                                         =        ,
 cylinder embracing the origin. The field lines exit the cylinder                                      R1      V12
 through its bottom and top surfaces (because there is an electric        where Ri denotes the resistor closest to the i-th outlet; for a
-                                                                                                                                                                                                      m
+
+
+                                                                                                                                                                                                      m
 5. Pencil (6 points) We put the pencil with its graphite end against      RC and LC cirquits are τ1 = R1 C = 0.6 s and τ2 = L/R2 ≈                 horisontal velocity v ′ = vh + u = vh (1 + M          ). Since the
 a horizontal sheet of paper, and push the other end with a fingertip      0.3 s. So, for both cirquits, the processes are very fast, i.e. the      block is sliding down the wedge, the vertical component of the
 (without holding between the fingers and thereby possibly giving          capacitor is effectively short-circuited, and almost all the voltage     block has to be v↓ = v ′ tan α. The total kinetic energy in the lab
@@ -108,7 +110,7 @@ tan α ≤ µ, where α is the angle between the pencil and a vertical         r
 line. So, we increase α wile pushing the pencil, and determine            of the capacitor (Q/C ) will fall on the resistor R1 , so that I1′ =                                                              q
 the position α0 , when the√pencil starts sliding; tan α0 can be           Q/R1 C = U τ /R12 C ≈ 5.6 mA. As for the inductance, it will             above written energy conservation law we get v↓max = 2gh     β
                                                                                                                                                                                                                   ; so
-calculated as tan α0 = x/ l2 − x2 , where l is the length of the          retain (almost completely, because t2 − τ ≪ L/R2 ) the current                                q        r                         
+calculated as tan α0 = x/ l2 − x2 , where l is the length of the          retain (almost completely, because t2 − τ ≪ L/R2 ) the current                                q        r
 pencil, and x is the length of the projection of the pencil onto a        it has acquired during the first 10 ms, I2′ = U τ /L = 10 mA.            we finally have t = 2βh  g
                                                                                                                                                                                = 2h   g
                                                                                                                                                                                           M

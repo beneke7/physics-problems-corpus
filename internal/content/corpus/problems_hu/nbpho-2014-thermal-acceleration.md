@@ -21,7 +21,7 @@ links_en: nbpho-2014-thermal-acceleration
 
 Tekintsünk egy $a=1 \mathrm{~cm}$ oldalhosszúságú, alumíniumból készült kockát (sűrűség $\rho=2.7 \mathrm{~g} / \mathrm{cm}^{3}$, moláris tömeg $M_{A}=23 \mathrm{~g} / \mathrm{mol}$ ). Az alumínium egy móljának hőkapacitása az alábbi grafikonon látható a hőmérséklet függvénye. A fény sebessége $c=3 \times 10^{8} \mathrm{~m} / \mathrm{s}$, az univerzális gázállandó $R=8.31 \mathrm{~J} /(\mathrm{kg} \cdot \mathrm{K})$. A kocka kezdeti hőmérséklete $T_{0}=300 \mathrm{~K}$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2014-thermal-acceleration-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2014-thermal-acceleration-fig1.jpg)
 
 **i)** *(1 pont)* Mekkora az ilyen kocka teljes hőenergiája a kezdeti $T_{0}$ hőmérsékleten?
 

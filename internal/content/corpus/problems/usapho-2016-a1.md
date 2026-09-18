@@ -31,7 +31,7 @@ $$
 where $f$ is the frequency measured by the observer, $f_{0}$ is the frequency emitted by the source, $v$ is the speed of the source, $c$ is the wave speed, and $\theta$ is the angle between the source velocity and the line between the source and observer. (Thus $\theta=0$ when the source is moving directly towards the observer and $\theta=\pi$ when moving directly away.)
 
 A sound source of constant frequency travels at a constant velocity past an observer, and the observed frequency is plotted as a function of time:
-![](usapho-2016-a1-fig01.png)
+![](../../figures/usapho/figures/usapho-2016-a1-fig01.png)
 
 The experiment happens in room temperature air, so the speed of sound is 340 m/s.
 

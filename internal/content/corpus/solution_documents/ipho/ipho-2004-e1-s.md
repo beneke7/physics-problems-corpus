@@ -50,7 +50,9 @@ Therefore
             m×l = (M + m)×lcm
                 = (1.411±0.0005)×10-1kg×(2.1±0.06)×10-2m
                 = (2.96±0.08)×10-3kg⋅m
-       Experimental Competition / Solutions                                                      Page 2/11
+
+
+       Experimental Competition / Solutions                                                      Page 2/11
 
 
 PART-B The mass m of the ball (10.0 points)
@@ -105,7 +107,9 @@ PART-B The mass m of the ball (10.0 points)
  6      30.5±0.1                 151.4±0.05      6.8±0.1             17.31±0.03           299.6±0.7
  7      31.5±0.1                 141.8±0.05      7.8±0.1             18.48±0.04               342±1
  8      32.5±0.1                 142.9±0.05      8.8±0.1             18.33±0.04               336±1
-     Experimental Competition / Solutions                             Page 3/11
+
+
+     Experimental Competition / Solutions                             Page 3/11
 
 
 9     33.5±0.1        141.4±0.05            9.8±0.1    18.53±0.04   343±1
@@ -145,7 +149,9 @@ PART-B The mass m of the ball (10.0 points)
 43    67.5±0.1         94.0±0.05            43.8±0.1   27.87±0.06   777±2
 44    68.5±0.1         92.9±0.05            44.8±0.1   28.20±0.06   795±2
 45    69.5±0.1         91.1±0.05            45.8±0.1   28.76±0.06   827±2
-         Experimental Competition / Solutions                                    Page 4/11
+
+
+         Experimental Competition / Solutions                                    Page 4/11
 
 
 
@@ -197,7 +203,9 @@ the energy conservation (∆K + ∆U = 0) gives
 
 (Explanation) The ball stays at the end cap of the tube (x = L/2 − δ − r). When the
 speed of the weight is v, the increase in kinetic energy of the whole system is given by
-         Experimental Competition / Solutions                                  Page 5/11
+
+
+         Experimental Competition / Solutions                                  Page 5/11
 
 
                    K = 1/2 [mo + I/R2 + m{(L/2 − δ − r)2 + 2/5 r2}/R2]v2.
@@ -249,7 +257,9 @@ Therefore,
 and
       2gmoR2 = 2×980×(100.4±0.05)×(1.955±0.003)2 ×10-6kg⋅m3/s2
             = (752±2)×10-6kg⋅m3/s2.
-          Experimental Competition / Solutions                                    Page 6/11
+
+
+          Experimental Competition / Solutions                                    Page 6/11
 
 
 The slopes of the two straight lines in the graph (Fig. B-1) of PART-B 1 are
@@ -298,7 +308,9 @@ PART-C The spring constants k1 and k2 (6.0 points)
 
 
                  T1 = 1.1090s      and      T2 = 1.0193s
-         Experimental Competition / Solutions                                         Page 7/11
+
+
+         Experimental Competition / Solutions                                         Page 7/11
 
 
 (Explanation)
@@ -338,7 +350,9 @@ By averaging the10 measurements for each configuration, respectively, we get
 
  2. Explain, by using equations, why the angular frequencies ω1 and ω2 of small
     oscillation of the configurations are different. (1.0 points)
-         Experimental Competition / Solutions                                                            Page 8/11
+
+
+         Experimental Competition / Solutions                                                            Page 8/11
 
 
 
@@ -424,7 +438,9 @@ and
                          I o + m L − l + ∆l + r 2
                                    2         5
                                                         )
-           Experimental Competition / Solutions                                                                Page 9/11
+
+
+           Experimental Competition / Solutions                                                                Page 9/11
 
 
 
@@ -522,7 +538,9 @@ From the measured or given values we get,
                               6.2832                            6.2832
                      =                                  +                                   × (296 ± 8 ) × 980
                           1.1090 ± 0.0003                   1.0193 ± 0.0001
-           Experimental Competition / Solutions                                            Page 10/11
+
+
+           Experimental Competition / Solutions                                            Page 10/11
 
 
                   = ( 203 ± 5 ) × 10 −2 kg⋅m2/s4
@@ -579,7 +597,9 @@ where ∆l is expressed in the unit of cm. By solving the equation we get
 
                k1 = 5.7 N/m
                k2 = 3 N/m
-         Experimental Competition / Solutions                                      Page 11/11
+
+
+         Experimental Competition / Solutions                                      Page 11/11
 
 
 (Explanation) When the MBB is in equilibrium on a horizontal plane the force

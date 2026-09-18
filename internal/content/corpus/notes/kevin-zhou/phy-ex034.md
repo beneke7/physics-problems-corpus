@@ -31,7 +31,7 @@ Then we have
 
 From these differentials, we can read off the natural variables of these functions. Also, to convert
 between the quantities, we can use the Gibbs–Helmholtz equations
-                                                                     
+
                                  2 ∂(F/T )                  2 ∂(G/T )
                          U = −T                  , H = −T
                                        ∂T      V                   ∂T     p
@@ -63,7 +63,7 @@ Since the cycle is arbitrary, we have the equality of differential 2-forms
 In terms of calculus, this means the Jacobian for changing variables from (p, V ) to (T, S) is one.
 This equality can be used to derive all the Maxwell relations. For example, suppose we write
 T = T (S, V ) and P = P (S, V ). Expanding the differentials and using dS ∧ dS = dV ∧ dV = 0,
-                                                     
+
                                  ∂T                  ∂P
                                        dV ∧ dS =             dS ∧ dV
                                  ∂V S                ∂S V
@@ -73,6 +73,5 @@ physically the Maxwell relations simply express energy conservation. (Maxwell or
 them in a similar way, but using the language of Euclidean geometry!)
 
 We now give some examples of problems using the Maxwell relations and partial derivative rules.
-65 3. Statistical Mechanics
 
 

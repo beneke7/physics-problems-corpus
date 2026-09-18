@@ -63,7 +63,8 @@ corresponding to the thermo-elastic range which is known as yield strength shoul
 
  𝐿, cm     49.2        45     40       35       30       25       20       15         10       5
  𝐷, cm     27.5       25.6   22.8     19.9     17.1     14.2     11.4      8.5        5.7    2.8
-Experiment
+
+Experiment
 
 
 
@@ -112,7 +113,8 @@ Part B [3.5 points]
            At least 10 measured points appear in the graph 0.4 pts
            The data covers at least 75% of each coordinate length 0.4 pts
            There are labels in each axis 0.2 pts
-Experiment
+
+Experiment
 
 
 
@@ -169,7 +171,8 @@ Part B [3.5 points]
                      0
                       290.0     295.0   300.0    305.0     310.0     315.0    320.0    325.0   330.0
                                                          Power, mW
-Experiment
+
+Experiment
 
 
 
@@ -218,7 +221,8 @@ C.2. Plot a linear graph of the relationship between the visible angle vs order 
              There are labels in each axis 0.2 pts
 
     1.   Non-linear graph (0.2pts)
-Experiment
+
+Experiment
 
 
 
@@ -275,7 +279,8 @@ C.2. Plot a linear graph of the relationship between the visible angle vs order 
 
 
                                            𝑚′ = 167.82 sin 𝛼𝑚 − 2.1722
-Experiment
+
+Experiment
 
 
 
@@ -333,7 +338,8 @@ Part D [2.0 points]
                               2          5                301.5          2.5
                               3          9                305.6          4.5
                               4          10               306.0          5.0
-Experiment
+
+Experiment
 
 
 
@@ -389,7 +395,8 @@ Part D [2.0 points]
 
 
 Appendix
-Experiment
+
+Experiment
 
 
 
@@ -425,7 +432,8 @@ Data obtained in Part C.1 were used.
                             12         4.5                     0.0915      0.0911
                             13         5.0                     0.1016      0.1011
 Here, 𝑚’ and 𝑚 are observed and real number of fringes, respectively.
-Experiment
+
+Experiment
 
 
 

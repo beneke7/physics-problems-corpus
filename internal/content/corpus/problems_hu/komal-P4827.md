@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4827. Határozzuk meg az  ábrán látható áramkörben a főágban és a mellékágakban folyó áramerősségek értékét!
 
-![figure](../../raw_html/komal_figures/komal-P4827-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4827-fig1.gif)

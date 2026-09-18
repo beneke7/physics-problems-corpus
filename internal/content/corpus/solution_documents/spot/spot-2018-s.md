@@ -22,9 +22,9 @@ March 26, 2018
 1     Chain
 1(a)(i) As d decreases, T0 decreases. The intuition is that the chain becomes more slack because the points
 of attachment at the two ends, which hold up the entire chain, are more vertical.
-1(a)(ii)                                               s                  2
+1(a)(ii)                                               s                   2
                                              d2 y
-                                                                 
+
                                                                      dy
                                            T0 2 = λg        1+
                                              dx                      dx
@@ -56,7 +56,9 @@ unnecessary complications.
 
 
                                                         1
-Students who attempted to apply conservation of energy would have obtained an erroneous factor of half.
+
+
+Students who attempted to apply conservation of energy would have obtained an erroneous factor of half.
 This situation is inherently dissipative, similar to sand falling on a conveyor belt, which is actually discussed
 explicitly in the original journal article (see Biggins and Warner, 2014). Considering momentum change is
 the way to go.
@@ -110,7 +112,9 @@ and the next without any justification). Some students discussed lateral inversi
 
 
                                                          2
-3     van der Waals gas
+
+
+3     van der Waals gas
 3(a) Differentiate original equation with respect to V , then set dp/dV = 0. Assume that V > bN when taking
 the square root. Some students came up with assumptions that were not actually used in their derivation.
 3(b) Interpret left-hand expressions and right-hand expressions as functions of V . Solutions are the intersec-
@@ -139,19 +143,21 @@ were extremely unphysical.
 4(a)(i)
                                                       2πr3 σ 2
                                                  U=
-                                                        0
+                                                         0
 
 Students could either consider the work done in assembling the charged sphere, or integrating the energy of
 the electric field over all space.
 4(a)(ii)
                                                         σ2
                                                    p=
-                                                        20
+                                                        2 0
 
 
 
                                                       3
-Some students made the mistake of assuming that σ is constant when differentiating F = −dU/dr. There
+
+
+Some students made the mistake of assuming that σ is constant when differentiating F = −dU/dr. There
 were even mistakes made in the definition of p as well, as the 4π factors seemed too temptingly nice to cancel.
 4(b)(i) Some explanations involved too many leaps. The idea is to take a small square patch, pull it on all
 four sides with the same force, then resolve the radial component and relate it to pressure.
@@ -195,7 +201,7 @@ given with the expectation value of r.
 sum.
 5(c)(i) Use the substitution
                                                     ni hc
-                                                   i =
+                                                    i =
                                                      2L
 to convert the sum to an integral, which becomes exact in the limit of L → ∞.
 
@@ -203,15 +209,17 @@ to convert the sum to an integral, which becomes exact in the limit of L → ∞
 
 
                                                            4
-The 3d integral over the octant where i > 0 can be conveniently performed in spherical coordinates due to
+
+
+The 3d integral over the octant where  i > 0 can be conveniently performed in spherical coordinates due to
 the symmetry of the integrand. Make the replacement
                                  Z ∞Z ∞Z ∞
                                                              1 ∞
                                                               Z
-                                              d1 d2 d3 −→       4π2 d
+                                              d 1 d 2 d 3 −→       4π 2 d
                                   0   0    0                 8 0
 
-and then substitute ν = /~ to get the expression
+and then substitute ν =  /~ to get the expression
 
                                                   8πhν 3  1
                                            uν =
@@ -243,7 +251,9 @@ consistently would also help in organising the symbols used.
 
 
                                                           5
-References
+
+
+References
 J. S. Biggins and M. Warner. Understanding the chain fountain. Proceedings of the Royal Society A:
   Mathematical Physical and Engineering Sciences, 470(2163):20130689–20130689, jan 2014. doi: 10.1098/
   rspa.2013.0689. URL https://doi.org/10.1098%2Frspa.2013.0689.

@@ -17,13 +17,13 @@ x > d, the electric field along the x axis is
 E(x) =
 q
 4πϵ0
-
+
 1
 x2
 −
 1
 (x − d)2
-
+
 .
 For x ≫ d, use the binomial theorem to approximate the field.
 Solution. Use the binomial theorem with d/x ≪ 1 to get
@@ -32,11 +32,11 @@ Solution. Use the binomial theorem with d/x ≪ 1 to get
 =
 1
 x2
-
+
 1 +
 2d
 x
-
+
 .
 Then
 E(x) = −

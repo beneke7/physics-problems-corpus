@@ -42,7 +42,7 @@ lutions are given below.
          ~        αV e−αx
      (d) E(x) =            x̂
                   1 − e−αd
-                             
+
                          nh
   2. (a) φ = sin −1
                        √
@@ -66,11 +66,11 @@ lutions are given below.
      (b) a =                            R
                     M R2 + 2I
                µg/2
-      (c) a ≤    µ
+      (c) a ≤     µ
               1−
                   4
      (d) am = 2g/3
-                                
+
              R       R
   4. (a) k =                  −1
              2 (R2 − ω 2 )1/2
@@ -85,7 +85,9 @@ lutions are given below.
 
 
                                                                        1
-      (c)
+
+
+      (c)
             +1 cm
 
                           Pn
@@ -110,12 +112,12 @@ lutions are given below.
 
       (b) φ = α; −α; π − α; π + α
                                    2µ I 2 (a2 + b2 )abd sin φ
-                                   0
+                                    0
                                  π (a2 − b2 )2 + 4a2 b2 sin2 φ
 
           where α = sin−1 [(a2 − b2 )/2ab]
                        F (r)
-                                                                ẑ
+                                                                 ẑ
 
                                                                    E
                                        CS
@@ -168,7 +170,9 @@ lutions are given below.
                GM m2
 
 HBCSE-TIFR, Mumbai                                                          2
-                   r
+
+
+                   r
                         r03
      (h) Tr = 2π
                        GM
@@ -186,7 +190,7 @@ HBCSE-TIFR, Mumbai                                                          2
 
 
      (d) z0 =
-                
+
 
 
                 T0
@@ -197,10 +201,10 @@ HBCSE-TIFR, Mumbai                                                          2
                    "
                      1−
                           −1
-                             
 
 
-                           1/(η−1) #
+
+                             1/(η−1) #
 
 
          where η = Ca /Cb .
@@ -208,7 +212,7 @@ HBCSE-TIFR, Mumbai                                                          2
                            ma                E
                               CS
      (e) Condition:
-              s Ca > Cb 
+              s Ca > Cb
                                1/(η−1)
                  ma (η − 1) ma
          ω=g

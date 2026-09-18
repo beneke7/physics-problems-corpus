@@ -49,7 +49,7 @@ In our problem we are given $L_{1,2}$ and $\varepsilon_{1,2}$. Also, $\dfrac{T_1
 
 Take $\hat{\mathbf j}_1$ and $\hat{\mathbf j}_2$ to be the two $y$-unit-vectors specific to the two elliptical trajectories. The condition on $\hat{\mathbf j}_1$ and $\hat{\mathbf j}_2$ is just $\hat{\mathbf j}_2 = \begin{pmatrix}\cos\alpha & -\sin\alpha \\ \sin\alpha & \cos\alpha\end{pmatrix}\hat{\mathbf j}_1$.
 
-![The two elliptical orbits sharing the focus E (Earth). Satellite positions $S_1,S_2$ with radius vectors $\mathbf r_1(t),\mathbf r_2(t)$ and velocities $\mathbf v_1(t),\mathbf v_2(t)$; $\hat{\mathbf j}_1,\hat{\mathbf j}_2$ are the per-orbit $y$-axes, and $\alpha$ is the angle between the major axes.](../../sources/physicscup/figures/physicscup-2024-p4-sol-1.png)
+![The two elliptical orbits sharing the focus E (Earth). Satellite positions $S_1,S_2$ with radius vectors $\mathbf r_1(t),\mathbf r_2(t)$ and velocities $\mathbf v_1(t),\mathbf v_2(t)$; $\hat{\mathbf j}_1,\hat{\mathbf j}_2$ are the per-orbit $y$-axes, and $\alpha$ is the angle between the major axes.](../../../../../sources/physicscup/figures/physicscup-2024-p4-sol-1.png)
 
 Recalling that the areal velocity is $L = h/2$, i.e. $h = 2L$, the relative velocity is
 $$ \mathbf v_{\mathrm{rel}} = \mathbf v_1 - \mathbf v_2 = \frac{GM}{2}\left(\frac{\hat{\mathbf e}_{\theta_1}}{L_1} - \frac{\hat{\mathbf e}_{\theta_2}}{L_2} + \frac{\varepsilon_1\hat{\mathbf j}_1}{L_1} - \frac{\varepsilon_2\hat{\mathbf j}_2}{L_2}\right). $$

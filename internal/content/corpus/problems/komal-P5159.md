@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-An electric stove, which has three power levels, was made from two alike resistors. When it is used from the mains at the highest heat level it delivers a power of 1500 W. What is the resistance of the resistors? How long does it take to heat half a litre of water from $20\;{}^\circ\rm C$ to $80\;{}^\circ\rm C$ if it is used in its lowest heat level and its efficiency is 75%? 
+An electric stove, which has three power levels, was made from two alike resistors. When it is used from the mains at the highest heat level it delivers a power of 1500 W. What is the resistance of the resistors? How long does it take to heat half a litre of water from $20\;{}^\circ\rm C$ to $80\;{}^\circ\rm C$ if it is used in its lowest heat level and its efficiency is 75%?
  (3 pont)

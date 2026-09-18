@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201110"
 verification_status: pending
 ---
 
-Two trolleys of mass 2 kg, lying along a line, are at rest on a horizontal tabletop. On one of them there is a spring as well as shown in the figure. The trolley on the left is given an initial speed of 5 m/s, and it collides with the other one on the right. What is the energy stored in the spring when it is the shortest? 
+Two trolleys of mass 2 kg, lying along a line, are at rest on a horizontal tabletop. On one of them there is a spring as well as shown in the figure. The trolley on the left is given an initial speed of 5 m/s, and it collides with the other one on the right. What is the energy stored in the spring when it is the shortest?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4372-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4372-fig1.gif)

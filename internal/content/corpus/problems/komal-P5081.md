@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-What is the equivalent resistance across points $C$ and $D$ of the resistor system connected as shown in the figure, if each resistor has a resistance of $R$? By what percent does this equivalent resistance across $C$ and $D$ change if the resistor between points $A$ and $B$ is disconnected? 
+What is the equivalent resistance across points $C$ and $D$ of the resistor system connected as shown in the figure, if each resistor has a resistance of $R$? By what percent does this equivalent resistance across $C$ and $D$ change if the resistor between points $A$ and $B$ is disconnected?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5081-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5081-fig1.gif)

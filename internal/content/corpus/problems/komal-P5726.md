@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, conservation-laws, extremization]
 ---
 
-A lightweight but rigid rod is bent at a right angle, with arm lengths $\ell_1$ and $\ell_2$. Small bodies of masses $m_1$ and $m_2$ are attached to the ends of the arms. The rod can rotate freely in its own plane about a horizontal axis passing through the elbow of the rod. What is the period of the oscillation of the system when it is slightly displaced from its equilibrium position? 
+A lightweight but rigid rod is bent at a right angle, with arm lengths $\ell_1$ and $\ell_2$. Small bodies of masses $m_1$ and $m_2$ are attached to the ends of the arms. The rod can rotate freely in its own plane about a horizontal axis passing through the elbow of the rod. What is the period of the oscillation of the system when it is slightly displaced from its equilibrium position?
  (4 pont)

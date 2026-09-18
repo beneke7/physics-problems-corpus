@@ -23,7 +23,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 ---
 
 5
-Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                                  Fizikaolimpiai feladatgyűjtemény
 
 
 nem forgatja el, de ebben az irányban u ≪ v értékkel megváltoztatja a sebességét. Az egyszerűség

@@ -62,7 +62,9 @@ v(t) ≈ (1 − αt)v0 +
 g
 α
 (−αt) = v0 − (g + αv0)t
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 which makes sense, since it’s just the result of uniform acceleration g + αv0, under the initial
 net force. For large times (αt ≫ 1), the exponentials decay away and we get v(t) ≈ −g/α,
 which is the terminal velocity.
@@ -122,28 +124,30 @@ dx
 1
 √
 αg
-
+
 tan−1
-
+
 v(t)
 r
 α
 g
-
+
 − tan−1
-
+
 v0
 r
 α
 g
-
+
 where I pulled out a factor of 1/
 √
 αg to get the right overall dimensions, then used dimensional
 analysis again to convert the integration bounds to dimensionless numbers. (You can also do
 this by ordinary u-substitution if you prefer.) This is essentially the final result. It can be
 solved for v(t), but that just makes it look worse.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The reason the equation only makes sense when the projectile is going up is that the force
 should always oppose the direction of motion, so we really wanted to solve F = −mα|v|v.
 Equivalently, the sign of α changes when the direction of the velocity changes. This means
@@ -168,14 +172,14 @@ dx
 1
 √
 αg
-
+
 tanh−1
-
+
 v(t)
 r
 α
 g
-
+
 .
 If you don’t know this hyperbolic trig integral, you could also derive it by expanding 1/(1−x2)
 in partial fractions and integrating each term. You will get a bunch of logarithms, which is
@@ -219,20 +223,20 @@ y(t) ≈ −
 1
 α
 log
-
+
 e
 √
 αg t + e−
 √
 αg t
 2
-
+
 ≈ −
 1
 α
 log 1 + αgt2
 /2
-
+
 ≈ −
 gt2
 2
@@ -245,7 +249,9 @@ small, we really mean that
 [3] Problem 3. A projectile of mass m is dropped from a height h above the ground. It falls and
 bounces elastically, experiencing the same quadratic drag as in problem 2. Find the maximum
 height to which it subsequently rises. (Hint: don’t try to use your results from problem 2.)
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The reason you shouldn’t try to use the results from problem 2 is that they are in terms
 of time. Given how complicated the implicit expressions for v(t) are, the expressions for x(t) would
 be extremely clunky. And they’re not necessary, because in this problem we don’t care about the
@@ -326,7 +332,9 @@ Thus, the required power input is
 P = Fv ∝ v3
 N2/3
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 The power output by the rowers scales as N, and combining these results gives the amazingly
 weak dependence v ∝ N1/9, which agrees decently with Olympic rowing times. This estimate
 is from the fun book 100 Essential Things You Didn’t Know About Sport by Barrow.
@@ -361,7 +369,9 @@ Solve the simple harmonic oscillator, mẍ + kx = 0, using the above principles.
 Solution
 First, we pass to a complex differential equation,
 m¨ x̃ + kx̃ = 0.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 We guess x̃(t) = eiωt. Plugging this in and using the chain rule gives
 m(iω)2
 eiωt
@@ -413,8 +423,10 @@ The oscillation is slightly slowed down, and the frequency has an imaginary part
 exponential decay. The general solution is
 x(t) = e−bt/(2m)
 (C cos(ωdt) + Dsin(ωdt)).
-[3] Problem 6.  m 1 0USAPhO 2012, problem B1.
-6Kevin Zhou Physics Olympiad Handouts
+[3] Problem 6.   m 1 0USAPhO 2012, problem B1.
+6
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 7. Above, we mentioned that guessing an exponential works almost all the time. The
 reason is because at the end of the day, the exponential cancels out and we’re left with a polynomial
 in ω, which has just the right number of roots. But if there are repeated roots, there are fewer
@@ -427,7 +439,7 @@ However, in the limit where we have two roots that are very close together, ω �
 ∆ω ≪ ω, we should get approximately the same solution. Explicitly show how this works.
 When would you prefer to use either one?
 (c) [A] Consider the most general nth order, linear homogeneous time-translation invariant differ-
-ential equation 
+ential equation
 an
 dn
 dtn
@@ -438,7 +450,7 @@ dtn−1
 d
 dt
 + a0
-
+
 x = 0.
 What does the general solution look like?
 Solution. (a) In the case of a double root ω = 0, the differential equation is d2x/dt2 = 0. The
@@ -464,7 +476,7 @@ which superficially looks very different from the answer to part (a). However, n
 x(t) = eiωt
 Cei∆ω t
 + De−i∆ω t
-
+
 = eiωt
 ((C + D)cos(∆ω t) + i(C − D)sin(∆ω t)).
 For short times, ∆ω t ≪ 1, we have cos(∆ω t) ≈ 1 and sin(∆ω t) ≈ ∆ω t, up to quadratic and
@@ -475,7 +487,9 @@ from which we can identify
 A ↔ C + D, B ↔ i(C − D)∆ω.
 Intuitively, the Bt term comes from superposing two complex exponentials with opposite sign.
 Initially, they just cancel out, but over time the difference builds up, leading to an oscillation
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 with a linearly growing amplitude. (You can see this kind of envelope behavior in two weakly
 coupled pendulums, a system which has two nearby oscillation frequencies. We’ll return to
 this subject in M4.) Of course, once you get to the point ∆ω t ∼ 1, the two solutions will
@@ -523,7 +537,9 @@ and the following problem illustrates the most basic method for solving them.
 [3] Problem 8. [A] Some linear, homogeneous, non-time-translation-invariant differential equations
 can be solved by simply guessing a power series. For this problem, don’t worry about dimensional
 analysis; assume all variables have already been redefined to be dimensionless.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (a) As a warmup, consider the differential equation ẋ = kx for constant k, which we already know
 how to solve. By plugging in the ansatz
 x(t) =
@@ -579,7 +595,7 @@ n=0
 n(n − 1)antn
 + nantn
 + antn+2
-
+
 = 0.
 Simplifying and shifting the sum as in part (a) gives
 ∞ X
@@ -593,7 +609,9 @@ an−2tn
 = 0.
 The n = 0 equation is automatic, while the n = 1 equation gives a1 = 0, consistent with the
 initial condition ẋ(0) = 0. For n ≥ 2, we have the recursion relation an = −an−2/n2. The
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 remaining initial condition gives a0 = 1, from which we conclude the a2n+1 are all zero. We
 then have
 a2 = −
@@ -612,10 +630,10 @@ x(t) =
 m=0
 (−1)m
 (m!)2
-
+
 t
 2
-2m
+ 2m
 .
 This function is known as the Bessel function of the first kind, of zeroth order, J0(t).
 2 Tricks
@@ -651,7 +669,9 @@ t =
 v1v2
 g
 .
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 To compute the distance, we can just work in the frame falling with the masses. Then it’s clear
 that the acceleration g doesn’t matter, and the distance is just
 d = (v1 + v2)t =
@@ -684,9 +704,9 @@ p
 r2 − a2/4
 !2
 +
-v
+ v
 2
-2
+ 2
 =
 v
 2
@@ -708,7 +728,9 @@ distance d from O. Find the speed of O′ as a function of time.
 Solution. Remarkably, the answer does not depend on the time! Let d be the distance between
 the points of intersection, and work in the rotating frame where the circles rotate with angular
 velocities ω/2 and −ω/2 about O.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Since θ̇ = ω/2 and cosθ = d/2r, we have
 −
 ω
@@ -742,7 +764,9 @@ across the river.
 forms a circle in velocity space, as shown. (I thank Stefan Ivanov for providing this figure.)
 By taking the velocity with the angle closest to directly across the river, we see the boatman
 should row an angle cos−1(3/4) from the upstream direction.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 5
 In problems with friction, the best reference frame to use is almost always the frame of
 whatever is causing the friction.
@@ -778,7 +802,7 @@ see Physics Cup 2022, problem 2, and for an explanation of the general theory, s
 chosen so that three snails never meet at once, and no two of the velocities are equal. Since time
 t = −∞, five of the 4
 2
-
+
 possible encounters have already occurred. Must the sixth also occur?
 Solution. It’s a bit tricky to visualize what’s going on in the plane; instead think about what’s
 going on in spacetime. The spacetime here is three-dimensional, and the paths of the snails are
@@ -789,7 +813,9 @@ Now consider the fourth snail’s worldline. If it doesn’t lie in this plane, 
 at most one of the other three, because three snails never meet at once. We know at least five
 encounters occur, so this can’t be the case. Thus, the fourth snail’s worldline has to lie in the plane.
 Finally, since no two of the velocities are equal, this worldline isn’t parallel to any of the other
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 three, so it has to intersect all three, giving six collisions. So if five collisions occur, under the given
 conditions, then a sixth must also occur.
 [2] Problem 18. Six bugs are placed at the vertices of a regular hexagon with side length s. At time
@@ -833,7 +859,9 @@ because of the rabbit’s motion and fox’s chasing. Then r + x is constant. In
 a + 0 = a, and after a long time r = x = d, so the final separation is d = a/2.
 [2] Problem 19. Suppose the fox in the above example instead has speed u > v. How long does it
 take to catch the rabbit?
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. We can simply modify the logic of the example. Now the equations of motion are
 dr
 dt
@@ -875,10 +903,12 @@ prevent sliding from rest, so that µ = tanθ and these two magnitudes are equal
 is exactly analogous to example 4 (with an extra time derivative) and the answer is v0/2.
 Again, it’s possible to solve for the full trajectory, but it’s quite difficult and messy. You can
 find the full result in this paper.
-[4] Problem 21.  O 1 0EuPhO 2023, problem 2. (Warning: compared to most EuPhO problems, the
+[4] Problem 21.   O 1 0EuPhO 2023, problem 2. (Warning: compared to most EuPhO problems, the
 algebra will be uncharacteristically messy.)
 3 Motion in Two Dimensions
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 6
 Often, motion in two dimensions can be treated as two independent one-dimensional problems.
 A change of reference frame may be necessary first.
@@ -910,7 +940,9 @@ which means the upward drag force is larger when the horizontal velocity is larg
 Since the components are independent for linear drag, it’s not too hard to write down an
 expression for the trajectory, by recycling the results of example 1. But for quadratic drag,
 the results of problem 2 won’t help much; the two-dimensional problem is much harder.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 [1] Problem 22 (Quarterfinal 2002). A cart is rigged with a vertical cannon so that, when the cart is
 stationary on a horizontal track, the cannonball is fired straight up and lands back in the cannon.
 In each of the following situations, does the cannonball land back in the cannon, in front of it, or
@@ -963,7 +995,9 @@ A − t2
 B
 2
 .
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 24 (Kalda). Two planar frictionless walls are placed at right angles, where wall A makes
 an angle α to the horizontal. A perfectly elastic ball is released from rest at a point a distance a
 from wall A and b from wall B.
@@ -994,7 +1028,7 @@ bcosα
 When this ratio is a rational number, the ball eventually returns to its starting point. If it isn’t, it
 never does; instead it eventually explores all of the space permitted by energy conservation, i.e. it
 eventually passes arbitrarily close to any point in the rectangle 0 ≤ x ≤ b and 0 ≤ y ≤ a.
-[2] Problem 25.  W 1 0USAPhO 2004, problem A4.
+[2] Problem 25.   W 1 0USAPhO 2004, problem A4.
 [3] Problem 26 (NBPhO 2010). A sprinkler can be modeled as a small hemisphere on the ground.
 Water shoots out from the hemisphere in all directions, with speed v perpendicular to the hemisphere.
 (a) Find the total surface area of ground watered by the sprinkler.
@@ -1007,12 +1041,14 @@ the same reason that balls thrown upward spend the most time near the very top o
 trajectories.)
 This idea is a little tricky, but very general; for instance, it’s the principle behind the formation
 of caustics such as rainbows, as we’ll see in W3. It is also the way in which classical mechanics
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 emerges from quantum mechanics: classically things follow the trajectory of least action
 because it’s a caustic of the quantum sum over all trajectories. So if you continue in physics,
 you’ll see this beautiful little idea over and over again, in richer and richer settings! For an
 Olympiad problem that gives a bit more detail about caustics in optics, see here.
-[3] Problem 27.  ^ 1 0USAPhO 2023, problem A1. A neat exercise on collisions and projectile motion.
+[3] Problem 27.   ^ 1 0USAPhO 2023, problem A1. A neat exercise on collisions and projectile motion.
 Example 7
 A bug flies towards a light with constant speed v, always making an angle α with the radial
 direction. If the initial distance to the lamp is L and the radius of the lamp is R, through
@@ -1072,14 +1108,16 @@ dt
 dθ
 dr
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Plugging this in above, we have
 M2
 − 1 = r2
-
+
 dθ
 dr
-2
+ 2
 and separating and integrating gives
 Z r
 a
@@ -1144,7 +1182,9 @@ that circular motion satisfies
 mv2
 r
 = mωcv
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 from which we conclude ωc = 2ω0. So in complex notation,
 r(t) = r0 + r1e2iω0t
 in the rotating frame. We can return to the original frame by simply multiplying by e−iω0t,
@@ -1190,7 +1230,9 @@ R
 , vx =
 p
 gR.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, the minimum initial speed is
 v =
 q
@@ -1228,10 +1270,10 @@ tan(2θ) =
 1
 tanϕ
 = tan
-π
+ π
 2
 − ϕ
-
+
 , θ =
 (π/2) − ϕ
 2
@@ -1247,7 +1289,9 @@ in time t is 1
 the form r ∝ cosθ, which is the polar representation of a circle whose topmost point is P, with a
 diameter of 1
 2gt2, as shown below.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Therefore, P′ is the point where one of these circles is tangent to the incline. Thus, the wire
 should be at an angle of α/2 to the vertical.
 Idea 8
@@ -1302,7 +1346,9 @@ d
 , cos2θ =
 h
 d
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 to get the result
 v2
 = (d − h)g = (d + h1 − h2)g.
@@ -1337,7 +1383,9 @@ We showed in part (a) that the final velocity vf is tangent to the parabola. The
 point along the angle bisector between the downward vertical and the downward direction
 along the plane, because this is the direction along which the distance from the focus and
 directrix will be increased at the same rate. (You can show, by looking at some angles, that
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 this is equivalent to the so-called “reflective property of the parabola”, which states that a
 light beam sent in perpendicular to the directrix will reflect off the parabola to the focus.)
 We showed in part (b) that vi is perpendicular to vf, which means it is along the angle
@@ -1367,7 +1415,7 @@ Solving for v0 gives the answer,
 v0 =
 p
 g(d + h1 + h2).
-[3] Problem 35.  m 1 0IPhO 2012, problem 1A.
+[3] Problem 35.   m 1 0IPhO 2012, problem 1A.
 5 Reading Graphs
 In some kinematics problems, you’ll have to infer what’s going on from a diagram. To make progress,
 you’ll have to print out the diagram to make measurements directly on it.
@@ -1377,6 +1425,8 @@ Remark
 For a harder problem from the same genre, see EuPhO 2019, problem 3. Almost all com-
 petitors received zero points on it, largely because it relies on a specialized trick introduced
 earlier in this problem set. You can try it for entertainment if you have time and really like
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 kinematics.
 26

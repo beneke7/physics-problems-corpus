@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy]
 ---
 
-The figure shows three tanks, to which drain tubes are attached, and they all contain the same liquid. Which tank will drain the fastest if the internal friction (viscosity) of the liquid is negligible? 
+The figure shows three tanks, to which drain tubes are attached, and they all contain the same liquid. Which tank will drain the fastest if the internal friction (viscosity) of the liquid is negligible?
 
- Is it sure that the middle tank can even become empty, if the lowest point of the drain tube gets to a very low position? Is it sure that the right tank can even become empty, if the highest point of the drain tube gets to a very high position? 
+ Is it sure that the middle tank can even become empty, if the lowest point of the drain tube gets to a very low position? Is it sure that the right tank can even become empty, if the highest point of the drain tube gets to a very high position?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G819-fig1.gif)
+![figure](../../figures/komal/figures/komal-G819-fig1.gif)

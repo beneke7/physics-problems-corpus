@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases, extremization]
 ---
 
-What is the greatest and the smallest speed with which a comet revolving around the Sun could strike the Earth if there was no air around the Earth? 
+What is the greatest and the smallest speed with which a comet revolving around the Sun could strike the Earth if there was no air around the Earth?
  (5 pont)

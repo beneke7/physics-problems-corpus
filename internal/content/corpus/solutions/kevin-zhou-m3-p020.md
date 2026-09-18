@@ -80,8 +80,8 @@ long time, we build up a shock front of beads traveling with speed v1.
 On the other hand, the first bead keeps uniformly accelerating between zero speed and v1, so
 its average speed is just v1/2. Evidently, the shock wave separates from the first bead over
 time.
-[3] Problem 22.  ^ 1 0USAPhO 2019, problem A1.
-[3] Problem 23.  m 1 0USAPhO 2009, problem B1.
+[3] Problem 22.   ^ 1 0USAPhO 2019, problem A1.
+[3] Problem 23.   m 1 0USAPhO 2009, problem B1.
 Example 8: MPPP 42
 There are N identical tiny discs lying on a table, equally spaced along a semicircle, with total
 mass M. Another disc D of mass m is very precisely aimed to bounce off all of the discs in
@@ -112,11 +112,11 @@ v2 + v2 =
 √
 2v. By conservation of energy,
 ∆
-
+
 1
 2
 mv2
-
+
 = −
 1
 2
@@ -136,11 +136,11 @@ which means that after N collisions, we have the cute result
 vf
 vi
 =
-
+
 1 −
 π
 N
-N
+ N
 ≈ e−π
 where in the last step we used a result from P1.
 23
@@ -155,9 +155,9 @@ occurs. Let’s say that when the volleyball hits the ground, it will keep going
 deforming the part that touches the ground into a flat circular face. Specifically, when the
 ball has moved a distance y into the ground, the flat face has area
 A = π
-p
+ p
 r2 − (r − y)2
-2
+ 2
 = πy(2r − y) ≈ 2πry
 where we assumed that y ≪ r at all times, which is reasonable as long as the ball’s initial
 speed is not enormous. As a result, the pressure of the volleyball exerts a force

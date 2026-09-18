@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4179. Határozzuk meg a 20 g héliumból és 8 g hidrogénből álló gázkeverék állandó nyomáson illetve állandó térfogaton vett fajhőinek hányadosát. 
+P. 4179. Határozzuk meg a 20 g héliumból és 8 g hidrogénből álló gázkeverék állandó nyomáson illetve állandó térfogaton vett fajhőinek hányadosát.
  Budó Ágoston verseny, Szeged

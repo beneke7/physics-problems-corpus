@@ -65,7 +65,9 @@ We want       0 to be zero i.e.       r           0        0
 
 
                                                                    1
-1c.
+
+
+1c.
                                 0
                               Rmin                       (21.6±0.1) k
                                  0                         5´ = 0.08
@@ -118,7 +120,9 @@ We want       0 to be zero i.e.       r           0        0
 
 
                                              2
-1e.
+
+
+1e.
 
 In =-20 => Rglass= (132± 2) k             , Rfilm= (518±5) k
 
@@ -167,7 +171,9 @@ Graphics
 
 
                                                    3
-      Task 2.
+
+
+      Task 2.
 
       2a.
                                                                        2                                            2
@@ -207,7 +213,9 @@ Graphics
 
 
                                                                            4
-2c.
+
+
+2c.
 
 Table 2c. The calculated parameters using the measured parameters
 
@@ -251,7 +259,9 @@ Table 2c. The calculated parameters using the measured parameters
 
 
                                      5
-2d.
+
+
+2d.
 
 Graphics
 
@@ -294,7 +304,9 @@ Graphics
                                             Wavelength(nm)
 
                                                6
-Task 3.
+
+
+Task 3.
 
 3a.
           Table 3a. The calculated parameters for each measured data point
@@ -335,7 +347,9 @@ Graphics
 
 
                                          7
-3b.
+
+
+3b.
 
 Graphics
 
@@ -387,7 +401,9 @@ Graphics
 
 
                                                               8
-In linear range we have, m=213 (eV), r2= 0.9986, Eg=2.17 (eV)
+
+
+In linear range we have, m=213 (eV), r2= 0.9986, Eg=2.17 (eV)
 and we have A 0.071 eV1/2 /nm so we find t= 206 (nm)
 
                        2       m2       2
@@ -432,5 +448,7 @@ Table 3d. The calculated values of Eg and t using Fig. 3
 
 
                                                                     9
-This document was created with Win2PDF available at http://www.daneprairie.com.
+
+
+This document was created with Win2PDF available at http://www.daneprairie.com.
 The unregistered version of Win2PDF is for evaluation or non-commercial use only.

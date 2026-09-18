@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201310"
 verification_status: pending
 ---
 
-There is a well-illuminated goldfish at rest in an aquarium, which has thin walls, 12 cm away from the wall. With the help of a lens, which has a power of 10 dioptres, an enlarged image is to be formed on a screen. The image should be five times as big as the fish. Where should the lens and the screen be placed? (The refractive index of water is 1.33.) 
+There is a well-illuminated goldfish at rest in an aquarium, which has thin walls, 12 cm away from the wall. With the help of a lens, which has a power of 10 dioptres, an enlarged image is to be formed on a screen. The image should be five times as big as the fish. Where should the lens and the screen be placed? (The refractive index of water is 1.33.)
  (4 pont)

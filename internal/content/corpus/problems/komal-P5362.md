@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-In a synchrocyclotron, the velocity dependence of the mass of elementary particles is compensated by decreasing the frequency of the electric field, which accelerates the particles. For example, if protons are accelerated, frequency of the applied voltage between the dees (D-shaped, metal, hollow half-discs) are varied from 25 MHz to 18.9 MHz in each cycle. Determine in this case 
- $a)$ the magnitude of the magnetic induction; 
- $b)$ the kinetic energy of the exiting protons. 
+In a synchrocyclotron, the velocity dependence of the mass of elementary particles is compensated by decreasing the frequency of the electric field, which accelerates the particles. For example, if protons are accelerated, frequency of the applied voltage between the dees (D-shaped, metal, hollow half-discs) are varied from 25 MHz to 18.9 MHz in each cycle. Determine in this case
+ $a)$ the magnitude of the magnetic induction;
+ $b)$ the kinetic energy of the exiting protons.
  (5 pont)

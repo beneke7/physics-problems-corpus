@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws, limiting-and-special-cases]
 ---
 
-How does the wavelength of a light beam incident perpendicularly on a mirror change, if the mirror is moving at a speed of $v$ in the same direction as the direction of the propagation of the incident light beam? 
- $a)$ $v=150~\frac{\mathrm{m}}{\mathrm{s}}$; 
- $b)$ $v=150\,000~\frac{\mathrm{km}}{\mathrm{s}}$. 
+How does the wavelength of a light beam incident perpendicularly on a mirror change, if the mirror is moving at a speed of $v$ in the same direction as the direction of the propagation of the incident light beam?
+ $a)$ $v=150~\frac{\mathrm{m}}{\mathrm{s}}$;
+ $b)$ $v=150\,000~\frac{\mathrm{km}}{\mathrm{s}}$.
  (5 pont)

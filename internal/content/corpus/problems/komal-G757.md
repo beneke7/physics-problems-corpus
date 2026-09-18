@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-Suppose you have a pair of reversible gloves, both pieces black on the outside and white on the inside. Can you wear them as mismatched gloves? 
+Suppose you have a pair of reversible gloves, both pieces black on the outside and white on the inside. Can you wear them as mismatched gloves?
  (3 pont)

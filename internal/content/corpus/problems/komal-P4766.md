@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-An aluminium sheet is illuminated by ultraviolet light of wavelength 200 nm. 
- $a)$ what will the kinetic energy of the fastest and the slowest emitted electrons? 
- $b)$ What is the stopping voltage? 
+An aluminium sheet is illuminated by ultraviolet light of wavelength 200 nm.
+ $a)$ what will the kinetic energy of the fastest and the slowest emitted electrons?
+ $b)$ What is the stopping voltage?
  (4 pont)

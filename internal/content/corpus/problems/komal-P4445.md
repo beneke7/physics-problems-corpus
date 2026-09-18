@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201205"
 verification_status: pending
 ---
 
-The figure shows a right circular cone of uniform density and of height 56 cm. Where is the centre of mass of that truncated cone which is gained if the original cone is cut into two at the midpoint of its height, and the top part of the cone is removed? 
+The figure shows a right circular cone of uniform density and of height 56 cm. Where is the centre of mass of that truncated cone which is gained if the original cone is cut into two at the midpoint of its height, and the top part of the cone is removed?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4445-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4445-fig1.gif)

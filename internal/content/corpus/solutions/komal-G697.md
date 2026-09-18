@@ -12,4 +12,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
 
  Ez az egyik megoldás, de a középpontból kiinduló (az ábrán bejelölt) 6 vonal közül bármelyik kettőt (szomszédosat vagy nem szomszédosat) is választhattuk volna.
 
-![solution figure](../../raw_html/komal_figures/komal-G697-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G697-sol-fig1.gif)

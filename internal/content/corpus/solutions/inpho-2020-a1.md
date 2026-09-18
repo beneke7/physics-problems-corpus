@@ -24,20 +24,20 @@ halved, while an intensive parameter remains unchanged. The internal energy and 
 entropy, both are extensive parameters. Thus α = 1/2, β = 1.
 (b) [2] The temperature T can be expressed in terms of the derivative of internal energy as
 T =
-
+
 dU
 dS
-
+
 V ,N
 where the subscripts indicate that the differentiation has been carried out keeping V and N
 constant. In a similar way, express pressure P in terms of a derivative of the internal energy.
 P =
 Solution:
 P = −
-
+
 dU
 dV
-
+
 S,N
 (c) [1] Find the equation of state of the given system relating P, T , and V .
 P =
@@ -99,7 +99,7 @@ Using equation of state,
 QAB =
 7C
 4
-
+
 V
 2
 3
@@ -107,7 +107,7 @@ B −V
 2
 3
 A
-
+
 T
 7
 6
@@ -126,7 +126,7 @@ WAB =
 2
 T7/6
 1
-
+
 V
 2
 3
@@ -134,7 +134,7 @@ B −V
 2
 3
 A
-
+
 Leg BC is isentropic/adiabatic ⇒ Q = 0 or S = constant. From first law,
 WBC = −∆U =
 aS7
@@ -167,10 +167,10 @@ Also, S = 7C
 WBC =
 a
 N2
-
+
 7C
 4
-7 
+ 7
 V
 2
 3
@@ -184,15 +184,15 @@ C T
 7
 6
 2
-
+
 (1.6)
 WBC =
 a
 N2
-
+
 7C
 4
-7
+ 7
 V
 2
 3

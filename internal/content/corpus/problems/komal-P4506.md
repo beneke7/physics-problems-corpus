@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A stationary electron and a positron, which travels at half of the speed of the light, collide. What is the frequency of the two photons which born after the annihilation, if they travel in the direction of the initial velocity of the positron? 
+A stationary electron and a positron, which travels at half of the speed of the light, collide. What is the frequency of the two photons which born after the annihilation, if they travel in the direction of the initial velocity of the positron?
  (4 pont)

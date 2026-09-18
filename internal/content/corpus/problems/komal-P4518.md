@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201303"
 verification_status: pending
 ---
 
-A ball of mass m bounces between two parallel walls, such that its velocity v is perpendicular to the walls.The collisions with the walls are totally elastic. What is the average force exerted by the ball on the walls, if the distance between the walls is  d ? 
+A ball of mass m bounces between two parallel walls, such that its velocity v is perpendicular to the walls.The collisions with the walls are totally elastic. What is the average force exerted by the ball on the walls, if the distance between the walls is  d ?
  (3 pont)

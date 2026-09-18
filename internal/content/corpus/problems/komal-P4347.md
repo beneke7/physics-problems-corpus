@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-What is the energy of the photon which can create a positron when it collides with an electron at rest? The rest mass of the electron (and the positron) is 510 keV. 
+What is the energy of the photon which can create a positron when it collides with an electron at rest? The rest mass of the electron (and the positron) is 510 keV.
  (6 pont)

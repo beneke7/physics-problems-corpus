@@ -30,7 +30,7 @@ Suppose that inside a room, the volume of air $V_{1}=20 \mathrm{~m}^{3}$ from in
 
 **2)** What is the temperature of the mixed air $T$?
 
-![figure](../../sources/nbpho/figures/nbpho-2006-drying-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-drying-fig1.png)
 
 **3)** The graph below shows the dependence of the saturated vapour density for water as a function of temperature. Before mixing, both the interior and exterior air had relative humidity $r_{0}=100\%$. What is the relative humidity $r$ of the mixed air (if it happens to increase, then assume that an oversaturated vapour with $r>100\%$ is formed)?
 

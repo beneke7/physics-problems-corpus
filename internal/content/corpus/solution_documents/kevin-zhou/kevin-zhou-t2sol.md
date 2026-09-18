@@ -47,7 +47,9 @@ if we heat at constant pressure, we get CP . In T1, we just made these distincti
 but this quickly gets confusing as you do more complex calculations. A more rigorous and
 powerful approach is to use partial derivatives, which explicitly specify what quantity is being
 held constant as another is changed.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Example 1
 Consider describing a plane with Cartesian coordinates (x,y) and polar coordinates (r,θ).
 Calculate the partial derivatives (∂x/∂r)|θ and (∂x/∂r)|y.
@@ -103,7 +105,9 @@ T =
 ∂U
 ∂V S
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Example 2: Change of Variable
 The same differential df can be described by coordinates x and y, and by x′ and y, so that
 df =
@@ -196,7 +200,9 @@ CV =
 ∂Q
 ∂T P
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Find a formula for CP − CV in terms of P, V , T, and the internal energy U.
 Solution
 To avoid confusion, we again note that the partial derivative notation above does not imply
@@ -234,11 +240,11 @@ By expanding both d̄Q and dU in the differentials dV and dT, we read off
 The first result just tells us that CV can be equivalently defined as (∂U/∂T)|V . As for the
 second result, plugging it in gives an answer of
 CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 .
@@ -261,13 +267,15 @@ an2
 V
 .
 Explain qualitatively why the change in energy is proportional to n2/V .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (c) We will show in problem 4 that this modifies the equation of state to
-
+
 P +
 an2
 V 2
-
+
 V = nRT.
 Using these results, show that to first order in a, we have
 CV =
@@ -286,11 +294,11 @@ CV =
 3
 2
 nR, CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 = P
@@ -309,32 +317,32 @@ with a phase transition to a liquid or solid state, and will be discussed furthe
 we’re just concerned with the case of weak interactions.
 (c) The first result follows directly from the definition of the heat capacity. Next,
 CP − CV =
-
+
 ∂U
 ∂V T
 + P
-
+
 ∂V
 ∂T P
 =
-
+
 P +
 an2
 V 2
-
+
 ∂V
 ∂T P
 .
 To get ∂V/∂T|P , differentiate the equation of state with respect to T at constant P,
 nR =
-
+
 P +
 an2
 V 2
 −
 2an2
 V 2
-
+
 ∂V
 ∂T P
 .
@@ -355,7 +363,9 @@ If we take two distinct partial derivatives of a state function f, then the orde
 .
 If this identity doesn’t hold, it means that f is not actually a state function. Imposing this
 requirement for various choices of independent variables x and y yields a variety of nontrivial
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 identities, collectively called Maxwell relations.
 [3] Problem 3. [A] Let’s check the consequences of this idea.
 (a) We should be able to take the partial derivatives of U with respect to S or V in either order.
@@ -392,10 +402,10 @@ To evaluate the right-hand side, note that for constant volume heating, dU = d̄
 ∂P
 ∂U V
 = T
-
+
 ∂U
 ∂P V
-−1
+ −1
 .
 But for an ideal gas, we have U = nRT/(γ − 1) = PV/(γ − 1), so
 ∂P
@@ -416,10 +426,10 @@ and the required identity, if heat were a state function, is
 =
 ∂
 ∂T V
-
+
 ∂Q
 ∂V T
-
+
 .
 The left-hand side just vanishes for an ideal gas. As for the right hand side, we note that
 ∂Q
@@ -434,7 +444,9 @@ The left-hand side just vanishes for an ideal gas. As for the right hand side, w
 ∂W
 ∂V T
 = P
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 where we used the fact that the internal energy of an ideal gas depends only on temperature.
 Thus, the right-hand side is
 ∂P
@@ -511,7 +523,9 @@ T
 an2
 V 2
 .
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (c) If we separate the variables, at constant V , then we have
 dP
 P + an2/V 2
@@ -554,7 +568,9 @@ Example 4: Mixing Entropy
 A container of volume V is divided in half by a partition. The two halves contain pure
 nitrogen and oxygen gas, respectively, both at pressure P and temperature T. The partition
 is removed and the gases are allowed to mix. How much does the entropy increase?
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 We cannot apply the formula dS = d̄Q/T, because the gas is not in equilibrium during
 the process. However, because entropy is a state function, we can calculate its change by
@@ -603,7 +619,9 @@ TC
 QH
 TH
 .
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Setting this to zero gives QC/TC = QH/TH. The efficiency is then
 η =
 W
@@ -651,7 +669,9 @@ as a disk of dust; the end result was the formation of the Sun and planets, with
 rest of the dust blown away.
 (c) By the second law, heat should leave the negative temperature system and go into the positive
 temperature system, that way dS = d̄Q/T is positive for both systems. Thus the negative
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 temperature system will get more negative, and the positive temperature system will get
 hotter. This will continue until the negative temperature system goes back to a positive
 temperature (and the temperatures meet at equilibrium), as seen by moving to the left on
@@ -689,7 +709,9 @@ it only can determine changes in entropy.
 (d) Now consider the case where the ideal gas is allowed to freely expand into a vacuum, reaching
 a final volume V ′. This is an example of a nonequilibrium process that changes the entropy,
 despite no work or heat transfer. Find the resulting change in entropy.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (e) So far, we don’t know anything about how S depends on n, because we only considered
 processes that kept n constant. However, the entropy should be extensive, meaning that if the
 pressure and temperature are kept the same, then S is proportional to n. Thus, if in general
@@ -742,27 +764,27 @@ as desired.
 (d) Since no work or heat transfer occurred, the internal energy must stay the same. Thus the
 temperature stayed the same. Using our previously obtained result, we get
 ∆S = nCV log
-
+
 TV ′γ−1
 TV γ−1
-
+
 = nRlog
-
+
 V ′
 V
-
+
 .
 This can also be found by considering an isothermal process to get to the final state and
 finding the entropy change using dS = dQ/T. Since entropy is a state function, the final
 changes in entropy are equivalent.
 (e) Use the ideal gas law to substitute V = nRT/P, giving
 S/n = CV log
-
+
 P
 nγRγTγ
 Pγ
 f(n)
-
+
 + constant.
 For constant P and T, the argument of the logarithm is independent of n when
 f(n) = n−γ
@@ -770,13 +792,15 @@ f(n) = n−γ
 The resulting general expression for the entropy of an ideal gas, up to the remaining constant
 (which can’t be found without using quantum statistical mechanics) is called the Sackur–
 Tetrode equation.
-[3] Problem 10.  W 1 0USAPhO 2014, problem A2.
-[3] Problem 11.  W 1 0USAPhO 2017, problem A2. A simple but tricky problem. (For a more involved
+[3] Problem 10.   W 1 0USAPhO 2014, problem A2.
+[3] Problem 11.   W 1 0USAPhO 2017, problem A2. A simple but tricky problem. (For a more involved
 problem based on the same fundamental idea, see Physics Cup 2019, problem 2.)
-[3] Problem 12.  ^ 1 0USAPhO 2020, problem B3. An advanced problem which shows you how to
+[3] Problem 12.   ^ 1 0USAPhO 2020, problem B3. An advanced problem which shows you how to
 compute corrections for a slightly nonideal gas. (Note that you can use the quantity T in any of
 the parts, not just (e) and (f).)
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 3 Quantum Statistical Mechanics and the Third Law
 So far, everything we have discussed only tells us about changes in entropy, while the absolute value
 is undetermined. This is fixed by the following fact.
@@ -821,7 +845,9 @@ Remark
 The assumption that all states are equally likely may sound a bit confusing, because in T1
 we used the Boltzmann distribution, which stated that higher-energy states were less likely to
 be occupied. The difference is that for the Boltzmann distribution, we assumed the system
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 was inside an environment at temperature T. In fact, all quantum states of the system and
 environment together remain equally likely in this context, but lower-energy states of the
 system correspond to more energy in the environment, and hence (usually) more possible
@@ -846,7 +872,9 @@ When a substance is dissolved in one half of the tube, forming N ions, the water
 that side is observed to go up, as shown.
 Explain why, and calculate the height difference, neglecting interactions between different
 ions, and between the ions and the water.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Osmotic pressure is an example of an entropic force. Suppose the water level on one side of
 the tube goes up. The water is otherwise unchanged, since it’s just translated along the tube,
@@ -889,7 +917,9 @@ chemistry class, but in rather different notation. In chemistry textbooks, you�
 Π = iMRT
 where Π is the osmotic pressure, M is the molarity of solute, and the van ’t Hoff factor i is
 the number of moles of ions per mole of solute. This is perfectly equivalent to what we found.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Why does the expression for osmotic pressure bear a suspicious resemblance to the ideal
 gas law? The reason is that, by completely neglecting interactions between the solute and
@@ -914,14 +944,14 @@ excited state with energy E0. Suppose it is only known that the total energy of 
 (a) In P1, we discussed Stirling’s approximation: for large N, logN! ≈ N logN − N. Using this
 result, show that the entropy of the system is
 S = NkB
-
+
 αlog
 1
 α
 + (1 − α)log
 1
 1 − α
-
+
 .
 Sketch the entropy as a function of α.
 (b) Using the definition of temperature, dS = d̄Q/T, show that the system has a temperature of
@@ -938,21 +968,23 @@ get α = 1/2? How about α = 1?
 as before. Show that the probability it is excited obeys the Boltzmann distribution.
 Solution. (a) We see that Ω = N
 αN
-
+
 = N!
 (αN)!((1−α)N)!, so
 logΩ ≈ N logN − αN log(αN) − (1 − α)N log((1 − α)N).
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Expanding the logarithms and simplifying, we get
 S = kB logΩ = NkB
-
+
 αlog
 1
 α
 + (1 − α)log
 1
 1 − α
-
+
 .
 (b) We see that d̄Q = NE0 dα, and
 dS = NkB (log(1 − α) − logα)dα.
@@ -993,7 +1025,9 @@ e−E0/kBT
 1 − α
 .
 This is equivalent to the expression for T we found in part (b), as desired.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 [5] Problem 15. This long problem illustrates some important features of free energy. A rubber
 molecule can be modeled in one dimension as a chain consisting of a series of N = N+ + N− ≫ 1
 links of length a, where N+ point in the +z direction and N− point in the −z direction. The
@@ -1002,11 +1036,11 @@ all configurations are equally likely at any temperature. Define L = (N− − N
 downward extension of the chain.
 (a) Using the approximation mentioned in problem 14 and assuming L ≪ Na, show that
 S = NkB
-
+
 log2 −
 L2
 2N2a2
-
+
 and hence show that the entropy decreases as L increases. This model is very basic; for
 instance, it tells us nothing about the tension in the chain, but the sign here is correct. (Hint:
 notice that the changes in entropy are of order L2/N, and hence are very small. You will have
@@ -1048,14 +1082,16 @@ S = N logN − N+ logN+ − N− logN−
 1
 2
 (N − L)log(N − L).
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 To simplify further, we write the logarithms as
 log(N ± L) = logN + log
-
+
 1 ±
 L
 N
-
+
 .
 Plugging this in and defining x = L/N gives
 S = N log2 −
@@ -1079,11 +1115,11 @@ S = N log2 −
 Nx2
 2
 = NkB
-
+
 log2 −
 L2
 2N2a2
-
+
 as desired.
 (b) Since the process is fast, it is adiabatic, so the entropy of the entire rubber band stays the
 same. But we have shown the entropy of the chain configuration degrees of freedom (i.e. ones
@@ -1106,7 +1142,9 @@ turns into thermal energy in the room. When the rubber band’s temperature retu
 original value, its total energy is the same as before you stretched it. If you put this rubber
 band in an acid bath, the acid’s final temperature will be the same regardless of how the band
 was stretched, because the energy you put in has already left.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (c) It’s easiest to look at each link individually. The energy of the +z configuration now is 2mga
 greater than the −z configuration, so the ratio of their probabilities is α = e−2mga/kBT . Then
 the probability of ±z is
@@ -1160,11 +1198,11 @@ kBT
 .
 On the other hand, we have
 F = −mgL − NkBT
-
+
 log2 −
 L2
 2N2a2
-
+
 and we have
 ∂F
 ∂L
@@ -1176,7 +1214,9 @@ L =
 mgNa2
 kBT
 as expected.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: Heat vs. Work
 What is the difference between work and heat? If we have a gas in a cylinder with a piston,
 moving the piston counts as work. Clearly, if we split the piston into two halves and moved
@@ -1214,7 +1254,9 @@ state. In this case, the entropy doesn’t change at all when you allow the gase
 What this example shows is that you don’t have to know everything about a system to use
 thermodynamics. Even if you are wrong about how the system behaves microscopically, you
 can still use the theory to describe what you can do with the system, using your knowledge.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 That’s the core reason for the longevity of thermodynamics. As a recent paper put it:
 If physical theories were people, thermodynamics would be the village witch. Over
 the course of three centuries, she smiled quietly as other theories rose and withered,
@@ -1263,10 +1305,10 @@ ehf/kBT − 1
 kBT
 h
 d
-
+
 hf
 kBT
-
+
 .
 Let x ≡ hf/kBT. Then we get
 J =
@@ -1277,7 +1319,9 @@ Z ∞
 x3dx
 ex − 1
 The integral will evaluate to a dimensionless constant, so we conclude J ∝ T4.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (b) As in part (a), note that we can write I(f) in the form
 I(f) = (constants independent of f) ×
 x3
@@ -1320,7 +1364,9 @@ through in one direction. Such a filterwould act like Maxwell’s demons forphot
 one to divide a room full of photons, it would start directing photons of certain frequencies to
 one side or the other, decreasing the entropy. So thermodynamics also forbids the existence
 of one-way filters; again, microscopically this is a result of time reversal symmetry.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Example 9
 A satellite contains a nuclear reactor at its core, fixed at temperature TH. Suppose the
 exterior of the satellite is somehow fixed at temperature TC, and the satellite runs an ideal
@@ -1340,11 +1386,11 @@ Ẇ = ηQ̇in = η
 TH
 TC
 Q̇out ∝
-
+
 1 −
 TC
 TH
-
+
 TH
 TC
 T4
@@ -1376,7 +1422,9 @@ R of Earth’s orbit.
 (b) How does the answer change if the satellite has a uniform emissivity e(f) = e0 < 1?
 (c) If an engineer wishes to make T as small as possible using a special paint, which can have an
 arbitrary e(f), sketch how the function e(f) should look.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The power going into the satellite is
 P =
 σ(4πR2
@@ -1413,7 +1461,9 @@ Now suppose that N parallel, thermally insulating, perfectly black plates are pl
 them. This shielding reduces the heat flux to P′. Find P′/P.
 Solution. The answer is 1/(N + 1). The official solution to IPhO 1996, problem 1(d) does the
 N = 2 case, and the same method works for general N.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Example 10
 In problem 19 you considered some ideally black surfaces, but things get more complicated
 when the surfaces have general emissivity. For simplicity, consider two walls facing each other,
@@ -1454,16 +1504,18 @@ Let’s suppose the sphere itself is also at temperature T. Then it sends power 
 to the walls, since all radiation that exits the sphere hits the walls. But if the sphere and
 walls are at the same temperature, a temperature difference cannot spontaneously appear.
 Therefore, the power going from the walls to the sphere must also be (4πr2)σT4. And
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 since this quantity can also be expressed as a geometric integral, it can’t depend on the
 temperature of the sphere, so it must be true for any sphere temperature.
 This is a neat idea worth followups. First, if we had a more general shape than a sphere,
 when would the reasoning above still work? Second, for a tough problem which uses a variant
 of this idea, see NBPhO 2010, problem 2. An improved solution due to Stefan Ivanov is
 available here.
-[2] Problem 20.  W 1 0USAPhO 2011, problem A3.
-[3] Problem 21.  m 1 0USAPhO 2006, problem B2. The graphs are hard to read, but do your best!
-[3] Problem 22.  ^ 1 0USAPhO 2019, problem A2. An elegant, tricky radiation problem. (This is
+[2] Problem 20.   W 1 0USAPhO 2011, problem A3.
+[3] Problem 21.   m 1 0USAPhO 2006, problem B2. The graphs are hard to read, but do your best!
+[3] Problem 22.   ^ 1 0USAPhO 2019, problem A2. An elegant, tricky radiation problem. (This is
 essentially the same problem as Physics Cup 2022, problem 5.)
 [3] Problem 23. Planck’s law can be used to understand atomic physics, as Einstein showed and as
 you will now show. Suppose we have a collection of two-state atoms encased inside a cavity, whose
@@ -1493,7 +1545,9 @@ I(f) refers to the intensity of radiation escaping the blackbody if there were a
 reason these are proportional is that all electromagnetic radiation travels at the same speed;
 hence light of all frequencies will escape a blackbody at the same rate. (Note that this would
 not be true for an ideal gas, where higher-energy particles would escape at a higher rate.)
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Adding up the contributions from the three processes,
 dN2
 dt
@@ -1539,7 +1593,9 @@ why the pressure depends only on the temperature. (Harder, optional task: explai
 P ∝ T4 starting from Planck’s law.)
 (b) Our next goal is to compute U(T,V ). Consider an infinitesimal Carnot cycle, shown below.
 By equating the efficiency of this cycle to the Carnot efficiency, find (∂U/∂V )|T .
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 (c) By integrating this result, and using U(T,0) = 0, find U(T,V ).
 (d) We can now use these results to find S(T,V ), just as we did for an ideal gas in problem 9,
 i.e. by considering the change of entropy during some infinitesimal process and then integrating
@@ -1554,16 +1610,16 @@ to momentum, p = E/c, and changes in momentum directly correspond to pressures b
 usual kinetic theory argument. So when photons bounce off the inside walls of a blackbody,
 they impart pressure P ∝ σT4.
 (b) First, using the chain rule we have
-
+
 ∂U
 ∂V
-
+
 T
 =
-
+
 ∂Q
 ∂V
-
+
 T
 − P.
 That is, we need to compute (∂Q/∂V )|T , the rate at which heat is absorbed along an isotherm.
@@ -1587,10 +1643,10 @@ dT
 T = 4AT4
 dV.
 Combining this with the result above gives
-
+
 ∂U
 ∂V
-
+
 T
 = 4AT4
 − P = 3AT4
@@ -1610,7 +1666,9 @@ dV
 and integrating gives
 S = 4AT3
 V + f(T)
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 where the unknown integration constant is any function of temperature. The third law of
 thermodynamics is satisfied precisely when f(T) = 0. (The fact that it can be satisfied is
 expected, since it is a quantum mechanical law and we are working with photons, the quanta
@@ -1658,7 +1716,9 @@ By considering the net heat flowing in and out of a slab of width dx, we have
 where u is the energy density. Intuitively, this shows how heat conduction works to smooth
 out temperature gradients. For example, if the temperature had a local minimum, then
 ∂u/∂t would be positive at that point, as heat flows in from all directions.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 Example 12
 Find the steady state heat flow through a rectangular slab of area A and thickness d, whose
 left and right ends are held at temperature T and T + ∆T.
@@ -1701,7 +1761,9 @@ Solution. The thermal gradient dT/dr is of the order ∆T/R ∝ 1/R, where R is 
 the object. The heat flux into the egg is proportional to AdT/dr ∝ R2(1/R) = R. But the heat
 capacity of the egg scales as R3. Thus, the time scales as R3/R = R2, and hence it takes about 45
 minutes to boil an ostrich egg. (This can also be shown by dimensional analysis.)
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 27 (Cahn). A deep swimming pool is initially filled with water of depth D = 0.5m with
 uniform temperature 0◦C, during a cold winter where the air temperature is a constant T0 ≈ −10◦C.
 The ice has thermal conductivity κ = 2.2W/mK, and latent heat of fusion L = 3.4×105 J/kg. The
@@ -1772,7 +1834,9 @@ R2 − R1
 .
 Now that we know T(r), we can evaluate dT/dr at any radius to find the total power, using
 the first equation. Another slicker way, which doesn’t even require knowing T(r), is to
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 integrate the first equation all the way from the inside of the oven to the outside,
 Z T2
 T1
@@ -1819,7 +1883,7 @@ which grows rapidly with R.
 As an application, farmers have to worry about hay bales spontaneously catching on fire. That’s
 because q is small but nonzero, due to bacteria feeding on the hay and producing heat, and R can
 be very large.
-[3] Problem 29.  W 1 0USAPhO 2016, problem A4. A practical conduction question.
-[3] Problem 30.  W 1 0USAPhO 2013, problem A1. An elegant conduction question.
+[3] Problem 29.   W 1 0USAPhO 2016, problem A4. A practical conduction question.
+[3] Problem 30.   W 1 0USAPhO 2013, problem A1. An elegant conduction question.
 [4] Problem 31. @ 1 0EuPhO 2023, problem 1. A cute problem on thermal lensing.
 33

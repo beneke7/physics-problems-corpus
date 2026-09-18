@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A photon rocket is an imaginary rocket whose engine converts fuel into photons, which are then ejected into one direction parallel to each other. During a long-duration space mission, the rocket, starting from rest and moving in a straight path, accelerates to some speed, then with its engine running in the opposite direction, it brakes to a stop at the end of its journey. During this time, the mass of the rocket is reduced to one-quarter of its original value. What was the maximum speed of the rocket? 
+A photon rocket is an imaginary rocket whose engine converts fuel into photons, which are then ejected into one direction parallel to each other. During a long-duration space mission, the rocket, starting from rest and moving in a straight path, accelerates to some speed, then with its engine running in the opposite direction, it brakes to a stop at the end of its journey. During this time, the mass of the rocket is reduced to one-quarter of its original value. What was the maximum speed of the rocket?
  (6 pont)

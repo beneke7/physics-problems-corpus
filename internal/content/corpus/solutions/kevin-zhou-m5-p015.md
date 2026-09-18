@@ -82,12 +82,12 @@ Z ∞
 0
 e
 −
-
+
 ±−1+i √
 2
 √
 ct
-2
+ 2
 dt = ±
 √
 π
@@ -132,11 +132,11 @@ mL2
 +
 1
 2
-
+
 1
 3
 mL2
-
+
 θ̇2
 =
 2
@@ -198,10 +198,10 @@ L =
 mL2
 θ̇2
 − m
-
+
 3g
 4
-
+
 Lcosθ.
 However, this is simply the Lagrangian for a mass m sliding on a frictionless hemisphere in gravity
 3g/4. This is a classic, simple problem, and we know in that case that the normal force with the
@@ -260,8 +260,8 @@ giving a slightly more complicated expression. At the boundaries between these t
 the ratio TB/TR jumps discontinuously.
 The next two problems require careful thought, and test your understanding of the multiple ways
 to describe rotational kinematics and dynamics. It will be useful to review idea 1.
-[3] Problem 17.  m 1 0USAPhO 1999, problem B1.
-[3] Problem 18.  ^ 1 0USAPhO 2019, problem B3. It’s worth reading the solution carefully afterward.
+[3] Problem 17.   m 1 0USAPhO 1999, problem B1.
+[3] Problem 18.   ^ 1 0USAPhO 2019, problem B3. It’s worth reading the solution carefully afterward.
 4 Rotational Collisions
 Idea 7: Angular Impulse
 During a collision with impulse J, the angular momentum changes by the “angular impulse”
@@ -276,11 +276,11 @@ v0 ≥
 r
 10gh
 7
-
+
 1 −
 5h
 7R
-−1
+ −1
 .
 (b) Energy is lost to heat by the inelastic collision of the ball with the step. In the limit of small
 h, how much heat is produced?
@@ -302,13 +302,13 @@ Rω =
 β + 1 − h/R
 β + 1
 v0 =
-
+
 1 −
 1
 β + 1
 h
 R
-
+
 v0.
 18
 Kevin Zhou Physics Olympiad Handouts
@@ -322,13 +322,13 @@ will make it to the top is if its kinetic energy is at least mgh. Therefore,
 1
 2
 (β + 1)
-
+
 1 −
 1
 β + 1
 h
 R
-2
+ 2
 v2
 0 ≥ gh.
 Simplifying gives the desired answer.
@@ -336,13 +336,13 @@ Simplifying gives the desired answer.
 2(1+β)mv2
 0. We can use the previously found equation
 vf = Rω =
-
+
 1 −
 1
 β + 1
 h
 R
-
+
 v0,
 which helps us find the kinetic energy immediately after the inelastic collision 1
 2(1 + β)mv2
@@ -358,13 +358,13 @@ f) =
 2
 (1 + β)mv2
 0 1 −
-
+
 1 −
 1
 1 + β
 h
 R
-2
+ 2
 !
 .
 Using the binomial approximation, we conclude
@@ -373,10 +373,10 @@ Using the binomial approximation, we conclude
 2
 (1 + β)mv2
 0
-
+
 2h
 (1 + β)R
-
+
 =
 mv2
 0h
@@ -470,8 +470,8 @@ Once both rods rotate 180◦, they collide again. By using the reasoning of the 
 reverse, the rods simply lose their angular velocity and regain their original translational velocities.
 Therefore, the final result is that both rods translate uniformly, as if they passed right through each
 other, but both rods are flipped upside down.
-[3] Problem 22.  m 1 0USAPhO 2014, problem B1.
-[3] Problem 23.  m 1 0EuPhO 2024, problem 1. A nice exercise on the process of a rotational collision.
+[3] Problem 22.   m 1 0USAPhO 2014, problem B1.
+[3] Problem 23.   m 1 0EuPhO 2024, problem 1. A nice exercise on the process of a rotational collision.
 [4] Problem 24. @ 1 0EuPhO 2018, problem 1. An elegant rotation problem.
 20
 Kevin Zhou Physics Olympiad Handouts

@@ -32,11 +32,11 @@ szöget zár be: dsinα (lásd a 4. ábrát). Ha dsinα = λ/2, akkor az egymás
 fázisban találkoznak az erny®n. Ha a rések egyenl® szélesség¶ek (a = b), akkor a hullámok páronként kioltják egymást.
 Ha a > b, akkor az ered® intenzitás
 I ∼
-
+
 N
 2
 (a − b)
-2
+ 2
 .
 Ez nem sak akkor következik be, ha dsinα = λ/2, hanem minden olyan esetben, amikor
 dsinα = (2k + 1)
@@ -50,16 +50,16 @@ dsinα = 2k
 = kλ, (k = 0, ±1, ±2, ...)
 akkor valamennyi résb®l érkez® hullám azonos fázisban találkozik az erny®n. Ekkor az ered® intenzitás:
 I ∼
-
+
 N
 2
 (a + b)
-2
+ 2
 .
 Ábrázoljuk az erny®n látható elhajlási kép intenzitását az elhajlási irányt jellemz® sinα függvényében (5. ábra)!
 (Ki siny elhajlási szögeknél sinα arányos az erny®n ténylegesen meg
 gyelhet® eltérülési távolsággal.) Minthogy a is
-és b is sokkal kisebb d-nél, N viszont általában elég nagy szám, az elhajlási képben sak a f®maximumok intenzitása
+és b is sokkal kisebb d-nél, N viszont általában elég nagy szám, az elhajlási képben sak a  f®maximumok  intenzitása
 lesz észrevehet®. (Belátható, hogy ha a fentebb tárgyalt esetek egyike sem teljesül, vagyis az egymás melletti résekb®l
 érkez® fényhullámok útkülönbsége nem egész számú többszöröse a félhullámhossznak, akkor a sok-sok helyr®l érkez®
 hullám saknem teljesen kioltja egymást.)
@@ -71,9 +71,9 @@ a rések szélessége a rések távolságához képest.
 Ábrázoljuk még a kérdezett két spe iális esetet! Ha a ≈ b, akkor a 6. ábrán látható intenzitás-eloszlást, ha pedig
 a ≪ b, akkor a 7. ábrán bemutatott intenzitás-eloszlást kapjuk.
 Megjegyzés. Erre a feladatra nem született hibátlan megoldás, elég jó megoldást adott három versenyz®. Többen
-megsejtették, hogy az elhajlási képen fényesebb és halványabb vonalak váltakozva követik egymást, de ezt  tévesen
- a szélesebb és keskenyebb réseken átjutó fény er®sségének különböz®ségével, mégpedig a fényer®-arány valamiféle
-leképz®désével magyarázták. Pedig a keskeny és a széles résb®l jöv® fény intenzitásának aránya (b/a)
+megsejtették, hogy az elhajlási képen fényesebb és halványabb vonalak váltakozva követik egymást, de ezt   tévesen
+  a szélesebb és keskenyebb réseken átjutó fény er®sségének különböz®ségével, mégpedig a fényer®-arány valamiféle
+ leképz®désével  magyarázták. Pedig a keskeny és a széles résb®l jöv® fény intenzitásának aránya (b/a)
 2
 , míg az erny®n
 a halvány és a fényes vonalak intenzitásának aránya (a − b)2
@@ -87,14 +87,14 @@ Els® díjat (és 12 ezer Ft jutalmat) kapott: Buruzs Ádám, a Budapesti M¶sza
 mérnök-
 zikus hallgatója, aki a szegedi Radnóti Miklós Gimnáziumban érettségizett mint Mike János és Hilbert Margit
 tanítványa.
-Második díjat (és 66 ezer Ft jutalmat) kaptak: Pozsgay Balázs, a pé si Magyar-német Nyelv¶ Iskolaközpont 12.
+Második díjat (és 6 6 ezer Ft jutalmat) kaptak: Pozsgay Balázs, a pé si Magyar-német Nyelv¶ Iskolaközpont 12.
 osztályos tanulója, Kotek László tanítványa és Siroki László, a debre eni Fazekas Mihály Gimnázium 11. osztályos
 tanulója, Adorján László és Szegedi Ervin tanítványa.
-Harmadik díjat (és 44 ezer Ft jutalmat) kaptak: Béky Ben e, a Fazekas Mihály F®városi Gyakorló Gimnázium
-11. osztályos tanulója, Horváth Gábor tanítványa; Gáspár Merse El®d, az Eötvös Loránd Tudományegyetem 
+Harmadik díjat (és 4 4 ezer Ft jutalmat) kaptak: Béky Ben e, a Fazekas Mihály F®városi Gyakorló Gimnázium
+11. osztályos tanulója, Horváth Gábor tanítványa; Gáspár Merse El®d, az Eötvös Loránd Tudományegyetem
 zikus
 hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa; He-
-ged¶s Ákos, az Eötvös Loránd Tudományegyetem 
+ged¶s Ákos, az Eötvös Loránd Tudományegyetem
 zikus hallgatója, aki a pé si iszter i Nagy Lajos Gimnáziumban
 érettségizett mint Orovi a Márkné és Kotek László tanítványa; Máthé András, az Eötvös Loránd Tudományegyetem
 matematikus hallgatója, aki az ELTE Apá zai Csere János Gyakorló Gimnáziumban érettségizett mint Flórik György
@@ -118,20 +118,20 @@ ezel®tt.
 sei. Juvan z Ireneusz kés®bb Szilárd Leónak tanította a matematikát a VI. kerületi F®reálban, majd rövid ideig a
 Mintagimnázium igazgatója is volt. A Szmodi s saládból 1900-ban Kázmér, két év múlva Hildegárd iratkozott fel a
 nyertesek közé.
-1925-ben már külön matematikai és külön 
+1925-ben már külön matematikai és külön
 zikai versenyt hirdetett meg az Eötvös Loránd Matematikai és Fizikai
-Társulat. Mindkett®ben els® helyezett lett az akkor 17 éves Teller Ede; matematikából hármas holtversenyben, 
+Társulat. Mindkett®ben els® helyezett lett az akkor 17 éves Teller Ede; matematikából hármas holtversenyben,
 zikából
 egyedül lett els®. Tudjuk, hogy milyen szeretettel és nosztalgiával emlékszik vissza erre a ma 90-es éveiben járó id®s
 tudós.
 1950-ben, a matematikusoktól különvált Eötvös Loránd Fizikai Társulat rendezésében lebonyolított versenyt Mráz
-(Zimányi) József és Rozványi Iván nyerte meg holtversenyben, természetesen mindketten 
+(Zimányi) József és Rozványi Iván nyerte meg holtversenyben, természetesen mindketten
 zikusok lettek.
 1975-ben a Versenybizottság nem adott ki els® díjat. A második díjon ketten osztoztak: Szép Jen®, aki ma az
 ELTE Szilárdtest
 zikai tanszékén dolgozik és Zimányi Gergely, aki jelenleg az Egyesült Államokban kutatja és tanítja a
 
-zikát. A névazonosság nem véletlen: Gergely Zimányi József 
+zikát. A névazonosság nem véletlen: Gergely Zimányi József
 a. A díjkiosztó ünnepségen mindkett®jük képviseletében
 megjelent Zimányi Józsefnét a résztvev®k tapsa köszöntötte.
 A 2000. évi Eötvös-verseny nyertesei (ld. a 8. ábrát )
@@ -140,9 +140,9 @@ Második sor: Gáspár Merse El®d, S hmidt András, Pápai Tivadar, Béky Ben e
 Harmadik sor: Heged¶s Zoltán Csaba, Pápai Péter, Patay Gergely, Csillag Kristóf Béla.
 Ezután került sor az idei feladatok megoldásának ismertetésére és diszkussziójára. Az els® feladathoz kap solódóan
 Gnädig Péter mutatott be érdekes kísérleteket a még sak általános iskolás Sükösd Attila aktív közrem¶ködésével. (At-
-tila 
+tila
 zikus édesanyja biztosította a kísérlethez szükséges eszközöket.) A második feladat megoldásának bemutatására
-a Versenybizottság elnöke váratlanul három versenyz®t hívott ki a táblához. k a hallgatóság számára is meggy®z®en,
+a Versenybizottság elnöke váratlanul három versenyz®t hívott ki a táblához.  k a hallgatóság számára is meggy®z®en,
 egymást kiegészítve ismertették saját megoldásaikat. Csak a díjkiosztásnál derült ki kés®bb, hogy ®k lettek az idei
 verseny els® három helyezettje. A harmadik feladat megoldását újra a Versenybizottság elnöke mutatta be, aki ezután
 a Társulat alelnökeként ünnepélyesen kiosztotta a 2000. évi Eötvös-verseny díjait és a di séreteket.

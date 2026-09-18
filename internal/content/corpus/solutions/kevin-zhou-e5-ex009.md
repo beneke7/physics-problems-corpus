@@ -143,7 +143,7 @@ this point, if we still had Br = B0βr, then the upward magnetic force would be 
 just enough to balance gravity. But as the ring goes further inside, the magnetic field spreads
 out less radially, so Br is actually lower. Therefore, the upward magnetic force is always less
 than mg! The ring doesn’t actually oscillate; it just falls faster and faster downward.
-[4] Problem 26.  m 1 0IPhO 2012, problem 1C. A neat and clean problem about superconductors.
+[4] Problem 26.   m 1 0IPhO 2012, problem 1C. A neat and clean problem about superconductors.
 [4] Problem 27. @ 1 0EuPhO 2017, problem 3.
 Solution. See the official solutions as usual. In retrospect, the basic idea behind this problem was
 introduced back in E2.
@@ -202,7 +202,7 @@ k/m ∼ m1/4
 .
 Therefore the new frequency is f0(1 + M/m)1/4. The fact that we didn’t need to know any of the
 constants involved to get this scaling is a nice property of power-law potentials.
-[5] Problem 29.  h 1 0IPhO 1994, problem 2. This problem tests your intuition for induction, and is
+[5] Problem 29.   h 1 0IPhO 1994, problem 2. This problem tests your intuition for induction, and is
 good preparation for E6.
 Remark
 In E4, we spent a lot of time applying F = ma to charges. But in this problem set, we

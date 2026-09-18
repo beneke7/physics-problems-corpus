@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, extremization]
 ---
 
-We rub a small object with a light file in a horizontal plane. The line of action of the sum of the forces exerted by our two hands passes through the centre of the filed surface of the object, and this line of action makes an angle of $30^\circ$ with the vertical. What is the coefficient of friction between the file and the object? 
+We rub a small object with a light file in a horizontal plane. The line of action of the sum of the forces exerted by our two hands passes through the centre of the filed surface of the object, and this line of action makes an angle of $30^\circ$ with the vertical. What is the coefficient of friction between the file and the object?
  (3 pont)

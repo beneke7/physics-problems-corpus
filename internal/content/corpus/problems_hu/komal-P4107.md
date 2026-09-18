@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4107. Vízszintes asztalon nyugvó M  tömegű, R  sugarú félgömbhéj aljáról lassan kimászik egy kisméretű, m tömegű bogár. Mennyi munkát végez, amíg a félgömbhéj pereméig ér? (A bogár és a félgömbhéj közötti tapadási súrlódási tényező elég nagy. A félgömbhéj tömegközéppontja kezdetben R /2 magasan van az asztal felett.) 
+P. 4107. Vízszintes asztalon nyugvó M  tömegű, R  sugarú félgömbhéj aljáról lassan kimászik egy kisméretű, m tömegű bogár. Mennyi munkát végez, amíg a félgömbhéj pereméig ér? (A bogár és a félgömbhéj közötti tapadási súrlódási tényező elég nagy. A félgömbhéj tömegközéppontja kezdetben R /2 magasan van az asztal felett.)
 
  Varga István
 
-![figure](../../raw_html/komal_figures/komal-P4107-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4107-fig1.gif)

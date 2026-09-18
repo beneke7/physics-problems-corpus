@@ -25,7 +25,7 @@ techniques: [differential-element, graphical-reduction]
 
 ## Problem 3 Metamaterials (10 points)
 
-![](izho-2014-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2014-t-q3-fig01.png)
 
 Metamaterials are composite materials whose properties are due not so much to the properties of its constituent elements but due to artificially tailored periodic structures. Metamaterials are synthesized in modern nanolaboratories by implantation different periodic structures with a variety of geometric shapes into the original natural material, which substantially modifies its physical properties. In a very rough approximation, those implants can be treated as artificially made atoms of extremely large size immersed into the original material. While synthesizing the metamaterial Ddveloper has the opportunity of varying various free parameters (structure sizes and constant or varying period between them, etc.).
 

@@ -31,7 +31,9 @@ perfect sphere, at any moment, in any other frame S.
                                                        1 + (v/c) cos θ0
 
                                                        4
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
           In the nonrelativistic limit v/c → 0, this isn’t a surprising result. It’s essentially the reason

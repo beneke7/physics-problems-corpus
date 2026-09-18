@@ -236,11 +236,11 @@ MR2
 2
 Ωẑ = MR2
 Ω
-
+
 3
 2
 ẑ − ŷ
-
+
 .
 [2] Problem 4 (KK 7.4). In an old-fashioned rolling mill, grain is ground by a disk-shaped millstone
 which rolls in a circle on a flat surface driven by a heavy vertical shaft. Because of the stone’s
@@ -272,19 +272,19 @@ precesses with angular velocity Ωẑ, so
 RΩ
 b
 Ω
-
+
 1
 2
 Mb2
-
+
 .
 Setting this equal to our other expression for torque and solving gives
 N = Mg
-
+
 1 +
 bΩ2
 2g
-
+
 .
 This is greater than Mg, so the vertical shaft exerts a downward force on the horizontal rod.
 Idea 4: Precession
@@ -547,7 +547,7 @@ tanϕ =
 .
 (b) Now we will do the calculations above without b ≪ R. The torque is
 τ = Ω
-
+
 1
 2
 Mb2
@@ -556,7 +556,7 @@ Mb2
 4
 Mb2
 Ωcosϕsinϕ
-
+
 = Mgbsinϕ −
 Mv2b
 R − bsinϕ
@@ -656,7 +656,7 @@ bivectors at all for three-dimensional problems.
 On the other hand, when you work in higher-dimensional spaces, the differential form perspec-
 tive becomes essential. In general, in d dimensions the angular velocity has d
 2
-
+
 components,
 corresponding to the rotation rate in each independent plane.
 • Of course, when d = 1 there is no such thing as rotation at all, while when d = 2 the

@@ -27,8 +27,8 @@ az ábrát. Egy ilyen áram mágneses indukcióját a vezetéktől mért távols
 függvényében a mellékelt grafikon ábrázolja. A hurok ohmos ellenállása
 $R=1.0\ \Omega$, induktivitása elhanyagolható.
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-loop-of-wire-fig1.png)
-![ábra](../../sources/nbpho/figures/nbpho-2004-loop-of-wire-fig2.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-loop-of-wire-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-loop-of-wire-fig2.png)
 
 **1)** Számítsd ki a hurkon áthaladó $\Phi$ mágneses fluxust (2 pont)!
 

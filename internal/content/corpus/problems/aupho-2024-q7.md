@@ -29,5 +29,5 @@ verification_status: pending
 Suggested time: 30 minutes
 A class is asked to investigate and model the motion of snakes.
 Student A sees a video of a snake rising to stand on the tip of its tail in the following way.
-![](aupho-2024-q7-fig01.png)
+![](../../figures/aupho/figures/aupho-2024-q7-fig01.png)
 They are curious about what would happen if the snake did this on an electronic scale. They decide to model the snake as cylinder of mass $\mathrm{m}=1.0 \mathrm{~kg}$ and length $\mathrm{L}=1.3 \mathrm{~m}$ with a uniform mass distribution.

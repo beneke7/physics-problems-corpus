@@ -25,7 +25,7 @@ verification_status: pending
 
 A hollow insulated cylinder of height $2H$ and volume $2V$ is closed from below by an insulating piston. The cylinder is divided into two initially identical chambers by an insulating diaphragm of mass $m$. The diaphragm rests on a circular ledge and a gasket between them provides tight contact. Both chambers are filled with gaseous helium at pressure $p$ and temperature $T$. A force is applied to the piston, so that it moves upwards slowly.
 
-![figure](../../sources/eupho/figures/eupho-2021-T1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2021-T1-1.png)
 
 a. Find the volume of the lower chamber $V_0$ when the gas starts to leak between the chambers.
 

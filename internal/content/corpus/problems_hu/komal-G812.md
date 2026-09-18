@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 812. Egy testet vízbe merítve 1,5 N, glicerinben pedig 1 N erővel tudunk egyensúlyban tartani. Mekkora a test térfogata és a sűrűsége?
 
-![figure](../../raw_html/komal_figures/komal-G812-fig1.gif)
+![figure](../../figures/komal/figures/komal-G812-fig1.gif)

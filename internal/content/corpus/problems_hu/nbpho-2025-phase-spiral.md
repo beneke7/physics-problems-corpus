@@ -30,7 +30,7 @@ Valóságban a sűrűség csökken a nagyobb $|z|$-vel. A sűrűség mérése na
 
 A csillagok oszcilláció periódusa az amplitúdótól függ, $z_{\mathrm{m}}$ mert a gravitációs potenciál (potenciális energia per tömeg) $\Phi(z)$ nem parabolikus. Ilyen esetben a periódus megközelítőleg megkereshető úgy, hogy a valódi $\Phi(z)$-t a $z=z_{\mathrm{m}}$-ben illeszkedő $k z^{2}$ helyettesítjük, azaz a $k=\Phi\left(z_{\mathrm{m}}\right) / z_{\mathrm{m}}^{2}$ -val.
 
-![ábra](../../sources/nbpho/figures/nbpho-2025-phase-spiral-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2025-phase-spiral-fig1.jpg)
 
 **iii)** *(2.5 pont)* A spirál és a $v_{z}=0$ metszéspontjaiban számítsa ki a $\Phi(z)$-t lineáris interpolációval ahol megfelelő; ábrázoljon az eredményeket (ez követi a Guo et al. 2024 analízisét, ApJ, 960, 133).
 

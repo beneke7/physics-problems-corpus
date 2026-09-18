@@ -21,10 +21,10 @@ Solution. Using the effective potential results from M6, we have
 1
 2
 m
-
+
 dr
 dt
-2
+ 2
 = E +
 a
 rn
@@ -42,14 +42,14 @@ and since we’re interested in the trajectory’s shape, we multiply by (dθ/dt
 1
 2
 m
-
+
 dr
 dθ
-2
+ 2
 =
 m2
 L2
-
+
 Er4
 +
 a
@@ -57,14 +57,14 @@ rn−4
 −
 L2r2
 2m
-
+
 .
 This setup will be common to both of the parts of the problem.
 (a) The equation of a circle through the origin in polar coordinates is r = bsinθ, so
-
+
 dr
 dθ
-2
+ 2
 = b2
 cos2
 θ = b2
@@ -76,7 +76,7 @@ b2
 =
 2m
 L2
-
+
 Er4
 +
 a
@@ -84,7 +84,7 @@ rn−4
 −
 L2r2
 2m
-
+
 .
 The final terms on each side cancel, so the first two terms on the right-hand side have to sum
 to a constant. This is only possible if E = 0 and n = 4.

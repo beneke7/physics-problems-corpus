@@ -59,4 +59,6 @@ solution_language: en
       therefore measurably affect the decay rate. For more about that subject, see this article.
 
                                                      2
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts

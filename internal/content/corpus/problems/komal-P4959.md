@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, superposition]
 ---
 
-One of the vertices of a regular pentagon-shaped thin metal sheet is earthed, whilst to the others voltage supplies of small internal resistance are connected, as shown in the figure. What is the reading on the voltmeter connected to the centre of the sheet? 
+One of the vertices of a regular pentagon-shaped thin metal sheet is earthed, whilst to the others voltage supplies of small internal resistance are connected, as shown in the figure. What is the reading on the voltmeter connected to the centre of the sheet?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4959-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4959-fig1.gif)

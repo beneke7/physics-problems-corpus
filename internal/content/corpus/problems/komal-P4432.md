@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-Two lenses are placed such that their principle axes are common, and they are at a distance of 5 cm. One of them is a converging lens of optical power of 10 dioptres and the other is a diverging lens of optical power of -5 dioptres. A small filament lamp is placed 20 cm from the converging lense, not on the side at which there is the diverging lens. Where should the screen be placed in order to gain the sharp image of the filament on it? Where will the image be if the filament lamp is placed closer to the converging lens by one-sixth of the initial 20 cm distance? 
+Two lenses are placed such that their principle axes are common, and they are at a distance of 5 cm. One of them is a converging lens of optical power of 10 dioptres and the other is a diverging lens of optical power of -5 dioptres. A small filament lamp is placed 20 cm from the converging lense, not on the side at which there is the diverging lens. Where should the screen be placed in order to gain the sharp image of the filament on it? Where will the image be if the filament lamp is placed closer to the converging lens by one-sixth of the initial 20 cm distance?
  (4 pont)

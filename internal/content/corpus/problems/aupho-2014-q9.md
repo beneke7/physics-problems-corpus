@@ -25,7 +25,7 @@ techniques: [graphical-reduction]
 
 Question 9
 The positions of two runners, Helen and Con, are shown below. The runners are shown at successive 0.20 second intervals, and they are moving towards the right.
-![](aupho-2014-q9-fig01.png)
+![](../../figures/aupho/figures/aupho-2014-q9-fig01.png)
 
 Which of the following statements best describes how the accelerations of the runners are related.
 

@@ -37,7 +37,9 @@ solution_language: en
     headlight is mounted on the front of a car, which then moves forward at a relativistic speed. The
 
                                                        7
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
     new width of the headlight’s beam is θ′ , in the frame of the Earth. Consider the following two

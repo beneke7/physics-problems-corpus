@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-Newton recognized that if the object and image distances are not measured from the pole of the spherical mirror but from another point the curved mirror formula can be written in the following form: $t^{*} \cdot k^{*}=f^{2}$. ($t^{*}$ and $k^{*}$ are the new object and image distances, respectively.) From which point did Newton measure the image and the object distances? 
+Newton recognized that if the object and image distances are not measured from the pole of the spherical mirror but from another point the curved mirror formula can be written in the following form: $t^{*} \cdot k^{*}=f^{2}$. ($t^{*}$ and $k^{*}$ are the new object and image distances, respectively.) From which point did Newton measure the image and the object distances?
  (4 pont)

@@ -29,7 +29,7 @@ amelyen Φ mágneses fluxus halad át. Ekkor választhatjuk
                                                     2πr
 és a Hamilton-operátor
                                (pϕ − qAϕ )2                     qΦ 2
-                                                                  
+
                                                1
                             H=              =           −iℏ∂ϕ −      .
                                    2m         2mr2              2π
@@ -40,10 +40,9 @@ A sajátállapotok továbbra is exponenciálisak, alakjuk
 ahol n ∈ Z, mivel a hullámfüggvény egyértékű. Ezt behelyettesítve az energia
 
                                             ℏ2         Φ 2
-                                                        
+
                                      E=           n−
                                           2mr2        Φ0
-142 5. A kvantummechanika alapjai
 
 ahol Φ0 = 2πℏ/q a fluxus kvantuma. Mivel általában Φ/Φ0 nem egész szám, a mágneses tér akkor is
 megváltoztatja a spektrumot, ha a mágneses tér zérus mindenütt, ahol a hullámfüggvény nem zérus!
@@ -53,7 +52,7 @@ potenciált mértéktranszformációval eltüntetni. Mivel
                                          A = ∇α,      α=
                                                            2π
 megpróbálhatunk α mértékskalárral transzformálni. Ekkor a hullámfüggvény
-                                                          
+
                                         iqα              Φ
                               ψ → exp         ψ = exp      iϕ ψ.
                                          ℏ              Φ0

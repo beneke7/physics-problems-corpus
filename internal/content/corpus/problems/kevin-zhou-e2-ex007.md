@@ -38,7 +38,9 @@ Example 7
 
 
                                                       14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -53,7 +55,7 @@ Example 7
        of three networks in parallel, and the resistance between 14/15 and 16 is R/2. Thus,
                                                                  !
                                               1 1 1 −1 1
-                                                        
+
                                         1                              13
                               Req =       +     + +          +     R = R.
                                         2     3 3 2            2        7

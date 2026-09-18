@@ -82,7 +82,9 @@ ii) (5 points)                                   α, since the required angle ϕ
                                                                                                                                                                                c+a
     Let the required angle be ϕ.                     A hyperbola is defined as a set of points    cus (0.5 pts)                                  m(c + a)v0 = mbvf =⇒ vf = v0         ,
                                                                                                                                                                                  b
-                                                                                                            T0
+
+
+                                                                                                            T0
 and from the conservation of energy using           time until the amount of material is halved, R)2 τ8 . The mass of 235 U before the reactor                    1. Idea that neutrons from fission un‐
 b2 = c2 − a2                                                                               tb −ta
                                                     so kτ5 = ln 2, k = ln 2 , νb = (eln 2 ) τ5 = operated can, as such, be estimated as                              likely to cause fission unless moder‐
@@ -94,7 +96,7 @@ b2 = c2 − a2                                                                  
                                                                                                                                    T0
                =                =                                                                        M0 =           M (1 − R)2 τ8 ≈ 2.14 × 107 kg.
           a+c        2      2                       ural uranium when the Oklo’s reactor oper‐                   1 − R1
-                        
+
                                                                  T0
                                                     ated was 2 τ5 times higher. Similarly, the                                                                    2. Idea of water as a moderator: (0.2 pts)
       mv02 (c + a)2           mv02 2a
@@ -117,7 +119,7 @@ from which                                                                      
 Inserting this into the total energy expres‐                                                                Grading: (preliminary)                                4. Observation that power doubles when
 sion we finally get                                                                                                                                                  flow doubles: (0.5 pts)
                                                      where ν5 and ν8 represent the number of iso‐
-                                                   topes of uranium. Keep in mind that R =                   1. Mass of 235 U by the end of operation
+                                                     topes of uranium. Keep in mind that R =                   1. Mass of 235 U by the end of operation
                1 c−a               1         kqQe                                                                 M5′ = 2T0 /τ5 M R0 . (0.4 pts)
   E = kqQe         ·         +           =         . ν5 /(ν5 + ν8 ), so ν5 /ν8 = R/(1 − R).                                                                  iv) (2 points) The amount of energy gener‐
               2a c + a c + a                  2a
@@ -178,7 +180,9 @@ stant k. Then, νa = e               for some mo‐ the mass of    235
                                                                     U before the reactor started.                                                            Jaan Kalda, Tudor Plopeanu, grading schemes
 ments tb > ta . The half‐time is defined as the The mass of      238
                                                                      U was approximately M (1 −     Grading: (preliminary)                                   by Eppu Leinonen.
-                                                    – CT ≈ 2r (0.1 pts)                            • ∆p = σ/r (1 pts) (if not found, partial        air‐solid interface is increased by 2dA (con‐
+
+
+                                                    – CT ≈ 2r (0.1 pts)                            • ∆p = σ/r (1 pts) (if not found, partial        air‐solid interface is increased by 2dA (con‐
                                                     – R + r ≈ R (0.1 pts)                            points can be earned as below)                 tributed equally by the ball and plate sur‐
                                                     – AC ≈ ρ (0.2 pts)                               – ∆p = σ(1/r1 + 1/r2 ) or any attempt to       faces). Therefore, the surface energy is in‐
                                                     – AC 2 ≈ CT · CD or statement of inter‐            use a form of the Laplace‐Young equa‐        creased by dU = (σ1 − σ2 )2dA = 2σdA. Now
@@ -246,7 +250,9 @@ sign conventions are tolerated                  sign conventions are tolerated
   plicitly) (0.5 pts)                           • ∆Fσ ∝ θ2 ≪ ∆Fp or any statement that the         respectively: σ1 − σ2 = σ cos α = σ. During when viewed face‐on. As such, the shadow
 • 2r · 2R ≈ ρ2 (0.7 pts) (if not found, partial   force from surface tension is negligible or      our virtual displacement, the air‐water inter‐ travels a distance of 2re while it’s still visible
   points can be earned as below)                  ∆F = ∆Fp (0.5 pts)                               face remains almost constant; meanwhile, on Earth and the eclipse will be observable
-for time                                          57.7 km. As such, the total width of the observable for                                           dulum and l1 be the length of the shorter
+
+
+for time                                          57.7 km. As such, the total width of the observable for                                           dulum and l1 be the length of the shorter
                  2re     re
                                                   shadow near the equator is around weq =           1 q 2                                           pendulum. Additionally, we measure the
            Tecl =     =       Tm                  vm t0 + αre = 180 km.                                 weq − 4a2 = 230 s = 3.8 min.                angular amplitude ϕ (in degrees) of the
@@ -267,7 +273,7 @@ sign conventions are tolerated                  sign conventions are tolerated
                                                                                                                                                                             l1 − 1          l1 − 1
                                                                                                      ical width of an eclipse is (wλ + weq )/4, and                         l0              l0
 • Minor mistake in final expression (‐0.2 pts)
-                                                iv) (1.5 points) The peak of the eclipse occurs      the typical length on the surface of the Earth               A=                 =         2 .
+                                                iv) (1.5 points) The peak of the eclipse occurs      the typical length on the surface of the Earth               A=                 =           2 .
 ii) (1 point) In absence of the Earth’s rota‐ on the equator, firstly because that’s where           is πre . As such, a typical eclipse covers an                          α2              πϕ
                                                                                                                                                                                            180◦
 tion, the Moon’s shadow would cover close the Moon’s shadow is the biggest due to it                 area equal to the product of the two above
@@ -325,7 +331,9 @@ the Moon covers an angle of approximately find the distance the Moon’s shadow 
 ting closer to the moon by re , the width of displaced by a using the Pythagorean The‐                   We measure the lengths of the pendu‐ warded up to 1.5pts (0.5pts for measure‐
 its shadow will increase by roughly αre ≈ orem as 2(weq       2
                                                                 /4 − a2 )1/2 . The eclipse is then   lums. Let l0 be the length of the longer pen‐ ments, 1pts for multiple datapoints).
-                                                                                                                                                                                                            v2
+
+
+                                                                                                                                                                                                            v2
 • Recognize that we may use two pendulums mass of one meter’s worth of string as                                                                   that moment, we have E =                                 8         + ghf =
   with different lengths and angular amp‐                                                                                                          vf2
   litudes with equal periods (0.5 pts)                                                                                                              2 . From the conservation of angular mo‐
@@ -421,7 +429,9 @@ M is the mass of the string. We compute the arctan √1 − 2r. Of course, the a
                                                     For measured r = 0.25, we have the an‐ tical displacement hf , and the speed vf at             note that the relation between the apex angle
                                                swer 2θ ≈ 1.22 radians, or 71 degrees.                                                              and the angle of the unfolded cone are re‐
   ¹Weighing the string on a scale, we found the true value to be 0.135 g.
-lated through the area of a cone πL2 sin θ =            to ϕ and r velocity components (can be            puck. In this frame, there will be three iner‐           1. Dimensional analysis (or similar tech‐
+
+
+lated through the area of a cone πL2 sin θ =            to ϕ and r velocity components (can be            puck. In this frame, there will be three iner‐           1. Dimensional analysis (or similar tech‐
 φL2 and as such φ = π sin θ. The puck’s                 named freely e.g. vr and vϕ ) (0.4 pts)           tial forces on the puck: centrifugal, Coriolis,             nique). (0.2 pts)
 trajectory is a straight line starting perpen‐        • Correct angular momentum (projection)             and Euler. Both the Coriolis and Euler forces
 dicular to the edge of our unfolded cone.               conservation (0.4 pts)                            point perpendicularly to v∥ and tangentially             2. Units of σ (0.2 pts)
@@ -509,7 +519,9 @@ Grading: (preliminary)                                Solution 4 by Aleksi Konon
   quired for points)                       dius vector ϕ, v⊥ , and the velocity up along kg /s2 . As such, α = 1 and β = 3.
 • Correct energy conservation with respect the cone v∥ . Go to the frame corotating with
                                                                                              Grading: (preliminary)
- i) (1 point) Let w ⃗ be the speed of the wind at on ⃗v1 − ⃗v2 , and can be found as                                                                          this trajectory until it reached point A. As
+
+
+ i) (1 point) Let w ⃗ be the speed of the wind at on ⃗v1 − ⃗v2 , and can be found as                                                                          this trajectory until it reached point A. As
  the airplanes’ altitude, and let ⃗u1 and ⃗u2 be                                                                       4      1       2                       such, we know that the length the ball has
  the planes’ respective speeds in absence of                                                                  |⃗
                                                                                                                w|min = ⃗v2 − ⃗v1 − |⃗v2 − ⃗v1 |               traveled is equal to the length
@@ -596,7 +608,9 @@ by the length of the perpendicular from O to that OO = (4/3)⃗v2 − (1/3)⃗v1
 l. This is the length of (⃗v1 + ⃗v2 )/2 projected wind speed is thus                                       3
                                                                                                              l. The ball which detached continued in       marks are awarded for correct reasoning
                                                                                                           3
-  even from incorrect answers in part (i). foils do not touch or, otherwise, a short‐                width) that width has to be minimized               no follow up ideas (why is the capacitor
+
+
+  even from incorrect answers in part (i). foils do not touch or, otherwise, a short‐                width) that width has to be minimized               no follow up ideas (why is the capacitor
   (1 pts)                                       circuit is formed). Thus we have created a           to achieve reasonably precise multimeter            used) is provided, or described capacitor is
 10. KıTCHEN PHYſıCſ (12 points) — Solu­ capacitor. Its design is imperfect, as there                 measurements by cutting the material into           inadequate for the task, give (0.4 pts)
 tion by Tudor Plopeanu, grading schemes by Eero are air gaps in between the layers. In order         thin strips (0.8 pts)                             • Idea to fold plastic wrap (at least 8 layers

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201004"
 verification_status: pending
 ---
 
-A cat carefully approaches a plane mirror at a speed of 1 m/s. To her utmost surprise she realizes that her mirror image is moving away from her at a speed of 5 m/s, instead of approaching her, as she would expect. What can the explanation of this strange experience of the cat be? 
+A cat carefully approaches a plane mirror at a speed of 1 m/s. To her utmost surprise she realizes that her mirror image is moving away from her at a speed of 5 m/s, instead of approaching her, as she would expect. What can the explanation of this strange experience of the cat be?
  (3 pont)

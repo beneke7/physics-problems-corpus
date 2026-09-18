@@ -28,4 +28,4 @@ A1. ( 25 points) Two moles of monatomic ideal gas are taken through the reversib
 (b. 5) Calculate the net heat transferred between the gas and the surroundings during one cycle.
 (c. 10) Calculate cycle's thermodynamic efficiency when operating as an engine.
 (d. 5) Calculate the change in entropy of the gas as the system goes from State A to State D .
-![](usapho-1998-a1-fig01.png)
+![](../../figures/usapho/figures/usapho-1998-a1-fig01.png)

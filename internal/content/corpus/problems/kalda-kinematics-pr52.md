@@ -19,4 +19,4 @@ verification_status: pending
 
 Consider two rings with radius $r$ as depicted in the figure: the blue ring is at rest, and the yellow ring rotates around the point $O$ (which is one of the intersection points of the two rings) with a constant angular speed $\omega$. Find the minimal and maximal speeds $v_{\text {min }}$ and $v_{\text {max }}$ of the other intersection point of the two rings.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr52-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr52-fig1.jpg)

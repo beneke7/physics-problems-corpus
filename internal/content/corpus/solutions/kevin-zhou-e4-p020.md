@@ -43,17 +43,17 @@ r2
 ṙ
 r
 −
-
+
 r̂ ·
 ṙ
 r
-
+
 r̂ = r̂ ×
-
+
 ṙ
 r
 × r̂
-
+
 =
 1
 r2
@@ -81,12 +81,12 @@ while the components perpendicular are
 E′
 ⊥ = γ(E⊥ + v × B), B′
 ⊥ = γ
-
+
 B⊥ −
 v
 c2
 × E
-
+
 .
 Remark: Galilean Field Transformations
 The nonrelativistic limit of the field transformation is useful, but one has to be careful in

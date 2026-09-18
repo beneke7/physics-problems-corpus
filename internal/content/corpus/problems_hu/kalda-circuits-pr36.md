@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi áramkörben az ampermérő kijelzését.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr36-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr36-fig1.jpg)

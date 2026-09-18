@@ -55,7 +55,9 @@ rugalmasan pattan vissza, miközben ugyanaz a négyzetes közegellenállás hat 
 
 
                                                       2
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
        2. ötlet

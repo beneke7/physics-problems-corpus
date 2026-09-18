@@ -23,5 +23,5 @@ techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
 An object executes simple harmonic motion of period $T=0.2$ s. It takes $\Delta
-t=0.01$ s to double its displacement of $x=3$ cm. What is the amplitude of the motion? 
+t=0.01$ s to double its displacement of $x=3$ cm. What is the amplitude of the motion?
  (4 pont)

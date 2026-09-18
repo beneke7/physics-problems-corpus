@@ -68,18 +68,18 @@ also increases the rate of decay from E1 down to E0 via stimulated emission, as 
 Finally, an electron can be ejected from an atom entirely by absorbing a photon in the
 photoelectric effect; if the initial energy was −E, then the final kinetic energy of the electron
 is ℏω − E.
-[3] Problem 21.  W 1 0USAPhO 1997, problem A4.
-[3] Problem 22.  W 1 0USAPhO 1998, problem A3.
-[3] Problem 23.  m 1 0USAPhO 1998, problem B2. (There’s a typo in the solutions, pointed out here.)
-[3] Problem 24.  m 1 0INPhO 2012, problem 5.
-[5] Problem 25.  h 1 0IPhO 2009, problem 2. This relatively straightforward problem covers the neat
+[3] Problem 21.   W 1 0USAPhO 1997, problem A4.
+[3] Problem 22.   W 1 0USAPhO 1998, problem A3.
+[3] Problem 23.   m 1 0USAPhO 1998, problem B2. (There’s a typo in the solutions, pointed out here.)
+[3] Problem 24.   m 1 0INPhO 2012, problem 5.
+[5] Problem 25.   h 1 0IPhO 2009, problem 2. This relatively straightforward problem covers the neat
 application of Doppler laser cooling, a technique for creating ultracold gases that won the 1997
 Nobel prize. (For a very similar problem, see APhO 2006, problem 1.)
 13
 Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solution, but note that it has some factor of 2 errors, as pointed out by
 Stefan Ivanov here.
-[5] Problem 26.  h 1 0IPhO 2020, problem 3. A somewhat more challenging problem focusing on
+[5] Problem 26.   h 1 0IPhO 2020, problem 3. A somewhat more challenging problem focusing on
 chirped pulse amplification, which won the 2018 Nobel prize.
 Remark
 In a conventional refrigerator, cooling the inside requires the heating of a hot reservoir,
@@ -95,6 +95,6 @@ atoms have less energy on average, and hence are colder, just like how evaporati
 cools people down. This doesn’t violate the second law of thermodynamics because the atoms
 that escape the trap end up in some random place in the lab, so the entropy associated with
 their position increases.
-[5] Problem 27.  T 1 0IZhO 2019, problem 3. A problem on the dynamics on a laser, which is arguably
+[5] Problem 27.   T 1 0IZhO 2019, problem 3. A problem on the dynamics on a laser, which is arguably
 the most important invention for atomic physics in history.
 14

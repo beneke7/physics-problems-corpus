@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-At the bottom of the sea, 150 m below the surface, lies a sunken, mainly steel ship, which once had a 1000 tons displacement. Divers would like to bring this ship the surface. To do this, the divers create arched sections in the ship, into which the atmospheric air from the surface is pumped through long tubes by means of compressors. At least how much work do the compressors have to do in order to raise the ship off the seabed? We can assume that both the sea and the air has a temperature of $15\;{}^\circ$C. 
+At the bottom of the sea, 150 m below the surface, lies a sunken, mainly steel ship, which once had a 1000 tons displacement. Divers would like to bring this ship the surface. To do this, the divers create arched sections in the ship, into which the atmospheric air from the surface is pumped through long tubes by means of compressors. At least how much work do the compressors have to do in order to raise the ship off the seabed? We can assume that both the sea and the air has a temperature of $15\;{}^\circ$C.
  (5 pont)

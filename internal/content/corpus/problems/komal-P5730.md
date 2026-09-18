@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-Laser light of wavelength 535 nm falls on a standard (consisting of identical slits) diffraction grating. A diffraction maximum is visible at an angle of $35^\circ$, and the highest observable diffraction order is the fifth. Determine the grating constant. 
+Laser light of wavelength 535 nm falls on a standard (consisting of identical slits) diffraction grating. A diffraction maximum is visible at an angle of $35^\circ$, and the highest observable diffraction order is the fifth. Determine the grating constant.
  (4 pont)

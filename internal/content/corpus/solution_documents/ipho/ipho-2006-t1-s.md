@@ -60,7 +60,9 @@ or
 
 
                                             1
-1.3                                    gM 2 2
+
+
+1.3                                    gM 2 2
                            ∆Nopt = 2       a λ0 tan θ sin φ .
                                         h2
 

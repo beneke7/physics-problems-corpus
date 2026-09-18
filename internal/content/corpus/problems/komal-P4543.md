@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-When blowing soap bubbles, it can often be seen that the colourful soap bubbles lose their colour and darken just before they burst. What is the reason for this phenomenon? 
+When blowing soap bubbles, it can often be seen that the colourful soap bubbles lose their colour and darken just before they burst. What is the reason for this phenomenon?
  (4 pont)

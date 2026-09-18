@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4193. Az R sugarú üveggömb optikai tengelyétől milyen távol halad az a vele párhuzamos fénysugár, amely ott lép ki az üvegből, ahol a tengely metszi a gömböt? 
+P. 4193. Az R sugarú üveggömb optikai tengelyétől milyen távol halad az a vele párhuzamos fénysugár, amely ott lép ki az üvegből, ahol a tengely metszi a gömböt?
  (A törésmutató 1,6.)

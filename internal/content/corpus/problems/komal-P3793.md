@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-In theory at the North and South Poles days and nights last for exactly half a year. In fact, the length of a day (the time between sunrise and sunset) is about 2 weeks longer in both places. Why? 
+In theory at the North and South Poles days and nights last for exactly half a year. In fact, the length of a day (the time between sunrise and sunset) is about 2 weeks longer in both places. Why?
 
  (4 pont)

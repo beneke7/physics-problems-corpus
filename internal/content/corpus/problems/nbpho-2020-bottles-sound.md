@@ -33,6 +33,6 @@ If you blow near the bottle's mouth, a whistling sound can be generated: a gentl
 
 **iii)** *(3 points)* Test the validity of your suggestion for this dependence graphically, and determine the parameters of it. Error analysis is not required.
 
-![Bottle-sound measurement graph 1](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
+![Bottle-sound measurement graph 1](../../figures/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
 
-![Bottle-sound measurement graph 2](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)
+![Bottle-sound measurement graph 2](../../figures/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)

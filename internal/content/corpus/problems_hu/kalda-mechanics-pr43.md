@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy fiú kötélen húz egy szánkót, miközben lassan felkapaszkodik egy dombra. Mekkora munkát végez a fiú, amellyel a szánkót a domb tetejére juttatja, ha a domb magassága $h$, a lábától a tetejéig mért vízszintes távolság pedig $a$? Tegyük fel, hogy a kötél mindig párhuzamos a lejtő érintőjével, és a szánkó, valamint a hó közötti súrlódási együttható $\mu$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr43-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr43-fig1.jpg)

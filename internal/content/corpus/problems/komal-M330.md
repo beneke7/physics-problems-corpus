@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: pending
 ---
 
-Investigate how balls of different radii, and possibly made of the same material (for example glass or bearing balls), roll along slopes which are covered by some soft, elastic material like foam rubber. Determine the percentage value of the loss in the kinetic energy with measurement. 
+Investigate how balls of different radii, and possibly made of the same material (for example glass or bearing balls), roll along slopes which are covered by some soft, elastic material like foam rubber. Determine the percentage value of the loss in the kinetic energy with measurement.
  (6 pont)

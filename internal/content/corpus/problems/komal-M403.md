@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202103"
 verification_status: pending
 ---
 
-For some commercially available granular matter (e.g. lentils, rice, egg barley, etc.) determine by measurement what percentage of their storage volume is air. 
+For some commercially available granular matter (e.g. lentils, rice, egg barley, etc.) determine by measurement what percentage of their storage volume is air.
  (6 pont)

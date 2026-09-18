@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element]
 ---
 
-The flux linkage of a circular loop of wire of radius 10 cm and of cross section 0.5 mm$^{2}$, which is in uniform perpendicular magnetic field, is 6.28$^{.}$10$^{-3}$ Vs. What will the tension in the loop be when a current of 10 A begins to flow in it? 
+The flux linkage of a circular loop of wire of radius 10 cm and of cross section 0.5 mm$^{2}$, which is in uniform perpendicular magnetic field, is 6.28$^{.}$10$^{-3}$ Vs. What will the tension in the loop be when a current of 10 A begins to flow in it?
  (5 pont)

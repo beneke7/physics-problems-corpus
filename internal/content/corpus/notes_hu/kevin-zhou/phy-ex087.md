@@ -49,7 +49,6 @@ Most folytatjuk a hidrogén Stark-effektusának tárgyalását.
 
    Általánosabban a polarizálhatóság tenzor is lehet, ⟨di ⟩ = αij Fj + O(F 2 ). Egy atom polarizálhatóságát
    a Clausius–Mossotti-formulával gázt alkotó anyag dielektromos állandójává alakíthatjuk.
-207 9. Időfüggetlen perturbációelmélet
 
  • Ezután kiszámíthatjuk az alapállapot másodrendű energiaeltolódását, vagyis a kvadratikus Stark-effektust.
    Az eredmény
@@ -99,7 +98,6 @@ Most folytatjuk a hidrogén Stark-effektusának tárgyalását.
 Most a finomszerkezetet vizsgáljuk, amely a relativitás és a spin hatásaival foglalkozik. Ezek azonos
 rendben, nevezetesen (v/c)2 rendben jelennek meg, ezért együtt kell kezelni őket. Egységes módon a
 Dirac-egyenletből is levezethetők lennének, de ezt itt nem tesszük meg.
-208 9. Időfüggetlen perturbációelmélet
 
  • Három új tag jelenik meg: a relativisztikus kinetikusenergia-korrekció, a Darwin-tag és a spin–pálya-tag:
                                     HFS = HRKE + HD + HSO .
@@ -151,7 +149,6 @@ Dirac-egyenletből is levezethetők lennének, de ezt itt nem tesszük meg.
                       HRKE = −     p ,    HD =      ∇ V,     HSO =            L·S
                                  8                8                   2 r dr
    és világos, hogy a tagok mind azonos rendűek.
-209 9. Időfüggetlen perturbációelmélet
 
  • Tovább szűkíthetünk az egy elektront tartalmazó atomokra, amelyekre
                                       Z        1 dV   Z
@@ -206,7 +203,6 @@ Most kiszámítjuk az energiaeltolódásokat.
     Mivel HRKE skalároperátor, a Wigner–Eckart-tétel szerint
 
                              ⟨nℓmℓ |HRKE |nℓm′ℓ ⟩ = δmℓ m′ℓ ⟨nℓ0|HRKE |nℓ0⟩.
-210 9. Időfüggetlen perturbációelmélet
 
  • A Clebsch–Gordan-együtthatókat és a fenti eredményeket használva
                              X X
@@ -229,7 +225,7 @@ Most kiszámítjuk az energiaeltolódásokat.
    mivel H0 és V várható értékeit már ki tudjuk számítani:
 
                                                                 Z2
-                                                       
+
                                                         1
                               ⟨H0 ⟩ = En , ⟨V ⟩ = −Z        =− 2
                                                         r       n
@@ -239,13 +235,13 @@ Most kiszámítjuk az energiaeltolódásokat.
  • A nehéz rész a ⟨V 2 ⟩ kiszámítása, ami speciálisfüggvény-technikai módszereket igényel, és azt adja,
 
                                                           Z2
-                                            
+
                                               1
                                                   =
                                              r2      n3 (ℓ + 1/2)
 
    amiből a teljes energiaeltolódás
-                                                                                       
+
                                                                    1        3    n
                         ⟨nℓjmj |HRKE |nℓjmj ⟩ = (Zα)2 (−En )                  −             .
                                                                    n2       4 ℓ + 1/2
@@ -271,7 +267,6 @@ Most kiszámítjuk az energiaeltolódásokat.
             ⟨nℓjmj |HSO |nℓjmj ⟩ =       (j(j + 1) − ℓ(ℓ + 1) − s(s + 1))⟨nℓjmj | 3 |nℓjmj ⟩
                                       4                                          r
    ahol j = ℓ ± 1/2.
-211 9. Időfüggetlen perturbációelmélet
 
  • A fentihez hasonlóan az utolsó tényező felírható így:
                                            1                  1
@@ -280,7 +275,7 @@ Most kiszámítjuk az energiaeltolódásokat.
    a speciálisfüggvény-technika pedig azt adja, hogy
 
                                                    Z3
-                                    
+
                                       1
                                         =                      .
                                      r3   n3 ℓ(ℓ + 1/2)(ℓ + 1)
@@ -290,7 +285,7 @@ Most kiszámítjuk az energiaeltolódásokat.
 
  • A spin–pálya- és a Darwin-tagnak egyaránt különleges esete van ℓ = 0-ra: rendre járulékot adnak,
    illetve nem adnak járulékot, de együtt egyszerű alakot eredményeznek. A teljes eredmény
-                                                                  
+
                                             2      1 3         n
                                ∆EFS = (Zα) (−En ) 2      −           .
                                                    n    4 j + 1/2
@@ -298,7 +293,7 @@ Most kiszámítjuk az energiaeltolódásokat.
    Figyelemre méltó, hogy az eredmény közvetlenül csak n-től és j-től függ, ezért az energiaszintek
 
                                    Z2        (Zα)2 3
-                                                               
+
                                                              n
                           Enj = − 2 1 −                −             .
                                    2n          n2    4 j + 1/2
@@ -322,7 +317,6 @@ Most néhány megjegyzést fűzünk ehhez az eredményhez.
 
  • Az alábbi ábrán néhány energiaszint látható, a finomszerkezetet a szemléltetés kedvéért eltúlozva.
    Az ábra az nℓj spektroszkópiai jelölést használja, ahol ℓ = s, p, d, f, . . ..
-212 9. Időfüggetlen perturbációelmélet
 
 
   • A fenti nyilak a megengedett elektromos dipólusátmeneteket is mutatják. Ezeket az
@@ -350,7 +344,7 @@ Most néhány megjegyzést fűzünk ehhez az eredményhez.
     Hasonló elemzésből
 
                                        α2
-                                                                            
+
                                                                         1 dV
                              ∆ESO =       (j(j + 1) − ℓ(ℓ + 1) − 3/4)          .
                                         4                               r dr
@@ -360,7 +354,6 @@ Most néhány megjegyzést fűzünk ehhez az eredményhez.
 
 Megjegyzés. A Lamb-eltolódás a Darwin-taghoz hasonló további elmosódás, amelyet vákuumfluktuációkkal
 való kölcsönhatás okoz. Tekintsünk egy L oldalhosszúságú nagy kocka alakú dobozba zárt atomot. A
-213 9. Időfüggetlen perturbációelmélet
 
 kvantált elektromágneses tér módusainak állandó vákuumenergiája ℏωk, ahol ωk a frekvenciájuk. Ezeket
 a kvantumfluktuációkat heurisztikusan véletlenszerűen változó klasszikus Ek elektromos térként kezelhetjük,
@@ -374,7 +367,7 @@ karakterisztikus idő alatt változnak, amely alatt a részecske elmozdulása
                                                      m        mωk2
 
 Mivel e módusok fluktuációi függetlenek, a négyzetes átlagos fluktuáció
-                  X e2 |Ek |2                                        3
+                  X e2 |Ek |2                                          3
                                  e2 ℏ X           e2 ℏ                                e2
                                                              Z                              Z
             2                             1                          L     1                  dk
@@ -416,7 +409,6 @@ Vagyis az elektron úgy látja, hogy a laborrendszerben mértnél nagyobb szögg
                                            θ′ − θ          v2
                                                   ≈ γ − 1 ≈ 2.
                                               θ            2c
-214 9. Időfüggetlen perturbációelmélet
 
 Ha az elektron a laborrendszerben egyenletesen mozog, akkor az „extra” precesszió
                                                     ωv 2   av
@@ -467,7 +459,6 @@ Ezután a mágneses térben lévő atomok Zeeman-effektusát vizsgáljuk.
       egységekben a mágneses és elektromos tér azonos egységű, így az SI-eredményből „c-vel osztva”
       kaphatjuk meg, ami az orbitális tagban az α tényezőt adja. Ez azt is világossá teszi, hogy a spin-
       és a pályamenti rész egyaránt O(α) rendben járul hozzá.
-215 9. Időfüggetlen perturbációelmélet
 
  • A mágneses tér és a vektorpotenciál legyen
                                                        1
@@ -516,7 +507,6 @@ válik.
 
    mert J 2 tartalmazza az L · S tagot, amelyben Lx Sx + Ly Sy szerepel. Ezért a Zeeman-effektus a
    csatolatlan bázist részesíti előnyben.
-216 9. Időfüggetlen perturbációelmélet
 
  • A csatolatlan bázisban a perturbáció már diagonális, ezért csak leolvassuk:
                      α                                 α
@@ -562,7 +552,6 @@ válik.
  • Így az energiaeltolódások
 
                       ∆E = ⟨nℓmℓ ms |f (r)L · S|nℓmℓ ms ⟩ = mℓ ms ⟨nℓmℓ |f (r)|nℓmℓ ⟩
-217 9. Időfüggetlen perturbációelmélet
 
    és hidrogénre
                                         α2       1        α2       mℓ ms
@@ -593,7 +582,7 @@ Most a gyenge térerősség esetét vizsgáljuk, amikor HFS dominál.
    valamint
                                                 1 2
                                                   J + S 2 − L2 .
-                                                              
+
                                         S·J=
                                                 2
    Így
@@ -614,7 +603,6 @@ Most a gyenge térerősség esetét vizsgáljuk, amikor HFS dominál.
  • Erősebb mágneses terekben a másodrendű hatást is ki kellene számítani, amely már különböző ℓ-jű
    alterek keveredését is tartalmazza. Az n = 2 energiaszinteknél ez nem túl nehéz, mivel csak állapotpárok
    keverednek, így a pontos eredmény könnyen kiszámítható.
-218 9. Időfüggetlen perturbációelmélet
 
 9.5     Hiperfinom szerkezet
 A hiperfinom szerkezet az atommag multipólusmomentumaiból, különösen a mágneses dipólus- és elektromos
@@ -637,7 +625,7 @@ kvadrupólusterekből származik.
 Ezután kifejtjük a Hamilton-operátort.
 
  • A teret és a vektorpotenciált egy fizikai dipólus terének választjuk:
-                                                                             
+
                                    4π         1                    8π         T
                   A(r) = (µ × r)      δ(r) + 3 , B(r) = µ ·           δ(r)I + 5 .
                                     3         r                     3        r
@@ -649,7 +637,7 @@ Ezután kifejtjük a Hamilton-operátort.
  • A Hamilton-operátor hasonló a Zeeman-effektuséhoz:
 
                                       A 2
-                                       
+
                               1                                  1
                            H=      p+     + V (r) + HFS + HLamb + S · B.
                               2       c                          c
@@ -667,7 +655,6 @@ Ezután kifejtjük a Hamilton-operátort.
                                           H1 = (p · A + S · B).
                                               c
       Ezeket a pályamenti és spin-tagokat azonban nehezebb lesz kiértékelni.
-219 9. Időfüggetlen perturbációelmélet
 
  • A pályamenti tag arányos a
 
@@ -675,7 +662,7 @@ Ezután kifejtjük a Hamilton-operátort.
 
     mennyiséggel, ahol ellenőrizhető, hogy nincs sorrendi probléma. A spin-tagban sincs ilyen probléma,
     mert S és I külön altereken hat. Ezért
-                                                                                    
+
                                  4π        1                   8π               I·T ·S
              H1,orb = k(I · L)      δ(r) + 3 , H1,spin = k        δ(r)(I · S) +           .
                                   3       r                     3                 r5
@@ -726,7 +713,6 @@ Most kiszámítjuk az energiaeltolódásokat.
                                        k
                             ∆E =            ⟨nℓjf mf |(I · J)(J · G)|nℓjf mf ⟩.
                                    j(j + 1)
-220 9. Időfüggetlen perturbációelmélet
 
  • Az első tag egyszerűsíthető, ha észrevesszük, hogy
                                               1
@@ -751,7 +737,7 @@ Most kiszámítjuk az energiaeltolódásokat.
                                                         r3
 
  • Így az energiaeltolódás
-                                                                                       
+
                                f (f + 1) − j(j + 1) − i(i + 1)                  1
                         ∆E = k                                 ℓ(ℓ + 1)                     .
                                           2j(j + 1)                             r3
@@ -770,7 +756,7 @@ Most kiszámítjuk az energiaeltolódásokat.
                                         ∆E =      k⟨δ(r)(I · S)⟩.
                                                 3
    Mivel L = 0 esetén F = I + S,
-                                                                               
+
                                   1                     1                   3
                            I · S = (F 2 − I 2 − S 2 ) =         f (f + 1) −         .
                                   2                     2                   2
@@ -783,7 +769,6 @@ Most kiszámítjuk az energiaeltolódásokat.
  • Például a hidrogén 1s1/2 alapállapota két szintre hasad: f = 0 a valódi alapállapot, f = 1 pedig
    háromszorosan degenerált; ezek az atommag és az elektron antiparallel, illetve parallel spinjének felelnek
    meg. A frekvenciakülönbség körülbelül 1,42 GHz, ami 21 cm-es hullámhossznak felel meg.
-221 9. Időfüggetlen perturbációelmélet
 
  • A 2s1/2 és 2p1/2 állapotok hasonlóan hasadnak; e szinteken belül a hiperfinom felhasadás kisebb, de
    összemérhető a köztük lévő Lamb-eltolódással. A 2p3/2 finomszerkezeti szint szintén felhasad, f = 1
@@ -830,7 +815,6 @@ A hidrogén energiaszintjei maguk α2 mc2 nagyságrendűek.
 α2, de a Lamb-eltolódás ugyanebben a rendben jelenik meg, mivel van egy fa-szintű diagram, amelyben az
 elektron és a pozitron megsemmisül, majd újra létrejön; hidrogénben a Lamb-eltolódás hurokszintű. A
 hiperfinom felhasadás szintén α2 rendű, így mindezeket a hatásokat egyszerre kell figyelembe venni.
-222 9. Időfüggetlen perturbációelmélet
 
 9.6     Variációs módszer
 Most bevezetjük a variációs módszert.
@@ -883,7 +867,6 @@ Most bevezetjük a variációs módszert.
       Ez azonban csak azt mondja, hogy |ψ⟩ a Hamilton-operátor variációs altérre korlátozott sajátvektora,
       β sajátértékkel. Az alapállapot energiájára adott felső korlátunk e korlátozott Hamilton-operátor
       legkisebb sajátértéke, ami intuitív.
-223 9. Időfüggetlen perturbációelmélet
 
  • Ez az eljárás rendkívül gyakori alapállapot-energiák numerikus számításakor, mivel a számítógép nem
    tud végtelen dimenziós Hilbert-térrel dolgozni. A variációs elv szerint a Hilbert-tér csonkolásával

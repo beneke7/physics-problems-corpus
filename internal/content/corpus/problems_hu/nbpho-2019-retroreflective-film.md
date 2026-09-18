@@ -24,9 +24,9 @@ A következő eszközök állnak rendelkezésre: egy visszaverő film, amelynek 
 
 Bár a film felső felülete sík, az alsó felület ferde háromszög alakú felületek periodikus sora. Hat ilyen felület van nagyítva a második ábrán; az 1, 3 és 5 felületek egymásra merőlegesek és egy kocka sarkát képezik, az 2, 4 és 6 felületek szintén egymásra merőlegesek. A második ábra jobb oldalán a film keresztmetszete látható. A ferde felületek és a sík felület közötti film anyag mikroprizmákat alkot. Ezeknek a mikroprizmáknak a fénytörési szögeit $\alpha_{i}, i=1,2, \ldots 6$ jelöli (az indexek a felületek számára vonatkoznak). Az $\alpha_{i}$ szögek közül néhány egyenlő lehet.
 
-![ábra 1](../../sources/nbpho/figures/nbpho-2019-retroreflective-film-fig1.jpg)
+![ábra 1](../../figures/nbpho/figures/nbpho-2019-retroreflective-film-fig1.jpg)
 
-![ábra 2](../../sources/nbpho/figures/nbpho-2019-retroreflective-film-fig2.jpg)
+![ábra 2](../../figures/nbpho/figures/nbpho-2019-retroreflective-film-fig2.jpg)
 
 Amikor a fény a sík felületre majdnem merőleges beesésben érkezik, teljes belső visszaverődésnek van kitéve a ferde felületeken, és ennek eredményeként a terjedési iránya 180° -kal elfordul. A mikroprizmák azonban egy fénysugarat kitérítő prizmákként is működhetnek a $\beta$ szöggel. A $\beta$ szög a beesési szögtől és a prizmaszögtől $\alpha=\alpha_{i}$ függ. Legyen $\beta_{i}$ az adott prizmaszög $\alpha_{i}$ minimális eltérítési szöge.
 

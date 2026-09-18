@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-Would the longest night of the year last longer or shorter in Hungary if the Earth had no atmosphere? 
+Would the longest night of the year last longer or shorter in Hungary if the Earth had no atmosphere?
  (3 pont)

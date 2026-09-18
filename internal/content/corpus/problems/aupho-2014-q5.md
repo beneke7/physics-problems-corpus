@@ -32,6 +32,6 @@ c. the upward force of the cable is smaller than the downward force of gravity.
 d. the upward force of the cable is greater than the sum of the downward force of gravity and a downward force due to air.
 e. none of the above. (The elevator goes up because the cable is being shortened, not because an upwards force is exerted on the elevator by the cable.)
 
-![](aupho-2014-q5-fig01.png)
+![](../../figures/aupho/figures/aupho-2014-q5-fig01.png)
 Page 3 of 12
 2014 Physics Australian Science Olympiads Examination

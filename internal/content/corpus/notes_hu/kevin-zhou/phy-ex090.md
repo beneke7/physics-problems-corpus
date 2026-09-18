@@ -23,10 +23,9 @@ source_role: explanatory_example
 ---
 Példa. Szén. Az 1s2 2s2 2p2 elektronkonfigurációból indulunk ki, amelynek degenerációja
  6
-  
+
  2 = 15. Mivel csak két releváns elektron van, L = 0, 1, 2 és S = 0, 1 lehetséges, és minden L-érték egyszer jelenik meg. A teljes antiszimmetria meghatározza az S-értékeket, így 1 S, 3 P és 1 D adódik. Ezek dimenziója 1, 9, illetve 5, amelyek a várakozásnak megfelelően 15-re adódnak össze.
     A szén néhány alacsonyan fekvő atomi energiaszintje az alábbi ábrán látható, ahol az energiát eV-ban mérjük.
-245 10. Atomfizika
 
 A bemutatott elektronkonfigurációk:
 

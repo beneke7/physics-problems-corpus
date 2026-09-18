@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4109. Van olyan játékeszköz, amelynek segítségével egyszerre igen sok, különböző méretű buborékot fújhatunk. A buborékok lassan, függőlegesen süllyednek lefelé. Feltételezve, hogy mindegyik buboréknak ugyanakkora a falvastagsága, a nagyobb, vagy a kisebb buborékok süllyednek gyorsabban? 
+P. 4109. Van olyan játékeszköz, amelynek segítségével egyszerre igen sok, különböző méretű buborékot fújhatunk. A buborékok lassan, függőlegesen süllyednek lefelé. Feltételezve, hogy mindegyik buboréknak ugyanakkora a falvastagsága, a nagyobb, vagy a kisebb buborékok süllyednek gyorsabban?
  Varga István

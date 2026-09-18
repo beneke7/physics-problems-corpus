@@ -70,7 +70,9 @@ A-3. The radiation is maximum at the wavelength for which the derivative of 𝑢
 
 
                                           5(1 − 𝑒 −𝑥m ) − 𝑥m = 0
-                                                                                   S1-2
+
+
+                                                                                   S1-2
  A-3 (0.4 pt)
 
  𝑓(𝑥) = 5(1 − 𝑒 −𝑥 ) − 𝑥
@@ -140,7 +142,9 @@ A-6. From the diagram, it can clearly be seen that 𝛾𝑢̃S (𝜆Smax ) = �
                                                   max 𝑘B 𝑇E
 
 Dividing these two quantities we’ll find:
-                                                                                        S1-3
+
+
+                                                                                        S1-3
                                          𝑑 2     𝑇E 5
                                     𝛾= (   ) × (    ) = [1.20,1.21] × 10−2
                                         𝑅S       𝑇S
@@ -202,7 +206,9 @@ B-2. As can be seen in the figure, a fraction (1 − 𝑟A ) of the solar radiat
     atmosphere, where a fraction 𝑟A is reflected and returns to the Earth’s surface. This process
     repeats ad infinitum and the sum of the powers transmitted at all these instances, determines the
     albedo. Denoting the power returned to space after 𝑛 reflections by 𝑆̃𝑛 , we’ll have 𝑆̃0 = 𝑟A 𝑆0 and
-                                                                                                 S1-4
+
+
+                                                                                                 S1-4
     the remaining power i.e. (1 − 𝑟A )𝑆0 , reaches the Earth’s surface. From this power, (1 − 𝑟A )𝑟E 𝑆0
     is reflected, and a fraction 1 − 𝑟A of it is transmitted through the atmosphere to the space, hence:
                                                                       (1 − 𝑟A )2
@@ -259,7 +265,9 @@ B-3. Again, thermal equilibrium requires the input and output powers to be equal
                                      (1 − 𝛼)       4                                     𝑇E4 4
                              𝑇E = [           𝑆0 ]                ,                𝑇A = ( )
                                     2𝜎(2 − 𝜖)                                             2
-                                                                                        S1-5
+
+
+                                                                                        S1-5
                                   (1 − 𝛼)                  (1 − 𝛼)
                         [𝜎𝑇E4 −      4
                                           𝑆0 ]     [𝜎𝑇E4 −    4
@@ -322,7 +330,9 @@ B-5. The equations for thermal equilibrium are similar to those for Part B.3, on
      𝜖𝜎(2𝑇A4 − 𝑇E4 ) (2𝑇A − 𝑇E ) × [𝜎𝑇E − (1 − 𝛼) 4 ]
   𝑘=                =                                  = [3.57,3.66] × 10−1 W/m2 K
         𝑇E − 𝑇A           (𝑇E4 − 𝑇A4 ) × (𝑇E − 𝑇A )
-                                                                                       S1-6
+
+
+                                                                                       S1-6
  B-5 (1.6pt)
 
                    𝑆
@@ -381,7 +391,9 @@ B-6. In order to find the change in the temperatures of the Earth and the atmosp
                                        E           4
 
 Solving this set of linear equations and substituting 𝜖 in B-5, we find:
-                                                                                  S1-7
+
+
+                                                                                  S1-7
                                   𝜎(𝑇E4 − 𝑇A4 )𝑇E4 − 𝑇A4        8𝑇A3           1
                            [          ] [1 + (      3    ) [    4      4 + 𝑇 − 𝑇 ]]
                                    𝑆              4𝑇A        2𝑇A − 𝑇E

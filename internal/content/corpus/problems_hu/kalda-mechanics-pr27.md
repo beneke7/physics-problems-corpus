@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű, $\alpha_{1}$ és $\alpha_{2}$ hegyesszögű ék vízszintes felületen fekszik. Az ék tetején elhelyezett csigán egy kötél halad át, amelynek végeire $m_{1}$, illetve $m_{2}$ tömegű testeket kötöttünk. Mekkora lesz az ék gyorsulása? Sehol nincs súrlódás.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr27-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr27-fig1.jpg)

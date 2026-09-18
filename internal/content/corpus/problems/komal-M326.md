@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201210"
 verification_status: pending
 ---
 
-Hang a horse-shoe or a bar magnet above a compass, and rotate the magnet slowly by 360$^\circ$, and observe the changes of the compass. Carry out the experiment at different distances between the compass and the magnet, and describe the behaviour of the compass. 
+Hang a horse-shoe or a bar magnet above a compass, and rotate the magnet slowly by 360$^\circ$, and observe the changes of the compass. Carry out the experiment at different distances between the compass and the magnet, and describe the behaviour of the compass.
  (6 pont)

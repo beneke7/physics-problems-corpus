@@ -32,7 +32,7 @@ Semmi kétség: h¶t®gépre van szükségünk! Viszont minden h¶t®gép m¶kö
 most nem áll rendelkezésre.
 Illetve mégis van egy kiút: ha a két különböz® h®mérséklet¶ másik test felhasználásával m¶ködtetünk egy h®er®-
 gépet! Azt a munkát, amit ebb®l nyerünk, felhalmozzuk egy energiatárolóban. Mire a két melegebb test között végül
-megsz¶nik a h®mérsékletkülönbség, az így el®állt középmeleg test és a hideg test közé már beiktathatunk egy h¶-
+megsz¶nik a h®mérsékletkülönbség, az így el®állt  középmeleg  test és a hideg test közé már beiktathatunk egy h¶-
 t®gépet, amely az el®bb nyert munka befektetésével biztosan m¶ködik valameddig. Ennek eredményeképpen a hideg
 test tovább h¶l. Már sak azt kell kiszámítanunk, mennyire h¶l le.
 b) El®ször azt számítsuk ki, mennyi munka nyerhet® a kezdetben T1 = 90◦
@@ -50,14 +50,14 @@ T1
 Q2
 T2
 = 0
-
+
 η =
 W
 Q1
 =
 T1 − T2
 T1
-
+
 .
 Egyetlen iklus még alig változtatja meg a h®tartálynak tekinthet® testek h®mérsékletét, elég sok iklus után azonban
 egyre közelebb kerül egymáshoz a két test h®mérséklete.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-Two bodies collide. Before the collision the linear momentum of one of them was , and the other was at rest. After the collision can the linear momentum of the second body (which was initially at rest) be ? If yes, at which case? 
+Two bodies collide. Before the collision the linear momentum of one of them was , and the other was at rest. After the collision can the linear momentum of the second body (which was initially at rest) be ? If yes, at which case?
  (4 pont)

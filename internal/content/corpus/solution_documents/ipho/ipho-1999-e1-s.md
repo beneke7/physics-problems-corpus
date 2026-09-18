@@ -59,7 +59,9 @@ b = 2 mm ± 2 mm
 
 1 Mr. Maurizio Recchi.
 2 This can easily be done by balancing the pendulum, e.g. on the T-shaped rod provided.
-Experimental problem - Solution                                                                   Page 2
+
+
+Experimental problem - Solution                                                                   Page 2
 
 
 
@@ -97,7 +99,9 @@ b = y2 − ax2
 
 
 and the parameter uncertainties (assuming them gaussian) by
-Experimental problem - Solution                                                             Page 3
+
+
+Experimental problem - Solution                                                             Page 3
 
 
              ∆x12 + ∆x22 ∆y12 + ∆y22
@@ -153,7 +157,9 @@ be computed from the experimental data) yi = ( M 1 + M 2 ) gR( xi ) sin θ e,i ,
 written as
 
 y i = κθ e,i − κθ 0                                                                   (8)
-Experimental problem - Solution                                                            Page 4
+
+
+Experimental problem - Solution                                                            Page 4
 
 
 
@@ -184,7 +190,9 @@ see figure 8):
 
 
 κ = 0.055 N⋅m⋅rad-1 ± 0.001 N⋅m⋅rad-1
-Experimental problem - Solution                                                                       Page 5
+
+
+Experimental problem - Solution                                                                       Page 5
 
 
 κθ0 = -0.0063 N⋅m ± 0.0008 N⋅m
@@ -222,7 +230,9 @@ as
      T 2 ( x ) − M 2 x 2 = − M 2 Ax + I 1 + 2 A 2                                              (10)
 4π 2
                                             3
-Experimental problem - Solution                                                        Page 6
+
+
+Experimental problem - Solution                                                        Page 6
 
 
 The left-hand side in eq. (10) is known experimentally, and therefore with a simple linear fit
@@ -260,7 +270,9 @@ and the fit of the experimental data is shown in figure 9.
 
 
                                                 x [m]
-Experimental problem - Solution                                                                    Page 7
+
+
+Experimental problem - Solution                                                                    Page 7
 
 
 Figure 9: Fit of eq. (10) as a function of x. In this case the estimated error is again compatible with the

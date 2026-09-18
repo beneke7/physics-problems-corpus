@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-A converging lens with a focal length of 20 cm is placed on a convex spherical mirror as shown in the figure. What should the radius of curvature of the mirror be in order that a vertical parallel beam of light incident on the lens remain parallel after reflection from the system? 
+A converging lens with a focal length of 20 cm is placed on a convex spherical mirror as shown in the figure. What should the radius of curvature of the mirror be in order that a vertical parallel beam of light incident on the lens remain parallel after reflection from the system?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5413-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5413-fig1.gif)

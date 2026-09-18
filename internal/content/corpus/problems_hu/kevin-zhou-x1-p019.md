@@ -32,7 +32,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          WKB approximation.
 
                                                     11
-    Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                     Physics Olympiad Handouts
 
         (c) Calculate the average pressure on the walls by finding the energy E of the ground state using
             the WKB approximation, and the definition of pressure, P = −∂E/∂V . (This actually gives

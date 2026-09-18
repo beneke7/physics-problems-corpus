@@ -15,23 +15,23 @@ Solution of Problem EX1
 
 Using the interference method to measure the thermal expansion
 
-coefficient and temperature coefficient of refractive index of glass
-
+coefficient and temperature coefficient of refractive index of glass
+
 1.Questions     2.4 point
-
+
 1.1    C        0.4 point
 
-1.2 a Fill in the blanks 1.8 point 
-     
-               Number Must the profile of the reflected light spots be the        
-     Region       of    same as that of the incident light?                       
-              reflected        If “Yes”, fill in “Y”; if “No”, fill in “N”        
-                light     1st       2nd        3rd       4th                     
-                spots      (if       (if        (if       (if                     
-              observed any)         any)       any)     any)                      
-       a          1       N                                                     
-       b          2       Y          Y                         
-       c          3       Y          N          Y              
+1.2 a Fill in the blanks 1.8 point
+
+               Number Must the profile of the reflected light spots be the
+     Region       of    same as that of the incident light?
+              reflected        If “Yes”, fill in “Y”; if “No”, fill in “N”
+                light     1st       2nd        3rd       4th
+                spots      (if       (if        (if       (if
+              observed any)         any)       any)     any)
+       a          1       N
+       b          2       Y          Y
+       c          3       Y          N          Y
 
 Illustration:
 Region a: Because the upper and lower surface of the glass cylinder A are
@@ -49,14 +49,15 @@ the incident light.
 Region c: Because the upper and lower surface of each glass plate are not parallel to
 each other, but the upper and lower surface of the glass cylinder are approximately
 parallel to each other, there must be a pair of reflected light spots from the two plates
-overlap each other, causing interference fringes, while the light intensity distribution
+
+overlap each other, causing interference fringes, while the light intensity distribution
 of the other two reflected light spots would be the same as that of the incident light.
 
 
 1.2 b    0.2 point
-If you choose “No” (N)use one keyword to account for the reason: interference .
-
-Experiment: Measuring β and γ              7.6 points    
+If you choose “No” (N) use one keyword to account for the reason: interference .
+
+   Experiment: Measuring β and γ              7.6 points
 
 
 2.1 Design the Experiment, Draw the experimental ray diagrams and derive the
@@ -72,10 +73,11 @@ The experimental ray diagrams for measuring β (left) and γ (right) are shown i
     interference fringes appear at spot v, which are caused by the interference between
     the two light rays reflected from the bottom surface of the upper glass plate and the
     top surface of the lower glass plate. The difference between the optical lengths of
-    the two light rays is2L. After the electric oven starts heating, assume that the
+    the two light rays is 2L. After the electric oven starts heating, assume that the
     temperature T has increased by ΔT, the length increment of the sample due to the
     thermal expansion of glass will be               , and the shift in the number of the
- moving interference fringes is m1. Then,                    where λ stands for the
+
+ moving interference fringes is m1. Then,                     where λ stands for the
 
  wavelength of the laser light. Thus,
 
@@ -94,7 +96,7 @@ The experimental ray diagrams for measuring β (left) and γ (right) are shown i
 
    Assume that at this time the shift in the number of the moving interference fringes
    is m2,
-                                                       
+
 
    i.e.,                                      .
 
@@ -106,18 +108,19 @@ The experimental ray diagrams for measuring β (left) and γ (right) are shown i
 
 2.2 (1) Data recorded during the measurement of the thermal expansion coefficient β
 (0.8 points)
-    Measured Relation of m1 and T
+    Measured Relation of m1 and T
        m1        1           2      3        4         5           6      7         8
     (fringes)
     T(oC)       30.0     35.4      40.6     46.1      50.6        54.4   58.6     63.1
        m1        9        10       11        12       13          14     15
     (fringes)
     T(oC)       67.6     72.2      75.8     79.8      83.8        87.4   90.9
-2.2 (2) Data recorded during the measurement of the temperature coefficient of the
+
+2.2 (2) Data recorded during the measurement of the temperature coefficient of the
 refraction index γ (0.8 points)
 
 
-    Measured relation of m2 and T
+    Measured relation of m2 and T
       m2           1    2         3    4      5         6     7      8      9     10
    (fringes)
     T (oC)     25.4    27.0   28.9    31.0   33.4     35.3   37.6   40.0   42.2   44.4
@@ -131,28 +134,29 @@ refraction index γ (0.8 points)
 
 2.3 Get the thermal expansion coefficient           and the temperature coefficient of
 
-refractive index and estimate their uncertainties(2.6 points)
-(1) Draw the graphic relation ofm1~T and m2~T.
+refractive index and estimate their uncertainties (2.6 points)
+(1) Draw the graphic relation of m1~T and m2~T.
 
 
 
 
 (2) Calculate β.
-              With the parameters: L =10.120.05mmλ632.8nmΔΤ = 50.0 oC, and
+
+              With the parameters: L =10.12 0.05mm λ   632.8nm ΔΤ = 50.0 oC, and
       m1=11.5 (over temperature from 40        to 90 ) obtained from Fig.4., we get
 
                                                   -1
                                      =7.19 10−6        .
 
 (3) Estimate the uncertainty of β .
-                                 
 
 
 
 
-      With                mm,                 and estimation of               
 
-      
+      With                mm,                  and estimation of
+
+
 
 
                                                            ,
@@ -168,7 +172,7 @@ refractive index and estimate their uncertainties(2.6 points)
       measured β = (7.19 ± 0.13)×10−6  C−1 and
 
 
-       we obtain γ = 2.24 ×10−6  C−1 
+       we obtain γ = 2.24 ×10−6  C−1
 
 (5)    Estimate the uncertainty of
 
@@ -183,9 +187,9 @@ refractive index and estimate their uncertainties(2.6 points)
 2.4 Experimental results (0.2 points)
 
 
-      The thermal expansion coefficient of the sample glass material is
+      The thermal expansion coefficient of the sample glass material is
                       β = (7.19 ± 0.13)×10−6  C−1 .
 
-
+
       The temperature coefficient of the refractive index of the sample glass material is
-                γ = (2.24 ± 0.30)×10−6  C−1 
+                γ = (2.24 ± 0.30)×10−6  C−1

@@ -30,11 +30,11 @@ $$z = w_1 x_1 + w_2 x_2 + \cdots + w_n x_n + b$$
 
 is calculated, with real-numbered weights $w_i$ and real-numbered bias $b$. Then an activation function is applied to $z$ to produce the final output $y(x_1, x_2, \ldots)$. In the present problem you will investigate a physical model of a neuron with the electric voltages $x_1$ and $x_2$ as inputs, with the activation function being $A\sigma(z)$, graphed below, where $\sigma(z) = 1/(1+\exp(-z))$ is called the sigmoid function.
 
-![figure](../../sources/eupho/figures/eupho-2025-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-E1-1.png)
 
 The neuron circuit operates as shown below:
 
-![figure](../../sources/eupho/figures/eupho-2025-E1-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-E1-2.png)
 
 **Equipment**
 
@@ -60,7 +60,7 @@ The neuron circuit operates as shown below:
 
 Terminals A1, A2, and A3 are connected to the A-potentiometer $R_P$ and an additional load resistor $R_L$. Which of the schemes below corresponds to the circuit in the box? Determine the resistances $R_L$ and $R_P$; document the measurements made.
 
-![figure](../../sources/eupho/figures/eupho-2025-E1-3.png)
+![figure](../../../../../sources/eupho/figures/eupho-2025-E1-3.png)
 
 **Note** The B-potentiometer is connected to terminals B1, B2, B3 in exactly the same way with the same resistances $R_L$ and $R_P$, within manufacturing tolerances.
 

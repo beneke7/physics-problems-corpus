@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/inpho/2025_
 A2
 ωM sin2
 (ωMt)
-
+
 (2.4)
 The Gearbox is massless, and there is no loss of power. Thus,
 τMωM = τGωG ⇒ τG = XτM (2.5)
@@ -67,37 +67,37 @@ X2ωG
 r
 (2.12)
 ωG
-
+
 1
 R
 +
 X2
 r
-
+
 =
-
+
 4VM
 πNBA
-
+
 X
 r
 (2.13)
 ωG =
-
+
 4VM
 πNBA
-
+
 1
 r
 XR + X
- (2.14)
+  (2.14)
 To maximize ωG, minimize the denominator r/RX + X. Diﬀerentiating:
 d
 dX
- r
+  r
 RX
 + X
-
+
 = 0 (2.15)
 −
 r
@@ -127,7 +127,7 @@ G
 M
 π2R r
 XR + X
-2
+ 2
 To maximize ⟨PG⟩, diﬀerentiate with respect to X and solve for X
 X =
 r
@@ -155,27 +155,27 @@ r
 =
 VM
 r
-
+
 VM −
 2
 π
 NBAXωG
-
+
 (2.21)
 =
 V 2
 M
 r
 1 −
-
+
 8
 π2
-
+
 1
 r
 X2R
 + 1
-
+
 !
 (2.22)
 and
@@ -184,7 +184,7 @@ and
 M
 π2R r
 XR + X
-2 (2.23)
+ 2 (2.23)
 The eﬃciency is given by:
 η =
 ⟨PG⟩

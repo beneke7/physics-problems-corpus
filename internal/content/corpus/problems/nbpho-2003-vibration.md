@@ -33,6 +33,6 @@ Consider a smooth horizontal surface, which is moved periodically back and forth
 
 4) Until now we have ignored the dependence of the friction coefficient on the sliding velocity. Further let us assume this dependence is given by the graph below. The brick is kept in motion along $x$-axis by a force $F_{x}$ in such a way that the mean brick velocity is $v$. Sketch graphically the dependence $F_{x}(v)$ taking $u=\frac{3}{4} w_{0}$.
 
-![figure](../../sources/nbpho/figures/2003-p1-f4.png)
+![figure](../../figures/nbpho/figures/2003-p1-f4.png)
 
 5) The brick is put on the surface, there are no external forces. What is the brick's terminal velocity $v$? Provide the answer as a function of $u$.

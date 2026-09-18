@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Example. Work for a rubber band. Instead of dW = −pdV , we have dW = f dL, where f is the
-tension. Now, we have                                
+tension. Now, we have
                          ∂S           ∂f         ∂f      ∂L
                                =−            =−
                          ∂L T         ∂T L       ∂L T ∂T f
@@ -31,13 +31,12 @@ like springs, and contract when cold). The sign can be understood microscopicall
 gas has more position phase space, but if we model a rubber band as a chain of molecules taking a
 random walk with a constrained total length, there are fewer microstates if the length is longer.
     Next, using the triple product rule gives
-                                                  
+
                                           ∂S      ∂T
                                                        >0
                                           ∂T L ∂L S
 
 and the first term must be positive by thermodynamic stability; therefore a rubber band heats up
 if it is quickly stretched, just the opposite of the result for a gas.
-66 3. Statistical Mechanics
 
 

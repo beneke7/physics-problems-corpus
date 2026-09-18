@@ -46,7 +46,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                                    Page 1 of 15
-                                                               16 March 2022, 1:00pm–5:00pm
+
+
+                                                               16 March 2022, 1:00pm–5:00pm
 
 Declaration
 
@@ -73,7 +75,9 @@ Name and signature:
 
 
                                          Page 2 of 15
-                                                                16 March 2022, 1:00pm–5:00pm
+
+
+                                                                16 March 2022, 1:00pm–5:00pm
 
 1. Suppose that masses m1 and m2 separated by a distance r have an interaction potential
    energy given by
@@ -127,7 +131,9 @@ Name and signature:
 
 
                                         Page 3 of 15
-                                                               16 March 2022, 1:00pm–5:00pm
+
+
+                                                               16 March 2022, 1:00pm–5:00pm
 
 
     Solution: Adapted from Problem 2.11 of [2].
@@ -180,7 +186,9 @@ Name and signature:
 
 
                                         Page 4 of 15
-                                                              16 March 2022, 1:00pm–5:00pm
+
+
+                                                              16 March 2022, 1:00pm–5:00pm
 
                  N1
                                                                         N2
@@ -237,7 +245,9 @@ Name and signature:
 
 
                                        Page 5 of 15
-                                                               16 March 2022, 1:00pm–5:00pm
+
+
+                                                               16 March 2022, 1:00pm–5:00pm
 
 4. Starting from Maxwell’s equations for electromagnetism, we can identify the energy density
    (i.e. energy per unit volume of space) in an electromagnetic field as
@@ -260,10 +270,10 @@ Name and signature:
    (a) Consider a propagating light wave with wavelength λ, given by
                                 (
                                   ⃗    t) = E0 cos 2π
-                                                              
+
                                   E(x,               λ (x − ct) ŷ
                                   ⃗    t) = Ec0 cos 2π
-                                                              
+
                                   B(x,               λ (x − ct) ẑ
 
        where E0 is the amplitude of the electric field and ŷ, ẑ are the unit vectors in the
@@ -302,7 +312,9 @@ Name and signature:
 
 
                                         Page 6 of 15
-                                                                   16 March 2022, 1:00pm–5:00pm
+
+
+                                                                   16 March 2022, 1:00pm–5:00pm
 
 
     (a)(ii)
@@ -356,7 +368,9 @@ Name and signature:
 
 
                                            Page 7 of 15
-                                                                  16 March 2022, 1:00pm–5:00pm
+
+
+                                                                  16 March 2022, 1:00pm–5:00pm
 
 At time t = 0, the loops are co-planar (i.e. z = 0) and the smaller loop is not rotating (i.e.
 angular speed ω = 0).
@@ -414,7 +428,9 @@ angular speed ω = 0).
 
 
                                       Page 8 of 15
-                                                                16 March 2022, 1:00pm–5:00pm
+
+
+                                                                16 March 2022, 1:00pm–5:00pm
 
 6. For a certain circuit component shown below,
 
@@ -422,7 +438,7 @@ angular speed ω = 0).
 
 
   the current I is given by
-                                                             
+
                                                −eV0          eV
                               I = I0 exp                exp     −1 ,
                                                 kT           kT
@@ -439,7 +455,9 @@ angular speed ω = 0).
 
 
                                            Page 9 of 15
-                                                              16 March 2022, 1:00pm–5:00pm
+
+
+                                                              16 March 2022, 1:00pm–5:00pm
 
          i. Show some working and sketch VCD = VC −VD for the same time interval as shown        [3]
             for VAB . Assume that VAB has been running for a long time.
@@ -483,7 +501,9 @@ angular speed ω = 0).
 
 
                                        Page 10 of 15
-                                                              16 March 2022, 1:00pm–5:00pm
+
+
+                                                              16 March 2022, 1:00pm–5:00pm
 
 The outlet valve opens when the pressure inside the cylinder is greater than atmospheric
 pressure Pa , and closes when the piston moves to the left.
@@ -526,7 +546,7 @@ with the piston all the way to the right. Assume that there are no leaks in the 
  (a)
  1 - 5/3 (by considering additional work done needed at constant pressure)
  (b)
-                                t/∆t
+                                  t/∆t
                              V
  1 - obtaining P (t) = Pa V +∆V
  1 - replacing ∆t with α and rewriting in terms of ∆V /V
@@ -540,14 +560,16 @@ with the piston all the way to the right. Assume that there are no leaks in the 
 
 
                                     Page 11 of 15
-                                                               16 March 2022, 1:00pm–5:00pm
+
+
+                                                               16 March 2022, 1:00pm–5:00pm
 
 
     (d)
     1 - idea that the gas has volume V0 and pressure Pa after outlet valve closes
     1 - idea of adiabatic expansion to lowest pressure Pmin when pump is no longer effective
     (inlet valve does not open)
-                                                       −5/3
+                                                         −5/3
     1 - use of pV γ = const., to get Pmin = Pa 1 + ∆VV0
 
 
@@ -568,7 +590,7 @@ with the piston all the way to the right. Assume that there are no leaks in the 
        in terms of its rest-mass m, the magnitude P of its momentum, and the speed of light
        in vacuum c.
    (b) By considering momentum conservation, show that                                                [3]
-                                                            
+
                                2    2   1      1     2 cos θ
                               P =h         +       −           ,
                                         λ2 (λ′ )2      λλ′
@@ -596,7 +618,9 @@ with the piston all the way to the right. Assume that there are no leaks in the 
 
 
                                          Page 12 of 15
-                                                               16 March 2022, 1:00pm–5:00pm
+
+
+                                                               16 March 2022, 1:00pm–5:00pm
 
 
     1 - using cosine rule or equivalent
@@ -653,7 +677,9 @@ with the piston all the way to the right. Assume that there are no leaks in the 
 
 
                                         Page 13 of 15
-                                                                    16 March 2022, 1:00pm–5:00pm
+
+
+                                                                    16 March 2022, 1:00pm–5:00pm
 
 
        (d)
@@ -683,7 +709,9 @@ References
 
 
                                             Page 14 of 15
-                16 March 2022, 1:00pm–5:00pm
+
+
+                16 March 2022, 1:00pm–5:00pm
 
 
 

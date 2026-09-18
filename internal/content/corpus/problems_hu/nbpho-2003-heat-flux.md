@@ -26,4 +26,4 @@ A hőellenállás az egységnyi keresztmetszetű és egységnyi hosszúságú ve
 
 2) Egy vezeték különböző ötvözetekből készül; hőellenállása, $\rho$, a vezeték menti koordináta függvényében az ábrán látható. A vezeték keresztmetszete $S=1 \mathrm{~mm}^{2}$, hossza $l=4 \mathrm{~cm}$. Határozd meg a vezetéken átáramló hőáramot, ha a vezeték egyik végét 100°C-on, a másik végét pedig 0°C-on tartják.
 
-![ábra](../../sources/nbpho/figures/2003-p1-f1.png)
+![ábra](../../figures/nbpho/figures/2003-p1-f1.png)

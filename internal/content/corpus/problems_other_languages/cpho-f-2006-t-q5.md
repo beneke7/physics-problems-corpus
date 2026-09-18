@@ -23,7 +23,7 @@ verification_status: pending
 
 如图所示，坐标系 Oxyz 的 x 轴和 z 轴都位于纸面内，y 轴垂直纸面向里。两无限大金属极板 P 和 Q 分别位于 $x=-d$ 和 $x=d$ 处，磁感应强度大小为 B 的匀强磁场的方向平行于 Oxz 坐标平面，与 z 轴的夹角为 $\alpha$。在坐标原点 O 处，有一电荷为 q（＞0）、质量为 m 的带电粒子，以沿 y 轴正方向的初速度 $\mathrm{v}_{0}$ 开始运动。不计重力作用。
 
-![极板 P、Q（位于 x=±d，间距 2d）与平行于 Oxz 平面、与 z 轴成 α 角的磁场 B](../../sources/cpho-f/figures/cpho-f-2006-t-q5-fig1.png)
+![极板 P、Q（位于 x=±d，间距 2d）与平行于 Oxz 平面、与 z 轴成 α 角的磁场 B](../../figures/cpho-f/figures/cpho-f-2006-t-q5-fig1.png)
 
 1．若两极板间未加电场，欲使该粒子在空间上恰好能到达极板（但与板不接触），则初速度 $\mathrm{v}_{0}$ 应为多大？所需最短时间 $\mathrm{t}_{0}$ 是多少？
 

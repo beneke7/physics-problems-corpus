@@ -24,8 +24,8 @@ x
 y
 (0,0)
 If the rod moves with a constant speed v,
-(a) [2] obtain an expression for the induced emf (1) in terms of time t.
-Solution: 1(t) = 2vB
+(a) [2] obtain an expression for the induced emf ( 1) in terms of time t.
+Solution:  1(t) = 2vB
 r
 vt
 k

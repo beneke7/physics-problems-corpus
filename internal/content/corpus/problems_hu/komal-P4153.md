@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4153. Berillium atommag és proton ütközésekor lítium atommag és -részecske keletkezett. Határozzuk meg a reakcióban felszabadult energiát! 
+P. 4153. Berillium atommag és proton ütközésekor lítium atommag és -részecske keletkezett. Határozzuk meg a reakcióban felszabadult energiát!
  Budó Ágoston fizikaverseny, Szeged

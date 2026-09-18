@@ -20,4 +20,4 @@ verification_status: pending
 
 Adott egy végtelen háromszögrács; a rács élei vezetékből készülnek, és minden él ellenállása $R$. Egy háromszögrácsbeli lap három csúcsát jelölje $A$, $B$ és $C$. A $B$ és $C$ csúcsot összekötő vezetéket megszakítottuk. Határozzuk meg az $A$ és $B$ csúcs közötti ellenállást.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr47-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr47-fig1.jpg)

@@ -23,5 +23,5 @@ verification_status: pending
 
 Az oldal végén található fényképen végzett mérésekből határozza meg az ehhez a fényképhez használt fényképezőgép-objektív átmérőjét. Feltételezheti, hogy az ezzel az objektívvel készített képek az azonos fókusztávolságú és átmérőjű ideális vékony lencsével készített képekkel azonosak.
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-photography-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-photography-fig1.png)
 

@@ -51,29 +51,29 @@ gH
 from which we conclude, using the fact that g is small, that
 M′
 = M
-
+
 1 −
 gH
 c2
-
+
 .
 Each photon has its energy reduced by a factor of 1 − gH/c2, and since E = hf,
 f′
 = f
-
+
 1 −
 gH
 c2
-
+
 .
 (b) If we measure time through the frequency of light, then
 ∆t′
 = ∆t
-
+
 1 +
 gH
 c2
-
+
 again to lowest order in g. This is the desired result, since ϕ = gH. It implies that higher
 clocks tick faster.
 21
@@ -88,11 +88,11 @@ c
 =
 E
 c
-
+
 1 −
 gH
 c2
-
+
 .
 In each round trip, the photon exerts an impulse J = 2p − 2p′ on the box, giving a time-
 averaged force
@@ -119,11 +119,11 @@ s
 1 − aH/c2
 1 + aH/c2
 ≈ f
-
+
 1 −
 aH
 c2
-
+
 where we again work to lowest order in a.
 (e) Plugging in the numbers, gH/c2 = 2.5 × 10−15.
 (f) The change in energy is ∆E = h∆f, and the uncertainty principle says we need time

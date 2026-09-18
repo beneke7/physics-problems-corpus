@@ -33,4 +33,4 @@ d. the nett force on the shark is always the same as that on the sucker-fish bec
 e. the drag from the sucker-fish on the shark means that the nett force on the shark is less than on the sucker-fish.
 
 The blocks shown in the figure below are on a table. What is the nett force acting on the 5 kg block when the stack is:
-![](aupho-2013-q8-fig01.png)
+![](../../figures/aupho/figures/aupho-2013-q8-fig01.png)

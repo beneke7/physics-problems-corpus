@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A gymnast, performing a giant on a high bar, is just tipping over the vertical position at the top. When he reaches the bottom, the steel bar is visibly bent. Let us model the gymnast with a thin, heavy, uniform beam rotating around a horizontal axis (the steel bar). When the beam reaches the bottom from its top position, by what factor of its weight does it pull the bar? (Neglect friction, air resistance, and bending of the bar with respect to the length of the beam.) 
+A gymnast, performing a giant on a high bar, is just tipping over the vertical position at the top. When he reaches the bottom, the steel bar is visibly bent. Let us model the gymnast with a thin, heavy, uniform beam rotating around a horizontal axis (the steel bar). When the beam reaches the bottom from its top position, by what factor of its weight does it pull the bar? (Neglect friction, air resistance, and bending of the bar with respect to the length of the beam.)
  (4 pont)

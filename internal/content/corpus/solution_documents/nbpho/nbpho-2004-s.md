@@ -105,7 +105,9 @@ from the ratio of these to tangents, ε = − aa12 = lens plane intersect in one
 1−k ≈ 5.7, hence k = 1+ε ≈ 1.4.                               image of that point of the line which lays at the      π/2. Besides, there is a position between these
      Second method (more precise): determine lens plane, coincides with itself. Now, it is easy to                   two. At the equilibrium, the vector from the ori-
 the distances between neighbouring minimum construct the image, see the figure.                                      gin to the touching point ~r = (x, y) has to be
-6. Magnets (6 pts)                                    process is by constant pressure, otherwise the-       µ0 I/2πl and B1 = µ0 I/2π(l + a), we end
+
+
+6. Magnets (6 pts)                                    process is by constant pressure, otherwise the-       µ0 I/2πl and B1 = µ0 I/2π(l + a), we end
 1) Each permanent magnet can be considered            re would be huge acceleration due to pressure         up with dp = Rb µ2π
                                                                                                                               0I    a
                                                                                                                                  l(l+a) dΦ. Using the re-

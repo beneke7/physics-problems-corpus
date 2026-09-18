@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201403"
 verification_status: pending
 ---
 
-The image of the Sun is projected to a white screen by means of a converging lens. What kind of data are necessary, in order to state by what factor the image of the Sun brighter than the part of the screen which is illuminated by the Sun? 
+The image of the Sun is projected to a white screen by means of a converging lens. What kind of data are necessary, in order to state by what factor the image of the Sun brighter than the part of the screen which is illuminated by the Sun?
  (4 pont)

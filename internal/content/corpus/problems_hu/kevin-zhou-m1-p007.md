@@ -33,7 +33,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           kifejezetten. Mikor célszerű az egyik, illetve a másik alakot használni?
       (c) [A] Tekintsük a legáltalánosabb n-edrendű, lineáris, homogén, időeltolás-invariáns differenciálegyenletet:
                                     dn          dn−1
-                                                                      
+
                                                                 d
                                  an n + an−1 n−1 + . . . + a1 + a0 x = 0.
                                     dt          dt              dt

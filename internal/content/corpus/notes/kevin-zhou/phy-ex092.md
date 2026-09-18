@@ -30,7 +30,6 @@ of three d electrons, which first occurs for Vanadium, Z = 23. For anything more
 this, the answer is rather tedious to work out, and one consults standard tables.
 
 10.6    Chemistry
-247 11. Time Dependent Perturbation Theory
 
 
 11     Time Dependent Perturbation Theory
@@ -69,7 +68,7 @@ We begin by introduction “pictures” (or “frames”) in quantum mechanics.
                                              iℏ          = HS (t)U (t)
                                                    ∂t
      we find the Heisenberg equation of motion,
-                                                                                  
+
                                    dAH (t)                               ∂AS (t)
                               iℏ           = [AH (t), HH (t)] + iℏ                         .
                                      dt                                    ∂t          H

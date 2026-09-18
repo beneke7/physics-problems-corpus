@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-The Earth's ice caps and glaciers currently contain approximately $30\,000\,000~\mathrm{km}^3$ of ice. Let us estimate how much the sea level of the oceans and seas would rise if all this huge amount of ice melted. 
+The Earth's ice caps and glaciers currently contain approximately $30\,000\,000~\mathrm{km}^3$ of ice. Let us estimate how much the sea level of the oceans and seas would rise if all this huge amount of ice melted.
  (3 pont)

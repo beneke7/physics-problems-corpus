@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $C$ kapacitású kondenzátort úgy töltünk fel, hogy a feszültsége $V_{0}$ legyen. Ezután a kondenzátort egy dióda és egy $R$ ellenállás soros kapcsolásán sütjük ki. Tegyük fel, hogy a grafikon jó közelítést ad a dióda $V$–$I$ függésére, és hogy a kondenzátort a $V_{d}$ feszültségig sütjük ki. Határozzuk meg az ellenálláson disszipálódó hő mennyiségét.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr58-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr58-fig1.jpg)

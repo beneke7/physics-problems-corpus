@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-2 litres of water, initially at a temperature of $20~{}^\circ$C, was heated for ten minutes by an immersion heater, rated at 500 W. Due to this heating the temperature of the water increased to $45~{}^\circ$C. What was the efficiency of the heating process? 
+2 litres of water, initially at a temperature of $20~{}^\circ$C, was heated for ten minutes by an immersion heater, rated at 500 W. Due to this heating the temperature of the water increased to $45~{}^\circ$C. What was the efficiency of the heating process?
  (3 pont)

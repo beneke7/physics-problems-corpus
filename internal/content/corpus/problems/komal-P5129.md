@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [superposition, model-reduction, auxiliary-unknowns]
 ---
 
-There is a circular conducting loop of radius $R\ll \ell$ around a very long solenoid of radius $r$, with number of turns $N$ and of turn density $n=N/\ell$, as shown in the figure. What is the reading on an ideal voltmeter connected across the terminals of the solenoid, if the current that flows in the circular loop is changing uniformly in time, according to the formula $I(t)=\alpha\cdot t$? 
+There is a circular conducting loop of radius $R\ll \ell$ around a very long solenoid of radius $r$, with number of turns $N$ and of turn density $n=N/\ell$, as shown in the figure. What is the reading on an ideal voltmeter connected across the terminals of the solenoid, if the current that flows in the circular loop is changing uniformly in time, according to the formula $I(t)=\alpha\cdot t$?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5129-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5129-fig1.gif)

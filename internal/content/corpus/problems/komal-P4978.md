@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, strategic-heuristics]
 ---
 
-In the engine of an ion propulsion rocket positive heavy ions are accelerated, such that these ions flow through the nozzle, and this accelerates the rocket. There is an electron accelerator on the rocket as well, why is it necessary? 
+In the engine of an ion propulsion rocket positive heavy ions are accelerated, such that these ions flow through the nozzle, and this accelerates the rocket. There is an electron accelerator on the rocket as well, why is it necessary?
  (3 pont)

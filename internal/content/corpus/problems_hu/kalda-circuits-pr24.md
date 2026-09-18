@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi áramkörben folyó áramot; a dióda $I(V)$ függését a grafikon mutatja.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr24-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr24-fig1.jpg)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-The rear-view window of a car can be rotated by a small pin, and after this rotation the image is much fainter. Thus the headlight of a car behind us will not blind the driver of our car. How is the glass of the mirror formed? 
+The rear-view window of a car can be rotated by a small pin, and after this rotation the image is much fainter. Thus the headlight of a car behind us will not blind the driver of our car. How is the glass of the mirror formed?
  (4 pont)

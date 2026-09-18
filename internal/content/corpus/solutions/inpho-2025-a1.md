@@ -72,11 +72,11 @@ I =
 2mgh
 ω2 1 + n
 N
- −
+  −
 md2
 4 1 + n
 N
- (1.5)
+  (1.5)
 where ω = 4πN
 T
 Final answers written in the form of W are also accepted.

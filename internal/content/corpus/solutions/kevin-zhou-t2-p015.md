@@ -20,11 +20,11 @@ all configurations are equally likely at any temperature. Define L = (N− − N
 downward extension of the chain.
 (a) Using the approximation mentioned in problem 14 and assuming L ≪ Na, show that
 S = NkB
-
+
 log2 −
 L2
 2N2a2
-
+
 and hence show that the entropy decreases as L increases. This model is very basic; for
 instance, it tells us nothing about the tension in the chain, but the sign here is correct. (Hint:
 notice that the changes in entropy are of order L2/N, and hence are very small. You will have
@@ -70,11 +70,11 @@ S = N logN − N+ logN+ − N− logN−
 Kevin Zhou Physics Olympiad Handouts
 To simplify further, we write the logarithms as
 log(N ± L) = logN + log
-
+
 1 ±
 L
 N
-
+
 .
 Plugging this in and defining x = L/N gives
 S = N log2 −
@@ -98,11 +98,11 @@ S = N log2 −
 Nx2
 2
 = NkB
-
+
 log2 −
 L2
 2N2a2
-
+
 as desired.
 (b) Since the process is fast, it is adiabatic, so the entropy of the entire rubber band stays the
 same. But we have shown the entropy of the chain configuration degrees of freedom (i.e. ones
@@ -180,11 +180,11 @@ kBT
 .
 On the other hand, we have
 F = −mgL − NkBT
-
+
 log2 −
 L2
 2N2a2
-
+
 and we have
 ∂F
 ∂L

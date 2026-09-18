@@ -22,16 +22,16 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-In the connection shown in the figure, the resistors have the same resistance $R$, and at a voltage $U$ the their power is $P$. 
+In the connection shown in the figure, the resistors have the same resistance $R$, and at a voltage $U$ the their power is $P$.
 
- What is the power dissipated in each resistor with the switches open (O) or closed (C)? Fill in the table! 
+ What is the power dissipated in each resistor with the switches open (O) or closed (C)? Fill in the table!
 
- 1. 2. $A$ $B$ $C$ 
- ny ny 
- ny z 
- z ny 
- z z   
+ 1. 2. $A$ $B$ $C$
+ ny ny
+ ny z
+ z ny
+ z z  
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G771-fig1.gif)
+![figure](../../figures/komal/figures/komal-G771-fig1.gif)

@@ -34,4 +34,4 @@ a B) esetben $34{,}6\,°\mathrm{C}$
 
 legyen. Melyik lombikból fogy el hamarabb a folyadék az egyik, illetve a másik esetben?
 
-![figure](../../sources/eotvos/figures/eotvos-1999-evaporating-liquids-fig1.jpeg)
+![figure](../../figures/eotvos/figures/eotvos-1999-evaporating-liquids-fig1.jpeg)

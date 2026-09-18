@@ -22,7 +22,7 @@ verification_status: pending
 
 Az öntözőkészülék félgömb alakú, és annak a gömbfelületén kis lyukak vannak kifúrva. Ezekből az apró lyukakból $v = 10$ m/s sebességgel víz áramlik ki. Az öntözőkészülék közelében a víz áramlása egyenletesen oszlik meg a felső féltér összes irányában. Az öntözőkészülék a padló szintjén van felszerelve úgy, hogy a tengelye függőleges. A következőkben a légellenállást hanyagold el, és az öntözőkészülék méreteit tekintsd igen kicsinek.
 
-![figure](../../sources/nbpho/figures/nbpho-2010-sprinkler-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2010-sprinkler-fig1.jpg)
 
 **i)** *(1,5 pont)* Határozd meg az öntözőkészülék által locsolt terület nagyságát.
 

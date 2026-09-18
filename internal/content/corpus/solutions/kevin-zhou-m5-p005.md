@@ -21,7 +21,7 @@ shape from pieces. There are much more complicated variants, but they’re all t
 Four of the triangles clearly each contribute (m/6)a2/8. The other two each contribute
 m
 6
-
+
 a2
 /8 − (a/2
 √
@@ -29,7 +29,7 @@ a2
 + (a/
 √
 3)2
-
+
 = 3(m/6)a2
 /8
 where we did two consecutive applications of the parallel axis theorem. Thus, the total is

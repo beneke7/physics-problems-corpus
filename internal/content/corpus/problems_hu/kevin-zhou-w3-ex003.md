@@ -45,11 +45,13 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           of light that passes through the stack?
 
                                                            4
-Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                Physics Olympiad Handouts
 
   Idea 3
   For a plane wave propagating along the z-axis with general polarization, it’s useful to write
-                                                          
+
                                  E(z, t) = Re E0 ei(kz−ωt)
 
   where E0 is a complex two-component vector, describing both its amplitude and polarization.
@@ -95,7 +97,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   must be mapped to two other unit vectors which are still orthogonal, as complex vectors.
 
                                                    5
-    Kevin Zhou                                                                          Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                          Physics Olympiad Handouts
 
        That is indeed true, because
 

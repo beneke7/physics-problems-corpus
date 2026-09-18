@@ -68,7 +68,9 @@ Table 1
                          60
                               0          1            2           3            4           5           6          7
                                                                   Number of nuts
-XIV International Zhautykov Olimpiad/Experimental Competition                             Page 2/6
+
+
+XIV International Zhautykov Olimpiad/Experimental Competition                             Page 2/6
 
 
 The dependence obtained is linear and is described by the formula
@@ -129,7 +131,9 @@ of nuts
        1                 0,680                  0,463
        2                 0,717                  0,514
        3                 0,752                  0,565
-XIV International Zhautykov Olimpiad/Experimental Competition                                 Page 3/6
+
+
+XIV International Zhautykov Olimpiad/Experimental Competition                                 Page 3/6
 
 
                             4          0,785             0,617
@@ -185,7 +189,9 @@ Table 3. Oscillations in the wide vessel
                      5        3,89   0,778
                      5        3,83   0,766
                      5        3,80   0,760
-XIV International Zhautykov Olimpiad/Experimental Competition                         Page 4/6
+
+
+XIV International Zhautykov Olimpiad/Experimental Competition                         Page 4/6
 
 
         6           5      3,93       0,786      0,789            0,010      0,622
@@ -236,7 +242,9 @@ Comments:
 2.3 These reasons should lead to an increase in the period, and not to a decrease.
 4. Apparently, the main reason, leading to a reduction in the period.
 5. Too small forces.
-XIV International Zhautykov Olimpiad/Experimental Competition                         Page 5/6
+
+
+XIV International Zhautykov Olimpiad/Experimental Competition                         Page 5/6
 
 
 
@@ -289,7 +297,9 @@ Part1. Installation parameters
        account (only one contribution)
 
 * - marked only if the measurements are marked.
-XIV International Zhautykov Olimpiad/Experimental Competition                           Page 6/6
+
+
+XIV International Zhautykov Olimpiad/Experimental Competition                           Page 6/6
 
 
 

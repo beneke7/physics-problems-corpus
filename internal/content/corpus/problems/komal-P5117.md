@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A golden wedding ring is positioned such that the magnetic induction vector of the Earth is parallel to the ring. The ring is rotated uniformly by $180^\circ$ in 1 second. The axis of rotation is in the plane of the ring, and 
- $a)$ parallel to the magnetic induction vector; 
- $b)$ perpendicular to the magnetic induction vector. 
- In which case do we have to do more work, while the ring is turned? Estimate the difference between the values of the performed work in the two cases. 
+A golden wedding ring is positioned such that the magnetic induction vector of the Earth is parallel to the ring. The ring is rotated uniformly by $180^\circ$ in 1 second. The axis of rotation is in the plane of the ring, and
+ $a)$ parallel to the magnetic induction vector;
+ $b)$ perpendicular to the magnetic induction vector.
+ In which case do we have to do more work, while the ring is turned? Estimate the difference between the values of the performed work in the two cases.
  (5 pont)

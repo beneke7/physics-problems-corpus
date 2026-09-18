@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200503"
 verification_status: pending
 ---
 
-In the heroic age of radio every night at the end of the broadcast the announcer warned the audience: ``Please don't forget to earth your aerials.'' Why was it important and how could that be done? 
+In the heroic age of radio every night at the end of the broadcast the announcer warned the audience: ``Please don't forget to earth your aerials.'' Why was it important and how could that be done?
 
  (4 pont)

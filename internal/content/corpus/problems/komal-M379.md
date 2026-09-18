@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201809"
 verification_status: pending
 ---
 
-Measure the height from which a retractable ballpoint click pen should be dropped from a vertical position in order that it is clicked on. When the tip of the pen is already out, from what height should it be dropped vertically in order that it is clicked off? 
+Measure the height from which a retractable ballpoint click pen should be dropped from a vertical position in order that it is clicked on. When the tip of the pen is already out, from what height should it be dropped vertically in order that it is clicked off?
  (6 pont)

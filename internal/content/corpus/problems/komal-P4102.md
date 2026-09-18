@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200810"
 verification_status: pending
 ---
 
-Is it possible that an electron undergoes uniform straight line motion while it travels through a region of perpendicularly crossed electric and magnetic fields? The electric field is E =3 kV/m and the magnetic induction is B =10  T . 
+Is it possible that an electron undergoes uniform straight line motion while it travels through a region of perpendicularly crossed electric and magnetic fields? The electric field is E =3 kV/m and the magnetic induction is B =10  T .
  (4 pont)

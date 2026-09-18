@@ -23,12 +23,11 @@ source_role: explanatory_example
 ---
 Példa. Nitrogén. Az 1s2 2s2 2p3 elektronkonfigurációból indulunk ki, amelynek degenerációja
  6
-  
+
  3 = 20. Ehhez szisztematikusabb megközelítés szükséges. Az általános eljárás a Clebsch–Gordan-felbontáshoz hasonló. Az állapotokat az (ML , MS ) értékek szerint rendezzük. Egy legmagasabb párnak (vagyis egy L+ és S+ által lenullázott állapotnak) egy 2S+1 L multiplett kétszeresen nyújtott, illetve legmagasabb súlyú állapotának kell lennie. Ezután ebben a multiplettben áthúzzuk a többi (ML , MS ) értéket, és ismételjük az eljárást. Továbbá, mivel legmagasabb súlyú állapotokra összpontosítunk, csak az ML , MS ≥ 0 állapotokat kell figyelembe vennünk.
     Ebben az esetben a releváns (ML , MS ) értékek:
 
                       1 × (2, 1/2),   2 × (1, 1/2),   1 × (0, 3/2),   3 × (0, 1/2)
-246 10. Atomfizika
 
 Ezért az első állapot egy 2 D multiplett legmagasabb súlyú állapota. Ennek a multiplettnek az áthúzása után marad
 

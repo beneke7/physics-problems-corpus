@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-If we know the size of the Earth's surface, the acceleration due to gravity, and the atmospheric pressure, the total mass of the Earth's atmosphere can be determined with a good approximation. Carry out the calculation. How is it possible that occasionally the air pressure changes significantly, while the mass of the atmosphere remains the same? 
+If we know the size of the Earth's surface, the acceleration due to gravity, and the atmospheric pressure, the total mass of the Earth's atmosphere can be determined with a good approximation. Carry out the calculation. How is it possible that occasionally the air pressure changes significantly, while the mass of the atmosphere remains the same?
  (3 pont)

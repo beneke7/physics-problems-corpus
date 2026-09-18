@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: flagged
 ---
 
-The form consisting of rings touching each other is soldered from a 1-m long metal wire of resistance 80  . (See the figure. ) What is the resistance measured across the endpoints  AB of the diameter of the great ring? 
+The form consisting of rings touching each other is soldered from a 1-m long metal wire of resistance 80  . (See the figure. ) What is the resistance measured across the endpoints  AB of the diameter of the great ring?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4495-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4495-fig1.gif)

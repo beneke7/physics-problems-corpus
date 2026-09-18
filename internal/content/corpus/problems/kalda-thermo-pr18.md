@@ -22,4 +22,4 @@ a) If the aircraft's ground speed is $v_{0}=100 \mathrm{~m} / \mathrm{s}$, what 
 b) In the case of high relative humidity, as the ground speed of the aircraft increases over a critical value $v_{\text {crit }}$, a stream of water droplets is created behind the wing. The droplets emerge at a certain point $Q$. Mark the point $Q$ in fig. on the answer sheet. Explain qualitatively (using formulae and as few text as possible) how you determined its position.
 c) Estimate the critical speed $v_{\text {crit }}$ using the following data: relative humidity of the air is $r=90 \%$, specific heat of air at constant pressure $c_{p}=1.00 \times 10^{3} \mathrm{~J} / \mathrm{kg} \cdot \mathrm{K}$, pressure of saturated water vapour: $p_{s a}=2.31 \mathrm{kPa}$ at the temperature of the unperturbed air $T_{a}=293 \mathrm{~K}$ and $p_{s b}=2.46 \mathrm{kPa}$ at $T_{b}=294 \mathrm{~K}$.
 
-![figure](../../sources/kalda/figures/kalda-thermo-pr18-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-thermo-pr18-fig1.jpg)

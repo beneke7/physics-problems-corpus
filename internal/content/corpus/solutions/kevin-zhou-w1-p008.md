@@ -17,7 +17,7 @@ number of dimensions. For example, ideal waves in three dimensions obey
 ∂2ψ
 ∂t2
 = v2
-
+
 ∂2ψ
 ∂x2
 +
@@ -26,7 +26,7 @@ number of dimensions. For example, ideal waves in three dimensions obey
 +
 ∂2ψ
 ∂z2
-
+
 = v2
 ∇2
 ψ
@@ -111,7 +111,7 @@ where we used the product rule. By similar logic for the other components, we co
 ∂2ψ
 ∂t2
 = v2
-
+
 3 − (x2 + y2 + z2)/r2
 r
 ∂ψ
@@ -121,9 +121,9 @@ x2 + y2 + z2
 r2
 ∂2ψ
 ∂r2
-
+
 = v2
-
+
 2
 r
 ∂ψ
@@ -131,7 +131,7 @@ r
 +
 ∂2ψ
 ∂r2
-
+
 .
 Of course, a shortcut to this result would be to just look up the formula for the Laplacian in
 spherical coordinates, but it’s good to go through this once in your life.

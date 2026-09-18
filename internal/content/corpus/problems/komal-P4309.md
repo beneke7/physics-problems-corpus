@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, cross-domain-analogy]
 ---
 
-There is some water in a container which is on a table. The bottom of the container is connected with a tube to the interior part of a black box which is next to the table and which is as big as a cupboard. If a little more water is poured into the container, then the original level of the water decreases, and if some water is taken out of the container the level of water in it increases. What can be in the black box? 
+There is some water in a container which is on a table. The bottom of the container is connected with a tube to the interior part of a black box which is next to the table and which is as big as a cupboard. If a little more water is poured into the container, then the original level of the water decreases, and if some water is taken out of the container the level of water in it increases. What can be in the black box?
  (5 pont)

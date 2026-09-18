@@ -20,4 +20,4 @@ verification_status: pending
 
 Hányszorosára változik a telepen átfolyó áram, ha megfordítjuk a telep polaritását? Minden ellenállás azonos, a diódák ideálisak, a telep belső ellenállása pedig elhanyagolható.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr44-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr44-fig1.jpg)

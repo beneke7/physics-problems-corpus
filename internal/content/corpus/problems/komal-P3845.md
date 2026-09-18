@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-In a football match can a goal be scored if the ball is kicked such that it undergoes only translational motion, hits the goal-post, then bounces on the goal-line, and then nobody touches the ball. 
+In a football match can a goal be scored if the ball is kicked such that it undergoes only translational motion, hits the goal-post, then bounces on the goal-line, and then nobody touches the ball.
  (3 pont)

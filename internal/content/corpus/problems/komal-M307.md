@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201009"
 verification_status: pending
 ---
 
-Measure the refractive indices of different liquids (e.g. water, glycerin) in the following way: place a concave mirror (a watch glass can also be used) to the table create the sharp image of a filament lamp, hanging from the ceiling, on a screen made of tracing paper (translucent paper). Then pour some liquid into the mirror and find the sharp image of the filament lamp again. Measuring distances determine the refractive index of the liquid. 
+Measure the refractive indices of different liquids (e.g. water, glycerin) in the following way: place a concave mirror (a watch glass can also be used) to the table create the sharp image of a filament lamp, hanging from the ceiling, on a screen made of tracing paper (translucent paper). Then pour some liquid into the mirror and find the sharp image of the filament lamp again. Measuring distances determine the refractive index of the liquid.
  (6 pont)

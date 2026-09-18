@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, extremization, strategic-heuristics]
 ---
 
-How can you heat 1 kg mineral water which is at a temperature of 0 $^\circ$C, to at least 60 $^\circ$C with using 1 kg water at a temperature of 100 $^\circ$C? 
+How can you heat 1 kg mineral water which is at a temperature of 0 $^\circ$C, to at least 60 $^\circ$C with using 1 kg water at a temperature of 100 $^\circ$C?
  (5 pont)

@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nehéz ládát két traktor húz. Az egyik sebessége $v_{1}$, a másiké $v_{2}$, a sebességvektorok által bezárt szög $\alpha$. Mekkora a láda sebessége, ha feltesszük, hogy a kötelek párhuzamosak a sebességvektorokkal?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr47-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr47-fig1.jpg)

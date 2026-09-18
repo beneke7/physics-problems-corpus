@@ -26,6 +26,6 @@ A circular resonator in fibre optics is made from one circular single-mode fibre
 
 Laser light of intensity $I_0=E_0^2$ (with $E_0$ denoting the amplitude of the wave) and of a very long coherence length is directed into the bottom fibre at the input $O$; at the output $D$, both the main-frequency and double-frequency light will appear. For fixed values of $I_0$ and $\delta$, the intensity of the double-frequency light $\mathcal I$ at the output depends on the coupling strength $\alpha$ which can be easily controlled through the manufacturing process. Find the maximal value $\mathcal I_m$ of $\mathcal I$, and the corresponding coupling strength $\alpha_m$ (express in terms of $I_0$ and $\delta$; only closed-form expressions are accepted).
 
-![figure](../../sources/physicscup/figures/physicscup-2021-p5-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2021-p5-1.png)
 
 Hint 0, Hint 1, Hint 2, Hint 3, Hint 4, Best solutions and final results

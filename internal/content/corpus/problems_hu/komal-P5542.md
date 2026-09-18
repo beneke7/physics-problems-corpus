@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5542. Egy $R$ ellenállásból, egy $L$ induktivitású tekercsből, egy $C$ kapacitású kondenzátorból és egy $U(t)=U_0\sin(\omega t)$ feszültségű generátorból az ábrán látható egyszerű áramkört hozzuk létre. 
+P. 5542. Egy $R$ ellenállásból, egy $L$ induktivitású tekercsből, egy $C$ kapacitású kondenzátorból és egy $U(t)=U_0\sin(\omega t)$ feszültségű generátorból az ábrán látható egyszerű áramkört hozzuk létre.
 
- $a)$ Mekkora az ellenálláson átfolyó áram amplitúdója? 
+ $a)$ Mekkora az ellenálláson átfolyó áram amplitúdója?
  $b)$ Hogyan válasszuk meg az $\omega$ körfrekvenciát ahhoz, hogy az ellenálláson ne folyjon áram?
 
-![figure](../../raw_html/komal_figures/komal-P5542-fig1.png)
+![figure](../../figures/komal/figures/komal-P5542-fig1.png)

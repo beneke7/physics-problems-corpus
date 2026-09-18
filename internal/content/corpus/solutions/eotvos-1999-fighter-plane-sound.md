@@ -36,8 +36,8 @@ Mivel
 CM ⊥
 − − →
 FM, a CMF háromszög derékszög¶. Ameddig a gép megtette a CF utat, addig a hang a CM
-távolságot futotta be. (Ábránkon ez az id® 3τ.) Az összes pontból jöv® hanghullán ered®je az a kúp alakú fejhullám-
-felület, amelynek egyik alkotója a 2. ábrán az FM egyenes. E kúp fél nyílásszöge az ún. Ma h-szög, amelyre
+távolságot futotta be. (Ábránkon ez az id® 3τ.) Az összes pontból jöv® hanghullán ered®je az a kúp alakú  fejhullám-
+felület , amelynek egyik alkotója a 2. ábrán az FM egyenes. E kúp fél nyílásszöge az ún. Ma h-szög, amelyre
 sinϕ =
 c
 v
@@ -89,13 +89,13 @@ sinµ =
 , illetve µ2 = 150◦
 .
 Meglep®nek t¶nhet, hogy a µ szögre két érték is adódott, pedig sak egy hegyesszögre számítottunk. Vajon a
-tompaszög is megoldása az eredeti 
+tompaszög is megoldása az eredeti
 zikai problémának? Bizony az! Már a 2. ábrából is látszik, hogy ha a repül®gép
 túlhaladt az F ponton, akkor nem sak a C pont utáni helyekr®l (pl. D-b®l és E-b®l) induló hullámok érik el fokozatosan
 az M pontot, hanem egyidej¶leg azok a hullámok is odaérnek, amelyeket még a C pontba érkezése el®tt bo sátott ki
 a gép (pl. B-b®l, A-ból). Egy ilyen helyzetet mutat a 4. ábra, ahol éppen a B és a D pontok közeléb®l indult hullámok
-érik el egyszerre M-et. (A C-b®l indult hullám már túlhaladt M-en). Az els® hangrobbanás után tehát mindig két
-irányból halljuk a repül®gép hangját, igaz, általában az elölr®l jöv®t halljuk er®sebben.
+érik el egyszerre M-et. (A C-b®l indult hullám már túlhaladt M-en). Az els®  hangrobbanás  után tehát mindig két
+irányból halljuk a repül®gép hangját, igaz, általában az  elölr®l  jöv®t halljuk er®sebben.
 Megjegyzés. A megoldók a hallott hang MP irányának meghatározásakor általában a vízszintes vagy függ®leges
 iránnyal bezárt szögeket adták meg. A helyes eredmények a vízszintessel bezárt szögekre: µ1 + ̺ = 56,74◦
 , illetve

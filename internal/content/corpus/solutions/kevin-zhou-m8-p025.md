@@ -15,14 +15,14 @@ provenance_note: "Source-provided solution section from sources/kevin_zhou/site/
 [3] Problem 25. In P1, you found a general expression for the period of a pendulum oscillating with
 amplitude θ0 in terms of an integral, then approximated the integral for θ0 ≪ 1 to find
 ω = ω0
-
+
 1 −
 θ2
 0
 16
 + O(θ4
 0)
-
+
 where ω0 =
 p
 g/L. In this problem, we will show a different way to get the same answer, by solving
@@ -83,7 +83,7 @@ Solution. (a) Plugging everything in and using sinθ = θ − θ3/6 + O(θ5), we
 0
 ¨ f1 + ω2
 0
-
+
 θ0f0 + θ3
 0f1 −
 1
@@ -92,17 +92,17 @@ Solution. (a) Plugging everything in and using sinθ = θ − θ3/6 + O(θ5), we
 0f3
 0 + O(θ5
 0)
-
+
 = 0.
 Collecting the order θ0 and θ3
 0 terms gives the desired result.
 (b) The easiest way to do this is to use the definition of cos(ω0t) in terms of complex exponentials,
 cos3
 (ω0t) =
-
+
 eiω0t + e−iω0t
 2
-3
+ 3
 =
 e3iω0t + 3eiω0t + 3e−iω0t + e−3iω0t
 8
@@ -120,22 +120,22 @@ differential equations, so that now we have
 f0 = 0, ¨ f1 + ω2
 0f1 = ω2
 0
-
+
 f3
 0
 6
 − 2cf0 + O(θ2
 0)
-
+
 .
 The part of the right-hand side that oscillates at angular frequency ω0 is
 ω2
 0
-
+
 1
 6
 3
 4
 cos(ω0t) − 2ccos(ω0t)
-
+
 from which we conclude c = 1/16.

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-An interesting optical toy consists of two opposite concave spherical mirrors, having the same radius of curvature, the one at the top having a circular hole of diameter of a few centimetres at its centre. The distance between the mirrors is set in a way, that if a small object (e.g. a piece of candy) is placed at the centre of the mirror at the bottom, then its image is formed at the centre of the mirror with the hole in it. The light beam forms the image after a reflection first in the top, then in the bottom mirror. 
+An interesting optical toy consists of two opposite concave spherical mirrors, having the same radius of curvature, the one at the top having a circular hole of diameter of a few centimetres at its centre. The distance between the mirrors is set in a way, that if a small object (e.g. a piece of candy) is placed at the centre of the mirror at the bottom, then its image is formed at the centre of the mirror with the hole in it. The light beam forms the image after a reflection first in the top, then in the bottom mirror.
 
- $a)$ What is the distance between the centers of the two mirrors? 
- $b)$ Is the image upright or inverted? Is it a virtual or a real image? What is the magnification? 
+ $a)$ What is the distance between the centers of the two mirrors?
+ $b)$ Is the image upright or inverted? Is it a virtual or a real image? What is the magnification?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4900-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4900-fig1.gif)

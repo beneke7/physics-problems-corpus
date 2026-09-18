@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201411"
 verification_status: pending
 ---
 
-A bi-concave air lens is made from two watch glasses of radius $f=10~$cm and a short piece of tube. Where should it be placed in a 90 cm-long aquarium, filled with water of refractive index $n=1.33$, such that the image of the figure at the opaque side of the aquarium is formed exactly at the opposite wall of the aquarium? 
+A bi-concave air lens is made from two watch glasses of radius $f=10~$cm and a short piece of tube. Where should it be placed in a 90 cm-long aquarium, filled with water of refractive index $n=1.33$, such that the image of the figure at the opaque side of the aquarium is formed exactly at the opposite wall of the aquarium?
  (4 pont)

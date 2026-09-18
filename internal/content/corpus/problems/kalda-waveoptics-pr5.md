@@ -19,4 +19,4 @@ verification_status: pending
 
 Calculate the diffraction pattern behind a diffraction grating assuming that the slit width is half of the grid pitch $a$.
 
-![figure](../../sources/kalda/figures/kalda-waveoptics-pr5-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-waveoptics-pr5-fig1.jpg)

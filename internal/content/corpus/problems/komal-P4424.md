@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-A 20-litre plastic can contains petrol. The can is floating on the surface of the water of a lake, such that one-third of the volume of the can is out of the water. The mass of the empty can is 0,78 kg. The density of petrol is 720  , the density of plastic is 1300  . Approximately how many litres of petrol are there in the can? 
+A 20-litre plastic can contains petrol. The can is floating on the surface of the water of a lake, such that one-third of the volume of the can is out of the water. The mass of the empty can is 0,78 kg. The density of petrol is 720  , the density of plastic is 1300  . Approximately how many litres of petrol are there in the can?
  (4 pont)

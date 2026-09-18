@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-A light ray entering into a spherical water drop emerges from the drop perpendicular to its original direction, after two internal reflections, as shown in the figure. What is the angle of incidence? (The refractive index of water is $n=\frac43$.) 
+A light ray entering into a spherical water drop emerges from the drop perpendicular to its original direction, after two internal reflections, as shown in the figure. What is the angle of incidence? (The refractive index of water is $n=\frac43$.)
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5065-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5065-fig1.gif)

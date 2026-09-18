@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-The bob of a simple pendulum is displaced and then released. What can be the greatest angle of displacement, if the maximum force exerted by the thread is twice the weight of the bob, and the thread is not to be broken? 
+The bob of a simple pendulum is displaced and then released. What can be the greatest angle of displacement, if the maximum force exerted by the thread is twice the weight of the bob, and the thread is not to be broken?
  (4 pont)

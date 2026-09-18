@@ -38,5 +38,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
       (e) A separate laser is aimed at each slit. Assume, somewhat unrealistically, that the lasers have
 
-                   01W
+                   01W
           perfectly stable but slightly different frequencies, say ∆f = 1 Hz.

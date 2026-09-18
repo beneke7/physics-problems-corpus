@@ -47,7 +47,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        Conversely, if you don’t know the focal length of a system, you can use this idea to find it.
        For example, the lensmaker’s equation, giving the focal length of a lens of radii of curvature
        R1 and R2 and thickness d, is
-                                                                      
+
                                   1              1     1     (n − 1) d
                                     = (n − 1)       −     +
                                   f              R1 R2        nR1 R2
@@ -55,7 +55,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        and can be derived by computing the bending of the light ray at each interface.
 
                                                      12
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
        Example 5
 

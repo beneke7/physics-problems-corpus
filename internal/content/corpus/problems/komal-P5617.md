@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, smart-coordinates]
 ---
 
-A small body rests at the bottom of a frictionless slope. The slope has an angle of inclination of $30^\circ$ and a height of $1~\mathrm{m}$. The slope is moved horizontally with an acceleration of $7~\mathrm{m/s^2}$. How long does it take for the body to reach the top of the slope? 
+A small body rests at the bottom of a frictionless slope. The slope has an angle of inclination of $30^\circ$ and a height of $1~\mathrm{m}$. The slope is moved horizontally with an acceleration of $7~\mathrm{m/s^2}$. How long does it take for the body to reach the top of the slope?
  (4 pont)

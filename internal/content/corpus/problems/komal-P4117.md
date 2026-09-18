@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: flagged
 ---
 
-In one of the pans of a two-pan balance there is a beaker containing some water and in the other pan there is a stand onto which an aluminium cylinder of mass 108 g is hanged. The balance is in equilibrium. If the thread is extended such that the aluminium cylinder is totally immersed into the water, the equilibrium is ceased. Find the mass of the weight which is to be put into the pan at the right in order to balance the scale. 
+In one of the pans of a two-pan balance there is a beaker containing some water and in the other pan there is a stand onto which an aluminium cylinder of mass 108 g is hanged. The balance is in equilibrium. If the thread is extended such that the aluminium cylinder is totally immersed into the water, the equilibrium is ceased. Find the mass of the weight which is to be put into the pan at the right in order to balance the scale.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4117-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4117-fig1.gif)

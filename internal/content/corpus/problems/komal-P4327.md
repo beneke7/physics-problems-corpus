@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201103"
 verification_status: pending
 ---
 
-One of the trains of the M2 metro line in Budapest consists of 5 cars. When the train starts, each car uses 300 A current from the 800 V voltage supply. How much does it cost to accelerate this train for 10 seconds, if the price of 1 kWh is 18 euro cents? 
+One of the trains of the M2 metro line in Budapest consists of 5 cars. When the train starts, each car uses 300 A current from the 800 V voltage supply. How much does it cost to accelerate this train for 10 seconds, if the price of 1 kWh is 18 euro cents?
  (3 pont)

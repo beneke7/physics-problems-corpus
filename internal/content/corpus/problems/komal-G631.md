@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-A current of 2 A is flowing through a 30 g copper wire across which there is a voltage of 1.2 V. What should the voltage across that copper wire be which is also 30 g, but twice as long as the other one and the same 2 A current flows through it? 
+A current of 2 A is flowing through a 30 g copper wire across which there is a voltage of 1.2 V. What should the voltage across that copper wire be which is also 30 g, but twice as long as the other one and the same 2 A current flows through it?
  (3 pont)

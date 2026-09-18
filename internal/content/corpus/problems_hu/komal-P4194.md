@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4194. Hogyan adhatunk egy pozitív töltésű test segítségével egy fémből készült, eredetileg semleges testnek negatív töltést? 
+P. 4194. Hogyan adhatunk egy pozitív töltésű test segítségével egy fémből készült, eredetileg semleges testnek negatív töltést?
  Lánczos Kornél fizikaverseny, Székesfehérvár

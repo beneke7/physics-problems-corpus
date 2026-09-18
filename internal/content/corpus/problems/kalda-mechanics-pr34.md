@@ -19,4 +19,4 @@ verification_status: pending
 
 A system of blocks sits on a smooth surface, as shown in the figure. The coefficient of friction between the blocks is $\mu$, while that between the blocks and the surface is $\mu=0$.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr34-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr34-fig1.jpg)

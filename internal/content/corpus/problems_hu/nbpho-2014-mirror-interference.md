@@ -21,7 +21,7 @@ links_en: nbpho-2014-mirror-interference
 
 Egy $S$ pontforrás $\lambda$ hullámhosszúságú koherens fényt bocsát ki izotróp módon minden irányba; így a hullámfronok koncentrikus gömbök. A hullámok egy dielektromos felületről visszaverődnek, amely a pontforrástól $l=N \lambda$ távolságra helyezkedik el (ahol $N$ egy nagy egész szám), és az interferenciaminta egy képernyőn figyelhető meg, amely a pontforrástól $L \gg l$ távolságra helyezkedik el (lásd az ábrát).
 
-![ábra](../../sources/nbpho/figures/nbpho-2014-mirror-interference-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2014-mirror-interference-fig1.jpg)
 
 A továbbiakban az ábrában meghatározott $x, y$ és $z$ koordinátákat használjuk. A képernyő párhuzamos a tükörrel és az $y-z$ síkban helyezkedik el.
 

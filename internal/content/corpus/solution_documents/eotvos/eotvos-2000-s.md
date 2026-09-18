@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 2000. október 20-án rendezte meg az Eötvös Loránd Fizikai Társulat hagyományos ®szi tanulóversenyét, az Eötvös-
 versenyt. Összesen 167 versenyz® adott be dolgozatot, közöttük egy vietnami és egy román állampolgár, mindketten
-az ELTE els®éves zikus hallgatói.
+az ELTE els®éves  zikus hallgatói.
       Ismertetjük a feladatokat, a feladatok helyes megoldását, majd a verseny végeredményét.
 
    1. Egy R sugarú, sima felület¶, vízszintes helyzet¶, rögzített hengerhez egy apró szem¶ lán ot kötünk úgy, hogy egyik
@@ -26,7 +26,7 @@ simuljon?
 eleme, amikor is a hengerr®l le savarodó lán    felpörgeti a hengert! Most a henger rögzített, és rögzített az A pont is, a
 lán    egyik vége. Legfeljebb az fordulhatna el®, hogy az alul kihasasodó lán   egyre jobban elválik a hengert®l, s magával
 rántja, lehúzza az egész lán ot. Persze ez se fordulhat el®, ha a lán   függ®legesen lelógó része elég hosszú. Mennyi ez
-az elég? Ez a kérdés. Vagyis ez egy sztatika feladat, amiben a lán    egyensúlyát kell megvizsgálnunk! (Az igaz, hogy
+az  elég ? Ez a kérdés. Vagyis ez egy sztatika feladat, amiben a lán    egyensúlyát kell megvizsgálnunk! (Az igaz, hogy
 nem éppen a legegyszer¶bb feladatok közül való, ezért is jelentett kellemes meglepetést a Versenybizottságnak, hogy
 18 olyan versenyz® volt, aki hibátlan megoldást adott rá.)
       Készítsünk ábrát, melyen egyrészt a hengerhez símuló és jobb oldalt lelógó lán ot látjuk, majd ennek egy ki siny,
@@ -61,10 +61,10 @@ Azt kaptuk, hogy ∆K arányos ∆y -nal. Ebb®l következik, hogy K lineáris f
                                                         mg
                                                   K=       y + konstans.
                                                         d
-(Hasonló módon járunk el sok esetben a zikában; például amikor az egyenletesen gyorsuló mozgásnál abból, hogy ∆v
+(Hasonló módon járunk el sok esetben a  zikában; például amikor az egyenletesen gyorsuló mozgásnál abból, hogy ∆v
 arányos ∆t-vel, arra következtetünk, hogy v = at + v0 .)
       A fenti konstans értékét abból a feltételb®l határozhatjuk meg, hogy spe iális esetben, az A pontban (y = R helyen)
-a K er®nek (l/d) · mg -nek kell lennie, hiszen l/d lán szem húzza lefelé az A pontbeli lán szemet.
+a K er®nek (l/d) · mg -nek kell lennie, hiszen l/d lán szem  húzza lefelé  az A pontbeli lán szemet.
 
 
                                                  l      mg
@@ -79,7 +79,9 @@ amib®l a konstans értéke mg(l − R)/d-nek adódik. Ezt felhasználva
 tudják egymást, tolni nem, ezért K ≥ 0 még a legalsó pontban is, ahol y = 0. Ebb®l pedig a fenti egyenlet alapján az
 már biztos, hogy l ≥ R. Vajon elég lenne l = R is? Csak akkor, ha a legalsó lán szemet már nem húznák a szomszédai.
 Ez ki sit gyanús!
-   A lán   egyensúlyának szükséges és elégséges feltétele, hogy az érint® és a sugár irányú er®k (er®-összetev®k) ered®je
+
+
+   A lán   egyensúlyának szükséges és elégséges feltétele, hogy az érint® és a sugár irányú er®k (er®-összetev®k) ered®je
 zérus legyen. Eddig még    sak az érint® irányú egyensúlyt vizsgáltuk! Írjuk fel a sugár irányú er®k egyensúlyát is:
 
 
@@ -124,7 +126,7 @@ szorítja a hengerhez.
 
     2. Felül nyitott kém s®ben vizet forralunk. Közvetlenül miel®tt az utolsó néhány sepp is elforrna, a kém sövet hir-
 telen légmentesen lezárjuk. Ezután a kém s® tetején a h®mérsékletet lassan 200 ◦ C-ra emeljük, miközben gondoskodunk
-arról  ha kell h¶téssel, ha kell f¶téssel,  hogy a kém s® legalján a h®mérséklet 100 ◦ C maradjon.
+arról   ha kell h¶téssel, ha kell f¶téssel,   hogy a kém s® legalján a h®mérséklet 100 ◦ C maradjon.
     Mekkora lesz a kém s®ben a g®znyomás?
                                                                                                   (Károlyházy Frigyes)
    Megoldás. A feladat kérdése is sugallja, hogy a nyomás az egész kém s®ben végig ugyanakkora. Az a kis nyo-
@@ -144,19 +146,21 @@ telített g®z nyomása pedig a kezdeti, 101 kPa.
    A kém s®ben tehát a végállapotban is 101 kPa a g®znyomás!
 
    Megjegyzés. Érdekes, hogy ez a könny¶nek látszó feladat milyen nehéznek bizonyult a versenyz®k számára. Csupán
-11 versenyz®nek sikerült jól megoldania. A legtöbb hibás érvelés szerint a nyomás n® a lezárt kém s®ben  akik így
+11 versenyz®nek sikerült jól megoldania. A legtöbb hibás érvelés szerint a nyomás n® a lezárt kém s®ben   akik így
 gondolták, nem vették észre az alul maradó 100 C-os víz nyomásbeállító szerepét.
                                                ◦
 
-   Egy megoldónak nehézséget okozott, hogy a Négyjegy¶-ben lév® táblázatban a vízg®z h®vezetési együtthatójára
-egy sajtóhiba következtében 6 nagyságrenddel nagyobb érték szerepel, mint az igazi érték. A hibás adat gyelembe
+   Egy megoldónak nehézséget okozott, hogy a  Négyjegy¶ -ben lév® táblázatban a vízg®z h®vezetési együtthatójára
+egy sajtóhiba következtében 6 nagyságrenddel nagyobb érték szerepel, mint az igazi érték. A hibás adat  gyelembe
 vételével a g®z h®mérsékletét végig állandónak lehetett tekinteni, s a kém s® alján lév® vízben alakult volna ki 100 C
                                                                                                                     ◦
 
 h®mérsékletkülönbség a víz alja és teteje között. Ennek feltételezésével viszont teljesen jól érvelt, ezért a Versenybizott-
 ság az ® megoldását is elfogadta. (A Nemzeti Tankönyvkiadó azóta megígérte, hogy a hibát már a 2001-es kiadásban
 korrigálni fogják.)
-    3. Egy optikai rá sra, rá mer®legesen, monokromatikus fényt bo sátunk. A rá s, melynek szomszédos rései d távol-
+
+
+    3. Egy optikai rá sra, rá mer®legesen, monokromatikus fényt bo sátunk. A rá s, melynek szomszédos rései d távol-
 ságra vannak egymástól, nem egészen szokványos: szélesebb és keskenyebb rések felváltva követik egymást. (Például a
 páratlan sorszámúak szélessége a, a párosaké b, ahol b < a és mindkett® sokkal kisebb, mint d.) A rá s fenti sajátsága
 jellegzetes, könnyen észrevehet® módon mutatkozik meg az elhajlási képben. Hogyan?
@@ -175,7 +179,7 @@ fellép® fáziskülönbségekt®l, az pedig az útkülönbségekt®l függ.
 szöget zár be: d sin α (lásd a 4. ábrát ). Ha d sin α = λ/2, akkor az egymás melletti résekb®l érkez® hullámok ellentétes
 fázisban találkoznak az erny®n. Ha a rések egyenl® szélesség¶ek (a = b), akkor a hullámok páronként kioltják egymást.
 Ha a > b, akkor az ered® intenzitás
-                                                                       2
+                                                                         2
                                                                N
                                                       I∼         (a − b) .
                                                                2
@@ -192,14 +196,14 @@ Azokban az esetekben pedig, amikor
                                                      2
 akkor valamennyi résb®l érkez® hullám azonos fázisban találkozik az erny®n. Ekkor az ered® intenzitás:
 
-                                                                 2
+                                                                   2
                                                          N
                                                       I∼   (a + b) .
                                                          2
 
    Ábrázoljuk az erny®n látható elhajlási kép intenzitását az elhajlási irányt jellemz® sin α függvényében (5. ábra )!
-(Ki siny elhajlási szögeknél sin α arányos az erny®n ténylegesen meggyelhet® eltérülési távolsággal.) Minthogy a is
-és b is sokkal kisebb d-nél, N viszont általában elég nagy szám, az elhajlási képben        sak a f®maximumok intenzitása
+(Ki siny elhajlási szögeknél sin α arányos az erny®n ténylegesen meg gyelhet® eltérülési távolsággal.) Minthogy a is
+és b is sokkal kisebb d-nél, N viszont általában elég nagy szám, az elhajlási képben        sak a  f®maximumok  intenzitása
 lesz észrevehet®. (Belátható, hogy ha a fentebb tárgyalt esetek egyike sem teljesül, vagyis az egymás melletti résekb®l
 érkez® fényhullámok útkülönbsége nem egész számú többszöröse a félhullámhossznak, akkor a sok-sok helyr®l érkez®
 hullám   saknem teljesen kioltja egymást.)
@@ -211,10 +215,10 @@ a rések szélessége a rések távolságához képest.
    Ábrázoljuk még a kérdezett két spe iális esetet! Ha a ≈ b, akkor a 6. ábrán látható intenzitás-eloszlást, ha pedig
 a ≪ b, akkor a 7. ábrán bemutatott intenzitás-eloszlást kapjuk.
    Megjegyzés. Erre a feladatra nem született hibátlan megoldás, elég jó megoldást adott három versenyz®. Többen
-megsejtették, hogy az elhajlási képen fényesebb és halványabb vonalak váltakozva követik egymást, de ezt  tévesen
- a szélesebb és keskenyebb réseken átjutó fény er®sségének különböz®ségével, mégpedig a fényer®-arány valamiféle
+megsejtették, hogy az elhajlási képen fényesebb és halványabb vonalak váltakozva követik egymást, de ezt   tévesen
+  a szélesebb és keskenyebb réseken átjutó fény er®sségének különböz®ségével, mégpedig a fényer®-arány valamiféle
                                                                                                       2
-leképz®désével magyarázták. Pedig a keskeny és a széles résb®l jöv® fény intenzitásának aránya (b/a) , míg az erny®n
+ leképz®désével  magyarázták. Pedig a keskeny és a széles résb®l jöv® fény intenzitásának aránya (b/a) , míg az erny®n
                                                               2         2
 a halvány és a fényes vonalak intenzitásának aránya (a − b) /(a + b) , s e kett® sak egyetlen esetben egyenl®: ha
         √
@@ -224,15 +228,17 @@ b/a =    2 − 1.
    A verseny végeredménye
 
    Els® díjat (és 12 ezer Ft jutalmat) kapott: Buruzs Ádám, a Budapesti M¶szaki és Gazdaságtudományi Egyetem
-mérnök-zikus hallgatója, aki a szegedi Radnóti Miklós Gimnáziumban érettségizett mint Mike János és Hilbert Margit
+mérnök- zikus hallgatója, aki a szegedi Radnóti Miklós Gimnáziumban érettségizett mint Mike János és Hilbert Margit
 tanítványa.
-   Második díjat (és 66 ezer Ft jutalmat) kaptak: Pozsgay Balázs, a pé si Magyar-német Nyelv¶ Iskolaközpont 12.
+
+
+   Második díjat (és 6 6 ezer Ft jutalmat) kaptak: Pozsgay Balázs, a pé si Magyar-német Nyelv¶ Iskolaközpont 12.
 osztályos tanulója, Kotek László tanítványa és Siroki László, a debre eni Fazekas Mihály Gimnázium 11. osztályos
 tanulója, Adorján László és Szegedi Ervin tanítványa.
-   Harmadik díjat (és 44 ezer Ft jutalmat) kaptak: Béky Ben e, a Fazekas Mihály F®városi Gyakorló Gimnázium
-11. osztályos tanulója, Horváth Gábor tanítványa; Gáspár Merse El®d, az Eötvös Loránd Tudományegyetem zikus
+   Harmadik díjat (és 4 4 ezer Ft jutalmat) kaptak: Béky Ben e, a Fazekas Mihály F®városi Gyakorló Gimnázium
+11. osztályos tanulója, Horváth Gábor tanítványa; Gáspár Merse El®d, az Eötvös Loránd Tudományegyetem  zikus
 hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa; He-
-ged¶s Ákos, az Eötvös Loránd Tudományegyetem zikus hallgatója, aki a pé si iszter i Nagy Lajos Gimnáziumban
+ged¶s Ákos, az Eötvös Loránd Tudományegyetem  zikus hallgatója, aki a pé si iszter i Nagy Lajos Gimnáziumban
 érettségizett mint Orovi a Márkné és Kotek László tanítványa; Máthé András, az Eötvös Loránd Tudományegyetem
 matematikus hallgatója, aki az ELTE Apá zai Csere János Gyakorló Gimnáziumban érettségizett mint Flórik György
 tanítványa; Pápai Tivadar, a bar si Dráva Völgye Középiskola 11. osztályos tanulója, Horváth Feren           tanítványa;
@@ -242,7 +248,7 @@ András, a budapesti Szent István Gimnázium 12. osztályos tanulója, Moór Á
 tika szakos hallgatója, aki a püspökladányi Kara s Feren Gimnáziumban érettségizett mint Szerdi János és Szegedi
 Ervin tanítványa; Heged¶s Zoltán Csaba, a Szegedi Tudományegyetem programtervez® matematikus hallgatója,
 aki a miskol i Andrássy Gyula M¶szaki Középiskolában érettségizett mint Gonda Gáspár tanítványa; Patay Ger-
-gely, a Budapesti M¶szaki és Gazdaságtudományi Egyetem mérnök-zikus hallgatója, aki a debre eni Tóth Árpád
+gely, a Budapesti M¶szaki és Gazdaságtudományi Egyetem mérnök- zikus hallgatója, aki a debre eni Tóth Árpád
 Gimnáziumban érettségizett mint Ková s Miklós és Szegedi Ervin tanítványa és Pápai Péter, a bar si Dráva Völgye
 Középiskola 12. osztályos tanulója, Horváth Feren   tanítványa.
    ⋆
@@ -254,15 +260,15 @@ ezel®tt.
 sei. Juvan z Ireneusz kés®bb Szilárd Leónak tanította a matematikát a VI. kerületi F®reálban, majd rövid ideig a
 Mintagimnázium igazgatója is volt. A Szmodi s      saládból 1900-ban Kázmér, két év múlva Hildegárd iratkozott fel a
 nyertesek közé.
-   1925-ben már külön matematikai és külön zikai versenyt hirdetett meg az Eötvös Loránd Matematikai és Fizikai
-Társulat. Mindkett®ben els® helyezett lett az akkor 17 éves Teller Ede; matematikából hármas holtversenyben, zikából
+   1925-ben már külön matematikai és külön  zikai versenyt hirdetett meg az Eötvös Loránd Matematikai és Fizikai
+Társulat. Mindkett®ben els® helyezett lett az akkor 17 éves Teller Ede; matematikából hármas holtversenyben,  zikából
 egyedül lett els®. Tudjuk, hogy milyen szeretettel és nosztalgiával emlékszik vissza erre a ma 90-es éveiben járó id®s
 tudós.
    1950-ben, a matematikusoktól különvált Eötvös Loránd Fizikai Társulat rendezésében lebonyolított versenyt Mráz
-(Zimányi) József és Rozványi Iván nyerte meg holtversenyben, természetesen mindketten zikusok lettek.
+(Zimányi) József és Rozványi Iván nyerte meg holtversenyben, természetesen mindketten  zikusok lettek.
    1975-ben a Versenybizottság nem adott ki els® díjat. A második díjon ketten osztoztak: Szép Jen®, aki ma az
-ELTE Szilárdtestzikai tanszékén dolgozik és Zimányi Gergely, aki jelenleg az Egyesült Államokban kutatja és tanítja a
-zikát. A névazonosság nem véletlen: Gergely Zimányi József a. A díjkiosztó ünnepségen mindkett®jük képviseletében
+ELTE Szilárdtest zikai tanszékén dolgozik és Zimányi Gergely, aki jelenleg az Egyesült Államokban kutatja és tanítja a
+ zikát. A névazonosság nem véletlen: Gergely Zimányi József  a. A díjkiosztó ünnepségen mindkett®jük képviseletében
 megjelent Zimányi Józsefnét a résztvev®k tapsa köszöntötte.
    A 2000. évi Eötvös-verseny nyertesei (ld. a 8. ábrát )
    Els® sor (balról jobbra): Siroki László, Buruzs Ádám és Pozsgay Balázs.
@@ -270,8 +276,8 @@ megjelent Zimányi Józsefnét a résztvev®k tapsa köszöntötte.
    Harmadik sor: Heged¶s Zoltán Csaba, Pápai Péter, Patay Gergely, Csillag Kristóf Béla.
    Ezután került sor az idei feladatok megoldásának ismertetésére és diszkussziójára. Az els® feladathoz kap solódóan
 Gnädig Péter mutatott be érdekes kísérleteket a még     sak általános iskolás Sükösd Attila aktív közrem¶ködésével. (At-
-tila zikus édesanyja biztosította a kísérlethez szükséges eszközöket.) A második feladat megoldásának bemutatására
-a Versenybizottság elnöke váratlanul három versenyz®t hívott ki a táblához. k a hallgatóság számára is meggy®z®en,
+tila  zikus édesanyja biztosította a kísérlethez szükséges eszközöket.) A második feladat megoldásának bemutatására
+a Versenybizottság elnöke váratlanul három versenyz®t hívott ki a táblához.  k a hallgatóság számára is meggy®z®en,
 egymást kiegészítve ismertették saját megoldásaikat. Csak a díjkiosztásnál derült ki kés®bb, hogy ®k lettek az idei
 verseny els® három helyezettje. A harmadik feladat megoldását újra a Versenybizottság elnöke mutatta be, aki ezután
 a Társulat alelnökeként ünnepélyesen kiosztotta a 2000. évi Eötvös-verseny díjait és a di séreteket.
@@ -284,7 +290,9 @@ kedhettek meg, ha még eddig nem ismerték volna ®ket személyesen: Holi s Lás
 Péter (1965) és Szép Jen® (1975) pályáját dönt®en befolyásolta a Eötvös-versenyen elért sikeres szereplés.
                                                                                           Radnai                 Gyula
                                                                                        a Versenybizottság elnöke
-                                              A
+
+
+                                              A
 
                    R
 
@@ -350,7 +358,9 @@ Péter (1965) és Szép Jen® (1975) pályáját dönt®en befolyásolta a Eötv
  5             2
                             0
  2d     2d   2d   2d   2d         2d       2d     2d       2d    2d
-                                       (2a ) 2
+
+
+                                       (2a ) 2
 
 
 

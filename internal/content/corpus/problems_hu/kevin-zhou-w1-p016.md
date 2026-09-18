@@ -29,7 +29,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     string is pulled down, it will oscillate with angular frequency ω0 .
 
                                                           11
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
      (a) Find the wave equation for waves on this string.
      (b) By guessing sinusoidal solutions, find ω(k) and the minimum possible angular frequency.

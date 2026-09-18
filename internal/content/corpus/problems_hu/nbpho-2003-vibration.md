@@ -30,6 +30,6 @@ Tekintsünk egy sima vízszintes felületet, amely periodikusan ide-oda mozog a 
 
 4) Eddig figyelmen kívül hagytuk a súrlódási együttható csúszási sebességtől való függését. Tegyük fel, hogy ezt a függést az alábbi grafikon adja meg. A téglát egy $F_{x}$ erő tartja mozgásban az $x$-tengely mentén úgy, hogy átlagsebessége $v$. Vázold fel az $F_{x}(v)$ függvényt az $u=\frac{3}{4} w_{0}$ esetben.
 
-![ábra](../../sources/nbpho/figures/2003-p1-f4.png)
+![ábra](../../figures/nbpho/figures/2003-p1-f4.png)
 
 5) A téglát a felületre helyezzük, és nincs külső erő. Mekkora a tégla $v$ végsebessége? Add meg a választ $u$ függvényében.

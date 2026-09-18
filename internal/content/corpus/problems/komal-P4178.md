@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A piece of chocolate is dropped into a glass of soda water. The density of the chocolate is 1,2 g/cm$^{3}$ and its volume is 2 cm$^{3}$. Carbon-dioxide bubbles begin to stick to the surface of the chocolate. What is the least total volume of the bubbles when the piece of chocolate begins to ascend? 
+A piece of chocolate is dropped into a glass of soda water. The density of the chocolate is 1,2 g/cm$^{3}$ and its volume is 2 cm$^{3}$. Carbon-dioxide bubbles begin to stick to the surface of the chocolate. What is the least total volume of the bubbles when the piece of chocolate begins to ascend?
  (4 pont)

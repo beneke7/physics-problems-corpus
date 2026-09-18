@@ -58,7 +58,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam           Cover Sheet                                           2
+
+
+2017 USA Physics Olympiad Exam           Cover Sheet                                           2
 
 
 
@@ -95,18 +97,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                             G = 6.67 × 10−11 N · m2 /kg2
                                9
-     k = 1/4π0 = 8.99 × 10 N · m /C 2  2     km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C 2  2     km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                       kB = 1.38 × 10−23 J/K
                        23
      NA = 6.02 × 10 (mol)       −1            R = NA kB = 8.31 J/(mol · K)
      σ = 5.67 × 10−8 J/(s · m2 · K4 )         e = 1.602 × 10−19 C
      1 eV = 1.602 × 10−19 J                   h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|  1
-     mp = 1.673 × 10−27 kg = 938 MeV/c2       ln(1 + x) ≈ x for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1            cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|   1
+     mp = 1.673 × 10−27 kg = 938 MeV/c2       ln(1 + x) ≈ x for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1            cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                  Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                    Part A                                         3
+
+
+2017 USA Physics Olympiad Exam                    Part A                                         3
 
 
 
@@ -145,7 +149,7 @@ When the minimal force is applied, the friction is maximal, f = µN . Eliminatin
 and plugging in our first equation gives
 
                                                                  (1 + µ2 ) tan θ
-                                                        
+
                                          sin θ − µ cos θ
                      Fmin = 3mg µ +                        = 3mg                 .
                                          cos θ + µ sin θ          1 + µ tan θ
@@ -156,7 +160,7 @@ When F is large, the top wedge wants to slide upward, so static friction points 
 Now setting f = µN gives
 
                                                           2µ + (1 − µ2 ) tan θ
-                                                 
+
                                   sin θ + µ cos θ
                    Fmax = 3mg µ +                   = 3mg                      .
                                   cos θ − µ sin θ             1 − µ tan θ
@@ -166,7 +170,9 @@ Therefore, naively the range of forces so that the block will not slip is
 
 
                     Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                  Part A                                                4
+
+
+2017 USA Physics Olympiad Exam                  Part A                                                4
 
 
 
@@ -221,7 +227,9 @@ to the temperature during any one cycle of the Carnot engine.
                                                       T1   T2
 
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam               Part A                                            5
+
+
+2017 USA Physics Olympiad Exam               Part A                                            5
 
 
 
@@ -278,7 +286,9 @@ Assume that all work produced by running engines can be stored and used without 
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam               Part A                                               6
+
+
+2017 USA Physics Olympiad Exam               Part A                                               6
 
 
 
@@ -315,7 +325,9 @@ Assume that all work produced by running engines can be stored and used without 
 
 
                  Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                 Part A                                                7
+
+
+2017 USA Physics Olympiad Exam                 Part A                                                7
 
 
 
@@ -328,7 +340,7 @@ middle of the ship.
 field be horizontal, pointing directly toward true north.
     The Earth’s magnetic field Be will magnetize the ship, which will then create a second magnetic
 field Bs in the vicinity of the ship’s compass given by
-                                                                     
+
                                   ~ s = Be −Kb cos θ b̂ + Ks sin θ ŝ
                                   B
 
@@ -371,7 +383,9 @@ north, measured clockwise, b̂ and ŝ are unit vectors pointing in the forward 
 
 
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                           Part A                                                     8
+
+
+2017 USA Physics Olympiad Exam                           Part A                                                     8
 
 
 
@@ -412,11 +426,13 @@ sphere.
                                              iron ball
 
 
-                                                  ~ i from the iron a distance d  a from the center
+                                                  ~ i from the iron a distance d   a from the center
    c. Derive an expression for the magnetic field B
       of the ball. Note that there will be a component directed radially away from the ball and a
                      Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                 Part A                                              9
+
+
+2017 USA Physics Olympiad Exam                 Part A                                              9
 
 
 
@@ -455,7 +471,7 @@ sphere.
                             d      B                 d             d
      As expected, this component vanishes for φ = 0.
      The radial component is given by the difference in the lengths of the two field vectors, or
-                                                                   
+
                                1       1          m             1          m 2x
                     Br = m      2
                                   −         2
@@ -476,7 +492,9 @@ sphere.
      to the ship and the balls for the magnetic heading for all angles θ.
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam               Part A                                              10
+
+
+2017 USA Physics Olympiad Exam               Part A                                              10
 
 
 
@@ -503,7 +521,9 @@ sphere.
 
 
                  Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                Part A                                              11
+
+
+2017 USA Physics Olympiad Exam                Part A                                              11
 
 
 
@@ -560,7 +580,9 @@ is a one dimensional collision that conserves both relativistic energy and relat
 
 
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                    Part A                                           12
+
+
+2017 USA Physics Olympiad Exam                    Part A                                           12
 
 
 
@@ -568,7 +590,7 @@ is a one dimensional collision that conserves both relativistic energy and relat
      Then the proton energy in the original frame is
                                                                                         !
                                                                             m2∆ − m2p
-                                                   
+
                                  mp             1         mp     2mp Eb
                       Ep = γmp =             α+         =                 +
                                  2              α         2     m2∆ − m2p    2mp Eb
@@ -622,7 +644,9 @@ is a one dimensional collision that conserves both relativistic energy and relat
   c. Assuming this value for Eb , what is the energy of the proton, in electron volts, that will allow
      the above reaction? This sets an upper limit on the energy of cosmic rays. The mass of the
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                Part A                                      13
+
+
+2017 USA Physics Olympiad Exam                Part A                                      13
 
 
 
@@ -657,7 +681,9 @@ is a one dimensional collision that conserves both relativistic energy and relat
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam          Part A                             14
+
+
+2017 USA Physics Olympiad Exam          Part A                             14
 
 
 
@@ -673,7 +699,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                  Part B                                            15
+
+
+2017 USA Physics Olympiad Exam                  Part B                                            15
 
 
 
@@ -720,7 +748,7 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
                        1   2     2
      of the domino is 2 t + h . From the push until it reaches this point, the domino’s potential
      energy increases by
-                                              1    p              
+                                              1     p
                                         ∆U = mg        t2 + h2 − h .
                                               2
      Then the domino topples. By conservation of energy, ∆U is how much rotational kinetic
@@ -730,7 +758,9 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
 
 
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                Part B                                               16
+
+
+2017 USA Physics Olympiad Exam                Part B                                               16
 
 
 
@@ -745,8 +775,8 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
                                   2 I    2 (1/3)m(h2 + t2 )   2 m(h2 + t2 )
 
     Setting the initial kinetic energy equal to the gain in potential energy and solving for p,
-                                           r 
-                                       1 m       p             
+                                           r
+                                       1 m       p
                                pmin = √       g    t2 + h2 − h (h2 + t2 ).
                                         3h
 
@@ -789,7 +819,9 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
     kinetic energy lost is one half.
 
                  Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam               Part B                                               17
+
+
+2017 USA Physics Olympiad Exam               Part B                                               17
 
 
 
@@ -798,7 +830,7 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
      smallest possible push such that it toppled. What is the minimum l such that the second
      domino will topple?
     You may work to lowest nontrivial order in the angles through which the dominoes have
-    rotated. Equivalently, you may approximate t, l  h.
+    rotated. Equivalently, you may approximate t, l   h.
 
                                               Solution
 
@@ -837,7 +869,7 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
     domino has rotated past the top of its arc. This gives a maximum potential energy
 
                                                            l2
-                                                             
+
                                      Umax = 2∆U 1 − 2
                                                           4t
 
@@ -845,7 +877,9 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                Part B                                             18
+
+
+2017 USA Physics Olympiad Exam                Part B                                             18
 
 
 
@@ -865,7 +899,7 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
      Plugging in the earlier expressions for all these gives
 
                                                      l2            l2
-                                                                   
+
                                1                               l
                                  ∆U = 2∆U 1 − 2 − ∆U             − 2
                                2                    4t         t 2t
@@ -901,7 +935,9 @@ and mass m. The domino is free to rotate about its edges, but will not slide acr
 
 
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                       Part B                                                     19
+
+
+2017 USA Physics Olympiad Exam                       Part B                                                     19
 
 
 
@@ -945,14 +981,16 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
       The electric potential is given by
                                                               q
                                                       V =
-                                                            4π0 a
+                                                            4π 0 a
       and the electric field is given by
                                                               q
                                                      E=
-                                                            4π0 a2
+                                                            4π 0 a2
 
                      Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam              Part B                                            20
+
+
+2017 USA Physics Olympiad Exam              Part B                                            20
 
 
 
@@ -972,7 +1010,7 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
      The time constant is given by
                                                τ = RC
      where
-                                 C = Q/V = 4π0 a = 5.56 × 10−11 F
+                                 C = Q/V = 4π 0 a = 5.56 × 10−11 F
      and
                                          R = 20r0 = 1010 Ω
      so
@@ -1003,7 +1041,9 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                 Part B                                          21
+
+
+2017 USA Physics Olympiad Exam                 Part B                                          21
 
 
 
@@ -1064,7 +1104,9 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
      the pipe almost touches in the spiral winding, determine the length L in one spiral.
 
                  Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                  Part B                                              22
+
+
+2017 USA Physics Olympiad Exam                  Part B                                              22
 
 
 
@@ -1117,7 +1159,9 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
      significant digit. The specific heat capacity of water is 4200 J/◦ C · kg; the density of water is
      1000 kg/m3 .
                    Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam                 Part B                                              23
+
+
+2017 USA Physics Olympiad Exam                 Part B                                              23
 
 
 
@@ -1151,11 +1195,11 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
      Conservation of energy gives
                                                      1 Zq 2
                                              qV =
-                                                    4π0 r
+                                                    4π 0 r
      where r is the radius of closest approach. Then
                                            1 Zq
                                      r=          = 2.59 × 10−14 m
-                                          4π0 V
+                                          4π 0 V
      Since this is about the size of a Fluorine nucleus, we can potentially get a nuclear reaction.
      Actually, the important reaction occurs at about 380 kV.
 
@@ -1163,7 +1207,9 @@ Only six of the 20 metals rings and resistors are shown in the figure. The fuzzy
 
 
                   Copyright c 2017 American Association of Physics Teachers
-2017 USA Physics Olympiad Exam         Exam Statistics                                  24
+
+
+2017 USA Physics Olympiad Exam         Exam Statistics                                  24
 
 
 

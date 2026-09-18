@@ -52,7 +52,9 @@ T =
 F
 2
 .
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 This is intuitive, because the differences of any two adjacent tension forces are the same;
 that’s the amount of tension that needs to be spent to accelerate each block. So the middle
 rod, which has to accelerate only half the blocks, has half the tension.
@@ -103,7 +105,9 @@ gR
 sinθ + µcosθ
 cosθ − µsinθ
 .
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 These formulas give nonsensical results for µ > tanθ or µ > cotθ. In these cases, it would be more
 correct to say that if µ ≥ tanθ, then vmin = 0, and if µ ≥ cotθ, there is no maximum speed.
 Usually, we are in the regime where µ ≥ tanθ, in which case vmin = 0 and banking the turn
@@ -127,7 +131,7 @@ g =⇒ F = (M1 + M2 + M3)
 M3
 M2
 g.
-[3] Problem 4.  W 1 0USAPhO 2017, problem A1.
+[3] Problem 4.   W 1 0USAPhO 2017, problem A1.
 2 Balancing Torques
 Idea 4
 A static rigid body will remain static as long as the total force on it vanishes, and the total
@@ -152,7 +156,9 @@ The origin should usually be chosen to set as many torques as possible to zero.
 its direction; then the torque of the force about any point on that line vanishes. Suppose a body is
 static and has three forces acting on it. Show that in two dimensions, the lines of these forces must
 either be parallel or concurrent. This will be useful for several problems later.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let F1,F2,F3 be the forces. Suppose two are parallel, then the third must be parallel to
 the first two to balance forces in the direction perpendicular to the direction of the first two. Now,
 suppose they are not parallel, and let the origin be at the intersection of the lines of forces of F1
@@ -189,7 +195,9 @@ both ends balance, so they are opposite. Let them both be at an angle θ to the 
 direction. Then the net torque on the segment is (Tdℓ)sinθ. Since this must vanish for
 static equilibrium, we must have θ = 0 and hence the tension is along the rope. In other
 words, flexible ropes can transmit force, but they can’t transmit torque.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 dℓ T
 T θ
 It’s important to note that the argument above doesn’t work for a rigid rod, because the
@@ -228,7 +236,9 @@ where ffric and N are the total friction and normal forces on the four tires. Si
 v ≥
 p
 gR/µ
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 which matches the general solution to problem 2. But in that problem, we only considered
 force balance. In this extreme situation, we also have to consider torque balance, i.e. the
 possibility that the car might topple over. When the car is about to topple over, all the
@@ -265,7 +275,9 @@ fall over?
 fall over?
 (c) For what value of stopping acceleration is the static frictional force equal to zero?
 Solution. Let us work in the accelerating frame of the truck.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Force balance gives mg = N′ and N + ma = f, and torque balance gives
 −mg
 L
@@ -309,7 +321,9 @@ have slipping. So slipping kicks in first, and the answer is g/4.
 [2] Problem 7 (Kalda). Three identical uniform rods are connected by freely rotating hinges.
 The rods are arranged so that CD is parallel to AB, and AB = 2CD. A mass m is hung on hinge
 C. What is the minimum force that must be exerted at hinge D to keep the system stationary?
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let the rods have length ℓ. There are many ways to solve the problem, but the quickest
 is to consider the torque on the system of rod CD and its hinges, about the intersection point of AC
 and BD. About this point, the torque due to the weight of rod CD vanishes. Since the hinges are
@@ -338,14 +352,14 @@ from the edge of the (n + 1)th block, so the nth block and everything on top of 
 ℓ/n to the right. Hence the total distance is
 L
 2
-
+
 1 +
 1
 2
 + ... +
 1
 N
-
+
 ≈
 L
 2
@@ -365,7 +379,9 @@ its axis is horizontal. A small block of mass m is placed inside it.
 The coefficient of friction between the block and cylinder is µ. Find the maximum α so that the
 cylinder can stay at rest, assuming that the coefficient of friction between the cylinder and slope is
 high enough to keep the cylinder from slipping.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Refer to the diagram below, where C is the location of the block.
 The center of mass B of the cylinder-block system must be right above the contact point A.
 Therefore, we must have OB = km and BC = kM for some constant k, so that the radius of the
@@ -382,11 +398,11 @@ We see that m slips when tan(α + θ) = µ, or sin(α + θ) = µ √
 αmax = sin−1 µ
 p
 1 + µ2
-
+
 1 +
 M
 m
-−1
+ −1
 !
 .
 [2] Problem 10 (PPP 11). A sphere is made of two homogeneous hemispheres stuck together, with
@@ -404,7 +420,9 @@ plane z = R/2 is less than the mass below it, and concentrated closer to the pla
 centers of masses of the hemispheres are each within R/2 of the center of the sphere, so the overall
 center of mass is also within R/2 of the center.
 [3] Problem 11. An object of mass m lies on a uniform floor, with coefficient of static friction µ.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 (a) First, suppose the object is a point mass. What is the minimum force required to make the
 object start moving, if you can apply the force in any direction?
 (b) Now suppose the object is a thin, uniform bar. What is the minimum force required to make
@@ -434,22 +452,24 @@ torque, which means some of them must point forward, along the force you exert.
 The figure above shows a top-down view of the bar. Just before slipping, the friction needs
 to be trying as hard as possible to balance both the applied force and applied torque. This
 implies that it must have the maximum possible magnitude everywhere, and this fixes the
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 total length of the bar where the friction points forward, and the total length where it points
 backward. To oppose the torque you apply as effectively as possible, the part of the bar where
 friction points forward must be all on the opposite side of the bar, as shown above.
 Using the variables defined in the figure, just barely balancing forces and torques simultane-
 ously gives
 F = µmg
-
+
 ℓ
 L
 −
 L − ℓ
 L
-
+
 , Fℓ = µmg
-
+
 ℓ
 L
 ℓ
@@ -459,7 +479,7 @@ L − ℓ
 L
 L − ℓ
 2
-
+
 .
 Solving for ℓ gives ℓ = L/
 √
@@ -488,7 +508,9 @@ the point of contact of the outer circle with the floor. We see that ∠BOA = θ
 torques about B, we see that gravity provides 0 torque, so the tension must provide 0 torque
 as well. This means BA is tangent to the inner circle. Since BAO is a right triangle with
 ∠BAO = 90◦, we have cosθ = r/R .
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Let f be the friction force, and N the normal force. We see that T cosθ = f and N =
 Mg − T sinθ. Since f ≤ µN, we see
 T cosθ ≤ µ(Mg − T sinθ) =⇒ T ≤
@@ -536,7 +558,9 @@ Next, consider torques on the plate about its vertex. (This is an arbitrary choi
 about either of the contact points also works about equally well.) The weight of the vertical of the
 plate contributes no torque, so the torque balance equation is
 Nr + mg/2 = Nt.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Plugging in our results for Nr and Nt gives
 µt(2 + µr) = 1.
 To find the minimum coefficient of friction to avoid slipping, we need to find the solution to this
@@ -571,7 +595,9 @@ This reduces the number of independent forces in the problem to three: gravity (
 the center of mass), the force F (acting at P), and the combined normal and friction forces
 (acting at the point of contact C with the wall). Therefore, by the result of problem 5, the
 lines of these forces must all intersect at some point A, as shown.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 This ensures that the torques will balance, when taken about point A.
 Next, we need to incorporate the information from force balance. Doing this directly will
 lead us to some nasty trigonometry, but there’s a better way. There are in principle two
@@ -602,7 +628,9 @@ ments on the provided figure.
 [4] Problem 17 (Physics Cup 2012). A thin rod of mass m is placed in a corner so that the rod forms
 an angle α with the floor. The gravitational acceleration is g, and the coefficient of friction with
 the wall and floor is µs = tanβ, which is not large enough to keep the rod from slipping.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 What is the minimum additional force F needed to keep the rod static?
 Solution. The answer is
 F =
@@ -652,7 +680,9 @@ s
 µ2 − 1
 .
 The feat is only possible if µ > 1.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 19 (PPP 69). A homogeneous triangular plate has threads of length h1, h2, and h3
 fastened to its vertices. The other ends of the string are fastened to a common point on the ceiling.
 Show that the tension in each thread is proportional to its length. (Hint: with the origin at the
@@ -675,12 +705,12 @@ In case you’re not convinced, we can justify this in more detail. Let r1 + r2 
 subtracting this equation from α/m times the force balance equation gives
 X
 i
-
+
 1 −
 α
 m
 ηi
-
+
 ri = 0.
 The only way a nontrivial sum of three vectors can vanish is if they lie in a plane, which isn’t true
 here. So each of the coefficients must vanish, so 1 − (α/m)ηi = 0, which means all the ηi are the
@@ -701,7 +731,9 @@ some force, even though a single one of those objects would begin moving even wi
 applied force! This is a simple example of how granular materials, like sand, can give rise to emergent
 phenomena that are hard to predict from analyzing individual grains alone. Understanding these
 materials is a whole field of applied research.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Call the top cylinder A, and the bottom ones B and C. Suppose the normal force
 between the top cylinder and either of the bottom cylinders is N, and the friction force is f.
 When µ1 takes its minimum possible value, we have f = µ1N. Note that since B and C are
@@ -767,18 +799,20 @@ sinα
 Similarly, we have N′ = 4mg/3 and N cos(α) + f sin(α) = mg/3, so
 N′
 = 4
-
+
 cosα
 µ1
 + sinα
-
+
 f
 from which we conclude
 µ2 =
 µ1
 4
 ≈ 0.0795.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Call the top cylinder A, the left cylinder B, and the right cylinder C, and the normal forces
 between them Nij. Let θ = π/6.
 At the minimum acceleration, the weight of cylinder A almost pushes B and C apart, so
@@ -824,7 +858,9 @@ atom applies forces to its neighbors, and each bond deforms in response to appli
 Sometimes we can ignore these details, sometimes we can save our preferred idealizations
 with a clever adjustment, and sometimes the idealized picture breaks down completely. Each
 case is different, and requires thinking about the physics in play.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Example 5
 A uniform bar with mass m and length ℓ hangs on four equally spaced identical light wires.
 Initially, all four wires have tension mg/4.
@@ -856,7 +892,9 @@ in contact with the walls. (In previous problems, you were able to resolve this 
 considering the case where an object is about to slip, but here even the criterion for slipping
 is ambiguous.) For example, if you have to squeeze the rod very hard to fit it in, then it’ll
 probably exert a comparable normal force once it’s in. But exerting that much force would
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 be very impractical, so rock climbers have an ingenious alternative, called a “cam”. A cam
 contains parts that rotate, so that it grows wider when a rope pulls on it.
 [2] Problem 21. AuPhO 2015, problem 12. An explanation of how a cam works. You’ll also need
@@ -884,7 +922,9 @@ bottom contact point, again leading to a common upward normal direction. But the
 would expect the step to dig into the block at the other contact point, which yields two
 separate normal forces at that point. Or perhaps the step is made of a softer material
 than the floor, so that it’s the step rather than the block that deforms. Or maybe both deform!
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 To reiterate, the issue isn’t that idealizations are unrealistic. Physics uses idealizations,
 like neglecting air resistance and friction, all the time, and they work in appropriate limits.
 The issue is that when you apply the idealizations implied by the diagram, the result is
@@ -916,7 +956,9 @@ Nℓsinα =
 ℓ
 2
 mg sinα + fℓcosα.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 When friction is maximal and the board is about to move, f = µ1N, so
 N =
 mg sinα
@@ -954,7 +996,9 @@ torques acting on infinitesimal pieces.
 Example 8
 Find the tension in a circular rope of radius R spinning with angular velocity ω and mass
 per length λ.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Consider an infinitesimal segment of the rope, spanning an angle dθ.
 The mass of this segment is dm = Rλdθ. The total force is radially inward, with magnitude
@@ -985,7 +1029,9 @@ Alternatively, we could have worked in the frame rotating with the rope. The equ
 would be the same, but instead we would say the tension balances the centrifugal force.
 [1] Problem 23 (KK 2.22). A uniform rope of weight W hangs between two trees. The ends of the
 rope are the same height, and they each make angle θ with the trees.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Find the tension at either end of the rope, and the tension at the middle of the rope.
 Solution. Let the tension at the end be T0, and T1 at the center. Considering the entire rope as
 one system, we see that 2T0 cosθ = W, so T0 = W
@@ -1012,7 +1058,9 @@ in which case the answer won’t be as reliable.
 force TA + TB from the straight part of the rope. But it is static, which means it must also
 experience an equal and opposite force from the drum, which comes from integrating the
 friction and normal forces along the contact surface.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 That’s all you have to say, but we can also show this more explicitly. For concreteness, let
 both tensions be vertical. We have a normal force and difference in tension forces
 dN = T dθ, dT = −dffric
@@ -1044,7 +1092,9 @@ part of the table only balances the weight of the string above it, leaving nothi
 the weight of the vertical parts of the string. But we must recall that there is an enormous
 normal pressure at the smooth corners. The total normal force there is large enough so that
 its vertical component holds up all of the string underneath it.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Yes, the answer changes significantly no matter how small the edges are. This is because, as
 we saw in part (b), there is a sizable normal force at the edges, since they alone are responsible
 for holding up a significant part of the rope. So turning on a coefficient of friction at the edges
@@ -1095,7 +1145,9 @@ value of η is 3 − 2
 Example 10
 A chain is suspended from two points on the ceiling a distance d apart. The chain has a
 uniform mass density λ, and cannot stretch. Find the shape of the chain.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 First, we note that the horizontal component of the tension Tx is constant throughout the
 chain; this just follows from balancing horizontal forces on any piece of it. Moreover, by
@@ -1138,20 +1190,20 @@ Tx
 Choosing x = 0 to be the lowest point of the chain, the constant C is zero, and
 y′
 = sinh
-
+
 λgx
 Tx
-
+
 .
 Integrating both sides again gives the solution for y,
 y =
 Tx
 λg
 cosh
-
+
 λgx
 Tx
-
+
 where we suppressed another constant of integration. This curve is called a catenary.
 [1] Problem 27. To check that you understand the previous example, repeat it for a suspension bridge.
 In this case the cable is attached by vertical suspenders to a horizontal deck with mass λ per unit
@@ -1169,7 +1221,9 @@ y =
 Tx
 x2
 2
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 which is a parabola. One result of this analysis is that the required height of the bridge scales as the
 square of its horizontal span, which is why very long suspension bridges are broken into multiple
 spans. According to Feynman, engineers were able to watch the shape of the cables of the George
@@ -1227,12 +1281,14 @@ i=j
 ∆Li =
 mg
 2k
-
+
 1 −
 j2
 N2
-
-28Kevin Zhou Physics Olympiad Handouts
+
+28
+
+Kevin Zhou Physics Olympiad Handouts
 downward from its position in the absence of gravity. The center of mass displacement is
 ∆ycm =
 1
@@ -1244,11 +1300,11 @@ j=1
 N
 N X
 j=1
-
+
 1 −
 j2
 N2
-
+
 =
 1
 N3
@@ -1313,7 +1369,9 @@ the weight of the segment is proportional to dx instead of
 p
 1 + y′2 dx. This is because the
 slinky’s mass per length is not constant, while the chain’s was.)
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The only difference with respect to part (a) is that now we have a radial “gravity” force of
 geff = −ω2y, because of the centrifugal acceleration in the frame rotating with the slinky.
 Therefore,
@@ -1325,13 +1383,13 @@ y
 The solution is a sinusoid. For concreteness, let’s suppose one endpoint is at x = 0, imposing
 y(0) = 0. Then
 y(x) = y0 sin
-r
+ r
 m
 k
 ω
 d
 x
-
+
 .
 For the other endpoint to be fixed, y(d) = 0, we must have
 r
@@ -1361,7 +1419,9 @@ Example 12
 Consider the simplest possible nontrivial rigid body: a triangle with masses at the vertices,
 and sides made of very thin, very rigid, massless springs. The triangle is pivoted at one
 vertex, and experiences external forces F1 and F2 at the other two vertices.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 Find the criterion for this system to be in equilibrium, using force balance alone.
 Solution
 Consider force balance on the first marked vertex. The tension in the side of length r1 takes
@@ -1385,7 +1445,9 @@ microscopic forces, acting on all of the rod’s infinitely many pieces. With to
 compute useful information (such as the normal forces at each support) without much effort.
 However, given how complicated internal forces can be, you might be wondering why torque balance
 even works in general. The simplest explanation is the principle of virtual work.
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 12: Principle of Virtual Work
 To determine if a system is in static equilibrium, we consider each way the system could
 move. For each such way, we consider how much work would be done if the system moved a
@@ -1411,7 +1473,9 @@ system can be in equilibrium no matter where on the arms the weights are placed.
 [1] Problem 29 (Wang). Two massless rigid rods of length ℓ are connected by a joint A, which allows
 them to freely rotate with respect to each other. The left member is pinned to point O, while the
 right member is placed on a roller B which can roll frictionlessly on the ground.
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 A massless spring of zero relaxed length and spring constant k is stretched between O and B, and
 a rightward force P is exerted at A. Find the angle θ at equilibrium.
 Solution. This problem can be solved directly by introducing variables for the tensions in each
@@ -1425,10 +1489,10 @@ dx
 − (2kℓ cosθ)dx = 0
 in equilibrium. This immediately gives
 θ = cos−1
-
+
 P
 4kℓ
-
+
 .
 The reason this is so easy is that we don’t have to care about the tension forces within the rods,
 or the forces from the pivot or ground, because none of these forces perform virtual work on the
@@ -1448,7 +1512,9 @@ the curved face must balance the force on the flat face, which is πR2P. The sam
 hold for the sphere, since the forces on the curved face are the same, so the answer is πR2P.
 This trick will come in handy for several future problems. It also generalizes to surfaces of
 arbitrary shape, as discussed in E1. Concretely, suppose a surface S has boundary C, and
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 consider any other surface S′ with the same boundary. Then by the same logic, the closed
 surface formed by S and S′ together experiences no net pressure force, so the pressure forces
 on S and S′ are equal in magnitude.
@@ -1488,17 +1554,19 @@ water, twice as much soapy water/air surface is created. So the energy cost is d
 the force is double.
 [2] Problem 30. One can also derive the Young–Laplace equation using the principle of virtual work.
 Suppose the bubble radius changes by dr. The energy of the bubble changes for two reasons: first,
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 there is net ∆P dV work from the two pressure forces, and there is the γ dA surface tension energy
 cost. By setting the net virtual work to zero, find ∆P.
 Solution. The work done by the surface tension should be balanced by the work done by the
 pressure difference. Noting that the total surface area is 8πR2, we have
 ∆P dV = ∆P d
-
+
 4
 3
 πR3
-
+
 = ∆P(4πR2
 )dR = d(8πR2
 γ) = 16πγRdR
@@ -1526,20 +1594,22 @@ radii of curvature R1 and R2 at each point. These are both equal to R for a sphe
 R, while for a cylinder of radius R, one is equal to R and the other is infinity. For general
 surfaces, the Young–Laplace equation is
 ∆P = γ
-
+
 1
 R1
 +
 1
 R2
-
+
 where the Ri can each be positive or negative, depending on the direction of curvature.
 [3] Problem 32 (MPPP 67). When a pipe bursts under pressure, it often splits “lengthwise” instead
 of “across”. (One familiar example is the process of cooking a long, straight sausage.) The two
 modes of splitting are shown as dotted lines below.
 Explain this observation, assuming the thickness of the sausage skin is uniform, and hence can
 support a constant surface tension before breaking. (Hint: model the sausage as a cylinder of length
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 L capped by hemispheres of radius R ≪ L, and consider the surface tension needed to prevent the
 two modes of splitting mentioned, once an excess pressure P builds up inside the sausage.)
 Solution. Let the pressure difference from inside the sausage to outside be P. Cutting it across
@@ -1578,10 +1648,10 @@ r2 − A2
 and substituting r = Acoshu and integrating yields
 z + C = Acosh−1
 (r/A), r = Acosh
-
+
 z + C
 A
-
+
 for another constant C. Setting the rings to be at z = ±L/2, we have C = 0. The quantity
 A is the minimum radius, which occurs by symmetry at z = 0.
 You may have noticed that the answer is a catenary, which is the same as the answer to
@@ -1599,7 +1669,9 @@ Z
 y
 p
 1 + y′2 dx.
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 This function is similar in form, which explains why the form of the solution is similar. But
 there’s an important physical difference: the length of the chain is fixed, and you need to
 specify it to determine the solution. (To see how this constraint can be imposed with Lagrange
@@ -1642,7 +1714,9 @@ requires comfort with tensors, is given in chapters 6 through 11 of Lautrup, as 
 II-38, and II-39 of the Feynman lectures. In this problem set, we’ll just give two simple examples.
 Example 16: IPhO 2022 3A
 A thin piece of spaghetti of diameter d is balanced horizontally from its middle.
-37Kevin Zhou Physics Olympiad Handouts
+37
+
+Kevin Zhou Physics Olympiad Handouts
 It can have a length ℓ ≫ d before it snaps under its own weight. How does ℓ scale with d?
 Solution
 Let the spaghetti rod have density ρ, and consider its right half. There must be a vertical
@@ -1666,11 +1740,13 @@ which is why thin rods usually break by snapping, not by shearing or pulling apa
 fixed maximum σn, we conclude the maximum length scales as ℓ ∼
 √
 d.
-[3] Problem 34.  ^ 1 0USAPhO 2022, problem A1. A practical bending moment problem.
+[3] Problem 34.   ^ 1 0USAPhO 2022, problem A1. A practical bending moment problem.
 Example 17
 A solid ball of radius R, density ρ, and Young’s modulus Y rests on a hard table. Because
 of its weight, it deforms slightly, so that the area in contact with the table is a circle of radius r.
-38Kevin Zhou Physics Olympiad Handouts
+38
+
+Kevin Zhou Physics Olympiad Handouts
 Estimate r, assuming that it is much smaller than R.
 Solution
 Recall from P1 that the Young’s modulus is defined by
@@ -1699,10 +1775,10 @@ location that external forces are applied.) So in that region, the strain must b
 strain ∼ δ/r ∼ r/R
 where δ is the vertical deformation. Using the definition of the Young’s modulus, we conclude
 r ∝ R
-
+
 ρgR
 Y
-1/3
+ 1/3
 .
 We can also phrase this result in terms of force and displacement. We have δ ∼ r2/R, and
 the total force that pushes the ball into the table is F ∼ ρgR3, so

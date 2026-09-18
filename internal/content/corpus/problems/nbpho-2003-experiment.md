@@ -35,4 +35,4 @@ Determination of attraction force between iron plate and a permanent magnet as a
 
 4) Join two permanent magnets by a bridge made of a piece of iron (a) as shown in the figure. Put a strip of paper (b) on the iron plate (c) and put the system of magnets upon it. Determine the attraction force between the system of magnets and the iron plate.
 
-![figure](../../sources/nbpho/figures/nbpho-2003-magnets-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2003-magnets-fig1.png)

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-A glass hemisphere of radius $r$ and of refractive index $1.5$ is illuminated by a light ray at point $A$ as shown in the figure . The refracted light ray reaches the plane part of the hemisphere at a distance $y$ from the centre. 
+A glass hemisphere of radius $r$ and of refractive index $1.5$ is illuminated by a light ray at point $A$ as shown in the figure . The refracted light ray reaches the plane part of the hemisphere at a distance $y$ from the centre.
 
- a)  For which angle of incidence will $y$ be equal to half of the radius? 
- b)  What is the colour of the light ray if the wavelength of the light in the glass is $400~\mathrm{nm}$? 
+ a)  For which angle of incidence will $y$ be equal to half of the radius?
+ b)  What is the colour of the light ray if the wavelength of the light in the glass is $400~\mathrm{nm}$?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G884-fig1.png)
+![figure](../../figures/komal/figures/komal-G884-fig1.png)

@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4603. Számítsuk ki az ábrán látható, mindkét irányban végtelen, csupa R ellenállásból álló láncban az alábbi pontok közötti eredő ellenállást: 
- a ) A és B ; 
+P. 4603. Számítsuk ki az ábrán látható, mindkét irányban végtelen, csupa R ellenállásból álló láncban az alábbi pontok közötti eredő ellenállást:
+ a ) A és B ;
  b ) A és C !
 
-![figure](../../raw_html/komal_figures/komal-P4603-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4603-fig1.gif)

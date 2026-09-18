@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3792. A 12 cm magas tárgyról egy gyűjtőlencse 6 cm magas valódi képet hoz létre a tárgytól 45 cm-re elhelyezett ernyőn. Határozzuk meg szerkesztéssel és számolással a tárgy és a lencse távolságát, valamint a lencse fókusztávolságát! 
+P. 3792. A 12 cm magas tárgyról egy gyűjtőlencse 6 cm magas valódi képet hoz létre a tárgytól 45 cm-re elhelyezett ernyőn. Határozzuk meg szerkesztéssel és számolással a tárgy és a lencse távolságát, valamint a lencse fókusztávolságát!
 
  Nagy László fizikaverseny, Kazincbarcika

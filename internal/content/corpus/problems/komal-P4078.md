@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A hollow copper sphere is floating on the surface of water which is at a temperature of 20$^\circ$C and 1% of the volume of the sphere is above the water. To what temperature must the water be heated in order to submerge the copper ball totally. (Look up how the density of water depends on the temperature of water in a data table.) 
+A hollow copper sphere is floating on the surface of water which is at a temperature of 20$^\circ$C and 1% of the volume of the sphere is above the water. To what temperature must the water be heated in order to submerge the copper ball totally. (Look up how the density of water depends on the temperature of water in a data table.)
  (5 pont)

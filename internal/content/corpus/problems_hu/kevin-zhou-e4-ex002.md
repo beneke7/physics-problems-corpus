@@ -34,7 +34,7 @@ Példa 2
                                         Pbatt = IV = V        =V2    .
                                                            dt     dt
         Másrészt a kondenzátorban tárolt energia változási sebessége
-                                                        
+
                                              d 1       2    1 dC
                                      Pcap =        CV      = V2     .
                                             dt 2            2    dt

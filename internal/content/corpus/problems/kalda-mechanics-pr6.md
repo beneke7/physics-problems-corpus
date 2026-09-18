@@ -19,4 +19,4 @@ verification_status: pending
 
 A cylinder with radius $R$ spins around its axis with an angular speed $\omega$. On its inner surface there lies a small block; the coefficient of friction between the block and the inner surface of the cylinder is $\mu$. Find the values of $\omega$ for which the block does not slip (stays still with respect to the cylinder). Consider the cases where (a) the axis of the cylinder is horizontal; (b) the axis is inclined by angle $\alpha$ with respect to the horizon.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr6-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr6-fig1.jpg)

@@ -22,11 +22,11 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A deuterium of kinetic energy $1.6\cdot 10^{-13}$ J collides with a stationary tritium. The following nuclear reaction occurs: 
+A deuterium of kinetic energy $1.6\cdot 10^{-13}$ J collides with a stationary tritium. The following nuclear reaction occurs:
  ${}^2_1{\rm H}+ {}^3_1{\rm H}\rightarrow {}^4_2{\rm He}+ {}^1_0{\rm n}.
-$ 
- The angle between velocity of the emitted neutron and the velocity of the deuterium is $60^\circ$. 
- $a)$ How much energy is released? 
- $b)$ What is the kinetic energy of the $\alpha$-particle and the neutron, after the collision? 
- $c)$ What is the angle between the velocities of the $\alpha$-particle and the deuterium? 
+$
+ The angle between velocity of the emitted neutron and the velocity of the deuterium is $60^\circ$.
+ $a)$ How much energy is released?
+ $b)$ What is the kinetic energy of the $\alpha$-particle and the neutron, after the collision?
+ $c)$ What is the angle between the velocities of the $\alpha$-particle and the deuterium?
  (5 pont)

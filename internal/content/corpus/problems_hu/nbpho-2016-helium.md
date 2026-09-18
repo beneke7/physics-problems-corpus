@@ -20,6 +20,6 @@ verification_status: pending
 
 **7. HÉLIUM (6 pont)** — *Jaan Toots.*
 
-![A folyékony hélium fajhője](../../sources/nbpho/figures/nbpho-2016-helium-fig1.png)
+![A folyékony hélium fajhője](../../figures/nbpho/figures/nbpho-2016-helium-fig1.png)
 
 A folyékony héliumot alacsony nyomáson úgy hűtik, hogy elpárologtatják és elvezetik a gázt. A hélium párolgási hője $\lambda=22 \mathrm{~kJ} \mathrm{~kg}^{-1}$, amelyet állandónak vehetünk. A folyadék fajlagos hője $c(T)$ az alábbi grafikonon látható (a nagyobb méretű másolat külön lapon található). A folyékony hélium mekkora része kell elpárologjon ahhoz, hogy a maradék folyadékot $T_{0}=4.1 \mathrm{~K}$-ről $T_{1}=2.3 \mathrm{~K}$-re hűtsük?

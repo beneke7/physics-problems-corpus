@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200911"
 verification_status: pending
 ---
 
-How can a neutral metal object be charged negatively with the help of a positively charged object? 
+How can a neutral metal object be charged negatively with the help of a positively charged object?
  (3 pont)

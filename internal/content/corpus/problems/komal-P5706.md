@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-From a thin iron rod with a uniform mass distribution, pieces of lengths $a$, $b$, and $c$ are cut off, and a triangular rigid frame is constructed from them. The total weight of the iron frame is $G$. The frame is supported at its vertices in a horizontal position. What force is exerted by the iron frame on the support points? 
+From a thin iron rod with a uniform mass distribution, pieces of lengths $a$, $b$, and $c$ are cut off, and a triangular rigid frame is constructed from them. The total weight of the iron frame is $G$. The frame is supported at its vertices in a horizontal position. What force is exerted by the iron frame on the support points?
  (4 pont)

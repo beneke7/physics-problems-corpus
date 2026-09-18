@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 ---
 
-What can be the ratio of the linear momentum of the photoelectrons ejected by aluminum and the linear momentum of the absorbed photons? 
+What can be the ratio of the linear momentum of the photoelectrons ejected by aluminum and the linear momentum of the absorbed photons?
  (5 pont)

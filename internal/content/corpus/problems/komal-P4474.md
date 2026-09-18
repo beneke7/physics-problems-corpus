@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-Estimate the size of that Aluminium ball which can stay at rest in the Solar system. Where can it stay at rest? (Neglect the effect of planets and moons and the particle currents in the Solar system.) The solar luminosity is 3.8$^{.}$10$^{26}$ W, its mass is 1.989$^{.}$10$^{30}$ kg, and the density of Aluminium is 2700 kg/m$^{3}$. 
+Estimate the size of that Aluminium ball which can stay at rest in the Solar system. Where can it stay at rest? (Neglect the effect of planets and moons and the particle currents in the Solar system.) The solar luminosity is 3.8$^{.}$10$^{26}$ W, its mass is 1.989$^{.}$10$^{30}$ kg, and the density of Aluminium is 2700 kg/m$^{3}$.
  (5 pont)

@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2014_
 ---
 
 1. DC-DC converter
-1) (1 pt) From the Kircho's voltage law for
+1) (1 pt) From the Kircho 's voltage law for
 the loop consisting of L and E, E = LdI
 dt
 , hence
@@ -21,18 +21,18 @@ I = Et/L. From I0 = EτL/L we obtain
 τL = LI0/E.
 2) (1 pts) Once the current I0 is reached, the key
 is opened; the current trough L cannot change
-instantaneously and therefore is forced to 
+instantaneously and therefore is forced to
 ow
 through the resistor R. Since the characteristic
 time of this current loop (consisting of L and R
-is very short (L/R 
+is very short (L/R
  τK), the current decays
 very fast and becomes essentially equal to zero
 while the key is still open. Now there is no cur-
 rent through the inductor, so that the key will
 close again and the process will start repeating
 from the beginning. As a result we'll have a
-periodic graph as shown in 
+periodic graph as shown in
 gure.
 I
 I0
@@ -41,15 +41,15 @@ t
 maximal when the current is maximal, which
 happens immediately after the switch is opened;
 the maximal current is I0 so that Vmax = RI0.
-4) (2 pts) Due to Vmax 
+4) (2 pts) Due to Vmax
  V0, we can neglect
-the eect of the diode; so we have the Kircho's
+the e ect of the diode; so we have the Kircho 's
 voltage law LdI
 dt
 = RI = Rdq
 dt
 (here we ex-
-pressed the current via the charge q which 
+pressed the current via the charge q which
 ows
 through the resistor). Integration over a single
 cycle (when the inductor current drops from I0
@@ -57,7 +57,7 @@ down to 0) yields LI0 = R∆q, hence the charge
 
 own through the resistor (and through the di-
 ode) ∆q = I0L/R. During that cycle, the diode
-had a constant voltage V0, so the electric 
+had a constant voltage V0, so the electric
 eld
 performed work A = V0∆q which was released
 as heat in the diode. So, the average power dis-
@@ -82,11 +82,11 @@ formed. That loop admits oscillations of period
 TLC = 2π
 √
 LC and as the current to the resistor
-can be neglected (since RC 
+can be neglected (since RC
  TLC), we can neg-
 lect the presence of the resistor. During the time
 interval when the diode is open, we can also neg-
-lect the presence of the diode since V0 
+lect the presence of the diode since V0
  Vmax .
 Hence, the current i in the LC-loop changes in
 time sinusoidally, starting from i = I0 and end-
@@ -97,7 +97,7 @@ magnetic energy of the inductor
 2
 LI2
 0 is conver-
-ted into the electric 
+ted into the electric
 eld energy of the capacitor,
 which is later released as heat on the resistor.
 When the stationary regime is achieved, the en-
@@ -122,15 +122,15 @@ r
 EI0R
 2
 .
-6) (1 pt) The charge which 
+6) (1 pt) The charge which
 ows away from
 the capacitor when the diode is closed can be
-found as qC = τLVav/R (owing to RC 
+found as qC = τLVav/R (owing to RC
  τLC,
 the relative change of the capacitor's voltage
 is small). Hence, the voltage drop is found as
 ∆V = qC/C = τLVav/(RC). The amplitude is
-half of the dierence between the minimal and
+half of the di erence between the minimal and
 maximal values, so that the amplitude
 U0 =
 ∆V

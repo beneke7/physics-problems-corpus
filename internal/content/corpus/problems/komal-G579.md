@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-The circuit shown in the figure was assembled. 
+The circuit shown in the figure was assembled.
 
- $a)$ What are the resistances of the resistors $R_2$ and $R_3$? 
- $b)$ What is the reading on meter 3? 
- $c)$ What is the voltage and the dissipated power of the voltage supply? 
+ $a)$ What are the resistances of the resistors $R_2$ and $R_3$?
+ $b)$ What is the reading on meter 3?
+ $c)$ What is the voltage and the dissipated power of the voltage supply?
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G579-fig1.gif)
+![figure](../../figures/komal/figures/komal-G579-fig1.gif)

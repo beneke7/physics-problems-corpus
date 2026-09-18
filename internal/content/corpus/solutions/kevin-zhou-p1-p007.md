@@ -25,4 +25,4 @@ of this statement and find the mass of the Higgs boson in kilograms.
 Solution. One easy way to start out dimensional analysis is with famous equations: E = mc2, or
 E = 1
 2mv2 to get m ∼ E/c2. Thus the mass of the Higgs boson is m = 125GeV/c2 = 2.22×10−25 kg.
-[3] Problem 8.  W 1 0USAPhO 2002, problem A3.
+[3] Problem 8.   W 1 0USAPhO 2002, problem A3.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200603"
 verification_status: pending
 ---
 
-Explain how a level works. Instead of a level can we use any tube filled with water and having a small bubble in it? 
+Explain how a level works. Instead of a level can we use any tube filled with water and having a small bubble in it?
  (3 pont)

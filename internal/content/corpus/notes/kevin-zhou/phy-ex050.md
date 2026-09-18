@@ -36,7 +36,6 @@ on the faces perpendicular to ŷ, in which case σxy = σyx = P throughout the 
 There are multiple solutions for the displacement field u, which is generally not determined uniquely.
 For example, the cube may shear along the x̂ direction, the ŷ direction, or some combination of
 both. Which one occurs in practice depends on how the external forces are applied.
-107 4. Continuum Mechanics
 
 
 4.3     Ideal Fluid Flow
@@ -86,7 +85,6 @@ We begin with the mathematical description of fluid flow.
                                                      Dt
       where f ∗ is the effective force density. The field Dv/dt is called the material acceleration; note
       that it can be nonzero even for a steady flow.
-108 4. Continuum Mechanics
 
 
  • This result can also be written as a continuity equation for momentum,
@@ -140,7 +138,6 @@ Next, we consider the case of incompressible and inviscid/ideal/perfect flow.
  • At interfaces between two fluids, we additionally need the boundary conditions that p and v · n
    are continuous, where n is the normal vector. For a solid boundary, this means the normal
    component of velocity must vanish.
-109 4. Continuum Mechanics
 
 
   • As we’ll see below, the degree to which viscosity can be neglected is quantified by the Reynolds
@@ -178,7 +175,6 @@ Next, we consider the case of incompressible and inviscid/ideal/perfect flow.
 Note. In steady flow through a constriction, there is an asymmetry between the inlet and outlet:
 the water converges in the inlet to the constriction, then leaves through the outlet in a narrow jet.
 (One can also see a boundary layer in the constriction.)
-110 4. Continuum Mechanics
 
 
 However, this asymmetry is not encoded in the Euler equations for steady flow, which are symmetric
@@ -194,7 +190,7 @@ Next, we study the vorticity of the flow.
    everywhere. However, this intuition can fail if streamlines form closed loops.
 
  • To make this intuition precise, note that
-                                                               
+
                                                            p
                              ∂i H = vj ∂i vj + ∂i       Φ+          = vj ∂i vj − vj ∂j vi
                                                            ρ0
@@ -230,7 +226,6 @@ Next, we study the vorticity of the flow.
                                                     C                  S
 
     where we used Stokes’ theorem.
-111 4. Continuum Mechanics
 
 
   • In the absence of vorticity, the curl of the velocity vanishes, so we may write it as

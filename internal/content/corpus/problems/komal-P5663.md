@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, extremization]
 ---
 
-The system shown in the figure is in equilibrium. A load of 225 kg is hung on the end of a 45 kg supporting rod. Determine the magnitude and direction of the tension in the cable and of the force exerted by the hinge on the supporting rod. 
+The system shown in the figure is in equilibrium. A load of 225 kg is hung on the end of a 45 kg supporting rod. Determine the magnitude and direction of the tension in the cable and of the force exerted by the hinge on the supporting rod.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5663-fig1.png)
+![figure](../../figures/komal/figures/komal-P5663-fig1.png)

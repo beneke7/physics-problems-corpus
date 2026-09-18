@@ -30,6 +30,6 @@ Ha a palack nyílása közelében fújol, pfetyegő hang keletkezhet: egy lágy 
 
 **iii)** *(3 pont)* Grafikus módszerrel teszteld az általad javasolt összefüggés helyességét, és határozd meg az annak paraméterei! Hiba-analízis nem szükséges.
 
-![A palackhang mérési grafikonja 1](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
+![A palackhang mérési grafikonja 1](../../figures/nbpho/figures/nbpho-2020-bottles-sound-fig1.png)
 
-![A palackhang mérési grafikonja 2](../../sources/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)
+![A palackhang mérési grafikonja 2](../../figures/nbpho/figures/nbpho-2020-bottles-sound-fig2.png)

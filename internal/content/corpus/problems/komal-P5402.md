@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, choose-reference-frame, limiting-and-special-cases]
 ---
 
-A point-like weight $m$ is attached to a thin ring of radius $R$ and of negligible mass The ring moves out of its unstable equilibrium position shown in the figure, and it starts slipping on the ground when the displacement of its centre is just $R$. What is the coefficient of friction between the ring and the horizontal ground? 
+A point-like weight $m$ is attached to a thin ring of radius $R$ and of negligible mass The ring moves out of its unstable equilibrium position shown in the figure, and it starts slipping on the ground when the displacement of its centre is just $R$. What is the coefficient of friction between the ring and the horizontal ground?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5402-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5402-fig1.gif)

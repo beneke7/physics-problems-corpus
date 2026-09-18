@@ -66,7 +66,8 @@ condenses, and equals 0.018×L. Thus
 
 
                                                                                             1
- Q’ = ∆U + A11+A23+A34 = 0.018× L + A11 + A34 = 46.946 J ≅ 47 kJ         (2)
+
+ Q’ = ∆U + A11+A23+A34 = 0.018× L + A11 + A34 = 46.946 J ≅ 47 kJ         (2)
 
 2. The process of compression (2. a.) and expansion (2.c.) of gases can be divided into several
 stages. The stages are limited by the following states:
@@ -116,7 +117,8 @@ The volume of the left compartment is (2 - 2 ) V0
 
 
                                                                                                2
-    p(atm)
+
+    p(atm)
 
 
                  5
@@ -174,7 +176,8 @@ obtain
 
 
                                                                                          3
-•      If we consider p approximatively constant (with relative deviation about 20/373 ≈ 5 %)
+
+•      If we consider p approximatively constant (with relative deviation about 20/373 ≈ 5 %)
 T ' can be easily found, and
                          T’ = 354 K
 The volume V ' of the right compartment at temperature T ' can be calculated as follows:

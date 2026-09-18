@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5076. Egy optikai rácsot a résekre merőlegesen, de a rács síkjához képest ferdén, $45^\circ$-os szögben világítunk meg monokromatikus, $\lambda$ hullámhosszúságú lézerfénnyel. Határozzuk meg az elhajlási kép intenzitásmaximumainak számát és irányát, ha a rácsállandó 
- $a)$ $d=\lambda$; 
+P. 5076. Egy optikai rácsot a résekre merőlegesen, de a rács síkjához képest ferdén, $45^\circ$-os szögben világítunk meg monokromatikus, $\lambda$ hullámhosszúságú lézerfénnyel. Határozzuk meg az elhajlási kép intenzitásmaximumainak számát és irányát, ha a rácsállandó
+ $a)$ $d=\lambda$;
  $b)$ $d=5\lambda$.

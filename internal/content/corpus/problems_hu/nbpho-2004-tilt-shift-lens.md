@@ -29,7 +29,7 @@ Használd a vékony lencse képletét:
 $f^{-1}=x^{-1}-x^{\prime -1}$ ($x>0$; $x$ és $x'$ egy pont, illetve képe
 $x$-koordinátái) (2 pont)!
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-tilt-shift-lens-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-tilt-shift-lens-fig1.png)
 
 **2)** Az (a) ábrán rajzold meg a megadott egyenes képét, és jelöld, hogy a kép
 mely részei virtuálisak, illetve mely részei valódiak (2 pont)!
@@ -42,4 +42,4 @@ teljes lencsetartó szabadon elhelyezhető). A virágmező (amely gyakorlatilag 
 végtelenig terjed), távoli szélének képe és a képsík a (b) ábrán látható. Szerkeszd
 meg a lencse helyzetét; a gyújtótávolságot léptékként adtuk meg (2 pont)!
 
-![ábra](../../sources/nbpho/figures/nbpho-2004-tilt-shift-lens-fig2.png)
+![ábra](../../figures/nbpho/figures/nbpho-2004-tilt-shift-lens-fig2.png)

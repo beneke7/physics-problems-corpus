@@ -30,7 +30,6 @@ végtelen vektorokból áll, és amelyeknek csak véges sok nem zérus komponens
 Cauchy-sorozat, de nem konvergál V-ben.
 
 Most a Hilbert-téren értelmezett operátorokat vizsgáljuk.
-123 5. A kvantummechanika alapjai
 
 
  • Legyen A : V → W egy operátor. Ekkor definiálhatjuk az A∗ : W ∗ → V ∗ visszahúzott operátort
@@ -86,7 +85,6 @@ Most a Hilbert-téren értelmezett operátorokat vizsgáljuk.
  • A spektráltétel szerint ha A = A†, akkor A minden sajátértéke valós, és a különböző ai-khez
    tartozó sajátalterek ortogonálisak. Ha a tér szeparábilis, minden sajátaltér véges dimenziós,
    ezért Gram–Schmidt-eljárással ortonormált sajátbázist konstruálhatunk.
-124 5. A kvantummechanika alapjai
 
 
   • Egy A operátor projekció, ha A2 = A. Például az A = |α⟩⟨α| operátor akkor projekció, ha
@@ -138,7 +136,6 @@ A továbbiakhoz összegyűjtünk néhány hasznos kommutátorazonosságot.
     adA (B) = [A, B] definícióval ez azt jelenti, hogy
                                               eA Be−A = eadA B
     pontosan a kívánt azonosság.
-125 5. A kvantummechanika alapjai
 
 
  • Ennek közvetlenebb bizonyítása, ha definiáljuk
@@ -148,7 +145,7 @@ A továbbiakhoz összegyűjtünk néhány hasznos kommutátorazonosságot.
     és differenciálegyenletet keresünk F-re; ez ugyanaz az ötlet más jelöléssel.
 
  • Glauber tétele szerint ha [A, B] kommutál A-val és B-vel is, akkor
-                                                             
+
                                   A B                  1
                                  e e = exp A + B + [A, B] .
                                                        2
@@ -162,7 +159,7 @@ A továbbiakhoz összegyűjtünk néhány hasznos kommutátorazonosságot.
 
    Ezért a következő megoldást sejtjük:
                                                         λ2
-                                                                        
+
                                   F (λ) = exp λ(A + B) + [A, B]
                                                         2
     Ez a megoldás akkor teljesíti a differenciálegyenletet, ha az exponenciális argumentuma kommutál
@@ -197,7 +194,6 @@ Most készen állunk a kvantummechanika posztulátumainak kimondására.
                                           iℏ      |ψ(t)⟩ = H|ψ(t)⟩.
                                                dt
      egyenlettel definiálja.
-126 5. A kvantummechanika alapjai
 
 
    4. Ha az A megfigyelhető mennyiséget akkor mérjük, amikor a rendszer |α⟩ állapotban van, és

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-At least what speed should a small object of mass $m$ and of charge $q$ be projected upward in vacuum in order that it reaches another object of charge $Q$, (vertically) above it at a height of $\ell$? ($Q$ and $q$ are opposite charges.) 
- Data: $m=10^{-5}$ kg, $q=4.0\cdot10^{-9}$ C, $Q= - 1.0\cdot10^{-7}$ C, $\ell=0.36$ m. 
+At least what speed should a small object of mass $m$ and of charge $q$ be projected upward in vacuum in order that it reaches another object of charge $Q$, (vertically) above it at a height of $\ell$? ($Q$ and $q$ are opposite charges.)
+ Data: $m=10^{-5}$ kg, $q=4.0\cdot10^{-9}$ C, $Q= - 1.0\cdot10^{-7}$ C, $\ell=0.36$ m.
  (5 pont)

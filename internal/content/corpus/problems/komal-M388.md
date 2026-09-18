@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201909"
 verification_status: pending
 ---
 
-Investigate how a piece of elastic band (either flat or round, sold in haberdasher's shops) follows Hooke's law. Measure the length of the elastic band when the applied force is increasing and also when the force is decreasing. 
+Investigate how a piece of elastic band (either flat or round, sold in haberdasher's shops) follows Hooke's law. Measure the length of the elastic band when the applied force is increasing and also when the force is decreasing.
  (6 pont)

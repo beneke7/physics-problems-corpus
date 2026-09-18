@@ -33,7 +33,9 @@ solution_language: en
 
 
                                                        12
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
      (a) Find the total mass M ′ at B, and thus the frequency f ′ of the photons measured at B.

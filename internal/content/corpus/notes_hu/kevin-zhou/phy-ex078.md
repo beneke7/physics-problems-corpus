@@ -47,7 +47,6 @@ algebra önmagára gyakorolt adjungált hatása a vektoriális szorzás.
 Megjegyzés. A Lie-csoport nemkommutativitása nemtriviális Lie-zárójelet tükröz. Ennek első meg-
 nyilvánulása az, hogy
                              etg eth e−tg e−th = 1 + t2 [g, h] + . . .
-168 7. Perdület
 
 Ez azt jelenti, hogy a nemzérus Lie-zárójel miatt a megfelelő csoporte­lemek nem kommutálnak; egyszerű
 példaként az x̂ és ŷ körüli kis forgatások kommutátora az x̂ × ŷ = ẑ körüli forgatás. Megfordítva,
@@ -95,13 +94,12 @@ Most a kvantumspint vizsgáljuk, a spin 1/2 esetre összpontosítva.
                                               [Ji , Jj ] = iℏϵijk Jk .
 
       Ez közvetlenül megmutatható az infinitézimális forgatások kommutátorának vizsgálatával.
-169 7. Perdület
 
  • A J operátorok forgatásokat generálnak, az i tényező Hermitikussá teszi őket, a ℏ tényező pedig
    a perdület dimenzióját biztosítja. Ezért J-t a rendszer perdületoperátorának definiáljuk.
 
  • Ezzel a definícióval az identitáshoz közeli forgatások alakja
-                                                                                 
+
                                     i                                     i
                      U (n̂, θ) = 1 − θn̂ · J + . . . ,   U (n̂, θ) = exp − θn̂ · J .
                                     ℏ                                     ℏ
@@ -151,10 +149,9 @@ Most a kvantumspint vizsgáljuk, a spin 1/2 esetre összpontosítva.
                                     U = x0 + ix · σ,       x2i = 1
 
    ezért SU (2) topológiailag S 3. Az xi-ket Cayley–Klein-paramétereknek nevezzük.
-170 7. Perdület
 
 Megjegyzés. Az Euler-szögek felbontása spinorforgatásokra is működik:
-                                                                                   −iθ/2       
+                                                                                        −iθ/2
                cos θ/2   −i sin θ/2                 cos θ/2 − sin θ/2                  e        0
  U (x̂, θ) =                         , U (ŷ, θ) =                      , U (ẑ, θ) =                 .
               −i sin θ/2  cos θ/2                    sin θ/2 cos θ/2                     0    eiθ/2

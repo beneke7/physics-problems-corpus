@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201701"
 verification_status: pending
 ---
 
-Measure the depth of water, at which a table-tennis ball is to be released in order that 
- $a)$ the whole ball emerges from the water; 
- $b)$ the ball emerges to the highest level above the water surface. 
+Measure the depth of water, at which a table-tennis ball is to be released in order that
+ $a)$ the whole ball emerges from the water;
+ $b)$ the ball emerges to the highest level above the water surface.
  (6 pont)

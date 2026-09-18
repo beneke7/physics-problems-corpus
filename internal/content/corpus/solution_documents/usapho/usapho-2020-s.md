@@ -51,7 +51,9 @@ you to study physics and try out F = ma test hosted by AAPT.
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part A                                                2
+
+
+2020 USAPhO                                    Part A                                                2
 
 
 
@@ -65,7 +67,7 @@ z-axis. The shell has moment of inertia per unit length I. Charge is uniformly d
 shell, with surface charge density      .
                                     2πa
     The system is immersed in an external magnetic field B0 ẑ, and is initially at rest. Starting at
-t = 0, the external magnetic field is slowly reduced to zero over a time T  a/c, where c is the
+t = 0, the external magnetic field is slowly reduced to zero over a time T   a/c, where c is the
 speed of light.
 
 
@@ -94,12 +96,14 @@ a. Find an expression of the final angular velocity ω of the cylinder in terms 
                                       dt      2I     dt
      Integrate on both sides, and noting that ω(t = 0) = 0, we have:
 
-                                                  λa2            
+                                                  λa2
                                       ω(T ) = −       B(T ) − B0                           (A1-5)
                                                   2I
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                   Part A                                               3
+
+
+2020 USAPhO                                   Part A                                               3
 
 
 
@@ -130,33 +134,35 @@ b. You may be surprised that the expression you find above is not zero! However,
                                          L(r) = r × P(r).
 
    P(r) is a vector analogous to momentum, given by
-                                                           
+
                                      P(r) = α · E(r) × B(r) .
 
    where α is some proportionality constant. Find an expression for α in terms of given variables
    and fundamental constants.
 
                                              Solution
-     The electric field inside the cylindrical shell is given by E(r) = − 2πλ0 r r̂ inward. The
+     The electric field inside the cylindrical shell is given by E(r) = − 2π λ0 r r̂ inward. The
      magnetic field is given by B(t)ẑ. Then:
 
                                                      λB(t)
                                          P(r) = α           θ̂.
-                                                     2π0 r
+                                                     2π 0 r
      The angular momentum per unit volume is then:
                                                            λ
                                            L(r) = −α           ẑ
-                                                          2π0
+                                                          2π 0
      The angular momentum per unit length is then:
 
                                                   αλB(t)a2
                                          L=−               ẑ.
                                                      2
-     Comparing this to Equation (A1-5) shows that α = 0 .
+     Comparing this to Equation (A1-5) shows that α =  0 .
 
 
                   Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part A                                                 4
+
+
+2020 USAPhO                                    Part A                                                 4
 
 
 
@@ -201,7 +207,9 @@ b. What will the coordinates x, y in Jonh’s frame be at a later time t?
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                      Part A                                               5
+
+
+2020 USAPhO                                      Part A                                               5
 
 
 
@@ -258,7 +266,9 @@ e. Find the initial conditions for A, V , such that as measured in Ella’s fram
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part A                                               6
+
+
+2020 USAPhO                                    Part A                                               6
 
 
 
@@ -299,7 +309,9 @@ f. How long would it take for the plane of oscillation of Foucault’s pendulum 
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part A                                                    7
+
+
+2020 USAPhO                                    Part A                                                    7
 
 
 
@@ -353,7 +365,9 @@ c. If Carla’s stopwatch measures an elapsed time τ , what does Clock A measur
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part A                                                   8
+
+
+2020 USAPhO                                     Part A                                                   8
 
 
 
@@ -408,7 +422,9 @@ d. If Carla’s stopwatch measures an elapsed time τ , what does Clock B measur
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part B                                               9
+
+
+2020 USAPhO                                     Part B                                               9
 
 
 
@@ -459,7 +475,9 @@ a. When a faucet is turned on, a stream of water flows down with initial speed v
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part B                                             10
+
+
+2020 USAPhO                                     Part B                                             10
 
 
 
@@ -508,14 +526,16 @@ b. Assume that the stream of water falling from the faucet is cylindrically symm
 
 c. The water-air interface has some surface tension, σ. The effect of surface tension is to change
    the pressure in the stream according to the Young-Laplace equation,
-                                                        
+
                                                    1   1
                                          ∆P = σ      +     ,
                                                    r R
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                   Part B                                               11
+
+
+2020 USAPhO                                   Part B                                               11
 
 
 
@@ -528,7 +548,7 @@ c. The water-air interface has some surface tension, σ. The effect of surface t
 
 
 
-   For this part of the problem, we assume that |R|  |r|, so that the curvature of the vertical
+   For this part of the problem, we assume that |R|   |r|, so that the curvature of the vertical
    profile of the stream can be ignored. Also assume that water is incompressible.
    Accounting for the pressure in the stream, find a new equation relating for r(y) in terms of
    σ, r0 , v0 , and ρ, the density of water. You do not need to solve the equation for r.
@@ -560,7 +580,7 @@ c. The water-air interface has some surface tension, σ. The effect of surface t
      This may be simplified to
 
                                     1 2 r04
-                                                                   
+
                                                             1   1
                                      ρv     + ρgy = σ         −         .
                                     2 0 r4                  r0 r
@@ -570,7 +590,9 @@ d. After falling for some distance, the water stream usually breaks into smaller
    occurs because small random perturbations to the shape of the stream grow over time, eventually
    breaking the stream into apart.
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                   Part B                                             12
+
+
+2020 USAPhO                                   Part B                                             12
 
 
 
@@ -584,7 +606,7 @@ d. After falling for some distance, the water stream usually breaks into smaller
 
                                        r(y) = r0 + A cos(ky),
 
-  where A  r0 is the perturbation amplitude. To analyze such a stream, it is sufficient to consider
+  where A   r0 is the perturbation amplitude. To analyze such a stream, it is sufficient to consider
   only the thickest and thinnest parts of the stream.
   Accounting for both sources of curvature, find a condition on r0 and k such that the size of
   perturbations increases with time.
@@ -602,13 +624,13 @@ d. After falling for some distance, the water stream usually breaks into smaller
     will force water towards the thick parts, eventually breaking the stream into droplets.
     We consider a small patch with side lengths h on the surface of the stream at the thinnest
     part of the stream. The pressure is
-                                                           
+
                                                  1       1
                                   ∆Pthin = σ        +         .
                                                rthin Rthin
 
     And at the thickest part of the stream,
-                                                                          
+
                                                        1            1
                                    ∆Pthick = σ                +                .
                                                      rthick       Rthick
@@ -619,18 +641,20 @@ d. After falling for some distance, the water stream usually breaks into smaller
 
 
                   Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part B                                           13
+
+
+2020 USAPhO                                    Part B                                           13
 
 
 
    Using the Young-Laplace equation, this becomes
-                                                             
+
                                1       1            1      1
                          σ        +         >σ          +         .
                              rthin Rthin          rthick Rthick
 
    Dropping the common factor σ,
-                                                       
+
                               1    1          1      1
                                  +       >        +         .
                             rthin Rthin     rthick Rthick
@@ -653,8 +677,8 @@ d. After falling for some distance, the water stream usually breaks into smaller
                                            rthick   r0 r0
 
                          1
-   (To find these, recall   ≈ 1 +  for small .)
-                       1−
+   (To find these, recall   ≈ 1 +   for small  .)
+                       1−
    The inequality now becomes
                                   1   A   1      1   A    1
                                     + 2+       >   − 2+        .
@@ -672,7 +696,9 @@ d. After falling for some distance, the water stream usually breaks into smaller
 
 
                  Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                   Part B                                               14
+
+
+2020 USAPhO                                   Part B                                               14
 
 
 
@@ -684,7 +710,7 @@ d. After falling for some distance, the water stream usually breaks into smaller
                                           cos θ ≈ 1 − θ2 ,
                                                      2
    which means that for small x,
-                                                                   
+
                                                               1 2 2
                                ysinusoidal = A cos(kx) ≈ A 1 − k x .
                                                               2
@@ -728,7 +754,9 @@ d. After falling for some distance, the water stream usually breaks into smaller
 
 
                  Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part B                                             15
+
+
+2020 USAPhO                                    Part B                                             15
 
 
 
@@ -736,7 +764,7 @@ Question B2
 Mirror Mirror on the Wall
 Consider a square room with side length L. The bottom wall of the room is a perfect mirror.* A
 perfect monochromatic point source with wavelength λ is placed a distance d above the center of
-the mirror, where λ  d  L.
+the mirror, where λ   d   L.
 
                                                    L
 
@@ -756,7 +784,7 @@ the mirror, where λ  d  L.
 
    *Remember that the phase of light reflected by a mirror changes by 180◦ .
 a. On the right wall, an interference pattern emerges. What is the distance y between the bottom
-   corner and the closest bright fringe above it? Hint: you may assume λ  y  L as well.
+   corner and the closest bright fringe above it? Hint: you may assume λ   y   L as well.
 
                                               Solution
      This setup is essentially a double-slit experiment with the second slit being the image of the
@@ -784,13 +812,15 @@ b. You plan on running an experiment to determine λ in a room with L = 40 m, an
    point source to minimize your error in your λ measurement? Roughly what is that minimum
    error?
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                    Part B                                                 16
+
+
+2020 USAPhO                                    Part B                                                 16
 
 
 
 
                                               Solution
-     Our error is given by                  s        2                 2
+     Our error is given by                  s          2                   2
                                      ∆λ          ∆d                ∆y10
                                         =                  +                   .
                                       λ           d                y10
@@ -836,7 +866,7 @@ c. Now suppose we place a transparent hemispherical shell of thickness s and ind
      To minimize y, we take m to be − (n−1)sλ  −  1
                                                   2 . Then,
 
-                                                                   !
+                                                                     !
                                 L                  (n − 1)s 1      λ
                              y=       (n − 1)s − λ         −     −     .
                                 4d                    λ      2     2
@@ -846,20 +876,22 @@ c. Now suppose we place a transparent hemispherical shell of thickness s and ind
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part B                                           17
+
+
+2020 USAPhO                                     Part B                                           17
 
 
 
 d. Now, suppose the hemispherical shell is removed, and we instead observe the interference pattern
    on the top wall. To the nearest integer, what is the total number of fringes that appear on the
-   top wall? You may assume that d  L.
+   top wall? You may assume that d   L.
 
                                                Solution
                                                                               p
                                                                    is given by (L − d)2 + x2
      Now, the distance between the source and a spot x on the wall p
      and the distance between the image and a spot on the wall is (L + d)2 + x2 + λ/2. We
-     do not assume x  L this time. Subtracting the two distances gives us roughly
+     do not assume x   L this time. Subtracting the two distances gives us roughly
                             r                         r
                   p
                      2    2
@@ -892,7 +924,7 @@ d. Now, suppose the hemispherical shell is removed, and we instead observe the i
                                                        4d
                                             m − 1/2 ≥ √ .
                                                         5λ
-     Then, the number of fringes is                        
+     Then, the number of fringes is
                                                2d        2
                                             2·       1− √     ,
                                                λ          5
@@ -902,7 +934,9 @@ d. Now, suppose the hemispherical shell is removed, and we instead observe the i
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part B                                              18
+
+
+2020 USAPhO                                     Part B                                              18
 
 
 
@@ -916,14 +950,14 @@ that the atoms do not collide with each other for the entirety of the problem.
 a. Consider an atom in the interior of this container of volume V . Suppose the potential energy of
    the interaction is given by                
                                               0           r<d
-                                      u(r) =        6
-                                              − d        r≥d
+                                      u(r) =          6
+                                              −  d        r≥d
                                                      r
 
 
-   where d  V 1/3 is the minimum allowed distance between two atoms. Assume the gas is
+   where d   V 1/3 is the minimum allowed distance between two atoms. Assume the gas is
    uniformly distributed within the container, what is the average potential energy of this atom?
-                                      2πd3 
+                                      2πd3
    Write your answer in terms of a0 =        , N , and V .
                                         3
 
@@ -931,11 +965,11 @@ a. Consider an atom in the interior of this container of volume V . Suppose the 
      The density of the gas is given by N/V . In a spherical shell of radius r and thickness ∆r,
      there are (4πr2 ∆r)N/V atoms. The potential energy is given by
 
-                                       ∆U = −(4πr2 ∆r)N/V d6 /r6 .
+                                       ∆U = −(4πr2 ∆r)N/V  d6 /r6 .
 
      Then, the total potential energy is given by
                                  Z ∞
-                            U=       −(4πr2 dr)N/V d6 /r6 = −2a0 N/V.
+                            U=       −(4πr2 dr)N/V  d6 /r6 = −2a0 N/V.
                                    d
 
 
@@ -961,7 +995,9 @@ c. Using Bernoulli’s law P + U + ρv 2 /2 = constant, with pressure P , potent
 
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                      Part B                                                 19
+
+
+2020 USAPhO                                      Part B                                                 19
 
 
 
@@ -1019,7 +1055,9 @@ f. What is the increase in the entropy of the universe as a result of the free e
                                                     v
 
                    Copyright c 2020 American Association of Physics Teachers
-2020 USAPhO                                     Part B                        20
+
+
+2020 USAPhO                                     Part B                        20
 
 
 

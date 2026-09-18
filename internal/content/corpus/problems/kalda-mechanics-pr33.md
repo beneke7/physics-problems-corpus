@@ -19,4 +19,4 @@ verification_status: pending
 
 A thread is thrown over a pulley. At its both ends there are two blocks with equal masses. Initially the two blocks are at the same height. One of them is instantaneously given a small horizontal velocity $v$. Which of the two blocks will reach higher during the subsequent motion? The pulley's mass is negligible.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr33-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr33-fig1.jpg)

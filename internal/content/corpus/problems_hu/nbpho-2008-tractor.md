@@ -27,7 +27,7 @@ jelzett irányban haladtak az utakon. Minden traktor sebessége
 $v_{0}=30 \mathrm{~km} / \mathrm{h}$ volt. Az (a) vázlaton a szél irányát egy másik
 nyíl jelzi.
 
-![ábra](../../sources/nbpho/figures/nbpho-2008-tractor-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2008-tractor-fig1.png)
 
 1) A megadott vázlat alapján határozd meg a szél sebességét az (a) esetben.
 

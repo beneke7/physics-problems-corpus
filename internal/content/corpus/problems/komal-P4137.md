@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A small ball is pushed along a horizontal tabletop, and totally elastically bounces off an inclined plane placed in the way of the ball. Moving upwards, how many times will the ball bounce on the incline? (Neglect the rotation of the ball.) 
+A small ball is pushed along a horizontal tabletop, and totally elastically bounces off an inclined plane placed in the way of the ball. Moving upwards, how many times will the ball bounce on the incline? (Neglect the rotation of the ball.)
  (5 pont)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-The dual carriageway road considered in this problem has two lanes for traffic going in each direction. The average distance between cars on each lane of the dual carriageway at peak times is 150 m. The average time to pass through the toll gates is 10 seconds for entering and 20 seconds for exiting. How many gates would be needed on one side and on the other to avoid congestion even at rush hour? (The average speed of the cars is 100 km/h.) 
+The dual carriageway road considered in this problem has two lanes for traffic going in each direction. The average distance between cars on each lane of the dual carriageway at peak times is 150 m. The average time to pass through the toll gates is 10 seconds for entering and 20 seconds for exiting. How many gates would be needed on one side and on the other to avoid congestion even at rush hour? (The average speed of the cars is 100 km/h.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5490-fig1.jpg)
+![figure](../../figures/komal/figures/komal-P5490-fig1.jpg)

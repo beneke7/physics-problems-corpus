@@ -44,11 +44,11 @@ muµ
 (b) In the frame S′, the particle has speed (u − v)/(1 − uv), corresponding to Lorentz factor
 γ′
 =
-
+
 1 −
 (u − v)2
 (1 − uv)2
-−1/2
+ −1/2
 = (1 − uv)γuγv.
 Thus, the boosted values of E and p are
 E′

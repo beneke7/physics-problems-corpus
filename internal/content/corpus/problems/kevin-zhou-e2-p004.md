@@ -27,7 +27,9 @@ An infinite grounded conducting plane at z = 0 is deformed with a hemispherical
     bump of radius R centered at the origin, as shown. A charge q is placed at z = a as shown.
 
                                                         2
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
 

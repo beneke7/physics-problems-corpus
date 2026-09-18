@@ -31,5 +31,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     the energy gained by an electron accelerated through a voltage difference of 1 V. Fix the dimensions
 
 
-                  01W
+                  01W
     of this statement and find the mass of the Higgs boson in kilograms.

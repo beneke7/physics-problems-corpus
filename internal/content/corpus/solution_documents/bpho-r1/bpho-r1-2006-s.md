@@ -543,7 +543,7 @@ $$
 (iii) At the point of closest approach to source, tume $t_{0}$,
 
 $$
-\begin{array}{lllll} 
+\begin{array}{lllll}
 & v \cos \theta=0 & \text { di } \cos \theta=0 & \theta=90^{\circ} & {[1]} \\
 \text { Giving } & f=f_{0}=196.0 \mathrm{~Hz} & & {[1]}
 \end{array}

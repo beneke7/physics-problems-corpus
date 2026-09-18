@@ -24,7 +24,7 @@ techniques: [graphical-reduction, conservation-laws]
 
 Consider a cube of side length $a=1 \mathrm{~cm}$, made of aluminium (density $\rho=2.7 \mathrm{~g} / \mathrm{cm}^{3}$, molar mass $M_{A}=23 \mathrm{~g} / \mathrm{mol}$ ). The heat capacitance of one mole of aluminium is given as a function of temperature in the graph below. The speed of light $c=3 \times 10^{8} \mathrm{~m} / \mathrm{s}$, universal gas constant $R=8.31 \mathrm{~J} /(\mathrm{kg} \cdot \mathrm{K})$. The initial temperature of the cube is $T_{0}=300 \mathrm{~K}$.
 
-![figure](../../sources/nbpho/figures/nbpho-2014-thermal-acceleration-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2014-thermal-acceleration-fig1.jpg)
 
 **i)** *(1 point)* What is the total heat energy of such a cube at the initial temperature $T_{0}$ ?
 

@@ -40,8 +40,8 @@ In the physical laboratory the thermometer reading was 20 °C, and the barometer
 ## Problem 1.C Pyramid (3.0 points)
 
 A regular triangular pyramid $A B C D$ is made of a transparent material with the refraction index $n=1,6$. All angles at the top of the pyramid are right. The base of the pyramid forms a right triangle whose sides' lengths are equal $a=2,0 m m$. The pyramid can be thought of as "a corner cut off from the cube." The pyramid is homogeneously illuminated such that the light falls along its height, perpendicular to the base plane.
-![](izho-2013-t-q1-fig01.png)
-![](izho-2013-t-q1-fig02.png)
+![](../../figures/izho/figures/izho-2013-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2013-t-q1-fig02.png)
 
 1. Draw an area at the base of the pyramid illuminated by the light refracted in the plane $A B C$.
 2. A screen is placed in parallel to the pyramid base at a distance of $L=10 s m$ from it. Draw areas illuminated by the light refracted by the pyramid. Specify the position and sizes of these areas.

@@ -698,7 +698,7 @@ $$
 ![](https://cdn.mathpix.com/cropped/a3e426fb-b328-4491-81e8-07887f74ed5d-17.jpg?height=214&width=367&top_left_y=2055&top_left_x=1598)
 (q)
 
-## The smallaples in the question man this stom. Page 17 <br> The smallaples in sle question man this is SAM. Prage 17
+## The smallaples in the question man this stom. Page 17  —  The smallaples in sle question man this is SAM. Prage 17
 
 $$
 \begin{aligned}
@@ -866,7 +866,7 @@ The rolume of the mantle munt be grenty s $\pi\left(\Gamma^{3}-\Gamma_{\text {co
 ![](https://cdn.mathpix.com/cropped/a3e426fb-b328-4491-81e8-07887f74ed5d-22.jpg?height=111&width=48&top_left_y=2713&top_left_x=157)
 ![](https://cdn.mathpix.com/cropped/a3e426fb-b328-4491-81e8-07887f74ed5d-23.jpg?height=350&width=1178&top_left_y=125&top_left_x=74&polygon=1139,0,1170,4,1178,12,1178,36,1174,255,1170,267,1166,275,1155,287,1135,291,1108,295,173,350,169,350,106,334,47,287,43,283,20,244,12,228,8,197,0,59,0,43,4,8,8,4,67,0)
 
-| > ida > here? > or Lore! <br> 1 $d$ |
+| > ida > here? > or Lore! ;  1 $d$ |
 | :--- |
 |  |> ida
 

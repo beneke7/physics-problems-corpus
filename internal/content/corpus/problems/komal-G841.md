@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization]
 ---
 
-If you tie 20-30 wooden skewers tightly together with a rubber band, why does the bundle take on a nearly cylindrical shape? 
+If you tie 20-30 wooden skewers tightly together with a rubber band, why does the bundle take on a nearly cylindrical shape?
  (3 pont)

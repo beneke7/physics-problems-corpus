@@ -50,7 +50,7 @@ G. Red, green and blue light filters in an envelope. If you have trouble telling
 
 H. Power supply. (Bench-top supply with adjustable voltage and current limits, operating as a constant-current or constant-voltage source as appropriate; full operating instructions are provided with the apparatus.)
 
-![figure](../../sources/eupho/figures/eupho-2022-E1-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-E1-1.png)
 
 *Figure 1: Picture of equipment for experimental problems (protractor and black paper shield not shown).*
 

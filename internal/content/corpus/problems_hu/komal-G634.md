@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 634. Az ábrán látható golyóscsapágy belső gyűrűje mozdulatlan, a golyók középpontjai 0,2 m/s sebességgel futnak körbe. Mekkora a külső gyűrű fordulatszáma, ha $r=3$ cm, $R=4$ cm?
 
-![figure](../../raw_html/komal_figures/komal-G634-fig1.gif)
+![figure](../../figures/komal/figures/komal-G634-fig1.gif)

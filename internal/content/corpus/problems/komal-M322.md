@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-Measure how long it takes to a single pulse generated at one end of a horizontal Slinky, to travel back to the place where it was initiated, if the Slinky is stretched differently. Examine how this time depends on the distance between the turns. 
+Measure how long it takes to a single pulse generated at one end of a horizontal Slinky, to travel back to the place where it was initiated, if the Slinky is stretched differently. Examine how this time depends on the distance between the turns.
  (6 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the current in the circuit given below; the $I(V)$ dependence of the diode is shown in graph.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr24-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr24-fig1.jpg)

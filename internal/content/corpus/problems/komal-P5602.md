@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A piston in a horizontal cylinder seals off helium gas. The gas is heated by a 10 W heating element. The gas pushes the piston outwards uniformly. The cross section of the cylinder is $10~\mathrm{cm}^2$. The external air pressure is $100~\mathrm{kPa}$. What is the speed of the piston? 
+A piston in a horizontal cylinder seals off helium gas. The gas is heated by a 10 W heating element. The gas pushes the piston outwards uniformly. The cross section of the cylinder is $10~\mathrm{cm}^2$. The external air pressure is $100~\mathrm{kPa}$. What is the speed of the piston?
  (4 pont)

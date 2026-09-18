@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: pending
 ---
 
-A point-like body of mass m and of charge Q is initially at rest on the horizontal tabletop as shown in the figure and is given a v $_{0}$ vertical, upward speed. There is a horizontal E electric field exerted on the object. With what speed does the object hit the table when it falls back, and what is the distance between the starting point and the point where it hits the table? 
+A point-like body of mass m and of charge Q is initially at rest on the horizontal tabletop as shown in the figure and is given a v $_{0}$ vertical, upward speed. There is a horizontal E electric field exerted on the object. With what speed does the object hit the table when it falls back, and what is the distance between the starting point and the point where it hits the table?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4180-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4180-fig1.gif)

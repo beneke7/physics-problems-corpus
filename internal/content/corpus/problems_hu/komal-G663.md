@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 663. Az ábrán két izzólámpa, egy zsebtelep és egy olyan kettős kapcsoló látható, amely egyszerre vált át két érintkezőt. Tervezzünk a megadott eszközökből olyan áramkört (vagyis rajzoljuk meg a vezetékeket), hogy a kapcsoló egyik állásában a két lámpa sorosan, a másik állásában párhuzamosan legyen bekötve!
 
-![figure](../../raw_html/komal_figures/komal-G663-fig1.gif)
+![figure](../../figures/komal/figures/komal-G663-fig1.gif)

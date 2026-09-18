@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202603"
 verification_status: flagged
 ---
 
-Measure the maximum distance from which the text of the physics problems in a KöMaL magazine under given lighting condition is readable. The lighting of the page should be measured by the light sensor of a cell phone. How accurately can lighting be measured using this alternative method? 
+Measure the maximum distance from which the text of the physics problems in a KöMaL magazine under given lighting condition is readable. The lighting of the page should be measured by the light sensor of a cell phone. How accurately can lighting be measured using this alternative method?
  (6 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, graphical-reduction]
 ---
 
-A beam of magenta light, which is combined from red light of wavelength 652 nm, and blue light of wavelength 489 nm, is perpendicularly incident on a traditional diffraction grating. The distance between the two closest magenta coloured spots on a screen at a distance of 2 m is 20 cm. What is the slit spacing of the diffraction grating? 
+A beam of magenta light, which is combined from red light of wavelength 652 nm, and blue light of wavelength 489 nm, is perpendicularly incident on a traditional diffraction grating. The distance between the two closest magenta coloured spots on a screen at a distance of 2 m is 20 cm. What is the slit spacing of the diffraction grating?
  (4 pont)

@@ -24,7 +24,7 @@ techniques: [conservation-laws, cross-domain-analogy]
 **IV. WATER PUMP (10 points)**
 
 Consider the following construction of a water pump. A vertical tube of cross-sectional area $S_{1}$ leads from an open water reservoir to a cylindric rotating tank of radius $r$. All the vessels are filled with water; there are holes of net cross-sectional area $S_{2}$ along the perimeter of the tank, which are open for the operating regime of the pump. The height of the tank from the free water surface of the reservoir is $h$ (the height of the tank itself is small). An electric engine keeps the vessel rotating at the angular velocity $\omega$. The water density is $\rho$, the air pressure $-p_{0}$, and the saturated vapour pressure $-p_{k}$. Assume the water flow to be laminar (neglect the energy of vortices) and neglect the friction. Inside the tank, there are metal blades, which make the water rotating together with the tank.
-![figure](../../sources/nbpho/figures/nbpho-2005-water-pump-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2005-water-pump-fig1.jpg)
 
 1) Calculate the pressure $p_{2}$ at the perimeter of the tank, when all the holes are closed (2 p).
 2) From now on, all the holes are open. Find the velocity $v_{2}$ of the water jets with respect to the ground (2 p).

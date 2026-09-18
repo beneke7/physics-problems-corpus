@@ -61,11 +61,11 @@ gR
 cosγ
 + 2gR(1 + cosγ),v2
 1 = 2gR
-
+
 1 + cosγ +
 1
 2cosγ
-
+
 .
 Mekkora γ szögnél lesz v1 a legkisebb? (Els® sejtésünk szerint γ = 0 esetben, amikor épp át súszik a szö ske a
 fatörzs tetején. Ekkor cos0 +
@@ -102,33 +102,33 @@ legkisebb értéke tehát
 2, ezt γ = 45◦
 -nál veszi fel. Azt a meglep® eredményt kaptuk tehát, hogy
 az optimális pálya a legfels® pontjában nem érinti a fatörzset, hanem fölé emelkedik. A szö ske helyzeti energiája a
-legmagasabb pontban nagyobb ugyan, mint az éppen át súszik esetben, de a mozgási energiája  s az összenergiája
-is  kisebb! Az eredeti kérdésre a helyes válasz tehát:
+legmagasabb pontban nagyobb ugyan, mint az  éppen át súszik  esetben, de a mozgási energiája   s az összenergiája
+is   kisebb! Az eredeti kérdésre a helyes válasz tehát:
 v1min =
 r
 2gR
-
+
 1 +
 √
 2
-
+
 ≈ 2,2
 m
 s
 .
 Az érdekesség kedvéért kiszámíthatjuk α és β megfelel® értékeit is ebben az esetben:
 α = 67,5◦
-
+
 =
 3π
 8
-
+
 , β = 60◦
-
+
 =
 π
 3
-
+
 ;
 az elugrási AG távolság pedig R 1 +
 √

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, auxiliary-unknowns]
 ---
 
-A resistor of constant resistance is connected to the generator of a bicycle (sometimes wrongly named as ``dynamo''). To rotate the generator at a constant rotational speed of revolutions $n$ and $2n$, the average torque to be applied is $M_1$ and $1.8\,M_1$, respectively. What is the average torque in order to rotate the generator at a rotational speed of $3n$? The mechanical losses of the generator can be neglected. 
+A resistor of constant resistance is connected to the generator of a bicycle (sometimes wrongly named as ``dynamo''). To rotate the generator at a constant rotational speed of revolutions $n$ and $2n$, the average torque to be applied is $M_1$ and $1.8\,M_1$, respectively. What is the average torque in order to rotate the generator at a rotational speed of $3n$? The mechanical losses of the generator can be neglected.
  (6 pont)

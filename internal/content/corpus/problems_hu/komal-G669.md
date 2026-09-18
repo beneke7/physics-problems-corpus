@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 669. Autópályák információs tábláin gyakran látható a mellékelt rajzhoz hasonló figyelmeztetés a megfelelő követési távolság betartására. Hogyan lehetséges a követési távolságot másodpercben megadni? Miért éppen 2 s, vagy annál nagyobb a megfelelő ,,követési távolság''?
 
-![figure](../../raw_html/komal_figures/komal-G669-fig1.gif)
+![figure](../../figures/komal/figures/komal-G669-fig1.gif)

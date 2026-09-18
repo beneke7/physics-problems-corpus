@@ -25,7 +25,7 @@ His Geogebra file can be retrieved here.
 
 Stefán Alexis Sigurðsson's solution shows how complex things can become:
 
-Another quite long arithmetic solution is provided by Jun-Ting Hsieh:
+Another quite long arithmetic solution is provided by Jun-Ting Hsieh :
 
 And one more arithmetic/trigonometric solution, provided by Kohei Kawabata:
 

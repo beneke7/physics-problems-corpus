@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, model-reduction]
 ---
 
-The depth of water in a swimming-pool is 2 m. An incandescent lamp is operated 3 m above the surface of the water. Exactly below the lamp a 1 diopter lens, which has small diameter, is moved up and down. How far is the lens from the surface of the water when the sharp enlarged image of the filament of the lamp appears at the bottom of the pool? 
+The depth of water in a swimming-pool is 2 m. An incandescent lamp is operated 3 m above the surface of the water. Exactly below the lamp a 1 diopter lens, which has small diameter, is moved up and down. How far is the lens from the surface of the water when the sharp enlarged image of the filament of the lamp appears at the bottom of the pool?
  (5 pont)

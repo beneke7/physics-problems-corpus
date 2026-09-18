@@ -31,7 +31,7 @@ $$
 \sin \alpha-\sin \beta=\frac{v}{c} \sin \phi \sin (\alpha+\beta)
 $$
 
-![](apho-2005-t-q3-fig01.png)
+![](../../figures/apho/figures/apho-2005-t-q3-fig01.png)
 Figure 3.1. Reflection of light by a relativistically moving mirror
 
 ## THEORETICAL COMPETITION
@@ -48,7 +48,7 @@ $$
 
 Derive this formula using Equation (1) without Lorentz transformation!
 
-![](apho-2005-t-q3-fig02.png)
+![](../../figures/apho/figures/apho-2005-t-q3-fig02.png)
 Figure 3.2. Einstein mirror moving to the left with a velocity $v$.
 
 ## 3B. Frequency Shift (2 points)
@@ -59,7 +59,7 @@ In the same situation as in 3A, if the incident light is a monochromatic beam hi
 
 ## 3C. Moving Mirror Equation (5.5 Points)
 
-![](apho-2005-t-q3-fig03.png)
+![](../../figures/apho/figures/apho-2005-t-q3-fig03.png)
 Figure 3.3 shows the positions of the mirror at time $t_{0}$ and $t$. Since the observer is moving to the left, the mirror moves relatively to the right. Light beam 1 falls on point $a$ at $t_{0}$ and is reflected as beam $1^{\prime}$. Light beam 2 falls on point $d$ at $t$ and is reflected as beam 2'. Therefore, $\overline{a b}$ is the wave front of the incoming light at time $t_{0}$. The atoms at point are disturbed by the incident wave front $\overline{a b}$ and begin to radiate a wavelet. The disturbance due to the wave front $\overline{a b}$ stops at time $t$ when the wavefront strikes point $d$. The semicircle in the figure represents wave-front of the wavelet at time $t$.
 
 By referring to figure 3.3 for light wave propagation or using other methods, derive equation (1).

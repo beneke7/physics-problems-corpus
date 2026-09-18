@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-At the Olympic games in 1984 the British Daley Thompson won the decathlon gold medal. (See here .) (He also won the gold medal in 1980.) His results were the following: 10.45 seconds in 100 metres and 5 m in pole vault. In which case did he have more mechanical energy? 
+At the Olympic games in 1984 the British Daley Thompson won the decathlon gold medal. (See here .) (He also won the gold medal in 1980.) His results were the following: 10.45 seconds in 100 metres and 5 m in pole vault. In which case did he have more mechanical energy?
  (4 pont)

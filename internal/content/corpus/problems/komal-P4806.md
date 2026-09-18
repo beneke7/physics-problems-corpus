@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201602"
 verification_status: pending
 ---
 
-A small piece of stone is thrown up vertically, which arrives back in 1.6 second. Find the maximal height of the stone and its initial velocity. 
+A small piece of stone is thrown up vertically, which arrives back in 1.6 second. Find the maximal height of the stone and its initial velocity.
  (3 pont)

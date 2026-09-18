@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-Two trains are travelling along two parallel tracks. The speed of one of them is 80 km/h. The distance between them is 4.8 km, and after a quarter of an hour the distance between them is the same. What is the speed of the other train if both trains have the same length of 200 m? 
+Two trains are travelling along two parallel tracks. The speed of one of them is 80 km/h. The distance between them is 4.8 km, and after a quarter of an hour the distance between them is the same. What is the speed of the other train if both trains have the same length of 200 m?
  (3 pont)

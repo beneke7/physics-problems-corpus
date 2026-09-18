@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: flagged
 ---
 
-In which ball game is the ratio of the number of shots which hit the goal posts or the crossbar to the number of all shots is greater: in water polo or in handball? Why? (In both ball games the goal posts are at the same distances, and the goalposts and crossbars in both games have approximately the same thickness.) 
+In which ball game is the ratio of the number of shots which hit the goal posts or the crossbar to the number of all shots is greater: in water polo or in handball? Why? (In both ball games the goal posts are at the same distances, and the goalposts and crossbars in both games have approximately the same thickness.)
  (3 pont)

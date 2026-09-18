@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-The mass of one of the starts of a binary star system is three times as much as that of the other. The two celestial bodies (whose size is much smaller than their distance) orbit in approximately circular orbits around their centre of mass. Which star has greater kinetic energy, with respect to the coordinate system fixed to the centre of mass of the system, and by what factor is it greater than that of the other star? 
+The mass of one of the starts of a binary star system is three times as much as that of the other. The two celestial bodies (whose size is much smaller than their distance) orbit in approximately circular orbits around their centre of mass. Which star has greater kinetic energy, with respect to the coordinate system fixed to the centre of mass of the system, and by what factor is it greater than that of the other star?
  (3 pont)

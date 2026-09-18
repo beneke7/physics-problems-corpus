@@ -29,4 +29,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     adódó hatásokat, valamint a véges amplitúdó miatt fellépő, a P1-ben tárgyalt perióduskorrekciót.
 
                                                         2
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts

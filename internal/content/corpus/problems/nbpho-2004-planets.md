@@ -29,7 +29,7 @@ $G=6.67 \cdot 10^{-11}\ \mathrm{m}^{3}/\mathrm{kg}\cdot\mathrm{s}^{2}$. The depe
 of the angular distance between a planet and the star on time, as seen from the
 other planet, is depicted in the figure.
 
-![figure](../../sources/nbpho/figures/nbpho-2004-planets-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-planets-fig1.png)
 
 **1)** What is the ratio of the radii of the planets $k$? (2 points)
 

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [smart-coordinates, exploit-symmetry]
 ---
 
-The inside of a half cylinder is silver-coated. The radius of the cylinder is R =6 cm. At a distance of h =4 cm from its symmetry axis there is a narrow beam of light. At what point does this beam of light focused? 
+The inside of a half cylinder is silver-coated. The radius of the cylinder is R =6 cm. At a distance of h =4 cm from its symmetry axis there is a narrow beam of light. At what point does this beam of light focused?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4233-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4233-fig1.gif)

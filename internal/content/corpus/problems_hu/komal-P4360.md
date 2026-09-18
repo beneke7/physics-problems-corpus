@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4360. Mit tapasztal a Holdon levő megfigyelő, ha a Föld felszínéről holdfogyatkozást látunk? 
+P. 4360. Mit tapasztal a Holdon levő megfigyelő, ha a Föld felszínéről holdfogyatkozást látunk?
  Hatvani István fizikaverseny, Debrecen

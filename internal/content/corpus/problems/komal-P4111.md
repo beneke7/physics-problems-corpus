@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, choose-reference-frame]
 ---
 
-The wheel of a tractor is moving at a velocity of v . The diameter of the wheel is  D . From any point of the rim of the wheel pieces of mud can flake off. What is the longest time during which a piece of mud may reach the ground? At what position does the piece of mud which falls in the longest time is released from the wheel? 
+The wheel of a tractor is moving at a velocity of v . The diameter of the wheel is  D . From any point of the rim of the wheel pieces of mud can flake off. What is the longest time during which a piece of mud may reach the ground? At what position does the piece of mud which falls in the longest time is released from the wheel?
  (5 pont)

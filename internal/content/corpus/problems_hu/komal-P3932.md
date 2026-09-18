@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3932. Miért létezhetnek a Földön olyan - természetes eredetű - radioaktív izotópok, amelyek felezési ideje sokkal rövidebb, mint a Föld életkora? 
+P. 3932. Miért létezhetnek a Földön olyan - természetes eredetű - radioaktív izotópok, amelyek felezési ideje sokkal rövidebb, mint a Föld életkora?
  Szilárd Leó fizikaverseny, Paks

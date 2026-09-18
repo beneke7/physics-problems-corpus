@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi ábra minden egyes diódáján disszipálódó teljesítményt. A diódák nyitófeszültsége $V_{0}=1.0 \mathrm{~V}$. Feltehetjük, hogy a dióda feszültsége minden előre irányú áram esetén $V_{0}$ marad, $V_{0}$-nál kisebb feszültségnél pedig nem folyik áram a diódán. Az ellenállások és az elektromotoros erő értékeit az ábra adja meg.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr29-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr29-fig1.jpg)

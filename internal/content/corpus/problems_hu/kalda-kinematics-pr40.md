@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy kúp alakú, $h$ magasságú és $r$ sugarú forgó játék sima asztalon halad és gyorsan forog. Mekkora legyen az elmozdulási sebessége $v$, hogy amikor az asztal széléhez ér, ne ütközzön annak?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr40-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr40-fig1.jpg)

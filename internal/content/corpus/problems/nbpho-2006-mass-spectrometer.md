@@ -26,7 +26,7 @@ In the figure below, a simplified scheme of a mass spectrometer is given. It is 
 
 The ions are accelerated using voltage $U$. At first, let us neglect the thermal energy of the ions ($e U \gg k T$, where $e$ is the elementary charge and $k$ is the Boltzmann constant). A narrow beam of accelerated ions enters a region with a magnetic field. For the sake of simplicity, let us assume that the region has a rectangular shape, and the magnetic field is homogeneous inside it. The magnetic field deflects the ions and, depending on their mass, they may hit the detector. Let us assume that those ions which hit the centre of the detector enter and exit the region with magnetic field perpendicularly to its boundary, and the distance between the entry and exit points is $l$ (see figure).
 
-![figure](../../sources/nbpho/figures/nbpho-2006-mass-spectrometer-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-mass-spectrometer-fig1.png)
 
 **1)** Express the mass $M$ of those ions which hit the centre of the detector via the quantities $B$, $l$, $U$ and $e$.
 

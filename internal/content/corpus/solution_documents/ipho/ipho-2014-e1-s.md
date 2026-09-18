@@ -52,7 +52,9 @@ electric field, which means it turns perpendicular to the cell plane.
 1.4.2 The voltage at which suach a sharp transition in orientation of
 molecules of the liquid crystal occurs is approximately equal to
                             𝑈𝑐𝑟 = 2 V.
-                    Experimental competition. Thursday, 17 July 2014                                  2/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                  2/13
                                              Part 2. Measure!
                               Section 2.1. Investigating a photodiode
 2.1.1 In the figure below a position for a circuit switch is shown. During measurements of the resistance, the
@@ -89,7 +91,9 @@ resistance. Those data are plotted in the corresponding graph.
 
         Note that the optimal resistance should be within the range 5-15 𝑘𝑂ℎ𝑚, which corresponds to the
 largest variation in the voltage.
-                    Experimental competition. Thursday, 17 July 2014                                     3/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                     3/13
 
 
 
@@ -119,7 +123,9 @@ law:
 plot ln 𝑈 as a function of 𝑛:
                                                  ln 𝑈𝑛 = ln 𝑈0 + 𝑛 ln 𝛾.                                       (3)
  That plot is shown in the following figure.
-                   Experimental competition. Thursday, 17 July 2014                               4/13
+
+
+                   Experimental competition. Thursday, 17 July 2014                               4/13
 
 
 
@@ -134,7 +140,9 @@ with an error, which can be calculated by applying the following formula ∆𝛾
 we obtain
                                               𝛾 = 0.59 ± 0.02.
 Note that values for 𝑅 = 10 𝑘𝑂ℎ𝑚 produce the following result: 𝛾 = 0.59 ± 0.02.
-                   Experimental competition. Thursday, 17 July 2014                             5/13
+
+
+                   Experimental competition. Thursday, 17 July 2014                             5/13
                       Часть 2.2 Light transition through a plastic ruler
 2.2.1 Results of measurements of the light intensity as a function of coordinates of transmission points
 through ruler #1, #2 and both rulers, are shown in table 3 and in the graph below.
@@ -161,7 +169,9 @@ through ruler #1, #2 and both rulers, are shown in table 3 and in the graph belo
           90        140      2,419      90       144     2,498       90       3       11,4
           95        131      2,262      95       146     2,541       95       6       20,1
           100       113      1,996     100       145     2,519      100       11      29,0
-                    Experimental competition. Thursday, 17 July 2014                                     6/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                     6/13
 2.2.2 To calculate a phase shift, we use equation (1), mentioned in the problems formulation, which can be
 represented as
                                                          ∆𝜑
@@ -195,7 +205,9 @@ that the phase shifts are calculated with uncertainty of ±2𝜋𝑘.
 2.2.3 Obtained functions are close to linear, using MLS we get
                                                 ∆𝜑1 = 0.059𝑥 − 0.94,
                                                 ∆𝜑2 = 0.028𝑥 + 0.52.
-                    Experimental competition. Thursday, 17 July 2014                                   7/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                   7/13
                Graphs of those functions are shown below.
 
 
@@ -213,7 +225,9 @@ experimental data.
 
        Results of the calculations are shown in table 3 and in the graph above. Consistency of theoretical
 calculations and experimental data can clearly be seen.
-                       Experimental competition. Thursday, 17 July 2014                                                8/13
+
+
+                       Experimental competition. Thursday, 17 July 2014                                                8/13
                                             Part 2.3 Liquid crystal cell
                                    2.3.2 Light transmission through LCC
 2.3.1 Results of the intensity measurements as a functions of voltage 𝑈𝐿𝐶 are shown in table 51. Graph of the
@@ -269,7 +283,9 @@ obtained function is drawn in the figure below.
 1
  We do not expect that participants can take the same number of measurements, 15-20 points are enough. It is principally
 important to find the dip in the graph.
-                    Experimental competition. Thursday, 17 July 2014                                    9/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                    9/13
                            3,83       70       1,008      1,008     1,343     0,008
                            3,91       65       0,968      0,968     1,364     -0,032
                            4,03       58       0,911      0,911     1,394     -0,094
@@ -290,7 +306,9 @@ important to find the dip in the graph.
         It is important to choose correct roots of equation (2) in order to adequately calculate phase shifts. In
 this case it is rather obvious because at large values of 𝑈𝐿𝐶 the voltage difference tends to zero, ∆𝜑 → 0.
 Other solutions and corresponding equations are shown in the figure below.
-                   Experimental competition. Thursday, 17 July 2014                                  10/13
+
+
+                   Experimental competition. Thursday, 17 July 2014                                  10/13
 
 
 
@@ -313,7 +331,9 @@ voltage is ∆𝜑0 ≈ 10.6.
 2.3.3 In order to check applicability of the
 power     function    ∆𝜑 = 𝐶𝑈𝛽       it    is
 recommended to redraw the last graph logarithmically, as shown in the figure below.
-                    Experimental competition. Thursday, 17 July 2014                                    11/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                                    11/13
 
 
 
@@ -321,7 +341,9 @@ recommended to redraw the last graph logarithmically, as shown in the figure bel
         It can be seen from the graph that in the range of 1 V to 5 V the function is almost linear, which
 justifies the applicability of the power law. The power in that equation is equal to the slope of the graph, its
 numerical value is 𝛽 ≈ 1.75.
-                   Experimental competition. Thursday, 17 July 2014                                 12/13
+
+
+                   Experimental competition. Thursday, 17 July 2014                                 12/13
                          Section 2.4 Light transmission through a curved strip
 2.4.1 Results of the measurements of the light intensity as a function of coordinate z of the point of light
 penetration into the strip are presented in table 6 and plotted below.
@@ -368,7 +390,9 @@ penetration into the strip are presented in table 6 and plotted below.
                                78         1       0,194     6,090       16
                                79         1       0,194     6,090       17
                                80         2       0,274     6,009       18
-                    Experimental competition. Thursday, 17 July 2014                             13/13
+
+
+                    Experimental competition. Thursday, 17 July 2014                             13/13
 
 
 

@@ -164,11 +164,11 @@ which is the same result found in part (a), to first order.
 For large α, the right-hand side is large, so the tangent must be large. The lowest frequency mode
 has αω ≈ π/2. In this case it’s also useful to look at all the modes, which have αω ≈ (n+1/2)π, so
 ω ≈
-
+
 n +
 1
 2
-
+
 π
 p
 k/m.
@@ -178,11 +178,11 @@ one fixed and one free end! The lowest frequency is the fundamental.
 Jumping ahead a bit, we can compare this with some results from W1. The wavenumbers for
 these boundary conditions are
 kn =
-
+
 n +
 1
 2
-
+
 π
 13
 Kevin Zhou Physics Olympiad Handouts
@@ -233,8 +233,8 @@ dx
 ℓ4 − x4
 .
 This integral has units of inverse length, so we must have T ∝ 1/ℓ, so the final answer is T/2.
-[3] Problem 14.  W 1 0USAPhO 2015, problem A3.
-[3] Problem 15.  m 1 0USAPhO 2008, problem B1.
+[3] Problem 14.   W 1 0USAPhO 2015, problem A3.
+[3] Problem 15.   m 1 0USAPhO 2008, problem B1.
 Example 6
 About how accurately can you measure g with a simple pendulum?
 Solution

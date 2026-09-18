@@ -11,4 +11,4 @@ provenance_note: "KöMaL official solution (Hungarian)"
 **Megoldás.**
  Ha az embernek egyszerű nagyítóra van szüksége, akkor ez is megteszi. A dupla szemüveg hasonlít ahhoz, amikor egy órás vagy egy ékszerész a képen látható módon nagyítót használ. Ezzel az ember lényegében a közelpontját csökkenti le, akkor is élesen látunk, ha a tárgy nagyon közel van.
 
-![solution figure](../../raw_html/komal_figures/komal-G924-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G924-sol-fig1.gif)

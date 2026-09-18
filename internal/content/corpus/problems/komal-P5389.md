@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, differential-element, model-reduction]
 ---
 
-A (point-like) fly flies at a constant speed of $v$ parallel to the principal axis of a lens, having a focal length of $f$, at a distance of $d$ from it. What is the least speed of the fly with respect to its image? 
+A (point-like) fly flies at a constant speed of $v$ parallel to the principal axis of a lens, having a focal length of $f$, at a distance of $d$ from it. What is the least speed of the fly with respect to its image?
  (5 pont)

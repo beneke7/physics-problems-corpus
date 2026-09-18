@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-How long does it take the James Webb space telescope to orbit the Sun once? 
+How long does it take the James Webb space telescope to orbit the Sun once?
  (3 pont)

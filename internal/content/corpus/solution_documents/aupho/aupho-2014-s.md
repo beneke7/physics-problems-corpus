@@ -46,7 +46,9 @@ MARKS
                                        Page 1 of 20
              2014 Physics Australian Science Olympiads Examination Solutions
                 c Australian Science Innovations 2014 ABN 81731558309
-                              SECTION A: MULTIPLE CHOICE
+
+
+                              SECTION A: MULTIPLE CHOICE
                             USE THE ANSWER SHEET PROVIDED
 
 
@@ -93,7 +95,9 @@ Throughout, take the acceleration due to gravity to be 9.8 m s−2 .
                                                 Page 2 of 20
                           2014 Physics Australian Science Olympiads Examination
                          c Australian Science Innovations 2014 ABN 81731558309
-Question 4
+
+
+Question 4
 A large truck breaks down on the freeway and receives a push to the nearest exit by a small car as shown
 below.
 
@@ -122,7 +126,9 @@ Solution: a. The two forces are an action reaction pair.
                                            Page 3 of 20
                      2014 Physics Australian Science Olympiads Examination
                     c Australian Science Innovations 2014 ABN 81731558309
-Question 5
+
+
+Question 5
 An elevator is being lifted up an elevator shaft at a constant speed by a steel cable as shown in the figure
 below. All frictional effects are negligible. In this situation, the forces on the elevator are such that:
 
@@ -154,7 +160,9 @@ magnitude.
                                            Page 4 of 20
                      2014 Physics Australian Science Olympiads Examination
                     c Australian Science Innovations 2014 ABN 81731558309
-Question 6
+
+
+Question 6
 A donkey pulls a wooden box along rough flat ground at a constant speed by means of a force ~P
 (magnitude P) as shown. In the diagram, f is the magnitude of the frictional force, N is the magnitude of
 the normal force, and Fg is the magnitude of the force of gravity. Which of the following options must be
@@ -193,7 +201,9 @@ still zero. This decrease in N results in a proportional decrease in the frictio
                                            Page 5 of 20
                      2014 Physics Australian Science Olympiads Examination
                     c Australian Science Innovations 2014 ABN 81731558309
-Question 8
+
+
+Question 8
 The positions of two runners, Helen and Con, are shown below. The runners are shown at successive
 0.20 second intervals, and they are moving towards the right.
 
@@ -242,7 +252,9 @@ accelerations which are greater than zero.
                                               Page 6 of 20
                         2014 Physics Australian Science Olympiads Examination
                        c Australian Science Innovations 2014 ABN 81731558309
-Question 10
+
+
+Question 10
  Which of the following is the best estimate of the volume of an orange.
 
     a. 3 × 10−5 m3
@@ -260,7 +272,9 @@ accelerations which are greater than zero.
                                             Page 7 of 20
                       2014 Physics Australian Science Olympiads Examination
                      c Australian Science Innovations 2014 ABN 81731558309
-                      SECTION B: WRITTEN ANSWER QUESTIONS
+
+
+                      SECTION B: WRITTEN ANSWER QUESTIONS
                         USE THE ANSWER BOOKLET PROVIDED
 Note: Suggested times are given for section B as a general guide only. You may take more or less time on any
 question – everyone is different.
@@ -310,7 +324,9 @@ question – everyone is different.
                                                  Page 8 of 20
                            2014 Physics Australian Science Olympiads Examination
                           c Australian Science Innovations 2014 ABN 81731558309
-The formula above is then used to evaluate the temperatures required to fill in the table below.
+
+
+The formula above is then used to evaluate the temperatures required to fill in the table below.
  Time after pouring    Initial Ttea   Temperature change in 30 s   Final Ttea
                            ◦                     ◦                     ◦
                           ( C)                  ( C)                  ( C)
@@ -331,7 +347,9 @@ question – everyone is different.
                                       Page 9 of 20
                 2014 Physics Australian Science Olympiads Examination
                c Australian Science Innovations 2014 ABN 81731558309
-   By fitting a curve through the data points and then reading the time at which the temperature of
+
+
+   By fitting a curve through the data points and then reading the time at which the temperature of
    the tea reaches 55 ◦ C it is found that it takes around 4 min 20 s to cool to 55 ◦ C.
 c) Maria decides to reheat her tea from 55 ◦ C to 70◦ C with a small 1.1 kW heater she places into the
    tea. How long will it take the tea to reach 70◦ C? You may neglect the heat flow out of the tea.
@@ -344,7 +362,9 @@ c) Maria decides to reheat her tea from 55 ◦ C to 70◦ C with a small 1.1 kW 
                                        Page 10 of 20
                   2014 Physics Australian Science Olympiads Examination
                  c Australian Science Innovations 2014 ABN 81731558309
-  d) Estimate the size of the error in your answer to part (c) due to neglecting heat flow out of the tea.
+
+
+  d) Estimate the size of the error in your answer to part (c) due to neglecting heat flow out of the tea.
      Use your estimate to comment on whether your answer to part (c) is reasonable.
      Solution: Over 30 s when the tea is at a temperature of 70◦ C it cools by around 4◦ C which is
      around a quarter of the 15◦ C increase which is desired. This suggests that the heating may take
@@ -367,7 +387,9 @@ Marker’s comments:
                                          Page 11 of 20
                     2014 Physics Australian Science Olympiads Examination
                    c Australian Science Innovations 2014 ABN 81731558309
-Question 12
+
+
+Question 12
  Suggested Time: 30 min
 A block of mass m sits against an unextended spring with spring constant k1 on a frictionless surface as
 shown below. A short distance beyond the mass, there is a vertical cliff of height h that drops off to a
@@ -422,7 +444,9 @@ The block is pushed against the spring with displacement x1 and then released at
                                            Page 12 of 20
                       2014 Physics Australian Science Olympiads Examination
                      c Australian Science Innovations 2014 ABN 81731558309
-   Solution:
+
+
+   Solution:
 
             Elastic
    E      potential
@@ -472,7 +496,9 @@ c) A section of the rough ground a distance d from the cliff is made smooth (fri
                                        Page 13 of 20
                   2014 Physics Australian Science Olympiads Examination
                  c Australian Science Innovations 2014 ABN 81731558309
-           For the compression of the second spring to be maximum the range of the block must land a
+
+
+           For the compression of the second spring to be maximum the range of the block must land a
            distance d from the end of the cliff. Hence,
 
                                                     vx t = d
@@ -485,7 +511,7 @@ c) A section of the rough ground a distance d from the cliff is made smooth (fri
                                             1 2             1 2
                                              k2 x  =          mv
                                             2 2max          2 x
-                                                                 2
+                                                                   2
                                                             1     d
                                                         =     m
                                                             2      t
@@ -517,7 +543,9 @@ Marker’s comments:
                                         Page 14 of 20
                    2014 Physics Australian Science Olympiads Examination
                   c Australian Science Innovations 2014 ABN 81731558309
-Question 13
+
+
+Question 13
  Suggested Time: 18 min
 A lolly factory produces shiny delicious spherical chocolates of radius r. It packs the chocolates in
 layers arranged as shown in Figure 1; each layer is stacked directly on top of the one below.
@@ -563,7 +591,9 @@ chocolates per second and the level in of chocolates in the top of the funnel is
                                           Page 15 of 20
                      2014 Physics Australian Science Olympiads Examination
                     c Australian Science Innovations 2014 ABN 81731558309
-  c)    (i) How many bags of 30 can be filled per minute
+
+
+  c)    (i) How many bags of 30 can be filled per minute
             through each funnel?
             Solution: As the level in the top of the funnel is
             steady the number of chocolates going in the top must
@@ -585,7 +615,7 @@ chocolates per second and the level in of chocolates in the top of the funnel is
 
        Solution: In the top part of the funnel the chocolates will be randomly arranged. This means that
        the 5 chocolates that are added per second occupy a volume of V = 5f 34 π r3 . This volume is
-                                                                                       
+
 
        spread over a cylinder of cross-sectional area of π R2 . The height of the cylinder is the average
        distance travelled per second.
@@ -610,7 +640,9 @@ mistakes made by students included
                                           Page 16 of 20
                      2014 Physics Australian Science Olympiads Examination
                     c Australian Science Innovations 2014 ABN 81731558309
-Question 14
+
+
+Question 14
  Suggested Time: 18 min
 Astrophysical systems such as galaxies (which contain large numbers of stars) are generally very far
 from the Earth and solar system, and are moving away from us with some relative velocity v. Individual
@@ -668,7 +700,9 @@ observed in objects’ spectra.
                                             Page 17 of 20
                        2014 Physics Australian Science Olympiads Examination
                       c Australian Science Innovations 2014 ABN 81731558309
-                                                       7
+
+
+                                                       7
 
 
 
@@ -732,7 +766,9 @@ broad-line region is σBLR .
                                            Page 18 of 20
                       2014 Physics Australian Science Olympiads Examination
                      c Australian Science Innovations 2014 ABN 81731558309
-            virial theorem. You may assume that supermassive black holes are so massive that they
+
+
+            virial theorem. You may assume that supermassive black holes are so massive that they
             account for most of the mass in the centre of a galaxy.
             Solution: Substituting the expression for RBLR into the answer to part (a) gives
 
@@ -755,7 +791,9 @@ Marker’s comments:
                                          Page 19 of 20
                     2014 Physics Australian Science Olympiads Examination
                    c Australian Science Innovations 2014 ABN 81731558309
-                               Integrity of Competition
+
+
+                               Integrity of Competition
 
 If there is evidence of collusion or other academic dishonesty, students will be
 disqualified. Markers’ decisions are final.

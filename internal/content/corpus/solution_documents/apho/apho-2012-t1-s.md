@@ -75,7 +75,8 @@ B
             µ0 3pa v(z0 z)
      ei =
           2[a2 + (z0 z)2 ]5/2
-                            th
+
+                            th
 
 
 
@@ -130,7 +131,8 @@ ei = L      + iR
                          Z 1           Z 1
                    F =         fem =         Ba02 (2⇡a)w dz 0 .ż
                            1             1
-                              th
+
+                              th
 
 
 

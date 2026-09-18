@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4777. Egy radarállomáson, amely 20,0 cm-es hullámhosszon bocsát ki elektromágneses impulzusokat, 2778 Hz-es különbséget észlelnek a kibocsátott és a visszavert jel frekvenciája között. Mekkora sebességgel közeledett az a repülőgép, amelyről a visszaverődés történt? 
+P. 4777. Egy radarállomáson, amely 20,0 cm-es hullámhosszon bocsát ki elektromágneses impulzusokat, 2778 Hz-es különbséget észlelnek a kibocsátott és a visszavert jel frekvenciája között. Mekkora sebességgel közeledett az a repülőgép, amelyről a visszaverődés történt?
  Példatári feladat nyomán

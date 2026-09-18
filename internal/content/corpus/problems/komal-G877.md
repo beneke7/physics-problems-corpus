@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-The size of a car tyre is 205/55 R16. When new, the groove depth on the tread area is 8 mm, but after a few years of use it will be halved. Will the reading on the speedometer be higher or lower due to the wear of tyres? Estimate the percentage difference. 
+The size of a car tyre is 205/55 R16. When new, the groove depth on the tread area is 8 mm, but after a few years of use it will be halved. Will the reading on the speedometer be higher or lower due to the wear of tyres? Estimate the percentage difference.
  (3 pont)

@@ -25,7 +25,7 @@ techniques: [choose-reference-frame, conservation-laws]
 
 The motion of a bow puts a violin string into a periodic motion. Let us make a simplified model of this process. The string has elasticity and inertia, so we substitute it by a block of mass $m$, fixed via a spring of stiffness $k$ to a motionless wall and laying on a frictionless horizontal surface. The bow is substituted by a horizontal plate, which is pressed with constant force $N$ downwards, and which moves with a constant velocity $u$, parallel to the axis of the spring, see Figure. The static coefficient of friction between the plate and the block is $\mu_1$, and the kinetic coefficient of friction is $\mu_2 < \mu_1$. So, as long as the plate does not slide with respect to the block, the coefficient of friction equals to $\mu_1$; as soon as there is some slip, it decreases down to $\mu_2$.
 
-![figure](../../sources/nbpho/figures/nbpho-2011-fig3.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2011-fig3.jpg)
 
 **i) (2 pts)** For questions (i) and (ii), let us assume that the speed of the plate $u$ is very small as compared to the maximal velocity of the block. What is the maximal velocity of the block $v_{\max}$ (maximized over time)?
 

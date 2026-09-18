@@ -19,4 +19,4 @@ verification_status: pending
 
 In the figure, $R_{1} / R_{2}=4$. If we add a lamp as shown if figure, current through $R_{1}$ will increase by $\Delta I=0.1 \mathrm{~A}$. Find the current through the lamp.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr2-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr2-fig1.jpg)

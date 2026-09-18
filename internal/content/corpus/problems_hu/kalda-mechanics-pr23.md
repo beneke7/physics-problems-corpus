@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy homogén, $m$ tömegű és $l$ hosszú rudat négy azonos, könnyű huzal tart. A huzalokat egymástól $\frac{l}{3}$ távolságra erősítettük a rúdhoz; a huzalok függőlegesek, a rúd pedig vízszintes. Kezdetben mindegyik huzal feszítőereje azonos, $T_{0}=m g / 4$. Határozzuk meg a feszítőerőket, miután a két szélső huzal egyikét elvágtuk.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr23-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr23-fig1.jpg)

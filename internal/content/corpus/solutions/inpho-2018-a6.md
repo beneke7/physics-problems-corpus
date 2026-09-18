@@ -18,11 +18,11 @@ der Waals equation
 P +
 an2
 V 2
-!
+!
 V
 n
 − b
-
+
 = RT
 where a and b are positive constants. We take one mole of the gas (n = 1). You must bear in
 mind that one is often required to make judicious approximations to understand realistic systems.
@@ -35,10 +35,10 @@ Solution:
 β =
 1
 V
-
+
 dV
 dT
-
+
 p
 =
 V − b
@@ -50,10 +50,10 @@ Solution:
 κ = −
 1
 V
-
+
 dV
 dP
-
+
 T
 =
 (V − b)2
@@ -85,10 +85,10 @@ a Van der Waals gas
 i. [4] Obtain the critical constants Pc, Vc and Tc in terms of a, b and R.
 Pc = Vc = Tc =
 Solution: At criticality, the curve is a cubic like function. Hence
-
+
 dP
 dV
-
+
 T
 =
 d2P
@@ -122,7 +122,7 @@ d = 1.0 × 10−10
 m to 6.0 × 10−10
 m
 (c) The gas phase:
-For the gaseous phase the volume VG 
+For the gaseous phase the volume VG
  b. Let the pressure PLG = P0, the saturated vapour
 pressure.
 i. [11 / 2] Obtain the expression for VG in terms of R, T, P0 and a.
@@ -134,11 +134,11 @@ VG =
 RT
 2P0
 1 ±
-
+
 1 −
 4aP0
 R2T2
-1/2
+ 1/2
 !
 Taking positive sign since in the ideal gas limit a −→ 0, VI = RT
 P0
@@ -172,12 +172,12 @@ VI
 to − 7.00 × 10−3
 Comment 2: Answer is negative, indicating attractive intermolecular forces.
 (d) The liquid phase:
-For the liquid phase P 
+For the liquid phase P
  a/V 2
 L.
 i. [11 / 2] Obtain the expression for VL.
 VL =
-Solution: In this phase P 
+Solution: In this phase P
  a
 V 2
 L
@@ -210,11 +210,11 @@ a
 
 
 ≃ b
-
+
 1 +
 bRT
 a
-
+
 ii. [11 / 2] Obtain the density of water (ρw). You may take the molar mass to be 1.80 × 10−2
 kg·mole−1.
 ρw =

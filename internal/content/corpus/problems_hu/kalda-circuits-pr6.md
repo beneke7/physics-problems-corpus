@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható módon két azonos voltmérőt és két ampermérőt kapcsolunk egy telepre. A műszerek kijelzései a következők: az $A_{1}$ ampermérőn $I_{1}=200 \mu \mathrm{~A}$, a $V_{1}$ voltmérőn $100 \mathrm{~V}$, a $V_{2}$ voltmérőn pedig $2 \mathrm{~V}$. Mekkora az $A_{2}$ ampermérő kijelzése? Becsüljük meg, mennyire reálisak az ezekből az adatokból meghatározható belső ellenállások; ha valami szokatlan adódik, megoldható-e a probléma az áramkör megváltoztatásával úgy, hogy a megoldás változatlan maradjon?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr6-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr6-fig1.jpg)

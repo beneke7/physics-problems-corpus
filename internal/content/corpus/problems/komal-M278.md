@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200704"
 verification_status: pending
 ---
 
-Examine experimentally when will the pendulum stop sooner if there is a smaller or a greater bob at the end of the thread? Does the time while the bob stop depend on the material of the bob? 
+Examine experimentally when will the pendulum stop sooner if there is a smaller or a greater bob at the end of the thread? Does the time while the bob stop depend on the material of the bob?
  (6 pont)

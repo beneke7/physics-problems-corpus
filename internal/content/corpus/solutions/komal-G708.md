@@ -9,7 +9,7 @@ provenance_note: "KöMaL official solution (Hungarian)"
 ---
 
 **Megoldás.**
- A fénysugarak megfordíthatósága miatt ha A látja B-t, akkor B is láthatja A-t. 
+ A fénysugarak megfordíthatósága miatt ha A látja B-t, akkor B is láthatja A-t.
  Többféle megoldás is adható, az egyiket az alábbi ábra mutatja:
 
-![solution figure](../../raw_html/komal_figures/komal-G708-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G708-sol-fig1.gif)

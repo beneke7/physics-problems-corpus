@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201109"
 verification_status: pending
 ---
 
-10 cm from a tap the diameter of the narrow water stream, flowing from the tap, is 2 mm. How long does it take to fill a half-litre mug? 
+10 cm from a tap the diameter of the narrow water stream, flowing from the tap, is 2 mm. How long does it take to fill a half-litre mug?
  (4 pont)

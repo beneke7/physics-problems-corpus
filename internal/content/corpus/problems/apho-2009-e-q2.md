@@ -25,10 +25,10 @@ verification_status: pending
 
 The student is required to perform non-destructive measurements in order to determine the thickness $t$ of an aluminium vessel whose cavity is completely filled with water. The aluminium vessel is composed of a cylinder and two end plates. The cylinder is of length $L$ and outer radius $R$. The total length of the vessel is $h$. The thickness of both end plates is 0.60 cm (see Figure 1). You can neglect the error of this thickness. In this problem, please use gramme and centimetre as units for mass and length, respectively.
 
-![](apho-2009-e-q2-fig01.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig01.png)
 Figure 1
 
-![](apho-2009-e-q2-fig02.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig02.png)
 Figure 2
 
 Figure 2 shows the so-called bifilar suspension of mass $M$. The two strings are each of equal length $\ell$. The period $T$ of a small-amplitude oscillation of $M$ is
@@ -54,7 +54,7 @@ Each student is provided with:
 7. masking tapes
 8. a knife (not shown in the figure below)
 
-![](apho-2009-e-q2-fig03.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig03.png)
 
 ## Section I
 
@@ -71,15 +71,15 @@ Then perform measurements of $R, h, L$. By substituting the values, derive expre
 
 ## Hint:
 
-![](apho-2009-e-q2-fig04.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig04.png)
 Figure 3
 
 ## Section II
 
-![](apho-2009-e-q2-fig05.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig05.png)
 Figure 4
 
-![](apho-2009-e-q2-fig06.png)
+![](../../figures/apho/figures/apho-2009-e-q2-fig06.png)
 Figure 5
 
 a) Angular oscillation about the axis of symmetry

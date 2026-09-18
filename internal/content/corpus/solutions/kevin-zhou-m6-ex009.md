@@ -48,13 +48,13 @@ The 2 arises because in general relativity, for objects that don’t get too clo
 ∆θ ≈
 2GM
 R
-
+
 1
 v2
 +
 1
 c2
-
+
 .
 Roughly speaking, the first term comes from “temporal” curvature, and simply recovers the
 Newtonian result. The second term is due to “spatial” curvature, which leads to an “angular
@@ -91,16 +91,16 @@ general relativity passes every test, and deviations from it must be extremely s
 Idea 8
 Consider an inertial frame and a rotating frame with angular velocity ω. For any vector V,
 the time derivatives of V in these two frames are related by
-
+
 dV
 dt
-
+
 in
 =
-
+
 dV
 dt
-
+
 rot
 + ω × V.
 For example, when V is the position r, we have the familiar result

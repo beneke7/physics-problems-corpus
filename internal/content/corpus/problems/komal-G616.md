@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-The radius of a thin-walled, negligible-mass gymnastic ball is 30 cm, the pressure of the enclosed air is $1.1\cdot10^5$ Pa, and the ambient air pressure is $1.0\cdot10^5$ Pa. How much does the volume of the ball decrease when a 50 kg person sits upon it with her total weight, if in this case the ball touches the ground along a circle of radius 10 cm? The temperature of the air is constant. 
+The radius of a thin-walled, negligible-mass gymnastic ball is 30 cm, the pressure of the enclosed air is $1.1\cdot10^5$ Pa, and the ambient air pressure is $1.0\cdot10^5$ Pa. How much does the volume of the ball decrease when a 50 kg person sits upon it with her total weight, if in this case the ball touches the ground along a circle of radius 10 cm? The temperature of the air is constant.
  (4 pont)

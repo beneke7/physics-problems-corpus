@@ -36,7 +36,6 @@ A p′ szerinti integrált kiértékelve, valamint az ⟨q|p⟩ = eipq/ℏ / 2π
                                       Z=        dq dp e−βH(p,q)
                                            h
 klasszikus határátmenetben. Általában az e−βH fázistérbeli integráljai adódnak, ahol h a fázistérfogat egysége. h értéke nem befolyásolja a klasszikus számításunkat, mivel csak egy multiplikatív konstanssal változtatja Z-t.
-71 3. Statisztikus mechanika
 
 
 Ezután visszakapjuk a klasszikus ideális gáz tulajdonságait.
@@ -56,14 +55,14 @@ Ezután visszakapjuk a klasszikus ideális gáz tulajdonságait.
     Az N ! tényezőt Gibbs-korrekciónak nevezzük. Ezt az azonos részecskék konfigurációinak túlszámlálása elkerülése érdekében kell beiktatni; nélküle az entrópia nem lenne kiterjedt. A Gibbs-korrekció kiváló tárgyalása, amely az entrópia fogalmi kérdéseit is érinti, a The Gibbs Paradox című írásban található.
 
  • Az ideális gáz entrópiája:
-                                                                     
+
                               ∂F    ∂                          V    5
                           S=−    =    (kB T log Z) = N kB log     +
                               ∂T   ∂T                         N λ3 2
     ahol Stirling-közelítést használtunk, és elhagytuk a szubextenzív tagokat. Ez a Sackur–Tetrode-egyenlet. Bár az entrópia explicit módon függ h-tól, h értéke nem mérhető, mivel klasszikusan csak entrópiakülönbségek mérhetők. Ezt felhasználva visszakaphatjuk az ideális gáz törvényét és a belső energiát, amelyekre az ekvipartíció teljesül.
 
  • A nagykanonikus sokaságban
-                                                               βµ 
+                                                                βµ
                                         X
                                             βµN                e V
                                    Z=       e     Z(N ) = exp        .

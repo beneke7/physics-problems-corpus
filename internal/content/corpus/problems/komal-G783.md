@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-There is a point-like light source at the centre of a uniform glass ball of radius $R$ and of refractive index $n$. The sphere is observed from the outside. Where do we see the image of the light source? 
+There is a point-like light source at the centre of a uniform glass ball of radius $R$ and of refractive index $n$. The sphere is observed from the outside. Where do we see the image of the light source?
  (3 pont)

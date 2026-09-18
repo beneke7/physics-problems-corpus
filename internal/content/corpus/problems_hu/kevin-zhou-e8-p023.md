@@ -60,5 +60,5 @@ A legtöbb közönséges anyagban µ ≈ µ0 , míg ϵ a frekvenciától függ. 
     befolyásolja a fázissebességet. Ennek jó magyarázata
 
 
-                     01h
+                     01h
     a Feynman-előadások I.31. fejezetében található.

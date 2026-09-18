@@ -54,7 +54,8 @@ frequency. We note that VS could vary due changing load impedance. The data is s
 
 
                                                       1
-SOLUTION
+
+SOLUTION
 
 
 
@@ -75,7 +76,8 @@ frequency. We note that VS could vary due changing load impedance. The data is s
 
 
                                                   2
-SOLUTION
+
+SOLUTION
 
 
 The results are shown in Table 2. The resonance frequency is given as:    1 / LC , thus
@@ -117,7 +119,8 @@ We perform RLC experiments for C = 470 F and 1000 F:
 
 
                                                                3
-SOLUTION
+
+SOLUTION
 
 
 
@@ -144,7 +147,8 @@ resonance is poor. We obtain RL as a “bonus” from the analysis as it comes f
 
 
                                                     4
-SOLUTION
+
+SOLUTION
 
 Measurement of RL directly with the multimeter for verification is also acceptable, we obtain:
 R L  (0 .47  0.03)  .
@@ -184,7 +188,8 @@ The self inductance contribution is negligible since the second coil is connecte
 
 
                                                    5
-SOLUTION
+
+SOLUTION
 
 
 
@@ -224,7 +229,8 @@ where c0 is a constant that we ignore. We can determine the skin depth at a freq
 
 
                                                          6
-SOLUTION
+
+SOLUTION
 
 where b1 is the slope of ln(V2) vs. N data.
 
@@ -265,7 +271,8 @@ that at minimum 5 frequencies. The results are shown below.
 
 
                                                           7
-SOLUTION
+
+SOLUTION
 
                               (a)                                                       (b)
          Table 6. Skin depth experiment for Al: (a) Raw data, (b) Power factor n and  analysis.
@@ -289,7 +296,8 @@ that at minimum 5 frequencies. The results are shown below.
 
 
                                                     8
-SOLUTION
+
+SOLUTION
 
 
 
@@ -313,7 +321,8 @@ that at minimum 5 frequencies. The results are shown below.
 
 
                                                    9
-SOLUTION
+
+SOLUTION
 
 
 
@@ -339,7 +348,8 @@ penetrate the metal and the fringing field around the metal becomes dominant thu
 
 
                                                     10
-SOLUTION
+
+SOLUTION
 
 measurement becomes anomalous. Thus SS410 is the metal with “extreme skin depth” and is
 excluded in the subsequent analysis.
@@ -388,7 +398,8 @@ material because it is non-contact.
 
 
                                                      11
-SOLUTION
+
+SOLUTION
 
 
 
@@ -435,7 +446,8 @@ surface area of the metal i.e. A  2 WL , where W and L is the width and the l
 
 
                                                       12
-SOLUTION
+
+SOLUTION
 
 the metal thickness. We perform linear regression: y = a + b x, with x is dT/dt and y is T 4 and we can
 ignore the effect of T0.
@@ -474,7 +486,8 @@ marks t = 0 s and record the NTC resistance as a function of time as the “pan�
 
 
                                                         13
-SOLUTION
+
+SOLUTION
 
 
 
@@ -495,7 +508,8 @@ Note: In this Olympiad problem, the emissivity e value is chosen yield c close t
 
 
                                                    14
-SOLUTION
+
+SOLUTION
 
 
 
@@ -544,7 +558,8 @@ monitor the heating behavior.
 
 
                                                           15
-SOLUTION
+
+SOLUTION
 
 
 
@@ -569,7 +584,8 @@ For calculation convenience, we tabulate all the properties of the Al pan as fol
 
 
                                                     16
-SOLUTION
+
+SOLUTION
 
                         Figure 13. “Effective load resistance” measurement of the aluminum pan.
 We then plot Ptot’ave vs. Irms2 as shown above. The slope directly yields the load resistance RLOAD =
@@ -598,7 +614,8 @@ The properties of the SS410 pan:
 
 
                                                       17
-SOLUTION
+
+SOLUTION
 
                                     Table 14. Properties of the SS410 pan
 
@@ -640,7 +657,8 @@ yield higher load resistance.
 
 
                                                         18
-SOLUTION
+
+SOLUTION
 
 
 

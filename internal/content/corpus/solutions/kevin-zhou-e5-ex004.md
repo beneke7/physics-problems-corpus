@@ -80,8 +80,8 @@ dt
 .
 If we take the small angle approximation, then we recover ordinary damped harmonic oscil-
 lations, as covered in M4.
-[3] Problem 11.  W 1 0USAPhO 2009, problem A1.
-[3] Problem 12.  m 1 0USAPhO 1999, problem B2.
+[3] Problem 11.   W 1 0USAPhO 2009, problem A1.
+[3] Problem 12.   m 1 0USAPhO 1999, problem B2.
 [3] Problem 13 (Purcell). A dynamo is a generator that works as follows: a conductor is driven
 through a magnetic field, inducing an electromotive force in a circuit of which that conductor is
 part. The source of the magnetic field is the current that is caused to flow in that circuit by that
@@ -140,7 +140,7 @@ In reality, the power grid is comprised of many independent generators distribut
 sands of miles. Since they are all connected, they all rotate at roughly the same frequency; any
 slightly slower ones will be sped up by the rest. This massive entity is sometimes called “the world’s
 largest machine”.
-[3] Problem 14.  ^ 1 0USAPhO 2023, problem B1. A nice problem on a particular kind of motor,
+[3] Problem 14.   ^ 1 0USAPhO 2023, problem B1. A nice problem on a particular kind of motor,
 which reviews almost everything covered above in this problem set.
 14
 Kevin Zhou Physics Olympiad Handouts

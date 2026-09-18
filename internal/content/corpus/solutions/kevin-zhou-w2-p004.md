@@ -79,7 +79,7 @@ d
 .
 Note that reflection from a mirror changes the phase by π, but that didn’t matter in this
 problem, because both image sources pick up the same phase.
-[3] Problem 5.  ^ 1 0USAPhO 2020, problem B2. A problem on interference with images.
+[3] Problem 5.   ^ 1 0USAPhO 2020, problem B2. A problem on interference with images.
 2 Thin Film Interference
 Idea 2
 In general, the phase of a wave is unaffected by reflection from a rarer medium, and flipped

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-A collecting lens makes a 6 cm high real image of a 12 cm high object on a screen at a 45 cm distance from the object. Determine the position of the lens and its focal length with plotting and calculation. 
+A collecting lens makes a 6 cm high real image of a 12 cm high object on a screen at a 45 cm distance from the object. Determine the position of the lens and its focal length with plotting and calculation.
 
  (4 pont)

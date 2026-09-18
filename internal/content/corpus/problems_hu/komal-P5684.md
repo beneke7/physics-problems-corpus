@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5684. Egyenletes vastagságú drótból az ábrán látható keretet készítjük el. Számítsuk ki az $A$ és $B$, valamint az $A$ és $C$ pontok közötti eredő ellenállások arányát!
 
-![figure](../../raw_html/komal_figures/komal-P5684-fig1.png)
+![figure](../../figures/komal/figures/komal-P5684-fig1.png)

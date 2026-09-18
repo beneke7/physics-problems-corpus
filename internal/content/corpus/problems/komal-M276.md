@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200702"
 verification_status: pending
 ---
 
-Measure how the time while the sand runs to the bottom bulb of an hourglass change if you vary the angle between the symmetry axis of the hourglass and the vertical. 
+Measure how the time while the sand runs to the bottom bulb of an hourglass change if you vary the angle between the symmetry axis of the hourglass and the vertical.
  (6 pont)

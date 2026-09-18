@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201202"
 verification_status: pending
 ---
 
-An object is moved at a speed of  v along the principal axis of a converging lens. What is the speed of the moving image, when the enlargement is  N ? 
+An object is moved at a speed of  v along the principal axis of a converging lens. What is the speed of the moving image, when the enlargement is  N ?
  (4 pont)

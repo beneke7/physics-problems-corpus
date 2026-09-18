@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4616. A Tiszán edző evezősök sötétedés előtt másfél órával szállnak vízre. A Tisza vizének sebessége 3,6 km/h, a hajók a vízhez képest 6 m/s sebességgel haladnak. Milyen messzire mehetnek el az indulás helyétől, ha sötétedésre vissza kell érkezniük oda? 
+P. 4616. A Tiszán edző evezősök sötétedés előtt másfél órával szállnak vízre. A Tisza vizének sebessége 3,6 km/h, a hajók a vízhez képest 6 m/s sebességgel haladnak. Milyen messzire mehetnek el az indulás helyétől, ha sötétedésre vissza kell érkezniük oda?
  Tarján Imre fizikaverseny, Szolnok

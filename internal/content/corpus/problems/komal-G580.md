@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-How much $0~{}^\circ \rm C$ ice must be put into 1.5 litres of water at a temperature of $40~{}^\circ \rm C$, in order that the ice melts and the water cools down to the temperature of $0~{}^\circ \rm C$? 
+How much $0~{}^\circ \rm C$ ice must be put into 1.5 litres of water at a temperature of $40~{}^\circ \rm C$, in order that the ice melts and the water cools down to the temperature of $0~{}^\circ \rm C$?
  (3 pont)

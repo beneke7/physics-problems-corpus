@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 843. Egy $45^\circ$-os szögben ferdén elhelyezett síktükör fölött $12~\text{cm}$ magasan egy $3~\text{cm}$ hosszú, vízszintes helyzetű világító nyilat helyezünk el. Adjuk meg, hogy mekkora és milyen helyzetű képet hoz létre a tükörtől $18~\text{cm}$-re lévő, $20~\text{cm}$ fókusztávolságú gyűjtőlencse!
 
-![figure](../../raw_html/komal_figures/komal-G843-fig1.png)
+![figure](../../figures/komal/figures/komal-G843-fig1.png)

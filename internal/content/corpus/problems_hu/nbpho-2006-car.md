@@ -29,5 +29,5 @@ Egy autó az ábrán látható módon megpróbál áthajtani egy útakadályon, 
 
 **3)** Tegyük fel, hogy az autó négykerék-meghajtású, és az útakadályt fal helyettesíti. Fel lehet-e emelni az autó elejét úgy, hogy lassan a falnak hajtunk?
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-car-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-car-fig1.png)
 

@@ -29,7 +29,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
      (a) A 14. feladatban említett közelítést használva és L ≪ N a feltételezéssel mutassuk meg, hogy
 
                                                            L2
-                                                                
+
                                        S = N kB log 2 −
                                                          2N 2 a2
          majd mutassuk meg, hogy az entrópia csökken, ahogy L nő. Ez a modell nagyon egyszerű; például semmit sem mond a lánc feszítőerejéről, de az előjel helyes. (Tipp: vegyük észre, hogy az entrópiaváltozások L2 /N rendűek, ezért nagyon kicsik. Közelítéseink során óvatosnak kell lennünk, nehogy egy fontos járulékot elhagyjunk.)
@@ -51,7 +51,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                      12
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 
@@ -76,7 +78,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                 13
-   Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
 

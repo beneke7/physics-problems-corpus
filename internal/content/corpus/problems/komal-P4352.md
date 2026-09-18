@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201105"
 verification_status: pending
 ---
 
-A rough inclined plane of height h =2 m, and of angle of elevation 20$^\circ$ consists of two parts. The two parts have the same length but the friction is different on them. At the bottom of the slope a small body was pushed, and it slid to the top of the plane and then it slid back and it just stopped at the end of the slope. a ) What was the initial speed of the small body at the bottom of the slope? b ) What is the coefficient of friction along the bottom part of the slope if the coefficient of friction at the top is $_{2}$=0.3? 
+A rough inclined plane of height h =2 m, and of angle of elevation 20$^\circ$ consists of two parts. The two parts have the same length but the friction is different on them. At the bottom of the slope a small body was pushed, and it slid to the top of the plane and then it slid back and it just stopped at the end of the slope. a ) What was the initial speed of the small body at the bottom of the slope? b ) What is the coefficient of friction along the bottom part of the slope if the coefficient of friction at the top is $_{2}$=0.3?
  (4 pont)

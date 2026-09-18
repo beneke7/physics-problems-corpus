@@ -21,7 +21,7 @@ légkörének optikai hatását, határozzuk meg, hogy legfeljebb mennyi ideig t
 a Hold és a Nap egyaránt 0,5◦
 látószögben látszik; a Föld látószöge a Holdról nézve 1,83◦
 . (Hogyan befolyásolná az
-eredményt, ha 
+eredményt, ha
 gyelembe vennénk, hogy az említett pályák inkább ellipszisek, mint körök?)
 ) A valóságban teljes holdfogyatkozáskor sem t¶nik el teljesen a Hold az égr®l, hanem vöröses színben, halványan
 világít. Miért?
@@ -43,7 +43,7 @@ Földön. A f® ok ténylegesen az, hogy a Föld nagyobb, mint a Hold.
 b) Az 2. ábrán a valóságos arányokat eltorzítva, a lényeges távolságokat kiemelve tanulmányozhatjuk a maximális
 id®tartamú teljes holdfogyatkozást, amikor is a Hold pályája áthalad az árnyékkúp tengelyén. A Nap, a Föld és a Hold
 átmér®jén kívül feltüntettük (szaggatott vonallal) annak az árnyékkörnek az átmér®jét is, amelyen a Hold végighalad.
-A NapFöld távolságot L-lel, a FöldHold távolságot l-lel jelöltük.
+A Nap Föld távolságot L-lel, a Föld Hold távolságot l-lel jelöltük.
 Felhasználva két háromszög hasonlóságát, a megfelel® oldalak arányára felírhatjuk:
 DF − Dárnyék
 2
@@ -69,7 +69,7 @@ T
 =
 T
 2π
-
+
 DF
 l
 −
@@ -78,7 +78,7 @@ L
 −
 DH
 l
-
+
 .
 Felhasználva, hogy a Hold kereken 30 nap alatt kerüli meg a Földet, és behelyettesítve a feladatban fokokban megadott
 látószög adatokat:
@@ -90,9 +90,9 @@ látószög adatokat:
 − 0,5◦
 ) = 1,66 h.
 Legfeljebb ennyi ideig tarhat egy teljes holdfogyatkozás.
-Hogyan befolyásolná az eredményt, ha 
+Hogyan befolyásolná az eredményt, ha
 gyelembe vennénk, hogy az említett pályák inkább ellipszisek, mint körök?
-Ebben az esetben 
+Ebben az esetben
 gyelembe kellene vennünk, hogy a Nap látószöge a Földr®l nézve 0,52◦
 és 0,54◦
 között változik,
@@ -106,20 +106,20 @@ között. (A
 feladatban szerepl® 1,86◦
 tehát nem átlagérték, hanem a 0,50◦
 -os Hold-látószögnek megfelel® érték volt.)
-Az ellipszispályák 
+Az ellipszispályák
 gyelembe vétele azonban nem sak a látószögeket módosítja, hanem a Hold v sebességét is! A
 látószögek szempontjából optimális eset az, amikor
-1. a Föld naptávolban tartózkodik (az árnyékkúp a legkevésbé keskenyedik);
+1. a Föld naptávolban tartózkodik (az árnyékkúp a legkevésbé  keskenyedik );
 2. a Hold földközelben tartózkodik (az árnyékkör a lehet® legnagyobb).
 Ez utóbbi esetben azonban a Hold sebessége is a lehet® legnagyobb, s ez sökkenti az áthaladási id®t. Ennek ellenére
 a fenti két feltétel teljesülése esetén lesz a teljes holdfogyatkozás ideje maximális (körülbelül 115 per ).
 Ebben az évezredben a leghosszabb holdfogyatkozást 2000. július 16-án lehet még majd meg
-gyelni  sajnos nem
+gyelni   sajnos nem
 nálunk, hanem Ázsia keleti és déli részén, valamint Ó eániában. Ideje 108 per lesz.
 ) A Föld légköre megtöri a fényt; a fénynek azt a részét, amely át tud haladni rajta, mint valami enyhén gy¶jt®
 len se, a geometriai árnyéktérbe irányítja. A fénynek a legnagyobb része azonban nem halad át a légkörön, hanem
-áthaladás közben fokozatosan kiszóródik. A fényszórás legjelent®sebb a rövid hullámhosszú fényekre, ezért látszik
-az ég a földr®l nézve kéknek. Az ¶rhajósok is kéknek látják, így kapta Földünk a kék bolygó nevet. Még leginkább
+áthaladás közben fokozatosan  kiszóródik . A fényszórás legjelent®sebb a rövid hullámhosszú fényekre, ezért látszik
+az ég a földr®l nézve kéknek. Az ¶rhajósok is kéknek látják, így kapta Földünk a  kék bolygó  nevet. Még leginkább
 a leghosszabb hullámhosszú vörös fénynek van esélye arra, hogy át tud haladni a légkörön, s egy halvány, vöröses
 derengést ad a geometriai árnyéktérben lév® Holdnak.
 Megjegyzések. 1. A Hold keringési ideje a Földr®l nézve 29,5 nap. Az álló sillagokhoz képest azonban sak 27,3 nap,
@@ -133,10 +133,10 @@ mivel a Föld is kering a Nap körül.
 1
 29,5
 .
-2. Nem vettük 
+2. Nem vettük
 gyelembe, hogy a Hold keringési síkja kb. 5◦
 -os szögben hajlik a Föld keringési síkjához (az
-ekliptikához) képest, s nem vettünk 
+ekliptikához) képest, s nem vettünk
 gyelembe még számos, az eredményt sak sekély mértékben módosító hatást.
 Néhány évvel ezel®tt például egy óriási t¶zhányó-kitörés annyi port juttatott a légkör fels®bb részeibe, hogy utána a
 Hold az árnyéktérben egészen más szín¶nek látszott, mivel a por a vörös fényt is részben elnyelte, részben kiszórta a

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201604"
 verification_status: pending
 ---
 
-A 2 kg object is moving at a speed of 1.41 m/s in the horizontal plane towards the direction of the north-east. Then for 10 seconds a 0.20 N force is exerted on it towards the west. Determine the magnitude and the direction of the final velocity of the object. 
+A 2 kg object is moving at a speed of 1.41 m/s in the horizontal plane towards the direction of the north-east. Then for 10 seconds a 0.20 N force is exerted on it towards the west. Determine the magnitude and the direction of the final velocity of the object.
  (3 pont)

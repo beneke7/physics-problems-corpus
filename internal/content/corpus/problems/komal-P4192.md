@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, conservation-laws]
 ---
 
-The metal (hollow) spheres of radii R , 2 R and 3 R are placed into each other such that their centres are at the same point. The inner sphere is given a charge of  Q , the middle one is charged to 2 Q , and the outer one is charged to 3 Q . a ) Find the potentials, measured from the common centre of the circles, at a distances of R , 2 R , 3 R and 4 R , if the potential at the centre is taken to be zero. b ) What is the energy of the electric field in the regions between the spheres and outside the spheres? ( R =10 cm, Q =2$^{.}$10$^{-6}$ C.) 
+The metal (hollow) spheres of radii R , 2 R and 3 R are placed into each other such that their centres are at the same point. The inner sphere is given a charge of  Q , the middle one is charged to 2 Q , and the outer one is charged to 3 Q . a ) Find the potentials, measured from the common centre of the circles, at a distances of R , 2 R , 3 R and 4 R , if the potential at the centre is taken to be zero. b ) What is the energy of the electric field in the regions between the spheres and outside the spheres? ( R =10 cm, Q =2$^{.}$10$^{-6}$ C.)
  (5 pont)

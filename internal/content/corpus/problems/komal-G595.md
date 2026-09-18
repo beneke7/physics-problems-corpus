@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-The mass of the load hanging on a wire rope, attached to the crab of a bridge crane (hoist trolley) is 500 kg. The trolley is moving horizontally at an acceleration of $0.1~{\rm m/s}^2$. 
- What is the (constant) angle enclosed by the wire rope and the vertical? 
+The mass of the load hanging on a wire rope, attached to the crab of a bridge crane (hoist trolley) is 500 kg. The trolley is moving horizontally at an acceleration of $0.1~{\rm m/s}^2$.
+ What is the (constant) angle enclosed by the wire rope and the vertical?
  (3 pont)

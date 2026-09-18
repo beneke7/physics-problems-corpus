@@ -32,7 +32,7 @@ alakot vesz fel ekkor a légbuborék? Adjuk meg a buborék jellemz® méreteit! 
    I. megoldás (energiaminimum). Ha nem forogna a henger, a buborék a felületi feszültség miatt gömb alakú
 lenne. Ha nem lenne felületi feszültség, akkor a forgó folyadékban a buborék egy nagyon hosszan elnyúló nagyon vékony
 szál lenne a henger szimmetriatengelyénél. Most a henger elég nagy szögsebességgel forog, de hat a felületi feszültség is,
-így egy hosszan elnyúlt virsli alakú buborékot feltételezünk, melynek alakját egy r sugarú, ℓ hosszúságú hengerrel
+így egy hosszan elnyúlt  virsli  alakú buborékot feltételezünk, melynek alakját egy r sugarú, ℓ hosszúságú hengerrel
                                               2
 közelíthetjük. A térfogat állandósága miatt ℓr π = V .
    A rendszer teljes energiája a buborék felületi energiájából és a buborék helyér®l kiszoruló folyadék helyzeti energi-
@@ -45,8 +45,8 @@ hat. Emiatt a henger tengelyét®l x távolságra lév® tömegdarab helyzeti en
                                            dE = −          ω 2 x′ dm dx′ = − ω 2 x2 dm.
                                                        0                    2
 
-   A henger alakú buborékból kiszorul a víz, és a henger szimmetriatengelyéig emelkedik. A teljes helyzeti energia
-növekedése, felhasználva, hogy az x sugarú, dx vastagságú hengergy¶r¶ tömege dm = ̺2xπℓ dx,
+   A henger alakú buborékból kiszorul a víz, és a henger szimmetriatengelyéig  emelkedik . A teljes helyzeti energia
+növekedése, felhasználva, hogy az x sugarú, dx vastagságú  hengergy¶r¶  tömege dm = ̺2xπℓ dx,
                                            Z r
                                                  1 2 2              1            1
                                    Ecf =           ω x ̺ · 2xπℓ dx = ω 2 r4 ̺ℓπ = ω 2 r2 ̺V.
@@ -73,7 +73,7 @@ amib®l                                      r
                                                  ω2̺                            r2 π
 Valóban jogos volt tehát az a feltételezés, hogy a buborék alakja közelít®leg egy nyújtott henger.
 
-   II. megoldás (er®egyensúly). Vágjuk félbe a virslit, és írjuk fel az er®k egyensúlyát (1. ábra )!
+   II. megoldás (er®egyensúly). Vágjuk félbe a  virslit , és írjuk fel az er®k egyensúlyát (1. ábra )!
 
 
 
@@ -81,7 +81,9 @@ Valóban jogos volt tehát az a feltételezés, hogy a buborék alakja közelít
                                                                1. ábra
 
   1 Részletek a verseny honlap ján: http://eik.bme.hu/∼vanko/fizika/eotvos.htm.
-   A forgó folyadékban a tengelyt®l x távolságra a nyomás:
+
+
+   A forgó folyadékban a tengelyt®l x távolságra a nyomás:
 
                                                               1 2 2
                                                      p(x) =     ̺ω x + C,
@@ -101,9 +103,9 @@ Ezt összevetve a folyadék nyomáseloszlására felírt összefüggéssel az ab
                                                                 α 1 2 2
                                                    C = p0 −       − ̺ω r .
                                                                 r  2
-   A folyadék által a virsli egyik felére kifejtett tengelyirányú er® a folyadék nyomásának egy r sugarú körlapra vett
+   A folyadék által a  virsli  egyik felére kifejtett tengelyirányú er® a folyadék nyomásának egy r sugarú körlapra vett
 integráljaként számítható ki (   2. ábra ):
-                           Z r                  Z                                  
+                           Z r                  Z
                                             1 2 r 2                     α 1 2 2
                      F1 =    p(x) · 2πx dx = ̺ω    x · 2πx dx + p0 − − ̺ω r · πr2 =
                            0                2    0                      r    2
@@ -138,7 +140,7 @@ gáz atomjait átengedi, de a kétatomos gáz molekuláit nem. Kezdetben a tart�
 van. A tartályban lév® gázkeveréket egy f¶t®test lassan 120 ◦ C-kal felmelegíti.
    a) Mennyivel változik meg a tartályban lév® gáz bels® energiája?
    b) Mennyi h®t ad le a f¶t®test a gáznak? (A tartály melegedéséhez szükséges h®t és a tartály h®vezetését hagyjuk
-gyelmen kívül!)
+ gyelmen kívül!)
                                                                                                         (Ti hy Géza)
    Megoldás. a) Két gázkeverék akkor van egyensúlyban, ha azon komponensek par iális nyomása megegyezik,
 melyek a két tartály között áramolhatnak. Feladatunkban           sak az egyatomos molekulák gázát engedi át a fal, ezért ha
@@ -153,7 +155,9 @@ ahol V a tartály térfogata. Mivel sem a par iális nyomás, sem a térfogat ne
                                                         n1 T = állandó
 
 összefüggés jellemz®.
-                                                              3. ábra
+
+
+                                                              3. ábra
 
 
                                                                                                                 ◦
@@ -213,7 +217,9 @@ munkavégzésével, vagy egy közelít® összegzést alkalmazva számolunk nume
 egy (nem-mágneses) szigetel® anyagból készült, r sugarú tömör henger helyezkedik el. A szigetel® henger pozitívan
 töltött, egyenletes térfogati eloszlásban. A szolenoidba id®ben egyenletesen, gyorsan növekv® er®sség¶ áramot vezetünk
 az ábrán látható körüljárás szerint.
-  Milyen irányban indul el a szigetel® henger? Hogyan függ a válasz az r/R aránytól? Mekkora r/R arány esetén
+
+
+  Milyen irányban indul el a szigetel® henger? Hogyan függ a válasz az r/R aránytól? Mekkora r/R arány esetén
 marad a töltött henger nyugalomban?
   A tapadási súrlódás elegend®en nagy ahhoz, hogy a henger ne sússzon meg. A gördülési ellenállástól tekintsünk el!
                                                                                                      (Vigh Máté)
@@ -249,7 +255,7 @@ azt egy C középpontú, r0 sugarú körre alkalmazzuk (       5. ábra ):
                                                      ∆Φ
                                                      ∆t
 
-Ez az összefüggés a balkéz-szabály alapján vektoriálisan is felírható a C pontból a vizsgált pontba mutató     r 0 vektor
+Ez az összefüggés a  balkéz-szabály  alapján vektoriálisan is felírható a C pontból a vizsgált pontba mutató     r 0 vektor
 segítségével:
 
                                                 E (r 0) = − 21 ∆B
@@ -270,8 +276,10 @@ felhasználásával a térer®sség így írható:
                                                                            e B × r 2,
                                                  |        {z       }|      {z        }
                                                           E1              E2
-Ebben az összegben az   E 1-gyel jelölt tag homogén, vízszintesen balra mutató elektromos mez®t, az E 2-vel jelölt tag
-pedig a töltött henger tengelye (O pont) körül örvényl® mez®t jelent. Az indukált elektromos teret tehát felbontottuk
+
+
+Ebben az összegben az   E 1-gyel jelölt tag homogén, vízszintesen balra mutató elektromos mez®t, az E 2-vel jelölt tag
+pedig a töltött henger tengelye (O pont) körül  örvényl®  mez®t jelent. Az indukált elektromos teret tehát felbontottuk
 két mez® szuperpozí iójára, ahogy az a     7. ábrán látható.
 
 
@@ -340,14 +348,16 @@ indul el.
     analógia segítségével is meghatározhatjuk. Vegyük az óramutató járásával ellentétes körüljárási irányokat po-
 latos
 zitívnak! Tekintsük a hengert egy m tömeg¶, homogén tömegeloszlású, a C pont körül ω < 0 szögsebességgel forgó
-merev testnek! Ezen test egy-egy darabkájának sebessége (és emiatt az egységnyi térfogatú kis részének lendülete)
+
+
+merev testnek! Ezen test egy-egy darabkájának sebessége (és emiatt az egységnyi térfogatú kis részének lendülete)
 éppen olyan irányú és (egy pozitív arányossági tényez®t®l eltekintve) ugyanolyan nagyságú, mint az eredeti feladatban
 az elektromos er®tér által kifejtett er®. Hasonlóan, a forgó merev test kis darabkájának P -re vonatkoztatott perdülete
 (impulzusmomentuma) egy arányossági tényez®t®l eltekintve az eredeti feladatban szerepl® er®k P -re vonatkoztatott
 forgatónyomatékának felel meg. A kérdés tehát az, hogy milyen el®jel¶ a C pont körül negatív irányban forgó henger
 perdülete a P pontra vonatkoztatva.
-   Egy merev test teljes perdülete a tömegközéppont körüli forgás sajátperdületéb®l és a tömegközéppontba kép-
-zelt, annak sebességével mozgó teljes anyagmennyiség pályaperdületéb®l tehet® össze. Esetünkben az O tömegközép-
+   Egy merev test teljes perdülete a tömegközéppont körüli forgás  sajátperdületéb®l  és a tömegközéppontba kép-
+zelt, annak sebességével mozgó teljes anyagmennyiség  pályaperdületéb®l  tehet® össze. Esetünkben az O tömegközép-
 pont (balra mutató) sebessége vO = (R − r)ω nagyságú, a pályaperdület tehát +mr(R − r)ω , a sajátperdület pedig
 −(1/2)mr2 ω . A P pontra vonatkoztatott teljes perdület tehát:
                                                      1        mrω
@@ -373,11 +383,11 @@ elnöke adta át.
    Els® díjat a versenybizottság nem adott ki.
    Az els® feladat hibátlan megoldásáértmásodik díjat nyert Fajszi Bul sú, a Budapesti Fazekas Mihály Gyakorló
 Általános Iskola és Gimnázium 11. osztályos tanulója,Csefkó Zoltán és Horváth Gábor tanítványa.
-   A második feladat lényegében helyes megoldásáért harmadik díjat nyert Hajdú Csanád, a BME zikus hallgatója,
+   A második feladat lényegében helyes megoldásáért harmadik díjat nyert Hajdú Csanád, a BME  zikus hallgatója,
 a budapesti Eötvös József Gimnázium érettségizett tanulója, Gulyás Erzsébet tanítványa, valamint Vavrik Márton,
-a BME zikus hallgatója, a budapesti Berzsenyi Dániel Gimnázium érettségizett tanulója, Lendvai Dorottya és Izsa
+a BME  zikus hallgatója, a budapesti Berzsenyi Dániel Gimnázium érettségizett tanulója, Lendvai Dorottya és Izsa
 Éva tanítványa.
-   Az els® feladat helyes közelít® megoldásáért di séretben részesült Berke Martin, a BME zikus hallgatója, a Za-
+   Az els® feladat helyes közelít® megoldásáért di séretben részesült Berke Martin, a BME  zikus hallgatója, a Za-
                                                          Bóbi s Lilla tanítványa.
 laegerszegi Zrínyi Miklós Gimnázium érettségizett tanulója,
    A második díjjal    Zimányi Gergely adományából 50 ezer, a harmadik díjjal 30 ezer, a di sérettel 20 ezer forint

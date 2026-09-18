@@ -29,7 +29,7 @@ to the two balls in the dumbbell, approaches the dumbbell coaxially from the lef
 with velocity $v$ (see the figure). A fourth identical ball rests coaxially to the
 right of the dumbbell.
 
-![figure](../../sources/nbpho/figures/nbpho-2008-dumbbell-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2008-dumbbell-fig1.png)
 
 1) Find the velocity of the centre of mass of the dumbbell after it is hit by the
 ball approaching from the left.

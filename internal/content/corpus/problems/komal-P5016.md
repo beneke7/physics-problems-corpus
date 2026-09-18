@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-There is a uniform-density rod on the horizontal tabletop. We would like to bring the rod slowly to a vertical position with a force which is exerted at one end of the rod and which is perpendicular to the rod during the whole process. What is the least value of the coefficient of static friction, if the rod does not slip? 
+There is a uniform-density rod on the horizontal tabletop. We would like to bring the rod slowly to a vertical position with a force which is exerted at one end of the rod and which is perpendicular to the rod during the whole process. What is the least value of the coefficient of static friction, if the rod does not slip?
  (5 pont)

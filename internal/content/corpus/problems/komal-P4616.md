@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201403"
 verification_status: pending
 ---
 
-Rowers training on Tisza, begin rowing 1.5 hours before the dusk. The speed of the water is 3.6 km/h, and the speed of the rowing boats is 6 m/s with respect to the water. How far from their departure can they row, if they have to arrive back to the dusk? 
+Rowers training on Tisza, begin rowing 1.5 hours before the dusk. The speed of the water is 3.6 km/h, and the speed of the rowing boats is 6 m/s with respect to the water. How far from their departure can they row, if they have to arrive back to the dusk?
  (3 pont)

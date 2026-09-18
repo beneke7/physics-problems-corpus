@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $R$ sugarú henger $\omega$ szögsebességgel forog a tengelye körül. Belső felületén egy kis test fekszik; a test és a henger belső felülete közötti súrlódási együttható $\mu$. Határozzuk meg $\omega$ azon értékeit, amelyek mellett a test nem csúszik, vagyis a hengerhez képest nyugalomban marad. Vizsgáljuk meg azokat az eseteket, amikor (a) a henger tengelye vízszintes; (b) a tengely a vízszintessel $\alpha$ szöget zár be.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr6-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr6-fig1.jpg)

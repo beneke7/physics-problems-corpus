@@ -44,10 +44,10 @@ for a certain set of initial conditions. Where is the other electron at the mome
 when the first electron is at the position of the small circle? What is the period of
 this motion?
 
-![figure](../../sources/nbpho/figures/nbpho-2022-electrons-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2022-electrons-fig1.jpg)
 
 **v)** *(2 points)* The figure below depicts the trajectory of one of the electrons
 for a certain set of initial conditions. What is the speed of the other electron at
 the moment when the first electron is at the position of the small circle?
 
-![figure](../../sources/nbpho/figures/nbpho-2022-electrons-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2022-electrons-fig2.jpg)

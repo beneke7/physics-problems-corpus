@@ -25,7 +25,7 @@ Példa. A |+⟩ ket a +ẑ irányba mutat, mivel ⟨+|σ|+⟩ = ẑ és σz |+�
 Hasonlóan definiálhatjuk a tetszőleges irányba mutató keteket:
                                              |n̂, +⟩ = U |+⟩.
 Az n̂ gömbi koordinátáit felírva és az Euler-szögek szerinti felbontást alkalmazva:
-                                                            −iα/2         
+                                                             −iα/2
                                                             e       cos β/2
                          U = U (ẑ, α)U (ŷ, β), |n̂, +⟩ =                   .
                                                              eiα/2 sin β/2
@@ -52,7 +52,6 @@ a θ = 0 helyen végzett deriválással juthatunk vissza.
          J 2 = (J+ J− + J− J+ ) + J32 ,     J− J+ = J 2 − J3 (J3 + ℏ),       J+ J− = J 2 − J3 (J3 − ℏ).
               2
     Ebben a beállításban a J± formális szerepe nagyon hasonló a QHO a és a† operátoraiéhoz.
-171 7. Szögimpulzus
 
 
   • Ezután, a QHO-hoz hasonlóan, a normákat vizsgáljuk. Ekkor
@@ -87,7 +86,7 @@ Most, hogy megtaláltuk az összes irrepet, áttérünk a számításokra és az
 
     A |jm⟩ fázisszabadságát felhasználtuk arra, hogy minden lehetséges fázistényezőt nullára állítsunk.
     Ezután
-                                     s                j−m
+                                     s                  j−m
                                           (j + m)!     J−
                               |jm⟩ =                             |jj⟩.
                                         (2j)!(j − m)! ℏ
@@ -103,4 +102,3 @@ Megjegyzés. A megjelenő j értékeket minden fizikai helyzetben külön kell m
 részecske centrális erőtérbeli mozgását vizsgáljuk, kiderül, hogy csak az egész j értékek számítanak.
 P-hullámú szórás esetén j = 1 jelenik meg. Egy foton spinállapotát (nagyjából) j = 1 írja le, két
 elektron spinállapotát viszont j = 0, 1.
-172 7. Szögimpulzus

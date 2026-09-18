@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-A ray of light passes from air into water of refractive index $n =1.33$. What is the angle of incidence if during refraction the component of the speed of light ray which is perpendicular to the boundary does not change? 
+A ray of light passes from air into water of refractive index $n =1.33$. What is the angle of incidence if during refraction the component of the speed of light ray which is perpendicular to the boundary does not change?
  (4 pont)

@@ -27,7 +27,7 @@ techniques: [graphical-reduction, scaling-and-dimensional-analysis]
 
 A typical smartphone screen is made up of mainly two components: a sheet of touch-sensitive glass (where you move your finger to operate the phone) of thickness $t$ at the top and a LCD screen below it consisting of a regular array of "RGB elements" that emit light. These elements have a separation of $d$ between them. There is a thin air gap of depth $h$ between the touch-sensitive glass and the LCD screen (see Fig. (1)for a cross sectional view). We
 
-![](inpho-2023-a5-fig01.png)
+![](../../figures/inpho/figures/inpho-2023-a5-fig01.png)
 Figure 1
 
 estimate the value of $h$ from the following experiment.
@@ -37,18 +37,18 @@ A digital image captured by the camera of a smartphone (S-II here) consists of d
 
 The phone S-I is kept horizontal and the display is kept ON. A ruler is placed on its screen. S-II is fixed above S-I to capture images. The image of the screen captured is shown in Fig (2).
 
-![](inpho-2023-a5-fig02.png)
+![](../../figures/inpho/figures/inpho-2023-a5-fig02.png)
 Figure 2
 
 Figure 3(a) shows a part of the image of the ruler and its brightness value profile along the red reference line in Fig. 3(b).
 
-![](inpho-2023-a5-fig03.png)
+![](../../figures/inpho/figures/inpho-2023-a5-fig03.png)
 Figure 3
 
 (a) [2 marks] State the number of pixels used by the camera of S-II to capture one centimeter of the screen of S-I.
 (b) [5 marks] We keep the setup the same as the last part. Next, a few small water drops are placed on the glass screen of S-I beside the ruler (see Figs. 4(a) and 4(b) for a top and side view, respectively). We model every drop as a hemispherical lens of radius $R$ that magnifies the array of RGB elements of the LCD screen of S-I (see Fig. 4(c); the figure is not to scale).
 
-![](inpho-2023-a5-fig04.png)
+![](../../figures/inpho/figures/inpho-2023-a5-fig04.png)
 
 Figure 4
 
@@ -57,5 +57,5 @@ Using the profile plots, write the radius of the water drop ( $R$ in mm) and the
 
 (c) [9 marks] For the given smartphone, $t=0.50 \mathrm{~mm}$, the refractive indices of the touch-sensitive glass, water drop, and the air to be 3/2, 4/3, and 1 respectively. Using the data table of the previous part, plot a suitable linear graph to obtain the distance $(h)$ of the RGB elements from the touch-sensitive glass. Use the table given in the summary answer sheet to enter the data used to plot the graph. Show your detailed theoretical calculation in the Detailed Answer sheet.
 
-![](inpho-2023-a5-fig05.png)
+![](../../figures/inpho/figures/inpho-2023-a5-fig05.png)
 Figure 5

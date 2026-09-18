@@ -28,7 +28,7 @@ The magnetic field is
 directed into the page
 i. What is the smallest mass needed to break the fuse?
 ii. How fast is the mass moving when the fuse breaks?
-b. A fuse is composed of a cylindrical wire with length L and radius r 
+b. A fuse is composed of a cylindrical wire with length L and radius r
  L. The resistivity
 (not resistance!) of the fuse is small, and given by ρf. Assume that a uniform current I flows
 through the fuse. Write your answers below in terms of L, r, ρf, I, and any fundamental

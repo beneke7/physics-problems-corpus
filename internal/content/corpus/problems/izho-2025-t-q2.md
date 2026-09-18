@@ -51,10 +51,10 @@ Electrothermal analogy is a method for calculating thermal systems based on repl
 2.5 A cube consists of identical thin rods with thermally insulated side surfaces. Two vertices of the cube $A$ and $B$ are maintained at constant temperatures $t_{A}=20^{\circ} \mathrm{C}$ and $t_{B}=120^{\circ} \mathrm{C}$ respectively. Determine the temperature $t_{C}$ at vertex $C$, see Figure 2.1 below.
 2.6 A thin heat-conducting sphere of radius $R$ is made of a material with the wall thickness $h \ll R$. Thermal power $P$ is supplied to point $A$ of the sphere, and the same thermal power is removed at point $B$ of the sphere. Neglecting heat losses, determine the modulus of the heat flux at point $C$ of the sphere, see Figure 2.2 below ( $O$ is the sphere center, $A O \perp O B, O C \perp O A, O C \perp O B$ ).
 
-![](izho-2025-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2025-t-q2-fig01.png)
 Figure 2.1
 
-![](izho-2025-t-q2-fig02.png)
+![](../../figures/izho/figures/izho-2025-t-q2-fig02.png)
 Figure 2.2
 
 ## The first estimate of the Earth age

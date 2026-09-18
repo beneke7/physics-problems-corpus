@@ -67,7 +67,9 @@ BD'.
                                               βn
 
                                                                                              1
-                          39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                          39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                           Theoretical Problem No. 2 / Solution
 
@@ -120,7 +122,9 @@ Cherenkov radiation in the plane of the sketch, striking the mirror and being re
 
 
                                                                                              2
-                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                              Theoretical Problem No. 2 / Solution
 
@@ -179,7 +183,9 @@ higher than 2 in K . We get
 
 
                                                                                                      3
-                                 39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                                 39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                                      Theoretical Problem No. 2 / Solution
 
@@ -244,7 +250,9 @@ We do not observe the ring image of protons since
 
 
                                                                                                       4
-                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                           Theoretical Problem No. 2 / Solution
 
@@ -303,7 +311,9 @@ tan θ = θ , we derive
 
 
                                                                                                          5
-                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                             Theoretical Problem No. 2 / Solution
 
@@ -358,7 +368,9 @@ is nv − nr = δ n = 0.02 ( n − 1) .
 
 
                                                                                                    6
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
 
                                          Theoretical Problem No. 2 / Solution
 

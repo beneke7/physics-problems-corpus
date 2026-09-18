@@ -25,7 +25,7 @@ techniques: [smart-coordinates]
 
 Question 6
 A donkey pulls a wooden box along rough flat ground at a constant speed by means of a force $\vec{P}$ (magnitude $P$ ) as shown. In the diagram, $f$ is the magnitude of the frictional force, $N$ is the magnitude of the normal force, and $F_{g}$ is the magnitude of the force of gravity. Which of the following options must be true?
-![](aupho-2014-q6-fig01.png)
+![](../../figures/aupho/figures/aupho-2014-q6-fig01.png)
 
 a. $P=f$ and $N=F_{g}$
 b. $P=f$ and $N>F_{g}$

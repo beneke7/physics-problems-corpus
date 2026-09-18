@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201810"
 verification_status: pending
 ---
 
-Measure the rotational inertia about the symmetry axis of a hard boiled egg. 
+Measure the rotational inertia about the symmetry axis of a hard boiled egg.
  (6 pont)

@@ -36,5 +36,5 @@ solution_language: en
     it shows up on modern Olympiad problems, there’s generally a twist. For instance, we can replace
 
 
-                    01T
+                    01T
     the point charge with an electric dipole, as illustrated in the following three tough questions.

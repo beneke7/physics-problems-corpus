@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán $R_{1}/R_{2}=4$. Ha a rajzon látható módon egy lámpát kapcsolunk az áramkörhöz, akkor az $R_{1}$ ellenálláson átfolyó áram $\Delta I=0.1 \mathrm{~A}$ értékkel nő. Határozzuk meg a lámpán átfolyó áramot.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr2-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr2-fig1.jpg)

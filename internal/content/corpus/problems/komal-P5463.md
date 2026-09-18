@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns, scaling-and-dimensional-analysis]
 ---
 
-A rickety space probe ``hovers'' above the surface of an unknown planet, which has no atmosphere, at a height of $H$ = 225 m. One after the other, two screws fall off. The second screw falls from the space probe just as the first has fallen 16 m. What is the distance between the two screws at the moment when the first one reaches the surface of the planet? 
+A rickety space probe ``hovers'' above the surface of an unknown planet, which has no atmosphere, at a height of $H$ = 225 m. One after the other, two screws fall off. The second screw falls from the space probe just as the first has fallen 16 m. What is the distance between the two screws at the moment when the first one reaches the surface of the planet?
  (4 pont)

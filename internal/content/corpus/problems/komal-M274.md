@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-Measure how the torque exerted by a clothes peg depends on the angle between the prongs of a clothes peg. How much mechanical work is to be done to open the prongs of the peg completely. 
+Measure how the torque exerted by a clothes peg depends on the angle between the prongs of a clothes peg. How much mechanical work is to be done to open the prongs of the peg completely.
  (6 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the current through the batteries.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr9-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr9-fig1.jpg)

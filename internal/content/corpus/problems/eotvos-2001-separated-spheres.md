@@ -22,8 +22,8 @@ techniques: [exploit-symmetry, extremization]
 
 Két egyforma ólomgömböt egy-egy sík mentén két-két részre vágunk; egyiket az a), másikat a b) ábra szerint. A vágási felületeket hajszálvékony szigetelő réteggel látjuk el, utána a részeket újra teljes gömbbé egyesítjük. Ezután mindkét gömb bal oldali részére ugyanakkora, kicsiny $Q$ töltést viszünk.
 
-![Az a) eset](../../sources/eotvos/figures/eotvos-2001-separated-spheres-fig1a.png)
+![Az a) eset](../../figures/eotvos/figures/eotvos-2001-separated-spheres-fig1a.png)
 
-![A b) eset](../../sources/eotvos/figures/eotvos-2001-separated-spheres-fig1b.png)
+![A b) eset](../../figures/eotvos/figures/eotvos-2001-separated-spheres-fig1b.png)
 
 Ábrázoljuk mindkét esetben a gömb körül kialakuló erővonalképet! (A két gömb messze van egymástól, kölcsönhatásuk elhanyagolható.)

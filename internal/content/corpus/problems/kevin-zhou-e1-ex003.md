@@ -39,7 +39,9 @@ Example 3
 
 
                                                       3
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
 

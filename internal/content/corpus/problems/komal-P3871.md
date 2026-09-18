@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-The strengths of the gravitational field of a spherical planet of uniform density at a depth and at a height of h are the same. (Both distances are measured from the surface of the planet.) Find the ratio of the gravitational potentials at these places. 
+The strengths of the gravitational field of a spherical planet of uniform density at a depth and at a height of h are the same. (Both distances are measured from the surface of the planet.) Find the ratio of the gravitational potentials at these places.
  (5 pont)

@@ -16,7 +16,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2005_
 1) Let us consider the process in the system, rotating together with the
 tank. Then, there is a potential energy related to the centrifugal force:
 Uc =
-r
+ r
 0
 ω2
 rdr = 1
@@ -45,7 +45,7 @@ The laboratory speed v2 = u2
 r2
 = 2(ω2
 r2
-− gh), i.e. v2 = 
+− gh), i.e. v2 =
 2(ω2r2 − gh).
 3)Thepoint oflowestpressure pm insidethepump istheupmostpoint
 of the tube. Using the Bernoulli formula, p0 = pm + ρgh + 1
@@ -54,7 +54,7 @@ of the tube. Using the Bernoulli formula, p0 = pm + ρgh + 1
 1,
 where the velocity in the tube can be found from the continuity condi-
 tion: S1v1 = S2u = S2
-
+
 ω2r2 − 2gh. Therefore, pm = p0 − ρgh −
 1
 2
@@ -73,16 +73,16 @@ S2
 )2
 ; finally we obtain
 ωm = r−1
-
+
 2gh +
-
+
 p0 − pk
 ρ
 − gh
-
+
 S1
 S2
-2
+ 2
 .
 4) The maximal productivity is apparently achieved for the highest ef-
 ficiency. The eﬃciency is highest, when the residual velocity is lowest:

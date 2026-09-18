@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-The edges of a cube are built from resistors which has two different resistance values. The resistance of the resistors on 8 edges which are the edges of two opposite faces of the cube is $r$, and the resistance of the other 8 resistors on the 4 edges perpendicular to the previously described edges is $R$. Determine the equivalent resistance of the circuit between two adjacent vertices of the cube between which the resistance is $R$. 
+The edges of a cube are built from resistors which has two different resistance values. The resistance of the resistors on 8 edges which are the edges of two opposite faces of the cube is $r$, and the resistance of the other 8 resistors on the 4 edges perpendicular to the previously described edges is $R$. Determine the equivalent resistance of the circuit between two adjacent vertices of the cube between which the resistance is $R$.
  (4 pont)

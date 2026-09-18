@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-Estimate how much more it costs to cover the distance by car between Miskolc and Sárospatak if the lights are on than if they are turned off. The total power dissipated in the lights is 50 W, the average speed is 60 km/h and the efficiency of the engine is 25%. 
+Estimate how much more it costs to cover the distance by car between Miskolc and Sárospatak if the lights are on than if they are turned off. The total power dissipated in the lights is 50 W, the average speed is 60 km/h and the efficiency of the engine is 25%.
  (4 pont)

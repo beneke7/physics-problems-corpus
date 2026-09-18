@@ -36,4 +36,4 @@ Hint: consider the force balance between two halves of the bag.
 
 **4)** Assuming that $p \gg \sigma g$, determine the quantity $\varepsilon=\frac{b-a}{b+a}$, where $b$ is the width of the bag.
 
-![figure](../../sources/nbpho/figures/nbpho-2006-empty-bag-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2006-empty-bag-fig1.png)

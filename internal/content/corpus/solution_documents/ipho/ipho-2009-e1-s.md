@@ -28,9 +28,13 @@ Task 1.1 Experimental setup.
     of the beam as measured from the table
 
      h ± ∆h = (5.0 ± 0.05) ×10−2 m (0.25)
-          Experimental setup for measurement of diode laser wavelength
+
+
+          Experimental setup for measurement of diode laser wavelength
 Task 1.2 Expressions for optical path differences.
-1.2 The path differences are                                                  0.5
+
+
+1.2 The path differences are                                                  0.5
 
      Case I: (0.25)
 
@@ -66,7 +70,9 @@ Task 1.2 Expressions for optical path differences.
                     1        1   1
      ⇒    ∆ II (n) ≈ L2L (n) − 
                     2         La L0 
-Task 1.3 Measuring the dark fringe positions and locations of the blade. Use
+
+
+Task 1.3 Measuring the dark fringe positions and locations of the blade. Use
 additional sheets if necessary.
                                    TABLE I
 
@@ -110,7 +116,9 @@ additional sheets if necessary.
 
 
  11             -24.1                                     3.410
-1.3 Report positions of the blade and their difference with higher precision:   3.25
+
+
+1.3 Report positions of the blade and their difference with higher precision:   3.25
 
 
      Lb ± ∆Lb = (653 ± 1) ×10−3 m (0.25) LABEL (I) (measuring tape)
@@ -118,8 +126,14 @@ additional sheets if necessary.
      La ± ∆La = (628 ± 1) ×10−3 m (0.25) LABEL (I) (measuring tape)
 
      d = Lb − La = (24.6 ± 0.1) ×10−3 m (0.25) LABEL (H) (caliper)
-Task 1.4 Performing a statistical and graphical analysis.
-1.4 A procedure:                                                                   3.25
+
+
+
+
+Task 1.4 Performing a statistical and graphical analysis.
+
+
+1.4 A procedure:                                                                   3.25
 
     From the condition of dark fringes and Task 1.2, we have
 
@@ -171,7 +185,9 @@ additional sheets if necessary.
     One finds:
 
      mR ± ∆m R = (−6.39 ± 0.07) ×10−3 m
-      mL ± ∆m L = (6.83 ± 0.19) ×10−3 m
+
+
+      mL ± ∆m L = (6.83 ± 0.19) ×10−3 m
 
       and (values of l0R and l0L )
 
@@ -241,7 +257,9 @@ Task 1.5 Calculating λ .
                  2La Lb mR2 + mL2
 
        Using the suggestion to replace d = Lb − La , we can write
-       d     m R2 mL2
+
+
+       d     m R2 mL2
 λ=
      2La Lb mR2 + mL2
 

@@ -52,7 +52,7 @@ $$
 f(x, y)=3 x^{2}+2 x y, \quad \frac{\partial}{\partial x} f(x, y)=6 x+2 y, \quad \frac{\partial}{\partial y} f(x, y)=2 x
 $$
 
-![](rupho-x-2021-pe-fig01.png)
+![](../../figures/rupho-x/figures/rupho-x-2021-pe-fig01.png)
 
 А1 ${ }^{1.00}$ Выведите аналитическую зависимость $R_{\Pi}\left(T_{\text {п }}\right)$.
 A2 ${ }^{0.40}$ Определите $B_{C}$.

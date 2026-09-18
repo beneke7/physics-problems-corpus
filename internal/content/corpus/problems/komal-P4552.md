@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-A fisherman sitting in his boat drops his pipe into the water. The change in the level of the water is the same as if he drops his pipe into the water when he stands on the shore. What is the density of the pipe? 
+A fisherman sitting in his boat drops his pipe into the water. The change in the level of the water is the same as if he drops his pipe into the water when he stands on the shore. What is the density of the pipe?
  (4 pont)

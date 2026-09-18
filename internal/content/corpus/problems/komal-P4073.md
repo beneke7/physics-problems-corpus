@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-An electrometer is charged to 3 kV. Then the electrometer is touched with an - initially neutral - metal ball, mounted on an insulating rod, and then the metal ball is taken away and earthed. The process is repeated 10 times, and finally the electrometer reads 1.5 kV. After this, at least how many times must the above process be repeated in order that the electrometer reads less than 1 kV? 
+An electrometer is charged to 3 kV. Then the electrometer is touched with an - initially neutral - metal ball, mounted on an insulating rod, and then the metal ball is taken away and earthed. The process is repeated 10 times, and finally the electrometer reads 1.5 kV. After this, at least how many times must the above process be repeated in order that the electrometer reads less than 1 kV?
  (5 pont)

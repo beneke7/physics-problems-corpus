@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201105"
 verification_status: pending
 ---
 
-The gauge pressure of the tire of a car is 250 kPa at a temperature of 10 $^\circ$C. How and by what amount does this gauge pressure change if the temperature increases to 25 $^\circ$C? The ambient air pressure is 100 kPa the volume of the air in the tire cannot increase at this pressure. 
+The gauge pressure of the tire of a car is 250 kPa at a temperature of 10 $^\circ$C. How and by what amount does this gauge pressure change if the temperature increases to 25 $^\circ$C? The ambient air pressure is 100 kPa the volume of the air in the tire cannot increase at this pressure.
  (3 pont)

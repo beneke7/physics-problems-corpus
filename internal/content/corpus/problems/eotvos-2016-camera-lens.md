@@ -24,4 +24,4 @@ Két egyforma, fekete lapon kilenc-kilenc kicsi fehér pötty van. A szomszédos
 
 Becsüljük meg a megadott és a képekről lemért adatokból a közelebbi lap távolságát a lencsétől, valamint a fényképezőgép lencséjének átmérőjét!
 
-![figure](eotvos-2016-camera-lens-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2016-camera-lens-fig1.jpg)

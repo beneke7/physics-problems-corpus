@@ -42,12 +42,12 @@ and provide the expressions for $A, B$, and $C$ in terms of $T_{n}, T_{k}, c, \v
 
 ## RAPT UNITED STRTES PHYSICS TERM AIP 2006
 
-![](usapho-2006-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-2006-b2-fig01.png)
 Figure 1: Average daily sun intensity on Earth ( $23.5^{\circ}$ axis tilt) for various latifudes The vertical scale is normalized so that the intensity when the sum is overhead is 1 .
 
-![](usapho-2006-b2-fig02.png)
+![](../../figures/usapho/figures/usapho-2006-b2-fig02.png)
 Figure 2 Average dally sun intensity in College Park. with simusoidal tit The fit has equation 0.244-0.126 $\sin (2 \pi t)$.
 
-![](usapho-2006-b2-fig03.png)
+![](../../figures/usapho/figures/usapho-2006-b2-fig03.png)
 Figure 3: Actual average temperatue data at Baltunore-Washugron International Airport. The vertical line is June 30.
 Source: Wearher Underground. http://wrow wunderground.com:

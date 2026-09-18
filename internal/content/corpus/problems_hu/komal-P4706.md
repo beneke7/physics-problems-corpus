@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4706. Egy 30 cm alapú, rögzített, egyenes lejtő tetejéről súrlódás nélkül lecsúszik egy test. Legalább mennyi idő alatt ér le a lejtő aljára? 
+P. 4706. Egy 30 cm alapú, rögzített, egyenes lejtő tetejéről súrlódás nélkül lecsúszik egy test. Legalább mennyi idő alatt ér le a lejtő aljára?
  Versenyfeladat nyomán

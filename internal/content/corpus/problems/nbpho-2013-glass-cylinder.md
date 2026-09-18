@@ -25,4 +25,4 @@ techniques: []
 
 In the following figure, there is a half-cylinder, made of glass and put on a paper with stripes (the inter-stripe distance is everywhere the same). Find the coefficient of refraction of the glass.
 
-![GLASS CYLINDER](nbpho-2013-glass-cylinder-fig1.jpg)
+![GLASS CYLINDER](../../figures/nbpho/figures/nbpho-2013-glass-cylinder-fig1.jpg)

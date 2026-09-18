@@ -56,7 +56,9 @@ This question is looking for the common misconception that there is always a for
 the direction of motion, and many students did give answers indicating that they
 held this misconception. 33% of students answered this question correctly. The most
 common answer given was c.
-Australian Science Olympiads                                    2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                    2007 Physics National Qualifying Examination
 
 Question 2.
 A school bus breaks down and receives a push back to the garage from a small compact car as
@@ -113,7 +115,9 @@ Newton’s third law when acceleration is not involved.
 
 
                                              Page 2
-Australian Science Olympiads                                            2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                            2007 Physics National Qualifying Examination
 
 Question 4.
 A large bus and a small car collide and stick together. Which one undergoes the larger change
@@ -177,7 +181,9 @@ Which of the above forces is (are) acting on the ball?
 
 
                                                   Page 3
-Australian Science Olympiads                            2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                            2007 Physics National Qualifying Examination
 
 
 This question looks for two misconceptions – that there is always a force in the
@@ -189,7 +195,9 @@ next most common was d and only 20% of students chose the correct answer.
 
 
                                        Page 4
-Australian Science Olympiads                                     2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                     2007 Physics National Qualifying Examination
 
 Question 8.
 A boy is swinging a ball attached to a string around in a horizontal circle with constant speed.
@@ -237,7 +245,9 @@ significant number choosing the other options indicating guessing.
 
 
                                              Page 5
-Australian Science Olympiads                                    2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                    2007 Physics National Qualifying Examination
 
 Question 10.
 Some factories use dust precipitators in their chimneys to remove airborne pollutants. In one
@@ -274,7 +284,9 @@ students, with a scatter across the other answers.
 
 
                                              Page 6
-Australian Science Olympiads                                  2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                  2007 Physics National Qualifying Examination
 
 
                                       SECTION B
@@ -335,7 +347,9 @@ Graham’s radio has 2 speakers, separated by a distance d as shown.
                                        d
 
                                             Page 7
-Australian Science Olympiads                                           2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                           2007 Physics National Qualifying Examination
 
     c. Draw a diagram showing where there will be constructive interference between the
        sound from the two speakers when the first station (the one with the bass guitar solo)
@@ -393,7 +407,9 @@ velocity of a wave, but rather the properties of the medium. For the case of sou
 the bulk modulus and the density.
 
                                                   Page 8
-Australian Science Olympiads                                2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                2007 Physics National Qualifying Examination
 
 At part b. many students claimed that as water is more dense the waves speed up – this is
 incorrect, waves travel more slowly in a more dense medium. The sound does in fact travel
@@ -416,7 +432,9 @@ had written at part b.
 
 
                                           Page 9
-Australian Science Olympiads                                    2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                    2007 Physics National Qualifying Examination
 
 Solution to Question 12.
 
@@ -461,7 +479,9 @@ In the vertical direction
 
 
                                              Page 10
-Australian Science Olympiads                                     2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                     2007 Physics National Qualifying Examination
 
 
     d. Find expressions for Molly’s final velocity in the horizontal and vertical directions. (2
@@ -502,7 +522,9 @@ Combining these gives
 
 
                                               Page 11
-Australian Science Olympiads                                      2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                      2007 Physics National Qualifying Examination
 
 
 
@@ -541,7 +563,9 @@ answers, which implies that they did not have much idea how to attempt the quest
 
 
                                               Page 12
-Australian Science Olympiads                                                        2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                        2007 Physics National Qualifying Examination
 
 Solution to Question 13.
 
@@ -600,7 +624,9 @@ box is held firmly in place. Assume that all collisions are elastic.
           remains the same.
 
                                                         Page 13
-Australian Science Olympiads                                                    2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                    2007 Physics National Qualifying Examination
 
     c. What happens to the total momentum of the all the blobs? Why? (2 marks)
 
@@ -653,7 +679,9 @@ person holding it.
 
 
                                                        Page 14
-Australian Science Olympiads                                     2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                     2007 Physics National Qualifying Examination
 
 
     f.   Why does the balloon shoot off in the direction that it does? (2 marks)
@@ -703,7 +731,9 @@ even when their answers to the earlier parts were substantially incorrect.
 
 
                                               Page 15
-Australian Science Olympiads                                                    2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                    2007 Physics National Qualifying Examination
 
 Question 14.
 
@@ -770,7 +800,9 @@ extrapolate, no marks were given where no working was shown.
 
 
                                                          Page 16
-Australian Science Olympiads                                  2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                  2007 Physics National Qualifying Examination
 
 Question 15.
 (Graham)
@@ -835,7 +867,9 @@ lines is both proportional to the square of V, and to the square of I, is that V
 potential drop across the power lines is not the same as the voltage output of the
 power station, however the current that passes through the power station is the
                                            Page 17
-Australian Science Olympiads                                   2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                   2007 Physics National Qualifying Examination
 
 same current that passes through the power lines. As the current output of the
 power station reduces, the voltage drop across the power lines would also reduce.
@@ -882,7 +916,9 @@ the particles to gain enough energy to annihilate and produce light.
 
 
                                             Page 18
-Australian Science Olympiads                                                     2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                     2007 Physics National Qualifying Examination
 
 Question 16.
 
@@ -948,7 +984,9 @@ Solution:
 
 Solution:
                                                         Page 19
-Australian Science Olympiads                                                     2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                                     2007 Physics National Qualifying Examination
 
 
          The major sources of uncertainty in their experiment are the precision of the electricity meter and the unknown
@@ -1013,7 +1051,9 @@ Solution:
 
 
                                                         Page 20
-Australian Science Olympiads                                   2007 Physics National Qualifying Examination
+
+
+Australian Science Olympiads                                   2007 Physics National Qualifying Examination
 
 
 
@@ -1048,7 +1088,9 @@ Solution:
 
 
                                             Page 21
-               Integrity of the Competition
+
+
+               Integrity of the Competition
 To ensure the integrity of the competition and to identify outstanding
 students the competition organisers reserve the right to re-examine
 or disqualify any student or group of students before determining a

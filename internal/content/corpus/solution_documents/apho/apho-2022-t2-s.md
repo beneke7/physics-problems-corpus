@@ -56,7 +56,8 @@ of discretion rests with and a certain level of judgement is invested in the aca
 
 authors of this problem. The contributions of the Academic Committee, Academic Development Group, and the International
 Board are gratefully acknowledged.
-Solutions
+
+Solutions
 
 
                                                                                 A2-2      Oﬃcial (English)
@@ -104,7 +105,8 @@ Board are gratefully acknowledged.
                               𝜔/𝜔𝑐
                                                                                      [shape correct: 0.2]
                                                                             [only if both branches: 0.3]
-Solutions
+
+Solutions
 
 
                                                                               A2-3      Oﬃcial (English)
@@ -130,7 +132,8 @@ Board are gratefully acknowledged.
  If the shape of the plot is wrong, in that case, the following would be used. If in the detailed work,
  it is shown that 𝑁 = 𝑚𝑔 for 𝜔 < 𝜔𝑐 , 0.1 points would be provided. If it is shown that 𝑁 = 𝑚𝜔2 𝑅 for
  𝜔 ≥ 𝜔𝑐 , 0.1 points would be provided.
-Solutions
+
+Solutions
 
 
                                                                                           A2-4
@@ -188,7 +191,8 @@ Board are gratefully acknowledged.
                                                                                                  [0.2,0.2]
  Also, as 𝑉 (0) = 0, we have 𝑃 + 𝑄 = 0. Hence, 𝑃 = 𝑚𝑔𝑅
                                                                                                      [0.3]
-Solutions
+
+Solutions
 
 
                                                                              A2-5     Oﬃcial (English)
@@ -221,7 +225,8 @@ Board are gratefully acknowledged.
  Note: no penalty if the 1/4 term is missed.
  One observes that if one incorrectly expands sin 𝜃 ≈ 𝜃, in that case, only 𝑎(𝜔) will turn out to be
  correct.
-Solutions
+
+Solutions
 
 
                                                           A2-6
@@ -267,7 +272,8 @@ Board are gratefully acknowledged.
                                 𝜃
                                                              [𝜔 < 𝜔𝑐 ∶ 0.5]
                                                              [𝜔 > 𝜔𝑐 ∶ 0.5]
-Solutions
+
+Solutions
 
 
                                                                                  A2-7      Oﬃcial (English)
@@ -319,7 +325,8 @@ Board are gratefully acknowledged.
                                                                                              [0.2]
  [Note: The critical exponent is 1/2 in our case and also in Landau theory. However experimentally
  and in more elaborate theories the exponent of vanishing magnetization is 1/3].
-Solutions
+
+Solutions
 
 
                                                                                          A2-8
@@ -360,7 +367,8 @@ Board are gratefully acknowledged.
 
                                                                                                     [0.5]
  No credit will be provided is small angle approximation of 𝑉 (𝜃) is used.
-Solutions
+
+Solutions
 
 
                                                                            A2-9      Oﬃcial (English)
@@ -390,7 +398,8 @@ Board are gratefully acknowledged.
                                                                                       [𝜔 > 𝜔𝑐 ∶ 0.5]
  In the case of wrong expression of Ω0 derived in the previous part, marks would be awarded based
  on the plot of expression obtained, and physicality of the plots.
-Solutions
+
+Solutions
 
 
                                                                                   A2-10          Oﬃcial (English)
@@ -432,7 +441,8 @@ Board are gratefully acknowledged.
 
                                                                                                            [0.4]
  In case of algebraic error leading to 𝑥 = 𝜃0 − 𝛼, only 0.1 points would be deducted.
-Solutions
+
+Solutions
 
 
                                                                     A2-11            Oﬃcial (English)

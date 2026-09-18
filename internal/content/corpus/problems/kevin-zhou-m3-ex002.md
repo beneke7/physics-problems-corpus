@@ -31,7 +31,9 @@ A massless rope passes over a frictionless pulley. A monkey hangs on one side, w
 
 
                                                        3
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
 
   Solution
@@ -70,7 +72,7 @@ A massless rope passes over a frictionless pulley. A monkey hangs on one side, w
   Now transform to the frame moving with the flatcar. When the second man jumps, he
   imparts a further velocity v2 = mu/(M + m) to the flatcar by another similar argument. The
   final velocity of the flatcar relative to the ground is then
-                                                                
+
                                                      1         1
                              v = v1 + v2 = mu               +      .
                                                    M + 2m M + m
@@ -84,7 +86,9 @@ A massless rope passes over a frictionless pulley. A monkey hangs on one side, w
 
 
                                                      4
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 
@@ -105,7 +109,7 @@ A massless rope passes over a frictionless pulley. A monkey hangs on one side, w
                                             i=1
 
        This can be converted into an integral, by letting x = i/N , in which case ∆x = 1/N and
-                                              Z 1                                 
+                                              Z 1
                        X          mtot u                mtot u           M + mtot
                    v=      ∆x              ≈      dx             = log               u.
                                M + xmtot       0     M + xmtot               M

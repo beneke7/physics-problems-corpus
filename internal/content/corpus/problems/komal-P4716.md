@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201503"
 verification_status: pending
 ---
 
-A 40 cm long simple pendulum is displaced horizontally, and then it is given an initial vertically downward speed of $v_0$. What should the value of $v_0$ be, in order that the force exerted by the object on the thread is to be seven times greater when the object passes the lowermost point than that of when the object passes the uppermost point? 
+A 40 cm long simple pendulum is displaced horizontally, and then it is given an initial vertically downward speed of $v_0$. What should the value of $v_0$ be, in order that the force exerted by the object on the thread is to be seven times greater when the object passes the lowermost point than that of when the object passes the uppermost point?
  (3 pont)

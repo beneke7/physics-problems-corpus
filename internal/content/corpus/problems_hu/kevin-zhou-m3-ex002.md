@@ -29,7 +29,9 @@ Egy tömeg nélküli kötél súrlódásmentes csigán halad át. Az egyik oldal
 
 
                                                        3
-Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
 
 
   Megoldás
@@ -65,7 +67,7 @@ Egy tömeg nélküli kötél súrlódásmentes csigán halad át. Az egyik oldal
   Most térjünk át a kocsival együtt mozgó vonatkoztatási rendszerbe. Amikor a második ember leugrik, egy hasonló
   megfontolás alapján további v2 = mu/(M + m) sebességet ad át a kocsinak. A lapos kocsi talajhoz viszonyított
   végsebessége ekkor
-                                                                
+
                                                      1         1
                              v = v1 + v2 = mu               +      .
                                                    M + 2m M + m
@@ -78,7 +80,9 @@ Egy tömeg nélküli kötél súrlódásmentes csigán halad át. Az egyik oldal
 
 
                                                      4
-    Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
 
 
 
@@ -99,7 +103,7 @@ Egy tömeg nélküli kötél súrlódásmentes csigán halad át. Az egyik oldal
                                             i=1
 
        Ez integrállá alakítható, ha x = i/N , ekkor ∆x = 1/N, és
-                                              Z 1                                 
+                                              Z 1
                        X          mtot u                mtot u           M + mtot
                    v=      ∆x              ≈      dx             = log               u.
                                M + xmtot       0     M + xmtot               M

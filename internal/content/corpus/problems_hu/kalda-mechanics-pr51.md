@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nem egyenletes sűrűségű drótból készült vállfa kis amplitúdóval, az ábra síkjában rezeg. Az első két esetben a háromszög hosszabb oldala vízszintes. Mindhárom esetben azonosak a rezgés periódusidejei. Határozzuk meg a tömegközéppont helyét és a rezgés periódusidejét.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr51-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr51-fig1.jpg)

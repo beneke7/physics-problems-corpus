@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-At a certain instant the symmetry axis of the parabolic mirror of an astronomical telescope is vertical. The focal length of the mirror is $f$. At this instant the rim of the mirror is at a height of $H$ with respect to the lowest point of the mirror. A small object of mass $m$, starting from the rim of the mirror slides down on the mirror frictionlessly to the centre of the mirror. What is the force exerted by the small object at the centre of the mirror? 
+At a certain instant the symmetry axis of the parabolic mirror of an astronomical telescope is vertical. The focal length of the mirror is $f$. At this instant the rim of the mirror is at a height of $H$ with respect to the lowest point of the mirror. A small object of mass $m$, starting from the rim of the mirror slides down on the mirror frictionlessly to the centre of the mirror. What is the force exerted by the small object at the centre of the mirror?
  (5 pont)

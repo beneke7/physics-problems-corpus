@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 8. A sample of gallium nitride on silicon (GaN/Si) was prepared by depositing a thin layer of gallium nitride uniformly on a silicon wafer, as shown in Figure 8.1.
 
-![](cpho-f-2017-en-q8-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q8-fig01.png)
 Figure 8.1: A wafer of GaN/Si.
 
 (1) When a beam of light with wavelengths in the range 400 nm-1200 nm is orthogonally incident upon the GaN/Si wafer, and the reflected light measured, we observe that two particular wavelengths are amplified by thin-film interference, one of which is 600 nm. The relationship between the refractive index $n$ of the GaN and the wavelength $\lambda$ of incident light from a vacuum, i.e. the dispersion relation, is given by
@@ -33,12 +33,12 @@ $$
 whereas the refractive index of silicon is within the range 3.49-5.49. By considering reflection at the GaN surface and the GaN/Si interface, determine the thickness of the GaN layer and the value of the second amplified wavelength.
 (2)On the other side of the wafer, two kinds of spectrum-selective materials are coated uniformly on each half of the wafer, as shown in Figure 8.2. For light whose wavelength is a certain value, the coating on the left half is completely absorbent, while that on the right half is completely reflective.
 
-![](cpho-f-2017-en-q8-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q8-fig02.png)
 Figure 8.2: A coated GaN/Si wafer.
 
 As shown in Figure 8.3, we suspend the wafer from a fixed support with two strings whose lengths are both $a$ such that the strings are vertical. The wafer has length $a$ and width $b$, and is allowed to rotate about the axis $O O^{\prime}$, which causes it to move up and down simultaneously. The wafer is
 
-![](cpho-f-2017-en-q8-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q8-fig03.png)
 Figure 8.3: A schematic of the suspended wafer.
 
 initially at rest. We shine a strong laser beam whose wavelength has the aforementioned property on the spectrum-sensitive coating such that the light is orthogonally incident upon and uniformly distributed over the surface of the wafer, and wait until the wafer has rotated about $O O^{\prime}$ to a position where it is stationary again. The direction of the beam remains unchanged throughout the process. The coating is illuminated at all times. We neglect the effects of the radiation on the thin edges of the wafer.

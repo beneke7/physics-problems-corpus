@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5595. Két, kis nyílásszögű, $f$ fókusztávolságú homorú tükröt tükröző felületeikkel szemben úgy helyezünk el, hogy optikai tengelyeik egybeessenek, és egymástól való távolságuk $2f$ legyen (lásd ábra ). 
+P. 5595. Két, kis nyílásszögű, $f$ fókusztávolságú homorú tükröt tükröző felületeikkel szemben úgy helyezünk el, hogy optikai tengelyeik egybeessenek, és egymástól való távolságuk $2f$ legyen (lásd ábra ).
 
  A közös optikai tengelyre hová helyezzük a $T$, pontszerűnek tekinthető fényforrást, hogy a belőle induló fénysugarak a két tükörről való visszaverődés után a $T$ ponton menjenek át?
 
-![figure](../../raw_html/komal_figures/komal-P5595-fig1.png)
+![figure](../../figures/komal/figures/komal-P5595-fig1.png)

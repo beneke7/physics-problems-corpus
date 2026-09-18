@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3884. Egy edényben levő víz tetejére olajat rétegeztünk. Az olaj sűrűsége a víz sűrűségének 70%-a. Egy fahasáb úgy úszik az edényben, hogy térfogatának fele a vízbe, negyedrésze pedig az olajba merül. Mennyi a fahasáb anyagának sűrűsége? 
+P. 3884. Egy edényben levő víz tetejére olajat rétegeztünk. Az olaj sűrűsége a víz sűrűségének 70%-a. Egy fahasáb úgy úszik az edényben, hogy térfogatának fele a vízbe, negyedrésze pedig az olajba merül. Mennyi a fahasáb anyagának sűrűsége?
  Tarján Imre fizikaverseny, Szolnok

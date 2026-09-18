@@ -36,7 +36,6 @@ ahol a mozgás periódusa 2π/ω. Az energiamegmaradás alapján
                                             m     dq
                                      dt =     p           .
                                             2 E − V (q)
-23 1. Klasszikus mechanika
 
 
 Egyetlen pályán integrálva
@@ -92,8 +91,7 @@ Most az adiabatikus invariánsokra térünk át.
                             ∂λ E   2π       ∂λ E      2π           ∂λ E ∂p λ,q
 
     ahol Hamilton egyenleteit alkalmaztuk, és elhanyagoltuk a végpontok változásából származó magasabb rendű tagot.
-    
-24 1. Klasszikus mechanika
+
 
 
   • Az integrandus egyszerűsítéséhez legyen H(q, p(q, λ, E), λ) = E, és E állandó értéken deriváljunk λ szerint.
@@ -107,7 +105,7 @@ Most az adiabatikus invariánsokra térünk át.
                                              =−             dt′ .
                                        ∂λ E      2π    ∂λ E
     Végül ezt az első eredménnyel kombinálva kapjuk:
-                                                     Z             
+                                                      Z
                                              ∂H          ∂H       ′    λ̇
                                 I˙ = T (λ)          −          dt         .
                                              ∂λ E        ∂λ E         2π

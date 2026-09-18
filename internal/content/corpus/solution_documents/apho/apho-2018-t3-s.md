@@ -69,7 +69,8 @@ Thermocouple consists of two subsystems: a) the conducting electron gas that per
 themodynamic cycle; b) Nuclei and bounded electrons of the bar crystal that oscillate around
 
                                                    Page 1
-equillibrium positions at finite temperature and participate in heat conduction process. If the
+
+equillibrium positions at finite temperature and participate in heat conduction process. If the
 resistance of the thermocouple is neglected, these two subsystems may be considered as
 noninteracting, the electron gas exchanges heat only with the heat source at T1 and the heat sink at
 T2 , performing the ideal Carnot cycle.
@@ -123,7 +124,8 @@ A3.2.     The efficiency of the thermoelectric generator is
 
 
                                                 Page 2
-                     T1  T2           T1  T2                                         0.25
+
+                     T1  T2           T1  T2                                         0.25
                I                                      .                            (A20)
                       RL  R             1  m  R
           Substituting (A20) into (A19) we obtain the expession for the efficiency
@@ -185,7 +187,8 @@ A4.3.     Using (A25), (A26) we obtain the maximum efficiency of the thermoelect
 
 
                                                                 Page 3
-A5. The maximum figure of merit
+
+A5. The maximum figure of merit
 A5.1     According to (A22) Z takes the maximum value Z  Z m when KR  y is
 0.5
                                                                 S
@@ -249,7 +252,8 @@ A6.2      The maximum efficiency of the thermoelectric generator designed from A
 
 
                                                                     Page 4
- B. Thermoelectric refrigerator
+
+ B. Thermoelectric refrigerator
  B1. The cooling power and the maximum temperature difference
   B1.1    For cooling purpose we choose the current direction so that heat is absorbed at                              0.25
   0.25pt upper junction (temperature T1) due to Peltier effect and transferred to the A & B
@@ -308,7 +312,8 @@ B2. The working current
 
 
                                                                Page 5
-B3. The coefficient of performance
+
+B3. The coefficient of performance
 B3.1     According to the energy conservation law, the power supplied by the electrical
 0.5pt    source P equals to the Joule heat plus Peltier’s heat taken away in thermocouple
          per unit of time:

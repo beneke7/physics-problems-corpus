@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: flagged
 ---
 
-What quantity of charge and into which direction moves through the piece of conductor AB , if the switch is closed? 
+What quantity of charge and into which direction moves through the piece of conductor AB , if the switch is closed?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4122-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4122-fig1.gif)

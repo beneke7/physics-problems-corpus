@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [exploit-symmetry, superposition]
 ---
 
-A triangle is made from thin insulating rods of different lengths, and then the rods are charged uniformly. (The charge density along the rods is the same.) Where will the electric field strength be zero? 
+A triangle is made from thin insulating rods of different lengths, and then the rods are charged uniformly. (The charge density along the rods is the same.) Where will the electric field strength be zero?
  (6 pont)

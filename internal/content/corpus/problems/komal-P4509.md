@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: pending
 ---
 
-How long is the shadow of a 1 m long rod which is fixed perpendicularly to the ground at the equator 
- a ) at noon, on the 21-st of March; 
- b ) 2 hours later after noon on the 21-st of March? 
+How long is the shadow of a 1 m long rod which is fixed perpendicularly to the ground at the equator
+ a ) at noon, on the 21-st of March;
+ b ) 2 hours later after noon on the 21-st of March?
  (3 pont)

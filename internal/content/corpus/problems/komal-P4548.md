@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-A metal sphere is initially charged to a potential difference of U $_{0}$, and is hung by a totally insulating thread. Then it is left in the air of resistivity . How long does it take that the voltage of this condenser decreases to U $_{0}$/2? 
+A metal sphere is initially charged to a potential difference of U $_{0}$, and is hung by a totally insulating thread. Then it is left in the air of resistivity . How long does it take that the voltage of this condenser decreases to U $_{0}$/2?
  (5 pont)

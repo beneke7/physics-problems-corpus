@@ -52,7 +52,9 @@ Section A: Amusing Airport Adventures (13 marks)
           to do the return journey. (1 mark)
 
  Total                                                                            7.0
-Section B: Rainy Day Radar (38 marks)
+
+
+Section B: Rainy Day Radar (38 marks)
   1. Answer: 48 km
      (distance = 3.00x10^8m/s /0.32ms)
 
@@ -98,7 +100,9 @@ interphases)
    6. Answer: Areas with hail will have greater intensity and areas of heavy rain witll also reflect a
        greater proportion of the beam and therefore have a higher intensity.
 Areas with hail will have greater intensity                                        +1.0
-areas of heavy rain will also reflect a greater proportion of the beam and           +1.0
+
+
+areas of heavy rain will also reflect a greater proportion of the beam and           +1.0
 therefore have higher intensity
 No mention of air-water interfaces between droplets                                  -0.5
                                                                                      Total 2.0
@@ -132,7 +136,9 @@ Correct relative peak sizes: rain peak significantly smaller is +1.0 but if rain
 peak slightly smaller give +0.5
 Lose ½ mark from total if no justification for peak sizes or sharpness is given      -0.5
                                                                                      Total = 3.0
-  9. Answer:
+
+
+  9. Answer:
 
 
 
@@ -165,7 +171,9 @@ Lose ½ mark from total if no justification for peak sizes or sharpness is given
       radar is not normally incident on water droplets. The pulse therefore takes longer to reach the
       radar, so is detected as being behind the real rain (see below picture). This only occurs for a
       small proportion of the pulse, and therefore appears with a lower intensity i.e. light rain. This
-        phenomenon only occurs for heavy rain, as for light rain the signal will be too small to be
+
+
+        phenomenon only occurs for heavy rain, as for light rain the signal will be too small to be
         detected.
 
 
@@ -210,7 +218,9 @@ marks.
  5.596641008 GHz (forget to convert from hours to seconds)                             0.5/1.0
  5.59999664 GHz (forget to convert all units)                                          0.3/1.0
  5.599999999 GHz (forget to convert from km to m)                                      0.5/1.0
-  15. Answer: The precipitation is located at three different distances from the radar.
+
+
+  15. Answer: The precipitation is located at three different distances from the radar.
 The precipitation is located at three different distances from the radar.           1.0/1.0
 
    16. Answer: 5.600000388 GHz
@@ -223,7 +233,9 @@ The precipitation is located at three different distances from the radar.       
 
     18. Answer: B
 B                                                                                  1.0/1.0
-Units automarked
+
+
+Units automarked
 
 
 
@@ -251,7 +263,9 @@ Section C: Bounce-back Beam Biopsy (37 marks)
        Using energy conservation somewhere                                 +1.0
        Partial (correct working)                                           +1.0
        Correct answer                                                      4.0/4.0
-     Small minus sign errors that cause deviation from correct answer,     3.0/4.0
+
+
+     Small minus sign errors that cause deviation from correct answer,     3.0/4.0
      but working otherwise correct
 
 4. Answer: We take the + sign for backwards scattering angles, i.e. when the incident particle is
@@ -306,7 +320,9 @@ Section C: Bounce-back Beam Biopsy (37 marks)
     Answering yes                                                          +1.0
     Mentioning ratio of magnesium ion, correct reasoning                   +1.0
     Total                                                                  2.0
-9. Solution:
+
+
+9. Solution:
 
 
 
@@ -328,12 +344,16 @@ Section C: Bounce-back Beam Biopsy (37 marks)
      Total                                                               4.0
 
 11. Solution:
-Each correct oxygen and iron energy calculation               +0.5 each = +1.0
+
+
+Each correct oxygen and iron energy calculation               +0.5 each = +1.0
 Thought process of finding scattering ratios                  +1.0
 Each correct ratio                                            +1.0 each = +3.0
 Correctly identified: 1: Wustite, 2: Hematite, 4: Magnetite   +1.0
 Total                                                         6.0
-Section D: Seeing Secchis (21 marks)
+
+
+Section D: Seeing Secchis (21 marks)
 
   1. Solution: 2d (1 mark)
 
@@ -382,14 +402,18 @@ Choosing option c                                                              +
 Explanation for why c is correct (it is the only option that increases         +2.5
 contrast)
 Total                                                                          3.0
-  9. Solution: -20% (1 mark)
+
+
+  9. Solution: -20% (1 mark)
   10. Solution: Extrema (𝑅𝑓 = 0.16) is 𝜇 = 0.75/m, uncertainty Δ𝜇 = ±0.03/m [4%]
 Extrema correct                                                          +0.5
 No units: -0.25
 Uncertainty correct:                                                     +0.5
 No units: -0.25
 Total                                                                    1.0
-I
+
+
+I
 
 
 
@@ -416,7 +440,9 @@ Section E: Trailer-Towing Truck (9 marks)
         Total                                             1.0
 
     3. Solution: 2.23m
-    Forces balanced in each direction                                   +0.5 each = +1.0
+
+
+    Forces balanced in each direction                                   +0.5 each = +1.0
     Correct length                                                      2.0/2.0
 
     If length = 1.23m then didn’t add natural length, give 1.5 marks

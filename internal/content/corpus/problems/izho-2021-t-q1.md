@@ -27,7 +27,7 @@ Problem 1 (10.0 points)
 This problem consists of three independent parts.
 Problem 1.1 (4.0 points)
 Water of mass density $\rho=1.00 g / s m^{3}$ is poured into a vertical $U$-shaped tube of small constant cross-section $s=8.00 s m^{2}$, such that the total length of water in both legs is $l=50.0 s m$. Two pistons are placed into one leg of the tube with the spring of stiffness $k=1.00 \mathrm{~N} / \mathrm{m}$ in between. The pistons are watertight and can slide along the tube without friction. At the initial moment, a weight of mass $m=10.0 g$ is placed on the upper piston. Determine the possible frequencies of small harmonic vibrations of the system near a new equilibrium position. The mass of the pistons and the spring can be neglected, the acceleration of gravity is equal to $g=9.80 m / s^{2}$.
-![](izho-2021-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2021-t-q1-fig01.png)
 Consider water as an ideal incompressible liquid.
 
 ## Problem 1.2 (3.0 points)
@@ -36,4 +36,4 @@ Some insects, such as water striders, are capable of moving freely on the water 
 
 Problem 1.3 (3.0 points)
 The electrical circuit shown schematically in the figure consists of three capacitors with capacities $C_{1}, C_{2}$ and $C_{3}$, a coil of inductance $L$ and a source of constant voltage $U_{0}$. At the initial moment of time, the capacitors are not charged, and the current in the coil is zero. The switch $K$ is shorted. Find the maximum current $I_{\text {max }}$ through the coil and determine the minimum voltage $U_{\text {min }}$ across the capacitor $C_{2}$. Assume that the resistance of the connecting wires is rather small.
-![](izho-2021-t-q1-fig02.png)
+![](../../figures/izho/figures/izho-2021-t-q1-fig02.png)

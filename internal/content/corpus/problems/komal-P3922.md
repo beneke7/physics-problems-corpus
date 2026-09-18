@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200610"
 verification_status: pending
 ---
 
-How much energy is needed to split the nucleus of a into four alpha-particles. 
+How much energy is needed to split the nucleus of a into four alpha-particles.
  (4 pont)

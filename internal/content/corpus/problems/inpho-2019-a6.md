@@ -33,7 +33,7 @@ d U=C_{V} d T+\left\{T\left(\frac{d P}{d T}\right)_{V}-P\right\} d V
 $$
 As indicated in the above expression, the derivative of pressure is taken at constant volume.
 We take one mole of the gas $(n=1)$ through a Diesel cycle (ABCDA) as shown in the following $P-V$ diagram (diagram is not to scale). During the whole cycle assume that the molar heat capacity at constant volume ( $C_{V}$ ) remains constant at $3 R / 2$. Path AB and CD are reversible adiabats.
-![](inpho-2019-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2019-a6-fig01.png)
     (a) Obtain the temperature at $\mathrm{B}\left(T_{\mathrm{B}}\right)$ in terms of temperature at $\mathrm{A}\left(T_{\mathrm{A}}\right), V_{\mathrm{A}}, V_{\mathrm{B}}$ and constants only.
 $$
 T_{\mathrm{B}}=
@@ -46,6 +46,6 @@ $$
 $$
     (d) Draw the corresponding $T-S$ (entropy) and $V-T$ diagram for the Diesel cycle. Wherever possible, mention the numerical values of $T, V$, and $S$ on the diagrams.
 
-![](inpho-2019-a6-fig02.png)
+![](../../figures/inpho/figures/inpho-2019-a6-fig02.png)
 
 Detailed answers can be found on page numbers:

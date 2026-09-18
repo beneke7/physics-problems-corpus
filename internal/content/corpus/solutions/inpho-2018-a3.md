@@ -63,11 +63,11 @@ n+1 − I0
 n = (In − In+1) − (In−1 − In) = 2In − In+1 − In−1
 So that Eq. (2) becomes
 In+1 −
-
+
 2 +
 r
 R
-
+
 In + In−1 = 0 (3)
 which is the required recursion relation.
 (c) [4] Solve this for the special case R = r to obtain In and I0
@@ -97,16 +97,16 @@ I2 = I1
 R
 R + X
 = I0
-
+
 R
 R + X
-2
+ 2
 (see the figure to the right)
 Hence In = I0
-
+
 R
 R + X
-n
+ n
 For r = R, In = I0
 3 −
 √
@@ -268,18 +268,18 @@ where ρ2,1 = 3±
 √
 5
 2 . Thus B = −A
-
+
 ρ1
 ρ2
-N+1
+ N+1
 and thus
 In = A ρn
 1 − ρn
 2
-
+
 ρ1
 ρ2
-N+1
+ N+1
 !
 and thus
 In
@@ -288,17 +288,17 @@ IN
 ρn
 1 − ρn
 2
-
+
 ρ1
 ρ2
-N+1
+ N+1
 ρN
 1 − ρN
 2
-
+
 ρ1
 ρ2
-N+1
+ N+1
 =
 ρ1ρ2
 ρ2 − ρ1

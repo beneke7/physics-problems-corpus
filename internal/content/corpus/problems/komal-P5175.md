@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, scaling-and-dimensional-analysis]
 ---
 
-The wheelbase (distance between the axles of the front and the rear wheels) of a car is 2.6 m and its track width is 1.8 m. (The track width is measured as the distance between the centres of the tread areas of the tires of the two front or two rear wheels when the car is moving along a straight line.) The car completes a whole circle on a level road which is covered with fresh snow. How many car tire traces can be observed in the snow? What is the diameter of each circular trace if the diameter of the smallest circle is 16 m? 
+The wheelbase (distance between the axles of the front and the rear wheels) of a car is 2.6 m and its track width is 1.8 m. (The track width is measured as the distance between the centres of the tread areas of the tires of the two front or two rear wheels when the car is moving along a straight line.) The car completes a whole circle on a level road which is covered with fresh snow. How many car tire traces can be observed in the snow? What is the diameter of each circular trace if the diameter of the smallest circle is 16 m?
  (4 pont)

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [graphical-reduction, auxiliary-unknowns]
 ---
 
-A calorimeter contains a mixture of ice and water. The calorimeter is heated at a constant power and the temperature of its contents is measured and plotted against time (see the figure ). 
+A calorimeter contains a mixture of ice and water. The calorimeter is heated at a constant power and the temperature of its contents is measured and plotted against time (see the figure ).
 
- At the end of the measurement, there was 850 ml of water in the calorimeter. Determine the heating power of the calorimeter and the initial amount of ice in it. 
+ At the end of the measurement, there was 850 ml of water in the calorimeter. Determine the heating power of the calorimeter and the initial amount of ice in it.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G867-fig1.gif)
+![figure](../../figures/komal/figures/komal-G867-fig1.gif)

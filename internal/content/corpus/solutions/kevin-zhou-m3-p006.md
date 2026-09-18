@@ -52,7 +52,7 @@ made in this problem, the downward velocity of the sand’s center of mass is co
 decreasing (because the height difference between the tops of the sand in the two halves is
 decreasing), so the weight is more than W. But the difference is extremely small, since this
 acceleration is spread over the entire time sand is falling.
-[3] Problem 7.  ^ 1 0USAPhO 2018, problem A1.
+[3] Problem 7.   ^ 1 0USAPhO 2018, problem A1.
 [3] Problem 8 (Kalda). A block is on a ramp with angle α and coefficient of friction µ > tanα. The
 ramp is rapidly driven back and forth so that its velocity vector u is parallel to both the slope and
 the horizontal and has constant modulus v.
@@ -142,10 +142,10 @@ The integral can be done straightforwardly using either the cosine double angle 
 decomposing into complex exponentials, yielding 8/3, so
 F = (2nmV 2
 )(LR)
-
+
 4
 3
-
+
 .
 Compare this to the answer to part (a). The force is quadratic in V for the same reason, but
 now the area is replaced by an effective area (4/3)LR. This is slightly less than the actual
@@ -253,4 +253,4 @@ v1v2(v2
 2)
 v1 + v2
 = 23.5km/h.
-[3] Problem 11.  m 1 0USAPhO 2016, problem B1.
+[3] Problem 11.   m 1 0USAPhO 2016, problem B1.

@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az ábrán látható áramkör kapcsaira kapcsolt terhelésen disszipálható maximális teljesítményt (a teljesítmény a terhelés ellenállásától függ; ennek a függésnek a maximumát kell meghatározni).
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr10-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr10-fig1.jpg)

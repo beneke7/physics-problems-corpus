@@ -37,5 +37,5 @@ $$
 
 A plane sound wave is normally incident on a coated surface as shown to the right. At surface 1, the wave is both transmitted and reflected. The reflected and transmitted waves have equal amplitudes. All of the wave reaching surface 2 is reflected. Assume the wave does not shift phase on reflection at either surface. In air, the wave has frequency $f$, wavelength $\lambda$, and speed $v_{\mathrm{s} 0}=340 \mathrm{~m} / \mathrm{s}$. In the material of thickness $t=0.200 \mathrm{~m}$, the wave has speed $v_{\mathrm{sm}}=1020 \mathrm{~m} / \mathrm{s}$.
 (4) d. In terms of $f$ and $\lambda$ (the frequency and wavelength in air). what are the frequency and wavelength of the sound in the material?
-![](usapho-2001-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2001-a3-fig01.png)
 (8) e. List all frequencies smaller than $10,000 \mathrm{~Hz}$ for which the reflected sound intensity is a minimum?

@@ -47,7 +47,6 @@ have considered before,
                                      1                                          g
                             H=         (p − qA)2 + qϕ − µ · B,               µ = µσ.
                                     2m                                          2
-187 7. Angular Momentum
 
 
 This is called the Pauli Hamiltonian and the resulting evolution equation is the Pauli equation. In

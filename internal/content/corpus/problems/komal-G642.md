@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates]
 ---
 
-A wheel of radius $R$ is rolling without slipping along the inner circumference of a circle of radius $2R$. What is the path of a point on the rim of the small wheel? 
+A wheel of radius $R$ is rolling without slipping along the inner circumference of a circle of radius $2R$. What is the path of a point on the rim of the small wheel?
  (3 pont)

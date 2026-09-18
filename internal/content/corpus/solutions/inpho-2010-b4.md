@@ -71,12 +71,12 @@ ii. It is the self inductance energy (1/2 Li2
 and/or
 iii. Poynting vector argument can also show that it is magnetic energy.
 (2πRl)
-
+
 1
 µ0
 R
 Ē × B̄dt
-
+
 = K ′
 − K =
 −B2

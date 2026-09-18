@@ -38,7 +38,9 @@ solution_language: en
 
 
                                                          12
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
      (c) On a related note, a particle on a spring of spring constant k has average energy kB T by the

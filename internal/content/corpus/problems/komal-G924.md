@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [cross-domain-analogy, limiting-and-special-cases]
 ---
 
-A person wearing $+6$ dioptre contact lenses borrows a pair of $+2$ dioptre glasses and puts them on over their contact lenses. Under what circumstances, if any, would this be reasonable? Or is it completely pointless? 
+A person wearing $+6$ dioptre contact lenses borrows a pair of $+2$ dioptre glasses and puts them on over their contact lenses. Under what circumstances, if any, would this be reasonable? Or is it completely pointless?
  (4 pont)

@@ -29,4 +29,4 @@ Heat resistivity is equal to the ratio of the temperature difference between the
 
 2) A wire is made of different alloys, its heat resistivity $\rho$ as a function of the coordinate along the wire is given in the attached graph. The cross-section area of the wire is $S=1 \mathrm{~mm}^{2}$, its length $l=4 \mathrm{~cm}$. Find the heat flux through the wire, if one end of the wire is kept at the temperature 100°C, and the other end at 0°C.
 
-![figure](../../sources/nbpho/figures/2003-p1-f1.png)
+![figure](../../figures/nbpho/figures/2003-p1-f1.png)

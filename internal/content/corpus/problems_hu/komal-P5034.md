@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5034. Mennyi ideig esett egy $v_0$ kezdősebességgel vízszintesen elhajított test, amíg az eldobás helyétől $s$ távolságra került? (A légellenállástól tekintsünk el!) 
+P. 5034. Mennyi ideig esett egy $v_0$ kezdősebességgel vízszintesen elhajított test, amíg az eldobás helyétől $s$ távolságra került? (A légellenállástól tekintsünk el!)
  Adatok: $v_0=5$ m/s, $s=20$ m.

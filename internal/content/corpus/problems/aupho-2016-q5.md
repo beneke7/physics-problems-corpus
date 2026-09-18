@@ -25,7 +25,7 @@ techniques: [smart-coordinates, extremization]
 
 Question 5
 The Earth and the Moon both exert gravitational forces on objects in their vicinity. Imagine a line joining the Earth to the Moon, and extending to either side, as shown below (not to scale). Consider placing an object along this line. Where along this line is the net gravitational force on the object due to the Earth and the Moon equal to zero?
-![](aupho-2016-q5-fig01.png)
+![](../../figures/aupho/figures/aupho-2016-q5-fig01.png)
 
 a. On the far side of the Earth from the Moon.
 b. Between the Earth and the Moon, but closer to the Earth than to the Moon.

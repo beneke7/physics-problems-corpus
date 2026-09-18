@@ -9,5 +9,5 @@ difficulty: M
 verification_status: pending
 ---
 
-M. 431. Mérjük meg a zselatin törésmutatóját! 
+M. 431. Mérjük meg a zselatin törésmutatóját!
  Példatári mérés nyomán

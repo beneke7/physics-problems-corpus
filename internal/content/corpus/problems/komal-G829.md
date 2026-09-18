@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-According to Kepler's second law, the ray from the Sun to the planet will sweep out equal areas during equal time intervals. Determine how many $\mathrm{km}^2$ the ray from the Sun to the Earth sweeps in each second. 
+According to Kepler's second law, the ray from the Sun to the planet will sweep out equal areas during equal time intervals. Determine how many $\mathrm{km}^2$ the ray from the Sun to the Earth sweeps in each second.
  (3 pont)

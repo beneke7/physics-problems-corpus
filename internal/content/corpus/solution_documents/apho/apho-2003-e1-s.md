@@ -111,7 +111,8 @@ An alternative method:
                    = ⎜R +⎜    ⎟ ⎟⎟ 2
                 V2   ⎜
                      ⎝   ⎝ ωC ⎠ ⎠ ε0
-                   1   ⎡ ⎛ 1 ⎞2 1 ⎤ 2                          2               2 ⎛ 1 ⎞ 1
+
+                   1   ⎡ ⎛ 1 ⎞2 1 ⎤ 2                          2               2 ⎛ 1 ⎞ 1
                                                                                           2
                      = ⎢1 + ⎜  ⎟ 2⎥                       =               +
                   V2   ⎢⎣ ⎝ ωC ⎠ R ⎥⎦ ε 2                     ε   0
@@ -180,7 +181,8 @@ e) (1.5 points):good graph             (0.5 point): correct value
 
       0.00                                                                                         R (Ω)
              0            1000      2000       3000       4000                5000        6000
-                                       1         1
+
+                                       1         1
 R at Pmax = 1600Ω ⇒ C =                  =                = 1.9 × 10− 6 F = 1.9 µ F
                                       ωR   2π × 50 × 1600
 
@@ -241,7 +243,8 @@ slope = a = 0.004 × 106 Ω/W , Y-intercept = b = 0.0015 (ΩW)-1 :
      ω C
        2 2
                b             ω a
-An alternative method of linear graph
+
+An alternative method of linear graph
                                  V2                             ⎛R⎞
                                                                     2
 

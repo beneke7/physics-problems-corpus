@@ -70,7 +70,8 @@ SOLUTION to Part B of Experimental Competition, APhO 2002
                             0
                              0   1/2   1        1 1/2       2           2 1/2        3            3 1/2   4       4 1/2
                                                                   Multiple
-Expt 2 : Sub-multiple frequencies
+
+Expt 2 : Sub-multiple frequencies
 
 
                                                                    No. of
@@ -123,7 +124,8 @@ SOLUTION to Part B of Experimental Competition, APhO 2002
                              0.0
                               0          1/5               2/5             3/5               4/5       1        1 1/5
                                                                   Sub-Multiple
-                                   Expt 3 : Determination of X
+
+                                   Expt 3 : Determination of X
 
 
                                  Weight        Frequency        Period (T)           T2
@@ -178,7 +180,8 @@ Period Square, T^2(us^2)
                       Best fit slope = 230/40.5 = 5.7 µs2/g
 
                       Value of X = 12 8 g
-Evaluation Guidelines
+
+Evaluation Guidelines
 
 Step 1:   (a) Fundamental synchronism frequency (0.5 mark)
           (b) Accuracy and adequacy of other data points (1.3 marks)
@@ -194,7 +197,8 @@ Step 3: (a) Frequency of unloaded fork (0.5 mark)
         (c) Tabulation, graph and good values for slope and intercept (2.2
             marks)
         (d) Determination of X (0.8 mark)
-     APhO 2002 Part B Mark Sheet: The Stroboscope
+
+     APhO 2002 Part B Mark Sheet: The Stroboscope
 
 
                Country                       Student No.            Ttl No. of Pages
@@ -247,4 +251,5 @@ Step 3: (a) Frequency of unloaded fork (0.5 mark)
                                                                 12-14g: 8 marks, else
                 (d) Determination of X           8              10-16g: 6 marks, else
                                                                  8-18g: 3 marks, else 0
-TOTAL   50   Normalised =
+
+TOTAL   50   Normalised =

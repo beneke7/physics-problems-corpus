@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 201605"
 verification_status: pending
 ---
 
-A vertical plane mirror is rotating uniformly about a vertical axis, completing 300 rotations in each minute. A horizontal beam of laser light is incident on the mirror. 
- Determine the angular speed of the reflected beam. 
+A vertical plane mirror is rotating uniformly about a vertical axis, completing 300 rotations in each minute. A horizontal beam of laser light is incident on the mirror.
+ Determine the angular speed of the reflected beam.
  (3 pont)

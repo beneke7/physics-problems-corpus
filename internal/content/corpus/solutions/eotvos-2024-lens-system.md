@@ -135,14 +135,14 @@ f2
 1
 f2
 2
-
+
 d−2f2 +
 f2
 2
 f2
 1
 x1
-
+
 = −
 f2
 1
@@ -161,13 +161,13 @@ f2
 Látható, hogy az egyenletből kiesik az x1 változó, azaz tetszőleges helyre helyezve
 a tárgyat, annak képe a négy lencsén történő leképezés után éppen a tárgy helyén
 lesz. Az egyenletet tovább alakítva:
-
+
 f2
 1
 f2
 2
 −1
-
+
 d = 2f2
 f2
 1
@@ -394,10 +394,10 @@ lőtlenségnek. A második kép helye végül:
 B
 C
 x =
-
+
 f2
 f1
-2
+ 2
 x.
 A β) megoldásról megmutatjuk, hogy fordított képet ad, ezért nem felel meg a
 feladat leírásának. A kép annyiszor fordul meg az eszközben, ahány valódi, ernyőn

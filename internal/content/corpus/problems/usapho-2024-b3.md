@@ -53,7 +53,7 @@ Using this data, find the numeric values of $Q$ and $\omega_{0}$ as accurately a
 
 Using this data, find the numeric values of $Q$ and $\omega_{0}$ as accurately as possible. (Hint: you may use the graph paper in the answer sheets, but full credit is attainable without graphing. To find $Q$, you should first find $\omega_{0}$, then simplify the equation above using $\omega \approx \omega_{0}$.)
 c. The gain function of this circuit is defined as $G=V_{R} / V_{0}$, where $V_{R}$ is the amplitude of the voltage across the resistor, as shown below.
-![](usapho-2024-b3-fig01.png)
+![](../../figures/usapho/figures/usapho-2024-b3-fig01.png)
     i. Find an expression for $G$ in terms of $\omega, \omega_{0}$, and $Q$.
     ii. This setup can be used to reject voltages at certain frequencies. Qualitatively describe the range(s) of frequencies for which $G$ is small.
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201603"
 verification_status: pending
 ---
 
-By means of devices at home measure your vital capacity. (This is the maximum volume of air at atmospheric pressure which can be expelled from your lungs after a maximum inhalation.) 
+By means of devices at home measure your vital capacity. (This is the maximum volume of air at atmospheric pressure which can be expelled from your lungs after a maximum inhalation.)
  (6 pont)

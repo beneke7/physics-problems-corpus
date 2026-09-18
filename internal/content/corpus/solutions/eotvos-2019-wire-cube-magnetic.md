@@ -32,7 +32,7 @@ dt
 τ
 ,
 ahol felhasználtuk, hogy a mágneses tér irányára mer®leges lapokon átmen®, kezdeti a2
-Bx,0 nagyságú 
+Bx,0 nagyságú
 uxus τ id®
 alatt sökken nullára.
 3. ábra
@@ -87,7 +87,7 @@ P = 8R I2
 x + I2
 y + I2
 z
-
+
 .
 A keletkez® Joule-h®t az el®bb kiszámított teljesítmény és a τ id® szorzataként számolhatjuk. Az Ix, Iy, Iz áramer®s-
 ségekre korábban levezetett eredmények felhasználásával kapjuk a következ®t:

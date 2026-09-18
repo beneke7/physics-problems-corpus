@@ -24,12 +24,12 @@ source_role: explanatory_example
 
 Példa. A ponttöltés tere gömbszimmetrikus, és az origó kivételével ∇2 ϕ = 0.
 A ϕ ∝ 1/r alakot felvéve
-                                       
+
                                         1     −∇r       r
                                    ∇       = 2 = − 3.
                                         r       r       r
 Ezután a szorzási szabállyal kiszámíthatjuk a divergenciát:
-                                                          
+
                          2 1          ∇ · r 3r̂ · r       3  3
                        ∇       =−          − 4        =− 3 − 3 =0
                             r          r3      r          r r

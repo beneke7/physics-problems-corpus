@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry, differential-element]
 ---
 
-opposite direction. A rectangle-shaped loop of wire is placed in the plane of the two wires at a distance of $d=\ell-b$ from one of the wires, first in position 1 and next in position 2, shown in the figure. The sides of the rectangle are $a$ and $b$, where $0<a-b<\ell$. In which case will the flux linkage of the loop be greater? 
+opposite direction. A rectangle-shaped loop of wire is placed in the plane of the two wires at a distance of $d=\ell-b$ from one of the wires, first in position 1 and next in position 2, shown in the figure. The sides of the rectangle are $a$ and $b$, where $0<a-b<\ell$. In which case will the flux linkage of the loop be greater?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5279-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5279-fig1.gif)

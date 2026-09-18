@@ -26,7 +26,6 @@ Példa. Oxigén. Az elektronkonfiguráció 1s2 2s2 2p4 . Ez valójában könnyeb
 Megjegyzés. Az első eset, amikor a H0 alapállapota degenerált LS-multiplettjelekhez vezet, három d-elektron esete; ez először a vanádiumban, Z = 23 esetén fordul elő. Ennél bonyolultabb rendszerekben a válasz meglehetősen körülményes, ezért standard táblázatokhoz fordulunk.
 
 10.6    Kémia
-247 11. Időfüggő perturbációelmélet
 
 
 11     Időfüggő perturbációelmélet
@@ -65,7 +64,7 @@ Kezdetként a kvantummechanikai „képeket” (vagy „vonatkoztatási kereteke
                                              iℏ          = HS (t)U (t)
                                                    ∂t
      megkapjuk a Heisenberg-féle mozgásegyenletet:
-                                                                                  
+
                                    dAH (t)                               ∂AS (t)
                               iℏ           = [AH (t), HH (t)] + iℏ                         .
                                      dt                                    ∂t          H

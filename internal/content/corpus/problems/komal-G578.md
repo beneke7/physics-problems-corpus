@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-A dog is running along a long straight road wagging its tail. Is it possible that the average speed of the end of its tail is less than the average speed of the centre of mass of the dog? 
+A dog is running along a long straight road wagging its tail. Is it possible that the average speed of the end of its tail is less than the average speed of the centre of mass of the dog?
  (3 pont)

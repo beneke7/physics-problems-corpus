@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4770. Egy $m$ tömegű gyerek fel-le ugrál egy trambulin közepén. Mennyi a gyerek átlagos gyorsulása egyetlen fel-le ugrás teljes idejére vonatkozólag? 
+P. 4770. Egy $m$ tömegű gyerek fel-le ugrál egy trambulin közepén. Mennyi a gyerek átlagos gyorsulása egyetlen fel-le ugrás teljes idejére vonatkozólag?
 
  Példatári feladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P4770-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4770-fig1.gif)

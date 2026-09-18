@@ -36,7 +36,7 @@ C-os telített g®z s¶r¶sége 5,2 g/m
 3
 , amib®l
 egy átlagosan 50,5 ◦
-C-os g®z s¶r¶ségére ideális gáz közelítésben 4,4 g/m
+C-os g®z s¶r¶ségére  ideális gáz közelítésben  4,4 g/m
 3
 adódik.)
 A g®z új sta ionárius (id®ben állandó) állapotában tehát a g®z átlagos s¶r¶sége kisebb lett, vagyis a g®zállapotban
@@ -48,7 +48,7 @@ séklet¶ és 660 Pa nyomású telített g®z van, mint az a) esetben.
 Amikor viszont a fed®lap h®mérsékletét 100 ◦
 C-ra emeljük, már nem mondhatjuk, hogy az egész víz 1 ◦
 C-os marad,
-ugyanúgy, mint amikor papírvékonyságú volt. Azt se állíthatjuk persze, hogy jelent®sen felmelegszik a víz fels® rétege,
+ugyanúgy, mint amikor  papírvékonyságú  volt. Azt se állíthatjuk persze, hogy jelent®sen felmelegszik a víz fels® rétege,
 mivel a víz sokkal jobb h®vezet®, mint a vízg®z. Mennyire melegszik hát fel?
 Táblázatból kiolvasható, hogy a vízg®z h®vezetési együtthatója
 λg®z = 18,0 · 10−3 J
@@ -105,12 +105,12 @@ C-hoz tartozó 5,2 g/m
 érték, vagyis ebben az esetben a g®zállapotban
 lev® vízmolekulák száma n®tt!
 Kiegészítés: Számításunkban eltekintettünk a víz s¶r¶ségváltozásától, amely persze elhanyagolható a vízg®z s¶r¶ségválto-
-zásához képest. Mégis okozhat egy kis galibát, ha 
+zásához képest. Mégis okozhat egy kis galibát, ha
 gyelembe vesszük, hogy a 4 ◦
 C-os legfels® vízréteg s¶r¶sége nagyobb, mint
 az alatta lev®ké. Ezáltal a víz me hanikailag instabillá válik az edényben, s az egyensúlynak kis megzavarása is áramlásokat
 idézhet el®. Ha valamelyik versenyz® erre is utalt volna a dolgozatában, a versenybizottság plusz pontokkal jutalmazta volna,
-de senkinek se jutott ez akkor eszébe. Hasonlóképpen 
+de senkinek se jutott ez akkor eszébe. Hasonlóképpen
 gyelmen kívül hagyta mindenki a 100 ◦
 C-os fels® lap h®sugárzásának
 hatását a vízréteg h®mérsékletére, azonban ez a hatás nem is olyan jelent®s, hogy módosítaná a végs® választ: az a) esetben

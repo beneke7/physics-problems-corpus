@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-A cargo plane travels 11 km above the equator at a speed of 1000 km/h, first west and then east. The mass of a heavy object on board is measured on both occasions using a spring balance certified at the airport. The difference between the two measured values is 1 kg. What is the mass of the object in reality? 
+A cargo plane travels 11 km above the equator at a speed of 1000 km/h, first west and then east. The mass of a heavy object on board is measured on both occasions using a spring balance certified at the airport. The difference between the two measured values is 1 kg. What is the mass of the object in reality?
  (4 pont)

@@ -51,13 +51,13 @@ Z
 P dx.
 Performing the integral, we have
 v(x0) =
-
+
 3
 m
 Z x0
 0
 P(x)dx
-1/3
+ 1/3
 .
 In the context of drag car racing, this is called Huntington’s rule.
 If P is constant, we must have F ∝ 1/v. But how can such a force arise? A car engine (or

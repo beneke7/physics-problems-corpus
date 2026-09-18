@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201401"
 verification_status: pending
 ---
 
-Compare the sight of a sparkler on the christmas tree, with the splendour light of the firework show at the new year's eve. 
- a ) In case of the sparkler why can't we observe such expanding, glowing fireballs or fire-wheels (glowing sharpnels which spred out in a plane) as we can see in case of the fireworks? 
- b ) Is it possible to observe elliptical ``fire-wheels'' during a firework display? 
+Compare the sight of a sparkler on the christmas tree, with the splendour light of the firework show at the new year's eve.
+ a ) In case of the sparkler why can't we observe such expanding, glowing fireballs or fire-wheels (glowing sharpnels which spred out in a plane) as we can see in case of the fireworks?
+ b ) Is it possible to observe elliptical ``fire-wheels'' during a firework display?
  (3 pont)

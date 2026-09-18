@@ -9,10 +9,10 @@ difficulty: G
 verification_status: pending
 ---
 
-G. 912. Az ábrán látható áramkörben kezdetben a kapcsoló nyitva van. 
+G. 912. Az ábrán látható áramkörben kezdetben a kapcsoló nyitva van.
 
- a) Mekkora áramok folynak az áramkör ellenállásain és a telepeken a kapcsoló zárása előtt és után? 
+ a) Mekkora áramok folynak az áramkör ellenállásain és a telepeken a kapcsoló zárása előtt és után?
 
  b) Mekkora áramok folynak, ha a kapcsoló melletti feszültségforrás polaritását megfordítjuk?
 
-![figure](../../raw_html/komal_figures/komal-G912-fig1.png)
+![figure](../../figures/komal/figures/komal-G912-fig1.png)

@@ -34,7 +34,7 @@ rendelkezésre.
    1. feladat. Pályafutásuk végén a sorsukra hagyott m¶holdak a sebesség négyzetével arányos légellenállási er® hatá-
 sára fokozatosan veszítenek me hanikai energiájukból, és végül a légkör s¶r¶bb rétegeibe érve elégnek. Belátható, hogy
 az eredetileg körpályákon kering® m¶holdak a Föld felszínéhez közeledve mindvégig közelít®leg körpályákon haladnak,
-miközben a körpályák sugara lassan   sökken.
+miközben a  körpályák  sugara lassan   sökken.
    Tegyük fel, hogy egy m = 500 kg tömeg¶ m¶holdat, amely az Egyenlít® síkjában, h = 400 km -es magasságban
                                                                                     2
 körpályán kering, magára hagynak! A m¶holdra ható légellenállási er®t az Flég = K̺v alakban adhatjuk meg, ahol
@@ -68,8 +68,8 @@ Táblázatból vehet® a Föld egyenlít®i R sugara, M tömege és a gravitá i
                                             M = 5,974 · 1024 kg,
 
                                              γ = 6,673 · 10−11 m3 /(kg · s2 ).
-   a) A feladatban megfogalmazott feltételek szerint a m¶holdak a Föld felszínéhez közeledve mindvégig közelít®en
-körpályán haladnak, ezért jó közelítésben írhatjuk:
+   a) A feladatban megfogalmazott feltételek szerint  a m¶holdak a Föld felszínéhez közeledve mindvégig közelít®en
+körpályán haladnak , ezért jó közelítésben írhatjuk:
 
                                                                     mM      v2
                                           Fgrav = macp ,        γ       = m    .
@@ -79,7 +79,9 @@ Ennek alapján
                                                                 γM
                                                        v=          ,
                                                                  r
-amelybe behelyettesítve r1 és r2 értékeit, megkapjuk a két sebességet:
+
+
+amelybe behelyettesítve r1 és r2 értékeit, megkapjuk a két sebességet:
 
                                                                 m                           m
                                                 v1 = 7669,0       ,         v2 = 7784,7       .
@@ -106,7 +108,7 @@ a légellenállási er® hatására      sökkenhet.
 (1)                                                        −Flég · v =             .
                                                                              ∆t
       Az összenergia kinetikus és poten iális részb®l áll:
-                                                                          
+
                                                                1  2     mM
                                           Eössz = Ekin + Epot = mv + −γ      .
                                                                2         r
@@ -123,14 +125,14 @@ amib®l kapjuk:
       Az összenergiát tehát így is felírhatjuk:
 
                                        Eössz = Ekin + Epot = Ekin − 2Ekin = −Ekin < 0.
-(Az, hogy az összenergia negatív, nem kell, hogy megijesszen senkit, az atomzikában számos példát látunk erre.)
+(Az, hogy az összenergia negatív, nem kell, hogy megijesszen senkit, az atom zikában számos példát látunk erre.)
       Most tehát (1) így írható:
                                                                              ∆Ekin
                                                            −Flég · v = −           ,
                                                                               ∆t
 illetve
                                                                1    2
-                                                                        
+
                                                            ∆   2 mv                ∆v
                                               Flég · v =                    = mv      = mv at .
                                                                ∆t                  ∆t
@@ -143,7 +145,9 @@ illetve
                                                            mat = Fgravk − Flég .
       Ezt vessük össze (2)-vel:
                                                            Flég = Fgravk − Flég .
-                            1. ábra. A feladat számadataival: Fgrav = 4,6 kN, Flég = 5,6 mN,
+
+
+                            1. ábra. A feladat számadataival: Fgrav = 4,6 kN, Flég = 5,6 mN,
                              ϕ = 1,2 · 10−6 rad = 0,25′′ . A vázlatos ábra nem méretarányos
 
    Az az egyszer¶ összefüggés tehát, amely a légellenállási er®, valamint a m¶holdra ható két er® (gravitá iós és
@@ -173,7 +177,7 @@ Határozzuk meg a poten iális energia és a pályasugár változásának viszon
 
 
                                                          ∆ −γ mM
-                                                                                
+
                                                  ∆Epot         r                              mM
                                                        =                                =γ        .
                                                   ∆r        ∆r                                 r2
@@ -206,23 +210,25 @@ r = r2 , valamint ε megadott értékét behelyettesítve
                                                                                     m3
 
                                           2
-   Kiegészítés: Az a) kérdésre mg = mv        /r felhasználásával is válaszolhatunk, ha gyelembe vesszük a gravitá iós gyorsulás
-                               2
+   Kiegészítés: Az a) kérdésre mg = mv        /r felhasználásával is válaszolhatunk, ha  gyelembe vesszük a gravitá iós gyorsulás
+                                 2
                                h
 magasságfüggését: g = g0    1−      . Ezzel
-                               r                                                   
+                               r
                                                             √                   h       √
                                                        v=       gr =       1−               g0 r,
                                                                                 r
 ahol   g0 az egyenlít®i gravitá iós gyorsulás, amely azonban a táblázatban adott egyenlít®i nehézségi gyorsulásnál nagyobb!
-A különbség a Föld forgásából adódó  entri gyorsulás.
+A különbség a Föld forgásából adódó   entri  gyorsulás.
 
    2. feladat. Egy függ®legesen álló, henger alakú zárt tartály magassága legyen mondjuk 20                                     m! Tegyük fel, hogy
                                                                                                     ◦
 a tartály falának és bels® tartalmának h®mérséklete huzamos ideje T = 1                                 C! A tartalom pedig egy, a tartály alaplapját
 borító papírvékonyságú vízréteg és fölötte ennek a telített g®ze, más semmi. Az oldalfalat h®szigetel®nek tekinthetjük,
 az alap- és fed®lap azonban igen jó h®vezet® vékony fémlemez, amelyeknek a h®mérsékletét kívülr®l szabályozhatjuk.
-                                                                          ◦
+
+
+                                                                          ◦
    A lehet®séggel élve emeljük a fed®lap h®mérsékletét Tf = 100               C-ra, miközben az alaplap h®mérsékletét T = 1 ◦ C-on
 tartjuk, és gondoskodjunk róla, hogy ezek az értékek elég sokáig így maradjanak! Várjuk meg, amíg az edényben kialakul
 a víz, illetve a g®z új sta ionárius állapota, amely már nem változik tovább!
@@ -244,7 +250,7 @@ leolvasható ennek aktuális értéke: 660 Pa.)
                                                                         ◦                                3
 s¶r¶sége felfelésökken. (Szintén a táblázatból olvasható ki, hogy az 1 C-os telített g®z s¶r¶sége 5,2 g/m , amib®l
                   ◦                                                       3
-egy átlagosan 50,5 C-os g®z s¶r¶ségére ideális gáz közelítésben 4,4 g/m adódik.)
+egy átlagosan 50,5 C-os g®z s¶r¶ségére  ideális gáz közelítésben  4,4 g/m adódik.)
    A g®z új sta ionárius (id®ben állandó) állapotában tehát a g®z átlagos s¶r¶sége kisebb lett, vagyis a g®zállapotban
 lev® vízmolekulák száma         sökkent (2. ábra )!
 
@@ -259,7 +265,7 @@ lev® vízmolekulák száma         sökkent (2. ábra )!
 séklet¶ és 660 Pa nyomású telített g®z van, mint az a) esetben.
                                               ◦                                                    ◦
    Amikor viszont a fed®lap h®mérsékletét 100 C-ra emeljük, már nem mondhatjuk, hogy az egész víz 1 C-os marad,
-ugyanúgy, mint amikor papírvékonyságú volt. Azt se állíthatjuk persze, hogy jelent®sen felmelegszik a víz fels® rétege,
+ugyanúgy, mint amikor  papírvékonyságú  volt. Azt se állíthatjuk persze, hogy jelent®sen felmelegszik a víz fels® rétege,
 mivel a víz sokkal jobb h®vezet®, mint a vízg®z. Mennyire melegszik hát fel?
    Táblázatból kiolvasható, hogy a vízg®z h®vezetési együtthatója
 
@@ -284,7 +290,9 @@ Ennek alapján kapjuk Tk -ra a 4           C-os értéket, amit már a 3. ábrá
 
 
                                                                 3. ábra
-                                                                   ◦
+
+
+                                                                   ◦
    Ezek után a táblázatból extrapolá ióval kiolvashatjuk a 4           C-hoz tartozó telítési g®znyomás nagyságát: 820 Pa. Ez
 is szerepel már az ábrán.
                                                                         ◦                 3
@@ -303,18 +311,18 @@ lev® vízmolekulák száma n®tt!
 
    Kiegészítés: Számításunkban eltekintettünk a víz s¶r¶ségváltozásától, amely persze elhanyagolható a vízg®z s¶r¶ségválto-
                                                                              ◦
-zásához képest. Mégis okozhat egy kis galibát, ha gyelembe vesszük, hogy a 4      C-os legfels® vízréteg s¶r¶sége nagyobb, mint
+zásához képest. Mégis okozhat egy kis galibát, ha  gyelembe vesszük, hogy a 4      C-os legfels® vízréteg s¶r¶sége nagyobb, mint
 az alatta lev®ké. Ezáltal a víz me hanikailag instabillá válik az edényben, s az egyensúlynak kis megzavarása is áramlásokat
 idézhet el®. Ha valamelyik versenyz® erre is utalt volna a dolgozatában, a versenybizottság plusz pontokkal jutalmazta volna,
                                                                                                ◦
-de senkinek se jutott ez akkor eszébe. Hasonlóképpen gyelmen kívül hagyta mindenki a 100        C-os fels® lap h®sugárzásának
+de senkinek se jutott ez akkor eszébe. Hasonlóképpen  gyelmen kívül hagyta mindenki a 100        C-os fels® lap h®sugárzásának
 hatását a vízréteg h®mérsékletére, azonban ez a hatás nem is olyan jelent®s, hogy módosítaná a végs® választ: az a) esetben
  sökken, a b) esetben n® a vízg®z molekuláinak száma.
 
-   3. feladat. Egy toroid (úszógumi) alakú sovány vasmagra szimmetrikus elrendezésben három egyforma, kövér
+   3. feladat. Egy toroid (úszógumi) alakú  sovány  vasmagra szimmetrikus elrendezésben három egyforma,  kövér
 elektromágneses teker s van felf¶zve a 4. ábra szerint. Az els® teker sre váltóáramú feszültségforrást kap solunk, a má-
 sodik teker s kivezetéseit szabadon hagyjuk, a harmadik teker s         satlakozóira pedig voltmér®t kötünk. Ekkor a voltmér®
-a feszültségforrás eektív értékének a felét mutatja.
+a feszültségforrás e ektív értékének a felét mutatja.
 
 
 
@@ -324,7 +332,7 @@ a feszültségforrás eektív értékének a felét mutatja.
 
    Ezután a második teker s kivezetéseit a K kap solóval rövidre zárjuk. Mit mutat ebben az esetben a voltmér®?
    Útmutatás: A teker sek ohmos ellenállása elhanyagolható, a feszültségforrást és a voltmér®t ideálisnak tekinthetjük.
-A vasmag mágneses permeabilitása nem függ a mágneses uxustól.
+A vasmag mágneses permeabilitása nem függ a mágneses  uxustól.
 
                                                                                                               (Honyek Gyula )
 
@@ -358,7 +366,9 @@ L
                                                              ∆I1    ∆I2
                                                     U3 = M       +M     .
                                                              ∆t     ∆t
-   Azt kell észrevennünk, hogy a rövidzár miatt U2 = 0. Ezt felhasználva a két áramváltozási sebesség között adódik
+
+
+   Azt kell észrevennünk, hogy a rövidzár miatt U2 = 0. Ezt felhasználva a két áramváltozási sebesség között adódik
 egy egyszer¶ összefüggés:
                                                      ∆I2    M ∆I1
                                                          =−       .
@@ -370,14 +380,14 @@ Képezzük az        hányadost:
                                                     U3   M − ML   1
                                                        =       2 = .
                                                     U1   L − ML   3
-(Az utolsó lépésnél gyelembe vettük, hogy M = L/2).
-   Tehát a kap soló zárása után a voltmér® a feszültségforrás eektív értékének harmadát fogja mutatni.
+(Az utolsó lépésnél  gyelembe vettük, hogy M = L/2).
+   Tehát a kap soló zárása után a voltmér® a feszültségforrás e ektív értékének harmadát fogja mutatni.
 
    Kiegészítés: A vasmag permeabilitásának állandóságát akkor használtuk fel, amikor feltételeztük a teker sek induktivitásának
 és a köl sönös induk iós együtthatóknak az állandóságát, vagyis hogy pl. M     = L/2 akkor is fennáll, ha zárjuk a kap solót.
 Szokatlan volt a feladatban, hogy ebben a tipikusan transzformátoros összeállításban a feszültségek aránya lényegesen eltér
 a menetszámok arányától. A mindennapi gyakorlatban ez jól ismert jelenség, inkább az tekinthet® idealizá iónak, hogy az
-említett két arány megegyezik. A mágneses mez® kiszóródása a vasmagból általában elkerülhetetlen, ha nem is olyan jelent®s
+említett két arány megegyezik. A mágneses mez®  kiszóródása  a vasmagból általában elkerülhetetlen, ha nem is olyan jelent®s
 mindig, mint most, ebben a feladatban.
 
 
@@ -387,10 +397,10 @@ mindig, mint most, ebben a feladatban.
 
 
 
-   Els® díjat és 30 ezer forint pénzjutalmat vehetett át Budai Ádám, a BME zika BS             szakos hallgatója, aki a mis-
+   Els® díjat és 30 ezer forint pénzjutalmat vehetett át Budai Ádám, a BME  zika BS             szakos hallgatója, aki a mis-
 kol i Földes Feren     Gimnáziumban érettségizett mint Bíró István tanítványa; olimpiai szakkörvezet®je Zámborszky
 Feren   volt.
-   Második díjat és 20 ezer forint pénzjutalmat hárman kaptak: Jéhn Zoltán, a BME zika BS                 szakos hallgatója,
+   Második díjat és 20 ezer forint pénzjutalmat hárman kaptak: Jéhn Zoltán, a BME  zika BS                 szakos hallgatója,
 aki Pé sett, a PTE Babits Mihály Gyakorló Gimnáziumban érettségizett, tanára a gimnáziumban Kon z Károly,
 az olimpiai szakkörön Kotek László volt; Kalina Kende, a ELTE matematika BS                 szakos hallgatója, aki a Fazekas
 Mihály F®városi Gyakorló Gimnáziumban érettségizett Horváth Gábor, Csefkó Zoltán és Szokolai Tibor tanítványaként;
@@ -399,7 +409,7 @@ szakkörön Kotek László.
    Harmadik díjat és 15-15 ezer forint pénzjutalmat vehetett át két versenyz®: Bolgár Dániel, a pé si Le®wey Klára
 Gimnázium 12. évf. tanulója, tanárai Almási László és Simon Péter; Ková s Péter, az ELTE Apá zai Csere János
 Gyakorló Gimnáziumának 12. évf. tanulója, Pákó Gyula tanítványa.
-   Hárman kaptak di séretet és 10-10 ezer forint érték¶ könyvjutalmat: Batki Bálint, a BME zika BS                     szakos
+   Hárman kaptak di séretet és 10-10 ezer forint érték¶ könyvjutalmat: Batki Bálint, a BME  zika BS                     szakos
 hallgatója, aki az ELTE Apá zai Csere János Gyakorló Gimnáziumban érettségizett mint Zsigri Feren                 tanítványa;
 Forman Feren , az ELTE Radnóti Miklós Gyakorló Gimnáziumának 10. évf. tanulója, Honyek Gyula tanítványa;
 Jenei Márk, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. évf. tanulója, Dvorák Ce ília és Csefkó Zoltán
@@ -416,22 +426,24 @@ jól bevált hagyományt követve el®ször az 50, majd a 25 évvel ezel®tti E�
 sor. Az akkori nyertesek közül többen is eljöttek, szóltak néhány szót emlékeikr®l, azóta befutott pályájukról.
    Zakariás László 1961-ben a piaristáknál érettségizett. Az Elektronikus Mér®készülékek Gyárának dolgozójaként
 nyerte meg az Eötvös-versenyt, mivel a BME-re nem vették fel. Így emlékezett vissza a fél évszázaddal ezel®tt tör-
-téntekre: A M¶szaki Egyetemre második próbálkozásra se vettek fel. Fellebbeztünk. A fellebbezést elutasították.
+téntekre:  A M¶szaki Egyetemre második próbálkozásra se vettek fel. Fellebbeztünk. A fellebbezést elutasították.
 A minisztériumi fellebbezéshez    satoltuk az Eötvös-verseny eredményét. Szeptember végén, a születésnapomon, levél
 érkezett a minisztériumból: Örömmel értesítjük, hogy felvételt nyert a Budapesti M¶szaki Egyetem Villamosmérnöki
-Karára. Én voltam a világ legboldogabb embere. Tisztelettel és hálával gondolok Ková s Mihály tanár úrra. Fritz Jó-
-zsef Mosonmagyaróvárról zikusnak jelentkezett az ELTE-re, Molnár Emil a gy®ri Révai Gimnáziumból matematika
-zika szakos tanárnak. Mindkett®jüket felvették. Fritz József ma már matematikus akadémikus, Molnár Emil a BME
+Karára. Én voltam a világ legboldogabb embere. Tisztelettel és hálával gondolok Ková s Mihály tanár úrra.  Fritz Jó-
+zsef Mosonmagyaróvárról  zikusnak jelentkezett az ELTE-re, Molnár Emil a gy®ri Révai Gimnáziumból matematika
+ zika szakos tanárnak. Mindkett®jüket felvették. Fritz József ma már matematikus akadémikus, Molnár Emil a BME
 Geometria tanszékének vezet®jeként ment nyugdíjba. Mindhárman hálával emlékeztek vissza tanáraikra, akik megsze-
-rettették velük a zikát, a matematikát, felkészítették ®ket a versenyre.
+rettették velük a  zikát, a matematikát, felkészítették ®ket a versenyre.
    A 25 évvel ezel®tti Eötvös-versenynek két els® helyezettje volt: Kaiser András és Kohári Zsolt. Mindketten eljöttek,
 szóltak is a mai nyertesekhez. A többi díjazott közül Drasny Gábor és Gyuris Viktor az Egyesült Államokból levélben
-üdvözölték a sikeres versenyz®ket és di sérték egykori zikatanárukat, Horváth Gábort. Leveleiket a versenybizottság
+üdvözölték a sikeres versenyz®ket és di sérték egykori  zikatanárukat, Horváth Gábort. Leveleiket a versenybizottság
 tagjai olvasták fel.
    Az idei Eötvös-verseny díjait Kroó Norbert akadémikus, az Eötvös Loránd Fizikai Társulat elnöke, Kürti Jen®
 professzor, a Társulat f®titkára és a verseny lebonyolítását és díjait anyagilag támogató MOL képviseletében Csernik
 Kornél adta át.
-   A díjazott versenyz®k tanárai a Vin e Kiadó és a Typotex Kiadó könyvei közül válogathattak, és jelent®s kedvez-
+
+
+   A díjazott versenyz®k tanárai a Vin e Kiadó és a Typotex Kiadó könyvei közül válogathattak, és jelent®s kedvez-
 ménnyel vehetnek majd részt a 2012. évi Fizikatanári Ankéton.
    Az ünnepélyes díjkiosztást követ®, a RAMOSOFT Zrt. támogatásával lebonyolított, jó hangulatú állófogadás részt-
 vev®i között ott voltak nem sak az idei, a 25 és 50 évvel ezel®tti díjazottak, de megjelent a 49 évvel ezel®tti Eötvös-

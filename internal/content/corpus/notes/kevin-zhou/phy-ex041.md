@@ -41,7 +41,6 @@ Evaluating the p′ integral, and using ⟨q|p⟩ = eipq/ℏ / 2πℏ, we find
 in the classical limit. Generically, we get integrals of e−βH over phase space, where h is the unit of
 phase space volume. The value of h won’t affect our classical calculation, as it only affects Z by a
 multiplicative constant.
-71 3. Statistical Mechanics
 
 
 Next, we recover the properties of the classical ideal gas.
@@ -67,7 +66,7 @@ Next, we recover the properties of the classical ideal gas.
     entropy, see The Gibbs Paradox .
 
  • The entropy of the ideal gas is
-                                                                     
+
                               ∂F    ∂                          V    5
                           S=−    =    (kB T log Z) = N kB log     +
                               ∂T   ∂T                         N λ3 2
@@ -77,7 +76,7 @@ Next, we recover the properties of the classical ideal gas.
     the ideal gas law and the internal energy, which obeys equipartition.
 
  • In the grand canonical ensemble, we have
-                                                               βµ 
+                                                                βµ
                                         X
                                             βµN                e V
                                    Z=       e     Z(N ) = exp        .
@@ -101,6 +100,5 @@ Next, we recover the properties of the classical ideal gas.
                                                    2
     which has only one solution, F (v) ∝ e−Av . However, this derivation is wrong, because in
     general the velocity components are not independent.
-72 3. Statistical Mechanics
 
 

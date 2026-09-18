@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-With a sphere-shaped balloon of diameter 25 cm we get into the cabin of a cable car and travel up to the top of the peak called Zugspitze. The cabin is not air-tight, but the temperature inside is kept to be the same as it is at the bottom station. The cabin starts at a height of 1000 m above sea level and goes up to a heigh of nearly 3000 m above sea level. The pressure inside the balloon is only a little greater than the ambient air pressure during the whole the journey. 
- Estimate the diameter of the balloon when we get off. 
+With a sphere-shaped balloon of diameter 25 cm we get into the cabin of a cable car and travel up to the top of the peak called Zugspitze. The cabin is not air-tight, but the temperature inside is kept to be the same as it is at the bottom station. The cabin starts at a height of 1000 m above sea level and goes up to a heigh of nearly 3000 m above sea level. The pressure inside the balloon is only a little greater than the ambient air pressure during the whole the journey.
+ Estimate the diameter of the balloon when we get off.
  (4 pont)

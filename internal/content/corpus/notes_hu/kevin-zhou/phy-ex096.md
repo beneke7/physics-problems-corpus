@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Példa. Az AC Stark-eltolódás. Tekintsünk egy rezonancián kívül gerjesztett kétállapotú atomot:
-                                                   
+
                                  0       Ω cos(ωd t)
                     H=ℏ                               , ω1 − ωd = ∆.
                              Ω cos(ωd t)     ω1
@@ -32,7 +32,7 @@ Kísérletekben ezzel általában nem törődünk; sokkal érdekesebb, hogy más
 eltolja a két állapot oszcillációs frekvenciáját. Ez csekély mennyiség, de jelentős lehet, mert a gyakorlatban nagyon
 jó frekvenciapontossággal rendelkezünk.
    A rendszer elemzéséhez a „gerjesztéssel együtt forgó” vonatkoztatási rendszerbe lépünk:
-                                                                        
+
                                         −iωd t|1⟩⟨1|            0   Ω/2
                              UT (t) = e              , HT = ℏ
                                                                Ω/2 ∆
@@ -50,12 +50,11 @@ Ezért ha olyan effektív H1,eff perturbációt tudnánk felépíteni, amelyre
                                                   k
 akkor annak elsőrendű eredményei megegyeznének az itt keresett másodrendű eredményekkel. Azt kapjuk, hogy
                                                −Ω2 /4∆
-                                                               
+
                                                             0
                                    H1,eff = ℏ
                                                   0     Ω2 /4∆
 így a felhasadás ℏΩ2 /2∆. Természetesen ez az egzakt eredménnyel O(Ω2 ) rendig egyezik.
-260 11. Időfüggő perturbációelmélet
 
 Ezután egy hatékony Hamilton-operátorok felépítésére szolgáló erős általános módszert tárgyalunk.
 

@@ -54,4 +54,6 @@ Example 5
                                                  k1 + k2
 
                                                    6
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts

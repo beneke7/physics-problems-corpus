@@ -46,10 +46,10 @@ q
 l0
 l1
 − 1
-
+
 πϕ
 180◦
-2 .
+ 2 .
 We repeat the experiment with different
 lengthsandfinallyfindtheaverageoftheres‐
 ults. With the example values: ϕ = 55◦

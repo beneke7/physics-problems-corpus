@@ -24,18 +24,17 @@ source_role: explanatory_example
 
 Példa. R(t) explicit képletének meghatározásához vegyük észre, hogy Ṙ = ωR. A naiv megoldás az
 exponenciális lenne, de mivel ω különböző időpontokban nem kommutál önmagával, az út szerint
-rendezett exponenciálist kell használnunk:                        Z                  t
+rendezett exponenciálist kell használnunk:                         Z                   t
                                       R(t) = P exp                   ω(t′ )dt′ .
                                                              0
 Például ennek másodrendű tagja
-                                  Z t′′ Z t                         
+                                  Z t′′  Z t
                                                         ′′   ′′
                                                      ω(t ) dt            ω(t′ ) dt′
                                         0       t′
 ahol a ω-k későbbitől a korábbi felé vannak rendezve. Amikor t szerint deriválunk,
 csak a dt′′ integrált érinti, amelyből a kívánt módon ω emelkedik ki balról. Ez az exponenciális
 művelet az SO(3)-beli R forgásokat a so(3)-beli infinitezimális ω forgásokkal kapcsolja össze.
-13 1. Klasszikus mechanika
 
 
 Most a kinematikáról áttérünk a dinamikára.
@@ -43,7 +42,7 @@ Most a kinematikáról áttérünk a dinamikára.
  • A v = ω × r összefüggést használva a kinetikus energia
                         1X         1X                 1X
                            mi v2 =    mi ∥ω × ri ∥2 =    mi ω 2 ri2 − (ri · ω)2 .
-                                                                               
+
                   T =
                         2          2                  2
     ebből következik, hogy
@@ -53,7 +52,7 @@ Most a kinematikáról áttérünk a dinamikára.
     ahol Iab a szimmetrikus tenzor
                                             X
                                                 mi ri2 δab − (ri )a (ri )b
-                                                                             
+
                                     Iab =
                                             i
 
@@ -101,7 +100,6 @@ Most a kinematikáról áttérünk a dinamikára.
                                          L = I ω,
                                                     2
     Általános I esetén a perdület és a szögsebesség nem párhuzamos.
-14 1. Klasszikus mechanika
 
 
   • A mozgásegyenlet meghatározásához a tömegközépponti rendszerben használjuk a dL/dt kifejezést:

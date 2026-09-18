@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201410"
 verification_status: pending
 ---
 
-A car and a lorry moves along two straight perpendicular roads towards the cross-roads. The speed of the lorry with respect to the car is 90 km/h. The speedometer of the car reads 72 km/h. At the instant when the speeds were measured the lorry was 600 m and the car was 800 m from the cross-roads. Which vehicle reaches the cross-roads sooner, if both move uniformly? 
+A car and a lorry moves along two straight perpendicular roads towards the cross-roads. The speed of the lorry with respect to the car is 90 km/h. The speedometer of the car reads 72 km/h. At the instant when the speeds were measured the lorry was 600 m and the car was 800 m from the cross-roads. Which vehicle reaches the cross-roads sooner, if both move uniformly?
  (4 pont)

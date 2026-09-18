@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $\log$-ként jelölt, $M$ tömegű farönk jégen csúszik és közben forog. Tömegközéppontjának sebessége $v$, szögsebessége $\omega$. Abban a pillanatban, amikor a rönk merőleges a tömegközéppont sebességére, a rönk nekimegy egy nyugvó, $m$ tömegű korongnak. Mekkora $M / m$ tömegaránynál lehetséges az az eset, hogy a rönk helyben marad, miközben a korong elcsúszik? Az ütközések tökéletesen rugalmasak. A rönk egyenes, lineáris sűrűsége állandó.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr77-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr77-fig1.jpg)

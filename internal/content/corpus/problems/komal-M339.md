@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201402"
 verification_status: pending
 ---
 
-Determine what percentage of the volume of a sugar cube is the volume of the sugar. 
+Determine what percentage of the volume of a sugar cube is the volume of the sugar.
  (6 pont)

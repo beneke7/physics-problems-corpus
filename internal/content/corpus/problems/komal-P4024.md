@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-The power rating of resistor R $_{3}$ shown in the figure is 15 W. The reading on the ammeter is 500 mA and the reading on the voltmeter is 10 V. Find the resistances of R $_{1}$ and R $_{3}$. What is the electromotive force of the supply? 
+The power rating of resistor R $_{3}$ shown in the figure is 15 W. The reading on the ammeter is 500 mA and the reading on the voltmeter is 10 V. Find the resistances of R $_{1}$ and R $_{3}$. What is the electromotive force of the supply?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4024-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4024-fig1.gif)

@@ -21,7 +21,7 @@ links_hu: eotvos-2017-coin-table
 
 A small coin of mass $m$ rests at corner $A$ of a square table top with side length $d$, as shown in the figure. We fix one end of a fishing line to corner $B$ of the table, then thread the line over the coin and through an eyebolt screw fixed at corner $C$ of the table. We slowly pull the free end of the line until the coin finally falls off the table. The coefficient of sliding friction between the table top and the coin is $\mu$; friction elsewhere is negligible.
 
-![The table and fishing-line arrangement](../../sources/eotvos/figures/eotvos-2017-coin-table-fig1.png)
+![The table and fishing-line arrangement](../../figures/eotvos/figures/eotvos-2017-coin-table-fig1.png)
 
 a) Where does the coin fall off the table?
 b) Estimate how much work we do during the process.

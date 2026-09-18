@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-If a certain heavy metal is illuminated by UV light of wavelength of 185 nm, electrons are ejected from it at a speed of 1.00$^{.}$10$^{6}$ m/s. a ) Which is this metal, and who discovered it? b ) What is the speed of the electrons if UV light of wavelength 254 nm is used to illuminate it? 
+If a certain heavy metal is illuminated by UV light of wavelength of 185 nm, electrons are ejected from it at a speed of 1.00$^{.}$10$^{6}$ m/s. a ) Which is this metal, and who discovered it? b ) What is the speed of the electrons if UV light of wavelength 254 nm is used to illuminate it?
  (4 pont)

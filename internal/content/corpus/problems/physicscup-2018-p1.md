@@ -27,6 +27,6 @@ $$r \le \rho \le R \quad \text{and} \quad R/r \le 2.$$
 
 (You need to prove that for the values of $r$ and $R$ suggested by you, these inequalities hold.)
 
-![figure](../../sources/physicscup/figures/physicscup-2018-p1-1.png)
+![figure](../../../../../sources/physicscup/figures/physicscup-2018-p1-1.png)
 
 *Physics Cup 2018 Problem 1 by Jaan Kalda. Transcribed faithfully from the born-digital LaTeX source.*

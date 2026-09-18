@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-On one side of a large metal plate, there is a point-like ball of charge $Q$ and another of charge $-Q$, at a distance of $d$ from each other and $d/2$ from the plate. How much work is needed 
- a) to move the charges parallel to the plane of the plate, and separate them very far from each other, 
- b) to move the charges perpendicular to the plate and carry them very far away from the plate (to the same distance), 
- c) to move the charges very far away from the plate and from each other? 
+On one side of a large metal plate, there is a point-like ball of charge $Q$ and another of charge $-Q$, at a distance of $d$ from each other and $d/2$ from the plate. How much work is needed
+ a) to move the charges parallel to the plane of the plate, and separate them very far from each other,
+ b) to move the charges perpendicular to the plate and carry them very far away from the plate (to the same distance),
+ c) to move the charges very far away from the plate and from each other?
  (5 pont)

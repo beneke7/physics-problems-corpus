@@ -59,7 +59,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                            Cover Sheet                                               2
+
+
+2008 Semifinal Exam                            Cover Sheet                                               2
 
 
 
@@ -102,25 +104,27 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
     Possibly Useful Information. You may use this sheet for all three parts of the exam.
          g = 9.8 N/kg                         G = 6.67 × 10−11 N · m2 /kg2
-         k = 1/4π0 = 8.99 × 109 N · m2 /C2   km = µ0 /4π = 10−7 T · m/A
+         k = 1/4π 0 = 8.99 × 109 N · m2 /C2   km = µ0 /4π = 10−7 T · m/A
          c = 3.00 × 108 m/s                   kB = 1.38 × 10−23 J/K
          NA = 6.02 × 1023 (mol)−1             R = NA kB = 8.31 J/(mol · K)
          σ = 5.67 × 10−8 J/(s · m2 · K)       e = 1.602 × 10−19 C
          1eV = 1.602 × 10−19 J                h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-         me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|  1
-         sin θ ≈ θ − 61 θ3 for |θ|  1        cos θ ≈ 1 − 21 θ2 for |θ|  1
+         me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|   1
+         sin θ ≈ θ − 61 θ3 for |θ|   1        cos θ ≈ 1 − 21 θ2 for |θ|   1
 
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                 Part A                                                     3
+
+
+2008 Semifinal Exam                                 Part A                                                     3
 
 
 
 Part A
 Question A1
 Four square metal plates of area A are arranged at an even spacing d as shown in the diagram. (Assume
-that A  d2 .)
+that A   d2 .)
                                                                       Plate 1
 
                                                                       Plate 2
@@ -175,7 +179,9 @@ of C1 into the top plate of C2 . The result is that C1 will acquire a potential 
 
 
                            Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                 Part A                                                    4
+
+
+2008 Semifinal Exam                                 Part A                                                    4
 
 
 
@@ -205,8 +211,8 @@ Combining the above we get
                                              3
 Finally, solving for V1 , we get V1 = V0 /6.
     Alternatively, we could focus on the plate arrangement and the fact that across a boundary |∆E⊥ | =
-|σ/0 |, a consequence of Gauss’s Law. Also, we have, for parallel plate configurations, |∆V | = |Ed|. Since
-0 and d are the same for each of the three regions, it is sufficient to simply look at the electric fields.
+|σ/ 0 |, a consequence of Gauss’s Law. Also, we have, for parallel plate configurations, |∆V | = |Ed|. Since
+ 0 and d are the same for each of the three regions, it is sufficient to simply look at the electric fields.
 
 
                           E0                                                                           E1
@@ -236,7 +242,9 @@ should assume that the molar heat capacity at constant volume is given by CV = 3
 
 
                         Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                       Part A                                          5
+
+
+2008 Semifinal Exam                                       Part A                                          5
 
 
 
@@ -291,7 +299,9 @@ three significant figures in your calculations. The diagram below is not necessa
                                                                  2
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                 Part A                                                  6
+
+
+2008 Semifinal Exam                                 Part A                                                  6
 
 
 
@@ -332,7 +342,7 @@ does not depend on time.
   a. The Stefan-Boltzmann law states that
                                                     P = σATs4
      where A is the surface area of the planet, and Ts the temperature at the surface. Then
-                                                                 1/4
+                                                                   1/4
                                                             P
                                                Ts =                      .
                                                           4πσR2
@@ -354,7 +364,9 @@ does not depend on time.
 
 
                          Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                 Part A                                                     7
+
+
+2008 Semifinal Exam                                 Part A                                                     7
 
 
 
@@ -415,7 +427,9 @@ the observer.
 
 
                         Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                       Part A                                            8
+
+
+2008 Semifinal Exam                                       Part A                                            8
 
 
 
@@ -450,20 +464,20 @@ the observer.
                                                           vsnd 2 + 2gh − 2gvsnd t
 
   b. First, note that in the limit of large vsnd and small h, f reduces to
-                                                                  
+
                                                               g
                                                 f = f0 1 +        t .
                                                              vsnd
 
      However, this is too inaccurate an approximation to get a reasonable answer. Keeping to the exact
      expression, we can rearrange it as
-                                                                       
+
                                         1     1          2gh      2g
                                            =        1 +        −      t
                                         f2   f0 2       vsnd 2   vsnd
 
      which would graph as a straight line by plotting t horizontally and 1/f 2 vertically. The slope and
-     intercept are                                                  
+     intercept are
                                             2g        1        2gh
                                        −           ,       1+
                                          vsnd f0 2   f0 2     vsnd 2
@@ -480,7 +494,9 @@ the observer.
 
 
                         Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                  Part A                                              9
+
+
+2008 Semifinal Exam                                  Part A                                              9
 
 
 
@@ -504,7 +520,9 @@ the observer.
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                           Part A                             10
+
+
+2008 Semifinal Exam                           Part A                             10
 
 
 
@@ -518,7 +536,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                       Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                Part B                                                   11
+
+
+2008 Semifinal Exam                                Part B                                                   11
 
 
 
@@ -568,7 +588,9 @@ loose contact with the platform.
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                   Part B                                            12
+
+
+2008 Semifinal Exam                                   Part B                                            12
 
 
 
@@ -643,7 +665,9 @@ loose contact with the platform.
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                    Part B                                               13
+
+
+2008 Semifinal Exam                                    Part B                                               13
 
 
 
@@ -664,7 +688,7 @@ loose contact with the platform.
 
 Question B2
 Consider a parallel plate capacitor with the plates vertical. The plates of the capacitor are rigidly supported
-in place. The distance between the plates is d. The plates have height h and area A  d2 . Assume
+in place. The distance between the plates is d. The plates have height h and area A   d2 . Assume
 throughout this problem that the force of air resistance may be neglected; however, the force of gravity
 cannot be neglected. Neglect any edge effects as well as any magnetic effects.
                                                                                 d/2
@@ -701,7 +725,9 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
 
 
                          Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                Part B                                                   14
+
+
+2008 Semifinal Exam                                Part B                                                   14
 
 
 
@@ -714,7 +740,7 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
      region between the plates. If V0 is sufficiently large, this will
                                                                     p only occur for some
                                                                                         p range of angular
-     frequencies ωmin < ω < ωmax . You may assume that ωmin  g/h and ωmax  g/h. Making these
+     frequencies ωmin < ω < ωmax . You may assume that ωmin   g/h and ωmax   g/h. Making these
      assumptions, find expressions for ωmin and ωmax in terms of the given quantities and/or fundamental
      constants.
   c. Assume that the region between the plates is not quite a vacuum, but instead humid air with a uniform
@@ -764,7 +790,9 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
 
 
                        Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                      Part B                                                  15
+
+
+2008 Semifinal Exam                                      Part B                                                  15
 
 
 
@@ -778,7 +806,7 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
                                                   vx =        (1 − cos ωt) .
                                                          M dω
        This can be integrated again to find the position relative to the center, which we will define as x = 0,
-                                                                     
+
                                                   qV0         1
                                              x=          t − sin ωt .
                                                  M dω         ω
@@ -806,7 +834,7 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
 
          ii. This is an RC circuit, with characteristic time
                                                               d
-                                                   τ = RC = ρ 2 0 h2 d = ρ0 .
+                                                   τ = RC = ρ 2  0 h2 d = ρ 0 .
                                                              h
         iii. The AC circuit is effectively a capacitor in parallel with a resistor. The current through each is
              ninety degrees out of phase, so if the magnitudes of the current through the capacitor IC and the
@@ -822,14 +850,16 @@ cannot be neglected. Neglect any edge effects as well as any magnetic effects.
             Then                       r
                                            1              V0 p             V0 h2 p
                              I0 = V0         2
-                                               + ω2 C 2 =     1 + (ωRC)2 =         1 + (ωρ0 )2 .
+                                               + ω2 C 2 =     1 + (ωRC)2 =         1 + (ωρ 0 )2 .
                                            R              R                 ρd
 
 
 
 
                          Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                           Part B                             16
+
+
+2008 Semifinal Exam                           Part B                             16
 
 
 
@@ -843,7 +873,9 @@ If there is still time remaining for Part B, you should review your work for
 
 
                       Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                   Part C                                                17
+
+
+2008 Semifinal Exam                                   Part C                                                17
 
 
 
@@ -872,7 +904,7 @@ surface beneath the droplet and the tangent to the curved surface at the point o
      V (R, θ).
    e. By changing the voltage on the control surface, the contact angle, θ, can be changed, which in turn
       changes the focal length of the lens, f . The lensmaker’s formula can be used to calculate the focal
-      length and is given by                                            
+      length and is given by
                                         1                        1    1
                                            = (nliquid − nair )      −      ,
                                         f                        R1   R2
@@ -898,7 +930,9 @@ surface beneath the droplet and the tangent to the curved surface at the point o
 
 
                         Copyright ©2008 American Association of Physics Teachers
-2008 Semifinal Exam                                Part C                                               18
+
+
+2008 Semifinal Exam                                Part C                                               18
 
 
 
@@ -910,7 +944,7 @@ surface beneath the droplet and the tangent to the curved surface at the point o
                     3                      3                              3
 
   e. The radius of curvature of the flat face is R2 = ∞, and R1 = R, so
-                                                                                            1/3
+                                                                                              1/3
                                    R                 1                       3V
                         f=                  =                                                       .
                              nliquid − nair   nliquid − nair       π(cos3 θ − 3 cos θ + 2)

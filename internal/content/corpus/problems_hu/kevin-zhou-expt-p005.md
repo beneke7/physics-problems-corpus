@@ -78,7 +78,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        3
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 

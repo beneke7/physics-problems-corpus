@@ -24,16 +24,16 @@ verification_status: pending
 9. A ball is held at some height above a floor. It is then released and falls on the floor. If air resistance can be ignored, which of the five graphs below (labelled A. to E. beneath each graph) correctly gives the gravitational potential energy $E_{g}$ of the ball as a function time?
 
 A.
-![](aupho-2020-q9-fig01.png)
+![](../../figures/aupho/figures/aupho-2020-q9-fig01.png)
 
 D.
-![](aupho-2020-q9-fig02.png)
+![](../../figures/aupho/figures/aupho-2020-q9-fig02.png)
 
 B.
-![](aupho-2020-q9-fig03.png)
+![](../../figures/aupho/figures/aupho-2020-q9-fig03.png)
 
 E.
-![](aupho-2020-q9-fig04.png)
+![](../../figures/aupho/figures/aupho-2020-q9-fig04.png)
 
 C.
-![](aupho-2020-q9-fig05.png)
+![](../../figures/aupho/figures/aupho-2020-q9-fig05.png)

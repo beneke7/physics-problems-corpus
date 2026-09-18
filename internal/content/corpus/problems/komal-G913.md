@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-A table tennis player wants to hit back the ball, travelling at a speed of $v_1$, with a higher speed, $v_2$, in the opposite direction to the original velocity. How fast should the racket be? 
- Assume that the collision is perfectly elastic and that the mass of the ping-pong ball is negligible compared to the racket held by the player. 
+A table tennis player wants to hit back the ball, travelling at a speed of $v_1$, with a higher speed, $v_2$, in the opposite direction to the original velocity. How fast should the racket be?
+ Assume that the collision is perfectly elastic and that the mass of the ping-pong ball is negligible compared to the racket held by the player.
  (4 pont)

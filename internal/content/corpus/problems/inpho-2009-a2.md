@@ -23,7 +23,7 @@ verification_status: pending
 
 2. A spatially uniform magnetic field $\vec{B}$ exists in the circular region $S$ and this field is decreasing in magnitude with time at a constant rate (see Fig. (1)). The wooden ring $C_{1}$ and the conducting
 
-![](inpho-2009-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2009-a2-fig01.png)
 Figure 1:
 
 ring $C_{2}$ are concentric with the magnetic field. The magnetic field is perpendicular to the plane of the figure. Then

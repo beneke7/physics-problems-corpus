@@ -18,7 +18,7 @@ tenni azt a tényt, hogy a társulat elnöke, Báró Eötvös Loránd 1894 nyar�
 két helyszínen - a két egyetemi városban -, Budapesten és Kolozsváron. Összesen 29 diák adott be dolgozatot. Az
 eredményt október 25-én, a Társulat ünnepélyes ülésén hirdették ki, ahol Eötvös, a Társulat elnöke - egyben miniszter
 és az Akadémia elnöke - személyesen adta át az els® és második helyezettnek a díjakat. Ezeket a díjakat már akkor
-Báró Eötvös-díj-nak nevezték. Kés®bb érem is járt a díjjal, amelyet Eötvös                 sináltatott. Ma már sajnos egyetlen ilyen
+ Báró Eötvös-díj -nak nevezték. Kés®bb érem is járt a díjjal, amelyet Eötvös                 sináltatott. Ma már sajnos egyetlen ilyen
 érem sem lelhet® fel Magyarországon, de megmaradt Eötvös hagyatékában az érem terve. Ennek alapján készíttette
 el a     entenáriumra az Eötvös Loránd Fizikai Társulat azt a díszes oklevelet, amelyet idén el®ször kaptak az Eötvös
 verseny nyertesei.
@@ -44,7 +44,7 @@ nyomásnak kereken háromszorosa);
    | ezután a megfelel® nyomású gázt át kell nyomni a búvárharang alá, a víz helyére.
    Mindezt az 1. ábrán vázoltuk.
    Úgy t¶nik, hogy a dugattyút nyomó er® munkáját kell meghatározni. Ez azonban nagyobb, mint a kompresszor által
-végzett munka, mert besegít a küls® légnyomás is. Így a kompresszor által végzett munka a 2. ábrán bevonalkázott
+végzett munka, mert  besegít  a küls® légnyomás is. Így a kompresszor által végzett munka a 2. ábrán bevonalkázott
 területtel lesz egyenl®: a dugattyú által végzett összes munkából le kell vonni a légköri nyomás által végzett p0 V0
 munkát.
    Az izotermikus tágulási munka kiszámítási formája megtalálható a függvénytáblázatban:
@@ -80,7 +80,9 @@ részt:
                                  W =         pdV =              dV = N kT             dV, W = N kT ln .
                                                             V                       V                V1
                                        V1            V1                       V1
-   2. Vajon nem lehet-e az izotermikus folyamat helyett más folyamattal, kevesebb befektetett munka árán is                  élhoz
+
+
+   2. Vajon nem lehet-e az izotermikus folyamat helyett más folyamattal, kevesebb befektetett munka árán is                  élhoz
 érni?
    Adiabatikus összenyomáskor kevesebb munka is elég lenne a 3p0 nyomás eléréséhez. Viszont akkor fel is melegedne
 a gáz, amely azután az átnyomás közben kezdene leh¶lni, s így                 sökkenne a nyomása. Épp ezért 3p0 -nál jóval nagyobb
@@ -96,11 +98,11 @@ ekkor a nyomása elérné a 3p0 értéket, s sak az átnyomási munkát kellene 
 200 kJ is elég lenne? Ez már ravaszabb gondolat, de azt lehet ellene felhozni, hogy a feladatban szó se volt arról,
 hogy a hajón még egy megfelel® h¶t®berendezés is m¶ködik, amelyet felhasználhatunk a probléma megoldásához. De
 tegyük fel, hogy megengednénk a h¶t®gép használatát, akkor viszont azt a munkát is illene számításba venni, amivel
-a h¶t®gépet | pl. a h¶t®gép kompresszorát | m¶ködtetni kell. Nem lenne nehéz megmutatni, hogy ismét rázetünk:
+a h¶t®gépet | pl. a h¶t®gép kompresszorát | m¶ködtetni kell. Nem lenne nehéz megmutatni, hogy ismét  rá zetünk :
 összesen több munkát kell végeznünk.
                                                                                                      3
    3. Úgy is ki lehet számítani a kompresszor által végzett munkát, hogy elképzeljük: a kezdetben 3 m -nyi leveg®t
-egy zsákba zárjuk, és a zsákot lassan lehúzzuk 10 m-nyire a víz alá. Mivel x méter mélységben az izotermikusan
+egy  zsákba  zárjuk, és a zsákot lassan lehúzzuk 10 m-nyire a víz alá. Mivel x méter mélységben az izotermikusan
                                 4
 összenyomott gázra F (x) = 3 · 10 · (1 + x/10)−1 felhajtóer® hat, a lehúzás során végzett munka (SI-egységrendszerben
 számolva)
@@ -114,11 +116,11 @@ számolva)
            2
 rülete 1 dm .
                                                                                                            2
-   A héliumra kell® óvatossággal egy ugyan sak henger alakú, 1 dm magas, de                     sak 0,99 dm alapterület¶ dugót
+   A héliumra kell® óvatossággal egy ugyan sak henger alakú, 1 dm magas, de                     sak 0,99 dm alapterület¶  dugót
 helyezünk, és elengedjük. A dugó s¶r¶sége a hélium s¶r¶ségével egyenl®.
    | Hogyan mozog a dugó?
    | Mennyi id® alatt ér le az edény aljára?
-   Az egész berendezés h®mérséklete 0 K közvetlen közelében van, a folyadék súrlódása és felületi feszültsége gyelmen
+   Az egész berendezés h®mérséklete 0 K közvetlen közelében van, a folyadék súrlódása és felületi feszültsége  gyelmen
 kívül hagyható.
                                                                                                                    Gnädig Péter
 
@@ -136,7 +138,7 @@ folyadéknak kell kifre sennie, mint amennyi az A terület¶ dugó alól kiszoru
     v0 kiszámításához lehet, hogy el®ször u0 -t kell meghatároznunk? Ez elég is lenne, hiszen a feladat adataiból az
 A : ∆A = 100 arány kiolvasható.
    Milyen összefüggésben szerepelhet még a kiöml® folyadék sebessége? Mivel a folyadék súrlódása és felületi feszültsége
-gyelmen kívül hagyható, ezért érdemes lesz felírni az egész rendszerre a a munkatételt. Eszerint a rendszeren végzett
+ gyelmen kívül hagyható, ezért érdemes lesz felírni az egész rendszerre a a munkatételt. Eszerint a rendszeren végzett
 munka a rendszer mozgási energiájának megváltozásával egyenl®.
    Munkát végz® er® a dugóra ható nehézségi er®. Amíg a dugó | a test |, egy ki siny ∆x-szel elmozdul lefelé, kiszorít
 ∆mfoly tömeg¶ folyadékot, amely u0 sebességgel hagyja el a tartályt. Ezért írhatjuk:
@@ -156,13 +158,15 @@ Egyszer¶sítés után a következ® összefüggés adódik:
                                                                        1
                                                           l̺test g =     ̺foly u20 .
                                                                        2
-Ez éppen a  jó öreg Bernoulli-törvény (1738) spe iális esete, akár ebb®l is kiindulhattunk volna u0 kiszámításához. Ha
+
+
+Ez éppen a   jó öreg  Bernoulli-törvény (1738) spe iális esete, akár ebb®l is kiindulhattunk volna u0 kiszámításához. Ha
 pedig azt is kihasználjuk, hogy a feladatban most a test és a folyadék s¶r¶sége egyenl®, a folyadék kiömlési sebességére
 kapjuk:                                                            p
                                                             u0 =    2gl.
 Ez a Torri elli-féle kiöntési törvény (1646) még egy évszázaddal korábbról.
-   Akár át is fogalmazhatjuk a feladatot: Ahelyett, hogy Hogyan mozog a dugó?, azt kérdezhetjük: Hogyan mozog
-egy lyukas edényb®l súrlódásmentesen kiöml® folyadék esetén a folyadék fels® szintje? Azt már tudjuk, hogyan indul
+   Akár át is fogalmazhatjuk a feladatot: Ahelyett, hogy  Hogyan mozog a dugó? , azt kérdezhetjük:  Hogyan mozog
+egy lyukas edényb®l súrlódásmentesen kiöml® folyadék esetén a folyadék fels® szintje?  Azt már tudjuk, hogyan indul
 el. Kezd®sebessége:
                                                            ∆A      ∆A p
                                                  v0 =         u0 =     2gl.
@@ -177,18 +181,18 @@ folyadék sebessége                                                p
                                                   v=          u=     2gh.
                                                             A     A
 Ez még így is írható:
-                                                            s          2
+                                                            s            2
                                                                    ∆A
                                                       v=      2              gh,
                                                                     A
 amib®l látszik, hogy a dugó mozgása egyenletesen változik, lassulásának nagysága pedig
 
-                                                     2
+                                                       2
                                                  ∆A                                m
                                                            · g = 10−4 g = 10−3        .
                                                   A                                s2
 
-A dugó mozgásának sebességid® grakonja az 5. ábrán látható.
+A dugó mozgásának sebesség id® gra konja az 5. ábrán látható.
    A dugó sebessége éppen akkor      sökken egyébként is zérusra, amikor a dugó alja eléri az edény alját, teteje pedig a
 hengeres edény tetejével kerül egy szintre. (Az analóg példában: a kiöml® folyadék felszíne a lyukhoz ér.)
    Így a dugó leérkezéséig eltelt τ id®
@@ -228,11 +232,13 @@ d = 0,5 m; l = 4 m; m = 10−3 kg; α = 1◦ .
 
    Megoldás. Tisztázzuk el®ször a fémsík szerepét! Tudjuk, hogy elektrosztatikus esetben a fémek felülete mindig
 ekvipoten iális. (Addig-addig mozognak, rendez®dnek rajtuk a töltések, amíg ez az állapot ki nem alakul.) Ez azt
-jelenti, hogy a fémek felületénél az elektromos térer®sségnek nem lehet érint® irányú komponense, vagyis a térer®sség
+
+
+jelenti, hogy a fémek felületénél az elektromos térer®sségnek nem lehet érint® irányú komponense, vagyis a térer®sség
 minden pontban mer®leges a fém felületére. A feladatban ponttöltés és sík fémfelület szerepel, ezért az er®térnek a 7(a)
-ábrán vázolt szerkezet¶nek kell lennie. Ezzel az er®térrel ekvivalens egy olyan dipólus er®terének egyik fele, amelyet
+ábrán vázolt szerkezet¶nek kell lennie. Ezzel az er®térrel ekvivalens egy olyan dipólus er®terének  egyik fele , amelyet
 egymástól 2x távolságra lév® Q és −Q ponttöltések hoznak létre, ahogyan azt a 7(b) ábrán vázoltuk.
-   A fémsík hatása tehát minden tekintetben helyettesíthet® egy −Q nagyságú ú.n. tükörtöltés hatásával. Ennek a
+   A fémsík hatása tehát minden tekintetben helyettesíthet® egy −Q nagyságú ú.n.  tükörtöltés  hatásával. Ennek a
 felismerésnek köszönhet®en azt az er®t, amit a fémsík fejt ki a Q tötésre, úgy is kiszámíthatjuk, mint a tükörtöltés
 által kifejtett vonzóer®t.
    A Coulomb-er®n kívül a Q töltésre még két er® hat (8. ábra): a nehézségi er® és a fonáler®. A három er® ered®je akkor
@@ -265,9 +271,9 @@ A függvény menete viszonylag kis α értékek környezetében a 9. ábrán lá
 tehát egy olyan legkisebb d érték, amelynél közelebb nem vihetjük a fémsíkot. Ha közelebb visszük, nin s egyensúlyi
 állapot, tehát hozzá sapódik az inga a fémsíkhoz.
    Határozzuk meg d minimumát!
-   (Akiknek gondot okoz e kissé bonyolult függvény dieren iálása, úgy segíthetnek magukon, ha | felismerve, hogy
+   (Akiknek gondot okoz e kissé bonyolult függvény di eren iálása, úgy segíthetnek magukon, ha | felismerve, hogy
  sak kis szögekröl van szó |, sin α és tg α helyére α-t írnak. Ekkor        sak hatványfüggvényeket kell deriválni, s a végered-
-mény legfeljebb a negyedikötödik értékes jegyben tér el a pontos eredményt®l.)
+mény legfeljebb a negyedik ötödik értékes jegyben tér el a pontos eredményt®l.)
   A minimum helyére (α ) kapjuk:
                           ∗
 
@@ -284,7 +290,7 @@ d legkisebb lehetséges értékére pedig ez adódik:
 rántsa az ingát, legalább ∆d = 5,65 cm-rel közelebb kell vinni.
    Már    sak arra kell válaszolnunk, hogy tudjuk-e úgy mozgatni a fél méterre lév® fémsíkot, hogy hozzá sapódjon az
 inga akkor is, ha sohasem kerül a fémsík fél méternél közelebb a felfüggesztési ponthoz.
-   Igen, tudjuk: be kell lengetni az ingát , mint egy hintát. Elöször eltávolítjuk a fémsíkot, ekkor az inga hátra-
+   Igen, tudjuk:  be kell lengetni az ingát  , mint egy hintát. Elöször eltávolítjuk a fémsíkot, ekkor az inga hátra-
 lendül. Amikor az inga elindul visszafelé, visszahozzuk a fémsíkot, hogy vonzóerejével növelje a lengés amplitúdóját.
 Lényegében az inga lengésével szinkronban, de mindig ellentétes fázisban kell mozgatni a fémsíkot. Akármilyen kis
 amplitúdóval is rezegtetjük a fémsíkot, ha ez megfelel® fázisban történik, el®bb-utóbb hozzá sapódik az inga.
@@ -292,9 +298,11 @@ amplitúdóval is rezegtetjük a fémsíkot, ha ez megfelel® fázisban történ
    Kiegészít® megjegyzések.
    1. Tanulságos áttekinteni a feladat energetikai megoldását is. Nem sak azért, mert ez egy második megoldás, hanem
 azért is, mert olyan új felismeréshez vezet, amely az el®z® megoldásból nem derült ki.
-   A fémsíkon inuált (elektromosan megosztott) töltésrendszer poten iális energiájának felírása elég bonyolult feladat,
+   A fémsíkon in uált (elektromosan megosztott) töltésrendszer poten iális energiájának felírása elég bonyolult feladat,
 ezért ismét alkalmazzuk a tükörtöltéses módszert. Az inga + fémsík rendszer helyett tekintsük az inga + tükörképinga
-rendszert (10. ábra), és írjuk fel e két ingából álló rendszer öszes poten iális energiáját! Ez a két ingatest gravitá iós
+
+
+rendszert (10. ábra), és írjuk fel e két ingából álló rendszer öszes poten iális energiáját! Ez a két ingatest gravitá iós
 helyzeti energiáiból és az elektrosztatikus köl sönhatási energiáiból tev®dik össze (az utóbbi negatív).
 
 
@@ -319,7 +327,7 @@ Egyetlen inga poten iális energiája ennek a fele lesz:
                                                                        mg 2 kQ2 1
                              vagy áttérve az x = lα változóra:U1 (x) =     x −        .
                                                                         2l      4 d−x
-Ezt az U1 (x) függvényt x szerint dieren iálva kapjuk meg az ingatestre ható (x irányú) er® −1-szeresét, tehát az er®:
+Ezt az U1 (x) függvényt x szerint di eren iálva kapjuk meg az ingatestre ható (x irányú) er® −1-szeresét, tehát az er®:
 
 
                                                      dU1 (x)   mg    kQ2   1
@@ -329,8 +337,8 @@ Ezt az U1 (x) függvényt x szerint dieren iálva kapjuk meg az ingatestre hat�
    Mind az U1 (x), mind az F1 (x) függvények menete a paraméterek értékeit®l függ. Ha m, g , l , k , Q állandó, akkor
 egyedül d-t®l. A 11. ábrán vázoltunk három különböz® esetet. Az a) esetben a poten iális energia minimuma jelöli ki
 az inga stabilis egyensúlyi helyzetét, a maximum egy labilis egyensúlyt jelez. A               ) esetben nin s egyensúlyi helyzet.
-A kett® közti átmenetet, a határesetet mutatja az ábra b) része, amikor a poten iális energiának vízszintes érint®j¶
-inexiós pontja van, itt valósulhat meg még utoljára egyensúlyi helyzet. Az ehhez tartozó d paraméterérték lesz d
+A kett® közti átmenetet, a határesetet mutatja az ábra b) része, amikor a poten iális energiának  vízszintes  érint®j¶
+in exiós pontja van, itt valósulhat meg még utoljára egyensúlyi helyzet. Az ehhez tartozó d paraméterérték lesz d
 legkisebb értéke.
                          dU1        dF1
    x = x∗ helyen tehát       = 0 és     = 0 is igaz.
@@ -360,10 +368,10 @@ még tovább közelítjük a fémsíkot, akkor már neki sapódik az inga.
                                             d = dmin =           = 0,4435 m
                                                        2 2mg
 
-   2. A feladat harmadik kérdésére a belengetésen kívül más ötletes válaszok, megoldási javaslatok is születtek.
+   2. A feladat harmadik kérdésére a  belengetésen  kívül más ötletes válaszok, megoldási javaslatok is születtek.
 Ilyen például a fémsík körbeforgatása, amely körmozgásra          sábítja az ingatestet. Voltak, akik a fémsík saját síkjában
 történ® mozgatással próbálkoztak, számítva az elektronok tehetetlenségére, s a mozgó töltésekre ható Lorentz er®vel is
-többen próbálkoztak | nem sok sikerrel. Elág sok jó zikai szemlélet¶ versenyz® akadt, aki | ha nem is tudta megoldani
+többen próbálkoztak | nem sok sikerrel. Elág sok jó  zikai szemlélet¶ versenyz® akadt, aki | ha nem is tudta megoldani
 a feladat nehéz, középs® részét |, erre a befejez® kérdésre jól válaszolt.
 
 
@@ -372,12 +380,14 @@ a feladat nehéz, középs® részét |, erre a befejez® kérdésre jól válas
    A verseny eredménye
 
 
-   Megosztott III. díjat nyert egyenl® helyezésben a következ® három versenyz®:
+   Megosztott I II. díjat nyert egyenl® helyezésben a következ® három versenyz®:
    Horváth Péter, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályos tanulója (fels® fénykép), Horváth
 Gábor tanítványa;
    Ková s Krisztián, a békés sabai Kemény Gábor M¶szaki Szakközépiskola IV. osztályos tanulója (középs® fény-
 kép), Mekis László és Varga István tanítványa;
-   Varga Dezs®, a miskol i Földes Feren        Gimnázium IV. osztályos tanulója (alsó fénykép), id. Szabó Kálmán
+
+
+   Varga Dezs®, a miskol i Földes Feren        Gimnázium IV. osztályos tanulója (alsó fénykép), id. Szabó Kálmán
 tanítványa.
    III. díjat nyert egyenl® helyezésben a következ® hét versenyz®:
    Borsányi Szabol s, a budapesti Piarista Gimnázium IV. osztályos tanulója, Görbe László tanítványa;
@@ -388,18 +398,18 @@ umban érettségizett, mint Horváth Gábor tanítványa;
 nya;
    Koblinger Egmont, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályos tanulója, Horváth Gábor
 tanítványa;
-   Mizera Feren , az ELTE TTK zikus szakos hallgatója, aki Szlovákiában, Rév-Komáromban érettségizett, mint
+   Mizera Feren , az ELTE TTK  zikus szakos hallgatója, aki Szlovákiában, Rév-Komáromban érettségizett, mint
 Szakál Ildikó, Spátai Lotár és Szabó Endre tanítványa;
    Tóth Gábor Zsolt, a budapesti Árpád Gimnázium III. osztályos tanulója, Vankó Péter tanítványa.
-   Di séretben részesültek, s err®l oklevelet kaptak a verseny 1115. helyezettjei:
-   11. Halbritter András, a BME mérnökzikus szakos hallgatója, aki a gy®ri Czu zor Gergely Ben és Gimná-
-ziumban érettségizett, mint Csonka László tanítványa; 1213. Bárász Mihály, a Fazekas Mihály F®városi Gyakorló
-Gimnázium III. osztályos tanulója, Horváth Gábor tanítványa; Várhegyi Péter, a BME mérnökzikus szakos hall-
-gatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett, mint Horváth Gábor tanítványa; 1415.
+   Di séretben részesültek, s err®l oklevelet kaptak a verseny 11 15. helyezettjei:
+   11. Halbritter András, a BME mérnök  zikus szakos hallgatója, aki a gy®ri Czu zor Gergely Ben és Gimná-
+ziumban érettségizett, mint Csonka László tanítványa; 12 13. Bárász Mihály, a Fazekas Mihály F®városi Gyakorló
+Gimnázium III. osztályos tanulója, Horváth Gábor tanítványa; Várhegyi Péter, a BME mérnök  zikus szakos hall-
+gatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett, mint Horváth Gábor tanítványa; 14 15.
 Kon z Imre, a Fazekas Mihály F®városi Gyakorló Gimnázium II. osztályos tanulója, Horváth Gábor tanítványa; Lo-
 vas Rezs®, a debre eni KLTE Gyakorló Gimnáziumának III. osztályos tanulója, Dudi s Pál, Kirs h Éva és Szegedi
 Ervin tanítványa.
-   Jegyz®könyvi di séretben részesültek a 1620. helyezett versenyz®k egyenl® helyezésben:
+   Jegyz®könyvi di séretben részesültek a 16 20. helyezett versenyz®k egyenl® helyezésben:
    Feldmann Márton, a soproni Vas- és Villamosipari Szakközépiskola IV. osztályos tanulója, Lendvay Péterné tanít-
 ványa; Juhász Bertalan, a debre eni KLTE Gyakorló Gimnáziumának IV. osztályos tanulója, Dudi s Pál tanítványa;
 Madarassy Pál, a ELTE TTK térképész szakos hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban
@@ -427,7 +437,9 @@ IV. osztályos tanulója, Kon z Károly tanítványa.
                        V0
               3 p0 ,                                                 p0                         (c)
                         3
-                                  d             d
+
+
+                                  d             d
 
 
                         α l                         l α
@@ -450,7 +462,9 @@ F1                      F1                                F1
                 x                                     x                       x
                                           x*
  a)   d>d min                b)       d=d min                  c)   d<d min
-       p
+
+
+       p
 
 3 p0
 
@@ -478,7 +492,9 @@ F1                      F1                                F1
 
 
                 A+ ∆ A
-                       h
+
+
+                       h
 
 
 
@@ -492,7 +508,9 @@ v0
               2
                                t
                            τ
-          d
+
+
+          d
 
 
 
@@ -514,7 +532,9 @@ x    Q    Q       x   x   Q
 
 
     (a)                   (b)
-              d
+
+
+              d
 
                   l
 

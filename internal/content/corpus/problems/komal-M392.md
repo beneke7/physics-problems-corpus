@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202001"
 verification_status: flagged
 ---
 
-Measure the specific heat capacity of the material of a 100-forint (or 1-euro) coin in a calorimeter (thermos flask). 
+Measure the specific heat capacity of the material of a 100-forint (or 1-euro) coin in a calorimeter (thermos flask).
  (6 pont)

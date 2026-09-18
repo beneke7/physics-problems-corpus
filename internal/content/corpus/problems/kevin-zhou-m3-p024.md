@@ -52,7 +52,9 @@ end of which is attached to a very thin pole. The ball is thrown so that it init
 
 
                                                         15
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
 
        Example 11

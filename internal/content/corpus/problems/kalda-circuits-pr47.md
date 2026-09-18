@@ -19,4 +19,4 @@ verification_status: pending
 
 There is an infinite triangular lattice; the edges of the lattice are made of wire, and the resistance of each edge is $R$. Let us denote the corners of a triangular lattice face by $A$, $B$, and $C$. The wire connecting $B$ and $C$ is cut off. Determine the resistance between $A$ and $B$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr47-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr47-fig1.jpg)

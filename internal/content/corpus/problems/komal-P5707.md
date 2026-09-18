@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-Eduard rides his bicycle downhill at a constant speed along a long slope of constant angle of inclination. How does the power dissipated by the brakes depend on the speed? 
- The total mass of Eduard and his bicycle is $m$, the slope angle is $\alpha$, and without braking, Eduard would accelerate to a speed of $v_\mathrm{max}$. 
+Eduard rides his bicycle downhill at a constant speed along a long slope of constant angle of inclination. How does the power dissipated by the brakes depend on the speed?
+ The total mass of Eduard and his bicycle is $m$, the slope angle is $\alpha$, and without braking, Eduard would accelerate to a speed of $v_\mathrm{max}$.
  (4 pont)

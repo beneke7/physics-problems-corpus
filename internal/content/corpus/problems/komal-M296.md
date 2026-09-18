@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200904"
 verification_status: pending
 ---
 
-Give an estimation for the diameter of the grains of a known material, - for example playground sand - according to the rate of its settling process in a known liquid. 
+Give an estimation for the diameter of the grains of a known material, - for example playground sand - according to the rate of its settling process in a known liquid.
  (6 pont)

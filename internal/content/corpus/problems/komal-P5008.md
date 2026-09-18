@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A sample of monatomic gas is heated in such a way that during the process its molar heat capacity is the same as the universal gas constant $R$. By what factor does the volume of the gas change if its temperature is doubled? 
+A sample of monatomic gas is heated in such a way that during the process its molar heat capacity is the same as the universal gas constant $R$. By what factor does the volume of the gas change if its temperature is doubled?
  (5 pont)

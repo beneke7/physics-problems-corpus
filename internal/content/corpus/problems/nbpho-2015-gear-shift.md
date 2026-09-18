@@ -26,7 +26,7 @@ techniques: [extremization, graphical-reduction]
 
 The maximum torque of a car's engine depends on the engine's rotation speed (see the following figure, a larger copy is on an extra sheet).
 
-![](../figures/nbpho-2015-gear-shift-fig1.jpg)
+![](../../figures/nbpho/figures/nbpho-2015-gear-shift-fig1.jpg)
 
 The rotations of the engine are transferred to the wheels through a transmission gearbox. When the car is in the first gear, then the gear ratio from the engine to the wheels is 14:1; in the second gear, the gear ratio is 7:1.
 

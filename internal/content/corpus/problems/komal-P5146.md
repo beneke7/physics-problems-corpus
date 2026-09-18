@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-The meniscus of the water in a glass is concave, whilst the meniscus of mercury in a glass container is convex at the vertical wall. Is there any shape of a glass container such that the meniscus of mercury in the container is concave at the glass wall as well? 
+The meniscus of the water in a glass is concave, whilst the meniscus of mercury in a glass container is convex at the vertical wall. Is there any shape of a glass container such that the meniscus of mercury in the container is concave at the glass wall as well?
  (4 pont)

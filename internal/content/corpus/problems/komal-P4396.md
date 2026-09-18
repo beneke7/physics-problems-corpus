@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201112"
 verification_status: pending
 ---
 
-Given n  voltaic cells of electromotive force U $_{0}$ and of internal resistance R $_{b}$ each. Find the greatest power available from the cells if they are a ) connected in series; b ) connected in parallel. 
+Given n  voltaic cells of electromotive force U $_{0}$ and of internal resistance R $_{b}$ each. Find the greatest power available from the cells if they are a ) connected in series; b ) connected in parallel.
  (4 pont)

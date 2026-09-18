@@ -48,7 +48,9 @@ quantities we have are
 Since λ is the only thing with dimensions of mass, it can’t affect the speed, because there is
 nothing that could cancel out the mass dimension. So the only possible answer is
 v0 ∼ Lω0
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 where the ∼ indicates equality up to a dimensionless constant, which cannot be found by
 dimensional analysis alone. In practice, the constant usually won’t be too big or too small,
 so Lω0 is a decent estimate of v0. But even if it isn’t, the dimensional analysis tells us the
@@ -114,7 +116,9 @@ on its radius R, density ρ, surface tension γ, and the gravitational constant 
 many parameters for dimensional analysis to work, but if you think about it for a second,
 you’ll see that one of them doesn’t actually matter. Using this, find an expression for f up to
 a dimensionless constant.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) We just do the usual dimensional analysis,
 [f] = s−1
 [R] = m [ρ] = kg/m3
@@ -178,7 +182,9 @@ which is reasonably close. (Actually, the exact answer is v =
 p
 γp/ρ, as we’ll derive in T3
 and W3, so thermodynamics actually does play a role through the dimensionless constant.)
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 (b) We have
 [B] =
 kg
@@ -220,10 +226,10 @@ You should find something puzzling going on. (Hint: to resolve the problem, it m
 to find the stopping time explicitly in a few examples.)
 Solution. (a) The dimensions of b can be found with [b] = [F/vn] = kg · m1−n · s−2+n. To get a
 stopping time or distance, the mass term must be canceled out. So we’re working with
-
+
 b
 m
-
+
 = m1−n
 s−2+n
 [v] =
@@ -242,7 +248,9 @@ x ∝
 mv2−n
 b
 .
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The results don’t seem to make sense. At n = 1, it appears that the time it takes to stop
 no longer depends on v, which doesn’t seem correct since the stopping time should always
 increase with velocity. And for n > 1, the stopping time decreases with velocity, which is even
@@ -303,7 +311,9 @@ Z ∞
 e−ax2+bx+c
 dx
 and verify that your answer makes dimensional sense.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. We can simply factor out the dependence on c, and get rid of the a in the exponent by
 taking u =
 √
@@ -320,13 +330,13 @@ du.
 To get rid of the pesky linear term in the exponent, we note that
 −v2
 = −
-
+
 u −
 b
 2
 √
 a
-2
+ 2
 = −u2
 +
 b
@@ -381,7 +391,9 @@ log(x) is simply defined to be such an antiderivative. It’s all tautology, but
 [2] Problem 7. In particle physics it is conventional to work in “natural units”, where the numeric
 values of ℏ and c are equal to 1. For example, if we take the second as the unit of time, then we
 can take the light-second as the unit of length, so that c = 1light-second/second. This is usually
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 sloppily written as “ℏ = c = 1” so that factors of ℏ and c can be suppressed. However, you can
 always restore these factors by dimensional analysis.
 According to standard references, the mass of the Higgs boson is about 125GeV, where 1eV is
@@ -390,13 +402,13 @@ of this statement and find the mass of the Higgs boson in kilograms.
 Solution. One easy way to start out dimensional analysis is with famous equations: E = mc2, or
 E = 1
 2mv2 to get m ∼ E/c2. Thus the mass of the Higgs boson is m = 125GeV/c2 = 2.22×10−25 kg.
-[3] Problem 8.  W 1 0USAPhO 2002, problem A3.
+[3] Problem 8.   W 1 0USAPhO 2002, problem A3.
 Example 4
 The wavefunction ψ(x,y,z) of the electron in a hydrogen atom obeys the Schrodinger equation
 −
 ℏ2
 2m
-
+
 ∂2
 ∂x2
 +
@@ -405,7 +417,7 @@ The wavefunction ψ(x,y,z) of the electron in a hydrogen atom obeys the Schrodin
 +
 ∂2
 ∂z2
-
+
 ψ −
 e2
 4πϵ0r
@@ -441,7 +453,9 @@ energy, and so on. This means that the solutions to the Schrodinger equation abo
 qualitatively the same no matter what these parameters are; all that changes are the overall
 length, time, and energy scales. In problem 11, you’ll investigate how this conclusion changes
 when we add more dimensionful parameters.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Dimensional analysis is especially helpful with scaling relations. For example, a question might ask
 you how the radius of the hydrogen atom would change in a world where the electron mass was
 twice as large. You would solve this problem in the exact same way as the example above, using
@@ -495,7 +509,9 @@ This is a tremendously large electric field!
 All of the results above are not that accurate, but they become much more accurate if we re-
 place ϵ0 with 4πϵ0. That in turn makes sense because these factors always appear together in
 electromagnetism.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3: Buckingham Pi Theorem
 Dimensional analysis can’t always pin down the form of the answer. If one has N quanti-
 ties with D independent dimensions, then one can form N − D independent dimensionless
@@ -539,7 +555,9 @@ The answer can only depend on ρ, d, h, and g. The Buckingham Pi theorem gives
 p
 gd5.
 That’s as far as we can get with dimensional analysis; to go further we need to know more
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 about sand. If we were dealing with an ideal fluid, then the flow speed would be v =
 √
 2gh by
@@ -588,7 +606,9 @@ of air is ρ ≈ 1kg/m3. Estimate the blast energy E.
 (b) How much mass-energy (in grams) was used up in this blast?
 (c) If we measure the entire function R(t), what general form would we expect it to have, if this
 dimensional analysis argument is correct?
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (d) Repeat part (c) for the case where the shock wave is cylindrical. (This would be relevant if
 one detonated a long chain of explosives.)
 Solution. (a) The only way to write an expression with the right dimensions is
@@ -657,7 +677,9 @@ Using the chain rule, show that
 = a2
 0∇2
 .
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Similarly show that if we define a dimensionless energy Ẽ = E/E0, using the energy scale E0
 found in problem 9, then the Schrodinger equation can be written in a form like
 −˜ ∇2
@@ -714,12 +736,12 @@ which gives two factors of a0. This holds true for all the other dimensions, so
 −
 ℏ2ϵ0a0
 me2
-
+
 1
 a2
 0
 ˜ ∇2
-
+
 ψ −
 a0
 r
@@ -730,7 +752,9 @@ which simplifies to
 1
 r̃
 ψ = Ẽψ.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 (c) Since
 √
 1 + x ≈ 1 + x/2 + (1/2)(−1/4)x2,
@@ -796,13 +820,15 @@ see this paper.
 You probably won’t see any differential equations as complex as the ones in the above problem
 anywhere in Olympiad physics, but the key idea of using dimensionless quantities to simplify and
 clarify the physics can be used everywhere.
-[5] Problem 12.  h 1 0IPhO 2007, problem “blue”. This problem applies thermodynamics and dimen-
+[5] Problem 12.   h 1 0IPhO 2007, problem “blue”. This problem applies thermodynamics and dimen-
 sional analysis in some exotic contexts.
 Example 7
 Estimate the Young’s modulus for a material with interatomic separation a and typical atomic
 bond energy Eb. Use this to estimate the spring constant of a rod of area A and length L,
 as well as the speed of sound, if each atom has mass m.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 This example is to get you comfortable with the Young’s modulus Y , which occasionally
 comes up. It is defined in terms of how much a material stretches as it is pulled apart,
@@ -871,7 +897,9 @@ r
 1010 eV
 c ∼ 10−5
 c ∼ 3km/s
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 which is the right order of magnitude. (The true answer is 12km/s.)
 Amazingly, we can get an even rougher estimate of v for any solid in terms of nothing besides
 fundamental constants. To be very rough, the binding energy is on the order of that of
@@ -882,10 +910,10 @@ Eb ∼
 e2
 a0
 ∼ me
-
+
 e2
 4πϵ0ℏ
-2
+ 2
 .
 We take the nuclear mass to be very roughly the proton mass mp, which gives
 v
@@ -894,10 +922,10 @@ c
 s
 me
 mp
-
+
 e2
 4πϵ0ℏc
-2
+ 2
 ∼ α
 r
 me
@@ -928,7 +956,9 @@ Example 8
 Cutting-edge paleontological research has found that the famed T. Rex was essentially a
 gigantic chicken. Suppose a T. Rex is about N = 20 times larger in scale than a chicken.
 How much larger is its weight, cross-sectional area of bone, and walking speed?
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 These kinds of biological scaling arguments are fun to think about, though the reliability of
 the results is somewhat questionable – the data is extremely noisy, and if any given scaling law
@@ -972,7 +1002,9 @@ we were comparing all evolved so that their muscles would work reasonably well i
 gravity, releasing a decent fraction of their stored energy in the short time required for a
 jump. So, as remarked above, you can’t solve every problem by just listing a few quantities
 and doing dimensional analysis – you really have to understand the system each time.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 2 Approximations
 Idea 4: Taylor Series
 For small x, a function f(x) may be approximated as
@@ -1044,7 +1076,9 @@ However, it’s a little tricky because we have a Taylor series in a denominator
 two ways to deal with this. We could multiply both sides by cosx, and expand tanx in
 a Taylor series with unknown coefficients. Then we would get a system of equations that
 will allow us to solve for the coefficients recursively, a technique known as “reversion of series”.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 A faster method is to use the Taylor series for 1/(1 − x). We have
 1
 1 − u
@@ -1137,7 +1171,9 @@ x3
 2x5
 15
 .
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 15. For small x, approximate the quantity
 x2ex
 (ex − 1)2
@@ -1192,7 +1228,9 @@ y ≈
 More generally, the answer is a series in
 √
 x. Since cosine is even, the next term is O(x3/2).
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (b) In order to get higher order terms, we can write
 cos−1
 (1 − x) = cos−1
@@ -1274,15 +1312,17 @@ higher terms using binomial coefficients,
 =
 ∞ X
 m=0
-
+
 n
 m
-
+
 xm
 where the definition of the binomial coefficient is formally extended to arbitrary real n.
 The binomial theorem is one of the most common approximations in physics. It’s really just taking
 the first two terms in the Taylor series of (1 + x)n, but we give it a name because it’s so useful.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 [1] Problem 17. Suppose the period of a pendulum is one second, and recall that
 T = 2π
 s
@@ -1299,13 +1339,13 @@ x > d, the electric field along the x axis is
 E(x) =
 q
 4πϵ0
-
+
 1
 x2
 −
 1
 (x − d)2
-
+
 .
 For x ≫ d, use the binomial theorem to approximate the field.
 Solution. Use the binomial theorem with d/x ≪ 1 to get
@@ -1314,11 +1354,11 @@ Solution. Use the binomial theorem with d/x ≪ 1 to get
 =
 1
 x2
-
+
 1 +
 2d
 x
-
+
 .
 Then
 E(x) = −
@@ -1354,10 +1394,10 @@ x2
 ).
 The first two terms agree with the usual form of the binomial theorem. For the third term,
 note that the coefficient should be
-
+
 1/2
 2
-
+
 =
 (1/2)(−1/2)
 2
@@ -1365,7 +1405,9 @@ note that the coefficient should be
 1
 8
 which is indeed what we find.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Of course, the result is 1 + x, so we want the O(x2) term to vanish. On the other hand,
 applying the binomial theorem gives
 p
@@ -1421,60 +1463,60 @@ Solution
 Imagine adding people one at a time. The second person has a 1/365 chance of sharing a
 birthday with the first. If they don’t share a birthday, the third person has a 2/365 chance
 of sharing a birthday with either, and so on. So a decent estimate for n is the n where
-
+
 1 −
 1
 365
-
+
 1 −
 2
 365
-
+
 ...
-
+
 1 −
 n − 1
 365
-
+
 ≈
 1
 2
 .
 The surprising point of the birthday paradox is that n ≪ 365. So we can use the binomial
 theorem in reverse, approximating the left-hand side as
-
+
 1 −
 1
 365
-
+
 1 −
 1
 365
-2
+ 2
 ...
-
+
 1 −
 1
 365
-n−1
+ n−1
 =
-
+
 1 −
 1
 365
-n(n−1)/2
+ n(n−1)/2
 ≈
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 which is valid since n/365 is small. It’s tempting to use the binomial theorem again to write
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 ≈ 1 −
 n2
 2 · 365
@@ -1487,7 +1529,9 @@ Since the series expansion variable is 1/2, each term in the series expansion is
 big as the last (ignoring numerical coefficients), so we expect to be off by about (1/2)2 = 25%.
 The binomial theorem is an expansion for (1 + x)y which works when both x and xy are
 small. Here xy isn’t small, and we instead want an approximation that works when only x is
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 small. One trick to dealing with an annoying exponent is to take the logarithm, since that
 just turns it into a multiplicative factor. Note that
 log((1 + x)y
@@ -1496,11 +1540,11 @@ by Taylor series, which implies that
 (1 + x)y
 ≈ eyx
 when x is small, an important fact which you should remember. So we have
-
+
 1 −
 1
 365
-n2/2
+ n2/2
 ≈ e−n2/(2·365)
 =
 1
@@ -1542,7 +1586,9 @@ The power rule for integration,
 R
 xn dx = xn+1/(n+1)+C, breaks down for n = −1, where it would
 give x0/0. Given the above result, it’s not surprising that in this case the integral is a logarithm.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 As you can see, there are lots of different types of series approximations, and many more we
 haven’t even mentioned at all. For example, Fourier series will be important in W1, and the
@@ -1560,10 +1606,10 @@ theory of electrical shielding in metals, one has to perform the small x expansi
 x2 − 1
 4x
 log
-
+
 1 + x
 1 − x
-
+
 ≈
 x2
 3
@@ -1601,7 +1647,9 @@ Remark
 When a problem says α ≪ 1, what does it mean? Does it mean we are allowed to set
 α = 0? Or perhaps that we should always expand to first order in α? As you’ve seen
 from the above questions, it depends on the context. The rule is always that you want
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 the simplest approximation that gives the essential physics for the problem you’re considering.
 For example, let’s return to problem 18, where we consider an electric dipole with d/x ≪ 1.
 If we just plugged in d = 0, we would get E(x) = 0 + O(d/x). That’s a mathematically
@@ -1612,7 +1660,7 @@ O(d/x) term. But if we had gone out to O(d2/x2), we would have found
 E(x) = −
 q
 4πϵ0x2
-
+
 2d
 x
 +
@@ -1621,7 +1669,7 @@ x2
 + O(d3
 /x3
 )
-
+
 .
 If you then used this expression, in a problem that expects you to use only the O(d/x) term,
 you would probably get annoyingly complicated expressions. So does that mean you should
@@ -1651,7 +1699,9 @@ doesn’t pressing cos−1 repeatedly give the same result? As another example, 
 has a unique solution, why does repeatedly pressing sin not work so well?
 (c) Find a nonzero solution for x = tan(x/2).
 (d) Find a nonzero solution for ex − 1 = 2x.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (e) ⋆ Find a single iteration that can solve x = r(1 − x)2 for both r = 1/2 and r = 1.
 Solution. (a) Well, just try it!
 (b) What makes cosx work and arccosx fail is that at the solution to x = cosx, the magnitude
@@ -1696,7 +1746,9 @@ x/r won’t work, because it’ll be stable for
 r = 1 but unstable for r = 1/2.
 Instead, we need to play around with the expression. It turns out another possible iteration
 is x → (2+1/r −x)−1, and this is stable for both r = 1/2 and r = 1, and in fact for all r > 0.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 22. [A] Newton’s method is a more sophisticated method for solving equations, which
 converges substantially faster than binary search. Suppose we want to solve the equation f(x) = 0.
 Starting with a nearby guess x0, we evaluate f(x0) and f′(x0), then find our next guess by applying
@@ -1744,7 +1796,9 @@ x0
 .
 This is no longer quadratically convergent; instead the error goes down by the same factor in
 each iteration, so the number of significant figures correct goes up linearly.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 It’s interesting to compare this to iteration. When the method of iteration works, we typically
 have exponential convergence, which means the number of significant figures goes up linearly.
 However, in cases like f(x) = x2 where f′(x) vanishes at the solution, the error is squared in
@@ -1787,7 +1841,9 @@ The lesson, which we’ll see over and over again in later handouts, is that an 
 expression can often be less intuitive, less useful, and less accurate than a well-chosen
 approximate one. The art of physics is knowing how to make such approximations.
 [1] Problem 23. Find the solutions of the equation x2 − 1020x + 1 = 0 to reasonable accuracy.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Applying the quadratic formula, the solutions are
 x =
 1020 ±
@@ -1843,7 +1899,7 @@ x =
 1 + Aϵ2
 + O(ϵ3
 )
-
+
 with no O(ϵ) term in parentheses. (If you don’t believe this, check this term vanishes for yourself!)
 Plugging this into the equation gives
 1
@@ -1860,7 +1916,9 @@ Plugging this into the equation gives
 + 1 = 0
 which is equivalent to
 3A − 2A + 1 + O(ϵ) = 0
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 from which we conclude A = −1, and hence the third root is
 x =
 1
@@ -1907,7 +1965,9 @@ In reality, it’s probably faster to go through the full derivation than all of
 if you’re just not sure about whether it’s a sine or a cosine, or what the prefactor is, then
 limiting cases can be quickly used to recover that piece. Also note that the approximations
 we used above are frequently useful for evaluating limiting cases.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 Example 14
 Consider an Atwood’s machine, i.e. an ideal pulley with masses m and M hung on each end
 of the string. Find the tension in the string.
@@ -1949,7 +2009,9 @@ g.
 which is indeed the real answer.
 [1] Problem 26. Find the perimeter of a regular N-gon, if L is the distance from the center to any
 of the vertices. By considering a limiting case, use this to derive the circumference of a circle.
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. By basic trigonometry, the perimeter is 2NLsin(π/N). Then the circumference of a
 circle is
 lim
@@ -1985,11 +2047,11 @@ v2
 ,
 v2
 g
-
+
 1 +
 2gh
 v2
-
+
 ,
 v2/g
 1 − 2gh/v2
@@ -2008,11 +2070,11 @@ v2
 ,
 v2
 g
-
+
 1 +
 2gh
 v2
-
+
 When h is small, the extra distance at the end of the trajectory from dipping down a vertical
 distance h can be found with binomial theorem: h, and 2h respectively. Since the trajectory is
 symmetric, when h ≈ 0 (to be more concise, h ≪ v2/g) the optimal launch angle is 45 deg, so by
@@ -2042,7 +2104,9 @@ a + b + c
 .
 Incidentally, the area of the circumcircle is π(abc)2/((a + b + c)(a + b − c)(b + c − a)(c + a − b)).
 While most of the denominator makes sense from limiting cases, the overall expression is certainly
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 harder to guess, since powers of abc and a+b+c could cancel while preserving all the limiting cases
 and symmetry. That just goes to show that limiting cases can only get you so far. In some sense,
 “real” math starts once all the easy information accessible to methods like these has been accounted
@@ -2098,7 +2162,9 @@ to put calculus on a rigorous footing. But in physics we have no time to luxuria
 rigor, because we want to figure out how specific things work. The point of notation is to
 help us do that by suppressing mathematical clutter. A good notation suppresses as much
 as possible while still giving correct results in the context it’s used.
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 To illustrate the point, note that elementary school arithmetic is itself an “unrigorous” nota-
 tion that hides implementation details. If we wanted to be rigorous about, say, defining the
 number 2, we would write it as S(1) where S is the successor function, obeying properties
@@ -2138,7 +2204,9 @@ classes we also require that they specify a direction in physical space, which m
 often criticize as wrong, or meaningless. But the physicist is actually using more advanced
 math, which the math student doesn’t know yet: the physicist’s vector is an element of
 a vector space carrying the fundamental representation of SO(3).
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 • Most vectors flip sign under an inversion of space, r → −r and p → −p, but “axial vectors”
 such as L = r×p don’t. This also strikes many math students as a blatant inconsistency,
 but the reality is again that an axial vector is just a more advanced mathematical object
@@ -2201,7 +2269,9 @@ dt
 dv
 dt
 = mva = Fv
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 as desired.
 (b) We note that
 dW = mv dv
@@ -2221,13 +2291,13 @@ Z
 P dx.
 Performing the integral, we have
 v(x0) =
-
+
 3
 m
 Z x0
 0
 P(x)dx
-1/3
+ 1/3
 .
 In the context of drag car racing, this is called Huntington’s rule.
 If P is constant, we must have F ∝ 1/v. But how can such a force arise? A car engine (or
@@ -2256,13 +2326,13 @@ dt
 = −
 s
 2GM
-
+
 1
 r
 −
 1
 r0
-
+
 .
 We can write the time taken to collide as
 T =
@@ -2296,7 +2366,9 @@ r
 x
 1 − x
 dx.
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 This lets us read off T2 ∝ r3
 0, in accordance with Kepler’s third law, and required by dimen-
 sional analysis as shown in problem 2. In case you’re wondering, the value of the remaining
@@ -2378,7 +2450,9 @@ dx
 p
 2(E − V (x))/m
 .
-37Kevin Zhou Physics Olympiad Handouts
+37
+
+Kevin Zhou Physics Olympiad Handouts
 To be more precise, we should put the bounds of integration back in. If the lowest and highest
 values of x are xmin and xmax, then
 T = 2
@@ -2403,10 +2477,10 @@ dx
 An − xn
 By dimensional analysis, the integral (a function of A) is proportional to A1−n/2, so
 T = T0
-
+
 A
 A0
-1−n/2
+ 1−n/2
 Incidentally, you can also do this problem by dimensional analysis directly on the parameters.
 At first glance, this is impossible because there are too many dimensionful quantities: E, m, a,
 V0, and T, which permit 5−3 = 2 dimensionless groups. (Recall from an earlier problem that
@@ -2448,7 +2522,9 @@ dθ
 p
 (2g/L)(cosθ − cosθ0)
 .
-38Kevin Zhou Physics Olympiad Handouts
+38
+
+Kevin Zhou Physics Olympiad Handouts
 This form is a bit annoying, because the cosines are both extremely close to 1. To fix this
 issue, we use the half-angle formula (1 − cosθ)/2 = sin2
 (θ/2), to get
@@ -2490,24 +2566,24 @@ g
 Z π/2
 0
 dϕ
-
+
 1 +
 θ2
 0
 8
 sin2
 ϕ
-
+
 = 2π
 s
 L
 g
-
+
 1 +
 θ2
 0
 16
-
+
 .
 There are many other ways to get this, but our route is probably the best if you’re interested
 in even higher-order terms. For instance, the coefficient of the θ4
@@ -2576,13 +2652,15 @@ c
 p
 A2 − x2 + O((ω0A/c)4
 )dx.
-39Kevin Zhou Physics Olympiad Handouts
+39
+
+Kevin Zhou Physics Olympiad Handouts
 The first term simply recovers the nonrelativistic result T = 2π/ω0, and the second term is
 straightforward to integrate, yielding
 T =
 2π
 ω0
-
+
 1 +
 3
 16
@@ -2591,7 +2669,7 @@ T =
 c2
 + O((ω0A/c)4
 )
-
+
 .
 Since the peak speed v0 is approximately ω0A in the nonrelativistic limit, this result is therefore
 accurate up to corrections of order (v0/c)4.
@@ -2650,7 +2728,9 @@ substitution u = sinθ. (To do the final integral trivially, notice that the ave
 cos2 θ along any of its periods is 1/2.)
 We can also use polar coordinates. We break the circle into regions bounded by radii r and
 r + dr, and angles θ and θ + dθ. These regions are rectangular, with side lengths of dr and
-40Kevin Zhou Physics Olympiad Handouts
+40
+
+Kevin Zhou Physics Olympiad Handouts
 rdθ, so the area element is dA = rdrdθ. Then we have
 A =
 Z R
@@ -2726,7 +2806,9 @@ dm =
 Z
 r2
 dm.
-41Kevin Zhou Physics Olympiad Handouts
+41
+
+Kevin Zhou Physics Olympiad Handouts
 The r2 factor has no dependence on θ at all, so the angular integral in polar coordinates is
 trivial. We end up with
 2I =
@@ -2778,14 +2860,14 @@ cos4
 θdθ =
 Z π/2
 −π/2
-
+
 1 + cos(2θ)
 2
-2
+ 2
 dθ =
 Z π/2
 −π/2
-
+
 1
 4
 +
@@ -2798,7 +2880,7 @@ cos(2θ) +
 1
 8
 cos(4θ)
-
+
 dθ =
 3π
 8
@@ -2827,10 +2909,10 @@ cos4
 16
 Z π/2
 −π/2
-
+
 4
 2
-
+
 dθ =
 3π
 8
@@ -2846,7 +2928,9 @@ perform the remaining integral to derive the volume of a sphere.
 (c) In cylindrical coordinates, the volume element is dV = rdrdθdz. Set up a triple integral for
 the volume, and perform it. (Hint: this can either be hard, or a trivial extension of part (b),
 depending on what order of integration you choose.)
-42Kevin Zhou Physics Olympiad Handouts
+42
+
+Kevin Zhou Physics Olympiad Handouts
 (d) In spherical coordinates, the volume element is dV = r2 dr sinϕdϕdθ. Set up a triple integral
 for the volume, and perform it.
 (e) Let the ball have uniform density and total mass M. Compute its moment of inertia about
@@ -2958,7 +3042,9 @@ dr =
 MR2
 as expected. The same trick can be used to show that the moment of inertia of a spherical
 shell is (2/3)MR2.
-43Kevin Zhou Physics Olympiad Handouts
+43
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 34. Consider a spherical cap that is formed by slicing a sphere of radius R by a plane,
 so that the altitude from the vertex to the base is h. Find the area of its curved surface using an
 appropriate integral.
@@ -3021,7 +3107,9 @@ Incidentally, if we had taken a centered Riemann sum, integrating from 1/2 to n 
 would have gotten the exact correct answer. That’s just because the linear function we’re
 considering here is particularly simple. But in general, you expect a centered Riemann sum
 to do better, the trapezoidal rule to do better than that, and Simpson’s rule to do better still.
-44Kevin Zhou Physics Olympiad Handouts
+44
+
+Kevin Zhou Physics Olympiad Handouts
 If you’re mathematically inclined, you might be wondering if there’s a rigorous way to deter-
 mine the error in this approximation. That’s given by the Euler–Maclaurin formula, which
 states that the difference between the sum and integral is equal to a series involving derivatives
@@ -3074,7 +3162,9 @@ the sum itself is inherently chunky. So deriving Stirling’s approximation requ
 method, which is described here. (That derivation is quite short in modern notation, but it’s
 subtle. According to the book Concrete Mathematics, it took Stirling several years to get the
 order-one piece right, back in the 1700s!)
-45Kevin Zhou Physics Olympiad Handouts
+45
+
+Kevin Zhou Physics Olympiad Handouts
 Example 19
 For ϵ ≪ 1, find a rough estimate for the leading term in the definite integral
 I =
@@ -3126,11 +3216,11 @@ Z δ
 dθ
 ϵ2 + θ2
 + O
-Z δ
+ Z δ
 0
 θ4 dθ
 (ϵ2 + θ2)2
-
+
 =
 1
 ϵ
@@ -3181,7 +3271,9 @@ We thus conclude I = π/(2ϵ) − 1 + O(
 above, and has an estimate on the error. You probably won’t ever have to do anything this
 intricate for an Olympiad, but this is the kind of reasoning you might informally do (much
 more roughly than what’s written above) to check that your initial estimate is right.
-46Kevin Zhou Physics Olympiad Handouts
+46
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 36. [A] Estimating some integrals with sharp peaks. For all cases, you only need to find
 an estimate for the leading contribution in the limit ϵ → 0, and you can drop numeric prefactors.
 (a) To warm up, find a rough estimate for
@@ -3268,7 +3360,9 @@ problem without doing explicit integration at all, or an approximation you can d
 the integral trivial, or the integral will be given to you in the problem statement. This
 is because physics competitions are generally written to make students think hard about
 physical systems, and the integrals are just viewed as baggage.
-47Kevin Zhou Physics Olympiad Handouts
+47
+
+Kevin Zhou Physics Olympiad Handouts
 Even introductory calculus has harder integrals than Olympiad physics. For example, consider
 Z
 secxdx = log|secx + tanx| + C.

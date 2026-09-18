@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200905"
 verification_status: pending
 ---
 
-With appropriate washing-up liquids the surface tension of water can be significantly decreased. If a frame is immersed into a mixture of water and washing-up liquid, and then it is carefully taken out, there will be a thin layer of soap film on the frame. Coloured stripes can be observed on the soap film (if it is in front of a black background.) 
- a ) What is the direction of the stripes if the plane of the frame is vertical? Why do they have this direction? 
- b ) What is the colour of the film if its width is only 10$^{-8}$ m? 
+With appropriate washing-up liquids the surface tension of water can be significantly decreased. If a frame is immersed into a mixture of water and washing-up liquid, and then it is carefully taken out, there will be a thin layer of soap film on the frame. Coloured stripes can be observed on the soap film (if it is in front of a black background.)
+ a ) What is the direction of the stripes if the plane of the frame is vertical? Why do they have this direction?
+ b ) What is the colour of the film if its width is only 10$^{-8}$ m?
  (4 pont)

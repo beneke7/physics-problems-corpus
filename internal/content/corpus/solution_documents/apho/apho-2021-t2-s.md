@@ -16,7 +16,7 @@ Theoretical Question 2: Ray tracing and generation of entangled light
 
 Part A. Light propagation in isotropic dielectric media
 A.1 0.4 pt
-Ans: √µ10 
+Ans: √µ10
 Solution:
 From ~k × E
           ~ = ωB       ~ and ~k × H
@@ -33,26 +33,26 @@ the given identity A    ~ × C)
                                                                                      ~ − k 2 E.
                                                                                              ~
 
-Since D~ · ~k = 0 and D   ~ = E,~ we find ~k × (~k × E)  ~ = −k 2 E     ~ and the relation
+Since D~ · ~k = 0 and D   ~ =  E,~ we find ~k × (~k × E)  ~ = −k 2 E     ~ and the relation
 ~k × (~k × E)
            ~ = −ω 2 µ0 D
                        ~ reduces to −k 2 E
-                                         ~ = −ω 2 µ0 E.
+                                         ~ = −ω 2 µ0  E.
                                                       ~
                                                         ~
 Now the phase delocity is determined by d(k·~rdt−ωt) = 0, we find that the phase velocity
 ~vp = d~
        r
       dt
-         = ωk k̂. Clearly, we have ωk = √µ10  . Hence vp = √µ10  .
+         = ωk k̂. Clearly, we have ωk = √µ10   . Hence vp = √µ10   .
 A.2 0.2 pt
       √
-Ans: c µ0 
+Ans: c µ0
 Solution:
                                      √
-From vp = √µ10  = nc , we find n = c µ0 
+From vp = √µ10   = nc , we find n = c µ0
 A.3 0.4 pt
-Ans: k̂, vr = vp = √µ10 
+Ans: k̂, vr = vp = √µ10
 Solution:
 To find the speed of the ray, we first note that the direction of the energy flow, given by
                     ~=E
@@ -81,7 +81,7 @@ Similarly, from ~k × E
                                                             2vp
                                                                    ~×~                     ~×~
                                                                      H. Hence u = v1p k̂ · E B.
-We find vr = S/u = vp = √µ10  .
+We find vr = S/u = vp = √µ10   .
 Part B. Light propagation in in uniaxial dielectric media
 B.1 1.5pt
 Ans: n = no , B̂ = ±k̂ × ŷ = ±(− cos θ, 0, sin θ), D̂ = ±ŷ or n = √ 2            no ne
@@ -96,7 +96,8 @@ From ~k × E       ~ and ~k × H
                                                                          ~ Writing out
 
                                                     1
-components and using ω = nc k, we find
+
+components and using ω = nc k, we find
 
                                                              n2
                                − cos2 θEx + cos θ sin θEz = − 2o Ex ,
@@ -109,22 +110,22 @@ From ~k × E       ~ and ~k × H
                                                              n
 After a bit rearrangement, we obtain
                                                                  n2
-                                                                      
+
                                                               1 − 2o       Ey = 0
                                                                  n
-                                2           
+                                 2
                                  no        2
                                      − cos θ Ex + cos θ sin θEz = 0
                                  n2
-                                                2        
+                                                 2
                                                 no      2
                                cos θ sin θEx +     − sin θ Ez = 0.
                                                 n2
 The vanishing of the determinant yields
                                         n2e
-                          2
+                            2
                      n2o
-                                                                
+
                             no      2           2        2     2
                  1− 2      ( 2 − cos θ)( 2 − sin θ) − sin θ cos θ = 0.                                    (1)
                      n      n           n
@@ -167,7 +168,8 @@ Solution:
 tan α = 0.
 
                                                       2
-(2) For n = √ 2     no ne
+
+(2) For n = √ 2     no ne
                                    , n 6= no , Ey = 0. By substituting n back into the equations of
               no sin2 θ+n2e cos2 θ
                                 2
@@ -247,7 +249,8 @@ that when n = √ 2           no ne
 
 
                                                        3
-                           −n2e cos θk̂+(n2o sin2 θ−n2e cos2 θ)ẑ
+
+                           −n2e cos θk̂+(n2o sin2 θ−n2e cos2 θ)ẑ
 ±√ 4       1
                                            sin θ
                                                                   .
@@ -283,7 +286,7 @@ ue = 1 E   ~ and um = 1 B
       2                            2
             ~ = (0, E, 0), D
 (i)n = no , E                   ~ ~k × E
-                           ~ = E,             ~ ~k × H
+                           ~ =  E,             ~ ~k × H
                                        ~ = ωµ0 H,     ~ = −ω D.
                                                              ~
     ~ and H
@@ -338,7 +341,8 @@ relative orientation of E     ~ is reversed and ordering of Ŝ and k̂ are swit
 
 
                                                                       4
-                                                                                             2   2
+
+                                                                                             2   2
                                                                 o −ne ) tan θ
    Therefore, from problem (d) (ii), we get tan αr = tan α = (n
                                                              n2e +n2o tan2 θ
@@ -363,7 +367,7 @@ Clearly, Ŝ = (sin(θ + α), cos(θ + α)).                        Since sin α
 √ne c cos θ+no sin 2θ , we find Ŝ = √             1
                                                                   (n2o sin θ, 0, n2e cos θ).
   n4e c cos2 θ+n4o sin θ                 n4e c cos2 θ+n4o sin2 θ
-                 2                 2 θ+n2 sin2 θ         2
+                   2                 2 θ+n2 sin2 θ         2
                                 2                                θ)2 n2e +(n2e cos θ)n2o
 From n2s = vcr = n2o n2e nne4 cos         o
                                   cos2 θ+n4 sin2 θ
@@ -418,7 +422,8 @@ The minimum occurs when d∆
                h1 + (d − z)2    (h2 cos φ + z sin φ)2 n2e + (−h2 sin φ + z cos φ)2 n2o
 
                                                                5
-Recognizing √ 2d−z            = sin θ1 , moving the second term to the left and taking square of
+
+Recognizing √ 2d−z            = sin θ1 , moving the second term to the left and taking square of
                  h1 +(d−z)2
 the equation, we obtain
                                                   (P3 − P1 tan θ2 )2
@@ -467,7 +472,8 @@ relations is clear if one recall that the energy and momentum of a photon is giv
 ~~k. The relation of ~ω = ~ω1 + ~ω2 , ~~k = ~~k1 + ~~k2 represents the energy and momentum
 
                                                      6
- conservations when a photon with (ω, ~k) is annihilated and split into two photons with (ω1 ,
+
+ conservations when a photon with (ω, ~k) is annihilated and split into two photons with (ω1 ,
 ~k1 ) and (ω2 , ~k2 ), while the relation of ~ω = ~ω1 − ~ω2 , ~~k = ~~k1 − ~~k2 represents the energy
 
 and momentum conservations when a photon with (ω1 , ~k1 ) is annihilated and split into two
@@ -529,7 +535,8 @@ where uo is the group velocity for the ordinary ray. Hence to the second order o
 
 
                                                     7
-we get
+
+we get
                                                                     ν   q2
                                                k2z = Ko −             − ⊥ .
                                                                     uo 2Ko
@@ -565,10 +572,10 @@ that for any ~kα , one has (cf. Fig. 2(a))
                         k̂α · OA
                               d = cos θα = cos θ cos ψα + sin θ sin ψα cos φα .
                                                                              p
-Since sin ψ1 = |~k⊥,1 |/|~k1 | = q⊥ /k1  1 and cos ψ1 =                      1 − sin2 ψ1 = 1 − 1/2 sin2 ψ1 + · · · , to
+Since sin ψ1 = |~k⊥,1 |/|~k1 | = q⊥ /k1   1 and cos ψ1 =                      1 − sin2 ψ1 = 1 − 1/2 sin2 ψ1 + · · · , to
 the second order, we can replace k1 by Ke and obtain
                                            2
-                                                                       
+
                                        1 q ⊥                   q ⊥
           k̂1 · OA
                 d = cos θ1 = cos θ 1 −       + · · · + sin θ       + · · · cos φ1 .
@@ -592,16 +599,17 @@ Putting all together, we find
                           ue                             2Ke
 The above equation when combined with the equation of k1z and the relation Kp = k1z +k2z ,
 we find
-                                                                                                         
+
                   1  1                     2                            Ko [Ne (Ωe , θ) cot θ − 1] − Ke
         (Ω − Ωe )( − ) + Ne (Ωe , θ)qx0 + q⊥                                                                  = 0.
                   ue uo                                                             2Ke Ko
 
                                                                 8
-Because ne < no , Ne (Ωe , θ) < 0. The above equation can be rewritten in the form
-                                 2
+
+Because ne < no , Ne (Ωe , θ) < 0. The above equation can be rewritten in the form
+                                  2
                                                                     N2
-                    
+
                               Ne                          1   1
                  M q x0 −           + M qy20 = −(Ω − Ωe )( − ) + e .
                              2D                           uo ue     4M
@@ -657,7 +665,8 @@ The state of the entangled photon pair can be written as
                2
 
                                                     9
-From the above equation, we obtain
+
+From the above equation, we obtain
 
                                                    1 2
                                       P (α, β) =     sin (α + β),

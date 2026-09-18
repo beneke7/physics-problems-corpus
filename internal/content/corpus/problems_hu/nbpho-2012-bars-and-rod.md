@@ -20,4 +20,4 @@ verification_status: pending
 
 Két vízszintes hengeres rúd van rögzítve egymás felett; a rudak tengelyei közötti távolság $4 d$, ahol $d$ a rúd átmérője. A rudak között egy $d$ átmérőjű hengeres rúd van elhelyezve, ahogy az ábrán látható (ez a rendszer függőleges keresztmetszete). A rúd és a rudak közötti súrlódási tényező $\mu=\frac{1}{2}$. Ha a rúd elegendően hosszú, akkor ebben a helyzetben egyensúlyban marad. Mekkora a rúd minimális hossza $L$, amely szükséges az ilyen egyensúlyhoz?
 
-![ábra](../../sources/nbpho/figures/nbpho-2012-bars-and-rod-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2012-bars-and-rod-fig1.jpg)

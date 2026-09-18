@@ -100,14 +100,14 @@ from the edge of the (n + 1)th block, so the nth block and everything on top of 
 ℓ/n to the right. Hence the total distance is
 L
 2
-
+
 1 +
 1
 2
 + ... +
 1
 N
-
+
 ≈
 L
 2
@@ -145,11 +145,11 @@ We see that m slips when tan(α + θ) = µ, or sin(α + θ) = µ √
 αmax = sin−1 µ
 p
 1 + µ2
-
+
 1 +
 M
 m
-−1
+ −1
 !
 .
 [2] Problem 10 (PPP 11). A sphere is made of two homogeneous hemispheres stuck together, with

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201709"
 verification_status: pending
 ---
 
-Measure the tilt angle of at least three different types of grainy food .(e.g. rice, poppy seed, flour, granulated sugar or powdered sugar). 
+Measure the tilt angle of at least three different types of grainy food .(e.g. rice, poppy seed, flour, granulated sugar or powdered sugar).
  (6 pont)

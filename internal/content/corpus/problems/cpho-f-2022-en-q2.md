@@ -35,7 +35,7 @@ Let us denote as $\theta$ the angle between the directions of particle motion be
 
 It turns out that in a certain range of values of $R$, the kinematic factor $k$ can be a multivalued function of $\theta$. To unambiguously determine the branch of the function $k(\theta)$, it is necessary to supplement the description of the interaction of particles. Let's try to do this on the example
 of the simplest model, in which the colliding particles are considered as uniform smooth spherical solid bodies interacting only upon collision. Let the sum of particle radii be $A$ and the impact parameter be $b$ (see figure).
-![](cpho-f-2022-en-q2-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2022-en-q2-fig01.png)
 
 3. In this model, express $k$ in terms of $R, A$, and $b$. Select the branches of this function by considering particular cases of head-on ( $b=$ 0) and tangent $(b=A)$ collisions. Find what range of $b$ values corresponds to each of the obtained branches.
 

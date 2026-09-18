@@ -24,4 +24,4 @@ Egy $r$ sugarú, $d$ vastagságú $(d \ll r)$, $\varrho$ fajlagos ellenállású
 
 Mekkora feszültség mérhető az ábrán látható $C$ és $D$ pontok között?
 
-![figure](eotvos-2016-metal-disk-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2016-metal-disk-fig1.jpg)

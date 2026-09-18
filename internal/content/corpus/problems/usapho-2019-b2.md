@@ -26,7 +26,7 @@ verification_status: pending
 ## Stellar Black Box
 
 Scientists have recently detected a new star, the MAR-Kappa. The star is almost a perfect blackbody, and its measured light spectrum is shown below.
-![](usapho-2019-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-2019-b2-fig01.png)
 
 The total measured light intensity from MAR-Kappa is $I=1.12 \times 10^{-8} \mathrm{~W} / \mathrm{m}^{2}$. The mass of MAR-Kappa is estimated to be $3.5 \times 10^{30} \mathrm{~kg}$. It is stationary relative to the sun. You may find the Stefan-Boltzmann law useful, which states the power emitted by a blackbody with area $A$ is $\sigma A T^{4}$.
 a. The spectrum of wavelengths $\lambda$ emitted from a blackbody only depends on $h, c, k_{B}, \lambda$, and $T$. Given that the sun has a surface temperature of 5778 K and peak emission at 500 nm , what is the approximate surface temperature of MAR-Kappa?

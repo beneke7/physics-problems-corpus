@@ -29,7 +29,7 @@ $$
 [1+2+2+1.5+3.5=10]
 $$
 
-![](inpho-2010-b1-fig01.png)
+![](../../figures/inpho/figures/inpho-2010-b1-fig01.png)
 Figure 1:
 
 
@@ -44,7 +44,7 @@ $$
     (c) Indicate the minimum number of tosses by each skater required to avoid collision. Number of tosses by $A=\quad$; Number of tosses by $B=$
     (d) Indicate motion of each skater on the following $x-t$ plot if no tosses are made. [Note : For this and the next part you must select the scale on the time axis appropriately. You may use a pencil for sketching.]
 
-![](inpho-2010-b1-fig02.png)
+![](../../figures/inpho/figures/inpho-2010-b1-fig02.png)
 
 (e) Indicate motion of each skater on the following $x-t$ plot from $t=0 \mathrm{~s}$ till just after one round trip by the ball (from $A$ to $B$ and back to $A$ ).
-![](inpho-2010-b1-fig03.png)
+![](../../figures/inpho/figures/inpho-2010-b1-fig03.png)

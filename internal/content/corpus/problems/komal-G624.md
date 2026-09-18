@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, choose-reference-frame]
 ---
 
-Some of the newly established sailing boat ports at lake Balaton are ice-free, which means that even in very cold weather the water around the sailing boats do not freeze. This is due to the constant stirring of water. Why does this method work? 
+Some of the newly established sailing boat ports at lake Balaton are ice-free, which means that even in very cold weather the water around the sailing boats do not freeze. This is due to the constant stirring of water. Why does this method work?
  (3 pont)

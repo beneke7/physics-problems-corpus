@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [extremization, graphical-reduction]
 ---
 
-There are three small holes in a plate, fixed in a horizontal plane 3, 4, and 5 units apart. One end of each of three flexible thin threads are tied together, the other ends are threaded through the holes and 2, 3, and 4 units of mass are hung over the hanging ends (see the figure ). Friction between the threads and the table is negligible. 
+There are three small holes in a plate, fixed in a horizontal plane 3, 4, and 5 units apart. One end of each of three flexible thin threads are tied together, the other ends are threaded through the holes and 2, 3, and 4 units of mass are hung over the hanging ends (see the figure ). Friction between the threads and the table is negligible.
 
- Construct the position of the knot at equilibrium. 
+ Construct the position of the knot at equilibrium.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5671-fig1.png)
+![figure](../../figures/komal/figures/komal-P5671-fig1.png)

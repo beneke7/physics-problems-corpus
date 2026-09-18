@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4407. A távhővezetéket körülvevő, hőszigetelő műanyag habban két fémhuzal fut a cső tengelyével párhuzamosan (lásd a hátsó borítón levő fényképet!). 
+P. 4407. A távhővezetéket körülvevő, hőszigetelő műanyag habban két fémhuzal fut a cső tengelyével párhuzamosan (lásd a hátsó borítón levő fényképet!).
  Mi lehet a szerepe ennek; mikor lehet szükség e két vezetékre?

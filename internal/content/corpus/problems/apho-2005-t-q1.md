@@ -31,7 +31,7 @@ Consider $n=2$ moles of ideal Helium gas at a pressure $P_{0}$, volume $V_{0}$ a
 
 a. Calculate the frequency $f$ of small oscillation of the piston, when it is slightly displaced from equilibrium position. (2 points)
 
-![](apho-2005-t-q1-fig01.png)
+![](../../figures/apho/figures/apho-2005-t-q1-fig01.png)
 Figure 1.1
 
 b. Then the piston is pushed down until the gas volume is halved, and released with zero velocity. calculate the value(s) of the gas volume when the piston speed is
@@ -52,7 +52,7 @@ A child builds up the motion of a swing by standing and squatting. The trajector
 
 To keep the analysis simple it is assumed that the swing be mass-less, the swing amplitude is sufficiently small and that the mass of the child resides at its center of mass. It is also assumed that the transitions from squatting to standing (the A to B and the E to F transitions) are fast compared to the swing cycle and can be taken to be instantaneous. It is similarly assumed that the squatting transitions (the C to D and the G to H transitions) can also be regarded as occurring instantaneously.
 
-![](apho-2005-t-q1-fig02.png)
+![](../../figures/apho/figures/apho-2005-t-q1-fig02.png)
 Figure 1.2
 
 How many cycles of this maneuver does it take for the child to build up the amplitude (or the maximum angular velocity) of the swing by a factor of two?

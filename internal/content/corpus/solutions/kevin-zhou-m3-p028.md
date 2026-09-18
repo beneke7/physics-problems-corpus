@@ -30,7 +30,7 @@ done on her since the contact point did not move. Accordingly, Alice’s total e
 change; she merely converted some of her internal energy to kinetic energy.
 (c) There is no center of mass work on the balloon, but there is work done, at every point on the
 balloon’s surface. This work is just the P dV work in thermodynamics.
-[4] Problem 29.  m 1 0USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
+[4] Problem 29.   m 1 0USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
 carefully read the official solution, which describes how center of mass work is applied.
 29
 Kevin Zhou Physics Olympiad Handouts

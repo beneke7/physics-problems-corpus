@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: pending
 ---
 
-Peter and his friend Norbert are discussing, that if the Earth was closer to the Sun, more energy from the Sun would be available for us. Finally they are arguing about the question on which planet would more energy be available if the surface of both the Earth and Mercury were wrapped with photovoltaic cells. According to Peter on the Earth, since it is much greater, and according to Norbert on the Mercury, because it is much closer to the Sun. Which of them is right? 
+Peter and his friend Norbert are discussing, that if the Earth was closer to the Sun, more energy from the Sun would be available for us. Finally they are arguing about the question on which planet would more energy be available if the surface of both the Earth and Mercury were wrapped with photovoltaic cells. According to Peter on the Earth, since it is much greater, and according to Norbert on the Mercury, because it is much closer to the Sun. Which of them is right?
  (4 pont)

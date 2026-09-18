@@ -24,7 +24,7 @@ techniques: [cross-domain-analogy, graphical-reduction]
 ---
 
 7. A small circular hole of diameter $d$ is punched on the side and the near the bottom of a transparent cylinder of diameter $D$. The hole is initially sealed and the cylinder is filled with water of density $\rho_{w}$. It is then inverted onto a bucket filled to the brim with water. The seal is removed, air rushes in and height $h(t)$ of the water level (as measured from the surface level of the water in the bucket) is recorded at different times $(t)$. The figure below and the table in part (c) illustrates this process. Assume that air is an incompressible fluid with density $\rho_{a}$ and its motion into the cylinder is a streamline flow. Thus its speed $v$ is related to the pressure difference $\Delta P$ by the Bernoulli relation. Take the outside pressure $P_{0}$ to be atmospheric pressure $=1.00 \times 10^{5} \mathrm{~Pa}$.
-![](inpho-2018-a7-fig01.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig01.png)
     (a) Obtain the dependence of the instantaneous speed $v_{w}$ of the water level in the cylinder on $h$.
 $$
 v_{w}=
@@ -61,39 +61,39 @@ v_{w}(t=0)=
 $$
 
 □
-![](inpho-2018-a7-fig02.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig02.png)
 □
 □
 □
-![](inpho-2018-a7-fig03.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig03.png)
 □
 □
 □
-![](inpho-2018-a7-fig04.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig04.png)
 □
 □
 □
-![](inpho-2018-a7-fig05.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig05.png)
 □
 □
 □
-![](inpho-2018-a7-fig06.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig06.png)
 □
 □
 □
-![](inpho-2018-a7-fig07.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig07.png)
 □
 □
 □
-![](inpho-2018-a7-fig08.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig08.png)
 □
 □
 □
-![](inpho-2018-a7-fig09.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig09.png)
 □
 □
 □
-![](inpho-2018-a7-fig10.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig10.png)
 □
 □
 □
@@ -157,4 +157,4 @@ $$
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 □
-![](inpho-2018-a7-fig11.png)
+![](../../figures/inpho/figures/inpho-2018-a7-fig11.png)

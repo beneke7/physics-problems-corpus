@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-Joseph Fraunhofer, a German physicist, started his measurements in 1814 in order to investigate the spectrum of the Sun, and found 570 dark lines in the spectrum, which he denoted with letters (or sometimes letters with numbered indices). A particular diffraction grating has 500 gratings in 1 mm. Two images (formed symmetrically about the zeroth-order maximum) of one of the Fraunhofer lines are formed at a distance of 196.6 cm on the screen, which is at a distance of 3.6 m from the diffraction grating. 
- What is the wavelength of this spectral line and which Fraunhofer line is it? 
+Joseph Fraunhofer, a German physicist, started his measurements in 1814 in order to investigate the spectrum of the Sun, and found 570 dark lines in the spectrum, which he denoted with letters (or sometimes letters with numbered indices). A particular diffraction grating has 500 gratings in 1 mm. Two images (formed symmetrically about the zeroth-order maximum) of one of the Fraunhofer lines are formed at a distance of 196.6 cm on the screen, which is at a distance of 3.6 m from the diffraction grating.
+ What is the wavelength of this spectral line and which Fraunhofer line is it?
  (4 pont)

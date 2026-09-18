@@ -29,13 +29,13 @@ t = T
 πab/4 + ab/2
 πab
 = T
-
+
 1
 4
 +
 1
 2π
-
+
 13
 Kevin Zhou Physics Olympiad Handouts
 by summing a quarter of an ellipse and a triangle. All that’s left is to solve for T. Note that
@@ -50,10 +50,10 @@ so v =
 p
 GM/R. Using T = 2πR/v gives the answer,
 t =
-π
+ π
 2
 + 1
-
+
 r
 R3
 GM
@@ -106,13 +106,13 @@ R
 .
 Since dA/dt = πR2/T, we have
 T = πR
-
+
 1
 v1
 +
 1
 v2
-
+
 .
 [3] Problem 8 (PPP 88). A rocket is launched from and returns to a spherical planet of radius R
 so that its velocity vector on return is anti-parallel to its velocity vector at launch. The angular
@@ -141,13 +141,13 @@ T =
 A
 A0
 T0 =
-
+
 1
 2
 +
 cosθ/2
 π
-
+
 T0.
 [4] Problem 9 (Physics Cup 2012). A cannon at the equator fires a cannonball, which hits the North
 pole. Neglecting air resistance and the Earth’s rotation, at what angle to the horizontal should the

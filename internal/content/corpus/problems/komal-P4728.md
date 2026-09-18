@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases, model-reduction]
 ---
 
-Philae, the lander of the space probe called Rosetta, landed on the nucleus of a comet of mass $10^{13}$ kg, and of average density 0.4 g/cm${}^3$, which is due to the fact that inside the nucleus there are voids. The landing was ``bouncy'', Philae arrived back to the surface of the nucleus of the comet 113 minutes later after its first bounce. Give estimation for the following: 
- $a)$ What is the gravitational field strength on the surface of the nucleus of the comet, and what is the escape speed? 
- $b)$ What was the least speed of the first bounce, and to what greatest height could Philae bounce back? 
- For the estimation, the nucleus of the comet can be considered as a uniform sphere, which is not rotating, and the motion can be considered as uniformly accelerated. For determining the average acceleration use the exact relationship between the speed and the height of the bouncing. 
+Philae, the lander of the space probe called Rosetta, landed on the nucleus of a comet of mass $10^{13}$ kg, and of average density 0.4 g/cm${}^3$, which is due to the fact that inside the nucleus there are voids. The landing was ``bouncy'', Philae arrived back to the surface of the nucleus of the comet 113 minutes later after its first bounce. Give estimation for the following:
+ $a)$ What is the gravitational field strength on the surface of the nucleus of the comet, and what is the escape speed?
+ $b)$ What was the least speed of the first bounce, and to what greatest height could Philae bounce back?
+ For the estimation, the nucleus of the comet can be considered as a uniform sphere, which is not rotating, and the motion can be considered as uniformly accelerated. For determining the average acceleration use the exact relationship between the speed and the height of the bouncing.
  (5 pont)

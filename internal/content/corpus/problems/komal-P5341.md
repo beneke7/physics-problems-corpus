@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [choose-reference-frame, extremization]
 ---
 
-A freight train carries a cuboid-shaped container of length $\ell$, width $d$ and height $h$. The container is halfway filled with some liquid of density $\varrho$. What force would the liquid exert on the base and each of the side faces of the container, if the train was able to move at a constant acceleration of $a_0$ for a long time? (The longer edge of the container is parallel to the rails, and the liquid would not flow out of the container even if it was open at its top.) 
- Data: $\ell=10$ m, $h=d=3$ m, $\varrho=1000~\mathrm{kg/m}^3$, $a_0=1~\mathrm{m/s}^2$. 
+A freight train carries a cuboid-shaped container of length $\ell$, width $d$ and height $h$. The container is halfway filled with some liquid of density $\varrho$. What force would the liquid exert on the base and each of the side faces of the container, if the train was able to move at a constant acceleration of $a_0$ for a long time? (The longer edge of the container is parallel to the rails, and the liquid would not flow out of the container even if it was open at its top.)
+ Data: $\ell=10$ m, $h=d=3$ m, $\varrho=1000~\mathrm{kg/m}^3$, $a_0=1~\mathrm{m/s}^2$.
  (5 pont)

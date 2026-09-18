@@ -22,12 +22,12 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A small body of mass $m$ is released from rest at point $A$ of a fixed prism shown in the figure. The body slides frictionlessly along the straight slope on the left side and along the circular path of radius $R$. The straight slope on the right is not frictionless, the coefficient of friction is $\mu$. 
+A small body of mass $m$ is released from rest at point $A$ of a fixed prism shown in the figure. The body slides frictionlessly along the straight slope on the left side and along the circular path of radius $R$. The straight slope on the right is not frictionless, the coefficient of friction is $\mu$.
 
- $a)$ What force is exerted by the body on the prism at the lowest point of the path? 
- $b)$ What is the speed of the body at point $C$? 
- $c)$ To what height $h$ will the body go up? 
- Data: $m =0.6$ kg, $R = 30$ cm, $\alpha = 60^\circ$, $\mu = \frac12\tan\alpha$. 
+ $a)$ What force is exerted by the body on the prism at the lowest point of the path?
+ $b)$ What is the speed of the body at point $C$?
+ $c)$ To what height $h$ will the body go up?
+ Data: $m =0.6$ kg, $R = 30$ cm, $\alpha = 60^\circ$, $\mu = \frac12\tan\alpha$.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5251-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5251-fig1.gif)

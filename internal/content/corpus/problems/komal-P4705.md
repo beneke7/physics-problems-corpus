@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201502"
 verification_status: pending
 ---
 
-The International Space Station completes a whole revolution around the Earth in 92 minutes. Suppose that its path is circular. How high above the surface of the Earth does it revolve? How much does its period change (between two corrections of its path) if its height changes approximately 100 meters during one day? 
+The International Space Station completes a whole revolution around the Earth in 92 minutes. Suppose that its path is circular. How high above the surface of the Earth does it revolve? How much does its period change (between two corrections of its path) if its height changes approximately 100 meters during one day?
  (4 pont)

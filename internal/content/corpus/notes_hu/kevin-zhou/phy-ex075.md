@@ -32,7 +32,7 @@ akkor
 µ meghatározásához vegyük észre, hogy a második variáció parciális integrálással így írható:
 
                                                m d2
-                                Z                          
+                                Z
                                                            2
                           δS = dτ δx(τ ) −              +ω      δx(τ )
                                                2 dτ 2

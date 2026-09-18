@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws]
 ---
 
-An iron rod of length  L is hung at a common point with threads of length  which are attached to the two ends of the rod. The rod is displaced a bit in the plane of the threads. What is the length of the threads if the period of the swinging of the rod is the least, and what is this period? 
+An iron rod of length  L is hung at a common point with threads of length  which are attached to the two ends of the rod. The rod is displaced a bit in the plane of the threads. What is the length of the threads if the period of the swinging of the rod is the least, and what is this period?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4427-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4427-fig1.gif)

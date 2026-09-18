@@ -42,7 +42,9 @@ Solutions to Theory Problem 1
 
 
                  v6.0
-                                Secretariado
+
+
+                                Secretariado
                                 IPhO 2018
                                                       Sociedade Portuguesa de Física
                                                       Avenida da República Nº45 3ºEsq
@@ -122,7 +124,9 @@ This is indeed Kepler’s third law (for circular orbits). Then, from (7),
                                                                      1
                                                             𝛽=−        .
                                                                      2
-                                Secretariado
+
+
+                                Secretariado
                                 IPhO 2018
                                                   Sociedade Portuguesa de Física
                                                   Avenida da República Nº45 3ºEsq
@@ -217,7 +221,9 @@ Kepler’s third law (8), which relates:
                                                  𝑀          d𝐿    2 𝐿 dΩ
                                         𝐿3 = 𝐺      ,          =−        .                                                        (17)
                                                  Ω2         d𝑡    3 Ω d𝑡
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                     Sociedade Portuguesa de Física
                                                     Avenida da República Nº45 3ºEsq
@@ -291,7 +297,9 @@ Thus, the total mass 𝑀 is
 This result is actually remarkably close to the best estimates using the full theory of General Relativity!
 [Even though the actual objects do not have precisely equal masses and the theory we have just used
 is not valid very close to the collision.]
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                   Sociedade Portuguesa de Física
                                                   Avenida da República Nº45 3ºEsq

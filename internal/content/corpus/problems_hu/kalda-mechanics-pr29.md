@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nehéz tengelyre $R$ sugarú, könnyű kerekeket erősítünk. A rendszer vízszintes felületen gördül, amely hirtelen $\alpha$ szögű lejtőbe megy át. Mely $\alpha$ szögek esetén mozognak a kerekek elemelkedés nélkül, vagyis érintkeznek folyamatosan a felülettel? A kerekek tömege elhanyagolható. A tengely párhuzamos a vízszintes és lejtős felület határvonalával, sebessége $v$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr29-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr29-fig1.jpg)

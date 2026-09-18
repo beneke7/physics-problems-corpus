@@ -25,7 +25,7 @@ Free Standing Tower
 
 Consider a tower of constant density ( $\rho$ ) and cross sectional area ( $A$ ) (see Fig. (2)) at the earth's equator. The tower has a counter weight at one end. It is free standing. In other words its weight is balanced by the outward centrifugal weight so that it exerts no force on the ground beneath it and tension in the tower is zero at both ends. Consider the earth to be an isolated heavenly body and ignore gravitational effects due to the other heavenly bodies such as moon. Further assume that there is no bending of the tower.
 
-![Fig. 2: free-standing tower along the earth's rotation axis direction, with counter weight at height H, geostationary height R_g marked, earth of radius R rotating](../../sources/inpho/figures/inpho-2008-q3-fig1.png)
+![Fig. 2: free-standing tower along the earth's rotation axis direction, with counter weight at height H, geostationary height R_g marked, earth of radius R rotating](../../figures/inpho/figures/inpho-2008-q3-fig1.png)
 
 (a) Draw the free body diagram of the small element of this tower at distance $r$ from the center of the earth.
 (b) Let $T(r)$ be the tensile stress (tension per unit area) in the tower. Use Newton's equations to write down the equation for $d T / d r$ in terms of $G, \rho$, geostationary height $R_{g}$ from the earth's center and earth's mass $M$.

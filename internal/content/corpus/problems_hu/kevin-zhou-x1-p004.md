@@ -29,11 +29,11 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     particle’s energy E to above it. It can be shown that each of these “soft” boundaries contributes
     π/2 to α, so that for this potential we can take α = π.
        Show that the energy levels are
-                                                              r
+                                                                r
                                                      1             k
                                      En = ℏω0 n +        , ω0 =      .
                                                      2             m
     This system is called the quantum harmonic oscillator, and remarkably, this is the exact answer,
 
-                  01W
+                  01W
     even though we used an approximation to get it. This result will be used in several problems below.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201201"
 verification_status: pending
 ---
 
-In district heating pipes there are two metal wires embedded in the insulating foam surrounding the pipe. The wires run parallel to the axis of the pipe (see photo on back cover). What is the purpose of these wires, when are they needed? 
+In district heating pipes there are two metal wires embedded in the insulating foam surrounding the pipe. The wires run parallel to the axis of the pipe (see photo on back cover). What is the purpose of these wires, when are they needed?
  (4 pont)

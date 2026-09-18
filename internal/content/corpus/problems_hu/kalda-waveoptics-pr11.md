@@ -23,4 +23,4 @@ Az anemométer gáz vagy folyadék áramlási sebességét mérő eszköz. Tekin
 (ii) A fotométer jelének rezgési frekvenciája $\nu=50 \mathrm{kHz}$. Mekkora a folyadék $v$ sebessége? Mit mondhatunk a folyadékáramlás irányáról?
 (iii) Tekintsük azt az esetet, amikor a síkhullámok hullámhossza $\delta\lambda=4,4 \mathrm{fm}$-mel ($1 \mathrm{fm}=10^{-15} \mathrm{~m}$) különbözik. Mekkora most a jel rezgési frekvenciája (a folyadék sebessége ugyanakkora, mint az előző részben)? Meghatározható-e az áramlás iránya ilyen eszközzel?
 
-![ábra](../../sources/kalda/figures/kalda-waveoptics-pr11-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-waveoptics-pr11-fig1.jpg)

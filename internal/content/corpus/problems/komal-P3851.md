@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, limiting-and-special-cases]
 ---
 
-A diffraction grating is illuminated by light of wavelength 598 nm. The distance between the lines in the diffraction pattern formed on a screen 5 m away from the grating is 2 cm. Find the distance between two rulings. How would the diffraction pattern change if half of the grating parallel to the rulings, or perpendicular to the rulings was covered? 
+A diffraction grating is illuminated by light of wavelength 598 nm. The distance between the lines in the diffraction pattern formed on a screen 5 m away from the grating is 2 cm. Find the distance between two rulings. How would the diffraction pattern change if half of the grating parallel to the rulings, or perpendicular to the rulings was covered?
  (5 pont)

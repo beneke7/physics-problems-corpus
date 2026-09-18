@@ -29,7 +29,9 @@ Example 10
   becomes k = k0 /2. Keressük meg the new amplitude of oszcilláció.
 
                                                  15
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
    Solution
    In this case the fast motion is the oszcilláció of the tömeg, while the slow motion is the
@@ -79,7 +81,9 @@ quantity, which is useful in a wide range of similar problems.
    axes are position and impulzus.
 
                                                  16
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
       Solution
       Since the potential changes slowly, the energy is roughly conserved in each oszcilláció cycle,

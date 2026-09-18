@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3791. Választható-e olyan vonatkoztatási rendszer, amelyben az állandó sebességgel mozgó elektronnyalábnak csak az elektromos vagy csak a mágneses terét észlelhetjük? 
+P. 3791. Választható-e olyan vonatkoztatási rendszer, amelyben az állandó sebességgel mozgó elektronnyalábnak csak az elektromos vagy csak a mágneses terét észlelhetjük?
 
  Román feladat

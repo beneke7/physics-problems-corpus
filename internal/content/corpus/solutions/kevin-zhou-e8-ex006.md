@@ -59,20 +59,20 @@ Z r
 a
 (s2 + a2)3/2
 = µ0M
-
+
 −
 a
 √
 s2 + a2
- r
+  r
 0
 = µ0M
-
+
 1 −
 a
 √
 r2 + a2
-
+
 .
 In the limit a ≪ r, this recovers the answer to problem 7.
 Remark: Demagnetizing Fields

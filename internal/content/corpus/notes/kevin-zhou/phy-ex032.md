@@ -52,7 +52,6 @@ Next, we define the free energy and other potentials.
     function of S and V ”. Of course, either of these quantities can be written as functions of any
     two of (P, V, T, S), by using the expression for entropy and the equation of state. The language
     just means that when F is regarded as a function of T and V , its differential is very simple.
-61 3. Statistical Mechanics
 
 
  • To relate F to Z, use our expression for the Gibbs entropy for

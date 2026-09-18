@@ -47,10 +47,10 @@ To evaluate the right-hand side, note that for constant volume heating, dU = d̄
 ∂P
 ∂U V
 = T
-
+
 ∂U
 ∂P V
-−1
+ −1
 .
 But for an ideal gas, we have U = nRT/(γ − 1) = PV/(γ − 1), so
 ∂P
@@ -71,10 +71,10 @@ and the required identity, if heat were a state function, is
 =
 ∂
 ∂T V
-
+
 ∂Q
 ∂V T
-
+
 .
 The left-hand side just vanishes for an ideal gas. As for the right hand side, we note that
 ∂Q

@@ -20,4 +20,4 @@ verification_status: pending
 
 Három azonos lámpát kapcsolunk telepre az ábra szerint; mindegyiken $I$ áram folyik. Határozzuk meg a kapcsoló kinyitása utáni pillanatban folyó áramokat.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr71-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr71-fig1.jpg)

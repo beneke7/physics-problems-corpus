@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202110"
 verification_status: pending
 ---
 
-An EPS panel is a set of compressed small styrofoam balls. If the panel is broken or sawn, such small balls can easily fall out of it. Measure how many times the density of some of these pellets is greater than the density of the EPS panel. 
+An EPS panel is a set of compressed small styrofoam balls. If the panel is broken or sawn, such small balls can easily fall out of it. Measure how many times the density of some of these pellets is greater than the density of the EPS panel.
  (6 pont)

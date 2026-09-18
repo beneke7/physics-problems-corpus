@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A point charge $Q$ on the outside of a neutral metal sphere, at a distance of $d$ from the centre of the sphere, is moved to a distance of $2d$. How much does the potential of the metal sphere change during this process? 
+A point charge $Q$ on the outside of a neutral metal sphere, at a distance of $d$ from the centre of the sphere, is moved to a distance of $2d$. How much does the potential of the metal sphere change during this process?
  (5 pont)

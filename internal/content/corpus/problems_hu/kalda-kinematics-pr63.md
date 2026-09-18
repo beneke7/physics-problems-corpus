@@ -24,4 +24,4 @@ i) Határozzuk meg a szél sebességét az (a) esetben a vázlat alapján.
 
 ii) Határozzuk meg a szél sebességét a (b) esetben a vázlat alapján.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr63-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr63-fig1.jpg)

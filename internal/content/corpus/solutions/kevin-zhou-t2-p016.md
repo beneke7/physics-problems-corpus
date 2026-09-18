@@ -27,10 +27,10 @@ ehf/kBT − 1
 kBT
 h
 d
-
+
 hf
 kBT
-
+
 .
 Let x ≡ hf/kBT. Then we get
 J =

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-The fox runs along a straight line at a constant speed $v_1$. He is chased by the dog, whose speed is constant $v_2$ and whose direction is always towards the fox. At a given instant, when the distance between the fox and the dog is $d$, the two velocities are exactly perpendicular to each other. What is the acceleration of the dog at this instant? 
+The fox runs along a straight line at a constant speed $v_1$. He is chased by the dog, whose speed is constant $v_2$ and whose direction is always towards the fox. At a given instant, when the distance between the fox and the dog is $d$, the two velocities are exactly perpendicular to each other. What is the acceleration of the dog at this instant?
  (5 pont)

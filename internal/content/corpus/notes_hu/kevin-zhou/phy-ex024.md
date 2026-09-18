@@ -25,7 +25,7 @@ source_role: explanatory_example
 Példa. Ezeknek a trükköknek általános árameloszlásra alkalmazva bonyolultabb változatait is megadhatjuk:
 
                                          Ji (r′ ) Ji (r′ )(r · r′ )
-                                Z                                       
+                                Z
                              µ0      ′
                     Ai (r) =      dr             +                  + ... .
                              4π             r            r3
@@ -42,7 +42,7 @@ A második tag egyszerűsítéséhez vegyük észre, hogy
                                         ∂j (Jj ri rk ) = Ji rk + Jk ri .
 
 Ezt felhasználhatjuk az integrandus „antiszimmetrizálására”:
-                   Z               Z                          Z           
+                   Z               Z                           Z
                          ′      ′     ′ rj    ′      ′      r     ′      ′
                       dr Ji rj rj = dr (Ji rj − Jj ri ) =     × dr J × r
                                         2                   2               i
@@ -58,4 +58,3 @@ amely a korábbi eredménnyel a következő vektorazonosság miatt ekvivalens:
                                          1
                                               r × ds = dS.
                                          2
-34 2. Elektromágnesség

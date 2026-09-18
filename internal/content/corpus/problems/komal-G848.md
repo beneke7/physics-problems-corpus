@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-From the surrounding air a thin beam of light enters to a long, right cylinder, made of some transparent material, at the centre of the base of the cylinder. What can the refractive index of the cylinder's material be in order that the beam of light cannot emerge to the air from the cylinder through the lateral surface of the cylinder? 
+From the surrounding air a thin beam of light enters to a long, right cylinder, made of some transparent material, at the centre of the base of the cylinder. What can the refractive index of the cylinder's material be in order that the beam of light cannot emerge to the air from the cylinder through the lateral surface of the cylinder?
  (4 pont)

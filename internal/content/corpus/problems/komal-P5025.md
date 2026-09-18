@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-Torricelli's experiment was carried out by means of a thick-walled glass tube. The inner diameter of the tube is $1~\rm cm^2$ and its outer diameter is $3~\rm cm^2$. The mass of the tube is 624 g and it emerges into the mercury to a depth of 2 cm. 
- By what force should the tube be hold? 
+Torricelli's experiment was carried out by means of a thick-walled glass tube. The inner diameter of the tube is $1~\rm cm^2$ and its outer diameter is $3~\rm cm^2$. The mass of the tube is 624 g and it emerges into the mercury to a depth of 2 cm.
+ By what force should the tube be hold?
  (4 pont)

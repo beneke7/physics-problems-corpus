@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3818. Lehet-e egymást követő nappalon és éjszakán -- esetleg fordított sorrendben -- napfogyatkozás és holdfogyatkozás? 
+P. 3818. Lehet-e egymást követő nappalon és éjszakán -- esetleg fordított sorrendben -- napfogyatkozás és holdfogyatkozás?
  Lánczos Kornél fizikaverseny, Székesfehérvár

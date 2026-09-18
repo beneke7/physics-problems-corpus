@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-A small disc is moving along a horizontal surface. The resistive force exerted on the disc is proportional to the instantaneous speed of the disc. Two experiments are carried out: 
- $(i)$ If the disc is pushed and given an initial speed of $v_0$, then it moves 50 cm until it stops. 
- $(ii)$ When the speed of the initially pushed disc decreases to the value of $v_0/2$, the disc collides with another initially standing disc. The resistive force exerted on this other disc is also proportional to the speed of this disc. (The proportionality constant is the same for both discs.) The collision is head-on and elastic. Surprisingly, the two discs stop next to each other. 
- $a)$ What is the ratio of the masses of the discs? 
- $b)$ How far from the position of the collision did the discs stop? 
+A small disc is moving along a horizontal surface. The resistive force exerted on the disc is proportional to the instantaneous speed of the disc. Two experiments are carried out:
+ $(i)$ If the disc is pushed and given an initial speed of $v_0$, then it moves 50 cm until it stops.
+ $(ii)$ When the speed of the initially pushed disc decreases to the value of $v_0/2$, the disc collides with another initially standing disc. The resistive force exerted on this other disc is also proportional to the speed of this disc. (The proportionality constant is the same for both discs.) The collision is head-on and elastic. Surprisingly, the two discs stop next to each other.
+ $a)$ What is the ratio of the masses of the discs?
+ $b)$ How far from the position of the collision did the discs stop?
  (6 pont)

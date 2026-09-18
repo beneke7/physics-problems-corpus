@@ -37,7 +37,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     2    Higher Dimensions
         Idea 4
         For a system with more than one degree of freedom, the WKB quantization condition holds
-        for each individually,          I               αi 
+        for each individually,          I                αi
                                           pi dxi = ni +       h.
                                                          2π
         In this case, there can be multiple quantum states with a given energy, in which case we say

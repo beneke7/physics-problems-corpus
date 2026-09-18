@@ -32,7 +32,6 @@ where µB is the Bohr magneton. Then the occupancy numbers are
                          V   λ                         V   λ
 The resulting magnetization is
                                          M = µB (N↑ − N↓ ).
-85 3. Statistical Mechanics
 
 
 In the high-temperature limit, z is small and f3/2 (z) ≈ z, so
@@ -87,6 +86,5 @@ terms in h(x) can be found by subtracting h′ (x) at the endpoints,
 To find the value of c, consider h(x) = (x − 1/2)2 , which fixes c = 1/24. Telescoping the sum
 gives the h′ (0)/24 term in the formula above. Generally, all higher correction terms will have odd
 derivatives, because terms like (x − 1/2)2n+1 don’t contribute to the area.
-86 3. Statistical Mechanics
 
 

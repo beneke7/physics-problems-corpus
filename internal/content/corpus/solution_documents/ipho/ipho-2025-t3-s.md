@@ -24,9 +24,9 @@ prohibited.
 
 
 Champagne is a French sparkling wine. Fermentation of sugars produces
-carbon dioxide ($0 ) in the bottle. The molar concentration of $0 in the
-liquid phase 𝑐ℓ and the partial pressure 𝑃$0 in the gas phase are related
-by 𝑐ℓ = 𝑘) 𝑃$0 , known as Henry's law and where 𝑘) is called Henry's con-
+carbon dioxide ($0  ) in the bottle. The molar concentration of $0  in the
+liquid phase 𝑐ℓ and the partial pressure 𝑃$0  in the gas phase are related
+by 𝑐ℓ = 𝑘) 𝑃$0  , known as Henry's law and where 𝑘) is called Henry's con-
 stant.
 Data
    • Surface tension of champagne 𝜎 = 47 × 10−3 + ⋅ N−2
@@ -42,8 +42,8 @@ Data
 
 Part A. Nucleation, growth and rise of bubbles
 Immediately after opening a bottle of champagne at temperature 𝑇0 = 20 °$ , we fill a glass. The pressure
-in the liquid is 𝑃0 and its temperature stays constant at 𝑇0 . The concentration 𝑐ℓ of dissolved $0 exceeds
-the equilibrium concentration and we study the nucleation of a $0 bubble. We note 𝑎 its radius and 𝑃C
+in the liquid is 𝑃0 and its temperature stays constant at 𝑇0 . The concentration 𝑐ℓ of dissolved $0  exceeds
+the equilibrium concentration and we study the nucleation of a $0  bubble. We note 𝑎 its radius and 𝑃C
 its inner pressure.
 
      A.1      Express the pressure 𝑃C in terms of 𝑃0 , 𝑎 and 𝜎.                                      0.2pt
@@ -57,10 +57,10 @@ SOLUTION:
                                                       𝑎
 
 
-In the liquid, the concentration of dissolved $0 depends on the distance to the bubble. At long distance
+In the liquid, the concentration of dissolved $0  depends on the distance to the bubble. At long distance
 we recover the value 𝑐ℓ and we note 𝑐C the concentration close to the bubble surface. According to
-Henry's law, 𝑐C = 𝑘) 𝑃C . We furthermore assume in all the problem that bubbles contain only $0 .
-Since 𝑐ℓ ≠ 𝑐C , $0 molecules diffuse from areas of high to low concentration. We assume also that any
+Henry's law, 𝑐C = 𝑘) 𝑃C . We furthermore assume in all the problem that bubbles contain only $0  .
+Since 𝑐ℓ ≠ 𝑐C , $0  molecules diffuse from areas of high to low concentration. We assume also that any
 molecule from the liquid phase reaching the bubble surface is transferred to the vapour.
 
      A.2      Express the critical radius 𝑎D above which a bubble is expected to grow in terms       0.5pt
@@ -73,7 +73,9 @@ A.2.2. 𝑐C = 𝑘) 𝑃C = 𝑘) (𝑃0 + 2𝜎
                               𝑎
                                 ) and 𝑐0 = 𝑘) 𝑃0 so 𝑎D =
                                                            𝑃0 (𝑐ℓ /𝑐0 − 1)
-                                                                                    Q3-2
+
+
+                                                                                    Q3-2
 Theory
 
 
@@ -91,17 +93,17 @@ A.2.3. 𝑎D = 0.3 µN
 
 
 In practice, bubbles mainly grow from pre-existing gas cavities. Consider then a bubble with initial radius
-𝑎0 ≈ 40 µN. The number of moles of $0 transferred at the bubble's surface per unit area and time is noted
+𝑎0 ≈ 40 µN. The number of moles of $0  transferred at the bubble's surface per unit area and time is noted
 𝑗. Two models are possible for 𝑗.
                     𝐷
-    • model (1) 𝑗 =    (𝑐 − 𝑐C ) where 𝐷 is the diffusion coefficient of $0 in the liquid.
+    • model (1) 𝑗 =    (𝑐 − 𝑐C ) where 𝐷 is the diffusion coefficient of $0  in the liquid.
                     𝑎 ℓ
     • model (2) 𝑗 = 𝐾 (𝑐ℓ − 𝑐C ) where 𝐾 is a constant here.
 Experimentally, the bubble radius 𝑎(𝑡) is found to depend on time as shown in Fig. 2. Here 𝑐ℓ ≈ 4𝑐0 , and
 since bubbles are large enough to be visible, the excess pressure due to surface tension can be neglected
 and 𝑃C ≈ 𝑃0 .
 
-     A.3       Express the number of $0 moles in the bubble 𝑛D in terms of 𝑎, 𝑃0 , 𝑇0 and ideal        1.2pt
+     A.3       Express the number of $0  moles in the bubble 𝑛D in terms of 𝑎, 𝑃0 , 𝑇0 and ideal        1.2pt
                gas constant 𝑅. Find 𝑎(𝑡) for both models. Indicate which model explains the
                experimental results in Fig. 2. Depending on your answer, calculate numeri-
                cally 𝐾 or 𝐷.
@@ -109,13 +111,13 @@ and 𝑃C ≈ 𝑃0 .
 
 
 
-           Fig. 2. Time evolution of $0 bubble radius in a glass of champagne (adapted from [1]).
+           Fig. 2. Time evolution of $0  bubble radius in a glass of champagne (adapted from [1]).
 
 SOLUTION:
                                                                                     𝑃0
-A.3.1. The number of moles of $0 (ideal gas) inside the bubble is 𝑛D = 43 𝜋𝑎 3
+A.3.1. The number of moles of $0  (ideal gas) inside the bubble is 𝑛D = 43 𝜋𝑎 3
                                                                                     𝑅𝑇0
-A.3.2. Equation : balance of $0 in the bubble
+A.3.2. Equation : balance of $0  in the bubble
 A.3.3 d𝑛
       d𝑡
         D
@@ -135,7 +137,9 @@ A.3.4. Model 1: E𝑎
                                                      𝑃0
                                                         0
                                                           (𝑐ℓ − 𝑐0 )𝑡
-                                                                                      Q3-3
+
+
+                                                                                      Q3-3
 Theory
 
 
@@ -192,7 +196,7 @@ in time, the bubble can be assumed to be travelling at its terminal velocity.
                quantities measured on Fig. 3.
 
 SOLUTION:
-                                                                                        𝜌$0       𝑃𝑒 𝑀$0
+                                                                                        𝜌$0        𝑃𝑒 𝑀$0
 A.4.1. Main forces: buoyancy 43 𝜋𝑎 3 𝜌ℓ 𝑔0 , drag force 6𝜋𝜂𝑎𝑣, weight is negligible:     𝜌ℓ
                                                                                                =    𝑅𝑇 𝜌ℓ
                                                                                                              ≈ 10−3 :
@@ -202,7 +206,9 @@ A.4.2. Simplified equation is a balance between buoyancy and drag force 43 𝜋�
      2 2
 𝑣 = 9𝜂
 A.4.3. Time between two bubbles: 𝛥𝑡 = 1/𝑓C
-                                                                                      Q3-4
+
+
+                                                                                      Q3-4
 Theory
 
 
@@ -278,7 +284,9 @@ A.5.2. 𝑎𝐻ℓ = 3.9 × 10−4 N for 𝜂 = 2.0 × 10−3 1B ⋅ T
 
 
 There are 𝑁C nucleation sites of bubbles. Assume that the bubbles are nucleated at a constant frequency
-                                                                                      Q3-5
+
+
+                                                                                      Q3-5
 Theory
 
 
@@ -286,10 +294,10 @@ Theory
                                                                                                English (Official)
 
 𝑓C at the bottom of a glass of champagne (height 𝐻ℓ for a volume 𝑉ℓ ), with 𝑎0 still negligible. Neglect
-diffusion of $0 at the free surface.
+diffusion of $0  at the free surface.
 
      A.6        Write the differential equation for 𝑐ℓ (𝑡). Obtain from this equation the charac-      1.1pt
-                teristic time 𝜏 for the decay of the concentration of dissolved $0 in the liquid.
+                teristic time 𝜏 for the decay of the concentration of dissolved $0  in the liquid.
 
 SOLUTION:
 A.6.1 The rate of bubbles reaching the free surface by unit time is 𝑁C 𝑓C
@@ -370,7 +378,9 @@ Small bubbles are nearly spherical as they reach the free surface. Once the liqu
 bubble from the air thins out sufficiently, a circular hole of radius 𝑟 forms in the film and, driven by
 surface tension, opens very quickly (Fig. 4. left). The hole opens at constant speed 𝑣G (Fig. 4. right). The
 film outside the rim remains still, with constant thickness ℎ.
-                                                                                      Q3-6
+
+
+                                                                                      Q3-6
 Theory
 
 
@@ -395,7 +405,7 @@ Theory
                                                                                           𝑣G d𝑡
                        (𝛾)                     (𝛿)
 
-     Fig. 4. (Left) (𝛼) Bubble at the surface: (1) liquid, (2) air at pressure 𝑃0 and (3), $0 at pressure
+     Fig. 4. (Left) (𝛼) Bubble at the surface: (1) liquid, (2) air at pressure 𝑃0 and (3), $0  at pressure
      𝑃C , (𝛽) and (𝛾) retraction of the liquid film, where the rim is in dark blue, (𝛿) bubble collapse.
      (Right) Retraction of the liquid film at time 𝑡. Top: sketch of the pierced film seen from above.
      Bottom: cross-section of the rim and the retracting film. During d𝑡 the rim accumulates nearby
@@ -418,7 +428,9 @@ B.1.5. Kinetic energy theorem: the lost energy is 𝛿𝐸𝑠 /2 < 0 so d𝐸�
 B.1.6. 𝑣𝑓 = √2𝜎/𝜌ℓ ℎ
 
 If partial answer: 𝑣𝑓 = √𝜎/𝜌ℓ ℎ obtained only by dimensional analysis: 0.2 pt to the question
-                                                                                                Q3-7
+
+
+                                                                                                Q3-7
 Theory
 
 
@@ -481,7 +493,9 @@ B.2.7. Harmonic oscillator of angular frequency 𝜔02 = 𝑆 2
                   𝑆 𝑃0 𝛾
 B.2.8. 𝑓0 =
               2𝜋 ⎷ 𝑚𝑝 𝑉0
-                                                                                     Q3-8
+
+
+                                                                                     Q3-8
 Theory
 
 
@@ -534,7 +548,9 @@ B.3.4. 𝑟D =      𝑎 2  ℓ 0 and 𝑟𝑐 = 0.15 NN so 𝑣𝑓 = 𝑐 =
 B.3.5. ℎ =          =              ℎ =       =
               𝜌ℓ 𝑣𝑓2 2𝑎 4 ⎷ 𝜌ℓ3 𝑔0     𝜌ℓ 𝑣𝑓2 2𝑎 4 𝜌ℓ2 𝑔0
 B.3.6. Numerical value ℎ = 3.7 µN
-                                                                                                    Q3-9
+
+
+                                                                                                    Q3-9
 Theory
 
 
@@ -552,35 +568,35 @@ Theory
 
 
 Part C. Popping champagne
-In a bottle, the total quantity of $0 is 𝑛5 = 0.2 NPM, either dissolved in the volume 𝑉- = 750 N- of liquid
-champagne, or as a gas in the volume 𝑉( = 25 N- under the cork (Fig. 6. left). 𝑉( contains only $0 .
-The equilibrium between both $0 phases follows Henry's Law. We suppose that the fast gaseous $0
+In a bottle, the total quantity of $0  is 𝑛5 = 0.2 NPM, either dissolved in the volume 𝑉- = 750 N- of liquid
+champagne, or as a gas in the volume 𝑉( = 25 N- under the cork (Fig. 6. left). 𝑉( contains only $0  .
+The equilibrium between both $0  phases follows Henry's Law. We suppose that the fast gaseous $0
 expansion when the bottle is opened, is adiabatic and reversible. Ambient temperature 𝑇0 and pressure
 𝑃0 = 1 CBS are constant.
 
 
-                                                            ԅ        ^
+                                                            ԅ         ^
 
 
-                                                ӯ           ԓ        ^   
+                                                ӯ            ԓ        ^
 
 
 
                                                           ԅi ԋ G
-                                                                      ^   
+                                                                      ^
 
-                                                         Ԓӯ  Ԛ> ԅB
-                                                             ԋG       ^
+                                                         Ԓӯ   Ԛ> ԅB
+                                                             ԋG       ^
         Fig. 6. Left: traditional bottleneck: (1) surrounding air, (2) cork stopper, (3) headspace, (4)
         liquid champagne. Right: Two phenomena observed while opening the bottle at two different
         temperatures (adapted from [2]).
 
 
-       C.1         Give the numerical value of the pressure 𝑃J of gaseous $0 in the bottle for                   0.4pt
+       C.1         Give the numerical value of the pressure 𝑃J of gaseous $0  in the bottle for                   0.4pt
                    𝑇0 = 6 °$ and 𝑇0 = 20 °$.
 
 SOLUTION:
-C.1.1. Conservation of $0 molecules: 𝑛𝑇 = 𝑛𝑉 + 𝑛𝐿 = 𝑛𝑉 + 𝑘𝐻 (𝑇0 )𝑃𝑖 𝑉𝐿
+C.1.1. Conservation of $0  molecules: 𝑛𝑇 = 𝑛𝑉 + 𝑛𝐿 = 𝑛𝑉 + 𝑘𝐻 (𝑇0 )𝑃𝑖 𝑉𝐿
                                        𝑃𝑖 𝑉𝐺
 C.1.2. Ideal gas law: 𝑛𝑉 =
                                        𝑅𝑇0
@@ -591,7 +607,9 @@ C.1.2. Ideal gas law: 𝑛𝑉 =
        𝑉𝐿 𝑘𝐻 (𝑇0 ) +             1 + 𝑅𝑇0 𝑘𝐻 (𝑇0 )
                        𝑅𝑇0                          𝑉𝐺
 C.1.3. For 𝑇0 = 6 °$: 𝑃𝑖 = 4.81 CBS
-                                                                                Q3-10
+
+
+                                                                                Q3-10
 Theory
 
 
@@ -601,7 +619,7 @@ Theory
 C.1.4. For 𝑇0 = 20 °$: 𝑃𝑖 = 7.76 CBS
 
 
-                         C.1.1. Conservation of $0 molecules                                  0.1
+                         C.1.1. Conservation of $0  molecules                                  0.1
                          C.1.2. Litteral expression of 𝑃𝑖                                      0.1
                          C.1.3. For 𝑇0 = 6 °$ : 𝑃𝑖 = 4.81 CBS                                  0.1
                          C.1.4. For 𝑇0 = 20 °$ : 𝑃𝑖 = 7.76 CBS                                 0.1
@@ -610,19 +628,19 @@ C.1.4. For 𝑇0 = 20 °$: 𝑃𝑖 = 7.76 CBS
 Another step of champagne production (not described here) leads to the following values of 𝑃𝑖 that we
 will use for the next questions: 𝑃J = 4.69 CBS at 𝑇0 = 6 °$ and 𝑃J = 7.45 CBS at 𝑇0 = 20 °$.
 During bottle opening, two different phenomena can be observed, depending on 𝑇0 (Fig. 6. right).
-    • either a blue fog appears, due to the formation of solid $0 crystals (but water condensation is
+    • either a blue fog appears, due to the formation of solid $0  crystals (but water condensation is
       inhibited);
     • or a grey-white fog appears, due to water vapor condensation in the air surrounding the bottleneck.
-      In this latter case, there is no formation of $0 solid crystals.
+      In this latter case, there is no formation of $0  solid crystals.
                                                                                                 $0
-                                                                                              𝑃TBU         𝐵
-The saturated vapor pressure 𝑃TBU  for the $0 solid/gas transition follows : MPH10 ⒧                         with
+                                                                                              𝑃TBU          𝐵
+The saturated vapor pressure 𝑃TBU   for the $0  solid/gas transition follows : MPH10 ⒧                         with
                                         $0
                                                                                                      ⒭=𝐴−
                                                                                                𝑃0         𝑇 +𝐶
 𝑇 in ,, 𝐴 = 6.81, 𝐵 = 1.30 × 103 , and 𝐶 = −3.49 ,.
 
-     C.2      Give the numerical value 𝑇G of the $0 gas at the end of the expansion, after                  0.7pt
+     C.2      Give the numerical value 𝑇G of the $0  gas at the end of the expansion, after                  0.7pt
               opening a bottle, if 𝑇0 = 6 °$ and if 𝑇0 = 20 °$, if no phase transition occured.
               Choose which statements are true (several statements possible):
                 1. At 𝑇0 = 6 °$ a grey-white fog appears while opening the bottle.
@@ -641,10 +659,10 @@ C.2.4. For 𝑇0 = 20 °$: 𝑃𝑖 = 7.45 CBS and 𝑇𝑓 = 184.3 , = −88.8 
 C.2.5. First method: comparison 𝑃TBU (𝑇𝑓 ) and 𝑃𝑓 = 𝑃0 .
 Second method: evaluation of the transition temperature at 𝑃0 and comparison with 𝑇𝑓 .
 
-C.2.6. First method: 𝑃TBU  (𝑇𝑓 = 6 °$) = 1.07 CBS > 𝑃0 . As the solid-liquid frontier has a positive slope in 𝑃, 𝑇
+C.2.6. First method: 𝑃TBU   (𝑇𝑓 = 6 °$) = 1.07 CBS > 𝑃0 . As the solid-liquid frontier has a positive slope in 𝑃, 𝑇
                              $0
 
-state-diagram, the final state of $0 is gaseous. 𝑃TBU  (𝑇𝑓 = 20 °$) = 0.41 CBS < 𝑃0 . As the solid-gas frontier
+state-diagram, the final state of $0  is gaseous. 𝑃TBU   (𝑇𝑓 = 20 °$) = 0.41 CBS < 𝑃0 . As the solid-gas frontier
                                                            $0
 
 has a positive slope in 𝑃, 𝑇 state-diagram, the final gaseous state hypothesis is inconsistent and a phase
@@ -654,8 +672,10 @@ Second method: 𝑇𝑡𝑟𝑎𝑛𝑠 =                    − 𝐶 . 𝑇𝑡
                                        𝑃0
                            𝐴 − MPH10 ⒧ ⒭
                                        𝑃0
-final state of $0 is gaseous. For 𝑇0 = 20 °$: 𝑇𝑓 = 184.3 , < 𝑇𝑡𝑟𝑎𝑛𝑠 ; the final gaseous state hypothesis is
-                                                                                          Q3-11
+final state of $0  is gaseous. For 𝑇0 = 20 °$: 𝑇𝑓 = 184.3 , < 𝑇𝑡𝑟𝑎𝑛𝑠 ; the final gaseous state hypothesis is
+
+
+                                                                                          Q3-11
 Theory
 
 
@@ -729,7 +749,9 @@ is:
                 𝑉                                 𝜋𝑑2 ℓ0          𝛾       𝛾
 𝑊CO2→cork = ∫𝑉𝐺𝐹 𝑃𝑑𝑉 , where 𝑉𝐹 = 𝑉𝐺 +                   and 𝑃0 𝑉𝐹 = 𝑃𝑖 𝑉𝐺 .
                                                     4
-                                                                                 Q3-12
+
+
+                                                                                 Q3-12
 Theory
 
 
@@ -749,8 +771,8 @@ C.3.7. The maximum height reached by the cork stopper is therefore: 𝐻𝑐 =  
 C.3.8. 𝐻𝑐 = 7.7 N
 
 
-If the candidates assumed a constant pressure 𝑃𝑖 for the gaseous $0 during its expansion, they would
-find a work done by \$0 on the cork equal to: 𝑃𝑖 (𝜋ℓ0 𝑑2 /4) = 3 J instead of 2.56 + and finally 𝐻𝑐 = 12 N. The
+If the candidates assumed a constant pressure 𝑃𝑖 for the gaseous $0  during its expansion, they would
+find a work done by \$0  on the cork equal to: 𝑃𝑖 (𝜋ℓ0 𝑑2 /4) = 3 J instead of 2.56 + and finally 𝐻𝑐 = 12 N. The
 difference is not negligible!
 
 

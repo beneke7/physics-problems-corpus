@@ -36,7 +36,9 @@ papers are present. You may not use any tables, books, or collections of formula
 • In order to maintain exam security, do not communicate any information about the questions
 (or their answers/solutions) on this contest.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Part A
 Question A1
 Two masses, m1 and m2, attached to equal length massless strings, are hanging side-by-side just in
@@ -74,7 +76,9 @@ A U-tube has vertical arms of radii r and 2r, connected by a horizontal tube of 
 radius increases linearly from r to 2r. The U-tube contains liquid up to height h in each arm. The
 liquid is set oscillating, and at a given instant the liquid in the narrower arm is at a distance y
 above the equilibrium level.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 h
 y
 dx
@@ -92,15 +96,15 @@ K =
 1
 4
 ρπr2
-
+
 ℓ +
 5
 2
 h
-
+
 dy
 dt
-2
+ 2
 .
 You may find it useful to integrate over slices dx, as shown in the figure. Ignore any nastiness
 at the corners, and assume ℓ ≫ r.
@@ -156,13 +160,13 @@ dx
 ρπr4
 ẏ2 ℓ
 r
-
+
 1
 r
 −
 1
 2r
-
+
 =
 1
 4
@@ -173,15 +177,17 @@ K =
 1
 4
 ρπr2
-
+
 ℓ +
 5
 2
 h
-
+
 ẏ2
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 3. (5) The energy equation is
 E =
 5
@@ -262,7 +268,9 @@ G
 M1 + M2
 M2
 1
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 which means that by combining the equations,
 rv2
 =
@@ -279,12 +287,12 @@ its time derivative to zero gives the answer. This is most conveniently done by 
 logarithm first,
 d
 dt
-
+
 logM1 + logM2 +
 1
 2
 logr
-
+
 = −
 µ
 M1
@@ -302,7 +310,9 @@ ṙ = 2µr
 M2 − M1
 M1M2
 .
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Part B
 Question B1
 A man wishes to topple a very tall and thin obelisk, of height L. To do this, he wraps the end of a
@@ -356,7 +366,9 @@ L
 p
 1 + µ2/3
 .
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Question B2
 The bottom of the Marianas trench in the Pacific ocean is 10.9km below sea level.
 1. Estimate the pressure at the bottom of the trench, assuming the water is incompressible. The
@@ -411,13 +423,15 @@ Z h
 which implies
 B(1 − e−P/B
 ) = ρgh, P = B log
-
+
 1
 1 − ρgh/B
-
+
 ≈ 1.13 × 108
 Pa.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 In other words, the error in treating water as incompressible is only about 3%. (Note that
 our final result diverges for sufficiently large h, say 100 times more than what we used in this
 problem. This is just telling us that at that point, treating the water as some substance with
@@ -467,7 +481,9 @@ s
 g
 R
 .
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 2. (10) By differentiating the angular velocity, we have
 α =
 (1 + µ/2)sinθ
@@ -526,16 +542,18 @@ Plugging this result back in gives the condition
 − µ − 1) + (µ(2 + µ)2
 )1/3
 ≤ 0.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 The threshold in µ occurs when this is equal to zero,
 2 + µ = 3µ1/3
 (2 + µ)2/3
 .
 Throwing away the extraneous solution µ = −2, this equation is equivalent to
-
+
 µ + 2
 µ
-1/3
+ 1/3
 = 3
 which has solution µ = 1/13, so the answer is m/M < 1/13.
 Of course, it’s crazy that all this is worth just 10 points! In practice, some points are indeed

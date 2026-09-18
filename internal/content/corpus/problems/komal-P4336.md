@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201103"
 verification_status: pending
 ---
 
-An electron of negligible initial speed is accelerated through a potential difference of a million volt. To what final speed will it accelerate, by what factor does its mass increase and what will its de Broglie wavelength be? 
+An electron of negligible initial speed is accelerated through a potential difference of a million volt. To what final speed will it accelerate, by what factor does its mass increase and what will its de Broglie wavelength be?
  (4 pont)

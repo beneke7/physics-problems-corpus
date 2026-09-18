@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A heavy, open (railway) wagon is travelling on a horizontal, straight track at a speed of $v$. A light toy cannon on the wagon can fire projectiles at a speed of $2v$ with respect to the to the cannon. At what angle to the horizontal should the projectile be fired so that it falls back onto the wagon? How long after firing does the projectile fall back onto the wagon? (Neglect air drag.) 
+A heavy, open (railway) wagon is travelling on a horizontal, straight track at a speed of $v$. A light toy cannon on the wagon can fire projectiles at a speed of $2v$ with respect to the to the cannon. At what angle to the horizontal should the projectile be fired so that it falls back onto the wagon? How long after firing does the projectile fall back onto the wagon? (Neglect air drag.)
  (3 pont)

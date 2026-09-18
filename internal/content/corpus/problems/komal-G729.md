@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-When melted lard is left to cool down in a pot, it can be observed clearly that the surface of the lard is similar to a crater, along the rim a regular flange is formed. Why? 
+When melted lard is left to cool down in a pot, it can be observed clearly that the surface of the lard is similar to a crater, along the rim a regular flange is formed. Why?
  (3 pont)

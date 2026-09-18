@@ -22,6 +22,6 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Two uniform disks can slide frictionless on the horizontal ground. The friction coefficient of the disks between each other is  . One of the disks is at rest, the other is pushed against it with a velocity of  v . What can the velocities of the disks be after the collision? 
+Two uniform disks can slide frictionless on the horizontal ground. The friction coefficient of the disks between each other is  . One of the disks is at rest, the other is pushed against it with a velocity of  v . What can the velocities of the disks be after the collision?
 
  (5 pont)

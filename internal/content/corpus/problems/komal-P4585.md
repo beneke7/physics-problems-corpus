@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201312"
 verification_status: flagged
 ---
 
-Two balls of masses M and m are attached to two threads of length  , such that the two threads are suspended at the same point. The balls are both deflected to the horizontal position of the threads, released from rest at the same time, and they collide head on. (The collision is perfectly elastic.) 
+Two balls of masses M and m are attached to two threads of length  , such that the two threads are suspended at the same point. The balls are both deflected to the horizontal position of the threads, released from rest at the same time, and they collide head on. (The collision is perfectly elastic.)
 
- a ) What should be the M / m ratio of the masses, in order that the ball of mass m reaches the maximum height which is allowed by the thread? 
- b ) In this case how high will the ball of mass  M  go? 
+ a ) What should be the M / m ratio of the masses, in order that the ball of mass m reaches the maximum height which is allowed by the thread?
+ b ) In this case how high will the ball of mass  M  go?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4585-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4585-fig1.gif)

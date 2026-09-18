@@ -24,7 +24,7 @@ verification_status: pending
 ### 4.2 Collision with Disk
 
 In this part, you will launch a "probe" disk towards a hidden, second disk on the table, which begins at rest with its center at an unknown position $\left(x_{0}, y_{0}\right)$ (where $x_{0}>0$ ), with mass $M$ and radius $R$. The probe disk has radius $r=(0.250 \pm 0.001) \mathrm{m}$, but you may choose its mass $m$, initial position $(0, s)$, initial speed $v$, and the initial direction $\theta$ of its velocity (as an angle relative to the horizontal). Both disks are frictionless, so that rotation is irrelevant. The program will simulate the collision, if it occurs, and return the final velocity (speed and angle) of the probe disk.
-![](usatst-2022-q4-3-fig01.png)
+![](../../figures/usatst/figures/usatst-2022-q4-3-fig01.png)
 The parameters you choose must be in the following ranges:
 
 - $1 \mathrm{~kg} \leq m \leq 5 \mathrm{~kg}$.

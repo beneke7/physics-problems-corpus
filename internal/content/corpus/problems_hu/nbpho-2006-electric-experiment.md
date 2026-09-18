@@ -25,9 +25,9 @@ Határozza meg egy ismeretlen kondenzátor kapacitását, és becsülje meg a k�
 
 **Megjegyzések:** Az alábbiakban egy LED tipikus $V$-$I$ karakterisztikáját adjuk meg; ebben a kísérletben a LED $V$-$I$ karakterisztikája ideális diódáéval közelíthető. A LED nyitófeszültsége $U_{c}$ nem ismert. Ha a LED-en nem nulla áram folyik, fényt bocsát ki.
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-electric-experiment-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-electric-experiment-fig1.png)
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-electric-experiment-fig2.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-electric-experiment-fig2.png)
 
 Ha egy $C$ kapacitású kondenzátort és egy $R$ ellenállású ellenállást sorosan kapcsolunk egy $E$ elektromotoros erőre, akkor a kondenzátor feszültsége exponenciálisan közelít az aszimptotikus értékéhez: $U=E \pm U_{0} e^{-t / R C}$.
 

@@ -159,7 +159,7 @@ With a strong magnet, and a measurement of h accurate to about 0.1mm, one can in
 detect this effect. Note that if you treated the dipole moment as permanent, and used a
 potential energy density −M · B, your answer here would be off by a factor of 2.
 [3] Problem 14. NBPhO 2004, problem 6. A cute exercise with permanent magnets.
-[5] Problem 15.  h 1 0IPhO 2022, problem 1. A series of exercises on spherical magnets, which uses
+[5] Problem 15.   h 1 0IPhO 2022, problem 1. A series of exercises on spherical magnets, which uses
 almost everything covered in this section.
 16
 Kevin Zhou Physics Olympiad Handouts
@@ -195,38 +195,38 @@ Kevin Zhou Physics Olympiad Handouts
 However, we will give an explicit proof. A 2N-pole can be constructed from N + 1 charges,
 with charge j placed at x = −j with charge (−1)j N
 j
-
+
 . Then the field at point x is
 E(x) =
 N X
 j=0
 (−1)j
-
+
 N
 j
-
+
 1
 (x + j)2
 = x−2
 N X
 j=0
 (−1)j
-
+
 N
 j
- ∞ X
+  ∞ X
 k=0
-
+
 −2
 k
-
+
 (j/x)k
 .
 We see that this can be split into sums of the form f(k) =
 PN
 j=0(−1)j N
 j
-
+
 jk, and the coefficient
 of x−2−k is some nonzero multiple times f(k). So it suffices to show that f(k) = 0 for all
 k < N, and f(N) ̸= 0. This is an exercise in algebraic sums. The key idea is to define
@@ -234,78 +234,78 @@ g(k) =
 N X
 j=0
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 =
 N X
 j=k
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 .
 We see that jk can be written as a linear combination of j
 0
-
+
 ,..., j
 k
-
+
 , so it suffices to show
 that g(k) = 0 for all k < N, and that g(N) ̸= 0. We see that
 g(k) =
 N X
 j=k
 (−1)j
-
+
 N
 j
-
+
 j
 k
-
+
 =
 N X
 j=k
 (−1)j
-
+
 N
 k
-
+
 N − k
 j − k
-
+
 =
-
+
 N
 k
- N X
+  N X
 j=k
 (−1)j
-
+
 N − k
 j − k
-
+
 =
-
+
 N
 k
-
+
 (−1)k
 · 1k=N
 where we used the fact that
 PM
 ℓ=0(−1)ℓ M
 ℓ
-
+
 = 1M=0 (here 1S is 1 if and only if S is true, and
 is 0 otherwise), which follows from the binomial theorem. This completes the proof.
 (c) Let’s think of a general quadrupole as a superposition of two dipoles in opposite directions.

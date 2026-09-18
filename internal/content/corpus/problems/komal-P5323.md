@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-A current $I = 40$ mA flows into a system of resistors shown in the figure at point $A$ and flows out of it at point $B$. 
+A current $I = 40$ mA flows into a system of resistors shown in the figure at point $A$ and flows out of it at point $B$.
 
- $a)$ What is the value of the current flowing through each resistor? 
- $b)$ What is the dissipated power at each resistor? 
- $c)$ What is the resistance of a single resistor with which we could replace the whole system of resistors? 
+ $a)$ What is the value of the current flowing through each resistor?
+ $b)$ What is the dissipated power at each resistor?
+ $c)$ What is the resistance of a single resistor with which we could replace the whole system of resistors?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5323-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5323-fig1.gif)

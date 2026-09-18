@@ -142,7 +142,7 @@ fuel comes out, it’s at a dead stop, so all of the kinetic energy burned goes 
 Thus the maximum value of η is 100%. This is called a “perfect rocket”, though it’s not the
 kind of thing one would want to use in practice. It’s not trivial to change u arbitrarily, from
 an engineering point of view, and a perfect rocket at low speeds would have low power.
-[3] Problem 15.  m 1 0USAPhO 2015, problem B1. A basic, two-step rocket maneuver.
+[3] Problem 15.   m 1 0USAPhO 2015, problem B1. A basic, two-step rocket maneuver.
 Remark: Patched Conic Approximation
 Treating an orbital maneuver exactly, accounting for the gravitational fields of the Sun
 and all planets, would be very complicated. So in the problems below, we will use the

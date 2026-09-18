@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A horizontal membrane vibrates vertically, harmonically, at a frequency of 500 Hz. Fine sand is sprinkled on the membrane and the sand particles are seen to rise into the air to a height of 3 mm above the equilibrium position of the diaphragm. What is the amplitude of the vibration of the membrane? 
- Consider the collision of the sand particles on the membrane as totally inelastic. 
+A horizontal membrane vibrates vertically, harmonically, at a frequency of 500 Hz. Fine sand is sprinkled on the membrane and the sand particles are seen to rise into the air to a height of 3 mm above the equilibrium position of the diaphragm. What is the amplitude of the vibration of the membrane?
+ Consider the collision of the sand particles on the membrane as totally inelastic.
  (5 pont)

@@ -17,9 +17,9 @@ huzaltól r1 távolságban lév® pontból v0 kezd®sebesség¶ elektronok indul
 elektronok sak r0/2 távolságra képesek megközelíteni a huzalt. Mennyi lehet v0 értéke? (A földi mágneses tér hatásától
 eltekinthetünk.)
 (Varga István)
-I. megoldás. Ha eddig nem jutott volna eszünkbe, ez az utolsó, zárójelbe tett mondat 
+I. megoldás. Ha eddig nem jutott volna eszünkbe, ez az utolsó, zárójelbe tett mondat
 gyelmeztet, hogy az áram
-mágneses terének hatását kell 
+mágneses terének hatását kell
 gyelembe vennünk. (Az áramvezet®nek van elektromos tere is, a nagyon jó vezet®képes-
 ség¶ huzalban azonban a térer®sség a huzal belsejében és környezetében is ki si, ennek hatása most elhanyagolható.)
 A mozgó töltésre a mágneses tér mindig olyan er®t fejt ki, ami a sebességre mer®leges. Ez el tudja téríteni, el
@@ -204,8 +204,8 @@ az r0-ról így kil®tt elektron nem sak hogy r0/2-re tudja megközelíteni az �
 eltávolodni t®le. Általában, ha r0/n-re tudja megközelíteni, akkor nr0-ra tud eltávolodni t®le. Másképp fogalmazva:
 a legkisebb és a legnagyobb távolság mértani közepe az a távolság, ahol éppen az áramvezet®re mer®legesen halad. A
 további érdekességek megállapítását az olvasóra bízzuk.
-II. megoldás. (Ková s Gábor dolgozata alapján.) Tekintsünk egy álló koordináta-rendszert, amelyben sak B
-mágneses induk ió mérhet® (elektromos mez® nem), és egy másik, hozzá képest állandó v0 sebességgel mozgó vessz®s
+II. megoldás. (Ková s Gábor dolgozata alapján.) Tekintsünk egy  álló  koordináta-rendszert, amelyben sak B
+mágneses induk ió mérhet® (elektromos mez® nem), és egy másik, hozzá képest állandó v0 sebességgel mozgó  vessz®s
 rendszert! Írjuk fel mindkét rendszerben a Q töltés¶ része skére ható Lorentz-er®t:
 F = Q(v × B) = Q(v′
 + v0) × B = F′
@@ -213,7 +213,7 @@ F = Q(v × B) = Q(v′
 × B′
 ) + QE′
 .
-Látható, hogy a mozgó rendszerben megjelent egy v0 × B nagyságú elektromos mez® is (és az is leolvasható, hogy
+Látható, hogy a mozgó rendszerben  megjelent  egy v0 × B nagyságú elektromos mez® is (és az is leolvasható, hogy
 B′
 = B).
 Üljünk bele abba a koordináta-rendszerbe, amely az áramvezet®vel párhuzamosan v0 sebességgel mozog. Innen
@@ -235,9 +235,9 @@ az áramvezet®t, akkor éppen megáll. Alkalmazzuk a munkatételt a szóban for
 1
 2
 m
-√
+ √
 2v0
-2
+ 2
 −
 µ0v0IQ
 2π
@@ -252,29 +252,29 @@ ahonnan v0-ra éppen az I. megoldásban megadott számérték adódik.
 A verseny eredménye
 Összesen 216 versenyz® adott be dolgozatot; 213 magyar, 2 román és 1 ukrán állampolgárságú versenyz®. Buda-
 pesten érettségizett az összes magyarországi versenyz®k 12 %-a, vidéken érettségizett ugyan sak 12 %. Vidéki utolsó
-éves középiskolás volt 30 %, budapesti utolsó éves középiskolás 14 %. A még 
+éves középiskolás volt 30 %, budapesti utolsó éves középiskolás 14 %. A még
 atalabb versenyz®k közül Budapesten
 járt középiskolába az összes hazai versenyz®k 12 %-a, vidéken pedig 20 %.
 Idén a feladatok kissé nehéznek bizonyultak: nem volt olyan versenyz®, aki mindhárom feladatot jól megoldotta
 volna. Ezért a Versenybizottság úgy döntött, hogy az els® díjat nem adja ki, és az alábbi határozatot hozta:
 Második díjat nyert egyenl® helyezésben a következ® két versenyz®:
-Ková s Gábor, az ELTE 
+Ková s Gábor, az ELTE
 zikus hallgatója, aki a soproni Berzsenyi Dániel Evangélikus Lí eumban érettségizett
 mint Lang Jánosné tanítványa;
 Várkonyi Péter László, a BME építészmérnök hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnázium-
 ban érettségizett mint Horváth Gábor tanítványa.
 Harmadik díjat nyert egyenl® helyezésben a következ® három versenyz®:
-Egri Gy®z®, az ELTE 
+Egri Gy®z®, az ELTE
 zikus hallgatója, aki a budapesti Alternatív Közgazdasági Gimnáziumban érettségizett
 mint Korom Pál tanítványa;
 Gyurkó Martin, a zalaegerszegi Ságvári Endre Gimnázium 12. évfolyamának tanulója, Rádulyné Horváth Katalin
 tanítványa;
 Kon z Imre, a BME m¶szaki menedzser szakos hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban
 érettségizett mint Horváth Gábor tanítványa.
-Az Eötvös Loránd Fizikai Társulat a második díjas versenyz®ket 88 ezer, a harmadik díjas versenyz®ket 55 ezer
+Az Eötvös Loránd Fizikai Társulat a második díjas versenyz®ket 8 8 ezer, a harmadik díjas versenyz®ket 5 5 ezer
 forint pénzjutalomban részesítette.
-A Versenybizottság di séretben részesítette a 615. helyezést elért versenyz®ket.
-A verseny 610. helyezettje egyenl® helyezésben:
+A Versenybizottság di séretben részesítette a 6 15. helyezést elért versenyz®ket.
+A verseny 6 10. helyezettje egyenl® helyezésben:
 Bér zi Gergely, a szegedi Ságvári Endre Gyakorló Gimnázium 12. évfolyamának tanulója, Tóth Károly tanítvá-
 nya;
 Boja Ben e, a budapesti Árpád Gimnázium 12. évfolyamának tanulója, S huszter Feren tanítványa
@@ -284,7 +284,7 @@ Karádi Ri hárd, a gy®ri Révai Miklós Gimnázium 12. évfolyamának tanulój
 tanítványa;
 Mátrai Tamás, az ELTE matematikus hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érett-
 ségizett mint Horváth Gábor tanítványa.
-A verseny 1115. helyezettje egyenl® helyezésben:
+A verseny 11 15. helyezettje egyenl® helyezésben:
 Felföldi Zsolt, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. évfolyamának tanulója, Horváth Gábor és
 Dvorák Ce ília tanítványa;
 Kormos Márton, a debre eni KLTE Gyakorló Gimnáziumának 12. évfolyamú tanulója, Farkas József és Szegedi
@@ -295,8 +295,8 @@ nya;
 Sarlós Feren , a bajai III. Béla Gimnázium 12. évfolyamú tanulója, Polgár László tanítványa.
 A díjakat, jutalmakat és okleveleket az Eötvös Fizikai Társulat elnöke adta át.
 A Nemzeti Tankönyvkiadó több ezer forint összérték¶ könyvutalvánnyal, a M¶szaki-Calibra kiadó pedig értékes
-könyv somagokkal egészítette ki az els® 15 helyezett versenyz® társulati elismerését. Külön meglepetésként  most már
-nem el®ször  a fenti két kiadó, kiegészülve idén a TypoT EX és a SCOLAR kiadókkal, ajándék könyvekkel lepte meg
+könyv somagokkal egészítette ki az els® 15 helyezett versenyz® társulati elismerését. Külön meglepetésként   most már
+nem el®ször   a fenti két kiadó, kiegészülve idén a TypoT EX és a SCOLAR kiadókkal, ajándék könyvekkel lepte meg
 a nyertes versenyz®k tanárait.
 Végül az ünnepi eredményhirdetés utolsó aktusaként diákok és tanáraik a megjelent volt Eötvös verseny nyerte-
 sekkel találkoztak, akiket a Versenybizottság elnöke mutatott be a hallgatóságnak.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200805"
 verification_status: pending
 ---
 
-Can a satellite be placed above Budapest (such that it is on the line which joins the centre of the Earth and the centre of the city)? 
+Can a satellite be placed above Budapest (such that it is on the line which joins the centre of the Earth and the centre of the city)?
  (3 pont)

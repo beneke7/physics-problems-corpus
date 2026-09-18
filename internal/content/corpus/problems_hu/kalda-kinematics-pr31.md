@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $R$ sugarú kerék tengelye a talajtól $R$ magasságban van, és a kerék $\Omega$ szögsebességgel forog. A kerék egy A pontjáról vízcsepp válik le, és a kereket tartó tengely alatt közvetlenül elhelyezkedő B pontban ér talajt. Határozzuk meg a csepp esési idejét és az A pont helyét, azaz az $\alpha$ szöget.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr31-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr31-fig1.jpg)

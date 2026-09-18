@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An 80 kg action hero uses a parachute that sinks at a speed of 8 m/s when open. In one scene, he catches the heroine, who weighs 60 kg, in the air and then he opens the parachute. At what speed does the clinging pair reach the ground? From what height should they jump without parachute in order to reach the ground at the same speed? 
+An 80 kg action hero uses a parachute that sinks at a speed of 8 m/s when open. In one scene, he catches the heroine, who weighs 60 kg, in the air and then he opens the parachute. At what speed does the clinging pair reach the ground? From what height should they jump without parachute in order to reach the ground at the same speed?
  (4 pont)

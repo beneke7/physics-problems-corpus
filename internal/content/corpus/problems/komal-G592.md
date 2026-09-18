@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws]
 ---
 
-A ball is dropped from a height of $H$ and it collides totally elastically with a slant wall at a height of $h<H$. The angle between the wall and the horizontal is $45^\circ$. 
- $a)$ What should the height $h$ be in order that the range (horizontal displacement) of the ball is to be the greatest? 
- $b)$ What is this maximum range? 
+A ball is dropped from a height of $H$ and it collides totally elastically with a slant wall at a height of $h<H$. The angle between the wall and the horizontal is $45^\circ$.
+ $a)$ What should the height $h$ be in order that the range (horizontal displacement) of the ball is to be the greatest?
+ $b)$ What is this maximum range?
  (3 pont)

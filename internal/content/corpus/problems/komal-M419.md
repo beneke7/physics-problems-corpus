@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 202301"
 verification_status: pending
 ---
 
-Cut out approximately 2 cm wide strips from a sheet of A4 copy paper, parallel to its longer and to its shorter side. Narrow the middle third of the paper strips along the curved lines as shown in the figure. Measure the tensile strength of the paper. (Express the tensile strength in MPa units). Is there a difference between the tensile strength of the longer and shorter strips? 
+Cut out approximately 2 cm wide strips from a sheet of A4 copy paper, parallel to its longer and to its shorter side. Narrow the middle third of the paper strips along the curved lines as shown in the figure. Measure the tensile strength of the paper. (Express the tensile strength in MPa units). Is there a difference between the tensile strength of the longer and shorter strips?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M419-fig1.gif)
+![figure](../../figures/komal/figures/komal-M419-fig1.gif)

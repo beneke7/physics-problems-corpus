@@ -15,7 +15,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/usapho/2021
 Question A2
 Flashlight
 Alice the Mad Scientist, travelling in her flying car at height h above the ground, shoots a beam of
-muons at the ground. Bob, observing from the ground at distance R 
+muons at the ground. Bob, observing from the ground at distance R
  h from Alice’s car, decides
 to check some facts about special relativity. Assume the muons travel extremely close to the speed
 of light in Alice’s frame.

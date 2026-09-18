@@ -89,10 +89,10 @@ You should find something puzzling going on. (Hint: to resolve the problem, it m
 to find the stopping time explicitly in a few examples.)
 Solution. (a) The dimensions of b can be found with [b] = [F/vn] = kg · m1−n · s−2+n. To get a
 stopping time or distance, the mass term must be canceled out. So we’re working with
-
+
 b
 m
-
+
 = m1−n
 s−2+n
 [v] =

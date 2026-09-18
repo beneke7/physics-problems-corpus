@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201601"
 verification_status: pending
 ---
 
-Measure the viscosity of honey at least at three different temperature values. Give the type of honey you used. 
+Measure the viscosity of honey at least at three different temperature values. Give the type of honey you used.
  (6 pont)

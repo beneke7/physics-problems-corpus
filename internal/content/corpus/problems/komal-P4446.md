@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201205"
 verification_status: pending
 ---
 
-A slow neutron collides with a stationary one, such that the angle between the direction of the original motion and the direction of the neutron's motion is  . In which direction does the stationary neutron begin to move after the collision? 
+A slow neutron collides with a stationary one, such that the angle between the direction of the original motion and the direction of the neutron's motion is  . In which direction does the stationary neutron begin to move after the collision?
  (4 pont)

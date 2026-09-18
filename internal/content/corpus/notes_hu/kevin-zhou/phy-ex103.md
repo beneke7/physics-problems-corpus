@@ -37,7 +37,6 @@ A járulékos tagok kiesnek, így ⟨ψk′ |ψk ⟩ = ⟨k′ |k⟩ = δ(k − 
                                    nα
 
 ahol az első tag a kötött állapotokat tartalmazza, amelyek minden szórási állapotra ortogonálisak.
-277 12. Szórás
 
 12.5   Az S-mátrix
 Az S-mátrixot az egydimenziós potenciálszórás egyszerű példáján keresztül vezetjük be.
@@ -74,7 +73,7 @@ Az S-mátrixot az egydimenziós potenciálszórás egyszerű példáján kereszt
     Ez a paritásszimmetriából következik, ahogy alább látni fogjuk.
 
  • Az adatainkat az S-mátrixszal foglaljuk össze:
-                                                                              
+
                             ψR       IR        OR                           t r
                                 =         +S       ,                   S=
                             ψL       IL        OL                           r ′ t′
@@ -89,16 +88,15 @@ Most egy általános paritásszimmetrikus V (x) = V (−x) potenciált tekintün
          I+ (x) = e−ik|x| ,   I− (x) = sign(x)e−ik|x| ,      O+ (x) = eik|x| ,   O− (x) = − sign(x)eik|x|
 
     amelyet a következő bázisváltás kapcsol össze:
-                                                                                 
+
                        I+         IR        O+     OR                                 1 1
                             =M         ,       =M     ,                     M=              .
                        I−         IL        O−     OL                                −1 1
 
     E transzformáció alkalmazásával az S-mátrix paritásbázisbeli alakja S P = M SM −1 .
-278 12. Szórás
 
  • Paritásszimmetrikus potenciál esetén r = r′ , mert ψR (x) = ψL (−x). Ekkor S P alakja egyszerűsödik:
-                                         
+
                          P     S++
                        S =                   , S++ = t + r, S−− = t − r.
                                       S−−
@@ -138,4 +136,3 @@ Most egy általános paritásszimmetrikus V (x) = V (−x) potenciált tekintün
 
    adódik, ami megmutatja, hogy a páros paritású kötött állapotok akkor jelennek meg, amikor λ = q tan(qa/2), ami ismerős
    eredmény. A kötöttállapot-energiát az E = −ℏ2 λ2 /2m összefüggésből kaphatjuk meg.
-

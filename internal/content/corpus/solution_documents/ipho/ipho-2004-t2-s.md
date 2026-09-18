@@ -53,7 +53,9 @@ Theoretical Question 2: Rising Balloon
 
 
 (e) z f =11 km,       λ f =2.1.
-                 Theoretical Question 2 / Solutions                                      Page 2/6
+
+
+                 Theoretical Question 2 / Solutions                                      Page 2/6
 
 
 2. Solutions
@@ -96,7 +98,9 @@ The work needed to increase the radius from r to r + dr under the pressure
 difference ∆P is
                                       dW = 4πr 2 ∆Pdr ,                                       (c1)
 while the increase of the elastic energy for the same change of r is
-               Theoretical Question 2 / Solutions                                Page 3/6
+
+
+               Theoretical Question 2 / Solutions                                Page 3/6
 
                                                              6
                         dU                   r
@@ -151,7 +155,9 @@ On the other hand, the result of (c) at T = T0 gives
                    Pin = P0 + ∆P = P0 +        ( − 7 ) = (1 + a ( − 7 )) P0 .       (d3)
                                             r0  λ λ              λ λ
 Equating (d2) and (d3) to solve for a ,
-                Theoretical Question 2 / Solutions                             Page 4/6
+
+
+                Theoretical Question 2 / Solutions                             Page 4/6
 
 
                       n /(n0 λ3 ) − 1
@@ -197,7 +203,9 @@ Equating the right hand sides of Eqs. (e3) and (e4), one has the equation for λ
                                        an0     MA
 The solution for λ can be obtained by
                  λ2 ≈ 4.54 /(1 − 4.54 −3 ) ≈ 4.54 : λ f ≅ 2.13.                    (e6)
-                Theoretical Question 2 / Solutions                               Page 5/6
+
+
+                Theoretical Question 2 / Solutions                               Page 5/6
 
 
 To find the height, replace ( P / P0 ) /(T / T0 ) on the left hand side of Eq. (e3) as a
@@ -213,7 +221,9 @@ function of the height given in (b) as
                             z f = 49 × 1 − (3.10 / 2.133 )1 / 4.5 = 10.9 (km).      (e8)
 
 The required answers are λ f = 2.1, and z f = 11 km.
-                Theoretical Question 2 / Solutions                                              Page 6/6
+
+
+                Theoretical Question 2 / Solutions                                              Page 6/6
 
 
 3. Mark Distribution

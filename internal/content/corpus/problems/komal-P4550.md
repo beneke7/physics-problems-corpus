@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-Two alike long, straight wires of diameter d , are at a distance of ; their resistance is negligible and ( L D ). One ends of the wires are connected through a battery of voltage U , and the other ends of the wires are connected through a resistor of resistance R . What is the value of R if the electric and magnetic forces exerted between the wires are equal? 
+Two alike long, straight wires of diameter d , are at a distance of ; their resistance is negligible and ( L D ). One ends of the wires are connected through a battery of voltage U , and the other ends of the wires are connected through a resistor of resistance R . What is the value of R if the electric and magnetic forces exerted between the wires are equal?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4550-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4550-fig1.gif)

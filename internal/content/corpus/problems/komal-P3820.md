@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-Edison's first incandescent lamps were made of carbonized fibres of plants. Why was it important to connect a resistor in series? 
+Edison's first incandescent lamps were made of carbonized fibres of plants. Why was it important to connect a resistor in series?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, cross-domain-analogy, limiting-and-special-cases]
 ---
 
-An electric water boiler heats up water from $20\,^\circ\mathrm{C}$ (room temperature) to $60\,^\circ\mathrm{C}$ in a few hours. If you then do not use hot water at all and disconnect the appliance from the mains, the temperature of the water will drop to $40\,^\circ\mathrm{C}$ in about 7 days. If we keep the water warm in the boiler but do not use it, how many days of electricity consumption will cost the same as heating up the room temperature water once? (It can be assumed that the heat dissipation of the boiler is proportional to the temperature difference between the water and the environment.) 
+An electric water boiler heats up water from $20\,^\circ\mathrm{C}$ (room temperature) to $60\,^\circ\mathrm{C}$ in a few hours. If you then do not use hot water at all and disconnect the appliance from the mains, the temperature of the water will drop to $40\,^\circ\mathrm{C}$ in about 7 days. If we keep the water warm in the boiler but do not use it, how many days of electricity consumption will cost the same as heating up the room temperature water once? (It can be assumed that the heat dissipation of the boiler is proportional to the temperature difference between the water and the environment.)
  (5 pont)

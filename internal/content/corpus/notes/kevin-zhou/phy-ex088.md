@@ -28,7 +28,7 @@ Example. A quartic potential. In certain convenient units, we let
                                                       dx2
 The ground state energy can be shown numerically to be E0 ≈ 1.06. To get a variational estimate,
 we can try normalized Gaussians, since these roughly have the right behavior and symmetry,
-                                                      α 1/4            2
+                                                       α  1/4            2
                                        ψ(x, α) =                e−αx /2 .
                                                       π
 The expected energy is
@@ -43,15 +43,14 @@ The minimum occurs at α∗ = 3 3, giving
 
 which is a fairly good estimate. Now, the first excited state has E1 ≈ 3.80. We can estimate this
 with an odd trial wavefunction, such as
-                                                           1/4
+                                                            1/4
                                                      4α3
-                                                 
+
                                                                              2
                                    ψ(x, α) =                      xe−αx /2
                                                       π
 
 which gives an estimate E(α∗ ) = 3.85.
-224 9. Time Independent Perturbation Theory
 
 
 Note. Bound states in various dimensions. To prove that bound states exist, it suffices by the
@@ -74,7 +73,6 @@ a variational wavefunction with lower ⟨H⟩ by converting it to an s-wave.
  energy. That can’t be justified rigorously with perturbation theory alone, but it follows rigorously
  from the variational principle, because the first order result is just the energy expectation of the
  unperturbed ground state |0⟩.
-225 10. Atomic Physics
 
 
 10     Atomic Physics
@@ -127,7 +125,6 @@ particles. To begin, we discuss some bookkeeping rules for identical particles.
  • This is the symmetrization postulate. In the context of nonrelativistic quantum mechanics, it
    is simply an experimental result, as we’ll see below. In the context of relativistic quantum field
    theory, it follows from simple physical assumptions by the spin-statistics theorem.
-226 10. Atomic Physics
 
 
  • In the second quantized formalism of field theory, there is no need to (anti)symmetrize at all;
@@ -170,7 +167,7 @@ We now illustrate this with some molecular examples.
  • For many molecules, the low-lying energy levels have the approximate form
 
                                         ℓ(ℓ + 1)ℏ2
-                                                            
+
                                                            1
                                  Enℓ =             + n+        ℏω
                                             2I             2
@@ -183,7 +180,6 @@ We now illustrate this with some molecular examples.
    parity, but with the crucial difference that this selection rule is never observed to be broken.
    Spectroscopy tells us that all of the states of odd ℓ in 12 C2 are missing, a conclusion which is
    confirmed by thermodynamic measurements.
-227 10. Atomic Physics
 
 
  • Furthermore, levels are not missing if the nuclei are different isotopes, even though, without
@@ -236,7 +232,6 @@ enced by a proton is hence
                                                µ0 qv
                                          B ∼ 2 ∼ 0.1 T.
                                                 a0
-228 10. Atomic Physics
 
 
 The collision takes time τ ∼ a0 /v. The resulting classical spin precession is
@@ -288,7 +283,6 @@ We now investigate helium and helium-like atoms.
     exchange) and orthohelium (spin triplet, odd under orbital exchange). Parahelium and orthohe-
     lium behave so differently and interconvert so slowly that they were once thought to be separate
     species.
-229 10. Atomic Physics
 
 
  • The main difference versus H2 is that it will be much harder to find the spatial wavefunction,
@@ -335,7 +329,6 @@ Next, we look at some experimental data.
    only a single bound state, the 11 S.
 
  • The bound states for parahelium and orthohelium are shown below.
-230 10. Atomic Physics
 
 
 
@@ -357,7 +350,7 @@ We now investigate the spectrum perturbatively.
    orbitals. Thus the two-particle eigenfunctions of the unperturbed Hamiltonian are
 
                                                                                 Z2 1
-                                                                                         
+
                                          (0)                          (0)              1
               H0 |n1 ℓ1 m1 n2 ℓ2 m2 ⟩ = En1 n2 |n1 ℓ1 m1 n2 ℓ2 m2 ⟩, En1 n2 = −      +
                                                                                 2 n21 n22
@@ -376,7 +369,6 @@ We now investigate the spectrum perturbatively.
  • The energy levels are lower than the true ones, because the electrons repel each other. We also
    note that the “double excited” states with n1 , n2 ̸= 1 lie in the continuum. Upon including the
    perturbation, they mix with the continuum states, and are hence no longer bound states.
-231 10. Atomic Physics
 
 
  • However, the doubly excited states can be interpreted as resonances. A resonance is a state
@@ -404,7 +396,7 @@ We now investigate the spectrum perturbatively.
  • Now we focus on the true bound states, which are at most singly excited. These are characterized
    by a single number n,
                                                 Z2
-                                                            
+
                                         (0)               1
                                       E1n = −        1+ 2
                                                  2       n
@@ -429,12 +421,11 @@ We now compute the effect of the perturbation.
     and is equal to the expected energy due to electrostatic repulsion between two 1s electrons.
 
  • The hydrogen-like orbital for the ground state is
-                                                            1/2
+                                                             1/2
                                                        Z3
-                                                   
+
                                       ψ100 (x) =                   e−Zr .
                                                        π
-232 10. Atomic Physics
 
 
     The 1/r12 factor can be expanded as
@@ -499,13 +490,12 @@ We now compute the first-order energy shift for the excited states.
                                               ∆EN L± = ⟨N LM ±|H1 |N LM ±⟩
 
     where there is no dependence on M because H1 is a scalar operator.
-233 10. Atomic Physics
 
 
  • Expanding the definition of |N LM ±⟩, we have four terms,
                  1
       ∆EN L± =     ⟨100 nℓm|H1 |100 nℓm⟩ + ⟨nℓm 100|H1 |nℓm 100⟩
-                 2                                                                        
+                 2
                                          ± (⟨100 nℓm|H1 |nℓm 100⟩ + |nℓm 100⟩H1 |100 nℓm⟩) .
     The first two terms are equal, as are the last two, so
                                                      1                                  1
@@ -556,11 +546,10 @@ doesn’t do very well quantitatively. We can do a bit better using the variatio
                                       Ψ(x1 , x2 ) = e e−Ze (r1 +r2 )
                                                     π
     where Ze is a variational parameter.
-234 10. Atomic Physics
 
 
  • To evaluate the expectation value of H, we write it as
-                         2         2                             
+                          2           2
                           p1 Ze         p 2 Ze                  1   1      1
                    H=        −      +      −       + (Ze − Z)     +     +     .
                           2    r1        2    r2                r1 r2     r12
@@ -613,7 +602,6 @@ In this section we introduce the Thomas–Fermi model, a crude model for multi-e
                                   E=              =                V     .
                                          10mπ 2         10mπ 2
     Deriving these results is straightforward, remembering to add a factor of 2 for electron spin.
-235 10. Atomic Physics
 
 
  • As usual, the pressure is a derivative of energy,
@@ -672,7 +660,6 @@ In this section we introduce the Thomas–Fermi model, a crude model for multi-e
    the kinetic energy goes down.
 
  • The behavior of the potential is different depending on the number of electrons N .
-236 10. Atomic Physics
 
 
      – If N > Z, we have a negative ion. Such atoms can’t be described by the Thomas–Fermi
@@ -719,7 +706,6 @@ We now solve the model more explicitly.
 
  • As the initial slope becomes more negative, the density reaches zero at finite radius, correspond-
    ing to a positive ion with a definite radius.
-237 10. Atomic Physics
 
 
  • When the initial slope is less negative, the density never falls to zero. Instead, we can manually
@@ -742,7 +728,7 @@ The Hartree–Fock method is a variational method for approximating the solution
 problems in atoms, molecules, solids, and even nuclei. We begin with the simpler Hartree method.
 
  • We consider an atom with N electrons and nuclear charge Z, and use the basic Hamiltonian
-                                    N  2           
+                                    N   2
                                     X  p   i   Z            X 1
                                H=            −          +               ≡ H1 + H2 .
                                            2   ri                 rij
@@ -776,7 +762,6 @@ problems in atoms, molecules, solids, and even nuclei. We begin with the simpler
                                                N!
                                                         P
     We will investigate such projectors in more detail in the notes on Group Theory.
-238 10. Atomic Physics
 
 
 We now describe Hartree’s trial wavefunction.
@@ -804,7 +789,7 @@ We now describe Hartree’s trial wavefunction.
                                                 λ=i=1
 
     where the other bras and kets collapse by normalization. Explicitly, the expectation is
-                                                  Z            2       
+                                                  Z             2
                                      X                         p      Z
                      ⟨ΦH |H1 |ΦH ⟩ =     Iλ , Iλ = dr u∗λ (r)      −       uλ (r).
                                                                 2     r
@@ -839,13 +824,12 @@ We now describe Hartree’s trial wavefunction.
                                                      X
                                  F [ΦH ] = E[ΦH ] −      ϵλ (⟨λ|λ⟩ − 1).
                                                               λ
-239 10. Atomic Physics
 
 
  • The vanishing of the functional derivative δF/δuλ (r) gives the Hartree equations
 
                                                                               |uµ (r)|2
-               2                                                    XZ
+                2                                                     XZ
                 p     Z
                    −      uλ (r) + Vλ (r)uλ (r) = ϵλ uλ (r), Vλ (r) =     dr′            .
                 2     r                                                        |r − r′ |
@@ -900,7 +884,6 @@ Next, we consider Fock’s refinement to Hartree’s wavefunction.
                        |Φ⟩ = N ! A|ΦH ⟩ = √       ..      ..   ..       ..    .
                                             N!     .       .       .     .
                                                |1⟩(N ) |2⟩(N ) . . . |N ⟩(N )
-240 10. Atomic Physics
 
 
    This second way of writing the wavefunction is known as a Slater determinant, and is expanded
@@ -958,7 +941,6 @@ Next, we consider Fock’s refinement to Hartree’s wavefunction.
    on the spin. As for helium, one can show the exchange integrals are positive. Since they
    contribute with a minus sign, they lower the energy functional, confirming the expectation that
    Hartree–Fock theory gives a better estimate of the ground state energy than Hartree theory.
-241 10. Atomic Physics
 
 
  • Again as we saw for helium, the lowering is only in effect for aligned spins, as this corresponds
@@ -988,7 +970,7 @@ Finally, we minimize the Hartree–Fock energy.
    we automatically get orthogonality.
 
  • Carrying out the functional derivative, we find the Hartree–Fock equations
-                  2                               Z
+                   2                                Z
                    p     Z
                       −      uλ (r) + Vd (r)uλ (r) − dr′ Vex (r, r′ )uλ (r′ ) = ϵλ uλ (r)
                     2    r
@@ -1022,7 +1004,6 @@ Finally, we minimize the Hartree–Fock energy.
 
  • The main disadvantage of Hartree–Fock theory is numerically handling the nonlocal potential,
    and there are many clever schemes to simplify dealing with it.
-242 10. Atomic Physics
 
 
  • Integrating the Hartree–Fock equation against uλ (r)∗ gives
@@ -1074,7 +1055,7 @@ Finally, we minimize the Hartree–Fock energy.
 We now apply Hartree–Fock theory to atomic structure, assuming rotational averaging throughout.
 
  • The Hartree–Fock method gives a variational ansatz for the ground state of the basic Hamiltonian
-                                       X  p2 Z  X 1
+                                       X   p2 Z   X 1
                                                i
                                   H=             −      +          .
                                               2    ri          rij
@@ -1086,7 +1067,6 @@ We now apply Hartree–Fock theory to atomic structure, assuming rotational aver
                                                                        2  r
     Note that numerically, everything about a Hartree–Fock solution can be specified by the Rnℓ (r)
     and ϵnℓ , since these can be used to infer the potentials.
-243 10. Atomic Physics
 
 
  • Hartree–Fock theory gives us the exact ground state to the so-called central field approximation
@@ -1094,7 +1074,7 @@ We now apply Hartree–Fock theory to atomic structure, assuming rotational aver
                                          H0 =     h(ri , pi ).
                                                       i
    Thus, we can treat this as the unperturbed Hamiltonian and the error as a perturbation,
-                                              X 1      X                 
+                                              X 1      X
                         H = H0 + H1 , H1 =           −     V d,i − V ex,i .
                                                  rij
                                                       i<j            i
@@ -1127,7 +1107,7 @@ We now apply Hartree–Fock theory to atomic structure, assuming rotational aver
 
  • For the ground states of the lightest atoms, only at most one orbital will be partly filled. If it
    contains n electrons, then the degeneracy is
-                                                      
+
                                              2(2ℓ + 1)
                                                         .
                                                  n
@@ -1145,7 +1125,6 @@ We now apply Hartree–Fock theory to atomic structure, assuming rotational aver
    where                                     X                       X
                                       ML =        mℓi ,       MS =           msi .
                                               i                          i
-244 10. Atomic Physics
 
 
     The sums range over all of the electrons, but can be taken to range over only unfilled orbitals

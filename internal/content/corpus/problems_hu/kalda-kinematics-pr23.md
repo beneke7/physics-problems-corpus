@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy merev testet két lemez közé szorítottunk; az egyik $v_{1}$, a másik $v_{2}$ sebességgel mozog. Az adott pillanatban a sebességek vízszintesek, és a test, valamint a lemezek érintkezési pontjai egy vonalban vannak. Az ábrán jelöljük meg a test minden olyan pontját, amelynek sebességnagysága $v_{1}$ vagy $v_{2}$.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr23-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr23-fig1.jpg)

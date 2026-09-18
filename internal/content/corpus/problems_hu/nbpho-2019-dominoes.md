@@ -20,6 +20,6 @@ verification_status: pending
 
 **7. DOMINÓK (6 pont)** — *Kaarel Hänni.*
 
-![ábra](../../sources/nbpho/figures/nbpho-2019-dominoes-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2019-dominoes-fig1.jpg)
 
 Dávid egy végtelen lépcsősor alján áll, ahol az egyes lépcsők szélessége és magassága egyaránt $d$. Az egyes lépcsők sarka kissé lekerekített. Az egyes lépcsők közepén kezdetben egy függőlegesen álló dominó található, amelynek hossza $\sqrt{5} d$ és elhanyagolható a vastagsága. Mindegyik dominó alapja mögött van egy apró perem, amely megakadályozza, hogy az dominó visszacsúszzon. Dávid az első dominónak kezdeti szögsebességet ad, és a dominók egymásba esnek. Minden ütközés tökéletesen rugalmatlan, és nincs súrlódás a dominók között. Dávid azt észleli, hogy egy idő után az összes dominó azonos kezdeti szögsebességgel rendelkezik $\omega$. Határozd meg $\omega$ értékét!

@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201011"
 verification_status: pending
 ---
 
-Nowadays many household devices or toys are operated with button cells. Buy two different and unused button cells and determine by measurement their 
- a ) electromotive forces; 
- b ) internal resistances; 
- c ) electrical energy. 
+Nowadays many household devices or toys are operated with button cells. Buy two different and unused button cells and determine by measurement their
+ a ) electromotive forces;
+ b ) internal resistances;
+ c ) electrical energy.
  (6 pont)

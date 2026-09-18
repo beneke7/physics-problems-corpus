@@ -19,4 +19,4 @@ verification_status: pending
 
 A voltage rectifier is made according to the circuit depicted in Figure. The load $R=10 \mathrm{k} \Omega$ is fed with DC, equal to $I=2 \mathrm{~mA}$. In what follows we approximate the U-I characteristic of the diode with the curve depicted in Figure. The relative variation of the current at the load has to satisfy the condition $\Delta I / I<1 \%$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr77-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr77-fig1.jpg)

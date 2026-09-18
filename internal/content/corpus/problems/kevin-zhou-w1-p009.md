@@ -33,6 +33,8 @@ solution_language: en
      (b) Do the same if the ends of the string are free, i.e. ∂y/∂x = 0 at x = 0 and x = L.
 
                                                          5
-   Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                              Physics Olympiad Handouts
 
      (c) Do the same if one end is fixed and one end is free.

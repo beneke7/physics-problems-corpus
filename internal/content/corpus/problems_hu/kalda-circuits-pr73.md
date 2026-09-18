@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $C$ kapacitású kondenzátort és egy $R$ ellenállást sorosan kapcsolunk, majd az áramkör kapcsaira négyszögletes feszültségimpulzusokat kapcsolunk (lásd az ábrát). Határozzuk meg az ellenálláson disszipálódó átlagos teljesítményt, ha (a) $T\gg RC$; (b) $T\ll RC$.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr73-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr73-fig1.jpg)

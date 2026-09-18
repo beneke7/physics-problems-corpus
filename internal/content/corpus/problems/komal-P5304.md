@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A stationary body is located at the equator. In which case will the apparent weight of the object be smaller: at noon or at midnight? What is the relative change in the apparent weight of the object in 12 hours? Neglect the effect of any celestial bodies other than the Sun and the Earth. 
+A stationary body is located at the equator. In which case will the apparent weight of the object be smaller: at noon or at midnight? What is the relative change in the apparent weight of the object in 12 hours? Neglect the effect of any celestial bodies other than the Sun and the Earth.
  (6 pont)

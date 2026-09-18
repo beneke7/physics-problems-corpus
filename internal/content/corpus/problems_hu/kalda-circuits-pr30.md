@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az áramkör kapcsaira kapcsolt terhelésen disszipálható maximális teljesítményt.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr30-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr30-fig1.jpg)

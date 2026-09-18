@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, auxiliary-unknowns]
 ---
 
-A rhombus-shaped plate with a weight of $G$ and of uniform mass distribution is supported horizontally at its vertices. The force exerted on the support at one of the vertices is $G/5$. What are the forces exerted on the other supports at the other vertices? 
+A rhombus-shaped plate with a weight of $G$ and of uniform mass distribution is supported horizontally at its vertices. The force exerted on the support at one of the vertices is $G/5$. What are the forces exerted on the other supports at the other vertices?
  (4 pont)

@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4594. Hasonlítsuk össze a karácsonyfán meggyújtott csillagszóró látványát a szilveszteri tűzijátékon látható, tündöklő fényekkel! 
- a ) Miért nem figyelhetők meg a csillagszórónál olyan táguló, fényes tűzgömbök vagy tűzkerekek (síkban szétrepülő fénylő repeszek), mint a tűzijáték esetén? 
+P. 4594. Hasonlítsuk össze a karácsonyfán meggyújtott csillagszóró látványát a szilveszteri tűzijátékon látható, tündöklő fényekkel!
+ a ) Miért nem figyelhetők meg a csillagszórónál olyan táguló, fényes tűzgömbök vagy tűzkerekek (síkban szétrepülő fénylő repeszek), mint a tűzijáték esetén?
  b ) Láthatunk-e ellipszis alakú ,,tűzkereket'' a tűzijátékon?

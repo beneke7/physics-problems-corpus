@@ -23,7 +23,7 @@ The Greenlandic Ice Sheet                                                T3
       width ∆𝑦 is obtained by integrating up the pressure times the area:
                                  𝐻(𝑥)
                                                               1
-                   𝐹(𝑥) = ∆𝑦 �        𝜌ice 𝑔 (𝐻(𝑥) − 𝑧) d𝑧 = ∆𝑦 𝜌ice 𝑔 𝐻(𝑥)2
+                   𝐹(𝑥) = ∆𝑦          𝜌ice 𝑔 (𝐻(𝑥) − 𝑧) d𝑧 = ∆𝑦 𝜌ice 𝑔 𝐻(𝑥)2
                                 0                             2
                                                               d𝐹                  d𝐻
 3.2a which implies that ∆𝐹 = 𝐹(𝑥) − 𝐹(𝑥 + ∆𝑥) = − d𝑥 ∆𝑥 = −∆𝑦 𝜌ice 𝑔 𝐻(𝑥) d𝑥 ∆𝑥.              0.9
@@ -40,29 +40,29 @@ The Greenlandic Ice Sheet                                                T3
       with the boundary condition that 𝐻(𝐿) = 0. This gives the solution:
 
                                               2𝑆𝑏 𝐿
-                                     𝐻(𝑥) = �       �1 − 𝑥/𝐿
+                                     𝐻(𝑥) =          1 − 𝑥/𝐿
                                              𝜌ice 𝑔
 
                                                    2𝑆 𝐿
-      Which gives the maximum height 𝐻m = �𝜌 𝑏 𝑔.
+      Which gives the maximum height 𝐻m =  𝜌 𝑏 𝑔.
                                                     ice
 
       Alternatively, dimensional analysis could be used in the following manner. First notice
                           𝛼      𝛾
-      that ℒ = [𝐻m ] = �𝜌ice 𝑔𝛽 𝜏b 𝐿𝛿 �. Using that �𝜌𝜌ice � = ℳℒ −3, [𝑔] = ℒ 𝒯 −2, [𝜏𝑏 ] =
+      that ℒ = [𝐻m ] =  𝜌ice 𝑔𝛽 𝜏b 𝐿𝛿  . Using that  𝜌𝜌ice   = ℳℒ −3, [𝑔] = ℒ 𝒯 −2, [𝜏𝑏 ] =
          −1 −2                        [𝐻 ]     𝛼 𝛽 𝛾 𝛿         𝛼+𝛾 −3𝛼+𝛽−𝛾+𝛿 −2𝛽−2𝛾
-3.2b ℳℒ 𝒯 , demands that ℒ = m = �𝜌𝑖 𝑔 𝜏𝑏 𝐿 � = ℳ                  ℒ        𝒯       , 0.8
+3.2b ℳℒ 𝒯 , demands that ℒ = m =  𝜌𝑖 𝑔 𝜏𝑏 𝐿   = ℳ                  ℒ        𝒯       , 0.8
      which again implies 𝛼 + 𝛾 = 0, −3𝛼 + 𝛽 − 𝛾 + 𝛿 = 1, 2𝛽 + 2𝛾 = 0. These three
      equations are solved to give 𝛼 = 𝛽 = −𝛾 = 𝛿 − 1, which shows that
                                                               𝛾
                                                    𝑆b
-                                        𝐻m ∝ �               � 𝐿1−𝛾
+                                        𝐻m ∝                   𝐿1−𝛾
                                                  𝜌𝜌ice 𝑔
       Since we were informed that 𝐻m ∝ √𝐿 , it follows that 𝛾 = 1/2. With the boundary
       condition 𝐻(𝐿) = 0, the solution then take the form
                                                           1/2
                                                  𝑆b
-                                     𝐻(𝑥) ∝ �            �        √𝐿 − 𝑥
+                                     𝐻(𝑥) ∝                       √𝐿 − 𝑥
                                                 𝜌ice 𝑔
       The proportionality constant of √2 cannot be determined in this approach.
 
@@ -70,16 +70,18 @@ The Greenlandic Ice Sheet                                                T3
 
 
                                              Page 1 of 6
-                            The Greenlandic Ice Sheet                                                         T3
+
+
+                            The Greenlandic Ice Sheet                                                         T3
 
        For the rectangular Greenland model, the area is equal to 𝐴 = 10𝐿2 and the volume is
        found by integrating up the height profile found in problem 3.2b:
                         𝐿                       𝐿    𝜏 𝐿   1/2                            1
-       𝑉G,ice = (5𝐿)2 ∫0 𝐻(𝑥) d𝑥 = 10𝐿 ∫0 �𝜌 b 𝑔�                �1 − 𝑥/𝐿 d𝑥 = 10𝐻m 𝐿2 ∫0 √1 − 𝑥� d𝑥�
+       𝑉G,ice = (5𝐿)2 ∫0 𝐻(𝑥) d𝑥 = 10𝐿 ∫0  𝜌 b 𝑔                  1 − 𝑥/𝐿 d𝑥 = 10𝐻m 𝐿2 ∫0 √1 − 𝑥  d𝑥
                                                      ice
 3.2c                        2               1       20                                                  0.5
                        2              3/2
-             = 10𝐻m 𝐿 �− 3 (1 − 𝑥�)         � = 3 𝐻m 𝐿2 ∝ 𝐿5/2,
+             = 10𝐻m 𝐿  − 3 (1 − 𝑥 )           = 3 𝐻m 𝐿2 ∝ 𝐿5/2,
                                             0
 
        where the last line follows from the fact that 𝐻m ∝ √𝐿. Note that the integral need not
@@ -124,19 +126,21 @@ The Greenlandic Ice Sheet                                                T3
 
        At the ice divide, 𝑥 = 0, the flow will be completely vertical, and the 𝑡-dependence of 𝑧
 3.6                                                                      𝐻      𝐻                1.0
-       found in 3.5 can be inverted to find 𝜏(𝑧). One finds that 𝜏(𝑧) = 𝑐m ln � 𝑧m �.
+       found in 3.5 can be inverted to find 𝜏(𝑧). One finds that 𝜏(𝑧) = 𝑐m ln   𝑧m  .
 
 
 
 
                                                     Page 2 of 6
-                                 The Greenlandic Ice Sheet                                                 T3
+
+
+                                 The Greenlandic Ice Sheet                                                 T3
 
        The present interglacial period extends to a depth of 1492 m, corresponding to 11,700
        year. Using the formula for 𝜏(𝑧)from problem 3.6, one finds the following accumulation
        rate for the interglacial:
                                   𝐻m               𝐻m
-                       𝑐ig =              ln �             � = 0.1749 m/year.
+                       𝑐ig =              ln                 = 0.1749 m/year.
                              11,700 years     𝐻m − 1492 m
 
        The beginning of the ice age 120,000 years ago is identified as the drop in 𝛿 18O in
@@ -148,11 +152,11 @@ The Greenlandic Ice Sheet                                                T3
        stepwise constant accumulation rate:
                                                        𝐻m −3040 m
                                      𝐻m                           1
-                       𝐻m ln �               � = −𝐻m �              d𝑧
+                       𝐻m ln                   = −𝐻m                d𝑧
                                  𝐻m − 3040 m          𝐻m          𝑧
 
                                                   120,000 year              11,700 year
-                                           =�                  𝑐ia d𝑡 + �             𝑐ig d𝑡
+                                           =                   𝑐ia d𝑡 +               𝑐ig d𝑡
                                                  11,700 year            0
                                            = 𝑐ia (120,000 year-11,700 year)+𝑐ig 11,700 year
        Isolating form this equation leads to 𝑐ia = 0.1232, i.e. far less precipitation than now.
@@ -161,10 +165,10 @@ The Greenlandic Ice Sheet                                                T3
        from figure 3.2a, 𝑇 then changes from −40 ℃ to −28 ℃. This gives ∆𝑇 ≈ 12 ℃.
 
 
-       From the area 𝐴G one finds that 𝐿 = �𝐴G /10 = 4.14 × 105 m. Inserting numbers in
+       From the area 𝐴G one finds that 𝐿 =  𝐴G /10 = 4.14 × 105 m. Inserting numbers in
        the volume formula found in 3.2c, one finds that:
                                                 20 5/2 2𝑆b
-                                     𝑉G,ice =      𝐿 �        = 3.45 × 1015 m3
+                                     𝑉G,ice =      𝐿          = 3.45 × 1015 m3
 3.8                                              3     𝜌ice 𝑔                                        0.6
        This ice volume must be converted to liquid water volume, by equating the total masses,
                            𝜌
@@ -178,7 +182,9 @@ The Greenlandic Ice Sheet                                                T3
 
 
                                                         Page 3 of 6
-                          The Greenlandic Ice Sheet                                                  T3
+
+
+                          The Greenlandic Ice Sheet                                                  T3
 
 
 
@@ -191,12 +197,12 @@ The Greenlandic Ice Sheet                                                T3
 9 going straight through the ice sphere is found by adding that from the Earth with that from 6
    the ice:
                            𝐺𝑚E 𝑚 𝐺𝑀ice 𝑚                         1        𝑀𝑖𝑐𝑒 /𝑚𝐸
-                 𝑈tot = −          −            = −𝑚𝑔𝑅𝐸 �               +          �
+                 𝑈tot = −          −            = −𝑚𝑔𝑅𝐸                 +
                            𝑅E + ℎ         𝑟                 1 + ℎ/𝑅𝐸        𝑟/𝑅𝐸
    where 𝑔 = 𝐺𝑚𝐸 /𝑅𝐸2 . Since ℎ/𝑅E ≪ 1 one may use the approximation given in the
    problem, (1 + x)−1 ≈ 1 − 𝑥, |𝑥| ≪ 1, to approximate this by
                                                  ℎ 𝑀𝑖𝑐𝑒 /𝑚𝐸
-                           𝑈tot ≈ −𝑚𝑔𝑅𝐸 �1 −       +           �.
+                           𝑈tot ≈ −𝑚𝑔𝑅𝐸  1 −       +            .
                                                 𝑅𝐸      𝑟/𝑅𝐸
                                                 𝑀𝑖𝑐𝑒 /𝑚𝐸
    Isolating ℎ now shows that ℎ = ℎ0 +                     𝑅𝐸 , where ℎ0 = 𝑅𝐸 + 𝑈tot /(𝑚𝑔). Using
@@ -215,7 +221,9 @@ The Greenlandic Ice Sheet                                                T3
 
 
                                                Page 4 of 6
-                       The Greenlandic Ice Sheet                                                      T3
+
+
+                       The Greenlandic Ice Sheet                                                      T3
 
 
 
@@ -257,7 +265,9 @@ where we have plugged in the gravitational forces and the relevant distances. We
 
 
                                            Page 5 of 6
-                      The Greenlandic Ice Sheet                                                       T3
+
+
+                      The Greenlandic Ice Sheet                                                       T3
 
 approximated the fraction, using that 𝑀𝑖𝑐𝑒 /𝑚𝐸 = 5.31 × 10−7 ≪ 1, which is only valid
 not too close to Greenland, i.e. for a certain size of 𝜃. Since the local sea surface will be
@@ -275,13 +285,13 @@ The difference in sea levels in Copenhagen and opposite to Greenland can now be 
 by integrating this expression. That is
 
                                           𝑀𝑖𝑐𝑒 𝜃𝐶𝑃𝐻 cos(𝜃/2)
-                       ℎCPH − ℎOPP = 𝑅𝐸        �                 d𝜃
+                       ℎCPH − ℎOPP = 𝑅𝐸                          d𝜃
                                           𝑚𝐸 𝜋      4 sin2 (𝜃/2)
                                           𝑀𝑖𝑐𝑒 sin(𝜃𝐶𝑃𝐻/2) −2
-                                     = 𝑅𝐸      �           q d𝑞
+                                     = 𝑅𝐸                  q d𝑞
                                           2 𝑚𝐸 1
                                           𝑀𝑖𝑐𝑒       1
-                                     = 𝑅𝐸      �             − 1�
+                                     = 𝑅𝐸                    − 1
                                           2 𝑚𝐸 sin(𝜃𝐶𝑃𝐻 /2)
 
 where we have made the substitution 𝑞 = sin(𝜃/2). Plugging in the numbers found above,

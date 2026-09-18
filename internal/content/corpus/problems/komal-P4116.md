@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: pending
 ---
 
-Prove that the following statement of Galilei (Galilei: Discourses and Mathematical Demonstrations Relating to Two New Sciences; Leyden (1938).) is true: ``The ratio of the elapsed time intervals while a point-like object slides without friction along the same lengths of slopes but of different angles of elevation is the same as the ratio of the reciprocals of the square roots of the corresponding heights of the slope.'' 
+Prove that the following statement of Galilei (Galilei: Discourses and Mathematical Demonstrations Relating to Two New Sciences; Leyden (1938).) is true: ``The ratio of the elapsed time intervals while a point-like object slides without friction along the same lengths of slopes but of different angles of elevation is the same as the ratio of the reciprocals of the square roots of the corresponding heights of the slope.''
  (3 pont)

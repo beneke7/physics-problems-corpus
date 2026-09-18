@@ -79,5 +79,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     anywhere in Olympiad physics, but the key idea of using dimensionless quantities to simplify and
 
 
-                   01h
+                   01h
     clarify the physics can be used everywhere.

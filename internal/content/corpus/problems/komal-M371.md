@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201710"
 verification_status: pending
 ---
 
-Suspend two alike AA battery bifilarly and make them collide, such that they move along their longer symmetry axis, and collide with their negative terminals, which is on their flatter sides. Determine the coefficient of restitution (which is the ratio of the relative velocity after collision to that of before collision). Carry out the measurement with two new batteries, with a new one and a discharged one, and with two discharged ones. 
+Suspend two alike AA battery bifilarly and make them collide, such that they move along their longer symmetry axis, and collide with their negative terminals, which is on their flatter sides. Determine the coefficient of restitution (which is the ratio of the relative velocity after collision to that of before collision). Carry out the measurement with two new batteries, with a new one and a discharged one, and with two discharged ones.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M371-fig1.gif)
+![figure](../../figures/komal/figures/komal-M371-fig1.gif)

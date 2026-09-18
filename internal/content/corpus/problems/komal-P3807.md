@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-We press a straight circular cork cone of height h to the bottom of a glass vessel. 
+We press a straight circular cork cone of height h to the bottom of a glass vessel.
 
- Then we carefully pour mercury onto it. The density of cork is . We pour the mercury until the pressing force exerted on the bottom of the vessel of the cork cone already let loose is twice that of its weight. What is the height of the mercury at this time in the vessel? 
+ Then we carefully pour mercury onto it. The density of cork is . We pour the mercury until the pressing force exerted on the bottom of the vessel of the cork cone already let loose is twice that of its weight. What is the height of the mercury at this time in the vessel?
 
  (5 pont)

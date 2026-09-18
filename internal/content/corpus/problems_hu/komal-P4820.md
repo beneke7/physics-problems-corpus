@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4820. Egy ismert fajlagos ellenállású fémhuzal hosszát 0,1%, vastagságát 2% pontossággal tudjuk megmérni. Milyen pontossággal tudjuk kiszámítani a mért adatokból 
- $a)$ a huzal térfogatát; 
+P. 4820. Egy ismert fajlagos ellenállású fémhuzal hosszát 0,1%, vastagságát 2% pontossággal tudjuk megmérni. Milyen pontossággal tudjuk kiszámítani a mért adatokból
+ $a)$ a huzal térfogatát;
  $b)$ a huzal elektromos ellenállását?

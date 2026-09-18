@@ -37,14 +37,13 @@ paraméter, η = kzzp szerint kifejthetjük. Legalacsonyabb rendben
 és a fentivel azonos módszert alkalmazva a módosított AC Stark-eltolódást kapjuk:
 
                                     ℏΩ2        η 2 ∆2
-                                                                  
+
                                                           †
                        Heff (t) = −      1+2 2        2
                                                         (b b + 1/2) σz .
                                     4∆       ∆ − ωm
 
 Az új, O(η 2 ) rendű tag dominálhat, ha ∆ ≈ ωm .
-262 12. Szórás
 
 12     Szórás
 12.1    Bevezetés
@@ -92,7 +91,6 @@ egyenletet oldjuk meg.
    Ezt azért hanyagoljuk el, mert a beeső hullám a valóságban véges területű, így az előre irány kivételével minden szögben
    nulla. Az előre irányban a beeső és a szórt hullám destruktívan interferál, ahogy azt a valószínűség megmaradása megköveteli.
    Ennek kvantitatív alkalmazása az optikai tételhez vezet.
-263 12. Szórás
 
  • Ha egy klasszikus erő soha nem cseng le pontosan nullára, akkor a teljes klasszikus hatáskeresztmetszet lényegében mindig
    divergál. Ez azért történik, mert a teljes hatáskeresztmetszet kissé patologikus mennyiség: minden tetszőlegesen kis szögben
@@ -153,7 +151,6 @@ Megjegyzés. Példák sugárzás szórására.
    válik, amelyet a Klein–Nishina-formula ír le.
  • A Raman-szórás a fotonok anyagon történő rugalmatlan szórása, amely tipikusan molekulák rezgési gerjesztésének vagy
    legerjesztésének előidézésével kapcsolatos.
-264 12. Szórás
 
 12.2    Parciális hullámok
 Most a centrális erőpotenciál esetére összpontosítunk.
@@ -166,7 +163,7 @@ Most a centrális erőpotenciál esetére összpontosítunk.
     szórt hullámok hullámszáma, vagyis Rkl (r) ∝ eikr .
 
   • Az ukℓ (r) = rRkℓ (r) definícióval a radiális Schrödinger-egyenlet
-                             
+
              1 d       2 dRkℓ
                      r          + k 2 Rkℓ (r) = W (r)Rkℓ (r), u′′kℓ (r) + k 2 ukℓ (r) = W (r)ukℓ (r)
             r2 dr         dr
@@ -208,7 +205,6 @@ Most a centrális erőpotenciál esetére összpontosítunk.
   • Ezután meghatározzuk az Rkℓ (r) radiális hullámfüggvény aszimptotikus viselkedését nagy r-re. Ha a V (r) potenciál
     véges r0 sugárnál levágódik, akkor a megoldások j- és y-típusú Bessel-függvények kombinációi, mivel az r < r0 tartomány
     nem érdekel bennünket; így ukℓ (r) ∼ e±ikr .
-265 12. Szórás
 
  • Ha nincs éles levágás, a hibát az ukℓ (r) = eg(r)±ikr alakban paraméterezzük, ekkor
 
@@ -262,7 +258,6 @@ Végül ezeket az összetevőket kombináljuk a kívánt beeső plusz szórt ál
     Ehelyett a szórt hullámokat a teljes ℓ szögimpulzus paraméterezi. Az egyes tagok m = 0 gömbi harmonikusok, és s-hullámnak,
     p-hullámnak és így tovább nevezzük őket. Mindegyik hozzájárulás jelen van a kezdeti síkhullámban, és egymástól függetlenül
     szóródik, mivel L2 megmarad.
-266 12. Szórás
 
  • A differenciális hatáskeresztmetszetben vannak interferenciatagok, a teljes hatáskeresztmetszetben azonban a Legendre-
    polinomok ortogonalitása miatt nincsenek:

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-The mass of an exoplanet, whose mass distribution has a spherical symmetry, is four times that of the Earth, and the acceleration due to gravity on the surface of the – non-rotating – planet is twice of the gravitational acceleration on the Earth. 
- $a)$ What is the radius of the exoplanet, and what is its average density? 
- $b)$ At what speed should an object be projected in order that it undergoes uniform circular motion right above the surface of the exoplanet? 
+The mass of an exoplanet, whose mass distribution has a spherical symmetry, is four times that of the Earth, and the acceleration due to gravity on the surface of the – non-rotating – planet is twice of the gravitational acceleration on the Earth.
+ $a)$ What is the radius of the exoplanet, and what is its average density?
+ $b)$ At what speed should an object be projected in order that it undergoes uniform circular motion right above the surface of the exoplanet?
  (5 pont)

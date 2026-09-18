@@ -30,4 +30,6 @@ solution_language: en
     mass, and the correction to the period due to finite amplitude, discussed in P1.
 
                                                         2
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts

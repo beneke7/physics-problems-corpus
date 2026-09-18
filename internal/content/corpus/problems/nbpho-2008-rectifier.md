@@ -28,7 +28,7 @@ follows, we approximate the U-I characteristic of the diode by the curve shown i
 the figure. The relative variation of the current through the load must satisfy
 the condition $\Delta I / I<1 \%$.
 
-![figure](../../sources/nbpho/figures/nbpho-2008-rectifier-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2008-rectifier-fig1.png)
 
 1) Find the average power dissipation in the diode in the operating regime of such
 a circuit.

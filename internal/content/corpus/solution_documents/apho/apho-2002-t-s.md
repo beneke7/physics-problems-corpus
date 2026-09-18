@@ -65,7 +65,8 @@ Numerator is kBT 2(d/dT) (denominator) = e − hω / k BT {1 – e − hω / k B
 
 
                                                                                                                 1
-A non-calculus method:
+
+A non-calculus method:
 Let D = 1 + e-x + e-2x + e-3x +…, where x = hω/kBT. This is a geometric series and equals D =
 1/(1 – e-x). Let N = e-x +2 e-2x + 3e-3x +…. The result we want is N/D. Observe
                                                                                                      (2.0)
@@ -129,7 +130,8 @@ Total crystal energy from (c) and dn of part (e) is given by
 (f) Observe first from the last formula that ET increases monotonically with temperature since
 
                                                                                                  2
-{e hω/kT - 1}-1 is increasing with T.                                                                   0.2
+
+{e hω/kT - 1}-1 is increasing with T.                                                                   0.2
 When T → 0, the term – 1 in the last result may be neglected in the denominator so                      0.2
                                ET ≈ T → 0
                                                 2N
@@ -198,7 +200,8 @@ Sketch of CV versus T:                                                          
 
 
                                                                                                     3
-Answer sheet: Question 1
+
+Answer sheet: Question 1
 
    (a) Equation of motion of the nth mass is:
 
@@ -217,7 +220,8 @@ Sketch of CV versus T:                                                          
       How many such values of k are there? N
 
                                                                                          4
-    (f) The average energy per frequency mode ω of the crystal is given by:
+
+    (f) The average energy per frequency mode ω of the crystal is given by:
 
                                                                   hω
                                        E (ω ) =                hω / k BT
@@ -257,7 +261,8 @@ constant.
 
 
                                                                                                 5
-                              Solution to Question 2: The Rail Gun
+
+                              Solution to Question 2: The Rail Gun
 
 Proper Solution (taking induced emf into consideration):
 (a)
@@ -283,7 +288,8 @@ dv / dt = α − v / τ ,    where α = BIL / m − g sin θ and τ = mR / B 2 L
 
 
                                                                                                 6
-(b)(i)
+
+(b)(i)
 Since initial velocity of rod = 0, and let velocity of rod at time t be v(t),
 we have
 
@@ -306,7 +312,8 @@ the rail, i.e.                                                                  
 
 
                                                                                                        7
-(b) (ii)
+
+(b) (ii)
 Let tf be the time in flight:
                                              2v s sin è
                                       tf =                                    (6)                        0.5
@@ -335,7 +342,8 @@ And                        tf =                     =                         (S
 
 
                                                                                                                8
-(c)
+
+(c)
                                                           1     gw     2w tan θ
 Therefore, total time is:       T = t s + t f = −τ ln1 −             +
                                                        v∞     sin 2θ       g
@@ -382,7 +390,8 @@ From the graph, for θ within the range (~0.38, 0.505 ) radian the time T is wit
 
 
                                                                                                         9
-(d)
+
+(d)
 However, there is another constraint, i.e. the length of rail D. Let Ds be the
 distance travelled during the time interval ts
 
@@ -435,8 +444,10 @@ expected to give such answers.                                                  
 To 2 sig fig T = 11 s. Range is 0.50 to 0.51 (in degree: 28.60 to 29.20 or 290)
 
                                                                                                                         10
-11
-Alternate Solution (Not taking induced emf into consideration):
+
+11
+
+Alternate Solution (Not taking induced emf into consideration):
 
 If induced emf is not taken into account, there is no induced current, so
 the net force acting on the combined mass of the young man and rod is
@@ -491,7 +502,8 @@ R=1.0 Ω, g=10 m/s2, m=80 kg, and w=1000 m. Then,
 
 
                                                                                       12
-                                                                        Labeling:
+
+                                                                        Labeling:
                                                                         0.1 each axis
 
                                                                         Unit:
@@ -543,7 +555,8 @@ radians.
 
 
                                                                                         13
-Question 3 - Marking Scheme
+
+Question 3 - Marking Scheme
 
                                         3/ 2
                            M                                      2
@@ -599,7 +612,8 @@ Simplifying                                                                     
 
 
                                                                                                               14
-(b)      Assuming an ideal gas, P V = N k T , so that the concentration of the gas
+
+(b)      Assuming an ideal gas, P V = N k T , so that the concentration of the gas
          molecules, n, is given by
 
                                              N    P
@@ -653,7 +667,8 @@ marks
 
 
                                                                                          15
-(c )   Assuming close packing, there are approximately 4 molecules in an area of 16 r 2
+
+(c )   Assuming close packing, there are approximately 4 molecules in an area of 16 r 2
        m2. Thus, the number of molecules in 1 m2 is given by
 
                                      4
@@ -695,7 +710,8 @@ Calculating the time                                                      0.4 ma
 
 
                                                                                       16
-(d)      With activation energy of 1 eV and letting the velocity of the oxygen molecule at
+
+(d)      With activation energy of 1 eV and letting the velocity of the oxygen molecule at
          this energy is v1, we have
                                    1
                                      m v12 = 1.6 × 10 −19 J
@@ -741,7 +757,8 @@ Correct value of final time                                                   0.
 
 
                                                                                             17
-                                                                          λ′
+
+                                                                          λ′
 (e)     For destructive interference, optical path difference = 2 d =           where
                                                                           2
        λair

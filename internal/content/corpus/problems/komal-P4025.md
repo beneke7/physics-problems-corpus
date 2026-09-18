@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200712"
 verification_status: pending
 ---
 
-A handhold mirror contains a plane mirror on one of its side and a concave mirror of radius of curvature of 30 cm on its other side. You hold the plane mirror 15 cm from your face and notice a spot. By what factor will the image of the spot be enlarged if you turn the mirror, but still keep it at a distance of 15 cm from your face? 
+A handhold mirror contains a plane mirror on one of its side and a concave mirror of radius of curvature of 30 cm on its other side. You hold the plane mirror 15 cm from your face and notice a spot. By what factor will the image of the spot be enlarged if you turn the mirror, but still keep it at a distance of 15 cm from your face?
  (4 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201111"
 verification_status: pending
 ---
 
-At least what is the mass of the atmosphere around the Earth, if the mean radius of the Earth is 6370 km, and the average air pressure at the surface of the Earth is 100 kPa? 
+At least what is the mass of the atmosphere around the Earth, if the mean radius of the Earth is 6370 km, and the average air pressure at the surface of the Earth is 100 kPa?
  (3 pont)

@@ -33,7 +33,7 @@ because for any point $Q = (x, y)$ on the envelope, the parabola property gives 
 
 The solution figure below shows the water stream with point $P$ identified, together with the line $OP$ from the focus (origin) and a vertical through $P$ making equal angles with the stream tangent at $P$ — the optical reflection condition for a parabolic mirror.
 
-![Figure: Water stream at the given instant, with point P on the envelope identified (P ≈ (10.7, 3.3) m), and the red line OP drawn from the origin through P.](../../sources/eupho/figures/eupho-2019-T3-sol-1.png)
+![Figure: Water stream at the given instant, with point P on the envelope identified (P ≈ (10.7, 3.3) m), and the red line OP drawn from the origin through P.](../../../../../sources/eupho/figures/eupho-2019-T3-sol-1.png)
 
 **Computing $v$.** Once $P$ is found, the topmost point of the envelope has $x = 0$ so:
 $$y_\text{top} + \sqrt{0 + y_\text{top}^2} = 2H_P \implies y_\text{top} = H_P.$$

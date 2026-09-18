@@ -38,7 +38,7 @@ The space between two concentric well conductive spheres of radii $a$ and $b>a$ 
 ## Problem 1.3 (3.0 points)
 
 At equal distances $l=50 s m$ in between the screen $S$ and the flat mirror $M$, a flat matte source $L$ emitting white light only towards the mirror is placed. The planes of the screen, mirror and source are all parallel to one other. The source has the shape of a five-pointed star inscribed in a circle of radius $r_{1}$, whereas the mirror has a regular triangle shape inscribed in a circle of radius $r_{2}$. The source and mirror centers lie on the same axis perpendicular to the screen plane. Draw a schematic image of the source on the screen, keeping its orientation in accordance with the figure below. Estimate the sizes of all elements of the image.
-![](izho-2020-t-q1-fig01.png)
+![](../../figures/izho/figures/izho-2020-t-q1-fig01.png)
 Consider only two specific cases:
 1.3.1 $r_{1}=1,0 m m$ and $r_{2}=10 m m$;
 1.3.2 $r_{1}=10 \mathrm{~mm}$ and $r_{2}=0,1 \mathrm{~mm}$.

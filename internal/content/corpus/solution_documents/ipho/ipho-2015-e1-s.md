@@ -67,7 +67,9 @@ Tasks                                               Description                 
     Praveen Pathak (HBCSE-TIFR, Mumbai), Charudatt Kadolkar (IIT, Guwahati), and Manish Kapoor (Christ Church College,
     Kanpur) were the principal authors of this problem. The contributions of the Academic Committee, Academic Development
     Group and the International Board are gratefully acknowledged.
-                                                                        S E-I
+
+
+                                                                        S E-I
                                                                                                            Page 2 of 6
 
 
@@ -119,7 +121,9 @@ A5                                       10.00                                  
 A6                                                                                                               0.2
 
 A7   Expression of   in terms of                     and   :                                                     0.2
-                                                                          S E-I
+
+
+                                                                          S E-I
                                                                                                                Page 3 of 6
 
 
@@ -169,7 +173,9 @@ Tasks                                            Description                    
 
 
        Graph B1 for determination of                    :   versus (            )
-                                                                  S E-I
+
+
+                                                                  S E-I
                                                                                                    Page 4 of 6
      Slope of the graph B1 = 20.8 mm
      Calculation of :
@@ -219,7 +225,9 @@ B5                                      10.00                                   
      Graph B2 for determination of :                 versus (          )
      Slope of the graph B2 = 4.07 mm
      Calculation of :
-                                                                          S E-I
+
+
+                                                                          S E-I
                                                                                                                Page 5 of 6
 
                                                  Table B3 Observations from pattern P4
@@ -275,7 +283,9 @@ B8                                                                              
 
 
      Reference for Part A : G. Braun, D. Tierney and H. Schmitzer, Phys. Teach. 49, 140 (2011).
-                   S E-I
+
+
+                   S E-I
                                            Page 6 of 6
 
 

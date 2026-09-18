@@ -63,21 +63,21 @@ Problems are widely known in which you are asked to find the electrical resistan
 2.1 [0.8 points] Find the total resistance of the cube when the source is connected to the two adjacent cube vertices as shown on the right.
 
 Let us now consider a more general case of the wire frame in the form of the regular prism with an arbitrary number $N$ of side faces and determine its electrical resistance when the source is
-![](izho-2017-t-q3-fig01.png)
+![](../../figures/izho/figures/izho-2017-t-q3-fig01.png)
 connected to the adjacent vertices of the side edge, as shown in the figure below. The resistance of each frame edge is equal to $R_{0}$.
 
 For convenience, the vertices of the prism and their electric potentials on the upper and the bottom sides are consequently numbered and denoted, as shown in the figure below. DC voltage source is applied to zeroth vertices such that the source sets the potentials of the vertices equal to $x_{0}=+\varphi_{0}$ and $y_{0}=-\varphi_{0}$, respectively.
 
-![](izho-2017-t-q3-fig02.png)
+![](../../figures/izho/figures/izho-2017-t-q3-fig02.png)
 Wire frame in the shape of a prism
 
-![](izho-2017-t-q3-fig03.png)
+![](../../figures/izho/figures/izho-2017-t-q3-fig03.png)
 Numbering and denoting vertices' potentials
 
 2.2 [0.2 points] Find the relation between the potentials $x_{k}$ and $y_{k}$. Find the relation between the potentials $x_{k}$ and $x_{N-k}$
 
 Consider an arbitrary lateral edge, except zeroth ( $k=0$ ) and the last ( $k=N-1$ ) ones. The corresponding circuit diagram is shown below.
-![](izho-2017-t-q3-fig04.png)
+![](../../figures/izho/figures/izho-2017-t-q3-fig04.png)
 2.3 [1.0 points] Find an recurrence relation for the potential $x_{k}$ as expressed in terms of the neighboring vertices potentials for $k=1,2 \ldots N-2$.
 2.4 [0.2 points] Find boundary conditions at $k=0$ and $k=N-1$ necessary for unambiguous determination of the potential $x_{k}$.
 2.5 [0.2 points] Find explicit expressions for the potentials $x_{k}$ and $y_{k}$ for all possible numbers $k=0,1,2 \ldots N-1$.

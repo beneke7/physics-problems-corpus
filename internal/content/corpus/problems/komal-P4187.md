@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-How do the objects shown in the figure move, if m $_{1}$=2 kg, m $_{2}$=8 kg, m $_{3}$=1 kg? The mass of the pulley and the ropes is negligible. 
+How do the objects shown in the figure move, if m $_{1}$=2 kg, m $_{2}$=8 kg, m $_{3}$=1 kg? The mass of the pulley and the ropes is negligible.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4187-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4187-fig1.gif)

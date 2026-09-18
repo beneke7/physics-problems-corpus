@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5710. Adott mennyiségű héliumgázzal körfolyamatot végzünk, amely izobár tágulásból, izochor hűtésből és adiabatikus összenyomásból áll. Legfeljebb mekkora lehet a körfolyamat hatásfoka? 
+P. 5710. Adott mennyiségű héliumgázzal körfolyamatot végzünk, amely izobár tágulásból, izochor hűtésből és adiabatikus összenyomásból áll. Legfeljebb mekkora lehet a körfolyamat hatásfoka?
  KVANT nyomán

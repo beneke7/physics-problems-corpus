@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, auxiliary-unknowns]
 ---
 
-One year ago, in March 2021, the first voice message arrived from the Mars Perseverance Rover ( go.nasa.gov/3ly2OE4 ). What might the speed of sound in the atmosphere of the Mars be? 
+One year ago, in March 2021, the first voice message arrived from the Mars Perseverance Rover ( go.nasa.gov/3ly2OE4 ). What might the speed of sound in the atmosphere of the Mars be?
  (4 pont)

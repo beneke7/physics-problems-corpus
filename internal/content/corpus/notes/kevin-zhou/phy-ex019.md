@@ -43,7 +43,6 @@ charged particles can be heated by increasing the field.
 the origin. Then the adiabatic invariant can be written as
 
                                            I ∝ r2 (2B − Bav )
-25 1. Classical Mechanics
 
 
 where Bav is the average field inside the circular orbit. This implies that as B(r, t) changes in time,
@@ -95,7 +94,6 @@ We begin by defining Hamilton’s principal function.
                                                ∂S               ∂S
                                                    = −pi ,          = Hi .
                                                ∂qi              ∂ti
-26 1. Classical Mechanics
 
 
  • The results above give pi,f in terms of qi,f and ti,f . We can then invert the expression for pi to
@@ -150,7 +148,6 @@ We now connect Hamilton’s principal function to semiclassical mechanics.
     Hence combining these results gives ṗ = −∂H/∂q as desired. Note that the “active ingredient” in
     this derivation was the equality of mixed partial derivatives, which is why Hamilton’s equations
     kind of look like Maxwell relations.
-27 1. Classical Mechanics
 
 
   • The quantity S(q, t) acts like a real-valued ‘classical wavefunction’. Given a position, its gradient
@@ -171,7 +168,7 @@ We now connect Hamilton’s principal function to semiclassical mechanics.
   • Expanding the Schrodinger equation to lowest order in ℏ gives
 
                                             ∂W 2
-                                               
+
                                ∂W      1
                                    +               + V (q) = O(ℏ).
                                 ∂t    2m ∂q
@@ -210,7 +207,6 @@ There is also a useful analogy with optics.
     This follows because Φq0 (s + t) is the set of points we need time s + t to reach, and an optimal
     path to one of these points should be locally optimal as well. In particular, note that each of
     the fronts Φq (s) is tangent to Φq0 (s + t).
-28 1. Classical Mechanics
 
 
  • Let Sq0 (q) be the minimum time needed to reach point q from q0 . We define
@@ -234,7 +230,6 @@ There is also a useful analogy with optics.
    variable in mechanics, so our space is (q, t) rather than just q, and dS = p dq − H dt instead.
 
   (finish)
-29 2. Electromagnetism
 
 
 2     Electromagnetism

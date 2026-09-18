@@ -30,7 +30,6 @@ Mivel a Hamilton-operátor időfüggetlen, HS = HH . Ennek ellenőrzéséhez veg
                           HH =               = S                           = HS
                                        2                   2
 ahol behelyettesítettük pH és xH ismert időfüggését.
-248 11. Időfüggő perturbációelmélet
 
 Most áttérünk az interakciós képre. Az S indexeket hallgatólagosan elhagyjuk.
 
@@ -68,7 +67,7 @@ Most áttérünk az interakciós képre. Az S indexeket hallgatólagosan elhagyj
     majd ha ezt az egyenletet önmagába visszahelyettesítjük, W (t) sorfejtését, a Dyson-sorfejtést kapjuk.
 
  • A teljes eredmény tömören időrendezett exponenciálissal írható fel:
-                                                 Z t              
+                                                  Z t
                                                    1      ′      ′
                                 W (t) = T exp           dt H1I (t ) .
                                                   iℏ 0
@@ -88,7 +87,6 @@ amikor H0 diszkrét spektrumú, H0 |n⟩ = En |n⟩, és a kezdeti állapot |i�
                                         ′         1         ′
          |ψI (t)⟩ = |i⟩ +      dt H1I (t )|i⟩ +          dt        dt′′ H1I (t′ )H1I (t′′ )|i⟩ + · · · .
                           iℏ 0                  (iℏ)2 0        0
-249 11. Időfüggő perturbációelmélet
 
  • Célunk az együtthatók kiszámítása:
                                                                      X
@@ -146,7 +144,6 @@ amikor H0 diszkrét spektrumú, H0 |n⟩ = En |n⟩, és a kezdeti állapot |i�
                                                                                                         (1)
    ahol K-nek nem kell hermitikusnak lennie. Emiatt cn kifejezésében két tag jelenik meg, ωni ± ω0 nevezőkkel.
    Ezért a szinuszos gerjesztés hatása nagyon nagy lehet, ha rezonanciában van valamely átmenettel.
-250 11. Időfüggő perturbációelmélet
 
  • Ha ωni ≈ ω0 , akkor a K-tag dominál, ezért alkalmazhatjuk a „forgóhullám-közelítést”, és elhagyhatjuk K † -et.
    Ekkor
@@ -205,7 +202,6 @@ Ezután a végállapotok kontinuumát vizsgáljuk; ez elsőrendben Fermi aranysz
  • Az átmeneti valószínűség lineárisan nő az idővel, ami összhangban van klasszikus intuíciónkkal (például a fény
    abszorpciója esetén), hiszen a rendszernek állandó „hatáskeresztmetszete” van. Hosszú idő után a valószínűség
    egynél nagyobbá válik, ami ismét azt jelzi, hogy az elsőrendű perturbációelmélet felmondja a szolgálatot.
-251 11. Időfüggő perturbációelmélet
 
   • Nagyon korai időknél a szabály szintén nem érvényes, és visszakapjuk a t2 függést. Ehhez jegyezzük meg,
     hogy limt→0 ∆t (ω) = t2 /4. Ezért ∆t (ω) kiemelhető az integrálból:
@@ -246,9 +242,9 @@ valamint a fotonszórás másodrendű folyamat.
                 cn (t) =            dt     e                        ⟨n|H1 |k⟩⟨k|H1 |i⟩
                          (iℏ)2 0                         iωki
                                          k
-                                           iωni t
+                                            iωni t
                                                     − 1 eiωnk t − 1
-                                                                      
+
                             1 X 1          e
                        =                                −               ⟨n|H1 |k⟩⟨k|H1 |i⟩.
                          (iℏ)2      iωki      iωni             iωnk
@@ -260,7 +256,6 @@ valamint a fotonszórás másodrendű folyamat.
     valószínűséget ad; a második tag pusztán lényegtelen tranziens. (Ez annak a következménye, hogy a perturbációt
     t = 0-kor, perturbálatlan állapotból hirtelen kapcsoltuk be; a számítást helyesen t = −∞-től, beérkező
     hullámcsomaggal kellene kezdeni.)
-252 11. Időfüggő perturbációelmélet
 
   • Konkrétan az eredmény ugyanaz lesz, mint Fermi aranyszabálya esetén, azzal a különbséggel, hogy a releváns
     mátrixelem
@@ -314,7 +309,6 @@ Az időfüggő perturbációelméletet szórásra alkalmazzuk, először átteki
                                         dw      dσ
                                              =     v dx n1 n2 .
                                         dΩ     dΩ
-253 11. Időfüggő perturbációelmélet
 
 Most ugyanezt a helyzetet állítjuk fel a kvantummechanikában.
 
@@ -329,7 +323,7 @@ Most ugyanezt a helyzetet állítjuk fel a kvantummechanikában.
    Ezek H0 sajátállapotai. A kezdeti állapotot |ki ⟩-nek választjuk.
 
  • A |k⟩ állapotba vezető elsőrendű átmeneti amplitúdó
-                                               
+
                     (1)       2 iωt/2 sin(ωt/2)                            ℏ 2
                    ck (t) = e                     ⟨k|U (x)|ki ⟩,     ω=      (k − ki2 ).
                              iℏ           ω                               2m
@@ -356,7 +350,7 @@ Most ugyanezt a helyzetet állítjuk fel a kvantummechanikában.
  • Mindent behelyettesítve, és a Fourier-transzformáció szimmetrikus konvencióját használva,
 
                     2π m 2 ∞                                              2
-                              Z
+                                Z
               dσ                                      e (k − ki )|2 = 2πm |U
                   = 2               dk k 2 δ(k − ki )|U                 4
                                                                             e (kf − ki )|2
@@ -374,4 +368,3 @@ Most ugyanezt a helyzetet állítjuk fel a kvantummechanikában.
    tartományban energiasajátállapotnak fog látszani, mivel elértük a beérkező és kiszóródó részecskék „állandósult
    állapotát”. Ez némi intuíciót ad ahhoz, hogy miért számíthatók ki a szórási ráták pusztán energiasajátállapotok
    segítségével.
-254 11. Időfüggő perturbációelmélet

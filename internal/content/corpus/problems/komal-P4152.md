@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, model-reduction]
 ---
 
-The filament of an incandescent lamp of power 100 W is made of Tungsten. The operation temperature of the lamp is 2400 K. Consider the filament a black body and give an estimation for the surface area, the cross section, and the length of the filament. 
+The filament of an incandescent lamp of power 100 W is made of Tungsten. The operation temperature of the lamp is 2400 K. Consider the filament a black body and give an estimation for the surface area, the cross section, and the length of the filament.
  (5 pont)

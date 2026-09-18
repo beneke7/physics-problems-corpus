@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws]
 ---
 
-In cartoons, characters often lift off the ground while holding a bunch of balloons. Estimate the minimum number of nearly spherical, helium-filled balloons with a diameter of 20 cm that would be needed to lift a child of mass 25 kg. 
- a)  Ignore the mass of the balloon and string. 
- b)  Assume that the mass of the balloon and string is 2 g. 
+In cartoons, characters often lift off the ground while holding a bunch of balloons. Estimate the minimum number of nearly spherical, helium-filled balloons with a diameter of 20 cm that would be needed to lift a child of mass 25 kg.
+ a)  Ignore the mass of the balloon and string.
+ b)  Assume that the mass of the balloon and string is 2 g.
  (4 pont)

@@ -32,4 +32,4 @@ A vaslemez és egy állandó mágnes közötti vonzóerő meghatározása a táv
 
 4) Köss össze két állandó mágnest egy vasdarabból készült híddal (a), az ábrán látható módon. Helyezz egy papírcsíkot (b) a vaslemezre (c), majd helyezd rá a mágnesek rendszerét. Határozd meg a mágnesek rendszerének és a vaslemeznek a vonzóerejét.
 
-![ábra](../../sources/nbpho/figures/nbpho-2003-magnets-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2003-magnets-fig1.png)

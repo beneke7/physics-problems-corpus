@@ -97,12 +97,12 @@ vsnd
 .
 b. First, note that in the limit of large vsnd and small h, f reduces to
 f = f0
-
+
 1 +
 g
 vsnd
 t
-
+
 .
 However, this is too inaccurate an approximation to get a reasonable answer. Keeping to the exact
 expression, we can rearrange it as
@@ -112,7 +112,7 @@ f2
 1
 f0
 2
-
+
 1 +
 2gh
 vsnd
@@ -121,7 +121,7 @@ vsnd
 2g
 vsnd
 t
-
+
 which would graph as a straight line by plotting t horizontally and 1/f2
 vertically. The slope and
 intercept are
@@ -133,12 +133,12 @@ vsndf0
 1
 f0
 2
-
+
 1 +
 2gh
 vsnd
 2
-
+
 respectively. Now we may plot the following data:
 t (s) f (Hz) 1/f2
 (×10−6

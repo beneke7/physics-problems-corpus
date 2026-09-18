@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-From the ground floor of a house we climb the stairs to the top floor and then we use the lift to come down. This takes 4 minutes. It would take 3 minutes to use the lift in the upward direction and then climb down the stairs. It would take only one minute to go up and down in the lift. 
- How long would it take to climb up and down the stairs? 
+From the ground floor of a house we climb the stairs to the top floor and then we use the lift to come down. This takes 4 minutes. It would take 3 minutes to use the lift in the upward direction and then climb down the stairs. It would take only one minute to go up and down in the lift.
+ How long would it take to climb up and down the stairs?
  (3 pont)

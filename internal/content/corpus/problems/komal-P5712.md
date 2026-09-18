@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-A point-like firefly moves along a straight line and crosses the principal axis of a thin lens of a focal length of 30 cm. The angle between the path of the firefly and the principal axis is 60$^\circ$, and the angle between the image of the firefly and the principal axis is 30$^\circ$. Measured from the lens, at what distance did the firefly cross the principal axis of the lens? 
+A point-like firefly moves along a straight line and crosses the principal axis of a thin lens of a focal length of 30 cm. The angle between the path of the firefly and the principal axis is 60$^\circ$, and the angle between the image of the firefly and the principal axis is 30$^\circ$. Measured from the lens, at what distance did the firefly cross the principal axis of the lens?
  (5 pont)

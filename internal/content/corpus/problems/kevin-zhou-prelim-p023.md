@@ -31,7 +31,9 @@ Sketch a corresponding field line diagram. Then, give a mathematical expression 
 
 
                                                        6
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
           Sketch a corresponding set of field vectors at regular points. Then, give a mathematical

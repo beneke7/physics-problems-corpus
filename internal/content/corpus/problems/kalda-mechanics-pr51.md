@@ -19,4 +19,4 @@ verification_status: pending
 
 A coat hanger made of wire with a non-uniform density distribution is oscillating with a small amplitude in the plane of the figure. In the first two cases the longer side of the triangle is horizontal. In all three cases the periods of oscillation are equal. Find the position of the centre of mass and the period of oscillation.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr51-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr51-fig1.jpg)

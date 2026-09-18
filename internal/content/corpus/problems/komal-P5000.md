@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, differential-element]
 ---
 
-The U-shaped tube shown in the figure was filled with water. How, and by what amount will the level of the water in the arms of the tube change, if a current of $I$ is made flow through the coil, of length $\ell$ and of number of turns $N$, tightly wrapped around the arm at the left-hand side? The diameter of the tube is much smaller than the length of the coil. (The relative permeability of water is $\mu_{\rm r}$, its numerical value is just a very little bit less than 1.) 
+The U-shaped tube shown in the figure was filled with water. How, and by what amount will the level of the water in the arms of the tube change, if a current of $I$ is made flow through the coil, of length $\ell$ and of number of turns $N$, tightly wrapped around the arm at the left-hand side? The diameter of the tube is much smaller than the length of the coil. (The relative permeability of water is $\mu_{\rm r}$, its numerical value is just a very little bit less than 1.)
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5000-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5000-fig1.gif)

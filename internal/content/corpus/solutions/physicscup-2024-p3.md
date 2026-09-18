@@ -74,7 +74,7 @@ The field produced inside the balls can be found via Gauss' law,
 $$ H_+ = \frac{1}{4\pi}\frac{M}{d}r_1\pi\frac{4}{3}\Big/\Big(\frac{r_1^3}{3}\Big) = \frac{4\pi M}{3d}\mathbf{r}_1 \tag{18} $$
 $$ H_- = -\frac{4\pi M}{3d}\mathbf{r}_2 \tag{19} $$
 
-![Figure 1: (a) the two infinitesimally displaced source balls (positive and negative); a field point at vector distances $r_1$ and $r_2$ from their centers. (b) a small surface segment of area $A$, slab thickness $d$, whose radius vector makes angle $\theta$ with the magnetization direction.](../../sources/physicscup/figures/physicscup-2024-p3-sol-1.png)
+![Figure 1: (a) the two infinitesimally displaced source balls (positive and negative); a field point at vector distances $r_1$ and $r_2$ from their centers. (b) a small surface segment of area $A$, slab thickness $d$, whose radius vector makes angle $\theta$ with the magnetization direction.](../../../../../sources/physicscup/figures/physicscup-2024-p3-sol-1.png)
 
 where $H_+$ and $H_-$ are the fields produced by the positive and negative source ball respectively and $r_1$ and $r_2$ are the distances of a point from the centers of the positive and negative ball respectively (Fig. 1a).
 $$ \mathbf{r}_1 = (z - d/2)\hat z + \rho\hat\rho \tag{20} $$

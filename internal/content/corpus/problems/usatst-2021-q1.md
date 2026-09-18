@@ -84,4 +84,4 @@ Next, we estimate the jet stream speed using flight times. Because the jet strea
 | Planck Town | Rubinstead | 249 |
 | Rubinstead | Planck Town | 250 |
 
-![](usatst-2021-q1-fig01.png)
+![](../../figures/usatst/figures/usatst-2021-q1-fig01.png)

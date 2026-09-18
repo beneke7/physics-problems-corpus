@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates]
 ---
 
-Two straight roads cross perpendicularly. On one road a car is approaching the crossroads at a speed of $90~\mathrm{km}/\mathrm{h}$, on the other a motorcyclist is approaching it at a speed of $72~\mathrm{km}/\mathrm{h}$. At a given ($t=0$) instant, the distance between the two vehicles (as the crow flies) is $347~\mathrm{m}$. After $5$ seconds, their distance decreases to $188~\mathrm{m}$.ű 
- a) How far were the two vehicles from the crossroads initially? 
- b) What will be the minimum distance between the two vehicles? 
- For the sake of simplicity, consider both vehicles as point-like objects. 
+Two straight roads cross perpendicularly. On one road a car is approaching the crossroads at a speed of $90~\mathrm{km}/\mathrm{h}$, on the other a motorcyclist is approaching it at a speed of $72~\mathrm{km}/\mathrm{h}$. At a given ($t=0$) instant, the distance between the two vehicles (as the crow flies) is $347~\mathrm{m}$. After $5$ seconds, their distance decreases to $188~\mathrm{m}$.ű
+ a) How far were the two vehicles from the crossroads initially?
+ b) What will be the minimum distance between the two vehicles?
+ For the sake of simplicity, consider both vehicles as point-like objects.
  (5 pont)

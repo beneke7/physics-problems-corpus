@@ -25,10 +25,10 @@ techniques: [limiting-and-special-cases, extremization]
 
 1. A glass rod of refractive index 1.50 of rectangular cross section $\{d \times l\}$ is bent into a "U" shape (see Fig. (A). The cross sectional view of this rod is shown in Fig. (B).
 
-![](inpho-2016-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2016-a1-fig01.png)
 (A)
 
-![](inpho-2016-a1-fig02.png)
+![](../../figures/inpho/figures/inpho-2016-a1-fig02.png)
 (B)
 
 Bent portion of the rod is semi-circular with inner and outer radii $R$ and $R+d$ respectively. Parallel monochromatic beam of light is incident normally on face ABCD.
@@ -42,10 +42,10 @@ Bent portion of the rod is semi-circular with inner and outer radii $R$ and $R+d
 
 (b) Consider the ray $\mathrm{r}_{1}$ whose point of incidence is very close to the edge BC. Assume it undergoes total internal reflection at $\mathrm{p}_{1}$. In cross sectional view below, draw the trajectory of this reflected ray beyond the next glass-air boundary that it encounters.
 
-![](inpho-2016-a1-fig03.png)
+![](../../figures/inpho/figures/inpho-2016-a1-fig03.png)
 
 (c) Obtain the minimum value of the ratio $R / d$ for which any light ray entering the glass normally through the face ABCD undergoes at least one total internal reflection.
-![](inpho-2016-a1-fig04.png)
+![](../../figures/inpho/figures/inpho-2016-a1-fig04.png)
 (d) A glass rod with the above computed minimum ratio of $R / d$, is fully immersed in water of refractive index 1.33. What fraction of light flux entering the glass through the plane surface ABCD undergoes at least one total internal reflection?
 
-![](inpho-2016-a1-fig05.png)
+![](../../figures/inpho/figures/inpho-2016-a1-fig05.png)

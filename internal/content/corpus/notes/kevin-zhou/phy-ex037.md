@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Example. The entropy for one mole of an ideal gas. We have
-                                                            
+
                          ∂S            ∂S           CV        ∂p
                  dS =          dT +            dV =    dT +        dV.
                          ∂T V          ∂V T          T        ∂T V

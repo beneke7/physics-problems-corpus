@@ -42,7 +42,8 @@ the Progess-60 supply ship by 5.5 km. Again, in June, the ISS continued to lose 
 
 
                                               1
-                      Figure 3: The ISS mean height (km) in 2022-2023.
+
+                      Figure 3: The ISS mean height (km) in 2022-2023.
 
 
 
@@ -70,7 +71,8 @@ magnetic ﬁeld,
 
 
                                                2
-   Denotations and Physical constants:
+
+   Denotations and Physical constants:
 
 R - Universal gas constant (8.31 J · K−1 · mol−1 )
 NA - Avogadro’s number (6.022 · 1023 mol−1 )
@@ -107,7 +109,8 @@ to ISS.
 
 
                                                 3
-    We may assume that all pressure is hydrostatic (i.e., it acts with equal magnitude in all
+
+    We may assume that all pressure is hydrostatic (i.e., it acts with equal magnitude in all
 directions).
     Then, a perturbation of the air pressure dph on a variation of attitude dh may be written:
                                   .
@@ -176,7 +179,8 @@ of gh on h in the leading-order correction, with accuracy O(zh2 ).
 
 
                                                 4
-   The gas density rises by almost eight times when the weakening of gravity at
+
+   The gas density rises by almost eight times when the weakening of gravity at
 ISS altitude is taken into account in the leading order.
    Therefore, to avoid signiﬁcant error in calculation for the ISS, when the air pressure or air
 density is involved, one should use the improved barometric formula in Eq.(8) instead of Eq.(5).
@@ -233,7 +237,8 @@ arc-length dL = vdt :
                                       2(1 + zh )2
 
                                                          5
-   Then, we can ﬁnd the rate of descent speed of the satellite as follows:
+
+   Then, we can ﬁnd the rate of descent speed of the satellite as follows:
                                                            √
                     . dh    2Fdrag                 2F drag   RE
                  uh =    =         vh (1 + zh )2 =              (1 + zh )3/2 .                (18)
@@ -296,7 +301,8 @@ where we took into account relations h0 ≪ h ≪ RE .
 
 
                                                     6
-D. Drag by atomic oxygen ions
+
+D. Drag by atomic oxygen ions
 In the thermosphere, under the inﬂuence of ultraviolet and X-ray solar radiation and cosmic
 radiation, air ionization occurs (“polar lights”). Unlike O2 , N2 does not undergo strong dis-
 sociation under the action of solar radiation, therefore, in general, there is much less atomic
@@ -354,7 +360,8 @@ dt is
                                       dN = nion · vh · S · dt .                                (29)
 
                                                  7
-Therefore, the magnitude of the current is of the order
+
+Therefore, the magnitude of the current is of the order
                                                               √
                                        dN                           g 0 RE
                               Iind ≈ e     = e · S · nion ·                .                   (30)
@@ -409,7 +416,8 @@ where for the external linear size of the station, we can use the approximation 
 
 
                                                       8
-F. Numerical results and conclusion
+
+F. Numerical results and conclusion
 
 Table 1: Various deorbit velocities on the height h above the Earth surface, compared to the
 ISS-NASA data estimated for nion = 1013 m−3 . For nion = 1012 m−3 the results for uion and uind

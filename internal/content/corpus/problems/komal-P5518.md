@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [graphical-reduction]
 ---
 
-A cylindrical body of radius $R=20~$ cm is fixed in a horizontal position. A piece of light and flexible thread of length $\ell$ was laid on its slippery surface, as shown in the figure. 
+A cylindrical body of radius $R=20~$ cm is fixed in a horizontal position. A piece of light and flexible thread of length $\ell$ was laid on its slippery surface, as shown in the figure.
 
- To one end of the thread a point-like body of mass $m$, whilst to the other end another point-like body of mass $2m$ were attached. What can the greatest value of $\ell$ be, if the system remains at rest? 
+ To one end of the thread a point-like body of mass $m$, whilst to the other end another point-like body of mass $2m$ were attached. What can the greatest value of $\ell$ be, if the system remains at rest?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5518-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5518-fig1.gif)

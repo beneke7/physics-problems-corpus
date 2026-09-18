@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A high energy proton collides with a $^{7}_{3}\mathrm{Li}$ nucleus of negligible speed. The angle between the emitted 2 alpha particles is $90^\circ$. At least what was the speed of the proton? 
+A high energy proton collides with a $^{7}_{3}\mathrm{Li}$ nucleus of negligible speed. The angle between the emitted 2 alpha particles is $90^\circ$. At least what was the speed of the proton?
  (5 pont)

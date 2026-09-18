@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: flagged
 ---
 
-In the circuit shown in the figure switch K is turned off for a long time, then it is turned on for a long time. How does the charge of the condenser change? 
+In the circuit shown in the figure switch K is turned off for a long time, then it is turned on for a long time. How does the charge of the condenser change?
 
- Data: C =10  F, , R $_{ b 1}$=0.2  , , R $_{ b 2}$=0.4  . 
+ Data: C =10  F, , R $_{ b 1}$=0.2  , , R $_{ b 2}$=0.4  .
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3841-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3841-fig1.gif)

@@ -80,7 +80,8 @@ Barcode: B00110
 
 
                                          1/17
-                    EXPERIMENTAL COMPETITION
+
+                    EXPERIMENTAL COMPETITION
 
 
 
@@ -128,7 +129,8 @@ a graph and for ‘small’ r:
 
 
                                                    2/17
-                   EXPERIMENTAL COMPETITION
+
+                   EXPERIMENTAL COMPETITION
 
 
           2
@@ -167,7 +169,8 @@ From data obtain the shape of the object can be determined as:
 
 
                                                    3/17
-              EXPERIMENTAL COMPETITION
+
+              EXPERIMENTAL COMPETITION
 
 
 
@@ -220,7 +223,8 @@ Barcode : B01110
 
 
                                     4/17
-                     EXPERIMENTAL COMPETITION
+
+                     EXPERIMENTAL COMPETITION
 
 
 
@@ -274,7 +278,8 @@ From (B1) to (B3) and (A4) we can determine r from the 5 sides:
                   r4 = 100 – 50 (0.15) = 92.5 mm
                   r5 = 100 – 50 (0.10) = 95.0 mm
                                                    5/17
-                    EXPERIMENTAL COMPETITION
+
+                    EXPERIMENTAL COMPETITION
 
 
 
@@ -299,7 +304,8 @@ From the data obtained, the shape of the object can be determined as:
 
 
                                                   6/17
-              EXPERIMENTAL COMPETITION
+
+              EXPERIMENTAL COMPETITION
 
 
 
@@ -332,7 +338,8 @@ From the data obtained, the shape of the object can be determined as:
 
 
                                7/17
-               EXPERIMENTAL COMPETITION
+
+               EXPERIMENTAL COMPETITION
 
 
       2.MAGNETIC BRAKING ON AN INCLINED
@@ -353,7 +360,8 @@ A1.    To minimize the torque due to interaction of the magnet and the earth’s
 
 
                                         8/17
-                EXPERIMENTAL COMPETITION
+
+                EXPERIMENTAL COMPETITION
 
 
 
@@ -387,7 +395,8 @@ A1.    To minimize the torque due to interaction of the magnet and the earth’s
 
 
                                         9/17
-              EXPERIMENTAL COMPETITION
+
+              EXPERIMENTAL COMPETITION
 
 
 B1.   Determination of the power factor n: Dependence of the magnetic braking force
@@ -416,7 +425,8 @@ B1.   Determination of the power factor n: Dependence of the magnetic braking fo
 
 
                                        10/17
-        EXPERIMENTAL COMPETITION
+
+        EXPERIMENTAL COMPETITION
 
 
 
@@ -464,7 +474,8 @@ The experimental data:
             Table 1. Experimental data for power factor n determination
 
                                    11/17
-        EXPERIMENTAL COMPETITION
+
+        EXPERIMENTAL COMPETITION
 
 
 
@@ -499,7 +510,8 @@ Error estimate of n:
 Instead of laboring on detailed error propagation analysis that could be very time
 consuming, in olympiad context one can make the error estimate as follows:
                                  12/17
-        EXPERIMENTAL COMPETITION
+
+        EXPERIMENTAL COMPETITION
 
 
 
@@ -529,7 +541,8 @@ So we can conclude the result of our experiment is:
 
 
                                   13/17
-              EXPERIMENTAL COMPETITION
+
+              EXPERIMENTAL COMPETITION
 
 
 
@@ -580,7 +593,8 @@ B2.   Determination of the power factor p: Dependence of the magnetic braking
 
 
                                          14/17
-        EXPERIMENTAL COMPETITION
+
+        EXPERIMENTAL COMPETITION
 
 
 
@@ -615,7 +629,8 @@ So the error estimate for p:
            = ⎜ ⎟ +⎜      ⎟ = ⎜       ⎟ +⎜      ⎟ = 0.12
          p   ⎝ ∆x ⎠ ⎝ ∆y ⎠   ⎝ 0.94 ⎠ ⎝ 2.01 ⎠
                                    15/17
-        EXPERIMENTAL COMPETITION
+
+        EXPERIMENTAL COMPETITION
 
 
        ∆p = 0.12 p = 0.26
@@ -628,7 +643,8 @@ So we can conclude the result of our experiment is:
 
 
                                 16/17
-             EXPERIMENTAL COMPETITION
+
+             EXPERIMENTAL COMPETITION
 
 
 [Marking Scheme]           Experimental Question 2

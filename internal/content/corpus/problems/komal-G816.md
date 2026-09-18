@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, graphical-reduction]
 ---
 
-We have three resistors with resistance values of 1 k$\Omega$, 2 k$\Omega$ and 4 k$\Omega$. Two or three of these are connected in series and connected to 230 V voltage supply. In this way how many different values of voltage can we obtain across them, and what are they? 
+We have three resistors with resistance values of 1 k$\Omega$, 2 k$\Omega$ and 4 k$\Omega$. Two or three of these are connected in series and connected to 230 V voltage supply. In this way how many different values of voltage can we obtain across them, and what are they?
  (4 pont)

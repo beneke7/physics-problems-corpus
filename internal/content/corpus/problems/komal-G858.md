@@ -22,14 +22,14 @@ verification_status: self-solved
 techniques: [choose-reference-frame, strategic-heuristics]
 ---
 
-Three students (Ann, Bob and Cecily) are discussing where the Moon rises and sets in Hungary. 
+Three students (Ann, Bob and Cecily) are discussing where the Moon rises and sets in Hungary.
 
- Ann: It rises on the western horizon and sets on the eastern horizon, just the opposite of the Sun. 
+ Ann: It rises on the western horizon and sets on the eastern horizon, just the opposite of the Sun.
 
- Bob: It rises on the eastern horizon and sets on the western horizon, like the Sun. 
+ Bob: It rises on the eastern horizon and sets on the western horizon, like the Sun.
 
- Cecily: Depending on the lunar cycle, it sometimes rises on the eastern horizon and sometimes on the western horizon. 
+ Cecily: Depending on the lunar cycle, it sometimes rises on the eastern horizon and sometimes on the western horizon.
 
- Who is right? 
- Note: Students use the term eastern (western) horizon to refer to the part of the horizon towards the east (towards the west) of the north-south line in the horizon. 
+ Who is right?
+ Note: Students use the term eastern (western) horizon to refer to the part of the horizon towards the east (towards the west) of the north-south line in the horizon.
  (3 pont)

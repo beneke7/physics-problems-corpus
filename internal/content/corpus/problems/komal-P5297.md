@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-The length of a light, flexible but unstretchable fishing line is $\ell=80$ cm. The two ends of the fishing line are fixed at two points at the same height, at a certain distance of each other. A steel marble of mass $m=5$ g, which has a hole drilled through it, can slide along the fishing line. This bead is started from a position such that one part of the tight fishing line is vertical. 
+The length of a light, flexible but unstretchable fishing line is $\ell=80$ cm. The two ends of the fishing line are fixed at two points at the same height, at a certain distance of each other. A steel marble of mass $m=5$ g, which has a hole drilled through it, can slide along the fishing line. This bead is started from a position such that one part of the tight fishing line is vertical.
 
- $a)$ To what maximum speed can the steel marble speed up, if friction and air drag are negligible? 
- $b)$ What is the tension in the fishing line when the speed of the steel marble is maximum? 
+ $a)$ To what maximum speed can the steel marble speed up, if friction and air drag are negligible?
+ $b)$ What is the tension in the fishing line when the speed of the steel marble is maximum?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5297-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5297-fig1.gif)

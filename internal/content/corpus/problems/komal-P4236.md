@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, conservation-laws]
 ---
 
-A vertical rod of mass 4 kg is hanging on a rope and a 3-kg cat is grasping the bottom end of the rod. The rope is cut off and the frightened cat begins to run up on the rod. While the rod is falling vertically, the cat remains at the same height, with respect to the ground. Calculate the acceleration of the rod. 
+A vertical rod of mass 4 kg is hanging on a rope and a 3-kg cat is grasping the bottom end of the rod. The rope is cut off and the frightened cat begins to run up on the rod. While the rod is falling vertically, the cat remains at the same height, with respect to the ground. Calculate the acceleration of the rod.
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-The average depth of the lake Pécsi-tó, which is next to the village Orfű, is 3.3 m. How much should the temperature of the water change from $25\;{}^\circ$C in order that the water level decrease by 0.5 cm? 
+The average depth of the lake Pécsi-tó, which is next to the village Orfű, is 3.3 m. How much should the temperature of the water change from $25\;{}^\circ$C in order that the water level decrease by 0.5 cm?
  (4 pont)

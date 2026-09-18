@@ -22,7 +22,7 @@ verification_status: pending
 
 Vizsgáljuk meg az alábbi vízpumpa felépítését. Egy $S_{1}$ keresztmetszetű függőleges cső vezet egy nyitott víztározóból egy $r$ sugarú, henger alakú forgó tartályba. Minden edény vízzel van megtöltve; a tartály kerülete mentén $S_{2}$ nettó keresztmetszeti területű lyukak vannak, amelyek a pumpa működési üzemmódjában nyitva vannak. A tartály a tározó szabad vízfelszínétől számítva $h$ magasságban van (magának a tartálynak a magassága kicsi). Egy elektromos motor $\omega$ szögsebességgel forgatja a tartályt. A víz sűrűsége $\rho$, a légnyomás $-p_{0}$, a telített gőznyomás pedig $-p_{k}$. Tegyük fel, hogy a vízáramlás lamináris (az örvények energiáját elhanyagoljuk), és a súrlódást is elhanyagoljuk. A tartály belsejében fémlapátok vannak, amelyek a vizet a tartállyal együtt forgatják.
 
-![ábra](../../sources/nbpho/figures/nbpho-2005-water-pump-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2005-water-pump-fig1.jpg)
 
 1) Számítsd ki a nyomást $p_{2}$ a tartály kerületén, amikor az összes lyuk zárva van (2 pont).
 

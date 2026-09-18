@@ -33,7 +33,9 @@ solution_language: en
 
 
                                                      2
-   Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -44,7 +46,7 @@ solution_language: en
       The tricky thing about this problem is that the pressures in the two compartments aren’t equal;
       this is possible because the external agent is holding the piston. Instead, the temperatures
       are made equal by heat conduction. The work done by the agent is
-                                                                            
+
                                                                   dVA dVB
                             dW = −pA dVA − pB dVB = −RT                +       .
                                                                   VA      VB

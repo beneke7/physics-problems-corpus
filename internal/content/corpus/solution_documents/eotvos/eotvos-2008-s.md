@@ -11,8 +11,8 @@ verification_status: pending
 provenance_note: "Source-provided solution document; preserved from cache/phoxiv/eotvos/2008_S.pdf."
 ---
 
-Vermes Miklós Az Eötvös-versenyek feladatai 19591988         . könyvében írja: A háború utáni versenyek 1949-ben
-indultak meg újra, és azóta Eötvös-verseny néven rendezik meg minden ®sszel. Minthogy azóta is minden évben
+Vermes Miklós  Az Eötvös-versenyek feladatai 1959 1988          . könyvében írja:  A háború utáni versenyek 1949-ben
+indultak meg újra, és azóta Eötvös-verseny néven rendezik meg minden ®sszel.  Minthogy azóta is minden évben
 sikerült megtartani a versenyt, 2008-ban volt a háború utáni 60. Eötvös-verseny.
    A Versenybizottságban Károlyházy Frigyes több, mint 40 éve, Radnai Gyula 35 éve, Gnädig Péter 20 éve, Honyek
 Gyula 5 éve vesz részt. 1987-ig Vermes Miklós, 1988-tól Radnai Gyula az elnöke a Versenybizottságnak.
@@ -20,8 +20,8 @@ Gyula 5 éve vesz részt. 1987-ig Vermes Miklós, 1988-tól Radnai Gyula az eln�
 59 versenyz® adott be dolgozatot. Valamennyien hazai középiskolába jártak vagy járnak, külföldi versenyz® nem volt.
 A Fazekas Mihály F®városi Gyakorló Gimnáziumból 15-en indultak, többen, mint akármelyik vidéki városból. Sajnos
 két helyszínr®l, Ke skemétr®l és Székesfehérvárról egyetlen dolgozat sem érkezett. A viszonylag ala sony részvételi
-létszám jól tükrözi a zika tantárgy országosan nehéz helyzetét, ugyanakkor a legjobb tíz dolgozat átlagos színvonala
-ugyanolyan magas volt, mint az elmúlt években  méltón az Eötvös-verseny hagyományaihoz.
+létszám jól tükrözi a  zika tantárgy országosan nehéz helyzetét, ugyanakkor a legjobb tíz dolgozat átlagos színvonala
+ugyanolyan magas volt, mint az elmúlt években   méltón az Eötvös-verseny hagyományaihoz.
 
    1. feladat. Egy   irkuszi egyensúlyozóm¶vész egy hosszú függ®leges rúdra akar felmászni. A rúd hossza ℓ, tömege m.
 A produk ió kezdetekor a rudat az egyik végéhez er®sített, elhanyagolható súlyú rugalmas kötélen engedik le a     irkusz
@@ -41,10 +41,10 @@ T periódusideje? (A rúd alsó vége nem tud elmozdulni, de a rúd szabadon elf
                                                                                                          (Balogh Péter )
 
    Megoldás. Azoknak a versenyz®knek sikerült jól megoldaniuk ezt a feladatot, akik elég bátrak voltak, és már
-kezdetben gyelembe vették, hogy elegend® az artista ki siny kibillenését vizsgálni. k azután nem tévedtek el a
+kezdetben  gyelembe vették, hogy elegend® az artista ki siny kibillenését vizsgálni.  k azután nem tévedtek el a
 tetsz®leges szögekre érvényes, bonyolult összefüggések erdejében.
    A 2. ábrán a hosszakat, a 3. ábrán az er®ket ábrázoltuk az α szöggel kibillent rúd esetében. Ekkor a kötélnek a
-függ®legessel bezárt szöge β . Ha gyelembe vesszük, hogy ki siny szögekr®l van szó, jó közelítéssel írhatjuk:
+függ®legessel bezárt szöge β . Ha  gyelembe vesszük, hogy ki siny szögekr®l van szó, jó közelítéssel írhatjuk:
 
                                                              α
                                                         β≈     .
@@ -54,7 +54,9 @@ függ®legessel bezárt szöge β . Ha gyelembe vesszük, hogy ki siny szögekr
 
 
                                                         2. ábra
-                                                          3. ábra
+
+
+                                                          3. ábra
 
 
    A kilendült rudat a rúdra és az artistára ható nehézségi er® tovább akarja lendíteni, a kötél rugalmassága pedig
@@ -64,7 +66,7 @@ visszahúzza. A nehézségi er®k forgatónyomatékának nagysága (a rúd alsó
                                                     ℓ
                                             M1 = mg sin α + mgx sin α ≈
                                                     2
-                                                          
+
                                                       ℓ
                                                ≈ mg     + x α,
                                                       2
@@ -76,14 +78,14 @@ a visszahúzó kötéler® forgatónyomatékának nagysága pedig
                                                                               2
    A stabilitás feltétele:
                                                        M2 > M1 .
-Felhasználva, hogy kis szögekr®l van szó:                             
+Felhasználva, hogy kis szögekr®l van szó:
                                                    3              ℓ
                                                 F ℓ α > mg          + x α.
                                                    2              2
 Ha eltekintünk a kötél ki siny, további megnyúlásától, F továbbra is jó közelítéssel mg nagyságú marad. (F ki siny
 megváltozását az ugyan sak ki siny α-val szorozva másodrend¶en ki siny tagot kapunk, amit elhanyagolunk.) Ezt
 felhasználva a stabilitási feltétel:
-                                                                      
+
                                                   3               ℓ
                                                mgℓ α > mg           + x α,
                                                   2               2
@@ -97,26 +99,28 @@ felhasználva a stabilitási feltétel:
    Tehát az artista felmászhat egészen a rúd tetejéig, amíg    sak x < ℓ teljesül. Ezzel válaszoltunk az a) kérdésre, most
 foglalkozzunk a b)-vel.
                                                                           α
-   Tekintsük a 4. ábrát, amelyen már gyelembe vettük a             β ≈     közelítést, mivel továbbra is kis szögkitérés¶
+   Tekintsük a 4. ábrát, amelyen már  gyelembe vettük a             β ≈     közelítést, mivel továbbra is kis szögkitérés¶
                                                                           2
                                                      ℓ
 lengésekr®l lehet   sak szó, továbbá azt, hogy most x =. A visszatérít® forgatónyomaték:
                                                      2
-                                                                                
+
                                                   3          ℓ           3
                                  M = M2 − M1 = F ℓ α − 2mg α = ℓα          F − mg =
                                                   2          2           2
                                      1
                                    = mgℓ · α.
                                      2
-                                                            4. ábra
+
+
+                                                            4. ábra
 
 
    Ez a visszatér® forgatónyomaték egyenesen arányos            α-val! Ebben az esetben harmonikus rezgés (lengés) jöhet
 létre, melynek periódusidejét az arányossági tényez®b®l olvashatjuk ki. A rúdból és az artistából álló rendszer teljes
 tehetetlenségi nyomatéka (a rúd legalsó pontjára vonatkoztatva):
 
-                                                                 2
+                                                                   2
                                               1                  ℓ     7
                                            Θ = mℓ2 + m               =    mℓ2 .
                                               3                  2     12
@@ -156,7 +160,7 @@ során változtathatják meg a h®mérsékletüket.
 most nem áll rendelkezésre.
    Illetve mégis van egy kiút: ha a két különböz® h®mérséklet¶ másik test felhasználásával m¶ködtetünk egy h®er®-
 gépet! Azt a munkát, amit ebb®l nyerünk, felhalmozzuk egy energiatárolóban. Mire a két melegebb test között végül
-megsz¶nik a h®mérsékletkülönbség, az így el®állt középmeleg test és a hideg test közé már beiktathatunk egy h¶-
+megsz¶nik a h®mérsékletkülönbség, az így el®állt  középmeleg  test és a hideg test közé már beiktathatunk egy h¶-
 t®gépet, amely az el®bb nyert munka befektetésével biztosan m¶ködik valameddig. Ennek eredményeképpen a hideg
 test tovább h¶l. Már   sak azt kell kiszámítanunk, mennyire h¶l le.
     b) El®ször azt számítsuk ki, mennyi munka nyerhet® a kezdetben T1 = 90◦ C = 363 K és T2 = 27 ◦ C = 300 K
@@ -165,8 +169,10 @@ nyerjük, ha egyensúlyi folyamatokat végz®, úgynevezett reverzibilis Carnot-
 jelölve e körfolyamatot végz® gép egyetlen iklusában a T1 , illetve T2 h®mérséklet¶ testekt®l felvett h®t, Q1 > 0 és
 Q2 < 0, ha T1 > T2 . Ekkor a iklusonként végzett munka a termodinamika els® f®tétele szerint:
                                                         W = Q1 + Q2 .
-Ugyanakkor a termodinamika második f®tétele szerint
-                                                                                        
+
+
+Ugyanakkor a termodinamika második f®tétele szerint
+
                                             Q1   Q2                       W    T1 − T2
                                                +    =0               η=      =               .
                                             T1   T2                       Q1     T1
@@ -224,16 +230,18 @@ Vagyis a kezdetben 13         C-os test végül is 5 ◦ C-osra h¶thet® le. Ez
                           ◦
 
 
-    3. feladat. Egy zikaszakkörön valaki demonstrálni szeretné, hogy ellentétes irányú elektromos térer®sségvektorok
+    3. feladat. Egy  zikaszakkörön valaki demonstrálni szeretné, hogy ellentétes irányú elektromos térer®sségvektorok
 leronthatják egymást. Elképzelése a következ®. Szigetel® lábakon két egyforma fémgömböt állít egymás mellé és pontosan
 ugyanakkora poten iálra tölti fel ®ket. Ezután a kettejük közé középre belógatott próbatöltésre nem fog elektromos er®
 hatni.
-    A gyakorlati kivitelezéshez a kísérletez® egy néhány száz V feszültség¶ telep egyik sarkát leföldeli, vagyis az asz-
-tallapra tett nagy fémtál ához       satlakoztatja  ezt tekinthetjük zérus poten iálú helynek , a másik pólushoz    satlakozó
+    A gyakorlati kivitelezéshez a kísérletez® egy néhány száz V feszültség¶ telep egyik sarkát  leföldeli , vagyis az asz-
+tallapra tett nagy fémtál ához       satlakoztatja   ezt tekinthetjük zérus poten iálú helynek  , a másik pólushoz    satlakozó
 banándugóval pedig el®ször a bal oldali, utána a jobb oldali gömböt, majd végül a szigetel® szálon közéjük lógatott alu-
 fólia    síkot érinti meg (5. ábra). Meglep®dve tapasztalja, hogy az alufólia igenis kitér a függ®leges irányból, elmozdul
 az egyik gömb felé.
-                                                           5. ábra
+
+
+                                                           5. ábra
 
 
     Mi lehet a kudar      magyarázata? (A leveg® száraz, a lábak jól szigetelnek, a gömbök sokáig megtartják a rájuk vitt
@@ -243,7 +251,7 @@ töltést.)
                                                                                                      (Károlyházy Frigyes )
 
     Megoldás. A feladat az 1992. évi Eötvös-verseny 3. problémájára emlékeztet, amelynek megoldása megtalálható
-Az Eötvös-versenyek feladatai II. 19891997      . Typotex kiadványban, és ma már az interneten is olvasható a Kempe-
+ Az Eötvös-versenyek feladatai II. 1989 1997       . Typotex kiadványban, és ma már az interneten is olvasható a Kempe-
 len Farkas Digitális Tankönyvtárban. Két versenyz®, akik kés®bb di séretet kaptak, rá is talált az ott közölt megoldásra,
 melynek nyomán sikerült is megoldaniuk ezt a feladatot. Az Eötvös-versenyen bármely segédeszköz (könyvek, jegy-
 zetek, zsebszámológép) használható (mobiltelefon és laptop kivételével), ezért megoldásukat természetesen elfogadta
@@ -252,7 +260,7 @@ erre a feladatra.
     Tekintsük el®ször azt az esetet, amikor még     sak a bal oldali gömböt töltöttük fel a telep feszültségére. Ekkor ez a
 gömb felvett valamennyi töltést. A jobb oldali gömb, ami ugyan töltetlen, most egy elektromos er®térbe került, ennek
 hatására benne töltésszétválás történt és már nem zérus a feszültsége, hiába zérus a rajta lév® össztöltés.
-    Ezek után érintjük meg a jobb oldali gömböt a telep el®bbi  pozitív  sarkából jöv® vezetékkel. Ennek hatására ez
+    Ezek után érintjük meg a jobb oldali gömböt a telep el®bbi   pozitív   sarkából jöv® vezetékkel. Ennek hatására ez
 a gömb is a telep feszültségére tölt®dik fel, viszont ehhez már kevesebb töltésnek kell felmennie rá, mint amennyi töltés
 a másik gömbre került! S®t, ha a második gömb feltöltése után megmérjük az els® (a bal oldali) gömb feszültségét, az
 nagyobb lesz, mint a telep feszültsége, hiszen most már ez a gömb is er®térbe, a jobb oldali gömb er®terébe került!
@@ -280,8 +288,8 @@ olyan látványos az a kísérlet, hogy közöttük középen nem hat er® a bel
 
     Két versenyz®nek sikerült mindhárom feladatot hibátlanul megoldania, ezért két els® díjat adott ki a Versenybi-
 zottság.
-    I. díj: Almási Gábor, az ELTE zika BS szakos hallgatója, aki a pé si Le®vey Klára Gimnáziumban érettségizett
-Simon Péter és Kotek László tanítványaként; és Szolnoki Lénárd, a BME zika BS szakos hallgatója, aki a Debre eni
+    I. díj: Almási Gábor, az ELTE  zika BS szakos hallgatója, aki a pé si Le®vey Klára Gimnáziumban érettségizett
+Simon Péter és Kotek László tanítványaként; és Szolnoki Lénárd, a BME  zika BS szakos hallgatója, aki a Debre eni
 Református Kollégium Dó zy Gimnáziumában érettségizett Tófalusi Péter tanítványaként.
     II. díj: Balogh Máté, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítvá-
 nya; és Lovas Lia Izabella, a pé si Le®vey Klára Gimnázium 12. évf. tanulója, Simon Péter tanítványa.
@@ -290,8 +298,10 @@ tanítványa.
     Di séretet kaptak: A zél Gergely, a Pápai Református Kollégium Gimnáziumának 12. évf. tanulója, Somosi
 István tanítványa; Iván Dávid, a fonyódi Mátyás Király Gimnázium 12. évf. tanulója, Németh László tanítványa;
 Karsa Anita, a Fazekas Mihály F®városi Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítványa; Szilágyi
-Zsombor, az ELTE zika BS         szakos hallgatója, aki a budapesti Karinthy Frigyes Gimnáziumban érettségizett Szilágyi
-László tanítványaként; és Wang Daqian, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. évf. tanulója, Horváth
+Zsombor, az ELTE  zika BS         szakos hallgatója, aki a budapesti Karinthy Frigyes Gimnáziumban érettségizett Szilágyi
+
+
+László tanítványaként; és Wang Daqian, a Fazekas Mihály F®városi Gyakorló Gimnázium 11. évf. tanulója, Horváth
 Gábor tanítványa.
 
 
@@ -301,17 +311,17 @@ Gábor tanítványa.
 az 50, valamint a 25 évvel korábbi Eötvös-verseny feladatait, majd bemutatta az akkori díjazottak közül megjelent
 egykori versenyz®ket.
    Ková s Béla villamosmérnök, informatikus, aki 1958-ban érettségizett Sárospatakon, ma is gyakori látogatója egy-
-kori iskolájának. t is, mint az utána megszólaló, 25 évvel atalabb nyerteseket ez a verseny indította el életpályájukon.
-Árkossy Ottó orvos, Fodor Gyula és Frei Zsolt zikusok lettek. Erd®s László, aki Árkossy Ottóval holtversenyben lett
+kori iskolájának.  t is, mint az utána megszólaló, 25 évvel  atalabb nyerteseket ez a verseny indította el életpályájukon.
+Árkossy Ottó orvos, Fodor Gyula és Frei Zsolt  zikusok lettek. Erd®s László, aki Árkossy Ottóval holtversenyben lett
 els®, matematikus lett. Jelenleg Mün henben dolgozik, onnan küldött üdvözletét Honyek Gyula olvasta fel.
    A 25 évvel ezel®tt díjazott versenyz®k mind a KöMaL sikeres megoldói voltak, az akkori fotóikból készített tabló
 nagy tetszést aratott. Meghívást kaptak az ünnepélyes eredményhirdetésre a díjazott és di séretet kapott diákok
 tanárai, az Eötvös Loránd Fizikai Társulat minden tisztségvisel®je, valamint az Eötvös-versenyek nyertesei. Sokan
 eljöttek, néhányan levelet írtak, melyben üdvözölték az idei nyerteseket.
    A díjakat és okleveleket Sólyom Jen®, az Eötvös Loránd Fizikai Társulat elnöke adta át. A két els® díjas megkapta
-a Társulat Eötvös-verseny érmét és egyéves el®zetést a Fizikai Szemlére. Ezen kívül az els® díjasok 20-20 ezer Ft,
+a Társulat Eötvös-verseny érmét és egyéves el® zetést a Fizikai Szemlére. Ezen kívül az els® díjasok 20-20 ezer Ft,
 a második díjasok 15-15 ezer Ft, a harmadik díjas versenyz® 10 ezer Ft, a di séretes versenyz®k pedig 5-5 ezer Ft
-pénzjutalomban részesültek, és mind a tízen megkapták Staar Gyula Fizikusok az aranykorból         . könyvét.
+pénzjutalomban részesültek, és mind a tízen megkapták Staar Gyula  Fizikusok az aranykorból          . könyvét.
    A nyertes diákok megjelent tanárai a Vin e és a Typotex kiadók által felajánlott könyvekb®l válogathattak.
    A díjkiosztás után a Versenybizottság elnöke értékelte az idei versenyt, majd állófogadással egybekötött beszélge-
 tésre invitálta a résztvev®ket, megköszönve a Matfund Alapítvány, az Indotek Zrt., a Ramasoft Zrt. és Gutai László

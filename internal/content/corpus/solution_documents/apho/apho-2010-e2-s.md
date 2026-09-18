@@ -51,7 +51,8 @@ Experimental Competition                                         Question Number
        89.0             254000           3.937E-06          3.05E-04
        90.0             450000           2.222E-06              0
        91.0             393000           2.544E-06          3.05E-04
-Experimental Competition                       Question Number 2
+
+Experimental Competition                       Question Number 2
 27 April 2010
 
                                                          Page 2 of 12
@@ -80,7 +81,8 @@ Experimental Competition                                         Question Number
       170.0            1350     7.407E-04    0.970
       175.0            1330     7.519E-04    0.992
       180.0            1320     7.576E-04    1.00
-Experimental Competition                                            Question Number 2
+
+Experimental Competition                                            Question Number 2
 27 April 2010
 
                                                                                    Page 3 of 12
@@ -118,7 +120,8 @@ Experimental Competition                                         Question Number
                            0   20   40   60     80    100     120   140      160   180
 
                                                θ P (degree)
-Experimental Competition                                            Question Number 2
+
+Experimental Competition                                            Question Number 2
 27 April 2010
 
                                                                               Page 4 of 12
@@ -149,7 +152,8 @@ Experimental Competition                                         Question Number
 
 
                     Average            0.233         0.0515
-Experimental Competition                                                      Question Number 2
+
+Experimental Competition                                                      Question Number 2
 27 April 2010
 
                                                                                            Page 5 of 12
@@ -197,7 +201,8 @@ Experimental Competition                                         Question Number
 
 
      Jmin = 0.025                                  Jmax = 0.18
-Experimental Competition                                          Question Number 2
+
+Experimental Competition                                          Question Number 2
 27 April 2010
 
                                                                             Page 6 of 12
@@ -213,7 +218,8 @@ Experimental Competition                                         Question Number
 
 
   β = 0.76
-Experimental Competition                                            Question Number 2
+
+Experimental Competition                                            Question Number 2
 27 April 2010
 
                                                                                 Page 7 of 12
@@ -255,7 +261,8 @@ Experimental Competition                                         Question Number
       0.0159             2640            3.79E-04            0.351
       0.0163             2290            4.37E-04            0.428
       0.0165             2150            4.65E-04            0.470
-Experimental Competition                    Question Number 2
+
+Experimental Competition                    Question Number 2
 27 April 2010
 
                                                       Page 8 of 12
@@ -281,7 +288,8 @@ Experimental Competition                                         Question Number
       0.0207           1426   7.01E-04   0.899
       0.0208           1430   6.99E-04   0.894
       0.0210           1432   6.98E-04   0.892
-Experimental Competition                                                  Question Number 2
+
+Experimental Competition                                                  Question Number 2
 27 April 2010
 
                                                                                           Page 9 of 12
@@ -317,7 +325,8 @@ Experimental Competition                                         Question Number
                           0.008   0.010   0.012   0.014   0.016   0.018   0.020   0.022
 
                                                       I (A)
-Experimental Competition                                                                                 Question Number 2
+
+Experimental Competition                                                                                 Question Number 2
 27 April 2010
 
                                                                                                                        Page 10 of 12
@@ -356,7 +365,8 @@ Experimental Competition                                         Question Number
                                                       0.008   0.010   0.012    0.014   0.016   0.018   0.020   0.022
 
                                                                                    I (A)
-Experimental Competition                                                                    Question Number 2
+
+Experimental Competition                                                                    Question Number 2
 27 April 2010
 
                                                                                                         Page 11 of 12
@@ -422,7 +432,8 @@ Experimental Competition                                         Question Number
  ∆G        ∆S           ∆J max                                      3          0.02
     =                 +                   ⇒ ∆G = 0.69                        +              = 0.02
  G          S            J max                                     213         0.92
-Experimental Competition                                                     Question Number 2
+
+Experimental Competition                                                     Question Number 2
 27 April 2010
 
                                                                                        Page 12 of 12

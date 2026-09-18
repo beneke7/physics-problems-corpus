@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201912"
 verification_status: pending
 ---
 
-Using a soft graphite pencil, draw marks to a piece of paper. Measure the thickness of the graphite layer. 
+Using a soft graphite pencil, draw marks to a piece of paper. Measure the thickness of the graphite layer.
  (6 pont)

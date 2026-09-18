@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, exploit-symmetry]
 ---
 
-There are two alike glasses filled brimful with water on the table. In one of them a ping-pong ball is floating on the surface of the water. Which glass exerts a greater force on the table? 
+There are two alike glasses filled brimful with water on the table. In one of them a ping-pong ball is floating on the surface of the water. Which glass exerts a greater force on the table?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics]
 ---
 
-The same plane cruises in clear weather at the same altitude and at the same speed. Some days it produces a very long contrail, other days a shorter one, and some days there is no contrail at all. What determines primarily whether a trail will form and how long it will be? 
+The same plane cruises in clear weather at the same altitude and at the same speed. Some days it produces a very long contrail, other days a shorter one, and some days there is no contrail at all. What determines primarily whether a trail will form and how long it will be?
  (3 pont)

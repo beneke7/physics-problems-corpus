@@ -19,4 +19,4 @@ verification_status: pending
 
 A stream of water falls against a trough's bottom with velocity $v$ and splits into smaller streams going to the left and to the right. Find the velocities of both streams if the incoming stream was inclined at an angle $\alpha$ to the trough (and the resultant streams). What is the ratio of amounts of water carried per unit time in the two outgoing streams?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr53-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr53-fig1.jpg)

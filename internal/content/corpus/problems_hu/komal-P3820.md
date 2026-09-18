@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3820. Edison első izzólámpái elszenesített növényi rostból készített izzószállal működtek. Miért kellett ezekkel a lámpákkal egy ellenállást is sorbakötni? 
+P. 3820. Edison első izzólámpái elszenesített növényi rostból készített izzószállal működtek. Miért kellett ezekkel a lámpákkal egy ellenállást is sorbakötni?
  Bay Zoltán fizikaverseny, Sarkad

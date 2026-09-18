@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 200705"
 verification_status: flagged
 ---
 
-A sample of ideal gas of 0.3 mol is taken through the cyclic process shown in the figure. The temperature of the gas at state 3 is 900 K, and at state 4 600 K. 
+A sample of ideal gas of 0.3 mol is taken through the cyclic process shown in the figure. The temperature of the gas at state 3 is 900 K, and at state 4 600 K.
 
- a ) Find the temperature of the gas at states 1 and 2. 
- b ) What is the work done by the gas during one cycle? 
+ a ) Find the temperature of the gas at states 1 and 2.
+ b ) What is the work done by the gas during one cycle?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3986-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3986-fig1.gif)

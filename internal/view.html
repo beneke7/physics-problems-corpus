@@ -7,7 +7,8 @@
 	<title>physics problem finder · record</title>
 	<script>
 		window.MathJax = {
-			tex: { inlineMath: [["$", "$"], ["\\(", "\\)"]], displayMath: [["$$", "$$"], ["\\[", "\\]"]] },
+			tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]], displayMath: [["\\[", "\\]"], ["$$", "$$"]], packages: {"[+]": ["ams"]} },
+			loader: { load: ["[tex]/ams"] },
 			options: { skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"] },
 			startup: { ready() { MathJax.startup.defaultReady(); window.dispatchEvent(new Event("MathJaxReady")); } }
 		};
@@ -85,8 +86,13 @@
 		const text = (v) => v === null || v === undefined ? "" : String(v);
 		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {}, packageBody = "", downloadUrl;
 		function typeset(node) {
-			const run = () => window.MathJax?.typesetPromise?.([node]).catch(() => {});
-			if (window.MathJax?.typesetPromise) run();
+			const run = () => {
+				if (!window.MathJax?.typesetPromise) return;
+				window.MathJax.typesetClear?.([node]);
+				window.MathJax.typesetPromise([node]).catch(() => {});
+			};
+			if (window.MathJax?.startup?.promise) window.MathJax.startup.promise.then(run);
+			else if (window.MathJax?.typesetPromise) run();
 			else window.addEventListener("MathJaxReady", run, { once: true });
 		}
 
@@ -102,11 +108,20 @@
 			} catch (_) { $("gate-message").textContent = "That key did not match."; }
 		}
 		function stripFrontmatter(value) { return value.replace(/^---\n[\s\S]*?\n---\n?/, ""); }
+		function cleanDisplay(value) { return value.replace(/\r\n?/g, "\n").replace(/\f/g, "\n\n").replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f\ufffd]/g, " "); }
 		function basename(value) { return decodeURIComponent(value.split(/[?#]/)[0].split("/").pop() || ""); }
 		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian translation"; if (key === "solution") return "Canonical solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
 		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
 		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
 		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
+		function documentFigures(body, info) {
+			const paths = array(info.figures).filter((path) => !/^https?:\/\//i.test(path));
+			for (const match of body.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)) {
+				const src = match[1].trim().split(/\s+/)[0].replace(/^<|>$/g, "");
+				if (!/^https?:\/\//i.test(src)) paths.push(figurePath(src, info));
+			}
+			return [...new Set(paths)];
+		}
 		function localizeImages(body, info, forPackage = false) {
 			return body.replace(/(!\[[^\]]*\]\()([^)]*)(\))/g, (whole, start, src, end) => {
 				const local = figurePath(src, info); if (local === src) return whole;
@@ -135,7 +150,9 @@
 				if (close > i + length) { math.push(value.slice(i, close + length)); body += token(); i = close + length; continue; }
 				body += value[i++];
 			}
-			return marked.parse(body, {gfm:true, breaks:false, html:false}).replace(/MATHJAXTOKEN(\d+)/g, (_, index) => escapeHtml(math[Number(index)]));
+			return marked.parse(body, {gfm:true, breaks:false, html:false})
+				.replace(/MATHJAXTOKEN(\d+)/g, (_, index) => escapeHtml(math[Number(index)]))
+				.replace(/&lt;br\s*\/?&gt;/gi, "<br>");
 		}
 		function setDownload(body, name) {
 			if (downloadUrl) URL.revokeObjectURL(downloadUrl); downloadUrl = URL.createObjectURL(new Blob([body], {type:"text/markdown;charset=utf-8"}));
@@ -147,9 +164,9 @@
 			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)); img.src = path; img.loading = "lazy"; img.decoding = "async"; link.href = path; link.download = basename(path); figure.append(img, link); list.append(figure); });
 		}
 		function renderBody(body, info, renderMath = true) {
-			currentBody = stripFrontmatter(body); packageBody = localizeImages(currentBody, info, true); const content = $("document-content"); content.innerHTML = renderMarkdown(currentBody); if (renderMath) typeset(content);
-			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, info); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
-			renderFigures(info, seen); setDownload(currentBody, recordId + "-" + $("document").value); const count = array(info.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
+			currentBody = cleanDisplay(stripFrontmatter(body)); currentInfo = {...info, figures: documentFigures(currentBody, info)}; packageBody = localizeImages(currentBody, currentInfo, true); const content = $("document-content"); content.innerHTML = renderMarkdown(currentBody); if (renderMath) typeset(content);
+			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, currentInfo); if (local !== original) { img.src = local; seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
+			renderFigures(currentInfo, seen); setDownload(currentBody, recordId + "-" + $("document").value); const count = array(currentInfo.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
 		}
 		function tarHeader(name, size) {
 			const h = new Uint8Array(512), enc = new TextEncoder(); const put = (at, width, value) => h.set(enc.encode(value).slice(0,width), at); const oct = (value, width) => value.toString(8).padStart(width - 1, "0") + "\0";

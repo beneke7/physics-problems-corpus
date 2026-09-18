@@ -23,7 +23,7 @@ provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overla
 solution_language: en
 ---
 
-[4] Problem 29.   01m   USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
+[4] Problem 29.   01m    USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
     carefully read the official solution, which describes how center of mass work is applied.
 
 

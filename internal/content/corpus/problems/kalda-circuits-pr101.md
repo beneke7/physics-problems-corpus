@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine all the natural frequencies of the circuit shown in Figure. You may assume that all the capacitors and inductances are ideal, and that the following strong inequalities are satisfied: $C_{1} \ll C_{2}$, and $L_{1} \ll L_{2}$. Note that your answers need to be simplified according to these strong inequalities.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr101-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr101-fig1.jpg)

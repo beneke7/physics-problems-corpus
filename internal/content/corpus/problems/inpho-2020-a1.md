@@ -44,7 +44,7 @@ $$
 P=
 $$
     (d) One mole of this gas executes a Carnot cycle [7] ABCDA between reservoirs at temperatures $T_{1}$ and $T_{2}\left(T_{1}>T_{2}\right)$. Obtain the heat change in the process AB $\left(Q_{\mathrm{AB}}\right)$ and work done by the system in the processes AB and BC $\left(W_{\mathrm{AB}}, W_{\mathrm{BC}}\right)$ of the cycle. Express your answers only in terms of temperatures $T_{1}, T_{2}$, volumes $V_{A}, V_{B}$, and the other constants.
-![](inpho-2020-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2020-a1-fig01.png)
     $Q_{\mathrm{AB}}=$
 
 $$

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201209"
 verification_status: pending
 ---
 
-A body rolling along a horizontal surface reaches a slope. (The slope joins the horizontal smoothly.) In which case will the body get higher, if there is friction or if there is no friction? Reason why. 
+A body rolling along a horizontal surface reaches a slope. (The slope joins the horizontal smoothly.) In which case will the body get higher, if there is friction or if there is no friction? Reason why.
  (3 pont)

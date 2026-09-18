@@ -19,4 +19,4 @@ verification_status: pending
 
 There are three identical lamps which are connected to a battery as shown in figure; the current through each lamp is $I$. Find the currents immediately after the key is opened.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr71-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr71-fig1.jpg)

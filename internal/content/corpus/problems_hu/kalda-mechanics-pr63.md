@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $M$ tömegű test súrlódásmentes vízszintes felületen fekszik. Egy fonal az egyik sarkán fut át; egyik végét a falhoz, másik végét pedig egy $m$ tömegű kis testhez erősítettük, amely a függőlegessel $\alpha$ szöget zár be. Kezdetben a megfeszített fonalat és a testeket nyugalomban tartjuk, majd elengedjük őket. Milyen tömegarány mellett marad $\alpha$ a további mozgás során változatlan?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr63-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr63-fig1.jpg)

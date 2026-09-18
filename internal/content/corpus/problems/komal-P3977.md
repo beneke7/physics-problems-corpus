@@ -22,5 +22,5 @@ verification_status: flagged
 techniques: [superposition, differential-element]
 ---
 
-tional acceleration if the radius of the sphere is 10 km, and the centre of the sphere is 11 km below the surface of the Earth. Calculate the change in the gravitational acceleration exactly above the oil field and 20 km away from this point. 
+tional acceleration if the radius of the sphere is 10 km, and the centre of the sphere is 11 km below the surface of the Earth. Calculate the change in the gravitational acceleration exactly above the oil field and 20 km away from this point.
  (5 pont)

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame, extremization]
 ---
 
-The components of the circuit shown in the figure are ideal. Initially, one of the capacitors is charged to $q_0$, and the other capacitor is uncharged. 
+The components of the circuit shown in the figure are ideal. Initially, one of the capacitors is charged to $q_0$, and the other capacitor is uncharged.
 
- $a$) What is the maximum current after closing switch K? 
- $b$) How long after closing the switch does the current first reach its maximum value? 
+ $a$) What is the maximum current after closing switch K?
+ $b$) How long after closing the switch does the current first reach its maximum value?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5486-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5486-fig1.gif)

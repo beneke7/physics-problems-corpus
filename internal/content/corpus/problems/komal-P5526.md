@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Starting from rest and accelerating uniformly, a motorcycle travelled $13~\mathrm{m}$ in the 7th second of its motion. 
- $a)$ How much distance does it cover in the 11th second? 
- $b)$ What is the acceleration of the motorcycle at the end of the 11th second, if its path is a circle with radius $120~\mathrm{m}$? 
+Starting from rest and accelerating uniformly, a motorcycle travelled $13~\mathrm{m}$ in the 7th second of its motion.
+ $a)$ How much distance does it cover in the 11th second?
+ $b)$ What is the acceleration of the motorcycle at the end of the 11th second, if its path is a circle with radius $120~\mathrm{m}$?
  (4 pont)

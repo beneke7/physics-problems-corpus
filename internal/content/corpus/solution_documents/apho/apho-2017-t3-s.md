@@ -61,7 +61,8 @@ Consider an arbitrary initial rotation of the stage with angular momentum 𝐿 (
 
 
                                                1
-at this point is assumed to be empty. No forces or torques act upon the stage.
+
+at this point is assumed to be empty. No forces or torques act upon the stage.
 
 
                                                               L
@@ -113,7 +114,8 @@ of the angular momentum 𝐿 and cos 𝜃.
 
 
                                                   2
-                       𝐽𝑥 𝜔𝑥2 𝐽𝑦 𝜔𝑦2   𝐿2𝑥   𝐿2𝑦   𝐿2    𝐿2
+
+                       𝐽𝑥 𝜔𝑥2 𝐽𝑦 𝜔𝑦2   𝐿2𝑥   𝐿2𝑦   𝐿2    𝐿2
                                                                    (︂           )︂
                                                                         1   1
       𝐸(𝜃) = 𝐸𝑥 + 𝐸𝑦 =       +       =     +     =     +                  −          cos2 𝜃.   (A5)
@@ -155,7 +157,8 @@ vector remains constant.
 
 
                                                3
-                                               y1
+
+                                               y1
 
                                           L
 
@@ -208,7 +211,8 @@ reference frame 𝐶𝑥1 𝑦1 as functions of time.
 
 
                                                4
-   Whence
+
+   Whence
                                                        𝐿
                                                 Ω=        .                                 (A9)
                                                        𝐽𝑦
@@ -264,7 +268,8 @@ of 𝐿 and 𝜃(0) = 𝜃1 ∈ (0, 𝜋/2) .
 
 
                                                    5
-  2.(0.6 pts) Calculate the value 𝜔2 of angular velocity 𝜔 after the transient process, given
+
+  2.(0.6 pts) Calculate the value 𝜔2 of angular velocity 𝜔 after the transient process, given
 that initial angular velocity 𝜔(0) = 𝜔1 = 1 𝑟𝑎𝑑/𝑠 makes an angle of 𝛾(0) = 𝛾1 = 30∘ with the
 stage’s symmetry axis. The moments of inertia are 𝐽𝑥 = 4200 𝑘𝑔 · 𝑚2 and 𝐽𝑦 = 15 000 𝑘𝑔 · 𝑚2 .
 
@@ -309,7 +314,8 @@ making angle 𝛼 with the direction of 𝐵
 
 
                                                 6
-                                    B
+
+                                    B
                                     α           B
                                                                     R
 
@@ -360,7 +366,8 @@ Provide the answer for ⃗𝜇 in the form of projections on 𝑥𝑦𝑧 (see F
 
 
                                                         7
-   The ring slice resistance is
+
+   The ring slice resistance is
                                                2𝜋𝜌𝑅 sin 𝜙
                                         𝑑𝑟 =              .                           (C2)
                                                  𝐷𝑅𝑑𝜙
@@ -413,7 +420,8 @@ the form of projections on 𝑥𝑦𝑧 (see Fig. 4).
 
 
                                                  8
-                          ⃗ = [⃗𝜇, ⃗
+
+                          ⃗ = [⃗𝜇, ⃗
    The torque is given by 𝑀        𝐵]. It is directed along the 𝑧 axis and equals
                                                    2𝜋
                               𝑀𝑧 = 𝜇𝐵 sin 𝛼 =         𝐷𝑅4 𝐵 𝐵˙ sin 𝛼.                    (C9)
@@ -466,7 +474,8 @@ value of the Earth’s magnetic field 𝐵 at the point where the orbit crosses 
 
 
                                                9
-𝑋𝑍 is 𝐵0 = 20 𝜇𝑇 . Find 𝐵   ⃗ 𝐸 (𝑢) at a current position of the stage in the orbit defined by
+
+𝑋𝑍 is 𝐵0 = 20 𝜇𝑇 . Find 𝐵   ⃗ 𝐸 (𝑢) at a current position of the stage in the orbit defined by
 the angle 𝑢 as shown in Fig. 6. The positive direction of 𝑢 is along with the orbital motion.
 Provide the answer in the form of the projections of 𝐵   ⃗ 𝐸 (𝑢) on 𝑋𝑌 𝑍 axes.
   Note: Magnetic field of a dipole at point ⃗𝑟 is given by
@@ -533,7 +542,8 @@ of 2𝑢 instead of 𝑢.
 
 
                                                   10
-material is used for its cryogenic fuel tank. We, therefore, consider the stage’s interaction with
+
+material is used for its cryogenic fuel tank. We, therefore, consider the stage’s interaction with
 the geomagnetic field as that of the spherical shell with wall thickness 𝐷 = 2 𝑚𝑚, radius
 𝑅 = 4 𝑚 and resistivity 𝜌 = 2.7 · 10−8 Ω · 𝑚.
   2.(1.3 pts) Find the torque 𝑀   ⃗ (𝑢) acting on the stage, as it rotates with angular velocity 𝜔
@@ -591,7 +601,8 @@ change in the stage’s angular velocity over one orbital period is negligibly s
 
 
                                                 11
-   We will average 𝑀𝑍 over 𝑢 and use the obtained expression instead of 𝑀𝑍 . This helps
+
+   We will average 𝑀𝑍 over 𝑢 and use the obtained expression instead of 𝑀𝑍 . This helps
    getting rid of the members, containing cos 2𝑢:
                                                   (︂       )︂
                                        2𝜋     2 4    9𝜋 5𝜔

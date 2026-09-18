@@ -44,7 +44,9 @@ the drift at the constant velocity ⃗𝑢𝐷 . Hence:
 This information, together with the independence of the period of the circular motion on 𝑢′
 allows us to plot the electron trajectory in both cases (green and red, for cases 1 and 2,
 respectively):
-     Theory IPhO 2019                                                                   Q1-1
+
+
+     Theory IPhO 2019                                                                   Q1-1
                                                                                     S2-2
 A.3. The velocity of the electron in a frame of reference where the motion is approximately
 circular is u ' . From A.2 we get that uD  u '  vmax and uD  u '  vmin , hence
@@ -85,7 +87,9 @@ the anode.
                 anode                                                               radius
               A                                             X
               B                                             X
-         Theory IPhO 2019                                                                Q1-1
+
+
+         Theory IPhO 2019                                                                Q1-1
                                                                                      S2-3
                  C                     X
                  D                     X
@@ -123,7 +127,9 @@ points               angle decreases           angle increases                  
     𝜔 = 4 / 2 = 2 𝑓 = 3.85 ⋅ 109 𝑟𝑎𝑑/𝑠. Each spoke
     performs a full rotation around the magnetron
     after four periods of the alternating field.
-    Theory IPhO 2019                                                                               Q1-1
+
+
+    Theory IPhO 2019                                                                               Q1-1
                                                                                                S2-4
 A.7. The magnitude of the electric field in the region considered, 𝑟 = (𝑏 + 𝑎)/2, is the
 magnitude of the static field, that is, 𝐸 = 𝑉0 /(𝑏 − 𝑎), giving rise to an azimuthal drift velocity of
@@ -163,7 +169,9 @@ B.4. Similarly to the previous task, the energy flux corresponding to the given 
                                                          2 𝑟 0 0
 Equating the argument of the exponent in the last expression with the result of the previous
 task, and using the given approximation tan 𝛿 ≈ sin 𝛿 leads to 𝛽 = 𝜀𝑟 .
-       Theory IPhO 2019                                                               Q1-1
+
+
+       Theory IPhO 2019                                                               Q1-1
                                                                                   S2-5
 B.5.
 1. Using previous results, the radiation power per unit area is reduced to half of its 𝑧 = 0 value

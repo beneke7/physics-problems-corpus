@@ -525,7 +525,7 @@ to the left.
 
 Photocletric Affert.
 
-## ![](https://cdn.mathpix.com/cropped/5a95d203-447c-44a0-96c9-588284d01d82-12.jpg?height=248&width=139&top_left_y=636&top_left_x=1688) <br> Comment with digram.]
+## ![](https://cdn.mathpix.com/cropped/5a95d203-447c-44a0-96c9-588284d01d82-12.jpg?height=248&width=139&top_left_y=636&top_left_x=1688)  —  Comment with digram.]
 
 ![](https://cdn.mathpix.com/cropped/5a95d203-447c-44a0-96c9-588284d01d82-12.jpg?height=409&width=291&top_left_y=1594&top_left_x=1771)
 

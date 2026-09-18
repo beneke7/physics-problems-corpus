@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, strategic-heuristics]
 ---
 
-Is it possible that the night on the Moon is so dark that only the light emitted by the stars can be seen 
- $a)$ if it is observed from the side of the Moon which faces towards the Earth, or 
- $b)$ if it is observed from the other side? 
+Is it possible that the night on the Moon is so dark that only the light emitted by the stars can be seen
+ $a)$ if it is observed from the side of the Moon which faces towards the Earth, or
+ $b)$ if it is observed from the other side?
  (4 pont)

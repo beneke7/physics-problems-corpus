@@ -19,4 +19,4 @@ verification_status: pending
 
 A light rod with length $3 l$ is attached to the ceiling by two strings with equal lengths. Two balls with masses $m$ and $M$ are fixed to the rod, the distance between them and their distances from the ends of the rod are all equal to $l$. Find the tension in the second string right after the first has been cut.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr31-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr31-fig1.jpg)

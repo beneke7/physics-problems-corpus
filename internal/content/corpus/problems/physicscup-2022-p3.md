@@ -22,5 +22,5 @@ verification_status: unverified
 ---
 By Jaan Kalda  (TalTech) in collaboration with Máté Vigh
 
-A photon rocket of rest mass $m$ switches on the engines and accelerates in a certain direction; it is not known how the magnitude of the thrust is changed in time, and how much fuel is burned at this stage. Then, the direction of thrust is changed by an angle  $\alpha$, as measured on board of the rocket, and another portion of fuel is burned until the speed of the rocket equals to  $\frac 45c$ and its remaining rest mass is equal to  $\frac 14m$. What is the minimal value of the angle  $\alpha$ by which such a final state can be reached? 
+A photon rocket of rest mass $m$ switches on the engines and accelerates in a certain direction; it is not known how the magnitude of the thrust is changed in time, and how much fuel is burned at this stage. Then, the direction of thrust is changed by an angle  $\alpha$, as measured on board of the rocket, and another portion of fuel is burned until the speed of the rocket equals to  $\frac 45c$ and its remaining rest mass is equal to  $\frac 14m$. What is the minimal value of the angle  $\alpha$ by which such a final state can be reached?
 Remark:  a photon rocket converts part of its rest mass (e.g by electron-positron annihilation) into photons which are used as propellants.

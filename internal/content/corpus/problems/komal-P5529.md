@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, cross-domain-analogy]
 ---
 
-A 7-tonne helicopter can hover in one place if its engine produces $1000~\mathrm{kW}$ of power. Estimate the power required to hover the helicopter in one place if there is an additional 4 tonnes of weight in it. 
+A 7-tonne helicopter can hover in one place if its engine produces $1000~\mathrm{kW}$ of power. Estimate the power required to hover the helicopter in one place if there is an additional 4 tonnes of weight in it.
  (5 pont)

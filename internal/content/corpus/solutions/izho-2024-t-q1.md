@@ -34,27 +34,27 @@ where the moment of inertia of the bicone is introduced
 𝑚𝑚𝑅𝑅2
 . (4)
 The change in potential energy of the bicone during its motion is
-𝑊𝑊 𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 �1 −
+𝑊𝑊 𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚  1 −
 𝑟𝑟
 𝑅𝑅
-�, (5)
+ , (5)
 and according to the law of conservation of energy the relation must be satisfied
 𝑊𝑊𝑘𝑘 + 𝑊𝑊 𝑟𝑟 = −𝑊𝑊 𝑝𝑝. (6)
 From the geometric relationships the relation between the rolling radius 𝑟𝑟 and the coordinate 𝑥𝑥 is
 obtained in the following form
-𝑟𝑟 = 𝑅𝑅 �1 −
+𝑟𝑟 = 𝑅𝑅  1 −
 𝑥𝑥
 ℎ
-tanγ�, (7)
+tanγ , (7)
 so, putting together equations (1)-(7), we get
-𝑣𝑣(𝑥𝑥) = �𝑔𝑔𝑔𝑔
+𝑣𝑣(𝑥𝑥) =  𝑔𝑔𝑔𝑔
 𝑥𝑥
 ℎ
 tan γ
-1+3/10�1−
+1+3/10 1−
 𝑥𝑥
 ℎ
-tan γ�
+tan γ
 2. (8)
 In particular, for the value 𝑥𝑥0 = 50.0 cm the calculations
 𝑣𝑣0 = 𝑣𝑣(𝑥𝑥0) = 42.2 cm/s. (9)
@@ -68,17 +68,17 @@ the rolling radius is found as
 𝑚𝑚𝑅𝑅2
 𝐼𝐼
 ∙
-�1−
+ 1−
 𝑟𝑟
 𝑅𝑅
-�
-�1+
+
+ 1+
 𝑚𝑚𝑟𝑟2
 𝐼𝐼
-�
+
 , (10)
 which has a maximum value at 𝑟𝑟 = 0, equal to
-𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �
+𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =
 20𝑔𝑔
 3𝑅𝑅
 = 40.4 rad/s. (11)
@@ -99,24 +99,24 @@ Formula (4): 𝐼𝐼 =
 10
 𝑚𝑚𝑅𝑅2
 0.5
-Formula (5): 𝑊𝑊 𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚�1 −
+Formula (5): 𝑊𝑊 𝑝𝑝 = −𝑚𝑚𝑚𝑚𝑚𝑚 1 −
 𝑟𝑟
 𝑅𝑅
-� 0.2
+  0.2
 Formula (6): 𝑊𝑊𝑘𝑘 + 𝑊𝑊 𝑟𝑟 = −𝑊𝑊 𝑝𝑝 0.2
-Formula (7): 𝑟𝑟 = 𝑅𝑅�1 −
+Formula (7): 𝑟𝑟 = 𝑅𝑅 1 −
 𝑥𝑥
 ℎ
-tanγ� 0.5
+tanγ  0.5
 XX International Zhautykov Olympiad/Theoretical Competition с. 2/14
-Formula (8): 𝑣𝑣(𝑥𝑥) = �𝑔𝑔𝑔𝑔
+Formula (8): 𝑣𝑣(𝑥𝑥) =  𝑔𝑔𝑔𝑔
 𝑥𝑥
 ℎ
 tanγ
-1+0,3/�1−
+1+0,3/ 1−
 𝑥𝑥
 ℎ
-tan γ�
+tan γ
 2 0.2
 Formula (9): 𝑣𝑣0 = 42.2 cm/s 0.2
 Formula (10): 𝜔𝜔2
@@ -127,16 +127,16 @@ Formula (10): 𝜔𝜔2
 𝑚𝑚𝑅𝑅2
 𝐼𝐼
 ∙
-�1−
+ 1−
 𝑟𝑟
 𝑅𝑅
-�
-�1+
+
+ 1+
 𝑚𝑚𝑟𝑟2
 𝐼𝐼
-�
+
 0.2
-Formula (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 = �
+Formula (11): 𝜔𝜔𝑚𝑚𝑚𝑚𝑚𝑚 =
 20𝑔𝑔
 3𝑅𝑅
 0.2
@@ -235,16 +235,16 @@ Writing (18)-(20) together and using equations (3), (6), (7), (9), (10), (14) an
 𝑇𝑇2𝑉𝑉2
 𝑑𝑑𝑉𝑉2 = 0, (21)
 whose integration gives the final temperature
-𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �
+𝑇𝑇𝑓𝑓 = 𝑇𝑇0
 𝑇𝑇0
 𝑇𝑇1
-�
+
 𝑇𝑇0
 5𝑇𝑇1
-�
+
 𝑇𝑇0
 𝑇𝑇2
-�
+
 𝑇𝑇0
 5𝑇𝑇2
 = 290 K. (22)
@@ -273,16 +273,16 @@ The total change in entropy of an ideal gas in both parts of the vessel is equal
 𝑉𝑉02
 = 0, (25)
 from where, using (6), (7), (10), (14), (15) we obtain the final temperature of the system
-𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �
+𝑇𝑇𝑓𝑓 = 𝑇𝑇0
 𝑇𝑇0
 𝑇𝑇1
-�
+
 𝑇𝑇0
 5𝑇𝑇1
-�
+
 𝑇𝑇0
 𝑇𝑇2
-�
+
 𝑇𝑇0
 5𝑇𝑇2
 = 290 K. (26)
@@ -350,21 +350,21 @@ Formula (21):
 𝑇𝑇
 𝑇𝑇2𝑉𝑉2
 𝑑𝑑𝑉𝑉2 = 0 0.1
-Formula (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �
+Formula (22): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0
 𝑇𝑇0
 𝑇𝑇1
-�
+
 𝑇𝑇0
 5𝑇𝑇1
-�
+
 𝑇𝑇0
 𝑇𝑇2
-�
+
 𝑇𝑇0
 5𝑇𝑇2
 0.2
 Formula (23): 𝐴𝐴′
-= 𝜈𝜈𝜈𝜈𝑉𝑉�𝑇𝑇𝑓𝑓 − 𝑇𝑇0� = 5𝑃𝑃0𝑉𝑉0
+= 𝜈𝜈𝜈𝜈𝑉𝑉 𝑇𝑇𝑓𝑓 − 𝑇𝑇0  = 5𝑃𝑃0𝑉𝑉0
 𝑇𝑇𝑓𝑓−𝑇𝑇0
 𝑇𝑇0
 0.2
@@ -394,21 +394,21 @@ Formula (25): ∆𝑆𝑆 = 𝜈𝜈1𝐶𝐶𝑉𝑉 ln
 𝑉𝑉0
 𝑉𝑉02
 = 0 0.4
-Formula (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0 �
+Formula (26): 𝑇𝑇𝑓𝑓 = 𝑇𝑇0
 𝑇𝑇0
 𝑇𝑇1
-�
+
 𝑇𝑇0
 5𝑇𝑇1
-�
+
 𝑇𝑇0
 𝑇𝑇2
-�
+
 𝑇𝑇0
 5𝑇𝑇2
 0.2
 Formula (27): 𝐴𝐴′
-= 𝜈𝜈𝜈𝜈𝑉𝑉�𝑇𝑇𝑓𝑓 − 𝑇𝑇0� = 5𝑃𝑃0𝑉𝑉0
+= 𝜈𝜈𝜈𝜈𝑉𝑉 𝑇𝑇𝑓𝑓 − 𝑇𝑇0  = 5𝑃𝑃0𝑉𝑉0
 𝑇𝑇𝑓𝑓−𝑇𝑇0
 𝑇𝑇0
 0.2
@@ -459,13 +459,13 @@ we find that 𝑛𝑛 <
 𝑡𝑡2
 Δ𝑡𝑡
 + 1, which means that the number of loads 𝑛𝑛 should not exceed
-𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �
+𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =
 𝑡𝑡2
 Δ𝑡𝑡
-+ 1� = �
++ 1  =
 𝑡𝑡1+2Δ𝑡𝑡
 Δ𝑡𝑡
-� = [10,6…] = 10. (9)
+  = [10,6…] = 10. (9)
 The lifting time of 𝑛𝑛 = 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 loads is equal to
 𝑡𝑡𝑚𝑚𝑚𝑚𝑚𝑚 =
 𝑡𝑡1𝑡𝑡2
@@ -491,13 +491,13 @@ Formula (7): 𝑡𝑡𝑛𝑛 =
 𝑡𝑡2−(𝑛𝑛−1)Δ𝑡𝑡
 0.2
 Formula (8): 𝑡𝑡𝑛𝑛 > 0 0.4
-Formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = �
+Formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 =
 𝑡𝑡2
 Δ𝑡𝑡
-+ 1� = �
++ 1  =
 𝑡𝑡1+2Δ𝑡𝑡
 Δ𝑡𝑡
-� 0.4
+  0.4
 Numerical value in formula (9): 𝑛𝑛𝑚𝑚𝑚𝑚𝑚𝑚 = 10 0,2
 Formula (10): 𝑡𝑡𝑚𝑚𝑚𝑚𝑚𝑚 =
 𝑡𝑡1𝑡𝑡2

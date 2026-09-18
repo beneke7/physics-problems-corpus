@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, differential-element, limiting-and-special-cases]
 ---
 
-A 20 cm long copper rod with a cross section of 3 cm${}^2$ is surrounded by a good insulating sheath. The rod is held vertically and suspended at one end such that the other is in a glass containing melting ice; thus it is kept at a constant temperature of 0 ${}^\circ$C. To what temperature does the other end of the rod warms up when heated with a small 100 W filament coil? (The required constants can be found in tables or on the internet.) 
+A 20 cm long copper rod with a cross section of 3 cm${}^2$ is surrounded by a good insulating sheath. The rod is held vertically and suspended at one end such that the other is in a glass containing melting ice; thus it is kept at a constant temperature of 0 ${}^\circ$C. To what temperature does the other end of the rod warms up when heated with a small 100 W filament coil? (The required constants can be found in tables or on the internet.)
  (3 pont)

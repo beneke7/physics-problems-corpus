@@ -43,9 +43,9 @@ Ideally we should match the optical and the digital resolution so that neither
 aspect is overspecified. Taking the given optical resolution in the expression
 for the digital resolution, we obtain
 
-                                        2
+                                         2
                                 L
-                                  
+
 3.2                          N=              ≈ 823 Mpix .
                                 ∆x
 
@@ -57,7 +57,9 @@ have ` ≥ ∆x, that is: F ] ≤ F0 with
                           1.22λ N0    N0
 
                                        1
-Since this F ] value is not available, we choose the nearest value that has a
+
+
+Since this F ] value is not available, we choose the nearest value that has a
 higher optical resolution,
 
 
@@ -103,7 +105,9 @@ the egg. This gives
 
 
                                      2
-3.7                    P = 4πR2 J = 4πκR(T1 − T0 ) ≈ 19.3 W
+
+
+3.7                    P = 4πR2 J = 4πκR(T1 − T0 ) ≈ 19.3 W
 
 for the amount of energy transferred to the egg per unit time. From this we
 get an estimate for the time τ required for the necessary amount of heat to
@@ -146,7 +150,9 @@ Capillary Vessels        Considering all capillaries, one has
                            Rall =      = 107 Pa m−3 s .
                                     D
                                           3
-All capillaries are assumed to be connected in parallel. The analogy between
+
+
+All capillaries are assumed to be connected in parallel. The analogy between
 Poiseuille’s and Ohm’s laws then gives the hydraulic resistance R of one
 capillary as
                                     1      N
@@ -198,7 +204,9 @@ to conclude that pγ−1 ∝ T γ . Upon differentiation this gives (γ −1)   
 so that
 
                                        4
-                                dT            dp
+
+
+                                dT            dp
 3.14                               = (1 − 1/γ) .
                                 T             p
 

@@ -35,14 +35,14 @@ where $q$ is the magnitude of the charge on an electron, $k_{B}$ is Boltzmann's 
 a. On the answer sheets, sketch a graph of the current versus voltage for low temperature values $k_{B} T \ll q V_{0}$, clearly indicating any asymptotic behavior.
 
 Shown is a schematic for the device. Positive voltage means that the electric potential of the left hand side of the device is higher than the right hand side. For this device, $I_{0}=25 \mu \mathrm{~A}$ and $V_{0}=1.0 \mathrm{~V}$.
-![](usapho-2018-a2-fig01.png)
+![](../../figures/usapho/figures/usapho-2018-a2-fig01.png)
 
 Below is a circuit made up of these elements. The voltage supplied the circuit is sinusoidal, $V_{A B}=V_{A}-V_{B}=V_{s} \sin \omega t$, and is also shown on answer sheets. The resistance is $R=5.0 \Omega$ and $V_{s}=5.0 \mathrm{~V}$.
-![](usapho-2018-a2-fig02.png)
+![](../../figures/usapho/figures/usapho-2018-a2-fig02.png)
 
 b. Sketch the potential difference $V_{C D}=V_{C}-V_{D}$ as a function of time on the answer sheet. For your convenience, $V_{A B}$ is shown in light gray. Assume that $V_{A B}$ has been running for a long time.
 
 A capacitor is connected to the circuit as shown below. The capacitance is $C=50 \mathrm{mF}$.
-![](usapho-2018-a2-fig03.png)
+![](../../figures/usapho/figures/usapho-2018-a2-fig03.png)
 
 c. Sketch the new potential difference $V_{C D}=V_{C}-V_{D}$ as a function of time on the answer sheet. For your convenience, $V_{A B}$ is shown in light gray. Assume that $V_{A B}$ has been running for a long time.

@@ -101,10 +101,10 @@ y(x) ≈ −
 2
 E0
 F
-
+
 Fx
 p0c
-2
+ 2
 ≈ −
 1
 2
@@ -120,7 +120,7 @@ mv2
 0
 x2
 which is indeed the usual parabola.
-[5] Problem 26.  h 1 0IPhO 1994, problem 1. A clean and neat relativistic dynamics problem. Print
+[5] Problem 26.   h 1 0IPhO 1994, problem 1. A clean and neat relativistic dynamics problem. Print
 out the custom answer sheets before starting.
 Remark
 Problem 26 is a nice model for mesons, particles composed of two quarks. It is a simple

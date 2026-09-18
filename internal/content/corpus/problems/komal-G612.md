@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-From the window of a house close to the M3 motorway stretch, starting at Budapest, we observe a Boeing 737 – ready to land at Ferihegy – flying above us. A crow permanently follows the plane (seemingly the ``bird flies next to the plane''), and the wingspan of the crow seems to have the same length as the length of one of the wings of the plane. Estimate at what height and at what speed the crow flies. (Look up the missing data.) 
+From the window of a house close to the M3 motorway stretch, starting at Budapest, we observe a Boeing 737 – ready to land at Ferihegy – flying above us. A crow permanently follows the plane (seemingly the ``bird flies next to the plane''), and the wingspan of the crow seems to have the same length as the length of one of the wings of the plane. Estimate at what height and at what speed the crow flies. (Look up the missing data.)
  (3 pont)

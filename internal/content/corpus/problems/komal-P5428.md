@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-Imagine that on a day of an equinox you are lying in the sand on the beach of an equatorial country and observe the sunset. The sea is very smooth, the sky is clear blue, and at the moment when the last ray of the Sun disappears over the horizon, you suddenly stand up, so you can see the Sun's upper rim again. Estimate how long it takes for the Sun after you stand up to disappear again. 
+Imagine that on a day of an equinox you are lying in the sand on the beach of an equatorial country and observe the sunset. The sea is very smooth, the sky is clear blue, and at the moment when the last ray of the Sun disappears over the horizon, you suddenly stand up, so you can see the Sun's upper rim again. Estimate how long it takes for the Sun after you stand up to disappear again.
  (4 pont)

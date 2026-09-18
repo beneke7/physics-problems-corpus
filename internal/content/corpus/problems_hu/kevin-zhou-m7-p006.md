@@ -25,7 +25,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 Below is another perpetual motion machine, proposed centuries ago.
 
                                                      3
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
     The balls are less dense than víz. The balls on the left are pulled downward by gravity, while the
     balls on the right are pushed upward by the felhajtóerő.

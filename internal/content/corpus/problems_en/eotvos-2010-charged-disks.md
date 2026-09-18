@@ -25,7 +25,7 @@ In physics club, the topic is electromagnetic shielding. Looking at the two disk
 
 Gabi points out that the electric field extends over a larger region than the size of the charged objects, so she modifies Bea's idea by making the diameter of disk $C$ be, say, 25 cm, as shown in figure c). (The figure is not to scale.) According to Gabi, only then does the electric force on A and B drop to negligible values.
 
-![The three-disk arrangement](../../sources/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
+![The three-disk arrangement](../../figures/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
 
 a) What would we observe if we followed Bea's idea and placed a neutral metal disk $C$ of the same size as A and B between them, and then measured the force on A and B?
 

@@ -29,4 +29,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           eredmény? Ha igen, honnan tudjuk? Ha nem, hogyan lehetne finomítani ezt a modellt?
 
                                                        7
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts

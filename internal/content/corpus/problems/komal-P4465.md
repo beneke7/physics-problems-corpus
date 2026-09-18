@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201210"
 verification_status: pending
 ---
 
-Why can your breath be seen in cold weather? 
+Why can your breath be seen in cold weather?
  (3 pont)

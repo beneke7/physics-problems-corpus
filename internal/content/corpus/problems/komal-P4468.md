@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201210"
 verification_status: pending
 ---
 
-A circular piece of radius  r is cut out of a disc of radius R as shown in the figure. At what ratio of  r / R will the centre of mass of the remaining piece be closer to the centre of the disc than  R /100? 
+A circular piece of radius  r is cut out of a disc of radius R as shown in the figure. At what ratio of  r / R will the centre of mass of the remaining piece be closer to the centre of the disc than  R /100?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4468-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4468-fig1.gif)

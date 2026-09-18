@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200505"
 verification_status: pending
 ---
 
-There is electric current I flowing in a very long circular pipe conductor. What is the magnitude of the magnetic induction vector inside the hollow? 
+There is electric current I flowing in a very long circular pipe conductor. What is the magnitude of the magnetic induction vector inside the hollow?
 
  (4 pont)

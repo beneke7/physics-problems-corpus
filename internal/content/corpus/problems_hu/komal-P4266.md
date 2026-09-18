@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4266. Egy villanymozdony vonóereje 57,6 km/h sebesség esetén 310 kN. A tápfeszültség 3,6 kV, a nyolc villanymotor mindegyikének tekercsében 230 A erősségű áram folyik. 
+P. 4266. Egy villanymozdony vonóereje 57,6 km/h sebesség esetén 310 kN. A tápfeszültség 3,6 kV, a nyolc villanymotor mindegyikének tekercsében 230 A erősségű áram folyik.
  Határozzuk meg a mozdony hatásfokát!

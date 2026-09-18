@@ -50,7 +50,9 @@ Part C: Measurement of angle, 
  Shirish Pathare (HBCSE, Mumbai)and K G M Nair (CMI, Chennai) were the principal authors of this problem. The
 contributions of the Academic Committee, Academic Development Group and the International Board are gratefully
 acknowledged.
-                                             S E-II
+
+
+                                             S E-II
                                                                                                               Page 2 of 5
 
 Part D: Determination of the surface tension of the liquid
@@ -108,7 +110,9 @@ Part D: Determination of the surface tension of the liquid
                                                  2
                                       2                   L      2
                                                                
-                                         S E-II
+
+
+                                         S E-II
                                                                                        Page 3 of 5
 
 
@@ -150,7 +154,9 @@ Determination of surface tension:
                                               2               3
                                                           k
                                                       
-                                        S E-II
+
+
+                                        S E-II
                                                                                                                                             Page 4 of 5
 
 
@@ -210,7 +216,9 @@ No.         /Hz2           /m3
 
 
                                                                                                = 59.2 mN/m
-                                         S E-II
+
+
+                                         S E-II
                                                                                                                    Page 5 of 5
 
 Part E: Determination of the viscosity of the water sample

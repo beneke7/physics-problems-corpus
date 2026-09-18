@@ -16,7 +16,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2014_
 1) For a position y, the arriving rays form an
 angle α = y/L (we use the small-angle approx-
 imation; the angle is in radians). Then, the op-
-tical path dierence between the re
+tical path di erence between the re
 ected and
 direct rays is ∆ = 2lcosα ≈ 2Nλ − Nλα2
 .
@@ -39,10 +39,10 @@ r
 n + 0.5
 N
 ,
-where n = 0,1,... 
+where n = 0,1,...
  N.
 2) Since the rays of a given order number n
-form a 
+form a
 xed angle with the x-axis, the max-
 ima form on the screen concentric circles; the
 pitch between the neighbouring circles becomes

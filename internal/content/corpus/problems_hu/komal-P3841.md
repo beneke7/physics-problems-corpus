@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3841. P. 3841. Az ábrán látható áramkörben a K kapcsoló kezdetben hosszú ideig nyitva van, majd utána hosszú ideig zárva. Mennyivel változik meg a kondenzátor töltése? 
+P. 3841. P. 3841. Az ábrán látható áramkörben a K kapcsoló kezdetben hosszú ideig nyitva van, majd utána hosszú ideig zárva. Mennyivel változik meg a kondenzátor töltése?
 
- Adatok: C =10  F, , R $_{ b 1}$=0,2  , , R $_{ b 2}$=0,4  . 
+ Adatok: C =10  F, , R $_{ b 1}$=0,2  , , R $_{ b 2}$=0,4  .
  Tornyai Sándor fizikaverseny, \ Hódmezővásárhely
 
-![figure](../../raw_html/komal_figures/komal-P3841-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3841-fig1.gif)

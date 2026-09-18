@@ -24,7 +24,7 @@ One is a solid right circular cylinder made of aluminium, and the other is a tub
 made of copper with uniform wall thickness. The bodies are placed on a hard, rough
 incline with their axes horizontal.
 
-![figure](../../sources/eotvos/figures/eotvos-2013-rolling-cylinders-fig1.png)
+![figure](../../figures/eotvos/figures/eotvos-2013-rolling-cylinders-fig1.png)
 
 **a)** From what height should each body be released so that it reaches the bottom of
 the incline with a translational speed of $1\ \mathrm{m/s}$?

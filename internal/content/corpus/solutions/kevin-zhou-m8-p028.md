@@ -44,11 +44,11 @@ Kevin Zhou Physics Olympiad Handouts
 (d) Define ψ(t) = r(t)3. In parts (b) and (c), we have shown that the differential equation
 d
 dt
-
+
 ψ(t)
 du
 dt
-
+
 = −γu
 has three solutions, namely ẋ, ẏ, and ṙ. Any second-order linear differential equations only
 has two independent solutions. If ẋ and ẏ are not independent, the orbit is simply a line,
@@ -113,16 +113,16 @@ d
 dt
 (r3
 r̈) = −r2
-
+
 d
 dt
-γ
+ γ
 r
-
+
 +
 2γṙ
 r2
-
+
 = −γṙ
 just as desired.
 (d) Integrating both sides,

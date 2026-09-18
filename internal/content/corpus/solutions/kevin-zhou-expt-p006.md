@@ -30,7 +30,7 @@ is the difference of what you measure with the light bulb on, and this backgroun
 the filter is next to the bulb, it might partially scatter the bulb’s light, throwing off the angular
 distribution. Also, if the filter is covering the light meter, then it will also filter out non-red
 background light. This significantly lowers the background, allowing a more precise result.
-[2] Problem 7.  ^ 1 0AuPhO 2012, problem 14. Another question about practical measurements.
+[2] Problem 7.   ^ 1 0AuPhO 2012, problem 14. Another question about practical measurements.
 Now for some brief advice for more subtle experiments.
 Idea 2
 In trickier experiments, it might not be obvious how to perform a measurement. Sometimes,
@@ -150,7 +150,7 @@ rubrics generally demand you take the number of data points that gets you the mo
 result in the time available. Real data points make your answer more accurate, while fake
 data points don’t. So if the rubric wants at least 7, and you take 2 and fake 10 more, then
 the most likely result is that your final answer will be outside the window that gets credit.
-[2] Problem 8.  Y 1 0AuPhO 2016, problem 14. A simple question about plotting data. You’ll also
+[2] Problem 8.   Y 1 0AuPhO 2016, problem 14. A simple question about plotting data. You’ll also
 need the accompanying answer sheets.
 Idea 6
 Generally, students do too much formal error analysis, and not enough informal error analysis.

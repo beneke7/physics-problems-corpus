@@ -44,7 +44,8 @@ Part A: Alignment of the setup [Total Point = 1.0]
 
 APHO 2024                                                                   Page 1 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                        Time: 5.0 Hours
+
+Points: 20                                        Time: 5.0 Hours
 
 
 
@@ -66,7 +67,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                              Page 2 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                        Time: 5.0 Hours
+
+Points: 20                                                                        Time: 5.0 Hours
 
 
 
@@ -84,7 +86,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                               Page 3 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                         Time: 5.0 Hours
+
+Points: 20                                                                         Time: 5.0 Hours
 
 
 Part B: Effect of Spinning Speed [Total point = 6.5]
@@ -133,7 +136,8 @@ Part B: Effect of Spinning Speed [Total point = 6.5]
 
 APHO 2024                                                                               Page 4 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                        Time: 5.0 Hours
+
+Points: 20                                                                        Time: 5.0 Hours
 
 
 
@@ -157,7 +161,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                                 Page 5 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                    Time: 5.0 Hours
+
+Points: 20                                                                    Time: 5.0 Hours
 
 
 
@@ -190,14 +195,16 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                          Page 6 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                      Time: 5.0 Hours
+
+Points: 20                                      Time: 5.0 Hours
 
 
 
 
 APHO 2024                                            Page 7 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                           Time: 5.0 Hours
+
+Points: 20                                                           Time: 5.0 Hours
 
 
 
@@ -217,7 +224,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                 Page 8 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                      Time: 5.0 Hours
+
+Points: 20                                      Time: 5.0 Hours
 
 
 
@@ -229,7 +237,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                            Page 9 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                     Time: 5.0 Hours
+
+Points: 20                                                                     Time: 5.0 Hours
 
 
 
@@ -270,7 +279,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                          Page 10 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                 Time: 5.0 Hours
+
+Points: 20                                                                 Time: 5.0 Hours
 
 
 
@@ -301,7 +311,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                       Page 11 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                      Time: 5.0 Hours
+
+Points: 20                                      Time: 5.0 Hours
 
 
 
@@ -318,7 +329,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                           Page 12 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                          Time: 5.0 Hours
+
+Points: 20                                                          Time: 5.0 Hours
 
 
 
@@ -358,7 +370,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                               Page 13 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                               Time: 5.0 Hours
+
+Points: 20                                               Time: 5.0 Hours
 
 
 
@@ -381,7 +394,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                    Page 14 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                      Time: 5.0 Hours
+
+Points: 20                                                                      Time: 5.0 Hours
 
 
 Part C: Influence of Gyroscope Arm Length [Total Point = 2.1]
@@ -424,7 +438,8 @@ Part C: Influence of Gyroscope Arm Length [Total Point = 2.1]
 
 APHO 2024                                                                           Page 15 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                            Time: 5.0 Hours
+
+Points: 20                                                            Time: 5.0 Hours
 
 
 
@@ -452,7 +467,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                 Page 16 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                       Time: 5.0 Hours
+
+Points: 20                                                       Time: 5.0 Hours
 
 
 
@@ -464,7 +480,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                            Page 17 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                       Time: 5.0 Hours
+
+Points: 20                                                       Time: 5.0 Hours
 
 
 Part D: Influence of Gyroscope Disk weight [Total point = 3.7]
@@ -478,7 +495,8 @@ Part D: Influence of Gyroscope Disk weight [Total point = 3.7]
 
 APHO 2024                                                            Page 18 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                      Time: 5.0 Hours
+
+Points: 20                                                                      Time: 5.0 Hours
 
 
 
@@ -518,7 +536,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                           Page 19 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                             Time: 5.0 Hours
+
+Points: 20                                                             Time: 5.0 Hours
 
 
 
@@ -546,7 +565,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                  Page 20 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                           Time: 5.0 Hours
+
+Points: 20                                                                           Time: 5.0 Hours
 
 
 
@@ -558,7 +578,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                                Page 21 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                        Time: 5.0 Hours
+
+Points: 20                                                                        Time: 5.0 Hours
 
 
 
@@ -614,7 +635,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                              Page 22 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                          Time: 5.0 Hours
+
+Points: 20                                                          Time: 5.0 Hours
 
 
 Part E: Torque Induced by External Forces [Total point = 3.5]
@@ -655,7 +677,8 @@ Part E: Torque Induced by External Forces [Total point = 3.5]
 
 APHO 2024                                                               Page 23 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                              Time: 5.0 Hours
+
+Points: 20                                                              Time: 5.0 Hours
 
 
 
@@ -682,7 +705,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                   Page 24 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                            Time: 5.0 Hours
+
+Points: 20                                                            Time: 5.0 Hours
 
 
 
@@ -709,7 +733,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                 Page 25 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                           Time: 5.0 Hours
+
+Points: 20                                                                           Time: 5.0 Hours
 
 
 
@@ -745,7 +770,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                                                 Page 26 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                      Time: 5.0 Hours
+
+Points: 20                                      Time: 5.0 Hours
 
 
 
@@ -758,7 +784,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                           Page 27 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                        Time: 5.0 Hours
+
+Points: 20                                                        Time: 5.0 Hours
 
 
 Part F: Nutation phenomenon [Total point = 2.1]
@@ -779,7 +806,8 @@ Part F: Nutation phenomenon [Total point = 2.1]
 
 APHO 2024                                                             Page 28 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                        Time: 5.0 Hours
+
+Points: 20                                        Time: 5.0 Hours
 
 
 
@@ -818,7 +846,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                               Page 29 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                                 Time: 5.0 Hours
+
+Points: 20                                                                 Time: 5.0 Hours
 
 
 
@@ -835,7 +864,8 @@ Part G: Application of gyroscope in self balancing [Total Point = 1.7]
 
 APHO 2024                                                                      Page 30 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                  Time: 5.0 Hours
+
+Points: 20                                                  Time: 5.0 Hours
 
 
 
@@ -856,7 +886,8 @@ Experiment Marking Scheme, English (Official)
 
 APHO 2024                                                       Page 31 of 32
 Experiment Marking Scheme, English (Official)
-Points: 20                                                  Time: 5.0 Hours
+
+Points: 20                                                  Time: 5.0 Hours
 
 
 

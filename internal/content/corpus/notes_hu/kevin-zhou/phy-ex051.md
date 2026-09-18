@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 Példa. Potenciáláramlás gömb mellett. Tekintsünk egy U ẑ sebességű, aszimptotikusan egyenletes áramlást, amely az origóban lévő, r sugarú gömbnek ütközik. A Laplace-egyenlet megoldásának szokásos módszereivel
                                                           a3
-                                                            
+
                                      Ψ = U r cos θ 1 + 3
                                                          2r
 adódik, ahol θ a ẑ-től mért szög. Bernoulli tétele szerint a nyomás változása ∆p = ρ0 v 2 /2, és közvetlen számolással a gömb felszínén
@@ -33,7 +33,6 @@ adódik, ahol θ a ẑ-től mért szög. Bernoulli tétele szerint a nyomás vá
                                           2            4
 
 adódik. A gömbre ható eredő erő eltűnik; nincs ellenállási erő.
-112 4. Folytonos közegek mechanikája
 
 Megjegyzés. D’Alembert-paradoxon az a tény, hogy stacionárius potenciáláramlásban az ellenállási erő általában eltűnik. Ezt fent láttuk, és általánosan is be tudjuk bizonyítani. A testre ható ellenállási erő
                                      I                I
@@ -73,7 +72,6 @@ amely eltűnik, ha a tenzort a sebességmező mentén Lie-transzportáljuk. Vekt
                                    D̃u   ∂u
                                        =    + (v · ∇)u − (u · ∇)v.
                                    D̃t   ∂t
-113 4. Folytonos közegek mechanikája
 
 Az örvényesség mozgásegyenletéből és a rotáció szorzatszabályából kiindulva megmutatható, hogy D̃ω/D̃t = 0, ami konkrétan azt jelenti, hogy az örvényvonalakat magával viszi az áramlás. Intuitívan ennek az az oka, hogy az örvényesség a perdület lokális mértéke, és egy folyadékelem perdülete viszkozitás hiányában nem változhat. Továbbá tudjuk, hogy az örvényvonalak nem metszhetik egymást, és zárt hurkokat alkotnak, amint ez a füstkarikák mozgásán is látható. Figyelemre méltó, hogy a 19. század végén ezeket az eredményeket egy „mindenre kiterjedő örvényelmélet” alapjaként használták. Ebben az elméletben — amely az Egyesült Királyság legnagyobb fizikusai között népszerű volt — a különböző atomfajták az éter ideális folyadékot alkotó örvényvonalainak topológiailag különböző csomói. Bár az elmélet nem tudott sok mindent megmagyarázni a kémiából, fontos történeti öröksége van. Például a cambridge-i elméleti fizikai tanszéken többen foglalkoznak folyadékdinamikával, mint nagyenergiás fizikával vagy relativitáselmélettel.
 
@@ -113,7 +111,6 @@ Most ideális folyadékok összenyomható áramlását vizsgáljuk. Ebben az ese
 
       ahol µ a moláris tömeg. Az izoterm hangsebesség γ = 1 esetén adódik.
 
-114 4. Folytonos közegek mechanikája
 
  • Ha a sűrűségváltozás alakja
                                          ∆ρ = ρ1 sin(kx − ωt),
@@ -162,7 +159,6 @@ Ezután stacionárius összenyomható áramlást vizsgálunk.
                                                              γ−1 µ
     ahol µ a moláris tömeg.
 
-115 4. Folytonos közegek mechanikája
 
   • Általában egy ideális folyadékban mozgó test előtt van egy stagnálási pont, ahol a folyadék a testhez képest nyugalomban van. Mögötte is legalább egy ilyen pont található, de a test mögött az örvényképződés és turbulencia miatt az áramlás gyakorlatban nem stacionárius, ezért Bernoulli tétele ott nem alkalmazható.
 
@@ -175,7 +171,7 @@ Ezután stacionárius összenyomható áramlást vizsgálunk.
                                                 =1+    M
                                              T       2
     adódik, ahol M a kezdeti pont áramlásának Mach-száma. Izentrópikus áramlást feltételezve p ∝ ργ, amiből
-                                 γ/(γ−1)               1/(γ−1)
+                                   γ/(γ−1)                 1/(γ−1)
                            p       T              ρ        T
                               =               ,      =               .
                            p0     T0              ρ0      T0
@@ -186,7 +182,7 @@ Ezután stacionárius összenyomható áramlást vizsgálunk.
                                                =
                                             T0    γ−1
     adódik, amit az előző eredménnyel összevetve a lokális hőmérsékletet a hangsebességi pont hőmérsékletével kifejezve kapjuk:
-                                                            −1
+                                                              −1
                                  T           γ−1      2
                                     = 1+           (M − 1)        .
                                  T1          γ+1

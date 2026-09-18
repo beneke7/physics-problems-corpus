@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201102"
 verification_status: pending
 ---
 
-In a soap film experiment an originally semicircle shaped thread of length  L can be deformed to two semicircles with a force of  F exerted at the middle of the thread. Calculate the surface tension. 
+In a soap film experiment an originally semicircle shaped thread of length  L can be deformed to two semicircles with a force of  F exerted at the middle of the thread. Calculate the surface tension.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4319-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4319-fig1.gif)

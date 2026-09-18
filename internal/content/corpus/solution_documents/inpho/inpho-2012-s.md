@@ -34,10 +34,10 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
                 v
                 r
                     1−
-                         i !
+                           i !
                            7
                           13
-                            i−1 !
+                              i−1 !
                                             i =0,1,2,3,......
 
 
@@ -83,7 +83,7 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
       (c) α =
                γ−1
       (d) approximately 30.0 km
-                                      
+
                          Lmv    1     1
       (e) ps = ps0 exp            −
                           R    Ts0 T
@@ -91,8 +91,10 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
           would be the triple point of water.
 
                                               1
-    (f) At zc atmospheric pressure should be equal to saturation pressure. Condition is
-                           γ/1−γ                              
+
+
+    (f) At zc atmospheric pressure should be equal to saturation pressure. Condition is
+                             γ/1−γ
                    T0 − Γzc                    Lmv    1      1
               p0                   = ps0 exp            −
                       T0                        R    Ts0 T0 − Γzc
@@ -104,7 +106,7 @@ Please note that alternate/equivalent solutions may exist. Brief solutions are g
                            0               ρ>r
 
        Value of magnetic field =
-                                   
+
 
 
        where ρ is the radial distance.
@@ -174,7 +176,9 @@ HB
 
 
                                                    2
-5. (a) Since ~ω0 < Eb , hence no ionisation by a single photon is possible.
+
+
+5. (a) Since ~ω0 < Eb , hence no ionisation by a single photon is possible.
                                 eF0
    (b) Speed of electron = −        sin(ωt)
                                 mω

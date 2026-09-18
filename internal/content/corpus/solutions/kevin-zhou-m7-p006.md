@@ -69,7 +69,7 @@ dz
 dr
 = 0.
 We thus have dz/dr = ω2r/g, and integrating gives the desired result.
-[3] Problem 8.  W 1 0USAPhO 2013, problem A4. In order to make measurements, print out the
+[3] Problem 8.   W 1 0USAPhO 2013, problem A4. In order to make measurements, print out the
 problem before starting.
 2 Fluid Mechanics
 Next we’ll consider some situations involving fluids and other objects, where the fluids can be
@@ -88,13 +88,13 @@ Kevin Zhou Physics Olympiad Handouts
 Solution. Note that right when the water is full, the normal force between the ground and the
 container vanishes. Thus, the weight of the container and water is balanced by the normal force on
 the water. However, this is just ρgR(πR2), so we have
-
+
 M +
 2
 3
 πR3
 ρ
-
+
 g = ρgπR3
 , M =
 ρπR3
@@ -139,5 +139,5 @@ that does this, but showing it explicitly is messy and unenlightening. In this p
 meant to see intuitively that torque can be balanced.
 7
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 11.  W 1 0USAPhO 2004, problem A2.
-[3] Problem 12.  W 1 0USAPhO 2002, problem A4. Be careful with this one!
+[3] Problem 11.   W 1 0USAPhO 2004, problem A2.
+[3] Problem 12.   W 1 0USAPhO 2002, problem A4. Be careful with this one!

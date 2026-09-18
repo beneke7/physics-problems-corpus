@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-Approximately by what distance does the Earth's path diverges from the straight line in one second, during its revolution around the Sun? 
+Approximately by what distance does the Earth's path diverges from the straight line in one second, during its revolution around the Sun?
  (4 pont)

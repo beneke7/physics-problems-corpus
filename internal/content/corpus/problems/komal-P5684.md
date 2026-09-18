@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-The frame shown in the figure is made from a piece of wire, which has uniform thickness. Calculate the ratio of the equivalent resistances between points $A$ and $B$ and between points $A$ and $C$. 
+The frame shown in the figure is made from a piece of wire, which has uniform thickness. Calculate the ratio of the equivalent resistances between points $A$ and $B$ and between points $A$ and $C$.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5684-fig1.png)
+![figure](../../figures/komal/figures/komal-P5684-fig1.png)

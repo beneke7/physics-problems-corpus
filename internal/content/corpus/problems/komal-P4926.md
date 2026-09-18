@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction, conservation-laws]
 ---
 
-An electron is released in vacuum from a point, which is equidistant from the three metal walls of a great corner, (orthogonal trihedron) at a distance of $R=60$ cm from the vertex. How long does it take for the electron to fall into the vertex? 
+An electron is released in vacuum from a point, which is equidistant from the three metal walls of a great corner, (orthogonal trihedron) at a distance of $R=60$ cm from the vertex. How long does it take for the electron to fall into the vertex?
  (6 pont)

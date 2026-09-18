@@ -27,12 +27,12 @@ X
 M,
 vagyis a test Θ tehetetlenségi nyomatékának és β szöggyorsulásának szorzata a testre ható er®k forgatónyomatékainak
 összegével egyenl®.
-A feladat szempontjából lényegtelen, hogy a lapos teker s hány menetes, ezért a továbbiakban azt egy keretnek
+A feladat szempontjából lényegtelen, hogy a  lapos teker s  hány menetes, ezért a továbbiakban azt egy keretnek
 (1 menetes teker snek) tekintjük (3. ábra). Az ábrán felrajzoltuk azokat az er®ket, amelyek akkor hatnak a keretre,
 amikor az már α szögben kilendült eredeti függ®leges helyzetéb®l. Az oldalakra ható mg nehézségi er® tovább akarja
 forgatni a keretet, a fels® oldalra ható BIl er® vízszintes irányú (a többi oldalon ható mágneses er®knek nin s for-
 gatónyomatéka, így ezekkel nem kell tör®dnünk). Mivel a keretben folyó áram az elektromágneses induk ió miatt lép
-fel, ezért  Lenz törvénye szerint  a fels® oldalon ható er® visszafelé akarja forgatni a keretet. A hozzá tartozó er®kar
+fel, ezért   Lenz törvénye szerint   a fels® oldalon ható er® visszafelé akarja forgatni a keretet. A hozzá tartozó er®kar
 lcosα nagyságú, tehát:
 Θβ = mglsinα + 2mg
 l
@@ -59,7 +59,7 @@ U2 = −L
 ∆I
 ∆t
 .
-A kett® el®jeles összege adja IR-et a lassan változó áramokra is igaz Kir hho-féle huroktörvény szerint. Mivel a
+A kett® el®jeles összege adja IR-et a lassan változó áramokra is igaz Kir hho -féle huroktörvény szerint. Mivel a
 teker s anyaga most szupravezet®, ezért R = 0, tehát
 Bl
 ∆s
@@ -69,13 +69,13 @@ cosα − L
 ∆t
 = 0.
 Ha ebb®l akarjuk I-t kifejezni, akkor (∆s = l∆α behelyettesítése után) integrálnunk kell az egyenletet. Ennek a
-matematikai m¶veletnek a megkerülésével is eljuthatunk azonban a helyes összefüggéshez, ha azt vesszük 
+matematikai m¶veletnek a megkerülésével is eljuthatunk azonban a helyes összefüggéshez, ha azt vesszük
 gyelembe,
 hogy a keret A = l2
-nagyságú keresztmetszetén áthaladó teljes 
-uxus (amely a küls® mágneses tért®l származó 
+nagyságú keresztmetszetén áthaladó teljes
+uxus (amely a küls® mágneses tért®l származó
 uxus
-és az öninduk iós 
+és az öninduk iós
 uxus összege) állandó kell maradjon:
 BAsinα − LI = állandó.
 Az állandó értéke LI0 = 0, hiszen a kezdeti (α = 0-hoz tartozó) I0 áram nulla volt. A fenti egyenletb®l már kifejezhetjük
@@ -85,7 +85,7 @@ Bl2
 L
 · sinα.
 B, l és L adott állandók, I tehát sinα-val arányos mennyiség. Erre a felismerésre még szükségünk lesz, de miel®tt
-diszkutálni kezdjük a feladatot, gondoljuk át, milyen 
+diszkutálni kezdjük a feladatot, gondoljuk át, milyen
 zikai törvényt, összefüggést használhatunk még fel a megoldás
 során!
 Szükségünk lehet energetikai meggondolásra. Írjuk fel a munkatételt (a kinetikai energia tételét)! Eszerint
@@ -109,7 +109,7 @@ l
 LI2
 .
 (A jobb oldalon az utolsó tag az öninduk ióból származó Uind. = −L·∆I/∆t feszültség Uind.I∆t munkavégzését fejezi
-ki.) A fenti összefüggéshez energiatételként is eljuthatunk, amely szerint
+ki.) A fenti összefüggéshez  energiatételként  is eljuthatunk, amely szerint
 X
 E = állandó, vagyis
 X
@@ -145,17 +145,17 @@ B2
 l4
 L
 α = −
-
+
 B2
 l4
 L
 − 2mgl
-
+
 α.
 Látjuk, hogy a β szöggyorsulás az α szögkitéréssel arányosnak adódik. Tudjuk, hogy a β = −Ω2
 α típusú összefüg-
 gés harmonikus rezgésre vezet, mégpedig olyanra, aminek Ω a körfrekven iája, vagyis a feltételezett esetben olyan
-harmonikus rezg® lengésbe kezd a teker s, amelynek periódusideje T =
+harmonikus rezg®  lengésbe  kezd a teker s, amelynek periódusideje T =
 2π
 Ω
 lesz. Θ =
@@ -170,7 +170,7 @@ s
 3 B2l2
 mL − 2g
 l
-.
+ .
 A kilendülés maximális szöge:
 αmax =
 v0
@@ -179,7 +179,7 @@ v0
 v0T
 2πl
 .
-A periódusid®re kapott kifejezést 
+A periódusid®re kapott kifejezést
 gyelmesen megvizsgálva felvet®dik a kérdés: nem állhat ott a gyökjel alatt negatív
 szám? Mi van akkor, ha
 B2
@@ -269,25 +269,25 @@ r
 3
 5
 mL
-
+
 B2
 l2
 mL
 − 2
 g
 L
-
+
 .
 Ezek teljesülése esetén áll meg valahol a teker s. A megállási szög koszinuszára kapjuk:
 cosαmax =
 2mgL
 B2l3
 +
-s
+s
 1 −
 2mgL
 B2l3
-2
+ 2
 −
 5mL
 3B2l4
@@ -305,7 +305,7 @@ közösségi oldal listáján el lehetett érni.
 Bevezetésként a versenybizottság elnöke bemutatta Bártfai Pál 51 évvel ezel®tt kapott értesítését az akkori Eötvös-
 verseny megnyerésér®l, majd ismertette a 25 évvel ezel®tti verseny díjazottjait. Kiderült, hogy jelent®s részük ma
 külföldi egyetemeken, illetve kutatóintézetekben dolgozik, ezért nem lehettek itt. Az 50 évvel ezel®tti Eötvös-verseny
-díjazottjai viszont majdnem mind el tudtak jönni. k azok, akik kalandvágyból itthon maradtak  jegyezte meg valaki,
+díjazottjai viszont majdnem mind el tudtak jönni.  k azok, akik kalandvágyból itthon maradtak   jegyezte meg valaki,
 amikor kiderült, hogy 1956. október 20-án volt az akkori verseny. Egy héttel kés®bb lett volna a Kürs hák-verseny,
 az már elmaradt. Mint ahogy elmaradt az Eötvös-verseny akkori ünnepélyes eredményhirdetése is. Ezt pótlandó,
 kaptak most, Gyulai Zoltán és Vermes Miklós aláírásával, a Társulat és a Versenybizottság mai elnöke által hitelesített
@@ -315,20 +315,20 @@ Imrét, a budapesti Pet®
  Gimnázium érettségizett tanulóját, hogy vegye át az 1956-os Eötvös-verseny megnyerését
 tanusító oklevelet. Nagy taps kísérte, amikor a két akadémikus kezet fogott egymással. A jelenetet a Magyar Televízió
 forgató soportja is megörökítette. A második díjas Rázga Tamás, akkori villamosmérnök hallgató és a harmadik
-Geszti Tamás, akkori 
+Geszti Tamás, akkori
 zikus hallgató is átvehette oklevelét, és mindhárman felidézték emlékeiket az 50 évvel ezel®tti
 eseményekr®l. S®t, miután kivetítve látták az akkori feladatokat, Geszti Tamásnak még az is eszébe jutott, ahogy
 otthon rájött az egyik feladat egyszer¶ megoldására. A verseny után, persze.
 Ekkor már mindenki türelmetlenül várta az idei feladatok megoldását, s a verseny eredményének kihirdetését, az
 ünnepélyes díjkiosztást. A feladatok megoldását a Versenybizottság elnöke ismertette, a díjakat a Társulat elnöke adta
 át.
-A 2006. évi Eötvös-verseny els® díját kapta a vele járó Eötvös-verseny éremmel Halász Gábor, az ELTE 
+A 2006. évi Eötvös-verseny els® díját kapta a vele járó Eötvös-verseny éremmel Halász Gábor, az ELTE
 zika
 szakos hallgatója, aki az ELTE Radnóti Miklós Gyakorló Gimnáziumában érettségizett Honyek Gyula tanítványaként.
 Második díjat kapott Kon zer József, aki a szlovákiai Révkomáromban m¶köd® magyar tannyelv¶ Selye János
 Gimnázium utolsó éves tanulója, Hevesi Anikó és Szabó Endre tanítványa; Kónya Gábor, a Fazekas Mihály F®városi
 Gyakorló Gimnázium 12. évf. tanulója, Horváth Gábor tanítványa; Meszéna Balázs, ugyan sak a Fazekas Mihály
-F®városi Gyakorló Gimnázium 12. évf. tanulója, Taká s Lajos tanítványa, és Szé henyi Gábor, az ELTE 
+F®városi Gyakorló Gimnázium 12. évf. tanulója, Taká s Lajos tanítványa, és Szé henyi Gábor, az ELTE
 zika szakos
 hallgatója, aki a szolnoki Verseghy Feren Gimnáziumban érettségizett Pé si István tanítványaként.
 Harmadik díjat kapott Hasznos László, a szolnoki Varga Katalin Gimnázium 12. évf. tanulója, Balogh Béla
@@ -350,16 +350,16 @@ III. díjjal 10 000, a di séretekkel 8000 forint értékben. Ezeket részben az
 nyozók (Gutai László professzor, USA; Indotek Zrt., Budapest) biztosították. A díjazott és di séretet nyert diákok
 tanárai a Typotex, a Vin e, az Akkord és a Nemzeti Tankönyvkiadó által felajánlott könyvekb®l válogathattak. Utána
 a Versenybizottság elnöke ismertette azokat a válaszokat, melyeket az elmúlt húsz évben az Eötvös-versenyen díjazott
-versenyz®k adtak az alábbi körkérdésre: Érdemes ma 
+versenyz®k adtak az alábbi körkérdésre:  Érdemes ma
 zikusnak, matematikusnak, mérnöknek, tanárnak készülni az
-egyetemen? A válaszok általában pozitívak voltak, ezeket egészítette ki Geerth András szóban, a helyszínen. A BME
+egyetemen?  A válaszok általában pozitívak voltak, ezeket egészítette ki Ge erth András szóban, a helyszínen. A BME
 oktatója elmondta, hogy épp most készül állást változtatni, pénzügyi területen próbálja ki képességeit, itt szeretné
 hasznosítani a M¶egyetemen szerzett tudását.
 A régi és mai Eötvös-verseny nyertesek végül közös fényképezésen vettek részt. Diákok és tanárok vidám beszél-
 getéssel oldották a még meglév® feszültséget, ismerkedtek egymással, ki serélték élményeiket. Mindehhez a Ramasoft
-Zrt. biztosított üdít®t, pogá sát, 
+Zrt. biztosított üdít®t, pogá sát,
 nom szendvi seket.
-Általános volt a vélemény, hogy kellemes három órát töltött együtt a 
+Általános volt a vélemény, hogy kellemes három órát töltött együtt a
 zikát szeret®k társasága. Néhány nap múlva
-az MTV Válaszd a tudást! m¶sora tíz per es adásban számolt be az eseményr®l, melyért Montskó Éva és Gyenes
+az MTV  Válaszd a tudást!  m¶sora tíz per es adásban számolt be az eseményr®l, melyért Montskó Éva és Gyenes
 Károly szerkeszt®ket illeti köszönet.

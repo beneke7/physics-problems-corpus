@@ -26,11 +26,11 @@ techniques: [conservation-laws, differential-element]
 
 **ii)** *(2.5 points)* The glass plate has width $L \gg h_0$, thickness $t \ll L$, density $\rho_g$, and its length (into the depth of the figure) is much bigger than $L$. How will the angular speed of the plate depend on $h$ during its subsequent motion if the density of air is $\rho_a$? Neglect the gravity as well as the viscosity and compressibility of the air. Assume that the air flow remains everywhere laminar.
 
-![figure](../../sources/nbpho/figures/nbpho-2021-gas-flows-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2021-gas-flows-fig1.jpg)
 
 **iii)** *(3 points)* A cylindrical stone disc (marked with '1' in the figure) of radius $R$, thickness $h$ and density $\rho_s$ is pressed against the ceiling of a basin filled with water of density $\rho_w$. Small bumps on the surface of the ceiling maintain a small gap of thickness $t \ll R$ between the ceiling and the surface of the disk. Water flows from a pipe (marked with '2'; the outflow pipe '3' is far away) of radius $r \ll R$ coaxially with the disk into the basin, see the figure. The radius of the pipe is much bigger than the gap between the disk and the ceiling, i.e., $r \gg t$. What should be the mass flow rate $\mu \text{ (kg/s)}$ from the pipe so as to keep the disk from falling down? The free fall acceleration is $g$.
 
-![figure](../../sources/nbpho/figures/nbpho-2021-gas-flows-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2021-gas-flows-fig2.jpg)
 
 **iv)** *(0.5 points)* Steam turbines are widely used in power plants. According to a simplified model, water is being boiled at temperature $t_t = 180°\text{C}$ and pressure $p_t = 1 \times 10^6 \text{ Pa}$ (real steam turbines can have much higher pressures than that), and the created vapour flows out through a cylindrical channel of cross-sectional area $A = 1 \text{ cm}^2$ in the wall; the ambient pressure $p_0 = 1 \times 10^5 \text{ Pa}$. Find the entropy difference $\Delta S$ of one mole of vapour and one mole of liquid water (molar mass $M = 18 \text{ g/mol}$, latent heat of vaporisation at 100°C: $L = 2.3 \text{ MJ/kg}$) in the outflowing jet.
 

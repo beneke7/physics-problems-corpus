@@ -45,7 +45,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          • There is a negative contribution scaling as −A2/3 because nucleons at the surface don’t
 
                                                        6
-    Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                     Physics Olympiad Handouts
 
              have neighbors on one side.
 

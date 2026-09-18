@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A body immersed into water can be kept in equilibrium with a force of 1.5 N, and with a force 1 N when it is immersed into glycerine. What is the volume and density of the body? 
+A body immersed into water can be kept in equilibrium with a force of 1.5 N, and with a force 1 N when it is immersed into glycerine. What is the volume and density of the body?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G812-fig1.gif)
+![figure](../../figures/komal/figures/komal-G812-fig1.gif)

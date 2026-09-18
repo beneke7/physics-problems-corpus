@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4353. Két igen hosszú, lineáris töltéssűrűségű, vékony műanyagpálca egymásra merőlegesen, egymástól d  távolságra helyezkedik el. 
+P. 4353. Két igen hosszú, lineáris töltéssűrűségű, vékony műanyagpálca egymásra merőlegesen, egymástól d  távolságra helyezkedik el.
 
- Számítsuk ki a közöttük fellépő taszítóerőt! 
+ Számítsuk ki a közöttük fellépő taszítóerőt!
  Varga István (1953--2007) feladata
 
-![figure](../../raw_html/komal_figures/komal-P4353-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4353-fig1.gif)

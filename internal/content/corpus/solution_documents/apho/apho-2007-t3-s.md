@@ -18,7 +18,7 @@ Solution of the theoretical problem 3
 
 (1). Each free electron has 3 degrees of freedom. According to the equipartition of
 
- energy theorem, at temperature T its average energy         equals to         therefore
+ energy theorem, at temperature T its average energy         equals to          therefore
 
  the average specific heat    equals to
 
@@ -47,7 +47,8 @@ Usually at room temperature                . Therefore, with the simplified
 
 
 I can be simplified as
-Therefore
+
+Therefore
 
 
 
@@ -62,7 +63,7 @@ where       is the Fermi level at 0K, leading to
 
 
 
-Taking            , and         
+Taking            , and
 
 
 
@@ -76,7 +77,8 @@ theory. The reason is that with the temperature increase the energy of those ele
 whose energy is far below Fermi level (several times of          less than EF) does not
 change obviously, only those minor electrons of energy near EF contribute to the
 specific heat, resulting in a much less value of the average specific heat.
-Solution of the theoretical problem 3
+
+Solution of the theoretical problem 3
 
 3B. The Inverse Compton Scattering
 
@@ -89,7 +91,7 @@ scattered electron, and        and        the
 energies of the incident and scattered photon
 respectively. For this scattering process (see
 Fig. 1) energy conservation reads
-                                       1B.1
+                                        1B.1
 while the momentum conservation can be shown as (see            Figure 1
 Fig.2)
                                                                hv’/c         p’
@@ -105,7 +107,7 @@ and                                              (1B.4)
 
 lead to
 
-                                                                             1B.5
+                                                                              1B.5
 
 
 We have assumed that the kinetic energy of the incident electron is higher than its
@@ -116,17 +118,18 @@ that                 . Therefore from Eq. (1B.5), it can be easily seen that
 
 results in the maximum of       , and the maximum         is
 
-                                                                       1B.6
-2Substitution of           into Eq. (1B.6) yields
+                                                                        1B.6
+
+2 Substitution of           into Eq. (1B.6) yields
 
 
-                                                                                 1B.7
+                                                                                  1B.7
 
 
-Due to           ,                             , and                       then we have
+Due to           ,                             , and                        then we have
 
 
-                                                                                  1B.8
+                                                                                   1B.8
 
 
 In the case of          and the wavelength of the incident photon
@@ -147,12 +150,12 @@ corresponding to a wavelength                                        nm.
 
 
 
-31It is obvious that if the incident electron gives its total kinetic energy to the
+3  1 It is obvious that if the incident electron gives its total kinetic energy to the
 photon, the photon gains the maximum energy from the incident electron through the
 scattering process, namely the electron should become at rest after the collision. In
-this case, we have (see Fig. 3                            E,p                      hv
+this case, we have (see Fig. 3                             E,p                      hv
 
-                      (Conservation of energy) 1B.9                                    hv’
+                      (Conservation of energy)  1B.9                                     hv’
                                                                            E0
                        (Conservation of momentum)
 
@@ -160,10 +163,11 @@ or                                          (1B.10)                   Figure 3
 
 Subtracting (1B.10) from (1B.9) leads to the energy of the incident photon
 
-                                                       .                        1B.11
+                                                       .                         1B.11
 
 In above equation the energy- momentum relation
-                                                                               (1B.12)
+
+                                                                               (1B.12)
 
 has been taken into account. Therefore from Eq. (1B.9) we obtain the energy of the
 scattered photon                                                           E,p
@@ -171,9 +175,9 @@ scattered photon                                                           E,p
                                                         (1B.13)
                                                                                          hv/c
                                                                        hv’/c
-2Similar to question 3. (1)now we have (see Fig. 4)
+ 2 Similar to question 3. (1) now we have (see Fig. 4)
 
-                               (Conservation of energy) 1B.9
+                               (Conservation of energy)  1B.9
 
                                                                          Figure 4
 
@@ -205,12 +209,13 @@ Substitution of (1B.15) into Eq. (1B.9) gives the energy of the scattered photon
 
 
 
-Explanatory notes about the solution of Question 3
+Explanatory notes about the solution of Question 3
      Question 3. (1) can also be solved as follows. According to Eq. (1B.6), the
 maximum energy         that the photon of energy      gains from the electron is
 
                                      ,
-where                   . To obtain the maximum , we use the extreme condition
+
+where                   . To obtain the maximum , we use the extreme condition
 
 
                                                                    .
@@ -241,20 +246,21 @@ direction of the incident electron are denoted by ψ and ϕ respectively (see th
                                                                               hv
 Then, we have
 
-                          Conservation of energy1B.1’E,p
+                           Conservation of energy  1B.1’ E,p
                                                                                 ϕ    ψ
 
                                                                                              hv’
 or                                                                                   E’,p’
 
-                                  (Conservation of horizontal momentum) 1B.2’
+                                  (Conservation of horizontal momentum)  1B.2’
 
  and
 
 or
 
-                            .     (Conservation of vertical momentum 1B.3’
-(1B.2’)2+(1B.3’)2 leads to
+                            .     (Conservation of vertical momentum   1B.3’
+
+(1B.2’)2+(1B.3’)2 leads to
 
 
 
@@ -267,12 +273,12 @@ Substitution of the energy-momentum relation
 
 into the above equation of energy conservation leads to
 
-                                                          1B.5’
+                                                           1B.5’
 
-Comparison between Eq.1B.4’and Eq. (1B.5’) yields the energy of the scattered
+Comparison between Eq. 1B.4’ and Eq. (1B.5’) yields the energy of the scattered
 photon
 
-                                                 .              1B.6’
+                                                 .               1B.6’
 
 
 From (1B.6’) it can be seen that if                           , the energy of the
@@ -280,17 +286,17 @@ From (1B.6’) it can be seen that if                           , the energy of 
 
 scattered photon reaches the maximum,
 
-                                             .                  1B.7’
+                                             .                   1B.7’
 
 
 The energy that the photon gets from the electron is
 
-                                                     .                  1B.8’
+                                                     .                   1B.8’
 
 
 The extreme condition for         is
 
-                                       =0,                     1B.9’
+                                       =0,                      1B.9’
 
 
 where
@@ -299,7 +305,8 @@ where
 and                                                             .
 
          results in
-Simplifying this equation leads to
+
+Simplifying this equation leads to
 
 
 
@@ -325,11 +332,11 @@ After some simplifications we obtain
 
                                             ,
 
-which yields                                                 1B.10’
+which yields                                                  1B.10’
 
 Substitution of (1B.10’) into Eq. (1B.7’) leads to
 
-                                        .                    1B. 11’
+                                        .                     1B. 11’
 
 The results (1B.10’) and (1B.11’) are just the same as Eqs. (1B.15) and (1B.16) in the
 former solution.

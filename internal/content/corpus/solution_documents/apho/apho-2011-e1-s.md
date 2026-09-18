@@ -62,7 +62,8 @@ Then the momentary force reads:
 
 
                                                               Page 1 of 10
-The time-average of      (   )    (   ) is zero, while the average of (    (   )) is      . Therefore, the time-averaged
+
+The time-average of      (   )    (   ) is zero, while the average of (    (   )) is      . Therefore, the time-averaged
 force reads:
 
                                                                                                     (    )
@@ -110,7 +111,8 @@ take their average. The results are                               and           
 
 
                                                        Page 2 of 10
-accuracy can be made by placing the ring on a sheet of millimeter paper. The average circumference is now
+
+accuracy can be made by placing the ring on a sheet of millimeter paper. The average circumference is now
                  (      ).
 
 Other methods, such as measuring the average diameter by taking the maximal distance between an inner point and an
@@ -158,7 +160,8 @@ with the results                              and                               
 
 
                                                       Page 3 of 10
-         . In this case, using the inner or outer diameter instead of the average one introduces a large error of       ,
+
+         . In this case, using the inner or outer diameter instead of the average one introduces a large error of       ,
 i.e. over 10%.
 
 Measuring        directly also introduces large errors. Measuring the thin ring’s thickness and height with the ruler
@@ -205,7 +208,8 @@ introduces no errors in the mass calculation. Indeed, the precise formula for th
 where is the ring’s height, and is its width. This is the same formula as in the rectangular approximation. Some
 students may use this derivation in their solution.
                                                        Page 4 of 10
-The exact resistance calculation for a broad circular ring is more difficult, and reveals that the relative error from the
+
+The exact resistance calculation for a broad circular ring is more difficult, and reveals that the relative error from the
 rectangular approximation is      (         )          . This analysis is not expected from the students, and the
 resulting error can be neglected with respect to the overall error of 1.5%. For completeness, we include the derivation
 of the exact formula:
@@ -252,7 +256,8 @@ isn’t in direct contact with the ring or the solenoid block, so that its weigh
 
 
                                                         Page 5 of 10
-It is convenient to turn on the scale, or to press the Tare button, with the ring and the block resting on the scale with no
+
+It is convenient to turn on the scale, or to press the Tare button, with the ring and the block resting on the scale with no
 current in the solenoid. We can then measure the magnetic force directly. Otherwise, the student must manually
 subtract the scale’s reading at zero current from all of his force values.
 
@@ -300,7 +305,8 @@ should pass through the origin, and its slope equals:
 
 
                                                        Page 6 of 10
-                                                                          ( )
+
+                                                                          ( )
                                                      (            )
 
 If very small distances are included in the graph (under about        between the ring and the solenoid’s edge), the
@@ -336,7 +342,8 @@ the provided value of .
 We find that the ratio        is 0.23. Therefore, for the error estimation, we can write eq. (2) as:
 
                                                          Page 7 of 10
-                                                                             ( )
+
+                                                                             ( )
 
 As we can see, the delicate error considerations in     are now even more important, since it appears squared.
 Collecting the relative errors in and , we have:
@@ -385,11 +392,13 @@ A student who neglects (       ) all along and uses eq. (3) to find the value of
 
 
                                                         Page 8 of 10
-Graph 1:   as a function of , with a smoothed trend line.
+
+Graph 1:   as a function of , with a smoothed trend line.
 
 
 
                  Page 9 of 10
-Graph 2: 〈 〉 as a function of        , with linear trend lines.
+
+Graph 2: 〈 〉 as a function of        , with linear trend lines.
 
                      Page 10 of 10

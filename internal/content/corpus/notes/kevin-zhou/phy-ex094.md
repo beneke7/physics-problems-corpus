@@ -64,7 +64,6 @@ To begin, we consider the photoelectric effect as an extended example.
     transversality condition ϵ·k0 = 0 shows that the vector potential is in Coulomb gauge, ∇·A = 0,
     and hence as operators, p · A = A · p. (Note that at the quantum level, k0 is not an operator
     but x and p above both are.)
-255 11. Time Dependent Perturbation Theory
 
 
  • We use the standard replacement p → p + eA/c, which gives perturbing Hamiltonian
@@ -120,7 +119,6 @@ To begin, we consider the photoelectric effect as an extended example.
  • Why isn’t momentum conserved here, if energy is? Momentum is absorbed by the nucleus,
    which we have implicitly assumed to be infinitely heavy by taking the potential as static; a
    proper treatment of the nucleus would be able to compute its recoil.
-256 11. Time Dependent Perturbation Theory
 
 
  • Without the nucleus present, the reaction γ + e → e would be forbidden. The same effect is
@@ -171,7 +169,6 @@ We now make some remarks about treating the electromagnetic field.
    coefficients. (In quantum field theory, one can compute the spontaneous emission rate directly,
    or heuristically describe it as stimulated emission due to “vacuum fluctuations”, i.e. the residual
    dispersion of the field in the ground state.)
-257 11. Time Dependent Perturbation Theory
 
 
  • Any attempt to incorporate backreaction while keeping the field classical is ultimately incon-
@@ -222,7 +219,6 @@ and optical physics. Further examples are give in the notes on Optics.
    rapidly. We drop them with the rotating wave approximation, giving
 
                                 H = ℏω0 a† a + xzp Fω (eiωd t a + e−iωd t a† ).
-258 11. Time Dependent Perturbation Theory
 
 
   • If we went to interaction picture, we would get a Hamiltonian with only slowly varying terms.

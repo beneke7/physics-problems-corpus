@@ -44,7 +44,9 @@ Remark 1: Cross Products
 You learn in school that if a × b = c, then the direction of c is found by applying the
 right-hand rule to a and b, and its magnitude is |a||b|sinθ where θ is the angle between
 them. However, this comes from some more basic properties which will also be useful below.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 First, the cross product of two vectors is antisymmetric and distributes over addition,
 a × b = −b × a, a × (r1b1 + r2b2) = r1a × b1 + r2a × b2.
 The latter means a cross product can be differentiated using the product rule. Moreover,
@@ -75,7 +77,9 @@ applies in the case where a body is in pure translation. That’s simply the cas
 to zero while r0 gets infinitely far away. In this limit, r is negligible, so every point in the
 body moves with the same velocity v = −ω × r0. So the description still works for pure
 translation, though it’s a bit unnatural.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Example 2
 A cylinder of circumference 10cm is placed on a table. You place a ruler horizontally on
 the cylinder, so that initially the top of the cylinder touches the 0 cm mark on the ruler.
@@ -114,7 +118,9 @@ with diameter OC.
 (c) Just rotate a wheel inside the spaceship. If the wheel spins clockwise, then the rest of the
 spaceship will start spinning counterclockwise, by conservation of angular momentum. Then
 the wheel can be stopped when the spaceship has the desired final orientation. (This is actually
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 how spaceships turn around: they carry large reaction wheels which are spun up or down as
 needed. The ability to change orientation is essential for space telescopes, and in practice the
 wheels are always rotating fairly quickly, because their angular momentum can gyroscopically
@@ -142,8 +148,10 @@ Solution. The motion of the rigid body can be expressed as rotation about some p
 be on the vertical line connecting the two contact points, with distances to those points satisfying
 ω = v1/r1 = v2/r2, where r1 + r2 is the distance between the contact points. Then, all points with
 speed v1 lie on the circle centered at O with radius r1, and radius r2 for v2.
-[2] Problem 3.  W 1 0USAPhO 2010, problem A1.
-4Kevin Zhou Physics Olympiad Handouts
+[2] Problem 3.   W 1 0USAPhO 2010, problem A1.
+4
+
+Kevin Zhou Physics Olympiad Handouts
 2 Moments of Inertia
 Idea 2
 For a two-dimensional object in the xy plane, the moment of inertia
@@ -216,7 +224,9 @@ Z H
 2
 (ρπr2
 dh)r2
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 where the radius of the disc at height h is, in some set of coordinates, r(h) = R(h/H). Plugging
 this in, we get
 I =
@@ -264,7 +274,7 @@ shape from pieces. There are much more complicated variants, but they’re all t
 Four of the triangles clearly each contribute (m/6)a2/8. The other two each contribute
 m
 6
-
+
 a2
 /8 − (a/2
 √
@@ -272,7 +282,7 @@ a2
 + (a/
 √
 3)2
-
+
 = 3(m/6)a2
 /8
 where we did two consecutive applications of the parallel axis theorem. Thus, the total is
@@ -313,7 +323,9 @@ ICMω2
 2
 Mv2
 CM
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 where M is the total mass; the two terms are called “spin” and “orbital” contributions.
 Both forms are useful in different situations. Systems cannot exert torques on themselves,
 provided they obey the strong form of Newton’s third law: the force between two objects is
@@ -344,7 +356,9 @@ center of the post and is moving tangentially with speed v0. In case (a) the str
 through a hole in the center of the post at the top. The string is gradually shortened by
 drawing it through the hole. In case (b) the string wraps around the outside of the post.
 Ignore gravity.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 For each case, find the final speed of the mass when it hits the post.
 Solution
 In case (a), the energy isn’t conserved, since work is done on the mass as it moves inward.
@@ -383,7 +397,9 @@ conservation, you could get the same result by showing that the trajectory of th
 always perpendicular to the string, though this takes more work.)
 [2] Problem 6 (KK 6.9). A heavy uniform bar of mass M rests on top of two identical rollers which
 are continuously turned rapidly in opposite directions, as shown.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 The centers of the rollers are a distance 2ℓ apart. The coefficient of friction between the bar and
 the roller surfaces is µ, a constant independent of the relative speed of the two surfaces. Initially
 the bar is held at rest with its center at distance x0 from the midpoint of the rollers. At time t = 0
@@ -436,7 +452,9 @@ tanθ
 Thus, θ = arctan(
 √
 2) ≈ 54.74◦.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Example 4: MPPP 49
 A uniform cylinder of mass M and radius R is attached to two identical strings. The strings
 are wound around the cylinder as shown, and their free ends are fastened to the ceiling.
@@ -469,7 +487,9 @@ the tension T2 must be negative. But a string can’t support a negative tension
 goes slack. The mass thus free falls, so amass = g.
 In retrospect, we could have seen this conclusion with less work. Suppose the mass were not
 attached. Then the acceleration of the cylinder can be computed with the standard rolling
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 without slipping formula,
 a =
 g sinθ
@@ -510,7 +530,9 @@ The motion is the superposition of two motions: uniform translation of both mass
 speed m1v/(m1 +m2) and circular motion about the common center of mass, where the two
 masses have speeds m2v/(m1 + m2) and m1v/(m1 + m2), respectively. This ensures that
 the second mass begins at rest and the first mass has speed v.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 The circular part of the motion determines when the second mass will be at rest again.
 The radius of the circle the second mass makes is its distance from the center of mass,
 Lm1/(m1 + m2). This gives a period of
@@ -552,16 +574,18 @@ disk and pulled with constant force F parallel to the table.
 (a) Find the ratio of rotational to translational kinetic energy.
 (b) What is the total work done by the force F during the disk’s first revolution?
 Solution. This problem requires thinking about rotational and translational motion separately.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 (a) The linear acceleration is F/M, so the translational kinetic energy after time t is
 Kt =
 1
 2
 M
-
+
 Ft
 M
-2
+ 2
 =
 F2t2
 2M
@@ -570,14 +594,14 @@ The torque about the center of mass is FR, so the angular acceleration is α = 2
 Kr =
 1
 2
-
+
 1
 2
 MR2
-
+
 2Ft
 MR
-2
+ 2
 =
 F2t2
 M
@@ -611,7 +635,9 @@ jerking the paper to the left. Then pull the paper out to the right.
 [2] Problem 11 (Morin 8.28). Consider the following “car” on an inclined plane.
 The system is released from rest, and there is no slipping between any surfaces. Find the acceleration
 of the board.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let the acceleration of the board be a, and the angular accelerations of the cylinders
 be α. Looking at one cylinder, the motion of the cylinder can be seen as pure rotation about the
 contact point with the slope (since there’s no slipping, that point is stationary). Then the cylinder
@@ -620,7 +646,7 @@ where R is the radius of the cylinders. Thus for the board to not slip, a = 2Rα
 Taking torques about the contact point, with f being the friction force between the cylinders
 and board,
 τ =
-
+
 m
 2
 R2
@@ -630,7 +656,7 @@ R2
 m
 2
 R2
-
+
 α =
 m
 2
@@ -651,12 +677,12 @@ K =
 2
 mṡ2
 ×
-
+
 1 +
 1
 2
 + 4
-
+
 ≡
 1
 2
@@ -677,16 +703,18 @@ meff
 11
 g sinθ.
 The acceleration of the board is twice this, giving the same answer as before.
-[2] Problem 12.  W 1 0USAPhO 2006, problem A1.
-[2] Problem 13.  W 1 0USAPhO 2013, problem A2.
-[3] Problem 14.  W 1 0USAPhO 2014, problem A1.
+[2] Problem 12.   W 1 0USAPhO 2006, problem A1.
+[2] Problem 13.   W 1 0USAPhO 2013, problem A2.
+[3] Problem 14.   W 1 0USAPhO 2014, problem A1.
 Solution. See the official solutions as usual. If you’re curious, I also wrote up a solution that
 doesn’t use a rotating frame here. It uses some techniques covered in M8.
 [2] Problem 15. A uniform stick of length L and mass M begins at rest. A massless rocket is
 attached to one end of the stick, and provides a constant force F perpendicular to the stick. Find
 an expression for the speed of the center of mass of the stick after a long time, in terms of a single
 integral. Is this quantity finite or infinite? If finite, give a rough estimate for it.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. The uniform stick has moment of inertia ML2/12 about its center, and has a constant
 torque of τ = FL/2 about its center. Thus if θ is the angular distance the stick has rotated, then
 FL
@@ -751,12 +779,12 @@ Z ∞
 0
 e
 −
-
+
 ±−1+i √
 2
 √
 ct
-2
+ 2
 dt = ±
 √
 π
@@ -779,7 +807,9 @@ r
 [4] Problem 16 (KK 6.41). A plank of length 2L leans nearly vertically against a wall. All surfaces
 are frictionless. The plank starts to slip downward. Find the height of the top of the plank when it
 loses contact with the wall or floor.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Note that the normal forces at the contact points do no work, since the plank moves in
 the perpendicular directions at those points. Therefore, mechanical energy is conserved.
 L
@@ -800,11 +830,11 @@ mL2
 +
 1
 2
-
+
 1
 3
 mL2
-
+
 θ̇2
 =
 2
@@ -856,7 +886,9 @@ meffL2
 4
 3
 m
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 where the extra contribution in the first term is due to rotational kinetic energy. Multiplying the
 Lagrangian by 3/4, which makes no difference to the equations of motion, we get
 L =
@@ -865,10 +897,10 @@ L =
 mL2
 θ̇2
 − m
-
+
 3g
 4
-
+
 Lcosθ.
 However, this is simply the Lagrangian for a mass m sliding on a frictionless hemisphere in gravity
 3g/4. This is a classic, simple problem, and we know in that case that the normal force with the
@@ -920,14 +952,16 @@ r
 7
 10
 .
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 For θ ≥ 60.3◦ they both slip, so the ratio is unity. For the angles in between, the ring slips,
 giving a slightly more complicated expression. At the boundaries between these three regimes,
 the ratio TB/TR jumps discontinuously.
 The next two problems require careful thought, and test your understanding of the multiple ways
 to describe rotational kinematics and dynamics. It will be useful to review idea 1.
-[3] Problem 17.  m 1 0USAPhO 1999, problem B1.
-[3] Problem 18.  ^ 1 0USAPhO 2019, problem B3. It’s worth reading the solution carefully afterward.
+[3] Problem 17.   m 1 0USAPhO 1999, problem B1.
+[3] Problem 18.   ^ 1 0USAPhO 2019, problem B3. It’s worth reading the solution carefully afterward.
 4 Rotational Collisions
 Idea 7: Angular Impulse
 During a collision with impulse J, the angular momentum changes by the “angular impulse”
@@ -942,11 +976,11 @@ v0 ≥
 r
 10gh
 7
-
+
 1 −
 5h
 7R
-−1
+ −1
 .
 (b) Energy is lost to heat by the inelastic collision of the ball with the step. In the limit of small
 h, how much heat is produced?
@@ -968,15 +1002,17 @@ Rω =
 β + 1 − h/R
 β + 1
 v0 =
-
+
 1 −
 1
 β + 1
 h
 R
-
+
 v0.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Now, as the ball rotates about the corner, energy is conserved, so the only way that the ball
 will make it to the top is if its kinetic energy is at least mgh. Therefore,
 1
@@ -987,13 +1023,13 @@ will make it to the top is if its kinetic energy is at least mgh. Therefore,
 1
 2
 (β + 1)
-
+
 1 −
 1
 β + 1
 h
 R
-2
+ 2
 v2
 0 ≥ gh.
 Simplifying gives the desired answer.
@@ -1001,13 +1037,13 @@ Simplifying gives the desired answer.
 2(1+β)mv2
 0. We can use the previously found equation
 vf = Rω =
-
+
 1 −
 1
 β + 1
 h
 R
-
+
 v0,
 which helps us find the kinetic energy immediately after the inelastic collision 1
 2(1 + β)mv2
@@ -1023,13 +1059,13 @@ f) =
 2
 (1 + β)mv2
 0 1 −
-
+
 1 −
 1
 1 + β
 h
 R
-2
+ 2
 !
 .
 Using the binomial approximation, we conclude
@@ -1038,10 +1074,10 @@ Using the binomial approximation, we conclude
 2
 (1 + β)mv2
 0
-
+
 2h
 (1 + β)R
-
+
 =
 mv2
 0h
@@ -1081,7 +1117,9 @@ mv2
 /2)ω2
 =⇒ (v0 − v1)(v0 + v1) = 3V 2
 .
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 Combining the first and last equations implies v0 − v1 = (3/2)V , so 2v0 = (7/2)V , so V = 4
 7v0.
 Using the second equation gives
@@ -1134,10 +1172,12 @@ Once both rods rotate 180◦, they collide again. By using the reasoning of the 
 reverse, the rods simply lose their angular velocity and regain their original translational velocities.
 Therefore, the final result is that both rods translate uniformly, as if they passed right through each
 other, but both rods are flipped upside down.
-[3] Problem 22.  m 1 0USAPhO 2014, problem B1.
-[3] Problem 23.  m 1 0EuPhO 2024, problem 1. A nice exercise on the process of a rotational collision.
+[3] Problem 22.   m 1 0USAPhO 2014, problem B1.
+[3] Problem 23.   m 1 0EuPhO 2024, problem 1. A nice exercise on the process of a rotational collision.
 [4] Problem 24. @ 1 0EuPhO 2018, problem 1. An elegant rotation problem.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 5 Rotational Oscillations
 In this section we’ll consider small oscillations problems involving rotation.
 Idea 8
@@ -1170,7 +1210,9 @@ case only the bottom mass contributes to the moment of inertia.
 Example 9: Morin 8.41
 The axis of a solid cylinder of mass m and radius r is connected to a spring of spring constant
 k, as shown.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 If the cylinder rolls without slipping, find the angular frequency of the oscillations.
 Solution
 This is a question best handled using the energy methods of M4. The potential energy is
@@ -1224,7 +1266,9 @@ mgr2
 θ2
 and the answer follows as usual. (There is also a kinetic energy contribution from the ring’s
 vertical motion, but it’s negligible.) The lesson here is that the force/torque and energy
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 approach have different strengths. The energy approach is often easier because it lets you
 ignore some internal details of the system. But it can be harder because it requires you to
 understand the kinematics of the system to second order, rather than first order.
@@ -1278,7 +1322,9 @@ simply the distance between the pivot points, which can be measured quite precis
 the need to find the center of mass. However, we do have to be a bit careful. Show that the
 formula in part (a) gives a totally wrong answer for a uniform cylinder of length L, with pivot
 points at its two ends. What’s going on, and how can we fix the problem?
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Using the parallel axis theorem where Ic is the moment of inertia about the center
 of mass and x1 and x2 are the distances between the pivots and center of mass,
 I1 = Ic + mx2
@@ -1293,13 +1339,13 @@ x2
 .
 Combining these equations, we find
 Ic
-
+
 1
 x1
 −
 1
 x2
-
+
 = m(x2 − x1).
 Since x1 ̸= x2, we can divide by x2 − x1 and find Ic = mx1x2. Thus,
 I1
@@ -1342,9 +1388,9 @@ Kater’s pendulum will always work if the pivot points are both on the same sid
 of mass, as then we automatically have x1 ̸= x2. For pivots with the center of mass in between,
 we need to ensure that x1 ̸= x2, which means the object can’t be perfectly symmetric. In
 practice, people address this by just putting an extra weight on one end of the rod.
-[3] Problem 27.  W 1 0USAPhO 1999, problem A4.
-[3] Problem 28.  m 1 0USAPhO 2011, problem B2.
-[3] Problem 29.  m 1 0USAPhO 2002, problem B1. An unusually tricky early USAPhO problem.
+[3] Problem 27.   W 1 0USAPhO 1999, problem A4.
+[3] Problem 28.   m 1 0USAPhO 2011, problem B2.
+[3] Problem 29.   m 1 0USAPhO 2002, problem B1. An unusually tricky early USAPhO problem.
 [4] Problem 30 (IPhO 1982). A coat hanger can perform small oscillations in the plane of the figure
 about the three equilibrium figures shown.
 42cm
@@ -1352,7 +1398,9 @@ about the three equilibrium figures shown.
 In the first two figures, the long side is horizontal. The other two sides have equal length. The
 period of oscillation is the same in all cases. The coat hanger does not necessarily have uniform
 density. Where is the center of mass, and how long is the period?
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. See the official solutions of IPhO 1982, problem 2.
 [4] Problem 31 (APhO 2007). A uniform ball of mass M and radius r is encased in a thin spherical
 shell, also of mass M. The shell is placed inside a fixed spherical bowl of radius R, and performs
@@ -1443,7 +1491,9 @@ s
 4(R − r)
 3g
 .
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (c) When the ball goes from solid to liquid, the entire ball is at rest, so no energy is lost. On
 the other hand, when the ball switches from liquid to solid, the material inside the ball must
 suddenly start rotating with the shell. This is an angular inelastic collision, where energy is
@@ -1520,9 +1570,9 @@ p
 20/23 after each
 collision. But there are two collisions per oscillation, so after n oscillations, the amplitude is
 θn = θ0
-
+
 20
 23
-n
+ n
 .
 26

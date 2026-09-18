@@ -19,4 +19,4 @@ verification_status: pending
 
 Three little cylinders are connected with weightless rods, where there is a hinge near the middle cylinder, so that the angle between the rods can change freely. Initially this angle is a right angle. Two of the cylinders have mass $m$, another one at the side has the mass $4 m$. Find the acceleration of the heavier cylinder immediately after the motion begins. Ignore friction.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr65-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr65-fig1.jpg)

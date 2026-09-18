@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-A motorcyclist starts from rest and travels in a circular path such that the speed of the motorcyclist increases uniformly. What is the angle turned (with respect to the initial position) until the direction of the acceleration of the motorcycle first becomes perpendicular to the direction of the initial acceleration? 
+A motorcyclist starts from rest and travels in a circular path such that the speed of the motorcyclist increases uniformly. What is the angle turned (with respect to the initial position) until the direction of the acceleration of the motorcycle first becomes perpendicular to the direction of the initial acceleration?
  (5 pont)

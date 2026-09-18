@@ -60,7 +60,7 @@ $$ H = (0.40\pm0.01) \tag{12} $$
 $$ D = (0.98\pm0.01) \tag{13} $$
 As already stated in the hint, the measurement of $v_1$ is quite complicated, since it is based only on 3 frames. This might result in a significant error on the result.
 
-![Figure 1: Screenshots of the Tracker software. (a) shows the tracked points; for this the upper left edge of the cylinder was used. (b) shows the height and width measurement. (c) shows the linear fit for the velocity before hitting the water and (d) shows the fit for the velocity after hitting the water.](../../sources/physicscup/figures/physicscup-2024-p1-sol-1.png)
+![Figure 1: Screenshots of the Tracker software. (a) shows the tracked points; for this the upper left edge of the cylinder was used. (b) shows the height and width measurement. (c) shows the linear fit for the velocity before hitting the water and (d) shows the fit for the velocity after hitting the water.](../../../../../sources/physicscup/figures/physicscup-2024-p1-sol-1.png)
 
 ### 3. Momentum conservation law
 

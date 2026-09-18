@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201001"
 verification_status: pending
 ---
 
-Measure the coefficients of static and dynamic friction between a sleigh and the snow. (If there is no snow, between the sleigh and the ground.) 
+Measure the coefficients of static and dynamic friction between a sleigh and the snow. (If there is no snow, between the sleigh and the ground.)
  (6 pont)

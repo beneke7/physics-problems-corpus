@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-Each edge of the steps ``leading to the sky'', shown in the figure, has a resistance of  R . Find the equivalent resistance between points A and  B . 
+Each edge of the steps ``leading to the sky'', shown in the figure, has a resistance of  R . Find the equivalent resistance between points A and  B .
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4170-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4170-fig1.gif)

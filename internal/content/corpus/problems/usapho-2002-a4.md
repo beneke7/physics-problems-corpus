@@ -31,5 +31,5 @@ A4. A 0.75-m rod has a uniform linear mass density of $\lambda$. A small mass $m
 
 ## 2002 Semi-Final Exam <br> Part A
 
-![](usapho-2002-a4-fig01.png)
-![](usapho-2002-a4-fig02.png)
+![](../../figures/usapho/figures/usapho-2002-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-2002-a4-fig02.png)

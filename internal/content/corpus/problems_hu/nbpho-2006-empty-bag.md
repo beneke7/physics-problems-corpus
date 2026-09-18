@@ -35,5 +35,5 @@ Egy hengeres zsák szabadon deformálható, levegőt át nem eresztő anyagból 
 
 **4)** Feltételezve, hogy $p \gg \sigma g$, határozza meg az $\varepsilon=\frac{b-a}{b+a}$ mennyiséget, ahol $b$ a zsák szélessége.
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-empty-bag-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-empty-bag-fig1.png)
 

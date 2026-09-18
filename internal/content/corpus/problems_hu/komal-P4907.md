@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4907. Mekkora $V_x$ térfogat esetén egyezik meg az  ábrán látható $A$ és $B$ körfolyamatot végző, állandó tömegű ideális gázzal működő két hőerőgép hatásfoka?
 
-![figure](../../raw_html/komal_figures/komal-P4907-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4907-fig1.gif)

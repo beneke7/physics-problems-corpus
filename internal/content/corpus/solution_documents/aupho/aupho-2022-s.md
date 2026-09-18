@@ -29,7 +29,9 @@ Multiple choice questions:
    10       B
 
 1 mark for each question
-Section B: Skateboarding (23 marks)
+
+
+Section B: Skateboarding (23 marks)
 
 Part 1 (5 marks)
 a.)
@@ -75,7 +77,9 @@ b.)
  1     All details correct:
             • Same gradient of speed decrease on flats
             • Speed when entering the next flat section is the same as leaving the previous flat section
-c.)
+
+
+c.)
  1      No energy loss on ramps (flat line)
 
  0.5 Parabolic energy decreases on flat surface
@@ -128,7 +132,9 @@ b.) Ans: 25.78m (must include vertical displacement on the ramp)
              • (0.5 mark) Identifies that the vertical distance on the ramp needs to be considered
              • (1 marks) Some attempt at calculation on the ramp, however incorrect
              • (2 marks) Complete correct calculation of the vertical distance
-Units automarked
+
+
+Units automarked
 
 
 
@@ -189,7 +195,9 @@ a lower thermal conductivity the temperature drop needs to be greater.
  0.5            Total heat flow Q̇ = 1.26 W
 
  0.5            Use ΔT = 3
-Q6)
+
+
+Q6)
 
 
  1.0   Heat flow expressions for both Alice and Bob or correct argument that compares two heat flows.
@@ -207,7 +215,9 @@ Q7) (max 4)
  1.5   Note that heat flow is maximised for maximal thermal gradient and zero along thermal isotherm.
 
  1.0   Bob’s suggestion is better (with justification)
-Section D: Lasers and Atoms (13 marks)
+
+
+Section D: Lasers and Atoms (13 marks)
 1a) 3 marks total
  Marks     For
  1         i) 449Hz
@@ -235,7 +245,9 @@ travelling in the wrong direction to see the laser blue-shifted.
  1 Correctly uses red, rather than blue detuning/direction
 
  1 Correct selection of atom
-Section E: Unusual Physics (12 marks)
+
+
+Section E: Unusual Physics (12 marks)
 
 1.) 4 marks total
 
@@ -285,7 +297,9 @@ travelling in the wrong direction to see the laser blue-shifted.
  0.5         Little impact on high frequencies or low frequencies
 
  0.5         Will decrease shaking most in the region around f = fo
-3.)
+
+
+3.)
       a)   4 marks total
 
  Marks        For

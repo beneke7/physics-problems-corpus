@@ -52,7 +52,9 @@ this particular case is
 guarantee maximal accuracy the fixed path for the rod to pass should be over 10 sm. Table 2
 presents the measurement results for the time intervals t for the rods of different diameters and
 the calculated velocities V.
-Table 2.
+
+
+Table 2.
  d, mm   x, sm    t 1 ,s      t 2 ,s      t 3 ,s      <t>, s  ∆t, s     V, sm/s ∆V, sm/s
      4,0       10        77,5        76,6        81,7   78,60       5,4     0,13     0,01
      3,5       10        11,7        11,6        12,0   11,76     0,48      0,85     0,03
@@ -96,7 +98,9 @@ tube walls (Fig.4). To overcome the viscous friction of the liquid, the pressure
               should appear between the lower and upper ends of the rod. It is this difference in
 the pressure that produces an additional force acting on the sinking rod. Besides, the rod is
 slowed down by the above mentioned viscous friction acting on its lateral surface.
-        It is reasonable to assume that the viscous friction force acting on
+
+
+        It is reasonable to assume that the viscous friction force acting on
 the liquid in the gap from the tube walls is proportional to the average
 velocity of the flowing liquid and inversely proportional to the gap size.
                                                                           (3)
@@ -136,7 +140,9 @@ Table 3.
 
 It is seen that the wood stick also emerges uniformly and its average velocity, calculated by the
 least-squares method from Table 3, is
-2. To obtain velocities it is enough to measure time intervals for a wood stick to pass a fixed path
+
+
+2. To obtain velocities it is enough to measure time intervals for a wood stick to pass a fixed path
 several times. Results of the measurements shows that within the experimental error the
 emerging velocity does not depend on the stick length and equals to
 

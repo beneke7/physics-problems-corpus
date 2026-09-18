@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201505"
 verification_status: pending
 ---
 
-Measure the equivalent series resistance of an electrolytic capacitor. How does it depend on the applied voltage? 
+Measure the equivalent series resistance of an electrolytic capacitor. How does it depend on the applied voltage?
  (6 pont)

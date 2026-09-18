@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-The half life of the isotope radon-222 is 5508 minutes. How many days elapses until the activity of the radon sample decreases to one-tenth of its original value? 
+The half life of the isotope radon-222 is 5508 minutes. How many days elapses until the activity of the radon sample decreases to one-tenth of its original value?
  (4 pont)

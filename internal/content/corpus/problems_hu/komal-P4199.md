@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4199. Hosszú, egyenletesen feltöltött szigetelő pálcát középen félkör alakban meghajlítunk. Mekkora az elektromos térerősség a félkör $O$ középpontjában?
 
-![figure](../../raw_html/komal_figures/komal-P4199-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4199-fig1.gif)

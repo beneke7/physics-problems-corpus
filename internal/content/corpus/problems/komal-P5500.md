@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-The long ropes of a swing can safely hold a maximum load of $M$, when the swing is at rest. What is the maximum mass of a person that can swing on it, if the maximum angular displacement of the rope is an acute angle with a measure of $\alpha$? Plot your result on a graph! 
+The long ropes of a swing can safely hold a maximum load of $M$, when the swing is at rest. What is the maximum mass of a person that can swing on it, if the maximum angular displacement of the rope is an acute angle with a measure of $\alpha$? Plot your result on a graph!
  (4 pont)

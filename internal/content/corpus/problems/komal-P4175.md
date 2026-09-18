@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200909"
 verification_status: flagged
 ---
 
-Which of the points, marked by A , B , C , D , of the circuit shown in the figure, are at the same potential. Between which two points is the potential difference the greatest? 
+Which of the points, marked by A , B , C , D , of the circuit shown in the figure, are at the same potential. Between which two points is the potential difference the greatest?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4175-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4175-fig1.gif)

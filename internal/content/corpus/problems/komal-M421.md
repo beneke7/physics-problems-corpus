@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202303"
 verification_status: pending
 ---
 
-Draw lines on a piece of paper with a soft black graphite pencil. We can assume that the graphite is ``smeared'' in atomic layers, and that the distance between adjacent atomic layers is 0.34 nm. Determine the height of a line in terms of number of carbon atoms above each other. 
+Draw lines on a piece of paper with a soft black graphite pencil. We can assume that the graphite is ``smeared'' in atomic layers, and that the distance between adjacent atomic layers is 0.34 nm. Determine the height of a line in terms of number of carbon atoms above each other.
  (6 pont)

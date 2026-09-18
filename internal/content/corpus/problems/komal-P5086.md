@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-How much energy is needed to split the nucleus of an oxygen into four alike parts? What is the minimum energy of a neutron, which is able to split the – initially stationary – nucleus of the oxygen? 
+How much energy is needed to split the nucleus of an oxygen into four alike parts? What is the minimum energy of a neutron, which is able to split the – initially stationary – nucleus of the oxygen?
  (4 pont)

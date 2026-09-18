@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-The speed of an object travelling in a straight line with constant deceleration decreases to half of its initial value when it reaches the end of a straight path. What percentage of its initial speed is lost when it reaches the midpoint of the path? 
+The speed of an object travelling in a straight line with constant deceleration decreases to half of its initial value when it reaches the end of a straight path. What percentage of its initial speed is lost when it reaches the midpoint of the path?
  (4 pont)

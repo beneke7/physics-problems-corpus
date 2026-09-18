@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, conservation-laws]
 ---
 
-A beam of rectangular cross section lies on the horizontal ground. The horizontal side of the rectangle is $L$, whilst its vertical side is $H$. Neglecting air resistance, from which point and how should a grasshopper jump in order to jump over this beam with the least energy? In this case where is the focus of the parabolic path of the leap? 
+A beam of rectangular cross section lies on the horizontal ground. The horizontal side of the rectangle is $L$, whilst its vertical side is $H$. Neglecting air resistance, from which point and how should a grasshopper jump in order to jump over this beam with the least energy? In this case where is the focus of the parabolic path of the leap?
  (5 pont)

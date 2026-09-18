@@ -56,7 +56,8 @@ Problem 3. How does a superluminal object look like?
 
 
 (4) The apparent velocity(s)     (t) in terms of        and       .
-                    Marking Scheme Problem 3, 9th Asian Physics Olympiad
+
+                    Marking Scheme Problem 3, 9th Asian Physics Olympiad
 (Mongolia)
 
 
@@ -97,7 +98,8 @@ Problem 3. How does a superluminal object look like?
 
 
                                               2
-                     Marking Scheme Problem 3, 9th Asian Physics Olympiad
+
+                     Marking Scheme Problem 3, 9th Asian Physics Olympiad
 (Mongolia)
 
 (8) An apparent velocity CAN / CANNOT exceed the light speed in the vacuum. Circle the
@@ -132,7 +134,8 @@ Problem 3. How does a superluminal object look like?
 
 
                                          3
-                     Marking Scheme Problem 3, 9th Asian Physics Olympiad
+
+                     Marking Scheme Problem 3, 9th Asian Physics Olympiad
 (Mongolia)
 
 

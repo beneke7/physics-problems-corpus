@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200605"
 verification_status: pending
 ---
 
-A car was travelling with a speed of 50 km/h, which is the speed limit in cities, when suddenly a child step to the road in front of the car. The driver immediately began to break, and the car stopped right in front of the child. With what speed would have the car hit the children if it had moved with a speed of 70 km/h, instead of 50? 
+A car was travelling with a speed of 50 km/h, which is the speed limit in cities, when suddenly a child step to the road in front of the car. The driver immediately began to break, and the car stopped right in front of the child. With what speed would have the car hit the children if it had moved with a speed of 70 km/h, instead of 50?
  (3 pont)

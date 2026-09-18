@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200709"
 verification_status: pending
 ---
 
-Explain the formation of frost and freezing rain. 
+Explain the formation of frost and freezing rain.
  (3 pont)

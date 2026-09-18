@@ -30,16 +30,16 @@ R(2R2 + RR)
 .
 Aftersolving the equation
 RR = −R2 ±
-
+
 R2
 2 + 2R2R =
-
+
 R2
 2 + 2R2R − R2
 andnoting that the negativesolution ofthe equation hastobe dropped
 (it doesnot have physical meaning), we arrive at
 RR = R(
-
+
 α(α + 2) − α).
 3) Importantideas:
 • electromotive force is generatedwhen conductorsmove in mag-
@@ -68,7 +68,7 @@ Rcircuit =
 1
 2
 R(
-
+
 α(2 + α) + α + 1).
 Consequently
 P =
@@ -77,13 +77,13 @@ P =
 r2
 h2
 R(
-
+
 α(2 + α) + α + 1)
 Eventually,
 k =
 2r2
 h2
-
+
 α(2 + α) + α + 1
 ≈ 2.12 × 10−6
 .
@@ -96,7 +96,7 @@ P
 ωr2
 h2
 R(
-
+
 α(2 + α) + α + 1)
 ≈ 0.39mNm.
 6) Disc has a momentum of inertia eual to I = 1
@@ -124,12 +124,12 @@ dω
 ω
 .
 Integrating the both sides of the equation yields
- t
+  t
 0
 kB2
 IR
 dt = −
- ω
+  ω
 ω0
 dω
 ω

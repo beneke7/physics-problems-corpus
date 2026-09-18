@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-An $\ell=0.5~\mathrm{m}$ long cylindrical glass tube, closed at one end and open at the other, was submerged vertically in the Dead Sea with its open end turned downwards so that the lower (open) end of the tube is at a depth of $h=30~\mathrm{m}$. Inside the tube there was air at a temperature of $32\;{}^\circ$C and at a pressure of $800~\mathrm{mmHg}$ – which was the same as the atmospheric pressure. The water in the Dead Sea has a temperature of $27\;{}^\circ$C and a density $1.24$ times that of distilled water. How high does the water rise in the tube? 
+An $\ell=0.5~\mathrm{m}$ long cylindrical glass tube, closed at one end and open at the other, was submerged vertically in the Dead Sea with its open end turned downwards so that the lower (open) end of the tube is at a depth of $h=30~\mathrm{m}$. Inside the tube there was air at a temperature of $32\;{}^\circ$C and at a pressure of $800~\mathrm{mmHg}$ – which was the same as the atmospheric pressure. The water in the Dead Sea has a temperature of $27\;{}^\circ$C and a density $1.24$ times that of distilled water. How high does the water rise in the tube?
  (4 pont)

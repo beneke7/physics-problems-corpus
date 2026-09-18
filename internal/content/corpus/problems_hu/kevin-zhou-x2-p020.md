@@ -47,7 +47,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          the amount of radiation decreases. Why?
 
                                                       8
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
        Idea 7
        Conversely, when an atom is placed in an electromagnetic field of angular frequency ω,

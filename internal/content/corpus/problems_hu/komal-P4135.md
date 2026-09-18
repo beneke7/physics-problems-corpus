@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4135. Miért van a karórák másodpercmutatójának ,,farka''?
 
-![figure](../../raw_html/komal_figures/komal-P4135-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4135-fig1.gif)

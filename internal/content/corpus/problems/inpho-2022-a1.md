@@ -24,7 +24,7 @@ techniques: [conservation-laws]
 ---
 
 1. A block of mass $m=0.1 \mathrm{~kg}$ is attached to a spring (one end fixed to the wall) with spring constant $k=50 \mathrm{~N} \mathrm{~m}^{-1}$. The block slides on a rough horizontal table along the $x$-axis. Assume that both the coefficients of kinetic $\left(\mu_{k}\right)$ and static friction $\left(\mu_{s}\right)$ are same and constant $\left(\mu_{k}=\mu_{s}=\mu=0.25\right)$. The block is initially displaced to $x_{0}=0.1 \mathrm{~m}$ from the unstretched position (normal length of the spring, $x=0$ ) of the spring and released from rest as shown below. Neglect any air resistance. Take the acceleration $g$ due to gravity to be $10 \mathrm{~m} / \mathrm{s}^{2}$.
-![](inpho-2022-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2022-a1-fig01.png)
     (a) [3 marks] How many times $(n)$ will the block cross the unstretched position before coming to rest permanently?
     (b) [1 marks] Determine the total distance $D$ covered by the block before coming to rest.
     (c) [6 marks] Let us divide one complete oscillation of the block, starting from a fully stretched condition of the spring, into four distinct sections, requiring the following times in order:

@@ -56,7 +56,9 @@ Consider a uniformly charged ball of total charge Q and radius R. Decompose this
 
 
                                                        11
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -110,7 +112,9 @@ Consider a uniformly charged ball of total charge Q and radius R. Decompose this
 
 
                                                   12
-Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                Physics Olympiad Handouts
 
 
 
@@ -164,7 +168,9 @@ Consider a uniformly charged ball of total charge Q and radius R. Decompose this
 
 
                                                   13
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
 

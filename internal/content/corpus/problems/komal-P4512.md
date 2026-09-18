@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: pending
 ---
 
-The mass of a plastic slinky is 60 g, its height is 6 cm, and the number of its turns is 40. If it is suspended at one of its end its length is 106 cm. What is the spring constant of one turn of the slinky in N/m? 
+The mass of a plastic slinky is 60 g, its height is 6 cm, and the number of its turns is 40. If it is suspended at one of its end its length is 106 cm. What is the spring constant of one turn of the slinky in N/m?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-Determine and graph the heat of vaporization of water as a function of temperature between 0 $^\circ$C and 100 $^\circ$C. The data that can be used are: the specific heat capacity values of water and water vapour, and the specific latent heat of vaporization of water. 
+Determine and graph the heat of vaporization of water as a function of temperature between 0 $^\circ$C and 100 $^\circ$C. The data that can be used are: the specific heat capacity values of water and water vapour, and the specific latent heat of vaporization of water.
  (5 pont)

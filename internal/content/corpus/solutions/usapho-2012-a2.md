@@ -67,10 +67,10 @@ Copyright c 2012 American Association of Physics Teachers
 2012 Semifinal Exam Part A 6
 b. For an adiabatic process, the quantity
 PV γ
-
+
 T
 PV
-γ
+ γ
 = P1−γ
 Tγ
 is constant, which implies that

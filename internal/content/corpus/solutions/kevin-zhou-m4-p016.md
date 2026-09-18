@@ -36,10 +36,10 @@ s
 k
 m
 −
-
+
 b
 2m
-2
+ 2
 .
 (b) In this limit, we have
 ω± ≈
@@ -63,9 +63,9 @@ km/πb cycles.
 k
 m
 −
-
+
 b
 2m
-2
+ 2
 < 0
 which implies b2 > 4mk.

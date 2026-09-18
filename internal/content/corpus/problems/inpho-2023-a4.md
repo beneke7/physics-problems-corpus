@@ -28,7 +28,7 @@ techniques: [exploit-symmetry, stability-analysis]
 Consider a fixed infinite vertical thin rod (shown by the red color in the figure below) of linear charge density $\lambda$ along the $z$-axis at the origin (see figure below). A uniformly charged ring of total charge $Q$, mass $M$, and radius $a$ is placed with its center at the origin in the $x-y$ plane. Point P is an arbitrary point on the ring. The projection of point P on $x-y$ plane makes an angle $\theta$ with respect to the $x$-axis in the anticlockwise direction as seen from the top.
 
 The ring is now given an initial angular velocity $\omega_{0}$ about the $x$-axis. We define the angle $\alpha$ which the plane of the ring makes with the $x-y$ plane. This is illustrated by drawing line segment AB in the plane of the ring. Initially $\alpha=0$. Ignore gravity.
-![](inpho-2023-a4-fig01.png)
+![](../../figures/inpho/figures/inpho-2023-a4-fig01.png)
 You may find the following differentiation useful
 
 $$

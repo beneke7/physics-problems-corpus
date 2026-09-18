@@ -19,4 +19,4 @@ verification_status: pending
 
 An absolutely elastic and slippery billiard ball is moving with velocity $v$ toward two motionless identical balls. The motionless balls are touching and their centres lie on a straight line that is perpendicular to the incoming ball's velocity vector. The moving ball is directed exactly toward the touching point of the two balls. Which velocity will the incoming ball have after the collisions? Consider two scenarios: (a) the incoming ball hits exactly in the middle between the balls; (b) its trajectory is a little bit off and it hits one of the stationary balls marginally earlier.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr36-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr36-fig1.jpg)

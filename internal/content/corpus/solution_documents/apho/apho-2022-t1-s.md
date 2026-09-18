@@ -62,7 +62,8 @@ The Stern-Gerlach Experiment: THE SOLUTION1
 
 lem. The contributions of the Academic Committee, Academic Development Group, and the International Board are gratefully
 acknowledged.
-Solutions
+
+Solutions
 
 
                                                                               A1-2      Oﬃcial (English)
@@ -105,7 +106,8 @@ acknowledged.
 
         -0.3 if factor of 2 is missing.
                                                                                         [0.6]
-Solutions
+
+Solutions
 
 
                                                                                   A1-3       Oﬃcial (English)
@@ -167,7 +169,8 @@ acknowledged.
         Writing the ﬁnal expression as any correct function of x and y will get full marks.
         If collecting all the terms component-wise not done, then penalize by -0.1. If an
         error has been made in simpliﬁcation then penalize by -0.1.
-Solutions
+
+Solutions
 
 
                                                                                           A1-4
@@ -220,7 +223,8 @@ acknowledged.
             which simpliﬁes to
                                         𝑦(𝑥2 − 2𝑥 𝑥𝑐 + 𝑦2 − 𝑎2 )𝑘̂
             Using eq.(3), this is zero, proving the result.
-Solutions
+
+Solutions
 
 
                                                                                  A1-5      Oﬃcial (English)
@@ -262,7 +266,8 @@ acknowledged.
                                              𝜕𝑥    𝜋  (𝑥 + 𝑎2 )2
 
                                                                                            [0.5]
-Solutions
+
+Solutions
 
 
                                                                                         A1-6    Oﬃcial (English)
@@ -317,7 +322,8 @@ acknowledged.
                         =                          × 106 = 1.04 × 10−23 𝐽 ⋅ 𝑇 −1
                                    2 × 17.34
                                                                                                   [1]
-Solutions
+
+Solutions
 
 
                                                                               A1-7      Oﬃcial (English)

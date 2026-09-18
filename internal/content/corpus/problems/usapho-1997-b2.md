@@ -28,4 +28,4 @@ $(\mathbf{b}, 15)$ Estimate the velocity $v_{o}$ with which the probe descends t
 $(\mathbf{c}, \mathbf{1 5})$ Estimate the temperature of the atmosphere 15 km above the surface. Neglect the variation of the planet's gravitational field between the surface and this height.
 (d. 5) Justify the neglect of the variation of the planet's gravitational field between the surface and 15 km above the surface. Suggestion: Calculate the fractional difference between the gravitational field's magnitude on the surface and its value 15 km above the surface, and assess whether that difference is significant compared to the accuracy of the estimate made in part (c).
 
-![](usapho-1997-b2-fig01.png)
+![](../../figures/usapho/figures/usapho-1997-b2-fig01.png)

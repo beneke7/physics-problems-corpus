@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-What will the maximum charge be on an initially uncharged metal spherical shell of radius 50 mm, which is mounted on an insulating stand, if it is illuminated for a long time with a UV light source? The shortest wavelength of light emitted by the source is 280 nm, and the work function of the metal of the shell is 3.7 eV. Neglect the conducting effect of air. 
+What will the maximum charge be on an initially uncharged metal spherical shell of radius 50 mm, which is mounted on an insulating stand, if it is illuminated for a long time with a UV light source? The shortest wavelength of light emitted by the source is 280 nm, and the work function of the metal of the shell is 3.7 eV. Neglect the conducting effect of air.
  (4 pont)

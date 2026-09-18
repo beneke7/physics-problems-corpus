@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Two objects, which are moving into the same direction collide totally inelastically with each other. The mass of one of the objects is $n$ times as much as that of the other, whilst its speed is one-$n$-th of the speed of the other ($n\ge 2$ is an integer). For which $n$ will at least half of the kinetic energy be dissipated? 
+Two objects, which are moving into the same direction collide totally inelastically with each other. The mass of one of the objects is $n$ times as much as that of the other, whilst its speed is one-$n$-th of the speed of the other ($n\ge 2$ is an integer). For which $n$ will at least half of the kinetic energy be dissipated?
  (4 pont)

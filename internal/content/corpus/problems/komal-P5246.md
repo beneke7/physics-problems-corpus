@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-At the bottom of lake Hévíz, where the spring breaks out from the rock, a spherical bubble is generated from the mud. The bubble is supposed to keep its spherical shape and its diameter increases by 50% while it moves up to the surface of the water. The temperature of the water is the same everywhere. What is the depth of the water above the mud layer? 
+At the bottom of lake Hévíz, where the spring breaks out from the rock, a spherical bubble is generated from the mud. The bubble is supposed to keep its spherical shape and its diameter increases by 50% while it moves up to the surface of the water. The temperature of the water is the same everywhere. What is the depth of the water above the mud layer?
  (4 pont)

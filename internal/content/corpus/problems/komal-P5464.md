@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, graphical-reduction, differential-element]
 ---
 
-Inclined planes of different angles of inclination are laid through the focus $F$ of a parabola with vertical symmetry axis and opening downtranslwards. What is the angle of inclination of that inclined plane along which a point-like body, starting from the point $F$ without initial velocity and sliding frictionlessly down, reaches the parabola in the shortest possible time? 
+Inclined planes of different angles of inclination are laid through the focus $F$ of a parabola with vertical symmetry axis and opening downtranslwards. What is the angle of inclination of that inclined plane along which a point-like body, starting from the point $F$ without initial velocity and sliding frictionlessly down, reaches the parabola in the shortest possible time?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5464-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5464-fig1.gif)

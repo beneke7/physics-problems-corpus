@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4220. Egy merülőforraló teljesítménye 230 V-os szinuszos hálózat esetén 350 W. 
- $a)$ Mekkora a merülőforraló legnagyobb és legkisebb pillanatnyi teljesítménye működés közben? 
- $b)$ Mekkora a merülőforralón áthaladó áram legnagyobb pillanatnyi értéke? 
+P. 4220. Egy merülőforraló teljesítménye 230 V-os szinuszos hálózat esetén 350 W.
+ $a)$ Mekkora a merülőforraló legnagyobb és legkisebb pillanatnyi teljesítménye működés közben?
+ $b)$ Mekkora a merülőforralón áthaladó áram legnagyobb pillanatnyi értéke?
  $c)$ Miért nem szabad a merülőforralót még a vízbe helyezés előtt bekapcsolni?

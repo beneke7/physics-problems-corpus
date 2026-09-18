@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, auxiliary-unknowns, extremization]
 ---
 
-The thread of a simple pendulum of length $L$ is stretched horizontally and then released. When the thread of the pendulum becomes vertical, the pendulum bob collides perfectly elastically with another small body, which has the same mass as the pendulum bob, and which is initially on the edge of a table. After the collision, the body on the edge of the table is projected horizontally, i.e. it will move in a parabolic path. Where is the focus and the directrix of this parabola? 
+The thread of a simple pendulum of length $L$ is stretched horizontally and then released. When the thread of the pendulum becomes vertical, the pendulum bob collides perfectly elastically with another small body, which has the same mass as the pendulum bob, and which is initially on the edge of a table. After the collision, the body on the edge of the table is projected horizontally, i.e. it will move in a parabolic path. Where is the focus and the directrix of this parabola?
  (5 pont)

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization, stability-analysis]
 ---
 
-A freezer has been operated in a store room for a long time. The temperature inside the freezer is $-20\;{}^\circ\mathrm{C}$, the temperature in the store-room is $25\;{}^\circ\mathrm{C}$, and everywhere else in the flat the temperature is $20\;{}^\circ\mathrm{C}$. After a long time of operation what will the temperature of the store room be if another alike freezer is placed into the store-room? 
- Assume that —apart from the store room— the temperature of the flat does not change. Consider the freezers to be ideal Carnot refrigerators, whose thermostats are adjusted to maintain the inside temperature of $-20\;{}^\circ\mathrm{C}$. 
+A freezer has been operated in a store room for a long time. The temperature inside the freezer is $-20\;{}^\circ\mathrm{C}$, the temperature in the store-room is $25\;{}^\circ\mathrm{C}$, and everywhere else in the flat the temperature is $20\;{}^\circ\mathrm{C}$. After a long time of operation what will the temperature of the store room be if another alike freezer is placed into the store-room?
+ Assume that —apart from the store room— the temperature of the flat does not change. Consider the freezers to be ideal Carnot refrigerators, whose thermostats are adjusted to maintain the inside temperature of $-20\;{}^\circ\mathrm{C}$.
  (6 pont)

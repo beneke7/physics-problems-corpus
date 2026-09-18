@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, exploit-symmetry]
 ---
 
-A triangle-shaped thin plate with sides $a$, $b$, and $c$ has a uniform mass distribution and weighs $G$. The plate is supported horizontally at the vertices of the triangle. What is the force exerted by the plate on the support points? 
+A triangle-shaped thin plate with sides $a$, $b$, and $c$ has a uniform mass distribution and weighs $G$. The plate is supported horizontally at the vertices of the triangle. What is the force exerted by the plate on the support points?
  (4 pont)

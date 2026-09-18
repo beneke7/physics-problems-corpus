@@ -19,4 +19,4 @@ verification_status: pending
 
 A rope with mass $m$ is hung from the ceiling by its both ends and a weight with mass $M$ is attached to its centre. The tangent to the rope at its either end forms angle $\alpha$ with the ceiling. What is the angle $\beta$ between the tangents to the rope at the weight?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr12-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr12-fig1.jpg)

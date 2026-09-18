@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [graphical-reduction, differential-element]
 ---
 
-A 50 cm long, 100 g mass chain of small links is hung such that its lower end is just above a scale. Suddenly the chain is released. 
+A 50 cm long, 100 g mass chain of small links is hung such that its lower end is just above a scale. Suddenly the chain is released.
 
- Determine and sketch the reading on the scale as a function of the distance of the top of the chain and the scale; and as a function of the time elapsed from the release of the chain. 
+ Determine and sketch the reading on the scale as a function of the distance of the top of the chain and the scale; and as a function of the time elapsed from the release of the chain.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5037-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5037-fig1.gif)

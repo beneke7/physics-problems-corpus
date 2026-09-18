@@ -18,7 +18,7 @@ dq = CvdT. There is no heat energy by T = 0,
 hence q =
 RT
 0
-CvdT. Using the graph we 
+CvdT. Using the graph we
 nd
 this as the area under the curve, q ≈ R·560J/K.
 The number of moles ν = a3
@@ -53,7 +53,7 @@ c
 R
 cos2
 αdΩ, where the solid
-angle dierential dΩ = 2π sinαdα. Therefore, p̄k =
+angle di erential dΩ = 2π sinαdα. Therefore, p̄k =
 E
 c
 Rπ/2
@@ -85,7 +85,7 @@ can be written as AT3
 dT = −σST4
 dt, where
 A is a constant, σ is the Stefan-Boltzmann con-
-stant, and S  the radiating area. This simpli-
+stant, and S   the radiating area. This simpli-
 
 es to
 dT
@@ -100,8 +100,8 @@ they came, but uncoated face gives away heat
 energy, and the molecules leave at higher tem-
 perature. If we assume that the departing
 molecules have the same temperature as the
-cube (which serves us only as an estimate 
-when particles of dierent masses collide, only
+cube (which serves us only as an estimate
+when particles of di erent masses collide, only
 a part of the energy is transferred), then the
 momentum-to-heat ratio is estimated as 1/vT ,
 where vT =

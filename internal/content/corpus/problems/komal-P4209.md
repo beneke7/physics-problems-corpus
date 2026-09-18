@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200912"
 verification_status: pending
 ---
 
-As an average we take breath 18 times in every minutes, and approximately 500 cm$^{3}$ is inhaled in each breath. The O$_{2}$ content of the inhaled air is 21%, and that of the exhaled air is 16%. The temperature of the air in the lungs is the same as the body temperature. 
- How many grams of O$_{2}$ is consumed in a day? 
+As an average we take breath 18 times in every minutes, and approximately 500 cm$^{3}$ is inhaled in each breath. The O$_{2}$ content of the inhaled air is 21%, and that of the exhaled air is 16%. The temperature of the air in the lungs is the same as the body temperature.
+ How many grams of O$_{2}$ is consumed in a day?
  (4 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 A slippery rod is positioned at an angle $\alpha$ with respect to the horizon. A little ring of mass $m$ can slide along the rod, to which a long thread is attached. A small sphere of size $M$ is attached to the thread. Initially the ring is held motionless, and the thread hangs vertically. Then the ring is released. What is the acceleration of the sphere immediately after that?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr66-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr66-fig1.jpg)

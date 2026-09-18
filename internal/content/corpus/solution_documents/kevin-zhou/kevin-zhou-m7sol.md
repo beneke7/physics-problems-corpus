@@ -47,7 +47,9 @@ decreasing, so the net force is increasing; the system accelerates downward fast
 flotation vest that can fill with a varying amount of air to establish neutral buoyancy. A diver is
 originally neutrally buoyant at a certain depth. How should the diver manipulate the amount of
 air in their flotation vest to move lower, then stay there at neutral buoyancy?
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. To move lower, the amount of air should be decreased. To stay at neutral buoyancy,
 the amount of air should be increased. In fact, the amount of air in the vest should end up greater
 than the original amount, because at a lower point, the same amount of air would be squeezed to a
@@ -82,7 +84,9 @@ a light thin wire. Do the scales stay level, go down on the left, or go down on 
 Solution. The ball on the right experiences an upward buoyant force, so it exerts a downward
 force on the water. As for the ball on the left, it has no effect whatsoever on the force on the scale,
 because this force is simply equal to the weight of all the water. So the scales go down on the right.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 This is an incredibly classic problem; it appeared on the first-ever physics Olympiad, held in
 Moscow in 1939.
 [2] Problem 4 (BAUPC). Two trapezoidal containers, connected by a tube as shown, hold water.
@@ -106,7 +110,9 @@ The system is in equilibrium.
 (a) Find the volume Vw of the water in the bucket.
 (b) What would happen if more water were poured into the bucket?
 (c) What would happen if some or all of the water evaporated?
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) There is a buoyant force of ρwVi on the block, which pushes the block up and
 the bucket down. In equilibrium, the tension in the cord T must balance against the weight
 of the block and the buoyant force: T = (ρiVi − ρwVi)g. Similarly for the water/bucket,
@@ -138,7 +144,9 @@ This is an example of the hydrostatic paradox. Most of the upward force on the w
 not provided by the pressure in the water in the neck, but from the normal force from
 the walls; each piece of wall provides enough normal force to hold up all of the water
 above it. (Of course, ultimately each piece of the glass is held in place by internal forces
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 with other pieces of the glass, which ultimately are balanced by whatever is holding the glass.)
 Thus, the water in the neck only supports the water directly above it. That’s precisely what
 is balanced by the heightened pressure in the neck, so the water doesn’t start moving. (There
@@ -165,7 +173,9 @@ force vanishes, so Wup = 0 too. The point is that the buoyant force is only ρgV
 of the object with volume V is surrounded by water. Since the tube just goes right through
 the bottom of the column, there’s no water present to push up on the bottom of the tube,
 and thus no buoyant force.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 7 (HRK). A fluid is rotating at constant angular velocity ω about the vertical axis of
 a cylindrical container. Defining z = 0 to be the water level at the cylinder’s axis, show that the
 liquid surface is the paraboloid
@@ -199,7 +209,7 @@ dz
 dr
 = 0.
 We thus have dz/dr = ω2r/g, and integrating gives the desired result.
-[3] Problem 8.  W 1 0USAPhO 2013, problem A4. In order to make measurements, print out the
+[3] Problem 8.   W 1 0USAPhO 2013, problem A4. In order to make measurements, print out the
 problem before starting.
 2 Fluid Mechanics
 Next we’ll consider some situations involving fluids and other objects, where the fluids can be
@@ -213,17 +223,19 @@ torque about the center of mass.
 surface. Water is poured in through a small hole at the top. At the moment the container fills,
 water starts leaking from between the table and the edge of the container.
 Find the mass of the container if the water has density ρ and the hemisphere has radius R.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Note that right when the water is full, the normal force between the ground and the
 container vanishes. Thus, the weight of the container and water is balanced by the normal force on
 the water. However, this is just ρgR(πR2), so we have
-
+
 M +
 2
 3
 πR3
 ρ
-
+
 g = ρgπR3
 , M =
 ρπR3
@@ -266,9 +278,11 @@ pressure of the curved part produces no torque. The applied force needs to cance
 gravity and the pressure from the wall. It turns out there always exists a point of application for F
 that does this, but showing it explicitly is messy and unenlightening. In this problem, you’re just
 meant to see intuitively that torque can be balanced.
-7Kevin Zhou Physics Olympiad Handouts
-[3] Problem 11.  W 1 0USAPhO 2004, problem A2.
-[3] Problem 12.  W 1 0USAPhO 2002, problem A4. Be careful with this one!
+7
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 11.   W 1 0USAPhO 2004, problem A2.
+[3] Problem 12.   W 1 0USAPhO 2002, problem A4. Be careful with this one!
 [3] Problem 13. A long log with square cross section and density ρl floats in water with density ρw.
 If α = ρl/ρw, then when α ≪ 1, the log will float stably with one of its sides parallel to the water.
 (a) As α is increased, show that once α > (3−
@@ -299,18 +313,18 @@ CB we split it into two pieces as shown above. Then
 xB =
 1
 α
-
+
 1
 6
 ·
 dθ
 2
 + 0 ·
-
+
 α −
 dθ
 2
-
+
 =
 dθ
 12α
@@ -326,18 +340,20 @@ where y is positive downward. For neutral stability, (xB,yB) must lie on a verti
 the center of mass, which implies xB/yB = dθ, so
 1
 12α
-
+
 1
 2
 −
 α
 2
-−1
+ −1
 = 1.
 This is a quadratic equation with solution α = (3 −
 √
 3)/6.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Of course, there’s always some stable equilibrium, corresponding to the orientation where the
 center of mass of the system is as low as possible. When α = 1/2, it’s fairly intuitive that
 the log stably sits at a 45◦ angle, with a corner facing directly down. And when α ≈ 1, the
@@ -378,7 +394,9 @@ density ρ. The object forces the water to move: the water ahead of it has to ge
 way, while the water behind it needs to fill the space it leaves behind. By the ideas of M4,
 the total kinetic energy of the water is (∆m)v2
 0/2, where ∆m is the added mass.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 It turns out the fluid’s velocity field v(r) has to satisfy ∇·v = 0, reflecting the incompressibility
 of water, and ∇ × v = 0, reflecting the absence of vorticity. It also has to go to zero far
 from the sphere, and have zero relative normal velocity at the sphere itself. These differential
@@ -420,10 +438,10 @@ Z π
 ρv2
 0a6
 8
-
+
 1
 3a3
-
+
 (2π)(4).
 This yields a added mass of (2π/3)ρa3 = ρV/2, as stated above.
 Remark
@@ -441,7 +459,9 @@ The upward buoyant force on the bubble is ρV g, and the mass of the bubble is n
 if we didn’t know about added mass, we would be tempted to conclude the acceleration is
 enormous. Instead, the buoyant force is used to move the added mass ρV/2 out of the way,
 so the upward acceleration is 2g.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 Like most things in fluid dynamics, this isn’t an exact result. The usual expression for the
 buoyant force assumes no motion at all, while the added mass derivation assumes uniform
 motion, neither of which are true for an accelerating bubble. For the result above to be
@@ -468,7 +488,9 @@ Example 6: HRK
 A tank is filled with water to a height H. A small hole is punched in one of the walls at a
 depth h below the water surface as shown.
 Find the distance x from the foot of the wall at which the stream strikes the floor.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The flow isn’t perfectly steady, but it’s close enough since the hole is small. We thus apply
 Bernoulli’s principle along a streamline, where one point is at the water’s top surface, and
@@ -512,7 +534,9 @@ Incidentally, this example brings up a little puzzle about Bernoulli’s princip
 that the air slows down when it enters the barn, so the pressure goes up. But in the reference
 frame moving with the wind, the air speeds up when it enters the barn – so shouldn’t its
 pressure go down? The issue with this reasoning is two-fold. First, in the wind’s frame, the
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 barn is moving, so the flow isn’t steady and Bernoulli’s principle doesn’t apply. Second, even
 if the barn were moving slowly, so that the flow were almost steady, the barn’s motion would
 still be doing work on the air, and this changes Bernoulli’s principle because it is ultimately
@@ -540,11 +564,11 @@ Pf − P0 = −
 1
 2
 ρv2
-
+
 1
 (1 − At/A0)2
 − 1
-
+
 .
 We neglected the change in density of the air, which is a good approximation when the train
 is much slower than the speed of sound. We’ll treat fluid flow with changing density in T3.
@@ -563,7 +587,9 @@ out.
 But that implies vout ≈ 0, which doesn’t make sense. The problem is that Bernoulli’s
 principle applies to steady flows, and this situation is definitely not steady: by the time the
 air goes through the tube, the tube has rotated by a significant amount.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Instead, we apply Bernoulli’s principle in a reference frame rotating with the tube. The
 centrifugal force gives an additional term, turning it into
 P +
@@ -624,7 +650,9 @@ Patm +
 where w is the work done by the fan per unit volume of air.
 [2] Problem 15 (HRK). A siphon is a device for removing liquid from a container that cannot be
 tipped. An example of a siphon, with constant cross-section, is shown below.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 The tube must initially be filled, but once this has been done the liquid will flow until its level drops
 below the tube opening at A. The liquid has density ρ and negligible viscosity.
 (a) With what speed does the liquid emerge from the tube at C?
@@ -653,7 +681,9 @@ above zero, then the siphon will stop working, because the water flow will break
 exit tube.)
 (d) Yes. It is still energetically favorable for water to flow through the siphon as long as point C is
 below the surface of the water. As mentioned above, the siphon works as long as h2 + d > 0.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 16 (HRK). Consider a uniform U-tube with a diaphragm shown below.
 (a) Suppose the diaphragm is opened and the liquid begins to flow from left to right. Show that
 applying Bernoulli’s principle yields a contradiction.
@@ -678,7 +708,9 @@ part (b). Fluid does go all the way from point 1 to point 3, but Bernoulli’s p
 applied because the flow isn’t steady.
 [2] Problem 17 (HRK). A stream of fluid of density ρ with speed v1 passes abruptly from a cylindrical
 pipe of cross-sectional area a1 into a wider cylindrical pipe of cross-sectional area a2 as shown.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 The jet will mix with the surrounding fluid, forming a turbulent region where the pressure is
 approximately P1. Further to the right, the flow becomes almost uniform again, with average speed
 v2 and pressure P2.
@@ -717,7 +749,9 @@ gives the desired result.
 .
 As in an inelastic collision, the loss of energy (reflected in the loss of pressure, which is
 essentially like elastic potential energy) goes as the square of the relative speed.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 18 (PPP 49). A bucket with a hole in the bottom is held below a faucet. When the
 bucket is empty, the hole is plugged, and the faucet is turned on, the bucket fills with water in time
 T1. When the bucket is full, the faucet is turned off, and the hole is opened, the bucket empties in
@@ -781,7 +815,9 @@ but for real water, the true answer is that it never fills up all the way.
 [4] Problem 19. This problem is about the subtle phenomenon of vena contracta. An incompressible
 fluid of density ρ is flowing through a tube of area A1, which suddenly contracts to area A2 ≪ A1.
 Naively, the flow looks as shown at left below.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Argue by energy conservation that v2 ≈
 p
 2(P1 − P2)/ρ.
@@ -837,7 +873,9 @@ Combining these equations gives A3/A2 ≈ 1/2 as desired.
 (d) In reality, the pressure on the right wall is not precisely P1, but instead slightly lower near
 the hole because the fluid has nonzero speed there. So the net force is actually larger than
 expected, so A3 > A2/2. (Actually calculating this amount exactly would be rather difficult.)
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (e) We can force the net force to be almost exactly (P1 − P2)A2 with a “Borda mouthpiece.”
 This works because by construction, the fluid in the parts jutting out to the right is almost
 perfectly at rest.
@@ -864,7 +902,9 @@ jump”, where the height of the fluid increases to h2. At the same time, the fl
 down and becomes turbulent.
 This phenomenon is very common in everyday life. For example, it happens whenever you
 turn on the water faucet in a sink; the hydraulic jump occurs on a circle centered on the
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 faucet. Find the final height h2.
 Solution
 During this process, the bulk kinetic energy of the water is not conserved, because it is
@@ -930,7 +970,9 @@ Note that this conservation law approach doesn’t tell us about how far a fluid
 it undergoes a hydraulic jump. That would require understanding the fluid flow in detail,
 accounting for turbulence and viscosity, which is generally analytically intractable. For more
 on this subject, see sections 26.1 and 26.2 of Lautrup.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 20 (PPP 70). A tanker full of liquid is at rest on a frictionless horizontal road.
 A small vertical outlet pipe at the rear of the tanker is opened. Describe qualitatively how the
 tanker will move (a) immediately afterward, and (b) after a long time. Assume that the water
@@ -962,7 +1004,9 @@ The jet lies in the vertical plane that contains the center-line of the gutter. 
 relatively shallow, so that the water hits the gutter smoothly, and doesn’t splatter. Find the ratio
 of the quantities of water flowing out at the two ends of the gutter as a function of the angle of
 incidence α of the jet.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. Let the original water jet have area A0 and speed v. Let v1 be the speed of the stream
 to the right, and let A1 be its area. Similarly define v2 and A2. First, we claim that
 v = v1 = v2.
@@ -1003,7 +1047,9 @@ blades, which make the water rotate with the tank.
 (a) Find the pressure p2 at the perimeter of the tank when all the holes are closed.
 (b) For the rest of the problem, we suppose the holes are opened. Find the velocity v2 of the
 water jets with respect to the ground.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 (c) If the tank rotates too fast, the water pressure at some point will become lower than pk. As
 you’ll see in T3, this will cause “cavitation”, i.e. the water will start boiling, lowering the
 pump’s efficiency. Find the highest cavitation-free angular speed ωmax.
@@ -1023,14 +1069,14 @@ p
 r
 s
 gh +
-
+
 p0 − pk
 ρ
 − gh
-
+
 S1
 S2
-2
+ 2
 µ = P/2gh
 [3] Problem 23. A helicopter with length scale ℓ and density ρh can hover using power P, in air of
 density ρa. Find a rough estimate for P in terms of the given parameters. (For a nice followup
@@ -1072,7 +1118,9 @@ if the air is thinner. (This is why helicopters have trouble rescuing people fro
 The reason is that thinner air needs to be pushed down faster to get the same lift, but this requires
 more power because energy is quadratic in speed. Also, note that this problem couldn’t have been
 solved by dimensional analysis alone, since two densities were present.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 Example 12: Kalda 82
 A water turbine consists of a large number of paddles that could be considered as light flat
 boards with length ℓ, that are at one end attached to a rotating axis. The paddles’ free ends
@@ -1117,7 +1165,9 @@ on the air and using momentum conservation, again assuming no extraneous energy 
 (c) Find an upper bound on the ratio of the wind power that can be harvested by the windmill,
 to the amount of wind power that would pass through it if it weren’t running.
 This result is called the Betz limit.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Since there’s nowhere else for the energy to go, the power must be the rate of
 change of the wind’s energy. The mass flow rate is µ = ρAvf, so
 P =
@@ -1145,7 +1195,7 @@ and thus P = (8/27)ρAv3
 i . If the windmill were not running, the rate at which wind energy
 flows through it is (ρAvi)v2
 i /2, which means the maximum fraction harvested is 16/27.
-[5] Problem 25.  T 1 0GPhO 2017, problem 2. A very tricky composite fluids/mechanics problem.
+[5] Problem 25.   T 1 0GPhO 2017, problem 2. A very tricky composite fluids/mechanics problem.
 5 Wet Water
 So far we’ve mostly ignored viscosity and turbulence, an unrealistic limit that some refer to as “dry
 water”. Now we’ll consider some problems involving real, wet water.
@@ -1166,7 +1216,9 @@ Because of viscous effects, the wind speed is small near the ground, and hence g
 height. By Bernoulli’s principle, this means the pressure at the top of a mound is slightly
 lower than the pressure at an opening without a mound. This difference in pressure drives
 air flow through the burrows.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Example 14
 If you’ve used a standard garden hose, you might have noticed that the water shoots higher
 if you partially block the outlet with your finger. Why does this happen?
@@ -1207,7 +1259,9 @@ Finding the exact thickness of this boundary layer would require solving complic
 differential equations, but it suffices to use dimensional analysis. Note that R and H can’t
 possibly play a role, since the layer is so thin it doesn’t “see” the shape of the mug. The
 fluid properties η and ρ surely matter. Perhaps more subtly, ω matters. If the fluid weren’t
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 spinning, but rather were uniformly translating in a plane, then the boundary layer would
 just grow over time until it was the size of the whole fluid. That’s what we saw in problem 26,
 where the velocity changes gradually along the whole pipe radius R. The boundary layer
@@ -1269,7 +1323,9 @@ dv/dr = −
 ∆P
 2ηL
 r.
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Integrating and using the fact that v(R) = 0 yields the desired result. Now, the mass flux is
 dm/dt =
 Z R
@@ -1319,7 +1375,9 @@ shapes, and weakly on the velocity.)
 water has about 3 times the viscosity.) For an object of radius 1cm, find the characteristic
 velocity that divides the two types of drag.
 (d) The two cases correspond to flow patterns as shown below.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 In the latter case, a region of turbulent flow is created. Using this picture, explain why the
 drag force is proportional to v2.
 (e) The results above apply to both liquids and gases. In a gas, the relevant quantities are the
@@ -1330,10 +1388,10 @@ Drag is nicely discussed throughout The Art of Insight; see sections 3.5, 5.3.2,
 Solution. (a) By running a standard dimensional analysis, we find the most general expression
 with the right dimensions of force is
 F = ηRv f
-
+
 ρRv
 η
-
+
 .
 In accordance with the Buckingham Pi theorem of P1, we can’t pin down the answer exactly;
 we can only determine it up to an unknown function of Re = ρRv/η, the unique dimensionless
@@ -1366,7 +1424,9 @@ v =
 ρR
 = 7.2 × 10−4
 m/s
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 for hot water.
 Since the Reynolds number Re is the only dimensionless quantity in the problem, the crossover
 must correspond to some value for Re. Our rough estimate above corresponds to taking
@@ -1407,7 +1467,9 @@ ground thereby warms the air near the ground. Since warmer air at the same press
 dense, it begins to rise by convection. This air also expands roughly adiabatically as it rises,
 lowering its temperature. Warmer air can also hold more water, so if the original air was
 moist, water vapor will condense into droplets as the air rises. (This last point is important,
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 because the condensation releases energy, partially counteracting the cooling of the rising air.
 This keeps it warmer and hence lighter than its surroundings, allowing it to continue to rise.)
 Now consider a droplet of radius r. Depending on the droplet size and velocity, the drag
@@ -1441,7 +1503,9 @@ so that clouds occupy a sweet spot, scattering the most light for a given amount
 The same applies for fog, which is simply a cloud that touches the ground.
 6 Surface Tension
 We now return to surface tension, first covered in M2, which we’ll see yet again in T3.
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 Example 18
 A very thin, hollow glass tube of radius r is dipped vertically inside a container of water.
 Find the equilibrium height of the water in the tube.
@@ -1470,7 +1534,9 @@ Physics problems often assume that water and glass have zero contact angle. This
 that water perfectly wets glass, i.e. that a droplet of water placed on a horizontal glass surface
 will spread to cover it completely. We will follow this assumption below, though in practice,
 glass tends to quickly get coated in a layer of impurities, leading to a nonzero contact angle.
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 Example 19: PPP 130
 Water in a glass beaker forms a meniscus, as shown below.
 Find the height h to which the meniscus rises above the flat water surface.
@@ -1497,7 +1563,9 @@ problem 33, you can also derive this result by considering force balance on the 
 Example 20: PPP 29
 Water can rise to a height H in a certain capillary tube. Three “gallows” are made from this
 tubing by bending it, and placed into a tank of water.
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 Note that H′ > H. For which tubes, if any, does water flow out of the other end?
 Solution
 Clearly no water can fall out of (a), because this would produce a perpetual motion machine.
@@ -1547,20 +1615,22 @@ so this isn’t a significant source of error.
 the plates is d, and the diameter of the trapped water disc is D ≫ d.
 In terms of the surface tension γ of water, what is the force acting between the two plates? This
 effect can cause wet glass plates to stick together.
-35Kevin Zhou Physics Olympiad Handouts
+35
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. If you imagine slicing the puddle of water along a diameter, then its boundaries with
 the air are arcs of circles, since this minimizes the surface area. Since water perfectly wets glass,
 these circles are tangent to the two glass plates, which mean they have radius of curvature d/2. In
 addition, the surface of the water has radius of curvature D/2 in the orthogonal direction. Thus,
 by the Young–Laplace equation,
 ∆P = γ
-
+
 2
 D
 −
 2
 d
-
+
 ≈ −
 2γ
 d
@@ -1628,7 +1698,9 @@ s
 8γ
 D ∼ 0.01s
 where we used ρ ≈ 103 kg/m3, since soap films are mostly water.
-36Kevin Zhou Physics Olympiad Handouts
+36
+
+Kevin Zhou Physics Olympiad Handouts
 If you want to be even more precise, we can also solve the differential equation exactly. We can
 get rid of the t-dependence entirely by writing dv/dt = (dv/dr)(dr/dt) = v dv/dr, giving
 v2
@@ -1673,7 +1745,7 @@ where r ∼ V 1/3 is the characteristic length of the initial spherical bubble. 
 ω ≫
 p
 γ/ρV . I thank Kai Wen Teo for translating this problem.
-[3] Problem 32.  ^ 1 0USAPhO 2020, problem B1. A nice, slightly mathematically involved surface
+[3] Problem 32.   ^ 1 0USAPhO 2020, problem B1. A nice, slightly mathematically involved surface
 tension problem with a real-world impact. This setup is discussed in detail in section 5.4 of Lautrup.
 [4] Problem 33. @ 1 0IPhO 2023, problem 3, parts B and C. A nice problem on the shape of a
 meniscus, which also explains why pieces of cereal clump together in a bowl of milk.
@@ -1685,7 +1757,9 @@ Solution
 When a pile of sand is dry, the only force keeping it in place is friction, which is weak. When
 it’s very wet, it’s essentially just water, which will simply collapse. But when it’s slightly
 wet, adjacent sand grains have a small layer of water connecting them. Since sand grains are
-37Kevin Zhou Physics Olympiad Handouts
+37
+
+Kevin Zhou Physics Olympiad Handouts
 small, this implies a huge total surface area, and thus large surface tension effects.
 There are actually two conceptually distinct components to the effect. First, the bit of water
 connecting two sand grains will provide a surface tension force F ∼ γr. Second, as you

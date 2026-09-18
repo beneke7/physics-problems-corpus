@@ -79,7 +79,9 @@ thickness of the tube walls is neglected.
 
 
                               Fig. 2. Sketch of the tube in different configurations
-                                                                                    Q2-2
+
+
+                                                                                    Q2-2
 Theory
 
 
@@ -149,7 +151,9 @@ under the conditions specified in Table 1.
 In each case, we study the evolution of the force 𝐹 that must be applied in order to maintain the tube
 in equilibrium at an altitude ℎ, the external pressure being fixed at 𝑃a = 𝑃0 = 1.000 × 105 Pa. Two different
 behaviours are possible
-                                                                                                 Q2-3
+
+
+                                                                                                 Q2-3
 Theory
 
 
@@ -208,7 +212,9 @@ One can deduce the following predictions:
                                1                         A                                      14.7
                                2                         A                                      14.4
                                3                         B                              2.1       5.1
-                                                                                          Q2-4
+
+
+                                                                                          Q2-4
 Theory
 
 
@@ -268,7 +274,9 @@ MARKING SCHEME:
 
 
 Part B - Two-part barometric tube
-                                                                                   Q2-5
+
+
+                                                                                   Q2-5
 Theory
 
 
@@ -332,7 +340,9 @@ mass in the two-part tube which is above the outside surface of the liquid bath,
 
 
                                         0−
-                                                                                           Q2-6
+
+
+                                                                                           Q2-6
 Theory
 
 
@@ -378,7 +388,9 @@ taking 𝑃sat = 0. Combining this result with that of the previous question, on
 
 
 MARKING SCHEME:
-                                                                                               Q2-7
+
+
+                                                                                               Q2-7
 Theory
 
 
@@ -435,7 +447,9 @@ in the tube is given by
 
 
 which leads to
-                                                                                               Q2-8
+
+
+                                                                                               Q2-8
 Theory
 
 
@@ -481,7 +495,9 @@ of 𝑋 guarantees that
    • the bottom of the two-part tube never touches the bottom of the cistern nor comes out of the liquid
      bath;
    • the altitude 𝑧ℓ of the mercury column is always in the upper bulb.
-                                                                                           Q2-9
+
+
+                                                                                           Q2-9
 Theory
 
 
@@ -543,7 +559,9 @@ tensions exerted by the two cables on either side of the mass 𝑀 are in balanc
 where the last expression uses that 𝑆t ≪ 𝑆b , 𝑆c (which we will assume is valid until the end of the problem).
 
      C.1     Determine the threshold 𝜉⋆ such that 𝑀 remains indefinitely at rest when 𝜉 > 𝜉⋆ .                 1pt
-                                                                                 Q2-10
+
+
+                                                                                 Q2-10
 Theory
 
 
@@ -612,7 +630,9 @@ keeping 𝑚1,tb ).
 
 The friction force between the support and the mass 𝑀 needed to maintain the equilibrium is therefore
 given by
-                                                                                  Q2-11
+
+
+                                                                                  Q2-11
 Theory
 
 
@@ -669,7 +689,9 @@ which allows us to identify
                                                         𝜉⋆ = 2
 
 MARKING SCHEME:
-                                                                       Q2-12
+
+
+                                                                       Q2-12
 Theory
 
 
@@ -701,7 +723,9 @@ For the next question only, suppose that the mass 𝑀 is temporarily blocked at
 
 SOLUTION:
 Let us compare the configurations of the system when 𝑥 = 0 and when 𝑥 = 𝑋.
-                                                                                             Q2-13
+
+
+                                                                                             Q2-13
 Theory
 
 
@@ -771,7 +795,9 @@ which can be reformulated as
                                              𝑆b 𝛿b + ⒧𝑆c − 𝑆t ⒭ 𝛿c = ⒧𝑆c − 𝑆b + 𝑆t ⒭ 𝑋
 
 One obtains
-                                                                               Q2-14
+
+
+                                                                               Q2-14
 Theory
 
 
@@ -840,7 +866,9 @@ When 𝜉 < 𝜉⋆ , there necessarily exists an instant from which the mass �
                                                                         −
 From there, the mass 𝑀 is continuously accelerated by the total tension 𝑇 until it is blocked by the stop
 at 𝑥 = 𝑋. According to Fig. 5, one can assume that 𝑋 is of the order of a few centimeters, so the time
-                                                                                      Q2-15
+
+
+                                                                                      Q2-15
 Theory
 
 
@@ -899,7 +927,9 @@ Hence, using the parameters 𝜉 and 𝜆, one can identify the two possible reg
 
    • Regime 2 :       𝜉 + 2𝜆 < 2         (once at 𝑥 = 𝑋 , the mass 𝑀 will periodically sweep between the two
      stops)
-                                                                       Q2-16
+
+
+                                                                       Q2-16
 Theory
 
 
@@ -955,7 +985,9 @@ horizontal surface on the mass 𝑀 . From now on, we assume that the system is 
 to work in the regime that allows the clock to recuperate energy. We also assume that the permanent
 regime is established. We denote 𝑊 the energy dissipated by the solid friction force during a period 𝜏1 ,
 which can be expressed only in terms of 𝐹s and 𝑋.
-                                                                                    Q2-17
+
+
+                                                                                    Q2-17
 Theory
 
 
@@ -1020,7 +1052,9 @@ SOLUTION:
 The variations of pressure and of the vessel's position lead to fluid transfer between the cistern and
 the two-part tube. As a consequence, the total volume 𝑉 (𝑡) occupied by the system in the atmosphere
 changes and can be denoted
-                                                                                      Q2-18
+
+
+                                                                                      Q2-18
 Theory
 
 
@@ -1070,7 +1104,9 @@ haviour once in steady state
 
        -1          3      4
 Therefore, one can draw the following cycle in a ⒧𝑃1 , 𝑉1 ⒭ diagram
-                                                                                              Q2-19
+
+
+                                                                                              Q2-19
 Theory
 
 
@@ -1137,7 +1173,9 @@ MARKING SCHEME:
                                    𝑊⋆ 1
                    Final result:    ⋆ =                                                            0.3
                                    𝑊pr  2
-                                           Q2-20
+
+
+                                           Q2-20
 Theory
 
 

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [model-reduction, graphical-reduction]
 ---
 
-A laser beam is incident on a prism of vertex angle of $70^\circ$. The angle of incidence of the beam is the same as the angle at which the ray emerges from the prism. The laser beam is deflected from its original direction by an angle of $50^\circ$. 
- What is the refractive index of the material of the prism? 
+A laser beam is incident on a prism of vertex angle of $70^\circ$. The angle of incidence of the beam is the same as the angle at which the ray emerges from the prism. The laser beam is deflected from its original direction by an angle of $50^\circ$.
+ What is the refractive index of the material of the prism?
  (3 pont)

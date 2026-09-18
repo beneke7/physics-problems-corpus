@@ -126,7 +126,7 @@ Solving for v0 gives the answer,
 v0 =
 p
 g(d + h1 + h2).
-[3] Problem 35.  m 1 0IPhO 2012, problem 1A.
+[3] Problem 35.   m 1 0IPhO 2012, problem 1A.
 5 Reading Graphs
 In some kinematics problems, you’ll have to infer what’s going on from a diagram. To make progress,
 you’ll have to print out the diagram to make measurements directly on it.

@@ -29,7 +29,9 @@ solution_language: en
     discussed in E8, electron orbits can be modified in a magnetic field, leading to diamagnetism. Many
 
                                                       11
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
     textbooks try to motivate this by considering forces on classical electrons, but such arguments don’t

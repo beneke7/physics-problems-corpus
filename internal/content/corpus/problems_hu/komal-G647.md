@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 647. Két – látszólag egyforma – vízforraló kancsóban szabályos hatszögben meghajlított fűtőszálat találunk. Az egyik kancsóban az $a)$  ábra, a másikban a $b)$  ábra szerint kötötték be a fűtőszálat. Melyik kancsóban forr fel hamarabb a víz?
 
-![figure](../../raw_html/komal_figures/komal-G647-fig1.gif)
+![figure](../../figures/komal/figures/komal-G647-fig1.gif)

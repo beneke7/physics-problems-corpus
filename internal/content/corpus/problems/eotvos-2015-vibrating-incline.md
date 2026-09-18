@@ -24,4 +24,4 @@ techniques: [choose-reference-frame, stability-analysis]
 
 Egy $L=6 \mathrm{~m}$ hosszúságú, merev deszkalap síkja a vízszintessel állandó, $\alpha=10^{\circ}$-os szöget zár be. Az így kialakított lejtő tetejére egy kis hasábot helyezünk. A deszkát a lejtésvonalával párhuzamos irányban $A=1 \mathrm{~mm}$ amplitúdóval és $\omega=500 \mathrm{~s}^{-1}$ körfrekvenciával harmonikusan rezgetni kezdjük. Mennyi idő alatt éri el a hasáb a lejtő alját? (A csúszási és tapadási súrlódási együttható értéke egyaránt $\mu=0,4$, a hasáb a mozgás során nem borul fel.)
 
-![Vibráló lejtő](eotvos-2015-vibrating-incline-fig1.jpg)
+![Vibráló lejtő](../../figures/eotvos/figures/eotvos-2015-vibrating-incline-fig1.jpg)

@@ -37,7 +37,6 @@ Then the extra terms cancel, giving ⟨ψk′ |ψk ⟩ = ⟨k′ |k⟩ = δ(k �
                                    nα
 
 where the first term includes bound states, which are orthogonal to all scattering states.
-277 12. Scattering
 
 
 12.5   The S-Matrix
@@ -75,7 +74,7 @@ We introduce the S-matrix using the simple example of one-dimensional potential 
     This follows from parity symmetry, as we’ll see below.
 
  • We summarize our data in terms of the S-matrix,
-                                                                              
+
                             ψR       IR        OR                           t r
                                 =         +S       ,                   S=
                             ψL       IL        OL                           r ′ t′
@@ -90,17 +89,16 @@ Next, we consider a general parity-symmetric potential V (x) = V (−x).
          I+ (x) = e−ik|x| ,   I− (x) = sign(x)e−ik|x| ,      O+ (x) = eik|x| ,   O− (x) = − sign(x)eik|x|
 
     which is related by the change of basis
-                                                                                 
+
                        I+         IR        O+     OR                                 1 1
                             =M         ,       =M     ,                     M=              .
                        I−         IL        O−     OL                                −1 1
 
     Applying this transformation, the S-matrix in the parity basis is S P = M SM −1 .
-278 12. Scattering
 
 
  • For a parity-symmetric potential, r = r′ because ψR (x) = ψL (−x). Then S P simplifies to
-                                         
+
                          P     S++
                        S =                   , S++ = t + r, S−− = t − r.
                                       S−−
@@ -140,4 +138,3 @@ Next, we consider a general parity-symmetric potential V (x) = V (−x).
 
    which shows that bound states of even parity occur when λ = q tan(qa/2), a familiar result. We
    can recover the bound state energy from E = −ℏ2 λ2 /2m.
-

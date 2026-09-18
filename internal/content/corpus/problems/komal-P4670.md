@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, model-reduction]
 ---
 
-The diameter of a solenoid of length $\ell=2$ m is $D=2$ cm. The solenoid has $N=2000$ turns, its axis is vertical and an upward direct current of $I=10$ A flows in it. (The circuit is closed far away from the coil.) Electrons are projected towards the axis of the coil perpendicularly to it, at an initial speed of $v=2.5\cdot10^6$ m/s. What is the radius of the paths of the electrons at the point which is at a distance of $d=2$ cm from the turns of the coil. 
+The diameter of a solenoid of length $\ell=2$ m is $D=2$ cm. The solenoid has $N=2000$ turns, its axis is vertical and an upward direct current of $I=10$ A flows in it. (The circuit is closed far away from the coil.) Electrons are projected towards the axis of the coil perpendicularly to it, at an initial speed of $v=2.5\cdot10^6$ m/s. What is the radius of the paths of the electrons at the point which is at a distance of $d=2$ cm from the turns of the coil.
  (6 pont)

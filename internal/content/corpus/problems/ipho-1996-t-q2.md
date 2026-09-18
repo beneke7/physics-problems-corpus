@@ -26,7 +26,7 @@ verification_status: pending
 The space between a pair of coaxial cylindrical conductors is evacuated. The radius of the inner cylinder is $a$, and the inner radius of the outer cylinder is $b$, as shown in the figure below. The outer cylinder, called the anode, may be given a positive potential $V$ relative to the inner cylinder. A static homogeneous magnetic field $\vec{B}$ parallel to the cylinder axis, directed out of the plane of the figure, is also present. Induced charges in the conductors are neglected.
 
 We study the dynamics of electrons with rest mass $m$ and charge $-e$. The electrons are released at the surface of the inner cylinder.
-![](ipho-1996-t-q2-fig01.png)
+![](../../figures/ipho/figures/ipho-1996-t-q2-fig01.png)
 a) First the potential $V$ is turned on, but $\vec{B}=0$. An electron is set free with negligible velocity at the surface of the inner cylinder. Determine its speed $v$ when it hits the anode. Give the answer both when a non-relativistic treatment is sufficient, and when it is not. (1 point)
 
 For the remaining parts of this problem a non-relativistic treatment suffices.

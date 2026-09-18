@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3872. Közös, zárt vasmagon két sokmenetű tekercs van. Menetszámuk egyenlő, tekercselésük a ) azonos, b ) ellentétes. 
+P. 3872. Közös, zárt vasmagon két sokmenetű tekercs van. Menetszámuk egyenlő, tekercselésük a ) azonos, b ) ellentétes.
 
  A hosszú ideje zárt K kapcsolót hirtelen kinyitjuk. Mennyi az egyes ágakban az áramerősség közvetlenül a kapcsoló kinyitása után?
 
-![figure](../../raw_html/komal_figures/komal-P3872-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3872-fig1.gif)

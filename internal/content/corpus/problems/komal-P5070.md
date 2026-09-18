@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-There is a spring of spring constant $D$ and of un-stretched length $d$ in a cave of height $\ell$. The spring is vertical, its mass is negligible and $d<\ell$. One end of the spring is attached to the ceiling and the other is attached to the ground of the cave as shown in the figure. 
+There is a spring of spring constant $D$ and of un-stretched length $d$ in a cave of height $\ell$. The spring is vertical, its mass is negligible and $d<\ell$. One end of the spring is attached to the ceiling and the other is attached to the ground of the cave as shown in the figure.
 
- A small bat of mass $m$ flies to the midpoint of the spring, clings to the spring, and executes a complicated oscillatory motion driven by the spring. (Not any part of the spring gets loose during the motion of the bat.) 
- $a)$ Where will the bat be when the oscillation is ceased? (The spring obeys Hooke's law even in the case of very big extensions.) 
- $b)$ From this point the bat carefully climbs up to its original height of $\ell/2$ measured from the ground. What is the least amount of work performed by the bat during its climb? 
+ A small bat of mass $m$ flies to the midpoint of the spring, clings to the spring, and executes a complicated oscillatory motion driven by the spring. (Not any part of the spring gets loose during the motion of the bat.)
+ $a)$ Where will the bat be when the oscillation is ceased? (The spring obeys Hooke's law even in the case of very big extensions.)
+ $b)$ From this point the bat carefully climbs up to its original height of $\ell/2$ measured from the ground. What is the least amount of work performed by the bat during its climb?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5070-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5070-fig1.gif)

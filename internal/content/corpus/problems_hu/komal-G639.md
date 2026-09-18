@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 639. Megfigyelték, hogy az égő gyertya lángja a Föld körül keringő űrhajóban gömb alakú. Adjunk magyarázatot erre!
 
-![figure](../../raw_html/komal_figures/komal-G639-fig1.gif)
+![figure](../../figures/komal/figures/komal-G639-fig1.gif)

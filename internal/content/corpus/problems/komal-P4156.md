@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200904"
 verification_status: pending
 ---
 
-Why can a water strider or a blade of a razor float on the surface of water? 
+Why can a water strider or a blade of a razor float on the surface of water?
  (3 pont)

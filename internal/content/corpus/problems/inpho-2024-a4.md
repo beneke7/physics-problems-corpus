@@ -36,10 +36,10 @@ $$
 
 The loop is released from rest at time $t=0$ and descends under gravity (see the figure to the right below). The acceleration due to gravity $g$ is in $+x$ direction.
 
-![](inpho-2024-a4-fig01.png)
+![](../../figures/inpho/figures/inpho-2024-a4-fig01.png)
 (a)
 
-![](inpho-2024-a4-fig02.png)
+![](../../figures/inpho/figures/inpho-2024-a4-fig02.png)
 (b)
 
 (a) [5 marks] Obtain $x(t)$, the position of the bottom edge of the loop at time $t$, in terms of relevant variables.

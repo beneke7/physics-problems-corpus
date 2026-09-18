@@ -53,9 +53,9 @@ This is the typical noise you expect to see on a good oscilloscope. In electrica
 this kind of thermal noise is called “Johnson noise”.
 [2] Problem 25. INPhO 2013, problem 2. A short problem on X-ray diffraction.
 To finish up, here are three neat questions that each cover a broad range of topics.
-[5] Problem 26.  h 1 0IPhO 2009, problem 3. Estimating the size of a star from scratch.
-[5] Problem 27.  h 1 0IPhO 2021, problem 3. Molecular fluorescence and optical lattices.
-[5] Problem 28.  h 1 0USA Team Selection Test 2021, problem 2. A full analysis of a real dark matter
+[5] Problem 26.   h 1 0IPhO 2009, problem 3. Estimating the size of a star from scratch.
+[5] Problem 27.   h 1 0IPhO 2021, problem 3. Molecular fluorescence and optical lattices.
+[5] Problem 28.   h 1 0USA Team Selection Test 2021, problem 2. A full analysis of a real dark matter
 detector.
 9
 Kevin Zhou Physics Olympiad Handouts

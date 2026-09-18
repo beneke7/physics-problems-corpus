@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, graphical-reduction]
 ---
 
-Children play a circle game in the field. Unfortunately, the child in the middle of the circle steps in a wasps' nest and the angry wasps fly away. The wind is blowing from the east at a speed of 4.5 m/s in the field, and the children are running radially outward at a speed of 6 m/s. According to the measurements of scientists these wasps in calm conditions can fly at a speed of 8 m/s. Estimate the percentage of children who are surely safe from wasp stings! You can also use a ruler, a pair of compasses and a protractor to find out the answer. 
+Children play a circle game in the field. Unfortunately, the child in the middle of the circle steps in a wasps' nest and the angry wasps fly away. The wind is blowing from the east at a speed of 4.5 m/s in the field, and the children are running radially outward at a speed of 6 m/s. According to the measurements of scientists these wasps in calm conditions can fly at a speed of 8 m/s. Estimate the percentage of children who are surely safe from wasp stings! You can also use a ruler, a pair of compasses and a protractor to find out the answer.
  (4 pont)

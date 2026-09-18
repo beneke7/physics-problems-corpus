@@ -51,7 +51,9 @@ Draw the electric connections in the boxes and between boxes below.
 
 
                                                                                             Exp. Page 1 of 9
-                                    36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                    36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                    R.S.E.F.
 
 
@@ -108,7 +110,9 @@ We represent RB in the vertical axis against I.
 
 
                                                                                                      Exp. Page 2 of 9
-                                36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                     R.S.E.F.
 
 
@@ -170,7 +174,9 @@ R /ohmios
 
 
                                                                                                       Exp. Page 3 of 9
-                                                   36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                                   36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                                           R.S.E.F.
 
 
@@ -245,7 +251,9 @@ For axis Y : σ R =
 
 
                                                                                                                             Exp. Page 4 of 9
-                                  36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                  36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                         R.S.E.F.
 
 
@@ -313,7 +321,9 @@ a)
 
 
                                                                                                           Exp. Page 5 of 9
-                                   36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                   36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                   R.S.E.F.
 
 
@@ -376,7 +386,9 @@ c)
 
 
                                                                                                     Exp. Page 6 of 9
-                                      36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                      36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                              R.S.E.F.
 
 
@@ -442,7 +454,9 @@ We plot ln R versus RB-0.83 .
 
 
                                                                                                                 Exp. Page 7 of 9
-                                           36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                           36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                                             R.S.E.F.
 
 
@@ -528,7 +542,9 @@ then
 
 
                                                                                                                               Exp. Page 8 of 9
-                                    36th International Physics Olympiad. Salamanca (España) 2005
+
+
+                                    36th International Physics Olympiad. Salamanca (España) 2005
                                                                                                    R.S.E.F.
 
 

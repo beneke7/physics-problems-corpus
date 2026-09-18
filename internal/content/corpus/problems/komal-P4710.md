@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Some ice at a temperature of $0~{}^\circ$C is added to 1 kg water at a temperature of $2~{}^\circ$C. The mixture is in a thermally insulated container and the amount of ice is such, that it just melts whilst the final temperature of the water will be $0~{}^\circ$C. 
- $a)$ Will the entropy of the system increase or decrease? 
- $b)$ Give numerical estimation for the change in the entropy of the system. 
+Some ice at a temperature of $0~{}^\circ$C is added to 1 kg water at a temperature of $2~{}^\circ$C. The mixture is in a thermally insulated container and the amount of ice is such, that it just melts whilst the final temperature of the water will be $0~{}^\circ$C.
+ $a)$ Will the entropy of the system increase or decrease?
+ $b)$ Give numerical estimation for the change in the entropy of the system.
  (5 pont)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200710"
 verification_status: pending
 ---
 
-The kinetic energy of a cart of mass 4 kg, moving on a straight horizontal track is 50 J. It collides with another cart of mass 6 kg, which was at rest, and they are coupled. 
- By what amount does the kinetic energy of the system of the two carts decreased? 
+The kinetic energy of a cart of mass 4 kg, moving on a straight horizontal track is 50 J. It collides with another cart of mass 6 kg, which was at rest, and they are coupled.
+ By what amount does the kinetic energy of the system of the two carts decreased?
  (3 pont)

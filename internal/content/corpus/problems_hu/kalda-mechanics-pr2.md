@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $\alpha$ hajlásszögű lejtőn egy $M$ tömegű, vízszintes tengelyű henger fekszik. A henger belsejébe egy $m$ tömegű kis testet helyezünk. A test és a henger közötti súrlódási együttható $\mu$; a lejtő nem csúszós. Mekkora a legnagyobb $\alpha$ hajlásszög, amelynél a henger nyugalomban marad? A test mérete a henger sugarához képest kicsi.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr2-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr2-fig1.jpg)

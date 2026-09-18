@@ -25,7 +25,7 @@ techniques: [smart-coordinates, extremization]
 
 Consider the circuit shown in the figure.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-lcr-circuit-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-lcr-circuit-fig1.jpg)
 
 **i)** *(2 points)* Draw a phasor diagram for this circuit showing the voltage vectors between the following nodes: $V_{AD}$, $V_{DB}$, $V_{AB}$, $V_{AE}$, $V_{EB}$, $V_{AF}$, and $V_{FB}$.
 

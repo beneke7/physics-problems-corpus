@@ -248,12 +248,12 @@ R2
 +
 3
 8
-
+
 −
 2r
 R
 cosθ
-2
+ 2
 #
 dθ
 =
@@ -336,7 +336,7 @@ E(z) =
 1+z2/R2
 + 1 z > R
 .
-[3] Problem 15.  ^ 1 0USAPhO 2018, problem B1.
+[3] Problem 15.   ^ 1 0USAPhO 2018, problem B1.
 Idea 7: Electric Dipoles
 The dipole moment of two charges q and −q separated by d is p = qd. More generally, the
 dipole moment of a charge configuration is defined as

@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy csuklós szerkezet $l, 2 l$ és $3 l$ oldalhosszúságú rombuszokból áll (lásd az ábrát). Az $A_{3}$ pont $v_{0}$ állandó vízszintes sebességgel mozog. Határozzuk meg az $A_{1}, A_{2}$ és $B_{2}$ pont sebességét abban a pillanatban, amikor a szerkezet minden szöge $90^{\circ}$. Határozzuk meg továbbá a $B_{2}$ pont gyorsulását.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr42-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr42-fig1.jpg)

@@ -9,4 +9,4 @@ example_problems: [kalda-circuits-pr3]
 status: stable
 ---
 
-Kirchoff's laws are not valid only for the currents and voltages, but also for voltage increments $\Delta V_{i}=V_{i}($ after $)- V_{i}$ (before) and current increments $\Delta I_{i}=I_{i}$ (after) $-I_{i}$ (before).
+Kirchoff's laws are not valid only for the currents and voltages, but also for voltage increments $\Delta V_i=V_i(\text{after})-V_i(\text{before})$ and current increments $\Delta I_i=I_i(\text{after})-I_i(\text{before})$.

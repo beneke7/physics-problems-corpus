@@ -35,7 +35,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           fele a középpontban lévő P1 pontbeli térnek. (Kissé több vagy kissé kevesebb a felénél?)
 
                                                       15
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
       (b) A fent jobb oldalon látható, félig végtelen szolenoidban az FGH erővonal, amely pontosan a tekercselés végén

@@ -38,7 +38,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
         speeds are about v = 200 kms−1 . Could an advanced civilization develop in this region?
 
                                                            1
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
         Solution
         Impacts between solar systems occur frequently. For concreteness, suppose catastrophic

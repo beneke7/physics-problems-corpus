@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-The charge on a metal sphere of diameter $d=2$ cm, mounted on a fixed insulating stand, is $Q=8\cdot10^{-9}$ C. Another, but a neutral metal sphere of mass $m=1$ g and of the same size as the previously described one, is attached to a thin insulating piece of thread of length $\ell=1$ m as shown in the figure. The thread is displaced by an angle of $\alpha=60^\circ$, and then it is released. The two spheres collide head on, totally elastically. The energy of the electric field does not change in the course of the collision, there is no energy dissipation. How much higher above its initial position will the sphere on the thread go if air drag is also negligible? 
+The charge on a metal sphere of diameter $d=2$ cm, mounted on a fixed insulating stand, is $Q=8\cdot10^{-9}$ C. Another, but a neutral metal sphere of mass $m=1$ g and of the same size as the previously described one, is attached to a thin insulating piece of thread of length $\ell=1$ m as shown in the figure. The thread is displaced by an angle of $\alpha=60^\circ$, and then it is released. The two spheres collide head on, totally elastically. The energy of the electric field does not change in the course of the collision, there is no energy dissipation. How much higher above its initial position will the sphere on the thread go if air drag is also negligible?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5160-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5160-fig1.gif)

@@ -42,7 +42,9 @@ Solutions1050-187 Lisboa,
 
 
                     v1.0
-                              Secretariado
+
+
+                              Secretariado
                               IPhO 2018
                                                 Sociedade Portuguesa de Física
                                                 Avenida da República Nº45 3ºEsq
@@ -111,7 +113,9 @@ to obtain the final value in the requested unites:
 
     A.2                                                                                               0.5pt
                                                   𝑄0 ≃ 1.5 mℓ/h .
-                                 Secretariado
+
+
+                                 Secretariado
                                  IPhO 2018
                                                     Sociedade Portuguesa de Física
                                                     Avenida da República Nº45 3ºEsq
@@ -197,7 +201,9 @@ For the network referred to in A.2
            ℎ<                3
                                 =                                              × 2𝑖/3 = 7.7 × 10−5 × 2𝑖/3 .
                 3 × 22𝑖/3 𝐸𝑟0 𝜌   3 × 0.06 × 106 × (6.0 × 10−5 )3 × 1.05 × 103
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                                  Sociedade Portuguesa de Física
                                                  Avenida da República Nº45 3ºEsq
@@ -272,7 +278,9 @@ For 𝑟 < 𝑅T , the conservation of energy implies that
                                                            d𝑇    4
                                                4𝜋𝑟2 (−𝑘)      = 𝒫 𝜋𝑟3 .
                                                            d𝑟    3
-                             Secretariado
+
+
+                             Secretariado
                              IPhO 2018
                                                  Sociedade Portuguesa de Física
                                                  Avenida da República Nº45 3ºEsq
@@ -348,7 +356,9 @@ The pressure can be related with the volume. We know that
                                   𝑀N    𝜌0 𝑉     𝜌0            𝑝
                                      =        =     = 𝜌0 (1 +    ) .
                                   𝑉N   𝑉 − 𝑉T   1−𝑣           𝐾N
-                                 Secretariado
+
+
+                                 Secretariado
                                  IPhO 2018
                                                  Sociedade Portuguesa de Física
                                                  Avenida da República Nº45 3ºEsq

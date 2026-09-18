@@ -21,6 +21,6 @@ links_hu: eotvos-2017-spherical-capacitor
 
 A spherical capacitor has armatures with radii $R$ and $3R$. The spheres are short-circuited and the larger sphere is grounded. A point charge $Q$ is moved at constant velocity $v$ radially outward between the two metal spheres.
 
-![The spherical capacitor](../../sources/eotvos/figures/eotvos-2017-spherical-capacitor-fig1.png)
+![The spherical capacitor](../../figures/eotvos/figures/eotvos-2017-spherical-capacitor-fig1.png)
 
 What is the current flowing in the wire connecting the spheres when the moving charge is exactly "halfway", at distance $2R$ from the center of the spheres? (Disregard the electrostatic field of the short-circuiting wire!)

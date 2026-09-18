@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, conservation-laws]
 ---
 
-We have two sets of Christmas lights, both rated at 50 W and 230 V. In one of the sets there are 50 bulbs, whilst in the other there are 100 bulbs connected in series. 
- $a)$ In which set is the current greater? 
- $b)$ In which set is the resistance of a bulb greater? 
- $c)$ Will the power of the set containing 100 bulbs increase or decrease if 10 of its bulbs are changed to ten bulbs from the other set? (Assume that none of the bulbs blow out.) 
+We have two sets of Christmas lights, both rated at 50 W and 230 V. In one of the sets there are 50 bulbs, whilst in the other there are 100 bulbs connected in series.
+ $a)$ In which set is the current greater?
+ $b)$ In which set is the resistance of a bulb greater?
+ $c)$ Will the power of the set containing 100 bulbs increase or decrease if 10 of its bulbs are changed to ten bulbs from the other set? (Assume that none of the bulbs blow out.)
  (3 pont)

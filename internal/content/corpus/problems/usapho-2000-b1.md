@@ -31,4 +31,4 @@ The spherical shells are concentric as shown in Figure a. at the right.
 The spherical shells are not concentric as shown in Figure b at the right. The inner shell is shifted in the positive $z$ direction a distance $b$ equal to its radius.
 (10) c. Find the electrostatic field in regions I, II, and III as a function of position.
 (10) d. Find the electrostatic potential in regions I, II, and III as a function of position.
-![](usapho-2000-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-2000-b1-fig01.png)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-An easily moveable, airproof piston of negligible mass closes a cylinder shaped container, made from some good heat-conducting material. The area of the base of the cylinder is 1,0 dm$^{2}$. In the cylinder, below the piston, there is 2 ml water at room temperure, and a very little air. The cylinder is immersed into some liquid, the temperature of which is 100 $^\circ$C, and is kept in it for a long time. What happens? At what height will the piston be at rest? 
+An easily moveable, airproof piston of negligible mass closes a cylinder shaped container, made from some good heat-conducting material. The area of the base of the cylinder is 1,0 dm$^{2}$. In the cylinder, below the piston, there is 2 ml water at room temperure, and a very little air. The cylinder is immersed into some liquid, the temperature of which is 100 $^\circ$C, and is kept in it for a long time. What happens? At what height will the piston be at rest?
  (5 pont)

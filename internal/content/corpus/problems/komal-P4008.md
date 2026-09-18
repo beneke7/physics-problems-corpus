@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200710"
 verification_status: pending
 ---
 
-On the dashboard of modern cars the warning sign shows that the roads are icy even when the thermometer measuring the outside temperature shows 3 $^\circ$C. Explain how can the surface of the road cool down below 0 $^\circ$C, even under these circumstances. 
+On the dashboard of modern cars the warning sign shows that the roads are icy even when the thermometer measuring the outside temperature shows 3 $^\circ$C. Explain how can the surface of the road cool down below 0 $^\circ$C, even under these circumstances.
  (4 pont)

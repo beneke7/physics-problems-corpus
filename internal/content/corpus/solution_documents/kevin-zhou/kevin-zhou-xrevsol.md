@@ -61,7 +61,9 @@ Note that the reasoning here works equally well if you don’t know about photon
 electromagnetic waves redshift and blueshift in the same way. By using this reasoning, i.e. by
 thinking about how successive Doppler shifts change the frequency of light, Wien was able to
 derive the original form of Wien’s displacement law.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 2. Let n be the local density of a gas of particles. If this density is nonuniform, it will
 tend to be smoothed out by diffusion, which produces a particle current
 J = −D∇n
@@ -103,7 +105,9 @@ intervals of length ∆x, then gets a result independent of this fiducial length
 But doesn’t the number of atoms N appear all the time in basic thermodynamics, like the
 ideal gas law? Yes, but always in the combination nR = NkB. Thus, information about
 the size of a single atom is equivalent to information about kB. Einstein’s relation is useful
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 because it explicitly gives us kB in terms of the separately directly measurable quantities D,
 µ, and T. It was one of the first unique, quantitative predictions of kinetic theory.
 [4] Problem 3 (Physics Cup 2018). Estimate the mean free path of a heavy black sphere of mass m
@@ -139,9 +143,9 @@ m
 which is much larger than ∆v since we are assuming the sphere is heavy. Using the provided hint,
 the number of photons required to change the velocity significantly is order
 N ∼
- v0
+  v0
 ∆v
-2
+ 2
 ∼
 mc2
 kBT
@@ -170,7 +174,9 @@ Incidentally, you might wonder how we used the assumption kBTR ≳ ℏc. This as
 equivalent to saying that the wavelength of a typical photon is smaller than the size of the sphere
 itself. We used this implicitly by thinking of the photons as little bullets hitting the sphere. If it
 weren’t true, then we would have to account for their wave nature.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 4. Consider a layer of the atmosphere with density ρ, pressure P, adiabatic index γ, and
 density and pressure gradients dρ/dz and dP/dz. Suppose that a small parcel of air in this layer
 acquires a small upward velocity. Under certain conditions, the parcel of air will begin oscillating
@@ -188,12 +194,12 @@ p)gV ′
 and we have m = ρ′
 pV ′. Thus, the acceleration is
 a =
-
+
 ρ′
 ρ′
 p
 − 1
-
+
 g.
 For small displacements, we have
 ρ′
@@ -209,13 +215,13 @@ so that at first order in ∆z, the acceleration is
 a =
 g
 ρ
-
+
 dρ
 dz
 −
 dρp
 dz
-
+
 ∆z.
 To calculate dρp/dz, note that since the parcel expands and contracts adiabatically, Pp ∝ ργ
 p.
@@ -235,7 +241,7 @@ dz
 .
 Plugging this into the acceleration equation gives
 a = g
-
+
 1
 ρ
 dρ
@@ -245,13 +251,13 @@ dz
 γP
 dP
 dz
-
+
 ∆z
 which implies
 ω =
 s
 g
-
+
 1
 γP
 dP
@@ -261,7 +267,7 @@ dz
 ρ
 dρ
 dz
-
+
 =
 r
 g
@@ -273,19 +279,21 @@ the parcel just keeps on going. That describes an atmosphere unstable against co
 check, marginal stability occurs for an adiabatic atmosphere, where P ∝ ργ. In realistic atmospheres,
 you wouldn’t expect to see these kinds of oscillations because of damping effects, but they provide
 a characteristic timescale for dynamic processes.
-4Kevin Zhou Physics Olympiad Handouts
-[3] Problem 5.  ^ 1 0USAPhO 2021, problem B2. A conceptual problem on methods of heat transfer.
-[3] Problem 6.  ^ 1 0USAPhO 2019, problem B2. A useful problem for getting comfortable with
+4
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 5.   ^ 1 0USAPhO 2021, problem B2. A conceptual problem on methods of heat transfer.
+[3] Problem 6.   ^ 1 0USAPhO 2019, problem B2. A useful problem for getting comfortable with
 numbers and estimates in astronomy.
-[3] Problem 7.  ^ 1 0USAPhO 2022, problem B1. A data analysis problem about a nonideal gas.
-[3] Problem 8.  ^ 1 0USAPhO 2024, problem B2. Two exercises on the heat capacity of solids.
-[3] Problem 9.  h 1 0INPhO 2019, problem 6. A thermodynamic cycle with a nonideal gas.
-[5] Problem 10.  h 1 0IPhO 2011, problem 2. A problem on an electrified soap bubble, which combines
+[3] Problem 7.   ^ 1 0USAPhO 2022, problem B1. A data analysis problem about a nonideal gas.
+[3] Problem 8.   ^ 1 0USAPhO 2024, problem B2. Two exercises on the heat capacity of solids.
+[3] Problem 9.   h 1 0INPhO 2019, problem 6. A thermodynamic cycle with a nonideal gas.
+[5] Problem 10.   h 1 0IPhO 2011, problem 2. A problem on an electrified soap bubble, which combines
 electrostatics, thermodynamics, and surface tension.
 2 Relativity
-[4] Problem 11.  T 1 0IPhO 1998, problem 3. A great problem on a real controversy in physics, which
+[4] Problem 11.   T 1 0IPhO 1998, problem 3. A great problem on a real controversy in physics, which
 also gives you practice working with real data.
-[4] Problem 12.  T 1 0EuPhO 2024, problem 2. A problem on visual perception in special relativity.
+[4] Problem 12.   T 1 0EuPhO 2024, problem 2. A problem on visual perception in special relativity.
 Note that in part (b), when the problem asks about what Alice “sees”, it means what she sees from
 light reaching her eyes.
 [4] Problem 13 (Physics Cup 2018). A spaceship travels with a constant proper acceleration g along
@@ -313,20 +321,22 @@ p1 · p2 =
 , p · (p1 + p2) =
 h2
 λ
-
+
 1 − cosθ
 λ1
 +
 1 + cosθ
 λ2
-
+
 and solving for λ yields
 λ =
 λ1(1 + cosθ) + λ2(1 − cosθ)
 2
 .
 As a check, we get back λ1 when θ = 0, corresponding to no collision.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 15 (MPPP 195). The pion π+ is a subatomic particle with mass mπ. In one of its possible
 decay modes, it decays into a positron e+ of mass me and an electron-neutrino νe of negligible mass.
 What is the minimum speed of the pion if, following its decay, the positron and neutrino move at
@@ -387,7 +397,7 @@ e
 In the limit me ≪ mπ, this reduces to v ≥ c/
 √
 2.
-[3] Problem 16.  ^ 1 0USAPhO 2023, problem B3. A nice, qualitative problem on supernova neutrinos.
+[3] Problem 16.   ^ 1 0USAPhO 2023, problem B3. A nice, qualitative problem on supernova neutrinos.
 [2] Problem 17 (Purcell 6.68). Consider two electrons moving side-by-side with parallel velocities,
 with speed v and separation r. We wish to compute the three-force between the electrons.
 (a) Compute this force by working in the electrons’ rest frame and Lorentz transforming back to
@@ -395,7 +405,9 @@ the lab frame.
 (b) Compute this force by using the electric and magnetic fields of a moving charge, and verify
 the answer agrees with that of part (a).
 (c) What happens to the three-force as v → c?
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The answer in the rest frame is ke/r2, so transforming back gives ke/γr2. (For
 transformations of three-forces, it’s helpful to remember that the force is always largest in the
 rest frame of the particle.)
@@ -447,7 +459,9 @@ V
 , Vneck = Aℓ
 where v is the speed of sound of air. It is significantly lower than the naive answer ω ∼ v/ℓ
 one would get by considering standing waves in a cylinder shaped like the jug.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 (c) See if this is roughly consistent with a real jug (e.g. a 1 liter soda bottle). Does the frequency
 vary as you’d expect as you add water to the jug? If you feel musically inclined, can you find
 how to excite higher frequencies?
@@ -504,13 +518,15 @@ p
 f2
 1 + f2
 2 .
-[3] Problem 21.  W 1 0USAPhO 2008, problem A4. A neat Doppler shift problem that also tests your
+[3] Problem 21.   W 1 0USAPhO 2008, problem A4. A neat Doppler shift problem that also tests your
 data analysis skills.
-[4] Problem 22.  m 1 0INPhO 2020, problem 4. A nice and tricky problem on the two-dimensional
+[4] Problem 22.   m 1 0INPhO 2020, problem 4. A nice and tricky problem on the two-dimensional
 Doppler effect. (It is essentially a translation of a problem on the 2013 Russian Physics Olympiad.)
-[3] Problem 23.  ^ 1 0USAPhO 2022, problem A3. A great problem on the rainbow caustic. After
+[3] Problem 23.   ^ 1 0USAPhO 2022, problem A3. A great problem on the rainbow caustic. After
 you finish the problem, see here and here for some brilliant visualizations.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 4 Modern
 [3] Problem 24. Consider a typical small LC circuit, with L = 10−7 H and C = 10−11 F.
 (a) If the circuit is at zero temperature, estimate the voltage uncertainty across the capacitor.
@@ -553,11 +569,13 @@ This is the typical noise you expect to see on a good oscilloscope. In electrica
 this kind of thermal noise is called “Johnson noise”.
 [2] Problem 25. INPhO 2013, problem 2. A short problem on X-ray diffraction.
 To finish up, here are three neat questions that each cover a broad range of topics.
-[5] Problem 26.  h 1 0IPhO 2009, problem 3. Estimating the size of a star from scratch.
-[5] Problem 27.  h 1 0IPhO 2021, problem 3. Molecular fluorescence and optical lattices.
-[5] Problem 28.  h 1 0USA Team Selection Test 2021, problem 2. A full analysis of a real dark matter
+[5] Problem 26.   h 1 0IPhO 2009, problem 3. Estimating the size of a star from scratch.
+[5] Problem 27.   h 1 0IPhO 2021, problem 3. Molecular fluorescence and optical lattices.
+[5] Problem 28.   h 1 0USA Team Selection Test 2021, problem 2. A full analysis of a real dark matter
 detector.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 Problem 26 estimates the size of a star using a rough treatment of the nuclear physics
 we know applies at its core. When you think about it, it’s amazing that this is possible

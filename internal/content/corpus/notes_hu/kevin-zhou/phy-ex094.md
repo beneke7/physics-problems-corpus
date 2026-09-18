@@ -61,7 +61,6 @@ Kezdetként a fotoelektromos effektust vizsgáljuk részletes példaként.
     választásával. Ez a síkhullámok nemrelativisztikus kezelésének szokásos módja. A transzverzalitási feltétel
     ϵ·k0 = 0 megmutatja, hogy a vektorpotenciál Coulomb-mértékben van, ∇·A = 0, ezért operátorként p · A = A · p.
     (A kvantumszinten k0 nem operátor, x és p viszont igen.)
-255 11. Időfüggő perturbációelmélet
 
  • A szokásos p → p + eA/c helyettesítést használjuk, amiből a perturbáló Hamilton-operátor
                                                        e
@@ -83,7 +82,7 @@ Kezdetként a fotoelektromos effektust vizsgáljuk részletes példaként.
 
  • Ezután a dw/dΩ mennyiségről a dσ/dΩ hatáskeresztmetszetre térünk át a
                                                   dw         dσ
-                                                     = ni vi    
+                                                     = ni vi
                                                   dΩ         dΩ
    összefüggéssel. A sebesség egyszerűen vi = c, a részecskesűrűség pedig úgy kapható meg, ha kétféleképpen
    számítjuk ki az energiát:
@@ -115,7 +114,6 @@ Kezdetként a fotoelektromos effektust vizsgáljuk részletes példaként.
  • Miért nem marad meg itt az impulzus, ha az energia megmarad? Az impulzust az atommag nyeli el; a potenciált statikusnak
    véve hallgatólagosan végtelenül nehéznek tételeztük fel. Az atommag megfelelő kezelése lehetővé tenné a visszalökődés
    kiszámítását.
-256 11. Időfüggő perturbációelmélet
 
  • Atommag jelenléte nélkül a γ + e → e reakció tiltott lenne. Ugyanez a hatás figyelhető meg a fékezési sugárzásnál,
    e → e + γ, amely csak akkor mehet végbe, ha a közelben anyag van az impulzus elnyelésére. (Megjegyzés: elszigetelt
@@ -159,7 +157,6 @@ Most néhány megjegyzést teszünk az elektromágneses tér kezeléséről.
    közvetve, termodinamikával és az Einstein-együtthatók segítségével elvégezhető. (Kvantumtérelméletben a spontán
    emisszió rátája közvetlenül kiszámítható, vagy heurisztikusan „vákuumfluktuációk” okozta stimulált emisszióként írható le,
    azaz a mező alapállapotbeli maradék diszperziójaként.)
-257 11. Időfüggő perturbációelmélet
 
  • A visszahatás bármilyen beépítési kísérlete, miközben a mezőt klasszikusan tartjuk meg, végső soron ellentmondásos.
    Például egy klasszikus mező tökéletesen megmérhető lenne, ami sértené a bizonytalansági relációt.
@@ -207,7 +204,6 @@ jelennek meg. További példák az Optika jegyzeteiben találhatók.
 
                                 H = ℏω0 a† a + xzp Fω (eiωd t a + e−iωd t a† )
 
-258 11. Időfüggő perturbációelmélet
 
   • Ha interakciós képre térnénk, csak lassan változó tagokat tartalmazó Hamilton-operátort kapnánk. Gyakran azonban
     kényelmesebb egyáltalán időfüggést nem tartalmazó Hamilton-operátorral dolgozni. Ezt úgy érhetjük el, hogy a „gerjesztés

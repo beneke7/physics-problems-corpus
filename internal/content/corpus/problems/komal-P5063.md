@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates]
 ---
 
-The meters in the circuit shown in the figure are ideal and their readings are indicated. Find the resistance values of the $R_1$, $R_2$, $R_3$ and $R_4$ resistors. 
+The meters in the circuit shown in the figure are ideal and their readings are indicated. Find the resistance values of the $R_1$, $R_2$, $R_3$ and $R_4$ resistors.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5063-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5063-fig1.gif)

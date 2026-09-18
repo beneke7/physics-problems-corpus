@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-The faucet of a kitchen sink is opened slightly such that the water flows vertically at a constant rate and reaches the horizontal bottom of the sink. The diameter of the water flow at the bottom of the sink is $3/4$ of the diameter of the water at 20 cm higher. 
- $a)$ What is the speed of the water at which it hits the bottom of the sink? 
- $b)$ What is the pressure exerted by the water at the bottom of the sink? 
+The faucet of a kitchen sink is opened slightly such that the water flows vertically at a constant rate and reaches the horizontal bottom of the sink. The diameter of the water flow at the bottom of the sink is $3/4$ of the diameter of the water at 20 cm higher.
+ $a)$ What is the speed of the water at which it hits the bottom of the sink?
+ $b)$ What is the pressure exerted by the water at the bottom of the sink?
  (5 pont)

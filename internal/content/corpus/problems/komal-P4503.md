@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201301"
 verification_status: pending
 ---
 
-The pressure and the volume of a sample of 0.4 moles Helium gas is doubled. Initially its pressure was 10$^{5}$ Pa, and its volume was 10 dm$^{3}$. Determine those quantities from the list below which can be given uniquely: 
- a ) The work done on the gas; 
- b ) The heat given to the gas; 
- c ) The change in the energy of the gas. 
+The pressure and the volume of a sample of 0.4 moles Helium gas is doubled. Initially its pressure was 10$^{5}$ Pa, and its volume was 10 dm$^{3}$. Determine those quantities from the list below which can be given uniquely:
+ a ) The work done on the gas;
+ b ) The heat given to the gas;
+ c ) The change in the energy of the gas.
  (4 pont)

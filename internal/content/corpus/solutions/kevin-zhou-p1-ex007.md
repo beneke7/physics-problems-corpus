@@ -98,10 +98,10 @@ Eb ∼
 e2
 a0
 ∼ me
-
+
 e2
 4πϵ0ℏ
-2
+ 2
 .
 We take the nuclear mass to be very roughly the proton mass mp, which gives
 v
@@ -110,10 +110,10 @@ c
 s
 me
 mp
-
+
 e2
 4πϵ0ℏc
-2
+ 2
 ∼ α
 r
 me

@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4231. $R$ ellenállású fémhuzaldarabokból kockahálózatot készítünk az ábrán látható módon. A kockák igen hosszú, végtelennek tekinthető láncot alkotnak. Mekkora az $A$ és $B$ pont közötti eredő ellenállás?
 
-![figure](../../raw_html/komal_figures/komal-P4231-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4231-fig1.gif)

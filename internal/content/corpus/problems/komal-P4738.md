@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201505"
 verification_status: pending
 ---
 
-At what minimum speed should we have to go next to a picket fence, in order to sense the light, passing the fence perpendicularly, continuous? The width of the pickets is 5 cm and the width of the gaps between them is 10 cm. The human eye cannot distinguish between images which lasts less than one-fifteenth of a second. 
+At what minimum speed should we have to go next to a picket fence, in order to sense the light, passing the fence perpendicularly, continuous? The width of the pickets is 5 cm and the width of the gaps between them is 10 cm. The human eye cannot distinguish between images which lasts less than one-fifteenth of a second.
  (3 pont)

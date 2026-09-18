@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5565. Egy hosszú, hajlékony, súlyos lánc egyik végét rögzítettük. A lelógó lánc akkor szakadna el, ha a saját súlyánál nagyobb terhet akasztanánk rá. 
+P. 5565. Egy hosszú, hajlékony, súlyos lánc egyik végét rögzítettük. A lelógó lánc akkor szakadna el, ha a saját súlyánál nagyobb terhet akasztanánk rá.
  A láncot az ábrán látható helyzetben elengedjük. (A mozgó és a már megfeszült láncdarab is függőleges egyenesnek tekinthető.) Vajon elszakad-e a lánc?
 
-![figure](../../raw_html/komal_figures/komal-P5565-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5565-fig1.gif)

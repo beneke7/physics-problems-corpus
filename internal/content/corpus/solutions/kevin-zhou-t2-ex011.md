@@ -33,7 +33,7 @@ This is a neat idea worth followups. First, if we had a more general shape than 
 when would the reasoning above still work? Second, for a tough problem which uses a variant
 of this idea, see NBPhO 2010, problem 2. An improved solution due to Stefan Ivanov is
 available here.
-[2] Problem 20.  W 1 0USAPhO 2011, problem A3.
-[3] Problem 21.  m 1 0USAPhO 2006, problem B2. The graphs are hard to read, but do your best!
-[3] Problem 22.  ^ 1 0USAPhO 2019, problem A2. An elegant, tricky radiation problem. (This is
+[2] Problem 20.   W 1 0USAPhO 2011, problem A3.
+[3] Problem 21.   m 1 0USAPhO 2006, problem B2. The graphs are hard to read, but do your best!
+[3] Problem 22.   ^ 1 0USAPhO 2019, problem A2. An elegant, tricky radiation problem. (This is
 essentially the same problem as Physics Cup 2022, problem 5.)

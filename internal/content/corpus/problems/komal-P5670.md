@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, smart-coordinates, choose-reference-frame]
 ---
 
-Two motorcyclists are riding on two roads, which cross each other perpendicularly. The speed of one is $v_1$, the speed of the other is $v_2$, and their minimum distance from each other is $d_0$. What is their distance from the crossroad at this moment? For simplicity, consider both vehicles point-like. 
+Two motorcyclists are riding on two roads, which cross each other perpendicularly. The speed of one is $v_1$, the speed of the other is $v_2$, and their minimum distance from each other is $d_0$. What is their distance from the crossroad at this moment? For simplicity, consider both vehicles point-like.
  (5 pont)

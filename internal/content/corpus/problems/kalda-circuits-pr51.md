@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the resistance between the terminals A and B for the infinite chain shown below. The resistances are as shown and increase by a factor of two for each consecutive link.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr51-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr51-fig1.jpg)

@@ -19,4 +19,4 @@ verification_status: pending
 
 Figure below is copied from an aerophoto: there are two trains (depicted in red) which both travel with the speed of $v=50 \mathrm{~km} / \mathrm{h}$ along a railway (grey dashed line). Their engines emit fume, the trails of which are depicted by black lines. Determine the direction and speed of wind (express the direction of wind as a clock-wise rotation angle from north). You may draw lines and measure distances using a ruler in the figure.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr29-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr29-fig1.jpg)

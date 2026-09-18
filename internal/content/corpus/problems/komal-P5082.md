@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-A small charged metal ball is suspended by a negligible-mass insulating thread of length $\ell=1$ m in uniform horizontal electric field. In the equilibrium position the angle between the thread and the vertical is $30^\circ$. What is the period of the motion of the ball when it is displaced a bit from its equilibrium position? 
+A small charged metal ball is suspended by a negligible-mass insulating thread of length $\ell=1$ m in uniform horizontal electric field. In the equilibrium position the angle between the thread and the vertical is $30^\circ$. What is the period of the motion of the ball when it is displaced a bit from its equilibrium position?
  (4 pont)

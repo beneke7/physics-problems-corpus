@@ -29,7 +29,7 @@ An interesting weather phenomenon can occur when the temperature profile in the 
 
 Under these conditions snow falling through the atmosphere (partially) melts in the warmer layer and (partially) freezes again before reaching the ground in the form of "ice pellets".
 
-![Figure 1: Atmospheric temperature $T$ vs. height $h$ above the ground.](../../sources/eupho/figures/eupho-2019-T1-1.png)
+![Figure 1: Atmospheric temperature $T$ vs. height $h$ above the ground.](../../../../../sources/eupho/figures/eupho-2019-T1-1.png)
 
 *Figure 1: Atmospheric temperature $T$ vs. height $h$ above the ground.*
 

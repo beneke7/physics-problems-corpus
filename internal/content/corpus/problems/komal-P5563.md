@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-Small bodies of masses $M$ and $m$ are connected with a thread of length $\ell$. We attach another thread to the body of mass $M$ and move the other, upper end of this thread horizontally such that this upper end executes a small amplitude simple harmonic motion of period $T$. (See figure .) For what length $\ell$ can the oscillating thread remain vertical all the time? 
+Small bodies of masses $M$ and $m$ are connected with a thread of length $\ell$. We attach another thread to the body of mass $M$ and move the other, upper end of this thread horizontally such that this upper end executes a small amplitude simple harmonic motion of period $T$. (See figure .) For what length $\ell$ can the oscillating thread remain vertical all the time?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5563-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5563-fig1.gif)

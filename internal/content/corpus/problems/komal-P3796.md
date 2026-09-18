@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-On a slope of height h a small body is sliding down without friction. It is connected to a point P at the bottom of the slope with a push-and-pull spring of an elastic constant of D , which was initially not extended. The body just stops at the bottom of the slope. What can the slope angle be? What is the acceleration when the body of mass m starts sliding back? 
+On a slope of height h a small body is sliding down without friction. It is connected to a point P at the bottom of the slope with a push-and-pull spring of an elastic constant of D , which was initially not extended. The body just stops at the bottom of the slope. What can the slope angle be? What is the acceleration when the body of mass m starts sliding back?
 
  (5 pont)

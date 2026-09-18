@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-When will the electricity bill of the Vízművek (Hungarian public utility company providing water) be greater, if the same amount of water flows from the tap at the groundfloor or at the tenth-floor? 
+When will the electricity bill of the Vízművek (Hungarian public utility company providing water) be greater, if the same amount of water flows from the tap at the groundfloor or at the tenth-floor?
  (4 pont)

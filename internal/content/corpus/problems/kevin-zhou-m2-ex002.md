@@ -66,7 +66,9 @@ the rope everywhere in the rope.
 
 
                                                 4
-    Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
        Example 3: Povey 5.6

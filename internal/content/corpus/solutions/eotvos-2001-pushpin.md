@@ -80,14 +80,14 @@ l
 (Természetesen ugyanilyen jó, ha valaki N2/N1 ≈ 0,47-et határozza meg, illetve bármilyen más helyes úton jut a jó
 végeredmények valamelyikéhez.)
 A b) kérdés dinamikai jelleg¶, s azért nehezebb, mert nem lehet síkbeli problémára visszavezetni. A rajzszög billegése
-nem síkmozgás, nem 
-zikai inga.
+nem síkmozgás, nem
+zikai inga .
 Készítsünk térbeli ábrát a ferde asztallapon kissé (balra) kilendített rajzszögr®l (2. ábra)!
 Jelölések: K a tömegközéppont; S′
 1 és S′
 2 most is a t¶n átmen® függ®leges síkba esnek; S1 a körlapra érint® irányban
 ható súrlódási er®; S2 a t¶ hegyére ható súrlódási er®nek a t¶re mer®leges összetev®je; ϕ a kitérés szöge (a rajzszög
-t¶jének asztalra mer®leges vetülete és a lejtvonal által bezárt szög).
+t¶jének asztalra mer®leges vetülete és a  lejtvonal  által bezárt szög).
 2. ábra 3. ábra
 A súrlódási er®k mind egy síkba (az asztallap síkjába) esnek, nagyságuk változik a billegés során. A tömegközéppont
 pályája viszonylag egyszer¶, egy körív, amelynek síkja párhuzamos az asztallap síkjával. E körív r sugara és a körív
@@ -106,7 +106,7 @@ R2 + l2
 már valamit ki tudunk számítani. Önbizalmat ad a továbbiakhoz.)
 4. ábra
 Vegyünk fel egy ábrát a tömegközéppont pályájának (az asztallappal párhuzamos) síkjában (4. ábra)! Itt, a pálya
-síkjában a K tömegközéppont mozgását a nehézségi er®nek ebbe a síkba es® mgsinα összetev®je vezérli; ezt kell
+síkjában a K tömegközéppont mozgását a nehézségi er®nek ebbe a síkba es® mgsinα összetev®je  vezérli ; ezt kell
 felbontanunk a pálya érint®je irányába mutató, illetve sugár irányú komponensekre.
 Ha a kitérés ϕ szöge ki si, a fonálingához hasonlóan itt is feltételezhetjük, hogy a sugár irányú gyorsulás elhanya-
 golható: acp ≈ 0. Így a K tömegközéppont gyorsulása jó közelítéssel érint® irányú, s az r sugár β szöggyorsulásával
@@ -184,7 +184,7 @@ gsinα
 r 3
 2 + R2
 4l2
- sinϕ.
+  sinϕ.
 Ki siny ϕ szögekre sinϕ ≈ ϕ, tehát itt egy
 β = −ω2
 ϕ
@@ -196,7 +196,7 @@ gsinα
 r 3
 2 + R2
 4l2
-,
+ ,
 és ha ebbe behelyettesítjük r = l2
 /
 p
@@ -232,7 +232,7 @@ dt
 .
 A perdületvektor változása egyrészt a szögsebesség változásából adódik, másrészt abból, hogy a merev test egésze elfordul, emiatt
 a tehetetlenségi nyomatéka az iner iarendszerb®l nézve id®ben változik. Ez utóbbiból származó perdületváltozás a szögsebesség
-négyzetével arányos, jelen feladatnál tehát kis kitérések esetén 
+négyzetével arányos, jelen feladatnál tehát kis kitérések esetén
 gyelmen kívül hagyható. A forgómozgás dinamikai egyenlete
 ebben a közelítésben valóban
 X− →
@@ -258,10 +258,10 @@ is megkaphatók.
 = rβ/l összefüggések a súszásmentes gördülés feltételéb®l és
 térbeli geometriai megfontolásokból kaphatók meg.
 A verseny végeredménye
-Összevont III. díjat (s vele 77 ezer Ft pénzjutalmat) kaptak a következ®k: Nagy Ádám, a BME mérnök-
+Összevont I II. díjat (s vele 7 7 ezer Ft pénzjutalmat) kaptak a következ®k: Nagy Ádám, a BME mérnök-
 zikus
 hallgatója, aki a budapesti Szent István Gimnáziumban érettségizett mint Moór Ágnes tanítványa; Pápai Tivadar,
-a bar si Dráva Völgye Középiskola 12. évf. tanulója, Horváth Feren tanítványa; Pozsgay Balázs, az ELTE 
+a bar si Dráva Völgye Középiskola 12. évf. tanulója, Horváth Feren tanítványa; Pozsgay Balázs, az ELTE
 zikus
 2Pozsgay Balázs (Budapest) dolgozata
 hallgatója, aki a pé si Magyar-német Nyelv¶ Iskolaközpontban érettségizett és Kotek László tanítványa volt; Siroki
@@ -269,10 +269,10 @@ László, a debre eni Fazekas Mihály Gimnázium 12. évf. tanulója, Simon Gyul
 Sándor, a songrádi Batsányi János Gimnázium 11. évf. tanulója, Szu sán András és Hilbert Margit tanítványa;
 Varjú Péter, a SZTE matematikus hallgatója, aki a szegedi Radnóti Miklós Gimnáziumban érettségizett mint Dudás
 Zoltánné tanítványa.
-III. díjat (s vele 44 ezer Ft pénzjutalmat) kaptak a következ®k: Bartos Imre, az ELTE 
+III. díjat (s vele 4 4 ezer Ft pénzjutalmat) kaptak a következ®k: Bartos Imre, az ELTE
 zikus hallgatója, aki a
 budapesti Móri z Zsigmond Gimnáziumban érettségizett mint Részeg Anna tanítványa; Borbély Sándor, a kolozsvári
-Babe³Bolyai Tudományegyetem 
+Babe³ Bolyai Tudományegyetem
 zika szakos hallgatója, aki a marosvásárhelyi Bolyai Farkas Elméleti Lí eumban
 érettségizett mint László József tanítványa; Nagy Márton, a budapesti Piarista Gimnázium 12. évf. tanulója, Futó
 Béla tanítványa; Novák Zoltán, a BME m¶szaki informatika szakos hallgatója, aki a zalaegerszegi Zrínyi Miklós
@@ -287,9 +287,9 @@ aki a kalo sai Szent István Gimnáziumban érettségizett mint Sz®ke Imre tan�
 Mihály F®városi Gyakorló Gimnázium 10. évf. tanulója, Horváth Gábor tanítványa; Szekeres Balázs, a szolnoki
 Verseghy Feren Gimnázium 11. évf. tanulója, Lapu Béla tanítványa.
 2001. november 23-án délután került sor az ünnepélyes eredményhirdetésre. Ennek során a Versenybizottság elnöke
-megemlékezett Bakos Tiborról (19091998), aki 75 évvel ezel®tt nyerte meg mind a 
+megemlékezett Bakos Tiborról (1909 1998), aki 75 évvel ezel®tt nyerte meg mind a
 zikai, mind a matematikai versenyt
-(akkor a matematikai versenyt hívták Eötvös-versenynek, a 
+(akkor a matematikai versenyt hívták Eötvös-versenynek, a
 zikait pedig Károly Irén versenynek), s aki még 1996-ban
 jelen volt a díjak átadásánál. A feladatok megoldásának ismertetését azokat illusztráló kísérleti bemutató, majd az
 eredmények kihirdetése követte. A díjakat Gyulai József akadémikus, az ELFT elnöke adta át.
@@ -298,6 +298,6 @@ Alsó sor: (balról jobbra): Nagy Ádám, Pozsgay Balázs, Varjú Péter, Tóth 
 Középs® sor: Nagy Márton, Bartos Imre, Novák Zoltán és Borbély Sándor.
 Fels® sor: Rá z Béla András, Kal sú Áron, Bori János, Balogh László, Szekeres Balázs és Karaszi Mihály.
 A díjakhoz társuló jutalmakat az ELFT, illetve az Oktatási Minisztérium biztosította, a Nemzeti Tankönyvkiadó
-pedig valamennyi díjazott, illetve di séretet kapott versenyz®t 33 ezer forintos könyvutalványban részesítette.
+pedig valamennyi díjazott, illetve di séretet kapott versenyz®t 3 3 ezer forintos könyvutalványban részesítette.
 Az eredményhirdetés végén a nyertes versenyz®k megjelent tanárai válogathattak a Nemzeti Tankönyvkiadó, a
 M¶szaki Kiadó és a Typotex Kiadó által számukra felajánlott könyvekb®l.

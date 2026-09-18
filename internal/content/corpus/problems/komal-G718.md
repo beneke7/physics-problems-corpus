@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Suppose the material of the Sun consists of carbon and oxygen. (In the old days, this idea came up seriously.) At most how much would the total lifespan of the Sun be if the coal burns perfectly and the energy radiated in a unit time is the same as it is now? (In the calculations, let us use the actual mass of the Sun.) 
+Suppose the material of the Sun consists of carbon and oxygen. (In the old days, this idea came up seriously.) At most how much would the total lifespan of the Sun be if the coal burns perfectly and the energy radiated in a unit time is the same as it is now? (In the calculations, let us use the actual mass of the Sun.)
  (4 pont)

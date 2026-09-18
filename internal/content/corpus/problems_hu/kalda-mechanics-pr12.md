@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy $m$ tömegű kötelet mindkét végénél fogva a mennyezetre függesztünk, közepére pedig egy $M$ tömegű súlyt erősítünk. A kötél két végén a kötél érintője $\alpha$ szöget zár be a mennyezettel. Mekkora a kötél érintői által a súlynál bezárt $\beta$ szög?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr12-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr12-fig1.jpg)

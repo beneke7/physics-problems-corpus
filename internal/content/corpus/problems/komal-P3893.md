@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200604"
 verification_status: pending
 ---
 
-The electron of a hydrogen atom can be replaced by a muon for a short time. The new atom is called muonium. (The muon is similar to the electron but its mass is 207 times greater than the mass of the electron, and its decay time is very short. Find the radius of the muonium in its ground state. How much energy is needed to ionize the muonium atom? Data: The radius of the hydrogen atom is about 0.05 nm, and its ionization energy is 2.2 aJ. 
+The electron of a hydrogen atom can be replaced by a muon for a short time. The new atom is called muonium. (The muon is similar to the electron but its mass is 207 times greater than the mass of the electron, and its decay time is very short. Find the radius of the muonium in its ground state. How much energy is needed to ionize the muonium atom? Data: The radius of the hydrogen atom is about 0.05 nm, and its ionization energy is 2.2 aJ.
  (4 pont)

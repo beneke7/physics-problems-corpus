@@ -29,5 +29,5 @@ verification_status: pending
 
 **Megjegyzés:** A szivárványt azok a sugarak hozzák létre, amelyek belépnek egy gömb alakú vízcseppbe, egyszer belülről visszaverődnek a felületéről, majd egy második fénytörés után kilépnek a cseppből. A belső visszaverődés csak részleges, nem teljes; lásd az ábrát. A kilépési szögnek, $\alpha$-nak az ütközési paraméter $b$ függvényében maximuma van; a szivárvány szögsugara egyenlő a maximális kilépési szöggel [ugyanis ha az $I_{0}$ intenzitású fény a $b<r$ összes lehetséges ütközési paraméterével esik a cseppre, akkor a $\Delta b$ ütközési paraméter-tartományba eső fényenergia $2 I_{0} \pi b \Delta b$; ezért a $\Delta \alpha$ kilépési szögintervallumhoz tartozó energia $\Delta I / \Delta \alpha=2 I_{0} \pi b \Delta b / \Delta \alpha=2 I_{0} \pi b(d \alpha / d b)^{-1}$, amely az $\alpha(b)$ függvény maximuma közelében divergál.]
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-optics-experiment-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-optics-experiment-fig1.png)
 

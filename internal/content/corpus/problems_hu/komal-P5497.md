@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5497. Tekintsük a hidrogénatom Thomson-féle atommodelljét. A hidrogénatom sugara kb. 50 pm. 
- $a)$ Hol lehet egyensúlyban az elektron? 
+P. 5497. Tekintsük a hidrogénatom Thomson-féle atommodelljét. A hidrogénatom sugara kb. 50 pm.
+ $a)$ Hol lehet egyensúlyban az elektron?
  $b)$ Mekkora frekvenciával rezeg az elektron ezen egyensúlyi helyzet körül? A színkép milyen tartományába esik az ilyen frekvenciájú fény?

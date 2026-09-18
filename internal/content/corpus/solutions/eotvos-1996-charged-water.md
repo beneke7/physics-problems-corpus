@@ -22,7 +22,7 @@ s¶r¶ségét vehetjük 1000 kg/m
 Megoldás. A sós víz elektromosan jól vezet® folyadék (elektrolit). Mind a pozitív, mind a negatív töltéshordozók
 (ionok) könnyen elmozdulnak benne. A közeled®, feltöltött golyó hatására az általa vonzott, vele ellentétes töltés¶
 ionok igyekeznek a golyó felé elmozdulni, míg a golyóval azonos töltés¶ ionok a taszító er® hatására ellenkez® irányban
-mozdulnak el. Ezáltal megsz¶nik a folyadék térfogati semlegessége úgy, hogy
+mozdulnak el. Ezáltal megsz¶nik a folyadék  térfogati semlegessége  úgy, hogy
 1. az ered® elektromos tér er®vonalai a golyó és a folyadék közötti térben mer®legesen futnak be a folyadék felszínére;
 2. a folyadék belsejében a felszín alatti tartományokban zérus lesz az ered® térer®sség.
 Természetesen ekkor a golyó a vele ellentétes töltés¶ folyadékfelszínt magához akarja vonzani, fel akarja emelni.
@@ -31,8 +31,8 @@ Feladatunkban a felületi feszültség szerepét elhanyagolhatjuk, így a folyad
 amíg a felületegységre ható elektrosztatikus emel® er® egyenl® nem lesz a felemelkedett folyadékréteg hidrosztatikai
 nyomásával.
 Nem tudjuk, hogy milyen lesz pontosan a kialakuló folyadékfelület alakja. Biztos, hogy kevéssé tér el a síkfelülett®l,
-erre utal a feladat szövege is (pi it megemelkedik)  tehát a leveg®ben kialakuló ered® elektromos tér meghatározásá-
-hoz alkalmazhatjuk a (sík) tükörtöltés módszerét. Másrészt elegend® lesz 
+erre utal a feladat szövege is ( pi it  megemelkedik)   tehát a leveg®ben kialakuló ered® elektromos tér meghatározásá-
+hoz alkalmazhatjuk a (sík) tükörtöltés módszerét. Másrészt elegend® lesz
 gyelmünket egyetlen pontra, a felemelked®
 folyadékfelület legfels® P pontjára kon entrálni; ennek emelkedése az, amit ki kell számítanunk.
 A 2. ábrán P-vel jelölt pontban a Q töltést®l származó térer®sség
@@ -81,26 +81,26 @@ Q
 = ̺gh.
 A megadott, illetve ismert értékeket behelyettesítve az emelkedés magasságára kapjuk:
 h ≈ 0,29 mm.
-Ez az érték valóban pi i a golyó sugarához, illetve a vízt®l mért távolságához képest, jogos volt a síktükör-töltés
+Ez az érték valóban  pi i  a golyó sugarához, illetve a vízt®l mért távolságához képest, jogos volt a síktükör-töltés
 közelítés. (Hasonlóképp jogos volt a golyó töltését a középpontjába helyezett ponttöltéssel helyettesíteni: m¶anyag
 golyóról lévén szó, a víz felszínén kialakuló töltéss¶r¶ség vonzása nem tudja átrendezni, megváltoztatni a szigete-
 l®re felvitt egyenletes töltéseloszlást. Azt is be lehet látni, hogy a víz megemelkedéséb®l adódó görbületi nyomás a
 hidrosztatikai nyomásnál sokkal kisebb, a felületi feszültség szerepét tehát jogosan hanyagoltuk el.)
 A verseny végeredménye
 Els® díjat nyert
-Kuru z Zoltán, az ELTE 
+Kuru z Zoltán, az ELTE
 zikus hallgatója, aki Szolnokon, a Varga Katalin Gimnáziumban érettségizett, mint
 Vin ze Gábor tanítványa.
-Második díjat nyertek egyenl® (24.) helyezésben:
-Biró Domokos Botond a Kolozsvári M¶szaki Egyetem számításte hnikaautomatizálás szakos hallgatója, aki
+Második díjat nyertek egyenl® (2 4.) helyezésben:
+Biró Domokos Botond a Kolozsvári M¶szaki Egyetem számításte hnika automatizálás szakos hallgatója, aki
 Marosvásárhelyen, a Bolyai Farkas Elméleti Lí eumban érettségizett, mint Bíró Tibor tanítványa;
-Tóth Gábor Zsolt, az ELTE 
+Tóth Gábor Zsolt, az ELTE
 zikus hallgatója, aki Budapesten, az Árpád Gimnáziumban érettségizett, mint
 Vankó Péter tanítványa;
-Varga Tamás, az ELTE 
+Varga Tamás, az ELTE
 zikus hallgatója, aki Révkomáromban, a Selye János Gimnáziumban érettségizett, mint
 Szabó Endre tanítványa.
-Harmadik díjat nyertek egyenl® (510.) helyezésben:
+Harmadik díjat nyertek egyenl® (5 10.) helyezésben:
 Gröller Ákos, az ELTE matematikus hallgatója, aki Budapesten, a Fazekas Mihály F®városi Gyakorló Gimnázi-
 umban érettségizett, mint Horváth Gábor tanítványa;
 Ho hsteiger Ákos, a szekszárdi Garay János Gimnázium IV. osztályos tanulója, Pesti Gyula tanítványa;
@@ -114,12 +114,12 @@ Sexty Dénes, az egri Neumann János Közgazdasági Szakközépiskola és Gimná
 senye Pálné tanítványa.
 Négyesi G., Sexty D., Gröller Á., Ková s A., Varga T., Kuru z Z., Biró D. B., Ho hsteiger Á., Tóth G. Zs., Kálmán
 B., Nagy Z., Nagy Sz., Nyakas P.
-Di séretben részesültek egyenl® (1115.) helyezésben:
+Di séretben részesültek egyenl® (11 15.) helyezésben:
 Kálmán Barnabás, a BME m¶szaki informatika szakos hallgatója, aki Budapesten, az ELTE Apá zai Csere
-János Gyakorló Gimnáziumában érettségizett, mint Flórik György tanítványa; Nagy Szilvia, a BME mérnök
+János Gyakorló Gimnáziumában érettségizett, mint Flórik György tanítványa; Nagy Szilvia, a BME mérnök
 zikus
 hallgatója, aki Gy®rben, a Révai Miklós Gimnáziumban érettségizett, mint Kolozsváry Ern®né és Székely László
-tanítványa; Nagy Zoltán, a JATE 
+tanítványa; Nagy Zoltán, a JATE
 zikus hallgatója, aki Szegeden, a JATE Ságvári Endre Gyakorló Gimnáziumában
 érettségizett, mint Homolya Ern® tanítványa; Nyakas Péter, a zalaegerszegi Zrínyi Miklós Gimnázium IV. osztályos
 tanulója, Vadvári Tibor tanítványa; Wagner Róbert, a pannonhalmi Ben és Gimnázium IV. osztályos tanulója,
@@ -130,13 +130,13 @@ gyelhették a sós víz
 felszínének pi i felemelkedését is.
 Megemlékeztünk a 100 évvel ezel®tti Eötvös-verseny nyerteseir®l: Visnya Aladárról és Zemplén Gy®z®r®l. A díjak
 átadására a Versenybizottság két volt Eötvös verseny nyertest kért fel; Bakos Tibor éppen 70 évvel ezel®tt, 1926-ban
-ismételte meg Teller Ede el®z® évi bravúrját: 
+ismételte meg Teller Ede el®z® évi bravúrját:
 zikából is és matematikából is megnyerte az I. díjat a Társulat ®szi tanu-
-lóversenyén, és ugyanez sikerült 1940-ben Homann Tibornak is. Az Eötvös Társulaton kívül a Nemzeti Tankönyvkiadó
+lóversenyén, és ugyanez sikerült 1940-ben Ho mann Tibornak is. Az Eötvös Társulaton kívül a Nemzeti Tankönyvkiadó
 is hozzájárult a nyertesek jutalmazásához. A diákokat felkészít® tanárok három meghívott kiadó ajándékkönyveib®l
 válogattak: a Nemzeti Tankönyvkiadó, a Calibra és a Talentum legújabb ismeretterjeszt® és tankönyveit hozták el az
 eredményhirdetésre.
-Két régi verseny-nyertes, Homann Tibor és Bakos Tibor, valamint a versenybizottság elnöke (e ikk szerz®je)
+Két régi verseny-nyertes, Ho mann Tibor és Bakos Tibor, valamint a versenybizottság elnöke (e ikk szerz®je)
 gratulál az idei gy®ztesnek, Kuru z Zoltánnak
 A Duna Televízió most már harmadik éve saját híradójában tudósítja határainkon inneni és túli néz®it az ünnepi
 eseményr®l. Köszönet érte!

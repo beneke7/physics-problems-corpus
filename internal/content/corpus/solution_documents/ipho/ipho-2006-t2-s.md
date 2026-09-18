@@ -42,16 +42,16 @@ two ends of the rod are
 The picture taken by the pinhole camera shows the images of the rod ends
 at                                   s
                              L                      L 2
-                                                   
+
                x̃± = γ γx0 ±     − βγ D + γx0 ±
                                          2              .
                              2                      2
 The apparent length L̃(x0 ) = x̃+ − x̃− is therefore
 
                            s                                  s
-                                                  2                           2
+                                                   2                            2
                                        L                                   L
-                                                                     
+
 2.3      L̃(x0 ) = γL + βγ D 2 + γx0 −                 − βγ D 2 + γx0 +             .
                                        2                                   2
 
@@ -62,7 +62,9 @@ the question is whether L̃(x0 ) increases or decreases when x0 increases. We
 sketch the two square root terms:
 
                                          1
-                                                                                                                                                      s                                                                                                                                                   2
+
+
+                                                                                                                                                      s                                                                                                                                                     2
                                                                                                                                                                      D2 +                                                   γx0 ± L/2
                                                                                                                                                                                                                                          .
                                                                                                                                                                                                                                      ......
@@ -142,36 +144,38 @@ same time, that is:
 
 The apparent endpoint positions are such that x̃− = −x̃+ , or
                                                                                                                                                               s                                                                                                                                                                                                   s
-                                                                                                                                                                                                                                                                                                     2                                                                                                                                                                                 2
+                                                                                                                                                                                                                                                                                                      2                                                                                                                                                                                  2
                                           L                                                                                                                                                                                                                                                                                                                                                                                                                                         L
-                                                                                                                                                                                                                                                                                                                                                                                                                           
+
  0 = x̃+ + x̃− = 2γ 2 x0 − βγ D 2 + γx0 +                                                                                                                                                                                                                                                                                  − βγ D 2 + γx0 −                                                                                                                                                  .
                                           2                                                                                                                                                                                                                                                                                                                                                                                                                                         2
 
 
 
                                                                                                                                                                                                                                      2
-In conjunction with
+
+
+In conjunction with
                                    s                                               s
-                                                                 2                                        2
+                                                                  2                                         2
    L                                   L                                                               L
-                                                                                           
+
      = x̃+ − x̃− = γL − βγ D 2 + γx0 +                                + βγ D 2 + γx0 −
    γ                                   2                                                               2
 this tells us that
             s
                                            2γ 2 x0 ± (γL − L/γ)
-                                  2
+                                   2
                               L                                   γx0 βL
-                     
+
             D 2 + γx0 ±                =                        =    ±   .
                               2                     2βγ            β   2
 As they should, both the version with the upper signs and the version with
 the lower signs give the same answer for x0 , namely
 
-                                                s                         2
+                                                s                          2
                                                                      L
-                                                                 
+
 2.6                                    x0 = β        D2 +                      .
                                                                      2γ
 
@@ -180,9 +184,9 @@ located at
                                    q
                 x̃0 = γ 2 x0 − βγ D 2 + (γx0 )2
                          s                                  s                              
-                                                    2                                 2
+                                                     2                                  2
                                   L                                     βL
-                                                                                  
+
                    = βγ  (γD)2 +                        −      (γD)2 +                      ,
                                   2                                      2
                                                          L
@@ -191,9 +195,9 @@ which is at a distance ℓ = x̃+ − x̃0 =                      − x̃0 from 
 end, that is
 
                                   s                                       s
-                                                           2                                     2
+                                                            2                                      2
                      L               L                                                       βL
-                                                                                        
+
                   ℓ=    − βγ (γD)2 +                             + βγ          (γD)2 +
                      2γ              2                                                        2
        or
@@ -202,13 +206,13 @@ end, that is
                      L 
                                                                                              
                                                                   2s                          
-                  ℓ=                                                                         .
+                  ℓ=                                                                          .
                         1 − s                                                                
                      2γ 
                         
-                                       2
+                                         2
                                        L
-                                                                                       
+
                                                                                          βL 2 
                               (γD)2 +      +                              (γD)2 +
                                        2                                                 2
@@ -222,7 +226,9 @@ picture is
                                                                                    1−β
 
                                                     3
-Likewise, at the very late time, we have a very large positive value for x0 , so
+
+
+Likewise, at the very late time, we have a very large positive value for x0 , so
 that the apparent length on the very late picture is
                                                              s
                                                                  1−β

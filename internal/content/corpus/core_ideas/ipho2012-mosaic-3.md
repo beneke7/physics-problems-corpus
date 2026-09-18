@@ -24,7 +24,7 @@ Note that most often, $K^\prime (\dot\xi )/\dot \xi$ is constant, because the ki
 
 In order to illustrate this method, let us start with a simple wedge problem. Consider a system where a  ball of mass $m$ lays on a wedge of mass $M$ , and is attached with a weightless rope and pully to a wall as depicted in Figure; you are asked to find the acceleration of the wedge, assuming that all the surfaces are frictionless, and there is a homogeneous gravity field $g$ .
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-3-1.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-3-1.jpg)
 
 When using the force diagram method, it would be a good idea to use the (non-inertial) reference frame associated with the wedge (introducing thereby the inertial forces $-ma$ and $-Ma$ ), because otherwise, it would be difficult to write down equation describing the fact that the ball will remain on the inclined surface of the wedge. Here, however, we leave this for the reader as an exercise, and describe the state of the system via the displacement $\xi$ of the wedge. Then, the velocity of the wedge is $\dot\xi$ ; the velocity of the ball with respect to the wedge is also $\dot\xi$ , implying that the vertical component of the ball's velocity is $\dot\xi \sin\alpha $ , and the horizontal component is $\dot\xi (1-\cos\alpha )$ . Hence, we find that
 
@@ -36,7 +36,7 @@ $\displaystyle \ddot\xi=\frac {mg\sin\alpha}{M + 2m \left(1 - \cos\alpha\right)}
 
 As another example, let us consider an old IPhO problem (5th IPhO in Sofia, 1971, Problem No 1). The set-up is quite similar to the previous problem, but there is no wall, there are two bricks instead of one ball, and the wedge has two inclined surfaces (see Figure); we ask again, what is the acceleration of the wedge.
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-3-2.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-3-2.jpg)
 
 You might think that the method does not work here, because there are two degrees of freedom: the wedge can slide on the table, and the bricks can slide with respect to the wedge. However, if we make use of the conservation of the centre of mass (there are no external horizontal forces), we can express the displacement of the bricks $\eta$ (with respect to the wedge) via the displacement of the wedge $\xi$ : $(M+m_1+m_2)\xi=(m_1\cos\alpha _1 + m_2\cos\alpha _2)\eta \Rightarrow$
 
@@ -76,7 +76,7 @@ Note that almost exactly the same analysis which was done here for the rotating 
 
 Up til now we have dealt with problems where the task was to find an acceleration. What to do, if you are asked to find a force? For instance, a sphere and a wedge are placed on two facing ramps as shown in Figure; all the surfaces are frictionless. Find the normal force between the wedge and the sphere.
 
-![figure](../../sources/physicscup/figures/ipho2012-mosaic-3-3.jpg)
+![figure](../../figures/physicscup/figures/ipho2012-mosaic-3-3.jpg)
 
 Well, it would be very easy to find the acceleration of the ball (or that of the wedge) using the method of generalized coordinates (ball displacement can be used as the coordinate). But once we know the acceleration, it is also easy to find the normal force $N$ between the wedge and the ball from the Newton II law! (The answer is $\frac{2mM}{M+m} g\tan \alpha$ .)
 

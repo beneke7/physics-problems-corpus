@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization]
 ---
 
-At what $V_x$ volume will the efficiency of the two heat engines, operated with constant-mass ideal gas as working substance, be the same if they are taken through the cyclic processes A and B shown in the figure? 
+At what $V_x$ volume will the efficiency of the two heat engines, operated with constant-mass ideal gas as working substance, be the same if they are taken through the cyclic processes A and B shown in the figure?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4907-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4907-fig1.gif)

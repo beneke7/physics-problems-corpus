@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5114. Egy asztal peremére illeszkedik egy $\alpha$ hajlásszögű lejtő, amelyről egy $\ell$ hosszúságú, $d$ magasságú, homogén anyageloszlású, téglatest alakú hasáb csúszik le. Mennyivel nyúlik túl a hasáb az asztal peremén, amikor elkezd lebillenni, ha 
+P. 5114. Egy asztal peremére illeszkedik egy $\alpha$ hajlásszögű lejtő, amelyről egy $\ell$ hosszúságú, $d$ magasságú, homogén anyageloszlású, téglatest alakú hasáb csúszik le. Mennyivel nyúlik túl a hasáb az asztal peremén, amikor elkezd lebillenni, ha
 
- $a)$ a hasáb és a lejtő közötti súrlódás elhanyagolható; 
+ $a)$ a hasáb és a lejtő közötti súrlódás elhanyagolható;
  $b)$ a hasáb és a lejtő közötti súrlódási együttható $\mu$? ($0<\mu<\tan\alpha$, és $\mu d<\ell$.)
 
-![figure](../../raw_html/komal_figures/komal-P5114-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5114-fig1.gif)

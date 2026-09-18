@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A 100 gram and a 50 gram weights were glued together, and hung to the end of a vertical spring. When the glue dried out the 50 gram weight came unstuck, and fell down. 
- At what acceleration did the other object start to move? 
+A 100 gram and a 50 gram weights were glued together, and hung to the end of a vertical spring. When the glue dried out the 50 gram weight came unstuck, and fell down.
+ At what acceleration did the other object start to move?
  (3 pont)

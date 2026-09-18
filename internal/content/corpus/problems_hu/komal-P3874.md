@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3874. Hogyan működik a libella (vízmérték)? Használhatnánk erre a célra Mikola-csövet? 
+P. 3874. Hogyan működik a libella (vízmérték)? Használhatnánk erre a célra Mikola-csövet?
  Lánczos Kornél fizikaverseny, Székesfehérvár

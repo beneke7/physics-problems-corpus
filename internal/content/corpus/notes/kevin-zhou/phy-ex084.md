@@ -40,7 +40,6 @@ Ry (π). Both of these states are eigenstates of this rotation, with an eigenval
 state of a spin 1 irrep flips sign, as can be seen by considering the transformation of Y10 (θ, ϕ), so the
 term is forbidden. Similar reasoning can be used to restrict various other decays; further constraints
 come from parity.
-188 7. Angular Momentum
 
 
 Note. Why did we “ignore” the orbital angular momentum in the above argument? Actually, we
@@ -95,7 +94,6 @@ transform under rotations.
 
       For example, the outer product of vector operators Tij = Vi Wj is a tensor operator. A physical
       example of a rank-2 tensor operator is the quadrupole moment.
-189 7. Angular Momentum
 
 
 Next, we turn to an apparently unrelated subject: the spherical basis of R3 .
@@ -151,7 +149,6 @@ Next, we turn to an apparently unrelated subject: the spherical basis of R3 .
 
     An irreducible tensor operator of order k transforms like a spin j particle. In our new language,
     writing x in terms of the xq is just writing it as an irreducible tensor operator of order 1.
-190 7. Angular Momentum
 
 
   • Rotations act on kets by multiplication by U (R), while rotation act on operators by conjugation,
@@ -202,7 +199,6 @@ easily shown in special cases, which give the intuition for why it must be true.
     symmetry). This simplifies the computation of transition rates, as we saw earlier. Fixing the
     γ’s and j’s, there are generally (2j + 1)(2j ′ + 1)(2k + 1) matrix elements to compute, but we
     can just compute one, to get the reduced matrix element.
-191 7. Angular Momentum
 
 
  • The intuition for the Clebsch–Gordan coefficient is that Tqk |jm⟩ transforms under rotations just
@@ -242,7 +238,7 @@ One useful corollary of the Wigner–Eckart theorem is the projection theorem.
  • First, we prove the theorem by brute force. One can show the identity
 
                            [J 2 , [J 2 , V]] = ℏ2 2(J 2 V + VJ 2 ) − 4(V · J)J
-                                                                               
+
 
 
     for any vector operator V, directly using the definitions.
@@ -260,7 +256,6 @@ One useful corollary of the Wigner–Eckart theorem is the projection theorem.
    V “in the J direction”, and the result says that the result is the same as V when we restrict to
    a subspace of constant j. This is a generalization of the idea above that, for constant γ and j,
    there is only one vector operator.
-192 7. Angular Momentum
 
 
  • The projection theorem can also be derived by explicitly evaluating the reduced matrix element
@@ -304,7 +299,6 @@ One useful corollary of the Wigner–Eckart theorem is the projection theorem.
                                          = δj ′ j ℏ2 j(j + 1)⟨γ ′ jm′ |Aq |γjm⟩
 
    where we used the decompositions above and the reduced matrix elements of J.
-193 8. Discrete Symmetries
 
 
 8      Discrete Symmetries
@@ -351,7 +345,6 @@ quantum mechanics in the notes on the Standard Model.
                                                  πKπ † = ±K
       then K is a true scalar if the sign is +1 and a pseudoscalar if the sign is −1. For example, p · S
       is a pseudoscalar.
-194 8. Discrete Symmetries
 
 
   • Note that E is a polar vector while B is an axial vector. In particular, adding an external

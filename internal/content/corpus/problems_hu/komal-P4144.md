@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4144. Egyszerű segédeszközök felhasználásával hogyan lehet egy 120 kg-nál nagyobb tömegű tárgyat megmérni a 120 kg méréshatárú fürdőszoba mérlegen? 
+P. 4144. Egyszerű segédeszközök felhasználásával hogyan lehet egy 120 kg-nál nagyobb tömegű tárgyat megmérni a 120 kg méréshatárú fürdőszoba mérlegen?
  Öveges József emlékverseny, Tata

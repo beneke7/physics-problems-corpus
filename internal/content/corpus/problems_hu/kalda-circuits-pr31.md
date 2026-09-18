@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg az alábbi áramkörben folyó diódaáramot; a diódára a 24. feladatban megadott $I(V)$ függést használjuk.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr31-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr31-fig1.jpg)

@@ -22,13 +22,13 @@ Sándor, 4); Gy®r (Zábrádi Antal, 3); Szekszárd (Jurisits József, 3); Nyír
 Imre, 2); Eger (Vida József, 1); Miskol   (Mester András, 1).
    Összesen 79 versenyz® volt 15 vidéki városban, így a Budapesten versenyz® 88 diákkal együtt 167-en indultak a
 2003. évi Eötvös-versenyen. Közülük összesen 1 volt nem magyar állampolgár, a szlovákiai Révkomáromból érkezett
-Rakyta Péter. Tavalyhoz képest  amikor is nagyjából ugyanennyien indultak a versenyen  n®tt a budapesti és
+Rakyta Péter. Tavalyhoz képest   amikor is nagyjából ugyanennyien indultak a versenyen   n®tt a budapesti és
  sökkent a vidéki versenyz®k száma. Örvendetesen sok versenyz® jött a Budapesti M¶szaki és Gazdaságtudományi
-Egyetemr®l: összesen 35 els®éves hallgató. Közülük 14-en mérnök-zikus szakon, 12-en m¶szaki informatikus szakon
+Egyetemr®l: összesen 35 els®éves hallgató. Közülük 14-en mérnök- zikus szakon, 12-en m¶szaki informatikus szakon
 tanulnak. Még három m¶szaki egyetemi matematikus hallgató is volt közöttük. Reméljük, hogy a továbbiakban ®k is
-megtartják a zika iránti érdekl®désüket.
+megtartják a  zika iránti érdekl®désüket.
    A középiskolák közül idén is a Fazekas Mihály F®városi Gyakorló Gimnáziumból jött a legtöbb versenyz®: 9 érettsé-
-gizett, 8 érettségiz® és 22 atalabb diák. Legalább 5 versenyz® indult még a budapesti Piarista, a pé si Leövey Klára,
+gizett, 8 érettségiz® és 22  atalabb diák. Legalább 5 versenyz® indult még a budapesti Piarista, a pé si Leövey Klára,
 és a debre eni Kossuth Lajos Gimnáziumból, valamint a szombathelyi Savaria Szakközépiskolából.
 
    Ismertetjük a feladatokat és azok helyes megoldását.
@@ -71,7 +71,9 @@ adódik. Ezt a haladó mozgás dinamikai egyenletébe helyettesítve a gyorsulá
                                                        m+M
                                                   a=          g sin α.
                                                        m + 2M
-Spe iális esetekben:
+
+
+Spe iális esetekben:
                                                
                                                
                                                 g sin α,       ha      M ≪ m;
@@ -133,7 +135,7 @@ ahonnan ϕ = 4,962          ≈ 5,0◦ .
 
 
    Megjegyzés. A M ≫ m eset diszkussziója nem volt feladat, itt           sak a szimmetria kedvéért, no meg azért is tárgyal-
-tuk, mert néhány versenyz® gyelmetlenségb®l ezt vizsgálta az M ≪ m eset helyett.
+tuk, mert néhány versenyz®  gyelmetlenségb®l ezt vizsgálta az M ≪ m eset helyett.
 
    2. Két párhuzamos, egymástól d távolságra haladó, végtelen hosszú, vékony egyenes vezet®ben egyenl® nagyságú és
 ellentétes irányú áramok folynak. Az induk ióvonalak a vezet®kre mer®leges síkokban helyezkednek el. Válasszon ki az
@@ -145,7 +147,9 @@ egyik síkban egy tetsz®leges P pontot és vizsgálja meg, hogy az ezen áthala
 
    Megoldás. A 3. ábra a két párhuzamos vezet® által létesített mágneses tér néhány induk ióvonalát szemlélteti,
 amikor a vezet®kön egyenl® nagyságú, de ellentétes irányú áramok haladnak át.
-                                                       3. ábra
+
+
+                                                       3. ábra
 
 
    A spe iális árameloszlás miatt a létrejöv® mágneses mez® nagymérv¶ szimmetriát mutat: az egyik és másik áram-
@@ -169,7 +173,9 @@ ahol R d-t®l és x0 -tól függ® mennyiség.
 
 
                                                        5. ábra
-   Ha ez a kör induk ióvonal, akkor az induk ióvektor állása a kör bármely pontjában megegyezik az ottani érint®
+
+
+   Ha ez a kör induk ióvonal, akkor az induk ióvektor állása a kör bármely pontjában megegyezik az ottani érint®
 állásával (4. ábra ). A P (x; y) ponton átmen® érint® iránytangense:
 
                                                       1          1       x − x0
@@ -242,14 +248,16 @@ aránya állandó, az ún. Apollóniosz-kör. Eredményeinket úgy is megfogalma
 az induk ióvonalak Apollóniosz-körök.
    Bevezetve az r2 /r1 = λ jelölést, e körök egyenlete
 
-                                                        2                           2
+                                                          2                             2
                                                    d            2                d
                                            x−                 +y =          λ               ,
                                                 1 − λ2                        1 − λ2
 
 amib®l többek között az R = λx0 érdekes összefüggés is leolvasható. (Apollóniosz id®számításunk kezdete el®tt 262-t®l
 190-ig élt; a kúpszeletekr®l írt munkájában ® vezette be az ellipszis, parabola és hiperbola kifejezéseket.)
-   2. Ha   sak ki sit is általánosabb esetet vizsgálunk, a számolás meglehet®sen elbonyolódik, és soha többé nem
+
+
+   2. Ha   sak ki sit is általánosabb esetet vizsgálunk, a számolás meglehet®sen elbonyolódik, és soha többé nem
 kapunk kör alakú induk ióvonalakat. Érdemes lenne számítógépes szimulá ióval meghatározni az ellentétes irányú, de
 nem egyenl® nagyságú áramok keltette mágnestér induk ióvonalait, hiszen erre r ≪ d esetén (az egyik áram közvetlen
 közelében) ugyanúgy, mint r ≫ d esetén (ahonnan a két áram már egyetlen |I1 − I2 | nagyságú áramnak látszik) az
@@ -257,7 +265,7 @@ induk ióvonalak egyre jobban hasonlítanak a körhöz. De milyen fur sa görbé
 
    3. Egy szabadon kering® ¶rhajó kabinjának belsejében mozdulatlanul lebeg egy kb.          4 cm átmér®j¶ vízgolyó és a
 közelében egy kb. 8 cm hosszúságú, vékony, kör keresztmetszet¶, legömbölyített vég¶ üvegpál a. A pál a egyik végét
-egészen noman érintkezésbe hozzuk a víz seppel. Vázolja fel, milyen alakot vesz fel a víz!
+egészen  noman érintkezésbe hozzuk a  víz seppel . Vázolja fel, milyen alakot vesz fel a víz!
 
 
                                                                                                      (Károlyházy Frigyes)
@@ -297,8 +305,8 @@ egészen noman érintkezésbe hozzuk a víz seppel. Vázolja fel, milyen alak
                                                          11. ábra
 
 
-   A folyamat akkor kezd®dik, amikor a pál a egyik végét egészen noman érintkezésbe hozzuk a víz seppel (7. ábra ).
-A víz nedvesíti az üveget, kissé ráfolyik a pál a legömbölyített végére (8. ábra ). Itt azonban a folyamat nem állhat
+   A folyamat akkor kezd®dik, amikor a pál a egyik végét egészen  noman érintkezésbe hozzuk a víz seppel (7. ábra ).
+A víz nedvesíti az üveget, kissé  ráfolyik  a pál a legömbölyített végére (8. ábra ). Itt azonban a folyamat nem állhat
 le, mert az üvegpál ára ható er®k ered®je nem nulla. Igaz ugyan, hogy az R sugarú víz sepp belsejében a nyomás
                                                                   2
 egy ki sit nagyobb, mint a küls® légnyomás (∆p = 2α/R), és ez r     π∆p er®vel tolná kifelé az r sugarú pál át, de
@@ -306,7 +314,9 @@ ennél sokkal nagyobb a pál ára rásimuló vízhártya által kifejtett 2rπα
 víz seppbe, egy közbüls® helyzet a 9. ábrán látható.
    Az er®egyensúly ebben a helyzetben sem áll fenn, nin s ok, amiért a pál a megállna, egészen a 10. ábrán látható
 állapotig. Most már a pál a elérte a víz sepp bal oldali szélét, kissé túl is ment rajta, a vízfelszín itt kissé kinyomódik.
-Az er®egyensúly azonban    sak akkor áll be, amikor a pál a bal oldali vége teljesen kibújik a víz seppb®l, ekkor a pál a
+
+
+Az er®egyensúly azonban    sak akkor áll be, amikor a pál a bal oldali vége teljesen kibújik a víz seppb®l, ekkor a pál a
 mindkét végét körülölel® víz felszíne ugyanolyan alakú (11. ábra ).
      Meg kell gondolnunk még, hogy vajon a víz sepp nem folyik-e szét a pál án. A rendszer összenergiája a leveg®vel
 érintkez® víz felületi energiájának és a vízzel érintkez® üveg energiájának összegével egyenl®; ez a mennyiség igyekszik
@@ -314,7 +324,7 @@ minél kisebb lenni. Tekintettel arra, hogy a pál a vékony, a üveg teljesfel�
 képest. A rendszer egyensúlyát tehát a legkisebb vízfelszín követelménye határozza meg, ez pedig (adott térfogatú víz
 esetén) a gömb alaknál teljesül.
      A végállapotban tehát a vízgolyó majdnem pontosan gömb alakú, az üvegpál a ennek a gömbnek egyik átmér®je
-mentén helyezkedik el, és mindkét végét kidugja a vízb®l.
+mentén helyezkedik el, és mindkét végét  kidugja  a vízb®l.
 
 
      Az ünnepélyes eredményhirdetésre 2003. november 21-én került sor az ELTE lágymányosi déli épületének Mogyoródi
@@ -327,7 +337,7 @@ annyi jó példatár és szakirodalom, nem voltak felkészít® szakkörök.
 nyertesr®l, Zawadowski Alfréd akadémikusról. (Sajnos ® nem tudott eleget tenni a díjkiosztásra szóló meghívásnak,
 mert külföldön tartózkodott. Talán majd a következ®re eljön, amire újra meg fogjuk hívni, mert 1954-ben is díjazott
 volt az Eötvös-versenyen.) Ami az 1953-as feladatokat illeti, azok se voltak nehezebbek az 1925-ös feladatoknál. Ezen
-se   sodálkozhatunk, akkor még nem is volt zika rovata az újra indított Középiskolai Matematikai Lapoknak.
+se   sodálkozhatunk, akkor még nem is volt  zika rovata az újra indított Középiskolai Matematikai Lapoknak.
      A bevezet® visszaemlékezések után következett a 2003. évi Eötvös-verseny feladatok és ezek helyes megoldásainak
 bemutatása. Az els® két feladat Radnai Gyula által adott megoldását Gnädig Péter egészítette ki érdekes megjegy-
 zésekkel és egy meglep® analógián alapuló megoldás ismertetésével, míg a harmadik feladat különböz® megközelítés¶
@@ -341,13 +351,13 @@ Fazekas Mihály F®városi Gyakorló Gimnázium 11. osztályos tanulója, Dvorá
      III. díjat és 10-10 ezer forintos könyvutalványt nyert Ba khausz Ágnes, az ELTE matematikus hallgatója, aki a
 Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa; Burmeister Dániel,
 a miskol i Földes Feren   Gimnázium 12. osztályos tanulója, Zsúdel László tanítványa; Rakyta Péter, a révkomáromi
-Selye János Gimnázium 12. osztályos tanulója, Szabó Endre tanítványa; Szekeres Balázs, a BMGE mérnök-zikus
+Selye János Gimnázium 12. osztályos tanulója, Szabó Endre tanítványa; Szekeres Balázs, a BMGE mérnök- zikus
 hallgatója, aki a szolnoki Verseghy Feren    Gimnáziumban érettségizett mint Lapu Béla tanítványa; Vigh Máté, a
 pé si Babits Mihály Gyakorló Gimnázium 12. osztályos tanulója, Kon z Károly és Kotek László tanítványa és Zsuga
 Sándor, a ke skeméti Bányai Júlia Gimnázium 12. osztályos tanulója, Késmárki Andrásné tanítványa.
-     Di séretet kaptak a következ®k: Balogh László, a BMGE mérnök-zikus hallgatója, aki a Fazekas Mihály F®városi
+     Di séretet kaptak a következ®k: Balogh László, a BMGE mérnök- zikus hallgatója, aki a Fazekas Mihály F®városi
 Gyakorló Gimnáziumban érettségizett mint Horváth Gábor tanítványa; Nagy Róbert, a budapesti Apá zai Csere
-János Gyakorló Gimnázium 11. osztályos tanulója, Pákó Gyula tanítványa; Nádor Csaba, a BMGE mérnök-zikus
+János Gyakorló Gimnázium 11. osztályos tanulója, Pákó Gyula tanítványa; Nádor Csaba, a BMGE mérnök- zikus
 hallgatója, aki a budapesti Kassák Lajos Gimnáziumban érettségizett mint Magyari Gyula tanítványa; Ruppert
 László, a BMGE matematikus hallgatója, aki a pé si Janus Pannonius Gimnáziumban érettségizett, mint Keresztesné
 Borsos Sarolta és Kotek László tanítványa.

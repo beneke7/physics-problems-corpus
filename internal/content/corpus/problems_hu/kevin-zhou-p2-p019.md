@@ -25,7 +25,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
             a 18. feladatban kiszámított átlaggal és szórással rendelkező eloszlást, így példát adva a
             centrális határeloszlás-tétel működésére. Ez meglehetősen összetett számítás, amely a P1
             számos módszerét használja. Szükség lesz továbbá a Stirling-közelítésre,
-                                                       √      n n
+                                                       √       n  n
                                                   n! ≈ 2πn
                                                                e
             n ≫ 1 esetén, amelyet a P1-ben említettünk. (Útmutatás: mivel a relatív bizonytalanság
@@ -33,5 +33,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
             hatványaiba. Vigyázzunk, hogy ne hagyjunk el túl sok tagot, mert δ kicsi ugyan, λδ azonban
 
 
-                     01m
+                     01m
             nem az.)

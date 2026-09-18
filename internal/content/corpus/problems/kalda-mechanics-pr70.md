@@ -19,6 +19,6 @@ verification_status: pending
 
 At a distance $l$ from the edge of the table lies a block that is connected with a thread to another exact same block. The length of the thread is $2 l$ and it is extended around the pulley sitting at the edge of the table. The other block is held above the table such that the string is under tension. Then the second block is released. What happens first: does the first block reach the pulley or does the second one hit the table?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr70-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr70-fig1.jpg)
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr70-fig2.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr70-fig2.jpg)

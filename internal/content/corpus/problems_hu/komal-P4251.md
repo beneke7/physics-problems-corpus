@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4251. Közös pontban felfüggesztettünk két azonos, $L$  hosszúságú fonálingát. A fonalak végén lévő, azonos tömegű kis golyóknak $Q$  töltést adunk, aminek következtében a fonalak az ábrán látható módon ágaznak szét. 
+P. 4251. Közös pontban felfüggesztettünk két azonos, $L$  hosszúságú fonálingát. A fonalak végén lévő, azonos tömegű kis golyóknak $Q$  töltést adunk, aminek következtében a fonalak az ábrán látható módon ágaznak szét.
 
- $a)$ Határozzuk meg a golyók $m$ tömegét! 
+ $a)$ Határozzuk meg a golyók $m$ tömegét!
  $b)$ Egy másik kísérlet során a jobb oldali golyót ugyanekkora töltésű, de háromszor akkora tömegű golyóra cseréljük ki. Mekkorának kell választani a változatlan tömegű, bal oldali golyó töltését, hogy az egyensúlyi állapotban a golyók távolsága továbbra is $L$ legyen?
 
-![figure](../../raw_html/komal_figures/komal-P4251-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4251-fig1.gif)

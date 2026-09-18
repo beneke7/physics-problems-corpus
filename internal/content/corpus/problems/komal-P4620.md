@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A uniform density sphere of radius r =10 cm rolls down with zero initial speed from the top of a hemisphere of radius R =2 r . The hemisphere is fixed to a horizontal plane. The coefficient of friction between the two spheres is =0.2. 
+A uniform density sphere of radius r =10 cm rolls down with zero initial speed from the top of a hemisphere of radius R =2 r . The hemisphere is fixed to a horizontal plane. The coefficient of friction between the two spheres is =0.2.
 
- a ) Where will the rolling sphere begin to slip? 
- b ) What is the speed of the centre of the sphere at the moment when it begins to slip? 
+ a ) Where will the rolling sphere begin to slip?
+ b ) What is the speed of the centre of the sphere at the moment when it begins to slip?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4620-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4620-fig1.gif)

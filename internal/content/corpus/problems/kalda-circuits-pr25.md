@@ -19,4 +19,4 @@ verification_status: pending
 
 [EstFin-2003 ${ }^{18}$ ] In the figure below, the circuit of a simple tunnel-diode-based amplifier is given. Find the amplification factor for small-amplitude input signals using the following values: $R=10 \Omega, \mathcal{E}=0.25 \mathrm{~V}$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr25-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr25-fig1.jpg)

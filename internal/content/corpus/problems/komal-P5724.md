@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-On a long one-way main street, traffic-light-controlled intersections are very closely spaced. The lights are green half the time and are timed to give drivers a green wave at 50 km/h. When Edward is not stopped at a red light, he rides his bicycle at 25 km/h, braking and accelerating abruptly. What is his average speed? (The intersections are so close together that Edward can pass many of them during one full light cycle.) 
+On a long one-way main street, traffic-light-controlled intersections are very closely spaced. The lights are green half the time and are timed to give drivers a green wave at 50 km/h. When Edward is not stopped at a red light, he rides his bicycle at 25 km/h, braking and accelerating abruptly. What is his average speed? (The intersections are so close together that Edward can pass many of them during one full light cycle.)
  (5 pont)

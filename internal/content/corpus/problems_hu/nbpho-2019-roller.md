@@ -22,7 +22,7 @@ verification_status: pending
 
 A hengerek olyan szilárd homogén cilinder $M$ tömegből és $r$ sugarúból áll; vízszintes asztalon nyugszik, és a falhoz egy spirálrugó csatlakozik $k$ rugóállandóval (lásd az ábrát). A rugó tömege elhanyagolható, és ideális, azaz a Hooke-törvény tetszőlegesen nagy deformációk esetén is érvényes.
 
-![ábra](../../sources/nbpho/figures/nbpho-2019-roller-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2019-roller-fig1.jpg)
 
 **i)** *(1 pont)* Először tegyük fel, hogy nincs súrlódás a henger és az asztal között. A hengert az oldalára tolják és elengedik; határozd meg az oszcillációk periódusát $T_{0}$.
 

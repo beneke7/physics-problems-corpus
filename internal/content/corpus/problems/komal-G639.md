@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [choose-reference-frame, strategic-heuristics]
 ---
 
-It was observed that the flames of a burning candle has a spherical shape in a spaceship revolving around the Earth. Explain this observation. 
+It was observed that the flames of a burning candle has a spherical shape in a spaceship revolving around the Earth. Explain this observation.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G639-fig1.gif)
+![figure](../../figures/komal/figures/komal-G639-fig1.gif)

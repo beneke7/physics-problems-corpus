@@ -24,7 +24,7 @@ verification_status: pending
 ## Rolling Cylinders
 
 A thin-walled cylinder of mass $M$ and rough inner surface of radius $R$ can rotate about its fixed central horizontal axis OZ. The Z-axis is perpendicular to and out of the page. Another smaller uniform solid cylinder of mass $m$ and radius $r$ rolls without slipping (except for question 1.8) on the inner surface of $M$ about its own central axis which is parallel to OZ.
-![](apho-2009-t-q1-fig01.png)
+![](../../figures/apho/figures/apho-2009-t-q1-fig01.png)
 
 1.1) The rotation of $M$ is to be started from rest at the instant $t=0$ when $m$ is resting at the lowest point. At a later time $t$ the angular position of the centre of mass of $m$ is $\theta$ and by then $M$ has turned through an angle $\phi$ radians. How many radians (designated $\psi$ ) would have mass $m$ turned through about its central axis relative to a fixed line (for example, the negative Y-axis)? Give your answer in terms of $\theta, \phi, R$ and $r$. (0.8 point)
 1.2) What is the angular acceleration of $m, \frac{d^{2}}{d t^{2}} \psi$, about its own axis through its centre of mass? Give your answer in terms of $R, r$, and derivatives of $\theta$ and $\phi$. (0.2 point)

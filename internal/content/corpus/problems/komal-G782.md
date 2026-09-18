@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element, graphical-reduction]
 ---
 
-A bicycle is moving uniformly along a horizontal path at a speed of 3 m/s. Its wheels have a diameter of 70 cm. Choose an arbitrary point on the circumference of the wheel and at different positions of the wheel draw the velocity vectors and the acceleration vectors of this point starting from one common point for each quantity, that is draw the velocity and acceleration hodographs. 
+A bicycle is moving uniformly along a horizontal path at a speed of 3 m/s. Its wheels have a diameter of 70 cm. Choose an arbitrary point on the circumference of the wheel and at different positions of the wheel draw the velocity vectors and the acceleration vectors of this point starting from one common point for each quantity, that is draw the velocity and acceleration hodographs.
  (4 pont)

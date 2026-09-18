@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200710"
 verification_status: pending
 ---
 
-The walls of a room, which has a shape of a cuboid, are plane mirrors. The distance between the walls are a and  b . A horizontal beam of light is generated at one of the walls, the angle between the light beam and this wall is alpha . 
- How much time elapses until the light reaches the same wall? 
+The walls of a room, which has a shape of a cuboid, are plane mirrors. The distance between the walls are a and  b . A horizontal beam of light is generated at one of the walls, the angle between the light beam and this wall is alpha .
+ How much time elapses until the light reaches the same wall?
  (3 pont)

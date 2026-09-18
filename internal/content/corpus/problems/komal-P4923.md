@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-An insulated metal disc of radius 0.250 m is rotating with 1000 revolutions per minute. Determine the potential difference between the rim of the disc and its centre if 
- $a)$ there is no external magnetic field; 
- $b)$ it is in uniform magnetic field of magnitude 10.0 mT, which is perpendicular to the plane of the disc. 
+An insulated metal disc of radius 0.250 m is rotating with 1000 revolutions per minute. Determine the potential difference between the rim of the disc and its centre if
+ $a)$ there is no external magnetic field;
+ $b)$ it is in uniform magnetic field of magnitude 10.0 mT, which is perpendicular to the plane of the disc.
  (5 pont)

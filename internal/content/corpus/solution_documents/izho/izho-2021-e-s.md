@@ -73,7 +73,9 @@ points are given by the formula
                                      
        In the particular case of 0 = this formula further simplifies to
                                      2
-XVII International Zhautykov Olympiad/Experimental Competition                                            Page 2/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                                            Page 2/8
 
                  k = 2cos k .                                                                             (12а)
 2.4 In the recommended approximation of uniformly accelerated motion, the average speed at the selected
@@ -122,7 +124,9 @@ of the number of partition intervals are shown in Table 1.
         21   0,5400      1,3098     0,0378     1,4626
         22   0,4909      1,3281     0,0372     1,4999
         23   0,4418      1,3446     0,0367     1,5366
-XVII International Zhautykov Olympiad/Experimental Competition                                           Page 3/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                                           Page 3/8
 
         24   0,3927             1,3593    0,0363   1,5729
         25   0,3436             1,3723    0,0359   1,6088
@@ -169,7 +173,9 @@ necessary to use the formula
 the graph representing the calculated law of motion (16). It is interesting to note that in the first case, the
 time values are set, and the corresponding deflection angles are calculated; and in the second one, on the
 contrary, the deflection angles are set and corresponding times are calculated.
-XVII International Zhautykov Olympiad/Experimental Competition                                      Page 4/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                                      Page 4/8
 
 Table 2.
 k    t         
@@ -223,7 +229,9 @@ found as
                 C = exp( b)  0,19
 3.6 It is easy to find from formula (17) that the number of partition intervals required to achieve the error
  = 0,002 is expressed as
-XVII International Zhautykov Olympiad/Experimental Competition                                         Page 5/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                                         Page 5/8
 
                           1/ 
                          С 
@@ -275,7 +283,9 @@ Table 4.
           2   0,9817 0,7704      0,2469    0,8368        2       1,1781   0,8749     0,2619        0,8906
           3   0,8181 0,9217      0,1934    1,0302        3       0,9817   1,0541     0,2036        1,0941
           4   0,6545 1,0340      0,1673    1,1976        4       0,7854   1,1892     0,1751        1,2692
-XVII International Zhautykov Olympiad/Experimental Competition                                              Page 6/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                                              Page 6/8
 
           5    0,4909   1,1163        0,1522    1,3497         5     0,5890      1,2896    0,1584       1,4276
           6    0,3272   1,1731        0,1429    1,4927         6     0,3927      1,3593    0,1483       1,5759
@@ -331,7 +341,9 @@ whence it follows that the angles can be considered rather small for 0  45
                                        l                                                       0.1          0.1
     1.1       Formula (1): T = 2
                                        g
-XVII International Zhautykov Olympiad/Experimental Competition                            Page 7/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                            Page 7/8
 
            Law of motion                                                            0.4
            - conservation of energy (2);                                                  0.1
@@ -394,7 +406,9 @@ whence it follows that the angles can be considered rather small for 0  45
            Graph                                                                    2.3
     3.5    Double logarithm scale is used                                                 0.5
            Linearized dependence is drawn                                                 0.5
-XVII International Zhautykov Olympiad/Experimental Competition                             Page 8/8
+
+
+XVII International Zhautykov Olympiad/Experimental Competition                             Page 8/8
 
            Linear dependence is obtained                                                   0.3
            The power is found as   2,3  0,1                                             0.5

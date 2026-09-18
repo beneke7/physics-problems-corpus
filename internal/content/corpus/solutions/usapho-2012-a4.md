@@ -115,15 +115,15 @@ d
 Defining the parameter α = Gm/v2
 0l, this simplifies to
 (1 − α)
-
+
 d
 l
-2
+ 2
 + α
-
+
 d
 l
-
+
 − 1 = 0.
 This quadratic has the solutions
 d = l or d =

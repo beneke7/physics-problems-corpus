@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202210"
 verification_status: pending
 ---
 
-Hang a small object on the end of a door handle and gradually increase the load, with placing additional bodies on the load. Measure the angular position of the handle in equilibrium as a function of the mass hung on it. After reaching the maximum possible angle, gradually reduce the load and measure the angular position of the handle as a function of mass. Plot your data on the same graph. 
+Hang a small object on the end of a door handle and gradually increase the load, with placing additional bodies on the load. Measure the angular position of the handle in equilibrium as a function of the mass hung on it. After reaching the maximum possible angle, gradually reduce the load and measure the angular position of the handle as a function of mass. Plot your data on the same graph.
  (6 pont)

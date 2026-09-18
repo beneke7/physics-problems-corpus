@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-In a circus performance one of the acrobats falls freely from a height of 10 m. When and with what speed should the other acrobat jump up from the springboard, such that they pass each other halfway, with having the same speed? Plot the position versus time and velocity versus time graphs of the motions of both acrobats. 
+In a circus performance one of the acrobats falls freely from a height of 10 m. When and with what speed should the other acrobat jump up from the springboard, such that they pass each other halfway, with having the same speed? Plot the position versus time and velocity versus time graphs of the motions of both acrobats.
  (4 pont)

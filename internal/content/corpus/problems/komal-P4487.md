@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201212"
 verification_status: pending
 ---
 
-The e.m.f. of an older type of rechargeable battery of a mobile phone is 2.4 V, whilst its capacity to store the charges is 1100 milliampere-hour. How much energy can this battery store? 
+The e.m.f. of an older type of rechargeable battery of a mobile phone is 2.4 V, whilst its capacity to store the charges is 1100 milliampere-hour. How much energy can this battery store?
  (3 pont)

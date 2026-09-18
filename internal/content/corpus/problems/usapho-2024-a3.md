@@ -26,7 +26,7 @@ verification_status: pending
 ## Tilt Shift
 
 An ideal converging lens of focal length $f$ is centered at $x=y=0$ with its axis of symmetry aligned with the $x$-axis. A light ray incident at height $y \ll f$ will be tilted inward by an angle $\theta=y / f$. In this problem, we will consider objects at $x=-o$, where $o>f$. The lens will produce a real image of the object at $x=i$, where $1 / o+1 / i=1 / f$.
-![](usapho-2024-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2024-a3-fig01.png)
 Even for an ideal lens, the image of a finite-sized object will generally be distorted.
 
 a. Consider a pointlike object at $x=-o$ and $y=0$. If it moves to the right a small distance $\delta_{x}$, its image moves to the right a distance $m_{x} \delta_{x}$. If it moves up a small distance $\delta_{y}$, its image moves up a distance $m_{y} \delta_{y}$. Find $m_{x}$ and $m_{y}$ in terms of $i$ and $o$.

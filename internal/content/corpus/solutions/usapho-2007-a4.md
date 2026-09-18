@@ -36,7 +36,7 @@ p
 2md2/qV
 . (A4-2)
 We can’t stop here, since this is not in terms of the allowed variables. The problem is A and
-d, but since C = 0A/d, we have
+d, but since C =  0A/d, we have
 I =
 n0qA
 p
@@ -52,7 +52,7 @@ qV
 , (A4-4)
 =
 C
-0
+ 0
 n0q
 s
 qV
@@ -63,7 +63,7 @@ R =
 V
 I
 =
-0V
+ 0V
 Cn0q
 s
 2m
@@ -71,7 +71,7 @@ qV
 . (A4-6)
 We can simplify, slightly, with
 R =
-0
+ 0
 Cn0q
 s
 2mV
@@ -80,14 +80,14 @@ q
 e. P = V I, so
 P = V
 C
-0
+ 0
 n0q
 s
 qV
 2m
 =
 s
-0
+ 0
 2n0
 2C2q3V 3
 2m

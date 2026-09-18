@@ -21,9 +21,9 @@ provenance_note: "KöMaL physics points contest, 201010"
 verification_status: pending
 ---
 
-Using six different resistors the tetrahedron ABCD was soldered. If a battery is inserted between two vertices (for example A ,  B ) and a sensitive ammeter is inserted between other two vertices ( C ,  D ), then we experience with a surprise that the ammeter reads zero, independently of the two vertices of the tetrahedron which were chosen first. 
+Using six different resistors the tetrahedron ABCD was soldered. If a battery is inserted between two vertices (for example A ,  B ) and a sensitive ammeter is inserted between other two vertices ( C ,  D ), then we experience with a surprise that the ammeter reads zero, independently of the two vertices of the tetrahedron which were chosen first.
 
- What is the relation between the six resistances? 
+ What is the relation between the six resistances?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4281-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4281-fig1.gif)

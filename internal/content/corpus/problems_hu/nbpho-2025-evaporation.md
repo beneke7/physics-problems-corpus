@@ -22,13 +22,13 @@ verification_status: pending
 
 Az alábbi grafikonon látható, hogyan függ a telített vízgőz sűrűsége (g m$^{-3}$-ben) a hőmérséklettől (°C-ban).
 
-![ábra](../../sources/nbpho/figures/nbpho-2025-evaporation-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2025-evaporation-fig1.jpg)
 
 A víz alábbi jellemzőit használhatja. Fajhője $c= 4200 \mathrm{~J} \mathrm{~kg}^{-1} \mathrm{~K}^{-1}$; párolgáshője $L=2260 \mathrm{~kJ} \mathrm{~kg}^{-1}$; sűrűsége $\rho=1000 \mathrm{~kg} \mathrm{~m}^{-3}$; moláris tömege $\mu=18 \mathrm{~g} \mathrm{~mol}^{-1}$. A vízgőzt ideális gáznak tekintheti. Az univerzális gázállandó $R=8.31 \mathrm{~J} \mathrm{~mol}^{-1} \mathrm{~K}^{-1}$.
 
 **i)** *(2 pont)* Egy hengert víz tölt meg $T_{0}=90^{\circ} \mathrm{C}$ hőmérsékleten, lásd az ábrát. A dugattyú keresztmetszete $S=1 \mathrm{dm}^{2}$. Mekkora a dugattyú mozgatásához szükséges minimális erő? A környező levegő nyomása $p_{0}=100 \mathrm{kPa}$.
 
-![ábra](../../sources/nbpho/figures/nbpho-2025-evaporation-fig2.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2025-evaporation-fig2.jpg)
 
 **ii)** *(2 pont)* Ha a dugattyút úgy húzzuk meg, hogy elmozdulása $a=3 \mathrm{dm}$, a víz lehűl $T_{1}=89^{\circ} \mathrm{C}$ hőmérsékletre; mekkora a dugattyú alatt lévő víz tömege?
 

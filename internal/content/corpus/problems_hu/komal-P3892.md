@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3892. Egy 5$^{.}$10$^{-6}$ m rácsállandójú optikai rácsot a síkjára merőlegesen 680 nm hullámhosszúságú fénnyel világítunk meg. 
- a ) Hány elhajlási maximumot figyelhetünk meg a ráccsal párhuzamosan elhelyezett ernyőn? 
- b ) A beeső fény irányához képest milyen szögben keletkezik a legtávolabbi maximum? 
+P. 3892. Egy 5$^{.}$10$^{-6}$ m rácsállandójú optikai rácsot a síkjára merőlegesen 680 nm hullámhosszúságú fénnyel világítunk meg.
+ a ) Hány elhajlási maximumot figyelhetünk meg a ráccsal párhuzamosan elhelyezett ernyőn?
+ b ) A beeső fény irányához képest milyen szögben keletkezik a legtávolabbi maximum?
  Wigner Jenő fizikaverseny, Békéscsaba

@@ -26,11 +26,11 @@ techniques: [conservation-laws]
 ## 3. Chandrayaan-3
 
 On July 14, 2023, India's lunar mission satellite, Chandrayaan-3, was successfully launched by the Indian Space Research Organization (ISRO). Chandrayaan-3 (mass $m=3900 \mathrm{~kg}$ ) was taken to the Moon through a series of Earth Bound Manoeuvres (elliptical) orbits (EBNs) as depicted in the figure below. In this problem, we will explore the physics governing some part of its journey, employing a simplified model. For all parts of this problem except part (f), we consider Chandrayaan-3 to be moving only under the influence of Earth's gravity (a central force).
-![](inpho-2024-a3-fig01.png)
+![](../../figures/inpho/figures/inpho-2024-a3-fig01.png)
 
 (a) [6 marks] Upon launch, Chandrayaan-3 entered an elliptical orbit around Earth, with Earth at one of the foci (E) as shown below. The points P and A are the perigee (nearest point from the Earth) and apogee (farthest point from the Earth), respectively. We introduce the polar coordinate system ( $r, \theta$ ), where $\vec{r}$ is the vector from the centre of the Earth (origin) to the satellite, and $\theta$ is the angle that $\vec{r}$ makes with the major axis ( $\mathrm{PA}=2 a$ ). The directions of unit vectors $\hat{r}$ and $\hat{\theta}$ are shown in the figure.
 
-![](inpho-2024-a3-fig02.png)
+![](../../figures/inpho/figures/inpho-2024-a3-fig02.png)
 The equation of the ellipse can be written in polar coordinates as
 
 $$

@@ -57,7 +57,9 @@ X International Zhautykov Olimpiad/ Experimental Competition                    
                                      0,37   2,350     0,181            0,039
                                     -0,37   3,083     0,105            -0,037
                                     -0,72   3,724     0,072            -0,070
-X International Zhautykov Olimpiad/ Experimental Competition                              Page 2/6
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                              Page 2/6
 
 
 
@@ -97,7 +99,9 @@ the strength of the magnetic
 interaction and the current in the
 coil. The figure shows the
 corresponding graph which confirms the linearity assumption.
-X International Zhautykov Olimpiad/ Experimental Competition                             Page 3/6
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                             Page 3/6
 
 
                                       Part 2 . Pointlike interaction
@@ -151,7 +155,9 @@ This means that the value
        ξ = (ν 2 − ν 02 )
                            x
                          l+x
-X International Zhautykov Olimpiad/ Experimental Competition                              Page 4/6
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                              Page 4/6
 
 
                                                                 C
@@ -175,7 +181,9 @@ oscillations. This occurs due to the occurrence of eddy currents in the foil.
 or, equivalently, on the number of oscillations in semi-logarithmic scale.
 The graph below shows the corresponding data with (1) and without (2) chocolate. The graphs show
 an increase in the damping of oscillations in the presence of chocolate.
-X International Zhautykov Olimpiad/ Experimental Competition                               Page 5/6
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                               Page 5/6
 
 
                                           Grading scheme
@@ -229,7 +237,9 @@ an increase in the damping of oscillations in the presence of chocolate.
        Plotting:
        - Axis signed and digitized;                                                  0,1
        - All the points of the table are plotted;                                    0,1
-X International Zhautykov Olimpiad/ Experimental Competition                 Page 6/6
+
+
+X International Zhautykov Olimpiad/ Experimental Competition                 Page 6/6
 
 
        - A smooth line is drawn;                                       0,1

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-The Morning Star (actually the planet Venus) is visible for a while only in the evenings, and then it appears for a while only at dawns. What is the period of this change? 
+The Morning Star (actually the planet Venus) is visible for a while only in the evenings, and then it appears for a while only at dawns. What is the period of this change?
  (4 pont)

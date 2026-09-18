@@ -69,14 +69,14 @@ sugarát R segítségével:
 A réz s® tehetetlenségi nyomatékát
                                                         1
                                                 ΘCu =     ̺Cu πℓ R4 − r4
-                                                                         
+
                                                         2
 alakban írhatjuk fel, ahol ℓ a hengeres testek hosszúsága. Kihasználhatjuk, hogy tömegek megegyeznek, ennek alapján
 a réz s® tehetetlenségi nyomatékra a következ®t kapjuk:
 
 
                                                      ̺Cu − ̺Al     2̺Cu − ̺Al
-                                                              
+
                                            1
                                    ΘCu =     mR2 1 +             =            mR2 .
                                            2           ̺Cu           2̺Cu
@@ -86,7 +86,9 @@ A kapott eredményb®l leolvasható, hogy
                                                       1 2̺Cu − ̺Al
                                               kCu =                = 0,85,
                                                       2    ̺Cu
-tehát
+
+
+tehát
                                                     2 (1 + kCu )
                                             hCu =                hAl = 9,4    m.
                                                          3
@@ -152,9 +154,11 @@ A kétféleképpen kifejezett d távolság összevetéséb®l a réz s® útja a
                                                     2(1 + kCu )
                                             xCu =               xAl = 2,46 m.
                                                          3
-       Megjegyzések. 1. Vegyük észre, hogy ahányszor magasabbról indítottuk a réz sövet, annyiszor messzebb áll meg a vízszintes
+
+
+       Megjegyzések. 1. Vegyük észre, hogy ahányszor magasabbról indítottuk a réz sövet, annyiszor messzebb áll meg a vízszintes
 felületen. Ezt úgy is interpretálhatjuk, hogy a teljes me hanikai energia a kezdeti magassággal arányos, és a me hanikai energia
-h®vé alakulása (disszipá iója) pedig a vízszintes szakaszon megtett úttal arányos. Azonban ez az energiadisszipá ió nem írható
+ h®vé alakulása  (disszipá iója) pedig a vízszintes szakaszon megtett úttal arányos. Azonban ez az energiadisszipá ió nem írható
 fel a súrlódási er® és a megtett út szorzataként, hiszen ha így írnánk fel, akkor mindkét testre ugyanakkora súrlódási er®t
 kapnánk, ami nyilvánvalóan hamis következtetés lenne. Az energia nem a szokásos         súszási súrlódás formájában disszipálódik
 (gyakorlatilag tiszta gördülés történik, lényegében tapadó súrlódás lép fel), hanem a testek alatti felület nem tökéletesen rugalmas
@@ -180,7 +184,7 @@ síkjára mer®legesen) 660 nm hullámhosszúságú lézerfénnyel világítjuk 
 intenzitáseloszlást! (A rések szélessége egyforma és sokkal kisebb a távolságuknál.)
                                                                                                         (Vigh Máté )
 
-       Megoldás. El®ször képzeljük el, milyen lenne a dirak iós kép, ha minden második rést (a másodikat, negyediket
+       Megoldás. El®ször képzeljük el, milyen lenne a di rak iós kép, ha minden második rést (a másodikat, negyediket
 stb.) kitakarnánk! Ekkor a 4d távolságra elhelyezked® rések egy szokásos optikai rá sot alkotnának, az n-edik elhajlási
 maximum erny®n mérhet® xn helyzetét pedig a
 
@@ -202,12 +206,14 @@ maximum erny®n mérhet® xn helyzetét pedig a
 Ugyanilyen lenne az elhajlási kép, ha a másik réssort (azaz az els®, harmadik stb. rést) takarnánk ki. A feladatban
 kérdezett esetre visszatérve meg kell vizsgálnunk, hogy a (∗) egyenlet által meghatározott irányokban hogyan adódik
 össze a két, d távolsággal eltolt, 4d periódusú réssoron áthaladó fény amplitúdója. Négy esetet kell megvizsgálnunk:
-   • Ha n = 4k + 1, akkor a két réssoron áthaladó fény közötti útkülönbség λ/4, ami π/2 fáziskülönbségnek felel meg.
+
+
+   • Ha n = 4k + 1, akkor a két réssoron áthaladó fény közötti útkülönbség λ/4, ami π/2 fáziskülönbségnek felel meg.
      Két, π/2 fáziskülönbséggel találkozó, azonos amplitúdójú hullám összegének amplitúdója (rögzített helyen):
 
 
                                     E0 sin(ωt) + E0 sin(ωt + π/2) = E0 sin(ωt) + E0 cos(ωt) =
-                                                              
+
                                        √1             1            √
                                    =    2E0
                                        √ sin(ωt) + √ cos(ωt) = 2E0 sin(ωt + π/4).
@@ -231,13 +237,13 @@ kérdezett esetre visszatérve meg kell vizsgálnunk, hogy a (∗) egyenlet ált
 
                                                              4. ábra
 
-   Megjegyzések. 1. Optikai rá    sal keltett dirak iós (elhajlási) kép esetén az erny®n kialakuló vonalak rendkívül keskenyek,
-ezek a vonalak meglehet®sen élesek. A közepes vonalszélesség jó közelítésben annyiad része két egymás utáni vonal távolságának,
+   Megjegyzések. 1. Optikai rá    sal keltett di rak iós (elhajlási) kép esetén az erny®n kialakuló vonalak rendkívül keskenyek,
+ezek a vonalak meglehet®sen  élesek . A közepes vonalszélesség jó közelítésben annyiad része két egymás utáni vonal távolságának,
 ahány résb®l áll a rá s. Ez pedig legalább száz, de akár sok ezer is lehet.
    2. A második feladat megoldásának a bemutatását is kísérleti szemléltetés követte. A feladat szövegének megfelel® optikai
 rá sot Kis Lajos (Szeged) készítette el a következ® módon. A rá s (arányosan megnövelt méret¶) mintázatát számítógépes raj-
-zolóprogram segítségével egy A/3 méret¶ lapra nyomtatta, majd a lapot megfelel® távolságból elegend®en nom szem seméret¶
-lmre fényképezte. A lapra nyomtatott vékony, sötét vonalak a lmnegatívon átereszt® résekként jelentek meg. Az eredményhir-
+zolóprogram segítségével egy A/3 méret¶ lapra nyomtatta, majd a lapot megfelel® távolságból elegend®en  nom szem seméret¶
+ lmre fényképezte. A lapra nyomtatott vékony, sötét vonalak a  lmnegatívon átereszt® résekként jelentek meg. Az eredményhir-
 detésen a lézerrel megvilágított rá s elhajlási képe az elméleti számításokkal megegyez® módon, jól láthatóan jelent meg a terem
 vetít®erny®jén.
 
@@ -253,14 +259,16 @@ Mekkora er®vel húzza a vezeték a rögzítési pontokat az egyes esetekben?
 által a vezet® darabkáira kifejtett er® mindenhol mer®leges a huzalra, ezért a vezeték minden pontjában ugyanakkora
 er® ébred. A vezeték r görbületi sugarú darabkájában F = IBr nagyságú er® ébred. Ez könnyen belátható a vezeték
 kis darabkájára ható er®k vizsgálatával (     5. ábra ).
-                                                         5. ábra
+
+
+                                                         5. ábra
 
    Az er®egyensúly:
                                                    2F sin ϕ = IB∆ℓ.
 Geometriából:
                                                        ∆ℓ = 2ϕr.
 A kis szögek miatt sin ϕ ≈ ϕ, ebb®l valóban az F = IBr eredményre jutunk. Az eddigiekb®l következik, hogy a huzal
-körív alakot vesz fel. (Elvben a többmenetes körteker s alak is egyensúlyi helyzet, ez azonban labilis, így nem is
+körív alakot vesz fel. (Elvben a többmenetes  körteker s  alak is egyensúlyi helyzet, ez azonban labilis, így nem is
 alakítható ki, ahogy egy   eruzát sem lehet a hegyére állítani.)
    A körívre a következ® geometriai összefüggéseknek kell teljesülniük (   6. ábra ):
                                                       2r sin α = ℓ/2,
@@ -288,7 +296,9 @@ alak is egyensúlyi helyzet, ez azonban könnyen beláthatóan labilis.)
 
 
                                                          7. ábra
-    A     savarvonal menetemelkedésének ϑ szögét (azaz a         savarvonal adott pontbeli érint®je és az ugyanezen ponton
+
+
+    A     savarvonal menetemelkedésének ϑ szögét (azaz a         savarvonal adott pontbeli érint®je és az ugyanezen ponton
 átmen®, a B -térre mer®leges sík által bezárt szöget) egyszer¶ geometriával számíthatjuk ki:
 
                                                            ℓ
@@ -313,17 +323,17 @@ megvalósítása egyszer¶ körülmények között nehéz, több gyakorlati neh�
     A feladat szövegében homogén, er®s mágneses tér szerepel. Ezt a két feltételt nem könny¶ egyszerre teljesíteni. Aránylag
 nagy térrészben homogén és er®s mágneses teret    sak nagyon nagy (és drága) eszközökkel lehet el®állítani. A kísérleti bemutatón
                                                    1
-a tér el®állítására Helmholtz-teker set használtunk , melynek tere a teker sek közti tér közepén elég jó közelítéssel homogén 
+a tér el®állítására Helmholtz-teker set használtunk , melynek tere a teker sek közti tér közepén elég jó közelítéssel homogén
 viszont nem túl er®s. (A Föld mágneses terénél azért egy-két nagyságrenddel nagyobb.)
-    A feladat szövegében szerepl® vezeték könny¶, vékony és hajlékony. A szövegben a könny¶ azt jelenti, hogy a vezeték
-súlya elhanyagolható a mágneses tér által kifejtett er®höz képest. (Az er®s mágneses tér pedig arra utal, hogy a vezeték saját
+    A feladat szövegében szerepl® vezeték könny¶, vékony és hajlékony. A szövegben a  könny¶  azt jelenti, hogy a vezeték
+súlya elhanyagolható a mágneses tér által kifejtett er®höz képest. (Az  er®s mágneses tér  pedig arra utal, hogy a vezeték saját
 mágneses terének hatását is elhanyagolhatjuk.) A feltételek teljesítéséhez nagyon vékony vezetéket kellett használnunk: egy kb.
 0,1 mm vastag vörösréz huzalt, amely olyan vékony, hogy alig látszik. A huzal vastagsága viszont korlátozza a vezetéken átfolyó
 áram nagyságát is, pedig a nem túl er®s mágneses tér mellett minél nagyobb áramra van szükség a jelenség bemutatásához.
-Az áramer®sséggel elmentünk a határokig: a vezeték (miután leégett róla a szigetel® lakk) vörösen izzott  és így az elsötétített
+Az áramer®sséggel elmentünk a határokig: a vezeték (miután leégett róla a szigetel® lakk) vörösen izzott   és így az elsötétített
 teremben láthatóvá is vált.
     A bemutatón el®ször egy, a feladathoz lazábban kap solódó kísérletet mutattunk be: egy kisnyomású héliummal töltött
- s®ben gyeltük meg az elektronok mozgását. Az izzókatódból kilép®, felgyorsított elektronok a Helmholtz-teker sben kör-,
+ s®ben  gyeltük meg az elektronok mozgását. Az izzókatódból kilép®, felgyorsított elektronok a Helmholtz-teker sben kör-,
                                                                                                                          2
 illetve   savarvonal alakú pályán mozognak, és pályájuk a gerjesztett héliumatomok zöld fényének köszönhet®en látható .
     Ezután vizsgáltuk a vezeték alakját. Még egy ilyen vékony vezeték is aránylag merev (tehát a hajlékonyságot se könny¶
@@ -331,14 +341,14 @@ illetve   savarvonal alakú pályán mozognak, és pályájuk a gerjesztett hél
 biztosítani), de a feladat
                                               ◦                                     ◦
 az áramirány változtatásakor pedig a körív 180 -kal átfordult. A vezeték végeinek 90 -os elforgatásakor (a feladat b) részének
-megfelel® elrendezésben) jól meggyelhet®en kialakult a    savarvonal forma. (A feladatban kérdezett ki siny er®k mérésére ebben
+megfelel® elrendezésben) jól meg gyelhet®en kialakult a    savarvonal forma. (A feladatban kérdezett ki siny er®k mérésére ebben
 az egyszer¶ demonstrá ióban természetesen nem volt lehet®ség.)
 
                                                                  ∗
     Az ünnepélyes eredményhirdetésre és díjkiosztásra 2013. november 15-én délután került sor az ELTE Konferen-
                                                                                                        Ti hy Géza
  iatermében. Meghívást kaptak az 50 és a 25 évvel ezel®tti Eötvös-verseny nyertesei is. 50 évvel ezel®tt
-nyerte meg a versenyt,       Abos Imre lett a második, Major János a harmadik. Mindhárman itt voltak  Ti hy Géza
+nyerte meg a versenyt,       Abos Imre lett a második, Major János a harmadik. Mindhárman itt voltak   Ti hy Géza
 az ELTE-r®l, Abos Imre a BME-r®l, Major János Stuttgartból jött el. 25 évvel ezel®tt már nem sak érettségizettek
 indulhattak az Eötvös-versenyen, s az els® tíz helyezett felvételi nélkül kerülhetett be az egyetemre. Ennek megfelel®en
 a résztvev®k és a díjazottak száma is nagyobb volt. A két akkori els® díjas közül    Fu skár Attila eljött, Hauer Tamás
@@ -359,11 +369,13 @@ A 3. feladat megoldását is Vigh Máté ismertette, a hozzá kap solódó kís�
 szettudomány szakos egyetemi hallgató. Pé sett érettségizett a Le®wey Klára Gimnáziumban, tanára      Simon Péter,
     1 http://fizipedia.bme.hu/images/a/a7/Helmholtz2.jpg
     2 http://fizipedia.bme.hu/images/9/90/Eperm5.jpg
-szakkörvezet®je   Kotek László volt. k vették át az els® díjat Attila helyett, akivel viszont sikerült Skype-on egyidej¶leg
+
+
+szakkörvezet®je   Kotek László volt.  k vették át az els® díjat Attila helyett, akivel viszont sikerült Skype-on egyidej¶leg
 kap solatba lépnünk, és akit így kivetítve láthattak és tapsolhattak meg a többiek.
    Második díjat nyert egyenl® helyezésben Fehér Zsombor, a Budapesti Fazekas Mihály Általános Iskola és Gim-
 názium 11. évf. tanulója,Horváth Gábor tanítványa, valamint Ková s Áron Dániel, az Eötvös Loránd Tudomány-
-egyetem zika szakos hallgatója, aki ugyan sak a Fazekas Gimnáziumban érettségizett mint Horváth Gábor és Csefkó
+egyetem  zika szakos hallgatója, aki ugyan sak a Fazekas Gimnáziumban érettségizett mint Horváth Gábor és Csefkó
 Zoltán tanítványa.
    Harmadik díjat nyert egyenl® helyezésben Hori sányi Attila, az egri Dobó István Gimnázium 12. évf. tanulója,
 Hóbor Sándor tanítványa, Janzer Barnabás, a Budapesti Fazekas Mihály Általános Iskola és Gimnázium 11. évf.
@@ -373,7 +385,7 @@ tanulója, Horváth Gábor tanítványa, valamint Takátsy János, a budapesti V
 Dombi Anna, szakkörvezet®je Kotek László, valamint Öreg Botond, a Budapesti Fazekas Mihály Általános Iskola és
 Gimnázium 11. évf. tanulója, akinek Horváth Gábor és Szokolai Tibor voltak a tanárai.
    A MOL támogatásával az els® díjjal 30 ezer, a második díjjal 20 ezer, a harmadik díjjal 15 ezer forint pénzjutalom
-járt, míg a di séretesek Simonyi Károly   A zika kultúrtörténete . m¶vének legújabb kiadását kapták meg. A díjazottak
+járt, míg a di séretesek Simonyi Károly   A  zika kultúrtörténete . m¶vének legújabb kiadását kapták meg. A díjazottak
 megjelent tanárai és a megjelent 50, illetve 25 évvel ezel®tti nyertesek egy-egy értékes könyvet választhattak maguknak
 az ELFT, a MATFUND Alapítvány, a Nemzeti Tankönyvkiadó, a Typotex Kiadó és az Akkord Kiadó kiállított könyvei
 közül.
@@ -381,6 +393,6 @@ közül.
 vállalatokat és magánszemélyeket, amelyek, illetve akik anyagi segítségével sikerült a Társulatnak az elmúlt 25 évben
 lebonyolítania a versenyt.
    Zawadowski Alfréd megköszönte Radnai Gyulának a Versenybizottságban több mint 40 éve, elnökként pedig 25 éve
-végzett munkáját, és átnyújtott egy oklevelet, mely tanúsítja, hogy elnyerte az Eötvös-verseny Versenybizottságának
-örökös tiszteletbeli elnöke   ímet.
+végzett munkáját, és átnyújtott egy oklevelet, mely tanúsítja, hogy elnyerte  az Eötvös-verseny Versenybizottságának
+örökös tiszteletbeli elnöke    ímet.
    Az ünnepélyes díjkiosztást jó hangulatú állófogadás zárta a Ramasoft Zrt. jóvoltából.

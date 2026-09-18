@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200504"
 verification_status: pending
 ---
 
-What voltage is connected to the plane capacitor in vacuum, the plates of which are at 1 cm distance from each other, when the electrons detaching from the negative plate impact to the positive one with a velocity that is 60% of the speed of light. Solve the problem with both relativistic and non-relativistic methods. 
+What voltage is connected to the plane capacitor in vacuum, the plates of which are at 1 cm distance from each other, when the electrons detaching from the negative plate impact to the positive one with a velocity that is 60% of the speed of light. Solve the problem with both relativistic and non-relativistic methods.
 
  (4 pont)

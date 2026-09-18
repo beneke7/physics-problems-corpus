@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [extremization, conservation-laws]
 ---
 
-A disc of radius 25 cm and of uniform density can swing (with a small amplitude) about a horizontal axle which is perpendicular to the plane of the base of the disc. 
- a ) What is its period in seconds if the axle is 25 cm from the centre of the disc? 
- b ) Where must the axle be placed in order that the period is to be 1 s? 
- c ) Where must the axle be placed in order that the period is to be the minimum? 
+A disc of radius 25 cm and of uniform density can swing (with a small amplitude) about a horizontal axle which is perpendicular to the plane of the base of the disc.
+ a ) What is its period in seconds if the axle is 25 cm from the centre of the disc?
+ b ) Where must the axle be placed in order that the period is to be 1 s?
+ c ) Where must the axle be placed in order that the period is to be the minimum?
  (5 pont)

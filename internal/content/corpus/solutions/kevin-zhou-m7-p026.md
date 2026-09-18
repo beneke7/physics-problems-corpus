@@ -101,10 +101,10 @@ Drag is nicely discussed throughout The Art of Insight; see sections 3.5, 5.3.2,
 Solution. (a) By running a standard dimensional analysis, we find the most general expression
 with the right dimensions of force is
 F = ηRv f
-
+
 ρRv
 η
-
+
 .
 In accordance with the Buckingham Pi theorem of P1, we can’t pin down the answer exactly;
 we can only determine it up to an unknown function of Re = ρRv/η, the unique dimensionless

@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-Find the velocity of the object if its increase of mass is 10%. 
- a ) By what percent will the length of the object decrease in the direction of the motion? 
- b ) If its rest energy is W $_{0}$, what is its kinetic energy? 
+Find the velocity of the object if its increase of mass is 10%.
+ a ) By what percent will the length of the object decrease in the direction of the motion?
+ b ) If its rest energy is W $_{0}$, what is its kinetic energy?
  (4 pont)

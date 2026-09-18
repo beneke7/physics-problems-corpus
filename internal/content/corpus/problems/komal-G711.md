@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, smart-coordinates]
 ---
 
-A closed underground chamber is connected to the outside world with a chimney. There is water in some parts of the chamber. Determine the pressure at the points $A$, $B$, $C$ and $D$ shown in the figure. 
+A closed underground chamber is connected to the outside world with a chimney. There is water in some parts of the chamber. Determine the pressure at the points $A$, $B$, $C$ and $D$ shown in the figure.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G711-fig1.gif)
+![figure](../../figures/komal/figures/komal-G711-fig1.gif)

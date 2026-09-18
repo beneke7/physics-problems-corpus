@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-Two 100- resistors are connected in series, and they are operated from a supply which generates constant voltage. A variable resistor is connected to one of the 100- resistors in parallel. Find the resistance of the variable resistor when it dissipates the greatest power. 
+Two 100- resistors are connected in series, and they are operated from a supply which generates constant voltage. A variable resistor is connected to one of the 100- resistors in parallel. Find the resistance of the variable resistor when it dissipates the greatest power.
  (4 pont)

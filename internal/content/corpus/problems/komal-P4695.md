@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201501"
 verification_status: pending
 ---
 
-There is a 1 cm long operating electrical filament at a distance of 10 cm from a lens of optical power of 5 dioptres. The filament is perpendicular to the principal axis of the lens. A plane mirror, facing towards the lens, is placed to the other side of the lens, 20 cm from it. The mirror is also perpendicular to the principal axis of the lens. Where are the images of the filament and what is their size? 
+There is a 1 cm long operating electrical filament at a distance of 10 cm from a lens of optical power of 5 dioptres. The filament is perpendicular to the principal axis of the lens. A plane mirror, facing towards the lens, is placed to the other side of the lens, 20 cm from it. The mirror is also perpendicular to the principal axis of the lens. Where are the images of the filament and what is their size?
  (4 pont)

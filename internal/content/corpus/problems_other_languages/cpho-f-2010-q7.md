@@ -26,8 +26,8 @@ verification_status: pending
 1． 通过导线 $b a 、 a d 、 b c$ 和 $c d$ 的电流强度。
 2． 为维持正方体作匀速转动所需的外力矩。
 
-![](cpho-f-2010-q7-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q7-fig01.png)
 （a）
 
-![](cpho-f-2010-q7-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2010-q7-fig02.png)
 （b）

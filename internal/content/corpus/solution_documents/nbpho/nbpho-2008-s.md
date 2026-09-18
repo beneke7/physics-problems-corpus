@@ -13,19 +13,19 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 1. Dumbbell (6 points)                                                    The heat contained in the bridge must be comparable with the 2) Circular part of the trajectory is a quarter of the full circle,
                                                                                                4)
-1) During the rst collision, we can neglect the eect of the         heat,  which ows through it during one half-period (if it is much so t = πR/2v.
-spring, because during the collision time, the balls almost don't smaller,      the stationary linear prole will develop very soon). So, 3) Let O be the centre of the circular orbit of the electron and B
+1) During the  rst collision, we can neglect the e ect of the         heat,  which  ows through it during one half-period (if it is much so t = πR/2v.
+spring, because during the collision time, the balls almost don't smaller,      the stationary linear pro le will develop very soon). So, 3) Let O be the centre of the circular orbit of the electron and B
                                                                                                                                                         ′
 
 
-move, hence the spring doesn't deform. Two absolutely elastic AcρSL ≈ AκS/(Lω ); hence,                                                     the intersection point of the trajectory with the region bound-
+move, hence the spring doesn't deform. Two absolutely elastic AcρSL ≈ AκS/(Lω ); hence,                                                      the intersection point of the trajectory with the region bound-
                                                                                                                                            ary. The polygon COBO is rhomb, because all the sides are
 identic balls exchange velocity during a central collision. So, the
                                                                                                             c
                                                                                                                                                                            ′
                                                                                                    ω ≈ κ/cρL .           2
 
-rst ball will remain at rest, and the second one will obtain the
+ rst ball will remain at rest, and the second one will obtain the
                                                                                                                      c
                                                                                                                                            equal to R. So, the line BO is vertical (because O C is vertical
                                                                                                                                                                                                      ′
@@ -40,7 +40,7 @@ is v/2.                                                                         
 tem √of reference of its centre of mass with circular frequency                                                                                                                              2           R
 ω = 2k/m (balls oscillate so that the middlepoint of the spring                                                                            5. Ball      (9 points)
 
-is at rest; twice shorter spring has a twice larger stiness).
+is at rest; twice shorter spring has a twice larger sti ness).
      Due to the energy conservation law, the only way for the
 fourth ball to acquire the velocity v is such that all the other
 balls remain at a complete rest after the interaction. Therefore,
@@ -56,8 +56,8 @@ hence                        (       )
                                    1 √
                                                                                            2
 
-                                                                                                                                           nger, we keep one end of the second ruler in contact with the
-                     L = πv n +          m/2k.                                                                                             rst ruler and nd the closest stable position of the ball (resulting
+                                                                                                                                            nger, we keep one end of the second ruler in contact with the
+                     L = πv n +          m/2k.                                                                                              rst ruler and  nd the closest stable position of the ball (resulting
                                    2
                                                                       1) Let us draw from an arbitrary point B on the road a line par-
                                                                                                                                            in the largest inclination angle of the second ruler), see Figure.
@@ -68,11 +68,11 @@ hence                        (       )
                                                                                                                                            the ball        ruler touching point B. Gravity force has no torque,
 istance is R = L/4κS.                                                 has travelled the distance |BC| = ut, where u is the wind speed. vector of the applied
                                                                                                                                                      it is           to the centre of the ball O. So, the resultant
-2) The power dissipation P results in an heat ux through the
+2) The power dissipation P results in an heat  ux through the
 bridges, Φ = ∆T /R, and in the change of the heat contained in Tractor          itself has travelled the distance |AB| = v t. So, we can torque, i.e. it has to goandthrough
                                                                                                                                                             friction      reaction forces at C must have also zero
                                                                                                                                                                                 B . At the threshold of sliding, the
-the microcalorimeter, Q̇ = C Ṫ = C∆Ṫ (here, dot denotes the measure            the distances |AB| and |BC from the gure and calcu- angle between this vector and the
+the microcalorimeter, Q̇ = C Ṫ = C∆Ṫ (here, dot denotes the measure            the distances |AB| and |BC from the  gure and calcu- angle between this vector and the
                                                                                                                              0
 
 
@@ -87,7 +87,7 @@ Now, we can search the√ solution as ∆T = A cos(ωt + ϕ), and 2) If the seco
                        0                                                                            42 mm
 
 denote ψ = arcsin(Cω/ √C ω + R ). Then,             −2                what earlier, the two tractors had been at the crossroad simul- directly using the ruler. Several measurements are needed, to
-                                                                      taneously. Now, the tractors would be at the same distance from nd the critical position of the ball more accurately.
+                                                                      taneously. Now, the tractors would be at the same distance from  nd the critical position of the ball more accurately.
                                 2       2
 
           P cos(ωt) = A C ω + R √cos(ωt + ϕ − ψ).
@@ -98,7 +98,7 @@ So, we must have ϕ = ψ( and A = P / C√ω + R , i.e.)
            0
 
 
-                                                                      C , |OC| = |AO| = v t (this is how we nd the point C ). Its smaller coecient of friction than the ruler, the sliding starts at
+                                                                      C , |OC| = |AO| = v t (this is how we  nd the point C ). Its smaller coe cient of friction than the ruler, the sliding starts at
                                                               2    2       −2
                                                     0
 
@@ -107,7 +107,7 @@ So, we must have ϕ = ψ( and A = P / C√ω + R , i.e.)
                    P cos ωt + arcsin(Cω/ C ω + R )                 2   2        −2                               0
                    0
         T =T +                  √                           .
-                                                                      its actual  position B. Such a meeting of the tractors would have 6. Rectier
+                                                                      its actual  position B. Such a meeting of the tractors would have 6. Recti er
                0
                                                               −2
 
@@ -122,7 +122,7 @@ must be as sensitive with respect to the small changes of C , i.e. now in positi
                                                                                                                                                              (8 points)
                                                                             C 2 ω 2 +R−2
 
-                                                                                                  OD = ut. So, we nd
+                                                                                                  OD = ut. So, we  nd
 dA/dC must be maximal by modulus. dA/dC = P (C ω +                                    2    2
                                                                                                                                            the capacitor, all must come through the diode. Hence, the aver-
            Cω ; if we denote x = (Cω) , we need to minimize the                                                                            age current through the diode is also I = 2 mA, and the average
@@ -136,7 +136,7 @@ R )
                        x
               [          ]
             ln (dC/dA) = 3 ln(x + R ) − ln x + ln C.
-                           2                             −2           4. Magnetic eld                      (6 points)                     voltage u = 1 V: P = 2 mW.
+                           2                             −2           4. Magnetic  eld                      (6 points)                     voltage u = 1 V: P = 2 mW.
 Upon taking derivative and putting it equal to 0, we obtain 1) Since the radius of the cyclotron orbit is equal to the radius 2) If the diode is open, Uload(t) = U cos(ωt) − u. If the di-
 3x = x + R , from where x = R     √ /2, i.e.                          of the region R, the trajectory is given by the curve DABE in ode is closed [i.e. U cos(ωt) < Uload(t) + u], the capacitor dis-
                                                                                                                                                                                          0
@@ -145,10 +145,12 @@ Upon taking derivative and putting it equal to 0, we obtain 1) Since the radius 
                                                                       the Figure (AB is a circle fragment).                                charges through the load. However, the relative change of the
                                                                                                                                                                      0
                            ω = 1/ 2CR.
-voltage of the capacitor has to be small (otherwise ∆I/I would We can integrate these equations over time (bearing in mind that 10. Glass plate                               (10 points)
+
+
+voltage of the capacitor has to be small (otherwise ∆I/I would We can integrate these equations over time (bearing in mind that 10. Glass plate                               (10 points)
 not be small). The respective load voltage as a function of time initial velocity is zero):
 is sketched in the Figure. So, we can use the above written                                                                    −1
-Kircho's law with Uload(t) ≈ IR, hence U = IR + u = 21 V.
+Kircho 's law with Uload(t) ≈ IR, hence U = IR + u = 21 V.
                                                      0
                                                                                          mẋ = −eE ω sin ωt,
                                                                                        mẏ = eE ω (1 − cos ωt).
@@ -173,7 +175,7 @@ Kircho's law with Uload(t) ≈ IR, hence U = IR + u = 21 V.
                                                                                                          mω 2
                                                                                                                     in  the
                                                                                                                        ωm
-                                                                                                                             system  of ref- beams, reected from the upper and
+                                                                                                                             system  of ref- beams, re ected from the upper and
                                                                    erence,  moving   with  velocity  (parallel to  the   y -axis) u =
 cycle can be estimated as ∆U = ∆Q/C , where the capacitor's The radius of the orbit is R = . In the laboratory system, lower               .         surfaces of the glass plate, see
                                                                                                                                                                eE0
@@ -189,12 +191,12 @@ charge cycle occupies almost all the period (see Figure), we can a rolling disk)
 
 
 use t ≈ 1/ν . Further, ∆I/I = ∆U/U = ∆Q/CU = ∆Q/CIR = ∆ = 2πu/ω = 2πR.                                                                                     result, on the screen, there
-1/CRν . Hence, C ≥ 100/Rν = 200 µF.                                                                                                          will be almost the same diraction
-4) Initially, the capacitor is empty, so that the charge owing 9. Asteroid                                                                  pattern, as from a single slit (lower
-through the capacitor during the rst cycle is Q = CIR. Hence, 1) The longer semiaxis is a = (r + r ) = (α + β)R. So, the drawing
+1/CRν . Hence, C ≥ 100/Rν = 200 µF.                                                                                                          will be almost the same di raction
+4) Initially, the capacitor is empty, so that the charge  owing 9. Asteroid                                                                  pattern, as from a single slit (lower
+through the capacitor during the  rst cycle is Q = CIR. Hence, 1) The longer semiaxis is a = (r + r ) = (α + β)R. So, the drawing
                                                                                          (7 points)
                                                                                                                                                         in the Figure).
-                                                                                                                                                  In the rst case, we need to calculate the optical path dif-
+                                                                                                                                                  In the  rst case, we need to calculate the optical path dif-
 the average power P = Quν = CIRuν = 200 mW.
                       1
                                                                                                                       1
@@ -209,14 +211,14 @@ the average power P = Quν = CIRuν = 200 mW.
 7. Fire  (6 points)                                                                                                                          d sin β sin α) = 2d(n/ cos β − sin α/n); we keep in mind that
                                                                                                                                                                                                 2
 
-                                                                                                                                             sin β = sin α/n.            We need to nd such a change in α,
+                                                                                                                                             sin β = sin α/n.            We need to  nd such a change in α,
                                                                                         E        γM      1      γM
 The smoke will rise until its density becomes equal to the density                         =−         = v −                            2
                                                                                                                       .
 of the air at the same height. Since the molar masses and pres- Bearing in mind that v = , we can rewrite this as
                                                                                         m         2a     2        R
                                                                                                                                              which gives rise to the change of ∆l by λ (this corresponds
-                                                                                                                                             to a transition from one diraction minimum to another one):
+                                                                                                                                             to a transition from one di raction minimum to another one):
                                                                                                          2       γM
 
 sures of the smoke and air are equal, this implies also equal tem-                                       0        R
@@ -251,7 +253,7 @@ gas law (pV /T ) = Const, we obtain p /T = Const. Tak- 2) Tangential component c
                                                                                                                                                              sin α(cos β − 2 cos α/n). We can easily measure
                  γ                           γ−1         γ
 
-ing a logarithm and dierential from this equation, we obtain mentum conservation law: v = v β, where the velocity at the α andLλ/2a                 calculate
+ing a logarithm and di erential from this equation, we obtain mentum conservation law: v = v β, where the velocity at the α andLλ/2a                 calculate
                                                                                                                                                                                   −2
 
                                                                                                                                                                   β ; for n, we can use typical value n ≈ 1.4, or use
@@ -259,7 +261,7 @@ ing a logarithm and dierential from this equation, we obtain mentum conservatio
                                                                    perihelion can√be found analogously to v:
                                                                                                                  r             p
 (γ − 1) − γ
-                                                                                                                                             the  Brewster     angle   α measurement to nd n = tan α . For the
+                                                                                                                                             the  Brewster     angle   α measurement to  nd n = tan α . For the
         dp     dT
 
 for the require temperature change

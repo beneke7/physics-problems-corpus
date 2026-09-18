@@ -31,7 +31,7 @@ A long time ago before scientists could measure the speed of light accurately, O
 
 A long series of observations of the eclipses permitted an accurate evaluation of the period of M. The observed period T depends on the relative position of the earth with respect to the frame of reference SJ as one of the coordinate axes. The average time of revolution is $\mathrm{T}_{0}=42 \mathrm{~h} 28 \mathrm{~m} 16 \mathrm{~s}$ and maximum observed period is $\left(\mathrm{T}_{0}+15\right) \mathrm{s}$.
 
-![](apho-2000-t-q1-fig01.png)
+![](../../figures/apho/figures/apho-2000-t-q1-fig01.png)
 Figure 1 : The orbits of the earth E around the sun and a satellite M around Jupiter J. The average distance of the earth E to the Sun is $\mathrm{R}_{\mathrm{E}}=149.6 \times 10^{6}$. The maximum distance is $\mathrm{R}_{\mathrm{E}, \text { max }}=1.015 \mathrm{R}_{\mathrm{E}}$. The period of revolution of the earth is 365 days and of Jupiter is 11.9 years. The distance of the satellite M to the planet Jupiter $\mathrm{R}_{\mathrm{M}}=422 \times 10^{3} \mathrm{~km}$.
 
 a. Use Newton's law of gravitation to estimate the distance of Jupiter to the Sun. Determine the relative angular velocity $\omega$ of the earth with respect to the frame of reference Sun-Jupiter (SJ). Calculate the speed of the earth with respect to SJ.

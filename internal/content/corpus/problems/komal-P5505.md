@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-A room is illuminated by a five-arm chandelier, attached to the ceiling. A symmetrical double convex handheld magnifying glass lies on the desk in the room. A glance at the magnifying glass reveals two images of the chandelier at different magnifications and orientations. 
- $a)$ How are the two images created? 
- $b)$ Into which directions do the arms of the chandelier point in reality? 
+A room is illuminated by a five-arm chandelier, attached to the ceiling. A symmetrical double convex handheld magnifying glass lies on the desk in the room. A glance at the magnifying glass reveals two images of the chandelier at different magnifications and orientations.
+ $a)$ How are the two images created?
+ $b)$ Into which directions do the arms of the chandelier point in reality?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5505-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5505-fig1.gif)

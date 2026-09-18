@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction]
 ---
 
-A space ship orbits along a circular path around the Earth, its period is 100 minutes. What is the area of the surface of the Earth which is seen by the astronaut at a certain instant? (Neglect the refraction of light due to the atmosphere.) 
+A space ship orbits along a circular path around the Earth, its period is 100 minutes. What is the area of the surface of the Earth which is seen by the astronaut at a certain instant? (Neglect the refraction of light due to the atmosphere.)
  (4 pont)

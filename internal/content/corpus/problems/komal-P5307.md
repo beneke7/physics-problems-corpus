@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-The pumping rate of a pump is 150 cm${}^3$/s. How long does it take to decrease the pressure of the air in a 3-litre container from the normal atmospheric pressure of $10^5$ Pa to one-thousands of this value by pumping out the air isothermally? 
+The pumping rate of a pump is 150 cm${}^3$/s. How long does it take to decrease the pressure of the air in a 3-litre container from the normal atmospheric pressure of $10^5$ Pa to one-thousands of this value by pumping out the air isothermally?
  (4 pont)

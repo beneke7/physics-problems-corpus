@@ -63,7 +63,9 @@ solution_language: en
          flips sign, but vy = ∂y/∂t stays the same.
 
                                                       1
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
        When a sound wave hits a hard wall, the wall sets the displacement ξ(x, t) to zero. Then
        upon reflection, the displacement flips sign, while the pressure variation δP (x, t) ∝ ∂ξ/∂x

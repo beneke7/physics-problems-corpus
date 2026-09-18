@@ -23,7 +23,7 @@ verification_status: pending
 
 Problem 4 (35 points). Refer to Figure 4.1. A square wire loop $a b c d$ having uniform density, mass $m$, side length $l$, and resistance $R$ lies in a uniform magnetic field of magnitude $B$ which points vertically upwards. The loop can rotate freely about the axis $O O^{\prime}$, which passes through the midpoints of sides $a d$ and $b c$. The two ends of the loop are connected to the leads $P$ and $Q$. $O O^{\prime}$ and the $x$-axis are coplanar and orthogonal. We neglect the self-inductance of the wire loop.
 
-![](cpho-f-2017-en-q4-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2017-en-q4-fig01.png)
 Figure 4.1: A spinning wire loop.
 
 (1) Find the moment of inertia $J$ of the wire about $O O^{\prime}$.

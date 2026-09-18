@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy nehéz, $R$ sugarú korong lefelé gördül, miközben két fonalat csévél le. A fonalak a mennyezethez vannak rögzítve, és a mozgás során mindig feszesek maradnak. Mekkora volt a korong középpontjának sebessége abban a pillanatban, amikor szögsebessége $\omega$, a fonalak által bezárt szög pedig $\alpha$ volt?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr44-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr44-fig1.jpg)

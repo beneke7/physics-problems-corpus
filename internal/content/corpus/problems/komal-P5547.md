@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A small wooden ball is attached to one end of a $30~\text{cm}$ long thread, and the free end of the thread is fixed to the bottom of a bucket at a distance of $20~\text{cm}$ from the centre. The bucket is filled with water and rotated around its axis of symmetry. (The water covers the ball during the motion.) What is the angular velocity at which the bucket must be spun so that after a long time the thread makes an angle of $30^\circ$ with the vertical? 
+A small wooden ball is attached to one end of a $30~\text{cm}$ long thread, and the free end of the thread is fixed to the bottom of a bucket at a distance of $20~\text{cm}$ from the centre. The bucket is filled with water and rotated around its axis of symmetry. (The water covers the ball during the motion.) What is the angular velocity at which the bucket must be spun so that after a long time the thread makes an angle of $30^\circ$ with the vertical?
  (5 pont)

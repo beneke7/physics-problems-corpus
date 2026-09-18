@@ -30,7 +30,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
       (a) A P1-ben Stirling közelítését tárgyaltuk: nagy N esetén log N ! ≈ N log N − N. Ezt az eredményt felhasználva
           mutassuk meg, hogy a rendszer entrópiája
-                                                                          
+
                                                      1                  1
                                     S = N kB α log + (1 − α) log              .
                                                      α               1−α
@@ -44,7 +44,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           És mi a helyzet α = 1 esetén?
 
                                                       11
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
      (c) Mutassuk meg, hogy a termodinamika harmadik főtétele teljesül.

@@ -13,8 +13,8 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2008_
 ---
 
 1. Dumbbell (6 points)
-1) During the 
-rst collision, we can neglect the eect of the
+1) During the
+rst collision, we can neglect the e ect of the
 spring,becauseduringthecollisiontime,theballsalmostdon't
 move, hence the spring doesn't deform. Two absolutely elastic
 identicballsexchangevelocityduringacentralcollision. So,the
@@ -27,7 +27,7 @@ tem of reference of its centre of mass with circular frequency
 ω =
 √
 2k/m (ballsoscillatesothatthemiddlepointofthespring
-isatrest;twiceshorterspringhasatwicelargerstiness).
+isatrest;twiceshorterspringhasatwicelargersti ness).
 Due to the energy conservation law, the only way for the
 fourth ball to acquire the velocity v is such that all the other
 ballsremainatacompleterestaftertheinteraction. Therefore,

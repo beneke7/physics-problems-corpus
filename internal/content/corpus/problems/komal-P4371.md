@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201110"
 verification_status: pending
 ---
 
-A pebble shot by a slingshot has an initial vertical, upward speed of 50 m/s. If there was no air drag 
- a ) where would the pebble be after 7 seconds; 
- b ) What would its speed be at that moment; 
- c ) How much distance would it cover in 7 seconds? 
+A pebble shot by a slingshot has an initial vertical, upward speed of 50 m/s. If there was no air drag
+ a ) where would the pebble be after 7 seconds;
+ b ) What would its speed be at that moment;
+ c ) How much distance would it cover in 7 seconds?
  (3 pont)

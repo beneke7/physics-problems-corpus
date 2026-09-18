@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201209"
 verification_status: pending
 ---
 
-Charge a capacitor of known capacitance (e.g. 2200  F) to a given voltage (e.g. 9 V), and then discharge it through a resistor of known resistance (e.g. 47 k ). Measure and plot the graph of the voltage across the condenser as a function of the elapsed time. How long does it take for the voltage to decrease to 
- a ) one half; 
- b ) one fourth of its initial value? 
+Charge a capacitor of known capacitance (e.g. 2200  F) to a given voltage (e.g. 9 V), and then discharge it through a resistor of known resistance (e.g. 47 k ). Measure and plot the graph of the voltage across the condenser as a function of the elapsed time. How long does it take for the voltage to decrease to
+ a ) one half;
+ b ) one fourth of its initial value?
  (6 pont)

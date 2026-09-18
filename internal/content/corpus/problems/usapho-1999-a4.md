@@ -24,7 +24,7 @@ techniques: [differential-element, stability-analysis]
 ---
 
 A4. A pendulum bob is constructed by taking a thin, uniform-density circular ring of mass $M$ and radius $R$ and affixing a straight, thin, uniform density rod of mass $m$ and length $2 R$ across its diameter as shown in the diagram. The pendulum hangs in a vertical plane from a frictionless pivot that can be attached to the ring at any point. The pivot allows the bob to swing either in the plane of the bob or in the plane
-![](usapho-1999-a4-fig01.png)
+![](../../figures/usapho/figures/usapho-1999-a4-fig01.png)
 perpendicular to the bob. Assume the angular amplitude is small.
 
 a. (5) What swinging configurations give the maximum period?

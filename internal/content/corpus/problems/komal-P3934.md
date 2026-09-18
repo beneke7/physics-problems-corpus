@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200612"
 verification_status: pending
 ---
 
-The plates of a parallel plate condenser are horizontal and a small charged oil drop is floating between them. In what direction will the drop move if the plates of the condenser, which are connected to a battery which supplies constant voltage, are moved closer to each other? 
+The plates of a parallel plate condenser are horizontal and a small charged oil drop is floating between them. In what direction will the drop move if the plates of the condenser, which are connected to a battery which supplies constant voltage, are moved closer to each other?
  (3 pont)

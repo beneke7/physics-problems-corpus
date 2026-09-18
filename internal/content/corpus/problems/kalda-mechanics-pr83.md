@@ -19,4 +19,4 @@ verification_status: pending
 
 A flat board is inclined at an angle $\alpha$ to the vertical. One of its ends is in the water, the other one is outside the water. The board is moving with velocity $v$ with respect to its normal. What is the velocity of the water stream directed up the board?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr83-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr83-fig1.jpg)

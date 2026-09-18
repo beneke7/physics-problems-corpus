@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-Watch glasses are to be sterilized in a research laboratory by using UV light. In the sterilization process UV light of total energy of 150 mJ should fall onto a $1~\mathrm{cm}^2$ surface area of the watch glass. Estimate how long should the UV lamp be operated for this, if the lamp is point-like and it is 75 cm above the watch glass. According to the factory data, the intensity of the UV light at a distance of 1 m from the lamp is $125~\mu\mathrm{W}/\mathrm{cm}^2$. 
+Watch glasses are to be sterilized in a research laboratory by using UV light. In the sterilization process UV light of total energy of 150 mJ should fall onto a $1~\mathrm{cm}^2$ surface area of the watch glass. Estimate how long should the UV lamp be operated for this, if the lamp is point-like and it is 75 cm above the watch glass. According to the factory data, the intensity of the UV light at a distance of 1 m from the lamp is $125~\mu\mathrm{W}/\mathrm{cm}^2$.
  (4 pont)

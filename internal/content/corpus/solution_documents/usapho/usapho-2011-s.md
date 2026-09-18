@@ -62,7 +62,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                       Cover Sheet                                           2
+
+
+2011 Semifinal Exam                       Cover Sheet                                           2
 
 
 
@@ -102,18 +104,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                            G = 6.67 × 10−11 N · m2 /kg2
                              9
-     k = 1/4π0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C 2 2     km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                      kB = 1.38 × 10−23 J/K
                      23
      NA = 6.02 × 10 (mol)     −1             R = NA kB = 8.31 J/(mol · K)
      σ = 5.67 × 10−8 J/(s · m2 · K4 )        e = 1.602 × 10−19 C
      1eV = 1.602 × 10−19 J                   h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
+     me = 9.109 × 10  −31 kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
                  1 3
-     sin θ ≈ θ − 6 θ for |θ|  1             cos θ ≈ 1 − 21 θ2 for |θ|  1
+     sin θ ≈ θ − 6 θ for |θ|   1             cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                   Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                             Part A                                            3
+
+
+2011 Semifinal Exam                             Part A                                            3
 
 
 
@@ -163,7 +167,9 @@ gas.
                                             RT0
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                             Part A                                             4
+
+
+2011 Semifinal Exam                             Part A                                             4
 
 
 
@@ -219,7 +225,9 @@ The following data is recorded for the period as a function of R. What is the lo
 not assume it is the canonical value of 9.8 m/s2 . What is the length, L, of the rod? No estimation
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                                Part A                                       5
+
+
+2011 Semifinal Exam                                Part A                                       5
 
 
 
@@ -272,7 +280,9 @@ plotted on graph paper.
 
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                                Part A                                        6
+
+
+2011 Semifinal Exam                                Part A                                        6
 
 
 
@@ -310,7 +320,9 @@ Therefore, the power is also given by
                                               R      ρL     L
 
                     Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                             Part A                                                7
+
+
+2011 Semifinal Exam                             Part A                                                7
 
 
 
@@ -364,7 +376,9 @@ except for a numerical factor.
 
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                             Part A                                              8
+
+
+2011 Semifinal Exam                             Part A                                              8
 
 
 
@@ -417,7 +431,9 @@ except for a numerical factor.
 
 
                   Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                     Part A                             9
+
+
+2011 Semifinal Exam                     Part A                             9
 
 
 
@@ -433,7 +449,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                 Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                           Part B                                              10
+
+
+2011 Semifinal Exam                           Part B                                              10
 
 
 
@@ -484,7 +502,9 @@ effects due to capacitance or inductance between the cable and with the ground.
 
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                           Part B                                                 11
+
+
+2011 Semifinal Exam                           Part B                                                 11
 
 
 
@@ -542,7 +562,9 @@ effects due to capacitance or inductance between the cable and with the ground.
 
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                            Part B                                            12
+
+
+2011 Semifinal Exam                            Part B                                            12
 
 
 
@@ -574,7 +596,7 @@ effects due to capacitance or inductance between the cable and with the ground.
           relative phase of the voltage and current. Without the inductance, Z = R. With the
           inductance, the two impedances add in parallel,
                                                        1 −1
-                                                         
+
                                                   1
                                            Z=       +         .
                                                   R iωL
@@ -602,7 +624,9 @@ effects due to capacitance or inductance between the cable and with the ground.
 
 
                     Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                             Part B                                            13
+
+
+2011 Semifinal Exam                             Part B                                            13
 
 
 
@@ -657,7 +681,9 @@ a horizontal velocity v0 along the surface of the bowl. The acceleration due to 
                                                           gr0
 
                    Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                               Part B                                            14
+
+
+2011 Semifinal Exam                               Part B                                            14
 
 
 
@@ -682,9 +708,9 @@ a horizontal velocity v0 along the surface of the bowl. The acceleration due to 
                                                   v = v0          .
                                                                z
        Using this to eliminate v in the energy conservation equation, we find a quadratic in z,
-                                            2
+                                             2
                                                            v0 2
-                                                     
+
                                        2     v0
                                       z −        + z0 z +       z0 = 0.
                                              2g            2g
@@ -717,7 +743,9 @@ a horizontal velocity v0 along the surface of the bowl. The acceleration due to 
                                             ar ≈ −g tan θ = −2krg.
 
                     Copyright ©2011 American Association of Physics Teachers
-2011 Semifinal Exam                            Part B                                           15
+
+
+2011 Semifinal Exam                            Part B                                           15
 
 
 
@@ -732,13 +760,13 @@ a horizontal velocity v0 along the surface of the bowl. The acceleration due to 
                                                E = mv 2 + mgz.
                                                   2
          The velocity v is given by
-                                                         2                2
+                                                           2                  2
                                            2         dr                 dz
                                            v =                 +                  .
                                                      dt                 dt
          Because z is small, dz   dr
-                             dt  dt , and we conclude that
-                                                              2
+                             dt   dt , and we conclude that
+                                                                2
                                           1               dr
                                         E= m                        + mgkr2 .
                                           2               dt

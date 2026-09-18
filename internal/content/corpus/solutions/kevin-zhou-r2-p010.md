@@ -68,26 +68,26 @@ the angle at vertex A of the above triangle. This occurs when when A is on the p
 bisector of d. Doing some basic geometry, we find that in this case, the angle between the velocities
 is
 θ = π − 2sin−1
-
+
 p1 − p2
 p1 + p2
-
+
 = 2cos−1
-
+
 p1 − p2
 p1 + p2
-
+
 .
 An alternative equivalent answer is
 θ = cos−1
-
+
 1 −
 8p1p2
 (p1 + p2)2
-
+
 which also works when p1 < p2.
-[3] Problem 12.  h 1 0IPhO 2003, problem 3A.
-[4] Problem 13.  r 1 0APhO 2007, problem 3B. A comprehensive relativistic dynamics problem.
+[3] Problem 12.   h 1 0IPhO 2003, problem 3A.
+[4] Problem 13.   r 1 0APhO 2007, problem 3B. A comprehensive relativistic dynamics problem.
 3 Relativistic Systems
 9
 Kevin Zhou Physics Olympiad Handouts
@@ -187,7 +187,7 @@ back to the Earth’s frame gives a final momentum −γ2(1 − v)2 dpx. Thus, t
 spaceship’s momentum is
 dPx = 1 + γ2
 (1 − v)2
-
+
 dpx =
 2
 1 + v

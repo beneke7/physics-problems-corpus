@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, limiting-and-special-cases]
 ---
 
-In Budapest during a full Moon in December, or during a full Moon in June is the altitude belonging to the culmination of the Moon higher? 
+In Budapest during a full Moon in December, or during a full Moon in June is the altitude belonging to the culmination of the Moon higher?
  (4 pont)

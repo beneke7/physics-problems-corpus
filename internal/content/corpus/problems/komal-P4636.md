@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, scaling-and-dimensional-analysis]
 ---
 
-The width of the slits in a diffraction grating is one-$n$ -th of the grating constant. The diffraction grating of grating constant $d$ is illuminated perpendicularly by monochromatic laser light of wavelength $\lambda$, and the diffraction pattern is examined on a screen at a distance of $L\gg d$ . Give the position of the different order diffraction lines on the screen. 
+The width of the slits in a diffraction grating is one-$n$ -th of the grating constant. The diffraction grating of grating constant $d$ is illuminated perpendicularly by monochromatic laser light of wavelength $\lambda$, and the diffraction pattern is examined on a screen at a distance of $L\gg d$ . Give the position of the different order diffraction lines on the screen.
  (5 pont)

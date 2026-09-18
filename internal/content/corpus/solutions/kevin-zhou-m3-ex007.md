@@ -53,10 +53,10 @@ v
 which means the final height is
 h′
 =
-
+
 4m1m2
 (m1 + m2)(m2 + m3)
-2
+ 2
 h.
 By some basic calculus, this is maximized when
 m2 =

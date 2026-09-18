@@ -22,7 +22,7 @@ verification_status: flagged
 techniques: [superposition, auxiliary-unknowns]
 ---
 
-Two unknown impedances are connected in parallel to the mains, of voltage 230 V and of frequency 50 Hz. The maximum value of the current in the main branch is 20 A. The current through one of the impedances leads the current in the main branch by an angle of , and through the other impedance the current lags behind the current in the main branch by an angle of . 
- a ) What are the instantaneous current values in the two branches at t =0.01 s, if the current in the main branch is zero at t =0? 
- b ) What are the values of the inductance and the capacitance in the two branches? 
+Two unknown impedances are connected in parallel to the mains, of voltage 230 V and of frequency 50 Hz. The maximum value of the current in the main branch is 20 A. The current through one of the impedances leads the current in the main branch by an angle of , and through the other impedance the current lags behind the current in the main branch by an angle of .
+ a ) What are the instantaneous current values in the two branches at t =0.01 s, if the current in the main branch is zero at t =0?
+ b ) What are the values of the inductance and the capacitance in the two branches?
  (5 pont)

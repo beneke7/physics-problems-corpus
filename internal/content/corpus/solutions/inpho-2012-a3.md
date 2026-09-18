@@ -24,34 +24,33 @@ R
 γ − 1
 (d) approximately 30.0 km
 (e) ps = ps0 exp
-
+
 Lmv
 R
-
+
 1
 Ts0
 −
 1
 T
-
+
 where Ts0 and ps0 are the initial points for the integration. A convenient choice
 would be the triple point of water.
 1
 H B C S E
 (f) At zc atmospheric pressure should be equal to saturation pressure. Condition is
 p0
-
+
 T0 − Γzc
 T0
-γ/1−γ
+ γ/1−γ
 = ps0 exp
-
+
 Lmv
 R
-
+
 1
 Ts0
 −
 1
 T0 − Γzc
-

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-We carry out an optical experiment with a wide, parallel, homogeneous light beam. A small cube is illuminated from different directions, the surface of which 
- a) is sooted, 
- b) is silvered. 
- In which direction or directions will the force exerted by the light beam be the greatest? 
- (For the sake of simplicity, consider the sooted surface as a perfect absorber and the silvered one as perfect reflector.) 
+We carry out an optical experiment with a wide, parallel, homogeneous light beam. A small cube is illuminated from different directions, the surface of which
+ a) is sooted,
+ b) is silvered.
+ In which direction or directions will the force exerted by the light beam be the greatest?
+ (For the sake of simplicity, consider the sooted surface as a perfect absorber and the silvered one as perfect reflector.)
  (6 pont)

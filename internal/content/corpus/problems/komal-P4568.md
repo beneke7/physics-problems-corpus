@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, cross-domain-analogy]
 ---
 
-There is a resistor of resistance R and a capacitor of capacitance C connected in parallel in a black box. Somebody states that this arrangement at a certain frequency cannot be differentiated from that black box which contains an appropriately chosen resistor and capacitance which are connected in series. Is he or she right? 
+There is a resistor of resistance R and a capacitor of capacitance C connected in parallel in a black box. Somebody states that this arrangement at a certain frequency cannot be differentiated from that black box which contains an appropriately chosen resistor and capacitance which are connected in series. Is he or she right?
  (4 pont)

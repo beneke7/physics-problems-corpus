@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-A piece of ice having temperature $0\,{}^\circ$C is thrown into a thermally insulated container, filled with water of volume $5~{\rm dm}^3$ at a temperature of $50\,{}^\circ$C. What is the final amount of water in the container if after the ice melts the temperature of the system is $15\,{}^\circ$C? 
+A piece of ice having temperature $0\,{}^\circ$C is thrown into a thermally insulated container, filled with water of volume $5~{\rm dm}^3$ at a temperature of $50\,{}^\circ$C. What is the final amount of water in the container if after the ice melts the temperature of the system is $15\,{}^\circ$C?
  (3 pont)

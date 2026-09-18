@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-A monochromatic laser beam of wavelength $\lambda$ is incident on a diffraction grating. The beam is perpendicular to the slits of the grating, and encloses an angle of $45^\circ$ with the plane of the diffraction grating. Determine the number and the direction of the maxima of the diffraction pattern, if the grating spacing is 
- $a)$ $d=\lambda$; 
- $b)$ $d=5\lambda$. 
+A monochromatic laser beam of wavelength $\lambda$ is incident on a diffraction grating. The beam is perpendicular to the slits of the grating, and encloses an angle of $45^\circ$ with the plane of the diffraction grating. Determine the number and the direction of the maxima of the diffraction pattern, if the grating spacing is
+ $a)$ $d=\lambda$;
+ $b)$ $d=5\lambda$.
  (5 pont)

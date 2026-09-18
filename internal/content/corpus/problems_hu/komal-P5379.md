@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5379. Ideális polárszűrők segítségével szeretnénk a lineárisan polarizált fény polarizációs síkját $45^\circ$-kal elforgatni úgy, hogy az intenzitásveszteség legfeljebb 10% legyen. Legalább hány polárszűrőre van szükségünk, és hogyan kell azokat optimálisan elhelyezni? 
+P. 5379. Ideális polárszűrők segítségével szeretnénk a lineárisan polarizált fény polarizációs síkját $45^\circ$-kal elforgatni úgy, hogy az intenzitásveszteség legfeljebb 10% legyen. Legalább hány polárszűrőre van szükségünk, és hogyan kell azokat optimálisan elhelyezni?
  Példatári feladat nyomán

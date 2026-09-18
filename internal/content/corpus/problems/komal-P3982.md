@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-Recently the nuclear technology is appropriate to transfer an element to another. Describe a method how to produce stable lead from stable bismuth. 
+Recently the nuclear technology is appropriate to transfer an element to another. Describe a method how to produce stable lead from stable bismuth.
  (5 pont)

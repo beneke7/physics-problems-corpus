@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201202"
 verification_status: pending
 ---
 
-Is it true that the attractive force exerted by the Earth on the Moon is less than that of exerted by the Sun on the Moon? If yes, why does the Moon rotate about the Earth instead of about the Sun? 
+Is it true that the attractive force exerted by the Earth on the Moon is less than that of exerted by the Sun on the Moon? If yes, why does the Moon rotate about the Earth instead of about the Sun?
  (3 pont)

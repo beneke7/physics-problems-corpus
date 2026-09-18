@@ -62,7 +62,9 @@ Part A. Stationary states and instabilities (3 points)
 
 
                                                   1
-                                                E − Rint I0
+
+
+                                                E − Rint I0
                                    Istationary =                                                0.1
                                                  R − Rint
                                               = 3.00 A                                          0.1
@@ -120,7 +122,9 @@ Part B. Bistable non-linear elements in physics and engineering: radio transmitt
 
 
                                                 2
-   • The system moves to the right on the switched off branch                                 0.2
+
+
+   • The system moves to the right on the switched off branch                                 0.2
 
 Each of the following observations individually gives up to 0.2 points, but their total
 cannot exceed 0.6:
@@ -198,7 +202,9 @@ resistor and the element X being connected in parallel). Another way to express 
 
 
                                                              3
-write the Kirchhoff law for the switched on and switched off branches
+
+
+write the Kirchhoff law for the switched on and switched off branches
                                        dIX
                           Ron/off RC       = E − (Ron/off + R)IX
                                         dt
@@ -218,7 +224,7 @@ Then, the time dependence of the voltage drop on the non-linear element is a sum
 constant term Uon/off and of the exponentially decaying term:
                                                                Ron/off +R
                        Ron/off                   Ron/off
-                                                           
+
                                                               −R          t
             UX (t) =             E + Uon/off −             E e on/off RC
                      Ron/off + R               Ron/off + R
@@ -234,13 +240,13 @@ There are 0.5 points distributed as follow for UX (t):
    • Correct equation for UX (t)                                                              0.1
 
 Time spent by the system on the switched on branch during one cycle:
-                                                 
+
                          Ron R          Uth − Uon
                   ton =         C log               = 2.41 · 10−6 s,                          0.4
                         Ron + R         Uh − Uon
 
 Time spent by the system on the switched off branch during one cycle:
-                                                   
+
                          Roff R          Uoff − Uh
                  toff =          C log                = 3.71 · 10−6 s.                        0.4
                         Roff + R         Uoff − Uth
@@ -262,8 +268,10 @@ Neglect the energy consumed on the switched off branch.            The energy co
 
 
                                                  4
- on the switched on branch during the cycle is estimated by
-                                                  2
+
+
+ on the switched on branch during the cycle is estimated by
+                                                    2
                               1         Uh + Uth
                           E=                            ton = 1.18 · 10−4 J.                  0.4
                              Ron           2
@@ -317,7 +325,9 @@ Part C. Bistable non-linear elements in biology: neuristor (2 points)
 
 
                                                    5
-                        I
+
+
+                        I
 
 
 
@@ -451,7 +461,9 @@ Part C. Bistable non-linear elements in biology: neuristor (2 points)
 
 
                                                                                6
-Solution C2:                                                                               [0.6]
+
+
+Solution C2:                                                                               [0.6]
 
 The time needed to reach the threshold voltage is given by
                                                     !

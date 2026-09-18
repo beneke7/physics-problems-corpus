@@ -1067,7 +1067,8 @@ $$
 (vii)
 ![](https://cdn.mathpix.com/cropped/14f44164-c286-424e-af5c-9a5ae414c609-26.jpg?height=366&width=908&top_left_y=1072&top_left_x=502)
 fieldines 1 to plate redial dose to chargeta
-(c) <br> (i)}
+(c)
+(i)}
 
 ![](https://cdn.mathpix.com/cropped/14f44164-c286-424e-af5c-9a5ae414c609-26.jpg?height=582&width=740&top_left_y=1480&top_left_x=541)
 

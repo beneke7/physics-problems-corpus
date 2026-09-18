@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, strategic-heuristics]
 ---
 
-The centre of the Earth moves along a bit wavy elliptical path about the Sun. 
- $a)$ What is the reason for this waviness? 
- $b)$ Approximately what is the amplitude of the wave? 
+The centre of the Earth moves along a bit wavy elliptical path about the Sun.
+ $a)$ What is the reason for this waviness?
+ $b)$ Approximately what is the amplitude of the wave?
  (4 pont)

@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, graphical-reduction]
 ---
 
-The size of the sensor of a digital camera is $23.5~\mathrm{mm} \times 15.6~\mathrm{mm}$, and this sensor can capture $6045\times 4003$ pixels. A side photo of a motorboat travelling at a speed of 40 km/h at a distance of 20 m is taken with this camera. 
- What should the exposure time of the camera, which has an objective lens whose focal length is 35 mm, be in order not to gain a blurred image of the motorboat? 
+The size of the sensor of a digital camera is $23.5~\mathrm{mm} \times 15.6~\mathrm{mm}$, and this sensor can capture $6045\times 4003$ pixels. A side photo of a motorboat travelling at a speed of 40 km/h at a distance of 20 m is taken with this camera.
+ What should the exposure time of the camera, which has an objective lens whose focal length is 35 mm, be in order not to gain a blurred image of the motorboat?
  (4 pont)

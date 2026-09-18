@@ -63,7 +63,9 @@ Solution of Task 1
 Solution of Task 2
        First one needs to estimate the number of surface nucleons. The surface nucleons are in a
        spherical shell of width 2rN at the surface. The volume of this shell is
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010         2/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010         2/8
 
 
                                                                                                   (8)
@@ -133,7 +135,9 @@ Solution of Task 3 - Electrostatic (Coulomb) effects on the binding energy
             20 0 R 20 0 R
        The fact that each proton is not acting upon itself is taken into account by replacing Z2 with
        Z(Z-1):
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                3/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                3/8
 
 
                 3Z ( Z  1)e 2                                                                                          (13)
@@ -195,7 +199,9 @@ Solution of Task 4 - Fission of heavy nuclei
        Numerically one gets:
        A=100 … Ekin= -33.95 MeV,
        A=150 … Ekin= -30.93 MeV,
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            4/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            4/8
 
 
        A=200 … Ekin= -14.10 MeV,
@@ -245,7 +251,9 @@ Solution of Task 5 – Transfer reactions
 
                                             
        Ek 16 O  Q  Ek 12 C  Ek 58 Ni  E x 58 Ni                                              (23)
-41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                                                                5/8
+
+
+41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                                                                5/8
 
 
       where Ex(58Ni) is the excitation energy of 58Ni, and Q is calculated in the first part of this task.
@@ -368,7 +376,9 @@ Solution of Task 5 – Transfer reactions
                                                       1  v  C / c
                                                                   2
                                                                        1  v  Ni/ c          2 12                   2                  2 58             2
-41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                                                        6/8
+
+
+41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                                                                        6/8
 
 
                                   m C v C  m  Ni v Ni
@@ -484,7 +494,9 @@ Solution of Task 5 – Transfer reactions
       v 58 Ni                  15.99491  12.0  2.4498 10 7 km/s  1.6946  10 6 km/s                                                                    (33)
 
                              15.99491  12.0  53.93962 1  0.08172 2
-41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                               7/8
+
+
+41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010                               7/8
 
 
 
@@ -557,7 +569,9 @@ Solution of Task 5 – Transfer reactions
 
 
       This reduces to the quadratic equation:
-41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010           8/8
+
+
+41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010           8/8
 
 
       E2  2m 58 Nic 2  E  2m 58 Nic 2 E x  58 Ni  0                                   (40)

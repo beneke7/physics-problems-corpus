@@ -32,7 +32,9 @@ solution_language: en
    As usual, you may work in units where c = 1.
 
                                                        6
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
       (a) What do Maxwell’s equations imply about the relation between E0 and B0 , and k and ω?

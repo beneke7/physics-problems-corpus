@@ -61,7 +61,6 @@ We now consider the effects of weak interactions.
                          Z(N, V, T ) =               dr i e                 .
                                        N !λ3N
                                                             i
-73 3. Statistical Mechanics
 
 
     It is tempting to expand in βU , but this doesn’t work because U is large (infinite!). Instead
@@ -89,9 +88,9 @@ We now consider the effects of weak interactions.
     of integration on the r integral, as most of its contribution comes from atomic-scale r.
 
  • Denoting the integral as f , we find that to first order in f ,
-                                                                      N
+                                                                       N
                                   VN           N 2f      VN
-                                                             
+
                                                                    Nf
                               Z=            1+        ≈         1+
                                  N !λ3N        2V       N !λ3N     2V
@@ -125,7 +124,6 @@ Higher order corrections can be found efficiently using the cluster expansion.
 
  • Each graph G factors into connected components called clusters, each of which contributes an
    independent multiplicative factor to W [G].
-74 3. Statistical Mechanics
 
 
   • The most convenient way to organize the expansion is by the number and sizes of the clusters.
@@ -159,9 +157,9 @@ Higher order corrections can be found efficiently using the cluster expansion.
                                           P
                                             ml l = N , which we eliminate by going to the grand
     canonical ensemble. Defining the fugacity z = eβµ , we have
-                          X               X Y 1  z l Ul ml Y          
+                          X               X Y 1   z l Ul  ml Y
                                                                           Ul 3l
-                                                                                  
+
                   Z(µ) =      z n Z(N ) =                       =   exp      λ  l!  .
                                                  ml ! λ3l l!              zl
                             N               {ml } l                                 l

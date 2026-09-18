@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy testekből álló rendszer sima felületen helyezkedik el, az ábrán látható módon. A testek közötti súrlódási együttható $\mu$, míg a testek és a felület között $\mu=0$.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr34-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr34-fig1.jpg)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, extremization]
 ---
 
-One end of a metre stick, which has fairly big mass, can be rotated freely about a horizontal axle. Put 11 five-forint coins onto the initially horizontal stick at a distance of 10 cm from each other. 
- $a)$ What happens to the coins right after the moment when the stick was released? 
- $b)$ Which coins do not move with respect to the stick at the moment when the stick encloses an angle of 10${}^\circ$ with its original position? The coefficient of static friction between the stick and the coins is 0.5. 
+One end of a metre stick, which has fairly big mass, can be rotated freely about a horizontal axle. Put 11 five-forint coins onto the initially horizontal stick at a distance of 10 cm from each other.
+ $a)$ What happens to the coins right after the moment when the stick was released?
+ $b)$ Which coins do not move with respect to the stick at the moment when the stick encloses an angle of 10${}^\circ$ with its original position? The coefficient of static friction between the stick and the coins is 0.5.
  (5 pont)

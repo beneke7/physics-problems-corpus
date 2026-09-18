@@ -41,10 +41,10 @@ Kevin Zhou Physics Olympiad Handouts
 Plugging this in above, we have
 M2
 − 1 = r2
-
+
 dθ
 dr
-2
+ 2
 and separating and integrating gives
 Z r
 a

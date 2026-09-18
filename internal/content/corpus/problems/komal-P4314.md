@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201101"
 verification_status: pending
 ---
 
-In 1923 György Hevesy determined the age of a piece of rock which contained Uranium. For this he measured the ratio of the atoms of $^{238}$U to the atoms of $^{206}$Pb in the rock, which was 2:3. How old did he find the rock? The half-life of Uranium is 4.51$^{.}$10$^{9}$ years. 
+In 1923 György Hevesy determined the age of a piece of rock which contained Uranium. For this he measured the ratio of the atoms of $^{238}$U to the atoms of $^{206}$Pb in the rock, which was 2:3. How old did he find the rock? The half-life of Uranium is 4.51$^{.}$10$^{9}$ years.
  (4 pont)

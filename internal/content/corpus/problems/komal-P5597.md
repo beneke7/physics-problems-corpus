@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Three alike stars of mass $m$ form an equilateral triangle at any instant. At a given instant of time, the triangle has a side length $L_0$, the speed of all three stars is $v_0$, and the direction of each velocity vector is tangent to the circumscribed circle of the triangle formed by the stars. Determine the period of the pulsating ``triple star'' system. 
+Three alike stars of mass $m$ form an equilateral triangle at any instant. At a given instant of time, the triangle has a side length $L_0$, the speed of all three stars is $v_0$, and the direction of each velocity vector is tangent to the circumscribed circle of the triangle formed by the stars. Determine the period of the pulsating ``triple star'' system.
  (6 pont)

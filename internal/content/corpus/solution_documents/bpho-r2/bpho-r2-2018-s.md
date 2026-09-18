@@ -566,7 +566,7 @@ Tog To consider molecutum, transform to frawe of reference (ZMF) in which the th
 Note: can dlso theat explicity in lab frawe to give a contradiction, but this requires more algesta.
 
 $$
-\begin{array}{l|l} 
+\begin{array}{l|l}
 & \\
 \hline & \\
 \hline & \\

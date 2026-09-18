@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 798. A százméteres síkfutás versenyzői térdelőrajtból indulnak. Az  ábra azt mutatja, hogy mekkora vízszintes erő hat a rajtgépbe épített első és hátsó érzékelőre egy 70 kg tömegű atléta indulásakor. Becsüljük meg, hogy mekkora sebességgel hagyja el a sportoló a rajtgépet!
 
-![figure](../../raw_html/komal_figures/komal-G798-fig1.gif)
+![figure](../../figures/komal/figures/komal-G798-fig1.gif)

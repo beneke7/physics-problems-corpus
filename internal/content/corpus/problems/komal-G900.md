@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, exploit-symmetry]
 ---
 
-Is it possible to choose the resistances of the resistors (other than zero) such that the effective resistance in figures a) and b) are equal? 
+Is it possible to choose the resistances of the resistors (other than zero) such that the effective resistance in figures a) and b) are equal?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G900-fig1.png)
+![figure](../../figures/komal/figures/komal-G900-fig1.png)

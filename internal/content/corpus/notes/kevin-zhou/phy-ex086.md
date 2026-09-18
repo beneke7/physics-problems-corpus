@@ -32,7 +32,6 @@ The wavefunction of such a state takes in an angular coordinate and outputs a sp
 coupling is of the form σ · x. Since this term is rotationally invariant, it conserves j and mj . From
 the standpoint of the spatial part, it’s like an electric dipole transition, so ∆ℓ = ±1. Thus the
 interaction can transfer angular momentum between the spin and orbit, one unit at a time.
-195 8. Discrete Symmetries
 
 
 8.2     Time Reversal
@@ -56,7 +55,7 @@ We begin with the classical case.
   • In the case of quantum mechanics, we have the Schrodinger equation
 
                                             ℏ2 2
-                                                        
+
                                   ∂ψ
                                iℏ     = −      ∇ + V (x) ψ(x, t).
                                   ∂t       2m
@@ -85,7 +84,6 @@ We now define and investigate the time reversal operator.
 
       Setting t = 0, the time reversal operator takes the initial condition |ψ(0)⟩ to the initial condition
       for the reversed motion |ψr (0)⟩.
-196 8. Discrete Symmetries
 
 
   • Since probabilities should be conserved under time reversal, we postulate
@@ -142,7 +140,6 @@ Working with antilinear operators is delicate, because Dirac notation is made fo
                                       (⟨ϕ|A)|ψ⟩ ≡ [(⟨ϕ|)(A|ψ⟩)]∗ .
 
     It matters which way an antilinear operator acts, and switching it gives a complex conjugate.
-197 8. Discrete Symmetries
 
 
  • Next, we define the Hermitian conjugate. For linear operators, we let
@@ -151,7 +148,7 @@ Working with antilinear operators is delicate, because Dirac notation is made fo
 
     To extend this to antilinear operators, we need to find which way A and A† act. The correct
     rule is to flip the direction of action,
-                                              
+
                                           ⟨ϕ|A† |ψ⟩ = [⟨ψ| (A|ϕ⟩)]∗ .
 
     One can check that this behaves correctly when |ψ⟩ and |ϕ⟩ are multiplied by scalars. The
@@ -194,7 +191,6 @@ Next, we apply time reversal symmetry to specific situations.
                                        Θ = e−iπSy /ℏ K = Ke−iπSy /ℏ
 
     where the exponential commutes with K because its matrix elements are real.
-198 8. Discrete Symmetries
 
 
  • Restoring the spatial degrees of freedom,
@@ -247,7 +243,6 @@ Finally, we apply time reversal to dynamics.
  • When there are an odd number of fermions, Θ2 = −1. Then energy levels must be twofold
    degenerate, because if they were not, we would have Θ2 |ψ⟩ = Θeiθ |ψ⟩ = |ψ⟩, which contradicts
    Θ2 = −1. This result is called Kramer’s degeneracy.
-199 8. Discrete Symmetries
 
 
  • For example, given rotational symmetry, Kramer’s degeneracy trivially holds because |l, m⟩
@@ -302,7 +297,6 @@ a useful application of parity, time reversal, and the Wigner–Eckart theorem.
  • Of course, one could just modify how E transforms to get a symmetry of the Hamiltonian, but
    that symmetry, even if useful, could not reasonably be called “parity” or “time reversal”. The
    E here is a classical electric field whose transformation we should already know.
-200 8. Discrete Symmetries
 
 
   • Usually people talk about electric dipole moments as violating T , not violating P , even though
@@ -336,7 +330,6 @@ relativistic QFT which forces these states to appear.
 it acted. In the nonrelativistic theory, we can only talk about whether an interaction violates C
 by checking if it violates PT, and invoking the CPT theorem of relativistic QFT – but we cannot
 invoke the CPT theorem directly, because we cannot even define C!
-201 9. Time Independent Perturbation Theory
 
 
 9      Time Independent Perturbation Theory
@@ -390,7 +383,6 @@ In this section, we cover bound-state perturbation theory.
                                                       kα
 
       However, the denominator blows up for k = n as the perturbation is removed.
-202 9. Time Independent Perturbation Theory
 
 
  • Instead, we define a restricted version
@@ -453,7 +445,6 @@ As an example, we consider nondegenerate perturbation theory.
                                                               ′  ′
                                                                           (E − ϵk )(E − ϵk′ )
                                                      k̸=n,α k ̸=n,α
-203 9. Time Independent Perturbation Theory
 
 
  • This is still an implicit expression, because E appears on both sides. However, we can use it to
@@ -510,7 +501,6 @@ Now we consider the degenerate case.
  • Sometimes, some or all of the states will remain degenerate. This degeneracy might be broken
    at some higher order. If it’s never broken at any order, than in almost every case we can identify
    a symmetry of the full Hamiltonian which is responsible for this.
-204 9. Time Independent Perturbation Theory
 
 
   • To work at second order, we can substitute E with ϵn in the denominator of the quadratic term,
@@ -562,7 +552,6 @@ energy level splitting, which we will consider in detail later.
   • It’s reasonable to treat this as a small perturbation near the nucleus, since electric fields made
     in the laboratory are typically much weaker than those in atoms. However, V1 grows for large
     r while V0 falls, so the perturbation analysis doesn’t work for states with sufficiently large n.
-205 9. Time Independent Perturbation Theory
 
 
  • Technically, there don’t exist any bound states at all, no matter how small the field F is, because
@@ -612,10 +601,9 @@ Now we consider some basic examples.
    Adding on |200⟩ will make one lobe grow and the other shrink, depending on the phase.
 
  • Restricting to these two states, the perturbation matrix is
-                                                      
+
                                                0    −W
                                               −W     0
-206 9. Time Independent Perturbation Theory
 
 
                                            (1)

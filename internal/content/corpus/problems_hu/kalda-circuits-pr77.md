@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható kapcsolás feszültségegyenirányítóként működik. A $R=10 \mathrm{k} \Omega$ terhelést $I=2 \mathrm{~mA}$ egyenáram táplálja. A továbbiakban a dióda $U$–$I$ karakterisztikáját az ábrán látható görbével közelítjük. A terhelés árama relatív változásának teljesítenie kell a $\Delta I/I<1 \%$ feltételt.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr77-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr77-fig1.jpg)

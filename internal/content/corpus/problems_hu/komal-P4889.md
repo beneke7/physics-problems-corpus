@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4889. Szabályos ikozaédert állítottunk össze egyenlő hosszúságú és egyaránt $R$ ellenállású drótdarabokból. 
- $a)$ Mekkora az eredő ellenállás két, pontosan szemközti csúcs között? 
+P. 4889. Szabályos ikozaédert állítottunk össze egyenlő hosszúságú és egyaránt $R$ ellenállású drótdarabokból.
+ $a)$ Mekkora az eredő ellenállás két, pontosan szemközti csúcs között?
  $b)$ E két csúcs közé $U$ feszültséget kapcsolva mekkora lesz a teljesítmény az egyes ellenállásokon?

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, limiting-and-special-cases]
 ---
 
-Approximately how many minutes later does the solar noon happen in Sopron than in Mátészalka? 
+Approximately how many minutes later does the solar noon happen in Sopron than in Mátészalka?
  (3 pont)

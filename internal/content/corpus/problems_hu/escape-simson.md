@@ -20,7 +20,7 @@ verification_status: pending
 
 **1. MENEKÜLÉS (8 pont)** — *Päivo Simson.*
 
-![A bedöntési szög és a menekülési manőver](../../sources/nbpho/figures/nbpho-2022-escape-fig1.png)
+![A bedöntési szög és a menekülési manőver](../../../../../sources/nbpho/figures/nbpho-2022-escape-fig1.png)
 
 Egy nukleáris fegyverkísérlet során egy bombát $H = 9\ \mathrm{km}$ magasságban
 egy repülőgépről ledobnak, és úgy állítják be, hogy a talaj felett

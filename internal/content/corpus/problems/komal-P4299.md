@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, auxiliary-unknowns, extremization]
 ---
 
-A thin, solid uniform rod of length  L is placed into a right-angled corner of a wall, and its point  A at the bottom of the rod is moved at a uniform velocity of  v $_{ A }$, such that the rod always remains in the plane which is perpendicular to the wall and the floor. How far will the bottom end of the initially vertical rod be from the wall, when the top end is disconnected from the wall? ( Data: v $_{ A }$=3.5 m/s, L =2 m.) 
+A thin, solid uniform rod of length  L is placed into a right-angled corner of a wall, and its point  A at the bottom of the rod is moved at a uniform velocity of  v $_{ A }$, such that the rod always remains in the plane which is perpendicular to the wall and the floor. How far will the bottom end of the initially vertical rod be from the wall, when the top end is disconnected from the wall? ( Data: v $_{ A }$=3.5 m/s, L =2 m.)
  (5 pont)

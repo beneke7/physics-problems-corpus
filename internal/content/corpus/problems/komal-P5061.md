@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-The equation of the process through which a sample of ideal gas of constant mass taken is the following: $pV^n=\text{constant}$. $a)$ What is the value of $n$ if the process is isothermal, isobaric or adiabatic? $b)$ What can the value of $n$ be in the case of air, if the gas releases heat during the process, and still heats up? 
+The equation of the process through which a sample of ideal gas of constant mass taken is the following: $pV^n=\text{constant}$. $a)$ What is the value of $n$ if the process is isothermal, isobaric or adiabatic? $b)$ What can the value of $n$ be in the case of air, if the gas releases heat during the process, and still heats up?
  (4 pont)

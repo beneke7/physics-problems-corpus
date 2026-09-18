@@ -22,4 +22,4 @@ links_en: nbpho-2013-glass-cylinder
 
 Az alábbi ábra egy félhengert mutat, amely üvegből készült és csíkozott papírra helyezve van (a csíkok közötti távolság mindenhol azonos). Keressük meg az üveg törésmutatóját.
 
-![ÜVEGHENGER](nbpho-2013-glass-cylinder-fig1.jpg)
+![ÜVEGHENGER](../../figures/nbpho/figures/nbpho-2013-glass-cylinder-fig1.jpg)

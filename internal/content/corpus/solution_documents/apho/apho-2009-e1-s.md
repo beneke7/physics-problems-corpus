@@ -83,7 +83,8 @@ or                           B px = ⎜⎜            ⎟⎟ ⎢                
                                                        ⎜            ⎟     ⎛ a ⎞   ⎥
                                                      ⎢ ⎜ x + ⎜ 2 ⎟ ⎟ x + 2⎜ 2 ⎟ ⎥
                                                      ⎣⎝      ⎝ ⎠ ⎠        ⎝ ⎠ ⎦
-Experimental competition                                                                       Solution: Problem 1
+
+Experimental competition                                                                       Solution: Problem 1
 
 28 April 2009                                                                                              Page 2 of 4
 -------------------------------------------------------------------------------------------------------------------------
@@ -127,7 +128,8 @@ T   = 2π          we have 2            = β B + β BH where β =               
                mB        T                                            4π I2
                                                                                                                   T2
 and B we can find BH from its slope and intercept.
-Experimental competition                                                                       Solution: Problem 1
+
+Experimental competition                                                                       Solution: Problem 1
 
 28 April 2009                                                                                              Page 3 of 4
 -------------------------------------------------------------------------------------------------------------------------
@@ -171,7 +173,8 @@ The value of Earth’s magnetic field is
                                                 ⎛ L2 r 2 ⎞
 The magnetic moment of magnet is m = β 2 4π 2 M ⎜    + ⎟ = 1.68 ± 0.09 A m2
                                                 ⎝ 12  4⎠
-Experimental competition                                                                       Solution: Problem 1
+
+Experimental competition                                                                       Solution: Problem 1
 
 28 April 2009                                                                                              Page 4 of 4
 -------------------------------------------------------------------------------------------------------------------------

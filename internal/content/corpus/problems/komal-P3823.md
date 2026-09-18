@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-Why don't you observe an apple 6 m away from you darker than another one 2 m from you? Isn't it true that your eyes receive less light reflected from the apple further away? 
+Why don't you observe an apple 6 m away from you darker than another one 2 m from you? Isn't it true that your eyes receive less light reflected from the apple further away?
  (4 pont)

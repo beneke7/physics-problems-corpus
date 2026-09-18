@@ -26,7 +26,7 @@ Egy fizikaszakkörön valaki demonstrálni szeretné, hogy ellentétes irányú 
 
 A gyakorlati kivitelezéshez a kísérletező egy néhány száz V feszültségű telep egyik sarkát „leföldeli", vagyis az asztallapra tett nagy fémtálcához csatlakoztatja – ezt tekinthetjük zérus potenciálú helynek –, a másik pólushoz csatlakozó banándugóval pedig először a bal oldali, utána a jobb oldali gömböt, majd végül a szigetelő szálon közéjük lógatott alufólia csíkot érinti meg (5. ábra). Meglepődve tapasztalja, hogy az alufólia igenis kitér a függőleges irányból, elmozdul az egyik gömb felé.
 
-![figure](sources/eotvos/figures/eotvos-2008-p3-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2008-p3-fig1.jpg)
 
 5. ábra
 

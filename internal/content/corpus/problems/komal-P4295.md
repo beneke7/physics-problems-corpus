@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201012"
 verification_status: pending
 ---
 
-When a ruler is supported from below, 15 cm from one of its ends, then the ruler can be balanced with two alike coins, placed 5 cm from the end of the ruler. When the support is placed 1 cm from the same end of the ruler it can be balanced with six alike coins, at the same position. How long is the ruler? 
+When a ruler is supported from below, 15 cm from one of its ends, then the ruler can be balanced with two alike coins, placed 5 cm from the end of the ruler. When the support is placed 1 cm from the same end of the ruler it can be balanced with six alike coins, at the same position. How long is the ruler?
  (3 pont)

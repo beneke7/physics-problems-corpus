@@ -53,7 +53,9 @@ This potential must vanish,
                                                                                              (4)
 
  i.e. its numerical value is 0 V.
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010           2/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010           2/8
 
 
 Combining (1), (2) and (3) we obtain
@@ -110,7 +112,9 @@ Solution of Task 2
 Task 2a)
 
 The electric field at the point A amounts to
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010          3/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010          3/8
 
 
 
@@ -155,7 +159,9 @@ Let us consider a configuration as in Fig. 2.
 
  Fig 2. The pendulum formed by a charge near a grounded metallic sphere.
 The distance of the charge q from the center of the sphere is
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010        4/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010        4/8
 
 
                                                                                                  (13)
@@ -202,7 +208,9 @@ where
                             L
   arcsin(                                 sin  )
                     L2  l 2  2 Ll cos 
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            5/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            5/8
 
 
 Task 3c)
@@ -259,7 +267,9 @@ Let there be N charges induced on the sphere. These charges q j are located at p
 r j , j  1,, N on the sphere. We use the definition of the image charge, i.e., the potential on the
 surface of the sphere from the image charge is identical to the potential arising from the induced
 charges:
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            6/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010            6/8
 
 
    q'     N      qj
@@ -306,7 +316,9 @@ In fact, the interaction energy E el ,1 follows directly from the definition of 
 Task 4b)
 
 The energy of mutual interactions of induced charges on the surface of the sphere is given with
-    41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010     7/8
+
+
+    41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010     7/8
 
 
               1 1 N N qi q j
@@ -375,7 +387,9 @@ This solves Task 4c).
 
 The electrostatic energy between the charge q and the sphere must be equal to the energy between
 the charges q and q’ according to the definition of the image charge:
- 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010       8/8
+
+
+ 41st international Physics Olympiad, Croatia – Theoretical Competition, July 19th 2010       8/8
 
 
               1     qq'           1     q2R                                                       (30)

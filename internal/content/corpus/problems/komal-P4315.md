@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201102"
 verification_status: pending
 ---
 
-Two balls of masses m $_{1}$=0.173 kg and m $_{2}$=0.2 kg are moving and the direction of their motion is perpendiculer to each other. Their speeds are v $_{1}$=10 m/s and v $_{2}$=5 m/s, respectively. After the collision the ball of mass m $_{1}$ stops. What will the speed of the ball of mass m $_{2}$ be after the collision? 
+Two balls of masses m $_{1}$=0.173 kg and m $_{2}$=0.2 kg are moving and the direction of their motion is perpendiculer to each other. Their speeds are v $_{1}$=10 m/s and v $_{2}$=5 m/s, respectively. After the collision the ball of mass m $_{1}$ stops. What will the speed of the ball of mass m $_{2}$ be after the collision?
  (4 pont)

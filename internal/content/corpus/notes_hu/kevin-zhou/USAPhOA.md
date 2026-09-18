@@ -89,23 +89,23 @@ Ez a feladat több független részből áll. Mindegyik csak nagyságrendi becsl
 1. Egy közvetlenül a hűtőből kivett, $4\,^{\circ}\mathrm{C}$ hőmérsékletű tojást $T_1$ hőmérsékletű, forrásban lévő vízzel teli edénybe helyezünk. Az alábbi adatok lehetnek hasznosak:
 
    A tojás sűrűsége: $\mu = 10^3\ \mathrm{kg\ m^{-3}}$
-   
+
    A tojás fajlagos hőkapacitása: $C = 4{,}2\ \mathrm{J\ K^{-1}\ g^{-1}}$
-   
+
    A tojás sugara: $R = 2{,}5\ \mathrm{cm}$
-   
+
    A tojásfehérje (tojásprotein) alvadási hőmérséklete: $T_c = 65\,^{\circ}\mathrm{C}$
-   
+
    A folyékony és szilárd tojásfehérje hővezetési tényezője: $\kappa = 0{,}64\ \mathrm{W\ K^{-1}\ m^{-1}}$
-   
+
    Használhatja a Fourier-törvény egyszerűsített formáját, $J = \kappa \Delta T / \Delta r$, ahol $\Delta T$ a hőmérséklet-különbség az $\Delta r$ távolsághoz társítva. A hőáram $J$ a $\mathrm{W\ m^{-2}}$ egységekben van.
 
    (a) Mekkora $U$ energia szükséges ahhoz, hogy a tojásfehérje megalvadjon?
-   
+
    (b) Mekkora a $J$ hőáram, amely a tojásba folyik?
-   
+
    (c) Mekkora a $P$ hőteljesítmény, amely a tojásra átadódik?
-   
+
    (d) Meddig kell főzni a tojást ahhoz, hogy kemény legyen?
 
 2. Tekintsük a vért a vízéhez hasonló sűrűségű, összenyomhatatlan viszkózus folyadéknak; dinamikai viszkozitása $\eta = 4{,}5\ \mathrm{g\ m^{-1}\ s^{-1}}$. Az ereket $r$ sugarú, $L$ hosszúságú, egyenes kör keresztmetszetű csövekkel modellezzük, a véráramot pedig a Poiseuille-törvény írja le:
@@ -119,15 +119,15 @@ Ez a feladat több független részből áll. Mindegyik csak nagyságrendi becsl
    A szisztémás vérkeringésben (a bal kamrából a jobb pitvarba áramló vér esetén) egy nyugalomban lévő ember vérárama $D \approx 100\ \mathrm{cm^3\ s^{-1}}$. Válaszolja meg az alábbi kérdéseket, feltételezve, hogy minden hajszálér párhuzamosan kapcsolódik, mindegyik sugara $r = 4\ \mu\mathrm{m}$, hossza $L = 1\ \mathrm{mm}$, és rajta $\Delta p = 1\ \mathrm{kPa}$ nyomáskülönbség esik.
 
    (a) Hány hajszálér van az emberi szervezetben?
-   
+
    (b) Mekkora az a $v$ sebesség, amellyel a vér egy hajszálérben folyik?
 
 3. Egy 1000 m magas felhőkarcoló alján a külső hőmérséklet $T_{\mathrm{bot}} = 30\,^{\circ}\mathrm{C}$. Becsülje meg a tetőn mérhető külső hőmérsékletet, $T_{\mathrm{top}}$-ot. Tekintsünk egy vékony légréteget (ideális nitrogéngázt, $\gamma = 7/5$ adiabatikus kitevővel), amely lassan $z$ magasságba emelkedik, ahol a nyomás kisebb, és tegyük fel, hogy a réteg adiabatikusan tágul, hőmérséklete pedig a környező levegő hőmérsékletéhez igazodik. Egy nitrogénmolekula tömege $m = 4{,}65 \times 10^{-26}\ \mathrm{kg}$.
 
    (a) Hogyan kapcsolódik a hőmérsékletváltozás $dT/T$ relatív értéke a nyomás $dp/p$ relatív értékéhez?
-   
+
    (b) Fejezze ki a nyomásbeli különbséget $dp$-t a $dz$ magasságváltozás segítségével.
-   
+
    (c) Celsius fokokban, mekkora a hőmérséklet az épület tetején?
 
 ### B2 feladat

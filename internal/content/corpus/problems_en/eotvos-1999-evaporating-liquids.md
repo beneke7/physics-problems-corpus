@@ -31,5 +31,5 @@ are poured into the flasks, ensuring that the temperature of the liquid is
 
 From which flask does the liquid evaporate first in case a) and in case b)?
 
-![figure](../../sources/eotvos/figures/eotvos-1999-evaporating-liquids-fig1.jpeg)
+![figure](../../figures/eotvos/figures/eotvos-1999-evaporating-liquids-fig1.jpeg)
 

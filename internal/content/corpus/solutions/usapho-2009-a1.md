@@ -23,24 +23,24 @@ the questions (or their answers/solutions) on this contest until after March 31,
 2009.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
 g = 9.8 N/kg G = 6.67 × 10−11 N · m2/kg2
-k = 1/4π0 = 8.99 × 109 N · m2/C2 km = µ0/4π = 10−7 T · m/A
+k = 1/4π 0 = 8.99 × 109 N · m2/C2 km = µ0/4π = 10−7 T · m/A
 c = 3.00 × 108 m/s kB = 1.38 × 10−23 J/K
 NA = 6.02 × 1023 (mol)−1 R = NAkB = 8.31 J/(mol · K)
 σ = 5.67 × 10−8 J/(s · m2 · K4) e = 1.602 × 10−19 C
 1eV = 1.602 × 10−19 J h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x| 
+me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|
  1
 sinθ ≈ θ − 1
-6θ3 for |θ| 
+6θ3 for |θ|
  1 cosθ ≈ 1 − 1
-2θ2 for |θ| 
+2θ2 for |θ|
  1
 Copyright ©2009 American Association of Physics Teachers
 2009 Semifinal Exam Part A 3
 Part A
 Question A1
-A hollow cylinder has length l, radius r, and thickness d, where l 
- r 
+A hollow cylinder has length l, radius r, and thickness d, where l
+ r
  d, and is made of a
 material with resistivity ρ. A time-varying current I flows through the cylinder in the tangential
 direction. Assume the current is always uniformly distributed along the length of the cylinder. The

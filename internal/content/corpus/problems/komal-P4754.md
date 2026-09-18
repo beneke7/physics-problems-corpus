@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns, model-reduction]
 ---
 
-4 litres of water at a temperature of $30\,^\circ$C is poured into a copper hemisphere shaped container of volume $4~{\rm dm}^3$. The temperature of water decreases by $3\,^\circ$C, whilst the temperature of the container increases by $27\,^\circ$C. What is the width of the wall of the container? 
+4 litres of water at a temperature of $30\,^\circ$C is poured into a copper hemisphere shaped container of volume $4~{\rm dm}^3$. The temperature of water decreases by $3\,^\circ$C, whilst the temperature of the container increases by $27\,^\circ$C. What is the width of the wall of the container?
  (4 pont)

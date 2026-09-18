@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-The smallest distance between the Sun and a comet revolving around it is 0.5 AU and the greatest one is 31.5 AU. 
- $a)$ What is the period of the comet? 
- $b)$ What is the area which is swept by the line segment drawn from the Sun to the comet in one year? (Consider the Sun to be at rest.) 
+The smallest distance between the Sun and a comet revolving around it is 0.5 AU and the greatest one is 31.5 AU.
+ $a)$ What is the period of the comet?
+ $b)$ What is the area which is swept by the line segment drawn from the Sun to the comet in one year? (Consider the Sun to be at rest.)
  (4 pont)

@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A two-litre bottle with a hand sprayer is filled with liquid to three-quarters of the bottle. After pumping it, in the bottle a gauge pressure equal to the ambient air pressure can be reached. The volume fraction of the water-air mixture, which is slowly sprayed out, is 1:10. The temperature and the density of the effused air can be approximated with those of the ambient air. 
- a ) Estimate at least how many times the bottle must be pumped, in order to spray out 0.5 litre water? 
- b ) In how many doses can all the liquid be sprayed out of the bottle? 
+A two-litre bottle with a hand sprayer is filled with liquid to three-quarters of the bottle. After pumping it, in the bottle a gauge pressure equal to the ambient air pressure can be reached. The volume fraction of the water-air mixture, which is slowly sprayed out, is 1:10. The temperature and the density of the effused air can be approximated with those of the ambient air.
+ a ) Estimate at least how many times the bottle must be pumped, in order to spray out 0.5 litre water?
+ b ) In how many doses can all the liquid be sprayed out of the bottle?
  (5 pont)

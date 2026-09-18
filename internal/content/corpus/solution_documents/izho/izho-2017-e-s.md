@@ -67,7 +67,9 @@ obtained as
                            a   0,385  0, 009      , b    0,12  0,3 s 2 .                    (5)
                                                   sm
 Since b  b holds, the dependence is considered linear.
-XIII International Zhautykov Olimpiad/Experimental Competition                                           Page 2/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                                           Page 2/7
 
 
 
@@ -123,7 +125,9 @@ Table 2.
     27          5,63         5,62        5,69     0,56          3,14
     37          4,53         4,50        4,53     0,45          4,89
     52          3,75         3,88        3,87     0,38          6,81
-XIII International Zhautykov Olimpiad/Experimental Competition                          Page 3/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                          Page 3/7
 
                                                                        
 2.2 Torque of the restoring force dependes on the threads tension F
@@ -172,7 +176,9 @@ function of the threads tension.
                                    Part 3. Twisting at large angles (5.0 points)
 
 3.1 Dependence of the untwisting time on the twisting angle is shown in Table 3 and Fig. 3.1.
-XIII International Zhautykov Olimpiad/Experimental Competition                                              Page 4/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                                              Page 4/7
 
 
 
@@ -225,7 +231,9 @@ Table 4.
 This dependence can be described by a linear function
 
                                    N1  0,46 N 0  0,84 .                                                            (11)
-XIII International Zhautykov Olimpiad/Experimental Competition                                            Page 5/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                                            Page 5/7
 
 
 3.4-3.5 The dependencies of half-turns N1 on the initial twisting angle N 0 at lifting/unlifting the
@@ -282,7 +290,9 @@ These dependencies can be described by linear functions
         Proved that the power is 1/2                                                                      (0,3)
         Graph plotting (not linearized dependence is not marked):
         - axis are named and ticked;                                                                      0,1
-XIII International Zhautykov Olimpiad/Experimental Competition                       Page 6/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                       Page 6/7
 
 
        - experimental data are drawn;                                                0,1
@@ -337,7 +347,9 @@ These dependencies can be described by linear functions
        The linear dependence is confirmed;                                           0,7
        Part 3. Twisting at large angles                                         5
 3.1       Marked only if the difference of measurements results from the       1,0
-XIII International Zhautykov Olimpiad/Experimental Competition                      Page 7/7
+
+
+XIII International Zhautykov Olimpiad/Experimental Competition                      Page 7/7
 
 
                          official ones does not exceed 50%

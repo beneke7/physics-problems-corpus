@@ -22,7 +22,7 @@ verification_status: pending
 
 Az anemométer egy gáz vagy folyadék áramlási sebességét mérő berendezés. Tekintsük egy egyszerű lézeres anemométer felépítését. Egy vékony üvegfalú, téglalap keresztmetszetű csőben egy $n=1.3$ törésmutatójú folyadék áramlik, amely fényszóró részecskéket tartalmaz. Két koherens síkhullám hullámhossza $\lambda=515\ \mathrm{nm}$, a hullámvektoraik által bezárt szög pedig $\alpha=4^\circ$. A hullámok úgy esnek a lemezre, hogy (a) a hullámvektorok által bezárt szög felezője merőleges a cső egyik falára, és (b) a cső párhuzamos a hullámvektorok által meghatározott síkkal. A cső mögött fotodetektor található, amely a szórt fény intenzitásának változási frekvenciáját méri.
 
-![ábra](../../sources/nbpho/figures/nbpho-2005-anemometer-fig1.jpg)
+![ábra](../../figures/nbpho/figures/nbpho-2005-anemometer-fig1.jpg)
 
 1) Mekkora az interferenciaminta $x$ tengely menti (térbeli) periódusa $\Delta$ (lásd az ábrát; 2 pont)?
 

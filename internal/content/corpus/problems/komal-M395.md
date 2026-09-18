@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202004"
 verification_status: pending
 ---
 
-Measure the rate of airflow of a hair dryer at different speed settings. 
+Measure the rate of airflow of a hair dryer at different speed settings.
  (6 pont)

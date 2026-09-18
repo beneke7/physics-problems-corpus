@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, superposition]
 ---
 
-What is the period of that simple pendulum of length $\ell$ the thread of which bumps into a peg at the midpoint of the thread when the bob passes the equilibrium position? (The maximum angle that the thread differs from the vertical is small.) 
+What is the period of that simple pendulum of length $\ell$ the thread of which bumps into a peg at the midpoint of the thread when the bob passes the equilibrium position? (The maximum angle that the thread differs from the vertical is small.)
  (3 pont)

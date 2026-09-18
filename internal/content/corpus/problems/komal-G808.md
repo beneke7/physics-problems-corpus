@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-A cylindrical container with a piston contains air of temperature $20\;{}^\circ$C, and of relative humidity $30\%$. Keeping the temperature constant, to how many times of the original value must the volume of air in the container be changed to cause the water vapour in the container to begin to condense? 
+A cylindrical container with a piston contains air of temperature $20\;{}^\circ$C, and of relative humidity $30\%$. Keeping the temperature constant, to how many times of the original value must the volume of air in the container be changed to cause the water vapour in the container to begin to condense?
  (4 pont)

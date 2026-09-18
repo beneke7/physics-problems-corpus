@@ -22,13 +22,13 @@ Solution. (a) Let the shells have charge ±Q. The field between the shells is (Q
 V =
 Q
 4πϵ0
-
+
 1
 a
 −
 1
 b
-
+
 .
 Thus the capacitance is
 C =
@@ -88,7 +88,7 @@ b − a
 This is certainly a longer route to get to the same conclusion! (Note that in this very simple
 case, we actually have C = C11. That’s because of the shell theorem, and it wouldn’t hold in
 a more general situation.)
-[3] Problem 12.  W 1 0USAPhO 2008, problem A1.
+[3] Problem 12.   W 1 0USAPhO 2008, problem A1.
 Idea 4
 A two-plate capacitor with voltage difference V and mutual capacitance C stores energy
 U =
@@ -170,13 +170,13 @@ r4
 =
 Q2
 8πϵ0
-
+
 1
 R1
 −
 1
 R2
-
+
 .
 On the other hand, this should be equal to U = QV/2, which follows directly from the result
 of problem 11.
@@ -206,11 +206,11 @@ Q2
 2
 d
 dx
-
+
 −
 1
 C
-
+
 =
 Q2
 2C2

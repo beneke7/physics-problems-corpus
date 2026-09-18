@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A ball was projected at point $A$ and it hit a wall at point $B$ horizontally. From $B$ the ball ``flies'' to the points $C_1, C_2, \dots,$ and finally gets back to point $A$. The coefficient of restitution is $\varepsilon$ at any point. Find $\varepsilon$, if the ball does not bounce up at all when it gets back to point $A$. 
+A ball was projected at point $A$ and it hit a wall at point $B$ horizontally. From $B$ the ball ``flies'' to the points $C_1, C_2, \dots,$ and finally gets back to point $A$. The coefficient of restitution is $\varepsilon$ at any point. Find $\varepsilon$, if the ball does not bounce up at all when it gets back to point $A$.
 
- (It can be assumed that the air-drag exerted on the ball is negligible and the ball does not start rotating.) 
+ (It can be assumed that the air-drag exerted on the ball is negligible and the ball does not start rotating.)
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4939-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4939-fig1.gif)

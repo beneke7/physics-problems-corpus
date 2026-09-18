@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201310"
 verification_status: pending
 ---
 
-It is known that the atmospheric pressure at a height of 5.5 km is half, and at a height of 11 km is one-quarterth of the pressure measured at see-level (10$^{5}$ Pa). What is the density of the air at the top of a 3000 metre tall hill, at a temperature of -20 $^\circ$C? 
+It is known that the atmospheric pressure at a height of 5.5 km is half, and at a height of 11 km is one-quarterth of the pressure measured at see-level (10$^{5}$ Pa). What is the density of the air at the top of a 3000 metre tall hill, at a temperature of -20 $^\circ$C?
  (4 pont)

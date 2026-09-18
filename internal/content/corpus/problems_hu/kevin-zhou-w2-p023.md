@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
     be useful to use Babinet’s principle.
 
                                                       18
-    Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                            Physics Olympiad Handouts
 
      (a) On a foggy night, there are many tiny water droplets in the air. On such nights one can see a
          ring around the moon, called a lunar corona, shown at left above. The ring is usually reddish

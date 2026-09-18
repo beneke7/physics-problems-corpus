@@ -22,7 +22,7 @@ verification_status: pending
 ---
 
 3. A block of mass 5 kg sits at rest on a horizontal surface. A downwards force of 20 N is applied to the block, as shown.
-![](aupho-2021-q3-fig01.png)
+![](../../figures/aupho/figures/aupho-2021-q3-fig01.png)
 What is the weight of the block? Select one:
     A. 5 kg
     B. 25 kg

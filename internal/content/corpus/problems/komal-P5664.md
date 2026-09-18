@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 ---
 
-We often hear that the melting ice at the poles slows down the Earth's rotation around its axis. Estimate the order of magnitude of this phenomenon. Antarctica can be considered to have an area of $14~\mathrm{million~km}^2$, and the Arctic ice sheet has the same size. Investigate that cases when the thickness of ice decreases by 1 m due to melting at the South Pole or at the North Pole. 
- a) By what amount does sea level change in one case and the other? 
- b) How much does the length of an Earth day change? 
+We often hear that the melting ice at the poles slows down the Earth's rotation around its axis. Estimate the order of magnitude of this phenomenon. Antarctica can be considered to have an area of $14~\mathrm{million~km}^2$, and the Arctic ice sheet has the same size. Investigate that cases when the thickness of ice decreases by 1 m due to melting at the South Pole or at the North Pole.
+ a) By what amount does sea level change in one case and the other?
+ b) How much does the length of an Earth day change?
  (5 pont)

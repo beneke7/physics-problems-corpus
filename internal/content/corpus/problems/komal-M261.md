@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200505"
 verification_status: pending
 ---
 
-Create a hair hygrometer to measure the relative humidity of air. Take measurements in various rooms of your flat and also in the open air at different times of the day. 
+Create a hair hygrometer to measure the relative humidity of air. Take measurements in various rooms of your flat and also in the open air at different times of the day.
 
  (6 pont)

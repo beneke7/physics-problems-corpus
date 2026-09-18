@@ -30,13 +30,13 @@ in a more subtle situation, such as when the particle is relativistic, it can be
 By now, we’ve covered most of the applications of canonical momentum for point charges. When
 it shows up on modern Olympiad problems, there’s generally a twist. For instance, we can replace
 the point charge with an electric dipole, as illustrated in the following three tough questions.
-[5] Problem 18.  T 1 0APhO 2001, problem 2. In the first part, you are meant to define the moment
+[5] Problem 18.   T 1 0APhO 2001, problem 2. In the first part, you are meant to define the moment
 of inertia as a scalar, I = mℓ2/2, even though it’s technically a tensor. As you’ll see, the difference
 doesn’t matter, since the moment of inertia about the dipole’s axis vanishes.
-[5] Problem 19.  h 1 0EuPhO 2022, problem 3.
+[5] Problem 19.   h 1 0EuPhO 2022, problem 3.
 [5] Problem 20. Physics Cup 2021, problem 1. This one requires more electromagnetism background.
 Solution. See the official solutions here.
-[5] Problem 21.  r 1 0GPhO 2017, problem 3. A problem on a “shock wave” hitting an electron.
+[5] Problem 21.   r 1 0GPhO 2017, problem 3. A problem on a “shock wave” hitting an electron.
 Don’t be intimidated by the language; you don’t need to know anything about shock wave physics
 to do this question.
 3 Gravitational Fields

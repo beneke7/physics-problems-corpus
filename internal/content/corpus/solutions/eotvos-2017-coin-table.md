@@ -13,7 +13,7 @@ provenance_note: "Source-provided solution section from cache/phoxiv/eotvos/2017
 ---
 
 1. feladat. Az 1. ábrán látható, d oldalhosszúságú, négyzet alakú asztallap A sarkánál egy m tömeg¶, kis pénzérme
-nyugszik. Az asztal B sarkához egy horgászzsinór egyik végét rögzítjük, majd a zsinórt az érmén átvetve az asztal C
+nyugszik. Az asztal B sarkához egy horgászzsinór egyik végét rögzítjük, majd a zsinórt az érmén  átvetve  az asztal C
 sarkához rögzített szemes savaron vezetjük át. A zsinór szabad végét igen lassan húzni kezdjük addig, amíg az érme végül
 leesik az asztalról. Az asztallap és az érme közötti súszási súrlódási együttható µ, máshol a súrlódás elhanyagolható.
 1. ábra
@@ -25,7 +25,7 @@ fellép® súszási súrlódási er®. A pénzérmét lassan mozgatjuk, a gyorsu
 közelítéssel nulla. A zsinór nem súrlódik a pénzérmén, így benne mindenhol azonos nagyságú er® hat. Ebb®l következ®en
 a pénzérme mindig a zsinórszárak pillanatnyi szögfelez®jének irányába fog mozogni (hiszen a súszási súrlódási er®
 mindig a sebességgel ellentétes irányú). Ennek a sebességvektornak mindkét zsinórszárra ugyanakkora a vetülete, így
-a két zsinórszár mindig azonos mértékben rövidül  tehát a hosszaik különbsége a mozgás során nem fog változni.
+a két zsinórszár mindig azonos mértékben rövidül   tehát a hosszaik különbsége a mozgás során nem fog változni.
 a) Ennek alapján:
 √
 2d − d = x2 − x1 és x1 + x2 = d,
@@ -42,7 +42,7 @@ b) A munkavégzés megegyezik a súrlódási munka abszolút értékével. Mivel
 a súrlódási er® és a pénzérme által befutott s út szorzata:
 W = µmg · s.
 A két zsinórszár hosszának különbsége állandó, tehát a pénzérme egy hiperbolaíven fog mozogni. (A hiperbola fókuszai
-az asztal B és C sarkai.) A hiperbolaív hosszát elemi úton nem tudjuk meghatározni  ezért is kért a feladat be slést ,
+az asztal B és C sarkai.) A hiperbolaív hosszát elemi úton nem tudjuk meghatározni   ezért is kért a feladat be slést  ,
 de alsó és fels® közelítést adhatunk rá.
 Alsó be slés az asztal A sarkát és a leesés L pontját összeköt® egyenes szakasz hossza (2. ábra):
 smin =

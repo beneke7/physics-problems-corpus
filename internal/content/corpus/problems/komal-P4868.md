@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-The equation of an equilibrium process of a sample of ideal gas consisting of $N$ molecules is: 
+The equation of an equilibrium process of a sample of ideal gas consisting of $N$ molecules is:
  $\frac{p}{p_0}+\frac{V}{V_0}=1.
-$ 
- What may the maximum temperature of the gas be during the process? 
+$
+ What may the maximum temperature of the gas be during the process?
  (4 pont)

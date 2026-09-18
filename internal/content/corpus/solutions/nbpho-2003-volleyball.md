@@ -19,9 +19,9 @@ P
 r e s
 P r e s ’
 The figure represents the net moment Pres after
-2n-th impulse, and also the net impulse P
+2n-th impulse, and also the net impulse P
 res for
-another time moment 2n
+another time moment 2n
 ∆t. For an odd num-
 ber of impulses, the pattern is exactly the same,
 except that all the vectors have opposite direc-

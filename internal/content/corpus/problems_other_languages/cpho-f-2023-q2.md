@@ -337,8 +337,8 @@ $$
 $$
 
 （5）$\omega^{2}<\frac{4 g l}{3 A^{2}}$ 和 $\omega^{2}>\frac{4 g l}{3 A^{2}}$ 时的势能曲线 $V_{\text {eff }}(\varphi)$ 分别如下图所示。
-![](cpho-f-2023-q2-fig01.png)
-![](cpho-f-2023-q2-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q2-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2023-q2-fig02.png)
 
 $$
 \omega^{2}>\frac{4 g l}{3 A^{2}}

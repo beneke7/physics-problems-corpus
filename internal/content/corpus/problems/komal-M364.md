@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201612"
 verification_status: pending
 ---
 
-Make a hole in the wall of a cylinder-shaped plastic bottle, and glue a piece of straw horizontally into the hole. Measure the speed of the flowing water as a function of the height of the water. 
+Make a hole in the wall of a cylinder-shaped plastic bottle, and glue a piece of straw horizontally into the hole. Measure the speed of the flowing water as a function of the height of the water.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M364-fig1.gif)
+![figure](../../figures/komal/figures/komal-M364-fig1.gif)

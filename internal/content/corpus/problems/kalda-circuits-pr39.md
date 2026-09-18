@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the potential of the lead $A$. (Note that the ground potential is always assumed to be 0 .)
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr39-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr39-fig1.jpg)

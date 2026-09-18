@@ -22,17 +22,17 @@ exam papers are present. You may not use any tables, books, or collections of fo
 the questions (or their answers/solutions) on this contest until after April 1, 2013.
 Possibly Useful Information. You may use this sheet for both parts of the exam.
 g = 9.8 N/kg G = 6.67 × 10−11 N · m2/kg2
-k = 1/4π0 = 8.99 × 109 N · m2/C2 km = µ0/4π = 10−7 T · m/A
+k = 1/4π 0 = 8.99 × 109 N · m2/C2 km = µ0/4π = 10−7 T · m/A
 c = 3.00 × 108 m/s kB = 1.38 × 10−23 J/K
 NA = 6.02 × 1023 (mol)−1 R = NAkB = 8.31 J/(mol · K)
 σ = 5.67 × 10−8 J/(s · m2 · K4) e = 1.602 × 10−19 C
 1eV = 1.602 × 10−19 J h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x| 
+me = 9.109 × 10−31 kg = 0.511 MeV/c2 (1 + x)n ≈ 1 + nx for |x|
  1
 sinθ ≈ θ − 1
-6θ3 for |θ| 
+6θ3 for |θ|
  1 cosθ ≈ 1 − 1
-2θ2 for |θ| 
+2θ2 for |θ|
  1
 Copyright c 2013 American Association of Physics Teachers
 2013 Semifinal Exam Part A 3
@@ -108,11 +108,11 @@ dvhc
 .
 Because the red fluid exits at Tb + ∆Tw and the blue fluid exits at Tr − ∆Tw,
 ∆Tf = (Tb + ∆Tw) − (Tr − ∆Tw) = −∆Ti + 2∆Tw = ∆Ti
-
+
 2
 1 + α
 − 1
-
+
 The performance of the heat exchanger is determined by the dimensionless parameter α.
 There are several ways we can check this result. We can check if α is correct by dimensional
 analysis or common sense; for example, it’s clear that a long pipe improves performance. We also

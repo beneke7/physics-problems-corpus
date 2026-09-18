@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, exploit-symmetry]
 ---
 
-in the March 2024 issue of this journal and the article titled Complex numbers in physics I. in this issue. 
+in the March 2024 issue of this journal and the article titled Complex numbers in physics I. in this issue.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5555-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5555-fig1.gif)

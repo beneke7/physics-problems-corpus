@@ -115,13 +115,13 @@ br
 +
 ∞ X
 n=1
-
+
 (2nℓ − b)r
 ((2nℓ − b)2 + r2)3/2
 −
 (2nℓ + b)r
 ((2nℓ + b)2 + r2)3/2
-#
+ #
 dr.
 The first term integrates to 1, so we will deal with the sum. Consider one term for some given
 n, and say we integrate out to some finite but large R. The term integrates out to

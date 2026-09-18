@@ -19,4 +19,4 @@ verification_status: pending
 
 Determine the reading of the ammeter in figure.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr5-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr5-fig1.jpg)

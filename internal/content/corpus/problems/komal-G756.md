@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws]
 ---
 
-The gauge pressure in the tyre of a car measured by a meter at a gas station is 1.2 bars. Assuming that neither the volume of the tyre nor the temperature of the air in the tyre change, by what percentage does the number of molecules in the tyre increase if the pressure is increased to the required 2.4 bars? 
+The gauge pressure in the tyre of a car measured by a meter at a gas station is 1.2 bars. Assuming that neither the volume of the tyre nor the temperature of the air in the tyre change, by what percentage does the number of molecules in the tyre increase if the pressure is increased to the required 2.4 bars?
  (3 pont)

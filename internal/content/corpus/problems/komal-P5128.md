@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, graphical-reduction, superposition]
 ---
 
-Two point-like charges of charge values $Q$ and $-3Q$ are at a distance of $d$ in vacuum. Determine the electric flux through a disk of radius $r=d/2$ at a distance of $d_1=d/3$ from charge $Q$. The centre of the disk is on the line segment which joins the two charges and the plane of the disk is perpendicular to the line segment. 
+Two point-like charges of charge values $Q$ and $-3Q$ are at a distance of $d$ in vacuum. Determine the electric flux through a disk of radius $r=d/2$ at a distance of $d_1=d/3$ from charge $Q$. The centre of the disk is on the line segment which joins the two charges and the plane of the disk is perpendicular to the line segment.
  (5 pont)

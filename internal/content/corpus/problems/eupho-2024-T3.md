@@ -26,7 +26,7 @@ verification_status: pending
 
 A Fabry–Pérot interferometer consists of two identical parallel planar mirrors separated by a distance $L$. The space between and outside the mirrors is filled with air. The mirrors are partially reflective; when light is aimed towards one of these mirrors along the normal direction, the reflected beam has intensity $R < 1$ times the intensity of the incident beam. Assume that the mirrors are symmetric, meaning they interact the same way with light incident from either side, and lossless. Assume also that they are highly reflective, meaning $1 - R \ll 1$. A monochromatic laser beam of power $P$ is aimed towards the interferometer perpendicular to the mirrors. The distance $L$ is chosen so that the back-reflected beam vanishes, i.e. all the optical power is transmitted through the interferometer.
 
-![figure](../../sources/eupho/figures/eupho-2024-T3-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2024-T3-1.png)
 
 **a) (3 pts)** Show that the laser beam must acquire a nonzero phase shift $\phi$ when it passes through either of the mirrors.
 

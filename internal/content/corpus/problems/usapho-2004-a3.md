@@ -24,7 +24,7 @@ techniques: [superposition]
 ---
 
 A3. Sound sources $\mathrm{S}_{1}$ and $\mathrm{S}_{2}$ are located at $+x_{0}$ and $-x_{0}$, respectively. The sources produce tones with the same phase and amplitude. The frequency can be varied from 175 Hz to 625 Hz, but both speakers have the
-![](usapho-2004-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2004-a3-fig01.png)
 same frequency. Use 340 m/s for the velocity of sound in air and $x_{0}=0.850 \mathrm{~m}$.
 
 (8) a. For which frequency or frequencies in the above range is minimum sound intensity heard at all points along the $x$-axis with $x>x_{0}$.

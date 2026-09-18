@@ -97,10 +97,10 @@ N choose N+.
 N!
 N
 2 (1 + m)
-
+
 ! N
 2 (1 − m)
-
+
 !
 .
 (c) The probability P(m) = e−βE(m)Ω(m) is found with Boltzmann’s theorem, where each state
@@ -120,10 +120,10 @@ log
 N!
 N
 2 (1 + m)
-
+
 ! N
 2 (1 − m)
-
+
 !
 !
 ≈ N logN−
@@ -141,26 +141,26 @@ N(1 − m)
 .
 To simplify this, we can expand the logarithms to get
 N
-
+
 logN −
 1 + m
 2
-
+
 logN + log
 1 + m
 2
-
+
 −
 1 − m
 2
-
+
 logN + log
 1 − m
 2
-
+
 and various factors cancel to give
 −N
-
+
 1 + m
 2
 log
@@ -172,7 +172,7 @@ log
 log
 1 − m
 2
-
+
 .
 Setting dF/dm to zero gives
 0 = −NB − NJm − T
@@ -185,7 +185,7 @@ N(B + Jm) = −kBT
 ∂ logΩ
 ∂m
 = NkBT
-
+
 1
 2
 log
@@ -197,7 +197,7 @@ log
 log
 1 − m
 2
-
+
 .
 Then we have
 βB + βJm =
@@ -215,10 +215,10 @@ m(T)
 B > 0
 (e) With B = 0, for the magnetization to be nonzero, we need a non-zero solution to
 m = tanh
-
+
 Jm
 kBT
-
+
 .
 Since the second derivative of tanh(ax), −2a2 sech2
 (ax)tanh(ax) is always negative for x > 0,
@@ -249,14 +249,14 @@ which means that at lowest order in epsilon,
 m ≈
 √
 3ϵ =
-
+
 3(Tc − T)
 Tc
-1/2
+ 1/2
 .
 (f) In this case we have m = tanh(m + B/J), and using the same series expansion as above,
 neglecting higher-order terms in B, we find m ≈ (3B/J)1/3.
-[5] Problem 16.  h 1 0APhO 2011, problem 3. A nice problem on a real-world mechanical phase
+[5] Problem 16.   h 1 0APhO 2011, problem 3. A nice problem on a real-world mechanical phase
 transition. Some of the intuition you gained studying the van der Waals gas will be useful.
 19
 Kevin Zhou Physics Olympiad Handouts
@@ -347,8 +347,8 @@ Kevin Zhou Physics Olympiad Handouts
 5 Thermodynamic Fluids
 In this section, we focus on problems combining thermodynamics with fluids, as covered in M7.
 We begin with some questions which only require fluid statics.
-[5] Problem 21.  h 1 0IPhO 1998, problem 2. A very nice real-world fluids/thermodynamics question.
-[5] Problem 22.  h 1 0APhO 2009, problem 3. Another nice, simple model of a real-world phenomenon.
+[5] Problem 21.   h 1 0IPhO 1998, problem 2. A very nice real-world fluids/thermodynamics question.
+[5] Problem 22.   h 1 0APhO 2009, problem 3. Another nice, simple model of a real-world phenomenon.
 Idea 6
 In M7 we considered Bernoulli’s principle for incompressible liquids with no temperature.
 However, in general fluids are compressible and carry internal energy. To derive Bernoulli’s
@@ -396,10 +396,10 @@ In the limit of steady flow, determine the thrust experienced by the rocket.
 Solution
 Since the flow is adiabatic and the gas is diatomic,
 p1 = p2
-
+
 T1
 T2
-7/2
+ 7/2
 .
 As discussed in M7, mass conservation in steady flow means ρAv must be the same on both
 sides of the nozzle. The ideal gas law tells us that ρ ∝ p/T, so
@@ -413,10 +413,10 @@ Combining these two gives a relation between the velocities,
 v1 = v2
 A2
 A1
-
+
 T2
 T1
-5/2
+ 5/2
 .
 Bernoulli’s principle gives
 1
@@ -499,20 +499,20 @@ might mean losing 100% of my savings, since my account’s value is small compar
 Now we’re ready to do the derivation properly. We start from the first equation above, but
 we don’t multiply by ρ. Instead, we note that P/ργ is constant because the gas is compressed
 adiabatically, since we neglected heat transfer, so we multiply by ρ0 = ρ(P0/P)1/γ, giving
-
+
 P0
 P
-1/γ
+ 1/γ
 1
 2
 ρv2
 +
 γ
 γ − 1
-
+
 P
 P0
-(γ−1)/γ
+ (γ−1)/γ
 P0 = const.
 Since the first term is the small one, we can approximate P0 ≈ P there without much error.
 As for the second term, we expand (P/P0)(γ−1)/γ with the binomial theorem to get
@@ -766,20 +766,20 @@ Now, we know that P ∝ ργ, and letting δρ = ∆ρcos(kx − ωt) for conven
 P
 P0
 =
-
+
 ρ
 ρ0
-γ
+ γ
 = 1 +
 γ δρ
 ρ0
 +
 γ(γ − 1)
 2
-
+
 δρ
 ρ0
-2
+ 2
 .
 When we integrate the first term, we get the internal energy of the fluid at rest. The second
 term averages to zero, and so can be disregarded. The third term gives the desired result,
@@ -790,10 +790,10 @@ u =
 +
 γP0
 2
-
+
 δρ
 ρ0
-2
+ 2
 .
 Now that the energy is in terms of small quantities squared, we can relax and use first order
 results. Using the results derived in problem 24, this can be simplified to
@@ -805,10 +805,10 @@ u =
 1
 2
 ρ0c2
-
+
 δρ
 ρ0
-2
+ 2
 and the two contributions are equal, because v/c = δρ/ρ0.
 As a check on this result, it is often true that the energy density is equal to the momentum
 density times the wave speed, u = pc. (For example, this corresponds to E = pc for photons.)
@@ -828,5 +828,5 @@ too subtle to be relevant to Olympiads; even string theorists get confused about
 a reminder that there are always subtleties lurking in even basic physics.
 28
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 25.  h 1 0IPhO 2012, problem 1B. A tricky real-world problem on fluids and condensation.
+[3] Problem 25.   h 1 0IPhO 2012, problem 1B. A tricky real-world problem on fluids and condensation.
 29

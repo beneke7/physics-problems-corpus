@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4482. Miért nem teljesen feketék a sötét vonalak az elnyelési színképben? 
+P. 4482. Miért nem teljesen feketék a sötét vonalak az elnyelési színképben?
  Nagy L. József (1882-1962) feladata

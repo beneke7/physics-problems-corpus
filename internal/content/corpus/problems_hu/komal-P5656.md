@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 5656. Végtelen ellenállásláncot készítünk a következő módon: Az első ,,lépcső'' ellenállásainak értéke $R$, a következőké $2R$, $4R$, $\ldots$ stb., mindig kétszerese az előzőnek ( ábra ). Mekkora a végtelen ellenálláslánc eredő ellenállása?
 
-![figure](../../raw_html/komal_figures/komal-P5656-fig1.png)
+![figure](../../figures/komal/figures/komal-P5656-fig1.png)

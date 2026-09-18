@@ -25,7 +25,7 @@ verification_status: pending
     (a) Obtain expression for $x(t)$ and $y(t)$.
     (b) Obtain the expression for the equation of trajectory.
 
-![](inpho-2008-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2008-a2-fig01.png)
 Figure 1:
 
 (c) Make a qualitative, comparative sketch of the trajectories with and without air resistance.

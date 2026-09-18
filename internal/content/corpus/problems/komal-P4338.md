@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201104"
 verification_status: pending
 ---
 
-Determine how the centre of weight (mass) of a trapezium shaped sheet can be constructed. 
+Determine how the centre of weight (mass) of a trapezium shaped sheet can be constructed.
  (4 pont)

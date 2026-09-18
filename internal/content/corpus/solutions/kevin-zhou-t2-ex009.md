@@ -31,11 +31,11 @@ Ẇ = ηQ̇in = η
 TH
 TC
 Q̇out ∝
-
+
 1 −
 TC
 TH
-
+
 TH
 TC
 T4

@@ -89,23 +89,23 @@ This question consists of several independent parts. Each of them asks for an es
 1. An egg, taken directly from the fridge at temperature $4\,^{\circ}\mathrm{C}$, is dropped into a pot with water that is kept boiling at temperature $T_1$. The following data may be useful:
 
    Mass density of the egg: $\mu = 10^3\ \mathrm{kg\ m^{-3}}$
-   
+
    Specific heat capacity of the egg: $C = 4.2\ \mathrm{J\ K^{-1}\ g^{-1}}$
-   
+
    Radius of the egg: $R = 2.5\ \mathrm{cm}$
-   
+
    Coagulation temperature of albumen (egg protein): $T_c = 65\,^{\circ}\mathrm{C}$
-   
+
    Heat transport coefficient of liquid and solid albumen: $\kappa = 0.64\ \mathrm{W\ K^{-1}\ m^{-1}}$
-   
+
    You may use the simplified form of Fourier's law, $J = \kappa \Delta T / \Delta r$, where $\Delta T$ is the temperature difference associated with $\Delta r$, the typical length scale of the problem. The heat flow $J$ is in units of $\mathrm{W\ m^{-2}}$.
 
    (a) How large is the amount of energy $U$ that is needed to get the egg coagulated?
-   
+
    (b) How large is the heat flow $J$ that is flowing into the egg?
-   
+
    (c) How large is the heat power $P$ transferred to the egg?
-   
+
    (d) For how long do you need to cook the egg so that it is hard-boiled?
 
 2. Let us regard blood as an incompressible viscous fluid with mass density $\mu$ similar to that of water and dynamic viscosity $\eta = 4.5\ \mathrm{g\ m^{-1}\ s^{-1}}$. We model blood vessels as circular straight pipes with radius $r$ and length $L$ and describe the blood flow by Poiseuille's law,
@@ -119,15 +119,15 @@ This question consists of several independent parts. Each of them asks for an es
    For the systemic blood circulation (the one flowing from the left ventricle to the right auricle of the heart), the blood flow is $D \approx 100\ \mathrm{cm^3\ s^{-1}}$ for a man at rest. Answer the following questions under the assumption that all capillary vessels are connected in parallel and that each of them has radius $r = 4\ \mu\mathrm{m}$ and length $L = 1\ \mathrm{mm}$ and operates under a pressure difference $\Delta p = 1\ \mathrm{kPa}$.
 
    (a) How many capillary vessels are in the human body?
-   
+
    (b) How large is the velocity $v$ with which blood is flowing through a capillary vessel?
 
 3. At the bottom of a 1000 m high skyscraper, the outside temperature is $T_{\mathrm{bot}} = 30\,^{\circ}\mathrm{C}$. The objective is to estimate the outside temperature $T_{\mathrm{top}}$ at the top. Consider a thin slab of air (ideal nitrogen gas with adiabatic coefficient $\gamma = 7/5$) rising slowly to height $z$ where the pressure is lower, and assume that this slab expands adiabatically so that its temperature drops to the temperature of the surrounding air. The mass of a nitrogen molecule is $m = 4.65 \times 10^{-26}\ \mathrm{kg}$.
 
    (a) How is the fractional change in temperature $dT/T$ related to $dp/p$, the fractional change in pressure?
-   
+
    (b) Express the pressure difference $dp$ in terms of $dz$, the change in height.
-   
+
    (c) In Celsius, what is the temperature at the top of the building?
 
 ### Question B2

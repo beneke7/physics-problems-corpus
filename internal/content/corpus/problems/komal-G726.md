@@ -22,12 +22,12 @@ verification_status: self-solved
 techniques: [exploit-symmetry, limiting-and-special-cases]
 ---
 
-The four inner cogwheels shown in the figure are moving round, whilst the outer one is at rest. (The motion of the cogwheels can be seen on the homepage.) 
+The four inner cogwheels shown in the figure are moving round, whilst the outer one is at rest. (The motion of the cogwheels can be seen on the homepage.)
 
- $a)$ Compare the periods of the cogwheels. 
- $b)$ Order the speeds of the centres of the cogwheels increasingly. 
+ $a)$ Compare the periods of the cogwheels.
+ $b)$ Order the speeds of the centres of the cogwheels increasingly.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G726-fig1.gif)
-![figure](../../raw_html/komal_figures/komal-G726-fig2.gif)
+![figure](../../figures/komal/figures/komal-G726-fig1.gif)
+![figure](../../figures/komal/figures/komal-G726-fig2.gif)

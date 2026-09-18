@@ -45,7 +45,7 @@ NP,0
 tP
 2−t/tP
 .
-We know that tS 
+We know that tS
  tP , which implies that after a long time, decays of 35S will dominate,
 since by then almost all the 32P has decayed away. On the other hand, the decay rate of 35S
 is suppressed by a factor of tS, which means that at early times, decays of 32P dominate.

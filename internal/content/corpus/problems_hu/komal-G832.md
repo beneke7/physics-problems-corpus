@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 832. Egy szabályos háromszög alapú szoba kettő falát síktükör borítja. A szoba közepén áll egy lámpa. Hány képe keletkezik a lámpának?
 
-![figure](../../raw_html/komal_figures/komal-G832-fig1.gif)
+![figure](../../figures/komal/figures/komal-G832-fig1.gif)

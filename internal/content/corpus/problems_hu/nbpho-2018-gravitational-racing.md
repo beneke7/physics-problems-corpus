@@ -24,7 +24,7 @@ Habár általános esetben három gravitációsan kölcsönhatásban lévő test
 
 Viszonylag közelmúltban fedezték fel, hogy három egyenlő pontszerű tömeg periodikusan mozoghat egy közös nyolcas alakú pályán, amely az ábrán látható (a nyíl a mozgás irányát jelöli). Ez az ábra számítógépes szimulációra alapul és helyes alakú. Szükség esetén az ábra nagyított változatáról (külön lapon) vonalzó segítségével mérheti meg a távolságokat.
 
-![figure](../../sources/nbpho/figures/nbpho-2018-gravitational-racing-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2018-gravitational-racing-fig1.jpg)
 
 Számozzuk meg a három testet 1, 2 és 3 számmal a sorrendjük szerint, ahogyan áthaladnak a bal szélső $P$ pont mellett az ábrán. Jelöljük $O_{2}$ és $O_{3}$ szimbólummal a 2. és 3. test helyzetét abban a pillanatban, amikor az 1. test áthalad a középső $O$ pont mellett. Hasonlóan, jelöljük $P_{2}$ és $P_{3}$ szimbólummal a 2. és 3. test helyzetét abban a pillanatban, amikor az 1. test áthalad a bal szélső $P$ pont mellett. Legyen $T$ az egyes testek teljes periódusideje az nyolcas alakú pályán.
 

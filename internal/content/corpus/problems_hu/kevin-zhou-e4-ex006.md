@@ -37,7 +37,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                         12
-Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
 
 
 
@@ -94,4 +96,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                   13
-    Kevin Zhou                                                                   Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                   Fizikaolimpiai feladatgyűjtemény

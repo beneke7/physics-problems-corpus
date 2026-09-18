@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 827. A képsorozat egy vízcsepp leszakadásának fázisait mutatja egy csöpögő csapról. Írjuk le, hogy mi történik az egyes képeken!
 
-![figure](../../raw_html/komal_figures/komal-G827-fig1.gif)
+![figure](../../figures/komal/figures/komal-G827-fig1.gif)

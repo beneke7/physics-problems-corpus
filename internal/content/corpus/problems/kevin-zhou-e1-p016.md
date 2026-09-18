@@ -42,5 +42,5 @@ In this problem we’ll derive essential results about dipoles, which will be us
          looks like, the fact that its magnitude is roughly p/4πϵ0 r3 , and the fact that the numeric
 
 
-                   01m
+                   01m
          prefactor is 2 along the dipole’s axis and 1 perpendicular to it.

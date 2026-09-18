@@ -54,7 +54,7 @@ For an exercise involving these pressure forces, see USAPhO 2025, problem A3.
 Instead, these fields are produced in Bitter electromagnets, which are solenoids made of thick
 metal plates, perforated with cooling channels to dissipate the enormous heat produced by
 resistance. It is possible to produce higher fields temporarily, but the results will be explosive.
-[3] Problem 21.  ^ 1 0USAPhO 2021, problem A3. A simple classical model of an electron.
+[3] Problem 21.   ^ 1 0USAPhO 2021, problem A3. A simple classical model of an electron.
 [3] Problem 22 (USAPhO 2007). This is a rewrite of USAPhO 2007, problem B2, which has several
 typos and ambiguities. In this problem, we will model diamagnetism in materials classically. For
 simplicity, we will assume that each atom consists of a single electron of charge −e and mass me,
@@ -233,7 +233,7 @@ These are legitimate questions, and the truth is that any “classical” deriva
 phenomena doesn’t really work; you fundamentally need quantum mechanics. At best, our
 classical argument can give us a rough estimate of the size of the effect. For more discussion,
 see E8, and for an alternative derivation which uses some quantum mechanics, see R3.
-[5] Problem 23.  h 1 0APhO 2013, problem 3. A solid question involving classical magnetic moments,
+[5] Problem 23.   h 1 0APhO 2013, problem 3. A solid question involving classical magnetic moments,
 which gives some intuition for the quantum behavior.
 5 Superconductors
 There are many tough Olympiad problems involving superconductors. Superconductors can be a

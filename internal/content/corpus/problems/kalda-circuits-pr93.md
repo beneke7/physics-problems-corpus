@@ -19,4 +19,4 @@ verification_status: pending
 
 The circuit consists of a capacitor, inductance, and two resistors, see figure. The voltage on both resistors is 10 V , and the voltage between the leads $A$ and $B$ is also 10 V . Find the applied voltage $U_{0}$.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr93-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr93-fig1.jpg)

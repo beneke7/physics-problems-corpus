@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200812"
 verification_status: flagged
 ---
 
-The third meter shown in the figure reads 6 V. What do the other meters measure and what are their readings? What is the voltage across the power supply? (The meters can be considered ideal ones.) 
+The third meter shown in the figure reads 6 V. What do the other meters measure and what are their readings? What is the voltage across the power supply? (The meters can be considered ideal ones.)
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4115-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4115-fig1.gif)

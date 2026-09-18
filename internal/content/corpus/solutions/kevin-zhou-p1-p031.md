@@ -83,10 +83,10 @@ dx
 An − xn
 By dimensional analysis, the integral (a function of A) is proportional to A1−n/2, so
 T = T0
-
+
 A
 A0
-1−n/2
+ 1−n/2
 Incidentally, you can also do this problem by dimensional analysis directly on the parameters.
 At first glance, this is impossible because there are too many dimensionful quantities: E, m, a,
 V0, and T, which permit 5−3 = 2 dimensionless groups. (Recall from an earlier problem that
@@ -171,24 +171,24 @@ g
 Z π/2
 0
 dϕ
-
+
 1 +
 θ2
 0
 8
 sin2
 ϕ
-
+
 = 2π
 s
 L
 g
-
+
 1 +
 θ2
 0
 16
-
+
 .
 There are many other ways to get this, but our route is probably the best if you’re interested
 in even higher-order terms. For instance, the coefficient of the θ4
@@ -264,7 +264,7 @@ straightforward to integrate, yielding
 T =
 2π
 ω0
-
+
 1 +
 3
 16
@@ -273,7 +273,7 @@ T =
 c2
 + O((ω0A/c)4
 )
-
+
 .
 Since the peak speed v0 is approximately ω0A in the nonrelativistic limit, this result is therefore
 accurate up to corrections of order (v0/c)4.

@@ -43,7 +43,9 @@ solution_language: en
 
 
                                                     3
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -71,7 +73,7 @@ solution_language: en
 
        The first result just tells us that CV can be equivalently defined as (∂U/∂T )|V . As for the
        second result, plugging it in gives an answer of
-                                                             
+
                                                     ∂U          ∂V
                                        CP − CV =         +P           .
                                                     ∂V T        ∂T P

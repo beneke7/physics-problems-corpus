@@ -28,7 +28,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                     15
-    Kevin Zhou                                                                    Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                    Physics Olympiad Handouts
 
 
     A kötél lineáris tömegsűrűsége állandó, az emelvények és a kötél közötti súrlódási együttható pedig 1.
@@ -68,13 +70,13 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                               sinh−1 (y ′ ) =       + C.
                                                                  Tx
        Az x = 0 pontot a lánc legalacsonyabb pontjának választva a C konstans nulla, így
-                                                          
+
                                             ′          λgx
                                            y = sinh          .
                                                         Tx
 
        Mindkét oldalt ismét integrálva kapjuk y megoldását:
-                                                             
+
                                                 Tx        λgx
                                            y=      cosh
                                                 λg         Tx

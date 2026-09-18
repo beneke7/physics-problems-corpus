@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201009"
 verification_status: pending
 ---
 
-A 200 m-long car convoy is travelling at a speed of 10 m/s. From the end of the convoy a motorbike starts to move to the front of the convoy at a speed of 20 m/s. 
- a ) How long does it take to reach the front of the convoy? 
- b ) How long does it take to go back? 
+A 200 m-long car convoy is travelling at a speed of 10 m/s. From the end of the convoy a motorbike starts to move to the front of the convoy at a speed of 20 m/s.
+ a ) How long does it take to reach the front of the convoy?
+ b ) How long does it take to go back?
  (3 pont)

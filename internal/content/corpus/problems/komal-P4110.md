@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [choose-reference-frame, auxiliary-unknowns]
 ---
 
-The horizontal part of the U-shaped tube shown in the figure is 10 cm, and its vertical branches are long enough. The cross section of the tube is 1 cm$^{2}$. First, 20 cm$^{3}$ water is poured into the tube, then 20 cm$^{3}$ oil is poured into the left branch. , . The whole system is accelerated towards the left, at an acceleration of  a . Determine and graph the difference between the level of water and the level of oil as a function of the acceleration. 
+The horizontal part of the U-shaped tube shown in the figure is 10 cm, and its vertical branches are long enough. The cross section of the tube is 1 cm$^{2}$. First, 20 cm$^{3}$ water is poured into the tube, then 20 cm$^{3}$ oil is poured into the left branch. , . The whole system is accelerated towards the left, at an acceleration of  a . Determine and graph the difference between the level of water and the level of oil as a function of the acceleration.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4110-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4110-fig1.gif)

@@ -97,7 +97,7 @@ M2
 For a proof of this remarkable statement, see this answer. Since MSun/MEarth = 3 × 105, the
 corresponding Lagrange points for the Earth-Sun system are stable.
 [4] Problem 23. E 1 0IPhO 2016, problem 1B. A useful set of Coriolis force exercises.
-[3] Problem 24.  ^ 1 0USAPhO 2020, problem A2. A tricky question on the Foucault pendulum. For
+[3] Problem 24.   ^ 1 0USAPhO 2020, problem A2. A tricky question on the Foucault pendulum. For
 an algebraic derivation of the final result, see section 9.9 of Taylor; it uses the complex number
 method introduced for a problem in M1. For a beautiful but more abstract geometric derivation,
 see section 11.5.1 of Griffiths’ Introduction to Quantum Mechanics (3rd edition).
@@ -192,27 +192,27 @@ E
 =
 MM
 ME
-
+
 RE
 D
-3
+ 3
 RE.
 This can also be written in terms of the densities,
 ∆h ∼
 ρM
 ρE
-
+
 RM
 D
-3
+ 3
 RE.
 The first term is of order one. The second term is the angular radius of the Moon in the sky,
 which is about a quarter of a degree, giving
 ∆h ∼
-
+
 2π
 360 × 4
-3
+ 3
 RE ∼ 0.5m
 which is of the right order of magnitude.
 Remark
@@ -236,18 +236,18 @@ called the Roche limit; it gives the radial distance below which loose objects c
 larger ones.
 (a) Show that if the rock isn’t rotating, the Roche limit is
 d = R
-
+
 2ρp
 ρr
-1/3
+ 1/3
 .
 (b) Now suppose the rock is both orbiting the planet, and rotating so that the same side always
 faces the planet. Show that the Roche limit is
 d = R
-
+
 3ρp
 ρr
-1/3
+ 1/3
 .
 Solution. Let the rock have radius r, and consider the point on the rock nearest to the planet.
 (a) The gravitational acceleration at this point due to the rock is
@@ -260,10 +260,10 @@ gtidal =
 8π
 3
 Grρp
-
+
 R
 d
-3
+ 3
 .
 When these two are equal, the normal force on the point vanishes, so the sand can lift off;
 solving gives the desired result.
@@ -284,20 +284,20 @@ r =
 4π
 3
 Grρp
-
+
 R
 d
-3
+ 3
 .
 The sand at this point lifts off when grock − gtidal = acentripetal, as the normal force vanishes
 in this case. Solving this gives the desired result.
 37
 Kevin Zhou Physics Olympiad Handouts
-[3] Problem 27.  ^ 1 0USAPhO 2025, problem A2. A nice problem on an exotic tidal effect.
-[4] Problem 28.  T 1 0IPhO 2009, problem 1. A neat problem about how the Moon has slowed down
+[3] Problem 27.   ^ 1 0USAPhO 2025, problem A2. A nice problem on an exotic tidal effect.
+[4] Problem 28.   T 1 0IPhO 2009, problem 1. A neat problem about how the Moon has slowed down
 the Earth’s rotation. This is a fascinating subject; in the deep past, not only were days shorter,
 but the weather on Earth was completely different, owing to the much higher Coriolis forces.
-[5] Problem 29.  h 1 0IPhO 1992, problem 1. A difficult problem on a strange propulsion mechanism.
+[5] Problem 29.   h 1 0IPhO 1992, problem 1. A difficult problem on a strange propulsion mechanism.
 I recommend using Kai Wen Teo’s modified version.
 Solution. See Kai Wen Teo’s solution here, and refer to the official solutions for further discussion.
 Remark: Negative Mass

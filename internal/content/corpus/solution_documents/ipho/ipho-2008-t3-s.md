@@ -72,7 +72,9 @@ by integrating both members of (4), we obtain :
 
 
                                                                                                   1
-                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                             39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                         Theoretical Problem No. 3 / Solution
 
 
@@ -128,7 +130,9 @@ quasi-equilibrium adiabatic process of an air parcel:
 
 
                                                                                                   2
-                               39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                               39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                            Theoretical Problem No. 3 / Solution
 
 
@@ -186,7 +190,9 @@ or
 
 
                                                                                                       3
-                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                                 Theoretical Problem No. 3 / Solution
 
 
@@ -252,7 +258,9 @@ If Λz << T ( 0 ) , then by putting x =                              , we obtain
 
 
                                                                                                      4
-                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                         39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                      Theoretical Problem No. 3 / Solution
 
 
@@ -304,7 +312,9 @@ higher position, at altitude z0 + d (with d>0),                 Tparcel ( z0 + d
 
 
                                                                                                       5
-                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                           39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                           Theoretical Problem No. 3 / Solution
 
 
@@ -357,7 +367,9 @@ temperature lapse rate Λ < Γ is stable.
 
 
                                                                                                                6
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                            Theoretical Problem No. 3 / Solution
 
 
@@ -433,7 +445,9 @@ So that the maximal altitude h has the following expression:
 
 
                                                                                              7
-                                39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                                39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                            Theoretical Problem No. 3 / Solution
 
 
@@ -489,7 +503,9 @@ isothermal atmosphere Tparcel ( z ) = Tparcel ( 0 ) exp ⎢ −                 
 
 
                                                                                                       8
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                   Theoretical Problem No. 3 / Solution
 
 
@@ -542,7 +558,9 @@ or
 
 
                                                                                                9
-                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
+
+
+                       39th International Physics Olympiad - Hanoi - Vietnam - 2008
                                   Theoretical Problem No. 3 / Solution
 
 

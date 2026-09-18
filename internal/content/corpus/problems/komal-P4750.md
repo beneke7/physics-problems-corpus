@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201509"
 verification_status: pending
 ---
 
-Silver-gold alloys can be made in any ratio of the two constituents. The weight of a particular piece of this type of alloy in air is 15 N, whilst its weight in water is 14 N. What is the percent composition by mass of gold in the alloy? 
+Silver-gold alloys can be made in any ratio of the two constituents. The weight of a particular piece of this type of alloy in air is 15 N, whilst its weight in water is 14 N. What is the percent composition by mass of gold in the alloy?
  (4 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, model-reduction, auxiliary-unknowns]
 ---
 
-There is a sample of Argon in a 20-litre closed container at a pressure of 50 kPa, and there is a sample of Xenon in another container of volume of 30 litres at a pressure of 20 kPa. A tube (of negligible volume) connects the two containers, and the tap in it is opened. What will the pressure in the containers be if the temperature remains the original value? 
+There is a sample of Argon in a 20-litre closed container at a pressure of 50 kPa, and there is a sample of Xenon in another container of volume of 30 litres at a pressure of 20 kPa. A tube (of negligible volume) connects the two containers, and the tap in it is opened. What will the pressure in the containers be if the temperature remains the original value?
  (3 pont)

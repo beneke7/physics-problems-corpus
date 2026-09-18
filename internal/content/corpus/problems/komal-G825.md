@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [exploit-symmetry, limiting-and-special-cases]
 ---
 
-We have a round wall clock with no numbers or graduations on the ``dial'', just hands. 
- The hour and the minute hands can only be adjusted by a knob at the back. At the back there is a circular rim which allows the clock to be hung on the wall in any position. How many different positions can it be placed on the wall so that it will keep good time when properly adjusted? 
+We have a round wall clock with no numbers or graduations on the ``dial'', just hands.
+ The hour and the minute hands can only be adjusted by a knob at the back. At the back there is a circular rim which allows the clock to be hung on the wall in any position. How many different positions can it be placed on the wall so that it will keep good time when properly adjusted?
  (4 pont)

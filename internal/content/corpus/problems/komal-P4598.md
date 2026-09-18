@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201401"
 verification_status: pending
 ---
 
-Jill and Jack organise a ``rolling bicycle race'' along a long enough slope. Their bicycles are alike and none of them pedals the bicycle. Jill weighs 50 kg, Jack is 100 kg, and the mass of the bicycle is 15 kg. The cross sectional area of Jack is one and a half times as much as that of Jill. Who will reach greater terminal speed? 
+Jill and Jack organise a ``rolling bicycle race'' along a long enough slope. Their bicycles are alike and none of them pedals the bicycle. Jill weighs 50 kg, Jack is 100 kg, and the mass of the bicycle is 15 kg. The cross sectional area of Jack is one and a half times as much as that of Jill. Who will reach greater terminal speed?
  (4 pont)

@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201404"
 verification_status: pending
 ---
 
-What is the resistance of the resistor R connected into the circuit shown in the figure, if the voltage across the condenser is 
+What is the resistance of the resistor R connected into the circuit shown in the figure, if the voltage across the condenser is
 
- $a)$ $U_{C}=0$; 
- $b)$ $U_{C}=\frac{U}{2}$? 
+ $a)$ $U_{C}=0$;
+ $b)$ $U_{C}=\frac{U}{2}$?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4635-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4635-fig1.gif)

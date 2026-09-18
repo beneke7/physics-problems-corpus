@@ -54,7 +54,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        14
-Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
 
 
   8. példa
@@ -102,7 +104,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   A műhold által kibocsátott hő sebessége
                                         Q̇out = σATC4 ∝ TC4 .
   Ezért a végzett munka sebessége
-                                                     
+
                                    TH               TC TH 4
                    Ẇ = η Q̇in = η    Q̇out ∝    1−      T = TH TC3 − TC4 .
                                    TC               TH TC C
@@ -110,4 +112,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                   15
-    Kevin Zhou                                                                      Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                                      Fizikaolimpiai feladatgyűjtemény

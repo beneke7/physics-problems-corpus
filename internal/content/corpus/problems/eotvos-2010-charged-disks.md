@@ -28,7 +28,7 @@ Fizika szakkörön az elektromos árnyékolás a téma. A két korongot nézve B
 
 Gabi figyelmeztet rá, hogy az elektromos mező nagyobb tartományra terjedhet ki, mint a töltött testek mérete, ezért Bea ötletét úgy módosítja, hogy a $C$ korong átmérője legyen pl. 25 cm, ahogy a c) ábrán látható. (Az ábra nem méretarányos.) Gabi szerint csak ekkor csökken elhanyagolható értékre az $A$-ra, illetve $B$-re ható elektromos erő.
 
-![A három korongos elrendezés](../../sources/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
+![A három korongos elrendezés](../../figures/eotvos/figures/eotvos-2010-charged-disks-fig1.png)
 
 a) Mit tapasztalnánk, ha Bea ötletét követve $A$ és $B$ közé velük egyenlő méretű, semleges $C$ fémkorongot engednénk, majd megmérnénk az $A$-ra, illetve $B$-re ható erőt?
 

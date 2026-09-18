@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-An object of mass $m$ is suspended by a rubber thread of unstretched length $l$, and of force (spring) constant $k$. Then the object, which is in equilibrium, is pulled slowly, such that it moves along a horizontal line through its initial position. What is the magnitude of the pulling force, which belongs to the position when the rubber thread makes an angle of $\varphi$ with the vertical? 
- Data: $\ell=0.5$ m, $\varphi=30^\circ$, $m=0.4$ kg, $k=10$ N/m. 
+An object of mass $m$ is suspended by a rubber thread of unstretched length $l$, and of force (spring) constant $k$. Then the object, which is in equilibrium, is pulled slowly, such that it moves along a horizontal line through its initial position. What is the magnitude of the pulling force, which belongs to the position when the rubber thread makes an angle of $\varphi$ with the vertical?
+ Data: $\ell=0.5$ m, $\varphi=30^\circ$, $m=0.4$ kg, $k=10$ N/m.
  (4 pont)

@@ -30,7 +30,9 @@ Binney 5.1
        Niven’s Ringworld, a science fiction novel once popular among boomer nerds. Following
 
                                                        5
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
   Laplace, consider a rigid, circular ring of radius R and mass m, centered on a planet of
   masspM ≫ m. The ring rotates around the planet with the Keplerian angular velocity
@@ -73,7 +75,7 @@ Binney 5.1
   we conclude
                        Z 2π
                                                a2 3 cos2 θ − 1                 a2
-                                                                               
+
              GM m             dθ       a                            GM m
         U ≈−                        1 − cos θ + 2                =−        1+       .
               R         0     2π       R       R       2             R        4R2
@@ -82,7 +84,9 @@ Binney 5.1
   will soon crash into the planet.
 
                                                     6
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
 3    Kepler’s Laws
     Idea 4
@@ -130,7 +134,9 @@ Binney 5.1
     easy to check for a planet in a circular orbit (n = −1). With some more work, you can
 
                                                   7
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
        check that it also holds for arbitrary elliptical orbits. To do this most efficiently, convert
        the time integral to an integral over angle θ, and use the form of an ellipse in polar coordinates.

@@ -78,7 +78,8 @@ I 2 = Ma 2 − ma 2 − mb 2 = (ρa 3 )a 2 − (ρπb 2 a )a 2 − (ρπb 2 a )b
                                         ρa 3 (1 − πx 2 ) ⎟
                               ⎜                           ⎟
                               ⎝                           ⎠
-                                                           2
+
+                                                           2
                                              8π 2 ⎛ a ⎞ ⎛ 1 − 3π x 4 ⎞
                                          =        ⎜ ⎟ ⎜              ⎟ A                (0.5 points)
                                               3g ⎝ d ⎠ ⎝ 1 − π x 2 ⎠
@@ -148,7 +149,8 @@ slope of graph: s1 =                                            =               
                                     b
                         x =           = 0.24 ± 0.02
                                     a
-For configuration in Fig. 2.2(b),                    d = 4.9 cm
+
+For configuration in Fig. 2.2(b),                    d = 4.9 cm
               A (cm)              T2 for 40 oscillations (s)              T2 (s)   (T2)2 (s2)
               43.8            46.95        46.90           46.80          1.172      1.374
               36.0            42.70        42.45           42.50          1.064      1.132

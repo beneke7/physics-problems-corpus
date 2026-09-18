@@ -41,13 +41,13 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                               sinh−1 (y ′ ) =       + C.
                                                                  Tx
        Az x = 0 pontot a lánc legalacsonyabb pontjának választva a C konstans nulla, így
-                                                          
+
                                             ′          λgx
                                            y = sinh          .
                                                         Tx
 
        Mindkét oldalt ismét integrálva kapjuk y megoldását:
-                                                             
+
                                                 Tx        λgx
                                            y=      cosh
                                                 λg         Tx

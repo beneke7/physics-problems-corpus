@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4113. Van de Graaff-generátor R sugarú gömbjének tetejére d vastagságú,  sűrűségű, r  alapsugarú, alufóliából készült gömbsüveget helyezünk. Mekkora feszültségnél emelkedik fel a süveg a gömbről? 
+P. 4113. Van de Graaff-generátor R sugarú gömbjének tetejére d vastagságú,  sűrűségű, r  alapsugarú, alufóliából készült gömbsüveget helyezünk. Mekkora feszültségnél emelkedik fel a süveg a gömbről?
 
  Varga István
 
-![figure](../../raw_html/komal_figures/komal-P4113-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4113-fig1.gif)

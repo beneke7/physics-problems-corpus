@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-How would you connect the capacitors whose capacitances are 1  F, 2  F, 3  F and 4  F, such that their equivalent capacitance is 1  F? 
+How would you connect the capacitors whose capacitances are 1  F, 2  F, 3  F and 4  F, such that their equivalent capacitance is 1  F?
  (4 pont)

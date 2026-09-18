@@ -65,7 +65,8 @@ Time for 50 oscillations is 43.3 s, hence
 
 Substituting these values into equation (vi), we get
                   t 4 −10t 3 + 33.42t 2 − 41.97t + 15.36 = 0                              ………………….. (vii)
-Experimental competition                                                                        Solution Problem 2
+
+Experimental competition                                                                        Solution Problem 2
 
 28 April 2009                                                                                              Page 2 of 3
 -------------------------------------------------------------------------------------------------------------------------
@@ -111,7 +112,8 @@ c)
 The experimental value I xExp is smaller than I xTheo by 225 g cm2.
 This difference is probably significant and it is due to low viscosity of water. The mass of water in
 the middle section does not take part in the oscillatory motion of the vessel.
-Experimental competition                                                                        Solution Problem 2
+
+Experimental competition                                                                        Solution Problem 2
 
 28 April 2009                                                                                              Page 3 of 3
 -------------------------------------------------------------------------------------------------------------------------

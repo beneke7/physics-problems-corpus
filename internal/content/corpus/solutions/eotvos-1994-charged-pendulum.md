@@ -29,9 +29,9 @@ Megoldás. Tisztázzuk el®ször a fémsík szerepét! Tudjuk, hogy elektrosztat
 ekvipoten iális. (Addig-addig mozognak, rendez®dnek rajtuk a töltések, amíg ez az állapot ki nem alakul.) Ez azt
 jelenti, hogy a fémek felületénél az elektromos térer®sségnek nem lehet érint® irányú komponense, vagyis a térer®sség
 minden pontban mer®leges a fém felületére. A feladatban ponttöltés és sík fémfelület szerepel, ezért az er®térnek a 7(a)
-ábrán vázolt szerkezet¶nek kell lennie. Ezzel az er®térrel ekvivalens egy olyan dipólus er®terének egyik fele, amelyet
+ábrán vázolt szerkezet¶nek kell lennie. Ezzel az er®térrel ekvivalens egy olyan dipólus er®terének  egyik fele , amelyet
 egymástól 2x távolságra lév® Q és −Q ponttöltések hoznak létre, ahogyan azt a 7(b) ábrán vázoltuk.
-A fémsík hatása tehát minden tekintetben helyettesíthet® egy −Q nagyságú ú.n. tükörtöltés hatásával. Ennek a
+A fémsík hatása tehát minden tekintetben helyettesíthet® egy −Q nagyságú ú.n.  tükörtöltés  hatásával. Ennek a
 felismerésnek köszönhet®en azt az er®t, amit a fémsík fejt ki a Q tötésre, úgy is kiszámíthatjuk, mint a tükörtöltés
 által kifejtett vonzóer®t.
 A Coulomb-er®n kívül a Q töltésre még két er® hat (8. ábra): a nehézségi er® és a fonáler®. A három er® ered®je akkor
@@ -72,9 +72,9 @@ A függvény menete viszonylag kis α értékek környezetében a 9. ábrán lá
 tehát egy olyan legkisebb d érték, amelynél közelebb nem vihetjük a fémsíkot. Ha közelebb visszük, nin s egyensúlyi
 állapot, tehát hozzá sapódik az inga a fémsíkhoz.
 Határozzuk meg d minimumát!
-(Akiknek gondot okoz e kissé bonyolult függvény dieren iálása, úgy segíthetnek magukon, ha | felismerve, hogy
+(Akiknek gondot okoz e kissé bonyolult függvény di eren iálása, úgy segíthetnek magukon, ha | felismerve, hogy
 sak kis szögekröl van szó |, sinα és tg α helyére α-t írnak. Ekkor sak hatványfüggvényeket kell deriválni, s a végered-
-mény legfeljebb a negyedikötödik értékes jegyben tér el a pontos eredményt®l.)
+mény legfeljebb a negyedik ötödik értékes jegyben tér el a pontos eredményt®l.)
 A minimum helyére (α∗
 ) kapjuk:
 sin2α∗
@@ -92,7 +92,7 @@ Mivel a fémsík eredetileg 0,5 méterre volt az inga felfüggesztési pontját�
 rántsa az ingát, legalább ∆d = 5,65 cm-rel közelebb kell vinni.
 Már sak arra kell válaszolnunk, hogy tudjuk-e úgy mozgatni a fél méterre lév® fémsíkot, hogy hozzá sapódjon az
 inga akkor is, ha sohasem kerül a fémsík fél méternél közelebb a felfüggesztési ponthoz.
-Igen, tudjuk: be kell lengetni az ingát, mint egy hintát. Elöször eltávolítjuk a fémsíkot, ekkor az inga hátra-
+Igen, tudjuk:  be kell lengetni az ingát , mint egy hintát. Elöször eltávolítjuk a fémsíkot, ekkor az inga hátra-
 lendül. Amikor az inga elindul visszafelé, visszahozzuk a fémsíkot, hogy vonzóerejével növelje a lengés amplitúdóját.
 Lényegében az inga lengésével szinkronban, de mindig ellentétes fázisban kell mozgatni a fémsíkot. Akármilyen kis
 amplitúdóval is rezegtetjük a fémsíkot, ha ez megfelel® fázisban történik, el®bb-utóbb hozzá sapódik az inga.
@@ -138,7 +138,7 @@ kQ2
 1
 d − x
 .
-Ezt az U1(x) függvényt x szerint dieren iálva kapjuk meg az ingatestre ható (x irányú) er® −1-szeresét, tehát az er®:
+Ezt az U1(x) függvényt x szerint di eren iálva kapjuk meg az ingatestre ható (x irányú) er® −1-szeresét, tehát az er®:
 F1(x) = −
 dU1(x)
 dx
@@ -154,7 +154,7 @@ kQ2
 Mind az U1(x), mind az F1(x) függvények menete a paraméterek értékeit®l függ. Ha m, g, l, k, Q állandó, akkor
 egyedül d-t®l. A 11. ábrán vázoltunk három különböz® esetet. Az a) esetben a poten iális energia minimuma jelöli ki
 az inga stabilis egyensúlyi helyzetét, a maximum egy labilis egyensúlyt jelez. A ) esetben nin s egyensúlyi helyzet.
-A kett® közti átmenetet, a határesetet mutatja az ábra b) része, amikor a poten iális energiának vízszintes érint®j¶
+A kett® közti átmenetet, a határesetet mutatja az ábra b) része, amikor a poten iális energiának  vízszintes  érint®j¶
 in
 exiós pontja van, itt valósulhat meg még utoljára egyensúlyi helyzet. Az ehhez tartozó d paraméterérték lesz d
 legkisebb értéke.
@@ -202,14 +202,14 @@ s
 kQ2l
 2mg
 = 0,4435 m
-2. A feladat harmadik kérdésére a belengetésen kívül más ötletes válaszok, megoldási javaslatok is születtek.
+2. A feladat harmadik kérdésére a  belengetésen  kívül más ötletes válaszok, megoldási javaslatok is születtek.
 Ilyen például a fémsík körbeforgatása, amely körmozgásra sábítja az ingatestet. Voltak, akik a fémsík saját síkjában
 történ® mozgatással próbálkoztak, számítva az elektronok tehetetlenségére, s a mozgó töltésekre ható Lorentz er®vel is
-többen próbálkoztak | nem sok sikerrel. Elág sok jó 
+többen próbálkoztak | nem sok sikerrel. Elág sok jó
 zikai szemlélet¶ versenyz® akadt, aki | ha nem is tudta megoldani
 a feladat nehéz, középs® részét |, erre a befejez® kérdésre jól válaszolt.
 A verseny eredménye
-Megosztott III. díjat nyert egyenl® helyezésben a következ® három versenyz®:
+Megosztott I II. díjat nyert egyenl® helyezésben a következ® három versenyz®:
 Horváth Péter, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályos tanulója (fels® fénykép), Horváth
 Gábor tanítványa;
 Ková s Krisztián, a békés sabai Kemény Gábor M¶szaki Szakközépiskola IV. osztályos tanulója (középs® fény-
@@ -225,21 +225,21 @@ Juhász Sándor, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályo
 nya;
 Koblinger Egmont, a Fazekas Mihály F®városi Gyakorló Gimnázium IV. osztályos tanulója, Horváth Gábor
 tanítványa;
-Mizera Feren , az ELTE TTK 
+Mizera Feren , az ELTE TTK
 zikus szakos hallgatója, aki Szlovákiában, Rév-Komáromban érettségizett, mint
 Szakál Ildikó, Spátai Lotár és Szabó Endre tanítványa;
 Tóth Gábor Zsolt, a budapesti Árpád Gimnázium III. osztályos tanulója, Vankó Péter tanítványa.
-Di séretben részesültek, s err®l oklevelet kaptak a verseny 1115. helyezettjei:
-11. Halbritter András, a BME mérnök
+Di séretben részesültek, s err®l oklevelet kaptak a verseny 11 15. helyezettjei:
+11. Halbritter András, a BME mérnök
 zikus szakos hallgatója, aki a gy®ri Czu zor Gergely Ben és Gimná-
-ziumban érettségizett, mint Csonka László tanítványa; 1213. Bárász Mihály, a Fazekas Mihály F®városi Gyakorló
-Gimnázium III. osztályos tanulója, Horváth Gábor tanítványa; Várhegyi Péter, a BME mérnök
+ziumban érettségizett, mint Csonka László tanítványa; 12 13. Bárász Mihály, a Fazekas Mihály F®városi Gyakorló
+Gimnázium III. osztályos tanulója, Horváth Gábor tanítványa; Várhegyi Péter, a BME mérnök
 zikus szakos hall-
-gatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett, mint Horváth Gábor tanítványa; 1415.
+gatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban érettségizett, mint Horváth Gábor tanítványa; 14 15.
 Kon z Imre, a Fazekas Mihály F®városi Gyakorló Gimnázium II. osztályos tanulója, Horváth Gábor tanítványa; Lo-
 vas Rezs®, a debre eni KLTE Gyakorló Gimnáziumának III. osztályos tanulója, Dudi s Pál, Kirs h Éva és Szegedi
 Ervin tanítványa.
-Jegyz®könyvi di séretben részesültek a 1620. helyezett versenyz®k egyenl® helyezésben:
+Jegyz®könyvi di séretben részesültek a 16 20. helyezett versenyz®k egyenl® helyezésben:
 Feldmann Márton, a soproni Vas- és Villamosipari Szakközépiskola IV. osztályos tanulója, Lendvay Péterné tanít-
 ványa; Juhász Bertalan, a debre eni KLTE Gyakorló Gimnáziumának IV. osztályos tanulója, Dudi s Pál tanítványa;
 Madarassy Pál, a ELTE TTK térképész szakos hallgatója, aki a Fazekas Mihály F®városi Gyakorló Gimnáziumban

@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi ábra egy légifelvételről készült: két, pirossal ábrázolt vonat egy vasútvonal (szürke szaggatott vonal) mentén, $v=50 \mathrm{~km} / \mathrm{h}$ sebességgel halad. Mozdonyaik füstöt bocsátanak ki, a füstcsíkokat fekete vonalak jelzik. Határozzuk meg a szél irányát és sebességét; a szélirányt az északi iránytól az óramutató járásával megegyező irányban mért szöggel adjuk meg. Az ábrán vonalzóval rajzolhatunk és távolságokat mérhetünk.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr29-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr29-fig1.jpg)

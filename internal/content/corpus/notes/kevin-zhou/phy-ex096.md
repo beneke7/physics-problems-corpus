@@ -22,7 +22,7 @@ archive_layer: reference_notes
 source_role: explanatory_example
 ---
 Example. The AC Stark shift. Consider a two-state atom driven off resonance,
-                                                   
+
                                  0       Ω cos(ωd t)
                     H=ℏ                               , ω1 − ωd = ∆.
                              Ω cos(ωd t)     ω1
@@ -33,7 +33,7 @@ interesting is that at second order, the perturbation shifts the oscillation fre
 states by an amount of order Ω2 /∆. This is a tiny amount, but can be significant because in practice
 we have very good frequency precision.
    To analyze this system we go into a frame “rotating with the drive”,
-                                                                        
+
                                         −iωd t|1⟩⟨1|            0   Ω/2
                              UT (t) = e              , HT = ℏ
                                                                Ω/2 ∆
@@ -52,12 +52,11 @@ Therefore, if we could construct an effective perturbation H1,eff such that
                                                   k
 then its first-order results would match the second-order results we’re looking for here. We have
                                                −Ω2 /4∆
-                                                               
+
                                                             0
                                    H1,eff = ℏ
                                                   0     Ω2 /4∆
 so the splitting is ℏΩ2 /2∆. Of course, this agrees with the exact result to O(Ω2 ).
-260 11. Time Dependent Perturbation Theory
 
 
 Next, we discuss a powerful general method to construct effective Hamiltonians.

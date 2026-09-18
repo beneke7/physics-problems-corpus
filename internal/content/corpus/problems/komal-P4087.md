@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200809"
 verification_status: pending
 ---
 
-Two satellites of equal mass revolve about the Earth. One of them is at a height of 1000 km and the other is at a height of 2000 km. 
- Which one has greater kinetic energy and by what factor is it greater than that of the other? 
+Two satellites of equal mass revolve about the Earth. One of them is at a height of 1000 km and the other is at a height of 2000 km.
+ Which one has greater kinetic energy and by what factor is it greater than that of the other?
  (4 pont)

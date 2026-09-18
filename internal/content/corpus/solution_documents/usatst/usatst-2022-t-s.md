@@ -35,16 +35,18 @@ AAPT UNITED STATES PHYSICS TEAM
                Reference table of possibly useful information
 
        g = 9.8 N/kg                             G = 6.67 × 10−11 N · m2 /kg2
-       k = 1/4π0 = 8.99 × 109 N · m2 /C2       km = µ0 /4π = 10−7 T · m/A
+       k = 1/4π 0 = 8.99 × 109 N · m2 /C2       km = µ0 /4π = 10−7 T · m/A
        c = 3.00 × 108 m/s                       kB = 1.38 × 10−23 J/K
        NA = 6.02 × 1023 (mol)−1                 R = NA kB = 8.31 J/(mol · K)
        σ = 5.67 × 10−8 J/(s · m2 · K4 )         e = 1.602 × 10−19 C
        1 eV = 1.602 × 10−19 J                   h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-       me = 9.109 × 10−31 kg = 0.511 MeV/c2     (1 + x)n ≈ 1 + nx for |x|  1
-       sin θ ≈ θ − θ3 /6 for |θ|  1            cos θ ≈ 1 − θ2 /2 for |θ|  1
+       me = 9.109 × 10−31 kg = 0.511 MeV/c2     (1 + x)n ≈ 1 + nx for |x|   1
+       sin θ ≈ θ − θ3 /6 for |θ|   1            cos θ ≈ 1 − θ2 /2 for |θ|   1
 
                        You may use this sheet throughout the exam.
-2022 Theoretical Exam                                                                                            2
+
+
+2022 Theoretical Exam                                                                                            2
 
 
 
@@ -74,7 +76,7 @@ The five parts of this question are unrelated.
                                                            2
       Per the problem statement, a 30◦ rotation reduces the intensity by 10%, so
                                      Iu        Iu                 Iu 3Ip
-                                             
+
                                  0.9    + Ip =    + Ip cos2 30◦ =   +    .
                                      2         2                  2   4
       Solving for Iu gives us Iu = 3Ip . Thus, we have
@@ -98,7 +100,9 @@ The five parts of this question are unrelated.
 
 
                         Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                           3
+
+
+2022 Theoretical Exam                                                                                           3
 
 
 
@@ -146,7 +150,9 @@ The five parts of this question are unrelated.
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                     4
+
+
+2022 Theoretical Exam                                                                                     4
 
 
 
@@ -198,11 +204,13 @@ The five parts of this question are unrelated.
                                                          c
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                    5
+
+
+2022 Theoretical Exam                                                                                    5
 
 
 
-     (Note that when Fred moves a distance d  L, the individual angles may be different, but the
+     (Note that when Fred moves a distance d   L, the individual angles may be different, but the
      difference between the angles is still 2θ by the small angle approximation.)
      These two frequencies must equal each other for Fred to hear zero beats, so
 
@@ -253,7 +261,9 @@ The five parts of this question are unrelated.
 
 
                      Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                       6
+
+
+2022 Theoretical Exam                                                                                       6
 
 
 
@@ -266,7 +276,7 @@ The five parts of this question are unrelated.
                             iα + 1        1 + |α|        1+α       1 + α2
 
      where φ = arctan                          = 2 arctan(ωRC). Then,
-                                          
+
                               2ωRC
                             1−ω 2 R2 C 2
 
@@ -303,18 +313,20 @@ The five parts of this question are unrelated.
      is the water level in the beaker. Then,
                                                              s
                                                                         Qt
-                                                                         
+
                                                     Fj = ρQ 2g H −         .
                                                                         A
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                   7
+
+
+2022 Theoretical Exam                                                                   7
 
 
 
      The total force is
-                                                   r                     
+                                                    r
                           F = Fj + W + P0 A = Qρ        2g       H−Q
                                                                    At   + gt + P0 A .
 
@@ -322,7 +334,9 @@ The five parts of this question are unrelated.
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                          8
+
+
+2022 Theoretical Exam                                                                                          8
 
 
 
@@ -378,7 +392,9 @@ The three parts of this question are unrelated.
 
 
                        Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                      9
+
+
+2022 Theoretical Exam                                                                                      9
 
 
 
@@ -426,7 +442,9 @@ The three parts of this question are unrelated.
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                     10
+
+
+2022 Theoretical Exam                                                                                     10
 
 
 
@@ -481,7 +499,9 @@ The three parts of this question are unrelated.
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                     11
+
+
+2022 Theoretical Exam                                                                                     11
 
 
 
@@ -536,7 +556,9 @@ The three parts of this question are unrelated.
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                  12
+
+
+2022 Theoretical Exam                                                                                  12
 
 
 
@@ -583,20 +605,22 @@ relativistic effects. The mass of the sun is M = 2.0 × 1030 kg, and the luminos
                                                    U =−            .
                                                               R
          The kinetic energy is
-                                               1                
+                                               1
                                            T =    M1 R12 + M2 R22 ω 2 .
                                                2
          After some algebra, which is rather similar to that used in part 3(b) below, we have
 
                                           1       M1 M2 2 GM    GM1 M2
-                                                           
+
                                       T =              R    3
                                                               =        .
                                           2        M      R      2R
 
 
                        Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                             13
+
+
+2022 Theoretical Exam                                                                                             13
 
 
 
@@ -630,7 +654,7 @@ relativistic effects. The mass of the sun is M = 2.0 × 1030 kg, and the luminos
    means you may drop numeric prefactors such as π.
 
       (a) The power radiated in gravitational waves by a system with moment of inertia I takes the form1
-                                                                    n 2
+                                                                     n  2
                                                              α β    d I
                                                    P = kG c
                                                                     dtn
@@ -655,7 +679,9 @@ relativistic effects. The mass of the sun is M = 2.0 × 1030 kg, and the luminos
 quadrupole moment. However, the two are close enough for the rough estimates in this problem.
 
                           Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                              14
+
+
+2022 Theoretical Exam                                                                              14
 
 
 
@@ -716,7 +742,9 @@ quadrupole moment. However, the two are close enough for the rough estimates in 
 
 
                       Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                       15
+
+
+2022 Theoretical Exam                                                                                       15
 
 
 
@@ -740,9 +768,9 @@ quadrupole moment. However, the two are close enough for the rough estimates in 
 
                                                    Solution
          Combining our results for 2(a) and 2(b), the energy as a function of angular frequency is
-                                                            1/3
+                                                             1/3
                                     1 GM1 M2           GM               1 GM1 M2 2/3
-                                                   
+
                                 E=−                                =−              ω .
                                     2 (GM )1/3         R3               2 (GM )1/3
 
@@ -775,7 +803,9 @@ quadrupole moment. However, the two are close enough for the rough estimates in 
 
 
                        Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                                                       16
+
+
+2022 Theoretical Exam                                                                                                                       16
 
 
 
@@ -817,7 +847,9 @@ quadrupole moment. However, the two are close enough for the rough estimates in 
 
 
                            Copyright ©2022 American Association of Physics Teachers
-2022 Theoretical Exam                                                                                     17
+
+
+2022 Theoretical Exam                                                                                     17
 
 
 
@@ -829,9 +861,9 @@ quadrupole moment. However, the two are close enough for the rough estimates in 
 
                                                         Solution
             Solving the result of part 4(a) for Mc and reexpressing the result in terms of fg gives
-                                                                               3/5
+                                                                                3/5
                                              c3            5             dfg
-                                                    
+
                                         Mc =                 8/3
                                                                  fg−11/3              .
                                              G          96 π              dt

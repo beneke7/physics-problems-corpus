@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [graphical-reduction, exploit-symmetry]
 ---
 
-The system shown in the figure is in equilibrium, the rope in the middle is horizontal. 
+The system shown in the figure is in equilibrium, the rope in the middle is horizontal.
 
- a)  On graph paper construct the forces with a ruler and a protractor to determine the tension exerted in the ropes and the value of the unknown angle $\vartheta$. 
- b)  Estimate the percentage error of the constructed quantities. 
+ a)  On graph paper construct the forces with a ruler and a protractor to determine the tension exerted in the ropes and the value of the unknown angle $\vartheta$.
+ b)  Estimate the percentage error of the constructed quantities.
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G882-fig1.png)
+![figure](../../figures/komal/figures/komal-G882-fig1.png)

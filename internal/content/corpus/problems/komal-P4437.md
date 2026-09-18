@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201204"
 verification_status: pending
 ---
 
-The two endpoints of an 8-m long weightless thread are fixed at the same height at a distance of 4 m. An object of mass 10 kg is hung onto the thread and can move frictionless. 
- a ) What is the magnitude of the horizontal force that must be exerted on the object to keep it at rest on the thread exactly below one of the endpoints of the thread? 
- b ) If the object is released from this position to what speed can it speed up? 
+The two endpoints of an 8-m long weightless thread are fixed at the same height at a distance of 4 m. An object of mass 10 kg is hung onto the thread and can move frictionless.
+ a ) What is the magnitude of the horizontal force that must be exerted on the object to keep it at rest on the thread exactly below one of the endpoints of the thread?
+ b ) If the object is released from this position to what speed can it speed up?
  (4 pont)

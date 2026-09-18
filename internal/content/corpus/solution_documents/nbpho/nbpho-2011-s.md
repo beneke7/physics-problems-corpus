@@ -19,16 +19,16 @@ this point is at rest). So, the velocity of the spool is u′ = Rω ,           
                                                                                                           − MR     2 cos α                           between the inter-plate space and the outside regions). By doing
                                                                                           µmin =                                                     so, we perform work d · δA · ∆p, and increase the capacitor’s en-
 where ω is the angular velocity. Consider triangle P OA, where A                                          J        Mg
-                                                                                                               
+
                                                                                                     1 + MR   2     F
                                                                                                                       − sin α                        ergy:
 is defined as the point where the loose end of the rope meets the
 inner part of the spool at the current moment of time, but which is iv) The angular moment of the spool with respect to the edge of                                                 Q2 d 1                   1
-                                                                                                                                                                                                                       
+
                                                                                                                                                                         2
                                                                                                                                                          δW = δ(Q /2C) =                         −                        .
 actually a point of the spool, i.e. it rolls together with the spool); the threshold conserves during the impact (since the impact force                                             2ε0 εA ε(A − δA) + δA
-O is the centre of the spool. Let us denote 6 P AO = β ; it is easy has zero arm):                        u                        v                So,
+O is the centre of the spool. Let us denote 6 P AO = β ; it is easy has zero arm):                        u                         v                So,
 to see that 6 AOP = π − α. The velocity ~vA of the point A                         M u(R − H) + J = J + M R2                           ⇒                                Q2 d(ε − 1) · δA       1
 is perpendicular to P A and, hence, forms angle β with the loose                                          R                         R                       δW =                           = ε0 E 2 d(ε − 1) · δA;
                                                                                                                  H/R
@@ -84,13 +84,13 @@ ii) (2 pts) The easiest way to solve this part is to use the energy             
 balance for infinitesimal displacement of the cylinder and apply
                                                                        outermost charges, however, have no electric field around them                Ṡ · 2π/ω = πr 2 ⇒ Ṡ = r 2 ω/2.
 the answer to the previous question:
-                                                                      (because outside the inter-plate space, there is no electric field).
+                                                                       (because outside the inter-plate space, there is no electric field).
                  M 2              J                             J                                                                                    4. Black box (10 points) There are several ways to perform this
-                                                  
+
 F u · dt = d        v 1+                   = M vdv 1 +                ⇒Due to the Gauss law, the electric field decreases linearly with the          task. First one can notice that if two capacitors discharge at the
                  2               M R2                        M R2      net charge left below the level of the current point (i.e. towards            same resistor, starting with equal voltages and ending also with
               dv               Fu             F cos α + Rr             the inter-plate space). Therefore, the electric field averaged over
-        a=        =                      =       ·            .                                                                                     equal voltages, the ratio of the discharge times equals to the ratio
+        a=        =                       =       ·            .                                                                                     equal voltages, the ratio of the discharge times equals to the ratio
               dt     M v 1 + MR     J
                                               M     1 +   J            the charges is just half of the maximal value E : hEi = 12 E , and
                                       2                 MR2                                                                                          of the capacitances (because for each given voltage, the discharge
@@ -102,9 +102,11 @@ force Ff = µmin N , where N = mg − F sin α is the normal                   T
                                                                                                                                          2
 force:                                                                 displacement of a plate: F · δd = δ(Q2 /2C) = 2εQ0 A δd =                     voltmeter (which has some finite resistance), measuring the time
 M a = F cos α + µmin N = F cos α + µmin (M g − F sin α). 12 C 2 E 2 d · δd ⇒ F = 12 ε0 AE 2 .                                                        t1 required for it to reach a pre-defined final voltage. Then we need
-to repeat the procedure with the other capacitor and measure the           straight line is tangent to the sinusoid. The length of a straight seg-   iii) Due to adiabatic law, pV γ = Const; when combined with
+
+
+to repeat the procedure with the other capacitor and measure the           straight line is tangent to the sinusoid. The length of a straight seg-   iii) Due to adiabatic law, pV γ = Const; when combined with
 time t2 and calculate
-                      C2 = C1 t2 /t1; the uncertainty is estimated       ment can be calculated as                                                 the gas law pV ∝ T we obtain pγ−1 ∝ T γ . During the last
+                       C2 = C1 t2 /t1 ; the uncertainty is estimated       ment can be calculated as                                                 the gas law pV ∝ T we obtain pγ−1 ∝ T γ . During the last
 as ∆C1 = C1 t1 + ∆t∆t1        2
                                 + ∆C 1
                                         .                                                   T1 = 2ξ0 /u = 2(µ1 − µ2 )N/ku;                           downwards motion of the piston, the pressure inside the cylinder
@@ -188,7 +190,9 @@ harmonic, i.e. the graph of x(t) is a segment of a sinusoid; when          ii) M
 there is no sliding, the block moves together with the plate, i.e. the     side the bulb is negligible as compared to the outside pressure.          therefore, if the “tail” of the given graph turns out to be expo-
 graph of x(t) is a straight line. At the moment when slipping starts       During such a cycle, a work equal to p0 V α is done. Therefore,           nential, we can presume the “tail” depicts the situation where the
 or stops, the oscillatory speed is equal to the speed of plate, i.e. the   A ≈ N p0 V α = p0 V | ln β|.                                              sensor is sensing the average temperature and the initial “bump”
-in the temperature distribution has evened out. Extrapolating the     but not too much: Tc is exponentially sensitive to the T -intercept
+
+
+in the temperature distribution has evened out. Extrapolating the     but not too much: Tc is exponentially sensitive to the T -intercept
 exponential to t = 0 we get the initial average temperature Tavg,0    of the straight line fitted to the “tail” (its crossing point with the
 (immediately after the Q has been dissipated into the sink) and,      T -axis) on the logarithmic plot. The bump has still not yet disap-
 by Q = C(Tavg,0 − Tamb ), the heat Q. The ambient temper-             peared completely enough.
@@ -248,7 +252,7 @@ and ∆T3 = 1.2 ◦ C. Their ratios are ∆T3 /∆T2 ≈ 0.522 and
 ∆T2 /∆T1 ≈ 0.523, a splendid match. This confirms the ex-
 ponential “tail”. As in every equal time interval the ∆T is mul-
 tiplied by the same number (that is the essence of exponentials),
-                                   t t−t
+                                     t t−t
                                         3
 
 Tc = ∆Tavg,0 = ∆T3 × ∆T          2

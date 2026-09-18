@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható két kör sugara $r$; a kék kör nyugalomban van, a sárga pedig az egyik metszéspont, az $O$ pont körül állandó $\omega$ szögsebességgel forog. Határozzuk meg a két kör másik metszéspontjának minimális és maximális, $v_{\text {min }}$, illetve $v_{\text {max }}$ sebességét.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr52-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr52-fig1.jpg)

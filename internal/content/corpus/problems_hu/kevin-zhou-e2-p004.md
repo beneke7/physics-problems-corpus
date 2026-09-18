@@ -26,7 +26,9 @@ Egy végtelen, z = 0 síkban fekvő, földelt vezető síkot az origó középpo
     dudorral deformálunk az ábrán látható módon. A q töltést a z = a pontba helyezzük, szintén az ábrán látható módon.
 
                                                         2
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
 

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-A spaceship is orbiting around the Earth. The distance between the spaceship and the surface of the Earth is the same as the radius of the Earth. Operating the rockets on the spaceship for a short time, the direction of the velocity of the spaceship is changed such that the angle between the actual radius drawn to the spaceship and the velocity is =150$^\circ$. The speed and the height of the spaceship above the Earth surface is unchanged. 
- a ) By what amount will the spaceship go further away from the surface of the Earth? 
- b ) Without altering again the path of the spaceship, at what speed would the spaceship hit the surface of the Earth? 
- (Neglect the effect of air and the rotation of the Earth.) 
+A spaceship is orbiting around the Earth. The distance between the spaceship and the surface of the Earth is the same as the radius of the Earth. Operating the rockets on the spaceship for a short time, the direction of the velocity of the spaceship is changed such that the angle between the actual radius drawn to the spaceship and the velocity is =150$^\circ$. The speed and the height of the spaceship above the Earth surface is unchanged.
+ a ) By what amount will the spaceship go further away from the surface of the Earth?
+ b ) Without altering again the path of the spaceship, at what speed would the spaceship hit the surface of the Earth?
+ (Neglect the effect of air and the rotation of the Earth.)
  (5 pont)

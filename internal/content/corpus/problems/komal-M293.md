@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-Measure how the resonant frequency of a plastic ruler (or some similar object), which is fixed at one of its ends, depends on the length of the ruler. 
+Measure how the resonant frequency of a plastic ruler (or some similar object), which is fixed at one of its ends, depends on the length of the ruler.
  (6 pont)

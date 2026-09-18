@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, cross-domain-analogy]
 ---
 
-In an experiment we can hear the humming sound of the iron core coil when 50 Hz AC current is given to it. What is the reason of the humming sound? What is the frequency of the humming sound? 
+In an experiment we can hear the humming sound of the iron core coil when 50 Hz AC current is given to it. What is the reason of the humming sound? What is the frequency of the humming sound?
  (3 pont)

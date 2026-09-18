@@ -52,7 +52,6 @@ Mivel a hullámfüggvénynek mindkét félgömbön egyértékűnek kell lennie, 
 Az elektromos és mágneses töltést egyaránt hordozó dionokra ennek egy kissé módosított változata
 
                                          q1 g2 − q2 g1 = 2πℏn.
-144 5. A kvantummechanika alapjai
 
 Ez a Dirac–Zwanziger-féle kvantálási feltétel.
    Ha egyetlen mágneses monopólus létezik, akkor azt látjuk, hogy a töltés kvantált! Fordított irányban
@@ -102,7 +101,6 @@ Megjegyzés. A hullámfüggvény viselkedésének van egy szép analógiája a f
                       ∂ρ                      ∂θ    mv 2        ℏ2 1 2 √
                          = −∇ · (ρv),     ℏ      =−      − qϕ +    √ ∇ ( ρ)
                       ∂t                      ∂t     2          2m ρ
-145 5. A kvantummechanika alapjai
 
 ahol a sebesség v = (ℏ∇θ − qA)/m. Az első egyenlet egyszerűen a kontinuitási egyenlet, a második
 pedig ismerős a hidrodinamikából, ha ℏθ-t „sebességpotenciálnak” tekintjük, a jobb oldalt pedig az
@@ -110,7 +108,7 @@ energia negatívjaként azonosítjuk. Így az energiához egy további „kvantu
 amely a folyadék összenyomásához szükséges energiaként értelmezhető.
    A második egyenlet valamivel szemléletesebbé válik, ha gradienst veszünk belőle:
                                                                       ℏ2
-                                                                                   
+
              ∂v      q            ∂A                                          1 2√
                  =       −∇ϕ −         − v × (∇ × v) − (v · ∇)v + ∇         √    ∇  ρ   .
              ∂t     m             ∂t                                  2m       ρ
@@ -155,7 +153,6 @@ Most a harmonikus oszcillátor modellrendszerét vizsgáljuk.
       Az 1/2 hozzáadása ezért lényegében kvantumos hatás. Mellékesen egy kellemes heurisztika a fenti
       kommutációs reláció használatához, hogy [a, f (a, a† )] = ∂f /∂a†, ahol a jobb oldal formális
       derivált, amely az a-k és a†-k sorozatára hat.
-146 5. A kvantummechanika alapjai
 
   • Megjegyezzük, hogy az N operátor pozitív, mivel
 
@@ -209,7 +206,6 @@ adódik. Az egyszerűsítéshez „átmozgatjuk a deriváltakat az exponenciáli
                                                    2           2
                                         (x − ∂x )ex /2 f = e−x /2 ∂x f
 azonosságot.
-147 5. A kvantummechanika alapjai
 
 Ezért
                                            1 (−1)n x2 /2 n −x2
@@ -238,7 +234,7 @@ Most a koherens állapotokra térünk át, amelyekkel a Heisenberg-képben a leg
                                                     dt           dt
     Ennek megoldása egyszerűen az óramutató járásával megegyező körmozgás a fázistérben, akárcsak
     klasszikusan:
-                                                           
+
                                      x̂(t)       cos t sin t    x̂0
                                             =                       .
                                      p̂(t)      − sin t cos t   p̂0
@@ -268,7 +264,6 @@ Most a koherens állapotokra térünk át, amelyekkel a Heisenberg-képben a leg
   • z és z kvantumos megfelelői az a és a†, amelyekre
 
                          ȧ = −ia,         ȧ† = ia† ,   a(t) = e−it a(0),    a† (t) = eit a† (0).
-148 5. A kvantummechanika alapjai
 
   • Koherens állapotnak nevezzük az olyat, amelyre
                                                        1
@@ -320,7 +315,6 @@ Most a koherens állapotokra térünk át, amelyekkel a Heisenberg-képben a leg
     és impulzustérbeli hullámfüggvények Gauss-függvények.
 
 Ezzel a felállással könnyű megmutatni a koherens állapotok néhány fontos tulajdonságát.
-149 5. A kvantummechanika alapjai
 
  • Heisenberg-képbeli eredményeinkből tudjuk, hogy az |a, b⟩ várható értékei klasszikusan fejlődnek.
    A szórások időbeli állandóságának megmutatásához célszerű az emelő- és süllyesztőoperátorokra
@@ -373,7 +367,6 @@ Ezzel a felállással könnyű megmutatni a koherens állapotok néhány fontos 
                        2π                   n!m!                    2π n!m!
    A fázisintegrál nulla, hacsak n = m nem teljesül. Ha n = m, a fázisintegrál 1, és a d|z|2 integrál
    szintén 1-et ad, ezzel megmutattuk az eredményt.
-150 5. A kvantummechanika alapjai
 
 A koherens állapotok további tulajdonságait az Optika című jegyzet tárgyalja.
 
@@ -393,7 +386,7 @@ kapjuk, ahol x0 (t) homogén megoldás. Heisenberg-képben ekkor
 ahol az â és â† operátorokat t = 0 időpontbeli Heisenberg-operátoroknak választjuk. Most azokra
 az időpontokra összpontosítunk, amelyek a gerjesztés befejezése után következnek. A lépcsőfüggvény
 egyszerűen 1, ezért a Fourier-transzformációt hullámvonalas jelöléssel megadva
-                                                                      
+
                                1          i                      i
                       x̂(t) = √     â + √ f˜(1) e−it + â† − √ f˜(−1) eit
                                 2          2                      2
@@ -427,7 +420,6 @@ hullámfüggvényeik soha nem terülnek szét. Ez a harmonikus oszcillátorra k�
 következménye, hogy frekvenciái egész számú távolságra vannak egymástól, így minden frekvenciakülönbség
 ℏω egész számú többszöröse. Általános potenciálokban, például a Coulomb-potenciálban koherens állapotok
 analógjainak megalkotása sokkal nehezebb.
-151 5. A kvantummechanika alapjai
 
 5.6     A WKB-közelítés
 Ebben a szakaszban bevezetjük a WKB-közelítést, és összekapcsoljuk a klasszikus mechanikával.
@@ -455,7 +447,7 @@ Ebben a szakaszban bevezetjük a WKB-közelítést, és összekapcsoljuk a klass
    is hasznos.
 
  • Kvantitatívabbá tételéhez a hullámfüggvény logaritmusát ℏ szerinti sorba írjuk:
-                                  
+
                            i
               ψ(x) = exp     W (x) , W (x) = W0 (x) + ℏW1 (x) + ℏ2 W2 (x) + . . . .
                            ℏ
@@ -480,7 +472,6 @@ Ebben a szakaszban bevezetjük a WKB-közelítést, és összekapcsoljuk a klass
       ami ekvivalens a következővel:
                                                ∇ · (A2 ∇S) = 0.
       Ezt amplitúdótranszport-egyenletnek nevezzük.
-152 5. A kvantummechanika alapjai
 
   • Eredményünk jelentésének megértéséhez definiáljunk sebességteret és sűrűséget:
                                           ∂H   p(x)
@@ -519,7 +510,7 @@ jelenti, hogy tömeggel rendelkező relativisztikus részecskéknél 1/γ arány
 Most egydimenziós problémákra specializálódunk.
 
   • Egydimenziós esetben legalacsonyabb rendben
-                                             2                                           
+                                               2
                               iS(x)/ℏ    1    dS                         d           2 dS
                  ψ(x) = A(x)e         ,             + V (x) = E,                 A              = 0.
                                         2m dx                           dx            dx
@@ -529,7 +520,6 @@ Most egydimenziós problémákra specializálódunk.
                            dx                                             p(x)
 
     Mivel S a p(x) integrálja, egyszerűen a klasszikus részecske pályája által bejárt fázistérterület.
-153 5. A kvantummechanika alapjai
 
  • Vegyük észre, hogy klasszikusan tiltott tartományokban S képzetessé válik, és az oszcillációt
    exponenciális lecsengéssé alakítja. Klasszikusan megengedett tartományokban S két előjelét úgy
@@ -558,7 +548,7 @@ Most levezetjük azokat a kapcsolati képleteket, amelyek a fordulópontokat kez
                                                       xr
 
     Ekkor az x < xr tartomány WKB-megoldása
-                                      1  iS(x)/ℏ+iπ/4                     
+                                      1   iS(x)/ℏ+iπ/4
                            ψI (x) = p     cr e         + cℓ e−iS(x)/ℏ−iπ/4
                                      p(x)
     ahol cr és cℓ a jobbra, illetve balra haladó hullámokat jelöli.
@@ -569,7 +559,7 @@ Most levezetjük azokat a kapcsolati képleteket, amelyek a fordulópontokat kez
                                                       xr
 
     hogy csak valós mennyiségekkel dolgozzunk. Ekkor az általános WKB-megoldás
-                                           1                               
+                                           1
                               ψII (x) = p          cg eK(x)/ℏ + cd e−K(x)/ℏ
                                           |p(x)|
     ahol a megoldások jobbra haladva rendre exponenciálisan nőnek és csökkennek.
@@ -580,13 +570,12 @@ Most levezetjük azokat a kapcsolati képleteket, amelyek a fordulópontokat kez
                                     −           + V ′ (xr )(x − xr )ψ = 0.
                                         2m dx2
     Dimenziótlanításhoz az z eltolással és skálázással definiált változóra térünk át:
-                                                        1/3
+                                                         1/3
                                                  ℏ2            d2 ψ
-                                          
+
                        x = xr + az, a =                      ,      − zψ = 0.
                                             2mV ′ (xr )        dz 2
     Ezt a differenciálegyenletet Airy-egyenletnek nevezzük.
-154 5. A kvantummechanika alapjai
 
  • Az Airy-egyenlet két független megoldása Ai(x) és Bi(x). Ezek egy homogén térben, például
    gravitációs vagy elektromos térben mozgó részecske Schrödinger-egyenletének egzakt megoldásai.
@@ -640,29 +629,28 @@ Most levezetjük azokat a kapcsolati képleteket, amelyek a fordulópontokat kez
                                      √ =         cd , √ =         cg .
                                     2 π        ℏ        π       ℏ
    Ezeket összekapcsolva a kapcsolati képletek
-                                                   
+
                                        cg      i −i      cr
                                            = 1 1            .
                                        cd      2   2     cℓ
 
  • A bal oldali klasszikusan tiltott tartomány elemzése nagyon hasonló. Bal oldalon
                                                                           Z x
-                              1                              
+                              1
                ψIII (x) = p           cg eK(x)/ℏ + cd e−K(x)/ℏ , K(x) =        |p(x′ )| dx′
                              |p(x)|                                         xℓ
 
    jobb oldalon pedig
                                                                                   Z x
-                           1  iS(x)−iπ/4                  
+                           1   iS(x)−iπ/4
                ψIV (x) = p     cr e       + cℓ e−iS(x)−iπ/4 ,            S(x) =         p(x′ ) dx′
                           p(x)                                                     xℓ
 
    ahol a fázistényezőket ismét kényelmi okokból választottuk. Ekkor
-                                         1 1  
+                                            1 1
                                        cg                cr
                                            = 2 2             .
                                        cd       −i i     cℓ
-155 5. A kvantummechanika alapjai
 
 Most néhány egyszerű problémára alkalmazzuk a kapcsolati képleteket.
 
@@ -717,7 +705,6 @@ Most néhány egyszerű problémára alkalmazzuk a kapcsolati képleteket.
                                          En =
                                                    2mL2
    ami az egzakt eredmény.
-156 5. A kvantummechanika alapjai
 
   • Végül periodikus peremfeltételeket is választhatunk, például amikor egy részecske gyűrűn mozog.
     Ekkor egyáltalán nincs fáziseltolás, és a kvantálási feltétel egyszerűen p dx = nh.
@@ -747,7 +734,6 @@ anyagi oszcillátorokat. Ha r és r − ∆r sugarú körpályákat tételezünk
 relációk ∆r = 2 a0 r-t adnak, amiből n ≫ 1 esetén r ∝ n2 következik. Ez ekvivalens az L = nℏ
 feltétellel. Bohr radikális lépése ezután az volt, hogy feltételezte: ezek az eredmények minden n-re
 érvényesek.
-157 6. Útintegrálok
 
 6      Útintegrálok
 6.1     Formalizmus

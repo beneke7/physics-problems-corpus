@@ -11,4 +11,4 @@ verification_status: pending
 
 P. 4247. Az ábra szerinti rögzített, $\alpha=30^\circ$-os hajlásszögű, súrlódásmentes lejtő egy adott pontja feletti $h$ magasságból $t_{1}$ idő alatt esik a lejtőre egy kisméretű test. A teljesen rugalmatlan ütközés után $t_{2}$ idő alatt tesz meg ugyanekkora $s=h$ távolságot a lejtőn. Mekkora a $t_{1}/t_{2}$ arány?
 
-![figure](../../raw_html/komal_figures/komal-P4247-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4247-fig1.gif)

@@ -33,7 +33,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
      (a) Mekkora lehet legfeljebb a teherautó induláskor fellépő gyorsulása, ha a deszka nem csúszhat meg és nem
 
                                                             5
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
           borulhat fel?

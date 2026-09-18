@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5559. Kis nyílásszögű, $R$ sugarú homorú és domború gömbtükröket az ábrán látható módon helyezünk el egymástól $1{,}25 R$ távolságra. 
+P. 5559. Kis nyílásszögű, $R$ sugarú homorú és domború gömbtükröket az ábrán látható módon helyezünk el egymástól $1{,}25 R$ távolságra.
 
  A közös optikai tengely mely $T$ pontjába helyezzünk egy pontszerű fényforrást, hogy a belőle induló fénysugarak a két tükörről való visszaverődés után a $T$ ponton menjenek át?
 
-![figure](../../raw_html/komal_figures/komal-P5559-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5559-fig1.gif)

@@ -43,7 +43,7 @@ E(r0) · 2πr0 = πr2
 ∆B
 ∆t
 r0.
-Ez az összefüggés a balkéz-szabály alapján vektoriálisan is felírható a C pontból a vizsgált pontba mutató r0 vektor
+Ez az összefüggés a  balkéz-szabály  alapján vektoriálisan is felírható a C pontból a vizsgált pontba mutató r0 vektor
 segítségével:
 E(r0) = −
 1
@@ -75,7 +75,7 @@ eB × r2
 E2
 ,
 Ebben az összegben az E1-gyel jelölt tag homogén, vízszintesen balra mutató elektromos mez®t, az E2-vel jelölt tag
-pedig a töltött henger tengelye (O pont) körül örvényl® mez®t jelent. Az indukált elektromos teret tehát felbontottuk
+pedig a töltött henger tengelye (O pont) körül  örvényl®  mez®t jelent. Az indukált elektromos teret tehát felbontottuk
 két mez® szuperpozí iójára, ahogy az a 7. ábrán látható.
 7. ábra
 Azt, hogy a töltött henger jobbra vagy balra indul el az dönti el, hogy a henger legalsó P pontjára vonatkoztatott
@@ -156,8 +156,8 @@ az elektromos er®tér által kifejtett er®. Hasonlóan, a forgó merev test ki
 (impulzusmomentuma) egy arányossági tényez®t®l eltekintve az eredeti feladatban szerepl® er®k P-re vonatkoztatott
 forgatónyomatékának felel meg. A kérdés tehát az, hogy milyen el®jel¶ a C pont körül negatív irányban forgó henger
 perdülete a P pontra vonatkoztatva.
-Egy merev test teljes perdülete a tömegközéppont körüli forgás sajátperdületéb®l és a tömegközéppontba kép-
-zelt, annak sebességével mozgó teljes anyagmennyiség pályaperdületéb®l tehet® össze. Esetünkben az O tömegközép-
+Egy merev test teljes perdülete a tömegközéppont körüli forgás  sajátperdületéb®l  és a tömegközéppontba kép-
+zelt, annak sebességével mozgó teljes anyagmennyiség  pályaperdületéb®l  tehet® össze. Esetünkben az O tömegközép-
 pont (balra mutató) sebessége vO = (R − r)ω nagyságú, a pályaperdület tehát +mr(R − r)ω, a sajátperdület pedig
 −(1/2)mr2
 ω. A P pontra vonatkoztatott teljes perdület tehát:
@@ -193,13 +193,13 @@ elnöke adta át.
 Els® díjat a versenybizottság nem adott ki.
 Az els® feladat hibátlan megoldásáért második díjat nyert Fajszi Bul sú, a Budapesti Fazekas Mihály Gyakorló
 Általános Iskola és Gimnázium 11. osztályos tanulója, Csefkó Zoltán és Horváth Gábor tanítványa.
-A második feladat lényegében helyes megoldásáért harmadik díjat nyert Hajdú Csanád, a BME 
+A második feladat lényegében helyes megoldásáért harmadik díjat nyert Hajdú Csanád, a BME
 zikus hallgatója,
 a budapesti Eötvös József Gimnázium érettségizett tanulója, Gulyás Erzsébet tanítványa, valamint Vavrik Márton,
-a BME 
+a BME
 zikus hallgatója, a budapesti Berzsenyi Dániel Gimnázium érettségizett tanulója, Lendvai Dorottya és Izsa
 Éva tanítványa.
-Az els® feladat helyes közelít® megoldásáért di séretben részesült Berke Martin, a BME 
+Az els® feladat helyes közelít® megoldásáért di séretben részesült Berke Martin, a BME
 zikus hallgatója, a Za-
 laegerszegi Zrínyi Miklós Gimnázium érettségizett tanulója, Bóbi s Lilla tanítványa.
 A második díjjal Zimányi Gergely adományából 50 ezer, a harmadik díjjal 30 ezer, a di sérettel 20 ezer forint

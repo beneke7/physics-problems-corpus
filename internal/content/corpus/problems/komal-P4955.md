@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-Two small balls of mass $m$ and of charge $Q$ are moving on the horizontal ground, and at a certain instant they are at a distance of $d$. At this instant their speeds are $v_0$, and the direction of their velocity vectors makes an angle of $\alpha$ with the direction of the line connecting the two balls, as shown in the figure. 
+Two small balls of mass $m$ and of charge $Q$ are moving on the horizontal ground, and at a certain instant they are at a distance of $d$. At this instant their speeds are $v_0$, and the direction of their velocity vectors makes an angle of $\alpha$ with the direction of the line connecting the two balls, as shown in the figure.
 
- $a)$ What is the least distance between the balls? 
- $b)$ What are their speeds at this moment? 
+ $a)$ What is the least distance between the balls?
+ $b)$ What are their speeds at this moment?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4955-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4955-fig1.gif)

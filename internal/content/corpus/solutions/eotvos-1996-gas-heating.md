@@ -23,7 +23,7 @@ mindenütt ugyanannyi. (A nehézségi er®térben szükségképpen fellép® fü
 erre utal, hogy a feladat szövegében szerepel a mindenütt egyenl® nyomás konkrét értéke.)
 A végállapot már nem egyensúlyi állapot. A nyomás ugyan most is ugyanannyi mindenütt az edényben, a h®mérsék-
 let azonban nem: lentr®l felfelé 270 K-t®l 330 K-ig n®. A beállt végállapotban szeren sére a h®mérséklet bármely helyen
-id®ben már nem változik. Az ilyen  nem egyensúlyi  állapotot nevezik sta ionárius állapotnak, amelyre azonban még
+id®ben már nem változik. Az ilyen   nem egyensúlyi   állapotot nevezik sta ionárius állapotnak, amelyre azonban még
 fennáll az egyensúlyi állapotra bevezetett
 E =
 f
@@ -35,7 +35,7 @@ pV = NkT
 Feltételezhetjük, hogy a sta ionárius végállapot is mintegy egyensúlyi állapotban lév® vízszintes rétegekb®l tev®dik
 össze. Egy-egy ilyen rétegen belül a h®mérséklet állandó; a magasabban lév® réteg h®mérséklete feladatunk esetében
 mindig nagyobb lesz.
-Elfogadható (plauzibilis) feltevésnek látszik, hogy a rétegek h®mérséklete a magasság lineáris függvénye. (Ez akkor
+Elfogadható ( plauzibilis ) feltevésnek látszik, hogy a rétegek h®mérséklete a magasság lineáris függvénye. (Ez akkor
 igaz, ha a gáz h®vezet®képessége nem függ a h®mérséklett®l. A tapasztalat szerint a vizsgált h®mérséklettartományban
 ez jó közelítéssel teljesül.) Ezt felhasználva válaszolhatunk az a) kérdésre.
 Hasonlítsunk össze két olyan (∆x vastagságú) réteget, amelyek az alap- és a fed®laptól egyenl® (x ≤
@@ -50,11 +50,11 @@ kTfent
 ∆Nlent =
 pA∆x
 kTlent
-
+
 Tfent > Tlent ⇒ ∆Nfent < ∆Nlent
 Az edény fele magasságában egyezik meg a h®mérséklet a kiindulási, egyensúlyi állapotbeli h®mérséklettel. Azt
 mondhatjuk, hogy az edény fels® felében a gáz felmelegedett, az alsóban leh¶lt. De az el®bb beláttuk, hogy a fels®
-rétegekben mindig kevesebb gázmolekula van, mint a megfelel® alsó rétegekben  így azt is mondhatjuk, hogy több
+rétegekben mindig kevesebb gázmolekula van, mint a megfelel® alsó rétegekben   így azt is mondhatjuk, hogy több
 gáz h¶lt el, mint amennyi felmelegedett!
 Így arra a következtetésre jutottunk, hogy az egész gáz bels® energiája sökkent. Mivel E =
 f
@@ -64,10 +64,10 @@ végállapotban is fennáll, a kisebb E-hez kisebb p-nek kell tartoznia (f és V
 sökkent.
 b) Be süljük meg, mennyivel tolódott el a gáz tömegközéppontja!
 A be slést úgy végezzük, hogy a gázt egyenl® vastagságú, vízszintes rétegekre osztjuk fel. Feltesszük, hogy egy-
-egy rétegen belül egyensúly van, a réteg h®mérséklete állandó. A felosztást 
+egy rétegen belül egyensúly van, a réteg h®mérséklete állandó. A felosztást
 nomítva kaphatunk egyre pontosabb
 be sléseket.
-Példaképpen nézzük az els®, durva be slést, amikor supán két rétegre osztjuk fel a hengert: legyen az edény alsó
+Példaképpen nézzük az els®, durva be slést, amikor supán két  rétegre  osztjuk fel a hengert: legyen az edény alsó
 felében 285 K, a fels® felében 315 K a h®mérséklet. A két rétegben lev® tömegek aránya:
 mfent
 mlent

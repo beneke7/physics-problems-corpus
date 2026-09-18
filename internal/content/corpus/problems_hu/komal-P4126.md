@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4126. Homogén tömegeloszlású tömör kockát elcsúsztatunk az asztal egyik szélétől a másikig. Legfeljebb mekkora a csúszási súrlódási tényező, ha kevesebb munkát végzünk, mint akkor, amikor az élei mentén lassan görgetjük át a kockát az asztal egyik szélétől a másikig? 
+P. 4126. Homogén tömegeloszlású tömör kockát elcsúsztatunk az asztal egyik szélétől a másikig. Legfeljebb mekkora a csúszási súrlódási tényező, ha kevesebb munkát végzünk, mint akkor, amikor az élei mentén lassan görgetjük át a kockát az asztal egyik szélétől a másikig?
  Bay Zoltán fizikaverseny, Sarkad

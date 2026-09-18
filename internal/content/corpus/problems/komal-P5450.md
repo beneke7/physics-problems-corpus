@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, auxiliary-unknowns, smart-coordinates]
 ---
 
-On the principal axis of a converging lens of focal length $f=5$ cm, there are (point-like) fireflies, which begin to move towards each other at a speed of 2 cm/s. Initially one is 30 cm to the right and the other is 18 cm to the left of the lens. How much time elapses until their images overlap? 
+On the principal axis of a converging lens of focal length $f=5$ cm, there are (point-like) fireflies, which begin to move towards each other at a speed of 2 cm/s. Initially one is 30 cm to the right and the other is 18 cm to the left of the lens. How much time elapses until their images overlap?
  (4 pont)

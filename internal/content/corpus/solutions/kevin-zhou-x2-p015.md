@@ -41,11 +41,11 @@ detected, and quarks are locked inside protons and neutrons. Muons are unstable 
 few microseconds, and pions and intermediate vector bosons decay even more quickly.
 Olympiad questions about particle colliders boil down to questions from E4, E7, and R2, so they
 should be fairly straightforward if you know the principles.
-[3] Problem 17.  ^ 1 0USAPhO 2024, problem B1. Analyzing the collision rate in a muon collider
+[3] Problem 17.   ^ 1 0USAPhO 2024, problem B1. Analyzing the collision rate in a muon collider
 using relativistic kinematics and dynamics.
-[5] Problem 18.  h 1 0IPhO 2016, problem 3. This problem is about the physics of the LHC. Record
+[5] Problem 18.   h 1 0IPhO 2016, problem 3. This problem is about the physics of the LHC. Record
 your answers on the official answer sheet.
-[5] Problem 19.  h 1 0IPhO 2018, problem 2. This problem covers LHC data analysis in more depth.
+[5] Problem 19.   h 1 0IPhO 2018, problem 2. This problem covers LHC data analysis in more depth.
 11
 Kevin Zhou Physics Olympiad Handouts
 Remark

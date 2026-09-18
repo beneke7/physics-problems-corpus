@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, graphical-reduction]
 ---
 
-Two large, vertical and parallel plane mirrors are facing opposite to each other at a distance of 1 m. If you stand exactly midway between the mirrors outstretching your hand sideways, and observe the image of your palm reflected in one of the mirrors, you see quite a lot of images. What are the distances between the images of your palm ? 
+Two large, vertical and parallel plane mirrors are facing opposite to each other at a distance of 1 m. If you stand exactly midway between the mirrors outstretching your hand sideways, and observe the image of your palm reflected in one of the mirrors, you see quite a lot of images. What are the distances between the images of your palm ?
  (3 pont)

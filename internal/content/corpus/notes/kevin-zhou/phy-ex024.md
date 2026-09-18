@@ -25,7 +25,7 @@ source_role: explanatory_example
 Example. We can do more complicated variants of these tricks for a general current distribution,
 
                                          Ji (r′ ) Ji (r′ )(r · r′ )
-                                Z                                       
+                                Z
                              µ0      ′
                     Ai (r) =      dr             +                  + ... .
                              4π             r            r3
@@ -42,7 +42,7 @@ To simplify the second term, note that
                                         ∂j (Jj ri rk ) = Ji rk + Jk ri .
 
 We can thus use this to ‘antisymmetrize’ the integrand,
-                   Z               Z                          Z           
+                   Z               Z                           Z
                          ′      ′     ′ rj    ′      ′      r     ′      ′
                       dr Ji rj rj = dr (Ji rj − Jj ri ) =     × dr J × r
                                         2                   2               i
@@ -58,6 +58,5 @@ which is equivalent to our earlier result by the vector identity
                                          1
                                               r × ds = dS.
                                          2
-34 2. Electromagnetism
 
 

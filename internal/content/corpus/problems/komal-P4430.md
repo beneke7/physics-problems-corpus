@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201203"
 verification_status: pending
 ---
 
-In the circuit shown, R =1 k , C =10 mF. What is the terminal voltage of the battery if the condenser stores 4,5 J energy after it was charged? 
+In the circuit shown, R =1 k , C =10 mF. What is the terminal voltage of the battery if the condenser stores 4,5 J energy after it was charged?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4430-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4430-fig1.gif)

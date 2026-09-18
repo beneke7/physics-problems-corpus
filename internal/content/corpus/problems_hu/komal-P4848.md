@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4848. Egy hosszú lejtőn súrlódásmentesen mozoghat egy kiskocsi. A kocsit meglökjük a lejtésvonallal párhuzamosan valamekkora sebességgel, majd valamennyi idővel később hirtelen megállítjuk. Legfeljebb mennyi ideig tartott a kiskocsi mozgása, ha az utolsó másodpercben éppen feleakkora utat tett meg, mint a mozgásának teljes időtartama alatt? 
+P. 4848. Egy hosszú lejtőn súrlódásmentesen mozoghat egy kiskocsi. A kocsit meglökjük a lejtésvonallal párhuzamosan valamekkora sebességgel, majd valamennyi idővel később hirtelen megállítjuk. Legfeljebb mennyi ideig tartott a kiskocsi mozgása, ha az utolsó másodpercben éppen feleakkora utat tett meg, mint a mozgásának teljes időtartama alatt?
  Példatári feladat nyomán

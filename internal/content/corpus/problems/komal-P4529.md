@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: pending
 ---
 
-The colour of coffee in a mug is black, but its foam is either white or cream-coloured. Why? 
+The colour of coffee in a mug is black, but its foam is either white or cream-coloured. Why?
  (3 pont)

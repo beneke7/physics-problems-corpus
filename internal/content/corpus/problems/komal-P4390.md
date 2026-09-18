@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201111"
 verification_status: pending
 ---
 
-The wavelength of one of the spectral lines of a star is 591.26 nm, the corresponding wavelength in the laboratory is 592.00 nm. 
- a ) Is the star moving towards us or away from us? 
- b ) What is the rate of change of the distance of the star measured from us? 
+The wavelength of one of the spectral lines of a star is 591.26 nm, the corresponding wavelength in the laboratory is 592.00 nm.
+ a ) Is the star moving towards us or away from us?
+ b ) What is the rate of change of the distance of the star measured from us?
  (4 pont)

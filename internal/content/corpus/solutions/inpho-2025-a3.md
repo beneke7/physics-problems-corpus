@@ -92,10 +92,10 @@ VX
 6
 Thus, the angle the tangent makes with the volume axis, θ, is:
 θ = arctan
-
+
 2.8
 6
-
+
 ≈ 25◦
 To draw the axes:
 1. Draw a tangent line to the curve at point X.

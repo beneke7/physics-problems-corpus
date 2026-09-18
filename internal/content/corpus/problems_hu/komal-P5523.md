@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5523. Egy szabályos hatszög alapterületű szoba három szomszédos falát síktükör borítja. A szoba közepén világít egy lámpa. Hány képe keletkezik a lámpának? 
+P. 5523. Egy szabályos hatszög alapterületű szoba három szomszédos falát síktükör borítja. A szoba közepén világít egy lámpa. Hány képe keletkezik a lámpának?
 
  Példatári feladat nyomán
 
-![figure](../../raw_html/komal_figures/komal-P5523-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5523-fig1.gif)

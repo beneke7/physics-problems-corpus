@@ -26,7 +26,7 @@ techniques: [choose-reference-frame, smart-coordinates]
 B1. (40) Two sirens located on the $x$-avis are separated by a certain distance $D$. As heard by an observer at rest, $f_{1}$ denotes the frequency emitted by the left-hand siren, and $f_{\mathrm{R}}$ denotes the frequency emitted by the right-hand siren. You are moving with constant velocity at speed ", along the $x$-axis, and record the following observations:
 
 When you are on the right side of both sirens, you hear a beat frequency of 1.01 Hz . When you are on the left of both sirens. you hear a beat frequency of 0.99 Hz . When you are befween the sirens, the beat frequency is cero.
-![](usapho-1998-b1-fig01.png)
+![](../../figures/usapho/figures/usapho-1998-b1-fig01.png)
 (3.5) Determine in which direction you are moving along the $x$-axis.
 (b. 10) Evaluate your speed $v_{\mathrm{u}}$ as a fraction of the speed of sound.
 (c. 5) Determine which frequency is greater, $f_{\mathrm{L}}$ or $f_{\mathrm{R}}$.

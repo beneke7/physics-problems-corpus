@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy széles folyón két csónak állandó sebességgel mozog. Az ábrán látható folyórész egész területén a víz sebessége állandó és párhuzamos a partvonallal. Az ábra egy levegőből, közvetlenül lefelé néző fényképezőgéppel készült fényképen alapul. A csónakok helyzetét négyzettel és háromszöggel, a csónakokból kihullott tárgyak helyét ötágú csillaggal jelöltük. Az egyik csónak az A pontból indult; tudjuk, hogy a csónakok egy adott pillanatban találkoztak. A part melyik pontjáról indult a másik csónak? Oldjuk meg a feladatot geometriai szerkesztéssel.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr56-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr56-fig1.jpg)

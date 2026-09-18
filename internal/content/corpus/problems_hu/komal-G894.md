@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 894. Egy $a$ oldalú, homogén tömegeloszlású, szabályos hatszög alakú lemezből az ábra szerint kivágunk három darab, $a$ oldalú, szabályos háromszög alakú részt, majd a kivágott három darabot az egyik maradék háromszögre tesszük. Hol van az így kapott idom tömegközéppontja?
 
-![figure](../../raw_html/komal_figures/komal-G894-fig1.png)
+![figure](../../figures/komal/figures/komal-G894-fig1.png)

@@ -55,7 +55,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                        3
-Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
+
+
+Kevin Zhou                                                               Fizikaolimpiai feladatgyűjtemény
 
 
   Megoldás
@@ -91,7 +93,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   Most térjünk át a kocsival együtt mozgó vonatkoztatási rendszerbe. Amikor a második ember leugrik, egy hasonló
   megfontolás alapján további v2 = mu/(M + m) sebességet ad át a kocsinak. A lapos kocsi talajhoz viszonyított
   végsebessége ekkor
-                                                                
+
                                                      1         1
                              v = v1 + v2 = mu               +      .
                                                    M + 2m M + m
@@ -104,7 +106,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                      4
-    Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
+
+
+    Kevin Zhou                                                              Fizikaolimpiai feladatgyűjtemény
 
 
 
@@ -125,7 +129,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                             i=1
 
        Ez integrállá alakítható, ha x = i/N , ekkor ∆x = 1/N, és
-                                              Z 1                                 
+                                              Z 1
                        X          mtot u                mtot u           M + mtot
                    v=      ∆x              ≈      dx             = log               u.
                                M + xmtot       0     M + xmtot               M

@@ -39,8 +39,8 @@ for example 0.2 mm), those should be added on top of the standard deviation of t
    For error propagation through equations, Pythagoran rule for adding errors in quadrature is used (alternatively, one could
 use min-max but for lower accuracy). In general, when you have a variable y be a function of variables xi , i ∈ {1, . . . N } with
 errors ∆xi , then the error of y is given by                v
-                                                            uN 
-                                                            uX ∂y 2
+                                                            uN
+                                                            uX ∂y  2
                                                        ∆y = t          ∆x2i .
                                                               i=1
                                                                   ∂x i
@@ -61,7 +61,9 @@ Penalising errors and accuracy
 
 
                                                             — page 1 of 5 —
-                          PROBLEM E1
+
+
+                          PROBLEM E1
                                                                                                  GPhO
                                                                                                  Dammam 2022
 
@@ -125,7 +127,9 @@ ray that barely touches the edge of the magnet,         (0.4 pts) the length of 
 and make markings where the ray enters and exits the cylin- merged lw , when it’s not la and finally when it’s at rest (cylin-
 der. This works, because the markings define a chord whose           der isn’t attached), l0 .                                 (0.3 pts)
                                                           — page 2 of 5 —
-                            PROBLEM E1
+
+
+                            PROBLEM E1
                                                                                                    GPhO
                                                                                                    Dammam 2022
 
@@ -149,7 +153,7 @@ ating uncertainties isn’t necessary) and get l0 = 135 mm,
 la = 303 mm, lw = 185 mm.                                     (0.6 pts)               Figure 2: Detailed optics of the cylinder
 Thus, we calculate τ (la /l0 ) = 0.556, τ (lw /l0 ) = 0.232 and so
 ρcyl = 1720 kg/m3 .                                                                  Carrying out the method or idea correctly (0.25 pts)
-                                                                            From the figure, we work out from Snell’s law that sin α =
+                                                                              From the figure, we work out from Snell’s law that sin α =
                value within 1620 kg/m3 , 1820 kg/m3 (0.3 pts)
                                                                            no sin β, but from right triangles sin β = r/R and sin α = r′ /R.
 2. (0.5 pts) The total mass of the cylinder is simply found as             Hence, no = r′ /r = d′ /d.
@@ -172,7 +176,7 @@ Thus, glass’ density is                                                    Ave
                         HR2 − hr2                                          and so no = 1.54 with an associated error of ∆no = 0.09.
 
                                              formula (0.1 pts)                                              value within [1.50, 1.58] (0.25 pts)
-                                                  
+
                value within 1130 kg/m3 , 1430 kg/m3 (0.2 pts)                                                                 error (0.25 pts)
                                                                            2. (1.5 pts) Constructing the optical system described in the
 Part C. Optical properties (5 points)
@@ -194,7 +198,9 @@ is the apparent radius of the magnet when the cylinder is ob-
 served from far away. In practice, one could measure the ap-
 parent diameter d′ = 2r′ using a caliper and a marker.                     Averaging, we find L = 62.1 mm with an error of ∆L = 0.5 mm.
                                                                  — page 3 of 5 —
-                           PROBLEM E1
+
+
+                           PROBLEM E1
                                                                                                    GPhO
                                                                                                    Dammam 2022
 
@@ -203,7 +209,7 @@ parent diameter d′ = 2r′ using a caliper and a marker.                     A
                                                   Error (0.5 pts) the contribution from the magnetic field. This corresponds to
                                                                        subtracting V1 due to the orientation of the sensor. Finally, we
 3. (1 pt) Starting from the formula
-                                                                   divide by a to get the magnetic field, i.e. Bx (x) = (V − V1 )/a.
+                                                                       divide by a to get the magnetic field, i.e. Bx (x) = (V − V1 )/a.
               1       no − 1      nc d                                 The tabulated data is given below.
                    −                    − D = no ,
            L−D          D       nc − no
@@ -266,7 +272,9 @@ voltage was not 3.00 V, 0.2 point will be subtracted.                  20% plus 
 full measurement range, from the end of the ruler at 30 cm up          ings by 0.5.
 to when voltage reaches 300 mV. To convert to magnetic field,
                                                              — page 4 of 5 —
-                             PROBLEM E1
+
+
+                             PROBLEM E1
                                                                                   GPhO
                                                                                   Dammam 2022
 

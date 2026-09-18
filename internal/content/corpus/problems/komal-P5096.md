@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction, limiting-and-special-cases]
 ---
 
-A small, luminous, circular sheet of radius 2 mm is at a distance of 10 cm from the centre of a uniform, solid glass sphere of radius 4 cm. The plane of the circular sheet is perpendicular to the optical axis, i.e. to the line connecting the centres of the sphere and the circular sheet. Where is the image of the circular sheet formed by the glass sphere and what is the size of the image? (The refractive index of glass is 1.5, and only the rays which are nearly parallel to the optical axis play a role in the image formation.) 
+A small, luminous, circular sheet of radius 2 mm is at a distance of 10 cm from the centre of a uniform, solid glass sphere of radius 4 cm. The plane of the circular sheet is perpendicular to the optical axis, i.e. to the line connecting the centres of the sphere and the circular sheet. Where is the image of the circular sheet formed by the glass sphere and what is the size of the image? (The refractive index of glass is 1.5, and only the rays which are nearly parallel to the optical axis play a role in the image formation.)
  (5 pont)

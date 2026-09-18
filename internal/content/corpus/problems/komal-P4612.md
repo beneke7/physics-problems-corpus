@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns]
 ---
 
-An object, which is at a distance of 30 cm from us, is observed through a lens. When the lens is close either to us or to the object then the object seems to have its original size, but when the lens is in between these two positions the object appears bigger. 
- a ) Where is the lens when the object appears the greatest? 
- b ) What is the focal length of the lens, if when the object appears the greatest, its observed size is twice as big as its original size? 
+An object, which is at a distance of 30 cm from us, is observed through a lens. When the lens is close either to us or to the object then the object seems to have its original size, but when the lens is in between these two positions the object appears bigger.
+ a ) Where is the lens when the object appears the greatest?
+ b ) What is the focal length of the lens, if when the object appears the greatest, its observed size is twice as big as its original size?
  (5 pont)

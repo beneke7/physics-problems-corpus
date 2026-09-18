@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry]
 ---
 
-From a circular plate of radius $R=2r$, which has uniform mass distribution, another circular plate of radius $r$ was cut off along the diameter $AOB$ as shown in the figure . This smaller plate was laid on the bigger one on the other side of the diameter $AOB$. Where is the centre of mass of the resulting object? 
+From a circular plate of radius $R=2r$, which has uniform mass distribution, another circular plate of radius $r$ was cut off along the diameter $AOB$ as shown in the figure . This smaller plate was laid on the bigger one on the other side of the diameter $AOB$. Where is the centre of mass of the resulting object?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G859-fig1.png)
+![figure](../../figures/komal/figures/komal-G859-fig1.png)

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4147. Amikor befűtünk a kályhába egy hideg szobában, megváltozik-e a szoba levegőjének energiája? 
+P. 4147. Amikor befűtünk a kályhába egy hideg szobában, megváltozik-e a szoba levegőjének energiája?
  Ryogo Kubo (1920-1995) feladata

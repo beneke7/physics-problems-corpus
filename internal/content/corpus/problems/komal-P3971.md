@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-In 1611, before the law of refraction was discovered by Snell, Kepler published the book Dioptrice in which he describes his investigation about the refraction of light entering from air into a rock-crystal. He found that the angle between the extension of the incident ray and the refracted ray is proportional to the angle of incidence : , where k is a constant (in case of the rock crystal ). 
- a ) Verify Kepler's formula for small angles. 
- b ) Aim a beam of monochromatic light to a rock crystal prism the apex angle of which is small, such that the beam is nearly perpendicular to the surface of the prism. Using Kepler's formula determine the angle between the incident ray and the ray which leaves the prism. 
+In 1611, before the law of refraction was discovered by Snell, Kepler published the book Dioptrice in which he describes his investigation about the refraction of light entering from air into a rock-crystal. He found that the angle between the extension of the incident ray and the refracted ray is proportional to the angle of incidence : , where k is a constant (in case of the rock crystal ).
+ a ) Verify Kepler's formula for small angles.
+ b ) Aim a beam of monochromatic light to a rock crystal prism the apex angle of which is small, such that the beam is nearly perpendicular to the surface of the prism. Using Kepler's formula determine the angle between the incident ray and the ray which leaves the prism.
  (5 pont)

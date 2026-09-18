@@ -31,7 +31,6 @@ amellyel örvényesség keletkezik a gömb felületén. Az örvények akkor vál
 túl gyors ahhoz, hogy egyszerűen diffundálódjanak.) Re ∼ 104 esetén az áramlás kaotikussá válik,
 és turbulens nyom keletkezik a gömb mögött. Re ∼ 105 esetén „ellenállási válság” lép fel: a
 légellenállási együttható hirtelen lecsökken, a turbulens áramlás pedig ismét a gömbhöz tapad.
-122 5. A kvantummechanika alapjai
 
 5      A kvantummechanika alapjai
 5.1     Fizikai posztulátumok

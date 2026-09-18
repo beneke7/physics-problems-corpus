@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-A heating element is built into a boiler of 10 liters. The element has such a small power that it is unable to heat the water to its boiling point. After heating the water totally, during the first minute after ceasing the heating the temperature of the water decreases by $1~{}^\circ$C. What is the power rating of the heating element if the water equivalent of the calorimeter is 3 kg? 
+A heating element is built into a boiler of 10 liters. The element has such a small power that it is unable to heat the water to its boiling point. After heating the water totally, during the first minute after ceasing the heating the temperature of the water decreases by $1~{}^\circ$C. What is the power rating of the heating element if the water equivalent of the calorimeter is 3 kg?
  (4 pont)

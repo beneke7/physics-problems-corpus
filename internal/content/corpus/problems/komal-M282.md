@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200711"
 verification_status: pending
 ---
 
-By means of a compass measure the magnetic induction of a bar magnet as a function of the distance r measured from the centre of the magnet. The measurements should be carried out along two lines: 
- a ) the longitudinal axis of the bar magnet; 
- b ) perpendicularly to the longitudinal axis. 
- You may use that the horizontal component of the magnetic induction of the Earth is 2$^{.}$10$^{-5}$ T. 
+By means of a compass measure the magnetic induction of a bar magnet as a function of the distance r measured from the centre of the magnet. The measurements should be carried out along two lines:
+ a ) the longitudinal axis of the bar magnet;
+ b ) perpendicularly to the longitudinal axis.
+ You may use that the horizontal component of the magnetic induction of the Earth is 2$^{.}$10$^{-5}$ T.
  (6 pont)

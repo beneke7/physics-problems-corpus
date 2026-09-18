@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202305"
 verification_status: pending
 ---
 
-There is a 100-forint coin, initially at rest, on a horizontal tabletop. Send another 100-forint coin to slide along the tabletop such that it undergoes head on collision with the stationary one. Measure the distances covered by the two coins after the collision until they stop. From the measured data determine the coefficient of restitution which is a number to characterise the inelasticity of the collision. Does the coefficient of restitution depend on the relative velocity of the colliding objects? 
+There is a 100-forint coin, initially at rest, on a horizontal tabletop. Send another 100-forint coin to slide along the tabletop such that it undergoes head on collision with the stationary one. Measure the distances covered by the two coins after the collision until they stop. From the measured data determine the coefficient of restitution which is a number to characterise the inelasticity of the collision. Does the coefficient of restitution depend on the relative velocity of the colliding objects?
  (6 pont)

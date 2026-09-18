@@ -74,7 +74,9 @@ The image in figure 4.1 presents the situation before the first scattering of ph
 
 
 Atomics – Problem IV - Solution                                                         Page 1 from 6
-IPhO 1983                                              Theoretical Question IV
+
+
+IPhO 1983                                              Theoretical Question IV
 
 
 
@@ -115,7 +117,9 @@ De Broglie wavelength of the first electron is
 
 
 Atomics – Problem IV - Solution                                                        Page 2 from 6
-IPhO 1983                                              Theoretical Question IV
+
+
+IPhO 1983                                              Theoretical Question IV
 
 
         h       h⋅
@@ -176,7 +180,9 @@ or
 
 
 Atomics – Problem IV - Solution                                                         Page 3 from 6
-IPhO 1983                                                                       Theoretical Question IV
+
+
+IPhO 1983                                                                       Theoretical Question IV
 
 
 
@@ -234,7 +240,9 @@ the first collision.
 
 
 Atomics – Problem IV - Solution                                                                             Page 4 from 6
-IPhO 1983                                                                                        Theoretical Question IV
+
+
+IPhO 1983                                                                                        Theoretical Question IV
 
 
 The figure 4.3 presents the situation before the second collision and the figure 4.4 presents the
@@ -301,7 +309,9 @@ That is
 
 
 Atomics – Problem IV - Solution                                                                                              Page 5 from 6
-IPhO 1983                                                  Theoretical Question IV
+
+
+IPhO 1983                                                  Theoretical Question IV
 
 
 Because the value of λf is know and Λ can be calculate as

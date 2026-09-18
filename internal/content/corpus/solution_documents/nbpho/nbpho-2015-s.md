@@ -112,7 +112,9 @@ energy and an infinite wavelength.                    of the lens arrives. The t
                                                                                                        first gear. At the same car’s speed, the en-
 i) Let N = 0, 1, . . . number the zones (both          c     2   + f 2 − f ≈ 7.9 × 10−9 s.             gine’s speed is (14 : 1) : (7 : 1) = 2 times bigger        For finding the period, we can get the ma-
 opaque and transparent). The optical path                                                                                                                     jor semi-axis from the expression for orbit’s
-                            2
+
+
+                            2
                             mv  GMm
 total energy − GMm
                                                                                                                                     p
@@ -205,7 +207,9 @@ meter.                                             is a free-falling point, and 
                                                                                                                                               , where ~
                                                                                                                                                       a
                                                                                                                                   4πa2
-energy decreases and our constant current             the bottom of “U” shape and then we can              If the volume would have been fixed                         get n n ≈ 0.0987 m−1 × h + 0.004 71 m−1 × h ≈
+
+
+energy decreases and our constant current             the bottom of “U” shape and then we can              If the volume would have been fixed                         get n n ≈ 0.0987 m−1 × h + 0.004 71 m−1 × h ≈
 source dissipates some energy (because our            measure the pressure difference from differ-     we would get the vapour pressure directly                       0.1034 m−1 × h.
 electomotive forces work against it). In total,       ences of depth ∆ p = ρ g∆ h. After we attach     from the manometer reading as according to                          Since all the molar increase is due to the
 the applied mechanical power Fv = ddExm v +           a bottle to one end, we should let the pres-     Dalton’s law. But since the diameter of the                     vapour, we can get the vapour pressure (par-

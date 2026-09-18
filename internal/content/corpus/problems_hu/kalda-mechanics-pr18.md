@@ -20,4 +20,4 @@ verification_status: pending
 
 Vizsgáljuk meg, hogy egy vasérc-előfordulás milyen mértékben befolyásolhatja a vízszintet. Tekintsünk az óceán fenekén, $h=2 \mathrm{~km}$ mélységben lévő vasérc-lelőhelyet. Egyszerűsítésként tegyük fel, hogy gömb alakú, sugara 1 km, és sűrűsége a környező kőzeténél $\Delta \rho=1000 \mathrm{~kg} / \mathrm{m}^{3}$-rel nagyobb. Tételezzük fel, hogy a gömb a tetejével érinti az óceán fenekét, vagyis középpontja $r+h$ mélységben van. Mennyivel tér el a vasérc fölött közvetlenül mért vízszint az átlagos vízszinttől?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr18-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr18-fig1.jpg)

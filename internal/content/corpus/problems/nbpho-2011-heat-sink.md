@@ -29,7 +29,7 @@ Consider a heat sink in the form of a copper plate of a constant thickness (much
 
 **ii) (4 pts)** Now, the electronic component has been switched off for a long time; at the moment $t = 0$, a certain amount of heat $Q$ is dissipated at it during a very short time. In the Figure and Table, the temperature is given as a function of time, as recorded by the sensor. Determine the dissipated heat amount $Q$.
 
-![figure](../../sources/nbpho/figures/nbpho-2011-fig4.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2011-fig4.jpg)
 
 | $t \, (\text{s})$ | 0 | 20 | 30 | 100 | 200 | 300 |
 | --- | --- | --- | --- | --- | --- | --- |

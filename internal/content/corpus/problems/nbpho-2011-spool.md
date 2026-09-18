@@ -25,7 +25,7 @@ techniques: [choose-reference-frame, conservation-laws, smart-coordinates]
 
 A spool with inner radius $r$ and outer radius $R$ lies on a horizontal table; the axis of the spool is horizontal. A weightless rope is wound around the inner part as shown in the picture. The loose end of the rope makes an angle $\alpha$ with the horizontal (the angle $\alpha$ can be also negative). The moment of inertia of the spool is $J$ and mass $M$. In what follows you may assume that the spool rolls on the table without slipping.
 
-![figure](../../sources/nbpho/figures/nbpho-2011-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2011-fig1.jpg)
 
 **i) (2 pts)** We pull the loose end of the rope with velocity $u$ (parallel to the loose part of the rope; that loose part can be thought to be very long). What is the velocity of the spool?
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-Radio waves are sent from the equator to a geostationary satellite, which can always be seen above our head. How long does it take the radio waves to reach the satellite, and what is the displacement of the satellite during this time? 
+Radio waves are sent from the equator to a geostationary satellite, which can always be seen above our head. How long does it take the radio waves to reach the satellite, and what is the displacement of the satellite during this time?
  (4 pont)

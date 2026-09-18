@@ -31,7 +31,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
    A szokásos módon dolgozhatunk c = 1 egységrendszerben.
 
                                                        6
-    Kevin Zhou                                                                 Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                 Physics Olympiad Handouts
 
 
       (a) Mit következtethetünk Maxwell-egyenletekből E0 és B0, valamint k és ω kapcsolatára?

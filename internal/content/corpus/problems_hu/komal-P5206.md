@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5206. Határozzuk meg az uránból két $\alpha$-átalakulás és két $\beta$-bomlás eredményeként keletkező ionium tömegszámát! Melyik elem izotópja az ionium? 
+P. 5206. Határozzuk meg az uránból két $\alpha$-átalakulás és két $\beta$-bomlás eredményeként keletkező ionium tömegszámát! Melyik elem izotópja az ionium?
  Példatári feladat

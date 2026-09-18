@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201501"
 verification_status: pending
 ---
 
-$a)$ What is the amount of water in grams in the air of a room of volume 60 m${}^3$ at a temperature of $25~{}^\circ$C, if the relative humidity is 50%? 
- $b)$ To what per cent value does the relative humidity of the room increase if by the next morning the temperature of the room have decreased to $20~{}^\circ$C? (The windows are closed and well sealed.) 
- $c)$ What is the relative humidity of the same sample of air at a temperature of $10~{}^\circ$C? 
+$a)$ What is the amount of water in grams in the air of a room of volume 60 m${}^3$ at a temperature of $25~{}^\circ$C, if the relative humidity is 50%?
+ $b)$ To what per cent value does the relative humidity of the room increase if by the next morning the temperature of the room have decreased to $20~{}^\circ$C? (The windows are closed and well sealed.)
+ $c)$ What is the relative humidity of the same sample of air at a temperature of $10~{}^\circ$C?
  (4 pont)

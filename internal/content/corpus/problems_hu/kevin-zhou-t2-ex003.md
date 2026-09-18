@@ -42,7 +42,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                     3
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -70,7 +72,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
        Az első eredmény egyszerűen azt mondja ki, hogy CV ekvivalens módon a (∂U/∂T )|V mennyiséggel is definiálható.
        A második eredményt behelyettesítve azt kapjuk, hogy
-                                                             
+
                                                     ∂U          ∂V
                                        CP − CV =         +P           .
                                                     ∂V T        ∂T P

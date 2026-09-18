@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201304"
 verification_status: pending
 ---
 
-The theoretical limit of the efficiency of wind turbines is the so called Betz-limit is 59.3%. There are other losses, but the most modern wind turbines efficiency is approximately 84% of the Betz-limit. 
- a ) How many megajoule kinetic energy is carried during 1 second by an air flow of speed of 27 km/h to that wind turbine which is at a height of 100 m, and which has 44 m-long blades? 
- b ) What is the maximum output power of the turbine at this wind speed? 
+The theoretical limit of the efficiency of wind turbines is the so called Betz-limit is 59.3%. There are other losses, but the most modern wind turbines efficiency is approximately 84% of the Betz-limit.
+ a ) How many megajoule kinetic energy is carried during 1 second by an air flow of speed of 27 km/h to that wind turbine which is at a height of 100 m, and which has 44 m-long blades?
+ b ) What is the maximum output power of the turbine at this wind speed?
  (4 pont)

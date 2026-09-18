@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A solid iron ball is floating in mercury. What percentage of its volume is submerged in the mercury? How does this percentage change if water is added on top of the mercury such that it completely covers the iron ball? 
+A solid iron ball is floating in mercury. What percentage of its volume is submerged in the mercury? How does this percentage change if water is added on top of the mercury such that it completely covers the iron ball?
  (3 pont)

@@ -21,6 +21,6 @@ provenance_note: "KöMaL physics points contest, 200902"
 verification_status: pending
 ---
 
-Measure the ratio at which the different washing-up liquids decrease the surface tension of water. 
- Does this ratio depend on the concentration of the liquid? 
+Measure the ratio at which the different washing-up liquids decrease the surface tension of water.
+ Does this ratio depend on the concentration of the liquid?
  (6 pont)

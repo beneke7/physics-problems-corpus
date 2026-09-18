@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-The two ends of a uniform thin rod of length 2 l and of mass m can move without friction along a circular path of radius  R . The rod is released from the vertical position. 
+The two ends of a uniform thin rod of length 2 l and of mass m can move without friction along a circular path of radius  R . The rod is released from the vertical position.
 
- Find the force exerted by the ends of the rod on the path when the rod passes the horizontal position. 
+ Find the force exerted by the ends of the rod on the path when the rod passes the horizontal position.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4006-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4006-fig1.gif)

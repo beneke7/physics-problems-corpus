@@ -20,4 +20,4 @@ verification_status: pending
 
 Két sima lejtő ugyanabban a függőleges síkban helyezkedik el, és a vízszintessel $\alpha$ szöget zár be (lásd az ábrát). Egy adott pillanatban két kis golyót engedünk el az A, illetve a B pontból; mindkettő lefelé kezd csúszni. Az első, az A pontból induló golyó $t_{1}$ idő alatt érte el a talajt, a második lecsúszási ideje $t_{2}$ volt. Mikor volt a legkisebb a golyók távolsága?
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr12-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr12-fig1.jpg)

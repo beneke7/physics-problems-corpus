@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [model-reduction]
 ---
 
-Martin slid down a slope on his sled in fresh snow. Shortly after his start, four pieces of candy cane fell out of his pocket (from a negligible height) onto the snow. During the slide, using his mobile phone Martin measured the acceleration of the sled as $2.1~\mathrm{m/s}^2$ and the angle of inclination of the slope as $23^\circ$. Later, he also determined the distances between the candies, which was 2 m between the first two, 3.2 m between the second and the third; and 4.4 m between the third and fourth candy. 
- $a)$ Determine the coefficient of kinetic friction between the snow and the sled. 
- $b)$ Prove that the candies fell out from Martin's pocket at equal time intervals. 
+Martin slid down a slope on his sled in fresh snow. Shortly after his start, four pieces of candy cane fell out of his pocket (from a negligible height) onto the snow. During the slide, using his mobile phone Martin measured the acceleration of the sled as $2.1~\mathrm{m/s}^2$ and the angle of inclination of the slope as $23^\circ$. Later, he also determined the distances between the candies, which was 2 m between the first two, 3.2 m between the second and the third; and 4.4 m between the third and fourth candy.
+ $a)$ Determine the coefficient of kinetic friction between the snow and the sled.
+ $b)$ Prove that the candies fell out from Martin's pocket at equal time intervals.
  (4 pont)

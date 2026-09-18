@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A rigid rod of mass $M$ can rotate about a horizontal axle which is attached to the rod at its trisecting point. A point-like object of mass $m$ is attached to the end of the rod closer to the axle, and a pan of negligible mass is attached to the other end. The rod stays at rest and is horizontal. 
- What is the initial speed of the object of mass $m$ if another object of mass $m$ is dropped into the pan from a height of $h$ ? The dropped object stays in the pan, and friction is negligible. 
+A rigid rod of mass $M$ can rotate about a horizontal axle which is attached to the rod at its trisecting point. A point-like object of mass $m$ is attached to the end of the rod closer to the axle, and a pan of negligible mass is attached to the other end. The rod stays at rest and is horizontal.
+ What is the initial speed of the object of mass $m$ if another object of mass $m$ is dropped into the pan from a height of $h$ ? The dropped object stays in the pan, and friction is negligible.
  (5 pont)

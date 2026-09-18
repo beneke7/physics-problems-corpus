@@ -24,7 +24,7 @@ hence F = ∆pπh(2R − h) ≈ 120 N.                       se of stretchable e
 shown in Figure: the envelope is not stretchable,     press a balloon against a glass!).                   intersection point of the graph and the straight means that F and v are opposite to each other).
 hence it retains the spherical shape (except whe-                                                          line U = E − IR, gives us the diode current It is easy to see that by small values of v, the force
 re in touch with the wall). Using the approxima-      2.   Heat flux (4 pts)                               6 mA; then, the output voltage IR = 60 mV starts linearly decreasing [with F (v = 0) = 0]
-tion h  R we can neglect the term h2 in the                                                               (see the graph).                                   (F < 0 implies that force and velocity are in
+tion h   R we can neglect the term h2 in the                                                               (see the graph).                                   (F < 0 implies that force and velocity are in
                                                       1) The heat flux P = ∆T s/ρd, hence ∆T =
 expression for the force. Then, the force is pro-                                                                                                                 the same direction). At u = v, the graph exerts
                                                       P ρd/s ≈ 12 K.
@@ -33,7 +33,7 @@ portional to h, ie. the ball behaves as a spring of                             
 stiﬀness k = 2πR∆p. According to the ener-                                                                                                                        reasing. The attached graph presents a sketch
                                                       change along the wire ∆T = P ρ∆x/S, whe-
 gy conservation
-                   law mv 2 = 2πR∆ph2 , hence                                                                                                                    of the eﬀective friction coeﬃcient; the const-
+                    law mv 2 = 2πR∆ph2 , hence                                                                                                                    of the eﬀective friction coeﬃcient; the const-
                                                       re ∆x is a displacement along the wire. Hence
 h = v m/2πR∆p ≈ 11 mm.                                                                                          10                                                ruction has been based on the lengths µk1 =
                                                       the temperature drop t1 − t2 = P S/S, where
@@ -65,25 +65,27 @@ h = v m/2πR∆p ≈ 11 mm.                                                     
                                                                                                            ge ∆I given by the relationship (R + Rd )∆I =
                                                       of the transport).
                                                                                                            ∆U ; hence, ∆I = ∆U/(Rd + R). The output
-3) This is the half of the harmonic                                                                                                                              5) The rest position is unstable, if u < w0 : the
-                                 oscillations        3) Let use the polar coordinates with the origin voltage change ∆Uout = IR = R∆U/(Rd +
+3) This is the  half of the harmonic                                                                                                                              5) The rest position is unstable, if u < w0 : the
+                                  oscillations        3) Let use the polar coordinates with the origin voltage change ∆Uout = IR = R∆U/(Rd +
 period, τ = π m/2πR∆p = πm/2R∆p ≈                     at the point where the free fall acceleration is to R), and the amplification factor ∆Uout /∆U =            particle obtains the (stable) velocity u. If u > w0 ,
 18 ms.                                                be maximized. Let the axis φ = 0 be given by the R/(Rd + R) ≈ 1.7. Consequently, the output                 the rest position is stable, and the particle ve-
 4) Let us use the ball’s system of reference. The     direction of the acceleration. Carrying a small voltage is 1.7 mV, and . . .                                locity remains 0.
 envelope surface element dS is exerted by the         piece of ground from a point (r1 , φ1 ) to anot- 4) the output graph is exactly the same as the in-
 force of inertia dFi = amdS/4πR2 , where a =          her point (r2 , φ2 ) must keep the modulus of the put graph, except that it is vertically stretched by      6.    Charged particle (12 pts)
-∆pπh(2R − h)/m. Thus, dFi = ∆ph(2R −                  acceleration vector g constant, i.e. the vector of a factor of -1.7.
+∆pπh(2R − h)/m. Thus, dFi = ∆ph(2R −                  acceleration vector  g constant, i.e. the vector of a factor of -1.7.
 h)dS/4R2 . In order to keep the spherical sha-        the small change must be perpendicular to the                                                               1) The particle acquires the velocity v = Eqτ /m
-pe, this force has to be compensated by the force     vector g. Consequently, cos φ1 /l12 = cos φ2 /l22 , 5. Vibration (10 pts)                                  and starts moving along a circle of radius R, with
+pe, this force has to be compensated by the force     vector  g. Consequently, cos φ1 /l12 = cos φ2 /l22 , 5. Vibration (10 pts)                                  and starts moving along a circle of radius R, with
                                                                     √
-due to the excess pressure dFr = ∆pdS, hence          hence l = l0 cos φ.                                  1) µmgτ  v.                                           mv 2 /R = Bvq, hence R = Eτ /B.
-                   px                             endpoint of the particles momentum lies on that        tance. The image of this piece of paper has            le, the accuracy of the results can be enhanced by
+due to the excess pressure dFr = ∆pdS, hence          hence l = l0 cos φ.                                  1) µmgτ   v.                                           mv 2 /R = Bvq, hence R = Eτ /B.
+
+
+                   px                             endpoint of the particles momentum lies on that        tance. The image of this piece of paper has            le, the accuracy of the results can be enhanced by
                    4                              circle. Thus, averaged over the moments of time        size s = SF 2 /L2 ; thus, w3 = P3 /s =                 subtracting this weight from N : F = Fd /µ−Fp .
      py 3                                         2n∆t, the average velocity is vx = −Eqτ /2m.           w1 α( π4 D2 /F 2 ) = w0 απ(φD/4F )2 .                  3) We use a similar set-up, except that smaller
                         1                             For odd number of impulses, one has to add         4) The angular distance of the first diﬀraction        number of paper stripes is used (totaling up to
-                                                  the lastly given momentum P = (Eqτ, 0);               minimum (using the single slit approximation           around 2 mm), and a steep slope of the plate.
+                                                  the lastly given momentum P  = (Eqτ, 0);               minimum (using the single slit approximation           around 2 mm), and a steep slope of the plate.
                2                                  hence, a similar circle is formed, except that the     — circle is actually not a slit) is λ/D. Hence,        We let the brick slide down the slope and hit
-2)                                                center is shifted by P : the center coordinates are   the bright circle radius can be estimated as           on the magnet. We keep the falling height and
+2)                                                center is shifted by P  : the center coordinates are   the bright circle radius can be estimated as           on the magnet. We keep the falling height and
           px
                                                   mvx = Eqτ /2, mvy = 0. Correspondingly,                δ = F λ/D. Consequently, w2 = P2 /πδ 2 =               plate slope constant, and measure the sliding
                                                   averaged over the moments of time 2n∆t, the            w0 (φD2 /4qF λ)2 .                                     path, which is covered by the papers and the
@@ -92,7 +94,7 @@ due to the excess pressure dFr = ∆pdS, hence          hence l = l0 cos φ.    
                                                   vx = vy = 0.                                           6) k − 1 ∼ 1 (or k − 1 > 1) means that the star        force N . If this path turns out to be too short
                                                                                                          can be easily seen (as is the case for the telesco-    for an accurate measurement (for very small
 3)
-                                                                                                         pe); k − 1  1 means that the star cannot be           distances between the magnet and the plate),
+                                                                                                         pe); k − 1   1 means that the star cannot be           distances between the magnet and the plate),
 4) Let us consider the vectorial sum of the mo-                                                          seen (for the eye, k − 1 ≈ 1 · 10−4 ).                 several brick hits can be used. In that case,
 menta given to the particle in diﬀerent mo-                   P r’es                                                                                            the single-hit path can be found as the measu-
 ments of time. During the time interval ∆t, all                                       P1                 8.   Experiment (12 pts)                               red path, divided by the number of hits. The
@@ -102,14 +104,14 @@ the component-vectors are rotated by the angle                P2
                                                                          P2n                                 √ the static coeﬃcient is found as µstatic =
                                                                                                          ding:
                                                                                P
-a vector P with modulus P = Eqτ is added; the                                                           h/ l2 − h2 , where h is height of the plate end-       tion, for those distances, which are covered by
+a vector P  with modulus P = Eqτ is added; the                                                           h/ l2 − h2 , where h is height of the plate end-       tion, for those distances, which are covered by
 angle between the lastly added vector, and the                                                           point, and l — the plate length. Now we push           both measuring techniques. Reasonable measu-
 previously added vector is α = ∆tBq/m.                                                                   the sheet laying on the plate slightly, and find       rement results are given in the attached graph.
 5) All these vectors, when added according The figure represents the net moment Pres after               the inclination angle, for which the sheet will sli-          F /N/
-                                                                                                                                                               30
+                                                                                                                                                                30
 to the triangle rule, form a circle of radius 2n-th impulse, and also the net impulse Pres  for          de down with a constant velocity;    we use again
                                                                                                                                      √
-R = P/ sin α → P/α = Ek m/B. another time moment 2n ∆t. For an odd num-                                 the formula µkinetic = h/ l2 − h2 . The reaso-         25
+R = P/ sin α → P/α = Ek m/B. another time moment 2n ∆t. For an odd num-                                  the formula µkinetic = h/ l2 − h2 . The reaso-         25
     px
                                               ber of impulses, the pattern is exactly the same,          nable numerical values are µstatic ≈ 0.37 and          20
                                               except that all the vectors have opposite direc-           µkinetic ≈ 0.29.

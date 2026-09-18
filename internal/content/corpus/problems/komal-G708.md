@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [exploit-symmetry, graphical-reduction]
 ---
 
-Ben ran into a mirrored labyrinth of an amusement park, and hid at point $B$. Can his mother, who is looking for Ben standing at point $A$, see him? The plan of the mirrored labyrinth of the amusement park is shown in the figure. The thick lines represent mirrors with reflexive surfaces at both of their sides. 
+Ben ran into a mirrored labyrinth of an amusement park, and hid at point $B$. Can his mother, who is looking for Ben standing at point $A$, see him? The plan of the mirrored labyrinth of the amusement park is shown in the figure. The thick lines represent mirrors with reflexive surfaces at both of their sides.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G708-fig1.gif)
+![figure](../../figures/komal/figures/komal-G708-fig1.gif)

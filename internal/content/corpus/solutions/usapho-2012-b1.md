@@ -109,7 +109,7 @@ A magnetic monopole of mass m and magnetic charge qm is constrained to move on a
 nonmagnetic, insulating, frictionless U-shaped track. At the bottom of the track is a wire loop
 whose radius b is much smaller than the width of the “U” of the track. The section of track near
 the loop can thus be approximated as a long straight line. The wire that makes up the loop has
-radius a 
+radius a
  b and resistivity ρ. The monopole is released from rest a height H above the bottom of
 the track.
 Ignore the self-inductance of the loop, and assume that the monopole passes through the loop
@@ -178,12 +178,12 @@ which gives
 ΦB =
 µ0qm
 2
-
+
 1 −
 x
 √
 b2 + x2
-
+
 .
 We will use the variable θ0 in the parts below, dropping the subscript.
 b. Since E = −dΦB/dt, differentiating both sides of the above result gives

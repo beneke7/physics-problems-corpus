@@ -73,7 +73,9 @@ decay or the electron capture) toward the stable (𝑍, 𝑁 ).
 
 
                                                           1
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                              S2‒2
@@ -141,7 +143,9 @@ This inequality can be translated into 𝐴 > 𝐴𝑐 with 𝐴𝑐 given by
 
 
                                                                   2
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                                     S2‒3
@@ -213,7 +217,9 @@ Clock‒II, the Lorentz transformation is validated for Clock‒II′ seen from 
 
 
                                                                   3
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                S2‒4
@@ -282,7 +288,9 @@ From these numerical values, 𝑀WD is solved as
                        𝑐3             log(4/𝜀2 )    10 𝜇s log(4/0.00022) ⊙
 
                                                            4
-Solutions to Theory Problems
+
+
+Solutions to Theory Problems
 
 
                                                                                                       S2‒5

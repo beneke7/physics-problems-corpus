@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [superposition, exploit-symmetry]
 ---
 
-Two walls of a room with an equilateral triangle-shaped floor are covered with flat mirrors (see the figure ). A lamp stands in the centre of the room. How many images does the lamp produce? 
+Two walls of a room with an equilateral triangle-shaped floor are covered with flat mirrors (see the figure ). A lamp stands in the centre of the room. How many images does the lamp produce?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G832-fig1.gif)
+![figure](../../figures/komal/figures/komal-G832-fig1.gif)

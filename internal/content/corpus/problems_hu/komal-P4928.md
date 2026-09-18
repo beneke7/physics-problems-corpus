@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4928. $a)$ Mekkora gyorsulással indulnak meg az ábrán látható, könnnyen gördülő kiskocsik, ha a csiga tömege és a légellenállás elhanyagolható? Adatok: $m_1=1$ kg, $m_2=2$ kg, $M=5$ kg. 
+P. 4928. $a)$ Mekkora gyorsulással indulnak meg az ábrán látható, könnnyen gördülő kiskocsik, ha a csiga tömege és a légellenállás elhanyagolható? Adatok: $m_1=1$ kg, $m_2=2$ kg, $M=5$ kg.
 
  $b)$ Milyen határok közé eshet az $M$ tömegű kiskocsi kezdeti gyorsulása más tömegadatok mellett?
 
-![figure](../../raw_html/komal_figures/komal-P4928-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4928-fig1.gif)

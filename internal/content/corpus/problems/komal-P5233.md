@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization, auxiliary-unknowns, graphical-reduction]
 ---
 
-A leaf frog wants to jump from the ground onto a leaf, which is horizontally at a distance of $s$ and which is at a height of $h$. In what direction and at what speed does it have to jump in order to do this with the least energy? 
+A leaf frog wants to jump from the ground onto a leaf, which is horizontally at a distance of $s$ and which is at a height of $h$. In what direction and at what speed does it have to jump in order to do this with the least energy?
  (5 pont)

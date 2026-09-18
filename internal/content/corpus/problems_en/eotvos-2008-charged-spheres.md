@@ -23,7 +23,7 @@ In a physics club, someone wants to demonstrate that electric field strength vec
 
 To implement this in practice, the experimenter takes one pole of a battery with a voltage of a few hundred volts and "grounds" it, connecting it to a large metal tray on the table – which can be considered a location of zero potential – then uses a banana plug connected to the other pole to touch first the left sphere, then the right sphere, and finally an aluminum foil strip suspended on an insulating thread between them (Fig. 5). To their surprise, the aluminum foil does indeed deflect from the vertical, moving toward one of the spheres.
 
-![figure](sources/eotvos/figures/eotvos-2008-p3-fig1.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2008-p3-fig1.jpg)
 
 Figure 5
 

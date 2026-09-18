@@ -65,4 +65,6 @@ solution_language: en
     that they also apply to a wide variety of similar models.
 
                                                         12
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts

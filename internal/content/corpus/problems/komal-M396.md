@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202005"
 verification_status: pending
 ---
 
-Measure the thickness of a piece of adhesive tape. 
+Measure the thickness of a piece of adhesive tape.
  (6 pont)

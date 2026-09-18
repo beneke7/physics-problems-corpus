@@ -25,7 +25,7 @@ Example. The ket |+⟩ = (1, 0) points in the +ẑ direction, since ⟨+|σ|+⟩
 Similarly, we can define the kets pointing in arbitrary directions as
                                              |n̂, +⟩ = U |+⟩.
 Writing n̂ in spherical coordinates and applying the Euler angle decomposition,
-                                                            −iα/2         
+                                                             −iα/2
                                                             e       cos β/2
                          U = U (ẑ, α)U (ŷ, β), |n̂, +⟩ =                   .
                                                              eiα/2 sin β/2
@@ -52,7 +52,6 @@ the angular momentum operators by differentiation at θ = 0.
          J 2 = (J+ J− + J− J+ ) + J32 ,     J− J+ = J 2 − J3 (J3 + ℏ),       J+ J− = J 2 − J3 (J3 − ℏ).
               2
     In this setting, J± play a very similar formal role to a and a† for the QHO.
-171 7. Angular Momentum
 
 
   • Next, as in the QHO, we investigate norms. We have
@@ -86,7 +85,7 @@ Now that we’ve found all of the irreps, we turn to calculations and applicatio
       J+ |jm⟩ = ℏ (j − m)(j + m + 1)|j, m + 1⟩,          J− |jm⟩ = ℏ (j + m)(j − m + 1)|j, m − 1⟩.
 
     Above we used the phase freedom in the |jm⟩ to set all possible phase factors to zero. Then
-                                     s                j−m
+                                     s                  j−m
                                           (j + m)!     J−
                               |jm⟩ =                             |jj⟩.
                                         (2j)!(j − m)! ℏ
@@ -102,6 +101,5 @@ Note. The j values which appear must be determined separately for each physical 
 we’re considering central force motion of a particle, it turns out that only integral j matter. If we
 consider p-wave scattering, j = 1 appears. The spin state of a photon is (roughly) described by
 j = 1, but the spin state of two electrons is described by j = 0, 1.
-172 7. Angular Momentum
 
 

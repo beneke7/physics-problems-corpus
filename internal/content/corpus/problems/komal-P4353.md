@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [differential-element, exploit-symmetry]
 ---
 
-Two very long plastic rods are placed perpendicularly at a distance of  d . They are both charged uniformly, their linear charge density is  . Calculate the repelling force between them. 
+Two very long plastic rods are placed perpendicularly at a distance of  d . They are both charged uniformly, their linear charge density is  . Calculate the repelling force between them.
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4353-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4353-fig1.gif)

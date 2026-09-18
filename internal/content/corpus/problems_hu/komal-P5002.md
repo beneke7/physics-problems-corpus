@@ -9,6 +9,6 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5002. A Föld középpontja enyhén hullámos ellipszispályán kering a Nap körül. 
- $a)$ Mi az oka ennek a hullámosságnak? 
+P. 5002. A Föld középpontja enyhén hullámos ellipszispályán kering a Nap körül.
+ $a)$ Mi az oka ennek a hullámosságnak?
  $b)$ Közelítőleg mekkora egy ilyen hullám amplitúdója?

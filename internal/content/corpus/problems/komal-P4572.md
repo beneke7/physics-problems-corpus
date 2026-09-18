@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201311"
 verification_status: pending
 ---
 
-A vehicle covers equal distances at speeds of 1 m/s, 2 m/s, 3 m/s, 4 m/s and 5 m/s. What is its average speed calculated for the total distance covered? 
+A vehicle covers equal distances at speeds of 1 m/s, 2 m/s, 3 m/s, 4 m/s and 5 m/s. What is its average speed calculated for the total distance covered?
  (3 pont)

@@ -42,7 +42,9 @@ SOLUTION T3 : . A Heavy Vehicle Moving on An Inclined Road
 
 
                                         III - 1
-                2                   2              2                      2
+
+
+                2                   2              2                      2
 I=            ∫ r dm = ∫ r dm + ∫ r dm + ... + ∫ r dm                                    0.4 pts
         wholepart         cyl . shell       rod1                  rod n
                           Ro
@@ -92,7 +94,9 @@ The balance equation related to the forces work to this parts are:
 
 
                                                               III - 2
- Required conditions:
+
+
+ Required conditions:
  Balance of force in the horizontal axis
  m1 g sin θ − f 12 h − f 13 h= m1 a                              (1) 0.2 pts
  Balance of force in the vertical axis
@@ -138,7 +142,9 @@ Part Three : Front Cylinder:
 
 
                                                      III - 3
-                                       N3
+
+
+                                       N3
            f3
 
 
@@ -185,7 +191,9 @@ From equation (4) and (6) we get
 
 
                                               III - 4
-   f21h = (I/R2 )a +Ma-Mg sinθ                                         (14)    0.2 pts
+
+
+   f21h = (I/R2 )a +Ma-Mg sinθ                                         (14)    0.2 pts
 
 From equation (8) and (10) we get
 
@@ -240,7 +248,9 @@ tan θ ≤
 
 
                                                 III - 5
-While the right equation becomes
+
+
+While the right equation becomes
                                             h
 0.7m × 0.833g sin θ ≤ µ s (3.5mg cosθ + 0.41 1 mg sin θ )
                                              l
@@ -294,7 +304,9 @@ CONDITION
 
 
                                                  III - 6
-From equation (4) we get
+
+
+From equation (4) we get
 
    F21h = m2 a+ uk N2 -m2 g sinθ                          (22)           0.15 pts
 
@@ -348,7 +360,9 @@ a = 0.9091g sin θ −          = 0.9091g sin θ − k                          
 
 
                                            III - 7
-The Conditions for this partial sliding is:
+
+
+The Conditions for this partial sliding is:
        f 2 ≤ µs N 2′               and f 3 〉 µs N 3′
            I                            I                                  (27)         0.25 pts
              2
@@ -400,7 +414,9 @@ For the angular velocity, while sliding they receive torsion:
 
 
                                                     III - 8
-τ = µ k NR
+
+
+τ = µ k NR
       τ µ k NR                                                                              (31)
 α =     =
       I    I

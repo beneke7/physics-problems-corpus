@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [exploit-symmetry, conservation-laws, differential-element]
 ---
 
-Consider the Thomson model of the hydrogen atom. The radius of a hydrogen atom is about 50 pm. 
- $a)$ Where can the electron be in equilibrium? 
- $b)$ What is the frequency at which the electron oscillates around this equilibrium position? Into which region of the spectrum does the light of this frequency fall? 
+Consider the Thomson model of the hydrogen atom. The radius of a hydrogen atom is about 50 pm.
+ $a)$ Where can the electron be in equilibrium?
+ $b)$ What is the frequency at which the electron oscillates around this equilibrium position? Into which region of the spectrum does the light of this frequency fall?
  (5 pont)

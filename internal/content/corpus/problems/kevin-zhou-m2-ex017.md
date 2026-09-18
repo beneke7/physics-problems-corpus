@@ -40,7 +40,7 @@ in different amounts, and in different directions; there’s little symmetry her
                                           strain ∼ δ/r ∼ r/R
 
   where δ is the vertical deformation. Using the definition of the Young’s modulus, we conclude
-                                                           1/3
+                                                             1/3
                                                       ρgR
                                            r∝R                     .
                                                        Y
@@ -49,7 +49,9 @@ in different amounts, and in different directions; there’s little symmetry her
 
 
                                                     24
-   Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 

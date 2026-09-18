@@ -28,4 +28,4 @@ Measure the room temperature saturated vapour pressure of the unknown fluid in t
 
 Equipment: syringe with an unknown fluid, syringe with water, bottle, flexible pipe, ruler, plug, stand, tape.
 
-![](../figures/nbpho-2015-vapour-pressure-fig1.jpg)
+![](../../figures/nbpho/figures/nbpho-2015-vapour-pressure-fig1.jpg)

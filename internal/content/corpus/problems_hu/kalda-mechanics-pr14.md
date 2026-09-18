@@ -20,6 +20,6 @@ verification_status: pending
 
 Egy $l$ hosszú, könnyű rudat olyan csuklóhoz erősítünk, amely csak egy síkban hajolhat. A csukló $\omega$ szögsebességgel forog egy függőleges tengely körül. A rúd másik végére egy kis golyót rögzítünk. (a) Határozzuk meg azokat a szögsebességeket, amelyek mellett a függőleges helyzet stabil. (b) A golyót most egy másik csuklóhoz, azt pedig egy újabb, azonos rúdhoz erősítjük (lásd az alábbi ábrát); a felső csuklót ugyanígy forgatjuk. Mi a függőleges helyzet stabilitásának feltétele ebben az esetben?
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr14-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr14-fig1.jpg)
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr14-fig2.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr14-fig2.jpg)

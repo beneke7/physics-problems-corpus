@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases]
 ---
 
-An initially neutral solid red copper ball of radius 5 cm, attached to an insulating handle, was charged by the negative terminal of a 5 kV voltage supply. (The positive terminal was earthed.) By what percent does the number of electrons of the copper ball increase? 
+An initially neutral solid red copper ball of radius 5 cm, attached to an insulating handle, was charged by the negative terminal of a 5 kV voltage supply. (The positive terminal was earthed.) By what percent does the number of electrons of the copper ball increase?
  (4 pont)

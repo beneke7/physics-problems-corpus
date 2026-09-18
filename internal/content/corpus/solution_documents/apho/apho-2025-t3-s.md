@@ -37,7 +37,7 @@ Grading note: If the student uses a different cross sec-       gives
 tional area, only 0.1 is given, provided it is the only
 mistake.
                                                                          d2
-                                                                                                    
+
                                                                                             1    1
 A.2: A black body radiates according to the Stefan-                          ℓ = −k           +          (ℓ − ℓ0 ).
                                                                          dt2               mB   mB
@@ -48,7 +48,7 @@ the black body. At steady state
                                                                particle attached to a spring with a spring constant k
                         2   4             2
      Pbd = P0 ⇒ σ(4πRE    )Tg0 = (1 − a)πRE Fs                 and an effective mass or reduced mass µ, given by:
-                      1/4
+                        1/4
                     Fs
     ⇒ Tg0 = (1 − a)          ≈ 255 K ≈ −18 ◦ C.                                        1           mA mB
                     4σ                                                     µ=                 =           .
@@ -78,9 +78,9 @@ Solving this system of equations and using PE =
       2
 σ(4πRE  )Tg we find
                                                                Grading note: A maximum of 0.2 points are given if
-                      1/4
+                       1/4
                                                                the correct result is cited without justification.
-            
+
               1 + tsw
       Tg =                 Tg0 ≈ 286 K ≈ 13 ◦ C.
               1 + tlw
@@ -99,7 +99,8 @@ Solving this system of equations and using PE =
  Total                                          0.7             Total                                                 0.2
 
                                                            1
-B.3: The observed shift in the spectral line from f0 is             B.6: The probability distribution p(f ) follows a Gaus-
+
+B.3: The observed shift in the spectral line from f0 is             B.6: The probability distribution p(f ) follows a Gaus-
 due to the Doppler effect. When the source is moving                sian profile in the frequency shift f − f0 . The center
 towards the observer with velocity v the frequency is               of the profile is 0 and it drops to 1/e of its maximum
 shifted according to                                                value when the argument of the exponential is −1.
@@ -151,9 +152,9 @@ frequencies f and f0 :                                              and surface 
 We plug this back into the probability distribution
                                                                     Simplifying and rearranging terms gives:
 formula to obtain:
-                    "                 2 #                                               dp
+                    "                  2 #                                               dp
                         mc2
-                             
+
                                f − f0                                                       = −ρ(z)g
          p(f ) ∝ exp −                     .                                             dz
                        2kB T     f0
@@ -176,13 +177,14 @@ B.3, they get the 0.1 points.                                                pV 
                                                                                                        µair
 
                                                                 2
-Rewriting this in terms of the density gives:                 We now substitute the hydrostatic pressure gradient
+
+Rewriting this in terms of the density gives:                 We now substitute the hydrostatic pressure gradient
                                                               obtained in C.3 to get:
                              p(z)µair
                     ρ(z) =            .                         dT      1 − γ T (z)
-                                                                                    
+
                                                                                        p(z)µair
-                                                                                                 
+
                                                                                                     1 − γ µair
                               RT (z)                                =−               −          g =            g.
                                                                 dz        γ p(z)        RT (z)        γ    R
@@ -212,14 +214,14 @@ tion simplifies to:
                                                               ton’s second law, where the primary forces acting on
 at height 0 is p0 leads to:
                                                               the parcel are buoyancy and gravity.
-                          
+
                       p(z)      µair                                            d2 z
                  ln          =−      gz.                                   δm        = ρa (z)gδV − δmg,
                        p0       RT                                              dt2
 In a different form:                                          where δm is the mass of the air parcel, δV is its vol-
-                            µ
+                             µ
                                air
-                                                             ume and ρa is the density of the surrounding air. We
+                                                              ume and ρa is the density of the surrounding air. We
               p(z) = p0 exp −      gz .                       can express the mass of the parcel in terms of its den-
                               RT
                                                               sity ρp as δm = ρp δV . Substituting and simplifying
@@ -266,7 +268,8 @@ the adiabatic lapse rate gives:                                               Γ
 
 
                                                           3
- Grading scheme for Task C.5.                   Pts            D.3: Formation of liquid water happens when the par-
+
+ Grading scheme for Task C.5.                   Pts            D.3: Formation of liquid water happens when the par-
  Inclusion of gravitational force with parcel   0.2            tial pressure of water inside the parcel reaches the sat-
  density                                                       uration pressure at a given temperature. The partial
  inclusion of buoyancy force with air den-      0.3            pressure of water vapor pw can be related to the total
@@ -279,14 +282,14 @@ the adiabatic lapse rate gives:                                               Γ
  Correct angular frequency of small oscilla-    0.2            Given that the air parcel is rising adiabatically,
  tion                                                          p1−γ T γ = const., so
  Total                                          1.4
-                                                                                                              cp /R
+                                                                                                                cp /R
                                                                                                           T
 Part D. Moisture (2.7 points)                                                          p(T ) = pi                       .
                                                                                                           Ti
 D.1: The change of entropy across a phase transition
 (evaporation in this case) is related to the latent heat       Therefore, the transcendental equation that we need
 of evaporation. If there was a mass m of liquid water,         to solve is
-then Qevaporation = Lm, then                                                         cRp                            
+then Qevaporation = Lm, then                                                           cRp
                                                                   µair          Tl                      µH O L 1     1
                              Lm                                ϕ       pi                    = pso exp − 2         −       .
                       ∆S =      .                                µH2 O          Ti                        R     Tl   Ti
@@ -294,9 +297,9 @@ then Qevaporation = Lm, then                                                   
 It is known that the volume of vapor is significantly          This can be rearranged to get
 larger than the volume of liquid of the same mass,
 therefore ∆V ≈ Vvapor , which can be found using the                                                      1
-                                                                   Tl =                           "                              cp /R # .
+                                                                   Tl =                           "                               cp /R # .
 ideal gas law
-                                                                                                                        
+
                                                                             1      R           µair pi                      Tl
                             nRT                                                −         ln ϕ
                   Vvapor =          .                                       Ti   µH2 O L      µH2 O pso                     Ti
@@ -304,7 +307,7 @@ ideal gas law
 The mass can be related to the number of moles n via           Substituting the numerical values, we get
 m = µH2 O n, then
                                                                                             1000 K
-                   dps   µH2 O Lps                                    Tl =                                                      .
+                   dps   µH2 O Lps                                    Tl =                                                        .
                        =           .                                                                               Tl
                    dT      RT 2                                                  3.481 − 0.4695 ln
                                                                                                                 290.15 K
@@ -317,7 +320,7 @@ m = µH2 O n, then
                                                                 Grading scheme for Task D.3.                                           Pts
 D.2: We can integrate the relationship found in D.1             Using Dalton’s law                                                     0.4
 by separating variables to find                                 correctly relating the moles ratio to mass                             0.2
-                                                            ratio
+                                                                ratio
              ps (T )      µH2 O L 1    1                        Stating p(T ) for an adiabatic process                                 0.1
         ln             =−            −      .
               pso           R      T   To                       Understanding that partial pressure of wa-                             0.5
@@ -325,7 +328,7 @@ by separating variables to find                                 correctly relati
 Note that L is strictly a function of temperature, but          sation to start
 we are assuming that L is a constant for the range of           Attempting to perform iterative search for                             0.4
 temperatures we investigate. Rearranging, we find               the solution of the transcendental equation
-                                                            (by isolating T on one side)
+                                                                (by isolating T on one side)
                            µH O L 1       1
       ps (T ) = pso exp − 2             −       .               Correct numerical solution                                             0.4
                              R       T    To
@@ -339,7 +342,8 @@ temperatures we investigate. Rearranging, we find               the solution of 
  Total                                          0.2
 
                                                            4
-Part E. Sun halo (1.6 points)                                   E.2: Notice that the situation corresponds to the case
+
+Part E. Sun halo (1.6 points)                                   E.2: Notice that the situation corresponds to the case
                                                                 discussed in part E.1 with φ = 60◦ . Here is the data
                                                                 table after substituting different values of α:
 E.1: Using the notations of Figure E, the total an-
@@ -379,18 +383,18 @@ Expressing β in terms of α′ :                                    δ has a lo
            sin β = n sin β = n sin(φ − α ),′                     Total                                            0.6
 
 From Snell’s law α′ can be written as                           E.3: The minimum value of δ is around 21.8◦ , so that
-                            
+
                               sin α
-                                                               is the angle with respect to the direction of Sun where
+                                                                is the angle with respect to the direction of Sun where
                 α′ = arcsin           .                         the halo appears.
                                 n
 Thus, β in terms of α is given by                                Grading scheme for Task E.3.                     Pts
-                                                           Reading the minimal value of δ                   0.1
+                                                                 Reading the minimal value of δ                   0.1
                                     sin α
      β = arcsin n sin φ − arcsin              .                  Concluding that the angular size of halo         0.1
                                       n                          corresponds to the minimal value of δ
 Finally, we get the result for δ:                                Total                                            0.2
-                                       
+
                                     sin α
  δ = α + arcsin n sin φ − arcsin              − φ.
                                       n

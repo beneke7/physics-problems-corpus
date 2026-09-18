@@ -21,7 +21,7 @@ provenance_note: "KöMaL physics points contest, 201502"
 verification_status: pending
 ---
 
-Six alike simple pendulums are made of electrically insulating threads of negligible mass and of small metal spheres of mass 5 g. The length of each pendulum is 0.5 m. The six pendulums are hung at the same point, and then they are all rotated about a vertical axis through this point. After a long enough time each small sphere revolves along a circular path of radius $r$ in a horizontal plane. 
- $a)$ What is the radius $r$ of the path, if the period of the motion is 1 s? 
- $b)$ What same amount of charge should be added to the spheres in order that they stay at the circumference of the same radius of circle $r$ , without rotation? 
+Six alike simple pendulums are made of electrically insulating threads of negligible mass and of small metal spheres of mass 5 g. The length of each pendulum is 0.5 m. The six pendulums are hung at the same point, and then they are all rotated about a vertical axis through this point. After a long enough time each small sphere revolves along a circular path of radius $r$ in a horizontal plane.
+ $a)$ What is the radius $r$ of the path, if the period of the motion is 1 s?
+ $b)$ What same amount of charge should be added to the spheres in order that they stay at the circumference of the same radius of circle $r$ , without rotation?
  (4 pont)

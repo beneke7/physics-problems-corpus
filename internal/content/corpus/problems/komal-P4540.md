@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201305"
 verification_status: pending
 ---
 
-1 kg ice at a temperature of -30 $^\circ$C is placed into a thermally insulated vessel filled with water of temperature 30 $^\circ$C. Is it possible that no phase change occurs? 
+1 kg ice at a temperature of -30 $^\circ$C is placed into a thermally insulated vessel filled with water of temperature 30 $^\circ$C. Is it possible that no phase change occurs?
  (3 pont)

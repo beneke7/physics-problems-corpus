@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201010"
 verification_status: pending
 ---
 
-At what angle can a ladder of weight G be leaned against the vertical smooth wall, if a man of mass  m can safely climb up on it? The coefficient of static friction between the ground and the ladder is  $_{0}$. 
+At what angle can a ladder of weight G be leaned against the vertical smooth wall, if a man of mass  m can safely climb up on it? The coefficient of static friction between the ground and the ladder is  $_{0}$.
  (4 pont)

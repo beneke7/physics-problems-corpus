@@ -29,7 +29,7 @@ ii. (0.5 pts) From the energy conservation law                     spherical lay
                                                                                                  A         7M    7 MA
                   4mp c2 = mHe c2 + 2me c2 + W0                                     m=                        =
                                                                                                     R0 2    8   8π R02
-                                                                                                      
+
                                                                                            4π       2
 (0.2 pts). Then
                                                                    (0.1 pts). From the Newton’s second law
@@ -56,7 +56,7 @@ number of reactions that will take place is                                     
                            N=
                                  8 4mp                             v. (1 pt) From the ideal gas law
 (0.3 pts). And thus, the total energy released is                                                    R0 3
-                                                                                                       
+
                                                                                                4π    2
                            1   W2                                                         pc                = nRg Tc
               E = N W2 =     M     = 1.56 × 1044 J                                                  3
@@ -80,7 +80,7 @@ the gravitational acceleration is the same as that of a point
 mass with a mass of M (0.2 pts). Then                              (0.1 pts).
                                                                    vi. (0.4 pts) Combing both expressions for pc , one gets
                               GM    4GM
-                      aQ =       =
+                      aQ =        =
                               R0 2   R02
                                 2                                                         63 GM 2    3 M kB Tc
                                                                                                4  =
@@ -89,12 +89,14 @@ mass with a mass of M (0.2 pts). Then                              (0.1 pts).
 ii. (0.4 pts) By applying Gauss’s law for gravity for a sphere (0.2 pts).
 surrounding the stellar core                                                                            21 GM mp
                                                                                                R0 =
-                       2                                                                              16 kB Tc
+                         2                                                                              16 kB Tc
                         R0              M
                    4π        aP = 4πG                          (0.2 pts).
                          2              8
                                                         — page 1 of 5 —
-vii. (1.5 pts) Writing out the energy balance for a spherical               C: φ − 2ω = 0.
+
+
+vii. (1.5 pts) Writing out the energy balance for a spherical               C: φ − 2ω = 0.
 shell with a radius of x and thickness dx concentric to the star (0.1 pts for each equation.) After solving the system of equa-
                                       dT                                    tions and setting ω = 1, we get β = −1, γ = 0, δ = 0, ε = 0,
                               −4πx2      κ=P
@@ -118,7 +120,7 @@ shell with a radius of x and thickness dx concentric to the star (0.1 pts for ea
                                                 2
                                                        x2                                  Z x
                                                                                                           ke e2 x dx    ke e2
-                                                                                                             Z
+                                                                                                               Z
                                                     1    2                             Π=      F (x)dx =              =       .
              −4πκ(T (R0 ) − Tc ) = −P                  −                                    ∞                4  ∞ x
                                                                                                                     2    4x
@@ -139,7 +141,7 @@ lost.
                        ρc , ρc = 4πR3 and R0 = 16 kB Tc , we
                                                0                                                             =
 ultimately end up with                                                                                 2         2
-                           4 2 3                                          (0.3 pts). T 0 can be expressed as
+                             4 2 3                                          (0.3 pts). T 0 can be expressed as
                      21 Gmp   π Tc f (Tc ) 3
               P =                         M
                      8 kB         3                                                                    ke e2
@@ -161,15 +163,15 @@ i. (1.5 pts) First, we must convert the units to base units:                than
                                                                                                       pv
 [e] = C,                                                                    the tunnelling taking place is
 [ke ] = kg · m3 · C−2 s−2 (0.1 pts).                                                        "       Z s                                    #
-                                                                                                           r?                        
+                                                                                                           r?
              β    γ      δ      ε     µ   φ        ω
 Let α = [c] [G] [kB ] [NA ] [~] [e] [ke ] . Then we can create                                                               1   1
                                                                                       p ≈ exp −2~−1             mp αc~         −          dr =
                                                                                                        0                     r   r?
 an equation for each unit:
 m: β + 3γ + 2δ + 2µ + 3ω = 0                                                (0.3 pts)
-s: −β − 2γ − 2δ − µ − 2ω = 0                                                                             √ 
-                                                                                                         π r?       παc 
+s: −β − 2γ − 2δ − µ − 2ω = 0                                                                              √
+                                                                                                         π r?        παc
 kg: −γ + δ + µ + ω = 0                                                                = exp −2~−1 mp αc~
                                                                                                  p
                                                                                                               = exp −
@@ -181,7 +183,9 @@ mol: −ε = 0                                                                 (
 
 
                                                                     — page 2 of 5 —
-Problem T2. Water tube (8 points)                                   (formula 0.2 pts, value with units 0.1 pts).
+
+
+Problem T2. Water tube (8 points)                                   (formula 0.2 pts, value with units 0.1 pts).
 i. (0.5 pts) There is a water column of height H between                                                           mg
                                                                               pP = pQ + ρgH = p0 − 10ρgH − 10         = 60 kPa
 points P and Q creating an additional pressure of pP − pQ =                                                        A
@@ -193,7 +197,7 @@ on the system are sketched on the figure                                        
                                                                                           + Ap0 − ApQ + T = 0
 to the right. F2 = Ap0 = 100 N (for-
 mula 0.1 pts, value with units 0.1 pts)                             (0.4 pts).
-and F1 = 1.1Ap0 = 110 N (formula 0.1                                                      m                      mg  mg
+and F1 = 1.1Ap0 = 110 N (formula 0.1                                                      m                       mg   mg
                                                                        T = A(pQ − p0 ) − g = −A 11ρgH + 10             −      =
 pts, value with units 0.1 pts) is the at-       N     F3 N                                2                       A        2
                                                                                                    21
@@ -231,9 +235,9 @@ Therefore,
                                                                                      (M + m)(−v) − (M + m)v = F τ ⇒
 (Formula 0.1 pts, value with units 0.1 pts.)
                                                                     (1.3 pt)
-    Alternatively, applying the Newton’s law on the vertical axis                                 
+    Alternatively, applying the Newton’s law on the vertical axis
                                                                                                       0.1Ap0
-                                                                                                               
+
 for the piston, one gets                                                                   2v =              −g τ ⇒
                                                                                                       M +m
              Ap0 − ApQ + mg + 1.1ApP − 1.1Ap0 = 0                                                      (M + m)v
@@ -249,7 +253,9 @@ for the piston, one gets                                                        
                pQ = p0 − 11ρgH − 10      = 57 kPa                   (Formula 0.2 pts, value 0.1 pts, units T 0.1 pts.)
                                       A
                                                             — page 3 of 5 —
-Problem T3. Accelerating shock wave (11 points) x-coordinate. This means that the electron’s and shock wave’s
+
+
+Problem T3. Accelerating shock wave (11 points) x-coordinate. This means that the electron’s and shock wave’s
 i. (1 pt) In the reference frame of the shock wave, the electron’s         average velocities in the direction of the x-axis are the same.
 initial velocity is ~v1 = (vx − w, vy , vz ) (0.3 pts). After deflecting   In other words, vx = w (0.5 pts).
 against the shock wave, the horizontal component of the velocity
@@ -289,15 +295,15 @@ a centripetal force
                          = eB0 (0.1 pts).                                  viii. (1 pt) Over the course of one period, there is a constant
 iv. (1 pt) Before the first collision, the electron’s x-coordinate is      acceleration ax acting on the electron in the x-direction, both
 x1 (t) = R sin 2π Tt (0.2 pts) and the shock wave’s x-coordinate
-                    
+
                                                                            in the lab frame, and in the shock wave’s frame; the behaviour
 is x2 (t) = wt (0.1 pts). The second impact happens when                   is the same what would be if there were a free fall acceleration
 x1 (t) = x2 (t) (0.2 pts). Thus                                            g = a. If we let x be the relative distance between the electron
-                                     
+
                    2mw         B0 e                                        and the shock wave, and the initial x-directional momentum at
                          sin        t2 = wt2                                                                     p2x0    p2x
                     eB0         m                                          x = 0 be px0 , then the quantity E = 2m    = 2m   + max x is con-
-                                     
+
                                B0 e      1 B0 e                            served over the course of one period (energy conservation law)
                          sin        t2 =        t2
                                 m        2 m
@@ -312,9 +318,11 @@ u = 1.895 (0.1 pts). Thus t2 = 1.895 Bm0 e (0.1 pts).                      (0, p
 v. (0.5 pts) Every time a collision happens, the electron and phase diagram (correctly drawn figure 0.1 pts, arrow shown 0.1
 the front are at the same place, with the same value of the                pts).
                                                                 — page 4 of 5 —
-            px                                                     (0.2 pts).
+
+
+            px                                                     (0.2 pts).
                                                                                               mvy2
-          px0                                                          Since vy  vx , Wf ≈    2
+          px0                                                          Since vy   vx , Wf ≈    2
 
                                                                                              ε3 mw2     ε2
                                                                                      Wf =           =       eV0
@@ -365,7 +373,7 @@ v0 >     2eV0
                                   B ev                                                  w2                c
 comes from Lorentz force ax = 0m y (0.3 pts). Thus
                                                                                                                   2
-                    1 B0 e 3 3       B0 evy                        for w  c we can approximate E = 2eV 0c
+                    1 B0 e 3 3       B0 evy                        for w   c we can approximate E = 2eV 0c
                                                                                                            (0.1 pts). So, the
                             w ε2 =                                                                    w2
                    2.04 mw2             m                          electron will fall behind the shock wave if its relativistic energy

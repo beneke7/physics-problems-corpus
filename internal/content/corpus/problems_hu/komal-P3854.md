@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3854. Mérlegen kiegyensúlyozunk egy homokórát, miközben pereg benne a homok. Megváltozik-e a mérleg egyensúlya, miután már az összes homok lefolyt a homokóra alsó edényébe? 
+P. 3854. Mérlegen kiegyensúlyozunk egy homokórát, miközben pereg benne a homok. Megváltozik-e a mérleg egyensúlya, miután már az összes homok lefolyt a homokóra alsó edényébe?
  Lánczos Kornél fizikaverseny, Székesfehérvár

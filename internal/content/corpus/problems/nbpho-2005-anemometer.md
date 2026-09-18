@@ -28,4 +28,4 @@ Anemometer is a device measuring flow rate of a gas or a fluid. Let us look at t
 1) What is the (spatial) period $\Delta$ of the interference pattern created along the $x$-axis (see Figure; 2 pts)?
 2) Let the oscillation frequency of the photometer signal be $\nu=50\ \mathrm{kHz}$. How large is the fluid's speed $v$? What can be said about the direction of the fluid flow (2 pts)?
 3) Let us consider a situation in which the wavelengths of the plane waves differ by $\delta\lambda=4.4\ \mathrm{fm}$ ($1\ \mathrm{fm}=10^{-15}\ \mathrm{m}$). What is the frequency of signal oscillations now, if the fluid's speed is the same as in the previous part? Is it possible to determine the flow direction with such a device (2 pts)?
-![figure](../../sources/nbpho/figures/nbpho-2005-anemometer-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2005-anemometer-fig1.jpg)

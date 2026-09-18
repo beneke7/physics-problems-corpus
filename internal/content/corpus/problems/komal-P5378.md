@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: []
 ---
 
-Switch K in the circuit shown in the figure has been closed for a long time. Once the switch is opened. What is the magnitude of the induced electromotive force in the coil immediately after the switch is opened? 
+Switch K in the circuit shown in the figure has been closed for a long time. Once the switch is opened. What is the magnitude of the induced electromotive force in the coil immediately after the switch is opened?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5378-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5378-fig1.gif)

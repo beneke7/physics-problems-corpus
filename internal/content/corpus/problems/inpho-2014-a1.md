@@ -24,7 +24,7 @@ techniques: [differential-element, conservation-laws]
 ---
 
 1. A uniform metallic wire is bent in the form of a parabola and is placed on a horizontal nonconducting floor. A vertical uniform magnetic induction $B$ exists in the region containing the parabolic wire. A straight conducting rod (shown by thick line in the figure below), starting from rest at the vertex of the parabola at time $t=0$, slides along the parabolic wire with its length perpendicular to the axis of symmetry of the parabola as shown in the figure. Take the equation of the parabola to be $y=k x^{2}$ where $k$ is a constant. Consider that rod always touches wire.
-![](inpho-2014-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2014-a1-fig01.png)
 
 If the rod moves with a constant speed $v$,
 

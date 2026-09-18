@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200901"
 verification_status: pending
 ---
 
-Water which is at rest can be supercooled even to a temperature of -10 $^\circ$C, without the water becoming a solid. If it is disturbed some part of it suddenly freezes. What is the amount of this suddenly freezing part? 
+Water which is at rest can be supercooled even to a temperature of -10 $^\circ$C, without the water becoming a solid. If it is disturbed some part of it suddenly freezes. What is the amount of this suddenly freezing part?
  (4 pont)

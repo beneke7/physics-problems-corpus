@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy, extremization]
 ---
 
-In cloudy weather, it either rains or it doesn't. What determines whether the raindrops (or the ice crystals) in a cloud fall off due to gravity or stay in the cloud? 
+In cloudy weather, it either rains or it doesn't. What determines whether the raindrops (or the ice crystals) in a cloud fall off due to gravity or stay in the cloud?
  (3 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [superposition, auxiliary-unknowns]
 ---
 
-The charge of the plates of a parallel plate capacitor is changed. Initially the voltage between the plates is $U_0$. The charge of the positive plate is increased by a factor of three and the charge of the negative plate is halved. What will the voltage between the plates be? 
+The charge of the plates of a parallel plate capacitor is changed. Initially the voltage between the plates is $U_0$. The charge of the positive plate is increased by a factor of three and the charge of the negative plate is halved. What will the voltage between the plates be?
  (4 pont)

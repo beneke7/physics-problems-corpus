@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [choose-reference-frame, graphical-reduction]
 ---
 
-The ``double yo-yo'' shown in the figure consists of two identical discs of uniform density and the threads wound on them. 
+The ``double yo-yo'' shown in the figure consists of two identical discs of uniform density and the threads wound on them.
 
- The two bodies are released from rest such that the threads are vertical. How long does it take to unwind the thread from the lower disc, if its length is 80 cm? 
+ The two bodies are released from rest such that the threads are vertical. How long does it take to unwind the thread from the lower disc, if its length is 80 cm?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5494-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5494-fig1.gif)

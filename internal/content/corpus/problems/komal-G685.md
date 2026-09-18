@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [strategic-heuristics, limiting-and-special-cases]
 ---
 
-The fuel tank of an American car can hold 15 gallons of gasoline. How many miles can the driver of the car go with the car, which was initially filled fully with gasoline, if according to the European catalogue of the car the fuel consumption of the car is 6.5 litres per 100 kilometres? 
+The fuel tank of an American car can hold 15 gallons of gasoline. How many miles can the driver of the car go with the car, which was initially filled fully with gasoline, if according to the European catalogue of the car the fuel consumption of the car is 6.5 litres per 100 kilometres?
  (3 pont)

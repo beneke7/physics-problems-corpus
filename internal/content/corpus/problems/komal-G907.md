@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [exploit-symmetry]
 ---
 
-Vertex $A$ of the $ABC$ equilateral triangle-shaped plate, which has uniform mass distribution and mass $m=0.7~\mathrm{kg}$, is connected to the vertical wall with a hinge, as shown in the figure. Vertex $B$, which is the vertex at the other end of the horizontal side $AB$ of the triangle, is connected to the wall by a string. The string makes an angle of $\varphi=60^\circ$ with the horizontal. 
+Vertex $A$ of the $ABC$ equilateral triangle-shaped plate, which has uniform mass distribution and mass $m=0.7~\mathrm{kg}$, is connected to the vertical wall with a hinge, as shown in the figure. Vertex $B$, which is the vertex at the other end of the horizontal side $AB$ of the triangle, is connected to the wall by a string. The string makes an angle of $\varphi=60^\circ$ with the horizontal.
 
- a) What is the tension in the string? 
- b) What is the magnitude and the direction of the force exerted on the hinge by the triangle-shaped plate? 
+ a) What is the tension in the string?
+ b) What is the magnitude and the direction of the force exerted on the hinge by the triangle-shaped plate?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G907-fig1.png)
+![figure](../../figures/komal/figures/komal-G907-fig1.png)

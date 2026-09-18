@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 3817. Egy homogén hengert helyezünk az hajlásszögű lejtőre úgy, hogy a henger tengelye vízszintes. A súrlódási együttható 0,2. Mekkora gyorsulással jön le a henger a lejtőn? 
+P. 3817. Egy homogén hengert helyezünk az hajlásszögű lejtőre úgy, hogy a henger tengelye vízszintes. A súrlódási együttható 0,2. Mekkora gyorsulással jön le a henger a lejtőn?
  Vermes Miklós fizikaverseny, Sopron

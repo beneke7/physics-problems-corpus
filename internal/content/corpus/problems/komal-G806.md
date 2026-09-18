@@ -22,13 +22,13 @@ verification_status: self-solved
 techniques: [model-reduction, auxiliary-unknowns]
 ---
 
-In the circuit shown in the figure, the resistors $R_1$, $R_2$ and $R_3$ are known, as well as the current $I_3$ which flows through resistor $R_3$. 
+In the circuit shown in the figure, the resistors $R_1$, $R_2$ and $R_3$ are known, as well as the current $I_3$ which flows through resistor $R_3$.
 
- Determine the 
- $a)$ values of the current, $I_1$ and $I_2$, through the other two resistors, 
- $b)$ the electromotive force of the battery. 
- $c)$ How much heat is dissipated in the whole system in a time of $t$? 
- ( Data: $R_1 = 20~\Omega$, $R_2 = 10~\Omega$, $R_3 = 40~\Omega$, $I_3=2$ A, $t=30$ s.) 
+ Determine the
+ $a)$ values of the current, $I_1$ and $I_2$, through the other two resistors,
+ $b)$ the electromotive force of the battery.
+ $c)$ How much heat is dissipated in the whole system in a time of $t$?
+ ( Data: $R_1 = 20~\Omega$, $R_2 = 10~\Omega$, $R_3 = 40~\Omega$, $I_3=2$ A, $t=30$ s.)
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G806-fig1.gif)
+![figure](../../figures/komal/figures/komal-G806-fig1.gif)

@@ -51,11 +51,11 @@ f = βma =
 The critical angle for slipping is the angle where f is equal to the maximum possible static
 friction force, f = µmg cosθ. Combining and solving gives
 tanθc = µ
-
+
 1 +
 1
 β
-
+
 .
 b. i. As found above, the acceleration is
 a =

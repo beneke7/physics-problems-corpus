@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200703"
 verification_status: pending
 ---
 
-In a container there is mixture of helium and hydrogen gas. What is the ratio of the masses of the two gases if the partial pressures of the two gases are equal. 
+In a container there is mixture of helium and hydrogen gas. What is the ratio of the masses of the two gases if the partial pressures of the two gases are equal.
  (4 pont)

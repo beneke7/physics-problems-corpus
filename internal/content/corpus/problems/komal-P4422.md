@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, choose-reference-frame]
 ---
 
-A pion ( $^{+}$) is a subatomic particle the mass of which is 273 times as big as that of an electron. One of its possible decay mode is a decay into a positron ( e $^{+}$) and an electron-neutrino ( $_{e}$): . What is the minimum speed of that pion which decays such that the positron and the neutrino will have perpendicular velocities? (Assume that the rest mass of the neutrino is 0, so it is a particle for which the relation between its energy and its linear momentum is E = pc .) 
+A pion ( $^{+}$) is a subatomic particle the mass of which is 273 times as big as that of an electron. One of its possible decay mode is a decay into a positron ( e $^{+}$) and an electron-neutrino ( $_{e}$): . What is the minimum speed of that pion which decays such that the positron and the neutrino will have perpendicular velocities? (Assume that the rest mass of the neutrino is 0, so it is a particle for which the relation between its energy and its linear momentum is E = pc .)
  (6 pont)

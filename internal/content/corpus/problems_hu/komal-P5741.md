@@ -9,14 +9,14 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5741. Egy izzólámpa $I(U)$ karakterisztikája az ábrán látható. 
+P. 5741. Egy izzólámpa $I(U)$ karakterisztikája az ábrán látható.
 
- a) Ábrázoljuk az izzószál hőmérsékletét a felvett teljesítmény függvényében! 
+ a) Ábrázoljuk az izzószál hőmérsékletét a felvett teljesítmény függvényében!
 
- Tegyük fel, hogy az izzószál ellenállása arányos az abszolút hőmérséklettel, és a környezet hőmérséklete $27~{}^\circ\mathrm{C}$. 
+ Tegyük fel, hogy az izzószál ellenállása arányos az abszolút hőmérséklettel, és a környezet hőmérséklete $27~{}^\circ\mathrm{C}$.
 
- b) Az izzószál kétféle módon ad le hőt: egyrészt hővezetéssel, másrészt hősugárzással. Határozzuk meg az izzószál effektív sugárzó felületének nagyságát! 
+ b) Az izzószál kétféle módon ad le hőt: egyrészt hővezetéssel, másrészt hősugárzással. Határozzuk meg az izzószál effektív sugárzó felületének nagyságát!
 
  Feltehetjük, hogy az izzószál abszolút fekete test.
 
-![figure](../../raw_html/komal_figures/komal-P5741-fig1.png)
+![figure](../../figures/komal/figures/komal-P5741-fig1.png)

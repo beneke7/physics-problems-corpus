@@ -15,10 +15,10 @@ provenance_note: "Source-provided solution section from cache/phoxiv/nbpho/2014_
 5. Planck's constant
 1) When we connect each of the diodes to the
 battery, we can observe the light of the emit-
-ted light; the mapping is as follows: 940nm 
-invisible (infrared), 620nm  red, 590nm  or-
-ange, 525nm  green; 470nm  blue; 450nm
- violet.
+ted light; the mapping is as follows: 940nm
+invisible (infrared), 620nm   red, 590nm   or-
+ange, 525nm   green; 470nm   blue; 450nm
+  violet.
 2) We can measure the current I through the
 diode (which is also the current through the res-
 istor R), so that the voltage on the diode would
@@ -41,12 +41,12 @@ eA/c.
 3) The major source of the uncertainty is not
 the instrument uncertainties, but the departure
 of the real diode data from the simplistic model.
-Therefore we can try to 
+Therefore we can try to
 t the data points with
-dierent straight lines making the slope A as
+di erent straight lines making the slope A as
 steep as possible (while still keeping a reason-
-able 
-t with the data points, and also as 
+able
+t with the data points, and also as
 at
 as possible; the uncertainty of A is found as
 ∆A = 1

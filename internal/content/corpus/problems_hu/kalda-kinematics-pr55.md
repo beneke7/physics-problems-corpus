@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán egy vízsugár látható háttérráccsal együtt. A rács osztása megegyezik a vízsugár vízszintes csőből való kilépéskori átmérőjével. A vízhozam időben állandó; ha a kifolyó víz összegyűjtésére $V=150 \mathrm{~cm}^{3}$ térfogatú edényt használunk, az $t=5 \mathrm{~min}$ alatt telik meg. Határozzuk meg a vízsugár átmérőjét a cső kilépésénél.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr55-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr55-fig1.jpg)

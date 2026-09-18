@@ -22,7 +22,7 @@ techniques: [model-reduction, cross-domain-analogy]
 
 3. Egy jó minóségü transzformátor szekunder tekercsének menetszáma háromszorosa a primer tekercsének. Ezt a trafót a 11. ábra szerint hálózati váltóáramú feszültségforrásra kapcsoljuk a következő módon: A primer körbe egymással párhuzamosan iktatunk be öt egyforma, a hálózati feszültségre méretezett izzó közül négyet, az ötödiket a szekunder körbe kötjük. Mi történik a $K$ kapcsoló zárása után?
 
-![figure](sources/eotvos/figures/eotvos-2005-p3-fig5.jpg)
+![figure](../../figures/eotvos/figures/eotvos-2005-p3-fig5.jpg)
 11. ábra
 
 a) Mindegyik izzó tữrhetốen ég.

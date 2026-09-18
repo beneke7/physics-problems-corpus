@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
-Estimate the factor by which the pressure required to push garlic through a garlic press is greater than the atmospheric pressure. 
+Estimate the factor by which the pressure required to push garlic through a garlic press is greater than the atmospheric pressure.
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G805-fig1.gif)
+![figure](../../figures/komal/figures/komal-G805-fig1.gif)

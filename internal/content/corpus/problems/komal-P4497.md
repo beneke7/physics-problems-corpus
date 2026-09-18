@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201301"
 verification_status: pending
 ---
 
-The length of a glass tube, which is closed at one end is =100 cm. Holding it vertically with its closed end at its top, it is immersed into mercury to half of its height. What is the height of the mercury in the tube? The atmospheric pressure is H =75 Hgcm. 
+The length of a glass tube, which is closed at one end is =100 cm. Holding it vertically with its closed end at its top, it is immersed into mercury to half of its height. What is the height of the mercury in the tube? The atmospheric pressure is H =75 Hgcm.
  (3 pont)

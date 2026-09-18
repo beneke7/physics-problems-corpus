@@ -41,7 +41,9 @@ b) In these explanations, the observations that are being explained should be in
 
 
                                              1
-c) 200 (peas) × 52 × 2 (twice a week) × (60 × 106 )/3 (a third of the population) = 4 × 1011
+
+
+c) 200 (peas) × 52 × 2 (twice a week) × (60 × 106 )/3 (a third of the population) = 4 × 1011
    An answer between 5 × 1010 and 1012                                                   [5]
 
 
@@ -61,7 +63,7 @@ d)   (i)     i. A sketch showing the same current flowing from the left of 𝑅i
                                          𝑉in     𝑉out    𝑉out     𝑉out
                                               +       =−        −
                                          𝑅in 𝑅in 𝐴0      𝑅 f 𝐴0    𝑅f
-                                                               
+
                                              1      1      1          𝑉in
                                       𝑉out      +      +          =−
                                              𝑅f 𝑅f 𝐴0 𝐴0 𝑅in          𝑅in
@@ -97,25 +99,27 @@ d)   (i)     i. A sketch showing the same current flowing from the left of 𝑅i
 
 
                                                 2
-        ii. Eliminate 𝑖,
+
+
+        ii. Eliminate 𝑖,
                                                        𝑅2𝑉out
                                                  𝑣=
                                                        𝑅1 + 𝑅2
               Given that
                                           𝑉out = 𝐴0 (𝑉in − 𝑣)
-              then                                           
+              then
                                                        𝑅2𝑉out
                                      𝑉out = 𝐴0 𝑉in −
                                                       𝑅1 + 𝑅2
-                                                     
+
                                               𝑅 2 𝐴0
                                     𝑉out 1 +            = 𝐴0𝑉in
                                              𝑅1 + 𝑅2
-                                                       
+
                                            1       𝑅2
                                     𝑉out     +            = 𝑉in
                                            𝐴0 𝑅 1 + 𝑅 2
-              So using 𝐴0 ≫ 1                              
+              So using 𝐴0 ≫ 1
                                          𝑉out            𝑅1
                                               = 𝐴g ≈ 1 +
                                          𝑉in             𝑅2
@@ -159,7 +163,9 @@ d)   (i)     i. A sketch showing the same current flowing from the left of 𝑅i
 
 
                                           3
-Question 2                      Energy Levels
+
+
+Question 2                      Energy Levels
                                            𝜆
 a)    (i) 𝑛𝜆 = 2𝜋𝑟         or        2𝑛.     = circumference                               [1]
                                            2
@@ -221,7 +227,9 @@ a)    (i) 𝑛𝜆 = 2𝜋𝑟         or        2𝑛.     = circumference     
 
 
                                                 4
-     (v)
+
+
+     (v)
                                                      1 1 𝑒2
                                              𝐸 =−
                                                      2 4𝜋𝜖 0 𝑟
@@ -268,18 +276,20 @@ b)   (i) Something like this:
                                             𝑚1
                                                 (𝑎 − 𝑟 2 ) = 𝑟 2
                                             𝑚2
-                                                                
+
                                            𝑚1               𝑚1
                                               𝑎 = 𝑟2 1 +
                                            𝑚2               𝑚2
-           Hence,                                                 
+           Hence,
                                                          𝑚2 + 𝑚1
                                             𝑎 = 𝑟2
                                                            𝑚1
 
 
                                               5
-     So,
+
+
+     So,
                                                   𝑟2𝑚2
                                              𝑎=
                                                     𝜇
@@ -316,16 +326,16 @@ b)   (i) Something like this:
                                                    𝑚 e 3𝑚 p
                                           =1−
                                                 (𝑚 e + 3𝑚 p )
-                                                       3𝑚
+                                                       3𝑚
                                                           p
-                                          =1−         
-                                                                
+                                          =1−
+
                                                               𝑚e
                                                 3𝑚 p 1 + 3𝑚p
-                                                
-                                                   
-                                                   
-                                                           
+
+
+
+
                                                         𝑚e
                                           ≈1− 1−
                                                        3𝑚 p
@@ -336,19 +346,21 @@ b)   (i) Something like this:
                                            𝑚 e 3𝑚 p
                                      𝜇=
                                           𝑚 e + 3𝑚 p
-                                              𝑚e 3𝑚
-                                                    p
-                                        =                
+                                              𝑚e  3𝑚
+                                                     p
+                                        =
                                                       𝑚e
                                           3𝑚 p 1 + 3𝑚p
-                                           
-                                                        
+
+
                                                      𝑚e
                                         ≈ 𝑚e 1 −
                                                     3𝑚 p
 
                                          6
-       and so they are closer together for tritium and hence a lower frequency photon will
+
+
+       and so they are closer together for tritium and hence a lower frequency photon will
        cause a transition and thus a longer wavelength for tritium. Conversely, hydrogen
        would absorb a shorter wavelength. Comment required, not a guess.
                                                                                        [2]
@@ -367,4 +379,6 @@ a) Balloons
 
 
                                           7
-8
+
+
+8

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-A moving argon atom collides elastically with a neon atom, initially at rest. What is the maximum angle of deflection of the argon atom? 
+A moving argon atom collides elastically with a neon atom, initially at rest. What is the maximum angle of deflection of the argon atom?
  (5 pont)

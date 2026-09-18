@@ -69,7 +69,9 @@ Taking into account the surface tension the initial pressure of the gas in the b
                                 R1
 The final pressure in view of the electrostatic repulsion force is found as (recall the well-known
 problem for the forces that attempt to tear out the charged sphere)
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 2/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 2/14
 
 
                                4    q2
@@ -112,7 +114,9 @@ represent the points where the third source should be placed, they are marked by
 amplitude of waves from the third source must be 2 times greater than the amplitude of waves
 coming from sources S1 and S 2 , hence the wave intensity of the third source should be 4 times
 higher, i.e. 4I 0 .
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                  Page 3/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                  Page 3/14
 
 
                                       Content                                                           Points
@@ -179,7 +183,9 @@ these layers are visible from the top of the pyramid with the same solid angle �
 one sixth of the full solid angle (as if the observer was located inside the cubeat its center!):
                                1        2
                          Ω2 = 6 4𝜋 = 3 𝜋.                                                         (7)
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 4/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 4/14
 
 
 The free fall acceleration of the single layer is found as
@@ -244,7 +250,9 @@ The conservation of energy is written as:
 
             4
 where 𝑀 = 3 𝜋𝑅3 𝜌4 denotes the total mass of the cloud.
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                   Page 5/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                   Page 5/14
 
 
 Change in the spacecraft momentum projection on the x-axis of the Cartesian coordinate system is
@@ -319,7 +327,9 @@ velocity turns zero. Then, from the laws of conservation of energy and angular m
                                   =    + 2𝑅3 𝑟𝑚𝑖𝑛 −                      ,                                         (32)
                               2        2                           2𝑅
                             𝑣0 𝑟𝑚𝑖𝑛 = 𝑣∞ 𝑏,                                                                        (33)
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                            Page 6/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                                            Page 6/14
 
 
 which results in the following equation
@@ -393,7 +403,9 @@ and to pull apart the whole cloud the following work must be done
   1.2    Formula (6) 𝛼 = 2𝜋1 or 𝛼 = 𝐺𝜌1 ℎ                                                                       0.2       0.5
                                                               −2            2
          Numerical value of 𝛼 = 1.56 × 10 𝑚/𝑠                                                                   0.1
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                              Page 7/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                              Page 7/14
 
 
                                   2
@@ -482,7 +494,9 @@ and to pull apart the whole cloud the following work must be done
                         𝑚𝑣∞,𝑚𝑖𝑛                    𝑚02           𝑚𝑢𝜏2        𝑀𝑚
  2.3     Formula (37)                  =                    +           −𝐺 𝑅                       0.4      1.0
                               2                        2           2
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 8/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 8/14
 
 
           Formula (38) 𝑢𝜏 𝑅 = 𝑣∞ 𝑏                                                      0.3
@@ -539,7 +553,9 @@ and, thus,
                                     1
                           1          2  3,                                                     (6)
                                   2 3
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                     Page 9/14
 
 
 therefore,
@@ -595,7 +611,9 @@ and, finally,
                         2. Wire frame in the shape of a prism (7.0 points)
 2.1 [0.8 points] If the vertices of the cube with the same potentials are connected, then, the
 following equivalent circuits are obtained
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 10/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                    Page 10/14
 
 
 and easily calculated using the standard method as
@@ -636,7 +654,9 @@ the node x0 :
                                  R0           R0         R0        R0
 Here it has been taken into account that y0   x0 , xN 1  x1 . Substituting the values for x0 , x1 ,
 results in
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                  Page 11/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                  Page 11/14
 
 
                               4 x0  2 x1 2         q  q  2        q 1
@@ -691,7 +711,9 @@ expressing
                              2                      2 3
 where   2  3  1 .
 Then,
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 12/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions                   Page 12/14
 
 
 
@@ -761,7 +783,9 @@ to infinity!
  1.4     Formula (7)   pk  qk 3
                          k
                                                                                        0.2        0.2
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 13/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions     Page 13/14
 
 
 
@@ -828,7 +852,9 @@ to infinity!
                              Table 2. Resistances of prisms.
  2.8                  N          pN        qN             RN              1.0     1.0
                        1         2          1             R0
-XIII International Zhautykov Olympiad/Theoretical Competition/Solutions        Page 14/14
+
+
+XIII International Zhautykov Olympiad/Theoretical Competition/Solutions        Page 14/14
 
 
                                                             4    2

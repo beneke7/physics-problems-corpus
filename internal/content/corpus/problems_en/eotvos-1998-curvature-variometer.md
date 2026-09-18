@@ -36,4 +36,4 @@ from the apparatus horizontally. Now, using the above measurement data of
 Eötvös, estimate the angle by which Hill Gellért modifies the direction of a
 plumb line at the position of the measurement.
 
-![Curvature variometer apparatus](eotvos-1998-curvature-variometer-fig1.jpg)
+![Curvature variometer apparatus](../../figures/eotvos/figures/eotvos-1998-curvature-variometer-fig1.jpg)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [scaling-and-dimensional-analysis, conservation-laws]
 ---
 
-A thin, light, elastic rod sticks out of the wall of an old house. In which case will its end be bent more, if a pigeon sits to its middle or if a blackbird of mass one-quarterth of the mass of the pigeon sits to the end of the rod? 
+A thin, light, elastic rod sticks out of the wall of an old house. In which case will its end be bent more, if a pigeon sits to its middle or if a blackbird of mass one-quarterth of the mass of the pigeon sits to the end of the rod?
  (5 pont)

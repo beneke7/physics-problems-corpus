@@ -46,7 +46,9 @@ to do this. You can remember that the binding energy of an electron in a hydroge
 13.6eV, and the chemical bond energies are a bit smaller. Or, you can recall that the electrons
 in batteries are pushed by chemical reactions, and a typical battery voltage is 1V. Hydrogen
 bonds are particularly weak, so their energy is about 0.1eV.
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The number of water molecules per area 1m2 is about 1018, and the energy of each missing
 bond is 0.1eV = 1.6 × 10−20 J, giving an estimate of about 0.01J/m2, within an order of
 magnitude of the true value.
@@ -80,25 +82,25 @@ law gives
 P1V1 + P2V2 = P3V3.
 If there is no surface tension, then all the Pi are equal to P, so V3 = V1 + V2.
 (c) Accounting for the excess pressure, we have
-
+
 P +
 4γ
 R1
-
+
 R3
 1 +
-
+
 P +
 4γ
 R2
-
+
 R3
 2 =
-
+
 P +
 4γ
 R3
-
+
 R3
 3
 and solving for γ gives
@@ -117,25 +119,27 @@ R2
 Since γ is small, the numerator will be quite small relative to the radii of the bubbles, so
 the answer will have a large relative error even if each length is determined precisely. So this
 method isn’t very practical.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 3 (Cahn). A tightly closed jar is completely filled with water. At the bottom of the jar
 are two small air bubbles. The pressure at the top of the jar is P0, the radius of each bubble is R0,
 and the surface tension is γ. The two bubbles then merge isothermally. Calculate the new pressure
 at the top of the jar.
 Solution. Since the air-water surface has only one “side”, the excess pressure is ∆P = 2γ/R0. The
 process is isothermal and the number of moles of gas stays the same, so by the ideal gas law,
-
+
 P1 +
 2γ
 R1
-
+
 R3
 1 = 2
-
+
 P0 +
 2γ
 R0
-
+
 R3
 0.
 Since water is incompressible, the volume of gas should also stay the same, R3
@@ -146,8 +150,8 @@ P1 = P0 +
 R0
 (2 − 22/3
 ).
-[3] Problem 4.  W 1 0USAPhO 2007, problem A3.
-[3] Problem 5.  ^ 1 0IPhO 2014, problem 1B.
+[3] Problem 4.   W 1 0USAPhO 2007, problem A3.
+[3] Problem 5.   ^ 1 0IPhO 2014, problem 1B.
 Idea 2
 One can also have liquid, solid, and airin the same problem, which leads to some complications.
 Let Al and As be the surface areas of the liquid and solid exposed to the air, and Asl be the
@@ -167,7 +171,9 @@ contact with a solid, the solid exerts a force per length of Usl on the boundary
 along the solid.
 Example 1
 The surface of a drop of water makes a contact angle θ with a solid, as shown.
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 When θ is acute, the surface is said to be hydrophilic. If θ is obtuse, it is hydrophobic. Find
 an expression for θ in terms of the relevant surface tensions.
 Solution
@@ -194,7 +200,9 @@ same result can be derived in terms of forces, but it’s more subtle than it lo
 derivation in textbooks is wrong. For a clear derivation, see section 9.3 of Wang and Ricardo.
 Example 2
 A very thin, hollow glass tube of radius r is dipped vertically inside a container of water.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Find the equilibrium height of the water in the tube.
 Solution
 We first encountered this problem in M7, where we solved it by using Pascal’s principle,
@@ -225,7 +233,9 @@ Detergent is a surfactant, meaning that it decreases the surface tension of wate
 places the detergent in the middle of the dish, it diffuses outward, making the surface tension
 temporarily higher near edges of the dish. This leads to an unbalanced surface tension force
 on the pepper grains, pulling them to the edges.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 This phenomenon is called the Marangoni effect. Of course, the force vanishes once the
 detergent becomes uniformly distributed, and the surface tension is uniform again.
 Remark
@@ -262,7 +272,9 @@ Q = mL.
 For example, if ice is heated up, its temperature will gradually increase until it hits 0◦C. At
 that point, the temperature will remain constant until all of the ice is melted, i.e. when the
 full latent heat has been supplied.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 We can roughly estimate the latent heats of melting and evaporation. In general, the latent
 heat can go into either in breaking molecular bonds, or increasing the entropy.
@@ -315,7 +327,9 @@ supplying latent heat. Compute the work done by the cycle.
 (b) Argue that we may ignore all heat transfer except for the latent heat.
 (c) Derive the Clausius–Clapeyron equation by setting the efficiency equal to the Carnot efficiency.
 This classic setup is also considered in the second half of USAPhO 2023, problem A3.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) Almost all the work is done in the isothermal processes, due to the changes in
 volume in the phase transitions. (The adiabatic steps are negligible, because not only is the
 temperature change infinitesimal, but the volume change is also infinitesimal!) The positive
@@ -354,7 +368,9 @@ dG2 = V2 dP − S2 dT.
 By the definition of the coexistence curve, these two must be equal, so
 (V1 − V2)dP = (S1 − S2)dT.
 We also know that S2 − S1 = L/T, so rearranging gives the desired result.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Remark: Thermodynamic Potentials
 You might sometimes see the Clausius–Clapeyron equation written in terms of a difference in
 enthalpy ∆H rather than a latent heat. The enthalpy is the state function H = U + PV , so
@@ -389,13 +405,13 @@ P =
 ∆T
 T
 L
-
+
 1
 ρi
 −
 1
 ρw
-−1
+ −1
 ≈ 6.76 × 107
 Pa
 where we used
@@ -407,7 +423,9 @@ with two feet will be around 5 × 10−4 m2. The weight PA needed will then be a
 corresponding to a mass of about 3,000kg. Thus, unless you are incredibly massive, or the ice
 is very close to melting already, pressure alone is not enough to melt the ice. Scientists are still
 arguing over the true explanation; you can see a recent review here.
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Now we focus on the specifics of liquid-gas phase transitions.
 [3] Problem 9. Suppose that at pressure P0, a liquid-gas phase transition takes place at temperature
 T0. Assume the gas obeys the ideal gas law, and neglect the volume of the liquid.
@@ -445,12 +463,12 @@ which gives
 P(T) = P0e
 − L
 nR
-
+
 1
 T
 − 1
 T0
-
+
 ∝ e−L/nRT
 .
 (b) The latent heat per molecule is now
@@ -488,24 +506,26 @@ dT
 T
 which gives
 P(T) = P0
-
+
 T
 T0
-
+
 e
 −
 E0
 kB
-
+
 1
 T
 − 1
 T0
-
+
 .
 In other words, compared to part (a) where we neglected the P ∆V contribution, there is now
 an additional linear temperature dependence.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (c) We apply the Clausius–Clapeyron equation to a small temperature change,
 ∆P
 ∆T
@@ -550,11 +570,11 @@ T
 = 1 +
 ∆T
 T
-
+
 L
 RT
 − 1
-
+
 .
 In other words, while the pressure and temperature of the vapor both certainly go up, whether
 the number of moles goes up or down depends on the specific substance! However, most
@@ -568,7 +588,9 @@ and temperature 373K. A piston is then slowly inserted, compressing the system i
 Sketch the P(V ) curve.
 Solution
 The answer is shown below.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Initially, we just have an ordinary isothermal compression. Both the water vapor and nitrogen
 gas compartments are compressed at the same rate, since they must have equal pressures and
 temperatures. When the total volume is halved, the pressure in both reaches one atmosphere.
@@ -579,7 +601,7 @@ This process completes once all the vapor is condensed, which is roughly when th
 volume has halved again. After this point, we again have ordinary isothermal compression,
 of the nitrogen gas alone.
 [3] Problem 10. NBPhO 2016, day 2, problem 2. A problem on phase transitions with data analysis.
-[3] Problem 11.  ^ 1 0USAPhO 2015, problem A4. A heat engine with phase transitions.
+[3] Problem 11.   ^ 1 0USAPhO 2015, problem A4. A heat engine with phase transitions.
 In practice, water on Earth is more subtle because there are three substances at play: liquid water,
 water vapor, and the rest of the atmosphere.
 Idea 4: Humidity
@@ -598,7 +620,9 @@ second is the pressure due to water vapor in the air. In everyday conditions, Pa
 100 times larger than Pvap, and the liquid water feels the pressure Ptot. But water vapor evap-
 orates and condenses independently of the air, so Patm has no effect on it at all. As a result,
 in equilibrium liquid water and water vapor can coexist, with the vapor having a pressure
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Pvap = P(T). The coexistence curve P(T) is thus also called the (equilibrium) vapor pressure.
 The relative humidity ϕ is defined as
 ϕ = Pvap/P(T)
@@ -630,7 +654,9 @@ mole fractions. Then the boiling point satisfies
 XaPa(Tb) + XwPw(Tb) = Patm.
 This is between the individual boiling points of alcohol and water. By the ideal gas law, the
 ratio of mole fractions of alcohol and water in the vapor is the ratio of partial vapor pressures,
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 so
 X′
 a
@@ -671,7 +697,9 @@ T − T0
 .
 Therefore, to find T, we draw a line on the graph passing through p = 0 and T = 20◦C and
 slope −65Pa/K. The solution is where this line intersects the curve ps(T), giving 6.5◦C.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (c) The temperature we’re looking for satisfies
 −65Pa/K =
 ps(T) − rps(T0)
@@ -696,17 +724,19 @@ denotes a decimal point.)
 In this section we’ll illustrate some of the ideas needed to analyze phase transitions in general.
 Idea 5
 A nonideal gas can be described by the van der Waals equation of state,
-
+
 P +
 an2
 V 2
-
+
 (V − nb) = nRT.
 You derived the pressure correction in T1 assuming weak attractive intermolecular forces;
 the modification of the volume accounts for the fact that the molecules can’t overlap each
 other. Remarkably, this equation of state also contains a liquid-gas phase transition!
 To see this, consider a plot of the isotherms on a PV diagram.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 At low temperatures, the isotherms can have negative compressibility, meaning that the
 pressure decreases as the volume decreases. This is unphysical, and means that the fluid is
 unstable at these points: if you push on it, it’ll just keep shrinking, until it condenses into a
@@ -720,16 +750,16 @@ above it; this is called Maxwell’s equal area rule.
 There is a critical isotherm marked in bold above. Above this temperature, there is no
 liquid-gas phase transition at all; instead we just have one phase, called a supercritical fluid.
 Specifically, this is the temperature of the first isotherm that no longer has a local minimum
-in pressure, which means 
+in pressure, which means
 ∂P
 ∂V
-
+
 T
 =
-
+
 ∂2P
 ∂V 2
-
+
 T
 = 0
 at the critical temperature T = Tc. As you will see in problem 14, this occurs at
@@ -741,7 +771,9 @@ a
 27b2
 .
 This point, marked above, is called the critical point.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The van der Waals equation of state is accurate for a sparse gas with weak attractive inter-
 actions; you shouldn’t expect it to be accurate for dense gases or the liquid state. However,
@@ -791,7 +823,9 @@ This is a phase transition where the material spontaneously becomes magnetized, 
 example of a phase transition which can be understood analytically. Though the results in (e) and
 (f) depend on the detailed parameters, the scalings found in these parts are universal, in the sense
 that they also apply to a wide variety of similar models.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The first term is easy,
 −B
 X
@@ -836,10 +870,10 @@ N choose N+.
 N!
 N
 2 (1 + m)
-
+
 ! N
 2 (1 − m)
-
+
 !
 .
 (c) The probability P(m) = e−βE(m)Ω(m) is found with Boltzmann’s theorem, where each state
@@ -859,10 +893,10 @@ log
 N!
 N
 2 (1 + m)
-
+
 ! N
 2 (1 − m)
-
+
 !
 !
 ≈ N logN−
@@ -880,26 +914,26 @@ N(1 − m)
 .
 To simplify this, we can expand the logarithms to get
 N
-
+
 logN −
 1 + m
 2
-
+
 logN + log
 1 + m
 2
-
+
 −
 1 − m
 2
-
+
 logN + log
 1 − m
 2
-
+
 and various factors cancel to give
 −N
-
+
 1 + m
 2
 log
@@ -911,19 +945,21 @@ log
 log
 1 − m
 2
-
+
 .
 Setting dF/dm to zero gives
 0 = −NB − NJm − T
 ∂S
 ∂m
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 which is equivalent to
 N(B + Jm) = −kBT
 ∂ logΩ
 ∂m
 = NkBT
-
+
 1
 2
 log
@@ -935,7 +971,7 @@ log
 log
 1 − m
 2
-
+
 .
 Then we have
 βB + βJm =
@@ -953,10 +989,10 @@ m(T)
 B > 0
 (e) With B = 0, for the magnetization to be nonzero, we need a non-zero solution to
 m = tanh
-
+
 Jm
 kBT
-
+
 .
 Since the second derivative of tanh(ax), −2a2 sech2
 (ax)tanh(ax) is always negative for x > 0,
@@ -987,16 +1023,18 @@ which means that at lowest order in epsilon,
 m ≈
 √
 3ϵ =
-
+
 3(Tc − T)
 Tc
-1/2
+ 1/2
 .
 (f) In this case we have m = tanh(m + B/J), and using the same series expansion as above,
 neglecting higher-order terms in B, we find m ≈ (3B/J)1/3.
-[5] Problem 16.  h 1 0APhO 2011, problem 3. A nice problem on a real-world mechanical phase
+[5] Problem 16.   h 1 0APhO 2011, problem 3. A nice problem on a real-world mechanical phase
 transition. Some of the intuition you gained studying the van der Waals gas will be useful.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 4 Thermodynamic Systems
 Now that we know all about the different methods of heat transfer, as well as phase transitions, we
 consider some questions involving a mix of these concepts as well as mechanics.
@@ -1026,7 +1064,9 @@ thread, and squashes while on the plane. The slick solution neglects these effec
 only thermal expansion, but the above argument shows that this assumption is inconsistent:
 you can’t have the latter without the former. This is an example of how thermodynamic
 considerations alone can, perhaps surprisingly, yield information about mechanical properties.
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 The paper linked above performs a careful analysis and shows that, for most materials, the
 ball on the thread instead ends up colder.
 Example 7
@@ -1075,15 +1115,17 @@ C(T) =
 aT4
 0
 .
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 18. NBPhO 2011, problem 8. A tricky data analysis problem.
 [3] Problem 19. NBPhO 2014, problem 9. A nice problem reviewing radiation and kinetic theory.
 [4] Problem 20. @ 1 0EuPhO 2019, problem 1.
 5 Thermodynamic Fluids
 In this section, we focus on problems combining thermodynamics with fluids, as covered in M7.
 We begin with some questions which only require fluid statics.
-[5] Problem 21.  h 1 0IPhO 1998, problem 2. A very nice real-world fluids/thermodynamics question.
-[5] Problem 22.  h 1 0APhO 2009, problem 3. Another nice, simple model of a real-world phenomenon.
+[5] Problem 21.   h 1 0IPhO 1998, problem 2. A very nice real-world fluids/thermodynamics question.
+[5] Problem 22.   h 1 0APhO 2009, problem 3. Another nice, simple model of a real-world phenomenon.
 Idea 6
 In M7 we considered Bernoulli’s principle for incompressible liquids with no temperature.
 However, in general fluids are compressible and carry internal energy. To derive Bernoulli’s
@@ -1118,7 +1160,9 @@ v2
 + gh + cpT = const
 where we’ve added on the contribution of gravitational potential energy. In this case, cp is
 the heat capacity at constant pressure per unit mass, not per mole. Unfortunately, people
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 use the letter c or C to denote many different kinds of (specific) heat capacities. Whenever
 doing a problem where a heat capacity is given, check the dimensions!
 Example 9: Wang and Ricardo
@@ -1130,10 +1174,10 @@ In the limit of steady flow, determine the thrust experienced by the rocket.
 Solution
 Since the flow is adiabatic and the gas is diatomic,
 p1 = p2
-
+
 T1
 T2
-7/2
+ 7/2
 .
 As discussed in M7, mass conservation in steady flow means ρAv must be the same on both
 sides of the nozzle. The ideal gas law tells us that ρ ∝ p/T, so
@@ -1147,10 +1191,10 @@ Combining these two gives a relation between the velocities,
 v1 = v2
 A2
 A1
-
+
 T2
 T1
-5/2
+ 5/2
 .
 Bernoulli’s principle gives
 1
@@ -1188,7 +1232,9 @@ T2(1 − (A2/A1)2(T2/T1)5)
 .
 Example 10
 How does the Bernoulli’s principle above reduce to the incompressible one used in M7?
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 This is trickier than it seems. For simplicity, let’s neglect the gravitational contribution.
 Then by the ideal gas law, the compressible Bernoulli’s principle derived above is
@@ -1232,20 +1278,20 @@ might mean losing 100% of my savings, since my account’s value is small compar
 Now we’re ready to do the derivation properly. We start from the first equation above, but
 we don’t multiply by ρ. Instead, we note that P/ργ is constant because the gas is compressed
 adiabatically, since we neglected heat transfer, so we multiply by ρ0 = ρ(P0/P)1/γ, giving
-
+
 P0
 P
-1/γ
+ 1/γ
 1
 2
 ρv2
 +
 γ
 γ − 1
-
+
 P
 P0
-(γ−1)/γ
+ (γ−1)/γ
 P0 = const.
 Since the first term is the small one, we can approximate P0 ≈ P there without much error.
 As for the second term, we expand (P/P0)(γ−1)/γ with the binomial theorem to get
@@ -1257,7 +1303,9 @@ As for the second term, we expand (P/P0)(γ−1)/γ with the binomial theorem to
 γ − 1
 P0 + ∆P = const
 and subtracting the constant P0/(γ − 1) recovers the “incompressible” Bernoulli’s principle.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 In conclusion, the Bernoulli’s principle derived in this problem set works for arbitrarily fast
 gas flows, while the incompressible form in M7 only works for very subsonic flows. But that
 doesn’t mean you should never use the latter. When the flow is subsonic, the incompressible
@@ -1352,7 +1400,9 @@ q
 0/v)2 + 2Q̇/J − c2
 0/v.
 As a check, note that v′ = v when Q̇ = 0.
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 (b) By conservation of momentum, the thrust must be
 F = J∆v = ρAv(v′
 − v).
@@ -1414,7 +1464,9 @@ T
 ∆ρ
 ρ
 .
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 Combining this with Bernoulli’s principle to eliminate ∆T gives
 µcv ≈ −γRT
 ∆ρ
@@ -1472,7 +1524,9 @@ and T individually correct to second order, which is beyond the first order appr
 we started with! This is a conceptual issue that occurs whenever you have a perturbation
 that shifts existing properties of a medium. (It doesn’t happen for waves on a string, which
 we cover in W1, because those waves are parametrized by y, and y = 0 when there is no wave.)
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 It’s possible to fix this issue, but we need to be careful. First, let’s use the ideal gas law to
 change variables to pressure, so we only have one quantity to deal with,
 cvρT =
@@ -1495,20 +1549,20 @@ Now, we know that P ∝ ργ, and letting δρ = ∆ρcos(kx − ωt) for conven
 P
 P0
 =
-
+
 ρ
 ρ0
-γ
+ γ
 = 1 +
 γ δρ
 ρ0
 +
 γ(γ − 1)
 2
-
+
 δρ
 ρ0
-2
+ 2
 .
 When we integrate the first term, we get the internal energy of the fluid at rest. The second
 term averages to zero, and so can be disregarded. The third term gives the desired result,
@@ -1519,10 +1573,10 @@ u =
 +
 γP0
 2
-
+
 δρ
 ρ0
-2
+ 2
 .
 Now that the energy is in terms of small quantities squared, we can relax and use first order
 results. Using the results derived in problem 24, this can be simplified to
@@ -1534,10 +1588,10 @@ u =
 1
 2
 ρ0c2
-
+
 δρ
 ρ0
-2
+ 2
 and the two contributions are equal, because v/c = δρ/ρ0.
 As a check on this result, it is often true that the energy density is equal to the momentum
 density times the wave speed, u = pc. (For example, this corresponds to E = pc for photons.)
@@ -1555,6 +1609,8 @@ Does the above identity u = pc break down for these waves, or do we just need to
 p more carefully? (For one perspective in this ongoing debate, see this paper.) All of this is
 too subtle to be relevant to Olympiads; even string theorists get confused about it. It’s just
 a reminder that there are always subtleties lurking in even basic physics.
-28Kevin Zhou Physics Olympiad Handouts
-[3] Problem 25.  h 1 0IPhO 2012, problem 1B. A tricky real-world problem on fluids and condensation.
+28
+
+Kevin Zhou Physics Olympiad Handouts
+[3] Problem 25.   h 1 0IPhO 2012, problem 1B. A tricky real-world problem on fluids and condensation.
 29

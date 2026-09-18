@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201803"
 verification_status: pending
 ---
 
-A half-litre bottle is filled with water and is made swing about a horizontal axis, which is perpendicular to the bottle's symmetry axis, and goes through the cap of the bottle. Measure the period of the pendulum for different initial angular displacements. Will the result change if the water is frozen in the bottle? 
+A half-litre bottle is filled with water and is made swing about a horizontal axis, which is perpendicular to the bottle's symmetry axis, and goes through the cap of the bottle. Measure the period of the pendulum for different initial angular displacements. Will the result change if the water is frozen in the bottle?
  (6 pont)

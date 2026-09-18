@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábrán látható áramkörben a szinuszos bemeneti feszültség amplitúdója $V_{0}$, frekvenciája pedig $f$; mindkettő állandó. Mekkora lehet a kimeneti feszültség maximális amplitúdója, és a változtatható $R_{1}$, $R_{2}$, illetve $R_{3}$ ellenállások milyen értékeinél érhető el ez a maximum?
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr109-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr109-fig1.jpg)

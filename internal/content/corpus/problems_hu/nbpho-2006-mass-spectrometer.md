@@ -25,7 +25,7 @@ Az alábbi ábrán egy tömegspektrométer egyszerűsített sémája látható. 
 
 Az ionokat $U$ feszültséggel gyorsítják. Egyelőre hanyagoljuk el az ionok termikus energiáját ($e U \gg k T$, ahol $e$ az elemi töltés, $k$ pedig a Boltzmann-állandó). A gyorsított ionok keskeny nyalábja mágneses térrel rendelkező tartományba lép. Az egyszerűség kedvéért tegyük fel, hogy a tartomány téglalap alakú, és benne a mágneses tér homogén. A mágneses tér eltéríti az ionokat, és azok tömegétől függően eltalálhatják a detektort. Tegyük fel, hogy a detektor közepébe érkező ionok merőlegesen lépnek be a mágneses tér tartományának határán, és merőlegesen lépnek ki onnan; a belépési és kilépési pontok távolsága $l$ (lásd az ábrát).
 
-![ábra](../../sources/nbpho/figures/nbpho-2006-mass-spectrometer-fig1.png)
+![ábra](../../figures/nbpho/figures/nbpho-2006-mass-spectrometer-fig1.png)
 
 **1)** Fejezze ki a detektor közepébe érkező ionok $M$ tömegét a $B$, $l$, $U$ és $e$ mennyiségekkel.
 

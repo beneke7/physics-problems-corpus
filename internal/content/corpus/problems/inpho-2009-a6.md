@@ -25,7 +25,7 @@ verification_status: pending
     (a) $h+\frac{2 d}{n}$
     (b) $2 h+2 d$
 
-![](inpho-2009-a6-fig01.png)
+![](../../figures/inpho/figures/inpho-2009-a6-fig01.png)
 Figure 3:
 
 (c) $h+d$

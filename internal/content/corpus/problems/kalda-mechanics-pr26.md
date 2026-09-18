@@ -19,4 +19,4 @@ verification_status: pending
 
 A small block with mass $m$ lies on a wedge with angle $\alpha$ and mass $M$. The block is attached to a rope pulled over a pulley attached to the tip of the wedge and fixed to a horizontal wall (see the figure). Find the acceleration of the wedge. All surfaces are slippery (there is no friction).
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr26-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr26-fig1.jpg)

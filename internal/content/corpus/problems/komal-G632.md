@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-A plane, which is flying at a speed of 900 km/h, uses 4 litres of fuel (kerosene) in each second. What distance is covered in each minute by that car which has a fuel consumption of 6.4 litres of petrol per 100 km and which needs the same amount of petrol in 5 hours as the amount of kerosene consumed by the plane while it covers a distance of one kilometre? 
+A plane, which is flying at a speed of 900 km/h, uses 4 litres of fuel (kerosene) in each second. What distance is covered in each minute by that car which has a fuel consumption of 6.4 litres of petrol per 100 km and which needs the same amount of petrol in 5 hours as the amount of kerosene consumed by the plane while it covers a distance of one kilometre?
  (4 pont)

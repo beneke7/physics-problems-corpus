@@ -75,13 +75,13 @@ which gives the wave equation
 =
 γ
 σ
-
+
 ∂2z
 ∂x2
 +
 ∂2z
 ∂y2
-
+
 and hence a wave speed of
 v =
 r

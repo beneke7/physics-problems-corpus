@@ -30,7 +30,9 @@ solution_language: en
     beams are to be focused at x = f , as shown at left below, what kind of curve does x(y) have to be?
 
                                                             13
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 You should find that x(y) is not an arc of a circle, which implies that a spherical lens will fail to
 focus all incoming horizontal light to a point. Instead, we will get spherical aberration, as shown at

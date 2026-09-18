@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200609"
 verification_status: pending
 ---
 
-An inclined plane is placed to the table next to the edge of the table. Where does the ball, which rolls down the plane, hit the ground? (The angle of elevation of the plane can be varied.) Consider the following two cases: 
- a ) the ball on the plane covers the same constant distance of  l ; 
- b ) the ball on the plane starts at the same hight of  h . 
- Find the angle at which the ball hits the ground at the furthest point. 
+An inclined plane is placed to the table next to the edge of the table. Where does the ball, which rolls down the plane, hit the ground? (The angle of elevation of the plane can be varied.) Consider the following two cases:
+ a ) the ball on the plane covers the same constant distance of  l ;
+ b ) the ball on the plane starts at the same hight of  h .
+ Find the angle at which the ball hits the ground at the furthest point.
  (6 pont)

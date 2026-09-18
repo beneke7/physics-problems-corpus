@@ -69,7 +69,9 @@ The Maribo Meteorite                                                            
 
 
                                                                          Page 1 of 3
-                                The Maribo Meteorite                                                                                                T1
+
+
+                                The Maribo Meteorite                                                                                                T1
 
 1.2b                                                                                .                                                         0.3
                     (       )
@@ -125,7 +127,9 @@ The Maribo Meteorite                                                            
 
 
                                                              Page 2 of 3
-                          The Maribo Meteorite                                                    T1
+
+
+                          The Maribo Meteorite                                                    T1
 
 
      Maximum impact speed            arises from three contributions:

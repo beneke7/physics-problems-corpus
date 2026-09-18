@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4627. Egy felfújt lufit két tenyerünk közé fogva előbb-utóbb azt érezzük, hogy a lufi melegíti a kezünket. Hogy lehet ez? 
+P. 4627. Egy felfújt lufit két tenyerünk közé fogva előbb-utóbb azt érezzük, hogy a lufi melegíti a kezünket. Hogy lehet ez?
  Kérdezi: Radnai Réka, Budapest, Andor Ilona Ének-Zenei Ált. Isk.

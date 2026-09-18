@@ -62,7 +62,9 @@ system of equations
              17                                                       51
       a1 =      g                                           a3 =         g
              29 ,                 a2 = g ,                            29 .       (4)
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  2
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  2
 
                               Grading scheme of Problem 1A.
 
@@ -107,7 +109,9 @@ and 3I 0 (U ) : for a given value of current and voltage values U1 and U 2 are r
 sum is then the value is applied to the chart.
       Note that the formal solution of the problem can be written as (for the inverse
 functions):
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                  3
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                  3
 
                                                  I       I
                                     U (I ) = U 0   + U 0  
@@ -134,7 +138,9 @@ where U 0 I — the inverse of graphically given functions I 0 U .
             • To approximate the dependence;                             0,4
             • To solve the equations explicitly;                         0,4
             Total                                                        2,5
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                   4
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                   4
 
      Tasks 1.C. Flat lens
 
@@ -190,7 +196,9 @@ where F is focal length.
                                              a
                                    b=
                                         2n0 βha − 1 .                                      (8)
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                    5
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                    5
       The alternative is a geometrical optics approximation.
       This problem, in principle, can be solved in the framework of geometrical optics. The main
 stages (of the very complex solutions) are:
@@ -239,7 +247,9 @@ stages (of the very complex solutions) are:
        9    formula analogous to the thin lens                                  0,2
       10    The formula for the focal length                                    0,2
             Total                                                              3,5
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                   6
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                   6
 
                                    Problem 2
                         Adventures of a piston (10 points)
@@ -298,7 +308,9 @@ gas
 2.7. [2 points] Adiabatic equation of the form
                                           pV γ = const                                    (12)
 we obtain
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  7
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  7
 
                                                dV
                                            dp = −γ p
@@ -367,7 +379,9 @@ and temperature
                             (
                      T3 = T0 5 + 4α + 2α 2 − 2(α + 1) 4 + 2α + α 2 = 116  )     K,        (24)
 that is
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                      8
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                      8
 
 C = T0 , h(α ) =5 + 4α + 2α 2 − 2(α + 1) 4 + 2α + α 2 .                       (25)
 
@@ -412,7 +426,9 @@ C = T0 , h(α ) =5 + 4α + 2α 2 − 2(α + 1) 4 + 2α + α 2 .                 
                                  Numerical value of u         0,25
 
                          Total                                         10,0
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  9
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                  9
 
                                      Problem 3
                              Nuclear droplet (10 points)
@@ -481,7 +497,9 @@ whence
                                             ea2
                                   σ=           =  1.5 ×1017 N/m.                          (11)
                                            4π R02
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                10
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                                10
 
 3.5 [2 points] Nuclear fission becomes energetically favorable only if the potential energy
 of the nuclei decreases, that is,
@@ -525,7 +543,9 @@ Coulomb interaction energy of the protons is decreased by the
                                  120πε 0 R              20πε 0 R0 A1/3
 Nucleus is unstable at the condition
                                            ∆EC > ∆Esurf                                     (20)
-VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                  11
+
+
+VIII International Zhautykov Olympiad, Almaty, Kazakhstan, 2012                  11
 
 whence
                                                128π 2ε 0σ R03

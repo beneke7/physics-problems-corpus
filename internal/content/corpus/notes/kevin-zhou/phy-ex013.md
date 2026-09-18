@@ -35,7 +35,7 @@ called canonical transformations. Generally, they are more flexible than coordin
 in the Lagrangian formalism, since we can mix position and momentum.
 
   • Define x = (q1 , . . . , qn , p1 , . . . , pn )T and define the matrix J as
-                                                                      
+
                                                                 0   In
                                                         J=
                                                                −In 0
@@ -62,14 +62,13 @@ in the Lagrangian formalism, since we can mix position and momentum.
     where (∂x f )i = ∂f /∂xi . By the chain rule, ∂x = J T ∂y , giving the result. Then if we only
     consider canonical transformations, we don’t have to specify which coordinates the Poisson
     bracket is taken in.
-20 1. Classical Mechanics
 
 
  • Conversely, if a transformation preserves the canonical Poisson brackets {yi , yj }x = Jij , it is
    canonical. To see this, apply the chain rule for
 
                                      Jij = {yi , yj }x = J JJ T ij
-                                                               
+
 
     which is exactly the condition for a canonical transformation.
 

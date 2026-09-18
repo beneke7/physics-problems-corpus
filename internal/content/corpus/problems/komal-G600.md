@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns]
 ---
 
-A helicopter flies between two cities daily. Its normal speed in each direction is 120 km/h. On a windy day in one direction its speed was 140 km/h, whilst in the other direction it was 100 km/h, thus the total time of the whole journey increased by 15 minutes. 
- What is the distance between the two cities? 
+A helicopter flies between two cities daily. Its normal speed in each direction is 120 km/h. On a windy day in one direction its speed was 140 km/h, whilst in the other direction it was 100 km/h, thus the total time of the whole journey increased by 15 minutes.
+ What is the distance between the two cities?
  (3 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: pending
 ---
 
-When someone travels with the underground is it easier to walk facing towards the engine or facing backwards the engine when the train starts to move. Why? 
+When someone travels with the underground is it easier to walk facing towards the engine or facing backwards the engine when the train starts to move. Why?
  (4 pont)

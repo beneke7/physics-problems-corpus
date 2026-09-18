@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5553. Egy vékony korong az $O$ középpontján átmenő, rá merőleges tengely körül állandó $\beta$ szöggyorsulással forog. A korongon a középpontól $r$ távolságra jelöljünk ki egy $P$ pontot. Hogyan függ a $P$ pont gyorsulásának nagysága és a gyorsulásvektorának az $OP$ egyenessel bezárt szöge az $r$ távolságtól? 
+P. 5553. Egy vékony korong az $O$ középpontján átmenő, rá merőleges tengely körül állandó $\beta$ szöggyorsulással forog. A korongon a középpontól $r$ távolságra jelöljünk ki egy $P$ pontot. Hogyan függ a $P$ pont gyorsulásának nagysága és a gyorsulásvektorának az $OP$ egyenessel bezárt szöge az $r$ távolságtól?
  Nagy Béla (1881–1954) feladata nyomán

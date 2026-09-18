@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-Aaron played with his ruler and rubber. He put the small rubber to one end of the 30-cm long ruler and slowly slid the ruler along the tabletop, perpendicular to the rim of the table, such that the end of the ruler was sticking out from the table. He measured that when the ruler is sticking out more than 11 cm it falls down. What is the ratio of the masses of the ruler and the rubber? 
+Aaron played with his ruler and rubber. He put the small rubber to one end of the 30-cm long ruler and slowly slid the ruler along the tabletop, perpendicular to the rim of the table, such that the end of the ruler was sticking out from the table. He measured that when the ruler is sticking out more than 11 cm it falls down. What is the ratio of the masses of the ruler and the rubber?
 
  (3 pont)
 
-![figure](../../raw_html/komal_figures/komal-G650-fig1.gif)
+![figure](../../figures/komal/figures/komal-G650-fig1.gif)

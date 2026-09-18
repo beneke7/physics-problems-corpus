@@ -10,7 +10,7 @@ provenance_note: "Official NBPhO 2022 solution, Escape. Mathpix OCR of the cache
 ---
 
 i) Let's denote the diving angle by $\phi$, the magnitude of the trust force by $T$ and the magnitude of the lift force by $L$. As we can see below, the later is not needed in the solution. The Forces acting on the ariplane during a dive are shown in the figure below.
-![solution page](../../sources/nbpho/figures/nbpho-2022-solution-p1.png)
+![solution page](../../../../../sources/nbpho/figures/nbpho-2022-solution-p1.png)
 
 For the level flight $\phi=0$, and we have, by balancing the horizontal forces
 

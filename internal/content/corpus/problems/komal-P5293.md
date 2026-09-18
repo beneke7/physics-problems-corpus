@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, model-reduction]
 ---
 
-There are a lot of terminals at the top of a black box. It is known that inside the box, between any two pairs of terminals a resistor of unknown resistance is soldered. How can we measure the resistance of the resistor between two arbitrary chosen terminals if we have an ohm-meter and a large number of wires? 
+There are a lot of terminals at the top of a black box. It is known that inside the box, between any two pairs of terminals a resistor of unknown resistance is soldered. How can we measure the resistance of the resistor between two arbitrary chosen terminals if we have an ohm-meter and a large number of wires?
  (6 pont)

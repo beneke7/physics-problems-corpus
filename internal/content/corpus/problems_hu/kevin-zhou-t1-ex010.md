@@ -53,7 +53,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                      17
-Kevin Zhou                                                                     Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                     Physics Olympiad Handouts
 
 
 
@@ -78,7 +80,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                                            ⟨vx,rel ⟩=
                                                          µ
   a lendületmegmaradásból pedig azt kapjuk, hogy
-                                      2
+                                        2
                         2        Mg         2        kB T Mg
                      ⟨Vx ⟩ =              ⟨vx,rel ⟩=
                                M + Mg                 M M + Mg
@@ -86,4 +88,6 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
 
                                                   18
-Kevin Zhou                                                            Physics Olympiad Handouts
+
+
+Kevin Zhou                                                            Physics Olympiad Handouts

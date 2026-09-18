@@ -34,12 +34,12 @@ felé tartanak. Gömbtükör esetén pedig a gömb Otükör középpontjából k
 ugyanezen pont felé tartanak.
 Könnyen megszerkeszthetjük annak a tárgynak a képét, amelyet a len se fókuszpontjába állítottunk (10. ábra).
 10. ábra
-Fordított állású, a tárggyal megegyez® nagyságú, valódi kép keletkezik a tárgy helyén. F1 = Otükör tehát, és ez
+Fordított állású, a tárggyal megegyez® nagyságú, valódi kép keletkezik a tárgy  helyén . F1 = Otükör tehát, és ez
 független attól, milyen ℓ távolságra van a síktükör a len sét®l.
 a) Anna 20 m-re helyezte el a tükröt az f = 30 m fókusztávolságú len se mögé. Hogyan határoznánk meg Anna
 helyében legegyszer¶bben a leképez® rendszer F∗
 fókuszpontjának a helyét? Úgy, hogy az optikai tengellyel párhuzamos
-fénynyalábot bo sátanánk a len sére, és megnéznénk, hogy mi a tartópontja annak a sugárnyalábnak, amely ebb®l a
+fénynyalábot bo sátanánk a len sére, és megnéznénk, hogy mi a  tartópontja  annak a sugárnyalábnak, amely ebb®l a
 párhuzamos nyalábból keletkezik, miután megtörik a len sén, visszaver®dik a síktükrön, majd újta áthalad a len sén
 (11. ábra). Biztosak lehetünk abban, hogy F∗
 helye már nem sak f-t®l, hanem ℓ-t®l is függeni fog.
@@ -59,7 +59,7 @@ k
 30
 ,
 amib®l k = −15 m adódik. Látszólagos kép keletkezik, ez azt jelenti, hogy a len séb®l olyan sugárnyaláb fog kilépni,
-amelynek tartópontja egy, a len se mögött 15 m-re lev® pont. Ez tehát a leképez® rendszer F∗
+amelynek  tartópontja  egy, a len se mögött 15 m-re lev® pont. Ez tehát a leképez® rendszer F∗
 fókuszpontja!
 Annának tehát a helyettesít® homorú tükör egy újabb jellemz® pontját sikerült megtalálnia. Mivel a homorú tükör
 fókuszpontja éppen a gömb sugarának közepén van, ezért a fókusztávolságot úgy is megkaphatja, hogy az F∗
@@ -115,22 +115,22 @@ Nos, a mi esetünkben a két len se fókusztávolsága egyenl®, ilyenkor a f®s
 s amikor a szerkesztés végén a képet (és a képoldali f®síkot is) visszatükrözzük, a két f®sík egybe fog esni! Az ide, a
 f®síkok közös helyére elhelyezett gömbtükörrel ekkor már helyettesíthet® lesz a len séb®l és a síktükörb®l álló rendszer.
 A f®síkokkal történ® leképezés nem középiskolai, hanem f®iskolai, egyetemi tananyag; ennek ellenére volt olyan
-versenyz®, aki ezt a gondolatmenetet próbálta meg követni. Hasonlóképpen egyetemi tananyag az úgynevezett mát-
-rixoptika is, amellyel Pálfalvi László mutatja meg e feladat megoldását a 179. oldalon.
+versenyz®, aki ezt a gondolatmenetet próbálta meg követni. Hasonlóképpen egyetemi tananyag az úgynevezett  mát-
+rixoptika  is, amellyel Pálfalvi László mutatja meg e feladat megoldását a 179. oldalon.
 Az eredményhirdetés
 2007. november 30-án került sor az ünnepélyes eredményhirdetésre az Eötvös Loránd Tudományegyetem Ortvay
 Rudolfról elnevezett el®adótermében.
 Bevezetésként a Versenybizottság elnöke emlékezett meg Tolnai Jen®r®l, aki 100 évvel ezel®tt nyerte meg a Társulat
 tanulóversenyét, Neukomm Gyuláról, a KöMaL egykori f®szerkeszt®jér®l, aki ötven éve hunyt el, és ebben az évben
 sikerült a sírját védetté nyilvánítani, Boros Jánosról, a Versenybizottság volt tagjáról, akinek éppen ezen a napon lett
-volna a születésnapja és Varga Istvánról, a sak nemrég elhunyt 
+volna a születésnapja és Varga Istvánról, a sak nemrég elhunyt
 zikatanárról, aki sziporkázó ötleteivel támogatta a
 Versenybizottság munkáját.
 Ezután az 50 évvel ezel®tt, 1957-ben rendezett Eötvös-versenyt elevenítette fel. Bemutatta az akkori feladatokat
 és a díjazottak egykori fényképét is a KöMaL képar hívumából. Papp Kálmánt, a verseny 50 évvel ezel®tti nyertesét
 sajnos nem sikerült elérnie, és nem tudott eljönni Cserteg István sem, aki akkor a második helyezett volt. Mindket-
 ten villamosmérnökök lettek kés®bb. Nem így Szatmáry Zoltán, a harmadik helyezett piarista diák, aki Neukomm
-Gyula hathatós támogatásával tudott bekerülni az ELTE 
+Gyula hathatós támogatásával tudott bekerülni az ELTE
 zikus szakára 1957-ben. A KFKI kutatója, a m¶egyetemi
 tanreaktor Kossuth-díjas igazgatója személyesen idézte fel egyetemre kerülésének izgalmas történetét.
 A 25 évvel ezel®tt díjazottak közül is sak egyetlen versenyz® tudott eljönni: Károlyi Gyula, aki ma már egyetemi
@@ -143,10 +143,10 @@ Ezután került sor a 2007. évi feladatok bemutatására, a helyes megoldások 
 kísérleti bemutató követte: az els® két feladathoz Honyek Gyula, a harmadikhoz Radnai Gyula mutatott be érdekes
 kísérleteket. Az üveglapok közé felfutó víz, a meglep®en jól ég® kis izzó, valamint a len se plusz síktükörrel és az ezeket
 helyettesít® gömbtükörrel egymás mellett el®állított éles képek azokat is meggy®zték, akik esetleg kételkedtek volna a
-bemutatott megoldások helyességében. Szeren sére itt nem voltak ilyenek,  a közönség f®leg a 
+bemutatott megoldások helyességében. Szeren sére itt nem voltak ilyenek,   a közönség f®leg a
 zikát ért® és szeret®
 
-atalokból, tanáraikból és volt Eötvös-verseny nyertesekb®l állt. Itt volt a Társulat egész vezérkara, Kádár György
+atalokból, tanáraikból és volt Eötvös-verseny nyertesekb®l állt. Itt volt a Társulat egész  vezérkara , Kádár György
 f®titkár, Pákó Gyula, a középiskolai szak soport elnöke és Sólyom Jen® akadémikus, a társulat elnöke is, aki ezek után
 mosolyogva adta át a díjakat a verseny gy®zteseinek.
 Els® díjat és az ezzel együtt járó Eötvös-verseny érmet kapta a verseny 1. helyezettje: Werner Miklós, a BME
@@ -158,7 +158,7 @@ Második díjat is két versenyz® kapott: Eisenberger András, a Fazekas Mihál
 János Gimnáziumában érettségizett Hevesi Anikó és Szabó Endre tanítványaként.
 Harmadik díjat nyert Szolnoki Lénárd, a Debre eni Református Kollégium Dó zy Gimnáziumának 12. osztályos
 tanulója, Tófalusi Péter tanítványa.
-Di séretet kapott a verseny 611. helyezettje, helyezésük szerinti sorrendben a következ®k: K®rösi Márton, az
+Di séretet kapott a verseny 6 11. helyezettje, helyezésük szerinti sorrendben a következ®k: K®rösi Márton, az
 ELTE hallgatója, aki a békés sabai Szent-Györgyi Albert Gimnáziumban érettségizett Varga István tanítványaként;
 Almási Gábor, a pé si Leöwey Klára Gimnázium 12. osztályos tanulója, Kotek László és Simon Péter tanítványa;
 Papp László, az ELTE hallgatója, aki a romániai Margitta O. Goga Nemzeti Kollégiumában érettségizett Bogdán
@@ -179,7 +179,7 @@ még Eötvös-versenyen díjat nyert diák is, ma már tanulmányainak befejezé
 zikus hallgató, aki
 Párizsból küldte üdvözletét egy beszédfelismerés témájú programról, amelyen a hazai egyetemi képzés keretében vesz
 részt. Aki pedig egyszer kedvet kapott a tanuláshoz, nem is tudja abbahagyni; ® most matematikából szeretne újabb
-diplomát szerezni. Azt üzenem a versenyz®knek, tanuljanak, mert tanulni jó befektetés és tiszta öröm! Bár inkább nem
+diplomát szerezni.  Azt üzenem a versenyz®knek, tanuljanak, mert tanulni jó befektetés és tiszta öröm! Bár inkább nem
 is üzenek semmit, mert aki az Eötvös-verseny eredményhirdetésére bejutott, az ezt már úgyis tudja. Gratulálok nektek
-és további sok sikert kívánok!
+és további sok sikert kívánok!
 Ehhez satlakozik a Versenybizottság is. Bízzunk a lendület megmaradásában. . .

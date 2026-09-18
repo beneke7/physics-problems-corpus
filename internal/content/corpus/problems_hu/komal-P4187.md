@@ -9,8 +9,8 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4187. Hogyan mozognak az ábrán látható testek? A csigák és a kötelek tömege elhanyagolható. 
+P. 4187. Hogyan mozognak az ábrán látható testek? A csigák és a kötelek tömege elhanyagolható.
 
  Adatok: m $_{1}$=2 kg, m $_{2}$=8 kg, m $_{3}$=1 kg.
 
-![figure](../../raw_html/komal_figures/komal-P4187-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4187-fig1.gif)

@@ -21,10 +21,10 @@ provenance_note: "KöMaL physics points contest, 201603"
 verification_status: flagged
 ---
 
-If a solid cork sphere of density 400 kg/m${}^3$ is suspended by a spring, then the elongation of the spring is 10 cm. 
- $a)$ The sphere and the spring are both placed into a container which is filled with water, such that one end of the spring is attached to the bottom of the container, and the other is fixed to the cork sphere. The system is in equilibrium, the spring is stretched, and half of the cork sphere is immersed into the water. What is the elongation of the spring at this state? 
+If a solid cork sphere of density 400 kg/m${}^3$ is suspended by a spring, then the elongation of the spring is 10 cm.
+ $a)$ The sphere and the spring are both placed into a container which is filled with water, such that one end of the spring is attached to the bottom of the container, and the other is fixed to the cork sphere. The system is in equilibrium, the spring is stretched, and half of the cork sphere is immersed into the water. What is the elongation of the spring at this state?
 
- $b)$ What will the elongation of the spring be, if more water is poured into the container, such that the whole cork sphere is immersed into the water? 
+ $b)$ What will the elongation of the spring be, if more water is poured into the container, such that the whole cork sphere is immersed into the water?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4821-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4821-fig1.gif)

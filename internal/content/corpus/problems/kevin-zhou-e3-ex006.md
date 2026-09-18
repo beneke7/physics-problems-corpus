@@ -31,7 +31,9 @@ Example 6
 
 
                                                       12
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
 
   Solution
@@ -75,7 +77,9 @@ Example 6
 
 
                                                  13
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 
@@ -119,7 +123,9 @@ Example 6
 
 
                                                 14
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 

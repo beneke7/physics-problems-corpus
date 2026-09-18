@@ -50,7 +50,6 @@ giving the Dirac quantization condition
 A slight modification of this argument for dyons, with both electric and magnetic charge, gives
 
                                          q1 g2 − q2 g1 = 2πℏn.
-144 5. Fundamentals of Quantum Mechanics
 
 
 This is the Dirac–Zwanziger quantization condition.
@@ -102,7 +101,6 @@ the Schrodinger equation is
                       ∂ρ                      ∂θ    mv 2        ℏ2 1 2 √
                          = −∇ · (ρv),     ℏ      =−      − qϕ +    √ ∇ ( ρ)
                       ∂t                      ∂t     2          2m ρ
-145 5. Fundamentals of Quantum Mechanics
 
 
 where the velocity is v = (ℏ∇θ − qA)/m. The first equation is simply the continuity equation, while
@@ -111,7 +109,7 @@ right-hand side is identified as the negative of the energy. We see there is an 
 contribution to the energy, which can be interpreted as the energy required to compress the fluid.
    The second equation becomes a bit more intuitive by taking the gradient, giving
                                                                       ℏ2
-                                                                                   
+
              ∂v      q            ∂A                                          1 2√
                  =       −∇ϕ −         − v × (∇ × v) − (v · ∇)v + ∇         √    ∇  ρ   .
              ∂t     m             ∂t                                  2m       ρ
@@ -157,7 +155,6 @@ We now consider the model system of the harmonic oscillator.
       The addition of the 1/2 is thus an inherently quantum effect. Incidentally, a nice heuristic for
       using the commutation relation above is that [a, f (a, a† )] = ∂f /∂a† , where the right-hand side
       is a formal derivative that acts on strings of a’s and a† ’s.
-146 5. Fundamentals of Quantum Mechanics
 
 
   • We note that the operator N is positive, because
@@ -211,7 +208,6 @@ Similarly, the excited states satisfy
 To simplify, we “move the derivatives past the exponential”, using the identity
                                                    2           2
                                         (x − ∂x )ex /2 f = e−x /2 ∂x f.
-147 5. Fundamentals of Quantum Mechanics
 
 
 Therefore we find
@@ -240,7 +236,7 @@ Next we turn to coherent states, where it’s easiest to work in Heisenberg pict
                                                         = p̂,        = −x̂.
                                                     dt           dt
     The solution to this is simply clockwise circular motion in phase space, as it is classically,
-                                                           
+
                                      x̂(t)       cos t sin t    x̂0
                                             =                       .
                                      p̂(t)      − sin t cos t   p̂0
@@ -269,7 +265,6 @@ Next we turn to coherent states, where it’s easiest to work in Heisenberg pict
   • The quantum analogues of z and z are a and a† , satisfying
 
                          ȧ = −ia,         ȧ† = ia† ,   a(t) = e−it a(0),    a† (t) = eit a† (0).
-148 5. Fundamentals of Quantum Mechanics
 
 
   • We define a coherent state as one satisfying
@@ -321,7 +316,6 @@ Next we turn to coherent states, where it’s easiest to work in Heisenberg pict
     and momentum space wavefunctions are Gaussians.
 
 With this setup, it’s easy to show some important properties of coherent states.
-149 5. Fundamentals of Quantum Mechanics
 
 
  • From our Heisenberg picture results, we know that the expectation values of |a, b⟩ will evolve
@@ -374,7 +368,6 @@ With this setup, it’s easy to show some important properties of coherent state
                        2π                   n!m!                    2π n!m!
    The phase integral is zero unless n = m. When n = m, the phase integral is 1, and the d|z|2
    integral also gives 1, showing the result.
-150 5. Fundamentals of Quantum Mechanics
 
 
 More properties of coherent states are discussed in the notes on Optics.
@@ -394,7 +387,7 @@ by Green’s functions, where x0 (t) is a homogeneous solution. Then in Heisenbe
 
 where we fix â and â† to be the Heisenberg operators at time t = 0. Now we focus on times t after
 the driving ends. The step function is just 1, so denoting a Fourier transform with a tilde,
-                                                                      
+
                                1          i                      i
                       x̂(t) = √     â + √ f˜(1) e−it + â† − √ f˜(−1) eit
                                 2          2                      2
@@ -429,7 +422,6 @@ Note. As we’ve seen, coherent states simply oscillate indefinitely, with their
 spreading out. This is special to the harmonic oscillator, and it is because its frequencies have integer
 spacing, which makes all frequency differences multiples of ℏω. Forming analogues of coherent states
 in general potentials, such as the Coulomb potential, is much harder.
-151 5. Fundamentals of Quantum Mechanics
 
 
 5.6     The WKB Approximation
@@ -458,7 +450,7 @@ In this section, we introduce the WKB approximation and connect it to classical 
    scales; it is also useful in classical mechanics.
 
  • To make this more quantitative, we write the logarithm of the wavefunction as a series in ℏ,
-                                  
+
                            i
               ψ(x) = exp     W (x) , W (x) = W0 (x) + ℏW1 (x) + ℏ2 W2 (x) + . . . .
                            ℏ
@@ -483,7 +475,6 @@ In this section, we introduce the WKB approximation and connect it to classical 
       which is equivalent to
                                                ∇ · (A2 ∇S) = 0.
       This is called the amplitude transport equation.
-152 5. Fundamentals of Quantum Mechanics
 
 
   • To see the meaning of this result, define a velocity field and density
@@ -525,7 +516,7 @@ always λ = h/p. This implies that it “length contracts” as 1/γ for massive
 We now specialize to one-dimensional problems.
 
   • In the one-dimensional case, we have, at lowest order,
-                                             2                                           
+                                               2
                               iS(x)/ℏ    1    dS                         d           2 dS
                  ψ(x) = A(x)e         ,             + V (x) = E,                 A              = 0.
                                         2m dx                           dx            dx
@@ -536,7 +527,6 @@ We now specialize to one-dimensional problems.
 
     Since S is the integral of p(x), it is simply the phase space area swept out by the classical
     particle’s path.
-153 5. Fundamentals of Quantum Mechanics
 
 
  • Note that in classically forbidden regions, S becomes imaginary, turning oscillation into ex-
@@ -566,7 +556,7 @@ We now derive the connection formulas, which deal with turning points.
                                                       xr
 
     Then the WKB solution for x < xr is
-                                      1  iS(x)/ℏ+iπ/4                     
+                                      1   iS(x)/ℏ+iπ/4
                            ψI (x) = p     cr e         + cℓ e−iS(x)/ℏ−iπ/4
                                      p(x)
     where cr and cℓ represent the right-moving and left-moving waves.
@@ -577,7 +567,7 @@ We now derive the connection formulas, which deal with turning points.
                                                       xr
 
     to deal with only real quantities. Then the general WKB solution is
-                                           1                               
+                                           1
                               ψII (x) = p          cg eK(x)/ℏ + cd e−K(x)/ℏ
                                           |p(x)|
     where the solutions grow and decay exponentially, respectively, as we go rightward.
@@ -588,13 +578,12 @@ We now derive the connection formulas, which deal with turning points.
                                     −           + V ′ (xr )(x − xr )ψ = 0.
                                         2m dx2
     To nondimensionalize, we switch to the shifted and scaled variable z defined by
-                                                        1/3
+                                                         1/3
                                                  ℏ2            d2 ψ
-                                          
+
                        x = xr + az, a =                      ,      − zψ = 0.
                                             2mV ′ (xr )        dz 2
     This differential equation is called Airy’s equation.
-154 5. Fundamentals of Quantum Mechanics
 
 
  • The two independent solutions to Airy’s equation are Ai(x) and Bi(x). They are the exact
@@ -654,29 +643,28 @@ We now derive the connection formulas, which deal with turning points.
                                      √ =         cd , √ =         cg .
                                     2 π        ℏ        π       ℏ
    Combining these results gives the connection formulas
-                                                   
+
                                        cg      i −i      cr
                                            = 1 1            .
                                        cd      2   2     cℓ
 
  • The analysis for a classically forbidden region on the left is very similar. On the left,
                                                                           Z x
-                              1                              
+                              1
                ψIII (x) = p           cg eK(x)/ℏ + cd e−K(x)/ℏ , K(x) =        |p(x′ )| dx′
                              |p(x)|                                         xℓ
 
    and on the right,
                                                                                   Z x
-                           1  iS(x)−iπ/4                  
+                           1   iS(x)−iπ/4
                ψIV (x) = p     cr e       + cℓ e−iS(x)−iπ/4 ,            S(x) =         p(x′ ) dx′
                           p(x)                                                     xℓ
 
    where the phase factors are again chosen for convenience. Then we find
-                                         1 1  
+                                            1 1
                                        cg                cr
                                            = 2 2             .
                                        cd       −i i     cℓ
-155 5. Fundamentals of Quantum Mechanics
 
 
 We now apply the connection formulas to some simple problems.
@@ -731,7 +719,6 @@ We now apply the connection formulas to some simple problems.
                                          En =
                                                    2mL2
    which is the exact answer.
-156 5. Fundamentals of Quantum Mechanics
 
 
   • Finally, we can have periodic boundary conditions, such as when a particleH moves on a ring.
@@ -762,7 +749,6 @@ correspondence principle as outlined above, we have ∆ωq = ωc , and Planck ha
                        √
 relations give ∆r = 2 a0 r, which implies that r ∝ n2 when n ≫ 1. This is equivalent to L = nℏ.
 Bohr’s radical step is then to assume these results hold for all n.
-157 6. Path Integrals
 
 
 6      Path Integrals

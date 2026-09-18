@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: []
 ---
 
-Determine the atomic mass number of ionium, which is the daughter element of uranium, after the uranium emits two $\alpha$ and two $\beta$ particles. Which is the element whose isotope is the ionium? 
+Determine the atomic mass number of ionium, which is the daughter element of uranium, after the uranium emits two $\alpha$ and two $\beta$ particles. Which is the element whose isotope is the ionium?
  (4 pont)

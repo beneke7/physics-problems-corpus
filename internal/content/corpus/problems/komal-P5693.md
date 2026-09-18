@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, superposition, model-reduction]
 ---
 
-A tetrahedron is assembled from six identical resistors each of resistance $R$, and two batteries, each with a voltage of $U_0$, such that one battery is connected across the vertices $AB$ and the other is connected across the vertices $CD$. How much heat is generated over a given time $T$ across the entire network? (The internal resistance of the batteries is negligible.) 
+A tetrahedron is assembled from six identical resistors each of resistance $R$, and two batteries, each with a voltage of $U_0$, such that one battery is connected across the vertices $AB$ and the other is connected across the vertices $CD$. How much heat is generated over a given time $T$ across the entire network? (The internal resistance of the batteries is negligible.)
  (4 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201102"
 verification_status: pending
 ---
 
-A lead bal of mass  M hangs on a thread of length  L . A lead bullet of mass  m , and of horizontal velocity  v hits the ball exactly at its centre. The bullet penetrates into the ball. Initially their temperature is the same. a ) What is the greatest angle of deflection of the thread? b ) At most how many degrees does the temperature of the lead increases? The specific heat capacity of lead is  c . 
+A lead bal of mass  M hangs on a thread of length  L . A lead bullet of mass  m , and of horizontal velocity  v hits the ball exactly at its centre. The bullet penetrates into the ball. Initially their temperature is the same. a ) What is the greatest angle of deflection of the thread? b ) At most how many degrees does the temperature of the lead increases? The specific heat capacity of lead is  c .
  (4 pont)

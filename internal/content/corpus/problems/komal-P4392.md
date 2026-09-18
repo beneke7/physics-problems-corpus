@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, cross-domain-analogy]
 ---
 
-A long vertical copper tube hangs on a spring balance. A small bar magnet is placed into the rod and it falls through the tube, such that it does not touch the wall of the tube. Will the reading on the spring balance change? 
+A long vertical copper tube hangs on a spring balance. A small bar magnet is placed into the rod and it falls through the tube, such that it does not touch the wall of the tube. Will the reading on the spring balance change?
  (4 pont)

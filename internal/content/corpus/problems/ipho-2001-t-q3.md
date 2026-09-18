@@ -26,7 +26,7 @@ verification_status: pending
 ## MAGNETOHYDRODYNAMIC (MHD) GENERATOR
 
 A horizontal rectangular plastic pipe of width $w$ and height $h$, which closes upon itself, is filled with mercury of resistivity $\rho$. An overpressure $P$ is produced by a turbine which drives this fluid with a constant speed $v_{0}$. The two opposite vertical walls of a section of the pipe with length $L$ are made of copper.
-![](ipho-2001-t-q3-fig01.png)
+![](../../figures/ipho/figures/ipho-2001-t-q3-fig01.png)
 The motion of a real fluid is very complex. To simplify the situation we assume the following:
 
 - Although the fluid is viscous, its speed is uniform over the entire cross section.

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200512"
 verification_status: pending
 ---
 
-Electromagnetic plane wave is incident on and normal to a 10 m$^{2}$ black plane surface, and it is totally absorbed by the surface. The greatest force exerted on the surface is 2$^{.}$10$^{-18}$ N. Find the maximum of the electric field of the wave. 
+Electromagnetic plane wave is incident on and normal to a 10 m$^{2}$ black plane surface, and it is totally absorbed by the surface. The greatest force exerted on the surface is 2$^{.}$10$^{-18}$ N. Find the maximum of the electric field of the wave.
  (4 pont)

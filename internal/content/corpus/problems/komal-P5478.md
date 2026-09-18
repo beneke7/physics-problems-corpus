@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction, cross-domain-analogy, differential-element]
 ---
 
-A plano convex glass lens is bounded by water on its flat side and by air on its convex side. 
- $a)$ What is the ratio of the two focal lengths corresponding to the two sides of the lens? 
- $b)$ What will this ratio be if the two media at the sides of the lens are reversed? 
- The lens is thin and has a small aperture angle. The refractive index of glass is $3/2$ and that of water is $4/3$. 
+A plano convex glass lens is bounded by water on its flat side and by air on its convex side.
+ $a)$ What is the ratio of the two focal lengths corresponding to the two sides of the lens?
+ $b)$ What will this ratio be if the two media at the sides of the lens are reversed?
+ The lens is thin and has a small aperture angle. The refractive index of glass is $3/2$ and that of water is $4/3$.
  (5 pont)

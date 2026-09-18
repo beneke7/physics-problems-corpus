@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-Protons initially considered stationary in a linear accelerator at CERN are accelerated along a path of $L=30.0$ m through a voltage of $U=500$ MV. The electric field in the accelerator can be considered uniform. How long does it take for the protons to travel the distance $L$? 
+Protons initially considered stationary in a linear accelerator at CERN are accelerated along a path of $L=30.0$ m through a voltage of $U=500$ MV. The electric field in the accelerator can be considered uniform. How long does it take for the protons to travel the distance $L$?
  (5 pont)

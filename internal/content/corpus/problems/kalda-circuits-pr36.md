@@ -19,4 +19,4 @@ verification_status: pending
 
 Find the reading of the ammeter in the circuit below.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr36-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr36-fig1.jpg)

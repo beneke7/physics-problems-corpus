@@ -24,11 +24,11 @@ A szál hosszának megváltozása (megnyúlása) elhanyagolható a szál alakjá
 Célszer¶ lesz a két fémszál alakváltozását úgy összehasonlítani, hogy köl sönösen egyértelm¶en megfeleltetjük
 egymásnak a két szál pontjait. A megfeleltetett pontokban fellép® deformá iókat (elhajlásokat) hasonlítjuk össze,
 majd megvizsgáljuk, hogy ezek a deformá iók milyen mértékben járulnak hozzá a végpontok lesüllyedéséhez.
-Képzeljük  modellezzük  a rugalmas fémszálat nagyon kis szemekb®l álló lán nak, ahol az egyes (merev) lán sze-
+Képzeljük   modellezzük   a rugalmas fémszálat nagyon kis szemekb®l álló lán nak, ahol az egyes (merev) lán sze-
 meket pi iny spirálrugók kap solják egymáshoz. A lán (melynek saját súlyát elhanyagoljuk) terheletlen állapotában
 pontosan negyedkört formál.
 Írjuk fel, hogy mekkora forgatónyomatékot gyakorol a teher függ®leges irányú G súlya a fémszálnak ϕ szöggel
-jellemzett helyén az ottani spirálrugóra (2. ábra)! (Ezen rugó elfordulása nyomán kialakuló visszatérít® nyomaték
+jellemzett helyén az ottani  spirálrugóra  (2. ábra)! (Ezen rugó elfordulása nyomán kialakuló visszatérít® nyomaték
 fogja majd G-nek azon a helyen fellép® forgatónyomatékát kiegyenlíteni, kompenzálni.)
 Amint az az ábráról is leolvasható, ugyanazon ϕ szöghöz tartozó pontokban az M forgatónyomaték az a) esetben
 sohasem lehet kisebb a b) esetben fellép®nél, mivel sinϕ ≥ 1 − cosϕ. Az egyenl®ség sak ϕ = 0 és ϕ =
@@ -96,7 +96,7 @@ esetbeli pontoknál fellép® deformá ió ad nagyobb járulékot a szál végé
 szál végpontjának lesüllyedése.
 Megjegyzések. 1. Energetikai megfontolásokkal és integrálszámítással numerikusan is meg tudjuk határozni a kétféle
 lesüllyedés arányát, jóllehet a versenyen ez nem volt feladat.
-Ha a fogas végére  óvatosan növelve a terhelést  maximálisan G nagyságú er®t fejtünk ki, és ennek hatására a
+Ha a fogas végére   óvatosan növelve a terhelést   maximálisan G nagyságú er®t fejtünk ki, és ennek hatására a
 végpont ∆h-val mélyebbre kerül, akkor összesen W =
 1
 2
@@ -106,7 +106,7 @@ G∆h munkát végzünk. (Az
 -es faktor onnan származik, hogy
 az er® átlagértéke a maximális érték fele.) Ez a munkavégzés a ki sit meghajlított szálban tárolt rugalmas energiával
 egyenl®, ami a szál egyes darabkáiban tárolt energiák összegeként számítható. Egy-egy darabka rugalmas energiája
- a megfeszített egyenes rugó energiaképletének analógiájára  a darabka hosszával és a végein ható forgatónyomaték
+  a megfeszített egyenes rugó energiaképletének analógiájára   a darabka hosszával és a végein ható forgatónyomaték
 négyzetével arányos. Ezek szerint a kétféle ruhafogas energiaviszonyait összevetve:
 Wa
 Wb

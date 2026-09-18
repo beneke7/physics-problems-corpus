@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 ---
 
-An ideal Carnot heat engine, with the help of heat reservoirs of temperatures $T_1$ and $T_2$ $(T_2<T_1)$, can perform $W$ work in each cycle (through isothermal and adiabatic processes). How will the efficiency of the heat engine change if the small friction between the piston in the working cylinder causes that $2q$ heat in each cycle is released ($q\ll W)$, and this heat is absorbed evenly by the two heat reservoirs? 
+An ideal Carnot heat engine, with the help of heat reservoirs of temperatures $T_1$ and $T_2$ $(T_2<T_1)$, can perform $W$ work in each cycle (through isothermal and adiabatic processes). How will the efficiency of the heat engine change if the small friction between the piston in the working cylinder causes that $2q$ heat in each cycle is released ($q\ll W)$, and this heat is absorbed evenly by the two heat reservoirs?
  (5 pont)

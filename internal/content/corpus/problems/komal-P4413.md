@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201202"
 verification_status: pending
 ---
 
-Every morning two runners run along the running track of a stadium. If they run in the same direction 11 times more time elapses between the two moments when they meet then when they run in the opposite direction. (Their speeds are constant.) What is the ratio of the speeds of the two runners? 
+Every morning two runners run along the running track of a stadium. If they run in the same direction 11 times more time elapses between the two moments when they meet then when they run in the opposite direction. (Their speeds are constant.) What is the ratio of the speeds of the two runners?
  (3 pont)

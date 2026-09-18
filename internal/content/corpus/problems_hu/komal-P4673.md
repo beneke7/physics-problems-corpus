@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4673. Mekkora a hang terjedési sebessége cseppfolyós levegővel $-141~{}^\circ\rm C$-ra lehűtött hidrogéngázban? 
+P. 4673. Mekkora a hang terjedési sebessége cseppfolyós levegővel $-141~{}^\circ\rm C$-ra lehűtött hidrogéngázban?
  Nagy Béla (1881-1954) feladata

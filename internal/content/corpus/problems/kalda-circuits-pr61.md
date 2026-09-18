@@ -19,4 +19,4 @@ verification_status: pending
 
 Three identical charge-less capacitors of capacitance $C$ are connected in series. The capacitors are charged by connecting a battery of electromotive force $\mathcal{E}$ to the terminal leads of this circuit. Next, the battery is disconnected, and two resistors of resistance $R$ are connected simultaneously as shown in figure below. Find the net heat which will be dissipated on each of the resistances.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr61-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr61-fig1.jpg)

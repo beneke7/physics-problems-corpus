@@ -19,4 +19,4 @@ verification_status: pending
 
 Find such frequencies of the input voltage $\omega$ for which the circuit shown below has zero impedance.
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr111-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr111-fig1.jpg)

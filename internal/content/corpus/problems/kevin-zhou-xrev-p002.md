@@ -59,4 +59,6 @@ solution_language: en
          µ, and T . It was one of the first unique, quantitative predictions of kinetic theory.
 
                                                         1
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts

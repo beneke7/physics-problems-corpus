@@ -48,7 +48,8 @@ much brighter reflection pattern than the pattern for light coming from the “t
 
 
                                                        Page 1 of 12
-The observed pattern is a colorful band of interference fringes, gradually fading to the sides, without well-defined
+
+The observed pattern is a colorful band of interference fringes, gradually fading to the sides, without well-defined
 edges. As we rotate the sample, it can be seen that the pattern widens and narrows, while its center remains stationary,
 directly on top of the flashlight’s center. While the color sequence is complicated, it is visibly symmetric around the
 center, which appears white; these observations are the key to identifying the center precisely.
@@ -82,7 +83,8 @@ result in a              deviation (depending on whether is taken into account).
 Similarly, a student may decide that the edge of the central white stripe or the edge of the pattern correspond to the
 error    . This will lead to an over-estimation of the error as              or         , respectively.
                                                        Page 2 of 12
-d. The correct option is C. An interference pattern will always have larger deflection angles for larger wavelengths.
+
+d. The correct option is C. An interference pattern will always have larger deflection angles for larger wavelengths.
 Therefore, the pattern in Figure 7 cannot result from interference, and must result from the dependence of on the
 wavelength. On the other hand, the pattern in Figure 6 has the correct order of colors for an interference pattern. It
 must in fact be an interference pattern, because the sample’s structure as depicted in part (b) is rather simple and
@@ -126,7 +128,8 @@ several ways to check the alignment without reference to the desk:
 
 
                                                        Page 3 of 12
-    3. Placing a sheet of paper behind the sample, and making sure that the stake’s shadow on the paper is at the
+
+    3. Placing a sheet of paper behind the sample, and making sure that the stake’s shadow on the paper is at the
        center of the shadow from the sample’s frame.
 
 To establish point B, it is best to look through the sample not from a zero distance, but from a distance large enough to
@@ -152,7 +155,8 @@ the student will have to get up for each adjustment of the stake’s position.
 
 
                                                       Page 4 of 12
-The cylindrical base of the sample holder makes it difficult to measure the distance accurately. The solution is to
+
+The cylindrical base of the sample holder makes it difficult to measure the distance accurately. The solution is to
 place the measuring tape perpendicularly to the bench or screen, and in tangent to the cylindrical base. Repeated
 measurements reveal that this reduces the error to      .
 
@@ -201,7 +205,8 @@ From which we derive:
 
 
                                                         Page 5 of 12
-In this case, the naïve error estimation of eq. (1) corresponds to the actual scatter of results from repeated alignments
+
+In this case, the naïve error estimation of eq. (1) corresponds to the actual scatter of results from repeated alignments
 and measurements. This is because the error from the perpendicular alignment is gone. We still have an error in
 finding the sample orientation which leads to the minimal deflection. However, this error has very little impact on the
 measurement of          itself, since the deflection angle is stationary around the minimum.
@@ -245,7 +250,8 @@ minimal deflection occurs symmetrically with respect to the prism angle:
 
 
                                                           Page 6 of 12
-                                    D
+
+                                    D
 
                                         E
                                                    B
@@ -286,7 +292,8 @@ the fringes and the pattern’s center, and the fringe number . The angles for t
                   . It is important that is measured from the center, since the relation                   is linear in
 and not in             . An offset in is less problematic, since it will not affect the slope of the linear graph in part (j).
                                                             Page 7 of 12
-The alignment process is more straightforward than with the white light. The laser beam, observed as scattered light
+
+The alignment process is more straightforward than with the white light. The laser beam, observed as scattered light
 from the screen or from the sample, can be used as a reference line instead of the stake’s shadow. The sample’s
 nonzero size no longer leads to measurement uncertainties, since the laser beam illuminates only a small portion of it.
 Instead, we are constrained by the width of the beam, which widens noticeably with distance. Since the laser pointer is
@@ -332,7 +339,8 @@ reflection, as opposed to the total internal reflection from the slanted faces.
 
 
                                                        Page 8 of 12
-The dim interference pattern from the narrow “peaks” and “valleys” on the sample displays an alternating sequence of
+
+The dim interference pattern from the narrow “peaks” and “valleys” on the sample displays an alternating sequence of
 brighter and dimmer fringes, as described in the question text. If all the fringes are taken into account, their spacing
 corresponds to the sample’s spacing . The twice larger spacing between the brighter fringes corresponds to the
 spacing       between each “peaks” and the adjacent “valley”. In other words, the dimmer fringes are due to
@@ -371,7 +379,8 @@ Configuration 1 (reflection), given proper alignment, this point is given by the
 of the hole in the screen. In Configurations 2 and 3 (transmission), it can be found by illuminating the screen directly
 without the sample, and recording the beam’s location. Configuration 2 allows another method – to define             as
                                                        Page 9 of 12
-the midpoint between the two bright side patterns. See the solution to (k) for remarks on identifying the centers of
+
+the midpoint between the two bright side patterns. See the solution to (k) for remarks on identifying the centers of
 these patterns.
 
 When choosing the measurement points, one should choose the largest possible range for which the fringes can still be
@@ -420,7 +429,8 @@ A student who consistently uses the double spacing will get a linear graph, but 
 factor of 2.
 
                                                        Page 10 of 12
-k. The student must use the bright patterns in the transmitted light (Configuration 2 or a rotated Configuration 3) to
+
+k. The student must use the bright patterns in the transmitted light (Configuration 2 or a rotated Configuration 3) to
 measure the deflection angle or          . Instead of looking through the sample, the student must use the screen. The
 peculiarities of the alignment process were already discussed in part (i). If part (i) was carried out with transmitted
 light, one may keep the same alignment and distance to the screen.
@@ -458,6 +468,7 @@ Using eqs. (3) and (4) for the refractive index and its error, we get           
 
 
                                                       Page 11 of 12
-Graph 1:   as a function of   , with a linear trend line.
+
+Graph 1:   as a function of   , with a linear trend line.
 
                     Page 12 of 12

@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4750. Ezüst és arany tetszőleges arányban ötvözhető egymással. Egy ilyen ötvözet súlya levegőben 15 N, vízben 14 N. Hány tömegszázalék aranyat tartalmaz az ötvözet? 
+P. 4750. Ezüst és arany tetszőleges arányban ötvözhető egymással. Egy ilyen ötvözet súlya levegőben 15 N, vízben 14 N. Hány tömegszázalék aranyat tartalmaz az ötvözet?
  Versenyfeladat nyomán

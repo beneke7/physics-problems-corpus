@@ -19,4 +19,4 @@ verification_status: pending
 
 A spinner having the shape of a cone (height $h$, radius $r$ ) is moving along a smooth table and spinning rapidly. What does its translational velocity $v$ have to be in order to avoid bumping against the edge of the table when it gets there?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr40-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr40-fig1.jpg)

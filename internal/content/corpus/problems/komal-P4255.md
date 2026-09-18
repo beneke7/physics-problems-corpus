@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201005"
 verification_status: pending
 ---
 
-What is the direction and the magnitude of the least force which must be exerted on a small object of mass m being at rest at the top of the horizontal table? The coefficients of static and kinetic frictions are equal and  . 
+What is the direction and the magnitude of the least force which must be exerted on a small object of mass m being at rest at the top of the horizontal table? The coefficients of static and kinetic frictions are equal and  .
  (4 pont)

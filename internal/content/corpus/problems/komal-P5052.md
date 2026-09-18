@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, choose-reference-frame]
 ---
 
-There is a small grain under a 1.5 cm wide glass sheet. Where is the visible image of the grain, if the light rays are perpendicular to the surface of the sheet, and the refractive index of the glass is $n=1.5$? 
+There is a small grain under a 1.5 cm wide glass sheet. Where is the visible image of the grain, if the light rays are perpendicular to the surface of the sheet, and the refractive index of the glass is $n=1.5$?
  (3 pont)

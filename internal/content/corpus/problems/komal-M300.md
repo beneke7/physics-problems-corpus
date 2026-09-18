@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200911"
 verification_status: pending
 ---
 
-Measure the cooling curve (temperature--time graph) of a sample of warm water. Do not stir the water. Measure the temperature in the middle of the sample of water, next to the wall of the container and near the surface of water as well. 
+Measure the cooling curve (temperature--time graph) of a sample of warm water. Do not stir the water. Measure the temperature in the middle of the sample of water, next to the wall of the container and near the surface of water as well.
  (6 pont)

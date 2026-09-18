@@ -9,10 +9,10 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4364. Egy vörösréz és egy alumínium rúd nyúlik ki a falból az ábra szerint. 20 $^\circ$C-on a rézrúd hossza 2 m, az alumínium rúdé 1 m, a köztük levő hézag 1,3 mm. 
+P. 4364. Egy vörösréz és egy alumínium rúd nyúlik ki a falból az ábra szerint. 20 $^\circ$C-on a rézrúd hossza 2 m, az alumínium rúdé 1 m, a köztük levő hézag 1,3 mm.
 
- a ) Mekkora hőmérsékleten záródik a hézag? 
- b ) Mekkora a hézag 0 $^\circ$ C -on? 
+ a ) Mekkora hőmérsékleten záródik a hézag?
+ b ) Mekkora a hézag 0 $^\circ$ C -on?
  Tornyai Sándor fizikaverseny, Hódmezővásárhely
 
-![figure](../../raw_html/komal_figures/komal-P4364-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4364-fig1.gif)

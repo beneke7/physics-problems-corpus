@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A sample of helium gas is taken through the cyclic process, which consists of an isobaric expansion, an isochoric cooling, and an adiabatic compression process. What is the maximum efficiency of this cycle? 
+A sample of helium gas is taken through the cyclic process, which consists of an isobaric expansion, an isochoric cooling, and an adiabatic compression process. What is the maximum efficiency of this cycle?
  (5 pont)

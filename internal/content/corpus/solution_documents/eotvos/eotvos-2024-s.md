@@ -58,14 +58,16 @@ után?
 
 
 Középiskolai Matematikai és Fizikai Lapok, 2025/1                                  41
-    i                                                                                                                 i
+
+
+    i                                                                                                                 i
 
         2025.1.4 – 21:12 – 42. oldal – 42. lap                                                  KöMaL, 2025. január
 i                                                                                                                         i
 
 
                    Megoldás. A lufi rugalmas energiája egy alkalmas E0 konstans bevezetésével így
-                írható:                                           
+                írható:
                                             E = E0 2λ2 + λ−4 − 3 .
                 Meggyőződhetünk róla, hogy nyújtatlan állapotban (azaz λ = 1 esetén) a rugalmas
                 energia a várakozásnak megfelelően zérus, λ > 1 értékekre pedig E(λ) monoton nö-
@@ -81,11 +83,11 @@ i                                                                               
                 zőképpen közelíthető:
                                                   ∆V ≈ 3V0 λ2 ∆λ.
                 Ehhez hasonlóan a rugalmas energia kifejezése is sorba fejthető:
-                                                                
+
                                           ∆E ≈ E0 4λ − 4λ−5 ∆λ.
 
                 Az eddigiek felhasználásával a túlnyomás kiszámítható:
-                                                                         
+
                                       ∆E     4E0 λ − λ−5 ∆λ          1   1
                                   p=      =                   = p0     −     ,
                                       ∆V          3V0 λ2 ∆λ          λ λ7
@@ -125,7 +127,9 @@ i                                                                               
 
 
     i                                                                                                                 i
-    i                                                                                                                i
+
+
+    i                                                                                                                i
 
         2025.1.4 – 21:12 – 43. oldal – 43. lap                                                 KöMaL, 2025. január
 i                                                                                                                        i
@@ -147,7 +151,7 @@ i                                                                               
 
 
                    A maximum pontos helye deriválással határozható meg:
-                                                      dp                 
+                                                      dp
                                                          = p0 −λ−2 + 7λ−8 .
                                                       dλ
                 Ez a derivált zérus, ha
@@ -191,7 +195,9 @@ i                                                                               
 
 
     i                                                                                                                i
-    i                                                                                                               i
+
+
+    i                                                                                                               i
 
         2025.1.4 – 21:12 – 44. oldal – 44. lap                                                KöMaL, 2025. január
 i                                                                                                                       i
@@ -257,7 +263,9 @@ i                                                                               
 
 
     i                                                                                                               i
-    i                                                                                                                            i
+
+
+    i                                                                                                                            i
 
         2025.1.4 – 21:12 – 45. oldal – 45. lap                                                             KöMaL, 2025. január
 i                                                                                                                                    i
@@ -322,7 +330,9 @@ i                                                                               
 
 
     i                                                                                                                            i
-    i                                                                                                                      i
+
+
+    i                                                                                                                      i
 
         2025.1.4 – 21:12 – 46. oldal – 46. lap                                                       KöMaL, 2025. január
 i                                                                                                                              i
@@ -389,7 +399,9 @@ i                                                                               
 
 
     i                                                                                                                      i
-    i                                                                                                           i
+
+
+    i                                                                                                           i
 
         2025.1.4 – 21:12 – 47. oldal – 47. lap                                            KöMaL, 2025. január
 i                                                                                                                   i
@@ -414,7 +426,7 @@ i                                                                               
                                                     2        2
                 Behelyettesítés és a deriválás elvégzése után:
                                                                2
-                                                                 
+
                                1 2 2 2            1     2 d ω         1          dω
                                  σω B R V = − ϱV R ·               = − ϱV R2 · 2ω ,
                                2                  2         dt        2          dt
@@ -450,7 +462,9 @@ i                                                                               
 
 
     i                                                                                                           i
-    i                                                                                                                     i
+
+
+    i                                                                                                                     i
 
         2025.1.4 – 21:12 – 48. oldal – 48. lap                                                      KöMaL, 2025. január
 i                                                                                                                             i
@@ -517,7 +531,9 @@ i                                                                               
 
 
     i                                                                                                                     i
-    i                                                                                                                              i
+
+
+    i                                                                                                                              i
 
         2025.1.4 – 21:12 – 49. oldal – 49. lap                                                               KöMaL, 2025. január
 i                                                                                                                                      i
@@ -545,8 +561,8 @@ i                                                                               
                             x4 y4 = f12    ⇒     y4 = 1 = − 1 = − 12 (d − 2f2 − y2 ) =
                                                        x4    y3      f2
                                          2
-                                                     2
-                                                                 2
+                                                      2
+                                                                  2
                                        f            f           f
                                     = − 12 d − 2f2 + 22 x1 = − 12 (d − 2f2 ) − x1 .
                                        f2           f1          f2
@@ -561,7 +577,7 @@ i                                                                               
                 Látható, hogy az egyenletből kiesik az x1 változó, azaz tetszőleges helyre helyezve
                 a tárgyat, annak képe a négy lencsén történő leképezés után éppen a tárgy helyén
                 lesz. Az egyenletet tovább alakítva:
-                                          2       
+                                           2
                                            f1                f12
                                                − 1   d = 2f2     + 4f1 + 2f2 ,
                                            f22               f22
@@ -583,7 +599,9 @@ i                                                                               
 
 
     i                                                                                                                              i
-    i                                                                                                                                          i
+
+
+    i                                                                                                                                          i
 
         2025.1.4 – 21:12 – 50. oldal – 50. lap                                                                           KöMaL, 2025. január
 i                                                                                                                                                  i
@@ -656,7 +674,9 @@ i                                                                               
 
 
     i                                                                                                                                          i
-    i                                                                                                                    i
+
+
+    i                                                                                                                    i
 
         2025.1.4 – 21:12 – 51. oldal – 51. lap                                                     KöMaL, 2025. január
 i                                                                                                                            i
@@ -719,7 +739,9 @@ i                                                                               
 
 
     i                                                                                                                    i
-    i                                                                                                                        i
+
+
+    i                                                                                                                        i
 
         2025.1.4 – 21:12 – 52. oldal – 52. lap                                                         KöMaL, 2025. január
 i                                                                                                                                i
@@ -749,7 +771,7 @@ i                                                                               
                                         f1 − f2            f1 − f2                              f1 − f2
                 Az eredményen látszik, hogy a megoldhatósághoz teljesülnie kell az f1 > f2 egyen-
                 lőtlenségnek. A második kép helye végül:
-                                                          2
+                                                            2
                                                    B      f2
                 (7)                          y=− x=            x.
                                                    C      f1
@@ -782,7 +804,9 @@ i                                                                               
 
 
     i                                                                                                                        i
-    i                                                                                                                                i
+
+
+    i                                                                                                                                i
 
         2025.1.4 – 21:12 – 53. oldal – 53. lap                                                                 KöMaL, 2025. január
 i                                                                                                                                        i
@@ -850,7 +874,9 @@ i                                                                               
 
 
     i                                                                                                                                i
-    i                                                                                                                i
+
+
+    i                                                                                                                i
 
         2025.1.4 – 21:12 – 54. oldal – 54. lap                                                 KöMaL, 2025. január
 i                                                                                                                        i

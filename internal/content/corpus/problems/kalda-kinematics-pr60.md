@@ -19,4 +19,4 @@ verification_status: pending
 
 If a stone is thrown into a pond, a circular wave is created which expands in time. The following figure depicts the propagation of such a wave: different circles correspond to the position of the wave crest at different moments of time; the underlying snapshots have been taken with a regular (but unknown) interval.
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr60-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr60-fig1.jpg)

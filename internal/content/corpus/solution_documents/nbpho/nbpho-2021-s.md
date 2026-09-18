@@ -94,7 +94,9 @@ ter is burnt throughout the acceleration and • Correct conservation laws for m
 an equal amount of matter is burnt from the    and energy (half of the points for each)                                                              2z                  1 − z2               2
 interstellar space. Hence, it makes sense to                                        0.5 pts. The force acting on the rocket can now be ex‐ sin y =         , cos y =            , dy =           d z,
                                                                                                                                                     1+ z 2               1 + z2           1 + z2
-so that the integral becomes, after some ma‐ photon is observed by a stationary observer. Evaluated at x = L, this yields                                               and hence,
+
+
+so that the integral becomes, after some ma‐ photon is observed by a stationary observer. Evaluated at x = L, this yields                                               and hence,
 nipulation,                                  We can directly use the relativistic Doppler                                                                                                   v
                                                                                                                      L2 ω                                                                   u
                Z                             shift effect to find                                                                                                                           u 1 + 3ρ a L2 1
@@ -174,7 +176,9 @@ iii) (1 point) The last photon is emitted when                                  
                                                                                    xLω                                           =                +                 ,
 the space ship moves at a speed of v f . The                               v( x) =     .                                                32 h 0               6          ectly by the application of the Bernoulli Prin‐
                                                                                     2h
-ciple p + ρ w v2 /2 = const along a streamline or     Grading:                                            • Correct numerical answer                0.1 pts. Thus,
+
+
+ciple p + ρ w v2 /2 = const along a streamline or     Grading:                                            • Correct numerical answer                0.1 pts. Thus,
 by noting that the flow speed gradients are • Speed dependence v( x) from continuity                      v) (3 points)Because the expansion of water is                  µ µ ¶           µ ¶¶
                                                                                                                                                                       RT0     p1    γ      T1
 driven by pressure gradients.                       condition                             0.5 pts.        reversible, entropy is conserved. This means           r=        ln    −     ln      = 0.114.
@@ -255,7 +259,9 @@ F b + F1 = 0. Solving the equation, we find                                     
                                          g.
                                                       • Understanding that T = T0              0.2 pts.                        T1           p1      T0             = ( c v + R ) n(T t − T0 ) + rnML − nMv2 /2,
                           ln(R / r )
-                                                                                                                                                                                                 dφ
+
+
+                                                                                                                                                                                                 dφ
 and hence,                                               Note: using simple Bernoulli’s equation, which          Grading:                                                     of m 1 ω2 r = − m 1 dr acting on an object of
               s µ                ¶
                                                          does not consider phase changes, gave       0 pts • Finding the trajectory in an inertial frame                      mass m 1 . The rope takes a shape that minim‐
@@ -331,7 +337,9 @@ Finding µ                                      1.5 pts                         
 • Correction factor 1−1 r for the whole mass              4R 2   2π R 2 2 R p                  level to be at r = 0. In other words, in                                                                          TA   R−h
   flow.                                   0.2 pts s =          +       =     4 + π2 ≈ 117 m/s. this frame, there is a fictitious radial force                                   RT A cos α = (R − h)TC =⇒           =       .
                                                            τ      τ      τ                                                                                                                                       TC R cos α
-   Grading: Idea: rope in equilibrium 0.2               for tension 0.4 pts. Solved only for T A : full viii) (2 points) Consider a charge q1 at rest                            This lets us evaluate the main integral as
+
+
+   Grading: Idea: rope in equilibrium 0.2               for tension 0.4 pts. Solved only for T A : full viii) (2 points) Consider a charge q1 at rest                            This lets us evaluate the main integral as
 pts. Using zero total torque as condition 0.2           marks with penalty ‐0.1 pts. Correct numer‐ at radius r in the rotating frame. The                                               I           I
 pts. Eliminating radial force by choice of              ical value for TC 0.2 pts.                          electromagnetic force applied to it is frame‐                                       ⃗ = 2πµ0 Q ⃗r · d A
                                                                                                                                                                                            ⃗ · dA
@@ -432,7 +440,9 @@ are incorrect, 0.2 pts. Correct expression • Wrong sign of the charge         
                                                                                                   − 15 pts                       V =        ⃗r · d ⃗
                                                                                                                                                    A.                             should be considered. Additionally, if
                                                                                                                                           2
-    the graph for finding ϵmax is used by                the thickness a of the strip such that d = k·a                                                                       measurement of the rope of strips was made
+
+
+    the graph for finding ϵmax is used by                the thickness a of the strip such that d = k·a                                                                       measurement of the rope of strips was made
     including the point (0,0), then 0.1 pts              where k remains constant for the strip while                                                                         using force F stretching the second 7 mm
     should be subtracted.                                stretching. Therefore                                                                                                wide 80 mm test strip to 519 mm .
 • Method of measurement, of which: 0.4 pts                                                                                                                                        But the 7 mm stripe broke when it was
@@ -557,7 +567,9 @@ at the breaking force Fmax .                     on the strips with different in
                                                                                                                                                                               perpendicular to the central symmetry line
                                                                                                                               strip broke at length 522 mm. Therefore the
     k is the ratio between the width d and                       Approach 1                                                                                                   of the elongated triangle.)
-                                                                        mm     mm          mm                                  ing                                             (force may be mg)                         0 pts.
+
+
+                                                                        mm     mm          mm                                  ing                                             (force may be mg)                         0 pts.
                                                                σ/σmax    l0        l       d0         ( l − l 0 )/ l o       • reasonable amount of repetitions (break‐ • stretching the strip to different lengths not
                                                                0.985      6    10          72.6           6.26                 ing is not very well repeatable)                knowing the actual force applied          0 pts.
                                                                0.605      8    10          59.5           4.95                   BAD practice:                               • MOST     OFTEN:    Assumption    that   F=kx   !
@@ -637,7 +649,9 @@ at length 73.7 mm .                              fixed surface to another parall
     So the dmax 0 = 6 mm and l max = 73.7 mm .   face                                                                          strip while keeping the applied force con‐      value  at least 0,8 of σ max              0. 1 pts.
                                                • rolling the marker‐marked strip lengthwise                                    stant (stress created remains constant)       • measurements      for  the  breaking event val‐
                                                  into a cylindrical shape for uniform stretch‐                                                                                 ues correctly done                        0.2 pts.
-• chart of measured and calculated values       units)                              0.2 pts. • If the out of list equipment used does not    • If the out of list equipment does enable a
+
+
+• chart of measured and calculated values       units)                              0.2 pts. • If the out of list equipment used does not    • If the out of list equipment does enable a
   given                            0.3 pts.       If the results of any intermediate calcu‐    allow for any principally new methods of        principally new method of solution, credit
 graph:                                        lations are excessively rounded, a deduction     solution, any credit awarded for the parts      will only be awarded for aspects of the solu‐
                                                                           −0.1 pts for every   of the solution that rely on the use of the     tion that would be applicable in a solution

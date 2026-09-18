@@ -30,7 +30,9 @@ Rajzoljunk hozzá tartozó elektromos erővonalábrát. Ezután adjunk meg egy m
 
 
                                                        6
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
           Rajzoljunk szabályos pontokban felvett, hozzájuk tartozó térvektorokat. Ezután adjunk meg egy matematikai

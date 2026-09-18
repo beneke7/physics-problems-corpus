@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200509"
 verification_status: pending
 ---
 
-Can it ever happen that the total eclipse of the Sun is followed by a total eclipse of the Moon (or maybe in reversed order)? 
+Can it ever happen that the total eclipse of the Sun is followed by a total eclipse of the Moon (or maybe in reversed order)?
  (3 pont)

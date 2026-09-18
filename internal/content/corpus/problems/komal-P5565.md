@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-One end of a long, flexible, heavy chain was fixed. The hanging chain would break if a load greater than the weight of the chain was hung on it. The chain is released from the position shown in the figure . (Both the moving and the already taut parts of the chain can be considered to be vertical.) Will the chain break? 
+One end of a long, flexible, heavy chain was fixed. The hanging chain would break if a load greater than the weight of the chain was hung on it. The chain is released from the position shown in the figure . (Both the moving and the already taut parts of the chain can be considered to be vertical.) Will the chain break?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5565-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5565-fig1.gif)

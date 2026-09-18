@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-A pointlike lightsource ascends at a speed of v =0.8 m/s in a deep lake. There are no waves on the surface of the water. At what rate does the diameter of the circle created by the diffracted light on the surface of the water change? (The refractive index of water is n =4/3.) 
+A pointlike lightsource ascends at a speed of v =0.8 m/s in a deep lake. There are no waves on the surface of the water. At what rate does the diameter of the circle created by the diffracted light on the surface of the water change? (The refractive index of water is n =4/3.)
  (3 pont)

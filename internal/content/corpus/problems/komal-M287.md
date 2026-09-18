@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200804"
 verification_status: pending
 ---
 
-Blow air through a straw steadily and measure the speed of the flowing air. 
+Blow air through a straw steadily and measure the speed of the flowing air.
  (6 pont)

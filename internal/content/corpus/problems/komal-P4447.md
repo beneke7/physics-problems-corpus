@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201205"
 verification_status: pending
 ---
 
-What are the resistances of the resistors R $_{1}$ and R $_{2}$, shown in the figure, if the voltage supply is 40 V, and the power dissipated on resistor R is 80 W, the readings on the ammeter and on the voltmeter are 3 A and 30 V, respectively. 
+What are the resistances of the resistors R $_{1}$ and R $_{2}$, shown in the figure, if the voltage supply is 40 V, and the power dissipated on resistor R is 80 W, the readings on the ammeter and on the voltmeter are 3 A and 30 V, respectively.
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4447-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4447-fig1.gif)

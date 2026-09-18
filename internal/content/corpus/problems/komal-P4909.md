@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-Six tubes are attached to the rim of a wheel, which can rotate about a horizontal axis, as shown in the figure. In each tube there is a heavy lead ball. On the right-hand side the balls are at that end of each tube which is further away from the axle, and on the left-hand side the balls are at the closer ends of the tubes. Explain why this machinery cannot operate forever (cannot be a perpetuum mobile)? 
+Six tubes are attached to the rim of a wheel, which can rotate about a horizontal axis, as shown in the figure. In each tube there is a heavy lead ball. On the right-hand side the balls are at that end of each tube which is further away from the axle, and on the left-hand side the balls are at the closer ends of the tubes. Explain why this machinery cannot operate forever (cannot be a perpetuum mobile)?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4909-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4909-fig1.gif)

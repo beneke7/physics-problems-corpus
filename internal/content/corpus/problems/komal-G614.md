@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Disks of equal mass of $m$ were attached to the ends of a negligible-mass spring of spring constant $D$. The disks and the spring in unstretched position are placed to an air-cushioned table, and they are given a velocity of $v_0$ in the direction of the axis of the spring. At a certain instant the disk at the back is suddenly stopped and held at rest. 
- $a)$ How much time elapses until the other disk turns back? 
- $b)$ What is the greatest extension of the spring and at most how much potential energy is stored in the spring? 
- Data: $D=16$ N/m, $m=0.25$ kg, $v_0=2$ m/s. 
+Disks of equal mass of $m$ were attached to the ends of a negligible-mass spring of spring constant $D$. The disks and the spring in unstretched position are placed to an air-cushioned table, and they are given a velocity of $v_0$ in the direction of the axis of the spring. At a certain instant the disk at the back is suddenly stopped and held at rest.
+ $a)$ How much time elapses until the other disk turns back?
+ $b)$ What is the greatest extension of the spring and at most how much potential energy is stored in the spring?
+ Data: $D=16$ N/m, $m=0.25$ kg, $v_0=2$ m/s.
  (3 pont)

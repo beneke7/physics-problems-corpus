@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [differential-element, conservation-laws]
 ---
 
-A bucket of water of mass $m$ is pulled up from a water well of depth $h$, while the rope is wound evenly on the cylinder of mass $M$. The bucket is released from the top. With what acceleration does the bucket fall? After how long and at what speed does the bucket hit the water? The cylinder has a uniform mass distribution, the bucket full of water can be considered as a point-like body, the mass of the rope can be neglected. 
- Data: $m=11\,\mathrm{kg}$, $M=8\,\mathrm{kg}$, $h=5\,\mathrm{m}$. 
+A bucket of water of mass $m$ is pulled up from a water well of depth $h$, while the rope is wound evenly on the cylinder of mass $M$. The bucket is released from the top. With what acceleration does the bucket fall? After how long and at what speed does the bucket hit the water? The cylinder has a uniform mass distribution, the bucket full of water can be considered as a point-like body, the mass of the rope can be neglected.
+ Data: $m=11\,\mathrm{kg}$, $M=8\,\mathrm{kg}$, $h=5\,\mathrm{m}$.
  (4 pont)

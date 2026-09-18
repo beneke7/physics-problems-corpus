@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [extremization]
 ---
 
-Three isolating beads having the same mass and given the same charge are stringed to a thin insulating stick fixed in a vertical position. The bottom bead is fixed and the above two beads are free to slide on the stick. At equilibrium, how many times further is the top bead from the middle bead than the middle bead from the bottom bead? 
+Three isolating beads having the same mass and given the same charge are stringed to a thin insulating stick fixed in a vertical position. The bottom bead is fixed and the above two beads are free to slide on the stick. At equilibrium, how many times further is the top bead from the middle bead than the middle bead from the bottom bead?
  (5 pont)

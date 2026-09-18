@@ -19,4 +19,4 @@ verification_status: pending
 
 A block is situated on a slope with angle $\alpha$, the coefficient of friction between them is $\mu>\tan \alpha$. The slope is rapidly driven back and forth in a way that its velocity vector $\vec{u}$ is parallel to both the slope and the horizontal and has constant modulus $v$; the direction of $\vec{u}$ reverses abruptly after each time interval $\tau$. What will be the average velocity $w$ of the block's motion? Assume that $g \tau \ll v$.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr17-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr17-fig1.jpg)

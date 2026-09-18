@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201309"
 verification_status: pending
 ---
 
-Place a chain made of same links to the table such that some part of the chain hangs down from the tabletop. When will the whole chain begin to slide down from the table? Using the result give an estimation to the coefficient of static friction between the table and the chain. Check your estimation with measurement as well! 
+Place a chain made of same links to the table such that some part of the chain hangs down from the tabletop. When will the whole chain begin to slide down from the table? Using the result give an estimation to the coefficient of static friction between the table and the chain. Check your estimation with measurement as well!
  (6 pont)

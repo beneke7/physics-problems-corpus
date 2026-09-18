@@ -28,15 +28,15 @@ Thus, rounding to a reasonable number of significant figures, we have
 y = 2.7 ± 0.5.
 Note that it would be incorrect to apply the “addition in quadrature” rule for products,
 ∆y = xex
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆(ex)
 ex
-2
+ 2
 because x and ex aren’t independent.
 (b) To find the central value of x, we solve the equation 2 = xex numerically. This can be done
 using the method of iteration introduced in P1. That is, we have x = 2e−x, so by repeatedly

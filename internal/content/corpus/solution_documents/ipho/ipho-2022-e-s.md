@@ -82,7 +82,9 @@ g = 15.7 m/s2 with an error of ∆g = 0.5 m/s2 .                               p
 
                                                                  Our estimation of free-fall acceleration has a contribu-
                                                                  tion from the centrifugal force caused by the rotation
-IPhO 2022                                           Experimental Solutions. Language: English
+
+
+IPhO 2022                                           Experimental Solutions. Language: English
 
 of the planet. This serves to reduce the acceleration on
 the surface and hence decrease our estimation of the
@@ -145,7 +147,9 @@ u = 1.31 m/s with an error of ∆u = 0.04 m/s.                  Fit line        
                  320     13.4    12.9                        itational acceleration:
                  360     15.4    14.4
                  400     16.4    15.4                                                 mg = 0.24Aρa vt2 .
-IPhO 2022                                                   Experimental Solutions. Language: English
+
+
+IPhO 2022                                                   Experimental Solutions. Language: English
 
 Using m = 4πρr3 /3 and A = πr2 , we get                             can estimate the terminal velocity of the ball at different
                              √                                      heights by comparing the dropping time of a ball with
@@ -231,7 +235,9 @@ further up you go, the more the temperature and air den-                        
 
 sity decreases, but the terminal velocity increases. We 0.82 (kg/m ) so H0 = −b/a = 7500 m. We calculate the
                                                                      3 0.4
-IPhO 2022                                                              Experimental Solutions. Language: English
+
+
+IPhO 2022                                                              Experimental Solutions. Language: English
 
                                 r = 5 cm, ρ = 0.1 g/cm3                                           h (            1       )
                                                                                               t≈      1−               h
@@ -329,7 +335,9 @@ order binomial expansion to get                                            and  
                                                                                                   ∆H02   ∆g 2             −1
                                                                                        ∆µ =            +      µ = 20 g mol .
                                                                                                   H02     g2
-IPhO 2022                                                         Experimental Solutions. Language: English
+
+
+IPhO 2022                                                         Experimental Solutions. Language: English
 
 From ideal gas law,                                                                       r = 50 cm, ρ = 10 g/cm3
                                                                                          h(m) s(m) h1.5 (m1.5 )
@@ -416,7 +424,9 @@ and                √(                                                         
                               ∆g            ∆a2                                        formly
             ∆T =        0.5             +       T = 0.2 h.
                               g              a2
-IPhO 2022                                          Experimental Solutions. Language: English
+
+
+IPhO 2022                                          Experimental Solutions. Language: English
 
             hmax − hmin ≥ 1800 m               0.05 pts
             calculating derived quantities     0.05 pts
@@ -442,7 +452,9 @@ and                √(                                                         
             ∆T ≤ 2000 s                       0.10/0.20
             missing units for error           -0.05 pts
             sum                                 2.5 pts
-IPhO 2022                                                      Experimental Solutions. Language: English
+
+
+IPhO 2022                                                      Experimental Solutions. Language: English
 
 E2: Cylindrical Diode - SOLUTION                                     Data     vary only V                             0.05 pts
                                                                               Re ≥ 1cm                                0.05 pts
@@ -524,7 +536,9 @@ alone we can fit two extreme lines and get
 
   Either approach is acceptable.
   Marking scheme:
-IPhO 2022                                                  Experimental Solutions. Language: English
+
+
+IPhO 2022                                                  Experimental Solutions. Language: English
 
                                                                                  Rc (cm)     I (mA)    log Rc   log I
           4.1                                                                      20         6640     1.301    3.822
@@ -593,7 +607,9 @@ yields β = 0.97 ± 0.02.
 A.3: Collect data by varying Rc . To minimize error, select
 maximum values for all fixed variables, this means V =
 2000 V, Le = 99 cm, and Re = Rc /10 cm.
-IPhO 2022                                      Experimental Solutions. Language: English
+
+
+IPhO 2022                                      Experimental Solutions. Language: English
 
  Data     vary only Rc                    0.05 pts
           Re ≥ 1cm                        0.05 pts
@@ -624,7 +640,9 @@ maximum values for all fixed variables, this means V =
           puted
           δα ≤ 0.03                       0.10 pts
           sum                              1.5 pts
-IPhO 2022                                              Experimental Solutions. Language: English
+
+
+IPhO 2022                                              Experimental Solutions. Language: English
 
 B.1: Use all three sets of data, and the exponents from
 all three, and then average the results
@@ -674,7 +692,9 @@ out explicit units, but using the units of µA/V3/2 , that is
 there is a justification for the data they are collecting and
 using. This can be in the form of the log formula; words
 are not necessary. Reusing data is okay.
-IPhO 2022                                             Experimental Solutions. Language: English
+
+
+IPhO 2022                                             Experimental Solutions. Language: English
 
 C.1: Start by assuming that Le matters, and look at val-        We plot the results below; blue are the values of fixed
 ues near Rc . Repeat for other variables. Remember that       Re while green are the values of fixed Le .

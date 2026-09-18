@@ -32,4 +32,4 @@ c. ↓
 d. ←
 e. The net electrostatic force on the particle of charge $-Q$ is zero.
 
-![](aupho-2017-q7-fig01.png)
+![](../../figures/aupho/figures/aupho-2017-q7-fig01.png)

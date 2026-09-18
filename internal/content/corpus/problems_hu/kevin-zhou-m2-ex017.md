@@ -38,7 +38,7 @@ különböző mértékben és különböző irányokban; itt alig van szimmetria
                                           strain ∼ δ/r ∼ r/R
 
   ahol δ a függőleges deformáció. A Young-modulus definícióját felhasználva azt kapjuk, hogy
-                                                           1/3
+                                                             1/3
                                                       ρgR
                                            r∝R                     .
                                                        Y
@@ -47,7 +47,9 @@ különböző mértékben és különböző irányokban; itt alig van szimmetria
 
 
                                                     24
-   Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                             Physics Olympiad Handouts
 
 
 

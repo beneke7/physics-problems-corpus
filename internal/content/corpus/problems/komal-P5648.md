@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [exploit-symmetry, model-reduction]
 ---
 
-Consider $N$ distinct points in the space. Connect each point to all the others with the same resistors of resistance $R$. What is the equivalent resistance between any two points? 
+Consider $N$ distinct points in the space. Connect each point to all the others with the same resistors of resistance $R$. What is the equivalent resistance between any two points?
  (5 pont)

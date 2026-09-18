@@ -19,4 +19,4 @@ verification_status: pending
 
 A circuit consists of two identical inductances, two identical capacitors, and one resistor, see figure. The applied voltage is $U_{0}=10 \mathrm{~V}$, and the total current at the input leads is $I_{0}=1 \mathrm{~A}$; the voltage measured at the left capacitor is 10 V , and 10 V is also measured at the left inductance. What is the active power dissipated in this circuit and what is the resistance of the resistor?
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr98-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr98-fig1.jpg)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, stability-analysis]
 ---
 
-Is it possible that there exists a real gas, such that one of its isotherm intersects one of its adiabat at several different points on the diagram? 
+Is it possible that there exists a real gas, such that one of its isotherm intersects one of its adiabat at several different points on the diagram?
  (5 pont)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200810"
 verification_status: pending
 ---
 
-Measure the magnitude of the torque needed to screw down the top of a plastic water or soft drink bottle. How does this depend on the maximum torque applied during the unscrewing process of the top? 
+Measure the magnitude of the torque needed to screw down the top of a plastic water or soft drink bottle. How does this depend on the maximum torque applied during the unscrewing process of the top?
  (6 pont)

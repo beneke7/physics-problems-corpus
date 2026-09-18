@@ -26,7 +26,9 @@ Az üreg nyílásának szögszélessége θ, ezért θ szélességű fénysugár
     amely ezután relativisztikus sebességgel előrefelé mozog. A
 
                                                        7
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
 
     fényszórónyaláb új szélessége θ′ a Föld rendszerében. Tekintsük a következő két érvelést.

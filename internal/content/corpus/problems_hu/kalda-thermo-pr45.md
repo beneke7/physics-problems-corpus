@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy autómotor fő alkotóelemei: a henger, a benne mozgó dugattyú és a gázok hengerbe való be- és kiengedésére szolgáló szelep.
 
-![ábra](../../sources/kalda/figures/kalda-thermo-pr45-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-thermo-pr45-fig1.jpg)

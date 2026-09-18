@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: pending
 ---
 
-A domestic appliance is connected to the power station by a wire of resistance 12 ohm. The power of the appliance is 1 kW. What is the efficiency of the transmission of electrical energy in case of 230 V, and in case of 10 kV? 
+A domestic appliance is connected to the power station by a wire of resistance 12 ohm. The power of the appliance is 1 kW. What is the efficiency of the transmission of electrical energy in case of 230 V, and in case of 10 kV?
  (4 pont)

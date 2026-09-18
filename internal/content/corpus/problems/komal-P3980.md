@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200704"
 verification_status: pending
 ---
 
-A pair of wire is used to transfer power of 100 kW to a distance of 100 km, such that the decrease in the voltage can be maximum 2%. The wire is made of copper the resistivity of which is 1.7$^{.}$10$^{-8}$  m, the diameter of the wire is 20 mm. Calculate the voltage. 
+A pair of wire is used to transfer power of 100 kW to a distance of 100 km, such that the decrease in the voltage can be maximum 2%. The wire is made of copper the resistivity of which is 1.7$^{.}$10$^{-8}$  m, the diameter of the wire is 20 mm. Calculate the voltage.
  (4 pont)

@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, graphical-reduction]
 ---
 
-A sample of Helium gas is taken through the process A B , shown in the figure, p $_{0}$=10$^{5}$ Pa, V $_{0}$=3 dm$^{3}$. Determine the pressure and the volume of the gas at state  C , until which Q $_{ AC }$=3700 J heat is added to the gas. 
+A sample of Helium gas is taken through the process A B , shown in the figure, p $_{0}$=10$^{5}$ Pa, V $_{0}$=3 dm$^{3}$. Determine the pressure and the volume of the gas at state  C , until which Q $_{ AC }$=3700 J heat is added to the gas.
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4216-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4216-fig1.gif)

@@ -29,7 +29,7 @@ Introduction
 
 Water sprayers are found at various places such as agriculture farms, green parks or urban areas for functional purposes or for aesthetic art installation. Consider a hemispherical shaped fountain sprayer of radius $r$ at the height $h$ from the ground as shown in a cross-sectional diagram in Fig. 1. Let the radius of the hemisphere to be small compared to the range $R$, hence can be treated as a point source. However there are $\rho(\theta)$ number of holes per unit area at angle $\theta$. The water spurts in all directions at the same initial velocity $v_{o}$.
 
-![](apho-2024-t-q1-fig01.png)
+![](../../figures/apho/figures/apho-2024-t-q1-fig01.png)
 Fig. 1: Schematic cross section of a hemispherical shaped fountain sprayer.
 
 Part A: Uniformly Distributed Holes on the Surface of the Hemisphere (6.0 points)

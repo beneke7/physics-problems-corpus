@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-If a very high-energy gamma photon collides with a stationary electron, pair production may occur, and in some cases more than one electron-positron pair can be created. 
- a) What is the minimum energy of the gamma photon if $n$ electron-positron pairs are created in the process? 
- b) What is the least velocity of the particles created after pair production? 
+If a very high-energy gamma photon collides with a stationary electron, pair production may occur, and in some cases more than one electron-positron pair can be created.
+ a) What is the minimum energy of the gamma photon if $n$ electron-positron pairs are created in the process?
+ b) What is the least velocity of the particles created after pair production?
  (5 pont)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, graphical-reduction]
 ---
 
-On a horizontal, rough table, the value of the coefficient of kinetic friction $\mu$ depends on the distance $x$ measured from the edge of the table. Launching a small body from the edge at different initial velocities $v$, we find that the distance along which the small body stops is $s=kv$, where $k$ is a parameter characteristic of the table. Determine the function how the value of the coefficient of kinetic friction depends on the position. 
+On a horizontal, rough table, the value of the coefficient of kinetic friction $\mu$ depends on the distance $x$ measured from the edge of the table. Launching a small body from the edge at different initial velocities $v$, we find that the distance along which the small body stops is $s=kv$, where $k$ is a parameter characteristic of the table. Determine the function how the value of the coefficient of kinetic friction depends on the position.
  (5 pont)

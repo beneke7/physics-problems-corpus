@@ -29,7 +29,9 @@ Example 10
     with the skater, as the skater pulls their arms in radially. Spechaically, model the skater as two
 
                                                    18
-Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+Kevin Zhou                                                             Physics Olympiad Handouts
 
   point tömeges m a távolság r from the axis. Show that balancing the Coriolis and azimuthal
   erők yields a result equivalent to using angular impulzus conservation in an inertial frame.

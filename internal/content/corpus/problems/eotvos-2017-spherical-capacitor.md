@@ -24,6 +24,6 @@ techniques: [exploit-symmetry, model-reduction]
 
 Egy gömbkondenzátor fegyverzeteinek sugara $R$ és $3R$. A gömböket rövidre zárjuk, és a nagyobb gömböt leföldeljük. A két fémgömb között egy $Q$ ponttöltést mozgatunk állandó $v$ sebességgel sugárirányban kifelé.
 
-![A gömbkondenzátor](../../sources/eotvos/figures/eotvos-2017-spherical-capacitor-fig1.png)
+![A gömbkondenzátor](../../figures/eotvos/figures/eotvos-2017-spherical-capacitor-fig1.png)
 
 Mekkora áram folyik a gömböket összekötő vezetékben, amikor a mozgó töltés éppen „félúton", a gömbök középpontjától $2R$ távolságban van? (A rövidrezáró vezeték elektrosztatikus terét ne vegyük figyelembe!)

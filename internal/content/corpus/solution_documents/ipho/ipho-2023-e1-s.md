@@ -61,7 +61,9 @@ Part A: Hooke's law and electromagnetic forces (2.4 points)
                                   4             10.7                   0.423
 
                                   5             10.2                   0.524
-Experiment
+
+
+Experiment
 
 
                                                                            A1-2 English
@@ -103,7 +105,9 @@ Part A: Hooke's law and electromagnetic forces (2.4 points)
    Δ𝑎 =                  = 0.03
                 2
    𝑎 = −0.51 ± 0.03 mm
-Experiment
+
+
+Experiment
 
 
                                                                            A1-3 English
@@ -147,7 +151,9 @@ Part A: Hooke's law and electromagnetic forces (2.4 points)
    Δ𝑏 =                 = 0.005
                  2
    𝑏 = 0.106 ± 0.005 A
-Experiment
+
+
+Experiment
 
 
                                                            A1-4
@@ -185,7 +191,9 @@ Part B: Induced electromotive force (3.0 points)
                                    2.5             0.124
 
                                    3.0             0.146
-Experiment
+
+
+Experiment
 
 
                                                                            A1-5 English
@@ -225,7 +233,9 @@ Part B: Induced electromotive force (3.0 points)
    Δ𝑐 =                 = 0.001
                 2
    𝑐 = 0.049 ± 0.001 V/mm
-Experiment
+
+
+Experiment
 
 
                                                                     A1-6        English
@@ -273,7 +283,9 @@ Part B: Induced electromotive force (3.0 points)
                  𝑎      𝑚
 
  𝑘 = 144 ± 11 N/m
-Experiment
+
+
+Experiment
 
 
                                                              A1-7
@@ -307,7 +319,9 @@ Part C: Mass dependence of resonant frequency (2.3 points)
                  4      9.06      0.01218
 
                  5      8.45      0.01401
-Experiment
+
+
+Experiment
 
 
                                                                          A1-8              English
@@ -353,7 +367,9 @@ Part C: Mass dependence of resonant frequency (2.3 points)
    ′
      =                     = 5.12 × 10−5 s2
  𝑘            (2𝜋)2
-Experiment
+
+
+Experiment
 
 
                                             A1-9
@@ -392,7 +408,9 @@ Part C: Mass dependence of resonant frequency (2.3 points)
 
 
  𝑘′ = 147 N/m
-Experiment
+
+
+Experiment
 
 
                                                                          A1-10        English
@@ -441,7 +459,9 @@ Part D: Resonance characteristics (2.3 points)
                    16.60                 1.1               0.4096          0.826
 
                    16.81                 1.0               0.7225          1.000
-Experiment
+
+
+Experiment
 
 
                                       A1-11     English
@@ -468,7 +488,9 @@ Part D: Resonance characteristics (2.3 points)
                        0
                        15    16            17
                             f /Hz
-Experiment
+
+
+Experiment
 
 
                                                                                        A1-12

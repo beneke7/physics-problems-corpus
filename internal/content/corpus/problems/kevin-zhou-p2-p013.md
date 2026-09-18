@@ -38,7 +38,7 @@ solution_language: en
                                f (x′ , y ′ ) ≈ f (x, y) + (x′ − x)      + (y ′ − y) .
                                                                      ∂x            ∂y
        For independent x and y, adding the two contributions to the uncertainty in quadrature gives
-                                         s         2           2
+                                         s           2             2
                                              ∂f            ∂f
                                    ∆f =          ∆x +          ∆y .
                                              ∂x             ∂y
@@ -49,7 +49,9 @@ solution_language: en
 
 
                                                           5
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
     3    Using Uncertainties

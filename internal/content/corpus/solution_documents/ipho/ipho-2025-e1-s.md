@@ -47,7 +47,9 @@ The list of equipment is given below and illustrated in Fig. 1. The number of it
      (ii) (pay attention to connection polarity). The force sensor (b) and magnetic field sensor (d) should
      be connected to slots (iv) and (iii) respectively, and the coil power cables to slots (v). A switch (vi)
      closes the coil supply circuit (indicated by an LED), whose electric current can be controlled in (vii).
-                                                                                  Q1-2
+
+
+                                                                                  Q1-2
 Experiment
 
 
@@ -91,7 +93,9 @@ Installation of equipment (f) (Fig. 3), to be mounted only before starting part 
      which a magnet (a) is already inserted. Insert the wire supporting the pod into the part (f2a), and
      secure it with a screw (f4). Turning part (f2a) changes the angle at which the wire is attached. The
      toothpick allows to precisely measure the angular position of the pod.
-                                                                                  Q1-3
+
+
+                                                                                  Q1-3
 Experiment
 
 
@@ -140,7 +144,9 @@ revolution axis is
 
 This equation is only valid near the center of the device, denoted by 𝑧 = 𝑧0 .
 Magnetic field in the coils
-                                                                                 Q1-4
+
+
+                                                                                 Q1-4
 Experiment
 
 
@@ -175,7 +181,9 @@ SOLUTION:
 The plot below is obtained at 𝑖0 = 1.0A. At the centre of the device is a zone in which the field is a linear
 function of position. At the edges of the device, you can see the saturation of the classical field as you
 approach the two coils. The zone of linearity from the figure is [0.015 ; 0.032] m.
-                                                                                 Q1-5
+
+
+                                                                                 Q1-5
 Experiment
 
 
@@ -215,7 +223,9 @@ gradient 𝐵(𝑧𝑧2 )−𝐵(𝑧
 
 We have a linear evolution. The possible residual y-intercept may be due to the fact that the sensor is
 not correctly calibrated. A typical value for the slope gives 𝛼 = 0.150 ± 0.007 T ⋅ m−1 ⋅ A−1 .
-                                                                                        Q1-6
+
+
+                                                                                        Q1-6
 Experiment
 
 
@@ -253,7 +263,9 @@ The slope of the curve is 5.48 gram-force/A, giving a slope of (53.7 ± 0.8) × 
 moment is 𝑚𝑚 =               = 0.358 A ⋅ m2 . The uncertainty is obtained from      =     +     = 0.05.
                     0.150                                                        𝑚    𝑝     𝛼
 The magnetic moment 𝑚𝑚 = 0.36 ± 0.02 A ⋅ m2 .
-                                                                                 Q1-7
+
+
+                                                                                 Q1-7
 Experiment
 
 
@@ -293,7 +305,9 @@ SOLUTION:
 The field B is measured directly by sticking the third magnet on the graduated ruler. You can also use
 the Hall sensor directly. The measurements are shown below, where the position is plotted as a function
 of 𝐵 −1/3 (see figure below).
-                                                                                 Q1-8
+
+
+                                                                                 Q1-8
 Experiment
 
 
@@ -335,7 +349,9 @@ The slope is ⒧         ⒭ = (4, 1 ± 0.1) × 10−3 m ⋅ T1/3 , and then the
 
 SOLUTION:
 The final value is given by the averaged value of the previous measurements, so 𝑚𝑚 = 0, 33 ± 0, 01 A ⋅ m2 .
-                                                                                           Q1-9
+
+
+                                                                                           Q1-9
 Experiment
 
 
@@ -389,7 +405,9 @@ The figure below describes the proposed experiment. The period 𝑇 for small os
 (with best precision using several periods). Since the inertial moment 𝐽0 of the pod is unknown, adding
 sticky paste to both ends of the pod allows the change of the inertial moment 𝐽 = 𝐽0 + 𝛥𝐽 . The length of
 the pod arm is 𝑟𝑎 = 0.04 m.
-                                                                        Q1-10
+
+
+                                                                        Q1-10
 Experiment
 
 
@@ -422,7 +440,9 @@ quantities that do not correspond to a working protocol.
              𝐵e , with its uncertainty.
 
 SOLUTION:
-                                                                                 Q1-11
+
+
+                                                                                 Q1-11
 Experiment
 
 
@@ -467,7 +487,9 @@ Evaluation of the torque from the wire
 SOLUTION:
 The magnet is removed. The period of oscillation therefore depends on the torque due to the twisting
 of the wire and the moment of inertia. As the moment of inertia of the cradle remains unknown, we can
-                                                                                       Q1-12
+
+
+                                                                                       Q1-12
 Experiment
 
 
@@ -528,7 +550,9 @@ answer is [5 ; 20%[.
 Static regime measurement
 We now propose a static measurement of the Earth's magnetic field. Reinsert the magnet into the pod.
 Use piece (f2a) in Fig. 3 to adjust the angular position 𝜃0 , causing the wire to twist.
-                                                                            Q1-13
+
+
+                                                                            Q1-13
 Experiment
 
 
@@ -572,7 +596,9 @@ then 𝐵𝑒 =      =                   = 50.5 ± 8 𝜇T. Note that uncertaint
                                                                        T.                    0.1
                   B.5.9. 𝛿𝐵𝑒 value (with units) in [0.6 ; 1] 10   −5
                                                                        T.                    0.1
-                                                                    Q1-14
+
+
+                                                                    Q1-14
 Experiment
 
 
@@ -596,7 +622,9 @@ Now the length 𝐿 is varied, for 𝐿 = 26, 12 and 8 cm.
 
 
                                           Figure B.6B: 𝐿 = 12 cm.
-                                                                          Q1-15
+
+
+                                                                          Q1-15
 Experiment
 
 
@@ -622,7 +650,9 @@ As expected, the slope of figure B.6D is found to be proportional to 𝐿, with 
                                            𝑝′ 𝐶𝑓 5.1 × 10−7 × 27.1
 A new value of 𝐵𝑒 is deduced from 𝐵𝑒 =          =                  ≈ 45.3 𝜇T. Relative uncertainty is given by
                                            𝑚𝑚          0.305
-                                                                             Q1-16
+
+
+                                                                             Q1-16
 Experiment
 
 

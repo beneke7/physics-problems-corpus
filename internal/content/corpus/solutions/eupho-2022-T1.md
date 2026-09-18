@@ -18,7 +18,7 @@ Denote the density of the liquid by $\varrho$, so the density of the cylinder is
 
 Consider the system in a moment when the cylinder is displaced by distance $x_1$ downward and moves down with velocity $v_1$. As a result of the motion of cylinder the liquid level rises by some height $x_2$, and the liquid flows in the gap between the cylinder and beaker with some velocity $v_2$ upwards (see *Fig. 1*).
 
-![figure](../../sources/eupho/figures/eupho-2022-T1-sol-1.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T1-sol-1.png)
 
 *Fig. 1*
 
@@ -106,7 +106,7 @@ Taking into account the opposite directions of $x_1$ and $a_1$, this is the dyna
 
 $$\omega = \sqrt{\frac{g}{\gamma h}}, \qquad T = 2\pi\sqrt{\frac{\gamma h}{g}} = 0.53\ \text{s}.$$
 
-![figure](../../sources/eupho/figures/eupho-2022-T1-sol-2.png)
+![figure](../../../../../sources/eupho/figures/eupho-2022-T1-sol-2.png)
 
 *Fig. 2*
 

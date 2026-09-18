@@ -106,13 +106,13 @@ v2
 c. The water-air interface has some surface tension, σ. The effect of surface tension is to change
 the pressure in the stream according to the Young-Laplace equation,
 ∆P = σ
-
+
 1
 r
 +
 1
 R
-
+
 ,
 Copyright c 2020 American Association of Physics Teachers
 2020 USAPhO Part B 11
@@ -120,7 +120,7 @@ where ∆P is the difference in pressure between the stream and the atmosphere a
 radius of curvature of the vertical profile of the stream, visualized below. (R < 0 for the stream
 of water; the radius of curvature would be positive only if the stream profile curved inwards.)
 |R|
-For this part of the problem, we assume that |R| 
+For this part of the problem, we assume that |R|
  |r|, so that the curvature of the vertical
 profile of the stream can be ignored. Also assume that water is incompressible.
 Accounting for the pressure in the stream, find a new equation relating for r(y) in terms of
@@ -196,13 +196,13 @@ r4
 0
 r4
 + ρgy = σ
-
+
 1
 r0
 −
 1
 r
-
+
 .
 d. After falling for some distance, the water stream usually breaks into smaller droplets. This
 occurs because small random perturbations to the shape of the stream grow over time, eventually
@@ -217,7 +217,7 @@ each with a different wavenumber k. We can analyze these different sinusoidal va
 pendently.
 Consider a stream of water whose radius obeys
 r(y) = r0 + Acos(ky),
-where A 
+where A
  r0 is the perturbation amplitude. To analyze such a stream, it is sufficient to consider
 only the thickest and thinnest parts of the stream.
 Accounting for both sources of curvature, find a condition on r0 and k such that the size of
@@ -231,23 +231,23 @@ will force water towards the thick parts, eventually breaking the stream into dr
 We consider a small patch with side lengths h on the surface of the stream at the thinnest
 part of the stream. The pressure is
 ∆Pthin = σ
-
+
 1
 rthin
 +
 1
 Rthin
-
+
 .
 And at the thickest part of the stream,
 ∆Pthick = σ
-
+
 1
 rthick
 +
 1
 Rthick
-
+
 .
 We are looking for the wavenumbers such that
 ∆Pthin > ∆Pthick.
@@ -255,38 +255,38 @@ Copyright c 2020 American Association of Physics Teachers
 2020 USAPhO Part B 13
 Using the Young-Laplace equation, this becomes
 σ
-
+
 1
 rthin
 +
 1
 Rthin
-
+
 > σ
-
+
 1
 rthick
 +
 1
 Rthick
-
+
 .
 Dropping the common factor σ,
-
+
 1
 rthin
 +
 1
 Rthin
-
+
 >
-
+
 1
 rthick
 +
 1
 Rthick
-
+
 .
 To simplify this further, we will need to find r and R in terms of A and k, the variables
 given in the problem statement.
@@ -319,8 +319,8 @@ r2
 .
 (To find these, recall
 1
-1 − 
-≈ 1 +  for small .)
+1 −
+≈ 1 +   for small  .)
 The inequality now becomes
 1
 r0
@@ -367,13 +367,13 @@ cosθ ≈ 1 −
 ,
 which means that for small x,
 ysinusoidal = Acos(kx) ≈ A
-
+
 1 −
 1
 2
 k2
 x2
-
+
 .
 Next we consider a circle of radius R. If a particle moves along such a circle at speed v, its
 acceleration is v2/R. This means that if the particle moves forward for a short time t, it

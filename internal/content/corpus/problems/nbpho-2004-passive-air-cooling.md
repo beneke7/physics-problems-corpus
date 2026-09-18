@@ -32,7 +32,7 @@ the pipe becomes well mixed; neglect the viscous and turbulent friction of air
 inside the pipe and heat sink. Air can be considered as an ideal gas with adiabatic
 exponent $\gamma=1.4$ and molar mass $\mu=29\ \mathrm{g/mol}$.
 
-![figure](../../sources/nbpho/figures/nbpho-2004-passive-air-cooling-fig1.png)
+![figure](../../figures/nbpho/figures/nbpho-2004-passive-air-cooling-fig1.png)
 
 **1)** Express the heat capacity at constant pressure $c_p$ via the quantities
 $\gamma$ and $R$ (1 point).

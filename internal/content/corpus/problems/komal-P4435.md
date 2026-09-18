@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201204"
 verification_status: pending
 ---
 
-There are 2 moles of Oxygen gas at a pressure of 0.2 MPa in a 15-liter container. What is the average speed of the molecules of the gas? 
+There are 2 moles of Oxygen gas at a pressure of 0.2 MPa in a 15-liter container. What is the average speed of the molecules of the gas?
  (3 pont)

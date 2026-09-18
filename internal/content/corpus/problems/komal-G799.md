@@ -22,6 +22,6 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-What is the minimum speed and maximum angle at which a body must be launched in order that it flies through a 100 metre long and 5 metre high straight tunnel? 
- The air drag is negligible. 
+What is the minimum speed and maximum angle at which a body must be launched in order that it flies through a 100 metre long and 5 metre high straight tunnel?
+ The air drag is negligible.
  (3 pont)

@@ -19,4 +19,4 @@ verification_status: pending
 
 A particle starts from the origin of coordinates; the figure shows its velocity as a function of time. What is its maximum shift from the origin?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr10-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr10-fig1.jpg)

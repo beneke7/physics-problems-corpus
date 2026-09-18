@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200511"
 verification_status: pending
 ---
 
-A sample of gas was compressed to a volume of 20 l adiabatically so the gas did not release or absorbe heat. The initial pressure was 101.3 kPa and was increased by 76.4% during the process. a ) Calculate the change in the energy of the gas. b ) Find the change of the entropy of the gas. c ) By what factor did the absolute temperature of the gas increased? 
+A sample of gas was compressed to a volume of 20 l adiabatically so the gas did not release or absorbe heat. The initial pressure was 101.3 kPa and was increased by 76.4% during the process. a ) Calculate the change in the energy of the gas. b ) Find the change of the entropy of the gas. c ) By what factor did the absolute temperature of the gas increased?
  (4 pont)

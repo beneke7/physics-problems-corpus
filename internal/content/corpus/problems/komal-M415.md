@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202209"
 verification_status: pending
 ---
 
-Taking advantage of the warm summer weather, measure how the horizontal range of a jet of water launched from a hose at the ground depends on the water flow and the angular position of the nozzle. 
+Taking advantage of the warm summer weather, measure how the horizontal range of a jet of water launched from a hose at the ground depends on the water flow and the angular position of the nozzle.
  (6 pont)

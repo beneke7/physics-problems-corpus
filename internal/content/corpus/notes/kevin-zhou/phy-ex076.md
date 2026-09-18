@@ -26,7 +26,7 @@ commute, and their ordering affects the physics. But all the variables in the pa
 to commute. It turns out that the operator ordering is determined by the discretization procedure.
 For example, for a particle in an electromagnetic field, the correct phase factor is
                                                                                          
-                     N −1                 2                                           
+                     N −1                  2
                   iϵ X      m(x j+1 − x j )    q x j+1 − x j      x j+1 + x j
            exp                              +               ·A                 − V (xj ) 
                   ℏ              2ϵ2           c      ϵ                2
@@ -57,7 +57,6 @@ The extra dx′ integral produced is an integral over the Hilbert space of the t
 
 general setting, such as string theory, we can “cut open” the path integral in different ways, giving
 different Hilbert space representations of a given amplitude. This is known as world-sheet duality.
-166 7. Angular Momentum
 
 
 7      Angular Momentum
@@ -98,7 +97,6 @@ First, we consider rotations classically.
                                           R(n̂, θ) = I + θn̂ · J,        θ ≪ 1.
       Exponentiating gives the result
                                                 R(n̂, θ) = exp(θn̂ · J).
-167 7. Angular Momentum
 
 
   • More generally, the set of infinitesimal elements of a Lie group is a Lie algebra, and we go

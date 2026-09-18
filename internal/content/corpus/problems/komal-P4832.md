@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201604"
 verification_status: pending
 ---
 
-The frequency of sound wave travelling in air at a speed of 320 m/s is 400 Hz. What is the phase difference between two points which are at a distance of 1 m in the direction of the propagation of sound? 
+The frequency of sound wave travelling in air at a speed of 320 m/s is 400 Hz. What is the phase difference between two points which are at a distance of 1 m in the direction of the propagation of sound?
  (3 pont)

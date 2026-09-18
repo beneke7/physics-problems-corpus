@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, limiting-and-special-cases]
 ---
 
-There is an aluminium cube of edge 10 cm on a table. What is the pressure due to the cube on the table? By what percent does this pressure change when the temperature of the cube is increased from $20\;{}^\circ$C to $100\;{}^\circ$C? Does it increase or decrease? 
+There is an aluminium cube of edge 10 cm on a table. What is the pressure due to the cube on the table? By what percent does this pressure change when the temperature of the cube is increased from $20\;{}^\circ$C to $100\;{}^\circ$C? Does it increase or decrease?
  (3 pont)

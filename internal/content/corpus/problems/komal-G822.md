@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, limiting-and-special-cases]
 ---
 
-How much distance does a train travel if it stands a total of 1 hour at train stops, it travels at a speed of 50 km/h between stops, and has an average speed of 40 km/h for the whole journey? 
+How much distance does a train travel if it stands a total of 1 hour at train stops, it travels at a speed of 50 km/h between stops, and has an average speed of 40 km/h for the whole journey?
  (3 pont)

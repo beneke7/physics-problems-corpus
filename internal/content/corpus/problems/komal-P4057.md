@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [smart-coordinates, scaling-and-dimensional-analysis]
 ---
 
-What percent of the surface of the Moon can be seen from that chinesse Moon-probe, which orbits about the Moon with a period of 127 minutes along a circular path. The shape of the Moon can be considered as a sphere. 
+What percent of the surface of the Moon can be seen from that chinesse Moon-probe, which orbits about the Moon with a period of 127 minutes along a circular path. The shape of the Moon can be considered as a sphere.
  (5 pont)

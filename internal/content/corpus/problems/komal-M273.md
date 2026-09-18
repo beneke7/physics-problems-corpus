@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200611"
 verification_status: pending
 ---
 
-The display of a solar cell powered calculator turns off if some part of the solar cell is covered. (Use a calculator which does not have a back-up battery.) Find the limit case, and examine the relationship between the area of the uncovered surface and the intensity of light. Shading the uncovered part of the solar cell with semi-permeable foils investigate how the absorption of light depends on the number of layers. 
+The display of a solar cell powered calculator turns off if some part of the solar cell is covered. (Use a calculator which does not have a back-up battery.) Find the limit case, and examine the relationship between the area of the uncovered surface and the intensity of light. Shading the uncovered part of the solar cell with semi-permeable foils investigate how the absorption of light depends on the number of layers.
  (6 pont)

@@ -22,10 +22,10 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element, extremization]
 ---
 
-A wooden block of density $0.6 \mathrm{kg/dm}^3$ is floating in a large pool. It has a height of 40 cm, the length of its base is 80 cm and the width of its base is 30 cm. The block is fixed to the bottom of the pool by a spring, having an unstretched length of 50 cm, as shown in the figure. 
+A wooden block of density $0.6 \mathrm{kg/dm}^3$ is floating in a large pool. It has a height of 40 cm, the length of its base is 80 cm and the width of its base is 30 cm. The block is fixed to the bottom of the pool by a spring, having an unstretched length of 50 cm, as shown in the figure.
 
- $a)$ What is the height of that part of the block, which is not under the water if the depth of the water is 90 cm and the spring constant of the spring is 1440 N/m? 
- $b)$ At least how much work is required to raise the block completely above the surface of the water if the spring does not break? 
+ $a)$ What is the height of that part of the block, which is not under the water if the depth of the water is 90 cm and the spring constant of the spring is 1440 N/m?
+ $b)$ At least how much work is required to raise the block completely above the surface of the water if the spring does not break?
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-G804-fig1.gif)
+![figure](../../figures/komal/figures/komal-G804-fig1.gif)

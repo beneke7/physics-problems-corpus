@@ -23,4 +23,4 @@ Determine the time constant for the circuit shown in figure (i.e. for the proces
 (c) Find the required capacitance $C$.
 (d) Find the average power dissipation at the diode during the first period (of AC input voltage) immediately following the
 
-![figure](../../sources/kalda/figures/kalda-circuits-pr74-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-circuits-pr74-fig1.jpg)

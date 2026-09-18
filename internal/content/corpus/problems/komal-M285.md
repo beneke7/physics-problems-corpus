@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200802"
 verification_status: flagged
 ---
 
-Roll a ball with a speed of v $_{0}$ towards a heavy pot or pan. How does the angle , shown in the figure, depends on the distance  b (which is called the impact parameter), and how does it depend on the speed v $_{0}$? 
+Roll a ball with a speed of v $_{0}$ towards a heavy pot or pan. How does the angle , shown in the figure, depends on the distance  b (which is called the impact parameter), and how does it depend on the speed v $_{0}$?
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-M285-fig1.gif)
+![figure](../../figures/komal/figures/komal-M285-fig1.gif)

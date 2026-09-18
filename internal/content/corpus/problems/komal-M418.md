@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 202212"
 verification_status: pending
 ---
 
-Measure the rotational inertia of a ball (e.g. football, table tennis ball or tennis ball) by rolling it down a slope. Give the result also in units of $mR^2$ (where $R$ is the radius of the ball, $m$ is its mass). Can the result be used to infer the thickness of the wall of the ball? 
+Measure the rotational inertia of a ball (e.g. football, table tennis ball or tennis ball) by rolling it down a slope. Give the result also in units of $mR^2$ (where $R$ is the radius of the ball, $m$ is its mass). Can the result be used to infer the thickness of the wall of the ball?
  (6 pont)

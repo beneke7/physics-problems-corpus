@@ -22,7 +22,7 @@ verification_status: pending
 ---
 
 A solid sphere of volume $1~{\rm dm}^3$ made of Aluminium is connected with a thin thread to a wooden sphere made of pine tree, which has a density of $0.5~\rm
-g/cm^3$. The spheres are fully immersed into water and they are at rest. 
- $a)$ What is the volume of the wooden sphere? 
- $b)$ What is the tension in the thin thread connecting the spheres? 
+g/cm^3$. The spheres are fully immersed into water and they are at rest.
+ $a)$ What is the volume of the wooden sphere?
+ $b)$ What is the tension in the thin thread connecting the spheres?
  (3 pont)

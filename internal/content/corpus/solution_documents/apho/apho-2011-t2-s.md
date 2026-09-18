@@ -42,7 +42,8 @@ a2. The graph is sinusoidal, as shown below.
 
 
                                                        Page 1 of 5
-The initial point is given by:
+
+The initial point is given by:
 
 
 
@@ -67,7 +68,8 @@ elastic force balances the static friction, i.e. at            , and starts agai
 
 
                                                        Page 2 of 5
-We see that the average elongation is again the sine’s equilibrium point:
+
+We see that the average elongation is again the sine’s equilibrium point:
 
                                                               ̅
 
@@ -115,7 +117,8 @@ one period:
 
 
                                                                   Page 3 of 5
-where the LHS is the change in the amplitude due to dissipation over one period. Using the results from (d) in the
+
+where the LHS is the change in the amplitude due to dissipation over one period. Using the results from (d) in the
 limit of small , we get:
 
 
@@ -165,7 +168,8 @@ of linear motion, we get:
 
 
                                                        Page 4 of 5
-Any expression which reduces to the one above in the limit        will be accepted. Numerical results from such
+
+Any expression which reduces to the one above in the limit        will be accepted. Numerical results from such
 different expressions may vary significantly, since          is not really negligible. Each numerical result should
 be checked against its expression.
 

@@ -25,11 +25,11 @@ solution_language: en
 
 The V-I-curve of a tunnel diode is depicted in the figure below, curve (a). In some parts of the problem, we use an idealized model curve (b).
 
-![figure](../../sources/nbpho/figures/nbpho-2020-tunnel-diode-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2020-tunnel-diode-fig1.jpg)
 
 **i)** *(1 point)* In order to measure the V-I curve of the diode, it is connected in series with a variable power supply (the value of the electromotive force $\mathscr{E}$ can be changed from 0V to 1V), see circuit (a). The ammeter has internal resistance $r=2 \Omega$; the applied voltage is $\mathscr{E}=50 \mathrm{mV}$. What is the diode voltage $V_{i}$ and current $I_{i}$ ? Use the real V-I-curve of the diode.
 
-![figure](../../sources/nbpho/figures/nbpho-2020-tunnel-diode-fig2.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2020-tunnel-diode-fig2.jpg)
 
 **ii)** *(1 point)* Now, let us study the effect of the self-inductance of the wires. In order to take into account such an inductance, the circuit needs to be modified as shown in circuit (b); let $L=500 \mathrm{nH}$. The switch $K$ is kept open until the voltage is adjusted to $\mathscr{E}=250 \mathrm{mV}$, and is then closed. How long will it take for the current to reach $I_{1}=20 \mathrm{~mA}$ ? Neglect henceforth (until otherwise instructed) the internal resistances of the battery and of the ammeter (put $r=0$ ), and use the idealized VI-curve of the diode.
 

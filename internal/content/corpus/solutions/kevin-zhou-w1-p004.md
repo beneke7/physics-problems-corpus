@@ -61,14 +61,14 @@ We therefore conclude that the general solution is
 y(x,t) =
 1
 2
-
+
 y(x − vt) + y(x + vt) +
 Z t
 0
 (vy(x − vt′
 ) + vy(x + vt′
 ))dt′
-
+
 .
 Using this solution you can show, for example, that if you poke the string and thereby change either
 y or vy at one point in space, the influence of that change spreads out at speed v. In other words,

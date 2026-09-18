@@ -29,7 +29,6 @@ Példa. Tekintsünk egy statikus, homogén, izotróp anyagból készült, L olda
                                            2µ  2
 
 Az eltolási mezőnek több megoldása is van, és általában nem határozható meg egyértelműen. A kocka például nyíródhat x̂ irányban, ŷ irányban, vagy e kettő tetszőleges kombinációjaként. Hogy a gyakorlatban melyik valósul meg, az attól függ, hogyan alkalmazzuk a külső erőket.
-107 4. Folytonos közegek mechanikája
 
 4.3     Ideális folyadék áramlása
 A folyadékáramlás matematikai leírásával kezdjük.
@@ -66,7 +65,6 @@ A folyadékáramlás matematikai leírásával kezdjük.
                                                      Dt
       ahol f ∗ a hatásos erősűrűség. A Dv/dt mezőt anyagi gyorsulásnak nevezzük; vegyük észre, hogy stacionárius áramlásban is lehet nemzérus.
 
-108 4. Folytonos közegek mechanikája
 
  • Ez az eredmény az impulzus kontinuitási egyenleteként is felírható:
 
@@ -108,7 +106,6 @@ Most az összenyomhatatlan és súrlódásmentes/ideális/tökéletes áramlás 
 
  • Két folyadék határfelületén további peremfeltétel, hogy p és v · n folytonos, ahol n a normálvektor. Szilárd határ esetén ez azt jelenti, hogy a sebesség normális komponense eltűnik.
 
-109 4. Folytonos közegek mechanikája
 
   • Amint alább látni fogjuk, a viszkozitás elhanyagolhatóságának mértékét a Reynolds-szám adja meg, amely sok valós alkalmazásban nagy. Azonban már kis viszkozitás is minőségileg jelentős hatásokkal járhat. Szilárd határokon például mindig kialakul egy határréteg, amelyben a folyadék tangenciális sebessége nullához tart.
 
@@ -134,7 +131,6 @@ Most az összenyomhatatlan és súrlódásmentes/ideális/tökéletes áramlás 
 
 Megjegyzés. Szűkületen átmenő stacionárius áramlásban a beömlés és a kiömlés között aszimmetria van: a víz a szűkület beömlésénél összetart, majd a kiömlésen keskeny sugárban távozik. (A szűkületben határréteg is megfigyelhető.)
 
-110 4. Folytonos közegek mechanikája
 
 Ez az aszimmetria azonban nem jelenik meg a stacionárius áramlás Euler-egyenleteiben, amelyek időtükrözésre szimmetrikusak. Az időtükrözési szimmetriát a viszkozitás töri meg (a szokásos termodinamikai időnyíl következtében), de ha ezt nem vesszük figyelembe, a megfelelő fizikai megoldás kiválasztásához peremfeltételeket kell előírnunk, ahogy például az elektromágnesességben a retardált és avanzsált megoldásoknál tesszük.
 
@@ -143,7 +139,7 @@ Ezután az áramlás örvényességét vizsgáljuk.
  • Tegyük fel, hogy egy stacionárius áramlás egy végtelenben aszimptotikusan egyenletes áramlásból ered. Ekkor intuitívan azt várjuk, hogy H minden áramvonal között, tehát mindenütt állandó legyen. Ez az intuíció azonban téves lehet, ha az áramvonalak zárt hurkokat alkotnak.
 
  • Ennek az intuíciónak a pontosításához vegyük észre, hogy
-                                                               
+
                                                            p
                              ∂i H = vj ∂i vj + ∂i       Φ+          = vj ∂i vj − vj ∂j vi
                                                            ρ0
@@ -173,7 +169,6 @@ Ezután az áramlás örvényességét vizsgáljuk.
 
     ahol Stokes tételét használtuk.
 
-111 4. Folytonos közegek mechanikája
 
   • Örvényesség hiányában a sebesség rotációja eltűnik, ezért felírhatjuk
                                                  v = ∇Ψ

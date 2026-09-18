@@ -33,7 +33,7 @@ In reality, density decreases with growing $|z|$. Measuring density has been a g
 
 The oscillation period of stars depends on the amplitude $z_{\mathrm{m}}$ because the gravitational potential (the potential energy per mass) $\Phi(z)$ is not parabolic. In such a case, the period can be approximately found by substituting the real $\Phi(z)$ with a $k z^{2}$ matching $\Phi(z)$ at $z=z_{\mathrm{m}}$, i.e. with $k=\Phi\left(z_{\mathrm{m}}\right) / z_{\mathrm{m}}^{2}$.
 
-![figure](../../sources/nbpho/figures/nbpho-2025-phase-spiral-fig1.jpg)
+![figure](../../figures/nbpho/figures/nbpho-2025-phase-spiral-fig1.jpg)
 
 **iii)** *(2.5 points)* At the intersection points of the spiral with $v_{z}=0$, calculate $\Phi(z)$ by interpolating data linearly where appropriate; plot your results (this follows the analysis of Guo et al. 2024, ApJ, 960, 133).
 

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: pending
 ---
 
-A cube shaped room of sides 4 m is heated by a stove of power 6 kW. The outside temperature is -10 $^\circ$C. To what temperature will the room be heated if the coefficient of heat transfer is 2.1  ? 
+A cube shaped room of sides 4 m is heated by a stove of power 6 kW. The outside temperature is -10 $^\circ$C. To what temperature will the room be heated if the coefficient of heat transfer is 2.1  ?
  (4 pont)

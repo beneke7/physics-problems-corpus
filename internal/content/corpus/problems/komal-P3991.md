@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, stability-analysis, auxiliary-unknowns]
 ---
 
-A solid cylinder of mass m and radius R is rotated with an angular speed of $_{0}$ as shown in the figure and placed carefully to a long enough slope at a distance of  s measured from the bottom of the slope. The incline angle is  . How far from the bottom will the cylinder move and with what speed will it reach the bottom if 
- a )  =30$^\circ$ and =0.2; 
- b )  =20$^\circ$ and =0.4? 
+A solid cylinder of mass m and radius R is rotated with an angular speed of $_{0}$ as shown in the figure and placed carefully to a long enough slope at a distance of  s measured from the bottom of the slope. The incline angle is  . How far from the bottom will the cylinder move and with what speed will it reach the bottom if
+ a )  =30$^\circ$ and =0.2;
+ b )  =20$^\circ$ and =0.4?
 
- Data: s =2 m, R =0.2 m, $_{0}$=100 s$^{-1}$. 
+ Data: s =2 m, R =0.2 m, $_{0}$=100 s$^{-1}$.
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3991-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3991-fig1.gif)

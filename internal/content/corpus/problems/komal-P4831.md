@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201604"
 verification_status: pending
 ---
 
-A satellite revolves above the equator, at a height of 600 km. What is its period? 
+A satellite revolves above the equator, at a height of 600 km. What is its period?
  (3 pont)

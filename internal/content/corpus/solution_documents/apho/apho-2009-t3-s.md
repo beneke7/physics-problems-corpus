@@ -64,7 +64,8 @@ Theoretical competition                                                         
                                  π rb3 dP
                            Q = −                                        ……………… (v)                          (0.7 point)
                                   6η dr
-Theoretical competition                                                                      Solution: Question 3
+
+Theoretical competition                                                                      Solution: Question 3
 
 26 April 2009                                                                                              Page 2 of 3
 -------------------------------------------------------------------------------------------------------------------------
@@ -124,7 +125,8 @@ Theoretical competition                                                         
                       ⎛ 9η KRΔT ⎞ 4
                   b = ⎜              ⎟                                    ……………(x)
                       ⎝ 4 ρ 0 ρ V Ag ⎠
-Theoretical competition                                                                      Solution: Question 3
+
+Theoretical competition                                                                      Solution: Question 3
 
 26 April 2009                                                                                              Page 3 of 3
 -------------------------------------------------------------------------------------------------------------------------

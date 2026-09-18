@@ -84,7 +84,9 @@ Because the normal to the side of the bowl is meter of the bottom of the bowl an
 at 30° to the horizon, the angle of the ray that of the water level on the photo with a ruler. We          have for the orbital speed w of Earth). Angu-           bola. The surface area of a mirror-symmetric
 exited the bowl is 30° + γ3 ≈ 45.0° below the ho- get 9.3 cm and 6.5 cm. The actual diameter is            lar momentum conservation law allows us to ex-          parabolic segment is equal to two thirds of the
 rizon.                                            d = 10 cm. Therefore the actual height of the            press the speed at perihelion u = v t R0 /Rmin ;        product of its height and length, as can be de-
-termined by integrating the parabola:                 90°. So in the right angled triangle △BOQ we        Using the laws of parallel and series connection take. Let us redeﬁne it in terms of the total
+
+
+termined by integrating the parabola:                 90°. So in the right angled triangle △BOQ we        Using the laws of parallel and series connection take. Let us redeﬁne it in terms of the total
                                                       have                                                of capacitors, this simpliﬁes even further.      mass M := m 1 + m 2 and the mass distribution
           S BCP =
                     2
@@ -170,7 +172,9 @@ gent. Using this property, because the tangent                                  
                                                                                                                                                            through dE = P dt = u dV ⇔ z =                 4π uc .
 at point B is at 45° to the segment OB, then                                                              since a isn’t the same for all m 1 , m 2 either.
 |BQ | is also at 45° to the tangent and ̸ OBQ =                              B                            Let us determine the maximum value it can            Using the models from
-      1 c  5
+
+
+      1 c  5
 P = 80  G
                                                        Finally the added mass is                               itself is, of course, considerably close to the wire itself but      e) We have doubled the dimensions, which
 u = VU0 = 12 E ε2                                                                                              this is always the case when F = I lB is used. This is the        means
@@ -258,7 +262,9 @@ using this). Using this we ﬁnd                                                
               m=            ≈ 720 g.            situation. The magnetic ﬁeld of the current carrying wire      lithium seems to be the best.                                                 〈 I 〉 = I 0 cos             .
                    x −x
                       1    2                                                                                                                                                                                   V1 + V2
-ii) The peak-to-peak amplitude of the current In general the force exerted by the beams at any The mass is related to the density with m = the resistor(s) between them. Measuring the
+
+
+ii) The peak-to-peak amplitude of the current In general the force exerted by the beams at any The mass is related to the density with m = the resistor(s) between them. Measuring the
 ﬂuctuations can be calculated from dI    U
                                     dt = L    temperature is given by                          A ρ ( r ) dr . Using the ideal gas law,          current from blue to black and blue to white
                                                                                                                                                 shows that there is a capacitor connected in

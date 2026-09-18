@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201002"
 verification_status: pending
 ---
 
-A 2-m long metal rod falls, because of the gravitational pull, but it falls with a constant speed of 50 m/s because its motion is damped. What can the maximum voltage be between the two ends of the rod? 
+A 2-m long metal rod falls, because of the gravitational pull, but it falls with a constant speed of 50 m/s because its motion is damped. What can the maximum voltage be between the two ends of the rod?
  (4 pont)

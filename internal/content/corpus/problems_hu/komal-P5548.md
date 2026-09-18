@@ -9,13 +9,13 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5548. Egy kicsiny, lapos hűtőmágnes súlya $G$. A mágnest a hűtőszekrény függőleges oldalára helyezzük, majd a fémlapra merőleges, függőleges síkban valamilyen irányba húzni kezdjük. A legkisebb erő, amivel meg tudjuk mozdítani a mágnest függőlegesen felfelé, $F_1$, lefelé pedig $F_2$. 
+P. 5548. Egy kicsiny, lapos hűtőmágnes súlya $G$. A mágnest a hűtőszekrény függőleges oldalára helyezzük, majd a fémlapra merőleges, függőleges síkban valamilyen irányba húzni kezdjük. A legkisebb erő, amivel meg tudjuk mozdítani a mágnest függőlegesen felfelé, $F_1$, lefelé pedig $F_2$.
 
- $a)$ Mekkora a mágnes és a hűtőszekrény oldala közötti tapadási súrlódási együttható? 
+ $a)$ Mekkora a mágnes és a hűtőszekrény oldala közötti tapadási súrlódási együttható?
 
- $b)$ Mekkora húzóerővel hat a fémlemez a mágnesre, amikor azt nem húzzuk semerre? 
+ $b)$ Mekkora húzóerővel hat a fémlemez a mágnesre, amikor azt nem húzzuk semerre?
 
- Adatok: $G=0{,}10~\text{N}$, $F_1=0{,}20~\text{N}$ és $F_2=0{,}05~\text{N}$. 
+ Adatok: $G=0{,}10~\text{N}$, $F_1=0{,}20~\text{N}$ és $F_2=0{,}05~\text{N}$.
  (Lásd még a G. 702. számú gyakorlatot a KöMaL 2020. évi 3. számában.)
 
-![figure](../../raw_html/komal_figures/komal-P5548-fig1.png)
+![figure](../../figures/komal/figures/komal-P5548-fig1.png)

@@ -29,7 +29,7 @@ verification_status: pending
 
 已知电子质量 $m=0.511 \mathrm{MeV} / c^{2}, c$ 是光速，组合常量 $\hbar c=197.3 \mathrm{MeV} \bullet \mathrm{fm}=197.3 \mathrm{eV}$ $\bullet \mathrm{nm}, ~ k e^{2}=1.44 \mathrm{MeV} \bullet \mathrm{fm}=1.44 \mathrm{eV} \bullet \mathrm{nm}, k$ 是静电力常量，$e$ 是基本电荷量．
 2．右图是某种粒子穿过云室留下的径迹的照片。径迹在纸面内，图的中间是一块与纸面垂直的铅板，外加恒定匀强磁场的方向垂直纸面向里．假设粒子电荷的大小是一个基本电荷量 $e: e=1.60$ $\times 10^{-19} \mathrm{C}$ ，铅板下部径迹的曲率半径 $r_{\mathrm{d}}=210 \mathrm{~mm}$ ，铅板上部径迹的曲率半径 $r_{\mathrm{u}}=76.0 \mathrm{~mm}$ ，铅板内的径迹与铅板法线成 $\theta=15.0^{\circ}$ ，铅板厚度 $d=6.00 \mathrm{~mm}$ ，磁感应强度 $B=1.00 \mathrm{~T}$ ，粒子质量 $m=9.11 \times 10^{-31} \mathrm{~kg}=0.511$
-![](cpho-f-2008-q7-fig01.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig01.png)
 $\mathrm{MeV} / c^{2}$ 。不考虑云室中气体对粒子的阻力。
 （I）写出粒子运动的方向和电荷的正负．
 （II）试问铅板在粒子穿过期间所受的力平均为多少牛？
@@ -44,7 +44,7 @@ $$
 l=v t, l_{\mathrm{p}}=v_{\mathrm{p}} t
 $$
 
-![](cpho-f-2008-q7-fig02.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig02.png)
 图 1
 
 和
@@ -108,7 +108,7 @@ $$
 
 守方队员到达 $C_{1}$ 处所需时间 $t_{\mathrm{pm}}=\left(d^{2}+l_{\text {min }}^{2}\right.$
 
-![](cpho-f-2008-q7-fig03.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig03.png)
 图2
 
 $\left.-2 d l_{\text {min }} \cos \theta\right)^{1 / 2} / v_{\mathrm{p}} \quad$.
@@ -150,7 +150,7 @@ $$
 
 式中 $x_{i}, y_{i}, z_{i}$ 是第 $i$ 个地面站的位置坐标，可以预先测定，是已知的；$t_{i}$ 也可以由地面站的时钟来测定；$t$ 由卫星信号电波给出，也是已知的。所以，方程（1）中有三个未知数 $x, y, z$ ，要有三个互相独立的方程，也就是说，至少需要包含三个地面站，三个方程对应于式（1）中 $i=1,2,3$ 的情况。
 （II）（i）如图所示，以地心 $O$和两个观测站 $D_{1}$ ，$D_{2}$ 的位置为顶点所构成的三角形是等腰三角形，腰长为 $R$ ．根据题意，可知
-![](cpho-f-2008-q7-fig04.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig04.png)
 
 卫星发出信号电波时距离两个观测站的距离相等，都是
 
@@ -498,9 +498,9 @@ $$
 4．$U_{n}$ 随 $C_{\mathrm{G}} V_{\mathrm{G}}$ 变化的图线如图 b；$C_{\mathrm{G}} V_{\mathrm{G}} / e$ 的变化范围如表2．
 
 表 2
-![](cpho-f-2008-q7-fig05.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig05.png)
 
-![](cpho-f-2008-q7-fig06.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig06.png)
 图 b
 
 五、
@@ -510,7 +510,7 @@ $$
 \frac{y_{c}}{\sin i_{2}}=\frac{R}{\sin \left(90^{\circ}+r\right)} \text {, 即 } y_{c}=\frac{\sin i_{2}}{\cos r} R \text {. }
 $$
 
-![](cpho-f-2008-q7-fig07.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig07.png)
 图 1
 
 同理在 $\triangle O C^{\prime} D^{\prime}$ 中，$O$ 点与入射点 $C^{\prime}$ 的距离有
@@ -562,7 +562,7 @@ $$
 
 由此可见，$\theta$ 与 $i$ 无关，即 $\theta$ 独立于 $i$ 。在掠入射
 
-![](cpho-f-2008-q7-fig08.png)
+![](../../figures/cpho-f/figures/cpho-f-2008-q7-fig08.png)
 图2
 
 时，$i \approx 90^{\circ}, r=41.8^{\circ}$ ，由式（8），（9）两式得

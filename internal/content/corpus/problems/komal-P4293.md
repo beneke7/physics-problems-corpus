@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201011"
 verification_status: pending
 ---
 
-In a dry sauna the temperature is 100 $^\circ$C, while in a concert hall, which has 2000-times bigger volume, the temperature is 20 $^\circ$C. By what factor is the internal energy of the air in the concert hall bigger than that of in the sauna? 
+In a dry sauna the temperature is 100 $^\circ$C, while in a concert hall, which has 2000-times bigger volume, the temperature is 20 $^\circ$C. By what factor is the internal energy of the air in the concert hall bigger than that of in the sauna?
  (4 pont)

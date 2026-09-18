@@ -31,7 +31,6 @@ A kumulánsok az f γ = 0-ban kiértékelt deriváltjai. Ehhez a taghoz csak a s
                                                           ∂ n (log Z)
                                   f (n) (γ)|γ=0 = (−1)n               .
                                                               ∂β n
-60 3. Statisztikus mechanika
 
 
 Konkrét példaként:

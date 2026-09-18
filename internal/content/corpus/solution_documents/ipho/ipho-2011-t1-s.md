@@ -68,7 +68,9 @@ Hence,   0
 
 
                                                                                                            1
-                                                          Theoretical Competition:      Solution
+
+
+                                                          Theoretical Competition:      Solution
                                                                      Question 1       Page 2 of 7
 
 1.2 Since  is infinitesimal, it has no gravitational influences on the motion of neither M nor
@@ -130,7 +132,9 @@ Combining with Eq. (5) gives r1  r2
 
 
                                                                                                   2
-                                                          Theoretical Competition:    Solution
+
+
+                                                          Theoretical Competition:    Solution
                                                                        Question 1    Page 3 of 7
 
 Hence, it is an equilateral triangle with
@@ -195,7 +199,9 @@ Note that from figure,                                                   …�
 
 
                                                                                               3
-                                                          Theoretical Competition:                   Solution
+
+
+                                                          Theoretical Competition:                   Solution
                                                                             Question 1           Page 4 of 7
 
                                                 M  m r12 r
@@ -250,7 +256,9 @@ dE 2GM  d     d  d 2    0 40 2 d 
 dt   3   dt    dt dt 2        3 dt
                                                                                              R   O   R
                                                                                                              4
-                                                              Theoretical Competition:           Solution
+
+
+                                                              Theoretical Competition:           Solution
                                                                               Question 1        Page 5 of 7
 
       d
@@ -330,7 +338,9 @@ d 
 
 
                                                                                                          5
-                                                      Theoretical Competition:             Solution
+
+
+                                                      Theoretical Competition:             Solution
                                                                   Question 1             Page 6 of 7
 
 
@@ -390,7 +400,9 @@ The speed v              575 m/s                                       
                  2cos30
 
                                                                                                         6
-                                                        Theoretical Competition:       Solution
+
+
+                                                        Theoretical Competition:       Solution
                                                                   Question 1         Page 7 of 7
 
 

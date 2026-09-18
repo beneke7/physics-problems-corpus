@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4082. ,,Nyugalomban'' lévő elektronokat olyan fotonok bombáznak, melyeknek energiája megegyezik az elektron nyugalmi energiájával. Legfeljebb mekkora lehet a ,,meglökött'' elektron sebessége? 
+P. 4082. ,,Nyugalomban'' lévő elektronokat olyan fotonok bombáznak, melyeknek energiája megegyezik az elektron nyugalmi energiájával. Legfeljebb mekkora lehet a ,,meglökött'' elektron sebessége?
  Budó Ágoston fizikaverseny, Szeged

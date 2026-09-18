@@ -19,4 +19,4 @@ verification_status: pending
 
 Light wheels with radius $R$ are attached to a heavy axle. The system rolls along a horizontal surface which suddenly turns into a slope with angle $\alpha$. For which angles $\alpha$ will the wheels move without lifting off, i.e. touch the surface at all times? Mass of the wheels can be neglected. The axle is parallel to the boundary between horizontal and sloped surfaces and has velocity $v$.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr29-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr29-fig1.jpg)

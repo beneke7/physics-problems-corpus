@@ -9,9 +9,9 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5361. Az alábbi két képen ugyanazt az autót látjuk, ugyanabban az időben. Az első képen függönyön keresztül, a másodikon függöny nélkül. Az autó 20 méterre volt a függönytől. 
+P. 5361. Az alábbi két képen ugyanazt az autót látjuk, ugyanabban az időben. Az első képen függönyön keresztül, a másodikon függöny nélkül. Az autó 20 méterre volt a függönytől.
 
- Milyen sűrű szövésű lehet a függöny? 
+ Milyen sűrű szövésű lehet a függöny?
  Tichy Géza (1945–2021) feladata
 
-![figure](../../raw_html/komal_figures/komal-P5361-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5361-fig1.gif)

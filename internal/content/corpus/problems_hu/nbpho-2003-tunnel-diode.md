@@ -22,7 +22,7 @@ verification_status: pending
 
 Az alagútdióda a közönséges diódához hasonló félvezetőeszköz; feszültség–áram karakterisztikáját az alábbi ábra mutatja. Az alábbi áramkör egyszerű erősítőt ír le. Az ellenállás $R=10 \Omega$, az akkumulátor feszültsége $\mathcal{E}=0,25 \mathrm{~V}$.
 
-![ábra](../../sources/nbpho/figures/2003-p1-f2.png)
+![ábra](../../figures/nbpho/figures/2003-p1-f2.png)
 
 1) Határozd meg az áramkörben folyó áramot, ha $U_{\text {in }}+\mathcal{E}=$ 0,08 V.
 
@@ -32,4 +32,4 @@ Az alagútdióda a közönséges diódához hasonló félvezetőeszköz; feszül
 
 4) A bemeneti jel az alábbi grafikonon van megadva. Vázold fel a kimeneti jelet az idő függvényében.
 
-![ábra](../../sources/nbpho/figures/2003-p1-f3.png)
+![ábra](../../figures/nbpho/figures/2003-p1-f3.png)

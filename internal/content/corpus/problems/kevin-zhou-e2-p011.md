@@ -30,5 +30,5 @@ Consider two concentric spherical metal shells, with radii a < b.
       (b) Compute their capacitance by computing the four capacitance coefficients, verifying that
 
 
-                     01W
+                     01W
           C12 = C21 along the way, and using the result for C above.

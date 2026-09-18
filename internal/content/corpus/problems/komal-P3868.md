@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200602"
 verification_status: pending
 ---
 
-Two similar retorts are connected with a glass tube, and there is a mercury drop in the middle of the glass tube. In one of the retorts there is helium gas and in the other one there is nitrogen. The temperature and the pressure of the gases are both equal. The whole system is placed into hot water and initially the mercury drop moves towards the left and then it goes back to the middle position. Which retort contains which gas? 
+Two similar retorts are connected with a glass tube, and there is a mercury drop in the middle of the glass tube. In one of the retorts there is helium gas and in the other one there is nitrogen. The temperature and the pressure of the gases are both equal. The whole system is placed into hot water and initially the mercury drop moves towards the left and then it goes back to the middle position. Which retort contains which gas?
  (4 pont)

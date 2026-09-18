@@ -35,7 +35,7 @@ techniques: [conservation-laws, differential-element, graphical-reduction]
 
 ## Оборудование
 
-![](rupho-x-2021-e1-fig01.png)
+![](../../figures/rupho-x/figures/rupho-x-2021-e1-fig01.png)
 
 1. Катушки
 2. Адаптеры для катушек
@@ -84,13 +84,13 @@ $01^{-1.00}$ Запрещено наносить какие-либо надпи�
 
 - Помните, что исследуемые объекты должны находиться как можно дальше от металлических предметов, чтобы они оказывали минимальное влияние на эксперимент.
 
-![](rupho-x-2021-e1-fig02.png)
+![](../../figures/rupho-x/figures/rupho-x-2021-e1-fig02.png)
 A
 
-![](rupho-x-2021-e1-fig03.png)
+![](../../figures/rupho-x/figures/rupho-x-2021-e1-fig03.png)
 B
 
-![](rupho-x-2021-e1-fig04.png)
+![](../../figures/rupho-x/figures/rupho-x-2021-e1-fig04.png)
 C
 
 ## Часть А. Необычный секундомер (3.5 балла)

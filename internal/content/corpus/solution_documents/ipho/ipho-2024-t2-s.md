@@ -60,7 +60,9 @@ which are small quantities. By Gauss’s law we have:
                           𝑆3
 
                    𝑆2
-                           𝑄𝑖𝑛
+
+
+                           𝑄𝑖𝑛
                                                                                      S2-2
                     0=         = ර 𝐸ሬԦ . 𝑑𝑆Ԧ = න 𝐸ሬԦ . 𝑑𝑆Ԧ + න 𝐸ሬԦ . 𝑑𝑆Ԧ + න 𝐸ሬԦ . 𝑑𝑆Ԧ
                            𝜖0                   𝑆1            𝑆2            𝑆3
@@ -121,7 +123,9 @@ read:
                                                             𝑞𝜆
                                        𝑚𝑦ሷ = 𝑞𝐸𝑦 = −               𝑦
                                                            4𝜖0 𝑅 2
-Therefore, the frequencies of small oscillations are:
+
+
+Therefore, the frequencies of small oscillations are:
                                                                                            S2-3
                                                              𝑞𝜆
                                             𝜔𝑥2 = 𝜔𝑦2 =
@@ -184,7 +188,9 @@ A.3.
     hence, the equation of motion can be simplified as follows:
 
                                                  𝑞ሷ = 𝑝𝑎Ω2 cos Ω𝑡.
-                                                                                  S2-4
+
+
+                                                                                  S2-4
    As we have assumed that 𝑝 is a constant, the second derivative of 𝑞 is just proportional to
    cos Ω𝑡 which gives:
 
@@ -241,7 +247,9 @@ i.e.
 
 
 A.5. With the given data we have:
-                                                                           S2-5
+
+
+                                                                           S2-5
                                           𝑄𝜆0
                                𝑘=ඨ                = 2 × 105 rad/s
                                         2𝜖0 𝑅 2 𝑚
@@ -287,7 +295,9 @@ effect can be written in the following form:
                                          𝜔′ = 𝜔 (1 + )
                                                     𝑐
 Taking the atom’s velocity in the positive 𝑥-direction, we have:
-                                                  𝑣
+
+
+                                                  𝑣
                                                                           S2-6
                                       𝜔+ = 𝜔L (1 + )
                                                   𝑐
@@ -333,7 +343,9 @@ The same result holds for 𝑣 < 0. This is in the atom’s reference frame. How
 kept only up to the first order in 𝑣/𝑐, the same result holds in the lab frame:
 
                                       𝐹 = −ሺ2𝛼ℏ𝑘L2 ሻ𝑣
- B-2 (1.7 pt)
+
+
+ B-2 (1.7 pt)
                                                                           S2-7
                   𝑣
  𝑠+ = 𝑠𝐿 + 𝛼𝜔L
@@ -385,7 +397,9 @@ result of this process) is equal to:
 
 B.4. The output power (the power lost by the atom through collision with laser photons) can
 be written as:
-                                   𝑃out = 𝐹 ∙ 𝑣 = −2𝛼ℏ𝑘L2 𝑣 2
+
+
+                                   𝑃out = 𝐹 ∙ 𝑣 = −2𝛼ℏ𝑘L2 𝑣 2
                                                                             S2-8
 At equilibrium we should have:
 

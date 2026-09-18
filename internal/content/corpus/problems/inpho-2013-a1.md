@@ -28,4 +28,4 @@ techniques: [differential-element, graphical-reduction]
         (b) Sketch $C$ vs $d$. [1]
 
 (c) Obtain the charge on the plates. [1]
-![](inpho-2013-a1-fig01.png)
+![](../../figures/inpho/figures/inpho-2013-a1-fig01.png)

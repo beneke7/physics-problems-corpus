@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-In a NASA' vacuum chamber it was filmed that both a hammer and a feather fall towards the Earth at the same acceleration of $g=9.81~\rm m/s^2$, and if they are released at the same instant then they hit the ground at the same time. What will the acceleration of the feather and the hammer be if the film is played at twice the speed of the recording? 
+In a NASA' vacuum chamber it was filmed that both a hammer and a feather fall towards the Earth at the same acceleration of $g=9.81~\rm m/s^2$, and if they are released at the same instant then they hit the ground at the same time. What will the acceleration of the feather and the hammer be if the film is played at twice the speed of the recording?
  (3 pont)

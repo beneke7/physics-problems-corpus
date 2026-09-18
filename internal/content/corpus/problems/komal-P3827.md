@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: flagged
 ---
 
-Can the rate of energy transfer in the storage (rechargeable) battery decrease if switch K is turned on. Under what conditions does the power in the battery remain the same? 
+Can the rate of energy transfer in the storage (rechargeable) battery decrease if switch K is turned on. Under what conditions does the power in the battery remain the same?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P3827-fig1.gif)
+![figure](../../figures/komal/figures/komal-P3827-fig1.gif)

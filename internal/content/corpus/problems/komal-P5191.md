@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction, limiting-and-special-cases]
 ---
 
-Two samples of ideal gas, of the same amount, are taken through the cyclic processes shown in the figure. The figure shows the $p$ \,– \, $V$ diagram of processes $1\rightarrow2\rightarrow3\rightarrow1$, and $1\rightarrow3\rightarrow4\rightarrow1$. If the working substance of two engines are the two samples of ideal gas taken through the above two cyclic processes, which engine has greater efficiency, and what is the relationship between the two efficiency values? 
+Two samples of ideal gas, of the same amount, are taken through the cyclic processes shown in the figure. The figure shows the $p$ \,– \, $V$ diagram of processes $1\rightarrow2\rightarrow3\rightarrow1$, and $1\rightarrow3\rightarrow4\rightarrow1$. If the working substance of two engines are the two samples of ideal gas taken through the above two cyclic processes, which engine has greater efficiency, and what is the relationship between the two efficiency values?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5191-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5191-fig1.gif)

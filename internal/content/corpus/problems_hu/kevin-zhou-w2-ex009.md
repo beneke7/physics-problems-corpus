@@ -34,7 +34,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           human being could read from 5 m away.
 
                                                       16
-Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+Kevin Zhou                                                              Physics Olympiad Handouts
 
  (c) A typical amateur telescope has an aperture of order 10 cm. The Sun has a radius of 7 × 108 m.
      Estimate the furthest possible distance, in light years, that such a telescope could resolve a
@@ -63,14 +65,14 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
   Solution
   Let the distance to the Sun be d, and the distance to the star be D. Then the ratio of
   intensities of the two is naively
-                                               2
+                                                 2
                                       Istar    d
                                             =       .
                                       ISun     D
   This suggests the star is hard to see if D > d, which is always true. But this is too pessimistic,
   because the light from the Sun comes from all directions in the sky, while the light from the
   star comes from only a single direction. The actual ratio we want to calculate is
-                                                     2
+                                                       2
                                      Istar /Ωstar    d       2π
                                                   =
                                       ISun /2π       D     Ωstar
@@ -87,7 +89,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
                               λ     600 nm
 
                                                  17
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts
 
         This is still closer than the closest other star, so you would need a telescope to see any.
 

@@ -19,4 +19,4 @@ verification_status: pending
 
 Small grains of sand are sliding without friction along a cylindrical trough of radius $R$ (see fig.). The inclination angle of the trough is $\alpha$. All grains have initial velocity zero and start near point $A$ (but not necessarily at the point $A$ itself). What should be the length of the trough such that all grains would exit it at the point $B$ (i.e. exactly at the bottom of the trough)?
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr50-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr50-fig1.jpg)

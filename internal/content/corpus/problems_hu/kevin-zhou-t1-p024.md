@@ -36,7 +36,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           lemez nyugalomban van, és mv∥2 ≪ kB T. Tételezzük fel, hogy amikor a gázmolekulák visszapattannak egy lemezről,
 
                                                       16
-   Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+   Kevin Zhou                                                                Physics Olympiad Handouts
 
 
          felveszik annak keresztirányú sebességét. Becsüljük meg a lemezekre ható, egységnyi felületre jutó F/A erőt. (Ez
@@ -57,5 +59,5 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
          modellezzük a részecske helyzetét véletlen lépések összegeként, és idézzük fel a P2-ben a szórásról tanultakat.)
 
 
-                   01h
+                   01h
    A feladat gondolatainak világos tárgyalását lásd a The Art of Insight 7.3. és 7.4. szakaszában.

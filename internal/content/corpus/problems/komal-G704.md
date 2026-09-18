@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, auxiliary-unknowns]
 ---
 
-When Torricelli's experiment is carried out at sea level, then the mercury column is 76 cm high. However, on a very high hill the height of the mercury is only 40 cm. How high is the hill? 
+When Torricelli's experiment is carried out at sea level, then the mercury column is 76 cm high. However, on a very high hill the height of the mercury is only 40 cm. How high is the hill?
  (3 pont)

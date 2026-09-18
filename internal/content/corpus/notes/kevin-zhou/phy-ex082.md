@@ -32,7 +32,6 @@ Since the length r0 is fixed, there is no radial dependence; the solution is jus
                              El =              ,   ψlm (θ, ϕ) = Ylm (θ, ϕ).
                                        2µr02
 This can also be viewed as a special case of the central force problem, with a singular potential.
-180 7. Angular Momentum
 
 
 Note. Another, more mundane example of hidden symmetry is in the two-dimensional infinite
@@ -84,7 +83,6 @@ Next, we consider diatomic molecules.
                                               α=           ≈     .
                                                    4πϵ0 ℏc   137
          In Gaussian units, this simplifies to e2 /ℏc. In atomic units, it just becomes 1/c.
-181 7. Angular Momentum
 
 
      – Distance: a0 = ℏ2 /me2 ≈ 0.5 Å, the Bohr radius.
@@ -129,7 +127,7 @@ Next, we consider the classic example of hydrogen.
  • The radial Schrodinger equation is
 
                                   ℏ2 d2 f         l(l + 1)ℏ2 Ze2
-                                                                  
+
                                 −         +                 −          f = Ef
                                   2µ dr2             2µr2     r
 
@@ -140,13 +138,12 @@ Next, we consider the classic example of hydrogen.
      – The characteristic energy is K = eel enuc /a = Z 2 K0 , so the energies are higher for higher Z.
      – The characteristic velocity is v = eel enuc /ℏ = Zv0 = (Zα)c, so for heavy nuclei, the
        nonrelativistic approximation breaks down.
-182 7. Angular Momentum
 
 
  • Taking distance and energy in units of a and K, we have
 
                                d2 f
-                                                          
+
                                           l(l + 1) 2
                                     +   −         +   + 2E   f = 0.
                                dr2           r2     r
@@ -159,7 +156,7 @@ Next, we consider the classic example of hydrogen.
    which reduces the equation to
 
                                    d2 f
-                                                         
+
                                             l(l + 1) ν  1
                                         + −         + −     f = 0.
                                    dρ2         ρ2    ρ 4
@@ -199,7 +196,6 @@ Next, we consider the classic example of hydrogen.
                                             En = −
                                                        2ℏ2 n2
    where m is really the reduced mass, which is within 0.1% of the electron mass.
-183 7. Angular Momentum
 
 
   • Explicitly, the radial wavefunctions have the form
@@ -207,14 +203,14 @@ Next, we consider the classic example of hydrogen.
                       R10 = 2e−r ,   R20 = √ (2 − r)e−r/2 ,       R21 = √ re−r/2
                                           2 2                          2 6
     and
-                                                                 
+
           2               2 2 −r/3                2              2 2 −r/3                4
     R30 = √       3 − 2r + r e     ,       R31 = √           4r − r e     ,    R32 =     √ r2 e−r/3 .
          9 3              9                     27 6             3                     81 30
     Here, we have set a = 1. To restore a, we replace r with r/a and add a prefactor of 1/a3/2 .
 
   • One result that will be useful in several places below is
-                                                       3/2
+                                                         3/2
                                                         Z
                                           Rn0 (0) = 2
                                                         n
@@ -254,7 +250,6 @@ For reference, we summarize facts about special functions and the contexts in wh
 
     which comes from separating the ordinary Schrodinger equation. We only consider the rota-
     tionally symmetric case V = V (r).
-184 7. Angular Momentum
 
 
  • If we separate the wave equation, the spatial part is the Helmholtz equation, which is the special
@@ -302,7 +297,6 @@ For reference, we summarize facts about special functions and the contexts in wh
  • As an application, applying this decomposition to the potential created by a charge distribution
    near the origin yields the multipole expansion, with ℓ = 0 giving the monopole contribution,
    and so on.
-185 7. Angular Momentum
 
 
 7.5     Addition of Angular Momentum
@@ -341,7 +335,6 @@ We now discuss addition of angular momentum.
                          X
                             ⟨jm|j1 j2 m1 m2 ⟩⟨j1 j2 m1 m2 |j ′ m′ ⟩ = δjj ′ δmm′ ,
                            m1 m2
-186 7. Angular Momentum
 
                             X
                                   ⟨j1 j2 m1 m2 |jm⟩⟨jm|j1 j2 m′1 m′2 ⟩ = δm1 m′1 δm2 m′2

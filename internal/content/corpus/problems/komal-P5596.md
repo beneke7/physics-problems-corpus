@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-If the radius of a spherical object, having uniform mass density, is less than a critical value, then gravity is so strong on its surface that even light cannot escape from it, so it behaves like a black hole. Let us estimate this critical radius, knowing that its value depends only on the mass of the object, the universal gravitational constant and the speed of light in vacuum. Estimate how much a bowling ball of mass $7.25~\mathrm{kg}$ should be compressed, in order that it behaves like a black hole! 
+If the radius of a spherical object, having uniform mass density, is less than a critical value, then gravity is so strong on its surface that even light cannot escape from it, so it behaves like a black hole. Let us estimate this critical radius, knowing that its value depends only on the mass of the object, the universal gravitational constant and the speed of light in vacuum. Estimate how much a bowling ball of mass $7.25~\mathrm{kg}$ should be compressed, in order that it behaves like a black hole!
  (4 pont)

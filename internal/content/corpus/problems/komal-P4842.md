@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [model-reduction, superposition]
 ---
 
-There are small holes on an opaque sheet, the holes positioned in a regular hexagonal grid as shown in the figure. The sheet is illuminated by monochromatic laser light of wavelength $\lambda$ perpendicularly to the sheet. 
+There are small holes on an opaque sheet, the holes positioned in a regular hexagonal grid as shown in the figure. The sheet is illuminated by monochromatic laser light of wavelength $\lambda$ perpendicularly to the sheet.
 
- What kind of diffraction pattern can be observed on the screen which is placed at a distance of $L$ from the sheet, if the distance between the holes is $d$ ? What can be stated about the brightness of the peak intensities with respect to each other? (It can be assumed that $L\ll d \ll \lambda$.) 
+ What kind of diffraction pattern can be observed on the screen which is placed at a distance of $L$ from the sheet, if the distance between the holes is $d$ ? What can be stated about the brightness of the peak intensities with respect to each other? (It can be assumed that $L\ll d \ll \lambda$.)
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4842-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4842-fig1.gif)

@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201510"
 verification_status: pending
 ---
 
-What should the angle between two forces be, if the magnitude of their sum is the same as the geometric mean of the magnitudes of the forces? Under what conditions will this angle be minimum, and what is this minimum value? 
+What should the angle between two forces be, if the magnitude of their sum is the same as the geometric mean of the magnitudes of the forces? Under what conditions will this angle be minimum, and what is this minimum value?
  (4 pont)

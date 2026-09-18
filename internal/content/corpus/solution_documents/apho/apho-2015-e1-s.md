@@ -22,7 +22,8 @@ Experimental Competition
 
 
  Marking Scheme
-                                                                            page 2 of 17
+
+                                                                            page 2 of 17
 
 
 
@@ -67,7 +68,8 @@ Experiment A
            Avg.     45.00r0.02     7.02r0.02   1.00r0.02    2.25r0.01    18.18±0.02
          If repeated measurement of dimension and mass gives the same
          result.
-                                                                         page 3 of 17
+
+                                                                         page 3 of 17
 
 
 
@@ -82,7 +84,7 @@ A.2 Now calculate the density ρ and the relative permittivity εr of the       
                                 lw t
                                                                                           'U
             'U          'm 2    'l 2   'w 2    't 2                                 0.2        expression.
-                      (    ) (   ) (    ) (   )                       0 .0 2 1         U
+                      (    )  (   )  (    )  (   )                       0 .0 2 1         U
              U           m      l       w      t
                               ? 'U             0 .1 5 u 1 0 3 k g /m 3              0.2 right value of Δρ.
                                                                                     (0.2:0.05~0.30)
@@ -92,7 +94,7 @@ A.2 Now calculate the density ρ and the relative permittivity εr of the       
                          Hr          6 .4 4 u 1 0 3
                             H 0 lw
            'H r        'C 2      'l 2      'w 2      't 2                           The same criteria for
-                     (   ) (       ) (        ) (   )                 0 .0 2 1   εr .
+                     (   )  (       )  (        )  (   )                 0 .0 2 1   εr .
             Hr         C          l         w        t
                          'H r          0 .1 4 u 1 0 3
                                                                                     02.right value of εr
@@ -103,20 +105,20 @@ A.2 Now calculate the density ρ and the relative permittivity εr of the       
      Alternative: calculate ρ each time:7.13,7.08,7.30,7.24,7.10,7.10,              0 otherwise
                                 n               2
                                                                                     0.2 right value of Δεr.
-                               ¦ U U   i                                           (0.2:0.05~0.30)
+                               ¦ U  U   i                                           (0.2:0.05~0.30)
                     VU         i 1
                                                      0.04 u103 kg/m3                (0.1:0.01~0.05,
-                                     n(n  1)
+                                     n(n   1)
                                                                                     0.30~0.50)
                                                                                     0 otherwise.
                      U        ( 7 .1 6 r 0 .0 4 ) u 1 0 3 k g /m 3
      Or                                                                             ----------------
                                 n               2
                                                                                     Alternative:
-                               ¦ U U   i                                           0.2 ρ.
+                               ¦ U  U   i                                           0.2 ρ.
                     VU         i 1
                                                      0.10 u103 kg/m3                0.1 unit of ρ.
-                                     (n  1)
+                                     (n   1)
                                                                                     0.1 Δρ expression.
                                                                                     0.1 right value of Δρ.
                      U        ( 7 .1 6 r 0 .1 0 ) u 1 0 3 k g /m 3
@@ -124,7 +126,8 @@ A.2 Now calculate the density ρ and the relative permittivity εr of the       
                                                                                     0 otherwise.
 
                                                                                     0.2 data points.
-page 4 of 17
+
+page 4 of 17
 
 
 
@@ -134,7 +137,8 @@ A.2 Now calculate the density ρ and the relative permittivity εr of the       
           0 otherwise.
           The same criteria for
           εr .
-                                                                                page 5 of 17
+
+                                                                                page 5 of 17
 
 
 
@@ -154,25 +158,26 @@ Experiment B
                                       Z2     iZ L1
         Respectively. Assume the total impedance of the equivalent circuit 0.1 L1 impedance.
         is Z, then we have
-        1    1      1                          1               C0  Z 2 L1C0C1  C1
-                                iZC0                    iZ
-        Z    Z 0 Z1  Z 2                   1
-                                                iZ L1             1  Z 2 L1C1
+        1    1      1                          1               C0   Z 2 L1C0C1   C1
+                                 iZC0                     iZ
+        Z    Z 0 Z1   Z 2                   1
+                                                 iZ L1             1   Z 2 L1C1
                                                                                             0.3 total impedance.
                                           iZC1
         (2)
         Resonance condition:
                                                  1
-                  1  Z 2 L1C1     0  fr                                 (3)               0.2 resonant
+                  1   Z 2 L1C1     0   fr                                 (3)               0.2 resonant
                                               2S L1C1
                                                                                             frequency.
         Antiresonance condition:
                                                     1     1     1
-            C0  Z 2 L1C0C1  C1     0  fa                                       (4)
+            C0   Z 2 L1C0C1   C1     0   fa                                        (4)
                                                    2S    L1C1 L1C0
                                                                                             0.2 antiresonant
                                                                                             frequency.
-                                                                      page 6 of 17
+
+                                                                      page 6 of 17
 
 
 
@@ -210,21 +215,23 @@ B.2   Measure the AC current I through the PZT plate as a function of           
        30.2    18.99   32.1    7.50    34.0    0.74
        30.3    19.66   32.2    6.52    34.1    0.89
        30.4    20.29   32.3    5.63    34.2    1.04
-                                                                           page 7 of 17
+
+                                                                           page 7 of 17
 
 
 
 
                              fr=30.7 kHz, fa=33.5 kHz
                         H 0H r
-d                                                     4.44 u 1010 m/V (or C/N)
+d                                                     4.44 u 10 10 m/V (or C/N)
                             1               1
     128 f l U [
            4 2
-                                                 ]
-                (2S f a ) 2  (2S f r ) 2 32 f r2
+                                                  ]
+                (2S f a ) 2   (2S f r ) 2 32 f r2
           r
-                                                                 page 8 of 17
+
+                                                                 page 8 of 17
 
 
 
@@ -250,7 +257,8 @@ Experiment C
                                                                           (0.1: temperature range
                                                                           20~35℃)
                                                                           0 otherwise.
-                                                                 page 9 of 17
+
+                                                                 page 9 of 17
 
 
 
@@ -271,12 +279,12 @@ C.2   Analyze the data, draw a proper plot and calculate the Curie Total:2.5
       From the straight line choose two points          P1(30.0,0.05275),
       P2(90.0,0.03075) to calculate the slope
                                    'y
-                             k           0.000367                          0.2 proper choice of
+                             k            0.000367                          0.2 proper choice of
                                    'x                                       P1,P2.
                                                                             0.2 slope.
       We can get the linear function                                        0.2 significant figures.
                                                                             0.2 linear function.
-                         y       0.000367 x  0.0638
+                         y        0.000367 x   0.0638
                                                                             0.1 unit of Tc.
                                                                             0.6 right value of Tc
       Let y=0, then we can get the Curie temperature                        (0.6:160~180)
@@ -293,7 +301,8 @@ C.2   Analyze the data, draw a proper plot and calculate the Curie Total:2.5
 
 
                                                                             Alternative:
-page 10 of 17
+
+page 10 of 17
 
 
 
@@ -303,7 +312,8 @@ C.2   Analyze the data, draw a proper plot and calculate the Curie Total:2.5
          to intercept with x axis.
          0.1 unit of Tc.
          0.6 right value of Tc.
-                                                                    page 11 of 17
+
+                                                                    page 11 of 17
 
 
 
@@ -331,7 +341,8 @@ Experiment D
           between two peaks 'f , we have
 
                                   u   2 L 'f                             (4)
-                                                              page 12 of 17
+
+                                                              page 12 of 17
 
 
 
@@ -368,7 +379,8 @@ D.2   Use the steel tape measure to read the length L of the aluminum rod. Total
                                                                               0.2      spectrum
                                                                               containing      all
                                                                               measured peaks.
-                                                                                     page 13 of 17
+
+                                                                                     page 13 of 17
 
 
 
@@ -406,7 +418,7 @@ D.3   Identify the resonant peaks likely resulting from the transverse waves. To
 
                                                                       0.01 kHz
                                                                                                      km/s)
-                                    5        5       n(n  1)                                        (0.2    2.65~2.80
+                                    5        5       n(n   1)                                        (0.2    2.65~2.80
                                                                                                      km/s, 3.10~3.25
                                                                                                      km/s)
                                     u      2 L 'f           2.94 km/s                                0 otherwise.
@@ -414,12 +426,13 @@ D.3   Identify the resonant peaks likely resulting from the transverse waves. To
                                                                                                      0.2 right value of
                                                                                                      Δu
                      'u                   'L 2    'f 2                                               (0.2:0.01~0.15
-                                      (      ) (    )                  0 .0 0 3 5
+                                      (      )  (    )                  0 .0 0 3 5
                      u                     L       f                                                 km/s)
                                                                                                      (0.1:0.15~0.30
                                ' u 0 .0 1 k m /s                                                     km/s)
                                u ( 2 .9 4 r 0 .0 1) k m /s                                           0 otherwise.
-                                                            page 14 of 17
+
+                                                            page 14 of 17
 
 
 
@@ -465,7 +478,8 @@ D.4   While changing the frequency of the sound waves produced by the Total:1.5
                                                                             0.2      spectrum
                                                                             containing      all
                                                                             measured peaks.
-                                                                                      page 15 of 17
+
+                                                                                      page 15 of 17
 
 
 
@@ -496,12 +510,12 @@ D.5   Compare with the result in D.2, identify the resonant peaks caused by Tota
 
                                                                       0.03 kHz
                                                                                                       figures.
-                                    3        3       n(n  1)
+                                    3        3       n(n   1)
                                                                                                       0.1 units.
                                     u       2 L 'f     5.02km/s
                                                                                                       0.6 right value of
                      'u                   'L 2    'f 2                                                longitudinal
-                                        (    ) (    )                     0 .0 0 6
+                                        (    )  (    )                     0 .0 0 6
                      u                     L       f                                                  wave velocity
                      'u          0 .0 3 k m /s                                                        (0.6:4.70~5.20
                                                                                                       km/s)
@@ -517,7 +531,8 @@ D.5   Compare with the result in D.2, identify the resonant peaks caused by Tota
                                                                                                       (0.1:0.20~0.40
                                                                                                       km/s)
                                                                                                       0 otherwise.
-                                                                   page 16 of 17
+
+                                                                   page 16 of 17
 
 
 
@@ -558,7 +573,8 @@ Experiment E
                                                                                    containing all
                                                                                    measured
                                                                                    peaks.
-                                                                 page 17 of 17
+
+                                                                 page 17 of 17
 
 
 

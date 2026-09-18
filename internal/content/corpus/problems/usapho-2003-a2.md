@@ -27,10 +27,10 @@ A2. All of the numbered boxes represent resistors. Each one has resistance $R$.
 (10) a. What is the equivalent resistance between points A and C?
 (15) b. What is the equivalent resistance between points A and B?
 
-![](usapho-2003-a2-fig01.png)
+![](../../figures/usapho/figures/usapho-2003-a2-fig01.png)
 
-![](usapho-2003-a2-fig02.png)
+![](../../figures/usapho/figures/usapho-2003-a2-fig02.png)
 Figure a
 
-![](usapho-2003-a2-fig03.png)
+![](../../figures/usapho/figures/usapho-2003-a2-fig03.png)
 Figure b

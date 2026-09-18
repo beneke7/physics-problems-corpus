@@ -28,8 +28,8 @@ verification_status: pending
 In geometric optics, a caustic is a bright curve of light that appears when many incoming light rays are focused in the same outgoing direction. The most famous example of a caustic is a rainbow, which occurs when light interacts with spherical water droplets. Consider a spherical liquid droplet of radius $r$ with index of refraction $1<n<2$, suspended in air with index of refraction $n=1$.
 
 a. Consider a light ray that enters the droplet with impact parameter $b$, reflects once off the inside surface of the droplet, then exits, as shown at left below. Give your answers in terms of the dimensionless impact parameter $x=b / r$. (Hint: the four marked angles are congruent.)
-![](usapho-2022-a3-fig01.png)
-![](usapho-2022-a3-fig02.png)
+![](../../figures/usapho/figures/usapho-2022-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-2022-a3-fig02.png)
     i. Find the angle by which the light ray is deflected at the first refraction.
     ii. Find the angle by which the light ray is deflected at the reflection.
     iii. Find the angle by which the light ray is deflected at the second refraction.

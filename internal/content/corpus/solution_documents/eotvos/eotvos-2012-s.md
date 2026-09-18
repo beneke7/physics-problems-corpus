@@ -20,7 +20,7 @@ Az öt óra (300 per ) megoldási id® alatt mobiltelefon és laptop kivételév
    Budapesten 56, Pé sett 12, Debre enben 11, Veszprémben 8, Nagykanizsán 6, Miskol on, Szegeden és Szekszár-
 don 4-4, Egerben 3, Székesfehérváron 2, Ke skeméten 1 dolgozat született. Négy városban (Békés sabán, Gy®rben,
 Nyíregyházán és Szombathelyen) hiába várták a verseny rendez®i a diákokat, egyetlen versenyz® se jelent meg a ver-
-seny meghirdetett helyszínén. A vidéki városokban  tavalyhoz hasonlóan idén is  összesen kevesebb versenyz® volt,
+seny meghirdetett helyszínén. A vidéki városokban   tavalyhoz hasonlóan idén is   összesen kevesebb versenyz® volt,
 mint Budapesten.
    A 111 versenyz® közül 14-en voltak az ELTE, ugyan sak 14-en a BME els®éves hallgatói. Egyikük az Amerikai
 Egyesült Államokban érettségizett. Hét versenyz® járt Veszprémben a Pannon Egyetemre, Miskol on két, Pé sett egy
@@ -44,7 +44,7 @@ változik.)
 
                                                         1. ábra
 
-   Adjunk zikai magyarázatot a fur sa jelenségre! Milyen irányban és milyen kezd®feltételekkel kell indítania a b¶-
+   Adjunk  zikai magyarázatot a fur sa jelenségre! Milyen irányban és milyen kezd®feltételekkel kell indítania a b¶-
 vésznek a labdát, hogy a mutatvány sikerüljön?
                                                                                                            (Vigh Máté )
 
@@ -67,7 +67,9 @@ a nehézségi er® hat rá. Ezek ered®je tehát zérus kell legyen. Ez   sak ú
 gyorsítaná vagy lassítaná azt. Ez pedig azt jelenti, hogy a labdának vízszintesen (felülr®l nézve balra) kell gurulnia,
 hiszen   S a lejt® síkjában felfelé mutató vektor!
    A megoldás kul sa, hogy a labda forgását két, egymásra mer®leges tengely körüli forgás ered®jeként fogjuk fel.
-    1. A korong síkjával párhuzamos, lejtés irányú tengely körül a labda egyenletesen forog:
+
+
+    1. A korong síkjával párhuzamos, lejtés irányú tengely körül a labda egyenletesen forog:
 
                                                                          v0
                                                          ω1 = ω0 =          .
@@ -106,13 +108,13 @@ a labda R sugarától sem!
 
     Megjegyzések. 1. Az a gondolat, hogy egy labda forgása két forgás ered®jeként fogható fel, már szerepelt egyszer az Eötvös-
 versenyen. 1972-ben ez volt a 3. feladat:
-    Felfújt, könny¶ m¶anyag labdát találomra megpörgetve sima vízfelületre ejtünk. Azt tapasztaljuk, hogy miel®tt megáll, rend-
-szerint függ®leges tengely körül forog. Mi a jelenség magyarázata?
+     Felfújt, könny¶ m¶anyag labdát találomra megpörgetve sima vízfelületre ejtünk. Azt tapasztaljuk, hogy miel®tt megáll, rend-
+szerint függ®leges tengely körül forog. Mi a jelenség magyarázata?
     A megoldás az, hogy a labda bármely tengely körüli forgása egy függ®leges és egy vízszintes tengely körüli forgás ered®jeként
 tárgyalható. A vízszintes tengely körüli forgást a súrlódás sokkal jobban fékezi, ezért marad meg végül mindig a függ®leges tengely
 körüli forgás.
     2. Az eredményhirdetéskor Vigh Máté levetítette azt a videót, amely több variá ióban mutatta be a feladatban leírt jelenséget.
-A bemutatást a közönség élénk gyelemmel kísérte.
+A bemutatást a közönség élénk  gyelemmel kísérte.
 
     2. feladat. Egy 10 m hosszú és 2 m vastag, hengeres üvegrúd mindkét domború vége egy-egy félgömb. A rúd
 tengelye mentén, egyik végét®l mekkora távolságra helyezzünk el egy pontszer¶ fényforrást a leveg®ben, ha azt akarjuk,
@@ -132,11 +134,13 @@ fénysugarak, akkor egy nyilvánvaló megoldás erre az, hogy a rúd egyik küls
 fényforrást. Az ebb®l kiinduló fénysugarak a rúd belsejében párhuzamosan haladnak, majd a másik végénél kilépve
 újra fókusztávolságnyira egyesülnek.
     Tovább egyszer¶síti a megoldást, ha gondolatban levágjuk a rúd végeit. Ezáltal két vékony len sét és közöttük egy
-plánparalel réteget kapunk (   3. ábra ).
-                                                               3. ábra
+ plánparalel  réteget kapunk (   3. ábra ).
+
+
+                                                               3. ábra
 
       A vékony, síkdomború len se fókusztávolságára
-                                                                   
+
                                         1                 1    1
                                           = (n − 1)          +          ,   most   R2 → ∞.
                                         f                 R1   R2
@@ -148,7 +152,7 @@ fényforrást. Az ebb®l kiinduló fénysugarak a rúd belsejében párhuzamosan
       Van azonban egy másik lehetséges megoldás is! Ekkor a fénysugarak nem párhuzamosan haladnak a rúd belsejében,
 hanem a rúd közepén találkoznak, majd ebb®l a pontból kiindulva érik el a rúd másik végét. Ott kilépve éppen olyan
 messze találkoznak, mint amilyen távolságra voltak a rúd els® végét®l, amikor elindultak. Ez is egy szimmetrikus
-sugármenet, de most már nem segít a megoldásban az el®bbi felszeletelés.
+sugármenet, de most már nem segít a megoldásban az el®bbi  felszeletelés .
       Vizsgáljuk meg általánosan az els® felület adta leképezést! Legyen a kiindulási T tárgypont a rúdvégt®l t távolságra,
 keletkezzék ennek K képe a rúd belsejében k távolságra a leképez® rúdvégt®l. További jelölések a       4. ábrán láthatók.
 
@@ -157,7 +161,7 @@ keletkezzék ennek K képe a rúd belsejében k távolságra a leképez® rúdv�
 
                                                                4. ábra
 
-      Az ábráról leolvasható, hogy α = ε + γ , valamint γ = β + δ . Mindegyik szög külön-külön is ki si, ezért a Snellius
+      Az ábráról leolvasható, hogy α = ε + γ , valamint γ = β + δ . Mindegyik szög külön-külön is ki si, ezért a Snellius
 Des artes-törvény felhasználásával
                                                           sin α  α  ε+γ
                                                    n=           ≈ =     .
@@ -183,7 +187,9 @@ Ebb®l
                                                                5. ábra
 
       b) Tekintsük a 6. ábrát!
-                                                            6. ábra
+
+
+                                                            6. ábra
 
    Az el®z® gondolatmenethez hasonlóan most is meghatározhatnánk a kis szöget bezáró fénysugarakra érvényes leké-
 pezési törvényeket. Helykímélés éljából ezt itt nem tesszük meg, de bárki ellen®rizheti, hogy a két végnél a következ®ket
@@ -222,17 +228,19 @@ közelében haladnak, nem érhetik el a henger oldalát.
 
     3. feladat. Két ugyanolyan méret¶, sak a menetszámukban különböz®, egyenletes teker selés¶, N1 és N2 (> N1 )
 menetes toroid teker s egymásba van f¶zve az ábra szerint. (A középkörök síkjai mer®legesek egymásra.)
-    a) Melyik teker s kivezetései között indukálódik nagyobb feszültség, ha a másik teker sben adott eektív áramer®sség¶
+    a) Melyik teker s kivezetései között indukálódik nagyobb feszültség, ha a másik teker sben adott e ektív áramer®sség¶
 és frekven iájú váltakozó áram folyik?
-    b) Az N1 menetes teker sre Ueff eektív érték¶, hálózati váltakozó feszültséget kap solunk, a másik (N2 menetes)
-teker s kivezetéseire pedig ideálisnak tekinthet® voltmér®t kötünk. Mekkora eektív feszültséget jelez a m¶szer? Legyen
+    b) Az N1 menetes teker sre Ueff e ektív érték¶, hálózati váltakozó feszültséget kap solunk, a másik (N2 menetes)
+teker s kivezetéseire pedig ideálisnak tekinthet® voltmér®t kötünk. Mekkora e ektív feszültséget jelez a m¶szer? Legyen
 mondjuk N1 = 100, N2 = 900, Ueff = 230 V!
 
 
 
 
                                                             8. ábra
-                                                                                                                                 Vigh Máté )
+
+
+                                                                                                                                 Vigh Máté )
                                                                                                                                  (
 
 
@@ -242,34 +250,34 @@ teker s közötti M köl sönös induk iós együttható felhasználásával adh
                                                                            ∆I1
                                                              U2 = M            .
                                                                            ∆t
-Vákuumban lév® teker sek esetén  jó közelítéssel a légmagos teker sek is ilyennek tekinthet®k elektromos szempont-
-ból  a köl sönös induk iós együtthatónak a két teker sre vonatkozóan szimmetrikusnak kell lennie, vagyis fenn kell
+Vákuumban lév® teker sek esetén   jó közelítéssel a légmagos teker sek is ilyennek tekinthet®k elektromos szempont-
+ból   a köl sönös induk iós együtthatónak a két teker sre vonatkozóan szimmetrikusnak kell lennie, vagyis fenn kell
 állnia a következ® összefüggésnek is:
                                                                            ∆I2
                                                              U1 = M            .
                                                                            ∆t
-   Most már válaszolhatunk az a) kérdésre: Bármelyik teker sben folyik adott eektív áramer®sség¶ és frekven iájú
+   Most már válaszolhatunk az a) kérdésre: Bármelyik teker sben folyik adott e ektív áramer®sség¶ és frekven iájú
 váltakozó áram,   a másik teker sben mindig ugyanakkora feszültség indukálódik!
    A b) kérdésre akkor tudunk válaszolni, ha meg tudjuk határozni a feladatban látható légmagos teker spár köl sönös
 induk iós együtthatóját. Ne felejtsük el: ennek (N1 , N2 )-ben szimmetrikus kifejezésnek kell lennie.
    A megoldáshoz azt kell észrevennünk, hogy a feladatban a voltmér® által jelzett U2 feszültség fellépése két okra
 vezethet® vissza.
                                                                               (I)
-   I. Az (1) teker s uxusának változása hatással van a (2) teker sre, ebben U2 körfeszültséget indukál:
+   I. Az (1) teker s  uxusának változása hatással van a (2) teker sre, ebben U2 körfeszültséget indukál:
 
 
                                                        (I)      ∆Φ1   ∆(BA1 )
                                                    U2 =             =         .
                                                                 ∆t      ∆t
 Az (1) teker sben létrejöv®   B értékét a gerjesztési törvényb®l kaphatjuk meg, ha azt az (1) teker s középkörére
-alkalmazzuk, gyelembe véve, hogy az R1 sugarú körlapot N1 I1 áram metszi:
+alkalmazzuk,  gyelembe véve, hogy az R1 sugarú körlapot N1 I1 áram metszi:
 
                                                                                                     N1 I1
                                    B · 2πR1 = µ0 N1 I1 ,                ebb®l              B = µ0         .
                                                                                                     2πR1
                        (I)
 Helyettesítsük be ezt U2 kifejezésébe:
-                                                                
+
                                                         N1 I1
                                                    ∆ µ0 2πR   A1                       N1 A1 ∆I1
                                              (I)            1
@@ -281,7 +289,7 @@ Helyettesítsük be ezt U2 kifejezésébe:
 nem lehet a keresett köl sönös induk iós együttható. Szükségünk van a már jelzett másik ok megvizsgálására is. Ez
 pedig a következ®:
    II. Az (1) teker s szórt mágneses terének változása hatással van a (2) teker sre, ebben
-                                                                                      
+
                                                         (II)                    (II)
                                                                         X
                                                        U2           =          Ui2
@@ -294,7 +302,7 @@ körfeszültséget indukál.
                                                                            (II)
 (ahol B n a menetfelületre mer®leges B komponens nagyságának átlaga). Itt Ui2 -vel jelöltük a második teker s i-
 edik menetében indukálódó feszültséget, amely lehet, hogy ki si a szórt mágneses tér gyengesége miatt, de összegezve
-az egész (2) teker sre, már nem hanyagolható el. Ez a szórt mágneses uxus a különböz® menetekre más és más lehet,
+az egész (2) teker sre, már nem hanyagolható el. Ez a szórt mágneses  uxus a különböz® menetekre más és más lehet,
 egy menetre vonatkozó átlagértékét jelöltük B n A2 -vel.
    B n kiszámításához írjuk fel újra a gerjesztési törvényt, de most a (2) teker s középkörére:
 
@@ -302,7 +310,7 @@ egy menetre vonatkozó átlagértékét jelöltük B n A2 -vel.
 
 (mivel most az R2 sugarú körlapot egyetlen I1 áram metszi).
    A II. ok miatt indukálódó körfeszültség tehát
-                                                                    
+
                                                              I1
                                                        ∆ µ0 2πR   A2                       N2 A2 ∆I1
                                          (II)                   2
@@ -312,7 +320,9 @@ egy menetre vonatkozó átlagértékét jelöltük B n A2 -vel.
 
                                                                      (I)        (II)
                                                          U2 = U2 + U2 .
-Használjuk ki, hogy a két teker s     sak menetszámában különbözik, vagyis A1 = A2 = A és R1 = R2 = R, ekkor
+
+
+Használjuk ki, hogy a két teker s     sak menetszámában különbözik, vagyis A1 = A2 = A és R1 = R2 = R, ekkor
 
 
                                                              (N1 + N2 )A ∆I1
@@ -325,7 +335,7 @@ Megkaptuk a keresett köl sönös induk iós együtthatót:
                                                      M = µ0                 ,
                                                                    2πR
 és ez már valóban szimmetrikus (N1 , N2 )-ben!
-   Hogyan határozhatjuk meg U2 konkrét, numerikus értékét? Az ismert eektív érték¶ U1 feszültség és az (1) teker s-
+   Hogyan határozhatjuk meg U2 konkrét, numerikus értékét? Az ismert e ektív érték¶ U1 feszültség és az (1) teker s-
 ben folyó áram változási sebessége között az induktivitás, az (1) teker s öninduk iós együtthatója teremt kap solatot:
 
 
@@ -352,10 +362,10 @@ véletlenül nem ez a helyzet, akkor a voltmér® által mutatott érték
                                                  N2 − N1       800
                                           U2 =           U1 =        230 V = 18,4 V
                                                    N12        10 000
-lesz. Ennek felismerését  észrevételét  már nem várta el a versenybizottság.
-   2. Az eredményhirdetéskor Vankó Péter, az 1976-os Eötvös-verseny gy®ztese, aki ma már a hazai zikai diákolimpiai       sapat
+lesz. Ennek felismerését    észrevételét    már nem várta el a versenybizottság.
+   2. Az eredményhirdetéskor Vankó Péter, az 1976-os Eötvös-verseny gy®ztese, aki ma már a hazai  zikai diákolimpiai       sapat
 vezet®je, saját készítés¶ teker sekkel és nagyfrekven iás berendezéssel demonstrálta a feladatban leírt jelenséget. A kvantitatív
-kísérlet összeállításáért és bemutatásáért  melyben Vigh Máté segédkezett  külön köszönet illeti a BME do ensét.
+kísérlet összeállításáért és bemutatásáért   melyben Vigh Máté segédkezett   külön köszönet illeti a BME do ensét.
 
                                                                  ∗
    Az ünnepélyes eredményhirdetésre és díjkiosztásra 2012. november 16-án délután került sor az ELTE Konferen ia-
@@ -366,11 +376,11 @@ az akkori versenyre. 50 évvel ezel®tt két osztálytárs,      Nagy Dénes Laj
 Gimnáziumból holtversenyben nyerték el az I. díjat, III. díjat a szegedi    Máté Eörs, di séretet Góth László és Simonovits
 Miklós budapesti versenyz®k kaptak. Mind az öten eljöttek, és jó hangulatban idézték fel 1962-es emlékeiket.
    25 évvel ezel®tt a zs¶ri nem adott ki I. díjat, mivel nem volt olyan versenyz®, aki mindhárom feladatot hibátlanul
-oldotta volna meg. Ráadásul az érettségizett versenyz®k többsége el®felvettként 1 éves katonai kiképzésben kellett,
+oldotta volna meg. Ráadásul az érettségizett versenyz®k többsége  el®felvettként  1 éves katonai kiképzésben kellett,
 hogy részt vegyen. Hódmez®vásárhelyr®l vagy Lentib®l a dolgozat megírására még             sak elengedték ®ket, az eredmény-
 hirdetésre azonban már nem. A II. díjat nyert Gyuris Viktor, aki ma már az USA-ban él és dolgozik, hangulatos levélben
 számolt be a viszontagságos körülményekr®l. Levelét Honyek Gyula olvasta fel. A III. díjasok közül Cynolter Gábor,
-Fu skár Attila és Kiss Tamás jött el, a di séretet kapott versenyz®k közül Derényi Imre és Szokoly Gyula. k nem sak
+Fu skár Attila és Kiss Tamás jött el, a di séretet kapott versenyz®k közül Derényi Imre és Szokoly Gyula.  k nem sak
 emlékeiket elevenítették fel, de élvezettel kap solódtak be a mostani Eötvös-verseny feladatainak diszkussziójába is.
    A versenybizottság elnöke ismertette a zs¶ri által elvárt megoldásokat, vezette a diszkussziót, majd a díjak és
 jutalmak átadására felkérte    Kroó Norbertet, az Eötvös Loránd Fizikai Társulat elnökét és Kürti Jen®t, a Társulat
@@ -378,20 +388,22 @@ f®titkárát.
    Els® díjat nem adott ki a versenybizottság, sajnos a harmadik feladatot senkinek sem sikerült jól megoldania.
    Második díjas lett Janzer Barnabás, a F®városi Fazekas Mihály Gyakorlóiskola 10. évf. tanulója, Horváth Gábor
 tanítványa, és Szabó Attila, a pé si Le®wey Klára Gimnázium 12. évf. tanulója, Simon Péter és Kotek László
-tanítványa. Pénzjutalmuk 2020 ezer forint.
+tanítványa. Pénzjutalmuk 20 20 ezer forint.
    Harmadik díjat, s vele 15-15 ezer forint jutalmat hárman vehettek át: Cs®sz Gábor, a Ke skeméti Református
 Gimnázium 12. évf. tanulója, Galambos Péter tanítványa; Juhász Péter, a Budapesti Piarista Gimnázium 11. évf.
-tanulója, Urbán János tanítványa; valamint La zkó Zoltán, az ELTE zika BS szakos hallgatója, aki a szegedi
+tanulója, Urbán János tanítványa; valamint La zkó Zoltán, az ELTE  zika BS szakos hallgatója, aki a szegedi
 Ságvári Endre Gimnáziumban érettségizett mint Gy®ri István tanítványa.
-   Heten kaptak    di séretet: Béres Bertold, a BME zika BS szakos hallgatója, aki a budapesti Puskás Tivadar
+
+
+   Heten kaptak    di séretet: Béres Bertold, a BME  zika BS szakos hallgatója, aki a budapesti Puskás Tivadar
 Távközlési Te hnikumban érettségizett mint   Beregszászi Zoltán és Alapiné E seri Éva tanítványa; Fehér Zsombor,
 a F®városi Fazekas Mihály Gyakorlóiskola 10. évf. tanulója, Horváth Gábor tanítványa; Homonnay Bálint, a F®városi
-Fazekas Mihály Gyakorlóiskola 11. évf. tanulója, Horváth Gábor tanítványa; Ková s Péter, BME zika BS szakos
+Fazekas Mihály Gyakorlóiskola 11. évf. tanulója, Horváth Gábor tanítványa; Ková s Péter, BME  zika BS szakos
 hallgatója, aki az ELTE Apá zai Csere János Gyakorló Gimnáziumában érettségizett mint Zsigri Feren tanítványa;
 Olosz Balázs, a PTE Babits Mihály Gyakorló Gimnáziumának 10. évf. tanulója, Kon z Károly tanítványa; Öreg
 Botond, a F®városi Fazekas Mihály Gyakorlóiskola 10. évf. tanulója, Horváth Gábor tanítványa, valamint Szigeti
 Bertalan György, a veszprémi Lovassy László Gimnázium 12. évf. tanulója, Varga Vin e tanítványa.
-    Mind a díjazott, mind a di séretes versenyz®k 1-1 értékes könyvet is kaptak (Simonyi Károly: A zika kultúrtörté-
+    Mind a díjazott, mind a di séretes versenyz®k 1-1 értékes könyvet is kaptak (Simonyi Károly: A  zika kultúrtörté-
 nete; J. D. Ja kson: Klasszikus elektrodinamika; I. N. Bronstein: Matematikai kézikönyv ). Az Eötvös-versenyre immár
 évek óta eredményesen felkészít® tanárt, Horváth Gábort, a versenybizottság javaslatára Lán zos Kornél hat kötetben
 összegy¶jtött munkáival ajándékozta meg az Eötvös Loránd Fizikai Társulat.
@@ -402,4 +414,4 @@ az elhunyt Károlyházy Frigyesr®l.
    Zárszavában az elnök röviden értékelte az idei Eötvös-versenyt, és köszönetet mondott a verseny lebonyolítását
 anyagilag támogató MOL-nak, az ajándékkönyveket felajánló kiadóknak, valamint a záró állófogadást biztosító RA-
 MASOFT Zrt-nek. A nyertes diákokról készül®       soportképre ebben az évben öt 50 évvel ezel®tti és öt 25 évvel ezel®tti
-nyertes is rákerült, h¶en kifejezve a zika szeretetének összetartó erejét.
+nyertes is rákerült, h¶en kifejezve a  zika szeretetének összetartó erejét.

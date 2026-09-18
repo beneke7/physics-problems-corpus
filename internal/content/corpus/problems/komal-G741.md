@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame]
 ---
 
-Suppose that Elon Musk —the multibillionaire known from his whimsical ideas— wants to determine the number of geosynchronous satellites such that he sends a counting satellite next to the path of the geosynchronous satellites. This satellite does not move west to east, but oppositely from east to west. How long does it take for this satellite to count all the satellites, which seem to be at rest with respect to the Earth? 
+Suppose that Elon Musk —the multibillionaire known from his whimsical ideas— wants to determine the number of geosynchronous satellites such that he sends a counting satellite next to the path of the geosynchronous satellites. This satellite does not move west to east, but oppositely from east to west. How long does it take for this satellite to count all the satellites, which seem to be at rest with respect to the Earth?
  (3 pont)

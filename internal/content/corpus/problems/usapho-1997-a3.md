@@ -24,7 +24,7 @@ solution_language: en
 
 A3. The circuit shown consists of:
 a 10 volt battery, a $1.0 \mu \mathrm{~F}$ capacitor, a $4.0 \mu \mathrm{~F}$ capacitor, a $50 \Omega$ resistor, three $25 \Omega$ resistors, and four switches, labeled $\mathrm{S}_{0}, \mathrm{~S}_{1}, \mathrm{~S}_{2}, \mathrm{~S}_{3}$. All switches are initially open. In all cases assume that the circuit is completely insulated from its surroundings.
-![](usapho-1997-a3-fig01.png)
+![](../../figures/usapho/figures/usapho-1997-a3-fig01.png)
 $(\mathbf{a}, \mathbf{5})$ Switches $\mathrm{S}_{\mathrm{o}}, \mathrm{S}_{1}, \mathrm{~S}_{2}$ are closed. Switch $\mathrm{S}_{3}$ remains open. After a very long time, what is the charge on each capacitor?
 $(\mathbf{b}, \mathbf{5})$ Switch $\mathrm{S}_{3}$ is also closed, so that all four switches are closed. After a very long time, what is the charge on each capacitor?
 $(\mathbf{c}, 5)$ Switches $\mathrm{S}_{\mathrm{o}}$ and $\mathrm{S}_{3}$ are opened simultaneously. Switches $\mathrm{S}_{1}$ and $\mathrm{S}_{2}$ are left closed. After a very long time, what is the charge on each capacitor?

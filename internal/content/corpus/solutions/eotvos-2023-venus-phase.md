@@ -139,22 +139,22 @@ f2 =
 Mikor fog ez bekövetkezni? A Vénusz sziderikus (csillagokhoz viszonyı́tott)
 keringési ideje Kepler 3. törvénye alapján:
 TV =
-
+
 rV
 rF
-3
+ 3
 2
 TF = 224,5 nap.
 (TF = 365,25 nap.) A szinodikus (Földhöz viszonyı́tott) keringési ideje
 T′
 V =
-
+
 1
 TV
 −
 1
 TF
-−1
+ −1
 ≈ 583 nap,
 hiszen az általunk vizsgált koordináta-rendszerben a Vénusz keringésének szögse-
 bessége Ω′

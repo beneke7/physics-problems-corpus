@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-Photons collide with electrons of negligible speed. The energy of the photons is equal to the rest energy of the electrons. After the collision one of the electrons moves such that the angle between the original velocity of the photon and the velocity of the electron is 45$^\circ$. Find the speed of this electron. 
+Photons collide with electrons of negligible speed. The energy of the photons is equal to the rest energy of the electrons. After the collision one of the electrons moves such that the angle between the original velocity of the photon and the velocity of the electron is 45$^\circ$. Find the speed of this electron.
  (5 pont)

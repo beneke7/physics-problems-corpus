@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [extremization, limiting-and-special-cases]
 ---
 
-Formula One car drivers are participating in a race in which reaching the greatest speed is not the best tactic to win. A designated distance of $d = 1250$ m is to be covered at a constant speed, then each car has to stop at a deceleration of $a = 2~\mathrm{m/s}^2$. The winner is the driver who can stop in the least time, measured from the start of the car. 
- $a)$ What should the speed of the winning car be at the constant speed stage of the motion, if the driver wants to stop in the least time? 
- $b)$ How much distance does the winning car cover in this case from the start to the stop? 
+Formula One car drivers are participating in a race in which reaching the greatest speed is not the best tactic to win. A designated distance of $d = 1250$ m is to be covered at a constant speed, then each car has to stop at a deceleration of $a = 2~\mathrm{m/s}^2$. The winner is the driver who can stop in the least time, measured from the start of the car.
+ $a)$ What should the speed of the winning car be at the constant speed stage of the motion, if the driver wants to stop in the least time?
+ $b)$ How much distance does the winning car cover in this case from the start to the stop?
  (4 pont)

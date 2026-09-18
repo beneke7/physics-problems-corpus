@@ -71,7 +71,6 @@ infinitézimális forgatások vizsgálatával és ezek egymás utáni felépít�
 A kommutátor értéke
                                [ni Ji , Jj eˆj ] = iℏϵijk ni eˆj Jk = −iℏn̂ × J.
 Ezért a bal oldal J − θn̂ × J, ami éppen az R−1 infinitézimális térbeli forgatása.
-173 7. Szögimpulzus
 
 Megjegyzés. Magasabb spin esetén akkor mondhatjuk, hogy egy spinállapot az n̂ irányba „mutat”, ha
 a J · n̂ operátor legnagyobb sajátértékéhez tartozó sajátket. A spin 1/2 esetéhez hasonlóan, ha
@@ -123,7 +122,6 @@ lévő spinek esetét vizsgáljuk.
 
       Figyeljük meg a 2-es tényezőket. Ha a nagyságokat vesszük, µN 1/2-t, S 1/2-t, és csak elektronok
       esetén g 2-t ad.
-174 7. Szögimpulzus
 
   • A proton mágneses momentuma a kvarkok és gluonok spin- és pályamozgásának keverékéből származik.
     Hasonlóan, a deutérium (egy proton és egy neutron) mágneses momentuma a proton és a neutron
@@ -173,11 +171,10 @@ szimmetriát tételezünk fel, ami ebben az esetben V = V (r)-t jelent.
                                                                       i
                              R(n̂, θ) = 1 + θn̂ · J,   U (n̂, θ) = 1 − θn̂ · L
                                                                       ℏ
-175 7. Szögimpulzus
 
    a fenti relációba, ahol J a so(3) fundamentális reprezentációjának korábban definiált generátorait
    tartalmazza. A θ elsőrendű tagjait összehasonlítva
-                                            
+
                                      i
                                    − θn̂ · L ψ(x) = −θ(n̂ × x) · ∇ψ
                                      ℏ
@@ -208,7 +205,7 @@ szimmetriát tételezünk fel, ami ebben az esetben V = V (r)-t jelent.
 
                             Lz = −iℏ∂ϕ ,        L± = −iℏe±iϕ (±i∂θ − cot θ∂ϕ )
 
-   és                                                                       
+   és
                                 2      2         1                     1    2
                               L = −ℏ                 ∂θ (sin θ∂θ ) +       ∂ .
                                                sin θ                 sin2 θ ϕ
@@ -225,16 +222,15 @@ szimmetriát tételezünk fel, ami ebben az esetben V = V (r)-t jelent.
 
  • A gömbön a ψlm megoldások a gömbharmonikusok, az Ylm-ek. Lz definícióját használva Ylm ∝ eimϕ .
    Az Yll meghatározása után az alsó létraoperátort alkalmazva
-                                     s                                   l−m
+                                     s                                    l−m
                                (−1)l 2l + 1 (l + m)! eimϕ
-                                                               
+
                                                                     d
                    Ylm (θ, ϕ) = l                                              sin2l θ.
                                 2 l!     4π (l − m)! sinm θ d(cos θ)
 
    A (−1)l fázistényező választása konvencionális, és Yl0-t valós, pozitív függvénnyé teszi az északi
    pólusban. Az (l + m)!/(l − m)! normálási tényező az L− alkalmazásából származik.
-176 7. Szögimpulzus
 
  • A θ-függést a Legendre-polinomokkal is felírhatjuk; ezek a Rodriguez-formulával adhatók meg:
                                             (−1)l dl
@@ -294,7 +290,6 @@ szimmetriát tételezünk fel, ami ebben az esetben V = V (r)-t jelent.
           P
    L =    xi × pi . A szögimpulzus-bázis megkonstruálásához a később tárgyalt szögimpulzus-összeadási
    módszereket használjuk.
-177 7. Szögimpulzus
 
 Megjegyzés. Néhány példa gömbharmonikusokra.
                                  r                               r                       r
@@ -350,7 +345,6 @@ Most az előző szakasz eredményeit alkalmazzuk centrális erőtérbeli mozgás
       A kapott egyenlet éppen a szokásos egydimenziós Schrodinger-egyenletre hasonlít, de a (0, ∞)
       intervallumon.
 
-178 7. Szögimpulzus
 
   • Erre szétválasztásos módszerrel is eljuthattunk volna. Általában ez a technika akkor működik, ha
     folytonos szimmetria áll fenn. Ekkor a szimmetriát generáló (differenciál-)operátor kommutál a
@@ -401,7 +395,6 @@ Most az előző szakasz eredményeit alkalmazzuk centrális erőtérbeli mozgás
    akkor az utolsó két tag elhanyagolható. Ahhoz, hogy az egyenlet fennmaradjon, az első két tagnak
    ki kell oltania egymást, tehát
                              k(k + 1) = l(l + 1), k = l or k = −l − 1.
-179 7. Szögimpulzus
 
     A második megoldás l ≥ 1 esetén nem normálható, ezért elhagyjuk. l = 0 esetén R(r) ∝ 1/r-t ad,
     ami a deltafüggvény-potenciál megoldása; ezt regularitási okokból kizártuk. (Az ilyen megoldás

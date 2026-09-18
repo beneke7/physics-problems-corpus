@@ -62,7 +62,9 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
 
 
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam           Cover Sheet                                           2
+
+
+2014 USA Physics Olympiad Exam           Cover Sheet                                           2
 
 
 
@@ -100,18 +102,20 @@ provenance_note: "Source-provided solution document; preserved from cache/phoxiv
   Possibly Useful Information. You may use this sheet for both parts of the exam.
      g = 9.8 N/kg                               G = 6.67 × 10−11 N · m2 /kg2
                                 9
-     k = 1/4π0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
+     k = 1/4π 0 = 8.99 × 10 N · m /C   2 2      km = µ0 /4π = 10−7 T · m/A
      c = 3.00 × 108 m/s                         kB = 1.38 × 10−23 J/K
                        23
      NA = 6.02 × 10 (mol)       −1              R = NA kB = 8.31 J/(mol · K)
                      −8
      σ = 5.67 × 10 J/(s · m · K ) 2  4          e = 1.602 × 10−19 C
      1eV = 1.602 × 10     −19 J                 h = 6.63 × 10−34 J · s = 4.14 × 10−15 eV · s
-     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|  1
-     sin θ ≈ θ − 16 θ3 for |θ|  1              cos θ ≈ 1 − 21 θ2 for |θ|  1
+     me = 9.109 × 10    −31  kg = 0.511 MeV/c 2 (1 + x)n ≈ 1 + nx for |x|   1
+     sin θ ≈ θ − 16 θ3 for |θ|   1              cos θ ≈ 1 − 21 θ2 for |θ|   1
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part A                                                3
+
+
+2014 USA Physics Olympiad Exam                Part A                                                3
 
 
 
@@ -121,7 +125,7 @@ Inspired by: http://www.wired.com/wiredscience/2012/04/a-leaning-motorcycle-on-a
    A unicyclist of total height h goes around a circular track of radius R while leaning inward at
 an angle θ to the vertical. The acceleration due to gravity is g.
 
-  a. Suppose h  R. What angular velocity ω must the unicyclist sustain?
+  a. Suppose h   R. What angular velocity ω must the unicyclist sustain?
 
 
                                                Solution
@@ -129,7 +133,7 @@ an angle θ to the vertical. The acceleration due to gravity is g.
      We work in a frame rotating with angular velocity ω, where the unicyclist is static. Four
      forces act on the unicyclist: a normal and frictional force at the point of contact, gravity
      downwards at the center of mass, and a fictitious centrifugal force.
-     If h  R, all parts of the unicyclist are at a distance of approximately R from the center of the
+     If h   R, all parts of the unicyclist are at a distance of approximately R from the center of the
      circle, so the centripetal acceleration of every part of the unicyclist is ω 2 R. The centrifugal
      force can then be taken to act at the center of mass for purposes of computing the torque.
      If the center of mass is a distance l from the point of contact, the torque about the point of
@@ -166,13 +170,15 @@ an angle θ to the vertical. The acceleration due to gravity is g.
 
 
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                    Part A                                         4
+
+
+2014 USA Physics Olympiad Exam                    Part A                                         4
 
 
 
 
      where s is the length along the unicyclist. Then
-                         Z h                                                              
+                         Z h
                                 2                       m                         R h
                   τc =         ω (R − s sin θ)(s cos θ)   ds = mω 2 h cos θ         − sin θ .
                           0                             h                         2  3
@@ -183,8 +189,8 @@ an angle θ to the vertical. The acceleration due to gravity is g.
                                             τg = −mg sin θ.
                                                        2
      Again, the total torque is zero, so τc + τg = 0. Solving for ω gives
-                                       s                            −1
-                                         g             2h
+                                       s                             −1
+                                          g               2h
                                   ω=         tan θ    1−      sin θ     .
                                            R              3R
 
@@ -223,7 +229,9 @@ freezes at 273 K at normal atmospheric pressure.
                                                   Solution
 
                    Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part A                                             5
+
+
+2014 USA Physics Olympiad Exam                Part A                                             5
 
 
 
@@ -236,13 +244,13 @@ freezes at 273 K at normal atmospheric pressure.
                                                   =    .
                                                TH   TL
      Energy conservation states QH = QL + W . Eliminating QH and solving for QL ,
-                                                       
+
                                                   TL
                                       QL = W              .
                                                 TH − TL
 
      Finally, the rate of heat removal is QL /t, so dividing both sides by t,
-                                                             
+
                                           QL            TL
                                               =P                .
                                            t         TH − TL
@@ -266,11 +274,11 @@ freezes at 273 K at normal atmospheric pressure.
                                          (∆T )2 =  (TH − ∆T )
                                                  k
      which is a quadratic in ∆T . Letting x = P/k, we have
-                                           x       p         
+                                           x        p
                                     ∆T =      −1 ± 1 + 4TH /x
                                            2
      but only the positive root has physical significance. Therefore,
-                                               x p                
+                                               x  p
                                   TL = TH −          1 + 4TH /x − 1 .
                                                2
 
@@ -283,7 +291,9 @@ freezes at 273 K at normal atmospheric pressure.
 
 
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam             Part A                           6
+
+
+2014 USA Physics Olympiad Exam             Part A                           6
 
 
 
@@ -300,7 +310,9 @@ freezes at 273 K at normal atmospheric pressure.
 
 
                 Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                        Part A                                             7
+
+
+2014 USA Physics Olympiad Exam                        Part A                                             7
 
 
 
@@ -309,7 +321,7 @@ When studying problems in special relativity it is often the invariant distance 
 events that is most important, where ∆s is defined by
 
                            (∆s)2 = (c∆t)2 − (∆x)2 + (∆y)2 + (∆z)2
-                                                                   
+
 
 
 where c = 3 × 108 m/s is the speed of light.1
@@ -343,7 +355,7 @@ where c = 3 × 108 m/s is the speed of light.1
               suming that we mean “invariant distance” as defined above, find the radius of curvature
               of the projectile’s trajectory as a function of any or all of θ0 , v0 , c, and g. Assume that
               the projectile lands at the same level from which it was launched, and assume that the
-              motion is not relativistic, so v0  c, and you can neglect terms with v/c compared to
+              motion is not relativistic, so v0   c, and you can neglect terms with v/c compared to
               terms without.
 
                                                           Solution
@@ -357,7 +369,9 @@ where c = 3 × 108 m/s is the speed of light.1
 
 
                        Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part A                                                8
+
+
+2014 USA Physics Olympiad Exam                Part A                                                8
 
 
 
@@ -374,7 +388,7 @@ where c = 3 × 108 m/s is the speed of light.1
           Suppose this path subtends an angle θ of a circle of radius R in spacetime. Then
 
                                                                       Rθ2
-                                                                 
+
                                                                 θ
                                  s ≈ Rθ, zmax ≈ R 1 − cos           ≈
                                                                 2      8
@@ -390,7 +404,7 @@ where c = 3 × 108 m/s is the speed of light.1
   b. A rocket ship far from any gravitational mass is accelerating in the positive x direction at a
      constant rate g, as measured by someone inside the ship. Spaceman Fred at the right end
      of the rocket aims a laser pointer toward an alien at the left end of the rocket. The two are
-     separated by a distance d such that dg  c2 ; you can safely ignore terms of the form (dg/c2 )2 .
+     separated by a distance d such that dg   c2 ; you can safely ignore terms of the form (dg/c2 )2 .
 
        i. Sketch a graph of the motion of both Fred and the alien on the space-time diagram
           provided in the answer sheet. The graph is not meant to be drawn to scale. Note that t
@@ -412,13 +426,15 @@ where c = 3 × 108 m/s is the speed of light.1
 
 
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam               Part A                                                9
+
+
+2014 USA Physics Olympiad Exam               Part A                                                9
 
 
 
 
       ii. If the frequency of the laser pointer as measured by Fred is f1 , determine the frequency
-          of the laser pointer as observed by the alien. It is reasonable to assume that f1  c/d.
+          of the laser pointer as observed by the alien. It is reasonable to assume that f1   c/d.
 
                                                 Solution
          To solve this problem, we replace the light with a series of discrete flashes, then find how
@@ -426,7 +442,9 @@ where c = 3 × 108 m/s is the speed of light.1
          light at time t = 0 and a second flash of light at time t = τ , where τ is very small. Let
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam               Part A                                              10
+
+
+2014 USA Physics Olympiad Exam               Part A                                              10
 
 
 
@@ -442,7 +460,7 @@ where c = 3 × 108 m/s is the speed of light.1
                                      c(t2 − t1 − τ ) =     (τ + t21 − t22 ).
                                                          2
          Defining ∆t = t2 − t1 and simplifying, we have
-                                         g              gτ 
+                                          g                gτ
                                  ∆t 1 + (t1 + t2 ) = τ 1 +      ≈τ
                                          2c                2c
          since τ is extremely small, so
@@ -466,7 +484,9 @@ where c = 3 × 108 m/s is the speed of light.1
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                  Part A                                               11
+
+
+2014 USA Physics Olympiad Exam                  Part A                                               11
 
 
 
@@ -497,9 +517,9 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
           the shell is neutral, the enclosed charge is q, so by spherical symmetry
                                                                q
                                                  E(r) =
-                                                             4π0 r2
+                                                             4π 0 r2
 
-          outside the shell. Just outside the shell, the field is q/4π0 b2 .
+          outside the shell. Just outside the shell, the field is q/4π 0 b2 .
 
        ii. Sketch a graph for the magnitude of the electric field along the x axis on the answer
            sheet provided.
@@ -508,14 +528,16 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
           Since the shell is conducting, the electrostatic field is zero inside it. By Gauss’s law, this
           is achieved by having a charge of −q on the inner surface r = a and a charge of q on the
           outer surface r = b, both uniformly distributed.
-          For r < a, we can apply Gauss’s law again to conclude E(r) = 4πq0 r2 , just as it is outside
+          For r < a, we can apply Gauss’s law again to conclude E(r) = 4π q0 r2 , just as it is outside
           the shell.
 
 
 
 
                    Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam               Part A                                              12
+
+
+2014 USA Physics Olympiad Exam               Part A                                              12
 
 
 
@@ -528,7 +550,7 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
          of a point charge q at the origin, so
                                                               q
                                           V (a) = V (b) =          .
-                                                            4π0 b
+                                                            4π 0 b
 
 
       iv. Sketch a graph for the electric potential along the x axis on the answer sheet provided.
@@ -543,7 +565,9 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                 Part A                                             13
+
+
+2014 USA Physics Olympiad Exam                 Part A                                             13
 
 
 
@@ -567,9 +591,9 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
          In any case, by the same logic as in part (a),
                                                            q
                                                 E(r) =
-                                                         4π0 r2
+                                                         4π 0 r2
 
-         outside the shell. Just outside the shell, the field is q/4π0 b2 .
+         outside the shell. Just outside the shell, the field is q/4π 0 b2 .
 
       ii. Sketch a graph for the magnitude of the electric field along the x axis on the answer
           sheet provided.
@@ -584,7 +608,9 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam               Part A                                            14
+
+
+2014 USA Physics Olympiad Exam               Part A                                            14
 
 
 
@@ -600,7 +626,7 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
          By the same logic as in part (a),
                                                           q
                                               V (a) =          .
-                                                        4π0 b
+                                                        4π 0 b
 
 
       iv. Sketch a graph for the electric potential along the x axis on the answer sheet provided.
@@ -624,13 +650,17 @@ has inner radius a and outer radius b; b − a is not negligible. The shell is c
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam          Part A                             15
+
+
+2014 USA Physics Olympiad Exam          Part A                             15
 
 
 
 
                Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam          Part A                             16
+
+
+2014 USA Physics Olympiad Exam          Part A                             16
 
 
 
@@ -646,7 +676,9 @@ If there is still time remaining for Part A, you should review your work for
 
 
                Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                   Part B                                              17
+
+
+2014 USA Physics Olympiad Exam                   Part B                                              17
 
 
 
@@ -690,7 +722,7 @@ frictionless surface; the block is originally at rest.
      potential energy is negligible, so we have ignored it. This assumption also means we can
      ignore the duration of the collision itself in our calculations below.
      Plugging in our result for v1 ,
-                                                2                           r
+                                                  2                           r
                                             m                                      M
                    mv02 − (M + m)                     v02 = mv22   ⇒   v2 =           v0 .
                                            m+M                                    m+M
@@ -701,7 +733,9 @@ frictionless surface; the block is originally at rest.
 
 
                    Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                   Part B                                                  18
+
+
+2014 USA Physics Olympiad Exam                   Part B                                                  18
 
 
 
@@ -729,7 +763,7 @@ frictionless surface; the block is originally at rest.
                                           v3    g    (M + m)(M − m)2
 
      The total time since the first collision is
-                                      r                    s        
+                                      r                      s
                                   2v0       M      M     2v0    β   β
                    t = t1 + t2 =                       =
                                    g      m+M M −m        g    1+β β−1
@@ -760,7 +794,9 @@ frictionless surface; the block is originally at rest.
 
 
                     Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part B                           19
+
+
+2014 USA Physics Olympiad Exam                Part B                           19
 
 
 
@@ -780,7 +816,9 @@ frictionless surface; the block is originally at rest.
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part B                                               20
+
+
+2014 USA Physics Olympiad Exam                Part B                                               20
 
 
 
@@ -798,12 +836,12 @@ and therefore ignore relativistic contraction of lengths or time dilation.
           away from the sheet. By Gauss’s Law, using a cylinder of base area A,
                                                  σA                 σ
                                          2EA =          ⇒    E=
-                                                 0                20
+                                                  0                2 0
           pointing directly away from the sheet in the z direction, or
                                               (
                                           σ      ẑ   above the sheet,
                                      E=     ×
-                                         2      −ẑ below the sheet.
+                                         2       −ẑ below the sheet.
 
 
        ii. Assuming the sheet is moving with velocity ṽ = vx̂ (parallel to the sheet), determine
@@ -831,7 +869,9 @@ and therefore ignore relativistic contraction of lengths or time dilation.
 
 
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                 Part B                                                21
+
+
+2014 USA Physics Olympiad Exam                 Part B                                                21
 
 
 
@@ -855,7 +895,7 @@ and therefore ignore relativistic contraction of lengths or time dilation.
           But the loop also experiences an oppositely directed change in flux of the form
                                                         σ
                                                     A      δ(t),
-                                                        0
+                                                         0
           so the right-hand side of Ampere’s law, including the displacement current term, remains
           zero.
 
@@ -881,7 +921,9 @@ and therefore ignore relativistic contraction of lengths or time dilation.
                                                   Solution
 
                    Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                 Part B                                                 22
+
+
+2014 USA Physics Olympiad Exam                 Part B                                                 22
 
 
 
@@ -896,7 +938,7 @@ and therefore ignore relativistic contraction of lengths or time dilation.
           x̂ direction to observe a magnetic field in the ŷ = ẑ × x̂ direction.
           Furthermore, the magnitudes of the fields satisfied
                                                               1
-                                             B = µ0 0 vE =      vE.
+                                             B = µ0  0 vE =      vE.
                                                               c2
           Combining this with the previous equation,
                                              1         v
@@ -932,7 +974,9 @@ and therefore ignore relativistic contraction of lengths or time dilation.
            with special relativity can help you verify the direction of your result, but is not necessary
            to obtain the correct answer.)
                   Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam                Part B                                                 23
+
+
+2014 USA Physics Olympiad Exam                Part B                                                 23
 
 
 
@@ -950,7 +994,7 @@ and therefore ignore relativistic contraction of lengths or time dilation.
          nitude
                                                  λv         λ v2
                                        E 0 = vµ0       =            .
-                                                 2πr      2π0 r c2
+                                                 2πr      2π 0 r c2
          Physically, this can be explained by length contraction of the positive charges and inverse
          length contraction of the negative charges, which are now stationary. That is, we have
          derived a relativistic effect, second-order in v/c, from the first-order field transformations!
@@ -965,7 +1009,9 @@ and therefore ignore relativistic contraction of lengths or time dilation.
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam      Answer Sheets                          24
+
+
+2014 USA Physics Olympiad Exam      Answer Sheets                          24
 
 
 
@@ -979,7 +1025,9 @@ and therefore ignore relativistic contraction of lengths or time dilation.
 
 
                Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam           Answer Sheets                                        25
+
+
+2014 USA Physics Olympiad Exam           Answer Sheets                                        25
 
 
 
@@ -1001,7 +1049,9 @@ t=0
 
 
                    Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam        Answer Sheets                              26
+
+
+2014 USA Physics Olympiad Exam        Answer Sheets                              26
 
 
 
@@ -1030,7 +1080,9 @@ t=0
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam        Answer Sheets                              27
+
+
+2014 USA Physics Olympiad Exam        Answer Sheets                              27
 
 
 
@@ -1059,7 +1111,9 @@ t=0
 
 
                  Copyright c 2014 American Association of Physics Teachers
-2014 USA Physics Olympiad Exam        Answer Sheets                          28
+
+
+2014 USA Physics Olympiad Exam        Answer Sheets                          28
 
 
 

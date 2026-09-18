@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, extremization]
 ---
 
-A toy train, equipped with a motor, travels along a circular track of radius $R$ at a constant speed of $v$. At a distance of $d<R$ there is a point-like sound source, emitting sound of frequency $f_0$. A microphone is attached to the train. Determine the range of the detected frequency of the sound. (The speed of sound is $c$.) 
+A toy train, equipped with a motor, travels along a circular track of radius $R$ at a constant speed of $v$. At a distance of $d<R$ there is a point-like sound source, emitting sound of frequency $f_0$. A microphone is attached to the train. Determine the range of the detected frequency of the sound. (The speed of sound is $c$.)
  (6 pont)

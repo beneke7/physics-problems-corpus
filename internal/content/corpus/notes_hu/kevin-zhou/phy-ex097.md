@@ -27,7 +27,6 @@ forgóhullám-közelítésben
                                                1
                                   H = ωc a† a + ωa σz + g(a† σ− + aσ+ )
                                                2
-261 11. Időfüggő perturbációelmélet
 
 ahol g a csatolási erősség. E konvenció szerint az atom nulladik és első állapota rendre a gerjesztett és az alapállapot,
 ezért σz pozitív előjellel szerepelhet. Az atom keltő- és annihilációs operátorai σ+ = |e⟩⟨g| és σ− = |g⟩⟨e|.

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [choose-reference-frame, differential-element]
 ---
 
-Two 5-metre long vehicles are travelling one after the other on a highway at a speed of 100 km/h. The distance between the cars is 30 m. Once, the car at the back starts overtaking. It accelerates uniformly until the two cars are next to each other. At this moment the speed of the accelerating car is 130 km/h, which remains constant for the rest of the motion. This car finishes the overtaking manoeuvre by positioning itself 30 m ahead of the other car moving at a constant speed. How long did the overtaking last? 
+Two 5-metre long vehicles are travelling one after the other on a highway at a speed of 100 km/h. The distance between the cars is 30 m. Once, the car at the back starts overtaking. It accelerates uniformly until the two cars are next to each other. At this moment the speed of the accelerating car is 130 km/h, which remains constant for the rest of the motion. This car finishes the overtaking manoeuvre by positioning itself 30 m ahead of the other car moving at a constant speed. How long did the overtaking last?
  (4 pont)

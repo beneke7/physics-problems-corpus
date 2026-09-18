@@ -20,4 +20,4 @@ verification_status: pending
 
 Az alábbi ábrán a telepek ideálisak, $R_{1}=R_{2}=R_{3}=R_{4}=R$, továbbá $\mathcal{E}_{1}=\mathcal{E}_{2}=\mathcal{E}$. Határozzuk meg az ellenállásokban folyó áramokat, azaz az $I_{1}$, $I_{2}$, $I_{3}$ és $I_{4}$ értékét $R$ és $\mathcal{E}$ segítségével.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr12-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr12-fig1.jpg)

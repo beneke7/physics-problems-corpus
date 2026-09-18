@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201805"
 verification_status: pending
 ---
 
-Measure by what percent does a mosquito net (or any similar material) decrease the transparency of a window. 
+Measure by what percent does a mosquito net (or any similar material) decrease the transparency of a window.
  (6 pont)

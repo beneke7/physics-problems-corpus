@@ -28,7 +28,8 @@ the center. The distance between the source and the “biprism” is ℓ, and th
 the distance between the “biprism” and the screen is L.
 
                                                                                    Page 1 of 6
-(a)   (2 points) Taking the center of the circular cross section of the filament as the
+
+(a)   (2 points) Taking the center of the circular cross section of the filament as the
       origin O, find the electric potential at any point (x,z) very near the filament in
       terms of Va, a and b where Va is the electric potential of the surface of the
       filament, a is the radius of the filament and b is the distance between the center of
@@ -60,7 +61,8 @@ the distance between the “biprism” and the screen is L.
 
 
                                                                               Page 2 of 6
-(b)   (4 points) An incoming electron plane wave with wave vector kz is deflected by
+
+(b)   (4 points) An incoming electron plane wave with wave vector kz is deflected by
       the “biprism” due to the x-component of the force exerted on the electron.
       Determine kx the x-component of the wave vector due to the “biprism” in terms of
       the electron charge, e, vz, Va, kz, a and b, where e and vz are the charge and the
@@ -103,7 +105,8 @@ the distance between the “biprism” and the screen is L.
 
 
                                                                                 Page 3 of 6
-(c)   Before the point S, the electrons are emitted from a field emission tip and
+
+(c)   Before the point S, the electrons are emitted from a field emission tip and
       accelerated through a potential V0. Determine the wavelength of the electron in
       terms of the (rest) mass m, charge – and V0,
       (i) (2 points) assuming relativistic effects can be ignored.
@@ -139,7 +142,8 @@ the distance between the “biprism” and the screen is L.
 
 
                                                                               Page 4 of 6
-(d)   In Tonomura et al experiment,
+
+(d)   In Tonomura et al experiment,
                 vz     = c/2,
                 Va     = 10 V,
                 V0     = 50 kV,
@@ -187,7 +191,8 @@ the distance between the “biprism” and the screen is L.
 
 
                                                                                   Page 5 of 6
-    (iv) (2 points) In part (c), determine the percentage error in the wavelength of
+
+    (iv) (2 points) In part (c), determine the percentage error in the wavelength of
          the electron using non-relativistic approximation.
 
      Non-relativistic:

@@ -56,16 +56,18 @@ confusion between sines and cosines.
 
 
                                                           1
-Since we know that the actual acceleration is in the vertical direction from 1(b)(ii), this radial acceleration
+
+
+Since we know that the actual acceleration is in the vertical direction from 1(b)(ii), this radial acceleration
 is a component of the acceleration.
 
                                                           L   u2 L2
                                             a = aradial     =
                                                           h    4h3
 1(b)(v)
-                                                         √ 2
+                                                          √ 2
                                                    u2 L2   L − h2
-                                               
+
                                            m
                                        F =      g−     3
                                            2        4h       h
@@ -104,7 +106,7 @@ Some explanations involving the transverse velocity were not explicit about its 
 transformation.
 2(e)
                                                           V0
-                                          I0 = q                      2
+                                          I0 = q                       2
                                                               1
                                                    R2 + ωL − ωC
 
@@ -113,7 +115,9 @@ though there were a surprising number who made algebraic mistakes (e.g. wrong si
 
 
                                                       2
-                                                                                               √
+
+
+                                                                                               √
 We expected commentary on the phenomenon of resonance for a series RLC circuit, when ω = 1/ LC, and
 were pleased to see that some students also discussed limiting behaviour at small and large ω.
 
@@ -164,7 +168,9 @@ provided if you need further detail.
 
 
                                                       3
-Some were confused about the direction of the current flow, which is parallel to edge a as stated in the
+
+
+Some were confused about the direction of the current flow, which is parallel to edge a as stated in the
 question. The idea is that in the steady-state, there will be some charge build-up to balance the Lorentz
 (magnetic) force.
 4(b)
@@ -218,7 +224,9 @@ Refer to the IPhO solutions (which come in two versions) for details.
 
 
                                                       4
-6      BKT Transition
+
+
+6      BKT Transition
 You are well advised to read up Wikipedia and other accounts of the BKT transition, including materials
 related to the Nobel Prize in Physics 2016, to get a flavour of the physics and mathematics involved. Part
 (b) of this question was adapted largely from the discussion here.

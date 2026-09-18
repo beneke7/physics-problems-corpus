@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 805. Becsüljük meg, hogy a légköri nyomás hányszorosával kell a fokhagymát átsajtolni egy fokhagymaprésen!
 
-![figure](../../raw_html/komal_figures/komal-G805-fig1.gif)
+![figure](../../figures/komal/figures/komal-G805-fig1.gif)

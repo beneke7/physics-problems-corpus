@@ -29,14 +29,14 @@ harmonic, no matter how small the displacements are.)
 Example 1: KK 4.13
 The Lennard–Jones potential
 U(r) = ϵ
-r0
+  r0
 r
-12
+ 12
 − 2
-r0
+ r0
 r
-6
-
+ 6
+
 is commonly used to describe the interaction between two atoms. Find the equilibrium radius
 and the angular frequency of small oscillations about this point for two identical atoms of
 mass m bound to each other by the Lennard–Jones interaction.
@@ -67,7 +67,9 @@ r
 ϵ
 m
 .
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 1 (Morin 5.13). A hole of radius R is cut out from an infinite flat sheet with mass per
 unit area σ. Let L be the line that is perpendicular to the sheet and that passes through the center
 of the hole.
@@ -138,7 +140,9 @@ gives a decent approximation for the period.
 oscillations occur. This is related to Earnshaw’s theorem, which we cover in E1, which tells
 us that no gravitational field (or electrostatic field) in vacuum can have a point that is stable
 in all directions.
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 [2] Problem 2. Some questions about small oscillations with the buoyant force.
 (a) A cubical glacier of side length L has density ρi and floats in water with density ρw. Find
 the angular frequency of small oscillations, assuming that a face of the glacier always remains
@@ -186,11 +190,13 @@ This is called the Basset force, and it turns Newton’s second law into an “i
 equation”, one where the second derivative of the position depends on an integral over all the
 past positions. It has the effect of damping the oscillations (which also slightly decreases their
 frequency). In general, nothing in fluid dynamics is easy.
-[3] Problem 3.  W 1 0USAPhO 1998, problem A2. To avoid some confusion, skip part (a), since there
+[3] Problem 3.   W 1 0USAPhO 1998, problem A2. To avoid some confusion, skip part (a), since there
 actually isn’t a nice closed-form expression for it.
-[3] Problem 4.  W 1 0USAPhO 2009, problem A3.
-[3] Problem 5.  m 1 0USAPhO 2010, problem B1.
-3Kevin Zhou Physics Olympiad Handouts
+[3] Problem 4.   W 1 0USAPhO 2009, problem A3.
+[3] Problem 5.   m 1 0USAPhO 2010, problem B1.
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Example 2
 Find the acceleration of an Atwood’s machine with masses m and M and a massless pulley
 and string.
@@ -233,7 +239,9 @@ the inextensible string doesn’t do any work on the blocks. More generally, whe
 has rigid constraints like this, we can work with a reduced set of generalized coordinates
 which automatically takes the constraints into account. The only cost is that, if you wanted
 to know the values of the constraint forces, you’d have to do an extra step at the end.
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 2
 The idea shown in example 2 is very general. Consider any system whose configuration can
 be described by a single “generalized coordinate” q. If its energy can be decomposed into a
@@ -280,7 +288,9 @@ throughout the rope. But this is unnecessarily complicated, because the system c
 by a single generalized coordinate.
 Let q be the length the rope has moved along the tube. The kinetic energy is λℓq̇2/2. The
 “generalized force” is −∂V/∂q = λgh. So the acceleration is gh/ℓ.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 3
 Generalized coordinates are really useful for problems that involve complicated objects but
 only have one relevant degree of freedom, which is especially true for oscillations problems.
@@ -334,7 +344,9 @@ y =
 2g
 s2
 .
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Taking the derivative with respect to x of both sides, we have
 dy
 dx
@@ -411,7 +423,9 @@ Mr4
 3mg
 r
 .
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Since keff/meff is positive, the motion is stable, and the angular frequency is
 ω =
 s
@@ -482,7 +496,9 @@ L2 ˙ ξ2
 Besides the overall side-to-side center of mass motion of the water, the water also has internal
 motions that can’t be described just in terms of the center of mass moving. However, our result is
 good enough for the purposes of this problem.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Putting this together yields
 E ≈
 ρwL3
@@ -548,7 +564,9 @@ decelerate to half speed, which, in the frame of the train, provides a horizonta
 to the pendulum. Then wait a half-period π
 p
 L/g, so that the pendulum’s momentum
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 turns around, and then quickly stop, providing a second impulse that precisely cancels the
 pendulum’s horizontal motion. Tricks like this are used by crane operators to transport loads,
 and by physicists to transport clouds of ultracold atoms without warming them up.
@@ -602,7 +620,9 @@ m .
 [3] Problem 11 (Morin 4.22). A spring with relaxed length zero and spring constant k is attached
 to the ground. A projectile of mass m is attached to the other end of the spring. The projectile is
 then picked up and thrown with velocity v at an angle θ to the horizontal.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Geometrically, what kind of curve is the resulting trajectory?
 (b) Find the value of v so that the projectile hits the ground traveling straight downward.
 Solution. (a) Let the anchor of the spring be the origin. Then, the force on the particle is
@@ -651,7 +671,9 @@ example in M2. It will not be possible to solve for ω in closed form, but you c
 implicit expression for it. Check that it reduces to the result of part (a) for small m/M, and
 interpret the results for large m/M. This is a challenging problem that requires almost all
 the techniques we’ve seen so far; you might want to return to it after doing section 4.)
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. In the m ≪ M case, we can assume the velocity of a piece of spring that is at position
 a fraction x of the total length is proportional to x. (More precisely, accounting for nonlinear
 stretching of the spring would contribute at higher order.) Therefore, the total kinetic energy of the
@@ -724,7 +746,9 @@ f = −f′′
 0
 f(1) = f′
 (1).
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Defining α =
 p
 m/M for simplicity, solving the first equation gives
@@ -787,11 +811,11 @@ which is the same result found in part (a), to first order.
 For large α, the right-hand side is large, so the tangent must be large. The lowest frequency mode
 has αω ≈ π/2. In this case it’s also useful to look at all the modes, which have αω ≈ (n+1/2)π, so
 ω ≈
-
+
 n +
 1
 2
-
+
 π
 p
 k/m.
@@ -801,13 +825,15 @@ one fixed and one free end! The lowest frequency is the fundamental.
 Jumping ahead a bit, we can compare this with some results from W1. The wavenumbers for
 these boundary conditions are
 kn =
-
+
 n +
 1
 2
-
+
 π
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 and the wave velocity is
 v =
 s
@@ -855,8 +881,8 @@ dx
 ℓ4 − x4
 .
 This integral has units of inverse length, so we must have T ∝ 1/ℓ, so the final answer is T/2.
-[3] Problem 14.  W 1 0USAPhO 2015, problem A3.
-[3] Problem 15.  m 1 0USAPhO 2008, problem B1.
+[3] Problem 14.   W 1 0USAPhO 2015, problem A3.
+[3] Problem 15.   m 1 0USAPhO 2008, problem B1.
 Example 6
 About how accurately can you measure g with a simple pendulum?
 Solution
@@ -867,7 +893,9 @@ string, to avoid stretching. If you measure the wire with a good ruler, you can 
 to ∆L ∼ 1mm. If you use calipers, you can get ∆L ∼ 0.1mm. Assuming the latter gives
 a fractional uncertainty ∆L/L ∼ 10−4.
 • Period: if the length is a meter, the period will be T ≃ 2s. (This isn’t a total coincidence!
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 17th century scientists proposed to define the standard unit of length precisely so this
 would be true.) One might estimate the timing uncertainty to be given by human reaction
 speed, ∆T ∼ 250ms, but this is too pessimistic, because you can see the pendulum
@@ -906,7 +934,9 @@ are larger than the uncertainty from the length and period. But the good thing i
 them can be calculated, and thereby subtracted out, leading to an ultimate final precision of
 ∆g/g ∼ 10−4. That is indeed the best precision achieved during the 1800s, through extensive
 effort. For real measurements and further details, see this paper.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 3 Damped and Driven Oscillations
 We now review damped oscillators, which we saw in M1, and consider driven oscillators. For more
 guidance, see sections 4.3 and 4.4 of Morin.
@@ -934,10 +964,10 @@ s
 k
 m
 −
-
+
 b
 2m
-2
+ 2
 .
 (b) In this limit, we have
 ω± ≈
@@ -961,10 +991,10 @@ km/πb cycles.
 k
 m
 −
-
+
 b
 2m
-2
+ 2
 < 0
 which implies b2 > 4mk.
 [4] Problem 17. Analyzing a damped and driven harmonic oscillator.
@@ -975,7 +1005,9 @@ mẍ + bẋ + kx = F0eiωt
 If x(t) is a complex exponential, then we know that the left-hand side is still a complex
 exponential, with the same frequency. This motivates us to guess x(t) = A0eiωt. Show that
 this solves the equation for some A0.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Of course, the general solution needs to be described by two free parameters, to match the
 initial position and velocity. Argue that it takes the form
 x(t) = A0eiωt
@@ -1020,7 +1052,9 @@ k − mω2
 ω0 =
 p
 k/m.
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 0 1 2 3
 1
 3
@@ -1073,7 +1107,9 @@ which is clearly maximized when ω =
 p
 k/m. Finally, the rate of power dissipation is
 P = F(t)v(t) = −F0v0 cos(ωt)sin(ωt − ϕ) = F0v0 cos(ωt)cos(ωt + (π/2 − ϕ)).
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 As we’ve just seen, v0 is maximized at ω =
 p
 k/m. In addition, the average value of the
@@ -1138,7 +1174,9 @@ The next two problems explore other ways of driving harmonic oscillators.
 [2] Problem 19. Consider a pendulum which can perform small-angle oscillations in a plane with
 natural frequency f. The pendulum bob is attached to a string, and you hold the other end of the
 string in your hand. There are three simple ways to drive the pendulum:
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Move the end of the string horizontally with sinusoidal frequency f′.
 (b) Move the end of the string vertically with sinusoidal frequency f′.
 (c) Apply a quick rightward impulse to the bob with frequency f′.
@@ -1152,7 +1190,7 @@ whenever it is moving down.
 (c) This works as long as the impulse always comes when the object is moving to the right, i.e. in
 the same phase of the object’s oscillation. This happens as long as the impulse’s period is an
 integer multiple of the object’s period, so f′ ≈ f/n.
-[5] Problem 20.  r 1 0GPhO 2016, problem 1. Note that this problem requires using the official answer
+[5] Problem 20.   r 1 0GPhO 2016, problem 1. Note that this problem requires using the official answer
 sheet.
 4 Normal Modes
 Idea 4: Normal Modes
@@ -1172,7 +1210,9 @@ The equations of motion are
 m ¨ x1 = k(x2 − x1 − L)
 m ¨ x2 = k(x1 + L − x2).
 The system must have two normal modes. The obvious one is when the two masses oscillate
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 oppositely, x1 = −x2. The other one is when the two masses move parallel to each other,
 x1 = x2, and this normal mode formally has zero frequency. The initial condition is the
 superposition of these two modes.
@@ -1225,7 +1265,9 @@ x1(t) ≈ acos((ω + ϵ)t)cos(ϵt), x2(t) ≈ asin((ω + ϵ)t)sin(ϵt)
 where ω =
 p
 k/m and ϵ = (κ/2k)ω. Explain qualitatively what the motion looks like. This is an
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 example of beats, which result from the superposition of two oscillations of nearly equal frequencies;
 we will see more about them in W3.
 Solution. The equations of motion are
@@ -1305,7 +1347,9 @@ a conducting cavity, or two quantum states of the same energy, unless there’s 
 [3] Problem 22 (KK 10.11). Two identical particles are hung between three identical springs.
 Neglect gravity. The masses are connected as shown to a dashpot which exerts a force bv, where v
 is the relative velocity of its two ends, which opposes the motion.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Find the equations of motion for x1 and x2.
 (b) Show that the equations of motion can be solved in terms of the variables y1 = x1 + x2 and
 y2 = x1 − x2.
@@ -1348,7 +1392,9 @@ general solution by superposing normal modes, there should be six normal modes. 
 motion in any two distinct directions (e.g. along the x and y axes) to get motion in any
 direction. These modes have zero frequency, since sin(ωt) ∝ t in the limit ω → 0.
 • Uniform rotation about the axis of symmetry.
-23Kevin Zhou Physics Olympiad Handouts
+23
+
+Kevin Zhou Physics Olympiad Handouts
 • A “breathing” motion where the whole triangle expands and contracts.
 • A “scissoring” motion where one mass moves outward and the other two move inward.
 You might think there are three scissoring normal modes, but they are redundant: just
@@ -1380,7 +1426,9 @@ ẍ1 + ẍ2 = 0, ẍ1 − ẍ2 = −4ω2
 0(x1 − x2)
 which tells us the normal mode angular frequencies are zero and 2ω0. These correspond to
 the masses uniformly rotating around the circle together, and to the two moving oppositely.
-24Kevin Zhou Physics Olympiad Handouts
+24
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Defining quantities analogously to part (a), we have
 ẍ1 = −ω2
 0(2x1 − x2 − x3), ẍ2 = −ω2
@@ -1433,7 +1481,9 @@ and we find the same angular frequency for ϕ = 4π/3. These are the two other n
 The pattern should now start to appear. For the general case, we have
 ẍj = −ω2
 0(2xj − xj−1 − xj+1), j = 1,2,...N
-25Kevin Zhou Physics Olympiad Handouts
+25
+
+Kevin Zhou Physics Olympiad Handouts
 and we may again guess uniform phase differences between adjacent masses,
 xj = eiωt
 eiϕj
@@ -1448,14 +1498,14 @@ for an integer 0 ≤ n < N. Plugging this in, each equation of motion gives
 )
 which is equivalent to
 ω = 2ω0 sin
-
+
 ϕ
 2
-
+
 = 2ω0 sin
-πn
+ πn
 N
-
+
 .
 For n = 0,...,N − 1, these are the normal mode angular frequencies.
 As an aside, for N ≫ 1 we can visualize the normal modes as waves propagating around the
@@ -1495,7 +1545,9 @@ levels, outside the bands. For further discussion, see this paper.
 which consists of a pendulum of length ℓ and mass m attached to the bottom of another pendulum,
 of length ℓ and mass m. To solve this problem directly, one has to compute the tension forces in
 the two strings, which are quite complicated. A much easier method is to use energy.
-26Kevin Zhou Physics Olympiad Handouts
+26
+
+Kevin Zhou Physics Olympiad Handouts
 (a) Parametrize the position of the pendulum in terms of the angle θ1 the top string makes with
 the vertical, and the angle θ2 the bottom string makes with the vertical. Write out the kinetic
 energy K and the potential energy V to second order in the θi and ˙ θi.
@@ -1509,18 +1561,18 @@ dt
 ∂θi
 .
 Using the results of part (a), write these equations in the form
-
+
 ¨ θ1
 ¨ θ2
-
+
 = −
 g
 ℓ
 A
-
+
 θ1
 θ2
-
+
 where A is a 2 × 2 matrix. This is a generalization of θ̈ = −gθ/ℓ for a single pendulum.
 (c) Find the normal modes and their angular frequencies, using the general method in section 4.5
 of Morin.
@@ -1565,12 +1617,14 @@ g
 θ2.
 Solving the system, we find
 A =
-
+
 2 −1
 −2 2
-
+
 straightforwardly.
-27Kevin Zhou Physics Olympiad Handouts
+27
+
+Kevin Zhou Physics Olympiad Handouts
 (c) We must find the eigenvalues of the matrix, which obey the equation
 (2 − λ)2
 − 2 = 0
@@ -1578,17 +1632,17 @@ which implies λ = 2 ±
 √
 2. The normal mode amplitudes are
 high frequency :
-
+
 1
 −
 √
 2
-
+
 , low frequency :
-
+
 1 √
 2
-
+
 and the angular frequencies are ω2
 ± = (g/ℓ)(2 ±
 √
@@ -1610,7 +1664,9 @@ its base. Initially, the pearl rests on a small circular disc that is concentric
 and attached to it a distance d from the rotational axis. The rod starts executing simple
 harmonic motion around its original position with small angular amplitude θ0.
 What angular frequency of oscillation is required for the pearl to leave the rod?
-28Kevin Zhou Physics Olympiad Handouts
+28
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The reason the pearl leaves the rod is that the normal force rapidly varies in direction, with
 an average upward component. If this average upward force is greater than gravity, the pearl
@@ -1662,7 +1718,9 @@ the new amplitude is 4
 √
 2A0.
 Amazingly, the question can also be solved in one step using a subtle conserved quantity.
-29Kevin Zhou Physics Olympiad Handouts
+29
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 Sinusoidal motion is just a projection of circular motion. In particular, it’s equivalent
 to think of the mass as being tied to a spring of zero rest length attached to the origin,
@@ -1722,7 +1780,9 @@ k
 √
 km.
 Thus, A ∝ k−1/4 in an adiabatic change of k, recovering the answer found earlier.
-30Kevin Zhou Physics Olympiad Handouts
+30
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 The existence of the adiabatic invariant is hard to see in pure Newtonian mechanics, but
 it falls naturally out of Hamiltonian mechanics, which is built on phase space. In fact,
@@ -1786,7 +1846,9 @@ I
 pdx ∝ θ2
 0L3/2
 g1/2
-31Kevin Zhou Physics Olympiad Handouts
+31
+
+Kevin Zhou Physics Olympiad Handouts
 which implies that when L halves, the amplitude becomes 23/4θ0. Since we kept track of
 factors of g, this derivation also tells us what happens to the amplitude if g is slowly changed.
 The most famous literary example of a pendulum with changing length appears in Edgar
@@ -1843,7 +1905,9 @@ dx
 w
 x
 .
-32Kevin Zhou Physics Olympiad Handouts
+32
+
+Kevin Zhou Physics Olympiad Handouts
 Separating and integrating shows that wx is conserved. We could also have arrived at this by
 the adiabatic theorem,
 I =
@@ -1935,7 +1999,9 @@ x
 Meanwhile, the analogue of volume is one dimension is simply x. Then the conservation of
 wx says that Fx3 is conserved, which means γ = 3. This is exactly what we would expect for
 a one-dimensional gas, where Cv = kB/2 and Cp = 3kB/2.
-33Kevin Zhou Physics Olympiad Handouts
+33
+
+Kevin Zhou Physics Olympiad Handouts
 [3] Problem 27. A block of mass m is bouncing back and forth in a box spanning 0 < x < L, with
 initial speed v0. At time t = 0, the potential energy is slowly raised in part of the box, so that
 V (x,t) =
@@ -1972,7 +2038,9 @@ The mass on the left is given a small horizontal velocity v, and oscillates back
 mass has angular amplitude θ0 ≪ 1.
 (c) Let the masses begin a distance L from the pulleys. Find the speed u of the mass which
 eventually hits the pulley, at the moment it does, in terms of L and the initial amplitude θ0.
-34Kevin Zhou Physics Olympiad Handouts
+34
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) The mass on the right will be higher. If the masses didn’t move up or down, both
 would have the same average y-component of tension. But the mass on the left also has
 an x-component of tension, so its average magnitude of tension would be higher. This is a
@@ -1994,16 +2062,16 @@ mg(1 + cosθ)
 where θ is the angle from the vertical. By energy conservation, the first term is mg(cosθ−cosθ0)
 where θ0 is the amplitude, so
 T =
-
+
 1
 2
 +
 3
 2
 cosθ − cosθ0
-
+
 mg ≈
-
+
 1 +
 θ2
 0
@@ -2012,13 +2080,13 @@ mg ≈
 3
 4
 θ2
-
+
 mg
 where we used the small angle approximation in the second step. Since the motion is approxi-
 mately simple harmonic, the average value of θ2 is θ2
 0/2, so
 T =
-
+
 1 +
 1
 2
@@ -2028,19 +2096,19 @@ T =
 8
 θ2
 0
-
+
 mg > mg
 as expected.
 (c) Of course, you can do this using energy conservation and the adiabatic invariant. But we can
 also directly use the result of part (b) to solve it by considering forces.
 As we’ve seen above,
 T =
-
+
 1 +
 1
 8
 θ2
-
+
 mg
 where θ is the amplitude. Let x be the distance the right mass has risen. From the standpoint
 of the left mass, it is simply a pendulum whose length is being adiabatically lengthened, so
@@ -2061,12 +2129,12 @@ mg
 4
 Lθ2
 0
-
+
 1 −
 1
 √
 2
-
+
 .
 This is the net work done on the right mass, so setting this equal to mu2/2 gives
 u =

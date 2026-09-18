@@ -29,7 +29,9 @@ SOLUTION OF EXPERIMENT PROBLEM 2
 
                        no.1        no.3           no.2
                      [0.5 pts]    [0.5 pts]       [0.5 pts]
-3. Additional information [total 1.0 pts]:
+
+
+3. Additional information [total 1.0 pts]:
 
 
 
@@ -42,7 +44,9 @@ SOLUTION OF EXPERIMENT PROBLEM 2
  Lines of grating no.1 is at                      Lines of grating no. 2
  right angle to the slit                          is parallel to the slit
       [0.3 pts]                                          [0.3 pts]
-4. Diffraction grating [total 2.0 pts]:
+
+
+4. Diffraction grating [total 2.0 pts]:
 
                          ∆
                                                       drawing and labels should be complete
@@ -78,7 +82,9 @@ SOLUTION OF EXPERIMENT PROBLEM 2
 
 
 Note: true value of grating spacing is 2.0 µm, deviation of the result ≤ 10%
-5. Diffraction grating [total 2.0 pts]:
+
+
+5. Diffraction grating [total 2.0 pts]:
      For the derivation of the formula, see nr.4 above.
                                                                                   [1.0 pts]
 
@@ -97,7 +103,9 @@ Note: true value of grating spacing is 2.0 µm, deviation of the result ≤ 10%
 
 
 Note: true value of grating spacing is 1.0 µm, deviation of the result ≤ 10%
-6. Plan-parallel plate [total 2.0 pts]:
+
+
+6. Plan-parallel plate [total 2.0 pts]:
 
 
 

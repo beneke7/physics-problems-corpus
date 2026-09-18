@@ -49,7 +49,9 @@ Problem E2- Solution
                                                             S2-2
 
                                  1
-                                                  A.2
+
+
+                                                  A.2
 80
 
 70                y = 229.10x - 116.84
@@ -82,7 +84,9 @@ m
 
 
                                                     2
-                                                    S2-3
+
+
+                                                    S2-3
 
                  B.1
 number m         𝜃𝑚 (degrees)         𝜃𝑚 2 (rad2)
@@ -114,7 +118,9 @@ number m         𝜃𝑚 (degrees)         𝜃𝑚 2 (rad2)
 
 
                           3
-                                                                                         S2-4
+
+
+                                                                                         S2-4
 
                                                   B.3
 35
@@ -153,7 +159,9 @@ m
 
 
                                                    4
-                                                S2-5
+
+
+                                                S2-5
                      C.1
 number   m       𝜃𝑚 (degree)      𝜃𝑚 2 (rad2)
   1      1          5.75           0.01007
@@ -183,7 +191,9 @@ number   m       𝜃𝑚 (degree)      𝜃𝑚 2 (rad2)
 
 
                        5
-                                                                                  S2-6
+
+
+                                                                                  S2-6
 
                                              C.3
 
@@ -225,7 +235,9 @@ m
 
 
                                               6
-                                                            S2-7
+
+
+                                                            S2-7
 
           D.1                          D.3
 number    m     𝜃𝑚 (degree)        u                w
@@ -269,7 +281,9 @@ u=                            w=
 
 
                                7
-                                                                                          S2-8
+
+
+                                                                                          S2-8
 
                                                     D.4
 0.55000
@@ -314,7 +328,9 @@ w
 
 
                                                      8
-                                                                                     S2-9
+
+
+                                                                                     S2-9
 Theoretical calculations:
 B.2 & C.2:
                              𝐻                                𝐻
@@ -371,7 +387,9 @@ D.2:
 
 
                                                    9
-                                                                              S2-10
+
+
+                                                                              S2-10
 Error calculations:
 Linear equation slope and intercept uncertainties:
                           1  1

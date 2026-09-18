@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [conservation-laws, differential-element]
 ---
 
-A variable capacitor with an initial capacitance of $C_0$ is charged to a voltage of $U_0$ and short-circuited through a resistor of resistance $R$. 
- $a)$ How long and how should we vary the capacitance of the capacitor so that the current remains constant when the capacitor is discharged? 
- $b)$ Determine the ratio of the initial energy of the capacitor to the heat dissipated by the resistor. Explain your results. 
+A variable capacitor with an initial capacitance of $C_0$ is charged to a voltage of $U_0$ and short-circuited through a resistor of resistance $R$.
+ $a)$ How long and how should we vary the capacitance of the capacitor so that the current remains constant when the capacitor is discharged?
+ $b)$ Determine the ratio of the initial energy of the capacitor to the heat dissipated by the resistor. Explain your results.
  (5 pont)

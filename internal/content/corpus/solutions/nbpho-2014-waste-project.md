@@ -23,17 +23,17 @@ energy of the ship E = −GMm
 2a
 needs to be as
 small as possible. Here, M is the mass of the
-Sun, m  the mass of the space ship, and a 
+Sun, m   the mass of the space ship, and a
 the longer semiaxis. So, a needs to be as large as
 possible, which means that the perihelion needs
 to lie at the surface of the Sun, in which case
 2a = RE +rS, where RE is the orbital radius of
-the Earth and rS  the radius of the Sun. The
+the Earth and rS   the radius of the Sun. The
 resulting trajectory is depicted below.
 E a rt h ’s o rb it
 Sun
 2) If we neglect the radius of the Sun, the space
-ship needs to fall directly to the Sun, which
+ship needs to  fall  directly to the Sun, which
 means that its initial orbital speed must be zero,
 hence its trajectory is an ellips with longer semi-
 axis equal to RE/2. According to the Kepler's
@@ -83,10 +83,10 @@ RE + rS
 = v0
 r
 2sin
-
+
 α
 2
-
+
 ≈ v0
 √
 α.

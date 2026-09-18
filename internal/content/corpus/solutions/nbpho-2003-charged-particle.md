@@ -32,7 +32,7 @@ menta given to the particle in diﬀerent mo-
 ments of time. During the time interval ∆t, all
 the component-vectors are rotated by the angle
 2π∆t/TB = τBq/m. Thus, with each impulse,
-a vector  P with modulus P = Eqτ is added; the
+a vector   P with modulus P = Eqτ is added; the
 angle between the lastly added vector, and the
 previouslyadded vector is α = ∆tBq/m.
 5) All these vectors, when added according
@@ -56,9 +56,9 @@ endpointoftheparticlesmomentumlies onthat
 circle. Thus, averaged over the moments of time
 2n∆t, the averagevelocity is vx = −Eqτ/2m.
 For odd number of impulses, one has to add
-the lastly given momentum  P = (Eqτ,0);
+the lastly given momentum   P = (Eqτ,0);
 hence, a similar circle is formed, except that the
-centeris shiftedby  P: thecentercoordinatesare
+centeris shiftedby   P: thecentercoordinatesare
 mvx = Eqτ/2, mvy = 0. Correspondingly,
 averaged over the moments of time 2n∆t, the
 average velocity is vx = +Eqτ/2m. Averaged

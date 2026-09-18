@@ -22,7 +22,7 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, model-reduction]
 ---
 
-What is the wavelength of an electron if its kinetic energy is 
- $a)$ $1.75\cdot 10^{-16}$ J; 
- $b)$ 20 GeV? 
+What is the wavelength of an electron if its kinetic energy is
+ $a)$ $1.75\cdot 10^{-16}$ J;
+ $b)$ 20 GeV?
  (5 pont)

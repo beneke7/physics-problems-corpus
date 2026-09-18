@@ -31,4 +31,4 @@ Eγ = ∆ −
 .
 It’s a bit lower than the obvious answer, because of the kinetic energy of the recoiling atom. For
 nuclei decaying and emitting gamma rays, this difference can be measured with nuclear spectroscopy.
-[2] Problem 4.  W 1 0USAPhO 2012, problem A1.
+[2] Problem 4.   W 1 0USAPhO 2012, problem A1.

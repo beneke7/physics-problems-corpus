@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [model-reduction, limiting-and-special-cases]
 ---
 
-How will a beam of light travel after it passes a diverging lens if its extension passes a point on the principal axis of the lens which is on the other side of the diverging lens at a distance of twice the focal length, measured from the lens? 
+How will a beam of light travel after it passes a diverging lens if its extension passes a point on the principal axis of the lens which is on the other side of the diverging lens at a distance of twice the focal length, measured from the lens?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4666-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4666-fig1.gif)

@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [graphical-reduction, conservation-laws]
 ---
 
-A sample of helium is taken through the processes shown in the figure. How much thermal energy is absorbed during the process? 
+A sample of helium is taken through the processes shown in the figure. How much thermal energy is absorbed during the process?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P5051-fig1.gif)
+![figure](../../figures/komal/figures/komal-P5051-fig1.gif)

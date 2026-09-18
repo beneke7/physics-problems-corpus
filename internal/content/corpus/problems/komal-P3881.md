@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-Two similar inlined planes are attached to each other such that their edges at the bottom touch each other. A small uniform disk of radius r is placed to the inclined planes horizontally. The disk is moved out of its equilibrium position, and begins to oscillate without slipping. Find the period of the motion. 
+Two similar inlined planes are attached to each other such that their edges at the bottom touch each other. A small uniform disk of radius r is placed to the inclined planes horizontally. The disk is moved out of its equilibrium position, and begins to oscillate without slipping. Find the period of the motion.
  (5 pont)

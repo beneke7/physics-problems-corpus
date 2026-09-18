@@ -62,7 +62,9 @@ Example 11
                                        g(h1 + h2 ) = 2v1 v2 .
 
                                                 14
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
        Applying mass conservation again leads to a quadratic in h2 ,
 

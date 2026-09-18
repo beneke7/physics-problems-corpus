@@ -51,13 +51,13 @@ Now transform to the frame moving with the flatcar. When the second man jumps, h
 imparts a further velocity v2 = mu/(M +m) to the flatcar by another similar argument. The
 final velocity of the flatcar relative to the ground is then
 v = v1 + v2 = mu
-
+
 1
 M + 2m
 +
 1
 M + m
-
+
 .
 It might be a bit disturbing that the final speeds and hence energies of the flatcar are
 different, even though the men are doing the same thing (i.e. expending the same amount of
@@ -96,10 +96,10 @@ dx
 mtotu
 M + xmtot
 = log
-
+
 M + mtot
 M
-
+
 u.
 Note that this is essentially the rocket equation, which we’ll derive in a different way in M6.
 [2] Problem 5 (KK 4.11). A perfectly flexible chain of mass M and length ℓ is suspended vertically

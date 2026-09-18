@@ -23,7 +23,7 @@ source_role: explanatory_example
 ---
 Example. Spin 1/2. The Hilbert space is two-dimensional, and the operators that measure spin
 about each axis are
-                                                                    
+
                      ℏ           0 1             0 −1              1 0
                  Si = σi , σx =        , σy =            , σz =            .
                      2           1 0             i 0               0 −1

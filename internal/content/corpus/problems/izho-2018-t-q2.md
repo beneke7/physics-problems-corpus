@@ -26,7 +26,7 @@ techniques: [differential-element, limiting-and-special-cases]
 ## Problem 2 (10.0 points) <br> Physics in the mountains
 
 The atmosphere of a real planet, such as the Earth, has a rather complex structure in view of the great variety of processes and phenomena involved in its formation. In this problem we will consider two simple models of the lower layer of the atmosphere, called the troposphere, which extends to an altitude of 10-15 km above the Earth's surface. To understand the physics of some phenomena it is sufficient to consider the Earth's atmosphere consisting of a singlecomponent diatomic gas with the molar mass
-![](izho-2018-t-q2-fig01.png)
+![](../../figures/izho/figures/izho-2018-t-q2-fig01.png)
 $\mu_{\text {air }}=28.9 \cdot 10^{-3} \mathrm{~kg} / \mathrm{mole}$.
 
 ## Part 1. Isothermal atmosphere

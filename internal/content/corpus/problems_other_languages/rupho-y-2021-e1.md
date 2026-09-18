@@ -46,7 +46,7 @@ techniques: [graphical-reduction, scaling-and-dimensional-analysis, model-reduct
 15. Малярный скотч
 16. Ножницы и бумага (по требованию)
 
-![](rupho-y-2021-e1-fig01.png)
+![](../../figures/rupho-y/figures/rupho-y-2021-e1-fig01.png)
 
 Датчик освещенности следует собрать по приведенной схеме, включив в качестве резистора выданное вам сопротивление 10 кОм. Обратите внимание на полярность подключений!
 

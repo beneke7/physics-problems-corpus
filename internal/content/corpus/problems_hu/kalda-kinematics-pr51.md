@@ -28,4 +28,4 @@ iii) Vizsgáljuk most azt az esetet, amikor három autó — az $A$, $B$ és $C$
 
 iv) Tegyük fel, hogy a GPS-készülékek már a kanyarok bevételének időszakát is rögzítik. Vázoljunk új, megfelelő grafikont a $B-C$ párra. A kanyarok görbülete elég kicsi ahhoz, hogy az autók továbbra is tarthassák $v$ sebességüket.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr51-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr51-fig1.jpg)

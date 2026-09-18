@@ -23,5 +23,5 @@ techniques: [limiting-and-special-cases, conservation-laws]
 ---
 
 Using the data of tables determine the error by which a sample of saturated water vapour in a pressure-cooker at a temperature of $120\;{}^\circ\rm
-C$ can be considered ideal with respect to density. 
+C$ can be considered ideal with respect to density.
  (3 pont)

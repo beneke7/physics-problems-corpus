@@ -49,7 +49,7 @@ lecsengő exponenciálisnak kell lennie:
                                              e            x>0
 
 A delta-függvény az origóban megváltoztatja a meredekséget, g ′ ψ(0) = (ℏ2 /2m)∆ψ ′, amiből
-                                               Z ∞            2
+                                                Z ∞             2
                                         g2m
                                    E0 =                V (x) dx .
                                         2ℏ2       −∞
@@ -62,7 +62,6 @@ ahol a sebességoperátort általában a Hamilton-egyenletek definiálják:
                                                    ∂H
                                               v=      .
                                                    ∂p
-132 5. A kvantummechanika alapjai
 
 Egyszerű esetekben, amikor a kinetikus tag p2 /2m, ebből következik
 
@@ -105,7 +104,7 @@ Most a várható értékek néhány azonosságát vizsgáljuk; ezeket általába
     egyenleteknek látszik.
 
   • Mindkét oldal várható értékét véve olyan eredményt kapunk, amely független a képtől:
-                                                                
+
                                   d        i                 ∂A
                                      ⟨A⟩ = ⟨[H(t), A]⟩ +           .
                                   dt       ℏ                  ∂t
@@ -114,7 +113,6 @@ Most a várható értékek néhány azonosságát vizsgáljuk; ezeket általába
     várható értéke állandó. A klasszikus határesetben A eloszlása általában élesen csúcsosra választható,
     így e várható érték határozott klasszikus értékké válik, és visszakapjuk a megmaradási törvény
     klasszikus fogalmát.
-133 5. A kvantummechanika alapjai
 
 
   • Általában Ehrenfest-relációnak nevezünk egy olyan kvantumos várhatóérték-relációt, amely egy

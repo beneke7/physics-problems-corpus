@@ -49,7 +49,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        experiences a sound of frequency f0 (1 + v/c) by the Doppler effect, and this is the frequency
 
                                                        2
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
        it reflects. Since you’re walking towards the wall, a second Doppler effect occurs, caus-
        ing you to hear frequency f0 (1 + 2v/c). (We also saw this “double Doppler shift” back in R1.)

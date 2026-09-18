@@ -27,7 +27,7 @@ $$
 [2.5+2.5+1+2+2=10]
 $$
 
-![](inpho-2011-a2-fig01.png)
+![](../../figures/inpho/figures/inpho-2011-a2-fig01.png)
 
 (a) Consider the point $P$ on the screen at distance $y$ from $O\left(S_{1} O=S_{2} O ; O P=y\right)$. Obtain the expression for the optical path difference $\Delta x$ in terms of the refractive indices and the lengths mentioned in the problem.
 

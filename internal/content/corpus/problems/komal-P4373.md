@@ -22,11 +22,11 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-Bodies of mass m =0.5 kg, resting on a horizontal frictionless tabletop, are connected with an unstretched spring of length L =20 cm, and of spring constant D =16 N/m. The mass of the spring is negligible. At a certain moment the bodies are given an initial speed of v $_{0}$=0.36 m/s, towards the wall on the right. The body at the right collides with the wall totally elastically. 
- a ) What is the greatest compression of the spring during the motion? 
- b ) After the collision with the wall how much time elapses until the moment when the bodies are the closest? 
- c ) Will there be any other collision with the wall later? How will the system of bodies move if a long enough time elapses? d ) What is the change in the linear momentum of the system after all collisions occurred? 
+Bodies of mass m =0.5 kg, resting on a horizontal frictionless tabletop, are connected with an unstretched spring of length L =20 cm, and of spring constant D =16 N/m. The mass of the spring is negligible. At a certain moment the bodies are given an initial speed of v $_{0}$=0.36 m/s, towards the wall on the right. The body at the right collides with the wall totally elastically.
+ a ) What is the greatest compression of the spring during the motion?
+ b ) After the collision with the wall how much time elapses until the moment when the bodies are the closest?
+ c ) Will there be any other collision with the wall later? How will the system of bodies move if a long enough time elapses? d ) What is the change in the linear momentum of the system after all collisions occurred?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4373-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4373-fig1.gif)

@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, smart-coordinates]
 ---
 
-in KöMal, issue 3, 2020.) 
+in KöMal, issue 3, 2020.)
  (5 pont)

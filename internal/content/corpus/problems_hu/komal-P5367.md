@@ -9,7 +9,7 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 5367. Két kis méretű fémgolyót egymástól $d$ távolságban szigetelő állványokon rögzítettünk, majd mindegyikre $Q$ töltést juttattunk. 
- $a)$ Ábrázoljuk vázlatosan az ekvipotenciális felületeket! 
- $b)$ Milyen potenciálhoz tartozó felület ,,öleli körül'' mindkét töltött golyót? 
+P. 5367. Két kis méretű fémgolyót egymástól $d$ távolságban szigetelő állványokon rögzítettünk, majd mindegyikre $Q$ töltést juttattunk.
+ $a)$ Ábrázoljuk vázlatosan az ekvipotenciális felületeket!
+ $b)$ Milyen potenciálhoz tartozó felület ,,öleli körül'' mindkét töltött golyót?
  A Kvant nyomán

@@ -26,19 +26,19 @@ techniques: [conservation-laws]
 ## Question 4
 
 Trish is moving boxes of photocopy paper on a trolley. The top of the trolley is flat, and a box sits on it as shown. Trish pushes the trolley, accelerating it to the left, as shown. Which of the following diagrams correctly shows the forces acting on the box as it is accelerating to the left? The length of the force arrows is proportional to the size of the force. Ignore air resistance.
-![](aupho-2019-q4-fig01.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig01.png)
 
-![](aupho-2019-q4-fig02.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig02.png)
 a.
 
-![](aupho-2019-q4-fig03.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig03.png)
 b.
 
-![](aupho-2019-q4-fig04.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig04.png)
 c.
 
-![](aupho-2019-q4-fig05.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig05.png)
 d.
 
-![](aupho-2019-q4-fig06.png)
+![](../../figures/aupho/figures/aupho-2019-q4-fig06.png)
 e.

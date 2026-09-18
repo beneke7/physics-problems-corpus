@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [differential-element, cross-domain-analogy]
 ---
 
-In a long cylindrical metal wire of radius $r$ and of resistivity $\varrho$, a current of strength $I$ flows in a uniform distribution. The wire has a constant surface temperature $T_0$. Determine the temperature of the wire on its axis of symmetry if it is known that the metal has a coefficient of thermal conductivity of $\lambda$. 
+In a long cylindrical metal wire of radius $r$ and of resistivity $\varrho$, a current of strength $I$ flows in a uniform distribution. The wire has a constant surface temperature $T_0$. Determine the temperature of the wire on its axis of symmetry if it is known that the metal has a coefficient of thermal conductivity of $\lambda$.
  (6 pont)

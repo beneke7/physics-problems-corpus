@@ -70,7 +70,9 @@ as a result, the body with the heat capacity С cools down by the temperature dT
         Equations (1) and (2) with the initial condition T = T0 have a solution
               T (t ) = Tx + (T0 − Tx )e −  t ,                                                     (3)
 where  =  / C is a constant.
-V International Zhautykov Olympiad/Theoretical Competition                              Page 2/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                              Page 2/12
 
 
         Let the body be cooled from the temperature T0 to the temperature T1 for a certain time
@@ -124,7 +126,9 @@ of 2019 Ohms and the coil with the inductance of 1.00 ∙ 10−2 𝐻𝑛.
 
                                          Content                                        Points
 The phase shift is zero                                                                   1
-V International Zhautykov Olympiad/Theoretical Competition                                 Page 3/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                                 Page 3/12
 
 
                               Without justification                                         (0,5)
@@ -195,7 +199,9 @@ and, therefore, the work sought is found by integrating as
 2.5 Let the point-like charge be slowly moved from the initial position to infinity such that the
 resulting current strength in the ball is negligibly small and the release of Joule heat can be omitted.
 Let 𝑊𝑞 be the energy of the point-like charge 𝑞, 𝑊𝑄 be the sought interaction energy of induced
-V International Zhautykov Olympiad/Theoretical Competition                                 Page 4/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                                 Page 4/12
 
 
 charges, 𝑊𝑄𝑞 be the interaction energy of the point charge 𝑞 with the induced charges, which is
@@ -261,7 +267,9 @@ angle 𝜃 and, due to the smallness of 𝑎, is equal to
 2.9 Consider a thin cylinder near the surface of the conductor and apply the Gauss theorem to it.
 Since the field inside the conductor is absent, and is directed normally just outside of it, then
 according to the Gauss theorem
-V International Zhautykov Olympiad/Theoretical Competition                                 Page 5/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                                 Page 5/12
 
                               𝜎𝑆
                        𝐸𝑆 = 𝜀 ,                                                                    (31)
@@ -328,7 +336,9 @@ which is a harmonic equation with the frequency
                                         0
 2.11 There is no need to integrate formula (40). In the initial position, the conducting ball is not
 polarized and in the final state it is also not polarized, since at zero and at infinity separations the
-V International Zhautykov Olympiad/Theoretical Competition                                                   Page 6/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                                                   Page 6/12
 
 
 electric field of the ring vanishes. Therefore, it is immediately inferred from the law of energy
@@ -412,7 +422,9 @@ conservation that
                                    𝜎𝑆
   2.9    Formula (31) 𝐸𝑆 = 𝜀                                                                               0,2      0,4
                                        0
-V International Zhautykov Olympiad/Theoretical Competition                               Page 7/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                               Page 7/12
 
 
          Formula (32) 𝐸 = 3𝐸0 cos 𝜃                                                    0,2
@@ -479,7 +491,9 @@ Accordingly, the difference in the populations of the excited and ground states 
 3.3 Even with the intensity of the pumping light flux tending to infinity, the population inversion in
 the two-level system cannot be achieved, therefore, the laser light flux cannot be amplified in this
 system.
-V International Zhautykov Olympiad/Theoretical Competition                               Page 8/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                               Page 8/12
 
 
 
@@ -537,7 +551,9 @@ generation flux
                      2rSl
                 N=        IG                                                                    (12)
                        c
-V International Zhautykov Olympiad/Theoretical Competition                             Page 9/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                             Page 9/12
 
 
 and substituting it into equation (10), one gets
@@ -597,7 +613,9 @@ of one quantum
                  = = 3,83 10−19 J ,                                                           (23)
                    
 therefore, the pumping energy intensity is obtained as
-V International Zhautykov Olympiad/Theoretical Competition                                Page 10/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                                Page 10/12
 
 
                                                W
@@ -650,7 +668,9 @@ calculated by the formula
                     −1
                f =       .                                                                       (34)
                       
-V International Zhautykov Olympiad/Theoretical Competition                              Page 11/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition                              Page 11/12
 
 
 
@@ -714,7 +734,9 @@ calculated by the formula
                              KT
          Numerical value: nth = 5,83 10−3                                            0,2
  3.12    The intensity of the laser light flux: I G = 0                               0,1      1,0
-V International Zhautykov Olympiad/Theoretical Competition    Page 12/12
+
+
+V International Zhautykov Olympiad/Theoretical Competition    Page 12/12
 
 
                                         nth        n

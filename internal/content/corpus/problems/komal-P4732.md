@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201504"
 verification_status: pending
 ---
 
-In a cyclotron protons, deuterons and $\alpha$-particles are accelerated. The radius of the greatest circular path is 50 cm. The magnitude of magnetic flux density is 1 Tesla. To what greatest energy can these particles be accelerated in this cyclotron? 
+In a cyclotron protons, deuterons and $\alpha$-particles are accelerated. The radius of the greatest circular path is 50 cm. The magnitude of magnetic flux density is 1 Tesla. To what greatest energy can these particles be accelerated in this cyclotron?
  (4 pont)

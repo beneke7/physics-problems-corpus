@@ -20,4 +20,4 @@ verification_status: pending
 
 Egy fiú az $O P$ öbölparton lakik; az öböl $M O P$ alakú (lásd az ábrát). A két part $\alpha$ szöget zár be. A fiú háza az $A$ pontban van, a parttól $h$, $\sqrt{h^{2}+l^{2}}$ távolságra az $O$ ponttól. Horgászni az $O M$ partra szeretne menni. Mekkora $x$ távolságra legyen a horgászhely az $O$ ponttól, hogy a háztól a lehető legrövidebb idő alatt érjen oda? Mennyi ez az idő? A fiú a szárazföldön $v$, csónakkal pedig $u<v$ sebességgel mozog.
 
-![ábra](../../sources/kalda/figures/kalda-kinematics-pr17-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-kinematics-pr17-fig1.jpg)

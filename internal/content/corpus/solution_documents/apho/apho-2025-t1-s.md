@@ -82,7 +82,8 @@ dimensionless constant, we get hmax = 21.9 km.                Due to symmetry, t
                                                                                         z 2 + d2SE
 
                                                           1
-Using these three equations and integrating over the            Solution II: By integration of potential. Let us take
+
+Using these three equations and integrating over the            Solution II: By integration of potential. Let us take
 mass of the ring we get the net field on the axis at         a point P in the plane of the sung ring at distance r
 arbitrary position:                                          from the center (see Figure B.3 ).
                                 z
@@ -157,7 +158,8 @@ The field points radially outwards.
 
 
                                                          2
-            ( 2ϖ
+
+            ( 2ϖ
 Using that 0 cos2 φ dφ = ϱ (from the analogy with              The density of the homogeneous Earth is ↽ =
 the calculation of real power in AC circuits), the in-         3ME /(4ϱRe2 Rp ), so the mass of one of the excess re-
 tegral can be evaluated:                                       gions is the following:
@@ -236,7 +238,8 @@ The volume of one of the excess regions is:
          2 3 e         3 e           3 e
 
                                                            3
-  Task C.2.                                       Pts          where we used our previous result for ⇁ . After simpli-
+
+  Task C.2.                                       Pts          where we used our previous result for ⇁ . After simpli-
   Idea that the net torque acting on a perfect    0.1          fying:
   sphere is zero (even if it was done inher-                                      3 GMS hmax
                                                                             !1 =               cos α.
@@ -315,7 +318,8 @@ can be expressed:                                              so we get
                          5 ME R ω sin α                                    !1   ⇁1         MS /d3SE
 
                                                            4
-The ratio of the periods is the inverse of this:
+
+The ratio of the periods is the inverse of this:
 
              T2         MS /d3SE
                 =                     .

@@ -58,7 +58,9 @@ C is defined by the ratio of charge to potential difference, then
      Q
 C= .            (0.1)
      V
-                                                      −1
+
+
+                                                      −1
                                 C       Q2 
 Using the answer to 1.3, we get     
                                   = 1−                       (0.2)
@@ -114,7 +116,9 @@ Ignoring terms of order x 2 in the answer to 2.2., we get
 2.4)
 There are two springs placed in series with the same spring constant, k , then the
 mechanical force is
-Fm = −2 k x . (The coefficient (2) has (0.2))
+
+
+Fm = −2 k x . (The coefficient (2) has (0.2))
 Combining this result with the answer to 2.4 and noticing that these two forces are in the
 opposite directions, we get
                                                     ε AV 2 
@@ -164,7 +168,9 @@ Noting that Vs =     one obtains
         CS + 2
               d − x2
                                          for final result)
-Note: Students may simplify the above relation using the approximation d 2 >> x 2 . It does
+
+
+Note: Students may simplify the above relation using the approximation d 2 >> x 2 . It does
 not matter in this section.
 
 3.2)
@@ -213,7 +219,9 @@ The maximum displacement is
 xmax =     .
         k
 Moreover, from the result obtained in 3.2, we have
-          2ε 0 A xmax
+
+
+          2ε 0 A xmax
 VS = V     2
         d C S + 2ε 0 A d
 This should be the same value given in the problem, 0.15 V .

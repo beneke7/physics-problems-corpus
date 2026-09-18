@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, smart-coordinates]
 ---
 
-The focal length of the objective lens of a camera is 3 cm. A photo is taken about a distant object and then the image is enlarged by a scale factor of three. What is observed to be greater, the object or its image on the picture? By what factor is the greater one larger than the other? 
+The focal length of the objective lens of a camera is 3 cm. A photo is taken about a distant object and then the image is enlarged by a scale factor of three. What is observed to be greater, the object or its image on the picture? By what factor is the greater one larger than the other?
  (4 pont)

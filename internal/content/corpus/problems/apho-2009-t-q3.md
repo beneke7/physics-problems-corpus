@@ -25,12 +25,12 @@ verification_status: pending
 
 The purpose is to estimate the lifetime of a (hemispherical) drop of a liquid sitting on top of a very thin layer of vapour which is thermally insulating the drop from the very hot plate below.
 
-![](apho-2009-t-q3-fig01.png)
+![](../../figures/apho/figures/apho-2009-t-q3-fig01.png)
 Figure 1
 
 It will be assumed here that the flow of vapour underneath the drop is streamline and behaves as a Newtonian fluid of viscosity coefficient $\eta$ and of thermal conductivity $\mathcal{K}$. The specific latent heat of vaporization of the liquid is $\ell$. And for a Newtonian fluid we have the shear stress $\frac{F}{A}=\eta \times$ the rate of shear $\frac{d v}{d z}$ where $v$ is the flow velocity and $z$ is the perpendicular distance to the direction of flow, and the direction of $F$ is tangential to the surface area $A$.
 
-![](apho-2009-t-q3-fig02.png)
+![](../../figures/apho/figures/apho-2009-t-q3-fig02.png)
 Figure 2
 
 $v$ is the velocity of vapour in the radial direction at the height $z$ above the mid-plane. The pressure $P$ inside the vapour must be higher towards the centre O. This will result in the out-flowing of

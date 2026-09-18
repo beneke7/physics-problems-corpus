@@ -11,8 +11,8 @@ provenance_note: "KöMaL official solution (Hungarian)"
 **Megoldás.**
  Többféle kapcsolás is megoldja a problémát. Ezek között van olyan is, amelyik a kettős kapcsolónak nem minden csatlakozópontját használja ki.
 
-![solution figure](../../raw_html/komal_figures/komal-G663-sol-fig1.gif)
+![solution figure](../../figures/komal/figures/komal-G663-sol-fig1.gif)
 
-![solution figure](../../raw_html/komal_figures/komal-G663-sol-fig2.gif)
+![solution figure](../../figures/komal/figures/komal-G663-sol-fig2.gif)
 
-![solution figure](../../raw_html/komal_figures/komal-G663-sol-fig3.gif)
+![solution figure](../../figures/komal/figures/komal-G663-sol-fig3.gif)

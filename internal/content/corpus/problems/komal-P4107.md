@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 200811"
 verification_status: pending
 ---
 
-A small beetle of mass m is slowly crawling out from the bottom of a hemi-sphere shaped shell. The mass of the shell is M and its radius is  R . How much work does the beetle perform until it reaches the rim of the hemi-sphere? (The coefficient of static friction between the beetle and the shell is large enough.) 
+A small beetle of mass m is slowly crawling out from the bottom of a hemi-sphere shaped shell. The mass of the shell is M and its radius is  R . How much work does the beetle perform until it reaches the rim of the hemi-sphere? (The coefficient of static friction between the beetle and the shell is large enough.)
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4107-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4107-fig1.gif)

@@ -9,11 +9,11 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4148. Bizonyos mennyiségű ideális gázt kétféleképpen viszünk át az A állapotból a kezdetivel azonos hőmérsékletű B állapotba: 
+P. 4148. Bizonyos mennyiségű ideális gázt kétféleképpen viszünk át az A állapotból a kezdetivel azonos hőmérsékletű B állapotba:
 
- a ) Először adiabatikusan összenyomjuk ( AC ), majd állandó térfogaton lehűtjük ( CB ); 
- b ) Először állandó térfogaton felmelegítjük ( AD ), majd izobár módon összenyomjuk ( DB ). 
- Melyik esetben végzünk kevesebb munkát? A C vagy a D állapotban nagyobb a gáz hőmérséklete? 
+ a ) Először adiabatikusan összenyomjuk ( AC ), majd állandó térfogaton lehűtjük ( CB );
+ b ) Először állandó térfogaton felmelegítjük ( AD ), majd izobár módon összenyomjuk ( DB ).
+ Melyik esetben végzünk kevesebb munkát? A C vagy a D állapotban nagyobb a gáz hőmérséklete?
  Varga István (1952-2007) feladata
 
-![figure](../../raw_html/komal_figures/komal-P4148-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4148-fig1.gif)

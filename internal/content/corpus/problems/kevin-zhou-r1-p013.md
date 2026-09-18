@@ -24,7 +24,9 @@ solution_language: en
 ---
 
 5
-Kevin Zhou                                                                  Physics Olympiad Handouts
+
+
+Kevin Zhou                                                                  Physics Olympiad Handouts
 
 
 doesn’t rotate it, but does change its velocity in that direction by u ≪ v. To keep things simple,

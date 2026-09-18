@@ -22,9 +22,9 @@ techniques: [model-reduction, smart-coordinates]
 
 **2. feladat. Hengeres üvegrúd mint lencse.**
 
-Egy 10 cm hosszú és 2 cm vastag, hengeres üvegrúd mindkét domború vége egy-egy félgömb. A rúd tengelye mentén, egyik végétől mekkora távolságra helyezzünk el egy pontszerű fényforrást a levegőben, ha azt akarjuk, hogy a rúd másik végétől 
+Egy 10 cm hosszú és 2 cm vastag, hengeres üvegrúd mindkét domború vége egy-egy félgömb. A rúd tengelye mentén, egyik végétől mekkora távolságra helyezzünk el egy pontszerű fényforrást a levegőben, ha azt akarjuk, hogy a rúd másik végétől
 
-**a)** ugyanakkora, 
-**b)** kétszer akkora 
+**a)** ugyanakkora,
+**b)** kétszer akkora
 
 távolságra találkozzanak az onnan kilépő, a tengellyel kis szöget bezáró fénysugarak? Az üveg levegőre vonatkoztatott törésmutatója 1,5.

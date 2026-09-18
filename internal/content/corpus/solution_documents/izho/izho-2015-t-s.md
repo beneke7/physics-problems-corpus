@@ -39,7 +39,9 @@ segment C1C 0 . The point B3 is the position of third ball!
                      - in circle 3;                                       (0,2)
               3      Found position of the third ball:
                      - in circle 1;                                        0,5
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions            Page 2/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions            Page 2/11
 
 
                     - in circle 2;                                    (0,3)
@@ -65,7 +67,9 @@ efficiency is
                          T
                   1  2  50% .                                                             (4)
                          T1
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                    Page 3/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                    Page 3/11
 
 
                                            Marking scheme
@@ -106,7 +110,9 @@ determined, finding the image of the second source is carried out in a conventio
               3       Image of the second source is found
                       and plotted
                       - in circle 1;                                          1,5
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                            Page 4/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                            Page 4/11
 
 
                         - in circle 2;                                                                (1,0)
@@ -168,7 +174,9 @@ which, together with Eqs. (13) and (14), yields
                     1             0      𝑝       𝜌𝑔𝐿             12ℎ       ℎ2
                𝑄 = 2 𝑝0 𝑆𝐿 (1 + 2𝜌𝑔𝐿 + 2𝑝 [1 + 𝐿 − 𝐿2 ]) −,
                                                      0
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                           Page 5/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                           Page 5/11
 
 
                                                    1                        𝜌𝑔(𝐿−ℎ)             ℎ       𝑝        2    4ℎ
@@ -238,7 +246,9 @@ Using the geometry, one obtains
                                         3                 3
                                                  R  z2 2
 Summation over all elements of the ring is held elementary to eventually get
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                     Page 6/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                     Page 6/11
 
 
                        0 IR  2R                   I  R 2        0         pm
@@ -304,7 +314,9 @@ field within this ring is found from Faraday's law of induction as:
                                                           dB             r dBz
                                      2 rE   r 2 z  E                     .                 (10)
                                                            dt            2 dt
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                        Page 7/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                        Page 7/11
 
 
         It is assumed here that within the entire disc one can neglect the variation of the axial
@@ -379,7 +391,9 @@ where 𝛽 = 𝑏/2𝑚. From this expression the relative frequency shift is fo
                                          4𝜋𝑧 𝜌                 32𝜋𝑧 𝜌
                                         0
 and is equal to the product of force (16) on the magnet speed.
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                           Page 8/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                                           Page 8/11
 
 
                                                    Part 2: Electric
@@ -456,7 +470,9 @@ the resulting expression for the force simplifies to
 
 
 The equation of the ball motion in this case takes the form
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                 Page 9/11
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                 Page 9/11
 
 
                                               q 2V             q 2V
@@ -537,7 +553,9 @@ Note that the solution using the vector diagram is also possible.
                               =            [(𝑧 + 5𝑥 ) − 2𝜀0 𝜌𝑣]
                                   8𝜋𝜀0 𝑧 6
        The equation of motion of the ball is thus written as
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                  Page
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions                  Page
 10/11
 
                                 ′′
@@ -602,7 +620,9 @@ which is again equal to the power of force (𝐹 = −𝑏𝑣).
          The power of the friction force is found                                      0,4           1
          They are equal                                                                0,1
  2.1.1   The field of the dipole is found                                             0,25           1
-XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions           Page
+
+
+XI International Zhautykov Olympiad 2015 /Theoretical Competition/Solutions           Page
 11/11
 
          Simplification uses z≫R                                                0,25

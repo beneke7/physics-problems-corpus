@@ -41,7 +41,6 @@ First we consider the case ka ≪ 1. Applying the asymptotic forms of the Bessel
                                                          (ka)2ℓ+1
                                 sin(δℓ ) ≈ δℓ ≈ −                        .
                                                     (2ℓ − 1)!!(2ℓ + 1)!!
-267 12. Scattering
 
 
 In particular this means the scattering is dominated by the s-wave, giving
@@ -87,18 +86,17 @@ conversation of probability, we must have
 
 over a large sphere. The flux J splits into three terms: the incident wave (which contributes zero
 flux), the scattered wave (which contributes vσ), and the interference term,
-               ℏ                                                                                
+               ℏ
                       ∗             ∗
         Jint = Im (ψscat ∇ψinc + ψinc ∇ψscat ) = vrRe f (θ, ϕ)∗ eik(x−r) x̂ + f (θ, ϕ)eik(r−x) r̂ .
                m
 Integrating over a sphere of radius r, we must have
-                               Z      Z                                          
+                                Z      Z
                                                   ikr(1−cos θ)
                       σ = r Re     dϕ sin θdθ e                f (θ, ϕ)(1 + cos θ)
 
 in the limit r → ∞. Then the phase factor is rapidly oscillating, so the only contribution comes
 from the endpoints θ = 0, π since there are no points of stationary phase. The contribution at θ = π
 is zero due to the (1 + cos θ) factor, while the θ = 0 peak gives the desired result.
-268 12. Scattering
 
 

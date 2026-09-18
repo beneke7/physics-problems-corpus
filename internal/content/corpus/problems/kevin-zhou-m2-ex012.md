@@ -24,7 +24,9 @@ solution_language: en
 ---
 
 18
-Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+Kevin Zhou                                                               Physics Olympiad Handouts
 
 
 
@@ -77,7 +79,9 @@ even works in general. The simplest explanation is the principle of virtual work
 
 
                                                   19
-    Kevin Zhou                                                              Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                              Physics Olympiad Handouts
 
 
 

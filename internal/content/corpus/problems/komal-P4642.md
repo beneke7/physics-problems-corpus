@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [conservation-laws, extremization]
 ---
 
-A simple pendulum of length $\ell=20$ cm, is deflected to the horizontal, and is given an initial vertically downward speed of $v_0=2$ m/s. What is the angle between the thread and the vertical at the moment when the thread becomes tight again right after that it was loose? 
+A simple pendulum of length $\ell=20$ cm, is deflected to the horizontal, and is given an initial vertically downward speed of $v_0=2$ m/s. What is the angle between the thread and the vertical at the moment when the thread becomes tight again right after that it was loose?
 
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4642-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4642-fig1.gif)

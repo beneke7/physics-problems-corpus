@@ -52,15 +52,15 @@ friction points forward must be all on the opposite side of the bar, as shown ab
 Using the variables defined in the figure, just barely balancing forces and torques simultane-
 ously gives
 F = µmg
-
+
 ℓ
 L
 −
 L − ℓ
 L
-
+
 , Fℓ = µmg
-
+
 ℓ
 L
 ℓ
@@ -70,7 +70,7 @@ L − ℓ
 L
 L − ℓ
 2
-
+
 .
 Solving for ℓ gives ℓ = L/
 √
@@ -291,12 +291,12 @@ In case you’re not convinced, we can justify this in more detail. Let r1 + r2 
 subtracting this equation from α/m times the force balance equation gives
 X
 i
-
+
 1 −
 α
 m
 ηi
-
+
 ri = 0.
 The only way a nontrivial sum of three vectors can vanish is if they lie in a plane, which isn’t true
 here. So each of the coefficients must vanish, so 1 − (α/m)ηi = 0, which means all the ηi are the
@@ -384,11 +384,11 @@ sinα
 Similarly, we have N′ = 4mg/3 and N cos(α) + f sin(α) = mg/3, so
 N′
 = 4
-
+
 cosα
 µ1
 + sinα
-
+
 f
 from which we conclude
 µ2 =

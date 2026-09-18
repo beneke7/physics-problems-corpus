@@ -9,5 +9,5 @@ difficulty: P
 verification_status: pending
 ---
 
-P. 4861. Nem sokkal napnyugta után, ha éppen újhold van az égen, halványan a Hold sötét fele is látható. Miért? 
+P. 4861. Nem sokkal napnyugta után, ha éppen újhold van az égen, halványan a Hold sötét fele is látható. Miért?
  Hatvani István fizikaverseny, Debrecen

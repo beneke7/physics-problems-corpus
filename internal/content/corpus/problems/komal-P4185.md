@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200910"
 verification_status: flagged
 ---
 
-A bird can fly in the air at a constant speed  v . There is a wind of speed v $_{1}$ blowing from the North. Into what direction should the bird fly in order to move in the East--West direction? What is its speed with respect to the Earth? Data: , . 
+A bird can fly in the air at a constant speed  v . There is a wind of speed v $_{1}$ blowing from the North. Into what direction should the bird fly in order to move in the East--West direction? What is its speed with respect to the Earth? Data: , .
  (3 pont)

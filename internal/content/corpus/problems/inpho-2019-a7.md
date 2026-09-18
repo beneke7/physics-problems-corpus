@@ -76,39 +76,39 @@ Graph is plotted on page no. : $\_\_\_\_$
 
 Detailed answers can be found on page numbers:
 □
-![](inpho-2019-a7-fig01.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig01.png)
 □
 □
 □
-![](inpho-2019-a7-fig02.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig02.png)
 □
 □
 □
-![](inpho-2019-a7-fig03.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig03.png)
 □
 □
 □
-![](inpho-2019-a7-fig04.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig04.png)
 □
 □
 □
-![](inpho-2019-a7-fig05.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig05.png)
 □
 □
 □
-![](inpho-2019-a7-fig06.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig06.png)
 □
 □
 □
-![](inpho-2019-a7-fig07.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig07.png)
 □
 □
 □
-![](inpho-2019-a7-fig08.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig08.png)
 □
 □
 □
-![](inpho-2019-a7-fig09.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig09.png)
 □ Last four digits of Roll No.:
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -199,4 +199,4 @@ $\_\_\_\_$
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 □
-![](inpho-2019-a7-fig10.png)
+![](../../figures/inpho/figures/inpho-2019-a7-fig10.png)

@@ -22,9 +22,9 @@ verification_status: self-solved
 techniques: [auxiliary-unknowns, choose-reference-frame, extremization]
 ---
 
-Two cars are undergoing uniform straight line motion along two straight motorways, which are perpendicular to each other, as shown in the figure. Initially the vehicles were at a distance of $x_0=6$ km and $y_0=3$ km from the cross-roads. The speed of the car moving along the path labelled $AO$ is $v_1=36~$km/h. It takes 9 minutes for the cars to reach the position where they are the closest to each other during their motion. 
+Two cars are undergoing uniform straight line motion along two straight motorways, which are perpendicular to each other, as shown in the figure. Initially the vehicles were at a distance of $x_0=6$ km and $y_0=3$ km from the cross-roads. The speed of the car moving along the path labelled $AO$ is $v_1=36~$km/h. It takes 9 minutes for the cars to reach the position where they are the closest to each other during their motion.
 
- What is the speed of the car travelling along path $BO$, and what is the shortest distance between them? 
+ What is the speed of the car travelling along path $BO$, and what is the shortest distance between them?
  (5 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4865-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4865-fig1.gif)

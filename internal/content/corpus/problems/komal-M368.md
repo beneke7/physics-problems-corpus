@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 201704"
 verification_status: pending
 ---
 
-Let us experiment with a spinning top, or with any other type of gyroscope. Measure how the number of revolution of the top changes as a function of time, once it was set in motion and left to spin. 
+Let us experiment with a spinning top, or with any other type of gyroscope. Measure how the number of revolution of the top changes as a function of time, once it was set in motion and left to spin.
  (6 pont)

@@ -11,4 +11,4 @@ verification_status: pending
 
 G. 708. Egy vidámpark tükrös labirintusába befutott Berci, és elbújt a $B$ pontban. Láthatja-e őt az anyukája, aki az $A$ pontban állva keresi őt? Látja-e Berci az anyukáját? A tükör­labirintus alaprajza az  ábrán látható. A vastag vonalak mindkét oldalukon tükröző felületeket jeleznek.
 
-![figure](../../raw_html/komal_figures/komal-G708-fig1.gif)
+![figure](../../figures/komal/figures/komal-G708-fig1.gif)

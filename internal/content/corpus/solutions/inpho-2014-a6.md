@@ -24,30 +24,30 @@ O
 distance δ below O. Obtain the force (~ F) felt by the test charge.
 Solution: ~ F =
 2KQq
-
+
 a
 √
 3
 − δ
-
+
 a2 +
-
+
 a
 √
 3
 − δ
-2
+ 2
 !3/2
 −
 KQq
-
+
 2a
 √
 3
 + δ
-2
-Here K = 1/4π0 and direction is upward (towards A).
-(b) [2] Assuming δ 
+ 2
+Here K = 1/4π 0 and direction is upward (towards A).
+(b) [2] Assuming δ
  a discuss the motion of the test charge when it is released.
 Solution: Using binomial approximation, ~ F = KQq
 9

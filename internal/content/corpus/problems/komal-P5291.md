@@ -22,8 +22,8 @@ verification_status: self-solved
 techniques: [limiting-and-special-cases, differential-element]
 ---
 
-A carbon monoxide detector gives an alarm signal when the density of CO in the air reaches the value of $4\cdot10^{-6} \mathrm{kg/m}^3$. 
- $a)$ How many CO molecules does a person inhale in a single 500 cm${}^3$ breath? 
- $b)$ What is the average energy of a single CO molecule in the lung at a temperature of $37\;{}^\circ$C? 
- $c)$ What is the speed of an average-energy CO molecule? 
+A carbon monoxide detector gives an alarm signal when the density of CO in the air reaches the value of $4\cdot10^{-6} \mathrm{kg/m}^3$.
+ $a)$ How many CO molecules does a person inhale in a single 500 cm${}^3$ breath?
+ $b)$ What is the average energy of a single CO molecule in the lung at a temperature of $37\;{}^\circ$C?
+ $c)$ What is the speed of an average-energy CO molecule?
  (4 pont)

@@ -32,7 +32,9 @@ Example 5
 
 
                                                   11
-    Kevin Zhou                                                                Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                                Physics Olympiad Handouts
 
 
        Solution
@@ -52,7 +54,7 @@ Example 5
        which tells us that Q ∼ (ℓ/L)2 q. The force on the induced charges is then
 
                                                                        kq 2 ℓ3
-                                                     
+
                                            1        1        kqQℓ
                              F ∼ kqQ             −      ∼  −       ∼ −         .
                                         (L + ℓ)2 L2           L3        L5

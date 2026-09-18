@@ -22,4 +22,4 @@ Az alábbi áramkörben egy transzformátor szerepel. A transzformátor mindkét
 (a) Határozzuk meg a két tekercsben folyó áramot közvetlenül a kapcsoló bezárása után.
 (b) Határozzuk meg az áramokat az idő függvényében.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr70-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr70-fig1.jpg)

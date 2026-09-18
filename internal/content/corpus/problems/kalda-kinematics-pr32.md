@@ -22,4 +22,4 @@ i) in which direction does the propeller rotate as seen by the photographer (clo
 ii) How many blades does the propeller have?
 iii) How many rotations does the propeller make in one minute if the total scanning time of this image was $\frac{1}{8}$ seconds?
 
-![figure](../../sources/kalda/figures/kalda-kinematics-pr32-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-kinematics-pr32-fig1.jpg)

@@ -44,7 +44,8 @@ SOLU TIO NS T O T H E T H E ORE TIC AL
 
 
                        T h i s s e t o f p r o b l e m s c o n s i s t s o f …. p a g e s
-Solution Proble m 1
+
+Solution Proble m 1
 E c l i p s e s o f t h e J u p i t e r’ s S a t e l l i t e
 
    a. ( Total Point : 1 ) Assume the orbits of the earth and Jupiter are circles, we can
@@ -90,7 +91,8 @@ E c l i p s e s o f t h e J u p i t e r’ s S a t e l l i t e
 
 
                                                   1
-   we get
+
+   we get
                              3
                  R               2
             TE vEE  RE 
@@ -139,7 +141,8 @@ c. ( Total Point: 3 ) The distance of Jupiter to the Earth can be written as fol
 
 
                                                 2
-The relative error of the above expression is the order of
+
+The relative error of the above expression is the order of
 
                                                 2
                                           RE 
@@ -169,7 +172,8 @@ or we can use another method.
 
 
                                                3
-From the figure above we get
+
+From the figure above we get
 
                                             β = (φ + α )
                                    ωT0          π
@@ -220,7 +224,8 @@ or we can use another method.
                                                                           (1.0 point)
 
                                              4
-Solution Proble m 2
+
+Solution Proble m 2
 
 D e t e c tion of Alph a P article s
 
@@ -269,7 +274,8 @@ D e t e c tion of Alph a P article s
                                                                                (1.0 point)
 
                                                   5
-   Since 1 Ci = 3.7 x 1010 dis s-1 then
+
+   Since 1 Ci = 3.7 x 1010 dis s-1 then
 
                                        330
                            Amin =              Ci = 8.92 ×10−9 Ci
@@ -309,7 +315,8 @@ d. By symmetry , the electric field is directed radially and depends only on dis
 
 
                                             6
-           Figure 1 : The Gaussian surface used to calculate the electric field E.
+
+           Figure 1 : The Gaussian surface used to calculate the electric field E.
                                                                               (1.0 point)
 
 
@@ -347,7 +354,8 @@ Thus
 
 
                                            7
-We can use this expression to evaluate the voltage between the capacitor’s conductors
+
+We can use this expression to evaluate the voltage between the capacitor’s conductors
                D
 by setting r = , giving a potential difference of
                2
@@ -382,7 +390,8 @@ Taking E b = 3 x 106 V , d= 1mm, and D= 1 cm , gives V = 3.453.45 kV.
 
 
                                          8
-Solution to Proble m 3
+
+Solution to Proble m 3
 S t e w a r t- T o l m a n E f f e c t
 
 
@@ -428,7 +437,8 @@ current:
                                                  R
 
                                                9
-Thus, the current in the considered ring should be :
+
+Thus, the current in the considered ring should be :
 
 
                                               2π mr 2α

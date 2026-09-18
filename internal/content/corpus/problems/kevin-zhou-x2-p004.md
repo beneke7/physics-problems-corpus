@@ -44,4 +44,6 @@ solution_language: en
     We repeat procedure i many times, so the average of ti is ti . Find the ti in terms of N0 and τ .
 
                                                        4
-    Kevin Zhou                                                               Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                               Physics Olympiad Handouts

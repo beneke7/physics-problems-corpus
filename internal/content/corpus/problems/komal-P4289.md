@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-An ice floe is floating in the sea. The part which is above the water is a prism of height 0.5 m. A 200-kg seal climbs onto the floe, which sinks 5 cm deeper into the water. How many seals, which have the same mass, can the floe hold without sinking totally into the water? What is the volume of the ice floe? 
+An ice floe is floating in the sea. The part which is above the water is a prism of height 0.5 m. A 200-kg seal climbs onto the floe, which sinks 5 cm deeper into the water. How many seals, which have the same mass, can the floe hold without sinking totally into the water? What is the volume of the ice floe?
  (4 pont)

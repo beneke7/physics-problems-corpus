@@ -21,5 +21,5 @@ provenance_note: "KöMaL physics points contest, 200510"
 verification_status: pending
 ---
 
-A sample of diatomic ideal gas is confined in a 100 ml container at a pressure of 200 kPa. The average kinetic energy of a molecule is 5$^{.}$10$^{-20}$ J. Find the number of molecules and the number of moles of the gas in the container. 
+A sample of diatomic ideal gas is confined in a 100 ml container at a pressure of 200 kPa. The average kinetic energy of a molecule is 5$^{.}$10$^{-20}$ J. Find the number of molecules and the number of moles of the gas in the container.
  (3 pont)

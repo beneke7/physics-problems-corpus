@@ -20,4 +20,4 @@ verification_status: pending
 
 Határozzuk meg a telepen átfolyó áramot.
 
-![ábra](../../sources/kalda/figures/kalda-circuits-pr8-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-circuits-pr8-fig1.jpg)

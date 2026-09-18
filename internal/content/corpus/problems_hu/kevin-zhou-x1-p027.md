@@ -45,9 +45,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
 
       (a) Suppose there are N ≫ 1 electrons in total. If the temperature is low enough, they will fill all
           of the quantum states up to energy µ = EF , where EF is called the Fermi energy. Show that
-                                                                          2/3
+                                                                           2/3
                                                     h2
-                                                                
+
                                                                     3N
                                               EF =
                                                    2me              8πV
@@ -62,7 +62,9 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
           Find N/V and EF , and use this to evaluate the typical speed vF of an electron.
 
                                                           15
-    Kevin Zhou                                                             Physics Olympiad Handouts
+
+
+    Kevin Zhou                                                             Physics Olympiad Handouts
 
       (c) Find a rough estimate for the temperature range at which the above results apply. Is it
           satisfied for typical solids at room temperature?

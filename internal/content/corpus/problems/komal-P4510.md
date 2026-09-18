@@ -21,8 +21,8 @@ provenance_note: "KöMaL physics points contest, 201302"
 verification_status: flagged
 ---
 
-At the end of an initially vertical, hinged rod of negligible mass there is a small heavy sphere. The rod is displaced from its unstable equilibrium position. What is the angular displacement of the rod at the moment when there is no force exerted on the rod? 
+At the end of an initially vertical, hinged rod of negligible mass there is a small heavy sphere. The rod is displaced from its unstable equilibrium position. What is the angular displacement of the rod at the moment when there is no force exerted on the rod?
 
  (4 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4510-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4510-fig1.gif)

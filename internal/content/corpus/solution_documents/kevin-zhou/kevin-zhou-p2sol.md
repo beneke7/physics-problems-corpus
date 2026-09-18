@@ -54,7 +54,9 @@ where L denotes length. Similarly,
 Example 1
 Trains arrive at a train station every 10 minutes. If I arrive at a random time, and X is the
 number of minutes I have to wait, what is the standard deviation of X?
-1Kevin Zhou Physics Olympiad Handouts
+1
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 We see that X can be anywhere between 0 and 10, with all possibilities equally likely, so
 p(x) =
@@ -169,7 +171,9 @@ a
 [2] Problem 3. The purpose of subtracting ⟨X⟩2 in the variance is to make sure it doesn’t change
 when a constant is added to x, since shifting something left or right on the number line shouldn’t
 change its spread. Verify that for any constant c, varX = var(X + c).
-2Kevin Zhou Physics Olympiad Handouts
+2
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. We have
 var(X + c) = ⟨(X + c)2
 ⟩ − ⟨X + c⟩2
@@ -269,7 +273,9 @@ a
 √
 2a
 .
-3Kevin Zhou Physics Olympiad Handouts
+3
+
+Kevin Zhou Physics Olympiad Handouts
 Remark
 As you saw in problem 4, normal distributions are characterized entirely by their mean
 and standard deviation. Moreover, the central limit theorem roughly states that the sum
@@ -310,7 +316,9 @@ Remark
 You can use intuition and experience to assign uncertainties to real measurements. For
 example, if you’re using a clock that times only to the nearest second, you might take
 ∆t = 0.5s. If you’re using a good ruler, which has millimeter markings, you might take
-4Kevin Zhou Physics Olympiad Handouts
+4
+
+Kevin Zhou Physics Olympiad Handouts
 ∆x = 0.5mm. Of course, the ultimate test is the results: if you assigned the uncertainties
 right, your final uncertainty should encompass the true result most (but not all) of the time.
 [1] Problem 6. Suppose x has uncertainty ∆x and y has uncertainty ∆y, where x and y are indepen-
@@ -346,7 +354,9 @@ he adds together.
 • Christina performs two measurements using a machinist’s meter rule, each to within
 1mm, which she adds together.
 Rank the measurements in order of their uncertainty.
-5Kevin Zhou Physics Olympiad Handouts
+5
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 The uncertainty in Alice’s measurement is 2mm. The uncertainty in Bob’s is 2
 √
@@ -422,7 +432,9 @@ are clearly unphysical. In these cases, reasonable guesses for the uncertainty w
 ∆x, since by dimensional analysis, they give the typical spread of the distributions of x2 and
 √
 x.
-6Kevin Zhou Physics Olympiad Handouts
+6
+
+Kevin Zhou Physics Olympiad Handouts
 Still, there is something more subtle going on here. In cases like these, applying the transforma-
 tion distorts the probability distribution, beyond just a shifting and stretching, so it doesn’t stay
 normally distributed. In Olympiads, this doesn’t matter since we only want rough estimates, but
@@ -435,25 +447,25 @@ probability distribution. On Olympiads, you should just fall back to something r
 and y ± ∆y.
 (a) By writing xy as exp(logx + logy), show that the uncertainty of xy is
 ∆(xy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .
 (b) If we set x = y, then we find
 ∆(x2
 ) = x2
 s
 2
-
+
 ∆x
 x
-2
+ 2
 =
 √
 2x∆x.
@@ -463,15 +475,15 @@ Solution. (a) We can write
 xy = exp(logx + logy)
 which implies
 ∆(xy) = exp(logx + logy)∆(logx + logy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .
 (b) The result ∆(x2) = 2x∆x is correct, since the formula for ∆(xy) assumes x and y are
 independent, which fails when we set y = x.
@@ -483,48 +495,50 @@ and by a very similar calculation to part (a), we conclude
 ∆(x/y) =
 x
 y
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 .
 [2] Problem 11. A student launches a projectile with speed v = 5±0.1m/s in gravitational accelera-
 tion g = 9.81±0.01m/s2. The resulting range is d = 1.5±0.02m. Given that the launch angle was
 less than 45◦, find the launch angle, with uncertainty, assuming all uncertainties are independent.
-7Kevin Zhou Physics Olympiad Handouts
+7
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. From the projectile range equation d = v2 sin(2θ)/g, we get
 θ =
 1
 2
 arcsin
-
+
 dg
 v2
-
+
 = 18.03◦
 .
 Now write sin(2θ) = gd/v2. By the results of problem 10, the uncertainty of the right-hand side is
 dg
 v2
-s
+s
 ∆d
 d
-2
+ 2
 +
-
+
 ∆g
 g
-2
+ 2
 +
-
+
 2∆v
 v
-2
+ 2
 = 0.0248.
 The uncertainty of the left-hand side is 2cos(2θ)∆θ by the tangent line approximation, so we have
 ∆θ = 0.015 rad = 0.9◦. Thus, the final result should be written as
@@ -547,15 +561,15 @@ Thus, rounding to a reasonable number of significant figures, we have
 y = 2.7 ± 0.5.
 Note that it would be incorrect to apply the “addition in quadrature” rule for products,
 ∆y = xex
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆(ex)
 ex
-2
+ 2
 because x and ex aren’t independent.
 (b) To find the central value of x, we solve the equation 2 = xex numerically. This can be done
 using the method of iteration introduced in P1. That is, we have x = 2e−x, so by repeatedly
@@ -567,7 +581,9 @@ ex(x + 1)
 = 0.023.
 Rounding to a reasonable number of significant figures, we conclude
 x = 0.85 ± 0.02.
-8Kevin Zhou Physics Olympiad Handouts
+8
+
+Kevin Zhou Physics Olympiad Handouts
 Idea 4
 For practical computations, it is often useful to use relative uncertainties. The relative
 uncertainty of x is ∆x/x, and can be expressed as a percentage.
@@ -580,28 +596,28 @@ uncertainty by a factor of
 N.
 Solution. (a) Above we found that
 ∆(xy) = xy
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 Dividing both sides by xy gives
 ∆(xy)
 xy
 =
-s
+s
 ∆x
 x
-2
+ 2
 +
-
+
 ∆y
 y
-2
+ 2
 which is the desired result.
 (b) Adding up the trials makes the absolute uncertainties add in quadrature, giving a factor of √
 N, while the total goes up by a factor of N, so the relative uncertain goes down by a factor
@@ -627,23 +643,25 @@ f(x′
 .
 For independent x and y, adding the two contributions to the uncertainty in quadrature gives
 ∆f =
-s
+s
 ∂f
 ∂x
 ∆x
-2
+ 2
 +
-
+
 ∂f
 ∂y
 ∆y
-2
+ 2
 .
 This general rule can also be used to quickly rederive the results of problem 10. However, it
 shouldn’t be necessary in Olympiad problems. If you run into such situations in an experiment,
 often one of the uncertainties is much smaller, and can be neglected entirely.
 3 Using Uncertainties
-9Kevin Zhou Physics Olympiad Handouts
+9
+
+Kevin Zhou Physics Olympiad Handouts
 Example 3: F = ma 2022 B21
 Alice and Bob are given a long, thin rectangle of sheet metal. (It has been machined very
 precisely, so they can assume it is perfectly rectangular.) Using calipers, Alice measures the
@@ -667,7 +685,7 @@ negligible. Thus, the relative uncertainty of the perimeter is approximately the
 uncertainty of Bob’s measurement, 0.1%.
 In simple Olympiad experiments, often only one uncertainty will really matter. This can
 dramatically simplify calculations, but it might take a little thought to tell which one.
-[3] Problem 14.  ^ 1 0As a speed test, solve F = ma 2018 problems A12, A25, B19, and B25, and
+[3] Problem 14.   ^ 1 0As a speed test, solve F = ma 2018 problems A12, A25, B19, and B25, and
 F = ma 2019 problems A16, B18, and B25. Don’t bother writing solutions.
 [2] Problem 15. Suppose the goal of an experiment is to measure the ratio T1/T2 of the durations
 of two processes, where T1 is about 15 seconds, and T2 is about 3 seconds. Also suppose your
@@ -686,26 +704,28 @@ As for the total measurement time, note that if we split it equally, the uncerta
 will still dominate, because 1/(3
 √
 5) > 1/15. So we should spend more time measuring T2.
-10Kevin Zhou Physics Olympiad Handouts
+10
+
+Kevin Zhou Physics Olympiad Handouts
 (On the other hand, we shouldn’t take a ratio as extreme as 5 to 1, because the benefit of
 additional measurements hits diminishing returns.)
 (b) Explicitly, if ∆T is the absolute uncertainty on each measurement, then
 ∆(T1/T2) =
 T1
 T2
-s
+s
 ∆T
 T1
 √
 N1
-2
+ 2
 +
-
+
 ∆T
 T2
 √
 N2
-2
+ 2
 The total time Tt is constant, N1T1 + N2T2 = Tt where N1T1/Tt = x. We want to minimize
 f(x) =
 1
@@ -753,26 +773,28 @@ where β = I/MR2 of the rolling object, and ℓ, t are the distance and time for
 assume you found a nice object, like a hollow can or a fully filled one, so that β is known relatively
 precisely. Then the uncertainty is
 ∆g = g
-s
+s
 2∆t
 t
-2
+ 2
 +
-
+
 ∆ℓ
 ℓ
-2
+ 2
 +
-
+
 cos(θ)∆θ
 sin(θ)
-2
+ 2
 .
 Given the above, you definitely want a ramp as long as possible, and there’s a tradeoff with the
 angle: if the angle is very large, t will be small so that the relative error on t will be large, while if
 the angle is very small, the relative error on θ will be large. So in practice you want to choose a
 moderately small, but not too small value of θ.
-11Kevin Zhou Physics Olympiad Handouts
+11
+
+Kevin Zhou Physics Olympiad Handouts
 Some reasonable ballpark numbers are θ = (10 ± 1)◦, and t = (3 ± 0.3)s, so you probably can’t
 easily get an uncertainty smaller than a few percent. The overall result will be less precise than
 the pendulum experiment, because for the pendulum there is no ∆θ term, and you can measure
@@ -837,7 +859,9 @@ i
 .
 All of the examples above involve combining continuous quantities, so we’ll close this section with
 some applications to “counting” experiments, which work slightly differently.
-12Kevin Zhou Physics Olympiad Handouts
+12
+
+Kevin Zhou Physics Olympiad Handouts
 Example 4
 A fair coin is tossed 1000 times, and the number of heads is counted. If this process is
 repeated many times, what is the standard deviation of the number of heads?
@@ -898,7 +922,9 @@ Since the Xi are independent, their variances add. The variance of Xi is
 i ⟩ − ⟨Xi⟩2
 = αdt − (αdt)2
 ≃ αdt.
-13Kevin Zhou Physics Olympiad Handouts
+13
+
+Kevin Zhou Physics Olympiad Handouts
 Thus, by adding the variances, we have
 varX = αT
 so the standard deviation is ∆X =
@@ -952,9 +978,9 @@ will use many of the techniques from P1. It will also require Stirling’s appro
 n! ≈
 √
 2πn
-n
+ n
 e
-n
+ n
 for n ≫ 1, which we mentioned in P1. (Hint: because the relative uncertainty falls as λ
 increases, start by writing k = λ(1+δ) for |δ| ≪ 1, and expand in powers of δ. Be careful not
 to drop too many terms, as δ is small, but λδ isn’t.)
@@ -963,10 +989,10 @@ P
 i Xi, and we get k clicks if
 precisely k of the Xi are equal to 1. Thus,
 p(X = k) =
-
+
 N
 k
-
+
 (αdt)k
 (1 − αdt)N−k
 ≈
@@ -980,7 +1006,9 @@ k!
 e−λ
 .
 This is known as the Poisson distribution.
-14Kevin Zhou Physics Olympiad Handouts
+14
+
+Kevin Zhou Physics Olympiad Handouts
 (b) This follows from the Taylor series of the exponential,
 ∞ X
 k=0
@@ -995,19 +1023,19 @@ p(X = k) =
 1
 √
 2πk
-
+
 λe
 k
-k
+ k
 e−λ
 =
 1
 p
 2πλ(1 + δ)
-
+
 e
 1 + δ
-λ(1+δ)
+ λ(1+δ)
 e−λ
 ≈
 1
@@ -1018,13 +1046,13 @@ eδλ
 where we used the fact that δ ≪ 1.
 Now we need to use a technique from P1. Letting the final term be equal to 1/y, we have
 logy = λ(1 + δ)log(1 + δ) = λ(1 + δ)
-
+
 δ −
 δ2
 2
 + O(δ3
 )
-
+
 = δλ +
 δ2λ
 2
@@ -1050,7 +1078,7 @@ e−δ2λ/2
 2πλ
 e−(k−λ)2/2λ
 which is precisely a normal distribution with the appropriate mean and standard deviation.
-[3] Problem 20.  m 1 0IPhO 2023, problem 1, parts A, B, and D.3. A short derivation of the key features
+[3] Problem 20.   m 1 0IPhO 2023, problem 1, parts A, B, and D.3. A short derivation of the key features
 of Brownian motion. It requires only the ideas of this problem set, and some basic mechanics.
 4 Data Analysis
 Idea 5
@@ -1059,7 +1087,9 @@ Sometimes, it suffices to just calculate a value based on a single data point, o
 using a pair of data points. When this isn’t enough, you’ll have to do graphical data analysis,
 which will usually correspond to drawing a line and measuring its slope and intercept. This
 is quite limited compared to modern statistical tools, but also can be surprisingly powerful.
-15Kevin Zhou Physics Olympiad Handouts
+15
+
+Kevin Zhou Physics Olympiad Handouts
 Example 5
 The activity of a radioactive substance obeys A(t) = A0e−t/τ. Using measurements of t and
 A(t), plot a line to find A0 and τ.
@@ -1104,7 +1134,9 @@ E/(1J)
 On the page, we literally plot (1J)/E versus log(R/(1Hz)). This gives a line with dimensionless
 slope −E0/(1J) and intercept log(β/(1Hz)). You don’t have to keep this technicality in mind,
 but this sort of thing is always implicitly happening whenever one plots data.
-16Kevin Zhou Physics Olympiad Handouts
+16
+
+Kevin Zhou Physics Olympiad Handouts
 (b) The uncertainty in β alone always gives a 1% uncertainty in R. But the uncertainty in R
 due to the uncertainty in E0 depends on the value of E. For E ≪ E0, we can expand the
 exponential as (1 − E/E0), and in this case the uncertainty in E0 does almost nothing at all,
@@ -1150,7 +1182,9 @@ Solution. (a) The equation of the circle is
 + x2
 = 2ax + r2
 − a2
-17Kevin Zhou Physics Olympiad Handouts
+17
+
+Kevin Zhou Physics Olympiad Handouts
 Plotting y2 + x2 vs. x will give a slope of 2a and a y-intercept of r2 − a2. Combining the two
 pieces of information yields a and r.
 (b) The equation can be slightly rearranged to give
@@ -1171,9 +1205,9 @@ x2
 /ω2
 .
 Thus, a plot of x2 vs. v2 has y-intercept A2 and slope −1/ω2.
-[3] Problem 24.  W 1 0USAPhO 2012, problem A2. (This one requires basic thermodynamics.)
-[3] Problem 25.  W 1 0USAPhO 2011, problem A2.
-[3] Problem 26.  c 1 0INPhO 2018, problem 7. (This one requires basic fluid dynamics.)
+[3] Problem 24.   W 1 0USAPhO 2012, problem A2. (This one requires basic thermodynamics.)
+[3] Problem 25.   W 1 0USAPhO 2011, problem A2.
+[3] Problem 26.   c 1 0INPhO 2018, problem 7. (This one requires basic fluid dynamics.)
 [3] Problem 27 (USAPhO 2024). An experimentalist drives a series RLC circuit with a sinusoidal
 voltage V (t) = V0 cosωt. In E6, you will learn how to show that the voltage across the capacitor,
 in the steady state, oscillates with amplitude
@@ -1194,7 +1228,9 @@ range (134.7 ± 0.1)rad/s, and a good answer for Q is within 88 ± 3.
 Estimation is a useful skill for checking the answers to real-world problems.
 Example 7
 Estimate the circumference of the Earth.
-18Kevin Zhou Physics Olympiad Handouts
+18
+
+Kevin Zhou Physics Olympiad Handouts
 Solution
 If you know that the United States is 3,000 miles wide, and there is a time zone difference of
 three hours between California and New York, then a reasonable estimate is 24,000 miles.
@@ -1238,7 +1274,9 @@ This is a bit tricky to test, because most exercises just burn energy against ai
 friction, which is hard to estimate. However, a task that directly performs work is useful. I
 weigh about 75kg and can run up a 3m high staircase in around 3s, so
 P = mgv = (75)(10)(3/3)W ≈ 750W.
-19Kevin Zhou Physics Olympiad Handouts
+19
+
+Kevin Zhou Physics Olympiad Handouts
 This is a typical max power output, while typical steady state power outputs are several
 times smaller, and the corresponding numbers for elite athletes are several times larger.
 Remark
@@ -1289,7 +1327,9 @@ Plugging in numbers gives R ≈ 2km.
 [4] Problem 30. Some questions about energy.
 (a) Estimate the digestible energy content of a stick of butter. (A Calorie is about 4000J, and is
 also the energy needed to raise the temperature of a kilogram of water by 1K.)
-20Kevin Zhou Physics Olympiad Handouts
+20
+
+Kevin Zhou Physics Olympiad Handouts
 (b) Estimate the rate at which your body burns energy when at rest.
 (c) Estimate the rate at which a human being radiates energy. (The Stefan–Boltzmann law states
 that the radiation powerperunit area from a blackbody is σT4, where σ = 5.7×10−8 W/m2K4.)
@@ -1326,7 +1366,9 @@ further reduced by wearing clothes, which trap a layer of insulating air and clo
 approximate the specific heat to be the same as water. We take a human mass of 70 kg. Since
 the “Calorie” used to describe food is actually a kilocalorie (amount of energy needed to raise
 1 kg by 1◦ C), we just need ∼ 200 Calories to raise our temperature back to normal.
-21Kevin Zhou Physics Olympiad Handouts
+21
+
+Kevin Zhou Physics Olympiad Handouts
 A cute, related estimate is the caloric cost of drinking ice-cold water. If you drink eight cups
 of water a day, that’s 2kg of water. Warming it from 0◦ C to ∼ 35◦ C takes ∼ 70 Calories.
 (e) A basic estimate for the binding energy is
@@ -1363,16 +1405,16 @@ energy
 C atom
 C atoms
 mole
-
+
 kilograms
 mole
-−1
+ −1
 ∼ (2 × 10−18
 J)NA
-
+
 12g
 mole
-−1
+ −1
 = 108
 J/kg.
 For comparison, the energy of one gram of fat is 9 calories, so the true answer is
@@ -1387,7 +1429,9 @@ About 20% of the air in the atmosphere is oxygen. When we breathe in and then ou
 of the oxygen is converted to carbon dioxide.
 (a) Estimate the mass of air contained in a single breath.
 (b) Estimate the amount of weight we lose every day by breathing alone.
-22Kevin Zhou Physics Olympiad Handouts
+22
+
+Kevin Zhou Physics Olympiad Handouts
 Solution. (a) If you don’t take a deep breath, you can barely blow up a crushed plastic water
 bottle with volume 0.5L, so we can take this to be the volume of a breath.
 From the ideal gas law V/n = RT/P, a mole of gas takes up 22.4L of volume at atmospheric

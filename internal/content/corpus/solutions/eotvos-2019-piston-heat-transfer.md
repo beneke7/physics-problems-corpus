@@ -64,7 +64,7 @@ f + 2
 dT2
 dt
 = α(T1 − T2)
-dieren iálegyenleteknek felelnek meg. Ezekb®l kifejezve a dT1/dt és dT2/dt hányadosokat, valamint bevezetve a ∆T =
+di eren iálegyenleteknek felelnek meg. Ezekb®l kifejezve a dT1/dt és dT2/dt hányadosokat, valamint bevezetve a ∆T =
 T1 − T2 h®mérséklet-különbséget
 d∆T
 dt
@@ -75,7 +75,7 @@ dt
 d(T1 + 2T2)
 dt
 = 0.
-A második egyenletben a dieren iálandó mennyiség nem változik, és kezdeti értékét ismerjük, tehát
+A második egyenletben a di eren iálandó mennyiség nem változik, és kezdeti értékét ismerjük, tehát
 T1 + 2T2 = 4T0.
 Az els® egyenletben található állandó a h®átadási folyamat le sengési együtthatója:
 λ =
@@ -85,7 +85,7 @@ Az els® egyenletben található állandó a h®átadási folyamat le sengési e
 6αT0
 5p0V0
 .
-A fentihez hasonló dieren iálegyenlet a tudományokban számos helyen el®fordul. Ezek közül a legismertebb a ra-
+A fentihez hasonló di eren iálegyenlet a tudományokban számos helyen el®fordul. Ezek közül a legismertebb a ra-
 dioaktív bomlás, amelynek a megoldása a λ állandóval le seng® exponen iális függvény. Mivel ismerjük ennek a függ-
 vénynek a kezdeti értékét, ennélfogva
 ∆T = T0e−λt

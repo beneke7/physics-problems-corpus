@@ -37,7 +37,7 @@ provenance_note: "Hungarian translation of a candidate classified as Genuinely n
        It applies even when n is not an integer. In particular, n can be very large, very small, or
        even negative. The extra terms will be small as long as xn is small. If desired, one can find
        higher terms using binomial coefficients,
-                                                     ∞  
+                                                     ∞
                                                   n
                                                      X  n m
                                            (1 + x) =      x

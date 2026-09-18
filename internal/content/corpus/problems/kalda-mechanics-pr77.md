@@ -19,4 +19,4 @@ verification_status: pending
 
 A $\log$ with mass $M$ is sliding along the ice while rotating. The velocity of the log's centre of mass is $v$, its angular velocity is $\omega$. At the moment when the log is perpendicular to the velocity of its centre of mass, the log hits a stationery puck with mass $m$. For which ratio of the masses $M / m$ is the situation, where the log stays in place while the puck slides away, possible? The collisions are perfectly elastic. The log is straight and its linear density is constant.
 
-![figure](../../sources/kalda/figures/kalda-mechanics-pr77-fig1.jpg)
+![figure](../../../../../sources/kalda/figures/kalda-mechanics-pr77-fig1.jpg)

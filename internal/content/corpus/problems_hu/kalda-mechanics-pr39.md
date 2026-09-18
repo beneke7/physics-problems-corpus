@@ -20,4 +20,4 @@ verification_status: pending
 
 Az ábra egy stroboszkópfelvétel alapján készült, és két azonos átmérőjű, de különböző tömegű golyó ütközését mutatja. A nyíl az egyik golyó ütközés előtti mozgásirányát jelzi. Határozzuk meg a golyók tömegarányát, és mutassuk meg, milyen irányban mozgott a másik golyó az ütközés előtt.
 
-![ábra](../../sources/kalda/figures/kalda-mechanics-pr39-fig1.jpg)
+![ábra](../../../../../sources/kalda/figures/kalda-mechanics-pr39-fig1.jpg)

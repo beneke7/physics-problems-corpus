@@ -22,8 +22,8 @@ verification_status: flagged
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-A three end thoroid, containing an iron core, is connected into a circuit as shown in the figure. What will the current through switch K be right after closing the switch, if the initial current in the circuit was  I $_{0}$? (The ohmic resistance of the coil is negligible with respect to  R .) 
+A three end thoroid, containing an iron core, is connected into a circuit as shown in the figure. What will the current through switch K be right after closing the switch, if the initial current in the circuit was  I $_{0}$? (The ohmic resistance of the coil is negligible with respect to  R .)
 
  (6 pont)
 
-![figure](../../raw_html/komal_figures/komal-P4325-fig1.gif)
+![figure](../../figures/komal/figures/komal-P4325-fig1.gif)

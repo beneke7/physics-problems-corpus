@@ -22,5 +22,5 @@ verification_status: self-solved
 techniques: [model-reduction, extremization]
 ---
 
-We have three solid cubes of edges 1 cm, 3 cm and 9 cm. A tower is built from the three cubes. By what factor will the pressure exerted by the tower on the horizontal tabletop be greater when the smallest cube is at the bottom compared to when the largest cube is at the bottom? 
+We have three solid cubes of edges 1 cm, 3 cm and 9 cm. A tower is built from the three cubes. By what factor will the pressure exerted by the tower on the horizontal tabletop be greater when the smallest cube is at the bottom compared to when the largest cube is at the bottom?
  (3 pont)
