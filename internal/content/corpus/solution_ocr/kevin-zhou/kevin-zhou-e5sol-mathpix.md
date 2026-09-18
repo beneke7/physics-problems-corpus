@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E5Sol.pdf
-mapped_problems: [kevin-zhou-e5-ex001, kevin-zhou-e5-ex003, kevin-zhou-e5-ex004, kevin-zhou-e5-ex007, kevin-zhou-e5-ex009, kevin-zhou-e5-p006, kevin-zhou-e5-p016, kevin-zhou-e5-p017, kevin-zhou-e5-p019]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism V: Induction

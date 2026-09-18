@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M7Sol.pdf
-mapped_problems: [kevin-zhou-m7-ex001, kevin-zhou-m7-ex002, kevin-zhou-m7-ex003, kevin-zhou-m7-ex008, kevin-zhou-m7-ex009, kevin-zhou-m7-ex010, kevin-zhou-m7-ex011, kevin-zhou-m7-ex014, kevin-zhou-m7-ex017, kevin-zhou-m7-ex018, kevin-zhou-m7-p002, kevin-zhou-m7-p003, kevin-zhou-m7-p006, kevin-zhou-m7-p013, kevin-zhou-m7-p019, kevin-zhou-m7-p023, kevin-zhou-m7-p026, kevin-zhou-m7-p031]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics VII: Fluids

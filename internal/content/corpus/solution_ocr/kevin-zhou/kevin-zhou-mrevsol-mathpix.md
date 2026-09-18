@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/MRevSol.pdf
-mapped_problems: [kevin-zhou-mrev-p001, kevin-zhou-mrev-p002, kevin-zhou-mrev-p006, kevin-zhou-mrev-p024, kevin-zhou-mrev-p025, kevin-zhou-mrev-p029]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics Review

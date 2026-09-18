@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/XRevSol.pdf
-mapped_problems: [kevin-zhou-xrev-p001, kevin-zhou-xrev-p002, kevin-zhou-xrev-p004, kevin-zhou-xrev-p014, kevin-zhou-xrev-p024]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Special Topics Review

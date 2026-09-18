@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M1Sol.pdf
-mapped_problems: [kevin-zhou-m1-ex001, kevin-zhou-m1-ex003, kevin-zhou-m1-ex004, kevin-zhou-m1-ex005, kevin-zhou-m1-ex006, kevin-zhou-m1-ex007, kevin-zhou-m1-ex008, kevin-zhou-m1-p001, kevin-zhou-m1-p002, kevin-zhou-m1-p003, kevin-zhou-m1-p007, kevin-zhou-m1-p008, kevin-zhou-m1-p022, kevin-zhou-m1-p028, kevin-zhou-m1-p029, kevin-zhou-m1-p031, kevin-zhou-m1-p033]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics I: Kinematics

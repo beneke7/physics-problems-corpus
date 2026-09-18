@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/X2Sol.pdf
-mapped_problems: [kevin-zhou-x2-ex001, kevin-zhou-x2-ex002, kevin-zhou-x2-p001, kevin-zhou-x2-p002, kevin-zhou-x2-p003, kevin-zhou-x2-p004, kevin-zhou-x2-p009, kevin-zhou-x2-p012, kevin-zhou-x2-p015, kevin-zhou-x2-p020]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Modern II: Atoms, Particles, and Nuclei

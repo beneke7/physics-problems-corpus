@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E7Sol.pdf
-mapped_problems: [kevin-zhou-e7-ex003, kevin-zhou-e7-p001, kevin-zhou-e7-p018, kevin-zhou-e7-p019, kevin-zhou-e7-p027]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism VII: Electrodynamics

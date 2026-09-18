@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/R1Sol.pdf
-mapped_problems: [kevin-zhou-r1-ex001, kevin-zhou-r1-ex002, kevin-zhou-r1-ex004, kevin-zhou-r1-p010, kevin-zhou-r1-p011, kevin-zhou-r1-p013, kevin-zhou-r1-p015, kevin-zhou-r1-p016, kevin-zhou-r1-p017, kevin-zhou-r1-p019, kevin-zhou-r1-p020, kevin-zhou-r1-p021, kevin-zhou-r1-p022, kevin-zhou-r1-p025]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Relativity I: Kinematics

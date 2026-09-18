@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/R3Sol.pdf
-mapped_problems: [kevin-zhou-r3-p009, kevin-zhou-r3-p016, kevin-zhou-r3-p017, kevin-zhou-r3-p022, kevin-zhou-r3-p023]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Relativity III: Fields

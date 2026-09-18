@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/ERevSol.pdf
-mapped_problems: [kevin-zhou-erev-p001, kevin-zhou-erev-p004, kevin-zhou-erev-p027, kevin-zhou-erev-p028]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism Review

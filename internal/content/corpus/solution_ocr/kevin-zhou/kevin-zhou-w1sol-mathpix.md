@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/W1Sol.pdf
-mapped_problems: [kevin-zhou-w1-ex001, kevin-zhou-w1-ex003, kevin-zhou-w1-p002, kevin-zhou-w1-p003, kevin-zhou-w1-p004, kevin-zhou-w1-p005, kevin-zhou-w1-p008, kevin-zhou-w1-p009, kevin-zhou-w1-p011, kevin-zhou-w1-p012, kevin-zhou-w1-p015, kevin-zhou-w1-p016, kevin-zhou-w1-p017, kevin-zhou-w1-p019, kevin-zhou-w1-p020, kevin-zhou-w1-p022, kevin-zhou-w1-p023, kevin-zhou-w1-p026]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Waves I: The Wave Equation

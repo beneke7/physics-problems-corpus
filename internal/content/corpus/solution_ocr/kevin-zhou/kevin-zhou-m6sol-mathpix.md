@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M6Sol.pdf
-mapped_problems: [kevin-zhou-m6-ex001, kevin-zhou-m6-ex002, kevin-zhou-m6-ex004, kevin-zhou-m6-ex005, kevin-zhou-m6-ex008, kevin-zhou-m6-ex009, kevin-zhou-m6-ex010, kevin-zhou-m6-ex011, kevin-zhou-m6-ex012, kevin-zhou-m6-p005, kevin-zhou-m6-p006, kevin-zhou-m6-p013, kevin-zhou-m6-p016, kevin-zhou-m6-p018, kevin-zhou-m6-p019, kevin-zhou-m6-p020, kevin-zhou-m6-p022]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics VI: Gravitation

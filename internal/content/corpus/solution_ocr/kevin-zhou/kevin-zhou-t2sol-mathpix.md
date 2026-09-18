@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/T2Sol.pdf
-mapped_problems: [kevin-zhou-t2-ex001, kevin-zhou-t2-ex002, kevin-zhou-t2-ex003, kevin-zhou-t2-ex004, kevin-zhou-t2-ex006, kevin-zhou-t2-ex007, kevin-zhou-t2-ex008, kevin-zhou-t2-ex009, kevin-zhou-t2-ex011, kevin-zhou-t2-ex012, kevin-zhou-t2-ex013, kevin-zhou-t2-p002, kevin-zhou-t2-p003, kevin-zhou-t2-p004, kevin-zhou-t2-p006, kevin-zhou-t2-p007, kevin-zhou-t2-p008, kevin-zhou-t2-p009, kevin-zhou-t2-p013, kevin-zhou-t2-p014, kevin-zhou-t2-p015, kevin-zhou-t2-p016, kevin-zhou-t2-p017, kevin-zhou-t2-p023, kevin-zhou-t2-p024, kevin-zhou-t2-p028]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Thermodynamics II

@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M5Sol.pdf
-mapped_problems: [kevin-zhou-m5-ex002, kevin-zhou-m5-ex005, kevin-zhou-m5-ex006, kevin-zhou-m5-ex008, kevin-zhou-m5-p001, kevin-zhou-m5-p004, kevin-zhou-m5-p005, kevin-zhou-m5-p015, kevin-zhou-m5-p025, kevin-zhou-m5-p026]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics V: 2D Rotation

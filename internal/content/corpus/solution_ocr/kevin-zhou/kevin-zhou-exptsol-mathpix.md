@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/ExptSol.pdf
-mapped_problems: [kevin-zhou-expt-ex002, kevin-zhou-expt-p003, kevin-zhou-expt-p004, kevin-zhou-expt-p005, kevin-zhou-expt-p006, kevin-zhou-expt-p009]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Preparing for the Experimental Exam

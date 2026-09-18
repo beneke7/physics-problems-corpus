@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/T3Sol.pdf
-mapped_problems: [kevin-zhou-t3-ex001, kevin-zhou-t3-ex002, kevin-zhou-t3-ex003, kevin-zhou-t3-p001, kevin-zhou-t3-p006, kevin-zhou-t3-p007, kevin-zhou-t3-p009, kevin-zhou-t3-p015]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Thermodynamics III

@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E2Sol.pdf
-mapped_problems: [kevin-zhou-e2-ex001, kevin-zhou-e2-ex004, kevin-zhou-e2-ex005, kevin-zhou-e2-ex007, kevin-zhou-e2-p002, kevin-zhou-e2-p003, kevin-zhou-e2-p004, kevin-zhou-e2-p006, kevin-zhou-e2-p011, kevin-zhou-e2-p017, kevin-zhou-e2-p021, kevin-zhou-e2-p023, kevin-zhou-e2-p026]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism II: Electricity

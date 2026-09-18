@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M4Sol.pdf
-mapped_problems: [kevin-zhou-m4-ex003, kevin-zhou-m4-ex005, kevin-zhou-m4-ex007, kevin-zhou-m4-ex008, kevin-zhou-m4-ex010, kevin-zhou-m4-p002, kevin-zhou-m4-p006, kevin-zhou-m4-p007, kevin-zhou-m4-p012, kevin-zhou-m4-p016, kevin-zhou-m4-p017, kevin-zhou-m4-p018, kevin-zhou-m4-p019, kevin-zhou-m4-p025, kevin-zhou-m4-p026, kevin-zhou-m4-p027]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics IV: Oscillations

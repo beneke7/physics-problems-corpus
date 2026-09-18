@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/T1Sol.pdf
-mapped_problems: [kevin-zhou-t1-ex001, kevin-zhou-t1-ex002, kevin-zhou-t1-ex003, kevin-zhou-t1-ex004, kevin-zhou-t1-ex006, kevin-zhou-t1-ex008, kevin-zhou-t1-ex009, kevin-zhou-t1-ex010, kevin-zhou-t1-p004, kevin-zhou-t1-p007, kevin-zhou-t1-p009, kevin-zhou-t1-p010, kevin-zhou-t1-p016, kevin-zhou-t1-p017, kevin-zhou-t1-p018, kevin-zhou-t1-p019, kevin-zhou-t1-p020, kevin-zhou-t1-p021, kevin-zhou-t1-p024]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Thermodynamics I

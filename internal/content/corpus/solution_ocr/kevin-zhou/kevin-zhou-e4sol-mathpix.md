@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E4Sol.pdf
-mapped_problems: [kevin-zhou-e4-ex002, kevin-zhou-e4-ex005, kevin-zhou-e4-ex006, kevin-zhou-e4-p011, kevin-zhou-e4-p014, kevin-zhou-e4-p018, kevin-zhou-e4-p020, kevin-zhou-e4-p021, kevin-zhou-e4-p022]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism IV: Lorentz Force

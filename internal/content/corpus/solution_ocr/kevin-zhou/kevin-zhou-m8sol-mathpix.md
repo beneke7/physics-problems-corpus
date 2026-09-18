@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M8Sol.pdf
-mapped_problems: [kevin-zhou-m8-ex001, kevin-zhou-m8-ex005, kevin-zhou-m8-ex008, kevin-zhou-m8-ex010, kevin-zhou-m8-p025, kevin-zhou-m8-p026, kevin-zhou-m8-p028, kevin-zhou-m8-p031, kevin-zhou-m8-p032]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics VIII: 3D Rotation

@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E3Sol.pdf
-mapped_problems: [kevin-zhou-e3-ex002, kevin-zhou-e3-ex003, kevin-zhou-e3-ex006, kevin-zhou-e3-p008, kevin-zhou-e3-p022]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism III: Magnetostatics

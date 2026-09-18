@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/W2Sol.pdf
-mapped_problems: [kevin-zhou-w2-ex004, kevin-zhou-w2-ex008, kevin-zhou-w2-ex009, kevin-zhou-w2-p002, kevin-zhou-w2-p004, kevin-zhou-w2-p006, kevin-zhou-w2-p008, kevin-zhou-w2-p010, kevin-zhou-w2-p011, kevin-zhou-w2-p015, kevin-zhou-w2-p017, kevin-zhou-w2-p023, kevin-zhou-w2-p024, kevin-zhou-w2-p025, kevin-zhou-w2-p026]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Waves II: Interference and Diffraction

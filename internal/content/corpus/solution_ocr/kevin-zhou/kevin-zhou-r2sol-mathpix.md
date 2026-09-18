@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/R2Sol.pdf
-mapped_problems: [kevin-zhou-r2-ex005, kevin-zhou-r2-ex007, kevin-zhou-r2-ex008, kevin-zhou-r2-ex009, kevin-zhou-r2-ex010, kevin-zhou-r2-p001, kevin-zhou-r2-p003, kevin-zhou-r2-p005, kevin-zhou-r2-p010, kevin-zhou-r2-p015, kevin-zhou-r2-p016, kevin-zhou-r2-p025]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Relativity II: Dynamics

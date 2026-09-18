@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/P2Sol.pdf
-mapped_problems: [kevin-zhou-p2-ex001, kevin-zhou-p2-ex002, kevin-zhou-p2-ex003, kevin-zhou-p2-ex004, kevin-zhou-p2-ex005, kevin-zhou-p2-ex006, kevin-zhou-p2-p002, kevin-zhou-p2-p003, kevin-zhou-p2-p004, kevin-zhou-p2-p005, kevin-zhou-p2-p006, kevin-zhou-p2-p007, kevin-zhou-p2-p009, kevin-zhou-p2-p011, kevin-zhou-p2-p012, kevin-zhou-p2-p013, kevin-zhou-p2-p014, kevin-zhou-p2-p017, kevin-zhou-p2-p019, kevin-zhou-p2-p022, kevin-zhou-p2-p023, kevin-zhou-p2-p028, kevin-zhou-p2-p030]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Problem Solving II: Data and Uncertainty

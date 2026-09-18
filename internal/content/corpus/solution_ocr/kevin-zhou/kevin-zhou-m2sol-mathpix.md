@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M2Sol.pdf
-mapped_problems: [kevin-zhou-m2-ex001, kevin-zhou-m2-ex002, kevin-zhou-m2-ex006, kevin-zhou-m2-ex007, kevin-zhou-m2-ex009, kevin-zhou-m2-ex010, kevin-zhou-m2-ex011, kevin-zhou-m2-ex012, kevin-zhou-m2-ex013, kevin-zhou-m2-ex014, kevin-zhou-m2-ex015, kevin-zhou-m2-ex017, kevin-zhou-m2-p005, kevin-zhou-m2-p006, kevin-zhou-m2-p011, kevin-zhou-m2-p025, kevin-zhou-m2-p030, kevin-zhou-m2-p033]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics II: Statics

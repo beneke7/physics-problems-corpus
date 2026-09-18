@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/P1Sol.pdf
-mapped_problems: [kevin-zhou-p1-ex001, kevin-zhou-p1-ex004, kevin-zhou-p1-ex005, kevin-zhou-p1-ex006, kevin-zhou-p1-ex007, kevin-zhou-p1-ex008, kevin-zhou-p1-ex009, kevin-zhou-p1-ex011, kevin-zhou-p1-ex012, kevin-zhou-p1-ex014, kevin-zhou-p1-ex016, kevin-zhou-p1-ex018, kevin-zhou-p1-ex019, kevin-zhou-p1-p003, kevin-zhou-p1-p004, kevin-zhou-p1-p006, kevin-zhou-p1-p007, kevin-zhou-p1-p009, kevin-zhou-p1-p010, kevin-zhou-p1-p011, kevin-zhou-p1-p015, kevin-zhou-p1-p016, kevin-zhou-p1-p017, kevin-zhou-p1-p018, kevin-zhou-p1-p019, kevin-zhou-p1-p020, kevin-zhou-p1-p022, kevin-zhou-p1-p028, kevin-zhou-p1-p029, kevin-zhou-p1-p031, kevin-zhou-p1-p033, kevin-zhou-p1-p035, kevin-zhou-p1-p036]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Problem Solving I: Mathematical Techniques

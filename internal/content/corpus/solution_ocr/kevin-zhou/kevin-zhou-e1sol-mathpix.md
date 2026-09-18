@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/E1Sol.pdf
-mapped_problems: [kevin-zhou-e1-ex003, kevin-zhou-e1-ex005, kevin-zhou-e1-ex007, kevin-zhou-e1-ex009, kevin-zhou-e1-ex012, kevin-zhou-e1-ex013, kevin-zhou-e1-p002, kevin-zhou-e1-p004, kevin-zhou-e1-p005, kevin-zhou-e1-p006, kevin-zhou-e1-p007, kevin-zhou-e1-p016, kevin-zhou-e1-p019, kevin-zhou-e1-p020, kevin-zhou-e1-p021]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Electromagnetism I: Electrostatics

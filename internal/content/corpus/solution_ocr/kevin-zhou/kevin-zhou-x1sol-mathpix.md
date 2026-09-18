@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/X1Sol.pdf
-mapped_problems: [kevin-zhou-x1-ex002, kevin-zhou-x1-ex003, kevin-zhou-x1-ex004, kevin-zhou-x1-ex005, kevin-zhou-x1-ex006, kevin-zhou-x1-ex007, kevin-zhou-x1-p001, kevin-zhou-x1-p003, kevin-zhou-x1-p004, kevin-zhou-x1-p009, kevin-zhou-x1-p012, kevin-zhou-x1-p013, kevin-zhou-x1-p014, kevin-zhou-x1-p018, kevin-zhou-x1-p019, kevin-zhou-x1-p020, kevin-zhou-x1-p025, kevin-zhou-x1-p027, kevin-zhou-x1-p028, kevin-zhou-x1-p029]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Modern I: Semiclassical Mechanics

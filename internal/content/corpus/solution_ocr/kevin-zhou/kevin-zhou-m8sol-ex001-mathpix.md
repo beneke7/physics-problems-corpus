@@ -1,0 +1,494 @@
+---
+id: solution-ocr-kevin-zhou-m8sol-ex001
+source: kevin-zhou
+kind: official_solution_document
+language: en
+solution_type: official
+source_pdf: sources/kevin_zhou/site/handouts/M8Sol.pdf
+extraction_method: mathpix-pdf-api-md
+mapped_problems: [kevin-zhou-m8-ex001]
+verification_status: promoted
+canonical_solution: true
+provenance_note: "Mathpix booklet slice; canonical display excludes explicit grading-only material. Full source booklet retained as an archive."
+---
+Example 1
+You have a small globe, which is mounted so that it can spin on the polar axis and can be spun about a horizontal axis (so that the south pole can be on top). Give the globe a quick spin about the polar axis, and then, before it stops, give it another quick spin about the horizontal axis. Are there any points on the globe that are at rest?
+
+
+Solution
+The first spin gives the angular velocity a vertical component $\boldsymbol { \omega } _ { 1 }$. The second spin gives the angular velocity an additional horizontal component $\boldsymbol { \omega } _ { 2 }$. The globe now rotates about its center of mass with angular velocity $\boldsymbol { \omega } _ { 1 } + \boldsymbol { \omega } _ { 2 }$. Precisely two points on the globe are stationary, namely the points that are parallel and antiparallel to this vector.
+
+[2] Problem 1 (Morin 9.3). A cone rolls without slipping on a table; this means that all the points of the cone that touch the table are instantaneously stationary. The half-angle of the vertex is $\alpha$, and the axis has length $h$.
+![](../../../figures/solution-ocr/67629ac543f775ceeee04890.jpg)
+Let the speed of the center of the base, point $P$ in the figure, be $v$.
+    (a) Compute the angular velocity $\boldsymbol { \omega }$ by thinking of the motion as pure rotation about some axis.
+    (b) Compute the angular velocity $\boldsymbol { \omega }$ by thinking of the motion as translation of $P$, plus rotation about an axis passing through $P$.
+    (c) The apex of the cone is fixed, and the cone continues to rotate. As this motion goes on, the angular velocity vector rotates uniformly, keeping a constant magnitude. Find the precession rate $\boldsymbol { \Omega }$, i.e. the constant vector that satisfies $d \boldsymbol { \omega } / d t = \boldsymbol { \Omega } \times \boldsymbol { \omega }$ at all times.
+
+Heuristically, the precession rate $\boldsymbol { \Omega }$ is "the angular velocity of the angular velocity". For the relevant problems below, it's important to keep track of the difference between $\boldsymbol { \omega }$ and $\boldsymbol { \Omega }$.
+
+Solution. (a) The points of the cone that touch the table form a line. This whole line is instantaneously stationary, so the motion is pure rotation about this axis. Let $d$ be the distance from $P$ to the ground. Then the speed of point $P$ is $v = \omega d$, which gives
+
+$$
+\omega = \frac { v } { d } = \frac { v } { h \sin \alpha } .
+$$
+
+
+(b) The point $P$ has speed $v$. The point directly below $P$ is at rest, and its velocity can also be written as $v - \omega d$. Then $v = \omega d$, giving the same answer as above.
+(c) The center of the base moves in a circle of radius $h \cos \alpha$ with speed $v$, and hence completes one cycle in time $2 \pi h \cos \alpha / v$. Hence the precession rate is
+$$
+\mathbf { \Omega } = - \frac { v } { h \cos \alpha } \hat { \mathbf { z } }
+$$
+where we used the right hand rule to find the sign. Note how this is distinct from the angular velocity: not only do they have totally different magnitudes, they point in totally different directions! The angular velocity vector only describes what a body is doing right now. It is completely independent of $\boldsymbol { \Omega }$, which is about what the body will do in the future.
+
+Most of our statements about rotational dynamics from M5 remain true. The main new aspect is that angular momentum is not necessarily parallel to angular velocity.
+
+
+Example 2: KK Example 7.4
+Consider a rigid body consisting of two particles of mass $m$ connected by a massless rod of length $2 \ell$, rotating about the $z$-axis with angular velocity $\omega$ as shown.
+![](../../../figures/solution-ocr/9be46eb18bfc2f6f8a477272.jpg)
+Find the angular momentum of the system.
+
+Solution
+We simply add $\mathbf { r } \times \mathbf { p }$ for both masses. Let the rod lie in the $x z$ plane at this moment. Then for the top left mass,
+
+$$
+\mathbf { r } = - \ell \cos \alpha \hat { \mathbf { x } } + \ell \sin \alpha \hat { \mathbf { z } } .
+$$
+
+The momentum is
+
+$$
+\mathbf { p } = m \mathbf { v } = m \boldsymbol { \omega } \times \mathbf { r } = - m \omega \ell \cos \alpha \hat { \mathbf { y } } .
+$$
+
+Then the angular momentum is
+
+$$
+\mathbf { L } = \mathbf { r } \times \mathbf { p } = m \omega \ell ^ { 2 } \cos \alpha ( \sin \alpha \hat { \mathbf { x } } + \cos \alpha \hat { \mathbf { z } } ) .
+$$
+
+The other mass has the opposite r and p and hence the same L, so the total angular momentum is
+
+$$
+\mathbf { L } = 2 m \omega \ell ^ { 2 } \cos \alpha ( \sin \alpha \hat { \mathbf { x } } + \cos \alpha \hat { \mathbf { z } } ) .
+$$
+
+It is directed perpendicular to the rod, and in particular, it isn't parallel to the angular velocity!
+Here is another way to derive the same result. We can decompose the angular velocity vector into a component along the rod, and a component perpendicular to the rod. The former contributes no angular momentum, because rotating about the rod's axis doesn't move the masses. The latter contributes all the angular momentum. So the angular momentum is
+
+$$
+L = I _ { \perp } \omega _ { \perp } = \left( 2 m \ell ^ { 2 } \right) ( \omega \cos \alpha )
+$$
+
+directed perpendicular to the rod, which is what we just saw explicitly.
+We can summarize the lessons drawn from this example as follows.
+
+
+Idea 3
+For a three-dimensional object, $\mathbf { L }$ is not necessarily parallel to $\boldsymbol { \omega }$. In general, for pure rotation about an axis passing through the origin, we have $\mathbf { L } = I \boldsymbol { \omega }$ where $I$ is a 3 × 3 matrix called the "moment of inertia tensor about the origin". In components, this means that
+
+$$
+L _ { i } = \sum _ { j } I _ { i j } \omega _ { j } .
+$$
+
+While this is simple and general, the $I _ { i j }$ are a pain to calculate. You can learn more in the reading, but to my knowledge, no Olympiad problem has ever required computing a general moment of inertia tensor.
+
+For the purposes of Olympiad problems, there is a better way to think about the angular momentum. We use the first decomposition of idea 1, and think of the motion as translation plus rotation about the center of mass. If the object has an axis of symmetry, which it will in almost all Olympiad problems, then the angular velocity can then be decomposed into a component parallel to the axis, and perpendicular to the axis,
+
+$$
+\omega = \omega _ { \| } + \omega _ { \perp } .
+$$
+
+The key is that, in such situations, the spin angular momentum has two pieces, which are each parallel to the corresponding piece of the angular velocity,
+
+$$
+\mathbf { L } _ { \| } = I _ { \| } \boldsymbol { \omega } _ { \| } , \quad \mathbf { L } _ { \perp } = I _ { \perp } \boldsymbol { \omega } _ { \perp }
+$$
+
+where $I _ { \| }$and $I _ { \perp }$ are ordinary moments of inertia about the center of mass. For example, for a flat uniform disc, $I _ { \| } = M R ^ { 2 } / 2$ and $I _ { \perp } = M R ^ { 2 } / 4$.
+
+The total angular momentum about the origin is then
+
+$$
+\mathbf { L } = \mathbf { r } _ { \mathrm { CM } } \times M \mathbf { v } _ { \mathrm { CM } } + I _ { \| } \boldsymbol { \omega } _ { \| } + I _ { \perp } \boldsymbol { \omega } _ { \perp }
+$$
+
+where the first term is from the motion of the center of mass, and the next two are from rotation about the center of mass. Note that this is exactly the same as what we saw in M5, except that the "spin" angular momentum is broken into two parts.
+
+Finally, the rate of change of angular momentum is
+
+$$
+\frac { d \mathbf { L } } { d t } = \boldsymbol { \tau }
+$$
+
+where the torque $\boldsymbol { \tau }$ is defined as in M5. The kinetic energy is
+
+$$
+K = \frac { 1 } { 2 } M v _ { \mathrm { CM } } ^ { 2 } + \frac { 1 } { 2 } I _ { \| } \omega _ { \| } ^ { 2 } + \frac { 1 } { 2 } I _ { \perp } \omega _ { \perp } ^ { 2 } .
+$$
+
+
+Remark
+In any dynamics problem, there are many choices you can make in the setup. For example, if you're using an inertial frame, you need to choose where the origin is; usually it's best to place it along the axis of symmetry if possible. You are also free to use a noninertial frame with acceleration a. The only difference is that there will be a fictitious force $- M \mathbf { a }$ acting at the center of mass. For that reason, it's usually best to have the accelerating frame follow the center of mass, keeping it at its origin, so no new torques are introduced.
+
+However, you should usually avoid rotating reference frames for dynamics problems. Not only will there be position-dependent Coriolis and centrifugal forces, but they'll contribute torques which are a pain to calculate, as you saw in M6. In general, rotating frames are only good for getting a handle on the kinematics, as mentioned in idea 2.
+
+Example 3: KK Example 7.5
+Calculate the magnitude of the torque on the rod in example 2.
+
+Solution
+We recall that the angular momentum was
+
+$$
+\mathbf { L } = 2 m \omega \ell ^ { 2 } \cos \alpha ( \sin \alpha \hat { \mathbf { x } } + \cos \alpha \hat { \mathbf { z } } ) .
+$$
+
+The rod as a whole rotates with angular velocity $\omega \hat { \mathbf { z } }$. In particular, the angular momentum vector rotates with this angular velocity as well; its horizontal component moves in a circle with angular velocity $\omega$. Then
+
+$$
+| \boldsymbol { \tau } | = \left| \frac { d \mathbf { L } } { d t } \right| = \omega L _ { x } = 2 m \omega ^ { 2 } \ell ^ { 2 } \cos \alpha \sin \alpha = m \omega ^ { 2 } \ell ^ { 2 } \sin ( 2 \alpha ) .
+$$
+
+It might be surprising that there needs to be a torque given that $\boldsymbol { \omega }$ is constant, but that's just because $\mathbf { L }$ and $\boldsymbol { \omega }$ aren't necessarily parallel. Conversely, there can be situations where there is no torque, yet $\boldsymbol { \omega }$ changes over time.
+
+[2] Problem 2 (Morin 9.10). A stick of mass $m$ and length $\ell$ spins with angular frequency $\omega$ around an axis in zero gravity, as shown.
+![](../../../figures/solution-ocr/31ca0375f608d442a3f871c7.jpg)
+The stick makes an angle $\theta$ with the axis and is kept in its motion by two strings that are perpendicular to the axis. Find the tension in the strings.
+
+Solution. This is a very slight variation on the example. Again, the component of angular velocity parallel to the stick contributes no angular momentum, and the component perpendicular to the stick is $\omega \sin \theta$, so it contributes
+
+$$
+L = \frac { 1 } { 12 } m \ell ^ { 2 } \omega \sin \theta .
+$$
+
+Only the horizontal component of $\mathbf { L }$ is changing over time, so the magnitude of the torque is $\tau = \omega L \cos \theta$. On the other hand, we also know that the torque is $2 T ( \ell / 2 ) \cos \theta$. Equating these expressions and solving gives
+
+$$
+T = \frac { 1 } { 12 } m \ell \omega ^ { 2 } \sin \theta .
+$$
+
+[3] Problem 3 (KK 7.1). A thin hoop of mass $M$ and radius $R$ rolls without slipping about the $z$-axis. It is supported by an axle of length $R$ through its center, as shown.
+![](../../../figures/solution-ocr/b134b140b8c7d6ff534d6219.jpg)
+The axle circles around the $z$-axis with angular speed $\Omega$, so that the bottom point of the wheel traces out a circle of radius $R$. Let $O$ be the pivot point of the rod, i.e. the point where the rod meets the $z$-axis.
+    (a) Find the instantaneous angular velocity $\boldsymbol { \omega }$ of the hoop. (Before moving forward, you'll want to be totally sure you have this part right. Sometimes, students get confused on it because they imagine a symmetric pair of hoops instead. However, if you actually had a pair, the setup wouldn't even make sense. Why not?)
+    (b) As the motion continues, the angular velocity vector rotates in a circle. Find the precession rate $\boldsymbol { \Omega }$ of this system.
+    (c) Find the instantaneous angular momentum $\mathbf { L }$ of the hoop, about the point $O$.
+
+Solution. (a) Since both $O$ and the bottom point of the hoop are stationary, the angular velocity must be parallel to the line joining them,
+
+$$
+\omega \propto \hat { \mathbf { z } } - \hat { \mathbf { y } } .
+$$
+
+In fact, the motion can be thought of as pure rotation about the line joining them. Now consider the motion of the rod. The $y$-component of the angular velocity doesn't affect the rod, while the $z$-component makes it rotate about the $z$-axis. We are already given that the rod rotates with angular speed $\Omega$ about the $z$-axis, so we must have $\omega _ { z } = \Omega$, and hence
+
+$$
+\omega = \Omega \hat { \mathbf { z } } - \Omega \hat { \mathbf { y } } .
+$$
+
+
+Alternatively, this part can be done using an intermediate rotating frame. We first go to the frame rotating with angular velocity $\Omega \hat { \mathbf { z } }$. In this frame the rod is frozen in place, while the wheel turns in place, with angular velocity $- \Omega \hat { \mathbf { y } }$. So the angular velocity in the original frame is the sum, giving the same answer.
+
+A very common incorrect answer to this question is $\boldsymbol { \omega } = \Omega \hat { \mathbf { z } }$. Usually, this happens because a student implicitly imagines this system is part of a symmetric pair of hoops, like the two wheels on a wheelchair or cart. Then by symmetry, $\boldsymbol { \omega }$ has to point along $\hat { \mathbf { z } }$, right? The problem with this reasoning is that it's actually impossible for a rigidly connected pair of wheels to rotate as shown, without at least one wheel slipping on the ground. (We would need $\boldsymbol { \omega } = \Omega \hat { \mathbf { z } } - \Omega \hat { \mathbf { y } }$ for the original wheel not to slip, and $\boldsymbol { \omega } = \Omega \hat { \mathbf { z } } + \Omega \hat { \mathbf { y } }$ for the other wheel not to slip.) Wheelchairs don't face this problem because their wheels aren't rigidly connected. In a car, we do want to connect a pair of wheels to a single engine, but we do it with a fancy gear called a differential which allows the wheels to rotate at different rates.
+
+(b) Since the wheel is rigidly attached to the rod, this is simply $\Omega \hat { \mathbf { z } }$.
+(c) We apply the result
+$$
+\mathbf { L } = \mathbf { r } _ { \mathrm { CM } } \times M \mathbf { v } _ { \mathrm { CM } } + I _ { \| } \boldsymbol { \omega } _ { \| } + I _ { \perp } \boldsymbol { \omega } _ { \perp } .
+$$
+We have $I _ { \| } = M R ^ { 2 }$ and $I _ { \perp } = M R ^ { 2 } / 2$, so
+$$
+\mathbf { L } = M R ^ { 2 } \Omega \hat { \mathbf { z } } - M R ^ { 2 } \Omega \hat { \mathbf { y } } + \frac { M R ^ { 2 } } { 2 } \Omega \hat { \mathbf { z } } = M R ^ { 2 } \Omega \left( \frac { 3 } { 2 } \hat { \mathbf { z } } - \hat { \mathbf { y } } \right) .
+$$
+[2] Problem 4 (KK 7.4). In an old-fashioned rolling mill, grain is ground by a disk-shaped millstone which rolls in a circle on a flat surface driven by a heavy vertical shaft. Because of the stone's angular momentum, the contact force with the surface can be greater than the weight of the wheel.
+![](../../../figures/solution-ocr/6204d5c21f4c20e3eb8c3b7b.jpg)
+Assume the millstone is a uniform disk of mass $M$, radius $b$, and width $w$, and it rolls without slipping in a circle of radius $R$ with angular velocity $\Omega$. Find the contact force $N$. Assume the millstone is closely fitted to the axle so that it cannot tip, and $w \ll R$. Neglect friction.
+Solution. Take torques about the point where the vertical and horizontal rods meet. Because we are neglecting friction, the only torque on the system is from gravity on the stone, and the normal force with the ground,
+$$
+\tau = ( N - M g ) R .
+$$
+
+Note that there is also a normal force $N ^ { \prime }$ on the bottom of the shaft, and the weight force $M ^ { \prime } g$ for the shaft. These two forces won't play a role below, since they exert no torque, but they ensure vertical force balance, $\left( M + M ^ { \prime } \right) g = N + N ^ { \prime }$. Also, as mentioned in M5, we are assuming there is negligible bending moment from the pivots, which is reasonable since they are typically small.
+
+The angular momentum due to the motion of the center of mass is vertical and constant, so it doesn't matter. As in problem 3, the angular velocity connects this point and the contact point, so
+
+$$
+\omega = \frac { R } { b } \Omega \hat { \mathbf { x } } + \Omega \hat { \mathbf { z } } .
+$$
+
+The vertical component of the angular velocity yields another constant vertical component of the angular momentum, so it also doesn't matter. The only part of the angular momentum that changes is the part due to the horizontal component of the angular velocity of the axle. The whole system precesses with angular velocity $\Omega \hat { \mathbf { z } }$, so
+
+$$
+\tau = \frac { R \Omega } { b } \Omega \left( \frac { 1 } { 2 } M b ^ { 2 } \right) .
+$$
+
+Setting this equal to our other expression for torque and solving gives
+
+$$
+N = M g \left( 1 + \frac { b \Omega ^ { 2 } } { 2 g } \right) .
+$$
+
+This is greater than $M g$, so the vertical shaft exerts a downward force on the horizontal rod.
+
+## Idea 4: Precession
+
+In the above problems, we've seen a few examples of systems undergoing uniform precession. In these cases, the angular velocity and the angular momentum vectors rotate with a uniform angular velocity $\boldsymbol { \Omega }$, called the precession rate, where
+
+$$
+\frac { d \boldsymbol { \omega } } { d t } = \boldsymbol { \Omega } \times \boldsymbol { \omega } , \quad \frac { d \mathbf { L } } { d t } = \boldsymbol { \Omega } \times \mathbf { L } .
+$$
+
+Precession is easiest to see in gyroscopes, which are systems spun up to a very high angular velocity, subject to a weak external torque, so that $\Omega \ll \omega$. (Kleppner and Kolenkow call this the "gyroscope approximation".) More generally, you'll have to decide whether or not $\Omega \ll \omega$ in each case.
+
+## Example 4: KK 7.3
+
+A gyroscope wheel is at one end of an axle of length $\ell$. The other end of the axle is suspended from a string of length $L$.
+![](../../../figures/solution-ocr/b12b0d65f76e05439dbc60a1.jpg)
+
+
+The wheel is set into motion so that it executes slow, uniform precession in the horizontal plane. The wheel has mass $M$ and moment of inertia $I _ { 0 }$ about its center of mass, and turns with angular speed $\omega$. Neglect the mass of the shaft and string. Find the angle $\beta$ the string makes with the vertical, assuming $\beta$ is very small.
+
+## Solution
+
+Let $T$ be the tension in the rope, and let the precession rate be $\boldsymbol { \Omega } = \Omega \hat { \mathbf { z } }$. Since the center of mass does not accelerate vertically, and the center of mass moves in a horizontal circle,
+
+$$
+T \cos \beta = M g , \quad T \sin \beta = M \Omega ^ { 2 } ( \ell + L \sin \beta ) .
+$$
+
+We'll work to lowest possible order in $\beta$ everywhere, which means approximating $\cos \beta \approx 1$ and ignoring the $L \sin \beta$ term, giving
+
+$$
+T = M g , \quad T \beta = M \Omega ^ { 2 } \ell .
+$$
+
+Combining these equations gives the precession angular frequency
+
+$$
+\Omega = \sqrt { \frac { g \beta } { \ell } } .
+$$
+
+This is as far as we can go with forces alone.
+Now we use $\boldsymbol { \tau } = d \mathbf { L } / d t$, taking torques about the point the string meets the ceiling. As in the previous examples, the angular velocity of the system has a component $\Omega \hat { \mathbf { z } }$, which contributes to a constant $L _ { z }$. The change in the angular velocity comes from the horizontal components, which yield $| \boldsymbol { \tau } | = I _ { 0 } \Omega \omega$. The only torque on the system comes from gravity, $| \boldsymbol { \tau } | = M g ( \ell + L \sin \beta ) \approx M g \ell$. Combining our results and solving for $\beta$ yields
+
+$$
+\beta = \frac { M ^ { 2 } g \ell ^ { 3 } } { \omega ^ { 2 } I _ { 0 } ^ { 2 } } .
+$$
+
+Did we actually use the gyroscope approximation here? This kind of motion intuitively seems like it requires a gyroscope, but we never used $\Omega \ll \omega$ explicitly in the above derivation. However, note that we can rearrange our results in the form
+
+$$
+\beta = \frac { \Omega } { \omega } \frac { M \ell ^ { 2 } } { I _ { 0 } } .
+$$
+
+If the radius of the wheel is comparable to $\ell$, then the final fraction is order-one, so it is only possible to have $\beta \ll 1$ if $\Omega \ll \omega$.
+
+## Remark
+
+In most gyroscope problems, we simply assume the system is already undergoing uniform precession. However, you might wonder just how it gets started in the first place. For example, suppose we had the same setup as the previous problem, with the wheel spinning and the axle
+
+
+horizontal. For simplicity, let's get rid of the string and suppose the end of the axle is held at a fixed support. Now suppose the axle and wheel are released with no translational motion.
+
+The following chain of events ensues:
+
+1. Because of gravity, the wheel starts to move down.
+2. Since the wheel is rigidly attached to the axle, the axle starts to tip downward.
+3. This produces a downward component of angular momentum, which is balanced by the axle/wheel system starting to rotate about the $z$-axis. That is, the center of mass of the wheel moves into the page, starting the precession.
+4. This precession makes the axle exert an extra upward force on the wheel, stopping its fall. In reality the process overshoots and overcorrects, leading to oscillations called nutation. (For details, see Note 2 of chapter 7 of Kleppner and Kolenkow.)
+5. For a typical pivot, energy can be dissipated at the pivot point, but the angular momentum of the system stays roughly the same because the pivot is small. Assuming this is the case, the oscillations will eventually damp away, leaving a uniform precession.
+
+Notice that in this example, the initial angular momentum is perfectly horizontal. The final angular momentum includes an upward component due to the uniform precession, which implies that the axle must tilt slightly downward, by an angle of order $( \Omega / \omega ) ^ { 2 }$. Therefore, if you want to set up uniform precession with the axle perfectly horizontal, as in the above example, you should point the axle slightly upward when releasing it from rest.
+
+[2] Problem 5 (KK 8.5). An "integrating gyro" can be used to measure the speed of a vehicle. Consider a gyroscope spinning at high speed $\omega _ { s }$. The gyroscope is attached to a vehicle by a universal pivot. If the vehicle accelerates in the direction perpendicular to the spin axis at rate $a$, then the gyroscope will precess about the acceleration axis, as shown.
+![](../../../figures/solution-ocr/c465fa50af16b6b5a8be9764.jpg)
+The total angle of precession is $\theta$. Show that if the vehicle starts from rest, its final speed is
+$$
+v = \frac { I _ { s } \omega _ { s } } { M \ell } \theta
+$$
+where $I _ { s } \omega _ { s }$ is the gyroscope's spin angular momentum, $M$ is the total mass, and $\ell$ is the distance from the pivot to the center of mass.
+
+Solution. Work in the accelerating reference frame where the pivot is at rest. Using the gyroscope approximation, we see that $\dot { L } = I _ { s } \omega _ { s } \omega$ where $\omega = \dot { \theta }$, and $\tau = M a \ell$. Thus,
+
+$$
+a = \frac { I _ { s } \omega _ { s } \dot { \theta } } { M \ell } .
+$$
+
+Integrating yields the desired result.
+[3] Problem 6 (KK 7.5). When an automobile rounds a curve at high speed, the weight distribution on the wheels is changed. For sufficiently high speeds, the loading on the inside wheels goes to zero, at which point the car starts to roll over. This tendency can be avoided by mounting a large spinning flywheel on the car.
+
+(a) In what direction should the flywheel be mounted, and what should be the sense of rotation, to help equalize the loading? (Check your method works for the car turning in either direction.)
+(b) Show that for a disk-shaped flywheel of mass $m$ and radius $R$, the requirement for equal loading is that the angular velocity $\omega$ of the flywheel is related to the velocity of the car $v$ by
+$$
+\omega = 2 v \frac { M L } { m R ^ { 2 } }
+$$
+where $M$ is the total mass of the car and flywheel, and $L$ is the height of their center of mass.
+
+Solution. (a) If the car is turning with a radius of curvature of $r$ at velocity $v$, then the frictional force must provide the centripetal force of $f = M v ^ { 2 } / r$. This will exert a torque of $f L$ on the car about the center of mass, where $L$ is the height of the center of mass. The torque points forward for turning left, and backwards for turning right.
+
+Normally, a difference in the normal forces between the wheels will provide the opposing torque to keep the car from rolling over. To keep an equal loading, the flywheel must provide the opposing torque. Another way to think about it is to have the torque from friction to cause precession of the flywheel instead of turning the car (the equal and opposite "reaction torque" will keep the car stable).
+The key is that as the car is turning, the flywheel will also turn with the car at angular velocity $v / r$, thus the direction of its spin angular momentum $\mathbf { L } _ { s }$ will change. From a top view, that means the forwards torque for turning left must turn $\mathbf { L } _ { s }$ counterclockwise, and the backwards torque for turning right must turn $\mathbf { L } _ { s }$ clockwise. This works when $\mathbf { L } _ { s }$ is pointing to the right with respect to the car's motion (the flywheel spins in the opposite direction from that of the wheels).
+
+(b) In order for the torque from friction to turn the flywheel, $\tau = f L = L _ { s } ( v / r )$. For a disk-shaped flywheel with angular momentum $L _ { s } = \frac { 1 } { 2 } m R ^ { 2 } \omega$, putting in $f = M v ^ { 2 } / r$ yields
+$$
+\frac { M v ^ { 2 } L } { r } = \frac { 1 } { 2 } m R ^ { 2 } \frac { \omega v } { r }
+$$
+which is equivalent to the desired result.
+
+[3] Problem 7 (KK 7.7). A thin hoop of mass $M$ and radius $R$ is suspended from a string through a point on the rim of the hoop. The string makes an angle $\alpha$ with the vertical.
+
+
+![](../../../figures/solution-ocr/b24048185b7cc9c9e3245cfb.jpg)
+The support is turned with angular velocity $\omega$, which is high enough so that the hoop's plane makes a small angle $\beta$ with the horizontal, and the hoop's center travels in a small circle of radius $r \ll R$.
+
+(a) Does the gyroscope approximation apply in this problem?
+(b) Find approximate expressions for $\beta$ and $r$.
+
+Solution. (a) No. The whole system is undergoing uniform rotation about the $\hat { \mathbf { z } }$ axis, i.e. in the frame rotating with the support, the whole system is just static! Thus, the precession rate $\Omega$ is just equal to the spin rate $\omega$, so we don't have $\Omega \ll \omega$.
+
+In fact, it is possible to solve part (b) like a statics problem in that rotating frame. However, doing so introduces a centrifugal torque, which is annoying to compute. (I thank Toshiv Chowdhary for pointing this out.) It turns out to be easier to stay in a nonrotating frame.
+
+(b) To balance vertical forces, the tension $T$ in the string obeys $T \cos \alpha = M g$. Now work in the noninertial but nonrotating frame which follows the hoop's center of mass. In this frame, the only torque about the hoop's center of mass is from the tension. The angle between the string and the plane of the hoop is $\pi - ( \alpha + \pi / 2 - \beta ) = \pi / 2 - \alpha + \beta$, so
+$$
+\tau = T R \sin ( \pi / 2 - \alpha + \beta ) = T R \cos ( \alpha - \beta ) .
+$$
+This torque rotates the horizontal component of the angular momentum with precession rate $\omega$. To find the horizontal component, we decompose $\boldsymbol { \omega } = \omega \hat { \mathbf { z } }$ into components perpendicular and parallel to the loop. If the $\hat { \mathbf { x } }$ axis is horizontal in the second picture above, then
+$$
+L _ { x } = - \omega _ { \perp } I _ { \perp } \sin \beta + \omega _ { \| } I _ { \| } \cos \beta = - ( \omega \cos \beta ) \left( M R ^ { 2 } \right) \sin \beta + ( \omega \sin \beta ) \left( M R ^ { 2 } / 2 \right) \cos \beta
+$$
+from which we conclude that
+$$
+\left| L _ { x } \right| = \frac { M R ^ { 2 } \omega } { 2 } \cos \beta \sin \beta .
+$$
+Then the torque has to be
+$$
+\tau = \left| L _ { x } \right| \omega = \frac { M R ^ { 2 } \omega ^ { 2 } } { 2 } \cos \beta \sin \beta .
+$$
+Equating our two expressions yields
+$$
+\frac { 2 g } { \omega ^ { 2 } R } = \frac { \cos \alpha \cos \beta \sin \beta } { \cos ( \alpha - \beta ) } .
+$$
+
+Now we use the fact that $\omega$ is large, which corresponds to $\beta$ being small. To leading order in $\beta$, we can approximate $\cos ( \alpha ) / \cos ( \alpha - \beta ) \approx 1$ and $\sin \beta \cos \beta \approx \beta$, giving
+
+$$
+\beta \approx \frac { 2 g } { \omega ^ { 2 } R } .
+$$
+
+Finally, going back to the lab frame, the horizontal component of the tension should provide a centripetal force, so $T \sin \alpha = M \omega ^ { 2 } r$. We thus have
+
+$$
+r = \frac { g \tan \alpha } { \omega ^ { 2 } } .
+$$
+
+Note that the official solution to this problem in Kleppner and Kolenkow (both editions) incorrectly states $\beta \approx g / \left( \omega ^ { 2 } R \right)$, because it misses the "parallel" contribution to $L _ { x }$. I thank Roger Yang for pointing this out.
+
+[4] Problem 8 (KK 7.6, Morin 9.23). With the right initial conditions, a coin on a table can roll in a circle.
+![](../../../figures/solution-ocr/e321239828cd6b0af7a75edb.jpg)
+As shown, the coin leans inward, with its axis tilted to the horizontal by an angle $\phi$. The radius of the coin is $b$, the radius of the circle it follows on the table is $R$, and its velocity is $v$.
+    (a) Assuming the coin rolls without slipping and $b \ll R$, show $\tan \phi = 3 v ^ { 2 } / 2 g R$.
+    (b) No longer assuming $b \ll R$, show that the described motion is only possible if $R > ( 5 / 6 ) b \sin \phi$.
+
+Solution. (a) We work in the noninertial, but nonrotating frame whose origin follows the center of mass. In this frame, the only part of the angular momentum that changes is the horizontal component of the spin angular momentum. The coin spins by "rolling" and "turning", along $\boldsymbol { \omega } _ { s }$ and $\boldsymbol { \omega } _ { 2 }$ respectively:
+![](../../../figures/solution-ocr/fc5f064d0c8d49df07cc1ba7.jpg)
+
+
+Since the motion of the coin is the combination of "rolling" and going around in a circle, the total angular velocity should be $\boldsymbol { \omega } _ { s } + \boldsymbol { \Omega }$ where $\boldsymbol { \Omega }$ describes the circular motion/turning of the coin and points vertically upwards. The components of $\boldsymbol { \Omega }$ are $\boldsymbol { \Omega } \cos \phi$ and $- \boldsymbol { \Omega } \sin \phi$ along $\boldsymbol { \omega } _ { 2 }$ and $\boldsymbol { \omega } _ { s }$ respectively. The moments of inertia about the coin in the $\boldsymbol { \omega } _ { s }$ and $\boldsymbol { \omega } _ { 2 }$ directions are $\frac { 1 } { 2 } M b ^ { 2 }$ and $\frac { 1 } { 4 } M b ^ { 2 }$ respectively. Note that we can't simply ignore $\boldsymbol { \Omega }$ because it is vertical; this is because the angular momentum from $\boldsymbol { \Omega }$ does not point in the same direction as $\boldsymbol { \Omega }$ (they point in the same direction only along the principal axes).
+With $\mathbf { L } = I \boldsymbol { \omega }$ along those principal axes, the horizontal components of the angular momenta is $L _ { x } = \frac { 1 } { 2 } M b ^ { 2 } \left( \omega _ { s } - \Omega \sin \phi \right) \cos \phi + \frac { 1 } { 4 } M b ^ { 2 } \Omega \cos \phi \sin \phi$. The no slip condition is that $\omega _ { s } b = \Omega R$. With $b \ll R$, we can approximate $L _ { x } \approx \frac { 1 } { 2 } M b ^ { 2 } \omega _ { s } \cos \phi$. The torque, $\tau = \Omega L _ { x }$, about the center of mass is $( N \sin \phi - f \cos \phi ) b$ where $f = M v ^ { 2 } / ( R - b \sin \phi ) \approx M v ^ { 2 } / R$ is the frictional force, and $N = M g$ is the normal force. The velocity of the CM is $v = \Omega ( R - b \sin \phi ) \approx \Omega R$. Then
+
+$$
+\tau = \Omega L _ { x } = \frac { 1 } { 2 } M b ^ { 2 } ( \Omega R / b ) \Omega \cos \phi = \frac { 1 } { 2 } M \Omega ^ { 2 } b R \cos \phi = \frac { M v ^ { 2 } b } { 2 R } \cos \phi
+$$
+
+but we also know that
+
+$$
+\tau = M g b \sin \phi - \frac { M v ^ { 2 } b } { R } \cos \phi
+$$
+
+from which we conclude
+
+$$
+\tan \phi = \frac { 3 v ^ { 2 } } { 2 g R } .
+$$
+
+(b) Now we will do the calculations above without $b \ll R$. The torque is
+$$
+\begin{aligned}
+\tau & = \Omega \left( \frac { 1 } { 2 } M b ^ { 2 } \left( \omega _ { s } - \Omega \sin \phi \right) \cos \phi + \frac { 1 } { 4 } M b ^ { 2 } \Omega \cos \phi \sin \phi \right) \\
+& = M g b \sin \phi - \frac { M v ^ { 2 } b } { R - b \sin \phi } \cos \phi .
+\end{aligned}
+$$
+Using $\omega _ { s } = \Omega R / b$ and $v = \Omega ( R - b \sin \phi )$ and dividing the above equation by $M \Omega ^ { 2 } b$ yields
+$$
+\frac { 1 } { 2 } R \cos \phi - \frac { 1 } { 2 } b \sin \phi \cos \phi + \frac { 1 } { 4 } b \sin \phi \cos \phi = \frac { g } { \Omega ^ { 2 } } b \sin \phi - ( R - b \sin \phi ) \cos \phi
+$$
+which simplifies to
+$$
+\frac { 3 } { 2 } R - \frac { 5 } { 4 } b \sin \phi = \frac { g } { \Omega ^ { 2 } } \tan \phi .
+$$
+Since $\tan \phi > 0$ in order for the motion to make sense, we have $R > ( 5 / 6 ) b \sin \phi$.
+[4] Problem 9 (Morin 9.24). If you spin a coin around a vertical diameter on a table, it will slowly lose energy and begin a wobbling motion. The angle between the coin and the table will gradually decrease, and eventually it will come to rest. Assume this process is slow, and consider the motion when the coin makes an angle $\theta$ with the table, as shown.
+
+![](../../../figures/solution-ocr/176fc89a9678dc2e6fed7d99.jpg)
+You may assume that the center of mass is essentially motionless. Let $R$ be the radius of the coin, and let $\Omega$ be the angular frequency at which the contact point on the table traces out its circle. Assume the coin rolls without slipping.
+
+(a) Show that the angular velocity of the coin is $\boldsymbol { \omega } = \Omega \sin \theta \hat { \mathbf { x } } _ { 2 }$, where $\hat { \mathbf { x } } _ { 2 }$ always points upward along the coin, directly away from the contact point.
+(b) Show that $\Omega = 2 \sqrt { g / ( R \sin \theta ) }$.
+(c) Show that the face on the coin appears to rotate, when viewed from above, with angular frequency $\Omega ^ { \prime } = ( 1 - \cos \theta ) \Omega$.
+
+Near the end of the motion, as $\theta \rightarrow 0$, we have $\Omega \rightarrow \infty$ while $\Omega ^ { \prime } \rightarrow 0$, so that the disc appears to frantically jitter in place. This system is called Euler's disc, and if you haven't seen it before, I recommend watching a video!
+
+Solution. (a) Since the center of mass is essentially motionless and the coin is rolling without slipping, the center of mass and the contact point are both stationary. Thus the angular velocity must pass through those lines, and is pointing along $\hat { \mathbf { x } } _ { 2 }$. Let $\hat { \mathbf { k } }$ be a vertical unit vector. The angular velocity can be seen as the sum of the rotation about the center of mass and pointing along $\hat { \mathbf { k } }$ (turning of the coin's orientation) with angular velocity $\boldsymbol { \omega } _ { k } = \Omega \hat { \mathbf { k } }$, and rotation about $- \hat { \mathbf { x } } _ { 3 }$ with angular velocity $\hat { \boldsymbol { \omega } } _ { 3 }$ to roll without slipping. Thus, $\boldsymbol { \omega } = \boldsymbol { \omega } _ { k } + \boldsymbol { \omega } _ { 3 }$.
+Since $\hat { \mathbf { x } } _ { 2 }$ and $\hat { \mathbf { x } } _ { 3 }$ are perpendicular, $\omega = \omega _ { k } \sin \theta$, so $\boldsymbol { \omega } = \Omega \sin \theta \hat { \mathbf { x } } _ { 2 }$ as desired.
+
+(b) The torque about the contact point from gravity is $M g R \cos \theta$, and points horizontally to change the horizontal component of the angular momentum $L _ { x } = I \omega \cos \theta$ at a rate of $\Omega$. The moment of inertia about $\hat { \mathbf { x } } _ { 2 }$ is $\frac { 1 } { 4 } M R ^ { 2 }$, which gives
+$$
+M g R \cos \theta = \frac { 1 } { 4 } M R ^ { 2 } \Omega ^ { 2 } \sin \theta \cos \theta
+$$
+Solving this for $\Omega$ gives the desired result. Of course, we could also have found this result by taking torques about the center of mass.
+(c) From part (a), we found that $\boldsymbol { \omega } = \boldsymbol { \omega } _ { k } + \boldsymbol { \omega } _ { 3 }$ and $\hat { \mathbf { x } } _ { 2 }$ and $\hat { \mathbf { x } } _ { 3 }$ are perpendicular which gets $\omega _ { 3 } =$ $- \Omega \cos \theta$. Consider a point on the coin from the top view. $\boldsymbol { \omega } _ { k }$ makes it rotate counterclockwise with angular velocity $\Omega$, and $\boldsymbol { \omega } _ { 3 }$ rotates it clockwise with angular velocity $\Omega \cos \theta$. Thus the face of the coin appears to be rotating with angular velocity $\Omega ( 1 - \cos \theta )$.
+Another way to do this is to consider the difference between the radius of the coin and the radius of the traced out circle. In a full rotation of the contact point in time $T = 2 \pi / \Omega$, a
+
+distance of $2 \pi R \cos \theta$ was covered by the coin. Since the coin didn't slip, that same distance was covered along the coin's edge, so the initial contact point will be a distance of $2 \pi R ( 1 - \cos \theta )$ ahead of the new contact point. Thus the angle change is $2 \pi ( 1 - \cos \theta )$ in time $T = 2 \pi / \Omega$, giving an apparent angular velocity of $( 1 - \cos \theta ) \Omega$.
+
+Remark: Bivectors
+Vector quantities defined by the cross product have some unusual properties. For example, under a spatial inversion, which flips the signs of r and p, the sign of $\mathbf { L } = \mathbf { r } \times \mathbf { p }$ doesn't get flipped, so $\mathbf { L }$ transforms differently from other vectors. The same applies to the velocity $\boldsymbol { \omega }$ and magnetic field B. All three of these quantities are "pseudovectors", not true vectors.
+
+The underlying reason is that all of these quantities are fundamentally a different kind of mathematical object. They are really rank 2 differential forms, also called bivectors in three dimensions. While a vector is specified by an arrow with magnitude and direction, a bivector is specified by a planar tile with area and orientation. The following figure, taken from this paper, shows how it can be constructed visually from the cross product.
+![](../../../figures/solution-ocr/ac3625867c4eea941829f529.jpg)
+![](../../../figures/solution-ocr/b55535595f7a6cb91b5ce1fb.jpg)
+![](../../../figures/solution-ocr/05d10a49f2c8c1d5b96ed137.jpg)
+![](../../../figures/solution-ocr/d4f45b2294f2477de617d3c8.jpg)
+![](../../../figures/solution-ocr/8ce90038e550b0e688cb5057.jpg)
+![](../../../figures/solution-ocr/0bc3a4497150a42ddfcf5050.jpg)
+In three dimensions, we can always convert between bivectors and pseudovectors using the right-hand rule, so any calculation can be done with either form. Bivectors have the advantage of visually representing rotational quantities: the angular velocity bivector lies along an object's plane of rotation, while the magnetic field bivector lies along the plane in which it makes charged particles circularly orbit. However, it is easier to add vectors, both visually and mathematically, which also makes it easier to think about decomposing vectors into components. This advantage is so important in practice that I don't recommend using bivectors at all for three-dimensional problems.
+
+On the other hand, when you work in higher-dimensional spaces, the differential form perspective becomes essential. In general, in $d$ dimensions the angular velocity has $\binom { d } { 2 }$ components, corresponding to the rotation rate in each independent plane.
+
+- Of course, when $d = 1$ there is no such thing as rotation at all, while when $d = 2$ the angular velocity has one component, so we treat it as a scalar.
+- When $d = 3$ the angular velocity has three components, so we treat it as a vector.
+- When $d = 4$ the angular velocity has six components, so we can't even pretend it's a
+
+vector; we have to use the differential form description.
+Rotational dynamics gets really complicated in 4 dimensions. Both the angular velocity and the angular momentum are rank 2 differential forms with 6 independent components each. The moment of inertia is a rank 4 tensor with 10 independent components, which takes a simpler form when you work in the body's 6 "principal planes".
+
+## Remark: Alternative Notation
+
+If you want to look into bivectors more, be sure to steer clear of "geometric algebra", which dominates the Google search results. Geometric algebra is an internet cult which recruits unsuspecting young people by telling them about bivectors, which are indeed cool. Once they have your attention, they'll claim that "mainstream" physics has hit a dead end because it refuses to go beyond vector notation, and that you should spend years relearning all of physics in their homemade alternative notation.
+
+However, as we've discussed in P1 and R3, there's nothing magical about notation. Physicists don't teach geometric algebra simply because we have better tools in every situation. In $d = 3$ vectors are intuitive and work just fine, while for higher dimensions we either use differential forms, which are more elegant, or tensor calculus, which is powerful enough to do almost anything. When you get to quantum field theory, you'll have to deal with spinors and Clifford algebras, which are commonly taught in graduate textbooks.
+
+The idea of geometric algebra is to mash together the ideas of differential forms and Clifford algebra into a single universal operation called the "geometric product", and use it to describe absolutely everything, including basic 3d vector operations. But while this seems satisfying in principle, in practice it introduces a huge number of secondary operations and identities. It doesn't just not lead to any new results, it makes familiar results substantially harder to reach. (Don't just take my word for it; see this blog post by a practitioner.)
+
+Geometric algebra is also touted as a replacement for standard matrix operations in pure math, but it has problems there too. According to a another long-time practitioner, definitions in geometric algebra sources are wildly inconsistent with each other, and sometimes aren't even self-consistent. And using geometric algebra is exponentially less efficient than ordinary matrix operations once you get past the trivial case of 3 × 3 matrices!
+
+There are two lessons here. First, physicists will use whatever notation works the best for the problems they care about. So if an alternative isn't used, it's not because it's being censored, it's because it's not actually useful. But most of the time, there won't be anybody around on the internet to tell you why, because practitioners are busy solving real problems. Relying on the internet can therefore give a very skewed view of what's important.
+
+Second, learning new things is more important than learning new names for old things. Practitioners of geometric algebra say that it's worth using, even if it's less efficient, because it "makes more sense". Simple problems end up taking lots of steps, and each step introduces
+
+
+new objects associated with new jargon, so it's apparently deeply satisfying to see the whole apparatus at work. But in my opinion, those people are just getting lost in a maze of their own making. Physical objects don't care about how we describe them, and there's no extra credit for making things harder than necessary.
+
+Many people fall into the trap of overformalization. For example, the popular blog series Graphical Linear Algebra advocates a category theory inspired notation for arithmetic. It proudly takes 9 blog posts to get to the definition of addition, and 25 to define fractions. This is why even mathematicians don't take "applied category theory" seriously.

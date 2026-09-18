@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M3Sol.pdf
-mapped_problems: [kevin-zhou-m3-ex002, kevin-zhou-m3-ex006, kevin-zhou-m3-ex007, kevin-zhou-m3-ex011, kevin-zhou-m3-ex012, kevin-zhou-m3-p004, kevin-zhou-m3-p006, kevin-zhou-m3-p012, kevin-zhou-m3-p016, kevin-zhou-m3-p020, kevin-zhou-m3-p024, kevin-zhou-m3-p028]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Mechanics III: Dynamics

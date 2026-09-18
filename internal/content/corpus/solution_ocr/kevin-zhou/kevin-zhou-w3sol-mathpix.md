@@ -5,9 +5,9 @@ kind: official_solution_document
 language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/W3Sol.pdf
-mapped_problems: [kevin-zhou-w3-ex001, kevin-zhou-w3-ex002, kevin-zhou-w3-ex003, kevin-zhou-w3-ex004, kevin-zhou-w3-ex005, kevin-zhou-w3-p001, kevin-zhou-w3-p003, kevin-zhou-w3-p006, kevin-zhou-w3-p007, kevin-zhou-w3-p012, kevin-zhou-w3-p014, kevin-zhou-w3-p015, kevin-zhou-w3-p016, kevin-zhou-w3-p029, kevin-zhou-w3-p032]
+mapped_problems: []
 verification_status: promoted
-canonical_solution: true
+canonical_solution: false
 provenance_note: "Mathpix PDF API Markdown conversion; promoted without manual proofreading."
 ---
 ## Waves III: Specific Waves
