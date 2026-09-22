@@ -35,7 +35,8 @@
 		}).join("");
 	}
 	window.corpusEscapeLatexText = latexText;
-	window.buildCorpusLatexPackage = async (problems, {title = "Physics problem set", subtitle = ""} = {}) => {
+	window.buildCorpusLatexPackage = async (problems, {title = "Physics problem set", subtitle = "", figureSize = 70} = {}) => {
+		const requestedFigureSize = Number(figureSize), figureWidth = Number.isFinite(requestedFigureSize) ? Math.min(100, Math.max(35, requestedFigureSize)) / 100 : 0.7;
 		const figures = new Map();
 		async function addFigure(path) {
 			if (figures.has(path)) return;
@@ -55,7 +56,7 @@
 			if (/^https?:\/\//i.test(path)) return `\\url{${path}}`;
 			const figure = figures.get(path); if (!figure) return "";
 			used.add(path);
-			return `\\begin{center}\n\\includegraphics[width=0.85\\linewidth]{\\detokenize{${figure.name}}}\n\\end{center}`;
+			return `\\begin{center}\n\\includegraphics[width=${figureWidth}\\linewidth]{\\detokenize{${figure.name}}}\n\\end{center}`;
 		}
 		function convert(node, info, used) {
 			if (node.nodeType === 3) return latexText(node.nodeValue);
@@ -101,7 +102,8 @@
 	dialog.innerHTML = `<div class="cart-heading"><h2 id="cart-heading-title">Problem cart</h2><button id="cart-close" type="button" aria-label="Close cart">×</button></div>
 		<ol id="cart-items"></ol>
 		<div class="cart-fields"><label>Title<input id="cart-title" maxlength="160" placeholder="Physics problem set"></label>
-		<label>Subtitle<textarea id="cart-subtitle" maxlength="500" placeholder="Optional"></textarea></label></div>
+		<label>Subtitle<textarea id="cart-subtitle" maxlength="500" placeholder="Optional"></textarea></label>
+		<label class="cart-figure-size">Figure size<span><input id="cart-figure-size" type="range" min="35" max="100" step="5" value="70" aria-label="Figure width"><output id="cart-figure-size-value" for="cart-figure-size">70%</output></span></label></div>
 		<div class="cart-actions"><button id="cart-clear" type="button">Clear</button><button id="cart-latex" type="button">LaTeX</button><button id="cart-pdf" type="button">PDF</button></div>
 		<p id="cart-status" aria-live="polite"></p>`;
 	document.body.append(dialog);
@@ -122,7 +124,7 @@
 	}
 	let state = readState(), dataPromise;
 	const count = cartButton.querySelector(".cart-count"), list = dialog.querySelector("#cart-items"), status = dialog.querySelector("#cart-status");
-	const titleInput = dialog.querySelector("#cart-title"), subtitleInput = dialog.querySelector("#cart-subtitle");
+	const titleInput = dialog.querySelector("#cart-title"), subtitleInput = dialog.querySelector("#cart-subtitle"), figureSizeInput = dialog.querySelector("#cart-figure-size"), figureSizeOutput = dialog.querySelector("#cart-figure-size-value");
 	titleInput.value = state.title; subtitleInput.value = state.subtitle;
 
 	function save() {
@@ -214,7 +216,7 @@
 	function slug(value) { return value.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "physics-problems"; }
 	function download(blob, name) { const url = URL.createObjectURL(blob), link = document.createElement("a"); link.href = url; link.download = name; link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000); }
 	async function downloadLatex() {
-		const problems = await collectProblems(), blob = await window.buildCorpusLatexPackage(problems, {title:state.title.trim() || "Physics problem set", subtitle:state.subtitle.trim()});
+		const problems = await collectProblems(), blob = await window.buildCorpusLatexPackage(problems, {title:state.title.trim() || "Physics problem set", subtitle:state.subtitle.trim(), figureSize:Number(figureSizeInput.value)});
 		download(blob, `${slug(state.title || "physics-problems")}-latex.tar.gz`);
 	}
 	function printProblemHtml(problem, index) {
@@ -239,14 +241,14 @@
 		if (!page) throw new Error("Allow pop-ups to prepare the print/PDF view.");
 		page.document.write("<!doctype html><html><head><meta charset=utf-8><title>Preparing PDF…</title></head><body>Preparing problem set…</body></html>");
 		try {
-			const problems = await collectProblems(), title = state.title.trim() || "Physics problem set", subtitle = state.subtitle.trim();
+			const problems = await collectProblems(), title = state.title.trim() || "Physics problem set", subtitle = state.subtitle.trim(), figureSize = Math.min(100, Math.max(35, Number(figureSizeInput.value)));
 			const content = problems.map((problem, index) => `<section class="problem">${printProblemHtml(problem, index)}<p class="problem-source">Source: ${escapeHtml(sourceLabel(problem.record, problem.document))}</p></section>`).join("");
 			const fontFaces = [["regular", "400", "normal"], ["bold", "700", "normal"], ["italic", "400", "italic"], ["bolditalic", "700", "italic"]].map(([file, weight, style]) => `@font-face{font-family:"Latin Modern Roman";src:url("${new URL(`assets/fonts/latin-modern-roman-${file}.woff`, location.href).href}") format("woff");font-weight:${weight};font-style:${style}}`).join("");
 			const mathJaxConfig = {loader:{load:["[tex]/ams"]}, tex:{inlineMath:[["\\(","\\)"],["$","$"]], displayMath:[["\\[","\\]"],["$$","$$"]], packages:{"[+]" :["ams"]}}, output:{font:"mathjax-newcm"}, options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}, startup:{typeset:false}};
 			page.document.open();
 			page.document.write(`<!doctype html><html lang="en"><head><meta charset="utf-8"><title>${escapeHtml(title)}</title>
 				<script>window.MathJax=${JSON.stringify(mathJaxConfig)};</script>
-				<style>${fontFaces}body{max-width:850px;margin:24px auto;padding:0 20px;color:#111;font:16px/1.38 "Latin Modern Roman",serif}body>h1{margin:0 0 6px;text-align:center;font-size:25px}body>p{margin:0 0 18px;text-align:center}.problem{margin:12px 0 16px;text-align:justify}.problem mjx-container{color:inherit}.problem :is(h1,h2,h3,h4,p,ul,ol,blockquote,pre,table){margin:4px 0 8px}.problem-number{white-space:nowrap;margin-right:4px}.problem-source{margin:6px 0 0!important;color:#555;font-size:11px;font-style:italic;text-align:right}img{display:block;max-width:90%;max-height:68vh;height:auto;margin:10px auto;break-inside:avoid;page-break-inside:avoid}figure{text-align:center;break-inside:avoid;page-break-inside:avoid;margin:8px 0}figcaption{font-size:11px;color:#555}@page{size:A4;margin:0}@media print{body{max-width:none;margin:0;padding:14mm 16mm}}</style></head>
+				<style>${fontFaces}body{max-width:850px;margin:24px auto;padding:0 20px;color:#111;font:16px/1.38 "Latin Modern Roman",serif}body>h1{margin:0 0 6px;text-align:center;font-size:25px}body>p{margin:0 0 18px;text-align:center}.problem{margin:12px 0 16px;text-align:justify}.problem mjx-container{color:inherit}.problem :is(h1,h2,h3,h4,p,ul,ol,blockquote,pre,table){margin:4px 0 8px}.problem-number{white-space:nowrap;margin-right:4px}.problem-source{margin:6px 0 0!important;color:#555;font-size:11px;font-style:italic;text-align:right}img{display:block;max-width:${figureSize}%;max-height:68vh;height:auto;margin:10px auto;break-inside:avoid;page-break-inside:avoid}figure{text-align:center;break-inside:avoid;page-break-inside:avoid;margin:8px 0}figcaption{font-size:11px;color:#555}@page{size:A4;margin:0}@media print{body{max-width:none;margin:0;padding:14mm 16mm}}</style></head>
 				<body><h1>${escapeHtml(title)}</h1>${subtitle ? `<p>${escapeHtml(subtitle).replace(/\n/g, "<br>")}</p>` : ""}${content}</body></html>`);
 			page.document.close();
 			const script = page.document.createElement("script"); script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js";
@@ -293,6 +295,7 @@
 	});
 	titleInput.addEventListener("input", () => { state.title = titleInput.value; save(); });
 	subtitleInput.addEventListener("input", () => { state.subtitle = subtitleInput.value; save(); });
+	figureSizeInput.addEventListener("input", () => { figureSizeOutput.value = `${figureSizeInput.value}%`; });
 	dialog.querySelector("#cart-clear").addEventListener("click", () => { state.items = []; save(); renderCart(); });
 	dialog.querySelector("#cart-latex").addEventListener("click", (event) => runAction(event.currentTarget, "Preparing LaTeX package…", downloadLatex));
 	dialog.querySelector("#cart-pdf").addEventListener("click", (event) => runAction(event.currentTarget, "Preparing print view…", printPdf));
