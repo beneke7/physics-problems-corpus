@@ -183,16 +183,22 @@
 		}
 		download(await window.createCorpusArchive(entries), `${slug(state.title || "physics-problems")}.tar.gz`);
 	}
-	function printProblemHtml(problem) {
+	function printProblemHtml(problem, index) {
 		const used = new Set();
 		const body = problem.body.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (whole, alt, raw) => {
 			const path = resolveFigure(raw, problem.info);
 			if (/^https?:\/\//i.test(path)) return whole;
 			used.add(path); return `![${alt}](${figureUrl(path)})`;
 		});
-		let html = window.corpusRenderMarkdown(body);
-		for (const path of problem.figures) if (!used.has(path)) html += `<figure><img src="${escapeHtml(figureUrl(path))}" alt="${escapeHtml(basename(path))}"><figcaption>${escapeHtml(basename(path))}</figcaption></figure>`;
-		return html;
+		const content = document.createElement("div"); content.innerHTML = window.corpusRenderMarkdown(body);
+		for (const path of problem.figures) if (!used.has(path)) {
+			const figure = document.createElement("figure"), image = document.createElement("img"), caption = document.createElement("figcaption");
+			image.src = figureUrl(path); image.alt = basename(path); caption.textContent = basename(path); figure.append(image, caption); content.append(figure);
+		}
+		const opening = content.querySelector("p") || content.firstElementChild;
+		if (opening) { const number = document.createElement("strong"); number.className = "problem-number"; number.textContent = `${index + 1}. `; opening.prepend(number); }
+		else { const paragraph = document.createElement("p"), number = document.createElement("strong"); number.className = "problem-number"; number.textContent = `${index + 1}. `; paragraph.append(number); content.append(paragraph); }
+		return content.innerHTML;
 	}
 	async function printPdf() {
 		const page = window.open("", "physics-problem-set-pdf");
@@ -200,12 +206,12 @@
 		page.document.write("<!doctype html><html><head><meta charset=utf-8><title>Preparing PDF…</title></head><body>Preparing problem set…</body></html>");
 		try {
 			const problems = await collectProblems(), title = state.title.trim() || "Physics problem set", subtitle = state.subtitle.trim();
-			const content = problems.map((problem, index) => `<section class="problem"><h2>Problem ${index + 1}</h2><p class="problem-source">Source: ${escapeHtml(sourceLabel(problem.record, problem.document))}</p>${printProblemHtml(problem)}</section>`).join("");
+			const content = problems.map((problem, index) => `<section class="problem">${printProblemHtml(problem, index)}<p class="problem-source">Source: ${escapeHtml(sourceLabel(problem.record, problem.document))}</p></section>`).join("");
 			const mathJaxConfig = {loader:{load:["[tex]/ams"]}, tex:{inlineMath:[["\\(","\\)"],["$","$"]], displayMath:[["\\[","\\]"],["$$","$$"]], packages:{"[+]" :["ams"]}}, options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}, startup:{typeset:false}};
 			page.document.open();
 			page.document.write(`<!doctype html><html lang="en"><head><meta charset="utf-8"><title>${escapeHtml(title)}</title>
 				<script>window.MathJax=${JSON.stringify(mathJaxConfig)};</script>
-				<style>body{max-width:850px;margin:32px auto;padding:0 20px;color:#111;font:16px/1.5 Georgia,"Times New Roman",serif}h1{font-size:26px}.problem{margin:24px 0 30px}.problem h2{margin:0 0 2px;font-size:19px;break-after:avoid-page;page-break-after:avoid}.problem-source{margin:0 0 10px;color:#555;font-size:12px;font-style:italic;break-after:avoid-page;page-break-after:avoid}img{display:block;max-width:100%;max-height:80vh;height:auto;margin:16px auto;break-inside:avoid;page-break-inside:avoid}figure{text-align:center;break-inside:avoid;page-break-inside:avoid}figcaption{font-size:12px;color:#555}@page{margin:18mm}@media print{body{margin:0 auto;padding:0}}</style></head>
+				<style>body{max-width:850px;margin:24px auto;padding:0 20px;color:#111;font:16px/1.38 Georgia,"Times New Roman",serif}body>h1{margin:0 0 6px;text-align:center;font-size:25px}body>p{margin:0 0 18px;text-align:center}.problem{margin:12px 0 16px}.problem :is(h1,h2,h3,h4,p,ul,ol,blockquote,pre,table){margin:4px 0 8px}.problem-number{white-space:nowrap;margin-right:4px}.problem-source{margin:6px 0 0!important;color:#555;font-size:11px;font-style:italic;text-align:right}img{display:block;max-width:100%;max-height:75vh;height:auto;margin:10px auto;break-inside:avoid;page-break-inside:avoid}figure{text-align:center;break-inside:avoid;page-break-inside:avoid;margin:8px 0}figcaption{font-size:11px;color:#555}@page{size:A4;margin:0}@media print{body{max-width:none;margin:0;padding:14mm 16mm}}</style></head>
 				<body><h1>${escapeHtml(title)}</h1>${subtitle ? `<p>${escapeHtml(subtitle).replace(/\n/g, "<br>")}</p>` : ""}${content}</body></html>`);
 			page.document.close();
 			const script = page.document.createElement("script"); script.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js";
