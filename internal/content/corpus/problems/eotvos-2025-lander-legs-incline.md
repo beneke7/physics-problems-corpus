@@ -17,9 +17,9 @@ verification_status: pending
 links_en: eotvos-2025-lander-legs-incline
 ---
 
-**2. feladat. Leszálló ürszonda**
+**2. feladat. Leszálló űrszonda**
 
-Az ábrán látható két lábbal rendelkező ürszonda egy $\alpha$ hajlásszögű, sík, lejtős felületen landolt. Az ürszonda széles lábai a lejtő esésvonalára (és az ábra síkjára) merőleges két párhuzamos szakasz mentén érintkeznek a talajjal. A lábak és a lejtő között a súrlódási együttható $\mu$. A teljes ürszonda tömegközéppontja $h$ távolságra van a talajtól, a lábak távolsága egymástól kezdetben $a$. Az ürszonda egy belső szerkezet segítségével az ábrának megfelelően elkezdi kitolni a lábait (miközben azok mindvégig a talajra merőlegesek maradnak).
+Az ábrán látható két lábbal rendelkező űrszonda egy $\alpha$ hajlásszögű, sík, lejtős felületen landolt. Az űrszonda széles lábai a lejtő esésvonalára (és az ábra síkjára) merőleges két párhuzamos szakasz mentén érintkeznek a talajjal. A lábak és a lejtő között a súrlódási együttható $\mu$. A teljes űrszonda tömegközéppontja $h$ távolságra van a talajtól, a lábak távolsága egymástól kezdetben $a$. Az űrszonda egy belső szerkezet segítségével az ábrának megfelelően elkezdi kitolni a lábait (miközben azok mindvégig a talajra merőlegesek maradnak).
 
 Melyik láb csúszik meg először a lejtőn?
 

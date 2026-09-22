@@ -33,6 +33,6 @@ b) $h=15 \mathrm{~mm}$,
 
 távolságra van a szabad vízfelszíntől? Ábrázoljuk vázlatosan, hogyan változik $H$ a fokozatosan csökkenő $h$ függvényében!
 
-Feltehetjük, hogy a lemezek egymással érintkezó éle sokkal hosszabb, mint $h$, továbbá a lemezek szimmetriasíkja mindvégig függőleges.
+Feltehetjük, hogy a lemezek egymással érintkező éle sokkal hosszabb, mint $h$, továbbá a lemezek szimmetriasíkja mindvégig függőleges.
 
 Adatok: $\sigma_{\text{víz}}=0,072 \mathrm{~N} / \mathrm{m}, \varrho_{\text{víz}}=1000 \mathrm{~kg} / \mathrm{m}^{3}, 2 \varphi=6^{\circ}$.

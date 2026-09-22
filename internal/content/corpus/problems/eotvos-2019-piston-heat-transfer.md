@@ -22,7 +22,7 @@ techniques: [differential-element, limiting-and-special-cases]
 
 ## 1. feladat
 
-Egy könnyen mozgó dugattyú egy hőszigetelt, vízszintes tengelyú hengert kezdetben két azonos, $V_{0}$ térfogatú részre oszt. Mindkét részben $p_{0}$ nyomású, egyatomos ideális gáz van. A bal oldali részben a kezdeti hómérséklet $2 T_{0}$, míg a jobb oldali részben $T_{0}$. A két részt elválasztó dugattyú mérsékelten hóvezető, hőátadását az $\alpha$ paraméter jellemzi, azaz $\Delta T$ hőmérséklet-különbség esetén a dugattyún időegységenként átáramló hő $\alpha \Delta T$.
+Egy könnyen mozgó dugattyú egy hőszigetelt, vízszintes tengelyű hengert kezdetben két azonos, $V_{0}$ térfogatú részre oszt. Mindkét részben $p_{0}$ nyomású, egyatomos ideális gáz van. A bal oldali részben a kezdeti hőmérséklet $2 T_{0}$, míg a jobb oldali részben $T_{0}$. A két részt elválasztó dugattyú mérsékelten hővezető, hőátadását az $\alpha$ paraméter jellemzi, azaz $\Delta T$ hőmérséklet-különbség esetén a dugattyún időegységenként átáramló hő $\alpha \Delta T$.
 
 a) Mekkora lesz a két részben a gázok térfogata, hőmérséklete és nyomása hosszú idő elteltével?
 

@@ -24,7 +24,7 @@ techniques: [superposition]
 
 Lézerből jövő, keskeny, vízszintes fénynyalábbal világítjuk meg a függőleges, nagyon keskeny rés középső tartományát.
 
-a) Mit látunk a rés mögötti, a lézersugár irányára merólegesen elhelyezett ernyőn?
+a) Mit látunk a rés mögötti, a lézersugár irányára merőlegesen elhelyezett ernyőn?
 
 b) Hogyan változik meg az ernyőn látható kép, ha a rést vízszintes középvonala körül $\varphi$ szöggel elforgatjuk? (Legyen például $\varphi=45^{\circ}$.)
 

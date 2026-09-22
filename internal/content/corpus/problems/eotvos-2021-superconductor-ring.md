@@ -20,10 +20,10 @@ solution_language: hu
 techniques: [conservation-laws, auxiliary-unknowns]
 ---
 
-**2. feladat. Szupravezetó gyúrú szolenoiddal.**
+**2. feladat. Szupravezető gyűrű szolenoiddal.**
 
-Egy henger alakú, $\ell$ hosszúságú és $R \ll \ell$ sugarú, légmagos szolenoid meneteinek száma $N$. A tekercs belsejébe egy $r \ll R$ sugarú, a szolenoid szimmetriatengelyére meróleges síkú, $L$ induktivitású szupravezetó gyúrút helyezünk (a gyürú és a szolenoid középpontja egybeesik).
+Egy henger alakú, $\ell$ hosszúságú és $R \ll \ell$ sugarú, légmagos szolenoid meneteinek száma $N$. A tekercs belsejébe egy $r \ll R$ sugarú, a szolenoid szimmetriatengelyére merőleges síkú, $L$ induktivitású szupravezető gyűrűt helyezünk (a gyűrű és a szolenoid középpontja egybeesik).
 
-a) Növekszik vagy csökken a szolenoid induktivitása a gyúrú behelyezése következtében?
+a) Növekszik vagy csökken a szolenoid induktivitása a gyűrű behelyezése következtében?
 
 b) Határozzuk meg az induktivitás megváltozásának nagyságát!

@@ -20,7 +20,7 @@ solution_language: hu
 techniques: [differential-element, exploit-symmetry]
 ---
 
-Egy $r$ sugarú, $d$ vastagságú $(d \ll r)$, $\varrho$ fajlagos ellenállású fémkorong $A$ pontjába $I$ erősségú áramot vezetünk, $B$ pontjából pedig elvezetjük azt.
+Egy $r$ sugarú, $d$ vastagságú $(d \ll r)$, $\varrho$ fajlagos ellenállású fémkorong $A$ pontjába $I$ erősségű áramot vezetünk, $B$ pontjából pedig elvezetjük azt.
 
 Mekkora feszültség mérhető az ábrán látható $C$ és $D$ pontok között?
 

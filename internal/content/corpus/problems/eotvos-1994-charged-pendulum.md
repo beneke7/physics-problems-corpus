@@ -22,7 +22,7 @@ techniques: [exploit-symmetry, conservation-laws]
 
 **3. feladat. Feltöltött inga a fémsík mellett.**
 
-Függőleges földelt fémsíktól $d$ távolságra felfüggesztünk egy $l$ hosszúságú fonálngát. Miután az $m$ tömegű, kicsiny ingatestet elektromosan feltöltöttük, az inga újra egyensúlyi helyzetet vett fel, s most $\alpha$ szöget zár be a függőlegessel.
+Függőleges földelt fémsíktól $d$ távolságra felfüggesztünk egy $l$ hosszúságú fonálingát. Miután az $m$ tömegű, kicsiny ingatestet elektromosan feltöltöttük, az inga újra egyensúlyi helyzetet vett fel, s most $\alpha$ szöget zár be a függőlegessel.
 
 | Mekkora az ingatest töltése?
 | Mennyivel kell közelebb vinnünk a fémsíkot az inga felfüggesztési pontjához, ha azt akarjuk, hogy a függőleges fémsík magához rántsa az ingát?

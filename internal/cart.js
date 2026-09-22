@@ -4,6 +4,7 @@
 	const storageKey = "physics-problem-cart-v1";
 	const rawFigureBase = "https://raw.githubusercontent.com/beneke7/physics-problems-corpus/master/internal/";
 	const escapeHtml = (value) => String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
+	const isContestHeading = (node) => node?.nodeType === 1 && node.tagName.toLowerCase() === "p" && /^\d+\.\s*feladat\b/i.test(node.textContent.trim());
 
 	function tarHeader(name, size) {
 		const header = new Uint8Array(512), encoder = new TextEncoder();
@@ -82,7 +83,8 @@
 		}
 		const sections = problems.map((problem, index) => {
 			const used = new Set(), content = document.createElement("div"); content.innerHTML = window.corpusRenderMarkdown(problem.body);
-			let body = [...content.childNodes].map((node) => convert(node, problem.info, used)).join("").trim();
+			const nodes = [...content.childNodes]; if (isContestHeading(nodes[0])) nodes.shift();
+			let body = nodes.map((node) => convert(node, problem.info, used)).join("").trim();
 			for (const path of problem.figures) if (!used.has(path)) body += `\n\n${imageLatex(path, used)}`;
 			return `\\item ${body}\n\\hfill{\\small\\textit{Source: ${escapeLatex(sourceLabel(problem.record, problem.document))}}}`;
 		});
@@ -232,7 +234,9 @@
 			image.src = figureUrl(path); image.alt = basename(path); caption.textContent = basename(path); figure.append(image, caption); content.append(figure);
 		}
 		const opening = content.querySelector("p") || content.firstElementChild;
-		if (opening) { const number = document.createElement("strong"); number.className = "problem-number"; number.textContent = `${index + 1}. `; opening.prepend(number); }
+		if (isContestHeading(opening)) opening.remove();
+		const firstContent = content.querySelector("p") || content.firstElementChild;
+		if (firstContent) { const number = document.createElement("strong"); number.className = "problem-number"; number.textContent = `${index + 1}. `; firstContent.prepend(number); }
 		else { const paragraph = document.createElement("p"), number = document.createElement("strong"); number.className = "problem-number"; number.textContent = `${index + 1}. `; paragraph.append(number); content.append(paragraph); }
 		return content.innerHTML;
 	}
@@ -243,7 +247,7 @@
 		try {
 			const problems = await collectProblems(), title = state.title.trim() || "Physics problem set", subtitle = state.subtitle.trim(), figureSize = Math.min(100, Math.max(35, Number(figureSizeInput.value)));
 			const content = problems.map((problem, index) => `<section class="problem">${printProblemHtml(problem, index)}<p class="problem-source">Source: ${escapeHtml(sourceLabel(problem.record, problem.document))}</p></section>`).join("");
-			const fontFaces = [["regular", "400", "normal"], ["bold", "700", "normal"], ["italic", "400", "italic"], ["bolditalic", "700", "italic"]].map(([file, weight, style]) => `@font-face{font-family:"Latin Modern Roman";src:url("${new URL(`assets/fonts/latin-modern-roman-${file}.woff`, location.href).href}") format("woff");font-weight:${weight};font-style:${style}}`).join("");
+			const fontFaces = [["regular", "400", "normal"], ["bold", "700", "normal"], ["italic", "400", "italic"], ["bolditalic", "700", "italic"]].map(([file, weight, style]) => `@font-face{font-family:"Latin Modern Roman";src:url("${new URL(`assets/fonts/latin-modern-roman-${file}.otf`, location.href).href}") format("opentype");font-weight:${weight};font-style:${style}}`).join("");
 			const mathJaxConfig = {loader:{load:["[tex]/ams"]}, tex:{inlineMath:[["\\(","\\)"],["$","$"]], displayMath:[["\\[","\\]"],["$$","$$"]], packages:{"[+]" :["ams"]}}, output:{font:"mathjax-newcm"}, options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}, startup:{typeset:false}};
 			page.document.open();
 			page.document.write(`<!doctype html><html lang="en"><head><meta charset="utf-8"><title>${escapeHtml(title)}</title>

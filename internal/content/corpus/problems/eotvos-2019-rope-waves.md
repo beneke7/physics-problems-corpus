@@ -24,7 +24,7 @@ techniques: [superposition, differential-element]
 
 Egy nagyon hosszú kötelet vízszintes helyzetben, a súlyánál sokkal nagyobb $F_{0}$ erővel megfeszítünk. A kötél a pozitív $x$-tengelyen helyezkedik el, egyik vége pedig az origóban van.
 
-a) Ha a kötél origóban lévő végét $A$ amplitúdójú, $f$ frekvenciájú harmonikus rezgőmozgással az $x$-tengelyre merőleges, vízszintes $y$ irányban mozgatjuk, a kötélben transzverzális hullámok jönnek létre, amelyek (a kötél hosszegységre esó tömegétől és a feszítettségétől függő) $c$ sebességgel terjednek. (A hullámok amplitúdója kicsi, vagyis $A \ll c / f$.) Adjuk meg a kötél $x$ koordinátájú pontjának $t$ időpillanatbeli $y(x, t)$ kitérését!
+a) Ha a kötél origóban lévő végét $A$ amplitúdójú, $f$ frekvenciájú harmonikus rezgőmozgással az $x$-tengelyre merőleges, vízszintes $y$ irányban mozgatjuk, a kötélben transzverzális hullámok jönnek létre, amelyek (a kötél hosszegységre eső tömegétől és a feszítettségétől függő) $c$ sebességgel terjednek. (A hullámok amplitúdója kicsi, vagyis $A \ll c / f$.) Adjuk meg a kötél $x$ koordinátájú pontjának $t$ időpillanatbeli $y(x, t)$ kitérését!
 
 b) Mekkora átlagos teljesítmény szükséges a kötél végének mozgatásához?
 

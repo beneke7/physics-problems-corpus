@@ -20,10 +20,10 @@ solution_language: hu
 techniques: [conservation-laws, differential-element]
 ---
 
-**3. feladat. Szupravezetô hurokban indukálódó áram**
+**3. feladat. Szupravezető hurokban indukálódó áram**
 
-Négyzet alakú, rövidre zárt lapos tekercs anyaga szupravezetó (ellenállása elhanyagolható). A négyzet oldalélei $l$ hosszúak, egy-egy oldalának tömege $m$. A tekercs, amelynek induktivitása $L$, súrlódásmentesen elfordulhat a négyzet alsó, vízszintes oldala körül.
+Négyzet alakú, rövidre zárt lapos tekercs anyaga szupravezető (ellenállása elhanyagolható). A négyzet oldalélei $l$ hosszúak, egy-egy oldalának tömege $m$. A tekercs, amelynek induktivitása $L$, súrlódásmentesen elfordulhat a négyzet alsó, vízszintes oldala körül.
 
-Kezdetben a tekercs függốlegesen, labilis egyensúlyi helyzetben áll a földi nehézségi erốtérben. Ezután egy olyan homogén mágneses mezót alkalmazunk, hogy a tekercsre ható B mágneses indukció vektor nagysága állandó, iránya függőleges legyen. Ekkor a tekercsben nem folyik áram.
+Kezdetben a tekercs függőlegesen, labilis egyensúlyi helyzetben áll a földi nehézségi erőtérben. Ezután egy olyan homogén mágneses mezőt alkalmazunk, hogy a tekercsre ható B mágneses indukció vektor nagysága állandó, iránya függőleges legyen. Ekkor a tekercsben nem folyik áram.
 
-Ezután a tekercs felsó végét kicsiny $v_{0}$ sebességgel meglökjük. Körbefordul-e a tekercs, vagy ha nem, akkor milyen határok között fog mozogni?
+Ezután a tekercs felső végét kicsiny $v_{0}$ sebességgel meglökjük. Körbefordul-e a tekercs, vagy ha nem, akkor milyen határok között fog mozogni?

@@ -34,9 +34,10 @@ assert.ok(cartSource.includes('font:"mathjax-newcm"'));
 assert.ok(cartSource.includes("mathjax@4/tex-mml-chtml.js"));
 assert.ok(cartSource.includes(".problem mjx-container{color:inherit}"));
 for (const style of ["regular", "bold", "italic", "bolditalic"]) {
-	const font = await readFile(new URL(`./assets/fonts/latin-modern-roman-${style}.woff`, import.meta.url));
-	assert.equal(font.toString("ascii", 0, 4), "wOFF");
+	const font = await readFile(new URL(`./assets/fonts/latin-modern-roman-${style}.otf`, import.meta.url));
+	assert.equal(font.toString("ascii", 0, 4), "OTTO");
 }
+assert.ok(cartSource.includes('latin-modern-roman-${file}.otf`'));
 runInNewContext(cartSource, context);
 assert.equal(context.window.corpusEscapeLatexText("A_b & $x_1$"), "A\\_b \\& $x_1$");
 const archive = await context.window.createCorpusArchive([{name:"main.tex", bytes:new TextEncoder().encode("hello") }]);
@@ -47,13 +48,13 @@ await assert.rejects(context.window.createCorpusArchive([{name:"../escape", byte
 
 const textNode = (nodeValue) => ({nodeType:3, nodeValue});
 const element = (tagName, childNodes) => ({nodeType:1, tagName, childNodes, children:childNodes, textContent:childNodes.map((node)=>node.nodeValue || node.textContent || "").join(""), getAttribute:()=>"", querySelectorAll:()=>[]});
-let includeTestImage = false;
+let includeTestImage = false, includeContestHeading = false;
 context.location = {href:"https://example.test/internal/cart.js"};
 context.fetch = async () => new Response(new Uint8Array([1, 2, 3]), {status:200});
 context.document.createElement = () => ({set innerHTML(_html) {
 	const children = [textNode("A & B; use $x_1$ and "), element("strong", [textNode("bold")]), textNode(".")];
 	if (includeTestImage) children.push({nodeType:1, tagName:"IMG", childNodes:[], textContent:"", getAttribute:(name) => name === "src" ? "figure.png" : ""});
-	this.childNodes = [element("p", children)];
+	this.childNodes = [...(includeContestHeading ? [element("p", [textNode("2. feladat. Source title")])] : []), element("p", children)];
 }});
 context.window.corpusRenderMarkdown = () => "<p>test</p>";
 const latexArchive = await context.window.buildCorpusLatexPackage([{record:{source_name:"Test & Source",year:2026,problem:"P1"},document:"problem",info:{figures:[]},body:"ignored",figures:[]}], {title:"Test set",subtitle:"Short subtitle"});
@@ -65,6 +66,14 @@ assert.ok(tex.includes("\\begin{enumerate}"));
 assert.ok(tex.includes("\\item A \\& B; use $x_1$ and \\textbf{bold}."));
 assert.ok(tex.includes("Source: Test \\& Source"));
 assert.ok(tex.includes("\\LARGE\\textbf{Test set}"));
+includeContestHeading = true;
+const titledArchive = await context.window.buildCorpusLatexPackage([{record:{source_name:"Test"},document:"problem",info:{figures:[]},body:"ignored",figures:[]}]);
+const titledTar = gunzipSync(Buffer.from(await titledArchive.arrayBuffer()));
+const titledSize = parseInt(new TextDecoder().decode(titledTar.subarray(124, 136)).replaceAll("\0", "").trim(), 8);
+const titledTex = new TextDecoder().decode(titledTar.subarray(512, 512 + titledSize));
+assert.ok(titledTex.includes("\\item A \\& B;"));
+assert.ok(!titledTex.includes("2. feladat. Source title"));
+includeContestHeading = false;
 includeTestImage = true;
 const figureArchive = await context.window.buildCorpusLatexPackage([{record:{source_name:"Test"},document:"problem",info:{figures:["figure.png"]},body:"figure",figures:["figure.png"]}], {figureSize:50});
 const figureTar = gunzipSync(Buffer.from(await figureArchive.arrayBuffer()));
@@ -90,3 +99,9 @@ assert.match(viewHtml, /max-width:var\(--figure-size,70%\)/);
 assert.match(viewHtml, /figure-size-control"\)\.hidden = !content\.querySelector\("img"\)/);
 assert.match(viewHtml, /setProperty\("--figure-size",size\)/);
 assert.doesNotMatch(viewHtml, /"Ready\."/);
+assert.ok(cartSource.includes("const isContestHeading ="));
+const spacecraftHu = await readFile(new URL("./content/corpus/problems/eotvos-2006-spacecraft-dust.md", import.meta.url), "utf8");
+const divingBellHu = await readFile(new URL("./content/corpus/problems/eotvos-1994-diving-bell.md", import.meta.url), "utf8");
+assert.ok(spacecraftHu.includes("űrszonda") && spacecraftHu.includes("porfelhőből") && spacecraftHu.includes("sűrűségű"));
+assert.ok(divingBellHu.includes("lesüllyesztett") && divingBellHu.includes("űrtartalmú"));
+assert.doesNotMatch(spacecraftHu, /ứ|ố|ớ|ở/);

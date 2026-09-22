@@ -22,8 +22,8 @@ techniques: [conservation-laws, choose-reference-frame]
 
 **2. feladat. Űrszonda a porfelhőben**
 
-Egy bolygóközi pályán mozgó ứrszonda, pályájának bizonyos részén, egy ott elhelyezkedő kozmikus „porfelhốn" haladt át. Mindazon porszemcsék, amelyeknek nekiütközött, ráragadtak a szondára. Mire a szonda kiért a porfelhốból, tömege 2%-kal megnótt.
+Egy bolygóközi pályán mozgó űrszonda, pályájának bizonyos részén, egy ott elhelyezkedő kozmikus „porfelhőn” haladt át. Mindazon porszemcsék, amelyeknek nekiütközött, ráragadtak a szondára. Mire a szonda kiért a porfelhőből, tömege 2%-kal megnőtt.
 
-Hány százalékkal nốtt meg a porfelhốn való áthaladás ideje ahhoz képest, amennyi idő alatt a porfelhő fékező hatása nélkül tette volna meg a szonda ugyanezt az utat?
+Hány százalékkal nőtt meg a porfelhőn való áthaladás ideje ahhoz képest, amennyi idő alatt a porfelhő fékező hatása nélkül tette volna meg a szonda ugyanezt az utat?
 
-(A porfelhốt állandó súrúségứ, határozott szélű objektumnak tekinthetjük.)
+(A porfelhőt állandó sűrűségű, határozott szélű objektumnak tekinthetjük.)

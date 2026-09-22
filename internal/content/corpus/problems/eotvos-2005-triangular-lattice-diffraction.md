@@ -25,4 +25,4 @@ techniques: [superposition, exploit-symmetry]
 ![figure](../../figures/eotvos/figures/eotvos-2005-p2-fig3.jpg)
 5. ábra
 
-Ábrázoljuk vázlatosan (a méretek, valamint a vízszintes és a függốleges irányok bejelölésével), hogy milyen elhajlási képet figyelhetünk meg a rácstól 3 m távolságra elhelyezett ernyốn!
+Ábrázoljuk vázlatosan (a méretek, valamint a vízszintes és a függőleges irányok bejelölésével), hogy milyen elhajlási képet figyelhetünk meg a rácstól 3 m távolságra elhelyezett ernyőn!

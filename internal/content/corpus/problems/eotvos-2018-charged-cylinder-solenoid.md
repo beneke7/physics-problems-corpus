@@ -22,7 +22,7 @@ techniques: [superposition, differential-element]
 
 **3. feladat. Töltött henger szolenoidban**
 
-Egy rögzített, vízszintes tengelyú, légmagos, hosszú szolenoid keresztmetszete $R$ sugarú kör. A tekercs belsejében egy (nem-mágneses) szigetelő anyagból készült, $r$ sugarú tömör henger helyezkedik el. A szigetelő henger pozitívan töltött, egyenletes térfogati eloszlásban. A szolenoidba időben egyenletesen, gyorsan növekvő erősségú áramot vezetünk az ábrán látható körüljárás szerint.
+Egy rögzített, vízszintes tengelyű, légmagos, hosszú szolenoid keresztmetszete $R$ sugarú kör. A tekercs belsejében egy (nem-mágneses) szigetelő anyagból készült, $r$ sugarú tömör henger helyezkedik el. A szigetelő henger pozitívan töltött, egyenletes térfogati eloszlásban. A szolenoidba időben egyenletesen, gyorsan növekvő erősségű áramot vezetünk az ábrán látható körüljárás szerint.
 
 ![Solenoid cross-section diagram](../../figures/eotvos/figures/eotvos-2018-charged-cylinder-solenoid-fig1.png)
 

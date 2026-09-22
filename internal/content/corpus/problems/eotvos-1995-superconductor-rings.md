@@ -20,9 +20,9 @@ solution_language: hu
 techniques: [conservation-laws, superposition]
 ---
 
-**2. feladat. Szupravezetó gyűrűk mágneses térben.**
+**2. feladat. Szupravezető gyűrűk mágneses térben.**
 
-Két vékony, koncentrikus, szupravezetó gyürű a síkjukra meróleges, homogén mágneses térben helyezkedik el. A mágneses indukció vektorának nagysága $B_0$, iránya az ábrán a papír síkjába befelé mutat. A belső gyürú sugara sokkal kisebb a külsőnél ($R_1 \ll R_2$). Az egyes gyűrűk induktivitása $L_1$ illetve $L_2$, és a kölcsönös indukció sem hanyagolható el.
+Két vékony, koncentrikus, szupravezető gyűrű a síkjukra merőleges, homogén mágneses térben helyezkedik el. A mágneses indukció vektorának nagysága $B_0$, iránya az ábrán a papír síkjába befelé mutat. A belső gyűrű sugara sokkal kisebb a külsőnél ($R_1 \ll R_2$). Az egyes gyűrűk induktivitása $L_1$ illetve $L_2$, és a kölcsönös indukció sem hanyagolható el.
 
 **Mekkora és milyen irányú áramok indukálódnak az egyes gyűrűkben, ha a külső mágneses teret megszüntetjük?**
 

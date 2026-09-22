@@ -25,7 +25,7 @@ techniques: [model-reduction, cross-domain-analogy]
 ![figure](../../figures/eotvos/figures/eotvos-2005-p3-fig5.jpg)
 11. ábra
 
-a) Mindegyik izzó tữrhetốen ég.
+a) Mindegyik izzó tűrhetően ég.
 b) A primer körbeli négy izzó szépen ég, az ötödik legfeljebb pislákol.
 c) A szekunder körbeli izzó egy pillanat alatt kiég, utána a primer körbeli izzók sem világítanak, mivel a primer tekercs fojtótekercsként hat.
 

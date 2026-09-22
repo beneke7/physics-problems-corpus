@@ -20,6 +20,6 @@ solution_language: hu
 techniques: [choose-reference-frame, conservation-laws]
 ---
 
-Egy henger alakú zárt tartály fekvő helyzetben egyenletesen forog (vízszintes) hossztengelye körül, 0,5/s fordulatszámmal. A tartály 100 kg homokot tartalmaz, belsó átmérője és hossza egyaránt 1 m, fala érdes.
+Egy henger alakú zárt tartály fekvő helyzetben egyenletesen forog (vízszintes) hossztengelye körül, 0,5/s fordulatszámmal. A tartály 100 kg homokot tartalmaz, belső átmérője és hossza egyaránt 1 m, fala érdes.
 
-Becsüljük meg, mennyivel növekszik a homok hómérséklete 10 perc alatt, ha a falon keresztül elszökő hőmennyiséget elhanyagoljuk!
+Becsüljük meg, mennyivel növekszik a homok hőmérséklete 10 perc alatt, ha a falon keresztül elszökő hőmennyiséget elhanyagoljuk!

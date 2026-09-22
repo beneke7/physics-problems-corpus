@@ -20,7 +20,7 @@ solution_language: hu
 techniques: [conservation-laws, limiting-and-special-cases]
 ---
 
-1. Két rögzített, egymástól $l=2 \mathrm{~m}$ távolságra levố csigán erốs, de nem nyúlékony fonalat vezetünk át, és a végeire egy-egy $M=1 \mathrm{~kg}$ tömegữ testet erósítünk az 1.(a) ábra szerint. (A fonal néhányszor 10 N terhelést bér ki szakadás nélkül. A csigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 1-1 méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor $A$ és $B$ között „kiegyenesedik”. Ha azonban úgy engedjük el, hogy előbb egy ugyancsak 1 kg tömegü testet erósítünk a fonal közepéhez, akkor a fonal a továbbiakban nem szakad el.
+1. Két rögzített, egymástól $l=2 \mathrm{~m}$ távolságra levő csigán erős, de nem nyúlékony fonalat vezetünk át, és a végeire egy-egy $M=1 \mathrm{~kg}$ tömegű testet erősítünk az 1.(a) ábra szerint. (A fonal néhányszor 10 N terhelést bír ki szakadás nélkül. A csigák és a fonal tömege elhanyagolható.) Ha ujjunkkal lehúzzuk a fonal közepét úgy, hogy a két test 1-1 méterrel megemelkedjék (1.(b) ábra), majd elengedjük, a fonal elpattan, amikor $A$ és $B$ között „kiegyenesedik”. Ha azonban úgy engedjük el, hogy előbb egy ugyancsak 1 kg tömegű testet erősítünk a fonal közepéhez, akkor a fonal a továbbiakban nem szakad el.
 
 ![figure](../../figures/eotvos/figures/eotvos-2005-p1-fig1.jpg)
 (a)

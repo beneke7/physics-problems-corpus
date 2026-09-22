@@ -22,7 +22,7 @@ techniques: [conservation-laws, differential-element]
 
 **1. feladat. Búvárharang.**
 
-Egy tóba 20 m mélyre lesúllyesztett, $1 \mathrm{~m}^{3}$ ürtartalmú búvárharang megtelt vízzel. A felszínen úszó hajóból vékony csövön át levegőt pumpálunk a harang alá. (A harang súlyos, még ekkor sem emelkedik fel.) A levegő és a víz hőmérséklete között nincs számottevő különbség.
+Egy tóba 20 m mélyre lesüllyesztett, $1 \mathrm{~m}^{3}$ űrtartalmú búvárharang megtelt vízzel. A felszínen úszó hajóból vékony csövön át levegőt pumpálunk a harang alá. (A harang súlyos, még ekkor sem emelkedik fel.) A levegő és a víz hőmérséklete között nincs számottevő különbség.
 
 | Legalább mekkora munkát végez a kompresszor az $1 \mathrm{~m}^{3}$ víz kiszorítása során?
 
