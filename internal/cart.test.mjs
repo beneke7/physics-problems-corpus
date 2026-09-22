@@ -21,6 +21,7 @@ assert.ok(cartSource.includes('number.textContent = `${index + 1}. `;'));
 assert.ok(cartSource.includes('${printProblemHtml(problem, index)}<p class="problem-source">'));
 assert.ok(cartSource.includes('body>h1{margin:0 0 6px;text-align:center'));
 assert.ok(cartSource.includes('@page{size:A4;margin:0}'));
+assert.ok(cartSource.includes('max-width:90%;max-height:68vh'));
 runInNewContext(cartSource, context);
 const archive = await context.window.createCorpusArchive([{name:"problems.md", bytes:new TextEncoder().encode("hello") }]);
 const tar = gunzipSync(Buffer.from(await archive.arrayBuffer()));
