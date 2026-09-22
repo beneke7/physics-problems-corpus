@@ -34,9 +34,9 @@
 		.muted, #status { color:var(--muted); }
 		#gate-message { font-size:12px; }
 		.meta { color:var(--muted); font-size:13px; }
+		.record-categories { margin:2px 0 0; color:#555; font-size:12px; line-height:1.5; }
 		.toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); }
-		.toolbar select { min-width:180px; }
-		#download-md, #download-package { border-color:var(--red); color:var(--red); text-decoration:none; }
+		#show-md, #download-package { border-color:var(--red); color:var(--red); }
 		#document-content { max-width:820px; margin:0 auto; padding:18px 0 28px; font-family:Georgia,'Times New Roman',serif; font-size:17px; }
 		#document-content h1, #document-content h2, #document-content h3 { margin:1.2em 0 .35em; }
 		#document-content h1 { font-size:28px; } #document-content h2 { font-size:23px; } #document-content h3 { font-size:19px; }
@@ -65,17 +65,19 @@
 	</section>
 
 	<main id="app" hidden>
-		<header><h1>physics problem finder</h1><nav class="header-actions"><a href="./">back to finder</a></nav></header>
+		<header><h1>physics problem finder</h1><nav class="header-actions"><a class="header-action" href="./">Finder</a></nav></header>
 		<p id="meta" class="meta">Loading record…</p>
+		<p id="categories" class="record-categories"></p>
 		<div class="toolbar">
-			<label>Document <select id="document"></select></label>
-			<a id="download-md" href="#" download hidden>Download plain MD</a>
-			<button id="download-package" type="button" hidden>Download MD + figures</button>
-			<button id="cart-add-current" type="button" hidden>Add problem to cart</button>
+			<div id="document-tabs" role="group" aria-label="Document version"></div>
+			<button id="show-md" type="button" hidden>Show MD</button>
+			<button id="download-package" type="button" hidden>LaTeX</button>
+			<button id="cart-add-current" type="button" hidden>Add</button>
 			<span id="status" aria-live="polite"></span>
 		</div>
 		<p id="document-note" hidden>Source transcription: raw PDF/OCR extraction; formatting and equations may be corrupted.</p>
 		<article id="document-content"></article>
+		<pre id="markdown-source" hidden></pre>
 		<section id="figures" hidden><h2>Figures</h2><div id="figure-list"></div></section>
 	</main>
 
@@ -88,7 +90,7 @@
 		const params = new URLSearchParams(location.search), recordId = params.get("id"), standalonePath = params.get("path");
 		const array = (v) => Array.isArray(v) ? v : [];
 		const text = (v) => v === null || v === undefined ? "" : String(v);
-		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {}, packageBody = "", downloadUrl;
+		let catalog, manifest, record, options = [], currentBody = "", currentInfo = {};
 		const RAW_FIGURE_BASE = "https://raw.githubusercontent.com/beneke7/physics-problems-corpus/master/";
 		function typeset(node) {
 			const run = () => {
@@ -115,11 +117,10 @@
 		function stripFrontmatter(value) { return value.replace(/^---\n[\s\S]*?\n---\n?/, ""); }
 		function cleanDisplay(value) { return value.replace(/\r\n?/g, "\n").replace(/\f/g, "\n\n").replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f\ufffd]/g, " "); }
 		function basename(value) { return decodeURIComponent(value.split(/[?#]/)[0].split("/").pop() || ""); }
-		function labelFor(key, path) { if (key === "problem") return "Problem"; if (key === "en") return "English translation"; if (key === "hu") return "Hungarian problem"; if (key === "solution") return "Canonical solution"; if (key === "solution_hu") return "Hungarian solution"; return `Source transcription ${Number(key.slice(3)) + 1}`; }
+		function labelFor(key) { return {problem:"Problem", en:"Problem EN", hu:"Problem HU", solution:"Solution", solution_hu:"Solution HU"}[key] || `Source ${Number(key.slice(3)) + 1}`; }
 		function make(tag, cls, value) { const n = document.createElement(tag); if (cls) n.className = cls; if (value !== undefined) n.textContent = value; return n; }
 		function figurePath(src, info) { const name = basename(src); return array(info.figures).find((path) => basename(path) === name) || src; }
 		function assetUrl(path) { return path.startsWith("content/figures/solution-ocr/") ? RAW_FIGURE_BASE + "internal/" + path : new URL(path, location.href).href; }
-		function packageFigurePath(path) { return `figures/${path.replace(/^content\/figures\//, "")}`; }
 		function documentFigures(body, info) {
 			const paths = array(info.figures).filter((path) => !/^https?:\/\//i.test(path));
 			for (const match of body.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)) {
@@ -128,36 +129,26 @@
 			}
 			return [...new Set(paths)];
 		}
-		function localizeImages(body, info, forPackage = false) {
-			return body.replace(/(!\[[^\]]*\]\()([^)]*)(\))/g, (whole, start, src, end) => {
-				const local = figurePath(src, info); if (local === src) return whole;
-				return `${start}${forPackage ? packageFigurePath(local) : assetUrl(local)}${end}`;
-			});
-		}
-		function setDownload(body, name) {
-			if (downloadUrl) URL.revokeObjectURL(downloadUrl); downloadUrl = URL.createObjectURL(new Blob([body], {type:"text/markdown;charset=utf-8"}));
-			const link = $("download-md"); link.href = downloadUrl; link.download = `${name}.md`; link.hidden = false;
-		}
+		function download(blob, name) { const url=URL.createObjectURL(blob), link=document.createElement("a"); link.href=url; link.download=name; link.click(); setTimeout(()=>URL.revokeObjectURL(url),1000); }
 		function renderFigures(info, seen) {
 			const box = $("figures"), list = $("figure-list"); list.replaceChildren(); const paths = array(info.figures).filter((path) => !seen.has(path));
 			if (!paths.length) { box.hidden = true; return; } box.hidden = false;
 			paths.forEach((path) => { const figure = make("div", "figure"), img = document.createElement("img"), link = make("a", "", basename(path)), asset = assetUrl(path); img.src = asset; img.loading = "lazy"; img.decoding = "async"; link.href = asset; link.download = basename(path); figure.append(img, link); list.append(figure); });
 		}
 		function renderBody(body, info, renderMath = true) {
-			currentBody = cleanDisplay(stripFrontmatter(body)); currentInfo = {...info, figures: documentFigures(currentBody, info)}; packageBody = localizeImages(currentBody, currentInfo, true); const content = $("document-content"); content.innerHTML = window.corpusRenderMarkdown(currentBody); if (renderMath && window.corpusHasMath(currentBody)) typeset(content);
+			currentBody = cleanDisplay(stripFrontmatter(body)); currentInfo = {...info, figures: documentFigures(currentBody, info)}; const content = $("document-content"); content.innerHTML = window.corpusRenderMarkdown(currentBody); if (renderMath && window.corpusHasMath(currentBody)) typeset(content);
 			const seen = new Set(); content.querySelectorAll("img").forEach((img) => { const original = img.getAttribute("src") || ""; const local = figurePath(original, currentInfo); if (local !== original) { img.src = assetUrl(local); seen.add(local); } img.loading = "lazy"; img.decoding = "async"; });
-			renderFigures(currentInfo, seen); setDownload(currentBody, (record?.id || "solution-ocr") + "-" + $("document").value); const count = array(currentInfo.figures).length; $("download-package").textContent = count ? `Download MD + ${count} figure${count === 1 ? "" : "s"}` : "Download MD package"; $("download-package").hidden = false; $("status").textContent = `${currentBody.length.toLocaleString()} characters${count ? ` · ${count} local figure${count === 1 ? "" : "s"}` : ""}`;
+			renderFigures(currentInfo, seen); $("markdown-source").textContent = currentBody; $("markdown-source").hidden = true; $("show-md").textContent = "Show MD"; $("show-md").setAttribute("aria-expanded", "false"); $("show-md").hidden = false; $("download-package").hidden = false; $("status").textContent = "";
 		}
 		async function downloadPackage() {
 			const button=$("download-package"); button.disabled=true; $("status").textContent="Preparing download…";
 			try {
-				const files=[{name:`${recordId}.md`,bytes:new TextEncoder().encode(packageBody)}];
-				for (const path of array(currentInfo.figures)) { const response=await fetch(assetUrl(path)); if (!response.ok) throw new Error(path); files.push({name:packageFigurePath(path),bytes:new Uint8Array(await response.arrayBuffer())}); }
-				const blob=await window.createCorpusArchive(files), url=URL.createObjectURL(blob), link=document.createElement("a"); link.href=url; link.download=`${recordId}-${$("document").value}.tar.gz`; link.click(); setTimeout(() => URL.revokeObjectURL(url),1000); $("status").textContent="Download ready.";
-			} catch (_) { $("status").textContent="Package failed; use the plain MD and figure links separately."; } finally { button.disabled=false; }
+				const blob=await window.buildCorpusLatexPackage([{id:record?.id || "document", document:activeDocument, record, info:currentInfo, body:currentBody, figures:array(currentInfo.figures)}], {title:"Physics problem"});
+				download(blob, `${recordId || "document"}-${activeDocument}-latex.tar.gz`); $("status").textContent="Ready.";
+			} catch (error) { $("status").textContent=error.message || "LaTeX package failed."; } finally { button.disabled=false; }
 		}
 		async function showDocument(key) {
-			const path=options.find((item) => item.key === key)?.path; if (!path) return; window.dispatchEvent(new CustomEvent("corpus-document-change", {detail:key})); currentInfo={...(manifest.records[recordId] || {}), ...(manifest.documents[path] || {})};
+			const path=options.find((item) => item.key === key)?.path; if (!path) return; activeDocument=key; document.querySelectorAll("#document-tabs button").forEach((button)=>button.setAttribute("aria-pressed",String(button.dataset.document===key))); window.dispatchEvent(new CustomEvent("corpus-document-change", {detail:key})); currentInfo={...(manifest.records[recordId] || {}), ...(manifest.documents[path] || {})};
 			const source = key.startsWith("doc"); $("document-note").hidden = !source;
 			try { const response=await fetch(path); if (!response.ok) throw new Error(); renderBody(await response.text(),currentInfo,!source); const query = standalonePath ? `path=${encodeURIComponent(standalonePath)}&doc=${encodeURIComponent(key)}` : `id=${encodeURIComponent(recordId)}&doc=${encodeURIComponent(key)}`; history.replaceState(null,"",`view.html?${query}`); } catch (_) { $("document-content").innerHTML=""; $("document-content").append(make("div","error","This document could not be loaded.")); }
 		}
@@ -174,10 +165,15 @@
 					const local=manifest.records[recordId] || {}; options=["problem","en","hu","solution","solution_hu"].filter((key)=>local[key]).map((key)=>({key,path:local[key]})); array(local.solution_documents).forEach((path,i)=>options.push({key:`doc${i}`,path}));
 				}
 				$("meta").textContent=`${record.source_name || record.source}${record.year ? ` · ${record.year}` : ""} · ${record.title || record.problem || record.id}`;
-				const select=$("document"); select.replaceChildren(...options.map((item)=>new Option(labelFor(item.key,item.path),item.key))); const wanted=params.get("doc"); select.value=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key; if (!select.value) throw new Error(); showDocument(select.value);
+				const categories = [["Topics",record.topics],["Subtopics",record.subtopics],["Techniques",record.techniques],["Ideas",array(record.ideas).map((idea)=>catalog.idea_labels?.[idea] || idea)],["Math",record.math_tools]].filter(([,values])=>array(values).length);
+				$("categories").replaceChildren(...categories.map(([label,values],index)=>{const span=make("span","",`${index ? " · " : ""}${label}: ${array(values).join(", ")}`); return span;}));
+				const wanted=params.get("doc"), initial=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key, tabs=$("document-tabs");
+				tabs.replaceChildren(...options.map((item)=>{const button=make("button","document-tab",labelFor(item.key,item.path)); button.type="button"; button.dataset.document=item.key; button.setAttribute("aria-pressed",String(item.key===initial)); return button;})); if (!initial) throw new Error(); showDocument(initial);
 			} catch (_) { $("meta").textContent=""; $("document-content").append(make("div","error","The record could not be loaded.")); }
 		}
-		$("unlock").addEventListener("submit",unlock); $("document").addEventListener("change",(event)=>showDocument(event.target.value)); $("download-package").addEventListener("click",downloadPackage);
+		let activeDocument="problem";
+		$("unlock").addEventListener("submit",unlock); $("document-tabs").addEventListener("click",(event)=>{const button=event.target.closest("[data-document]"); if(button) showDocument(button.dataset.document);}); $("download-package").addEventListener("click",downloadPackage);
+		$("show-md").addEventListener("click",()=>{const source=$("markdown-source"),show=source.hidden; source.hidden=!show; $("show-md").textContent=show?"Hide MD":"Show MD"; $("show-md").setAttribute("aria-expanded",String(show));});
 		if (sessionStorage.getItem("physics-corpus-internal") === "1") { $("gate").hidden=true; $("app").hidden=false; load(); }
 	</script>
 </body>

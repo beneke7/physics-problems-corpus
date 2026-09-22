@@ -1,6 +1,6 @@
 (() => {
 	const array = (value) => Array.isArray(value) ? value : [];
-	const documents = ["problem", "en", "hu"];
+	const isDocument = (key) => ["problem", "en", "hu", "solution", "solution_hu"].includes(key) || /^doc\d+$/.test(key || "");
 	const storageKey = "physics-problem-cart-v1";
 	const rawFigureBase = "https://raw.githubusercontent.com/beneke7/physics-problems-corpus/master/internal/";
 	const escapeHtml = (value) => String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
@@ -25,12 +25,75 @@
 		chunks.push(new Uint8Array(1024));
 		return new Response(new Blob(chunks).stream().pipeThrough(new CompressionStream("gzip"))).blob();
 	};
+	function escapeLatex(value) {
+		return String(value).replace(/[\\{}$&#%_^~]/g, (char) => ({"\\":"\\textbackslash{}", "{":"\\{", "}":"\\}", "$":"\\$", "&":"\\&", "#":"\\#", "%":"\\%", "_":"\\_", "^":"\\textasciicircum{}", "~":"\\textasciitilde{}"})[char]);
+	}
+	function latexText(value) {
+		return String(value).split(/(\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\]|\$\$[\s\S]*?\$\$|(?<!\\)\$(?!\$)[^$\n]*?\$)/g).map((part) => {
+			if ((part.startsWith("\\(") && part.endsWith("\\)")) || (part.startsWith("\\[") && part.endsWith("\\]")) || (part.startsWith("$$") && part.endsWith("$$")) || (part.startsWith("$") && part.endsWith("$") && part.length > 1)) return part;
+			return escapeLatex(part);
+		}).join("");
+	}
+	window.corpusEscapeLatexText = latexText;
+	window.buildCorpusLatexPackage = async (problems, {title = "Physics problem set", subtitle = ""} = {}) => {
+		const figures = new Map();
+		async function addFigure(path) {
+			if (figures.has(path)) return;
+			const response = await fetch(figureUrl(path)); if (!response.ok) throw new Error(`Could not load figure: ${basename(path)}`);
+			let bytes = new Uint8Array(await response.arrayBuffer()), extension = (basename(path).match(/\.[^.]+$/) || [".png"])[0].toLowerCase();
+			if (extension === ".jpeg") extension = ".jpg";
+			if (extension === ".gif") {
+				const bitmap = await createImageBitmap(new Blob([bytes], {type:"image/gif"})), canvas = document.createElement("canvas");
+				canvas.width = bitmap.width; canvas.height = bitmap.height; canvas.getContext("2d").drawImage(bitmap, 0, 0); bitmap.close();
+				const png = await new Promise((resolve) => canvas.toBlob(resolve, "image/png")); if (!png) throw new Error(`Could not convert figure: ${basename(path)}`);
+				bytes = new Uint8Array(await png.arrayBuffer()); extension = ".png";
+			}
+			figures.set(path, {name:`figures/image-${String(figures.size + 1).padStart(3, "0")}${extension}`, bytes});
+		}
+		for (const problem of problems) for (const path of array(problem.figures)) await addFigure(path);
+		function imageLatex(path, used) {
+			if (/^https?:\/\//i.test(path)) return `\\url{${path}}`;
+			const figure = figures.get(path); if (!figure) return "";
+			used.add(path);
+			return `\\begin{center}\n\\includegraphics[width=0.85\\linewidth]{\\detokenize{${figure.name}}}\n\\end{center}`;
+		}
+		function convert(node, info, used) {
+			if (node.nodeType === 3) return latexText(node.nodeValue);
+			if (node.nodeType !== 1) return "";
+			const tag = node.tagName.toLowerCase(), children = () => [...node.childNodes].map((child) => convert(child, info, used)).join("");
+			if (tag === "img") return imageLatex(resolveFigure(node.getAttribute("src") || "", info), used);
+			if (tag === "p") return `${children().trim()}\n\n`;
+			if (/^h[1-6]$/.test(tag)) return `\\par\\medskip\\noindent\\textbf{${children().trim()}}\\par\\smallskip\n`;
+			if (tag === "strong" || tag === "b") return `\\textbf{${children()}}`;
+			if (tag === "em" || tag === "i") return `\\emph{${children()}}`;
+			if (tag === "code") return `\\texttt{${escapeLatex(node.textContent)}}`;
+			if (tag === "pre") return `\\begin{quote}\\ttfamily ${escapeLatex(node.textContent).replace(/\n/g, "\\\\\\par ")}\\end{quote}\n`;
+			if (tag === "br") return "\\\\\n";
+			if (tag === "hr") return "\\par\\medskip\\noindent\\rule{\\linewidth}{0.4pt}\\par\\medskip\n";
+			if (tag === "ul" || tag === "ol") return `\\begin{${tag === "ul" ? "itemize" : "enumerate"}}\n${[...node.children].filter((child) => child.tagName.toLowerCase() === "li").map((item) => `\\item ${[...item.childNodes].map((child) => convert(child, info, used)).join("").trim()}\n`).join("")}\\end{${tag === "ul" ? "itemize" : "enumerate"}}\n`;
+			if (tag === "blockquote") return `\\begin{quote}\n${children().trim()}\\end{quote}\n`;
+			if (tag === "a") return node.href ? `\\href{\\detokenize{${node.href}}}{${children()}}` : children();
+			if (tag === "table") {
+				const rows = [...node.querySelectorAll("tr")], columns = Math.max(1, ...rows.map((row) => row.children.length));
+				return `\\begin{center}\\begin{tabular}{${"c".repeat(columns)}}\n${rows.map((row) => `${[...row.children].map((cell) => [...cell.childNodes].map((child) => convert(child, info, used)).join("").trim()).join(" & ")} \\\\ \\hline\n`).join("")}\\end{tabular}\\end{center}\n`;
+			}
+			return children();
+		}
+		const sections = problems.map((problem, index) => {
+			const used = new Set(), content = document.createElement("div"); content.innerHTML = window.corpusRenderMarkdown(problem.body);
+			let body = [...content.childNodes].map((node) => convert(node, problem.info, used)).join("").trim();
+			for (const path of problem.figures) if (!used.has(path)) body += `\n\n${imageLatex(path, used)}`;
+			return `\\item ${body}\n\\hfill{\\small\\textit{Source: ${escapeLatex(sourceLabel(problem.record, problem.document))}}}`;
+		});
+		const tex = ["\\documentclass[12pt]{article}", "\\usepackage[T1]{fontenc}", "\\usepackage[utf8]{inputenc}", "\\usepackage{lmodern}", "\\usepackage{amsmath,amssymb}", "\\usepackage{graphicx}", "\\usepackage{hyperref}", "\\usepackage[a4paper,margin=20mm]{geometry}", "\\setlength{\\parindent}{0pt}", "\\setlength{\\parskip}{0.25em}", "\\begin{document}", `\\begin{center}{\\LARGE\\textbf{${escapeLatex(title)}}}\\end{center}`, subtitle ? `\\begin{center}${escapeLatex(subtitle)}\\end{center}` : "", "\\begin{enumerate}", "\\setlength{\\itemsep}{0.5em}", "\\setlength{\\topsep}{0.4em}", "\\setlength{\\parsep}{0.2em}", ...sections, "\\end{enumerate}", "\\end{document}", ""].filter((line) => line !== undefined);
+		return window.createCorpusArchive([{name:"main.tex", bytes:new TextEncoder().encode(tex.join("\n"))}, {name:"README.txt", bytes:new TextEncoder().encode("Compile with pdflatex main.tex. Figures are included in the figures/ folder. Animated GIFs are converted to their first frame.\n")}, ...[...figures.values()].map((figure) => ({name:figure.name, bytes:figure.bytes}))]);
+	};
 
 	const header = document.querySelector(".header-actions");
 	if (!header) return;
 	const cartButton = document.createElement("button");
 	cartButton.className = "cart-icon"; cartButton.type = "button"; cartButton.setAttribute("aria-haspopup", "dialog");
-	cartButton.innerHTML = '<span aria-hidden="true">🛒</span><span class="cart-count">0</span>';
+	cartButton.innerHTML = '<svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.7 13.4a2 2 0 0 0 2 1.6h9.7a2 2 0 0 0 2-1.6L23 6H6"/></svg><span class="cart-count">0</span>';
 	header.append(cartButton);
 
 	const dialog = document.createElement("dialog"); dialog.id = "cart-dialog";
@@ -39,7 +102,7 @@
 		<ol id="cart-items"></ol>
 		<div class="cart-fields"><label>Title<input id="cart-title" maxlength="160" placeholder="Physics problem set"></label>
 		<label>Subtitle<textarea id="cart-subtitle" maxlength="500" placeholder="Optional"></textarea></label></div>
-		<div class="cart-actions"><button id="cart-clear" type="button">Clear cart</button><button id="cart-markdown" type="button">Download Markdown + figures</button><button id="cart-pdf" type="button">Print / save PDF</button></div>
+		<div class="cart-actions"><button id="cart-clear" type="button">Clear</button><button id="cart-latex" type="button">LaTeX</button><button id="cart-pdf" type="button">PDF</button></div>
 		<p id="cart-status" aria-live="polite"></p>`;
 	document.body.append(dialog);
 
@@ -49,7 +112,7 @@
 			const items = Array.isArray(saved.items) ? saved.items : [];
 			return {
 				items: [...new Map(items.map((item) => {
-					const normalized = typeof item === "string" ? {id:item, document:"problem"} : {id:String(item.id || ""), document:documents.includes(item.document) ? item.document : "problem"};
+					const normalized = typeof item === "string" ? {id:item, document:"problem"} : {id:String(item.id || ""), document:isDocument(item.document) ? item.document : "problem"};
 					return [normalized.id, normalized];
 				}).filter(([id]) => id)).values()],
 				title: typeof saved.title === "string" ? saved.title : "",
@@ -66,17 +129,17 @@
 		try { localStorage.setItem(storageKey, JSON.stringify(state)); } catch (_) {}
 		refreshButtons();
 	}
-	function selectedDocument(button) { return documents.includes(button.dataset.cartDoc) ? button.dataset.cartDoc : "problem"; }
+	function selectedDocument(button) { return isDocument(button.dataset.cartDoc) ? button.dataset.cartDoc : "problem"; }
 	function refreshButtons() {
 		count.textContent = state.items.length;
 		cartButton.setAttribute("aria-label", `Open problem cart, ${state.items.length} item${state.items.length === 1 ? "" : "s"}`);
 		document.querySelectorAll("[data-cart-add]").forEach((button) => {
 			const item = state.items.find((entry) => entry.id === button.dataset.cartAdd), doc = selectedDocument(button);
-			button.textContent = !item ? "Add to cart" : item.document === doc ? "In cart · remove" : "Use this version";
+			button.textContent = !item ? "Add" : item.document === doc ? button.id === "cart-add-current" ? "In cart · remove" : "Remove" : "Use";
 			button.setAttribute("aria-pressed", String(Boolean(item && item.document === doc)));
 		});
 		const empty = state.items.length === 0;
-		for (const id of ["cart-clear", "cart-markdown", "cart-pdf"]) dialog.querySelector(`#${id}`).disabled = empty;
+		for (const id of ["cart-clear", "cart-latex", "cart-pdf"]) dialog.querySelector(`#${id}`).disabled = empty;
 	}
 	window.refreshCorpusCartButtons = refreshButtons;
 	function getData() {
@@ -88,12 +151,12 @@
 	}
 	function label(record, documentKey) {
 		const parts = [record?.source_name || record?.source, record?.handout, record?.year, record?.problem, record?.title].filter(Boolean);
-		const version = {en:"English", hu:"Hungarian"}[documentKey];
+		const version = {en:"English problem", hu:"Hungarian problem", solution:"Official solution", solution_hu:"Hungarian solution"}[documentKey] || (documentKey.startsWith("doc") ? `Source document ${Number(documentKey.slice(3)) + 1}` : "");
 		return `${parts.join(" · ") || record?.id || "Problem"}${version ? ` · ${version}` : ""}`;
 	}
 	function sourceLabel(record, documentKey) {
 		const parts = [record?.source_name || record?.source, record?.handout, record?.year, record?.problem].filter(Boolean);
-		const version = {en:"English", hu:"Hungarian"}[documentKey];
+		const version = {en:"English problem", hu:"Hungarian problem", solution:"Official solution", solution_hu:"Hungarian solution"}[documentKey] || (documentKey.startsWith("doc") ? `Source document ${Number(documentKey.slice(3)) + 1}` : "");
 		return `${parts.join(" · ") || record?.id || "Unknown source"}${version ? ` · ${version}` : ""}`;
 	}
 	function renderList(records) {
@@ -133,18 +196,13 @@
 		if (/^https?:\/\//i.test(clean)) return clean;
 		return array(info.figures).find((path) => basename(path) === basename(clean)) || clean;
 	}
-	function packageFigurePath(path) {
-		if (!path.startsWith("content/figures/")) throw new Error(`Figure is not locally indexed: ${path}`);
-		const relative = path.slice("content/figures/".length);
-		if (!relative || relative.split("/").some((part) => !part || part === "." || part === "..")) throw new Error(`Invalid figure path: ${path}`);
-		return `figures/${relative}`;
-	}
 	function figureUrl(path) { return path.startsWith("content/figures/solution-ocr/") ? rawFigureBase + path : new URL(path, location.href).href; }
 	function cleanBody(body) { return body.replace(/^---\n[\s\S]*?\n---\n?/, "").replace(/\r\n?/g, "\n").replace(/\f/g, "\n\n").replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f\ufffd]/g, " "); }
 	async function collectProblems() {
 		const [catalog, manifest] = await getData(), records = new Map(array(catalog.records).map((record) => [record.id, record])), problems = [];
 		for (const item of state.items) {
-			const record = records.get(item.id), info = manifest.records?.[item.id], path = info?.[item.document] || info?.problem || info?.en || info?.hu;
+			const record = records.get(item.id), info = manifest.records?.[item.id], documentIndex = item.document.startsWith("doc") ? Number(item.document.slice(3)) : -1;
+			const path = documentIndex >= 0 ? array(info?.solution_documents)[documentIndex] : info?.[item.document];
 			if (!record || !path) throw new Error(`Problem document missing: ${item.id}`);
 			const response = await fetch(new URL(path, location.href)); if (!response.ok) throw new Error(`Could not load: ${item.id}`);
 			const body = cleanBody(await response.text()), refs = [...body.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)].map((match) => resolveFigure(match[1], info));
@@ -153,35 +211,11 @@
 		}
 		return problems;
 	}
-	function latexImage(path) { return `\\begin{center}\n\\includegraphics[width=\\linewidth]{\\detokenize{${packageFigurePath(path)}}}\n\\end{center}`; }
-	function packageMarkdown(problems) {
-		const title = state.title.trim() || "Physics problem set", lines = [`# ${title}`, ""];
-		if (state.subtitle.trim()) lines.push(state.subtitle.trim(), "");
-		lines.push("<!-- LaTeX figures require \\usepackage{graphicx} in your preamble. -->", "");
-		const files = new Map();
-		for (const [index, problem] of problems.entries()) {
-			const used = new Set();
-			let body = problem.body.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (whole, _alt, raw) => {
-				const path = resolveFigure(raw, problem.info);
-				if (/^https?:\/\//i.test(path)) return whole;
-				const archivePath = packageFigurePath(path); used.add(path); files.set(path, archivePath);
-				return `\n\n${latexImage(path)}\n\n`;
-			});
-			for (const path of problem.figures) if (!used.has(path)) { body += `\n\n${latexImage(path)}\n\n`; files.set(path, packageFigurePath(path)); }
-			lines.push(`## Problem ${index + 1}`, "", `*Source: ${sourceLabel(problem.record, problem.document)}*`, "", body.trim(), "", "---", "");
-		}
-		return {markdown:lines.join("\n"), files};
-	}
 	function slug(value) { return value.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "physics-problems"; }
 	function download(blob, name) { const url = URL.createObjectURL(blob), link = document.createElement("a"); link.href = url; link.download = name; link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000); }
-	async function downloadMarkdown() {
-		const problems = await collectProblems(), {markdown, files} = packageMarkdown(problems);
-		const entries = [{name:"problems.md", bytes:new TextEncoder().encode(markdown)}];
-		for (const [path, name] of files) {
-			const response = await fetch(figureUrl(path)); if (!response.ok) throw new Error(`Could not load figure: ${basename(path)}`);
-			entries.push({name, bytes:new Uint8Array(await response.arrayBuffer())});
-		}
-		download(await window.createCorpusArchive(entries), `${slug(state.title || "physics-problems")}.tar.gz`);
+	async function downloadLatex() {
+		const problems = await collectProblems(), blob = await window.buildCorpusLatexPackage(problems, {title:state.title.trim() || "Physics problem set", subtitle:state.subtitle.trim()});
+		download(blob, `${slug(state.title || "physics-problems")}-latex.tar.gz`);
 	}
 	function printProblemHtml(problem, index) {
 		const used = new Set();
@@ -260,18 +294,15 @@
 	titleInput.addEventListener("input", () => { state.title = titleInput.value; save(); });
 	subtitleInput.addEventListener("input", () => { state.subtitle = subtitleInput.value; save(); });
 	dialog.querySelector("#cart-clear").addEventListener("click", () => { state.items = []; save(); renderCart(); });
-	dialog.querySelector("#cart-markdown").addEventListener("click", (event) => runAction(event.currentTarget, "Preparing Markdown package…", downloadMarkdown));
+	dialog.querySelector("#cart-latex").addEventListener("click", (event) => runAction(event.currentTarget, "Preparing LaTeX package…", downloadLatex));
 	dialog.querySelector("#cart-pdf").addEventListener("click", (event) => runAction(event.currentTarget, "Preparing print view…", printPdf));
 	const currentId = new URLSearchParams(location.search).get("id"), currentButton = document.getElementById("cart-add-current");
 	if (currentButton) {
 		if (currentId) { currentButton.dataset.cartAdd = currentId; currentButton.hidden = false; } else currentButton.hidden = true;
-		const documentSelect = document.getElementById("document");
-		if (documentSelect) {
-			currentButton.dataset.cartDoc = documents.includes(documentSelect.value) ? documentSelect.value : "problem";
-		}
+		currentButton.dataset.cartDoc = new URLSearchParams(location.search).get("doc") || "problem";
 	}
 	window.addEventListener("corpus-document-change", (event) => {
-		if (currentButton) { currentButton.dataset.cartDoc = documents.includes(event.detail) ? event.detail : "problem"; refreshButtons(); }
+		if (currentButton) { currentButton.dataset.cartDoc = isDocument(event.detail) ? event.detail : "problem"; refreshButtons(); }
 	});
 	window.addEventListener("storage", (event) => { if (event.key === storageKey) { state = readState(); save(); if (dialog.open) renderCart(); } });
 	refreshButtons();

@@ -15,8 +15,6 @@
 		a:visited { color:#551a8b; }
 		h1 { margin:0; font:700 20px/1.2 Georgia,serif; }
 		header { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
-		header .header-action { margin-left:auto; padding:5px 9px; border:1px solid #ccc; border-radius:2px; font-size:12px; text-decoration:none; }
-		header .header-action:hover, header .header-action:focus-visible { border-color:var(--red); }
 		#gate { max-width:600px; padding-top:22vh; }
 		#gate h1 { margin-bottom:12px; }
 		form { display:flex; gap:7px; }
@@ -130,7 +128,7 @@
 			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
 			const links = make("div", "links");
 			const view = make("a", "", "view"); view.href = `view.html?id=${encodeURIComponent(record.id)}`; links.append(view);
-			const add = make("button", "", "Add to cart"); add.type = "button"; add.dataset.cartAdd = record.id; links.append(add);
+				const add = make("button", "", "Add"); add.type = "button"; add.dataset.cartAdd = record.id; links.append(add);
 			if (links.childElementCount) article.append(links); return article;
 		}
 		function searchable(r) { return [r.id,r.source,r.source_name,r.year,r.problem,r.title,r.handout,r.language,r.difficulty,r.format,...array(r.languages),...array(r.topics),...array(r.subtopics),...array(r.math_tools),...array(r.techniques),...array(r.ideas),...array(r.ideas).map((v) => ideaLabels[v] || v)].map(text).join(" ").toLowerCase(); }
