@@ -27,6 +27,7 @@ assert.ok(cartSource.includes('@page{size:A4;margin:0}'));
 assert.ok(cartSource.includes('max-width:90%;max-height:68vh'));
 assert.ok(cartSource.includes('font-family:"Latin Modern Roman"'));
 assert.ok(cartSource.includes('text-align:justify'));
+assert.doesNotMatch(cartSource, /"Ready\."/);
 for (const style of ["regular", "bold", "italic", "bolditalic"]) {
 	const font = await readFile(new URL(`./assets/fonts/latin-modern-roman-${style}.woff`, import.meta.url));
 	assert.equal(font.toString("ascii", 0, 4), "wOFF");
@@ -59,3 +60,7 @@ assert.match(viewHtml, /id="show-md"/);
 assert.match(viewHtml, /id="categories"/);
 assert.doesNotMatch(viewHtml, /<select id="document"/);
 assert.doesNotMatch(viewHtml, /characters/);
+assert.match(viewHtml, /\.category-row\s*\{/);
+assert.match(viewHtml, /font-family:"Latin Modern Roman",serif/);
+assert.ok(viewHtml.indexOf('id="markdown-source"') < viewHtml.indexOf('id="document-content"'));
+assert.doesNotMatch(viewHtml, /"Ready\."/);

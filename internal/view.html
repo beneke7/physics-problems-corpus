@@ -15,6 +15,10 @@
 	</script>
 	<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 	<style>
+		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-regular.woff") format("woff"); font-weight:400; font-style:normal; }
+		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-bold.woff") format("woff"); font-weight:700; font-style:normal; }
+		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-italic.woff") format("woff"); font-weight:400; font-style:italic; }
+		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-bolditalic.woff") format("woff"); font-weight:700; font-style:italic; }
 		:root { --bg:#fff; --text:#222; --muted:#666; --line:#ccc; --red:#c00; }
 		* { box-sizing:border-box; }
 		body { margin:0; color:var(--text); background:var(--bg); font:14px/1.5 Verdana,Geneva,sans-serif; }
@@ -34,10 +38,12 @@
 		.muted, #status { color:var(--muted); }
 		#gate-message { font-size:12px; }
 		.meta { color:var(--muted); font-size:13px; }
-		.record-categories { margin:2px 0 0; color:#555; font-size:12px; line-height:1.5; }
+		.record-categories { display:grid; gap:3px; margin:2px 0 0; color:#555; font-size:12px; line-height:1.5; }
+		.category-row { display:grid; grid-template-columns:88px minmax(0,1fr); gap:8px; }
+		.category-row strong { color:#333; }
 		.toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); }
 		#show-md, #download-package { border-color:var(--red); color:var(--red); }
-		#document-content { max-width:820px; margin:0 auto; padding:18px 0 28px; font-family:Georgia,'Times New Roman',serif; font-size:17px; }
+		#document-content { max-width:820px; margin:0 auto; padding:18px 0 28px; font-family:"Latin Modern Roman",serif; font-size:17px; }
 		#document-content h1, #document-content h2, #document-content h3 { margin:1.2em 0 .35em; }
 		#document-content h1 { font-size:28px; } #document-content h2 { font-size:23px; } #document-content h3 { font-size:19px; }
 		#document-content p { margin:.7em 0; }
@@ -76,8 +82,8 @@
 			<span id="status" aria-live="polite"></span>
 		</div>
 		<p id="document-note" hidden>Source transcription: raw PDF/OCR extraction; formatting and equations may be corrupted.</p>
-		<article id="document-content"></article>
 		<pre id="markdown-source" hidden></pre>
+		<article id="document-content"></article>
 		<section id="figures" hidden><h2>Figures</h2><div id="figure-list"></div></section>
 	</main>
 
@@ -144,7 +150,7 @@
 			const button=$("download-package"); button.disabled=true; $("status").textContent="Preparing download…";
 			try {
 				const blob=await window.buildCorpusLatexPackage([{id:record?.id || "document", document:activeDocument, record, info:currentInfo, body:currentBody, figures:array(currentInfo.figures)}], {title:"Physics problem"});
-				download(blob, `${recordId || "document"}-${activeDocument}-latex.tar.gz`); $("status").textContent="Ready.";
+				download(blob, `${recordId || "document"}-${activeDocument}-latex.tar.gz`); $("status").textContent="";
 			} catch (error) { $("status").textContent=error.message || "LaTeX package failed."; } finally { button.disabled=false; }
 		}
 		async function showDocument(key) {
@@ -166,7 +172,7 @@
 				}
 				$("meta").textContent=`${record.source_name || record.source}${record.year ? ` · ${record.year}` : ""} · ${record.title || record.problem || record.id}`;
 				const categories = [["Topics",record.topics],["Subtopics",record.subtopics],["Techniques",record.techniques],["Ideas",array(record.ideas).map((idea)=>catalog.idea_labels?.[idea] || idea)],["Math",record.math_tools]].filter(([,values])=>array(values).length);
-				$("categories").replaceChildren(...categories.map(([label,values],index)=>{const span=make("span","",`${index ? " · " : ""}${label}: ${array(values).join(", ")}`); return span;}));
+				$("categories").replaceChildren(...categories.map(([label,values])=>{const row=make("div","category-row"), name=make("strong","",label), value=make("span","",array(values).join(", ")); row.append(name,value); return row;}));
 				const wanted=params.get("doc"), initial=options.some((item)=>item.key===wanted) ? wanted : options[0]?.key, tabs=$("document-tabs");
 				tabs.replaceChildren(...options.map((item)=>{const button=make("button","document-tab",labelFor(item.key,item.path)); button.type="button"; button.dataset.document=item.key; button.setAttribute("aria-pressed",String(item.key===initial)); return button;})); if (!initial) throw new Error(); showDocument(initial);
 			} catch (_) { $("meta").textContent=""; $("document-content").append(make("div","error","The record could not be loaded.")); }

@@ -271,7 +271,7 @@
 	}
 	async function runAction(button, message, action) {
 		button.disabled = true; status.textContent = message;
-		try { status.textContent = await action() || "Ready."; }
+		try { status.textContent = await action() || ""; }
 		catch (error) { status.textContent = error.message || "Export failed."; }
 		finally { button.disabled = false; refreshButtons(); }
 	}
