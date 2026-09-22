@@ -13,7 +13,9 @@
 		a { color:var(--red); }
 		a:visited { color:#551a8b; }
 		h1 { margin:0; font:700 20px/1.2 Georgia,serif; }
-		header { display:flex; justify-content:space-between; align-items:baseline; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
+		header { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px; padding:18px 0 10px; border-bottom:3px solid var(--red); }
+		header .header-action { margin-left:auto; padding:5px 9px; border:1px solid #ccc; border-radius:2px; font-size:12px; text-decoration:none; }
+		header .header-action:hover, header .header-action:focus-visible { border-color:var(--red); }
 		#gate { max-width:600px; padding-top:22vh; }
 		#gate h1 { margin-bottom:12px; }
 		form { display:flex; gap:7px; }
@@ -40,7 +42,6 @@
 		.tag { color:#555; font-size:12px; }
 		.tag + .tag::before { content:", "; }
 		.links { display:flex; flex-wrap:wrap; gap:0 10px; margin-top:6px; font-size:12px; }
-		.links a + a::before { content:"·"; margin-right:10px; color:var(--muted); }
 		#more { display:block; margin:14px auto; }
 		.empty, .error { padding:24px 0; color:var(--muted); text-align:center; }
 		.error { color:#900; }
@@ -56,7 +57,7 @@
 	</section>
 
 	<main id="app" hidden>
-		<header><h1>physics problem finder</h1><span><a href="ocr.html">OCR documents</a> · <a href="../">public metadata index</a></span></header>
+		<header><h1>physics problem finder</h1><a class="header-action" href="../catalog.json" download>Download metadata JSON</a></header>
 		<section class="toolbar">
 			<input id="query" type="search" placeholder="Search source, problem, topic, technique, idea, or math tool…" autocomplete="off">
 			<div class="filters">
@@ -82,7 +83,7 @@
 		const array = (v) => Array.isArray(v) ? v : [];
 		const text = (v) => v === null || v === undefined ? "" : String(v);
 		const pageSize = 50;
-		let records = [], manifest = {}, ideaLabels = {}, visibleLimit = pageSize, timer;
+		let records = [], ideaLabels = {}, visibleLimit = pageSize, timer;
 
 		async function digest(value) {
 			const bytes = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value));
@@ -123,11 +124,8 @@
 			if (k) top.append(make("span", "", `· ${k.handout}`)); else { if (record.year) top.append(make("span", "", `· ${record.year}`)); if (record.problem) top.append(make("span", "", `· ${record.problem}`)); }
 			article.append(top, make("h2", "", k ? k.problem : record.title || record.problem || record.id));
 			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
-			const links = make("div", "links"), local = manifest[record.id] || {};
+			const links = make("div", "links");
 			const view = make("a", "", "view"); view.href = `view.html?id=${encodeURIComponent(record.id)}`; links.append(view);
-			[[local.problem, "problem MD"], [local.en, "EN MD"], [local.hu, "HU MD"], [local.solution, "canonical solution MD"]].forEach(([path, label]) => { if (path) { const a = make("a", "", label); a.href = path; links.append(a); } });
-			array(local.solution_documents).forEach((path, i) => { const a = make("a", "", `source transcription${i ? ` ${i + 1}` : ""}`); a.href = path; links.append(a); });
-			if (local.figures && local.figures.length) links.append(make("span", "muted", `${local.figures.length} figure${local.figures.length === 1 ? "" : "s"} in viewer`));
 			if (links.childElementCount) article.append(links); return article;
 		}
 		function searchable(r) { return [r.id,r.source,r.source_name,r.year,r.problem,r.title,r.handout,r.language,r.difficulty,r.format,...array(r.languages),...array(r.topics),...array(r.subtopics),...array(r.math_tools),...array(r.techniques),...array(r.ideas),...array(r.ideas).map((v) => ideaLabels[v] || v)].map(text).join(" ").toLowerCase(); }
@@ -140,8 +138,8 @@
 		function schedule() { clearTimeout(timer); timer = setTimeout(() => { visibleLimit = pageSize; render(); }, 100); }
 		async function load() {
 			try {
-				const [catalog, local] = await Promise.all([fetch("../catalog.json").then((r) => r.json()), fetch("manifest.json").then((r) => r.json())]);
-				ideaLabels = catalog.idea_labels || {}; manifest = local.records || {}; records = array(catalog.records).map((r) => ({ ...r, search: searchable(r) }));
+				const catalog = await fetch("../catalog.json").then((r) => r.json());
+				ideaLabels = catalog.idea_labels || {}; records = array(catalog.records).map((r) => ({ ...r, search: searchable(r) }));
 				fill("source", array(catalog.sources).map((s) => s.id), Object.fromEntries(array(catalog.sources).map((s) => [s.id, `${s.name} (${s.count})`]))); fill("year", optionValues("year")); fill("topic", optionValues("topics")); fill("technique", optionValues("techniques")); fill("idea", optionValues("ideas"), ideaLabels); fill("math", optionValues("math_tools")); fill("language", optionValues("languages"), Object.fromEntries(optionValues("languages").map((v) => [v, v.toUpperCase()]))); render();
 			} catch (_) { $("status").textContent = ""; $("results").append(make("div", "error", "The internal catalogue could not be loaded.")); }
 		}

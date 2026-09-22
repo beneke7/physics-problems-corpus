@@ -29,10 +29,12 @@
 			a { color: var(--accent); }
 			a:visited { color: #551a8b; }
 			main, header, footer { width: min(1100px, calc(100% - 28px)); margin: auto; }
-			.site-header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; padding: 18px 0 10px; border-bottom: 3px solid var(--accent); }
+			.site-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding: 18px 0 10px; border-bottom: 3px solid var(--accent); }
 			.site-header h1 { margin: 0; font: 700 20px/1.2 Georgia, serif; }
 			.site-title { color: var(--text); text-decoration: none; }
 			.site-title:visited { color: var(--text); }
+			.header-action { margin-left: auto; padding: 5px 9px; border: 1px solid var(--border); border-radius: 2px; font-size: 12px; text-decoration: none; }
+			.header-action:hover, .header-action:focus-visible { border-color: var(--accent); }
 			.toolbar { padding: 12px 0 16px; }
 			input[type="search"], select, button { border: 1px solid #aaa; border-radius: 2px; background: #fff; color: var(--text); font: inherit; }
 			input[type="search"] { width: 100%; padding: 8px; }
@@ -74,6 +76,7 @@
 	<body>
 		<header class="site-header">
 			<h1><a class="site-title" href="./">physics problem finder</a></h1>
+			<a class="header-action" href="catalog.json" download>Download metadata JSON</a>
 		</header>
 
 		<main>
@@ -99,8 +102,6 @@
 
 		<footer>
 			<p><strong>Metadata only.</strong> No problem statements, solutions, translations, scans, figures, or local files are published here. Outbound links lead to their respective source or archive pages and do not grant a reuse licence.</p>
-			<a href="catalog.json">Download the raw JSON catalogue</a> ·
-			<a href="https://github.com/beneke7/physics-problems-corpus">View the repository</a>
 		</footer>
 
 		<script>
