@@ -8,12 +8,13 @@
 	<script>
 		window.MathJax = {
 			tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]], displayMath: [["\\[", "\\]"], ["$$", "$$"]], packages: {"[+]": ["ams"]} },
+			output: { font: "mathjax-newcm" },
 			loader: { load: ["[tex]/ams"] },
 			options: { skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"] },
 			startup: { ready() { MathJax.startup.defaultReady(); window.dispatchEvent(new Event("MathJaxReady")); } }
 		};
 	</script>
-	<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	<script async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 	<style>
 		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-regular.woff") format("woff"); font-weight:400; font-style:normal; }
 		@font-face { font-family:"Latin Modern Roman"; src:url("assets/fonts/latin-modern-roman-bold.woff") format("woff"); font-weight:700; font-style:normal; }
@@ -44,6 +45,7 @@
 		.toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); }
 		#show-md, #download-package { border-color:var(--red); color:var(--red); }
 		#document-content { max-width:820px; margin:0 auto; padding:18px 0 28px; font-family:"Latin Modern Roman",serif; font-size:17px; }
+		#document-content mjx-container { color:inherit; }
 		#document-content h1, #document-content h2, #document-content h3 { margin:1.2em 0 .35em; }
 		#document-content h1 { font-size:28px; } #document-content h2 { font-size:23px; } #document-content h3 { font-size:19px; }
 		#document-content p { margin:.7em 0; }
