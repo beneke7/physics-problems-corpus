@@ -1,0 +1,11 @@
+Latin Modern Roman WOFF files used by the print export.
+Original family: Latin Modern Roman, derived from Computer Modern.
+Original authors: Boguslaw Jackowski and Janusz M. Nowacki.
+Font source/repackaging: https://github.com/lalten/lmweb/tree/master/font
+License: GUST Font License; see GUST-FONT-LICENSE.txt.
+
+Original filename                         Project filename
+lmroman-regular-webfont.woff              latin-modern-roman-regular.woff
+lmroman-bold-webfont.woff                 latin-modern-roman-bold.woff
+lmroman-italic-webfont.woff               latin-modern-roman-italic.woff
+lmroman-bolditalic-webfont.woff           latin-modern-roman-bolditalic.woff

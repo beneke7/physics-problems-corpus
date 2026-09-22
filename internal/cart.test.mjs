@@ -22,6 +22,12 @@ assert.ok(cartSource.includes('${printProblemHtml(problem, index)}<p class="prob
 assert.ok(cartSource.includes('body>h1{margin:0 0 6px;text-align:center'));
 assert.ok(cartSource.includes('@page{size:A4;margin:0}'));
 assert.ok(cartSource.includes('max-width:90%;max-height:68vh'));
+assert.ok(cartSource.includes('font-family:"Latin Modern Roman"'));
+assert.ok(cartSource.includes('text-align:justify'));
+for (const style of ["regular", "bold", "italic", "bolditalic"]) {
+	const font = await readFile(new URL(`./assets/fonts/latin-modern-roman-${style}.woff`, import.meta.url));
+	assert.equal(font.toString("ascii", 0, 4), "wOFF");
+}
 runInNewContext(cartSource, context);
 const archive = await context.window.createCorpusArchive([{name:"problems.md", bytes:new TextEncoder().encode("hello") }]);
 const tar = gunzipSync(Buffer.from(await archive.arrayBuffer()));
