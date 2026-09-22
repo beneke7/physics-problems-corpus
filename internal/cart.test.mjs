@@ -69,4 +69,7 @@ assert.match(viewHtml, /output: \{ font: "mathjax-newcm" \}/);
 assert.match(viewHtml, /mathjax@4\/tex-mml-chtml\.js/);
 assert.match(viewHtml, /#document-content mjx-container \{ color:inherit; \}/);
 assert.ok(viewHtml.indexOf('id="markdown-source"') < viewHtml.indexOf('id="document-content"'));
+assert.match(viewHtml, /id="figure-size" type="range" min="35" max="100" step="5" value="70"/);
+assert.match(viewHtml, /max-width:var\(--figure-size,70%\)/);
+assert.match(viewHtml, /style\.setProperty\("--figure-size",size\)/);
 assert.doesNotMatch(viewHtml, /"Ready\."/);
