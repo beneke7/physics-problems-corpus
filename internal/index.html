@@ -4,7 +4,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="robots" content="noindex,nofollow">
-	<title>physics problem finder · internal</title>
+		<title>physics problem finder · internal</title>
+		<link rel="stylesheet" href="cart.css">
 	<style>
 		:root { --bg:#fff; --text:#222; --muted:#666; --line:#ccc; --red:#c00; }
 		* { box-sizing:border-box; }
@@ -57,7 +58,7 @@
 	</section>
 
 	<main id="app" hidden>
-		<header><h1>physics problem finder</h1><a class="header-action" href="../catalog.json" download>Download metadata JSON</a></header>
+		<header><h1>physics problem finder</h1><nav class="header-actions"><a class="header-action" href="../catalog.json" download>Download metadata JSON</a></nav></header>
 		<section class="toolbar">
 			<input id="query" type="search" placeholder="Search source, problem, topic, technique, idea, or math tool…" autocomplete="off">
 			<div class="filters">
@@ -77,6 +78,9 @@
 		<button id="more" type="button" hidden>Show more</button>
 	</main>
 
+	<script src="vendor/marked.umd.js"></script>
+	<script src="render-markdown.js"></script>
+	<script src="cart.js"></script>
 	<script>
 		const $ = (id) => document.getElementById(id);
 		const KEY_HASH = "9bc33fdb9f533d2c8161fa9c72f59f4811a834cb71c1f936a5df4d6d2c321bd9";
@@ -126,13 +130,14 @@
 			addTags(article, "Topics", record.topics); addTags(article, "Subtopics", record.subtopics, 6); addTags(article, "Techniques", record.techniques, 6); addTags(article, "Ideas", record.ideas, 6); addTags(article, "Math tools", record.math_tools, 6);
 			const links = make("div", "links");
 			const view = make("a", "", "view"); view.href = `view.html?id=${encodeURIComponent(record.id)}`; links.append(view);
+			const add = make("button", "", "Add to cart"); add.type = "button"; add.dataset.cartAdd = record.id; links.append(add);
 			if (links.childElementCount) article.append(links); return article;
 		}
 		function searchable(r) { return [r.id,r.source,r.source_name,r.year,r.problem,r.title,r.handout,r.language,r.difficulty,r.format,...array(r.languages),...array(r.topics),...array(r.subtopics),...array(r.math_tools),...array(r.techniques),...array(r.ideas),...array(r.ideas).map((v) => ideaLabels[v] || v)].map(text).join(" ").toLowerCase(); }
 		function render() {
 			const needle = $("query").value.trim().toLowerCase(), filtered = records.filter((r) => (!needle || r.search.includes(needle)) && ($("source").value === "all" || r.source === $("source").value) && ($("year").value === "all" || text(r.year) === $("year").value) && ($("topic").value === "all" || array(r.topics).includes($("topic").value)) && ($("technique").value === "all" || array(r.techniques).includes($("technique").value)) && ($("idea").value === "all" || array(r.ideas).includes($("idea").value)) && ($("math").value === "all" || array(r.math_tools).includes($("math").value)) && ($("language").value === "all" || array(r.languages).includes($("language").value)) && (!$('solution').checked || r.has_solution));
-			const shown = filtered.slice(0, visibleLimit); $("status").textContent = `${filtered.length.toLocaleString()} matching records` + (shown.length < filtered.length ? ` · showing ${shown.length.toLocaleString()}` : ""); $("more").hidden = shown.length >= filtered.length; $("more").textContent = "Show more";
-			const result = $("results"); result.replaceChildren(); if (!shown.length) { result.append(make("div", "empty", "No records match these filters.")); return; } const fragment = document.createDocumentFragment(); shown.forEach((r) => fragment.append(card(r))); result.append(fragment);
+			const shown = filtered.slice(0, visibleLimit); $("status").textContent = `${filtered.length.toLocaleString()} matching records`; $("more").hidden = shown.length >= filtered.length; $("more").textContent = "Show more";
+			const result = $("results"); result.replaceChildren(); if (!shown.length) { result.append(make("div", "empty", "No records match these filters.")); return; } const fragment = document.createDocumentFragment(); shown.forEach((r) => fragment.append(card(r))); result.append(fragment); window.refreshCorpusCartButtons?.();
 		}
 		function reset() { $("query").value = ""; ["source","year","topic","technique","idea","math","language"].forEach((id) => $(id).value = "all"); $("solution").checked = false; visibleLimit = pageSize; render(); }
 		function schedule() { clearTimeout(timer); timer = setTimeout(() => { visibleLimit = pageSize; render(); }, 100); }

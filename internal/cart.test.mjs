@@ -1,0 +1,19 @@
+import assert from "node:assert/strict";
+import {readFile} from "node:fs/promises";
+import {createRequire} from "node:module";
+import {runInNewContext} from "node:vm";
+import {gunzipSync} from "node:zlib";
+
+const require = createRequire(import.meta.url), marked = require("./vendor/marked.umd.js");
+const context = {window:{}, document:{querySelector:() => null}, marked, TextEncoder, TextDecoder, Uint8Array, Blob, Response, CompressionStream};
+runInNewContext(await readFile(new URL("./render-markdown.js", import.meta.url), "utf8"), context);
+const html = context.window.corpusRenderMarkdown("Use $x^2$ here.\n\n![](figure.png)");
+assert.match(html, /\$x\^2\$/);
+assert.match(html, /<img[^>]+src="figure.png"/);
+
+runInNewContext(await readFile(new URL("./cart.js", import.meta.url), "utf8"), context);
+const archive = await context.window.createCorpusArchive([{name:"problems.md", bytes:new TextEncoder().encode("hello") }]);
+const tar = gunzipSync(Buffer.from(await archive.arrayBuffer()));
+assert.equal(new TextDecoder().decode(tar.subarray(0, 100)).split("\0")[0], "problems.md");
+assert.equal(new TextDecoder().decode(tar.subarray(512, 517)), "hello");
+await assert.rejects(context.window.createCorpusArchive([{name:"../escape", bytes:new Uint8Array()}]), /Invalid archive path/);

@@ -86,6 +86,7 @@
 				<div class="filters">
 					<label class="filter">Competition<select id="source"><option value="all">All competitions</option></select></label>
 					<label class="filter">Topic<select id="topic"><option value="all">All topics</option></select></label>
+					<label class="filter">Difficulty<select id="difficulty"><option value="all">All levels</option></select></label>
 					<label class="filter">Technique<select id="technique"><option value="all">All techniques</option></select></label>
 					<label class="filter">Idea<select id="idea"><option value="all">All ideas</option></select></label>
 					<label class="filter">Math tool<select id="math-tool"><option value="all">All math tools</option></select></label>
@@ -110,6 +111,7 @@
 			const initialQuery = new URLSearchParams(location.search).get("q") || "";
 			const source = $("source");
 			const topic = $("topic");
+			const difficulty = $("difficulty");
 			const technique = $("technique");
 			const idea = $("idea");
 			const mathTool = $("math-tool");
@@ -147,7 +149,7 @@
 			};
 			const searchable = (record) => [
 				record.id, record.source, record.source_name, record.year, record.problem, record.title, record.handout,
-				record.language, record.difficulty, record.format, record.attribution,
+				record.language, record.difficulty, record.difficulty_level, record.format, record.attribution,
 				...array(record.languages), ...array(record.topics), ...array(record.subtopics),
 				...array(record.math_tools), ...array(record.techniques), ...array(record.ideas),
 				...array(record.ideas).map(ideaLabel)
@@ -192,6 +194,7 @@
 				const facts = [];
 				if (array(record.languages).length) facts.push(`language: ${array(record.languages).join(" + ").toUpperCase()}`);
 				if (record.format) facts.push(record.format);
+				if (Number.isInteger(record.difficulty_level)) facts.push(`difficulty ${record.difficulty_level}/7`);
 				if (record.points !== null && record.points !== undefined) facts.push(`${record.points} pt`);
 				if (record.has_solution) {
 					const solutionLanguages = array(record.solution_languages);
@@ -220,6 +223,7 @@
 					(!needle || record.search.includes(needle)) &&
 					(source.value === "all" || record.source === source.value) &&
 					(topic.value === "all" || array(record.topics).includes(topic.value)) &&
+					(difficulty.value === "all" || String(record.difficulty_level) === difficulty.value) &&
 					(technique.value === "all" || array(record.techniques).includes(technique.value)) &&
 					(idea.value === "all" || array(record.ideas).includes(idea.value)) &&
 					(mathTool.value === "all" || array(record.math_tools).includes(mathTool.value)) &&
@@ -227,7 +231,7 @@
 					(!solution.checked || record.has_solution)
 				);
 				const shown = filtered.slice(0, visibleLimit);
-				count.textContent = `${filtered.length.toLocaleString()} matching records` + (filtered.length > shown.length ? ` · showing ${shown.length.toLocaleString()}` : "");
+				count.textContent = `${filtered.length.toLocaleString()} matching records`;
 				more.hidden = shown.length >= filtered.length;
 				more.textContent = `Show ${Math.min(pageSize, filtered.length - shown.length).toLocaleString()} more`;
 				results.replaceChildren();
@@ -242,7 +246,7 @@
 
 			function reset() {
 				query.value = "";
-				source.value = topic.value = technique.value = idea.value = mathTool.value = language.value = "all";
+				source.value = topic.value = difficulty.value = technique.value = idea.value = mathTool.value = language.value = "all";
 				solution.checked = false;
 				visibleLimit = pageSize;
 				render();
@@ -254,7 +258,7 @@
 			}
 
 			query.addEventListener("input", scheduleSearch);
-			[source, topic, technique, idea, mathTool, language, solution].forEach((control) => control.addEventListener("change", () => { visibleLimit = pageSize; render(); }));
+			[source, topic, difficulty, technique, idea, mathTool, language, solution].forEach((control) => control.addEventListener("change", () => { visibleLimit = pageSize; render(); }));
 			$("reset").addEventListener("click", reset);
 			more.addEventListener("click", () => { visibleLimit += 100; render(); });
 
@@ -265,12 +269,14 @@
 					records = array(catalog.records).map((record) => ({ ...record, search: searchable(record) }));
 					const sources = array(catalog.sources).map((item) => ({ value: item.id, label: `${item.name} (${number(item.count)})` }));
 					const topics = [...new Set(records.flatMap((record) => array(record.topics)))].sort().map((value) => ({ value, label: value }));
+					const levels = [...new Set(records.map((record) => record.difficulty_level).filter((value) => Number.isInteger(value) && value >= 1 && value <= 7))].sort((a, b) => a - b).map((value) => ({ value: String(value), label: `Level ${value}` }));
 					const techniques = [...new Set(records.flatMap((record) => array(record.techniques)))].sort().map((value) => ({ value, label: value }));
 					const ideas = [...new Set(records.flatMap((record) => array(record.ideas)))].sort().map((value) => ({ value, label: ideaLabel(value) }));
 					const mathTools = [...new Set(records.flatMap((record) => array(record.math_tools)))].sort().map((value) => ({ value, label: value }));
 					const languages = [...new Set(records.flatMap((record) => array(record.languages)))].sort().map((value) => ({ value, label: value.toUpperCase() }));
 					fill(source, sources, "All competitions");
 					fill(topic, topics, "All topics");
+					fill(difficulty, levels, "All levels");
 					fill(technique, techniques, "All techniques");
 					fill(idea, ideas, "All ideas");
 					fill(mathTool, mathTools, "All math tools");
