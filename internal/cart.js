@@ -91,6 +91,11 @@
 		const version = {en:"English", hu:"Hungarian"}[documentKey];
 		return `${parts.join(" · ") || record?.id || "Problem"}${version ? ` · ${version}` : ""}`;
 	}
+	function sourceLabel(record, documentKey) {
+		const parts = [record?.source_name || record?.source, record?.handout, record?.year, record?.problem].filter(Boolean);
+		const version = {en:"English", hu:"Hungarian"}[documentKey];
+		return `${parts.join(" · ") || record?.id || "Unknown source"}${version ? ` · ${version}` : ""}`;
+	}
 	function renderList(records) {
 		list.replaceChildren();
 		if (!state.items.length) { const empty = document.createElement("li"); empty.textContent = "Your cart is empty."; list.append(empty); return; }
@@ -154,7 +159,7 @@
 		if (state.subtitle.trim()) lines.push(state.subtitle.trim(), "");
 		lines.push("<!-- LaTeX figures require \\usepackage{graphicx} in your preamble. -->", "");
 		const files = new Map();
-		for (const problem of problems) {
+		for (const [index, problem] of problems.entries()) {
 			const used = new Set();
 			let body = problem.body.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (whole, _alt, raw) => {
 				const path = resolveFigure(raw, problem.info);
@@ -163,7 +168,7 @@
 				return `\n\n${latexImage(path)}\n\n`;
 			});
 			for (const path of problem.figures) if (!used.has(path)) { body += `\n\n${latexImage(path)}\n\n`; files.set(path, packageFigurePath(path)); }
-			lines.push(`## ${label(problem.record, problem.document)}`, "", body.trim(), "", "---", "");
+			lines.push(`## Problem ${index + 1}`, "", `*Source: ${sourceLabel(problem.record, problem.document)}*`, "", body.trim(), "", "---", "");
 		}
 		return {markdown:lines.join("\n"), files};
 	}
@@ -195,20 +200,23 @@
 		page.document.write("<!doctype html><html><head><meta charset=utf-8><title>Preparing PDF…</title></head><body>Preparing problem set…</body></html>");
 		try {
 			const problems = await collectProblems(), title = state.title.trim() || "Physics problem set", subtitle = state.subtitle.trim();
-			const content = problems.map((problem, index) => `<section class="problem${index ? " next" : ""}"><h2>${escapeHtml(label(problem.record, problem.document))}</h2>${printProblemHtml(problem)}</section>`).join("");
+			const content = problems.map((problem, index) => `<section class="problem"><h2>Problem ${index + 1}</h2><p class="problem-source">Source: ${escapeHtml(sourceLabel(problem.record, problem.document))}</p>${printProblemHtml(problem)}</section>`).join("");
+			const mathJaxConfig = {loader:{load:["[tex]/ams"]}, tex:{inlineMath:[["\\(","\\)"],["$","$"]], displayMath:[["\\[","\\]"],["$$","$$"]], packages:{"[+]" :["ams"]}}, options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}, startup:{typeset:false}};
 			page.document.open();
 			page.document.write(`<!doctype html><html lang="en"><head><meta charset="utf-8"><title>${escapeHtml(title)}</title>
-				<style>body{max-width:850px;margin:32px auto;padding:0 20px;color:#111;font:16px/1.5 Georgia,"Times New Roman",serif}h1{font-size:26px}h2{font-size:20px}.problem.next{break-before:page;page-break-before:always}img{display:block;max-width:100%;max-height:80vh;height:auto;margin:16px auto}figure{text-align:center}figcaption{font-size:12px;color:#555}@page{margin:18mm}@media print{body{margin:0 auto;padding:0}}</style></head>
+				<script>window.MathJax=${JSON.stringify(mathJaxConfig)};</script>
+				<style>body{max-width:850px;margin:32px auto;padding:0 20px;color:#111;font:16px/1.5 Georgia,"Times New Roman",serif}h1{font-size:26px}.problem{margin:24px 0 30px}.problem h2{margin:0 0 2px;font-size:19px;break-after:avoid-page;page-break-after:avoid}.problem-source{margin:0 0 10px;color:#555;font-size:12px;font-style:italic;break-after:avoid-page;page-break-after:avoid}img{display:block;max-width:100%;max-height:80vh;height:auto;margin:16px auto;break-inside:avoid;page-break-inside:avoid}figure{text-align:center;break-inside:avoid;page-break-inside:avoid}figcaption{font-size:12px;color:#555}@page{margin:18mm}@media print{body{margin:0 auto;padding:0}}</style></head>
 				<body><h1>${escapeHtml(title)}</h1>${subtitle ? `<p>${escapeHtml(subtitle).replace(/\n/g, "<br>")}</p>` : ""}${content}</body></html>`);
 			page.document.close();
-			page.MathJax = {loader:{load:["[tex]/ams"]}, tex:{inlineMath:[["\\(","\\)"],["$","$"]],displayMath:[["\\[","\\]"],["$$","$$"]],packages:{"[+]" :["ams"]}}, startup:{typeset:false}};
 			const script = page.document.createElement("script"); script.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js";
 			await new Promise((resolve, reject) => {
 				script.onload = async () => {
 					try {
 						await page.MathJax.startup.promise; await page.MathJax.typesetPromise();
+						if (problems.some((problem) => window.corpusHasMath(problem.body)) && !page.document.querySelector("mjx-container")) throw new Error("Math was not typeset");
 						await Promise.all([...page.document.images].map((image) => image.decode().catch(() => {})));
-				page.focus(); page.print(); resolve();
+						await page.document.fonts?.ready;
+						page.focus(); page.print(); resolve();
 					} catch (_) { reject(new Error("Math rendering failed; PDF not printed.")); }
 				};
 				script.onerror = () => reject(new Error("Could not load MathJax; PDF not printed."));
