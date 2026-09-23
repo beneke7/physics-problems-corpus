@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [collisions, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: null
 math_tools: []
 format: numerical
 core_ideas: []

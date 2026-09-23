@@ -15,6 +15,7 @@ subtopic: [landau-levels, particle-confinement, shock-dynamics]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [limiting-and-special-cases, conservation-laws, model-reduction]
 has_solution: true

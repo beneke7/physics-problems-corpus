@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [non-inertial-frames, centrifugal]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, momentum, energy-conservation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body, moment-of-inertia, oscillations-mechanical, center-of-mass]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: open-ended
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [second-law, entropy]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-thermo-idea21]

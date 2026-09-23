@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

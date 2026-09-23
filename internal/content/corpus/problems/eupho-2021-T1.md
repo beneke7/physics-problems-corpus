@@ -17,6 +17,7 @@ subtopic: [adiabatic-process, ideal-gas, piston-cylinder]
 math_tools: [calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: [kalda-thermo-idea9]
 techniques: [conservation-laws, differential-element]
 has_solution: true

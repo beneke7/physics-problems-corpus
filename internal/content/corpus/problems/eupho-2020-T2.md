@@ -17,6 +17,7 @@ subtopic: [constraints, kinematics, thread-cylinder]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [auxiliary-unknowns, differential-element]
 has_solution: true

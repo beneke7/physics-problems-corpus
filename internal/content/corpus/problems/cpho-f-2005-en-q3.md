@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, first-law]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

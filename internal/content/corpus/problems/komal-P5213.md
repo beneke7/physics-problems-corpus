@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [humidity, saturation, ideal-gas]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: []

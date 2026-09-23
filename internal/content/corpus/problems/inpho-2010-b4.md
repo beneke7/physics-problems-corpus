@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [rotational-dynamics, moment-of-inertia, magnetostatics, induction]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-circuits-idea32]

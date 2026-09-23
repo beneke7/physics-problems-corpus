@@ -9,6 +9,7 @@ topic: [thermodynamics, electromagnetism]
 subtopic: [kinetic-theory, temperature, electrostatics, coulomb-force, pressure, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [dimensional-analysis, calculus]
 format: scaffolded
 core_ideas: []

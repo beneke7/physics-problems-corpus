@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea3]

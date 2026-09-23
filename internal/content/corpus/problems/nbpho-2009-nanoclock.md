@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-nanoclock
+difficulty_level: 4
 source: nbpho
 year: 2009
 native_id: "2009 P2 NANOCLOCK"

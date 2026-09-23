@@ -1,5 +1,6 @@
 ---
 id: eotvos-2018-charged-cylinder-solenoid
+difficulty_level: 4
 source: eotvos
 native_id: "2018 P3"
 year: 2018

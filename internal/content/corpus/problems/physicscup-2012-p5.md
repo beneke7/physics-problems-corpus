@@ -15,6 +15,7 @@ subtopic: [lc-rl-rlc, resonance, normal-modes]
 math_tools: [linear-algebra, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [model-reduction, limiting-and-special-cases, scaling-and-dimensional-analysis]
 has_solution: true

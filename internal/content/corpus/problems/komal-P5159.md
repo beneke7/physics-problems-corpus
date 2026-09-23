@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, power, resistance]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [interference, refraction, wave-equation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-waveoptics-idea1]

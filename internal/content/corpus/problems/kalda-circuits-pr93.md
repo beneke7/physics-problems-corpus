@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr93
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr93"
 origin: Kalda-handout

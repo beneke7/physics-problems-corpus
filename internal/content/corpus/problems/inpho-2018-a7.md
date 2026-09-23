@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, bernoulli, pressure, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: experimental
 core_ideas: [kalda-mechanics-idea72]

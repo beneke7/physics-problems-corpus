@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-dumbbell
+difficulty_level: 5
 source: nbpho
 native_id: "2008 P1 DUMBBELL"
 year: 2008

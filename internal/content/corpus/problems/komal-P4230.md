@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, vector-calculus]
 format: numerical
 core_ideas: []

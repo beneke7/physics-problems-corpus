@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-mars
+difficulty_level: 5
 source: nbpho
 native_id: "2007 P7 TO THE MARS"
 year: 2007

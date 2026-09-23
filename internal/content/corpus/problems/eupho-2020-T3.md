@@ -17,6 +17,7 @@ subtopic: [geometrical-optics, thin-lens, luminance, imaging]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [model-reduction, smart-coordinates]
 has_solution: true

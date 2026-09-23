@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [ac-circuits, resonance, impedance, measurement, data-fitting]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [numerical]
 format: measurement
 core_ideas: []

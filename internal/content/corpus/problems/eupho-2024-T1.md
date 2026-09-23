@@ -17,6 +17,7 @@ subtopic: [rigid-body, rolling-with-slipping, friction]
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-mechanics-idea66]
 techniques: [conservation-laws, smart-coordinates, differential-element]
 has_solution: true

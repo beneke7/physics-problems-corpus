@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-planets
+difficulty_level: 4
 source: nbpho
 native_id: "2004 P2 PLANETS"
 year: 2004

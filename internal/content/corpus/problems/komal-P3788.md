@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: null
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea53, kalda-mechanics-idea64]

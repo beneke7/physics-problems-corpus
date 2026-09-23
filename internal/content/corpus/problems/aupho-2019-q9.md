@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [oscillations-mechanical, data-fitting]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: []

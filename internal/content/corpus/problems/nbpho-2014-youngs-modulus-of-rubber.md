@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-youngs-modulus-of-rubber
+difficulty_level: 4
 source: nbpho
 native_id: "2014 P10 YOUNG'S MODULUS OF RUBBER"
 year: 2014

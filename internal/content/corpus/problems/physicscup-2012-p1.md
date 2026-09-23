@@ -15,6 +15,7 @@ subtopic: [gravitation, orbits, kepler, extremization]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [extremization, conservation-laws, smart-coordinates]
 has_solution: true

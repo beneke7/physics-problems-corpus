@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, magnetostatics, em-waves]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

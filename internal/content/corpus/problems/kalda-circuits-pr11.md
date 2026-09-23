@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr11
+difficulty_level: 3
 source: kalda
 native_id: "circuits pr11"
 origin: Kalda-handout

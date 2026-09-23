@@ -1,5 +1,6 @@
 ---
 id: eotvos-1994-diving-bell
+difficulty_level: 4
 source: eotvos
 native_id: "1994 P1"
 year: 1994

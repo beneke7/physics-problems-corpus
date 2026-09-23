@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-ac-filter
+difficulty_level: 4
 source: nbpho
 native_id: "2022 P4 AC FILTER"
 year: 2022

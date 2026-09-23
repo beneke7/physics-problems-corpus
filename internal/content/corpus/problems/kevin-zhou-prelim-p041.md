@@ -1,5 +1,6 @@
 ---
 id: "kevin-zhou-prelim-p041"
+difficulty_level: 3
 source: "kevin-zhou"
 native_id: "KZ-Prelim-P041"
 origin: "Kevin Zhou Physics Olympiad Handouts"

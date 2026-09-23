@@ -10,6 +10,7 @@ subtopic: [diffraction, diffraction-grating, interference, wave-optics]
 math_tools: [algebra, geometry-trigonometry, recurrence-relations]
 format: scaffolded
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 estimated_time_min: 45
 points: 20

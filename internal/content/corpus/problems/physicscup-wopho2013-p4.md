@@ -15,6 +15,7 @@ subtopic: [blackbody-radiation, carnot-efficiency, entropy, heat-pump]
 math_tools: [calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [conservation-laws, limiting-and-special-cases, extremization]
 has_solution: false

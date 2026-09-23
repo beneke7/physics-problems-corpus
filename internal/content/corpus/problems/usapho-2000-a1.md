@@ -9,6 +9,7 @@ topic: [fluids, thermodynamics]
 subtopic: [buoyancy, pressure, ideal-gas, temperature, density]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: []
 format: numerical
 core_ideas: []

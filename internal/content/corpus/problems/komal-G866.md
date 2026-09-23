@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [fluids, ideal-gas]
 difficulty: G
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea39]

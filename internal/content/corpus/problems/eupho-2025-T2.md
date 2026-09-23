@@ -17,6 +17,7 @@ subtopic: [rigid-body, stable-equilibrium, small-oscillations]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-mechanics-idea15, kalda-mechanics-idea19]
 techniques: [stability-analysis, extremization, smart-coordinates]
 has_solution: true

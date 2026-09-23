@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [photon-energy, compton-effect, relativistic-momentum]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

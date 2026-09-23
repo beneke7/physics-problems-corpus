@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [geometrical-optics]
 difficulty: M
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: []
 format: measurement
 core_ideas: []

@@ -17,6 +17,7 @@ subtopic: [interferometer, thin-mirrors, energy-storage, transients]
 math_tools: [series-complex, calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-waveoptics-idea1]
 techniques: [superposition, conservation-laws, limiting-and-special-cases]
 has_solution: true

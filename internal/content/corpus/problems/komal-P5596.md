@@ -9,6 +9,7 @@ topic: [relativity]
 subtopic: [dimensional-analysis, black-holes]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: []
 format: open-ended
 core_ideas: [kalda-mechanics-idea39]

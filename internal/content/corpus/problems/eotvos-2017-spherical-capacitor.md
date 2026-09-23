@@ -1,5 +1,6 @@
 ---
 id: eotvos-2017-spherical-capacitor
+difficulty_level: 5
 source: eotvos
 native_id: "2017 P2"
 year: 2017

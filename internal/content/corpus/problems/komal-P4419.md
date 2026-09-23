@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, lorentz-force]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea34]

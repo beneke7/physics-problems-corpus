@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [magnetostatics, magnetic-field, pressure, measurement, data-fitting, experimental-design]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 5
 math_tools: []
 format: experimental
 core_ideas: []

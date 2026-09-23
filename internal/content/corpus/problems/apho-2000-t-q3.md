@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, magnetic-field, current, rotational-dynamics]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, vector-calculus]
 format: open-ended
 core_ideas: []

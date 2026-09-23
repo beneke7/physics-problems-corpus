@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-oklo-reactor
+difficulty_level: 4
 source: nbpho
 native_id: "2024 P2 Oklo fission reactor"
 year: 2024

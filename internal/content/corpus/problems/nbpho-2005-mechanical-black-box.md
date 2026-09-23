@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-mechanical-black-box
+difficulty_level: 4
 source: nbpho
 native_id: "2005 P9 MECHANICAL BLACK BOX"
 year: 2005

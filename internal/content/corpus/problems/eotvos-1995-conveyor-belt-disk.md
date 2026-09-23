@@ -1,5 +1,6 @@
 ---
 id: eotvos-1995-conveyor-belt-disk
+difficulty_level: 4
 source: eotvos
 native_id: "1995 P1"
 year: 1995

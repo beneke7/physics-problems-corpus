@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, latent-heat, resistance]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea1]

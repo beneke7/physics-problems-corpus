@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [momentum, center-of-mass, ideal-gas, efficiency]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: null
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

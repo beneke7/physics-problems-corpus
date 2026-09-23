@@ -9,6 +9,7 @@ topic: [oscillations-and-waves, mechanics]
 subtopic: [oscillations-mechanical, coriolis, non-inertial-frames]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

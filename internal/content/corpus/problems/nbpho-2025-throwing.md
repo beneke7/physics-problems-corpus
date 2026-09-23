@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-throwing
+difficulty_level: 4
 source: nbpho
 native_id: "2025 P5 Throwing"
 year: 2025

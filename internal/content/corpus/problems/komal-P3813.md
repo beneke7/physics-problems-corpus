@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: []
 format: scaffolded
 core_ideas: []

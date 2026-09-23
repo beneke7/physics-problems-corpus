@@ -17,6 +17,7 @@ subtopic: [lorentz-force, rolling-motion, circular-motion]
 math_tools: [vector-calculus, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [choose-reference-frame, conservation-laws]
 has_solution: true

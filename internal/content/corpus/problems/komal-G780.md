@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-equation]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: []
 format: numerical
 core_ideas: [kalda-waveoptics-idea1]

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, lc-rl-rlc, impedance, infinite-ladder]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations, series-complex]
 format: open-ended
 core_ideas: [kalda-circuits-idea18, kalda-circuits-idea19, kalda-circuits-idea20]

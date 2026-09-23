@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [circular-motion, electrostatics, force-balance]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea12]

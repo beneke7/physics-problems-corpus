@@ -15,6 +15,7 @@ subtopic: [elliptical-orbits, orbital-mechanics, velocity-constraints]
 math_tools: [calculus, geometry-trigonometry, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, auxiliary-unknowns, limiting-and-special-cases]
 has_solution: true

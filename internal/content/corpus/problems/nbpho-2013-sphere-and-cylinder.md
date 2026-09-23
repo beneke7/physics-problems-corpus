@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-sphere-and-cylinder
+difficulty_level: 5
 source: nbpho
 native_id: "2013 P6 SPHERE AND CYLINDER"
 year: 2013

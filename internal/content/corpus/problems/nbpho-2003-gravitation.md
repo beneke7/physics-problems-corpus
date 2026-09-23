@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-gravitation
+difficulty_level: 6
 source: nbpho
 native_id: "2003 P3 GRAVITATION"
 year: 2003

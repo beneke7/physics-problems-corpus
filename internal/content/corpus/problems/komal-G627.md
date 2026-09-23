@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, vector-calculus]
 format: open-ended
 core_ideas: []

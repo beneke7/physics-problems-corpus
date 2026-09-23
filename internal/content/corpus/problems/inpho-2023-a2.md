@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [photoelectric, photon-energy]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [dimensional-analysis]
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, resistance, wheatstone-bridge]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [linear-algebra, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-circuits-idea10]

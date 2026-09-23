@@ -9,6 +9,7 @@ topic: [mechanics, relativity]
 subtopic: [variable-mass, rockets, gravitation, relativistic-energy-momentum]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

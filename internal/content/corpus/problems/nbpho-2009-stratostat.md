@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-stratostat
+difficulty_level: 3
 source: nbpho
 year: 2009
 native_id: "2009 P9 STRATOSTAT"

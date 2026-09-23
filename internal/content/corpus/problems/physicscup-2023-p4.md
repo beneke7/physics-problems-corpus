@@ -15,6 +15,7 @@ subtopic: [special-relativity, proper-acceleration, spacetime-kinematics]
 math_tools: [differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [smart-coordinates, conservation-laws]
 has_solution: true

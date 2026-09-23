@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-virtual-mass
+difficulty_level: 3
 source: nbpho
 native_id: "2017 P5 Virtual Mass"
 year: 2017

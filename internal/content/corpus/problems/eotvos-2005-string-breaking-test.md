@@ -1,5 +1,6 @@
 ---
 id: eotvos-2005-string-breaking-test
+difficulty_level: 4
 source: eotvos
 native_id: "2005 P1"
 year: 2005

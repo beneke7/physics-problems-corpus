@@ -1,5 +1,6 @@
 ---
 id: eotvos-2020-cart-pendulum
+difficulty_level: 4
 source: eotvos
 native_id: "2020 P2"
 year: 2020

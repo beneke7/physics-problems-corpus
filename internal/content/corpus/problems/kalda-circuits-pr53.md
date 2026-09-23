@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr53
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr53"
 origin: Kalda-handout

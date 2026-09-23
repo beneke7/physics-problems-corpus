@@ -1,5 +1,6 @@
 ---
 id: eotvos-2025-charged-particles-magnetic
+difficulty_level: 5
 source: eotvos
 native_id: "2025 P3"
 year: 2025

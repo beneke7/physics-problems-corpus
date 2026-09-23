@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, buoyancy]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: []

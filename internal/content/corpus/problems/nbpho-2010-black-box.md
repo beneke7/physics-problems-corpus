@@ -1,5 +1,6 @@
 ---
 id: nbpho-2010-black-box
+difficulty_level: 5
 source: nbpho
 year: 2010
 native_id: "2010 P11 Black box"

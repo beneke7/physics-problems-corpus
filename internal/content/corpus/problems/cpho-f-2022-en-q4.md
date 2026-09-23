@@ -9,6 +9,7 @@ topic: [electromagnetism, relativity]
 subtopic: [lorentz-force, magnetic-field, radiation, relativistic-energy-momentum]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: []

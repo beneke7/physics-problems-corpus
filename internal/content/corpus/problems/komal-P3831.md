@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction, faraday]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 1
 math_tools: [calculus]
 format: numerical
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [hydrostatics, small-oscillations, normal-modes]
 math_tools: [calculus, geometry-trigonometry, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, conservation-laws, limiting-and-special-cases, smart-coordinates]
 has_solution: false

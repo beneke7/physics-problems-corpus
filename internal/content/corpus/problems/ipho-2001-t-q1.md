@@ -9,6 +9,7 @@ topic: [electromagnetism, thermodynamics]
 subtopic: [electric-field, rc-transients, kinetic-theory, ideal-gas, statistical-distributions]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

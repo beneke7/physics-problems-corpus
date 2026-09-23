@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-resistors-capacitors
+difficulty_level: 3
 source: nbpho
 native_id: "2017 P3 Resistors and Capacitors"
 year: 2017

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2011-black-box
+difficulty_level: 4
 source: nbpho
 year: 2011
 native_id: "2011 P4 Black Box"

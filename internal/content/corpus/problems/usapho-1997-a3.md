@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, dielectrics, dc-circuits]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

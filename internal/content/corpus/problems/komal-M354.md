@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [coupled-oscillators]
 difficulty: M
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: []
 format: measurement
 core_ideas: []

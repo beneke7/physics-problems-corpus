@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [spring-dynamics, displacement-controlled, kinematics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea7]

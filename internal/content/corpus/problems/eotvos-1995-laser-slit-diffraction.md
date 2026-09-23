@@ -1,5 +1,6 @@
 ---
 id: eotvos-1995-laser-slit-diffraction
+difficulty_level: 3
 source: eotvos
 native_id: "1995 P3"
 year: 1995

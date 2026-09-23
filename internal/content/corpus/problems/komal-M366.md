@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids]
 difficulty: M
 difficulty_norm: 1
+difficulty_level: 4
 math_tools: []
 format: measurement
 core_ideas: []

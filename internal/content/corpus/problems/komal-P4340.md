@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, collisions, elasticity]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea52, kalda-mechanics-idea53, kalda-mechanics-idea39]

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [resistivity, magnetostatics]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: open-ended
 core_ideas: []

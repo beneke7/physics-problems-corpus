@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, center-of-mass]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea15]

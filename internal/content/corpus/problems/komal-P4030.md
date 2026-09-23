@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [doppler]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-kinematics-idea44, kalda-waveoptics-idea1]

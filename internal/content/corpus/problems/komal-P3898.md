@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [angular-momentum, collisions]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea64, kalda-mechanics-idea62]

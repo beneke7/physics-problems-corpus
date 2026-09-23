@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-motion-in-magnetic-field
+difficulty_level: 4
 source: nbpho
 native_id: "2019 P3 Motion in B"
 year: 2019

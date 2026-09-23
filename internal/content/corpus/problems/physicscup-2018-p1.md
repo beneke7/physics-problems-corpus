@@ -15,6 +15,7 @@ subtopic: [resistor-networks, infinite-lattice, bounding-estimates]
 math_tools: [linear-algebra, series-complex]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [exploit-symmetry, superposition, limiting-and-special-cases]
 has_solution: false

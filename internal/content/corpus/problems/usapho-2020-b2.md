@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [interference, reflection, refraction, wave-optics, geometrical-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry, calculus]
 format: scaffolded
 core_ideas: []

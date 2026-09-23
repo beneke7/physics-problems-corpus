@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [magnetostatics, magnetic-field, pressure, statics, tension, equilibrium]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, dimensional-analysis]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr12
+difficulty_level: 6
 source: kalda
 native_id: "thermo pr12"
 origin: EstAcadPhO-2006

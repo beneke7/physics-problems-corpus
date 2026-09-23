@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr81
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr81"
 origin: EstFin-2009

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [momentum, angular-momentum, collisions]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea43, kalda-mechanics-idea46, kalda-mechanics-idea62]

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2015-vibrating-incline
+difficulty_level: 5
 source: eotvos
 native_id: "2015 P1"
 year: 2015

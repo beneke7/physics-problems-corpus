@@ -1,5 +1,6 @@
 ---
 id: eotvos-1998-solenoid-induction
+difficulty_level: 5
 source: eotvos
 native_id: "1998 P3"
 year: 1998

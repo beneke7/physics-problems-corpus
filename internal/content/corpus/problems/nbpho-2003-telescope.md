@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-telescope
+difficulty_level: 5
 source: nbpho
 native_id: "2003 P7 TELESCOPE"
 year: 2003

@@ -15,6 +15,7 @@ subtopic: [nonlinear-optics, waveguide-coupling, harmonic-generation]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [extremization, auxiliary-unknowns, scaling-and-dimensional-analysis]
 has_solution: true

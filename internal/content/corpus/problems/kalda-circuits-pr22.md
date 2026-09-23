@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr22
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr22"
 origin: Kalda-handout

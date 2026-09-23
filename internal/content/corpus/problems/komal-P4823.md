@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rolling, inclined-plane]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea33, kalda-mechanics-idea48]

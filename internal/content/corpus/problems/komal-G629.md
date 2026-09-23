@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [newton-laws, statics]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

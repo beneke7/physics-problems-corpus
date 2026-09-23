@@ -9,6 +9,7 @@ topic: [mechanics, quantum-physics]
 subtopic: [coulomb-scattering]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea39]

@@ -9,6 +9,7 @@ topic: [thermodynamics, quantum-physics]
 subtopic: [specific-heat, equipartition, entropy, ideal-gas, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

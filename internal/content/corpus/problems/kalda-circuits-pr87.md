@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr87
+difficulty_level: 3
 source: kalda
 native_id: "circuits pr87"
 origin: IPhO-1982

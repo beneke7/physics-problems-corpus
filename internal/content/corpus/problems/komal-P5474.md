@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rigid-body, rotational-dynamics, impulse, hinge-forces]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea2, kalda-mechanics-idea45]

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2021-stretching-gloves
+difficulty_level: 4
 source: nbpho
 native_id: "2021 P4 Stretching Gloves"
 year: 2021

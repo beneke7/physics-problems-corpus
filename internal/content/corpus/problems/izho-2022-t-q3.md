@@ -9,6 +9,7 @@ topic: [electromagnetism, optics]
 subtopic: [radiation-pressure, reflection, photon-energy, momentum, geometrical-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

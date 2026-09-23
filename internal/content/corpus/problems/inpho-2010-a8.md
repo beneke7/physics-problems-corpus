@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, coulomb-force]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: []

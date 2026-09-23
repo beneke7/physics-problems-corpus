@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [electrostatics, momentum, dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea43, kalda-mechanics-idea34, kalda-mechanics-idea44]

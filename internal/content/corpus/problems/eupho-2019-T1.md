@@ -17,6 +17,7 @@ subtopic: [heat-transfer, phase-transitions, atmospheric-physics]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [conservation-laws, differential-element]
 has_solution: true

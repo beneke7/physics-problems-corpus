@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [biot-savart, magnetic-field, induction, faraday, current]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

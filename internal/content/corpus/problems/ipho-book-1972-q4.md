@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1972-q4
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1972, 4. feladat."
 year: 1972

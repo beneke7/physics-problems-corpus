@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr74
+difficulty_level: null
 source: kalda
 native_id: "thermo pr74"
 origin: IPhO-2004

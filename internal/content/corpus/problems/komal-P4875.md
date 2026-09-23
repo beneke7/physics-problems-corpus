@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, friction]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea15, kalda-mechanics-idea19]

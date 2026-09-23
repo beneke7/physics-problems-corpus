@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-black-box
+difficulty_level: null
 source: nbpho
 native_id: "2012 P10 BLACK BOX"
 year: 2012

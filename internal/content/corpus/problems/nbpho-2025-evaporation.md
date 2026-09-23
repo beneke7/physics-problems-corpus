@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-evaporation
+difficulty_level: 4
 source: nbpho
 native_id: "2025 P2 Evaporation"
 year: 2025

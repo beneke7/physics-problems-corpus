@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus, linear-algebra]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea37]

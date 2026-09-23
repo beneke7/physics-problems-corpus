@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [density]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: null
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

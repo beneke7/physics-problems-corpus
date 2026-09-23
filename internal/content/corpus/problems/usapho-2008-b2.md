@@ -9,6 +9,7 @@ topic: [electromagnetism, optics]
 subtopic: [electric-field, capacitance, rc-transients, geometrical-optics, lenses-mirrors]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

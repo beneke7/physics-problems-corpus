@@ -1,5 +1,6 @@
 ---
 id: eotvos-2014-magnetic-sphere-current
+difficulty_level: 5
 source: eotvos
 native_id: "2014 P3"
 year: 2014

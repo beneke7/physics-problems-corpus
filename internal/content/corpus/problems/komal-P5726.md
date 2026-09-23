@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, oscillations-mechanical, moment-of-inertia]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, differential-equations]
 format: numerical
 core_ideas: [kalda-mechanics-idea15, kalda-mechanics-idea45]

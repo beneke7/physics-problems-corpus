@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-magnets
+difficulty_level: 4
 source: nbpho
 native_id: "2004 P6 MAGNETS"
 year: 2004

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2020-nitrogen-cooling
+difficulty_level: 5
 source: eotvos
 native_id: "2020 P1"
 year: 2020

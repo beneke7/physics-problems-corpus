@@ -9,6 +9,7 @@ topic: [mechanics, gravitation]
 subtopic: [gravitation, non-inertial-frames, centrifugal, elasticity]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

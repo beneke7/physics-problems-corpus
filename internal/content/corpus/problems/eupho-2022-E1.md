@@ -17,6 +17,7 @@ subtopic: [photometry, blackbody-radiation, luminous-efficacy, radiative-heating
 math_tools: [calculus, probability-statistics, numerical]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [graphical-reduction, scaling-and-dimensional-analysis]
 has_solution: true

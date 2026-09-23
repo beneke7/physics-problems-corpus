@@ -15,6 +15,7 @@ subtopic: [statics, friction]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [extremization, smart-coordinates, limiting-and-special-cases]
 has_solution: true

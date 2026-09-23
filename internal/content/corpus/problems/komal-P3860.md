@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [non-inertial-frames, friction]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea40]

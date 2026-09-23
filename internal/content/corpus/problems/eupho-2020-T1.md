@@ -17,6 +17,7 @@ subtopic: [induction, magnetic-force, mutual-inductance]
 math_tools: [calculus, vector-calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: [kalda-circuits-idea16]
 techniques: [superposition, conservation-laws]
 has_solution: true

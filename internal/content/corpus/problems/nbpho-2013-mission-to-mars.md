@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-mission-to-mars
+difficulty_level: 4
 source: nbpho
 native_id: "2013 P3 MISSION TO MARS"
 year: 2013

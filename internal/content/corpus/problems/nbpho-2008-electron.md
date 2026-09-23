@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-electron
+difficulty_level: 4
 source: nbpho
 native_id: "2008 P8 ELECTRON"
 year: 2008

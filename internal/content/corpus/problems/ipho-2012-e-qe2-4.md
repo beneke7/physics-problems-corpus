@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [dc-circuits, current, measurement, apparatus-reasoning]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: null
 math_tools: []
 format: experimental
 core_ideas: []

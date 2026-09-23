@@ -15,6 +15,7 @@ subtopic: [solar-radiation, thermal-equilibrium, optimization]
 math_tools: [calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [extremization, scaling-and-dimensional-analysis, limiting-and-special-cases]
 has_solution: true

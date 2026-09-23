@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, viscosity]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: []

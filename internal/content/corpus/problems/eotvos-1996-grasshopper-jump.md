@@ -1,5 +1,6 @@
 ---
 id: eotvos-1996-grasshopper-jump
+difficulty_level: 3
 source: eotvos
 native_id: "1996 P1"
 year: 1996

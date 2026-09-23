@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, impedance, resonance, power]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus, series-complex]
 format: scaffolded
 core_ideas: []

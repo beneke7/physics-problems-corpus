@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea35]

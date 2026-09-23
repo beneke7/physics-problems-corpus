@@ -10,6 +10,7 @@ subtopic: [rotational-dynamics, moment-of-inertia, torque, tension, force-balanc
 math_tools: [algebra]
 format: numerical
 difficulty_norm: 2
+difficulty_level: 2
 core_ideas: []
 estimated_time_min: 15
 points: null

@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [magnetic-field, induction, faraday, energy-conservation]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

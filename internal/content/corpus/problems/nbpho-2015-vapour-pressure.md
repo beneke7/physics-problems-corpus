@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-vapour-pressure"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P10"
 year: 2015

@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [rigid-body, oscillations-mechanical, center-of-mass, rotational-dynamics]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea56]

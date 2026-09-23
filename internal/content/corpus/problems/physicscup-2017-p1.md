@@ -15,6 +15,7 @@ subtopic: [electrostatics, induced-charges, conductors]
 math_tools: [calculus, geometry-trigonometry, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases, model-reduction]
 has_solution: false

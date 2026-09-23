@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [relative-motion]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

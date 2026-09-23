@@ -1,5 +1,6 @@
 ---
 id: eotvos-2008-three-bodies-cooling
+difficulty_level: 5
 source: eotvos
 native_id: "2008 P2"
 year: 2008

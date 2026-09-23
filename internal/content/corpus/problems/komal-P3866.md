@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: numerical
 core_ideas: []

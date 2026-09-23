@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-soap-film
+difficulty_level: 4
 source: nbpho
 year: 2009
 native_id: "2009 P7 SOAP FILM"

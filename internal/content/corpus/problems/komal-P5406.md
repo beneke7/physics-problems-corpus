@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, energy-storage]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-circuits-idea32]

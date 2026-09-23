@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr44
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr44"
 origin: EstPhO-1998

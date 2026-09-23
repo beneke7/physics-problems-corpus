@@ -9,6 +9,7 @@ topic: [mechanics, fluids]
 subtopic: [rotational-dynamics, circular-motion, surface-tension, density, work-energy]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [dimensional-analysis]
 format: scaffolded
 core_ideas: []

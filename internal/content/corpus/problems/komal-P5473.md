@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [projectile-motion, collisions, kinematics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea43, kalda-mechanics-idea48]

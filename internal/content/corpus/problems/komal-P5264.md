@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, kinematics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-kinematics-idea4, kalda-mechanics-idea34]

@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-engines, cyclic-process, efficiency, numerical]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: open-ended
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea19]

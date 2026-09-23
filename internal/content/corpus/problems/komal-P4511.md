@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, ideal-gas, heat-engines]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

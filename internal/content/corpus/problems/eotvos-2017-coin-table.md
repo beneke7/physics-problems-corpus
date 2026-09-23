@@ -1,5 +1,6 @@
 ---
 id: eotvos-2017-coin-table
+difficulty_level: 4
 source: eotvos
 native_id: "2017 P1"
 year: 2017

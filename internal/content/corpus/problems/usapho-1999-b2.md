@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, faraday, current, dc-circuits, rotational-dynamics, moment-of-inertia]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

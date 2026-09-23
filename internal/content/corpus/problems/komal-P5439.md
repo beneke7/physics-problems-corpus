@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, newton-cooling, calorimetry]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

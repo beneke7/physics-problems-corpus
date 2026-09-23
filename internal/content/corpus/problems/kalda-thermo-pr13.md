@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr13
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr13"
 origin: EstPhO-2003

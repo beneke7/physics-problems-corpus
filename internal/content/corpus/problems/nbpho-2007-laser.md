@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-laser
+difficulty_level: 4
 source: nbpho
 native_id: "2007 P8 LASER"
 year: 2007

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-rectifier
+difficulty_level: 5
 source: nbpho
 native_id: "2008 P6 RECTIFIER"
 year: 2008

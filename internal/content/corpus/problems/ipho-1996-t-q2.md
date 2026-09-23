@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [lorentz-force, magnetostatics, electrostatics, circular-motion, angular-momentum]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

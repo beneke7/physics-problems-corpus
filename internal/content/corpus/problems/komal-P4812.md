@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [geometrical-optics, lenses-mirrors, focal-length]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

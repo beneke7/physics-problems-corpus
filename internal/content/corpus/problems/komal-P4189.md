@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [thermal-expansion]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [calculus]
 format: open-ended
 core_ideas: []

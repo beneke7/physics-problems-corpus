@@ -9,6 +9,7 @@ topic: [mechanics, fluids]
 subtopic: [pressure, hydrostatics, bernoulli, momentum]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: open-ended
 core_ideas: []

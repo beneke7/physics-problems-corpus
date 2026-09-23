@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, friction]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea6, kalda-mechanics-idea2, kalda-mechanics-idea45]

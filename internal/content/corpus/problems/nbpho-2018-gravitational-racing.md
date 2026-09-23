@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-gravitational-racing
+difficulty_level: 4
 source: nbpho
 native_id: "2018 P1 GRAVITATIONAL RACING"
 year: 2018

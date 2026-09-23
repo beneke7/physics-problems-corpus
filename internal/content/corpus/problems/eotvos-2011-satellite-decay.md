@@ -1,5 +1,6 @@
 ---
 id: eotvos-2011-satellite-decay
+difficulty_level: 5
 source: eotvos
 native_id: "2011 P1"
 year: 2011

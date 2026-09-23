@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-ballistic-rocket
+difficulty_level: 4
 source: nbpho
 native_id: "2005 P3 BALLISTIC ROCKET"
 year: 2005

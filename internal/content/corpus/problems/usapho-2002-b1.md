@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [rotational-dynamics, moment-of-inertia, rolling, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

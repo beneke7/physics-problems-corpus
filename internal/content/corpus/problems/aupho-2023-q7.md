@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [em-waves, reflection]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: []
 format: open-ended
 core_ideas: []

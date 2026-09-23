@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-glass-plate
+difficulty_level: 3
 source: nbpho
 native_id: "2008 P10 GLASS PLATE"
 year: 2008

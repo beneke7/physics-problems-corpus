@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, resonance]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-circuits-idea44, kalda-circuits-idea52]

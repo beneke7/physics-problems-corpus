@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [newton-laws]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea4]

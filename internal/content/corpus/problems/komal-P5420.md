@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, friction, tension, inclined-plane]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea6]

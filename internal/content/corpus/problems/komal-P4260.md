@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [newton-laws, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea43, kalda-kinematics-idea38]

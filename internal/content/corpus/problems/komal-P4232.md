@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: numerical
 core_ideas: []

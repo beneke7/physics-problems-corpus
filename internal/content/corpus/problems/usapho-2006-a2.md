@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [capacitance, dielectrics, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

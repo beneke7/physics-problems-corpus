@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, equilibrium, geometry]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea15, kalda-mechanics-idea19]

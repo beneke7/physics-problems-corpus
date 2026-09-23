@@ -1,5 +1,6 @@
 ---
 id: nbpho-2011-violin-string
+difficulty_level: 5
 source: nbpho
 year: 2011
 native_id: "2011 P6 Violin String"

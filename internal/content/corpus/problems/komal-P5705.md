@@ -9,6 +9,7 @@ topic: [mechanics, fluids]
 subtopic: [drag-force, work-energy, viscosity]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

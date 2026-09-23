@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-hot-plate
+difficulty_level: 4
 source: nbpho
 native_id: "2025 P9 Hot Plate"
 year: 2025

@@ -1,5 +1,6 @@
 ---
 id: eotvos-1998-perfume-evaporation
+difficulty_level: 4
 source: eotvos
 native_id: "1998 P2"
 year: 1998

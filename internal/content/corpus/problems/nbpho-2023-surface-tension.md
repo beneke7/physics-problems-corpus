@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-surface-tension
+difficulty_level: 5
 source: nbpho
 native_id: "2023 P9 Surface tension"
 year: 2023

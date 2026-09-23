@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [uncertainty]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: []

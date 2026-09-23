@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, pendulum]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea61, kalda-kinematics-idea12]

@@ -17,6 +17,7 @@ subtopic: [special-relativity, velocity-addition, light-travel-time]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: [kalda-kinematics-idea1]
 techniques: [choose-reference-frame, exploit-symmetry, graphical-reduction]
 has_solution: true

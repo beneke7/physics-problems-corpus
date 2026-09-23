@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [em-waves, poynting, momentum]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: []

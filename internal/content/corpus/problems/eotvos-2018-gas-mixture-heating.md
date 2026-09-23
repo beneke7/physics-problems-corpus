@@ -1,5 +1,6 @@
 ---
 id: eotvos-2018-gas-mixture-heating
+difficulty_level: 4
 source: eotvos
 native_id: "2018 P2"
 year: 2018

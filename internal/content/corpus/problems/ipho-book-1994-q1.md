@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1994-q1
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1994, 1. feladat."
 year: 1994

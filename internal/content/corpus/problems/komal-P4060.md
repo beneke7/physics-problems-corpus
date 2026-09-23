@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, momentum]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea34, kalda-mechanics-idea65, kalda-kinematics-idea36]

@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr62
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr62"
 origin: EstFin-2011

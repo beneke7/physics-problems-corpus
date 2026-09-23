@@ -1,5 +1,6 @@
 ---
 id: eotvos-2003-water-droplet
+difficulty_level: 3
 source: eotvos
 native_id: "2003 P3"
 year: 2003

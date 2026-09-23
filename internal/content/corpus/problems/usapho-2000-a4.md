@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, energy-conservation, momentum, relative-motion]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

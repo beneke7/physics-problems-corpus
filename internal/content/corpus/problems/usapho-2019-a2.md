@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [blackbody, radiation, heat-engines, efficiency]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [dimensional-analysis]
 format: scaffolded
 core_ideas: []

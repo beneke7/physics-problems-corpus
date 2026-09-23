@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, radiation, thermal-expansion]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-thermo-idea1, kalda-thermo-idea2]

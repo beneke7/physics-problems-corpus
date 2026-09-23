@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, rc-transients]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [gravitation, electromagnetism]
 subtopic: [gravitation, projectile-motion, electrostatics, potential]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

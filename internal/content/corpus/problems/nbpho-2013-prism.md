@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-prism
+difficulty_level: 3
 source: nbpho
 native_id: "2013 P1 PRISM"
 year: 2013

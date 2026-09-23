@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-weather-forecast
+difficulty_level: 4
 source: nbpho
 native_id: "2018 P3 WEATHER FORECAST"
 year: 2018

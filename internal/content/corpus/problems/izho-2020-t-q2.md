@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [phase-transitions, latent-heat, ideal-gas, first-law, adiabatic-processes]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

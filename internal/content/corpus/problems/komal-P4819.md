@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry, specific-heat, efficiency]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-triangle
+difficulty_level: null
 source: nbpho
 native_id: "2024 P9 Triangle"
 year: 2024

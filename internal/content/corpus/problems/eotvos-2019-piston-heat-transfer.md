@@ -1,5 +1,6 @@
 ---
 id: eotvos-2019-piston-heat-transfer
+difficulty_level: 5
 source: eotvos
 native_id: "2019 P1"
 year: 2019

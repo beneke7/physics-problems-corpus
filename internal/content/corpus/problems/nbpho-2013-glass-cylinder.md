@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-glass-cylinder
+difficulty_level: 3
 source: nbpho
 native_id: "2013 P9 GLASS CYLINDER"
 year: 2013

@@ -15,6 +15,7 @@ subtopic: [buoyancy-and-drag, experimental-measurement]
 math_tools: [dimensional-analysis, calculus]
 format: measurement
 difficulty_norm: 5
+difficulty_level: null
 core_ideas: []
 techniques: [differential-element, conservation-laws]
 has_solution: true

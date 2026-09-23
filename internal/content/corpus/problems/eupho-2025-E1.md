@@ -17,6 +17,7 @@ subtopic: [circuits, nonlinear-elements, sigmoid-function, neural-networks]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-circuits-idea24]
 techniques: [model-reduction, graphical-reduction, limiting-and-special-cases]
 has_solution: true

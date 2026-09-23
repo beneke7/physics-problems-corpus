@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr48
+difficulty_level: null
 source: kalda
 native_id: "thermo pr48"
 origin: EstFin-2005

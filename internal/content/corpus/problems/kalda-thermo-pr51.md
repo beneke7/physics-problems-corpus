@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr51
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr51"
 origin: EstPhO-2003

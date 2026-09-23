@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [oscillations-mechanical, elasticity, work-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39]

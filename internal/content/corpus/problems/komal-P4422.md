@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear, decay]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: numerical
 core_ideas: [kalda-kinematics-idea12, kalda-mechanics-idea57]

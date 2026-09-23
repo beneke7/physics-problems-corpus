@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-glass-plate
+difficulty_level: 4
 source: nbpho
 native_id: "2016 P2 GLASS PLATE"
 year: 2016

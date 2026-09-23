@@ -17,6 +17,7 @@ subtopic: [coulomb-scattering, data-analysis, parameter-estimation]
 math_tools: [geometry-trigonometry, calculus, probability-statistics]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, graphical-reduction]
 has_solution: true

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2004-electrons-magnetic-field
+difficulty_level: 5
 source: eotvos
 native_id: "2004 P3"
 year: 2004

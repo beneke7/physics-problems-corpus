@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [variable-mass, momentum, work-energy]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea57]

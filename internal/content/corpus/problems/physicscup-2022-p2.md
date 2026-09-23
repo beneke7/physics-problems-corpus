@@ -15,6 +15,7 @@ subtopic: [optimization, friction, trajectory-planning]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [extremization, choose-reference-frame, limiting-and-special-cases]
 has_solution: true

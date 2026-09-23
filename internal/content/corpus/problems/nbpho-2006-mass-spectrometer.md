@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-mass-spectrometer
+difficulty_level: 5
 source: nbpho
 native_id: "2006 P7 MASS-SPECTROMETER"
 year: 2006

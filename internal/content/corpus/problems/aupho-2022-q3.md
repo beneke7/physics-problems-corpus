@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [em-waves]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 2
 math_tools: [dimensional-analysis]
 format: open-ended
 core_ideas: []

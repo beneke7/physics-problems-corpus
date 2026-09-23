@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, rotational-dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: open-ended
 core_ideas: [kalda-mechanics-idea15, kalda-mechanics-idea19]

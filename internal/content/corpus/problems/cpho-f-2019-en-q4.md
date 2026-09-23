@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, adiabatic-processes, work-heat, entropy, efficiency]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-rlc-circuit
+difficulty_level: 5
 source: nbpho
 native_id: "2012 P4 RLC-CIRCUIT"
 year: 2012

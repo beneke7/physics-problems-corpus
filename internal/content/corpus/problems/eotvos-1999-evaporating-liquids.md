@@ -1,5 +1,6 @@
 ---
 id: eotvos-1999-evaporating-liquids
+difficulty_level: 3
 source: eotvos
 native_id: "1999 P2"
 year: 1999

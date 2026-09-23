@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [torque]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: [kalda-mechanics-idea6, kalda-mechanics-idea2]

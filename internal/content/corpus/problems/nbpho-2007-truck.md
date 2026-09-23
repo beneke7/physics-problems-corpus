@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-truck
+difficulty_level: 5
 source: nbpho
 native_id: "2007 P6 TRUCK"
 year: 2007

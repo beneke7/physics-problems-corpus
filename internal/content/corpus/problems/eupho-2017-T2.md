@@ -17,6 +17,7 @@ subtopic: [kinetic-theory, radiation-pressure, molecular-speeds]
 math_tools: [dimensional-analysis, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, scaling-and-dimensional-analysis]
 has_solution: true

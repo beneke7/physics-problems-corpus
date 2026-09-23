@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, thermodynamic-cycles, internal-energy]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

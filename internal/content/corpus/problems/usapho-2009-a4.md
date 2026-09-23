@@ -9,6 +9,7 @@ topic: [thermodynamics, mechanics]
 subtopic: [ideal-gas, adiabatic-processes, work-energy, energy-conservation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

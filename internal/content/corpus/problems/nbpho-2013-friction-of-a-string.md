@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-friction-of-a-string
+difficulty_level: 4
 source: nbpho
 native_id: "2013 P5 FRICTION OF A STRING"
 year: 2013

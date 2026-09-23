@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body, moment-of-inertia, collisions, energy-conservation, stability]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

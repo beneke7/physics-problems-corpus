@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr11
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr11"
 origin: PhysCup-2012

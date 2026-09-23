@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr72
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr72"
 origin: EstPhO-2000

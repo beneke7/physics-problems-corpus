@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, first-law, ideal-gas]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea10]

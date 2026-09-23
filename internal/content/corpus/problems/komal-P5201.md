@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, work, first-law]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea13]

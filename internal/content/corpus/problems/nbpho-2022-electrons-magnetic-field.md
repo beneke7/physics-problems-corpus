@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-electrons-magnetic-field
+difficulty_level: 5
 source: nbpho
 native_id: "2022 P7 ELECTRONS IN MAGNETIC FIELD"
 year: 2022

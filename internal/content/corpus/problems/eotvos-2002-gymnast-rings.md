@@ -1,5 +1,6 @@
 ---
 id: eotvos-2002-gymnast-rings
+difficulty_level: 3
 source: eotvos
 native_id: "2002 P1"
 year: 2002

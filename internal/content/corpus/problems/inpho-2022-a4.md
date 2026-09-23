@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, measurement]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: []
 format: experimental
 core_ideas: []

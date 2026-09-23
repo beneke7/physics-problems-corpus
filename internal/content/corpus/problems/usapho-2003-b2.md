@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [electrostatics, electric-field, oscillations-mechanical, circular-motion]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

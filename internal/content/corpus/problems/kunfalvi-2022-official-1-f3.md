@@ -10,6 +10,7 @@ subtopic: [diodes, dc-circuits, capacitance, inductance, resonance, energy-conse
 math_tools: [algebra, differential-equations, periodic-functions]
 format: scaffolded
 difficulty_norm: 4
+difficulty_level: 4
 core_ideas: []
 estimated_time_min: 30
 points: null

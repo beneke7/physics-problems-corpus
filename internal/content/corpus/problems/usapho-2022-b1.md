@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, pressure, data-fitting]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [numerical]
 format: scaffolded
 core_ideas: []

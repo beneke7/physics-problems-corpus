@@ -9,6 +9,7 @@ topic: [electromagnetism, fluids]
 subtopic: [lorentz-force, current, magnetic-field, fluids, pressure, em-waves]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-string-pendulum
+difficulty_level: 3
 source: nbpho
 native_id: "2024 P5 String and pendulum"
 year: 2024

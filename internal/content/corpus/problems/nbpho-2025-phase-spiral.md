@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-phase-spiral
+difficulty_level: null
 source: nbpho
 native_id: "2025 P8 Phase Spiral"
 year: 2025

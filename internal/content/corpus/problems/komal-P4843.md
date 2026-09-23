@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [geometrical-optics, mirrors, angular-velocity]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

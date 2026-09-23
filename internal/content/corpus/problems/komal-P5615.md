@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, nonlinear-resistance]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-circuits-idea24, kalda-circuits-idea31]

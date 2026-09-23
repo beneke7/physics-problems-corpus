@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [apparatus-reasoning]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 5
 math_tools: []
 format: open-ended
 core_ideas: []

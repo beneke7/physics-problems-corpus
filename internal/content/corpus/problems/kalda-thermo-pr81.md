@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr81
+difficulty_level: null
 source: kalda
 native_id: "thermo pr81"
 origin: IPhO-2010

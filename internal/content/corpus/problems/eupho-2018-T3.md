@@ -17,6 +17,7 @@ subtopic: [crystal-surfaces, surface-energy, equilibrium-shape, step-interaction
 math_tools: [calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-thermo-idea20]
 techniques: [extremization, differential-element]
 has_solution: true

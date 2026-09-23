@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, magnetic-field, angular-momentum, rotational-dynamics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: [kalda-circuits-idea38]

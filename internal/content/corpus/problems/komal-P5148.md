@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, non-inertial-frames, barometric-formula]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea13]

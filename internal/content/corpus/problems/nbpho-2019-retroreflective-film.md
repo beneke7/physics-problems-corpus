@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-retroreflective-film
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P4 Retroreflective Film"
 year: 2019

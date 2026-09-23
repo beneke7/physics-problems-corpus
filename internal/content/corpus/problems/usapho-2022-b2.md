@@ -9,6 +9,7 @@ topic: [electromagnetism, relativity]
 subtopic: [electric-field, oscillations-mechanical, time-dilation]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

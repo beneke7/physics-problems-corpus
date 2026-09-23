@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr60
+difficulty_level: null
 source: kalda
 native_id: "kinematics pr60"
 origin: Kalda-handout

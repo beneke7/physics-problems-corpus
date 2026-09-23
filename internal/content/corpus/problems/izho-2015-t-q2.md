@@ -9,6 +9,7 @@ topic: [thermodynamics, fluids]
 subtopic: [hydrostatics, pressure, ideal-gas, adiabatic-processes]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

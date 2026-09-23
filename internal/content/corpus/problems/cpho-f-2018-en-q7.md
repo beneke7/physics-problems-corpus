@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [solid-state, lorentz-force, electric-field, magnetic-field, circular-motion]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: []
 format: scaffolded
 core_ideas: []

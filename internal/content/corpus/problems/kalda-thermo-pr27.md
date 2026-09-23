@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr27
+difficulty_level: null
 source: kalda
 native_id: "thermo pr27"
 origin: EstAcadPhO-2003

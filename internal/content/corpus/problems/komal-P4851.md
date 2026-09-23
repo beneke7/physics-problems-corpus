@@ -9,6 +9,7 @@ topic: [thermodynamics, mechanics]
 subtopic: [mach-number, speed-of-sound, energy, altitude]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

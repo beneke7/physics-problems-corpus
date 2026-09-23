@@ -1,5 +1,6 @@
 ---
 id: kalda-mechanics-pr39
+difficulty_level: 3
 source: kalda
 native_id: "mechanics pr39"
 origin: Kalda-handout

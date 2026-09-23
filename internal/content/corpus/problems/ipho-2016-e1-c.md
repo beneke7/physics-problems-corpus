@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [resistivity, measurement, data-fitting]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: null
 math_tools: []
 format: measurement
 core_ideas: []

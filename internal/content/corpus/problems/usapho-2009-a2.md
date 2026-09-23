@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [radioactivity, decay, data-fitting]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, probability-statistics]
 format: measurement
 core_ideas: [kalda-circuits-idea12]

@@ -15,6 +15,7 @@ subtopic: [coupled-oscillators, torsional-springs, normal-modes]
 math_tools: [differential-equations, linear-algebra]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [auxiliary-unknowns, exploit-symmetry, conservation-laws]
 has_solution: true

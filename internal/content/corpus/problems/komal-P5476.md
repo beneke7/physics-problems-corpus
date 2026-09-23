@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, parallel-plates, field-superposition]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-circuits-idea17, kalda-circuits-idea22]

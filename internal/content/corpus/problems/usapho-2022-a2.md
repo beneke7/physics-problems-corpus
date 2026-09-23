@@ -9,6 +9,7 @@ topic: [electromagnetism, fluids]
 subtopic: [electrostatics, surface-tension, capacitance]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [dimensional-analysis, series-complex]
 format: scaffolded
 core_ideas: []

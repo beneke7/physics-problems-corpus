@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [electrostatics, conductors, electric-field, potential, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: []
 format: scaffolded
 core_ideas: []

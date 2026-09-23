@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electric-field, diffusion, current, gauss-law, potential]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [buoyancy, work-energy, simple-machines]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39]

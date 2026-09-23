@@ -9,6 +9,7 @@ topic: [thermodynamics, mechanics]
 subtopic: [ideal-gas, adiabatic-processes, friction, elasticity]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-thermo-idea8, kalda-thermo-idea9, kalda-mechanics-idea6]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, friction, rotational-dynamics]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

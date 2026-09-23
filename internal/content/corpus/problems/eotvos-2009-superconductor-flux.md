@@ -1,5 +1,6 @@
 ---
 id: eotvos-2009-superconductor-flux
+difficulty_level: 5
 source: eotvos
 native_id: "2009 P3"
 year: 2009

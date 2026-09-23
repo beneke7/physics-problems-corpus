@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, kinetic-theory, density]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [relativity, quantum-physics]
 subtopic: [relativistic-energy-momentum, mass-defect]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

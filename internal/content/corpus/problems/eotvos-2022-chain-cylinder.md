@@ -1,5 +1,6 @@
 ---
 id: eotvos-2022-chain-cylinder
+difficulty_level: 4
 source: eotvos
 native_id: "2022 P1"
 year: 2022

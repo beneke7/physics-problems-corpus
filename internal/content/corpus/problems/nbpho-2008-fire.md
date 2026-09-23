@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-fire
+difficulty_level: 4
 source: nbpho
 native_id: "2008 P7 FIRE"
 year: 2008

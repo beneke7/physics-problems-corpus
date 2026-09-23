@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr52
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr52"
 origin: IPhO-1987

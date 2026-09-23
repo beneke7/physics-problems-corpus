@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [newton-laws, tension, force-balance]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: numerical
 core_ideas: []

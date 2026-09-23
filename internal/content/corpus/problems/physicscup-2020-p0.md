@@ -15,6 +15,7 @@ subtopic: [sheet-resistance, 2d-networks, boundary-effects]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [exploit-symmetry, differential-element, strategic-heuristics]
 has_solution: false

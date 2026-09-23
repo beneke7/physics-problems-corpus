@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [oscillations-mechanical, ideal-gas, adiabatic-processes, resonance]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

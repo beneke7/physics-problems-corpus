@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, current]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [linear-algebra, series-complex]
 format: scaffolded
 core_ideas: []

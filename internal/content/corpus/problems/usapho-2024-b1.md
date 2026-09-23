@@ -9,6 +9,7 @@ topic: [quantum-physics, relativity]
 subtopic: [relativistic-energy-momentum, decay, collisions]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry, probability-statistics]
 format: scaffolded
 core_ideas: []

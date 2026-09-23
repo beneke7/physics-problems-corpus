@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr42
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr42"
 origin: EstFin-2006

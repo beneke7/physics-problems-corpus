@@ -15,6 +15,7 @@ subtopic: [geometrical-optics, diffraction-interference, refraction-at-sphere]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [limiting-and-special-cases, strategic-heuristics, model-reduction]
 has_solution: true

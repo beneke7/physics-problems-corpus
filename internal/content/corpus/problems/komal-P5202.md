@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry, specific-heat, method-of-mixtures]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 2
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-thermo-idea1]

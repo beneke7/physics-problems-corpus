@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, constraints]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea38]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

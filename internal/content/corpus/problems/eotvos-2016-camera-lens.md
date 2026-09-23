@@ -1,5 +1,6 @@
 ---
 id: eotvos-2016-camera-lens
+difficulty_level: 4
 source: eotvos
 native_id: "2016 P2"
 year: 2016

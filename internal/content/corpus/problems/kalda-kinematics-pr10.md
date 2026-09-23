@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr10
+difficulty_level: 2
 source: kalda
 native_id: "kinematics pr10"
 origin: Kalda-handout

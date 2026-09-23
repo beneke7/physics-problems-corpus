@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, efficiency]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: null
 math_tools: []
 format: numerical
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [relativistic-energy-momentum, mass-energy, nuclear]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, extremization, choose-reference-frame]
 has_solution: true

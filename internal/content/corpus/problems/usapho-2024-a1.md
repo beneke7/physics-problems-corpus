@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [capacitance, inductance, resonance, em-waves]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

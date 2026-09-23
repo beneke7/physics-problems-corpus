@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [error-analysis, uncertainty-propagation]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: null
 math_tools: []
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1984-q3
+difficulty_level: 4
 source: ipho
 native_id: "IPhO 1984, 3. feladat."
 year: 1984

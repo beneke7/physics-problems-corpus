@@ -1,5 +1,6 @@
 ---
 id: "kevin-zhou-erev-p004"
+difficulty_level: 5
 source: "kevin-zhou"
 native_id: "KZ-ERev-P004"
 origin: "Kevin Zhou Physics Olympiad Handouts"

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2022-resistor-magnetic
+difficulty_level: 3
 source: eotvos
 native_id: "2022 P3"
 year: 2022

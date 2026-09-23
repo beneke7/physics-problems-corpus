@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear, radioactivity]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: []
 format: open-ended
 core_ideas: [kalda-thermo-idea13]

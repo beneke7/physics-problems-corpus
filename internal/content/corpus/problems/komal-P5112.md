@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [projectile-motion, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

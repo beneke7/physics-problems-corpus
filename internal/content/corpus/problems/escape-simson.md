@@ -1,5 +1,6 @@
 ---
 id: escape-simson
+difficulty_level: 6
 source: nbpho
 native_id: "2022 P1 ESCAPE"
 year: 2022

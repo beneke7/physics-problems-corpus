@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

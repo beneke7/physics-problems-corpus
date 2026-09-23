@@ -1,5 +1,6 @@
 ---
 id: eotvos-2021-compressed-gas
+difficulty_level: 4
 source: eotvos
 native_id: "2021 P1"
 year: 2021

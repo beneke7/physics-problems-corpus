@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-magnetic-field
+difficulty_level: 4
 source: nbpho
 native_id: "2008 P4 MAGNETIC FIELD"
 year: 2008

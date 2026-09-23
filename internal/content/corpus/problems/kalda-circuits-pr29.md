@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr29
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr29"
 origin: EstOPhC-2012

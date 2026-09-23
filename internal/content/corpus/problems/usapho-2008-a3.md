@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, conduction, radiation, blackbody]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea1]

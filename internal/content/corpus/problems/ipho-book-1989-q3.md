@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1989-q3
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1989, 3. feladat."
 year: 1989

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves, fluids]
 subtopic: [sound-waves, wave-equation, refraction]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-waveoptics-idea2]

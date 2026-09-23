@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [lorentz-force, circular-motion, magnetic-field, collision-avoidance]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

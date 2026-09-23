@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-bars-and-rod
+difficulty_level: 4
 source: nbpho
 native_id: "2012 P3 BARS AND ROD"
 year: 2012

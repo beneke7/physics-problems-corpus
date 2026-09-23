@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr58
+difficulty_level: 3
 source: kalda
 native_id: "kinematics pr58"
 origin: Kalda-handout

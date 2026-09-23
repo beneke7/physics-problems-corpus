@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, friction]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: []

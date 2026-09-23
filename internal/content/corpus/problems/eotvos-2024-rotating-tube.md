@@ -1,5 +1,6 @@
 ---
 id: eotvos-2024-rotating-tube
+difficulty_level: 4
 source: eotvos
 native_id: "2024 P2"
 year: 2024

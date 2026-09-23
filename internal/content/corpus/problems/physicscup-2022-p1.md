@@ -15,6 +15,7 @@ subtopic: [ferromagnetism, hysteresis, temperature-dependence]
 math_tools: [dimensional-analysis]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 2
 core_ideas: []
 techniques: [limiting-and-special-cases, scaling-and-dimensional-analysis]
 has_solution: true

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2020-bottles-sound
+difficulty_level: 3
 source: nbpho
 native_id: "2020 P5 BOTTLE'S SOUND"
 year: 2020

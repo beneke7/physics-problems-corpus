@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [surface-tension]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: []
 format: open-ended
 core_ideas: []

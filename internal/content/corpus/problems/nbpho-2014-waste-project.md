@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-waste-project
+difficulty_level: 5
 source: nbpho
 native_id: "2014 P2 WASTE PROJECT"
 year: 2014

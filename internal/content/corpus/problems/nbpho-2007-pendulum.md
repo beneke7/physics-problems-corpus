@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-pendulum
+difficulty_level: 5
 source: nbpho
 native_id: "2007 P2 PENDULUM"
 year: 2007

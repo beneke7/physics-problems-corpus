@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [oscillations-mechanical, coupled-oscillators, center-of-mass, equilibrium, coulomb-force, electrostatics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

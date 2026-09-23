@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [lorentz-force, oscillations-mechanical, magnetic-field]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea23, kalda-mechanics-idea44]

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-superballs
+difficulty_level: 3
 source: nbpho
 native_id: "2014 P4 SUPERBALLS"
 year: 2014

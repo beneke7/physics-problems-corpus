@@ -15,6 +15,7 @@ subtopic: [lens-imaging, ellipse-reconstruction]
 math_tools: [geometry-trigonometry]
 format: measurement
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [exploit-symmetry, graphical-reduction]
 has_solution: false

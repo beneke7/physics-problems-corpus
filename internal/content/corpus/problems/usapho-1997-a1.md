@@ -9,6 +9,7 @@ topic: [optics, oscillations-and-waves]
 subtopic: [standing-waves, resonance, wave-equation]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: []

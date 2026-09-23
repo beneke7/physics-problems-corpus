@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [relative-motion]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: []

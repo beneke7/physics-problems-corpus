@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr40
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr40"
 origin: EstPhO-2006

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, impedance, magnetostatics, induction]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-circuits-idea44]

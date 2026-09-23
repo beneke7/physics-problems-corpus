@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [variable-mass, energy-conservation, tension]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: []

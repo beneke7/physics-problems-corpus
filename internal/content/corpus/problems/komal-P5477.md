@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, transformers, lc-transients]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: [kalda-circuits-idea36]

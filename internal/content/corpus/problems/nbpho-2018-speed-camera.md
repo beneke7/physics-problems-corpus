@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-speed-camera
+difficulty_level: 3
 source: nbpho
 native_id: "2018 P2 SPEED CAMERA"
 year: 2018

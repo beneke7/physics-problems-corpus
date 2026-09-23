@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-helium
+difficulty_level: 3
 source: nbpho
 native_id: "2016 P7 HELIUM"
 year: 2016

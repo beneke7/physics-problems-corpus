@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, angular-momentum, work-energy, oscillations-mechanical]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea45, kalda-mechanics-idea64]

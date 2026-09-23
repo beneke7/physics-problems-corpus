@@ -1,5 +1,6 @@
 ---
 id: eotvos-2019-rope-waves
+difficulty_level: 4
 source: eotvos
 native_id: "2019 P3"
 year: 2019

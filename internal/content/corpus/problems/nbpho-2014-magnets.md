@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-magnets
+difficulty_level: 4
 source: nbpho
 native_id: "2014 P3 MAGNETS"
 year: 2014

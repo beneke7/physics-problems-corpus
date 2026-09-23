@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1983-q5
+difficulty_level: 3
 source: ipho
 native_id: "IPhO 1983, 5. feladat."
 year: 1983

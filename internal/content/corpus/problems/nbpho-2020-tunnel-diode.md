@@ -1,5 +1,6 @@
 ---
 id: nbpho-2020-tunnel-diode
+difficulty_level: 6
 source: nbpho
 native_id: "2020 P2 TUNNEL DIODE"
 year: 2020

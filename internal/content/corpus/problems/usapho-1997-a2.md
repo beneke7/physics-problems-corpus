@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, projectile-motion]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [series-complex]
 format: open-ended
 core_ideas: []

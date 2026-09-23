@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, ideal-gas, first-law]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus]
 format: open-ended
 core_ideas: []

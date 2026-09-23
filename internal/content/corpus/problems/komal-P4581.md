@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, ideal-gas, work-heat, isobaric]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: null
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea4]

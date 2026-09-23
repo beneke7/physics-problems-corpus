@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, adiabatic-processes, heat-engines, efficiency, measurement]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: measurement
 core_ideas: [kalda-thermo-idea21]

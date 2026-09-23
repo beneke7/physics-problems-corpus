@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-totality
+difficulty_level: 5
 source: nbpho
 native_id: "2024 P4 Totality"
 year: 2024

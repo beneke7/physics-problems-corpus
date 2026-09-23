@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-ferromagnetic-stripe
+difficulty_level: 5
 source: nbpho
 native_id: "2022 P5 FERROMAGNETIC STRIPE"
 year: 2022

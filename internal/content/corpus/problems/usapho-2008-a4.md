@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [doppler, sound-waves, kinematics, data-fitting]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry, numerical]
 format: measurement
 core_ideas: []

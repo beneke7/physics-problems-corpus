@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-nitrogen-explosion
+difficulty_level: 5
 source: nbpho
 native_id: "2023 P2 Nitrogen explosion"
 year: 2023

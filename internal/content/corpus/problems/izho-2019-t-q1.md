@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [circular-motion, tension, temperature, ac-circuits, impedance]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

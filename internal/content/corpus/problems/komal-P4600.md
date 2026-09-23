@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [surface-tension, pressure, ideal-gas]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-thermo-idea18, kalda-thermo-idea19]

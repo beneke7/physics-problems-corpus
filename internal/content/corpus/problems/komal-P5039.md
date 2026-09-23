@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [oscillations-mechanical, moment-of-inertia]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea45]

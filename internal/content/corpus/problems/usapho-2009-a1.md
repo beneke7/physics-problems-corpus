@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, induction, inductance, resistivity]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea45]

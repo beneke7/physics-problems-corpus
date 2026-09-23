@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [oscillations-mechanical]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-waves
+difficulty_level: null
 source: nbpho
 native_id: "2024 P7 Waves"
 year: 2024

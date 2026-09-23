@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-cones
+difficulty_level: 4
 source: nbpho
 native_id: "2024 P6 Cones"
 year: 2024

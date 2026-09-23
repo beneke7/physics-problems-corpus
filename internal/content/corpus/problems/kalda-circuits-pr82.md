@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr82
+difficulty_level: null
 source: kalda
 native_id: "circuits pr82"
 origin: Kalda-handout

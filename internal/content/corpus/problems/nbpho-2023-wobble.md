@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-wobble
+difficulty_level: 5
 source: nbpho
 native_id: "2023 P3 Wobble"
 year: 2023

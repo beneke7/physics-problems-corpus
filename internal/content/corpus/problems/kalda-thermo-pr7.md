@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr7
+difficulty_level: 2
 source: kalda
 native_id: "thermo pr7"
 origin: IPhO-1996

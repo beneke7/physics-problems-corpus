@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-two-balls"
+difficulty_level: null
 source: "nbpho"
 native_id: "2015 P6"
 year: 2015

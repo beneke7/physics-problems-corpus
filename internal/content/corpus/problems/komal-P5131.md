@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [second-law, entropy, heat-engines]
 difficulty: P
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-thermo-idea21, kalda-thermo-idea22, kalda-thermo-idea23]

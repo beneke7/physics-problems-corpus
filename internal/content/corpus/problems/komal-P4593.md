@@ -9,6 +9,7 @@ topic: [relativity, mechanics]
 subtopic: [relativistic-energy-momentum, collisions]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2010-charges-in-e-field
+difficulty_level: 5
 source: nbpho
 year: 2010
 native_id: "2010 P1 Charges in E"

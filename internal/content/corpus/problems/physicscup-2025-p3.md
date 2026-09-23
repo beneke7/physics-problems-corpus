@@ -15,6 +15,7 @@ subtopic: [gas-kinetics, work-energy, molecular-dynamics]
 math_tools: [calculus, differential-equations, dimensional-analysis]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, conservation-laws, limiting-and-special-cases]
 has_solution: true

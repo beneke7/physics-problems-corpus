@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [electrostatics, work-energy, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea44, kalda-mechanics-idea39]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea40, kalda-kinematics-idea44]

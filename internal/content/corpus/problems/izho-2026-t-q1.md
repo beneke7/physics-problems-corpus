@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [rotational-dynamics, variable-mass, rc-transients, capacitance, lenses-mirrors]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

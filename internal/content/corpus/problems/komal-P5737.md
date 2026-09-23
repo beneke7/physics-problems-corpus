@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, image-charges, particle-trajectory]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: open-ended
 core_ideas: []

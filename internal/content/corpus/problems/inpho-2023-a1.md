@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [sound-waves, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: experimental
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [oscillations-mechanical]
 difficulty: M
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: measurement
 core_ideas: []

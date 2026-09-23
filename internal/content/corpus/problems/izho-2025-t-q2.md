@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [conduction, heat-transfer, temperature, diffusion, internal-energy]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

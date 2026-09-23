@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, work-energy, oscillations-mechanical]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

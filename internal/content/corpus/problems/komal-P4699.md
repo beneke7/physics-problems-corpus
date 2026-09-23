@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rolling, constraints]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea66, kalda-kinematics-idea33]

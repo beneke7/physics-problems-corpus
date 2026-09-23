@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-air-submarine
+difficulty_level: 4
 source: nbpho
 native_id: "2018 P8 AIR IN A SUBMARINE"
 year: 2018

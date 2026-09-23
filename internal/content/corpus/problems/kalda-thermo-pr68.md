@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr68
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr68"
 origin: EstOpen-2010

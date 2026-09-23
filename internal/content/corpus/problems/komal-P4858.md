@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, work, adiabatic, heating]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea10]

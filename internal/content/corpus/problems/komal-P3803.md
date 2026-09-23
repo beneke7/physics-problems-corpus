@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: null
 math_tools: []
 format: numerical
 core_ideas: []

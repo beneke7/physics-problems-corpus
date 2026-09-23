@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, resistivity]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: []
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr56
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr56"
 origin: EstFin-2013

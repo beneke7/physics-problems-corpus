@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-equation, standing-waves, beats, doppler]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, series-complex]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-passive-air-cooling
+difficulty_level: 5
 source: nbpho
 native_id: "2004 P7 PASSIVE AIR-COOLING"
 year: 2004

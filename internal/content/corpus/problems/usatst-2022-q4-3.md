@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [collisions, measurement, uncertainty-propagation, experimental-design]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [probability-statistics]
 format: experimental
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2004-test-tube
+difficulty_level: 4
 source: eotvos
 native_id: "2004 P2"
 year: 2004

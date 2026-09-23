@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [geometrical-optics, refraction]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2020-conical-room
+difficulty_level: 3
 source: nbpho
 native_id: "2020 P3 CONICAL ROOM"
 year: 2020

@@ -9,6 +9,7 @@ topic: [gravitation, relativity]
 subtopic: [gravitation, orbits, time-dilation, circular-motion]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

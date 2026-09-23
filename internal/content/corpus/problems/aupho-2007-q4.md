@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [momentum, collisions]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: []
 format: scaffolded
 core_ideas: []

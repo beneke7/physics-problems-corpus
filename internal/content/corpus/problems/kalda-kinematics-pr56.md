@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr56
+difficulty_level: 4
 source: kalda
 native_id: "kinematics pr56"
 origin: Kalda-handout

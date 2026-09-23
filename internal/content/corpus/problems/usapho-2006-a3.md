@@ -9,6 +9,7 @@ topic: [thermodynamics, mechanics]
 subtopic: [ideal-gas, adiabatic-processes, processes, density]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-thermo-idea9]

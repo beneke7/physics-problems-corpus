@@ -15,6 +15,7 @@ subtopic: [projectile-motion, collisions, conic-sections]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [exploit-symmetry, conservation-laws, smart-coordinates]
 has_solution: false

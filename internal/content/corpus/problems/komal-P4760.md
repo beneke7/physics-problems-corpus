@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, constant-acceleration]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: []

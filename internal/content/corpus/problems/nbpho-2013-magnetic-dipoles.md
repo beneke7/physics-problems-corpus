@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-magnetic-dipoles
+difficulty_level: 3
 source: nbpho
 native_id: "2013 P4 MAGNETIC DIPOLES"
 year: 2013

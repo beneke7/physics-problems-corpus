@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [polytropic, specific-heat, first-law, processes]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [experimental-skills, mechanics]
 subtopic: [measurement, buoyancy]
 difficulty: M
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: measurement
 core_ideas: []

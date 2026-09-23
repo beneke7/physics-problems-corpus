@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, equilibrium, force-balance, tension]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

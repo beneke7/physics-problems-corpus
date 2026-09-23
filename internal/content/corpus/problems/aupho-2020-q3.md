@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [resistivity, dc-circuits, data-fitting]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: []
 format: experimental
 core_ideas: []

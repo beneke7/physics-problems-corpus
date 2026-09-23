@@ -1,5 +1,6 @@
 ---
 id: eotvos-2018-rotating-bubble
+difficulty_level: 5
 source: eotvos
 native_id: "2018 P1"
 year: 2018

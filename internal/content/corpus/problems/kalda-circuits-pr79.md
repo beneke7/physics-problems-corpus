@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr79
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr79"
 origin: IPhO-2001

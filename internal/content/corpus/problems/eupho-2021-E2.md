@@ -17,6 +17,7 @@ subtopic: [heat-conduction, convection, blackbody-radiation, specific-heat, ther
 math_tools: [calculus, differential-equations, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [graphical-reduction, conservation-laws]
 has_solution: true

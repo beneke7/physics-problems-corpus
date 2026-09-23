@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, impedance]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: [series-complex]
 format: scaffolded
 core_ideas: [kalda-circuits-idea44, kalda-circuits-idea52]

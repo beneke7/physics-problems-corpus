@@ -9,6 +9,7 @@ topic: [thermodynamics, oscillations-and-waves]
 subtopic: [heat-transfer, radiation, stefan-boltzmann, power, filament-physics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

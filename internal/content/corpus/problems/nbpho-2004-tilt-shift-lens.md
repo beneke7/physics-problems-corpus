@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-tilt-shift-lens
+difficulty_level: 4
 source: nbpho
 native_id: "2004 P3 TILT-SHIFT LENS"
 year: 2004

@@ -15,6 +15,7 @@ subtopic: [geometrical-optics, lenses-mirrors, estimation]
 math_tools: [geometry-trigonometry, dimensional-analysis]
 format: open-ended
 difficulty_norm: 4
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, model-reduction]
 has_solution: true

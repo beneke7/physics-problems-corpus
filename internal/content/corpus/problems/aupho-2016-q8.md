@@ -9,6 +9,7 @@ topic: [experimental-skills, oscillations-and-waves]
 subtopic: [measurement, oscillations-mechanical, error-analysis]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: measurement
 core_ideas: []

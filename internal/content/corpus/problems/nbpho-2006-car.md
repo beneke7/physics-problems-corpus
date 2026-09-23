@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-car
+difficulty_level: 4
 source: nbpho
 native_id: "2006 P6 CAR"
 year: 2006

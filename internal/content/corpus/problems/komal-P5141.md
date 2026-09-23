@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, energy, electrostatics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea15]

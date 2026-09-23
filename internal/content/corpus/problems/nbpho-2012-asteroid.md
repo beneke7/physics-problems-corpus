@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-asteroid
+difficulty_level: 5
 source: nbpho
 native_id: "2012 P1 ASTEROID"
 year: 2012

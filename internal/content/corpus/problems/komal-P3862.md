@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [refraction, geometrical-optics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-waveoptics-idea2]

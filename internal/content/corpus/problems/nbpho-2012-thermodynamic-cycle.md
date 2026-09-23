@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-thermodynamic-cycle
+difficulty_level: 2
 source: nbpho
 native_id: "2012 P2 THERMODYNAMIC CYCLE"
 year: 2012

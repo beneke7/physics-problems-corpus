@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [lorentz-force, magnetic-moment, dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

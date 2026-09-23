@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-four-charges
+difficulty_level: 4
 source: nbpho
 native_id: "2024 P1 Four charges"
 year: 2024

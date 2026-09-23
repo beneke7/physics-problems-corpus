@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, non-inertial-frames]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea8, kalda-mechanics-idea25]

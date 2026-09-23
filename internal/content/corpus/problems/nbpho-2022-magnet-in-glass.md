@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-magnet-in-glass
+difficulty_level: 4
 source: nbpho
 native_id: "2022 P9 MAGNET IN GLASS"
 year: 2022

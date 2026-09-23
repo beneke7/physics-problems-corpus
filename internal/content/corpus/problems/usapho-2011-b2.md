@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [circular-motion, oscillations-mechanical, energy-conservation, stability]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea41]

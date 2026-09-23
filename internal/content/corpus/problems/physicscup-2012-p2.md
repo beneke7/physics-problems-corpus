@@ -15,6 +15,7 @@ subtopic: [induction, inductance, magnetostatics]
 math_tools: [calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, model-reduction, limiting-and-special-cases]
 has_solution: true

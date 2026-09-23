@@ -17,6 +17,7 @@ subtopic: [refraction, dispersion, caustics, ray-optics, measurement-from-photo]
 math_tools: [geometry-trigonometry, calculus, series-complex]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [smart-coordinates, differential-element]
 has_solution: true

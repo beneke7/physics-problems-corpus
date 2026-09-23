@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea33]

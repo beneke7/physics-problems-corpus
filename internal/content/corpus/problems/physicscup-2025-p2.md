@@ -15,6 +15,7 @@ subtopic: [pursuit-curves, geometry-in-motion, symmetry-constraints]
 math_tools: [geometry-trigonometry, calculus, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 3
 core_ideas: []
 techniques: [exploit-symmetry, scaling-and-dimensional-analysis, limiting-and-special-cases]
 has_solution: true

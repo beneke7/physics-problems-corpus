@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, kirchhoff]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, linear-algebra]
 format: scaffolded
 core_ideas: []

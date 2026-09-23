@@ -17,6 +17,7 @@ subtopic: [eddy-currents, magnetic-braking, current-streamlines]
 math_tools: [vector-calculus, calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-circuits-idea16]
 techniques: [exploit-symmetry, superposition, differential-element]
 has_solution: true

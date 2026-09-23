@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, oscillations-mechanical, orbits]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: []

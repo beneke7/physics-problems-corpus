@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-stack-of-papers
+difficulty_level: 5
 source: nbpho
 native_id: "2023 P7 A stack of papers"
 year: 2023

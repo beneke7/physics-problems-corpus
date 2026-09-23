@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, projectile-motion, drag]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [differential-equations, calculus]
 format: scaffolded
 core_ideas: []

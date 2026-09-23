@@ -1,5 +1,6 @@
 ---
 id: eotvos-2021-superconductor-ring
+difficulty_level: 4
 source: eotvos
 native_id: "2021 P2"
 year: 2021

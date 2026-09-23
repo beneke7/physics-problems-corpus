@@ -9,6 +9,7 @@ topic: [thermodynamics, electromagnetism]
 subtopic: [resistivity, radiation, heat-transfer]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [dimensional-analysis]
 format: open-ended
 core_ideas: [kalda-thermo-idea1]

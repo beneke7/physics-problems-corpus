@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry, energy-balance, phase-transitions]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

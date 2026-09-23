@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-cellphone-camera
+difficulty_level: 4
 source: nbpho
 native_id: "2013 P2 CELLPHONE CAMERA"
 year: 2013

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-charge-on-ring
+difficulty_level: 4
 source: nbpho
 native_id: "2016 P6 CHARGE ON A RING"
 year: 2016

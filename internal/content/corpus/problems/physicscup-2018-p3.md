@@ -15,6 +15,7 @@ subtopic: [inductance, magnetostatics, magnetic-materials]
 math_tools: [calculus, vector-calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, limiting-and-special-cases]
 has_solution: false

@@ -15,6 +15,7 @@ subtopic: [thin-lens, geometrical-optics, ray-tracing]
 math_tools: [geometry-trigonometry]
 format: measurement
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, smart-coordinates, graphical-reduction]
 has_solution: true

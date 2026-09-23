@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-dc-dc-converter
+difficulty_level: 6
 source: nbpho
 native_id: "2014 P1 DC-DC CONVERTER"
 year: 2014

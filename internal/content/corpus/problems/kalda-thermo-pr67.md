@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr67
+difficulty_level: null
 source: kalda
 native_id: "thermo pr67"
 origin: PhysCup-None

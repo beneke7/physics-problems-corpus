@@ -9,6 +9,7 @@ topic: [electromagnetism, quantum-physics]
 subtopic: [hall-effect, magnetic-field, current, induction]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

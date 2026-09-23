@@ -9,6 +9,7 @@ topic: [fluids]
 subtopic: [drag]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [dimensional-analysis]
 format: open-ended
 core_ideas: []

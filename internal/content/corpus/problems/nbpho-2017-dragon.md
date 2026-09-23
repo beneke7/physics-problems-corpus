@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-dragon
+difficulty_level: 4
 source: nbpho
 native_id: "2017 P1 Dragon"
 year: 2017

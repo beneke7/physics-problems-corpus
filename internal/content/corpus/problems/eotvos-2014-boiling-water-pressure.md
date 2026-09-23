@@ -1,5 +1,6 @@
 ---
 id: eotvos-2014-boiling-water-pressure
+difficulty_level: 2
 source: eotvos
 native_id: "2014 P2"
 year: 2014

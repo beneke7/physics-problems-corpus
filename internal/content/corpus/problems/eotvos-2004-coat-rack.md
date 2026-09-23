@@ -1,5 +1,6 @@
 ---
 id: eotvos-2004-coat-rack
+difficulty_level: null
 source: eotvos
 native_id: "2004 P1"
 year: 2004

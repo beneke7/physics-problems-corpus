@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [kinetic-theory, ideal-gas, equipartition]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [dimensional-analysis]
 format: scaffolded
 core_ideas: []

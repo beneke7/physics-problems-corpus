@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1968-q2
+difficulty_level: 2
 source: ipho
 native_id: "IPhO 1968, 2. feladat."
 year: 1968

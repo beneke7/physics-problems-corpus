@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, first-law, work-heat]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: []

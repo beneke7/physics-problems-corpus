@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr7
+difficulty_level: 3
 source: kalda
 native_id: "circuits pr7"
 origin: EstPhO-2003

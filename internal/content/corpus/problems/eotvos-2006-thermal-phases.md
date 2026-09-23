@@ -1,5 +1,6 @@
 ---
 id: eotvos-2006-thermal-phases
+difficulty_level: 4
 source: eotvos
 native_id: "2006 P1"
 year: 2006

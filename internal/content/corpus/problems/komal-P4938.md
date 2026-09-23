@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, work-energy]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-spring
+difficulty_level: 3
 source: nbpho
 year: 2009
 native_id: "2009 P6 SPRING"

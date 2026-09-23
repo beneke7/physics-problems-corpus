@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-comet
+difficulty_level: 5
 source: nbpho
 native_id: "2017 P2 Comet"
 year: 2017

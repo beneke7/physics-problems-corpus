@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, heating]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-circuits-idea1]

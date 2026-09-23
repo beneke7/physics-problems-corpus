@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr34
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr34"
 origin: IPhO-1992

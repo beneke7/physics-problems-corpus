@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, rotational-dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea45, kalda-mechanics-idea65, kalda-mechanics-idea2]

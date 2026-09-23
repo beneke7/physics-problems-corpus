@@ -9,6 +9,7 @@ topic: [optics, oscillations-and-waves]
 subtopic: [standing-waves, resonance, interference, wave-equation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry, series-complex]
 format: scaffolded
 core_ideas: []

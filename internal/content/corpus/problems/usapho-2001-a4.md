@@ -9,6 +9,7 @@ topic: [quantum-physics, thermodynamics]
 subtopic: [nuclear, fission-fusion, blackbody, radiation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: []
 format: numerical
 core_ideas: []

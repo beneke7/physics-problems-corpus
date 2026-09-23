@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, pendulum]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-kinematics-idea6]

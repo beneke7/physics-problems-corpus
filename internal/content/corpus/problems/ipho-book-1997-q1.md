@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1997-q1
+difficulty_level: 3
 source: ipho
 native_id: "IPhO 1997, 1. feladat."
 year: 1997

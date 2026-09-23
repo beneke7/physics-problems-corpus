@@ -1,5 +1,6 @@
 ---
 id: nbpho-2010-power-supply
+difficulty_level: 3
 source: nbpho
 year: 2010
 native_id: "2010 P9 Power supply"

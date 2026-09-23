@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-power-lines
+difficulty_level: 3
 source: nbpho
 native_id: "2012 P9 POWER LINES"
 year: 2012

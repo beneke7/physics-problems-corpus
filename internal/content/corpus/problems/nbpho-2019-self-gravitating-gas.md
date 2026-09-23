@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-self-gravitating-gas
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P6 Self-Gravitating Gas"
 year: 2019

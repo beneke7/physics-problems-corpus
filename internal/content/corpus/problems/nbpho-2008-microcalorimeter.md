@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-microcalorimeter
+difficulty_level: 5
 source: nbpho
 native_id: "2008 P2 MICROCALORIMETER"
 year: 2008

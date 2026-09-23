@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-tunnel-diode
+difficulty_level: 4
 source: nbpho
 native_id: "2003 P4 TUNNEL DIODE"
 year: 2003

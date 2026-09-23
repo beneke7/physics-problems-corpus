@@ -1,5 +1,6 @@
 ---
 id: eotvos-2001-pushpin
+difficulty_level: 5
 source: eotvos
 native_id: "2001 P3"
 year: 2001

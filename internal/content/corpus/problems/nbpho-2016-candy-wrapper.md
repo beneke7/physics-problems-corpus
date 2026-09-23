@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-candy-wrapper
+difficulty_level: 3
 source: nbpho
 native_id: "2016 P5 CANDY WRAPPER"
 year: 2016

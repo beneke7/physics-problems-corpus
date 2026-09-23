@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [first-law, ideal-gas, second-law, entropy]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea21]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [angular-momentum, moment-of-inertia]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea45, kalda-mechanics-idea62, kalda-mechanics-idea64]

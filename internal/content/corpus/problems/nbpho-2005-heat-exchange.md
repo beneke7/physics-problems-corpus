@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-heat-exchange
+difficulty_level: 4
 source: nbpho
 native_id: "2005 P7 HEAT EXCHANGE"
 year: 2005

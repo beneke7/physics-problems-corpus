@@ -1,5 +1,6 @@
 ---
 id: eotvos-2008-circus-artist
+difficulty_level: 5
 source: eotvos
 native_id: "2008 P1"
 year: 2008

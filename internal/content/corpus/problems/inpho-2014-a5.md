@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [variable-mass, momentum]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea57]

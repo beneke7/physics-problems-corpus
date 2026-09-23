@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-optics]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: numerical
 core_ideas: []

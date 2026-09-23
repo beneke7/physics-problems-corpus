@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [elasticity, work-energy, lagrangian]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea34]

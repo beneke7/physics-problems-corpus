@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [rolling, rotational-dynamics, work-energy, ideal-gas, work-heat, energy-conservation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

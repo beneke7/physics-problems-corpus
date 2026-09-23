@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [diffraction]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-waveoptics-idea1, kalda-waveoptics-idea2]

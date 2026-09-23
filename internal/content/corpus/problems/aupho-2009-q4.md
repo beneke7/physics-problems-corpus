@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [sound-waves]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: null
 math_tools: []
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [relativity, mechanics]
 subtopic: [relativistic-energy-momentum, circular-motion, lorentz-force]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

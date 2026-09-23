@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-zener-diode
+difficulty_level: 5
 source: nbpho
 native_id: "2013 P8 ZENER DIODE"
 year: 2013

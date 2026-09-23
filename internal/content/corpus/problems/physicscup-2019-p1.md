@@ -15,6 +15,7 @@ subtopic: [potential-flow, added-mass, electrostatic-analogy]
 math_tools: [vector-calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [cross-domain-analogy, conservation-laws, exploit-symmetry]
 has_solution: false

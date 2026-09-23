@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rolling, work-energy, circular-motion]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: []
 format: numerical
 core_ideas: []

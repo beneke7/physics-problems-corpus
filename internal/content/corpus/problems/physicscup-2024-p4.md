@@ -15,6 +15,7 @@ subtopic: [elliptical-orbits, relative-velocity, kepler-dynamics]
 math_tools: [calculus, geometry-trigonometry, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, choose-reference-frame, limiting-and-special-cases]
 has_solution: true

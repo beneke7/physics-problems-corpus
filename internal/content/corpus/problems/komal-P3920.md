@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [oscillations-mechanical, electrostatics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea8, kalda-mechanics-idea39, kalda-mechanics-idea44]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, moment-of-inertia]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea53, kalda-mechanics-idea63, kalda-mechanics-idea64]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, force-balance, geometry]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea15]

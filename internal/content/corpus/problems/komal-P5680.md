@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, optimization, projectile-motion]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea31]

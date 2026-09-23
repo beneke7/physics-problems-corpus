@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, induction]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, vector-calculus]
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [bohr-model, energy-levels, photon-energy, atomic-structure]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

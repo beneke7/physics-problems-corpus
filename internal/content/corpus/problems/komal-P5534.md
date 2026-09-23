@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, envelope]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea24, kalda-mechanics-idea28]

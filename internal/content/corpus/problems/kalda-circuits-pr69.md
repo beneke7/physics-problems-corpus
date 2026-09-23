@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr69
+difficulty_level: null
 source: kalda
 native_id: "circuits pr69"
 origin: IPhO-1994

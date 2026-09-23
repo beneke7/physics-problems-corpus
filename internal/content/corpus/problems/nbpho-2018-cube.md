@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-cube
+difficulty_level: 5
 source: nbpho
 native_id: "2018 P6 CUBE"
 year: 2018

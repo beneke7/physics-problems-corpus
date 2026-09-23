@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr31
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr31"
 origin: Seagull-2014

@@ -9,6 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [induction, faraday, inductance, ac-circuits, magnetic-field]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [differential-equations, series-complex]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, resistance, power]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [linear-algebra]
 format: open-ended
 core_ideas: [kalda-circuits-idea1, kalda-circuits-idea5]

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, induction, rl-transients]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations, linear-algebra]
 format: scaffolded
 core_ideas: []

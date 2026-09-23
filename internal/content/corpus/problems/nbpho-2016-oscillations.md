@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-oscillations
+difficulty_level: 4
 source: nbpho
 native_id: "2016 P8 OSCILLATIONS"
 year: 2016

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, constant-acceleration, extremization]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [differential-equations, calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea37]

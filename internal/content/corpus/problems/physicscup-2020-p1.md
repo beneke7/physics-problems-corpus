@@ -15,6 +15,7 @@ subtopic: [charged-dipole, electric-field-coupling]
 math_tools: [calculus, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [extremization, choose-reference-frame, auxiliary-unknowns]
 has_solution: true

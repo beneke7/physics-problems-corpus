@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, orbits, energy]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-kinematics-idea45]

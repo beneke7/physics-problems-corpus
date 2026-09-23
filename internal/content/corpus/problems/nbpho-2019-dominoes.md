@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-dominoes
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P7 Dominoes"
 year: 2019

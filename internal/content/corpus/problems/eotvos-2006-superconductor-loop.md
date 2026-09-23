@@ -1,5 +1,6 @@
 ---
 id: eotvos-2006-superconductor-loop
+difficulty_level: 5
 source: eotvos
 native_id: "2006 P3"
 year: 2006

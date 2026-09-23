@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [interference, sound-waves, standing-waves]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-waveoptics-idea1]

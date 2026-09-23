@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rolling, rotational-dynamics, rigid-body, non-inertial-frames]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [vector-calculus, differential-equations]
 format: open-ended
 core_ideas: []

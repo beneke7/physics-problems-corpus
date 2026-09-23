@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry, heat-transfer]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-thermo-idea1, kalda-thermo-idea4]

@@ -17,6 +17,7 @@ subtopic: [normal-modes, hanging-rope, dimensional-analysis]
 math_tools: [dimensional-analysis, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, differential-element]
 has_solution: true

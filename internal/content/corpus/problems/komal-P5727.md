@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [work-energy, adiabatic, heating, power]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

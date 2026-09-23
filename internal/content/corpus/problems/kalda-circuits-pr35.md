@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr35
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr35"
 origin: EstPhO-1999

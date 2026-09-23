@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, biot-savart, current]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, vector-calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-circuits-idea19]

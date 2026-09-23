@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, method-of-images]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, vector-calculus]
 format: open-ended
 core_ideas: []

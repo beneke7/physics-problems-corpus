@@ -1,5 +1,6 @@
 ---
 id: kalda-waveoptics-pr14
+difficulty_level: null
 source: kalda
 native_id: "waveoptics pr14"
 origin: IPhO-1990

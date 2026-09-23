@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [geometrical-optics, lenses-mirrors, dispersion]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

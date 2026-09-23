@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [gauss-law, electric-field, magnetic-field, radiation]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

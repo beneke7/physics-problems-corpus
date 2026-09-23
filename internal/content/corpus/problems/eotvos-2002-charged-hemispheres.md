@@ -1,5 +1,6 @@
 ---
 id: eotvos-2002-charged-hemispheres
+difficulty_level: 5
 source: eotvos
 native_id: "2002 P3"
 year: 2002

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, rotational-dynamics, moment-of-inertia]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

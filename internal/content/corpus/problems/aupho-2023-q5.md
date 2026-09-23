@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [reflection]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: null
 math_tools: []
 format: numerical
 core_ideas: []

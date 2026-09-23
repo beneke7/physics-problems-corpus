@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, potential, image-charges]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, vector-calculus]
 format: open-ended
 core_ideas: []

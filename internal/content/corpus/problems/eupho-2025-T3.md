@@ -17,6 +17,7 @@ subtopic: [magnetostatics, field-lines, biot-savart]
 math_tools: [vector-calculus, calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [superposition, smart-coordinates]
 has_solution: true

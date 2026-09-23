@@ -9,6 +9,7 @@ topic: [optics, experimental-skills]
 subtopic: [reflection, geometrical-optics, measurement, experimental-design, data-fitting]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: experimental
 core_ideas: []

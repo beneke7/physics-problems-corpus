@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr36
+difficulty_level: 2
 source: kalda
 native_id: "thermo pr36"
 origin: Kalda-handout

@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [relativistic-energy-momentum, cyclotron]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

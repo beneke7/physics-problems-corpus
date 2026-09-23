@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-charged-rod
+difficulty_level: 5
 source: nbpho
 native_id: "2025 P7 Charged Rod"
 year: 2025

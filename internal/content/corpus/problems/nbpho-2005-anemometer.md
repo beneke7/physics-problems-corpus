@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-anemometer
+difficulty_level: 3
 source: nbpho
 native_id: "2005 P5 ANEMOMETER"
 year: 2005

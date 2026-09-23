@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [measurement, uncertainty-propagation, error-analysis]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: measurement
 core_ideas: []

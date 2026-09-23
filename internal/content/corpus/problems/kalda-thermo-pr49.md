@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr49
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr49"
 origin: EstFin-2004

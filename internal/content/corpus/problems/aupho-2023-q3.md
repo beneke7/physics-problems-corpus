@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, relative-motion]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

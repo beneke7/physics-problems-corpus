@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-string-coupled-masses
+difficulty_level: 4
 source: nbpho
 native_id: "2023 P6 String-coupled masses"
 year: 2023

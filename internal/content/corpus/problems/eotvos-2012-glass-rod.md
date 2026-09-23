@@ -1,5 +1,6 @@
 ---
 id: eotvos-2012-glass-rod
+difficulty_level: 4
 source: eotvos
 native_id: "2012 P2"
 year: 2012

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2001-rotating-sand
+difficulty_level: 4
 source: eotvos
 native_id: "2001 P2"
 year: 2001

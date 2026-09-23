@@ -1,5 +1,6 @@
 ---
 id: eotvos-2023-venus-phase
+difficulty_level: 4
 source: eotvos
 native_id: "2023 P1"
 year: 2023

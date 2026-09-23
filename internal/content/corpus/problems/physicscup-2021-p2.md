@@ -15,6 +15,7 @@ subtopic: [kepler-orbit, comet-trajectory, eccentricity]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, exploit-symmetry, extremization]
 has_solution: true

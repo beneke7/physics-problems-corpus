@@ -9,6 +9,7 @@ topic: [quantum-physics, mechanics]
 subtopic: [de-broglie, energy-levels, gravitation, work-energy]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, dimensional-analysis]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea57]

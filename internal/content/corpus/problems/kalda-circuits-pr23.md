@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr23
+difficulty_level: 3
 source: kalda
 native_id: "circuits pr23"
 origin: EstOPhC-2009

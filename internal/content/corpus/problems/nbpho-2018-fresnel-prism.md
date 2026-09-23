@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-fresnel-prism
+difficulty_level: 4
 source: nbpho
 native_id: "2018 P4 FRESNEL PRISM"
 year: 2018

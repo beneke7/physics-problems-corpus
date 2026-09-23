@@ -9,6 +9,7 @@ topic: [fluids, mechanics]
 subtopic: [fluids, pressure, bernoulli]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 core_ideas: []

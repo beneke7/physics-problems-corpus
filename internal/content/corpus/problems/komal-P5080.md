@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [kinetic-theory, ideal-gas]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: []

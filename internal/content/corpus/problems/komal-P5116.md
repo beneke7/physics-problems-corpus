@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, potential, energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

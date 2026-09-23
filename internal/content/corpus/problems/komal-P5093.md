@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [electrostatics, circular-motion, energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

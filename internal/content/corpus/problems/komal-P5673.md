@@ -9,6 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [kinematics, adiabatic, work-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea10]

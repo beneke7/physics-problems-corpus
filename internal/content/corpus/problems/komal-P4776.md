@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, resistance, wheatstone-bridge]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [linear-algebra]
 format: open-ended
 core_ideas: []

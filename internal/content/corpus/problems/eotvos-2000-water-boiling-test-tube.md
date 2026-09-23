@@ -1,5 +1,6 @@
 ---
 id: eotvos-2000-water-boiling-test-tube
+difficulty_level: 3
 source: eotvos
 native_id: "2000 P2"
 year: 2000

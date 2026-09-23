@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 6
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea28]

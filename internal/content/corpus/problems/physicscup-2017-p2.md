@@ -15,6 +15,7 @@ subtopic: [dc-circuits, resistor-network]
 math_tools: [linear-algebra, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [exploit-symmetry, superposition, model-reduction]
 has_solution: false

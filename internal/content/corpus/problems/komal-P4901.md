@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [diffraction, wave-optics]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

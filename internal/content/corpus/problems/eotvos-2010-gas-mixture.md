@@ -1,5 +1,6 @@
 ---
 id: eotvos-2010-gas-mixture
+difficulty_level: 4
 source: eotvos
 native_id: "2010 P2"
 year: 2010

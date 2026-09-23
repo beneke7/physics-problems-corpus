@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, orbits, kepler, energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea43]

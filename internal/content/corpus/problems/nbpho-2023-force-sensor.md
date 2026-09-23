@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-force-sensor
+difficulty_level: 4
 source: nbpho
 native_id: "2023 P5 Force sensor"
 year: 2023

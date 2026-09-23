@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, ideal-gas, first-law, equilibrium]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea34]

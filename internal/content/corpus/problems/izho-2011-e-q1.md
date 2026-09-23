@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [elasticity, statics, solid-state, measurement, error-analysis, data-fitting]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: experimental
 core_ideas: []

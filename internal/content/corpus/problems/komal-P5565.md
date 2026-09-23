@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, forces]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea43, kalda-mechanics-idea5]

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-rubber-fiber
+difficulty_level: 5
 source: nbpho
 native_id: "2004 P1 RUBBER FIBER"
 year: 2004

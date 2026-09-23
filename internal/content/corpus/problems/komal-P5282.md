@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction, eddy-currents]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea24]

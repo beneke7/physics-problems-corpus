@@ -17,6 +17,7 @@ subtopic: [magnetic-susceptibility, diamagnetism, pressure-equilibrium, boiling,
 math_tools: [calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, extremization]
 has_solution: true

@@ -9,6 +9,7 @@ topic: [thermodynamics, oscillations-and-waves]
 subtopic: [heat-transfer, radiation, temperature]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-thermo-idea1]

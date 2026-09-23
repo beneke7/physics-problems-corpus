@@ -9,6 +9,7 @@ topic: [fluids, oscillations-and-waves]
 subtopic: [buoyancy, oscillations-mechanical, diodes]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

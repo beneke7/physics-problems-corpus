@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [inductance, dc-circuits, energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: [kalda-circuits-idea37, kalda-circuits-idea36]

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-balloon
+difficulty_level: 5
 source: nbpho
 native_id: "2005 P8 BALLOON"
 year: 2005

@@ -17,6 +17,7 @@ subtopic: [buoyancy, oscillations-mechanical, continuity-equation]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [conservation-laws, auxiliary-unknowns]
 has_solution: true

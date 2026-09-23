@@ -1,5 +1,6 @@
 ---
 id: eotvos-2024-lens-system
+difficulty_level: 4
 source: eotvos
 native_id: "2024 P3"
 year: 2024

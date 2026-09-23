@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-radiator"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P5"
 year: 2015

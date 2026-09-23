@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, kinetic-theory, statistical-distributions]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [probability-statistics]
 format: numerical
 core_ideas: [kalda-kinematics-idea42]

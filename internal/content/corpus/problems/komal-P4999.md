@@ -9,6 +9,7 @@ topic: [quantum-physics, thermodynamics]
 subtopic: [nuclear, fission-fusion, calorimetry]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

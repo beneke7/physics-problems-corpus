@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr26
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr26"
 origin: EstPhO-1995

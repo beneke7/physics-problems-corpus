@@ -1,5 +1,6 @@
 ---
 id: eotvos-2010-bicycle-chain
+difficulty_level: 4
 source: eotvos
 native_id: "2010 P1"
 year: 2010

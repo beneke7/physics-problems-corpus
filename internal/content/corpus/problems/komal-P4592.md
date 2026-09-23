@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, lorentz-force, momentum]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea43, kalda-mechanics-idea46]

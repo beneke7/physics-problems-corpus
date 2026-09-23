@@ -9,6 +9,7 @@ topic: [gravitation]
 subtopic: [gravitation, orbits, kepler, relative-motion]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [geometry-trigonometry, numerical]
 format: scaffolded
 core_ideas: []

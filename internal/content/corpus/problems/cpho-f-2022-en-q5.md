@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [polarization, refraction, wave-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

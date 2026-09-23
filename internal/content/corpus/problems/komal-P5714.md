@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, force-balance, dipole-moment]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

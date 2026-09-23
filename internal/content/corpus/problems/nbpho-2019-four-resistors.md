@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-four-resistors
+difficulty_level: 4
 source: nbpho
 native_id: "2019 P8 Four Resistors"
 year: 2019

@@ -15,6 +15,7 @@ subtopic: [phase-transitions, joule-heating, thermal-stability]
 math_tools: [calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [stability-analysis, model-reduction]
 has_solution: true

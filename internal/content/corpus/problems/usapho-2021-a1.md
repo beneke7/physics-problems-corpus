@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [friction, oscillations-mechanical, force-balance]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

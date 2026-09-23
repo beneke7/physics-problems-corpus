@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-photography
+difficulty_level: 5
 source: nbpho
 native_id: "2006 P2 PHOTOGRAPHY"
 year: 2006

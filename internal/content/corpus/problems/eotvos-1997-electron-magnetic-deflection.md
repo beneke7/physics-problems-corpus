@@ -1,5 +1,6 @@
 ---
 id: eotvos-1997-electron-magnetic-deflection
+difficulty_level: 4
 source: eotvos
 native_id: "1997 P3"
 year: 1997

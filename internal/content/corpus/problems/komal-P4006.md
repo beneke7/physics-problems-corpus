@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea45, kalda-mechanics-idea63]

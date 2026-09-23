@@ -15,6 +15,7 @@ subtopic: [heat-conduction, boundary-perturbation]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [differential-element, exploit-symmetry, superposition]
 has_solution: false

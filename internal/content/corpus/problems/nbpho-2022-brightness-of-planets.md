@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-brightness-of-planets
+difficulty_level: 5
 source: nbpho
 native_id: "2022 P8 BRIGHTNESS OF PLANETS"
 year: 2022

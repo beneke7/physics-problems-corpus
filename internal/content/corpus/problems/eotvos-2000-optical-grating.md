@@ -1,5 +1,6 @@
 ---
 id: eotvos-2000-optical-grating
+difficulty_level: 4
 source: eotvos
 native_id: "2000 P3"
 year: 2000

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2020-diode-capacitor
+difficulty_level: null
 source: eotvos
 native_id: "2020 P3"
 year: 2020

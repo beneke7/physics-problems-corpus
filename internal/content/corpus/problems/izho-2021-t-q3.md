@@ -9,6 +9,7 @@ topic: [oscillations-and-waves, electromagnetism]
 subtopic: [wave-equation, dispersion, standing-waves, em-waves, conductors]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry, calculus]
 format: scaffolded
 core_ideas: []

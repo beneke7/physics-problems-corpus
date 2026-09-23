@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, magnetic-forces]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, vector-calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea3, kalda-thermo-idea18]

@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr108
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr108"
 origin: Kalda-handout

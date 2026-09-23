@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-lifting-by-current
+difficulty_level: 5
 source: nbpho
 native_id: "2012 P7 LIFTING BY CURRENT"
 year: 2012

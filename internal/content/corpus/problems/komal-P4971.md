@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, friction]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea8, kalda-mechanics-idea25]

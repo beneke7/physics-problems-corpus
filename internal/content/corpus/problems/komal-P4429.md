@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, thermal-expansion]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: open-ended
 core_ideas: []

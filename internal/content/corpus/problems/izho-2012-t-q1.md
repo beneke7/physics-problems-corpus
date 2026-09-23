@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [torque, tension, diodes, geometrical-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: null
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

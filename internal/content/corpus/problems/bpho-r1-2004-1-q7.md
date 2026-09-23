@@ -9,6 +9,7 @@ topic: [relativity]
 subtopic: [relativistic-energy-momentum, photon-energy]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

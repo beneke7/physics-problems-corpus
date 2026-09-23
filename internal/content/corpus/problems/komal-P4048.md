@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, work-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea7, kalda-mechanics-idea8, kalda-mechanics-idea39]

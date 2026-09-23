@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr76
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr76"
 origin: EstFin-2012

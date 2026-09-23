@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-optics, thin-films]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: []
 format: open-ended
 core_ideas: [kalda-waveoptics-idea1]

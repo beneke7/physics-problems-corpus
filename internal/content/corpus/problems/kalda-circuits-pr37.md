@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr37
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr37"
 origin: Kalda-handout

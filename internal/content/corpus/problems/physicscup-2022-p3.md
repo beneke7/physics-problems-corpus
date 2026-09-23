@@ -15,6 +15,7 @@ subtopic: [relativistic-propulsion, momentum-conservation, energy-mass-equivalen
 math_tools: [calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [conservation-laws, extremization, limiting-and-special-cases]
 has_solution: true

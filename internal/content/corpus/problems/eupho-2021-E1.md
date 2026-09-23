@@ -17,6 +17,7 @@ subtopic: [magnetostatics, compass-deflection, linearisation, least-squares]
 math_tools: [geometry-trigonometry, calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [graphical-reduction, scaling-and-dimensional-analysis]
 has_solution: true

@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, faraday, rotational-dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea2, kalda-mechanics-idea45]

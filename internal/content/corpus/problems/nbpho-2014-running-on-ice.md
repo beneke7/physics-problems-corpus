@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-running-on-ice
+difficulty_level: 2
 source: nbpho
 native_id: "2014 P6 RUNNING ON ICE"
 year: 2014

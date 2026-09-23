@@ -1,5 +1,6 @@
 ---
 id: eotvos-1999-falling-magnet
+difficulty_level: 5
 source: eotvos
 native_id: "1999 P3"
 year: 1999

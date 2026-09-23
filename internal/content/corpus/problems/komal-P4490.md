@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, work-energy, rotational-dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea40, kalda-mechanics-idea39]

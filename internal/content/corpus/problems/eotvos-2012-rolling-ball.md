@@ -1,5 +1,6 @@
 ---
 id: eotvos-2012-rolling-ball
+difficulty_level: 5
 source: eotvos
 native_id: "2012 P1"
 year: 2012

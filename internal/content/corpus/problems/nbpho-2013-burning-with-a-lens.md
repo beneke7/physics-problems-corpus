@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-burning-with-a-lens
+difficulty_level: 5
 source: nbpho
 native_id: "2013 P7 BURNING WITH A LENS"
 year: 2013

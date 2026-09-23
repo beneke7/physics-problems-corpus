@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [momentum, collisions]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: [kalda-mechanics-idea33, kalda-mechanics-idea43]

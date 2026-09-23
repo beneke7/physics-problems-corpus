@@ -1,5 +1,6 @@
 ---
 id: ipho-book-2000-q3
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 2000, 3. feladat."
 year: 2000

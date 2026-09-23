@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-rock-climber
+difficulty_level: 5
 source: nbpho
 native_id: "2005 P1 ROCK CLIMBER"
 year: 2005

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, centripetal-force, friction]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea40]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [friction, elasticity]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [lens-imaging, geometrical-optics, image-formation]
 math_tools: [geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, graphical-reduction]
 has_solution: true

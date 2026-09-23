@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear, fission-fusion, mass-defect, photon-energy]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: []

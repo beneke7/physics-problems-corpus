@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, adiabatic, processes]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: numerical
 core_ideas: []

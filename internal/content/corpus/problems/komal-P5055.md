@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-equation, standing-waves, energy-propagation]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-kinematics-idea44]

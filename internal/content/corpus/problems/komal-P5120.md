@@ -9,6 +9,7 @@ topic: [atomic-nuclear]
 subtopic: [radiation, absorption, penetration]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, probability-statistics]
 format: open-ended
 core_ideas: []

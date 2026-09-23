@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, processes, pressure]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2021-photon-rocket
+difficulty_level: 5
 source: nbpho
 native_id: "2021 P1 Photon Rocket"
 year: 2021

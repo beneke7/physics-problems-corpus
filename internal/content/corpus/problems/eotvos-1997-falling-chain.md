@@ -1,5 +1,6 @@
 ---
 id: eotvos-1997-falling-chain
+difficulty_level: 4
 source: eotvos
 native_id: "1997 P2"
 year: 1997

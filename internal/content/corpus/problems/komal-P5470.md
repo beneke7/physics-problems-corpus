@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [em-waves, radiation-pressure, optical-forces]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea18]

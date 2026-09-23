@@ -9,6 +9,7 @@ topic: [relativity, gravitation]
 subtopic: [time-dilation, gravitation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

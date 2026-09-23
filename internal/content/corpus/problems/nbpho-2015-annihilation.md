@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-annihilation"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P1 ANNIHILATION"
 year: 2015

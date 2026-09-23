@@ -17,6 +17,7 @@ subtopic: [black-box, refraction, diffraction-grating, polarization, lenses]
 math_tools: [geometry-trigonometry, numerical]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [strategic-heuristics, limiting-and-special-cases]
 has_solution: true

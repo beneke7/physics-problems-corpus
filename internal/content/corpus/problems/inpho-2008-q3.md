@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, non-inertial-frames]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

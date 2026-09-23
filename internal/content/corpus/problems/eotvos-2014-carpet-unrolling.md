@@ -1,5 +1,6 @@
 ---
 id: eotvos-2014-carpet-unrolling
+difficulty_level: 4
 source: eotvos
 native_id: "2014 P1"
 year: 2014

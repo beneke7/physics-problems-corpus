@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, work-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea58]

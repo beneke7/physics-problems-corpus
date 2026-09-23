@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-loop
+difficulty_level: 4
 source: nbpho
 native_id: "2017 P6 Loop"
 year: 2017

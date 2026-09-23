@@ -1,5 +1,6 @@
 ---
 id: eotvos-2006-spacecraft-dust
+difficulty_level: 3
 source: eotvos
 native_id: "2006 P2"
 year: 2006

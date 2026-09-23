@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, gauss-law, electric-field, potential]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-heat-flux
+difficulty_level: 3
 source: nbpho
 native_id: "2003 P2 HEAT FLUX"
 year: 2003

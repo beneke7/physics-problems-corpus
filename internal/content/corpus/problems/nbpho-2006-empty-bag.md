@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-empty-bag
+difficulty_level: 5
 source: nbpho
 native_id: "2006 P5 EMPTY BAG"
 year: 2006

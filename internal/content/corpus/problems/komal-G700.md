@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [phase-transitions, latent-heat]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-thermo-idea1, kalda-thermo-idea9]

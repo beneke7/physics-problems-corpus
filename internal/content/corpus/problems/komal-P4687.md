@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-kinematics-idea1]

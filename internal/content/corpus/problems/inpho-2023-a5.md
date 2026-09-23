@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [refraction, geometrical-optics, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry, calculus]
 format: experimental
 core_ideas: []

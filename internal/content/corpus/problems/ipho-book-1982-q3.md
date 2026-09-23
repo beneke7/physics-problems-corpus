@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1982-q3
+difficulty_level: 4
 source: ipho
 native_id: "IPhO 1982, 3. feladat."
 year: 1982

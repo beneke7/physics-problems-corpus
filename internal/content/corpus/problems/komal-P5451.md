@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, three-phase-power]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, series-complex]
 format: scaffolded
 core_ideas: [kalda-circuits-idea12, kalda-circuits-idea44]

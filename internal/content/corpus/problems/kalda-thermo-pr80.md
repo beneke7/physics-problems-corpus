@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr80
+difficulty_level: 2
 source: kalda
 native_id: "thermo pr80"
 origin: IPhO-1997

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [beats, doppler, sound-waves]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

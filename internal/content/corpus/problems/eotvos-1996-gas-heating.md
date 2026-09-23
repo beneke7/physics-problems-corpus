@@ -1,5 +1,6 @@
 ---
 id: eotvos-1996-gas-heating
+difficulty_level: 4
 source: eotvos
 native_id: "1996 P2"
 year: 1996

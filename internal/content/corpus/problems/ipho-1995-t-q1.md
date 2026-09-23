@@ -9,6 +9,7 @@ topic: [relativity, gravitation]
 subtopic: [gravitation, spectra, measurement, data-fitting, linearization]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea55]

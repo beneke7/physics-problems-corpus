@@ -1,5 +1,6 @@
 ---
 id: eotvos-2002-rotating-flask
+difficulty_level: 3
 source: eotvos
 native_id: "2002 P2"
 year: 2002

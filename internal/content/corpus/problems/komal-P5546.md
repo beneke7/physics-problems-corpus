@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [non-inertial-frames, rotating-reference]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea19, kalda-kinematics-idea33]

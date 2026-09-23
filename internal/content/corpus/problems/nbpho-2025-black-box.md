@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-black-box
+difficulty_level: 5
 source: nbpho
 native_id: "2025 P4 Black Box"
 year: 2025

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-elastic-collision
+difficulty_level: 4
 source: nbpho
 native_id: "2012 P8 ELASTIC COLLISION"
 year: 2012

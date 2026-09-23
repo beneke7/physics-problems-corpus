@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-temporal-focusing
+difficulty_level: 5
 source: nbpho
 native_id: "2007 P3 TEMPORAL FOCUSING"
 year: 2007

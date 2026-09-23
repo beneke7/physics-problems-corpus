@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: []
 difficulty: P
 difficulty_norm: 1
+difficulty_level: null
 math_tools: []
 format: open-ended
 core_ideas: []

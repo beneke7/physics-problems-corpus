@@ -15,6 +15,7 @@ subtopic: [diffraction, diffraction-grating, fourier-optics]
 math_tools: [geometry-trigonometry, series-complex]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [superposition, exploit-symmetry, limiting-and-special-cases]
 has_solution: false

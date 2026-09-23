@@ -1,5 +1,6 @@
 ---
 id: eotvos-2025-heated-cup
+difficulty_level: 2
 source: eotvos
 native_id: "2025 P1"
 year: 2025

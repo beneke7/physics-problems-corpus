@@ -9,6 +9,7 @@ topic: [relativity]
 subtopic: [time-dilation, lorentz-transform, velocity-addition]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

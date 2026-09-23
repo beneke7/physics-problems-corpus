@@ -17,6 +17,7 @@ subtopic: [diffraction, gratings, laser, sinusoidal-patterns]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-waveoptics-idea1]
 techniques: [graphical-reduction, limiting-and-special-cases, scaling-and-dimensional-analysis]
 has_solution: true

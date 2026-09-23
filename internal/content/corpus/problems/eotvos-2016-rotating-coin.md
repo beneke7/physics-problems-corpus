@@ -1,5 +1,6 @@
 ---
 id: eotvos-2016-rotating-coin
+difficulty_level: 5
 source: eotvos
 native_id: "2016 P1"
 year: 2016

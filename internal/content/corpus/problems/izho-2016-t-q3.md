@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, rc-transients, ac-circuits, current]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

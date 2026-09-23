@@ -1,5 +1,6 @@
 ---
 id: eotvos-2005-transformer-circuit
+difficulty_level: 3
 source: eotvos
 native_id: "2005 P3"
 year: 2005

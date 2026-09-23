@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, collisions]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

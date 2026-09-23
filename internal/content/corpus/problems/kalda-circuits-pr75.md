@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr75
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr75"
 origin: Kalda-handout

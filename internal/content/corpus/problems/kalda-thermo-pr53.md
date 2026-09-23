@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr53
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr53"
 origin: Kalda-handout

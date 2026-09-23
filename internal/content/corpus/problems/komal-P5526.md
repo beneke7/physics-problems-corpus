@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, circular-motion]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea4, kalda-kinematics-idea34]

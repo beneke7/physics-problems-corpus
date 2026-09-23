@@ -1,5 +1,6 @@
 ---
 id: kalda-waveoptics-pr19
+difficulty_level: null
 source: kalda
 native_id: "waveoptics pr19"
 origin: PhysCup-2012

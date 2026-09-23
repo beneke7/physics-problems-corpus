@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, potential, coulomb-force, electric-field]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [series-complex]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea15]

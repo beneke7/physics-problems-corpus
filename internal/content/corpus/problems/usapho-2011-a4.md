@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [photon-energy, blackbody, electric-field, wave-equation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [rigid-body, rotational-dynamics, newton-laws]
 math_tools: [linear-algebra, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [smart-coordinates, conservation-laws, model-reduction]
 has_solution: true

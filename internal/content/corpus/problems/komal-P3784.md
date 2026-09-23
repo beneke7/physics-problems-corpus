@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: numerical
 core_ideas: [kalda-thermo-idea1]

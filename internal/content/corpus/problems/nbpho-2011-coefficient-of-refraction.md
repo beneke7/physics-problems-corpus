@@ -1,5 +1,6 @@
 ---
 id: nbpho-2011-coefficient-of-refraction
+difficulty_level: 3
 source: nbpho
 year: 2011
 native_id: "2011 P9 Coefficient of Refraction"

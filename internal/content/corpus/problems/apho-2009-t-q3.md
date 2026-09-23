@@ -9,6 +9,7 @@ topic: [thermodynamics, fluids]
 subtopic: [phase-transitions, heat-transfer, convection, pressure]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

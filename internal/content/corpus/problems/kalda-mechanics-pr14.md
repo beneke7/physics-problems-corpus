@@ -1,5 +1,6 @@
 ---
 id: kalda-mechanics-pr14
+difficulty_level: 5
 source: kalda
 native_id: "mechanics pr14"
 origin: Kalda-handout

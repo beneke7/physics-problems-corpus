@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-optics, energy-transfer, heat-transfer]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 2
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-thermo-idea1]

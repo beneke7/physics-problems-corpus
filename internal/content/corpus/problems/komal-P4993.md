@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, orbits, kinematics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea44, kalda-mechanics-idea39]

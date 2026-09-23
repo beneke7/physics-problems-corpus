@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [nuclear, radioactivity, capacitance, gauss-law, electric-field]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

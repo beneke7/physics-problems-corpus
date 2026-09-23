@@ -9,6 +9,7 @@ topic: [thermodynamics, experimental-skills]
 subtopic: [radiation, heat-transfer, measurement, experimental-design]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: experimental
 core_ideas: []

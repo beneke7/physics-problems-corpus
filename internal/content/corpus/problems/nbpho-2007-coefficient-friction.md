@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-coefficient-friction
+difficulty_level: 3
 source: nbpho
 native_id: "2007 P4 COEFFICIENT OF FRICTION"
 year: 2007

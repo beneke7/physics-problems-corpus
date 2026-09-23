@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [buoyancy, hydrostatics, pressure]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea4, kalda-mechanics-idea39]

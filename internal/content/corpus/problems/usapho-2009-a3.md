@@ -9,6 +9,7 @@ topic: [gravitation, oscillations-and-waves]
 subtopic: [gravitation, orbits, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: []
 format: open-ended
 core_ideas: [kalda-thermo-idea10]

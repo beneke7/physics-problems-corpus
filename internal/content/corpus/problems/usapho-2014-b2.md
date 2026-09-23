@@ -9,6 +9,7 @@ topic: [electromagnetism, relativity]
 subtopic: [electric-field, magnetic-field, current]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: []

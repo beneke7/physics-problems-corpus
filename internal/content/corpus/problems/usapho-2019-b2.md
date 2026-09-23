@@ -9,6 +9,7 @@ topic: [thermodynamics, gravitation]
 subtopic: [blackbody, planck-law, doppler, orbits, radiation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [geometry-trigonometry, dimensional-analysis]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, lever-systems, forces]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: [kalda-mechanics-idea2]

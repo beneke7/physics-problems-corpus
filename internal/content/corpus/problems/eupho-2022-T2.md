@@ -17,6 +17,7 @@ subtopic: [relaxation-oscillations, rl-circuit, phase-transition, heat-transfer]
 math_tools: [differential-equations, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-circuits-idea16]
 techniques: [differential-element, limiting-and-special-cases]
 has_solution: true

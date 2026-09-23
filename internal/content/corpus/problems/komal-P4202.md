@@ -9,6 +9,7 @@ topic: [quantum-physics, experimental-skills]
 subtopic: [radioactivity, data-fitting]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [probability-statistics]
 format: numerical
 core_ideas: []

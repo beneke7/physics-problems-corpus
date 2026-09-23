@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics, non-inertial-frames]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [calculus]
 format: numerical
 core_ideas: []

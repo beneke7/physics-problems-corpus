@@ -1,5 +1,6 @@
 ---
 id: "kevin-zhou-m3-p028"
+difficulty_level: null
 source: "kevin-zhou"
 native_id: "KZ-M3-P028"
 origin: "Kevin Zhou Physics Olympiad Handouts"

@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [bohr-model, energy-levels, magnetic-field]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

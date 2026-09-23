@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [oscillations-mechanical, friction, momentum]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

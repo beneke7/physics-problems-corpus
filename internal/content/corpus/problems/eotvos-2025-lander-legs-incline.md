@@ -1,5 +1,6 @@
 ---
 id: eotvos-2025-lander-legs-incline
+difficulty_level: 4
 source: eotvos
 native_id: "2025 P2"
 year: 2025

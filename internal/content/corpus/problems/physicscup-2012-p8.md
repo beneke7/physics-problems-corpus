@@ -15,6 +15,7 @@ subtopic: [diffraction, wave-optics, geometrical-optics]
 math_tools: [dimensional-analysis, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases]
 has_solution: true

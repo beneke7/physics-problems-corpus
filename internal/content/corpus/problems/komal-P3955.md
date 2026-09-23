@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, entropy]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9, kalda-thermo-idea21]

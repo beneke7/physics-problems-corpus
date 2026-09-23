@@ -15,6 +15,7 @@ subtopic: [heat-conduction, transient-diffusion, thermal-time-scales]
 math_tools: [calculus, differential-equations, dimensional-analysis]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, differential-element, model-reduction]
 has_solution: true

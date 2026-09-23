@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-zener
+difficulty_level: 5
 source: nbpho
 native_id: "2017 P7 Zener"
 year: 2017

@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr23
+difficulty_level: null
 source: kalda
 native_id: "thermo pr23"
 origin: Kalda-handout

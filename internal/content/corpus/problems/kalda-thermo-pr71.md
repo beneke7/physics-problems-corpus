@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr71
+difficulty_level: 2
 source: kalda
 native_id: "thermo pr71"
 origin: IPhO-2006

@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr55
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr55"
 origin: Kalda-handout

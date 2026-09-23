@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [friction, work-energy, force-balance]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea56]

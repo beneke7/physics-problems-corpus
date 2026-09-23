@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, current-distribution, conical-geometry]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [vector-calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

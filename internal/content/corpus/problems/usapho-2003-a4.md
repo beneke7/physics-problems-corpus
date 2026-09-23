@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, adiabatic-processes, heat-engines, efficiency]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

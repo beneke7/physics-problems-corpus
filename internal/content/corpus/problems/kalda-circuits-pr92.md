@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr92
+difficulty_level: 4
 source: kalda
 native_id: "circuits pr92"
 origin: IPhO-1987

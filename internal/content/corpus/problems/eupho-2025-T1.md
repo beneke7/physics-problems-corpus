@@ -17,6 +17,7 @@ subtopic: [reflection, illuminance, caustics]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [model-reduction, exploit-symmetry]
 has_solution: true

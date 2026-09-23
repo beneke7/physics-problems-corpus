@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-gear-shift"
+difficulty_level: 3
 source: "nbpho"
 native_id: "2015 P3"
 year: 2015

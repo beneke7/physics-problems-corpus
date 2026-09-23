@@ -9,6 +9,7 @@ topic: [relativity, quantum-physics]
 subtopic: [relativistic-energy-momentum, atomic-structure, spectra]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

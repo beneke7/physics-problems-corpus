@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-airplanes
+difficulty_level: 3
 source: nbpho
 native_id: "2024 P8 Airplanes"
 year: 2024

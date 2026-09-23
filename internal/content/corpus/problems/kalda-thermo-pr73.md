@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr73
+difficulty_level: null
 source: kalda
 native_id: "thermo pr73"
 origin: WoPhO-2012

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [doppler, radar, velocity]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

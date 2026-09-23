@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-brachistochrone
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P5 Brachistochrone"
 year: 2019

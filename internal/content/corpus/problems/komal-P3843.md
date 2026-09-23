@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [non-inertial-frames, statics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea9, kalda-mechanics-idea19, kalda-mechanics-idea15]

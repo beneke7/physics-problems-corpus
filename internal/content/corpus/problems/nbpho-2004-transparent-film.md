@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-transparent-film
+difficulty_level: 3
 source: nbpho
 native_id: "2004 P4 TRANSPARENT FILM"
 year: 2004

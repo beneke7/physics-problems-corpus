@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [orbits]
 difficulty: G
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: [kalda-kinematics-idea4]

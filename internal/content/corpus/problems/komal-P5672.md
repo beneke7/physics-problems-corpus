@@ -9,6 +9,7 @@ topic: [mechanics, astrophysics]
 subtopic: [gravitation, orbits, geometry]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-kinematics-idea30]

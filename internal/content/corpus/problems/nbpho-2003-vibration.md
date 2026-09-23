@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-vibration
+difficulty_level: 5
 source: nbpho
 native_id: "2003 P5 VIBRATION"
 year: 2003

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electric-field, magnetic-field, induction, energy-conservation]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: []

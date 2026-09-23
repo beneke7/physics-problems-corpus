@@ -1,5 +1,6 @@
 ---
 id: kalda-mechanics-pr70
+difficulty_level: 3
 source: kalda
 native_id: "mechanics pr70"
 origin: Kalda-handout

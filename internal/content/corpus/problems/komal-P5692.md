@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes, first-law, internal-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea23, kalda-thermo-idea22]

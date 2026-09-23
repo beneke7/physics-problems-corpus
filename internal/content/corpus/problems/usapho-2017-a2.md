@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-engines, efficiency, entropy, first-law]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

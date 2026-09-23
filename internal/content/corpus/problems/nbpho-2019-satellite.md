@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-satellite
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P1 Satellite"
 year: 2019

@@ -15,6 +15,7 @@ subtopic: [surface-energy, crystal-facets, step-interactions]
 math_tools: [calculus]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [extremization, differential-element, scaling-and-dimensional-analysis]
 has_solution: false

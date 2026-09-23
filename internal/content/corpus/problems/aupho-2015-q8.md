@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, non-inertial-frames]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 1
 math_tools: []
 format: numerical
 core_ideas: [kalda-kinematics-idea5]

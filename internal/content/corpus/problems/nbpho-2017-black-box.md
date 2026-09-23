@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-black-box
+difficulty_level: 5
 source: nbpho
 native_id: "2017 P10 Black Box"
 year: 2017

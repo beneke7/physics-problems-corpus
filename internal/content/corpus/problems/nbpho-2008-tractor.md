@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-tractor
+difficulty_level: 3
 source: nbpho
 native_id: "2008 P3 TRACTOR"
 year: 2008

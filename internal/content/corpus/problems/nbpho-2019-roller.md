@@ -1,5 +1,6 @@
 ---
 id: nbpho-2019-roller
+difficulty_level: 5
 source: nbpho
 native_id: "2019 P2 Roller"
 year: 2019

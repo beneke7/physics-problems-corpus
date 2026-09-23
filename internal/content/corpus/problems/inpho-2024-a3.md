@@ -9,6 +9,7 @@ topic: [gravitation]
 subtopic: [orbits, kepler, variable-mass]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: numerical
 core_ideas: []

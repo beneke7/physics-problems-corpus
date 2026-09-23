@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [fluids, measurement]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [dimensional-analysis]
 format: measurement
 core_ideas: []

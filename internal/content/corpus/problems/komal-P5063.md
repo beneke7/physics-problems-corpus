@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, kirchhoff]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [linear-algebra, calculus]
 format: open-ended
 core_ideas: [kalda-circuits-idea4, kalda-circuits-idea5]

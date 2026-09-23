@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [driven-damped-shm, resonance]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea15]

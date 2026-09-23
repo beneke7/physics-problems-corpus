@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr53
+difficulty_level: 4
 source: kalda
 native_id: "kinematics pr53"
 origin: Kalda-handout

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2007-glass-plates-water-capillary
+difficulty_level: 5
 source: eotvos
 native_id: "2007 P1"
 year: 2007

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, capacitance, rc-transients]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

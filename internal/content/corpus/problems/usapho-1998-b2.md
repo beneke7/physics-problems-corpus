@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [atomic-structure, nuclear, photon-energy, relativistic-energy-momentum, coulomb-force]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [adiabatic-invariants, landau-levels, magnetization]
 math_tools: [calculus, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [limiting-and-special-cases, conservation-laws, model-reduction]
 has_solution: false

@@ -1,5 +1,6 @@
 ---
 id: eotvos-1999-fighter-plane-sound
+difficulty_level: 4
 source: eotvos
 native_id: "1999 P1"
 year: 1999

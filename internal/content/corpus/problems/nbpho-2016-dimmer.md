@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-dimmer
+difficulty_level: 4
 source: nbpho
 native_id: "2016 P4 DIMMER"
 year: 2016

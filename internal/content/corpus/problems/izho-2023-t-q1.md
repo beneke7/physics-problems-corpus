@@ -9,6 +9,7 @@ topic: [thermodynamics, electromagnetism]
 subtopic: [processes, work-heat, ac-circuits, impedance, capacitance, doppler]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

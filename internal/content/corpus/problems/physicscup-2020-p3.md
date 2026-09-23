@@ -15,6 +15,7 @@ subtopic: [pendulum, tension-breaking, circular-motion]
 math_tools: [calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: []
 techniques: [conservation-laws, limiting-and-special-cases, stability-analysis]
 has_solution: false

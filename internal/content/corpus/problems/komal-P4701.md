@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [rotational-dynamics, lorentz-force, rolling]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea33, kalda-mechanics-idea45]

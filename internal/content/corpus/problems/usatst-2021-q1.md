@@ -9,6 +9,7 @@ topic: [mechanics, fluids, experimental-skills]
 subtopic: [drag, relative-motion, measurement, uncertainty-propagation, data-fitting, linearization]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry, probability-statistics]
 format: scaffolded
 core_ideas: []

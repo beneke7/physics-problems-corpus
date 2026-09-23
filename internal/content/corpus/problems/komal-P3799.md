@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [geometry-trigonometry, vector-calculus]
 format: numerical
 core_ideas: []

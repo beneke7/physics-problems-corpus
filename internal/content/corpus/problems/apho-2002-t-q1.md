@@ -9,6 +9,7 @@ topic: [oscillations-and-waves, quantum-physics]
 subtopic: [normal-modes, coupled-oscillators, wave-equation, specific-heat]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-music
+difficulty_level: 5
 source: nbpho
 native_id: "2016 P3 MUSIC"
 year: 2016

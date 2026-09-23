@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr42
+difficulty_level: 5
 source: kalda
 native_id: "kinematics pr42"
 origin: Kalda-handout

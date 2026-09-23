@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-spin-system
+difficulty_level: 3
 source: nbpho
 native_id: "2014 P7 SPIN SYSTEM"
 year: 2014

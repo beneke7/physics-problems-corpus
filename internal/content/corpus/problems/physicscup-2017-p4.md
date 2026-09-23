@@ -15,6 +15,7 @@ subtopic: [geometrical-optics, image-reconstruction, projective-geometry]
 math_tools: [geometry-trigonometry, numerical]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [graphical-reduction, exploit-symmetry, auxiliary-unknowns]
 has_solution: false

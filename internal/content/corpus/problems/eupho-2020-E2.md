@@ -17,6 +17,7 @@ subtopic: [coupled-oscillators, spring-mass, parameter-estimation, simulation]
 math_tools: [differential-equations, calculus, probability-statistics]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [superposition, scaling-and-dimensional-analysis]
 has_solution: true

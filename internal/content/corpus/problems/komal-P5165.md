@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [center-of-mass, geometry, infinite-series]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry, series-complex]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea35]

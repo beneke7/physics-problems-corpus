@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, potential, numerical-analysis]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: [probability-statistics]
 format: numerical
 core_ideas: []

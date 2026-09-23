@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [center-of-mass, density]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: null
 math_tools: []
 format: scaffolded
 core_ideas: []

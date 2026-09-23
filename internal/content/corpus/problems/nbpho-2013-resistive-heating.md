@@ -1,5 +1,6 @@
 ---
 id: nbpho-2013-resistive-heating
+difficulty_level: 3
 source: nbpho
 native_id: "2013 P10 RESISTIVE HEATING"
 year: 2013

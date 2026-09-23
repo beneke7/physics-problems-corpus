@@ -1,5 +1,6 @@
 ---
 id: eotvos-2013-flexible-wire
+difficulty_level: 5
 source: eotvos
 native_id: "2013 P3"
 year: 2013

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [circular-motion, work-energy]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: []
 format: scaffolded
 core_ideas: []

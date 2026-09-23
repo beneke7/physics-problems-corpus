@@ -1,5 +1,6 @@
 ---
 id: "kevin-zhou-m7-ex010"
+difficulty_level: 1
 source: "kevin-zhou"
 native_id: "KZ-M7-EX010"
 origin: "Kevin Zhou Physics Olympiad Handouts"

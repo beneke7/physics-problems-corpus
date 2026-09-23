@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

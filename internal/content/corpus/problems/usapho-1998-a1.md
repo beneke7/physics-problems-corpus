@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, processes, work-heat, entropy, heat-engines, efficiency]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: []
 format: scaffolded
 core_ideas: []

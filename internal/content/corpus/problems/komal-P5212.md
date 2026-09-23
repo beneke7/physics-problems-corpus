@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, pendulum, energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea12]

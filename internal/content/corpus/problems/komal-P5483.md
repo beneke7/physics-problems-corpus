@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rigid-body, momentum-conservation, rotational-dynamics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea45]

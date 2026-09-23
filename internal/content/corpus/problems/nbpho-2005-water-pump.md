@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-water-pump
+difficulty_level: 4
 source: nbpho
 native_id: "2005 P4 WATER PUMP"
 year: 2005

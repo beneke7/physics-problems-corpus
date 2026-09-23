@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr65
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr65"
 origin: EstFin-2011

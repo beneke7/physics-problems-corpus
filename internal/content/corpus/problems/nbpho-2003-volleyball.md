@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-volleyball
+difficulty_level: 5
 source: nbpho
 native_id: "2003 P1 VOLLEYBALL"
 year: 2003

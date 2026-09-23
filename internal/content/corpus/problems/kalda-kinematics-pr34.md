@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr34
+difficulty_level: 4
 source: kalda
 native_id: "kinematics pr34"
 origin: Kalda-handout

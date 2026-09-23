@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [interference, wave-optics]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 1
 math_tools: []
 format: scaffolded
 core_ideas: []

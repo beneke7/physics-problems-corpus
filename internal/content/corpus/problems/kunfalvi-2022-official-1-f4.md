@@ -10,6 +10,7 @@ subtopic: [collisions, momentum, relativistic-energy-momentum, photon-energy]
 math_tools: [algebra, geometry-trigonometry]
 format: scaffolded
 difficulty_norm: 4
+difficulty_level: 4
 core_ideas: []
 estimated_time_min: 25
 points: null

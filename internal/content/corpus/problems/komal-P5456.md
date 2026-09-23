@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rolling-motion, friction, inclined-plane, forces]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea2, kalda-mechanics-idea6]

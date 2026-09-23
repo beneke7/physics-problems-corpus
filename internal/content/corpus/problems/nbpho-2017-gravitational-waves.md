@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-gravitational-waves
+difficulty_level: 5
 source: nbpho
 native_id: "2017 P4 Gravitational Waves"
 year: 2017

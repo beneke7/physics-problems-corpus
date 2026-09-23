@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, dynamics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea45]

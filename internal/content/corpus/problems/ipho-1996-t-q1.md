@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [dc-circuits, friction, work-energy, radiation, magnetic-field]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

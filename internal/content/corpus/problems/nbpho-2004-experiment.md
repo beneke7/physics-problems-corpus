@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-experiment
+difficulty_level: 5
 source: nbpho
 native_id: "2004 P9 EXPERIMENT"
 year: 2004

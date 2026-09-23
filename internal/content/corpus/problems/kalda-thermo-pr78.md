@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr78
+difficulty_level: null
 source: kalda
 native_id: "thermo pr78"
 origin: EstPhO-2010

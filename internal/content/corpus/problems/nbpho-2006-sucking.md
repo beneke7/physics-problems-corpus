@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-sucking
+difficulty_level: 5
 source: nbpho
 native_id: "2006 P3 SUCKING"
 year: 2006

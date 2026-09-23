@@ -9,6 +9,7 @@ topic: [experimental-skills, thermodynamics]
 subtopic: [measurement, humidity]
 difficulty: M
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: []
 format: measurement
 core_ideas: []

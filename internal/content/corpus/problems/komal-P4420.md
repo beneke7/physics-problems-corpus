@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, impedance, inductance]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: []
 format: numerical
 core_ideas: [kalda-circuits-idea44, kalda-circuits-idea52]

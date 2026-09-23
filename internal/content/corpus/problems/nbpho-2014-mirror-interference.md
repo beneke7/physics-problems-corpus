@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-mirror-interference
+difficulty_level: 4
 source: nbpho
 native_id: "2014 P8 MIRROR INTERFERENCE"
 year: 2014

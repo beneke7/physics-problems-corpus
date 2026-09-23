@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [interference]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

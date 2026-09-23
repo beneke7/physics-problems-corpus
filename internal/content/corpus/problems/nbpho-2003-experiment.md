@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-experiment
+difficulty_level: 4
 source: nbpho
 native_id: "2003 P8 EXPERIMENT"
 year: 2003

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, newton-laws]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: null
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea1, kalda-mechanics-idea5]

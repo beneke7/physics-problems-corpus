@@ -9,6 +9,7 @@ topic: [relativity, electromagnetism]
 subtopic: [relativistic-energy-momentum, refraction, lorentz-force, magnetic-field]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

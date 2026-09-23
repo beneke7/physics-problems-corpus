@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: []
 format: open-ended
 core_ideas: []

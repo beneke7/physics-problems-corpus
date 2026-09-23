@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, statics, collisions]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea64]

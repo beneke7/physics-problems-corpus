@@ -15,6 +15,7 @@ subtopic: [buoyancy-and-drag, falling-bodies]
 math_tools: [differential-equations, calculus]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [conservation-laws, differential-element]
 has_solution: true

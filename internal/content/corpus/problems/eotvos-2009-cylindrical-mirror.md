@@ -1,5 +1,6 @@
 ---
 id: eotvos-2009-cylindrical-mirror
+difficulty_level: 4
 source: eotvos
 native_id: "2009 P2"
 year: 2009

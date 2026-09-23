@@ -9,6 +9,7 @@ topic: [electromagnetism, quantum-physics]
 subtopic: [magnetic-field, induction, inductance, current, energy-levels]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [dimensional-analysis, calculus]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr90
+difficulty_level: 6
 source: kalda
 native_id: "circuits pr90"
 origin: IPhO-1983

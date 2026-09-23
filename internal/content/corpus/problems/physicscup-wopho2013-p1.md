@@ -15,6 +15,7 @@ subtopic: [capacitor-networks, circuit-symmetry, lattice-networks]
 math_tools: [linear-algebra, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, superposition, cross-domain-analogy, graphical-reduction]
 has_solution: true

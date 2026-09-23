@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [linear-algebra]
 format: scaffolded
 core_ideas: [kalda-circuits-idea1, kalda-circuits-idea5]

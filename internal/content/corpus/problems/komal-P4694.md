@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [humidity, saturated-vapor-pressure]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, probability-statistics]
 format: open-ended
 core_ideas: []

@@ -15,6 +15,7 @@ subtopic: [statics, friction, rigid-body]
 math_tools: [geometry-trigonometry, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 3
 core_ideas: []
 techniques: [exploit-symmetry, choose-reference-frame, limiting-and-special-cases, smart-coordinates]
 has_solution: true

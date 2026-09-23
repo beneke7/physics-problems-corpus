@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr61
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr61"
 origin: EstFin-2010

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2020-drone
+difficulty_level: 5
 source: nbpho
 native_id: "2020 P4 DRONE"
 year: 2020

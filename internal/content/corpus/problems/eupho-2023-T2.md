@@ -17,6 +17,7 @@ subtopic: [friction, steady-state, kinematics]
 math_tools: [geometry-trigonometry, vector-calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 4
 core_ideas: [kalda-mechanics-idea6]
 techniques: [choose-reference-frame, conservation-laws]
 has_solution: true

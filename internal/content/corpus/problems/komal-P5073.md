@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [electrostatics, kinematics, energy]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea45]

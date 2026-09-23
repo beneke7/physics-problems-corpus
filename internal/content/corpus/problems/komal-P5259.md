@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [calorimetry, work-heat, energy-conversion]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea4]

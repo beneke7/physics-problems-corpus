@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr3
+difficulty_level: null
 source: kalda
 native_id: "thermo pr3"
 origin: EstPhO-2001

@@ -1,5 +1,6 @@
 ---
 id: eotvos-1998-curvature-variometer
+difficulty_level: 5
 source: eotvos
 native_id: "1998 P1"
 year: 1998

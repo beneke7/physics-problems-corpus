@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-loop-of-wire
+difficulty_level: 3
 source: nbpho
 native_id: "2004 P8 LOOP OF WIRE"
 year: 2004

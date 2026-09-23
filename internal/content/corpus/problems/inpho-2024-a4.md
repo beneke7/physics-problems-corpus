@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, inductance, magnetic-field, force-balance]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: []

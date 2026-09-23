@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-black-box
+difficulty_level: 5
 source: nbpho
 year: 2009
 native_id: "2009 P4 BLACK BOX"

@@ -17,6 +17,7 @@ subtopic: [electric-dipole, magnetic-force, rigid-body-dynamics, pendulum-analog
 math_tools: [vector-calculus, differential-equations, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: [kalda-mechanics-idea45, kalda-mechanics-idea39]
 techniques: [conservation-laws, cross-domain-analogy]
 has_solution: true

@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [dimensional-analysis]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: []
 format: numerical
 core_ideas: []

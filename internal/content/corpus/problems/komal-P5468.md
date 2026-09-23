@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [sound, momentum-transfer, wave-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea18]

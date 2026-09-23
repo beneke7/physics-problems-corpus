@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, processes, phase-transitions, pressure, first-law]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-thermo-idea7, kalda-thermo-idea17]

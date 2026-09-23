@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [solid-state, electric-field, current]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

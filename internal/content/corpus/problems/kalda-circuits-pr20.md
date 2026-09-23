@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr20
+difficulty_level: 6
 source: kalda
 native_id: "circuits pr20"
 origin: Kalda-handout

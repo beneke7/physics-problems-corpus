@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [pair-production, mass-energy, relativistic-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

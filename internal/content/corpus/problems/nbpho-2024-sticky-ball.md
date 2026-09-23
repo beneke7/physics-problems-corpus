@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-sticky-ball
+difficulty_level: 5
 source: nbpho
 native_id: "2024 P3 Sticky ball"
 year: 2024

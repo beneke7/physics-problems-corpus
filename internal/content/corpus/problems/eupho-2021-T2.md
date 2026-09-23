@@ -17,6 +17,7 @@ subtopic: [friction, rope-and-thread, 3d-geometry, differential-equations]
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [differential-element, choose-reference-frame]
 has_solution: true

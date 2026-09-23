@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, calorimetry, latent-heat, first-law]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [dimensional-analysis]
 format: numerical
 core_ideas: []

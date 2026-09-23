@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, circular-motion, force-analysis]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

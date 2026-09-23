@@ -9,6 +9,7 @@ topic: [thermodynamics, relativity]
 subtopic: [blackbody, doppler, efficiency, heat-engines]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

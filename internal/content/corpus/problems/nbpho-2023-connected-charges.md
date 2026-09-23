@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-connected-charges
+difficulty_level: 4
 source: nbpho
 native_id: "2023 P8 Connected charges"
 year: 2023

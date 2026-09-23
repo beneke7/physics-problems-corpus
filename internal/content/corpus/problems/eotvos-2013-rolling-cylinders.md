@@ -1,5 +1,6 @@
 ---
 id: eotvos-2013-rolling-cylinders
+difficulty_level: 4
 source: eotvos
 native_id: "2013 P1"
 year: 2013

@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1975-q3
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1975, 3. feladat."
 year: 1975

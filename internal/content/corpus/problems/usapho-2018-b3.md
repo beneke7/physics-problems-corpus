@@ -9,6 +9,7 @@ topic: [gravitation, electromagnetism]
 subtopic: [radiation-pressure, gravitation, orbits, circular-motion, angular-momentum, torque]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

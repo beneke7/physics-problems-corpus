@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [lorentz-force, current, magnetic-field, projectile-motion]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, numerical]
 format: scaffolded
 core_ideas: []

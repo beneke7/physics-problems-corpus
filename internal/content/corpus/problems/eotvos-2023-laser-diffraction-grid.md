@@ -1,5 +1,6 @@
 ---
 id: eotvos-2023-laser-diffraction-grid
+difficulty_level: 4
 source: eotvos
 native_id: "2023 P3"
 year: 2023

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, relative-motion, projectile]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea1, kalda-kinematics-idea19]

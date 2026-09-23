@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea33, kalda-mechanics-idea39]

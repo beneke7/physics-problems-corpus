@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, friction]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: []

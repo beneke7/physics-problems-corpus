@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, gravitation]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39]

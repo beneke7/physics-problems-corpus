@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr21
+difficulty_level: 4
 source: kalda
 native_id: "kinematics pr21"
 origin: Kalda-handout

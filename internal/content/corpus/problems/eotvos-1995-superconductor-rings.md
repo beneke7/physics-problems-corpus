@@ -1,5 +1,6 @@
 ---
 id: eotvos-1995-superconductor-rings
+difficulty_level: 3
 source: eotvos
 native_id: "1995 P2"
 year: 1995

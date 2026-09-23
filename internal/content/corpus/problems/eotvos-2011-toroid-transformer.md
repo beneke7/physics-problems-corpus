@@ -1,5 +1,6 @@
 ---
 id: eotvos-2011-toroid-transformer
+difficulty_level: 4
 source: eotvos
 native_id: "2011 P3"
 year: 2011

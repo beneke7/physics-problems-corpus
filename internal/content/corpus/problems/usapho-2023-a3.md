@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, heat-engines, efficiency, phase-transitions, latent-heat]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2008-charged-spheres
+difficulty_level: 4
 source: eotvos
 native_id: "2008 P3"
 year: 2008

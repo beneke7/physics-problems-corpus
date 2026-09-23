@@ -1,5 +1,6 @@
 ---
 id: nbpho-2003-charged-particle
+difficulty_level: 6
 source: nbpho
 native_id: "2003 P6 CHARGED PARTICLE"
 year: 2003

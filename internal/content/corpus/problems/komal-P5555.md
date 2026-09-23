@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, friction, momentum]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea43]

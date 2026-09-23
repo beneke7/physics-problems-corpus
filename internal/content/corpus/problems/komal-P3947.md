@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, rotational-dynamics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea62, kalda-mechanics-idea39, kalda-mechanics-idea53]

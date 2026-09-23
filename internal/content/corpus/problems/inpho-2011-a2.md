@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [interference, wave-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

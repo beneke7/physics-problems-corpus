@@ -17,6 +17,7 @@ subtopic: [knudsen-diffusion, thin-film-interference, birefringence, refractive-
 math_tools: [calculus, geometry-trigonometry, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [differential-element, graphical-reduction]
 has_solution: true

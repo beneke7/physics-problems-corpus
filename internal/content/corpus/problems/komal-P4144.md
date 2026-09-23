@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [measurement]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 3
 math_tools: []
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2017-glass-sphere-cooling
+difficulty_level: 4
 source: eotvos
 native_id: "2017 P3"
 year: 2017

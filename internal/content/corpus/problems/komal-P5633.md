@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [geometrical-optics, radiation-pressure]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

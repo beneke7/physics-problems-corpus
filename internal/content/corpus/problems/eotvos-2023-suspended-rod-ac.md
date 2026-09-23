@@ -1,5 +1,6 @@
 ---
 id: eotvos-2023-suspended-rod-ac
+difficulty_level: 5
 source: eotvos
 native_id: "2023 P2"
 year: 2023

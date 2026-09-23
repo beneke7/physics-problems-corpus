@@ -1,5 +1,6 @@
 ---
 id: nbpho-2012-diffraction-grating
+difficulty_level: 3
 source: nbpho
 native_id: "2012 P5 DIFFRACTION GRATING"
 year: 2012

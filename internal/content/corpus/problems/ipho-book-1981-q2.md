@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1981-q2
+difficulty_level: 3
 source: ipho
 native_id: "IPhO 1981, 2. feladat."
 year: 1981

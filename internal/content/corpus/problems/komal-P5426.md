@@ -9,6 +9,7 @@ topic: [relativity]
 subtopic: [relativistic-energy-momentum, mass-energy, rocket-equation]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: []

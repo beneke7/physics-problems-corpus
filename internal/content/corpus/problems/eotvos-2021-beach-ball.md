@@ -1,5 +1,6 @@
 ---
 id: eotvos-2021-beach-ball
+difficulty_level: 5
 source: eotvos
 native_id: "2021 P3"
 year: 2021

@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-transfer, radiation]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: []
 format: open-ended
 core_ideas: []

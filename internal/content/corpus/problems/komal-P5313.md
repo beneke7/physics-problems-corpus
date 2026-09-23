@@ -9,6 +9,7 @@ topic: [quantum-physics, relativity]
 subtopic: [mass-energy, relativistic-energy-momentum]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves, experimental-skills]
 subtopic: [oscillations-mechanical, measurement, data-fitting]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [differential-equations, probability-statistics]
 format: experimental
 core_ideas: []

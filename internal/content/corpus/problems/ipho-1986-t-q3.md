@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [normal-modes, coupled-oscillators, oscillations-mechanical, standing-waves]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [differential-equations, linear-algebra]
 format: scaffolded
 core_ideas: []

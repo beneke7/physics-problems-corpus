@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-holographic-lens"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P2"
 year: 2015

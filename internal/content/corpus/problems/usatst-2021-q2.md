@@ -9,6 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [magnetic-field, current, resonance, inductance, temperature]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [calculus, differential-equations, dimensional-analysis]
 format: scaffolded
 core_ideas: []

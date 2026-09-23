@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1988-q1
+difficulty_level: 4
 source: ipho
 native_id: "IPhO 1988, 1. feladat."
 year: 1988

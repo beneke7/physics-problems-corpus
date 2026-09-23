@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction, faraday, time-varying-fields]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-circuits-idea12, kalda-waveoptics-idea1]

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2007-autotransformer-induction
+difficulty_level: 4
 source: eotvos
 native_id: "2007 P4"
 year: 2007

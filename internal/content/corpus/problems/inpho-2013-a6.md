@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, orbits, angular-momentum, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea48, kalda-mechanics-idea50]

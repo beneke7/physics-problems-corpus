@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [equilibrium, force-balance, coulomb-force, oscillations-mechanical, stability]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

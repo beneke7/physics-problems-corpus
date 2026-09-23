@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [coulomb-force, measurement]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [probability-statistics]
 format: experimental
 core_ideas: []

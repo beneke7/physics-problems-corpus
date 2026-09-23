@@ -1,5 +1,6 @@
 ---
 id: eotvos-2010-charged-disks
+difficulty_level: 5
 source: eotvos
 native_id: "2010 P3"
 year: 2010

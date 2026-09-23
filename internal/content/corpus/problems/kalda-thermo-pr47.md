@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr47
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr47"
 origin: EstPhO-2001

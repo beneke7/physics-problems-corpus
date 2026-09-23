@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr12
+difficulty_level: 3
 source: kalda
 native_id: "circuits pr12"
 origin: EstPhO-2012

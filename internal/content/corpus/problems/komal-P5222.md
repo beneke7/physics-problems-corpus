@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, energy, momentum]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea12]

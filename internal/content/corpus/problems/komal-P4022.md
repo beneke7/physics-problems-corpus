@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea53, kalda-kinematics-idea12]

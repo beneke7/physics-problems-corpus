@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, circular-motion, non-inertial-frames]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea24, kalda-mechanics-idea8]

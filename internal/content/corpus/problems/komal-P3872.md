@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction, inductance]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-circuits-idea43, kalda-circuits-idea39]

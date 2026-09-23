@@ -1,5 +1,6 @@
 ---
 id: kalda-mechanics-pr80
+difficulty_level: 4
 source: kalda
 native_id: "mechanics pr80"
 origin: Kalda-handout

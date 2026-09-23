@@ -9,6 +9,7 @@ topic: []
 subtopic: []
 difficulty: P
 difficulty_norm: null
+difficulty_level: null
 math_tools: []
 format: measurement
 core_ideas: []

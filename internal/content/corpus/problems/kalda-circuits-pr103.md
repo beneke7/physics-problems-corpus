@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr103
+difficulty_level: 5
 source: kalda
 native_id: "circuits pr103"
 origin: IPhO-2014

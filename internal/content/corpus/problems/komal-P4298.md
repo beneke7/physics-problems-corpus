@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea46, kalda-mechanics-idea45, kalda-kinematics-idea36]

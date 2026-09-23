@@ -9,6 +9,7 @@ topic: [gravitation, mechanics]
 subtopic: [orbits, momentum, energy-conservation]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

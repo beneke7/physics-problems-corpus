@@ -1,5 +1,6 @@
 ---
 id: nbpho-2009-magnetic-pulse
+difficulty_level: 6
 source: nbpho
 year: 2009
 native_id: "2009 P8 MAGNETIC PULSE"

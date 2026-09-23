@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, optimization, kinematics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-mechanics-idea44]

@@ -17,6 +17,7 @@ subtopic: [piezoelectricity, capacitance, collisions, rc-discharge]
 math_tools: [calculus, numerical, probability-statistics, dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-mechanics-idea53]
 techniques: [model-reduction, scaling-and-dimensional-analysis]
 has_solution: true

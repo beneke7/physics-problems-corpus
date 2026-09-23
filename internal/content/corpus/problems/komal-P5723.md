@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rigid-body, kinematics, constraints]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

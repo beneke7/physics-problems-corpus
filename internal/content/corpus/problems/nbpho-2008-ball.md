@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-ball
+difficulty_level: 3
 source: nbpho
 native_id: "2008 P5 BALL"
 year: 2008

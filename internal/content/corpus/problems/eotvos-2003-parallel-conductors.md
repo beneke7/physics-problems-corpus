@@ -1,5 +1,6 @@
 ---
 id: eotvos-2003-parallel-conductors
+difficulty_level: 4
 source: eotvos
 native_id: "2003 P2"
 year: 2003

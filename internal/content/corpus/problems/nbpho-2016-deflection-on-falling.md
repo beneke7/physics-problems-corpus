@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-deflection-on-falling
+difficulty_level: 5
 source: nbpho
 native_id: "2016 P9 DEFLECTION ON FALLING"
 year: 2016

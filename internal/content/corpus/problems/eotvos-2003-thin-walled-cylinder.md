@@ -1,5 +1,6 @@
 ---
 id: eotvos-2003-thin-walled-cylinder
+difficulty_level: 5
 source: eotvos
 native_id: "2003 P1"
 year: 2003

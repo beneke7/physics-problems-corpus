@@ -15,6 +15,7 @@ subtopic: [magnetic-dipoles, superconductivity, dipole-interactions]
 math_tools: [dimensional-analysis]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis]
 has_solution: true

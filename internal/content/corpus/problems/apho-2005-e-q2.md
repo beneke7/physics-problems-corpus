@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [induction, magnetic-field, drag, rolling, measurement, error-analysis, data-fitting]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: experimental
 core_ideas: []

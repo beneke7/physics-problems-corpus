@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [phase-transitions, latent-heat, ideal-gas]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

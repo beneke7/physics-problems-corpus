@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [lorentz-force, magnetic-field, circular-motion]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

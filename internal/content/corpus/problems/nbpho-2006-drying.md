@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-drying
+difficulty_level: 4
 source: nbpho
 native_id: "2006 P1 DRYING"
 year: 2006

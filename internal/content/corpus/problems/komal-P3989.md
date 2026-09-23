@@ -9,6 +9,7 @@ topic: [mechanics, relativity]
 subtopic: [collisions, relativistic-energy-momentum]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-kinematics-idea12, kalda-mechanics-idea53]

@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1998-q3
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1998, 3. feladat."
 year: 1998

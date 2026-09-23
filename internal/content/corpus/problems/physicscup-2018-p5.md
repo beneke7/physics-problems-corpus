@@ -15,6 +15,7 @@ subtopic: [kinetic-theory, blackbody-radiation, random-walk]
 math_tools: [dimensional-analysis, calculus, probability-statistics]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, model-reduction, limiting-and-special-cases]
 has_solution: false

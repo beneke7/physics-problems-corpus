@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear, potential, energy-levels]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, dimensional-analysis]
 format: scaffolded
 core_ideas: []

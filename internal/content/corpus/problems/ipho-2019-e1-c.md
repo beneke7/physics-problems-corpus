@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [measurement]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: null
 math_tools: []
 format: measurement
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2014-plancks-constant
+difficulty_level: 4
 source: nbpho
 native_id: "2014 P5 PLANCK'S CONSTANT"
 year: 2014

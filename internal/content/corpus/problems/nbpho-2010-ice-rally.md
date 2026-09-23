@@ -1,5 +1,6 @@
 ---
 id: nbpho-2010-ice-rally
+difficulty_level: 4
 source: nbpho
 year: 2010
 native_id: "2010 P10 Ice-rally"

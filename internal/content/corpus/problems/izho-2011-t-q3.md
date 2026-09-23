@@ -9,6 +9,7 @@ topic: [quantum-physics, thermodynamics]
 subtopic: [energy-levels, ideal-gas, kinetic-theory, statistical-distributions, specific-heat]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, series-complex]
 format: scaffolded
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, gauss-law]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [vector-calculus]
 format: open-ended
 core_ideas: []

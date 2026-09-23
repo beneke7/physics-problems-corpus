@@ -1,5 +1,6 @@
 ---
 id: eotvos-2005-triangular-lattice-diffraction
+difficulty_level: 3
 source: eotvos
 native_id: "2005 P2"
 year: 2005

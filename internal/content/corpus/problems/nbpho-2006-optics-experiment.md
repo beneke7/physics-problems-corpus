@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-optics-experiment
+difficulty_level: 4
 source: nbpho
 native_id: "2006 P8 OPTICS EXPERIMENT"
 year: 2006

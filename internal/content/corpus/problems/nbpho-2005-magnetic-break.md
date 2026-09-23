@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-magnetic-break
+difficulty_level: 5
 source: nbpho
 native_id: "2005 P2 MAGNETIC BREAK"
 year: 2005

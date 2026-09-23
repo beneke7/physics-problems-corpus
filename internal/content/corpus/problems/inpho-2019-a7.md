@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [friction, force-balance, induction, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: experimental
 core_ideas: []

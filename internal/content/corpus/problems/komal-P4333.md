@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [processes]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: []
 format: open-ended
 core_ideas: [kalda-thermo-idea21, kalda-thermo-idea22]

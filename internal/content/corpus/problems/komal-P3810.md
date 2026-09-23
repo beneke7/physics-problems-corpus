@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [vector-calculus]
 format: numerical
 core_ideas: []

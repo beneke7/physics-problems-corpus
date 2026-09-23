@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [lc-rl-rlc, transient-analysis, inductor-capacitor]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [differential-equations]
 format: open-ended
 core_ideas: [kalda-circuits-idea36]

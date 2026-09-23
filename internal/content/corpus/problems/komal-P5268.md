@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, biot-savart, ampere-law]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-circuits-idea1]

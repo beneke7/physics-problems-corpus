@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dielectrics, resistivity, capacitance, rc-transients, electric-field]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: null
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

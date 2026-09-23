@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-wire
+difficulty_level: 3
 source: nbpho
 native_id: "2007 P1 WIRE"
 year: 2007

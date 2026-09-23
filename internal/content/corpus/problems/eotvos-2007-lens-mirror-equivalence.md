@@ -1,5 +1,6 @@
 ---
 id: eotvos-2007-lens-mirror-equivalence
+difficulty_level: 4
 source: eotvos
 native_id: "2007 P3"
 year: 2007

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [momentum, angular-momentum]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea21, kalda-mechanics-idea39, kalda-mechanics-idea62]

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2015-photograph-lens
+difficulty_level: 3
 source: eotvos
 native_id: "2015 P2"
 year: 2015

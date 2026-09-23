@@ -17,6 +17,7 @@ subtopic: [thermal-lensing, heat-conduction, focal-length]
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-thermo-idea19]
 techniques: [differential-element, model-reduction, limiting-and-special-cases]
 has_solution: true

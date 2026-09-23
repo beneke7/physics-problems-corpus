@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, kinematics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-kinematics-idea32]

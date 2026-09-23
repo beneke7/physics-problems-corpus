@@ -1,5 +1,6 @@
 ---
 id: eotvos-2012-toroidal-coils
+difficulty_level: 4
 source: eotvos
 native_id: "2012 P3"
 year: 2012

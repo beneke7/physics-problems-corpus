@@ -1,5 +1,6 @@
 ---
 id: nbpho-2004-fourth-order-ellipse
+difficulty_level: 5
 source: nbpho
 native_id: "2004 P5 4TH ORDER ELLIPSE"
 year: 2004

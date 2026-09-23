@@ -1,5 +1,6 @@
 ---
 id: eotvos-2011-water-vapor
+difficulty_level: 5
 source: eotvos
 native_id: "2011 P2"
 year: 2011

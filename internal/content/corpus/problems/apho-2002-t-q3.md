@@ -9,6 +9,7 @@ topic: [thermodynamics, optics]
 subtopic: [kinetic-theory, ideal-gas, thin-films, interference, reflection]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 4
 math_tools: [calculus, probability-statistics]
 format: scaffolded
 core_ideas: []

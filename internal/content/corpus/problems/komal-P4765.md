@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [inductance, rc-rl-rlc, transients]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

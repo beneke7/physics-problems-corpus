@@ -9,6 +9,7 @@ topic: [optics]
 subtopic: [diffraction-grating, interference, wave-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

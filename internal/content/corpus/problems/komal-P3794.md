@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [photon-energy]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [probability-statistics]
 format: numerical
 core_ideas: []

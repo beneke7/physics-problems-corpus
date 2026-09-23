@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [oscillations-mechanical, friction, energy-conservation, equilibrium]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea41]

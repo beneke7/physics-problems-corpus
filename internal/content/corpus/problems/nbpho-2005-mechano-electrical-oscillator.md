@@ -1,5 +1,6 @@
 ---
 id: nbpho-2005-mechano-electrical-oscillator
+difficulty_level: 5
 source: nbpho
 native_id: "2005 P6 MECHANO-ELECTRICAL OSCILLATOR"
 year: 2005

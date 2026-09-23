@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, dielectrics]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-circuits-idea29]

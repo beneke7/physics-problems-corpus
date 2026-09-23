@@ -1,5 +1,6 @@
 ---
 id: kalda-waveoptics-pr9
+difficulty_level: 2
 source: kalda
 native_id: "waveoptics pr9"
 origin: Kalda-handout

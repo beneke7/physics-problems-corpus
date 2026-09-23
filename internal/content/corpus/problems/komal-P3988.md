@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [oscillations-mechanical, electrostatics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [calculus]
 format: numerical
 core_ideas: [kalda-mechanics-idea20, kalda-mechanics-idea44]

@@ -15,6 +15,7 @@ subtopic: [kinetic-theory, mean-free-path, heat-transfer]
 math_tools: [dimensional-analysis, calculus]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases, differential-element]
 has_solution: true

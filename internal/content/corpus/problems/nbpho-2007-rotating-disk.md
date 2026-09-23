@@ -1,5 +1,6 @@
 ---
 id: nbpho-2007-rotating-disk
+difficulty_level: 4
 source: nbpho
 native_id: "2007 P5 ROTATING DISK"
 year: 2007

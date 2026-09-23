@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, work-heat]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea9]

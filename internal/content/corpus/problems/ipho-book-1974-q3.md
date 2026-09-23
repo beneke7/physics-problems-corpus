@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1974-q3
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1974, 3. feladat."
 year: 1974

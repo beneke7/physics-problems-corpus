@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-black-box
+difficulty_level: 5
 source: nbpho
 native_id: "2018 P9 BLACK BOX"
 year: 2018

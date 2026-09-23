@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, relative-motion, optimization]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-kinematics-idea19, kalda-mechanics-idea34]

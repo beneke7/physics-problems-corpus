@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [newton-laws, rotational-dynamics, kinematics]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea34, kalda-mechanics-idea43]

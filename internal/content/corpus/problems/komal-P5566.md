@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, kinematics]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea43]

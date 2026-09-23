@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [capacitance, electric-field, potential, dielectrics, gauss-law]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [vector-calculus]
 format: scaffolded
 core_ideas: []

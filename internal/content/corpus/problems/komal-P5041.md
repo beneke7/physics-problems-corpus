@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, lorentz-force, induction]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea36, kalda-kinematics-idea23]

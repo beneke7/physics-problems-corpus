@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [mass, density]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [dimensional-analysis]
 format: numerical
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [work-energy, relative-motion, force-balance]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: open-ended
 core_ideas: []

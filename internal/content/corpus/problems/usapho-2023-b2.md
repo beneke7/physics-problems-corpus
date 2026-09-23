@@ -9,6 +9,7 @@ topic: [relativity, mechanics]
 subtopic: [rockets, variable-mass, relativistic-energy-momentum, radiation-pressure]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

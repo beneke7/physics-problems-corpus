@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr48
+difficulty_level: null
 source: kalda
 native_id: "circuits pr48"
 origin: Kalda-handout

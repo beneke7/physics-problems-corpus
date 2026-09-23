@@ -1,5 +1,6 @@
 ---
 id: kalda-kinematics-pr44
+difficulty_level: 3
 source: kalda
 native_id: "kinematics pr44"
 origin: Kalda-handout

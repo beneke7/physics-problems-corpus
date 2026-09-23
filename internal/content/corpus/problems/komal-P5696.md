@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, lorentz-force, particle-trajectory]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 6
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

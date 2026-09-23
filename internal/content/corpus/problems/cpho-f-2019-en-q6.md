@@ -9,6 +9,7 @@ topic: [gravitation, quantum-physics]
 subtopic: [gravitation, orbits, nuclear, fission-fusion, mass-defect, blackbody, radiation]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 6
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

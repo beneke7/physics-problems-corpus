@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [nuclear, mass-defect, fission-fusion, coulomb-force]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: null
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-electric-field"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P8"
 year: 2015

@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1974-q2
+difficulty_level: 4
 source: ipho
 native_id: "IPhO 1974, 2. feladat."
 year: 1974

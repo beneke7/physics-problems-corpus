@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [dc-circuits, resistivity, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: measurement
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [measurement]
 difficulty: M
 difficulty_norm: 1
+difficulty_level: 2
 math_tools: [probability-statistics]
 format: measurement
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [optimization]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: null
 math_tools: [calculus]
 format: open-ended
 core_ideas: []

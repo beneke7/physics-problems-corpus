@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [doppler, sound-waves, relative-motion]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: measurement
 core_ideas: []

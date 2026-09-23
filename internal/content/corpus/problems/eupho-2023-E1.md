@@ -17,6 +17,7 @@ subtopic: [pendulum, magnetic-dipole, frequency-shift, nonlinear-oscillations]
 math_tools: [calculus, probability-statistics, numerical]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: [kalda-mechanics-idea20]
 techniques: [scaling-and-dimensional-analysis, limiting-and-special-cases, graphical-reduction]
 has_solution: true

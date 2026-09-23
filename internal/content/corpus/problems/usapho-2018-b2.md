@@ -9,6 +9,7 @@ topic: [optics, quantum-physics]
 subtopic: [uncertainty, geometrical-optics]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [probability-statistics, geometry-trigonometry]
 format: scaffolded
 core_ideas: []

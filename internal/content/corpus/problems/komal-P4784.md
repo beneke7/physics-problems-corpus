@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [circular-motion, centrifugal, rotating-frames]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: [kalda-mechanics-idea9, kalda-mechanics-idea25]

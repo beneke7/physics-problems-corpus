@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [collisions, oscillations-mechanical, coupled-oscillators]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

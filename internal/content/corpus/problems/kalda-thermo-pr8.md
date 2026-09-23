@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr8
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr8"
 origin: EstOpen-2014

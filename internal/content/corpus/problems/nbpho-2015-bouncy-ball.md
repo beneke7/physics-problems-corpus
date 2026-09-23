@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-bouncy-ball"
+difficulty_level: 5
 source: "nbpho"
 native_id: "2015 P7"
 year: 2015

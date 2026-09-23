@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr57
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr57"
 origin: EstFin-2008

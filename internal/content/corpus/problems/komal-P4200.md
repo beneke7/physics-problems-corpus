@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [ac-circuits, lc-rl-rlc]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: numerical
 core_ideas: [kalda-circuits-idea44, kalda-circuits-idea45, kalda-circuits-idea52]

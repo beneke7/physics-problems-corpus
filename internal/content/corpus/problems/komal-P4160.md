@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [heat-engines, processes]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: null
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea4, kalda-thermo-idea22]

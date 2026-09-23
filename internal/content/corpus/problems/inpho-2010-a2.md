@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, dielectrics]
 difficulty: null
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-thermo-idea14, kalda-thermo-idea20]

@@ -9,6 +9,7 @@ topic: [experimental-skills]
 subtopic: [data-fitting]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [calculus]
 format: numerical
 core_ideas: []

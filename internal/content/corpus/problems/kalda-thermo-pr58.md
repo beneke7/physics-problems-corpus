@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr58
+difficulty_level: 5
 source: kalda
 native_id: "thermo pr58"
 origin: IPhO-2014

@@ -9,6 +9,7 @@ topic: [thermodynamics, experimental-skills]
 subtopic: [ideal-gas, kinetic-theory]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

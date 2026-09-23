@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr5
+difficulty_level: null
 source: kalda
 native_id: "thermo pr5"
 origin: EstFin-2003

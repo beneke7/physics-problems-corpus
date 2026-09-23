@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, lorentz-force]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 4
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

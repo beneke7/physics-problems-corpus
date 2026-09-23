@@ -1,5 +1,6 @@
 ---
 id: nbpho-2023-curling
+difficulty_level: 5
 source: nbpho
 native_id: "2023 P1 Curling"
 year: 2023

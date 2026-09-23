@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-flying-dumbbell
+difficulty_level: 6
 source: nbpho
 native_id: "2025 P1 Flying Dumbbell"
 year: 2025

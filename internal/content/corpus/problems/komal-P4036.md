@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, work-energy]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry]
 format: numerical
 core_ideas: [kalda-mechanics-idea7, kalda-mechanics-idea34, kalda-mechanics-idea39]

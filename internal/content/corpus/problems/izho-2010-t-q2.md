@@ -9,6 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [induction, inductance, em-waves, rotational-dynamics, dc-circuits]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, vector-calculus]
 format: scaffolded
 core_ideas: []

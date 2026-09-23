@@ -9,6 +9,7 @@ topic: [electromagnetism, relativity]
 subtopic: [magnetic-field, lorentz-force, relativistic-energy-momentum]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 6
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

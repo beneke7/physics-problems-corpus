@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [orbits]
 difficulty: G
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea1]

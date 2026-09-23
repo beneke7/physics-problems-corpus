@@ -1,5 +1,6 @@
 ---
 id: nbpho-2008-asteroid
+difficulty_level: 4
 source: nbpho
 native_id: "2008 P9 ASTEROID"
 year: 2008

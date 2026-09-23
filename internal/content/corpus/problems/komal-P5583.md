@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, energy]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea5]

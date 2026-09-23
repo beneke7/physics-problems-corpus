@@ -1,5 +1,6 @@
 ---
 id: nbpho-2024-kitchen-physics
+difficulty_level: 4
 source: nbpho
 native_id: "2024 P10 Kitchen Physics"
 year: 2024

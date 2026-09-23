@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [resistivity, dc-circuits]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

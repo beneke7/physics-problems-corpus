@@ -15,6 +15,7 @@ subtopic: [magnetic-damping, angular-reorientation]
 math_tools: [calculus, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [choose-reference-frame, conservation-laws, model-reduction]
 has_solution: true

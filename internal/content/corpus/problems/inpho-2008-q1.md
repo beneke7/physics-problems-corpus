@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [bohr-model, energy-levels]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [dimensional-analysis]
 format: scaffolded
 core_ideas: []

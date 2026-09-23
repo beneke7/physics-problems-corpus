@@ -9,6 +9,7 @@ topic: [relativity, optics]
 subtopic: [reflection, doppler, em-waves]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

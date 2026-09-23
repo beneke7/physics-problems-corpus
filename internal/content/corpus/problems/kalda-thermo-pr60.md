@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr60
+difficulty_level: null
 source: kalda
 native_id: "thermo pr60"
 origin: EstFin-2008

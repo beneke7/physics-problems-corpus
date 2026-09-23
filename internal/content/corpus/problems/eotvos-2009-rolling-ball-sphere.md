@@ -1,5 +1,6 @@
 ---
 id: eotvos-2009-rolling-ball-sphere
+difficulty_level: 5
 source: eotvos
 native_id: "2009 P1"
 year: 2009

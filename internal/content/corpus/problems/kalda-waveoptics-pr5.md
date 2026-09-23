@@ -1,5 +1,6 @@
 ---
 id: kalda-waveoptics-pr5
+difficulty_level: 3
 source: kalda
 native_id: "waveoptics pr5"
 origin: Kalda-handout

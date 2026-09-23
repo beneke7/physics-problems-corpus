@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, moment-of-inertia, collisions]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39]

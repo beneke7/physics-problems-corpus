@@ -1,5 +1,6 @@
 ---
 id: nbpho-2021-rotating-space-station
+difficulty_level: 5
 source: nbpho
 native_id: "2021 P3 Rotating Space Station"
 year: 2021

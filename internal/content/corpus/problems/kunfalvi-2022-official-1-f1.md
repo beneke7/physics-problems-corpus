@@ -10,6 +10,7 @@ subtopic: [gravitation, orbits, angular-momentum, energy-conservation, relative-
 math_tools: [algebra, geometry-trigonometry, vectors]
 format: scaffolded
 difficulty_norm: 4
+difficulty_level: 4
 core_ideas: []
 estimated_time_min: 35
 points: null

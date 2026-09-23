@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1968-q3
+difficulty_level: 3
 source: ipho
 native_id: "IPhO 1968, 3. feladat."
 year: 1968

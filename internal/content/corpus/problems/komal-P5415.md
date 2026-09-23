@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [induction, faraday, moving-conductor, heat]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

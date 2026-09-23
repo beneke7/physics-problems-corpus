@@ -9,6 +9,7 @@ topic: [mechanics, electromagnetism]
 subtopic: [statics, electrostatics]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: numerical
 core_ideas: []

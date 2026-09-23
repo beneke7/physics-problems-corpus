@@ -1,5 +1,6 @@
 ---
 id: eotvos-2016-metal-disk
+difficulty_level: 5
 source: eotvos
 native_id: "2016 P3"
 year: 2016

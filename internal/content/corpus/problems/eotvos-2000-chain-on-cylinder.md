@@ -1,5 +1,6 @@
 ---
 id: eotvos-2000-chain-on-cylinder
+difficulty_level: 5
 source: eotvos
 native_id: "2000 P1"
 year: 2000

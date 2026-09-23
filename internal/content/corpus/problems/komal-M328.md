@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics]
 difficulty: M
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: measurement
 core_ideas: []

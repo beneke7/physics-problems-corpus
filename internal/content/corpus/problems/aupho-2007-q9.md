@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: []
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [dimensional-analysis]
 format: scaffolded
 core_ideas: []

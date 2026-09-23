@@ -17,6 +17,7 @@ subtopic: [projectile-motion, envelope-of-trajectories, optics-analogy]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
+difficulty_level: 5
 core_ideas: []
 techniques: [extremization, cross-domain-analogy]
 has_solution: true

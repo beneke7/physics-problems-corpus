@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-beams
+difficulty_level: 5
 source: nbpho
 native_id: "2017 P8 Beams"
 year: 2017

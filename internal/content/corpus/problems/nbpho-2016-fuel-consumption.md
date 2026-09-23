@@ -1,5 +1,6 @@
 ---
 id: nbpho-2016-fuel-consumption
+difficulty_level: 5
 source: nbpho
 native_id: "2016 P1 FUEL CONSUMPTION"
 year: 2016

@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr64
+difficulty_level: 4
 source: kalda
 native_id: "thermo pr64"
 origin: Seagull-2016

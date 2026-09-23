@@ -1,5 +1,6 @@
 ---
 id: kalda-circuits-pr77
+difficulty_level: null
 source: kalda
 native_id: "circuits pr77"
 origin: EstFin-2008

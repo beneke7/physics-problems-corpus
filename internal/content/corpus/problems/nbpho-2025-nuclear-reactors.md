@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-nuclear-reactors
+difficulty_level: 3
 source: nbpho
 native_id: "2025 P3 Nuclear Reactors"
 year: 2025

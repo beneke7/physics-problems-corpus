@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, lorentz-force, particle-deflection]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-circuits-idea32]

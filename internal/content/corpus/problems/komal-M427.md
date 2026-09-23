@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [statics]
 difficulty: M
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [probability-statistics]
 format: measurement
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [wave-equation, sound-waves, interference, reflection]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 3
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

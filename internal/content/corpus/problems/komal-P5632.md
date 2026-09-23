@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, potential, work-energy]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, vector-calculus]
 format: scaffolded
 core_ideas: []

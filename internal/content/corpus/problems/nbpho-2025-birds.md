@@ -1,5 +1,6 @@
 ---
 id: nbpho-2025-birds
+difficulty_level: 3
 source: nbpho
 native_id: "2025 P6 Birds"
 year: 2025

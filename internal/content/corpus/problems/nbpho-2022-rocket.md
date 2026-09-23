@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-rocket
+difficulty_level: 5
 source: nbpho
 native_id: "2022 P3 ROCKET"
 year: 2022

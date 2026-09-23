@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [capacitance, inductance, dc-circuits, current, measurement, data-fitting, experimental-design]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: []
 format: experimental
 core_ideas: []

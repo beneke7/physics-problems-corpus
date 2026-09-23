@@ -1,5 +1,6 @@
 ---
 id: nbpho-2018-lcr-circuit
+difficulty_level: 5
 source: nbpho
 native_id: "2018 P7 LCR-CIRCUIT"
 year: 2018

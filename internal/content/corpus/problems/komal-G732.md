@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [orbits, kepler]
 difficulty: G
 difficulty_norm: 2
+difficulty_level: 3
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-kinematics-idea45]

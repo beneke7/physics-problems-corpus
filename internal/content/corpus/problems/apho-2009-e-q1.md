@@ -9,6 +9,7 @@ topic: [electromagnetism, experimental-skills]
 subtopic: [magnetic-field, measurement, experimental-design]
 difficulty: null
 difficulty_norm: 3
+difficulty_level: 5
 math_tools: [vector-calculus, probability-statistics]
 format: experimental
 core_ideas: []

@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [rotational-dynamics, moment-of-inertia, oscillations-mechanical, measurement]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: [calculus, probability-statistics]
 format: measurement
 core_ideas: [kalda-mechanics-idea45]

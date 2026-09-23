@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [rotational-dynamics, rolling, friction, force-balance]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: [kalda-mechanics-idea39, kalda-mechanics-idea44]

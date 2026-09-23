@@ -1,5 +1,6 @@
 ---
 id: nbpho-2017-spacecraft-pressure
+difficulty_level: 3
 source: nbpho
 native_id: "2017 P9 Spacecraft Pressure"
 year: 2017

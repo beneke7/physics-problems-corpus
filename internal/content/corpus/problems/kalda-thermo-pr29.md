@@ -1,5 +1,6 @@
 ---
 id: kalda-thermo-pr29
+difficulty_level: 3
 source: kalda
 native_id: "thermo pr29"
 origin: EstPhO-1995

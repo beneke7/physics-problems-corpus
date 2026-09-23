@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [first-law, work-heat, heat-engines, entropy]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: [kalda-thermo-idea21, kalda-thermo-idea22]

@@ -15,6 +15,7 @@ subtopic: [electromagnetic-induction, rotating-conductors, dipole-interaction]
 math_tools: [calculus, vector-calculus, differential-equations]
 format: numerical
 difficulty_norm: 5
+difficulty_level: 6
 core_ideas: []
 techniques: [differential-element, superposition, smart-coordinates]
 has_solution: true

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2006-electric-experiment
+difficulty_level: 4
 source: nbpho
 native_id: "2006 P4 ELECTRIC EXPERIMENT"
 year: 2006

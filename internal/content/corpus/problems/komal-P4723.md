@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, biot-savart, ampere-law]
 difficulty: P
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: eotvos-2022-ion-diffusion
+difficulty_level: 3
 source: eotvos
 native_id: "2022 P2"
 year: 2022

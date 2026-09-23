@@ -9,6 +9,7 @@ topic: [oscillations-and-waves]
 subtopic: [standing-waves, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 1
 math_tools: [probability-statistics]
 format: scaffolded
 core_ideas: []

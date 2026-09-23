@@ -9,6 +9,7 @@ topic: [mechanics, experimental-skills]
 subtopic: [elasticity, measurement, data-fitting]
 difficulty: null
 difficulty_norm: 2
+difficulty_level: 2
 math_tools: []
 format: experimental
 core_ideas: []

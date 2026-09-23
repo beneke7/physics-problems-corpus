@@ -1,5 +1,6 @@
 ---
 id: eotvos-1994-charged-pendulum
+difficulty_level: 5
 source: eotvos
 native_id: "1994 P3"
 year: 1994

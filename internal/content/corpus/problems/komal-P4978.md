@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [charge-conservation]
 difficulty: P
 difficulty_norm: 1
+difficulty_level: 1
 math_tools: [geometry-trigonometry]
 format: open-ended
 core_ideas: []

@@ -1,5 +1,6 @@
 ---
 id: nbpho-2022-life-hacks
+difficulty_level: 4
 source: nbpho
 native_id: "2022 P6 LIFE HACKS"
 year: 2022

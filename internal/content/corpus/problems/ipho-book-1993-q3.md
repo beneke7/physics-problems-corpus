@@ -1,5 +1,6 @@
 ---
 id: ipho-book-1993-q3
+difficulty_level: 6
 source: ipho
 native_id: "IPhO 1993, 3. feladat."
 year: 1993

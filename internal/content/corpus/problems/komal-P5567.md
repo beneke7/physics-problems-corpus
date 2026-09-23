@@ -9,6 +9,7 @@ topic: [thermodynamics]
 subtopic: [first-law, processes, equilibrium]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: [kalda-mechanics-idea39]

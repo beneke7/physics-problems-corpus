@@ -9,6 +9,7 @@ topic: [electromagnetism]
 subtopic: [electrostatics, method-of-images, boundary-conditions]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus]
 format: open-ended
 core_ideas: [kalda-circuits-idea25]

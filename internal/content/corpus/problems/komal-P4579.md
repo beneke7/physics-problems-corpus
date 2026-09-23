@@ -9,6 +9,7 @@ topic: [quantum-physics]
 subtopic: [radioactivity, decay, nuclear]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 3
 math_tools: [calculus, differential-equations]
 format: open-ended
 core_ideas: []

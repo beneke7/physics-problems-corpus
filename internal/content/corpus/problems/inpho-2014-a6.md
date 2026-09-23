@@ -9,6 +9,7 @@ topic: [electromagnetism, quantum-physics]
 subtopic: [electrostatics, coulomb-force, electric-field, nuclear, fission-fusion, magnetostatics, magnetic-field, torque]
 difficulty: null
 difficulty_norm: 5
+difficulty_level: 5
 math_tools: [calculus, geometry-trigonometry, dimensional-analysis]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea34]

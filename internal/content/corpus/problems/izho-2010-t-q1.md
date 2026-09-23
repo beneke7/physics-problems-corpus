@@ -9,6 +9,7 @@ topic: [mechanics, oscillations-and-waves]
 subtopic: [rotational-dynamics, hydrostatics, buoyancy, geometrical-optics]
 difficulty: null
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

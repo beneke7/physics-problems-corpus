@@ -1,5 +1,6 @@
 ---
 id: "nbpho-2015-solenoids"
+difficulty_level: 4
 source: "nbpho"
 native_id: "2015 P9"
 year: 2015

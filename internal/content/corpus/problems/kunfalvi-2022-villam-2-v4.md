@@ -10,6 +10,7 @@ subtopic: [thin-films, reflection, interference, refraction, em-waves]
 math_tools: [algebra, geometry-trigonometry]
 format: numerical
 difficulty_norm: 3
+difficulty_level: 3
 core_ideas: []
 estimated_time_min: 20
 points: 20

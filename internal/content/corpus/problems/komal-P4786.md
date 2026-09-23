@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [gravitation, collisions, momentum]
 difficulty: P
 difficulty_norm: 3
+difficulty_level: 6
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-mechanics-idea34, kalda-mechanics-idea43]

@@ -9,6 +9,7 @@ topic: [mechanics]
 subtopic: [kinematics, rotational-dynamics, momentum, constrained-motion]
 difficulty: P
 difficulty_norm: 4
+difficulty_level: 5
 math_tools: [calculus, differential-equations, geometry-trigonometry]
 format: scaffolded
 core_ideas: [kalda-kinematics-idea1, kalda-kinematics-idea19, kalda-mechanics-idea34]
