@@ -15,7 +15,7 @@ subtopic: [electrostatics, conductors, gauss-law]
 math_tools: [calculus, geometry-trigonometry]
 format: open-ended
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, superposition, conservation-laws]
 has_solution: true

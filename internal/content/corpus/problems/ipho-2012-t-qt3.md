@@ -9,7 +9,7 @@ topic: [gravitation, thermodynamics]
 subtopic: [gravitation, kepler, orbits, ideal-gas, adiabatic-processes, heat-transfer, pressure, stability]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

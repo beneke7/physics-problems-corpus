@@ -1,6 +1,6 @@
 ---
 id: "kevin-zhou-p2-ex005"
-difficulty_level: null
+difficulty_level: 2
 source: "kevin-zhou"
 native_id: "KZ-P2-EX005"
 origin: "Kevin Zhou Physics Olympiad Handouts"
@@ -23,7 +23,6 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 solution_language: en
 ---
-
-log A(t) = log A0 − t/τ.
-
-         Then a plot of log A(t) vs. t has slope −1/τ and y-intercept log A0 .
+Example 5
+The activity of a radioactive substance obeys A(t) = A0e−t/τ. Using measurements of t and
+A(t), plot a line to find A0 and τ.

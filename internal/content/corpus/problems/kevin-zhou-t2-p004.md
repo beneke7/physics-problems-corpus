@@ -1,6 +1,6 @@
 ---
 id: "kevin-zhou-t2-p004"
-difficulty_level: 6
+difficulty_level: 3
 source: "kevin-zhou"
 native_id: "KZ-T2-P004"
 origin: "Kevin Zhou Physics Olympiad Handouts"
@@ -29,6 +29,8 @@ solution_language: en
 [3] Problem 4. [A] Now let’s revisit the nonideal gas considered in problem 2. We would like to take
     the given form of the internal energy and derive the equation of state, which gives the pressure in
     terms of the other variables.
+
+From Problem 2, the nonideal gas has internal energy $$U(T,V)=\frac{3}{2}nRT-\frac{an^{2}}{V}.$$
 
       (a) Explain why it’s true that
                                             ∂U ∂S        ∂U    ∂U

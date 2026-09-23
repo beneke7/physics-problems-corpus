@@ -9,7 +9,7 @@ topic: [thermodynamics, mechanics]
 subtopic: [ideal-gas, adiabatic, adiabatic-processes, heat-engines, efficiency, centrifugal, equilibrium]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

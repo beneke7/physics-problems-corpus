@@ -1,6 +1,6 @@
 ---
 id: ipho-book-1988-q3
-difficulty_level: 6
+difficulty_level: 5
 source: ipho
 native_id: "IPhO 1988, 3. feladat."
 year: 1988

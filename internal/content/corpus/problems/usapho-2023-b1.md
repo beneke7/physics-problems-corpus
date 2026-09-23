@@ -9,7 +9,7 @@ topic: [electromagnetism, mechanics]
 subtopic: [inductance, lorentz-force, induction, torque, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

@@ -1,6 +1,6 @@
 ---
 id: "kevin-zhou-m4-p027"
-difficulty_level: null
+difficulty_level: 5
 source: "kevin-zhou"
 native_id: "KZ-M4-P027"
 origin: "Kevin Zhou Physics Olympiad Handouts"
@@ -8,8 +8,8 @@ language: "en"
 translated: false
 links_hu: "kevin-zhou-m4-p027"
 topic: [mechanics]
-subtopic: [oscillations, pulley-systems, energy]
-math_tools: [differential-equations, calculus]
+subtopic: [adiabatic-invariant, phase-space, potential-energy]
+math_tools: [algebra, calculus]
 format: "open-ended"
 kind: "problem"
 core_ideas: []
@@ -23,17 +23,12 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 solution_language: en
 ---
-
-Problem 28 (F = ma, BAUPC). Two particles of mass m are connected by pulleys as shown.
-
-    The mass on the left is given a small horizontal velocity v, and oscillates back and forth.
-
-      (a) Without doing any calculation, which mass is higher after a long time?
-
-     (b) Compute the average tension in the leftward string over the first few cycles, where the left
-         mass has angular amplitude θ0 ≪ 1.
-
-      (c) Let the masses begin a distance L from the pulleys. Find the speed u of the mass which
-          eventually hits the pulley, at the moment it does, in terms of L and the initial amplitude θ0 .
-
-                                                     18
+[3] Problem 27. A block of mass m is bouncing back and forth in a box spanning 0 < x < L, with
+initial speed v0. At time t = 0, the potential energy is slowly raised in part of the box, so that
+V (x,t) =
+(
+V0 0 < x < ut
+0 ut < x < L
+where V0 > mv2
+0/2, and the speed of the potential u is very small. At time t = L/u, when the
+potential covers the entire box, what is the block’s speed?

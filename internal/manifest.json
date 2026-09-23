@@ -18672,7 +18672,11 @@
       "hu": "content/corpus/problems_hu/kevin-zhou-w2-p023.md",
       "solution": "content/corpus/solution_ocr/kevin-zhou/kevin-zhou-w2sol-p023-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 2,
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-w2-p023-fig01.png",
+        "content/figures/kevin-zhou/figures/kevin-zhou-w2-p023-fig02.jpg"
+      ]
     },
     "kevin-zhou-mrev-p024": {
       "problem": "content/corpus/problems/kevin-zhou-mrev-p024.md",
@@ -18705,7 +18709,10 @@
       "hu": "content/corpus/problems_hu/kevin-zhou-w2-p024.md",
       "solution": "content/corpus/solution_ocr/kevin-zhou/kevin-zhou-w2sol-p024-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-w2-p024-fig01.jpg"
+      ]
     },
     "kevin-zhou-xrev-p024": {
       "problem": "content/corpus/problems/kevin-zhou-xrev-p024.md",
@@ -18745,7 +18752,10 @@
       "hu": "content/corpus/problems_hu/kevin-zhou-w2-p025.md",
       "solution": "content/corpus/solution_ocr/kevin-zhou/kevin-zhou-w2sol-p025-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-w2-p025-fig01.jpg"
+      ]
     },
     "kevin-zhou-x1-p025": {
       "problem": "content/corpus/problems/kevin-zhou-x1-p025.md",
@@ -18771,7 +18781,10 @@
       "hu": "content/corpus/problems_hu/kevin-zhou-w2-p026.md",
       "solution": "content/corpus/solution_ocr/kevin-zhou/kevin-zhou-w2sol-p026-mathpix.md",
       "solution_documents": [],
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-w2-p026-fig01.jpg"
+      ]
     },
     "kevin-zhou-erev-p027": {
       "problem": "content/corpus/problems/kevin-zhou-erev-p027.md",
@@ -90911,7 +90924,7 @@
     }
   },
   "markdown_file_count": 17439,
-  "markdown_bytes": 83453111,
+  "markdown_bytes": 83539607,
   "figure_policy": {
     "mirrored": true,
     "referenced_file_count": 24147,

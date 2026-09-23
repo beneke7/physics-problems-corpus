@@ -9,7 +9,7 @@ topic: [relativity, optics]
 subtopic: [relativistic-energy-momentum, doppler, refraction, interference]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: []
 format: scaffolded
 core_ideas: []

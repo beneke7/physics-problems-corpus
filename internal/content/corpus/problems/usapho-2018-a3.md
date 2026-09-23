@@ -9,7 +9,7 @@ topic: [thermodynamics]
 subtopic: [pressure, ideal-gas, adiabatic-processes, processes, first-law]
 difficulty: null
 difficulty_norm: 4
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []

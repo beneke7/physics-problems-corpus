@@ -9,7 +9,7 @@ topic: [quantum-physics, electromagnetism]
 subtopic: [magnetic-field, energy-levels, resonance, photon-energy, atomic-structure]
 difficulty: null
 difficulty_norm: 4
-difficulty_level: 6
+difficulty_level: 4
 math_tools: [dimensional-analysis, calculus]
 format: scaffolded
 core_ideas: []

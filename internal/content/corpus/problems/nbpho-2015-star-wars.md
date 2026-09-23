@@ -1,6 +1,6 @@
 ---
 id: "nbpho-2015-star-wars"
-difficulty_level: 6
+difficulty_level: 3
 source: "nbpho"
 native_id: "2015 P4"
 year: 2015

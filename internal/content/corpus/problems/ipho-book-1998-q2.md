@@ -1,6 +1,6 @@
 ---
 id: ipho-book-1998-q2
-difficulty_level: 6
+difficulty_level: 4
 source: ipho
 native_id: "IPhO 1998, 2. feladat."
 year: 1998

@@ -9,7 +9,7 @@ topic: [gravitation, mechanics]
 subtopic: [gravitation, tides, orbits, energy-conservation, circular-motion]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 4
 math_tools: []
 format: scaffolded
 core_ideas: []

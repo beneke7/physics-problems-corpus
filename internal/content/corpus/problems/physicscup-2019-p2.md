@@ -15,7 +15,7 @@ subtopic: [heat-engines, entropy, phase-transitions, heat-capacity]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 core_ideas: []
 techniques: [conservation-laws, extremization, limiting-and-special-cases]
 has_solution: false

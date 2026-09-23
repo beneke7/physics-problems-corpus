@@ -15,7 +15,7 @@ subtopic: [resistor-networks, lattice-green-function, perturbation]
 math_tools: [series-complex, linear-algebra]
 format: open-ended
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, superposition, limiting-and-special-cases]
 has_solution: false

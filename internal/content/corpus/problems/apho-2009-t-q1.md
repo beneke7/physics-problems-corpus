@@ -9,7 +9,7 @@ topic: [mechanics]
 subtopic: [rolling, moment-of-inertia, energy-conservation]
 difficulty: null
 difficulty_norm: 3
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

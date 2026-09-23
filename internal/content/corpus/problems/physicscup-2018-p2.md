@@ -15,7 +15,7 @@ subtopic: [accelerated-motion, velocity-addition, proper-time]
 math_tools: [calculus, differential-equations]
 format: open-ended
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 4
 core_ideas: []
 techniques: [choose-reference-frame, auxiliary-unknowns]
 has_solution: false

@@ -1,6 +1,6 @@
 ---
 id: nbpho-2014-thermal-acceleration
-difficulty_level: 6
+difficulty_level: 5
 source: nbpho
 native_id: "2014 P9 THERMAL ACCELERATION"
 year: 2014

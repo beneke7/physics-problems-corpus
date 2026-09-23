@@ -9,7 +9,7 @@ topic: [quantum-physics, optics]
 subtopic: [absorption, photon-energy, energy-levels, spectra, resonance]
 difficulty: null
 difficulty_norm: 4
-difficulty_level: 6
+difficulty_level: 4
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

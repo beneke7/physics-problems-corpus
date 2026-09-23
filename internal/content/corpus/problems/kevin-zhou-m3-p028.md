@@ -1,6 +1,6 @@
 ---
 id: "kevin-zhou-m3-p028"
-difficulty_level: null
+difficulty_level: 3
 source: "kevin-zhou"
 native_id: "KZ-M3-P028"
 origin: "Kevin Zhou Physics Olympiad Handouts"
@@ -23,11 +23,11 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 solution_language: en
 ---
-
-[4] Problem 29.   01m    USAPhO 2013, problem B1. This problem is quite tricky! Once you’re done,
-    carefully read the official solution, which describes how center of mass work is applied.
-
-
-
-
-                                                 17
+[1] Problem 28. Alice and Bob stand facing each other with their arms bent and hands touching on
+an ice skating rink. Bob has his back against a wall.
+(a) Suppose Bob extends his arms, pushing Alice through a distance d with a force F. Analyze
+what happens to Alice in terms of both work and center of mass work.
+(b) Suppose Alice extends her arms, pushing herself through a distance d with a force F. Repeat
+the analysis; what is different and what is the same?
+(c) Suppose a spherical balloon is compressed uniformly from all sides. Is there work done on the
+balloon? How about center of mass work?

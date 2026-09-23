@@ -9,7 +9,7 @@ topic: [thermodynamics]
 subtopic: [ideal-gas, adiabatic-processes, oscillations-mechanical, pressure]
 difficulty: null
 difficulty_norm: 4
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [differential-equations]
 format: scaffolded
 core_ideas: []

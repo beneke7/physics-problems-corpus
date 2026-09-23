@@ -9,7 +9,7 @@ topic: [electromagnetism]
 subtopic: [magnetostatics, magnetic-field, hall-effect, measurement]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [probability-statistics]
 format: experimental
 core_ideas: []

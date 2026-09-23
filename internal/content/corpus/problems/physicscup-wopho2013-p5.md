@@ -15,7 +15,7 @@ subtopic: [superconductivity, magnetic-levitation, small-oscillations]
 math_tools: [calculus, vector-calculus]
 format: open-ended
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 core_ideas: []
 techniques: [exploit-symmetry, scaling-and-dimensional-analysis, limiting-and-special-cases, conservation-laws]
 has_solution: false

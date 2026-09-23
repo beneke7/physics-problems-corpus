@@ -1,6 +1,6 @@
 ---
 id: "kevin-zhou-e2-p026"
-difficulty_level: null
+difficulty_level: 4
 source: "kevin-zhou"
 native_id: "KZ-E2-P026"
 origin: "Kevin Zhou Physics Olympiad Handouts"
@@ -8,7 +8,7 @@ language: "en"
 translated: false
 links_hu: "kevin-zhou-e2-p026"
 topic: [electromagnetism]
-subtopic: [dc-circuits, resistance, infinite-networks]
+subtopic: [resistor-networks, symmetry, equivalent-resistance]
 math_tools: [algebra]
 format: "open-ended"
 kind: "problem"
@@ -23,12 +23,15 @@ source_commit: "ebb627ccb7e27e541d64011f22d36766a6e97ecf"
 provenance_note: "Candidate classified as Genuinely new in the Kevin Zhou overlap audit."
 solution_language: en
 ---
-
-[2] Problem 27 (PPP 158). Consider the circuit below, where every resistor is 1 Ω.
-
-
-
-
-      (a) Find the equivalence resistance between the input terminals.
-
-      (b) Do the same in the case where the chain is infinitely long.
+[3] Problem 26. Consider a cube of side length L whose edges are resistors of resistance R.
+(a) Compute the resistance between two vertices a distance
+√
+3L apart.
+(b) Compute the resistance between two vertices a distance
+√
+2L apart.
+(c) Compute the resistance between two vertices a distance L apart.
+(d) Generalize to vertices
+√
+nL apart on an n-dimensional cube. (One edge is n = 1, a square is
+n = 2, and an ordinary cube is n = 3. Give your answer in the form of a summation.)

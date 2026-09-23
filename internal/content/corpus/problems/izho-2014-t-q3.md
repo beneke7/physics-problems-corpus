@@ -9,7 +9,7 @@ topic: [electromagnetism, thermodynamics]
 subtopic: [resistivity, current, heat-transfer, magnetic-field, elasticity]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [calculus]
 format: scaffolded
 core_ideas: []

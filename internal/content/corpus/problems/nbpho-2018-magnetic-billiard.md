@@ -1,6 +1,6 @@
 ---
 id: nbpho-2018-magnetic-billiard
-difficulty_level: 6
+difficulty_level: 4
 source: nbpho
 native_id: "2018 P5 MAGNETIC BILLIARD"
 year: 2018

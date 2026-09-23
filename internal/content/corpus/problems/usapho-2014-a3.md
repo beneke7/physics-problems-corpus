@@ -9,7 +9,7 @@ topic: [relativity, mechanics]
 subtopic: [time-dilation, projectile-motion, relative-motion]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

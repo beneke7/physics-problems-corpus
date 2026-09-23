@@ -9,7 +9,7 @@ topic: [fluids, oscillations-and-waves]
 subtopic: [buoyancy, fluids, oscillations-mechanical, stability, rigid-body]
 difficulty: null
 difficulty_norm: 4
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [geometry-trigonometry]
 format: scaffolded
 core_ideas: []

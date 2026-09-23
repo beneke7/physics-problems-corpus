@@ -9,7 +9,7 @@ topic: [mechanics, thermodynamics]
 subtopic: [buoyancy, oscillations-mechanical, ideal-gas, adiabatic, force-balance]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 4
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: [kalda-thermo-idea10, kalda-mechanics-idea34]

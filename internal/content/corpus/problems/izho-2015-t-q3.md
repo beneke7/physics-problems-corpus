@@ -9,7 +9,7 @@ topic: [electromagnetism, oscillations-and-waves]
 subtopic: [magnetic-field, electric-field, induction, resistivity, oscillations-mechanical]
 difficulty: null
 difficulty_norm: 5
-difficulty_level: 6
+difficulty_level: 5
 math_tools: [calculus, differential-equations]
 format: scaffolded
 core_ideas: []
