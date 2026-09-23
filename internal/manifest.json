@@ -2985,28 +2985,37 @@
     },
     "aupho-2023-q15": {
       "problem": "content/corpus/problems/aupho-2023-q15.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/aupho/figures/aupho-2023-q14-fig01.png"
+      ]
     },
     "aupho-2023-q16": {
       "problem": "content/corpus/problems/aupho-2023-q16.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/aupho/figures/aupho-2023-q14-fig01.png"
+      ]
     },
     "aupho-2023-q17": {
       "problem": "content/corpus/problems/aupho-2023-q17.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/aupho/figures/aupho-2023-q14-fig01.png"
+      ]
     },
     "aupho-2023-q18": {
       "problem": "content/corpus/problems/aupho-2023-q18.md",
       "figures": [
+        "content/figures/aupho/figures/aupho-2023-q14-fig01.png",
         "content/figures/aupho/figures/aupho-2023-q18-fig01.png",
-        "content/figures/aupho/figures/aupho-2023-q18-fig02.png",
-        "content/figures/aupho/figures/aupho-2023-q18-fig03.png"
+        "content/figures/aupho/figures/aupho-2023-q18-fig02.png"
       ],
       "figure_count": 3,
       "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
@@ -3083,9 +3092,12 @@
     },
     "aupho-2023-q4-26": {
       "problem": "content/corpus/problems/aupho-2023-q4-26.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/aupho/aupho-2023-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/aupho/figures/aupho-2023-q18-fig03.png"
+      ]
     },
     "aupho-2023-q5-27": {
       "problem": "content/corpus/problems/aupho-2023-q5-27.md",
@@ -14475,7 +14487,10 @@
     "kalda-circuits-pr42": {
       "problem": "content/corpus/problems/kalda-circuits-pr42.md",
       "hu": "content/corpus/problems_hu/kalda-circuits-pr42.md",
-      "figure_count": 0
+      "figure_count": 1,
+      "figures": [
+        "content/figures/kalda/figures/kalda-circuits-pr42-fig1.png"
+      ]
     },
     "kalda-kinematics-pr42": {
       "problem": "content/corpus/problems/kalda-kinematics-pr42.md",
@@ -41065,9 +41080,12 @@
     },
     "usatst-2022-q1": {
       "problem": "content/corpus/problems/usatst-2022-q1.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/usatst/figures/usatst-2022-q4-fig01.png"
+      ]
     },
     "usatst-2022-q1-6": {
       "problem": "content/corpus/problems/usatst-2022-q1-6.md",
@@ -41083,9 +41101,12 @@
     },
     "usatst-2022-q2": {
       "problem": "content/corpus/problems/usatst-2022-q2.md",
-      "figure_count": 0,
+      "figure_count": 1,
       "solution": "content/corpus/solution_ocr/usatst/usatst-2022-e-s-mathpix.md",
-      "solution_documents": []
+      "solution_documents": [],
+      "figures": [
+        "content/figures/usatst/figures/usatst-2022-q4-3-fig01.png"
+      ]
     },
     "usatst-2022-q2-10": {
       "problem": "content/corpus/problems/usatst-2022-q2-10.md",
@@ -90927,8 +90948,8 @@
   "markdown_bytes": 83539607,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 24147,
-    "referenced_bytes": 1112099753,
+    "referenced_file_count": 24148,
+    "referenced_bytes": 1112118770,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }

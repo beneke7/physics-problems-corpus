@@ -24,6 +24,12 @@ solution_language: en
 techniques: [graphical-reduction]
 ---
 
+If $y=m x+b$ then a plot of $y$ versus $x$ is a straight line with slope $m$. For the next two questions, consider the equation
+
+$$
+l+l_{0}=\frac{2 n-1}{4} \frac{v_{s}}{f}
+$$
+
 Question 4
 What is the slope of a plot of $f$ versus $\frac{1}{l}$ ? Assume that the other quantities in the equation above are constant.
 
