@@ -1037,7 +1037,8 @@
       "figures": [
         "content/figures/200ppp/figures/200ppp-027.jpg"
       ],
-      "figure_count": 1
+      "figure_count": 1,
+      "hu": "content/corpus/problems_hu/200ppp-P072.md"
     },
     "200ppp-P073": {
       "problem": "content/corpus/problems/200ppp-P073.md",
@@ -17320,7 +17321,6 @@
     },
     "kevin-zhou-m3-p020": {
       "problem": "content/corpus/problems/kevin-zhou-m3-p020.md",
-      "hu": "content/corpus/problems_hu/kevin-zhou-m3-p020.md",
       "solution": "content/corpus/solution_ocr/kevin-zhou/kevin-zhou-m3sol-p020-mathpix.md",
       "solution_documents": [],
       "figure_count": 0
@@ -18958,17 +18958,23 @@
     "kevin-zhou-prelim-p039": {
       "problem": "content/corpus/problems/kevin-zhou-prelim-p039.md",
       "hu": "content/corpus/problems_hu/kevin-zhou-prelim-p039.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "figures": []
     },
     "kevin-zhou-prelim-p040": {
       "problem": "content/corpus/problems/kevin-zhou-prelim-p040.md",
       "hu": "content/corpus/problems_hu/kevin-zhou-prelim-p040.md",
-      "figure_count": 0
+      "figure_count": 0,
+      "figures": []
     },
     "kevin-zhou-prelim-p041": {
       "problem": "content/corpus/problems/kevin-zhou-prelim-p041.md",
       "hu": "content/corpus/problems_hu/kevin-zhou-prelim-p041.md",
-      "figure_count": 0
+      "figure_count": 2,
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig01.png",
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig02.png"
+      ]
     },
     "kevin-zhou-prelim-p043": {
       "problem": "content/corpus/problems/kevin-zhou-prelim-p043.md",
@@ -52098,6 +52104,12 @@
         "content/figures/kalda/figures/kalda-waveoptics-pr7-fig1.jpg"
       ]
     },
+    "content/corpus/problems/kevin-zhou-prelim-p041.md": {
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig01.png",
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig02.png"
+      ]
+    },
     "content/corpus/problems/komal-G579.md": {
       "figures": [
         "content/figures/komal/figures/komal-G579-fig1.gif"
@@ -57979,6 +57991,11 @@
         "content/figures/eotvos/figures/eotvos-2025-lander-legs-incline-fig1.jpg"
       ]
     },
+    "content/corpus/problems_hu/200ppp-P072.md": {
+      "figures": [
+        "content/figures/200ppp/figures/200ppp-027.jpg"
+      ]
+    },
     "content/corpus/problems_hu/escape-simson.md": {
       "figures": [
         "content/figures/nbpho/figures/nbpho-2022-escape-fig1.png"
@@ -59614,6 +59631,12 @@
     "content/corpus/problems_hu/kalda-waveoptics-pr7.md": {
       "figures": [
         "content/figures/kalda/figures/kalda-waveoptics-pr7-fig1.jpg"
+      ]
+    },
+    "content/corpus/problems_hu/kevin-zhou-prelim-p041.md": {
+      "figures": [
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig01.png",
+        "content/figures/kevin-zhou/figures/kevin-zhou-prelim-p041-fig02.png"
       ]
     },
     "content/corpus/problems_hu/komal-G579.md": {
@@ -90945,11 +90968,11 @@
     }
   },
   "markdown_file_count": 17439,
-  "markdown_bytes": 83539607,
+  "markdown_bytes": 83534572,
   "figure_policy": {
     "mirrored": true,
-    "referenced_file_count": 24148,
-    "referenced_bytes": 1112118770,
+    "referenced_file_count": 24155,
+    "referenced_bytes": 1102147646,
     "unresolved_reference_count": 2191,
     "reason": "Only locally resolvable image assets referenced by corpus Markdown were copied; source PDFs remain excluded."
   }

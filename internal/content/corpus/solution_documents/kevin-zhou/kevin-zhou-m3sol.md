@@ -6,7 +6,7 @@ language: en
 solution_type: author
 source_pdf: sources/kevin_zhou/site/handouts/M3Sol.pdf
 extraction_method: pdftotext-raw
-mapped_problems: [kevin-zhou-m3-ex002, kevin-zhou-m3-ex006, kevin-zhou-m3-ex007, kevin-zhou-m3-ex011, kevin-zhou-m3-ex012, kevin-zhou-m3-p004, kevin-zhou-m3-p006, kevin-zhou-m3-p012, kevin-zhou-m3-p016, kevin-zhou-m3-p020, kevin-zhou-m3-p024, kevin-zhou-m3-p028]
+mapped_problems: [200ppp-P072, kevin-zhou-m3-ex002, kevin-zhou-m3-ex006, kevin-zhou-m3-ex007, kevin-zhou-m3-ex011, kevin-zhou-m3-ex012, kevin-zhou-m3-p004, kevin-zhou-m3-p006, kevin-zhou-m3-p012, kevin-zhou-m3-p016, kevin-zhou-m3-p020, kevin-zhou-m3-p024, kevin-zhou-m3-p028]
 verification_status: pending
 provenance_note: "Source-provided solution document; preserved from sources/kevin_zhou/site/handouts/M3Sol.pdf."
 ---
